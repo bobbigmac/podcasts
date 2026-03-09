@@ -2,10 +2,10 @@
 
 - slug: `all-killa-no-filla`
 - source: `https://allkillanofilla.libsyn.com/rss`
-- fetched_at: `2026-02-21T00:11:50+00:00`
-- checked_at: `2026-02-21T00:11:50+00:00`
-- etag: `"dc0d98b668d1936a8499807d10536f08"`
-- last_modified: `Mon, 09 Feb 2026 06:34:39 GMT`
+- fetched_at: `2026-03-09T16:13:02+00:00`
+- checked_at: `2026-03-09T16:13:02+00:00`
+- etag: `"fccaf9e5aa1a6cd48e5ebca1327910e1"`
+- last_modified: `Mon, 09 Mar 2026 14:57:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://allkillanofilla.podomatic.com",
   "description": "Join comedians Rachel Fairburn and Kiri Pritchard - McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it.",
   "image_url": "https://static.libsyn.com/p/assets/f/7/f/0/f7f0f9cb9da4b5bb16c3140a3186d450/All_Killa_logo_copy.png",
-  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "fetched_at": "2026-03-09T16:13:02+00:00",
   "owners": [
     "Kiri Pritchard-McLean",
     "Rachel Fairburn"
@@ -42,7 +42,6 @@
       "itunes_duration": "55:31",
       "speakers": [
         "Rachel Fairburn",
-        "Wallace Keating",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -89,8 +88,6 @@
       "speakers": [
         "Emyr Owen Join",
         "Rachel Fairburn",
-        "Nadolig Llawen",
-        "Emyr Owen",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -162,8 +159,6 @@
       "itunes_duration": "01:07:06",
       "speakers": [
         "Rachel Fairburn",
-        "Kate Lawler",
-        "Julia Martha Thomas",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -235,8 +230,6 @@
       "speakers": [
         "Robert Berdella Join",
         "Rachel Fairburn",
-        "Robert Berdella",
-        "Prince Andrew",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -260,7 +253,6 @@
       "speakers": [
         "Robert Berdella Join",
         "Rachel Fairburn",
-        "Robert Berdella",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -304,8 +296,6 @@
       "itunes_duration": "01:02:11",
       "speakers": [
         "Rachel Fairburn",
-        "David Bain",
-        "Slip Away",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -352,7 +342,6 @@
       "speakers": [
         "David Bain",
         "Rachel Fairburn",
-        "Robbie Williams Monkey Movie",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -444,7 +433,6 @@
       "itunes_duration": "54:10",
       "speakers": [
         "Rachel Fairburn",
-        "Gilles Garnier",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -492,9 +480,6 @@
       "speakers": [
         "John Martin Scripps TW",
         "Rachel Fairburn",
-        "John Martin Scripps",
-        "Creme Eggs",
-        "lorry trips",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -611,7 +596,6 @@
       "speakers": [
         "Nicholas Rossi",
         "Rachel Fairburn",
-        "Arthur Knight",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -637,9 +621,6 @@
       "speakers": [
         "Nicholas Rossi Join",
         "Rachel Fairburn",
-        "Nicholas Rossi",
-        "Gary Neville",
-        "Steve McManaman",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -665,7 +646,6 @@
       "speakers": [
         "Nicholas Rossi Join",
         "Rachel Fairburn",
-        "Nicholas Rossi",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -714,8 +694,6 @@
       "speakers": [
         "John Sweeney",
         "Rachel Fairburn",
-        "Scalp Hunter",
-        "Scouse Joe",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -738,7 +716,6 @@
       "itunes_duration": "42:02",
       "speakers": [
         "Rachel Fairburn",
-        "Caroline Grills",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -782,7 +759,6 @@
       "itunes_duration": "52:40",
       "speakers": [
         "Rachel Fairburn",
-        "Björn Pétursson",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -805,8 +781,6 @@
       "speakers": [
         "Dana Sue Gray Join",
         "Rachel Fairburn",
-        "Dana Sue Gray",
-        "Hampstead Heath",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -830,8 +804,6 @@
       "speakers": [
         "Peter Lee",
         "Rachel Fairburn",
-        "Bruce George Peter Lee",
-        "Peter Dinsdale",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -855,7 +827,6 @@
       "itunes_duration": "01:25:01",
       "speakers": [
         "Rachel Fairburn",
-        "Dena Thompson gymnast",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -878,7 +849,6 @@
       "itunes_duration": "42:31",
       "speakers": [
         "Rachel Fairburn",
-        "Ted Kaczynski",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -900,7 +870,6 @@
       "itunes_duration": "01:04:03",
       "speakers": [
         "Rachel Fairburn",
-        "Ted Kaczynski",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -922,7 +891,6 @@
       "itunes_duration": "01:02:39",
       "speakers": [
         "Rachel Fairburn",
-        "Theodore John Kaczynski",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -944,7 +912,6 @@
       "itunes_duration": "01:14:52",
       "speakers": [
         "Rachel Fairburn",
-        "Lizzie Borden",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -967,8 +934,6 @@
       "itunes_duration": "01:02:31",
       "speakers": [
         "Rachel Fairburn",
-        "Lyda Southard",
-        "Jesus Christ",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -992,7 +957,6 @@
       "speakers": [
         "John Reginald",
         "Rachel Fairburn",
-        "Timothy Evans",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1018,7 +982,6 @@
       "speakers": [
         "John Reginald",
         "Rachel Fairburn",
-        "Breakdance Martin",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1043,7 +1006,6 @@
       "itunes_duration": "48:56",
       "speakers": [
         "Rachel Fairburn",
-        "Danny Robins",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1104,7 +1066,6 @@
       "speakers": [
         "Jimmy Saville",
         "Rachel Fairburn",
-        "Jimmy Savile",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1128,8 +1089,6 @@
       "speakers": [
         "Jimmy Saville",
         "Rachel Fairburn",
-        "Jimmy Savile",
-        "Bobby Ball",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1175,7 +1134,6 @@
       "speakers": [
         "Jimmy Saville",
         "Rachel Fairburn",
-        "Jimmy Savile",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1222,7 +1180,6 @@
       "speakers": [
         "Jimmy Saville",
         "Rachel Fairburn",
-        "Roald Dahl",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1245,7 +1202,6 @@
       "itunes_duration": "01:10:54",
       "speakers": [
         "Rachel Fairburn",
-        "Thomas Neil Cream",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1270,7 +1226,6 @@
       "speakers": [
         "Thomas Neill Cream Join",
         "Rachel Fairburn",
-        "Thomas Neil Cream",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1318,8 +1273,6 @@
       "itunes_duration": "57:25",
       "speakers": [
         "Rachel Fairburn",
-        "Charles Manson",
-        "Prince Harry",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1342,7 +1295,6 @@
       "itunes_duration": "01:10:14",
       "speakers": [
         "Rachel Fairburn",
-        "Charles Manson",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1365,7 +1317,6 @@
       "itunes_duration": "01:03:07",
       "speakers": [
         "Rachel Fairburn",
-        "Charles Manson",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1388,7 +1339,6 @@
       "itunes_duration": "01:06:19",
       "speakers": [
         "Rachel Fairburn",
-        "Charles Manson",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1410,7 +1360,6 @@
       "itunes_duration": "54:06",
       "speakers": [
         "Rachel Fairburn",
-        "Charles Manson",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1433,7 +1382,6 @@
       "itunes_duration": "46:43",
       "speakers": [
         "Rachel Fairburn",
-        "Charles Manson",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1456,8 +1404,6 @@
       "itunes_duration": "01:03:07",
       "speakers": [
         "Rachel Fairburn",
-        "Kristopher Hughes",
-        "Drag Queen",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1616,7 +1562,6 @@
       "itunes_duration": "56:45",
       "speakers": [
         "Rachel Fairburn",
-        "Ken Barlow",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1662,7 +1607,6 @@
       "speakers": [
         "John Wayne Glover",
         "Rachel Fairburn",
-        "John Wayne",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1687,7 +1631,6 @@
       "speakers": [
         "John Wayne Glover",
         "Rachel Fairburn",
-        "John Wayne",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1732,7 +1675,6 @@
       "itunes_duration": "01:00:11",
       "speakers": [
         "Rachel Fairburn",
-        "Guy Georges",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1754,7 +1696,6 @@
       "itunes_duration": "35:26",
       "speakers": [
         "Rachel Fairburn",
-        "Guy Georges",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1777,7 +1718,6 @@
       "speakers": [
         "Hughes Join",
         "Rachel Fairburn",
-        "Kristoffer Hughes",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1802,7 +1742,6 @@
       "itunes_duration": "59:37",
       "speakers": [
         "Rachel Fairburn",
-        "Siôn Corn",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1824,9 +1763,6 @@
       "itunes_duration": "42:53",
       "speakers": [
         "Rachel Fairburn",
-        "Francis Shea",
-        "Diana Doors",
-        "Highgate Cemetery",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1869,7 +1805,6 @@
       "itunes_duration": "46:24",
       "speakers": [
         "Rachel Fairburn",
-        "Pearly Kings",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1892,7 +1827,6 @@
       "speakers": [
         "Karl Denke",
         "Rachel Fairburn",
-        "Jeremy Clarkson",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1915,8 +1849,6 @@
       "itunes_duration": "55:09",
       "speakers": [
         "Rachel Fairburn",
-        "Carol Bundy",
-        "Doug Clark",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1940,8 +1872,6 @@
       "itunes_duration": "48:36",
       "speakers": [
         "Rachel Fairburn",
-        "Carol Bundy",
-        "Doug Clark",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1965,8 +1895,6 @@
       "itunes_duration": "59:45",
       "speakers": [
         "Rachel Fairburn",
-        "Carol Bundy",
-        "Doug Clark",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -1991,8 +1919,6 @@
       "itunes_duration": "57:49",
       "speakers": [
         "Rachel Fairburn",
-        "Carol Bundy",
-        "Doug Clark",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2016,8 +1942,6 @@
       "itunes_duration": "29:42",
       "speakers": [
         "Rachel Fairburn",
-        "Kenneth Bianchi",
-        "Angelo Buono",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2040,8 +1964,6 @@
       "itunes_duration": "01:00:31",
       "speakers": [
         "Rachel Fairburn",
-        "Kenneth Bianchi",
-        "Angelo Buono",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2064,8 +1986,6 @@
       "itunes_duration": "47:05",
       "speakers": [
         "Rachel Fairburn",
-        "Kenneth Bianchi",
-        "Angelo Buono",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2089,7 +2009,6 @@
       "speakers": [
         "Peter Manuel",
         "Rachel Fairburn",
-        "Kylie Minogue",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2112,7 +2031,6 @@
       "itunes_duration": "01:01:13",
       "speakers": [
         "Rachel Fairburn",
-        "Bart Simpson",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2158,7 +2076,6 @@
       "itunes_duration": "39:37",
       "speakers": [
         "Rachel Fairburn",
-        "Rodney Alcala",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2181,7 +2098,6 @@
       "itunes_duration": "50:31",
       "speakers": [
         "Rachel Fairburn",
-        "Rodney Alcala",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2204,8 +2120,6 @@
       "itunes_duration": "42:16",
       "speakers": [
         "Rachel Fairburn",
-        "Rodney Alcala",
-        "Cilla Black",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2229,7 +2143,6 @@
       "speakers": [
         "Guilia Tofana Join",
         "Rachel Fairburn",
-        "Guilia Tofana",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2253,8 +2166,6 @@
       "speakers": [
         "Adolph Laundenberg",
         "Rachel Fairburn",
-        "Adolph Theodore Laundenberg",
-        "Stephen Fry",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2277,9 +2188,6 @@
       "itunes_duration": "01:15:25",
       "speakers": [
         "Rachel Fairburn",
-        "Dean Corll",
-        "Wayne Henley",
-        "David Brooks",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2302,8 +2210,6 @@
       "itunes_duration": "54:03",
       "speakers": [
         "Rachel Fairburn",
-        "Mick Jagger",
-        "Noddy Holder",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2348,7 +2254,6 @@
       "itunes_duration": "58:02",
       "speakers": [
         "Rachel Fairburn",
-        "Keith Hunter Jesperson",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2371,7 +2276,6 @@
       "itunes_duration": "01:07:06",
       "speakers": [
         "Rachel Fairburn",
-        "Keith Hunter Jesperson",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2396,7 +2300,6 @@
       "speakers": [
         "Israel Keyes Join",
         "Rachel Fairburn",
-        "Israel Keyes",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2419,8 +2322,6 @@
       "itunes_duration": "01:12:56",
       "speakers": [
         "Rachel Fairburn",
-        "Herb Baumeister",
-        "John Leslie",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2465,7 +2366,6 @@
       "itunes_duration": "01:00:17",
       "speakers": [
         "Rachel Fairburn",
-        "Peter Sutcliffe",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2488,9 +2388,6 @@
       "itunes_duration": "52:55",
       "speakers": [
         "Rachel Fairburn",
-        "Peter Sutcliffe",
-        "Yorkshire Ripper",
-        "bin Mother",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2513,8 +2410,6 @@
       "itunes_duration": "01:09:43",
       "speakers": [
         "Rachel Fairburn",
-        "Peter Sutcliffe",
-        "John Humble",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2537,7 +2432,6 @@
       "itunes_duration": "01:15:53",
       "speakers": [
         "Rachel Fairburn",
-        "Peter Sutcliffe",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2560,8 +2454,6 @@
       "itunes_duration": "01:35:16",
       "speakers": [
         "Rachel Fairburn",
-        "Peter Sutcliffe",
-        "Yorkshire Ripper",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2584,8 +2476,6 @@
       "itunes_duration": "01:10:13",
       "speakers": [
         "Rachel Fairburn",
-        "Peter Sutcliffe",
-        "Yorkshire Ripper",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2654,8 +2544,6 @@
       "itunes_duration": "01:08:15",
       "speakers": [
         "Rachel Fairburn",
-        "Fritz Honka",
-        "Brian Blessed",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2697,7 +2585,6 @@
       "itunes_duration": "46:51",
       "speakers": [
         "Rachel Fairburn",
-        "Joseph DeAngelo",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2719,7 +2606,6 @@
       "itunes_duration": "01:02:51",
       "speakers": [
         "Rachel Fairburn",
-        "Joseph DeAngelo",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2742,7 +2628,6 @@
       "itunes_duration": "01:09:34",
       "speakers": [
         "Rachel Fairburn",
-        "Joseph DeAngelo",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2765,7 +2650,6 @@
       "itunes_duration": "54:03",
       "speakers": [
         "Rachel Fairburn",
-        "Michael Lupo",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2789,7 +2673,6 @@
       "speakers": [
         "Jack Unterweger Join",
         "Rachel Fairburn",
-        "Jack Unterweger",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2811,9 +2694,11 @@
       "enclosure_length": "69708846",
       "itunes_duration": "56:00",
       "speakers": [
-        "Rachel Fairburn",
-        "Deborah Frances-White",
-        "Kiri Pritchard-McLean"
+        "All Killa No Feminism",
+        "No Filla",
+        "Guilty Feminist",
+        "Kiri Pritchard-McLean",
+        "Rachel Fairburn"
       ],
       "topics": [
         "killa",
@@ -2834,7 +2719,6 @@
       "speakers": [
         "Albert DeSalvo",
         "Rachel Fairburn",
-        "Ken Bruce",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2858,7 +2742,6 @@
       "speakers": [
         "Albert DeSalvo",
         "Rachel Fairburn",
-        "Measuring Man",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2882,7 +2765,6 @@
       "speakers": [
         "Patrick Mackay Join",
         "Rachel Fairburn",
-        "Patrick Mackay",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2905,7 +2787,6 @@
       "itunes_duration": "48:37",
       "speakers": [
         "Rachel Fairburn",
-        "Delphine LaLaurie",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2927,7 +2808,6 @@
       "enclosure_length": "72982238",
       "itunes_duration": "01:12:30",
       "speakers": [
-        "Will Duggan",
         "Kiri Pritchard-McLean",
         "Rachel Fairburn"
       ],
@@ -2950,8 +2830,6 @@
       "itunes_duration": "01:02:25",
       "speakers": [
         "Rachel Fairburn",
-        "Trevor Hardy",
-        "Yorkshire Ripper",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2975,7 +2853,6 @@
       "speakers": [
         "Gordon Cummins",
         "Rachel Fairburn",
-        "Blackout Ripper",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -2998,7 +2875,6 @@
       "itunes_duration": "01:04:26",
       "speakers": [
         "Rachel Fairburn",
-        "Joachim Kroll",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3021,7 +2897,6 @@
       "itunes_duration": "01:01:02",
       "speakers": [
         "Rachel Fairburn",
-        "Nannie Doss",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3045,7 +2920,6 @@
       "speakers": [
         "Carey Stayner Join",
         "Rachel Fairburn",
-        "Carey Stayner",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3069,7 +2943,6 @@
       "speakers": [
         "John George Haigh Join",
         "Rachel Fairburn",
-        "dick make",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3115,8 +2988,6 @@
       "itunes_duration": "56:37",
       "speakers": [
         "Rachel Fairburn",
-        "Ed Gein",
-        "Vince Vaughn",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3138,7 +3009,6 @@
       "itunes_duration": "01:00:26",
       "speakers": [
         "Rachel Fairburn",
-        "Peter Tobin",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3185,7 +3055,6 @@
       "speakers": [
         "Paul John Knowles Join",
         "Rachel Fairburn",
-        "Paul John Knowles",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3210,7 +3079,6 @@
       "speakers": [
         "Bear Carson Join",
         "Rachel Fairburn",
-        "Bear Carson",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3280,10 +3148,10 @@
       "enclosure_length": "75659365",
       "itunes_duration": "58:28",
       "speakers": [
-        "Rachel Fairburn",
-        "Juana Barraza",
-        "Lady Killer",
-        "Kiri Pritchard-McLean"
+        "All Killa No Filla",
+        "Juana Barazza",
+        "Kiri Pritchard-McLean",
+        "Rachel Fairburn"
       ],
       "topics": [
         "killa",
@@ -3305,8 +3173,6 @@
       "itunes_duration": "01:11:28",
       "speakers": [
         "Rachel Fairburn",
-        "Donald Gaskins",
-        "Pee Wee",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3329,9 +3195,6 @@
       "itunes_duration": "01:22:07",
       "speakers": [
         "Rachel Fairburn",
-        "Andrew Cunanan",
-        "Gianni Versace",
-        "Liam Gallagher",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3354,8 +3217,6 @@
       "speakers": [
         "Joanna Dennehy Join",
         "Rachel Fairburn",
-        "Joanna Dennehy",
-        "Noel Gallagher",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3402,7 +3263,6 @@
       "speakers": [
         "Robert Pickton",
         "Rachel Fairburn",
-        "Pork Chop Rob",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3425,8 +3285,6 @@
       "itunes_duration": "48:08",
       "speakers": [
         "Rachel Fairburn",
-        "Graham Young",
-        "Teacup Poisoner",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3449,7 +3307,6 @@
       "itunes_duration": "45:28",
       "speakers": [
         "Rachel Fairburn",
-        "Richard Ramirez",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3472,7 +3329,6 @@
       "itunes_duration": "56:51",
       "speakers": [
         "Rachel Fairburn",
-        "Richard Ramirez",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3539,7 +3395,6 @@
       "itunes_duration": "55:47",
       "speakers": [
         "Rachel Fairburn",
-        "Aileen Wuornos",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3564,8 +3419,6 @@
       "speakers": [
         "David Berkowitz",
         "Rachel Fairburn",
-        "Andy Kaufman",
-        "Joe Coffee",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3614,7 +3467,6 @@
       "itunes_duration": "01:08:25",
       "speakers": [
         "Rachel Fairburn",
-        "Beverley Allitt",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3639,7 +3491,6 @@
       "speakers": [
         "Catherine Birnie Join",
         "Rachel Fairburn",
-        "Catherine Birnie",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3664,8 +3515,6 @@
       "itunes_duration": "52:19",
       "speakers": [
         "Rachel Fairburn",
-        "Richard Trenton Chase",
-        "Paul McCartney",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3690,7 +3539,6 @@
       "itunes_duration": "01:23:00",
       "speakers": [
         "Rachel Fairburn",
-        "Marcel Petiot",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3714,7 +3562,6 @@
       "itunes_duration": "01:37:03",
       "speakers": [
         "Rachel Fairburn",
-        "Danny Rolling",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3785,7 +3632,6 @@
       "itunes_duration": "01:00:03",
       "speakers": [
         "Rachel Fairburn",
-        "Rosemary West",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3810,7 +3656,6 @@
       "itunes_duration": "01:03:14",
       "speakers": [
         "Rachel Fairburn",
-        "Fred West",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3880,7 +3725,6 @@
       "itunes_duration": "01:13:51",
       "speakers": [
         "Rachel Fairburn",
-        "Andrei Chikatilo",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3904,7 +3748,6 @@
       "itunes_duration": "36:04",
       "speakers": [
         "Rachel Fairburn",
-        "Yang Xinhai",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3927,7 +3770,6 @@
       "itunes_duration": "54:57",
       "speakers": [
         "Rachel Fairburn",
-        "Carl Panzram",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3951,7 +3793,6 @@
       "speakers": [
         "Paul Bernardo",
         "Rachel Fairburn",
-        "Karla Homolka",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -3976,8 +3817,6 @@
       "itunes_duration": "01:03:45",
       "speakers": [
         "Rachel Fairburn",
-        "Dennis Nilsen",
-        "Jeffrey Dahmer",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -4001,7 +3840,6 @@
       "speakers": [
         "Ronald Dominique",
         "Rachel Fairburn",
-        "Ronald Dominque",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -4117,7 +3955,6 @@
       "speakers": [
         "Dolan Join",
         "Rachel Fairburn",
-        "Herman Mudgett",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -4143,11 +3980,6 @@
       "speakers": [
         "Peter Sutcliffe",
         "Rachel Fairburn",
-        "Ed Gamble",
-        "Yorkshire Ripper",
-        "Jimmy Saville",
-        "Les Battersby",
-        "Frank Bruno",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -4172,7 +4004,6 @@
       "itunes_duration": "49:42",
       "speakers": [
         "Rachel Fairburn",
-        "Ed Kemper",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -4194,8 +4025,6 @@
       "itunes_duration": "25:29",
       "speakers": [
         "Rachel Fairburn",
-        "Nikolai Dzhumagaliev",
-        "Metal Fang",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -4219,7 +4048,6 @@
       "itunes_duration": "43:36",
       "speakers": [
         "Rachel Fairburn",
-        "Gay Slayer",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -4359,7 +4187,6 @@
       "speakers": [
         "Leonard Lake Join",
         "Rachel Fairburn",
-        "Leonard Lake",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -4456,7 +4283,6 @@
       "speakers": [
         "John Wayne Gacy Join",
         "Rachel Fairburn",
-        "John Wayne Gacy",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -4480,7 +4306,6 @@
       "itunes_duration": "41:17",
       "speakers": [
         "Rachel Fairburn",
-        "Denis Rader",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -4502,7 +4327,6 @@
       "speakers": [
         "Ripper Join",
         "Rachel Fairburn",
-        "Prince William",
         "Kiri Pritchard-McLean"
       ],
       "topics": [
@@ -4519,193 +4343,193 @@
 
 ## Episodes (newest first)
 
-- 2026-02-09 — All Killa No Filla - Episode 128 - Minnie Wallace Walkup — speakers: Rachel Fairburn, Wallace Keating, Kiri Pritchard-McLean
+- 2026-02-09 — All Killa No Filla - Episode 128 - Minnie Wallace Walkup — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-01-19 — All Killa No Filla - Episode 127 - The London Burkers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2025-12-25 — All Killa No Filla - Episode 126 - Christmas Special - Reverend Emyr Owen — speakers: Emyr Owen Join, Rachel Fairburn, Nadolig Llawen, Emyr Owen, Kiri Pritchard-McLean
+- 2025-12-25 — All Killa No Filla - Episode 126 - Christmas Special - Reverend Emyr Owen — speakers: Emyr Owen Join, Rachel Fairburn, Kiri Pritchard-McLean
 - 2025-12-22 — All Killa No FIlla - Episode 125 - Part 2 - Charles Albright — speakers: Charles Albright, Rachel Fairburn, Kiri Pritchard-McLean
 - 2025-12-15 — All Killa No Filla - Episode 125 - Part 1 - Charles Albright — speakers: Charles Albright, Rachel Fairburn, Kiri Pritchard-McLean
-- 2025-11-24 — All Killa No Filla - Episode 124 - The Barnes Mystery — speakers: Rachel Fairburn, Kate Lawler, Julia Martha Thomas, Kiri Pritchard-McLean
+- 2025-11-24 — All Killa No Filla - Episode 124 - The Barnes Mystery — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2025-11-03 — All Killa No Filla - Episode 123 - Halloween Special Part 2 - Bonnie & Clyde — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2025-10-27 — All Killa No Filla - Episode 123 - Halloween Special Part 1 - Bonnie & Clyde — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2025-10-06 — All Killa No Filla - Episode 122 - Part 2 - Robert Berdella — speakers: Robert Berdella Join, Rachel Fairburn, Robert Berdella, Prince Andrew, Kiri Pritchard-McLean
-- 2025-09-15 — All Killa No Filla - Episode 122 - Part 1 - Robert Berdella — speakers: Robert Berdella Join, Rachel Fairburn, Robert Berdella, Kiri Pritchard-McLean
+- 2025-10-06 — All Killa No Filla - Episode 122 - Part 2 - Robert Berdella — speakers: Robert Berdella Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2025-09-15 — All Killa No Filla - Episode 122 - Part 1 - Robert Berdella — speakers: Robert Berdella Join, Rachel Fairburn, Kiri Pritchard-McLean
 - 2025-08-11 — All Killa No Filla - Episode 121 - Q&A special — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2025-07-14 — All Killa No Filla - Episode 120 - Part 3 - David Bain — speakers: Rachel Fairburn, David Bain, Slip Away, Kiri Pritchard-McLean
+- 2025-07-14 — All Killa No Filla - Episode 120 - Part 3 - David Bain — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2025-06-30 — All Killa No Filla - Episode 120 - Part 2 - David Bain — speakers: David Bain, Rachel Fairburn, Kiri Pritchard-McLean
-- 2025-06-16 — All Killa No Filla - Episode 120 - Part 1 - David Bain — speakers: David Bain, Rachel Fairburn, Robbie Williams Monkey Movie, Kiri Pritchard-McLean
+- 2025-06-16 — All Killa No Filla - Episode 120 - Part 1 - David Bain — speakers: David Bain, Rachel Fairburn, Kiri Pritchard-McLean
 - 2025-05-12 — All Killa No Filla - Episode 119 - Joseph Kappen — speakers: Joseph Kappen, Rachel Fairburn, Kiri Pritchard-McLean
 - 2025-03-24 — All Killa No Filla - Episode 118 - Part Two - Linda Hazzard — speakers: Linda Hazzard, Rachel Fairburn, Kiri Pritchard-McLean
 - 2025-03-17 — All Killa No Filla - Episode 118 - Part One - Linda Hazzard — speakers: Linda Hazzard, Rachel Fairburn, Kiri Pritchard-McLean
-- 2025-02-17 — All Killa No Filla - Episode 117 - Gilles Garnier — speakers: Rachel Fairburn, Gilles Garnier, Kiri Pritchard-McLean
+- 2025-02-17 — All Killa No Filla - Episode 117 - Gilles Garnier — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2025-01-27 — All Killa No Filla - Episode 116 - Part 2 - John Martin Scripps — speakers: John Martin Scripps, Rachel Fairburn, Kiri Pritchard-McLean
-- 2025-01-27 — All Killa No Filla - Episode 116 - Part 1 - John Martin Scripps — speakers: John Martin Scripps TW, Rachel Fairburn, John Martin Scripps, Creme Eggs, lorry trips, Kiri Pritchard-McLean
+- 2025-01-27 — All Killa No Filla - Episode 116 - Part 1 - John Martin Scripps — speakers: John Martin Scripps TW, Rachel Fairburn, Kiri Pritchard-McLean
 - 2024-12-25 — All Killa No Filla - Episode 115 - Christmas Special Part 1 - Alcatraz Prison — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2024-12-25 — All Killa No Filla - Episode 115 - Christmas Special Part 2 - Alcatraz Prison — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2024-12-06 — All Killa No Filla - Bonus Episode - Special Announcement! — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2024-11-18 — All Killa No Filla - Episode 114 - Louisa May Merrifield — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2024-10-31 — All Killa No Filla - Episode 113 - Halloween Special Part 3 - Nicholas Rossi — speakers: Nicholas Rossi, Rachel Fairburn, Arthur Knight, Kiri Pritchard-McLean
-- 2024-10-31 — All Killa No Filla - Episode 113 - Halloween Special Part 2 - Nicholas Rossi — speakers: Nicholas Rossi Join, Rachel Fairburn, Nicholas Rossi, Gary Neville, Steve McManaman, Kiri Pritchard-McLean
-- 2024-10-31 — All Killa No Filla - Episode 113 - Halloween Special Part 1 - Nicholas Rossi — speakers: Nicholas Rossi Join, Rachel Fairburn, Nicholas Rossi, Kiri Pritchard-McLean
+- 2024-10-31 — All Killa No Filla - Episode 113 - Halloween Special Part 3 - Nicholas Rossi — speakers: Nicholas Rossi, Rachel Fairburn, Kiri Pritchard-McLean
+- 2024-10-31 — All Killa No Filla - Episode 113 - Halloween Special Part 2 - Nicholas Rossi — speakers: Nicholas Rossi Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2024-10-31 — All Killa No Filla - Episode 113 - Halloween Special Part 1 - Nicholas Rossi — speakers: Nicholas Rossi Join, Rachel Fairburn, Kiri Pritchard-McLean
 - 2024-10-14 — All Killa No Filla - Bonus Episode - Peter Stumpp — speakers: Peter Stumpp, Rachel Fairburn, Kiri Pritchard-McLean
-- 2024-09-16 — All Killa No Filla - Episode 112 - John Sweeney — speakers: John Sweeney, Rachel Fairburn, Scalp Hunter, Scouse Joe, Kiri Pritchard-McLean
-- 2024-08-12 — All Killa No Filla - Episode 111 - Caroline Grills — speakers: Rachel Fairburn, Caroline Grills, Kiri Pritchard-McLean
+- 2024-09-16 — All Killa No Filla - Episode 112 - John Sweeney — speakers: John Sweeney, Rachel Fairburn, Kiri Pritchard-McLean
+- 2024-08-12 — All Killa No Filla - Episode 111 - Caroline Grills — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2024-07-15 — All Killa No Filla - Episode 110 - Q&A Special — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2024-06-17 — All Killa No Filla - Episode 109 - Axlar Björn — speakers: Rachel Fairburn, Björn Pétursson, Kiri Pritchard-McLean
-- 2024-05-13 — All Killa No Filla - Episode 108 - Dana Sue Gray — speakers: Dana Sue Gray Join, Rachel Fairburn, Dana Sue Gray, Hampstead Heath, Kiri Pritchard-McLean
-- 2024-04-15 — All Killa No Filla - Episode 107 - Bruce George Peter Lee — speakers: Peter Lee, Rachel Fairburn, Bruce George Peter Lee, Peter Dinsdale, Kiri Pritchard-McLean
-- 2024-03-11 — All Killa No Filla - Episode 106 - Dena Thompson — speakers: Rachel Fairburn, Dena Thompson gymnast, Kiri Pritchard-McLean
-- 2024-02-19 — All Killa No Filla - Episode 105 - Part 3 - The Unabomber — speakers: Rachel Fairburn, Ted Kaczynski, Kiri Pritchard-McLean
-- 2024-02-05 — All Killa No Filla - Episode 105 - Part 2 - The Unabomber — speakers: Rachel Fairburn, Ted Kaczynski, Kiri Pritchard-McLean
-- 2024-01-22 — All Killa No Filla - Episode 105 - Part 1 - The Unabomber — speakers: Rachel Fairburn, Theodore John Kaczynski, Kiri Pritchard-McLean
-- 2023-12-25 — All Killa No Filla - Episode 104 - Lizzie Borden — speakers: Rachel Fairburn, Lizzie Borden, Kiri Pritchard-McLean
-- 2023-11-20 — All Killa No Filla - Episode 103 - Lyda Southard — speakers: Rachel Fairburn, Lyda Southard, Jesus Christ, Kiri Pritchard-McLean
-- 2023-10-30 — All Killa No Filla - Episode 102 - Part 2 - John Reginald Halliday Christie — speakers: John Reginald, Rachel Fairburn, Timothy Evans, Kiri Pritchard-McLean
-- 2023-10-16 — All Killa No Filla - Episode 102 - Part 1 - John Reginald Halliday Christie — speakers: John Reginald, Rachel Fairburn, Breakdance Martin, Kiri Pritchard-McLean
-- 2023-09-18 — All Killa No Filla - Episode 101 - Part 2 - Q&A — speakers: Rachel Fairburn, Danny Robins, Kiri Pritchard-McLean
+- 2024-06-17 — All Killa No Filla - Episode 109 - Axlar Björn — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2024-05-13 — All Killa No Filla - Episode 108 - Dana Sue Gray — speakers: Dana Sue Gray Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2024-04-15 — All Killa No Filla - Episode 107 - Bruce George Peter Lee — speakers: Peter Lee, Rachel Fairburn, Kiri Pritchard-McLean
+- 2024-03-11 — All Killa No Filla - Episode 106 - Dena Thompson — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2024-02-19 — All Killa No Filla - Episode 105 - Part 3 - The Unabomber — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2024-02-05 — All Killa No Filla - Episode 105 - Part 2 - The Unabomber — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2024-01-22 — All Killa No Filla - Episode 105 - Part 1 - The Unabomber — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2023-12-25 — All Killa No Filla - Episode 104 - Lizzie Borden — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2023-11-20 — All Killa No Filla - Episode 103 - Lyda Southard — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2023-10-30 — All Killa No Filla - Episode 102 - Part 2 - John Reginald Halliday Christie — speakers: John Reginald, Rachel Fairburn, Kiri Pritchard-McLean
+- 2023-10-16 — All Killa No Filla - Episode 102 - Part 1 - John Reginald Halliday Christie — speakers: John Reginald, Rachel Fairburn, Kiri Pritchard-McLean
+- 2023-09-18 — All Killa No Filla - Episode 101 - Part 2 - Q&A — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2023-09-04 — All Killa No Filla - Episode 101 - Part 1 - Q&A — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2023-07-29 — ANNOUNCEMENT — speakers: Kiri Pritchard-McLean, Rachel Fairburn
-- 2023-06-27 — All Killa No Filla - Episode 100 - Part 5 - Jimmy Saville — speakers: Jimmy Saville, Rachel Fairburn, Jimmy Savile, Kiri Pritchard-McLean
-- 2023-06-11 — All Killa No Filla - Episode 100 - Part 4 - Jimmy Saville — speakers: Jimmy Saville, Rachel Fairburn, Jimmy Savile, Bobby Ball, Kiri Pritchard-McLean
+- 2023-06-27 — All Killa No Filla - Episode 100 - Part 5 - Jimmy Saville — speakers: Jimmy Saville, Rachel Fairburn, Kiri Pritchard-McLean
+- 2023-06-11 — All Killa No Filla - Episode 100 - Part 4 - Jimmy Saville — speakers: Jimmy Saville, Rachel Fairburn, Kiri Pritchard-McLean
 - 2023-05-18 — LIVE SHOW ANNOUNCEMENT - TEN YEAR ANNIVERSARY SHOW — speakers: Jimmy Saville, Kiri Pritchard-McLean, Rachel Fairburn
-- 2023-05-17 — All Killa No Filla - Episode 100 - Part 3 - Jimmy Saville — speakers: Jimmy Saville, Rachel Fairburn, Jimmy Savile, Kiri Pritchard-McLean
+- 2023-05-17 — All Killa No Filla - Episode 100 - Part 3 - Jimmy Saville — speakers: Jimmy Saville, Rachel Fairburn, Kiri Pritchard-McLean
 - 2023-05-04 — All Killa No Filla - Episode 100 - Part 2 - Jimmy Saville — speakers: Jimmy Saville, Rachel Fairburn, Kiri Pritchard-McLean
-- 2023-04-28 — All Killa No Filla - Episode 100 - Part 1 - Jimmy Saville — speakers: Jimmy Saville, Rachel Fairburn, Roald Dahl, Kiri Pritchard-McLean
-- 2023-03-21 — All Killa No Filla - Episode 99 - Part 2 - Thomas Neill Cream — speakers: Rachel Fairburn, Thomas Neil Cream, Kiri Pritchard-McLean
-- 2023-03-21 — All Killa No Filla - Episode 99 -Part 1- Thomas Neill Cream — speakers: Thomas Neill Cream Join, Rachel Fairburn, Thomas Neil Cream, Kiri Pritchard-McLean
+- 2023-04-28 — All Killa No Filla - Episode 100 - Part 1 - Jimmy Saville — speakers: Jimmy Saville, Rachel Fairburn, Kiri Pritchard-McLean
+- 2023-03-21 — All Killa No Filla - Episode 99 - Part 2 - Thomas Neill Cream — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2023-03-21 — All Killa No Filla - Episode 99 -Part 1- Thomas Neill Cream — speakers: Thomas Neill Cream Join, Rachel Fairburn, Kiri Pritchard-McLean
 - 2023-02-01 — All Killa No Filla - Episode 98 - Kieran Patrick Kelly — speakers: Kieran Patrick Kelly, Rachel Fairburn, Kiri Pritchard-McLean
-- 2023-01-11 — All Killa No Filla - Episode 97 - Charles Manson - Part 6 — speakers: Rachel Fairburn, Charles Manson, Prince Harry, Kiri Pritchard-McLean
-- 2023-01-11 — All Killa No Filla - Episode 97 - Charles Manson - Part 5 — speakers: Rachel Fairburn, Charles Manson, Kiri Pritchard-McLean
-- 2023-01-01 — All Killa No Filla - Episode 97 - Charles Manson - Part 4 — speakers: Rachel Fairburn, Charles Manson, Kiri Pritchard-McLean
-- 2022-12-28 — All Killa No Filla - Episode 97 -Charles Manson - Part 3 — speakers: Rachel Fairburn, Charles Manson, Kiri Pritchard-McLean
-- 2022-12-23 — All Killa No Filla - Episode 97 - Charles Manson - Part 2 — speakers: Rachel Fairburn, Charles Manson, Kiri Pritchard-McLean
-- 2022-12-19 — All Killa No Filla - Episode 97 - Charles Manson - Part 1 — speakers: Rachel Fairburn, Charles Manson, Kiri Pritchard-McLean
-- 2022-12-09 — All Killa No Filla - Episode 96 - BONUS EPISODE - Anomalies Live — speakers: Rachel Fairburn, Kristopher Hughes, Drag Queen, Kiri Pritchard-McLean
+- 2023-01-11 — All Killa No Filla - Episode 97 - Charles Manson - Part 6 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2023-01-11 — All Killa No Filla - Episode 97 - Charles Manson - Part 5 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2023-01-01 — All Killa No Filla - Episode 97 - Charles Manson - Part 4 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2022-12-28 — All Killa No Filla - Episode 97 -Charles Manson - Part 3 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2022-12-23 — All Killa No Filla - Episode 97 - Charles Manson - Part 2 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2022-12-19 — All Killa No Filla - Episode 97 - Charles Manson - Part 1 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2022-12-09 — All Killa No Filla - Episode 96 - BONUS EPISODE - Anomalies Live — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2022-11-29 — All Killa No Filla - Episode 95 - Pedro Rodrigues Filho — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2022-10-31 — All Killa No Filla - Episode 94 - The Thames Torso Murders — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2022-10-24 — All Killa No Filla - Episode 93 - Amelia Dyer — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2022-09-15 — All Killa No Filla - Episode 92 - Gordon Stewart Northcott — speakers: Gordon Stewart Northcott, Rachel Fairburn, Kiri Pritchard-McLean
 - 2022-08-13 — All Killa No Filla - Episode 91 - Malcolm Webster — speakers: Malcolm Webster, Rachel Fairburn, Kiri Pritchard-McLean
 - 2022-06-22 — All Killa No Filla - Episode 90 - Sofia Zhukova — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2022-05-11 — All Killa No Filla - Episode 89 - Part 2 - The Monster of Florence — speakers: Rachel Fairburn, Ken Barlow, Kiri Pritchard-McLean
+- 2022-05-11 — All Killa No Filla - Episode 89 - Part 2 - The Monster of Florence — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2022-05-11 — All Killa No Filla - Episode 89 - Part 1 - The Monster of Florence — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2022-04-15 — All Killa No Filla - Episode 88 - Part 2 - John Wayne Glover — speakers: John Wayne Glover, Rachel Fairburn, John Wayne, Kiri Pritchard-McLean
-- 2022-04-15 — All Killa No Filla - Episode 88 - Part 1 - John Wayne Glover — speakers: John Wayne Glover, Rachel Fairburn, John Wayne, Kiri Pritchard-McLean
+- 2022-04-15 — All Killa No Filla - Episode 88 - Part 2 - John Wayne Glover — speakers: John Wayne Glover, Rachel Fairburn, Kiri Pritchard-McLean
+- 2022-04-15 — All Killa No Filla - Episode 88 - Part 1 - John Wayne Glover — speakers: John Wayne Glover, Rachel Fairburn, Kiri Pritchard-McLean
 - 2022-02-24 — All Killa No Filla - Episode 87 - Q&A Special — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2022-02-10 — All Killa No Filla - Episode 86- Part 2 - Guy Georges — speakers: Rachel Fairburn, Guy Georges, Kiri Pritchard-McLean
-- 2022-02-10 — All Killa No Filla - Episode 86- Part 1 - Guy Georges — speakers: Rachel Fairburn, Guy Georges, Kiri Pritchard-McLean
-- 2022-01-02 — All Killa No Filla - Episode 85 - New Year Special with a Kristoffer Hughes — speakers: Hughes Join, Rachel Fairburn, Kristoffer Hughes, Kiri Pritchard-McLean
-- 2021-12-25 — All Killa No Filla - Episode 84 - Part 4 - The Krays — speakers: Rachel Fairburn, Siôn Corn, Kiri Pritchard-McLean
-- 2021-12-25 — All Killa No Filla - Episode 84 - Part 3 - The Krays — speakers: Rachel Fairburn, Francis Shea, Diana Doors, Highgate Cemetery, Kiri Pritchard-McLean
+- 2022-02-10 — All Killa No Filla - Episode 86- Part 2 - Guy Georges — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2022-02-10 — All Killa No Filla - Episode 86- Part 1 - Guy Georges — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2022-01-02 — All Killa No Filla - Episode 85 - New Year Special with a Kristoffer Hughes — speakers: Hughes Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-12-25 — All Killa No Filla - Episode 84 - Part 4 - The Krays — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-12-25 — All Killa No Filla - Episode 84 - Part 3 - The Krays — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2021-12-24 — All Killa No Filla - Episode 84 - Part 2 - The Krays — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2021-12-24 — All Killa No Filla - Episode 84 - Part 1 - The Krays — speakers: Rachel Fairburn, Pearly Kings, Kiri Pritchard-McLean
-- 2021-12-17 — All Killa No Filla - Episode 83 - Karl Denke — speakers: Karl Denke, Rachel Fairburn, Jeremy Clarkson, Kiri Pritchard-McLean
-- 2021-10-29 — All Killa No Filla - Episode 82 - Part 4 - The Sunset Strip Killers — speakers: Rachel Fairburn, Carol Bundy, Doug Clark, Kiri Pritchard-McLean
-- 2021-10-15 — All Killa No Filla - Episode 82- Part 3 - The Sunset Strip Killers — speakers: Rachel Fairburn, Carol Bundy, Doug Clark, Kiri Pritchard-McLean
-- 2021-10-06 — Title All Killa No Filla - Episode 82- Part 2 - The Sunset Strip Killers — speakers: Rachel Fairburn, Carol Bundy, Doug Clark, Kiri Pritchard-McLean
-- 2021-09-29 — All Killa No Filla - Episode 82- Part 1 - The Sunset Strip Killers — speakers: Rachel Fairburn, Carol Bundy, Doug Clark, Kiri Pritchard-McLean
-- 2021-08-30 — All Killa No Filla - Episode 81 - Part 3 - The Hillside Stranglers — speakers: Rachel Fairburn, Kenneth Bianchi, Angelo Buono, Kiri Pritchard-McLean
-- 2021-08-29 — All Killa No Filla - Episode 81 - Part 2 - The Hillside Stranglers — speakers: Rachel Fairburn, Kenneth Bianchi, Angelo Buono, Kiri Pritchard-McLean
-- 2021-08-09 — All Killa No Filla - Episode 81 - Part 1 - The Hillside Stranglers — speakers: Rachel Fairburn, Kenneth Bianchi, Angelo Buono, Kiri Pritchard-McLean
-- 2021-06-26 — All Killa No Filla - Episode 80 - Peter Manuel — speakers: Peter Manuel, Rachel Fairburn, Kylie Minogue, Kiri Pritchard-McLean
-- 2021-05-14 — All Killa No Filla - Episode 79 - Gilles de Rais — speakers: Rachel Fairburn, Bart Simpson, Kiri Pritchard-McLean
+- 2021-12-24 — All Killa No Filla - Episode 84 - Part 1 - The Krays — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-12-17 — All Killa No Filla - Episode 83 - Karl Denke — speakers: Karl Denke, Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-10-29 — All Killa No Filla - Episode 82 - Part 4 - The Sunset Strip Killers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-10-15 — All Killa No Filla - Episode 82- Part 3 - The Sunset Strip Killers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-10-06 — Title All Killa No Filla - Episode 82- Part 2 - The Sunset Strip Killers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-09-29 — All Killa No Filla - Episode 82- Part 1 - The Sunset Strip Killers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-08-30 — All Killa No Filla - Episode 81 - Part 3 - The Hillside Stranglers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-08-29 — All Killa No Filla - Episode 81 - Part 2 - The Hillside Stranglers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-08-09 — All Killa No Filla - Episode 81 - Part 1 - The Hillside Stranglers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-06-26 — All Killa No Filla - Episode 80 - Peter Manuel — speakers: Peter Manuel, Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-05-14 — All Killa No Filla - Episode 79 - Gilles de Rais — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2021-04-28 — All Killa No Filla - Episode 78 - Mary Ann Cotton — speakers: Mary Ann Cotton, Rachel Fairburn, Kiri Pritchard-McLean
-- 2021-03-22 — All Killa No Filla - Episode 77 - Rodney Alcala - Part 3 — speakers: Rachel Fairburn, Rodney Alcala, Kiri Pritchard-McLean
-- 2021-03-05 — All Killa No Filla - Episode 77 - Rodney Alcala - Part 2 — speakers: Rachel Fairburn, Rodney Alcala, Kiri Pritchard-McLean
-- 2021-02-14 — All Killa No Filla - Episode 77 - Rodney Alcala - Part 1 — speakers: Rachel Fairburn, Rodney Alcala, Cilla Black, Kiri Pritchard-McLean
-- 2021-01-25 — All Killa No Filla - Episode 76 - Guilia Tofana — speakers: Guilia Tofana Join, Rachel Fairburn, Guilia Tofana, Kiri Pritchard-McLean
-- 2020-12-24 — All Killa No Filla - Episode 75 - Adolph Laundenberg — speakers: Adolph Laundenberg, Rachel Fairburn, Adolph Theodore Laundenberg, Stephen Fry, Kiri Pritchard-McLean
-- 2020-11-30 — All Killa No Filla - Episode 74 - Dean Corll - Part 3 — speakers: Rachel Fairburn, Dean Corll, Wayne Henley, David Brooks, Kiri Pritchard-McLean
-- 2020-11-22 — All Killa No Filla - Episode 74 - Dean Corll - Part 2 — speakers: Rachel Fairburn, Mick Jagger, Noddy Holder, Kiri Pritchard-McLean
+- 2021-03-22 — All Killa No Filla - Episode 77 - Rodney Alcala - Part 3 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-03-05 — All Killa No Filla - Episode 77 - Rodney Alcala - Part 2 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-02-14 — All Killa No Filla - Episode 77 - Rodney Alcala - Part 1 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2021-01-25 — All Killa No Filla - Episode 76 - Guilia Tofana — speakers: Guilia Tofana Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2020-12-24 — All Killa No Filla - Episode 75 - Adolph Laundenberg — speakers: Adolph Laundenberg, Rachel Fairburn, Kiri Pritchard-McLean
+- 2020-11-30 — All Killa No Filla - Episode 74 - Dean Corll - Part 3 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2020-11-22 — All Killa No Filla - Episode 74 - Dean Corll - Part 2 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2020-11-14 — All Killa No Filla - Episode 74 - Dean Corll - Part 1 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2020-10-11 — All Killa No Filla - Episode 73 - Keith Hunter Jesperson- Part 2 — speakers: Rachel Fairburn, Keith Hunter Jesperson, Kiri Pritchard-McLean
-- 2020-09-27 — All Killa No Filla - Episode 73 - Keith Hunter Jesperson - Part 1 — speakers: Rachel Fairburn, Keith Hunter Jesperson, Kiri Pritchard-McLean
-- 2020-08-22 — All Killa No Filla - Episode 72 - Israel Keyes — speakers: Israel Keyes Join, Rachel Fairburn, Israel Keyes, Kiri Pritchard-McLean
-- 2020-07-26 — All Killa No Filla - Episode 71 - Herb Baumeister — speakers: Rachel Fairburn, Herb Baumeister, John Leslie, Kiri Pritchard-McLean
+- 2020-10-11 — All Killa No Filla - Episode 73 - Keith Hunter Jesperson- Part 2 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2020-09-27 — All Killa No Filla - Episode 73 - Keith Hunter Jesperson - Part 1 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2020-08-22 — All Killa No Filla - Episode 72 - Israel Keyes — speakers: Israel Keyes Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2020-07-26 — All Killa No Filla - Episode 71 - Herb Baumeister — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2020-07-08 — All Killa No Filla - Episode 70 - Baba Anujka — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2020-05-26 — All Killa No Filla - Episode 69 - Peter Sutcliffe - Part 6 — speakers: Rachel Fairburn, Peter Sutcliffe, Kiri Pritchard-McLean
-- 2020-05-22 — All Killa No Filla - Episode 69 - Peter Sutcliffe - Part 5 — speakers: Rachel Fairburn, Peter Sutcliffe, Yorkshire Ripper, bin Mother, Kiri Pritchard-McLean
-- 2020-05-07 — All Killa No Filla - Episode 69 - Peter Sutcliffe - Part 4 — speakers: Rachel Fairburn, Peter Sutcliffe, John Humble, Kiri Pritchard-McLean
-- 2020-04-23 — All Killa No Filla - Episode 69 - Peter Sutcliffe - Part 3 — speakers: Rachel Fairburn, Peter Sutcliffe, Kiri Pritchard-McLean
-- 2020-04-11 — All Killa No Filla - Episode 69 - Peter Sutcliffe - Part 2 — speakers: Rachel Fairburn, Peter Sutcliffe, Yorkshire Ripper, Kiri Pritchard-McLean
-- 2020-03-25 — All Killa No Filla - Episode 69 - Peter Sutcliffe - Part 1 — speakers: Rachel Fairburn, Peter Sutcliffe, Yorkshire Ripper, Kiri Pritchard-McLean
+- 2020-05-26 — All Killa No Filla - Episode 69 - Peter Sutcliffe - Part 6 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2020-05-22 — All Killa No Filla - Episode 69 - Peter Sutcliffe - Part 5 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2020-05-07 — All Killa No Filla - Episode 69 - Peter Sutcliffe - Part 4 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2020-04-23 — All Killa No Filla - Episode 69 - Peter Sutcliffe - Part 3 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2020-04-11 — All Killa No Filla - Episode 69 - Peter Sutcliffe - Part 2 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2020-03-25 — All Killa No Filla - Episode 69 - Peter Sutcliffe - Part 1 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2020-03-21 — All Killa No Filla - Bonus Episode - Healthcare Special — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2020-03-15 — All Killa No Filla-Episode 68-Mary Elizabeth Wilson — speakers: Mary Elizabeth Wilson, Rachel Fairburn, Kiri Pritchard-McLean
-- 2020-02-05 — All Killa No Filla- Episode 67 - Fritz Honka — speakers: Rachel Fairburn, Fritz Honka, Brian Blessed, Kiri Pritchard-McLean
+- 2020-02-05 — All Killa No Filla- Episode 67 - Fritz Honka — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2020-01-29 — LIVE SHOW ANNOUNCEMENT — speakers: Edinburgh Fringe, Kiri Pritchard-McLean, Rachel Fairburn
-- 2020-01-13 — All Killa No Filla- Episode 66 - Part 3 - Joseph DeAngelo — speakers: Rachel Fairburn, Joseph DeAngelo, Kiri Pritchard-McLean
-- 2020-01-01 — All Killa No Filla-Episode 66-Part 2-Joseph DeAngelo — speakers: Rachel Fairburn, Joseph DeAngelo, Kiri Pritchard-McLean
-- 2019-12-25 — All Killa no Filla - Episode 66 - Part 1 - Joseph Deangelo — speakers: Rachel Fairburn, Joseph DeAngelo, Kiri Pritchard-McLean
-- 2019-12-11 — All Killa No Filla-Episode 65-Michael Lupo — speakers: Rachel Fairburn, Michael Lupo, Kiri Pritchard-McLean
-- 2019-10-30 — All Killa No Filla-Episode 64-Jack Unterweger — speakers: Jack Unterweger Join, Rachel Fairburn, Jack Unterweger, Kiri Pritchard-McLean
-- 2019-09-25 — All Killa No Feminism-Bonus Episode — speakers: Rachel Fairburn, Deborah Frances-White, Kiri Pritchard-McLean
-- 2019-09-10 — All Killa No Filla-Episode 63-Part Two-Albert DeSalvo — speakers: Albert DeSalvo, Rachel Fairburn, Ken Bruce, Kiri Pritchard-McLean
-- 2019-09-10 — All Killa No Filla-Episode 63-Part One-Albert DeSalvo — speakers: Albert DeSalvo, Rachel Fairburn, Measuring Man, Kiri Pritchard-McLean
-- 2019-08-11 — All Killa No Filla - Episode 62 - Patrick Mackay — speakers: Patrick Mackay Join, Rachel Fairburn, Patrick Mackay, Kiri Pritchard-McLean
-- 2019-07-03 — All Killa No Filla-Episode 61-Delphine LaLaurie — speakers: Rachel Fairburn, Delphine LaLaurie, Kiri Pritchard-McLean
-- 2019-05-28 — All Killa No Filla-Episode 60-Bonus Q&A Edition — speakers: Will Duggan, Kiri Pritchard-McLean, Rachel Fairburn
-- 2019-05-08 — All Killa No Filla-Episode 59-Trevor Hardy — speakers: Rachel Fairburn, Trevor Hardy, Yorkshire Ripper, Kiri Pritchard-McLean
-- 2019-04-07 — All Killa No Filla-Episode 58-Gordon Cummins — speakers: Gordon Cummins, Rachel Fairburn, Blackout Ripper, Kiri Pritchard-McLean
-- 2019-03-12 — All Killa No Filla-Episode 57-Joachim Kroll — speakers: Rachel Fairburn, Joachim Kroll, Kiri Pritchard-McLean
-- 2019-02-14 — All Killa No Filla-Episode 56-Nannie Doss — speakers: Rachel Fairburn, Nannie Doss, Kiri Pritchard-McLean
-- 2019-01-24 — All Killa No Filla-Episode 55-Carey Stayner — speakers: Carey Stayner Join, Rachel Fairburn, Carey Stayner, Kiri Pritchard-McLean
-- 2019-01-01 — All Killa No Filla-Episode 54-John George Haigh — speakers: John George Haigh Join, Rachel Fairburn, dick make, Kiri Pritchard-McLean
+- 2020-01-13 — All Killa No Filla- Episode 66 - Part 3 - Joseph DeAngelo — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2020-01-01 — All Killa No Filla-Episode 66-Part 2-Joseph DeAngelo — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-12-25 — All Killa no Filla - Episode 66 - Part 1 - Joseph Deangelo — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-12-11 — All Killa No Filla-Episode 65-Michael Lupo — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-10-30 — All Killa No Filla-Episode 64-Jack Unterweger — speakers: Jack Unterweger Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-09-25 — All Killa No Feminism-Bonus Episode — speakers: All Killa No Feminism, No Filla, Guilty Feminist, Kiri Pritchard-McLean, Rachel Fairburn
+- 2019-09-10 — All Killa No Filla-Episode 63-Part Two-Albert DeSalvo — speakers: Albert DeSalvo, Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-09-10 — All Killa No Filla-Episode 63-Part One-Albert DeSalvo — speakers: Albert DeSalvo, Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-08-11 — All Killa No Filla - Episode 62 - Patrick Mackay — speakers: Patrick Mackay Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-07-03 — All Killa No Filla-Episode 61-Delphine LaLaurie — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-05-28 — All Killa No Filla-Episode 60-Bonus Q&A Edition — speakers: Kiri Pritchard-McLean, Rachel Fairburn
+- 2019-05-08 — All Killa No Filla-Episode 59-Trevor Hardy — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-04-07 — All Killa No Filla-Episode 58-Gordon Cummins — speakers: Gordon Cummins, Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-03-12 — All Killa No Filla-Episode 57-Joachim Kroll — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-02-14 — All Killa No Filla-Episode 56-Nannie Doss — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-01-24 — All Killa No Filla-Episode 55-Carey Stayner — speakers: Carey Stayner Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2019-01-01 — All Killa No Filla-Episode 54-John George Haigh — speakers: John George Haigh Join, Rachel Fairburn, Kiri Pritchard-McLean
 - 2018-11-30 — All Killa No Filla-Episode 53-Burke and Hare — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2018-10-30 — All Killa No Filla-Episode 52-Ed Gein-4th Birthday Bonus Episode — speakers: Rachel Fairburn, Ed Gein, Vince Vaughn, Kiri Pritchard-McLean
-- 2018-10-15 — All Killa No Filla-Episode 51-Peter Tobin — speakers: Rachel Fairburn, Peter Tobin, Kiri Pritchard-McLean
+- 2018-10-30 — All Killa No Filla-Episode 52-Ed Gein-4th Birthday Bonus Episode — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2018-10-15 — All Killa No Filla-Episode 51-Peter Tobin — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2018-09-16 — All Killa No Filla-Episode 50-Bible John — speakers: John Join, Rachel Fairburn, Kiri Pritchard-McLean
-- 2018-08-16 — All Killa No Filla-Episode 49-Paul John Knowles — speakers: Paul John Knowles Join, Rachel Fairburn, Paul John Knowles, Kiri Pritchard-McLean
-- 2018-07-12 — All Killa No Filla-Episode 48-Michael and Suzan Bear Carson — speakers: Bear Carson Join, Rachel Fairburn, Bear Carson, Kiri Pritchard-McLean
+- 2018-08-16 — All Killa No Filla-Episode 49-Paul John Knowles — speakers: Paul John Knowles Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2018-07-12 — All Killa No Filla-Episode 48-Michael and Suzan Bear Carson — speakers: Bear Carson Join, Rachel Fairburn, Kiri Pritchard-McLean
 - 2018-06-21 — All Killa No Filla-Episode 47-Part 2-Gary Ridgway — speakers: Gary Ridgway, Rachel Fairburn, Kiri Pritchard-McLean
 - 2018-05-30 — All Killa No Filla-Episode 47-Part 1-Gary Ridgway — speakers: Gary Ridgway, Rachel Fairburn, Kiri Pritchard-McLean
-- 2018-05-19 — All Killa No Filla-Episode 46-Juana Barazza — speakers: Rachel Fairburn, Juana Barraza, Lady Killer, Kiri Pritchard-McLean
-- 2018-04-13 — All Killa No Filla - Episode 45-Donald "Pee Wee" Gaskins — speakers: Rachel Fairburn, Donald Gaskins, Pee Wee, Kiri Pritchard-McLean
-- 2018-03-19 — All Killa No Filla - Episode 44 -Andrew Cunanan — speakers: Rachel Fairburn, Andrew Cunanan, Gianni Versace, Liam Gallagher, Kiri Pritchard-McLean
-- 2018-02-13 — All Killa No Filla-Episode 43-Joanna Dennehy — speakers: Joanna Dennehy Join, Rachel Fairburn, Joanna Dennehy, Noel Gallagher, Kiri Pritchard-McLean
+- 2018-05-19 — All Killa No Filla-Episode 46-Juana Barazza — speakers: All Killa No Filla, Juana Barazza, Kiri Pritchard-McLean, Rachel Fairburn
+- 2018-04-13 — All Killa No Filla - Episode 45-Donald "Pee Wee" Gaskins — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2018-03-19 — All Killa No Filla - Episode 44 -Andrew Cunanan — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2018-02-13 — All Killa No Filla-Episode 43-Joanna Dennehy — speakers: Joanna Dennehy Join, Rachel Fairburn, Kiri Pritchard-McLean
 - 2018-01-12 — All Killa No Filla-Episode 42-Part 2-Robert Pickton — speakers: Robert Pickton, Rachel Fairburn, Kiri Pritchard-McLean
-- 2018-01-02 — All Killa No Filla - Episode 42 - Part 1 - Robert Pickton — speakers: Robert Pickton, Rachel Fairburn, Pork Chop Rob, Kiri Pritchard-McLean
-- 2017-11-28 — All Killa No Filla - Episode 41 - Graham Young — speakers: Rachel Fairburn, Graham Young, Teacup Poisoner, Kiri Pritchard-McLean
-- 2017-11-12 — All Killa No Filla - Episode 40 - Richard Ramirez - Part 2 — speakers: Rachel Fairburn, Richard Ramirez, Kiri Pritchard-McLean
-- 2017-10-29 — All Killa No Filla - Episode 40 - Richard Ramirez - Part 1 — speakers: Rachel Fairburn, Richard Ramirez, Kiri Pritchard-McLean
+- 2018-01-02 — All Killa No Filla - Episode 42 - Part 1 - Robert Pickton — speakers: Robert Pickton, Rachel Fairburn, Kiri Pritchard-McLean
+- 2017-11-28 — All Killa No Filla - Episode 41 - Graham Young — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2017-11-12 — All Killa No Filla - Episode 40 - Richard Ramirez - Part 2 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2017-10-29 — All Killa No Filla - Episode 40 - Richard Ramirez - Part 1 — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2017-10-04 — All Killa No Filla-Episode 39-Aileen Wuornos-Part Three — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2017-09-20 — All Killa No Filla-Episode Thirty Nine-Aileen Wuornos-Part Two — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2017-09-10 — All Killa No Filla-Episode Thirty Nine-Aileen Wuornos-Part One — speakers: Rachel Fairburn, Aileen Wuornos, Kiri Pritchard-McLean
-- 2017-08-19 — All Killa No Filla - Episode Thirty Eight - David Berkowitz — speakers: David Berkowitz, Rachel Fairburn, Andy Kaufman, Joe Coffee, Kiri Pritchard-McLean
+- 2017-09-10 — All Killa No Filla-Episode Thirty Nine-Aileen Wuornos-Part One — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2017-08-19 — All Killa No Filla - Episode Thirty Eight - David Berkowitz — speakers: David Berkowitz, Rachel Fairburn, Kiri Pritchard-McLean
 - 2017-07-15 — All Killa No Filla - Episode Thirty Seven - Peter Moore — speakers: Peter Moore, Rachel Fairburn, Kiri Pritchard-McLean
-- 2017-06-18 — All Killa No Filla - Episode Thirty Six - Beverley Allitt — speakers: Rachel Fairburn, Beverley Allitt, Kiri Pritchard-McLean
-- 2017-05-15 — All Killa No Filla - Episode Thirty Five - David and Catherine Birnie — speakers: Catherine Birnie Join, Rachel Fairburn, Catherine Birnie, Kiri Pritchard-McLean
-- 2017-04-11 — All Killa no Filla Live - Episode Thirty Four - Richard Trenton Chase — speakers: Rachel Fairburn, Richard Trenton Chase, Paul McCartney, Kiri Pritchard-McLean
-- 2017-03-11 — All Killa no Filla - Episode Thirty Three - Marcel Petiot — speakers: Rachel Fairburn, Marcel Petiot, Kiri Pritchard-McLean
-- 2017-02-13 — All Killa no Filla - Episode Thirty Two - Danny Rolling — speakers: Rachel Fairburn, Danny Rolling, Kiri Pritchard-McLean
+- 2017-06-18 — All Killa No Filla - Episode Thirty Six - Beverley Allitt — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2017-05-15 — All Killa No Filla - Episode Thirty Five - David and Catherine Birnie — speakers: Catherine Birnie Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2017-04-11 — All Killa no Filla Live - Episode Thirty Four - Richard Trenton Chase — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2017-03-11 — All Killa no Filla - Episode Thirty Three - Marcel Petiot — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2017-02-13 — All Killa no Filla - Episode Thirty Two - Danny Rolling — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2017-01-14 — All Killa no Filla - Episode Thirty One - Moses Sithole — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2016-12-25 — All Killa no Filla - Episode Thirty - Part Three - Fred and Rose West — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2016-12-18 — All Killa no Filla - Episode Thirty - Part Two - Fred and Rose West — speakers: Rachel Fairburn, Rosemary West, Kiri Pritchard-McLean
-- 2016-12-11 — All Killa no Filla - Episode Thirty - Part 1 - Fred and Rose West — speakers: Rachel Fairburn, Fred West, Kiri Pritchard-McLean
+- 2016-12-18 — All Killa no Filla - Episode Thirty - Part Two - Fred and Rose West — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2016-12-11 — All Killa no Filla - Episode Thirty - Part 1 - Fred and Rose West — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2016-11-14 — All Killa no Filla - Episode Twenty Nine - Belle Gunness — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2016-10-15 — All Killa no Filla - Episode Twenty Eight - Robert Hansen — speakers: Robert Hansen, Rachel Fairburn, Kiri Pritchard-McLean
-- 2016-09-27 — All Killa no Filla - Episode Twenty Seven - Andrei Chikatilo — speakers: Rachel Fairburn, Andrei Chikatilo, Kiri Pritchard-McLean
-- 2016-08-24 — All Killa no Filla - Episode Twenty Six - Yang Xinhai — speakers: Rachel Fairburn, Yang Xinhai, Kiri Pritchard-McLean
-- 2016-07-13 — All Killa no Filla - Episode Twenty Five - Carl Panzram — speakers: Rachel Fairburn, Carl Panzram, Kiri Pritchard-McLean
-- 2016-06-09 — All Killa no Filla - Episode Twenty Four - Karla Homolka & Paul Bernardo — speakers: Paul Bernardo, Rachel Fairburn, Karla Homolka, Kiri Pritchard-McLean
-- 2016-05-10 — All Killa no Filla - Episode Twenty Three - Dennis Nilsen — speakers: Rachel Fairburn, Dennis Nilsen, Jeffrey Dahmer, Kiri Pritchard-McLean
-- 2016-04-07 — All Killa no Filla - Episode Twenty Two - Ronald Dominique — speakers: Ronald Dominique, Rachel Fairburn, Ronald Dominque, Kiri Pritchard-McLean
+- 2016-09-27 — All Killa no Filla - Episode Twenty Seven - Andrei Chikatilo — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2016-08-24 — All Killa no Filla - Episode Twenty Six - Yang Xinhai — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2016-07-13 — All Killa no Filla - Episode Twenty Five - Carl Panzram — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2016-06-09 — All Killa no Filla - Episode Twenty Four - Karla Homolka & Paul Bernardo — speakers: Paul Bernardo, Rachel Fairburn, Kiri Pritchard-McLean
+- 2016-05-10 — All Killa no Filla - Episode Twenty Three - Dennis Nilsen — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2016-04-07 — All Killa no Filla - Episode Twenty Two - Ronald Dominique — speakers: Ronald Dominique, Rachel Fairburn, Kiri Pritchard-McLean
 - 2016-03-13 — All Killa no Filla - Episode Twenty One - Pedro Alonso Lopez — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2016-02-10 — All Killa no Filla - Episode Twenty - Tillie Klimek — speakers: Tillie Klimek, Rachel Fairburn, Kiri Pritchard-McLean
 - 2016-01-09 — All Killa no Filla - Episode Nineteen - The Bloody Benders — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2015-12-10 — All Killa no Filla - Episode Eighteen - The Zodiac Killer — speakers: Rachel Fairburn, Kiri Pritchard-McLean
-- 2015-11-08 — All Killa no Filla Live - Episode Seventeen - H. H. Homes with Michael J. Dolan — speakers: Dolan Join, Rachel Fairburn, Herman Mudgett, Kiri Pritchard-McLean
-- 2015-10-08 — All Killa no Filla Live - Episode Sixteen - Peter Sutcliffe with Ed Gamble — speakers: Peter Sutcliffe, Rachel Fairburn, Ed Gamble, Yorkshire Ripper, Jimmy Saville, Les Battersby, Frank Bruno, Kiri Pritchard-McLean
-- 2015-09-08 — All Killa no Filla - Episode Fifteen -Edmund Kemper — speakers: Rachel Fairburn, Ed Kemper, Kiri Pritchard-McLean
-- 2015-07-31 — All Killa no Filla - Episode Fourteen - Nikolai Dzhumagaliev — speakers: Rachel Fairburn, Nikolai Dzhumagaliev, Metal Fang, Kiri Pritchard-McLean
-- 2015-06-25 — All Killa no Filla - Episode Thirteen - Colin Ireland — speakers: Rachel Fairburn, Gay Slayer, Kiri Pritchard-McLean
+- 2015-11-08 — All Killa no Filla Live - Episode Seventeen - H. H. Homes with Michael J. Dolan — speakers: Dolan Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2015-10-08 — All Killa no Filla Live - Episode Sixteen - Peter Sutcliffe with Ed Gamble — speakers: Peter Sutcliffe, Rachel Fairburn, Kiri Pritchard-McLean
+- 2015-09-08 — All Killa no Filla - Episode Fifteen -Edmund Kemper — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2015-07-31 — All Killa no Filla - Episode Fourteen - Nikolai Dzhumagaliev — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2015-06-25 — All Killa no Filla - Episode Thirteen - Colin Ireland — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2015-05-18 — All Killa no Filla - Episode Twelve - Ivan Milat — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2015-04-27 — All Killa no Filla - Episode Eleven - Ottis Toole & Henry Lee Lucus — speakers: Henry Lee Lucus, Rachel Fairburn, Kiri Pritchard-McLean
 - 2015-04-03 — All Killa no Filla - Episode Ten - Jeffrey Dahmer — speakers: Jeffrey Dahmer, Rachel Fairburn, Kiri Pritchard-McLean
 - 2015-03-09 — All Killa no Filla - Episode Nine - Harold Shipman — speakers: Harold Shipman, Rachel Fairburn, Kiri Pritchard-McLean
 - 2015-02-20 — All Killa no Filla - Episode Eight - Ted Bundy — speakers: Ted Bundy, Rachel Fairburn, Kiri Pritchard-McLean
-- 2015-02-02 — All Killa no Filla - Episode Seven - Charles Ng and Leonard Lake — speakers: Leonard Lake Join, Rachel Fairburn, Leonard Lake, Kiri Pritchard-McLean
+- 2015-02-02 — All Killa no Filla - Episode Seven - Charles Ng and Leonard Lake — speakers: Leonard Lake Join, Rachel Fairburn, Kiri Pritchard-McLean
 - 2015-01-19 — All Killa no Filla - Episode Six - Peter Kurten — speakers: Peter Kurten, Rachel Fairburn, Kiri Pritchard-McLean
 - 2015-01-04 — All Killa no Filla - Episode Five - Ian Brady and Myra Hindley — speakers: Ian Brady, Myra Hindley, Rachel Fairburn, Kiri Pritchard-McLean
 - 2014-12-21 — All Killa no Filla - Episode Four - Elizabeth Bathory — speakers: Elizabeth Bathory, Rachel Fairburn, Kiri Pritchard-McLean
-- 2014-12-04 — All Killa no Filla - Episode 3 - John Wayne Gacy — speakers: John Wayne Gacy Join, Rachel Fairburn, John Wayne Gacy, Kiri Pritchard-McLean
-- 2014-11-14 — All Killa No Filla - Episode 2 - BTK — speakers: Rachel Fairburn, Denis Rader, Kiri Pritchard-McLean
-- 2014-10-31 — All Killa No Filla - Episode 1- Jack the Ripper — speakers: Ripper Join, Rachel Fairburn, Prince William, Kiri Pritchard-McLean
+- 2014-12-04 — All Killa no Filla - Episode 3 - John Wayne Gacy — speakers: John Wayne Gacy Join, Rachel Fairburn, Kiri Pritchard-McLean
+- 2014-11-14 — All Killa No Filla - Episode 2 - BTK — speakers: Rachel Fairburn, Kiri Pritchard-McLean
+- 2014-10-31 — All Killa No Filla - Episode 1- Jack the Ripper — speakers: Ripper Join, Rachel Fairburn, Kiri Pritchard-McLean
