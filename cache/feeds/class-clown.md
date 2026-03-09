@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-03-08T21:36:34+00:00`
-- checked_at: `2026-03-08T21:36:34+00:00`
-- last_modified: `Sun, 08 Mar 2026 20:41:17 GMT`
+- fetched_at: `2026-03-09T03:15:24+00:00`
+- checked_at: `2026-03-09T03:15:24+00:00`
+- last_modified: `Mon, 09 Mar 2026 00:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-08T21:36:34+00:00",
+  "fetched_at": "2026-03-09T03:15:24+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9efc8914a30d8db5335250390e9ed74c434bb52b",
+      "title": "MAISIE ADAM Pt 2: Surviving Drama School, Discovering Comedy & The Party That Got her in MASSIVE Trouble",
+      "published_at": "2026-03-09T00:00:00+00:00",
+      "link": null,
+      "description": "Maisie Adam is back for part 2 of her sit down with Seann Walsh. She talks about writing her first show while working at Fat Face, the worst trouble she ever got into as a teen, the difficulty of getting into drama school and then the problematic method acting exercises she had to indulge! For More Maisie head to Patreon where we have some exclusive extra questions and Seann shares his thoughts on the interview! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL3832145223.mp3?updated=1773000594",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2879",
+      "speakers": [
+        "Maisie Adam",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "maisie",
+        "adam",
+        "drama",
+        "school",
+        "discovering",
+        "comedy",
+        "party",
+        "massive",
+        "trouble"
+      ]
+    },
     {
       "key": "7c3927185ace45ea74925ac9e340ebbccb51a0c8",
       "title": "MAISIE ADAM: Unconventional Comedy Beginnings, Northern Childhood & Obsession with Men's Torsos",
@@ -1175,6 +1202,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — MAISIE ADAM Pt 2: Surviving Drama School, Discovering Comedy & The Party That Got her in MASSIVE Trouble — speakers: Maisie Adam, Seann Walsh
 - 2026-03-02 — MAISIE ADAM: Unconventional Comedy Beginnings, Northern Childhood & Obsession with Men's Torsos — speakers: Torsos Taskmaster, Seann Walsh
 - 2026-02-23 — ADAM HILLS PART 2: Comedy Philosophy, Reiki & Why The Last Leg is His Ideal Show — speakers: Adam Hills, Comedy Philosophy, Seann Walsh
 - 2026-02-16 — ADAM HILLS: Building Self Belief, Positive Comedy, gigging with Robin Williams, Billy Connolly & Seeing A Young Jim Carrey — speakers: Adam Hills, Robin Williams, Jim Carrey, Seann Walsh

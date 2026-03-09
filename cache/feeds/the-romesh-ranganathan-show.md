@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-03-08T15:37:23+00:00`
-- checked_at: `2026-03-08T15:37:23+00:00`
-- last_modified: `Sun, 08 Mar 2026 15:23:04 GMT`
+- fetched_at: `2026-03-09T03:15:24+00:00`
+- checked_at: `2026-03-09T03:15:24+00:00`
+- last_modified: `Mon, 09 Mar 2026 00:15:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/2d0e2809eb50ddc818255c34632fd616.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-08T15:37:23+00:00",
+  "fetched_at": "2026-03-09T03:15:24+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7dc626bdf6f72010c18f06f86d708daca569b72d",
+      "title": "Louis Theroux On Internet Culture, The Manosphere & Getting \"Cooked\"",
+      "published_at": "2026-03-09T00:01:00+00:00",
+      "link": null,
+      "description": "What do toxic masculinity, a lasagne obsession, and a Seat Alhambra have in common? Louis Theroux joins Romesh to draw the line between his on-camera persona and life at home. They revisit some of Louis’ most infamous documentary moments, the craft behind them, and the interview regrets he has looking back. Louis also explains why he’s drawn to spending time with people who hold extreme views, including in his latest film Inside the Manosphere , exploring misogyny and the lure of wealth in the post-Andrew Tate world with figures like HSTikkyTokky. Along the way he reflects on memorable encounters with Armie Hammer and Boris Becker – plus an uncanny King Charles impression, being “cooked” by the internet, and why he “deserved” his gold record after his viral music hit Jiggle Jiggle. A Ranga Bee Production in partnership with Listen. 00:00 Intro 02:15 Gift giving 03:21 Lasagna tips 06:04 Fragility in the industry 07:52 On making documentaries 22:15 On Andrew Tate 23:29 The Manosphere 29:37 Raising boys today 35:25 HStikkytokky & Jestermaxxing 41:04 Is Louis worried? 43:12 Shanthi’s question 46:21 Getting cooked & Jiggle Jiggle 51:17 On Podcasting 55:47 On Adam Buxton 59:41 On Boris Becker 01:01:03 Measuring success 01:02:09 Comedians vs non-comedians 01:04:52 Early career beginnings 01:09:22 On reviews 01:10:32 Misquoted 01:33:50 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/393b6256-19ad-11f1-b50d-5b357762d702/image/44e7a666a89ce480452f37ab062dbf05.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6989133308.mp3?updated=1772983678",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5931",
+      "speakers": [
+        "Louis Theroux",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "louis",
+        "theroux",
+        "internet",
+        "culture",
+        "manosphere",
+        "cooked"
+      ]
+    },
     {
       "key": "abbfd9b5fb5ce90285199d4b846ee3bfa3297da8",
       "title": "Who's Buying ROUGH Toilet Paper?!",
@@ -1112,6 +1136,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — Louis Theroux On Internet Culture, The Manosphere & Getting "Cooked" — speakers: Louis Theroux, Romesh Ranganathan
 - 2026-03-05 — Who's Buying ROUGH Toilet Paper?! — speakers: terrible im, Romesh Ranganathan
 - 2026-03-02 — Tom Davis On Success, Setbacks & Being a Dad — speakers: Tom Davis, Romesh Ranganathan
 - 2026-02-26 — Telling Your Sri Lankan Mum You're Dieting... — speakers: Romesh Ranganathan

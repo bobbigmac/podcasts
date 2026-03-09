@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-03-06T03:08:29+00:00`
-- checked_at: `2026-03-06T03:08:29+00:00`
-- etag: `"djEuMi4wOjE3NzI3NTUzNTkzMTE="`
+- fetched_at: `2026-03-09T03:15:24+00:00`
+- checked_at: `2026-03-09T03:15:24+00:00`
+- etag: `"djEuMi4wOjE3NzMwMTQ1NTkzNTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-03-06T03:08:29+00:00",
+  "fetched_at": "2026-03-09T03:15:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,35 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c5cb6627abdd131b6b274dc6335eeebf0ee8b123",
+      "title": "Ep. 568 - Beattie Edmondson - Best known for Josh Widdicombe’s sitcom Josh & Disney feature film Patrick",
+      "published_at": "2026-03-09T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-568-beattie-edmondson-best-known-for-josh-widdicombes-sit",
+      "description": "Beattie Edmondson is a comedy writer performer best known for Disney family entertainment feature film Patrick and three series of BBC3’s sitcom Josh, with Josh Widdicombe, Elis James and Jack Dee . Beattie is in the BBC One drama The Pursuit of Love starring Lily James and written and directed by Emily Mortimer. She is also one third of comedy sketch group Birthday Girls whose podcast Birthday Girls’ House Party was nominated for Best Comedy at the British Podcast Awards. Beattie is a regular on Celebrity Gogglebox and has previously appeared on Celebrity Mastermind. She is the middle daughter of comedians Adrian Edmondson and Jennifer Saunders. Beattie Edmondson is our guest in episode 568 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Book tickets for Beattie’s show: AN HOUR OF COMEDY: BEATTIE EDMONDSON FIRST AND THEN HOLLY BURN AFTER (OR MAYBE THE OTHER WAY AROUND) - https://www.pleasance.co.uk/event/hour-comedy-beattie-edmondson-first-and-then-holly-burn-after-or-maybe-other-way-around-work . Beattie’s podcast, Birthday Girls House Party - https://anchor.fm/s/63e16794/podcast/rss . Follow Beattie Edmondson on Instagram : @beattieedmondson . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69a995a7f6d1583bb8723177/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "109006806",
+      "itunes_duration": "45:25",
+      "speakers": [
+        "Beattie Edmondson",
+        "Josh Widdicombe",
+        "Patrick Beattie Edmondson"
+      ],
+      "topics": [
+        "beattie",
+        "edmondson",
+        "best",
+        "josh",
+        "widdicombe",
+        "sitcom",
+        "disney",
+        "feature",
+        "film",
+        "patrick"
+      ]
+    },
     {
       "key": "2690234ac2c3217b9b491737af7419dd5ee4855d",
       "title": "Ep. 567 - Jake Bhardwaj - comedy creator, writer, actor, producer and self-appointed professional comedy quizmaster",
@@ -12056,6 +12085,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — Ep. 568 - Beattie Edmondson - Best known for Josh Widdicombe’s sitcom Josh & Disney feature film Patrick — speakers: Beattie Edmondson, Josh Widdicombe, Patrick Beattie Edmondson
 - 2026-03-06 — Ep. 567 - Jake Bhardwaj - comedy creator, writer, actor, producer and self-appointed professional comedy quizmaster — speakers: Jake Bhardwaj comedy, Jake Bhardwaj
 - 2026-03-02 — Ep. 566 - Robin Ince Returns - Robin returns for a brand new time capsule! — speakers: Robin Ince Returns Robin, Robin Ince
 - 2026-02-27 — Ep. 565 - Holly White - Australian actress who Mike worked with in Panama on a film — speakers: Holly White

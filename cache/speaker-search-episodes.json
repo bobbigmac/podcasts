@@ -14268,6 +14268,28 @@
         "feed_slug": "external:apple:f0e5f1b08719",
         "feed_title": "Alex Horne Breaks the News",
         "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
+        "dedupe_key": "c0521eea8a4c634319891ee9df77ff7521b47fed",
+        "episode_key": "c0521eea8a4c634319891ee9df77ff7521b47fed",
+        "title": "Alex Horne, Tim Key, Ardal O’Hanlon and James Alexander-Sinclair",
+        "published_at": "2013-05-24T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tim Key and Ardal O’Hanlon join Alex Horne in our weekly light-hearted exploration of the week’s events - if you imagine that the week’s events are a supermarket aisle - maybe dairy - then we’d be sort of trotting down that aisle, picking up yoghurts, scooting along on the back of the trolley and then occasionally havi",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-tim-key-ardal-o-hanlon-and-james-alexander-sinclair/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-tim-key-ardal-ohanlon-and-james-alexander/id1133204823?i=1000372293459&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f0e5f1b08719",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
         "dedupe_key": "88d21212e9f1dc926ae2461331645b3e513b27a9",
         "episode_key": "88d21212e9f1dc926ae2461331645b3e513b27a9",
         "title": "Alex Horne, Tony Law, Charlie Baker, William Shaw and a bit of Tim Key",

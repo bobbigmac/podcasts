@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-03-07T13:09:10+00:00`
-- checked_at: `2026-03-07T13:09:10+00:00`
-- last_modified: `Sat, 07 Mar 2026 09:55:23 GMT`
+- fetched_at: `2026-03-09T03:15:24+00:00`
+- checked_at: `2026-03-09T03:15:24+00:00`
+- last_modified: `Mon, 09 Mar 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-07T13:09:10+00:00",
+  "fetched_at": "2026-03-09T03:15:24+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,31 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "92678c4a2a0c20a9cb85a30657560c9bd85f04ca",
+      "title": "S15 Ep 791 Vault Mondays: The Carpet Fitter and Noel Edmonds",
+      "published_at": "2026-03-09T03:00:00+00:00",
+      "link": null,
+      "description": "Archive ep time! We chat about our audio, our near disaster, more audio problems, Joe's awkward podcast encounter, Joe's carpet fitter, travelling to Polperro, not listening and some Noel Edmonds stuff First posted on 26th April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6309534301.mp3?updated=1772876677",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1767",
+      "speakers": [
+        "Noel Edmonds Archive",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "carpet",
+        "fitter",
+        "noel",
+        "edmonds"
+      ]
+    },
     {
       "key": "b3355422c5ff16d9932585ee249949e01cee4c33",
       "title": "S15 Ep 790: Mailbag Special - Our Little Systems",
@@ -9898,30 +9923,6 @@
       ]
     },
     {
-      "key": "3b843f9fe856f7c6d1d204e3dd37da6bc42d6927",
-      "title": "Gorton Part 4. The moment and even more DOND: Traitors Paul Gorton",
-      "published_at": "2024-01-08T14:36:00+00:00",
-      "link": null,
-      "description": "This ep is from the Chatavaults and was originally released in Feb 2023. This is the one where David and Joe suggest Paul Gorton should go on Traitors saying he'd be really good on it. And so the seed is planted ! Paul is well up for it, even though he's not seen any of series 1 and knows nothing about the show. It turns out Joe didn't know anyone who worked on it so that was a waste of time. They also talk about who would make a good Deal Or No Deal host Richard Madeley, Titchmarsh or Nick Knowles. Paul tells them that he and Noel did the nosey posey with one of the contestants before revealing he has managed to track down the episode he was in! Joe and David are raring to see it. Paul Gorton is currently appearing in BBC show The Traitors UK series 2. https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4250488473.mp3?updated=1704724783",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4094",
-      "speakers": [
-        "Paul Gorton",
-        "Joe Wilkinson",
-        "David Earl"
-      ],
-      "topics": [
-        "gorton",
-        "moment",
-        "dond",
-        "traitors",
-        "paul"
-      ]
-    },
-    {
       "key": "7d5608a0274d914f7bdfacf408646143b138034b",
       "title": "Gorton Part 3. The Deal Or No Deal saga rolls on: Traitors Paul Gorton",
       "published_at": "2024-01-08T14:36:00+00:00",
@@ -9941,6 +9942,30 @@
         "gorton",
         "deal",
         "saga",
+        "traitors",
+        "paul"
+      ]
+    },
+    {
+      "key": "3b843f9fe856f7c6d1d204e3dd37da6bc42d6927",
+      "title": "Gorton Part 4. The moment and even more DOND: Traitors Paul Gorton",
+      "published_at": "2024-01-08T14:36:00+00:00",
+      "link": null,
+      "description": "This ep is from the Chatavaults and was originally released in Feb 2023. This is the one where David and Joe suggest Paul Gorton should go on Traitors saying he'd be really good on it. And so the seed is planted ! Paul is well up for it, even though he's not seen any of series 1 and knows nothing about the show. It turns out Joe didn't know anyone who worked on it so that was a waste of time. They also talk about who would make a good Deal Or No Deal host Richard Madeley, Titchmarsh or Nick Knowles. Paul tells them that he and Noel did the nosey posey with one of the contestants before revealing he has managed to track down the episode he was in! Joe and David are raring to see it. Paul Gorton is currently appearing in BBC show The Traitors UK series 2. https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4250488473.mp3?updated=1704724783",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4094",
+      "speakers": [
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "gorton",
+        "moment",
+        "dond",
         "traitors",
         "paul"
       ]
@@ -13811,6 +13836,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — S15 Ep 791 Vault Mondays: The Carpet Fitter and Noel Edmonds — speakers: Noel Edmonds Archive, Joe Wilkinson, David Earl
 - 2026-03-06 — S15 Ep 790: Mailbag Special - Our Little Systems — speakers: Little Systems, Joe Wilkinson, David Earl
 - 2026-03-05 — S15 Ep 789: Two Snotty Colds - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2026-03-04 — S15 Ep 788: Two Snotty Colds - Part 1 — speakers: Joe Wilkinson, David Earl
@@ -14258,8 +14284,8 @@
 - 2024-01-11 — S10 Ep 348 Usual Drivel: Joe Goes Running — speakers: Joe Goes Running, Joe Wilkinson, David Earl
 - 2024-01-10 — S10 Ep 347 Specialist Guest: Floor Manager Tony Guyan — speakers: Tony Guyan, Joe Wilkinson, David Earl
 - 2024-01-09 — S10 Ep 346 Usual Drivel: David Goes Running — speakers: David Goes Running David, Joe Wilkinson, David Earl
-- 2024-01-08 — Gorton Part 4. The moment and even more DOND: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — Gorton Part 3. The Deal Or No Deal saga rolls on: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 4. The moment and even more DOND: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — S10 Ep 341. Emergency Pod: Deep Dive Ep 3 The Traitors — speakers: Deep Dive, Joe Wilkinson, David Earl
