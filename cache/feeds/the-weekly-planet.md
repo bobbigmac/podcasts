@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-03-09T03:15:24+00:00`
-- checked_at: `2026-03-09T03:15:24+00:00`
-- etag: `"djEuMi4wOjE3NzMwMTE4NTk5NjE="`
+- fetched_at: `2026-03-09T07:17:26+00:00`
+- checked_at: `2026-03-09T07:17:26+00:00`
+- etag: `"djEuMi4wOjE3NzMwMzQ5MDcxNzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-03-09T03:15:24+00:00",
+  "fetched_at": "2026-03-09T07:17:26+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "767eac4ba3853a843d677830c17ceb75c86d886e",
+      "title": "613 The Bride! & Lanterns Trailer",
+      "published_at": "2026-03-09T03:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/613-the-bride",
+      "description": "﻿Welcome one and all to a very important podcast! This week we discuss both The Bride! And also War Machine, a movie only one of us has seen. Plus we talk the first trailer for Lanterns, the DCU Green Lantern series, trailers for Scary Movie 6 and The Boys Season 5, a Game of Thrones movie in the works, a new Lord of the Rings Trilogy and more! Thanks for listening Get ready for James & Maso on MUGG this week on the Grouse House YouTube Channel. New Weekly Planet movie commentary track for Cliffhanger out now on bigsandwich.co PLEASE be aware timecodes may shift up to a few minutes due to inserted ads. 00:00 The Start 06:10 Game of Thrones Movie Announced 13:48 New Lord of the Rings Trilogy 18:08 The Boys Final Season Trailer 20:13 Scary Movie 6 Trailer 26:02 DC's Lanterns Trailer 34:15 The Bride Movie Review (Scream spoilers last 2 mins) 58:10 The Bride Spoiler Segment 01:02:47 Surprise Returning Segment 01:18:31 What We Reading, What We Gonna Read 01:25:50 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69ad68f958d3d61b49670e9f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "163555818",
+      "itunes_duration": "1:53:34",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "bride",
+        "lanterns"
+      ]
+    },
     {
       "key": "48babc24625cd632dfa8cce4d5a6cf6c276ca723",
       "title": "Sherlock Holmes: A Game of Shadows - Caravan Of Garbage",
@@ -21840,6 +21860,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — 613 The Bride! & Lanterns Trailer — speakers: James Clement, Nick Mason
 - 2026-03-05 — Sherlock Holmes: A Game of Shadows - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-03-01 — 612 Scream 7 & Paramount Wins Warner Bros — speakers: Paramount Wins Warner Bros, James Clement, Nick Mason
 - 2026-02-26 — Sherlock Holmes - Caravan Of Garbage — speakers: Holmes Caravan, James Clement, Nick Mason

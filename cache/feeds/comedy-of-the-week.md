@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-03-03T07:11:10+00:00`
-- checked_at: `2026-03-03T07:11:10+00:00`
-- etag: `"a45030e9b80e3443a231eb6f988c3f9d"`
-- last_modified: `Tue, 03 Mar 2026 05:00:07 GMT`
+- fetched_at: `2026-03-09T07:17:26+00:00`
+- checked_at: `2026-03-09T07:17:26+00:00`
+- etag: `"de450e5ab9c6ca1a448c3ff089579e63"`
+- last_modified: `Mon, 09 Mar 2026 05:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-03-03T07:11:10+00:00",
+  "fetched_at": "2026-03-09T07:17:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "1c5da7499c81163505e0f889ded08800edef78dd",
+      "title": "Stand-Up SpecialsAurie Styla: Tech Talk",
+      "published_at": "2026-03-09T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n53vp9",
+      "description": "Comedian Aurie Styla returns to rampage through the history of technology, through his own experience as a self-confessed tech nerd growing up in the 90s, and various things you thought you’d forgotten. With his interactive, wildly funny style, tonight the focus is on the role tech has played in our fitness lives: for better or worse. An Impatient production for BBC Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n53vfy.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14176000",
+      "itunes_duration": "886",
+      "speakers": [
+        "Tech Talk Comedian Aurie"
+      ],
+      "topics": [
+        "specialsaurie",
+        "styla",
+        "tech",
+        "talk"
+      ]
+    },
     {
       "key": "348242fdb30546da897b8c07d243dc707666c60c",
       "title": "The Making of Colin Hoult",
@@ -974,6 +995,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — Stand-Up SpecialsAurie Styla: Tech Talk — speakers: Tech Talk Comedian Aurie
 - 2026-03-02 — The Making of Colin Hoult — speakers: Colin Hoult
 - 2026-02-23 — Evil Animals - Spiders — speakers: Russell Kane
 - 2026-02-16 — Fatiha El-Ghorri: A Match Made Inshallah — speakers: Fatiha El-Ghorri

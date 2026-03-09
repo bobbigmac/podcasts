@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-08T21:36:34+00:00`
-- checked_at: `2026-03-08T21:36:34+00:00`
-- etag: `"djEuMi4wOjE3NzMwMDA5NTc1Mjg="`
+- fetched_at: `2026-03-09T07:17:26+00:00`
+- checked_at: `2026-03-09T07:17:26+00:00`
+- etag: `"djEuMi4wOjE3NzMwMjg2NTkyOTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-08T21:36:34+00:00",
+  "fetched_at": "2026-03-09T07:17:26+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5f34ffa318c1d68fcd6a104b1299fbf1bddc57be",
+      "title": "Retro RHLSTP 136 - Fern Brady",
+      "published_at": "2026-03-09T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#428 Half a Melted KitKat - Richard reveals that he is (according to the press) boycotting the Edinburgh Fringe, but that doesn’t mean the end of podcasts from the Festival necessarily. His guest is Taskmaster songstress and sausage painter, Fern Brady. They mainly talk about her remarkable new book Strong Female Character, detailing her life, career and discovery that she is autistic, how the media is weighted against the working class, how TV fails to depict the truth about strip clubs, how comedy was a world where she suddenly fitted in, why Taskmaster was a TV show where she also fitted in, why would anyone get married, unsettling Alex Horn and are your relatives coming back in bird form? Buy Fern’s book - https://www.amazon.co.uk/Audible-Strong-Female-Character/dp/B0BJ2SXTQF/ Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1772999236074-6d39d703-c59b-47f1-b937-565b8dd84775.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69add208c2eb2fc3abbe72be/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31255358",
+      "itunes_duration": "59:03",
+      "speakers": [
+        "Fern Brady",
+        "Richard Herring"
+      ],
+      "topics": [
+        "retro",
+        "fern",
+        "brady"
+      ]
+    },
     {
       "key": "b500b9a73e473256a95ccef87381455433826df5",
       "title": "RAACN week 6",
@@ -21681,6 +21702,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — Retro RHLSTP 136 - Fern Brady — speakers: Fern Brady, Richard Herring
 - 2026-03-07 — RAACN week 6 — speakers: Wednesday March, Dental Caries, Richard Herring
 - 2026-03-06 — RHLSTP Book Club 172 - Mike Rampton — speakers: Mike Rampton, Richard Herring
 - 2026-03-04 — RHLSTP 601 - Rob Auton — speakers: Rob Auton, Richard Herring

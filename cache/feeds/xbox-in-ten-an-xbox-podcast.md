@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-03-06T21:43:37+00:00`
-- checked_at: `2026-03-06T21:43:37+00:00`
-- etag: `"744ae67941885097e381161b27419ee4"`
-- last_modified: `Fri, 06 Mar 2026 20:42:19 GMT`
+- fetched_at: `2026-03-09T07:17:26+00:00`
+- checked_at: `2026-03-09T07:17:26+00:00`
+- etag: `"8253b48cbae618b03c3163b449636a92"`
+- last_modified: `Mon, 09 Mar 2026 05:19:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-03-06T21:43:37+00:00",
+  "fetched_at": "2026-03-09T07:17:26+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,33 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "9cbd5ecae008d636a87850fd7285036eca2f9fe3",
+      "title": "Xbox Reveals Project Helix: The New Xbox/PC Hybrid Console - (Xbox In Ten: An Xbox Podcast - Ep. 354)",
+      "published_at": "2026-03-09T05:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-reveals-project-helix-the-new-xboxpc-hybrid-console-xbox-in-ten-an-xbox-podcast-ep-354",
+      "description": "Week of: 3-2-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/8/7/6/0/8760e33d335c693616c3140a3186d450/354.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/354.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20846224",
+      "itunes_duration": "15:03",
+      "speakers": [
+        "Xbox Reveals Project Helix",
+        "Hybrid Console",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "project",
+        "helix",
+        "hybrid",
+        "console",
+        "podcast"
+      ]
+    },
     {
       "key": "f070e14ce7eb6d58529c8a4789c582a762792377",
       "title": "New Xbox CEO Asha Sharma on the Platform - (Xbox In Ten: An Xbox Podcast - Ep. 353)",
@@ -8894,6 +8921,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — Xbox Reveals Project Helix: The New Xbox/PC Hybrid Console - (Xbox In Ten: An Xbox Podcast - Ep. 354) — speakers: Xbox Reveals Project Helix, Hybrid Console, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-03-02 — New Xbox CEO Asha Sharma on the Platform - (Xbox In Ten: An Xbox Podcast - Ep. 353) — speakers: Asha Sharma, Brandon Rosa
 - 2026-02-20 — Phil Spencer Retiring, Sarah Bond Out & Matt Booty Promoted - (Xbox In Ten: An Xbox Podcast - Ep. 352) — speakers: Phil Spencer Retiring, Sarah Bond Out, Matt Booty Promoted, Brandon Rosa
 - 2026-02-16 — All The Xbox Reveals From February 2026's State Of Play - (Xbox In Ten: An Xbox Podcast - Ep. 351) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
