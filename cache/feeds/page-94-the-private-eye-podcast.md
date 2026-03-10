@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-02-25T13:43:22+00:00`
-- checked_at: `2026-02-25T13:43:22+00:00`
-- etag: `W/"bc41925c5aa8b8f0016133813b6a28b7"`
-- last_modified: `Wed, 25 Feb 2026 10:53:07 GMT`
+- fetched_at: `2026-03-10T19:08:37+00:00`
+- checked_at: `2026-03-10T19:08:37+00:00`
+- etag: `W/"59e2f87c8b84390a1215d509813f8df9"`
+- last_modified: `Tue, 10 Mar 2026 16:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-02-25T13:43:22+00:00",
+  "fetched_at": "2026-03-10T19:08:37+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,26 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "520faa817aaf7fd9c51137a412fed49e970829a7",
+      "title": "169: War On Iran: Aya-Tollad You So",
+      "published_at": "2026-03-10T16:30:00+00:00",
+      "link": "https://audioboom.com/posts/8872081",
+      "description": "Why did Trump declare his latest perfect, ‘very complete', already-won war, and how long will it go on? What will it do to American and British politics? Why can’t anyone in the British press remember the lessons of last time? What will this do to energy prices and the energy transition? And is this all a deliberate distraction from the Gordon and Denton by-election? Ian, Helen, Adam and Andy discuss the latest quiet week in world politics.",
+      "image_url": "https://audioboom.com/i/43523476/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8872081.mp3?modified=1773158533&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3018",
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "iran",
+        "tollad"
+      ]
+    },
     {
       "key": "6f5ada9ce37b757a1c244670e19659a1bc2099be",
       "title": "168: A Tale Of Two Andrews",
@@ -3592,6 +3612,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-10 — 169: War On Iran: Aya-Tollad You So — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-02-24 — 168: A Tale Of Two Andrews — speakers: Rachael Claye, Andrew one, Andrew Hunter Murray, Ian Hislop
 - 2026-02-17 — 167: Cash Harry — speakers: Adam Macqueen, Ian Hislop, Helen Lewis, Andrew Hunter Murray
 - 2026-02-10 — 166: Mandy Lifeboats — speakers: Peter Mandelson’s CV, Andrew Hunter Murray, Ian Hislop

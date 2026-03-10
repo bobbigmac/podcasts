@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-09T19:10:05+00:00`
-- checked_at: `2026-03-09T19:10:05+00:00`
-- etag: `"djEuMi4wOjE3NzMwNzY1NDk4OTU="`
+- fetched_at: `2026-03-10T19:08:37+00:00`
+- checked_at: `2026-03-10T19:08:37+00:00`
+- etag: `"djEuMi4wOjE3NzMxNjQ5Mzk0MzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-09T19:10:05+00:00",
+  "fetched_at": "2026-03-10T19:08:37+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b35ee0a833a8e70cf1aa033270045bc05aa9a1fa",
+      "title": "Trump's war is making us all poorer",
+      "published_at": "2026-03-10T17:48:59+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/trumps-war-is-making-us-all-poorer",
+      "description": "Trump is bombing Iran. Oil prices are volatile. Is the world heading for recession? Oil prices peaked after the US and Israel started their war on Iran. Around a fifth of the world's oil supply relies on one tiny shipping lane in the Middle East called the Strait of Hormuz, and shipping firms are refusing to use it for fear of attack. Meanwhile, Britain remains in the grip of inflated prices and shoppers fear the war in Iran will only make things worse. Anoosh Chakelian and Will Dunn discuss how the Iran war will impact the global and the UK economies, and what – if anything – the Labour government can do about it. READ: Oil prices mean Starmer must raise tax or face recession LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1773164565379-24c0ebf6-6a51-4656-93a0-3f68e067e5f4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69b0596ac36fc2d58b193e9c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44089034",
+      "itunes_duration": "30:36",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "trump"
+      ]
+    },
     {
       "key": "b2848c238a7976a8d4be0456906a4ebd06089ea5",
       "title": "Starmer and Trump's relationship at an all time low",
@@ -30447,6 +30466,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-10 — Trump's war is making us all poorer — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-09 — Starmer and Trump's relationship at an all time low — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-07 — ”Won’t somebody think of the labradoodles?” | Will and Anoosh’s weekly round up — speakers: Khan’s London, Anoosh Chakelian, Oli Dugmore
 - 2026-03-06 — What is the future for jury trials? — speakers: Tribunals Bill, Anoosh Chakelian, Oli Dugmore

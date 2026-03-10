@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-09T13:40:06+00:00`
-- checked_at: `2026-03-09T13:40:06+00:00`
-- etag: `"djEuMi4wOjE3NzMwNjEyMzkzODY="`
+- fetched_at: `2026-03-10T19:08:37+00:00`
+- checked_at: `2026-03-10T19:08:37+00:00`
+- etag: `"djEuMi4wOjE3NzMxNjIwMzk1MTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,30 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-09T13:40:06+00:00",
+  "fetched_at": "2026-03-10T19:08:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "89fc9ea1559fa9d18b86d59bf71fadcc7c5f6b6e",
+      "title": "Is Trump's war in Iran over?",
+      "published_at": "2026-03-10T17:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69b04c07738d6fbbf2159325",
+      "description": "Laura and Seán discuss the rumoured end of Trump's war with Iran, the fall and sale of Brewdog, and the recent fire on Glasgow's Union Street. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69b04c07738d6fbbf2159325/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91281875",
+      "itunes_duration": "1:03:23",
+      "speakers": [],
+      "topics": [
+        "trump",
+        "iran"
+      ]
+    },
     {
       "key": "459d4cd163214ab66007c5b870a1d21865b1943d",
       "title": "Tony Blair is warmongering again",
@@ -11947,6 +11964,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-10 — Is Trump's war in Iran over?
 - 2026-03-09 — Tony Blair is warmongering again
 - 2026-03-08 — The Old System is Finished. What Now? Ash Sarkar interview — speakers: Ash Sarkar
 - 2026-03-07 — The Truth about Donald Trump's war on Iran | David Hearst interview — speakers: David Hearst
