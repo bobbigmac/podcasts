@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-03-09T19:10:05+00:00`
-- checked_at: `2026-03-09T19:10:05+00:00`
-- etag: `W/"37c21-EMIzdt9PzHQrIU0DwAFepuQl7Gc"`
+- fetched_at: `2026-03-10T02:49:55+00:00`
+- checked_at: `2026-03-10T02:49:55+00:00`
+- etag: `W/"38456-jq7nt5klrPKeiBRXZEQkx2NYpMw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-03-09T19:10:05+00:00",
+  "fetched_at": "2026-03-10T02:49:55+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "fb2b1a7aaac5fae247b54b7a634933da375ea98c",
+      "title": "What Makes the Perfect Zone Out Game? | Windbreaker Podcast",
+      "published_at": "2026-03-10T00:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/What-Makes-the-Perfect-Zone-Out-Game---Windbreaker-Podcast-e3g688c",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty bounce off recent examples like Pokemon Pokopia, Hades 2, Slay the Spire 2, and Mewgenics to chat about the elements that go into a great game to just zone out to. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2201369987.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74166439",
+      "itunes_duration": "01:17:15",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "perfect",
+        "zone",
+        "game",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "78c402982b4c8b70117b660de4500c4330e0a47f",
       "title": "We Forced Yahtzee to Watch the New Silent Hill 2 Movie | Windbreaker Podcast",
@@ -2622,6 +2645,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-10 — What Makes the Perfect Zone Out Game? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-03-03 — We Forced Yahtzee to Watch the New Silent Hill 2 Movie | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-02-24 — How Will Xbox Be Remembered? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-02-17 — Our Favorite Video Game Couple Is Better Than Your Favorite Video Game Couple | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

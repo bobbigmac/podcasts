@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-09T21:46:41+00:00`
-- checked_at: `2026-03-09T21:46:41+00:00`
-- etag: `W/"2102c-IbAboiGroFJkk+yY2av/KgaM7LE"`
+- fetched_at: `2026-03-10T02:49:55+00:00`
+- checked_at: `2026-03-10T02:49:55+00:00`
+- etag: `W/"214a0-BpoiivTOvVDLOed4AkWosf7pBMQ"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-09T21:46:41+00:00",
+  "fetched_at": "2026-03-10T02:49:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f1ec9eea008f12c223224f0525632f5dc4f6b14e",
+      "title": "#29 Jon Richardson Podcast with Josie Long",
+      "published_at": "2026-03-09T18:44:54+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/29-Jon-Richardson-Podcast-with-Josie-Long-e3g685r",
+      "description": "#29 Jon Richardson Podcast with Josie Long",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773081891539-c029d88ddf6ce.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116645499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-9%2F19293191-059b-4f93-815a-63c83e44d0ba.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50671904",
+      "itunes_duration": "01:10:22",
+      "speakers": [
+        "Josie Long"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "josie",
+        "long"
+      ]
+    },
     {
       "key": "2c8afa1ba94977dcc4479e189dadfe96e5fef23a",
       "title": "#28 Jon Richardson Podcast with Tim Vine",
@@ -2359,6 +2380,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-09 — #29 Jon Richardson Podcast with Josie Long — speakers: Josie Long
 - 2026-03-08 — #28 Jon Richardson Podcast with Tim Vine — speakers: Tim Vine
 - 2026-03-05 — #27 Jon Richardson Podcast with Al Pitcher — speakers: Al Pitcher
 - 2026-03-05 — #26 Jon Richardson Podcast with John Robins — speakers: John Robins

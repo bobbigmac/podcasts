@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-03-08T21:36:34+00:00`
-- checked_at: `2026-03-08T21:36:34+00:00`
-- last_modified: `Sun, 08 Mar 2026 19:17:08 GMT`
+- fetched_at: `2026-03-10T02:49:55+00:00`
+- checked_at: `2026-03-10T02:49:55+00:00`
+- last_modified: `Tue, 10 Mar 2026 02:03:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ee65a822a2cfcdbd2a17ff6865516c56.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-08T21:36:34+00:00",
+  "fetched_at": "2026-03-10T02:49:55+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0601c0b4ab7a88fe72a1e3a87e5c05aa14dc045d",
+      "title": "S12 EP19: Tom Rosenthal",
+      "published_at": "2026-03-10T01:19:00+00:00",
+      "link": null,
+      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) it's the brilliant comedian and actor - Tom Rosenthal. Tom Rosenthal is touring across the UK and Ireland with his show, ‘Whatever People Say I Am, That’s What I Am' - including an extra London show at the Clapham Grand on 14th May – tickets on sale now at www.tomrosenthal.net Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5625253618.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3363",
+      "speakers": [
+        "Tom Rosenthal",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "rosenthal"
+      ]
+    },
     {
       "key": "3b6857508ce9584e778170a131c3da01db2b1eef",
       "title": "S12 EP18: Kamille",
@@ -11984,6 +12004,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-10 — S12 EP19: Tom Rosenthal — speakers: Tom Rosenthal, Rob Beckett, Josh Widdicombe
 - 2026-03-06 — S12 EP18: Kamille — speakers: Kamille Joining, Rob Beckett, Josh Widdicombe
 - 2026-03-03 — S12 EP17: Josh has a caffeinated tea by mistake — speakers: Rob Beckett, Josh Widdicombe
 - 2026-02-27 — S12 EP16: Tom Davis (The Return) — speakers: Tom Davis, Rob Beckett, Josh Widdicombe

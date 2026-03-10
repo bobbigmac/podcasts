@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-03-09T16:13:02+00:00`
-- checked_at: `2026-03-09T16:13:02+00:00`
-- last_modified: `Mon, 09 Mar 2026 16:00:52 GMT`
+- fetched_at: `2026-03-10T02:49:55+00:00`
+- checked_at: `2026-03-10T02:49:55+00:00`
+- last_modified: `Tue, 10 Mar 2026 00:15:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/36765f8b03ed0aa9c9e27a3fc8f94c30.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-09T16:13:02+00:00",
+  "fetched_at": "2026-03-10T02:49:55+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6aff8ca3f673758c03b26b005f6829a7b1e59d84",
+      "title": "Eyebrow accidents, a lack of aura and Dungeons & Dragons",
+      "published_at": "2026-03-10T00:01:00+00:00",
+      "link": null,
+      "description": "Should Romesh get a new look? On this week’s episode we talk hairdressers, Tom’s grooming accident and the curly girl method. Plus, Romesh shares his new game obsession and becomes the dungeon master as we play some D&D. Don’t forget, we’ve got two episodes a week with our bonus Friday episodes where we answer your questions – send in your questions for us at wolfowlpod@gmail.com . A Ranga Bee Production in partnership with Listen. 00:00 Romesh the actor 01:55 Complete lack of aura 05:00 My hairdresser 08:30 Trimming eyebrows 11:15 Highlights 13:30 The Curly Girl Method 16:00 Dressing your age 23:00 Oliver 29:36 Dungeons & Dragons 38:40 Tom's Outro: A whole new you 34:43 \"You've aggravated the GOBLIN now Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/21c104f2-1bd1-11f1-a593-0fd95e98c123/image/c397fd799bb0bf9cd02ab18e3d5d9de4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1244348540.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2580",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "eyebrow",
+        "accident",
+        "lack",
+        "aura",
+        "dungeons",
+        "dragons"
+      ]
+    },
     {
       "key": "ad751130ed9f39e4b32ec2de07ac96cb00cd77be",
       "title": "Introducing the listener Q&A episodes!",
@@ -6260,6 +6284,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-10 — Eyebrow accidents, a lack of aura and Dungeons & Dragons — speakers: Romesh Ranganathan, Tom Davis
 - 2026-03-06 — Introducing the listener Q&A episodes! — speakers: Romesh Ranganathan, Tom Davis
 - 2026-03-03 — This Hiatus is Over: Wolf and Owl is BACK! — speakers: Romesh Ranganathan, Tom Davis
 - 2026-01-09 — S4 Ep 53: Press Nights and Pokemon Fights — speakers: Rom’s Women, Sheridan Smith, Romesh Ranganathan, Tom Davis
