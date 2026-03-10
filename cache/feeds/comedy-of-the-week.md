@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-03-09T13:40:06+00:00`
-- checked_at: `2026-03-09T13:40:06+00:00`
-- etag: `"3ecb1d72353dd74dd84d4363da68677a"`
-- last_modified: `Mon, 09 Mar 2026 11:44:14 GMT`
+- fetched_at: `2026-03-10T07:08:50+00:00`
+- checked_at: `2026-03-10T07:08:50+00:00`
+- etag: `"a352c3366a525895dc2bb5fe540ec203"`
+- last_modified: `Tue, 10 Mar 2026 06:00:17 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-03-09T13:40:06+00:00",
+  "fetched_at": "2026-03-10T07:08:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -966,28 +966,6 @@
         "million",
         "club"
       ]
-    },
-    {
-      "key": "1b2d5a090e422e0f321e3cd9bf61c7e101f30cde",
-      "title": "Alexei Sayle's Imaginary Sandwich Bar",
-      "published_at": "2025-03-10T06:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0kws42z",
-      "description": "Stand-up, philosophy and memoir from the godfather of alternative comedy, Alexei Sayle. In this episode, Alexei recalls his unorthodox upbringing in Liverpool, his subsequent move to London, and a woman called Mrs Cocker who said something that has stuck with him for ever. Written and performed by Alexei Sayle. The song was written and composed by Tim Sutton with: Sophie Creaner - clarinet and sax Tom Ellis - acoustic guitar Matt Sharp - cello Producer - Richard Morris Production Co-ordinator - Jodie Charman A BBC Studios Audio Production for Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kwrqtz.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27488000",
-      "itunes_duration": "1718",
-      "speakers": [
-        "Sandwich Bar",
-        "Alexei Sayle"
-      ],
-      "topics": [
-        "alexei",
-        "sayle",
-        "imaginary",
-        "sandwich"
-      ]
     }
   ]
 }
@@ -1045,4 +1023,3 @@
 - 2025-03-31 — Dan Tiernan: Going Under — speakers: Dan Tiernan
 - 2025-03-24 — DMs Are Open
 - 2025-03-17 — The 13 Million Club — speakers: Million Club More
-- 2025-03-10 — Alexei Sayle's Imaginary Sandwich Bar — speakers: Sandwich Bar, Alexei Sayle
