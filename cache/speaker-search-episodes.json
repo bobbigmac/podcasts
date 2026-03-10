@@ -17103,6 +17103,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:6d0edee2ac8a",
+        "feed_title": "The Ace Records Podcast",
+        "source_rss_url": "https://feeds.soundcloud.com/users/soundcloud:users:9232989/sounds.rss",
+        "dedupe_key": "7947da5224898cc0d8247c14804b29e257b19ba6",
+        "episode_key": "7947da5224898cc0d8247c14804b29e257b19ba6",
+        "title": "The Ace Records Podcast #27 Stewart Lee",
+        "published_at": "2022-12-05T11:26:14Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The Ace Records Podcast #27 Stewart Lee by Ace Records",
+        "audio_url": "https://feeds.soundcloud.com/stream/1394059984-ace-records-ltd-the-ace-records-podcast-27-stewart-lee.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-ace-records-podcast-27-stewart-lee/id1406417519?i=1000588827081&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:c5df4fff71a7",
         "feed_title": "Loose Ends",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/b006qjym.rss",
@@ -17976,6 +17998,28 @@
         "description": "RHLSTP #41: Josie Long - Fruit Pastille Lolly. After being unnecessarily rude to his audience again, Richard introduces this week's guest, comedian, cartoonist and film maker, Josie Long. They chat about sharing car journeys with Stewart Lee's misbehaving (embodied) anus, how to respond to Twitter abuse, suncream that ",
         "audio_url": "https://sphinx.acast.com/rhlstp/rhlstp-41-josie-long/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/rhlstp-41-josie-long/id520831548?i=1000304634355&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:465ea39df206",
+        "feed_title": "Robin and Josie's Utter Shambles",
+        "source_rss_url": "http://akamai.paramountcomedy.com/podcast/robin_ince_uttershambles2.xml",
+        "dedupe_key": "409b9fc221f89327f4ac5077afe2101b5f6a97ba",
+        "episode_key": "409b9fc221f89327f4ac5077afe2101b5f6a97ba",
+        "title": "Episode 20: Stewart Lee",
+        "published_at": "2012-10-23T08:00:01Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stewart Lee is this month’s guest on Robin and Josie’s Utter Shambles and the subject of choice this month: alternative vs. mainstream comedy.",
+        "audio_url": "http://akamai.paramountcomedy.com/podcast/uttershambles503-itunes.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-20-stewart-lee/id394641784?i=1000122906333&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -20937,6 +20981,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "0eded8561e8fd5b1c7761db19ca157a903fa677d",
+        "episode_key": "0eded8561e8fd5b1c7761db19ca157a903fa677d",
+        "title": "Assad Day For World Peace",
+        "published_at": "2023-05-23T11:00:08Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Bashar Al Assad is back, LMFAO. Also, G7, Suella Braverman, sinking New York and kissing. Andy is with Josie Long and Nish Kumar\nWhy not check out 15 years of top stories: https://www.thebuglepodcast.com/topstories.\nFeaturing:\nAndy Zaltzman\nJosie Long\nNish Kumar\nProduced by Chris Skinner and Laura Turner.\n Hosted on Ac",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/646c69abb160e00011d506ad/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/assad-day-for-world-peace/id265799883?i=1000614134264&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:9a4e29b5594f",
         "feed_title": "Pod Save America",
         "source_rss_url": "https://audioboom.com/channels/5166624.rss",
@@ -22683,6 +22749,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:da6dad00eb83",
+        "feed_title": "Enjoy Your Day With A Addictive Full Audiobook.",
+        "source_rss_url": "https://thebookvoice.com/audible/user/497/index.xml",
+        "dedupe_key": "5bcdf49d61e35f5083d71d51872d7e898bb0bc34",
+        "episode_key": "5bcdf49d61e35f5083d71d51872d7e898bb0bc34",
+        "title": "Future Tense by Richard Ayoade, Warwick Davis",
+        "published_at": "2025-06-05T02:26:46Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Please visit https://thebookvoice.com/podcasts/2/audible/17485 to listen full audiobooks.\n    Title: Future Tense\nAuthor: Richard Ayoade, Warwick Davis\nNarrator: Richard Ayoade, Warwick Davis\nFormat: mp3\nLength: 3 hrs and 43 mins\nRelease date: 06-05-25\nRatings: 4.5 out of 5 stars, 19 ratings\nGenres: History & Culture\nP",
+        "audio_url": "https://samples.audible.com/or/orig/003257/or_orig_003257_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/future-tense-by-richard-ayoade-warwick-davis/id1883860493?i=1000754214500&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:10dae367bfae",
         "feed_title": "The Love Of Cinema",
         "source_rss_url": "https://feed.podbean.com/picturehouse/feed.xml",
@@ -22920,6 +23008,50 @@
         "enclosure_type": null,
         "speakers": [
           "David Mitchell",
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:aeb491bc67d2",
+        "feed_title": "Fuel Your Mind With The Full Audiobook Everyone Is Talking About — So Immersive!",
+        "source_rss_url": "https://thebookvoice.com/audible/user/531/index.xml",
+        "dedupe_key": "8be0a97557971cd7fa142acb097851b4af72f2c8",
+        "episode_key": "8be0a97557971cd7fa142acb097851b4af72f2c8",
+        "title": "The Fairy Tale Fan Club by Richard Ayoade, David Roberts - illustrator",
+        "published_at": "2024-10-01T02:28:21Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Please visit https://thebookvoice.com/podcasts/2/audible/12159 to listen full audiobooks.\n    Title: The Fairy Tale Fan Club\nAuthor: Richard Ayoade, David Roberts - illustrator\nNarrator: Richard Ayoade, Lydia Fox, Wes Anderson\nFormat: mp3\nLength: 1 hr and 1 min\nRelease date: 10-01-24\nRatings: 5 out of 5 stars, 5 rating",
+        "audio_url": "https://samples.audible.com/bk/reco/019763/bk_reco_019763_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-fairy-tale-fan-club-by-richard-ayoade-david/id1883865997?i=1000754268958&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:12f71d7484ee",
+        "feed_title": "Get Hooked On: This Game-Changing Full Audiobook For Story Seekers.",
+        "source_rss_url": "https://thebookvoice.com/audible/user/498/index.xml",
+        "dedupe_key": "0fd2517632a07d5608d65ef33087a32026d7d330",
+        "episode_key": "0fd2517632a07d5608d65ef33087a32026d7d330",
+        "title": "The Fairy Tale Fan Club by Richard Ayoade",
+        "published_at": "2024-09-05T02:26:47Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Please visit https://thebookvoice.com/podcasts/2/audible/12184 to listen full audiobooks.\n    Title: The Fairy Tale Fan Club\nAuthor: Richard Ayoade\nNarrator: Richard Ayoade, Lydia Fox, Wes Anderson\nFormat: mp3\nLength: 1 hr and 2 mins\nRelease date: 09-05-24\nRatings: 4.5 out of 5 stars, 4 ratings\nGenres: Humor\nPublisher'",
+        "audio_url": "https://samples.audible.com/bk/howe/010792/bk_howe_010792_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-fairy-tale-fan-club-by-richard-ayoade/id1883859417?i=1000754225866&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
           "Richard Ayoade"
         ],
         "topics": [],
@@ -23554,6 +23686,28 @@
         "description": "La máquina de recomendar no se para y esta semana toca:\n\nSERIE: Man to Man, with Dean Learner, de Richard Ayoade y Matthew Holness\nLIBRO: Mi hermana, asesina en serie, de  Oyinkan Braithwaite\nMANGA: NonNonBa, de Shigeru Mizuki\nVIDEOJUEGO (Todo el mundo a jugar flashback, I): The Hitchhiker's Guide to the Galaxy, de Inf",
         "audio_url": "https://www.ivoox.com/uhdc-b-v-101-man-to-man-with-dean_mf_64768636_feed_1.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/uhdc-b-v-101-man-to-man-with-dean-learner-my-syster/id1818763344?i=1000751497041&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:5404fc8d034b",
+        "feed_title": "Step Inside This Heart-Pounding Full Audiobook And Feel The Difference.",
+        "source_rss_url": "https://thebookvoice.com/audible/user/521/index.xml",
+        "dedupe_key": "7ba8eaefb5d41ea46555e244f6095626cce2b85c",
+        "episode_key": "7ba8eaefb5d41ea46555e244f6095626cce2b85c",
+        "title": "The Adventures of Parsley the Lion by Michael Bond, Richard Ayoade",
+        "published_at": "2020-11-19T02:27:34Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Please visit https://thebookvoice.com/podcasts/2/audible/205976 to listen full audiobooks.\n    Title: The Adventures of Parsley the Lion\nAuthor: Michael Bond, Richard Ayoade\nNarrator: Nick Mohammed, Morgana Robinson\nFormat: mp3\nLength: 3 hrs and 1 min\nRelease date: 11-19-20\nRatings: Not rated yet\nGenres: Lions, Tigers ",
+        "audio_url": "https://samples.audible.com/bk/hcuk/005687/bk_hcuk_005687_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-adventures-of-parsley-the-lion-by-michael/id1883865735?i=1000754265094&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
