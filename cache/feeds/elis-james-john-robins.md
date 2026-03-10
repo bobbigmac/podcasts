@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-03-06T19:03:26+00:00`
-- checked_at: `2026-03-06T19:03:26+00:00`
-- etag: `"7728aa3d52a59eea359da81a172a9276"`
-- last_modified: `Fri, 06 Mar 2026 17:09:40 GMT`
+- fetched_at: `2026-03-10T16:14:03+00:00`
+- checked_at: `2026-03-10T16:14:03+00:00`
+- etag: `"b8aafc638190941f4950f70f976bb47e"`
+- last_modified: `Tue, 10 Mar 2026 16:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-03-06T19:03:26+00:00",
+  "fetched_at": "2026-03-10T16:14:03+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -29,6 +29,30 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "9ceb5884667f0183531f1ae146a152ec56fee0aa",
+      "title": "#521 - Subversive Regional, Call Roger Bannister and All At Sea in a Brandscape",
+      "published_at": "2026-03-10T16:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n5r7nm",
+      "description": "John Robins feels enormous. His Christmas Day, Ryder Cup and Tax Deadline Day have all come at once. That’s right, a new supermarket has opened near his house, and he’s primed and ready to make content that no one else would dream of making. Strap in for some gonzo journalism; it’s Fear and Loathing in Rural Bucks. Supermarket excitement aside, we tackle the big questions: Did Elizabeth I wish she’d had meal deals? Did she resent not having a fridge, or Tetris, or yoghurt? What would Henry VIII have made of an air fryer? Plus, Elis’s Welshness gets him in hypothetical hot water. Get in touch via the world’s most reliable medium: email. It’s elisandjohn@bbc.co.uk.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n5r8z6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58144000",
+      "itunes_duration": "3634",
+      "speakers": [
+        "Roger Bannister",
+        "John Robins",
+        "Elis James"
+      ],
+      "topics": [
+        "subversive",
+        "regional",
+        "roger",
+        "bannister",
+        "brandscape"
+      ]
+    },
     {
       "key": "c5b2435b1bf379182d31de0549715ba353e6d898",
       "title": "#520 - Moheathcliffe, #FindTheFlax and Che Guevara On QI",
@@ -12585,6 +12609,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-10 — #521 - Subversive Regional, Call Roger Bannister and All At Sea in a Brandscape — speakers: Roger Bannister, John Robins, Elis James
 - 2026-03-06 — #520 - Moheathcliffe, #FindTheFlax and Che Guevara On QI — speakers: Che Guevara, Steve Redgrave, Neil Armstrong, Buzz Aldrin, Nelson Mandela, David Beckham, Elis James, John Robins
 - 2026-03-03 — #519 - Big Seed, Big Sad John and Big Voiced Clive — speakers: Elis James, John Robins
 - 2026-02-27 — #518 - An 18 Yard Sprint, Sovereignty Not Dominion and Big Diolch Energy — speakers: Yard Sprint, Sovereignty Not Dominion, Big Diolch Energy Elis, Elis James, John Robins

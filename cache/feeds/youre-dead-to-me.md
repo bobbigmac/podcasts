@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-03-10T13:38:03+00:00`
-- checked_at: `2026-03-10T13:38:03+00:00`
-- etag: `"a26841f28970a2b988f36fac7f7c4b30"`
-- last_modified: `Tue, 10 Mar 2026 12:19:39 GMT`
+- fetched_at: `2026-03-10T16:14:03+00:00`
+- checked_at: `2026-03-10T16:14:03+00:00`
+- etag: `"817be88d227650c6ca5c7d5f7b5fc26a"`
+- last_modified: `Tue, 10 Mar 2026 15:01:30 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1pytt.jpg",
-  "fetched_at": "2026-03-10T13:38:03+00:00",
+  "fetched_at": "2026-03-10T16:14:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -2992,19 +2992,23 @@
     },
     {
       "key": "c597ee62751ff85f1b38af9d509faf10dfd10a34",
-      "title": "21/03/2026",
+      "title": "Medieval Irish Folklore (Live)",
       "published_at": "2023-06-02T06:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0frndnq",
-      "description": "The comedy podcast that takes history seriously. Hosted by Greg Jenner.",
+      "description": "In this special live episode, recorded at the Hay Festival, Greg Jenner is joined by Dr Gillian Kenny and comedian Seán Burke to learn about medieval Irish folklore. We’re focusing on the lore and stories from Gaelic Irish culture. Gaelic culture remained the dominant set of cultural and societal beliefs on the island of Ireland well into the 17th century until it was destroyed by a succession of English invasions. But what were these beliefs and how did the Christianisation of Ireland from the 5th century onwards amalgamate pre-Christian stories into it? From fairy darts to banshees, through some unusual ways of warding off the evil eye, this is a jovial jaunt across some ancient myths and legends. Research by Emmie Rose Price-Goodfellow Written by Emma Nagouse and Greg Jenner Produced by Emma Nagouse and Greg Jenner Assistant Producer: Emmie Rose Price-Goodfellow Project Management: Isla Matthews Audio Producer: Steve Hankey You’re Dead To Me is a production by The Athletic for BBC Radio 4.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0frq85h.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "58240000",
       "itunes_duration": "3640",
       "speakers": [
-        "Greg Jenner"
+        "Greg Jenner",
+        "Gillian Kenn"
       ],
-      "topics": []
+      "topics": [
+        "irish",
+        "folklore"
+      ]
     },
     {
       "key": "d685d9b02ac1acf5cfc4db8013ad41ef407df653",
@@ -5744,7 +5748,7 @@
 - 2023-07-22 — Zheng Yi Sao (Radio Edit) — speakers: Zheng Yi Sao, Greg Jenner, Ria Lina
 - 2023-07-15 — The History of Timekeeping (Radio Edit) — speakers: Greg Jenner, David Rooney, Desiree Burch
 - 2023-07-08 — Agatha Christie (Radio Edit) — speakers: Sue Perkins, Lucy Worsley, Greg Jenner
-- 2023-06-02 — 21/03/2026 — speakers: Greg Jenner
+- 2023-06-02 — Medieval Irish Folklore (Live) — speakers: Greg Jenner, Gillian Kenn
 - 2023-05-19 — Agatha Christie — speakers: Agatha Christie Sue Perkins, Lucy Worsley, Greg Jenner
 - 2023-05-12 — Leonardo da Vinci (Live) — speakers: Leonardo da Vinci, Greg Jenner
 - 2023-05-05 — Victorian Bodybuilding — speakers: Victorian Bodybuilding Greg Jenner, Vanessa Heggie, Darren Harriot

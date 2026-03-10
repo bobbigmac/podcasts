@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-03-09T16:13:02+00:00`
-- checked_at: `2026-03-09T16:13:02+00:00`
-- last_modified: `Mon, 09 Mar 2026 13:41:18 GMT`
+- fetched_at: `2026-03-10T16:14:03+00:00`
+- checked_at: `2026-03-10T16:14:03+00:00`
+- last_modified: `Tue, 10 Mar 2026 15:48:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-09T16:13:02+00:00",
+  "fetched_at": "2026-03-10T16:14:03+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -32,7 +32,7 @@
       "title": "A War Correspondent on the Crisis in Iran",
       "published_at": "2026-03-09T09:00:00+00:00",
       "link": null,
-      "description": "As the war with Iran enters its second week, two big questions loom: How did we get here? And how will it end? We put those questions to Scott Anderson. Scott is a veteran war correspondent who has reported from Israel, Lebanon, Egypt, Bosnia, Northern Ireland, Sudan, and El Salvador. He’s also the author of King of Kings , a riveting account of the 1979 Iranian Revolution. He helps us unpack the long, complicated history between the US and Iran — countries that were once close allies — and looks ahead at what may come next. \"In the Middle East,\" he says, \"things can always get worse.\" Sponsored By: Bitdefender — Get 30% off your plan at ⁠bitdefender.com/idea⁠ Factor — Head to ⁠⁠factormeals.com/idea50off⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠granola.ai/idea⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠⁠",
+      "description": "As the war with Iran enters its second week, two big questions loom: How did we get here? And how will it end? We put those questions to Scott Anderson. Scott is a veteran war correspondent who has reported from Israel, Lebanon, Egypt, Bosnia, Northern Ireland, Sudan, and El Salvador. He’s also the author of King of Kings , a riveting account of the 1979 Iranian Revolution. He helps us unpack the long, complicated history between the US and Iran — countries that were once close allies — and looks ahead at what may come next. \"In the Middle East,\" he says, \"things can always get worse.\" Sponsored By: Bitdefender — Get 30% off your plan at ⁠bitdefender.com/idea⁠ Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠meetfabric.com/nbi⁠ Factor — Head to ⁠⁠factormeals.com/idea50off⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠granola.ai/idea⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠⁠",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/YAP3331679679.mp3?updated=1773019868",
       "enclosure_type": "audio/mpeg",
