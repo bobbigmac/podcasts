@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-03-11T16:02:39+00:00`
-- checked_at: `2026-03-11T16:02:39+00:00`
-- etag: `"djEuMi4wOjE3NzMyNDQ1NjI1NzQ="`
+- fetched_at: `2026-03-11T19:10:31+00:00`
+- checked_at: `2026-03-11T19:10:31+00:00`
+- etag: `"djEuMi4wOjE3NzMyNDQ4MzkzMTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-03-11T16:02:39+00:00",
+  "fetched_at": "2026-03-11T19:10:31+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,27 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "c168075889f6f0825597277ac0120b23e9b86b59",
+      "title": "This fish shouldn’t exist — the weird genetics of clonal vertebrates",
+      "published_at": "2026-03-11T16:00:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-00798-0",
+      "description": "A study reveals how the asexual Amazon molly defies evolutionary expectations — plus, evidence of what may be powering superluminous supernovae. In this episode: 00:46 Unravelling the genetics of an asexual fish that should be extinct Research Article: Ricemeyer et al. News and Views: How an all-female fish species defies evolutionary expectations 10:19 Research Highlights Nature: ​​​​​​​Jam-packed star system is most compact of its kind ever found Nature: ​​​​​​​Peanut-processing microbes ward off dangerous allergic shock 11:31 How a superluminous supernova got so bright Research Article : ​​​​​​​ Farah et al. News and Views: ​​​​​​​ Ultra-bright supernova wobbles like a spinning top Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday: https://www.nature.com/briefing/signup Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69b1903dd308577aad6b6e90/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22448764",
+      "itunes_duration": "23:22",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "fish",
+        "genetic",
+        "vertebrate"
+      ]
+    },
     {
       "key": "6771a16446419097ef43546790c94b09e2949a37",
       "title": "Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey",
@@ -19198,6 +19219,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — This fish shouldn’t exist — the weird genetics of clonal vertebrates — speakers: Benjamin Thompson, Noah Baker
 - 2026-03-06 — Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey — speakers: What Galileo, New Scien, Benjamin Thompson, Noah Baker
 - 2026-03-04 — Heart surgery with quick-setting magnetic fluid could prevent strokes — speakers: Benjamin Thompson, Noah Baker
 - 2026-03-02 — Audio long read: Many people have no mental imagery. What’s going on in their brains? — speakers: Benjamin Thompson, Noah Baker

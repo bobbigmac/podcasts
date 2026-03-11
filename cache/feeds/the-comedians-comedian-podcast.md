@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-03-06T07:07:53+00:00`
-- checked_at: `2026-03-06T07:07:53+00:00`
-- etag: `"djEuMi4wOjE3NzI3NzY4Mzk2NjY="`
+- fetched_at: `2026-03-11T19:10:31+00:00`
+- checked_at: `2026-03-11T19:10:31+00:00`
+- etag: `"djEuMi4wOjE3NzMyNTI1NDQ5NDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-03-06T07:07:53+00:00",
+  "fetched_at": "2026-03-11T19:10:31+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
