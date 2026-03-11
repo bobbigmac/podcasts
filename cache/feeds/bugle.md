@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-03-10T16:14:03+00:00`
-- checked_at: `2026-03-10T16:14:03+00:00`
-- etag: `"djEuMi4wOjE3NzMxNTM0MTE2NDY="`
+- fetched_at: `2026-03-11T16:02:39+00:00`
+- checked_at: `2026-03-11T16:02:39+00:00`
+- etag: `"djEuMi4wOjE3NzMyMzc5Mjc2NTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-03-10T16:14:03+00:00",
+  "fetched_at": "2026-03-11T16:02:39+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "926516635f19b4ec48853d26c8151d3299c71909",
+      "title": "Have influencers gone too far? Trump's ex-presidential mash-up and Gnome News!",
+      "published_at": "2026-03-11T14:05:27+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/have-influencers-gone-too-far-trumps-ex-presidential-mash-up",
+      "description": "On this issue 4371 of The Bugle, Andy is joined by Alice Fraser and Tiff Stevenson as they breakdown another turbulent week's news from across the globe, with the aftermath of the attacks across the Middle East, and the appointment of the new supreme leader of Iran. The trio also discuss Timothée Chalamet recent controversy, and the growing concern that the human race are too easily influenced! 🇮🇷 Iran Update: Andy, Alice and Tiff unpack another turbulent week in the Middle East 🩰 Timothée Chalamet put's his foot in it: The trio discuss the Marty Supreme actor following his controversial comments on Opera and Ballet! 📱 Influencers going too far: Andy, Alice and Tiff try to get their heads around the latest influencer hack and has influencing gone too far... Andy's Links: andyzaltzman.co.uk Tiff Stevenson's Links: https://www.instagram.com/tiffstevensoncomic/?hl=en Alice Fraser's Links: https://www.patreon.com/AliceFraser + The Gargle is BACK go Watch/Listen now on the Bugle Network! 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/69b176a794cfbd3a45477cfb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43034748",
+      "itunes_duration": "44:49",
+      "speakers": [
+        "Alice Fraser",
+        "Tiff Stevenson",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "influencer",
+        "trump",
+        "mash",
+        "gnome",
+        "news"
+      ]
+    },
     {
       "key": "9a297edc59decbf7536d0b113cad4a8189802d6b",
       "title": "Iran, Trump, and Kerala goes through a name change",
@@ -13996,6 +14020,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — Have influencers gone too far? Trump's ex-presidential mash-up and Gnome News! — speakers: Alice Fraser, Tiff Stevenson, Andy Zaltzman
 - 2026-03-05 — Iran, Trump, and Kerala goes through a name change — speakers: Anuvab Pal, Andy Zaltzman
 - 2026-02-18 — Munich Security Conference, Cuban Cigar Crisis and RFK and the Toilet Seat — speakers: Helen Zaltzman, Andy Zaltzman
 - 2026-02-11 — Starmer on the ropes, Trump's social media antics and Olympians resulting to penis enlargement to win big! — speakers: Neil Delamere, Alice Fraser, Andy Zaltzman
