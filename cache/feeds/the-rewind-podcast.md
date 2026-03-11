@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-03-11T02:49:34+00:00`
-- checked_at: `2026-03-11T02:49:34+00:00`
-- etag: `W/"14b6f-pTT3ZiFAVPepUyezgXiJv/UpGOw"`
+- fetched_at: `2026-03-11T07:11:51+00:00`
+- checked_at: `2026-03-11T07:11:51+00:00`
+- etag: `W/"14281-uhRujFeyplzhjXT40SOTTGU5mjc"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-03-11T02:49:34+00:00",
+  "fetched_at": "2026-03-11T07:11:51+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,33 +28,6 @@
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "3134bd03bad796cab752ecd50e64cb0442a31c04",
-      "title": "Chainsaw Man, Oscar Predictions, and the State of the Slasher | The Rewind Podcast",
-      "published_at": "2026-03-11T00:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Chainsaw-Man--Oscar-Predictions--and-the-State-of-the-Slasher--The-Rewind-Podcast-e3g8efl",
-      "description": "This week on The Rewind, Darren, Jack, and Marty chat about their recent trips to the world of Chainsaw Man, the state of the slasher genre, and which Academy Award nominees you should catch up on before this weekend's big ceremony. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/116717493/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2Fc9c93c97-cd11-0577-7fd5-e0be0ccd12ed.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "226120352",
-      "itunes_duration": "02:37:01",
-      "speakers": [
-        "Chainsaw Man",
-        "Darren Mooney",
-        "Jack Packard",
-        "Marty Sliva"
-      ],
-      "topics": [
-        "chainsaw",
-        "oscar",
-        "predictions",
-        "state",
-        "slasher",
-        "rewind",
-        "podcast"
-      ]
-    },
     {
       "key": "8b258eb75a15bbe1abe7681561cfc0abb5499b84",
       "title": "Does A Knight of the Seven Kingdoms Bring the Juice Back to Thrones? | The Rewind Podcast",
@@ -1065,7 +1038,6 @@
 
 ## Episodes (newest first)
 
-- 2026-03-11 — Chainsaw Man, Oscar Predictions, and the State of the Slasher | The Rewind Podcast — speakers: Chainsaw Man, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-02-25 — Does A Knight of the Seven Kingdoms Bring the Juice Back to Thrones? | The Rewind Podcast — speakers: Seven Kingdoms Bring, Juice Back, Second Wind, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-02-11 — Our Thoughts on Iron Lung, Fallout Season 2, and Wonder Man | The Rewind Podcast — speakers: Wonder Man, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-01-28 — Sinners' Record-Breaking Oscar Nominations | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
