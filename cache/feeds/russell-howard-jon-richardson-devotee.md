@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-11T07:11:51+00:00`
-- checked_at: `2026-03-11T07:11:51+00:00`
-- etag: `W/"214a0-BpoiivTOvVDLOed4AkWosf7pBMQ"`
+- fetched_at: `2026-03-11T10:00:17+00:00`
+- checked_at: `2026-03-11T10:00:17+00:00`
+- etag: `W/"21b2a-Ts8kMU93c93eAGL1Whuy6Ai1z/A"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-11T07:11:51+00:00",
+  "fetched_at": "2026-03-11T10:00:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "088e315eb5be2ec9325ab650d2d9108ffc856035",
+      "title": "#30 Jon Richardson Podcast with Charlie Baker",
+      "published_at": "2026-03-10T19:50:20+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/30-Jon-Richardson-Podcast-with-Charlie-Baker-e3g8apj",
+      "description": "Link to the new Podcast here SPOTIFY: https://open.spotify.com/episode/7rTB7maNsikGXGUzwXkX86?si=HkBWho6BQEOcBDsePrj3QQ EMAIL: pcdevotee@gmail.com #30 Jon Richardson Podcast with Charlie Baker",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773171804443-50dc11c64694e.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116713715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-10%2F419732671-44100-2-ce4f9e8afe63f.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82192926",
+      "itunes_duration": "01:25:37",
+      "speakers": [
+        "Charlie Baker"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "charlie",
+        "baker"
+      ]
+    },
     {
       "key": "f1ec9eea008f12c223224f0525632f5dc4f6b14e",
       "title": "#29 Jon Richardson Podcast with Josie Long",
@@ -2380,6 +2401,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-10 — #30 Jon Richardson Podcast with Charlie Baker — speakers: Charlie Baker
 - 2026-03-09 — #29 Jon Richardson Podcast with Josie Long — speakers: Josie Long
 - 2026-03-08 — #28 Jon Richardson Podcast with Tim Vine — speakers: Tim Vine
 - 2026-03-05 — #27 Jon Richardson Podcast with Al Pitcher — speakers: Al Pitcher

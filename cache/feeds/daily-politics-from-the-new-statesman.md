@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-11T02:49:34+00:00`
-- checked_at: `2026-03-11T02:49:34+00:00`
-- etag: `"djEuMi4wOjE3NzMxNzkzNzYwNDA="`
+- fetched_at: `2026-03-11T10:00:17+00:00`
+- checked_at: `2026-03-11T10:00:17+00:00`
+- etag: `"djEuMi4wOjE3NzMyMTg3MzkzNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-11T02:49:34+00:00",
+  "fetched_at": "2026-03-11T10:00:17+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "83841bad1ba8ec21e0115e20354a5aec5a4cd15e",
+      "title": "David Lammy on the crisis abroad and within Labour",
+      "published_at": "2026-03-11T08:45:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/david-lammy-on-the-crisis-abroad-and-within-labour",
+      "description": "Were the strikes on Iran illegal? What's next for the controversial courts bill? Are Labour leaders aware of the existential crisis within their party? On this week's episode of The Exchange, we speak with Deputy Prime Minister and Secretary of State for Justice, David Lammy. To listen more episodes of The Exchange find us on Spotify , Apple , and YouTube . LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1773178871768-0a09a80d-15c9-4202-b6b7-6fdc8ae28e13.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69b091efc36fc2d58b2beee2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65075806",
+      "itunes_duration": "45:11",
+      "speakers": [
+        "David Lammy",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "david",
+        "lammy",
+        "crisis",
+        "labour"
+      ]
+    },
     {
       "key": "b35ee0a833a8e70cf1aa033270045bc05aa9a1fa",
       "title": "Trump's war is making us all poorer",
@@ -30466,6 +30489,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — David Lammy on the crisis abroad and within Labour — speakers: David Lammy, Anoosh Chakelian, Oli Dugmore
 - 2026-03-10 — Trump's war is making us all poorer — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-09 — Starmer and Trump's relationship at an all time low — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-07 — ”Won’t somebody think of the labradoodles?” | Will and Anoosh’s weekly round up — speakers: Khan’s London, Anoosh Chakelian, Oli Dugmore
