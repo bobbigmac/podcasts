@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-09T07:17:26+00:00`
-- checked_at: `2026-03-09T07:17:26+00:00`
-- etag: `"djEuMi4wOjE3NzMwMjg2NTkyOTM="`
+- fetched_at: `2026-03-11T04:53:17+00:00`
+- checked_at: `2026-03-11T04:53:17+00:00`
+- etag: `"djEuMi4wOjE3NzMyMDE0NTkzNDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-09T07:17:26+00:00",
+  "fetched_at": "2026-03-11T04:53:17+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7b29cb1febaf4ba439f2365e3c239ad7796d5aa6",
+      "title": "RHLSTP 602 - Stevie Martin",
+      "published_at": "2026-03-11T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #602 - Ladybird - Richard has come to Chelmsford for the Essex Podcast Festival and is very excited by the big changes coming to the shopping centre. His guest is the charming and Taskmaster hysterical Stevie Martin. They chat about doing adverts, working with Mitchell and Webb, eating cake out of a bin, the Taskmaster bounce and why she is loving touring, rating feet, how Lou Sanders made her throw up through the medium of chocolate, spitting raisins into a glass and the bizarre occurrence of Andrew Collins interviewing Stevie Martin and why Brighton thinks someone else is coming to gig for them soon. Plus Rich rolls out some new emergency questions! See RHLSTP live http://richardherring.com/rhlstp See Stevie’s Clout https://steviemartin.com/ SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1773000265619-c4a0ee03-a6ab-4581-9173-71048130ab4c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69add2fb6ffdcd81881a944e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32772350",
+      "itunes_duration": "1:01:28",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "stevie",
+        "martin"
+      ]
+    },
     {
       "key": "5f34ffa318c1d68fcd6a104b1299fbf1bddc57be",
       "title": "Retro RHLSTP 136 - Fern Brady",
@@ -21702,6 +21721,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — RHLSTP 602 - Stevie Martin — speakers: Richard Herring
 - 2026-03-09 — Retro RHLSTP 136 - Fern Brady — speakers: Fern Brady, Richard Herring
 - 2026-03-07 — RAACN week 6 — speakers: Wednesday March, Dental Caries, Richard Herring
 - 2026-03-06 — RHLSTP Book Club 172 - Mike Rampton — speakers: Mike Rampton, Richard Herring

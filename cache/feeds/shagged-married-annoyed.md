@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-03-09T21:46:41+00:00`
-- checked_at: `2026-03-09T21:46:41+00:00`
-- last_modified: `Mon, 09 Mar 2026 20:46:41 GMT`
+- fetched_at: `2026-03-11T04:53:17+00:00`
+- checked_at: `2026-03-11T04:53:17+00:00`
+- last_modified: `Wed, 11 Mar 2026 03:42:15 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-09T21:46:41+00:00",
+  "fetched_at": "2026-03-11T04:53:17+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "bc50e669576e8b58ccf694d48424d01e8b6efdd7",
+      "title": "Please Keep Me Anonymous with Maisie Adam",
+      "published_at": "2026-03-11T03:35:00+00:00",
+      "link": null,
+      "description": "Joining Chris and Rosie Ramsey this week is comedian, podcaster and Taskmaster Series 20 winner, Maisie Adam! They discuss KPop Demon Hunters, teen crushes, ex partners and why Chris has had enough of weddings! Maisie talks about a recent wrestling injury and Rosie reveals what 'Tour Chris' is really like. All of this plus Maisie reads out one of your Please Keep Me Anonymous stories! Maisie's Tour ' Whatsherface ' starts in September 2026, for tickets visit maisieadam.com You can also catch Maisie on her podcast Big Kick Energy , wherever you get your podcasts! If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/439586bc-1bf3-11f1-ba3e-1bd6b06d16a9/image/9a3e53a6de3d719f383bb2a099554b33.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1128963643.mp3?updated=1773089493",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2426",
+      "speakers": [
+        "Maisie Adam",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "maisie",
+        "adam"
+      ]
+    },
     {
       "key": "67b95d9ffd0f131edd880aa42efa1e818abd1f8c",
       "title": "A bribe, a Tom Jones obsession and some hidden Easter Eggs!",
@@ -7881,6 +7903,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — Please Keep Me Anonymous with Maisie Adam — speakers: Maisie Adam, Rosie Ramsey, Chris Ramsey
 - 2026-03-06 — A bribe, a Tom Jones obsession and some hidden Easter Eggs! — speakers: Tom Jones, Chris Ramsey, Rosie Ramsey
 - 2026-03-04 — Please Keep Me Anonymous with Stevie Martin — speakers: Stevie Martin, Chris Ramsey, Rosie Ramsey
 - 2026-02-27 — A new crush, a tour update and the return of Barry Beef! — speakers: Barry Beef, Chris Ramsey, Rosie Ramsey

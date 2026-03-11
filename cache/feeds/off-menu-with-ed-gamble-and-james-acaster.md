@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-03-09T13:40:06+00:00`
-- checked_at: `2026-03-09T13:40:06+00:00`
-- etag: `"djEuMi4wOjE3NzMwNTc2MjMyMzA="`
+- fetched_at: `2026-03-11T04:53:17+00:00`
+- checked_at: `2026-03-11T04:53:17+00:00`
+- etag: `"djEuMi4wOjE3NzMyMDE2NDA0MTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-03-09T13:40:06+00:00",
+  "fetched_at": "2026-03-11T04:53:17+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7e5a7f89513d03d86e6ca09ed7b94c8ae1705867",
+      "title": "Ahir Shah",
+      "published_at": "2026-03-11T04:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/ahir-shah",
+      "description": "Edinburgh Comedy Award-winning stand-up and Netflix star Ahir Shah is this week’s guest diner. Sparkling bum gun, anyone? Ahir Shah is going to be touring across the UK with a brand new show, ‘Golden’, tickets on sale now at www.ahirshah.com Follow Ahir on Instagram @ahirshah Watch the video version of this episode on the Off Menu YouTube on Thu 12 Mar. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1772189749664-397b12f7-0896-4f52-8d8c-3f18e17da8fb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69a17bf60e309558510407ef/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92143456",
+      "itunes_duration": "1:16:46",
+      "speakers": [
+        "Ahir Shah",
+        "Edinburgh Comedy Award-winning",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "ahir",
+        "shah"
+      ]
+    },
     {
       "key": "86964f8fcdebffd297d1dad473a1cdc181322a7b",
       "title": "Amy Matthews",
@@ -8261,6 +8284,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — Ahir Shah — speakers: Ahir Shah, Edinburgh Comedy Award-winning, Ed Gamble, James Acaster, Ben Williams
 - 2026-03-04 — Amy Matthews — speakers: Amy Matthews Superb, Amy Matthews, Ed Gamble, James Acaster, Ben Williams
 - 2026-02-25 — Nikesh Patel — speakers: Nikesh Patel Actor, Celebrity Hunted, Ed Gamble, James Acaster, Ben Williams
 - 2026-02-18 — Fern Brady (Tasting Menu) — speakers: Fern Brady, Tasting Menu, Off Menu, Ed Gamble, James Acaster, Ben Williams

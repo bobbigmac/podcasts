@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-03-10T19:08:37+00:00`
-- checked_at: `2026-03-10T19:08:37+00:00`
-- etag: `"djEuMi4wOjE3NzMxNjA1NTYxNzc="`
+- fetched_at: `2026-03-11T04:53:17+00:00`
+- checked_at: `2026-03-11T04:53:17+00:00`
+- etag: `"djEuMi4wOjE3NzMyMDE2OTk4Mjc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-03-10T19:08:37+00:00",
+  "fetched_at": "2026-03-11T04:53:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "715cf0f3710ecc18fa2ad23cb47f8b6e132e586f",
+      "title": "LENA HEADEY • how to navigate the maze of the acting world #662",
+      "published_at": "2026-03-11T04:01:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by one of the greatest to do it, please welcome LENA HEADEY ! Lena is a very esteemed colleague of the podcast and a treasured member of the past guests club (her debut on here was back in January 2018 no less) - and so it is a fabulous thing when there is chance of a reunion. And that is what we have right here! So much to talk about and catch up on, and Pip is coming in hot so you can expect a goody here. It crackles along at a nice speed all the way, featuring all the actorial nuggets and goodness you would want and just a straight up classic all rounder. Lena's a champ and always a pleasure to hear from so enjoy this one - it's a lovely episode. PIP'S PATREON PAGE if you're of a supporting nature LENA IMDB LENA IG THE ABANDONS PIP AT PRINCE CHARLES CINEMA! SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1773158775130-60d4dfe3-6526-4e70-91d3-bd256fb276a8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69b04681738d6fbbf2135ecd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "153722881",
+      "itunes_duration": "1:04:00",
+      "speakers": [],
+      "topics": [
+        "lena",
+        "headey",
+        "maze",
+        "world"
+      ]
+    },
     {
       "key": "67e3823e2fd7b26d40fde705095702dd425bfe23",
       "title": "JOE CORNISH (The Kid Who Would Be King / Attack The Block / Adam & Joe) • Friday Rewind",
@@ -18366,6 +18385,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — LENA HEADEY • how to navigate the maze of the acting world #662
 - 2026-03-06 — JOE CORNISH (The Kid Who Would Be King / Attack The Block / Adam & Joe) • Friday Rewind — speakers: Joe Cornish
 - 2026-03-04 — HERO FIENNES TIFFIN & DONAL FINN • Young Sherlock premiers on Prime from March 4! #661
 - 2026-02-27 — LUCY PINDER (Smashing Sundays / Me Myself & Di) • Friday Rewind
