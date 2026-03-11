@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-11T10:00:17+00:00`
-- checked_at: `2026-03-11T10:00:17+00:00`
-- etag: `W/"21b2a-Ts8kMU93c93eAGL1Whuy6Ai1z/A"`
+- fetched_at: `2026-03-11T21:47:55+00:00`
+- checked_at: `2026-03-11T21:47:55+00:00`
+- etag: `W/"22105-/ldco0q+F0BBjdrqO+UgYbmLlcA"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-11T10:00:17+00:00",
+  "fetched_at": "2026-03-11T21:47:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "895187543022a994d3d39dd5385b42abbce26bd7",
+      "title": "#31 Jon Richardson Podcast with Matt Crosby",
+      "published_at": "2026-03-11T20:18:08+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/31-Jon-Richardson-Podcast-with-Matt-Crosby-e3ga609",
+      "description": "Link to the new Podcast here SPOTIFY: https://open.spotify.com/episode/7rTB7maNsikGXGUzwXkX86?si=HkBWho6BQEOcBDsePrj3QQ EMAIL: pcdevotee@gmail.com",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773260054475-888eff8592128.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116774345/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-11%2F419814110-44100-2-84f1696e3d4d.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75201723",
+      "itunes_duration": "01:18:20",
+      "speakers": [
+        "Matt Crosby"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "matt",
+        "crosby"
+      ]
+    },
     {
       "key": "088e315eb5be2ec9325ab650d2d9108ffc856035",
       "title": "#30 Jon Richardson Podcast with Charlie Baker",
@@ -2401,6 +2422,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — #31 Jon Richardson Podcast with Matt Crosby — speakers: Matt Crosby
 - 2026-03-10 — #30 Jon Richardson Podcast with Charlie Baker — speakers: Charlie Baker
 - 2026-03-09 — #29 Jon Richardson Podcast with Josie Long — speakers: Josie Long
 - 2026-03-08 — #28 Jon Richardson Podcast with Tim Vine — speakers: Tim Vine
