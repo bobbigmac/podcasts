@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-03-04T02:50:53+00:00`
-- checked_at: `2026-03-04T02:50:53+00:00`
-- etag: `"98d8d-64c288da295cb"`
-- last_modified: `Wed, 04 Mar 2026 01:15:18 GMT`
+- fetched_at: `2026-03-11T02:49:34+00:00`
+- checked_at: `2026-03-11T02:49:34+00:00`
+- etag: `"99887-64cb55e8c3511"`
+- last_modified: `Wed, 11 Mar 2026 01:15:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-03-04T02:50:53+00:00",
+  "fetched_at": "2026-03-11T02:49:34+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f610215dc25b3727cfcd8b8c2bf4287ee2d53f87",
+      "title": "Chickens",
+      "published_at": "2026-03-11T01:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/chickens",
+      "description": "The chicken. Tuna Of The Fields. The Bishop’s Rest. The Pauper’s Goose. Captain Susan’s Seed Hoover. El Punzón Que Vuela. The Crap Eagle. That it goes by so many names is, perhaps, proof of its profound impact on our culture through the ages. Katherine of Boston can surely be forgiven then for selecting chickens as this week’s topic for the beans. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/2cc80794-7585-4b08-9314-f9ffd8418ea5/S20E2-Chickens.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/c86a80a4-f291-4a45-a724-51db4c6a7339.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=c86a80a4-f291-4a45-a724-51db4c6a7339",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55488306",
+      "itunes_duration": "57:48",
+      "speakers": [
+        "Susan’s Seed Hoover",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "chicken"
+      ]
+    },
     {
       "key": "82cdcd33da2a44d1c0c8a05fe5b499deffbf0243",
       "title": "The Coastguard",
@@ -4047,6 +4068,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — Chickens — speakers: Susan’s Seed Hoover, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-03-04 — The Coastguard — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-01-28 — Road Trips — speakers: Road Trips According, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-01-21 — Cavemen — speakers: Stone Age, Mike Wozniak, Henry Paker, Benjamin Partridge

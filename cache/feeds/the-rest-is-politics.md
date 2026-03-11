@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-03-10T21:41:58+00:00`
-- checked_at: `2026-03-10T21:41:58+00:00`
-- last_modified: `Tue, 10 Mar 2026 20:52:56 GMT`
+- fetched_at: `2026-03-11T02:49:34+00:00`
+- checked_at: `2026-03-11T02:49:34+00:00`
+- last_modified: `Wed, 11 Mar 2026 00:00:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-10T21:41:58+00:00",
+  "fetched_at": "2026-03-11T02:49:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "70f4b4a3f6969870ead64a6586ad62c805bf5b45",
+      "title": "511. Is Blair Undermining Starmer on Iran? (Question Time)",
+      "published_at": "2026-03-11T00:00:00+00:00",
+      "link": null,
+      "description": "Why is Tony Blair criticising Starmer’s approach to Trump’s warmongering in the Middle East? Should European leaders be calling out Trump’s lies more directly? What is actually unfolding inside Iran right now? Join Rory and Alastair as they answer all these questions and more. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus: Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. To sign up and for terms and conditions, visit fuseenergy.com/politics . ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/916bc832-1ca3-11f1-916e-af888014049c/image/753aab5a2038c9360bba3cd4693c3a09.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7016276776.mp3?updated=1773176267",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3303",
+      "speakers": [
+        "Blair Undermining Starmer"
+      ],
+      "topics": [
+        "blair",
+        "undermining",
+        "starmer",
+        "iran",
+        "question",
+        "time"
+      ]
+    },
     {
       "key": "548044400177cc9c19cf0f054d008b75503a94a6",
       "title": "510. How The Iran War Is Spiralling Into a Global Crisis",
@@ -11286,6 +11309,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — 511. Is Blair Undermining Starmer on Iran? (Question Time) — speakers: Blair Undermining Starmer
 - 2026-03-09 — 510. How The Iran War Is Spiralling Into a Global Crisis
 - 2026-03-05 — The Future of Warfare: Anthropic vs OpenAI
 - 2026-03-05 — 509. Labour's Polanski Problem and the Student Loans Scandal (Question Time) — speakers: Polanski Problem

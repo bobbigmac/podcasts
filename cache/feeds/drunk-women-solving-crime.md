@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-03-08T03:12:19+00:00`
-- checked_at: `2026-03-08T03:12:19+00:00`
-- etag: `"djEuMi4wOjE3NzI5MTk3NDU1MzY="`
+- fetched_at: `2026-03-11T02:49:34+00:00`
+- checked_at: `2026-03-11T02:49:34+00:00`
+- etag: `"djEuMi4wOjE3NzMxOTA4Mzk1MDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-03-08T03:12:19+00:00",
+  "fetched_at": "2026-03-11T02:49:34+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,30 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "02573fc9624adad1bbec15f2c2b03cb8c779fe0a",
+      "title": "Haunting Cliff, with Maria McErlane",
+      "published_at": "2026-03-11T01:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/haunting-cliff-with-maria-mcerlane",
+      "description": "This week, comedian, writer, and prolific loser of bikes, Maria McErlane joins the force to lament the loss of numerous two wheeled modes of transport, while also giving our hosts a hand to delve into the details of the story of one heck of a Brittany bitch from 1312. We also hear why Robert Dyas is a third wheel in Taylor's marriage, what happens when a menopausal pirate takes to the high seas, and how Hanna's brother scared the bejesus out of the Peter Pan of Pop. DWSC eps now drop every Wednesday and every other Friday, so that's at least SIX drops every, single month! Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/69ac9823c21c4a0703d58bed/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85427319",
+      "itunes_duration": "59:19",
+      "speakers": [
+        "Haunting Cliff",
+        "Maria McErlane",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "haunting",
+        "cliff",
+        "maria",
+        "mcerlane"
+      ]
+    },
     {
       "key": "604ab0b444fb4e5a5df48f45f1ced23aeb1c6ecc",
       "title": "My Drunk Woman Solved a Toaster",
@@ -10769,6 +10793,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — Haunting Cliff, with Maria McErlane — speakers: Haunting Cliff, Maria McErlane, Hannah George, Taylor Glenn
 - 2026-03-06 — My Drunk Woman Solved a Toaster — speakers: My Drunk Woman Solved, Hannah George, Taylor Glenn
 - 2026-03-04 — Adele Cliff's Original Source — speakers: Adele Cliff, Hannah George, Taylor Glenn
 - 2026-02-25 — The Naked Truth, with Madeleine Brettingham — speakers: Madeleine Brettingham, Hannah George, Taylor Glenn

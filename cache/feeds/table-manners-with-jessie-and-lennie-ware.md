@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-03-10T19:08:37+00:00`
-- checked_at: `2026-03-10T19:08:37+00:00`
-- etag: `"djEuMi4wOjE3NzMxNjg2NTM0ODA="`
+- fetched_at: `2026-03-11T02:49:34+00:00`
+- checked_at: `2026-03-11T02:49:34+00:00`
+- etag: `"djEuMi4wOjE3NzMxOTA4Mzk0NzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-03-10T19:08:37+00:00",
+  "fetched_at": "2026-03-11T02:49:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "3ace4115226b340e95a73ae3ab6e5e1d95761457",
+      "title": "Kurt and Wyatt Russell",
+      "published_at": "2026-03-11T01:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/kurt-and-wyatt-russell",
+      "description": "It’s a family affair this week, we have acting royalty Kurt Russell with his son Wyatt Russell here to talk about the brand new series of their hit Apple TV show. We’ve already had Wyatt’s sister Kate Hudson join us, we’re only a few steps away from ticking off the full family (Goldie next?). We covered everything from Kurt being a trained pilot, Wyatt never wanting to become an actor, their joint phobia of spiders, eating ready meals while filming in Australia, being wine & cocktail entrepreneurs, and we even find out that Wyatt took his very first steps on the set of our all time fave film - Overboard! We absolutely loved having this gorgeous father and son duo join us, looks like we’re getting closer and closer to an invite to THAT epic NYE party…! The new series of Monarch: Legacy of Monsters is streaming now on Apple TV now. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1773168598157-225ff357-a6f5-4303-9503-79e174592df7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69b011f8ebc55167dbc551d1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50945879",
+      "itunes_duration": "53:04",
+      "speakers": [
+        "Wyatt Russell",
+        "Kurt Russell"
+      ],
+      "topics": [
+        "kurt",
+        "wyatt",
+        "russell"
+      ]
+    },
     {
       "key": "d28b61b8e096027260ca9fe543034ff864b12755",
       "title": "Hilary Duff",
@@ -6926,6 +6947,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — Kurt and Wyatt Russell — speakers: Wyatt Russell, Kurt Russell
 - 2026-03-04 — Hilary Duff — speakers: Hilary Duff
 - 2026-02-25 — Hannah Fry — speakers: Hannah Fry
 - 2026-02-18 — Emma Corrin — speakers: Emma Corrin

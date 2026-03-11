@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-03-08T03:12:19+00:00`
-- checked_at: `2026-03-08T03:12:19+00:00`
-- last_modified: `Sun, 08 Mar 2026 03:00:00 GMT`
+- fetched_at: `2026-03-11T02:49:34+00:00`
+- checked_at: `2026-03-11T02:49:34+00:00`
+- last_modified: `Wed, 11 Mar 2026 02:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/e3305fc974dac38dee8f3d8103df6e67.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-08T03:12:19+00:00",
+  "fetched_at": "2026-03-11T02:49:34+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d0acef52a47d3f9282729484cb911383b61ff8ab",
+      "title": "WDWDY #62: Dublin Show Post Mortem",
+      "published_at": "2026-03-11T02:30:00+00:00",
+      "link": null,
+      "description": "On this mid-week bonus ep we find out what Max did with his yesterday... And we discuss and say thanks to everyone who joined us for the live show in Dublin. We had a great time so thanks for joining us! Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/958c8340-1cec-11f1-87a8-e33c8b6f508f/image/66dd0e1c0c3ae1c9c14e2654bb78ebeb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7822487091.mp3?updated=1773196013",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3371",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "dublin",
+        "post",
+        "mortem"
+      ]
+    },
     {
       "key": "08526c2ecbd8168784c66b6f7cb3d69a0521c797",
       "title": "S4 EP10: Phil Ellis",
@@ -2992,6 +3013,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — WDWDY #62: Dublin Show Post Mortem — speakers: Max Rushden, David O'Doherty
 - 2026-03-08 — S4 EP10: Phil Ellis — speakers: Phil Ellis, Max Rushden, David O'Doherty
 - 2026-03-04 — WDWDY #61: Exceptional Perineum — speakers: Max Rushden, David O'Doherty
 - 2026-03-01 — S4 EP9: Marjolein Robertson — speakers: Marjolein Robertson, Max Rushden, David O'Doherty

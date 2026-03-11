@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-03-07T02:44:26+00:00`
-- checked_at: `2026-03-07T02:44:26+00:00`
-- last_modified: `Sat, 07 Mar 2026 02:06:54 GMT`
+- fetched_at: `2026-03-11T02:49:34+00:00`
+- checked_at: `2026-03-11T02:49:34+00:00`
+- last_modified: `Wed, 11 Mar 2026 02:07:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Join our Patreon for two shows a week, ad-free listening, early access and much more... Follow this link and get involved! - patreon.com/RussellHoward Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/f49076c57d0c5aac5d76c06956cf8e29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-07T02:44:26+00:00",
+  "fetched_at": "2026-03-11T02:49:34+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "080e0ed8b729a249e9cf7ec531f0206a3a62b3a3",
+      "title": "Pierre Novellie",
+      "published_at": "2026-03-11T02:00:00+00:00",
+      "link": null,
+      "description": "Pierre is a formidable stand-up comedian and it’s a pleasure to take this wander around the corners of his fascinating brain. This fun and fascinating episode of Five Brilliant Things takes in the majesty of beef, the efficiency of Grahame Greene, the mystery of thunder and finally why you must go out, find a child, and make it watch you read a book. Curious? You should be; all is revealed within Pierre’s episode here. 🎭 Pierre’s out on tour and you should experience him raw (by which I mean live, but raw sounded so much more exciting). Pierre will be touring across the UK and Ireland throughout 2026 with his critically acclaimed show, ‘You Sit There, I’ll Stand Here’ – all dates and tickets available at www.pierrenovellie.com 🎭 🎟️ And of course, Russell’s brand new tour show ‘Don’t Tell The Algorithm’ is well underway with rave reviews: Don’t miss this fantastic show of all brand-new material. Find out more at https://www.russell-howard.co.uk 🎟️ And there we go! The desolate end of the blurb. It’s just you and me now. Like the last two Wildebeest on the savannah, we watch each other warily, both realising simultaneously that although we are in terrible danger having strayed so far from the herd, there is also beauty in the vast silence of the savannah. I close my eyes to fully appreciate this existential moment, and you take advantage and run like hell. I become dinner for a pride of lions. Fair enough. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2e2eb24e-193c-11f1-817c-03c0c973341d/image/845032269ec2735cb3cd692b7f283662.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4284375543.mp3?updated=1772788983",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3941",
+      "speakers": [
+        "Pierre Novellie Pierre",
+        "Russell Howard"
+      ],
+      "topics": [
+        "pierre",
+        "novellie"
+      ]
+    },
     {
       "key": "bd733497b83d1e8de08f59e38f3856d790e5ca71",
       "title": "February's Moments of the Month",
@@ -2773,6 +2793,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-11 — Pierre Novellie — speakers: Pierre Novellie Pierre, Russell Howard
 - 2026-03-07 — February's Moments of the Month — speakers: Russell Howard
 - 2026-03-04 — Shane Todd — speakers: Northern Irish, Russell Howard
 - 2026-02-25 — Stevie Martin — speakers: Stevie Martin, Russell Howard
