@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-03-06T15:54:08+00:00`
-- checked_at: `2026-03-06T15:54:08+00:00`
-- etag: `"470b78233897f01185416f26825e00ff"`
-- last_modified: `Fri, 06 Mar 2026 14:16:45 GMT`
+- fetched_at: `2026-03-12T13:36:37+00:00`
+- checked_at: `2026-03-12T13:36:37+00:00`
+- etag: `"6e4bd6ecda3ca5363bd4f7efdd72b736"`
+- last_modified: `Thu, 12 Mar 2026 12:40:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-03-06T15:54:08+00:00",
+  "fetched_at": "2026-03-12T13:36:37+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -172,34 +172,6 @@
         "year",
         "news"
       ]
-    },
-    {
-      "key": "ec2dc233692906ae4f7962976eb3f6563c972513",
-      "title": "Vittorio Angelone, Kathleen Hughes, Tiffany Stevenson and Scott Agnew",
-      "published_at": "2025-12-12T14:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m002n98t",
-      "description": "Des and the teams break up the week's big news. Including: Fifa's ethics being called into question, the Australian social media ban, a banks ban on Christmas jumpers in the workplace, Judy Murray’s push for more support for PE in schools and more. Lead Writer: Rebecca Bain and Alex Garrick Wright. Additional material: Nathan Cowley, Stuart Beale, Gregor Paton, Alan Hazlie, Andrew Duthie, Dan Welton and Sarah Tattersall. Producer: Chris Quilietti Senior Producer: Lauren Mackay Series Producer: David Flynn Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mn5tmd.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26880000",
-      "itunes_duration": "1680",
-      "speakers": [
-        "Vittorio Angelone",
-        "Kathleen Hughes",
-        "Scott Agnew",
-        "Bbc Radio Scotland"
-      ],
-      "topics": [
-        "vittorio",
-        "angelone",
-        "kathleen",
-        "hughes",
-        "tiffany",
-        "stevenson",
-        "scott",
-        "agnew"
-      ]
     }
   ]
 }
@@ -214,4 +186,3 @@
 - 2026-01-01 — Breaking the Year — speakers: Bbc Radio Scotland
 - 2025-12-26 — The Best of Unbroadcast — speakers: Unbroadcast Join Des Clarke, Bbc Radio Scotland
 - 2025-12-19 — 10 Years of Breaking the News — speakers: Lead Writer, Laura Major, Bbc Radio Scotland
-- 2025-12-12 — Vittorio Angelone, Kathleen Hughes, Tiffany Stevenson and Scott Agnew — speakers: Vittorio Angelone, Kathleen Hughes, Scott Agnew, Bbc Radio Scotland

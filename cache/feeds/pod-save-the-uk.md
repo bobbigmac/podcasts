@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-03-12T07:13:40+00:00`
-- checked_at: `2026-03-12T07:13:40+00:00`
-- etag: `W/"1ad277febb0f9b44c308201b90caaba2"`
-- last_modified: `Thu, 12 Mar 2026 04:00:00 GMT`
+- fetched_at: `2026-03-12T13:36:37+00:00`
+- checked_at: `2026-03-12T13:36:37+00:00`
+- etag: `W/"cd05172aaa2517ac8bb5c89cd873e3be"`
+- last_modified: `Thu, 12 Mar 2026 11:14:31 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-03-12T07:13:40+00:00",
+  "fetched_at": "2026-03-12T13:36:37+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -34,7 +34,7 @@
       "title": "The Mandelson Files Are Out",
       "published_at": "2026-03-12T04:00:00+00:00",
       "link": "https://audioboom.com/posts/8872705",
-      "description": "The first wave of Mandelson files have been published. We all wanted to know what Keir Starmer knew, and when he knew it. Now we can see it in black and white. And as it turns out - Starmer was warned there was a “general reputational risk” over Mandelson’s relationship with Jeffrey Epstein ahead of his confirmation as US ambassador. Nish and Coco make sense of this perilous moment for the PM. Then critical theorist and viral creator Louisa Munch helps us make sense of the government’s new social cohesion strategy. But is tackling extremism and yet more surveillance the answer to fraying social ties? Plus - as Iran names its new supreme leader oil prices skyrocket - for a PM obsessed with the cost of living, this is shaping up to be a bit of a nightmare. Remember to send your questions in for Nish and Coco to psuk@reducedlistening.co.uk and they’ll spill the tea! CHECK OUT THESE DEALS FROM OUR SPONSORS AURA FRAMES: https://www.auraframes.com Code: PSTUK BABBEL: https://www.babbel.com/PSUK GUESTS Louisa Munch, Critical Theorist Minnie Rahman, CEO Praxis USEFUL LINKS “Nish, Don’t Kill My Vibe” + Q&A with James Acaster at The Ritzy, Brixton - 18th March https://picturehouses.com/movie-details/000/HO00017471/nish-kumar-nish-don-t-kill-my-vibe-q-a?filter= Open letter opposing planned changes to the immigration settlement routes: https://www.praxis.org.uk/news/open-letter-to-the-home-secretary CREDITS Darren Jones MP, Cabinet Office minister - Parliament TV Steve Reed MP, Communities Secretary - Parliament TV Mike Tapp MP, Migration minister - Parliament TV Minnie Rahman, Praxis CEO Frederik Pleitgen, CNN International Senior Correspondent - CNN Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "description": "The first wave of Mandelson files have been published. We all wanted to know what Keir Starmer knew, and when he knew it. Now we can see it in black and white. And as it turns out - Starmer was warned there was a “general reputational risk” over Mandelson’s relationship with Jeffrey Epstein ahead of his confirmation as US ambassador. Nish and Coco make sense of this perilous moment for the PM. Then critical theorist and viral creator Louisa Munch helps us make sense of the government’s new social cohesion strategy. But is tackling extremism and yet more surveillance the answer to fraying social ties? Plus - as Iran names its new supreme leader oil prices skyrocket - for a PM obsessed with the cost of living, this is shaping up to be a bit of a nightmare. Remember to send your questions in for Nish and Coco to psuk@reducedlistening.co.uk and they’ll spill the tea! CHECK OUT THESE DEALS FROM OUR SPONSORS AURA FRAMES: https://www.auraframes.com Code: PSTUK BABBEL: https://www.babbel.com/PSUK GUESTS Louisa Munch, Critical Theorist Minnie Rahman, CEO Praxis USEFUL LINKS “Nish, Don’t Kill My Vibe” + Q&A with James Acaster at The Ritzy, Brixton - 18th March https://picturehouses.com/movie-details/000/HO00017471/nish-kumar-nish-don-t-kill-my-vibe-q-a?filter= Open letter opposing planned changes to the immigration settlement routes: https://act.praxis.org.uk/open-letter-earned-settlement CREDITS Darren Jones MP, Cabinet Office minister - Parliament TV Steve Reed MP, Communities Secretary - Parliament TV Mike Tapp MP, Migration minister - Parliament TV Minnie Rahman, Praxis CEO Frederik Pleitgen, CNN International Senior Correspondent - CNN Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43525810.jpg",
       "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8872705.mp3?modified=1773260251&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
