@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-03-11T19:10:31+00:00`
-- checked_at: `2026-03-11T19:10:31+00:00`
-- etag: `"djEuMi4wOjE3NzMyNTI1NDQ5NDE="`
+- fetched_at: `2026-03-12T07:13:40+00:00`
+- checked_at: `2026-03-12T07:13:40+00:00`
+- etag: `"djEuMi4wOjE3NzMyOTUyMzk1NTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-03-11T19:10:31+00:00",
+  "fetched_at": "2026-03-12T07:13:40+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "bef7631087dd10f7b15ec33945824faf31648df0",
+      "title": "Joyelle Nicole Johnson",
+      "published_at": "2026-03-12T06:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/505-joyelle-nicole-johnson",
+      "description": "Joyelle Nicole Johnson is a US comedian known for bringing joy to the stage! Joyelle has performed on Late Night with Seth Meyers , is the permanent guest host on Sirius XM's Godfrey Complex and is currently the warm up comic for Hasan Minhaj's Patriot Act on Netflix. In this episode we discuss: why American comedians are seriously considering leaving the US learning to tell brutal truths while still keeping the audience onside why nerves can be a sign of respect for the audience the night a heckler rushed the stage during her set in Harlem how artists can’t thrive creatively when they don’t feel safe why becoming a comedian requires “a little bit of delusion ” and we find out if Joyelle is happy... Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to 15 minutes of exclusive extras including: learning to use your voice how people cosplay comfort and why influencers often fail on stage 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Joyelle: Joyelle’s special Lovejoy is out now on Peacock if you’re in the US and you can listen to her album Yell Joy at Blonde Medicine. You can also follow on Instagram, @JoyelleNicole . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ 15 minutes of exclusive extra content with Joyelle ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE including dates in Bristol , London , Manchester , Stoke , Marlborough and Mach ! Find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1773251832188-3ce54d34-7e60-4c63-85fa-25d071ac1a75.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69b1afc094cfbd3a455a279e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113552064",
+      "itunes_duration": "1:18:51",
+      "speakers": [
+        "Joyelle Nicole Johnson",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "joyelle",
+        "nicole",
+        "johnson"
+      ]
+    },
     {
       "key": "55d9f97a01b6d7011f239d760b48f141551660fa",
       "title": "James Acaster | Hecklers Welcome (2024): ComCompendium",
@@ -11229,6 +11250,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-12 — Joyelle Nicole Johnson — speakers: Joyelle Nicole Johnson, Stuart Goldsmith
 - 2026-03-06 — James Acaster | Hecklers Welcome (2024): ComCompendium — speakers: James Acaster, Hecklers Welcome, Stuart Goldsmith
 - 2026-02-27 — Ken Cheng — speakers: Ken Cheng Ken Cheng, Stuart Goldsmith
 - 2026-02-19 — Lindsey Santoro — speakers: Lindsey Santoro, Edinburgh Fringe, Stuart Goldsmith

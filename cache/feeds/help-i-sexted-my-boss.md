@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-03-10T19:08:37+00:00`
-- checked_at: `2026-03-10T19:08:37+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpNeE5qSTNNalF6TmpFPTo6c2F4ZXNz"`
+- fetched_at: `2026-03-12T07:13:40+00:00`
+- checked_at: `2026-03-12T07:13:40+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpNeU9UVXlOREV5T0RVPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-03-10T19:08:37+00:00",
+  "fetched_at": "2026-03-12T07:13:40+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "56a540188903ad9bb37dc398465230d15ea170df",
+      "title": "William's Masc?! | And Jolly Joke Surprise",
+      "published_at": "2026-03-12T06:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/northern-girls-wedding-tts-out-and-jordans-fave-name",
+      "description": "Jordan has noticed something unusually ‘masculine’ about William that he’s been too scared to mention until now, while William has arranged a little Mother’s Day surprise for Jordan’s Jolly Joke. The boys also discuss their favourite names and Northern girls at weddings. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": "0",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "william",
+        "masc",
+        "jolly",
+        "joke",
+        "surprise"
+      ]
+    },
     {
       "key": "cd98f245ef7917be25690b256f09c692380255e3",
       "title": "Help His Allergy Gives Me The Ick | And William Needs To Grow Up",
@@ -13878,6 +13901,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-12 — William's Masc?! | And Jolly Joke Surprise — speakers: William Hanson, Jordan North
 - 2026-03-10 — Help His Allergy Gives Me The Ick | And William Needs To Grow Up — speakers: William Needs, Soccer Aid, William Hanson, Jordan North
 - 2026-03-06 — William Ruined Jordan’s Birthday | And High-Maintenance Boys — speakers: William Ruined Jordan, William Hanson, Jordan North
 - 2026-03-03 — Help I’ve Been Probed In The Wrong Hole | And Jordan’s Got A Swell On — speakers: Jordan’s Got, William Hanson, Jordan North
