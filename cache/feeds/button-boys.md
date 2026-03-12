@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-03-09T19:10:05+00:00`
-- checked_at: `2026-03-09T19:10:05+00:00`
-- last_modified: `Mon, 09 Mar 2026 17:03:18 GMT`
+- fetched_at: `2026-03-12T03:11:57+00:00`
+- checked_at: `2026-03-12T03:11:57+00:00`
+- last_modified: `Thu, 12 Mar 2026 03:09:54 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-09T19:10:05+00:00",
+  "fetched_at": "2026-03-12T03:11:57+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,29 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "f64f22aa4e2f699dc51b3609f429070ebf9b1155",
+      "title": "Press to Unpause: Getting Back into Gaming",
+      "published_at": "2026-03-12T00:00:00+00:00",
+      "link": null,
+      "description": "If my eyes don't deceive me, I do declare it's another episode of the slowest-starting true crime podcast ever released. What's the crime? Keep listening for the reveal. In the meantime though, the Boys have been playing with themselves. Pierre's finally made a galactic breakthrough, Glenn's got hold of a very recent release and is discovering his undying love for it and Sarah's overcome the gloom in the most rad way possible (gnarly). Do you find sometimes it all gets a bit much? Life coming at you fast, nowhere to turn, nowhere to hide? You find yourself putting down the controller, stepping back from the keyboard and mouse and just... stopping. Well, this episode is about those gaming breaks and how you find your way back in. From new formats to friends and family, there's always a way to get hooked back on the good stuff. To follow along with the Button Boys outside the podcast: Pierre - ⁠ You Sit There, I’ll Stand Here⁠ Glenn - ⁠Please Sir, Glenn I Have Some Moore Glenn and Producer Ben - ⁠ The Audience VS ⁠ ⁠Sarah's Melbourne Show⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Terra Invicta Civilization VI Crusader Kings Persona 5 Resident Evil: Requiem Mewgenics Resident Evil 7: Biohazard Wavetale Age of Empires II Marvel’s Spider-Man Stardew Valley Call of Duty: Warzone Harvest Moon Halo: Combat Evolved Halo Infinite Arc Raiders Battlefield 1 Red Dead Redemption 2 Hell Let Loose The Last of Us Uncharted 4: A Thief's End Fallout 4 Final Fantasy IX The Witcher 3: Wild Hunt LittleBigPlanet 3 Grand Theft Auto: San Andreas Overcooked Unpacking PowerWash Simulator Dark Souls Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR6070881463.mp3?updated=1773285288",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3043",
+      "speakers": [
+        "Getting Back",
+        "Gaming If",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "press",
+        "gaming"
+      ]
+    },
     {
       "key": "5f7aace999f5764a42cdea3d2362a3aae42ce276",
       "title": "Weak Spots: Games You Suck At",
@@ -812,6 +835,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-12 — Press to Unpause: Getting Back into Gaming — speakers: Getting Back, Gaming If, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-03-05 — Weak Spots: Games You Suck At — speakers: Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-02-26 — The Sound Effect: The Best and Worst Game Audio — speakers: Worst Game Audio Banging, Button Bo, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-02-19 — Mobile Ports: Phoning It In — speakers: Mobile Ports, Glenn Moore, Sarah Keyworth, Pierre Novellie

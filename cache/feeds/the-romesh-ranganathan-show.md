@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-03-11T19:10:31+00:00`
-- checked_at: `2026-03-11T19:10:31+00:00`
-- last_modified: `Wed, 11 Mar 2026 17:31:16 GMT`
+- fetched_at: `2026-03-12T03:11:57+00:00`
+- checked_at: `2026-03-12T03:11:57+00:00`
+- last_modified: `Thu, 12 Mar 2026 00:22:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/c4cfe1bfcc9a4011d72f8fe272266dac.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-11T19:10:31+00:00",
+  "fetched_at": "2026-03-12T03:11:57+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "68b684c818bd7a2cec5edaea124e9cdb5aa86e10",
+      "title": "Shanthi SHOCKS Romesh With Her WILD Thailand Trip!",
+      "published_at": "2026-03-12T00:01:00+00:00",
+      "link": null,
+      "description": "How much do you really want to know about your parents' holiday antics? Shanthi shares far too much, leaving Romesh desperate to \"edit\" certain images out of his brain. They also talk about this week’s guest, legendary documentary maker Louis Theroux, as Shanthi reveals the surprisingly dark topics she’d cover if she followed in his footsteps. Plus, Romesh hits back at criticism of his glasses – and Shanthi recalls the moment he rang her to say he’d \"made it\" in comedy. A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 01:30 Glasses criticism 04:28 Louis Theroux 07:48 Embarrassing name mispronunciation 14:27 Cake 19:12 Listener holiday story 24:14 Shanthi’s Thailand story 28:42 Staying in touch with family 31:10 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3b94f3fc-1d6b-11f1-89ac-17a190de5c7d/image/ce7a8d1109629c648262930751d774ad.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9040183678.mp3?updated=1773274879",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2124",
+      "speakers": [
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "shock",
+        "romesh",
+        "wild",
+        "thailand",
+        "trip"
+      ]
+    },
     {
       "key": "7dc626bdf6f72010c18f06f86d708daca569b72d",
       "title": "Louis Theroux On Internet Culture, The Manosphere & Getting \"Cooked\"",
@@ -1136,6 +1159,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-12 — Shanthi SHOCKS Romesh With Her WILD Thailand Trip! — speakers: Romesh Ranganathan
 - 2026-03-09 — Louis Theroux On Internet Culture, The Manosphere & Getting "Cooked" — speakers: Louis Theroux, Romesh Ranganathan
 - 2026-03-05 — Who's Buying ROUGH Toilet Paper?! — speakers: terrible im, Romesh Ranganathan
 - 2026-03-02 — Tom Davis On Success, Setbacks & Being a Dad — speakers: Tom Davis, Romesh Ranganathan

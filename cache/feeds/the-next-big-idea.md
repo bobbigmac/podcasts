@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-03-10T16:14:03+00:00`
-- checked_at: `2026-03-10T16:14:03+00:00`
-- last_modified: `Tue, 10 Mar 2026 15:48:40 GMT`
+- fetched_at: `2026-03-12T03:11:57+00:00`
+- checked_at: `2026-03-12T03:11:57+00:00`
+- last_modified: `Thu, 12 Mar 2026 01:28:13 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-10T16:14:03+00:00",
+  "fetched_at": "2026-03-12T03:11:57+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
