@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-11T19:10:31+00:00`
-- checked_at: `2026-03-11T19:10:31+00:00`
-- etag: `"djEuMi4wOjE3NzMyNTAyMzk0ODk="`
+- fetched_at: `2026-03-12T10:01:00+00:00`
+- checked_at: `2026-03-12T10:01:00+00:00`
+- etag: `"djEuMi4wOjE3NzMzMDg0MzcxMDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-11T19:10:31+00:00",
+  "fetched_at": "2026-03-12T10:01:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -29,12 +29,12 @@
       "title": "Starmer humiliates Badenoch over Iran warmongering | PMQs Analysis",
       "published_at": "2026-03-11T17:30:00+00:00",
       "link": "https://shows.acast.com/politicsjoe/episodes/69b19d90bba705d7aa28b563",
-      "description": "Another Wednesday, another blockbuster PMQs. Kemi Badenoch's enthusiasm for entering the war with Iran last week has aged poorly, and the Prime Minister wasted no time reminding her of the fact. Laura and Seán break it down. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Another Wednesday, another blockbuster PMQs. Kemi Badenoch's enthusiasm for entering the war with Iran last week has aged poorly, and the Prime Minister wasted no time reminding her of the fact. Laura and Seán break it down. An earlier version of this podcast stated that Trident needs the approval of the US before launch. The UK does not need prior approval from the United States before launching nuclear missiles. Trident is operationally independent, but is maintained and serviced in the United States. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69b19d90bba705d7aa28b563/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "55594229",
-      "itunes_duration": "38:36",
+      "enclosure_length": "49756914",
+      "itunes_duration": "34:32",
       "speakers": [],
       "topics": [
         "starmer",

@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-03-12T03:11:57+00:00`
-- checked_at: `2026-03-12T03:11:57+00:00`
-- last_modified: `Thu, 12 Mar 2026 01:28:13 GMT`
+- fetched_at: `2026-03-12T10:01:00+00:00`
+- checked_at: `2026-03-12T10:01:00+00:00`
+- last_modified: `Thu, 12 Mar 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-12T03:11:57+00:00",
+  "fetched_at": "2026-03-12T10:01:00+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,26 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "4048ca086e916f055a60a94fb345a604089557a6",
+      "title": "How To Connect With Anyone",
+      "published_at": "2026-03-12T09:00:00+00:00",
+      "link": null,
+      "description": "According to Merriam-Webster, the word \"conversation\" has 36 synonyms, ranging from the alliterative (\"confabulation\") to the arcane (\"persiflage\"). Why the linguistic profusion? Because conversing is a fundamental part — maybe the fundamental part — of being human. We chat with our families, friends, strangers, and co-workers, and we communicate in phone calls, text messages, emails, and (occasionally) postcards. When these tête-à-têtes go well, it is oddly thrilling; we become better versions of ourselves — warmer and wiser, funnier, and consistently insightful. Best of all, a good dialogue is a direct route to connection. \"The bond of all companionship,\" wrote Oscar Wilde, \"whether in marriage or in friendship, is conversation.\" But when a conversation goes poorly, when it stays on the surface (\"what do you do for a living?\") or devolves into a sputtering mess of misunderstanding (\"you’re overreacting!\"), we don’t feel the invigorating pulse of connection. What we feel, instead, is the emotional equivalent of a busy signal. So, this hour, we’re asking: How can we have better conversations? And to help answer that question, we’re joined by Charles Duhigg, a Pulitzer Prize–winning journalist and the bestselling author of \"The Power of Habit\" and now Supercommunicators: How to Unlock the Secret Language of Connection . Charles, as you’ll hear, is something of supercommunicator himself — a lithe storyteller who is as well-versed in evolutionary biology as he is in the latest psychology — and after studying the art and science of communication for the last few years, he’s concluded that anyone can become a great conversationalist. You just have to master a few simple skills. Tune in to find out what they are. (This episode first aired in February 2024.) Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠ . Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠. We love getting fan mail. 🔗 Sponsored By: Bitdefender — Get 30% off your plan at ⁠bitdefender.com/idea⁠ Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠meetfabric.com/nbi⁠ Factor — Head to ⁠⁠factormeals.com/idea50off⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠granola.ai/idea⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP6868028896.mp3?updated=1773279189",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3921",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "connect",
+        "anyone"
+      ]
+    },
     {
       "key": "755785c9266c3ae8d58f6b6fa45741d74cac2661",
       "title": "A War Correspondent on the Crisis in Iran",
@@ -7311,6 +7331,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-12 — How To Connect With Anyone — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-03-09 — A War Correspondent on the Crisis in Iran — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-03-05 — How AI Could Change Everything in the Next 1,000 Days — speakers: Stable Diffusi, Rufus Griscom, Caleb Bissinger
 - 2026-03-02 — Do We Even Need Politicians? — speakers: Rufus Griscom, Caleb Bissinger

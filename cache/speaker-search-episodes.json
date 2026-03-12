@@ -14405,6 +14405,28 @@
         "feed_slug": "external:apple:f0e5f1b08719",
         "feed_title": "Alex Horne Breaks the News",
         "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
+        "dedupe_key": "d15f8fc48b756d1361cd0f76c117c5489b050771",
+        "episode_key": "d15f8fc48b756d1361cd0f76c117c5489b050771",
+        "title": "Alex Horne, Mark Watson, Romesh Ranganathan and Alex Carter",
+        "published_at": "2013-11-08T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Mark Watson and Romesh Ranganathan vie for the title of best news quizzer. It gets rather heated and a little competitive fortunately Alex Carter is on hand to calm everyone down. Oh and Alex Horne is great as ever. but you knew that already. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-mark-watson-romesh-ranganathan-and-alex-carter/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-mark-watson-romesh-ranganathan-and-alex-carter/id1133204823?i=1000372293475&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f0e5f1b08719",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
         "dedupe_key": "e09b12d9172d2600690d6989b5827318d239a14f",
         "episode_key": "e09b12d9172d2600690d6989b5827318d239a14f",
         "title": "Alex Horne, Jarred Christmas, James Acaster and James Lovett",
@@ -14419,6 +14441,28 @@
         "enclosure_type": null,
         "speakers": [
           "James Acaster",
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f0e5f1b08719",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
+        "dedupe_key": "4a5a64963bdfd23c981401f8cf33abc06bc38953",
+        "episode_key": "4a5a64963bdfd23c981401f8cf33abc06bc38953",
+        "title": "Alex Horne, Tim Key, Andrew Maxwell and Lawrence Booth",
+        "published_at": "2013-10-25T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Alex Horne is back breaking the news, more in the manner of a 8 year old boy testing the tensile strength of a flimsy twig. It's definitely gets broken but nobody is sure why. For episode one of this brand new series Tim Key and Andrew Maxwell provide nothing and everything in equal measure. Its topical podcasting... o",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-tim-key-andrew-maxwell-and-lawrence-booth/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-tim-key-andrew-maxwell-and-lawrence-booth/id1133204823?i=1000372293483&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
           "Alex Horne"
         ],
         "topics": [],
