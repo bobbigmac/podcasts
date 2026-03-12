@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-03-12T13:36:37+00:00`
-- checked_at: `2026-03-12T13:36:37+00:00`
-- etag: `"241d1b-64cd30f48b4ae"`
-- last_modified: `Thu, 12 Mar 2026 12:40:38 GMT`
+- fetched_at: `2026-03-12T16:15:18+00:00`
+- checked_at: `2026-03-12T16:15:18+00:00`
+- etag: `"243634-64cd5a411bdd8"`
+- last_modified: `Thu, 12 Mar 2026 15:45:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-03-12T13:36:37+00:00",
+  "fetched_at": "2026-03-12T16:15:18+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,27 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "9be28db6789eb98581b674ca3a1c3ddec7bab9bc",
+      "title": "Mystery covid methane spike solved",
+      "published_at": "2026-03-12T15:45:00+00:00",
+      "link": "https://theconversation.com/why-global-methane-levels-spiked-during-covid-lockdowns-278128",
+      "description": "Six years ago, as countries around the world went into COVID lockdowns, the air got cleaner. Factories slowed down, roads emptied and aeroplanes were grounded. As people stayed home, the world burned fewer fossil fuels and so carbon dioxide emissions dropped. But something else was also happening in the atmosphere. Levels of methane , an extremely potent greenhouse gas that warms the planet even faster than CO2, rose faster in 2020 than at any point since records began in the 1980s. And methane levels kept on rising during 2021 and 2022. Ever since, scientists have been trying to piece together what caused this sudden mysterious increase in methane. Now, they think they have the answer – and it was partly due to COVID lockdowns. In this episode, we speak to Philippe Ciais , a researcher at the Laboratory for Environmental and Climate Science at Université Paris-Saclay in France, and one of the authors of a new study in the journal Science about the spike in methane levels, who explains how they solved the mystery. This episode was written and produced by Mend Mariwany and Katie Flood and Gemma Ware was the executive producer. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Mentioned in this episode: The Making of an Autocrat Search \"The Conversation Weekly\" for our new series: The Making of an Autocrat. Is America watching its democracy unravel in real time? In The Making of an Autocrat from The Conversation, six of the world’s pre-eminant scholars reveal the recipe for authoritarian rule. From capturing a party, to controlling the military, Donald Trump is borrowing from the playbook of strongmen thoughout history. This is the story of how democracies falter — and what might happen next.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/3bb7834d-ea67-4c99-b9e1-5ace72f783a6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33388921",
+      "itunes_duration": "23:11",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "mystery",
+        "covid",
+        "methane",
+        "spike"
+      ]
+    },
     {
       "key": "df83e091b730f7f14c7b940748c84ad843e151ff",
       "title": "Was the Gulf blindsided on Iran?",
@@ -5704,6 +5725,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-12 — Mystery covid methane spike solved — speakers: Gemma Ware
 - 2026-03-05 — Was the Gulf blindsided on Iran? — speakers: Ali Khamenei, Gemma Ware
 - 2026-02-26 — South Korea's birth rate is rising, but the population is still shrinking — speakers: South Korea, Gemma Ware
 - 2026-02-19 — The 'national humiliation' behind Russia's war on Ukraine — speakers: Vladmir Putin, Gemma Ware

@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-12T10:01:00+00:00`
-- checked_at: `2026-03-12T10:01:00+00:00`
-- etag: `"djEuMi4wOjE3NzMzMDg0MzcxMDk="`
+- fetched_at: `2026-03-12T16:15:18+00:00`
+- checked_at: `2026-03-12T16:15:18+00:00`
+- etag: `"djEuMi4wOjE3NzMzMjY5ODAyODg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,30 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-12T10:01:00+00:00",
+  "fetched_at": "2026-03-12T16:15:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "18b6a5773721e10497153034a61b82c224bd4471",
+      "title": "Going deep on the Mandelson files",
+      "published_at": "2026-03-12T14:49:39+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69b2d27b91324664df6bf0b5",
+      "description": "Following the Humble Address that forced the government to publish internal material surrounding Peter Mandelson’s appointment and dismissal as UK ambassador to the United States, the first tranche of files has dropped and Ava and Laura are here to break them down. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69b2d27b91324664df6bf0b5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31212572",
+      "itunes_duration": "21:40",
+      "speakers": [],
+      "topics": [
+        "mandelson",
+        "file"
+      ]
+    },
     {
       "key": "b0674e33b0cfedd845d1a548501f77b12e54df79",
       "title": "Starmer humiliates Badenoch over Iran warmongering | PMQs Analysis",
@@ -11984,6 +12001,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-12 — Going deep on the Mandelson files
 - 2026-03-11 — Starmer humiliates Badenoch over Iran warmongering | PMQs Analysis
 - 2026-03-10 — Is Trump's war in Iran over?
 - 2026-03-09 — Tony Blair is warmongering again

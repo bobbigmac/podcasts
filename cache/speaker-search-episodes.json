@@ -16908,6 +16908,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:c5df4fff71a7",
+        "feed_title": "Loose Ends",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/b006qjym.rss",
+        "dedupe_key": "88d584ce9e20c18e44fcab1be48cff6f5af53856",
+        "episode_key": "88d584ce9e20c18e44fcab1be48cff6f5af53856",
+        "title": "Stewart Lee, Barb Jungr, Philippa Dunne, Biig Piig, Aysha Kala",
+        "published_at": "2025-02-22T18:15:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stuart Maconie is joined by the 41st best stand up ever to talk about his new tour 'Stewart Lee Vs The Man-Wulf', and by Philippa Dunne who plays Anne in the  school gates sitcom 'Motherland'. Anne is back in the spinoff series 'Amandaland', focusing on Anne's glamorous best friend Amanda. Aysha Kala tells us how she n",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kszfxg.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee-barb-jungr-philippa-dunne-biig-piig-aysha-kala/id1163219363?i=1000695092044&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:0ca1d54dc195",
         "feed_title": "White Wine Question Time",
         "source_rss_url": "https://feeds.acast.com/public/shows/acaaaf98-69c1-4a94-b843-5ea7e3892f66",
@@ -18046,6 +18068,28 @@
         "feed_image_url": null,
         "description": "Iain Sinclair has been writing about London for most of his adult life, and if any of us can even begin to understand this peculiar sort of city that we sort of call a sort of home, then it's with Sinclair that we begin. The Last London (Oneworld) is the culmination of Iain's London project, although 'project' is far t",
         "audio_url": "https://traffic.megaphone.fm/LRB3287806820.mp3?updated=1750328072",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-last-london-iain-sinclair-and-stewart-lee/id734373360?i=1000399770688&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:30b44e3d9e46",
+        "feed_title": "London Review Bookshop Podcast",
+        "source_rss_url": "https://feeds.megaphone.fm/LRB9506044622",
+        "dedupe_key": "09a1dc6312ebb6fe57f82d6e6e425e8ea0674095",
+        "episode_key": "09a1dc6312ebb6fe57f82d6e6e425e8ea0674095",
+        "title": "The Last London: Iain Sinclair and Stewart Lee",
+        "published_at": "2017-11-07T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Iain Sinclair has been writing about London for most of his adult life, and if any of us can even begin to understand this peculiar sort of city that we sort of call a sort of home, then it's with Sinclair that we begin. The Last London (Oneworld) is the culmination of Iain's London project, although 'project' is far t",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/LRB3287806820.mp3?updated=1750328072",
         "link_url": "https://podcasts.apple.com/gb/podcast/the-last-london-iain-sinclair-and-stewart-lee/id734373360?i=1000399770688&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
@@ -21250,6 +21294,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "e486aebfade9bcf86ba03488b4ebdb14e560efd0",
+        "episode_key": "e486aebfade9bcf86ba03488b4ebdb14e560efd0",
+        "title": "G20: Homeopathic Diplomacy",
+        "published_at": "2023-09-12T16:51:20Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What's the point in the G20? Why is 'Bharat' controversial? Why did Brit's care about the latest convict escape? And who needs brittle concrete? Andy answers all these questions (and more) with Tom Ballard and Nish Kumar.\nPLUS: Become the owner of an exclusive episode of The Bugle, on 12 inch vinyl! Become a premium me",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6500129b0740b70011cf265b/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/g20-homeopathic-diplomacy/id265799883?i=1000627635911&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:edbc4f4d67d5",
         "feed_title": "The Comedian's Comedian Podcast",
         "source_rss_url": "https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581",
@@ -22475,6 +22541,28 @@
         "description": "Neither “Tom!” nor “Ben!” want to put up a shelf… so Matthew says we’re gonna have to have a Flatshare Slamdown!\nWith Rosie Jones and Nish Kumar\nRosie Jones - https://twitter.com/josierones\nNish Kumar - https://twitter.com/MrNishKumar\nFeatures: 5ps, sexy animals and the quickest beef solve ever?\n Hosted on Acast. See a",
         "audio_url": "https://traffic.megaphone.fm/NSR5371885064.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/slamdown-w-nish-kumar-rosie-jones-put-up-the-shelf-s10e48/id437801391?i=1000500886014&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "662b050be9e69480377d9e9e4d96bcaca70ad3ba",
+        "episode_key": "662b050be9e69480377d9e9e4d96bcaca70ad3ba",
+        "title": "A Message To You Rudy",
+        "published_at": "2020-11-21T09:37:40Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Andy is joined by Nish Kumar and Felicity Ward to talk Rudy Giuliani, The US elections, bullying in British politics, and childbirth. \nFACT CHECK: Here, and here.\nBuy a loved one Bugle Merch for Xmas - bobble hats, scarves and HAGOW T Shirts go on sale on 27th November.\nWe have a sister show, The Last Post, which you c",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/5fb8dfe4869e5a232f90c6f3/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/a-message-to-you-rudy/id265799883?i=1000499688649&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -27975,6 +28063,28 @@
         "description": "Ten general knowledge pub quiz questions broadcast to you daily. Today we have questions on - amongst others - the Circle Line, David Mitchell and Robert Webb and the Live 8 concert of 2005.",
         "audio_url": "https://anchor.fm/s/1cc383c4/podcast/play/13171032/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-10-30%2Fd7ec933ee3f8ba7b558d71cc77b4dda9.m4a",
         "link_url": "https://podcasts.apple.com/gb/podcast/s1-q25-david-mitchell-and-robert-webb/id1513603635?i=1000474724454&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:9cbdcd56c8c1",
+        "feed_title": "Cabin Fever",
+        "source_rss_url": "https://feeds.acast.com/public/shows/744e7092-cd84-48f3-b88d-97034379a26e",
+        "dedupe_key": "f51c83ff44aeda7a5f9c682dde8e2cd54a6b004f",
+        "episode_key": "f51c83ff44aeda7a5f9c682dde8e2cd54a6b004f",
+        "title": "David Mitchell and Helen Monks",
+        "published_at": "2020-03-23T00:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Isolation! Isolation! It's just the way we feel. So here we are, with our brand new daily podcast for as long as we're all isolated - mainly to stop us going mad. \nYou can get in touch with us at our very catchy Twitter handle @cabinfe83709000. But handily, this episode has a jingle to help you remember it. \nAnd you ca",
+        "audio_url": "https://sphinx.acast.com/gbo1/davidmitchellandhelenmonks/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-and-helen-monks/id1474949660?i=1000469201793&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
