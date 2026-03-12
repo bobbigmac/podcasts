@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-03-12T13:36:37+00:00`
-- checked_at: `2026-03-12T13:36:37+00:00`
-- etag: `"cbf6391d1703f53dd733b043b63e0af7"`
-- last_modified: `Thu, 12 Mar 2026 10:57:49 GMT`
+- fetched_at: `2026-03-12T19:11:39+00:00`
+- checked_at: `2026-03-12T19:11:39+00:00`
+- etag: `"64cfdc768e370801a597b6de85d62ca9"`
+- last_modified: `Thu, 12 Mar 2026 17:14:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-  "fetched_at": "2026-03-12T13:36:37+00:00",
+  "fetched_at": "2026-03-12T19:11:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5483,31 +5483,6 @@
         "jess",
         "robinson"
       ]
-    },
-    {
-      "key": "d7851d284d2218d2f38d501fdb76710152a4784e",
-      "title": "The Now Show - 12th March ft Daliso Chaponda, Ellie Taylor and Huge Davies",
-      "published_at": "2021-03-12T19:01:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p099jrz3",
-      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! Joining them from a safe distance is Ellie Taylor and Daliso Chaponda with music supplied by Huge Davies. Voice Actors: George Fouracres and Gemma Arrowsmith Producer: Pete Strauss Production Co-Ordinator: Carina Andrews Editor/Engineer: David Thomas BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p099jqy6.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26944000",
-      "itunes_duration": "1684",
-      "speakers": [
-        "Ellie Taylor",
-        "Steve Punt"
-      ],
-      "topics": [
-        "march",
-        "daliso",
-        "chaponda",
-        "ellie",
-        "taylor",
-        "huge",
-        "davy"
-      ]
     }
   ]
 }
@@ -5774,4 +5749,3 @@
 - 2021-04-02 — The Now Show - 2nd April ft Geoff Norcott, Laura Lexx and Huge Davies — speakers: Laura Lexx, Steve Punt
 - 2021-03-26 — The Now Show - 26th March ft Janine Harouni, Dane Baptiste and Rachel Parris — speakers: Janine Harouni, Rachel Parris, Steve Punt
 - 2021-03-19 — The Now Show - 19th March ft Lucy Porter, Eshaan Akbar and Jess Robinson — speakers: Lucy Porter, Eshaan Akbar, Jess Robinson, Steve Punt
-- 2021-03-12 — The Now Show - 12th March ft Daliso Chaponda, Ellie Taylor and Huge Davies — speakers: Ellie Taylor, Steve Punt

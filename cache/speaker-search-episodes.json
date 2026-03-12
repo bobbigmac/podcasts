@@ -16269,6 +16269,29 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:0ca1d54dc195",
+        "feed_title": "White Wine Question Time",
+        "source_rss_url": "https://feeds.acast.com/public/shows/acaaaf98-69c1-4a94-b843-5ea7e3892f66",
+        "dedupe_key": "50db6cfa2bd78793b46bd2ff56dfdbc089b16693",
+        "episode_key": "50db6cfa2bd78793b46bd2ff56dfdbc089b16693",
+        "title": "NEW EPISODE: Richard Herring Creates Chaos...",
+        "published_at": "2026-03-12T00:05:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Richard Herring became half of a decade-defining comedy act with Stewart Lee – thanks to a chance meeting in an Oxford cricket pavilion which was the genesis of a 13-year creative partnership which included the cult classic Fist of Fun and the legendary Edinburgh Fringe show ‘This Morning with Richard not Judy’\n \nAnoth",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/wwqt/e/69b1f4ef94cfbd3a4570162b/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/new-episode-richard-herring-creates-chaos/id1447646731?i=1000754773853&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring",
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:5b83761f48be",
         "feed_title": "Living The Next Chapter: Candid Conversations with Authors and Writers for Readers Searching for a New Read",
         "source_rss_url": "https://rss.buzzsprout.com/1927756.rss",
