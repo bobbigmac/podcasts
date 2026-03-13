@@ -14737,6 +14737,28 @@
     ],
     "lou-sanders": [
       {
+        "feed_slug": "external:apple:96594d663a6c",
+        "feed_title": "RHLSTP with Richard Herring",
+        "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
+        "dedupe_key": "7b3cf87078f53294a8b0b439b7ff2b9669e46a77",
+        "episode_key": "7b3cf87078f53294a8b0b439b7ff2b9669e46a77",
+        "title": "RHLSTP 602 - Stevie Martin",
+        "published_at": "2026-03-11T03:57:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "RHLSTP #602 - Ladybird - Richard has come to Chelmsford for the Essex Podcast Festival and is very excited by the big changes coming to the shopping centre. His guest is the charming and Taskmaster hysterical Stevie Martin. They chat about doing adverts, working with Mitchell and Webb, eating cake out of a bin, the Tas",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69add2fb6ffdcd81881a944e/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/rhlstp-602-stevie-martin/id520831548?i=1000754595669&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:562f25abfaaa",
         "feed_title": "The Comedy Room",
         "source_rss_url": "https://feeds.castos.com/79q08",

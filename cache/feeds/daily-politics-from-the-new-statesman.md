@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-12T19:11:39+00:00`
-- checked_at: `2026-03-12T19:11:39+00:00`
-- etag: `"djEuMi4wOjE3NzMzMzcyMjAwMTY="`
+- fetched_at: `2026-03-13T15:57:49+00:00`
+- checked_at: `2026-03-13T15:57:49+00:00`
+- etag: `"djEuMi4wOjE3NzM0MTcwMzE4ODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-12T19:11:39+00:00",
+  "fetched_at": "2026-03-13T15:57:49+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a8b79b96e86773abaed8d9538f038ca713287334",
+      "title": "Mandelson files: Starmer knew",
+      "published_at": "2026-03-13T15:50:31+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/mandelson-files-starmer-knew",
+      "description": "Keir Starmer apologised for appointing Peter Mandelson as US ambassador. Is it enough? After a vote by MPs forced its hand, the government has released the first batch of files relating to Mandelson’s appointment. They revealed that the Prime Minister was told the Labour peer posed a “reputational risk” because of his relationship with the convicted sex offender Jeffrey Epstein, and that his national security adviser raised concerns about the appointment. The so-called “Mandelson files” also exposed a number of facts about the vetting process that were already reported by the New Statesman in February and have angered Labour MPs all over again, and prompted further calls for Keir Starmer’s resignation. Will the Prime Minister go? Anoosh Chakelian is joined by Rachel Cunliffe - who has read through every word of the files - do discuss what they contain, what they reveal, and what Keir Starmer must do now. 📚 READ Starmer, Mandelson and the missing puzzle piece LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1773416909083-97dc20b4-40d1-48de-9119-2a87ffa1cca4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69b43247559de2c63443467a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33580454",
+      "itunes_duration": "23:18",
+      "speakers": [
+        "Peter Mandelson",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "mandelson",
+        "file",
+        "starmer"
+      ]
+    },
     {
       "key": "bace2cac09973920ea59e5a466e68f614a499565",
       "title": "Britain’s imminent decline",
@@ -30509,6 +30531,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — Mandelson files: Starmer knew — speakers: Peter Mandelson, Anoosh Chakelian, Oli Dugmore
 - 2026-03-12 — Britain’s imminent decline — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-11 — David Lammy on the crisis abroad and within Labour — speakers: David Lammy, Anoosh Chakelian, Oli Dugmore
 - 2026-03-10 — Trump's war is making us all poorer — speakers: Anoosh Chakelian, Oli Dugmore

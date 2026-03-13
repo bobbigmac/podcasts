@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-13T13:34:03+00:00`
-- checked_at: `2026-03-13T13:34:03+00:00`
-- etag: `"djEuMi4wOjE3NzM0MDgwMzc5MzM="`
+- fetched_at: `2026-03-13T15:57:49+00:00`
+- checked_at: `2026-03-13T15:57:49+00:00`
+- etag: `"djEuMi4wOjE3NzM0MTQzNzUyMDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-13T13:34:03+00:00",
+  "fetched_at": "2026-03-13T15:57:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "45399250d370346748f7d99f6b4fb5a9dc0c1bb1",
+      "title": "I lost my job after confronting Matt Lucas on Palestine | Cancelled",
+      "published_at": "2026-03-13T15:06:14+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69b40f25cad04b6222c36fb1",
+      "description": "Thomas Bourne has been a Palestine activist for around a decade. His prominence in the movement has seen him face online abuse in the past. Last month the line between his personal life and his activism was broken. After Thomas confronted Matt Lucas in an underground station, the online world went into overdrive. Prominent figures were calling out his actions, and newspapers delved into his personal life to an extent he'd never experienced. It reached a peak when Thomas lost his job as a result of the attention put on him by some of Britain's biggest right-wing papers. Thomas came by the studio to walk us through the events of the day that changed his life. Thomas's identity has been protected at his request. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69b40f25cad04b6222c36fb1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55046993",
+      "itunes_duration": "38:11",
+      "speakers": [
+        "Matt Lucas",
+        "Thomas Bourne"
+      ],
+      "topics": [
+        "matt",
+        "lucas",
+        "palestine"
+      ]
+    },
     {
       "key": "18b6a5773721e10497153034a61b82c224bd4471",
       "title": "Going deep on the Mandelson files",
@@ -12001,6 +12022,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — I lost my job after confronting Matt Lucas on Palestine | Cancelled — speakers: Matt Lucas, Thomas Bourne
 - 2026-03-12 — Going deep on the Mandelson files
 - 2026-03-11 — Starmer humiliates Badenoch over Iran warmongering | PMQs Analysis
 - 2026-03-10 — Is Trump's war in Iran over?

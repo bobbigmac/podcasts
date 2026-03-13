@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-13T13:34:03+00:00`
-- checked_at: `2026-03-13T13:34:03+00:00`
-- etag: `W/"22105-/ldco0q+F0BBjdrqO+UgYbmLlcA"`
+- fetched_at: `2026-03-13T15:57:49+00:00`
+- checked_at: `2026-03-13T15:57:49+00:00`
+- etag: `W/"226c0-/kH43qJ5B8l8ZmOKsw2gliYarOw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-13T13:34:03+00:00",
+  "fetched_at": "2026-03-13T15:57:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "18ee9defe83b022ac26dd7d6e9baee7d69582296",
+      "title": "#32 Jon Richardson Podcast with Dan Atkinson",
+      "published_at": "2026-03-12T19:33:14+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/32-Jon-Richardson-Podcast-with-Dan-Atkinson-e3gbsf0",
+      "description": "Link to the new Podcast here SPOTIFY: https://open.spotify.com/episode/7rTB7maNsikGXGUzwXkX86?si=HkBWho6BQEOcBDsePrj3QQ EMAIL: pcdevotee@gmail.com",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773343979635-9dd36fe29e9d1.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/116830112/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-12%2F32c02ab6-bd85-83de-d10c-0f302a812688.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56467328",
+      "itunes_duration": "01:18:23",
+      "speakers": [
+        "Dan Atkinson"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "atkinson"
+      ]
+    },
     {
       "key": "895187543022a994d3d39dd5385b42abbce26bd7",
       "title": "#31 Jon Richardson Podcast with Matt Crosby",
@@ -2422,6 +2442,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-12 — #32 Jon Richardson Podcast with Dan Atkinson — speakers: Dan Atkinson
 - 2026-03-11 — #31 Jon Richardson Podcast with Matt Crosby — speakers: Matt Crosby
 - 2026-03-10 — #30 Jon Richardson Podcast with Charlie Baker — speakers: Charlie Baker
 - 2026-03-09 — #29 Jon Richardson Podcast with Josie Long — speakers: Josie Long

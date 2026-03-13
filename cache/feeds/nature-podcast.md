@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-03-11T19:10:31+00:00`
-- checked_at: `2026-03-11T19:10:31+00:00`
-- etag: `"djEuMi4wOjE3NzMyNDQ4MzkzMTc="`
+- fetched_at: `2026-03-13T15:57:49+00:00`
+- checked_at: `2026-03-13T15:57:49+00:00`
+- etag: `"djEuMi4wOjE3NzM0MTcyMDkwODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-03-11T19:10:31+00:00",
+  "fetched_at": "2026-03-13T15:57:49+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,32 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "7b5df9f44ea94fec7b39ba10a961a40e001062a3",
+      "title": "Briefing chat: ‘Can it run Doom?’ — why scientists got brain cells and a satellite to play the classic game",
+      "published_at": "2026-03-13T14:59:44+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-00845-w",
+      "description": "00:26 Why researchers keep using Doom in their research Nature: How the classic computer game Doom became a tool for science Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1773413879465-28bf7136-dbbc-4cb1-9d43-e6961d6c3183.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69b42661559de2c6343f3dfb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "10162716",
+      "itunes_duration": "10:34",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "briefing",
+        "chat",
+        "doom",
+        "scientist",
+        "brain",
+        "cell",
+        "satellite",
+        "game"
+      ]
+    },
     {
       "key": "c168075889f6f0825597277ac0120b23e9b86b59",
       "title": "This fish shouldn’t exist — the weird genetics of clonal vertebrates",
@@ -19219,6 +19245,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — Briefing chat: ‘Can it run Doom?’ — why scientists got brain cells and a satellite to play the classic game — speakers: Benjamin Thompson, Noah Baker
 - 2026-03-11 — This fish shouldn’t exist — the weird genetics of clonal vertebrates — speakers: Benjamin Thompson, Noah Baker
 - 2026-03-06 — Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey — speakers: What Galileo, New Scien, Benjamin Thompson, Noah Baker
 - 2026-03-04 — Heart surgery with quick-setting magnetic fluid could prevent strokes — speakers: Benjamin Thompson, Noah Baker
