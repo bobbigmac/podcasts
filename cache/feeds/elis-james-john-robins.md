@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-03-10T16:14:03+00:00`
-- checked_at: `2026-03-10T16:14:03+00:00`
-- etag: `"b8aafc638190941f4950f70f976bb47e"`
-- last_modified: `Tue, 10 Mar 2026 16:00:04 GMT`
+- fetched_at: `2026-03-13T19:01:12+00:00`
+- checked_at: `2026-03-13T19:01:12+00:00`
+- etag: `"56d8870172bbdb5947a93ea442732c67"`
+- last_modified: `Fri, 13 Mar 2026 18:15:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-03-10T16:14:03+00:00",
+  "fetched_at": "2026-03-13T19:01:12+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -29,6 +29,30 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "76f2126edcc7aff5f86735bbd46c58d17f0dbd87",
+      "title": "#522 - Fast Twitch Diplomacy, Jeez & Onion and To Do With The Weavers",
+      "published_at": "2026-03-13T18:15:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n6k1zb",
+      "description": "The studio is wafting with sandalwood and intense male musk because Dave’s got a new scent, something which is causing John much nasal fascination. But yet again, the big story is a huge Elis James week. What a run he’s on by the way. He’s had a completely genuine standing ovation at one of London’s coolest comedy gigs. Further still, he’s performed the finest bit of house jobbery he’s ever done, with plumbing tape elevating this above Mega Week. Elsewhere, Adrian brings the boys some significant crispy content and John’s even sacking people who no longer work with him. We also have potentially our most round about chat ever in addressing some correspondence. From cumin and white pepper into the meaning of creativity to horses and penguins, back to the email. Want to add to the larder of email content? Well get it to elisandjohn@bbc.co.uk And do check out Saturday’s Bureau for crying out loud. Only on BBC Sounds.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n6k0v1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71680000",
+      "itunes_duration": "4480",
+      "speakers": [
+        "Elis James",
+        "John Robins"
+      ],
+      "topics": [
+        "fast",
+        "twitch",
+        "diplomacy",
+        "jeez",
+        "onion",
+        "weavers"
+      ]
+    },
     {
       "key": "9ceb5884667f0183531f1ae146a152ec56fee0aa",
       "title": "#521 - Subversive Regional, Call Roger Bannister and All At Sea in a Brandscape",
@@ -12609,6 +12633,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — #522 - Fast Twitch Diplomacy, Jeez & Onion and To Do With The Weavers — speakers: Elis James, John Robins
 - 2026-03-10 — #521 - Subversive Regional, Call Roger Bannister and All At Sea in a Brandscape — speakers: Roger Bannister, John Robins, Elis James
 - 2026-03-06 — #520 - Moheathcliffe, #FindTheFlax and Che Guevara On QI — speakers: Che Guevara, Steve Redgrave, Neil Armstrong, Buzz Aldrin, Nelson Mandela, David Beckham, Elis James, John Robins
 - 2026-03-03 — #519 - Big Seed, Big Sad John and Big Voiced Clive — speakers: Elis James, John Robins

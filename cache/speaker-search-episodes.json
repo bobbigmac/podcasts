@@ -20981,6 +20981,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:9eb57c7b46ac",
+        "feed_title": "Pod Save the UK",
+        "source_rss_url": "https://audioboom.com/channels/5166011.rss",
+        "dedupe_key": "f66d871cf06a78599fd26a646a929cc47b928852",
+        "episode_key": "f66d871cf06a78599fd26a646a929cc47b928852",
+        "title": "Nish and Coco spill the tea: your questions answered",
+        "published_at": "2025-04-17T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "As Parliament sits for Easter Recess, Nish and Coco dive into the PSUK mailbag to answer your burning questions. \n\nThere’s the serious political questions - who are the real progressive party? How can we fight Reform? Should we all just leave the UK??\n\nBut there’s some curveballs, too - like what’s up with Bob Dylan’s ",
+        "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8830163.mp3?modified=1768334998&sid=5166011&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-and-coco-spill-the-tea-your-questions-answered/id1683411536?i=1000703817823&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:71ff8532d9f4",
         "feed_title": "Films To Be Buried With with Brett Goldstein",
         "source_rss_url": "https://feeds.megaphone.fm/QCD8204217646",
@@ -22476,6 +22498,28 @@
         "description": "Ed & Matthew were joined by Nish Kumar this week, and he’s quite right – it’s incredible that this show is on the radio really.\nKeep each other safe.\nThanks for downloading the podcast – remember, you can be an Early Worm and catch the show live on Radio X every Sunday 8am – 11am. \n\nGet in touch on sunday@radiox.co.uk ",
         "audio_url": "https://dax.captivate.fm/0577cab7-dbf0-41ab-af24-cf00a5101cd3/32a79249-1272-4f1b-9a7d-50aa5b15a5f8.mp3?aw_0_1st.showid=271ada40-4f74-48dc-8db5-08c3d4d8378e&aw_0_1st.episodeid=ee2c7ab0-468b-422f-9ff1-3f78a64f685f",
         "link_url": "https://podcasts.apple.com/gb/podcast/episode-98-plectrum-in-the-pants/id1467168361?i=1000516646667&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "450211451c0fb6d6e9e2e1b3367905dde1616941",
+        "episode_key": "450211451c0fb6d6e9e2e1b3367905dde1616941",
+        "title": "Boat Got Back (4188)",
+        "published_at": "2021-03-29T16:13:24Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Andy is with Nish and Alice for a live recording of the show with a focus on the amazing Suez boat story. You can still buy and stream the full live show (terrible intro and all) at http://ctzn.tk/Bugle\nWe have a NEW SHOW. Subscribe to The Gargle and get topical jokes about everything except politics\nBuy a loved one Bu",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6061fca4bf7aa5623df9bf59/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/boat-got-back-4188/id265799883?i=1000514892827&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
