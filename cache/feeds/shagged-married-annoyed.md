@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-03-11T19:10:31+00:00`
-- checked_at: `2026-03-11T19:10:31+00:00`
-- last_modified: `Wed, 11 Mar 2026 16:35:15 GMT`
+- fetched_at: `2026-03-13T07:12:39+00:00`
+- checked_at: `2026-03-13T07:12:39+00:00`
+- last_modified: `Fri, 13 Mar 2026 04:22:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-11T19:10:31+00:00",
+  "fetched_at": "2026-03-13T07:12:39+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9ee9227c49ee7ea2dea2a927e7780ae8a19082b3",
+      "title": "Liberating hand towels on tour, Talk Radio and The Rosie Ramsey Guide to Sex",
+      "published_at": "2026-03-13T04:16:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed Chris and Rosie Ramsey discuss videos of pimple popping, a new game called 'Jeremy', friend of the podcast Carl Hutchinson's latest odd behaviour on tour and why Rosie is fully in to Talk Radio! Beefs involve some low level theft and Questions From The Public cover a weirdly placed ribbon, an unfortunate plane incident and a new term of endearment...yes King! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 Enjoy all these episodes on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6380948194.mp3?updated=1773243320",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3654",
+      "speakers": [
+        "Annoyed Chris",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "hand",
+        "towel",
+        "tour",
+        "talk",
+        "radio",
+        "rosie",
+        "ramsey",
+        "guide"
+      ]
+    },
     {
       "key": "bc50e669576e8b58ccf694d48424d01e8b6efdd7",
       "title": "Please Keep Me Anonymous with Maisie Adam",
@@ -7903,6 +7930,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — Liberating hand towels on tour, Talk Radio and The Rosie Ramsey Guide to Sex — speakers: Annoyed Chris, Rosie Ramsey, Chris Ramsey
 - 2026-03-11 — Please Keep Me Anonymous with Maisie Adam — speakers: Maisie Adam, Rosie Ramsey, Chris Ramsey
 - 2026-03-06 — A bribe, a Tom Jones obsession and some hidden Easter Eggs! — speakers: Tom Jones, Chris Ramsey, Rosie Ramsey
 - 2026-03-04 — Please Keep Me Anonymous with Stevie Martin — speakers: Stevie Martin, Chris Ramsey, Rosie Ramsey

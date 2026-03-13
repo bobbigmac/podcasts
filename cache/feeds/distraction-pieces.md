@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-03-11T04:53:17+00:00`
-- checked_at: `2026-03-11T04:53:17+00:00`
-- etag: `"djEuMi4wOjE3NzMyMDE2OTk4Mjc="`
+- fetched_at: `2026-03-13T07:12:39+00:00`
+- checked_at: `2026-03-13T07:12:39+00:00`
+- etag: `"djEuMi4wOjE3NzMzNzQ1MDAxMDY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-03-11T04:53:17+00:00",
+  "fetched_at": "2026-03-13T07:12:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "626c3ba2f586241458b59bab9689f32e2781ecca",
+      "title": "SIMON PEGG from 2014 (Mission Impossible series / Star Trek / Hot Fuzz) • Friday Rewind",
+      "published_at": "2026-03-13T04:01:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Simon Pegg , originally episode 11 from 2014-12-04. Simon's a good pal of the podcast (and indeed Pip himself), and this is an episode you might have either missed entirely or heard so long ago you've completely blanked it from your memory. But with so much time passing, it's fascinating to hear what's what from all those years ago. It doesn't seem like a decade but it bloody well is... Lotta years. Simon's always good business so you're in for a treat whatever year the appearance was! Enjoy. PIP'S PATREON PAGE if you're of a supporting nature IMDB IG PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1773160128993-fe299251-addb-4630-84dc-b2cc04dff7ce.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69b0486ca1c9931634bbe436/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "172293239",
+      "itunes_duration": "1:11:43",
+      "speakers": [],
+      "topics": [
+        "simon",
+        "mission",
+        "impossible",
+        "series",
+        "star",
+        "trek",
+        "fuzz",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "715cf0f3710ecc18fa2ad23cb47f8b6e132e586f",
       "title": "LENA HEADEY • how to navigate the maze of the acting world #662",
@@ -18385,6 +18409,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — SIMON PEGG from 2014 (Mission Impossible series / Star Trek / Hot Fuzz) • Friday Rewind
 - 2026-03-11 — LENA HEADEY • how to navigate the maze of the acting world #662
 - 2026-03-06 — JOE CORNISH (The Kid Who Would Be King / Attack The Block / Adam & Joe) • Friday Rewind — speakers: Joe Cornish
 - 2026-03-04 — HERO FIENNES TIFFIN & DONAL FINN • Young Sherlock premiers on Prime from March 4! #661

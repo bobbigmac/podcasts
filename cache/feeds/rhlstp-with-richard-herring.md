@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-12T13:36:37+00:00`
-- checked_at: `2026-03-12T13:36:37+00:00`
-- etag: `"djEuMi4wOjE3NzMzMTc4ODcyOTk="`
+- fetched_at: `2026-03-13T07:12:39+00:00`
+- checked_at: `2026-03-13T07:12:39+00:00`
+- etag: `"djEuMi4wOjE3NzMzNzQyNTkyNDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-12T13:36:37+00:00",
+  "fetched_at": "2026-03-13T07:12:39+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "107de4754b0f4a527778d73b4f8b8edeec822562",
+      "title": "RHLSTP Book Club 173 - Catherine Wilkins",
+      "published_at": "2026-03-13T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #173 - Cafe Chaos 2: The Way The Cookie Crumbles - Richard welcomes back his absolute favourite author, Catie Wilkins to talk about the new Cafe Chaos book. They chat about making the sequel accessible to those who haven’t read the first book, writing as an 11 year old, when you have an 11 year old, debauched PTA quizzes, the inspiration for the too-many-beans storyline, the possibility of a TV series and hopefully a theme world, why Rich will give up comedy if the book is a success and creating characters, including realistic bullies/nemeses. Plus the next possible family member to guest on the podcast plus some emergency questions and general nonsense from the similar topped couple. Buy Catie’s book here - https://uk.bookshop.org/p/books/cafe-chaos-the-way-the-cookie-crumbles-catherine-wilkins/4149fee0ba100f44 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1773254852129-3052e0c3-2224-45ab-929d-a93f914c6fbd.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69b1b8cba9beefe722eb74f8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25255187",
+      "itunes_duration": "48:47",
+      "speakers": [
+        "Catherine Wilkins",
+        "Richard Herring"
+      ],
+      "topics": [
+        "rhlstp",
+        "book",
+        "club",
+        "catherine",
+        "wilkins"
+      ]
+    },
     {
       "key": "7b29cb1febaf4ba439f2365e3c239ad7796d5aa6",
       "title": "RHLSTP 602 - Stevie Martin",
@@ -21721,6 +21744,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — RHLSTP Book Club 173 - Catherine Wilkins — speakers: Catherine Wilkins, Richard Herring
 - 2026-03-11 — RHLSTP 602 - Stevie Martin — speakers: Richard Herring
 - 2026-03-09 — Retro RHLSTP 136 - Fern Brady — speakers: Fern Brady, Richard Herring
 - 2026-03-07 — RAACN week 6 — speakers: Wednesday March, Dental Caries, Richard Herring
