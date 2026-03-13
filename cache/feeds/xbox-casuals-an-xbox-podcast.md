@@ -2,9 +2,9 @@
 
 - slug: `xbox-casuals-an-xbox-podcast`
 - source: `https://anchor.fm/s/1580e714/podcast/rss`
-- fetched_at: `2026-03-13T19:01:12+00:00`
-- checked_at: `2026-03-13T19:01:12+00:00`
-- etag: `W/"c8cd2-owExMQUOx5TDdOCC6fqP4DYeMHE"`
+- fetched_at: `2026-03-13T21:48:02+00:00`
+- checked_at: `2026-03-13T21:48:02+00:00`
+- etag: `W/"ca1f3-pYPsV9xFqiea/k55/y2NktkFwok"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -15,9 +15,9 @@
   "source_url": "https://anchor.fm/s/1580e714/podcast/rss",
   "title": "Xbox Casuals - An Xbox Podcast",
   "link": "https://www.towercasuals.com",
-  "description": "Xbox Casuals is a biweekly podcast dedicated to everything Xbox, brought to you by Tower Casuals. Every other Friday, hosts Corey Dirrig and Josh Finney break down the latest Xbox news, rumors, Game Pass updates, new releases, and more. Catch new episodes every other Friday on all major podcast platforms and on YouTube via the Tower Casuals channel.",
+  "description": "Xbox Casuals is a biweekly podcast dedicated to all things Xbox, brought to you by Tower Casuals. Every other Friday, hosts Corey Dirrig and Josh Finney break down the latest Xbox news, rumors, Game Pass updates, new releases, and more. Tune in for new episodes every other Friday on all major podcast platforms and on the Tower Casuals YouTube channel.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3507693/3507693-1773365336153-dd04b03eadeee.jpg",
-  "fetched_at": "2026-03-13T19:01:12+00:00",
+  "fetched_at": "2026-03-13T21:48:02+00:00",
   "owners": [
     "Corey Dirrig",
     "Josh Finney"
@@ -28,12 +28,35 @@
   ],
   "episodes": [
     {
+      "key": "8a6978e0016a3230c4734ae524e09b66ae211a95",
+      "title": "What is the Messaging Behind Xbox's Project Helix?",
+      "published_at": "2026-03-13T13:45:23+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/xboxcasuals/episodes/What-is-the-Messaging-Behind-Xboxs-Project-Helix-e3gcv23",
+      "description": "What exactly is Microsoft trying to say about the future of Xbox? On paper, it’s actually a lot simpler than they’re making it sound. This week on Xbox Casuals , Corey Dirrig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Josh Finney dig into Project Helix. The idea behind Helix sounds pretty simple on paper—bringing Xbox and PC gaming libraries together into one ecosystem that could include games from the Microsoft Store, Steam, Epic Games, and more—but Microsoft’s messaging around it has been anything but clear. Corey and Josh talk through what it could mean for the future of the console if Microsoft pulls it off, while also raising plenty of questions about how multiple storefronts would work on an Xbox, how physical backward compatibility might translate to a more PC-style library, where Game Pass and Play Anywhere fit into the strategy, whether the interface could resemble devices like the ROG Ally X, what this means for Xbox’s multiplatform plans, and ultimately how much a console like this might actually cost. This and more on Xbox Casuals: The Xbox Podcast. Follow our Hosts: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Corey Dirrig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , Founder of Boss Rush Media, ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tower Casuals: The Destiny Podcast⁠,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and the ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Boss Rush Network⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Josh Finney⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , cofounder and cohost of ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tower Casuals: The Destiny Podcast⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ .",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3507693/3507693-1773409197327-b5c6bd62e9cd9.jpg",
+      "enclosure_url": "https://anchor.fm/s/1580e714/podcast/play/116865539/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-13%2F88d317b4-81f7-9570-1207-d475570dca14.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96870315",
+      "itunes_duration": "01:20:43",
+      "speakers": [
+        "Project Helix",
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
+      "topics": [
+        "messaging",
+        "xbox",
+        "project",
+        "helix"
+      ]
+    },
+    {
       "key": "21bf6a9209d57bb1e7fb815330876082f7c91055",
-      "title": "Sarah Bond and Phil Spencer are LEAVING XBOX, Asha Sharma New CEO",
+      "title": "Sarah Bond and Phil Spencer are Leaving Xbox, Asha Sharma Named New CEO",
       "published_at": "2026-02-27T17:15:30+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/xboxcasuals/episodes/Sarah-Bond-and-Phil-Spencer-are-LEAVING-XBOX--Asha-Sharma-New-CEO-e3fn46o",
+      "link": "https://podcasters.spotify.com/pod/show/xboxcasuals/episodes/Sarah-Bond-and-Phil-Spencer-are-Leaving-Xbox--Asha-Sharma-Named-New-CEO-e3fn46o",
       "description": "Xbox shocked the gaming world on Friday with major leadership changes. This week on Xbox Casuals, Corey Dirrig and Josh Finney break down the massive news shaking up Xbox. Sarah Bond and Phil Spencer are stepping away from their roles as they help usher in a new era under incoming CEO Asha Sharma. Does Sharma’s resume set her up for success—or could it present challenges as she takes the reins of Microsoft’s gaming brand? Let’s discuss on Xbox Casuals. #XboxCasuals #PhilSpencer #SarahBond #XboxLeadership #XboxPodcast",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3507693/3507693-1772212515254-e246611cb6748.jpg",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3507693/3507693-1773437941584-dec2f82cbd41e.jpg",
       "enclosure_url": "https://anchor.fm/s/1580e714/podcast/play/116149912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-27%2F3d319f07-43f8-06f6-0646-aa638bb2f138.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "82531703",
@@ -42,7 +65,6 @@
         "Sarah Bond",
         "Phil Spencer",
         "Leaving Xbox",
-        "Asha Sharma New",
         "Corey Dirrig",
         "Josh Finney"
       ],
@@ -51,6 +73,7 @@
         "bond",
         "phil",
         "spencer",
+        "leaving",
         "xbox",
         "asha",
         "sharma"
@@ -5125,7 +5148,8 @@
 
 ## Episodes (newest first)
 
-- 2026-02-27 — Sarah Bond and Phil Spencer are LEAVING XBOX, Asha Sharma New CEO — speakers: Sarah Bond, Phil Spencer, Leaving Xbox, Asha Sharma New, Corey Dirrig, Josh Finney
+- 2026-03-13 — What is the Messaging Behind Xbox's Project Helix? — speakers: Project Helix, Corey Dirrig, Josh Finney
+- 2026-02-27 — Sarah Bond and Phil Spencer are Leaving Xbox, Asha Sharma Named New CEO — speakers: Sarah Bond, Phil Spencer, Leaving Xbox, Corey Dirrig, Josh Finney
 - 2026-02-06 — Can Xbox Deliver on Halo, Gears of War, Fable, and Forza This Year? — speakers: Can Xbox Deliver, Xbox Casuals, Corey Dirrig, Josh Finney
 - 2026-01-23 — Xbox Developer Direct Shows Fable Has Major Potential to be Great — speakers: Corey Dirrig, Josh Finney
 - 2026-01-09 — Game of the Year 2025 and Our Most Anticipated Games of 2026 — speakers: Corey Dirrig, Josh Finney
