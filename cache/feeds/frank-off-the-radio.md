@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-03-12T07:13:40+00:00`
-- checked_at: `2026-03-12T07:13:40+00:00`
-- last_modified: `Thu, 12 Mar 2026 05:31:51 GMT`
+- fetched_at: `2026-03-13T03:08:15+00:00`
+- checked_at: `2026-03-13T03:08:15+00:00`
+- last_modified: `Fri, 13 Mar 2026 01:06:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-12T07:13:40+00:00",
+  "fetched_at": "2026-03-13T03:08:15+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,26 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "725568d3ae04fcfe0c41f929ce17ce3234bf9de6",
+      "title": "Frank Compares Himself To The Kardashians",
+      "published_at": "2026-03-13T01:00:00+00:00",
+      "link": null,
+      "description": "Frank and Emily are joined by Milo Edwards! This time Frank has insurance drama, Milo and Emily have been charity mugged and Frank has made a terrible error about Clifford the Big Red Dog. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1280616173.mp3?updated=1773276322",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2308",
+      "speakers": [
+        "Frank Compares Himself",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "kardashians"
+      ]
+    },
     {
       "key": "2436143a5104414d8c01bf66bbda95b741107b52",
       "title": "Frank Skinner’s Radio Days: Aftershave",
@@ -11630,6 +11650,25 @@
       ]
     },
     {
+      "key": "ccc010063fb85c02298487d103c3f1e5f08b6437",
+      "title": "Big Daddy's Birthday",
+      "published_at": "2017-01-28T08:00:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170128131925.mp3",
+      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Frank is joined by Divine Miss Em and The Cockerel...and various other surprise guests along the way. He's sixty! And he's got a bus pass and itchy knees. The team talk Morgan's 'mare and go to animal corner. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a64beece-817e-11ef-8fe9-936e8dbf30ea/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4127811701.mp3?updated=1738246710",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4889",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "daddy",
+        "birthday"
+      ]
+    },
+    {
       "key": "7c4e0deb661ada556c65fb430b63a19a3b131ada",
       "title": "The Frank Skinner Show",
       "published_at": "2017-01-28T08:00:00+00:00",
@@ -11665,25 +11704,6 @@
       "topics": [
         "frank",
         "skinner"
-      ]
-    },
-    {
-      "key": "ccc010063fb85c02298487d103c3f1e5f08b6437",
-      "title": "Big Daddy's Birthday",
-      "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170128131925.mp3",
-      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Frank is joined by Divine Miss Em and The Cockerel...and various other surprise guests along the way. He's sixty! And he's got a bus pass and itchy knees. The team talk Morgan's 'mare and go to animal corner. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a64beece-817e-11ef-8fe9-936e8dbf30ea/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4127811701.mp3?updated=1738246710",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4889",
-      "speakers": [
-        "Frank Skinner"
-      ],
-      "topics": [
-        "daddy",
-        "birthday"
       ]
     },
     {
@@ -13431,13 +13451,13 @@
       ]
     },
     {
-      "key": "ac8a01118c26f992d71356c23f3b95acc6b7568c",
+      "key": "f3df9ef0d8db8db71611fbc454d749aeadfbd2a7",
       "title": "The Frank Skinner Show - Pole Position",
       "published_at": "2015-07-04T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704161146.mp3",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704160258.mp3",
       "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. The team are all back together. Frank joined in on festival season and learnt more than he'd bargained for at a farm. The team discuss Wimbledon, falling over and Peppa Pig. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/dfcaa140-817e-11ef-8fe9-cbb3e0a2ec74/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8812593582.mp3?updated=1738241382",
+      "image_url": "https://megaphone.imgix.net/podcasts/df6ec79e-817e-11ef-8fe9-cb7afbb0cb5e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1533179636.mp3?updated=1738241359",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4594",
@@ -13452,13 +13472,13 @@
       ]
     },
     {
-      "key": "f3df9ef0d8db8db71611fbc454d749aeadfbd2a7",
+      "key": "ac8a01118c26f992d71356c23f3b95acc6b7568c",
       "title": "The Frank Skinner Show - Pole Position",
       "published_at": "2015-07-04T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704160258.mp3",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704161146.mp3",
       "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. The team are all back together. Frank joined in on festival season and learnt more than he'd bargained for at a farm. The team discuss Wimbledon, falling over and Peppa Pig. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/df6ec79e-817e-11ef-8fe9-cb7afbb0cb5e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1533179636.mp3?updated=1738241359",
+      "image_url": "https://megaphone.imgix.net/podcasts/dfcaa140-817e-11ef-8fe9-cbb3e0a2ec74/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8812593582.mp3?updated=1738241382",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4594",
@@ -22954,6 +22974,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — Frank Compares Himself To The Kardashians — speakers: Frank Compares Himself, Frank Skinner
 - 2026-03-11 — Frank Skinner’s Radio Days: Aftershave — speakers: Frank Skinner
 - 2026-03-09 — A Friendship Mentor for Frank — speakers: Frank Skinner
 - 2026-03-06 — Punch the Monkey — speakers: Frank Skinner
@@ -23543,9 +23564,9 @@
 - 2017-02-11 — The Frank Skinner Show - Unconventional Laughter — speakers: Frank Skinner
 - 2017-02-04 — The Frank Skinner Show - Drexit — speakers: Frank Skinner
 - 2017-01-28 — The Best of Frank 2009 - 2011 — speakers: Frank Skinner
-- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
-- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-28 — Big Daddy's Birthday — speakers: Frank Skinner
+- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
+- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-27 — Frank in Conversation with Adrian Chiles — speakers: Radio Frank, Frank Skinner
 - 2017-01-21 — The Frank Skinner Show - Diamante Detail — speakers: Frank Skinner
 - 2017-01-14 — The Frank Skinner Show - The Abuse Of The Fork — speakers: Frank Skinner

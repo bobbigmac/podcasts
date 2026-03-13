@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-03-10T13:38:03+00:00`
-- checked_at: `2026-03-10T13:38:03+00:00`
-- etag: `W/"36ffcee8d5e36435146dd84e1be37dd3"`
-- last_modified: `Tue, 10 Mar 2026 10:50:43 GMT`
+- fetched_at: `2026-03-13T03:08:15+00:00`
+- checked_at: `2026-03-13T03:08:15+00:00`
+- etag: `W/"479b01345b663d54172d439b45bb5300"`
+- last_modified: `Thu, 12 Mar 2026 23:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-03-10T13:38:03+00:00",
+  "fetched_at": "2026-03-13T03:08:15+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,30 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "d2dad5a2b207269de0dc8b6c8fad112fc11ae247",
+      "title": "No Such Thing As The Official Podcast Of Wyoming",
+      "published_at": "2026-03-12T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8873213",
+      "description": "Mary Roach joins Dan, James and Andy to discuss blood banks, breast boosting and beneficial bryophytes. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43527820.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8873213.mp3?modified=1773337818&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3446",
+      "speakers": [
+        "Mary Roach",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "podcast",
+        "wyoming"
+      ]
+    },
     {
       "key": "55b8e4a701bdba9b881ffb836a5b2e141e468af6",
       "title": "Little Fish: I am Dorkus, Queen of the Dorks",
@@ -15841,6 +15865,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-12 — No Such Thing As The Official Podcast Of Wyoming — speakers: Mary Roach, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-08 — Little Fish: I am Dorkus, Queen of the Dorks — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-05 — No Such Thing As Billions Of Checkers Boards — speakers: Daniel Sloss, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-01 — Little Fish: Full Body Botox — speakers: Full Body Botox Dan, Grace Kelly, James tak, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-03-12T21:48:13+00:00`
-- checked_at: `2026-03-12T21:48:13+00:00`
-- etag: `"djEuMi4wOjE3NzMzNDc1NDE3Mjg="`
+- fetched_at: `2026-03-13T03:08:15+00:00`
+- checked_at: `2026-03-13T03:08:15+00:00`
+- etag: `"djEuMi4wOjE3NzMzNjAxNTk0Njk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-03-12T21:48:13+00:00",
+  "fetched_at": "2026-03-13T03:08:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,38 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "92e49ec31336047b36a553a566f90e3ca4c2aad4",
+      "title": "Ep. 569 - Special Compilation - featuring Angus Deayton, Joe Pasquale, Tommy Cannon, Jayde Adams, Mark Simmons & Ed Patrick",
+      "published_at": "2026-03-13T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-569-special-compilation-featuring-angus-deayton-joe-pasqu",
+      "description": "This special compilation episode features Angus Deayton, Joe Pasquale, Tommy Cannon, Jayde Adams, Mark Simmons & Ed Patrick. All previous guests from the 2nd of the 2nd from the past 6 years! Why, I hear you cry? Goodness knows. Ask Mike… it was his idea. Angus Deayton, Joe Pasquale, Tommy Cannon, Jayde Adams, Mark Simmons & Ed Patrick are our guests in episode 569 of My Time Capsule and they chat to Michael Fenton Stevens about the five things they’d like to put in a time capsule; four they’d like to preserve and one they’d like to bury and never have to think about again . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69b322d525f345603a2d63a7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "148606348",
+      "itunes_duration": "1:01:55",
+      "speakers": [
+        "Angus Deayton",
+        "Joe Pasquale",
+        "Tommy Cannon",
+        "Jayde Adams",
+        "Mark Simmons",
+        "Ed Patrick"
+      ],
+      "topics": [
+        "special",
+        "compilation",
+        "angus",
+        "deayton",
+        "pasquale",
+        "tommy",
+        "cannon",
+        "jayde",
+        "adams",
+        "mark"
+      ]
+    },
     {
       "key": "c5cb6627abdd131b6b274dc6335eeebf0ee8b123",
       "title": "Ep. 568 - Beattie Edmondson - Best known for Josh Widdicombe’s sitcom Josh & Disney feature film Patrick",
@@ -12085,6 +12117,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — Ep. 569 - Special Compilation - featuring Angus Deayton, Joe Pasquale, Tommy Cannon, Jayde Adams, Mark Simmons & Ed Patrick — speakers: Angus Deayton, Joe Pasquale, Tommy Cannon, Jayde Adams, Mark Simmons, Ed Patrick
 - 2026-03-09 — Ep. 568 - Beattie Edmondson - Best known for Josh Widdicombe’s sitcom Josh & Disney feature film Patrick — speakers: Beattie Edmondson, Josh Widdicombe, Patrick Beattie Edmondson
 - 2026-03-06 — Ep. 567 - Jake Bhardwaj - comedy creator, writer, actor, producer and self-appointed professional comedy quizmaster — speakers: Jake Bhardwaj comedy, Jake Bhardwaj
 - 2026-03-02 — Ep. 566 - Robin Ince Returns - Robin returns for a brand new time capsule! — speakers: Robin Ince Returns Robin, Robin Ince

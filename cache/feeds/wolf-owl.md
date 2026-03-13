@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-03-12T21:48:13+00:00`
-- checked_at: `2026-03-12T21:48:13+00:00`
-- last_modified: `Thu, 12 Mar 2026 20:16:17 GMT`
+- fetched_at: `2026-03-13T03:08:15+00:00`
+- checked_at: `2026-03-13T03:08:15+00:00`
+- last_modified: `Fri, 13 Mar 2026 00:32:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/808c05ab741a78b27df850511a0cffa6.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-12T21:48:13+00:00",
+  "fetched_at": "2026-03-13T03:08:15+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8beb1d78e8bf2d8ccbc987d6289fc82d7549b92e",
+      "title": "Viagra, Phone Voices, Farting Furniture - and other listener dilemmas",
+      "published_at": "2026-03-13T00:01:00+00:00",
+      "link": null,
+      "description": "How do you explain Viagra falling out of your pocket? Is it true that 70% of chairs make a fart noise when you sit on them? How posh is your phone voice (and can we role play)? Today we tackle subjects inspired by emails from the animal pack we've been sent this week. Send in your questions to wolfowlpod@gmail.com for the chance to have them answered in an upcoming episode. A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 00:50 Viagra 05:13 Imaginary friends and rivalries 10:53 Phone voice role-play 18:16 Would you rather...? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8427bf2a-1dff-11f1-9353-cb4237c379ef/image/b69126dacc3b78f5621cf56065f3eb62.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7369141974.mp3?updated=1773361727",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1413",
+      "speakers": [
+        "Phone Voices",
+        "Farting Furniture",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "viagra",
+        "phone",
+        "voices",
+        "furniture",
+        "listener",
+        "dilemma"
+      ]
+    },
     {
       "key": "6aff8ca3f673758c03b26b005f6829a7b1e59d84",
       "title": "Eyebrow accidents, a lack of aura and Dungeons & Dragons",
@@ -6284,6 +6310,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — Viagra, Phone Voices, Farting Furniture - and other listener dilemmas — speakers: Phone Voices, Farting Furniture, Romesh Ranganathan, Tom Davis
 - 2026-03-10 — Eyebrow accidents, a lack of aura and Dungeons & Dragons — speakers: Romesh Ranganathan, Tom Davis
 - 2026-03-06 — Introducing the listener Q&A episodes! — speakers: Romesh Ranganathan, Tom Davis
 - 2026-03-03 — This Hiatus is Over: Wolf and Owl is BACK! — speakers: Romesh Ranganathan, Tom Davis
