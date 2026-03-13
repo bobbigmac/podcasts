@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-03-13T07:12:39+00:00`
-- checked_at: `2026-03-13T07:12:39+00:00`
-- etag: `"8b4eb354cdb783a19f6dfc2b7df531bf"`
-- last_modified: `Fri, 13 Mar 2026 06:00:05 GMT`
+- fetched_at: `2026-03-13T13:34:03+00:00`
+- checked_at: `2026-03-13T13:34:03+00:00`
+- etag: `"a285db493b19bf69930234aeb285e753"`
+- last_modified: `Fri, 13 Mar 2026 10:39:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1pytt.jpg",
-  "fetched_at": "2026-03-13T07:12:39+00:00",
+  "fetched_at": "2026-03-13T13:34:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -3747,19 +3747,24 @@
     },
     {
       "key": "92aaefad41088c9e5d70ae3ee27460b19ab55f3a",
-      "title": "28/03/2026",
+      "title": "The Terracotta Army",
       "published_at": "2022-08-12T06:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0cshgzq",
-      "description": "The comedy podcast that takes history seriously. Hosted by Greg Jenner.",
+      "description": "Greg Jenner is joined in Ancient China by Professor Julia Lovell and special guest Phil Wang as they take a closer look at The Terracotta Army. In 1974 a family of farmers made arguably the greatest archaeological discovery of all time when they uncovered arrowheads and fragments of terracotta whilst digging a well. Join us as we examine one of the most astounding mausoleum sites in the world - one so large that much of it still remains to be explored. Research by Jon Mason Written by Emma Nagouse and Greg Jenner with Jon Mason Produced by Emma Nagouse and Greg Jenner Assistant Producer: Emmie Rose Price-Goodfellow Project Management: Isla Matthews Audio Producer: Abi Paterson The Athletic production for BBC Radio 4",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0cshc56.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "54608000",
       "itunes_duration": "3413",
       "speakers": [
-        "Greg Jenner"
+        "Greg Jenner",
+        "Julia Lovell",
+        "Phil Wang"
       ],
-      "topics": []
+      "topics": [
+        "terracotta",
+        "army"
+      ]
     },
     {
       "key": "01df01a83b6c99221dec1d84b2cadfaaa50d40ba",
@@ -5800,7 +5805,7 @@
 - 2022-09-02 — Ibn Battuta — speakers: Ibn Battuta Greg Jenner, Prof Amira Bennison, Nabil Abdulrashid
 - 2022-08-26 — The History of Timekeeping — speakers: Greg Jenner, David Rooney, Desiree Burch
 - 2022-08-19 — Njinga of Ndongo and Matamba — speakers: Greg Jenner, Athena Kugblenu
-- 2022-08-12 — 28/03/2026 — speakers: Greg Jenner
+- 2022-08-12 — The Terracotta Army — speakers: Greg Jenner, Julia Lovell, Phil Wang
 - 2022-08-05 — Black Georgian England — speakers: Greg Jenner, Prof Gretchen Gerzina, Kwame Asante
 - 2022-07-29 — Julius Caesar’s Rise To Power — speakers: Shushma Malik, Ahir Shah
 - 2022-07-22 — Julie d'Aubigny — speakers: Julie d'Aubigny Greg Jenner, Sara Barker, Catherine Bohart

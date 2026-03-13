@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-03-13T03:08:15+00:00`
-- checked_at: `2026-03-13T03:08:15+00:00`
-- etag: `W/"479b01345b663d54172d439b45bb5300"`
-- last_modified: `Thu, 12 Mar 2026 23:55:00 GMT`
+- fetched_at: `2026-03-13T13:34:03+00:00`
+- checked_at: `2026-03-13T13:34:03+00:00`
+- etag: `W/"f7f3b9fca3666803bcbd987950ab3334"`
+- last_modified: `Fri, 13 Mar 2026 11:53:33 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-03-13T03:08:15+00:00",
+  "fetched_at": "2026-03-13T13:34:03+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -375,10 +375,10 @@
       "link": "https://audioboom.com/posts/8838177",
       "description": "Olga Koch joins Dan, James and Andy to discuss puns, pizza, peat and peeved performers. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
       "image_url": "https://audioboom.com/i/43361541.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8838177.mp3?modified=1769102871&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8838177.mp3?modified=1773402825&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3566",
+      "itunes_duration": "3485",
       "speakers": [
         "Olga Koch",
         "Dan Schreiber",
