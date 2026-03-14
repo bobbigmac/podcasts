@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-03-13T21:48:02+00:00`
-- checked_at: `2026-03-13T21:48:02+00:00`
-- etag: `W/"317a1-LoNgaugTkgjaAuMIGv+HK8Q0IhE"`
+- fetched_at: `2026-03-14T02:50:36+00:00`
+- checked_at: `2026-03-14T02:50:36+00:00`
+- etag: `W/"31ffb-LWObsrirzOzshwA0/NFPnedVKYI"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-03-13T21:48:02+00:00",
+  "fetched_at": "2026-03-14T02:50:36+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,35 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "9dc5201ba55cc13905e4bab0f3ff30326d679286",
+      "title": "Xbox Gives Us Project Helix Details + SEGA's Woes + Pokopia Rules | Firelink Podcast",
+      "published_at": "2026-03-13T14:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Xbox-Gives-Us-Project-Helix-Details--SEGAs-Woes--Pokopia-Rules--Firelink-Podcast-e3gca84",
+      "description": "This week on Firelink, KC and Marty chat about the details of Xbox's next-gen consoles, figure out how to fix SEGA's sales woes, and chat about the majesty of Pokémon Pokopia. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/116844228/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-13%2F5aa4696a-91c5-82a9-f557-40522940082a.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125478752",
+      "itunes_duration": "01:27:08",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "xbox",
+        "project",
+        "helix",
+        "details",
+        "sega",
+        "woes",
+        "pokopia",
+        "rules",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "411a6363b506a6f011dd2ef8a12131226277f3eb",
       "title": "Resident Evil Requiem and Pokémon Pokopia Are Certified Bangers | Firelink Podcast",
@@ -2549,6 +2578,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-13 — Xbox Gives Us Project Helix Details + SEGA's Woes + Pokopia Rules | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-03-06 — Resident Evil Requiem and Pokémon Pokopia Are Certified Bangers | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-02-27 — Pondering the Future of Xbox + Patreon Mailbag | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-02-20 — Can Spoilers Make or Break a Game? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
