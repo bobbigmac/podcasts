@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-14T15:42:38+00:00`
-- checked_at: `2026-03-14T15:42:38+00:00`
-- etag: `"djEuMi4wOjE3NzM0OTY3MDg5MDY="`
+- fetched_at: `2026-03-14T18:57:19+00:00`
+- checked_at: `2026-03-14T18:57:19+00:00`
+- etag: `"djEuMi4wOjE3NzM1MDc2MzkzMTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-14T15:42:38+00:00",
+  "fetched_at": "2026-03-14T18:57:19+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "4e1256eefcf9b33e1b275f64466b20989f30191e",
+      "title": "“Won’t someone think of the hereditary peers?” | Will and Anoosh’s weekly round up",
+      "published_at": "2026-03-14T17:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/wont-someone-think-of-the-hereditary-peers-will-and-anooshs",
+      "description": "Hereditary peers scrapped, tech overlord villainy, Tory hypocrisy and camel pageant botox cheating. It’s another weekly round up from Anoosh Chakelian and Will Dunn. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1773494331965-826a053a-bef7-4694-b58b-f59bc759567a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69b56186cad04b62221aa9d8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94433445",
+      "itunes_duration": "39:18",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "peer",
+        "anoosh",
+        "round"
+      ]
+    },
     {
       "key": "a8b79b96e86773abaed8d9538f038ca713287334",
       "title": "Mandelson files: Starmer knew",
@@ -30531,6 +30552,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-14 — “Won’t someone think of the hereditary peers?” | Will and Anoosh’s weekly round up — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-13 — Mandelson files: Starmer knew — speakers: Peter Mandelson, Anoosh Chakelian, Oli Dugmore
 - 2026-03-12 — Britain’s imminent decline — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-11 — David Lammy on the crisis abroad and within Labour — speakers: David Lammy, Anoosh Chakelian, Oli Dugmore
