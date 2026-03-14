@@ -18036,6 +18036,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:3b7cd840b0a1",
+        "feed_title": "Rock's Backpages",
+        "source_rss_url": "https://feeds.megaphone.fm/rocksbackpages",
+        "dedupe_key": "c1ce16ecdfaf6d178af04dcaaa6ffad6238b0531",
+        "episode_key": "c1ce16ecdfaf6d178af04dcaaa6ffad6238b0531",
+        "title": "E83: Stewart Lee on Robert Lloyd + Robert Wyatt + Ronald \"Khalis\" Bell",
+        "published_at": "2020-09-14T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this week's episode, we invite cult meta-comedian and out-there-music connoisseur Stewart Lee to discuss the new documentary he's made about Prefects/Nightingales legend Robert Lloyd. Stewart also pitches in on RBP's new audio interview, a 1991 conversation 'twixt the late Andy Gill and everyone's favourite choirboy",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/PAN9068048117.mp3?updated=1673393012",
+        "link_url": "https://podcasts.apple.com/gb/podcast/e83-stewart-lee-on-robert-lloyd-robert-wyatt-ronald/id1441099644?i=1000565396644&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:366e2e3ee08f",
         "feed_title": "A Good Read",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/b006v8jn.rss",
@@ -22373,6 +22395,28 @@
         "speakers": [
           "Nish Kumar",
           "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "a32bb060bfcdb5d3b2a853f334157dfe9da0ac14",
+        "episode_key": "a32bb060bfcdb5d3b2a853f334157dfe9da0ac14",
+        "title": "Bonus Bugle: Gargling with Nish and Josh",
+        "published_at": "2021-07-30T15:43:58Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Mabel Skinner introduces The Gargle. Subscribe here\nWe are funded entirely by you, the listener. Listeners who sign up via thebuglepodcast.com have long enjoyed the opportunity to get: mentions on the show (in the form of lies), merchandise and general sense of wellbeing for supporting this fine work of art. As of this",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6103cb287ce6b9001a0cfbbf/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bonus-bugle-gargling-with-nish-and-josh/id265799883?i=1000530528940&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
         ],
         "topics": [],
         "external": true
