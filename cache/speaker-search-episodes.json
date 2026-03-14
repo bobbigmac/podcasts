@@ -6598,6 +6598,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:5cc8e275ce4f",
+        "feed_title": "Zoe Ball and Friends",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/p02nrvj8.rss",
+        "dedupe_key": "b9106366fa2f1b7ac32faa052ca9cda33ac40f11",
+        "episode_key": "b9106366fa2f1b7ac32faa052ca9cda33ac40f11",
+        "title": "Friends Round Friday... with Bill Bailey, Mel Giedroyc and Harry Hill!",
+        "published_at": "2024-12-13T12:04:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We say goodbye to Friends Round Friday, with a hilarious trio, a huge trombone and a leaf blower!",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kbsn74.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/friends-round-friday-with-bill-bailey-mel-giedroyc/id80844369?i=1000680261269&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e5b58072e338",
         "feed_title": "Oh My Dog! with Jack Dee and Seann Walsh",
         "source_rss_url": "https://anchor.fm/s/10b7d8230/podcast/rss",
