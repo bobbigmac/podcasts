@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-13T21:48:02+00:00`
-- checked_at: `2026-03-13T21:48:02+00:00`
-- etag: `"djEuMi4wOjE3NzM0MzY5NDAwNDU="`
+- fetched_at: `2026-03-14T04:52:32+00:00`
+- checked_at: `2026-03-14T04:52:32+00:00`
+- etag: `"djEuMi4wOjE3NzM0NjA4Mzk0NTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-13T21:48:02+00:00",
+  "fetched_at": "2026-03-14T04:52:32+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6c3ac5524842ec45b5d158accacc9337d5557557",
+      "title": "RAACN week 7",
+      "published_at": "2026-03-14T04:00:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Monday 9th March 2026 - Ayatollah Khamanei Closer - Newsround is back with nipples on and we’re looking at the very serious topic of Presidential assassination and whether it’s the right way to go for a democratically elected President. It taking on the leadership of Iran a good idea at this juncture and will such a young leader be able to cope with the pressure? Tuesday March 10th - Braintree FC Water Tank Tribute - It’s a late night newsround, cos Rich has been too busy all day to do it, but he didn’t want you to miss the big news about Keith Flint’s Satanic Churchyard Bench. Also some theological discussions about Satan and a nice song about starting fires. Wednesday 11th March - Crossing the Rubicon - Rich and Ally are back for the shoddiest Newsround yet, as they look at the worst person in the world, a man who cloned his beloved pet. Was it a waste of money when animals reproduce for free? Should you put all your eggs in one basket? What about a ventriloquist dummy/human hybrid? It’s all utter nonsense today. They can’t all be gold. Friday 13th March 2026 Faeces and Thyme (Time) - Rich and Ally are back after a brief break to bring you all the Roman poop news that you could want. Plus to take the piss out of some foreign academics for their dubious career choices. It’s what the public want. Also a new reporter joins the team. It’s the yeast we can do for you. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1773436687199-9d9c1e8f-52a2-4b93-baf7-87b4f564f05f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69b4800b7ebe44dc8b371dad/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26856005",
+      "itunes_duration": "55:36",
+      "speakers": [
+        "Khamanei Closer Newsround",
+        "Richard Herring"
+      ],
+      "topics": [
+        "raacn",
+        "week"
+      ]
+    },
     {
       "key": "107de4754b0f4a527778d73b4f8b8edeec822562",
       "title": "RHLSTP Book Club 173 - Catherine Wilkins",
@@ -21744,6 +21764,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-14 — RAACN week 7 — speakers: Khamanei Closer Newsround, Richard Herring
 - 2026-03-13 — RHLSTP Book Club 173 - Catherine Wilkins — speakers: Catherine Wilkins, Richard Herring
 - 2026-03-11 — RHLSTP 602 - Stevie Martin — speakers: Richard Herring
 - 2026-03-09 — Retro RHLSTP 136 - Fern Brady — speakers: Fern Brady, Richard Herring
