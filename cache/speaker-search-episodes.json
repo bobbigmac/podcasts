@@ -13473,6 +13473,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:c6031f1ae9bf",
+        "feed_title": "Hawksbee and Jacobs Daily",
+        "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
+        "dedupe_key": "116cf3b2233596e9302c958dd811758664be3299",
+        "episode_key": "116cf3b2233596e9302c958dd811758664be3299",
+        "title": "Scars, Always Believe In Your Shin Pads",
+        "published_at": "2021-04-01T15:32:57Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Paul and Andy are joined by comedian Alex Horne, David and Frankie Seaman, squad number nine Martin Kelner and TV reviewer for the Star Mike Ward. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/hawksbeeandjacobs/scars-alwaysbelieveinyourshinpads/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/scars-always-believe-in-your-shin-pads/id348889102?i=1000515356847&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:1eac8536e49a",
         "feed_title": "Walking The Dog with Emily Dean",
         "source_rss_url": "https://feeds.acast.com/public/shows/65fd941cc33959001681e12e",
