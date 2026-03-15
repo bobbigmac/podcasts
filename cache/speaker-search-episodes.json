@@ -20295,6 +20295,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:0ce0e98479d8",
+        "feed_title": "Three Bean Salad",
+        "source_rss_url": "https://feeds.captivate.fm/three-bean-salad",
+        "dedupe_key": "6254ca064005aad3514010eeb86233e50762b660",
+        "episode_key": "6254ca064005aad3514010eeb86233e50762b660",
+        "title": "Dogs",
+        "published_at": "2023-01-04T01:15:01Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Rebecca Abrey’s son (of Bremen) has Rebecca Abrey get us to talk about dogs and by golly heck but don’t we just do that. The lukewarm, canine banter is appropriately seasoned with paprika, subaquatic telepathy and a hot take on the cultural event of the millennium.\n\nTickets for Mike Wozniak's tour can be found here: ht",
+        "audio_url": "https://dax.captivate.fm/24b3f74c-2ee3-4038-b089-8d380f0f7881/38831076-encoded.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=f9ceb092-4923-458a-bb2d-b0f3a2c40cff",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dogs/id1564066507?i=1000592238199&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Mike Wozniak"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:66a92b32c347",
         "feed_title": "You're Dead to Me",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/p07mdbhg.rss",
@@ -22720,6 +22742,28 @@
         "description": "Andy is #COTI (Crying On The Inside) with Nish Kumar and Hari Kondabolu, with a look at the Cold War, hate crimes in the US, protests in the UK, and, remarkably given how this sentence is going, jokes. \nWe have a NEW SHOW. Subscribe to The Gargle and get topical jokes about everything except politics\nBuy a loved one Bu",
         "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/60561ca3f0c79e0b2bc20e65/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/coti/id265799883?i=1000513775136&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "66da5faaabd12c1fa7a9ef9a76a7e712ccca684e",
+        "episode_key": "66da5faaabd12c1fa7a9ef9a76a7e712ccca684e",
+        "title": "Texas(shole) Ted",
+        "published_at": "2021-02-28T14:24:34Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Andy is with Baratunde Thurston and Nish Kumar to talk vaccines, Texas and protests.\nWe have a NEW SHOW. Subscribe to The Gargle and get topical jokes about everything except politics: https://pod.link/1552687312\nBuy a loved one Bugle Merch (or some for yourself, it's allowed).\nThe Last Post, keeps appearing here. Foll",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/603ba7a2d30706647a6700e8/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/texas-shole-ted/id265799883?i=1000510988670&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -27888,6 +27932,28 @@
         "description": "James sits down with David Mitchell of Patients for Affordable Drugs to discuss why medicines in the USA are unaffordable  and what we can do about it\nSee omnystudio.com/listener for privacy information.",
         "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/3ed9aa00-9ff7-49af-8892-af230177f9a8/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
         "link_url": "https://podcasts.apple.com/gb/podcast/why-do-medicines-cost-so-much-in-the-usa/id1449762156?i=1000581491456&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:abcc66b38e3e",
+        "feed_title": "How To Academy Podcast",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR3811872066",
+        "dedupe_key": "5fa99acd6a4ca59adb508b0d40246276411ee490",
+        "episode_key": "5fa99acd6a4ca59adb508b0d40246276411ee490",
+        "title": "David Mitchell - Dishonesty is the Second Best Policy (Summer Repeat)",
+        "published_at": "2022-08-30T08:28:29Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Lying is probably as old as human language itself – an inevitable consequence of humanity’s greatest superpower. And comedian, Observer columnist and Peep Show star David Mitchell lies quite often (mostly about whether he is free to come to social events). But even he never expected to live in the post-truth age.\nIn co",
+        "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/NSR8323672162.mp3?updated=1661848434",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-dishonesty-is-the-second-best-policy/id1298460455?i=1000577774746&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
