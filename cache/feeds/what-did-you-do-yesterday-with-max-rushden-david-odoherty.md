@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-03-12T03:11:57+00:00`
-- checked_at: `2026-03-12T03:11:57+00:00`
-- last_modified: `Wed, 11 Mar 2026 22:49:52 GMT`
+- fetched_at: `2026-03-15T03:30:56+00:00`
+- checked_at: `2026-03-15T03:30:56+00:00`
+- last_modified: `Sun, 15 Mar 2026 00:15:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/e3305fc974dac38dee8f3d8103df6e67.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-12T03:11:57+00:00",
+  "fetched_at": "2026-03-15T03:30:56+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "96799b4dc87ee069702b8b8cdd88c864d8b145ab",
+      "title": "S4 EP11: Tom Cashman",
+      "published_at": "2026-03-15T00:15:00+00:00",
+      "link": null,
+      "description": "Joining us on this episode of ' ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ What did you do yesterday? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ' is the brilliant comedian - Tom Cashman. We asked Tom what he did yesterday? He told us. That's it... enjoy! Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ @yesterdaypod ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6e2959f6-1d7b-11f1-837a-27faebfcdbdb/image/7209ec326b1e02931fbaf342d1c90574.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3190552545.mp3?updated=1773269683",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4471",
+      "speakers": [
+        "Tom Cashman",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "cashman"
+      ]
+    },
     {
       "key": "d0acef52a47d3f9282729484cb911383b61ff8ab",
       "title": "WDWDY #62: Dublin Show Post Mortem",
@@ -3013,6 +3033,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-15 — S4 EP11: Tom Cashman — speakers: Tom Cashman, Max Rushden, David O'Doherty
 - 2026-03-11 — WDWDY #62: Dublin Show Post Mortem — speakers: Max Rushden, David O'Doherty
 - 2026-03-08 — S4 EP10: Phil Ellis — speakers: Phil Ellis, Max Rushden, David O'Doherty
 - 2026-03-04 — WDWDY #61: Exceptional Perineum — speakers: Max Rushden, David O'Doherty
