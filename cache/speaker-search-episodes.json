@@ -8214,6 +8214,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8cc4a7996941",
+        "feed_title": "The Chris Moyles Show on Radio X Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/the-chris-moyles-show",
+        "dedupe_key": "96e828b615f0122da397367e7d00a2d7f104a312",
+        "episode_key": "96e828b615f0122da397367e7d00a2d7f104a312",
+        "title": "Bill Bailey, Ross Noble and Richard Herring #433",
+        "published_at": "2024-03-01T13:50:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "New month, new studio, new podcast, same great show!\nHey there! Welcome to the next episode of The Chris Moyles Show on Radio X Podcast - number 433 to be exact! Having returned from Amsterdam, Chris and the team have been laughing all week as we’ve had not one, not two, but THREE comedians in the studio. In this whopp",
+        "audio_url": "https://dax.captivate.fm/b70711ca-e8fb-4c80-b011-bd21bcee839f/Podcast-434-this-this-this-encoded.mp3?aw_0_1st.showid=ed87f36a-7b44-4e79-beea-f3220752406c&aw_0_1st.episodeid=0a36e9b9-7b7c-479c-98f5-02f008c4fdba",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bill-bailey-ross-noble-and-richard-herring-433/id1042635536?i=1000647667529&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:66a92b32c347",
         "feed_title": "You're Dead to Me",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/p07mdbhg.rss",
@@ -11636,6 +11658,28 @@
         "description": "20. The City BargeWritten by Paul EwenPerformed by Tim KeyProduced by Nick CoupeExecutive Producers Andy Goddard and Claire BroughtonLondon Pub Reviews is a Hat Trick Podcast\n Hosted on Acast. See acast.com/privacy for more information.",
         "audio_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8617359.mp3?modified=1733135792&sid=5145803&source=rss",
         "link_url": "https://podcasts.apple.com/gb/podcast/20-the-city-barge/id1544416855?i=1000546581786&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e01bddc53356",
+        "feed_title": "LONDON PUB REVIEWS (feat. Tim Key)",
+        "source_rss_url": "https://audioboom.com/channels/5145803.rss",
+        "dedupe_key": "498e5fd49dc056dab33e751d8cc4951c9e47820b",
+        "episode_key": "498e5fd49dc056dab33e751d8cc4951c9e47820b",
+        "title": "19. The Hand in Hand",
+        "published_at": "2021-12-31T12:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "19. The Hand in HandWritten by Paul EwenPerformed by Tim KeyProduced by Nick CoupeExecutive Producers Andy Goddard and Claire BroughtonLondon Pub Reviews is a Hat Trick Podcast\n Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8617360.mp3?modified=1733135818&sid=5145803&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/19-the-hand-in-hand/id1544416855?i=1000546581358&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
