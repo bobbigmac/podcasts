@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-14T18:57:19+00:00`
-- checked_at: `2026-03-14T18:57:19+00:00`
-- etag: `"djEuMi4wOjE3NzM1MDc2MzkzMTI="`
+- fetched_at: `2026-03-15T09:49:33+00:00`
+- checked_at: `2026-03-15T09:49:33+00:00`
+- etag: `"djEuMi4wOjE3NzM1NjUyMzkzMzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-14T18:57:19+00:00",
+  "fetched_at": "2026-03-15T09:49:33+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "072f563f1dcb23a008b1f76d383f521239899abd",
+      "title": "Farewell, George!",
+      "published_at": "2026-03-15T09:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/farewell-george",
+      "description": "After a massive 17 years reporting on politics for the New Statesman, George Eaton joins Anoosh Chakelian the podcast for a farewell episode. Anoosh and George discuss his highlights from covering the past 17 years in British politics, from the post-crash austerity years, through Labour civil war and ultimately Keir Starmer's Labour election victory in 2024. They reflect on the lessons learned, what's changed... and what's stayed the same. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1773423876985-2aa9a334-7a09-4dd0-b5a1-a7b300017473.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69b44dcd559de2c6344e58e0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27579116",
+      "itunes_duration": "19:08",
+      "speakers": [
+        "George Eaton",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "farewell",
+        "george"
+      ]
+    },
     {
       "key": "4e1256eefcf9b33e1b275f64466b20989f30191e",
       "title": "“Won’t someone think of the hereditary peers?” | Will and Anoosh’s weekly round up",
@@ -30552,6 +30573,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-15 — Farewell, George! — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
 - 2026-03-14 — “Won’t someone think of the hereditary peers?” | Will and Anoosh’s weekly round up — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-13 — Mandelson files: Starmer knew — speakers: Peter Mandelson, Anoosh Chakelian, Oli Dugmore
 - 2026-03-12 — Britain’s imminent decline — speakers: Anoosh Chakelian, Oli Dugmore
