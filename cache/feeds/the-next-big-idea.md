@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-03-16T03:33:35+00:00`
-- checked_at: `2026-03-16T03:33:35+00:00`
-- last_modified: `Mon, 16 Mar 2026 03:00:44 GMT`
+- fetched_at: `2026-03-16T10:14:51+00:00`
+- checked_at: `2026-03-16T10:14:51+00:00`
+- last_modified: `Mon, 16 Mar 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-16T03:33:35+00:00",
+  "fetched_at": "2026-03-16T10:14:51+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,27 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "80fb249df4105ec76095455a56cf795e444694e9",
+      "title": "The Story of Stories",
+      "published_at": "2026-03-16T09:00:00+00:00",
+      "link": null,
+      "description": "What do the campfire, printing press, motion picture, and smartphone have in common? They're all storytelling technologies. Each one gave us a new medium through which to transmit tales, reshaping how we think, what we believe, and who holds power. And we may be on the brink of the most disruptive one yet. In his new book, The Story of Stories, Kevin Ashton traces the million-year arc from fireside gossip to the screen in your pocket. Now, with AI-generated imagery and displays approaching the resolution of the human eye, we're heading somewhere new: a world where we may not be able to tell the difference between a story and reality. Sponsored By: Bitdefender — Get 30% off your plan at ⁠bitdefender.com/idea⁠ Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠meetfabric.com/nbi⁠ Factor — Head to ⁠⁠factormeals.com/idea50off⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠granola.ai/idea⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP3887602542.mp3?updated=1773630334",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3364",
+      "speakers": [
+        "Stories What",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "story",
+        "stories"
+      ]
+    },
     {
       "key": "4048ca086e916f055a60a94fb345a604089557a6",
       "title": "Best Of: How To Connect With Anyone",
@@ -7331,6 +7352,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — The Story of Stories — speakers: Stories What, Rufus Griscom, Caleb Bissinger
 - 2026-03-12 — Best Of: How To Connect With Anyone — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-03-09 — A War Correspondent on the Crisis in Iran — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-03-05 — How AI Could Change Everything in the Next 1,000 Days — speakers: Stable Diffusi, Rufus Griscom, Caleb Bissinger
