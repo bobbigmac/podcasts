@@ -14628,6 +14628,29 @@
         "feed_slug": "external:apple:f0e5f1b08719",
         "feed_title": "Alex Horne Breaks the News",
         "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
+        "dedupe_key": "3cd354e1a0d130823e3552b5c79fdc3a16126908",
+        "episode_key": "3cd354e1a0d130823e3552b5c79fdc3a16126908",
+        "title": "Alex Horne, Iain Lee, Nish Kumar and Chris Parmiter",
+        "published_at": "2013-11-15T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Nonsensical, whimsical and (un)topical as ever. Alex breaks the news with more funny celebrities (or comedians). Nish Kumar and Iain Lee join the musical wizard in his quest for news perfection. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-iain-lee-nish-kumar-and-chris-parmiter/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-iain-lee-nish-kumar-and-chris-parmiter/id1133204823?i=1000372293465&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne",
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f0e5f1b08719",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
         "dedupe_key": "d15f8fc48b756d1361cd0f76c117c5489b050771",
         "episode_key": "d15f8fc48b756d1361cd0f76c117c5489b050771",
         "title": "Alex Horne, Mark Watson, Romesh Ranganathan and Alex Carter",
@@ -14704,6 +14727,28 @@
         "description": "How can this be the FINAL episode of the series? The fun just hasn’t stopped, has it? Except for that time when Miles ate rice for a week. That wasn’t fun - that was for a good cause. Well done Miles Jupp. For the final episode of the series we have Sara Pascoe and Charlie Baker. Two hilarious people with a staunch kno",
         "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-sara-pascoe-charlie-baker-and-sam-pearson/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-sara-pascoe-charlie-baker-and-sam-pearson/id1133204823?i=1000372293476&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f0e5f1b08719",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
+        "dedupe_key": "88b6dd6e4e729951ed3615f374eeca848fd5d992",
+        "episode_key": "88b6dd6e4e729951ed3615f374eeca848fd5d992",
+        "title": "Alex Horne, Sean Hughes, Katy Wix and Joaquin Phoenix(ish)",
+        "published_at": "2013-06-21T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's a special Anglo-Irish-Welsh edition of the podcast this week as presenter Alex Horne, who hails from West Sussex, is joined by stand-up Sean Hughes (who was born in London, but spent most of his youth in Firhouse, Dublin) and comedian Katy Wix, who you'll recognise from the sitcom Not Going Out but who grew up in ",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-sean-hughes-katy-wix-and-joaquin-phoenix-ish-/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-sean-hughes-katy-wix-and-joaquin-phoenix-ish/id1133204823?i=1000372293480&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -23385,6 +23430,29 @@
         "enclosure_bytes": null,
         "enclosure_type": null,
         "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f0e5f1b08719",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
+        "dedupe_key": "3cd354e1a0d130823e3552b5c79fdc3a16126908",
+        "episode_key": "3cd354e1a0d130823e3552b5c79fdc3a16126908",
+        "title": "Alex Horne, Iain Lee, Nish Kumar and Chris Parmiter",
+        "published_at": "2013-11-15T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Nonsensical, whimsical and (un)topical as ever. Alex breaks the news with more funny celebrities (or comedians). Nish Kumar and Iain Lee join the musical wizard in his quest for news perfection. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-iain-lee-nish-kumar-and-chris-parmiter/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-iain-lee-nish-kumar-and-chris-parmiter/id1133204823?i=1000372293465&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne",
           "Nish Kumar"
         ],
         "topics": [],
