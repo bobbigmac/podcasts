@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-13T15:57:49+00:00`
-- checked_at: `2026-03-13T15:57:49+00:00`
-- etag: `"djEuMi4wOjE3NzM0MTQzNzUyMDE="`
+- fetched_at: `2026-03-16T19:20:25+00:00`
+- checked_at: `2026-03-16T19:20:25+00:00`
+- etag: `"djEuMi4wOjE3NzM2ODE5MzkzNDY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,31 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-13T15:57:49+00:00",
+  "fetched_at": "2026-03-16T19:20:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b64e6e2fd06668f4062b979c1dfda1e9e33a05d2",
+      "title": "Should Keir Starmer resign?",
+      "published_at": "2026-03-16T17:25:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69b839f51b5a7dfbdf65bf15",
+      "description": "Another Monday, and the US-Israeli war with Iran continues. Ava, Seán, and Andy debate Keir Starmer's position, who's idea it really was, and how tenable it will continue to be as energy prices are likely to rise. They also touch on the Greens' Hannah Spencer. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69b839f51b5a7dfbdf65bf15/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50447523",
+      "itunes_duration": "35:01",
+      "speakers": [],
+      "topics": [
+        "keir",
+        "starmer",
+        "resign"
+      ]
+    },
     {
       "key": "45399250d370346748f7d99f6b4fb5a9dc0c1bb1",
       "title": "I lost my job after confronting Matt Lucas on Palestine | Cancelled",
@@ -12022,6 +12040,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — Should Keir Starmer resign?
 - 2026-03-13 — I lost my job after confronting Matt Lucas on Palestine | Cancelled — speakers: Matt Lucas, Thomas Bourne
 - 2026-03-12 — Going deep on the Mandelson files
 - 2026-03-11 — Starmer humiliates Badenoch over Iran warmongering | PMQs Analysis

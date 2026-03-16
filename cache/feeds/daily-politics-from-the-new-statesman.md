@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-15T09:49:33+00:00`
-- checked_at: `2026-03-15T09:49:33+00:00`
-- etag: `"djEuMi4wOjE3NzM1NjUyMzkzMzU="`
+- fetched_at: `2026-03-16T19:20:25+00:00`
+- checked_at: `2026-03-16T19:20:25+00:00`
+- etag: `"djEuMi4wOjE3NzM2ODA0Mzk1MjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-15T09:49:33+00:00",
+  "fetched_at": "2026-03-16T19:20:25+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "379cbce1fa5b8dc71d1083ab0c8e4530d311701d",
+      "title": "Could surging oil prices cause a global depression?",
+      "published_at": "2026-03-16T17:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/could-surging-oil-prices-cause-a-global-depression",
+      "description": "Oil prices have spiked following the outbreak of war in Iran, with crude oil jumping to over £75 a barrel. This is having a huge impact around the world, and is set to get worse. Megan Gibson is joined by Rory Johnston, oil market researcher and author of the Commodity Context newsletter, who argues that this scenario could lead to a global depression. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1773678278400-de3d0ea2-a826-4760-b40e-a1fe71e7af5e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69b835580e4c6e732049d5e1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59209115",
+      "itunes_duration": "30:47",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "price",
+        "depression"
+      ]
+    },
     {
       "key": "072f563f1dcb23a008b1f76d383f521239899abd",
       "title": "Farewell, George!",
@@ -30573,6 +30593,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — Could surging oil prices cause a global depression? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-15 — Farewell, George! — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
 - 2026-03-14 — “Won’t someone think of the hereditary peers?” | Will and Anoosh’s weekly round up — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-13 — Mandelson files: Starmer knew — speakers: Peter Mandelson, Anoosh Chakelian, Oli Dugmore

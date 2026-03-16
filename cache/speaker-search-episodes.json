@@ -5734,6 +5734,28 @@
     ],
     "bob-mortimer": [
       {
+        "feed_slug": "external:apple:f365e01dfc3f",
+        "feed_title": "Alan Carr's 'Life's a Beach'",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT3251662520",
+        "dedupe_key": "c0a090ea217192e7f56b866aa1c4a554beb2c270",
+        "episode_key": "c0a090ea217192e7f56b866aa1c4a554beb2c270",
+        "title": "S10 EP8: Bob Mortimer",
+        "published_at": "2026-03-16T03:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Joining me this episode to discuss their travel and holiday stories is the brilliant comedian - Bob Mortimer. \n\n\n\nPlease subscribe and review.\n\nThanks, Alan.\n\nxx\n\n\n\n\n\n‘Life’s A Beach’ everyone’s favourite travel podcast is here to give you all the vitamin D you need. More celebrity passengers unpack their travel suitca",
+        "audio_url": "https://traffic.megaphone.fm/KILM3464865331.mp3?updated=1773630176",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s10-ep8-bob-mortimer/id1550998864?i=1000755493011&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
@@ -8070,6 +8092,28 @@
         "description": "Neither “Tom!” nor “Ben!” want to download the podcast so Matthew says we’re gonna have to have a Flatshare Slamdown!\nWith Dave Holmes and Harriet Kemsley\n\nFeatures: Departed Owls, LA stories and sexy ghost impressions\nHarriet Kemsley - https://twitter.com/harrietkemsley\nDave Holmes - https://twitter.com/DaveHolmes\n\nPa",
         "audio_url": "https://traffic.megaphone.fm/NSR2244515551.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/slamdown-w-dave-holmes-and-harriet-kemsley-download/id437801391?i=1000461753594&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:383b5d08ea3c",
+        "feed_title": "Secret Artists with Annie McGrath",
+        "source_rss_url": "https://feeds.acast.com/public/shows/eb02421b-00c5-46f2-8cbc-ce520b0af377",
+        "dedupe_key": "603c27024bc2097b081f7d47a7fa3d55585f751c",
+        "episode_key": "603c27024bc2097b081f7d47a7fa3d55585f751c",
+        "title": "Harriet Kemsley",
+        "published_at": "2019-11-14T06:00:06Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Harriet Kemsley and her cat Iola doing art and chatting to Annie McGrath. Secret Artists is a brand new podcast hosted by comedian and artist, Annie McGrath. Each week her guest selects a subject which inspires them to create an artwork... It could be an object, a place, a person, an animal... Whilst drawing and painti",
+        "audio_url": "https://sphinx.acast.com/secretartists/harrietkemsley/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harriet-kemsley/id1484654152?i=1000456779620&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -15879,6 +15923,28 @@
         "description": "A harrowing amount of Cocomelon chat this week, but luckily Lou Sanders lifts the austere mood and saves the day. Don’t touch those bourbons.\n\nGo see Ed on tour! edgamble.co.uk\nKeep each other safe.\nThanks for downloading the podcast – remember, you can be an Early Worm and catch the show live on Radio X every Sunday 8",
         "audio_url": "https://dax.captivate.fm/e4c435b3-0ca4-4165-9b4b-8510ad6817a0/bafa344c-722d-4b3a-80c4-88e11beb0821.mp3?aw_0_1st.showid=271ada40-4f74-48dc-8db5-08c3d4d8378e&aw_0_1st.episodeid=85095c0b-f195-493d-b12b-060ea12c71f0",
         "link_url": "https://podcasts.apple.com/gb/podcast/episode-172-lou-sanders-screwdrivers-and-lou-brushes/id1467168361?i=1000581286347&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:061d1f6ac5f3",
+        "feed_title": "Amuse Douche with James Haskell",
+        "source_rss_url": "https://podcast.global.com/show/5482396/episodes/feed",
+        "dedupe_key": "2a03eddc167e1f122d287c4fb8e8cb02145f2c76",
+        "episode_key": "2a03eddc167e1f122d287c4fb8e8cb02145f2c76",
+        "title": "Episode 3: Lou Sanders",
+        "published_at": "2022-09-21T04:00:03Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The brilliant Lou Sanders is the latest comic to sit down with Hask to talk him through the tricks and the pitfalls of embarking on a stand up career. She recalls gigs that have gone wrong, emphasises the importance of being yourself and her secret to writing comedy.\n\nLou also talks about her own path into stand up: wh",
+        "audio_url": "https://api.spreaker.com/download/episode/51327669/220920_ad_lous_sanders_tx.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-3-lou-sanders/id1535957435?i=1000580139561&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
