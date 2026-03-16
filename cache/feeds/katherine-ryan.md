@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-03-09T10:06:51+00:00`
-- checked_at: `2026-03-09T10:06:51+00:00`
-- etag: `"djEuMi4wOjE3NzMwNDMyMzk0MjI="`
+- fetched_at: `2026-03-16T13:54:27+00:00`
+- checked_at: `2026-03-16T13:54:27+00:00`
+- etag: `"djEuMi4wOjE3NzM2NjMwNTQwNzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-03-09T10:06:51+00:00",
+  "fetched_at": "2026-03-16T13:54:27+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4fbeabf3bbce93d5a73b51d521d26109c0a97ff5",
+      "title": "The Manosphere",
+      "published_at": "2026-03-16T12:10:53+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/the-manosphere",
+      "description": "This week, Katherine's Telling Everybody Everything about The Manosphere, Louis Theroux's new documentary available on Netflix, hilariously released between International Women's Day and UK Mother's Day LOL. Are these men truly dangerous scammers or just lost boys themselves? Is Katherine being tricked by a similar far-right algorithm to become an agent of the patriarchy herself? Plus, Bobby's reactions to some OSCARS looks and what happened to Timothee Chalamet? x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1773662598769-2250272f-5008-41bc-9164-a67510e3b89b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/69b7f34e559de2c6342d4863/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73298882",
+      "itunes_duration": "50:53",
+      "speakers": [
+        "Louis Theroux",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "manosphere"
+      ]
+    },
     {
       "key": "d8d3a6a6d3dfc84c26b37fe226dc5d95d028b2a7",
       "title": "A Listener Letter Catchup",
@@ -5967,6 +5986,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — The Manosphere — speakers: Louis Theroux, Katherine Ryan
 - 2026-03-09 — A Listener Letter Catchup — speakers: Listener Letter Catchup Katherine, Telling Everybody Everything, Katherine Ryan
 - 2026-03-03 — Jim Carrey's Face and Maura Higgins' Body — speakers: Jim Carrey, Maura Higgins Body, Katherine Ryan
 - 2026-02-23 — You Wanna Be On Top? — speakers: Katherine Ryan

@@ -2,11 +2,11 @@
 
 - slug: `cymraeg-bob-dydd`
 - source: `https://www.spreaker.com/show/6325466/episodes/feed`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `"b6eddc787adaefeab430d33ae68a61a3"`
-- last_modified: `Fri, 13 Feb 2026 07:29:58 GMT`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-03-16T13:54:27+00:00`
+- checked_at: `2026-03-16T13:54:27+00:00`
+- etag: `"6e36fae88847d33cc49fdf2441981dba"`
+- last_modified: `Mon, 16 Mar 2026 12:13:12 GMT`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -18,7 +18,7 @@
   "link": "https://www.stiwdiobox.com",
   "description": "Os ydych eisiau dechrau siarad Cymraeg gyda’ch plant a’ch teulu, gyda rhieni a staff yr ysgol ac yn y gymuned, yna dyma’r podlediad i chi.If you want to start speaking Welsh with your children and your family, with parents and staff at the school and in the community, then this is the podcast for you. Does dim angen darllen nac ysgrifennu, dim ond gwrando ac ailadrodd. Peidiwch â bod ofn rhoi cynnig arni. Dyma ddechrau ar daith newydd a chyffrous. Ewch amdani a joiwch!There’s no reading or writing, just listening and repeating. Don’t be afraid to give it a go. Here’s the start of an exciting new journey. Go for it and enjoy!",
   "image_url": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/c87b0ddc74cac1040581fc9e1f7f0af1.jpg",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
+  "fetched_at": "2026-03-16T13:54:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

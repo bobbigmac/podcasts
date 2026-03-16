@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-03-14T18:57:19+00:00`
-- checked_at: `2026-03-14T18:57:19+00:00`
-- last_modified: `Sat, 14 Mar 2026 17:13:29 GMT`
+- fetched_at: `2026-03-16T13:54:27+00:00`
+- checked_at: `2026-03-16T13:54:27+00:00`
+- last_modified: `Mon, 16 Mar 2026 12:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/967914911d6e26f1bb9223e736bc7c12.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-14T18:57:19+00:00",
+  "fetched_at": "2026-03-16T13:54:27+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,31 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "9a665bcccb7afd7507bc1cd5bb773be72d2c6d32",
+      "title": "474. Waterstone’s Book Club with Max Olesker and Jess Robinson",
+      "published_at": "2026-03-16T12:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 474. Waterstone’s Book Club Presented by Deborah Frances-White with special guests Max Olesker and Jess Robinson Recorded 23 February 2026 at Waterstone’s Piccadilly. Released 16 March. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Max Olesker https://www.instagram.com/maxolesker https://lnk.to/MakingTheCut https://maxolesker.com More about Jess Robinson https://www.instagram.com/jessrobinsonofficial https://jessrobinson.lnk.to/lifeisrosibook https://www.jessrobinson.co.uk For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Endometriosis Special. 31 March Bloomsbury Theatre . https://www.bloomsburytheatre.com/event/2026/03/guilty-feminist-live Road to Gilead at the Museum of Comedy . https://www.museumofcomedy.com/the-guilty-feminist/ Guilty Feminist x The Nerve . https://www.leicestersquaretheatre.com/show/guilty-feminist-x-the-nerve-road-to-gilead/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0862e3a6-1fc6-11f1-8075-87cdb41d941b/image/7277a845bab8f66b539556dfea93a6f8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL3354006675.mp3?updated=1773507612",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4873",
+      "speakers": [
+        "Max Olesker",
+        "Jess Robinson",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "waterstone",
+        "book",
+        "club",
+        "olesker",
+        "jess",
+        "robinson"
+      ]
+    },
     {
       "key": "1fb0c83035f74794ffc7a141adb38a3cb252beb0",
       "title": "473. ROAD TO GILEAD: Fascism with Desiree Burch and Professor Roger Griffin - part two",
@@ -17579,6 +17604,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — 474. Waterstone’s Book Club with Max Olesker and Jess Robinson — speakers: Max Olesker, Jess Robinson, Deborah Frances-White
 - 2026-03-09 — 473. ROAD TO GILEAD: Fascism with Desiree Burch and Professor Roger Griffin - part two — speakers: Roger Griffin, Deborah Frances-White, Desiree Burch
 - 2026-03-09 — 473. ROAD TO GILEAD: Fascism with Desiree Burch and Professor Roger Griffin — speakers: Roger Griffin, Deborah Frances-White, Desiree Burch
 - 2026-03-08 — The Guilty Feminist in association with MSI Reproductive Choices — speakers: Deborah Frances-White, Grace Campbell
