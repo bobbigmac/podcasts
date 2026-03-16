@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-03-16T03:33:35+00:00`
-- checked_at: `2026-03-16T03:33:35+00:00`
-- last_modified: `Sun, 15 Mar 2026 22:14:43 GMT`
+- fetched_at: `2026-03-16T07:48:40+00:00`
+- checked_at: `2026-03-16T07:48:40+00:00`
+- last_modified: `Mon, 16 Mar 2026 07:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-03-16T03:33:35+00:00",
+  "fetched_at": "2026-03-16T07:48:40+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4f9b77b2699ddeb5c1e5ab0624e45e94d5451f31",
+      "title": "Toothless",
+      "published_at": "2026-03-16T07:30:00+00:00",
+      "link": null,
+      "description": "Can dentists go to heaven? That's the question that only Toothless (1997) is bold enough to ask, and also bold enough to answer: No. This is what dead dentist Dr. Katherine Lewis discovers after she is hit by a car and wakes up in limbo, and discovers that, as punishment for her life of fixing people's mouths, she is sentenced to be the tooth fairy, visiting children's homes unseen to collect their teeth and exchange them for shiny silver coins, until such time as the powers that be decide that she has served her time and can go to heaven. But in an interesting twist, it turns out that Katherine is bad at this and so before long, she's chatting to kids, giving them advice and occasionally watching their dads undress. Will Katherine be able to make it to heaven despite her many, many crimes? Does Disney realise that not every country has the concept of a tooth fairy? And if your movie's script is bad, is it enough to just do the cabbage patch and hope for the best? Listen and find out! If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched Toothless and have your own thoughts, email them to us at momcantcookpod@gmail.com for a chance to have them read out on the show. Next time on Mom Can't Cook! we'll be watching 2011's Lemonade Mouth. See you then! This episode is sponsored by NordVPN. EXCLUSIVE NordVPN Deal ➼ nordvpn.com/momcantcook . Try it risk-free now with a 30-day money-back guarantee! Thanks also to sponsor Green Chef! Head to greenchef.com/50momcantcook and use code 50momcantcook to get fifty percent off your first month, then twenty percent off for two months with free shipping! This episode is also sponsored by Insert Coin Clothing! Visit insertcoinclothing.com and use code CAVITYSEARCH for 10% off online orders. Codes are not applicable on charity items, bundles, gift cards, postage and some products at launch. Codes cannot be combined with other deals or promotions and are valid until June 2026. Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch: momcantcookmerch.com and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/rss.art19.com/episodes/016034b8-340f-40c4-8c24-a6547d1434b9.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138729848",
+      "itunes_duration": "02:24:30",
+      "speakers": [
+        "Toothless Can",
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
+      "topics": [
+        "toothless"
+      ]
+    },
     {
       "key": "0a13cedae4414ce472ba74bab079024e62f77339",
       "title": "Avalon High",
@@ -2004,6 +2024,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — Toothless — speakers: Toothless Can, Luke Westaway, Andy Farrant
 - 2026-03-02 — Avalon High — speakers: Luke Westaway, Andy Farrant
 - 2026-02-16 — The Cheetah Girls: One World — speakers: Luke Westaway, Andy Farrant
 - 2026-02-02 — Escape to Witch Mountain — speakers: Luke Westaway, Andy Farrant

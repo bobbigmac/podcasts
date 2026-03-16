@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-03-14T02:50:36+00:00`
-- checked_at: `2026-03-14T02:50:36+00:00`
-- etag: `"9f7b403186c224659658bcd93dc724d0"`
-- last_modified: `Fri, 13 Mar 2026 23:41:33 GMT`
+- fetched_at: `2026-03-16T07:48:40+00:00`
+- checked_at: `2026-03-16T07:48:40+00:00`
+- etag: `"ea1b5910d875cf8393d11654110d469e"`
+- last_modified: `Mon, 16 Mar 2026 04:17:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-03-14T02:50:36+00:00",
+  "fetched_at": "2026-03-16T07:48:40+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "133dc046ab28eb63909af5449ffc708827b529ad",
+      "title": "Xbox's GDC Recap: Building the Next Generation with Project Helix - (Xbox In Ten: An Xbox Podcast - Ep. 355)",
+      "published_at": "2026-03-16T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xboxs-gdc-recap-building-the-next-generation-with-project-helix-xbox-in-ten-an-xbox-podcast-ep-355",
+      "description": "Week of: 3-9-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/4/c/3/3/4c33c626c8e65a6ad959afa2a1bf1c87/355.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/355.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "18482080",
+      "itunes_duration": "13:04",
+      "speakers": [
+        "Project Helix",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "recap",
+        "generation",
+        "project",
+        "helix",
+        "podcast"
+      ]
+    },
     {
       "key": "9cbd5ecae008d636a87850fd7285036eca2f9fe3",
       "title": "Xbox Reveals Project Helix: The New Xbox/PC Hybrid Console - (Xbox In Ten: An Xbox Podcast - Ep. 354)",
@@ -8921,6 +8945,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — Xbox's GDC Recap: Building the Next Generation with Project Helix - (Xbox In Ten: An Xbox Podcast - Ep. 355) — speakers: Project Helix, Brandon Rosa
 - 2026-03-09 — Xbox Reveals Project Helix: The New Xbox/PC Hybrid Console - (Xbox In Ten: An Xbox Podcast - Ep. 354) — speakers: Xbox Reveals Project Helix, Hybrid Console, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-03-02 — New Xbox CEO Asha Sharma on the Platform - (Xbox In Ten: An Xbox Podcast - Ep. 353) — speakers: Asha Sharma, Brandon Rosa
 - 2026-02-20 — Phil Spencer Retiring, Sarah Bond Out & Matt Booty Promoted - (Xbox In Ten: An Xbox Podcast - Ep. 352) — speakers: Phil Spencer Retiring, Sarah Bond Out, Matt Booty Promoted, Brandon Rosa

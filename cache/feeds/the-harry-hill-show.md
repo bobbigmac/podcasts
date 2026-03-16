@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-03-13T13:34:03+00:00`
-- checked_at: `2026-03-13T13:34:03+00:00`
-- last_modified: `Fri, 13 Mar 2026 12:37:41 GMT`
+- fetched_at: `2026-03-16T07:48:40+00:00`
+- checked_at: `2026-03-16T07:48:40+00:00`
+- last_modified: `Mon, 16 Mar 2026 06:07:55 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-13T13:34:03+00:00",
+  "fetched_at": "2026-03-16T07:48:40+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -26,6 +26,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d4427df0f0c698f72b33dbda8b4b1a8626364ae1",
+      "title": "John Cooper Clarke: The Thousand Daily Punishments Visited Upon The Analogue Community",
+      "published_at": "2026-03-16T06:00:00+00:00",
+      "link": null,
+      "description": "Harry is joined by legendary poet and fellow doctor, John Cooper Clarke for some more surreal low level disruption. This week, we're learning all about FLIES. \"John Cooper Clarke\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on CMAT. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6c3df974-1c79-11f1-b34f-e3d1e2f292d4/image/2fde88aa79a3cbf1fc599f7fb038fb48.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2157131665.mp3?updated=1773405751",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3325",
+      "speakers": [
+        "John Cooper Clarke",
+        "Harry Hill"
+      ],
+      "topics": [
+        "john",
+        "cooper",
+        "clarke",
+        "thousand",
+        "daily",
+        "punishments",
+        "analogue",
+        "community"
+      ]
+    },
     {
       "key": "49df8f5abc4f6243e4609ebcbec1e42224a853cf",
       "title": "Amanda Lamb: EVERYBODY LOVES AMANDA LAMB",
@@ -1532,6 +1558,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — John Cooper Clarke: The Thousand Daily Punishments Visited Upon The Analogue Community — speakers: John Cooper Clarke, Harry Hill
 - 2026-03-09 — Amanda Lamb: EVERYBODY LOVES AMANDA LAMB — speakers: Amanda Lamb, Harry Hill
 - 2026-03-02 — Phil Wang: I've Got A Phil Wang That Tonight's Gonna Be A Good Night — speakers: Phil Wang, Harry Hill
 - 2026-02-23 — Eddie Kadi: A Bag of Wotsits to Attract the Rhino — speakers: Eddie Kadi, Harry Hill

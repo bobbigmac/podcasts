@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-03-10T07:08:50+00:00`
-- checked_at: `2026-03-10T07:08:50+00:00`
-- etag: `"a352c3366a525895dc2bb5fe540ec203"`
-- last_modified: `Tue, 10 Mar 2026 06:00:17 GMT`
+- fetched_at: `2026-03-16T07:48:40+00:00`
+- checked_at: `2026-03-16T07:48:40+00:00`
+- etag: `"80351b7e0ef7ae2f126463b20b3cf78b"`
+- last_modified: `Mon, 16 Mar 2026 05:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-03-10T07:08:50+00:00",
+  "fetched_at": "2026-03-16T07:48:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "b4299cf2d9f50afdb08ddf3109012bffcd5c6ddb",
+      "title": "Wing It",
+      "published_at": "2026-03-16T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n6jstk",
+      "description": "Cariad Lloyd, Steen Raskopoulos, Luke Manning, and Emily Lloyd-Saini embark on a new series of improv mayhem. Host Alasdair Beckett-King presides over a series of games full of emotional butchers, a three-headed movie director, and the inner monologue of a spider trapped in the bath. \"No Script. No Prep. No Clue.\" To hear more episode from this series, search \"Wing It\" on BBC Sounds. Presented by Alasdair Beckett-King Devised and produced by Sam Holmes Executive Producer: James Robinson Production Co-ordinator: Katie Baum Additional material: Ruth Husko Sound Editor: Chris Maclean A BBC Studios Production for Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n6jsjz.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27104000",
+      "itunes_duration": "1694",
+      "speakers": [
+        "Steen Raskopoulos",
+        "Luke Manning",
+        "Emily Lloyd-Saini"
+      ],
+      "topics": []
+    },
     {
       "key": "1c5da7499c81163505e0f889ded08800edef78dd",
       "title": "Aurie Styla: Tech Talk",
@@ -974,6 +992,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — Wing It — speakers: Steen Raskopoulos, Luke Manning, Emily Lloyd-Saini
 - 2026-03-09 — Aurie Styla: Tech Talk — speakers: Aurie Styla, Tech Talk Comedian Aurie
 - 2026-03-02 — The Making of Colin Hoult — speakers: Colin Hoult
 - 2026-02-23 — Evil Animals - Spiders — speakers: Russell Kane
