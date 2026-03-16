@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-03-15T21:41:55+00:00`
-- checked_at: `2026-03-15T21:41:55+00:00`
-- etag: `"djEuMi4wOjE3NzM2MDk1MjUyNzM="`
+- fetched_at: `2026-03-16T03:33:35+00:00`
+- checked_at: `2026-03-16T03:33:35+00:00`
+- etag: `"djEuMi4wOjE3NzM2MTkzNTkzMTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-03-15T21:41:55+00:00",
+  "fetched_at": "2026-03-16T03:33:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "de907c3c1485b85f6e4a29c1a39cda7a63d741d9",
+      "title": "Ep. 570 - Davina Bentley - One of The Telegraph’s “Five Young Sketch Comedians to Watch.”",
+      "published_at": "2026-03-16T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-570-davina-bentley-one-of-the-telegraphs-five-young-sketc",
+      "description": "Davina Bentley is a comedy writer, performer and former lawyer, named by The Telegraph as one of its “Five Young Sketch Comedians to Watch.” Her sharp, satirical voice, often drawing on her legal background, has built a strong online following, with her parody sketches amassing over 1.6 million likes on TikTok. She has written for BBC Radio 4 shows including The Now Show, The News Quiz and Dead Ringers, and she wrote and performed in the acclaimed Radio 4 series P.O.V. As a stand-up, Davina has reached the finals of numerous competitions, and regularly performs in the top comedy clubs around the country. Davina Bentley is our guest in episode 570 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Listen to BBC Radio4’s POV here - https://www.bbc.co.uk/sounds/brand/m0027967 . Follow Davina Bentley on Instagram : @davinabentleycomedy . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69b72235559de2c634fd9ffc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "177321189",
+      "itunes_duration": "1:13:52",
+      "speakers": [
+        "Davina Bentley"
+      ],
+      "topics": [
+        "davina",
+        "bentley",
+        "telegraph",
+        "young",
+        "sketch",
+        "comedians"
+      ]
+    },
     {
       "key": "92e49ec31336047b36a553a566f90e3ca4c2aad4",
       "title": "Ep. 569 - Special Compilation - featuring Angus Deayton, Joe Pasquale, Tommy Cannon, Jayde Adams, Mark Simmons & Ed Patrick",
@@ -12117,6 +12140,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — Ep. 570 - Davina Bentley - One of The Telegraph’s “Five Young Sketch Comedians to Watch.” — speakers: Davina Bentley
 - 2026-03-13 — Ep. 569 - Special Compilation - featuring Angus Deayton, Joe Pasquale, Tommy Cannon, Jayde Adams, Mark Simmons & Ed Patrick — speakers: Angus Deayton, Joe Pasquale, Tommy Cannon, Jayde Adams, Mark Simmons, Ed Patrick
 - 2026-03-09 — Ep. 568 - Beattie Edmondson - Best known for Josh Widdicombe’s sitcom Josh & Disney feature film Patrick — speakers: Beattie Edmondson, Josh Widdicombe, Patrick Beattie Edmondson
 - 2026-03-06 — Ep. 567 - Jake Bhardwaj - comedy creator, writer, actor, producer and self-appointed professional comedy quizmaster — speakers: Jake Bhardwaj comedy, Jake Bhardwaj

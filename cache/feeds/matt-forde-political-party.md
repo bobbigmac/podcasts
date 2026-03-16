@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-03-12T19:11:39+00:00`
-- checked_at: `2026-03-12T19:11:39+00:00`
-- etag: `"djEuMi4wOjE3NzMzMzUyMjY3NzE="`
+- fetched_at: `2026-03-16T03:33:35+00:00`
+- checked_at: `2026-03-16T03:33:35+00:00`
+- etag: `"djEuMi4wOjE3NzM2MjY1NTkzNTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-03-12T19:11:39+00:00",
+  "fetched_at": "2026-03-16T03:33:35+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "1a2a73d42bf5556cfdd2eaa149008d1b82b17ef3",
+      "title": "Show 394. Karl Turner",
+      "published_at": "2026-03-16T02:02:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-394-karl-turner",
+      "description": "Strap in for an energetic hour of raw analysis from Labour's Karl Turner. He's been going viral lately and you're about to discover why. Karl is forthright but fair in assessing Labour's issues and what the PLP actually want from the leadership. His perspective my surprise you. He's also had his fair share of health issues in the last few years and is open and honest about it all. THE POLITICAL PARTY LIVE 30 March: Lisa Nandy 20 April: Shabana Mahmood https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SIGN UP to Matt's mailing list to get free audience tickets to his Radio 4 series: https://www.mattforde.com/mailing-list SEE Matt's brand new stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/69b2f2ba00294d4abc2111c0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89496880",
+      "itunes_duration": "1:02:08",
+      "speakers": [
+        "Karl Turner",
+        "Matt Forde"
+      ],
+      "topics": [
+        "karl",
+        "turner"
+      ]
+    },
     {
       "key": "58d64825121ef721115ffd3ffaf05da058395a77",
       "title": "Show 393. Zack Polanski - LIVE",
@@ -10166,6 +10186,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — Show 394. Karl Turner — speakers: Karl Turner, Matt Forde
 - 2026-03-11 — Show 393. Zack Polanski - LIVE — speakers: Zack Polanski, Matt Forde
 - 2026-03-02 — Show 392. Christopher Snowdon — speakers: Christopher Snowdon, Matt Forde
 - 2026-02-23 — Show 391. Mick Lynch - REPLAY — speakers: Mick Lynch Replay, Mick Ly, Matt Forde

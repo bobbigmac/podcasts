@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-03-13T13:34:03+00:00`
-- checked_at: `2026-03-13T13:34:03+00:00`
-- etag: `W/"f7f3b9fca3666803bcbd987950ab3334"`
-- last_modified: `Fri, 13 Mar 2026 11:53:33 GMT`
+- fetched_at: `2026-03-16T03:33:35+00:00`
+- checked_at: `2026-03-16T03:33:35+00:00`
+- etag: `W/"dd2c0744a8db40d1dc3c7540fe5cf85a"`
+- last_modified: `Sun, 15 Mar 2026 23:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-03-13T13:34:03+00:00",
+  "fetched_at": "2026-03-16T03:33:35+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "d144eac38ed726de260db51faec44fd07981a130",
+      "title": "Little Fish: Release The Naughty List",
+      "published_at": "2026-03-15T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8873678",
+      "description": "Dan, James and Andy discuss YOUR facts, including the North Pole and the Northern Line. We find out which of our names would be worst on the back of a football jersey. And we name eight more Friend of the Podcast fact custodians. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8873678.mp3?modified=1773416758&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1720",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "naughty",
+        "list"
+      ]
+    },
     {
       "key": "d2dad5a2b207269de0dc8b6c8fad112fc11ae247",
       "title": "No Such Thing As The Official Podcast Of Wyoming",
@@ -15865,6 +15888,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-15 — Little Fish: Release The Naughty List — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-12 — No Such Thing As The Official Podcast Of Wyoming — speakers: Mary Roach, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-08 — Little Fish: I am Dorkus, Queen of the Dorks — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-05 — No Such Thing As Billions Of Checkers Boards — speakers: Daniel Sloss, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

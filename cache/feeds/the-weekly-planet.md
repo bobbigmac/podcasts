@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-03-15T09:49:33+00:00`
-- checked_at: `2026-03-15T09:49:33+00:00`
-- etag: `"djEuMi4wOjE3NzM1Njc4NjgxMTY="`
+- fetched_at: `2026-03-16T03:33:35+00:00`
+- checked_at: `2026-03-16T03:33:35+00:00`
+- etag: `"djEuMi4wOjE3NzM2MzE4Mzk0MjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-03-15T09:49:33+00:00",
+  "fetched_at": "2026-03-16T03:33:35+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "66189c9027899cfc1429b0562ee028a1f4b0cb0b",
+      "title": "614 How to Make a Killing & Supergirl First Reactions",
+      "published_at": "2026-03-16T03:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/614-how-to-make-a-killing-with-murder",
+      "description": "Early podcast and big(?) movie! James and Maso review Glen Powell's new film How to Make a Killing (with Murder) plus some DCU casting news, the first reactions to Supergirl, some controversial cancelletions, a trailer for Disclosure Day, an Alien Romulus sequel update and more! Thanks for the support and also for listening James & Maso on The Most Upsetting Guessing Game OUT NOW: https://www.youtube.com/watch?v=qjYGxq3CJuo&t New episode of our bonus podcast We Got 'We Got This Covered' Covered also out now on bigsandwich.co PLEASE be aware timecodes may shift up to a few minutes due to inserted ads. 00:00 The Start 06:30 Green Lanterns in Superman Sequel 09:22 Supergirl Screening Reactions 13:00 Oceans 11 Prequel News 17:14 Conan the Barbarian Returns 22:35 Disclosure Day New Trailer 25:46 Malcolm in the Middle: Life's Still Unfair Trailer 27:50 Buffy Reboot Cancelled at Hulu 29:26 Max Landis G.I. Joe Movie Scrapped 30:15 Alien: Romulus Sequel Rumours 32:07 How to Make a Killing Movie Review 44:24 How to make a Killing Spoiler Segment 57:52 What We Reading, What We Gonna Read 01:06:56 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69b67f7c4266c9b1c715bdad/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127175815",
+      "itunes_duration": "1:28:18",
+      "speakers": [
+        "Maso review",
+        "Glen Powell",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "killing",
+        "supergirl",
+        "reactions"
+      ]
+    },
     {
       "key": "aaac9eab1374316ea72652cdd182193bed826007",
       "title": "The Last Starfighter - Caravan Of Garbage",
@@ -21881,6 +21904,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — 614 How to Make a Killing & Supergirl First Reactions — speakers: Maso review, Glen Powell, James Clement, Nick Mason
 - 2026-03-12 — The Last Starfighter - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-03-09 — 613 The Bride! & Lanterns Trailer — speakers: James Clement, Nick Mason
 - 2026-03-05 — Sherlock Holmes: A Game of Shadows - Caravan Of Garbage — speakers: James Clement, Nick Mason
