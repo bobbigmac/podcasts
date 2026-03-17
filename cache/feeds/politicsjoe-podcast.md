@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-16T19:20:25+00:00`
-- checked_at: `2026-03-16T19:20:25+00:00`
-- etag: `"djEuMi4wOjE3NzM2ODE5MzkzNDY="`
+- fetched_at: `2026-03-17T13:51:49+00:00`
+- checked_at: `2026-03-17T13:51:49+00:00`
+- etag: `"djEuMi4wOjE3NzM3NTI0Mzk1MjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-16T19:20:25+00:00",
+  "fetched_at": "2026-03-17T13:51:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "2e7f30248c382eecddf9a9a1ce0b200505674e62",
+      "title": "Everything Louis Theroux got wrong about the manosphere | James Bloodworth interview",
+      "published_at": "2026-03-17T13:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69b92b793307ae8eb137d00c",
+      "description": "Last week, Netflix dropped Louis Theroux's exploration of the manosphere. But, some watchers of the patriarchal online world were left unimpressed. James Bloodworth, who embedded himself in the manosphere for his book Lost Boys, was \"underwhelmed\". He tells PoliticsJOE why. In his documentary, Theroux meets several prominent manosphere figures, including HSTikkyTokky and Jay Waller, who argue that modern society disadvantages men and that women hold too much power in relationships. Mixing self-help advice, fitness and financial motivation with messages that critics say are misogynistic or manipulative, Theroux questions their beliefs, challenges their claims about masculinity and dating, and explores how their upbringings may have led them to their views on gender. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69b92b793307ae8eb137d00c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35555664",
+      "itunes_duration": "24:40",
+      "speakers": [
+        "Louis Theroux",
+        "James Bloodworth"
+      ],
+      "topics": [
+        "louis",
+        "theroux",
+        "manosphere",
+        "james",
+        "bloodworth"
+      ]
+    },
     {
       "key": "b64e6e2fd06668f4062b979c1dfda1e9e33a05d2",
       "title": "Should Keir Starmer resign?",
@@ -12040,6 +12063,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-17 — Everything Louis Theroux got wrong about the manosphere | James Bloodworth interview — speakers: Louis Theroux, James Bloodworth
 - 2026-03-16 — Should Keir Starmer resign?
 - 2026-03-13 — I lost my job after confronting Matt Lucas on Palestine | Cancelled — speakers: Matt Lucas, Thomas Bourne
 - 2026-03-12 — Going deep on the Mandelson files

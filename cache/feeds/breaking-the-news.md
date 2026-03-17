@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-03-13T15:57:49+00:00`
-- checked_at: `2026-03-13T15:57:49+00:00`
-- etag: `"04dde530c33d3464db261550273e7417"`
-- last_modified: `Fri, 13 Mar 2026 14:25:53 GMT`
+- fetched_at: `2026-03-17T13:51:49+00:00`
+- checked_at: `2026-03-17T13:51:49+00:00`
+- etag: `"324e0417381b6a7239a0e398b9f11d46"`
+- last_modified: `Tue, 17 Mar 2026 13:20:52 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-03-13T15:57:49+00:00",
+  "fetched_at": "2026-03-17T13:51:49+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -35,7 +35,7 @@
       "title": "Glasgow International Comedy Festival Special: Ashley Storrie, Jim Smith, Elaine Malcolmson and Chris Thorburn",
       "published_at": "2026-03-13T14:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m002sd05",
-      "description": "Des and the teams are at the Glasgow International Comedy Festival to break up the week's big news, including: The rise in the price of oil, Scotland’s hopes in the Six Nations Rugby, a pill that could help you slow down ageing, a coffee shop where people rave, controversial comments from Timothée Chalamet and more. Lead Writer: Alice Gregg Additional material: Claire Cox, Chris Stanners, Jennifer Walker, Nathan Cowley, Rachel Powell, Alan Hazlie, Cooper Mawhinney Sweryt, Chrissie Homer-Greenslade, Gregor Paton, Fearghas Kelly, Paul Brown Producer: Lauren Mackay Senior Producer: David Flynn Researcher: Chris Quilietti Script Editor: Keiron Nicholson An Eco-Audio certified Production",
+      "description": "Des and the teams are at the Glasgow International Comedy Festival to break up the week's big news, including: The rise in the price of oil, Scotland’s hopes in the Six Nations Rugby, a pill that could help you slow down ageing, a coffee shop where people rave, controversial comments from Timothée Chalamet, and more. Lead Writer: Alice Gregg Additional material: Claire Cox, Chris Stanners, Jennifer Walker, Nathan Cowley, Rachel Powell, Alan Hazlie, Cooper Mawhinney Sweryt, Chrissie Homer-Greenslade, Gregor Paton, Fearghas Kelly, Jon Paisley and Paul Brown Producer: Lauren Mackay Senior Producer: David Flynn Researcher: Chris Quilietti Script Editor: Keiron Nicholson An Eco-Audio certified Production",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n6gpyl.mp3",
       "enclosure_type": "audio/mpeg",
