@@ -7422,6 +7422,29 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:74fa0980a57e",
+        "feed_title": "Where There's A Will, There's A Wake",
+        "source_rss_url": "https://rss.pdrl.fm/4bb7b6/feeds.megaphone.fm/wtawtaw",
+        "dedupe_key": "d42d9aaeb6bd9b7f04e383e05e7b46643450217f",
+        "episode_key": "d42d9aaeb6bd9b7f04e383e05e7b46643450217f",
+        "title": "Here Lies Harriet Kemsley",
+        "published_at": "2026-03-17T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Happy cows, A lemon-y Lou Sanders & Moscow Mules.\n\n\n\nHELP!!!!! Last One Laughing's Harriet Kemsley confronts her fears of the great beyond.\n\n\n\nWant the episodes ad free AND extra content from Mel and the guests, PLUS everything from the Kathy Burke archive? 6 Feet Under gets knee deep in all your cracking correspondenc",
+        "audio_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY4472123676.mp3?updated=1773675658",
+        "link_url": "https://podcasts.apple.com/gb/podcast/here-lies-harriet-kemsley/id1654059310?i=1000755568287&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley",
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:8e22327570e3",
         "feed_title": "Sunday Brunch Picky Bits",
         "source_rss_url": "https://feeds.acast.com/public/shows/68d10529146cfd1a65544aed",
@@ -15009,6 +15032,29 @@
       }
     ],
     "lou-sanders": [
+      {
+        "feed_slug": "external:apple:74fa0980a57e",
+        "feed_title": "Where There's A Will, There's A Wake",
+        "source_rss_url": "https://rss.pdrl.fm/4bb7b6/feeds.megaphone.fm/wtawtaw",
+        "dedupe_key": "d42d9aaeb6bd9b7f04e383e05e7b46643450217f",
+        "episode_key": "d42d9aaeb6bd9b7f04e383e05e7b46643450217f",
+        "title": "Here Lies Harriet Kemsley",
+        "published_at": "2026-03-17T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Happy cows, A lemon-y Lou Sanders & Moscow Mules.\n\n\n\nHELP!!!!! Last One Laughing's Harriet Kemsley confronts her fears of the great beyond.\n\n\n\nWant the episodes ad free AND extra content from Mel and the guests, PLUS everything from the Kathy Burke archive? 6 Feet Under gets knee deep in all your cracking correspondenc",
+        "audio_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY4472123676.mp3?updated=1773675658",
+        "link_url": "https://podcasts.apple.com/gb/podcast/here-lies-harriet-kemsley/id1654059310?i=1000755568287&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley",
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
