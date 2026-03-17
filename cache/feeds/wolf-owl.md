@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-03-16T21:54:35+00:00`
-- checked_at: `2026-03-16T21:54:35+00:00`
-- last_modified: `Mon, 16 Mar 2026 21:05:29 GMT`
+- fetched_at: `2026-03-17T03:12:32+00:00`
+- checked_at: `2026-03-17T03:12:32+00:00`
+- last_modified: `Tue, 17 Mar 2026 00:15:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-16T21:54:35+00:00",
+  "fetched_at": "2026-03-17T03:12:32+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "49b02d6763e6a2bf90554405edab3057b5a7dc23",
+      "title": "The Banter Cannon, the Guff Lounge and the Mullet",
+      "published_at": "2026-03-17T00:01:00+00:00",
+      "link": null,
+      "description": "Too old for a mullet? Do you hold your farts in? How many clothes is too many? We answer all these important questions, in this episode of Wolf & Owl, plus discover Tom’s farting pub plan - the guff lounge, what to do when you’re home alone (and how often you should do it) and why you shouldn’t sit by Tom on the train. This week we’re also all about spreading love, joy and some positivity! Send in your questions to wolfowlpod@gmail.com for the chance to have them answered in an upcoming episode. A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 01:30 Rom’s hair 04:17 Lincoln 06:25 Back touching 08:02 Clothes 09:25 Chairs and farts 18:43 One in one out method 23:20 Supportive Tom 24:57 Family drama 26:14 Home alone 29:24 Tom’s predicament 39:55 Sweet Jon 40:55 What is praise? Subscribe for new episodes! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fc964be8-214c-11f1-a858-2bed13cee8a5/image/c6074a9cee51fe82e882525459708779.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1728439431.mp3?updated=1773695419",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2748",
+      "speakers": [
+        "Guff Lounge",
+        "Mullet Too",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "banter",
+        "cannon",
+        "guff",
+        "lounge",
+        "mullet"
+      ]
+    },
     {
       "key": "8beb1d78e8bf2d8ccbc987d6289fc82d7549b92e",
       "title": "Viagra, Phone Voices, Farting Furniture - and other listener dilemmas",
@@ -6310,6 +6335,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-17 — The Banter Cannon, the Guff Lounge and the Mullet — speakers: Guff Lounge, Mullet Too, Romesh Ranganathan, Tom Davis
 - 2026-03-13 — Viagra, Phone Voices, Farting Furniture - and other listener dilemmas — speakers: Phone Voices, Farting Furniture, Romesh Ranganathan, Tom Davis
 - 2026-03-10 — Eyebrow accidents, a lack of aura and Dungeons & Dragons — speakers: Romesh Ranganathan, Tom Davis
 - 2026-03-06 — Introducing the listener Q&A episodes! — speakers: Romesh Ranganathan, Tom Davis

@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-03-13T07:12:39+00:00`
-- checked_at: `2026-03-13T07:12:39+00:00`
-- last_modified: `Fri, 13 Mar 2026 07:04:55 GMT`
+- fetched_at: `2026-03-17T03:12:32+00:00`
+- checked_at: `2026-03-17T03:12:32+00:00`
+- last_modified: `Tue, 17 Mar 2026 02:22:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ee65a822a2cfcdbd2a17ff6865516c56.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-13T07:12:39+00:00",
+  "fetched_at": "2026-03-17T03:12:32+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d89f783188c139e0f4d2dabce4572c97fa4bb7de",
+      "title": "S12 EP21: What is this life?",
+      "published_at": "2026-03-17T02:00:00+00:00",
+      "link": null,
+      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... Parenting Hell is a Spotify Podcast, available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5260544163.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3384",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "life"
+      ]
+    },
     {
       "key": "f51ec70b860365944c97f610aca9575ae8430804",
       "title": "S12 EP20: Charlie Baker (The Return)",
@@ -12026,6 +12045,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-17 — S12 EP21: What is this life? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-03-13 — S12 EP20: Charlie Baker (The Return) — speakers: Charlie Baker, Rob Beckett, Josh Widdicombe
 - 2026-03-10 — S12 EP19: Tom Rosenthal — speakers: Tom Rosenthal, Rob Beckett, Josh Widdicombe
 - 2026-03-06 — S12 EP18: Kamille — speakers: Kamille Joining, Rob Beckett, Josh Widdicombe

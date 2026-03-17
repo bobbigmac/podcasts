@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-03-16T03:33:35+00:00`
-- checked_at: `2026-03-16T03:33:35+00:00`
-- last_modified: `Mon, 16 Mar 2026 03:00:00 GMT`
+- fetched_at: `2026-03-17T03:12:32+00:00`
+- checked_at: `2026-03-17T03:12:32+00:00`
+- last_modified: `Tue, 17 Mar 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-16T03:33:35+00:00",
+  "fetched_at": "2026-03-17T03:12:32+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "5ccf62180b51423641769537aa0a372b9a880537",
+      "title": "S15 Ep 797: David’s Handsome Man and Joe’s Military Camper Van",
+      "published_at": "2026-03-17T03:00:00+00:00",
+      "link": null,
+      "description": "Well listeners, today’s show is bit of a head-scratcher to explain. Suffice to say, David tells Joe about a handsome and very self-assured man that he recently saw at his local farm shop, which somehow leads to Joe telling David about his neighbour’s military-style camper van. Plus, they both analyse why Joe is so bad at being tidy and David convinces him to clean up his office. So, pretty much Chatabix business as usual really. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠YouTube⁠ ⁠Instagram⁠ ⁠TikTok⁠ ⁠Patreon⁠ ⁠Merch⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7044353247.mp3?updated=1773412193",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3348",
+      "speakers": [
+        "David’s Handsome Man",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "handsome",
+        "military",
+        "camper"
+      ]
+    },
     {
       "key": "50c3e7284ca2a10f1a9ab162f8ab4c98197566e9",
       "title": "S15 Ep 796 Vault Mondays: Impressions Competition and A Surprise Guest",
@@ -13949,6 +13972,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-17 — S15 Ep 797: David’s Handsome Man and Joe’s Military Camper Van — speakers: David’s Handsome Man, Joe Wilkinson, David Earl
 - 2026-03-16 — S15 Ep 796 Vault Mondays: Impressions Competition and A Surprise Guest — speakers: Joe Wilkinson, David Earl
 - 2026-03-13 — S15 Ep 795 Listeners Mailbag: The Isle of Wight and Some Artic Monkeys — speakers: Listeners Mailbag, Joe Wilkinson, David Earl
 - 2026-03-12 — S15 Ep 794: The Return of David’s Pinboard Game - Part 2 — speakers: Joe Wilkinson, David Earl

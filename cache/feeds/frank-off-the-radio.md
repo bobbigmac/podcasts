@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-03-16T03:33:35+00:00`
-- checked_at: `2026-03-16T03:33:35+00:00`
-- last_modified: `Mon, 16 Mar 2026 01:06:33 GMT`
+- fetched_at: `2026-03-17T03:12:32+00:00`
+- checked_at: `2026-03-17T03:12:32+00:00`
+- last_modified: `Tue, 17 Mar 2026 00:46:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-16T03:33:35+00:00",
+  "fetched_at": "2026-03-17T03:12:32+00:00",
   "owners": [
     "Frank Skinner"
   ],
