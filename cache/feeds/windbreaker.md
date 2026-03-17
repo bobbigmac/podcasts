@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-03-17T07:19:08+00:00`
-- checked_at: `2026-03-17T07:19:08+00:00`
-- etag: `W/"38c34-VzlvYncSqTxJo4n9Fxj3OpkM9SU"`
+- fetched_at: `2026-03-17T10:09:09+00:00`
+- checked_at: `2026-03-17T10:09:09+00:00`
+- etag: `W/"38456-jq7nt5klrPKeiBRXZEQkx2NYpMw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-03-17T07:19:08+00:00",
+  "fetched_at": "2026-03-17T10:09:09+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,30 +27,6 @@
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "ad7ceeeddf7ae7daa45b279b1ae01a0dc1ebf76d",
-      "title": "Resident Evil Requiem Spoilercast | Windbreaker Podcast",
-      "published_at": "2026-03-17T00:00:01+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Resident-Evil-Requiem-Spoilercast--Windbreaker-Podcast-e3ghr52",
-      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty are going full spoilers on their Resident Evil Requiem thoughts. The good, the bad, the lickers, and everything in-between. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-      "enclosure_url": "https://traffic.megaphone.fm/APO4273493697.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "84403095",
-      "itunes_duration": "01:27:55",
-      "speakers": [
-        "Yahtzee Croshaw",
-        "Marty Sliva"
-      ],
-      "topics": [
-        "resident",
-        "evil",
-        "requiem",
-        "spoilercast",
-        "windbreaker",
-        "podcast"
-      ]
-    },
     {
       "key": "fb2b1a7aaac5fae247b54b7a634933da375ea98c",
       "title": "What Makes the Perfect Zone Out Game? | Windbreaker Podcast",
@@ -2669,7 +2645,6 @@
 
 ## Episodes (newest first)
 
-- 2026-03-17 — Resident Evil Requiem Spoilercast | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-03-10 — What Makes the Perfect Zone Out Game? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-03-03 — We Forced Yahtzee to Watch the New Silent Hill 2 Movie | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-02-24 — How Will Xbox Be Remembered? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

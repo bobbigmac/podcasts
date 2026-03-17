@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-03-09T19:10:05+00:00`
-- checked_at: `2026-03-09T19:10:05+00:00`
-- etag: `"107f49-64c9b02179e35"`
-- last_modified: `Mon, 09 Mar 2026 17:48:19 GMT`
+- fetched_at: `2026-03-17T10:09:09+00:00`
+- checked_at: `2026-03-17T10:09:09+00:00`
+- etag: `"108689-64d341e19fdae"`
+- last_modified: `Tue, 17 Mar 2026 08:28:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-03-09T19:10:05+00:00",
+  "fetched_at": "2026-03-17T10:09:09+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c70e8d72b4bfd865f37d98b3c6dc242671cc5636",
+      "title": "Fi Fi Fo Phil - S7, Ep. 5",
+      "published_at": "2026-03-16T05:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "This week Jenny and Jack tuck into Lotta Soup, and all the spear throwing, Mayo chucking, spectacular task-delivering, grumpy-traffic-warden-on-holiday fun that comes with it. Plus we hear from The Andy’s about Bob’s car, and one listener pitches a Taskmaster Cultural Exchange program. Next week we’ll be discussing Series 10, Episode 1. Send us your Taskmaster thoughts: fans@taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/651c3b45-ac3c-47a8-a6cd-445dd5f03b6b.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=651c3b45-ac3c-47a8-a6cd-445dd5f03b6b",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63688023",
+      "itunes_duration": "01:03:03",
+      "speakers": [
+        "Lotta Soup",
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "phil"
+      ]
+    },
     {
       "key": "3b0975ddf353e5287f451d842961359673d2f4fd",
       "title": "We Don’t Swear at Bubbles - S5, Ep. 6",
@@ -4327,6 +4347,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-16 — Fi Fi Fo Phil - S7, Ep. 5 — speakers: Lotta Soup, Jenny Eclair, Jack Bernhardt
 - 2026-03-09 — We Don’t Swear at Bubbles - S5, Ep. 6 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-03-02 — Cake Rat - S5, Ep.1 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-02-23 — Chuck a Duck - S13, Ep. 10 — speakers: Jenny Eclair, Jack Bernhardt
