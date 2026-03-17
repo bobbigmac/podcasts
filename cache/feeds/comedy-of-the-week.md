@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-03-16T07:48:40+00:00`
-- checked_at: `2026-03-16T07:48:40+00:00`
-- etag: `"80351b7e0ef7ae2f126463b20b3cf78b"`
-- last_modified: `Mon, 16 Mar 2026 05:00:04 GMT`
+- fetched_at: `2026-03-17T07:19:08+00:00`
+- checked_at: `2026-03-17T07:19:08+00:00`
+- etag: `"fe3e37cc930044db1bc6628574aa828f"`
+- last_modified: `Tue, 17 Mar 2026 05:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-03-16T07:48:40+00:00",
+  "fetched_at": "2026-03-17T07:19:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -965,25 +965,6 @@
       "itunes_duration": "880",
       "speakers": [],
       "topics": []
-    },
-    {
-      "key": "aa6e81f37e3cafcca9e06ec48b086bf5373f927c",
-      "title": "The 13 Million Club",
-      "published_at": "2025-03-17T05:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0kykck3",
-      "description": "More than 13 million people in this country can be classed as disabled, often in ways we don’t think or talk about – sometimes in ways which even they are not fully conscious of. The spectrum of mental and physical disability is far wider than most of us have ever thought about. It’s an elephant in the room - we can all see it (unless we’re visually impaired) but none of us talk about it (unless we have Tourette Syndrome). If you’re uncomfortable with these jokes, don’t worry, this show isn’t always going to be comfortable. But it will be subversive, celebratory, and absolutely unlike anything else you’ve ever heard on the radio – or, very likely, anywhere else. Under the stewardship of sassy American import, Spring Day, The 13 Million Club brings together a remarkable range of talents and a collection of fresh perspectives in a smorgasbord of stand-up and spiky consumer pieces. From dwarfism to Parkinson’s, via cystic fibrosis, hearing loss, Tourette’s, life in a wheelchair and more besides, we laugh at and with our spectacular cast, which includes Paul Sinha, Will Robbins, Esther Manito and Jess Thom. While they laugh at the attitudes of others, and the madness of a world which is struggling to catch up with - let alone accommodate - them. Produced by Lianne Coop and Mark Watson. An Impatient production for BBC Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kykc3w.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27328000",
-      "itunes_duration": "1708",
-      "speakers": [
-        "Million Club More"
-      ],
-      "topics": [
-        "million",
-        "club"
-      ]
     }
   ]
 }
@@ -1041,4 +1022,3 @@
 - 2025-04-07 — Call Jonathan Pie — speakers: Jonathan Pie
 - 2025-03-31 — Dan Tiernan: Going Under — speakers: Dan Tiernan
 - 2025-03-24 — DMs Are Open
-- 2025-03-17 — The 13 Million Club — speakers: Million Club More

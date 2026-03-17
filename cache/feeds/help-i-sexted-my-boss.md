@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-03-16T16:17:13+00:00`
-- checked_at: `2026-03-16T16:17:13+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpNMk56WXdOakk1T1RZPTo6c2F4ZXNz"`
+- fetched_at: `2026-03-17T07:19:08+00:00`
+- checked_at: `2026-03-17T07:19:08+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpNM01qY3hPREF3T0RjPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-03-16T16:17:13+00:00",
+  "fetched_at": "2026-03-17T07:19:08+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,12 +30,12 @@
     {
       "key": "9f0785d59a2006e95222c73c6eccbd36c089f11a",
       "title": "Help He Slaps His Mum’s Bum | And Jordan’s The Star ⭐️",
-      "published_at": "2026-03-16T06:00:00+00:00",
+      "published_at": "2026-03-17T05:59:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-he-slaps-his-mums-bum-and-jordans-the-star",
-      "description": "As soon as the boys entered the studio, an argument erupted after Jordan found out William and Producer Ben had been invading his happy place (the gym). There’s also a selection of dilemmas that will be sure to go down in Sexted folklore regarding jam jars, slapping bums, and farts. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
+      "description": "As soon as the boys entered the studio, an argument erupted after Jordan found out William and Producer Ben had been invading his happy place (the gym). There’s also a selection of dilemmas that will be sure to go down in Sexted folklore regarding jam jars, slapping bums, and farts. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1773649245527-e88dba47-4dff-40dc-b47d-411cbec647ad.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69b44803df66983be2b8b889/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=goKlvfpOOnTgYxiqbM75sJzBTeVl3CqftC5jicOc5lY",
+      "enclosure_type": "audio/mpeg",
       "enclosure_length": null,
       "itunes_duration": "0",
       "speakers": [
@@ -13923,7 +13923,7 @@
 
 ## Episodes (newest first)
 
-- 2026-03-16 — Help He Slaps His Mum’s Bum | And Jordan’s The Star ⭐️ — speakers: Mum’s Bum, William Hanson, Jordan North
+- 2026-03-17 — Help He Slaps His Mum’s Bum | And Jordan’s The Star ⭐️ — speakers: Mum’s Bum, William Hanson, Jordan North
 - 2026-03-13 — William's Masc?! | And Jolly Joke Surprise — speakers: William Hanson, Jordan North
 - 2026-03-10 — Help His Allergy Gives Me The Ick | And William Needs To Grow Up — speakers: William Needs, Soccer Aid, William Hanson, Jordan North
 - 2026-03-06 — William Ruined Jordan’s Birthday | And High-Maintenance Boys — speakers: William Ruined Jordan, William Hanson, Jordan North

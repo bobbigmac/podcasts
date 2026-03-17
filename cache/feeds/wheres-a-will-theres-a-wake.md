@@ -2,9 +2,9 @@
 
 - slug: `wheres-a-will-theres-a-wake`
 - source: `https://feeds.megaphone.fm/wtawtaw`
-- fetched_at: `2026-03-16T16:17:13+00:00`
-- checked_at: `2026-03-16T16:17:13+00:00`
-- last_modified: `Mon, 16 Mar 2026 16:11:46 GMT`
+- fetched_at: `2026-03-17T07:19:08+00:00`
+- checked_at: `2026-03-17T07:19:08+00:00`
+- last_modified: `Tue, 17 Mar 2026 05:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/wtawtaw",
   "description": "Join Mel Giedroyc every week as she laughs in the face of death with all your favourite funny celebrities. Working on the assumption they’ve popped their clogs, they’ll be telling Mel all about how they’ve died, what they want for their funerals and why she should be unlocking the pearly gates for them. Want the episodes ad free AND extra content from Mel and her guest? 6 Feet Under steps away from fantasy and rifles through all your dead good emails. Head to wheretheresawilltheresawake.com to subscribe. AND If you've got a story for us, send it over to mel@deathpodcast.co.uk. A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast Learn more about your ad choices. Visit podcastchoices.com/adchoices Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast To bring your brand to life in this podcast, email podcastadsales@sonymusic.com",
   "image_url": "https://megaphone.imgix.net/podcasts/2b690814-56d7-11ed-8ab5-83c1414d4a97/image/c6f317fd3e7d35323d3d1f610fd8466f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-16T16:17:13+00:00",
+  "fetched_at": "2026-03-17T07:19:08+00:00",
   "owners": [
     "Mel Giedroyc"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0e96b8ae4186d1f1a90907c7d7efcb8cb8304202",
+      "title": "Here Lies Harriet Kemsley",
+      "published_at": "2026-03-17T05:00:00+00:00",
+      "link": null,
+      "description": "Happy cows, A lemon-y Lou Sanders & Moscow Mules. HELP!!!!! Last One Laughing's Harriet Kemsley confronts her fears of the great beyond. Want the episodes ad free AND extra content from Mel and the guests, PLUS everything from the Kathy Burke archive? 6 Feet Under gets knee deep in all your cracking correspondence. Head to wheretheresawilltheresawake.com to subscribe. AND If you've got a story for us, send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/da4f5528-7c67-11f0-bc82-e3db27571017/image/ca9dae486061aba5c48063464a450345.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY4472123676.mp3?updated=1773675658",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1977",
+      "speakers": [
+        "Harriet Kemsley",
+        "Mel Giedroyc"
+      ],
+      "topics": [
+        "harriet",
+        "kemsley"
+      ]
+    },
     {
       "key": "9855105ae966bd0a95f49442517cf49c5a702c56",
       "title": "Help I Sexted My Boss boys's Jordan North and William Hanson play Death Dates",
@@ -2941,26 +2961,6 @@
       ]
     },
     {
-      "key": "35d6fc9167dae7ef7c4f3b2a476c52ba8c2764f2",
-      "title": "Here Lies Katherine Ryan",
-      "published_at": "2023-09-12T04:00:00+00:00",
-      "link": null,
-      "description": "A dignified black out, an urban legend and some male objectifying hip hop. Careful, don't kill her. It's Katherine Ryan. Want the episodes ad free AND extra content from Kathy? 6 Feet Under steps away from fantasy and rifles through your real funeral tales. Head to wheretheresawilltheresawake.com to subscribe. A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts and follow us at @sonypodcasts. To bring your brand to life in this podcast, email podcastadsales@sonymusic.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY5580856445.mp3?updated=1700567061",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3132",
-      "speakers": [
-        "Katherine Ryan",
-        "Mel Giedroyc"
-      ],
-      "topics": [
-        "katherine",
-        "ryan"
-      ]
-    },
-    {
       "key": "06996e161ff7369cbd310ee552d1e67336b56c39",
       "title": "Here Lies James Acaster",
       "published_at": "2023-09-12T04:00:00+00:00",
@@ -2978,6 +2978,26 @@
       "topics": [
         "james",
         "acaster"
+      ]
+    },
+    {
+      "key": "35d6fc9167dae7ef7c4f3b2a476c52ba8c2764f2",
+      "title": "Here Lies Katherine Ryan",
+      "published_at": "2023-09-12T04:00:00+00:00",
+      "link": null,
+      "description": "A dignified black out, an urban legend and some male objectifying hip hop. Careful, don't kill her. It's Katherine Ryan. Want the episodes ad free AND extra content from Kathy? 6 Feet Under steps away from fantasy and rifles through your real funeral tales. Head to wheretheresawilltheresawake.com to subscribe. A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts and follow us at @sonypodcasts. To bring your brand to life in this podcast, email podcastadsales@sonymusic.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY5580856445.mp3?updated=1700567061",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3132",
+      "speakers": [
+        "Katherine Ryan",
+        "Mel Giedroyc"
+      ],
+      "topics": [
+        "katherine",
+        "ryan"
       ]
     },
     {
@@ -3814,6 +3834,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-17 — Here Lies Harriet Kemsley — speakers: Harriet Kemsley, Mel Giedroyc
 - 2026-03-13 — Help I Sexted My Boss boys's Jordan North and William Hanson play Death Dates — speakers: Jordan North, William Hanson, Death Dates, Mel Giedroyc
 - 2026-03-10 — Here Lies Help I Sexted My Boss's Jordan North and William Hanson — speakers: Jordan North, William Hanson Eating, Mel Giedroyc
 - 2026-03-06 — FREE BONUS EPISODE - Team Jacob or Team Edward? With Mark Kermode — speakers: Team Edward, Mark Kermode, Mel Giedroyc
@@ -3956,8 +3977,8 @@
 - 2023-10-03 — Here Lies Dawn French — speakers: Mel Giedroyc
 - 2023-09-26 — Here Lies Bob Mortimer — speakers: Bob Mortimer, Chris Tarrant, Bob Mort, Mel Giedroyc
 - 2023-09-19 — Here Lies Joe Lycett — speakers: Joe Lycett, Mel Giedroyc
-- 2023-09-12 — Here Lies Katherine Ryan — speakers: Katherine Ryan, Mel Giedroyc
 - 2023-09-12 — Here Lies James Acaster — speakers: James Acaster, Mel Giedroyc
+- 2023-09-12 — Here Lies Katherine Ryan — speakers: Katherine Ryan, Mel Giedroyc
 - 2023-09-05 — Here Lies Nick Frost — speakers: Nick Frost, Nick Frost Want, Mel Giedroyc
 - 2023-08-29 — Here Lies Lou Sanders — speakers: Lou Sanders, Mel Giedroyc
 - 2023-08-22 — Here Lies Jim Moir aka Vic Reeves — speakers: Jim Moir, Vic Reeves, Mel Giedroyc
