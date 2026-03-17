@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-03-13T19:01:12+00:00`
-- checked_at: `2026-03-13T19:01:12+00:00`
-- etag: `"56d8870172bbdb5947a93ea442732c67"`
-- last_modified: `Fri, 13 Mar 2026 18:15:03 GMT`
+- fetched_at: `2026-03-17T16:18:45+00:00`
+- checked_at: `2026-03-17T16:18:45+00:00`
+- etag: `"a81f7c5382fa788c356d3620e9ec57a3"`
+- last_modified: `Tue, 17 Mar 2026 16:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-03-13T19:01:12+00:00",
+  "fetched_at": "2026-03-17T16:18:45+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -29,6 +29,31 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "73802e545d0c76b7a5b77d6c8c3d99347622e28b",
+      "title": "#523 - Tender Thomas, A Good Beast and Checkout Confidential",
+      "published_at": "2026-03-17T16:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002sqz2",
+      "description": "The confidence of one of the great confidence players takes a battering this week. What starts off as some light-hearted fun around the London Marathon (after Johnny JR reveals some exciting news), turns into a head-in-hands moment that curses Elis for the entirety of today’s show. How does his misstep affect his Cymru Connecting performance? Will the unassailable points gap in Made Up Games get even more unassailable? It’s all to play for. Elsewhere, John’s imagined a world that almost leaves him in tears, and there’s a TV-worthy MUG that’s more tense than this show’s compliance meeting with BBC bosses after hearing John’s supermarket docu-drama last week… You can contribute to the Elis and John canon by emailing elisandjohn@bbc.co.uk.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n73t1z.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68960000",
+      "itunes_duration": "4310",
+      "speakers": [
+        "Checkout Confidential",
+        "Elis James",
+        "John Robins"
+      ],
+      "topics": [
+        "tender",
+        "thomas",
+        "good",
+        "beast",
+        "checkout",
+        "confidential"
+      ]
+    },
     {
       "key": "76f2126edcc7aff5f86735bbd46c58d17f0dbd87",
       "title": "#522 - Fast Twitch Diplomacy, Jeez & Onion and To Do With The Weavers",
@@ -12633,6 +12658,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-17 — #523 - Tender Thomas, A Good Beast and Checkout Confidential — speakers: Checkout Confidential, Elis James, John Robins
 - 2026-03-13 — #522 - Fast Twitch Diplomacy, Jeez & Onion and To Do With The Weavers — speakers: Elis James, John Robins
 - 2026-03-10 — #521 - Subversive Regional, Call Roger Bannister and All At Sea in a Brandscape — speakers: Roger Bannister, John Robins, Elis James
 - 2026-03-06 — #520 - Moheathcliffe, #FindTheFlax and Che Guevara On QI — speakers: Che Guevara, Steve Redgrave, Neil Armstrong, Buzz Aldrin, Nelson Mandela, David Beckham, Elis James, John Robins

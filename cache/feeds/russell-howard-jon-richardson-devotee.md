@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-17T07:19:08+00:00`
-- checked_at: `2026-03-17T07:19:08+00:00`
-- etag: `W/"22b31-42B7F8mzDXiCTew/rHPaheZLcG4"`
+- fetched_at: `2026-03-17T16:18:45+00:00`
+- checked_at: `2026-03-17T16:18:45+00:00`
+- etag: `W/"226c0-/kH43qJ5B8l8ZmOKsw2gliYarOw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,31 +17,13 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-17T07:19:08+00:00",
+  "fetched_at": "2026-03-17T16:18:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "4e37c0831234729b9b44ead516150274bc4a2c35",
-      "title": "#33 Jon Richardson Podcast with Zoe Lyons",
-      "published_at": "2026-03-16T21:00:31+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/33-Jon-Richardson-Podcast-with-Zoe-Lyons-e3ghsej",
-      "description": "#33 Jon Richardson Podcast with Zoe Lyons",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773694790935-b19d8adfbbdf8.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117026707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-16%2F7ec73930-5833-2f8f-26d3-85b27e69fe1f.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "58890560",
-      "itunes_duration": "01:21:45",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast",
-        "lyons"
-      ]
-    },
     {
       "key": "18ee9defe83b022ac26dd7d6e9baee7d69582296",
       "title": "#32 Jon Richardson Podcast with Dan Atkinson",
@@ -2460,7 +2442,6 @@
 
 ## Episodes (newest first)
 
-- 2026-03-16 — #33 Jon Richardson Podcast with Zoe Lyons
 - 2026-03-12 — #32 Jon Richardson Podcast with Dan Atkinson — speakers: Dan Atkinson
 - 2026-03-11 — #31 Jon Richardson Podcast with Matt Crosby — speakers: Matt Crosby
 - 2026-03-10 — #30 Jon Richardson Podcast with Charlie Baker — speakers: Charlie Baker
