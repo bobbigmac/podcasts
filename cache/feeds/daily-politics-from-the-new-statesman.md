@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-16T19:20:25+00:00`
-- checked_at: `2026-03-16T19:20:25+00:00`
-- etag: `"djEuMi4wOjE3NzM2ODA0Mzk1MjA="`
+- fetched_at: `2026-03-17T19:20:20+00:00`
+- checked_at: `2026-03-17T19:20:20+00:00`
+- etag: `"djEuMi4wOjE3NzM3Njk3NDQ0NDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-16T19:20:25+00:00",
+  "fetched_at": "2026-03-17T19:20:20+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "1cc145fea3cdb37cf9b03aa1aa777aa453ec8bbc",
+      "title": "Why you'll never repay your student loan",
+      "published_at": "2026-03-17T17:49:04+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/why-youll-never-repay-your-student-loan",
+      "description": "The Treasury Select Committee has announced an inquiry into Student Loans. It comes after Rachel Reeves announced a freeze on repayment thresholds meaning more graduates will start repaying once they earn just over the living wage. It's an issue that doesn't just affect today's students and graduates but is increasingly becoming a political issue the government cannot ignore. Tom McTague is joined by Rachel Cunliffe to discuss what the inquiry might achieve - and what the student loans issue means for graduates, the economy and Britain's future. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1773769540676-40f86206-22ba-4b48-aab2-47c106ba233a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69b994109472186e415fcb4e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56209220",
+      "itunes_duration": "39:01",
+      "speakers": [
+        "Rachel Ree",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "student",
+        "loan"
+      ]
+    },
     {
       "key": "379cbce1fa5b8dc71d1083ab0c8e4530d311701d",
       "title": "Could surging oil prices cause a global depression?",
@@ -30593,6 +30614,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-17 — Why you'll never repay your student loan — speakers: Rachel Ree, Anoosh Chakelian, Oli Dugmore
 - 2026-03-16 — Could surging oil prices cause a global depression? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-15 — Farewell, George! — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
 - 2026-03-14 — “Won’t someone think of the hereditary peers?” | Will and Anoosh’s weekly round up — speakers: Anoosh Chakelian, Oli Dugmore
