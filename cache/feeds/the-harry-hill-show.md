@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-03-16T07:48:40+00:00`
-- checked_at: `2026-03-16T07:48:40+00:00`
-- last_modified: `Mon, 16 Mar 2026 06:07:55 GMT`
+- fetched_at: `2026-03-18T13:53:54+00:00`
+- checked_at: `2026-03-18T13:53:54+00:00`
+- last_modified: `Wed, 18 Mar 2026 11:41:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-16T07:48:40+00:00",
+  "fetched_at": "2026-03-18T13:53:54+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -58,7 +58,7 @@
       "published_at": "2026-03-09T06:00:00+00:00",
       "link": null,
       "description": "Amanda Lamb joins Harry in the studio. This week, we're learning all about the Day Of The Dead. \"Amanda Lamb\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on CMAT. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
+      "image_url": "https://megaphone.imgix.net/podcasts/31363b3e-1882-11f1-8aad-dff3925e2805/image/666a0aca2f323bc5fd7d0d9664ca766b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/NSR2336132224.mp3?updated=1772710143",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",

@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-03-11T21:47:55+00:00`
-- checked_at: `2026-03-11T21:47:55+00:00`
-- etag: `"djEuMi4wOjE3NzMyNjM0MDc5ODM="`
+- fetched_at: `2026-03-18T13:53:54+00:00`
+- checked_at: `2026-03-18T13:53:54+00:00`
+- etag: `"djEuMi4wOjE3NzM4NDE2NjMwOTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-03-11T21:47:55+00:00",
+  "fetched_at": "2026-03-18T13:53:54+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,33 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "ad280d14c1c55ac3043ef506291d364f0166cf76",
+      "title": "A Canadian politician's signed copy of certain German's book, US sequel on the Moon and the Academy Awards!",
+      "published_at": "2026-03-18T13:30:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/a-canadian-politicians-signed-copy-of-certain-germans-book-u",
+      "description": "On this week's Bugle, Andy is joined by Hari Kondabolu and sister Helen Zaltzman, as the three take a look at the latest news from around the globe. From a Canadian politician's resignation following the discovery he owned a signed copy of Mein Kampf, to the USA's plans to launch a new mission to return to the moon, and we catch up on the latest from the 2026 Academy Awards. It's issue 4372! 📚 Niagara Regional Chair's Book collection: Andy, Hari and Helen uncover the controversy surrounding Niagara Regional Chair, Bob Gale and his interesting library. 🚀 USA's Final Frontier (Again): The trio discuss the US plans to return to the moon! 🏆 The Oscars: Andy, Hari and Helen discuss the latest from the 2026 Academy Awards. Andy's Links: andyzaltzman.co.uk Hari Kondabolu's Links: https://harikondabolu.com/ Helen Zaltzman's Links: theallusionist.org & answermethispodcast.com 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/69baa8907df9481e687e701b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45124544",
+      "itunes_duration": "47:00",
+      "speakers": [
+        "Hari Kondabolu",
+        "Helen Zaltzman",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "politician",
+        "copy",
+        "german",
+        "book",
+        "sequel",
+        "moon",
+        "academy",
+        "awards"
+      ]
+    },
     {
       "key": "926516635f19b4ec48853d26c8151d3299c71909",
       "title": "Have influencers gone too far? Trump's ex-presidential mash-up and Gnome News!",
@@ -14020,6 +14047,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — A Canadian politician's signed copy of certain German's book, US sequel on the Moon and the Academy Awards! — speakers: Hari Kondabolu, Helen Zaltzman, Andy Zaltzman
 - 2026-03-11 — Have influencers gone too far? Trump's ex-presidential mash-up and Gnome News! — speakers: Alice Fraser, Tiff Stevenson, Andy Zaltzman
 - 2026-03-05 — Iran, Trump, and Kerala goes through a name change — speakers: Anuvab Pal, Andy Zaltzman
 - 2026-02-18 — Munich Security Conference, Cuban Cigar Crisis and RFK and the Toilet Seat — speakers: Helen Zaltzman, Andy Zaltzman
