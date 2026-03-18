@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-03-13T15:57:49+00:00`
-- checked_at: `2026-03-13T15:57:49+00:00`
-- etag: `"djEuMi4wOjE3NzM0MTcyMDkwODU="`
+- fetched_at: `2026-03-18T19:18:20+00:00`
+- checked_at: `2026-03-18T19:18:20+00:00`
+- etag: `"djEuMi4wOjE3NzM4NTIzNDM5MDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-03-13T15:57:49+00:00",
+  "fetched_at": "2026-03-18T19:18:20+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "0f6f8d7f4c78e7b44e5fb05df249f2a23d8746f2",
+      "title": "Botanical mystery solved: how plants make a crucial malaria drug",
+      "published_at": "2026-03-18T16:45:43+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-00891-4",
+      "description": "In this episode: 00:46 Piecing together a biochemical puzzle Research Article : Lombe et al. 12:26 Research Highlights Nature: Electric-vehicle batteries toughen up to beat the heat Nature: Live parrots were carried across the Andes before the Incas’ rise Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69bad6766cb58679e8ee7c0d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "15297957",
+      "itunes_duration": "15:55",
+      "speakers": [
+        "Research Article",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "mystery",
+        "plant",
+        "malaria",
+        "drug"
+      ]
+    },
     {
       "key": "7b5df9f44ea94fec7b39ba10a961a40e001062a3",
       "title": "Briefing chat: ‘Can it run Doom?’ — why scientists got brain cells and a satellite to play the classic game",
@@ -19245,6 +19268,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — Botanical mystery solved: how plants make a crucial malaria drug — speakers: Research Article, Benjamin Thompson, Noah Baker
 - 2026-03-13 — Briefing chat: ‘Can it run Doom?’ — why scientists got brain cells and a satellite to play the classic game — speakers: Benjamin Thompson, Noah Baker
 - 2026-03-11 — This fish shouldn’t exist — the weird genetics of clonal vertebrates — speakers: Benjamin Thompson, Noah Baker
 - 2026-03-06 — Briefing chat: What Galileo’s scribbled margin notes reveal about his scientific journey — speakers: What Galileo, New Scien, Benjamin Thompson, Noah Baker

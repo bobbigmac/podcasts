@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-17T16:18:45+00:00`
-- checked_at: `2026-03-17T16:18:45+00:00`
-- etag: `"djEuMi4wOjE3NzM3NjMxMTE5MDE="`
+- fetched_at: `2026-03-18T19:18:20+00:00`
+- checked_at: `2026-03-18T19:18:20+00:00`
+- etag: `"djEuMi4wOjE3NzM4NTQxNjIzMTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-17T16:18:45+00:00",
+  "fetched_at": "2026-03-18T19:18:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "f6ae6f7d7e1ecc0162825ea13b6dbd87dc737a79",
+      "title": "Is Angela Rayner about to topple Keir Starmer? | PMQs Analysis",
+      "published_at": "2026-03-18T17:16:01+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69baddc49f7cc5ed0393843b",
+      "description": "Laura and Seán are back to react to another fiery PMQs. Despite mentions of Iran and the Mandelson files, today's real headline comes from outside the Commons: Angela Rayner’s speech at a Momentum event last night which loomed large over today's session. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69baddc49f7cc5ed0393843b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59932507",
+      "itunes_duration": "41:36",
+      "speakers": [
+        "Angela Rayner"
+      ],
+      "topics": [
+        "angela",
+        "rayner",
+        "keir",
+        "starmer",
+        "analysis"
+      ]
+    },
     {
       "key": "2e7f30248c382eecddf9a9a1ce0b200505674e62",
       "title": "Everything Louis Theroux got wrong about the manosphere | James Bloodworth interview",
@@ -12063,6 +12085,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — Is Angela Rayner about to topple Keir Starmer? | PMQs Analysis — speakers: Angela Rayner
 - 2026-03-17 — Everything Louis Theroux got wrong about the manosphere | James Bloodworth interview — speakers: Louis Theroux, James Bloodworth
 - 2026-03-16 — Should Keir Starmer resign?
 - 2026-03-13 — I lost my job after confronting Matt Lucas on Palestine | Cancelled — speakers: Matt Lucas, Thomas Bourne

@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-17T19:20:20+00:00`
-- checked_at: `2026-03-17T19:20:20+00:00`
-- etag: `"djEuMi4wOjE3NzM3Njk3NDQ0NDM="`
+- fetched_at: `2026-03-18T19:18:20+00:00`
+- checked_at: `2026-03-18T19:18:20+00:00`
+- etag: `"djEuMi4wOjE3NzM4NTMyMzk0NjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-17T19:20:20+00:00",
+  "fetched_at": "2026-03-18T19:18:20+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "ac32a0b107d067a13cbe4b74ddb5b13057790802",
+      "title": "The new world war",
+      "published_at": "2026-03-18T17:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/the-new-world-war",
+      "description": "Yesterday, Keir Starmer met Volodymyr Zelensky to sign a new defense partnership. The Ukrainian President said he faced a missile shortage due to the war in Iran and Keir Starmer resolved to remain focused on the fight against Russia. But is the war in Eastern Europe only the first act of a much wider conflict? Oli Dugmore is joined by Will Lloyd, who visited Ukraine last month. Read: https://www.newstatesman.com/international-content/2026/03/the-new-world-war LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1773850906102-aceb7af7-1457-4649-aeac-26771ede0e28.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69bad1e97739fc93d7e8cc96/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59098063",
+      "itunes_duration": "30:43",
+      "speakers": [
+        "Volodymyr Zelensky",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "world"
+      ]
+    },
     {
       "key": "1cc145fea3cdb37cf9b03aa1aa777aa453ec8bbc",
       "title": "Why you'll never repay your student loan",
@@ -30614,6 +30634,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — The new world war — speakers: Volodymyr Zelensky, Anoosh Chakelian, Oli Dugmore
 - 2026-03-17 — Why you'll never repay your student loan — speakers: Rachel Ree, Anoosh Chakelian, Oli Dugmore
 - 2026-03-16 — Could surging oil prices cause a global depression? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-15 — Farewell, George! — speakers: George Eaton, Anoosh Chakelian, Oli Dugmore
