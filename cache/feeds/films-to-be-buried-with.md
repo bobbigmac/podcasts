@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-03-17T19:20:20+00:00`
-- checked_at: `2026-03-17T19:20:20+00:00`
-- last_modified: `Tue, 17 Mar 2026 16:26:36 GMT`
+- fetched_at: `2026-03-18T10:11:32+00:00`
+- checked_at: `2026-03-18T10:11:32+00:00`
+- last_modified: `Wed, 18 Mar 2026 08:29:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-17T19:20:20+00:00",
+  "fetched_at": "2026-03-18T10:11:32+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -27,6 +27,29 @@
     "film"
   ],
   "episodes": [
+    {
+      "key": "3afd5dd2539a19a75cfe9d08b337bf05550bc152",
+      "title": "Elizabeth Moss • (Mad Men / The Handmaid's Tale / The Invisible Man) • #387",
+      "published_at": "2026-03-18T08:29:00+00:00",
+      "link": null,
+      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the true treasure and official friend of the podcast ELIZABETH MOSS ! This is a glorious episode featuring one of the brightest shining stars of big and less-big screen (depending on your home cinema dimensions) of the past couple of decades, who handles pure business in front of as well as behind the camera. For some of us the journey began with her portrayal of Peggy Olson on Mad Men which ran for the duration of the show, and maybe for some it began more recently with the intense and chilling The Invisible Man. Without going through each and every role Elizabeth has played, basically at some point you will have encountered her work, which will surely be why you are here listening - and in this bubbly and beautiful episode you'll get to hear all sorts of behind the scenes goodies, present day life moments, and some superb choices. Elizabeth is awesome - and - we are blessed to have her on the Patreon team! For as long as she feels it appropriate to stay, naturally. ENJOY! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! IMDB IMPERFECT WOMEN • out now ⁠ MAD MEN THE HANDMAID'S TALE THE INVISIBLE MAN LEIGH WHANNEL EP (dir. Invisible Man) –––––––––– ⁠⁠ BRETT • X ⁠⁠ ⁠⁠ BRETT • INSTAGRAM ⁠⁠ ⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠ ⁠⁠ TED LASSO ⁠⁠ ⁠⁠ SHRINKING ⁠⁠ ⁠⁠ ALL OF YOU ⁠⁠ ⁠⁠ SOULMATES ⁠⁠ ⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5502de4e-221b-11f1-9d85-ab83f9fe3ea6/image/09ba3467fd8151e0a61e626e23cceccf.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1172084762.mp3?updated=1773764950",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4745",
+      "speakers": [
+        "Elizabeth Moss",
+        "Brett Goldstein"
+      ],
+      "topics": [
+        "elizabeth",
+        "moss",
+        "handmaid",
+        "tale",
+        "invisible"
+      ]
+    },
     {
       "key": "5ddf184421b194aef05b96e4b1eeac5542c98c0c",
       "title": "Himesh Patel • Rewind Classic (Tenet / Station 11 / Yesterday)",
@@ -9201,6 +9224,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — Elizabeth Moss • (Mad Men / The Handmaid's Tale / The Invisible Man) • #387 — speakers: Elizabeth Moss, Brett Goldstein
 - 2026-03-04 — Himesh Patel • Rewind Classic (Tenet / Station 11 / Yesterday) — speakers: Himesh Patel, Brett Goldstein
 - 2026-02-18 — Josh Horowitz • (Happy Sad Confused / Who's A Good Guest) • #386 — speakers: Josh Horowitz, Brett Goldstein
 - 2026-02-04 — Tig Notaro (Come See Me In The Good Light / The Morning Show / Handsome Podcast) • #385 — speakers: Tig Notaro, Brett Goldstein
