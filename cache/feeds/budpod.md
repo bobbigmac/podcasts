@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-03-11T07:11:51+00:00`
-- checked_at: `2026-03-11T07:11:51+00:00`
-- etag: `"djEuMi4wOjE3NzMyMDg4OTkzNzQ="`
+- fetched_at: `2026-03-18T07:17:30+00:00`
+- checked_at: `2026-03-18T07:17:30+00:00`
+- etag: `"djEuMi4wOjE3NzM4MTU3MzIyNzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-03-11T07:11:51+00:00",
+  "fetched_at": "2026-03-18T07:17:30+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "81a7b7d038ba54006fd974156fc08ef245cb2d60",
+      "title": "S2E40 | Ol' Captain Flesh Eyes",
+      "published_at": "2026-03-18T06:35:31+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e40-ol-captain-flesh-eyes",
+      "description": "Video Version Here! - This week the buds discuss turning 40, poisonous clowns, Pierre's Norwich nightmare and cartoon eyes. Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Pierre is on tour across the UK, Ireland and Netherlands! Including a headline show at the Leicester Square Theatre on May 28th! Tickets available now at https://www.pierrenovellie.com/ Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/69ba47b4efe096304cadaa25/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61744041",
+      "itunes_duration": "42:42",
+      "speakers": [
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "captain",
+        "flesh",
+        "eyes"
+      ]
+    },
     {
       "key": "f9eb51e60622855f93c2332036a7446871311c07",
       "title": "S2E39 | Camp Bigfoot",
@@ -7533,6 +7554,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — S2E40 | Ol' Captain Flesh Eyes — speakers: Phil Wang, Pierre Novellie
 - 2026-03-11 — S2E39 | Camp Bigfoot — speakers: RL Stine, Phil Wang, Pierre Novellie
 - 2026-03-04 — S2E38 | Bovril Lavigne — speakers: Bovril Lavigne, Phil Wang, Pierre Novellie
 - 2026-02-25 — S2E37 | Illness Cheese — speakers: Phil Wang, Pierre Novellie

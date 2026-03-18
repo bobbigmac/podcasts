@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-03-17T19:20:20+00:00`
-- checked_at: `2026-03-17T19:20:20+00:00`
-- etag: `"djEuMi4wOjE3NzM3NzI5MzczMzg="`
+- fetched_at: `2026-03-18T07:17:30+00:00`
+- checked_at: `2026-03-18T07:17:30+00:00`
+- etag: `"djEuMi4wOjE3NzM4MDY1MDAxNDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-03-17T19:20:20+00:00",
+  "fetched_at": "2026-03-18T07:17:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3855e6605c025011819be52ee32ef06823504750",
+      "title": "FATIHA EL-GHORRI • 'Cockney Stacking Doll' tour happening now near you! #663",
+      "published_at": "2026-03-18T04:01:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the proper hilarious and lovely comic and actress FATIHA EL-GHORRI ! Consider this your membership to the Fans Of Fatiha club, as after this listen you're officially signed up. Of course a good amount of you will know Fatiha extremely well at this point, having seen her on Taskmaster, Rochard Osman's House Of Games or straight-up standup, but if not, this is a perfect chance to get to know Fatiha. Having been blessing stages for over a decade, Fatiha is well versed in comedy, and has been through all the rites of passage comics have to go through, but also spent a lot of 2025 managing an extreme health crisis on top of all of that. You might consider that a trigger warning if you're sensitive to health issues or perhaps dealing with your own currently - but you can be sure that it's all handled with the strength and humour you could wish for. Just worth pointing it out in case. All in all, ultra affirming stuff and super refreshing to hear Fatiha going in on all things life and comedy. Go see her on tour, what you playing at! PIP'S PATREON PAGE if you're of a supporting nature INSTAGRAM IMDB TOUR DATES A MATCH MADE INSHALLAH HOUSE OF GAMES TASKMASTER PIP AT PRINCE CHARLES CINEMA! SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1773770556198-0811f2cc-6868-4926-8f2a-f600e3f2b412.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69b99b21e03672b0c75ea2d0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "143755877",
+      "itunes_duration": "59:50",
+      "speakers": [],
+      "topics": [
+        "fatiha",
+        "ghorri",
+        "cockney",
+        "stacking",
+        "doll",
+        "tour"
+      ]
+    },
     {
       "key": "626c3ba2f586241458b59bab9689f32e2781ecca",
       "title": "SIMON PEGG from 2014 (Mission Impossible series / Star Trek / Hot Fuzz) • Friday Rewind",
@@ -18409,6 +18430,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — FATIHA EL-GHORRI • 'Cockney Stacking Doll' tour happening now near you! #663
 - 2026-03-13 — SIMON PEGG from 2014 (Mission Impossible series / Star Trek / Hot Fuzz) • Friday Rewind
 - 2026-03-11 — LENA HEADEY • how to navigate the maze of the acting world #662
 - 2026-03-06 — JOE CORNISH (The Kid Who Would Be King / Attack The Block / Adam & Joe) • Friday Rewind — speakers: Joe Cornish

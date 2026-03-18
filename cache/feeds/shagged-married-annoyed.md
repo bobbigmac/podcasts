@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-03-17T13:51:49+00:00`
-- checked_at: `2026-03-17T13:51:49+00:00`
-- last_modified: `Tue, 17 Mar 2026 11:42:20 GMT`
+- fetched_at: `2026-03-18T07:17:30+00:00`
+- checked_at: `2026-03-18T07:17:30+00:00`
+- last_modified: `Wed, 18 Mar 2026 04:37:51 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-17T13:51:49+00:00",
+  "fetched_at": "2026-03-18T07:17:30+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f5a072d3f74d3a3d45801b97754933cad3ffbab9",
+      "title": "Please Keep Me Anonymous with Seann Walsh",
+      "published_at": "2026-03-18T04:32:00+00:00",
+      "link": null,
+      "description": "On this week's Please Keep Me Anonymous, Chris and Rosie Ramsey are joined comedian, podcaster and I'm a Celebrity Get me Out Of Here alumni, Seann Walsh! They discuss mistaken identity, nostalgic tv shows from the 90’s, the art of calling in sick and how Seann felt when he was in the jungle with Matt Hancock! Seann’s also explains why Gemma Collins is responsible for his new trainers and the trio get animated over Jonathan Ross's new show Handcuffed: Last Pair Standing In April Seann will be in the new series of I'm a Celebrity All Stars which will be available on ITV. You can catch Seann on his tour ‘ This is Torture ’ for tickets visit seannwalsh.com Seann’s podcast Class Clown is available wherever you get your podcasts or click here - Class Clown Sean and Jack Dee’s Podcast Oh My Dog is available weekly and you can find it wherever you get your podcasts or click here Oh My Dog If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5a419544-21f3-11f1-9dfc-c32248ed1622/image/2731fc4dbb0ca9b7d8bd3a9fb054c05b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8614131502.mp3?updated=1773747218",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2647",
+      "speakers": [
+        "Seann Walsh",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "seann",
+        "walsh"
+      ]
+    },
     {
       "key": "9ee9227c49ee7ea2dea2a927e7780ae8a19082b3",
       "title": "Liberating hand towels on tour, Talk Radio and The Rosie Ramsey Guide to Sex",
@@ -7930,6 +7952,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — Please Keep Me Anonymous with Seann Walsh — speakers: Seann Walsh, Rosie Ramsey, Chris Ramsey
 - 2026-03-13 — Liberating hand towels on tour, Talk Radio and The Rosie Ramsey Guide to Sex — speakers: Annoyed Chris, Rosie Ramsey, Chris Ramsey
 - 2026-03-11 — Please Keep Me Anonymous with Maisie Adam — speakers: Maisie Adam, Rosie Ramsey, Chris Ramsey
 - 2026-03-06 — A bribe, a Tom Jones obsession and some hidden Easter Eggs! — speakers: Tom Jones, Chris Ramsey, Rosie Ramsey

@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-16T07:48:40+00:00`
-- checked_at: `2026-03-16T07:48:40+00:00`
-- etag: `"djEuMi4wOjE3NzM2MzM0NTkyMzM="`
+- fetched_at: `2026-03-18T07:17:30+00:00`
+- checked_at: `2026-03-18T07:17:30+00:00`
+- etag: `"djEuMi4wOjE3NzM4MDYyNTkyNjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-16T07:48:40+00:00",
+  "fetched_at": "2026-03-18T07:17:30+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "aff2c4baec8dd2fe8d0fb666258c95f2e0bf9ca3",
+      "title": "RHLSTP 603 - Vittorio Angelone",
+      "published_at": "2026-03-18T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTYP #603 - Paddy McGuinness’ Richard Osman Dart Board - Rich is back in Chelmsford revealing what Charles Dickens has to say about the place and Greater Anglia’s possibly foolish plan to keep down the pigeon population at Chelmsford Station. His guest hates the English and so Rich has deliberately brought him to the most English place on earth to see what fireworks ensue - it’s the brilliant Vittorio Angelone. They chat about whether it’s a dick move to win every day of House of Games, how Vittorio might have been a professional percussionist, the huge success of his podcast Mike and Vittorio’s Guide To Parenting, how the title of his new show “you can’t Say Nothing any more” is so good, it doesn’t actually matter if the content is funny (it is), playing the Hammersmith Apollo and a new take on why Love Actually is a terrible film and why you should let Richard Curtis know on social media. Rich is old and flagging and his brain isn’t working too well, so there’s lots of waiting around for him to remember things. It’s going to get worse as time goes on. Please bear in mind his age before criticising. He is 58. See RHLSTP live http://richardherring.com/rhlstp See Vittorio on tour https://vittorioangelone.com/tour Watch Translations https://www.youtube.com/watch?v=3pZJL2CzZnQ SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1773000540256-3964f003-9a1f-4e70-9dd9-4ae6cf279e08.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69add30296c5a430dda74967/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29398938",
+      "itunes_duration": "54:09",
+      "speakers": [
+        "Board Rich",
+        "Richard Herring"
+      ],
+      "topics": [
+        "vittorio",
+        "angelone"
+      ]
+    },
     {
       "key": "3fc9289b7177423d6ed5740339c5d08b96bd62c0",
       "title": "Retro RHLSTP 137 - Zoe Lyons",
@@ -21784,6 +21804,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — RHLSTP 603 - Vittorio Angelone — speakers: Board Rich, Richard Herring
 - 2026-03-16 — Retro RHLSTP 137 - Zoe Lyons — speakers: Bag Vulva Richard, Richard Herring
 - 2026-03-14 — RAACN week 7 — speakers: Khamanei Closer Newsround, Richard Herring
 - 2026-03-13 — RHLSTP Book Club 173 - Catherine Wilkins — speakers: Catherine Wilkins, Richard Herring
