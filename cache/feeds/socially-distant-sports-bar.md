@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-03-16T13:54:27+00:00`
-- checked_at: `2026-03-16T13:54:27+00:00`
-- etag: `"djEuMi4wOjE3NzM2NjAzNDU2NDM="`
+- fetched_at: `2026-03-18T03:20:29+00:00`
+- checked_at: `2026-03-18T03:20:29+00:00`
+- etag: `"djEuMi4wOjE3NzM3OTMxNzkyMzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "Join Elis James, Mike Bubbins and Steff Garrero in Award winning Podcast \"The Socially Distant Sports Bar\". It's a Comedy & Sports Podcast, but you don't have to like Sports to LOVE it. Comedians Elis James (BBC 5Live, Sky TV's Fantasy Football League) & Mike Bubbins (BBC's Mammoth) are \"Unreasonably hilarious\" The Telegraph. \"Elis James, Mike Bubbins and Steff Garrero created a haven where they ramble on about classic clips and random recollections.\" The Guardian Known to fans as Distant Pod it has won awards at the Sports Podcast Awards & Pod Bible Awards. Hosts of \"Down The Clubhouse\" on TNT Sport another Comedy & Sports show. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-03-16T13:54:27+00:00",
+  "fetched_at": "2026-03-18T03:20:29+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,30 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "967f6dbf48be094598e6a39c88e3d87f11611b7e",
+      "title": "Sondico Mills & Boons (Pt 1)",
+      "published_at": "2026-03-18T00:19:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/sondico-mills-boons-pt-1",
+      "description": "🔒 Subscribe to Distant Pod Bonus Club on Apple Podcasts for early, ad-free Parts 1 and 2 — plus Part 3 every week as exclusive bonus content. Over 300 episodes in and still discovering sporting brilliance in the strangest corners of the internet, Distant Pod is the weekly podcast where Elis James, Mike Bubbins and Steff Garrero bring you the best clips, documentaries and books they’ve found that week. From legendary sporting nostalgia to total nonsense, it’s a fast-moving tour through the world of sport. 🎟️ LIVE SHOW UPDATE Our live shows in Cardiff (March 20 & 21) and Carmarthen (April 24) are now completely sold out — thank you so much if you’ve already grabbed tickets. That means the only shows with seats left on this run are our two nights at Hackney Empire in London on April 7th and 8th . And even those are very close to selling out , with only a handful of seats left in the stalls. 🎫 Grab tickets here: https://www.hackneyempire.co.uk/events/the-socially-distant-sports-bar-live 🎧 PART 1 Mike: Newport RFC https://www.instagram.com/reel/DUA3QPkCINR/?igsh=MzdpMTY5endzMzRn Elis: Peter Beardsley https://x.com/sid_lambert/status/2018588358193062387 Steff: Is that you Maureen? https://www.instagram.com/reels/DSzyZL3DBEl/ Click here for a NORD VPN deal https://nordvpn.com/distant CLICK HERE TO SEE CRWST's SELECTION https://crwst.cymru/collections/shop-all 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com 🎟️ TOUR 2026 Live shows are coming! 🎫 Tickets available now at distantpod.com/live Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69b7e605cad04b6222b458eb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "153218880",
+      "itunes_duration": "1:03:50",
+      "speakers": [
+        "Sondico Mills",
+        "Apple Podcasts",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "sondico",
+        "mills",
+        "boons"
+      ]
+    },
     {
       "key": "2ee029c554fc1e12ae4f544ccefa62dcc56c10de",
       "title": "Big Kick Energy: Pint Size",
@@ -14214,6 +14238,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — Sondico Mills & Boons (Pt 1) — speakers: Sondico Mills, Apple Podcasts, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-15 — Big Kick Energy: Pint Size — speakers: Big Kick Energy, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-13 — Piccalilli’s Like Pegging (pt 2) — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-03-11 — Piccalilli’s Like Pegging (pt 1) — speakers: Mike Bubbins, Elis James, Steff Garrero

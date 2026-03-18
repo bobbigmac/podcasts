@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-03-11T02:49:34+00:00`
-- checked_at: `2026-03-11T02:49:34+00:00`
-- etag: `"99887-64cb55e8c3511"`
-- last_modified: `Wed, 11 Mar 2026 01:15:19 GMT`
+- fetched_at: `2026-03-18T03:20:29+00:00`
+- checked_at: `2026-03-18T03:20:29+00:00`
+- etag: `"9a3dc-64d422f5ef1a7"`
+- last_modified: `Wed, 18 Mar 2026 01:15:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-03-11T02:49:34+00:00",
+  "fetched_at": "2026-03-18T03:20:29+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "77b104d54163f39c2ae930572c88c281981706c4",
+      "title": "The Olympics",
+      "published_at": "2026-03-18T01:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/the-olympics",
+      "description": "Charlie of Loughborough feeds The Olympics into the bean machine for this week’s lukewarm topic. Any of Henry, Mike or Ben could definitely have been a gold medal winning olympian if they’d only had the right opportunities, encouragement, childhood pets, funding, early surgical interventions, talent profile, genetic modification and work ethic so this is a subject close to their hearts. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/241b9a28-21b9-4071-acfc-a62c759fe306/S20E3-The-Olympics-2.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/5f3d5b71-5e8d-4fb8-907b-8687f72eccb0.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=5f3d5b71-5e8d-4fb8-907b-8687f72eccb0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60295254",
+      "itunes_duration": "01:02:48",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "olympics"
+      ]
+    },
     {
       "key": "f610215dc25b3727cfcd8b8c2bf4287ee2d53f87",
       "title": "Chickens",
@@ -4068,6 +4088,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — The Olympics — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-03-11 — Chickens — speakers: Susan’s Seed Hoover, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-03-04 — The Coastguard — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-01-28 — Road Trips — speakers: Road Trips According, Mike Wozniak, Henry Paker, Benjamin Partridge

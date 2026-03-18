@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-03-17T21:54:00+00:00`
-- checked_at: `2026-03-17T21:54:00+00:00`
-- etag: `"djEuMi4wOjE3NzM3ODMwMDAwODQ="`
+- fetched_at: `2026-03-18T03:20:29+00:00`
+- checked_at: `2026-03-18T03:20:29+00:00`
+- etag: `"djEuMi4wOjE3NzM3OTU2MzkzMzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-03-17T21:54:00+00:00",
+  "fetched_at": "2026-03-18T03:20:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "582d1ba5fcba1361c7dd10cea9823fadf0e4f66e",
+      "title": "Jane McDonald",
+      "published_at": "2026-03-18T01:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/jane-mcdonald",
+      "description": "This week, we have the legendary singer and cruise extraordinaire, Jane McDonald! Jane arrived with a gorgeous bunch of flowers in hand and mum & I instantly fell in love with her. We talked about everything from her life on the cruise ships (and the secret crew parties), performing everywhere from Blackpool to Vegas, learning to dance with her dad, growing up in a police lodging house, her tips for the perfect gravy and we discover that she is also her own manager - there’s no end to her skills! Jane is welcome to join us for lunch anytime, maybe even on the high seas next time! Jane's brand new album ' Living The Dream' and tickets to her tour are available now. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1773758379089-8697fc58-1dcd-472a-89ff-da1bf001016b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69b9388fa28dd9d562ea1211/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49307061",
+      "itunes_duration": "51:21",
+      "speakers": [
+        "Jane McDonald"
+      ],
+      "topics": [
+        "jane",
+        "mcdonald"
+      ]
+    },
     {
       "key": "3ace4115226b340e95a73ae3ab6e5e1d95761457",
       "title": "Kurt and Wyatt Russell",
@@ -6947,6 +6966,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — Jane McDonald — speakers: Jane McDonald
 - 2026-03-11 — Kurt and Wyatt Russell — speakers: Wyatt Russell, Kurt Russell
 - 2026-03-04 — Hilary Duff — speakers: Hilary Duff
 - 2026-02-25 — Hannah Fry — speakers: Hannah Fry

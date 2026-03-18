@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-17T19:20:20+00:00`
-- checked_at: `2026-03-17T19:20:20+00:00`
-- etag: `W/"22b31-42B7F8mzDXiCTew/rHPaheZLcG4"`
+- fetched_at: `2026-03-18T03:20:29+00:00`
+- checked_at: `2026-03-18T03:20:29+00:00`
+- etag: `W/"22fb2-vCwFDcOapyaC9Gune2VLUlajH10"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-17T19:20:20+00:00",
+  "fetched_at": "2026-03-18T03:20:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "42d3b818ac225783270336352af99455439d12a5",
+      "title": "#34 Jon Richardson Podcast with Stephen Grant",
+      "published_at": "2026-03-17T20:23:34+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/34-Jon-Richardson-Podcast-with-Stephen-Grant-e3gjgvo",
+      "description": "#34 Jon Richardson Podcast with Stephen Grant",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773778899432-9a52ab38b623d.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117080504/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-17%2Fe78adb99-67a7-f939-6577-0fa00c3a7d03.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59902304",
+      "itunes_duration": "01:23:10",
+      "speakers": [
+        "Stephen Grant"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "stephen",
+        "grant"
+      ]
+    },
     {
       "key": "4e37c0831234729b9b44ead516150274bc4a2c35",
       "title": "#33 Jon Richardson Podcast with Zoe Lyons",
@@ -2460,6 +2481,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-17 — #34 Jon Richardson Podcast with Stephen Grant — speakers: Stephen Grant
 - 2026-03-16 — #33 Jon Richardson Podcast with Zoe Lyons
 - 2026-03-12 — #32 Jon Richardson Podcast with Dan Atkinson — speakers: Dan Atkinson
 - 2026-03-11 — #31 Jon Richardson Podcast with Matt Crosby — speakers: Matt Crosby

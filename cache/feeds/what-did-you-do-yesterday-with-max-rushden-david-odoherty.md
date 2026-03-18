@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-03-17T03:12:32+00:00`
-- checked_at: `2026-03-17T03:12:32+00:00`
-- last_modified: `Tue, 17 Mar 2026 01:33:15 GMT`
+- fetched_at: `2026-03-18T03:20:29+00:00`
+- checked_at: `2026-03-18T03:20:29+00:00`
+- last_modified: `Wed, 18 Mar 2026 00:15:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/e3305fc974dac38dee8f3d8103df6e67.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-17T03:12:32+00:00",
+  "fetched_at": "2026-03-18T03:20:29+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "4e0d4626e84e72703019d6021beee0a1e8e03618",
+      "title": "WDWDY #63: Faulty Bike Seats",
+      "published_at": "2026-03-18T00:15:00+00:00",
+      "link": null,
+      "description": "On this mid-week bonus ep we find out what David did with his yesterday... Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/393a57d2-216c-11f1-8b4e-57566d237f37/image/f97d2d1144435c04e34487bd7c13ae33.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9085243724.mp3?updated=1773690528",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3009",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "faulty",
+        "bike",
+        "seat"
+      ]
+    },
     {
       "key": "96799b4dc87ee069702b8b8cdd88c864d8b145ab",
       "title": "S4 EP11: Tom Cashman",
@@ -3033,6 +3054,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — WDWDY #63: Faulty Bike Seats — speakers: Max Rushden, David O'Doherty
 - 2026-03-15 — S4 EP11: Tom Cashman — speakers: Tom Cashman, Max Rushden, David O'Doherty
 - 2026-03-11 — WDWDY #62: Dublin Show Post Mortem — speakers: Max Rushden, David O'Doherty
 - 2026-03-08 — S4 EP10: Phil Ellis — speakers: Phil Ellis, Max Rushden, David O'Doherty

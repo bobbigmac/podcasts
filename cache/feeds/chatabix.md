@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-03-17T13:51:49+00:00`
-- checked_at: `2026-03-17T13:51:49+00:00`
-- last_modified: `Tue, 17 Mar 2026 13:23:10 GMT`
+- fetched_at: `2026-03-18T03:20:29+00:00`
+- checked_at: `2026-03-18T03:20:29+00:00`
+- last_modified: `Wed, 18 Mar 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-17T13:51:49+00:00",
+  "fetched_at": "2026-03-18T03:20:29+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,26 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "1a2854a96c0a1ebcd3e276a599572d6c2e4b916c",
+      "title": "S15 Ep 798: TV Joe’s Name That Tune",
+      "published_at": "2026-03-18T03:00:00+00:00",
+      "link": null,
+      "description": "TV Joe is back with a brilliant new game of ‘Name That Tune’, ready to put David and Joe’s musical knowledge to the test. It’s also recently been TV Joe’s 40th birthday - so what better way to celebrate than with a hotly completed music based quiz. Needless to say, it’s one cracker of an episode - happy birthday Joe! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠⁠YouTube⁠⁠ ⁠⁠Instagram⁠⁠ ⁠⁠TikTok⁠⁠ ⁠⁠Patreon⁠⁠ ⁠⁠Merch⁠⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2337894380.mp3?updated=1773412245",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4100",
+      "speakers": [
+        "Joe’s Name",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "tune"
+      ]
+    },
     {
       "key": "5ccf62180b51423641769537aa0a372b9a880537",
       "title": "S15 Ep 797: David’s Handsome Man and Joe’s Military Camper Van",
@@ -13972,6 +13992,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — S15 Ep 798: TV Joe’s Name That Tune — speakers: Joe’s Name, Joe Wilkinson, David Earl
 - 2026-03-17 — S15 Ep 797: David’s Handsome Man and Joe’s Military Camper Van — speakers: David’s Handsome Man, Joe Wilkinson, David Earl
 - 2026-03-16 — S15 Ep 796 Vault Mondays: Impressions Competition and A Surprise Guest — speakers: Joe Wilkinson, David Earl
 - 2026-03-13 — S15 Ep 795 Listeners Mailbag: The Isle of Wight and Some Artic Monkeys — speakers: Listeners Mailbag, Joe Wilkinson, David Earl

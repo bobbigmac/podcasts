@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-03-17T21:54:00+00:00`
-- checked_at: `2026-03-17T21:54:00+00:00`
-- last_modified: `Tue, 17 Mar 2026 19:21:28 GMT`
+- fetched_at: `2026-03-18T03:20:29+00:00`
+- checked_at: `2026-03-18T03:20:29+00:00`
+- last_modified: `Wed, 18 Mar 2026 02:04:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-17T21:54:00+00:00",
+  "fetched_at": "2026-03-18T03:20:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "03ea2e0bf96755a89e35848c6aa14d28441e55c9",
+      "title": "512. Trump’s Iran Disaster and the GB News Propaganda Machine",
+      "published_at": "2026-03-18T00:00:00+00:00",
+      "link": null,
+      "description": "Is Russia the biggest winner from Trump’s war with Iran? Is GB News little more than a propaganda machine for Reform UK? How toxic is England's water and why does it have the only fully privatised water and sewerage system in the world? Join Rory and Alastair as they answer all these questions and more. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter ⁠ HERE ⁠ , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus: Start your free trial at ⁠ therestispolitics.com ⁠ to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. To sign up and for terms and conditions, visit ⁠ fuseenergy.com/politics ⁠ . ﻿Get our exclusive NordVPN deal here ➼ ⁠ nordvpn.com/restispolitics ⁠ It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: ⁠ @restispolitics ⁠ Twitter: ⁠ @restispolitics ⁠ Email: ⁠ therestispolitics@goalhanger.com ⁠ __________ Social Producer: Celine Charles Video Editor: Josh Smith, Kieron Leslie Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/485241f6-2254-11f1-8970-6345af9ee768/image/b3fef8ee012cba4a0211555bbd4d92e1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1092188699.mp3?updated=1773790248",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4197",
+      "speakers": [],
+      "topics": [
+        "trump",
+        "iran",
+        "disaster",
+        "news",
+        "propaganda",
+        "machine"
+      ]
+    },
     {
       "key": "70f4b4a3f6969870ead64a6586ad62c805bf5b45",
       "title": "511. Is Blair Undermining Starmer on Iran? (Question Time)",
@@ -11309,6 +11330,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — 512. Trump’s Iran Disaster and the GB News Propaganda Machine
 - 2026-03-11 — 511. Is Blair Undermining Starmer on Iran? (Question Time) — speakers: Blair Undermining Starmer
 - 2026-03-09 — 510. How The Iran War Is Spiralling Into a Global Crisis
 - 2026-03-05 — The Future of Warfare: Anthropic vs OpenAI

@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-03-16T16:17:13+00:00`
-- checked_at: `2026-03-16T16:17:13+00:00`
-- last_modified: `Mon, 16 Mar 2026 14:23:54 GMT`
+- fetched_at: `2026-03-18T03:20:29+00:00`
+- checked_at: `2026-03-18T03:20:29+00:00`
+- last_modified: `Wed, 18 Mar 2026 02:07:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Join our Patreon for two shows a week, ad-free listening, early access and much more... Follow this link and get involved! - patreon.com/RussellHoward Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/f49076c57d0c5aac5d76c06956cf8e29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-16T16:17:13+00:00",
+  "fetched_at": "2026-03-18T03:20:29+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "5c703945ce2646693bdad4875894f488a072c356",
+      "title": "Ben Shephard",
+      "published_at": "2026-03-18T02:00:00+00:00",
+      "link": null,
+      "description": "One of the most popular faces from British TV is here; from This Morning, from Tipping Point and so much more it’s Ben Shephard! What comes through in this ebullient show is Ben’s love for life and thirst for experiences (and thirst for drinks with bubbles in them). Ben takes us on a trip on the back of a motorbike through the London traffic, lifts the lid on how you go about doing a Men’s Health cover-shoot and forces Russell to try on a cardigan. And as we spoke about on the show, Ben (alongside Joel Dommett) are on a journey launching their new skincare brand. You can follow their progress by listening to their podcast ‘ The Business Men’ . You can take the skincare questionnaire by clicking here . 🎭 Also keep an eye out for Ben’s live show with Kammy - they are touring UK venues doing a few select shows over 2026. Find out more and book tickets by clicking here . 🎭 🎟️ YOU WANT MORE LIVE COMEDY? Russell’s brand new tour show ‘Don’t Tell The Algorithm’ is well underway with rave reviews: Don’t miss this fantastic show of all brand-new material. Find out more at https://www.russell-howard.co.uk 🎟️ Thanks for your continued ears and eyeballs. They are appreciated very much, please keep them inside your head. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f1eb89da-212c-11f1-bf36-27c6f571451b/image/45312ccaad9c698628b2c198c95dd017.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4524266566.mp3?updated=1773662654",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3889",
+      "speakers": [
+        "Ben Shephard",
+        "Russell Howard"
+      ],
+      "topics": [
+        "shephard"
+      ]
+    },
     {
       "key": "080e0ed8b729a249e9cf7ec531f0206a3a62b3a3",
       "title": "Pierre Novellie",
@@ -2731,26 +2750,6 @@
       ]
     },
     {
-      "key": "bf03113301d6d5ef63cfab1beb51af9273cd52fb",
-      "title": "1. Munya Chawawa",
-      "published_at": "2023-10-11T00:00:00+00:00",
-      "link": "https://russellhowardswonderbox.podbean.com/e/munya-chawawa-s-wonderbox/",
-      "description": "Today’s guest is internet comedy star, Munya Chawawa, who chats to Russell about why he loves Streets of Rage, the importance of a slice of pizza and reveals his jaw-dropping hidden ability. Russell is currently on tour in the US and UK: visit russell-howard.co.uk to find out more and book tickets. Munya is also on tour now and you can get tickets for his show at livenation.co.uk Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8213247652.mp3?updated=1724199785",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3440",
-      "speakers": [
-        "Munya Chawawa",
-        "Russell Howard"
-      ],
-      "topics": [
-        "munya",
-        "chawawa"
-      ]
-    },
-    {
       "key": "924c820cca749517d697f9fd72841775d38ebe40",
       "title": "2. Sam Ryder",
       "published_at": "2023-10-11T00:00:00+00:00",
@@ -2768,6 +2767,26 @@
       ],
       "topics": [
         "ryder"
+      ]
+    },
+    {
+      "key": "bf03113301d6d5ef63cfab1beb51af9273cd52fb",
+      "title": "1. Munya Chawawa",
+      "published_at": "2023-10-11T00:00:00+00:00",
+      "link": "https://russellhowardswonderbox.podbean.com/e/munya-chawawa-s-wonderbox/",
+      "description": "Today’s guest is internet comedy star, Munya Chawawa, who chats to Russell about why he loves Streets of Rage, the importance of a slice of pizza and reveals his jaw-dropping hidden ability. Russell is currently on tour in the US and UK: visit russell-howard.co.uk to find out more and book tickets. Munya is also on tour now and you can get tickets for his show at livenation.co.uk Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8213247652.mp3?updated=1724199785",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3440",
+      "speakers": [
+        "Munya Chawawa",
+        "Russell Howard"
+      ],
+      "topics": [
+        "munya",
+        "chawawa"
       ]
     },
     {
@@ -2793,6 +2812,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — Ben Shephard — speakers: Ben Shephard, Russell Howard
 - 2026-03-11 — Pierre Novellie — speakers: Pierre Novellie Pierre, Russell Howard
 - 2026-03-07 — February's Moments of the Month — speakers: Russell Howard
 - 2026-03-04 — Shane Todd — speakers: Northern Irish, Russell Howard
@@ -2928,6 +2948,6 @@
 - 2023-11-01 — 5. Jordan Gray — speakers: Jordan Gray Stand, Jordan Gray, Russell Howard
 - 2023-10-25 — 4. Jen Brister — speakers: Russell Howard
 - 2023-10-18 — 3. Jimmy Carr — speakers: Jimmy Carr, Russell Howard
-- 2023-10-11 — 1. Munya Chawawa — speakers: Munya Chawawa, Russell Howard
 - 2023-10-11 — 2. Sam Ryder — speakers: Sam Ryder Sitting, Sam Ryder, Russell Howard
+- 2023-10-11 — 1. Munya Chawawa — speakers: Munya Chawawa, Russell Howard
 - 2023-09-28 — Trailer — speakers: Russell Howard
