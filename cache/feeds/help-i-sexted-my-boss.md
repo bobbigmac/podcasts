@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-03-17T07:19:08+00:00`
-- checked_at: `2026-03-17T07:19:08+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpNM01qY3hPREF3T0RjPTo6c2F4ZXNz"`
+- fetched_at: `2026-03-18T16:17:53+00:00`
+- checked_at: `2026-03-18T16:17:53+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpNNE5EazRPREU1TlRnPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-03-17T07:19:08+00:00",
+  "fetched_at": "2026-03-18T16:17:53+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
