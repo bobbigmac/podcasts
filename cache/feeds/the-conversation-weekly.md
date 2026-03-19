@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-03-19T13:43:19+00:00`
-- checked_at: `2026-03-19T13:43:19+00:00`
-- etag: `"243e18-64d5f0403c213"`
-- last_modified: `Thu, 19 Mar 2026 11:39:04 GMT`
+- fetched_at: `2026-03-19T16:09:15+00:00`
+- checked_at: `2026-03-19T16:09:15+00:00`
+- etag: `"245a03-64d6274a939f1"`
+- last_modified: `Thu, 19 Mar 2026 15:45:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-03-19T13:43:19+00:00",
+  "fetched_at": "2026-03-19T16:09:15+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,26 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "8b3bc6d2a308f76ce57ed60716c882730360fd27",
+      "title": "How the US cloned Iran's drones",
+      "published_at": "2026-03-19T15:45:00+00:00",
+      "link": "https://theconversation.com/how-the-us-copied-a-cheap-iranian-kamikaze-drone-and-used-it-to-bomb-iran-278695",
+      "description": "The day after the US began bombing Iran, US Central Command confirmed it had used a new, cheap type of kamikaze drone called a Lucas for the first time in a combat operation. These drones were made in America, but their roots actually lie in Iran – they are reverse engineered copies of an Iranian drone called a Shahed that the Russians have also been using to bomb Ukraine. In this episode, PhD researcher and military expert Arun Dawson at King's College London explains how the Iranians developed the Shaheds, why the US decided to copy them, and what role these low-cost drones might play in the future of warfare. This episode was written and produced by Mend Mariwany and Gemma Ware was the executive producer. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Not just Patriot interceptors: A defense expert explains the various weapons US and allies use to defend against missiles and drones Drones over Ukraine: What the war means for the future of remotely piloted aircraft in combat Iran war shows how AI speeds up military ‘kill chains’ The US is using repurposed Iranian drone technology to attack Iran – a military expert explains why Mentioned in this episode: The Making of an Autocrat Search \"The Conversation Weekly\" for our new series: The Making of an Autocrat. Is America watching its democracy unravel in real time? In The Making of an Autocrat from The Conversation, six of the world’s pre-eminant scholars reveal the recipe for authoritarian rule. From capturing a party, to controlling the military, Donald Trump is borrowing from the playbook of strongmen thoughout history. This is the story of how democracies falter — and what might happen next.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/f5ac4839-adba-4ecc-b45a-50573d2a53c6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40995570",
+      "itunes_duration": "28:28",
+      "speakers": [
+        "Central Command",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "iran",
+        "drone"
+      ]
+    },
     {
       "key": "9be28db6789eb98581b674ca3a1c3ddec7bab9bc",
       "title": "Mystery covid methane spike solved",
@@ -5725,6 +5745,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-19 — How the US cloned Iran's drones — speakers: Central Command, Gemma Ware
 - 2026-03-12 — Mystery covid methane spike solved — speakers: Gemma Ware
 - 2026-03-05 — Was the Gulf blindsided on Iran? — speakers: Ali Khamenei, Gemma Ware
 - 2026-02-26 — South Korea's birth rate is rising, but the population is still shrinking — speakers: South Korea, Gemma Ware

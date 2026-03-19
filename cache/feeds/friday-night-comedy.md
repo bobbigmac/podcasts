@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-03-13T21:48:02+00:00`
-- checked_at: `2026-03-13T21:48:02+00:00`
-- etag: `"dafd58ee379a49619055315352264120"`
-- last_modified: `Fri, 13 Mar 2026 19:00:08 GMT`
+- fetched_at: `2026-03-19T16:09:15+00:00`
+- checked_at: `2026-03-19T16:09:15+00:00`
+- etag: `"3fbbff94a3e543f1cc5d2dd38d64bbe2"`
+- last_modified: `Thu, 19 Mar 2026 15:27:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-  "fetched_at": "2026-03-13T21:48:02+00:00",
+  "fetched_at": "2026-03-19T16:09:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5478,33 +5478,6 @@
         "rachel",
         "parris"
       ]
-    },
-    {
-      "key": "aab014e4053572eb5de4f2d90a2b31e9d1779f2f",
-      "title": "The Now Show - 19th March ft Lucy Porter, Eshaan Akbar and Jess Robinson",
-      "published_at": "2021-03-19T19:01:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09b83hm",
-      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! Joining them from a safe distance is Lucy Porter fighting for our right to protest, Eshaan Akbar analysing our spending habits and a Beyonce inspired song by Jess Robinson and Felix Hagen. Voice Actors: Jason Forbes and Karen Bartke Producer: Pete Strauss Production Co-Ordinator: Carina Andrews Editor/Engineer: David Thomas BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09b81fw.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26896000",
-      "itunes_duration": "1681",
-      "speakers": [
-        "Lucy Porter",
-        "Eshaan Akbar",
-        "Jess Robinson",
-        "Steve Punt"
-      ],
-      "topics": [
-        "march",
-        "lucy",
-        "porter",
-        "eshaan",
-        "akbar",
-        "jess",
-        "robinson"
-      ]
     }
   ]
 }
@@ -5771,4 +5744,3 @@
 - 2021-04-10 — The Now Show - 9th April ft Ria Lina, Alun Cochrane and Rachel Parris — speakers: Alun Cochrane, Rachel Parris, Steve Punt
 - 2021-04-02 — The Now Show - 2nd April ft Geoff Norcott, Laura Lexx and Huge Davies — speakers: Laura Lexx, Steve Punt
 - 2021-03-26 — The Now Show - 26th March ft Janine Harouni, Dane Baptiste and Rachel Parris — speakers: Janine Harouni, Rachel Parris, Steve Punt
-- 2021-03-19 — The Now Show - 19th March ft Lucy Porter, Eshaan Akbar and Jess Robinson — speakers: Lucy Porter, Eshaan Akbar, Jess Robinson, Steve Punt

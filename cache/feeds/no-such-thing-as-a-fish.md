@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-03-16T03:33:35+00:00`
-- checked_at: `2026-03-16T03:33:35+00:00`
-- etag: `W/"dd2c0744a8db40d1dc3c7540fe5cf85a"`
-- last_modified: `Sun, 15 Mar 2026 23:55:00 GMT`
+- fetched_at: `2026-03-19T16:09:15+00:00`
+- checked_at: `2026-03-19T16:09:15+00:00`
+- etag: `W/"4eeb48eab91cf8c3f0b1d044c1d31bff"`
+- last_modified: `Thu, 19 Mar 2026 15:17:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-03-16T03:33:35+00:00",
+  "fetched_at": "2026-03-19T16:09:15+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -355,7 +355,7 @@
       "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8854261.mp3?modified=1769709978&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3208",
+      "itunes_duration": "3106",
       "speakers": [
         "Sally Phillips",
         "Dan Schreiber",

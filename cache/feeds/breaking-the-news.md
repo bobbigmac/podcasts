@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-03-17T13:51:49+00:00`
-- checked_at: `2026-03-17T13:51:49+00:00`
-- etag: `"324e0417381b6a7239a0e398b9f11d46"`
-- last_modified: `Tue, 17 Mar 2026 13:20:52 GMT`
+- fetched_at: `2026-03-19T16:09:15+00:00`
+- checked_at: `2026-03-19T16:09:15+00:00`
+- etag: `"85895be057924b1441fe548cf282a1e4"`
+- last_modified: `Thu, 19 Mar 2026 14:00:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-03-17T13:51:49+00:00",
+  "fetched_at": "2026-03-19T16:09:15+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -182,27 +182,6 @@
         "best",
         "unbroadcast"
       ]
-    },
-    {
-      "key": "dec7dda47c333767ea1152ac3fcfc74cb23e417e",
-      "title": "10 Years of Breaking the News",
-      "published_at": "2025-12-19T14:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m002nk7k",
-      "description": "Des and the teams break up the biggest stories of the past ten years. Lead Writer: Laura Major Additional material: Chris Ballard, Nathan Cowley, Lucienne Cummings, Stephen Halford, Ishbel McLachlan, Jennifer Walker. Producer: Chris Quilietti Senior Producer: Lauren Mackay Series Producer: David Flynn Script Editor: Keiron Nicholson An Eco-Audio certified Production",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mmph17.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26880000",
-      "itunes_duration": "1680",
-      "speakers": [
-        "Lead Writer",
-        "Laura Major",
-        "Bbc Radio Scotland"
-      ],
-      "topics": [
-        "year",
-        "news"
-      ]
     }
   ]
 }
@@ -217,4 +196,3 @@
 - 2026-02-20 — Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd and Val McDermid — speakers: Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd, Val McDermid Des, Andrew Mountbatten-Windsor, Bbc Radio Scotland
 - 2026-01-01 — Breaking the Year — speakers: Bbc Radio Scotland
 - 2025-12-26 — The Best of Unbroadcast — speakers: Unbroadcast Join Des Clarke, Bbc Radio Scotland
-- 2025-12-19 — 10 Years of Breaking the News — speakers: Lead Writer, Laura Major, Bbc Radio Scotland
