@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-18T19:18:20+00:00`
-- checked_at: `2026-03-18T19:18:20+00:00`
-- etag: `"djEuMi4wOjE3NzM4NTQxNjIzMTA="`
+- fetched_at: `2026-03-19T13:43:19+00:00`
+- checked_at: `2026-03-19T13:43:19+00:00`
+- etag: `"djEuMi4wOjE3NzM5MjUyMzk0ODA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-18T19:18:20+00:00",
+  "fetched_at": "2026-03-19T13:43:19+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "4ff4fd73f14a8f29ffff7df4847ebdd2a6e3da7a",
+      "title": "Britain is built on misery. This is how. | Lena Swedlow interview",
+      "published_at": "2026-03-19T13:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69bbd6068481c008204d1e0e",
+      "description": "Laura sits down with Lena Swedlow of Compass to uncover the flaws of Britain's electoral system, as well as imagining what a future without it could look like. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69bbd6068481c008204d1e0e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31125019",
+      "itunes_duration": "21:36",
+      "speakers": [
+        "Lena Swedlow"
+      ],
+      "topics": [
+        "britain",
+        "misery",
+        "lena",
+        "swedlow"
+      ]
+    },
     {
       "key": "f6ae6f7d7e1ecc0162825ea13b6dbd87dc737a79",
       "title": "Is Angela Rayner about to topple Keir Starmer? | PMQs Analysis",
@@ -12085,6 +12106,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-19 — Britain is built on misery. This is how. | Lena Swedlow interview — speakers: Lena Swedlow
 - 2026-03-18 — Is Angela Rayner about to topple Keir Starmer? | PMQs Analysis — speakers: Angela Rayner
 - 2026-03-17 — Everything Louis Theroux got wrong about the manosphere | James Bloodworth interview — speakers: Louis Theroux, James Bloodworth
 - 2026-03-16 — Should Keir Starmer resign?

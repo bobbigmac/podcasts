@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-03-19T10:01:23+00:00`
-- checked_at: `2026-03-19T10:01:23+00:00`
-- last_modified: `Thu, 19 Mar 2026 07:22:13 GMT`
+- fetched_at: `2026-03-19T13:43:19+00:00`
+- checked_at: `2026-03-19T13:43:19+00:00`
+- last_modified: `Thu, 19 Mar 2026 12:41:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-19T10:01:23+00:00",
+  "fetched_at": "2026-03-19T13:43:19+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -32,7 +32,7 @@
       "title": "Please Keep Me Anonymous with Seann Walsh",
       "published_at": "2026-03-18T04:32:00+00:00",
       "link": null,
-      "description": "On this week's Please Keep Me Anonymous, Chris and Rosie Ramsey are joined comedian, podcaster and I'm a Celebrity Get me Out Of Here alumni, Seann Walsh! They discuss mistaken identity, nostalgic tv shows from the 90’s, the art of calling in sick and how Seann felt when he was in the jungle with Matt Hancock! Seann’s also explains why Gemma Collins is responsible for his new trainers and the trio get animated over Jonathan Ross's new show Handcuffed: Last Pair Standing In April Seann will be in the new series of I'm a Celebrity All Stars which will be available on ITV. You can catch Seann on his tour ‘ This is Torture ’ for tickets visit seannwalsh.com Seann’s podcast Class Clown is available wherever you get your podcasts or click here - Class Clown Sean and Jack Dee’s Podcast Oh My Dog is available weekly and you can find it wherever you get your podcasts or click here Oh My Dog If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "On this week's Please Keep Me Anonymous, Chris and Rosie Ramsey are joined comedian, podcaster and I'm a Celebrity Get me Out Of Here alumni, Seann Walsh! They discuss mistaken identity, nostalgic tv shows from the 90’s, the art of calling in sick and how Seann felt when he was in the jungle with Matt Hancock! Seann’s also explains why Gemma Collins is responsible for his new trainers and the trio get animated over Jonathan Ross's new show Handcuffed: Last Pair Standing In April Seann will be in the new series of I'm a Celebrity All Stars which will be available on ITV. You can catch Seann on his tour ‘ This is Torture ’ for tickets visit seannwalsh.com Seann’s podcast Class Clown is available wherever you get your podcasts or click here - Class Clown Sean and Jack Dee’s Podcast Oh My Dog is available weekly and you can find it wherever you get your podcasts or click here Oh My Dog If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Today, get Huel’s full Lite & Lean Starter Kit online with our code SMA30 for 30% off at https://huel.com/SMA30. New Customers Only. Thank you to Huel for partnering and supporting our show! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5a419544-21f3-11f1-9dfc-c32248ed1622/image/2731fc4dbb0ca9b7d8bd3a9fb054c05b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8614131502.mp3?updated=1773747218",
       "enclosure_type": "audio/mpeg",

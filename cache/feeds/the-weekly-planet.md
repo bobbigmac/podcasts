@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-03-17T07:19:08+00:00`
-- checked_at: `2026-03-17T07:19:08+00:00`
-- etag: `"djEuMi4wOjE3NzM3MjIxODMwMDc="`
+- fetched_at: `2026-03-19T13:43:19+00:00`
+- checked_at: `2026-03-19T13:43:19+00:00`
+- etag: `"djEuMi4wOjE3NzM5MjM0MzkzMjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-03-17T07:19:08+00:00",
+  "fetched_at": "2026-03-19T13:43:19+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "cea56bf0dd43b2f4fccb0e8923de928ce5e69747",
+      "title": "Gamer - Caravan Of Garbage",
+      "published_at": "2026-03-19T12:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/gamer-caravan-of-garbage",
+      "description": "It's time for another look at a movie about and featuring video games but not actually based on a video game. This time it's 2009's Gamer starring Gerard Butler, Logan Lerman, Michael C Hall and directed by Crank duo Mark Neveldine and Brian Taylor. Set in the far distant future of 2034 in a world where the game Slayers (an online third person shooter) uses real life death-row prisoners in a real life murder arena controlled by players safely at home. In many ways it's ahead of it's time and in many other ways it has aged horrible. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69a4e083bbda7540f41bc0ec/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23526838",
+      "itunes_duration": "23:11",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "gamer",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "66189c9027899cfc1429b0562ee028a1f4b0cb0b",
       "title": "614 How to Make a Killing & Supergirl First Reactions",
@@ -21904,6 +21925,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-19 — Gamer - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-03-16 — 614 How to Make a Killing & Supergirl First Reactions — speakers: Maso review, Glen Powell, James Clement, Nick Mason
 - 2026-03-12 — The Last Starfighter - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-03-09 — 613 The Bride! & Lanterns Trailer — speakers: James Clement, Nick Mason
