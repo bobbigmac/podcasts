@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-03-12T19:11:39+00:00`
-- checked_at: `2026-03-12T19:11:39+00:00`
-- etag: `"d00c0-64cd7f1fa1ea0"`
-- last_modified: `Thu, 12 Mar 2026 18:30:21 GMT`
+- fetched_at: `2026-03-19T21:49:12+00:00`
+- checked_at: `2026-03-19T21:49:12+00:00`
+- etag: `"d0ae0-64d66dba77fd8"`
+- last_modified: `Thu, 19 Mar 2026 21:00:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-03-12T19:11:39+00:00",
+  "fetched_at": "2026-03-19T21:49:12+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "67108e70ceac65ba47a7e257ba3872c4e7adacab",
+      "title": "Taskmaster the Podcast Rewind - Series 1 Ep.4 With Nicola Coughlan",
+      "published_at": "2026-03-19T21:00:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "This week we are rewinding back to 2021! Ed is joined by star of Derry Girls, Bridgerton and of course The Taskmaster New Year's Treat 2020 - it's Nicola Coughlan! The pair discuss Nicola's love for the show and how much she enjoyed doing the NY special - despite some questionable decisions from Greg. They also take a deep dive in to Episode 4 of Series 1. This episode includes the ice task, getting to 11 points and some special moments for Josh. Enjoy! To catch up on all the great series and New Year's Treats visit channel4.com Visit the Taskmaster Youtube channel www.youtube.com/taskmaster For all your Taskmaster goodies visit taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/139e9ad8-8417-4d84-ba32-684d9926fbf2.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=139e9ad8-8417-4d84-ba32-684d9926fbf2",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51458777",
+      "itunes_duration": "53:43",
+      "speakers": [
+        "Derry Girls",
+        "Ed Gamble"
+      ],
+      "topics": [
+        "podcast",
+        "rewind",
+        "series",
+        "nicola",
+        "coughlan"
+      ]
+    },
     {
       "key": "7da374b2bfec75373109fc96ade3622652c26a68",
       "title": "Taskmaster Live on Stage - New York Night #2",
@@ -5190,6 +5213,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-19 — Taskmaster the Podcast Rewind - Series 1 Ep.4 With Nicola Coughlan — speakers: Derry Girls, Ed Gamble
 - 2026-03-12 — Taskmaster Live on Stage - New York Night #2 — speakers: New York Night, Ed Gamble
 - 2026-03-04 — Taskmaster Live on Stage - New York Night #1 — speakers: Ed Gamble
 - 2026-02-26 — Taskmaster Live on Stage - Washington D.C. — speakers: Ed Gamble

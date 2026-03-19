@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-03-19T13:43:19+00:00`
-- checked_at: `2026-03-19T13:43:19+00:00`
-- last_modified: `Thu, 19 Mar 2026 12:24:15 GMT`
+- fetched_at: `2026-03-19T21:49:12+00:00`
+- checked_at: `2026-03-19T21:49:12+00:00`
+- last_modified: `Thu, 19 Mar 2026 21:39:35 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-19T13:43:19+00:00",
+  "fetched_at": "2026-03-19T21:49:12+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -154,10 +154,10 @@
       "link": "https://www.patreon.com/cw/brettgoldstein",
       "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with national treasure and acting royalty MEERA SYAL ! Happy new year to one and all! This week Brett is joined by the phenomenal Meera, who has graced our screens for a while now and continues to put out excellence at every turn. It's a real gem of a chat and among all sort of cinematic goodness you'll hear about all things process including planning out novels, the circle of life, what life is like forming the power couple of she and Sanjeev Bhaskar, pre-nostalgia, being very scared through an honest mix-up, and the difficult lessons to be learned through problematic acting choices. A total breeze and a lovely, entertaining catch up with these two! ⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! ⁠ • ⁠ Let Rocket Money help you reach your financial goals faster — join at https://RocketMoney.com/FILMS ⁠ IMDB ⁠ THE REVENGE CLUB TINSEL TOWN KERMODE ON FILM podcast –––––––––– ⁠ BRETT • X ⁠ ⁠ BRETT • INSTAGRAM ⁠ ⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠ ⁠ TED LASSO ⁠ ⁠ SHRINKING ⁠ ⁠ ALL OF YOU ⁠ ⁠ SOULMATES ⁠ ⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/93b88276-eb23-11f0-960c-d3fedccf5556/image/b28f8247e69ea6df917e75c599d7b512.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3465949699.mp3?updated=1767722021",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3465949699.mp3?updated=1773956670",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3391",
+      "itunes_duration": "3330",
       "speakers": [
         "Meera Syal",
         "Brett Goldstein"
@@ -199,10 +199,10 @@
       "link": "https://www.patreon.com/cw/brettgoldstein",
       "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the fabulous actor, producer & director STEVE ZAHN ! Steve's been in so much that at some point in time you simply must have come into contact with his work... For some of you it might have even been show favourite Out Of Sight. For some it might have been relatively recently in the first season of White Lotus - at any rate, Steve's a real one, and truly great in whatever role you might catch him in. This is a really fun knockabout session with Steve and Brett, a really fun time and some great picks from all through time. Enjoy, and be sure to look out for She Dances, Steve's upcoming movie starring his immediate family! ⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! • Rocketmoney.com/films • EXCLUSIVE NordVPN Deal ➼ http://nordvpn.com/brett Try it risk-free now with a 30-day money-back guarantee IMDB SHE DANCES (mini feature) SILO OUT OF SIGHT THE WHITE LOTUS –––––––––– BRETT • X BRETT • INSTAGRAM THE SECOND BEST NIGHT OF YOUR LIFE TED LASSO SHRINKING ALL OF YOU SOULMATES SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/461ca944-dab5-11f0-b7f1-db866da28817/image/d5d37764b4a7a4da4bdff7f5ec8ad74a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD9533172165.mp3?updated=1765914360",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD9533172165.mp3?updated=1773955922",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2865",
+      "itunes_duration": "2742",
       "speakers": [
         "Steve Zahn",
         "Brett Goldstein"
@@ -223,10 +223,10 @@
       "link": "https://www.patreon.com/cw/brettgoldstein",
       "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with a hero of UK comic writing and creator of universes DOUG NAYLOR ! Doug is a hugely important piece of the UK's comic series puzzle, having co-created the iconic sci-fi comedy series Red Dwarf which was a mainstay of primetime viewing. It also made superstars of the cast who were all awesome in their own right. Doug's been involved in a lot of subsequent (and preceding) projects of course, including his book 'Sinbin Island' (aimed at the child readers among us). This is a lovely one with Brett and Doug, covering all sorts including the generation of new material so often, being an author, a potential \"anti-dying on stage device\" which can be applied to life itself, hidden and visible romance in Red Dwarf, his own personal 'bit of a nuisance' and how wearing gloves can be an early signifier of future writing adventures. All will be revealed. Enjoy! ⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! SINBIN ISLAND RED DWARF IMDB BETTER THAN LIFE –––––––––– BRETT • X BRETT • INSTAGRAM THE SECOND BEST NIGHT OF YOUR LIFE TED LASSO SHRINKING ALL OF YOU SOULMATES SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/a6dbb494-d508-11f0-94e1-c72e83a57ab9/image/29fbef42d3ce5ca2e3a5f13b9740260b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3296202266.mp3?updated=1765290217",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3296202266.mp3?updated=1773955857",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3136",
+      "itunes_duration": "3075",
       "speakers": [
         "Doug Naylor",
         "Brett Goldstein"
@@ -297,7 +297,7 @@
       "link": "https://www.patreon.com/cw/brettgoldstein",
       "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the deluxe double-team screenwriting genius pairing of CRAIG MAZIN and JOHN AUGUST ! You may be well versed in the 700+ episode archive of the Scriptnotes podcast, or you may be entirely dehydrated through sheer tear dispensation via Big Fish, or perhaps be a little shaken through exposure to The Last Of Us and/or Chernobyl... Whatever the case - hopefully by now you will have caught at least some of the work generated by these two, as it is a rare thing to have such an insanely great body of work displaying such consistency. A triple-voice dream of an episode which will be sheer indulgence for all movie loving folk, and if you are yet unacquainted with John and Craig, you're about to make some good friends here and hopefully investigate their work after listening... You won't be disappointed. ⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! EXCLUSIVE NordVPN Deal ➼ http://nordvpn.com/brett Try it risk-free now with a 30-day money-back guarantee SCRIPTNOTES podcast SCRIPTNOTES book JOHN'S WEBSITE BIG FISH CHERNOBYL THE LAST OF US –––––––––– BRETT • X BRETT • INSTAGRAM THE SECOND BEST NIGHT OF YOUR LIFE TED LASSO SHRINKING ALL OF YOU SOULMATES SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3b357898-c526-11f0-89f9-c77078baf80a/image/2ef4f3e4d54933713f8ba3da752041a4.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2119199558.mp3?updated=1769819717",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2119199558.mp3?updated=1773955762",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4276",
@@ -323,7 +323,7 @@
       "link": "https://www.patreon.com/cw/brettgoldstein",
       "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the horror movie making phenomenon OSGOOD PERKINS ! For those who don't routinely venture down the path of modern horror, Osgood might be a fixture of the moviemaking world with whom you're yet to become acquainted. Consider this a formal introduction - and for those who've seen his stuff, welcome back! Coming from a very well known parental lineage, Osgood has carved a niche in the horror world transcending the basic facts of who his parents are and planting a flag in a genre which has only been gathering steam and fans in recent years. And while this a calm, collected and sober episode, it's a riveting one offering wisdom, existential nuggets (did you see them back in '74 at the Troubadour? hell of a show), and a huge amount of delightful cinema treats to devour. Catch up on his films if you're in the slightest bit intrigued but otherwise, just enjoy a very satisfying catchup with these two. Enjoy! ⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! ⁠ ⁠ IMDB ⁠ ⁠ LONGLEGS ⁠ ⁠ KEEPER ⁠ ⁠ THE MONKEY ⁠ –––––––––– ⁠ BRETT • X ⁠ ⁠ BRETT • INSTAGRAM ⁠ ⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠ ⁠ TED LASSO ⁠ ⁠ SHRINKING ⁠ ⁠ ALL OF YOU ⁠ ⁠ SOULMATES ⁠ ⁠ SUPERBOB (Brett's 2015 feature film) ⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3939243340.mp3?updated=1769819492",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3939243340.mp3?updated=1773955626",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3199",
