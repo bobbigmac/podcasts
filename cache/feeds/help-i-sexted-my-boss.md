@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-03-19T07:13:52+00:00`
-- checked_at: `2026-03-19T07:13:52+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpNNU1EQXdORE0yT0RRPTo6c2F4ZXNz"`
+- fetched_at: `2026-03-19T19:14:53+00:00`
+- checked_at: `2026-03-19T19:14:53+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpNNU5EQTROelEyTkRjPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-03-19T07:13:52+00:00",
+  "fetched_at": "2026-03-19T19:14:53+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -37,7 +37,7 @@
       "enclosure_url": null,
       "enclosure_type": null,
       "enclosure_length": null,
-      "itunes_duration": "0",
+      "itunes_duration": "32:10",
       "speakers": [
         "William Hanson",
         "Jordan North"
@@ -58,8 +58,8 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1773649245527-e88dba47-4dff-40dc-b47d-411cbec647ad.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69b44803df66983be2b8b889/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=goKlvfpOOnTgYxiqbM75sJzBTeVl3CqftC5jicOc5lY",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": null,
-      "itunes_duration": "0",
+      "enclosure_length": "50203585",
+      "itunes_duration": "52:17",
       "speakers": [
         "Mum’s Bum",
         "William Hanson",
@@ -80,8 +80,8 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1773676056659-358e16ce-cc36-4a57-a163-767e8e8865e3.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69b0438f783e21524b95e29d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Zad9hu0m1o5MLjWstAEyKmUSo0CPeZxcLPBuD1QqmlQ",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": null,
-      "itunes_duration": "0",
+      "enclosure_length": "27046556",
+      "itunes_duration": "28:10",
       "speakers": [
         "William Hanson",
         "Jordan North"
@@ -103,8 +103,8 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1773071381261-234f822a-68bf-4f90-a857-3e1f63b4e328.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69ab04b33bef881531fe1011/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=iaT00iREBJXUnUHF85HcrLKmcs2UK9zGp5JOzIyJ3I8",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": null,
-      "itunes_duration": "0",
+      "enclosure_length": "40448417",
+      "itunes_duration": "42:08",
       "speakers": [
         "William Needs",
         "Soccer Aid",

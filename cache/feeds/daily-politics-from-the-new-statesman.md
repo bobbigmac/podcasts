@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-18T19:18:20+00:00`
-- checked_at: `2026-03-18T19:18:20+00:00`
-- etag: `"djEuMi4wOjE3NzM4NTMyMzk0NjY="`
+- fetched_at: `2026-03-19T19:14:53+00:00`
+- checked_at: `2026-03-19T19:14:53+00:00`
+- etag: `"djEuMi4wOjE3NzM5Mzk2Mzk3MTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-18T19:18:20+00:00",
+  "fetched_at": "2026-03-19T19:14:53+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "f3b981f04640973f0dc2ceaaa12d408dc0ad2811",
+      "title": "Keir Starmer’s cost of living crisis",
+      "published_at": "2026-03-19T17:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/keir-starmers-cost-of-living-crisis",
+      "description": "Keir Starmer’s cost of living crisis At the beginning of this year, Keir Starmer vowed to bring down the cost of living. But as other PMs learned before him, this is often out of the government’s control. The Iran war is threatening to ruin his strategy and Starmer now finds himself in a bind. Anoosh Chakelian is joined by political editor, Ailbhe Rea. READ: https://www.newstatesman.com/politics/uk-politics/2026/03/keir-starmer-is-struggling-to-keep-his-new-years-resolution LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1773937347367-23ce93ed-7a90-4ca3-a70e-76332fed7893.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69bc2391007cdcf83f6eb412/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49601802",
+      "itunes_duration": "25:47",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "keir",
+        "starmer",
+        "cost",
+        "living",
+        "crisis"
+      ]
+    },
     {
       "key": "ac32a0b107d067a13cbe4b74ddb5b13057790802",
       "title": "The new world war",
@@ -30634,6 +30657,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-19 — Keir Starmer’s cost of living crisis — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-18 — The new world war — speakers: Volodymyr Zelensky, Anoosh Chakelian, Oli Dugmore
 - 2026-03-17 — Why you'll never repay your student loan — speakers: Rachel Ree, Anoosh Chakelian, Oli Dugmore
 - 2026-03-16 — Could surging oil prices cause a global depression? — speakers: Anoosh Chakelian, Oli Dugmore
