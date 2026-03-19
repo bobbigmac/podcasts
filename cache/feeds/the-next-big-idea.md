@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-03-19T03:20:17+00:00`
-- checked_at: `2026-03-19T03:20:17+00:00`
-- last_modified: `Thu, 19 Mar 2026 02:00:50 GMT`
+- fetched_at: `2026-03-19T10:01:23+00:00`
+- checked_at: `2026-03-19T10:01:23+00:00`
+- last_modified: `Thu, 19 Mar 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-19T03:20:17+00:00",
+  "fetched_at": "2026-03-19T10:01:23+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,30 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "f36fc2ba98b4f50d31fd5c81376d42b1432cf3e1",
+      "title": "Michael Pollan on Food, Psychedelics and His Next Book",
+      "published_at": "2026-03-19T09:00:00+00:00",
+      "link": null,
+      "description": "Last week, we hosted a members-only Q&A with Michael Pollan. We covered food and diet, his writing process, psychedelics, and dreams. We also got into the microbiome, which happens to be the subject of Michael's new book (and a topic he thinks will fundamentally change how we understand health). The conversation was so good that we thought, Why keep this to ourselves? The episodes we mentioned about the origins of life with Sara Imari Walker? You can listen to them here and here . And if you can’t get enough of Michael — and who can? — here’s our last interview with him. Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠ . Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠. We love getting fan mail. Sponsored By: Bitdefender — Get 30% off your plan at ⁠⁠bitdefender.com/idea⁠⁠ Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠⁠meetfabric.com/nbi⁠⁠ Factor — Head to ⁠⁠⁠factormeals.com/idea50off⁠⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠⁠granola.ai/idea⁠⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP8671304266.mp3?updated=1773885943",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3027",
+      "speakers": [
+        "Michael Pollan",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "michael",
+        "pollan",
+        "food",
+        "psychedelics",
+        "book"
+      ]
+    },
     {
       "key": "80fb249df4105ec76095455a56cf795e444694e9",
       "title": "The Story of Stories",
@@ -7352,6 +7376,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-19 — Michael Pollan on Food, Psychedelics and His Next Book — speakers: Michael Pollan, Rufus Griscom, Caleb Bissinger
 - 2026-03-16 — The Story of Stories — speakers: Stories What, Rufus Griscom, Caleb Bissinger
 - 2026-03-12 — Best Of: How To Connect With Anyone — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-03-09 — A War Correspondent on the Crisis in Iran — speakers: Rufus Griscom, Caleb Bissinger

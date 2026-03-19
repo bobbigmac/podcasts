@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-03-18T19:18:20+00:00`
-- checked_at: `2026-03-18T19:18:20+00:00`
-- etag: `"djEuMi4wOjE3NzM4NjA5NzM0MDA="`
+- fetched_at: `2026-03-19T10:01:23+00:00`
+- checked_at: `2026-03-19T10:01:23+00:00`
+- etag: `"djEuMi4wOjE3NzM5MTA2MTExMjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-03-18T19:18:20+00:00",
+  "fetched_at": "2026-03-19T10:01:23+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -33,7 +33,7 @@
       "title": "Rubbing Shoulders with Mohini Kotecha",
       "published_at": "2026-03-18T01:00:00+00:00",
       "link": "https://shows.acast.com/drunkwomen/episodes/rubbing-shoulders-with-mohini-kotecha",
-      "description": "Today, the hilarious Mohini Kotcheta popped into DWSC HQ to tell us about the time she was well and truly rubbed the wrong way, before giving our hosts a hand with a case that sends fur flying and leaves us all feeling a little bit horse. DWSC eps now drop every Wednesday and every other Friday, so that's at least SIX drops every, single month! Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Today, the hilarious Mohini Kotecha popped into DWSC HQ to tell us about the time she was well and truly rubbed the wrong way, before giving our hosts a hand with a case that sends fur flying and leaves us all feeling a little bit horse. DWSC eps now drop every Wednesday and every other Friday, so that's at least SIX drops every, single month! Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/69b803097ebe44dc8b0ac3d7/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -41,7 +41,6 @@
       "itunes_duration": "52:15",
       "speakers": [
         "Mohini Kotecha",
-        "Mohini Kotcheta",
         "Hannah George",
         "Taylor Glenn"
       ],
@@ -10816,7 +10815,7 @@
 
 ## Episodes (newest first)
 
-- 2026-03-18 — Rubbing Shoulders with Mohini Kotecha — speakers: Mohini Kotecha, Mohini Kotcheta, Hannah George, Taylor Glenn
+- 2026-03-18 — Rubbing Shoulders with Mohini Kotecha — speakers: Mohini Kotecha, Hannah George, Taylor Glenn
 - 2026-03-11 — Haunting Cliff, with Maria McErlane — speakers: Haunting Cliff, Maria McErlane, Hannah George, Taylor Glenn
 - 2026-03-06 — My Drunk Woman Solved a Toaster — speakers: My Drunk Woman Solved, Hannah George, Taylor Glenn
 - 2026-03-04 — Adele Cliff's Original Source — speakers: Adele Cliff, Hannah George, Taylor Glenn

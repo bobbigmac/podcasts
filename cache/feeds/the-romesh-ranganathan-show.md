@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-03-19T03:20:17+00:00`
-- checked_at: `2026-03-19T03:20:17+00:00`
-- last_modified: `Thu, 19 Mar 2026 00:01:00 GMT`
+- fetched_at: `2026-03-19T10:01:23+00:00`
+- checked_at: `2026-03-19T10:01:23+00:00`
+- last_modified: `Thu, 19 Mar 2026 08:08:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/c4cfe1bfcc9a4011d72f8fe272266dac.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-19T03:20:17+00:00",
+  "fetched_at": "2026-03-19T10:01:23+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -32,8 +32,8 @@
       "published_at": "2026-03-19T00:01:00+00:00",
       "link": null,
       "description": "Would Shanthi have an AI boyfriend? Find out in the brand new epsiode where Romesh and Shanthi cover everything from grief role play to the pros and cons of AI and Rom's ChatGPT history. They get into everything from the importance of maths and biology, desert island dilemmas, the danger of tortoises and a chaotic round of snog, marry, avoid featuring some very questionable fictional choices. As always: unexpected, unfiltered, and impossible to predict where it’ll go next. A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 02:30 Shanthi on maths 05:08 Trying out Hannah Fry’s tips 08:45 Rom reads his ChatGPT therapy 09:50 Shanthi and the team catch a stray 11:25 A question on AI 14:40 A role play of grief AI 16:25 A desert island question 20:30 Snog Marry Avoid Disney addition 26:39 A final question on the winter olympics 28:05 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6236347597.mp3",
+      "image_url": "https://megaphone.imgix.net/podcasts/1929d412-22f3-11f1-a03d-df91d2f2b28a/image/0db8f93f5f39f0205f9ab2f3a363bedd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6236347597.mp3?updated=1773907985",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1985",
