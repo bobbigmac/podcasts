@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-03-12T13:36:37+00:00`
-- checked_at: `2026-03-12T13:36:37+00:00`
-- etag: `W/"cd05172aaa2517ac8bb5c89cd873e3be"`
-- last_modified: `Thu, 12 Mar 2026 11:14:31 GMT`
+- fetched_at: `2026-03-19T07:13:52+00:00`
+- checked_at: `2026-03-19T07:13:52+00:00`
+- etag: `W/"d5d5363a6dc80f407e26fb6a2092e424"`
+- last_modified: `Thu, 19 Mar 2026 04:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-03-12T13:36:37+00:00",
+  "fetched_at": "2026-03-19T07:13:52+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "efff859ed7684018054c51e0a57cbcbfcaf60b1f",
+      "title": "Farage’s Wild Week: energy bill stunts and questionable cameo videos",
+      "published_at": "2026-03-19T04:00:00+00:00",
+      "link": "https://audioboom.com/posts/8875657",
+      "description": "Reform UK is getting into the lottery business - inviting people to sign up for a chance to have their energy bills paid for a year. But is the real prize a massive database of voters ahead of the next General Election? Plus - party leader Nigel Farage has been caught saying some pretty questionable stuff for money on Cameo. Is that really the kind of thing we should expect from someone who plans to be our next Prime Minister? Nish and Coco are joined by authors Quinn Slobodian and Ben Tarnoff. Their new book Muskism: A Guide for the Perplexed looks at the billionaire manbaby in a whole new way. If you want to understand what’s driving Musk and what it could mean for all of us - this is the chat for you. And POLITICO’s Anne McElvoy is on hand as the former Labour deputy leader Angela Rayner pops up to point out all the ways Labour is getting it wrong at the moment - subtext: without her they’re lost. Reminder to send in your burning questions for Nish and Coco to psuk@reducedlistening.co.uk CHECK OUT THESE DEALS FROM OUR SPONSORS BABBEL: https://www.babbel.com/PSUK WISE: https://www.wise.com SHOPIFY: https://shopify.co.uk/podsavetheuk GUESTS Quinn Slobodian and Ben Tarnoff, Authors. Muskism: A Guide for the Perplexed Out on March 24th Anne McElvoy, Executive Editor, POLITICO and co-host Politics at Sam and Anne’s USEFUL LINKS The Podcast Show - https://www.thepodcastshowlondon.com/explore-passes Muskism: A Guide for the Perplexed https://www.penguin.co.uk/books/477340/muskism-by-tarnoff-quinn-slobodian-and-ben/9780241805114 CREDITS The Guardian - YouTube The Independent - YouTube Reform UK - YouTube Today in Focus - The Guardian Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43537031.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8875657.mp3?modified=1773860208&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3493",
+      "speakers": [
+        "Wild Week",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "farage",
+        "wild",
+        "week",
+        "energy",
+        "bill",
+        "stunt",
+        "video"
+      ]
+    },
     {
       "key": "26914279e491805d7d8c1e722e89f747518ad85b",
       "title": "The Mandelson Files Are Out",
@@ -3581,6 +3607,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-19 — Farage’s Wild Week: energy bill stunts and questionable cameo videos — speakers: Wild Week, Nish Kumar, Coco Khan
 - 2026-03-12 — The Mandelson Files Are Out — speakers: Nish Kumar, Coco Khan
 - 2026-03-05 — “No Winston Churchill”: is the special relationship over? — speakers: Nish Kumar, Coco Khan
 - 2026-02-26 — Are we stuck in never-ending political scandal? w/Ash Sarkar — speakers: Ash Sarkar, Nish Kumar, Coco Khan

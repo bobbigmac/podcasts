@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-18T21:50:07+00:00`
-- checked_at: `2026-03-18T21:50:07+00:00`
-- etag: `W/"22fb2-vCwFDcOapyaC9Gune2VLUlajH10"`
+- fetched_at: `2026-03-19T07:13:52+00:00`
+- checked_at: `2026-03-19T07:13:52+00:00`
+- etag: `W/"23423-rGMcxg6lTI4qBNpbpooRIU1yWjk"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-18T21:50:07+00:00",
+  "fetched_at": "2026-03-19T07:13:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a944ae984b90a8578cea7c6999ae7ecf70190a8c",
+      "title": "#35 Jon Richardson Podcast with Tom Parry",
+      "published_at": "2026-03-18T17:45:36+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/35-Jon-Richardson-Podcast-with-Tom-Parry-e3gkvor",
+      "description": "#35 Jon Richardson Podcast with Tom Parry",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1773855921718-58ecfd122f895.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117128411/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-18%2F178bf625-cca8-7500-139c-ae6153b233e5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52904192",
+      "itunes_duration": "01:13:26",
+      "speakers": [
+        "Tom Parry"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "parry"
+      ]
+    },
     {
       "key": "42d3b818ac225783270336352af99455439d12a5",
       "title": "#34 Jon Richardson Podcast with Stephen Grant",
@@ -2481,6 +2501,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-18 — #35 Jon Richardson Podcast with Tom Parry — speakers: Tom Parry
 - 2026-03-17 — #34 Jon Richardson Podcast with Stephen Grant — speakers: Stephen Grant
 - 2026-03-16 — #33 Jon Richardson Podcast with Zoe Lyons
 - 2026-03-12 — #32 Jon Richardson Podcast with Dan Atkinson — speakers: Dan Atkinson

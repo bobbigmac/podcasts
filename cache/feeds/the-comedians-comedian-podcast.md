@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-03-18T21:50:07+00:00`
-- checked_at: `2026-03-18T21:50:07+00:00`
-- etag: `"djEuMi4wOjE3NzM4NjU4NjAyNzQ="`
+- fetched_at: `2026-03-19T07:13:52+00:00`
+- checked_at: `2026-03-19T07:13:52+00:00`
+- etag: `"djEuMi4wOjE3NzM5MDAwMzk3MzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-03-18T21:50:07+00:00",
+  "fetched_at": "2026-03-19T07:13:52+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2a31e656f66e83388329352d3456b7fde822aa4d",
+      "title": "Chris Fleming (2019): ComCompendium",
+      "published_at": "2026-03-19T06:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/chris-fleming-2019-comcompendium",
+      "description": "YouTube-famous glam-rock showpig Chris Fleming has amassed a legion of fans through brilliantly funny music videos, such as \"I'm Afraid To Talk To Men\", \"Grad-Student Shuffle\" and \"Polyamorous\". Chris Fleming: Live at The Palace, is now streaming on HBO Max so what better reason to resurface this episode originally released on Halloween in 2019, where we talk about: drowning in stand-up and clawing a way back to shore through developing live work for the internet proving one isn't \"a YouTuber\" the \"restrictive freedom\" of comedy and whether Chris is a real pariah or just a wannabe… Join the Insiders Club at patreon.com/comcompod where you can instantly get access to an exclusive LIVE Insider's Q&A with James from 2021. 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ 30mins of exclusive extra content with Chris ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly-ish Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Catch Up with Chris: Chris Fleming: Live at The Palace, is now streaming on HBO Max! Everything I'm up to: Come and see me LIVE including dates in Bristol , London , Manchester , Stoke , Marlborough, Mach and LA ! Find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1773864106023-6425ac96-cd46-484d-827c-2ef12618eea8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69bb07e46a048c4e8ed1374c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82900816",
+      "itunes_duration": "57:33",
+      "speakers": [
+        "Chris Fleming",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "chris",
+        "fleming",
+        "comcompendium"
+      ]
+    },
     {
       "key": "bef7631087dd10f7b15ec33945824faf31648df0",
       "title": "Joyelle Nicole Johnson",
@@ -11250,6 +11271,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-19 — Chris Fleming (2019): ComCompendium — speakers: Chris Fleming, Stuart Goldsmith
 - 2026-03-12 — Joyelle Nicole Johnson — speakers: Joyelle Nicole Johnson, Stuart Goldsmith
 - 2026-03-06 — James Acaster | Hecklers Welcome (2024): ComCompendium — speakers: James Acaster, Hecklers Welcome, Stuart Goldsmith
 - 2026-02-27 — Ken Cheng — speakers: Ken Cheng Ken Cheng, Stuart Goldsmith
