@@ -14879,6 +14879,28 @@
         "feed_slug": "external:apple:f0e5f1b08719",
         "feed_title": "Alex Horne Breaks the News",
         "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
+        "dedupe_key": "ed73866390a63c1b547a859fba40d6592407d580",
+        "episode_key": "ed73866390a63c1b547a859fba40d6592407d580",
+        "title": "Alex Horne, Angelos Epithemiou, Nat Luurtsema and Mark Everitt",
+        "published_at": "2013-06-28T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Nat Luurtsema and Angelos Epithemiou join Alex in our very first news special. Not wanting to miss out on the main talking point of last year, we thought we'd reminisce and join the bandwagon, even if it is 11 months too late. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-angelos-epithemiou-nat-luurtsema-and-mark-everitt/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-angelos-epithemiou-nat-luurtsema-and-mark/id1133204823?i=1000372293456&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f0e5f1b08719",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
         "dedupe_key": "88b6dd6e4e729951ed3615f374eeca848fd5d992",
         "episode_key": "88b6dd6e4e729951ed3615f374eeca848fd5d992",
         "title": "Alex Horne, Sean Hughes, Katy Wix and Joaquin Phoenix(ish)",

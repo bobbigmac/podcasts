@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-03-18T19:18:20+00:00`
-- checked_at: `2026-03-18T19:18:20+00:00`
-- last_modified: `Wed, 18 Mar 2026 17:42:00 GMT`
+- fetched_at: `2026-03-19T03:20:17+00:00`
+- checked_at: `2026-03-19T03:20:17+00:00`
+- last_modified: `Thu, 19 Mar 2026 00:00:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-18T19:18:20+00:00",
+  "fetched_at": "2026-03-19T03:20:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "2e398d728526272d8ab505f152d8c04c0741f33c",
+      "title": "513. Inside Iran: The Country Trump Cannot Control? (Question Time)",
+      "published_at": "2026-03-19T00:00:00+00:00",
+      "link": null,
+      "description": "Why are the US and the West as a whole so bad at understanding the cultures of other countries, including Iran, and what do they miss as a result? How will the Iran war unfold over the next six months? Has Trump unleashed a war he ultimately cannot control or end? Rory, Alastair, and Iran expert Karim Sadjadpour answer all these questions and more. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus: Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. To sign up and for terms and conditions, visit fuseenergy.com/politics . __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Vasco Andrade, Lorcan Moullier Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a7c77eba-2233-11f1-a544-fb2548d4991c/image/ef5e1d5a541edc18b718378f6f2af959.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7167583763.mp3?updated=1773856010",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3204",
+      "speakers": [
+        "Inside Iran",
+        "Question Time"
+      ],
+      "topics": [
+        "iran",
+        "country",
+        "trump",
+        "question",
+        "time"
+      ]
+    },
     {
       "key": "03ea2e0bf96755a89e35848c6aa14d28441e55c9",
       "title": "512. Trump’s Iran Disaster and the GB News Propaganda Machine",
@@ -11330,6 +11353,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-19 — 513. Inside Iran: The Country Trump Cannot Control? (Question Time) — speakers: Inside Iran, Question Time
 - 2026-03-18 — 512. Trump’s Iran Disaster and the GB News Propaganda Machine
 - 2026-03-11 — 511. Is Blair Undermining Starmer on Iran? (Question Time) — speakers: Blair Undermining Starmer
 - 2026-03-09 — 510. How The Iran War Is Spiralling Into a Global Crisis

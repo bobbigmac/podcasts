@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-03-18T19:18:20+00:00`
-- checked_at: `2026-03-18T19:18:20+00:00`
-- last_modified: `Wed, 18 Mar 2026 17:19:59 GMT`
+- fetched_at: `2026-03-19T03:20:17+00:00`
+- checked_at: `2026-03-19T03:20:17+00:00`
+- last_modified: `Thu, 19 Mar 2026 00:05:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-18T19:18:20+00:00",
+  "fetched_at": "2026-03-19T03:20:17+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "0e0d999df63f8074cb03701e18113683cc11a997",
+      "title": "Are Celebrities Being Cloned?",
+      "published_at": "2026-03-19T00:05:00+00:00",
+      "link": null,
+      "description": "Is there more than one Jim Carrey? What length do the production team on Would I Like To You go to track down a panelists mystery guest? Just how do you keep cameras out of shots that feature mirrors? Richard and Marina tackle some of your questions from The Rest Is Entertainment inbox. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Max Archer Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Neil Fearn Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8935f7d0-22e5-11f1-b343-336f3ec064e0/image/527d517e58fe3df6dcfc515481f1370f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4900681968.mp3?updated=1773854689",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2129",
+      "speakers": [
+        "Jim Carrey",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "celebrities"
+      ]
+    },
     {
       "key": "c06cdca5b797453180374529b82e063fbd7b8f7c",
       "title": "The Oscars: Drama, Fallout and Chalamet’s Shocker",
@@ -5421,6 +5441,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-19 — Are Celebrities Being Cloned? — speakers: Jim Carrey, Richard Osman, Marina Hyde
 - 2026-03-16 — The Oscars: Drama, Fallout and Chalamet’s Shocker — speakers: Shocker Will, Richard Osman, Marina Hyde
 - 2026-03-12 — Tim Davie on BAFTA, Mistakes and the BBC’s Future — speakers: Tim Davie, Richard Osman, Marina Hyde
 - 2026-03-10 — The Harry Styles Conspiracy — speakers: Harry Styles, Richard Osman, Marina Hyde
