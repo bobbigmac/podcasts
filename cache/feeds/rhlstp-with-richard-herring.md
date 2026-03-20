@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-18T07:17:30+00:00`
-- checked_at: `2026-03-18T07:17:30+00:00`
-- etag: `"djEuMi4wOjE3NzM4MDYyNTkyNjY="`
+- fetched_at: `2026-03-20T07:13:50+00:00`
+- checked_at: `2026-03-20T07:13:50+00:00`
+- etag: `"djEuMi4wOjE3NzM5NzkwNTkzNDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-18T07:17:30+00:00",
+  "fetched_at": "2026-03-20T07:13:50+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2701686f867416d92fb97a32a4f480f1ce604360",
+      "title": "RHLSTP Book Club 174 - Zakia Sewell",
+      "published_at": "2026-03-20T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #174 - Finding Albion - Richard is back at the Podcast Room talking to DJ and probably the coolest person who has ever been on Book Club (not much contest) Zakia Sewell. They chat about her quest to discover the roots of Britishness in our folk traditions, whether Morris Men are good or evil and why some of them refuse to give up the dodgier aspects of the craft, Cheddar Man and how little his family travelled in 10,000 years, what the idea of indigenous Britain might even mean, confronting the less admirable aspects of British history and present, dressing up as a wolf in Cornwall,why the rest of the world should be grateful to England and what are Zakia’s hopes for the future? Buy the book here - https://uk.bookshop.org/p/books/finding-albion-myth-folklore-and-the-quest-for-a-hidden-britain-longlisted-for-the-women-s-prize-for-non-fiction-2026-zakia-sewell/ac1b8680af0c4bba SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1773000742972-d34e3fbd-b555-4b7a-8929-7bc57229bd19.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69add3087036d7390290a5b7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23268546",
+      "itunes_duration": "45:43",
+      "speakers": [
+        "Book Club",
+        "Zakia Sewell",
+        "Finding Albion",
+        "Richard Herring"
+      ],
+      "topics": [
+        "rhlstp",
+        "book",
+        "club",
+        "zakia",
+        "sewell"
+      ]
+    },
     {
       "key": "aff2c4baec8dd2fe8d0fb666258c95f2e0bf9ca3",
       "title": "RHLSTP 603 - Vittorio Angelone",
@@ -21804,6 +21829,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-20 — RHLSTP Book Club 174 - Zakia Sewell — speakers: Book Club, Zakia Sewell, Finding Albion, Richard Herring
 - 2026-03-18 — RHLSTP 603 - Vittorio Angelone — speakers: Board Rich, Richard Herring
 - 2026-03-16 — Retro RHLSTP 137 - Zoe Lyons — speakers: Bag Vulva Richard, Richard Herring
 - 2026-03-14 — RAACN week 7 — speakers: Khamanei Closer Newsround, Richard Herring

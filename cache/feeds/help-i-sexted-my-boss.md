@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-03-19T19:14:53+00:00`
-- checked_at: `2026-03-19T19:14:53+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpNNU5EQTROelEyTkRjPTo6c2F4ZXNz"`
+- fetched_at: `2026-03-20T07:13:50+00:00`
+- checked_at: `2026-03-20T07:13:50+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpNNU9EWXpPREF3TWpnPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-03-19T19:14:53+00:00",
+  "fetched_at": "2026-03-20T07:13:50+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,13 +30,13 @@
     {
       "key": "aa32c6eeb81f70c912ed7f5422b2a86b302eb469",
       "title": "Old People Foreplay | And Nostalgic LADS Mags",
-      "published_at": "2026-03-19T06:00:00+00:00",
+      "published_at": "2026-03-20T05:59:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/old-people-foreplay-and-nostalgic-lads-mags",
-      "description": "After William got a telling-off from Jordan for being too old to use certain emojis, the boys are back to debating all the things we're too old to do - and why some things are better when you're older! There's also plenty of discussion on lads' mags, seeing ghosts and why metal detectorists give William the ick. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "After William got a telling-off from Jordan for being too old to use certain emojis, the boys are back to debating all the things we're too old to do - and why some things are better when you're older! There's also plenty of discussion on lads' mags, seeing ghosts and why metal detectorists give William the ick. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1773849811855-0b154b5a-bd6b-48ea-93f7-9271e0da1a91.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69baae24f6d7424a537d2f44/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=_1OtV-uN-Zkp-Wi6_Z21fTsP80mNnbHTcRGBYUTrAzA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30882586",
       "itunes_duration": "32:10",
       "speakers": [
         "William Hanson",
@@ -13945,7 +13945,7 @@
 
 ## Episodes (newest first)
 
-- 2026-03-19 — Old People Foreplay | And Nostalgic LADS Mags — speakers: William Hanson, Jordan North
+- 2026-03-20 — Old People Foreplay | And Nostalgic LADS Mags — speakers: William Hanson, Jordan North
 - 2026-03-17 — Help He Slaps His Mum’s Bum | And Jordan’s The Star ⭐️ — speakers: Mum’s Bum, William Hanson, Jordan North
 - 2026-03-13 — William's Masc?! | And Jolly Joke Surprise — speakers: William Hanson, Jordan North
 - 2026-03-10 — Help His Allergy Gives Me The Ick | And William Needs To Grow Up — speakers: William Needs, Soccer Aid, William Hanson, Jordan North

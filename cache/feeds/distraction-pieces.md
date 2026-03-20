@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-03-18T07:17:30+00:00`
-- checked_at: `2026-03-18T07:17:30+00:00`
-- etag: `"djEuMi4wOjE3NzM4MDY1MDAxNDE="`
+- fetched_at: `2026-03-20T07:13:50+00:00`
+- checked_at: `2026-03-20T07:13:50+00:00`
+- etag: `"djEuMi4wOjE3NzM5NzkzMDAxMTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-03-18T07:17:30+00:00",
+  "fetched_at": "2026-03-20T07:13:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f482c347108700cc40af393ed34cfed0ad58ef99",
+      "title": "SHAGGY (It Wasn't Me / Boombastic / Oh! Carolina) • Friday Rewind",
+      "published_at": "2026-03-20T04:01:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Shaggy , originally episode 528 from 2023-08-23. Original writeup below: Very broadly speaking, a lot of you will know Shaggy as Mr Boombastic, or the guy who did Oh Carolina and It Wasn't Me. But dig a little deeper and there are worlds of releases and shows and all sorts of stories from the past that are just too exciting and interesting to pass up on... And that's what makes this last minute convo with Pip and Shaggy so awesome! It's the stories behind the hits that are amazing, and the historical signifigance of them too. But in that world, of course there will be all kinds of run-ins, collabos, tales and amazing anecdotes, and Shaggy delivers on all counts. So whether you're a full on dancehall reggae appreciator or someone who remembers the name, don't miss this one - it's super entertaining and a fascinating trip from start to end. PIP'S PATREON PAGE if you're of a supporting nature ONLINE INSTAGRAM ONE FINE DAY FESTIVAL w/ STING KENNY DOPE & SHAGGY (Buddy's pick!) OH CAROLINA IT WASN'T ME BOOMBASTIC PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1773772869936-3e57003f-3314-483e-9131-746c8aed0316.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69b9a078b64f8985fe63e98f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113407865",
+      "itunes_duration": "47:11",
+      "speakers": [],
+      "topics": [
+        "shaggy",
+        "carolina",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "3855e6605c025011819be52ee32ef06823504750",
       "title": "FATIHA EL-GHORRI • 'Cockney Stacking Doll' tour happening now near you! #663",
@@ -18430,6 +18449,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-20 — SHAGGY (It Wasn't Me / Boombastic / Oh! Carolina) • Friday Rewind
 - 2026-03-18 — FATIHA EL-GHORRI • 'Cockney Stacking Doll' tour happening now near you! #663
 - 2026-03-13 — SIMON PEGG from 2014 (Mission Impossible series / Star Trek / Hot Fuzz) • Friday Rewind
 - 2026-03-11 — LENA HEADEY • how to navigate the maze of the acting world #662

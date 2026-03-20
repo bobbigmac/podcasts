@@ -8421,6 +8421,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:bb2224026702",
+        "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
+        "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",
+        "dedupe_key": "5472a0f1afc976c5b9726060f542545f92e46211",
+        "episode_key": "5472a0f1afc976c5b9726060f542545f92e46211",
+        "title": "Episode 224 – Richard Herring / Receipt",
+        "published_at": "2023-10-08T11:21:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "A disgusting texter, a disgusting album title, and a disgusting former-Liverpool midfielder all up for discussion this week.\nThanks for downloading the podcast – remember, you can be an Early Worm and catch the show live on Radio X every Sunday 8am – 11am.\nGet in touch on sunday@radiox.co.uk\n@EdGambleComedy\n@matthewcro",
+        "audio_url": "https://dax.captivate.fm/35bb3ad5-4648-4b8f-bb84-2d6a6ebddc9e/Podcast-FINAL-encoded.mp3?aw_0_1st.showid=271ada40-4f74-48dc-8db5-08c3d4d8378e&aw_0_1st.episodeid=d07bf844-c158-411a-a9b1-9dce867b0c8e",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-224-richard-herring-receipt/id1467168361?i=1000630587144&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
@@ -16645,6 +16667,28 @@
         "description": "Are cats real people? Is the phrase 'turtle head' rude? All questions that will be answered on this week's podcast! Plus - Lou Sanders becomes an Agony Aunt for our listeners. You can get all the information about her tour at www.lousanders.com\n\nThanks for downloading the podcast – remember, you can be an Early Worm an",
         "audio_url": "https://dax.captivate.fm/d1c68a15-1385-4e46-b8a9-a1346685cb01/774e78c9-3eea-42ee-83e3-8cdbaa5444cd.mp3?aw_0_1st.showid=271ada40-4f74-48dc-8db5-08c3d4d8378e&aw_0_1st.episodeid=f5a5e955-08ed-4273-8f70-3db906a2b047",
         "link_url": "https://podcasts.apple.com/gb/podcast/episode-22-kill-cats-woah-woah/id1467168361?i=1000455128745&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f7b0ad5c7df5",
+        "feed_title": "Pappy's Flatshare",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR6478712326",
+        "dedupe_key": "198922015c7ca392bba687b030262dd1379cdd5a",
+        "episode_key": "198922015c7ca392bba687b030262dd1379cdd5a",
+        "title": "Beef Brothers Cold Cuts w/ Lou Sanders S9E8",
+        "published_at": "2019-05-20T23:00:13Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The Beef Brothers are here to sort out your beef with special guest Lou Sanders\nLou Sanders - https://twitter.com/LouSanders\nPappy’s - https://twitter.com/pappystweet\n\nIf you have a flatshare based beef you'd like us to solve then send it to beefbrotherspodcast@gmail.com\n\nSupport us on Patreon - https://www.patreon.com",
+        "audio_url": "https://traffic.megaphone.fm/NSR9673025736.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/beef-brothers-cold-cuts-w-lou-sanders-s9e8/id437801391?i=1000438928704&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
