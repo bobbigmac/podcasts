@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-03-19T03:20:17+00:00`
-- checked_at: `2026-03-19T03:20:17+00:00`
-- last_modified: `Thu, 19 Mar 2026 03:00:00 GMT`
+- fetched_at: `2026-03-20T03:10:06+00:00`
+- checked_at: `2026-03-20T03:10:06+00:00`
+- last_modified: `Fri, 20 Mar 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-19T03:20:17+00:00",
+  "fetched_at": "2026-03-20T03:10:06+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,26 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "69789dac9a9f7dabd4183f5e08531c76ed0a4de7",
+      "title": "S15 Ep 800 Listener’s Mailbag: More One In A Million!",
+      "published_at": "2026-03-20T03:00:00+00:00",
+      "link": null,
+      "description": "With so many One In A Million emails in the mailbag at the moment, David and Joe decide to dedicate the whole of today's show to them. So, there’s tales about a holiday park bingo win, an uncanny premonition, a rather confusing story about someone’s escape from an orgy, two tall celebrities and a superb cigarette catch at a concert. That really is, One In A Million! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3442390264.mp3?updated=1773753862",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2578",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag"
+      ]
+    },
     {
       "key": "db12159b9284e67903bc70fb3a48b13f6f157e13",
       "title": "S15 Ep 799: 14 Vol-Au-Vents and A Grilled Chick Wrap",
@@ -14015,6 +14035,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-20 — S15 Ep 800 Listener’s Mailbag: More One In A Million! — speakers: Joe Wilkinson, David Earl
 - 2026-03-19 — S15 Ep 799: 14 Vol-Au-Vents and A Grilled Chick Wrap — speakers: Grilled Chick Wrap David, Joe Wilkinson, David Earl
 - 2026-03-18 — S15 Ep 798: TV Joe’s Name That Tune — speakers: Joe’s Name, Joe Wilkinson, David Earl
 - 2026-03-17 — S15 Ep 797: David’s Handsome Man and Joe’s Military Camper Van — speakers: David’s Handsome Man, Joe Wilkinson, David Earl

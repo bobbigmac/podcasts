@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-03-19T16:09:15+00:00`
-- checked_at: `2026-03-19T16:09:15+00:00`
-- last_modified: `Thu, 19 Mar 2026 15:04:58 GMT`
+- fetched_at: `2026-03-20T03:10:06+00:00`
+- checked_at: `2026-03-20T03:10:06+00:00`
+- last_modified: `Fri, 20 Mar 2026 00:15:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-19T16:09:15+00:00",
+  "fetched_at": "2026-03-20T03:10:06+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2be0a668d4563353d9522c65c4194796a475124e",
+      "title": "Toilet emergencies, PhDs and Bon Jovi",
+      "published_at": "2026-03-20T00:01:00+00:00",
+      "link": null,
+      "description": "Can you listen to comedy while running? Do you get anxious about future plans? Is Rom vegan enough? And should you get a squatty potty? It’s Fri-yay baby and time to answer more of your questions! If you’ve got a problem you need solving or a burning question, your agony uncles are here for you every week just email us at wolfowlpod@gmail.com A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 01:33 Vegan Campout 07:13 Gary Neville 08:15 The dry, wet, dry regime 09:20 Squatty potty and wiping 12:40 Film talk 13:58 Running and playlists 19:31 Plans and anxiety Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5cc4a728-220e-11f1-b67b-1fb9e8b5e7d6/image/1bb262b7acf48be0ba9006c9698f8ee4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1788338127.mp3?updated=1773932991",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1583",
+      "speakers": [
+        "Bon Jovi",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "toilet",
+        "emergency",
+        "phds",
+        "jovi"
+      ]
+    },
     {
       "key": "49b02d6763e6a2bf90554405edab3057b5a7dc23",
       "title": "The Banter Cannon, the Guff Lounge and the Mullet",
@@ -6335,6 +6358,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-20 — Toilet emergencies, PhDs and Bon Jovi — speakers: Bon Jovi, Romesh Ranganathan, Tom Davis
 - 2026-03-17 — The Banter Cannon, the Guff Lounge and the Mullet — speakers: Guff Lounge, Mullet Too, Romesh Ranganathan, Tom Davis
 - 2026-03-13 — Viagra, Phone Voices, Farting Furniture - and other listener dilemmas — speakers: Phone Voices, Farting Furniture, Romesh Ranganathan, Tom Davis
 - 2026-03-10 — Eyebrow accidents, a lack of aura and Dungeons & Dragons — speakers: Romesh Ranganathan, Tom Davis

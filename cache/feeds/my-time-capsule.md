@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-03-17T16:18:45+00:00`
-- checked_at: `2026-03-17T16:18:45+00:00`
-- etag: `"djEuMi4wOjE3NzM3NjE5MDg3NDU="`
+- fetched_at: `2026-03-20T03:10:06+00:00`
+- checked_at: `2026-03-20T03:10:06+00:00`
+- etag: `"djEuMi4wOjE3NzM5NjQ5NjAxMzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-03-17T16:18:45+00:00",
+  "fetched_at": "2026-03-20T03:10:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "bfb616f17c1ab092b8175fce134c06b2a00d2889",
+      "title": "Ep. 571 - Rosalie Minnitt - Award-winning comedy performer, best known for her character Clementine",
+      "published_at": "2026-03-20T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-571-rosalie-minnitt-award-winning-comedy-performer-best-k",
+      "description": "Rosalie Minnitt is an award-winning comedy writer and performer, best known for her character Clementine. In 2025, her work as Clementine won both the Funny Women Shorts Award and the Chortle Industry Award. Her debut Edinburgh Fringe debut in 2023, sold out its run, transferred to Soho Theatre for three further sold-out runs, and went on to a sold-out UK tour in 2025. It also listed in the Telegraph’s Funniest Shows at the Fringe, was one of the British Comedy Guide’s Top Reviewed Shows and was in the Guardian’s Top Ten Comedy shows of 2023. She has written sketches for Horrible Science (CBBC) and was in the latest Alan Partridge series, How Are You? It's Alan (Partridge). Rosalie Minnitt is our guest in episode 571 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Tickets for Rosalie's tour as Clementine - https://linktr.ee/rosalieminnitt . Listen to Rosalie Minnitt’s Radio4 pilot, Lady Clementine's Looking For Love, on BBC Sounds - https://www.bbc.co.uk/sounds/play/m002rdb9 . Follow Rosalie Minnit on Instagram : @rosalieminnitt . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69b9757413cca38a33eaebb6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "190627964",
+      "itunes_duration": "1:19:25",
+      "speakers": [
+        "Rosalie Minnitt"
+      ],
+      "topics": [
+        "rosalie",
+        "minnitt",
+        "award",
+        "comedy",
+        "performer",
+        "character",
+        "clementine"
+      ]
+    },
     {
       "key": "de907c3c1485b85f6e4a29c1a39cda7a63d741d9",
       "title": "Ep. 570 - Davina Bentley - One of The Telegraph’s “Five Young Sketch Comedians to Watch.”",
@@ -12140,6 +12164,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-20 — Ep. 571 - Rosalie Minnitt - Award-winning comedy performer, best known for her character Clementine — speakers: Rosalie Minnitt
 - 2026-03-16 — Ep. 570 - Davina Bentley - One of The Telegraph’s “Five Young Sketch Comedians to Watch.” — speakers: Davina Bentley
 - 2026-03-13 — Ep. 569 - Special Compilation - featuring Angus Deayton, Joe Pasquale, Tommy Cannon, Jayde Adams, Mark Simmons & Ed Patrick — speakers: Angus Deayton, Joe Pasquale, Tommy Cannon, Jayde Adams, Mark Simmons, Ed Patrick
 - 2026-03-09 — Ep. 568 - Beattie Edmondson - Best known for Josh Widdicombe’s sitcom Josh & Disney feature film Patrick — speakers: Beattie Edmondson, Josh Widdicombe, Patrick Beattie Edmondson
