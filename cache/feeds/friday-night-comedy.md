@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-03-19T16:09:15+00:00`
-- checked_at: `2026-03-19T16:09:15+00:00`
-- etag: `"3fbbff94a3e543f1cc5d2dd38d64bbe2"`
-- last_modified: `Thu, 19 Mar 2026 15:27:03 GMT`
+- fetched_at: `2026-03-20T19:06:43+00:00`
+- checked_at: `2026-03-20T19:06:43+00:00`
+- etag: `"c1094ada85dcef27a35fe8721aaf41e2"`
+- last_modified: `Fri, 20 Mar 2026 19:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-  "fetched_at": "2026-03-19T16:09:15+00:00",
+  "fetched_at": "2026-03-20T19:06:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "8592cb5dc02d14350db36e2e10249da1558e0305",
+      "title": "The Naked Week: Ep2. The Naked Week team party like it's the 2003 Iraq War.",
+      "published_at": "2026-03-20T19:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n647bc",
+      "description": "The Naked Week team party like it's the 2003 Iraq War, and then re-enact it with the help of a Viking. From The Skewer’s Jon Holmes and host Andrew Hunter Murray comes The Naked Week, a fresh way of dressing the week’s news in the altogether and parading it around for everyone to laugh at. With award-winning writers and a crack team of contemporary satirists - and recorded in front of a live audience - The Naked Week delivers an topical news-nude straight to your ears. Written by: Jon Holmes Katie Sayer Gareth Ceredig James Kettle Jason Hazeley Additional Material: Karl Minns Ali Panting Helen Brooks Pete Redfern Cooper Mawhinny Sweryt Joe Topping Darren Phillips Investigation: Cat Neilan Guests: Rosie Holt, Jimmy The 11th Century Welsh Viking. Production Team: Tony Churnside, Jerry Peal, David Riffkin. Production Coordinator: Molly Punshon Assistant Producer: Katie Sayer Executive Producer: Philip Abrams Produced and Directed by Jon Holmes An unusual production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n6k3t3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [],
+      "topics": [
+        "naked",
+        "week",
+        "team",
+        "party",
+        "iraq"
+      ]
+    },
     {
       "key": "d866631f7bd8357b8f4198abd27a52c810517aad",
       "title": "The Naked Week: Ep1. War, Law, and Operation Amol Rajan.",
@@ -5486,6 +5506,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-20 — The Naked Week: Ep2. The Naked Week team party like it's the 2003 Iraq War.
 - 2026-03-13 — The Naked Week: Ep1. War, Law, and Operation Amol Rajan. — speakers: Amol Rajan
 - 2026-03-06 — The News Quiz: Ep8. Flight risks and fly-tips — speakers: Joining Andy, Simon Evans, Cindy Yu, Ahir Shah
 - 2026-02-27 — The News Quiz: Ep7. The worst birthday ever

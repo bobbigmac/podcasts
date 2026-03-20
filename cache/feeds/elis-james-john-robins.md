@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-03-17T16:18:45+00:00`
-- checked_at: `2026-03-17T16:18:45+00:00`
-- etag: `"a81f7c5382fa788c356d3620e9ec57a3"`
-- last_modified: `Tue, 17 Mar 2026 16:00:06 GMT`
+- fetched_at: `2026-03-20T19:06:43+00:00`
+- checked_at: `2026-03-20T19:06:43+00:00`
+- etag: `"9903d4d77a7d29bc1a7f690743ddcf66"`
+- last_modified: `Fri, 20 Mar 2026 17:05:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-03-17T16:18:45+00:00",
+  "fetched_at": "2026-03-20T19:06:43+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -29,6 +29,31 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "401ccdd398c3e27905e426696eae29aa11585a52",
+      "title": "#524 - The Purple Pill, Hits & Mems and John Robins In The Manosphere",
+      "published_at": "2026-03-20T17:05:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n7ww1z",
+      "description": "It’s all Hits and Mems today as we imagine two media worlds that John Robins could have inhabited. These being: Bristol local radio (1-4pm) and the manosphere. Traffic, travel and the afternoon countdown to the pub, or grifting? Two forks in the road he could have gone down, but thankfully hasn’t. Safe to say his imagination is in fervent overdrive as we also hear of a world where he has $10 million… and won an Oscar. But what of Elis? Well he may have a heart attack. We also receive a right of reply from a disgraced Global Radio employee trying to clear his name, and there’s an all time great Mad Dad story of a father in a cultural vacuum. Do you possess anything mildly amusing which could pique our interest? Well elisandjohn@bbc.co.uk is the place to send it. And do get on the blooming Bureau on a Saturday why don’t you?",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n7whd7.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57952000",
+      "itunes_duration": "3622",
+      "speakers": [
+        "John Robins",
+        "Elis James"
+      ],
+      "topics": [
+        "purple",
+        "pill",
+        "hits",
+        "mems",
+        "john",
+        "robins",
+        "manosphere"
+      ]
+    },
     {
       "key": "73802e545d0c76b7a5b77d6c8c3d99347622e28b",
       "title": "#523 - Tender Thomas, A Good Beast and Checkout Confidential",
@@ -12658,6 +12683,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-20 — #524 - The Purple Pill, Hits & Mems and John Robins In The Manosphere — speakers: John Robins, Elis James
 - 2026-03-17 — #523 - Tender Thomas, A Good Beast and Checkout Confidential — speakers: Checkout Confidential, Elis James, John Robins
 - 2026-03-13 — #522 - Fast Twitch Diplomacy, Jeez & Onion and To Do With The Weavers — speakers: Elis James, John Robins
 - 2026-03-10 — #521 - Subversive Regional, Call Roger Bannister and All At Sea in a Brandscape — speakers: Roger Bannister, John Robins, Elis James
