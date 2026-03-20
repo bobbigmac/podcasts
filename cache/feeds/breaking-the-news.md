@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-03-19T16:09:15+00:00`
-- checked_at: `2026-03-19T16:09:15+00:00`
-- etag: `"85895be057924b1441fe548cf282a1e4"`
-- last_modified: `Thu, 19 Mar 2026 14:00:12 GMT`
+- fetched_at: `2026-03-20T13:34:33+00:00`
+- checked_at: `2026-03-20T13:34:33+00:00`
+- etag: `"dfa0b7fd33dd1323d857bb54bb9b7991"`
+- last_modified: `Fri, 20 Mar 2026 11:02:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-03-19T16:09:15+00:00",
+  "fetched_at": "2026-03-20T13:34:33+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -162,26 +162,6 @@
       "topics": [
         "year"
       ]
-    },
-    {
-      "key": "b3a1660af54965050eb13f835b31b82605d24aec",
-      "title": "The Best of Unbroadcast",
-      "published_at": "2025-12-26T14:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m002nvsm",
-      "description": "Join Des Clarke for all the hilarious previously unbroadcast material from Breaking The News in 2025. It’s your chance to get the full live recording experience as we present to you the finest quips and stories and outtakes from the year. Producer: Chris Quilietti Series Producer: David Flynn In order of appearance: Diona Doherty Sam Lake Jay Lafferty Mark Nelson Kemah Bob Amy Matthews Gareth Waugh Krystal Evans Liam Withnail Ashley Storrie Robin Ince Marjolein Robertson Ria Lina Raymond Mearns Stuart Mitchell Susie McCabe Felicity Ward Athena Kugblenu Jim Smith Marc Jennings Chris Forbes Tiff Stevenson Ignacio Lopez",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mpm3y5.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26880000",
-      "itunes_duration": "1680",
-      "speakers": [
-        "Unbroadcast Join Des Clarke",
-        "Bbc Radio Scotland"
-      ],
-      "topics": [
-        "best",
-        "unbroadcast"
-      ]
     }
   ]
 }
@@ -195,4 +175,3 @@
 - 2026-02-27 — Jay Lafferty, Robin Ince, Sam Lake and Amanda Hursy — speakers: Jay Lafferty, Robin Ince, Sam Lake, Peter Mandelson, Bbc Radio Scotland
 - 2026-02-20 — Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd and Val McDermid — speakers: Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd, Val McDermid Des, Andrew Mountbatten-Windsor, Bbc Radio Scotland
 - 2026-01-01 — Breaking the Year — speakers: Bbc Radio Scotland
-- 2025-12-26 — The Best of Unbroadcast — speakers: Unbroadcast Join Des Clarke, Bbc Radio Scotland

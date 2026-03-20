@@ -17188,6 +17188,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:afe0f37d3942",
+        "feed_title": "The Daily Heretic",
+        "source_rss_url": "https://feeds.megaphone.fm/OTEP5129963398",
+        "dedupe_key": "bb5852348392bebe9e0a00eac7a40df111310a9e",
+        "episode_key": "bb5852348392bebe9e0a00eac7a40df111310a9e",
+        "title": "Graham Linehan - Comedian Stewart Lee is the Absolute WORST",
+        "published_at": "2025-12-08T08:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "He wrote Father Ted, The IT Crowd, Black Books and Brass Eye — but now Graham Linehan is more famous for being one of Britain’s most cancelled comedians. In this explosive interview on Heretics, Andrew Gold sits down with Graham to uncover the truth about how comedy lost its edge, why the industry has turned against hi",
+        "audio_url": "https://traffic.megaphone.fm/OTEP3089289616.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/graham-linehan-comedian-stewart-lee-is-the-absolute-worst/id1851429469?i=1000740185615&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:86e8d6833f90",
         "feed_title": "Strong Message Here",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
@@ -19032,6 +19054,28 @@
         "description": "RHLSTP #41: Josie Long - Fruit Pastille Lolly. After being unnecessarily rude to his audience again, Richard introduces this week's guest, comedian, cartoonist and film maker, Josie Long. They chat about sharing car journeys with Stewart Lee's misbehaving (embodied) anus, how to respond to Twitter abuse, suncream that ",
         "audio_url": "https://sphinx.acast.com/rhlstp/rhlstp-41-josie-long/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/rhlstp-41-josie-long/id520831548?i=1000304634355&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:4ad33eedca96",
+        "feed_title": "The Nick Margerrison podcast",
+        "source_rss_url": "https://rss.libsyn.com/shows/39853/destinations/116330.xml",
+        "dedupe_key": "10b247084100aea7d5da2fedddf5222db394f685",
+        "episode_key": "10b247084100aea7d5da2fedddf5222db394f685",
+        "title": "044 Stewart Lee interview",
+        "published_at": "2013-03-20T15:10:33Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Without doubt Stewart Lee cut a heroic figure in my life for a certain period. He was obviously brilliant yet had been totally abandoned by the mainstream for no clear reason. It fascinated me that someone who was so obviously a genius in his field was playing small rooms and doing wilfully odd things at gigs.\n This in",
+        "audio_url": "https://traffic.libsyn.com/secure/thecultofnick/Stewart_Lee_talks_about_stuff.mp3?dest-id=116330",
+        "link_url": "https://podcasts.apple.com/gb/podcast/044-stewart-lee-interview/id578637193?i=1000356918149&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -23658,6 +23702,28 @@
         "description": "Comedian Nish Kumar joins the gang to read from Boris Johnson's strange 2004 taut action comedy racist sex novel 72 Virgins for the third and final time. It is genuinely unbelievable that this guy is Prime Minister, not just because of all the outrageous things he says or implies about everyone who isn't an Eton educat",
         "audio_url": "https://mcdn.podbean.com/mf/web/d6mgev/11-12-Nish-Boris-final.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/boris-gear-solid-part-3-syncretic-apotheosis-ft-nish-kumar/id1261944206?i=1000457178439&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "0b07267a0069dfd82e4426e0e64207eddf38e000",
+        "episode_key": "0b07267a0069dfd82e4426e0e64207eddf38e000",
+        "title": "Bugle 4123 - 7 days of Transatlantic Madness",
+        "published_at": "2019-09-28T15:37:59Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Bugle 4123\nAndy is joined by Nish Kumar in London and Josh Gondelman in New York.\nThis week the Supreme Court says no-no to Boris Johnson’s proroguing of parliament, is Impeachment on the menu for Donald Trump? Labradoodle’s are rubbish and horses get punched.\n@hellobuglers@mrnishkumar@joshgondleman\n Hosted on Acast. S",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6baafc15-89b1-4e20-a36e-96b36e3533e6/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bugle-4123-7-days-of-transatlantic-madness/id265799883?i=1000451559060&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-03-20T07:13:50+00:00`
-- checked_at: `2026-03-20T07:13:50+00:00`
-- last_modified: `Fri, 20 Mar 2026 05:27:18 GMT`
+- fetched_at: `2026-03-20T13:34:33+00:00`
+- checked_at: `2026-03-20T13:34:33+00:00`
+- last_modified: `Fri, 20 Mar 2026 10:06:14 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-20T07:13:50+00:00",
+  "fetched_at": "2026-03-20T13:34:33+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -32,7 +32,7 @@
       "title": "Heated Rivalry, a Balloon Fetish and a Self Inflicted Injury",
       "published_at": "2026-03-20T05:21:00+00:00",
       "link": null,
-      "description": "On this week's Shagged Married Annoyed Chris and Rosie Ramsey discuss light mornings, delivery etiquette, sugar daddies and a self inflicted injury! Chris is still on tour, Rosie has been getting in to Heated Rivalry and the pair recount a recent trip to Dishoom (which led to a difficult train journey). All of this plus a beef from Chris, a reverse ick, balloon fetishes and the wildest Easter story ever. Enjoy! If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed ⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "On this week's Shagged Married Annoyed Chris and Rosie Ramsey discuss light mornings, delivery etiquette, sugar daddies and a self inflicted injury! Chris is still on tour, Rosie has been getting in to Heated Rivalry and the pair recount a recent trip to Dishoom (which led to a difficult train journey). All of this plus a beef from Chris, a reverse ick, balloon fetishes and the wildest Easter story ever. Enjoy! If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed ⁠ Today, get Huel’s full Lite & Lean Starter Kit online with our code SMA30 for 30% off at https://huel.com/SMA30. New Customers Only. Thank you to Huel for partnering and supporting our show! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1714003007.mp3?updated=1773903971",
       "enclosure_type": "audio/mpeg",

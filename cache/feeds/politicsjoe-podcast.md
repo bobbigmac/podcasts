@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-19T19:14:53+00:00`
-- checked_at: `2026-03-19T19:14:53+00:00`
-- etag: `"djEuMi4wOjE3NzM5NDA5MjI5MjI="`
+- fetched_at: `2026-03-20T13:34:33+00:00`
+- checked_at: `2026-03-20T13:34:33+00:00`
+- etag: `"djEuMi4wOjE3NzQwMTE2Mzk0ODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-19T19:14:53+00:00",
+  "fetched_at": "2026-03-20T13:34:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "00fb103f5176df261ffc595f072dea4557ca6e56",
+      "title": "Labour are coming for cowboy bosses scamming workers | Kate Dearden interview",
+      "published_at": "2026-03-20T13:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69bc30ba3bbfcfe8db0f3255",
+      "description": "Kate Dearden is the Employment Rights Minister, and she sat down with Ava to break down the government's new plan to crack down on employers failing to pay their workers fairly. This comes after the Department for Business and Trade published the names of hundreds of companies that have failed to pay their employees minimum wage, amounting to £7 million in lost wages. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69bc30ba3bbfcfe8db0f3255/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38359007",
+      "itunes_duration": "26:37",
+      "speakers": [
+        "Kate Dearden"
+      ],
+      "topics": [
+        "labour",
+        "cowboy",
+        "boss",
+        "worker",
+        "kate",
+        "dearden"
+      ]
+    },
     {
       "key": "4ff4fd73f14a8f29ffff7df4847ebdd2a6e3da7a",
       "title": "Britain is built on misery. This is how. | Lena Swedlow interview",
@@ -12106,6 +12129,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-20 — Labour are coming for cowboy bosses scamming workers | Kate Dearden interview — speakers: Kate Dearden
 - 2026-03-19 — Britain is built on misery. This is how. | Lena Swedlow interview — speakers: Lena Swedlow
 - 2026-03-18 — Is Angela Rayner about to topple Keir Starmer? | PMQs Analysis — speakers: Angela Rayner
 - 2026-03-17 — Everything Louis Theroux got wrong about the manosphere | James Bloodworth interview — speakers: Louis Theroux, James Bloodworth
