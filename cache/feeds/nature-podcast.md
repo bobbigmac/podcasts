@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-03-18T19:18:20+00:00`
-- checked_at: `2026-03-18T19:18:20+00:00`
-- etag: `"djEuMi4wOjE3NzM4NTIzNDM5MDA="`
+- fetched_at: `2026-03-20T15:58:51+00:00`
+- checked_at: `2026-03-20T15:58:51+00:00`
+- etag: `"djEuMi4wOjE3NzQwMTg0NTIxNDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-03-18T19:18:20+00:00",
+  "fetched_at": "2026-03-20T15:58:51+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "4e30f6ca2657d4248ec8850ccf2ef5b96857f3a5",
+      "title": "Briefing Chat: Are scientists funny? The evidence is in — and it's no joke",
+      "published_at": "2026-03-20T14:54:11+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-00937-7",
+      "description": "In this episode: 00:22 Exploring how gut microorganisms contribute to ageing Nature: Memory loss is fuelled by gut microbes in ageing mice 04:30 How good jokes are in short supply during academic conferences Nature: Knock knock, no one’s there. Study finds scientists’ jokes mostly fall flat Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1774018258599-9f07498c-8f0c-4d22-a2d2-da8175c027db.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69bd5f943bbfcfe8db6b20f7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "9491338",
+      "itunes_duration": "9:52",
+      "speakers": [
+        "Briefing Chat",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "chat",
+        "scientist",
+        "evidence",
+        "joke"
+      ]
+    },
     {
       "key": "0f6f8d7f4c78e7b44e5fb05df249f2a23d8746f2",
       "title": "Botanical mystery solved: how plants make a crucial malaria drug",
@@ -19268,6 +19291,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-20 — Briefing Chat: Are scientists funny? The evidence is in — and it's no joke — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
 - 2026-03-18 — Botanical mystery solved: how plants make a crucial malaria drug — speakers: Research Article, Benjamin Thompson, Noah Baker
 - 2026-03-13 — Briefing chat: ‘Can it run Doom?’ — why scientists got brain cells and a satellite to play the classic game — speakers: Benjamin Thompson, Noah Baker
 - 2026-03-11 — This fish shouldn’t exist — the weird genetics of clonal vertebrates — speakers: Benjamin Thompson, Noah Baker
