@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-03-20T03:10:06+00:00`
-- checked_at: `2026-03-20T03:10:06+00:00`
-- etag: `"djEuMi4wOjE3NzM5NjY1MTkyNzg="`
+- fetched_at: `2026-03-20T09:58:03+00:00`
+- checked_at: `2026-03-20T09:58:03+00:00`
+- etag: `"djEuMi4wOjE3NzQwMDAxNDk2ODA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "Join Elis James, Mike Bubbins and Steff Garrero in Award winning Podcast \"The Socially Distant Sports Bar\". It's a Comedy & Sports Podcast, but you don't have to like Sports to LOVE it. Comedians Elis James (BBC 5Live, Sky TV's Fantasy Football League) & Mike Bubbins (BBC's Mammoth) are \"Unreasonably hilarious\" The Telegraph. \"Elis James, Mike Bubbins and Steff Garrero created a haven where they ramble on about classic clips and random recollections.\" The Guardian Known to fans as Distant Pod it has won awards at the Sports Podcast Awards & Pod Bible Awards. Hosts of \"Down The Clubhouse\" on TNT Sport another Comedy & Sports show. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-03-20T03:10:06+00:00",
+  "fetched_at": "2026-03-20T09:58:03+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",

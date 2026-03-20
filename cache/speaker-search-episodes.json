@@ -6186,6 +6186,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:91794ccdb594",
+        "feed_title": "Bullseye with Jesse Thorn",
+        "source_rss_url": "https://feeds.npr.org/510309/podcast.xml",
+        "dedupe_key": "ce61c90b529fc7bfaf58d83a06bc0f79481cb4fd",
+        "episode_key": "ce61c90b529fc7bfaf58d83a06bc0f79481cb4fd",
+        "title": "Bob Mortimer",
+        "published_at": "2024-02-02T08:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Bob Mortimer is a comic and author, renowned for his work in the British comedy double act Vic and Bob. These days, Mortimer is also a novelist. We talk with Mortimer about his mystery novel The Clementine Complex, his debut in the U.S., loosely based on Mortimer's time as a lawyer. \n\nTo manage podcast ad preferences, ",
+        "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510309/npr.simplecastaudio.com/549fd51b-7408-48ae-a2bc-49718ee6ed24/episodes/5efbf818-544f-4249-97c2-5d29dd770d38/audio/128/default.mp3?awCollectionId=549fd51b-7408-48ae-a2bc-49718ee6ed24&awEpisodeId=5efbf818-544f-4249-97c2-5d29dd770d38&t=podcast&e=1197956729&p=510309&d=2556&size=40903202",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bob-mortimer/id73331298?i=1000643911095&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:74fa0980a57e",
         "feed_title": "Where There's A Will, There's A Wake",
         "source_rss_url": "https://rss.pdrl.fm/4bb7b6/feeds.megaphone.fm/wtawtaw",
@@ -28629,6 +28651,28 @@
         "feed_image_url": null,
         "description": "British comedy duo David Mitchell and Robert Webb have been making audiences laugh for over two decades. They began their career performing on stage and eventually transitioned to the world of television with their breakout sketch comedy shows The Mitchell and Webb Situation and That Mitchell and Webb Look. In 2003, th",
         "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510309/traffic.megaphone.fm/NPR5631033011.mp3?d=3126&size=50024325&e=986560733&t=podcast&p=510309",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-and-robert-webb/id73331298?i=1000516917282&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:91794ccdb594",
+        "feed_title": "Bullseye with Jesse Thorn",
+        "source_rss_url": "https://feeds.npr.org/510309/podcast.xml",
+        "dedupe_key": "fd3b542c9767ac441f4c672ba306ce19575e9da0",
+        "episode_key": "fd3b542c9767ac441f4c672ba306ce19575e9da0",
+        "title": "David Mitchell and Robert Webb",
+        "published_at": "2021-04-13T07:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "British comedy duo David Mitchell and Robert Webb have been making audiences laugh for over two decades. They began their career performing on stage and eventually transitioned to the world of television with their breakout sketch comedy shows The Mitchell and Webb Situation and That Mitchell and Webb Look. In 2003, th",
+        "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510309/npr.simplecastaudio.com/549fd51b-7408-48ae-a2bc-49718ee6ed24/episodes/3d7c3ab7-716b-4cde-af3c-a40acbb47671/audio/128/default.mp3?awCollectionId=549fd51b-7408-48ae-a2bc-49718ee6ed24&awEpisodeId=3d7c3ab7-716b-4cde-af3c-a40acbb47671&t=podcast&e=986560733&p=510309&d=3126&size=50024325",
         "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-and-robert-webb/id73331298?i=1000516917282&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,

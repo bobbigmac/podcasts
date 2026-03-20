@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-02-23T18:40:11+00:00`
-- checked_at: `2026-02-23T18:40:11+00:00`
-- etag: `"djEuMi4wOjE3NzE4NjM1ODc3NTk="`
+- fetched_at: `2026-03-20T09:58:03+00:00`
+- checked_at: `2026-03-20T09:58:03+00:00`
+- etag: `"djEuMi4wOjE3NzM5OTY4ODMzMDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-02-23T18:40:11+00:00",
+  "fetched_at": "2026-03-20T09:58:03+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -39,10 +39,6 @@
       "itunes_duration": "1:46:17",
       "speakers": [
         "Joe Adam",
-        "Séamus Murphy-Mitchell",
-        "Kid Klava",
-        "Order Adam",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -62,13 +58,7 @@
       "itunes_duration": "54:15",
       "speakers": [
         "DR Buckles",
-        "Richard Ayoade",
-        "Wes Anderson",
-        "Frank Black",
-        "David Fincher",
-        "Séamus Murphy-Mitchell",
-        "Becca Bryers",
-        "Richard Walsh"
+        "Adam Buxton"
       ],
       "topics": [
         "richard",
@@ -90,10 +80,6 @@
       "itunes_duration": "1:06:36",
       "speakers": [
         "Devendra Banhart",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Listen",
-        "Order Adam",
-        "Devendra Banhart Charger",
         "Adam Buxton"
       ],
       "topics": [
@@ -113,13 +99,7 @@
       "itunes_duration": "56:22",
       "speakers": [
         "Lucy Walker",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Listen",
-        "Order Adam",
-        "Michael Pollan",
-        "Alison Ellwood Famous Scientist",
-        "Daniel Freeman",
-        "Jason Freeman"
+        "Adam Buxton"
       ],
       "topics": [
         "lucy",
@@ -139,11 +119,6 @@
       "itunes_duration": "1:17:10",
       "speakers": [
         "David O'Doherty",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Listen",
-        "Order Adam",
-        "Barry Murphy",
-        "Mark Doherty",
         "Adam Buxton"
       ],
       "topics": [
@@ -163,11 +138,6 @@
       "itunes_duration": "1:14:07",
       "speakers": [
         "Zadie Smith",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Listen",
-        "Order Adam",
-        "Ezra Klein",
-        "Charlie Kirk Redeemed",
         "Adam Buxton"
       ],
       "topics": [
@@ -188,13 +158,7 @@
       "itunes_duration": "1:31:13",
       "speakers": [
         "John Foxx",
-        "Brian Eno",
-        "Conny Plank",
-        "Keith Richards",
-        "Leigh Bowery",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Listen",
-        "Order Adam"
+        "Adam Buxton"
       ],
       "topics": [
         "john"
@@ -213,12 +177,6 @@
       "itunes_duration": "1:12:55",
       "speakers": [
         "Ayoade Bamgboye",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Listen",
-        "Order Adam",
-        "Daniel Rigby",
-        "Robert Greene",
-        "Paul Greengrass",
         "Adam Buxton"
       ],
       "topics": [
@@ -239,11 +197,6 @@
       "itunes_duration": "1:11:39",
       "speakers": [
         "Natalie Roberts",
-        "Lana Del Ray",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Listen",
-        "Order Adam",
-        "Philippe Sands",
         "Adam Buxton"
       ],
       "topics": [
@@ -264,12 +217,6 @@
       "itunes_duration": "1:19:22",
       "speakers": [
         "Eric Idle",
-        "David Bowie",
-        "Peter Cook",
-        "George Harrison",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Listen",
-        "Order Adam",
         "Adam Buxton"
       ],
       "topics": [
@@ -290,11 +237,7 @@
       "itunes_duration": "1:18:12",
       "speakers": [
         "Emma Sidi",
-        "Matthew McConaughey",
-        "Alan Partridge",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Listen",
-        "Order Adam",
+        "Matthew McConaugh",
         "Adam Buxton"
       ],
       "topics": [
@@ -315,11 +258,6 @@
       "itunes_duration": "1:02:54",
       "speakers": [
         "Benedict Cumberbatch",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Pre",
-        "Order Adam",
-        "Miranda Sawyer",
-        "Stewart Lee",
         "Adam Buxton"
       ],
       "topics": [
@@ -339,10 +277,6 @@
       "itunes_duration": "1:22:08",
       "speakers": [
         "Colin Greenwood",
-        "Nick Cave",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Pre",
-        "Order Adam",
         "Adam Buxton"
       ],
       "topics": [
@@ -362,9 +296,6 @@
       "itunes_duration": "1:31:07",
       "speakers": [
         "David Byrne",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Pre",
-        "Order Adam",
         "Adam Buxton"
       ],
       "topics": [
@@ -385,13 +316,7 @@
       "itunes_duration": "1:16:07",
       "speakers": [
         "Jessica Knappett",
-        "Daudi Matsiko Conversation",
-        "Carne Ross",
-        "Séamus Murphy-Mitchell",
-        "Becca Bryers",
-        "Ben Saunders",
-        "Richard Walsh",
-        "Analisa Lembo"
+        "Adam Buxton"
       ],
       "topics": [
         "jessica",
@@ -415,9 +340,6 @@
       "enclosure_length": "153564953",
       "itunes_duration": "1:03:59",
       "speakers": [
-        "Dan Carey",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Order Adam",
         "Adam Buxton"
       ],
       "topics": [
@@ -436,9 +358,6 @@
       "enclosure_length": "180915173",
       "itunes_duration": "1:15:22",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Becca Bryers",
-        "Helen Green Order Adam",
         "Adam Buxton"
       ],
       "topics": [
@@ -458,9 +377,6 @@
       "itunes_duration": "46:52",
       "speakers": [
         "Declan McKenna",
-        "Robin Williams",
-        "Elevator Hum",
-        "Séamus Murphy-Mitchell",
         "Adam Buxton"
       ],
       "topics": [
@@ -481,9 +397,6 @@
       "itunes_duration": "1:28:40",
       "speakers": [
         "Jonny Sweet",
-        "Brian Wilson",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -502,9 +415,7 @@
       "enclosure_length": "142424363",
       "itunes_duration": "59:20",
       "speakers": [
-        "Pauline Black",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
+        "Pauline Blac",
         "Adam Buxton"
       ],
       "topics": [
@@ -525,8 +436,6 @@
       "itunes_duration": "1:07:21",
       "speakers": [
         "Loyle Carner",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -548,11 +457,7 @@
         "Tim Key",
         "Tom Basden Adam",
         "Tom Basden",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "John Robins",
-        "Aisling Bea",
-        "Mike Wozniak"
+        "Adam Buxton"
       ],
       "topics": [
         "basden"
@@ -571,7 +476,6 @@
       "itunes_duration": "1:10:14",
       "speakers": [
         "Jo Brand",
-        "Séamus Murphy-Mitchell",
         "Adam Buxton"
       ],
       "topics": [
@@ -592,7 +496,6 @@
       "speakers": [
         "Nash Adam",
         "Kate Nash",
-        "Séamus Murphy-Mitchell",
         "Adam Buxton"
       ],
       "topics": [
@@ -612,9 +515,6 @@
       "itunes_duration": "1:11:22",
       "speakers": [
         "Louis Theroux",
-        "Richard Dawson",
-        "Séamus Murphy-Mitchell",
-        "Becca Bryers",
         "Adam Buxton"
       ],
       "topics": [
@@ -637,9 +537,6 @@
       "itunes_duration": "1:21:50",
       "speakers": [
         "Kate Mossman",
-        "Ray Davies",
-        "Kevin Ayers",
-        "Séamus Murphy-Mitchell",
         "Adam Buxton"
       ],
       "topics": [
@@ -661,12 +558,7 @@
       "speakers": [
         "Richard Ayoade",
         "David Lynch",
-        "Harauld Hughes",
-        "David Letterman",
-        "Orson Welles",
-        "Woody Allen",
-        "Mick Jones",
-        "Séamus Murphy-Mitchell"
+        "Adam Buxton"
       ],
       "topics": [
         "richard",
@@ -685,7 +577,8 @@
       "enclosure_length": "183655825",
       "itunes_duration": "1:16:31",
       "speakers": [
-        "Séamus Murphy-Mitchell",
+        "Irish singer-songwriter Cmat",
+        "gig etiquette",
         "Adam Buxton"
       ],
       "topics": [
@@ -705,10 +598,6 @@
       "itunes_duration": "1:27:28",
       "speakers": [
         "David Letterman",
-        "Bob Dylan",
-        "Norm Macdonald",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -729,12 +618,7 @@
       "itunes_duration": "1:05:23",
       "speakers": [
         "Rob Burley",
-        "Brian Walden",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Adam Buxton",
-        "Steve Coogan",
-        "Eddie Mair VS"
+        "Adam Buxton"
       ],
       "topics": [
         "burley"
@@ -752,14 +636,7 @@
       "enclosure_length": "196497661",
       "itunes_duration": "1:21:52",
       "speakers": [
-        "Song Wars",
-        "Joe Show",
-        "Séamus Murphy-Mitchell",
-        "Becca Bryers",
-        "Helen Green",
-        "Kid Klava",
-        "Christoph Bauschinger",
-        "Adam Please Help"
+        "Adam Buxton"
       ],
       "topics": [
         "adam",
@@ -782,10 +659,6 @@
       "speakers": [
         "Mary Beard Adam",
         "Mary Beard",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Jesse Armstrong'S",
-        "Lizzie Gottlieb",
         "Adam Buxton"
       ],
       "topics": [
@@ -807,12 +680,6 @@
       "itunes_duration": "58:52",
       "speakers": [
         "Kiel Smith Bynoe",
-        "Séamus Murphy-Mitchell",
-        "Frank Buxton",
-        "Helen Green",
-        "Klayze Flaymz",
-        "Wes Anderson",
-        "Hayao Miyazaki",
         "Adam Buxton"
       ],
       "topics": [
@@ -834,13 +701,7 @@
       "itunes_duration": "1:06:25",
       "speakers": [
         "Kim Deal",
-        "Steve Albini",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Kim Deal Nobody",
-        "Conan O'Brien",
-        "Carson Daly",
-        "Roger Miller King"
+        "Adam Buxton"
       ],
       "topics": [
         "deal"
@@ -859,13 +720,7 @@
       "itunes_duration": "1:00:17",
       "speakers": [
         "Natasia Demetriou",
-        "Séamus Murphy-Mitchell",
-        "Becca Bryers",
-        "Helen Green Adam'S",
-        "Hannah Bourne-Taylor",
-        "Jessica Knappett'S",
-        "John Francis Daley",
-        "Jonathan Goldstein"
+        "Adam Buxton"
       ],
       "topics": [
         "tash",
@@ -884,14 +739,8 @@
       "enclosure_length": "180347706",
       "itunes_duration": "1:15:08",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Hyde Became",
-        "Nicole Newnham",
-        "Jim LeBrecht",
-        "Martin Brest",
-        "Nelson Shin",
-        "Walt Dohrn"
+        "British journalist",
+        "Adam Buxton"
       ],
       "topics": [
         "marina",
@@ -911,13 +760,7 @@
       "itunes_duration": "1:12:43",
       "speakers": [
         "Patric Gagne",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Emine Saner",
-        "Mike Nichols",
-        "Paul Feig",
-        "Lesli Linka Glatter",
-        "Jonathan Demme"
+        "Adam Buxton"
       ],
       "topics": [
         "patric",
@@ -942,8 +785,6 @@
       "itunes_duration": "1:01:04",
       "speakers": [
         "Kerry Godliman",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -964,11 +805,6 @@
       "itunes_duration": "1:07:52",
       "speakers": [
         "Don Trump",
-        "Bob Dylan",
-        "Séamus Murphy-Mitchell",
-        "Long Island",
-        "Jessie Buckley",
-        "Mary Lavin",
         "Adam Buxton"
       ],
       "topics": [
@@ -988,10 +824,6 @@
       "itunes_duration": "1:07:10",
       "speakers": [
         "Garth Jennings",
-        "Laura Marling",
-        "Séamus Murphy-Mitchell",
-        "Becca Bryers",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -1013,11 +845,6 @@
       "itunes_duration": "1:20:47",
       "speakers": [
         "John Cooper Clarke",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Tom Donovan Studio Pics",
-        "John adam-buxton co uk",
-        "Jcc Majorca",
         "Adam Buxton"
       ],
       "topics": [
@@ -1039,10 +866,6 @@
       "itunes_duration": "1:10:49",
       "speakers": [
         "Helen Lewis",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Natalie Wynn",
-        "Jesse Singal",
         "Adam Buxton"
       ],
       "topics": [
@@ -1063,13 +886,7 @@
       "itunes_duration": "1:22:26",
       "speakers": [
         "Sam Campbell",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Sam Campbell Nippers",
-        "Eric Hutton",
-        "Joe Pera",
-        "Aaron Chen",
-        "Guy Montgomery"
+        "Adam Buxton"
       ],
       "topics": [
         "campbell"
@@ -1088,10 +905,6 @@
       "itunes_duration": "1:23:21",
       "speakers": [
         "Miriam Margolyes",
-        "Barbara Streisand",
-        "Martin Scorsese",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -1112,11 +925,6 @@
       "itunes_duration": "1:09:08",
       "speakers": [
         "Fenton Bailey",
-        "Don Trump",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Adam'S",
-        "Patrick Radden Keefe",
-        "Nick Wallis",
         "Adam Buxton"
       ],
       "topics": [
@@ -1137,12 +945,7 @@
       "itunes_duration": "1:20:49",
       "speakers": [
         "Jessica Knappett",
-        "Ilkla Moor",
-        "Séamus Murphy-Mitchell",
-        "Anthony Brown Related Links",
-        "Adam Buxton",
-        "Yorkshire Anthem Ilkla",
-        "Jessica Knappett'S"
+        "Adam Buxton"
       ],
       "topics": [
         "jessica",
@@ -1162,13 +965,7 @@
       "itunes_duration": "1:23:30",
       "speakers": [
         "George Monbiot",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "George Monbiot Rivercide",
-        "Gaia Vince",
-        "George Monbiot'S",
-        "John Lewis-Stempel",
-        "George Monbiot Explains"
+        "Adam Buxton"
       ],
       "topics": [
         "george",
@@ -1188,13 +985,7 @@
       "itunes_duration": "58:21",
       "speakers": [
         "Tim Heidecker",
-        "Bob Dylan",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Joe Rogan Spoof",
-        "Tom Goes",
-        "Eric Awesome",
-        "Tim Heidecker Stand"
+        "Adam Buxton"
       ],
       "topics": [
         "heidecker"
@@ -1212,14 +1003,8 @@
       "enclosure_length": "171423244",
       "itunes_duration": "1:11:25",
       "speakers": [
-        "Fred Armisen",
-        "Matt Berry",
-        "David Bowie",
-        "Tony Visconti",
-        "David Byrne",
-        "Talking Heads",
-        "Paul McCartney",
-        "Séamus Murphy-Mitchell"
+        "Fred Arm",
+        "Adam Buxton"
       ],
       "topics": [
         "fred"
@@ -1238,10 +1023,6 @@
       "itunes_duration": "1:10:45",
       "speakers": [
         "Ayishat Akanbi",
-        "Werner Herzog",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Aja Romano",
         "Adam Buxton"
       ],
       "topics": [
@@ -1262,11 +1043,7 @@
       "itunes_duration": "1:28:35",
       "speakers": [
         "Werner Herzog",
-        "David Blaine",
-        "Séamus Murphy-Mitchell",
-        "Adam Buxton",
-        "Vuh Adam Buxton",
-        "Frank Black"
+        "Adam Buxton"
       ],
       "topics": [
         "werner",
@@ -1286,11 +1063,6 @@
       "itunes_duration": "1:46:52",
       "speakers": [
         "Joe Cornish",
-        "Travelling Tale",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Paul Carr",
-        "Ho ho",
         "Adam Buxton"
       ],
       "topics": [
@@ -1312,13 +1084,6 @@
       "enclosure_length": "197217579",
       "itunes_duration": "1:22:10",
       "speakers": [
-        "Joe Lycett",
-        "Werner Herzog",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Adam Buxton",
-        "Joe Lycett Official",
-        "Joe Lycett'S",
-        "O'Sullivan Documentary",
         "Adam Buxton"
       ],
       "topics": [
@@ -1337,9 +1102,7 @@
       "enclosure_length": "105536154",
       "itunes_duration": "43:58",
       "speakers": [
-        "Daudi Matsiko",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Adam Buxton",
+        "British Ugandan singer-songwriter",
         "Adam Buxton"
       ],
       "topics": [
@@ -1359,14 +1122,9 @@
       "enclosure_length": "176701016",
       "itunes_duration": "1:13:37",
       "speakers": [
-        "Miki Berenyi",
-        "Thompson Twins",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Adam Buxton",
-        "David Hepworth",
-        "Mark Ellen",
-        "Kate Mossman",
-        "Tina Weymouth"
+        "English singer",
+        "book writer",
+        "Adam Buxton"
       ],
       "topics": [
         "miki",
@@ -1386,13 +1144,7 @@
       "itunes_duration": "1:11:20",
       "speakers": [
         "Will Sharpe",
-        "Artificial Intelligence",
-        "Séamus Murphy-Mitchell",
-        "Tom Kingsley",
-        "Jonah Hill",
-        "Dylan Southern",
-        "Will Lovelace",
-        "Yoyo Pilot"
+        "Adam Buxton"
       ],
       "topics": [
         "sharpe"
@@ -1410,9 +1162,6 @@
       "enclosure_length": "188970216",
       "itunes_duration": "1:18:44",
       "speakers": [
-        "Tom Hanks",
-        "Séamus Murphy-Mitchell",
-        "Joe Cornish",
         "Adam Buxton"
       ],
       "topics": [
@@ -1432,10 +1181,6 @@
       "enclosure_length": "171699073",
       "itunes_duration": "1:11:32",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Related Links",
-        "Guz Khan",
-        "James Acaster'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -1455,9 +1200,6 @@
       "itunes_duration": "1:08:07",
       "speakers": [
         "Javid Abdelmoneim",
-        "Séamus Murphy-Mitchell",
-        "Becca Bryers",
-        "Twitter Javid",
         "Adam Buxton"
       ],
       "topics": [
@@ -1478,8 +1220,6 @@
       "itunes_duration": "1:08:21",
       "speakers": [
         "Bridget Christie",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -1499,9 +1239,6 @@
       "enclosure_length": "111024440",
       "itunes_duration": "1:17:05",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Matt Gardner",
         "Adam Buxton"
       ],
       "topics": [
@@ -1523,12 +1260,6 @@
       "itunes_duration": "1:24:20",
       "speakers": [
         "Billy Bragg",
-        "Neil Young",
-        "Stanley Kubrick",
-        "Bob Dylan",
-        "David Bowie",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -1549,10 +1280,6 @@
       "itunes_duration": "1:16:53",
       "speakers": [
         "Daisy May Cooper",
-        "Joe Show",
-        "Louis Theroux",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -1574,11 +1301,6 @@
       "speakers": [
         "Sam Bain",
         "Jesse Armstrong",
-        "Chris Morris",
-        "Bob Dylan",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Manchester Attack",
         "Adam Buxton"
       ],
       "topics": [
@@ -1598,8 +1320,6 @@
       "itunes_duration": "1:28:52",
       "speakers": [
         "Jesse Armstrong",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -1620,9 +1340,6 @@
       "itunes_duration": "1:09:34",
       "speakers": [
         "Tash Demetriou",
-        "Dementia UK",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -1643,11 +1360,6 @@
       "itunes_duration": "1:20:25",
       "speakers": [
         "Louis Theroux",
-        "Queen Elizabeth",
-        "Joe Cornish",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Stanley Brock",
         "Adam Buxton"
       ],
       "topics": [
@@ -1670,13 +1382,7 @@
       "itunes_duration": "1:04:40",
       "speakers": [
         "Tom Hanks",
-        "Wes Anderson",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Adam",
-        "Adam Buxton",
-        "Ringer Com",
-        "Bill Simmons",
-        "Cast Away"
+        "Adam Buxton"
       ],
       "topics": [
         "hank"
@@ -1696,11 +1402,7 @@
       "speakers": [
         "Joe Adam",
         "Joe Cornish",
-        "Séamus Murphy-Mitchell",
-        "Adam Buxton",
-        "Soyo Oka",
-        "Dan Hawkins",
-        "Henry Jackson Newcomb"
+        "Adam Buxton"
       ],
       "topics": [
         "adam"
@@ -1719,10 +1421,6 @@
       "itunes_duration": "1:09:55",
       "speakers": [
         "Gary Younge",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Gary Younge Destroys America'S",
-        "Martin Luther King'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -1742,10 +1440,6 @@
       "enclosure_length": "86501560",
       "itunes_duration": "52:13",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Becca Bryers",
-        "Helen Green",
-        "Baird Hall",
         "Adam Buxton"
       ],
       "topics": [
@@ -1765,10 +1459,8 @@
       "enclosure_length": "112904811",
       "itunes_duration": "1:09:03",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Becca Bryers",
-        "Helen Green",
-        "Chris Morris",
+        "British actor",
+        "Hot Fuzz",
         "Adam Buxton"
       ],
       "topics": [
@@ -1788,9 +1480,6 @@
       "enclosure_length": "103904790",
       "itunes_duration": "1:04:09",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Michelle DE Swarte",
         "Adam Buxton"
       ],
       "topics": [
@@ -1811,10 +1500,6 @@
       "itunes_duration": "42:26",
       "speakers": [
         "Olugbenga Adelekan",
-        "Séamus Murphy-Mitchell",
-        "Helen Green Related Links",
-        "Richard Ayoade",
-        "Tor Freeman",
         "Adam Buxton"
       ],
       "topics": [
@@ -1836,13 +1521,8 @@
       "itunes_duration": "1:16:35",
       "speakers": [
         "Richard Dawson",
-        "Judas Iscariot",
-        "Ben Tulloh",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Patrick Clarke",
-        "Jude Rogers",
-        "Harry Wheeler"
+        "Judas Isca",
+        "Adam Buxton"
       ],
       "topics": [
         "richard",
@@ -1862,10 +1542,6 @@
       "itunes_duration": "1:14:44",
       "speakers": [
         "Maeve Higgins",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Directors Mike Ahern",
-        "Enda Loughman",
         "Adam Buxton"
       ],
       "topics": [
@@ -1885,8 +1561,6 @@
       "enclosure_length": "115889116",
       "itunes_duration": "1:36:34",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -1907,10 +1581,6 @@
       "itunes_duration": "1:01:48",
       "speakers": [
         "Lorna Tucker",
-        "Vivienne Westwood",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Richard Herring",
         "Adam Buxton"
       ],
       "topics": [
@@ -1930,13 +1600,7 @@
       "itunes_duration": "1:29:09",
       "speakers": [
         "Ian McEwan",
-        "Bryan Magee",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Jussi Angesleva",
-        "Ian McEWAN'S",
-        "Mark Brown",
-        "Evelyn Waugh"
+        "Adam Buxton"
       ],
       "topics": [
         "mcewan"
@@ -1955,12 +1619,7 @@
       "itunes_duration": "1:18:16",
       "speakers": [
         "Samira Ahmed",
-        "Mary Whitehouse",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Michael Cumming",
-        "Stewart Lee",
-        "David Bowie",
+        "Mary Wh",
         "Adam Buxton"
       ],
       "topics": [
@@ -1981,10 +1640,6 @@
       "itunes_duration": "1:21:52",
       "speakers": [
         "Graham Norton",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "John Higgs",
-        "Tom Hiddleston'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -2004,14 +1659,7 @@
       "enclosure_length": "53603509",
       "itunes_duration": "1:03:48",
       "speakers": [
-        "Anil Seth",
-        "Séamus Murphy-Mitchell",
-        "Becca Ptaszynski",
-        "Helen Green",
-        "Ted Talk",
-        "Simulation Argument",
-        "John Gray",
-        "Michael Pollan"
+        "Adam Buxton"
       ],
       "topics": [
         "anil",
@@ -2031,10 +1679,6 @@
       "itunes_duration": "55:18",
       "speakers": [
         "Stuart Murdoch",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "You'RE Feeling Sinister",
-        "Adrian Lobb",
         "Adam Buxton"
       ],
       "topics": [
@@ -2055,12 +1699,6 @@
       "itunes_duration": "1:03:59",
       "speakers": [
         "Mariana Mazzucato",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "João Medeiros",
-        "Mariana Mazzucato New",
-        "Gil Scott-Heron Whitey",
-        "Ernst Stuhlinger",
         "Adam Buxton"
       ],
       "topics": [
@@ -2081,12 +1719,6 @@
       "itunes_duration": "1:23:27",
       "speakers": [
         "Louis Theroux",
-        "Paul Theroux",
-        "Joe Wicks",
-        "Séamus Murphy-Mitchell",
-        "Louis Theroux'S",
-        "Sarah Lindberg",
-        "Anne Theroux",
         "Adam Buxton"
       ],
       "topics": [
@@ -2107,11 +1739,6 @@
       "itunes_duration": "1:21:21",
       "speakers": [
         "Natasia Demetriou",
-        "theatre trauma",
-        "Séamus Murphy-Mitchell",
-        "Rachel Aroesti",
-        "Steve Terreberry",
-        "Chris Atkins",
         "Adam Buxton"
       ],
       "topics": [
@@ -2132,12 +1759,7 @@
       "itunes_duration": "1:06:03",
       "speakers": [
         "John Higgs",
-        "John Lennon",
-        "Séamus Murphy-Mitchell",
-        "Ben Tulloh",
-        "William Blake VS",
-        "Joh Higgs",
-        "William Blake"
+        "Adam Buxton"
       ],
       "topics": [
         "john",
@@ -2156,12 +1778,6 @@
       "enclosure_length": "94900103",
       "itunes_duration": "1:19:04",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Mick Csáky",
-        "Gospel Caravan",
-        "NO Sunshine",
-        "James Gadson",
-        "Bill Withers Use ME",
         "Adam Buxton"
       ],
       "topics": [
@@ -2181,9 +1797,6 @@
       "itunes_duration": "1:16:54",
       "speakers": [
         "Jarvis Cocker",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Pat Finnerty'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -2204,12 +1817,6 @@
       "itunes_duration": "1:21:46",
       "speakers": [
         "Natalie Palamides",
-        "Chris Smith",
-        "Jim Carey",
-        "Andy Kaufman",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Jerri Blank",
         "Adam Buxton"
       ],
       "topics": [
@@ -2231,8 +1838,6 @@
       "speakers": [
         "Sanjeev Bhaskar",
         "Séamus Murphy-Mitchell",
-        "Becca Ptaszynski",
-        "Artwork Signed",
         "Adam Buxton"
       ],
       "topics": [
@@ -2253,9 +1858,7 @@
       "speakers": [
         "Lazy Susan",
         "Freya Parker",
-        "Séamus Murphy-Mitchell",
-        "Becca Bryers",
-        "Helen Green",
+        "Séamus Mu",
         "Adam Buxton"
       ],
       "topics": [
@@ -2275,11 +1878,6 @@
       "itunes_duration": "1:28:22",
       "speakers": [
         "Phil Wang",
-        "Séamus Murphy-Mitchell",
-        "Ben Tulloh",
-        "DR Buckles",
-        "Michael Hann",
-        "Dave Simpson",
         "Adam Buxton"
       ],
       "topics": [
@@ -2302,12 +1900,6 @@
       "itunes_duration": "1:19:20",
       "speakers": [
         "Tim Key",
-        "Alex Horne",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Tim Key Mulberry",
-        "Rachael Healy",
-        "Tim Key'S",
         "Adam Buxton"
       ],
       "topics": []
@@ -2325,11 +1917,6 @@
       "itunes_duration": "1:15:55",
       "speakers": [
         "Alex Horne",
-        "Tim Key",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "Silver Jews",
         "Adam Buxton"
       ],
       "topics": [
@@ -2350,10 +1937,7 @@
       "itunes_duration": "1:22:42",
       "speakers": [
         "Marian Keyes",
-        "Alan Yentob",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "John Peel",
+        "Alan Ye",
         "Adam Buxton"
       ],
       "topics": [
@@ -2374,9 +1958,7 @@
       "itunes_duration": "1:28:26",
       "speakers": [
         "Joe Adam",
-        "Joe Cornish",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
+        "Joe Cor",
         "Adam Buxton"
       ],
       "topics": [
@@ -2396,11 +1978,6 @@
       "itunes_duration": "34:35",
       "speakers": [
         "Fran Lebowitz Recorded",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Joe Related Links",
-        "Fran Lebowitz",
-        "David Letterman",
         "Adam Buxton"
       ],
       "topics": [
@@ -2425,11 +2002,6 @@
       "itunes_duration": "1:11:13",
       "speakers": [
         "Kayvan Novak",
-        "Louis Theroux",
-        "Adam Curtis",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "David Bowie",
         "Adam Buxton"
       ],
       "topics": [
@@ -2450,9 +2022,6 @@
       "itunes_duration": "1:05:30",
       "speakers": [
         "Katy Wix",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Tom Hodgkinson",
         "Adam Buxton"
       ],
       "topics": [
@@ -2472,8 +2041,6 @@
       "itunes_duration": "1:16:29",
       "speakers": [
         "Patrick Radden Keefe",
-        "Séamus Murphy-Mitchell",
-        "Amy Bishop",
         "Adam Buxton"
       ],
       "topics": [
@@ -2494,10 +2061,6 @@
       "itunes_duration": "1:24:00",
       "speakers": [
         "Julia Davis",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Hunderby Compilation",
-        "Sally Ever Therapist Scene",
         "Adam Buxton"
       ],
       "topics": [
@@ -2517,8 +2080,6 @@
       "itunes_duration": "1:12:02",
       "speakers": [
         "Darren Harriott",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -2539,10 +2100,6 @@
       "itunes_duration": "1:16:24",
       "speakers": [
         "David Sedaris",
-        "Séamus Murphy-Mitchell",
-        "Becca Ptaszynski",
-        "Helen Green",
-        "Steve Paikin David Sedaris",
         "Adam Buxton"
       ],
       "topics": [
@@ -2564,12 +2121,7 @@
       "speakers": [
         "Description Adam",
         "Colson Whitehead",
-        "Matt Lamont",
-        "Séamus Murphy-Mitchell",
-        "Becca Ptaszynski",
-        "Helen Green",
-        "Sean O'Hagan",
-        "Kirkus Website"
+        "Adam Buxton"
       ],
       "topics": [
         "colson"
@@ -2589,11 +2141,6 @@
       "speakers": [
         "Sam Lee Adam",
         "Lauren Pattison",
-        "Sam Lee",
-        "Séamus Murphy-Mitchell",
-        "Homelessness Please",
-        "Sam Lee Related Links",
-        "Nathan Evans Wellerman",
         "Adam Buxton"
       ],
       "topics": [
@@ -2615,8 +2162,6 @@
       "speakers": [
         "Jim Moir",
         "Vic Reeves",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -2636,8 +2181,6 @@
       "enclosure_length": "64204045",
       "itunes_duration": "1:06:52",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Helen Green Signed",
         "Adam Buxton"
       ],
       "topics": [
@@ -2658,10 +2201,6 @@
       "itunes_duration": "1:08:56",
       "speakers": [
         "Sarah Silverman",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Brian Logan",
-        "Adam Buxton'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -2682,9 +2221,6 @@
       "itunes_duration": "1:08:38",
       "speakers": [
         "Tommy Tiernan",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Tommy Tiernan Interviews",
         "Adam Buxton"
       ],
       "topics": [
@@ -2704,11 +2240,6 @@
       "enclosure_length": "68962470",
       "itunes_duration": "1:11:50",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Taste Disorders Descript",
-        "Esther Perrel Rethinking Infidelity",
-        "Ted Talk",
         "Adam Buxton"
       ],
       "topics": [
@@ -2729,13 +2260,7 @@
       "itunes_duration": "1:20:08",
       "speakers": [
         "Eric André",
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Eric Andre",
-        "Eric Andre Show Pranks",
-        "Hamilton Morriss",
-        "Anthony Fantano Reacts",
-        "Adam Buxton Website"
+        "Adam Buxton"
       ],
       "topics": [
         "eric",
@@ -2755,9 +2280,6 @@
       "enclosure_length": "49767189",
       "itunes_duration": "59:14",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Helen Green",
-        "Adam Buxton'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -2779,10 +2301,6 @@
       "itunes_duration": "1:22:47",
       "speakers": [
         "Lee Mack",
-        "Séamus Murphy-Mitchell",
-        "Becca Ptaszynksy",
-        "Helen Green",
-        "Neil Webster",
         "Adam Buxton"
       ],
       "topics": [
@@ -2802,12 +2320,6 @@
       "itunes_duration": "55:55",
       "speakers": [
         "Laurie Anderson Recorded",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Scott Edwards",
-        "Helen Green",
-        "Laurie Anderson",
-        "Adam Buxton'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -2828,9 +2340,6 @@
       "itunes_duration": "1:11:10",
       "speakers": [
         "Tom Allen",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -2850,11 +2359,6 @@
       "itunes_duration": "1:23:02",
       "speakers": [
         "Kazuo Ishiguro",
-        "AI Rosie",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "Liu Cixin",
         "Adam Buxton"
       ],
       "topics": [
@@ -2875,13 +2379,7 @@
       "itunes_duration": "1:09:24",
       "speakers": [
         "Rose Matafeo",
-        "Séamus Murphy-Mitchell",
-        "Scott Edwards",
-        "Matt Lamont",
-        "Helen Green",
-        "Adam Buxton Nutty",
-        "Meg Neal",
-        "James Acaster Perfect"
+        "Adam Buxton"
       ],
       "topics": [
         "rose",
@@ -2902,9 +2400,6 @@
       "speakers": [
         "Jayne Torvill",
         "Christopher Dean",
-        "Séamus Murphy-Mitchell",
-        "Anneka Myson",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -2925,12 +2420,6 @@
       "itunes_duration": "55:43",
       "speakers": [
         "Louis Theroux",
-        "Michael Jackson",
-        "Max Clifford",
-        "Séamus Murphy-Mitchell",
-        "Emma Corsham",
-        "Helen Green",
-        "Adam Buxton'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -2953,11 +2442,6 @@
       "itunes_duration": "1:18:03",
       "speakers": [
         "Róisín Murphy",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Scott Edwards",
-        "Helen Green",
-        "Adam Buxton'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -2977,11 +2461,7 @@
       "itunes_duration": "1:18:47",
       "speakers": [
         "Tony Law",
-        "Séamus Murphy-Mitchell",
-        "Owen Donovan",
-        "Anneka Myson",
-        "Helen Green",
-        "David Byrne",
+        "Séamus Murphy-Mitchel",
         "Adam Buxton"
       ],
       "topics": [
@@ -3001,10 +2481,6 @@
       "itunes_duration": "1:03:03",
       "speakers": [
         "Elizabeth Day",
-        "Séamus Murphy-Mitchell",
-        "Anneka Myson",
-        "Links Failosophy",
-        "Adam Buxton'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -3025,12 +2501,7 @@
       "speakers": [
         "Stewart Lee",
         "King Rocker",
-        "Michael Cumming",
-        "Robert Lloyd",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "Adam Buxton Website"
+        "Adam Buxton"
       ],
       "topics": [
         "stewart"
@@ -3049,12 +2520,6 @@
       "itunes_duration": "1:36:02",
       "speakers": [
         "Joe Cornish",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "Adam Buxton'S",
-        "Marian Keyes",
-        "Julien Temple",
         "Adam Buxton"
       ],
       "topics": [
@@ -3074,13 +2539,7 @@
       "itunes_duration": "1:23:15",
       "speakers": [
         "Paul McCartney",
-        "Bob Dylan",
-        "John Lennon",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "DR Buckles",
-        "Michael Lyndsay Hogg"
+        "Adam Buxton"
       ],
       "topics": [
         "paul",
@@ -3100,12 +2559,6 @@
       "itunes_duration": "1:00:20",
       "speakers": [
         "Rachel Bloom",
-        "Adam Schlesinger",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "Adam Links",
-        "Adam Buxton'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -3126,12 +2579,6 @@
       "itunes_duration": "1:20:25",
       "speakers": [
         "Benjamin Zephaniah",
-        "Séamus Murphy-Mitchell",
-        "Anneka Myson",
-        "Helen Green",
-        "Benjamin Zephaniah'S",
-        "Benjamin Zephaniah Dis Policeman",
-        "Joe Links Adam",
         "Adam Buxton"
       ],
       "topics": [
@@ -3152,13 +2599,7 @@
       "itunes_duration": "1:07:51",
       "speakers": [
         "Joe Lycett",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "Hecklethevirus Website",
-        "Litany UH-Huh",
-        "Knobhead Scale",
-        "Joe Lycett Net Worth"
+        "Adam Buxton"
       ],
       "topics": [
         "lycett"
@@ -3177,11 +2618,6 @@
       "itunes_duration": "1:20:10",
       "speakers": [
         "Candice Carty-Williams",
-        "Lex Fridman",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "Stewart Lee",
         "Adam Buxton"
       ],
       "topics": [
@@ -3203,10 +2639,6 @@
       "itunes_duration": "1:10:53",
       "speakers": [
         "Fran Healy",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "DR Buckles",
         "Adam Buxton"
       ],
       "topics": [
@@ -3227,11 +2659,6 @@
       "itunes_duration": "1:12:22",
       "speakers": [
         "Miles Jupp",
-        "Séamus Murphy-Mitchell",
-        "Anneka Myson",
-        "Jack Bushell",
-        "Helen Green",
-        "Adam Buxton'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -3251,11 +2678,7 @@
       "enclosure_length": "74938934",
       "itunes_duration": "1:02:26",
       "speakers": [
-        "Nina Conti",
-        "Séamus Murphy-Mitchell",
-        "Emma Corsham",
-        "Helen Green",
-        "Adam Buxton'S",
+        "British comedian",
         "Adam Buxton"
       ],
       "topics": [
@@ -3274,9 +2697,8 @@
       "enclosure_length": "107869464",
       "itunes_duration": "1:29:53",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Emma Corsham",
-        "Helen Green",
+        "Irish writer",
+        "sometime Ru",
         "Adam Buxton"
       ],
       "topics": [
@@ -3296,11 +2718,7 @@
       "itunes_duration": "1:04:41",
       "speakers": [
         "Ellie White",
-        "Séamus Murphy-Mitchell",
-        "Emma Corsham",
-        "Helen Green",
-        "Adam Buxton",
-        "Adam Buxton'S"
+        "Adam Buxton"
       ],
       "topics": [
         "ellie",
@@ -3320,13 +2738,7 @@
       "itunes_duration": "1:03:12",
       "speakers": [
         "Sleaford Mods",
-        "Séamus Murphy-Mitchell",
-        "Anneka Myson",
-        "Helen Green",
-        "Sleaford Mods Kebab",
-        "Sleaford Mods Head",
-        "Casey Raymond Sleaford Mods",
-        "Christine Franz"
+        "Adam Buxton"
       ],
       "topics": [
         "sleaford",
@@ -3346,13 +2758,7 @@
       "itunes_duration": "1:07:58",
       "speakers": [
         "Raven Smith",
-        "George Floyd",
-        "Charlie Bucket",
-        "Anna Buxton",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "Adam Buxton'S"
+        "Adam Buxton"
       ],
       "topics": [
         "raven",
@@ -3373,12 +2779,7 @@
       "speakers": [
         "Williams Adam",
         "Robbie Williams",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "Adam Buxton'S",
-        "Williams Stayin",
-        "Ahmed'S How"
+        "Adam Buxton"
       ],
       "topics": [
         "robbie",
@@ -3399,10 +2800,6 @@
       "speakers": [
         "Moran Adam",
         "Caitlin Moran",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "John Cusack",
         "Adam Buxton"
       ],
       "topics": [
@@ -3424,9 +2821,6 @@
       "speakers": [
         "Zadie Smith",
         "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "Adam Buxton'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -3447,11 +2841,6 @@
       "itunes_duration": "1:08:56",
       "speakers": [
         "Helen Lewis",
-        "Jordan Peterson",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
-        "Adam Buxton'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -3472,12 +2861,6 @@
       "itunes_duration": "1:09:17",
       "speakers": [
         "Ed O'Brien",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Dan Hawkins",
-        "Alexander Courage",
-        "Adam Buxton'S",
-        "David Fricke",
         "Adam Buxton"
       ],
       "topics": []
@@ -3495,13 +2878,7 @@
       "itunes_duration": "1:26:36",
       "speakers": [
         "Holly Walsh",
-        "Hilary Clinton",
-        "Richard Herring",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton'S",
-        "Marcus Werner",
-        "Nathaniel Mellors"
+        "Adam Buxton"
       ],
       "topics": [
         "holly",
@@ -3521,8 +2898,6 @@
       "itunes_duration": "1:15:40",
       "speakers": [
         "Joe Cornish",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -3542,10 +2917,6 @@
       "itunes_duration": "56:02",
       "speakers": [
         "George Mpanga",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton'S",
-        "George Reads",
         "Adam Buxton"
       ],
       "topics": [
@@ -3569,7 +2940,6 @@
       "itunes_duration": "47:02",
       "speakers": [
         "Sara Barron",
-        "Adam Buxton'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -3592,9 +2962,6 @@
       "itunes_duration": "1:23:52",
       "speakers": [
         "Nile Rodgers",
-        "Séamus Murphy-Mitchell",
-        "Anneka Myson",
-        "Adam Buxton'S",
         "Adam Buxton"
       ],
       "topics": [
@@ -3615,10 +2982,6 @@
       "itunes_duration": "1:14:53",
       "speakers": [
         "Laura Marling",
-        "Séamus Murphy-Mitchell",
-        "Anneka Myson",
-        "Adam Buxton'S",
-        "Sam Liddicott",
         "Adam Buxton"
       ],
       "topics": [
@@ -3639,12 +3002,6 @@
       "itunes_duration": "1:19:02",
       "speakers": [
         "Louis Theroux",
-        "Tiger King",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Gear Music",
-        "Matthew Barney",
-        "Muscle Function Info Pelvic",
         "Adam Buxton"
       ],
       "topics": [
@@ -3665,8 +3022,6 @@
       "itunes_duration": "1:09:01",
       "speakers": [
         "Natasia Demetriou",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -3686,9 +3041,6 @@
       "enclosure_length": "82693186",
       "itunes_duration": "1:08:54",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Coronavirus Info Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -3709,10 +3061,6 @@
       "itunes_duration": "1:12:56",
       "speakers": [
         "Malcolm Gladwell",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "DR Buckles",
-        "Sam Rosenthal",
         "Adam Buxton"
       ],
       "topics": [
@@ -3733,11 +3081,7 @@
       "itunes_duration": "1:12:43",
       "speakers": [
         "Daisy Haggard",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "DR Buckles",
-        "Tim Key'S",
-        "Adam Buxton Reads",
+        "Séamus Murphy-Mit",
         "Adam Buxton"
       ],
       "topics": [
@@ -3758,8 +3102,6 @@
       "itunes_duration": "1:02:03",
       "speakers": [
         "Xand van Tulleken",
-        "Séamus Murphy-Mitchell",
-        "Xander van Tulleken",
         "Adam Buxton"
       ],
       "topics": [
@@ -3782,11 +3124,7 @@
       "speakers": [
         "Joe Cornish",
         "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton",
-        "Brittany Broski Kombucha Girl",
-        "Brittany Broski Love",
-        "John Lewis"
+        "Adam Buxton"
       ],
       "topics": [
         "adam"
@@ -3805,8 +3143,7 @@
       "itunes_duration": "1:07:04",
       "speakers": [
         "Billy Connolly",
-        "Séamus Murphy-Mitchell",
-        "Anneka Myson",
+        "Séamus Mu",
         "Adam Buxton"
       ],
       "topics": [
@@ -3828,9 +3165,7 @@
       "speakers": [
         "Jeff Goldblum",
         "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton",
-        "Luke Drozd Kickstarter Hosted"
+        "Adam Buxton"
       ],
       "topics": [
         "jeff",
@@ -3850,10 +3185,7 @@
       "itunes_duration": "1:21:40",
       "speakers": [
         "Diana Fleischman",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton",
-        "Bailey Norwood"
+        "Adam Buxton"
       ],
       "topics": [
         "diana",
@@ -3873,8 +3205,6 @@
       "itunes_duration": "1:08:50",
       "speakers": [
         "Nicky Wire",
-        "Séamus Murphy-Mitchell",
-        "Anneka Myson",
         "Adam Buxton"
       ],
       "topics": [
@@ -3895,9 +3225,7 @@
       "itunes_duration": "58:27",
       "speakers": [
         "Derren Brown",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Vote Adam Buxton",
+        "Séamus Murphy-Mitch",
         "Adam Buxton"
       ],
       "topics": [
@@ -3918,8 +3246,6 @@
       "itunes_duration": "1:11:23",
       "speakers": [
         "Dawn O'Porter",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -3939,11 +3265,6 @@
       "itunes_duration": "57:25",
       "speakers": [
         "Michael Kiwanuka",
-        "Ronnie Scotts",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Michael Kiwanuka Black",
-        "Little Heart",
         "Adam Buxton"
       ],
       "topics": [
@@ -3963,8 +3284,6 @@
       "enclosure_length": "76358513",
       "itunes_duration": "1:19:32",
       "speakers": [
-        "Anneka Myson",
-        "Seamus Murphy-Mitchel",
         "Adam Buxton"
       ],
       "topics": [
@@ -3984,9 +3303,6 @@
       "itunes_duration": "1:13:53",
       "speakers": [
         "Shoshana Zuboff",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "James Bridle",
         "Adam Buxton"
       ],
       "topics": [
@@ -4007,10 +3323,6 @@
       "itunes_duration": "1:07:13",
       "speakers": [
         "Chris Morris",
-        "David Bowie",
-        "Quentin Tarantino",
-        "George Monbiot Why Fukushsima",
-        "David Bowie NO",
         "Adam Buxton"
       ],
       "topics": [
@@ -4031,10 +3343,6 @@
       "itunes_duration": "1:25:00",
       "speakers": [
         "Chris Morris",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Mike German",
-        "Steven Berkoff",
         "Adam Buxton"
       ],
       "topics": [
@@ -4055,8 +3363,7 @@
       "itunes_duration": "1:20:33",
       "speakers": [
         "Emily Dean",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
+        "Séamus Murphy-Mitche",
         "Adam Buxton"
       ],
       "topics": [
@@ -4076,8 +3383,6 @@
       "enclosure_length": "78697844",
       "itunes_duration": "1:21:58",
       "speakers": [
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -4099,12 +3404,7 @@
       "speakers": [
         "Sara Pascoe",
         "Richard Ayoade",
-        "Jean Gallagher",
-        "Sally Hayes",
-        "Anneka Myson",
-        "Seamus Murphy-Mitchel",
-        "Paul Alexander",
-        "backstreetmerch com"
+        "Adam Buxton"
       ],
       "topics": [
         "book",
@@ -4130,11 +3430,7 @@
       "speakers": [
         "Joe Cornish",
         "Louis Theroux",
-        "David Bowie",
-        "Seamus Murphy-Mitchel",
-        "Matt Lamont",
-        "Adam Buxton",
-        "Dan Hawkins Use Dan"
+        "Adam Buxton"
       ],
       "topics": [
         "cornish",
@@ -4154,9 +3450,6 @@
       "itunes_duration": "1:10:54",
       "speakers": [
         "Frank Skinner",
-        "Charles Bukowski",
-        "Lad Mag",
-        "Séamus Murphy-Mitchell",
         "Adam Buxton"
       ],
       "topics": [
@@ -4176,10 +3469,6 @@
       "enclosure_length": "102563298",
       "itunes_duration": "1:11:13",
       "speakers": [
-        "Jack Bauer",
-        "Kevin Kline",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -4200,12 +3489,7 @@
       "speakers": [
         "Paul Whitehouse",
         "Bob Mortimer",
-        "Athletico Mince",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Dan Hawkins",
-        "Martin Luther King",
-        "Adam Buxton London"
+        "Adam Buxton"
       ],
       "topics": [
         "mortimer",
@@ -4226,9 +3510,6 @@
       "itunes_duration": "1:08:35",
       "speakers": [
         "Charlotte Church",
-        "Anneka Myson",
-        "Seamus Murphy-Mitchel",
-        "backstreetmerch com",
         "Adam Buxton"
       ],
       "topics": [
@@ -4249,12 +3530,7 @@
       "itunes_duration": "1:10:50",
       "speakers": [
         "John Grant",
-        "Adam Buxton",
-        "Anneka Myson",
-        "Seamus Murphy-Mitchel",
-        "John Grant HE'S",
-        "David Shire",
-        "David Shire'S"
+        "Adam Buxton"
       ],
       "topics": [
         "john",
@@ -4275,10 +3551,6 @@
       "speakers": [
         "Nina Stibbe",
         "David Sedaris",
-        "Mary-Kay Wilmers",
-        "Lizzie Vogel",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -4299,10 +3571,6 @@
       "itunes_duration": "1:14:58",
       "speakers": [
         "Charlotte Gainsbourg",
-        "Kanye West",
-        "Lars Von Trier",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -4323,8 +3591,6 @@
       "itunes_duration": "1:20:23",
       "speakers": [
         "James Acaster",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -4345,9 +3611,6 @@
       "itunes_duration": "1:19:51",
       "speakers": [
         "Marlon James",
-        "Peter Gabriel",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -4368,9 +3631,6 @@
       "itunes_duration": "1:11:52",
       "speakers": [
         "Ruby Wax",
-        "Séamus Murphy-Mitchell",
-        "Anneka Myson",
-        "Adam Buxton Related",
         "Adam Buxton"
       ],
       "topics": [
@@ -4390,11 +3650,7 @@
       "itunes_duration": "1:18:25",
       "speakers": [
         "David Mitchell",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Dan Hawkins",
-        "Adam Buxton",
-        "David Mitchell Etc"
+        "Adam Buxton"
       ],
       "topics": [
         "david",
@@ -4415,9 +3671,7 @@
       "speakers": [
         "Joe Cornish",
         "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton",
-        "Lin Manuel Miranda"
+        "Adam Buxton"
       ],
       "topics": [
         "adam"
@@ -4435,11 +3689,7 @@
       "enclosure_length": "159482655",
       "itunes_duration": "1:23:03",
       "speakers": [
-        "Bob Dylan",
-        "Seamus Murphy-Mitchel",
-        "Anneka Myson",
-        "Adam Buxton",
-        "Dan Hawkins"
+        "Adam Buxton"
       ],
       "topics": [
         "nish",
@@ -4459,10 +3709,6 @@
       "itunes_duration": "1:09:42",
       "speakers": [
         "Mona Chalabi",
-        "Seamus Murphy-Mitchel",
-        "Matt Lamont",
-        "Adam Buxton Contribute",
-        "Related Links Fourth",
         "Adam Buxton"
       ],
       "topics": [
@@ -4483,10 +3729,7 @@
       "itunes_duration": "1:07:38",
       "speakers": [
         "Michael Scott Moore",
-        "Séamus Murphy-Mitchell",
-        "Adam Buxton",
-        "K’naan Listen",
-        "Related Links Michael"
+        "Adam Buxton"
       ],
       "topics": [
         "michael",
@@ -4507,9 +3750,6 @@
       "itunes_duration": "1:09:14",
       "speakers": [
         "Roisin Conaty",
-        "Séamus Murphy-Mitchell",
-        "Anneka Myson",
-        "Adam Buxton Related Links",
         "Adam Buxton"
       ],
       "topics": [
@@ -4530,11 +3770,7 @@
       "itunes_duration": "1:21:53",
       "speakers": [
         "Simon Pegg",
-        "David Bowie",
-        "Tom Cruise",
-        "Séamus Murphy-Mitchell",
-        "Adam Buxton",
-        "Alexander Courage"
+        "Adam Buxton"
       ],
       "topics": [
         "simon",
@@ -4554,11 +3790,6 @@
       "itunes_duration": "1:14:59",
       "speakers": [
         "Tash Demetriou",
-        "Taika Waititi",
-        "Jemaine Clements",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Links Stath",
         "Adam Buxton"
       ],
       "topics": [
@@ -4579,13 +3810,7 @@
       "itunes_duration": "1:20:17",
       "speakers": [
         "Louis Theroux",
-        "Mark Wahlberg",
-        "Oprah Winfrey",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton Louis Adam",
-        "Marc Maron Attempting Normal",
-        "Steve Martin Born Standing"
+        "Adam Buxton"
       ],
       "topics": [
         "louis",
@@ -4605,9 +3830,6 @@
       "itunes_duration": "55:26",
       "speakers": [
         "Desiree Burch",
-        "Séamus Murphy-Mitchell",
-        "Emma Mills",
-        "Adam Buxton Related",
         "Adam Buxton"
       ],
       "topics": [
@@ -4628,10 +3850,7 @@
       "itunes_duration": "1:12:13",
       "speakers": [
         "David Sedaris",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton",
-        "Danny Richards"
+        "Adam Buxton"
       ],
       "topics": [
         "david",
@@ -4652,9 +3871,6 @@
       "speakers": [
         "Laura Davis",
         "Mac DeMarco",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton Related",
         "Adam Buxton"
       ],
       "topics": [
@@ -4678,9 +3894,7 @@
       "itunes_duration": "1:18:07",
       "speakers": [
         "Tim Key",
-        "Séamus Murphy-Mitchell",
-        "Adam Buxton",
-        "Dan Hawkins"
+        "Adam Buxton"
       ],
       "topics": []
     },
@@ -4697,10 +3911,6 @@
       "itunes_duration": "1:21:15",
       "speakers": [
         "Charlie Brooker",
-        "Jimmy Carr",
-        "Séamus Murphy-Mitchell",
-        "Adam Buxton Adam Buxton",
-        "Joe People",
         "Adam Buxton"
       ],
       "topics": [
@@ -4721,13 +3931,7 @@
       "itunes_duration": "1:04:57",
       "speakers": [
         "Eleanor Friedberger",
-        "Adam Buxton",
-        "Benton Harbour Blues",
-        "Bitter Tea",
-        "Gallowsbird’d Bark",
-        "Blueberry Boat",
-        "Séamus Murphy-Mitchell",
-        "Adam Buxton Related Links"
+        "Adam Buxton"
       ],
       "topics": [
         "eleanor",
@@ -4747,13 +3951,7 @@
       "itunes_duration": "1:13:49",
       "speakers": [
         "Bob Mortimer",
-        "Adam Buxton",
-        "Jim Moir",
-        "Vic Reeves",
-        "Andy Dawson",
-        "Athletico Mince",
-        "Paul Whitehouse",
-        "Séamus Murphy-Mitchell"
+        "Adam Buxton"
       ],
       "topics": [
         "mortimer"
@@ -4771,10 +3969,10 @@
       "enclosure_length": "146479113",
       "itunes_duration": "1:01:01",
       "speakers": [
-        "Adam Buxton",
-        "Séamus Murphy-Mitchell",
-        "Jack Bushell",
-        "Adam Buxton Related"
+        "British actor",
+        "character comedian",
+        "Lloyd Austentatious",
+        "Adam Buxton"
       ],
       "topics": [
         "cariad",
@@ -4794,13 +3992,7 @@
       "itunes_duration": "1:15:53",
       "speakers": [
         "Fenton Bailey",
-        "Jon Ronson",
-        "Randy Barbato",
-        "Joe Cornish",
-        "Rupaul’s Drag Race",
-        "Michael Alig",
-        "Robert Riggs",
-        "Angel Melendez"
+        "Adam Buxton"
       ],
       "topics": [
         "fenton",
@@ -4820,9 +4012,6 @@
       "itunes_duration": "1:10:54",
       "speakers": [
         "Jayde Adams",
-        "Bette Midler",
-        "Séamus Murphy-Mitchell",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -4844,12 +4033,7 @@
       "speakers": [
         "Wes Anderson Adam",
         "Garth Jennings",
-        "Wes Anderson",
-        "David Bowie",
-        "Mary Poppins",
-        "Bowie Trumps",
-        "Casey Raymond",
-        "Séamus Murphy-Mitchell"
+        "Adam Buxton"
       ],
       "topics": [
         "garth",
@@ -4871,11 +4055,6 @@
       "speakers": [
         "Lolly Adefope",
         "Steve Buscemi",
-        "Daniel Radcliffe",
-        "Adam’s dog Rosie",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Buxton’s Old",
         "Adam Buxton"
       ],
       "topics": [
@@ -4896,10 +4075,6 @@
       "itunes_duration": "1:10:16",
       "speakers": [
         "Jon Ronson",
-        "Katie Hopkins",
-        "Séamus Murphy-Mitchell",
-        "Jack Bushell",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -4919,9 +4094,6 @@
       "itunes_duration": "1:13:38",
       "speakers": [
         "Aisling Bea",
-        "Séamus Murphy-Mitchell",
-        "Jack Bushell",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": []
@@ -4941,10 +4113,6 @@
         "Michael Lewis",
         "Money Ball",
         "Liar’s Poker",
-        "Amos Tversky",
-        "Daniel Kahneman",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -4965,9 +4133,6 @@
       "itunes_duration": "1:14:01",
       "speakers": [
         "Diane Morgan",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -4989,10 +4154,6 @@
       "speakers": [
         "Gerwig Adam",
         "Greta Gerwig",
-        "Lady Bird",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5012,11 +4173,6 @@
       "itunes_duration": "32:40",
       "speakers": [
         "Jonny Greenwood",
-        "Paul Thomas Anderson",
-        "Phantom Thread",
-        "Adam Buxton’s Old",
-        "Séamus Murphy-Mitchell",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5038,12 +4194,7 @@
       "speakers": [
         "Paul Thomas Anderson",
         "Boogie Nights",
-        "Phantom Thread",
-        "Daniel Day Lewis",
-        "Adam Buxton’s Old",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton Hosted"
+        "Adam Buxton"
       ],
       "topics": [
         "paul",
@@ -5064,9 +4215,6 @@
       "itunes_duration": "1:27:15",
       "speakers": [
         "Joe Cornish",
-        "Adam Buxton’s Old",
-        "Séamus Murphy-Mitchell",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5085,9 +4233,6 @@
       "enclosure_length": "202083392",
       "itunes_duration": "1:24:12",
       "speakers": [
-        "Adam Buxton’s Old",
-        "Séamus Murphy-Mitchell",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5108,12 +4253,6 @@
       "itunes_duration": "1:07:23",
       "speakers": [
         "Thomas Dolby",
-        "Michael Jackson",
-        "David Bowie",
-        "Adam Buxton’s Old Bits",
-        "Adam Buxton App",
-        "Matt Lamont",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5136,11 +4275,7 @@
         "Tim Pope Adam",
         "Tim Pope",
         "Iggy Pop",
-        "Neil Young",
-        "David Bowie",
-        "Adam Buxton’s Old Bits",
-        "Séamus Murphy-Mitchell",
-        "Adam Buxton Hosted"
+        "Adam Buxton"
       ],
       "topics": [
         "music",
@@ -5162,10 +4297,6 @@
       "itunes_duration": "52:13",
       "speakers": [
         "Josh Homme",
-        "Matt Berry",
-        "Adam Buxton’s Old",
-        "Jack Bushell",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5188,9 +4319,6 @@
       "itunes_duration": "1:03:41",
       "speakers": [
         "Hassan Akkad",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5210,10 +4338,7 @@
       "enclosure_length": "164374052",
       "itunes_duration": "1:08:29",
       "speakers": [
-        "Kathy Burke",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton Hosted",
+        "Kathy Burk",
         "Adam Buxton"
       ],
       "topics": [
@@ -5234,9 +4359,7 @@
       "itunes_duration": "1:07:46",
       "speakers": [
         "Simon Amstell",
-        "Adam Buxton",
-        "Matt Lamont",
-        "Buxton’s Old"
+        "Adam Buxton"
       ],
       "topics": [
         "simon",
@@ -5256,8 +4379,6 @@
       "itunes_duration": "1:04:57",
       "speakers": [
         "Bill Burr",
-        "Séamus Murphy-Mitchell",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -5279,8 +4400,6 @@
       "speakers": [
         "Sawyer Adam",
         "Miranda Sawyer",
-        "Matt Lamont",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5301,8 +4420,6 @@
       "itunes_duration": "56:26",
       "speakers": [
         "Reece Shearmsith",
-        "Matt Lamont",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5325,8 +4442,6 @@
       "itunes_duration": "1:11:26",
       "speakers": [
         "Johnny Marr",
-        "Matt Lamont",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5347,8 +4462,6 @@
       "itunes_duration": "1:02:12",
       "speakers": [
         "Mae Martin",
-        "Matt Lamont",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5368,8 +4481,6 @@
       "itunes_duration": "1:10:40",
       "speakers": [
         "Louis Theroux",
-        "Matt Lamont",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5390,7 +4501,6 @@
       "itunes_duration": "1:14:01",
       "speakers": [
         "Dougie Payne",
-        "Alikats Mountain Holidays",
         "Adam Buxton"
       ],
       "topics": [
@@ -5415,7 +4525,6 @@
       "speakers": [
         "Jim Eno",
         "Alex Fischel",
-        "Manchester Gorilla",
         "Adam Buxton"
       ],
       "topics": [
@@ -5436,9 +4545,7 @@
       "speakers": [
         "Sharon Horgan",
         "Carrie Fisher",
-        "Adam Buxton",
-        "Seamus Murphy Mitchel",
-        "Matt Lamont"
+        "Adam Buxton"
       ],
       "topics": [
         "sharon",
@@ -5459,9 +4566,7 @@
       "speakers": [
         "Edgar Wright",
         "Baby Driver",
-        "Adam Buxton",
-        "Seamus Murphy Mitchel",
-        "Matt Lamont"
+        "Adam Buxton"
       ],
       "topics": [
         "edgar",
@@ -5481,10 +4586,6 @@
       "itunes_duration": "1:21:23",
       "speakers": [
         "Adam Curtis",
-        "Nicky Waltham",
-        "Doug Bryson",
-        "Seamus Murphy Mitchel",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5506,8 +4607,7 @@
       "speakers": [
         "Nick Kroll",
         "James Franco",
-        "Adam Buxton",
-        "Matt Lamont"
+        "Adam Buxton"
       ],
       "topics": [
         "nick",
@@ -5528,8 +4628,7 @@
       "speakers": [
         "Bridget Christie",
         "Steve Mason",
-        "Adam Buxton",
-        "Matt Lamont"
+        "Adam Buxton"
       ],
       "topics": [
         "bridget",
@@ -5551,8 +4650,6 @@
       "itunes_duration": "1:12:43",
       "speakers": [
         "Marc Maron",
-        "Jonathan Demme",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -5573,11 +4670,7 @@
       "itunes_duration": "1:02:57",
       "speakers": [
         "Zadie Smith",
-        "John Lennon",
-        "David Foster Wallace",
-        "Adam Buxton",
-        "Luke Drozd",
-        "Matt Lamont"
+        "Adam Buxton"
       ],
       "topics": [
         "zadie",
@@ -5599,9 +4692,7 @@
         "Garth Jennings",
         "Mighty Boosh",
         "Julian Barratt",
-        "George Lucas Skywalker Ranch",
-        "Adam Buxton",
-        "Matt Lamont"
+        "Adam Buxton"
       ],
       "topics": [
         "julian",
@@ -5623,8 +4714,7 @@
       "itunes_duration": "46:35",
       "speakers": [
         "Brian Eno",
-        "Adam Buxton",
-        "Matt Lamont"
+        "Adam Buxton"
       ],
       "topics": [
         "brian"
@@ -5643,8 +4733,7 @@
       "itunes_duration": "53:10",
       "speakers": [
         "Brian Eno",
-        "Adam Buxton",
-        "Matt Lamont"
+        "Adam Buxton"
       ],
       "topics": [
         "brian"
@@ -5662,11 +4751,7 @@
       "enclosure_length": "152780905",
       "itunes_duration": "1:03:39",
       "speakers": [
-        "Amy Schumer",
-        "Judd Apatow",
-        "Seamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
+        "Australian actor",
         "Adam Buxton"
       ],
       "topics": [
@@ -5686,9 +4771,6 @@
       "itunes_duration": "1:01:03",
       "speakers": [
         "Steve Coogan",
-        "Seamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Helen Green",
         "Adam Buxton"
       ],
       "topics": [
@@ -5708,7 +4790,6 @@
       "enclosure_length": "92238950",
       "itunes_duration": "1:36:17",
       "speakers": [
-        "Seamus Murphy-Mitchell",
         "Adam Buxton"
       ],
       "topics": [
@@ -5728,8 +4809,6 @@
       "itunes_duration": "1:04:16",
       "speakers": [
         "Matt Berry",
-        "Bill Paxton",
-        "Dan Hawkins",
         "Adam Buxton"
       ],
       "topics": [
@@ -5749,11 +4828,7 @@
       "enclosure_length": "58876823",
       "itunes_duration": "1:01:27",
       "speakers": [
-        "Kwicque Fyre Kweschuns",
-        "Seamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton",
-        "Dan Hawkins"
+        "Adam Buxton"
       ],
       "topics": [
         "demetriou"
@@ -5773,8 +4848,6 @@
       "speakers": [
         "Rory O’Neill",
         "Panti Bliss",
-        "Seamus Murphy-Mitchell",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5796,8 +4869,6 @@
       "itunes_duration": "1:07:56",
       "speakers": [
         "Michaela Coel",
-        "Seamus Murphy-Mitchell",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5817,8 +4888,6 @@
       "itunes_duration": "1:16:43",
       "speakers": [
         "Louis Theroux",
-        "Seamus Murphy-Mitchell",
-        "Matt Lamont",
         "Adam Buxton"
       ],
       "topics": [
@@ -5839,7 +4908,6 @@
       "itunes_duration": "1:13:45",
       "speakers": [
         "Michael Palin",
-        "Seamus Murphy-Mitchell",
         "Adam Buxton"
       ],
       "topics": [
@@ -5860,8 +4928,6 @@
       "itunes_duration": "1:00:31",
       "speakers": [
         "Bill Hader",
-        "Matt Lamont",
-        "Seamus Murphy-Mitchell",
         "Adam Buxton"
       ],
       "topics": [
@@ -5882,7 +4948,6 @@
       "itunes_duration": "1:07:03",
       "speakers": [
         "Sally Wainwright",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5903,8 +4968,7 @@
       "itunes_duration": "56:28",
       "speakers": [
         "Adam Buxton",
-        "Richard Ayoade",
-        "Woody Allen"
+        "Richard Ayoade"
       ],
       "topics": [
         "richard",
@@ -5926,7 +4990,6 @@
       "itunes_duration": "1:03:07",
       "speakers": [
         "Richard Ayoade",
-        "Michael Haneke",
         "Adam Buxton"
       ],
       "topics": [
@@ -5949,8 +5012,6 @@
       "itunes_duration": "57:54",
       "speakers": [
         "John Robins",
-        "Matt Lamont",
-        "Seamus Murphy-Mitchell",
         "Adam Buxton"
       ],
       "topics": [
@@ -5971,7 +5032,6 @@
       "itunes_duration": "35:42",
       "speakers": [
         "Jonny Greenwood",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -5993,7 +5053,6 @@
       "itunes_duration": "1:02:10",
       "speakers": [
         "Jonny Greenwood",
-        "Adam Buxton Always",
         "Adam Buxton"
       ],
       "topics": [
@@ -6016,10 +5075,7 @@
         "Riley Adam",
         "Bbc Music",
         "Marc Riley",
-        "Seamus Murphy-Mitchel",
-        "Matt Lamont",
-        "Adam Buxton",
-        "Jumper Clown"
+        "Adam Buxton"
       ],
       "topics": [
         "marc",
@@ -6039,9 +5095,6 @@
       "itunes_duration": "1:11:53",
       "speakers": [
         "Iain Lee",
-        "Seamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -6062,10 +5115,7 @@
       "speakers": [
         "Ben Smith",
         "Doc Brown",
-        "Amy Winehouse",
-        "Adam Buxton",
-        "Seamus Murphy-Mitchell",
-        "Matt Lamont"
+        "Adam Buxton"
       ],
       "topics": [
         "smith",
@@ -6085,9 +5135,6 @@
       "itunes_duration": "1:02:08",
       "speakers": [
         "Sara Pascoe",
-        "Matt Lamont",
-        "Seamus Murphy-Mitchell",
-        "Adam Buxton Hosted",
         "Adam Buxton"
       ],
       "topics": [
@@ -6108,10 +5155,7 @@
       "itunes_duration": "1:02:13",
       "speakers": [
         "Richard Herring",
-        "Seamus Murphy-Mitchell",
-        "Matt Lamont",
-        "Adam Buxton",
-        "Soyo Oka"
+        "Adam Buxton"
       ],
       "topics": [
         "richard",
@@ -6131,10 +5175,7 @@
       "itunes_duration": "1:01:10",
       "speakers": [
         "Garth Jennings Adam",
-        "Ken Korda",
-        "Seamus Murphy-Mitchell",
-        "Adam Buxton",
-        "Soyo Oka"
+        "Adam Buxton"
       ],
       "topics": [
         "walk",
@@ -6175,10 +5216,7 @@
       "itunes_duration": "54:25",
       "speakers": [
         "Adam Buxton",
-        "David Bowie",
-        "Johan Renck",
-        "Jonathan Ross",
-        "Gaz Coombes"
+        "David Bowie"
       ],
       "topics": [
         "bowiewallow"
@@ -6197,10 +5235,7 @@
       "itunes_duration": "58:47",
       "speakers": [
         "Adam Buxton",
-        "David Bowie",
-        "Dara O'Kearney",
-        "Kathy Burke",
-        "Dan Richards"
+        "David Bowie"
       ],
       "topics": [
         "bowiewallow"
@@ -6239,7 +5274,6 @@
       "enclosure_length": "65915340",
       "itunes_duration": "1:08:48",
       "speakers": [
-        "Tom Cruise",
         "Adam Buxton"
       ],
       "topics": [
@@ -6258,7 +5292,6 @@
       "enclosure_length": "61183382",
       "itunes_duration": "1:03:52",
       "speakers": [
-        "Louis Theroux",
         "Adam Buxton"
       ],
       "topics": [
@@ -6280,10 +5313,7 @@
       "speakers": [
         "Moran Adam",
         "Caitlin Moran",
-        "Paul McCartney",
-        "Lady Gaga",
-        "Adam Buxton",
-        "Soyo Oka"
+        "Adam Buxton"
       ],
       "topics": [
         "caitlin",
@@ -6303,9 +5333,7 @@
       "itunes_duration": "1:15:15",
       "speakers": [
         "Rob Delaney",
-        "Sharon Horgan",
-        "Adam Buxton",
-        "Soyo Oka"
+        "Adam Buxton"
       ],
       "topics": [
         "delaney"
@@ -6324,9 +5352,7 @@
       "itunes_duration": "1:06:01",
       "speakers": [
         "Adam Buxton",
-        "Scroobius Pip",
-        "sac VS",
-        "Soyo Oka"
+        "Scroobius Pip"
       ],
       "topics": [
         "scroobius"
@@ -6345,9 +5371,7 @@
       "itunes_duration": "1:05:40",
       "speakers": [
         "Adam Buxton",
-        "Garth Jennings",
-        "Sarah McLachlan",
-        "Soyo Oka"
+        "Garth Jennings"
       ],
       "topics": [
         "garth",
@@ -6367,8 +5391,7 @@
       "itunes_duration": "46:04",
       "speakers": [
         "Adam Buxton",
-        "Rob Brydon",
-        "Paul McCartney"
+        "Rob Brydon"
       ],
       "topics": [
         "brydon"
@@ -6387,8 +5410,7 @@
       "itunes_duration": "58:42",
       "speakers": [
         "Adam Buxton",
-        "Jon Ronson",
-        "Woody Allen"
+        "Jon Ronson"
       ],
       "topics": [
         "ronson"
@@ -6406,14 +5428,7 @@
       "enclosure_length": "46656243",
       "itunes_duration": "48:42",
       "speakers": [
-        "Adam Buxton",
-        "Brian Eno Brian Eno",
-        "John Peel Lecture",
-        "David Bowie",
-        "Lucia Bova",
-        "Brian Eno",
-        "Paul McGann",
-        "Bruce Robinson"
+        "Adam Buxton"
       ],
       "topics": [
         "buckles",
@@ -6434,8 +5449,7 @@
       "itunes_duration": "36:56",
       "speakers": [
         "Adam Buxton",
-        "Lianne La Havas",
-        "Guy Manguyman"
+        "Lianne La Havas"
       ],
       "topics": [
         "lianne",
@@ -6470,274 +5484,274 @@
 
 ## Episodes (newest first)
 
-- 2025-12-25 — EP.268 - ADAM AND JOE — speakers: Joe Adam, Séamus Murphy-Mitchell, Kid Klava, Order Adam, Helen Green, Adam Buxton
-- 2025-12-01 — EP.267 - RICHARD AYOADE & FRANK BLACK (LIVE) — speakers: DR Buckles, Richard Ayoade, Wes Anderson, Frank Black, David Fincher, Séamus Murphy-Mitchell, Becca Bryers, Richard Walsh
-- 2025-11-25 — EP.266 - DEVENDRA BANHART — speakers: Devendra Banhart, Séamus Murphy-Mitchell, Helen Green Listen, Order Adam, Devendra Banhart Charger, Adam Buxton
-- 2025-11-17 — EP.265 - LUCY WALKER — speakers: Lucy Walker, Séamus Murphy-Mitchell, Helen Green Listen, Order Adam, Michael Pollan, Alison Ellwood Famous Scientist, Daniel Freeman, Jason Freeman
-- 2025-11-09 — EP.264 - DAVID O'DOHERTY (LIVE) — speakers: David O'Doherty, Séamus Murphy-Mitchell, Helen Green Listen, Order Adam, Barry Murphy, Mark Doherty, Adam Buxton
-- 2025-11-02 — EP.263 - ZADIE SMITH — speakers: Zadie Smith, Séamus Murphy-Mitchell, Helen Green Listen, Order Adam, Ezra Klein, Charlie Kirk Redeemed, Adam Buxton
-- 2025-10-24 — EP.262 - JOHN FOXX — speakers: John Foxx, Brian Eno, Conny Plank, Keith Richards, Leigh Bowery, Séamus Murphy-Mitchell, Helen Green Listen, Order Adam
-- 2025-10-08 — EP.261 - AYOADE BAMGBOYE — speakers: Ayoade Bamgboye, Séamus Murphy-Mitchell, Helen Green Listen, Order Adam, Daniel Rigby, Robert Greene, Paul Greengrass, Adam Buxton
-- 2025-09-30 — EP.260 - NATALIE ROBERTS — speakers: Natalie Roberts, Lana Del Ray, Séamus Murphy-Mitchell, Helen Green Listen, Order Adam, Philippe Sands, Adam Buxton
-- 2025-09-22 — EP.259 - ERIC IDLE — speakers: Eric Idle, David Bowie, Peter Cook, George Harrison, Séamus Murphy-Mitchell, Helen Green Listen, Order Adam, Adam Buxton
-- 2025-09-15 — EP.258 - EMMA SIDI — speakers: Emma Sidi, Matthew McConaughey, Alan Partridge, Séamus Murphy-Mitchell, Helen Green Listen, Order Adam, Adam Buxton
-- 2025-09-08 — EP.257 - BENEDICT CUMBERBATCH — speakers: Benedict Cumberbatch, Séamus Murphy-Mitchell, Helen Green Pre, Order Adam, Miranda Sawyer, Stewart Lee, Adam Buxton
-- 2025-09-05 — EP.256 - COLIN GREENWOOD — speakers: Colin Greenwood, Nick Cave, Séamus Murphy-Mitchell, Helen Green Pre, Order Adam, Adam Buxton
-- 2025-08-29 — EP.255 - DAVID BYRNE — speakers: David Byrne, Séamus Murphy-Mitchell, Helen Green Pre, Order Adam, Adam Buxton
-- 2025-07-25 — EP.254 - JESSICA KNAPPETT WITH MUSIC FROM DAUDI MATSIKO LIVE @ YORK THEATRE ROYAL, 2024 — speakers: Jessica Knappett, Daudi Matsiko Conversation, Carne Ross, Séamus Murphy-Mitchell, Becca Bryers, Ben Saunders, Richard Walsh, Analisa Lembo
-- 2025-07-10 — EP.253 - SQUID — speakers: Dan Carey, Séamus Murphy-Mitchell, Helen Green Order Adam, Adam Buxton
-- 2025-06-30 — EP.252 - GUZ KHAN (LIVE) — speakers: Séamus Murphy-Mitchell, Becca Bryers, Helen Green Order Adam, Adam Buxton
-- 2025-06-22 — EP.251 - DECLAN McKENNA — speakers: Declan McKenna, Robin Williams, Elevator Hum, Séamus Murphy-Mitchell, Adam Buxton
-- 2025-06-18 — EP.250 - JONNY SWEET — speakers: Jonny Sweet, Brian Wilson, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2025-06-11 — EP.249 - PAULINE BLACK — speakers: Pauline Black, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2025-06-02 — EP.248 - LOYLE CARNER — speakers: Loyle Carner, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2025-05-25 — EP.247 - TIM KEY AND TOM BASDEN — speakers: Tim Key, Tom Basden Adam, Tom Basden, Séamus Murphy-Mitchell, Helen Green, John Robins, Aisling Bea, Mike Wozniak
-- 2025-05-17 — EP.246 - JO BRAND — speakers: Jo Brand, Séamus Murphy-Mitchell, Adam Buxton
-- 2025-05-11 — EP.245 - KATE NASH — speakers: Nash Adam, Kate Nash, Séamus Murphy-Mitchell, Adam Buxton
-- 2025-04-27 — EP.244 - LOUIS THEROUX & RICHARD DAWSON LIVE — speakers: Louis Theroux, Richard Dawson, Séamus Murphy-Mitchell, Becca Bryers, Adam Buxton
-- 2025-04-19 — EP.243 - KATE MOSSMAN — speakers: Kate Mossman, Ray Davies, Kevin Ayers, Séamus Murphy-Mitchell, Adam Buxton
-- 2025-04-11 — EP.242 - RICHARD AYOADE — speakers: Richard Ayoade, David Lynch, Harauld Hughes, David Letterman, Orson Welles, Woody Allen, Mick Jones, Séamus Murphy-Mitchell
-- 2025-04-05 — EP.241 - CMAT — speakers: Séamus Murphy-Mitchell, Adam Buxton
-- 2025-03-28 — EP.240 - DAVID LETTERMAN — speakers: David Letterman, Bob Dylan, Norm Macdonald, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2025-01-25 — EP.239 - ROB BURLEY — speakers: Rob Burley, Brian Walden, Séamus Murphy-Mitchell, Helen Green, Adam Buxton, Steve Coogan, Eddie Mair VS
-- 2024-12-25 — EP.238 - ADAM AND JOE LIVE @ ROYAL FESTIVAL HALL — speakers: Song Wars, Joe Show, Séamus Murphy-Mitchell, Becca Bryers, Helen Green, Kid Klava, Christoph Bauschinger, Adam Please Help
-- 2024-12-22 — EP.237 - DAME MARY BEARD — speakers: Mary Beard Adam, Mary Beard, Séamus Murphy-Mitchell, Helen Green, Jesse Armstrong'S, Lizzie Gottlieb, Adam Buxton
-- 2024-12-16 — EP.236 - KIELL SMITH BYNOE — speakers: Kiel Smith Bynoe, Séamus Murphy-Mitchell, Frank Buxton, Helen Green, Klayze Flaymz, Wes Anderson, Hayao Miyazaki, Adam Buxton
-- 2024-12-08 — EP.235 - KIM DEAL — speakers: Kim Deal, Steve Albini, Séamus Murphy-Mitchell, Helen Green, Kim Deal Nobody, Conan O'Brien, Carson Daly, Roger Miller King
-- 2024-11-29 — EP.234 - TASH DEMETRIOU LIVE — speakers: Natasia Demetriou, Séamus Murphy-Mitchell, Becca Bryers, Helen Green Adam'S, Hannah Bourne-Taylor, Jessica Knappett'S, John Francis Daley, Jonathan Goldstein
-- 2024-11-22 — EP.233 - MARINA HYDE — speakers: Séamus Murphy-Mitchell, Helen Green, Hyde Became, Nicole Newnham, Jim LeBrecht, Martin Brest, Nelson Shin, Walt Dohrn
-- 2024-11-11 — EP.232 - PATRIC GAGNE ON BEING A SOCIOPATH & UPLIFTING MOVIE PICKS FROM PODCAST FRIENDS — speakers: Patric Gagne, Séamus Murphy-Mitchell, Helen Green, Emine Saner, Mike Nichols, Paul Feig, Lesli Linka Glatter, Jonathan Demme
-- 2024-11-03 — EP.231 - KERRY GODLIMAN — speakers: Kerry Godliman, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2024-10-25 — EP.230 - COLM TÓIBÍN — speakers: Don Trump, Bob Dylan, Séamus Murphy-Mitchell, Long Island, Jessie Buckley, Mary Lavin, Adam Buxton
-- 2024-10-20 — EP.229 - GARTH JENNINGS & LAURA MARLING LIVE — speakers: Garth Jennings, Laura Marling, Séamus Murphy-Mitchell, Becca Bryers, Helen Green, Adam Buxton
-- 2024-10-13 — EP.228 - DR JOHN COOPER CLARKE — speakers: John Cooper Clarke, Séamus Murphy-Mitchell, Helen Green, Tom Donovan Studio Pics, John adam-buxton co uk, Jcc Majorca, Adam Buxton
-- 2024-10-05 — EP.227 - HELEN LEWIS — speakers: Helen Lewis, Séamus Murphy-Mitchell, Helen Green, Natalie Wynn, Jesse Singal, Adam Buxton
-- 2024-09-28 — EP.226 - SAM CAMPBELL — speakers: Sam Campbell, Séamus Murphy-Mitchell, Helen Green, Sam Campbell Nippers, Eric Hutton, Joe Pera, Aaron Chen, Guy Montgomery
-- 2024-09-21 — EP.225 - MIRIAM MARGOLYES — speakers: Miriam Margolyes, Barbara Streisand, Martin Scorsese, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2024-03-29 — EP.224 - FENTON BAILEY — speakers: Fenton Bailey, Don Trump, Séamus Murphy-Mitchell, Helen Green Adam'S, Patrick Radden Keefe, Nick Wallis, Adam Buxton
-- 2024-03-10 — EP.223 - JESSICA KNAPPETT — speakers: Jessica Knappett, Ilkla Moor, Séamus Murphy-Mitchell, Anthony Brown Related Links, Adam Buxton, Yorkshire Anthem Ilkla, Jessica Knappett'S
-- 2024-03-04 — EP.222 - GEORGE MONBIOT — speakers: George Monbiot, Séamus Murphy-Mitchell, Helen Green, George Monbiot Rivercide, Gaia Vince, George Monbiot'S, John Lewis-Stempel, George Monbiot Explains
-- 2024-02-26 — EP.221 - TIM HEIDECKER — speakers: Tim Heidecker, Bob Dylan, Séamus Murphy-Mitchell, Helen Green, Joe Rogan Spoof, Tom Goes, Eric Awesome, Tim Heidecker Stand
-- 2024-02-18 — EP.220 - FRED ARMISEN — speakers: Fred Armisen, Matt Berry, David Bowie, Tony Visconti, David Byrne, Talking Heads, Paul McCartney, Séamus Murphy-Mitchell
-- 2024-02-14 — EP.219 - AYISHAT AKANBI — speakers: Ayishat Akanbi, Werner Herzog, Séamus Murphy-Mitchell, Helen Green, Aja Romano, Adam Buxton
-- 2024-02-06 — EP.218 - WERNER HERZOG — speakers: Werner Herzog, David Blaine, Séamus Murphy-Mitchell, Adam Buxton, Vuh Adam Buxton, Frank Black
-- 2023-12-25 — EP.217 - ADAM AND JOE LIVE @ ROYAL FESTIVAL HALL — speakers: Joe Cornish, Travelling Tale, Séamus Murphy-Mitchell, Helen Green, Paul Carr, Ho ho, Adam Buxton
-- 2023-12-05 — EP.216 - JOE LYCETT — speakers: Joe Lycett, Werner Herzog, Séamus Murphy-Mitchell, Helen Green Adam Buxton, Joe Lycett Official, Joe Lycett'S, O'Sullivan Documentary, Adam Buxton
-- 2023-11-27 — EP.215 - DAUDI MATSIKO — speakers: Daudi Matsiko, Séamus Murphy-Mitchell, Helen Green Adam Buxton, Adam Buxton
-- 2023-11-21 — EP.214 - MIKI BERENYI — speakers: Miki Berenyi, Thompson Twins, Séamus Murphy-Mitchell, Helen Green Adam Buxton, David Hepworth, Mark Ellen, Kate Mossman, Tina Weymouth
-- 2023-11-14 — EP.213 - WILL SHARPE — speakers: Will Sharpe, Artificial Intelligence, Séamus Murphy-Mitchell, Tom Kingsley, Jonah Hill, Dylan Southern, Will Lovelace, Yoyo Pilot
-- 2023-11-06 — EP.212 - KIRSTY YOUNG — speakers: Tom Hanks, Séamus Murphy-Mitchell, Joe Cornish, Adam Buxton
-- 2023-10-31 — EP.211 - GUZ KHAN — speakers: Séamus Murphy-Mitchell, Related Links, Guz Khan, James Acaster'S, Adam Buxton
-- 2023-10-26 — EP.210 - JAVID ABDELMONEIM (OF MSF) — speakers: Javid Abdelmoneim, Séamus Murphy-Mitchell, Becca Bryers, Twitter Javid, Adam Buxton
-- 2023-10-22 — EP.209 - BRIDGET CHRISTIE — speakers: Bridget Christie, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2023-10-16 — EP.208 - NATALIE WYNN aka CONTRAPOINTS — speakers: Séamus Murphy-Mitchell, Helen Green, Matt Gardner, Adam Buxton
-- 2023-10-09 — EP.207 - BILLY BRAGG — speakers: Billy Bragg, Neil Young, Stanley Kubrick, Bob Dylan, David Bowie, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2023-10-01 — EP.206 - DAISY MAY COOPER — speakers: Daisy May Cooper, Joe Show, Louis Theroux, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2023-09-24 — EP.205 - SAM BAIN — speakers: Sam Bain, Jesse Armstrong, Chris Morris, Bob Dylan, Séamus Murphy-Mitchell, Helen Green, Manchester Attack, Adam Buxton
-- 2023-09-24 — EP.204 - JESSE ARMSTRONG — speakers: Jesse Armstrong, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2023-09-16 — EP.203 - TASH DEMETRIOU — speakers: Tash Demetriou, Dementia UK, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2023-06-25 — EP.202 - LOUIS THEROUX @ LONDON PODCAST FESTIVAL, 2022 — speakers: Louis Theroux, Queen Elizabeth, Joe Cornish, Séamus Murphy-Mitchell, Helen Green, Stanley Brock, Adam Buxton
-- 2023-05-12 — EP.201 - TOM HANKS — speakers: Tom Hanks, Wes Anderson, Séamus Murphy-Mitchell, Helen Green Adam, Adam Buxton, Ringer Com, Bill Simmons, Cast Away
-- 2022-12-25 — EP.200 - ADAM AND JOE — speakers: Joe Adam, Joe Cornish, Séamus Murphy-Mitchell, Adam Buxton, Soyo Oka, Dan Hawkins, Henry Jackson Newcomb
-- 2022-12-20 — EP.199 - GARY YOUNGE — speakers: Gary Younge, Séamus Murphy-Mitchell, Helen Green, Gary Younge Destroys America'S, Martin Luther King'S, Adam Buxton
-- 2022-12-13 — EP.198 - NIHAL ARTHANAYAKE — speakers: Séamus Murphy-Mitchell, Becca Bryers, Helen Green, Baird Hall, Adam Buxton
-- 2022-12-06 — EP.197 - PADDY CONSIDINE — speakers: Séamus Murphy-Mitchell, Becca Bryers, Helen Green, Chris Morris, Adam Buxton
-- 2022-11-29 — EP.196 - MICHELLE DE SWARTE — speakers: Séamus Murphy-Mitchell, Helen Green, Michelle DE Swarte, Adam Buxton
-- 2022-11-21 — EP.195 - RAVI & GBENGA ADELEKAN — speakers: Olugbenga Adelekan, Séamus Murphy-Mitchell, Helen Green Related Links, Richard Ayoade, Tor Freeman, Adam Buxton
-- 2022-11-15 — EP.194 - RICHARD DAWSON — speakers: Richard Dawson, Judas Iscariot, Ben Tulloh, Séamus Murphy-Mitchell, Helen Green, Patrick Clarke, Jude Rogers, Harry Wheeler
-- 2022-11-08 — EP.193 - MAEVE HIGGINS — speakers: Maeve Higgins, Séamus Murphy-Mitchell, Helen Green, Directors Mike Ahern, Enda Loughman, Adam Buxton
-- 2022-10-31 — EP.192 - RICHARD E GRANT — speakers: Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2022-10-23 — EP.191 - LORNA TUCKER — speakers: Lorna Tucker, Vivienne Westwood, Séamus Murphy-Mitchell, Helen Green, Richard Herring, Adam Buxton
-- 2022-10-16 — EP.190 - IAN McEWAN — speakers: Ian McEwan, Bryan Magee, Séamus Murphy-Mitchell, Helen Green, Jussi Angesleva, Ian McEWAN'S, Mark Brown, Evelyn Waugh
-- 2022-10-09 — EP.189 - SAMIRA AHMED — speakers: Samira Ahmed, Mary Whitehouse, Séamus Murphy-Mitchell, Helen Green, Michael Cumming, Stewart Lee, David Bowie, Adam Buxton
-- 2022-10-02 — EP.188 - GRAHAM NORTON — speakers: Graham Norton, Séamus Murphy-Mitchell, Helen Green, John Higgs, Tom Hiddleston'S, Adam Buxton
-- 2022-09-09 — EP.187 - ANIL SETH — speakers: Anil Seth, Séamus Murphy-Mitchell, Becca Ptaszynski, Helen Green, Ted Talk, Simulation Argument, John Gray, Michael Pollan
-- 2022-08-17 — EP.186 - BELLE AND SEBASTIAN — speakers: Stuart Murdoch, Séamus Murphy-Mitchell, Helen Green, You'RE Feeling Sinister, Adrian Lobb, Adam Buxton
-- 2022-08-12 — EP.185 - MARIANA MAZZUCATO — speakers: Mariana Mazzucato, Séamus Murphy-Mitchell, Helen Green, João Medeiros, Mariana Mazzucato New, Gil Scott-Heron Whitey, Ernst Stuhlinger, Adam Buxton
-- 2022-07-17 — EP.184 - LOUIS THEROUX — speakers: Louis Theroux, Paul Theroux, Joe Wicks, Séamus Murphy-Mitchell, Louis Theroux'S, Sarah Lindberg, Anne Theroux, Adam Buxton
-- 2022-07-04 — EP.183 - TASH DEMETRIOU — speakers: Natasia Demetriou, theatre trauma, Séamus Murphy-Mitchell, Rachel Aroesti, Steve Terreberry, Chris Atkins, Adam Buxton
-- 2022-06-27 — EP.182 - JOHN HIGGS — speakers: John Higgs, John Lennon, Séamus Murphy-Mitchell, Ben Tulloh, William Blake VS, Joh Higgs, William Blake
-- 2022-06-19 — EP.181 - YOLA — speakers: Séamus Murphy-Mitchell, Mick Csáky, Gospel Caravan, NO Sunshine, James Gadson, Bill Withers Use ME, Adam Buxton
-- 2022-06-10 — EP.180 - JARVIS COCKER — speakers: Jarvis Cocker, Séamus Murphy-Mitchell, Helen Green, Pat Finnerty'S, Adam Buxton
-- 2022-05-27 — EP.179 - NATALIE PALAMIDES — speakers: Natalie Palamides, Chris Smith, Jim Carey, Andy Kaufman, Séamus Murphy-Mitchell, Helen Green, Jerri Blank, Adam Buxton
-- 2022-05-19 — EP.178 - SANJEEV BHASKAR — speakers: Sanjeev Bhaskar, Séamus Murphy-Mitchell, Becca Ptaszynski, Artwork Signed, Adam Buxton
-- 2022-05-11 — EP.177 - LAZY SUSAN — speakers: Lazy Susan, Freya Parker, Séamus Murphy-Mitchell, Becca Bryers, Helen Green, Adam Buxton
-- 2022-05-04 — EP.176 - PHIL WANG & MUSIC FROM SPOON — speakers: Phil Wang, Séamus Murphy-Mitchell, Ben Tulloh, DR Buckles, Michael Hann, Dave Simpson, Adam Buxton
-- 2022-04-26 — EP.175 - TIM KEY — speakers: Tim Key, Alex Horne, Séamus Murphy-Mitchell, Helen Green, Tim Key Mulberry, Rachael Healy, Tim Key'S, Adam Buxton
-- 2022-04-25 — EP.174 - ALEX HORNE — speakers: Alex Horne, Tim Key, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, Silver Jews, Adam Buxton
-- 2022-04-17 — EP.173 - MARIAN KEYES — speakers: Marian Keyes, Alan Yentob, Séamus Murphy-Mitchell, Helen Green, John Peel, Adam Buxton
-- 2021-12-25 — EP.172 - ADAM AND JOE — speakers: Joe Adam, Joe Cornish, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2021-12-07 — EP.171 - CALLOUT FOR XMAS PODCAST SUBMISSIONS AND A BIT OF FRAN LEBOWITZ — speakers: Fran Lebowitz Recorded, Séamus Murphy-Mitchell, Helen Green, Joe Related Links, Fran Lebowitz, David Letterman, Adam Buxton
-- 2021-11-26 — EP.170 - KAYVAN NOVAK — speakers: Kayvan Novak, Louis Theroux, Adam Curtis, Séamus Murphy-Mitchell, Helen Green, David Bowie, Adam Buxton
-- 2021-11-18 — EP.169 - KATY WIX — speakers: Katy Wix, Séamus Murphy-Mitchell, Helen Green, Tom Hodgkinson, Adam Buxton
-- 2021-11-09 — EP.168 - PATRICK RADDEN KEEFE — speakers: Patrick Radden Keefe, Séamus Murphy-Mitchell, Amy Bishop, Adam Buxton
-- 2021-11-02 — EP.167 - JULIA DAVIS — speakers: Julia Davis, Séamus Murphy-Mitchell, Helen Green, Hunderby Compilation, Sally Ever Therapist Scene, Adam Buxton
-- 2021-10-25 — EP.166 - DARREN HARRIOTT — speakers: Darren Harriott, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2021-10-19 — EP.165 - DAVID SEDARIS — speakers: David Sedaris, Séamus Murphy-Mitchell, Becca Ptaszynski, Helen Green, Steve Paikin David Sedaris, Adam Buxton
-- 2021-10-10 — EP.164 - COLSON WHITEHEAD — speakers: Description Adam, Colson Whitehead, Matt Lamont, Séamus Murphy-Mitchell, Becca Ptaszynski, Helen Green, Sean O'Hagan, Kirkus Website
-- 2021-10-05 — EP.163 - LAUREN PATTISON AND SAM LEE — speakers: Sam Lee Adam, Lauren Pattison, Sam Lee, Séamus Murphy-Mitchell, Homelessness Please, Sam Lee Related Links, Nathan Evans Wellerman, Adam Buxton
-- 2021-09-26 — EP.162 - JIM MOIR (AKA VIC REEVES) — speakers: Jim Moir, Vic Reeves, Séamus Murphy-Mitchell, Helen Green, Adam Buxton
-- 2021-09-20 — EP.161 - GEORGIA PRITCHETT — speakers: Séamus Murphy-Mitchell, Helen Green Signed, Adam Buxton
-- 2021-09-12 — EP.160 - SARAH SILVERMAN — speakers: Sarah Silverman, Séamus Murphy-Mitchell, Helen Green, Brian Logan, Adam Buxton'S, Adam Buxton
-- 2021-09-04 — EP.159 - TOMMY TIERNAN — speakers: Tommy Tiernan, Séamus Murphy-Mitchell, Helen Green, Tommy Tiernan Interviews, Adam Buxton
-- 2021-08-28 — EP.158 - ISABEL ALLENDE — speakers: Séamus Murphy-Mitchell, Helen Green, Taste Disorders Descript, Esther Perrel Rethinking Infidelity, Ted Talk, Adam Buxton
-- 2021-08-20 — EP.157 - ERIC ANDRÉ AND PHOEBE BRIDGERS — speakers: Eric André, Séamus Murphy-Mitchell, Helen Green, Eric Andre, Eric Andre Show Pranks, Hamilton Morriss, Anthony Fantano Reacts, Adam Buxton Website
-- 2021-05-14 — BONUS - JOE CORNISH RE. ADAM AND JOE AND MSF AUCTION — speakers: Séamus Murphy-Mitchell, Helen Green, Adam Buxton'S, Adam Buxton
-- 2021-04-14 — EP.156 - LEE MACK — speakers: Lee Mack, Séamus Murphy-Mitchell, Becca Ptaszynksy, Helen Green, Neil Webster, Adam Buxton
-- 2021-04-05 — EP.155 - LAURIE ANDERSON — speakers: Laurie Anderson Recorded, Séamus Murphy-Mitchell, Matt Lamont, Scott Edwards, Helen Green, Laurie Anderson, Adam Buxton'S, Adam Buxton
-- 2021-03-28 — EP.154 - TOM ALLEN — speakers: Tom Allen, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, Adam Buxton
-- 2021-03-14 — EP.153 - KAZUO ISHIGURO — speakers: Kazuo Ishiguro, AI Rosie, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, Liu Cixin, Adam Buxton
-- 2021-03-08 — EP.152 - ROSE MATAFEO — speakers: Rose Matafeo, Séamus Murphy-Mitchell, Scott Edwards, Matt Lamont, Helen Green, Adam Buxton Nutty, Meg Neal, James Acaster Perfect
-- 2021-03-03 — EP151 - TORVILL AND DEAN — speakers: Jayne Torvill, Christopher Dean, Séamus Murphy-Mitchell, Anneka Myson, Helen Green, Adam Buxton
-- 2021-02-28 — EP.150 - LOUIS THEROUX LIVE AT THE ROYAL FESTIVAL HALL 2019 — speakers: Louis Theroux, Michael Jackson, Max Clifford, Séamus Murphy-Mitchell, Emma Corsham, Helen Green, Adam Buxton'S, Adam Buxton
-- 2021-02-21 — EP.149 - RÓISÍN MURPHY — speakers: Róisín Murphy, Séamus Murphy-Mitchell, Matt Lamont, Scott Edwards, Helen Green, Adam Buxton'S, Adam Buxton
-- 2021-02-14 — EP.148 - TONY LAW — speakers: Tony Law, Séamus Murphy-Mitchell, Owen Donovan, Anneka Myson, Helen Green, David Byrne, Adam Buxton
-- 2021-02-07 — EP.147 - ELIZABETH DAY — speakers: Elizabeth Day, Séamus Murphy-Mitchell, Anneka Myson, Links Failosophy, Adam Buxton'S, Adam Buxton
-- 2021-01-31 — EP.146 - STEWART LEE — speakers: Stewart Lee, King Rocker, Michael Cumming, Robert Lloyd, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, Adam Buxton Website
-- 2020-12-25 — EP.145 - ADAM AND JOE — speakers: Joe Cornish, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, Adam Buxton'S, Marian Keyes, Julien Temple, Adam Buxton
-- 2020-12-11 — EP.144 - PAUL McCARTNEY — speakers: Paul McCartney, Bob Dylan, John Lennon, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, DR Buckles, Michael Lyndsay Hogg
-- 2020-12-06 — EP.143 - RACHEL BLOOM — speakers: Rachel Bloom, Adam Schlesinger, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, Adam Links, Adam Buxton'S, Adam Buxton
-- 2020-11-29 — EP.142 - BENJAMIN ZEPHANIAH — speakers: Benjamin Zephaniah, Séamus Murphy-Mitchell, Anneka Myson, Helen Green, Benjamin Zephaniah'S, Benjamin Zephaniah Dis Policeman, Joe Links Adam, Adam Buxton
-- 2020-11-20 — EP.141 - JOE LYCETT — speakers: Joe Lycett, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, Hecklethevirus Website, Litany UH-Huh, Knobhead Scale, Joe Lycett Net Worth
-- 2020-11-14 — EP.140 - CANDICE CARTY-WILLIAMS — speakers: Candice Carty-Williams, Lex Fridman, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, Stewart Lee, Adam Buxton
-- 2020-11-08 — EP.139 - FRAN HEALY — speakers: Fran Healy, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, DR Buckles, Adam Buxton
-- 2020-11-04 — EP.138 - MILES JUPP — speakers: Miles Jupp, Séamus Murphy-Mitchell, Anneka Myson, Jack Bushell, Helen Green, Adam Buxton'S, Adam Buxton
-- 2020-10-31 — EP.137 - NINA CONTI — speakers: Nina Conti, Séamus Murphy-Mitchell, Emma Corsham, Helen Green, Adam Buxton'S, Adam Buxton
-- 2020-10-25 — EP.136 - BLINDBOY — speakers: Séamus Murphy-Mitchell, Emma Corsham, Helen Green, Adam Buxton
-- 2020-10-17 — EP.135 - ELLIE WHITE — speakers: Ellie White, Séamus Murphy-Mitchell, Emma Corsham, Helen Green, Adam Buxton, Adam Buxton'S
-- 2020-10-12 — EP.134 - SLEAFORD MODS — speakers: Sleaford Mods, Séamus Murphy-Mitchell, Anneka Myson, Helen Green, Sleaford Mods Kebab, Sleaford Mods Head, Casey Raymond Sleaford Mods, Christine Franz
-- 2020-10-09 — EP.133 - RAVEN SMITH — speakers: Raven Smith, George Floyd, Charlie Bucket, Anna Buxton, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, Adam Buxton'S
-- 2020-10-03 — EP.132 - ROBBIE WILLIAMS — speakers: Williams Adam, Robbie Williams, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, Adam Buxton'S, Williams Stayin, Ahmed'S How
-- 2020-09-24 — EP.131 - CAITLIN MORAN — speakers: Moran Adam, Caitlin Moran, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, John Cusack, Adam Buxton
-- 2020-08-05 — EP.130 - ZADIE SMITH — speakers: Zadie Smith, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, Adam Buxton'S, Adam Buxton
-- 2020-07-27 — EP.129 - HELEN LEWIS — speakers: Helen Lewis, Jordan Peterson, Séamus Murphy-Mitchell, Matt Lamont, Helen Green, Adam Buxton'S, Adam Buxton
-- 2020-07-19 — EP.128 - ED O'BRIEN — speakers: Ed O'Brien, Séamus Murphy-Mitchell, Matt Lamont, Dan Hawkins, Alexander Courage, Adam Buxton'S, David Fricke, Adam Buxton
-- 2020-07-13 — EP.127 - HOLLY WALSH — speakers: Holly Walsh, Hilary Clinton, Richard Herring, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton'S, Marcus Werner, Nathaniel Mellors
-- 2020-06-30 — EP.126 - JOE CORNISH — speakers: Joe Cornish, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2020-05-26 — EP.125 - GEORGE THE POET AT LONDON PODCAST FESTIVAL 2019 — speakers: George Mpanga, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton'S, George Reads, Adam Buxton
-- 2020-05-26 — EP.124 - SARA BARRON AT LONDON PODCAST FESTIVAL 2019 — speakers: Sara Barron, Adam Buxton'S, Adam Buxton
-- 2020-05-17 — EP.123 - NILE RODGERS — speakers: Nile Rodgers, Séamus Murphy-Mitchell, Anneka Myson, Adam Buxton'S, Adam Buxton
-- 2020-05-10 — EP.122 - LAURA MARLING — speakers: Laura Marling, Séamus Murphy-Mitchell, Anneka Myson, Adam Buxton'S, Sam Liddicott, Adam Buxton
-- 2020-05-02 — EP.121 - LOUIS THEROUX — speakers: Louis Theroux, Tiger King, Séamus Murphy-Mitchell, Matt Lamont, Gear Music, Matthew Barney, Muscle Function Info Pelvic, Adam Buxton
-- 2020-04-26 — EP.120 - TASH DEMETRIOU — speakers: Natasia Demetriou, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2020-04-16 — EP.119 - ROMESH RANGANATHAN — speakers: Séamus Murphy-Mitchell, Matt Lamont, Coronavirus Info Hosted, Adam Buxton
-- 2020-04-05 — EP.118 - MALCOLM GLADWELL — speakers: Malcolm Gladwell, Séamus Murphy-Mitchell, Matt Lamont, DR Buckles, Sam Rosenthal, Adam Buxton
-- 2020-03-31 — EP.117 - DAISY HAGGARD — speakers: Daisy Haggard, Séamus Murphy-Mitchell, Matt Lamont, DR Buckles, Tim Key'S, Adam Buxton Reads, Adam Buxton
-- 2020-03-26 — EP.116 - DR XAND VAN TULLEKEN (RE. CORONAVIRUS) — speakers: Xand van Tulleken, Séamus Murphy-Mitchell, Xander van Tulleken, Adam Buxton
-- 2019-12-25 — EP.115 - ADAM & JOE — speakers: Joe Cornish, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton, Brittany Broski Kombucha Girl, Brittany Broski Love, John Lewis
-- 2019-12-14 — EP.114 - BILLY CONNOLLY — speakers: Billy Connolly, Séamus Murphy-Mitchell, Anneka Myson, Adam Buxton
-- 2019-12-07 — EP.113 - JEFF GOLDBLUM — speakers: Jeff Goldblum, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton, Luke Drozd Kickstarter Hosted
-- 2019-12-02 — EP.112 - DR DIANA FLEISCHMAN — speakers: Diana Fleischman, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton, Bailey Norwood
-- 2019-11-26 — EP.111 - NICKY WIRE — speakers: Nicky Wire, Séamus Murphy-Mitchell, Anneka Myson, Adam Buxton
-- 2019-11-22 — EP.110 - DERREN BROWN — speakers: Derren Brown, Séamus Murphy-Mitchell, Matt Lamont, Vote Adam Buxton, Adam Buxton
-- 2019-11-16 — EP.109 - DAWN O'PORTER — speakers: Dawn O'Porter, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2019-11-08 — EP.108 - MICHAEL KIWANUKA — speakers: Michael Kiwanuka, Ronnie Scotts, Séamus Murphy-Mitchell, Matt Lamont, Michael Kiwanuka Black, Little Heart, Adam Buxton
-- 2019-11-01 — EP.107 - GUZ KHAN — speakers: Anneka Myson, Seamus Murphy-Mitchel, Adam Buxton
-- 2019-10-25 — EP.106 - SHOSHANA ZUBOFF — speakers: Shoshana Zuboff, Séamus Murphy-Mitchell, Matt Lamont, James Bridle, Adam Buxton
-- 2019-10-18 — EP.105 - CHRIS MORRIS 2 — speakers: Chris Morris, David Bowie, Quentin Tarantino, George Monbiot Why Fukushsima, David Bowie NO, Adam Buxton
-- 2019-10-14 — EP.104 - CHRIS MORRIS 1 — speakers: Chris Morris, Séamus Murphy-Mitchell, Matt Lamont, Mike German, Steven Berkoff, Adam Buxton
-- 2019-10-11 — EP.103 - EMILY DEAN — speakers: Emily Dean, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2019-10-04 — EP.102 - PHILIP PULLMAN — speakers: Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2019-07-21 — EP.101 - BOOK CLUB: 'THE CATCHER IN THE RYE' WITH SARA PASCOE & RICHARD AYOADE — speakers: Sara Pascoe, Richard Ayoade, Jean Gallagher, Sally Hayes, Anneka Myson, Seamus Murphy-Mitchel, Paul Alexander, backstreetmerch com
-- 2019-07-13 — EP.100 - JOE CORNISH & LOUIS THEROUX — speakers: Joe Cornish, Louis Theroux, David Bowie, Seamus Murphy-Mitchel, Matt Lamont, Adam Buxton, Dan Hawkins Use Dan
-- 2019-07-07 — EP.99 - FRANK SKINNER — speakers: Frank Skinner, Charles Bukowski, Lad Mag, Séamus Murphy-Mitchell, Adam Buxton
-- 2019-06-29 — EP.98 - MAYA FOA — speakers: Jack Bauer, Kevin Kline, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2019-06-15 — EP.97 - BOB MORTIMER & PAUL WHITEHOUSE — speakers: Paul Whitehouse, Bob Mortimer, Athletico Mince, Séamus Murphy-Mitchell, Matt Lamont, Dan Hawkins, Martin Luther King, Adam Buxton London
-- 2019-06-08 — EP.96 - CHARLOTTE CHURCH — speakers: Charlotte Church, Anneka Myson, Seamus Murphy-Mitchel, backstreetmerch com, Adam Buxton
-- 2019-06-02 — EP.95 - JOHN GRANT — speakers: John Grant, Adam Buxton, Anneka Myson, Seamus Murphy-Mitchel, John Grant HE'S, David Shire, David Shire'S
-- 2019-05-25 — EP.94 - NINA STIBBE — speakers: Nina Stibbe, David Sedaris, Mary-Kay Wilmers, Lizzie Vogel, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2019-05-18 — EP.93 - CHARLOTTE GAINSBOURG — speakers: Charlotte Gainsbourg, Kanye West, Lars Von Trier, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2019-05-11 — EP.92 - JAMES ACASTER — speakers: James Acaster, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2019-05-04 — EP.91 - MARLON JAMES — speakers: Marlon James, Peter Gabriel, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2019-04-26 — EP.90 - RUBY WAX — speakers: Ruby Wax, Séamus Murphy-Mitchell, Anneka Myson, Adam Buxton Related, Adam Buxton
-- 2019-04-19 — EP.89 - DAVID MITCHELL — speakers: David Mitchell, Séamus Murphy-Mitchell, Matt Lamont, Dan Hawkins, Adam Buxton, David Mitchell Etc
-- 2018-12-25 — EP.88 - ADAM & JOE — speakers: Joe Cornish, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton, Lin Manuel Miranda
-- 2018-12-10 — EP.87 - NISH KUMAR — speakers: Bob Dylan, Seamus Murphy-Mitchel, Anneka Myson, Adam Buxton, Dan Hawkins
-- 2018-12-03 — EP.86 - MONA CHALABI — speakers: Mona Chalabi, Seamus Murphy-Mitchel, Matt Lamont, Adam Buxton Contribute, Related Links Fourth, Adam Buxton
-- 2018-11-26 — EP.85 - MICHAEL SCOTT MOORE — speakers: Michael Scott Moore, Séamus Murphy-Mitchell, Adam Buxton, K’naan Listen, Related Links Michael
-- 2018-11-17 — EP.84 - ROISIN CONATY — speakers: Roisin Conaty, Séamus Murphy-Mitchell, Anneka Myson, Adam Buxton Related Links, Adam Buxton
-- 2018-11-12 — EP.83 - SIMON PEGG — speakers: Simon Pegg, David Bowie, Tom Cruise, Séamus Murphy-Mitchell, Adam Buxton, Alexander Courage
-- 2018-11-03 — EP.82 - TASH DEMETRIOU — speakers: Tash Demetriou, Taika Waititi, Jemaine Clements, Séamus Murphy-Mitchell, Matt Lamont, Links Stath, Adam Buxton
-- 2018-10-27 — EP.81 - LOUIS THEROUX — speakers: Louis Theroux, Mark Wahlberg, Oprah Winfrey, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton Louis Adam, Marc Maron Attempting Normal, Steve Martin Born Standing
-- 2018-10-20 — EP.80 - DESIREE BURCH — speakers: Desiree Burch, Séamus Murphy-Mitchell, Emma Mills, Adam Buxton Related, Adam Buxton
-- 2018-10-12 — EP.79 - DAVID SEDARIS — speakers: David Sedaris, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton, Danny Richards
-- 2018-08-18 — EP.78 - LAURA DAVIS & MAC DEMARCO LIVE @ END OF THE ROAD FESTIVAL 2017 — speakers: Laura Davis, Mac DeMarco, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton Related, Adam Buxton
-- 2018-06-07 — EP.77 - TIM KEY — speakers: Tim Key, Séamus Murphy-Mitchell, Adam Buxton, Dan Hawkins
-- 2018-05-13 — EP.76 - CHARLIE BROOKER — speakers: Charlie Brooker, Jimmy Carr, Séamus Murphy-Mitchell, Adam Buxton Adam Buxton, Joe People, Adam Buxton
-- 2018-05-05 — EP.75 - ELEANOR FRIEDBERGER — speakers: Eleanor Friedberger, Adam Buxton, Benton Harbour Blues, Bitter Tea, Gallowsbird’d Bark, Blueberry Boat, Séamus Murphy-Mitchell, Adam Buxton Related Links
-- 2018-04-28 — EP.74 - BOB MORTIMER — speakers: Bob Mortimer, Adam Buxton, Jim Moir, Vic Reeves, Andy Dawson, Athletico Mince, Paul Whitehouse, Séamus Murphy-Mitchell
-- 2018-04-21 — EP.73 - CARIAD LLOYD — speakers: Adam Buxton, Séamus Murphy-Mitchell, Jack Bushell, Adam Buxton Related
-- 2018-04-14 — EP.72 - FENTON BAILEY — speakers: Fenton Bailey, Jon Ronson, Randy Barbato, Joe Cornish, Rupaul’s Drag Race, Michael Alig, Robert Riggs, Angel Melendez
-- 2018-04-07 — EP.71 - JAYDE ADAMS — speakers: Jayde Adams, Bette Midler, Séamus Murphy-Mitchell, Adam Buxton Hosted, Adam Buxton
-- 2018-03-31 — EP.70 - GARTH JENNINGS & WES ANDERSON — speakers: Wes Anderson Adam, Garth Jennings, Wes Anderson, David Bowie, Mary Poppins, Bowie Trumps, Casey Raymond, Séamus Murphy-Mitchell
-- 2018-03-23 — EP.69 - LOLLY ADEFOPE — speakers: Lolly Adefope, Steve Buscemi, Daniel Radcliffe, Adam’s dog Rosie, Séamus Murphy-Mitchell, Matt Lamont, Buxton’s Old, Adam Buxton
-- 2018-03-16 — EP.68 - JON RONSON — speakers: Jon Ronson, Katie Hopkins, Séamus Murphy-Mitchell, Jack Bushell, Adam Buxton Hosted, Adam Buxton
-- 2018-03-10 — EP.67 - AISLING BEA — speakers: Aisling Bea, Séamus Murphy-Mitchell, Jack Bushell, Adam Buxton Hosted, Adam Buxton
-- 2018-03-02 — EP.66 - MICHAEL LEWIS — speakers: Michael Lewis, Money Ball, Liar’s Poker, Amos Tversky, Daniel Kahneman, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2018-02-23 — EP.65 - DIANE MORGAN — speakers: Diane Morgan, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton Hosted, Adam Buxton
-- 2018-02-16 — EP.64 - GRETA GERWIG — speakers: Gerwig Adam, Greta Gerwig, Lady Bird, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton Hosted, Adam Buxton
-- 2018-02-09 — EP.63B - JONNY GREENWOOD — speakers: Jonny Greenwood, Paul Thomas Anderson, Phantom Thread, Adam Buxton’s Old, Séamus Murphy-Mitchell, Adam Buxton Hosted, Adam Buxton
-- 2018-02-09 — EP.63A - PAUL THOMAS ANDERSON — speakers: Paul Thomas Anderson, Boogie Nights, Phantom Thread, Daniel Day Lewis, Adam Buxton’s Old, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton Hosted
-- 2017-12-25 — EP.62 - ADAM & JOE — speakers: Joe Cornish, Adam Buxton’s Old, Séamus Murphy-Mitchell, Adam Buxton Hosted, Adam Buxton
-- 2017-12-16 — EP.61 - ROMESH RANGANATHAN — speakers: Adam Buxton’s Old, Séamus Murphy-Mitchell, Adam Buxton Hosted, Adam Buxton
-- 2017-12-09 — EP.60 - THOMAS DOLBY — speakers: Thomas Dolby, Michael Jackson, David Bowie, Adam Buxton’s Old Bits, Adam Buxton App, Matt Lamont, Adam Buxton Hosted, Adam Buxton
-- 2017-11-26 — EP.59 - MUSIC VIDEO TALES WITH TIM POPE — speakers: Tim Pope Adam, Tim Pope, Iggy Pop, Neil Young, David Bowie, Adam Buxton’s Old Bits, Séamus Murphy-Mitchell, Adam Buxton Hosted
-- 2017-11-26 — EP.58 - JOSH HOMME (WITH SOME MATT BERRY) — speakers: Josh Homme, Matt Berry, Adam Buxton’s Old, Jack Bushell, Adam Buxton Hosted, Adam Buxton
-- 2017-11-18 — EP.57 - HASSAN AKKAD — speakers: Hassan Akkad, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton Hosted, Adam Buxton
-- 2017-11-11 — EP.56 - KATHY BURKE — speakers: Kathy Burke, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton Hosted, Adam Buxton
-- 2017-11-03 — EP.55 - SIMON AMSTELL — speakers: Simon Amstell, Adam Buxton, Matt Lamont, Buxton’s Old
-- 2017-10-26 — EP.54 - BILL BURR — speakers: Bill Burr, Séamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2017-10-20 — EP.53 - MIRANDA SAWYER — speakers: Sawyer Adam, Miranda Sawyer, Matt Lamont, Adam Buxton Hosted, Adam Buxton
-- 2017-10-12 — EP.52 - STEVE PEMBERTON & REECE SHEARSMITH — speakers: Reece Shearmsith, Matt Lamont, Adam Buxton Hosted, Adam Buxton
-- 2017-10-05 — EP.51 - JOHNNY MARR — speakers: Johnny Marr, Matt Lamont, Adam Buxton Hosted, Adam Buxton
-- 2017-09-29 — EP.50 - MAE MARTIN — speakers: Mae Martin, Matt Lamont, Adam Buxton Hosted, Adam Buxton
-- 2017-09-24 — EP.49 - LOUIS THEROUX — speakers: Louis Theroux, Matt Lamont, Adam Buxton Hosted, Adam Buxton
-- 2017-09-14 — EP.48 - HOLIDAY TIME - SKIING (WITH DOUGIE PAYNE) — speakers: Dougie Payne, Alikats Mountain Holidays, Adam Buxton
-- 2017-06-16 — EP.47 - SPOON — speakers: Jim Eno, Alex Fischel, Manchester Gorilla, Adam Buxton
-- 2017-06-01 — EP.46 - SHARON HORGAN — speakers: Sharon Horgan, Carrie Fisher, Adam Buxton, Seamus Murphy Mitchel, Matt Lamont
-- 2017-05-26 — EP.45 - EDGAR WRIGHT — speakers: Edgar Wright, Baby Driver, Adam Buxton, Seamus Murphy Mitchel, Matt Lamont
-- 2017-05-18 — EP.44 - ADAM CURTIS — speakers: Adam Curtis, Nicky Waltham, Doug Bryson, Seamus Murphy Mitchel, Adam Buxton Hosted, Adam Buxton
-- 2017-05-11 — EP.43 - NICK KROLL — speakers: Nick Kroll, James Franco, Adam Buxton, Matt Lamont
-- 2017-05-04 — EP.42 - BRIDGET CHRISTIE & STEVE MASON — speakers: Bridget Christie, Steve Mason, Adam Buxton, Matt Lamont
-- 2017-04-27 — EP.41 - MARC MARON — speakers: Marc Maron, Jonathan Demme, Matt Lamont, Adam Buxton
-- 2017-04-20 — EP.40 - ZADIE SMITH — speakers: Zadie Smith, John Lennon, David Foster Wallace, Adam Buxton, Luke Drozd, Matt Lamont
-- 2017-04-13 — EP.39 - JULIAN BARRATT & GARTH JENNINGS — speakers: Garth Jennings, Mighty Boosh, Julian Barratt, George Lucas Skywalker Ranch, Adam Buxton, Matt Lamont
-- 2017-04-06 — EP.38 - BRIAN ENO PART TWO — speakers: Brian Eno, Adam Buxton, Matt Lamont
-- 2017-04-06 — EP.37 - BRIAN ENO PART ONE — speakers: Brian Eno, Adam Buxton, Matt Lamont
-- 2017-03-30 — EP.36 - CLAUDIA O'DOHERTY — speakers: Amy Schumer, Judd Apatow, Seamus Murphy-Mitchell, Matt Lamont, Helen Green, Adam Buxton
-- 2017-03-23 — EP.35 - STEVE COOGAN — speakers: Steve Coogan, Seamus Murphy-Mitchell, Matt Lamont, Helen Green, Adam Buxton
-- 2016-12-25 — EP.34 - ADAM & JOE — speakers: Seamus Murphy-Mitchell, Adam Buxton
-- 2016-11-13 — EP.33 - MATT BERRY — speakers: Matt Berry, Bill Paxton, Dan Hawkins, Adam Buxton
-- 2016-10-25 — EP.32- TASH DEMETRIOU — speakers: Kwicque Fyre Kweschuns, Seamus Murphy-Mitchell, Matt Lamont, Adam Buxton, Dan Hawkins
-- 2016-10-12 — EP.31 - RORY O'NEILL A.K.A PANTI BLISS — speakers: Rory O’Neill, Panti Bliss, Seamus Murphy-Mitchell, Adam Buxton Hosted, Adam Buxton
-- 2016-09-21 — EP.30 - MICHAELA COEL — speakers: Michaela Coel, Seamus Murphy-Mitchell, Adam Buxton Hosted, Adam Buxton
-- 2016-09-12 — EP.29 - LOUIS THEROUX — speakers: Louis Theroux, Seamus Murphy-Mitchell, Matt Lamont, Adam Buxton
-- 2016-09-01 — EP.28 - MICHAEL PALIN — speakers: Michael Palin, Seamus Murphy-Mitchell, Adam Buxton
-- 2016-08-11 — EP.27 - BILL HADER — speakers: Bill Hader, Matt Lamont, Seamus Murphy-Mitchell, Adam Buxton
-- 2016-07-21 — EP.26 - SALLY WAINWRIGHT — speakers: Sally Wainwright, Adam Buxton Hosted, Adam Buxton
-- 2016-07-09 — EP.25 - RICHARD AYOADE (TRAVEL MAN CONVERSATIONS 2) — speakers: Adam Buxton, Richard Ayoade, Woody Allen
-- 2016-07-08 — EP.24 - RICHARD AYOADE (TRAVEL MAN CONVERSATIONS 1) — speakers: Richard Ayoade, Michael Haneke, Adam Buxton
-- 2016-06-23 — EP.23 - JOHN ROBINS — speakers: John Robins, Matt Lamont, Seamus Murphy-Mitchell, Adam Buxton
-- 2016-06-19 — EP.22B - JONNY GREENWOOD (BONUSJONNYBITS) — speakers: Jonny Greenwood, Adam Buxton Hosted, Adam Buxton
-- 2016-06-12 — EP.22 - JONNY GREENWOOD — speakers: Jonny Greenwood, Adam Buxton Always, Adam Buxton
-- 2016-06-03 — EP.21 - MARC RILEY — speakers: Riley Adam, Bbc Music, Marc Riley, Seamus Murphy-Mitchel, Matt Lamont, Adam Buxton, Jumper Clown
-- 2016-05-27 — EP.20 - IAIN LEE — speakers: Iain Lee, Seamus Murphy-Mitchell, Matt Lamont, Adam Buxton Hosted, Adam Buxton
-- 2016-05-06 — EP.19 - BEN SMITH AKA DOC BROWN — speakers: Ben Smith, Doc Brown, Amy Winehouse, Adam Buxton, Seamus Murphy-Mitchell, Matt Lamont
-- 2016-04-28 — EP.18 - SARA PASCOE — speakers: Sara Pascoe, Matt Lamont, Seamus Murphy-Mitchell, Adam Buxton Hosted, Adam Buxton
-- 2016-04-21 — EP.17 - RICHARD HERRING — speakers: Richard Herring, Seamus Murphy-Mitchell, Matt Lamont, Adam Buxton, Soyo Oka
-- 2016-04-13 — EP.16 - PUB WALK WITH GARTH JENNINGS — speakers: Garth Jennings Adam, Ken Korda, Seamus Murphy-Mitchell, Adam Buxton, Soyo Oka
+- 2025-12-25 — EP.268 - ADAM AND JOE — speakers: Joe Adam, Adam Buxton
+- 2025-12-01 — EP.267 - RICHARD AYOADE & FRANK BLACK (LIVE) — speakers: DR Buckles, Adam Buxton
+- 2025-11-25 — EP.266 - DEVENDRA BANHART — speakers: Devendra Banhart, Adam Buxton
+- 2025-11-17 — EP.265 - LUCY WALKER — speakers: Lucy Walker, Adam Buxton
+- 2025-11-09 — EP.264 - DAVID O'DOHERTY (LIVE) — speakers: David O'Doherty, Adam Buxton
+- 2025-11-02 — EP.263 - ZADIE SMITH — speakers: Zadie Smith, Adam Buxton
+- 2025-10-24 — EP.262 - JOHN FOXX — speakers: John Foxx, Adam Buxton
+- 2025-10-08 — EP.261 - AYOADE BAMGBOYE — speakers: Ayoade Bamgboye, Adam Buxton
+- 2025-09-30 — EP.260 - NATALIE ROBERTS — speakers: Natalie Roberts, Adam Buxton
+- 2025-09-22 — EP.259 - ERIC IDLE — speakers: Eric Idle, Adam Buxton
+- 2025-09-15 — EP.258 - EMMA SIDI — speakers: Emma Sidi, Matthew McConaugh, Adam Buxton
+- 2025-09-08 — EP.257 - BENEDICT CUMBERBATCH — speakers: Benedict Cumberbatch, Adam Buxton
+- 2025-09-05 — EP.256 - COLIN GREENWOOD — speakers: Colin Greenwood, Adam Buxton
+- 2025-08-29 — EP.255 - DAVID BYRNE — speakers: David Byrne, Adam Buxton
+- 2025-07-25 — EP.254 - JESSICA KNAPPETT WITH MUSIC FROM DAUDI MATSIKO LIVE @ YORK THEATRE ROYAL, 2024 — speakers: Jessica Knappett, Adam Buxton
+- 2025-07-10 — EP.253 - SQUID — speakers: Adam Buxton
+- 2025-06-30 — EP.252 - GUZ KHAN (LIVE) — speakers: Adam Buxton
+- 2025-06-22 — EP.251 - DECLAN McKENNA — speakers: Declan McKenna, Adam Buxton
+- 2025-06-18 — EP.250 - JONNY SWEET — speakers: Jonny Sweet, Adam Buxton
+- 2025-06-11 — EP.249 - PAULINE BLACK — speakers: Pauline Blac, Adam Buxton
+- 2025-06-02 — EP.248 - LOYLE CARNER — speakers: Loyle Carner, Adam Buxton
+- 2025-05-25 — EP.247 - TIM KEY AND TOM BASDEN — speakers: Tim Key, Tom Basden Adam, Tom Basden, Adam Buxton
+- 2025-05-17 — EP.246 - JO BRAND — speakers: Jo Brand, Adam Buxton
+- 2025-05-11 — EP.245 - KATE NASH — speakers: Nash Adam, Kate Nash, Adam Buxton
+- 2025-04-27 — EP.244 - LOUIS THEROUX & RICHARD DAWSON LIVE — speakers: Louis Theroux, Adam Buxton
+- 2025-04-19 — EP.243 - KATE MOSSMAN — speakers: Kate Mossman, Adam Buxton
+- 2025-04-11 — EP.242 - RICHARD AYOADE — speakers: Richard Ayoade, David Lynch, Adam Buxton
+- 2025-04-05 — EP.241 - CMAT — speakers: Irish singer-songwriter Cmat, gig etiquette, Adam Buxton
+- 2025-03-28 — EP.240 - DAVID LETTERMAN — speakers: David Letterman, Adam Buxton
+- 2025-01-25 — EP.239 - ROB BURLEY — speakers: Rob Burley, Adam Buxton
+- 2024-12-25 — EP.238 - ADAM AND JOE LIVE @ ROYAL FESTIVAL HALL — speakers: Adam Buxton
+- 2024-12-22 — EP.237 - DAME MARY BEARD — speakers: Mary Beard Adam, Mary Beard, Adam Buxton
+- 2024-12-16 — EP.236 - KIELL SMITH BYNOE — speakers: Kiel Smith Bynoe, Adam Buxton
+- 2024-12-08 — EP.235 - KIM DEAL — speakers: Kim Deal, Adam Buxton
+- 2024-11-29 — EP.234 - TASH DEMETRIOU LIVE — speakers: Natasia Demetriou, Adam Buxton
+- 2024-11-22 — EP.233 - MARINA HYDE — speakers: British journalist, Adam Buxton
+- 2024-11-11 — EP.232 - PATRIC GAGNE ON BEING A SOCIOPATH & UPLIFTING MOVIE PICKS FROM PODCAST FRIENDS — speakers: Patric Gagne, Adam Buxton
+- 2024-11-03 — EP.231 - KERRY GODLIMAN — speakers: Kerry Godliman, Adam Buxton
+- 2024-10-25 — EP.230 - COLM TÓIBÍN — speakers: Don Trump, Adam Buxton
+- 2024-10-20 — EP.229 - GARTH JENNINGS & LAURA MARLING LIVE — speakers: Garth Jennings, Adam Buxton
+- 2024-10-13 — EP.228 - DR JOHN COOPER CLARKE — speakers: John Cooper Clarke, Adam Buxton
+- 2024-10-05 — EP.227 - HELEN LEWIS — speakers: Helen Lewis, Adam Buxton
+- 2024-09-28 — EP.226 - SAM CAMPBELL — speakers: Sam Campbell, Adam Buxton
+- 2024-09-21 — EP.225 - MIRIAM MARGOLYES — speakers: Miriam Margolyes, Adam Buxton
+- 2024-03-29 — EP.224 - FENTON BAILEY — speakers: Fenton Bailey, Adam Buxton
+- 2024-03-10 — EP.223 - JESSICA KNAPPETT — speakers: Jessica Knappett, Adam Buxton
+- 2024-03-04 — EP.222 - GEORGE MONBIOT — speakers: George Monbiot, Adam Buxton
+- 2024-02-26 — EP.221 - TIM HEIDECKER — speakers: Tim Heidecker, Adam Buxton
+- 2024-02-18 — EP.220 - FRED ARMISEN — speakers: Fred Arm, Adam Buxton
+- 2024-02-14 — EP.219 - AYISHAT AKANBI — speakers: Ayishat Akanbi, Adam Buxton
+- 2024-02-06 — EP.218 - WERNER HERZOG — speakers: Werner Herzog, Adam Buxton
+- 2023-12-25 — EP.217 - ADAM AND JOE LIVE @ ROYAL FESTIVAL HALL — speakers: Joe Cornish, Adam Buxton
+- 2023-12-05 — EP.216 - JOE LYCETT — speakers: Adam Buxton
+- 2023-11-27 — EP.215 - DAUDI MATSIKO — speakers: British Ugandan singer-songwriter, Adam Buxton
+- 2023-11-21 — EP.214 - MIKI BERENYI — speakers: English singer, book writer, Adam Buxton
+- 2023-11-14 — EP.213 - WILL SHARPE — speakers: Will Sharpe, Adam Buxton
+- 2023-11-06 — EP.212 - KIRSTY YOUNG — speakers: Adam Buxton
+- 2023-10-31 — EP.211 - GUZ KHAN — speakers: Adam Buxton
+- 2023-10-26 — EP.210 - JAVID ABDELMONEIM (OF MSF) — speakers: Javid Abdelmoneim, Adam Buxton
+- 2023-10-22 — EP.209 - BRIDGET CHRISTIE — speakers: Bridget Christie, Adam Buxton
+- 2023-10-16 — EP.208 - NATALIE WYNN aka CONTRAPOINTS — speakers: Adam Buxton
+- 2023-10-09 — EP.207 - BILLY BRAGG — speakers: Billy Bragg, Adam Buxton
+- 2023-10-01 — EP.206 - DAISY MAY COOPER — speakers: Daisy May Cooper, Adam Buxton
+- 2023-09-24 — EP.205 - SAM BAIN — speakers: Sam Bain, Jesse Armstrong, Adam Buxton
+- 2023-09-24 — EP.204 - JESSE ARMSTRONG — speakers: Jesse Armstrong, Adam Buxton
+- 2023-09-16 — EP.203 - TASH DEMETRIOU — speakers: Tash Demetriou, Adam Buxton
+- 2023-06-25 — EP.202 - LOUIS THEROUX @ LONDON PODCAST FESTIVAL, 2022 — speakers: Louis Theroux, Adam Buxton
+- 2023-05-12 — EP.201 - TOM HANKS — speakers: Tom Hanks, Adam Buxton
+- 2022-12-25 — EP.200 - ADAM AND JOE — speakers: Joe Adam, Joe Cornish, Adam Buxton
+- 2022-12-20 — EP.199 - GARY YOUNGE — speakers: Gary Younge, Adam Buxton
+- 2022-12-13 — EP.198 - NIHAL ARTHANAYAKE — speakers: Adam Buxton
+- 2022-12-06 — EP.197 - PADDY CONSIDINE — speakers: British actor, Hot Fuzz, Adam Buxton
+- 2022-11-29 — EP.196 - MICHELLE DE SWARTE — speakers: Adam Buxton
+- 2022-11-21 — EP.195 - RAVI & GBENGA ADELEKAN — speakers: Olugbenga Adelekan, Adam Buxton
+- 2022-11-15 — EP.194 - RICHARD DAWSON — speakers: Richard Dawson, Judas Isca, Adam Buxton
+- 2022-11-08 — EP.193 - MAEVE HIGGINS — speakers: Maeve Higgins, Adam Buxton
+- 2022-10-31 — EP.192 - RICHARD E GRANT — speakers: Adam Buxton
+- 2022-10-23 — EP.191 - LORNA TUCKER — speakers: Lorna Tucker, Adam Buxton
+- 2022-10-16 — EP.190 - IAN McEWAN — speakers: Ian McEwan, Adam Buxton
+- 2022-10-09 — EP.189 - SAMIRA AHMED — speakers: Samira Ahmed, Mary Wh, Adam Buxton
+- 2022-10-02 — EP.188 - GRAHAM NORTON — speakers: Graham Norton, Adam Buxton
+- 2022-09-09 — EP.187 - ANIL SETH — speakers: Adam Buxton
+- 2022-08-17 — EP.186 - BELLE AND SEBASTIAN — speakers: Stuart Murdoch, Adam Buxton
+- 2022-08-12 — EP.185 - MARIANA MAZZUCATO — speakers: Mariana Mazzucato, Adam Buxton
+- 2022-07-17 — EP.184 - LOUIS THEROUX — speakers: Louis Theroux, Adam Buxton
+- 2022-07-04 — EP.183 - TASH DEMETRIOU — speakers: Natasia Demetriou, Adam Buxton
+- 2022-06-27 — EP.182 - JOHN HIGGS — speakers: John Higgs, Adam Buxton
+- 2022-06-19 — EP.181 - YOLA — speakers: Adam Buxton
+- 2022-06-10 — EP.180 - JARVIS COCKER — speakers: Jarvis Cocker, Adam Buxton
+- 2022-05-27 — EP.179 - NATALIE PALAMIDES — speakers: Natalie Palamides, Adam Buxton
+- 2022-05-19 — EP.178 - SANJEEV BHASKAR — speakers: Sanjeev Bhaskar, Séamus Murphy-Mitchell, Adam Buxton
+- 2022-05-11 — EP.177 - LAZY SUSAN — speakers: Lazy Susan, Freya Parker, Séamus Mu, Adam Buxton
+- 2022-05-04 — EP.176 - PHIL WANG & MUSIC FROM SPOON — speakers: Phil Wang, Adam Buxton
+- 2022-04-26 — EP.175 - TIM KEY — speakers: Tim Key, Adam Buxton
+- 2022-04-25 — EP.174 - ALEX HORNE — speakers: Alex Horne, Adam Buxton
+- 2022-04-17 — EP.173 - MARIAN KEYES — speakers: Marian Keyes, Alan Ye, Adam Buxton
+- 2021-12-25 — EP.172 - ADAM AND JOE — speakers: Joe Adam, Joe Cor, Adam Buxton
+- 2021-12-07 — EP.171 - CALLOUT FOR XMAS PODCAST SUBMISSIONS AND A BIT OF FRAN LEBOWITZ — speakers: Fran Lebowitz Recorded, Adam Buxton
+- 2021-11-26 — EP.170 - KAYVAN NOVAK — speakers: Kayvan Novak, Adam Buxton
+- 2021-11-18 — EP.169 - KATY WIX — speakers: Katy Wix, Adam Buxton
+- 2021-11-09 — EP.168 - PATRICK RADDEN KEEFE — speakers: Patrick Radden Keefe, Adam Buxton
+- 2021-11-02 — EP.167 - JULIA DAVIS — speakers: Julia Davis, Adam Buxton
+- 2021-10-25 — EP.166 - DARREN HARRIOTT — speakers: Darren Harriott, Adam Buxton
+- 2021-10-19 — EP.165 - DAVID SEDARIS — speakers: David Sedaris, Adam Buxton
+- 2021-10-10 — EP.164 - COLSON WHITEHEAD — speakers: Description Adam, Colson Whitehead, Adam Buxton
+- 2021-10-05 — EP.163 - LAUREN PATTISON AND SAM LEE — speakers: Sam Lee Adam, Lauren Pattison, Adam Buxton
+- 2021-09-26 — EP.162 - JIM MOIR (AKA VIC REEVES) — speakers: Jim Moir, Vic Reeves, Adam Buxton
+- 2021-09-20 — EP.161 - GEORGIA PRITCHETT — speakers: Adam Buxton
+- 2021-09-12 — EP.160 - SARAH SILVERMAN — speakers: Sarah Silverman, Adam Buxton
+- 2021-09-04 — EP.159 - TOMMY TIERNAN — speakers: Tommy Tiernan, Adam Buxton
+- 2021-08-28 — EP.158 - ISABEL ALLENDE — speakers: Adam Buxton
+- 2021-08-20 — EP.157 - ERIC ANDRÉ AND PHOEBE BRIDGERS — speakers: Eric André, Adam Buxton
+- 2021-05-14 — BONUS - JOE CORNISH RE. ADAM AND JOE AND MSF AUCTION — speakers: Adam Buxton
+- 2021-04-14 — EP.156 - LEE MACK — speakers: Lee Mack, Adam Buxton
+- 2021-04-05 — EP.155 - LAURIE ANDERSON — speakers: Laurie Anderson Recorded, Adam Buxton
+- 2021-03-28 — EP.154 - TOM ALLEN — speakers: Tom Allen, Adam Buxton
+- 2021-03-14 — EP.153 - KAZUO ISHIGURO — speakers: Kazuo Ishiguro, Adam Buxton
+- 2021-03-08 — EP.152 - ROSE MATAFEO — speakers: Rose Matafeo, Adam Buxton
+- 2021-03-03 — EP151 - TORVILL AND DEAN — speakers: Jayne Torvill, Christopher Dean, Adam Buxton
+- 2021-02-28 — EP.150 - LOUIS THEROUX LIVE AT THE ROYAL FESTIVAL HALL 2019 — speakers: Louis Theroux, Adam Buxton
+- 2021-02-21 — EP.149 - RÓISÍN MURPHY — speakers: Róisín Murphy, Adam Buxton
+- 2021-02-14 — EP.148 - TONY LAW — speakers: Tony Law, Séamus Murphy-Mitchel, Adam Buxton
+- 2021-02-07 — EP.147 - ELIZABETH DAY — speakers: Elizabeth Day, Adam Buxton
+- 2021-01-31 — EP.146 - STEWART LEE — speakers: Stewart Lee, King Rocker, Adam Buxton
+- 2020-12-25 — EP.145 - ADAM AND JOE — speakers: Joe Cornish, Adam Buxton
+- 2020-12-11 — EP.144 - PAUL McCARTNEY — speakers: Paul McCartney, Adam Buxton
+- 2020-12-06 — EP.143 - RACHEL BLOOM — speakers: Rachel Bloom, Adam Buxton
+- 2020-11-29 — EP.142 - BENJAMIN ZEPHANIAH — speakers: Benjamin Zephaniah, Adam Buxton
+- 2020-11-20 — EP.141 - JOE LYCETT — speakers: Joe Lycett, Adam Buxton
+- 2020-11-14 — EP.140 - CANDICE CARTY-WILLIAMS — speakers: Candice Carty-Williams, Adam Buxton
+- 2020-11-08 — EP.139 - FRAN HEALY — speakers: Fran Healy, Adam Buxton
+- 2020-11-04 — EP.138 - MILES JUPP — speakers: Miles Jupp, Adam Buxton
+- 2020-10-31 — EP.137 - NINA CONTI — speakers: British comedian, Adam Buxton
+- 2020-10-25 — EP.136 - BLINDBOY — speakers: Irish writer, sometime Ru, Adam Buxton
+- 2020-10-17 — EP.135 - ELLIE WHITE — speakers: Ellie White, Adam Buxton
+- 2020-10-12 — EP.134 - SLEAFORD MODS — speakers: Sleaford Mods, Adam Buxton
+- 2020-10-09 — EP.133 - RAVEN SMITH — speakers: Raven Smith, Adam Buxton
+- 2020-10-03 — EP.132 - ROBBIE WILLIAMS — speakers: Williams Adam, Robbie Williams, Adam Buxton
+- 2020-09-24 — EP.131 - CAITLIN MORAN — speakers: Moran Adam, Caitlin Moran, Adam Buxton
+- 2020-08-05 — EP.130 - ZADIE SMITH — speakers: Zadie Smith, Séamus Murphy-Mitchell, Adam Buxton
+- 2020-07-27 — EP.129 - HELEN LEWIS — speakers: Helen Lewis, Adam Buxton
+- 2020-07-19 — EP.128 - ED O'BRIEN — speakers: Ed O'Brien, Adam Buxton
+- 2020-07-13 — EP.127 - HOLLY WALSH — speakers: Holly Walsh, Adam Buxton
+- 2020-06-30 — EP.126 - JOE CORNISH — speakers: Joe Cornish, Adam Buxton
+- 2020-05-26 — EP.125 - GEORGE THE POET AT LONDON PODCAST FESTIVAL 2019 — speakers: George Mpanga, Adam Buxton
+- 2020-05-26 — EP.124 - SARA BARRON AT LONDON PODCAST FESTIVAL 2019 — speakers: Sara Barron, Adam Buxton
+- 2020-05-17 — EP.123 - NILE RODGERS — speakers: Nile Rodgers, Adam Buxton
+- 2020-05-10 — EP.122 - LAURA MARLING — speakers: Laura Marling, Adam Buxton
+- 2020-05-02 — EP.121 - LOUIS THEROUX — speakers: Louis Theroux, Adam Buxton
+- 2020-04-26 — EP.120 - TASH DEMETRIOU — speakers: Natasia Demetriou, Adam Buxton
+- 2020-04-16 — EP.119 - ROMESH RANGANATHAN — speakers: Adam Buxton
+- 2020-04-05 — EP.118 - MALCOLM GLADWELL — speakers: Malcolm Gladwell, Adam Buxton
+- 2020-03-31 — EP.117 - DAISY HAGGARD — speakers: Daisy Haggard, Séamus Murphy-Mit, Adam Buxton
+- 2020-03-26 — EP.116 - DR XAND VAN TULLEKEN (RE. CORONAVIRUS) — speakers: Xand van Tulleken, Adam Buxton
+- 2019-12-25 — EP.115 - ADAM & JOE — speakers: Joe Cornish, Séamus Murphy-Mitchell, Adam Buxton
+- 2019-12-14 — EP.114 - BILLY CONNOLLY — speakers: Billy Connolly, Séamus Mu, Adam Buxton
+- 2019-12-07 — EP.113 - JEFF GOLDBLUM — speakers: Jeff Goldblum, Séamus Murphy-Mitchell, Adam Buxton
+- 2019-12-02 — EP.112 - DR DIANA FLEISCHMAN — speakers: Diana Fleischman, Adam Buxton
+- 2019-11-26 — EP.111 - NICKY WIRE — speakers: Nicky Wire, Adam Buxton
+- 2019-11-22 — EP.110 - DERREN BROWN — speakers: Derren Brown, Séamus Murphy-Mitch, Adam Buxton
+- 2019-11-16 — EP.109 - DAWN O'PORTER — speakers: Dawn O'Porter, Adam Buxton
+- 2019-11-08 — EP.108 - MICHAEL KIWANUKA — speakers: Michael Kiwanuka, Adam Buxton
+- 2019-11-01 — EP.107 - GUZ KHAN — speakers: Adam Buxton
+- 2019-10-25 — EP.106 - SHOSHANA ZUBOFF — speakers: Shoshana Zuboff, Adam Buxton
+- 2019-10-18 — EP.105 - CHRIS MORRIS 2 — speakers: Chris Morris, Adam Buxton
+- 2019-10-14 — EP.104 - CHRIS MORRIS 1 — speakers: Chris Morris, Adam Buxton
+- 2019-10-11 — EP.103 - EMILY DEAN — speakers: Emily Dean, Séamus Murphy-Mitche, Adam Buxton
+- 2019-10-04 — EP.102 - PHILIP PULLMAN — speakers: Adam Buxton
+- 2019-07-21 — EP.101 - BOOK CLUB: 'THE CATCHER IN THE RYE' WITH SARA PASCOE & RICHARD AYOADE — speakers: Sara Pascoe, Richard Ayoade, Adam Buxton
+- 2019-07-13 — EP.100 - JOE CORNISH & LOUIS THEROUX — speakers: Joe Cornish, Louis Theroux, Adam Buxton
+- 2019-07-07 — EP.99 - FRANK SKINNER — speakers: Frank Skinner, Adam Buxton
+- 2019-06-29 — EP.98 - MAYA FOA — speakers: Adam Buxton
+- 2019-06-15 — EP.97 - BOB MORTIMER & PAUL WHITEHOUSE — speakers: Paul Whitehouse, Bob Mortimer, Adam Buxton
+- 2019-06-08 — EP.96 - CHARLOTTE CHURCH — speakers: Charlotte Church, Adam Buxton
+- 2019-06-02 — EP.95 - JOHN GRANT — speakers: John Grant, Adam Buxton
+- 2019-05-25 — EP.94 - NINA STIBBE — speakers: Nina Stibbe, David Sedaris, Adam Buxton
+- 2019-05-18 — EP.93 - CHARLOTTE GAINSBOURG — speakers: Charlotte Gainsbourg, Adam Buxton
+- 2019-05-11 — EP.92 - JAMES ACASTER — speakers: James Acaster, Adam Buxton
+- 2019-05-04 — EP.91 - MARLON JAMES — speakers: Marlon James, Adam Buxton
+- 2019-04-26 — EP.90 - RUBY WAX — speakers: Ruby Wax, Adam Buxton
+- 2019-04-19 — EP.89 - DAVID MITCHELL — speakers: David Mitchell, Adam Buxton
+- 2018-12-25 — EP.88 - ADAM & JOE — speakers: Joe Cornish, Séamus Murphy-Mitchell, Adam Buxton
+- 2018-12-10 — EP.87 - NISH KUMAR — speakers: Adam Buxton
+- 2018-12-03 — EP.86 - MONA CHALABI — speakers: Mona Chalabi, Adam Buxton
+- 2018-11-26 — EP.85 - MICHAEL SCOTT MOORE — speakers: Michael Scott Moore, Adam Buxton
+- 2018-11-17 — EP.84 - ROISIN CONATY — speakers: Roisin Conaty, Adam Buxton
+- 2018-11-12 — EP.83 - SIMON PEGG — speakers: Simon Pegg, Adam Buxton
+- 2018-11-03 — EP.82 - TASH DEMETRIOU — speakers: Tash Demetriou, Adam Buxton
+- 2018-10-27 — EP.81 - LOUIS THEROUX — speakers: Louis Theroux, Adam Buxton
+- 2018-10-20 — EP.80 - DESIREE BURCH — speakers: Desiree Burch, Adam Buxton
+- 2018-10-12 — EP.79 - DAVID SEDARIS — speakers: David Sedaris, Adam Buxton
+- 2018-08-18 — EP.78 - LAURA DAVIS & MAC DEMARCO LIVE @ END OF THE ROAD FESTIVAL 2017 — speakers: Laura Davis, Mac DeMarco, Adam Buxton
+- 2018-06-07 — EP.77 - TIM KEY — speakers: Tim Key, Adam Buxton
+- 2018-05-13 — EP.76 - CHARLIE BROOKER — speakers: Charlie Brooker, Adam Buxton
+- 2018-05-05 — EP.75 - ELEANOR FRIEDBERGER — speakers: Eleanor Friedberger, Adam Buxton
+- 2018-04-28 — EP.74 - BOB MORTIMER — speakers: Bob Mortimer, Adam Buxton
+- 2018-04-21 — EP.73 - CARIAD LLOYD — speakers: British actor, character comedian, Lloyd Austentatious, Adam Buxton
+- 2018-04-14 — EP.72 - FENTON BAILEY — speakers: Fenton Bailey, Adam Buxton
+- 2018-04-07 — EP.71 - JAYDE ADAMS — speakers: Jayde Adams, Adam Buxton
+- 2018-03-31 — EP.70 - GARTH JENNINGS & WES ANDERSON — speakers: Wes Anderson Adam, Garth Jennings, Adam Buxton
+- 2018-03-23 — EP.69 - LOLLY ADEFOPE — speakers: Lolly Adefope, Steve Buscemi, Adam Buxton
+- 2018-03-16 — EP.68 - JON RONSON — speakers: Jon Ronson, Adam Buxton
+- 2018-03-10 — EP.67 - AISLING BEA — speakers: Aisling Bea, Adam Buxton
+- 2018-03-02 — EP.66 - MICHAEL LEWIS — speakers: Michael Lewis, Money Ball, Liar’s Poker, Adam Buxton
+- 2018-02-23 — EP.65 - DIANE MORGAN — speakers: Diane Morgan, Adam Buxton
+- 2018-02-16 — EP.64 - GRETA GERWIG — speakers: Gerwig Adam, Greta Gerwig, Adam Buxton
+- 2018-02-09 — EP.63B - JONNY GREENWOOD — speakers: Jonny Greenwood, Adam Buxton
+- 2018-02-09 — EP.63A - PAUL THOMAS ANDERSON — speakers: Paul Thomas Anderson, Boogie Nights, Adam Buxton
+- 2017-12-25 — EP.62 - ADAM & JOE — speakers: Joe Cornish, Adam Buxton
+- 2017-12-16 — EP.61 - ROMESH RANGANATHAN — speakers: Adam Buxton
+- 2017-12-09 — EP.60 - THOMAS DOLBY — speakers: Thomas Dolby, Adam Buxton
+- 2017-11-26 — EP.59 - MUSIC VIDEO TALES WITH TIM POPE — speakers: Tim Pope Adam, Tim Pope, Iggy Pop, Adam Buxton
+- 2017-11-26 — EP.58 - JOSH HOMME (WITH SOME MATT BERRY) — speakers: Josh Homme, Adam Buxton
+- 2017-11-18 — EP.57 - HASSAN AKKAD — speakers: Hassan Akkad, Adam Buxton
+- 2017-11-11 — EP.56 - KATHY BURKE — speakers: Kathy Burk, Adam Buxton
+- 2017-11-03 — EP.55 - SIMON AMSTELL — speakers: Simon Amstell, Adam Buxton
+- 2017-10-26 — EP.54 - BILL BURR — speakers: Bill Burr, Adam Buxton
+- 2017-10-20 — EP.53 - MIRANDA SAWYER — speakers: Sawyer Adam, Miranda Sawyer, Adam Buxton
+- 2017-10-12 — EP.52 - STEVE PEMBERTON & REECE SHEARSMITH — speakers: Reece Shearmsith, Adam Buxton
+- 2017-10-05 — EP.51 - JOHNNY MARR — speakers: Johnny Marr, Adam Buxton
+- 2017-09-29 — EP.50 - MAE MARTIN — speakers: Mae Martin, Adam Buxton
+- 2017-09-24 — EP.49 - LOUIS THEROUX — speakers: Louis Theroux, Adam Buxton
+- 2017-09-14 — EP.48 - HOLIDAY TIME - SKIING (WITH DOUGIE PAYNE) — speakers: Dougie Payne, Adam Buxton
+- 2017-06-16 — EP.47 - SPOON — speakers: Jim Eno, Alex Fischel, Adam Buxton
+- 2017-06-01 — EP.46 - SHARON HORGAN — speakers: Sharon Horgan, Carrie Fisher, Adam Buxton
+- 2017-05-26 — EP.45 - EDGAR WRIGHT — speakers: Edgar Wright, Baby Driver, Adam Buxton
+- 2017-05-18 — EP.44 - ADAM CURTIS — speakers: Adam Curtis, Adam Buxton
+- 2017-05-11 — EP.43 - NICK KROLL — speakers: Nick Kroll, James Franco, Adam Buxton
+- 2017-05-04 — EP.42 - BRIDGET CHRISTIE & STEVE MASON — speakers: Bridget Christie, Steve Mason, Adam Buxton
+- 2017-04-27 — EP.41 - MARC MARON — speakers: Marc Maron, Adam Buxton
+- 2017-04-20 — EP.40 - ZADIE SMITH — speakers: Zadie Smith, Adam Buxton
+- 2017-04-13 — EP.39 - JULIAN BARRATT & GARTH JENNINGS — speakers: Garth Jennings, Mighty Boosh, Julian Barratt, Adam Buxton
+- 2017-04-06 — EP.38 - BRIAN ENO PART TWO — speakers: Brian Eno, Adam Buxton
+- 2017-04-06 — EP.37 - BRIAN ENO PART ONE — speakers: Brian Eno, Adam Buxton
+- 2017-03-30 — EP.36 - CLAUDIA O'DOHERTY — speakers: Australian actor, Adam Buxton
+- 2017-03-23 — EP.35 - STEVE COOGAN — speakers: Steve Coogan, Adam Buxton
+- 2016-12-25 — EP.34 - ADAM & JOE — speakers: Adam Buxton
+- 2016-11-13 — EP.33 - MATT BERRY — speakers: Matt Berry, Adam Buxton
+- 2016-10-25 — EP.32- TASH DEMETRIOU — speakers: Adam Buxton
+- 2016-10-12 — EP.31 - RORY O'NEILL A.K.A PANTI BLISS — speakers: Rory O’Neill, Panti Bliss, Adam Buxton
+- 2016-09-21 — EP.30 - MICHAELA COEL — speakers: Michaela Coel, Adam Buxton
+- 2016-09-12 — EP.29 - LOUIS THEROUX — speakers: Louis Theroux, Adam Buxton
+- 2016-09-01 — EP.28 - MICHAEL PALIN — speakers: Michael Palin, Adam Buxton
+- 2016-08-11 — EP.27 - BILL HADER — speakers: Bill Hader, Adam Buxton
+- 2016-07-21 — EP.26 - SALLY WAINWRIGHT — speakers: Sally Wainwright, Adam Buxton
+- 2016-07-09 — EP.25 - RICHARD AYOADE (TRAVEL MAN CONVERSATIONS 2) — speakers: Adam Buxton, Richard Ayoade
+- 2016-07-08 — EP.24 - RICHARD AYOADE (TRAVEL MAN CONVERSATIONS 1) — speakers: Richard Ayoade, Adam Buxton
+- 2016-06-23 — EP.23 - JOHN ROBINS — speakers: John Robins, Adam Buxton
+- 2016-06-19 — EP.22B - JONNY GREENWOOD (BONUSJONNYBITS) — speakers: Jonny Greenwood, Adam Buxton
+- 2016-06-12 — EP.22 - JONNY GREENWOOD — speakers: Jonny Greenwood, Adam Buxton
+- 2016-06-03 — EP.21 - MARC RILEY — speakers: Riley Adam, Bbc Music, Marc Riley, Adam Buxton
+- 2016-05-27 — EP.20 - IAIN LEE — speakers: Iain Lee, Adam Buxton
+- 2016-05-06 — EP.19 - BEN SMITH AKA DOC BROWN — speakers: Ben Smith, Doc Brown, Adam Buxton
+- 2016-04-28 — EP.18 - SARA PASCOE — speakers: Sara Pascoe, Adam Buxton
+- 2016-04-21 — EP.17 - RICHARD HERRING — speakers: Richard Herring, Adam Buxton
+- 2016-04-13 — EP.16 - PUB WALK WITH GARTH JENNINGS — speakers: Garth Jennings Adam, Adam Buxton
 - 2016-04-06 — EP.15 - KATHY BURKE — speakers: Kathy Burke, Adam Buxton
-- 2016-03-24 — EP.14 - BOWIEWALLOW PT.2 — speakers: Adam Buxton, David Bowie, Johan Renck, Jonathan Ross, Gaz Coombes
-- 2016-03-08 — EP.13 - BOWIEWALLOW PT.1 — speakers: Adam Buxton, David Bowie, Dara O'Kearney, Kathy Burke, Dan Richards
+- 2016-03-24 — EP.14 - BOWIEWALLOW PT.2 — speakers: Adam Buxton, David Bowie
+- 2016-03-08 — EP.13 - BOWIEWALLOW PT.1 — speakers: Adam Buxton, David Bowie
 - 2015-12-25 — EP.12 - ADAM & JOE'S CHRISTMAS PODCAST 2015 — speakers: Joe Cornish, Adam Buxton
-- 2015-12-23 — EP.11 - JOE CORNISH — speakers: Tom Cruise, Adam Buxton
-- 2015-11-27 — EP.10 - LOUIS THEROUX — speakers: Louis Theroux, Adam Buxton
-- 2015-11-19 — EP.9 - CAITLIN MORAN — speakers: Moran Adam, Caitlin Moran, Paul McCartney, Lady Gaga, Adam Buxton, Soyo Oka
-- 2015-11-11 — EP.8 - ROB DELANEY — speakers: Rob Delaney, Sharon Horgan, Adam Buxton, Soyo Oka
-- 2015-10-29 — EP.7 - SCROOBIUS PIP — speakers: Adam Buxton, Scroobius Pip, sac VS, Soyo Oka
-- 2015-10-21 — EP.6 - GARTH JENNINGS — speakers: Adam Buxton, Garth Jennings, Sarah McLachlan, Soyo Oka
-- 2015-10-14 — EP.5 - ROB BRYDON — speakers: Adam Buxton, Rob Brydon, Paul McCartney
-- 2015-10-07 — EP.4 - JON RONSON — speakers: Adam Buxton, Jon Ronson, Woody Allen
-- 2015-09-30 — EP.3 - 'DR BUCKLES' COLD SAFARI' — speakers: Adam Buxton, Brian Eno Brian Eno, John Peel Lecture, David Bowie, Lucia Bova, Brian Eno, Paul McGann, Bruce Robinson
-- 2015-09-23 — EP.2 - LIANNE LA HAVAS — speakers: Adam Buxton, Lianne La Havas, Guy Manguyman
+- 2015-12-23 — EP.11 - JOE CORNISH — speakers: Adam Buxton
+- 2015-11-27 — EP.10 - LOUIS THEROUX — speakers: Adam Buxton
+- 2015-11-19 — EP.9 - CAITLIN MORAN — speakers: Moran Adam, Caitlin Moran, Adam Buxton
+- 2015-11-11 — EP.8 - ROB DELANEY — speakers: Rob Delaney, Adam Buxton
+- 2015-10-29 — EP.7 - SCROOBIUS PIP — speakers: Adam Buxton, Scroobius Pip
+- 2015-10-21 — EP.6 - GARTH JENNINGS — speakers: Adam Buxton, Garth Jennings
+- 2015-10-14 — EP.5 - ROB BRYDON — speakers: Adam Buxton, Rob Brydon
+- 2015-10-07 — EP.4 - JON RONSON — speakers: Adam Buxton, Jon Ronson
+- 2015-09-30 — EP.3 - 'DR BUCKLES' COLD SAFARI' — speakers: Adam Buxton
+- 2015-09-23 — EP.2 - LIANNE LA HAVAS — speakers: Adam Buxton, Lianne La Havas
 - 2015-09-15 — EP.1 - 'HOLIDAY BUFFET' WITH LOUIS THEROUX — speakers: Adam Buxton, Louis Theroux
