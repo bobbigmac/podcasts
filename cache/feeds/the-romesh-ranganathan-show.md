@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-03-20T19:06:43+00:00`
-- checked_at: `2026-03-20T19:06:43+00:00`
-- last_modified: `Fri, 20 Mar 2026 18:18:51 GMT`
+- fetched_at: `2026-03-20T21:44:50+00:00`
+- checked_at: `2026-03-20T21:44:50+00:00`
+- last_modified: `Fri, 20 Mar 2026 21:21:17 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/c4cfe1bfcc9a4011d72f8fe272266dac.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-20T19:06:43+00:00",
+  "fetched_at": "2026-03-20T21:44:50+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -56,7 +56,7 @@
       "link": null,
       "description": "Should we be worried about AI? Mathematician and presenter Hannah Fry joins Romesh to talk about her new show 'AI Confidential with Hannah Fry' and the surprising ways maths and technology shape our lives. From Hannah’s work explaining science to wider audiences, her podcast The Rest Is Science, to Grief Tech. This episode explores the strange questions maths can actually answer, from whether you could theoretically be bored to death to how to cool down your car. The conversation moves from teaching maths and traumatising students with numbers to the bigger questions around AI, technology and the future. Plus: maths jokes, a question from Shanthi, some genuinely useful science-based life tips and the team catch some strays. A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 03:19 Gift giving 07:34 Some maths jokes 10:01 On teaching maths 14:55 Traumatising people with maths 17:40 The Rest Is Science 20:39 Can you be bored to death? 26:09 On making a difference 29:28 Hannah’s ultimate tip 31:25 A question from Shanthi about tech 37:41 Hannah’s new show on AI 41:25 On Grief Tech 43:12 Do we know what we want with AI relationships? 45:03 Should we be worried? 48:45 Working with Dara O'Briain 49:40 Misquoted 00:01:47 An exclusive tip 00:02:33 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/2e8b2e34-1f0e-11f1-9a14-6ba0144303f8/image/0d524ca0c3b8db4d1552ac75b8b8ce14.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7782384261.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7782384261.mp3?updated=1774041554",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3989",
