@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-20T07:13:50+00:00`
-- checked_at: `2026-03-20T07:13:50+00:00`
-- etag: `"djEuMi4wOjE3NzM5NzkwNTkzNDg="`
+- fetched_at: `2026-03-21T13:12:22+00:00`
+- checked_at: `2026-03-21T13:12:22+00:00`
+- etag: `"djEuMi4wOjE3NzQwOTYyMTc4Mzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-20T07:13:50+00:00",
+  "fetched_at": "2026-03-21T13:12:22+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f47b74c0c506355b859a969228ccc22d98c31697",
+      "title": "RAACN week 8",
+      "published_at": "2026-03-21T12:30:17+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Monday 16th March 2026 Dead as a Dodo - Rich and Ally are back for another week in the newsround studio, despite really having too much to do. They are discussing plans to resurrect the dodo. I don’t have time to write the blurb as I have to take my daughter to the train station. Tuesday 17th March 2026 - Banksy Uncovered - Rich and Ally are here with all the big news stories and today reveal the true identity of controversial artist Banksy (can you guess what Cocky Carrot calls him?). Journalism at its finest. Wednesday 18th March 2026 Receding Bums - Rich and Ally are back to talk about how many times a day you should be brushing your teeth and what might happen to you if you fail to hit that number. It’s more of an intervention than a news programme. Still ignored by the lamestream media. Thursday 19th March 2026 - Bigfeet - Rich and Ally are back to give you all the news the lame stream media doesn’t want you to see. Today they’re looking at whether the very convincing 1967 footage of a Big Foot walking through a forest is a real Big Foot or just a man dressed up as a Big Foot. With special report from a forest somewhere. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1774096062923-7bf0a339-3e20-4fdf-b55f-d5e439281f55.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69be8f591a160b44dbf7e30b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27365777",
+      "itunes_duration": "56:08",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "raacn",
+        "week"
+      ]
+    },
     {
       "key": "2701686f867416d92fb97a32a4f480f1ce604360",
       "title": "RHLSTP Book Club 174 - Zakia Sewell",
@@ -21829,6 +21848,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-21 — RAACN week 8 — speakers: Richard Herring
 - 2026-03-20 — RHLSTP Book Club 174 - Zakia Sewell — speakers: Book Club, Zakia Sewell, Finding Albion, Richard Herring
 - 2026-03-18 — RHLSTP 603 - Vittorio Angelone — speakers: Board Rich, Richard Herring
 - 2026-03-16 — Retro RHLSTP 137 - Zoe Lyons — speakers: Bag Vulva Richard, Richard Herring

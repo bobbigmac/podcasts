@@ -5833,6 +5833,28 @@
         "feed_slug": "external:apple:f365e01dfc3f",
         "feed_title": "Alan Carr's 'Life's a Beach'",
         "source_rss_url": "https://feeds.megaphone.fm/GLT3251662520",
+        "dedupe_key": "5f6fcd959700f79e480477a4da1b09de5ffe2d71",
+        "episode_key": "5f6fcd959700f79e480477a4da1b09de5ffe2d71",
+        "title": "S10 EP8: Bob Mortimer (Video Edition)",
+        "published_at": "2026-03-20T19:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What happens when Alan Carr and Bob Mortimer get together right after filming Last One Laughing? Absolute mayhem. \n\nFrom being told to “f*ck off” by Romesh Ranganathan, to phantom sh*tters in Wythenshawe, to Bob’s very unexpected holiday romance… this episode is pure Bob-flavoured joy. There’s also a deep dive on comed",
+        "audio_url": "https://traffic.megaphone.fm/KILM7947818089.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s10-ep8-bob-mortimer-video-edition/id1550998864?i=1000756378650&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f365e01dfc3f",
+        "feed_title": "Alan Carr's 'Life's a Beach'",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT3251662520",
         "dedupe_key": "c0a090ea217192e7f56b866aa1c4a554beb2c270",
         "episode_key": "c0a090ea217192e7f56b866aa1c4a554beb2c270",
         "title": "S10 EP8: Bob Mortimer",
