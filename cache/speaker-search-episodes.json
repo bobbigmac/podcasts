@@ -22345,6 +22345,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:556cc9550d87",
+        "feed_title": "The Bugle",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
+        "dedupe_key": "6ddc9c3e27047943d1187fba0a59b65cd10859e3",
+        "episode_key": "6ddc9c3e27047943d1187fba0a59b65cd10859e3",
+        "title": "Bugle Special: Terrible Brits and the original F*ckeulogy",
+        "published_at": "2023-04-08T23:00:40Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Andy, Nish and Felicity look at Brits in Amsterdam, and the environment (spoiler, it's bad). Plus we revisit the original f*ckeulogy, Alice introduces us to modern cockroach mating and Tiff Stevenson meets Mark Thomas.\nFeaturing:\nAndy Zaltzman\nNish Kumar\nFelicity Ward\nJohn Oliver\nAlice Fraser\nJosh Gondelman \nGabe Molli",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6431b89ddd3f7d0011c81a98/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bugle-special-terrible-brits-and-the-original-f-ckeulogy/id265799883?i=1000608012155&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
@@ -23504,6 +23526,28 @@
         "description": "WHAT IN A YEAR OF 2020s JUST HAPPENED!?! Andy, Nish and Nato try to make sense of one of an election that is incomprehensible, even by modern standards.\nWe have a sister show, The Last Post, which you can hear here. Follow us on YouTube or Insta and see parts of this episode with actual video.\nThe Bugle is hosted this ",
         "audio_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/5fa31bccc0a8766f6fb56ea5/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/voters-hide-ballots-in-locked-boxes/id265799883?i=1000497244581&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1f9f28da24c7",
+        "feed_title": "Drunk Women Solving Crime",
+        "source_rss_url": "https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad",
+        "dedupe_key": "b5da986223f48bc872388a9e896d2b9ee76684b7",
+        "episode_key": "b5da986223f48bc872388a9e896d2b9ee76684b7",
+        "title": "MEN'S MONTH: Nish Kumar",
+        "published_at": "2020-11-04T02:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "At the time of release for this episode, it's November 2020, which can only mean one thing ... THE BOYS ARE BACK IN TOWN!Yes, Hannah, Taylor & Catie decided to give the men of the comedy world a well-earned leg-up, by allowing four of them on the show throughout the month - in honour of International Men's Day on Novem",
+        "audio_url": "https://sphinx.acast.com/drunkwomen/114mensmonth-nishkumar/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/mens-month-nish-kumar/id1425174819?i=1000497129272&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
