@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-20T15:58:51+00:00`
-- checked_at: `2026-03-20T15:58:51+00:00`
-- etag: `"djEuMi4wOjE3NzQwMTc4NDM3NDk="`
+- fetched_at: `2026-03-21T18:54:22+00:00`
+- checked_at: `2026-03-21T18:54:22+00:00`
+- etag: `"djEuMi4wOjE3NzQxMTI0Mzk0NTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-20T15:58:51+00:00",
+  "fetched_at": "2026-03-21T18:54:22+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "d82d67ebea8f3af8313975ab89dedf2f009806fa",
+      "title": "\"Build the tunnel right through stonehenge\" | Anoosh & Will's weekly round-up",
+      "published_at": "2026-03-21T17:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/build-the-tunnel-right-through-stonehenge",
+      "description": "Anoosh and Will are back with this week's round up of the politics stories you might have missed. This week: Housing Secretary Steve Reed has the perfect opportunity to \"build, baby, build\" Misinformation powerhouse InfoWars is officially over - just like the Metaverse Pete Hegseth seems to encourage the US army to commit war crimes Rachel Reeves takes a gamble on building \"an army of Burnhams\" READ: Anoosh's Thomas Hetherwick interview Will's sketch on Pete Hegseth - \"the boss of tough men in hot places\" LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1774017279220-5fd98cc5-fc76-41a5-aec7-5fa92577de31.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69bd5d097878605e1188d3a0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67924398",
+      "itunes_duration": "47:09",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "tunnel",
+        "stonehenge",
+        "anoosh",
+        "round"
+      ]
+    },
     {
       "key": "8f71513164d2ae502c50d136d59a97f22fc847ac",
       "title": "Is Angela Rayner making her move?",
@@ -30678,6 +30700,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-21 — "Build the tunnel right through stonehenge" | Anoosh & Will's weekly round-up — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-20 — Is Angela Rayner making her move? — speakers: Angela Rayner, Anoosh Chakelian, Oli Dugmore
 - 2026-03-19 — Keir Starmer’s cost of living crisis — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-18 — The new world war — speakers: Volodymyr Zelensky, Anoosh Chakelian, Oli Dugmore
