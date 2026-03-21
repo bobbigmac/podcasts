@@ -3,10 +3,12 @@
 - slug: `the-plays-of-j-b-priestley`
 - source: `https://archive.org/download/rss_jbprbrdc/jbprbrdc`
 - fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-03-20T13:34:33+00:00`
+- checked_at: `2026-03-21T21:38:43+00:00`
 - etag: `"6684802c-5fca"`
 - last_modified: `Tue, 02 Jul 2024 22:33:16 GMT`
 - max_episodes_per_feed: `2000`
+- status: `error`
+- last_error: `HTTP 502` — Bad Gateway
 
 <!-- FEED_JSON -->
 ```json
@@ -592,7 +594,17 @@
         "credit"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-03-21T21:38:43+00:00",
+    "status": "error",
+    "checked_at": "2026-03-21T21:38:43+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 502,
+      "message": "Bad Gateway"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
