@@ -6540,6 +6540,28 @@
     ],
     "harry-hill": [
       {
+        "feed_slug": "external:apple:f20fa26374f3",
+        "feed_title": "Music News Today | 2 Min News | The Daily News Now!",
+        "source_rss_url": "https://feeds.fastcast.ai/music-news-the-daily-news-now.xml",
+        "dedupe_key": "92fdcae99904278ce4e9285f4542ce74513e38ae",
+        "episode_key": "92fdcae99904278ce4e9285f4542ce74513e38ae",
+        "title": "Harry Hill Surprises Self Esteem with Custom Song",
+        "published_at": "2026-03-20T11:10:38Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian Harry Hill surprises singer Self Esteem with a custom song on The Harry Hill Show, titled Instructions for Assembling Flatpack Furniture. The track, inspired by her list-style songs, is set to drop on March 23rd. Self Esteem praises the song, joking about new music ideas. Fans react positively to her reaction.",
+        "audio_url": "https://api.fastcast.ai/audio/f2b77252-5d22-4b6e-a701-35f5f890ac00.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harry-hill-surprises-self-esteem-with-custom-song/id1833718599?i=1000756316541&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:6a5067c2e100",
         "feed_title": "TV RELOAD",
         "source_rss_url": "https://www.omnycontent.com/d/playlist/fa326977-3de5-4283-9b8b-af3500c58607/4a19b358-ac3e-488a-98a2-af4600179ff1/282ca51a-3fe6-49a8-9dc3-af460017a008/podcast.rss",
@@ -7016,6 +7038,28 @@
         "description": "Graham is back from his holidays! Which means he is back with a new addition of The Graham Norton Radio Show Podcast with Waitrose.\nThis weekend:\nSpencer Matthews joins us to discuss the new Disney+ documentary, Finding Michael \nChris Macausland is on tour and speaks to us about Speaky Blinder\nAnd Harry Hill is at the ",
         "audio_url": "https://sphinx.acast.com/p/acast/s/the-graham-norton-podcast/e/64171232b789ea001173bc3b/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/spencer-matthews-chris-macausland-and-harry-hill/id1547229368?i=1000604914401&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:50ddd849e970",
+        "feed_title": "This is Money Podcast",
+        "source_rss_url": "https://feeds.acast.com/public/shows/69a5aa3811f5657dedfff2bd",
+        "dedupe_key": "46b5736e6fcb858b4ee4b5e29d3ad370c3ee1fcb",
+        "episode_key": "46b5736e6fcb858b4ee4b5e29d3ad370c3ee1fcb",
+        "title": "Could house prices really fall 20% and how bad would that be?",
+        "published_at": "2022-12-09T18:32:18Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The mortgage crunch has stalled the pandemic property boom and sent house prices down, but could they fall 20 per cent?The risk of a severe house price downturn of that magnitude was flagged by Rightmove founder and property market veteran Harry Hill.Hill’s CV includes setting up property giant Rightmove and selling es",
+        "audio_url": "https://sphinx.acast.com/p/open/s/69a5aa3811f5657dedfff2bd/e/tag%3Aaudioboom.com%2C2022-12-09%3A%2Fposts%2F8211301/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/could-house-prices-really-fall-20-and-how-bad-would-that-be/id979600898?i=1000589640779&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

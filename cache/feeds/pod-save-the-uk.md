@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-03-19T13:43:19+00:00`
-- checked_at: `2026-03-19T13:43:19+00:00`
-- etag: `W/"7cdda43ebc2cefe51ff4914257402a9c"`
-- last_modified: `Thu, 19 Mar 2026 11:49:32 GMT`
+- fetched_at: `2026-03-21T09:46:28+00:00`
+- checked_at: `2026-03-21T09:46:28+00:00`
+- etag: `W/"fb24fc704caa7eb97dcd54bb6a28c79a"`
+- last_modified: `Sat, 21 Mar 2026 08:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-03-19T13:43:19+00:00",
+  "fetched_at": "2026-03-21T09:46:28+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c5465412f5b6e9258dedfade2393a0f94f7545d2",
+      "title": "Can Britain’s myth and magic challenge the far right? w/ Zakia Sewell",
+      "published_at": "2026-03-21T08:00:00+00:00",
+      "link": "https://audioboom.com/posts/8876569",
+      "description": "Last summer - fuelled by the far right - a rash of St George and Union Jack flags spread across the country. Flag-waving became a symbol of prejudice, not pride. In that context it's hard as progressives to feel particularly patriotic. So what is Britishness… and does it even matter? Someone who is hopeful that our national identity is worth saving is writer, a DJ and broadcaster Zakia Sewell. In this bonus episode of PSUK, she tells Nish and Coco about her journey to uncover an alternative version of Britishness - one that unifies rather than divides. CHECK OUT THESE DEALS FROM OUR SPONSORS BABBEL: https://www.babbel.com/PSUK WISE: https://www.wise.com SHOPIFY: https://shopify.co.uk/podsavetheuk GUEST Zakia Sewell, writer, DJ & broadcaster USEFUL LINKS “Finding Albion: Myth, Folklore and the Quest for Hidden Britain” - out now. https://www.waterstones.com/book/finding-albion/zakia-sewell/9781399735902 Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43540513.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8876569.mp3?modified=1774016317&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2138",
+      "speakers": [
+        "Zakia Sewell",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "britain",
+        "myth",
+        "challenge",
+        "zakia",
+        "sewell"
+      ]
+    },
     {
       "key": "efff859ed7684018054c51e0a57cbcbfcaf60b1f",
       "title": "Farage’s Wild Week: energy bill stunts and questionable cameo videos",
@@ -3607,6 +3631,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-21 — Can Britain’s myth and magic challenge the far right? w/ Zakia Sewell — speakers: Zakia Sewell, Nish Kumar, Coco Khan
 - 2026-03-19 — Farage’s Wild Week: energy bill stunts and questionable cameo videos — speakers: Wild Week, Nish Kumar, Coco Khan
 - 2026-03-12 — The Mandelson Files Are Out — speakers: Nish Kumar, Coco Khan
 - 2026-03-05 — “No Winston Churchill”: is the special relationship over? — speakers: Nish Kumar, Coco Khan
