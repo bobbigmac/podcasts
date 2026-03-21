@@ -2,9 +2,9 @@
 
 - slug: `a-woodturners-journey`
 - source: `https://feeds.acast.com/public/shows/65a70f72224eec0017895999`
-- fetched_at: `2026-03-20T07:13:50+00:00`
-- checked_at: `2026-03-20T07:13:50+00:00`
-- etag: `"djEuMi4wOjE3NzM5OTAwMzk4Nzg="`
+- fetched_at: `2026-03-21T07:03:37+00:00`
+- checked_at: `2026-03-21T07:03:37+00:00`
+- etag: `"djEuMi4wOjE3NzQwNjQxMDkxMDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/a-woodturners-journey",
   "description": "At A Woodturners Journey, we strive to explore woodturning from all different perspectives. Markus and Chris are both obsessed with creating things on their lathe as well as finding areas to improve their efficiencies and style. Their goal is to stay up to date with the newest things going on around the world of woodturning. They also love to interview fellow woodturners and find out about their journey so far. Woodturning is a wonderful rabbit hole and one we never see ourselves finding the bottom of. Join us in our journey. If you have any comments, questions or feedback please send us an email AWoodturnersJourney@gmail.com or find us on Instagram @AWoodturnersJourney Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
-  "fetched_at": "2026-03-20T07:13:50+00:00",
+  "fetched_at": "2026-03-21T07:03:37+00:00",
   "owners": [
     "Chris Jacobsen"
   ],
@@ -31,7 +31,7 @@
       "title": "Ep 34 - Going to California",
       "published_at": "2026-03-20T07:00:00+00:00",
       "link": "http://instagram.com/awoodturnersjourney",
-      "description": "Enjoy episode 34. We get to chat with the legend himself, Mike Mahoney! We chat about his journey, what we are turning lately, as well as complain a little cause we can... Apple Podcast: https://podcasts.apple.com/us/podcast/a-woodturners-journey/id1727042194 Spotify: https://open.spotify.com/show/6a8YdbJZfBt4NVqcQTI0UT?si=4DUOBk6ZStWe4O4sUFk7Rg RSS: https://feeds.acast.com/public/shows/65a70f72224eec0017895999 Please email us at: AWoodturnersJourney@gmail.com Follow us on Instagram at: www.instagram.com/awoodturnersjourney Chris - www.instagram.com/hiramwoodworking & www.instagram.com/whatwoodyouturn Markus - www.instagram.com/redchairwoodworks Mike Mahoney - www.bowlturnerinc.com Please subscribe, listen to the episode, and let us know what you think with a comment or a 5-star review. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Enjoy episode 34. We get to chat with the legend himself, Mike Mahoney! We chat about his journey, what we are turning lately, as well as complain a little cause we can... Apple Podcast: https://podcasts.apple.com/us/podcast/a-woodturners-journey/id1727042194 Spotify: https://open.spotify.com/show/6a8YdbJZfBt4NVqcQTI0UT?si=4DUOBk6ZStWe4O4sUFk7Rg RSS: https://feeds.acast.com/public/shows/65a70f72224eec0017895999 Please email us at: AWoodturnersJourney@gmail.com Follow us on Instagram at: www.instagram.com/awoodturnersjourney Chris - www.instagram.com/hiramwoodworking & www.instagram.com/whatwoodyouturn Markus - www.instagram.com/redchairwoodworks Mike Mahoney - bowlmakerinc.com Please subscribe, listen to the episode, and let us know what you think with a comment or a 5-star review. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/65a70f72224eec0017895999/e/69bc5ebe1861d127d5720af1/media.mp3",
       "enclosure_type": "audio/mpeg",
