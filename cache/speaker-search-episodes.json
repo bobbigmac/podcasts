@@ -8377,6 +8377,28 @@
         ],
         "topics": [],
         "external": true
+      },
+      {
+        "feed_slug": "external:apple:aeaaed95728b",
+        "feed_title": "Daddy Look At Me",
+        "source_rss_url": "https://rss.acast.com/daddy",
+        "dedupe_key": "6d914dc7e6894ff10036457517657127878a4f5e",
+        "episode_key": "6d914dc7e6894ff10036457517657127878a4f5e",
+        "title": "Harriet Kemsley",
+        "published_at": "2019-11-14T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Joining Helen and Rosie in the studio this week is the wonderful Harriet Kemsley! Harriet is a brilliant comedian and hosts the podcast, Why Is Harriet Crying?, with fellow comedian (and previous guest) Sunil Patel. Kemsley has appeared on Sam Delaney's News Thing, Roast Battle, 8 Out of 10 Cats Does Countdown and 8 Ou",
+        "audio_url": "https://sphinx.acast.com/daddy/harrietkemsley/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harriet-kemsley/id1468249741?i=1000456773674&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
       }
     ],
     "richard-herring": [
