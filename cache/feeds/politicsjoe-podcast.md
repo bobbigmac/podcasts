@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-22T07:09:01+00:00`
-- checked_at: `2026-03-22T07:09:01+00:00`
-- etag: `"djEuMi4wOjE3NzQxNTkyMzkzOTE="`
+- fetched_at: `2026-03-22T15:40:36+00:00`
+- checked_at: `2026-03-22T15:40:36+00:00`
+- etag: `"djEuMi4wOjE3NzQxODcyODI2MTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-22T07:09:01+00:00",
+  "fetched_at": "2026-03-22T15:40:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -33,8 +33,8 @@
       "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69bd85e41861d127d5c99b1b/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "138578351",
-      "itunes_duration": "1:36:12",
+      "enclosure_length": "139035325",
+      "itunes_duration": "1:36:32",
       "speakers": [
         "Paul Holden"
       ],
