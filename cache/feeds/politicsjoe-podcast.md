@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-20T19:06:43+00:00`
-- checked_at: `2026-03-20T19:06:43+00:00`
-- etag: `"djEuMi4wOjE3NzQwMjgyNjA2NjA="`
+- fetched_at: `2026-03-22T07:09:01+00:00`
+- checked_at: `2026-03-22T07:09:01+00:00`
+- etag: `"djEuMi4wOjE3NzQxNTkyMzkzOTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-20T19:06:43+00:00",
+  "fetched_at": "2026-03-22T07:09:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "4bc7ad1d33a92e06889945983d74be584a0ea050",
+      "title": "Labour tried to ruin me for exposing Keir Starmer | Paul Holden interview",
+      "published_at": "2026-03-22T06:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69bd85e41861d127d5c99b1b",
+      "description": "Paul Holden is an investigative journalist and author of The Fraud: Keir Starmer, Morgan McSweeney, and the crisis of British Democracy. He came by the PoliticsJOE studio to chat to us about his book, which has become essential reading for anyone trying to make sense of the chaos surrounding Keir Starmer's time in charge of the country. He sits down with Ava to speak about the slow drip of news stories that have in one way or another began in his investigations, what will bring the downfall of Keir Starmer's regime, and the players within the operation that tried to end his career. Buy The Fraud here: https://orbooks.com/catalog/the-fraud/ Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69bd85e41861d127d5c99b1b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138578351",
+      "itunes_duration": "1:36:12",
+      "speakers": [
+        "Paul Holden"
+      ],
+      "topics": [
+        "labour",
+        "keir",
+        "starmer",
+        "paul",
+        "holden"
+      ]
+    },
     {
       "key": "00fb103f5176df261ffc595f072dea4557ca6e56",
       "title": "Labour are coming for cowboy bosses scamming workers | Kate Dearden interview",
@@ -12129,6 +12151,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-22 — Labour tried to ruin me for exposing Keir Starmer | Paul Holden interview — speakers: Paul Holden
 - 2026-03-20 — Labour are coming for cowboy bosses scamming workers | Kate Dearden interview — speakers: Kate Dearden
 - 2026-03-19 — Britain is built on misery. This is how. | Lena Swedlow interview — speakers: Lena Swedlow
 - 2026-03-18 — Is Angela Rayner about to topple Keir Starmer? | PMQs Analysis — speakers: Angela Rayner
