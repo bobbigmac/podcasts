@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-03-21T21:38:43+00:00`
-- checked_at: `2026-03-21T21:38:43+00:00`
-- last_modified: `Sat, 21 Mar 2026 19:11:14 GMT`
+- fetched_at: `2026-03-23T03:24:00+00:00`
+- checked_at: `2026-03-23T03:24:00+00:00`
+- last_modified: `Mon, 23 Mar 2026 00:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-21T21:38:43+00:00",
+  "fetched_at": "2026-03-23T03:24:00+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -27,12 +27,36 @@
   ],
   "episodes": [
     {
+      "key": "ea34b108ae7bbe3adff26a616c6ab864e12de6c6",
+      "title": "FIN TAYLOR Pt 2: Worst Trouble He Ever Got In, Origins of Fin Vs History & Fin Vs The Internet",
+      "published_at": "2026-03-23T00:00:00+00:00",
+      "link": null,
+      "description": "Fin Taylor is back with Seann Walsh! Here Fin reveals the importance of the school debating society in forming his early stand up aspirations, a telling off that lead to a headmaster apologizing and his early sketch group. He also reveals how he came to team up with Horatio Gould and Vittorio Angelone, his key collaborators behind the creation Fin Vs The Internet (which he says STILL hasn't made him any money!) and how that lead to Fin Vs History. Check out MORE EXCLUSIVE content with Fin by clicking below as he tells us what's the one thing he would want to bring from his youth into adulthood AND a listener asks him if he's ever bombed in front a celebrity... https://www.patreon.com/classclown See Seann Walsh on his This Is Torture Live Tour ! Tickets below! https://www.seannwalsh.com/ 00:00 Getting In Trouble 12:08 Early Sketch Group 16:10 Starting Fin Vs Internet with Horatio Gould & Vittorio Angelone 25:46 Creating Fin Vs History 30:45 Influences 35:55 Future of Comedy Industry Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6ec659ca-2552-11f1-bd66-9bbb838e870b/image/69911861524e2ac3feaf3cfdfa454882.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8212534326.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2725",
+      "speakers": [
+        "Fin Taylor Pt",
+        "Fin Taylor",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "taylor",
+        "trouble",
+        "origin",
+        "history",
+        "internet"
+      ]
+    },
+    {
       "key": "158dc36b85fb7f15f5656ae09b1df2028974fc4b",
       "title": "FIN TAYLOR: School, Controversial Comedy & Not Being Afraid to Be Disliked",
-      "published_at": "2026-03-16T00:03:00+00:00",
+      "published_at": "2026-03-22T23:22:00+00:00",
       "link": null,
       "description": "In this episode of Class Clown , Seann Walsh sits down with comedian Fin Taylor to talk about how childhood, being the only boy in an all girl's dorm and having a family of performers helped shape his sharp, fearless style of comedy. From controversial jokes to pushing the boundaries of what audiences will accept, he explains why great comedy comes at the risk of being disliked and why that's totally okay with him. Seann and Fin talk about being a show off, getting in trouble for jokes, and how those early experiences influenced the comedian Fin would later become. Fin Taylor is one of the most distinctive voices in British comedy. He’s the creator and host of the hit YouTube comedy show Fin vs The Internet , and one of the biggest podcasts in the UK Fin vs History with Horatio Gould. He has appeared on Live at the Apollo , and his stand-up specials and online clips have built a huge following for his fearless, transgressive style. Topics in this episode include: • How school shaped Fin Taylor’s comedy • Why comedians shouldn’t be afraid of being disliked • The role of risk and controversy in stand-up • Getting in trouble for jokes at school • Why the context of wher you see comedy matters If you enjoy the episode, make sure to subscribe to the channel for more conversations with comedians about the moments that shaped their sense of humour. PART 2 of this conversation is available now on Patreon , where Seann and Fin go even deeper into comedy; How debating prepped him for comedy and the trouble he got into which lead to the headmaster apologising to him ! You'll also find an exclusive bonus episode on there as Fin answers your questions! Also catch Seann Walsh live and on tour! Tickets here! Follow the podcast for more episodes of Class Clown , where Seann Walsh speaks to comedians about the school experiences, teachers, and childhood moments that helped create their comedy voice. Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
+      "image_url": "https://megaphone.imgix.net/podcasts/6ce8a21a-20bc-11f1-9e6e-3719cf335a78/image/53248f2309b58af2bf01d4c1a819d577.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8497721647.mp3?updated=1773620008",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -1224,7 +1248,8 @@
 
 ## Episodes (newest first)
 
-- 2026-03-16 — FIN TAYLOR: School, Controversial Comedy & Not Being Afraid to Be Disliked — speakers: Seann Walsh, Fin Taylor
+- 2026-03-23 — FIN TAYLOR Pt 2: Worst Trouble He Ever Got In, Origins of Fin Vs History & Fin Vs The Internet — speakers: Fin Taylor Pt, Fin Taylor, Seann Walsh
+- 2026-03-22 — FIN TAYLOR: School, Controversial Comedy & Not Being Afraid to Be Disliked — speakers: Seann Walsh, Fin Taylor
 - 2026-03-09 — MAISIE ADAM Pt 2: Surviving Drama School, Discovering Comedy & The Party That Got her in MASSIVE Trouble — speakers: Maisie Adam, Seann Walsh
 - 2026-03-02 — MAISIE ADAM: Unconventional Comedy Beginnings, Northern Childhood & Obsession with Men's Torsos — speakers: Torsos Taskmaster, Seann Walsh
 - 2026-02-23 — ADAM HILLS PART 2: Comedy Philosophy, Reiki & Why The Last Leg is His Ideal Show — speakers: Adam Hills, Comedy Philosophy, Seann Walsh

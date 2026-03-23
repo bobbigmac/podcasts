@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-03-22T21:40:31+00:00`
-- checked_at: `2026-03-22T21:40:31+00:00`
-- etag: `"djEuMi4wOjE3NzQyMDk2MDAyMjk="`
+- fetched_at: `2026-03-23T03:24:00+00:00`
+- checked_at: `2026-03-23T03:24:00+00:00`
+- etag: `"djEuMi4wOjE3NzQyMjQxNTkzMzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-03-22T21:40:31+00:00",
+  "fetched_at": "2026-03-23T03:24:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e227bc03b4b01f25211c673b5074f85d131270ef",
+      "title": "Ep. 572 - Toby Anstis - From CBBC’s Broom Cupboard to 25 years at Heart Radio",
+      "published_at": "2026-03-23T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-572-toby-anstis-from-cbbcs-broom-cupboard-to-25-years-at",
+      "description": "Toby Anstis is one of the UK's best-loved radio and TV presenters, with a showbiz career spanning over 30 years. He began as the last ever presenter in the legendary CBBC \"broom cupboard\" on BBC1, before going on to host The Ozone, the Smash Hits Poll Winners Party at Wembley Arena, Children in Need, Grandstand, and the National Lottery Live. Since joining Heart Radio in 2001, Toby has built an extraordinary following — his show is now the number one most listened-to commercial radio show in the UK, with 4.1 million listeners. In 2019 he launched Heart Dance, where he hosts the breakfast show every morning and Club Classics every Friday night. Beyond radio, Toby has appeared on Loose Women, This Morning, I'm A Celebrity, and Ant & Dec's Saturday Night Takeaway, trod the boards in the West End production of Grease, and is a regular face in magazines including OK!. He also DJs extensively across the UK and Ibiza, headlining at the Epsom Derby, Ascot, Sandown, and festivals and club nights nationwide. Toby Anstis is our guests in episode 572 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Follow Toby Anstis on Instagram : @tobyanstis . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69c04a407878605e113a372e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "169198152",
+      "itunes_duration": "1:10:29",
+      "speakers": [],
+      "topics": [
+        "toby",
+        "anstis",
+        "cbbc",
+        "broom",
+        "cupboard",
+        "year",
+        "heart",
+        "radio"
+      ]
+    },
     {
       "key": "bfb616f17c1ab092b8175fce134c06b2a00d2889",
       "title": "Ep. 571 - Rosalie Minnitt - Award-winning comedy performer, best known for her character Clementine",
@@ -12164,6 +12187,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Ep. 572 - Toby Anstis - From CBBC’s Broom Cupboard to 25 years at Heart Radio
 - 2026-03-20 — Ep. 571 - Rosalie Minnitt - Award-winning comedy performer, best known for her character Clementine — speakers: Rosalie Minnitt
 - 2026-03-16 — Ep. 570 - Davina Bentley - One of The Telegraph’s “Five Young Sketch Comedians to Watch.” — speakers: Davina Bentley
 - 2026-03-13 — Ep. 569 - Special Compilation - featuring Angus Deayton, Joe Pasquale, Tommy Cannon, Jayde Adams, Mark Simmons & Ed Patrick — speakers: Angus Deayton, Joe Pasquale, Tommy Cannon, Jayde Adams, Mark Simmons, Ed Patrick

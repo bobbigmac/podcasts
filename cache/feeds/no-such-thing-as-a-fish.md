@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-03-20T03:10:06+00:00`
-- checked_at: `2026-03-20T03:10:06+00:00`
-- etag: `W/"ba9a7cbda8d24c964020f5cfa26abd1b"`
-- last_modified: `Thu, 19 Mar 2026 23:55:00 GMT`
+- fetched_at: `2026-03-23T03:24:00+00:00`
+- checked_at: `2026-03-23T03:24:00+00:00`
+- etag: `W/"e79429c89ee910b445ea6dffab5cf029"`
+- last_modified: `Sun, 22 Mar 2026 23:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-03-20T03:10:06+00:00",
+  "fetched_at": "2026-03-23T03:24:00+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "5e31ddde543f4adedfc32373676a3c500ef3c9ed",
+      "title": "Little Fish: The Rat Ticklers Need Me",
+      "published_at": "2026-03-22T23:55:00+00:00",
+      "link": "https://audioboom.com/posts/8875228",
+      "description": "Dan, James and Andy discuss YOUR facts, including boneless chicken, lifeless fungi paradoxical frogs. We learn what Anna has in common with Charles Dickens. And we name eight more Friend of the Podcast fact custodians. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8875228.mp3?modified=1774026101&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1758",
+      "speakers": [
+        "paradoxical frogs",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "ticklers"
+      ]
+    },
     {
       "key": "65509e49ea61db1e4271b566f2c0ece608de6bce",
       "title": "No Such Thing As A Shakespeare Burger",
@@ -15913,6 +15936,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-22 — Little Fish: The Rat Ticklers Need Me — speakers: paradoxical frogs, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-19 — No Such Thing As A Shakespeare Burger — speakers: Shakespeare Burger, Nina Conti, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-15 — Little Fish: Release The Naughty List — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-12 — No Such Thing As The Official Podcast Of Wyoming — speakers: Mary Roach, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

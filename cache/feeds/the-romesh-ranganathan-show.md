@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-03-20T21:44:50+00:00`
-- checked_at: `2026-03-20T21:44:50+00:00`
-- last_modified: `Fri, 20 Mar 2026 21:21:17 GMT`
+- fetched_at: `2026-03-23T03:24:00+00:00`
+- checked_at: `2026-03-23T03:24:00+00:00`
+- last_modified: `Mon, 23 Mar 2026 00:58:59 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/c4cfe1bfcc9a4011d72f8fe272266dac.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-20T21:44:50+00:00",
+  "fetched_at": "2026-03-23T03:24:00+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "085a5207f7faa77940c749e0a558a207ecd51491",
+      "title": "Tom Allen: Gardening With Celebs, Fashion Pet Peeves & The 'Mandem'",
+      "published_at": "2026-03-23T00:01:00+00:00",
+      "link": null,
+      "description": "Comedian Tom Allen talks us through fashion faux pas, stand up and bad audiences. Joining Romesh in the studio, they discuss Tom’s career evolution, pet peeves, Extra Slice and his new podast Pottering, plus his debut novel Common Decency, and the unexpected joys of suburban life. Expect a successful gift giving, questions from Shanthi, Misquoted and some very strong opinions on men's style. A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 02:05 Cushion conspiracy 02:50 Wearing suits and fashion advice 04:05 Romesh’s fashion crisis 06:25 Gift giving 10:15 Tom’s fashion pet peeve 15:22 Tom’s new podcast 16:35 Getting into gardening 17:39 Booking guests 18:28 Tom’s Debut Novel 'Common Decency' 20:08 The suburban life 27:10 A question from Shanthi 30:22 How smart should you dress for the shops 32:35 On stand up and telling off the audience 38:43 On Extra Slice 42:47 How posh does Tom rank? 45:34 Misquoted 59:01 Tom’s a football fan 01:02:55 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3cd4091c-2476-11f1-a59c-ab31e4373f75/image/cb216fd1bde46486b863d6896bb0bc2a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5283573430.mp3?updated=1774031023",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3964",
+      "speakers": [
+        "Tom Allen",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "allen",
+        "celebs",
+        "fashion",
+        "peeves",
+        "mandem"
+      ]
+    },
     {
       "key": "c925609aa0e193ac6cff81e1b319db2238781753",
       "title": "How To Survive A Desert Island & Shanthi’s AI Boyfriend?!",
@@ -1205,6 +1228,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Tom Allen: Gardening With Celebs, Fashion Pet Peeves & The 'Mandem' — speakers: Tom Allen, Romesh Ranganathan
 - 2026-03-19 — How To Survive A Desert Island & Shanthi’s AI Boyfriend?! — speakers: Desert Island, Would Shanthi, Romesh Ranganathan
 - 2026-03-16 — Hannah Fry: The Science Behind AI, Grief Tech & Life — speakers: Hannah Fry, Romesh Ranganathan
 - 2026-03-12 — Shanthi SHOCKS Romesh With Her WILD Thailand Trip! — speakers: Romesh Ranganathan

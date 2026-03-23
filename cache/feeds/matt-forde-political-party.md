@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-03-20T15:58:51+00:00`
-- checked_at: `2026-03-20T15:58:51+00:00`
-- etag: `"djEuMi4wOjE3NzQwMTg4MTU1NTU="`
+- fetched_at: `2026-03-23T03:24:00+00:00`
+- checked_at: `2026-03-23T03:24:00+00:00`
+- etag: `"djEuMi4wOjE3NzQyMzUwMTkzMDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-03-20T15:58:51+00:00",
+  "fetched_at": "2026-03-23T03:24:00+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "bd72340e1ac2b51fbde8112afc3a3499969c449a",
+      "title": "Show 395. Chris Curtis",
+      "published_at": "2026-03-23T03:03:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-395-chris-curtis",
+      "description": "Chris is 32 and was elected in 2024. Despite that, he's already made a name for himself as the co-chair of the Labour Growth Group. But who are they and what would they do differently? A former pollster, what's his take on Labour's position and can it be saved? More importantly, what is the most nutritious item on the Wetherspoons menu? THE POLITICAL PARTY LIVE 30 March: Lisa Nandy 20 April: Shabana Mahmood 11 May: Lewis Goodall https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SIGN UP to Matt's mailing list to get free audience tickets to his Radio 4 series: https://www.mattforde.com/mailing-list SEE Matt's brand new stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/69bd60ff1861d127d5bcd4f8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75768702",
+      "itunes_duration": "52:36",
+      "speakers": [
+        "Chris Curtis",
+        "Matt Forde"
+      ],
+      "topics": [
+        "chris",
+        "curtis"
+      ]
+    },
     {
       "key": "1a2a73d42bf5556cfdd2eaa149008d1b82b17ef3",
       "title": "Show 394. Karl Turner",
@@ -10186,6 +10206,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Show 395. Chris Curtis — speakers: Chris Curtis, Matt Forde
 - 2026-03-16 — Show 394. Karl Turner — speakers: Karl Turner, Matt Forde
 - 2026-03-11 — Show 393. Zack Polanski - LIVE — speakers: Zack Polanski, Matt Forde
 - 2026-03-02 — Show 392. Christopher Snowdon — speakers: Christopher Snowdon, Matt Forde
