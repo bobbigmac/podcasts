@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-03-20T07:13:50+00:00`
-- checked_at: `2026-03-20T07:13:50+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpNNU9EWXpPREF3TWpnPTo6c2F4ZXNz"`
+- fetched_at: `2026-03-23T21:50:27+00:00`
+- checked_at: `2026-03-23T21:50:27+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpReU9UWTVNemsyTlRnPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-03-20T07:13:50+00:00",
+  "fetched_at": "2026-03-23T21:50:27+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a838b6accb451e8a97ec78516a4e9fb4a4394da7",
+      "title": "Help I Used Dirty Loo Roll | And We’re On The TOUR BUS!",
+      "published_at": "2026-03-23T20:15:23+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-i-used-dirty-loo-roll-and-were-on-the-tour-bus",
+      "description": "The boys are on tour and behaving badly at the back of the bus! Jordan won't stop telling the WAGs off and William's making production crew give up their bunks for his personal belongings. But in between the horse anecdotes and train terrors, there's always time for your dilemmas, which include whether it's okay to sleep with your child's teacher or use someone's dirty toilet paper. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": "31:44",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "dirty",
+        "roll",
+        "tour"
+      ]
+    },
     {
       "key": "aa32c6eeb81f70c912ed7f5422b2a86b302eb469",
       "title": "Old People Foreplay | And Nostalgic LADS Mags",
@@ -13945,6 +13966,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Help I Used Dirty Loo Roll | And We’re On The TOUR BUS! — speakers: William Hanson, Jordan North
 - 2026-03-20 — Old People Foreplay | And Nostalgic LADS Mags — speakers: William Hanson, Jordan North
 - 2026-03-17 — Help He Slaps His Mum’s Bum | And Jordan’s The Star ⭐️ — speakers: Mum’s Bum, William Hanson, Jordan North
 - 2026-03-13 — William's Masc?! | And Jolly Joke Surprise — speakers: William Hanson, Jordan North
