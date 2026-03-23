@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-03-22T13:14:14+00:00`
-- checked_at: `2026-03-22T13:14:14+00:00`
-- etag: `"djEuMi4wOjE3NzQxODAyNDI4NDc="`
+- fetched_at: `2026-03-23T10:14:12+00:00`
+- checked_at: `2026-03-23T10:14:12+00:00`
+- etag: `"djEuMi4wOjE3NzQyNTIyMzk4MDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-03-22T13:14:14+00:00",
+  "fetched_at": "2026-03-23T10:14:12+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "def188dce95379278aa50c4392cbd76f3da7c93b",
+      "title": "Taylor Frankie Paul and Manosphere REACTS",
+      "published_at": "2026-03-23T07:50:00+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/taylor-frankie-paul-and-manosphere-reacts",
+      "description": "This week, Katherine's Telling Everybody Everything about a couple of older men kicking off about in-flight meals. Are some older men rude because they're pr*cks or have they got a brain disease? Also, a video surfaces of The Secret Lives of Mormon Wives star Taylor Frankie Paul throwing some metal chairs around and it derails her imminent season as The Bachelorette. What went into the decision to cast her in the first place? What a RISK. Also, your emails mostly admonishing Katherine and Bobby for their *take* on The Manosphere documentary x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1774180002922-67a788cb-b599-42f9-bdff-737bb20fd82c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/69bfd7921861d127d55005b4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86210060",
+      "itunes_duration": "59:51",
+      "speakers": [
+        "Frankie Paul",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "taylor",
+        "frankie",
+        "paul",
+        "manosphere",
+        "react"
+      ]
+    },
     {
       "key": "4fbeabf3bbce93d5a73b51d521d26109c0a97ff5",
       "title": "The Manosphere",
@@ -5986,6 +6009,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Taylor Frankie Paul and Manosphere REACTS — speakers: Frankie Paul, Katherine Ryan
 - 2026-03-16 — The Manosphere — speakers: Louis Theroux, Katherine Ryan
 - 2026-03-09 — A Listener Letter Catchup — speakers: Listener Letter Catchup Katherine, Telling Everybody Everything, Katherine Ryan
 - 2026-03-03 — Jim Carrey's Face and Maura Higgins' Body — speakers: Jim Carrey, Maura Higgins Body, Katherine Ryan
