@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-21T18:54:22+00:00`
-- checked_at: `2026-03-21T18:54:22+00:00`
-- etag: `"djEuMi4wOjE3NzQxMTI0Mzk0NTk="`
+- fetched_at: `2026-03-23T19:13:17+00:00`
+- checked_at: `2026-03-23T19:13:17+00:00`
+- etag: `"djEuMi4wOjE3NzQyODQwNDUzMzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-21T18:54:22+00:00",
+  "fetched_at": "2026-03-23T19:13:17+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "d86ddabb5965b627e64777a778ae8dcd25aff1bf",
+      "title": "How Covid fear shaped the meningitis response",
+      "published_at": "2026-03-23T16:40:45+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/how-covid-fear-shaped-the-meningitis-response",
+      "description": "Earlier this month, a meningitis outbreak in Canterbury, Kent, led to the tragic death of two young people. So far there have been 29 confirmed or suspected cases in total. It’s thought that a “super-spreader” event at a nightclub is the source of the outbreak. Since then, there has been a mass rollout of vaccines for Meningitis B and preventative antibiotics. Thousands of students and contacts have been treated. Cases now appear to be slowing or stabilising, however, some questions have been raised over the speed of the response from the government. Post-Covid, fear amongst the public of the spread of infectious diseases is heightened. This meningitis outbreak has served as a test, not just of public health response and communication, but of how the public understands risk in a post-pandemic Britain. Anoosh Chakelian is joined by investigations editor, Hannah Barnes. READ: https://www.newstatesman.com/politics/health/2026/03/was-kent-prepared-for-meningitis LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1774283103422-f8c6f7fb-665a-48a6-bd61-0b19c741b5fd.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69c16d0d1a160b44dbaaef7b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46883577",
+      "itunes_duration": "24:23",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "fear",
+        "meningitis",
+        "response"
+      ]
+    },
     {
       "key": "d82d67ebea8f3af8313975ab89dedf2f009806fa",
       "title": "\"Build the tunnel right through stonehenge\" | Anoosh & Will's weekly round-up",
@@ -30700,6 +30721,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — How Covid fear shaped the meningitis response — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-21 — "Build the tunnel right through stonehenge" | Anoosh & Will's weekly round-up — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-20 — Is Angela Rayner making her move? — speakers: Angela Rayner, Anoosh Chakelian, Oli Dugmore
 - 2026-03-19 — Keir Starmer’s cost of living crisis — speakers: Anoosh Chakelian, Oli Dugmore

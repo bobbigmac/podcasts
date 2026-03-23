@@ -1688,6 +1688,28 @@
         "feed_slug": "external:apple:1773bc876200",
         "feed_title": "Springleaf",
         "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
+        "dedupe_key": "f1e2f9a811d08805f76cb30d36455c6b7b9e84c1",
+        "episode_key": "f1e2f9a811d08805f76cb30d36455c6b7b9e84c1",
+        "title": "Episode 3",
+        "published_at": "2023-12-05T06:00:14Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Pat is booked as a guest for Tom Allen's new panel show, and Donna persuades the SW6 gang to carry out a practice heist at the studio in preparation for their big casino job - bad news for fellow panellists Jo Brand and Sarah Millican. Meanwhile, 'Sita's Creatures' animal acting agency goes from strength to strength as",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65401c2618e0ae0011a36b32/e/6558e1000418cd00128f235f/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-3/id1716339860?i=1000637522353&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1773bc876200",
+        "feed_title": "Springleaf",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
         "dedupe_key": "71000224fb882f916502b29f56c79e0a7a872cbd",
         "episode_key": "71000224fb882f916502b29f56c79e0a7a872cbd",
         "title": "Episode 2",

@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-03-23T10:14:12+00:00`
-- checked_at: `2026-03-23T10:14:12+00:00`
-- last_modified: `Mon, 23 Mar 2026 09:00:00 GMT`
+- fetched_at: `2026-03-23T19:13:17+00:00`
+- checked_at: `2026-03-23T19:13:17+00:00`
+- last_modified: `Mon, 23 Mar 2026 18:58:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-23T10:14:12+00:00",
+  "fetched_at": "2026-03-23T19:13:17+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -32,7 +32,7 @@
       "title": "How a Mormon Journalist Became a Degenerate Gambler",
       "published_at": "2026-03-23T09:00:00+00:00",
       "link": null,
-      "description": "On a muggy spring day in 2018, the Supreme Court handed down a decision that transformed America. In a 6-3 ruling, the high court cleared the way for legal sports betting from coast to coast. Since then, all bets have been off: Americans have wagered more than $500 billion on sports. And now, thanks to prediction markets like Kalshi and Polymarket, we're betting on everything — the weather, where the next US airstrike will land in Iran, whether Jesus Christ will return before 2027. McKay Coppins, a staff writer at The Atlantic, wanted to write about this brave new world of betting. He got more than he bargained for. His story — \"My Year as a Degenerate Gambler\" — is the cover of The Atlantic's April issue. Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠ . Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠. We love getting fan mail. Sponsored By: Bitdefender — Get 30% off your plan at ⁠⁠bitdefender.com/idea⁠⁠ Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠⁠meetfabric.com/nbi⁠⁠ Factor — Head to ⁠⁠⁠factormeals.com/idea50off⁠⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠⁠granola.ai/idea⁠⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠⁠",
+      "description": "On a muggy spring day in 2018, the Supreme Court handed down a decision that transformed America. In a 6-3 ruling, the high court cleared the way for legal sports betting from coast to coast. Since then, all bets have been off: Americans have wagered more than $500 billion on sports. And now, thanks to prediction markets like Kalshi and Polymarket, we're betting on everything — the weather, where the next US airstrike will land in Iran, whether Jesus Christ will return before 2027. McKay Coppins, a staff writer at The Atlantic, wanted to write about this brave new world of betting. He got more than he bargained for. His story — \"My Year as a Degenerate Gambler\" — is the cover of The Atlantic's April issue. Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠ . Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠. We love getting fan mail. Sponsored By: Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠⁠meetfabric.com/nbi⁠⁠ Factor — Head to ⁠⁠⁠factormeals.com/idea50off⁠⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠⁠granola.ai/idea⁠⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠⁠",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/YAP6765734921.mp3?updated=1774228023",
       "enclosure_type": "audio/mpeg",
