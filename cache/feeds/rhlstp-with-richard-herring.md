@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-21T18:54:22+00:00`
-- checked_at: `2026-03-21T18:54:22+00:00`
-- etag: `"djEuMi4wOjE3NzQxMTQxMjc2NTI="`
+- fetched_at: `2026-03-23T07:39:16+00:00`
+- checked_at: `2026-03-23T07:39:16+00:00`
+- etag: `"djEuMi4wOjE3NzQyMzgyNTkyNDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-21T18:54:22+00:00",
+  "fetched_at": "2026-03-23T07:39:16+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7f4658f47c1baee449a936f07453bef232e1756b",
+      "title": "Retro RHLSTP 138 - Eshaan Akbar",
+      "published_at": "2026-03-23T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#435 Glisten With Mother - Richard has had to deal with a persistent heckler (aka his son) and surprised himself with the cliche that he responded with. His guest is banker turned comedian Eshaan Akbar. They discuss not knowing how to wear trousers or shake hands, his inappropriately named dance group, challenging your childhood religion through comedy and why that was potentially more perilous for Eshaan, than Richard, whether it was right that Eshaan ended up doing the brown voices on Spitting Image, not wanting to be the spokesperson for any community or being forced to challenge inequality, when you believe yourself to be everyone’s equal. The show included an erudite and interesting alternate point of view from an Asian member of the audience, which sadly was not picked up by the microphones, but which we hopefully discussed fairly nonetheless. Plus the story of a twisted testicle with a happy ending PS Eshaan and Richard successfully shook hands as they left the stage. Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1774113678168-8f31b0fe-f43a-47a0-b8ad-f8b85aadb15f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69becfcb3bbfcfe8dbc7540d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38817014",
+      "itunes_duration": "1:15:01",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "retro",
+        "eshaan",
+        "akbar"
+      ]
+    },
     {
       "key": "f47b74c0c506355b859a969228ccc22d98c31697",
       "title": "RAACN week 8",
@@ -21848,6 +21868,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Retro RHLSTP 138 - Eshaan Akbar — speakers: Richard Herring
 - 2026-03-21 — RAACN week 8 — speakers: Richard Herring
 - 2026-03-20 — RHLSTP Book Club 174 - Zakia Sewell — speakers: Book Club, Zakia Sewell, Finding Albion, Richard Herring
 - 2026-03-18 — RHLSTP 603 - Vittorio Angelone — speakers: Board Rich, Richard Herring

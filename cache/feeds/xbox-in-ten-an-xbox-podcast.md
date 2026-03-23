@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-03-22T21:40:31+00:00`
-- checked_at: `2026-03-22T21:40:31+00:00`
-- etag: `"ca45820a6bb3d5e13fe3082821c41218"`
-- last_modified: `Sun, 22 Mar 2026 20:13:41 GMT`
+- fetched_at: `2026-03-23T07:39:16+00:00`
+- checked_at: `2026-03-23T07:39:16+00:00`
+- etag: `"c031d4d9413ef3067afd456702f78e4a"`
+- last_modified: `Mon, 23 Mar 2026 04:12:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-03-22T21:40:31+00:00",
+  "fetched_at": "2026-03-23T07:39:16+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f84b17015b730a2c3e31ea8bde8d763965d425bb",
+      "title": "Starfield Story DLC & Free Update Dated - (Xbox In Ten: An Xbox Podcast - Ep. 356)",
+      "published_at": "2026-03-23T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/starfield-story-dlc-free-update-dated-xbox-in-ten-an-xbox-podcast-ep-356",
+      "description": "Week of: 3-16-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/0/d/2/a/0d2a8aabbcbe46a116c3140a3186d450/356.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/356.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "18221488",
+      "itunes_duration": "12:20",
+      "speakers": [
+        "Starfield Story",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "starfield",
+        "story",
+        "free",
+        "update",
+        "dated",
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "133dc046ab28eb63909af5449ffc708827b529ad",
       "title": "Xbox's GDC Recap: Building the Next Generation with Project Helix - (Xbox In Ten: An Xbox Podcast - Ep. 355)",
@@ -8945,6 +8970,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Starfield Story DLC & Free Update Dated - (Xbox In Ten: An Xbox Podcast - Ep. 356) — speakers: Starfield Story, Brandon Rosa
 - 2026-03-16 — Xbox's GDC Recap: Building the Next Generation with Project Helix - (Xbox In Ten: An Xbox Podcast - Ep. 355) — speakers: Project Helix, Brandon Rosa
 - 2026-03-09 — Xbox Reveals Project Helix: The New Xbox/PC Hybrid Console - (Xbox In Ten: An Xbox Podcast - Ep. 354) — speakers: Xbox Reveals Project Helix, Hybrid Console, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-03-02 — New Xbox CEO Asha Sharma on the Platform - (Xbox In Ten: An Xbox Podcast - Ep. 353) — speakers: Asha Sharma, Brandon Rosa

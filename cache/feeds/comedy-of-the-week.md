@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-03-17T07:19:08+00:00`
-- checked_at: `2026-03-17T07:19:08+00:00`
-- etag: `"fe3e37cc930044db1bc6628574aa828f"`
-- last_modified: `Tue, 17 Mar 2026 05:00:06 GMT`
+- fetched_at: `2026-03-23T07:39:16+00:00`
+- checked_at: `2026-03-23T07:39:16+00:00`
+- etag: `"11b058dbe50ffb891ac02c59a561988c"`
+- last_modified: `Mon, 23 Mar 2026 05:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-03-17T07:19:08+00:00",
+  "fetched_at": "2026-03-23T07:39:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "d6409b51762b6fce02b93511a83ab4d384a2d528",
+      "title": "Slim's Guide to Life",
+      "published_at": "2026-03-23T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n85lrx",
+      "description": "53 year old Slim looks back on his first proper decade of adulthood. Driving the buses of London in this period leads Slim to reflect on why bus drivers don't get respect. He's also a father of two at this point, and recalls some of his favourite, and least favourite dad duties, and we also hear about his first time in front of an audience. This is the third episode from the series Slim's Guide to Life. For more episodes, search \"Stand-Up Specials\" on BBC Sounds. Written and performed by Slim Script Edited by David Ajao Production Coordinator: Caroline Barlow Executive Producer: Pete Strauss Recorded at Up The Creek comedy club by Chris Maclean. Sound design by Chris Maclean Music by Slim Slim's Guide to Life is produced by Gwyn Rhys Davies, and is a BBC Studios production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n85lgw.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13664000",
+      "itunes_duration": "854",
+      "speakers": [],
+      "topics": [
+        "slim",
+        "guide",
+        "life"
+      ]
+    },
     {
       "key": "b4299cf2d9f50afdb08ddf3109012bffcd5c6ddb",
       "title": "Wing It",
@@ -973,6 +991,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Slim's Guide to Life
 - 2026-03-16 — Wing It — speakers: Steen Raskopoulos, Luke Manning, Emily Lloyd-Saini
 - 2026-03-09 — Aurie Styla: Tech Talk — speakers: Aurie Styla, Tech Talk Comedian Aurie
 - 2026-03-02 — The Making of Colin Hoult — speakers: Colin Hoult

@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-03-23T03:24:00+00:00`
-- checked_at: `2026-03-23T03:24:00+00:00`
-- etag: `"djEuMi4wOjE3NzQyMjczNjk0NDM="`
+- fetched_at: `2026-03-23T07:39:16+00:00`
+- checked_at: `2026-03-23T07:39:16+00:00`
+- etag: `"djEuMi4wOjE3NzQyMzY2MzkyNTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-03-23T03:24:00+00:00",
+  "fetched_at": "2026-03-23T07:39:16+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f53b71617b13725631576d7a91235ffd62d0d2a3",
+      "title": "615 Project Hail Mary & Spider-Man: Brand New Day Trailer",
+      "published_at": "2026-03-23T03:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/615-project-hail-mary-spider-man-brand-new-day-trailer",
+      "description": "This week we talk about the latest movie about a guy is trapped in space and he's lonely or whatever in Project Hail Mary, based on the book Project Hail Mary. We also talk the release of the first Spider-Man: Brand New Day trailer and all the secrets within it, also a traielr for Dune: Park III, details of A Quiet Place Part 3, a reaction to the Oscars, release dates of The Incredibles 3 and Lilo & Stitch 2, the return of Firefly and more! Thanks for listening New episode of our bonus podcast James & Maso's Time Crapsule out now on bigsandwich.co !! PLEASE be aware timecodes may shift up to a few minutes due to inserted ads. 00:00 The Start 03:34 The Oscars 2026 Reactions 08:46 Incredibles 3, Lilo & Stich 2 Announced 19:12 A Quiet Place Part 3 Confirmed 22:36 Dune Part 3 Trailer 25:34 Spider-Man: Brand New Day Trailer 40:59 Project Hail Mary Movie Review 52:24 Project Hail Mary Spoiler Segment 01:07:32 What We Reading, What We Gonna Read 01:12:58 Letters, It’s Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69be94ed007cdcf83f1ac1ea/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "130760024",
+      "itunes_duration": "1:30:48",
+      "speakers": [
+        "Project Hail Mary",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "project",
+        "hail",
+        "mary",
+        "spider",
+        "brand"
+      ]
+    },
     {
       "key": "cea56bf0dd43b2f4fccb0e8923de928ce5e69747",
       "title": "Gamer - Caravan Of Garbage",
@@ -21925,6 +21949,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — 615 Project Hail Mary & Spider-Man: Brand New Day Trailer — speakers: Project Hail Mary, James Clement, Nick Mason
 - 2026-03-19 — Gamer - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-03-16 — 614 How to Make a Killing & Supergirl First Reactions — speakers: Maso review, Glen Powell, James Clement, Nick Mason
 - 2026-03-12 — The Last Starfighter - Caravan Of Garbage — speakers: James Clement, Nick Mason
