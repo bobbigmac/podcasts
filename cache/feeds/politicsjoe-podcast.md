@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-22T15:40:36+00:00`
-- checked_at: `2026-03-22T15:40:36+00:00`
-- etag: `"djEuMi4wOjE3NzQxODcyODI2MTQ="`
+- fetched_at: `2026-03-23T16:09:49+00:00`
+- checked_at: `2026-03-23T16:09:49+00:00`
+- etag: `"djEuMi4wOjE3NzQyNzQzNTE3MzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-22T15:40:36+00:00",
+  "fetched_at": "2026-03-23T16:09:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "9d1cb7e1f281e6717e7453ab99d63b3d43df980f",
+      "title": "GB News Host writes book FULL of AI slop, says journalist",
+      "published_at": "2026-03-23T13:50:19+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69c138977878605e117648ae",
+      "description": "Andy's been looking into Gorton and Denton by-election loser Matthew Goodwin's new book over the weekend, and has some hefty claims about its author. He tells Ava about his discoveries. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69c138977878605e117648ae/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67075491",
+      "itunes_duration": "46:34",
+      "speakers": [
+        "Matthew Goodwin"
+      ],
+      "topics": [
+        "news",
+        "host",
+        "book",
+        "slop",
+        "journalist"
+      ]
+    },
     {
       "key": "4bc7ad1d33a92e06889945983d74be584a0ea050",
       "title": "Labour tried to ruin me for exposing Keir Starmer | Paul Holden interview",
@@ -12151,6 +12173,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — GB News Host writes book FULL of AI slop, says journalist — speakers: Matthew Goodwin
 - 2026-03-22 — Labour tried to ruin me for exposing Keir Starmer | Paul Holden interview — speakers: Paul Holden
 - 2026-03-20 — Labour are coming for cowboy bosses scamming workers | Kate Dearden interview — speakers: Kate Dearden
 - 2026-03-19 — Britain is built on misery. This is how. | Lena Swedlow interview — speakers: Lena Swedlow

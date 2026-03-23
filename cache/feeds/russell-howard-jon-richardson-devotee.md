@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-23T10:14:12+00:00`
-- checked_at: `2026-03-23T10:14:12+00:00`
-- etag: `W/"23d19-AOXV8w9KNvOud+cvVQeRtc5F6nQ"`
+- fetched_at: `2026-03-23T16:09:49+00:00`
+- checked_at: `2026-03-23T16:09:49+00:00`
+- etag: `W/"238a4-Reeurb1dCXxGndKa6lZ/7opUvtI"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,34 +17,13 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-23T10:14:12+00:00",
+  "fetched_at": "2026-03-23T16:09:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "26048d9a143ac3fda488edb95b1d00a86371ab3b",
-      "title": "#37 Jon Richardson Podcast with Maff Brown",
-      "published_at": "2026-03-22T16:23:18+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/37-Jon-Richardson-Podcast-with-Maff-Brown-e3gqe45",
-      "description": "#37 Jon Richardson Podcast with Maff Brown",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1774196260981-68e4ef0028936.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117306949/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-22%2F663a6dad-1b42-c8e2-f0e4-3c0353306c07.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "63339872",
-      "itunes_duration": "01:27:56",
-      "speakers": [
-        "Maff Brown"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "maff",
-        "brown"
-      ]
-    },
     {
       "key": "bd4b51e3a1977d4ef8ec4bb6dfa303b0e5272b35",
       "title": "#36 Jon Richardson Podcast with Carl Donnelly",
@@ -2543,7 +2522,6 @@
 
 ## Episodes (newest first)
 
-- 2026-03-22 — #37 Jon Richardson Podcast with Maff Brown — speakers: Maff Brown
 - 2026-03-19 — #36 Jon Richardson Podcast with Carl Donnelly — speakers: Carl Donnelly
 - 2026-03-18 — #35 Jon Richardson Podcast with Tom Parry — speakers: Tom Parry
 - 2026-03-17 — #34 Jon Richardson Podcast with Stephen Grant — speakers: Stephen Grant

@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-03-17T10:09:09+00:00`
-- checked_at: `2026-03-17T10:09:09+00:00`
-- etag: `"108689-64d341e19fdae"`
-- last_modified: `Tue, 17 Mar 2026 08:28:18 GMT`
+- fetched_at: `2026-03-23T16:09:49+00:00`
+- checked_at: `2026-03-23T16:09:49+00:00`
+- etag: `"109000-64db328e4ab17"`
+- last_modified: `Mon, 23 Mar 2026 16:02:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-03-17T10:09:09+00:00",
+  "fetched_at": "2026-03-23T16:09:49+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e7b8e6895cc11f13a4d5fe8a8fd0af16764a9f99",
+      "title": "Happy Birthday - S10, Ep 1",
+      "published_at": "2026-03-23T05:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "This week's Jenny and Jack examine God's haemorrhoid, otherwise known as Series 10, Episode 1 - historically important for being the first Channel 4, socially distant episode ever to exist. Did Daisy May Cooper wet herself from laughing too hard in studio? Did Mawaan Rizwan actually shrink a big thing? Is it even possible to get an egg into a frying pan from a distance? And, most importantly, did Jenny recognise one big prop? All of these questions are discussed. Plus, a listener gives a thorough run-down on series 21 contestant star signs, and another writes in to set the record straight on girls kicking yoghurt. Send all your Taskmaster thoughts to: fans@taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/3a041f61-a705-4d55-96a4-67331da6aa49.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=3a041f61-a705-4d55-96a4-67331da6aa49",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60726541",
+      "itunes_duration": "59:56",
+      "speakers": [
+        "Happy Birthday",
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "birthday"
+      ]
+    },
     {
       "key": "c70e8d72b4bfd865f37d98b3c6dc242671cc5636",
       "title": "Fi Fi Fo Phil - S7, Ep. 5",
@@ -4347,6 +4367,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-23 — Happy Birthday - S10, Ep 1 — speakers: Happy Birthday, Jenny Eclair, Jack Bernhardt
 - 2026-03-16 — Fi Fi Fo Phil - S7, Ep. 5 — speakers: Lotta Soup, Jenny Eclair, Jack Bernhardt
 - 2026-03-09 — We Don’t Swear at Bubbles - S5, Ep. 6 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-03-02 — Cake Rat - S5, Ep.1 — speakers: Jenny Eclair, Jack Bernhardt
