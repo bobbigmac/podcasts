@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-03-20T19:06:43+00:00`
-- checked_at: `2026-03-20T19:06:43+00:00`
-- etag: `"9903d4d77a7d29bc1a7f690743ddcf66"`
-- last_modified: `Fri, 20 Mar 2026 17:05:03 GMT`
+- fetched_at: `2026-03-24T16:17:58+00:00`
+- checked_at: `2026-03-24T16:17:58+00:00`
+- etag: `"aeac503d5c054f5e39e5c97af01e6f4b"`
+- last_modified: `Tue, 24 Mar 2026 16:05:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-03-20T19:06:43+00:00",
+  "fetched_at": "2026-03-24T16:17:58+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -29,6 +29,32 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "2707920151200c8fe92af36df3d6e6b810a98535",
+      "title": "#525 - Lostalgia, Fornication Nation and Narberth to Nefyn Nude",
+      "published_at": "2026-03-24T16:05:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002szqv",
+      "description": "Elis has come off the back of a midi week but that’s not a problem, because the hive mind has another great TV format to which the networks can say “I love it, so I’m going to say ‘no’.” ‘John’s Thoughts’ arrives much to Elis’s confusion, during which John’s also come up with an emotion that’s more complex than nostalgia. “What is this?” asks the Assistant to a Thought Leader about the feature. We don’t quite know yet but it is certainly a great conduit for chin wagging chat. And in all of that we’ve got a belting Made Up Game which really plays to the boys’ experience in indie commercial digital radio. It’s elisandjohn@bbc.co.uk if you’ve got a game that could wet our whistles.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n8hsml.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58752000",
+      "itunes_duration": "3672",
+      "speakers": [
+        "Fornication Nation",
+        "Nefyn Nude Elis",
+        "Elis James",
+        "John Robins"
+      ],
+      "topics": [
+        "lostalgia",
+        "fornication",
+        "nation",
+        "narberth",
+        "nefyn",
+        "nude"
+      ]
+    },
     {
       "key": "401ccdd398c3e27905e426696eae29aa11585a52",
       "title": "#524 - The Purple Pill, Hits & Mems and John Robins In The Manosphere",
@@ -12683,6 +12709,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-24 — #525 - Lostalgia, Fornication Nation and Narberth to Nefyn Nude — speakers: Fornication Nation, Nefyn Nude Elis, Elis James, John Robins
 - 2026-03-20 — #524 - The Purple Pill, Hits & Mems and John Robins In The Manosphere — speakers: John Robins, Elis James
 - 2026-03-17 — #523 - Tender Thomas, A Good Beast and Checkout Confidential — speakers: Checkout Confidential, Elis James, John Robins
 - 2026-03-13 — #522 - Fast Twitch Diplomacy, Jeez & Onion and To Do With The Weavers — speakers: Elis James, John Robins

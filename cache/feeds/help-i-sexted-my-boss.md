@@ -3,9 +3,11 @@
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
 - fetched_at: `2026-03-24T07:19:23+00:00`
-- checked_at: `2026-03-24T07:19:23+00:00`
+- checked_at: `2026-03-24T16:17:58+00:00`
 - etag: `"ZGpFdU1pNHdPakUzTnpRek16RTVOems1T0RnPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
+- status: `error`
+- last_error: `HTTP 502` — Bad Gateway
 
 <!-- FEED_JSON -->
 ```json
@@ -13959,7 +13961,17 @@
         "preview"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-03-24T16:17:58+00:00",
+    "status": "error",
+    "checked_at": "2026-03-24T16:17:58+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 502,
+      "message": "Bad Gateway"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

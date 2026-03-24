@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-03-24T13:51:06+00:00`
-- checked_at: `2026-03-24T13:51:06+00:00`
-- etag: `W/"38c34-o5q16whDRtX58UWkOpkJhMVZu1g"`
+- fetched_at: `2026-03-24T16:17:58+00:00`
+- checked_at: `2026-03-24T16:17:58+00:00`
+- etag: `W/"393bb-TK4PMBMrdslmK8numEhz5lKF6vQ"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-03-24T13:51:06+00:00",
+  "fetched_at": "2026-03-24T16:17:58+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "40f4e7af4e3c3f7443682bb9dec139a81077947c",
+      "title": "Let's Fix Your Boring Fantasy World | Windbreaker Podcast",
+      "published_at": "2026-03-24T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Lets-Fix-Your-Boring-Fantasy-World--Windbreaker-Podcast-e3gsbaj",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty dig into fantasy settings in games -- which work, which don't, and how you can make a boring one feel more alive. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3185982951.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90179291",
+      "itunes_duration": "01:33:56",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "boring",
+        "fantasy",
+        "world",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "ad7ceeeddf7ae7daa45b279b1ae01a0dc1ebf76d",
       "title": "Resident Evil Requiem Spoilercast | Windbreaker Podcast",
@@ -2669,6 +2692,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-24 — Let's Fix Your Boring Fantasy World | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-03-17 — Resident Evil Requiem Spoilercast | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-03-10 — What Makes the Perfect Zone Out Game? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-03-03 — We Forced Yahtzee to Watch the New Silent Hill 2 Movie | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
