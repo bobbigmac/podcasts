@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-03-23T19:13:17+00:00`
-- checked_at: `2026-03-23T19:13:17+00:00`
-- last_modified: `Mon, 23 Mar 2026 19:03:05 GMT`
+- fetched_at: `2026-03-24T03:13:25+00:00`
+- checked_at: `2026-03-24T03:13:25+00:00`
+- last_modified: `Tue, 24 Mar 2026 00:05:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-23T19:13:17+00:00",
+  "fetched_at": "2026-03-24T03:13:25+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "60459c59d4cf2e54e8fde348d5a14da7502f1fc6",
+      "title": "Did SNL UK Defy The Critics?",
+      "published_at": "2026-03-24T00:05:00+00:00",
+      "link": null,
+      "description": "Did Saturday Night Live UK flop or not? Are we in a golden age of British comedy? And why has Netflix parted ways with Harry and Meghan? SNL made its UK debut on Saturday night after weeks of scepticism from critics - but was it any good? And who was responsible for a freakishly good Princess Di impression? Netflix has announced it’s divesting from the lifestyle brand it helped Meghan Markle build, amidst damning reports about the couple. So what’s really going on, and were Sussex’s entertainment dreams doomed from the start? Last One Laughing returns to our screens - is this blockbuster comedy at its best? Richard and Marina discuss the filming secrets and big budget behind the hit reality show. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Joey McCarthy & Charlie Rodwell Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Exec Producer: Neil Fearn Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6931784523.mp3?updated=1774290942",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2525",
+      "speakers": [
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "defy",
+        "critics"
+      ]
+    },
     {
       "key": "0e0d999df63f8074cb03701e18113683cc11a997",
       "title": "Are Celebrities Being Cloned?",
@@ -5441,6 +5461,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-24 — Did SNL UK Defy The Critics? — speakers: Richard Osman, Marina Hyde
 - 2026-03-19 — Are Celebrities Being Cloned? — speakers: Jim Carrey, Richard Osman, Marina Hyde
 - 2026-03-16 — The Oscars: Drama, Fallout and Chalamet’s Shocker — speakers: Shocker Will, Richard Osman, Marina Hyde
 - 2026-03-12 — Tim Davie on BAFTA, Mistakes and the BBC’s Future — speakers: Tim Davie, Richard Osman, Marina Hyde

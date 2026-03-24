@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-03-23T21:50:27+00:00`
-- checked_at: `2026-03-23T21:50:27+00:00`
-- last_modified: `Mon, 23 Mar 2026 21:48:40 GMT`
+- fetched_at: `2026-03-24T03:13:25+00:00`
+- checked_at: `2026-03-24T03:13:25+00:00`
+- last_modified: `Tue, 24 Mar 2026 00:27:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-23T21:50:27+00:00",
+  "fetched_at": "2026-03-24T03:13:25+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e9a54b155d81588dde9354e29dcbe271f5f4caf5",
+      "title": "Horny dreams, zombie apocalypses and school parties",
+      "published_at": "2026-03-24T00:01:00+00:00",
+      "link": null,
+      "description": "What do Tom’s dreams mean? How would we fare in a zombie apocalypse? Is Rom becoming a soft touch? And what scary film did Tom audition for? We discuss all of this, plus reminisce about how cool we weren’t in school - enjoy! Don’t forget to send in your questions to wolfowlpod@gmail.com for the chance to have them answered in an upcoming episode. A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 00:51 Rom’s hair (again) 01:55 Sleep gate and Tom’s master 07:21 Nancy singing 08:07 A level of horny 10:15 Zombie apocalypse 13:44 Accents16:01 - Clubbing 19:02 Romeesh and Rahmesh 20:28 Ashamed 21:33 Charlie’s day out, Lego and Gail’s 23:18 Rom’s parenting 26:02 School parties 32:45 The old memory road Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0af4a79c-26df-11f1-bea8-e79b6a263a6b/image/def974f31bd2cb3761d784131ad56d55.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8989388822.mp3?updated=1774303428",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2250",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "horny",
+        "dream",
+        "apocalypse",
+        "school",
+        "party"
+      ]
+    },
     {
       "key": "2be0a668d4563353d9522c65c4194796a475124e",
       "title": "Toilet emergencies, PhDs and Bon Jovi",
@@ -6358,6 +6381,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-24 — Horny dreams, zombie apocalypses and school parties — speakers: Romesh Ranganathan, Tom Davis
 - 2026-03-20 — Toilet emergencies, PhDs and Bon Jovi — speakers: Bon Jovi, Romesh Ranganathan, Tom Davis
 - 2026-03-17 — The Banter Cannon, the Guff Lounge and the Mullet — speakers: Guff Lounge, Mullet Too, Romesh Ranganathan, Tom Davis
 - 2026-03-13 — Viagra, Phone Voices, Farting Furniture - and other listener dilemmas — speakers: Phone Voices, Farting Furniture, Romesh Ranganathan, Tom Davis

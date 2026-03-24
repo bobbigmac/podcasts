@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-03-23T03:24:00+00:00`
-- checked_at: `2026-03-23T03:24:00+00:00`
-- last_modified: `Mon, 23 Mar 2026 03:00:00 GMT`
+- fetched_at: `2026-03-24T03:13:25+00:00`
+- checked_at: `2026-03-24T03:13:25+00:00`
+- last_modified: `Tue, 24 Mar 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-23T03:24:00+00:00",
+  "fetched_at": "2026-03-24T03:13:25+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,25 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "eb1737006d9ec415ba36cdf2fd18560ce17300f8",
+      "title": "S15 Ep 802: Generically 55 and Christian O’Connell",
+      "published_at": "2026-03-24T03:00:00+00:00",
+      "link": null,
+      "description": "It’s a very busy episode of chatting today and just a few of the subjects covered include - David being the main topic of conversation at Joe’s recent family meal, getting stressed talking about work, Joe’s frustrating encounter with a man who looked very ‘generically 55’, an Alan Titchmarsh gardening book, listening to pods while mowing the lawn, youthful daydreaming and Christian O’Connell living in Melbourne. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠⁠YouTube⁠⁠ ⁠⁠Instagram⁠⁠ ⁠⁠TikTok⁠⁠ ⁠⁠Patreon⁠⁠ ⁠⁠Merch⁠⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7203177866.mp3?updated=1774003228",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3322",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "generically"
+      ]
+    },
     {
       "key": "eec86a705df6c609e27f972aa4b0edba82df72bc",
       "title": "S15 Ep 801 Vault Mondays: Russell Howard's Newspaper Chairs + Beppe Di Marco",
@@ -14064,6 +14083,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-24 — S15 Ep 802: Generically 55 and Christian O’Connell — speakers: Joe Wilkinson, David Earl
 - 2026-03-23 — S15 Ep 801 Vault Mondays: Russell Howard's Newspaper Chairs + Beppe Di Marco — speakers: Vault Mondays, Russell Howard, Di Marco, Joe Wilkinson, David Earl
 - 2026-03-20 — S15 Ep 800 Listener’s Mailbag: More One In A Million! — speakers: Joe Wilkinson, David Earl
 - 2026-03-19 — S15 Ep 799: 14 Vol-Au-Vents and A Grilled Chick Wrap — speakers: Grilled Chick Wrap David, Joe Wilkinson, David Earl
