@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-03-23T07:39:16+00:00`
-- checked_at: `2026-03-23T07:39:16+00:00`
-- etag: `"11b058dbe50ffb891ac02c59a561988c"`
-- last_modified: `Mon, 23 Mar 2026 05:00:05 GMT`
+- fetched_at: `2026-03-24T07:19:23+00:00`
+- checked_at: `2026-03-24T07:19:23+00:00`
+- etag: `"79902c44a74b67ff8f0006d1a533cc34"`
+- last_modified: `Tue, 24 Mar 2026 05:00:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-03-23T07:39:16+00:00",
+  "fetched_at": "2026-03-24T07:19:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -969,20 +969,6 @@
       "topics": [
         "tiernan"
       ]
-    },
-    {
-      "key": "36d02c1d1eeff5ea468647c39a5c7a764cca6ad4",
-      "title": "DMs Are Open",
-      "published_at": "2025-03-24T05:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0kzmz1t",
-      "description": "The secret of the bees, an unusual secret Santa and the secret to a happy marriage all feature in this week’s show, written by the next generation of comedy writers. DMs Are Open is back for a brand new series. Stevie Martin is your host and she’s brought together an incredible cast of comedy legends: Al Roberts, Charlotte Ritchie, Sunil Patel and Emily Lloyd-Saini. Written by the public. This week it was written by: Steve Blair Jo Bunting Caitriona Dowden Aruhan Galieva Ben Pope Vicky Richards Christina Riggs Pete Tellouche Script Edited by Cameron Loxdale and Mike Shephard. Producer: Georgia Keating Assistant Producer: Katie Baum Executive Producer: James Robinson Production Coordinator: Sarah Nicholls Recorded by David Thomas Sound Design by Charlie Brandon-King Recorded at Up The Creek. A BBC Studios Audio Production for Radio 4. An EcoAudio certified production.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kzmqpr.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14080000",
-      "itunes_duration": "880",
-      "speakers": [],
-      "topics": []
     }
   ]
 }
@@ -1040,4 +1026,3 @@
 - 2025-04-14 — Introducing: The Naked Week
 - 2025-04-07 — Call Jonathan Pie — speakers: Jonathan Pie
 - 2025-03-31 — Dan Tiernan: Going Under — speakers: Dan Tiernan
-- 2025-03-24 — DMs Are Open
