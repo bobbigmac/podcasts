@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-23T16:09:49+00:00`
-- checked_at: `2026-03-23T16:09:49+00:00`
-- etag: `"djEuMi4wOjE3NzQyNzQzNTE3MzA="`
+- fetched_at: `2026-03-24T13:51:06+00:00`
+- checked_at: `2026-03-24T13:51:06+00:00`
+- etag: `"djEuMi4wOjE3NzQzNTcyMzk1NzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-23T16:09:49+00:00",
+  "fetched_at": "2026-03-24T13:51:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a9eb457ed2c9dd30856ec0bcab4824f16255ef19",
+      "title": "Donald Trump's plan for Iran is doomed to fail | Daniel Levy interview",
+      "published_at": "2026-03-24T13:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69c2662cfce4b829c56df241",
+      "description": "Daniel Levy is an expert in Israeli geopolitics and the President of the U.S./Middle East Project. He spoke to us about the unfolding situation in Iran and how Benjamin Netanyahu continues to drag an unsuspecting Donald Trump deeper into an unwinnable war. Subscribe to Daniel's Substack: https://substack.com/@daniellevy2 Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69c2662cfce4b829c56df241/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52543069",
+      "itunes_duration": "36:27",
+      "speakers": [
+        "Daniel Levy"
+      ],
+      "topics": [
+        "donald",
+        "trump",
+        "plan",
+        "iran",
+        "daniel",
+        "levy"
+      ]
+    },
     {
       "key": "9d1cb7e1f281e6717e7453ab99d63b3d43df980f",
       "title": "GB News Host writes book FULL of AI slop, says journalist",
@@ -12173,6 +12196,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-24 — Donald Trump's plan for Iran is doomed to fail | Daniel Levy interview — speakers: Daniel Levy
 - 2026-03-23 — GB News Host writes book FULL of AI slop, says journalist — speakers: Matthew Goodwin
 - 2026-03-22 — Labour tried to ruin me for exposing Keir Starmer | Paul Holden interview — speakers: Paul Holden
 - 2026-03-20 — Labour are coming for cowboy bosses scamming workers | Kate Dearden interview — speakers: Kate Dearden
