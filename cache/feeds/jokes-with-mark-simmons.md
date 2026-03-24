@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-03-17T19:20:20+00:00`
-- checked_at: `2026-03-17T19:20:20+00:00`
-- etag: `"djEuMi4wOjE3NzM3NjU0NDQ5NzM="`
+- fetched_at: `2026-03-24T10:09:40+00:00`
+- checked_at: `2026-03-24T10:09:40+00:00`
+- etag: `"djEuMi4wOjE3NzQzNDU1NjM2NTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-03-17T19:20:20+00:00",
+  "fetched_at": "2026-03-24T10:09:40+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "881ec671e8baf1411d8d53b0ff13452daf186a08",
+      "title": "Tour Talk: Worst week of the tour",
+      "published_at": "2026-03-24T09:46:03+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/tour-talk-worst-week-of-the-tour",
+      "description": "Find out what happened in the worst week of the tour! Journey from hell, Mark has to stop his show mid set and Danny saves the day! See Mark on tour here: https://marksimmons.co.uk/live-dates/ See Danny on tour here: https://dannywardcomedy.co.uk/wheres-ward/#the-holiday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/69c25d5bfce4b829c56b1acd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53834198",
+      "itunes_duration": "37:18",
+      "speakers": [
+        "Mark Simmons"
+      ],
+      "topics": [
+        "tour",
+        "talk",
+        "week"
+      ]
+    },
     {
       "key": "f19ee190d393cf7cc92d07bb4d572abd5bdd08bb",
       "title": "Tour Talk: Free Pork Pies",
@@ -7155,6 +7175,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-24 — Tour Talk: Worst week of the tour — speakers: Mark Simmons
 - 2026-03-17 — Tour Talk: Free Pork Pies — speakers: Tour Talk, Free Pork Pies Another, Mark Simmons
 - 2026-03-09 — Tour Talk: King, Queen & Idris Elba — speakers: Idris Elba Danny, Mark Simmons
 - 2026-03-04 — Tour Talk: Mock The Week — speakers: Mark Simmons

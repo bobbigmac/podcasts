@@ -2,9 +2,9 @@
 
 - slug: `wheres-a-will-theres-a-wake`
 - source: `https://feeds.megaphone.fm/wtawtaw`
-- fetched_at: `2026-03-24T07:19:23+00:00`
-- checked_at: `2026-03-24T07:19:23+00:00`
-- last_modified: `Tue, 24 Mar 2026 05:00:00 GMT`
+- fetched_at: `2026-03-24T10:09:40+00:00`
+- checked_at: `2026-03-24T10:09:40+00:00`
+- last_modified: `Tue, 24 Mar 2026 09:49:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/wtawtaw",
   "description": "Join Mel Giedroyc every week as she laughs in the face of death with all your favourite funny celebrities. Working on the assumption they’ve popped their clogs, they’ll be telling Mel all about how they’ve died, what they want for their funerals and why she should be unlocking the pearly gates for them. Want the episodes ad free AND extra content from Mel and her guest? 6 Feet Under steps away from fantasy and rifles through all your dead good emails. Head to wheretheresawilltheresawake.com to subscribe. AND If you've got a story for us, send it over to mel@deathpodcast.co.uk. A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast Learn more about your ad choices. Visit podcastchoices.com/adchoices Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast To bring your brand to life in this podcast, email podcastadsales@sonymusic.com",
   "image_url": "https://megaphone.imgix.net/podcasts/2b690814-56d7-11ed-8ab5-83c1414d4a97/image/c6f317fd3e7d35323d3d1f610fd8466f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-24T07:19:23+00:00",
+  "fetched_at": "2026-03-24T10:09:40+00:00",
   "owners": [
     "Mel Giedroyc"
   ],
@@ -33,10 +33,10 @@
       "link": null,
       "description": "Frozen p**s, loads of gags and a rave up rave up! Former Radio 2 breakfast queen and one half of the Dig It podcast, Zoe Ball joins Mel in podcast purgatory. Want the episodes ad free AND extra content from Mel and the guests, PLUS everything from the Kathy Burke archive? 6 Feet Under gets knee deep in all your cracking correspondence. Head to wheretheresawilltheresawake.com to subscribe. AND If you've got a story for us, send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Check out the Dig It podcast here: linktr.ee/digitpod Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/da65033c-7c67-11f0-bc82-ef5a11aec7f0/image/60e68154177ce5763979386c15e4da53.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY1762367999.mp3?updated=1774282529",
+      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY1762367999.mp3?updated=1774346034",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2662",
+      "itunes_duration": "2602",
       "speakers": [
         "Here Lies Zoe Ball",
         "Former Radio",
