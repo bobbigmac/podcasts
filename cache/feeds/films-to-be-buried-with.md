@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-03-19T21:49:12+00:00`
-- checked_at: `2026-03-19T21:49:12+00:00`
-- last_modified: `Thu, 19 Mar 2026 21:39:35 GMT`
+- fetched_at: `2026-03-24T19:21:36+00:00`
+- checked_at: `2026-03-24T19:21:36+00:00`
+- last_modified: `Tue, 24 Mar 2026 18:54:55 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-19T21:49:12+00:00",
+  "fetched_at": "2026-03-24T19:21:36+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -31,7 +31,7 @@
       "key": "3afd5dd2539a19a75cfe9d08b337bf05550bc152",
       "title": "Elisabeth Moss • (Mad Men / The Handmaid's Tale / The Invisible Man) • #387",
       "published_at": "2026-03-18T08:29:00+00:00",
-      "link": null,
+      "link": "https://www.patreon.com/cw/brettgoldstein",
       "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the true treasure and official friend of the podcast ELISABETH MOSS ! This is a glorious episode featuring one of the brightest shining stars of big and less-big screen (depending on your home cinema dimensions) of the past couple of decades, who handles pure business in front of as well as behind the camera. For some of us the journey began with her portrayal of Peggy Olson on Mad Men which ran for the duration of the show, and maybe for some it began more recently with the intense and chilling The Invisible Man. Without going through each and every role Elisabeth has played, basically at some point you will have encountered her work, which will surely be why you are here listening - and in this bubbly and beautiful episode you'll get to hear all sorts of behind the scenes goodies, present day life moments, and some superb choices. Elisabeth is awesome - and - we are blessed to have her on the Patreon team! For as long as she feels it appropriate to stay, naturally. ENJOY! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! IMDB IMPERFECT WOMEN • out now ⁠ MAD MEN THE HANDMAID'S TALE THE INVISIBLE MAN LEIGH WHANNEL EP (dir. Invisible Man) –––––––––– ⁠⁠ BRETT • X ⁠⁠ ⁠⁠ BRETT • INSTAGRAM ⁠⁠ ⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠ ⁠⁠ TED LASSO ⁠⁠ ⁠⁠ SHRINKING ⁠⁠ ⁠⁠ ALL OF YOU ⁠⁠ ⁠⁠ SOULMATES ⁠⁠ ⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5502de4e-221b-11f1-9d85-ab83f9fe3ea6/image/09ba3467fd8151e0a61e626e23cceccf.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1172084762.mp3?updated=1773764950",

@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-03-22T13:14:14+00:00`
-- checked_at: `2026-03-22T13:14:14+00:00`
-- etag: `"djEuMi4wOjE3NzQxODE1NjkxMzM="`
+- fetched_at: `2026-03-24T19:21:36+00:00`
+- checked_at: `2026-03-24T19:21:36+00:00`
+- etag: `"djEuMi4wOjE3NzQzNzg2NjU1NjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-03-22T13:14:14+00:00",
+  "fetched_at": "2026-03-24T19:21:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -30,7 +30,7 @@
       "title": "Jane McDonald",
       "published_at": "2026-03-18T01:00:00+00:00",
       "link": "https://shows.acast.com/tablemanners/episodes/jane-mcdonald",
-      "description": "This week, we have the legendary singer and cruise extraordinaire, Jane McDonald! Jane arrived with a gorgeous bunch of flowers in hand and mum & I instantly fell in love with her. We talked about everything from her life on the cruise ships (and the secret crew parties), performing everywhere from Blackpool to Vegas, learning to dance with her dad, growing up in a police lodging house, her tips for the perfect gravy and we discover that she is also her own manager - there’s no end to her skills! Jane is welcome to join us for lunch anytime, maybe even on the high seas next time! Jane's brand new album ' Living The Dream' and tickets to her tour are available now. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "This week, we have the legendary singer and cruise extraordinaire, Jane McDonald! Jane arrived with a gorgeous bunch of flowers in hand and mum & I instantly fell in love with her. We talked about everything from her life on the cruise ships (and the secret crew parties), performing everywhere from Blackpool to Vegas, learning to dance with her dad, growing up in a police lodging house, her tips for the perfect gravy and we discover that she is also her own manager - there’s no end to her skills! Jane is welcome to join us for lunch anytime, maybe even on the high seas next time! Jane's brand new album ' Living The Dream' and tickets to her tour are available now. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1773758379089-8697fc58-1dcd-472a-89ff-da1bf001016b.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69b9388fa28dd9d562ea1211/media.mp3",
       "enclosure_type": "audio/mpeg",

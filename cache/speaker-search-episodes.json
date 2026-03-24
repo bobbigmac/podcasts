@@ -17059,6 +17059,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:ff10e364941c",
+        "feed_title": "The Louis Theroux Podcast",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT1948741183",
+        "dedupe_key": "82b69e9af71b054308dbd76271dc7d4a94e20bc2",
+        "episode_key": "82b69e9af71b054308dbd76271dc7d4a94e20bc2",
+        "title": "Stewart Lee on \"Netflix comedians”, disastrous gigs, and Elon Musk",
+        "published_at": "2026-03-24T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode, Louis speaks to comedian, writer and 41st best stand-up ever, Stewart Lee. Stewart tells Louis about taking aim at “Netflix comedians” in his new show, Stewart Lee vs. The Man-Wulf, what went wrong at a disastrous gig at the Royal Albert Hall, and what Elon Musk doesn't understand about comedy.\n\n\n\nWarn",
+        "audio_url": "https://traffic.megaphone.fm/GLT7834114936.mp3?updated=1774361382",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee-on-netflix-comedians-disastrous-gigs-and/id1725833532?i=1000756884579&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:0ca1d54dc195",
         "feed_title": "White Wine Question Time",
         "source_rss_url": "https://feeds.acast.com/public/shows/acaaaf98-69c1-4a94-b843-5ea7e3892f66",

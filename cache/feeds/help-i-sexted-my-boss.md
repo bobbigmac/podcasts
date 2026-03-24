@@ -2,12 +2,10 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-03-24T07:19:23+00:00`
-- checked_at: `2026-03-24T16:17:58+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpRek16RTVOems1T0RnPTo6c2F4ZXNz"`
+- fetched_at: `2026-03-24T19:21:36+00:00`
+- checked_at: `2026-03-24T19:21:36+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpRek56RXdORGt3TXpNPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: `HTTP 502` — Bad Gateway
 
 <!-- FEED_JSON -->
 ```json
@@ -19,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-03-24T07:19:23+00:00",
+  "fetched_at": "2026-03-24T19:21:36+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -13961,17 +13959,7 @@
         "preview"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-03-24T16:17:58+00:00",
-    "status": "error",
-    "checked_at": "2026-03-24T16:17:58+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 502,
-      "message": "Bad Gateway"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->

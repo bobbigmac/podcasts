@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-03-10T21:41:58+00:00`
-- checked_at: `2026-03-10T21:41:58+00:00`
-- etag: `W/"1499db6f4d8cf4c322b75556e3db70c8"`
-- last_modified: `Tue, 10 Mar 2026 20:25:05 GMT`
+- fetched_at: `2026-03-24T19:21:36+00:00`
+- checked_at: `2026-03-24T19:21:36+00:00`
+- etag: `W/"fcc11213a69ee6a465f38f1c8d7dad68"`
+- last_modified: `Tue, 24 Mar 2026 17:10:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-03-10T21:41:58+00:00",
+  "fetched_at": "2026-03-24T19:21:36+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -30,13 +30,35 @@
   ],
   "episodes": [
     {
+      "key": "1d0b9a7754480c9293fc70b043e0bcdc3c118d23",
+      "title": "170: Mad King Donald",
+      "published_at": "2026-03-24T17:08:09+00:00",
+      "link": "https://audioboom.com/posts/8878233",
+      "description": "Ian, Helen, Andy and special guest Richard Brooks discuss the USA entering its 'insane absolute monarch' era, the ongoing mayhem in the world's oil and gas markets, and check in on the financial arrangements of 'Little Donald', AKA Nigel Farage, and his Reform UK colleagues.",
+      "image_url": "https://audioboom.com/i/43547138/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8878233.mp3?modified=1774372265&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2529",
+      "speakers": [
+        "Donald Ian",
+        "Richard Brooks",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "king",
+        "donald"
+      ]
+    },
+    {
       "key": "520faa817aaf7fd9c51137a412fed49e970829a7",
       "title": "169: War On Iran: Aya-Tollad You So",
       "published_at": "2026-03-10T16:30:00+00:00",
       "link": "https://audioboom.com/posts/8872081",
       "description": "Why did Trump declare his latest perfect, ‘very complete', already-won war, and how long will it go on? What will it do to American and British politics? Why can’t anyone in the British press remember the lessons of last time? What will this do to energy prices and the energy transition? And is this all a deliberate distraction from the Gorton and Denton by-election? Ian, Helen, Adam and Andy discuss the latest quiet week in world politics.",
       "image_url": "https://audioboom.com/i/43523476/s=1400x1400/el=1/rt=fill.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8872081.mp3?modified=1773158533&sid=5112392&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8872081.mp3?modified=1773174616&sid=5112392&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3018",
@@ -161,7 +183,7 @@
       "link": "https://audioboom.com/posts/8819261",
       "description": "It's the Eye Quiz of the last year! Adam, Helen and Andy get out the sleigh bells and the silly hats, and quiz each other on all the biggest, smallest and stupidest news stories of 2025.",
       "image_url": "https://audioboom.com/i/43304925.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8819261.mp3?modified=1765821541&sid=5112392&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8819261.mp3?modified=1767716092&sid=5112392&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2155",
@@ -3612,6 +3634,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-24 — 170: Mad King Donald — speakers: Donald Ian, Richard Brooks, Andrew Hunter Murray, Ian Hislop
 - 2026-03-10 — 169: War On Iran: Aya-Tollad You So — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-02-24 — 168: A Tale Of Two Andrews — speakers: Rachael Claye, Andrew one, Andrew Hunter Murray, Ian Hislop
 - 2026-02-17 — 167: Cash Harry — speakers: Adam Macqueen, Ian Hislop, Helen Lewis, Andrew Hunter Murray

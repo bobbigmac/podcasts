@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-24T16:17:58+00:00`
-- checked_at: `2026-03-24T16:17:58+00:00`
-- etag: `"djEuMi4wOjE3NzQzNjY3MTcwMTQ="`
+- fetched_at: `2026-03-24T19:21:36+00:00`
+- checked_at: `2026-03-24T19:21:36+00:00`
+- etag: `"djEuMi4wOjE3NzQzNzE2Mzk1NDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-24T16:17:58+00:00",
+  "fetched_at": "2026-03-24T19:21:36+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "fbeb7ec7cbd0abe0d530bba612a01d287b1013bf",
+      "title": "Does Trump regret the war in Iran?",
+      "published_at": "2026-03-24T17:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/does-trump-regret-the-war-in-iran",
+      "description": "Donald Trump is grappling with the consequences of staging a military intervention in Iran without a clear plan. Modern conflicts are often driven less by coherent national interest than by the instincts and ambitions of powerful leaders. From the Strait of Hormuz, to Russia’s invasion of Ukraine, to the tension between China and Taiwan - miscalculation, overconfidence, and the enduring unpredictability of war are reshaping global power. Katie Stallard is joined by Philips O’Brien, American historian and professor of strategic studies at the University of St Andrews. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1774366591810-4ffd52fd-5f70-4d00-9a13-7eb7761db8af.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69c2affc7878605e11e87aa7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50790109",
+      "itunes_duration": "26:24",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "trump",
+        "iran"
+      ]
+    },
     {
       "key": "d86ddabb5965b627e64777a778ae8dcd25aff1bf",
       "title": "How Covid fear shaped the meningitis response",
@@ -30721,6 +30741,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-24 — Does Trump regret the war in Iran? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-23 — How Covid fear shaped the meningitis response — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-21 — "Build the tunnel right through stonehenge" | Anoosh & Will's weekly round-up — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-20 — Is Angela Rayner making her move? — speakers: Angela Rayner, Anoosh Chakelian, Oli Dugmore
