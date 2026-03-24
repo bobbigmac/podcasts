@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-24T19:21:36+00:00`
-- checked_at: `2026-03-24T19:21:36+00:00`
-- etag: `W/"24613-BRUoYKxKlOhDLdd3HQaYjvqnANY"`
+- fetched_at: `2026-03-24T21:52:40+00:00`
+- checked_at: `2026-03-24T21:52:40+00:00`
+- etag: `W/"2419a-w3HR6T9lI4FchQYNWaLLutJpPdk"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,34 +17,13 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-24T19:21:36+00:00",
+  "fetched_at": "2026-03-24T21:52:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "39788c0608080c6bf9e15eb467e7164696093ab7",
-      "title": "#38 Jon Richardson Podcast with Jeff Norsen",
-      "published_at": "2026-03-24T18:47:17+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/38-Jon-Richardson-Podcast-with-Jeff-Norsen-e3gtt1b",
-      "description": "#38 Jon Richardson Podcast with Jeff Norsen",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1774377779411-65e4f1c80d606.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117420523/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-24%2Fd80707c8-bcbe-8060-a18a-85f872363f46.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "20320037",
-      "itunes_duration": "00:42:10",
-      "speakers": [
-        "Jeff Norsen"
-      ],
-      "topics": [
-        "richardson",
-        "podcast",
-        "jeff",
-        "norsen"
-      ]
-    },
     {
       "key": "8d03c55fd2b61f6839ad8f443d033c6f3da4a48b",
       "title": "#38 Jon Richardson Podcast with John Gordillo",
@@ -2585,7 +2564,6 @@
 
 ## Episodes (newest first)
 
-- 2026-03-24 — #38 Jon Richardson Podcast with Jeff Norsen — speakers: Jeff Norsen
 - 2026-03-23 — #38 Jon Richardson Podcast with John Gordillo — speakers: John Gordillo
 - 2026-03-22 — #37 Jon Richardson Podcast with Maff Brown — speakers: Maff Brown
 - 2026-03-19 — #36 Jon Richardson Podcast with Carl Donnelly — speakers: Carl Donnelly
