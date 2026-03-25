@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-23T16:09:49+00:00`
-- checked_at: `2026-03-23T16:09:49+00:00`
-- etag: `"djEuMi4wOjE3NzQyNjE0NDIxNzU="`
+- fetched_at: `2026-03-25T07:18:04+00:00`
+- checked_at: `2026-03-25T07:18:04+00:00`
+- etag: `"djEuMi4wOjE3NzQ0MTEwNTkzODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-23T16:09:49+00:00",
+  "fetched_at": "2026-03-25T07:18:04+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cb6c1e1ff468b96ab1c1e910d055a99be049b93f",
+      "title": "RHLSTP 604 - Bilal Zafar",
+      "published_at": "2026-03-25T03:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #604 - Elephant Trunk - It’s another studio RHLSTP with Richard’s occasional collaborator Bilal Zafar. They talk about the amazing viral Instagram clip of one of their sketches, why Bilal wanted Ally Sloper to play his dad, whether we should be surprised by life, but not death, meeting Labour politicians on the tube, how can Bilal get on the telly, his return to Edinburgh and Rich’s plan to never leave his venue, some new emergency questions and a nice chill vibe as the boys use up their full hour as best they can. Listen to Bilal’s podcast Got A Problem Mate? here (or wherever you get your podcasts) - https://open.spotify.com/show/1jjEaZiF1lcGJtVUjSwRcG Watch Meeting Dad here - https://www.youtube.com/watch?v=KVmcddcVnvs SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1774113864578-cfeb805c-4bd8-44ce-9531-41ed2e5a72dd.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69becfd21861d127d518104f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31421297",
+      "itunes_duration": "59:16",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "bilal",
+        "zafar"
+      ]
+    },
     {
       "key": "7f4658f47c1baee449a936f07453bef232e1756b",
       "title": "Retro RHLSTP 138 - Eshaan Akbar",
@@ -21868,6 +21887,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — RHLSTP 604 - Bilal Zafar — speakers: Richard Herring
 - 2026-03-23 — Retro RHLSTP 138 - Eshaan Akbar — speakers: Richard Herring
 - 2026-03-21 — RAACN week 8 — speakers: Richard Herring
 - 2026-03-20 — RHLSTP Book Club 174 - Zakia Sewell — speakers: Book Club, Zakia Sewell, Finding Albion, Richard Herring

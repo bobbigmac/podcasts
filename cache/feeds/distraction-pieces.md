@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-03-25T03:18:39+00:00`
-- checked_at: `2026-03-25T03:18:39+00:00`
-- etag: `"djEuMi4wOjE3NzQzOTM3MDAzNjM="`
+- fetched_at: `2026-03-25T07:18:04+00:00`
+- checked_at: `2026-03-25T07:18:04+00:00`
+- etag: `"djEuMi4wOjE3NzQ0MTEzMDAxMTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-03-25T03:18:39+00:00",
+  "fetched_at": "2026-03-25T07:18:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0fb2a56d88dab6dd1e0d25dcb54d4e435ea8b5cd",
+      "title": "ANSON BOON • 'The Good Boy' in cinemas now! (MobLand / Pistol / 1917) #664",
+      "published_at": "2026-03-25T04:01:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the force of acting posititivity (and good boy) that is ANSON BOON ! As stated in the episode title, 'The Good Boy' (aka 'Heel' in the US) is out and about now, in which Anson plays alongside the powerful duo of Stephen Graham and Andrea Riseborough. Anson is capable of playing characters who aren't necessarily immediately charming, let's say, and some that might require a little work to warm to, but always make for some truly captivating and interesting, memorable performances which inspire conversation, debate and thought. So it goes without saying that this chat is an awesome one as Pip finds out where these choices originate, and traces the source of Anson's acting path. Of course there are so many facets and angles covered too, including basically becoming a fully functioning Sex Pistols tribute band by way of 'Pistol' (in which he was coached by Underworld!), his love of a film set, being a nepo gangster, the School of Kate Winslett, acting alongside Tom Hardy, Helen Mirren, Paddy Considine, Pierce Brosnan and so many more, and just a huge amount of fascinating goodies from his time in front of and nearby the camera. Inspiring and lovely stuff, enjoy! PIP'S PATREON PAGE if you're of a supporting nature IMDB INSTAGRAM THE GOOD BOY MOBLAND PISTOL PIP AT PRINCE CHARLES CINEMA • 9th April! SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1774392722279-90693870-76e9-4217-9261-620c071cedd5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69c31964fce4b829c5a4e6b7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "153787947",
+      "itunes_duration": "1:04:01",
+      "speakers": [],
+      "topics": [
+        "boon",
+        "cinema",
+        "mobland",
+        "pistol"
+      ]
+    },
     {
       "key": "f482c347108700cc40af393ed34cfed0ad58ef99",
       "title": "SHAGGY (It Wasn't Me / Boombastic / Oh! Carolina) • Friday Rewind",
@@ -18449,6 +18468,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — ANSON BOON • 'The Good Boy' in cinemas now! (MobLand / Pistol / 1917) #664
 - 2026-03-20 — SHAGGY (It Wasn't Me / Boombastic / Oh! Carolina) • Friday Rewind
 - 2026-03-18 — FATIHA EL-GHORRI • 'Cockney Stacking Doll' tour happening now near you! #663
 - 2026-03-13 — SIMON PEGG from 2014 (Mission Impossible series / Star Trek / Hot Fuzz) • Friday Rewind

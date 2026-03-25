@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-03-24T13:51:06+00:00`
-- checked_at: `2026-03-24T13:51:06+00:00`
-- etag: `"djEuMi4wOjE3NzQzNTQ0MTk5NzQ="`
+- fetched_at: `2026-03-25T07:18:04+00:00`
+- checked_at: `2026-03-25T07:18:04+00:00`
+- etag: `"djEuMi4wOjE3NzQ0MTEyNDAzNjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-03-24T13:51:06+00:00",
+  "fetched_at": "2026-03-25T07:18:04+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c70d2a4a184ce7d5e2dfcaf9666c735679228a5f",
+      "title": "Ixta Belfrage",
+      "published_at": "2026-03-25T04:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/ixta-belfrage",
+      "description": "Award-winning cook and food writer Ixta Belfrage – author of ‘Mezcla’ and new book ‘FUSÃO’ – is this week’s Dream Restaurant guest. Did someone mention Prawn Lasagne? Ixta Belfrage’s new book ‘FUSÃO’ is out now - buy it here . Her previous book ‘Mezcla’ is available here . Follow Ixta on Instagram @ixta.belfrage Watch the video version of this episode on the Off Menu YouTube on Thu 26 Mar. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1774281521468-f66a4126-fea4-4768-8c1c-d1adcca1fa43.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69c16cf0d832f1da93c19359/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95840416",
+      "itunes_duration": "1:19:51",
+      "speakers": [
+        "Ixta Belfrage Award",
+        "Ixta Belfrage",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "ixta",
+        "belfrage"
+      ]
+    },
     {
       "key": "0ea065955fe88604a04dec559cea126b5c1809b0",
       "title": "Kojey Radical",
@@ -8307,6 +8330,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — Ixta Belfrage — speakers: Ixta Belfrage Award, Ixta Belfrage, Ed Gamble, James Acaster, Ben Williams
 - 2026-03-18 — Kojey Radical — speakers: Kojey Radical Brit, Kojey Radical, Ed Gamble, James Acaster, Ben Williams
 - 2026-03-11 — Ahir Shah — speakers: Ahir Shah, Edinburgh Comedy Award-winning, Ed Gamble, James Acaster, Ben Williams
 - 2026-03-04 — Amy Matthews — speakers: Amy Matthews Superb, Amy Matthews, Ed Gamble, James Acaster, Ben Williams

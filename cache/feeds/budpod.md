@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-03-24T13:51:06+00:00`
-- checked_at: `2026-03-24T13:51:06+00:00`
-- etag: `"djEuMi4wOjE3NzQzNTg0MDAxNDM="`
+- fetched_at: `2026-03-25T07:18:04+00:00`
+- checked_at: `2026-03-25T07:18:04+00:00`
+- etag: `"djEuMi4wOjE3NzQ0MTg0OTkzMDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-03-24T13:51:06+00:00",
+  "fetched_at": "2026-03-25T07:18:04+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5a8af8ad8976d062f90809ec18736574d4c26f34",
+      "title": "S2E41 | Inspector Surprise",
+      "published_at": "2026-03-25T06:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e41",
+      "description": "Youtube Version here! This week the buds discuss nu metal karaoke, Salad Fingers, Glenn’s earliest 'pheromone' moment and Pierre's new type of stand up. Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Pierre is on tour across the UK, Ireland and Netherlands! Including a headline show at the Leicester Square Theatre on May 28th! Tickets available now at https://www.pierrenovellie.com/ Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/69c27d997878605e11d76632/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68685813",
+      "itunes_duration": "47:32",
+      "speakers": [
+        "Youtube Version",
+        "Salad Fingers",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "inspector",
+        "surprise"
+      ]
+    },
     {
       "key": "81a7b7d038ba54006fd974156fc08ef245cb2d60",
       "title": "S2E40 | Ol' Captain Flesh Eyes",
@@ -7554,6 +7576,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — S2E41 | Inspector Surprise — speakers: Youtube Version, Salad Fingers, Phil Wang, Pierre Novellie
 - 2026-03-18 — S2E40 | Ol' Captain Flesh Eyes — speakers: Phil Wang, Pierre Novellie
 - 2026-03-11 — S2E39 | Camp Bigfoot — speakers: RL Stine, Phil Wang, Pierre Novellie
 - 2026-03-04 — S2E38 | Bovril Lavigne — speakers: Bovril Lavigne, Phil Wang, Pierre Novellie
