@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-03-20T09:58:03+00:00`
-- checked_at: `2026-03-20T09:58:03+00:00`
-- etag: `"djEuMi4wOjE3NzM5OTY4ODMzMDE="`
+- fetched_at: `2026-03-25T13:49:59+00:00`
+- checked_at: `2026-03-25T13:49:59+00:00`
+- etag: `"djEuMi4wOjE3NzQ0NDYxNzAwMjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-03-20T09:58:03+00:00",
+  "fetched_at": "2026-03-25T13:49:59+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -95,8 +95,8 @@
       "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1763410971016-cdc83462-a912-41ad-bcd2-786017a93c6b.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/691b9fea7cf1b7ec4587c7ce/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "135306414",
-      "itunes_duration": "56:22",
+      "enclosure_length": "134686862",
+      "itunes_duration": "56:07",
       "speakers": [
         "Lucy Walker",
         "Adam Buxton"
