@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-03-22T21:40:31+00:00`
-- checked_at: `2026-03-22T21:40:31+00:00`
-- last_modified: `Sun, 22 Mar 2026 19:11:54 GMT`
+- fetched_at: `2026-03-25T03:18:39+00:00`
+- checked_at: `2026-03-25T03:18:39+00:00`
+- last_modified: `Wed, 25 Mar 2026 00:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/e3305fc974dac38dee8f3d8103df6e67.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-22T21:40:31+00:00",
+  "fetched_at": "2026-03-25T03:18:39+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d5925a2d6eb7d7dc692ba46b4a539b520142539b",
+      "title": "WDWDY #64: It's 6am in Texas",
+      "published_at": "2026-03-25T00:30:00+00:00",
+      "link": null,
+      "description": "On this mid-week bonus ep we find out what Max did with his yesterday... Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5de2e2e0-230e-11f1-aeee-5b77689a1694/image/66dd0e1c0c3ae1c9c14e2654bb78ebeb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2009896321.mp3?updated=1773870879",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2897",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "texas"
+      ]
+    },
     {
       "key": "4eb8eafc3a968dfe5b511a2f7564057e8e4307b3",
       "title": "S4 EP12: Bilal Zafar",
@@ -3074,6 +3093,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — WDWDY #64: It's 6am in Texas — speakers: Max Rushden, David O'Doherty
 - 2026-03-22 — S4 EP12: Bilal Zafar — speakers: Max Rushden, David O'Doherty
 - 2026-03-18 — WDWDY #63: Faulty Bike Seats — speakers: Max Rushden, David O'Doherty
 - 2026-03-15 — S4 EP11: Tom Cashman — speakers: Tom Cashman, Max Rushden, David O'Doherty

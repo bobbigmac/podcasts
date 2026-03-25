@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-03-24T03:13:25+00:00`
-- checked_at: `2026-03-24T03:13:25+00:00`
-- last_modified: `Tue, 24 Mar 2026 03:00:00 GMT`
+- fetched_at: `2026-03-25T03:18:39+00:00`
+- checked_at: `2026-03-25T03:18:39+00:00`
+- last_modified: `Wed, 25 Mar 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-24T03:13:25+00:00",
+  "fetched_at": "2026-03-25T03:18:39+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "cbda3de54048f5faa1e1c1fc54d1404ad3aa88c0",
+      "title": "S14 Ep 803: The Crawley Industrial Estate Tour",
+      "published_at": "2026-03-25T03:00:00+00:00",
+      "link": null,
+      "description": "David’s staying near Crawley for a few days, so he’s taking the opportunity to visit the industrial estate where he had quite a few jobs in his 20s and early 30s. It’s the perfect occasion for an ‘on-location’ episode, so he’s called Joe on Zoom to join him for the adventure. So get ready for a lovely little trip down memory lane - featuring none other than the A-Plant offices and a number of other important locations from Chatabix folklore. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠⁠YouTube⁠⁠ ⁠⁠Instagram⁠⁠ ⁠⁠TikTok⁠⁠ ⁠⁠Patreon⁠⁠ ⁠⁠Merch⁠⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3814511737.mp3?updated=1773994726",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3783",
+      "speakers": [
+        "Tour David",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "crawley",
+        "industrial",
+        "estate",
+        "tour"
+      ]
+    },
     {
       "key": "eb1737006d9ec415ba36cdf2fd18560ce17300f8",
       "title": "S15 Ep 802: Generically 55 and Christian O’Connell",
@@ -14083,6 +14106,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — S14 Ep 803: The Crawley Industrial Estate Tour — speakers: Tour David, Joe Wilkinson, David Earl
 - 2026-03-24 — S15 Ep 802: Generically 55 and Christian O’Connell — speakers: Joe Wilkinson, David Earl
 - 2026-03-23 — S15 Ep 801 Vault Mondays: Russell Howard's Newspaper Chairs + Beppe Di Marco — speakers: Vault Mondays, Russell Howard, Di Marco, Joe Wilkinson, David Earl
 - 2026-03-20 — S15 Ep 800 Listener’s Mailbag: More One In A Million! — speakers: Joe Wilkinson, David Earl

@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-03-21T13:12:22+00:00`
-- checked_at: `2026-03-21T13:12:22+00:00`
-- last_modified: `Sat, 21 Mar 2026 10:41:27 GMT`
+- fetched_at: `2026-03-25T03:18:39+00:00`
+- checked_at: `2026-03-25T03:18:39+00:00`
+- last_modified: `Wed, 25 Mar 2026 02:08:37 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Join our Patreon for two shows a week, ad-free listening, early access and much more... Follow this link and get involved! - patreon.com/RussellHoward Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/f49076c57d0c5aac5d76c06956cf8e29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-21T13:12:22+00:00",
+  "fetched_at": "2026-03-25T03:18:39+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "b0856013207e0c17ea25808991ebcf7089a6e53c",
+      "title": "Andrew Mensah",
+      "published_at": "2026-03-25T02:00:00+00:00",
+      "link": null,
+      "description": "Comedian Andrew Mensah joins us with tales of playing Padel with Wayne Rooney, the economics of Air Force One Trainers and why there’s nothing better than sitting down for a game of Articulate. There’s also a fascinating insight into the way British society interfaces with its cultural landscape; Andrew’s account of how he managed to move from the gang culture of his childhood to become well-loved fixture on the comedy circuit is the kind of thing you don’t hear often. Andrew is always gigging around the UK. You can keep up to date with everything at https://andrewmensahcomedy.com Andrew hosts his hugely popular weekly comedy podcast ‘We Saw That’ alongside Gbemi Oladipo. They record live shows at the Top Secret Comedy Club in London then that becomes the podcast. You can listen/watch for free, or get tickets to see the live recordings by following this link . 🎟️ YOU WANT MORE LIVE COMEDY? Russell’s brand new tour show ‘Don’t Tell The Algorithm’ is well underway with rave reviews: Don’t miss this fantastic show of all brand-new material. Find out more at https://www.russell-howard.co.uk 🎟️ It’s the end of this week’s show so please get out there and enjoy the sunshine. You may be out there already, in which case get your eyes off this phone and look up - but not directly at the sun, obviously - and have a marvellous day. Byeeeeeee. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/42401ec2-2507-11f1-93af-3b05eff9e33b/image/9a229ba00ff8c05557bcfee8f030f2a8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6087688661.mp3?updated=1774086608",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3843",
+      "speakers": [
+        "Andrew Mensah",
+        "Comedian Andrew Mensah",
+        "Wayne Rooney",
+        "Russell Howard"
+      ],
+      "topics": [
+        "andrew",
+        "mensah"
+      ]
+    },
     {
       "key": "5c703945ce2646693bdad4875894f488a072c356",
       "title": "Ben Shephard",
@@ -1790,25 +1812,6 @@
       ]
     },
     {
-      "key": "bdf94e419295abe12a6c2fca8b1558f63065bc67",
-      "title": "Linford Christie",
-      "published_at": "2024-09-23T13:50:00+00:00",
-      "link": "https://russellhowardswonderbox.podbean.com/e/50-linford-christie/",
-      "description": "Did Linford Christie take part in the Dad’s race at his kids’s school sports day? Russell and Linford discuss what it’s like to be bloody quick, what it’s like to win an Olympic gold medal, and why Linford used to growl like a tiger at his competitors on the starting blocks. It’s a really interesting and intimate chat with a British legend, seeing a side to him that we rarely get to see. It’s really worth watching the documentary all about Linford’s career and life. It’s called simply ‘Linford’, which is on BBC iPlayer, or if you’re abroad it’s on iPlayer with a VPN (wink wink). It really tells the story well, with fascinating insights and at times it gets pretty emotional. You don’t need me to give you a link to iPlayer. If you can’t find that with a search engine then you deserve to have your internet taken away from you. Russell is back out on the road doing all sorts of bits and bobs, with Canada coming up, also Sweden, Norway…check out his movements at Russell-howard.co.uk That’s all for this week. I’m off for a quick 13 minute nap. That’s the golden number apparently for efficient napping. I’ll let you know how it goes. Goodbye for now, old friend. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3535104455.mp3?updated=1727099745",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3762",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "linford",
-        "christie"
-      ]
-    },
-    {
       "key": "2cafbd446e2182c416b71e38b3d857f96687ea57",
       "title": "David O'Doherty LIVE from the Edinburgh Festival",
       "published_at": "2024-09-23T13:50:00+00:00",
@@ -1827,6 +1830,25 @@
         "david",
         "edinburgh",
         "festival"
+      ]
+    },
+    {
+      "key": "bdf94e419295abe12a6c2fca8b1558f63065bc67",
+      "title": "Linford Christie",
+      "published_at": "2024-09-23T13:50:00+00:00",
+      "link": "https://russellhowardswonderbox.podbean.com/e/50-linford-christie/",
+      "description": "Did Linford Christie take part in the Dad’s race at his kids’s school sports day? Russell and Linford discuss what it’s like to be bloody quick, what it’s like to win an Olympic gold medal, and why Linford used to growl like a tiger at his competitors on the starting blocks. It’s a really interesting and intimate chat with a British legend, seeing a side to him that we rarely get to see. It’s really worth watching the documentary all about Linford’s career and life. It’s called simply ‘Linford’, which is on BBC iPlayer, or if you’re abroad it’s on iPlayer with a VPN (wink wink). It really tells the story well, with fascinating insights and at times it gets pretty emotional. You don’t need me to give you a link to iPlayer. If you can’t find that with a search engine then you deserve to have your internet taken away from you. Russell is back out on the road doing all sorts of bits and bobs, with Canada coming up, also Sweden, Norway…check out his movements at Russell-howard.co.uk That’s all for this week. I’m off for a quick 13 minute nap. That’s the golden number apparently for efficient napping. I’ll let you know how it goes. Goodbye for now, old friend. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3535104455.mp3?updated=1727099745",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3762",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "linford",
+        "christie"
       ]
     },
     {
@@ -2812,6 +2834,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — Andrew Mensah — speakers: Andrew Mensah, Comedian Andrew Mensah, Wayne Rooney, Russell Howard
 - 2026-03-18 — Ben Shephard — speakers: Ben Shephard, Russell Howard
 - 2026-03-11 — Pierre Novellie — speakers: Pierre Novellie Pierre, Russell Howard
 - 2026-03-07 — February's Moments of the Month — speakers: Russell Howard
@@ -2900,8 +2923,8 @@
 - 2024-10-09 — Stephen Merchant — speakers: Stephen Merchant, Russell Howard
 - 2024-10-02 — Ashley Roberts — speakers: Ashley Roberts, Russell Howard
 - 2024-09-25 — Adam Hills — speakers: Adam Hills, Russell Howard
-- 2024-09-23 — Linford Christie — speakers: Russell Howard
 - 2024-09-23 — David O'Doherty LIVE from the Edinburgh Festival — speakers: David O'Doherty, Russell Howard
+- 2024-09-23 — Linford Christie — speakers: Russell Howard
 - 2024-08-28 — 48. Matt Forde — speakers: Matt Forde, Russell Howard
 - 2024-08-21 — 47. Jason Byrne LIVE from the Edinburgh Festival — speakers: Russell Howard
 - 2024-08-14 — 46. Larry Dean LIVE from the Fringe — speakers: Larry Dean, Russell Howard

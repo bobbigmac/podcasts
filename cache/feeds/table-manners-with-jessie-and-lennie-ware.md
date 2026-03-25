@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-03-24T19:21:36+00:00`
-- checked_at: `2026-03-24T19:21:36+00:00`
-- etag: `"djEuMi4wOjE3NzQzNzg2NjU1NjU="`
+- fetched_at: `2026-03-25T03:18:39+00:00`
+- checked_at: `2026-03-25T03:18:39+00:00`
+- etag: `"djEuMi4wOjE3NzQ0MDA0Mzk0ODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-03-24T19:21:36+00:00",
+  "fetched_at": "2026-03-25T03:18:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "40da86cb82f0d2ba2b4bba43412d4d01f56d1750",
+      "title": "Chaka Khan",
+      "published_at": "2026-03-25T01:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/chaka-khan",
+      "description": "We’re still pinching ourselves that we had the absolutely legendary Chaka Khan join us this week! Chaka arrived fresh in from visiting a local school, and she brought her gorgeous sister Tammy & daughter Dana along with her too. Over mum’s delicious afternoon tea we talked all about the phenomenal career Chaka has had, including her upcoming album and brand new musical ‘I’m Every Woman’ launching in the UK. We heard about her skincare routine (our fave topic!), living in Georgia with her family, her dislike of touring, how she became Sia’s godmother, the food served at Nelson Mandela’s birthday party, her love of the TV show 'The Chase’, plus she shares all the stories of hanging out with (wait for it) - Prince, Stevie Wonder, Whitney Houston, Tina Turner & Michael Jackson - no biggy! We barely scratched the surface with this legend, this episode absolutely needs a part 2! Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1774378495389-d334abc4-e20b-4459-b4c5-b3661e6cff16.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69bfdcc13bbfcfe8db00697f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49157850",
+      "itunes_duration": "51:12",
+      "speakers": [
+        "Chaka Khan"
+      ],
+      "topics": [
+        "chaka",
+        "khan"
+      ]
+    },
     {
       "key": "582d1ba5fcba1361c7dd10cea9823fadf0e4f66e",
       "title": "Jane McDonald",
@@ -6966,6 +6985,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — Chaka Khan — speakers: Chaka Khan
 - 2026-03-18 — Jane McDonald — speakers: Jane McDonald
 - 2026-03-11 — Kurt and Wyatt Russell — speakers: Wyatt Russell, Kurt Russell
 - 2026-03-04 — Hilary Duff — speakers: Hilary Duff

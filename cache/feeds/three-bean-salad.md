@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-03-18T03:20:29+00:00`
-- checked_at: `2026-03-18T03:20:29+00:00`
-- etag: `"9a3dc-64d422f5ef1a7"`
-- last_modified: `Wed, 18 Mar 2026 01:15:18 GMT`
+- fetched_at: `2026-03-25T03:18:39+00:00`
+- checked_at: `2026-03-25T03:18:39+00:00`
+- etag: `"9b2a9-64dcf35f1db60"`
+- last_modified: `Wed, 25 Mar 2026 01:30:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-03-18T03:20:29+00:00",
+  "fetched_at": "2026-03-25T03:18:39+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8cc40c2e39a8d42ca924249f0112e6cb6d4882bd",
+      "title": "Moving House",
+      "published_at": "2026-03-25T01:30:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/moving-house",
+      "description": "What truly separates mankind from other species is our irrepressible urge to shove things that are far bigger than the aperture of our dwellings into our dwellings. Some members of mankind will, at points in their lives, increase the size of their dwellings or move to bigger dwellings, but it is implicitly understood that the aperture into this dwelling must remain the same size so that oversized objects can still be acquired and shoved through it, thus sating mankind’s purest impulse. Perhaps Roy of Spalding is, as we speak, proudly and sweatily draped across a big thing he has freshly shoved into his own dwelling. Perhaps he is lodged between his front door frame and the arm rest of a sumptuous leather sofa. Either way what is on his mind is moving house and that is this week’s (perpetually relevant) topic for the beans. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/f5922af9-bf3b-40fe-a2b1-08ada78b8eef/S20E4-Moving-House.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/1f2bc37c-64de-40a3-b6f7-f8f87851ce9f.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=1f2bc37c-64de-40a3-b6f7-f8f87851ce9f",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61246111",
+      "itunes_duration": "01:03:48",
+      "speakers": [
+        "Moving House What",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "moving",
+        "house"
+      ]
+    },
     {
       "key": "77b104d54163f39c2ae930572c88c281981706c4",
       "title": "The Olympics",
@@ -4088,6 +4110,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — Moving House — speakers: Moving House What, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-03-18 — The Olympics — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-03-11 — Chickens — speakers: Susan’s Seed Hoover, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-03-04 — The Coastguard — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
