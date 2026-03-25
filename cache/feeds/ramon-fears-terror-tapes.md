@@ -2,10 +2,10 @@
 
 - slug: `ramon-fears-terror-tapes`
 - source: `https://feeds.acast.com/public/shows/65301134633a050012b657b7`
-- fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-02-19T20:50:56+00:00`
-- etag: `"djEuMi4wOjE3NjczNDE4NDQyNDE="`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-03-25T21:53:59+00:00`
+- checked_at: `2026-03-25T21:53:59+00:00`
+- etag: `"djEuMi4wOjE3NzQ0Njg5OTk1NTc="`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,8 +17,10 @@
   "link": "https://www.ramonfear.com/episodes/",
   "description": "7x finalist at the Independent Podcast Awards 2024 | A completely original horror-comedy anthology podcast. Inspired by horror across the whole spooky spectrum. With an ounce of Argento, a quart of Carpenter and a heft of Hitchcock, witness tales of everyday terror presented by your nefarious narrator, that horrible host, that evil escort, RAMON FEAR. You'll never be the same again... once you put the Fear in your ear! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65301134633a050012b657b7/show-cover.png",
-  "fetched_at": "2026-02-19T20:50:56+00:00",
-  "owners": [],
+  "fetched_at": "2026-03-25T21:53:59+00:00",
+  "owners": [
+    "Ramon Fear"
+  ],
   "common_speakers": [],
   "categories": [
     "entertainment"
@@ -36,14 +38,7 @@
       "enclosure_length": "18323712",
       "itunes_duration": "19:05",
       "speakers": [
-        "Terror Tapes",
-        "Sam Thomas",
-        "Fidel Quaint Alex Lynch",
-        "John Doe",
-        "Michael Written",
-        "Alex Lynch",
-        "Hilmarsson Meat Wrangling",
-        "Sam Thomas Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "thaw",
@@ -65,14 +60,7 @@
       "enclosure_length": "34127232",
       "itunes_duration": "35:32",
       "speakers": [
-        "Beth Eyre",
-        "Gwen Gibson",
-        "Lucy Farrett",
-        "Ashley Alex Lynch",
-        "John Last",
-        "Gemma Arrowsmith",
-        "Alex Lynch",
-        "Amelia Armande"
+        "Ramon Fear"
       ],
       "topics": [
         "special",
@@ -91,9 +79,7 @@
       "enclosure_length": "4060800",
       "itunes_duration": "1:41",
       "speakers": [
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Support"
+        "Ramon Fear"
       ],
       "topics": [
         "nigh"
@@ -111,9 +97,8 @@
       "enclosure_length": "2809102",
       "itunes_duration": "2:55",
       "speakers": [
-        "Gandhi Written",
-        "Sam Thomas",
-        "Terror Tapes"
+        "Senor Fear",
+        "Ramon Fear"
       ],
       "topics": [
         "death",
@@ -133,14 +118,7 @@
       "enclosure_length": "72089280",
       "itunes_duration": "30:02",
       "speakers": [
-        "Amy Rockson",
-        "Yelonda Mariam Haque",
-        "Denise Adam Courting",
-        "Elliot Burne",
-        "John Last",
-        "Briony Redman",
-        "David Reed",
-        "Adam Courting"
+        "Ramon Fear"
       ],
       "topics": [
         "special",
@@ -159,14 +137,7 @@
       "enclosure_length": "61550400",
       "itunes_duration": "25:38",
       "speakers": [
-        "Beth Eyre",
-        "Natalie Hope",
-        "Alex Lynch",
-        "Gary Vaughn Lexie McDougall",
-        "Janet Koenig",
-        "John Henry Falle",
-        "Sam Thomas",
-        "Hilmarsson Editing"
+        "Ramon Fear"
       ],
       "topics": [
         "trojan",
@@ -185,14 +156,7 @@
       "enclosure_length": "58760640",
       "itunes_duration": "24:28",
       "speakers": [
-        "Jennifer Beth Eyre",
-        "John Henry Falle",
-        "Dot Alex Lynch",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing",
-        "Hilmarsson Ramon",
-        "Terror Tapes"
+        "Ramon Fear"
       ],
       "topics": [
         "fish",
@@ -214,14 +178,7 @@
       "enclosure_length": "73002240",
       "itunes_duration": "30:25",
       "speakers": [
-        "Harrie Hayes",
-        "Hilda Tom Crowley",
-        "Chris Lucy Farrett",
-        "Lynda Beth Eyre",
-        "Carlo Richard Rycroft",
-        "Kerry Howard",
-        "Innocente David Reed",
-        "David Jason Beth Eyre"
+        "Ramon Fear"
       ],
       "topics": [
         "lashes",
@@ -241,14 +198,7 @@
       "enclosure_length": "64662720",
       "itunes_duration": "26:56",
       "speakers": [
-        "Susan Harrison",
-        "Valerie Dux Rob Tofield",
-        "Greg Rumble",
-        "John Last",
-        "Russell Howard",
-        "Rusty Hallard",
-        "Sam Thomas",
-        "Loic Lecoutour"
+        "Ramon Fear"
       ],
       "topics": [
         "revoxed"
@@ -266,14 +216,7 @@
       "enclosure_length": "59016000",
       "itunes_duration": "24:35",
       "speakers": [
-        "Peter Wicks",
-        "John Emily Stride",
-        "Michelle John Henry Falle",
-        "Craig Emily Stride",
-        "John Last",
-        "John Henry Falle",
-        "Amelia Armande",
-        "Rob Tofield"
+        "Ramon Fear"
       ],
       "topics": [
         "devil",
@@ -293,12 +236,7 @@
       "enclosure_length": "80492160",
       "itunes_duration": "33:32",
       "speakers": [
-        "Alex Lynch",
-        "Sam Thomas",
-        "Odinn Orn Hilmarsson",
-        "Terror Tapes",
-        "Samuel Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "fear",
@@ -319,12 +257,7 @@
       "enclosure_length": "87736320",
       "itunes_duration": "36:33",
       "speakers": [
-        "Alex Lynch",
-        "Sam Thomas",
-        "Odinn Orn Hilmarsson",
-        "Terror Tapes",
-        "Samuel Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "fear",
@@ -345,11 +278,7 @@
       "itunes_duration": "17:41",
       "speakers": [
         "Odinn Orn Hilmarsson",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Terror Tapes",
-        "Samuel Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "fear",
@@ -371,10 +300,7 @@
       "enclosure_length": "40936320",
       "itunes_duration": "17:03",
       "speakers": [
-        "Terror Tapes",
-        "Alex Lynch",
-        "Samuel Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "fear",
@@ -394,11 +320,7 @@
       "enclosure_length": "6903360",
       "itunes_duration": "2:52",
       "speakers": [
-        "April Fools Day",
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "boonus",
@@ -421,9 +343,7 @@
       "itunes_duration": "15:45",
       "speakers": [
         "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "boonus",
@@ -444,9 +364,7 @@
       "itunes_duration": "24:29",
       "speakers": [
         "Terror Tapes",
-        "Alex Lynch",
-        "Samuel Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "fear",
@@ -467,11 +385,7 @@
       "enclosure_length": "11898252",
       "itunes_duration": "4:57",
       "speakers": [
-        "Terror Tapes",
-        "Rip Written",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "ramon",
@@ -491,14 +405,7 @@
       "enclosure_length": "71023803",
       "itunes_duration": "29:35",
       "speakers": [
-        "Harrie Hayes",
-        "Hilda Tom Crowley",
-        "Chris Lucy Farrett",
-        "Lynda Beth Eyre",
-        "Carlo Richard Rycroft",
-        "Kerry Howard",
-        "Innocente David Reed",
-        "David Jason Beth Eyre"
+        "Ramon Fear"
       ],
       "topics": [
         "lashes",
@@ -517,14 +424,7 @@
       "enclosure_length": "62847095",
       "itunes_duration": "26:12",
       "speakers": [
-        "Susan Harrison",
-        "Valerie Dux Rob Tofield",
-        "Greg Rumble",
-        "John Last",
-        "Russell Howard",
-        "Rusty Hallard",
-        "Sam Thomas",
-        "Loic Lecoutour"
+        "Ramon Fear"
       ],
       "topics": []
     },
@@ -540,14 +440,7 @@
       "enclosure_length": "57426546",
       "itunes_duration": "23:55",
       "speakers": [
-        "Peter Wicks",
-        "John Emily Stride",
-        "Michelle John Henry Falle",
-        "Craig Emily Stride",
-        "John Last",
-        "John Henry Falle",
-        "Amelia Armande",
-        "Rob Tofield"
+        "Ramon Fear"
       ],
       "topics": [
         "devil",
@@ -566,14 +459,7 @@
       "enclosure_length": "42319411",
       "itunes_duration": "17:37",
       "speakers": [
-        "Alex Lynch",
-        "Jake Lucy Farrett",
-        "Lucy Farrett",
-        "John Last",
-        "Richard Soames",
-        "Paul Alborough",
-        "Emily Stride",
-        "Beth Eyre"
+        "Ramon Fear"
       ],
       "topics": [
         "lease",
@@ -593,13 +479,7 @@
       "itunes_duration": "25:14",
       "speakers": [
         "Nate Cord",
-        "Rob Tofield",
-        "Richard Rycroft",
-        "Susan Harrison",
-        "Anna Tom Crowley",
-        "John Last",
-        "Various Voices",
-        "John Henry Falle"
+        "Ramon Fear"
       ],
       "topics": [
         "charlatan",
@@ -618,14 +498,7 @@
       "enclosure_length": "60998400",
       "itunes_duration": "25:24",
       "speakers": [
-        "Lexie McDougall",
-        "Jennifer Beth Eyre",
-        "Carla Paul Alborough",
-        "Dot Beth Eyre",
-        "John Last",
-        "Various Voices",
-        "John Henry Falle",
-        "Emily Stride"
+        "Ramon Fear"
       ],
       "topics": [
         "food"
@@ -643,14 +516,7 @@
       "enclosure_length": "4955950",
       "itunes_duration": "2:03",
       "speakers": [
-        "Peter Wicks",
-        "Emily Stride",
-        "John Henry Falle",
-        "Rob Tofield",
-        "John Last",
-        "Susan Harrison",
-        "Kerry Howard",
-        "Harrie Hayes"
+        "Ramon Fear"
       ],
       "topics": [
         "season"
@@ -668,10 +534,7 @@
       "enclosure_length": "7049925",
       "itunes_duration": "2:56",
       "speakers": [
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "boonus",
@@ -692,11 +555,7 @@
       "enclosure_length": "62896586",
       "itunes_duration": "26:12",
       "speakers": [
-        "Lindsay Sharman",
-        "Laurence Owen",
-        "Beth Eyre",
-        "Lucy Roslyn",
-        "Ramon Fear’s Terror Tapes"
+        "Ramon Fear"
       ],
       "topics": [
         "introducing",
@@ -715,10 +574,7 @@
       "enclosure_length": "5140897",
       "itunes_duration": "2:08",
       "speakers": [
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "boonus",
@@ -739,10 +595,8 @@
       "enclosure_length": "3780440",
       "itunes_duration": "1:34",
       "speakers": [
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Langridges pr",
+        "Ramon Fear"
       ],
       "topics": [
         "boonus",
@@ -763,10 +617,7 @@
       "enclosure_length": "5291362",
       "itunes_duration": "2:12",
       "speakers": [
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "boonus",
@@ -788,10 +639,7 @@
       "enclosure_length": "3037517",
       "itunes_duration": "1:15",
       "speakers": [
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "ramon",
@@ -812,10 +660,7 @@
       "enclosure_length": "2860929",
       "itunes_duration": "1:11",
       "speakers": [
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "boonus",
@@ -838,10 +683,7 @@
       "enclosure_length": "2546415",
       "itunes_duration": "1:03",
       "speakers": [
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "week",
@@ -861,10 +703,7 @@
       "enclosure_length": "2591346",
       "itunes_duration": "1:04",
       "speakers": [
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "boonus",
@@ -887,10 +726,7 @@
       "enclosure_length": "2645680",
       "itunes_duration": "1:06",
       "speakers": [
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "weeks"
@@ -908,10 +744,7 @@
       "enclosure_length": "1918431",
       "itunes_duration": "0:47",
       "speakers": [
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "boonus",
@@ -933,9 +766,7 @@
       "enclosure_length": "2391770",
       "itunes_duration": "0:59",
       "speakers": [
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas"
+        "Ramon Fear"
       ],
       "topics": [
         "boonus",
@@ -956,11 +787,7 @@
       "enclosure_length": "1928880",
       "itunes_duration": "0:48",
       "speakers": [
-        "Ramon’s Cribs",
-        "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "boonus",
@@ -982,9 +809,7 @@
       "itunes_duration": "1:12",
       "speakers": [
         "Terror Tapes",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing"
+        "Ramon Fear"
       ],
       "topics": [
         "message",
@@ -1005,12 +830,7 @@
       "itunes_duration": "1:14",
       "speakers": [
         "Horror Films Enter",
-        "Alex Lynch",
-        "Sam Thomas",
-        "Hilmarsson Mixing",
-        "Hilmarsson Ramon",
-        "Terror Tapes",
-        "Ramon Fear’s Terror Tapes"
+        "Ramon Fear"
       ],
       "topics": [
         "boonus",
@@ -1032,14 +852,7 @@
       "enclosure_length": "40495019",
       "itunes_duration": "16:52",
       "speakers": [
-        "Alex Lynch",
-        "Jake Lucy Farrett",
-        "Lucy Farrett",
-        "John Last",
-        "Richard Soames",
-        "Paul Alborough",
-        "Emily Stride",
-        "Beth Eyre"
+        "Ramon Fear"
       ],
       "topics": [
         "lease",
@@ -1059,13 +872,7 @@
       "itunes_duration": "24:19",
       "speakers": [
         "Nate Cord",
-        "Rob Tofield",
-        "Richard Rycroft",
-        "Susan Harrison",
-        "Anna Tom Crowley",
-        "John Last",
-        "Various Voices",
-        "John Henry Falle"
+        "Ramon Fear"
       ],
       "topics": [
         "charlatan"
@@ -1083,14 +890,7 @@
       "enclosure_length": "59412897",
       "itunes_duration": "24:45",
       "speakers": [
-        "Lexie McDougall",
-        "Jennifer Beth Eyre",
-        "Carla Paul Alborough",
-        "Dot Beth Eyre",
-        "John Last",
-        "Various Voices",
-        "John Henry Falle",
-        "Emily Stride"
+        "Ramon Fear"
       ],
       "topics": [
         "fish",
@@ -1110,13 +910,7 @@
       "itunes_duration": "1:25",
       "speakers": [
         "Ramon Fear",
-        "Hilmarsson Rob Tofield",
-        "McDougall Paul Alborough",
-        "Tom Crowley",
-        "Lucy Farrett",
-        "Beth Eyre",
-        "Susan Harrison Richard Rycroft",
-        "Alex Lynch"
+        "Terror Tapes"
       ],
       "topics": [
         "teaser"
@@ -1129,47 +923,47 @@
 
 ## Episodes (newest first)
 
-- 2025-12-23 — THAW OF THE WORLDS - An Ice Cold Christmas Chiller — speakers: Terror Tapes, Sam Thomas, Fidel Quaint Alex Lynch, John Doe, Michael Written, Alex Lynch, Hilmarsson Meat Wrangling, Sam Thomas Mixing
-- 2025-10-27 — SPECIAL EPISODE: THE PHANTOM THEREMIN — speakers: Beth Eyre, Gwen Gibson, Lucy Farrett, Ashley Alex Lynch, John Last, Gemma Arrowsmith, Alex Lynch, Amelia Armande
-- 2025-10-08 — THE END IS NIGH: 15. 10. 25 — speakers: Alex Lynch, Sam Thomas, Hilmarsson Support
-- 2025-09-15 — THE SLOW DEATH OF RAMON FEAR — speakers: Gandhi Written, Sam Thomas, Terror Tapes
-- 2024-10-28 — SPECIAL EPISODE: BEYOND THE LIMIT — speakers: Amy Rockson, Yelonda Mariam Haque, Denise Adam Courting, Elliot Burne, John Last, Briony Redman, David Reed, Adam Courting
-- 2024-10-21 — TROJAN HORSE... THE LIVE EPISODE! — speakers: Beth Eyre, Natalie Hope, Alex Lynch, Gary Vaughn Lexie McDougall, Janet Koenig, John Henry Falle, Sam Thomas, Hilmarsson Editing
-- 2024-10-14 — FISH FOOD... LIVE @ LONDON PODCAST FESTIVAL — speakers: Jennifer Beth Eyre, John Henry Falle, Dot Alex Lynch, Alex Lynch, Sam Thomas, Hilmarsson Mixing, Hilmarsson Ramon, Terror Tapes
-- 2024-10-07 — Ep 6: FIVE LASHES OF THE CANE - RELASHED — speakers: Harrie Hayes, Hilda Tom Crowley, Chris Lucy Farrett, Lynda Beth Eyre, Carlo Richard Rycroft, Kerry Howard, Innocente David Reed, David Jason Beth Eyre
-- 2024-09-30 — Ep 5: SPEAK UP - REVOXED — speakers: Susan Harrison, Valerie Dux Rob Tofield, Greg Rumble, John Last, Russell Howard, Rusty Hallard, Sam Thomas, Loic Lecoutour
-- 2024-09-23 — Ep 4: THE DEVIL'S MULLET - RESTYLED — speakers: Peter Wicks, John Emily Stride, Michelle John Henry Falle, Craig Emily Stride, John Last, John Henry Falle, Amelia Armande, Rob Tofield
-- 2024-09-13 — INSIDE THE FEAR - THE MAKING OF LEASE OF LIFE! — speakers: Alex Lynch, Sam Thomas, Odinn Orn Hilmarsson, Terror Tapes, Samuel Thomas, Hilmarsson Mixing
-- 2024-08-05 — INSIDE THE FEAR - THE MAKING OF THE CHARLATAN! — speakers: Alex Lynch, Sam Thomas, Odinn Orn Hilmarsson, Terror Tapes, Samuel Thomas, Hilmarsson Mixing
-- 2024-06-10 — INSIDE THE FEAR - THE MUSIC OF RAMON FEAR'S TERROR TAPES! — speakers: Odinn Orn Hilmarsson, Alex Lynch, Sam Thomas, Terror Tapes, Samuel Thomas, Hilmarsson Mixing
-- 2024-05-07 — INSIDE THE FEAR - WHO IS RAMON? (AND OTHER UNINTERESTING QUESTIONS) — speakers: Terror Tapes, Alex Lynch, Samuel Thomas, Hilmarsson Mixing
-- 2024-04-01 — BOOnus Bite - Ramon's April Cruels Day! — speakers: April Fools Day, Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2024-03-06 — It's A BOOnus Bite BOOnanza! — speakers: Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2024-01-29 — INSIDE THE FEAR - THE MAKING OF FISH FOOD! — speakers: Terror Tapes, Alex Lynch, Samuel Thomas, Hilmarsson Mixing
-- 2023-12-11 — RAMON'S UNWELCOME NEWS — speakers: Terror Tapes, Rip Written, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2023-10-30 — EP 6: FIVE LASHES OF THE CANE — speakers: Harrie Hayes, Hilda Tom Crowley, Chris Lucy Farrett, Lynda Beth Eyre, Carlo Richard Rycroft, Kerry Howard, Innocente David Reed, David Jason Beth Eyre
-- 2023-10-16 — EP 5: SPEAK UP — speakers: Susan Harrison, Valerie Dux Rob Tofield, Greg Rumble, John Last, Russell Howard, Rusty Hallard, Sam Thomas, Loic Lecoutour
-- 2023-10-02 — EP 4: THE DEVIL’S MULLET — speakers: Peter Wicks, John Emily Stride, Michelle John Henry Falle, Craig Emily Stride, John Last, John Henry Falle, Amelia Armande, Rob Tofield
-- 2023-09-25 — EP 3: LEASE OF LIFE - REANIMATED — speakers: Alex Lynch, Jake Lucy Farrett, Lucy Farrett, John Last, Richard Soames, Paul Alborough, Emily Stride, Beth Eyre
-- 2023-09-18 — EP 2: THE CHARLATAN - RESPAWNED — speakers: Nate Cord, Rob Tofield, Richard Rycroft, Susan Harrison, Anna Tom Crowley, John Last, Various Voices, John Henry Falle
-- 2023-09-11 — EP 1: FISH FOOD - REVIVED — speakers: Lexie McDougall, Jennifer Beth Eyre, Carla Paul Alborough, Dot Beth Eyre, John Last, Various Voices, John Henry Falle, Emily Stride
-- 2023-09-04 — TRAILER: SEASON 1 PART II — speakers: Peter Wicks, Emily Stride, John Henry Falle, Rob Tofield, John Last, Susan Harrison, Kerry Howard, Harrie Hayes
-- 2023-08-09 — BOOnus Bites - RAMON’S HOLIDAY — speakers: Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2023-07-11 — INTRODUCING: MAGENTA PRESENTS ‘GHOSTED’ — speakers: Lindsay Sharman, Laurence Owen, Beth Eyre, Lucy Roslyn, Ramon Fear’s Terror Tapes
-- 2023-04-10 — BOOnus Bites - MOMMIE FEAREST — speakers: Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2023-03-06 — BOOnus Bites - LANGRIDGES ASHEN ALE — speakers: Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2023-02-06 — BOOnus Bites - RAMON FEAR’S OFF BAKES — speakers: Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2023-01-02 — RAMON’S HAPPY NEW FEAR MESSAGE! — speakers: Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2022-12-15 — BOOnus Bites - RAMON FEAR’S DRUNK DIALS — speakers: Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2022-12-12 — 1 WEEK TO FUND SEASON 1! — speakers: Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2022-12-08 — BOOnus Bites - RAMON FEAR’S RELAXATION TAPES — speakers: Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2022-12-05 — 2 WEEKS TO GO! — speakers: Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2022-11-29 — BOOnus Bites - DREADTIME STORIES FOR CHILDREN — speakers: Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2022-11-23 — BOOnus Bites - FEAR! AT THE DISCO — speakers: Terror Tapes, Alex Lynch, Sam Thomas
-- 2022-11-17 — BOOnus Bites - WELCOME TO RAMON’S CRIBS — speakers: Ramon’s Cribs, Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2022-11-11 — A SPECIAL MESSAGE FROM RAMON FEAR! — speakers: Terror Tapes, Alex Lynch, Sam Thomas, Hilmarsson Mixing
-- 2022-11-07 — BOOnus Bites - RAMON’S TOP HORROR FILMS — speakers: Horror Films Enter, Alex Lynch, Sam Thomas, Hilmarsson Mixing, Hilmarsson Ramon, Terror Tapes, Ramon Fear’s Terror Tapes
-- 2022-10-31 — EP 3: LEASE OF LIFE — speakers: Alex Lynch, Jake Lucy Farrett, Lucy Farrett, John Last, Richard Soames, Paul Alborough, Emily Stride, Beth Eyre
-- 2022-10-24 — EP 2: THE CHARLATAN — speakers: Nate Cord, Rob Tofield, Richard Rycroft, Susan Harrison, Anna Tom Crowley, John Last, Various Voices, John Henry Falle
-- 2022-10-17 — EP 1: FISH FOOD — speakers: Lexie McDougall, Jennifer Beth Eyre, Carla Paul Alborough, Dot Beth Eyre, John Last, Various Voices, John Henry Falle, Emily Stride
-- 2022-09-30 — TEASER TRAILER! — speakers: Ramon Fear, Hilmarsson Rob Tofield, McDougall Paul Alborough, Tom Crowley, Lucy Farrett, Beth Eyre, Susan Harrison Richard Rycroft, Alex Lynch
+- 2025-12-23 — THAW OF THE WORLDS - An Ice Cold Christmas Chiller — speakers: Ramon Fear
+- 2025-10-27 — SPECIAL EPISODE: THE PHANTOM THEREMIN — speakers: Ramon Fear
+- 2025-10-08 — THE END IS NIGH: 15. 10. 25 — speakers: Ramon Fear
+- 2025-09-15 — THE SLOW DEATH OF RAMON FEAR — speakers: Senor Fear, Ramon Fear
+- 2024-10-28 — SPECIAL EPISODE: BEYOND THE LIMIT — speakers: Ramon Fear
+- 2024-10-21 — TROJAN HORSE... THE LIVE EPISODE! — speakers: Ramon Fear
+- 2024-10-14 — FISH FOOD... LIVE @ LONDON PODCAST FESTIVAL — speakers: Ramon Fear
+- 2024-10-07 — Ep 6: FIVE LASHES OF THE CANE - RELASHED — speakers: Ramon Fear
+- 2024-09-30 — Ep 5: SPEAK UP - REVOXED — speakers: Ramon Fear
+- 2024-09-23 — Ep 4: THE DEVIL'S MULLET - RESTYLED — speakers: Ramon Fear
+- 2024-09-13 — INSIDE THE FEAR - THE MAKING OF LEASE OF LIFE! — speakers: Ramon Fear
+- 2024-08-05 — INSIDE THE FEAR - THE MAKING OF THE CHARLATAN! — speakers: Ramon Fear
+- 2024-06-10 — INSIDE THE FEAR - THE MUSIC OF RAMON FEAR'S TERROR TAPES! — speakers: Odinn Orn Hilmarsson, Ramon Fear
+- 2024-05-07 — INSIDE THE FEAR - WHO IS RAMON? (AND OTHER UNINTERESTING QUESTIONS) — speakers: Ramon Fear
+- 2024-04-01 — BOOnus Bite - Ramon's April Cruels Day! — speakers: Ramon Fear
+- 2024-03-06 — It's A BOOnus Bite BOOnanza! — speakers: Terror Tapes, Ramon Fear
+- 2024-01-29 — INSIDE THE FEAR - THE MAKING OF FISH FOOD! — speakers: Terror Tapes, Ramon Fear
+- 2023-12-11 — RAMON'S UNWELCOME NEWS — speakers: Ramon Fear
+- 2023-10-30 — EP 6: FIVE LASHES OF THE CANE — speakers: Ramon Fear
+- 2023-10-16 — EP 5: SPEAK UP — speakers: Ramon Fear
+- 2023-10-02 — EP 4: THE DEVIL’S MULLET — speakers: Ramon Fear
+- 2023-09-25 — EP 3: LEASE OF LIFE - REANIMATED — speakers: Ramon Fear
+- 2023-09-18 — EP 2: THE CHARLATAN - RESPAWNED — speakers: Nate Cord, Ramon Fear
+- 2023-09-11 — EP 1: FISH FOOD - REVIVED — speakers: Ramon Fear
+- 2023-09-04 — TRAILER: SEASON 1 PART II — speakers: Ramon Fear
+- 2023-08-09 — BOOnus Bites - RAMON’S HOLIDAY — speakers: Ramon Fear
+- 2023-07-11 — INTRODUCING: MAGENTA PRESENTS ‘GHOSTED’ — speakers: Ramon Fear
+- 2023-04-10 — BOOnus Bites - MOMMIE FEAREST — speakers: Ramon Fear
+- 2023-03-06 — BOOnus Bites - LANGRIDGES ASHEN ALE — speakers: Langridges pr, Ramon Fear
+- 2023-02-06 — BOOnus Bites - RAMON FEAR’S OFF BAKES — speakers: Ramon Fear
+- 2023-01-02 — RAMON’S HAPPY NEW FEAR MESSAGE! — speakers: Ramon Fear
+- 2022-12-15 — BOOnus Bites - RAMON FEAR’S DRUNK DIALS — speakers: Ramon Fear
+- 2022-12-12 — 1 WEEK TO FUND SEASON 1! — speakers: Ramon Fear
+- 2022-12-08 — BOOnus Bites - RAMON FEAR’S RELAXATION TAPES — speakers: Ramon Fear
+- 2022-12-05 — 2 WEEKS TO GO! — speakers: Ramon Fear
+- 2022-11-29 — BOOnus Bites - DREADTIME STORIES FOR CHILDREN — speakers: Ramon Fear
+- 2022-11-23 — BOOnus Bites - FEAR! AT THE DISCO — speakers: Ramon Fear
+- 2022-11-17 — BOOnus Bites - WELCOME TO RAMON’S CRIBS — speakers: Ramon Fear
+- 2022-11-11 — A SPECIAL MESSAGE FROM RAMON FEAR! — speakers: Terror Tapes, Ramon Fear
+- 2022-11-07 — BOOnus Bites - RAMON’S TOP HORROR FILMS — speakers: Horror Films Enter, Ramon Fear
+- 2022-10-31 — EP 3: LEASE OF LIFE — speakers: Ramon Fear
+- 2022-10-24 — EP 2: THE CHARLATAN — speakers: Nate Cord, Ramon Fear
+- 2022-10-17 — EP 1: FISH FOOD — speakers: Ramon Fear
+- 2022-09-30 — TEASER TRAILER! — speakers: Ramon Fear, Terror Tapes
