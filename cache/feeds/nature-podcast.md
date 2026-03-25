@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-03-20T15:58:51+00:00`
-- checked_at: `2026-03-20T15:58:51+00:00`
-- etag: `"djEuMi4wOjE3NzQwMTg0NTIxNDU="`
+- fetched_at: `2026-03-25T16:21:05+00:00`
+- checked_at: `2026-03-25T16:21:05+00:00`
+- etag: `"djEuMi4wOjE3NzQ0NTQ0Mzk2MTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-03-20T15:58:51+00:00",
+  "fetched_at": "2026-03-25T16:21:05+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,30 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "79f666948067c7b7a43bc427ddddb289fc0c3834",
+      "title": "Why insects aren't huge: a new challenge to a decades-old idea",
+      "published_at": "2026-03-25T16:00:00+00:00",
+      "link": "https://shows.acast.com/nature/episodes/why-insects-arent-huge-a-new-challenge-to-a-decades-old-idea",
+      "description": "00:44 Why insects aren’t massive Research Article : Snelling et al. 11:39 Research Highlights Nature: Faster ticking of ‘biological clock’ predicts shorter lifespan Nature : Mighty mini-magnet is low in cost and light on energy use 14:05 CRISPR creates CAR-T cancer therapy inside mice Research Article: Nyberg et al. News & Views: A gene-editing method generates immunotherapeutic CAR T cells in the body Nature: CRISPR makes enhanced cancer-fighting immune cells inside mice Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69c4015ba3dddd45e98493ab/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "10896404",
+      "itunes_duration": "22:42",
+      "speakers": [
+        "Research Article",
+        "Research Highlights Nature",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "insect",
+        "challenge",
+        "decade",
+        "idea"
+      ]
+    },
     {
       "key": "4e30f6ca2657d4248ec8850ccf2ef5b96857f3a5",
       "title": "Briefing Chat: Are scientists funny? The evidence is in — and it's no joke",
@@ -19291,6 +19315,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — Why insects aren't huge: a new challenge to a decades-old idea — speakers: Research Article, Research Highlights Nature, Benjamin Thompson, Noah Baker
 - 2026-03-20 — Briefing Chat: Are scientists funny? The evidence is in — and it's no joke — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
 - 2026-03-18 — Botanical mystery solved: how plants make a crucial malaria drug — speakers: Research Article, Benjamin Thompson, Noah Baker
 - 2026-03-13 — Briefing chat: ‘Can it run Doom?’ — why scientists got brain cells and a satellite to play the classic game — speakers: Benjamin Thompson, Noah Baker

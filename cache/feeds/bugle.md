@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-03-18T13:53:54+00:00`
-- checked_at: `2026-03-18T13:53:54+00:00`
-- etag: `"djEuMi4wOjE3NzM4NDE2NjMwOTY="`
+- fetched_at: `2026-03-25T16:21:05+00:00`
+- checked_at: `2026-03-25T16:21:05+00:00`
+- etag: `"djEuMi4wOjE3NzQ0NTIyMjU3ODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-03-18T13:53:54+00:00",
+  "fetched_at": "2026-03-25T16:21:05+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "50a57c18f01c8f40296ffe9cdb644b19cf83c3b7",
+      "title": "Trump needs a better jokes writer!",
+      "published_at": "2026-03-25T15:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/trump-needs-a-better-jokes-writer",
+      "description": "On issue number 4373 of the Bugle, Andy is joined by Nish Kumar and Tom Ballard, as the they update on the Iran war, discuss Trump's joke writing skills, and delve into the latest controversy with the UK's Trump wannabe Nigel Farage! 🇮🇷 Iran War Update: Andy, Nish and Tom give an update on the latest on the Iran conflict. ﻿🇺🇸 Trump's War Gag: The trio discuss the US president's Pearl Harbour joke to the Japanese Prime Minister. 📱 Nigel Farage on Cameo: Andy, Nish and Tom discuss the latest news surrounding Nigel Farage and his antics on paid celebrity video sharing app Cameo! Andy's Links: andyzaltzman.co.uk Nish Kumar's Links: https://www.nishkumar.co.uk/ Tom Ballard's Links: https://tomballard.com.au/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1774449985212-bbae16f3-abde-4972-9b7e-51d3dd5dc347.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/69c3f11b1d78c4aa57baed02/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46061608",
+      "itunes_duration": "47:58",
+      "speakers": [
+        "Nish Kumar",
+        "Tom Ballard",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "trump",
+        "joke",
+        "writer"
+      ]
+    },
     {
       "key": "ad280d14c1c55ac3043ef506291d364f0166cf76",
       "title": "A Canadian politician's signed copy of certain German's book, US sequel on the Moon and the Academy Awards!",
@@ -14047,6 +14069,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — Trump needs a better jokes writer! — speakers: Nish Kumar, Tom Ballard, Andy Zaltzman
 - 2026-03-18 — A Canadian politician's signed copy of certain German's book, US sequel on the Moon and the Academy Awards! — speakers: Hari Kondabolu, Helen Zaltzman, Andy Zaltzman
 - 2026-03-11 — Have influencers gone too far? Trump's ex-presidential mash-up and Gnome News! — speakers: Alice Fraser, Tiff Stevenson, Andy Zaltzman
 - 2026-03-05 — Iran, Trump, and Kerala goes through a name change — speakers: Anuvab Pal, Andy Zaltzman
