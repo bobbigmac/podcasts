@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-03-24T19:21:36+00:00`
-- checked_at: `2026-03-24T19:21:36+00:00`
-- last_modified: `Tue, 24 Mar 2026 18:54:55 GMT`
+- fetched_at: `2026-03-25T10:08:46+00:00`
+- checked_at: `2026-03-25T10:08:46+00:00`
+- last_modified: `Wed, 25 Mar 2026 08:29:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-24T19:21:36+00:00",
+  "fetched_at": "2026-03-25T10:08:46+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -27,6 +27,34 @@
     "film"
   ],
   "episodes": [
+    {
+      "key": "d60f5ea23af60db22b113080fec00a4d83f8100c",
+      "title": "Phil Lord & Chris Miller • (Project Hail Mary / The Lego Movie / Cloudy With A Chance...) • #388",
+      "published_at": "2026-03-25T08:29:00+00:00",
+      "link": "https://www.patreon.com/cw/brettgoldstein",
+      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with two absolute megastars in the industry, it's PHIL LORD & CHRIS MILLER ! A truly fine double-guest sureshot as Phil and Chris connect on the line to talk all things movies (and indeed life and death), and celebrate the release of their new movie PROJECT HAIL MARY ! The perfect moment to receive the duo as guests. The trio actually have a through line of the Bill Lawrence connection (who appreciators will definitely be familiar with), but on top of that, we get to hear about all thing Project Hail Mary, space loneliness, getting dark but not grim-dark, science being social, the preference of mess when it comes to film, how the film 2001 clearing the cinematic dancefloor led to total inspiration, the subgenre of Florida Swamp Horror, puppet turkey crowdwork, and the joys of getting a screen band together. Their shared mantra of \"Let's make someone's favourite movie\" is perfect, and something that for sure many listeners can attest to. And if all else fails, as they'll advise you, just make a movie with Ryan Gosling! Enjoy. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! ⁠ PROJECT HAIL MARY ACROSS THE SPIDER-VERSE THE LEGO MOVIE CLOUDY WITH A CHANCE OF MEATBALLS IMDB –––––––––– ⁠⁠⁠ BRETT • X ⁠⁠⁠ ⁠⁠⁠ BRETT • INSTAGRAM ⁠⁠⁠ ⁠⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠⁠ ⁠⁠⁠ TED LASSO ⁠⁠⁠ ⁠⁠⁠ SHRINKING ⁠⁠⁠ ⁠⁠⁠ ALL OF YOU ⁠⁠⁠ ⁠⁠⁠ SOULMATES ⁠⁠⁠ ⁠⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2123806460.mp3?updated=1774376099",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4705",
+      "speakers": [
+        "Chris Miller",
+        "Brett Goldstein"
+      ],
+      "topics": [
+        "phil",
+        "lord",
+        "chris",
+        "miller",
+        "project",
+        "hail",
+        "mary",
+        "lego",
+        "movie",
+        "cloudy"
+      ]
+    },
     {
       "key": "3afd5dd2539a19a75cfe9d08b337bf05550bc152",
       "title": "Elisabeth Moss • (Mad Men / The Handmaid's Tale / The Invisible Man) • #387",
@@ -9224,6 +9252,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — Phil Lord & Chris Miller • (Project Hail Mary / The Lego Movie / Cloudy With A Chance...) • #388 — speakers: Chris Miller, Brett Goldstein
 - 2026-03-18 — Elisabeth Moss • (Mad Men / The Handmaid's Tale / The Invisible Man) • #387 — speakers: Elisabeth Moss, Brett Goldstein
 - 2026-03-04 — Himesh Patel • Rewind Classic (Tenet / Station 11 / Yesterday) — speakers: Himesh Patel, Brett Goldstein
 - 2026-02-18 — Josh Horowitz • (Happy Sad Confused / Who's A Good Guest) • #386 — speakers: Josh Horowitz, Brett Goldstein
