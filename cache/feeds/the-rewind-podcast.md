@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-03-25T16:21:05+00:00`
-- checked_at: `2026-03-25T16:21:05+00:00`
-- etag: `W/"14b6f-2cKiKT0l+TJVBv8+fZQLAS+mg7o"`
+- fetched_at: `2026-03-25T19:11:41+00:00`
+- checked_at: `2026-03-25T19:11:41+00:00`
+- etag: `W/"1541e-Gotsg4GG5/5a9O87MAeex0kKGJk"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-03-25T16:21:05+00:00",
+  "fetched_at": "2026-03-25T19:11:41+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,33 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "9bee946c335a2797dfe7b877846fc91425432121",
+      "title": "Project Hail Mary and Our Favorite Space Movies | The Rewind Podcast",
+      "published_at": "2026-03-25T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Project-Hail-Mary-and-Our-Favorite-Space-Movies--The-Rewind-Podcast-e3gv0kj",
+      "description": "This week on The Rewind, Darren, Jack, and Marty chat about the Firefly animated series, their thoughts on Project Hail Mary + the \"sad boys in space\" genre, and everything else they've been watching. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/117456979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-25%2F3ef6dedc-ea7b-ffb4-8543-f6e2631d3499.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "242784032",
+      "itunes_duration": "02:48:35",
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "project",
+        "hail",
+        "mary",
+        "favorite",
+        "space",
+        "movies",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "3134bd03bad796cab752ecd50e64cb0442a31c04",
       "title": "Chainsaw Man, Oscar Predictions, and the State of the Slasher | The Rewind Podcast",
@@ -1065,6 +1092,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — Project Hail Mary and Our Favorite Space Movies | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-03-11 — Chainsaw Man, Oscar Predictions, and the State of the Slasher | The Rewind Podcast — speakers: Chainsaw Man, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-02-25 — Does A Knight of the Seven Kingdoms Bring the Juice Back to Thrones? | The Rewind Podcast — speakers: Seven Kingdoms Bring, Juice Back, Second Wind, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-02-11 — Our Thoughts on Iron Lung, Fallout Season 2, and Wonder Man | The Rewind Podcast — speakers: Wonder Man, Darren Mooney, Jack Packard, Marty Sliva

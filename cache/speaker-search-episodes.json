@@ -7644,6 +7644,28 @@
         ],
         "topics": [],
         "external": true
+      },
+      {
+        "feed_slug": "external:apple:c6031f1ae9bf",
+        "feed_title": "Hawksbee and Jacobs Daily",
+        "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
+        "dedupe_key": "ef83e19a1c6717ddff3eddce031d765ab5595030",
+        "episode_key": "ef83e19a1c6717ddff3eddce031d765ab5595030",
+        "title": "Sweaty Betty's Gym Equipment",
+        "published_at": "2020-04-01T15:45:57Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Paul and Andy were joined by comedian and TV host Harry Hill, talkSPORT presenter and soon to be inventor Mike Parry, talkSPORT Horse Racing Commentator Rupert Bell and weather expert John Kettley. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/hawksbeeandjacobs/sweatybettysgymequipment/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/sweaty-bettys-gym-equipment/id348889102?i=1000470205857&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
       }
     ],
     "harriet-kemsley": [
@@ -14802,6 +14824,28 @@
         "description": "OLYMPIC GOLD MEDALIST and Alex Horne Breaks the News super fan LIZZY YARNOLD joins comedians Andrew Maxwell and Matt Richardson in the news cupboard this week. When everything else is a world cup special, we've gone against the grain. Hosted on Acast. See acast.com/privacy for more information.",
         "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-andrew-maxwell-matt-richardson-and-an-olympic-gold-medalist/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-andrew-maxwell-matt-richardson-and-an/id1133204823?i=1000372293457&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:a87f2631b5f9",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "https://feeds.acast.com/public/shows/e1483c6e-23ae-46f4-bd83-2528800cbe78",
+        "dedupe_key": "6f910f2387328e9afa012a0ee9603ba5dcb6e5bc",
+        "episode_key": "6f910f2387328e9afa012a0ee9603ba5dcb6e5bc",
+        "title": "Alex Horne, Ed Gamble, Pat Cahill, No Andrew Maxwell and scorer Jim",
+        "published_at": "2014-06-13T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Sometimes in life you get more than you bargained for and sometimes you get less. This time we've got both. Revelations galore. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-ed-gamble-pat-cahill-no-andrew-maxwell-and-scorer-jim/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-ed-gamble-pat-cahill-no-andrew-maxwell-and/id1133204823?i=1000372293463&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

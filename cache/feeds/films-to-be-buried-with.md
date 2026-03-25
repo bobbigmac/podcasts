@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-03-25T10:08:46+00:00`
-- checked_at: `2026-03-25T10:08:46+00:00`
-- last_modified: `Wed, 25 Mar 2026 08:29:00 GMT`
+- fetched_at: `2026-03-25T19:11:41+00:00`
+- checked_at: `2026-03-25T19:11:41+00:00`
+- last_modified: `Wed, 25 Mar 2026 17:57:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-25T10:08:46+00:00",
+  "fetched_at": "2026-03-25T19:11:41+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -33,7 +33,7 @@
       "published_at": "2026-03-25T08:29:00+00:00",
       "link": "https://www.patreon.com/cw/brettgoldstein",
       "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with two absolute megastars in the industry, it's PHIL LORD & CHRIS MILLER ! A truly fine double-guest sureshot as Phil and Chris connect on the line to talk all things movies (and indeed life and death), and celebrate the release of their new movie PROJECT HAIL MARY ! The perfect moment to receive the duo as guests. The trio actually have a through line of the Bill Lawrence connection (who appreciators will definitely be familiar with), but on top of that, we get to hear about all thing Project Hail Mary, space loneliness, getting dark but not grim-dark, science being social, the preference of mess when it comes to film, how the film 2001 clearing the cinematic dancefloor led to total inspiration, the subgenre of Florida Swamp Horror, puppet turkey crowdwork, and the joys of getting a screen band together. Their shared mantra of \"Let's make someone's favourite movie\" is perfect, and something that for sure many listeners can attest to. And if all else fails, as they'll advise you, just make a movie with Ryan Gosling! Enjoy. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! ⁠ PROJECT HAIL MARY ACROSS THE SPIDER-VERSE THE LEGO MOVIE CLOUDY WITH A CHANCE OF MEATBALLS IMDB –––––––––– ⁠⁠⁠ BRETT • X ⁠⁠⁠ ⁠⁠⁠ BRETT • INSTAGRAM ⁠⁠⁠ ⁠⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠⁠ ⁠⁠⁠ TED LASSO ⁠⁠⁠ ⁠⁠⁠ SHRINKING ⁠⁠⁠ ⁠⁠⁠ ALL OF YOU ⁠⁠⁠ ⁠⁠⁠ SOULMATES ⁠⁠⁠ ⁠⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
+      "image_url": "https://megaphone.imgix.net/podcasts/2ea9e4ba-27aa-11f1-bf0a-4b496fd08257/image/a3ab98cd57f152e9106ea1c664353599.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2123806460.mp3?updated=1774376099",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
