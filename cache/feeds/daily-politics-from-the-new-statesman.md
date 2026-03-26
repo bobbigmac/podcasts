@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-25T19:11:41+00:00`
-- checked_at: `2026-03-25T19:11:41+00:00`
-- etag: `"djEuMi4wOjE3NzQ0NTgwMzk1ODc="`
+- fetched_at: `2026-03-26T19:32:16+00:00`
+- checked_at: `2026-03-26T19:32:16+00:00`
+- etag: `"djEuMi4wOjE3NzQ1NDQzNzkxNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-25T19:11:41+00:00",
+  "fetched_at": "2026-03-26T19:32:16+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "73195dc9831fdea0de1322d618f0065d04c5ac64",
+      "title": "Ban Instagram? You must be kidding.",
+      "published_at": "2026-03-26T16:55:42+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/ban-instagram-you-must-be-kidding",
+      "description": "What does the Instagram and YouTube verdict mean for the UK's proposed social media ban? A California jury has found Meta and Google liable in a case that accused them of building intentionally addictive platforms. Here in the UK, the government is consulting on whether to ban children from using social media. Australia and Spain have already implemented similar bans, and France has backed a ban for under-15s. So, are the social media giants facing a reckoning? And should the government intervene in our kids’ social media use? Anoosh Chakelian is joined by Hannah Barnes. READ: Parents must also take responsibility for online safety https://www.newstatesman.com/culture/social-media/2026/03/parents-must-also-take-responsibility-for-online-safety LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1774544061560-86971168-1072-4012-8136-df456c5cf2e6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69c5650eb9917327717247a1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33536122",
+      "itunes_duration": "23:16",
+      "speakers": [
+        "Ban Instagram",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "instagram"
+      ]
+    },
     {
       "key": "712324cdf68548f830c49ea478f74fe68b54d3fe",
       "title": "Is Ed Miliband the most powerful person in government?",
@@ -30763,6 +30783,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-26 — Ban Instagram? You must be kidding. — speakers: Ban Instagram, Anoosh Chakelian, Oli Dugmore
 - 2026-03-25 — Is Ed Miliband the most powerful person in government? — speakers: Ed Miliband, Anoosh Chakelian, Oli Dugmore
 - 2026-03-24 — Does Trump regret the war in Iran? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-23 — How Covid fear shaped the meningitis response — speakers: Anoosh Chakelian, Oli Dugmore

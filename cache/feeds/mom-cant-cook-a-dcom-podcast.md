@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-03-16T07:48:40+00:00`
-- checked_at: `2026-03-16T07:48:40+00:00`
-- last_modified: `Mon, 16 Mar 2026 07:30:00 GMT`
+- fetched_at: `2026-03-26T19:32:16+00:00`
+- checked_at: `2026-03-26T19:32:16+00:00`
+- last_modified: `Thu, 26 Mar 2026 14:09:17 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-03-16T07:48:40+00:00",
+  "fetched_at": "2026-03-26T19:32:16+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"

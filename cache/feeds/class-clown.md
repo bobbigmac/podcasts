@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-03-26T16:21:18+00:00`
-- checked_at: `2026-03-26T16:21:18+00:00`
-- last_modified: `Thu, 26 Mar 2026 16:19:28 GMT`
+- fetched_at: `2026-03-26T19:32:16+00:00`
+- checked_at: `2026-03-26T19:32:16+00:00`
+- last_modified: `Thu, 26 Mar 2026 17:22:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-26T16:21:18+00:00",
+  "fetched_at": "2026-03-26T19:32:16+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -33,7 +33,7 @@
       "link": null,
       "description": "Fin Taylor is back with Seann Walsh! Here Fin reveals the importance of the school debating society in forming his early stand up aspirations, a telling off that lead to a headmaster apologizing and his early sketch group. He also reveals how he came to team up with Horatio Gould and Vittorio Angelone, his key collaborators behind the creation Fin Vs The Internet (which he says STILL hasn't made him any money!) and how that lead to Fin Vs History. Check out MORE EXCLUSIVE content with Fin by clicking below as he tells us what's the one thing he would want to bring from his youth into adulthood AND a listener asks him if he's ever bombed in front a celebrity... https://www.patreon.com/classclown See Seann Walsh on his This Is Torture Live Tour ! Tickets below! https://www.seannwalsh.com/ 00:00 Getting In Trouble 12:08 Early Sketch Group 16:10 Starting Fin Vs Internet with Horatio Gould & Vittorio Angelone 25:46 Creating Fin Vs History 30:45 Influences 35:55 Future of Comedy Industry Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/6ec659ca-2552-11f1-bd66-9bbb838e870b/image/69911861524e2ac3feaf3cfdfa454882.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8212534326.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8212534326.mp3?updated=1774542336",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2785",
@@ -57,10 +57,10 @@
       "link": null,
       "description": "In this episode of Class Clown , Seann Walsh sits down with comedian Fin Taylor to talk about how childhood, being the only boy in an all girl's dorm and having a family of performers helped shape his sharp, fearless style of comedy. From controversial jokes to pushing the boundaries of what audiences will accept, he explains why great comedy comes at the risk of being disliked and why that's totally okay with him. Seann and Fin talk about being a show off, getting in trouble for jokes, and how those early experiences influenced the comedian Fin would later become. Fin Taylor is one of the most distinctive voices in British comedy. He’s the creator and host of the hit YouTube comedy show Fin vs The Internet , and one of the biggest podcasts in the UK Fin vs History with Horatio Gould. He has appeared on Live at the Apollo , and his stand-up specials and online clips have built a huge following for his fearless, transgressive style. Topics in this episode include: • How school shaped Fin Taylor’s comedy • Why comedians shouldn’t be afraid of being disliked • The role of risk and controversy in stand-up • Getting in trouble for jokes at school • Why the context of wher you see comedy matters If you enjoy the episode, make sure to subscribe to the channel for more conversations with comedians about the moments that shaped their sense of humour. PART 2 of this conversation is available now on Patreon , where Seann and Fin go even deeper into comedy; How debating prepped him for comedy and the trouble he got into which lead to the headmaster apologising to him ! You'll also find an exclusive bonus episode on there as Fin answers your questions! Also catch Seann Walsh live and on tour! Tickets here! Follow the podcast for more episodes of Class Clown , where Seann Walsh speaks to comedians about the school experiences, teachers, and childhood moments that helped create their comedy voice. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/6ce8a21a-20bc-11f1-9e6e-3719cf335a78/image/53248f2309b58af2bf01d4c1a819d577.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8497721647.mp3?updated=1773620008",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8497721647.mp3?updated=1774544068",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2866",
+      "itunes_duration": "2986",
       "speakers": [
         "Seann Walsh",
         "Fin Taylor"
@@ -79,7 +79,7 @@
       "link": null,
       "description": "Maisie Adam is back for part 2 of her sit down with Seann Walsh. She talks about writing her first show while working at Fat Face, the worst trouble she ever got into as a teen, the difficulty of getting into drama school and then the problematic method acting exercises she had to indulge! For More Maisie head to Patreon where we have some exclusive extra questions and Seann shares his thoughts on the interview! See Seann Walsh On Tour ! Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL3832145223.mp3?updated=1773000594",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL3832145223.mp3?updated=1774542464",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2999",
@@ -106,10 +106,10 @@
       "link": null,
       "description": "Taskmaster Champ Maisie Adam has had an incredible rise on the UK comedy scene. Here we dig into why feeling a lost and directionless in her young adulthood lead to her diving feet first into comedy with an hour long show on her very first performance ! She talks about why seeing bad theatre can be just as inspirational as watching good theatre, the mad characters in her village, the influence of her mum's storytelling ability and her tendency to over analyse. We also get into her teen years as an indie kid with a bedroom wall full of Heat Magazine's Toro's Of The Week! Watch Part 2 With Maisie and access some exclusive Patreon Content as Maisie answers YOUR questions and Seann offers his unfiltered thoughts on the interview! Buy tickets to see Seann on his This Is Tourture Tour! Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7070788252.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7070788252.mp3?updated=1774545573",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2949",
+      "itunes_duration": "3009",
       "speakers": [
         "Torsos Taskmaster",
         "Seann Walsh"
@@ -133,10 +133,10 @@
       "link": null,
       "description": "Adam Hills is back for Part 2 in which he shares the best advice he has ever received which still fuels him to this day, how studying Reiki and positive energy aligns with his unique and specific comedic sensibility and how knowing his voice lead to him to fronting his ideal show with The Last Leg. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9128511639.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9128511639.mp3?updated=1774542628",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1769",
+      "itunes_duration": "1829",
       "speakers": [
         "Adam Hills",
         "Comedy Philosophy",
@@ -158,10 +158,10 @@
       "link": null,
       "description": "The exceptional Adam Hills (The Last Leg), joins Seann Walsh to discuss what built his uplifting style of comedy, the power of having a positive outlook, his \"idyllic\" childhood in Australia and how having a prosthetic foot taught him a powerful lesson that he believes contributed to his adulthood success. He also tells an incredible story of gigging with Robin Williams, the amazing advice he got from Billy Connolly and how he saw a pre-fame Jim Carrey in Las Vegas. This episode is certain to inspire you! Enjoy! Access Part 2 on Patreon AND some EXCLUSIVE content you won't hear anywhere else as Adam answers one of YOUR QUESTIONS and answers what's he one thing from his youth he wishes he had in adulthood! Catch Seann Walsh on his This Is Torture Tour Now! Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7879650395.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7879650395.mp3?updated=1774544534",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3930",
+      "itunes_duration": "4050",
       "speakers": [
         "Adam Hills",
         "Robin Williams",
@@ -288,10 +288,10 @@
       "link": null,
       "description": "The hilarious Jamie Hutchinson is back for part 2 where we learn about how his mum adopting another family threw his household into chaos, falling into a gambling addiction and heavy cocaine use and how he fell into comedy - we also hear about a very misguided theatrical production he put on in his teens and how he got kicked out of a drama club for miming an unspeakable act! Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1656826070.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1656826070.mp3?updated=1774543915",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2107",
+      "itunes_duration": "2167",
       "speakers": [
         "Jamie Hutchinson",
         "Seann Walsh"
@@ -312,10 +312,10 @@
       "link": null,
       "description": "Jamie Hutchinson joins Seann Walsh to talk about how his unique childhood shaped the man who is fast becoming one of the most powerful comedy voices in the North. He talks how his wild imagination got him in trouble with the police, how his early writing prowess writing scenes from The Simpsons earned him the respect of his teachers and class mates and how his parents divorce and moving schools lead to him \"Re Branding\" as a Bad Boy. Part 2 coming next week! 00:00 Intro 01:12 Odd Conception 03:40 Gorton Childhood, Anxiety 08:50 Stage Persona, Imagination 20:58 Simpsons, Building Confidence 32:45 Moving Schools, Becoming Naughty 36:06 Police Trouble 40:11 First Heartbreak 47:22 Tramp Of The Year Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL3315136315.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL3315136315.mp3?updated=1774543922",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3215",
+      "itunes_duration": "3335",
       "speakers": [
         "Jamie Hutchinson",
         "Seann Walsh"
@@ -337,7 +337,7 @@
       "link": null,
       "description": "Romesh Ranganthan, Stewart Lee, Ross Noble, Adam Rowe, Boy George, Russell Kane, Vittorio Angelone, Red Richardson and Joanne McNally reveal the key moments from their childhood that shaped their character and influenced the success they each have enjoyed in their career. Don't forget to catch the brand new YouTube specials from Red Richardson and Vittorio Angelone Catch Seann live on tour in 2026 ! We'll be back next week with an all new Class Clown interview! 00:00 Intro 01:16 Romesh Ranganthan 10:01 Stewart Lee 14:01 Adam Rowe 21:46 Ross Noble 26:51 Boy George 35:33 Vittorio Angelone 42:34 Red Richardson 46:02 Russell Kane 55:11 Joanne McNally 01:07:44 Adam Rowe - Advice Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL4483096701.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL4483096701.mp3?updated=1774542614",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4552",
@@ -368,10 +368,10 @@
       "link": null,
       "description": "Charlie Higson co-created the Fast Show, wrote on Harry Enfield & Chums and Vic Reeves' Big Night Out. He is a celebrated author having written the best-selling Young Bond novels and Enemy series. His latest book Willie, Willie, Harry, Stee is a an irresistible, family-friendly deep dive into the murky lives of the British monarchy, illustrated by Jim Moir, AKA Vic Reeves. Check out the book here . Go to ⁠https://surfshark.com/classclown⁠ or use code CLASSCLOWN at checkout to get 4 extra months of Surfshark VPN! See Seann On Tour in 2026 ! 00:00 Intro 01:28 Early Years, Signs Of Creativity 10:05 Starting A Band, Dealing With Shyness 15:44 Finding Peace On Stage 22:58 The Fast Show character inspiration 29:10 Monty Python, Dad's Army, Benny Hill 38:26 Meeting Paul Whitehouse at University 40:20 The Philosophy Of The Fast Show's Writing 43:30 Love Of Creativity 48:44 Aristotle 50:00 Meeting Vic Reeves, Harry Enflield 54:55 New History Book Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL6390708320.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL6390708320.mp3?updated=1774543678",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3685",
+      "itunes_duration": "3805",
       "speakers": [
         "Harry Enfield VS",
         "Paul Whitehouse",
@@ -396,10 +396,10 @@
       "link": null,
       "description": "Head to ⁠SurfShark.com/ClassClown⁠ for our exclusive VPN deal - save money, enhance your streaming options & secure your sensitive data! Britain's Got Talent winner and viral comedy juggernaut Axel Blake talks struggling with his early private school education, how undiagnosed Dyslexia and ADHD affected his behaviour, how he ended up getting into a physical fight with a teacher, being suspended multiple times and how it all culminated in him doing a prison sentence. He talks about how he was determined to never end up back in prison and how that stint helped him really ask fundamental questions that lead to his later success, wowing Simon Cowell, winning Britain's Got Talent and achieving major social media success. Enjoy! Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/e27b06b4-d943-11f0-937d-2f5a37d0368d/image/8824bee42f438cca2c6fec64e7fee29c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9165243505.mp3?updated=1765818352",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9165243505.mp3?updated=1774544070",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4550",
+      "itunes_duration": "4670",
       "speakers": [
         "Seann Walsh"
       ],
@@ -420,10 +420,10 @@
       "link": null,
       "description": "Head to ⁠SurfShark.com/ClassClown⁠ for our exclusive VPN deal - save money, enhance your streaming options & secure your sensitive data! In the second part of Seann Walsh's interview with Russell Howard, Russell explains how he dodged the temptations of hedonism, despite achieving incredible success in his 20's, developing his work ethic alongside his peers Michael McIntyre, Daniel Kitson and Ross Noble. He reveals how he's battled with, and been motivated by, negative internal thoughts, why he relates to Rugby hero Johnny Wilkinson and how he sees himself as \"more Ronaldo, than Messi\" when it comes to comedy. He gets into the details of how he made Russell Howard'd Good News & The Russell Howard Hour and how working with Frankie Boyle during his Mock The Week years trained his approach to generating material. He also recalls a very funny early comedy story about Johnny Vegas! Need a Christmas present? Get Tickets For Seann's new tour This Is Torture here. https://www.seannwalsh.com/ 00:00 Trail 01:02 Early Success 05:00 Hedonism, Daniel Kitson 09:02 Parental Motivation 12:02 Frankie Boyle, Mock The Week 17:02 Good News, Topical Comedy 22:45 Work Ethic 29:12 Johnny Vegas, Fear of Failure 33:42 Stardom, Live Mishaps Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9672754615.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9672754615.mp3?updated=1774542829",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2672",
+      "itunes_duration": "2732",
       "speakers": [
         "Russell Howard",
         "Seann Walsh"
@@ -444,10 +444,10 @@
       "link": null,
       "description": "Head to SurfShark.com/ClassClown for our exclusive VPN deal - save money, enhance your streaming options & secure your sensitive data! The incredible Russell Howard sits with Seann Walsh to discuss why he loved school, growing up in the West Country, the value in kids who lie, how losing his cousin at a young age lead to a fear of death which haunts him to this day. We also get into his love of football, his positive outlook on life and why his love for jokes is the key factor in his success as a comedian known for topical material. Check out Part 2 on Patreon ! Need a Christmas present? Get Tickets For Seann's new tour This Is Torture here . 00:00 Trailer & Intro 01:32 West Country 06:55 Fear Of Death 10:30 Football Success 15:30 Teen Years as Comedy Training 20:33 Robbie Williams 'Better Man' Biopic 26:06 Michael Jackson & Early Creativity 29:23 Lee Evans, Billy Connolly, Comedy Influences 34:28 Topical Comedy 36:40 Positivity 42:30 Starting Comedy Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/507f70b0-ce3f-11f0-8d97-e33c586c0d25/image/28007fe248564996af5207f004ec52bd.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL4785326176.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL4785326176.mp3?updated=1774543251",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3236",
+      "itunes_duration": "3356",
       "speakers": [
         "Russell Howard",
         "Seann Walsh"
@@ -472,10 +472,10 @@
       "link": null,
       "description": "Jack Skipper has been all over your TikTok and Instagram feeds for the last few years and this week he joins Seann Walsh to talk how he discovered the social currency of humor, what turned him from a good boy into a naughty kid, the role lockdown played in turning him into a social media superstar, the influence of Ricky Gervais and Steve Coogan, how he felt lost until he found comedy. We also discuss class politics, some hilarious tales of boyhood pranks and a misguided attempt to start a gourmet burger restaurant. For early Access to Seann Walsh's 2026 THIS IS TORTURE tour use the code POD26 and hit the link! https://linktr.ee/seannwalshthisistorture2026 Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5526004626.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5526004626.mp3?updated=1774544548",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3618",
+      "itunes_duration": "3738",
       "speakers": [
         "Jack Skipper",
         "Seann Walsh"
@@ -493,10 +493,10 @@
       "link": null,
       "description": "Instagram superstar turned stand up comedy sensation Kyla Cobbler joins Seann for a hilarious chat about growing up in Cork, how she went from feeling stupid at school to learning several languages and what made her give stand up a go at 31 years old. She chats about how one of Ireland's finest new comedian's Mike Rice encouraged her and why she thinks school isn't the environment for creatives. She also chats about her love for Limp Bizkit and The Teenage Mutant Ninja Turtles, living in Italy and Spain and details how she blew up on Instagram by being authentic. Get Tickets to Seann Walsh Live at The Hackney Empire on Oct 23rd 2026 here . 00:00 Intro 00:43 Pogs Or Panini Stickers 02:23 Oasis, Blur, Limp Bizkit 04:20 Favourite Spice Girl 05:26 Weed, Booze, Love For Reading 06:36 First: Drunk, Kissing 13:40 Cork Council Estate 21:24 Dyspraxia, Little Mermaid, Teenage Mutant Ninja Turtles 37:50 Kya's \"X-Men Moment\" Discovering Her Ability 47:43 Dealing With Adversity, Positive Outlook 51:00 Discovering Stand Up, Living Abroad 55:00 Mastering Instagram Comedy 57:36 Mike Rice Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/cc53c800-c32a-11f0-9381-3b90e69f574c/image/1062eaa47c288007705e5ae282eec911.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9932684448.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9932684448.mp3?updated=1774542990",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3848",
+      "itunes_duration": "3968",
       "speakers": [
         "Kyla Cobbler",
         "Seann Walsh"
@@ -520,10 +520,10 @@
       "link": null,
       "description": "Ross Noble continues his interview with Seann Walsh, sharing hilarious tales about his early days as a juggler and accidentally setting people on fire and how failing at school and dealing with abuse from classmates helped make him the resilient comedian he is today. He also shares stories of his early gigs with Lee Evans, sharing a car with Rolf Harris in which Rolf revealed his not-so-kid-friendly side. Seann meanwhile shares a very funny story about his early days bonding with Jack Dee. Looking to get off the Vape? Check out FUM 00:00 Supportive Dad & Comedy Influences 05:25 Grandad's Practical Skills & Charity Work 08:25 Street Performers & Ugly Juggling Company 12:20 Setting Punters On Fire 16:40 Funding His Circus Ambitions 20:20 First Live Comedy Experience, Jack Dee, Jo Brand 30:55 Lee Evans, Rolf Harris 32:50 Bullies and Bad Reports Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/bd12a93a-bda6-11f0-952d-cb317799e3ab/image/1a6ce4bb1513219137ed40d7eb6c1d41.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL3547833605.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL3547833605.mp3?updated=1774544327",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2503",
+      "itunes_duration": "2563",
       "speakers": [
         "Ross Noble",
         "Seann Walsh"
@@ -543,7 +543,7 @@
       "link": null,
       "description": "The incredible Ross Noble joins Seann Walsh on Class Clown to discuss his savvy career moves, why saying \" No\" is more powerful than saying \"Yes\" and the influence of Eddie Izzard, Jasper Carrot & Billy Connolly. Ross talks about his surprisingly strong performance on Celebrity Apprentice, achieving incredible success despite being dyslexic and achieving only two GCSE's. Watch Part 2 Now on the Class Clown Patreon Get Tickets to see Seann Walsh Live at The Hackney Empire in 2026 00:00 Panel Shows and Saying \"No\" 04:17 Building His Comedy Audience 08:18 Career Savvy 13:25 ADHD, Evolving Language 16:58 Labelled \"Bonkers\" 21:40 Early Comedy Inspirations & Career Goals 28:08 Life Philosophies 30:51 Celebrity Apprentice 36:47 Confidence & Responsibility 42:20 Terrible Grades, Amazing Parents 51:20 Growing Up In Cramlington Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9467496989.mp3?updated=1762117213",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9467496989.mp3?updated=1774542284",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3605",
@@ -594,10 +594,10 @@
       "link": null,
       "description": "Dr Natalie Cawley joins Seann to dissect all the themes from our live Class Clown Podcast record with Essex's best boy, Josh James - Childhood Guilt, Bullying, Flow State and Denial! It's all covered here! Plus, Seann reads a very funny story from one of our Patreons! And don't forget to check out Dr Natalie Cawley's book Just About Coping! 00.00 Denial 06.23 Flow State & Creativity 16.59 Childhood Guilt 23.45 Listener Stories - Bad Lunch Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5317622438.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5317622438.mp3?updated=1774542671",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1860",
+      "itunes_duration": "1920",
       "speakers": [
         "Natalie Cawley",
         "Seann Walsh"
@@ -726,10 +726,10 @@
       "link": null,
       "description": "In Part 2 of this incredible interview, Russell gets deep, discussing his love for raving, and how he met an upper class girl who opened his mind to the possibilities ofa life much greater than what was promised to him and how this completely changed his approach to life. He talks about living with his hilarious Nan, the secret sauce to what makes his comedy specials so powerful, how Russell Howard gave him advice that altered his comedic subject matter, his thoughts on Russell Brand's use of language and how it differs to his own and the advice he would give to anyone wanting to achieve a high level of success in comedy, that can be applied to any profession. We also chat his early life as salesman selling Rolex watches! Support the Show and get exclusive content on Patreon Ditch Smoking & Vaping By Heading to FUM 20% Off Your Next Pair Of Underwear At Sheath - Discount Code: CLASSCLOWN 00:00 - Teaser 00:45 - Russell's Comedy Style 06:01 - Finishing School, Bad Results 11:20 - Selling Rolex's/First Love 13:10 - Eccentric Nan 16:06 - How Raving Changed his Life 19:40 - Angry Awakening 27:18 - Competing With Private School Kids 31:16 - Russell Brand, use of language 34:09 - Russell's favourite comedians 35:33 - Advice SHOW DESCRIPTION Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ec437d06-9ca4-11f0-972c-ab80899132f9/image/5ed312705b82fce4df228204c5fa0ddc.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8337070101.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8337070101.mp3?updated=1774543501",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2487",
+      "itunes_duration": "2547",
       "speakers": [
         "Russell Kane",
         "Raving Lead",
@@ -750,10 +750,10 @@
       "link": null,
       "description": "Seann Walsh and Dr. Natalie Cawley break down our incredibly revealing interview with the brilliant Mike Rice. They dive into the psychological reasons why teenager years are so difficult, some potential ADHD markers that Mike exhibited as a youngster, the effect of late puberty and the anxiety that that lead to. Elsewhere, they get into on stage persona and the concept of Shadow Self, and Seann reveals the underpinning philosophy of his own comedy persona. Check out Dr Natalie Cawley's book here \"Just About Coping: A Real-Life Drama from the Psychotherapist's Chair\" And head to the Class Clown Patreon for exclusive content and the chance to ask Seann about his own Childhood. 00:00 - Teen Nightmare 03:37 - Late Puberty, Body Image 09:05 - Fighting, Possible ADHD 14:29 - Mike's Persona, Shadow Self 16:13 - Seann's Comedy Philosophy 19:56 - Anxiety, DBT as coping mechanism 23:17 - Listener Stories Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL2359460747.mp3?updated=1758751146",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL2359460747.mp3?updated=1774544588",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1622",
+      "itunes_duration": "1682",
       "speakers": [
         "Shadow Self",
         "Seann Walsh",
@@ -779,7 +779,7 @@
       "link": null,
       "description": "The phenomenal Russell Kane talks to Seann Walsh about growing up in council housing, the pluses and minuses of having a scary \"Ray Winstone\"- style Dad, playing Dungeons & Dragons, the dangers of being a self proclaimed \"Jester Bellend\" and what makes someone statistically more likely to find success in comedy, and what makes you more likely to find success in Football and sports. We do our usual nostalgia-drenched either/or quiz where Russell makes the case that The Prodigy are the dance music equivalent of Oasis. To hear Part 2 immediately (and Ad FREE!) go to the CLASS CLOWN Patreon To help you ditch Vaping and Smoking, check out our sponsor, FUM . 00:00 - Episode Preview and Intro 01:17 - Nostalgic Either/Or Quiz 03:59 - Russell's love for Dungeons & Dragons 07:26 - Childhood Foolishness and Having A Scary dad 16:29 - Life in Council Housing in Enfield 22:45 - Family Heritage 27:07 - Aristotle, Early Performing and School Popularity 32:58 - What makes someone likely to be a Comedian vs a Footballer 37:20 - Intelligence, Power of a Strong Father Figure 49:39 - Russell Kane Part 2 Preview SHOW DESCRIPTION Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/8abc169c-9709-11f0-855b-fbac4776f45d/image/d2017574a33ec58ad10bd9e8fc5c3510.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9690761685.mp3?updated=1758481275",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9690761685.mp3?updated=1774542448",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3284",
@@ -828,10 +828,10 @@
       "link": null,
       "description": "If you want to hear/watch Part 2 straight away head to patreon.com/classclown In Part 1 Joel Dommett chats about being dumped for being frigid, how he learned comedy from the Class Clown's around him and how a misjudged comment landed him a confrontation with the hardest lad in school. We get into why he was never into Blur or Oasis and he feels that he has never really fit neatly into any group. To use the 10% Discount code foe Better Help head to BetterHelp.com/ClassClown Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/83476904-92ed-11f0-9e25-ebddad848653/image/58030bc2079d5c6da2f9f8fa19277ea9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1426892481.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1426892481.mp3?updated=1774543865",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2274",
+      "itunes_duration": "2334",
       "speakers": [
         "First Kiss",
         "Joel Dommett",
@@ -881,10 +881,10 @@
       "link": null,
       "description": "In this exclusive snippet of our brand new Class Clown Patreon spin off, Seann Walsh and Dr Natalie Cawley (author of Just About Coping) analyse Adam Rowe's incredible appearance on Class Clown, delving into the relationship with his Mum who suffered with alcohol dependence issues, the boundaries he set early on about what he would and would not joke about and where his early business mind-set came from. We'll be doing this for EVERY CLASS CLOWN EPISODE so to hear the full episode, plus access to all future Class Clown Patreon's hit the link below and become part of our squad of delinquents! https://patreon.com/ClassClown And purchase Dr Natalie Cawley's book here . Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/84cdb760-92ed-11f0-9e25-43d1360ca359/image/c1c8e73b485bddd317e735b6454d1e1f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5498331989.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5498331989.mp3?updated=1774543413",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1258",
+      "itunes_duration": "1318",
       "speakers": [
         "Adam Rowe",
         "Seann Walsh"
