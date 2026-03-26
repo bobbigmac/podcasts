@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-03-23T10:14:12+00:00`
-- checked_at: `2026-03-23T10:14:12+00:00`
-- last_modified: `Mon, 23 Mar 2026 08:42:42 GMT`
+- fetched_at: `2026-03-26T16:21:18+00:00`
+- checked_at: `2026-03-26T16:21:18+00:00`
+- last_modified: `Thu, 26 Mar 2026 16:19:28 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-23T10:14:12+00:00",
+  "fetched_at": "2026-03-26T16:21:18+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -36,7 +36,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8212534326.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2725",
+      "itunes_duration": "2785",
       "speakers": [
         "Fin Taylor Pt",
         "Fin Taylor",
@@ -82,7 +82,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL3832145223.mp3?updated=1773000594",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2879",
+      "itunes_duration": "2999",
       "speakers": [
         "Maisie Adam",
         "Seann Walsh"
@@ -340,7 +340,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL4483096701.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4432",
+      "itunes_duration": "4552",
       "speakers": [
         "Stewart Lee",
         "Ross Noble",
@@ -546,7 +546,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9467496989.mp3?updated=1762117213",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3485",
+      "itunes_duration": "3605",
       "speakers": [
         "Ross Noble",
         "Seann Walsh"
@@ -567,10 +567,10 @@
       "link": null,
       "description": "In Part 2 of our Horatio Gould interview he talks first fights, first kisses, the significance of his early crush on Jennifer Lawrence and how Monty Python, Stewart Lee and Michael McIntyre influenced his comedy career. He also shares the story of how putting a play on for his school might be the highlight of his career so far and shares why he's glad he didn't go to film school. He also gives advice on what he would say for anyone who wants to pursue a creative career. Our episode is sponsored by Better Help - for 10% off click here . Support Class Clown on Patreon for early ad free access and a chance to ask Seann your Class Clown related questions. Catch Horatio on Fin VS History and the Boys Gone Wild podcast and on tour here . See Seann Walsh live at the Hackney Empire on 23rd October 2026 here . 00:00 Being Punched 06:20 First Time Drunk 08:30 Jennifer Lawrence & Not Driving 10:36 First Kiss 11:23 Monty Python, The Life Of Brian 13:00 Michael McIntyre & Stewart Lee 24:16 Writing A Play & Ambitions 34:20 Advice Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/0683c230-b1d5-11f0-b5ba-83d94b6733a7/image/3427a774170d0474953a9f0cefc00229.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1080149858.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1080149858.mp3?updated=1774541849",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2358",
+      "itunes_duration": "2418",
       "speakers": [
         "Stewart Lee",
         "Michael McIntyre",
@@ -699,10 +699,10 @@
       "link": null,
       "description": "Dr Natalie Cawley is back for another Bonus episode with Seann Walsh breaking down our amazing episode with Boy George, where she discusses family dynamics, the power of denial, the concept of \"twinship\" as it relates to our teenage years, the potent effects of social media on mental health and how Bonnie Blue is an example of the extremity of where this has gotten to. For More, check us out on Patreon 00:00 - Bullying, Long Term Effects 09:23 - Effects of Being Expelled 14:56 - Bonnie Blue, Trauma Creation 20:11 - Bonnie Blue Documentary 21:49 - Denial in Families 26:41 - Listener Story - Crowdsurfing Goes Bad Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5804925779.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5804925779.mp3?updated=1774541871",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1884",
+      "itunes_duration": "1944",
       "speakers": [
         "Boy George",
         "Bonnie Blue",
@@ -782,7 +782,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9690761685.mp3?updated=1758481275",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3164",
+      "itunes_duration": "3284",
       "speakers": [
         "Russell Kane",
         "Seann Walsh"
@@ -1228,7 +1228,7 @@
       "link": null,
       "description": "Launching JUNE 2nd! Brand new interview show hosted by Seann Walsh, who talks to the biggest rebels in entertainment about school hijinks, teen angst and how it all fuelled the success they later achieved. Follow now to make sure you don't miss out! Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/909c2e6e-92ed-11f0-9e25-978a9a263c07/image/c1c8e73b485bddd317e735b6454d1e1f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL2548664537.mp3",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL2548664537.mp3?updated=1774542079",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "80",

@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-03-20T19:06:43+00:00`
-- checked_at: `2026-03-20T19:06:43+00:00`
-- etag: `"c1094ada85dcef27a35fe8721aaf41e2"`
-- last_modified: `Fri, 20 Mar 2026 19:00:04 GMT`
+- fetched_at: `2026-03-26T16:21:18+00:00`
+- checked_at: `2026-03-26T16:21:18+00:00`
+- etag: `"9fe19f9002b090199cde71f53f48be53"`
+- last_modified: `Thu, 26 Mar 2026 15:52:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-  "fetched_at": "2026-03-20T19:06:43+00:00",
+  "fetched_at": "2026-03-26T16:21:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5472,32 +5472,6 @@
         "huge",
         "davy"
       ]
-    },
-    {
-      "key": "cbd588455a64a6a98322cf3da727031515843de6",
-      "title": "The Now Show - 26th March ft Janine Harouni, Dane Baptiste and Rachel Parris",
-      "published_at": "2021-03-26T19:01:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09by9j7",
-      "description": "Steve Punt and Hugh Dennis present the week via topical stand-up and sketches in front of a remote audience - and all from their own home! Joining them from a safe distance is Dane Baptiste and Janine Harouni with music supplied by Rachel Parris . Voice Actors: Chiara Goldsmith and Luke Kempner Producer: Pete Strauss Production Co-Ordinator: Sarah Sharpe Editor/Engineer: David Thomas BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09by8lp.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27856000",
-      "itunes_duration": "1741",
-      "speakers": [
-        "Janine Harouni",
-        "Rachel Parris",
-        "Steve Punt"
-      ],
-      "topics": [
-        "march",
-        "janine",
-        "harouni",
-        "dane",
-        "baptiste",
-        "rachel",
-        "parris"
-      ]
     }
   ]
 }
@@ -5764,4 +5738,3 @@
 - 2021-04-16 — The News Quiz - Friday 16th April 2021 — speakers: Andy Zaltzman, Hugo Rifkind, Susie McCabe
 - 2021-04-10 — The Now Show - 9th April ft Ria Lina, Alun Cochrane and Rachel Parris — speakers: Alun Cochrane, Rachel Parris, Steve Punt
 - 2021-04-02 — The Now Show - 2nd April ft Geoff Norcott, Laura Lexx and Huge Davies — speakers: Laura Lexx, Steve Punt
-- 2021-03-26 — The Now Show - 26th March ft Janine Harouni, Dane Baptiste and Rachel Parris — speakers: Janine Harouni, Rachel Parris, Steve Punt
