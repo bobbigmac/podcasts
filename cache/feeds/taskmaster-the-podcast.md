@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-03-19T21:49:12+00:00`
-- checked_at: `2026-03-19T21:49:12+00:00`
-- etag: `"d0ae0-64d66dba77fd8"`
-- last_modified: `Thu, 19 Mar 2026 21:00:27 GMT`
+- fetched_at: `2026-03-26T21:46:11+00:00`
+- checked_at: `2026-03-26T21:46:11+00:00`
+- etag: `"d14da-64df3acb7fb3d"`
+- last_modified: `Thu, 26 Mar 2026 21:00:30 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-03-19T21:49:12+00:00",
+  "fetched_at": "2026-03-26T21:46:11+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "106a305e7db8f22e98d598b7d59e77c276b3d94a",
+      "title": "Taskmaster The Podcast Rewind - Series 3 Ep3. With Katy Wix",
+      "published_at": "2026-03-26T21:00:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "This week, we rewind to 2021 to revisit Ed’s chat with the brilliant comedian, actor, and writer Katy Wix. Ed and Katy dive into Episode 3 of Series 3, breaking it down task by task. They take a closer look at the flag meal challenge, the chaos of Twister, and debate why glitter poo might not be such a bad thing after all. Enjoy! Catch up on Taskmaster at channel4.com For all your Taskmaster goodies visit Taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/d539b0c2-ddfc-4242-8c10-1e78c53940f2.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=d539b0c2-ddfc-4242-8c10-1e78c53940f2",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50789510",
+      "itunes_duration": "53:01",
+      "speakers": [
+        "Katy Wix",
+        "revisit Ed",
+        "Ed Gamble"
+      ],
+      "topics": [
+        "taskmaster",
+        "podcast",
+        "rewind",
+        "series",
+        "katy"
+      ]
+    },
     {
       "key": "67108e70ceac65ba47a7e257ba3872c4e7adacab",
       "title": "Taskmaster the Podcast Rewind - Series 1 Ep.4 With Nicola Coughlan",
@@ -5213,6 +5237,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-26 — Taskmaster The Podcast Rewind - Series 3 Ep3. With Katy Wix — speakers: Katy Wix, revisit Ed, Ed Gamble
 - 2026-03-19 — Taskmaster the Podcast Rewind - Series 1 Ep.4 With Nicola Coughlan — speakers: Derry Girls, Ed Gamble
 - 2026-03-12 — Taskmaster Live on Stage - New York Night #2 — speakers: New York Night, Ed Gamble
 - 2026-03-04 — Taskmaster Live on Stage - New York Night #1 — speakers: Ed Gamble
