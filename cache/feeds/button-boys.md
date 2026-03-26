@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-03-25T19:11:41+00:00`
-- checked_at: `2026-03-25T19:11:41+00:00`
-- last_modified: `Wed, 25 Mar 2026 17:08:51 GMT`
+- fetched_at: `2026-03-26T03:27:15+00:00`
+- checked_at: `2026-03-26T03:27:15+00:00`
+- last_modified: `Thu, 26 Mar 2026 00:08:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-25T19:11:41+00:00",
+  "fetched_at": "2026-03-26T03:27:15+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,29 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "f0f727b1d3740f131321382b035712716a898dcf",
+      "title": "State of the Art: Visual Design",
+      "published_at": "2026-03-26T00:00:00+00:00",
+      "link": null,
+      "description": "It's canapé and sparkling wine time here at La Gallerie Bouton, as we unveil our latest episode to audible gasps. This week's theme is visual design, from standout box art to beautiful backgrounds: the Boys don their berets, stroke their chins and pick apart what wows them and what leaves them cold. Elsewhere, Pierre's finally cleaned up his neighbourhood, Sarah's set off on an avian stroll and Glenn's getting to grips with his strengths and weaknesses in what may be his favourite game of the year so far. To follow along with the Button Boys outside the podcast: Pierre - ⁠ You Sit There, I’ll Stand Here⁠ Glenn - ⁠ Please Sir, Glenn I Have Some Moore Glenn and Producer Ben - ⁠ The Audience VS ⁠ ⁠Sarah's Melbourne Show⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Terra Nil Terra Invicta Phoenix Springs Age of Empires II Home, Sweet Home Master of Command Steel Division 2 No Man's Sky Resident Evil Requiem A Short Hike Esoteric Ebb Disco Elysium Mewgenics Resident Evil Requiem Mouse P.I. for Hire Cossacks Hogs of War Command & Conquer RollerCoaster Tycoon Age of Empires III Final Fantasy VII Final Fantasy IX Desperados Clair Obscure: Expedition 33 Charlie's Angels Syphon Filter Enter the Matrix Star Wars: Jedi Power Battles Baba Is You Horizon Forbidden West Star Wars: Droid Works Windjammers Streets of Rage Windjammers 2 Bye Sweet Carol Mundaun Unravel Stardew Valley Silent Hill Fear the Spotlight Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR7450503036.mp3?updated=1774458760",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3655",
+      "speakers": [
+        "La Gallerie Bouton",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "state",
+        "visual",
+        "design"
+      ]
+    },
     {
       "key": "2afb44be8f2141dda91aceb9319637a789a608d8",
       "title": "Invite to Party: Group Gaming",
@@ -857,6 +880,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-26 — State of the Art: Visual Design — speakers: La Gallerie Bouton, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-03-19 — Invite to Party: Group Gaming — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-03-12 — Press to Unpause: Getting Back into Gaming — speakers: Getting Back, Gaming If, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-03-05 — Weak Spots: Games You Suck At — speakers: Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie

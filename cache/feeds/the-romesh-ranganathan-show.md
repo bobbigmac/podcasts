@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-03-23T16:09:49+00:00`
-- checked_at: `2026-03-23T16:09:49+00:00`
-- last_modified: `Mon, 23 Mar 2026 11:12:22 GMT`
+- fetched_at: `2026-03-26T03:27:15+00:00`
+- checked_at: `2026-03-26T03:27:15+00:00`
+- last_modified: `Thu, 26 Mar 2026 00:23:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/c4cfe1bfcc9a4011d72f8fe272266dac.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-23T16:09:49+00:00",
+  "fetched_at": "2026-03-26T03:27:15+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f55db28f27a76c157bfabc044f62e6e8b39a6fcf",
+      "title": "The Birthday Episode Romesh Didn’t Want",
+      "published_at": "2026-03-26T00:01:00+00:00",
+      "link": null,
+      "description": "Romesh doesn’t like celebrating his birthday… unfortunately the team had other plans. In this chaotic birthday special, Romesh is joined once again by brother Dinesh and mum Shanthi, discussing everything from family pranking history and gardening to debating who would survive prison time and how. You can expect lots of birthday fun, lots of push back from Romesh, some questionable birthday gifts and a bizarre role play. Plus: Some Tamil and wedding song recommendations and Romesh being a birthday diva. A Ranga Bee Production in partnership with Platform Media. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d20e2912-2896-11f1-b9f5-4b0ff8d4f8da/image/773670917fc723b03d8dbf44302e168c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8498123474.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3113",
+      "speakers": [
+        "Want Romesh",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "birthday",
+        "romesh"
+      ]
+    },
     {
       "key": "085a5207f7faa77940c749e0a558a207ecd51491",
       "title": "Tom Allen: Gardening With Celebs, Fashion Pet Peeves & The 'Mandem'",
@@ -1228,6 +1248,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-26 — The Birthday Episode Romesh Didn’t Want — speakers: Want Romesh, Romesh Ranganathan
 - 2026-03-23 — Tom Allen: Gardening With Celebs, Fashion Pet Peeves & The 'Mandem' — speakers: Tom Allen, Romesh Ranganathan
 - 2026-03-19 — How To Survive A Desert Island & Shanthi’s AI Boyfriend?! — speakers: Desert Island, Would Shanthi, Romesh Ranganathan
 - 2026-03-16 — Hannah Fry: The Science Behind AI, Grief Tech & Life — speakers: Hannah Fry, Romesh Ranganathan

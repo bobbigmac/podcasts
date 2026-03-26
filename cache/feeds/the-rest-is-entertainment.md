@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-03-25T19:11:41+00:00`
-- checked_at: `2026-03-25T19:11:41+00:00`
-- last_modified: `Wed, 25 Mar 2026 17:48:44 GMT`
+- fetched_at: `2026-03-26T03:27:15+00:00`
+- checked_at: `2026-03-26T03:27:15+00:00`
+- last_modified: `Thu, 26 Mar 2026 00:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-25T19:11:41+00:00",
+  "fetched_at": "2026-03-26T03:27:15+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "865739a9454218fa7b81c350f71aff5a37699b35",
+      "title": "Buffy, Michael Sheen & MacGuffins",
+      "published_at": "2026-03-26T00:00:00+00:00",
+      "link": null,
+      "description": "Why was the Buffy reboot cancelled, and who’s to blame? What does the media storm around Zendaya and Tom Holland’s secret nuptials tell us about fame in 2026? What is a 'MacGuffin', and why do legendary filmmakers love them? Richard Osman and Marina Hyde answer your questions about TV remakes, celebrity weddings, screenwriting techniques and more. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Max Archer Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Neil Fearn Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1eb1bbd2-2868-11f1-8de3-c704902f6858/image/09b39cca3fbe1e4568054288c929fc2d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6502336454.mp3?updated=1774458269",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2084",
+      "speakers": [
+        "Michael Sheen MacGuffins",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "buffy",
+        "michael",
+        "sheen",
+        "macguffins"
+      ]
+    },
     {
       "key": "60459c59d4cf2e54e8fde348d5a14da7502f1fc6",
       "title": "Did SNL UK Defy The Critics?",
@@ -5461,6 +5484,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-26 — Buffy, Michael Sheen & MacGuffins — speakers: Michael Sheen MacGuffins, Richard Osman, Marina Hyde
 - 2026-03-24 — Did SNL UK Defy The Critics? — speakers: Richard Osman, Marina Hyde
 - 2026-03-19 — Are Celebrities Being Cloned? — speakers: Jim Carrey, Richard Osman, Marina Hyde
 - 2026-03-16 — The Oscars: Drama, Fallout and Chalamet’s Shocker — speakers: Shocker Will, Richard Osman, Marina Hyde

@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-03-25T03:18:39+00:00`
-- checked_at: `2026-03-25T03:18:39+00:00`
-- last_modified: `Wed, 25 Mar 2026 03:00:00 GMT`
+- fetched_at: `2026-03-26T03:27:15+00:00`
+- checked_at: `2026-03-26T03:27:15+00:00`
+- last_modified: `Thu, 26 Mar 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-25T03:18:39+00:00",
+  "fetched_at": "2026-03-26T03:27:15+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,26 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "3ada2949fb652c1c7860129f7f6617862317ca85",
+      "title": "S15 Ep 804: A Couple Of Daydreamers",
+      "published_at": "2026-03-26T03:00:00+00:00",
+      "link": null,
+      "description": "We kick off today’s show with a debrief about yesterday’s trip to the Crawley Industrial Estate - which Joe absolutely loved. But it did make David realise how much of his time working there he spent daydreaming. And it turns out Joe did too, when he still had a full time job and was doing stand-up in the evenings. Then they do some more reminiscing about their 20’s, find out if there are any warthogs in the UK and discuss the strange trend of Burlesque performers in comedy clubs. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠⁠⁠YouTube⁠⁠⁠ ⁠⁠⁠Instagram⁠⁠⁠ ⁠⁠⁠TikTok⁠⁠⁠ ⁠⁠⁠Patreon⁠⁠⁠ ⁠⁠⁠Merch⁠⁠⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1784440312.mp3?updated=1773994835",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2504",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "couple",
+        "daydreamer"
+      ]
+    },
     {
       "key": "cbda3de54048f5faa1e1c1fc54d1404ad3aa88c0",
       "title": "S14 Ep 803: The Crawley Industrial Estate Tour",
@@ -14106,6 +14126,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-26 — S15 Ep 804: A Couple Of Daydreamers — speakers: Joe Wilkinson, David Earl
 - 2026-03-25 — S14 Ep 803: The Crawley Industrial Estate Tour — speakers: Tour David, Joe Wilkinson, David Earl
 - 2026-03-24 — S15 Ep 802: Generically 55 and Christian O’Connell — speakers: Joe Wilkinson, David Earl
 - 2026-03-23 — S15 Ep 801 Vault Mondays: Russell Howard's Newspaper Chairs + Beppe Di Marco — speakers: Vault Mondays, Russell Howard, Di Marco, Joe Wilkinson, David Earl

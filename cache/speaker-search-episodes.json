@@ -19069,6 +19069,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:b236368bd305",
+        "feed_title": "Comedy Slab",
+        "source_rss_url": "https://www.spreaker.com/show/3070989/episodes/feed",
+        "dedupe_key": "897248afa4422b9def6a3a7a4b1368cce11a4f48",
+        "episode_key": "897248afa4422b9def6a3a7a4b1368cce11a4f48",
+        "title": "6 - Stewart Lee's Comedy Vehicle",
+        "published_at": "2018-08-20T15:55:33Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week - Stewart Lee's Comedy Vehicle Series 2 Episode 4\n\nCreated by and starring Stewart Lee and broadcast on BBC Two, it features stand-up comedy and sketches united by a theme for each episode. It was script-edited by Chris Morris and was initially executive-produced by Armando Iannucci.\nThe BBC declined to make ",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/15529170/comedy_slab_6_stewart_lee_s_comedy_vehicle.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/6-stewart-lees-comedy-vehicle/id1419606027?i=1000418166867&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b3c2c6e0098f",
         "feed_title": "Immerse Yourself in Stories Through Sound With Full Audiobook",
         "source_rss_url": "https://hoststorage.space/tune/user/2480/index.xml",
@@ -22364,6 +22386,28 @@
         "speakers": [
           "Nish Kumar",
           "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f0f888ebb5bf",
+        "feed_title": "Changes with Annie Macmanus",
+        "source_rss_url": "https://feeds.acast.com/public/shows/181c8a66-892f-476f-8153-5785ba215e34",
+        "dedupe_key": "6d98f375c89b77232fd01c71e271dcfe91ae348f",
+        "episode_key": "6d98f375c89b77232fd01c71e271dcfe91ae348f",
+        "title": "Nish Kumar",
+        "published_at": "2023-12-11T01:00:08Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "As we get ready to bid farewell to 2023, it’s time to retrace the highs and lows of the year as we bring you our annual Changes End of Year Special! Annie is joined by comedian, tv presenter and co-host of the new political podcast Pod Save the UK, Nish Kumar. Together they dive into some of the year's biggest politica",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/findingannie/e/656f4f0cf43b7c0011501882/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar/id1465937091?i=1000638126274&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
         ],
         "topics": [],
         "external": true
