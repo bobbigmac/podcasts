@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-03-25T13:49:59+00:00`
-- checked_at: `2026-03-25T13:49:59+00:00`
+- fetched_at: `2026-03-26T07:36:35+00:00`
+- checked_at: `2026-03-26T07:36:35+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Wed, 25 Mar 2026 12:01:38 GMT`
+- last_modified: `Thu, 26 Mar 2026 07:04:45 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-25T13:49:59+00:00",
+  "fetched_at": "2026-03-26T07:36:35+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3f81f0265422c4746f16802548bbd81ec4b4c97e",
+      "title": "Dr Amir Khan",
+      "published_at": "2026-03-26T06:36:00+00:00",
+      "link": null,
+      "description": "Oh hello, and welcome back to the garden, lovely listeners. 🌱 Spring has sprung, the daffodils are doing their thing, and the doctor is in! Yes, joining me this week is the ever-delightful Dr Amir Khan . 🩺 We had a lovely chat about grief and gardening, his work with the RSPB, and what it’s like being the nation’s favourite GP. Plus, listen in to discover why a rather unfortunate rash brought Amir’s garden centre visit to an abrupt end... 👀 Now, put down that cheeky little rascal, apply your ointments, and come pottering with us... It’s very good to be back. 🌎 Get an exclusive 15% discount on your first Saily data plans! Use code tomallen at checkout. Download Saily app or go to to https://saily.com/tomallen⛵ 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And do like and subscribe, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/339a7c80-283d-11f1-8448-1f8c334d319d/image/e95a8213d79b9022d59b8866fe899e56.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR3020859349.mp3?updated=1774507581",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2950",
+      "speakers": [
+        "Amir Khan",
+        "Tom Allen"
+      ],
+      "topics": [
+        "amir",
+        "khan"
+      ]
+    },
     {
       "key": "e5495561ff2752b85a2390fb5970a7ba368c8a7f",
       "title": "The Clippings: Part 3",
@@ -588,6 +608,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-26 — Dr Amir Khan — speakers: Amir Khan, Tom Allen
 - 2026-03-19 — The Clippings: Part 3 — speakers: Whilst Pottering, Tom Allen
 - 2026-03-12 — The Clippings: Part 2 — speakers: Whilst Pottering, Tom Allen
 - 2026-03-05 — The Clippings: Part 1 — speakers: Whilst Pottering, Tom Allen

@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-03-21T09:46:28+00:00`
-- checked_at: `2026-03-21T09:46:28+00:00`
-- etag: `W/"fb24fc704caa7eb97dcd54bb6a28c79a"`
-- last_modified: `Sat, 21 Mar 2026 08:00:00 GMT`
+- fetched_at: `2026-03-26T07:36:35+00:00`
+- checked_at: `2026-03-26T07:36:35+00:00`
+- etag: `W/"58c2644eaaea1107de37fbb6f525fe64"`
+- last_modified: `Thu, 26 Mar 2026 04:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-03-21T09:46:28+00:00",
+  "fetched_at": "2026-03-26T07:36:35+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0d1ad924d2dfc3d028738d12cebe57f6162271d7",
+      "title": "Truth, Lies and Donald Trump w/Stewart Lee",
+      "published_at": "2026-03-26T04:00:00+00:00",
+      "link": "https://audioboom.com/posts/8878754",
+      "description": "Comedian and columnist Stewart Lee joins Nish and Coco to discuss the week’s big stories. They talk about Donald Trump’s deadly and yet utterly confusing war with Iran, as the US President continues to contradict his own statements about the Strait of Hormuz and peace talks, almost in the same breath. It certainly means a new, live, UK sketch show has plenty of material - but how should comedy respond to the challenging times we are all living through? Plus - why having a weekly opinion column is good for your mental health and why news organisations need to do more to tackle the lies and extreme rhetoric coming from politicians. Don’t forget to leave a review - it gives the show a boost and we love to see your comments. CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://shopify.co.uk/podsavetheuk INCOGNI: https://www.incogni.com/podsavetheuk Code: podsavetheuk GUESTS Stewart Lee, Comedian and columnist for The Nerve USEFUL LINKS Guide to Senedd voting system: https://senedd.wales/senedd-now/senedd-blog/how-will-the-new-voting-system-work-at-the-next-senedd-election/ CREDITS Saturday Night Live UK, Sky One Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43549318.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8878754.mp3?modified=1774460595&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3176",
+      "speakers": [
+        "Stewart Lee Comedian",
+        "Stewart Lee",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "truth",
+        "lies",
+        "donald",
+        "trump",
+        "stewart"
+      ]
+    },
     {
       "key": "c5465412f5b6e9258dedfade2393a0f94f7545d2",
       "title": "Can Britain’s myth and magic challenge the far right? w/ Zakia Sewell",
@@ -3631,6 +3656,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-26 — Truth, Lies and Donald Trump w/Stewart Lee — speakers: Stewart Lee Comedian, Stewart Lee, Nish Kumar, Coco Khan
 - 2026-03-21 — Can Britain’s myth and magic challenge the far right? w/ Zakia Sewell — speakers: Zakia Sewell, Nish Kumar, Coco Khan
 - 2026-03-19 — Farage’s Wild Week: energy bill stunts and questionable cameo videos — speakers: Wild Week, Nish Kumar, Coco Khan
 - 2026-03-12 — The Mandelson Files Are Out — speakers: Nish Kumar, Coco Khan

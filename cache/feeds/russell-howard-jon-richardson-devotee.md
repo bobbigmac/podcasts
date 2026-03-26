@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-26T03:27:15+00:00`
-- checked_at: `2026-03-26T03:27:15+00:00`
-- etag: `W/"24613-BRUoYKxKlOhDLdd3HQaYjvqnANY"`
+- fetched_at: `2026-03-26T07:36:35+00:00`
+- checked_at: `2026-03-26T07:36:35+00:00`
+- etag: `W/"24a98-kbMkXLHc+lrgo4maAr2CDzheKBo"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-26T03:27:15+00:00",
+  "fetched_at": "2026-03-26T07:36:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c197accdfbcf3d1d91564e0349b1b1da68b60441",
+      "title": "#40 Jon Richardson Podcast with Lloyd Langford",
+      "published_at": "2026-03-25T19:03:21+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/40-Jon-Richardson-Podcast-with-Lloyd-Langford-e3gvgk5",
+      "description": "#40 Jon Richardson Podcast with Lloyd Langford",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1774465396326-fad976a9139d9.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117473349/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-25%2Fc49bfe42-3a74-e131-580f-8174a03d828b.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53017088",
+      "itunes_duration": "01:13:36",
+      "speakers": [
+        "Lloyd Langford"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "lloyd",
+        "langford"
+      ]
+    },
     {
       "key": "39788c0608080c6bf9e15eb467e7164696093ab7",
       "title": "#38 Jon Richardson Podcast with Jeff Norsen",
@@ -2585,6 +2606,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-25 — #40 Jon Richardson Podcast with Lloyd Langford — speakers: Lloyd Langford
 - 2026-03-24 — #38 Jon Richardson Podcast with Jeff Norsen — speakers: Jeff Norsen
 - 2026-03-23 — #38 Jon Richardson Podcast with John Gordillo — speakers: John Gordillo
 - 2026-03-22 — #37 Jon Richardson Podcast with Maff Brown — speakers: Maff Brown

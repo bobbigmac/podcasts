@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-03-25T16:21:05+00:00`
-- checked_at: `2026-03-25T16:21:05+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpRME5URTNORGszTXpjPTo6c2F4ZXNz"`
+- fetched_at: `2026-03-26T07:36:35+00:00`
+- checked_at: `2026-03-26T07:36:35+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpRMU1EUTRORE0xTmpRPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-03-25T16:21:05+00:00",
+  "fetched_at": "2026-03-26T07:36:35+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "93c416abe3b00db5c1463ea160a6bb228f19f8c0",
+      "title": "What’s A Gummer?! | And Backstage at Wembley Arena",
+      "published_at": "2026-03-26T06:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/whats-a-gummer-and-backstage-at-wembley-arena",
+      "description": "Jordan has got the results from another of his \"classic\" polls, and this time it's about urinating. Meanwhile, William reveals a magically embarrassing reason for missing out on seeing the Grand Canyon as a child. The boys also respond to your correspondence on being too old for oral sex and reveal the gifts they got each other from a service station. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": "21:18",
+      "speakers": [
+        "Wembley Arena Jordan",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "gummer",
+        "backstage",
+        "wembley",
+        "arena"
+      ]
+    },
     {
       "key": "a838b6accb451e8a97ec78516a4e9fb4a4394da7",
       "title": "Help I Used Dirty Loo Roll | And We’re On The TOUR BUS!",
@@ -13966,6 +13989,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-26 — What’s A Gummer?! | And Backstage at Wembley Arena — speakers: Wembley Arena Jordan, William Hanson, Jordan North
 - 2026-03-24 — Help I Used Dirty Loo Roll | And We’re On The TOUR BUS! — speakers: William Hanson, Jordan North
 - 2026-03-20 — Old People Foreplay | And Nostalgic LADS Mags — speakers: William Hanson, Jordan North
 - 2026-03-17 — Help He Slaps His Mum’s Bum | And Jordan’s The Star ⭐️ — speakers: Mum’s Bum, William Hanson, Jordan North
