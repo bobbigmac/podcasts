@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-03-23T07:39:16+00:00`
-- checked_at: `2026-03-23T07:39:16+00:00`
-- etag: `"djEuMi4wOjE3NzQyMzY2MzkyNTM="`
+- fetched_at: `2026-03-26T13:58:42+00:00`
+- checked_at: `2026-03-26T13:58:42+00:00`
+- etag: `"djEuMi4wOjE3NzQ1MjgyMzk0NDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-03-23T07:39:16+00:00",
+  "fetched_at": "2026-03-26T13:58:42+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d37a47764503b802012580d6998b783233fc8936",
+      "title": "Serenity - Caravan Of Garbage",
+      "published_at": "2026-03-26T12:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/serenity-caravan-of-garbage",
+      "description": "Stop what you're doing everyone. It's time to continue our look at videos about video games that aren't actually based on video games. And you might be wondering what the movie Serenity for 2019 has to do with video games? It seems like some kind of beach side noir murder mystery starring a cigarette smoking Matthew McConaughey and Anne Hathaway. And yes that is true but there's also a deeper layer of story to this movie that has to be seen to be believed. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69af6d86765824af47519fb0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24697460",
+      "itunes_duration": "24:51",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "serenity",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "f53b71617b13725631576d7a91235ffd62d0d2a3",
       "title": "615 Project Hail Mary & Spider-Man: Brand New Day Trailer",
@@ -21949,6 +21970,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-26 — Serenity - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-03-23 — 615 Project Hail Mary & Spider-Man: Brand New Day Trailer — speakers: Project Hail Mary, James Clement, Nick Mason
 - 2026-03-19 — Gamer - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-03-16 — 614 How to Make a Killing & Supergirl First Reactions — speakers: Maso review, Glen Powell, James Clement, Nick Mason

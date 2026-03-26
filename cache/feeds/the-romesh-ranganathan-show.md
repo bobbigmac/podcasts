@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-03-26T10:11:52+00:00`
-- checked_at: `2026-03-26T10:11:52+00:00`
-- last_modified: `Thu, 26 Mar 2026 08:57:48 GMT`
+- fetched_at: `2026-03-26T13:58:42+00:00`
+- checked_at: `2026-03-26T13:58:42+00:00`
+- last_modified: `Thu, 26 Mar 2026 12:50:57 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/c4cfe1bfcc9a4011d72f8fe272266dac.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-26T10:11:52+00:00",
+  "fetched_at": "2026-03-26T13:58:42+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -31,9 +31,9 @@
       "title": "The Birthday Episode Romesh Didn’t Want",
       "published_at": "2026-03-26T00:01:00+00:00",
       "link": null,
-      "description": "Romesh doesn’t like celebrating his birthday… unfortunately the team had other plans. In this chaotic birthday special, Romesh is joined once again by brother Dinesh and mum Shanthi, discussing everything from family pranking history and gardening to debating who would survive prison time and how. You can expect lots of birthday fun, lots of push back from Romesh, some questionable birthday gifts and a bizarre role play. Plus: Some Tamil and wedding song recommendations and Romesh being a birthday diva. A Ranga Bee Production in partnership with Platform Media. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Romesh doesn’t like celebrating his birthday… unfortunately the team had other plans. In this chaotic birthday special, Romesh is joined once again by brother Dinesh and mum Shanthi, discussing everything from family pranking history and gardening to debating who would survive prison time and how. You can expect lots of birthday fun, lots of push back from Romesh, some questionable birthday gifts and a bizarre role play. Plus: Some Tamil and wedding song recommendations and Romesh being a birthday diva. A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 01:51 Romesh doesn’t like celebrating his birthday 02:20 Shanthi’s new look 05:54 Dinesh is back 06:37 The team celebrate Romesh’s birthday 07:57 Gift giving for Romesh 12:58 A podcast milestone 14:20 Tom Allen’s gift 15:36 Shanthi on gardener 18:16 Romesh being a diva 18:39 The Ranganathan’s play ‘Most Likely To...' 20:24 Is Romesh ready to die? 23:05 Is Shanthi lying about her age? 24:14 A Sri Lankan party role play 32:20 The family answer questions from you 34:10 Romesh’s pranks and his dad’s sex advice 37:22 Shanthi’s best prank moments 38:18 Who would last longest in prison? 41:11 Tamil song recommendations 44:07 The best wedding songs 45:48 An ending from Dinesh Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/d20e2912-2896-11f1-b9f5-4b0ff8d4f8da/image/773670917fc723b03d8dbf44302e168c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8498123474.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8498123474.mp3?updated=1774529464",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3113",
