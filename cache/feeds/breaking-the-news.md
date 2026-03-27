@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-03-20T15:58:51+00:00`
-- checked_at: `2026-03-20T15:58:51+00:00`
-- etag: `"a8c05d2322de06027cf1851f1c886434"`
-- last_modified: `Fri, 20 Mar 2026 14:06:09 GMT`
+- fetched_at: `2026-03-27T16:06:43+00:00`
+- checked_at: `2026-03-27T16:06:43+00:00`
+- etag: `"e9f344ff93aba6206f009e5e359b348e"`
+- last_modified: `Fri, 27 Mar 2026 14:01:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-03-20T15:58:51+00:00",
+  "fetched_at": "2026-03-27T16:06:43+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -30,6 +30,36 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "674f77d903a55fb4ec1a17889f4aa2213944573d",
+      "title": "Glasgow International Comedy Festival Special: Susie McCabe, Aurie Styla, Tiffany Stevenson and Rosco McClelland",
+      "published_at": "2026-03-27T14:01:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002t2f4",
+      "description": "Des and the teams are at the Glasgow International Comedy Festival to break up the week's big news, including: confusion over what is happening in the Middle East; the new men's Scotland top; partying OAPs and more. Lead Writer: Nathan Cowley Additional material: Chris Stanners; Chris Willshaw; Lee Jevon; Garth Apthomas; Rebecca Bain; Alex Garrick-Wright; Gregor Paton; Alex Buchanan; Mark Granger; Jon Paisley; Archie Keen; Neil Bratchpiece Producer: Lauren Mackay Senior Producer: David Flynn Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n956wm.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Susie McCabe",
+        "Aurie Styla",
+        "Rosco McClelland",
+        "Bbc Radio Scotland"
+      ],
+      "topics": [
+        "glasgow",
+        "international",
+        "comedy",
+        "festival",
+        "special",
+        "susie",
+        "mccabe",
+        "aurie",
+        "styla",
+        "tiffany"
+      ]
+    },
     {
       "key": "d3a5e69ac463b229da0a92b2249e654c7375b8d8",
       "title": "Glasgow International Comedy Festival Special: Raymond Mearns, Madeleine Brettingham, Ignacio Lopez and Alexandra Haddow",
@@ -201,6 +231,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — Glasgow International Comedy Festival Special: Susie McCabe, Aurie Styla, Tiffany Stevenson and Rosco McClelland — speakers: Susie McCabe, Aurie Styla, Rosco McClelland, Bbc Radio Scotland
 - 2026-03-20 — Glasgow International Comedy Festival Special: Raymond Mearns, Madeleine Brettingham, Ignacio Lopez and Alexandra Haddow — speakers: Raymond Mearns, Madeleine Brettingham, Ignacio Lopez, Alexandra Haddow Des, Bbc Radio Scotland
 - 2026-03-13 — Glasgow International Comedy Festival Special: Ashley Storrie, Jim Smith, Elaine Malcolmson and Chris Thorburn — speakers: Ashley Storrie, Jim Smith, Elaine Malcolmson, Chris Thorburn, Bbc Radio Scotland
 - 2026-03-06 — Felicity Ward, Mark Nelson, Kathleen Hughes and James Gardner — speakers: Mark Nelson, Kathleen Hughes, James Gardner Des, Bbc Radio Scotland
