@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-03-24T03:13:25+00:00`
-- checked_at: `2026-03-24T03:13:25+00:00`
-- last_modified: `Tue, 24 Mar 2026 00:27:18 GMT`
+- fetched_at: `2026-03-27T10:06:33+00:00`
+- checked_at: `2026-03-27T10:06:33+00:00`
+- last_modified: `Fri, 27 Mar 2026 08:22:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-24T03:13:25+00:00",
+  "fetched_at": "2026-03-27T10:06:33+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1f4359b27c4594525d4b30163ce1be489dc5ceaf",
+      "title": "The Manosphere & Men's Fashion Over 40",
+      "published_at": "2026-03-27T08:19:00+00:00",
+      "link": null,
+      "description": "What do Rom and Tom make of the manosphere? Can you dress well after 40? And are they role models whether they like it or not? Rom and Tom have been watching Louis Theroux and they’ve got thoughts on the manosphere. A listener wants help finding their personal style in mid-life. And someone’s sent in a comic strip of Romesh’s stand-up. If you’ve got a problem you need solving or a burning question, the Wolf and the Owl are here for you every week. Just email us at wolfowlpod@gmail.com A Ranga Bee Production in partnership with Platform Media 00:36 Rom's comic strip 03:08 Are Rom & Tom proud of their stand up? 09:30 Louis Theroux's Inside The Manosphere 19:59 Men's fashion over 40 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9d85f44e-29b4-11f1-8346-c7bccc301dfb/image/5efa7991fd712d1a9edb91de273af5eb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4547027564.mp3?updated=1774599913",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1632",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "manosphere",
+        "fashion"
+      ]
+    },
     {
       "key": "e9a54b155d81588dde9354e29dcbe271f5f4caf5",
       "title": "Horny dreams, zombie apocalypses and school parties",
@@ -6381,6 +6401,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — The Manosphere & Men's Fashion Over 40 — speakers: Romesh Ranganathan, Tom Davis
 - 2026-03-24 — Horny dreams, zombie apocalypses and school parties — speakers: Romesh Ranganathan, Tom Davis
 - 2026-03-20 — Toilet emergencies, PhDs and Bon Jovi — speakers: Bon Jovi, Romesh Ranganathan, Tom Davis
 - 2026-03-17 — The Banter Cannon, the Guff Lounge and the Mullet — speakers: Guff Lounge, Mullet Too, Romesh Ranganathan, Tom Davis

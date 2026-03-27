@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-03-27T07:35:08+00:00`
-- checked_at: `2026-03-27T07:35:08+00:00`
-- last_modified: `Fri, 27 Mar 2026 04:08:01 GMT`
+- fetched_at: `2026-03-27T10:06:33+00:00`
+- checked_at: `2026-03-27T10:06:33+00:00`
+- last_modified: `Fri, 27 Mar 2026 09:21:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ee65a822a2cfcdbd2a17ff6865516c56.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-27T07:35:08+00:00",
+  "fetched_at": "2026-03-27T10:06:33+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cfd8ddeabb2f27142d81e1aa8db4c145db40fb2a",
+      "title": "S12 EP24: Chantel Nash",
+      "published_at": "2026-03-27T08:45:00+00:00",
+      "link": null,
+      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) it's the brilliant comedian - Chantel Nash. www.instagram.com/chantelnashdoesfunnies Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7564866487.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3337",
+      "speakers": [
+        "Chantel Nash",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "chantel",
+        "nash"
+      ]
+    },
     {
       "key": "7c43783409cc73dd038234616ce81076bfb86d84",
       "title": "S12 EP23: The One Where Rob Poops The Bed",
@@ -12085,6 +12106,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — S12 EP24: Chantel Nash — speakers: Chantel Nash, Rob Beckett, Josh Widdicombe
 - 2026-03-24 — S12 EP23: The One Where Rob Poops The Bed — speakers: Rob Beckett, Josh Widdicombe
 - 2026-03-20 — S12 EP22: Lauren Laverne — speakers: Lauren Laverne, Rob Beckett, Josh Widdicombe
 - 2026-03-17 — S12 EP21: What is this life? — speakers: Rob Beckett, Josh Widdicombe
