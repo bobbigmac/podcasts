@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-03-25T03:18:39+00:00`
-- checked_at: `2026-03-25T03:18:39+00:00`
-- etag: `"djEuMi4wOjE3NzQzOTc5NzkzMTc="`
+- fetched_at: `2026-03-27T03:29:59+00:00`
+- checked_at: `2026-03-27T03:29:59+00:00`
+- etag: `"djEuMi4wOjE3NzQ1NzE0MzkzNzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "Join Elis James, Mike Bubbins and Steff Garrero in Award winning Podcast \"The Socially Distant Sports Bar\". It's a Comedy & Sports Podcast, but you don't have to like Sports to LOVE it. Comedians Elis James (BBC 5Live, Sky TV's Fantasy Football League) & Mike Bubbins (BBC's Mammoth) are \"Unreasonably hilarious\" The Telegraph. \"Elis James, Mike Bubbins and Steff Garrero created a haven where they ramble on about classic clips and random recollections.\" The Guardian Known to fans as Distant Pod it has won awards at the Sports Podcast Awards & Pod Bible Awards. Hosts of \"Down The Clubhouse\" on TNT Sport another Comedy & Sports show. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-03-25T03:18:39+00:00",
+  "fetched_at": "2026-03-27T03:29:59+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,25 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "99b8fc08b1b8d7b68377f205c2b99dd66e347d7a",
+      "title": "The 20% (pt 2)",
+      "published_at": "2026-03-27T00:30:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/the-20-pt-2",
+      "description": "Still gloriously obsessed with the brilliance and absurdity of sport, Distant Pod continues to explore the clips, stories and ideas that make sport endlessly fascinating. 🎟️ Hackney tickets: https://www.hackneyempire.co.uk/events/the-socially-distant-sports-bar-live 🎤 Mike tour: https://mikebubbins.com/ ❤️ Tops Off Vic fundraiser: https://www.justgiving.com/page/kelly-bubbins-2?utm_medium=FR&utm_source=EM&utm_campaign=020 🎧 PART 2 Elis’s documentary pick is Jim Mills: Jacko’s Sporting Almanac , a deep dive into one of sport’s great collectors and chroniclers. https://www.bbc.co.uk/sounds/play/b08qggc1?partner=uk.co.bbc&origin=share-mobile Steff’s book this week is Good Coach, Bad Coach by Simon Harling , exploring what separates effective coaching from the rest — and what really drives performance. https://store.simonharling.blog/ 🔒 Join Distant Pod Bonus Club on Apple Podcasts for early access, ad-free listening, and Part 3 every week as a bonus episode. Click here for a NORD VPN deal https://nordvpn.com/distant CLICK HERE TO SEE CRWST's SELECTION https://crwst.cymru/collections/shop-all 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com 🎟️ TOUR 2026 Live shows are coming! 🎫 Tickets available now at distantpod.com/live Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69c15931d832f1da93b8930f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77273280",
+      "itunes_duration": "32:11",
+      "speakers": [
+        "Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": []
+    },
     {
       "key": "b9f87e9b74c5684e456d7a0d6b5f6597bb41cd4e",
       "title": "The 20% (pt 1)",
@@ -14305,6 +14324,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — The 20% (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-25 — The 20% (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-22 — Philosopher: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-20 — Sondico Mills & Boons (Pt 2) — speakers: Sondico Mills, Apple Podcasts, Elis James, Mike Bubbins, Steff Garrero

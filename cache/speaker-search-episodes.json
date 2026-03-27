@@ -17216,6 +17216,50 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:86e8d6833f90",
+        "feed_title": "Strong Message Here",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
+        "dedupe_key": "05c5013e48da1f82b428a62f506404bfa340a0df",
+        "episode_key": "05c5013e48da1f82b428a62f506404bfa340a0df",
+        "title": "We're Here to Listen (with Stewart Lee in Laugharne)",
+        "published_at": "2026-03-26T09:45:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Armando is joined by Stewart Lee at the Millennium Hall in Laugharne.\nTaking the audience's most loathed political soundbites, we discuss 'existential threats', 'let me be clear', and 'we're working very hard'.\nWe also hear about Armando's train driver getting caught in an infinity loop, treating Nicky Wire with the gr",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n8n7sf.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/were-here-to-listen-with-stewart-lee-in-laugharne/id1774462541?i=1000757472633&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:9eb57c7b46ac",
+        "feed_title": "Pod Save the UK",
+        "source_rss_url": "https://audioboom.com/channels/5166011.rss",
+        "dedupe_key": "07c03a2c526bf7f2b50399813b8ed280a199a5be",
+        "episode_key": "07c03a2c526bf7f2b50399813b8ed280a199a5be",
+        "title": "Truth, Lies and Donald Trump w/ Stewart Lee",
+        "published_at": "2026-03-26T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian and columnist Stewart Lee joins Nish and Coco to discuss the week’s big stories.\nThey talk about Donald Trump’s deadly and yet utterly confusing war with Iran, as the US President continues to contradict his own statements about the Strait of Hormuz and peace talks, almost in the same breath. \nIt certainly mea",
+        "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8878754.mp3?modified=1774460595&sid=5166011&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/truth-lies-and-donald-trump-w-stewart-lee/id1683411536?i=1000757418144&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:ff10e364941c",
         "feed_title": "The Louis Theroux Podcast",
         "source_rss_url": "https://feeds.megaphone.fm/GLT1948741183",
@@ -17547,6 +17591,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:c3609c3b7c4f",
+        "feed_title": "Class Clown",
+        "source_rss_url": "https://feeds.megaphone.fm/APL3984327377",
+        "dedupe_key": "1dbd96a73a9b50a2f54d36d8d6a79025ac6baed9",
+        "episode_key": "1dbd96a73a9b50a2f54d36d8d6a79025ac6baed9",
+        "title": "2025 Best Moments: Stewart Lee, Romesh, Ross Noble, Vittorio Angelone etc.",
+        "published_at": "2025-12-29T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Romesh Ranganthan, Stewart Lee, Ross Noble, Adam Rowe, Boy George, Russell Kane, Vittorio Angelone, Red Richardson and Joanne McNally reveal the key moments from their childhood that shaped their character and influenced the success they each have enjoyed in their career.\n\nDon't forget to catch the brand new YouTube sp",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL4483096701.mp3?updated=1774542614",
+        "link_url": "https://podcasts.apple.com/gb/podcast/2025-best-moments-stewart-lee-romesh-ross-noble-vittorio/id1815770286?i=1000742989446&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:86e8d6833f90",
         "feed_title": "Strong Message Here",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
@@ -17668,6 +17734,28 @@
         "feed_image_url": null,
         "description": "In Part 2 of our Horatio Gould interview he talks first fights, first kisses, the significance of his early crush on Jennifer Lawrence and how Monty Python, Stewart Lee and Michael McIntyre influenced his comedy career. He also shares the story of how putting a play on for his school might be the highlight of his caree",
         "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1080149858.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/horatio-gould-pt-2-how-stewart-lee-and-michael/id1815770286?i=1000733650749&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:c3609c3b7c4f",
+        "feed_title": "Class Clown",
+        "source_rss_url": "https://feeds.megaphone.fm/APL3984327377",
+        "dedupe_key": "df4d024f824a69110ccacbd3091355649f56cb9e",
+        "episode_key": "df4d024f824a69110ccacbd3091355649f56cb9e",
+        "title": "HORATIO GOULD (Pt 2): How Stewart Lee and Michael McIntyre influenced My Comedy & Advice For Achieving Success",
+        "published_at": "2025-10-27T06:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In Part 2 of our Horatio Gould interview he talks first fights, first kisses, the significance of his early crush on Jennifer Lawrence and how Monty Python, Stewart Lee and Michael McIntyre influenced his comedy career. He also shares the story of how putting a play on for his school might be the highlight of his caree",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1080149858.mp3?updated=1774541849",
         "link_url": "https://podcasts.apple.com/gb/podcast/horatio-gould-pt-2-how-stewart-lee-and-michael/id1815770286?i=1000733650749&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,

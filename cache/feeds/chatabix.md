@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-03-26T03:27:15+00:00`
-- checked_at: `2026-03-26T03:27:15+00:00`
-- last_modified: `Thu, 26 Mar 2026 03:00:00 GMT`
+- fetched_at: `2026-03-27T03:29:59+00:00`
+- checked_at: `2026-03-27T03:29:59+00:00`
+- last_modified: `Fri, 27 Mar 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-26T03:27:15+00:00",
+  "fetched_at": "2026-03-27T03:29:59+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,31 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "068f6c60b7f88792fd0799627fb51a507d403417",
+      "title": "S15 Ep 805 Mailbag Fridays: Celebrity Stories and a Missing Gall Bladder",
+      "published_at": "2026-03-27T03:00:00+00:00",
+      "link": null,
+      "description": "In today’s selection of slightly baffling emails from the Chatabix Mailbag, there’s a picture of Joe with Joe Mahler, some celebrity holiday spots, a telling off story, Peter Andre’s brother, Helen Mirren’s bath, Chris Eubank’s phone number and a missing gall bladder. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6399311351.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1314",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "mailbag",
+        "fridays",
+        "celebrity",
+        "stories",
+        "missing",
+        "gall",
+        "bladder"
+      ]
+    },
     {
       "key": "3ada2949fb652c1c7860129f7f6617862317ca85",
       "title": "S15 Ep 804: A Couple Of Daydreamers",
@@ -14126,6 +14151,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — S15 Ep 805 Mailbag Fridays: Celebrity Stories and a Missing Gall Bladder — speakers: Joe Wilkinson, David Earl
 - 2026-03-26 — S15 Ep 804: A Couple Of Daydreamers — speakers: Joe Wilkinson, David Earl
 - 2026-03-25 — S14 Ep 803: The Crawley Industrial Estate Tour — speakers: Tour David, Joe Wilkinson, David Earl
 - 2026-03-24 — S15 Ep 802: Generically 55 and Christian O’Connell — speakers: Joe Wilkinson, David Earl

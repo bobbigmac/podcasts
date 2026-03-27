@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-03-26T21:46:11+00:00`
-- checked_at: `2026-03-26T21:46:11+00:00`
-- etag: `"djEuMi4wOjE3NzQ1NTc1MTI0Mzc="`
+- fetched_at: `2026-03-27T03:29:59+00:00`
+- checked_at: `2026-03-27T03:29:59+00:00`
+- etag: `"djEuMi4wOjE3NzQ1Njk3NjAwMjk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-03-26T21:46:11+00:00",
+  "fetched_at": "2026-03-27T03:29:59+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4d902980ee180ab8ff44142b094bd3f8c03bf118",
+      "title": "Ep. 573 - Katie Wimpenny - Just finished 2 years in Harry Potter and The Cursed Child",
+      "published_at": "2026-03-27T00:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-573-katie-wimpenny-just-finished-2-years-in-harry-potter",
+      "description": "Katie Wimpenny is an actor and writer who’s just finished a two year run in the West End in Harry Potter and The Cursed Child. She’s also been in Doctors, Emmerdale, Holby City, Marchlands, The Bill, Shameless, Hustle, North and South and Wire in the Blood. Katie is in the new short film Joke by Bob Cryer, a tribute to the jokes of his dad, Barry Cryer, alongside Rebecca Front, Sophie Duker, Justin Edwards, Ashley Taylor Dawson, Les Dennis, Judi Dench, Miles Jupp, Stephen Fry, Michael Palin, Jack Docherty, Harry Hill, Alison Steadman and Michael Fenton Stevens. Katie’s first short film, Time Away was funded by The BFI, produced by Adrian Bate at Vox Pictures and directed by Maxine Peake. The film premiered at Edinburgh Film Festival, 2018. It also screened at Bolton Film Festival, BFI, London Short Film Festival, Hebden Bridge and The Underwire Festival at which she was nominated for best screenwriter . Katie Wimpenny is our guest in episode 573 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Follow Katie Wimpenny on Instagram : @katieleewimpenny . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69c59948f4bf09c5999f7cef/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119891507",
+      "itunes_duration": "49:57",
+      "speakers": [
+        "Katie Wimpenny Just",
+        "Katie Wimpenny"
+      ],
+      "topics": [
+        "katie",
+        "wimpenny",
+        "year",
+        "harry",
+        "potter",
+        "cursed",
+        "child"
+      ]
+    },
     {
       "key": "e227bc03b4b01f25211c673b5074f85d131270ef",
       "title": "Ep. 572 - Toby Anstis - From CBBC’s Broom Cupboard to 25 years at Heart Radio",
@@ -12187,6 +12212,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — Ep. 573 - Katie Wimpenny - Just finished 2 years in Harry Potter and The Cursed Child — speakers: Katie Wimpenny Just, Katie Wimpenny
 - 2026-03-23 — Ep. 572 - Toby Anstis - From CBBC’s Broom Cupboard to 25 years at Heart Radio
 - 2026-03-20 — Ep. 571 - Rosalie Minnitt - Award-winning comedy performer, best known for her character Clementine — speakers: Rosalie Minnitt
 - 2026-03-16 — Ep. 570 - Davina Bentley - One of The Telegraph’s “Five Young Sketch Comedians to Watch.” — speakers: Davina Bentley
