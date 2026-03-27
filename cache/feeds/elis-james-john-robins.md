@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-03-24T16:17:58+00:00`
-- checked_at: `2026-03-24T16:17:58+00:00`
-- etag: `"aeac503d5c054f5e39e5c97af01e6f4b"`
-- last_modified: `Tue, 24 Mar 2026 16:05:03 GMT`
+- fetched_at: `2026-03-27T19:11:47+00:00`
+- checked_at: `2026-03-27T19:11:47+00:00`
+- etag: `"487fd4f6b285fa12a386ad62ec739857"`
+- last_modified: `Fri, 27 Mar 2026 17:35:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-03-24T16:17:58+00:00",
+  "fetched_at": "2026-03-27T19:11:47+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -29,6 +29,29 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "eaed4e8fc1ceeefee906b6892a3208707265ae43",
+      "title": "#526 - Huw Bris, Sir Psycho Sexy and Your Mexico 86",
+      "published_at": "2026-03-27T17:35:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n96rq6",
+      "description": "“You were hungover thinking about darts.” “You are scum.” “You are a waste that has wasted himself.” “How do you like that John?” “Why don’t you just melt in the park you never walked through enough 21 years ago?” “You complete piece of S.” From that exchange you wouldn’t think it would be a philosophical episode. However it is. It's deep. It’s a privilege, despair, sadness, nostalgia fest. And for once, the despair isn’t coming from John. You’ve got the Bosnians to thank for that. It’s also Edin Dzeko’s fault as to why Elis is dressed as a man who runs a community farm. Elsewhere Dave gets some coaching off a much speedier runner, John couldn’t leave his bed because he had an enjoyable visit to his old university college, and we have a reappraisal of Mellowship Slinky in B major. And finally, do we have a companion podcast to ‘A History of Nudity in a Thousand Beautiful Women with John Robins’? Because, after all, you simply must have two episodes a week these days. Get your Bureau when it’s piping hot on Saturday mornings, only on BBC Sounds, and if you want to drop anything down into our digital postal chutes then wang it over to elisandjohn@bbc.co.uk.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9717s.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61824000",
+      "itunes_duration": "3864",
+      "speakers": [
+        "Psycho Sexy",
+        "Elis James",
+        "John Robins"
+      ],
+      "topics": [
+        "bris",
+        "psycho",
+        "sexy",
+        "mexico"
+      ]
+    },
     {
       "key": "2707920151200c8fe92af36df3d6e6b810a98535",
       "title": "#525 - Lostalgia, Fornication Nation and Narberth to Nefyn Nude",
@@ -12709,6 +12732,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — #526 - Huw Bris, Sir Psycho Sexy and Your Mexico 86 — speakers: Psycho Sexy, Elis James, John Robins
 - 2026-03-24 — #525 - Lostalgia, Fornication Nation and Narberth to Nefyn Nude — speakers: Fornication Nation, Nefyn Nude Elis, Elis James, John Robins
 - 2026-03-20 — #524 - The Purple Pill, Hits & Mems and John Robins In The Manosphere — speakers: John Robins, Elis James
 - 2026-03-17 — #523 - Tender Thomas, A Good Beast and Checkout Confidential — speakers: Checkout Confidential, Elis James, John Robins
