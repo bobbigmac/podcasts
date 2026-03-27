@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-26T13:58:42+00:00`
-- checked_at: `2026-03-26T13:58:42+00:00`
-- etag: `"djEuMi4wOjE3NzQ1MzI4MTE0MTA="`
+- fetched_at: `2026-03-27T13:43:23+00:00`
+- checked_at: `2026-03-27T13:43:23+00:00`
+- etag: `"djEuMi4wOjE3NzQ2MTY0Mzk2MTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-26T13:58:42+00:00",
+  "fetched_at": "2026-03-27T13:43:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "de6e293b865aecdd474155f9f9eff174d623dc31",
+      "title": "Populism is taking over Britain. This is how we stop it | Liam Byrne interview",
+      "published_at": "2026-03-27T13:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69c6569b26c1fb9c07c19a9e",
+      "description": "Liam Byrne is a Labour MP and the chair of the Commons Business and Trade Committee. He came by the studio to speak to Ava about his new book, Why Populists are Winning. In a wide ranging conversation, Liam and Ava break down Labour's victories and losses in the last 18 months, how operators on the left and right have capitalised on the actions of the government, and how the government come back from a slew of bad results at the polls. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69c6569b26c1fb9c07c19a9e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40125589",
+      "itunes_duration": "27:50",
+      "speakers": [
+        "Liam Byrne"
+      ],
+      "topics": [
+        "populism",
+        "britain",
+        "liam",
+        "byrne"
+      ]
+    },
     {
       "key": "3fa1fb5499c6a175db2c9ed02ceeb27ca8c6773f",
       "title": "Yanis Varoufakis: Europe is pathetic in face of Trump's fascism",
@@ -12239,6 +12260,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — Populism is taking over Britain. This is how we stop it | Liam Byrne interview — speakers: Liam Byrne
 - 2026-03-26 — Yanis Varoufakis: Europe is pathetic in face of Trump's fascism — speakers: Zack Polanski, Jeremy Corbyn
 - 2026-03-25 — Is Kemi Badenoch getting WORSE at her job? | PMQs Analysis
 - 2026-03-24 — Donald Trump's plan for Iran is doomed to fail | Daniel Levy interview — speakers: Daniel Levy

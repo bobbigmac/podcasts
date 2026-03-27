@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-03-26T10:11:52+00:00`
-- checked_at: `2026-03-26T10:11:52+00:00`
-- last_modified: `Thu, 26 Mar 2026 09:00:00 GMT`
+- fetched_at: `2026-03-27T13:43:23+00:00`
+- checked_at: `2026-03-27T13:43:23+00:00`
+- last_modified: `Fri, 27 Mar 2026 11:58:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-26T10:11:52+00:00",
+  "fetched_at": "2026-03-27T13:43:23+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -29,7 +29,7 @@
   "episodes": [
     {
       "key": "ba8c845fd1046040fe56cf85572a4e122fb95bb9",
-      "title": "You’re Not Sharing Enough",
+      "title": "The Surprising Power of Oversharing",
       "published_at": "2026-03-26T09:00:00+00:00",
       "link": null,
       "description": "We’ve been told that “oversharing” (TMI) is a social sin. But our guest today, Leslie John, who teaches at Harvard Business School, argues that TLI (Too Little Information) is far more dangerous. In her new book, Revealing: The Underrated Power of Oversharing , she shows how personal, vulnerable, even uncomfortable disclosures are the wellspring of trust, friendship, romance, and professional success. Watch The Next Big Idea on YouTube! You can find our episodes ⁠⁠⁠⁠⁠here⁠⁠⁠⁠⁠ . Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠. We love getting fan mail. Sponsored By: Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠⁠meetfabric.com/nbi⁠⁠ Factor — Head to ⁠⁠⁠factormeals.com/idea50off⁠⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠⁠granola.ai/idea⁠⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠⁠",
@@ -44,9 +44,9 @@
         "Caleb Bissinger"
       ],
       "topics": [
-        "youre",
-        "sharing",
-        "enough"
+        "surprising",
+        "power",
+        "oversharing"
       ]
     },
     {
@@ -7421,7 +7421,7 @@
 
 ## Episodes (newest first)
 
-- 2026-03-26 — You’re Not Sharing Enough — speakers: Leslie John, Rufus Griscom, Caleb Bissinger
+- 2026-03-26 — The Surprising Power of Oversharing — speakers: Leslie John, Rufus Griscom, Caleb Bissinger
 - 2026-03-23 — How a Mormon Journalist Became a Degenerate Gambler — speakers: Mormon Journalist Became, Supreme Court, Rufus Griscom, Caleb Bissinger
 - 2026-03-19 — Michael Pollan on Food, Psychedelics and His Next Book — speakers: Michael Pollan, Rufus Griscom, Caleb Bissinger
 - 2026-03-16 — The Story of Stories — speakers: Stories What, Rufus Griscom, Caleb Bissinger

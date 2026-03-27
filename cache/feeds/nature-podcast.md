@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-03-25T16:21:05+00:00`
-- checked_at: `2026-03-25T16:21:05+00:00`
-- etag: `"djEuMi4wOjE3NzQ0NTQ0Mzk2MTE="`
+- fetched_at: `2026-03-27T13:43:23+00:00`
+- checked_at: `2026-03-27T13:43:23+00:00`
+- etag: `"djEuMi4wOjE3NzQ2MTY2NjA1MzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-03-25T16:21:05+00:00",
+  "fetched_at": "2026-03-27T13:43:23+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,28 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "5d57772b34333c6e781ed88cfeec1bcfb6d7d1ab",
+      "title": "Briefing Chat: ‘Zombie cells’ resurrected with new genes",
+      "published_at": "2026-03-27T13:00:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-00996-w",
+      "description": "Nature staff discuss some of the week's top science news. 00:18 ‘Zombie cells’ revived with genome transplant Nature: ‘Zombie cells’ return from the dead — after a genome transplant 05:27 A limit to cloning, in mice Nature: Can a mouse be cloned indefinitely? Decades-long experiment has answers Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1774616655006-f019d71f-5083-4c9f-8593-b9733deee8e2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69c67fa388f1e89132615cf7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "5289900",
+      "itunes_duration": "11:01",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "chat",
+        "zombie",
+        "cell",
+        "gene"
+      ]
+    },
     {
       "key": "79f666948067c7b7a43bc427ddddb289fc0c3834",
       "title": "Why insects aren't huge: a new challenge to a decades-old idea",
@@ -19315,6 +19337,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — Briefing Chat: ‘Zombie cells’ resurrected with new genes — speakers: Benjamin Thompson, Noah Baker
 - 2026-03-25 — Why insects aren't huge: a new challenge to a decades-old idea — speakers: Research Article, Research Highlights Nature, Benjamin Thompson, Noah Baker
 - 2026-03-20 — Briefing Chat: Are scientists funny? The evidence is in — and it's no joke — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
 - 2026-03-18 — Botanical mystery solved: how plants make a crucial malaria drug — speakers: Research Article, Benjamin Thompson, Noah Baker

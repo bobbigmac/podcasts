@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-03-27T03:29:59+00:00`
-- checked_at: `2026-03-27T03:29:59+00:00`
-- etag: `W/"a4db5c869e9a48fa9d265449f384bfb2"`
-- last_modified: `Thu, 26 Mar 2026 23:55:00 GMT`
+- fetched_at: `2026-03-27T13:43:23+00:00`
+- checked_at: `2026-03-27T13:43:23+00:00`
+- etag: `W/"020e1b69c98b9f681baeee0e462455a3"`
+- last_modified: `Fri, 27 Mar 2026 12:04:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-03-27T03:29:59+00:00",
+  "fetched_at": "2026-03-27T13:43:23+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -36,9 +36,9 @@
       "title": "No Such Thing As Doing A Solzhenitsyn",
       "published_at": "2026-03-26T23:55:00+00:00",
       "link": "https://audioboom.com/posts/8879242",
-      "description": "Daliso Chaponda joins Dan, James and Andy to discuss space, scrabble, smuggling and cichlids. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "description": "Daliso Chaponda joins Dan, James and Andy to discuss space, scrabble, smuggling and cichlids. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Thanks to the National Space Centre for the use of the BIS spacesuit image.",
       "image_url": "https://audioboom.com/i/43551214.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8879242.mp3?modified=1774544133&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8879242.mp3?modified=1774611063&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3447",
