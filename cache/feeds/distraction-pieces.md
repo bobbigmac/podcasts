@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-03-27T03:29:59+00:00`
-- checked_at: `2026-03-27T03:29:59+00:00`
-- etag: `"djEuMi4wOjE3NzQ1NjQ1NDcxMDY="`
+- fetched_at: `2026-03-27T07:35:08+00:00`
+- checked_at: `2026-03-27T07:35:08+00:00`
+- etag: `"djEuMi4wOjE3NzQ1ODQwOTkyNDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-03-27T03:29:59+00:00",
+  "fetched_at": "2026-03-27T07:35:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "94ddd7abdabd02f371035d5e2cafadae0bd23593",
+      "title": "FULL FACT.org (independent fact checkers & campaigners) • Friday Rewind",
+      "published_at": "2026-03-27T04:01:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Will & Phoebe of FULL FACT.ORG , originally episode 13 from 2015-01-07. As Pip mentions on the intro, it is quite a weird episode. This is of course not down the awesome guests representing FullFact, but more down to how drastically the media and basic human landscape has changed since the episode was broadcast 11 years ago. We've seen how much can change in a week - so with our perspective over a decade later, it's like stepping back into a very bizarre alternative timeline. What's weird is that the phrase \"fake news\" was a mere glint in some shady folks eyes, and also that this chat happened 5 years before a pandemic, which was where misinformation truly had its time in the sun. Let alone artificial intelligence. This is some novel-worthy stuff right here. Anyway - without getting too caught up in all of the chaos, FullFact is a VERY important organisation who specialise in neutralising dis/mis-information and set out to fully fact check what gets out there, so listen knowing that you can and should check in on their site regularly. It's not a grift, it's not a hoax, it's an honest place where bullshit goes to die. They can use that if they want (it's good right?). ENJOY! PIP'S PATREON PAGE if you're of a supporting nature FULLFACT INSTAGRAM PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1774563377178-0bbed06c-31fb-43c1-83d6-490f242ab969.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69c5b4c326c1fb9c07920b88/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134243563",
+      "itunes_duration": "55:52",
+      "speakers": [],
+      "topics": [
+        "fact",
+        "checker",
+        "campaigner",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "0fb2a56d88dab6dd1e0d25dcb54d4e435ea8b5cd",
       "title": "ANSON BOON • 'The Good Boy' in cinemas now! (MobLand / Pistol / 1917) #664",
@@ -18468,6 +18488,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — FULL FACT.org (independent fact checkers & campaigners) • Friday Rewind
 - 2026-03-25 — ANSON BOON • 'The Good Boy' in cinemas now! (MobLand / Pistol / 1917) #664
 - 2026-03-20 — SHAGGY (It Wasn't Me / Boombastic / Oh! Carolina) • Friday Rewind
 - 2026-03-18 — FATIHA EL-GHORRI • 'Cockney Stacking Doll' tour happening now near you! #663

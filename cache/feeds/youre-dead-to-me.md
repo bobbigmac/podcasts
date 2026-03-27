@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-03-20T07:13:50+00:00`
-- checked_at: `2026-03-20T07:13:50+00:00`
-- etag: `"0c32c6951ee420c0fb5ed67d65ed7878"`
-- last_modified: `Fri, 20 Mar 2026 06:00:05 GMT`
+- fetched_at: `2026-03-27T07:35:08+00:00`
+- checked_at: `2026-03-27T07:35:08+00:00`
+- etag: `"3c6409ed022996b7b1a1293143ebea0f"`
+- last_modified: `Fri, 27 Mar 2026 06:00:17 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1pytt.jpg",
-  "fetched_at": "2026-03-20T07:13:50+00:00",
+  "fetched_at": "2026-03-27T07:35:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,28 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "a67a4f0f92acd23a3e94b534de22c1d719d390e5",
+      "title": "History of the Telephone: 150th anniversary special",
+      "published_at": "2026-03-27T06:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002s35n",
+      "description": "For our 150th episode, Greg Jenner is joined by historian Professor Iwan Morus and comedian Catherine Bohart to learn about the history of the telephone on its 150th anniversary. The inventor of the telephone, Alexander Graham Bell, was granted the American patent for his new communication system 150 years ago, on the 7th March 1876, beating out fellow inventor Elisha Gray who had submitted his patent on the very same day. But Bell still had to convince people that this novel form of communication would change their lives, and so he set out on a promotional tour across America and England, showcasing the wonder of his new invention, and even gifting a pair of phones to Queen Victoria. In this episode, we look at the first few decades of the telephone’s existence: the dramatic race between Bell, Gray and an Italian immigrant named Meucci to be the first to patent it, how quickly it was rolled out across America, how the technology actually worked, and its problems, including the ease with which people could eavesdrop on their neighbour’s conversations. We also look at the rise in jobs for women it provided, and the social anxieties it provoked, which mirror many of the worries voiced today about smartphones and social media. And we examine some early telephone etiquette: should you answer the phone with ‘hello’ or ‘ahoy-hoy’, and did a man need to be wearing trousers when speaking on the phone to a woman? If you’re a fan of the scientific innovations of the past, feuding inventors, and the competing anxieties and opportunities of new technology, you’ll love our episode on the History of the Telephone. If you want to learn more about Victorian science with Professor Iwan Morus, listen to our episode on Vital Electricity. And for more from Catherine Bohart, check out our episodes on pirate queen Grainne O’Malley, Julie d'Aubigny, or the History of General Elections. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Rosalyn Sklar and Katharine Russell Written by: Rosalyn Sklar, Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n3bdpz.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53024000",
+      "itunes_duration": "3314",
+      "speakers": [
+        "Greg Jenner",
+        "Iwan Morus"
+      ],
+      "topics": [
+        "history",
+        "telephone",
+        "anniversary",
+        "special"
+      ]
+    },
     {
       "key": "5fbbd5413bf52c5c2eae7972af06ee333750be72",
       "title": "History of Spices: commerce, colonialism and culinary innovation",
@@ -5659,6 +5681,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — History of the Telephone: 150th anniversary special — speakers: Greg Jenner, Iwan Morus
 - 2026-03-20 — History of Spices: commerce, colonialism and culinary innovation — speakers: Greg Jenner, David Veevers, Paul Sinha
 - 2026-03-13 — Epic of Gilgamesh: myths and heroes in ancient Mesopotamia — speakers: Moudhy Al-Rashid, Marjolein Robertson
 - 2026-03-06 — Hypatia of Alexandria: mathematician, martyr and feminist icon — speakers: Greg Jenner, Edith Hall, Olga Koch

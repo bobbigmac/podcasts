@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-03-27T03:29:59+00:00`
-- checked_at: `2026-03-27T03:29:59+00:00`
-- etag: `"djEuMi4wOjE3NzQ1Njk4ODMwMTY="`
+- fetched_at: `2026-03-27T07:35:08+00:00`
+- checked_at: `2026-03-27T07:35:08+00:00`
+- etag: `"djEuMi4wOjE3NzQ1OTEyNDAwNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-03-27T03:29:59+00:00",
+  "fetched_at": "2026-03-27T07:35:08+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c699cd9826b994c11b0cebe1061bee8b6139e925",
+      "title": "Johnny Marriott from PET NEEDS: NonComPod",
+      "published_at": "2026-03-27T06:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/johnny-marriott-pet-needs-noncompod",
+      "description": "I’m joined by Johnny Marriott from PET NEEDS for a very special NonComPod. The Colchester punk-fuelled melodic rock four-piece who’ve supported The Hives, Frank Turner and Flogging Molly are back with their fourth studio album, ELBOWS OUT! THIS IS CAPITALISM , which is out today. We discuss: how the band survived through playing in strangers' living rooms the real economics on being in a band in 2026 how becoming a parent shapes a creative career why punk isn’t dead… it’s just complicated now the complex nature of parasocial relationships managing anxiety in creative work and we find out if Johnny is happy... Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to 15 minutes of exclusive extras including: the parallels between song writing and stand-up the strange pressure of releasing new music and how lifestyle changes have shaped the band 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with PET NEEDS: PET NEEDS’ fourth studio ‘ ELBOWS OUT! THIS IS CAPITALISM ’ is out now wherever you buy records from! Find out more about the band at petneedsband.com . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ 15 minutes of exclusive extra content with Johnny from PET NEEDS ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE including dates in London , Manchester , Stoke , Milton Keynes , Bristol , Marlborough , Mach , Monmouth and LA ! Find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1774568924212-f7e8c41d-31b1-46ef-8e2f-f8c140607c5e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69c5c99a9b6be94a1ab1b5ad/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "129661632",
+      "itunes_duration": "1:30:02",
+      "speakers": [
+        "Johnny Marriott",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "johnny",
+        "marriott",
+        "need",
+        "noncompod"
+      ]
+    },
     {
       "key": "2a31e656f66e83388329352d3456b7fde822aa4d",
       "title": "Chris Fleming (2019): ComCompendium",
@@ -11271,6 +11293,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — Johnny Marriott from PET NEEDS: NonComPod — speakers: Johnny Marriott, Stuart Goldsmith
 - 2026-03-19 — Chris Fleming (2019): ComCompendium — speakers: Chris Fleming, Stuart Goldsmith
 - 2026-03-12 — Joyelle Nicole Johnson — speakers: Joyelle Nicole Johnson, Stuart Goldsmith
 - 2026-03-06 — James Acaster | Hecklers Welcome (2024): ComCompendium — speakers: James Acaster, Hecklers Welcome, Stuart Goldsmith

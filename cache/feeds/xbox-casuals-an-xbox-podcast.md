@@ -2,9 +2,9 @@
 
 - slug: `xbox-casuals-an-xbox-podcast`
 - source: `https://anchor.fm/s/1580e714/podcast/rss`
-- fetched_at: `2026-03-26T16:21:18+00:00`
-- checked_at: `2026-03-26T16:21:18+00:00`
-- etag: `W/"ca1f3-vZFtk5HBoQ1zs8+dANv2Hm0Ha6g"`
+- fetched_at: `2026-03-27T07:35:08+00:00`
+- checked_at: `2026-03-27T07:35:08+00:00`
+- etag: `W/"cb207-DpdtMmYCeONUVN42pGl1qJ5aYI8"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.towercasuals.com",
   "description": "Xbox Casuals is a biweekly podcast dedicated to all things Xbox, brought to you by Tower Casuals. Every other Friday, hosts Corey Dirrig and Josh Finney break down the latest Xbox news, rumors, Game Pass updates, new releases, and more. Tune in for new episodes every other Friday on all major podcast platforms and on the Tower Casuals YouTube channel.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3507693/3507693-1773365336153-dd04b03eadeee.jpg",
-  "fetched_at": "2026-03-26T16:21:18+00:00",
+  "fetched_at": "2026-03-27T07:35:08+00:00",
   "owners": [
     "Corey Dirrig",
     "Josh Finney"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7b7376d02c5b45141d71a833f24e09cb7955c9cb",
+      "title": "Epic Games Lays Off 1000 Employees as Industry Continues Its Spiral",
+      "published_at": "2026-03-27T04:05:38+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/xboxcasuals/episodes/Epic-Games-Lays-Off-1000-Employees-as-Industry-Continues-Its-Spiral-e3h1kbt",
+      "description": "The gaming world feels a little all over the place right now. This week on Xbox Casuals, Corey Dirrig and Josh Finney break down the March 2026 Xbox Partner Preview and its 19 reveals before shifting to the tougher side of the industry, including Epic Games laying off over 1,000 employees as Fortnite engagement declines and costs continue to rise, leading to the shutdown of modes like Ballistic and Rocket Racing. It’s a reminder that even the biggest companies are chasing profitability as budgets grow and development timelines get longer. This and more on Xbox Casuals. Follow our Hosts: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Corey Dirrig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , Founder of Boss Rush Media, ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tower Casuals: The Destiny Podcast⁠,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and the ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Boss Rush Network⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Josh Finney⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , cofounder and cohost of ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tower Casuals: The Destiny Podcast⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ .",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3507693/3507693-1774584306211-41012b54964e4.jpg",
+      "enclosure_url": "https://anchor.fm/s/1580e714/podcast/play/117542717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-27%2Fe6768bc5-05b4-99fc-e7e0-01a8b82c34a5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98635148",
+      "itunes_duration": "01:22:11",
+      "speakers": [
+        "Corey Dirri",
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
+      "topics": [
+        "epic",
+        "games",
+        "employee",
+        "industry",
+        "spiral"
+      ]
+    },
     {
       "key": "8a6978e0016a3230c4734ae524e09b66ae211a95",
       "title": "What is the Messaging Behind Xbox's Project Helix?",
@@ -5148,6 +5172,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — Epic Games Lays Off 1000 Employees as Industry Continues Its Spiral — speakers: Corey Dirri, Corey Dirrig, Josh Finney
 - 2026-03-13 — What is the Messaging Behind Xbox's Project Helix? — speakers: Project Helix, Corey Dirrig, Josh Finney
 - 2026-02-27 — Sarah Bond and Phil Spencer are Leaving Xbox, Asha Sharma Named New CEO — speakers: Sarah Bond, Phil Spencer, Leaving Xbox, Corey Dirrig, Josh Finney
 - 2026-02-06 — Can Xbox Deliver on Halo, Gears of War, Fable, and Forza This Year? — speakers: Can Xbox Deliver, Xbox Casuals, Corey Dirrig, Josh Finney

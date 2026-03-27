@@ -3986,6 +3986,28 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:5a46c54e4129",
+        "feed_title": "The Chris Evans Show with The National Lottery",
+        "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",
+        "dedupe_key": "5617ef0379b2baaf677e05891d0a3908e33a91de",
+        "episode_key": "5617ef0379b2baaf677e05891d0a3908e33a91de",
+        "title": "The TFI Wednesday one with Ed Gamble",
+        "published_at": "2026-03-25T10:52:52Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The excellent Ed Gamble brings us news of his upcoming tour, Fresh Hell, which begins in February 2027 and upcoming TV shows.\nWatch all episodes of TFI Unplugged on the Virgin Radio UK YouTube channel. Just search Virgin Radio UK on all of our socials.\n Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/chrisevansvirginuk/e/69c3be85938a3e0037290aad/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-tfi-wednesday-one-with-ed-gamble/id1450650136?i=1000757253691&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
