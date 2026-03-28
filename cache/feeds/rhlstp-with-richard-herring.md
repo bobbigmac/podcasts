@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-27T16:06:43+00:00`
-- checked_at: `2026-03-27T16:06:43+00:00`
-- etag: `"djEuMi4wOjE3NzQ2MjMwNTg3Mzg="`
+- fetched_at: `2026-03-28T07:13:44+00:00`
+- checked_at: `2026-03-28T07:13:44+00:00`
+- etag: `"djEuMi4wOjE3NzQ2ODEyMzk3ODg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-27T16:06:43+00:00",
+  "fetched_at": "2026-03-28T07:13:44+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9cb50a695b5343cc5be9f5928fcac1f07311e71d",
+      "title": "RAACN week 9",
+      "published_at": "2026-03-28T07:00:00+00:00",
+      "link": "https://shows.acast.com/rhlstp/episodes/raacn-week-9",
+      "description": "Monday 23rd March 2026 - Finger Hair - Rich and Ally are back to discuss Donald Trump RTing a SNLUK sketch and get an exclusive interview with the real PM to find out if SNLUK is as funny as it used to be. Tuesday 24th March 2026 - Deuteronomy 22:23-24 Rich and Ally are back in Da House and today they are reporting on the most controversial thing that has ever happened regarding the BBC show “The Repair Shop” in which they almost repaired an old joke book with some old jokes in it, that they didn’t need to read out, but which still mustn’t be on TV even in closed book form. Newsround is the most unsexist show on TV or the internet, as long as that is what people still are against, and so only we can report on this without prejudice. Take note Lamestream media and celestial bodies that are trying to blind and silence us. Thursday 26th March 2026 - Very Old Dog - Rich and Ally are back to tell you all the main news to ever come out of Cheddar in Somerset. So it’s quite a short bulletin. Friday 27th March 2026- Roboteacher - Rich and Ally are back for the last newsround of the week and judging by this one it’s probably good they’re taking a bit of time to take stock and get their heads together and sort out Richard’s health issues. Two news stories covered today which you won’t see in the lame stream media - zip lining benefit cheats and Melania’s army of info-robots. Watch Bake Off at 7.40pm on Channel 4 on Sunday just to see how good Rich can be on lame stream TV. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1774622789089-fc58fdba-25d5-41fe-a07a-d23d9029692f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69c69952f4bf09c599f35ad0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30628608",
+      "itunes_duration": "1:03:48",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "raacn",
+        "week"
+      ]
+    },
     {
       "key": "cb6c1e1ff468b96ab1c1e910d055a99be049b93f",
       "title": "RHLSTP 604 - Bilal Zafar",
@@ -21887,6 +21906,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-28 — RAACN week 9 — speakers: Richard Herring
 - 2026-03-25 — RHLSTP 604 - Bilal Zafar — speakers: Richard Herring
 - 2026-03-23 — Retro RHLSTP 138 - Eshaan Akbar — speakers: Richard Herring
 - 2026-03-21 — RAACN week 8 — speakers: Richard Herring

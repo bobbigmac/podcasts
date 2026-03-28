@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-03-28T03:16:25+00:00`
-- checked_at: `2026-03-28T03:16:25+00:00`
-- etag: `W/"328ea-ZxpW0lPyOKYStvVarkWTPfOi5/A"`
+- fetched_at: `2026-03-28T07:13:44+00:00`
+- checked_at: `2026-03-28T07:13:44+00:00`
+- etag: `W/"330c0-hctpD2PaDx3sGv6ox6hzKZu+rNY"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-03-28T03:16:25+00:00",
+  "fetched_at": "2026-03-28T07:13:44+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,30 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "794d8364de4064bcebb6b3739a12cbe8ace521f5",
+      "title": "Stranger Than Heaven Looks Impossibly Cool | Firelink Podcast",
+      "published_at": "2026-03-27T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Stranger-Than-Heaven-Looks-Impossibly-Cool--Firelink-Podcast-e3h1h49",
+      "description": "This week on Firelink, KC and Marty chat about today's Xbox Partner Showcase, massive layoffs at Epic, and KC's positive impressions of Crimson Desert. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/117539401/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-27%2F29af8f73-2c9c-1dbd-a398-bbe36ce94b9b.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "139879328",
+      "itunes_duration": "01:37:08",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "heaven",
+        "impossibly",
+        "cool",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "4503eb0ad46dae5031a4c1e4fed37cd33ede3ef3",
       "title": "The Subnautica 2 Drama Gets Even Weirder, Crimson Desert Reviews Land, and More | Firelink Podcast",
@@ -2607,6 +2631,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-27 — Stranger Than Heaven Looks Impossibly Cool | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-03-20 — The Subnautica 2 Drama Gets Even Weirder, Crimson Desert Reviews Land, and More | Firelink Podcast — speakers: Crimson Desert Reviews Land, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-03-13 — Xbox Gives Us Project Helix Details + SEGA's Woes + Pokopia Rules | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-03-06 — Resident Evil Requiem and Pokémon Pokopia Are Certified Bangers | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
