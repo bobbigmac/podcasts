@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-27T19:11:47+00:00`
-- checked_at: `2026-03-27T19:11:47+00:00`
-- etag: `"djEuMi4wOjE3NzQ2MzMzMzQ3NDM="`
+- fetched_at: `2026-03-28T18:59:57+00:00`
+- checked_at: `2026-03-28T18:59:57+00:00`
+- etag: `"djEuMi4wOjE3NzQ3MTcyMzk0MTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-27T19:11:47+00:00",
+  "fetched_at": "2026-03-28T18:59:57+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "70c0970f9a887164816fa125d29d410f626b8d2e",
+      "title": "“Another chapter in the farce that is HS2” | Will and Anoosh’s weekly round up",
+      "published_at": "2026-03-28T17:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/another-chapter-in-the-farce-that-is-hs2-will-and-anooshs-we",
+      "description": "Morgan McSweeney’s stolen phone, Kemi Badenoch’s council tax claims and the UAE defence attache, Group Captain Sandy Sandilands. Will Dunn and Anoosh Chakelian round up their stories of the week. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1774567173852-d177c4a2-650c-413a-ac54-0e43a4ae30c9.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69c5bf9fb991732771929c5a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91190364",
+      "itunes_duration": "37:57",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "chapter",
+        "farce",
+        "anoosh",
+        "round"
+      ]
+    },
     {
       "key": "2045b3a559c238012d4f008c6989a36b8300d2cf",
       "title": "Rory Stewart sees fundamental evil in Trump",
@@ -30805,6 +30827,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-28 — “Another chapter in the farce that is HS2” | Will and Anoosh’s weekly round up — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-27 — Rory Stewart sees fundamental evil in Trump — speakers: Rory Stewart, Anoosh Chakelian, Oli Dugmore
 - 2026-03-26 — Ban Instagram? You must be kidding. — speakers: Ban Instagram, Anoosh Chakelian, Oli Dugmore
 - 2026-03-25 — Is Ed Miliband the most powerful person in government? — speakers: Ed Miliband, Anoosh Chakelian, Oli Dugmore

@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-03-27T03:29:59+00:00`
-- checked_at: `2026-03-27T03:29:59+00:00`
-- etag: `W/"24f15-qzD27PF3RqocjV3DCLH0aOz6k5w"`
+- fetched_at: `2026-03-28T18:59:57+00:00`
+- checked_at: `2026-03-28T18:59:57+00:00`
+- etag: `W/"25396-2McTA31x+LkgENcmWVhvL1EDrFw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-03-27T03:29:59+00:00",
+  "fetched_at": "2026-03-28T18:59:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "3c3673473e7e88497bf5d424b404b381b4a2ef39",
+      "title": "#42 Jon Richardson Podcast with Gavin Webster",
+      "published_at": "2026-03-28T18:31:14+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/42-Jon-Richardson-Podcast-with-Gavin-Webster-e3h3mm6",
+      "description": "#42 Jon Richardson Podcast with Gavin Webster",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1774722671489-abf0313347b05.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/117610630/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-28%2Face3aca8-bd6c-767a-0fc2-d74b2433f3e5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19115954",
+      "itunes_duration": "00:39:40",
+      "speakers": [
+        "Gavin Webster"
+      ],
+      "topics": [
+        "richardson",
+        "podcast",
+        "gavin",
+        "webster"
+      ]
+    },
     {
       "key": "f426493eecf80b222e97192249c237ae142ca017",
       "title": "#41 Jon Richardson Podcast with John Robbins",
@@ -2627,6 +2648,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-28 — #42 Jon Richardson Podcast with Gavin Webster — speakers: Gavin Webster
 - 2026-03-26 — #41 Jon Richardson Podcast with John Robbins — speakers: John Robbins
 - 2026-03-25 — #40 Jon Richardson Podcast with Lloyd Langford — speakers: Lloyd Langford
 - 2026-03-24 — #38 Jon Richardson Podcast with Jeff Norsen — speakers: Jeff Norsen
