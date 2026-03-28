@@ -3986,6 +3986,28 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:8cc4a7996941",
+        "feed_title": "The Chris Moyles Show on Radio X Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/the-chris-moyles-show",
+        "dedupe_key": "01f62711be6ede023e5d6d423477715c891fe578",
+        "episode_key": "01f62711be6ede023e5d6d423477715c891fe578",
+        "title": "Ed Gamble, Noah Wyle, Phil Dunster and Miles Hunt #539",
+        "published_at": "2026-03-27T14:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Can you figure out what Blur are saying in the first bit of Parklife? No? Great glad it’s not just us, but do let us know if you crack it because we still can’t!\n\nWelcome back to the Chris Moyles Show on Radio X Podcast! \n\nIt’s been an absolutely jam-packed week of chaos, questionable chat, and top-tier guests—so strap",
+        "audio_url": "https://episodes.captivate.fm/episode/04043a26-125f-48c5-93de-e7de23561b24.mp3?aw_0_1st.showid=ed87f36a-7b44-4e79-beea-f3220752406c&aw_0_1st.episodeid=04043a26-125f-48c5-93de-e7de23561b24",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ed-gamble-noah-wyle-phil-dunster-and-miles-hunt-539/id1042635536?i=1000757745821&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:5a46c54e4129",
         "feed_title": "The Chris Evans Show with The National Lottery",
         "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",
