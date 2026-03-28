@@ -28115,6 +28115,28 @@
     ],
     "jack-dee": [
       {
+        "feed_slug": "external:apple:e5b58072e338",
+        "feed_title": "Oh My Dog! with Jack Dee and Seann Walsh",
+        "source_rss_url": "https://anchor.fm/s/10b7d8230/podcast/rss",
+        "dedupe_key": "1421d0ed406dc82c9b02177337d143a2cb903d75",
+        "episode_key": "1421d0ed406dc82c9b02177337d143a2cb903d75",
+        "title": "Back Back #17a: The Ketchup Hack & Where You’re Listening",
+        "published_at": "2026-03-27T01:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Jack Dee and Sara dive into your emails, voice notes and messages in this week’s Bark Back, sharing where you listen - from pottery studios to dog grooming salons, celebrating 11-year-old Poppy’s incredible children's marathon for the PDSA, and unpacking the now-proven tomato ketchup trick for dogs who’ve rolled in som",
+        "audio_url": "https://traffic.megaphone.fm/APO9582870648.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/back-back-17a-the-ketchup-hack-where-youre-listening/id1675517221?i=1000757585758&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:50ce75180d0a",
         "feed_title": "The Custard TV Podcast",
         "source_rss_url": "https://feed.podbean.com/luke5n/feed.xml",
