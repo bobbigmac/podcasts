@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-27T13:43:23+00:00`
-- checked_at: `2026-03-27T13:43:23+00:00`
-- etag: `"djEuMi4wOjE3NzQ2MTY0Mzk2MTI="`
+- fetched_at: `2026-03-29T09:53:03+00:00`
+- checked_at: `2026-03-29T09:53:03+00:00`
+- etag: `"djEuMi4wOjE3NzQ3NzM1OTUxNTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,38 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-27T13:43:23+00:00",
+  "fetched_at": "2026-03-29T09:53:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "d7a25c108ef45c9eba3dbb833549cacbfb31b81c",
+      "title": "Explained: Elon Musk's plan for world domination | Quinn Slobodian and Ben Tarnoff interview",
+      "published_at": "2026-03-29T08:39:54+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69c8e50ff4bf09c5996ab13f",
+      "description": "Ava sits down with the co-authors of Muskism, Quinn Slobodian and Ben Tarnoff, to dive deep on the world's richest man. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69c8e50ff4bf09c5996ab13f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46827394",
+      "itunes_duration": "32:30",
+      "speakers": [
+        "Ben Tarnoff"
+      ],
+      "topics": [
+        "elon",
+        "musk",
+        "plan",
+        "world",
+        "domination",
+        "quinn",
+        "slobodian",
+        "tarnoff"
+      ]
+    },
     {
       "key": "de6e293b865aecdd474155f9f9eff174d623dc31",
       "title": "Populism is taking over Britain. This is how we stop it | Liam Byrne interview",
@@ -12260,6 +12285,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-29 — Explained: Elon Musk's plan for world domination | Quinn Slobodian and Ben Tarnoff interview — speakers: Ben Tarnoff
 - 2026-03-27 — Populism is taking over Britain. This is how we stop it | Liam Byrne interview — speakers: Liam Byrne
 - 2026-03-26 — Yanis Varoufakis: Europe is pathetic in face of Trump's fascism — speakers: Zack Polanski, Jeremy Corbyn
 - 2026-03-25 — Is Kemi Badenoch getting WORSE at her job? | PMQs Analysis
