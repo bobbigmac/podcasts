@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-03-28T18:59:57+00:00`
-- checked_at: `2026-03-28T18:59:57+00:00`
-- etag: `"djEuMi4wOjE3NzQ3MTgzMjY4MzE="`
+- fetched_at: `2026-03-29T03:34:59+00:00`
+- checked_at: `2026-03-29T03:34:59+00:00`
+- etag: `"djEuMi4wOjE3NzQ3NDMzMzk0MDY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "Join Elis James, Mike Bubbins and Steff Garrero in Award winning Podcast \"The Socially Distant Sports Bar\". It's a Comedy & Sports Podcast, but you don't have to like Sports to LOVE it. Comedians Elis James (BBC 5Live, Sky TV's Fantasy Football League) & Mike Bubbins (BBC's Mammoth) are \"Unreasonably hilarious\" The Telegraph. \"Elis James, Mike Bubbins and Steff Garrero created a haven where they ramble on about classic clips and random recollections.\" The Guardian Known to fans as Distant Pod it has won awards at the Sports Podcast Awards & Pod Bible Awards. Hosts of \"Down The Clubhouse\" on TNT Sport another Comedy & Sports show. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-03-28T18:59:57+00:00",
+  "fetched_at": "2026-03-29T03:34:59+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,29 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "a16659965835f597c33d8ed31005714d40806cd5",
+      "title": "Veg: Pint Size",
+      "published_at": "2026-03-29T00:15:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/veg-ps175",
+      "description": "Welcome to Pint-Sized Distant Pod. We’ve been back through our archive of episodes and picked out some of our favourite stories, anecdotes, and funny bits. If you’re new to the pod, these are a perfect way to dip your toe in and then dive back into the full episodes from our early days. Come and see us LIVE in London in April https://www.hackneyempire.co.uk/events/the-socially-distant-sports-bar-live Click here for a NORD VPN deal https://nordvpn.com/distant CLICK HERE TO SEE CRWST's SELECTION https://crwst.cymru/collections/shop-all 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com 🎟️ TOUR 2026 Live shows are coming! 🎫 Tickets available now at distantpod.com/live Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69c688fef4bf09c599ed1be1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "15000555",
+      "itunes_duration": "15:37",
+      "speakers": [
+        "Pint Size Welcome",
+        "Sized Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "pint",
+        "size"
+      ]
+    },
     {
       "key": "99b8fc08b1b8d7b68377f205c2b99dd66e347d7a",
       "title": "The 20% (pt 2)",
@@ -14324,6 +14347,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-29 — Veg: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-27 — The 20% (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-25 — The 20% (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-22 — Philosopher: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero

@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-03-25T03:18:39+00:00`
-- checked_at: `2026-03-25T03:18:39+00:00`
-- last_modified: `Wed, 25 Mar 2026 00:30:00 GMT`
+- fetched_at: `2026-03-29T03:34:59+00:00`
+- checked_at: `2026-03-29T03:34:59+00:00`
+- last_modified: `Sun, 29 Mar 2026 00:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/e3305fc974dac38dee8f3d8103df6e67.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-25T03:18:39+00:00",
+  "fetched_at": "2026-03-29T03:34:59+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "cdf1e0dfee2804b27cbb649f2f861ca234063c5b",
+      "title": "S4 EP13: Chris Addison",
+      "published_at": "2026-03-29T00:30:00+00:00",
+      "link": null,
+      "description": "Joining us on this episode of ' ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ What did you do yesterday? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ' is the brilliant comedian, writer, acotr and director - Chris Addison We asked Chris what he did yesterday? He told us. That's it... enjoy! Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ @yesterdaypod ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8d47b950-237e-11f1-bfef-13c76bbeddb2/image/7209ec326b1e02931fbaf342d1c90574.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1698040115.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4489",
+      "speakers": [
+        "Chris Addison",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "chris",
+        "addison"
+      ]
+    },
     {
       "key": "d5925a2d6eb7d7dc692ba46b4a539b520142539b",
       "title": "WDWDY #64: It's 6am in Texas",
@@ -3093,6 +3114,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-29 — S4 EP13: Chris Addison — speakers: Chris Addison, Max Rushden, David O'Doherty
 - 2026-03-25 — WDWDY #64: It's 6am in Texas — speakers: Max Rushden, David O'Doherty
 - 2026-03-22 — S4 EP12: Bilal Zafar — speakers: Max Rushden, David O'Doherty
 - 2026-03-18 — WDWDY #63: Faulty Bike Seats — speakers: Max Rushden, David O'Doherty
