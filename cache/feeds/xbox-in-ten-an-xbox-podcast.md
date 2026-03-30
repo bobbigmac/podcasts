@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-03-28T18:59:57+00:00`
-- checked_at: `2026-03-28T18:59:57+00:00`
-- etag: `"d2130c6266606f0ec2074b2267856a5f"`
-- last_modified: `Sat, 28 Mar 2026 18:45:59 GMT`
+- fetched_at: `2026-03-30T08:01:08+00:00`
+- checked_at: `2026-03-30T08:01:08+00:00`
+- etag: `"49ed478e13a61f0d4efe46d01878bf95"`
+- last_modified: `Mon, 30 Mar 2026 04:15:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-03-28T18:59:57+00:00",
+  "fetched_at": "2026-03-30T08:01:08+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c4ae66a8f6329cccd081ba9ff4aefa3a758b0f35",
+      "title": "Is Xbox Working on a New Game Pass Tier...Trion? - (Xbox In Ten: An Xbox Podcast - Ep. 357)",
+      "published_at": "2026-03-30T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/is-xbox-working-on-a-new-game-pass-tiertrion-xbox-in-ten-an-xbox-podcast-ep-357",
+      "description": "Week of: 3-23-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/8/2/8/3/8283b938657f50b4d959afa2a1bf1c87/357.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/357.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "17281336",
+      "itunes_duration": "12:15",
+      "speakers": [
+        "New Game Pass Tier",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "game",
+        "pass",
+        "tier",
+        "trion",
+        "podcast"
+      ]
+    },
     {
       "key": "f84b17015b730a2c3e31ea8bde8d763965d425bb",
       "title": "Starfield Story DLC & Free Update Dated - (Xbox In Ten: An Xbox Podcast - Ep. 356)",
@@ -8970,6 +8996,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — Is Xbox Working on a New Game Pass Tier...Trion? - (Xbox In Ten: An Xbox Podcast - Ep. 357) — speakers: New Game Pass Tier, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-03-23 — Starfield Story DLC & Free Update Dated - (Xbox In Ten: An Xbox Podcast - Ep. 356) — speakers: Starfield Story, Brandon Rosa
 - 2026-03-16 — Xbox's GDC Recap: Building the Next Generation with Project Helix - (Xbox In Ten: An Xbox Podcast - Ep. 355) — speakers: Project Helix, Brandon Rosa
 - 2026-03-09 — Xbox Reveals Project Helix: The New Xbox/PC Hybrid Console - (Xbox In Ten: An Xbox Podcast - Ep. 354) — speakers: Xbox Reveals Project Helix, Hybrid Console, Xbox Gaming News, Fun Fact, Brandon Rosa

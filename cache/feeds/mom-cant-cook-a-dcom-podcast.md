@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-03-26T19:32:16+00:00`
-- checked_at: `2026-03-26T19:32:16+00:00`
-- last_modified: `Thu, 26 Mar 2026 14:09:17 GMT`
+- fetched_at: `2026-03-30T08:01:08+00:00`
+- checked_at: `2026-03-30T08:01:08+00:00`
+- last_modified: `Mon, 30 Mar 2026 06:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-03-26T19:32:16+00:00",
+  "fetched_at": "2026-03-30T08:01:08+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8263f93c20a835246a23e7fb5449624e412833ae",
+      "title": "Lemonade Mouth",
+      "published_at": "2026-03-30T06:30:00+00:00",
+      "link": null,
+      "description": "Lemonade Mouth. It sounds like a disease citric acid factory workers get that makes their lower jaw fall off, but it is in fact a band. And not just any band. The most revolutionary, visionary, exemplary band that ever rocked a high school halloween bash and are possibly hallucinating the entire thing due to tainted lemonade from the 1950s. When five misfit teens are thrown together in detention they realise they all have one thing in common: a love for incredibly innoffensive soft pop. But can their musical talents flourish in a school that makes them practice in a basement? Is their talent directly linked to the suspect lemonade they're constantly drinking? And should they just give up, because their rivals, evil band Mudslide Crush are a lot better than them? Listen and find out! If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched Lemonade Mouth and have your own thoughts, email them to us at momcantcookpod@gmail.com for a chance to have them read out on the show. Next time on Mom Can't Cook! we'll be watching 2000's Mail to the Chief. See you then! This episode is sponsored by NordVPN. EXCLUSIVE NordVPN Deal ➼ nordvpn.com/momcantcook . Try it risk-free now with a 30-day money-back guarantee! This episode is also sponsored by Insert Coin Clothing! Visit insertcoinclothing.com and use code IVEGOTMYSPINEIVEGOTMYMUDSLIDECRUSH for 10% off online orders. Codes are not applicable on charity items, bundles, gift cards, postage and some products at launch. Codes cannot be combined with other deals or promotions and are valid until June 2026. Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch: momcantcookmerch.com and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/rss.art19.com/episodes/e1a28bf5-59b0-4c21-b7a3-a87c6bde609a.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138616163",
+      "itunes_duration": "02:24:23",
+      "speakers": [
+        "Lemonade Mouth Lemonade Mouth",
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
+      "topics": [
+        "lemonade",
+        "mouth"
+      ]
+    },
     {
       "key": "4f9b77b2699ddeb5c1e5ab0624e45e94d5451f31",
       "title": "Toothless",
@@ -2024,6 +2045,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — Lemonade Mouth — speakers: Lemonade Mouth Lemonade Mouth, Luke Westaway, Andy Farrant
 - 2026-03-16 — Toothless — speakers: Toothless Can, Luke Westaway, Andy Farrant
 - 2026-03-02 — Avalon High — speakers: Luke Westaway, Andy Farrant
 - 2026-02-16 — The Cheetah Girls: One World — speakers: Luke Westaway, Andy Farrant

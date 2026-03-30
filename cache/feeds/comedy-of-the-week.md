@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-03-24T07:19:23+00:00`
-- checked_at: `2026-03-24T07:19:23+00:00`
-- etag: `"79902c44a74b67ff8f0006d1a533cc34"`
-- last_modified: `Tue, 24 Mar 2026 05:00:03 GMT`
+- fetched_at: `2026-03-30T08:01:08+00:00`
+- checked_at: `2026-03-30T08:01:08+00:00`
+- etag: `"7fb590cdfba41f24f68ba9287754b361"`
+- last_modified: `Mon, 30 Mar 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-03-24T07:19:23+00:00",
+  "fetched_at": "2026-03-30T08:01:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "8b54e4b903a4eff306ea13edf434b596f9ba79e5",
+      "title": "The Matt Forde Focus Group",
+      "published_at": "2026-03-30T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n9gr1m",
+      "description": "We like to think we vote with our heads. But what if we've always voted with our tribe? Top political comedian Matt Forde convenes his Focus Group in front of a live theatre audience with a razor-sharp panel — former Conservative adviser Salma Shah, ex-SNP MP and broadcaster John Nicolson, and stand-up comedian Pierre Novellie — to ask whether tribal loyalty is the secret engine of political life. From parties haemorrhaging members to rivals, to the flag-wrapped contradictions of nationalist politics, to the question of whether multicultural Britain is importing conflicts it never signed up for, this is an episode about belonging, identity - and the ridiculous places both can lead Written and performed by Matt Forde Additional writing from Karl Minns, Ruth Husko and Richard Garvin Producer: Richard Garvin Co Producer: Daisy Knight Broadcast Assistant: Ocean Holder Sound Design: David Thomas Editor Chris Maclean An Avalon production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9gqqw.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27552000",
+      "itunes_duration": "1722",
+      "speakers": [],
+      "topics": [
+        "matt",
+        "forde",
+        "focus",
+        "group"
+      ]
+    },
     {
       "key": "d6409b51762b6fce02b93511a83ab4d384a2d528",
       "title": "Slim's Guide to Life",
@@ -977,6 +996,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — The Matt Forde Focus Group
 - 2026-03-23 — Slim's Guide to Life
 - 2026-03-16 — Wing It — speakers: Steen Raskopoulos, Luke Manning, Emily Lloyd-Saini
 - 2026-03-09 — Aurie Styla: Tech Talk — speakers: Aurie Styla, Tech Talk Comedian Aurie
