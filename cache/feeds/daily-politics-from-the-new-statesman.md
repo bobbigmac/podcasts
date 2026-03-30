@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-28T18:59:57+00:00`
-- checked_at: `2026-03-28T18:59:57+00:00`
-- etag: `"djEuMi4wOjE3NzQ3MTcyMzk0MTU="`
+- fetched_at: `2026-03-30T16:13:36+00:00`
+- checked_at: `2026-03-30T16:13:36+00:00`
+- etag: `"djEuMi4wOjE3NzQ4ODQ0Mjg0Nzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-28T18:59:57+00:00",
+  "fetched_at": "2026-03-30T16:13:36+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b0581a50cf789b827e7dbc0af053bea29237cb68",
+      "title": "Inside Labour’s immigration feud",
+      "published_at": "2026-03-30T15:27:08+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/inside-labours-immigration-feud",
+      "description": "As ministers and backbenchers criticise Shabana Mahmood’s immigration plans, is Labour about to water them down? And what is behind the splits over the policy? Anoosh Chakelian and Ailbhe Rea go behind the scenes of Labour’s battle over immigration reform. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1774884280500-ef5cd058-1f42-40d6-abf4-301e93eaf095.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69ca964c8fc1c62479025294/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61507295",
+      "itunes_duration": "31:58",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "inside",
+        "labour",
+        "immigration",
+        "feud"
+      ]
+    },
     {
       "key": "70c0970f9a887164816fa125d29d410f626b8d2e",
       "title": "“Another chapter in the farce that is HS2” | Will and Anoosh’s weekly round up",
@@ -30827,6 +30849,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — Inside Labour’s immigration feud — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-28 — “Another chapter in the farce that is HS2” | Will and Anoosh’s weekly round up — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-27 — Rory Stewart sees fundamental evil in Trump — speakers: Rory Stewart, Anoosh Chakelian, Oli Dugmore
 - 2026-03-26 — Ban Instagram? You must be kidding. — speakers: Ban Instagram, Anoosh Chakelian, Oli Dugmore

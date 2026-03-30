@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-03-23T10:14:12+00:00`
-- checked_at: `2026-03-23T10:14:12+00:00`
-- etag: `"djEuMi4wOjE3NzQyNTIyMzk4MDI="`
+- fetched_at: `2026-03-30T16:13:36+00:00`
+- checked_at: `2026-03-30T16:13:36+00:00`
+- etag: `"djEuMi4wOjE3NzQ4ODMyNjQ5MzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-03-23T10:14:12+00:00",
+  "fetched_at": "2026-03-30T16:13:36+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3e3d3df9380232e1497fbde0960e6c8ae8e46425",
+      "title": "RIP Manny Ryan",
+      "published_at": "2026-03-30T15:07:44+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/rip-manny-ryan",
+      "description": "Katherine's Telling Everybody Everything about Manny's peaceful journey home. The Ryan-Kootstras are officially a house with no dogs. Katherine is seeing her therapist Pam again, and it's not a moment too soon as she and Bobby take the kids on an evening away at Alton Towers to kick off what will surely be a punishing half term. Discretion is the theme of this episode as you need it to date rich men, to be a bodyguard, and to get away with an affair at work apparently. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1774883004588-57bf50c4-2cfa-4b0b-9a47-09d7f8946d32.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/69ca91c0e44b28321e468dfd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93028019",
+      "itunes_duration": "1:04:35",
+      "speakers": [
+        "Rip Manny Ryan",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "manny",
+        "ryan"
+      ]
+    },
     {
       "key": "def188dce95379278aa50c4392cbd76f3da7c93b",
       "title": "Taylor Frankie Paul and Manosphere REACTS",
@@ -6009,6 +6029,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — RIP Manny Ryan — speakers: Rip Manny Ryan, Katherine Ryan
 - 2026-03-23 — Taylor Frankie Paul and Manosphere REACTS — speakers: Frankie Paul, Katherine Ryan
 - 2026-03-16 — The Manosphere — speakers: Louis Theroux, Katherine Ryan
 - 2026-03-09 — A Listener Letter Catchup — speakers: Listener Letter Catchup Katherine, Telling Everybody Everything, Katherine Ryan
