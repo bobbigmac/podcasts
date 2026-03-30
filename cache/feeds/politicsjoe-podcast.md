@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-29T09:53:03+00:00`
-- checked_at: `2026-03-29T09:53:03+00:00`
-- etag: `"djEuMi4wOjE3NzQ3NzM1OTUxNTc="`
+- fetched_at: `2026-03-30T14:02:47+00:00`
+- checked_at: `2026-03-30T14:02:47+00:00`
+- etag: `"djEuMi4wOjE3NzQ4NzIwMzk2ODI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,32 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-29T09:53:03+00:00",
+  "fetched_at": "2026-03-30T14:02:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a66b590197d5ca3602d2754dad870875ac440eed",
+      "title": "I humiliated a GB News host on live TV",
+      "published_at": "2026-03-30T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69ca643ae44b28321e36811a",
+      "description": "Andy joins Seán to debrief his televised clash with Matt Goodwin last Friday over his accusations that the Gorton and Denton by-election loser used AI to research his book. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69ca643ae44b28321e36811a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66430406",
+      "itunes_duration": "46:07",
+      "speakers": [
+        "Matt Goodwin"
+      ],
+      "topics": [
+        "news",
+        "host"
+      ]
+    },
     {
       "key": "d7a25c108ef45c9eba3dbb833549cacbfb31b81c",
       "title": "Explained: Elon Musk's plan for world domination | Quinn Slobodian and Ben Tarnoff interview",
@@ -12285,6 +12304,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — I humiliated a GB News host on live TV — speakers: Matt Goodwin
 - 2026-03-29 — Explained: Elon Musk's plan for world domination | Quinn Slobodian and Ben Tarnoff interview — speakers: Ben Tarnoff
 - 2026-03-27 — Populism is taking over Britain. This is how we stop it | Liam Byrne interview — speakers: Liam Byrne
 - 2026-03-26 — Yanis Varoufakis: Europe is pathetic in face of Trump's fascism — speakers: Zack Polanski, Jeremy Corbyn
