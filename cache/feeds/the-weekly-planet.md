@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-03-29T15:46:41+00:00`
-- checked_at: `2026-03-29T15:46:41+00:00`
-- etag: `"djEuMi4wOjE3NzQ3OTY4NjQ5MjU="`
+- fetched_at: `2026-03-30T03:41:21+00:00`
+- checked_at: `2026-03-30T03:41:21+00:00`
+- etag: `"djEuMi4wOjE3NzQ4NDE0MzkzMDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-03-29T15:46:41+00:00",
+  "fetched_at": "2026-03-30T03:41:21+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "04d9e2a72877561f8f4f9b8e3dd60381e1dc6a7e",
+      "title": "616 Ready or Not 2/They Will Kill You & Trailers for Awful Remakes",
+      "published_at": "2026-03-30T03:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/616ready-or-not-2they-will-kill-you-trailers-for-awful-remak",
+      "description": "It’s a great week for remakes of things that we’re already beloved that are now back in a seemingly worse way. That’s right we’re taking a look at brand new trailers for Moana 2026 live action The Rock with hair and Harry Potter and the Philosopher's Stone. We also talk two very similar movies in Ready or Not 2 and They Will Kill You, a new voice cast announcement for Super Mario Galaxy, more Lord of the Rings movies, a billion dollar Disney/AI deal falls through plus a whole lot more. Thanks for listening! New bonus Q&A podcast episode with James & Maso out now! Plus entire backcatalogue including ad-free feeds and early access on https://bigsandwich.co/ Fire & Steel with Mr Sunday Movies: https://www.sanspantsradio.com/product/fire-and-steel/ PLEASE be aware timecodes may shift up to a few minutes due to inserted ads. 00:00 The Start 07:45 Glen Powell is Star Fox 10:40 Another New Lord of the Rings Movie 16:45 Disney Shuts Down Sora AI 23:13 The End of Oak Street Trailer 27:40 Harry Potter & The Philosopher's Stone Trailer 39:06 Moana Live Action Movie Trailer 44:58 Movie Reviews for They Will Kill You & Ready or Not 2: Here I Come 56:42 Spoiler Segments for They Will Kill You & Ready or Not 2: Here I Come 01:05:16 What We Reading, What We Gonna Read 01:15:42 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69c9285088f1e89132f415a3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134574947",
+      "itunes_duration": "1:33:27",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "trailers",
+        "awful",
+        "remakes"
+      ]
+    },
     {
       "key": "d37a47764503b802012580d6998b783233fc8936",
       "title": "Serenity - Caravan Of Garbage",
@@ -21970,6 +21991,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — 616 Ready or Not 2/They Will Kill You & Trailers for Awful Remakes — speakers: James Clement, Nick Mason
 - 2026-03-26 — Serenity - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-03-23 — 615 Project Hail Mary & Spider-Man: Brand New Day Trailer — speakers: Project Hail Mary, James Clement, Nick Mason
 - 2026-03-19 — Gamer - Caravan Of Garbage — speakers: James Clement, Nick Mason

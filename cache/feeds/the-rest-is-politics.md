@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-03-26T03:27:15+00:00`
-- checked_at: `2026-03-26T03:27:15+00:00`
-- last_modified: `Thu, 26 Mar 2026 00:00:04 GMT`
+- fetched_at: `2026-03-30T03:41:21+00:00`
+- checked_at: `2026-03-30T03:41:21+00:00`
+- last_modified: `Mon, 30 Mar 2026 01:28:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-26T03:27:15+00:00",
+  "fetched_at": "2026-03-30T03:41:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "1d7ffca2a5f95f08926fc81ea81e13c293611f36",
+      "title": "Nineteen Eighty-Four: Big Brother, Surveillance, and Fear (The Book Club)",
+      "published_at": "2026-03-29T23:00:00+00:00",
+      "link": null,
+      "description": "Why is 1984 as relevant today as when it was published? Who is Big Brother, and why is he so powerful? What was George Orwell's intention when creating the world of 1984, and what does it tell us about politics today? Alastair Campbell is joined by Dominic Sandbrook to delve into the fascinating story behind the writing of 1984, the world it was born of, and the novel itself. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/59c7c234-2bba-11f1-a6e5-9b5e60550174/image/0a273f4c027e16a6a927c5356ccc673f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1269295979.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1451",
+      "speakers": [
+        "Nineteen Eighty",
+        "Big Brother"
+      ],
+      "topics": [
+        "eighty",
+        "brother",
+        "surveillance",
+        "fear",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "7bee9d662a564dbdeed2f7753e98a7ebe5560300",
       "title": "515. Starmer’s Foreign Aid Betrayal, Islamophobia & Australia’s Far Right (Question Time)",
@@ -11393,6 +11417,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-29 — Nineteen Eighty-Four: Big Brother, Surveillance, and Fear (The Book Club) — speakers: Nineteen Eighty, Big Brother
 - 2026-03-26 — 515. Starmer’s Foreign Aid Betrayal, Islamophobia & Australia’s Far Right (Question Time)
 - 2026-03-25 — 514. Who Is Profiting from Trump's Iran Catastrophe?
 - 2026-03-19 — 513. Inside Iran: The Country Trump Cannot Control? (Question Time) — speakers: Inside Iran, Question Time

@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-03-29T21:47:06+00:00`
-- checked_at: `2026-03-29T21:47:06+00:00`
-- etag: `"djEuMi4wOjE3NzQ4MTE2NjQ0MTk="`
+- fetched_at: `2026-03-30T03:41:21+00:00`
+- checked_at: `2026-03-30T03:41:21+00:00`
+- etag: `"djEuMi4wOjE3NzQ4MjUzNTkzMzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-03-29T21:47:06+00:00",
+  "fetched_at": "2026-03-30T03:41:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cd59cdadedbdc2a307d64b311678ed96608a49d8",
+      "title": "Ep. 574 - David Arnold - Film composer of 5 James Bond films, Independence Day, Godzilla and many more",
+      "published_at": "2026-03-29T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-574-david-arnold-film-composer-of-5-james-bond-films-inde",
+      "description": "David Arnold is a British film and television composer, best known for scoring five James Bond films— Tomorrow Never Dies , The World Is Not Enough , Die Another Day , Casino Royale and Quantum of Solace —helping to redefine the modern sound of the franchise. His blockbuster film credits also include Independence Day, Godzilla, Stargate, Zoolander The Day After Tomorrow, 2 Fast 2 Furious and Hot Fuzz. On television, Arnold has composed for major series including Sherlock, Good Omens and Little Britain. HIs early work includes the themes for The Big Breakfast, Live and Kicking and Tomorrow’s World. His work has received numerous honours, including a Grammy Award for Independence Day , an Ivor Novello Award, and a Primetime Emmy Award for Sherlock . Arnold is widely regarded as one of the leading composers of his generation, with a career spanning some of the most iconic film and television scores of the past three decades. David Arnold is our guest in episode 574 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Buy tickets for David Arnold at The London Soundtrack Festival here - https://londonsoundtrack.com . Follow David Arnold on Instagram : @davidgarnold . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69c68589f4bf09c599eb81f6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "204302543",
+      "itunes_duration": "1:25:07",
+      "speakers": [
+        "David Arnold Film",
+        "David Arnold"
+      ],
+      "topics": [
+        "david",
+        "arnold",
+        "film",
+        "composer",
+        "james",
+        "bond",
+        "independence",
+        "godzilla"
+      ]
+    },
     {
       "key": "4d902980ee180ab8ff44142b094bd3f8c03bf118",
       "title": "Ep. 573 - Katie Wimpenny - Just finished 2 years in Harry Potter and The Cursed Child",
@@ -12212,6 +12238,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-29 — Ep. 574 - David Arnold - Film composer of 5 James Bond films, Independence Day, Godzilla and many more — speakers: David Arnold Film, David Arnold
 - 2026-03-27 — Ep. 573 - Katie Wimpenny - Just finished 2 years in Harry Potter and The Cursed Child — speakers: Katie Wimpenny Just, Katie Wimpenny
 - 2026-03-23 — Ep. 572 - Toby Anstis - From CBBC’s Broom Cupboard to 25 years at Heart Radio
 - 2026-03-20 — Ep. 571 - Rosalie Minnitt - Award-winning comedy performer, best known for her character Clementine — speakers: Rosalie Minnitt

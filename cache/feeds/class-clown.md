@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-03-29T19:02:27+00:00`
-- checked_at: `2026-03-29T19:02:27+00:00`
-- last_modified: `Sun, 29 Mar 2026 18:45:52 GMT`
+- fetched_at: `2026-03-30T03:41:21+00:00`
+- checked_at: `2026-03-30T03:41:21+00:00`
+- last_modified: `Sun, 29 Mar 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-29T19:02:27+00:00",
+  "fetched_at": "2026-03-30T03:41:21+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "67e3d5f7ed2b1e76cbc81876e830ce39e9b4ed74",
+      "title": "RHYS JAMES: Serial Lying, Testing Personas & Comedy Origin Story",
+      "published_at": "2026-03-29T23:00:00+00:00",
+      "link": null,
+      "description": "The brilliant Rhys James joins us to talk all things youth and how his childhood experiences made him the comedian he is today - from trying on different personas, lying about pointless things to fit (including a cracking story about lying about his body count to a doctor!), being \"de-bagged\" in front of the fittest girl at his school while he an Seann also reminisce about the wonders of see through furniture and tech. Get tickets for Rhys' new tour here and while you are at it grab a copy of his wonderful book, You'll Like It When You get There , while you are at it! And Don't forget to check out Seann's brand new show, This Is Torture ! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7219330089.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3001",
+      "speakers": [
+        "Rhys James",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "rhys",
+        "james",
+        "serial",
+        "lying",
+        "testing",
+        "personas",
+        "comedy",
+        "origin",
+        "story"
+      ]
+    },
     {
       "key": "ea34b108ae7bbe3adff26a616c6ab864e12de6c6",
       "title": "FIN TAYLOR Pt 2: Worst Trouble He Ever Got In, Origins of Fin Vs History & Fin Vs The Internet",
@@ -1248,6 +1275,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-29 — RHYS JAMES: Serial Lying, Testing Personas & Comedy Origin Story — speakers: Rhys James, Seann Walsh
 - 2026-03-23 — FIN TAYLOR Pt 2: Worst Trouble He Ever Got In, Origins of Fin Vs History & Fin Vs The Internet — speakers: Fin Taylor Pt, Fin Taylor, Seann Walsh
 - 2026-03-22 — FIN TAYLOR: School, Controversial Comedy & Not Being Afraid to Be Disliked — speakers: Seann Walsh, Fin Taylor
 - 2026-03-09 — MAISIE ADAM Pt 2: Surviving Drama School, Discovering Comedy & The Party That Got her in MASSIVE Trouble — speakers: Maisie Adam, Seann Walsh

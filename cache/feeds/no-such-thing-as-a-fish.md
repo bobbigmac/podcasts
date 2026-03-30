@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-03-27T13:43:23+00:00`
-- checked_at: `2026-03-27T13:43:23+00:00`
-- etag: `W/"020e1b69c98b9f681baeee0e462455a3"`
-- last_modified: `Fri, 27 Mar 2026 12:04:29 GMT`
+- fetched_at: `2026-03-30T03:41:21+00:00`
+- checked_at: `2026-03-30T03:41:21+00:00`
+- etag: `W/"6d39bd6123caa66caf393dbff34f2b3d"`
+- last_modified: `Sun, 29 Mar 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-03-27T13:43:23+00:00",
+  "fetched_at": "2026-03-30T03:41:21+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,28 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "02e7d61ddd32702a4fdfb7131be04d611dd7573c",
+      "title": "Little Fish: The Cat Is Banging On The Door",
+      "published_at": "2026-03-29T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8879307",
+      "description": "Dan, James and Andy discuss YOUR facts, including soccer, snacks and Stonehenge. We discover which of us has an alter-ego called 'Struggle Cop'. And we name eight more Friend of the Podcast fact custodians. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8879307.mp3?modified=1774549243&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1765",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "door"
+      ]
+    },
     {
       "key": "7177fd923bf0ebdd028138ecd5c44f77042a50dc",
       "title": "No Such Thing As Doing A Solzhenitsyn",
@@ -15958,6 +15980,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-29 — Little Fish: The Cat Is Banging On The Door — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-26 — No Such Thing As Doing A Solzhenitsyn — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-22 — Little Fish: The Rat Ticklers Need Me — speakers: paradoxical frogs, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-19 — No Such Thing As A Shakespeare Burger — speakers: Shakespeare Burger, Nina Conti, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

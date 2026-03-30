@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-03-29T21:47:06+00:00`
-- checked_at: `2026-03-29T21:47:06+00:00`
-- last_modified: `Sun, 29 Mar 2026 21:09:10 GMT`
+- fetched_at: `2026-03-30T03:41:21+00:00`
+- checked_at: `2026-03-30T03:41:21+00:00`
+- last_modified: `Sun, 29 Mar 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-29T21:47:06+00:00",
+  "fetched_at": "2026-03-30T03:41:21+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,33 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "90841686605e2c241556fca47e0b22210a5f0986",
+      "title": "Bryan Cranston: Breaking Bad, Malcolm In The Middle & Falling In Love With Acting",
+      "published_at": "2026-03-29T23:01:00+00:00",
+      "link": null,
+      "description": "From sitcom Dad to Breaking Bad, how did Bryan transform into Walter White? Bryan Cranston joins Romesh Ranganathan for a wide-ranging conversation about acting, creativity and the career pivots that changed his life. Bryan talks about bringing Arthur Miller’s All My Sons to London, the acting lessons he’s learned over decades on stage and screen and why observing people is the key to building unforgettable characters. He also reflects on precarious nature of the industry, landing the role of Hal in Malcolm in the Middle, nearly losing the part and why the show still means so much to him, especially with a new season on the way. And of course, they dive into the legacy of Breaking Bad from auditioning for Walter White to working with creator Vince Gilligan, the genius behind the show. Bryan shares how the character evolved, the pressure of its success, and whether we can expect a Walter White return. Expect as always, gift giving, some perfectly timed jabs from Bryan, a question from Shanthi, and a thoughtful conversation about creativity, hobbies, fame, and why actors and audiences should approach AI with caution. An insightful, funny and surprisingly personal conversation with one of television’s most respected actors in history. A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 02:11 Bryan’s gift giving 05:30 Observing people and their traits 08:06 Coming to London for All My Sons 11:44 An actors responsibility and theatre 17:33 On Malcom in The Middle and the new season 23:09 Almost losing Malcom In The Middle 25:42 How Bryan found Hal 30:54 Success and pivoting in his career 34:44 Working with Vince Gilligan and his character development 39:14 Having faith in your career 40:45 The brilliance of Breaking Bad 45:48 Auditioning for Walter White 47:40 When did Bryan realise the importance of the show 50:38 The Pizza scene 52:10 Will Walter White be back? 54:29 Shanthi’s question to Bryan, hobbies and growing 58:37 Bryan’s opinion on AI 01:01:59 A game of Misquoted 01:05:48 Dealing with fame 01:10:10 Bryan’s marriage, advice and life balance 01:14:36 An exclusive 01:17:30 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c25a6d5a-2b75-11f1-8164-8358914985e9/image/2f254236ed57eea3e82009fa4b37defd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9395292670.mp3?updated=1774818841",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4859",
+      "speakers": [
+        "Bryan Cranston",
+        "Breaking Bad",
+        "Walter White",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "bryan",
+        "cranston",
+        "breaking",
+        "malcolm",
+        "middle",
+        "love",
+        "acting"
+      ]
+    },
     {
       "key": "f55db28f27a76c157bfabc044f62e6e8b39a6fcf",
       "title": "The Birthday Episode Romesh Didn’t Want",
@@ -1248,6 +1275,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-29 — Bryan Cranston: Breaking Bad, Malcolm In The Middle & Falling In Love With Acting — speakers: Bryan Cranston, Breaking Bad, Walter White, Romesh Ranganathan
 - 2026-03-26 — The Birthday Episode Romesh Didn’t Want — speakers: Want Romesh, Romesh Ranganathan
 - 2026-03-23 — Tom Allen: Gardening With Celebs, Fashion Pet Peeves & The 'Mandem' — speakers: Tom Allen, Romesh Ranganathan
 - 2026-03-19 — How To Survive A Desert Island & Shanthi’s AI Boyfriend?! — speakers: Desert Island, Would Shanthi, Romesh Ranganathan
