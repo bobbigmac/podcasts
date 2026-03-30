@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-03-30T03:41:21+00:00`
-- checked_at: `2026-03-30T03:41:21+00:00`
-- last_modified: `Mon, 30 Mar 2026 00:59:08 GMT`
+- fetched_at: `2026-03-30T10:40:22+00:00`
+- checked_at: `2026-03-30T10:40:22+00:00`
+- last_modified: `Mon, 30 Mar 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-30T03:41:21+00:00",
+  "fetched_at": "2026-03-30T10:40:22+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,28 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "a91633a2443ba52cc2c1de3fbc9b4181cdb6643b",
+      "title": "How to Find the Meaning of Your Life (with Arthur C. Brooks)",
+      "published_at": "2026-03-30T09:00:00+00:00",
+      "link": null,
+      "description": "Let's face it, modern life kinda sucks sometimes. We're glued to our phones, starved for meaning, haunted by a gnawing sense of emptiness. Enter Arthur C. Brooks. He's a Harvard professor, happiness expert, and a man with a plan to help you find your why and build a life that actually fills you up. Arthur’s new book is The Meaning of Your Life. Learn more at https://www.arthurbrooks.com/the-meaning-of-your-life The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠here⁠⁠ . If you enjoyed this conversation, check out Arthur’s previous appearances on the show here and here . Follow Rufus on ⁠LinkedIn⁠ , subscribe to our ⁠Substack⁠ , or send us an email at podcast@nextbigideaclub.com . The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠nextbigideaclub.com⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). Sponsored By: Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠meetfabric.com/nbi⁠ Factor — Head to ⁠⁠factormeals.com/idea50off⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠granola.ai/idea⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP3796546024.mp3?updated=1774832642",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3745",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "meaning",
+        "life",
+        "arthur",
+        "brooks"
+      ]
+    },
     {
       "key": "ba8c845fd1046040fe56cf85572a4e122fb95bb9",
       "title": "The Surprising Power of Oversharing",
@@ -7421,6 +7443,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — How to Find the Meaning of Your Life (with Arthur C. Brooks) — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-03-26 — The Surprising Power of Oversharing — speakers: Leslie John, Rufus Griscom, Caleb Bissinger
 - 2026-03-23 — How a Mormon Journalist Became a Degenerate Gambler — speakers: Mormon Journalist Became, Supreme Court, Rufus Griscom, Caleb Bissinger
 - 2026-03-19 — Michael Pollan on Food, Psychedelics and His Next Book — speakers: Michael Pollan, Rufus Griscom, Caleb Bissinger

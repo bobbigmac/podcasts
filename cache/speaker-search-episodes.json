@@ -29352,6 +29352,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:5a46c54e4129",
+        "feed_title": "The Chris Evans Show with The National Lottery",
+        "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",
+        "dedupe_key": "de4cbc764c8194ca075054c13ea1ef80ec4a1e2d",
+        "episode_key": "de4cbc764c8194ca075054c13ea1ef80ec4a1e2d",
+        "title": "Simon Pegg, David Mitchell, Big Zuu, Miriam Margolyes",
+        "published_at": "2022-07-08T15:35:36Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on the show we welcome friends from the world of music, comedy, sport and television.\nThe hilarious David Mitchell shares all about this new stage show 'Upstart Crow'.\nActing sensation Simon Pegg chats the brilliant new Channel 4 show 'The Undeclared War'.\nMusical power couple Sophie Ellis Bextor and Richard ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/chrisevansvirginuk/e/62c84ec8e70aa700129f54c3/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/simon-pegg-david-mitchell-big-zuu-miriam-margolyes/id1450650136?i=1000569280329&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:8b882be3fb7f",
         "feed_title": "Always Take Notes",
         "source_rss_url": "https://feeds.megaphone.fm/NSR9028740995",
@@ -29894,6 +29916,28 @@
         "description": "In a special REMAIN INDOORS edition, recorded remotely, we summon the writing team behind Mitchell & Webb's 'Remain Indoors' After The Event sketches, whilst all remaining indoors, and discuss the unprecedented situation that finds us all remaining indoors, and the story of the writing of this series of post-apocalypti",
         "audio_url": "https://sphinx.acast.com/ruleofthree/special-remainindoors-withdavidmitchell-jonathandryden-taylor-/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/special-remain-indoors-with-david-mitchell-jonathan/id1362621695?i=1000468964153&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:a48d56fab91d",
+        "feed_title": "Steve Wright’s Big Guests",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/p02nrxk0.rss",
+        "dedupe_key": "d36e947f9cbd337881310557ac31d5cfe67637e5",
+        "episode_key": "d36e947f9cbd337881310557ac31d5cfe67637e5",
+        "title": "John Barrowman and Ben Elton & David Mitchell",
+        "published_at": "2019-12-09T17:05:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "John's released 'A Fabulous Christmas' and Ben wrote and David stars in 'Upstart Crow'.",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p07xcbhn.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/john-barrowman-and-ben-elton-david-mitchell/id150783704?i=1000459110338&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
