@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-03-30T10:40:22+00:00`
-- checked_at: `2026-03-30T10:40:22+00:00`
-- etag: `"ccfe3deb4c2928e1d353755404fa483a"`
-- last_modified: `Mon, 30 Mar 2026 09:53:59 GMT`
+- fetched_at: `2026-03-31T07:44:38+00:00`
+- checked_at: `2026-03-31T07:44:38+00:00`
+- etag: `"fb724200abf12b74ab344df07cc09feb"`
+- last_modified: `Tue, 31 Mar 2026 04:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-03-30T10:40:22+00:00",
+  "fetched_at": "2026-03-31T07:44:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -970,24 +970,6 @@
       "topics": [
         "jonathan"
       ]
-    },
-    {
-      "key": "f942c6816162762c6031a889426ba2b015cb6d33",
-      "title": "Dan Tiernan: Going Under",
-      "published_at": "2025-03-31T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0l0xxch",
-      "description": "Dan Tiernan doesn't just perform stand up - he attacks it. In Going Under, he debuts his unique brand of furious, unpredictable and wildly entertaining comedy on the radio, covering living with dyspraxia, becoming a dinner lady, and his sister's cancer diagnosis. An exhilarating mix of raw personal chaos, cutting observations, and gloriously queasy gags, recorded live at Backyard Comedy Club. Written and Performed by Dan Tiernan Produced by Ewan McAdam Production Manager - Laura Shaw Executive Producer - Charlie Dinkin A Daddy's SuperYacht Production for BBC Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l0xv8d.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27600000",
-      "itunes_duration": "1725",
-      "speakers": [
-        "Dan Tiernan"
-      ],
-      "topics": [
-        "tiernan"
-      ]
     }
   ]
 }
@@ -1045,4 +1027,3 @@
 - 2025-04-21 — The Skewer — speakers: Jon Holmes
 - 2025-04-14 — Introducing: The Naked Week
 - 2025-04-07 — Call Jonathan Pie — speakers: Jonathan Pie
-- 2025-03-31 — Dan Tiernan: Going Under — speakers: Dan Tiernan

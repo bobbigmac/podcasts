@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-03-30T21:57:21+00:00`
-- checked_at: `2026-03-30T21:57:21+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpRNU1EQXlNVEkwTkRNPTo6c2F4ZXNz"`
+- fetched_at: `2026-03-31T07:44:38+00:00`
+- checked_at: `2026-03-31T07:44:38+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpRNU16TXhOemsyTkRBPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-03-30T21:57:21+00:00",
+  "fetched_at": "2026-03-31T07:44:38+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,13 +30,13 @@
     {
       "key": "68be2d1da04e8431db726b63579f1991bb94e312",
       "title": "Help I’ve Never Shaved My Pubes | And Jordan’s Buckfast Regret",
-      "published_at": "2026-03-30T19:49:48+00:00",
+      "published_at": "2026-03-31T04:59:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-ive-never-shaved-my-pubes-and-jordans-buckfast-regret",
-      "description": "The boys are back on the bus leaving the bonnie streets of Glasgow for the nostalgic sights of Manchester. Jordan is regretting getting overly excited with a half pint of Buckfast, while William is regretting agreeing to let Producer Ben read the dilemmas - even if it means saving himself from feeling carsick. After getting over Ben's monotone voice, they tackle your dilemmas involving accidentally sexting your barber and how to shave your pubes for the first time. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "The boys are back on the bus leaving the bonnie streets of Glasgow for the nostalgic sights of Manchester. Jordan is regretting getting overly excited with a half pint of Buckfast, while William is regretting agreeing to let Producer Ben read the dilemmas - even if it means saving himself from feeling carsick. After getting over Ben's monotone voice, they tackle your dilemmas involving accidentally sexting your barber and how to shave your pubes for the first time. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1774900202126-b38bfbb8-cd87-49ac-8be9-83adaccc875b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69cacab377ffabc4fc6b38e7/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=mMzt5hBSUlC6rmpu_ws_Vs3Bj_52PE2kfU_Z3754B2Y",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58551850",
       "itunes_duration": "40:32",
       "speakers": [
         "Jordan’s Buckfast Regret",
@@ -14012,7 +14012,7 @@
 
 ## Episodes (newest first)
 
-- 2026-03-30 — Help I’ve Never Shaved My Pubes | And Jordan’s Buckfast Regret — speakers: Jordan’s Buckfast Regret, William Hanson, Jordan North
+- 2026-03-31 — Help I’ve Never Shaved My Pubes | And Jordan’s Buckfast Regret — speakers: Jordan’s Buckfast Regret, William Hanson, Jordan North
 - 2026-03-27 — What’s A Gummer?! | And Backstage at Wembley Arena — speakers: Wembley Arena Jordan, William Hanson, Jordan North
 - 2026-03-24 — Help I Used Dirty Loo Roll | And We’re On The TOUR BUS! — speakers: William Hanson, Jordan North
 - 2026-03-20 — Old People Foreplay | And Nostalgic LADS Mags — speakers: William Hanson, Jordan North
