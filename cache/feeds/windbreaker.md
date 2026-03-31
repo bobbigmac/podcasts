@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-03-31T07:44:38+00:00`
-- checked_at: `2026-03-31T07:44:38+00:00`
-- etag: `W/"39b50-oeTCOK4ISGVOkssm+xOpuTjGM54"`
+- fetched_at: `2026-03-31T16:16:17+00:00`
+- checked_at: `2026-03-31T16:16:17+00:00`
+- etag: `W/"393bb-QpSrKLfuQYSlzZps3ptbjG301so"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-03-31T07:44:38+00:00",
+  "fetched_at": "2026-03-31T16:16:17+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,31 +27,6 @@
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "9ea0bd3455ab3155132cabc03ba7c597f79a1a57",
-      "title": "The Highs, Lows, and Spoilers of Pokémon Pokopia | Windbreaker Podcast",
-      "published_at": "2026-03-31T01:00:01+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/The-Highs--Lows--and-Spoilers-of-Pokmon-Pokopia--Windbreaker-Podcast-e3h6g3i",
-      "description": "On this week’s episode of Windbreaker, JM8 and Marty dig deep into Pokémon Pokopia -- what they liked, what they didn't, and what lessons Game Freak should crib from it. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-      "enclosure_url": "https://traffic.megaphone.fm/APO8832907128.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "59577991",
-      "itunes_duration": "01:02:03",
-      "speakers": [
-        "Pokémon Pokopia",
-        "Yahtzee Croshaw",
-        "Marty Sliva"
-      ],
-      "topics": [
-        "highs",
-        "lows",
-        "spoiler",
-        "pokopia",
-        "windbreaker",
-        "podcast"
-      ]
-    },
     {
       "key": "40f4e7af4e3c3f7443682bb9dec139a81077947c",
       "title": "Let's Fix Your Boring Fantasy World | Windbreaker Podcast",
@@ -2717,7 +2692,6 @@
 
 ## Episodes (newest first)
 
-- 2026-03-31 — The Highs, Lows, and Spoilers of Pokémon Pokopia | Windbreaker Podcast — speakers: Pokémon Pokopia, Yahtzee Croshaw, Marty Sliva
 - 2026-03-24 — Let's Fix Your Boring Fantasy World | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-03-17 — Resident Evil Requiem Spoilercast | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-03-10 — What Makes the Perfect Zone Out Game? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

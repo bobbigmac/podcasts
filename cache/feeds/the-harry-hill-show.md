@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-03-30T08:01:08+00:00`
-- checked_at: `2026-03-30T08:01:08+00:00`
-- last_modified: `Mon, 30 Mar 2026 07:44:29 GMT`
+- fetched_at: `2026-03-31T16:16:17+00:00`
+- checked_at: `2026-03-31T16:16:17+00:00`
+- last_modified: `Tue, 31 Mar 2026 14:39:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-30T08:01:08+00:00",
+  "fetched_at": "2026-03-31T16:16:17+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -54,7 +54,7 @@
       "title": "Self Esteem aka Rebecca Lucy Taylor: Instructions for Assembling Flat Pack Furniture",
       "published_at": "2026-03-23T06:00:00+00:00",
       "link": null,
-      "description": "Harry is joined by renaissance woman, Self Esteem aka Rebecca Lucy Taylor to discover why she's dressing like him. This week, we're learning all about MARY QUEEN OF SCOTTS with Anna Turnham. \"Self Esteem (musician)\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on CMAT. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Harry is joined by renaissance woman, Self Esteem aka Rebecca Lucy Taylor to discover why she's dressing like him. This week, we're learning all about MARY QUEEN OF SCOTTS with Anna Turnham. Saily - Download from the app store and use code HARRYHILL at checkout for 15% off! For more details: https://saily.com/harryhill ⛵ \"Self Esteem (musician)\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on CMAT. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/1b2e2cc0-25cf-11f1-bff2-8ff582be36c8/image/ced4b3db2d99db388c53634992c07ef5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/NSR3359192056.mp3?updated=1774262678",
       "enclosure_type": "audio/mpeg",

@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-30T16:13:36+00:00`
-- checked_at: `2026-03-30T16:13:36+00:00`
-- etag: `"djEuMi4wOjE3NzQ4ODQ0Mjg0Nzk="`
+- fetched_at: `2026-03-31T16:16:17+00:00`
+- checked_at: `2026-03-31T16:16:17+00:00`
+- etag: `"djEuMi4wOjE3NzQ5NzEzODE0ODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-30T16:13:36+00:00",
+  "fetched_at": "2026-03-31T16:16:17+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "eeb868b82faae1d79cc4392eb0f352ddeddb2d8a",
+      "title": "How green is the Green Party?",
+      "published_at": "2026-03-31T15:36:21+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/how-green-is-the-green-party",
+      "description": "Green Party support is surging after its by-election victory in Gorton and Denton last month. But is Zack Polanski’s party leaving its environmental principles behind? Anoosh Chakelian is joined by Megan Kenyon to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1774971130450-8377b38a-c721-4cb1-8786-973a69ef90d4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69cbe9f592d007a7657c5584/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74338879",
+      "itunes_duration": "30:56",
+      "speakers": [
+        "Green Party",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "green",
+        "party"
+      ]
+    },
     {
       "key": "b0581a50cf789b827e7dbc0af053bea29237cb68",
       "title": "Inside Labour’s immigration feud",
@@ -30849,6 +30870,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-31 — How green is the Green Party? — speakers: Green Party, Anoosh Chakelian, Oli Dugmore
 - 2026-03-30 — Inside Labour’s immigration feud — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-28 — “Another chapter in the farce that is HS2” | Will and Anoosh’s weekly round up — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-27 — Rory Stewart sees fundamental evil in Trump — speakers: Rory Stewart, Anoosh Chakelian, Oli Dugmore

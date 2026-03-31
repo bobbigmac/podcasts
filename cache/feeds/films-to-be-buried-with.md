@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-03-25T19:11:41+00:00`
-- checked_at: `2026-03-25T19:11:41+00:00`
-- last_modified: `Wed, 25 Mar 2026 17:57:48 GMT`
+- fetched_at: `2026-03-31T16:16:17+00:00`
+- checked_at: `2026-03-31T16:16:17+00:00`
+- last_modified: `Tue, 31 Mar 2026 16:11:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-25T19:11:41+00:00",
+  "fetched_at": "2026-03-31T16:16:17+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -29,7 +29,7 @@
   "episodes": [
     {
       "key": "d60f5ea23af60db22b113080fec00a4d83f8100c",
-      "title": "Phil Lord & Chris Miller • (Project Hail Mary / The Lego Movie / Cloudy With A Chance...) • #388",
+      "title": "Phil Lord & Chris Miller (Project Hail Mary / The Lego Movie / Cloudy With A Chance...) • #388",
       "published_at": "2026-03-25T08:29:00+00:00",
       "link": "https://www.patreon.com/cw/brettgoldstein",
       "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with two absolute megastars in the industry, it's PHIL LORD & CHRIS MILLER ! A truly fine double-guest sureshot as Phil and Chris connect on the line to talk all things movies (and indeed life and death), and celebrate the release of their new movie PROJECT HAIL MARY ! The perfect moment to receive the duo as guests. The trio actually have a through line of the Bill Lawrence connection (who appreciators will definitely be familiar with), but on top of that, we get to hear about all thing Project Hail Mary, space loneliness, getting dark but not grim-dark, science being social, the preference of mess when it comes to film, how the film 2001 clearing the cinematic dancefloor led to total inspiration, the subgenre of Florida Swamp Horror, puppet turkey crowdwork, and the joys of getting a screen band together. Their shared mantra of \"Let's make someone's favourite movie\" is perfect, and something that for sure many listeners can attest to. And if all else fails, as they'll advise you, just make a movie with Ryan Gosling! Enjoy. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! ⁠ PROJECT HAIL MARY ACROSS THE SPIDER-VERSE THE LEGO MOVIE CLOUDY WITH A CHANCE OF MEATBALLS IMDB –––––––––– ⁠⁠⁠ BRETT • X ⁠⁠⁠ ⁠⁠⁠ BRETT • INSTAGRAM ⁠⁠⁠ ⁠⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠⁠ ⁠⁠⁠ TED LASSO ⁠⁠⁠ ⁠⁠⁠ SHRINKING ⁠⁠⁠ ⁠⁠⁠ ALL OF YOU ⁠⁠⁠ ⁠⁠⁠ SOULMATES ⁠⁠⁠ ⁠⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -57,7 +57,7 @@
     },
     {
       "key": "3afd5dd2539a19a75cfe9d08b337bf05550bc152",
-      "title": "Elisabeth Moss • (Mad Men / The Handmaid's Tale / The Invisible Man) • #387",
+      "title": "Elisabeth Moss (Mad Men / The Handmaid's Tale / The Invisible Man) • #387",
       "published_at": "2026-03-18T08:29:00+00:00",
       "link": "https://www.patreon.com/cw/brettgoldstein",
       "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the true treasure and official friend of the podcast ELISABETH MOSS ! This is a glorious episode featuring one of the brightest shining stars of big and less-big screen (depending on your home cinema dimensions) of the past couple of decades, who handles pure business in front of as well as behind the camera. For some of us the journey began with her portrayal of Peggy Olson on Mad Men which ran for the duration of the show, and maybe for some it began more recently with the intense and chilling The Invisible Man. Without going through each and every role Elisabeth has played, basically at some point you will have encountered her work, which will surely be why you are here listening - and in this bubbly and beautiful episode you'll get to hear all sorts of behind the scenes goodies, present day life moments, and some superb choices. Elisabeth is awesome - and - we are blessed to have her on the Patreon team! For as long as she feels it appropriate to stay, naturally. ENJOY! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! IMDB IMPERFECT WOMEN • out now ⁠ MAD MEN THE HANDMAID'S TALE THE INVISIBLE MAN LEIGH WHANNEL EP (dir. Invisible Man) –––––––––– ⁠⁠ BRETT • X ⁠⁠ ⁠⁠ BRETT • INSTAGRAM ⁠⁠ ⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠ ⁠⁠ TED LASSO ⁠⁠ ⁠⁠ SHRINKING ⁠⁠ ⁠⁠ ALL OF YOU ⁠⁠ ⁠⁠ SOULMATES ⁠⁠ ⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -105,7 +105,7 @@
     },
     {
       "key": "29fd6151046bcdc7bc4f1875297187ba82959695",
-      "title": "Josh Horowitz • (Happy Sad Confused / Who's A Good Guest) • #386",
+      "title": "Josh Horowitz (Happy Sad Confused / Who's A Good Guest) • #386",
       "published_at": "2026-02-18T08:29:00+00:00",
       "link": "https://www.patreon.com/cw/brettgoldstein",
       "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the marvelous and very multi-faceted gem JOSH HOROWITZ ! Josh has been putting in a huge amount of work over the years primarily in the world of the more public facing celebrity, be it in Q&A form, red carpet, podcast or any other formation you can think of. Well now the tables have officially turned, and Brett hosts Josh in this awesome and immensely fun catch up. We get to hear about all sorts including his own writing process, being a fan first at all times, inventive phonecall impersonations at a young age, death as a catalyst for going in on films, when horrors win, pushing sad or scared buttons, and some unlikely Superbob inspiration gets unlocked too! You shall enjoy. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! IG HAPPY SAD CONFUSED ⁠ WHO'S A GOOD GUEST JUNKETEERS –––––––––– ⁠⁠ BRETT • X ⁠⁠ ⁠⁠ BRETT • INSTAGRAM ⁠⁠ ⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠ ⁠⁠ TED LASSO ⁠⁠ ⁠⁠ SHRINKING ⁠⁠ ⁠⁠ ALL OF YOU ⁠⁠ ⁠⁠ SOULMATES ⁠⁠ ⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -9252,10 +9252,10 @@
 
 ## Episodes (newest first)
 
-- 2026-03-25 — Phil Lord & Chris Miller • (Project Hail Mary / The Lego Movie / Cloudy With A Chance...) • #388 — speakers: Chris Miller, Brett Goldstein
-- 2026-03-18 — Elisabeth Moss • (Mad Men / The Handmaid's Tale / The Invisible Man) • #387 — speakers: Elisabeth Moss, Brett Goldstein
+- 2026-03-25 — Phil Lord & Chris Miller (Project Hail Mary / The Lego Movie / Cloudy With A Chance...) • #388 — speakers: Chris Miller, Brett Goldstein
+- 2026-03-18 — Elisabeth Moss (Mad Men / The Handmaid's Tale / The Invisible Man) • #387 — speakers: Elisabeth Moss, Brett Goldstein
 - 2026-03-04 — Himesh Patel • Rewind Classic (Tenet / Station 11 / Yesterday) — speakers: Himesh Patel, Brett Goldstein
-- 2026-02-18 — Josh Horowitz • (Happy Sad Confused / Who's A Good Guest) • #386 — speakers: Josh Horowitz, Brett Goldstein
+- 2026-02-18 — Josh Horowitz (Happy Sad Confused / Who's A Good Guest) • #386 — speakers: Josh Horowitz, Brett Goldstein
 - 2026-02-04 — Tig Notaro (Come See Me In The Good Light / The Morning Show / Handsome Podcast) • #385 — speakers: Tig Notaro, Brett Goldstein
 - 2026-01-21 — Matt Forde • The Resurrection (Spitting Image / Have I Got News For You / Defying Calamity) • #384 — speakers: Matt Forde, Brett Goldstein
 - 2026-01-07 — Meera Syal (The Revenge Club / The Kumars At No. 42 / Goodness Gracious Me) • #383 — speakers: Meera Syal, Brett Goldstein
