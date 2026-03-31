@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-03-23T03:24:00+00:00`
-- checked_at: `2026-03-23T03:24:00+00:00`
-- etag: `"djEuMi4wOjE3NzQyMzUwMTkzMDQ="`
+- fetched_at: `2026-03-31T14:02:04+00:00`
+- checked_at: `2026-03-31T14:02:04+00:00`
+- etag: `"djEuMi4wOjE3NzQ5NjA5MzExNDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-03-23T03:24:00+00:00",
+  "fetched_at": "2026-03-31T14:02:04+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "6bf13a703c7b7bef3eeb4187683ea757ffa9c4d9",
+      "title": "Show 396. Lisa Nandy LIVE",
+      "published_at": "2026-03-31T12:41:33+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-396-lisa-nandy-live",
+      "description": "How does Labour defeat Reform and the Greens? What would count as success in the local, Holyrood and Cardiff elections for Labour? PLUS, The Secretary of State for Culture, Media and Sport talks Culture Media and... Peroni, AI and Britney Spears. It's a classic. THE POLITICAL PARTY LIVE 20 April: Shabana Mahmood 11 May: Lewis Goodall https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SIGN UP to Matt's mailing list to get free audience tickets to his Radio 4 series: https://www.mattforde.com/mailing-list SEE Matt's brand new stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/69cbc12303f0e1583054c843/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "139650307",
+      "itunes_duration": "1:36:58",
+      "speakers": [
+        "Matt Forde"
+      ],
+      "topics": [
+        "lisa",
+        "nandy"
+      ]
+    },
     {
       "key": "bd72340e1ac2b51fbde8112afc3a3499969c449a",
       "title": "Show 395. Chris Curtis",
@@ -10206,6 +10225,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-31 — Show 396. Lisa Nandy LIVE — speakers: Matt Forde
 - 2026-03-23 — Show 395. Chris Curtis — speakers: Chris Curtis, Matt Forde
 - 2026-03-16 — Show 394. Karl Turner — speakers: Karl Turner, Matt Forde
 - 2026-03-11 — Show 393. Zack Polanski - LIVE — speakers: Zack Polanski, Matt Forde

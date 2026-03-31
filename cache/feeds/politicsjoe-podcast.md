@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-03-31T10:13:58+00:00`
-- checked_at: `2026-03-31T10:13:58+00:00`
-- etag: `"djEuMi4wOjE3NzQ5NDcwMTE4NjE="`
+- fetched_at: `2026-03-31T14:02:04+00:00`
+- checked_at: `2026-03-31T14:02:04+00:00`
+- etag: `"djEuMi4wOjE3NzQ5NTg0Mzk1MzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-03-31T10:13:58+00:00",
+  "fetched_at": "2026-03-31T14:02:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "2307785bb729c6ebee209925f2ddc19169cfd2ea",
+      "title": "Grace Blakeley: Elites want to ruin the world. This is how we stop them",
+      "published_at": "2026-03-31T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69cb8a9c16bd65d0697587ea",
+      "description": "Political economist Grace Blakeley caught up with Ava at DiEM's Resistance Is Existence: The Fight For Our Future event last week to chat about joining the Green Party, Iran, and decoupling Britain from the United States. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69cb8a9c16bd65d0697587ea/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "15691148",
+      "itunes_duration": "10:53",
+      "speakers": [
+        "Grace Blakeley"
+      ],
+      "topics": [
+        "grace",
+        "blakeley",
+        "elite",
+        "world"
+      ]
+    },
     {
       "key": "a66b590197d5ca3602d2754dad870875ac440eed",
       "title": "I humiliated a GB News host on live TV",
@@ -12304,6 +12325,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-31 — Grace Blakeley: Elites want to ruin the world. This is how we stop them — speakers: Grace Blakeley
 - 2026-03-30 — I humiliated a GB News host on live TV — speakers: Matt Goodwin
 - 2026-03-29 — Explained: Elon Musk's plan for world domination | Quinn Slobodian and Ben Tarnoff interview — speakers: Ben Tarnoff
 - 2026-03-27 — Populism is taking over Britain. This is how we stop it | Liam Byrne interview — speakers: Liam Byrne

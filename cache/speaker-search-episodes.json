@@ -6767,6 +6767,28 @@
     ],
     "harry-hill": [
       {
+        "feed_slug": "external:apple:e3e516d0d8b6",
+        "feed_title": "RED TALKS",
+        "source_rss_url": "https://feeds.megaphone.fm/APL1280656580",
+        "dedupe_key": "10ec511e43afc5b5bac89daa11c3e630e0a2455f",
+        "episode_key": "10ec511e43afc5b5bac89daa11c3e630e0a2455f",
+        "title": "HARRY HILL: Comedian, Doctor, Man",
+        "published_at": "2026-03-29T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedy Legend Harry Hill joins Red Richardson and shares stories from his early days winning the very first Edinburgh Best Newcomer Award, his competitiveness with contemporaries like Lee Evans and Jack Dee and shares some behind the scenes stories from You've Been Framed about a naughty producer and he tells a story a",
+        "audio_url": "https://traffic.megaphone.fm/APL8200581865.mp3?updated=1774795078",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harry-hill-comedian-doctor-man/id1849405652?i=1000758105998&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f20fa26374f3",
         "feed_title": "Music News Today | 2 Min News | The Daily News Now!",
         "source_rss_url": "https://feeds.fastcast.ai/music-news-the-daily-news-now.xml",
@@ -17370,6 +17392,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:ff10e364941c",
+        "feed_title": "The Louis Theroux Podcast",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT1948741183",
+        "dedupe_key": "e0d39b4ddd669432b763e988bd3ac0e44902a41d",
+        "episode_key": "e0d39b4ddd669432b763e988bd3ac0e44902a41d",
+        "title": "Stewart Lee on \"Netflix comedians”, disastrous gigs, and Elon Musk",
+        "published_at": "2026-03-24T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode, Louis speaks to comedian, writer and 41st best stand-up ever, Stewart Lee. Stewart tells Louis about taking aim at “Netflix comedians” in his new show, Stewart Lee vs. The Man-Wulf, what went wrong at a disastrous gig at the Royal Albert Hall, and what Elon Musk doesn't understand about comedy.\n\n\n\nWarn",
+        "audio_url": "https://traffic.megaphone.fm/GLT7834114936.mp3?updated=1774889570",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee-on-netflix-comedians-disastrous-gigs-and/id1725833532?i=1000756884579&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:0ca1d54dc195",
         "feed_title": "White Wine Question Time",
         "source_rss_url": "https://feeds.acast.com/public/shows/acaaaf98-69c1-4a94-b843-5ea7e3892f66",
@@ -21160,6 +21204,28 @@
         "feed_image_url": null,
         "description": "Mike Wozniak, Mike Shephard, Tom Crowley and Linnea Sage join in this month as we get to grips with the new outbreak of Jacobinius Arse Syndrome.\nStock media provided by Setuniman/Pond5.com and Soundrangers/Pond5.com\nMusic credit courtesy of epidemicsound.com:\nJag Vet en Dejlig Rosa / Traditional\nSonatina in G Major / ",
         "audio_url": "https://mgln.ai/e/31/claritaspod.com/measure/afp-9384.calisto.simplecastaudio.com/e92a01ab-5b37-4cfb-95ba-46364813a9d2/episodes/3e6034aa-b42f-4294-bfe7-0bf3e2854493/audio/128/default.mp3?aid=rss_feed&awCollectionId=e92a01ab-5b37-4cfb-95ba-46364813a9d2&awEpisodeId=3e6034aa-b42f-4294-bfe7-0bf3e2854493&feed=4NOSW3hj",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-123-jacobinius-arse-syndrome/id1022024768?i=1000714869964&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Mike Wozniak"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f4add41b198d",
+        "feed_title": "Beef And Dairy Network",
+        "source_rss_url": "https://feeds.simplecast.com/4NOSW3hj",
+        "dedupe_key": "76a996d28a4943b6fb93927ee7d50605400b879f",
+        "episode_key": "76a996d28a4943b6fb93927ee7d50605400b879f",
+        "title": "Episode 123 - Jacobinius Arse Syndrome",
+        "published_at": "2025-06-27T22:35:41Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Mike Wozniak, Mike Shephard, Tom Crowley and Linnea Sage join in this month as we get to grips with the new outbreak of Jacobinius Arse Syndrome.\nStock media provided by Setuniman/Pond5.com and Soundrangers/Pond5.com\nMusic credit courtesy of epidemicsound.com:\nJag Vet en Dejlig Rosa / Traditional\nSonatina in G Major / ",
+        "audio_url": "https://mgln.ai/e/31/claritaspod.com/measure/pscrb.fm/rss/p/afp-9384.calisto.simplecastaudio.com/e92a01ab-5b37-4cfb-95ba-46364813a9d2/episodes/3e6034aa-b42f-4294-bfe7-0bf3e2854493/audio/128/default.mp3?aid=rss_feed&awCollectionId=e92a01ab-5b37-4cfb-95ba-46364813a9d2&awEpisodeId=3e6034aa-b42f-4294-bfe7-0bf3e2854493&feed=4NOSW3hj",
         "link_url": "https://podcasts.apple.com/gb/podcast/episode-123-jacobinius-arse-syndrome/id1022024768?i=1000714869964&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,

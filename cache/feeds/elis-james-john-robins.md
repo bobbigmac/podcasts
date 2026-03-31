@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-03-27T19:11:47+00:00`
-- checked_at: `2026-03-27T19:11:47+00:00`
-- etag: `"487fd4f6b285fa12a386ad62ec739857"`
-- last_modified: `Fri, 27 Mar 2026 17:35:03 GMT`
+- fetched_at: `2026-03-31T14:02:04+00:00`
+- checked_at: `2026-03-31T14:02:04+00:00`
+- etag: `"ded39601ad944e008213e2bc6e8337a6"`
+- last_modified: `Tue, 31 Mar 2026 13:56:51 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-03-27T19:11:47+00:00",
+  "fetched_at": "2026-03-31T14:02:04+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -34,7 +34,7 @@
       "title": "#526 - Huw Bris, Sir Psycho Sexy and Your Mexico 86",
       "published_at": "2026-03-27T17:35:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0n96rq6",
-      "description": "“You were hungover thinking about darts.” “You are scum.” “You are a waste that has wasted himself.” “How do you like that John?” “Why don’t you just melt in the park you never walked through enough 21 years ago?” “You complete piece of S.” From that exchange you wouldn’t think it would be a philosophical episode. However it is. It's deep. It’s a privilege, despair, sadness, nostalgia fest. And for once, the despair isn’t coming from John. You’ve got the Bosnians to thank for that. It’s also Edin Dzeko’s fault as to why Elis is dressed as a man who runs a community farm. Elsewhere Dave gets some coaching off a much speedier runner, John couldn’t leave his bed because he had an enjoyable visit to his old university college, and we have a reappraisal of Mellowship Slinky in B major. And finally, do we have a companion podcast to ‘A History of Nudity in a Thousand Beautiful Women with John Robins’? Because, after all, you simply must have two episodes a week these days. Get your Bureau when it’s piping hot on Saturday mornings, only on BBC Sounds, and if you want to drop anything down into our digital postal chutes then wang it over to elisandjohn@bbc.co.uk.",
+      "description": "“You were hungover thinking about darts.” “You are scum.” “You are a waste that has wasted himself.” “How do you like that John?” “Why don’t you just melt in the park you never walked through enough 21 years ago?” “You complete piece of S.” From that exchange you wouldn’t think it would be a philosophical episode. However it is. It's deep. It’s a privilege, despair, sadness, nostalgia fest. And for once, the despair isn’t coming from John. You’ve got the Bosnians to thank for that. It’s also Edin Dzeko’s fault as to why Elis is dressed as a man who runs a community farm. Elsewhere Dave gets some coaching off a much speedier runner, John couldn’t leave his bed because he had an enjoyable visit to his old university college, and we have a reappraisal of Mellowship Slinky in B major. And finally, do we have a companion podcast to ‘A History of Nudity in a Thousand Beautiful Women with John Robins’? Because, after all, you simply must have two episodes a week these days. Get your Bureau when it’s piping hot on Saturday mornings, only on BBC Sounds.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9717s.mp3",
       "enclosure_type": "audio/mpeg",
@@ -83,7 +83,7 @@
       "title": "#524 - The Purple Pill, Hits & Mems and John Robins In The Manosphere",
       "published_at": "2026-03-20T17:05:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0n7ww1z",
-      "description": "It’s all Hits and Mems today as we imagine two media worlds that John Robins could have inhabited. These being: Bristol local radio (1-4pm) and the manosphere. Traffic, travel and the afternoon countdown to the pub, or grifting? Two forks in the road he could have gone down, but thankfully hasn’t. Safe to say his imagination is in fervent overdrive as we also hear of a world where he has $10 million… and won an Oscar. But what of Elis? Well he may have a heart attack. We also receive a right of reply from a disgraced Global Radio employee trying to clear his name, and there’s an all time great Mad Dad story of a father in a cultural vacuum. Do you possess anything mildly amusing which could pique our interest? Well elisandjohn@bbc.co.uk is the place to send it. And do get on the blooming Bureau on a Saturday why don’t you?",
+      "description": "It’s all Hits and Mems today as we imagine two media worlds that John Robins could have inhabited. These being: Bristol local radio (1-4pm) and the manosphere. Traffic, travel and the afternoon countdown to the pub, or grifting? Two forks in the road he could have gone down, but thankfully hasn’t. Safe to say his imagination is in fervent overdrive as we also hear of a world where he has $10 million… and won an Oscar. But what of Elis? Well he may have a heart attack. We also receive a right of reply from a disgraced Global Radio employee trying to clear his name, and there’s an all time great Mad Dad story of a father in a cultural vacuum. And do get on the blooming Bureau on a Saturday why don’t you?",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n7whd7.mp3",
       "enclosure_type": "audio/mpeg",
@@ -133,7 +133,7 @@
       "title": "#522 - Fast Twitch Diplomacy, Jeez & Onion and To Do With The Weavers",
       "published_at": "2026-03-13T18:15:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0n6k1zb",
-      "description": "The studio is wafting with sandalwood and intense male musk because Dave’s got a new scent, something which is causing John much nasal fascination. But yet again, the big story is a huge Elis James week. What a run he’s on by the way. He’s had a completely genuine standing ovation at one of London’s coolest comedy gigs. Further still, he’s performed the finest bit of house jobbery he’s ever done, with plumbing tape elevating this above Mega Week. Elsewhere, Adrian brings the boys some significant crispy content and John’s even sacking people who no longer work with him. We also have potentially our most round about chat ever in addressing some correspondence. From cumin and white pepper into the meaning of creativity to horses and penguins, back to the email. Want to add to the larder of email content? Well get it to elisandjohn@bbc.co.uk And do check out Saturday’s Bureau for crying out loud. Only on BBC Sounds.",
+      "description": "The studio is wafting with sandalwood and intense male musk because Dave’s got a new scent, something which is causing John much nasal fascination. But yet again, the big story is a huge Elis James week. What a run he’s on by the way. He’s had a completely genuine standing ovation at one of London’s coolest comedy gigs. Further still, he’s performed the finest bit of house jobbery he’s ever done, with plumbing tape elevating this above Mega Week. Elsewhere, Adrian brings the boys some significant crispy content and John’s even sacking people who no longer work with him. We also have potentially our most round about chat ever in addressing some correspondence. From cumin and white pepper into the meaning of creativity to horses and penguins, back to the email. And do check out Saturday’s Bureau for crying out loud. Only on BBC Sounds.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n6k0v1.mp3",
       "enclosure_type": "audio/mpeg",
@@ -157,7 +157,7 @@
       "title": "#521 - Subversive Regional, Call Roger Bannister and All At Sea in a Brandscape",
       "published_at": "2026-03-10T16:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0n5r7nm",
-      "description": "John Robins feels enormous. His Christmas Day, Ryder Cup and Tax Deadline Day have all come at once. That’s right, a new supermarket has opened near his house, and he’s primed and ready to make content that no one else would dream of making. Strap in for some gonzo journalism; it’s Fear and Loathing in Rural Bucks. Supermarket excitement aside, we tackle the big questions: Did Elizabeth I wish she’d had meal deals? Did she resent not having a fridge, or Tetris, or yoghurt? What would Henry VIII have made of an air fryer? Plus, Elis’s Welshness gets him in hypothetical hot water. Get in touch via the world’s most reliable medium: email. It’s elisandjohn@bbc.co.uk.",
+      "description": "John Robins feels enormous. His Christmas Day, Ryder Cup and Tax Deadline Day have all come at once. That’s right, a new supermarket has opened near his house, and he’s primed and ready to make content that no one else would dream of making. Strap in for some gonzo journalism; it’s Fear and Loathing in Rural Bucks. Supermarket excitement aside, we tackle the big questions: Did Elizabeth I wish she’d had meal deals? Did she resent not having a fridge, or Tetris, or yoghurt? What would Henry VIII have made of an air fryer? Plus, Elis’s Welshness gets him in hypothetical hot water.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n5r8z6.mp3",
       "enclosure_type": "audio/mpeg",
@@ -181,7 +181,7 @@
       "title": "#520 - Moheathcliffe, #FindTheFlax and Che Guevara On QI",
       "published_at": "2026-03-06T17:05:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0n53d26",
-      "description": "What do Sir Steve Redgrave, Neil Armstrong, Buzz Aldrin, Nelson Mandela, Gandhi, David Beckham and John Robins have in common? None of them were asked on QI. Elis has though, and it’s clearly going down very very well with all parties. But today feels significant as we rope in a special guest to digest Elis hammering his friend using his fast twitch fibres. On top of that, John’s having a big day - something which others seriously doubt. “He’s probably just had too much hot sauce on his scrambled egg,” cries Dave. Wrong! In fact he’s being texted by a ghost curry house. Elsewhere the boys ask Adrian *all* the questions you’ve ever wanted to know, and we get a bit nostalgic as John talks of the only cool thing he’s ever done. Email us on elisandjohn@bbc.co.uk Remember, the Bureau is available Saturday morning *only on* BBC Sounds.",
+      "description": "What do Sir Steve Redgrave, Neil Armstrong, Buzz Aldrin, Nelson Mandela, Gandhi, David Beckham and John Robins have in common? None of them were asked on QI. Elis has though, and it’s clearly going down very very well with all parties. But today feels significant as we rope in a special guest to digest Elis hammering his friend using his fast twitch fibres. On top of that, John’s having a big day - something which others seriously doubt. “He’s probably just had too much hot sauce on his scrambled egg,” cries Dave. Wrong! In fact he’s being texted by a ghost curry house. Elsewhere the boys ask Adrian *all* the questions you’ve ever wanted to know, and we get a bit nostalgic as John talks of the only cool thing he’s ever done. Remember, the Bureau is available Saturday morning *only on* BBC Sounds.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n53dpf.mp3",
       "enclosure_type": "audio/mpeg",
@@ -230,7 +230,7 @@
       "title": "#518 - An 18 Yard Sprint, Sovereignty Not Dominion and Big Diolch Energy",
       "published_at": "2026-02-27T17:55:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0n3r5zh",
-      "description": "Elis is in the middle of a megaweek. He’s about to do a 100m race for charity that he wishes could be 18 yards, he’s been to 10 Downing Street because Sir Keir is in love with him, and he’s been accosted by a roomful of Welsh people wanting to connect with him. But amongst all this he has also been betrayed. For there was a Paul McCartney-based event that he wasn’t invited to, despite another member of the team making the guest list. But what about John? He’s been doing what he does everyday; checking the price of Bitcoin. This despite not ever having owned any. Plus, there’s an update on the WhatsApp community and another cap in the feather of the world’s greatest invention; e-mail. If you want to get in touch via this great unparalleled medium, then send your messages to elisandjohn@bbc.co.uk.",
+      "description": "Elis is in the middle of a megaweek. He’s about to do a 100m race for charity that he wishes could be 18 yards, he’s been to 10 Downing Street because Sir Keir is in love with him, and he’s been accosted by a roomful of Welsh people wanting to connect with him. But amongst all this he has also been betrayed. For there was a Paul McCartney-based event that he wasn’t invited to, despite another member of the team making the guest list. But what about John? He’s been doing what he does everyday; checking the price of Bitcoin. This despite not ever having owned any.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n3rkq7.mp3",
       "enclosure_type": "audio/mpeg",
@@ -280,7 +280,7 @@
       "title": "#516 - Master of The Memoir, French Flag Fancy and I Am Full of Eggs",
       "published_at": "2026-02-20T17:32:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0n2bl4z",
-      "description": "It’s Melvin Brain in the chair today as we go all Radio 4. What is thought? What is the self? High. Brow. This is the Best Comedy show at the British Podcast Awards 2025. Parenting Hell simply isn't doing this. There’s even an academic called Dr Loevenbruck involved. It is a full spectrum of vibes today. From deep psychology to S’ing yourself twice in a heartbeat. Elsewhere, John has a hollow coldness in the bones. In other words, he’s hungry. Meanwhile, Elis has eggs on the brain. And it turns out there’s hope for John in meeting the love of his life taking life two steps at a time. elisandjohn@bbc.co.uk on the email to get in touch - but do know that Producer Michael has read an awful lot of emails about inner monologues this week. The sheer quality of correspondence this week has been top tier.",
+      "description": "It’s Melvin Brain in the chair today as we go all Radio 4. What is thought? What is the self? High. Brow. This is the Best Comedy show at the British Podcast Awards 2025. Parenting Hell simply isn't doing this. There’s even an academic called Dr Loevenbruck involved. It is a full spectrum of vibes today. From deep psychology to S’ing yourself twice in a heartbeat. Elsewhere, John has a hollow coldness in the bones. In other words, he’s hungry. Meanwhile, Elis has eggs on the brain. And it turns out there’s hope for John in meeting the love of his life taking life two steps at a time. P.S. Producer Michael has read an awful lot of emails about inner monologues this week. The sheer quality of correspondence this week has been top tier.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n2bk7n.mp3",
       "enclosure_type": "audio/mpeg",
@@ -327,7 +327,7 @@
       "title": "#514 - Chinese Geese, Caribbean Soaks and Emre Can Headspace",
       "published_at": "2026-02-13T17:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0n0zkxf",
-      "description": "It’s limbs in the studio as a box of brownies and a couple of books have lifted Elis out of a funk. What great news for bookworms with low blood sugar. But the internal glucose alarm isn’t the only one going off as a fire alert causes chaos. We also get psychological as the boys unpick the idea of the inner monologue, and with that the terrifying engine steering John under the bonnet. Would Freud enjoy this? Potentially. Would it frighten him? Almost certainly. And from brains to bodies, the show gets panned as the least erotic thing possible, whilst we have a couple of fantastically zoological Mad Dads. It’s elisandjohn@bbc.co.uk or 07974 293022 on WhatsApp if you’ve got any comments on the above. But please nothing too close to the erotic bone. Keep it PG.",
+      "description": "It’s limbs in the studio as a box of brownies and a couple of books have lifted Elis out of a funk. What great news for bookworms with low blood sugar. But the internal glucose alarm isn’t the only one going off as a fire alert causes chaos. We also get psychological as the boys unpick the idea of the inner monologue, and with that the terrifying engine steering John under the bonnet. Would Freud enjoy this? Potentially. Would it frighten him? Almost certainly. And from brains to bodies, the show gets panned as the least erotic thing possible, whilst we have a couple of fantastically zoological Mad Dads.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n0zjyc.mp3",
       "enclosure_type": "audio/mpeg",
