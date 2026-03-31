@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-03-30T14:02:47+00:00`
-- checked_at: `2026-03-30T14:02:47+00:00`
-- etag: `"djEuMi4wOjE3NzQ4Nzg3OTM0MDM="`
+- fetched_at: `2026-03-31T03:29:38+00:00`
+- checked_at: `2026-03-31T03:29:38+00:00`
+- etag: `"djEuMi4wOjE3NzQ5MTI4OTkzODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-03-30T14:02:47+00:00",
+  "fetched_at": "2026-03-31T03:29:38+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "8d2c1c7eb0ac1860f1c31393d4f2d1053d72f493",
+      "title": "Mainland (pt 1)",
+      "published_at": "2026-03-30T23:21:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/mainland-pt-1",
+      "description": "Episode 305: Mainland Three hundred episodes in and still finding brilliance in the strangest corners of sport, Distant Pod is the weekly podcast where Elis James, Mike Bubbins and Steff Garrero bring you the best clips, books and documentaries they’ve found. 🎟️ Watch us live in Hackney: https://www.hackneyempire.co.uk/events/the-socially-distant-sports-bar-live 🎤 Mike is on tour in 2026: https://mikebubbins.com/ ❤️ Donate in memory of podcast legend Tops Off Vic: https://www.justgiving.com/page/kelly-bubbins-2?utm_medium=FR&utm_source=EM&utm_campaign=020 🎧 PART 1 Mike kicks things off with Tiger vs Boulder , a clip that perfectly captures the unpredictability (and occasional absurdity) of nature meeting sport. https://www.instagram.com/reel/DUTUF39EfBb/?igsh=MXg0NmdidHQzYWprZg= Elis brings a nostalgic gem — “And Ninian Park looks more like the San Siro!” https://m.youtube.com/watch?v=ny-Za-ryGuk Steff rounds out Part 1 with a pair of clips from Canada https://www.instagram.com/reel/DUyT1FQDtoX/?igsh=dzdrZGx3enQycmx6 https://www.youtube.com/shorts/naGpZhyJP0s 🔒 Subscribe to Distant Pod Bonus Club on Apple Podcasts for early, ad-free Parts 1 & 2 — plus Part 3 as exclusive bonus content every week. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69ca7d0d98052f52e8b681a5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "183495360",
+      "itunes_duration": "1:16:27",
+      "speakers": [
+        "Mainland Three",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "mainland"
+      ]
+    },
     {
       "key": "a16659965835f597c33d8ed31005714d40806cd5",
       "title": "Veg: Pint Size",
@@ -14347,6 +14368,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-30 — Mainland (pt 1) — speakers: Mainland Three, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-29 — Veg: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-27 — The 20% (pt 2) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-25 — The 20% (pt 1) — speakers: Distant Pod, Elis James, Mike Bubbins, Steff Garrero
