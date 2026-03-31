@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-03-30T19:19:15+00:00`
-- checked_at: `2026-03-30T19:19:15+00:00`
-- etag: `"247a27-64e40ee3a6727"`
-- last_modified: `Mon, 30 Mar 2026 17:10:41 GMT`
+- fetched_at: `2026-03-31T10:13:58+00:00`
+- checked_at: `2026-03-31T10:13:58+00:00`
+- etag: `"24782f-64e4e092833c1"`
+- last_modified: `Tue, 31 Mar 2026 08:48:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-03-30T19:19:15+00:00",
+  "fetched_at": "2026-03-31T10:13:58+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -32,11 +32,11 @@
       "title": "Artemis II: NASA’s long road back to the Moon",
       "published_at": "2026-03-26T14:15:00+00:00",
       "link": "https://theconversation.com/why-is-the-us-going-back-round-the-moon-with-artemis-ii-a-space-policy-expert-explains-279229",
-      "description": "Final preparations are underway for NASA’s Artemis II mission, the first crewed mission around the Moon for more than 50 years. Four astronauts, three men and one woman, will spend 10 days aboard the Orion spacecraft, going further into space than any other humans as they orbit the Moon and return to Earth. The mission is the next step of the Artemis programme, which plans to land astronauts back to the Moon by 2028. China has its own programme targeting a full crewed mission to the lunar surface by 2030. In this episode, we speak to Scott Pace , director of the Space Policy Institute at George Washington University about why the US is going back to the Moon. Pace worked in space policy for the George W. Bush Administration, followed by a stint at NASA before his appointment as the executive secretary of the National Space Council during the first Trump administration, where he worked on the launch of the Artemis programme. This episode was written and produced by Katie Flood and Gemma Ware was the executive producer. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Nasa’s Artemis II mission is crucial as doubts build that America can beat China back to the Moon NASA announces a big shake-up of the Artemis Moon program NASA’s Artemis II crewed mission to the Moon shows how US space strategy has changed since Apollo – and contrasts with China’s closed program NASA’s Artemis II plans to send a crew around the Moon to test equipment and lay the groundwork for a future landing Mentioned in this episode: The Making of an Autocrat Search \"The Conversation Weekly\" for our new series: The Making of an Autocrat. Is America watching its democracy unravel in real time? In The Making of an Autocrat from The Conversation, six of the world’s pre-eminant scholars reveal the recipe for authoritarian rule. From capturing a party, to controlling the military, Donald Trump is borrowing from the playbook of strongmen thoughout history. This is the story of how democracies falter — and what might happen next.",
+      "description": "Final preparations are underway for NASA’s Artemis II mission, the first crewed mission around the Moon for more than 50 years. Four astronauts, three men and one woman, will spend 10 days aboard the Orion spacecraft, going further into space than any other humans as they orbit the Moon and return to Earth. The mission is the next step of the Artemis programme, which plans to land astronauts back to the Moon by 2028. China has its own programme targeting a full crewed mission to the lunar surface by 2030. In this episode, we speak to Scott Pace , director of the Space Policy Institute at George Washington University about why the US is going back to the Moon. Pace worked in space policy for the George W. Bush Administration, followed by a stint at NASA before his appointment as the executive secretary of the National Space Council during the first Trump administration, where he worked on the launch of the Artemis programme. This episode was written and produced by Katie Flood and Gemma Ware was the executive producer. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. NASA’s Artemis II mission will take an astronaut crew around the Moon – a space policy expert describes the long road to launch Nasa’s Artemis II mission is crucial as doubts build that America can beat China back to the Moon NASA announces a big shake-up of the Artemis Moon program NASA’s Artemis II crewed mission to the Moon shows how US space strategy has changed since Apollo – and contrasts with China’s closed program NASA’s Artemis II plans to send a crew around the Moon to test equipment and lay the groundwork for a future landing",
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/56fcba57-131d-47e2-a37b-9099b1f9c101.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "39378068",
+      "enclosure_length": "39386218",
       "itunes_duration": "27:21",
       "speakers": [
         "Gemma Ware"

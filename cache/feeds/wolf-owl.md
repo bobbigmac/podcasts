@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-03-27T13:43:23+00:00`
-- checked_at: `2026-03-27T13:43:23+00:00`
-- last_modified: `Fri, 27 Mar 2026 12:03:37 GMT`
+- fetched_at: `2026-03-31T10:13:58+00:00`
+- checked_at: `2026-03-31T10:13:58+00:00`
+- last_modified: `Tue, 31 Mar 2026 09:53:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-27T13:43:23+00:00",
+  "fetched_at": "2026-03-31T10:13:58+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4816cd1933873dbe85c42c10b1e06293bccd9346",
+      "title": "Wikifeet, Football Manager and Pro Plus",
+      "published_at": "2026-03-31T08:48:00+00:00",
+      "link": null,
+      "description": "What are Rom and Tom’s Wikifeet ratings? Can you play Football Manager and still have time to make humous? And who’s been taking Pro Plus in the club? The guys kick off with an apology for the amount of penis chat, rebel against allegations of corporate greed, and Romesh tries to talk about meditating but somehow ends up somewhere else entirely. Tom goes into detail about the spider bite on his foot, and erections turn out to be more of a running theme than anyone planned. Childish? Wolf and Owl? Never. Got a question, a confession, or a voice note you want read out? Send it to wolfowlpod@gmail.com A Ranga Bee Production in partnership with Platform Media. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5160791124.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3072",
+      "speakers": [
+        "Tom’s Wikifeet",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "wikifeet",
+        "football",
+        "manager",
+        "plus"
+      ]
+    },
     {
       "key": "1f4359b27c4594525d4b30163ce1be489dc5ceaf",
       "title": "The Manosphere & Men's Fashion Over 40",
@@ -6401,6 +6424,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-31 — Wikifeet, Football Manager and Pro Plus — speakers: Tom’s Wikifeet, Romesh Ranganathan, Tom Davis
 - 2026-03-27 — The Manosphere & Men's Fashion Over 40 — speakers: Romesh Ranganathan, Tom Davis
 - 2026-03-24 — Horny dreams, zombie apocalypses and school parties — speakers: Romesh Ranganathan, Tom Davis
 - 2026-03-20 — Toilet emergencies, PhDs and Bon Jovi — speakers: Bon Jovi, Romesh Ranganathan, Tom Davis
