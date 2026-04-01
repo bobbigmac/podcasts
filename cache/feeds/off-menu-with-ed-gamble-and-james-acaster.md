@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-03-31T19:19:30+00:00`
-- checked_at: `2026-03-31T19:19:30+00:00`
-- etag: `"djEuMi4wOjE3NzQ5ODQwODc4NzA="`
+- fetched_at: `2026-04-01T03:45:28+00:00`
+- checked_at: `2026-04-01T03:45:28+00:00`
+- etag: `"djEuMi4wOjE3NzUwMTI0Mzk4NTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-03-31T19:19:30+00:00",
+  "fetched_at": "2026-04-01T03:45:28+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d32a21a60228a037245ccb27c3cb6439b66c973c",
+      "title": "Regé-Jean Page",
+      "published_at": "2026-04-01T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/rege-jean-page",
+      "description": "‘Bridgerton’ star Regé-Jean Page has a table booked at the Dream Restaurant this week. Or is that an April Fool? Regé-Jean Page stars in ‘You, Me & Tuscany’ which is released in UK cinemas on 10th April. Follow Regé-Jean on Instagram @regejean Watch the video version of this episode on the Off Menu YouTube on Thu 2 Apr. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1774952107576-ca37bfdf-91dc-4296-8837-10c7b3cd2171.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69cbb90416bd65d0698a738d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92619136",
+      "itunes_duration": "1:17:10",
+      "speakers": [
+        "Jean Page",
+        "Dream Restaurant",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "jean",
+        "page"
+      ]
+    },
     {
       "key": "c70d2a4a184ce7d5e2dfcaf9666c735679228a5f",
       "title": "Ixta Belfrage",
@@ -8330,6 +8353,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — Regé-Jean Page — speakers: Jean Page, Dream Restaurant, Ed Gamble, James Acaster, Ben Williams
 - 2026-03-25 — Ixta Belfrage — speakers: Ixta Belfrage Award, Ixta Belfrage, Ed Gamble, James Acaster, Ben Williams
 - 2026-03-18 — Kojey Radical — speakers: Kojey Radical Brit, Kojey Radical, Ed Gamble, James Acaster, Ben Williams
 - 2026-03-11 — Ahir Shah — speakers: Ahir Shah, Edinburgh Comedy Award-winning, Ed Gamble, James Acaster, Ben Williams

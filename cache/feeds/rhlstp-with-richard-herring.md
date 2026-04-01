@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-03-30T19:19:15+00:00`
-- checked_at: `2026-03-30T19:19:15+00:00`
-- etag: `"djEuMi4wOjE3NzQ4OTQ1OTU3MTM="`
+- fetched_at: `2026-04-01T03:45:28+00:00`
+- checked_at: `2026-04-01T03:45:28+00:00`
+- etag: `"djEuMi4wOjE3NzUwMTIyNTkyNTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-03-30T19:19:15+00:00",
+  "fetched_at": "2026-04-01T03:45:28+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4989de3914c9d9f73571508e808caf32a5e1d091",
+      "title": "RHLSTP 605 - Stephen Bailey",
+      "published_at": "2026-04-01T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #605 - Baileys Solero - Rich is back at the Podcast Room for some intimate studio chats so no rubbish stand up, just an hour or more of CHAT with the lovely (in real life) and amusingly bitchy (on stage) Stephen Bailey. They talk about writing letters to channel heads asking to be on telly, becoming a stand up, even though you’re not a fan of stand-up, the unexpected shy and academic childhood and how Stephen transformed into the confident broadcaster he is today, working on Corrie and the genius of Russell T Davis and Sally Lindsay, wearing a wedding dress on the Zoe Ball TV show, being friends with Tony Robinson and why it’s weird not to have any friends from before you were on TV and the cock and Ferrero Rocher crossover between Stephen and Richard’s acts. See Stephen at the Soho Theatre - https://sohotheatre.com/events/stephen-bailey-tart/ SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1774894339668-f677a306-8cf1-4f27-a038-9eb65dd7a919.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69cabe03bfb99db0bcfbbb58/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35501245",
+      "itunes_duration": "1:05:54",
+      "speakers": [
+        "Stephen Bailey",
+        "Richard Herring"
+      ],
+      "topics": [
+        "stephen",
+        "bailey"
+      ]
+    },
     {
       "key": "20895c7301277291825914c4066844a8301e7fd5",
       "title": "Retro RHLSTP 139 - John Kearns",
@@ -21927,6 +21947,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — RHLSTP 605 - Stephen Bailey — speakers: Stephen Bailey, Richard Herring
 - 2026-03-30 — Retro RHLSTP 139 - John Kearns — speakers: John Kearns, Richard Herring
 - 2026-03-28 — RAACN week 9 — speakers: Richard Herring
 - 2026-03-25 — RHLSTP 604 - Bilal Zafar — speakers: Richard Herring

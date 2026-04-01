@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-03-31T14:02:04+00:00`
-- checked_at: `2026-03-31T14:02:04+00:00`
-- last_modified: `Tue, 31 Mar 2026 13:19:32 GMT`
+- fetched_at: `2026-04-01T03:45:28+00:00`
+- checked_at: `2026-04-01T03:45:28+00:00`
+- last_modified: `Wed, 01 Apr 2026 01:08:45 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Join our Patreon for two shows a week, ad-free listening, early access and much more... Follow this link and get involved! - patreon.com/RussellHoward Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/f49076c57d0c5aac5d76c06956cf8e29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-31T14:02:04+00:00",
+  "fetched_at": "2026-04-01T03:45:28+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,24 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "92511942b8aec1308c6f096b17000e8fb514a7e0",
+      "title": "Dara O Briain",
+      "published_at": "2026-04-01T01:00:00+00:00",
+      "link": null,
+      "description": "The hugely acclaimed Irish Stand-up and host of Mock the Week gives a fascinating and funny hour of anecdotes. Travel with Dara on debating tours of Ireland, stand in a field with him doing astral photography and hear Dara’s trick for finding his own personal nightclub dance floor. Dara has some date left for his smash show ‘Re:Creation’. It helps if you’re Scandinavian, as many of the dates are in that neck of the woods however there are some England and Ireland dates at the end of 2026 too. You can get those tickets, and do everything you ever wanted to do that’s Dara-adjacent by going to https://daraobriain.com 🎟️ And please do go to see Russell while he’s on tour with his latest show that’s busting out some rave reviews: Don’t miss this fantastic show of all brand-new material. Find out more at https://www.russell-howard.co.uk 🎟️ Thanks for coming, please respect our neighbours when you leave. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2d90150c-2c2f-11f1-93db-a79420e35938/image/3c7a6108f79374e1057ee74e34d09776.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5114812803.mp3?updated=1774872590",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3725",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "dara"
+      ]
+    },
     {
       "key": "b0856013207e0c17ea25808991ebcf7089a6e53c",
       "title": "Andrew Mensah",
@@ -2834,6 +2852,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — Dara O Briain — speakers: Russell Howard
 - 2026-03-25 — Andrew Mensah — speakers: Andrew Mensah, Comedian Andrew Mensah, Wayne Rooney, Russell Howard
 - 2026-03-18 — Ben Shephard — speakers: Ben Shephard, Russell Howard
 - 2026-03-11 — Pierre Novellie — speakers: Pierre Novellie Pierre, Russell Howard

@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-03-31T21:55:07+00:00`
-- checked_at: `2026-03-31T21:55:07+00:00`
-- last_modified: `Tue, 31 Mar 2026 20:33:16 GMT`
+- fetched_at: `2026-04-01T03:45:28+00:00`
+- checked_at: `2026-04-01T03:45:28+00:00`
+- last_modified: `Tue, 31 Mar 2026 23:15:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,8 +16,8 @@
   "title": "What Did You Do Yesterday? with Max Rushden & David O'Doherty",
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
-  "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/e3305fc974dac38dee8f3d8103df6e67.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-31T21:55:07+00:00",
+  "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/34bc546b80209ae9aca6b80a5f50c13e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-04-01T03:45:28+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "26a0b2ef68839c23c97da2f8b881fe1ae55dacd5",
+      "title": "WDWDY #65: Max & David's Woke Daydream",
+      "published_at": "2026-03-31T23:15:00+00:00",
+      "link": null,
+      "description": "On this mid-week bonus ep we find out what David did with his yesterday... the guys are in Melbourne together getting ready for the live WDYDY show on 3rd April and make a cute little coffee play date. Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bbc86ee4-2d3a-11f1-8af5-77cd7bc8b57e/image/f97d2d1144435c04e34487bd7c13ae33.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4241008061.mp3?updated=1774989034",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3512",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "david",
+        "woke",
+        "daydream"
+      ]
+    },
     {
       "key": "cdf1e0dfee2804b27cbb649f2f861ca234063c5b",
       "title": "S4 EP13: Chris Addison",
@@ -3114,6 +3135,7 @@
 
 ## Episodes (newest first)
 
+- 2026-03-31 — WDWDY #65: Max & David's Woke Daydream — speakers: Max Rushden, David O'Doherty
 - 2026-03-29 — S4 EP13: Chris Addison — speakers: Chris Addison, Max Rushden, David O'Doherty
 - 2026-03-25 — WDWDY #64: It's 6am in Texas — speakers: Max Rushden, David O'Doherty
 - 2026-03-22 — S4 EP12: Bilal Zafar — speakers: Max Rushden, David O'Doherty

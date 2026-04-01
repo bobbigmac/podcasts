@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-03-31T21:55:07+00:00`
-- checked_at: `2026-03-31T21:55:07+00:00`
-- etag: `"djEuMi4wOjE3NzQ5ODc4NDAwODg="`
+- fetched_at: `2026-04-01T03:45:28+00:00`
+- checked_at: `2026-04-01T03:45:28+00:00`
+- etag: `"djEuMi4wOjE3NzUwMTM2MzkzOTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-03-31T21:55:07+00:00",
+  "fetched_at": "2026-04-01T03:45:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ae9abda0a2646aeb166566759a97a1366f745669",
+      "title": "ONE DRINK w/ Kae, Polar & Musa • a flashback to 2011 in 3 movements #665",
+      "published_at": "2026-04-01T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week we have a rare throwback recording to 2011 (pre-Distraction Pieces Podcast) with Pip , Kae Tempest , Musa Okwonga and Polarbear ! The Mount Rushmore of spoken word right here folks, captured in a recording Pip uncovered while late-night trawling through the vaults by candlelight. This was originally recorded on camera but there was also a mic in the middle of the room - though as you will hear, it's a bit of a recording sandwich with the slightly more decent recording forming the bread and the slightly more raw camera audio forming the filling. Follow? Nice. It's a really cool chat, incredibly freeform and without defined topics and certainly not recorded with the shape and craft you might expect of late-era Distraction Pieces. But think of it as the 'Distraction Pieces Basement Tapes' - a lively chat of varying audio quality which functions nicely as a time capsule. It's also uncanny hearing about predictions for the following decade - eerie how much has been manifested since... The audio has been cleaned up a touch but sometimes with this kind of sound, things can get worse the more you try and scoop out of it, so just allow your ears to get familiar with it and you'll be grand. Enjoy - it's like sitting at the table where it happened! PIP'S PATREON PAGE if you're of a supporting nature KAE TEMPEST MUSA OKWONGA POLARBEAR PIP AT PRINCE CHARLES CINEMA • 9th April! SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1774986806173-f5bb430b-42e8-4df1-96cd-4a4ece39d567.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69cc2a4003f0e158307edafa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "172554017",
+      "itunes_duration": "1:11:50",
+      "speakers": [],
+      "topics": [
+        "drink",
+        "polar",
+        "musa",
+        "flashback",
+        "movement"
+      ]
+    },
     {
       "key": "94ddd7abdabd02f371035d5e2cafadae0bd23593",
       "title": "FULL FACT.org (independent fact checkers & campaigners) • Friday Rewind",
@@ -18488,6 +18508,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — ONE DRINK w/ Kae, Polar & Musa • a flashback to 2011 in 3 movements #665
 - 2026-03-27 — FULL FACT.org (independent fact checkers & campaigners) • Friday Rewind
 - 2026-03-25 — ANSON BOON • 'The Good Boy' in cinemas now! (MobLand / Pistol / 1917) #664
 - 2026-03-20 — SHAGGY (It Wasn't Me / Boombastic / Oh! Carolina) • Friday Rewind

@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-03-31T21:55:07+00:00`
-- checked_at: `2026-03-31T21:55:07+00:00`
-- etag: `"djEuMi4wOjE3NzQ5ODkwOTk4MDU="`
+- fetched_at: `2026-04-01T03:45:28+00:00`
+- checked_at: `2026-04-01T03:45:28+00:00`
+- etag: `"djEuMi4wOjE3NzUwMDE2MzkzODA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-03-31T21:55:07+00:00",
+  "fetched_at": "2026-04-01T03:45:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "68cf907afea1a4aeb3f8484f79a852feafefa91f",
+      "title": "Jamie Laing and Sophie Habboo",
+      "published_at": "2026-04-01T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/jamie-lang-and-sophie-habbo",
+      "description": "We have podcasters, presenters and entrepreneurs, Jamie Laing & Sophie Habboo joining us for lunch this week! Hosts of the NearlyParents podcast & stars of Made In Chelsea, Jamie and Sophie have welcomed their son Ziggy into the Laing family and the cameras followed the full story in their documentary Raising Chelsea. We chatted to Jamie & Sophie about how they met, the literal sparks that flew, what it’s like being a sweet & chocolate entrepreneur, how Jamie became a marathon master, the Iraqi food Sophie grew up with, and we share all of our tales of birthing stories, including mums! Jamie & Sophie’s new series Raising Chelsea launches on Disney+ on the 2nd of April. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1774974297999-33e6070e-a904-41ff-94a0-be3b02471985.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69cbcd5f4bc3c0b5cea7bdaa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54745964",
+      "itunes_duration": "57:01",
+      "speakers": [
+        "Jamie Laing",
+        "Sophie Habboo"
+      ],
+      "topics": [
+        "jamie",
+        "laing",
+        "sophie",
+        "habboo"
+      ]
+    },
     {
       "key": "40da86cb82f0d2ba2b4bba43412d4d01f56d1750",
       "title": "Chaka Khan",
@@ -6985,6 +7007,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — Jamie Laing and Sophie Habboo — speakers: Jamie Laing, Sophie Habboo
 - 2026-03-25 — Chaka Khan — speakers: Chaka Khan
 - 2026-03-18 — Jane McDonald — speakers: Jane McDonald
 - 2026-03-11 — Kurt and Wyatt Russell — speakers: Wyatt Russell, Kurt Russell

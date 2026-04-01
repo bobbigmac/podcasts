@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-03-30T21:57:21+00:00`
-- checked_at: `2026-03-30T21:57:21+00:00`
-- etag: `"djEuMi4wOjE3NzQ4OTg2MTA0MjM="`
+- fetched_at: `2026-04-01T03:45:28+00:00`
+- checked_at: `2026-04-01T03:45:28+00:00`
+- etag: `"djEuMi4wOjE3NzUwMDE2MzkzODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-03-30T21:57:21+00:00",
+  "fetched_at": "2026-04-01T03:45:28+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "8ee48bc42c2783d29904f18cd8d045fa06ee3d73",
+      "title": "DWSC LIVE: With Josh Jones",
+      "published_at": "2026-04-01T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-josh-jones",
+      "description": "Welcome to another double drop week, and today and this Friday we get to find out what happened when DWSC packed their bags and headed up to Manchester! In this episode, the hilarious Josh Jones joined Taylor and Hannah on stage to tell us about the time he profited from someone else's life of crime. We then head to Paris to find out who was inseine enough to doggedly pursue some criminal activity. And finally, a member of the audience enlightens us all as to what can happen if a car is hungry enough. Don't miss this Friday's ep with star of Corrie, Julia Goulding! Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast DWSC eps now drop every Wednesday and every other Friday, so that's at least SIX drops every, single month! Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/69c96e7fc2759aa9b1b38ab5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73950008",
+      "itunes_duration": "51:20",
+      "speakers": [
+        "Josh Jones",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "josh",
+        "jones"
+      ]
+    },
     {
       "key": "9126b889a83fb39300aa7b24ae893627b3523573",
       "title": "Jess Robinson's Rose Titted Glasses",
@@ -10861,6 +10883,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — DWSC LIVE: With Josh Jones — speakers: Josh Jones, Hannah George, Taylor Glenn
 - 2026-03-25 — Jess Robinson's Rose Titted Glasses — speakers: Jess Robinson, Hannah George, Taylor Glenn
 - 2026-03-20 — Ian Smith asks the 64 Dollar Question — speakers: Ian Smith, Hannah George, Taylor Glenn
 - 2026-03-18 — Rubbing Shoulders with Mohini Kotecha — speakers: Mohini Kotecha, Hannah George, Taylor Glenn
