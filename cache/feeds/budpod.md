@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-03-30T19:19:15+00:00`
-- checked_at: `2026-03-30T19:19:15+00:00`
-- etag: `"djEuMi4wOjE3NzQ4OTc1MDM5OTk="`
+- fetched_at: `2026-04-01T07:53:59+00:00`
+- checked_at: `2026-04-01T07:53:59+00:00`
+- etag: `"djEuMi4wOjE3NzUwMTk2OTkzOTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-03-30T19:19:15+00:00",
+  "fetched_at": "2026-04-01T07:53:59+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ec9f960c06b1a14c25260315440595cacdf64b12",
+      "title": "S2E42 | Blowjack Horsejob",
+      "published_at": "2026-04-01T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e42-blowjack-horsejob",
+      "description": "Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI This week the buds discuss Glenn's Celine Dion story, Epstein's redacted food recipes, the blue dot drinking game and head injury tat. Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Pierre is on tour across the UK, Ireland and Netherlands! Including a headline show at the Leicester Square Theatre on May 28th! Tickets available now at https://www.pierrenovellie.com/ Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/69cac50616bd65d06939ca56/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70399845",
+      "itunes_duration": "48:47",
+      "speakers": [
+        "Blowjack Horsejob",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "blowjack",
+        "horsejob"
+      ]
+    },
     {
       "key": "5a8af8ad8976d062f90809ec18736574d4c26f34",
       "title": "S2E41 | Inspector Surprise",
@@ -7579,6 +7600,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — S2E42 | Blowjack Horsejob — speakers: Blowjack Horsejob, Phil Wang, Pierre Novellie
 - 2026-03-25 — S2E41 | Inspector Surprise — speakers: Youtube Version, Salad Fingers, Phil Wang, Pierre Novellie
 - 2026-03-18 — S2E40 | Ol' Captain Flesh Eyes — speakers: Phil Wang, Pierre Novellie
 - 2026-03-11 — S2E39 | Camp Bigfoot — speakers: RL Stine, Phil Wang, Pierre Novellie

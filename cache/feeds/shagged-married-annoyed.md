@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-03-31T14:02:04+00:00`
-- checked_at: `2026-03-31T14:02:04+00:00`
-- last_modified: `Tue, 31 Mar 2026 13:41:35 GMT`
+- fetched_at: `2026-04-01T07:53:59+00:00`
+- checked_at: `2026-04-01T07:53:59+00:00`
+- last_modified: `Wed, 01 Apr 2026 04:16:33 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-31T14:02:04+00:00",
+  "fetched_at": "2026-04-01T07:53:59+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b46c6e64156a906f344ec46b8144a191123bf73f",
+      "title": "Please Keep Me Anonymous with Emma Doran",
+      "published_at": "2026-04-01T04:10:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed, Chris and Rosie Ramsey are joined by the brilliant comedian, Emma Doran! The trio cover a whole host of topics including life as a parent and a comedian, the trampoline hack for Mam's and how they imagine the logistics are for being a Dominatrix... And of course, Emma reads one of your horrifying stories! Emma has extended her Emmaculate UK and Ireland stand-up tour up until 2027, including the London Palladium on 7th February 2027. Emma will also make her debut at the 2026 Edinburgh Festival Fringe, Pleasance Courtyard - Beside from 5 – 30th August For more info and tickets visit emmadorancomedy.com If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed ⁠ Today, get Huel’s full Lite & Lean Starter Kit online with our code SMA30 for 30% off at https://huel.com/SMA30. New Customers Only. Thank you to Huel for partnering and supporting our show! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/32208fd4-2cd9-11f1-afc2-eb0e8e3851ee/image/3389e55c3c3aecc20d0e9670575b6b41.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6836837520.mp3?updated=1774945410",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2734",
+      "speakers": [
+        "Emma Doran",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "emma",
+        "doran"
+      ]
+    },
     {
       "key": "798b58e8be057279f9012ed2ea80de9e385dcd37",
       "title": "The Oscars, the Return of the Motorhome and an Incident in the Shower",
@@ -8027,6 +8049,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — Please Keep Me Anonymous with Emma Doran — speakers: Emma Doran, Rosie Ramsey, Chris Ramsey
 - 2026-03-27 — The Oscars, the Return of the Motorhome and an Incident in the Shower — speakers: Rosie Ramsey, Chris Ramsey
 - 2026-03-25 — Please Keep Me Anonymous with Mollie King and Matt Edmondson — speakers: Mollie King, Matt Edmondson, Anonymous Chris, Rosie Ramsey, Chris Ramsey
 - 2026-03-20 — Heated Rivalry, a Balloon Fetish and a Self Inflicted Injury — speakers: Annoyed Chris, Rosie Ramsey, Chris Ramsey
