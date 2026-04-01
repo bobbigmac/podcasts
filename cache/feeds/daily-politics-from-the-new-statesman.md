@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-03-31T16:16:17+00:00`
-- checked_at: `2026-03-31T16:16:17+00:00`
-- etag: `"djEuMi4wOjE3NzQ5NzEzODE0ODY="`
+- fetched_at: `2026-04-01T14:04:55+00:00`
+- checked_at: `2026-04-01T14:04:55+00:00`
+- etag: `"djEuMi4wOjE3NzUwNDUzMDcyNzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-03-31T16:16:17+00:00",
+  "fetched_at": "2026-04-01T14:04:55+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -9503,29 +9503,6 @@
         "marr",
         "starmer",
         "people"
-      ]
-    },
-    {
-      "key": "4505ad39417a7d8ac986913f12f674c38c4a9729",
-      "title": "The race to cervical cancer elimination | Sponsored",
-      "published_at": "2024-06-29T05:00:00+00:00",
-      "link": "https://shows.acast.com/newstatesman/episodes/the-race-to-cervical-cancer-elimination-sponsored",
-      "description": "Cervical cancer is the fourth most common cancer in women globally. It causes more than 800 deaths in the UK each year. Yet 99.8% of cervical cancer cases are entirely preventable. Regular screening and the introduction of the Human Papillomavirus (HPV) vaccination are helping to reduce the number of deaths. With smart policy and public health interventions NHS England have set 2040 as the target date for total elimination of cervical cancer. If that goal is to be met the issue of health inequality needs to be addressed; currently screening and vaccination rates vary between different regions, communities and socio-economic groups. So what needs to be done to share best practice and narrow these inequalities? In this episode of Spotlight on Policy, host Zoe Grunwald is joined by Emma Cerrone, Business Unit Director for Public Health & Vaccines at MSD; Dr Adeola Olaitan, Honorary Associate Professor at University College London and Honorary Consultant Gynaecological Oncologist at UCLH; and Gayathri Kumar, Senior Economist at OHE, the Office for Health Economics. This episode has been fully funded by MSD who, as sponsors, have reviewed and inputted to the final content. The report referenced by Office for Health Economics throughout this episode was fully funded by MSD. Ultimate editorial control for this episode and the OHE report rests solely with the New Statesman and the Office for Health Economics, respectively. MSD is one of the world’s leading pharmaceutical companies active in several key areas of global health, including immunisation and oncology. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1733224280852-4d476d14-ea7e-46c0-89df-42d562314803.jpeg",
-      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/667ee0fc7fa1ea6832c3ad54/media.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "31351939",
-      "itunes_duration": "21:45",
-      "speakers": [
-        "Sponsored Cervical",
-        "Anoosh Chakelian",
-        "Oli Dugmore"
-      ],
-      "topics": [
-        "race",
-        "cancer",
-        "elimination",
-        "sponsored"
       ]
     },
     {
@@ -31303,7 +31280,6 @@
 - 2024-07-03 — The penultimate day of Tory Rome — speakers: Tory Rome, Anoosh Chakelian, Oli Dugmore
 - 2024-07-02 — How many hours a week should a prime minster be working? — speakers: Another Reform, Anoosh Chakelian, Oli Dugmore
 - 2024-07-01 — Andrew Marr: To succeed, Starmer must upset a lot of people — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
-- 2024-06-29 — The race to cervical cancer elimination | Sponsored — speakers: Sponsored Cervical, Anoosh Chakelian, Oli Dugmore
 - 2024-06-28 — What's happening in Northern Ireland? and should polling be banned? — speakers: Finn McRedmond, Anoosh Chakelian, Oli Dugmore
 - 2024-06-27 — On the road with Corbyn, Farage, and Lammy — speakers: Anoosh Chakelian, Oli Dugmore
 - 2024-06-26 — Up all night to Bet Lucky — speakers: Bet Lucky Another, Anoosh Chakelian, Oli Dugmore

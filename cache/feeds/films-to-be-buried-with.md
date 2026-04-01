@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-03-31T19:19:30+00:00`
-- checked_at: `2026-03-31T19:19:30+00:00`
-- last_modified: `Tue, 31 Mar 2026 17:56:00 GMT`
+- fetched_at: `2026-04-01T14:04:55+00:00`
+- checked_at: `2026-04-01T14:04:55+00:00`
+- last_modified: `Wed, 01 Apr 2026 12:25:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-31T19:19:30+00:00",
+  "fetched_at": "2026-04-01T14:04:55+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -27,6 +27,29 @@
     "film"
   ],
   "episodes": [
+    {
+      "key": "79c62c007cf6d6a83785196965d276ead46dc9bc",
+      "title": "Riz Ahmed (Bait / Hamlet / Four Lions / The Night Of) • #389",
+      "published_at": "2026-04-01T12:25:00+00:00",
+      "link": "https://www.patreon.com/cw/brettgoldstein",
+      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with one of the UK's undisputed finest actors, it's RIZ AHMED ! ...although don't it twisted, Riz is also nice on the mic too, having held it down solo in front of an audience of impatient Wu Tang fans. You will very likely be familiar with his work in an acting capacity however via movies and series such as the ones listed in this episode's title, but there is so much more including a wealth of voices in animations and such. He gets into a lot of it right here, including his work on the Black Mirror sort-of pre-cursor Dead Set, Bollywood and Lollywood, category killers, the Greek chorus of needledrops, empathy and its outward spread, and the infinite audition that is life. A really fun one, and Riz is excellent company so you're bound to love this. Enjoy! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! INSTAGRAM BAIT HAMLET DEAD SET THE NIGHT OF IMDB –––––––––– ⁠⁠ BRETT • X ⁠⁠ ⁠⁠ BRETT • INSTAGRAM ⁠⁠ ⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠ ⁠⁠ TED LASSO ⁠⁠ ⁠⁠ SHRINKING ⁠⁠ ⁠⁠ ALL OF YOU ⁠⁠ ⁠⁠ SOULMATES ⁠⁠ ⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1384123e-2d16-11f1-93c7-1be5abb0780e/image/5144ffccc22a2ae6bdbd8c7fc0144f14.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1659690859.mp3?updated=1774972366",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3131",
+      "speakers": [
+        "Riz Ahmed",
+        "Brett Goldstein"
+      ],
+      "topics": [
+        "ahmed",
+        "bait",
+        "hamlet",
+        "lions",
+        "night"
+      ]
+    },
     {
       "key": "d60f5ea23af60db22b113080fec00a4d83f8100c",
       "title": "Phil Lord & Chris Miller (Project Hail Mary / The Lego Movie / Cloudy With A Chance...) • #388",
@@ -9252,6 +9275,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — Riz Ahmed (Bait / Hamlet / Four Lions / The Night Of) • #389 — speakers: Riz Ahmed, Brett Goldstein
 - 2026-03-25 — Phil Lord & Chris Miller (Project Hail Mary / The Lego Movie / Cloudy With A Chance...) • #388 — speakers: Chris Miller, Brett Goldstein
 - 2026-03-18 — Elisabeth Moss (Mad Men / The Handmaid's Tale / The Invisible Man) • #387 — speakers: Elisabeth Moss, Brett Goldstein
 - 2026-03-04 — Himesh Patel • Rewind Classic (Tenet / Station 11 / Yesterday) — speakers: Himesh Patel, Brett Goldstein

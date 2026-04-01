@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-03-26T19:32:16+00:00`
-- checked_at: `2026-03-26T19:32:16+00:00`
-- etag: `"djEuMi4wOjE3NzQ1NDIzNzg4NDE="`
+- fetched_at: `2026-04-01T14:04:55+00:00`
+- checked_at: `2026-04-01T14:04:55+00:00`
+- etag: `"djEuMi4wOjE3NzUwNTAyMDIzODg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-03-26T19:32:16+00:00",
+  "fetched_at": "2026-04-01T14:04:55+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,24 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "cbc09701be715a011e01588cad50ca928ea13d22",
+      "title": "Unheard and Too Hot To Handle!",
+      "published_at": "2026-04-01T11:55:32+00:00",
+      "link": "https://www.thebuglepodcast.com/donate",
+      "description": "Bonus episode time Buglers! While Andy, take a well deserved rest from bringing you the latest slurry of frankly idiotic news. Producer Harry has rounded up a few clips from the start of 2026, that didn’t make it in the first time round, we’ve also got a clip from our voluntary subscription only show Ask Andy and a Top Story from The Bugle’s, Science and Tech pull out The Gargle, so sit back, get comfortable and enjoy. It's Bugle episode 4373A! We’ll be back next week with Nato Green and Alice Fraser. If you like The Bugle ad-free and uninterrupted. Then why not join The Bugle’s voluntary subscription, with your support Andy and his cohort of co-hosts can continue to blast there trademark mix of satirical insight and shameless drivel all over the planet. 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/69cd07a4074f2e4d62b441eb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37122715",
+      "itunes_duration": "38:40",
+      "speakers": [
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "unheard"
+      ]
+    },
     {
       "key": "50a57c18f01c8f40296ffe9cdb644b19cf83c3b7",
       "title": "Trump needs a better jokes writer!",
@@ -14069,6 +14087,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — Unheard and Too Hot To Handle! — speakers: Andy Zaltzman
 - 2026-03-25 — Trump needs a better jokes writer! — speakers: Nish Kumar, Tom Ballard, Andy Zaltzman
 - 2026-03-18 — A Canadian politician's signed copy of certain German's book, US sequel on the Moon and the Academy Awards! — speakers: Hari Kondabolu, Helen Zaltzman, Andy Zaltzman
 - 2026-03-11 — Have influencers gone too far? Trump's ex-presidential mash-up and Gnome News! — speakers: Alice Fraser, Tiff Stevenson, Andy Zaltzman

@@ -19311,6 +19311,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:1c6babe8ec13",
+        "feed_title": "Supercontext: an autopsy of media",
+        "source_rss_url": "https://rss.libsyn.com/shows/81551/destinations/378973.xml",
+        "dedupe_key": "364e7237d7a615189ed0a2b7469c3d1c1792fb6e",
+        "episode_key": "364e7237d7a615189ed0a2b7469c3d1c1792fb6e",
+        "title": "Stewart Lee's Comedy Vehicle, Series 3",
+        "published_at": "2018-09-07T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This British comedy series is a deconstruction of humor in a jazz-like improvisation. We discuss Lee's persona, the BBC's decision-making process and the fine lines between self-absorption, art and masturbation. In fact, we take a masturbation metaphor way too far. So brace yourselves.\n Interested in the media we discu",
+        "audio_url": "https://traffic.libsyn.com/secure/supercontextpodcast/121_Stewart_Lees_Comedy_Vehicle_Series_3.mp3?dest-id=378973",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lees-comedy-vehicle-series-3/id1110561363?i=1000419280713&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b236368bd305",
         "feed_title": "Comedy Slab",
         "source_rss_url": "https://www.spreaker.com/show/3070989/episodes/feed",

@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-03-27T16:06:43+00:00`
-- checked_at: `2026-03-27T16:06:43+00:00`
-- etag: `"e9f344ff93aba6206f009e5e359b348e"`
-- last_modified: `Fri, 27 Mar 2026 14:01:02 GMT`
+- fetched_at: `2026-04-01T14:04:55+00:00`
+- checked_at: `2026-04-01T14:04:55+00:00`
+- etag: `"b9ce3926f1f4a96037170a66f8adbb98"`
+- last_modified: `Wed, 01 Apr 2026 12:33:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-03-27T16:06:43+00:00",
+  "fetched_at": "2026-04-01T14:04:55+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -205,24 +205,6 @@
         "boyd",
         "mcdermid"
       ]
-    },
-    {
-      "key": "4eea289e872a6eb031efdee058baf5e5efb3533f",
-      "title": "Breaking the Year",
-      "published_at": "2026-01-01T13:33:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m002pgz1",
-      "description": "Des and the teams look back at the biggest stories of 2025: including year one for Sir Keir Starmer, term two for President Trump, and of course that wonderful world cup qualifier. Lead Writer: Elaine Malcolmson Additional material: Jay Bhatt, Duncan Black, Neil Bratchpiece, Alex Buchanan, Uttom Chowdhury, Nathan Cowley, James Docherty, Mark Granger, Skylar MacDonald, Ben Moore, Cooper Mawhinney-Sweryt, Christopher Stanners, Sarah Tattersall, Steve Trott, Dan Welton Assistant Producer: Chris Quilietti Senior Producer: Lauren Mackay Series Producer: David Flynn Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production.",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0mp5m2j.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26880000",
-      "itunes_duration": "1680",
-      "speakers": [
-        "Bbc Radio Scotland"
-      ],
-      "topics": [
-        "year"
-      ]
     }
   ]
 }
@@ -237,4 +219,3 @@
 - 2026-03-06 — Felicity Ward, Mark Nelson, Kathleen Hughes and James Gardner — speakers: Mark Nelson, Kathleen Hughes, James Gardner Des, Bbc Radio Scotland
 - 2026-02-27 — Jay Lafferty, Robin Ince, Sam Lake and Amanda Hursy — speakers: Jay Lafferty, Robin Ince, Sam Lake, Peter Mandelson, Bbc Radio Scotland
 - 2026-02-20 — Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd and Val McDermid — speakers: Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd, Val McDermid Des, Andrew Mountbatten-Windsor, Bbc Radio Scotland
-- 2026-01-01 — Breaking the Year — speakers: Bbc Radio Scotland
