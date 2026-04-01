@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-01T14:04:55+00:00`
-- checked_at: `2026-04-01T14:04:55+00:00`
-- etag: `"djEuMi4wOjE3NzUwNDUzMDcyNzc="`
+- fetched_at: `2026-04-01T19:21:47+00:00`
+- checked_at: `2026-04-01T19:21:47+00:00`
+- etag: `"djEuMi4wOjE3NzUwNjI1NTMyNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-01T14:04:55+00:00",
+  "fetched_at": "2026-04-01T19:21:47+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "0609aa6adf5188581c2b221c6555a07c9f5a53e0",
+      "title": "Has Keir Starmer found his vision?",
+      "published_at": "2026-04-01T16:55:52+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/has-keir-starmer-found-his-vision",
+      "description": "Keir Starmer delivered one of his routine updates on the war in Iran in a press conference from Number 10 this morning - but this one was a little meatier than usual. Will Lloyd is joined by Ailbhe Rea to discuss LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1775062489014-9b3941ef-2127-4684-9a2c-e15281c48c14.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69cd4e191ada36b7ad1e89be/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44278477",
+      "itunes_duration": "18:25",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "keir",
+        "starmer",
+        "vision"
+      ]
+    },
     {
       "key": "eeb868b82faae1d79cc4392eb0f352ddeddb2d8a",
       "title": "How green is the Green Party?",
@@ -30847,6 +30868,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — Has Keir Starmer found his vision? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-31 — How green is the Green Party? — speakers: Green Party, Anoosh Chakelian, Oli Dugmore
 - 2026-03-30 — Inside Labour’s immigration feud — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-28 — “Another chapter in the farce that is HS2” | Will and Anoosh’s weekly round up — speakers: Anoosh Chakelian, Oli Dugmore
