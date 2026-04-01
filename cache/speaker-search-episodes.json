@@ -5,6 +5,29 @@
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "cccc6574cb0ab8322f3e139324ab03eadccd578f",
+        "episode_key": "cccc6574cb0ab8322f3e139324ab03eadccd578f",
+        "title": "Regé-Jean Page",
+        "published_at": "2026-04-01T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "‘Bridgerton’ star Regé-Jean Page has a table booked at the Dream Restaurant this week. Or is that an April Fool? \nRegé-Jean Page stars in ‘You, Me & Tuscany’ which is released in UK cinemas on 10th April. \nFollow Regé-Jean on Instagram @regejean \nWatch the video version of this episode on the Off Menu YouTube on Thu 2 ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69cbb90416bd65d0698a738d/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/reg%C3%A9-jean-page/id1442950743?i=1000758566457&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
         "dedupe_key": "8313c6b76b75b1abd09319a007a1cddeeba93bb7",
         "episode_key": "8313c6b76b75b1abd09319a007a1cddeeba93bb7",
         "title": "Ixta Belfrage",
@@ -3986,6 +4009,51 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "cccc6574cb0ab8322f3e139324ab03eadccd578f",
+        "episode_key": "cccc6574cb0ab8322f3e139324ab03eadccd578f",
+        "title": "Regé-Jean Page",
+        "published_at": "2026-04-01T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "‘Bridgerton’ star Regé-Jean Page has a table booked at the Dream Restaurant this week. Or is that an April Fool? \nRegé-Jean Page stars in ‘You, Me & Tuscany’ which is released in UK cinemas on 10th April. \nFollow Regé-Jean on Instagram @regejean \nWatch the video version of this episode on the Off Menu YouTube on Thu 2 ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69cbb90416bd65d0698a738d/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/reg%C3%A9-jean-page/id1442950743?i=1000758566457&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:97b976061320",
+        "feed_title": "Kerrang! In Conversation",
+        "source_rss_url": "https://feeds.acast.com/public/shows/66d9fe2a29a27e3167446863",
+        "dedupe_key": "23469e79ab34049c2c1271805b20bafe25a4038f",
+        "episode_key": "23469e79ab34049c2c1271805b20bafe25a4038f",
+        "title": "Ed Gamble: Burning pubes, horrifying playlists and a misguided power metal phase",
+        "published_at": "2026-04-01T02:09:49Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome to episode number 46 of Kerrang! In Conversation.\nThis week, K! Editor Luke Morton is joined in Nando’s Studio Soho by comedian Ed Gamble for a winding conversation that covers everything from metal karaoke to wrestling Phil Wang to hosting the Kerrang! Awards to appearing on a Corey Taylor album cover.\nEd also",
+        "audio_url": "https://sphinx.acast.com/p/open/s/66d9fe2a29a27e3167446863/e/69cc7e6de8519e977f9b53e0/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ed-gamble-burning-pubes-horrifying-playlists-and/id1766916031?i=1000758559986&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:8cc4a7996941",
         "feed_title": "The Chris Moyles Show on Radio X Podcast",
         "source_rss_url": "https://feeds.captivate.fm/the-chris-moyles-show",
@@ -5470,6 +5538,28 @@
         "speakers": [
           "Ed Gamble",
           "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:96594d663a6c",
+        "feed_title": "RHLSTP with Richard Herring",
+        "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
+        "dedupe_key": "44c32dba5b7a36769ed7e8e34ea518e6739515b4",
+        "episode_key": "44c32dba5b7a36769ed7e8e34ea518e6739515b4",
+        "title": "RHLSTP Book Club 88 - Ed Gamble",
+        "published_at": "2024-03-15T04:00:16Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Book Club #88 - Glutton - In another live Book Club Richard discusses his lentil based culinary disaster before introducing regular guest and fierce podcast rival Ed Gamble to discuss his annual Glutton. Richard is perhaps not as respectful to this author as he is to his other Book Club guests, but really gets to the h",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/65f41e620f24540016e1d1ab/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/rhlstp-book-club-88-ed-gamble/id520831548?i=1000649303818&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
         ],
         "topics": [],
         "external": true
