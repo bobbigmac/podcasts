@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-03-31T03:29:38+00:00`
-- checked_at: `2026-03-31T03:29:38+00:00`
-- last_modified: `Tue, 31 Mar 2026 02:53:27 GMT`
+- fetched_at: `2026-04-01T16:13:53+00:00`
+- checked_at: `2026-04-01T16:13:53+00:00`
+- last_modified: `Wed, 01 Apr 2026 16:11:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-03-31T03:29:38+00:00",
+  "fetched_at": "2026-04-01T16:13:53+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -34,10 +34,10 @@
       "link": null,
       "description": "What happens when readers suspect a published book is AI slop? What’s the latest in the fallout from the cancellation of the US reality TV show, The Bachelorette? And what has Peter Mandelson got in common with Taylor Frankie Paul, the celebrity at the centre of the scandal? Publishing is finally fighting back as Hachette has pulped thousands of copies of a new book that readers are claiming is penned by ChatGPT. Could this be the same future for Reform's Matt Goodwin - as it's also littered with AI Hallucinations? Richard and Marina also discuss the messy downfall of Taylor Frankie Paul, the Mormon TikTok star that has been dogged by domestic violence allegations. We have the full breakdown. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Is your door in the draw? Sign up at www.postcodelottery.co.uk People’s Postcode Lottery manage lotteries on behalf of good causes, 18 plus, conditions apply, play responsibly, not available in Northern Ireland. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Adam Thornton & Charlie Rodwell Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Neil Fearn Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7424990486.mp3?updated=1774903821",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7424990486.mp3?updated=1775058387",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3082",
+      "itunes_duration": "3018",
       "speakers": [
         "Mistake What",
         "Richard Osman",
@@ -55,10 +55,10 @@
       "link": null,
       "description": "Why was the Buffy reboot cancelled, and who’s to blame? What does the media storm around Zendaya and Tom Holland’s secret nuptials tell us about fame in 2026? What is a 'MacGuffin', and why do legendary filmmakers love them? Richard Osman and Marina Hyde answer your questions about TV remakes, celebrity weddings, screenwriting techniques and more. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Is your door in the draw? Sign up at www.postcodelottery.co.uk People’s Postcode Lottery manage lotteries on behalf of good causes, 18 plus, conditions apply, play responsibly, not available in Northern Ireland. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Max Archer Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Neil Fearn Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/1eb1bbd2-2868-11f1-8de3-c704902f6858/image/09b39cca3fbe1e4568054288c929fc2d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6502336454.mp3?updated=1774536636",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6502336454.mp3?updated=1775059497",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2084",
+      "itunes_duration": "1855",
       "speakers": [
         "Michael Sheen MacGuffins",
         "Richard Osman",
@@ -187,10 +187,10 @@
       "link": null,
       "description": "What is the unwritten rule of Taskmaster that every comedian has to follow? How are bubble baths made realistic for movies? And what is Richard's favourite ever quiz? Richard Osman and Marina Hyde answer your questions on the world of TV, movies and much more. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Max Archer Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Neil Fearn Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7740370288.mp3?updated=1772651312",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7740370288.mp3?updated=1775060054",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2004",
+      "itunes_duration": "1920",
       "speakers": [
         "Taskmaster What",
         "Richard Osman",

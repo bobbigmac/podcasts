@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-03-27T13:43:23+00:00`
-- checked_at: `2026-03-27T13:43:23+00:00`
-- etag: `"djEuMi4wOjE3NzQ2MTY2NjA1MzM="`
+- fetched_at: `2026-04-01T16:13:53+00:00`
+- checked_at: `2026-04-01T16:13:53+00:00`
+- etag: `"djEuMi4wOjE3NzUwNTU2Mzk0Njc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-03-27T13:43:23+00:00",
+  "fetched_at": "2026-04-01T16:13:53+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,28 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "0424e581cb9c2d50f68d6f846e7e54ae782dd988",
+      "title": "These scientists chased a jet to learn more about ‘lean-burn’ contrails",
+      "published_at": "2026-04-01T15:00:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01052-3",
+      "description": "In this episode: 00:46 Collecting contrails at 30,000 feet Research Article: Voigt et al. 11:23 Research Highlights Nature: Sunken Soviet nuclear submarine’s radioactive release Nature: History of ‘forever’ chemicals is written in Antarctic snow 13:34 Fakery in science April Fakes Day Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69cd2990b601292a80b6532b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23835031",
+      "itunes_duration": "24:48",
+      "speakers": [
+        "Voigt et al",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "scientist",
+        "burn",
+        "contrail"
+      ]
+    },
     {
       "key": "5d57772b34333c6e781ed88cfeec1bcfb6d7d1ab",
       "title": "Briefing Chat: ‘Zombie cells’ resurrected with new genes",
@@ -19337,6 +19359,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — These scientists chased a jet to learn more about ‘lean-burn’ contrails — speakers: Voigt et al, Benjamin Thompson, Noah Baker
 - 2026-03-27 — Briefing Chat: ‘Zombie cells’ resurrected with new genes — speakers: Benjamin Thompson, Noah Baker
 - 2026-03-25 — Why insects aren't huge: a new challenge to a decades-old idea — speakers: Research Article, Research Highlights Nature, Benjamin Thompson, Noah Baker
 - 2026-03-20 — Briefing Chat: Are scientists funny? The evidence is in — and it's no joke — speakers: Briefing Chat, Benjamin Thompson, Noah Baker

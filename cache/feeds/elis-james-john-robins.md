@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-03-31T16:16:17+00:00`
-- checked_at: `2026-03-31T16:16:17+00:00`
-- etag: `"e69a7f5c88b38d0557880c75b5fbe5d7"`
-- last_modified: `Tue, 31 Mar 2026 15:55:00 GMT`
+- fetched_at: `2026-04-01T16:13:53+00:00`
+- checked_at: `2026-04-01T16:13:53+00:00`
+- etag: `"bd65505e2b6e1695ff77e364a25575e8"`
+- last_modified: `Wed, 01 Apr 2026 15:17:42 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-03-31T16:16:17+00:00",
+  "fetched_at": "2026-04-01T16:13:53+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -9622,7 +9622,7 @@
       "title": "#131 - Bleeding Coins, Llantrisant Burns and Chargeable Spitfires",
       "published_at": "2021-02-05T17:06:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m000rwtk",
-      "description": "On today's show, Elis really gets behind his lifelong love of diesel, John bores a coin expert to death by talking about coins, and we all enjoy a Made Up Game called 'Things In Things'. To get in touch with the show, email elisandjohn@bbc.co.uk",
+      "description": "On today's show, Elis really gets behind his lifelong love of diesel, John bores a coin expert to death by talking about coins, and we all enjoy a Made Up Game called 'Things In Things'.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0965w67.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12457,7 +12457,7 @@
       "title": "#12 - Live from Edinburgh with Ed Gamble and David O’Doherty",
       "published_at": "2019-08-16T15:25:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m0007lbc",
-      "description": "It’s show three of four for Elis and John live from the Edinburgh Festival, and this week - along with guests Ed Gamble and David O’Doherty - there was a cringeworthy Scottish Shame Well, an unexpected victory in Made Up Games, and a lot of talk about odd things you find in a new home. Enjoy! Email: elisandjohn@bbc.co.uk #elisandjohn",
+      "description": "It’s show three of four for Elis and John live from the Edinburgh Festival, and this week - along with guests Ed Gamble and David O’Doherty - there was a cringeworthy Scottish Shame Well, an unexpected victory in Made Up Games, and a lot of talk about odd things you find in a new home. Enjoy! #elisandjohn",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p07kvsln.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12612,7 +12612,7 @@
       "title": "#5 - Dishwashers, Tipsy Cricket and Ol' Johnny Three Hours Early",
       "published_at": "2019-06-28T15:56:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m00067h5",
-      "description": "Join Elis James and John Robins for more nonsensical fun, including Skoda Fabia pronunciation, confusing parking spaces and John's dream day at the cricket. Enjoy! Email: elisandjohn@bbc.co.uk #elisandjohn",
+      "description": "Join Elis James and John Robins for more nonsensical fun, including Skoda Fabia pronunciation, confusing parking spaces and John's dream day at the cricket. Enjoy! #elisandjohn",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p07frpj7.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12637,7 +12637,7 @@
       "title": "#4 - Dad Breaks, Sex Shame and Insta-Clones",
       "published_at": "2019-06-21T16:13:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m00061v1",
-      "description": "Elis James and John Robins bring the laughs to 5 Live once more including John's crush on James Anderson, an incredibly unfortunate Shame Well, and possibly too much motorway chat. Email: elisandjohn@bbc.co.uk #elisandjohn",
+      "description": "Elis James and John Robins bring the laughs to 5 Live once more including John's crush on James Anderson, an incredibly unfortunate Shame Well, and possibly too much motorway chat. #elisandjohn",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p07dth4q.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12661,7 +12661,7 @@
       "title": "#3 - Todgers, The Fairness Desk and Clicking VAT Man",
       "published_at": "2019-06-14T17:15:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m0005tj2",
-      "description": "Another action-packed show from Elis James and John Robins, with this week's hot topics including wedding commutes, fragrant comedians, and the fact that Elis has never heard of the M2 motorway. Enjoy! elisandjohn@bbc.co.uk #elisandjohn",
+      "description": "Another action-packed show from Elis James and John Robins, with this week's hot topics including wedding commutes, fragrant comedians, and the fact that Elis has never heard of the M2 motorway. Enjoy!",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p07d6442.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12682,7 +12682,7 @@
       "title": "#2 - Knackerwatch, Valley Vespas and Listener Remuneration",
       "published_at": "2019-06-07T16:25:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m0005m54",
-      "description": "It's show two for new boys Elis James and John Robins, and with them they bring news of unfortunate injuries, Producer Dave's diary entries, and a Grime MC called Yizzy. A mixed bag to say the least, but all top quality #content. Email: elisandjohn@bbc.co.uk #elisandjohn",
+      "description": "It's show two for new boys Elis James and John Robins, and with them they bring news of unfortunate injuries, Producer Dave's diary entries, and a Grime MC called Yizzy. A mixed bag to say the least, but all top quality #content.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p07ckfx3.mp3",
       "enclosure_type": "audio/mpeg",
