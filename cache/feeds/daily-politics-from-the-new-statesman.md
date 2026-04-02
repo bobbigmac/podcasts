@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-02T10:11:06+00:00`
-- checked_at: `2026-04-02T10:11:06+00:00`
-- etag: `"djEuMi4wOjE3NzUxMjAyNDMzOTQ="`
+- fetched_at: `2026-04-02T16:11:21+00:00`
+- checked_at: `2026-04-02T16:11:21+00:00`
+- etag: `"djEuMi4wOjE3NzUxMzkxNjU5MTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-02T10:11:06+00:00",
+  "fetched_at": "2026-04-02T16:11:21+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "fc00474216eded1afd9756e845a2c70d207e795d",
+      "title": "Trump’s ground options in Iran",
+      "published_at": "2026-04-02T14:12:45+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/trumps-ground-options-in-iran",
+      "description": "As the war in Iran enters its second month, President Trump has delivered a prime time address promising, simultaneously, that the conflict will be over “very shortly” and that the United States is preparing to hit Iran “extremely hard”. Thousands more US troops have arrived in the region in recent days, including a marine expeditionary unit as the president is reportedly weighing options for a potential ground assault, such as an attempt to seize the Iranian oil export hub on Kharg Island, which Trump has said the US could take “very easily.” But what options does the President actually have and what would be involved in an attempt to forcibly re-open the strait of Hormuz? Katie Stallard is joined by Ruben Stewart, senior fellow for land warfare at the IISS think tank and a former infantry officer and UN peacekeeper. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1775138944982-3c85f849-5d10-4d19-a9b3-d1fb4b37e787.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69ce795dac25e4bf661004f0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61114926",
+      "itunes_duration": "31:46",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "trump",
+        "ground",
+        "option",
+        "iran"
+      ]
+    },
     {
       "key": "0609aa6adf5188581c2b221c6555a07c9f5a53e0",
       "title": "Has Keir Starmer found his vision?",
@@ -30868,6 +30890,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — Trump’s ground options in Iran — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-04-01 — Has Keir Starmer found his vision? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-31 — How green is the Green Party? — speakers: Green Party, Anoosh Chakelian, Oli Dugmore
 - 2026-03-30 — Inside Labour’s immigration feud — speakers: Anoosh Chakelian, Oli Dugmore

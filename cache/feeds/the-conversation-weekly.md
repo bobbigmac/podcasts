@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-04-01T10:15:55+00:00`
-- checked_at: `2026-04-01T10:15:55+00:00`
-- etag: `"24782f-64e62677a246a"`
-- last_modified: `Wed, 01 Apr 2026 09:06:50 GMT`
+- fetched_at: `2026-04-02T16:11:21+00:00`
+- checked_at: `2026-04-02T16:11:21+00:00`
+- etag: `"2489b9-64e7a9eb57096"`
+- last_modified: `Thu, 02 Apr 2026 14:00:15 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-04-01T10:15:55+00:00",
+  "fetched_at": "2026-04-02T16:11:21+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,30 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "858cfedde82af1a2b15e9f1f9937403c239cc60b",
+      "title": "The Making of One Nation: the unlikely rise of Australia’s Pauline Hanson",
+      "published_at": "2026-04-02T14:00:00+00:00",
+      "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
+      "description": "From a fish and chip shop in regional Queensland to the heart of Australian politics: this is the unlikely story of One Nation, Australia's most controversial minor party. For thirty years, One Nation and Pauline Hanson have been ridiculed, dismissed and shut out. Now, no one is laughing. This week we're running the first episode of The Making of One Nation, a new series from The Conversation hosted by Ashlynne McGhee. She explores how a party built on fear and grievance thrived, died and rose again to upend Australian politics. Hanson's infamous 1996 maiden speech to the Australian Senate — warning that Australia was \"being swamped by Asians\" — still echoes through Australian political life. But who was Pauline Hanson before she became a phenomenon, and what did she actually represent? Was she a cause of a new kind of politics, or a symptom of one already forming? We hear from Anna Broinowski , documentary maker and senior lecturer at the School of Art, Communication and English at the University of Sydney, who made a documentary and wrote a book about Hanson. Follow The Making of One Nation to make sure you don't miss more episodes in the coming weeks. Sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/190305d6-9892-4748-9b15-54e9e1b087c6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25036215",
+      "itunes_duration": "26:05",
+      "speakers": [
+        "Pauline Hanson",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "making",
+        "nation",
+        "rise",
+        "australia",
+        "pauline",
+        "hanson"
+      ]
+    },
     {
       "key": "3f7152b9d3ea94b752e3b4d1896ca59db2064d0f",
       "title": "Artemis II: NASA’s long road back to the Moon",
@@ -5766,6 +5790,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — The Making of One Nation: the unlikely rise of Australia’s Pauline Hanson — speakers: Pauline Hanson, Gemma Ware
 - 2026-03-26 — Artemis II: NASA’s long road back to the Moon — speakers: Gemma Ware
 - 2026-03-19 — How the US cloned Iran's drones — speakers: Central Command, Gemma Ware
 - 2026-03-12 — Mystery covid methane spike solved — speakers: Gemma Ware

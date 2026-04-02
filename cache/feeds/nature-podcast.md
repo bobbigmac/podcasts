@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-04-01T16:13:53+00:00`
-- checked_at: `2026-04-01T16:13:53+00:00`
-- etag: `"djEuMi4wOjE3NzUwNTU2Mzk0Njc="`
+- fetched_at: `2026-04-02T16:11:21+00:00`
+- checked_at: `2026-04-02T16:11:21+00:00`
+- etag: `"djEuMi4wOjE3NzUxMzk5OTkyMzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-04-01T16:13:53+00:00",
+  "fetched_at": "2026-04-02T16:11:21+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "c41fb8185a147ea425739cbe4057d887fe663f4f",
+      "title": "Artemis II is go: humans head to the Moon after half-century absence",
+      "published_at": "2026-04-02T14:26:34+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01060-3",
+      "description": "In this podcast we'll talk about NASA's Artemis II launch, which has ushered in a new era of lunar exploration. Nature : Lift off! Artemis II mission sends humans to the Moon — opening a new era of exploration Nature: Artemis II mission is about to fly humans to the Moon — here’s the science they’ll do Nature: Humanity is heading back to the Moon — why aren’t more scientists thrilled? Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69ce79501d7024f1a7bac5a0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14751720",
+      "itunes_duration": "15:20",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "artemis",
+        "human",
+        "moon",
+        "century",
+        "absence"
+      ]
+    },
     {
       "key": "0424e581cb9c2d50f68d6f846e7e54ae782dd988",
       "title": "These scientists chased a jet to learn more about ‘lean-burn’ contrails",
@@ -19359,6 +19382,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — Artemis II is go: humans head to the Moon after half-century absence — speakers: Benjamin Thompson, Noah Baker
 - 2026-04-01 — These scientists chased a jet to learn more about ‘lean-burn’ contrails — speakers: Voigt et al, Benjamin Thompson, Noah Baker
 - 2026-03-27 — Briefing Chat: ‘Zombie cells’ resurrected with new genes — speakers: Benjamin Thompson, Noah Baker
 - 2026-03-25 — Why insects aren't huge: a new challenge to a decades-old idea — speakers: Research Article, Research Highlights Nature, Benjamin Thompson, Noah Baker

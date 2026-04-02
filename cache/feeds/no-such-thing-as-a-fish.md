@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-03-30T03:41:21+00:00`
-- checked_at: `2026-03-30T03:41:21+00:00`
-- etag: `W/"6d39bd6123caa66caf393dbff34f2b3d"`
-- last_modified: `Sun, 29 Mar 2026 22:55:00 GMT`
+- fetched_at: `2026-04-02T16:11:21+00:00`
+- checked_at: `2026-04-02T16:11:21+00:00`
+- etag: `W/"92712d7900368b921c22de55ea7fe543"`
+- last_modified: `Thu, 02 Apr 2026 15:52:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-03-30T03:41:21+00:00",
+  "fetched_at": "2026-04-02T16:11:21+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -348,10 +348,10 @@
       "link": "https://audioboom.com/posts/8860465",
       "description": "Maddie Moate joins Dan, James and Andy to discuss bees, bulbs, cereal and stars. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43466876.png",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8860465.mp3?modified=1770909828&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8860465.mp3?modified=1775145157&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3270",
+      "itunes_duration": "3187",
       "speakers": [
         "Maddie Moate",
         "Dan Schreiber",

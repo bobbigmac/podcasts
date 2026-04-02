@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-02T13:57:06+00:00`
-- checked_at: `2026-04-02T13:57:06+00:00`
-- etag: `"djEuMi4wOjE3NzUxMzEwNDc4NTY="`
+- fetched_at: `2026-04-02T16:11:21+00:00`
+- checked_at: `2026-04-02T16:11:21+00:00`
+- etag: `"djEuMi4wOjE3NzUxNDI5NjYxMzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,32 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-02T13:57:06+00:00",
+  "fetched_at": "2026-04-02T16:11:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "d9b35a2c1ba0ba843e622444cf6dca3b7c68a948",
+      "title": "Does Britain have a porn problem? With Ipsos",
+      "published_at": "2026-04-02T15:16:05+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69ce86db3a785fb94b7e7c1b",
+      "description": "We are once again joined by friend of the podcast Richie Jones to chew through the latest IPSOS polling in collaboration with JOE Media Group. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69ce86db3a785fb94b7e7c1b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "137320002",
+      "itunes_duration": "1:11:30",
+      "speakers": [],
+      "topics": [
+        "britain",
+        "porn",
+        "problem",
+        "ipsos"
+      ]
+    },
     {
       "key": "a62773e2165df32892d4ea0ff8c89d0446db14cf",
       "title": "Brian Eno: The system is broken. We need a wealth tax now.",
@@ -12345,6 +12364,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — Does Britain have a porn problem? With Ipsos
 - 2026-04-01 — Brian Eno: The system is broken. We need a wealth tax now. — speakers: Brian Eno
 - 2026-03-31 — Grace Blakeley: Elites want to ruin the world. This is how we stop them — speakers: Grace Blakeley
 - 2026-03-30 — I humiliated a GB News host on live TV — speakers: Matt Goodwin
