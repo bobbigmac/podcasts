@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-03-31T03:29:38+00:00`
-- checked_at: `2026-03-31T03:29:38+00:00`
-- etag: `"djEuMi4wOjE3NzQ5MTYwMDE4ODQ="`
+- fetched_at: `2026-04-02T13:57:06+00:00`
+- checked_at: `2026-04-02T13:57:06+00:00`
+- etag: `"djEuMi4wOjE3NzUxMzMwMzk2MTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-03-31T03:29:38+00:00",
+  "fetched_at": "2026-04-02T13:57:06+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "73ea597daab7ca601533c807d65cc255938f01c9",
+      "title": "Ready Player One - Caravan Of Garbage",
+      "published_at": "2026-04-02T12:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/ready-player-one-extended-caravan-of-garbage",
+      "description": "In our final entry in our \"movies about video games that aren't based on video games\" we take a look at the be all and end all entry defined by those very specific parametres, 2018's Ready Player One. In a future bogged down in nostelgia to the detriment of a crumbling society it's up to a group of plucky internet savy individuals to unlock the mystery of the Oasis, a Virtual Reality space where your wildest dreams can come true. If your wildiest dreams are like, walking around and Batman is there or the Delorian or whatever. Probably the most unusual choice for Steven Spielberg to direct but hey, he certainly threw a lot of stuff in it. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69b8da019246d31db4fd7b44/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32394982",
+      "itunes_duration": "32:33",
+      "speakers": [
+        "Ready Player One",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "ready",
+        "player",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "04d9e2a72877561f8f4f9b8e3dd60381e1dc6a7e",
       "title": "616 Ready or Not 2/They Will Kill You & Trailers for Awful Remakes",
@@ -21991,6 +22014,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — Ready Player One - Caravan Of Garbage — speakers: Ready Player One, James Clement, Nick Mason
 - 2026-03-30 — 616 Ready or Not 2/They Will Kill You & Trailers for Awful Remakes — speakers: James Clement, Nick Mason
 - 2026-03-26 — Serenity - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-03-23 — 615 Project Hail Mary & Spider-Man: Brand New Day Trailer — speakers: Project Hail Mary, James Clement, Nick Mason

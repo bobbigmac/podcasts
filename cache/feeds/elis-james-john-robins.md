@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-04-02T10:11:06+00:00`
-- checked_at: `2026-04-02T10:11:06+00:00`
-- etag: `"f132eedf149a15df389785ec4d6fc580"`
-- last_modified: `Thu, 02 Apr 2026 08:54:26 GMT`
+- fetched_at: `2026-04-02T13:57:06+00:00`
+- checked_at: `2026-04-02T13:57:06+00:00`
+- etag: `"2752354d162f11c2c39af6db92966cc3"`
+- last_modified: `Thu, 02 Apr 2026 13:45:53 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-04-02T10:11:06+00:00",
+  "fetched_at": "2026-04-02T13:57:06+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -4689,7 +4689,7 @@
       "title": "#333 - Fine For Bride, So Many Reasons and If You Come For The Queen You Best Not Miss",
       "published_at": "2024-05-14T14:55:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hxxmtr",
-      "description": "A huge moment for both Swifties and Red Breasts alike, for today’s the day we hear the hit new single about “What if Taylor Swift broke up with a Bristolian comic who specialises in emotional heft.” The crowds are in and the red carpet is out, as despite Elis and John seemingly confusing a first play with a film premiere, this is an occasion. Elsewhere a listener sends in another wonderful Made Up Games jingle BUT it must pass the discerning ear of Johnny JR. If you want to check out our songwriter, and her shows / work, it’s the very funny and talented Charlene Kaye. Just give her a Google. To get in touch with the show then elisandjohn@bbc.co.uk or WhatsApp 07974 293 022 are the places to go.",
+      "description": "A huge moment for both Swifties and Red Breasts alike, for today’s the day we hear the hit new single about “What if Taylor Swift broke up with a Bristolian comic who specialises in emotional heft.” The crowds are in and the red carpet is out, as despite Elis and John seemingly confusing a first play with a film premiere, this is an occasion. Elsewhere a listener sends in another wonderful Made Up Games jingle BUT it must pass the discerning ear of Johnny JR. If you want to check out our songwriter, and her shows / work, it’s the very funny and talented Charlene Kaye. Just give her a Google.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hxxlv5.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4715,7 +4715,7 @@
       "title": "#332 - Mr Audio, Love's Best Lubricant and The Man Who Can Eat Three Curries",
       "published_at": "2024-05-10T17:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hx9z6q",
-      "description": "All sorts of achievements flying around on the show. Some aural and others gastronomic as the boys reflect on a great night at the big radio awards as well as John's food consumption. We check in on how the Swift x Robins masterpiece is coming together and also answer the question, \"Should you clap 180 nominees?\" A Q that all of the high fliers in various industries will be asking. If you want to slip us a note then it's elisandjohn@bbc.co.uk or save the show WhatsApp number (07974 293 022) in your contacts and message in whenever.",
+      "description": "All sorts of achievements flying around on the show. Some aural and others gastronomic as the boys reflect on a great night at the big radio awards as well as John's food consumption. We check in on how the Swift x Robins masterpiece is coming together and also answer the question, \"Should you clap 180 nominees?\" A Q that all of the high fliers in various industries will be asking.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hx9ypv.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4741,7 +4741,7 @@
       "title": "#331 - Five Star Bums, Tax Over Taylor and Too Punctual For Love",
       "published_at": "2024-05-07T14:55:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hwhqwd",
-      "description": "‘Smorgasbord’ is a word frequently deployed to describe the Elis and John podcast. A buffet-style meal of Swedish origin which is typically celebratory with guests also to help themselves from a range of dishes laid out for their choice. And though there’s not a Swede in sight, there is a veritable buffet of delectable content on today’s show to pick through on the table. A chilled open sandwich of teenage Shame here, an anecdote delicacy to cut through the weight there. Pass the hors d’oeuvres bums across the table and a helping of inventive songwriting suggestions to top that. Do you want to get in touch with the show? Is *all* correspondence read? The answer to both of those Qs is ‘yes’. So send it all to elisandjohn@bbc.co.uk or on Whatsapp 07974 293 022. (Save the number in your contacts and message the show whenever wherever).",
+      "description": "‘Smorgasbord’ is a word frequently deployed to describe the Elis and John podcast. A buffet-style meal of Swedish origin which is typically celebratory with guests also to help themselves from a range of dishes laid out for their choice. And though there’s not a Swede in sight, there is a veritable buffet of delectable content on today’s show to pick through on the table. A chilled open sandwich of teenage Shame here, an anecdote delicacy to cut through the weight there. Pass the hors d’oeuvres bums across the table and a helping of inventive songwriting suggestions to top that.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hwhqvk.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4789,7 +4789,7 @@
       "title": "#329 - Sacked for Sadness, Hated for Content, and A Steady Hand on the Tiller of Love",
       "published_at": "2024-04-30T14:55:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hv1tzh",
-      "description": "The boys are beset by worries this week: John is in a tizz over whether his faulty car will be covered its warranty, and Elis is suspicious that the neighbours are talking about him and his newly-scratched car behind his back. Thankfully these worries are soothed by scorching anecdotes about trying to smoke a cigar, and getting sacked from a mid-afternoon quiz show for looking too sad. Producer Dave’s willpower meets its match in a packet of chocolate biscuits, English accents are hidden from Scottish schoolchildren, and another Dave extols the virtues of living abroad. If you want to get in touch with the show then email elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022",
+      "description": "The boys are beset by worries this week: John is in a tizz over whether his faulty car will be covered its warranty, and Elis is suspicious that the neighbours are talking about him and his newly-scratched car behind his back. Thankfully these worries are soothed by scorching anecdotes about trying to smoke a cigar, and getting sacked from a mid-afternoon quiz show for looking too sad. Producer Dave’s willpower meets its match in a packet of chocolate biscuits, English accents are hidden from Scottish schoolchildren, and another Dave extols the virtues of living abroad.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hv2320.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4813,7 +4813,7 @@
       "title": "#328 - The Golden Age of Whaling, Five Whimsical Bananas, and A Robin and A Swift",
       "published_at": "2024-04-26T17:08:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0htfpz6",
-      "description": "Today’s episode tackles the Big Questions, but only if by Big Questions you mean specifically: what spotted insect is causing John to yelp in bed? Would Elis or John have thrived on a 19th century whaling vessel? And how would John’s life change if he started going out with one of the most famous women in the world? As usual, motorways feature, Elis gets lampooned for missing out on seeing one of John’s musical heroes live, and we all learn a valuable lesson: when a podcast matters, John matters. If you want to get in touch with the show then email elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022",
+      "description": "Today’s episode tackles the Big Questions, but only if by Big Questions you mean specifically: what spotted insect is causing John to yelp in bed? Would Elis or John have thrived on a 19th century whaling vessel? And how would John’s life change if he started going out with one of the most famous women in the world? As usual, motorways feature, Elis gets lampooned for missing out on seeing one of John’s musical heroes live, and we all learn a valuable lesson: when a podcast matters, John matters.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0htfyry.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4836,7 +4836,7 @@
       "title": "#327 - Tim’s Rumpus Room, Pork Chop Calves and Buckinghamshire Living",
       "published_at": "2024-04-23T14:55:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hskbl2",
-      "description": "If you thought this show was your safe space away from pop behemoth Taylor Swift’s single handed takeover of popular culture then sadly you’d be wrong. For it’s Swiftmas Day (well if you view this in a linear fashion rather than circular) and John’s neck deep in it. Also the reverberations of Elis stepping on John’s turf continue to ripple through gains space and time, whilst the question of pâté comes under the spotlight. If you’ve got any crucial information that simply must see the light of day then to get in touch it’s elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022",
+      "description": "If you thought this show was your safe space away from pop behemoth Taylor Swift’s single handed takeover of popular culture then sadly you’d be wrong. For it’s Swiftmas Day (well if you view this in a linear fashion rather than circular) and John’s neck deep in it. Also the reverberations of Elis stepping on John’s turf continue to ripple through gains space and time, whilst the question of pâté comes under the spotlight.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hskb9t.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4861,7 +4861,7 @@
       "title": "#326 - Chiles Parsnips, Elis St. John, and Superfruit Cigs",
       "published_at": "2024-04-19T16:35:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hrxx04",
-      "description": "What do the blue touch paper and the switchboards have in common? They’ve both been lit, that’s what. Elis and John have been inundated with some of our greatest set of emails EVER! And in that the models flow in like it's fashion week; from snacks to footwear, from 1940s yearning women to teenage graffitiing delinquents. This episode has them all. Elsewhere, things get racy, Elis’s newfound gym buff status comes under heavy fire, and John is rocked to his very core by some news at Junction 16 on the M4. If you want to get in touch with the show then email elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022",
+      "description": "What do the blue touch paper and the switchboards have in common? They’ve both been lit, that’s what. Elis and John have been inundated with some of our greatest set of emails EVER! And in that the models flow in like it's fashion week; from snacks to footwear, from 1940s yearning women to teenage graffitiing delinquents. This episode has them all. Elsewhere, things get racy, Elis’s newfound gym buff status comes under heavy fire, and John is rocked to his very core by some news at Junction 16 on the M4.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hrxwrn.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4886,7 +4886,7 @@
       "title": "#325 - Taut John, Cake In Your Wallet and Joanne McNally",
       "published_at": "2024-04-16T14:50:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hr37z6",
-      "description": "Once the Welsh football media spring dries up Elis needs a retirement plan. Thanks to his dashing good looks there is only one viable alternative: international modelling. The boys thus get the lowdown on all things posing from the most handsome man they've ever chatted to. We also play a Made Up Game where Elis is restricted to levels previously unexperienced and we've got two of the masters of tasks in the studio today. If you want to get in touch with the show then here's how: elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022",
+      "description": "Once the Welsh football media spring dries up Elis needs a retirement plan. Thanks to his dashing good looks there is only one viable alternative: international modelling. The boys thus get the lowdown on all things posing from the most handsome man they've ever chatted to. We also play a Made Up Game where Elis is restricted to levels previously unexperienced and we've got two of the masters of tasks in the studio today.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hr3qnh.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4911,7 +4911,7 @@
       "title": "#324 - Blancmange Bullying, The Custard Slice Scene, and Run to Win and Hate Yourself",
       "published_at": "2024-04-12T17:35:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hqhrx9",
-      "description": "If this show doesn’t become the go-to running podcast of 2024, we’re not sure what will. For all the on-foot 'experts' pumping out mid-level content NONE of them will cover big bones, being overtaken by your mum or exercising your big toes. But fear not, it’s not all the 'Pounding the P-odcast'. Elis takes to the metaphorical Mastermind chair in a grilling that he was born to do and the boys finally speak to a mythical figure. If you want to get in touch with the show then email elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022",
+      "description": "If this show doesn’t become the go-to running podcast of 2024, we’re not sure what will. For all the on-foot 'experts' pumping out mid-level content NONE of them will cover big bones, being overtaken by your mum or exercising your big toes. But fear not, it’s not all the 'Pounding the P-odcast'. Elis takes to the metaphorical Mastermind chair in a grilling that he was born to do and the boys finally speak to a mythical figure.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hqj5ld.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4936,7 +4936,7 @@
       "title": "#323 - Fleet McWrap, Handsome Turf and George Kink Lads Only",
       "published_at": "2024-04-09T15:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hpq14f",
-      "description": "Tuesdays used to mean the odd Champions League fixture and Holby City. Now they mean podcasts. More specifically this one, and on today's show a giddiness has descended on the studio. The boys are dreaming of things they could do and places they could go for the show: Barbados, a trip to Europe's largest folk museum, or \"wearing unitards and beating each other up\" are all equally exciting and viable options. Elsewhere there's a sexy Shame and we may even get a sequel to \"It Floats Ladies\". If you want to get in touch with the show then email elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022",
+      "description": "Tuesdays used to mean the odd Champions League fixture and Holby City. Now they mean podcasts. More specifically this one, and on today's show a giddiness has descended on the studio. The boys are dreaming of things they could do and places they could go for the show: Barbados, a trip to Europe's largest folk museum, or \"wearing unitards and beating each other up\" are all equally exciting and viable options. Elsewhere there's a sexy Shame and we may even get a sequel to \"It Floats Ladies\".",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hppynx.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4962,7 +4962,7 @@
       "title": "#322 - Specs Appeal, Virgil van Dave, and Toilets At Dench",
       "published_at": "2024-04-05T16:02:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hp3fsd",
-      "description": "A new John Robins has emerged. Move over Brains and Colin Firth in 'A Single Man' for there's a new doyenne of eyewear fashion. And with such style and grace he's also become a fount of knowledge on how best to wear one's specs. And Robins isn't the only podcast host dipping his toes into the haute couture world, as Elis is spotted modelling in the city of lights, Paris. The boys muse on names that could work as service stations, and there’s a humdinger of a listener anecdote from one of the North West's premier late-2000s leisure centres. If you want to get in touch with the show then email elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022",
+      "description": "A new John Robins has emerged. Move over Brains and Colin Firth in 'A Single Man' for there's a new doyenne of eyewear fashion. And with such style and grace he's also become a fount of knowledge on how best to wear one's specs. And Robins isn't the only podcast host dipping his toes into the haute couture world, as Elis is spotted modelling in the city of lights, Paris. The boys muse on names that could work as service stations, and there’s a humdinger of a listener anecdote from one of the North West's premier late-2000s leisure centres.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hp3cxv.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4988,7 +4988,7 @@
       "title": "#321 - Psychic Cats, Second Rate Roses and Out of Riff Ammo",
       "published_at": "2024-04-02T15:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hnc25k",
-      "description": "The lovely Lou Sanders is in the studio and brings along her wonderfully chaotic aura. Oh and it's dead bus-eh. There's another hands on Made Up Game, Lou's not getting any traction on her socials and a caller deals out not just one but TWO harrowing stories. If you want to get in touch with the show about anything whatsoever then email elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022",
+      "description": "The lovely Lou Sanders is in the studio and brings along her wonderfully chaotic aura. Oh and it's dead bus-eh. There's another hands on Made Up Game, Lou's not getting any traction on her socials and a caller deals out not just one but TWO harrowing stories.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hnc1rq.mp3",
       "enclosure_type": "audio/mpeg",
@@ -5013,7 +5013,7 @@
       "title": "#320 - The Testosterone Twins, Three Shirt Robins and Restless Irritable Discontented",
       "published_at": "2024-03-29T18:15:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hmsp10",
-      "description": "It’s a two hander today as John and Dave fly solo. But that isn’t to say that we’re not bursting at the seams with top stuff. There’s more cloud developments, John reflects on sobriety nearly a year on from his How Do You Cope chat with Elis, and the brief to wish 5 Live a Happy Birthday is broadly fulfilled. It’s elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022 for all your bits.",
+      "description": "It’s a two hander today as John and Dave fly solo. But that isn’t to say that we’re not bursting at the seams with top stuff. There’s more cloud developments, John reflects on sobriety nearly a year on from his How Do You Cope chat with Elis, and the brief to wish 5 Live a Happy Birthday is broadly fulfilled.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hmsmh4.mp3",
       "enclosure_type": "audio/mpeg",
@@ -5039,7 +5039,7 @@
       "title": "#319 - Baddies on the Beach, 5 Live At 30 and Thank God for Zabaleta",
       "published_at": "2024-03-26T16:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hm0xc1",
-      "description": "5 Live is 30 Years Old. A milestone indeed but it makes the station even more criminally young than our presenters. So Elis and John celebrate by looking back at the history of the UK's favourite (and potentially only) dedicated news and sport station. We also chat to an adamantly Dave-shunning David, and John, much to everyone's shock, pokes holes in a Made Up Game... which was created by an 11-year-old. If you want to get in touch with the show about anything whatsoever then email elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022",
+      "description": "5 Live is 30 Years Old. A milestone indeed but it makes the station even more criminally young than our presenters. So Elis and John celebrate by looking back at the history of the UK's favourite (and potentially only) dedicated news and sport station. We also chat to an adamantly Dave-shunning David, and John, much to everyone's shock, pokes holes in a Made Up Game... which was created by an 11-year-old.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hmgy3n.mp3",
       "enclosure_type": "audio/mpeg",
@@ -5062,7 +5062,7 @@
       "title": "#318 - Chieveley James, Project Digital Life and The More The Murrayer",
       "published_at": "2024-03-22T17:40:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hlc4hc",
-      "description": "John Robins is an analogue guy. There's no one on earth whose life is more dictated by paper than he. So today John digs into his worst nightmare: 'the cloud'. The boys also hear from a listener who had a podcast-adjacent brush with death and there's more sausage while you wait chat. If you want to get in touch with the show then email elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022",
+      "description": "John Robins is an analogue guy. There's no one on earth whose life is more dictated by paper than he. So today John digs into his worst nightmare: 'the cloud'. The boys also hear from a listener who had a podcast-adjacent brush with death and there's more sausage while you wait chat.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hlc87c.mp3",
       "enclosure_type": "audio/mpeg",
@@ -5086,7 +5086,7 @@
       "title": "#317 - Tasting Collapse, Ken Coe and James Hoffmann",
       "published_at": "2024-03-19T16:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0hklzb2",
-      "description": "Never has the mood at Elis and John HQ been more nervous or excitable. For it is a momentous day. The Hoff himself, coffee expert and YouTuber James Hoffman, is on the show. And the boys have as many questions as there are beans in the world. And more importantly we'll find out, under Espresso making levels of pressure, who definitively makes the best coffee as judged by the coffee king him sen. If you want to get in touch with the show then email elisandjohn@bbc.co.uk or WhatsApp on 07974 293 022",
+      "description": "Never has the mood at Elis and John HQ been more nervous or excitable. For it is a momentous day. The Hoff himself, coffee expert and YouTuber James Hoffman, is on the show. And the boys have as many questions as there are beans in the world. And more importantly we'll find out, under Espresso making levels of pressure, who definitively makes the best coffee as judged by the coffee king himself",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0hklzzq.mp3",
       "enclosure_type": "audio/mpeg",

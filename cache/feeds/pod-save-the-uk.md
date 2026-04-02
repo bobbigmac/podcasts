@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-04-02T03:26:01+00:00`
-- checked_at: `2026-04-02T03:26:01+00:00`
-- etag: `W/"8c215877d5578b1cb1d52dc28be91722"`
-- last_modified: `Thu, 02 Apr 2026 03:00:00 GMT`
+- fetched_at: `2026-04-02T13:57:06+00:00`
+- checked_at: `2026-04-02T13:57:06+00:00`
+- etag: `W/"e6344597233d991a40d8476127fe922d"`
+- last_modified: `Thu, 02 Apr 2026 10:24:43 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-04-02T03:26:01+00:00",
+  "fetched_at": "2026-04-02T13:57:06+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -34,7 +34,7 @@
       "title": "Can AI really be your friend? w/Jamie Bartlett",
       "published_at": "2026-04-02T03:00:00+00:00",
       "link": "https://audioboom.com/posts/8881673",
-      "description": "Coco and Nish are joined by top author and tech expert Jamie Bartlett. His new book is a deep dive into the ways AI is being used - highlighting its pitfalls and also where it might be beneficial. Jamie even created an AI alter-ego to help people understand how the technology really works, its strengths and its limitations. Plus, your questions, answered! From the new electoral system in Wales to favourite conspiracy theories - you’ll learn and you’ll laugh! Don’t forget to leave a review - it gives the show a boost and we love to see your comments. CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://shopify.co.uk/podsavetheuk WISE: https://www.wise.com GUESTS Jamie Bartlett, Author, ‘How To Talk To AI (And How Not To)’ Special guest appearance: Jimmy Botlett USEFUL LINKS ‘How To Talk To AI (And How Not To)’: Out April 9th https://www.penguin.co.uk/books/475950/how-to-talk-to-ai-by-bartlett-jamie/9780753561980 Welsh Assembly election guide https://senedd.wales/senedd-now/senedd-blog/senedd-election-2026-what-is-the-d-hondt-formula-and-how-does-it-work/ Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "description": "Coco and Nish are joined by top author and tech expert Jamie Bartlett. His new book is a deep dive into the ways AI is being used - highlighting its pitfalls and also where it might be beneficial. Jamie even created an AI alter-ego to help people understand how the technology really works, its strengths and its limitations. Plus, your questions, answered! From the new electoral system in Wales to favourite conspiracy theories - you’ll learn and you’ll laugh! Don’t forget to leave a review - it gives the show a boost and we love to see your comments. CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://shopify.co.uk/podsavetheuk WISE: https://www.wise.com GUESTS Jamie Bartlett, Author, ‘How To Talk To AI (And How Not To)’ and Host of Everything is Fake (And Nobody Cares) on BBC Sounds Special guest appearance: Jimmy Botlett USEFUL LINKS ‘How To Talk To AI (And How Not To)’: Out April 9th. https://www.penguin.co.uk/books/475950/how-to-talk-to-ai-by-bartlett-jamie/9780753561980 Welsh Assembly election guide https://senedd.wales/senedd-now/senedd-blog/senedd-election-2026-what-is-the-d-hondt-formula-and-how-does-it-work/ Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43560458.jpg",
       "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8881673.mp3?modified=1775062912&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
