@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-04-01T19:21:47+00:00`
-- checked_at: `2026-04-01T19:21:47+00:00`
-- last_modified: `Wed, 01 Apr 2026 17:31:55 GMT`
+- fetched_at: `2026-04-02T03:26:01+00:00`
+- checked_at: `2026-04-02T03:26:01+00:00`
+- last_modified: `Wed, 01 Apr 2026 23:59:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-01T19:21:47+00:00",
+  "fetched_at": "2026-04-02T03:26:01+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2c635c5b5697ad3c76b2d60afa916e21c2d5b660",
+      "title": "Shanthi's Hot Takes: Gentle Parenting, Ice Baths & Air Fryers",
+      "published_at": "2026-04-01T23:00:00+00:00",
+      "link": null,
+      "description": "What does Shanthi really think about gentle parenting, ice baths and calorie counting? In this episode, Romesh and mum, Shanthi take on a brand new segment: Shanthi’s Hot Takes. Nothing is safe from her opinions on WhatsApp and supermarkets to gentle parenting, air fryers and the modern obsession with ice baths. From stories from the team, to listener questions and some very solid Ranganathan advice, be sure not to miss it. A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 01:59 Shanthi on hats 03:25 Ben’s story 05:43 Shanthi’s Hot Takes 14:20 Questions from you 15:00 Shanthi’s advice on blending food and culture 18:15 How to deal with parents expectations 25:07 What do Romesh & Shanthi love about eachother? 27:37 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2e7d11ec-2dea-11f1-bafb-2b8a4508f83b/image/5c296ce561731e46a2bafe4f875c968a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5955805443.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1913",
+      "speakers": [
+        "Gentle Parenting",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "take",
+        "gentle",
+        "parenting",
+        "baths",
+        "fryers"
+      ]
+    },
     {
       "key": "90841686605e2c241556fca47e0b22210a5f0986",
       "title": "Bryan Cranston: Breaking Bad, Malcolm In The Middle & Falling In Love With Acting",
@@ -1275,6 +1299,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — Shanthi's Hot Takes: Gentle Parenting, Ice Baths & Air Fryers — speakers: Gentle Parenting, Romesh Ranganathan
 - 2026-03-29 — Bryan Cranston: Breaking Bad, Malcolm In The Middle & Falling In Love With Acting — speakers: Bryan Cranston, Breaking Bad, Walter White, Romesh Ranganathan
 - 2026-03-26 — The Birthday Episode Romesh Didn’t Want — speakers: Want Romesh, Romesh Ranganathan
 - 2026-03-23 — Tom Allen: Gardening With Celebs, Fashion Pet Peeves & The 'Mandem' — speakers: Tom Allen, Romesh Ranganathan

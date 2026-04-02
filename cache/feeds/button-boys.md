@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-04-01T19:21:47+00:00`
-- checked_at: `2026-04-01T19:21:47+00:00`
-- last_modified: `Wed, 01 Apr 2026 18:03:18 GMT`
+- fetched_at: `2026-04-02T03:26:01+00:00`
+- checked_at: `2026-04-02T03:26:01+00:00`
+- last_modified: `Wed, 01 Apr 2026 23:07:50 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-01T19:21:47+00:00",
+  "fetched_at": "2026-04-02T03:26:01+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,28 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "873f45e69fa47e6b97962d89ce91e4a856225653",
+      "title": "Yes Please Moments: Volume 2",
+      "published_at": "2026-04-01T23:00:00+00:00",
+      "link": null,
+      "description": "It's Button Boy time, gather round. This week the Boys are returning to their favourite topic, not poo, but \"yes please\" moments: satisfying game design, thoughtful additions and quirky bonuses that just do it for you. From ladders to levelling up, the Boys, with the help of your contributions, shine a light on gaming moments that rarely get the praise they deserve. Pierre's been all alone with his thoughts this week as he struggles to find time to game on the road, Sarah's been tricked again in the bargain basement and Glenn's left entertained but unspooked by his latest horror foray. To follow along with the Button Boys outside the podcast: Pierre - ⁠ You Sit There, I’ll Stand Here⁠ Glenn - ⁠ Please Sir, Glenn I Have Some Moore Glenn and Producer Ben - ⁠ The Audience VS ⁠ ⁠Sarah's Melbourne Show⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Oxenfree Love Island: The Game Mad Carnage Forge of Empires Crazy Taxi Dorfromantik Balatro My Arms Are Longer Now Resident Evil Requiem The Last of Us: Part II Planet of Lana II: Children of the Leaf The Witcher 3: Wild Hunt Planet of Lana Inside Limbo Little Nightmares It Takes Two S.T.A.L.K.E.R. 2: Heart of Chornobyl Call of Duty: Warzone Skate Story Marvel's Spider-Man Hades Alien: Isolation Hell Let Loose Red Orchestra Steel Division Resident Evil 2 The Sinking City The Elder Scrolls V: Skyrim Grand Theft Auto IV Death Stranding Red Dead Redemption 2 Uncharted 4: A Thief's End Dead Space Helldivers 2 Karma: The Dark World Cyberpunk 2077 Hitman: World of Assassination Uncharted 2: Among Thieves Baldur's Gate 3 Discounty Plate Up! Final Fantasy XII Pillars of Eternity Overcooked Sekiro Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR1788259135.mp3?updated=1775066253",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3482",
+      "speakers": [
+        "Button Boy",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "moment",
+        "volume"
+      ]
+    },
     {
       "key": "f0f727b1d3740f131321382b035712716a898dcf",
       "title": "State of the Art: Visual Design",
@@ -880,6 +902,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-01 — Yes Please Moments: Volume 2 — speakers: Button Boy, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-03-26 — State of the Art: Visual Design — speakers: La Gallerie Bouton, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-03-19 — Invite to Party: Group Gaming — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-03-12 — Press to Unpause: Getting Back into Gaming — speakers: Getting Back, Gaming If, Glenn Moore, Sarah Keyworth, Pierre Novellie
