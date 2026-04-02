@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-04-02T03:26:01+00:00`
-- checked_at: `2026-04-02T03:26:01+00:00`
+- fetched_at: `2026-04-02T07:41:09+00:00`
+- checked_at: `2026-04-02T07:41:09+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Wed, 01 Apr 2026 22:41:39 GMT`
+- last_modified: `Thu, 02 Apr 2026 04:07:16 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-02T03:26:01+00:00",
+  "fetched_at": "2026-04-02T07:41:09+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0a6e319ca7556d9e03b8ff85b25431befa473139",
+      "title": "Lou Beckett",
+      "published_at": "2026-04-02T04:00:00+00:00",
+      "link": null,
+      "description": "Umbrellas at the ready, dear listeners, as the brilliant Lou Beckett joins me in the garden on a rather dreary spring morning. ☔ But fear not, spirits remain undampened. We chat reality television, the delightful side of social media, and, with plenty of thoughts on motherhood along the way, discuss Lou’s wonderful new book, Lessons from a Default Parent. Out right now! 👈 So, pause Real Housewives, don't you dare forget your waterproofs, and come pottering with us... This way, mind the urn. 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And do like and subscribe, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/37621da8-2e16-11f1-a28b-d77367eba05f/image/f3db67c69536a657a4545e451fb97f2d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR8500410679.mp3?updated=1775082132",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3135",
+      "speakers": [
+        "Lou Beckett Umbrellas",
+        "Lou Beckett",
+        "Tom Allen"
+      ],
+      "topics": [
+        "beckett"
+      ]
+    },
     {
       "key": "3f81f0265422c4746f16802548bbd81ec4b4c97e",
       "title": "Dr Amir Khan",
@@ -608,6 +628,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — Lou Beckett — speakers: Lou Beckett Umbrellas, Lou Beckett, Tom Allen
 - 2026-03-26 — Dr Amir Khan — speakers: Amir Khan, Tom Allen
 - 2026-03-19 — The Clippings: Part 3 — speakers: Whilst Pottering, Tom Allen
 - 2026-03-12 — The Clippings: Part 2 — speakers: Whilst Pottering, Tom Allen

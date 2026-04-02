@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-04-01T19:21:47+00:00`
-- checked_at: `2026-04-01T19:21:47+00:00`
-- etag: `"djEuMi4wOjE3NzUwNzEzMDc4NzQ="`
+- fetched_at: `2026-04-02T07:41:09+00:00`
+- checked_at: `2026-04-02T07:41:09+00:00`
+- etag: `"djEuMi4wOjE3NzUxMDYwMzk5NTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-04-01T19:21:47+00:00",
+  "fetched_at": "2026-04-02T07:41:09+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c3d909d83f95ac1c204e0e26ca104f6965fe71d0",
+      "title": "Charlene Kaye",
+      "published_at": "2026-04-02T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/506-charlene-kaye",
+      "description": "Charlene Kaye is a musician and comedian based in New York who has toured the world, opening for bands like the Arctic Monkeys and Metallica. You may have seen her \"Every Taylor Swift Song\" skit which now sits at out 100 million views - or in her two cover bands, Guns N’ Hoses (all-girl GNR) and Labiahead (all girl Radiohead). She's now back with her new show Diversity Shredder , including dates at London's Underbelly . In this episode we discuss: why Tenacious D and Flight of the Conchords works so well is the feeling of being a rockstar and a comedian the same thing? does being successful in one creative field help starting in stand-up building her first stand-up show from a notebook about her mum performing to incompatible fan bases hacking algorithms through retention loops and hook writing how a Taylor Swift parody changed everything and we find out if Charlene is happy... Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to 15 minutes of exclusive extras including: how ego shows up differently in music vs comedy when your safety net becomes part of the act and turning real-life tension into art 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Charlene: Charlene Kaye: Diversity Shredder is at at London's Underbelly next week on Wednesday 8th and Thursday 9th April. You find out more live dates at kayeofficial.com . You can also follow her on Instagram, @charlenekaye . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ 15 minutes of exclusive extra content with Charlene ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE including dates in Bristol , London , Manchester , Stoke , Marlborough, LA and Mach ! Find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1775069971345-848ddee9-b5a0-4e09-8adb-140f463ee124.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69cd704bb601292a80d35e6d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118446912",
+      "itunes_duration": "1:22:15",
+      "speakers": [
+        "Charlene Kaye",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "charlene",
+        "kaye"
+      ]
+    },
     {
       "key": "c699cd9826b994c11b0cebe1061bee8b6139e925",
       "title": "Johnny Marriott from PET NEEDS: NonComPod",
@@ -11293,6 +11313,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — Charlene Kaye — speakers: Charlene Kaye, Stuart Goldsmith
 - 2026-03-27 — Johnny Marriott from PET NEEDS: NonComPod — speakers: Johnny Marriott, Stuart Goldsmith
 - 2026-03-19 — Chris Fleming (2019): ComCompendium — speakers: Chris Fleming, Stuart Goldsmith
 - 2026-03-12 — Joyelle Nicole Johnson — speakers: Joyelle Nicole Johnson, Stuart Goldsmith
