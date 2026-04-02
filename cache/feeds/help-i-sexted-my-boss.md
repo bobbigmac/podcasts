@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-04-02T07:41:09+00:00`
-- checked_at: `2026-04-02T07:41:09+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpVeE1EWXdORFF6TURNPTo6c2F4ZXNz"`
+- fetched_at: `2026-04-02T10:11:06+00:00`
+- checked_at: `2026-04-02T10:11:06+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpVeE1UWTVNemt6TWpFPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-04-02T07:41:09+00:00",
+  "fetched_at": "2026-04-02T10:11:06+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -29,10 +29,10 @@
   "episodes": [
     {
       "key": "b7f65333ca57156c40a6effa569f975a62edc0bf",
-      "title": "William Eats His First Ever KFC | And Tour Predictions",
+      "title": "William Eats His First Ever KFC | And Jordan's Biggest Regret",
       "published_at": "2026-04-02T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/william-eats-his-first-ever-kfc-and-tour-predictions",
-      "description": "What do you do when you've got a long drive with the UK's leading etiquette expert? Make him eat KFC, of course. The boys also discuss your tour predictions and Jordan's biggest regret. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
+      "description": "What do you do when you've got a long drive with the UK's leading etiquette expert? Make him eat KFC, of course. The boys also discuss whether your tour predictions came true and Jordan's biggest regret. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
       "image_url": null,
       "enclosure_url": null,
       "enclosure_type": null,
@@ -45,8 +45,8 @@
       ],
       "topics": [
         "william",
-        "tour",
-        "prediction"
+        "jordan",
+        "regret"
       ]
     },
     {
@@ -14034,7 +14034,7 @@
 
 ## Episodes (newest first)
 
-- 2026-04-02 — William Eats His First Ever KFC | And Tour Predictions — speakers: William Eats, William Hanson, Jordan North
+- 2026-04-02 — William Eats His First Ever KFC | And Jordan's Biggest Regret — speakers: William Eats, William Hanson, Jordan North
 - 2026-03-31 — Help I’ve Never Shaved My Pubes | And Jordan’s Buckfast Regret — speakers: Jordan’s Buckfast Regret, William Hanson, Jordan North
 - 2026-03-27 — What’s A Gummer?! | And Backstage at Wembley Arena — speakers: Wembley Arena Jordan, William Hanson, Jordan North
 - 2026-03-24 — Help I Used Dirty Loo Roll | And We’re On The TOUR BUS! — speakers: William Hanson, Jordan North

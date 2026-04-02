@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-04-02T03:26:01+00:00`
-- checked_at: `2026-04-02T03:26:01+00:00`
-- last_modified: `Thu, 02 Apr 2026 00:24:24 GMT`
+- fetched_at: `2026-04-02T10:11:06+00:00`
+- checked_at: `2026-04-02T10:11:06+00:00`
+- last_modified: `Thu, 02 Apr 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-02T03:26:01+00:00",
+  "fetched_at": "2026-04-02T10:11:06+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,27 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "911349c27e7b9b778316ef41064f545a8c8062b0",
+      "title": "Best Of: The New Science of Improving Your Memory",
+      "published_at": "2026-04-02T09:00:00+00:00",
+      "link": null,
+      "description": "The French filmmaker Jean Renoir said, \"The only things that are important in life are the things you remember.\" But what do you remember and why? That's the subject of Why We Remember: Unlocking Memory's Power to Hold on to What Matters by pioneering neuroscientist Charan Ranganath. He explains why you still know the lyrics to the song you loved in eighth grade but can't remember the name of your kid's eighth-grade teacher, how memory shapes your identity, and what you can do right now to improve your recall. (This episode first aired in April 2024.) The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠here⁠⁠⁠ . Follow Rufus on ⁠⁠LinkedIn⁠⁠ , subscribe to our ⁠⁠Substack⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠nextbigideaclub.com⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). Sponsored By: Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠⁠meetfabric.com/nbi⁠⁠ Factor — Head to ⁠⁠⁠factormeals.com/idea50off⁠⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠⁠granola.ai/idea⁠⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP1298768948.mp3?updated=1775089757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4309",
+      "speakers": [
+        "Jean Renoir",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "science",
+        "memory"
+      ]
+    },
     {
       "key": "a91633a2443ba52cc2c1de3fbc9b4181cdb6643b",
       "title": "How to Find the Meaning of Your Life (with Arthur C. Brooks)",
@@ -7443,6 +7464,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — Best Of: The New Science of Improving Your Memory — speakers: Jean Renoir, Rufus Griscom, Caleb Bissinger
 - 2026-03-30 — How to Find the Meaning of Your Life (with Arthur C. Brooks) — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-03-26 — The Surprising Power of Oversharing — speakers: Leslie John, Rufus Griscom, Caleb Bissinger
 - 2026-03-23 — How a Mormon Journalist Became a Degenerate Gambler — speakers: Mormon Journalist Became, Supreme Court, Rufus Griscom, Caleb Bissinger

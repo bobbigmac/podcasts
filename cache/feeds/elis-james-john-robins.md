@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-04-02T03:26:01+00:00`
-- checked_at: `2026-04-02T03:26:01+00:00`
-- etag: `"f6f6d2ebb4aa4882425cf76f7e827c71"`
-- last_modified: `Wed, 01 Apr 2026 22:13:51 GMT`
+- fetched_at: `2026-04-02T10:11:06+00:00`
+- checked_at: `2026-04-02T10:11:06+00:00`
+- etag: `"f132eedf149a15df389785ec4d6fc580"`
+- last_modified: `Thu, 02 Apr 2026 08:54:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds. Email: elisandjohn@bbc.co.uk #elisandjohn",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-04-02T03:26:01+00:00",
+  "fetched_at": "2026-04-02T10:11:06+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -11678,7 +11678,7 @@
       "title": "#44 - Blunderstorms, Cryptic Crosswords and John's 2012 Rebrand",
       "published_at": "2020-02-28T16:46:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m000fqf4",
-      "description": "You join us in the midst of a Twitter storm, as a video clip of Elis kicking a ball at a 7-year old's groin threatens to spread like wildfire. Luckily, the kid is fine, the parents couldn't give an S, and seven days after the incident, Elis is nearly able to sleep again. All's well that ends well! Enjoy the podcast. Text 85058 (charged at your standard message rate). Email: elisandjohn@bbc.co.uk #elisandjohn",
+      "description": "You join us in the midst of a Twitter storm, as a video clip of Elis kicking a ball at a 7-year old's groin threatens to spread like wildfire. Luckily, the kid is fine, the parents couldn't give an S, and seven days after the incident, Elis is nearly able to sleep again. All's well that ends well! Enjoy the podcast. #elisandjohn",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p08667d4.mp3",
       "enclosure_type": "audio/mpeg",
@@ -11862,7 +11862,7 @@
       "title": "#36 - Fingers On Pies, Whatsapp Fails and Bubble Bath Decadence",
       "published_at": "2020-01-31T16:53:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m000ds0c",
-      "description": "During today's episode, Elis reveals himself as a terrible parent, we say hello to a great Unsung Hero, and we learn that John knows very little about the Spice Girls. Enjoy! Text 85058 (charged at your standard message rate). Email: elisandjohn@bbc.co.uk #elisandjohn",
+      "description": "During today's episode, Elis reveals himself as a terrible parent, we say hello to a great Unsung Hero, and we learn that John knows very little about the Spice Girls. Enjoy! #elisandjohn",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p081yph4.mp3",
       "enclosure_type": "audio/mpeg",

@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-01T19:21:47+00:00`
-- checked_at: `2026-04-01T19:21:47+00:00`
-- etag: `"djEuMi4wOjE3NzUwNjI1NTMyNjE="`
+- fetched_at: `2026-04-02T10:11:06+00:00`
+- checked_at: `2026-04-02T10:11:06+00:00`
+- etag: `"djEuMi4wOjE3NzUxMjAyNDMzOTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-01T19:21:47+00:00",
+  "fetched_at": "2026-04-02T10:11:06+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -36,8 +36,8 @@
       "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1775062489014-9b3941ef-2127-4684-9a2c-e15281c48c14.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69cd4e191ada36b7ad1e89be/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "44278477",
-      "itunes_duration": "18:25",
+      "enclosure_length": "45466012",
+      "itunes_duration": "18:54",
       "speakers": [
         "Anoosh Chakelian",
         "Oli Dugmore"

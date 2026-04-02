@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-03-30T14:02:47+00:00`
-- checked_at: `2026-03-30T14:02:47+00:00`
-- etag: `"57601d27d4f486a2e1da1b69956779b7"`
-- last_modified: `Mon, 30 Mar 2026 12:49:42 GMT`
+- fetched_at: `2026-04-02T10:11:06+00:00`
+- checked_at: `2026-04-02T10:11:06+00:00`
+- etag: `"c62c36a7d52b600ce0d0b8a68d24f1c9"`
+- last_modified: `Thu, 02 Apr 2026 08:35:57 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-03-30T14:02:47+00:00",
+  "fetched_at": "2026-04-02T10:11:06+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -27,6 +27,27 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "06b2127b1733c4e3390e7a2a3efaa5e726f16e2a",
+      "title": "Spring Celtic Challenge #753",
+      "published_at": "2026-04-02T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/spring-celtic-challenge-753",
+      "description": "Spring is here — and so is something new. This is episode 753 of the Irish & Celtic Music Podcast, and it's the first episode of the Spring Celtic Challenge. More on that in a moment. First, let's talk music. The Bow Tides, Wolf Loescher, Tarren, CaliCeltic, and eleven more independent Celtic artists are waiting for you. Let's go. Subscribe now at CelticMusicPodcast.com ! The Bow Tides, Olivia Barrett, The Haar, Tarren, The Munster Men, Wolf Loescher, Arise & Go, Enda Reilly, Alexander James Adams, Griffin, Highlander Celtic Rock Band Australia, Clover's Revenge, The Leftovers, CaliCeltic GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! You can follow our playlist on YouTube to listen to those top voted tracks as they are added every 2 - 3 weeks. THIS WEEK IN CELTIC MUSIC 0:06 - The Bow Tides \"Dulcie's Delight\" from Sailing On 4:01 - WELCOME 6:33 - Olivia Barrett \"The Mountain Blessing/The Secret Elsewhere\" from Elsewhere 11:03 - The Haar \"Madam I'm a Darling\" from The Lost Day 13:29 - Tarren \"Dan - Y - Bont\" from Outside Time 17:00 - The Munster Men \"All the joys\" from Tasting The Waters 21:02 - FEEDBACK 21:48 - Wolf Loescher \"Dark Lochnagar\" from Child of Alba 25:49 - Arise & Go \"Bonnie Ellen Owen / Samuel the Weaver / Pat & Al's / Chloe's Passion\" from Moments of Light 31:20 - Enda Reilly \"Canal Bank Hangover Walk\" from Hy - Brasil 33:18 - Alexander James Adams \"A Rogue's Return\" from UnSeelie Self 36:07 - THANKS 38:17 - Griffin \"Honeycomb\" from Honeycomb (EP) 42:50 - Highlander Celtic Rock Band Australia \"Skye Boat Song\" from Start the Fire 49:05 - Clover's Revenge \"Big Strong Man\" from Truants And Absolution 51:07 - The Leftovers \"The Ferryman\" from Heart of Buffalo 53:42 - CLOSING 54:32 - CaliCeltic \"Leaving Athlone\" from West of Shannon 58:41 - CREDITS Support for this program comes from John Sharkey White, II. Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Hank Woodward. Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Spring is a good time to think about the energy we put into the world. The Celtic lands we love — Ireland, Scotland, the windswept coasts and green hills — they're worth protecting. So are the ones right outside your door. Small choices add up. Switch to a renewable energy provider if you can. Walk outside this April. Pick up one piece of trash. None of it is hard. All of it matters. The same spirit that carries Celtic music forward — community, resilience, love of the land — is the same spirit that keeps this planet alive. Let's carry that forward. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME TO THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories. Every song has a story, every episode is a toast to Celtic and folk songwriters. Discover the stories behind the songs from the heart of the Celtic pub scene. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email the artists to let them know you heard them on the Irish & Celtic Music Podcast. These musicians are not part of some corporation. They are small indie groups that rely on people just like you to support their music so they can keep creating it. Please show your generosity. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . The new single by May Will Bloom is out officially. SPRING CELTIC CHALLENGE The Spring Celtic Challenge is officially underway. It started yesterday — April 1st — and if you haven't jumped in yet, today is a perfect day to start. Thirty days. Three simple things. First — walk for 20 minutes every day. That's it. Just get outside. Second — while you're walking, put on the Irish & Celtic Music Podcast. Let the music carry you. And third — pick up one piece of trash along the way. Just one. Every day. That's the whole challenge. Walk. Listen. Pick up one piece of trash. Small actions. But thirty days of small actions? That adds up to something real. Something you can actually feel. You've got 29 days ahead of you. Let's make them count. And bring a friend. The more people walking, listening, and cleaning up the world — the better. Are you in? Let me know over. Email me at follow@bestcelticmusic . I'd love to hear from you. THANK YOU PATRONS OF THE PODCAST! Spring is here. The world is waking up. And so is the Celtic music community — thanks to you. Because of generous patrons like you, the Irish & Celtic Music Podcast keeps growing. New episodes every week. New artists discovered. New listeners finding their way to this music they didn't even know they needed. Your support pays for everything that makes this show what it is. Audio engineering. Graphics. Weekly issues of the Celtic Music Magazine. Show promotion. And buying music directly from the independent Celtic artists we feature. Every contribution plants a seed. And if you're not yet a patron — spring is the perfect time to start. Patrons get early access to episodes, music - only editions, free MP3 downloads, exclusive stories and artist interviews, and a vote in the Celtic Top 20. Small support. Real impact. And the satisfaction of knowing you helped keep this music alive, independent, and growing. Head to SongHenge.com to join us today. Three simple steps and you're in. Step one — go to SongHenge.com. Step two — choose your support level. Step three — become part of something that matters. The Celtic music community is blooming this spring. Come grow with us. 🍀 A special thanks to our Celtic Legends: Fuzzy, Dave and Rosie Donnelly, Rick Boyce, Bruce, Daniel Ide, Brian McReynolds, Marti Meyers, Alan Schindler, Margreta Silverstone, Emma Bartholomew, Dan mcDade, Jeff A, Gerald F Boyle, Miranda Nelson, Nancie Barnett, Gary R Hook, Lynda MacNeil, Kelly Garrod, Mike Schock, Shawn Cali HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $25. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. Learn more about the invasion at http://celticinvasion.com/ #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo from your St Patrick's Day celebrations or any new audio recordings you got for the holiday. Email me at follow@bestcelticmusic.",
+      "image_url": "https://static.libsyn.com/p/assets/8/0/7/4/807495f60cb897d416c3140a3186d450/753-Spring_Celtic_Challenge-Griffin-1400.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-753.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58169469",
+      "itunes_duration": "01:00:10",
+      "speakers": [
+        "Spring Celtic Challenge",
+        "Marc Gunn"
+      ],
+      "topics": [
+        "spring",
+        "celtic",
+        "challenge"
+      ]
+    },
     {
       "key": "e3031b6224669937d73620739870ac256a13bc90",
       "title": "Fair & Tender Ladies #752",
@@ -16095,6 +16116,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — Spring Celtic Challenge #753 — speakers: Spring Celtic Challenge, Marc Gunn
 - 2026-03-26 — Fair & Tender Ladies #752 — speakers: Heather Dale, Marc Gunn
 - 2026-03-16 — St. Patrick's Day Irish Celtic Music Special 2026 (Part 2) #751 — speakers: Day Irish Celtic Music, Marc Gunn
 - 2026-03-12 — St. Patrick's Day 2026 (Part 1) #750 — speakers: Marc Gunn
