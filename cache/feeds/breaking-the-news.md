@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-04-01T14:04:55+00:00`
-- checked_at: `2026-04-01T14:04:55+00:00`
-- etag: `"b9ce3926f1f4a96037170a66f8adbb98"`
-- last_modified: `Wed, 01 Apr 2026 12:33:02 GMT`
+- fetched_at: `2026-04-03T13:38:11+00:00`
+- checked_at: `2026-04-03T13:38:11+00:00`
+- etag: `"67c46eae864b1d5a8c7de897b8109a47"`
+- last_modified: `Fri, 03 Apr 2026 13:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-04-01T14:04:55+00:00",
+  "fetched_at": "2026-04-03T13:38:11+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -30,6 +30,34 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "ae7c3b2040dc31ce01048dd2d5d2dc9aa488131d",
+      "title": "Chris Forbes, Kemah Bob, Kate Hammer and Stuart McPherson",
+      "published_at": "2026-04-03T13:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002tdqr",
+      "description": "Des and the teams break up the biggest news of the week, including the latest goings on with Calmac ferries, Easter treats and a new role for Sir Billy Connolly. Lead Writer: Jennifer Walker Additional Material: Stuart Campbell, Gordon Watson , Alice Gregg , Fearghas Kelly, Crispin Fisher, Gregor Paton, Jon Paisley, Trevor Holland, Robbie Fox Producer: Lauren Mackay Senior Producer: David Flynn Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nbgcfq.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Chris Forbes",
+        "Kemah Bob",
+        "Kate Hammer",
+        "Stuart McPherson",
+        "Bbc Radio Scotland"
+      ],
+      "topics": [
+        "chris",
+        "forbes",
+        "kemah",
+        "kate",
+        "hammer",
+        "stuart",
+        "mcpherson"
+      ]
+    },
     {
       "key": "674f77d903a55fb4ec1a17889f4aa2213944573d",
       "title": "Glasgow International Comedy Festival Special: Susie McCabe, Aurie Styla, Tiffany Stevenson and Rosco McClelland",
@@ -213,6 +241,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-03 — Chris Forbes, Kemah Bob, Kate Hammer and Stuart McPherson — speakers: Chris Forbes, Kemah Bob, Kate Hammer, Stuart McPherson, Bbc Radio Scotland
 - 2026-03-27 — Glasgow International Comedy Festival Special: Susie McCabe, Aurie Styla, Tiffany Stevenson and Rosco McClelland — speakers: Susie McCabe, Aurie Styla, Rosco McClelland, Bbc Radio Scotland
 - 2026-03-20 — Glasgow International Comedy Festival Special: Raymond Mearns, Madeleine Brettingham, Ignacio Lopez and Alexandra Haddow — speakers: Raymond Mearns, Madeleine Brettingham, Ignacio Lopez, Alexandra Haddow Des, Bbc Radio Scotland
 - 2026-03-13 — Glasgow International Comedy Festival Special: Ashley Storrie, Jim Smith, Elaine Malcolmson and Chris Thorburn — speakers: Ashley Storrie, Jim Smith, Elaine Malcolmson, Chris Thorburn, Bbc Radio Scotland
