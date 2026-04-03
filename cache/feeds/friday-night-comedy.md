@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-04-02T16:11:21+00:00`
-- checked_at: `2026-04-02T16:11:21+00:00`
-- etag: `"b814c85c198063eb5cd917e5a9aca9bc"`
-- last_modified: `Thu, 02 Apr 2026 14:58:03 GMT`
+- fetched_at: `2026-04-03T19:05:58+00:00`
+- checked_at: `2026-04-03T19:05:58+00:00`
+- etag: `"a493d33d78743c819bcf9648e924ec64"`
+- last_modified: `Fri, 03 Apr 2026 18:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-  "fetched_at": "2026-04-02T16:11:21+00:00",
+  "fetched_at": "2026-04-03T19:05:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "3035bbf1ed077bb94ca6847922c939971e483b2b",
+      "title": "The Naked Week: Ep4. Who ya gonna call...? (Clue: It's Donald Trump)",
+      "published_at": "2026-04-03T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n85xfs",
+      "description": "The team tackle Trump's tirades, and very much give the BBC's incoming Director General a problematic in-tray. From The Skewer’s Jon Holmes and host Andrew Hunter Murray comes The Naked Week, a fresh way of dressing the week’s news in the altogether and parading it around for everyone to laugh at. With award-winning writers and a crack team of contemporary satirists - and recorded in front of a live audience - The Naked Week delivers a topical news-nude straight to your ears. Written by: Jon Holmes Katie Sayer Gareth Ceredig James Kettle Jason Hazeley Additional Material: Karl Minns Sophie Dickson Darren Phillips Joe Topping Kevin Smith Investigation team: Cat Neilan Becky Pinnington Emily Channon Guests: Cariad Lloyd, Simon Munday. Production Team: Tony Churnside, Jerry Peal, David Riffkin. Production Coordinator: Molly Punshon Assistant Producer: Katie Sayer Executive Producer: Philip Abrams Produced and Directed by Jon Holmes An unusual production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n974c3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26752000",
+      "itunes_duration": "1672",
+      "speakers": [],
+      "topics": [
+        "naked",
+        "week",
+        "clue",
+        "donald",
+        "trump"
+      ]
+    },
     {
       "key": "33f75da07699c279aa7ddb608c88faf0dbd0dc1c",
       "title": "The Naked Week: Ep3. Shipping, Shopping, and Shagg...you know what, never mind.",
@@ -5475,6 +5495,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-03 — The Naked Week: Ep4. Who ya gonna call...? (Clue: It's Donald Trump)
 - 2026-03-27 — The Naked Week: Ep3. Shipping, Shopping, and Shagg...you know what, never mind.
 - 2026-03-20 — The Naked Week: Ep2. The Naked Week team party like it's the 2003 Iraq War.
 - 2026-03-13 — The Naked Week: Ep1. War, Law, and Operation Amol Rajan. — speakers: Amol Rajan

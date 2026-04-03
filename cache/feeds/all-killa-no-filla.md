@@ -2,10 +2,10 @@
 
 - slug: `all-killa-no-filla`
 - source: `https://allkillanofilla.libsyn.com/rss`
-- fetched_at: `2026-03-16T07:48:40+00:00`
-- checked_at: `2026-03-16T07:48:40+00:00`
-- etag: `"42d79795ef8375084b3a375ae74579a7"`
-- last_modified: `Mon, 16 Mar 2026 06:35:53 GMT`
+- fetched_at: `2026-04-03T19:05:58+00:00`
+- checked_at: `2026-04-03T19:05:58+00:00`
+- etag: `"691d52278aa7b503356de52404fae9d4"`
+- last_modified: `Fri, 03 Apr 2026 18:41:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://allkillanofilla.podomatic.com",
   "description": "Join comedians Rachel Fairburn and Kiri Pritchard - McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it.",
   "image_url": "https://static.libsyn.com/p/assets/f/7/f/0/f7f0f9cb9da4b5bb16c3140a3186d450/All_Killa_logo_copy.png",
-  "fetched_at": "2026-03-16T07:48:40+00:00",
+  "fetched_at": "2026-04-03T19:05:58+00:00",
   "owners": [
     "Kiri Pritchard-McLean",
     "Rachel Fairburn"

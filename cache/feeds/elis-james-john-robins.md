@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-04-03T10:03:05+00:00`
-- checked_at: `2026-04-03T10:03:05+00:00`
-- etag: `"b5c1defe4cd18f4e7c61822ae0d6b2f2"`
-- last_modified: `Fri, 03 Apr 2026 09:41:01 GMT`
+- fetched_at: `2026-04-03T19:05:58+00:00`
+- checked_at: `2026-04-03T19:05:58+00:00`
+- etag: `"b25fd97d2c4c46c2df397c3991c36b7e"`
+- last_modified: `Fri, 03 Apr 2026 16:55:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-04-03T10:03:05+00:00",
+  "fetched_at": "2026-04-03T19:05:58+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -29,6 +29,31 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "721f4679ac08c6ce2b16b6ce1596886626582987",
+      "title": "#528 - A Remembersplore, Miserable Coat Man and The Early Human Scene",
+      "published_at": "2026-04-03T16:55:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nbhlh4",
+      "description": "Strap yourself in because boy do we have a highbrow show for you today. Quoting Heidegger? Check. Ruminations on the nature of the present? Check. Elis S’ing himself in a park in Cardiff after a night on the Red Bull mixers? Check. John Wins Again throws up some interesting morsels: John reveals his latest bedtime snack, and one of John’s wins leaves Elis literally speechless. Elsewhere we meet Elis’s unkempt uni alter ego, John realises he should have been born in a Megaworld, and Dave is invited to get into the early human scene. Remember to pop on yer BBC Sounds app on Saturday morning to hear this week’s Bureau de Change of the Mind.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nbhvpv.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63840000",
+      "itunes_duration": "3990",
+      "speakers": [
+        "Quoting Heidegger",
+        "Elis James",
+        "John Robins"
+      ],
+      "topics": [
+        "remembersplore",
+        "miserable",
+        "coat",
+        "early",
+        "human",
+        "scene"
+      ]
+    },
     {
       "key": "515a62c159c36c7c174d4d2aeaf2e145a473de62",
       "title": "#527 - Ab Merchants, Bleeding VAT and Ladybirdaggedon",
@@ -12752,6 +12777,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-03 — #528 - A Remembersplore, Miserable Coat Man and The Early Human Scene — speakers: Quoting Heidegger, Elis James, John Robins
 - 2026-03-31 — #527 - Ab Merchants, Bleeding VAT and Ladybirdaggedon — speakers: Elis James, John Robins
 - 2026-03-27 — #526 - Huw Bris, Sir Psycho Sexy and Your Mexico 86 — speakers: Psycho Sexy, Elis James, John Robins
 - 2026-03-24 — #525 - Lostalgia, Fornication Nation and Narberth to Nefyn Nude — speakers: Fornication Nation, Nefyn Nude Elis, Elis James, John Robins

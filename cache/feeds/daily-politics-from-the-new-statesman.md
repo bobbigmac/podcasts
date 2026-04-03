@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-03T15:53:08+00:00`
-- checked_at: `2026-04-03T15:53:08+00:00`
-- etag: `"djEuMi4wOjE3NzUyMzA5OTkxNzU="`
+- fetched_at: `2026-04-03T19:05:58+00:00`
+- checked_at: `2026-04-03T19:05:58+00:00`
+- etag: `"djEuMi4wOjE3NzUyMzIwMzk2MDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-03T15:53:08+00:00",
+  "fetched_at": "2026-04-03T19:05:58+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "c8d8934711bffd63d9678cf0837a4739e8602eea",
+      "title": "Thames Water's careless vandalism",
+      "published_at": "2026-04-03T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/thames-waters-careless-vandalism",
+      "description": "The pollution of Britain’s waterways is well known, but the full extent of the carelessness and vandalism of Britain’s biggest water company, Thames Water, is a catalogue of wrongdoing on an industrial scale. Will Dunn speaks to the MP with the dubious honour of representing the constituency that is worst affected by sewage spills - Liberal Democrat MP, Charlie Maynard. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1775198753410-e7766f0c-d72b-456c-ad85-b1be21159473.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69cf66681d7024f1a70f5476/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75220342",
+      "itunes_duration": "31:18",
+      "speakers": [
+        "Thames Water",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "thames",
+        "water",
+        "vandalism"
+      ]
+    },
     {
       "key": "fc00474216eded1afd9756e845a2c70d207e795d",
       "title": "Trump’s ground options in Iran",
@@ -30890,6 +30912,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-03 — Thames Water's careless vandalism — speakers: Thames Water, Anoosh Chakelian, Oli Dugmore
 - 2026-04-02 — Trump’s ground options in Iran — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-04-01 — Has Keir Starmer found his vision? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-03-31 — How green is the Green Party? — speakers: Green Party, Anoosh Chakelian, Oli Dugmore
