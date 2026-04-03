@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-04-02T21:52:31+00:00`
-- checked_at: `2026-04-02T21:52:31+00:00`
-- etag: `"djEuMi4wOjE3NzUxNjM2NTI2OTg="`
+- fetched_at: `2026-04-03T03:27:36+00:00`
+- checked_at: `2026-04-03T03:27:36+00:00`
+- etag: `"djEuMi4wOjE3NzUxODY0MzkzNjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-04-02T21:52:31+00:00",
+  "fetched_at": "2026-04-03T03:27:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6f6d0e68e94111f053718da43eb2a011237abe2f",
+      "title": "GEORGINA CAMPBELL (Barbarian / Cold Storage / Black Mirror) • Friday Rewind",
+      "published_at": "2026-04-03T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Georgina Campbell , originally episode 90 from 2016-03-23. Original writeup below: (welcome) WELCOME w-e-l-c-o-m-e (trying to match Pip's impulse to change that cadence at the start) to your 90th episode of the Distraction Pieces Podcast, featuring the wonderful and crazy skilled Georgina Campbell! A bright and breezy chat to match the time of year, with a super nice back and forth between Georgina and Pip covering all the good stuff, from her being talent-scouted in the street, to her earlier roles and influences, her awards win for 'Murdered By My Boyfriend', and the back catalogue of goodness as well as the - forward? - catalogue of greatness down the road... Such a nice, uplifting and inspiring chat from one of the UK's finest. Georgina Campbell is your new best friend! PIP'S PATREON PAGE if you're of a supporting nature IMDB INSTAGRAM BARBARIAN COLD STORAGE PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1775163271204-8e7a9d08-4725-4b30-a2a7-a36693bfb800.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69ced904f44b357ce943d713/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "144405348",
+      "itunes_duration": "1:00:06",
+      "speakers": [],
+      "topics": [
+        "georgina",
+        "campbell",
+        "barbarian",
+        "cold",
+        "storage",
+        "black",
+        "mirror",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "ae9abda0a2646aeb166566759a97a1366f745669",
       "title": "ONE DRINK w/ Kae, Polar & Musa • a flashback to 2011 in 3 movements #665",
@@ -18508,6 +18532,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-03 — GEORGINA CAMPBELL (Barbarian / Cold Storage / Black Mirror) • Friday Rewind
 - 2026-04-01 — ONE DRINK w/ Kae, Polar & Musa • a flashback to 2011 in 3 movements #665
 - 2026-03-27 — FULL FACT.org (independent fact checkers & campaigners) • Friday Rewind
 - 2026-03-25 — ANSON BOON • 'The Good Boy' in cinemas now! (MobLand / Pistol / 1917) #664

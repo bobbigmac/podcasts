@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-04-02T21:52:31+00:00`
-- checked_at: `2026-04-02T21:52:31+00:00`
-- last_modified: `Thu, 02 Apr 2026 19:59:31 GMT`
+- fetched_at: `2026-04-03T03:27:36+00:00`
+- checked_at: `2026-04-03T03:27:36+00:00`
+- last_modified: `Thu, 02 Apr 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-02T21:52:31+00:00",
+  "fetched_at": "2026-04-03T03:27:36+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e5f64ef728f13154625396e153b1a7561f4689a7",
+      "title": "Ed Sheeran, Marriage Proposals and Sunderland",
+      "published_at": "2026-04-02T23:01:00+00:00",
+      "link": null,
+      "description": "Is Rom the new face of Sunderland? What does Ed Sheeran have to do with Tom’s marriage proposal? How often do you kiss your partner? It’s time for another email episode, where we discuss all the things you’ve sent in to us, from photos of Rom spotted in a shopping centre to how to find that special someone, also good luck Numbat! Get involved! Send us your questions, pictures and more importantly videos to wolfowlpod@gmail.com A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 01:27 Proposals 07:18 Kissing 09:56 Wolf & Owl weddings 11:44 Have you seen this man? 18:55 Glass houses and sweet treats 19:55 For Sunderland 21:15 Life advice 31:02 Get in touch Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/643ad794-2eb5-11f1-87e5-9fff0094c456/image/7575f5075f026839aae72913193d2369.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3654882557.mp3?updated=1775160264",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2080",
+      "speakers": [
+        "Ed Sheeran",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "sheeran",
+        "marriage",
+        "proposals",
+        "sunderland"
+      ]
+    },
     {
       "key": "4816cd1933873dbe85c42c10b1e06293bccd9346",
       "title": "Wikifeet, Football Manager and Pro Plus",
@@ -6424,6 +6447,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — Ed Sheeran, Marriage Proposals and Sunderland — speakers: Ed Sheeran, Romesh Ranganathan, Tom Davis
 - 2026-03-31 — Wikifeet, Football Manager and Pro Plus — speakers: Tom’s Wikifeet, Romesh Ranganathan, Tom Davis
 - 2026-03-27 — The Manosphere & Men's Fashion Over 40 — speakers: Romesh Ranganathan, Tom Davis
 - 2026-03-24 — Horny dreams, zombie apocalypses and school parties — speakers: Romesh Ranganathan, Tom Davis

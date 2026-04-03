@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-04-01T03:45:28+00:00`
-- checked_at: `2026-04-01T03:45:28+00:00`
-- etag: `"djEuMi4wOjE3NzUwMDE2MzkzODQ="`
+- fetched_at: `2026-04-03T03:27:36+00:00`
+- checked_at: `2026-04-03T03:27:36+00:00`
+- etag: `"djEuMi4wOjE3NzUxNzQ0MzkzNjc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-04-01T03:45:28+00:00",
+  "fetched_at": "2026-04-03T03:27:36+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "5c01e10ced41ccd91284b1db74c992cb56c59438",
+      "title": "DWSC LIVE: With Julia Goulding",
+      "published_at": "2026-04-03T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-julia-goulding",
+      "description": "In the second drop of the week, we hear ep two of the DWSC live show in Manchester, when star of Coronation Street, Julia Goulding took to the stage and shared the story of when some fan mail got a little too personal, before helping Hannah and Taylor crack a WW2 game of cat and mouse. And finally, a member of the audience shares a mystery in which the perp had more than a little skin in the game. Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast DWSC eps now drop every Wednesday and every other Friday, so that's at least SIX drops every, single month! Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/69c976dac2759aa9b1b4f931/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74832252",
+      "itunes_duration": "51:57",
+      "speakers": [
+        "when star",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "julia",
+        "goulding"
+      ]
+    },
     {
       "key": "8ee48bc42c2783d29904f18cd8d045fa06ee3d73",
       "title": "DWSC LIVE: With Josh Jones",
@@ -10883,6 +10905,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-03 — DWSC LIVE: With Julia Goulding — speakers: when star, Hannah George, Taylor Glenn
 - 2026-04-01 — DWSC LIVE: With Josh Jones — speakers: Josh Jones, Hannah George, Taylor Glenn
 - 2026-03-25 — Jess Robinson's Rose Titted Glasses — speakers: Jess Robinson, Hannah George, Taylor Glenn
 - 2026-03-20 — Ian Smith asks the 64 Dollar Question — speakers: Ian Smith, Hannah George, Taylor Glenn

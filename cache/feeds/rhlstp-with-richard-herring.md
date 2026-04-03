@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-01T03:45:28+00:00`
-- checked_at: `2026-04-01T03:45:28+00:00`
-- etag: `"djEuMi4wOjE3NzUwMTIyNTkyNTY="`
+- fetched_at: `2026-04-03T03:27:36+00:00`
+- checked_at: `2026-04-03T03:27:36+00:00`
+- etag: `"djEuMi4wOjE3NzUxODUwNTk0MzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-01T03:45:28+00:00",
+  "fetched_at": "2026-04-03T03:27:36+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "72a93052b047c0e66b62e131049a8af8c57943ec",
+      "title": "RHLSTP Book Club 175 - Chris Evans (not that one)",
+      "published_at": "2026-04-03T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #175 - GoFasterStripe.com - A bit of a different Book Club as for the first time we’re not talking to an author, but an independent publisher - Chris Evans (not that one). Hear the remarkable story of how his business empire began, his unusual business ethos, why he branched out into books, how Andrew Collins almost destroyed everything, why he wants to produce books that look good as well as read good, how he chooses what to publish and why doing something you love is (luckily) more important than making money. What a nice man he is. Should have been our easiest show to record, but had more technical screw ups than I can remember having in one of these. But our incompetence is our charm Check out the amazing catalogue of downloads and books here http://gofasterstripe.com Support the gofasterstripe.com club here - http://gofasterstripe.com/club SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1775167353524-b0698a47-e963-4793-98ee-d08ef5d5f54e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69cee7c5ac25e4bf6638d312/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21711722",
+      "itunes_duration": "43:42",
+      "speakers": [
+        "Chris Evans",
+        "Richard Herring"
+      ],
+      "topics": [
+        "rhlstp",
+        "book",
+        "club",
+        "chris",
+        "evans"
+      ]
+    },
     {
       "key": "4989de3914c9d9f73571508e808caf32a5e1d091",
       "title": "RHLSTP 605 - Stephen Bailey",
@@ -21947,6 +21970,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-03 — RHLSTP Book Club 175 - Chris Evans (not that one) — speakers: Chris Evans, Richard Herring
 - 2026-04-01 — RHLSTP 605 - Stephen Bailey — speakers: Stephen Bailey, Richard Herring
 - 2026-03-30 — Retro RHLSTP 139 - John Kearns — speakers: John Kearns, Richard Herring
 - 2026-03-28 — RAACN week 9 — speakers: Richard Herring

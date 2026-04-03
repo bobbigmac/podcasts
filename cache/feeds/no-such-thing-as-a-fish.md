@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-04-02T16:11:21+00:00`
-- checked_at: `2026-04-02T16:11:21+00:00`
-- etag: `W/"92712d7900368b921c22de55ea7fe543"`
-- last_modified: `Thu, 02 Apr 2026 15:52:26 GMT`
+- fetched_at: `2026-04-03T03:27:36+00:00`
+- checked_at: `2026-04-03T03:27:36+00:00`
+- etag: `W/"1d1153bfc13cc6e469832beaa91b13ac"`
+- last_modified: `Thu, 02 Apr 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-04-02T16:11:21+00:00",
+  "fetched_at": "2026-04-03T03:27:36+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,31 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "1439037e5e6d96cee25e02c5455f512afef644c0",
+      "title": "No Such Thing As Elizabeth I's Burnt Umber",
+      "published_at": "2026-04-02T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8882259",
+      "description": "Angela Barnes joins Dan, James and Andy to discuss the cars, the horses and the runs. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43562992.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8882259.mp3?modified=1775150455&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3534",
+      "speakers": [
+        "Angela Barnes",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "elizabeth",
+        "burnt",
+        "umber"
+      ]
+    },
     {
       "key": "02e7d61ddd32702a4fdfb7131be04d611dd7573c",
       "title": "Little Fish: The Cat Is Banging On The Door",
@@ -15980,6 +16005,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-02 — No Such Thing As Elizabeth I's Burnt Umber — speakers: Angela Barnes, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-29 — Little Fish: The Cat Is Banging On The Door — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-26 — No Such Thing As Doing A Solzhenitsyn — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-03-22 — Little Fish: The Rat Ticklers Need Me — speakers: paradoxical frogs, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
