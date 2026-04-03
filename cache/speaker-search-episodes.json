@@ -22700,6 +22700,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:dc299526e76a",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0005fdz.rss",
+        "dedupe_key": "295bd818e5212713283e8fd5486e5a78ae502fe0",
+        "episode_key": "295bd818e5212713283e8fd5486e5a78ae502fe0",
+        "title": "#340 - Bog Body Ready, Long Haul Phaal and Nish Kumar",
+        "published_at": "2024-06-07T16:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Today’s show is a titanic showdown between two arch-nemeses. It’s Disraeli against Gladstone, it’s David versus Goliath, it’s The Rumble in the Jungle; it’s Elis James facing up to his footballing rival Nish Kumar. Sparks fly, scores are settled, and a listener’s dilemma is answered (sort of) in the process.\nIt’s also ",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0j2wz94.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/340-bog-body-ready-long-haul-phaal-and-nish-kumar/id1465290044?i=1000658192761&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:71ff8532d9f4",
         "feed_title": "Films To Be Buried With with Brett Goldstein",
         "source_rss_url": "https://feeds.megaphone.fm/QCD8204217646",
