@@ -2,10 +2,10 @@
 
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
-- fetched_at: `2026-04-02T16:11:21+00:00`
-- checked_at: `2026-04-02T16:11:21+00:00`
-- etag: `"9356b88210441f9ddcf00c3f7ff57b33"`
-- last_modified: `Thu, 02 Apr 2026 14:23:49 GMT`
+- fetched_at: `2026-04-03T10:03:05+00:00`
+- checked_at: `2026-04-03T10:03:05+00:00`
+- etag: `"b5c1defe4cd18f4e7c61822ae0d6b2f2"`
+- last_modified: `Fri, 03 Apr 2026 09:41:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m0005fdz",
   "description": "Join the UK's youngest and most relevant broadcasters Elis James and John Robins for your twice-weekly dose of big laughs and top quality #content. Hilarious, welcoming and unashamedly ashamed, let these two best friends keep you company every Tuesday and Friday. Listen to the Elis James and John Robins podcast every Tuesday and Friday on BBC Sounds.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h928bb.jpg",
-  "fetched_at": "2026-04-02T16:11:21+00:00",
+  "fetched_at": "2026-04-03T10:03:05+00:00",
   "owners": [
     "Elis James",
     "John Robins"
@@ -3751,7 +3751,7 @@
       "title": "#371 - 3 Features & the Truth, Get It Done and Welsh Rarebit: Grilled by Elis James",
       "published_at": "2024-09-24T15:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0js9k0v",
-      "description": "It’s a giddy John we encounter today, for our hero is about to embark on his yearly golfing pilgrimage to Elis’s beloved Portugal. Talk of unspeakably high win rates and historic opportunities to become “better than Man City at golf” abounds. Elsewhere, there’s a lengthy discussion about the pros and cons of skipping TV theme music, an eventful outing of John’s favourite feature The Cymru Connection (which leads to a yet another new podcast idea for Mr Audio), and a “billy-bink-bink-bonks” Shame Well entry. Keep sending us your games, shames, petty objections and Welsh connections. All this to elisandjohn@bbc.co.uk or WhatsApp the show on 07974 293 022. And remember that the best listening experience happens on the greatest audio platform in the biz: BBC Sounds.",
+      "description": "It’s a giddy John we encounter today, for our hero is about to embark on his yearly golfing pilgrimage to Elis’s beloved Portugal. Talk of unspeakably high win rates and historic opportunities to become “better than Man City at golf” abounds. Elsewhere, there’s a lengthy discussion about the pros and cons of skipping TV theme music, an eventful outing of John’s favourite feature The Cymru Connection (which leads to a yet another new podcast idea for Mr Audio), and a “billy-bink-bink-bonks” Shame Well entry.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0js9l1s.mp3",
       "enclosure_type": "audio/mpeg",
@@ -3775,7 +3775,7 @@
       "title": "#370 - Bran Time, Sky Blue Limos and Fellowship on the Ring Road",
       "published_at": "2024-09-20T15:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jrsj1n",
-      "description": "Tick tock Robins went down in history. But tick tock Masterman? Now that’s a whole different ball game. Like Stuart Pearce or Joe Royle missing the team bus, you’d think that unheard of, but not today. So expect the sackings to fly. Away from such tardiness, Elis reads the best and second best emails of this financial quarter, John features in one of sport’s most hilarious beefs and, shockingly I know, in depth service station chat interrupts some Tolkien Mad Daddery. If you want to provide the best email of Q4 then send it in to elisandjohn@bbc.co.uk or if WhatsApp’s your digital bag then 07974 293 022 is the number to save in your phone.",
+      "description": "Tick tock Robins went down in history. But tick tock Masterman? Now that’s a whole different ball game. Like Stuart Pearce or Joe Royle missing the team bus, you’d think that unheard of, but not today. So expect the sackings to fly. Away from such tardiness, Elis reads the best and second best emails of this financial quarter, John features in one of sport’s most hilarious beefs and, shockingly I know, in depth service station chat interrupts some Tolkien Mad Daddery.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jrsjkq.mp3",
       "enclosure_type": "audio/mpeg",
@@ -3800,7 +3800,7 @@
       "title": "#369 - All Beauty, A Sexier Welshman and David O’Doherditty",
       "published_at": "2024-09-17T14:55:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jr1j68",
-      "description": "Oh we do have some fun don’t we. And if the Funometer was measuring in funtometres then today’s show would cause it to 404 error due to exceeding the fun scale. And it’s in large part because walking jingler David O’Doherty is on the show with a funtastic Made Up Game to play! Plus there’s a Shame that’ll really make you squirm and an absolutely compelling Welshman for Elis to sink his parochial teeth into. But there’s also time for #reflection with some earth shattering news about the Bag of Death. And to get in touch with the show it’s elisandjohn@bbc.co.uk or 07974 293 022 on WhatsApp for all of your intense poetry.",
+      "description": "Oh we do have some fun don’t we. And if the Funometer was measuring in funtometres then today’s show would cause it to 404 error due to exceeding the fun scale. And it’s in large part because walking jingler David O’Doherty is on the show with a funtastic Made Up Game to play! Plus there’s a Shame that’ll really make you squirm and an absolutely compelling Welshman for Elis to sink his parochial teeth into. But there’s also time for #reflection with some earth shattering news about the Bag of Death.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jr1jnl.mp3",
       "enclosure_type": "audio/mpeg",
@@ -3823,7 +3823,7 @@
       "title": "#368 - A Hot Lung, Busking Medieval English, and The Importance of News (On the Hour, Every Hour) on Student Radio",
       "published_at": "2024-09-13T17:10:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jqg0tr",
-      "description": "As time continues its cruel, relentless, and inevitable march onwards, thoughts turn to retirement plans; how will our heroes see out their final days? Who has their eye on one big final paycheck? The answer may surprise you. And who doesn’t mind just fizzling out quietly? Elis. It’s also a big day for Producer Dave, as his lost university dissertation finally sees the light of day. The nation has been waiting with baited breath to hear about the past, present, and future of Sheffield Hallam’s student radio station Rush Radio, and today we can deliver the goods. And fortunately/unfortunately (deleted as appropriate), there is still a little bit of the dance to be danced... Please do continue to send in your excellent correspondence via the usual channels. For email users it’s elisandjohn@bbc.co.uk, and for WhatsApp aficionados it’s 07974 293022.",
+      "description": "As time continues its cruel, relentless, and inevitable march onwards, thoughts turn to retirement plans; how will our heroes see out their final days? Who has their eye on one big final paycheck? The answer may surprise you. And who doesn’t mind just fizzling out quietly? Elis. It’s also a big day for Producer Dave, as his lost university dissertation finally sees the light of day. The nation has been waiting with baited breath to hear about the past, present, and future of Sheffield Hallam’s student radio station Rush Radio, and today we can deliver the goods. And fortunately/unfortunately (deleted as appropriate), there is still a little bit of the dance to be danced...",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jqg23h.mp3",
       "enclosure_type": "audio/mpeg",
@@ -3853,7 +3853,7 @@
       "title": "#367 - Marie’s Tethered, Grown Men and Oh Really Fennel?!",
       "published_at": "2024-09-10T14:55:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jpp3fq",
-      "description": "After such vigorous dancing last time out the boys have done their stretches and downed their recovery shakes in preparation for a classic Elis and John day at the office. In a quite astonishing move, Dave takes a laptop to church, Elis struggles to follow the recipe and there’s a Cymru Connection for which circular content was designed for. Elis also takes in some excellent advice from you the you the listener on how he can chart the waters of wedlock and John makes a quite startling revelation about how he spent the other afternoon. If you don't already, listen to the show on BBC Sounds. It's completely free to download and you get ALL BBC audio right at your fingertips! To get in touch on this and that it’s elisandjohn@bbc.co.uk, and on WhatsApp 07974 293 022. And yes, you can now stop emailing about dynamic ticket pricing, for the inbox has exploded to the degree that we might have to increase the entry price due to demand.",
+      "description": "After such vigorous dancing last time out the boys have done their stretches and downed their recovery shakes in preparation for a classic Elis and John day at the office. In a quite astonishing move, Dave takes a laptop to church, Elis struggles to follow the recipe and there’s a Cymru Connection for which circular content was designed for. Elis also takes in some excellent advice from you the you the listener on how he can chart the waters of wedlock and John makes a quite startling revelation about how he spent the other afternoon. If you don't already, listen to the show on BBC Sounds. It's completely free to download and you get ALL BBC audio right at your fingertips!",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jpp1f2.mp3",
       "enclosure_type": "audio/mpeg",
@@ -3877,7 +3877,7 @@
       "title": "#366 - The Dance",
       "published_at": "2024-09-06T17:21:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jp1hnp",
-      "description": "We’re all excited about dancing the dance. The most intimate dance. Cheek to cheek entering the ballroom. John woke up at 3:30 this morning on edge about dancing the dance. His favourite conversation. The romantic frisson. The interplay between venue capacity, ticket price and audience demand. The delicious dance. The one thing better than talking about the dance is being actually involved in the dance. What the above probably hasn’t elucidated is, it should be pointed out, is that the dance more specifically is 45 minutes of discussion about dynamic pricing. This might not be for everyone. So if you’re against that then do leave the show playing whilst you nip out the house because we need to keep those retention figures up. There are things in this episode which don’t involved dancing but it makes up about 25%. The email address for the show is elisandjohn@bbc.co.uk and 07974 293 022 on WhatsApp. Feel free to email in about The Dance but if Production have to read 120 emails on Monday morning about dynamic pricing then it will likely make them sad.",
+      "description": "We’re all excited about dancing the dance. The most intimate dance. Cheek to cheek entering the ballroom. John woke up at 3:30 this morning on edge about dancing the dance. His favourite conversation. The romantic frisson. The interplay between venue capacity, ticket price and audience demand. The delicious dance. The one thing better than talking about the dance is being actually involved in the dance. What the above probably hasn’t elucidated is, it should be pointed out, is that the dance more specifically is 45 minutes of discussion about dynamic pricing. This might not be for everyone. So if you’re against that then do leave the show playing whilst you nip out the house because we need to keep those retention figures up. There are things in this episode which don’t involved dancing but it makes up about 25%.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jp1jbb.mp3",
       "enclosure_type": "audio/mpeg",
@@ -3896,7 +3896,7 @@
       "title": "#365 - Big Fat Tears, My Thumb’s In France and Phil Wang",
       "published_at": "2024-09-03T14:50:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jn87t4",
-      "description": "We’ll throw down the gauntlet here. This is *classic* Elis and John. A podium place episode. Champions League. There, I said it. Big laughs, sex swapping, something harrowing from Robins, an absolute Billy belter… of a Cymru Connection, Americans dealing with 5-year-olds’ opinions on gun control and a rock solid Shame. Elsewhere Elis settles into married life by talking about Patreon to a Frenchman, John is desperate to know from Phil Wang how to get a Netflix Special and a Made Up Game to really grab your attention. There’s just *a lot* going on. If you want to contribute to the Booker Prize quality of our correspondence then it’s elisandjohn@bbc.co.uk on email or 07974 293 022 on WhatsApp.",
+      "description": "We’ll throw down the gauntlet here. This is *classic* Elis and John. A podium place episode. Champions League. There, I said it. Big laughs, sex swapping, something harrowing from Robins, an absolute Billy belter… of a Cymru Connection, Americans dealing with 5-year-olds’ opinions on gun control and a rock solid Shame. Elsewhere Elis settles into married life by talking about Patreon to a Frenchman, John is desperate to know from Phil Wang how to get a Netflix Special and a Made Up Game to really grab your attention. There’s just *a lot* going on.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jn88pw.mp3",
       "enclosure_type": "audio/mpeg",
@@ -3920,7 +3920,7 @@
       "title": "#364 - Like It Or Lump It, Moon Faced Boys and Greg James’ Dark Underbelly",
       "published_at": "2024-08-30T16:11:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jmnhjj",
-      "description": "A union that we’ve waited 15 years for between a pair significantly involved in the UK’s cultural scene. Some of the most significant personal news to hit this show in a long long time which requires examining on many fronts. No not Elis’s wedding but the Oasis reunion. For Producer Dave might spontaneously combust. He might break down due to not being on the presale and there are distinct concerns for his use of substances in July 2025. Elsewhere Elis has got married. That's also in here. Also expect some significant accusations from the most trend setting radio show in the land. If you want to get in touch it’s 07974 293 022 on WhatsApp and elisandjohn@bbc.co.uk is the usual email.",
+      "description": "A union that we’ve waited 15 years for between a pair significantly involved in the UK’s cultural scene. Some of the most significant personal news to hit this show in a long long time which requires examining on many fronts. No not Elis’s wedding but the Oasis reunion. For Producer Dave might spontaneously combust. He might break down due to not being on the presale and there are distinct concerns for his use of substances in July 2025. Elsewhere Elis has got married. That's also in here. Also expect some significant accusations from the most trend setting radio show in the land.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jmnjhq.mp3",
       "enclosure_type": "audio/mpeg",
@@ -3946,7 +3946,7 @@
       "title": "#363 - Accepting Sap, Backing Bellingham and This is How You Use Noel",
       "published_at": "2024-08-27T15:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jlt6zp",
-      "description": "With post-wedding factors still in play, it’s another trip down the pre-recorded well today. But don’t for one second think that means a drop in quality, for with this very podcast episode comes high quality chat about dog/fox mess, a scorching anecdote about Elis having his car cleaned, and a meaty Made Up Game from the vaults to boot. With the Oasis reunion news rocking producer Dave to his very core, there’s also a very fortuitous and timely chat about the merits of Noel Gallagher’s cooking skills. It’s almost as if Noel and Liam were waiting for this episode to drop. It makes you wonder… Keep sending us your top quality correspondence to elisandjohn@bbc.co.uk, or be a modern citizen and send us a WhatsApp on 07974 293022. And remember, the best place to listen is on the world’s greatest platform: BBC Sounds.",
+      "description": "With post-wedding factors still in play, it’s another trip down the pre-recorded well today. But don’t for one second think that means a drop in quality, for with this very podcast episode comes high quality chat about dog/fox mess, a scorching anecdote about Elis having his car cleaned, and a meaty Made Up Game from the vaults to boot. With the Oasis reunion news rocking producer Dave to his very core, there’s also a very fortuitous and timely chat about the merits of Noel Gallagher’s cooking skills. It’s almost as if Noel and Liam were waiting for this episode to drop. It makes you wonder…",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jlt7yw.mp3",
       "enclosure_type": "audio/mpeg",
@@ -3968,7 +3968,7 @@
       "title": "#362 - Three Crazy Guys Hanging Out, DCI Spike Spike McSpike and Michelangelo’s Mike",
       "published_at": "2024-08-23T09:33:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jl374q",
-      "description": "You might have been expecting to come across the full lowdown of what is being described by Hello and OK! as the wedding of the summer. But no, for with weddings come honeymoons, so it’s a break glass for emergency episode situation. Thus, if it seems weird that there’s no mention of the happy couple or John’s best man activities then there’s your reasoning. So it’s three crazy guy joined by Annie McGrath to tackle a Chinese conundrum. Plus they dig into some of your questions and chat the hottest bods in the comedy game. Perhaps you want to get in touch with the show? Well elisandjohn@bbc.co.uk is the contact for the over 40s, and for the cool hip happening youngsters, 07974 293 022 is the WhatsApp number to save in your phone. If you’ve not done so already, do remember to subscribe to the show on the BBC Sounds app!",
+      "description": "You might have been expecting to come across the full lowdown of what is being described by Hello and OK! as the wedding of the summer. But no, for with weddings come honeymoons, so it’s a break glass for emergency episode situation. Thus, if it seems weird that there’s no mention of the happy couple or John’s best man activities then there’s your reasoning. So it’s three crazy guy joined by Annie McGrath to tackle a Chinese conundrum. Plus they dig into some of your questions and chat the hottest bods in the comedy game.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jmkh94.mp3",
       "enclosure_type": "audio/mpeg",
@@ -3993,7 +3993,7 @@
       "title": "#361 - 55 Year Olds in The Narberth Area, Dell Tower and The Past, Present & Future of Rush Radio",
       "published_at": "2024-08-20T15:09:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jkkg46",
-      "description": "Well, Fine and Unwell: the three states. Constantly switching across protagonists with one having to pick up the slack. But who will it be this week? An Elis at peak stress levels, a Dave on one hour sleep, or a still zen Robins? There’s a lot of chaos to absorb on the show today as Dave tries his best to wrangle four professional talkers. Never has a bleary eyed father of three had his patience tested so much. The combination of Elis and John x Clara and Jordan from BBC Sounds’ ‘Make Me A Mixtape’ could be his undoing. Elsewhere there are a couple of the most bonkers coach journeys hitherto known to man - which justifies this very long thread’s continued current inclusion. Plus, has Elis finally met his Cymraes match? You can check out Make Me A Mixtape on the inimitable BBC Sounds. It’s loadsa fun. https://www.bbc.co.uk/programmes/p0j2n5w8/episodes/player And remember, do get in touch if you’ve ever had wasps in your bell tower. elisandjohn@bbc.co.uk or 07974 293 022 on WhatsApp.",
+      "description": "Well, Fine and Unwell: the three states. Constantly switching across protagonists with one having to pick up the slack. But who will it be this week? An Elis at peak stress levels, a Dave on one hour sleep, or a still zen Robins? There’s a lot of chaos to absorb on the show today as Dave tries his best to wrangle four professional talkers. Never has a bleary eyed father of three had his patience tested so much. The combination of Elis and John x Clara and Jordan from BBC Sounds’ ‘Make Me A Mixtape’ could be his undoing. Elsewhere there are a couple of the most bonkers coach journeys hitherto known to man - which justifies this very long thread’s continued current inclusion. Plus, has Elis finally met his Cymraes match? You can check out Make Me A Mixtape on the inimitable BBC Sounds. It’s loadsa fun. https://www.bbc.co.uk/programmes/p0j2n5w8/episodes/player",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jkkh05.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4021,7 +4021,7 @@
       "title": "#360 - Yesby, Classic Gag Churners, and The Big Storm Before the Bigger Storm",
       "published_at": "2024-08-16T17:22:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jjy4fq",
-      "description": "Twas the night before Elis’s wedding, and though we can’t offer you non-stirring mice, we can guarantee you something even better, and even rarer: Elis at the end of his tether. He has 3 big problems for enlightened John to solve, and the balm of reading stories about the maddest of dads offers some much needed salve. John frets about the legacy of Ivo Graham’s past wedding speech triumphs, and Dave’s in a tizz of his own after returning from a nightmare journey back from his beloved Algarve. It’s an episode beset by worries but packed with the usual laughs, and ends with Elis picturing his dream wedding where no one has turned up and he’s sat there eating piles of salmon... We want your correspondence and will stop at nothing to get it. But you need to play your part too. Send it to elisandjohn@bbc.co.uk or WhatsApp the show on 07974 293 022.",
+      "description": "Twas the night before Elis’s wedding, and though we can’t offer you non-stirring mice, we can guarantee you something even better, and even rarer: Elis at the end of his tether. He has 3 big problems for enlightened John to solve, and the balm of reading stories about the maddest of dads offers some much needed salve. John frets about the legacy of Ivo Graham’s past wedding speech triumphs, and Dave’s in a tizz of his own after returning from a nightmare journey back from his beloved Algarve. It’s an episode beset by worries but packed with the usual laughs, and ends with Elis picturing his dream wedding where no one has turned up and he’s sat there eating piles of salmon...",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jjy6nf.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4044,7 +4044,7 @@
       "title": "#359 - Puppet Paul, Mindful Diarrhoea and Doing the M6 for Comic Relief",
       "published_at": "2024-08-13T15:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jhzws4",
-      "description": "The Elis and John realm remains a very zen place to be. So grab your headphones, get into a comfortable position, and let the BBC’s youngest and most chilled out broadcasters relax your busy mind. And what could be more relaxing than a chat about arctic rolls? What could induce a sense of calm more than picturing Elis James in a 14th century jester’s outfit? Can you achieve nirvana by talking about the first Ronseal bride? You’ll have to listen to find out. Send your dispatches, missives, and communiqués to elisandjohn@bbc.co.uk, or WhatsApp the show on 07974 293 022.",
+      "description": "The Elis and John realm remains a very zen place to be. So grab your headphones, get into a comfortable position, and let the BBC’s youngest and most chilled out broadcasters relax your busy mind. And what could be more relaxing than a chat about arctic rolls? What could induce a sense of calm more than picturing Elis James in a 14th century jester’s outfit? Can you achieve nirvana by talking about the first Ronseal bride? You’ll have to listen to find out.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jhzzyg.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4068,7 +4068,7 @@
       "title": "#358 - Jimmy Grief",
       "published_at": "2024-08-09T15:27:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jhkgg6",
-      "description": "John’s been on a silent retreat. Today he breaks his silence with a man, who unlike him, ultimately revels in conversation. One who would discuss the career stats of Leon Britton until the heat death of the universe. It’s a big one on one between two intellectual heavyweights. Think BBC Four or late night TV of the past whereby two great minds would just melt out reflections to biggen your brain by osmosis. Or alternatively it’s just a big old chat about guff management. A changed man and Elis just shooting the (psychological) breeze. If you want to get in touch with the show then elisandjohn@bbc.co.uk is the electronic mail. And 07974 293 022 is the WhatsApp number.",
+      "description": "John’s been on a silent retreat. Today he breaks his silence with a man, who unlike him, ultimately revels in conversation. One who would discuss the career stats of Leon Britton until the heat death of the universe. It’s a big one on one between two intellectual heavyweights. Think BBC Four or late night TV of the past whereby two great minds would just melt out reflections to biggen your brain by osmosis. Or alternatively it’s just a big old chat about guff management. A changed man and Elis just shooting the (psychological) breeze.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jhkgh1.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4089,7 +4089,7 @@
       "title": "#357 - A Podium Place for Thought, Désolé the Devolved Discuss and A Big Baguette that’s Uniting the World",
       "published_at": "2024-08-06T14:45:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jg4clh",
-      "description": "Elis and John have been overcome by two forces this week: Olympic fever, and the stark realisation that their bits are old. The former makes for a Made Up Game for the ages, whilst the latter leads to a pensive mood in the studio. Sporting antics and todger worrying aside, John thinks he might have become one of the great parents, Elis reads a world-beating mad dad story, and there's a controversial sitting of the Petty Parliament. We love to receive your correspondence, so keep sending it in to elisandjohn@bbc.co.uk or WhatsApp us on 07974 293022.",
+      "description": "Elis and John have been overcome by two forces this week: Olympic fever, and the stark realisation that their bits are old. The former makes for a Made Up Game for the ages, whilst the latter leads to a pensive mood in the studio. Sporting antics and todger worrying aside, John thinks he might have become one of the great parents, Elis reads a world-beating mad dad story, and there's a controversial sitting of the Petty Parliament.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jg481f.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4114,7 +4114,7 @@
       "title": "#356 - Look Into It Dave, Curtis Coitus and HS Number 2",
       "published_at": "2024-08-02T12:42:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jg444n",
-      "description": "36 hours. That is the approximate time it takes to travel to from Melton Mowbray to Gibraltar via coach. It is also the approximate time now dedicated to emails on how long coach journeys can be. But Elis and John are endlessly fascinated by your horrible horrible travels. But amidst such mega[bus] chat there’s moments that are actually quite #moving. Because you know we can deal with emotional heft and also acknowledge that John can bring the mood down on a cancer ward. Elsewhere there’s a fantastic surprise in the spin the wheel nature that is 80 Daves and the prospect of Robins as Samuel Pepys sends a chill down the spine. Have you been on a coach? Was it for too long? Maybe you’re on a coach now which has wifi and you can thus send your correspondence to elisandjohn@bbc.co.uk. Alternatively if you possess a 4G/5G connection then it’s 07974 293 022 on WhatsApp. To do this just save the contact as normal in your phone, give it an appropriate name and then you can fire in your messages on WhatsApp to your heart’s content.",
+      "description": "36 hours. That is the approximate time it takes to travel to from Melton Mowbray to Gibraltar via coach. It is also the approximate time now dedicated to emails on how long coach journeys can be. But Elis and John are endlessly fascinated by your horrible horrible travels. But amidst such mega[bus] chat there’s moments that are actually quite #moving. Because you know we can deal with emotional heft and also acknowledge that John can bring the mood down on a cancer ward. Elsewhere there’s a fantastic surprise in the spin the wheel nature that is 80 Daves and the prospect of Robins as Samuel Pepys sends a chill down the spine.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jg45ps.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4137,7 +4137,7 @@
       "title": "#355 - Fillet, Sirloin and Rump",
       "published_at": "2024-07-30T14:55:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0jffr76",
-      "description": "The Great Organiser is Robins. And his latest trick was to organise the ultimate stag for a Welshman in his forties. Design touches, #thoughtfulness and the opportunity to simply talk to people for a few hours amount to a roaring success all round and provides a prime example of why John’s so stressed all the time. It’s because he tries. In other non-stag quarters there’s a meaty old global David and the official referees’ board enters the fray around Elis’s Welsh connecting. In a rare occasion it’s a Made Up Game-less show today simply because there’s anecdotes aplenty. Do you want to contact the show? Yes. Do you have access to an electronic message inbox? Almost certainly. Well you’re in luck because elisandjohn@bbc.co.uk if the means you can use to contact the show with all yer mad father, mad-e up game and maddening stories.",
+      "description": "The Great Organiser is Robins. And his latest trick was to organise the ultimate stag for a Welshman in his forties. Design touches, #thoughtfulness and the opportunity to simply talk to people for a few hours amount to a roaring success all round and provides a prime example of why John’s so stressed all the time. It’s because he tries. In other non-stag quarters there’s a meaty old global David and the official referees’ board enters the fray around Elis’s Welsh connecting. In a rare occasion it’s a Made Up Game-less show today simply because there’s anecdotes aplenty.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jffqd2.mp3",
       "enclosure_type": "audio/mpeg",
