@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-04-02T16:11:21+00:00`
-- checked_at: `2026-04-02T16:11:21+00:00`
-- last_modified: `Thu, 02 Apr 2026 14:08:21 GMT`
+- fetched_at: `2026-04-03T07:37:31+00:00`
+- checked_at: `2026-04-03T07:37:31+00:00`
+- last_modified: `Fri, 03 Apr 2026 04:07:43 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-02T16:11:21+00:00",
+  "fetched_at": "2026-04-03T07:37:31+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d4b44fd464a3e7f3c34d85dc5b353f890fee3e0c",
+      "title": "April Fool's, School Trauma and Chris's Unfortunate Lookalike",
+      "published_at": "2026-04-03T04:00:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed, Chris and Rosie Ramsey deal with April Fool's Day, they discuss a recent trip to London, smelly cabs and of course there is a Carl update! Plus there is some issues with Chris's cap...and hair. They also talk about school streaming tactics, Rosie's GCSE's and they call Kev to get his thoughts on the Uppers & Lowers. There's beefs, voice notes, and some lovely questions from the public! AND... The Ramsey's get honest about hand jobs... If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Today, get Huel’s full Lite & Lean Starter Kit online with our code SMA30 for 30% off at https://huel.com/SMA30. New Customers Only. Thank you to Huel for partnering and supporting our show! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6635211079.mp3?updated=1775128473",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3944",
+      "speakers": [
+        "School Trauma",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "april",
+        "fool",
+        "school",
+        "trauma",
+        "chris",
+        "unfortunate",
+        "lookalike"
+      ]
+    },
     {
       "key": "b46c6e64156a906f344ec46b8144a191123bf73f",
       "title": "Please Keep Me Anonymous with Emma Doran",
@@ -8049,6 +8075,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-03 — April Fool's, School Trauma and Chris's Unfortunate Lookalike — speakers: School Trauma, Rosie Ramsey, Chris Ramsey
 - 2026-04-01 — Please Keep Me Anonymous with Emma Doran — speakers: Emma Doran, Rosie Ramsey, Chris Ramsey
 - 2026-03-27 — The Oscars, the Return of the Motorhome and an Incident in the Shower — speakers: Rosie Ramsey, Chris Ramsey
 - 2026-03-25 — Please Keep Me Anonymous with Mollie King and Matt Edmondson — speakers: Mollie King, Matt Edmondson, Anonymous Chris, Rosie Ramsey, Chris Ramsey

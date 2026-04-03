@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-03-27T07:35:08+00:00`
-- checked_at: `2026-03-27T07:35:08+00:00`
-- etag: `"3c6409ed022996b7b1a1293143ebea0f"`
-- last_modified: `Fri, 27 Mar 2026 06:00:17 GMT`
+- fetched_at: `2026-04-03T07:37:31+00:00`
+- checked_at: `2026-04-03T07:37:31+00:00`
+- etag: `"328186001f8db49ee687c8b3c60bc3da"`
+- last_modified: `Fri, 03 Apr 2026 05:00:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1pytt.jpg",
-  "fetched_at": "2026-03-27T07:35:08+00:00",
+  "fetched_at": "2026-04-03T07:37:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,30 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "a06490d7410e0afd59415f878ce4ab79d423306a",
+      "title": "Empress Dowager Cixi: from concubine to ruler of China",
+      "published_at": "2026-04-03T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002scqj",
+      "description": "Greg Jenner is joined in nineteenth-century China by historian Professor Yangwen Zheng and comedian Sophie Duker to learn about the Qing dynasty ruler Empress Dowager Cixi. A contemporary of Queen Victoria, Cixi rose from low-ranked concubine to de facto ruler of China for nearly half a century, and lived through a dizzying array of events in China’s nineteenth-century history, including the Taiping Rebellion, the Opium Wars, and the Boxer Rebellion. Ruling through her son and then her nephew, Empress Dowager Cixi dominated late Qing dynasty China, and oversaw a variety of economic and military – if not political – reforms. This episode charts her life, from her entry into the Forbidden Palace as a teenager all the way to her death in 1908, taking in the politics and traditions of the Qing imperial court, her relationship with Emperor Xianfeng and her rival turned co-ruler Empress Dowager Ci'an, and her determined attempts to gain and maintain power. If you’re a fan of Chinese history, ruthless court politics, and complex women characters, you’ll love our episode on Empress Dowager Cixi. If you want to learn more about the history of China, listen to our episodes on the history of Kung Fu and the Terracotta Warriors. And for more fascinating characters with Sophie Duker, check out our episode on Ramesses the Great, naughty nun Benedetta Carlini and the Chevalier de Saint-Georges. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Emma Mitchell Written by: Emma Mitchell, Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n4hz7j.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55776000",
+      "itunes_duration": "3486",
+      "speakers": [
+        "Greg Jenner",
+        "Yangwen Zheng"
+      ],
+      "topics": [
+        "empress",
+        "dowager",
+        "cixi",
+        "concubine",
+        "ruler",
+        "china"
+      ]
+    },
     {
       "key": "a67a4f0f92acd23a3e94b534de22c1d719d390e5",
       "title": "History of the Telephone: 150th anniversary special",
@@ -5681,6 +5705,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-03 — Empress Dowager Cixi: from concubine to ruler of China — speakers: Greg Jenner, Yangwen Zheng
 - 2026-03-27 — History of the Telephone: 150th anniversary special — speakers: Greg Jenner, Iwan Morus
 - 2026-03-20 — History of Spices: commerce, colonialism and culinary innovation — speakers: Greg Jenner, David Veevers, Paul Sinha
 - 2026-03-13 — Epic of Gilgamesh: myths and heroes in ancient Mesopotamia — speakers: Moudhy Al-Rashid, Marjolein Robertson

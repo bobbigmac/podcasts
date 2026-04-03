@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-03-30T03:41:21+00:00`
-- checked_at: `2026-03-30T03:41:21+00:00`
-- etag: `"djEuMi4wOjE3NzQ4MjUzNTkzMzA="`
+- fetched_at: `2026-04-03T07:37:31+00:00`
+- checked_at: `2026-04-03T07:37:31+00:00`
+- etag: `"djEuMi4wOjE3NzUxOTkxOTE0Njg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-03-30T03:41:21+00:00",
+  "fetched_at": "2026-04-03T07:37:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e87c63dc8c67b07cb651e0b5b8d5f04609579f47",
+      "title": "Ep. 575 - Daniel Edison - Award winning one-liner comedian, as seen on Britain's Got Talent 2026.",
+      "published_at": "2026-04-03T06:53:05+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-575-daniel-edison-award-winning-one-liner-comedian-as-see",
+      "description": "Snows Comedy Star 2022 winner Daniel Edison is a stand-up comedian specialising in one-liners and quickfire puns. He’s been runner-up at the UK Pun Championships for the past 3 years. He recently got through the first round of Britain’s Got Talent, good luck for the next round! Daniel has performed at many prestigious clubs and theatres around the UK and has appeared on TV and radio. ​ He has appeared on BBC One, he has performed at the BBC New Comedy Award on BBC Radio 4 Extra, and guested as a panellist on BBC Radio Solent's Christmas Comedy Special 2022. ​Daniel has supported Russell Kane & Katherine Ryan.​ Even if you don't know Daniel, there's a chance you've heard one of his jokes. He’s built a fanbase of thousands of followers on X (formerly Twitter) by regularly sharing his original one-liners, several of which have gone viral online and have been featured in such publications and sites as The Reader's Digest (UK and US editions), Funny or Die, The Poke and many more! One of Daniel's jokes featured in The Independent's Top 10 Jokes, 2023 . Daniel Edison is our guest in episode 575 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Watch Daniel’s Britain’s Got Talent audition here - https://youtu.be/0w63v1SKWKY?si=Do19I_oJpLowfKll . Follow Daniel Edison on Instagram & Twitter/X : @DanEdisonComedy . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69cf63d7f57702d2d94eed6e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125776373",
+      "itunes_duration": "52:24",
+      "speakers": [
+        "Daniel Edison Award",
+        "Snows Comedy Star",
+        "Daniel Edison"
+      ],
+      "topics": [
+        "daniel",
+        "edison",
+        "award",
+        "liner",
+        "comedian",
+        "britain",
+        "talent"
+      ]
+    },
     {
       "key": "cd59cdadedbdc2a307d64b311678ed96608a49d8",
       "title": "Ep. 574 - David Arnold - Film composer of 5 James Bond films, Independence Day, Godzilla and many more",
@@ -12238,6 +12264,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-03 — Ep. 575 - Daniel Edison - Award winning one-liner comedian, as seen on Britain's Got Talent 2026. — speakers: Daniel Edison Award, Snows Comedy Star, Daniel Edison
 - 2026-03-29 — Ep. 574 - David Arnold - Film composer of 5 James Bond films, Independence Day, Godzilla and many more — speakers: David Arnold Film, David Arnold
 - 2026-03-27 — Ep. 573 - Katie Wimpenny - Just finished 2 years in Harry Potter and The Cursed Child — speakers: Katie Wimpenny Just, Katie Wimpenny
 - 2026-03-23 — Ep. 572 - Toby Anstis - From CBBC’s Broom Cupboard to 25 years at Heart Radio
