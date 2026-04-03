@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-04-03T03:27:36+00:00`
-- checked_at: `2026-04-03T03:27:36+00:00`
-- etag: `W/"330c0-QxkVa3h1ZZMBvKJTX99USEwrH9Y"`
+- fetched_at: `2026-04-03T15:53:08+00:00`
+- checked_at: `2026-04-03T15:53:08+00:00`
+- etag: `W/"33904-3ZmGiVq4zyCSyQzx7lhAgLEStVk"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-04-03T03:27:36+00:00",
+  "fetched_at": "2026-04-03T15:53:08+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,35 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "ef931c01c53c1c91e25dfeaba85b1b8b8232b80e",
+      "title": "Marathon, Crimson Desert, and Super Mario Wonder Have a Hold on Us | Firelink Podcast",
+      "published_at": "2026-04-03T14:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Marathon--Crimson-Desert--and-Super-Mario-Wonder-Have-a-Hold-on-Us--Firelink-Podcast-e3hcjs9",
+      "description": "This week on Firelink, Nick, KC, and Marty are back together to chat about the news, as well as their continued time spent with Marathon, Crimson Desert, and Super Mario Bros. Wonder on Switch 2. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/117902665/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-3%2Fc1d6616c-da94-dc78-f52e-b93cacba87fd.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113105696",
+      "itunes_duration": "01:18:32",
+      "speakers": [
+        "Crimson Desert",
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "marathon",
+        "crimson",
+        "desert",
+        "super",
+        "mario",
+        "wonder",
+        "hold",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "794d8364de4064bcebb6b3739a12cbe8ace521f5",
       "title": "Stranger Than Heaven Looks Impossibly Cool | Firelink Podcast",
@@ -2631,6 +2660,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-03 — Marathon, Crimson Desert, and Super Mario Wonder Have a Hold on Us | Firelink Podcast — speakers: Crimson Desert, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-03-27 — Stranger Than Heaven Looks Impossibly Cool | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-03-20 — The Subnautica 2 Drama Gets Even Weirder, Crimson Desert Reviews Land, and More | Firelink Podcast — speakers: Crimson Desert Reviews Land, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-03-13 — Xbox Gives Us Project Helix Details + SEGA's Woes + Pokopia Rules | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
