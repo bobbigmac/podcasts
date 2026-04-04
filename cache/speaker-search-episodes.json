@@ -13994,6 +13994,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:cd7d4315035d",
+        "feed_title": "Fit & Proper",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT8209697690",
+        "dedupe_key": "12cac8280a6e4200cf9e7090e962ee092e028d39",
+        "episode_key": "12cac8280a6e4200cf9e7090e962ee092e028d39",
+        "title": "Alex Horne - Chesham United",
+        "published_at": "2023-05-30T01:00:25Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Actual board member of actual Chesham United FC and actual assistant to the Taskmaster on actual Taskmaster, Alex Horne comes on actual Fit & Proper to take his second Fit & Proper test (actually). It’s absolutely classic Alex Horne and how you’d expect him to run a football club. PLUS, there’s an exclusive for all Tas",
+        "audio_url": "https://traffic.megaphone.fm/GLT5582988425.mp3?updated=1689880840",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-chesham-united/id1655341301?i=1000614925831&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
