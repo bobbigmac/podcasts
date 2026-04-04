@@ -7939,6 +7939,28 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:54d7379a1dd7",
+        "feed_title": "Sara & Cariad's Weirdos Book Club",
+        "source_rss_url": "https://feeds.acast.com/public/shows/64b69e3ec409730011da06ee",
+        "dedupe_key": "292ab2eef36fb40bca879a32428d690843d82e4d",
+        "episode_key": "292ab2eef36fb40bca879a32428d690843d82e4d",
+        "title": "Friends of Weirdos - Single Ladies In Your Area",
+        "published_at": "2026-04-02T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Your favourite Weirdos will be back with a brand new series next week, but to tide you over until then, we're sharing an episode of our brilliant friends Amy Gledhill and Harriet Kemsley's podcast, Single Ladies In Your Area which - all about dating and relationships in your 30s and beyond. For this episode they're joi",
+        "audio_url": "https://sphinx.acast.com/p/open/s/64b69e3ec409730011da06ee/e/69cb948d16bd65d06979d3d8/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/friends-of-weirdos-single-ladies-in-your-area/id1699406650?i=1000758767977&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3adb5ccf639f",
         "feed_title": "Last One Laughing Official Podcast",
         "source_rss_url": "https://rss.art19.com/last-one-laughing",
@@ -8887,6 +8909,29 @@
         "enclosure_type": null,
         "speakers": [
           "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:dc299526e76a",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0005fdz.rss",
+        "dedupe_key": "4c9598a9934ba450b6e1b4ea3bf1c39d9dc2b8db",
+        "episode_key": "4c9598a9934ba450b6e1b4ea3bf1c39d9dc2b8db",
+        "title": "#410 - Nepo Connectors, Keir Today John Tomorrow and Richard Herring",
+        "published_at": "2025-02-11T16:17:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What do the people want? Wordle Live. What do they not want? The Cymru Connection. That’s the opinion of John Robins. Just John Robins. You thought that we were out of the Wordly woods. But no, the more concern you have for the woods the more trees John will plant. PLANT being a good starter. John wants a feature subst",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kqkm27.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/410-nepo-connectors-keir-today-john-tomorrow-and/id1465290044?i=1000691142389&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring",
+          "Tim Key"
         ],
         "topics": [],
         "external": true
@@ -11433,6 +11478,29 @@
         "enclosure_bytes": null,
         "enclosure_type": null,
         "speakers": [
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:dc299526e76a",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0005fdz.rss",
+        "dedupe_key": "4c9598a9934ba450b6e1b4ea3bf1c39d9dc2b8db",
+        "episode_key": "4c9598a9934ba450b6e1b4ea3bf1c39d9dc2b8db",
+        "title": "#410 - Nepo Connectors, Keir Today John Tomorrow and Richard Herring",
+        "published_at": "2025-02-11T16:17:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What do the people want? Wordle Live. What do they not want? The Cymru Connection. That’s the opinion of John Robins. Just John Robins. You thought that we were out of the Wordly woods. But no, the more concern you have for the woods the more trees John will plant. PLANT being a good starter. John wants a feature subst",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kqkm27.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/410-nepo-connectors-keir-today-john-tomorrow-and/id1465290044?i=1000691142389&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring",
           "Tim Key"
         ],
         "topics": [],
@@ -16182,6 +16250,28 @@
         "description": "Anna's guest this week is the one and only Lou Sanders. Anyone who's seen Lou's live shows, watched her on TV or read her memoir What's That Lady Doing? will know that she doesn't shy away from frankness – it's part of her signature candid style of comedy. But there's a deeper meaning to it as well, as she tells Anna: ",
         "audio_url": "https://sphinx.acast.com/p/open/s/66583e10068f6900128bdfda/e/678eb6d45dd9c67f1729e140/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/the-power-of-radical-honesty-with-lou-sanders/id1679925286?i=1000684947055&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:dc299526e76a",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0005fdz.rss",
+        "dedupe_key": "c31f4a53463cdb9582f64db5822db723d4c40144",
+        "episode_key": "c31f4a53463cdb9582f64db5822db723d4c40144",
+        "title": "#404 - #PlasticJack, Lou Sanders and You Can Only Push The Listeners So Far",
+        "published_at": "2025-01-21T17:15:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "No, this episode is not a web error. Instead it contains something else which will make the content servers explode. Yes that’s right, it’s the return of the Cymru Connection. And amidst such Cymraeg content it’s fever pitch. In fact the fervour has led to an Elis on such a high that he makes financial cheques that he ",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kl4cqq.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/404-plasticjack-lou-sanders-and-you-can-only-push/id1465290044?i=1000684876824&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
