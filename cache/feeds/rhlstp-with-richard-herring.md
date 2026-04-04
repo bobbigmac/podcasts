@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-03T03:27:36+00:00`
-- checked_at: `2026-04-03T03:27:36+00:00`
-- etag: `"djEuMi4wOjE3NzUxODUwNTk0MzA="`
+- fetched_at: `2026-04-04T15:47:15+00:00`
+- checked_at: `2026-04-04T15:47:15+00:00`
+- etag: `"djEuMi4wOjE3NzUzMTEzMjE5MjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-03T03:27:36+00:00",
+  "fetched_at": "2026-04-04T15:47:15+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a51bfb8f9ffd7b02d8c7a6b8540a7def5c30edf0",
+      "title": "RAACN week 10",
+      "published_at": "2026-04-04T14:02:02+00:00",
+      "link": "https://shows.acast.com/rhlstp/episodes/raacn-week-10",
+      "description": "Monday 30th March 2026 - Male G-Spot and Demons. In what promises to be the last Newsround ever, Rich and Ally take a deep dive into genital licking and what combination of tongue and genital are acceptable to discuss with children, plus we look at JD Vance’s claims that aliens are demons and why he knows for sure that the devil doesn’t exist. Thanks for your support. Don’t bother coming back tomorrow. We won’t be here. Tuesday March 31st 2026 - Icarus - Rich and Ally are back temporarily as Rich waits for the call from the TV people. Today they look at the main celebrity news story, a not very famous man cutting himself with an apple peeler. Witness how the lame stream media makes more of this story, whilst only we tell you the truth Thursday 2nd April 2026 - C**t up the *** - After an hilarious April Fool’s joke Rich and Ally are back to discover if the moon landing was real and how astronauts get the trajectory to get out into space. With the first extra terrestrial report. But who will be the reporter today? Can you guess? Friday 3rd April 2026 - Randy - It’s a party atmosphere as Easter approaches, but the team are all working, making sure the big stories and real music hall songs get to you before the lamestream media cab do anything about it. Today we look at Trump sacking his top officials and poignantly remember the death of our Christ and Messiah. Happy Easter to any Christians still here after this episode. Turn the other cheek. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1775311119265-153d319f-1920-4abe-a06b-39ee692e3238.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69d119d93a785fb94b699dbc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30010164",
+      "itunes_duration": "1:01:30",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "raacn",
+        "week"
+      ]
+    },
     {
       "key": "72a93052b047c0e66b62e131049a8af8c57943ec",
       "title": "RHLSTP Book Club 175 - Chris Evans (not that one)",
@@ -21970,6 +21989,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-04 — RAACN week 10 — speakers: Richard Herring
 - 2026-04-03 — RHLSTP Book Club 175 - Chris Evans (not that one) — speakers: Chris Evans, Richard Herring
 - 2026-04-01 — RHLSTP 605 - Stephen Bailey — speakers: Stephen Bailey, Richard Herring
 - 2026-03-30 — Retro RHLSTP 139 - John Kearns — speakers: John Kearns, Richard Herring
