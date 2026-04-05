@@ -20355,6 +20355,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:5a46c54e4129",
+        "feed_title": "The Chris Evans Show with The National Lottery",
+        "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",
+        "dedupe_key": "2039fddb6e94bab43ede61cd446cff844a3d90d7",
+        "episode_key": "2039fddb6e94bab43ede61cd446cff844a3d90d7",
+        "title": "The one with Lee Mack & Chris McCausland",
+        "published_at": "2024-12-20T10:40:11Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Dynamite duo Lee Mack and Chris McCausland spread festive cheer with their new Christmas comedy film, Bad Tidings, out Sunday 22nd December on Sky and NOW.\nJoin Chris, Vassos and the team every morning from 6.30am for laughs with the listeners and the greatest guests. Listen on your smart speaker, just say: \"Play Virgi",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/chrisevansvirginuk/e/6765498b621cdde43a1a9c70/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-one-with-lee-mack-chris-mccausland/id1450650136?i=1000681113103&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:0cdae44e9981",
         "feed_title": "The Alexei Sayle Podcast",
         "source_rss_url": "https://audioboom.com/channels/5038428.rss",

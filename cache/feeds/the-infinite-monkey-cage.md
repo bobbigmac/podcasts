@@ -2,10 +2,10 @@
 
 - slug: `the-infinite-monkey-cage`
 - source: `https://podcasts.files.bbci.co.uk/b00snr0w.rss`
-- fetched_at: `2026-03-06T09:56:10+00:00`
-- checked_at: `2026-03-06T09:56:10+00:00`
-- etag: `"e08510f1ef31f7c0478d5e4d7a7d4f97"`
-- last_modified: `Fri, 06 Mar 2026 08:35:16 GMT`
+- fetched_at: `2026-04-05T09:55:50+00:00`
+- checked_at: `2026-04-05T09:55:50+00:00`
+- etag: `"e29abe8da0d7918722d6890ed5c7b860"`
+- last_modified: `Sun, 05 Apr 2026 08:32:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b00snr0w",
   "description": "Professor Brian Cox and Robin Ince host a witty, irreverent look at the world through scientists’ eyes. Joined by a panel of scientists, experts and celebrity science enthusiasts they investigate life, the universe and everything in between on The Infinite Monkey Cage from the BBC. From the smallest building blocks of life to the furthest stars, the curious monkeys pull apart the latest science to reveal fascinating and often bizarre insights into the world around us and what lies beyond. Can trees talk to each other? Can science help you commit the perfect murder? What might aliens look like and the burning question of our time, are strawberries alive or dead? Join them as each episode they put a different scientific topic under the microscope, from aliens, black holes and hedgehogs, to bacteria, poison and the Big Bang. With past guests including actors Dame Judi Dench and Sir Patrick Stewart, comedians Steve Martin and Conan O’Brien, astronaut Tim Peake, primatologist Jane Goodall and mathematician Hannah Fry, The Infinite Monkey Cage promises to make you laugh, enrich your knowledge and leave you with a deeper appreciation for the universe that we call home. Whether you’re a seasoned scientist or someone who nodded off in physics class, listen in to learn all about funny, fascinating and sometimes ridiculous topics – with the occasional monkey business.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1q7wg.jpg",
-  "fetched_at": "2026-03-06T09:56:10+00:00",
+  "fetched_at": "2026-04-05T09:55:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,24 +27,6 @@
     "bbc"
   ],
   "episodes": [
-    {
-      "key": "329bf943e4020b0bab30648d73f3e9278f5e897c",
-      "title": "Introducing... Life Without",
-      "published_at": "2026-03-06T08:32:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0n4t029",
-      "description": "Hosted by Alan Davies, Life Without looks at what would happen to our planet if we removed one thing. Could pulling a single thread from our world really unravel the whole thing?",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0mxdrsj.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n4zz6x.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "13440000",
-      "itunes_duration": "840",
-      "speakers": [
-        "Alan Davies"
-      ],
-      "topics": [
-        "life"
-      ]
-    },
     {
       "key": "be23b8e834335f0db8f60f19c7d86f9850f2f77c",
       "title": "The North Pole Unwrapped - Russell Kane, Felicity Aston and Lloyd Peck",
@@ -5034,7 +5016,6 @@
 
 ## Episodes (newest first)
 
-- 2026-03-06 — Introducing... Life Without — speakers: Alan Davies
 - 2025-12-24 — The North Pole Unwrapped - Russell Kane, Felicity Aston and Lloyd Peck — speakers: Lloyd Peck, Brian Cox, Robin Ince
 - 2025-12-17 — Monkey Business - Robin Dunbar, Dave Gorman and Jo Setchell — speakers: Monkey Business Robin Dunbar, Dave Gorman, Jo Setchell, Monkey Cage, Brian Cox, Robin Ince
 - 2025-12-10 — Head in the Clouds - Owain Wyn Evans, Gavin Pretor-Pinney, Amanda Maycock — speakers: Gavin Pretor-Pinney, Amanda Maycock Robin Ince, Brian Cox
