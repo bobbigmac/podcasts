@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-03T15:53:08+00:00`
-- checked_at: `2026-04-03T15:53:08+00:00`
-- etag: `"djEuMi4wOjE3NzUyMjM1MTY4Njk="`
+- fetched_at: `2026-04-05T07:32:44+00:00`
+- checked_at: `2026-04-05T07:32:44+00:00`
+- etag: `"djEuMi4wOjE3NzUzNjUyMzk1MjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-03T15:53:08+00:00",
+  "fetched_at": "2026-04-05T07:32:44+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "e5f51a14f0d29f546971337453cf11ef6a3749c5",
+      "title": "Your boss is scamming you. This is how | Matthew Cole interview",
+      "published_at": "2026-04-05T05:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69cfc2dc3a785fb94bf0c211",
+      "description": "Matthew Cole is an academic and author specialising in labour and technology, and swung by the studio to talk about his book Unpaid: The Past, Present and Future of Wage Theft. During the conversation, he breaks down the myriad ways in which employers undercut their workforce, how to stop it, and what a balanced, egalitarian labour market of the future looks like. Preorder Unpaid here: https://www.versobooks.com/en-gb/products/3206-unpaid Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69cfc2dc3a785fb94bf0c211/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62644363",
+      "itunes_duration": "43:28",
+      "speakers": [
+        "Matthew Cole"
+      ],
+      "topics": [
+        "boss",
+        "matthew",
+        "cole"
+      ]
+    },
     {
       "key": "d9b35a2c1ba0ba843e622444cf6dca3b7c68a948",
       "title": "Does Britain have a porn problem? With Ipsos",
@@ -12364,6 +12384,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-05 — Your boss is scamming you. This is how | Matthew Cole interview — speakers: Matthew Cole
 - 2026-04-02 — Does Britain have a porn problem? With Ipsos
 - 2026-04-01 — Brian Eno: The system is broken. We need a wealth tax now. — speakers: Brian Eno
 - 2026-03-31 — Grace Blakeley: Elites want to ruin the world. This is how we stop them — speakers: Grace Blakeley
