@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-05T07:32:44+00:00`
-- checked_at: `2026-04-05T07:32:44+00:00`
-- etag: `"djEuMi4wOjE3NzUzNjUyMzk1MjA="`
+- fetched_at: `2026-04-06T13:46:11+00:00`
+- checked_at: `2026-04-06T13:46:11+00:00`
+- etag: `"djEuMi4wOjE3NzU0NzY4Mzk1ODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,30 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-05T07:32:44+00:00",
+  "fetched_at": "2026-04-06T13:46:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "e3905ee9e37ed6f45b317dce2140ec99244fa41c",
+      "title": "Answering your questions at Easter",
+      "published_at": "2026-04-06T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69ce56fdf44b357ce9109297",
+      "description": "After a national four-day weekend Seán and Ava return to open up the debate and answer some of your burning questions. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69ce56fdf44b357ce9109297/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75834760",
+      "itunes_duration": "52:39",
+      "speakers": [],
+      "topics": [
+        "question",
+        "easter"
+      ]
+    },
     {
       "key": "e5f51a14f0d29f546971337453cf11ef6a3749c5",
       "title": "Your boss is scamming you. This is how | Matthew Cole interview",
@@ -12384,6 +12401,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — Answering your questions at Easter
 - 2026-04-05 — Your boss is scamming you. This is how | Matthew Cole interview — speakers: Matthew Cole
 - 2026-04-02 — Does Britain have a porn problem? With Ipsos
 - 2026-04-01 — Brian Eno: The system is broken. We need a wealth tax now. — speakers: Brian Eno

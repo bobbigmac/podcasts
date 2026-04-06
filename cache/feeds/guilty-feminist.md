@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-04-05T13:21:25+00:00`
-- checked_at: `2026-04-05T13:21:25+00:00`
-- last_modified: `Sun, 05 Apr 2026 12:35:08 GMT`
+- fetched_at: `2026-04-06T13:46:11+00:00`
+- checked_at: `2026-04-06T13:46:11+00:00`
+- last_modified: `Mon, 06 Apr 2026 11:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/967914911d6e26f1bb9223e736bc7c12.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-05T13:21:25+00:00",
+  "fetched_at": "2026-04-06T13:46:11+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "c1e9329254ebc745818f6aba7477380550964746",
+      "title": "477. The Guilty Feminist Ten for Ten #9: Athena Kugblenu",
+      "published_at": "2026-04-06T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 477. Ten for Ten #9 Presented by Deborah Frances-White with special guest Athena Kugblenu Recorded 26 March 2026 in London. Released 6 April. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White - https://deborahfrances-white.com - https://www.instagram.com/dfdubz - https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 - https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Athena Kugblenu - https://www.instagram.com/athenakugblenu - https://athenakugblenu.co.uk For more information about this and other episodes… - visit https://www.guiltyfeminist.com - tweet us https://www.twitter.com/guiltfempod - like our Facebook page https://www.facebook.com/guiltyfeminist - check out our Instagram https://www.instagram.com/theguiltyfeminist - or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show - Welsh Election Special with Carol Vorderman. https://www.cardifftheater.co.uk/venues/new-theatre-cardiff - Waterstone’s Book Club. Bimbo by Ashley James. https://www.waterstones.com/events/the-guilty-feminist-x-waterstones-book-club-ashley-james/london-piccadilly - Road to Gilead at the Museum of Comedy. https://www.museumofcomedy.com/the-guilty-feminist/ - Guilty Feminist x The Nerve. https://www.leicestersquaretheatre.com/show/guilty-feminist-x-the-nerve-road-to-gilead/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9a3f8780-30e6-11f1-a2b3-6707ff8c1a67/image/51cbd85f39e7abdce23b968337ec24e1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL9312507428.mp3?updated=1775392799",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2969",
+      "speakers": [
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "guilty",
+        "feminist",
+        "athena",
+        "kugblenu"
+      ]
+    },
     {
       "key": "371bed4fdb5a839aa27f171b989a22b13fc9ebfb",
       "title": "476. The Guilty Feminist 476. Ten for Ten #8: Celia Pacquola",
@@ -17687,6 +17708,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — 477. The Guilty Feminist Ten for Ten #9: Athena Kugblenu — speakers: Deborah Frances-White
 - 2026-03-30 — 476. The Guilty Feminist 476. Ten for Ten #8: Celia Pacquola — speakers: Deborah Frances-White
 - 2026-03-23 — 475. We Back Zack with Juno Dawson, Singing Resistance London, Lizzy Hardingham and Zack Polanski - part two — speakers: Juno Dawson, Singing Resistance London, Lizzy Hardingham, Deborah Frances-White, Juno Da
 - 2026-03-23 — 475. We Back Zack with Juno Dawson, Athena Kugblenu, Singing Resistance London, Sarah Shaw and Zack Polanski — speakers: Juno Dawson, Athena Kugblenu, Sarah Shaw, Zack Polanski, Deborah Frances-White, Juno Da
