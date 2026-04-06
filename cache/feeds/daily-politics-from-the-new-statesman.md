@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-03T19:05:58+00:00`
-- checked_at: `2026-04-03T19:05:58+00:00`
-- etag: `"djEuMi4wOjE3NzUyMzIwMzk2MDU="`
+- fetched_at: `2026-04-06T10:20:11+00:00`
+- checked_at: `2026-04-06T10:20:11+00:00`
+- etag: `"djEuMi4wOjE3NzU0NjMwNzU1OTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-03T19:05:58+00:00",
+  "fetched_at": "2026-04-06T10:20:11+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "21dc5e911936bd5ab33a2cc33312ff50ad1dcc06",
+      "title": "Yanis Varoufakis: Greece has become Israel's \"handmaiden\"",
+      "published_at": "2026-04-06T08:11:01+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/yanis-varoufaksi-greece-has-become-israels-handmaiden",
+      "description": "Follow The Exchange on Spotify , Apple , and YouTube for more episodes like this. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1775462766628-4885555e-2cde-43d2-b32e-8bfc5e1f92a9.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69d36a95fbf2e42b349b711a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92095818",
+      "itunes_duration": "1:03:56",
+      "speakers": [
+        "Yanis Varoufakis",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "yanis",
+        "varoufakis",
+        "greece",
+        "israel",
+        "handmaiden"
+      ]
+    },
     {
       "key": "c8d8934711bffd63d9678cf0837a4739e8602eea",
       "title": "Thames Water's careless vandalism",
@@ -30912,6 +30936,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — Yanis Varoufakis: Greece has become Israel's "handmaiden" — speakers: Yanis Varoufakis, Anoosh Chakelian, Oli Dugmore
 - 2026-04-03 — Thames Water's careless vandalism — speakers: Thames Water, Anoosh Chakelian, Oli Dugmore
 - 2026-04-02 — Trump’s ground options in Iran — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-04-01 — Has Keir Starmer found his vision? — speakers: Anoosh Chakelian, Oli Dugmore

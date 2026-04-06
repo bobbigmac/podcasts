@@ -21041,6 +21041,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:c5df4fff71a7",
+        "feed_title": "Loose Ends",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/b006qjym.rss",
+        "dedupe_key": "14066514364765ee5e68bb49d65b7fc1abf69de2",
+        "episode_key": "14066514364765ee5e68bb49d65b7fc1abf69de2",
+        "title": "Sharon D Clarke, Lee Mack, Brett Anderson, Yolanda Mercy, George Ezra, Imarhan, Emma Freud, Clive Anderson",
+        "published_at": "2018-03-24T19:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Clive Anderson and Emma Freud are joined by Lee Mack, Sharon D Clarke, Brett Anderson and Yolanda Mercy for an eclectic mix of conversation, music and comedy. With music from George Ezra and Imarhan.\nProducer: Tim Bano.",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0625mvv.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/sharon-d-clarke-lee-mack-brett-anderson-yolanda-mercy/id1163219363?i=1000407382963&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:1eac8536e49a",
         "feed_title": "Walking The Dog with Emily Dean",
         "source_rss_url": "https://feeds.acast.com/public/shows/65fd941cc33959001681e12e",
