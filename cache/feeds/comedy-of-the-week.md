@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-03-31T07:44:38+00:00`
-- checked_at: `2026-03-31T07:44:38+00:00`
-- etag: `"fb724200abf12b74ab344df07cc09feb"`
-- last_modified: `Tue, 31 Mar 2026 04:00:06 GMT`
+- fetched_at: `2026-04-06T08:02:08+00:00`
+- checked_at: `2026-04-06T08:02:08+00:00`
+- etag: `"176c77b57af00c3a2bedd12a783d10b5"`
+- last_modified: `Mon, 06 Apr 2026 04:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-03-31T07:44:38+00:00",
+  "fetched_at": "2026-04-06T08:02:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "d8cd7c1faa577952fcea783f8c4acb74a195b9ce",
+      "title": "Live from the UK: Live Comedy Day",
+      "published_at": "2026-04-06T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nb8cw6",
+      "description": "It's the first every Live Comedy Day, and Live From the UK brings a special, extended episode to the Radio 4 listener. Angela Barnes is back at the comedy club where she did her first ever gig, the Brighton Komedia. She did a comedy course with comedy guru Jill Edwards, so catches up with her to chat about starting out, and grassroots comedy. We also tour to all 4 nations of the UK, bringing you insights on a night tour of Edinburgh Zoo, useless stuff you learn in school, nans playing rugby and the dystopian world of fast food restaurants. Throughout the show, some of the UK's best loved comedians will also pop up to tell you about their first ever gig. In this episode, you can hear; Christopher Macarthur-Boyd at the Monkey Barrel in Edinburgh Emer Maguire at the Empire Music Hall, Belfast Carwyn Blayney at the Swansea Grand Seann Walsh at Komedia Brighton Additional Material by Ruth Husko Recorded by David Thomas, Sean Kerwin and Davy Neil Sound design by David Thomas Production Coordinator: Jodie Charman Executive Producer: Pete Strauss Produced by Gwyn Rhys Davies. A BBC Studios Audio Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nb8br9.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40992000",
+      "itunes_duration": "2562",
+      "speakers": [],
+      "topics": [
+        "comedy"
+      ]
+    },
     {
       "key": "8b54e4b903a4eff306ea13edf434b596f9ba79e5",
       "title": "The Matt Forde Focus Group",
@@ -978,6 +994,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — Live from the UK: Live Comedy Day
 - 2026-03-30 — The Matt Forde Focus Group
 - 2026-03-23 — Slim's Guide to Life
 - 2026-03-16 — Wing It — speakers: Steen Raskopoulos, Luke Manning, Emily Lloyd-Saini

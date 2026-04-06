@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-04-04T13:20:15+00:00`
-- checked_at: `2026-04-04T13:20:15+00:00`
-- last_modified: `Sat, 04 Apr 2026 10:36:37 GMT`
+- fetched_at: `2026-04-06T08:02:08+00:00`
+- checked_at: `2026-04-06T08:02:08+00:00`
+- last_modified: `Mon, 06 Apr 2026 05:08:42 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-04T13:20:15+00:00",
+  "fetched_at": "2026-04-06T08:02:08+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f8a35940f5e93b70b6db9b65f435c768ad4cc6c9",
+      "title": "Tom Allen: I Have An Average Garden, Maybe Two or Three Farms.",
+      "published_at": "2026-04-06T05:00:00+00:00",
+      "link": null,
+      "description": "Tom Allen is in the studio trying Harry's latest edible invention. This weeks theme is cucumbers with prickles, otherwise known as Cacti. \"Tom Allen\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on Tom Allen. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/91973fe8-2ea1-11f1-9f08-d767840cba2e/image/5d8c1635c8e77554c82d9e593dd49dcd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4063854557.mp3?updated=1775298832",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2651",
+      "speakers": [
+        "Tom Allen",
+        "Harry Hill"
+      ],
+      "topics": [
+        "allen",
+        "average",
+        "garden",
+        "farms"
+      ]
+    },
     {
       "key": "e5d5f23a6e907eda6b11d3ff2de3f46072c4fec5",
       "title": "Alex Brooker: It’s One of the Big Perks. That and the Queues at Disney.",
@@ -1609,6 +1631,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — Tom Allen: I Have An Average Garden, Maybe Two or Three Farms. — speakers: Tom Allen, Harry Hill
 - 2026-03-30 — Alex Brooker: It’s One of the Big Perks. That and the Queues at Disney. — speakers: Alex Brooker, Harry Hill
 - 2026-03-23 — Self Esteem aka Rebecca Lucy Taylor: Instructions for Assembling Flat Pack Furniture — speakers: Rebecca Lucy Taylor, Self Esteem, Harry Hill
 - 2026-03-16 — John Cooper Clarke: The Thousand Daily Punishments Visited Upon The Analogue Community — speakers: John Cooper Clarke, Harry Hill

@@ -2,10 +2,10 @@
 
 - slug: `all-killa-no-filla`
 - source: `https://allkillanofilla.libsyn.com/rss`
-- fetched_at: `2026-04-03T19:05:58+00:00`
-- checked_at: `2026-04-03T19:05:58+00:00`
-- etag: `"691d52278aa7b503356de52404fae9d4"`
-- last_modified: `Fri, 03 Apr 2026 18:41:29 GMT`
+- fetched_at: `2026-04-06T08:02:08+00:00`
+- checked_at: `2026-04-06T08:02:08+00:00`
+- etag: `"ed9c20f42345f5313577864025d74f02"`
+- last_modified: `Mon, 06 Apr 2026 05:35:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://allkillanofilla.podomatic.com",
   "description": "Join comedians Rachel Fairburn and Kiri Pritchard - McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it.",
   "image_url": "https://static.libsyn.com/p/assets/f/7/f/0/f7f0f9cb9da4b5bb16c3140a3186d450/All_Killa_logo_copy.png",
-  "fetched_at": "2026-04-03T19:05:58+00:00",
+  "fetched_at": "2026-04-06T08:02:08+00:00",
   "owners": [
     "Kiri Pritchard-McLean",
     "Rachel Fairburn"
@@ -29,6 +29,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "5176f2f0d5a25c741fad90af9e6bce64e9efb549",
+      "title": "All Killa No Filla - Episode 129 - Part 2 - The Railway Killers",
+      "published_at": "2026-04-06T05:30:00+00:00",
+      "link": "https://allkillanofilla.libsyn.com/all-killa-no-filla-episode-129-part-2-the-railway-killers",
+      "description": "Join comedians Rachel Fairburn and Kiri Pritchard-McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it. This is part 2 of the grim story of John Duffy and David Mulcahy, also known as the Railway Killers or the Railway Rapists. The two were convicted of murdering three women in the 1980s, as well as raping many more. Hang around for a delightful anecdote about losing your parents' ashes! Yes, there's some truly morbid murders before then, but it's worth the wait. Oh, and a very important message from Tim.",
+      "image_url": "https://static.libsyn.com/p/assets/f/8/4/4/f84433da3f05fd54d959afa2a1bf1c87/All_Killa_thumbnail-20260403-asguffnrka.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/allkillanofilla/All_Killa_No_Filla_-_Episode_129_-_Part_2_-_The_Railway_Killers.mp3?dest-id=459476",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79904299",
+      "itunes_duration": "55:04",
+      "speakers": [
+        "Rachel Fairburn",
+        "Kiri Pritchard-McLean"
+      ],
+      "topics": [
+        "killa",
+        "filla",
+        "railway",
+        "killers"
+      ]
+    },
     {
       "key": "b7aa64b481f7c38f856e634900bd93e2404420bd",
       "title": "All Killa No Filla - Episode 129 - Part 1 - The Railway Killers",
@@ -4365,6 +4387,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — All Killa No Filla - Episode 129 - Part 2 - The Railway Killers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-03-16 — All Killa No Filla - Episode 129 - Part 1 - The Railway Killers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-02-09 — All Killa No Filla - Episode 128 - Minnie Wallace Walkup — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-01-19 — All Killa No Filla - Episode 127 - The London Burkers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
