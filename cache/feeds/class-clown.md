@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-04-05T15:47:49+00:00`
-- checked_at: `2026-04-05T15:47:49+00:00`
-- last_modified: `Sun, 05 Apr 2026 15:22:50 GMT`
+- fetched_at: `2026-04-06T03:40:57+00:00`
+- checked_at: `2026-04-06T03:40:57+00:00`
+- last_modified: `Mon, 06 Apr 2026 00:43:52 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-05T15:47:49+00:00",
+  "fetched_at": "2026-04-06T03:40:57+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f031e210ac5dfcf7f63b403cbd4e0dc85d737642",
+      "title": "JANINE HAROUNI: Bullying Shaped My Comedy",
+      "published_at": "2026-04-05T23:00:00+00:00",
+      "link": null,
+      "description": "Janine Harouni has appeared on everything from The Last Leg and Live At The Apollo to Mock The Week and Have A Word. Born and raised in the the working class mobbed-up New York borough of Staten Island, Janine moved to the UK to pursue acting before becoming one of the fastest rising stars on the UK comedy scene. Janine joins Seann Walsh to talk about how going to an all girls school and finding herself ostracized after getting the whole year in trouble helped shape her as a comedian, as well a sthe influence of her brothers. She also talks about the brutal car accident that left her near paralysed inspired her to pursue her performance career and how it helped heal a rift with her ultra conservative father. Catch Janine on her current tour, This Is What You Waited For, here ! Get tickets to Seann Walsh on his latest This Is Torture tour, here! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7076762931.mp3?updated=1775426474",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4794",
+      "speakers": [
+        "My Comedy Janine Harouni",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "janine",
+        "harouni",
+        "bullying",
+        "shaped",
+        "comedy"
+      ]
+    },
     {
       "key": "67e3d5f7ed2b1e76cbc81876e830ce39e9b4ed74",
       "title": "RHYS JAMES: Serial Lying, Testing Personas & Comedy Origin Story",
@@ -1275,6 +1298,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-05 — JANINE HAROUNI: Bullying Shaped My Comedy — speakers: My Comedy Janine Harouni, Seann Walsh
 - 2026-03-29 — RHYS JAMES: Serial Lying, Testing Personas & Comedy Origin Story — speakers: Rhys James, Seann Walsh
 - 2026-03-23 — FIN TAYLOR Pt 2: Worst Trouble He Ever Got In, Origins of Fin Vs History & Fin Vs The Internet — speakers: Fin Taylor Pt, Fin Taylor, Seann Walsh
 - 2026-03-22 — FIN TAYLOR: School, Controversial Comedy & Not Being Afraid to Be Disliked — speakers: Seann Walsh, Fin Taylor

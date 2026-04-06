@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-04-02T19:15:25+00:00`
-- checked_at: `2026-04-02T19:15:25+00:00`
-- etag: `"djEuMi4wOjE3NzUxNTEzMDU5ODY="`
+- fetched_at: `2026-04-06T03:40:57+00:00`
+- checked_at: `2026-04-06T03:40:57+00:00`
+- etag: `"djEuMi4wOjE3NzU0NDEwMTkzNzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-04-02T19:15:25+00:00",
+  "fetched_at": "2026-04-06T03:40:57+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "7d57bd515c22e1ec756738dfa2857802a81b2ca6",
+      "title": "Show 397. Claire Coutinho",
+      "published_at": "2026-04-06T02:03:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-397-claire-coutinho",
+      "description": "Claire is the Shadow Secretary of State for Energy, Climate Change and Net Zero, having been Secretary of State in the last Conservative government... and she's changed her position on Net Zero. In this candid and entertaining interview, she tells us why she's changed her mind and her frustrations with the system. Claire also talks about having to confront her own mortality after the traumatic birth of her son and what it's done for her outlook on life. Plus, freedom of speech, class, race and everything else going on in politics at the moment. It's a classic. THE POLITICAL PARTY LIVE 20 April: Shabana Mahmood 11 May: Lewis Goodall https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SIGN UP to Matt's mailing list to get free audience tickets to his Radio 4 series: https://www.mattforde.com/mailing-list SEE Matt's brand new stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/69cea8c9d2e95f51316b43c9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71865637",
+      "itunes_duration": "49:54",
+      "speakers": [
+        "Claire Coutinho",
+        "Matt Forde"
+      ],
+      "topics": [
+        "claire",
+        "coutinho"
+      ]
+    },
     {
       "key": "6bf13a703c7b7bef3eeb4187683ea757ffa9c4d9",
       "title": "Show 396. Lisa Nandy LIVE",
@@ -10225,6 +10245,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — Show 397. Claire Coutinho — speakers: Claire Coutinho, Matt Forde
 - 2026-03-31 — Show 396. Lisa Nandy LIVE — speakers: Matt Forde
 - 2026-03-23 — Show 395. Chris Curtis — speakers: Chris Curtis, Matt Forde
 - 2026-03-16 — Show 394. Karl Turner — speakers: Karl Turner, Matt Forde

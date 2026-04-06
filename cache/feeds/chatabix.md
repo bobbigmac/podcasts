@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-04-03T07:37:31+00:00`
-- checked_at: `2026-04-03T07:37:31+00:00`
-- last_modified: `Fri, 03 Apr 2026 06:12:36 GMT`
+- fetched_at: `2026-04-06T03:40:57+00:00`
+- checked_at: `2026-04-06T03:40:57+00:00`
+- last_modified: `Mon, 06 Apr 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-03T07:37:31+00:00",
+  "fetched_at": "2026-04-06T03:40:57+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,30 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "48691e7e3778028d702b5f25139a7b900fc72478",
+      "title": "S15 Ep 811 Vault Mondays: Bluetooth and The Word Game",
+      "published_at": "2026-04-06T02:00:00+00:00",
+      "link": null,
+      "description": "New week, old episode. And in this archive show from 2021, we chatted about lots of new things - the new AirBnB, Joe's new bluetooth and we play the new Word Game. First posted on 21st June 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1577672031.mp3?updated=1775117229",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1669",
+      "speakers": [
+        "Vault Mondays",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "bluetooth",
+        "word",
+        "game"
+      ]
+    },
     {
       "key": "5b0a0d2eb73a10b9e4a4f4986712ed5df3413ab1",
       "title": "S15 Ep 810 Listener’s Mailbag: Sexy Joe and Fix My Quip",
@@ -14260,6 +14284,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — S15 Ep 811 Vault Mondays: Bluetooth and The Word Game — speakers: Vault Mondays, Joe Wilkinson, David Earl
 - 2026-04-03 — S15 Ep 810 Listener’s Mailbag: Sexy Joe and Fix My Quip — speakers: Sexy Joe, Fix My Quip Time, Joe Wilkinson, David Earl
 - 2026-04-02 — S15 Ep 809: Live Tours, Cokey Z and Only Me - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2026-04-01 — S15 Ep 808: Live Tours, Cokey Z and Only Me - Part 1 — speakers: Alex Lowe, Clinton Baptiste, Joe Wilkinson, David Earl

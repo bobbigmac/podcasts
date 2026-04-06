@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-04-03T21:49:45+00:00`
-- checked_at: `2026-04-03T21:49:45+00:00`
-- last_modified: `Fri, 03 Apr 2026 20:13:14 GMT`
+- fetched_at: `2026-04-06T03:40:57+00:00`
+- checked_at: `2026-04-06T03:40:57+00:00`
+- last_modified: `Mon, 06 Apr 2026 00:07:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-03T21:49:45+00:00",
+  "fetched_at": "2026-04-06T03:40:57+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "09a2bdf1bd51b4bd37f577408c97d7ab0f45f509",
+      "title": "Role-Playing As Ray Davies",
+      "published_at": "2026-04-06T00:00:00+00:00",
+      "link": null,
+      "description": "Frank and Emily are joined again by Rob Auton. Expect stories of surprising celeb encounters, handshakes and thoughts on Project Hail Mary (sci-fi film or secret catholic society?) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3750705975.mp3?updated=1775117245",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2387",
+      "speakers": [
+        "Rob Auton",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "role",
+        "playing",
+        "davy"
+      ]
+    },
     {
       "key": "289368e451557e717c37529b2ce87565651deed3",
       "title": "Kinky Boots, Cardi B and Romeo and Juliet",
@@ -11077,13 +11098,13 @@
       ]
     },
     {
-      "key": "81781c7f89c31bee3dd07a7b838ae5af76fe1297",
+      "key": "d48ef5a438843b2e1474f4e63ed62b05fc6bc7b0",
       "title": "Frank Skinner in conversation with Russell T Davies",
       "published_at": "2017-09-19T23:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170915135553.mp3",
+      "link": null,
       "description": "Russell T Davies drops in to chat to Frank about his brand new book, Dr Who and Cucumber. Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/91e37f56-817e-11ef-8fe9-bfc52ad41a4e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6014759002.mp3?updated=1738239147",
+      "image_url": "https://megaphone.imgix.net/podcasts/926a4eaa-817e-11ef-8fe9-4ba28c52c978/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9756902071.mp3?updated=1738239390",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1790",
@@ -11100,13 +11121,13 @@
       ]
     },
     {
-      "key": "d48ef5a438843b2e1474f4e63ed62b05fc6bc7b0",
+      "key": "81781c7f89c31bee3dd07a7b838ae5af76fe1297",
       "title": "Frank Skinner in conversation with Russell T Davies",
       "published_at": "2017-09-19T23:00:00+00:00",
-      "link": null,
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170915135553.mp3",
       "description": "Russell T Davies drops in to chat to Frank about his brand new book, Dr Who and Cucumber. Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/926a4eaa-817e-11ef-8fe9-4ba28c52c978/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9756902071.mp3?updated=1738239390",
+      "image_url": "https://megaphone.imgix.net/podcasts/91e37f56-817e-11ef-8fe9-bfc52ad41a4e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6014759002.mp3?updated=1738239147",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1790",
@@ -11831,25 +11852,6 @@
       ]
     },
     {
-      "key": "5de0960f8d5078afa39c547f0609ad0585b17760",
-      "title": "The Frank Skinner Show",
-      "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170222103109.mp3",
-      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2015 - 2016. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a7991afe-817e-11ef-8fe9-dff118a13380/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7403625260.mp3?updated=1738248136",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4974",
-      "speakers": [
-        "Frank Skinner"
-      ],
-      "topics": [
-        "frank",
-        "skinner"
-      ]
-    },
-    {
       "key": "ccc010063fb85c02298487d103c3f1e5f08b6437",
       "title": "Big Daddy's Birthday",
       "published_at": "2017-01-28T08:00:00+00:00",
@@ -11885,6 +11887,25 @@
       "topics": [
         "best",
         "frank"
+      ]
+    },
+    {
+      "key": "5de0960f8d5078afa39c547f0609ad0585b17760",
+      "title": "The Frank Skinner Show",
+      "published_at": "2017-01-28T08:00:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170222103109.mp3",
+      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2015 - 2016. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a7991afe-817e-11ef-8fe9-dff118a13380/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7403625260.mp3?updated=1738248136",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4974",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner"
       ]
     },
     {
@@ -13509,13 +13530,13 @@
       ]
     },
     {
-      "key": "864fc7223ea4db3d1f6994c74a1833ed766874a0",
+      "key": "909af024d5d1470daf77598b7f74c36a738f988f",
       "title": "The Frank Skinner Show - Late Review",
       "published_at": "2015-08-08T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150808124717.mp3",
-      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week the G man (Gareth Richards) is back whilst Alun is away doing his Edinburgh show. Frank discusses his scary book and flying ant day. The team also talk Keith Richards, Noel Edmonds and snacks of choice after it was revealed the Doctor Who cast are no longer allowed biscuits on set. Emily, Gareth and Frank also give their #latereviews Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/db8407e8-817e-11ef-8fe9-9746e1f354ec/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5260248061.mp3?updated=1738241551",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150808124012.mp3",
+      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week the the G man (Gareth Richards) is back whilst Alun is away doing his Edinburgh show. Frank discusses his scary book and flying any day. The team also talk Keith Richards, Noel Edmonds and snacks of choice after it was revealed the Doctor Who cast are no longer allowed biscuits on set. Emily, Gareth and Frank also give their #latereviews Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dc6a22c8-817e-11ef-8fe9-035c7d632db0/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3168595967.mp3?updated=1738241570",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4626",
@@ -13530,13 +13551,13 @@
       ]
     },
     {
-      "key": "909af024d5d1470daf77598b7f74c36a738f988f",
+      "key": "864fc7223ea4db3d1f6994c74a1833ed766874a0",
       "title": "The Frank Skinner Show - Late Review",
       "published_at": "2015-08-08T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150808124012.mp3",
-      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week the the G man (Gareth Richards) is back whilst Alun is away doing his Edinburgh show. Frank discusses his scary book and flying any day. The team also talk Keith Richards, Noel Edmonds and snacks of choice after it was revealed the Doctor Who cast are no longer allowed biscuits on set. Emily, Gareth and Frank also give their #latereviews Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/dc6a22c8-817e-11ef-8fe9-035c7d632db0/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3168595967.mp3?updated=1738241570",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150808124717.mp3",
+      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week the G man (Gareth Richards) is back whilst Alun is away doing his Edinburgh show. Frank discusses his scary book and flying ant day. The team also talk Keith Richards, Noel Edmonds and snacks of choice after it was revealed the Doctor Who cast are no longer allowed biscuits on set. Emily, Gareth and Frank also give their #latereviews Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/db8407e8-817e-11ef-8fe9-9746e1f354ec/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5260248061.mp3?updated=1738241551",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4626",
@@ -13632,13 +13653,13 @@
       ]
     },
     {
-      "key": "f3df9ef0d8db8db71611fbc454d749aeadfbd2a7",
+      "key": "ac8a01118c26f992d71356c23f3b95acc6b7568c",
       "title": "The Frank Skinner Show - Pole Position",
       "published_at": "2015-07-04T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704160258.mp3",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704161146.mp3",
       "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. The team are all back together. Frank joined in on festival season and learnt more than he'd bargained for at a farm. The team discuss Wimbledon, falling over and Peppa Pig. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/df6ec79e-817e-11ef-8fe9-cb7afbb0cb5e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1533179636.mp3?updated=1738241359",
+      "image_url": "https://megaphone.imgix.net/podcasts/dfcaa140-817e-11ef-8fe9-cbb3e0a2ec74/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8812593582.mp3?updated=1738241382",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4594",
@@ -13653,13 +13674,13 @@
       ]
     },
     {
-      "key": "ac8a01118c26f992d71356c23f3b95acc6b7568c",
+      "key": "f3df9ef0d8db8db71611fbc454d749aeadfbd2a7",
       "title": "The Frank Skinner Show - Pole Position",
       "published_at": "2015-07-04T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704161146.mp3",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704160258.mp3",
       "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. The team are all back together. Frank joined in on festival season and learnt more than he'd bargained for at a farm. The team discuss Wimbledon, falling over and Peppa Pig. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/dfcaa140-817e-11ef-8fe9-cbb3e0a2ec74/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8812593582.mp3?updated=1738241382",
+      "image_url": "https://megaphone.imgix.net/podcasts/df6ec79e-817e-11ef-8fe9-cb7afbb0cb5e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1533179636.mp3?updated=1738241359",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4594",
@@ -23155,6 +23176,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — Role-Playing As Ray Davies — speakers: Rob Auton, Frank Skinner
 - 2026-04-03 — Kinky Boots, Cardi B and Romeo and Juliet — speakers: Kinky Boots, Rob Auton, Frank Skinner
 - 2026-04-01 — Frank Skinner’s Radio Days: High Five — speakers: Frank Skinner
 - 2026-03-30 — It's Gone Very Music Hall — speakers: Frank Skinner
@@ -23754,9 +23776,9 @@
 - 2017-02-11 — The Frank Skinner Show - Unconventional Laughter — speakers: Frank Skinner
 - 2017-02-04 — The Frank Skinner Show - Drexit — speakers: Frank Skinner
 - 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
-- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-28 — Big Daddy's Birthday — speakers: Frank Skinner
 - 2017-01-28 — The Best of Frank 2009 - 2011 — speakers: Frank Skinner
+- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-27 — Frank in Conversation with Adrian Chiles — speakers: Radio Frank, Frank Skinner
 - 2017-01-21 — The Frank Skinner Show - Diamante Detail — speakers: Frank Skinner
 - 2017-01-14 — The Frank Skinner Show - The Abuse Of The Fork — speakers: Frank Skinner

@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-04-05T15:47:49+00:00`
-- checked_at: `2026-04-05T15:47:49+00:00`
-- etag: `"djEuMi4wOjE3NzUzOTY0NDU1MjA="`
+- fetched_at: `2026-04-06T03:40:57+00:00`
+- checked_at: `2026-04-06T03:40:57+00:00`
+- etag: `"djEuMi4wOjE3NzU0MzQ0MzkyNjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-04-05T15:47:49+00:00",
+  "fetched_at": "2026-04-06T03:40:57+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "0eb55bd8274600c749b8612f40ff1621399f8e09",
+      "title": "617 The Super Mario Galaxy Movie & Supergirl Trailer",
+      "published_at": "2026-04-05T16:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/617-the-super-mario-galaxy-movie-supergirl-trailer",
+      "description": "Nintendo and Illumination are back with their second animated feature, Super Mario Brothers 2 the Galaxy the movie. As with the last, this one looks to be a massive success despite an average reception. Plus we get into the Aragon recasting, a Dungeon Crawler Carl adaptation, the Scream 8 creative shake up and new trailers for Masters of the Universe and Supergirl. Thanks for listening. New bonus let's play Never Go Back video out now! Plus entire backcatalogue including ad-free feeds and early access on https://bigsandwich.co/ PLEASE be aware timecodes may shift up to a few minutes due to inserted ads. 00:00 The Start 03:27 New Aragorn Cast for Gollum Movie 07:42 Alan Ritchson Neighbour Fight 08:57 Dunger Crawler Carl TV Series 12:33 Scream 8 Confirmed 15:20 New Masters of the Universe Trailer 20:55 New Supergirl Trailer 28:26 The Super Mario Galaxy Movie Review 42:31 The Super Mario Galaxy Movie Spoilers 47:00 What We Reading, What We Gonna Read (Hoppers Spoilers for 90s) 54:15 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69d2665df57702d2d966594b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114010728",
+      "itunes_duration": "1:19:10",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "super",
+        "mario",
+        "galaxy",
+        "movie",
+        "supergirl"
+      ]
+    },
     {
       "key": "73ea597daab7ca601533c807d65cc255938f01c9",
       "title": "Ready Player One - Caravan Of Garbage",
@@ -22014,6 +22037,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-05 — 617 The Super Mario Galaxy Movie & Supergirl Trailer — speakers: James Clement, Nick Mason
 - 2026-04-02 — Ready Player One - Caravan Of Garbage — speakers: Ready Player One, James Clement, Nick Mason
 - 2026-03-30 — 616 Ready or Not 2/They Will Kill You & Trailers for Awful Remakes — speakers: James Clement, Nick Mason
 - 2026-03-26 — Serenity - Caravan Of Garbage — speakers: James Clement, Nick Mason
