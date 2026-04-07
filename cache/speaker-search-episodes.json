@@ -889,6 +889,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "39ff59050776e4135562737a3425988eef984269",
+        "episode_key": "39ff59050776e4135562737a3425988eef984269",
+        "title": "#473 - James Acaster, The Sad Van and Anne Tuna",
+        "published_at": "2025-09-19T16:35:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "473 episodes in and there is still room to excavate the vast intricacies that make up the Pompeii dig of John Robins’ mind. Grab your JCB because there’s a dump truck’s worth to uncover off the back of the latest adventures from the Sad Van. And it all boils down to one thing, as the hotels John’s willing to stay in si",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Ap0m3wz7x/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/473-james-acaster-the-sad-van-and-anne-tuna/id1465290044?i=1000727534694&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -11205,6 +11227,28 @@
         "feed_image_url": null,
         "description": "William Wordsworth, Carol Ann Duffy… Tim Key. Just a few of the great poets this fair nation has produced. But there are two more names to add to the pantheon, two new kids on the block: Elis James and John Robins. Our heroes have picked up their pens (opened their laptops), unfurled their manuscripts (opened Word), an",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lhfwsm.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/444-tim-key-he-needs-a-cup-run-and-bit-early-for/id1465290044?i=1000712292717&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "dda0c16fb1ce89893a898a36cd67191149243cca",
+        "episode_key": "dda0c16fb1ce89893a898a36cd67191149243cca",
+        "title": "#444 - Tim Key, He Needs A Cup Run and Bit Early For A Pint So I Have An Easter Egg",
+        "published_at": "2025-06-10T15:02:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "William Wordsworth, Carol Ann Duffy… Tim Key. Just a few of the great poets this fair nation has produced. But there are two more names to add to the pantheon, two new kids on the block: Elis James and John Robins. Our heroes have picked up their pens (opened their laptops), unfurled their manuscripts (opened Word), an",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Ap0lhfwhv/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/444-tim-key-he-needs-a-cup-run-and-bit-early-for/id1465290044?i=1000712292717&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,

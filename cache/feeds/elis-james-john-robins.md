@@ -3,10 +3,12 @@
 - slug: `elis-james-john-robins`
 - source: `https://podcasts.files.bbci.co.uk/m0005fdz.rss`
 - fetched_at: `2026-04-03T19:05:58+00:00`
-- checked_at: `2026-04-03T19:05:58+00:00`
+- checked_at: `2026-04-07T14:00:52+00:00`
 - etag: `"b25fd97d2c4c46c2df397c3991c36b7e"`
 - last_modified: `Fri, 03 Apr 2026 16:55:03 GMT`
 - max_episodes_per_feed: `2000`
+- status: `error`
+- last_error: The read operation timed out
 
 <!-- FEED_JSON -->
 ```json
@@ -12770,7 +12772,17 @@
         "hors"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-04-07T14:00:52+00:00",
+    "status": "error",
+    "checked_at": "2026-04-07T14:00:52+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "The read operation timed out"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-03-30T16:13:36+00:00`
-- checked_at: `2026-03-30T16:13:36+00:00`
-- etag: `"djEuMi4wOjE3NzQ4ODMyNjQ5MzA="`
+- fetched_at: `2026-04-07T14:00:52+00:00`
+- checked_at: `2026-04-07T14:00:52+00:00`
+- etag: `"djEuMi4wOjE3NzU1NjgyOTE4MDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-03-30T16:13:36+00:00",
+  "fetched_at": "2026-04-07T14:00:52+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "416d234773d71fff505d3a5145863684800ad382",
+      "title": "Bobby K Reacts to Moon Mission",
+      "published_at": "2026-04-07T13:24:51+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/bobby-k-reacts-to-moon-mission",
+      "description": "This week, Katherine's Telling Everybody Everything about what has been a punishing Easter holiday, with egg hunts, bunnies, booze and more! We think the children are only comfortable around a certain type of 'wizard' as evidenced by their standoffishness everywhere but at a celeb party. Famed conspiracy theorist, Bobby K joins us to discuss whether he believes four astronauts are currently orbiting the moon and we hear from Andrew Johnston, longtime producer of the pop culture talking points and now contributing in an even more riveting way, bringing us news of a cuckolded politicians husband who's been revealed as a Bimbo. You can follow both Bobby K @Bobby_k__ and Andrew Johnston @mandrewbrawnston on their socials x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1775567473621-ec5b82ce-1280-4fc2-8d8c-3c5d5444c875.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/69d505a3d2e95f5131af01d2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86283412",
+      "itunes_duration": "59:54",
+      "speakers": [
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "bobby",
+        "react",
+        "moon",
+        "mission"
+      ]
+    },
     {
       "key": "3e3d3df9380232e1497fbde0960e6c8ae8e46425",
       "title": "RIP Manny Ryan",
@@ -6029,6 +6050,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — Bobby K Reacts to Moon Mission — speakers: Katherine Ryan
 - 2026-03-30 — RIP Manny Ryan — speakers: Rip Manny Ryan, Katherine Ryan
 - 2026-03-23 — Taylor Frankie Paul and Manosphere REACTS — speakers: Frankie Paul, Katherine Ryan
 - 2026-03-16 — The Manosphere — speakers: Louis Theroux, Katherine Ryan
