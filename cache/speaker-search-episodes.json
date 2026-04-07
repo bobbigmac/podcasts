@@ -20862,6 +20862,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:46728eebbe84",
+        "feed_title": "The British Broadcasting Century with Paul Kerensa",
+        "source_rss_url": "https://feed.podbean.com/bbcentury/feed.xml",
+        "dedupe_key": "29d6c261b8373e49eb701dc8a61f13426bea372d",
+        "episode_key": "29d6c261b8373e49eb701dc8a61f13426bea372d",
+        "title": "#028 The First BBC Entertainers... and Lee Mack",
+        "published_at": "2021-05-24T06:57:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Season 2 begins! So please welcome to the microphone: entertainment! The very first.\n\nJourney back to November 16th 1922 - Day 3 of the BBC - to meet Auntie's first entertainers. But history being history, nothing's easy...\n\nDiscover why the BBC's first entertainers weren't the first after all, whether London, Birmingh",
+        "audio_url": "https://mcdn.podbean.com/mf/web/ztwwi4/s2e1_-_First_Entertainers_and_Lee_Mack8tj3w.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/028-the-first-bbc-entertainers-and-lee-mack/id1516471271?i=1000522884959&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
@@ -21405,6 +21427,28 @@
         "description": "Listen to full audiobooks for free on :\n\nhttps://esound.space/audible \n\nTitle: The Lee Mack Show\n\nAuthor: Lee Mack, Paul Kerensa, Simon Evans\n\nNarrator: Lee Mack, Angela McHale, Steve Brown\n\nFormat: Original Recording\n\nLength: 3 hrs and 54 mins\n\nLanguage: English\n\nRelease date: 11-26-07\n\nPublisher: BBC Worldwide Limite",
         "audio_url": "https://samples.audible.com/rt/bbcw/001810/rt_bbcw_001810_sample.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/the-lee-mack-show-by-lee-mack-free-audiobook/id1818777655?i=1000711524590&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:7b87114c8dbc",
+        "feed_title": "When Life Needs a Punchline - Free Audiobook, Your Hilarious Escape",
+        "source_rss_url": "https://hotaudiobook.com/tune/user/4031/index.xml",
+        "dedupe_key": "75e5286213fa2325c77c06dc3d6c7e1ff3864ebb",
+        "episode_key": "75e5286213fa2325c77c06dc3d6c7e1ff3864ebb",
+        "title": "Lee Mack Show, Series 2 - Lee Mack",
+        "published_at": "2007-11-12T12:21:26Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to the full audiobook free with a 30-day free trial : https://esound.space/full Title: Lee Mack Show, Series 2Author: Lee MackNarrator: Guests , Lee MackFormat: UnabridgedLength: 3:55:28Language: EnglishRelease date: 11-12-2007Publisher: Penguin Books LTDGenres: Non-Fiction, Art & MusicSummary:The star of TV’s ‘",
+        "audio_url": "https://hotaudiobook.com/book/audio/354879.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lee-mack-show-series-2-lee-mack/id1842650428?i=1000759788688&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

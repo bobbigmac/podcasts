@@ -3,11 +3,9 @@
 - slug: `oxventure-a-dungeons-dragons-podcast`
 - source: `https://outsidexbox.libsyn.com/rss`
 - fetched_at: `2026-03-02T21:49:55+00:00`
-- checked_at: `2026-04-07T14:00:52+00:00`
+- checked_at: `2026-04-07T16:18:30+00:00`
 - last_modified: `Mon, 02 Mar 2026 20:46:54 GMT`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: The read operation timed out
 
 <!-- FEED_JSON -->
 ```json
@@ -5863,17 +5861,7 @@
         "caper"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-04-07T14:00:52+00:00",
-    "status": "error",
-    "checked_at": "2026-04-07T14:00:52+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "The read operation timed out"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
