@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-04-07T19:32:08+00:00`
-- checked_at: `2026-04-07T19:32:08+00:00`
-- etag: `W/"27df4-uTOJwn+3YhlVeqbXDq9wfyBrh1k"`
+- fetched_at: `2026-04-07T21:58:04+00:00`
+- checked_at: `2026-04-07T21:58:04+00:00`
+- etag: `W/"279c0-5i5jNw9d6q0F9vr+9QmK1BTjSRQ"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,30 +17,13 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-04-07T19:32:08+00:00",
+  "fetched_at": "2026-04-07T21:58:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "15a196f277ed6c9ceb5e95bd0146f05da78d7c12",
-      "title": "#52 Jon Richardson Podcast",
-      "published_at": "2026-04-07T17:48:49+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/52-Jon-Richardson-Podcast-e3hingd",
-      "description": "#52 Jon Richardson Podcast",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1775584092838-ec6569efdcbfe.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118102989/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-7%2Fc709ba23-429b-f9f8-02c7-0085a203064e.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "23667243",
-      "itunes_duration": "00:49:07",
-      "speakers": [],
-      "topics": [
-        "richardson",
-        "podcast"
-      ]
-    },
     {
       "key": "7c6d1ec565cf752e4e1a61f71ea20100698c32d5",
       "title": "#51 Jon Richardson Podcast",
@@ -2822,7 +2805,6 @@
 
 ## Episodes (newest first)
 
-- 2026-04-07 — #52 Jon Richardson Podcast
 - 2026-04-06 — #51 Jon Richardson Podcast
 - 2026-04-05 — #50 Jon Richardson Podcast
 - 2026-04-04 — #49 Jon Richardson Podcast

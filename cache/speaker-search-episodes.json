@@ -8338,6 +8338,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "d10ff4b55affe007ffb897be08e027da639d0140",
+        "episode_key": "d10ff4b55affe007ffb897be08e027da639d0140",
+        "title": "#428 - Hunting Aled, Gen Sea and Harriet Kemsley",
+        "published_at": "2025-04-15T15:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Acceptance is the word on everybody’s lips today, but it has different meanings for Elis and John. For John it’s a meaningful form of accepting things as they are in life. For Elis it’s about accepting that his wife Isy will never be interested in the Nations League. Both are valid, I'm sure you'll agree.\nAlso getting ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Ap0l4j1bp/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/428-hunting-aled-gen-sea-and-harriet-kemsley/id1465290044?i=1000703606597&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f7b0ad5c7df5",
         "feed_title": "Pappy's Flatshare",
         "source_rss_url": "https://feeds.megaphone.fm/NSR6478712326",

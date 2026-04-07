@@ -2,9 +2,9 @@
 
 - slug: `rule-of-three`
 - source: `https://feeds.acast.com/public/shows/ruleofthree`
-- fetched_at: `2026-02-21T00:11:50+00:00`
-- checked_at: `2026-02-21T00:11:50+00:00`
-- etag: `"djEuMi4wOjE3NDE2ODQwNzM1MjA="`
+- fetched_at: `2026-04-07T21:58:04+00:00`
+- checked_at: `2026-04-07T21:58:04+00:00`
+- etag: `"djEuMi4wOjE3NzU1OTU1ODg5ODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.ruleofthreepod.com",
   "description": "Comedy writers Jason Hazeley and Joel Morris talk to people who make comedy about something funny that they love. Guests pick something that makes them laugh. A book, a film, a tv show, a comic, a radio show, anything. Maybe we find out something about...",
   "image_url": "https://assets.pippa.io/shows/611e81d706c05e1960f409ae/show-cover.jpg",
-  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "fetched_at": "2026-04-07T21:58:04+00:00",
   "owners": [
     "Joel Morris",
     "Jason Hazeley"
@@ -42,6 +42,7 @@
       "itunes_duration": "1:04:06",
       "speakers": [
         "Joel Morris",
+        "Many Rule",
         "Jason Hazeley"
       ],
       "topics": [
@@ -132,7 +133,6 @@
       "itunes_duration": "1:14:01",
       "speakers": [
         "Izzy Mant",
-        "Idil Sukan",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -206,7 +206,7 @@
       "itunes_duration": "55:21",
       "speakers": [
         "Lucy Mangan",
-        "Steve Martin",
+        "Steve Marti",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -327,7 +327,7 @@
       "speakers": [
         "Katy Wix",
         "Alan Partridge",
-        "Steve Coogan",
+        "Alan Par",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -350,7 +350,6 @@
       "itunes_duration": "1:15:19",
       "speakers": [
         "Paul Putner",
-        "Mel Smith",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -522,8 +521,6 @@
       "itunes_duration": "1:04:27",
       "speakers": [
         "Gabby Hutchinson-Crouch",
-        "Crazy Ex-Girlfriend",
-        "Tom Neenan",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -550,8 +547,6 @@
         "Jack Docherty",
         "Ivor Cutler",
         "Scot Squad",
-        "Velvet Donkey",
-        "Tom Neenan",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -577,7 +572,6 @@
       "itunes_duration": "59:34",
       "speakers": [
         "Rosie Jones",
-        "Royle Family",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -655,7 +649,6 @@
       "itunes_duration": "1:04:27",
       "speakers": [
         "Sarah Kendall",
-        "Dustin Hoffman",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -729,9 +722,6 @@
       "itunes_duration": "56:50",
       "speakers": [
         "Chuck Jones",
-        "Daffy Duck",
-        "Bugs Bunny",
-        "Road Runner",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -754,8 +744,6 @@
       "itunes_duration": "1:00:23",
       "speakers": [
         "Anna Crilly",
-        "Julia Davis",
-        "Rob Brydon",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -827,7 +815,6 @@
       "itunes_duration": "55:34",
       "speakers": [
         "Miles Jupp",
-        "Mixed Doubles",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -924,7 +911,6 @@
       "itunes_duration": "54:54",
       "speakers": [
         "Sanjeev Singh Kohli",
-        "Chris Morris",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -948,8 +934,6 @@
       "itunes_duration": "1:03:08",
       "speakers": [
         "Katy Brand",
-        "Rob Grant",
-        "Doug Naylor",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -1121,10 +1105,6 @@
       "enclosure_length": "116009697",
       "itunes_duration": "1:00:29",
       "speakers": [
-        "Matt Holness",
-        "Richard Ayoade",
-        "Alice Lowe",
-        "Matt Berry",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -1147,7 +1127,6 @@
       "speakers": [
         "John Luke Roberts",
         "Tom Lehrer Comedy",
-        "Tom Lehrer",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -1171,8 +1150,8 @@
       "itunes_duration": "1:05:53",
       "speakers": [
         "Margaret Cabourn-Smith",
-        "Jason Hazeley",
-        "Joel Morris"
+        "Joel Morris",
+        "Jason Hazeley"
       ],
       "topics": [
         "margaret",
@@ -1194,8 +1173,8 @@
       "itunes_duration": "1:07:22",
       "speakers": [
         "Mat Baynton",
-        "Jason Hazeley",
-        "Joel Morris"
+        "Joel Morris",
+        "Jason Hazeley"
       ],
       "topics": [
         "baynton",
@@ -1215,7 +1194,6 @@
       "itunes_duration": "1:07:59",
       "speakers": [
         "Paul King",
-        "Ernst Lubitsch",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -1240,8 +1218,7 @@
         "Shaun Micallef Writer",
         "Julia Davis",
         "Joel Morris",
-        "Jason Hazeley",
-        "Spiffington Manse"
+        "Jason Hazeley"
       ],
       "topics": [
         "barunka",
@@ -1263,9 +1240,8 @@
       "speakers": [
         "Ed Morrish",
         "John Finnemore",
-        "Jason Hazeley",
         "Joel Morris",
-        "Douglas Adams"
+        "Jason Hazeley"
       ],
       "topics": [
         "morrish",
@@ -1291,10 +1267,8 @@
       "speakers": [
         "Kevin Eldon",
         "Stewart Lee",
-        "Comedy Vehicle",
         "Joel Morris",
-        "Jason Hazeley",
-        "Eric Idle"
+        "Jason Hazeley"
       ],
       "topics": [
         "kevin",
@@ -1316,8 +1290,8 @@
       "speakers": [
         "Aisling Bea",
         "Ted Comedian",
-        "Jason Hazeley",
-        "Joel Morris"
+        "Joel Morris",
+        "Jason Hazeley"
       ],
       "topics": [
         "father"
@@ -1358,8 +1332,8 @@
       "itunes_duration": "1:05:25",
       "speakers": [
         "Sue Perkins",
-        "Jason Hazeley",
-        "Joel Morris"
+        "Joel Morris",
+        "Jason Hazeley"
       ],
       "topics": [
         "perkins",
@@ -1399,8 +1373,8 @@
       "itunes_duration": "1:01:16",
       "speakers": [
         "Matthew Holness",
-        "Joel Morris",
-        "Jason Hazeley"
+        "Jason Hazeley",
+        "Joel Morris"
       ],
       "topics": [
         "matthew",
@@ -1424,7 +1398,7 @@
       "itunes_duration": "1:06:14",
       "speakers": [
         "Katherine Jakeways",
-        "Tracey Ullman",
+        "Tracey Ul",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -1448,8 +1422,8 @@
       "itunes_duration": "1:12:22",
       "speakers": [
         "Cariad Lloyd",
-        "Jason Hazeley",
-        "Joel Morris"
+        "Joel Morris",
+        "Jason Hazeley"
       ],
       "topics": [
         "cariad",
@@ -1472,9 +1446,6 @@
         "Tony Way",
         "Fast Show",
         "Brian Pern",
-        "Eddie Murphy",
-        "Dan Aykroyd",
-        "Jamie Lee Curtis",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -1498,7 +1469,6 @@
       "speakers": [
         "Bill Hicks",
         "Carrie Quinlan",
-        "Bill Hicks one",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -1527,9 +1497,8 @@
       "speakers": [
         "David Quantick",
         "Harry Hill",
-        "Jason Hazeley",
         "Joel Morris",
-        "Terry Gilliam"
+        "Jason Hazeley"
       ],
       "topics": [
         "david",
@@ -1552,7 +1521,6 @@
       "speakers": [
         "Davey Jones",
         "Gilbert Ratchet",
-        "Leo Baxendale",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -1576,9 +1544,6 @@
       "speakers": [
         "Midnight Run Comedy",
         "Rufus Jones",
-        "Midnight Run",
-        "Robert De Niro",
-        "Charles Grodin",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -1649,8 +1614,6 @@
       "speakers": [
         "Danielle Ward",
         "Bottom Comedy",
-        "Rik Mayall",
-        "Ade Edmondson",
         "Joel Morris",
         "Jason Hazeley"
       ],
@@ -1673,8 +1636,7 @@
       "speakers": [
         "John Finnemore",
         "Joel Morris",
-        "Jason Hazeley",
-        "Armando Iannucci"
+        "Jason Hazeley"
       ],
       "topics": [
         "john",
@@ -1694,8 +1656,8 @@
       "enclosure_length": "1374163",
       "itunes_duration": "0:56",
       "speakers": [
-        "Jason Hazeley",
-        "Joel Morris"
+        "Joel Morris",
+        "Jason Hazeley"
       ],
       "topics": [
         "rule"
@@ -1708,72 +1670,72 @@
 
 ## Episodes (newest first)
 
-- 2023-02-09 — TASTER: The Best Of Comfort Blanket (series 1 and 2) — speakers: Joel Morris, Jason Hazeley
+- 2023-02-09 — TASTER: The Best Of Comfort Blanket (series 1 and 2) — speakers: Joel Morris, Many Rule, Jason Hazeley
 - 2022-04-05 — Comfort Blanket - new podcast - TRAILER — speakers: Joel Morris, Jason Hazeley
 - 2020-05-06 — Andrew Hunter-Murray on The Meaning Of Liff — speakers: Andrew Hunter-Murray, Douglas Adams, John Lloyd, Joel Morris, Jason Hazeley
 - 2020-04-30 — Moose Allain on The Far Side — speakers: Gary Larson, Joel Morris, Jason Hazeley
-- 2020-04-22 — Izzy Mant on The Comic Strip: The Strike — speakers: Izzy Mant, Idil Sukan, Joel Morris, Jason Hazeley
+- 2020-04-22 — Izzy Mant on The Comic Strip: The Strike — speakers: Izzy Mant, Joel Morris, Jason Hazeley
 - 2020-04-15 — Robin Ince on John Waters' Hairspray (1988) — speakers: Robin Ince, John Waters, Comedian Robin Ince, Joel Morris, Jason Hazeley
 - 2020-04-08 — Joe Thomas on The Office: Quiz Night — speakers: Joe Thomas, Joel Morris, Jason Hazeley
-- 2020-04-01 — Lucy Mangan on Steve Martin Live (1979) — speakers: Lucy Mangan, Steve Martin, Joel Morris, Jason Hazeley
+- 2020-04-01 — Lucy Mangan on Steve Martin Live (1979) — speakers: Lucy Mangan, Steve Marti, Joel Morris, Jason Hazeley
 - 2020-03-26 — Eddie Izzard on John Lithgow PART TWO — speakers: John Lithgow, Joel Morris, Jason Hazeley
 - 2020-03-22 — SPECIAL: Remain Indoors (with David Mitchell & Jonathan Dryden-Taylor) — speakers: David Mitchell, Jonathan Dryden-Taylor, Joel Morris, Jason Hazeley
 - 2020-03-19 — Eddie Izzard on John Lithgow PART ONE — speakers: John Lithgow, Joel Morris, Jason Hazeley
 - 2020-03-12 — Jim Field-Smith on Ghostbusters — speakers: Jim Field-Smith, Jim-Field Smith, Joel Morris, Jason Hazeley
-- 2020-03-05 — Katy Wix on Knowing Me Knowing You With Alan Partridge — speakers: Katy Wix, Alan Partridge, Steve Coogan, Joel Morris, Jason Hazeley
-- 2020-02-27 — Paul Putner on the Not The Nine O'Clock News LP — speakers: Paul Putner, Mel Smith, Joel Morris, Jason Hazeley
+- 2020-03-05 — Katy Wix on Knowing Me Knowing You With Alan Partridge — speakers: Katy Wix, Alan Partridge, Alan Par, Joel Morris, Jason Hazeley
+- 2020-02-27 — Paul Putner on the Not The Nine O'Clock News LP — speakers: Paul Putner, Joel Morris, Jason Hazeley
 - 2020-02-20 — Helen Monks on Nicola Murray (The Thick Of It) — speakers: Helen Monks, Joel Morris, Jason Hazeley
 - 2020-02-13 — Lucy Prebble on When Harry Met Sally — speakers: Lucy Prebble, Harry Met Sally, Nora Ephron, Rob Reiner, Joel Morris, Jason Hazeley
 - 2020-02-06 — Robert Webb on The Young Ones: 'Bambi' — speakers: Robert Webb, Joel Morris, Jason Hazeley
 - 2019-09-26 — Tom Neenan on Shaun Of The Dead (LIVE) — speakers: Tom Neenan, Simon Pegg, Edgar Wright, Joel Morris, Jason Hazeley
 - 2019-09-19 — Marcus Brigstocke on The Great Gonzo — speakers: Marcus Brigstocke, Joel Morris, Jason Hazeley
 - 2019-09-12 — Simon Evans on P'Tang Yang Kipperbang by Jack Rosenthal — speakers: Simon Evans, P'Tang Yang, Jack Rosenthal, Comedian Simon Evans, Joel Morris, Jason Hazeley
-- 2019-09-05 — Gabby Hutchinson-Crouch on Crazy Ex-Girlfriend: Episode 1 — speakers: Gabby Hutchinson-Crouch, Crazy Ex-Girlfriend, Tom Neenan, Joel Morris, Jason Hazeley
-- 2019-08-29 — Jack Docherty on Ivor Cutler's Velvet Donkey — speakers: Jack Docherty, Ivor Cutler, Scot Squad, Velvet Donkey, Tom Neenan, Joel Morris, Jason Hazeley
-- 2019-08-22 — Rosie Jones on The Royle Family: The Queen of Sheba — speakers: Rosie Jones, Royle Family, Joel Morris, Jason Hazeley
+- 2019-09-05 — Gabby Hutchinson-Crouch on Crazy Ex-Girlfriend: Episode 1 — speakers: Gabby Hutchinson-Crouch, Joel Morris, Jason Hazeley
+- 2019-08-29 — Jack Docherty on Ivor Cutler's Velvet Donkey — speakers: Jack Docherty, Ivor Cutler, Scot Squad, Joel Morris, Jason Hazeley
+- 2019-08-22 — Rosie Jones on The Royle Family: The Queen of Sheba — speakers: Rosie Jones, Joel Morris, Jason Hazeley
 - 2019-08-15 — Sarah Morgan on Romy & Michele's High School Reunion — speakers: Sarah Morgan, Tracey Ullman, Joel Morris, Jason Hazeley
 - 2019-08-08 — Robert Popper on Fawlty Towers: The Hotel Inspectors — speakers: Robert Popper, Joel Morris, Jason Hazeley
-- 2019-08-01 — Sarah Kendall on Tootsie — speakers: Sarah Kendall, Dustin Hoffman, Joel Morris, Jason Hazeley
+- 2019-08-01 — Sarah Kendall on Tootsie — speakers: Sarah Kendall, Joel Morris, Jason Hazeley
 - 2019-07-25 — Andy Stanton on Bachelor Boys: The Young Ones Book — speakers: Andy Stanton, Joel Morris, Jason Hazeley
 - 2019-07-18 — Laurence Rickard on Monty Python's Life Of Brian — speakers: Laurence Rickard, Joel Morris, Jason Hazeley
-- 2019-05-16 — Phill Jupitus on Chuck Jones — speakers: Chuck Jones, Daffy Duck, Bugs Bunny, Road Runner, Joel Morris, Jason Hazeley
-- 2019-05-09 — Anna Crilly on Human Remains — speakers: Anna Crilly, Julia Davis, Rob Brydon, Joel Morris, Jason Hazeley
+- 2019-05-16 — Phill Jupitus on Chuck Jones — speakers: Chuck Jones, Joel Morris, Jason Hazeley
+- 2019-05-09 — Anna Crilly on Human Remains — speakers: Anna Crilly, Joel Morris, Jason Hazeley
 - 2019-05-02 — Lucy Porter on Ellen Degeneres: One Night Stand (1990) — speakers: Lucy Porter, Ellen Degeneres, Joel Morris, Jason Hazeley
 - 2019-04-25 — Nadia Shireen on Smash Hits — speakers: Nadia Shireen, Joel Morris, Jason Hazeley
-- 2019-04-18 — Miles Jupp on Frasier: 'Mixed Doubles' — speakers: Miles Jupp, Mixed Doubles, Joel Morris, Jason Hazeley
+- 2019-04-18 — Miles Jupp on Frasier: 'Mixed Doubles' — speakers: Miles Jupp, Joel Morris, Jason Hazeley
 - 2019-04-11 — Matt Lucas on Gerard Hoffnung — speakers: Matt Lucas, Gerard Hoffnung Comedian, Gerard Hoffnung, Joel Morris, Jason Hazeley
 - 2019-04-04 — Charlie Brooker on Airplane! — speakers: Charlie Brooker, Joel Morris, Jason Hazeley
 - 2019-03-28 — Beardyman on Kenny Everett's 'World's Worst Record Show' — speakers: Kenny Everett, Darren Foreman, Joel Morris, Jason Hazeley
-- 2019-03-21 — Sanjeev Singh Kohli on Blue Jam — speakers: Sanjeev Singh Kohli, Chris Morris, Joel Morris, Jason Hazeley
-- 2019-03-14 — Katy Brand on Red Dwarf: Infinity Welcomes Careful Drivers — speakers: Katy Brand, Rob Grant, Doug Naylor, Joel Morris, Jason Hazeley
+- 2019-03-21 — Sanjeev Singh Kohli on Blue Jam — speakers: Sanjeev Singh Kohli, Joel Morris, Jason Hazeley
+- 2019-03-14 — Katy Brand on Red Dwarf: Infinity Welcomes Careful Drivers — speakers: Katy Brand, Joel Morris, Jason Hazeley
 - 2019-03-07 — Josh Weinstein on SCTV — speakers: Josh Weinstein, Joel Morris, Jason Hazeley
 - 2019-02-28 — Dara Ó Briain on Eddie Izzard: Definite Article — speakers: Dara O'Briain, Joel Morris, Jason Hazeley
 - 2018-12-25 — XMAS SPECIAL 2: Sara Gibbs on A Charlie Brown Christmas — speakers: Charlie Brown Christmas, Sara Gibbs, Dead Ringers, Joel Morris, Jason Hazeley
 - 2018-12-23 — XMAS SPECIAL 1: Neil Forsyth on Morecambe & Wise Xmas 1977 — speakers: Neil Forsyth, Eddie Braben, Joel Morris, Jason Hazeley
 - 2018-12-20 — Chris Addison on Victoria Wood As Seen On TV — speakers: Chris Addison, Joel Morris, Jason Hazeley
 - 2018-12-13 — Caroline Norris on Trevor and Simon — speakers: Caroline Norris, Simon Award, Tracey Ullman, Joel Morris, Jason Hazeley
-- 2018-12-06 — Nish Kumar on Darkplace — speakers: Matt Holness, Richard Ayoade, Alice Lowe, Matt Berry, Joel Morris, Jason Hazeley
-- 2018-11-29 — John Luke Roberts on Tom Lehrer — speakers: John Luke Roberts, Tom Lehrer Comedy, Tom Lehrer, Joel Morris, Jason Hazeley
-- 2018-11-22 — Margaret Cabourn-Smith on A Bit Of Fry & Laurie — speakers: Margaret Cabourn-Smith, Jason Hazeley, Joel Morris
-- 2018-11-15 — Mat Baynton on The Big Lebowski — speakers: Mat Baynton, Jason Hazeley, Joel Morris
-- 2018-11-08 — Paul King on To Be Or Not To Be — speakers: Paul King, Ernst Lubitsch, Joel Morris, Jason Hazeley
-- 2018-11-01 — Barunka O'Shaughnessy on Shaun Micallef — speakers: Barunka O'Shaughnessy, Shaun Micallef Writer, Julia Davis, Joel Morris, Jason Hazeley, Spiffington Manse
-- 2018-10-25 — Ed Morrish on The Hitch-Hiker's Guide To The Galaxy (radio series) — speakers: Ed Morrish, John Finnemore, Jason Hazeley, Joel Morris, Douglas Adams
-- 2018-10-18 — Kevin Eldon on The Rutles — speakers: Kevin Eldon, Stewart Lee, Comedy Vehicle, Joel Morris, Jason Hazeley, Eric Idle
-- 2018-10-11 — Aisling Bea on Father Ted — speakers: Aisling Bea, Ted Comedian, Jason Hazeley, Joel Morris
+- 2018-12-06 — Nish Kumar on Darkplace — speakers: Joel Morris, Jason Hazeley
+- 2018-11-29 — John Luke Roberts on Tom Lehrer — speakers: John Luke Roberts, Tom Lehrer Comedy, Joel Morris, Jason Hazeley
+- 2018-11-22 — Margaret Cabourn-Smith on A Bit Of Fry & Laurie — speakers: Margaret Cabourn-Smith, Joel Morris, Jason Hazeley
+- 2018-11-15 — Mat Baynton on The Big Lebowski — speakers: Mat Baynton, Joel Morris, Jason Hazeley
+- 2018-11-08 — Paul King on To Be Or Not To Be — speakers: Paul King, Joel Morris, Jason Hazeley
+- 2018-11-01 — Barunka O'Shaughnessy on Shaun Micallef — speakers: Barunka O'Shaughnessy, Shaun Micallef Writer, Julia Davis, Joel Morris, Jason Hazeley
+- 2018-10-25 — Ed Morrish on The Hitch-Hiker's Guide To The Galaxy (radio series) — speakers: Ed Morrish, John Finnemore, Joel Morris, Jason Hazeley
+- 2018-10-18 — Kevin Eldon on The Rutles — speakers: Kevin Eldon, Stewart Lee, Joel Morris, Jason Hazeley
+- 2018-10-11 — Aisling Bea on Father Ted — speakers: Aisling Bea, Ted Comedian, Joel Morris, Jason Hazeley
 - 2018-10-04 — Tom Davis on The Wonder Years — speakers: Tom Davis, Joel Morris, Jason Hazeley
-- 2018-09-27 — Sue Perkins on This Is Spinal Tap - LIVE! — speakers: Sue Perkins, Jason Hazeley, Joel Morris
+- 2018-09-27 — Sue Perkins on This Is Spinal Tap - LIVE! — speakers: Sue Perkins, Joel Morris, Jason Hazeley
 - 2018-08-09 — SERIES ONE: The Clip Show — speakers: Joel Morris, Jason Hazeley
-- 2018-07-19 — Matthew Holness on Monty Python's Holy Grail LP — speakers: Matthew Holness, Joel Morris, Jason Hazeley
-- 2018-07-12 — Katherine Jakeways on Ever Decreasing Circles — speakers: Katherine Jakeways, Tracey Ullman, Joel Morris, Jason Hazeley
-- 2018-07-05 — Cariad Lloyd on Whose Line Is It Anyway? — speakers: Cariad Lloyd, Jason Hazeley, Joel Morris
-- 2018-06-28 — Tony Way on Trading Places — speakers: Tony Way, Fast Show, Brian Pern, Eddie Murphy, Dan Aykroyd, Jamie Lee Curtis, Joel Morris, Jason Hazeley
-- 2018-06-21 — "Stopping Stand Up" SPECIAL with Carrie Quinlan & Marc Haynes, on Bill Hicks — speakers: Bill Hicks, Carrie Quinlan, Bill Hicks one, Joel Morris, Jason Hazeley
-- 2018-06-14 — David Quantick on Time Bandits — speakers: David Quantick, Harry Hill, Jason Hazeley, Joel Morris, Terry Gilliam
-- 2018-06-07 — Davey Jones on Leo Baxendale — speakers: Davey Jones, Gilbert Ratchet, Leo Baxendale, Joel Morris, Jason Hazeley
-- 2018-05-31 — Rufus Jones on Midnight Run — speakers: Midnight Run Comedy, Rufus Jones, Midnight Run, Robert De Niro, Charles Grodin, Joel Morris, Jason Hazeley
+- 2018-07-19 — Matthew Holness on Monty Python's Holy Grail LP — speakers: Matthew Holness, Jason Hazeley, Joel Morris
+- 2018-07-12 — Katherine Jakeways on Ever Decreasing Circles — speakers: Katherine Jakeways, Tracey Ul, Joel Morris, Jason Hazeley
+- 2018-07-05 — Cariad Lloyd on Whose Line Is It Anyway? — speakers: Cariad Lloyd, Joel Morris, Jason Hazeley
+- 2018-06-28 — Tony Way on Trading Places — speakers: Tony Way, Fast Show, Brian Pern, Joel Morris, Jason Hazeley
+- 2018-06-21 — "Stopping Stand Up" SPECIAL with Carrie Quinlan & Marc Haynes, on Bill Hicks — speakers: Bill Hicks, Carrie Quinlan, Joel Morris, Jason Hazeley
+- 2018-06-14 — David Quantick on Time Bandits — speakers: David Quantick, Harry Hill, Joel Morris, Jason Hazeley
+- 2018-06-07 — Davey Jones on Leo Baxendale — speakers: Davey Jones, Gilbert Ratchet, Joel Morris, Jason Hazeley
+- 2018-05-31 — Rufus Jones on Midnight Run — speakers: Midnight Run Comedy, Rufus Jones, Joel Morris, Jason Hazeley
 - 2018-05-24 — Jon Holmes on Monty Python's Contractual Obligation Album — speakers: Jon Holmes, Joel Morris, Jason Hazeley
 - 2018-05-17 — Isy Suttie on Love Nina — speakers: Isy Suttie, Joel Morris, Jason Hazeley
-- 2018-05-10 — Danielle Ward on Bottom — speakers: Danielle Ward, Bottom Comedy, Rik Mayall, Ade Edmondson, Joel Morris, Jason Hazeley
-- 2018-05-03 — John Finnemore on On The Hour — speakers: John Finnemore, Joel Morris, Jason Hazeley, Armando Iannucci
-- 2018-03-20 — RULE OF 3 - THE TRAILER — speakers: Jason Hazeley, Joel Morris
+- 2018-05-10 — Danielle Ward on Bottom — speakers: Danielle Ward, Bottom Comedy, Joel Morris, Jason Hazeley
+- 2018-05-03 — John Finnemore on On The Hour — speakers: John Finnemore, Joel Morris, Jason Hazeley
+- 2018-03-20 — RULE OF 3 - THE TRAILER — speakers: Joel Morris, Jason Hazeley
