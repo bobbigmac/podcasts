@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-04-06T03:40:57+00:00`
-- checked_at: `2026-04-06T03:40:57+00:00`
-- etag: `"djEuMi4wOjE3NzU0MzQ0MzkyNjY="`
+- fetched_at: `2026-04-07T07:49:47+00:00`
+- checked_at: `2026-04-07T07:49:47+00:00`
+- etag: `"djEuMi4wOjE3NzU1NDMwMTY0ODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-04-06T03:40:57+00:00",
+  "fetched_at": "2026-04-07T07:49:47+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"

@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-04-06T08:02:08+00:00`
-- checked_at: `2026-04-06T08:02:08+00:00`
-- etag: `"176c77b57af00c3a2bedd12a783d10b5"`
-- last_modified: `Mon, 06 Apr 2026 04:00:05 GMT`
+- fetched_at: `2026-04-07T07:49:47+00:00`
+- checked_at: `2026-04-07T07:49:47+00:00`
+- etag: `"45e9f8062ea50efe96e388278b80d70a"`
+- last_modified: `Tue, 07 Apr 2026 04:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-04-06T08:02:08+00:00",
+  "fetched_at": "2026-04-07T07:49:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -968,24 +968,6 @@
         "naked",
         "week"
       ]
-    },
-    {
-      "key": "ee6e68bac35191248659aea6addb8e445186acc2",
-      "title": "Call Jonathan Pie",
-      "published_at": "2025-04-07T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0l2sbrr",
-      "description": "The first four episodes of Call Jonathan Pie series 2 are now available on BBC Sounds, subscribe to be alerted when new episodes in the series are released. Frustrated call-show host Jonathan Pie is back along with his trusted team – Pie’s finding the daily grind difficult and the team have all become as disillusioned with the world as he has. The new series kicks off with a discussion about the BBC licence fee, or at least it was supposed to. It soon becomes clear however that Pie must answer for past mistakes. Call Jonathan Pie is written and performed by Tom Walker. With additional material by Nick Revell and Daniel Abelson Jules ….. Lucy Pearman Sam ….. Aqib Khan Roger ….. Nick Revell. The callers; Adam Byron, Laura Shavin, Daniel Abelson, Sarah Gabriel and Ed Kear Producers Alison Vernon-Smith and Julian Mayers A Yada-Yada Audio Production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l2sbqj.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27200000",
-      "itunes_duration": "1700",
-      "speakers": [
-        "Jonathan Pie"
-      ],
-      "topics": [
-        "jonathan"
-      ]
     }
   ]
 }
@@ -1043,4 +1025,3 @@
 - 2025-04-28 — Mark Watson Talks a Bit About Life — speakers: Mark Watson Talks, Mark Watson
 - 2025-04-21 — The Skewer — speakers: Jon Holmes
 - 2025-04-14 — Introducing: The Naked Week
-- 2025-04-07 — Call Jonathan Pie — speakers: Jonathan Pie
