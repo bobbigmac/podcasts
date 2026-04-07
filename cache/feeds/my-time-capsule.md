@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-04-06T13:46:11+00:00`
-- checked_at: `2026-04-06T13:46:11+00:00`
-- etag: `"djEuMi4wOjE3NzU0ODI0Nzc2MzI="`
+- fetched_at: `2026-04-07T03:30:40+00:00`
+- checked_at: `2026-04-07T03:30:40+00:00`
+- etag: `"djEuMi4wOjE3NzU1MTY1NTk0MzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-04-06T13:46:11+00:00",
+  "fetched_at": "2026-04-07T03:30:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,35 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cdf27fdea4bd43a7bf1d8b6ea660cc4c65e9b654",
+      "title": "Ep. 576 - Riki Lindhome - Actor, comedian from film Million Dollar Baby and TV Wednesday & Big Bang Theory",
+      "published_at": "2026-04-06T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-576-riki-lindhome-actor-comedian-from-film-million-dollar",
+      "description": "Riki Lindhome is an, actor, comedian and musician whose career spans film, television and music. She got her first major break when Tim Robbins cast her in his hit play Embedded , before making her film debut in Million Dollar Baby, directed by Clint Eastwood. She has since appeared in a wide range of projects, includingas Dr. Valerie Kinbott in Wednesday on Netflix , Knives Out alongside Daniel Craig, The Big Bang Theory, Modern Family and Gilmore Girls , as well as films such as The Wolf of Snow Hollow . Alongside her on-screen work, Riki is an accomplished songwriter, writing for series including Scrubs , Duncanville and The Big Bang Theory , and contributing music to films like The LEGO Movie 2 , The Addams Family and The SpongeBob Movie . She also earned an Emmy nomination for her song “Frozen Lullaby.” Riki co-created and starred in Comedy Central’s Another Period and the series Garfunkel and Oates , based on her musical comedy duo with Kate Micucci. The duo has amassed over 80 million YouTube views, released three chart-topping comedy albums, and been recognised in the Comedy Hall of Fame. She is currently performing her sell-out show Dead Inside at Soho Theatre in London until the 18th of April . Riki Lindhome is our guest in episode 576 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Tickets for Riki’s Soho Theatre run available here - https://sohotheatre.com/events/riki-lindhome-dead-inside . Follow Riki Lindhome on Instagram : @rikilindhome . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69d3b66df57702d2d9d9aece/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50228161",
+      "itunes_duration": "41:51",
+      "speakers": [
+        "Riki Lindhome",
+        "Million Dollar Baby",
+        "Big Bang Theory Riki"
+      ],
+      "topics": [
+        "riki",
+        "lindhome",
+        "actor",
+        "comedian",
+        "film",
+        "dollar",
+        "baby",
+        "wednesday",
+        "bang",
+        "theory"
+      ]
+    },
     {
       "key": "16eb9e8360cfb41e4c65d6a637db5a0b75111c00",
       "title": "Easter Apology",
@@ -12285,6 +12314,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-06 — Ep. 576 - Riki Lindhome - Actor, comedian from film Million Dollar Baby and TV Wednesday & Big Bang Theory — speakers: Riki Lindhome, Million Dollar Baby, Big Bang Theory Riki
 - 2026-04-05 — Easter Apology — speakers: Easter Apology No, Happy Easter, Follow My Time Capsule
 - 2026-04-03 — Ep. 575 - Daniel Edison - Award winning one-liner comedian, as seen on Britain's Got Talent 2026. — speakers: Daniel Edison Award, Snows Comedy Star, Daniel Edison
 - 2026-03-29 — Ep. 574 - David Arnold - Film composer of 5 James Bond films, Independence Day, Godzilla and many more — speakers: David Arnold Film, David Arnold

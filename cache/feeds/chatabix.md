@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-04-06T21:51:26+00:00`
-- checked_at: `2026-04-06T21:51:26+00:00`
-- last_modified: `Mon, 06 Apr 2026 21:02:44 GMT`
+- fetched_at: `2026-04-07T03:30:40+00:00`
+- checked_at: `2026-04-07T03:30:40+00:00`
+- last_modified: `Tue, 07 Apr 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-06T21:51:26+00:00",
+  "fetched_at": "2026-04-07T03:30:40+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "e8e4393f3a846e9ccb06c83a804612ab2d4210bb",
+      "title": "S15 Ep 812: Camden Memories and The Town Game",
+      "published_at": "2026-04-07T02:00:00+00:00",
+      "link": null,
+      "description": "Joe’s filming in London at the moment, very near to Camden. Which is where his wife Petra used to live when they first dated and also where he spent a lot of time gigging in his early comedy days. He had a magical morning walking around the area and reminiscing - so discussing all of that with David takes up the first half of the episode. Joe’s morning also gave him an idea for a game they can play, where they randomly select a UK location and immediately have to recount any memories they have from that town or city. So that’s the second part of the show sorted. Enjoy! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠YouTube⁠ ⁠Instagram⁠ ⁠TikTok⁠ ⁠Patreon⁠ ⁠Merch⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6177009579.mp3?updated=1775117541",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3133",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "camden",
+        "memories",
+        "town",
+        "game"
+      ]
+    },
     {
       "key": "48691e7e3778028d702b5f25139a7b900fc72478",
       "title": "S15 Ep 811 Vault Mondays: Bluetooth and The Word Game",
@@ -10419,6 +10441,30 @@
       ]
     },
     {
+      "key": "f712aae5f7b66d93af8b8a8af248ce019437fb7e",
+      "title": "Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton",
+      "published_at": "2024-01-08T14:35:00+00:00",
+      "link": null,
+      "description": "This ep is from the Chatavaults and was originally released in Sept 2022. Paul Gorton is back with loads more anecdotes from his 'Deal or No Deal' days. He tells us tales of backstage camaraderie and gives a glimpse into the mind games going on with Noel Edmunds. It's the first time Paul met Noel so he was a bit nervous. David asks what Noel was wearing and they have a long conversation about his hair. Paul tells David & Joe about the dodgy hotel the contestants stayed in, feeling more confident on the show, trying to remember the box numbers and a very awkward kiss ! Paul Gorton is currently in BBC One show The Traitors UK S2. https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7048305337.mp3?updated=1704724734",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3896",
+      "speakers": [
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "gorton",
+        "deal",
+        "saga",
+        "traitors",
+        "paul"
+      ]
+    },
+    {
       "key": "ef1b582767a738b4d57bedcab718ba69a050375b",
       "title": "Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton",
       "published_at": "2024-01-08T14:35:00+00:00",
@@ -10437,30 +10483,6 @@
       "topics": [
         "gorton",
         "start",
-        "deal",
-        "saga",
-        "traitors",
-        "paul"
-      ]
-    },
-    {
-      "key": "f712aae5f7b66d93af8b8a8af248ce019437fb7e",
-      "title": "Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton",
-      "published_at": "2024-01-08T14:35:00+00:00",
-      "link": null,
-      "description": "This ep is from the Chatavaults and was originally released in Sept 2022. Paul Gorton is back with loads more anecdotes from his 'Deal or No Deal' days. He tells us tales of backstage camaraderie and gives a glimpse into the mind games going on with Noel Edmunds. It's the first time Paul met Noel so he was a bit nervous. David asks what Noel was wearing and they have a long conversation about his hair. Paul tells David & Joe about the dodgy hotel the contestants stayed in, feeling more confident on the show, trying to remember the box numbers and a very awkward kiss ! Paul Gorton is currently in BBC One show The Traitors UK S2. https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7048305337.mp3?updated=1704724734",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3896",
-      "speakers": [
-        "Paul Gorton",
-        "Joe Wilkinson",
-        "David Earl"
-      ],
-      "topics": [
-        "gorton",
         "deal",
         "saga",
         "traitors",
@@ -14284,6 +14306,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — S15 Ep 812: Camden Memories and The Town Game — speakers: Joe Wilkinson, David Earl
 - 2026-04-06 — S15 Ep 811 Vault Mondays: Bluetooth and The Word Game — speakers: Vault Mondays, Joe Wilkinson, David Earl
 - 2026-04-03 — S15 Ep 810 Listener’s Mailbag: Sexy Joe and Fix My Quip — speakers: Sexy Joe, Fix My Quip Time, Joe Wilkinson, David Earl
 - 2026-04-02 — S15 Ep 809: Live Tours, Cokey Z and Only Me - Part 2 — speakers: Joe Wilkinson, David Earl
@@ -14754,8 +14777,8 @@
 - 2024-01-09 — S10 Ep 346 Usual Drivel: David Goes Running — speakers: David Goes Running David, Joe Wilkinson, David Earl
 - 2024-01-08 — Gorton Part 4. The moment and even more DOND: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — Gorton Part 3. The Deal Or No Deal saga rolls on: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
-- 2024-01-08 — Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — S10 Ep 341. Emergency Pod: Deep Dive Ep 3 The Traitors — speakers: Deep Dive, Joe Wilkinson, David Earl
 - 2024-01-05 — S10 Ep 340 Emergency Pod: Dissecting Ep 2 The Traitors — speakers: Joe Wilkinson, David Earl
 - 2024-01-04 — S10 Ep 339 Emergency Pod: Debrief Traitors Ep 1 — speakers: Joe Wilkinson, David Earl
