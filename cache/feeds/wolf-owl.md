@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-04-07T03:30:40+00:00`
-- checked_at: `2026-04-07T03:30:40+00:00`
-- last_modified: `Mon, 06 Apr 2026 23:01:00 GMT`
+- fetched_at: `2026-04-07T10:16:54+00:00`
+- checked_at: `2026-04-07T10:16:54+00:00`
+- last_modified: `Tue, 07 Apr 2026 08:29:45 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-07T03:30:40+00:00",
+  "fetched_at": "2026-04-07T10:16:54+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -34,10 +34,10 @@
       "link": null,
       "description": "What Marvel hero would Rom play? When will Tom get his driving license?How often do blokes brush their hair? And when did Tom stop believing in the Easter bunny? This week we discuss all of this, plus hear even more of Tom’s many impressions and decide that we should treat everyone we meet as a potential friend. Don’t forget to send in your questions, pictures and voice notes to wolfowlpod@gmail.com for the chance to have them answered in an upcoming episode. A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 01:20 When Marvel call 10:50 The Simple Son 13:04 Wolf & Owl soap opera 18:15 Hayfever and spiders 23:10 Community spirit 25:44 Hair brushing 28:30 Pete the axe 30:45 Driving lessons 40:18 Takeaway trauma 43:01 Cold callers 47:24 Beliefs, rocket ships and Jaffa Cakes 52:33 Tom's final thought Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/50645a2e-2eab-11f1-a41a-835b2d1df5c5/image/311716b61dc764ae1040fe57df9ba5b9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8370119187.mp3?updated=1775160014",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8370119187.mp3?updated=1775550815",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3274",
+      "itunes_duration": "3454",
       "speakers": [
         "Soap Dramas",
         "Spider Bites",
