@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-04-07T16:18:30+00:00`
-- checked_at: `2026-04-07T16:18:30+00:00`
-- last_modified: `Tue, 07 Apr 2026 15:56:50 GMT`
+- fetched_at: `2026-04-07T19:32:08+00:00`
+- checked_at: `2026-04-07T19:32:08+00:00`
+- last_modified: `Tue, 07 Apr 2026 19:29:53 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-07T16:18:30+00:00",
+  "fetched_at": "2026-04-07T19:32:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "65092b15af6af18cc3d788c0b2f5ee0c366dc114",
+      "title": "518. Is Trump a Fascist and is His War on Iran Unwinnable?",
+      "published_at": "2026-04-07T19:29:00+00:00",
+      "link": null,
+      "description": "Has Trump crossed the line from right-wing populist to fascist? Is he fighting a war with Iran he cannot win? Is Iraq being dragged in against its will? Join Dominic Sandbrook and Alastair Campbell as they answer all these questions and more. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus: Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. To sign up and for terms and conditions, visit fuseenergy.com/politics . Get our exclusive NordVPN deal here ➼ https://nordvpn.com/restispolitics It's risk-free with Nord's 30-day money-back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, James Clayden Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bdfe04f8-3299-11f1-a20a-a74e1626e449/image/090f9fb93e7cff2e7c020ef44b3b8902.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8110755649.mp3?updated=1775590489",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3046",
+      "speakers": [],
+      "topics": [
+        "trump",
+        "fascist",
+        "iran",
+        "unwinnable"
+      ]
+    },
     {
       "key": "07b99ee878efdb85879fae82d4c5cd5adc7253ae",
       "title": "The Real Reasons Populism Is Taking Over",
@@ -11483,6 +11502,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — 518. Is Trump a Fascist and is His War on Iran Unwinnable?
 - 2026-04-02 — The Real Reasons Populism Is Taking Over
 - 2026-04-01 — 517. Is Trump Plotting Regime Change in Cuba? (Question Time)
 - 2026-03-31 — 516. Trump’s Iran Delusion and the Limits of American Power — speakers: Iran Delusion, American Power Why

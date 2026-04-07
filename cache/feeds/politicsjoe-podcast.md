@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-06T13:46:11+00:00`
-- checked_at: `2026-04-06T13:46:11+00:00`
-- etag: `"djEuMi4wOjE3NzU0NzY4Mzk1ODM="`
+- fetched_at: `2026-04-07T19:32:08+00:00`
+- checked_at: `2026-04-07T19:32:08+00:00`
+- etag: `"djEuMi4wOjE3NzU1ODEwMDczMDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,32 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-06T13:46:11+00:00",
+  "fetched_at": "2026-04-07T19:32:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "51daffba5a1ede892fbd7f2f2aafd24f7eeb491a",
+      "title": "Kanye West banned from the UK",
+      "published_at": "2026-04-07T16:56:46+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69d537433ae78d6f11cdcef7",
+      "description": "Seán, Andy, and Ava return from the long weekend to unpack Kanye West's controversial headlining of the now-cancelled Wireless Festival and its resultant discourse. Also, the 6% cap on student loans and the latest in Trump. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69d537433ae78d6f11cdcef7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72000898",
+      "itunes_duration": "49:59",
+      "speakers": [
+        "Kanye West"
+      ],
+      "topics": [
+        "kanye",
+        "west"
+      ]
+    },
     {
       "key": "e3905ee9e37ed6f45b317dce2140ec99244fa41c",
       "title": "Answering your questions at Easter",
@@ -12401,6 +12420,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — Kanye West banned from the UK — speakers: Kanye West
 - 2026-04-06 — Answering your questions at Easter
 - 2026-04-05 — Your boss is scamming you. This is how | Matthew Cole interview — speakers: Matthew Cole
 - 2026-04-02 — Does Britain have a porn problem? With Ipsos

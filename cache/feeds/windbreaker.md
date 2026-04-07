@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-04-07T16:18:30+00:00`
-- checked_at: `2026-04-07T16:18:30+00:00`
-- etag: `W/"39b50-oeTCOK4ISGVOkssm+xOpuTjGM54"`
+- fetched_at: `2026-04-07T19:32:08+00:00`
+- checked_at: `2026-04-07T19:32:08+00:00`
+- etag: `W/"3a329-1rW5+VQNbfV+n1b0X/g/CwQGZ8M"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-04-07T16:18:30+00:00",
+  "fetched_at": "2026-04-07T19:32:08+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "54419e5905e6ac43e08a5d2d5e1382d3ea35e451",
+      "title": "Let’s Talk About Resurrection | Windbreaker Podcast",
+      "published_at": "2026-04-07T01:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Lets-Talk-About-Resurrection--Windbreaker-Podcast-e3hh25j",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty dig into the act of coming back to life in video games. Twists on the mechanic that have worked, ones that haven’t, and ideas that we haven’t seen tried out yet. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3731424878.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63318726",
+      "itunes_duration": "01:05:57",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "resurrection",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "9ea0bd3455ab3155132cabc03ba7c597f79a1a57",
       "title": "The Highs, Lows, and Spoilers of Pokémon Pokopia | Windbreaker Podcast",
@@ -2717,6 +2738,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — Let’s Talk About Resurrection | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-03-31 — The Highs, Lows, and Spoilers of Pokémon Pokopia | Windbreaker Podcast — speakers: Pokémon Pokopia, Yahtzee Croshaw, Marty Sliva
 - 2026-03-24 — Let's Fix Your Boring Fantasy World | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-03-17 — Resident Evil Requiem Spoilercast | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
