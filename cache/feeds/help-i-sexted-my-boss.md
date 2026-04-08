@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-04-07T07:49:47+00:00`
-- checked_at: `2026-04-07T07:49:47+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpVMU16Z3dORE0xT0RJPTo6c2F4ZXNz"`
+- fetched_at: `2026-04-08T21:59:44+00:00`
+- checked_at: `2026-04-08T21:59:44+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpVMk56ZzFNakk1TXpBPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-04-07T07:49:47+00:00",
+  "fetched_at": "2026-04-08T21:59:44+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -33,7 +33,7 @@
       "published_at": "2026-04-07T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-i-want-my-bosss-sausage-and-williams-got-beer-fear",
       "description": "The boys are back in the studio after the tour and there's lots to debrief on. William's been out partying (again) and Jordan's been working on a couple of new impressions that we're still unsure about. The boys also tackle your modern-day dilemmas involving how to get over being in love with a well-dressed gay man and how to recover after accidentally asking your boss to stick his sausage in you. Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1775678517436-aeddcf15-a799-46af-8ad8-a234d30f2915.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69ce9553b10842fc313a2e55/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=1OwCoZ7w84BT1cc51k224O3tUJXsi9nyKaiG0Iu8BMg",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "38137939",

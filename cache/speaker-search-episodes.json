@@ -8822,6 +8822,28 @@
         ],
         "topics": [],
         "external": true
+      },
+      {
+        "feed_slug": "external:apple:f20ee0f99a70",
+        "feed_title": "Why Is Harriet Crying?",
+        "source_rss_url": "https://audioboom.com/channels/4875366.rss",
+        "dedupe_key": "75eadcdb360388e58e24cf840c629c599313f2bc",
+        "episode_key": "75eadcdb360388e58e24cf840c629c599313f2bc",
+        "title": "The Next Generation (with Sean McLoughlin)",
+        "published_at": "2019-10-03T23:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Harriet Kemsley and Sunil Patel are joined by Sean McLoughlin for their first ever filmed version of the podcast. They discuss decorative cats, ships, Star Trek and dogs who are alive.\n\nYou can now watch the show as a video podcast here.\n\n\n----\n\nFollow the show here\nTwitter: https://twitter.com/whyharrietcry\nInstagram:",
+        "audio_url": "https://audioboom.com/posts/7386783.mp3?modified=1598477342&sid=4875366&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-next-generation-with-sean-mcloughlin/id1180971779?i=1000452229440&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
       }
     ],
     "richard-herring": [
