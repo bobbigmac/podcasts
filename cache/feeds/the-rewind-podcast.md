@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-04-08T07:52:48+00:00`
-- checked_at: `2026-04-08T07:52:48+00:00`
-- etag: `W/"15c34-TzizjJt+oizAIzrHbWDu+MoZ0Gs"`
+- fetched_at: `2026-04-08T19:40:45+00:00`
+- checked_at: `2026-04-08T19:40:45+00:00`
+- etag: `W/"1541e-t8eylqNRvGvvoNS0arLiTIdjEWU"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-04-08T07:52:48+00:00",
+  "fetched_at": "2026-04-08T19:40:45+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,31 +28,6 @@
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "ae4d53eadaabc65feca25ec797e86e9e695e858f",
-      "title": "The Super Mario Galaxy Movie Super Show! | The Rewind Podcast",
-      "published_at": "2026-04-08T01:00:01+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/The-Super-Mario-Galaxy-Movie-Super-Show---The-Rewind-Podcast-e3hivkl",
-      "description": "This week on The Rewind, Darren, Jack, and Marty chat about The Super Mario Galaxy Movie, some great casting rumors for Alex Garland's Elden Ring, and everything else they've been watching. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/118111317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-7%2Fcd7bdf73-695a-868a-38be-a55b09616edf.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "240170720",
-      "itunes_duration": "02:46:47",
-      "speakers": [
-        "Darren Mooney",
-        "Jack Packard",
-        "Marty Sliva"
-      ],
-      "topics": [
-        "super",
-        "mario",
-        "galaxy",
-        "movie",
-        "rewind",
-        "podcast"
-      ]
-    },
     {
       "key": "9bee946c335a2797dfe7b877846fc91425432121",
       "title": "Project Hail Mary and Our Favorite Space Movies | The Rewind Podcast",
@@ -1117,7 +1092,6 @@
 
 ## Episodes (newest first)
 
-- 2026-04-08 — The Super Mario Galaxy Movie Super Show! | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-03-25 — Project Hail Mary and Our Favorite Space Movies | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-03-11 — Chainsaw Man, Oscar Predictions, and the State of the Slasher | The Rewind Podcast — speakers: Chainsaw Man, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-02-25 — Does A Knight of the Seven Kingdoms Bring the Juice Back to Thrones? | The Rewind Podcast — speakers: Seven Kingdoms Bring, Juice Back, Second Wind, Darren Mooney, Jack Packard, Marty Sliva

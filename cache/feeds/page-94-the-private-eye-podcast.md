@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-03-24T19:21:36+00:00`
-- checked_at: `2026-03-24T19:21:36+00:00`
-- etag: `W/"fcc11213a69ee6a465f38f1c8d7dad68"`
-- last_modified: `Tue, 24 Mar 2026 17:10:56 GMT`
+- fetched_at: `2026-04-08T19:40:45+00:00`
+- checked_at: `2026-04-08T19:40:45+00:00`
+- etag: `W/"55e9c079ac9cdaa2b38e50e0365cc8ba"`
+- last_modified: `Wed, 08 Apr 2026 16:26:41 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-03-24T19:21:36+00:00",
+  "fetched_at": "2026-04-08T19:40:45+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,25 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "c7b16deb1b405a877462d9491081952887308381",
+      "title": "171: Meta's Not Better",
+      "published_at": "2026-04-08T16:23:31+00:00",
+      "link": "https://audioboom.com/posts/8884831",
+      "description": "Is social media really as fun, child-friendly and good for mental health as everyone says? Helen, Adam, Andy and Matt Muir investigate. Plus, Reform and the Greens’ mirror-image election offerings, and a new (unauthorised) drama about the Prince Harry-Daily Mail trial.",
+      "image_url": "https://audioboom.com/i/43572543/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8884831.mp3?modified=1775665610&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3221",
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "meta"
+      ]
+    },
     {
       "key": "1d0b9a7754480c9293fc70b043e0bcdc3c118d23",
       "title": "170: Mad King Donald",
@@ -3634,6 +3653,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — 171: Meta's Not Better — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-03-24 — 170: Mad King Donald — speakers: Donald Ian, Richard Brooks, Andrew Hunter Murray, Ian Hislop
 - 2026-03-10 — 169: War On Iran: Aya-Tollad You So — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-02-24 — 168: A Tale Of Two Andrews — speakers: Rachael Claye, Andrew one, Andrew Hunter Murray, Ian Hislop
