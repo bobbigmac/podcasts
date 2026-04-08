@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-07T19:32:08+00:00`
-- checked_at: `2026-04-07T19:32:08+00:00`
-- etag: `"djEuMi4wOjE3NzU1ODEwMDczMDU="`
+- fetched_at: `2026-04-08T16:21:00+00:00`
+- checked_at: `2026-04-08T16:21:00+00:00`
+- etag: `"djEuMi4wOjE3NzU2NTk2MDEyMTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-07T19:32:08+00:00",
+  "fetched_at": "2026-04-08T16:21:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "0f06dbc58d0a0b979463880c170aa7bdb1fff5ce",
+      "title": "Karl Turner: Labour suspends MP critical of Keir Starmer",
+      "published_at": "2026-04-08T14:46:40+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69d66a5134b90cef2b989ec2",
+      "description": "In this episode, we dive into the political storm surrounding Karl Turner, who was suspended after publicly criticising Keir Starmer. What does this moment reveal about party discipline, free speech within politics, and the current direction of the Labour Party? We sit down to unpack Turner’s perspective, the context behind his comments, and the reaction from party leadership. Is this a case of necessary unity, or does it raise deeper concerns about dissent being silenced? Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69d66a5134b90cef2b989ec2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51815007",
+      "itunes_duration": "35:58",
+      "speakers": [
+        "Karl Turner"
+      ],
+      "topics": [
+        "karl",
+        "turner",
+        "labour",
+        "keir",
+        "starmer"
+      ]
+    },
     {
       "key": "51daffba5a1ede892fbd7f2f2aafd24f7eeb491a",
       "title": "Kanye West banned from the UK",
@@ -12420,6 +12442,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — Karl Turner: Labour suspends MP critical of Keir Starmer — speakers: Karl Turner
 - 2026-04-07 — Kanye West banned from the UK — speakers: Kanye West
 - 2026-04-06 — Answering your questions at Easter
 - 2026-04-05 — Your boss is scamming you. This is how | Matthew Cole interview — speakers: Matthew Cole

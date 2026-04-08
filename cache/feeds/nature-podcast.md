@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-04-08T14:02:27+00:00`
-- checked_at: `2026-04-08T14:02:27+00:00`
-- etag: `"djEuMi4wOjE3NzU2NTQ4MTM4NTQ="`
+- fetched_at: `2026-04-08T16:21:00+00:00`
+- checked_at: `2026-04-08T16:21:00+00:00`
+- etag: `"djEuMi4wOjE3NzU2NjA0Mzk0Mjc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-04-08T14:02:27+00:00",
+  "fetched_at": "2026-04-08T16:21:00+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,28 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "ca8bab8fd9fbd2ad084e804a5fea1670e08fd156",
+      "title": "Briefing Chat: The tongue trick that helps sunbirds suck",
+      "published_at": "2026-04-08T15:00:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01132-4",
+      "description": "In this episode: 00:41 Exosome therapies could deliver drugs to hard to reach places Nature: Eye drops made from pig semen deliver cancer treatment to mice 5:08 The impact of parenthood on women’s academic careers Nature: Motherhood derails women’s academic careers — these data reveal how and why 10:34 The unusual suction that lets Sunbirds drink Science: These birds suck—literally Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1775654807960-0d088037-bdfd-4d42-a6ac-a8926a5a94ba.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69d657822a193257ade923bb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13343826",
+      "itunes_duration": "13:52",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "chat",
+        "tongue",
+        "trick",
+        "sunbird"
+      ]
+    },
     {
       "key": "c41fb8185a147ea425739cbe4057d887fe663f4f",
       "title": "Artemis II is go: humans head to the Moon after half-century absence",
@@ -19382,6 +19404,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — Briefing Chat: The tongue trick that helps sunbirds suck — speakers: Benjamin Thompson, Noah Baker
 - 2026-04-02 — Artemis II is go: humans head to the Moon after half-century absence — speakers: Benjamin Thompson, Noah Baker
 - 2026-04-01 — These scientists chased a jet to learn more about ‘lean-burn’ contrails — speakers: Voigt et al, Benjamin Thompson, Noah Baker
 - 2026-03-27 — Briefing Chat: ‘Zombie cells’ resurrected with new genes — speakers: Benjamin Thompson, Noah Baker

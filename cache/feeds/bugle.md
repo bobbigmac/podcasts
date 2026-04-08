@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-04-08T14:02:27+00:00`
-- checked_at: `2026-04-08T14:02:27+00:00`
-- etag: `"djEuMi4wOjE3NzU2NTY4MTQ4NDI="`
+- fetched_at: `2026-04-08T16:21:00+00:00`
+- checked_at: `2026-04-08T16:21:00+00:00`
+- etag: `"djEuMi4wOjE3NzU2NjIyNzcwMTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-04-08T14:02:27+00:00",
+  "fetched_at": "2026-04-08T16:21:00+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "5b70217f4277cd4128500011a7d0b11d81aa590b",
+      "title": "This week's been rough!",
+      "published_at": "2026-04-08T15:30:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/this-weeks-news-has-been-rough",
+      "description": "Andy is joined by Alice Fraser and Nato Green as the they discuss Trump's latest damning tweets, and question if the world is on the brink of nuclear armageddon, they trio also chat about the US/Iran meme wars, the latest on the Artemis II mission to he moon, and Meta finally being held accountable! It's issue number 4374! 🇺🇸 Tweeting Trump: The trio discuss the US president's tweets ahead of a testing 24 hours between USA and Iran! 📱 The Meme Wars: The three delve into the unimaginable war of the memes between Iran and the USA 🌑 The Dark side of the Moon: Andy, Alice and Nato chat about the recent Artemis II mission, as humankind beat their own PB. Andy's Links: andyzaltzman.co.uk Alice Fraser's Links: https://www.patreon.com/AliceFraser Nato Green's Links: https://www.instagram.com/mrnatogreen/?hl=en 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/69d65d9d34b90cef2b94b4b3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42203428",
+      "itunes_duration": "43:57",
+      "speakers": [
+        "Alice Fraser",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "week"
+      ]
+    },
     {
       "key": "cbc09701be715a011e01588cad50ca928ea13d22",
       "title": "Unheard and Too Hot To Handle!",
@@ -14087,6 +14106,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — This week's been rough! — speakers: Alice Fraser, Andy Zaltzman
 - 2026-04-01 — Unheard and Too Hot To Handle! — speakers: Andy Zaltzman
 - 2026-03-25 — Trump needs a better jokes writer! — speakers: Nish Kumar, Tom Ballard, Andy Zaltzman
 - 2026-03-18 — A Canadian politician's signed copy of certain German's book, US sequel on the Moon and the Academy Awards! — speakers: Hari Kondabolu, Helen Zaltzman, Andy Zaltzman
