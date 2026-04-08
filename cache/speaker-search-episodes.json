@@ -10378,6 +10378,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:46728eebbe84",
+        "feed_title": "The British Broadcasting Century with Paul Kerensa",
+        "source_rss_url": "https://feed.podbean.com/bbcentury/feed.xml",
+        "dedupe_key": "29d6c261b8373e49eb701dc8a61f13426bea372d",
+        "episode_key": "29d6c261b8373e49eb701dc8a61f13426bea372d",
+        "title": "#028 The First BBC Entertainers... and Lee Mack",
+        "published_at": "2021-05-24T06:57:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Season 2 begins! So please welcome to the microphone: entertainment! The very first.\n\nJourney back to November 16th 1922 - Day 3 of the BBC - to meet Auntie's first entertainers. But history being history, nothing's easy...\n\nDiscover why the BBC's first entertainers weren't the first after all, whether London, Birmingh",
+        "audio_url": "https://mcdn.podbean.com/mf/web/ztwwi4/s2e1_-_First_Entertainers_and_Lee_Mack8tj3w.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/028-the-first-bbc-entertainers-and-lee-mack/id1516471271?i=1000522884959&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips",
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:38501b99545c",
         "feed_title": "Plot Twist",
         "source_rss_url": "https://feeds.acast.com/public/shows/a3235422-586d-4020-8477-fe80dc691d4e",
@@ -20441,6 +20464,29 @@
         ],
         "topics": [],
         "external": true
+      },
+      {
+        "feed_slug": "external:apple:7b87114c8dbc",
+        "feed_title": "When Life Needs a Punchline - Free Audiobook, Your Hilarious Escape",
+        "source_rss_url": "https://hotaudiobook.com/tune/user/4031/index.xml",
+        "dedupe_key": "f333c46806e13598ac6ae931b633003eac5b158c",
+        "episode_key": "f333c46806e13598ac6ae931b633003eac5b158c",
+        "title": "Dave Gorman Genius: Series 1 - Dave Gorman",
+        "published_at": "2007-09-03T09:03:42Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to the full audiobook free with a 30-day free trial : https://esound.space/full Title: Dave Gorman Genius: Series 1Author: Dave GormanNarrator: Dave Gorman, GuestsFormat: UnabridgedLength: 2:21:09Language: EnglishRelease date: 09-03-2007Publisher: Penguin Books LTDGenres: General ComedySummary:In a quest to unea",
+        "audio_url": "https://storage.googleapis.com/book/audio/354866.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-genius-series-1-dave-gorman/id1842650428?i=1000759790275&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee",
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
       }
     ],
     "lee-mack": [
@@ -22990,6 +23036,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "20211f6eb24cf58d186cfb0e488f7271157d2c84",
+        "episode_key": "20211f6eb24cf58d186cfb0e488f7271157d2c84",
+        "title": "#460  - John’s 50 Kids, Nish Kumar and The Cobbles Sing Their Plaintive Lament",
+        "published_at": "2025-08-05T14:55:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It’s a lament time of year. It’s an Edinburgh time of year. A time when John yearns for the crippling comedic examination which is the Edinburgh Festival. For he cannot experience that emotional rollercoaster this year. He can’t sit on a stage and call himself a C*** after someone shouts “have you had a ploughman’s” du",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Ap0lv746k/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/460-johns-50-kids-nish-kumar-and-the-cobbles-sing/id1465290044?i=1000720738063&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:556cc9550d87",
         "feed_title": "The Bugle",
         "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
@@ -23265,6 +23333,28 @@
         "feed_image_url": null,
         "description": "Today’s show is a titanic showdown between two arch-nemeses. It’s Disraeli against Gladstone, it’s David versus Goliath, it’s The Rumble in the Jungle; it’s Elis James facing up to his footballing rival Nish Kumar. Sparks fly, scores are settled, and a listener’s dilemma is answered (sort of) in the process.\nIt’s also ",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0j2wz94.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/340-bog-body-ready-long-haul-phaal-and-nish-kumar/id1465290044?i=1000658192761&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "025d4948c4fb68aba32cecd0e6bf5a2b2dfe2abd",
+        "episode_key": "025d4948c4fb68aba32cecd0e6bf5a2b2dfe2abd",
+        "title": "#340 - Bog Body Ready, Long Haul Phaal and Nish Kumar",
+        "published_at": "2024-06-07T16:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Today’s show is a titanic showdown between two arch-nemeses. It’s Disraeli against Gladstone, it’s David versus Goliath, it’s The Rumble in the Jungle; it’s Elis James facing up to his footballing rival Nish Kumar. Sparks fly, scores are settled, and a listener’s dilemma is answered (sort of) in the process.\nIt’s also ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Ap0j2wzl1/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/340-bog-body-ready-long-haul-phaal-and-nish-kumar/id1465290044?i=1000658192761&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
@@ -24684,6 +24774,28 @@
         "description": "Ed’s returned from his trip down the well, and he’s brought Nish Kumar! Sadly he lost Matthew on the way.\nKeep each other safe.\nThanks for downloading the podcast – remember, you can be an Early Worm and catch the show live on Radio X every Sunday 8am – 11am. \n\nGet in touch on sunday@radiox.co.uk \n@EdGambleComedy \n@mat",
         "audio_url": "https://dax.captivate.fm/992ad48c-11b1-436e-b6f4-6a69ed0de858/163b0974-6c37-430b-92cb-5a370977ace9.mp3?aw_0_1st.showid=271ada40-4f74-48dc-8db5-08c3d4d8378e&aw_0_1st.episodeid=cb1b5e38-3f69-4bd8-9e00-79981cfdd919",
         "link_url": "https://podcasts.apple.com/gb/podcast/episode-103-nish-kumar-poops-upside-your-head/id1467168361?i=1000521895630&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:d7451e131c7a",
+        "feed_title": "Mike Birbiglia's Working It Out",
+        "source_rss_url": "https://feeds.simplecast.com/MTW0B2El",
+        "dedupe_key": "98ee83d0af6bd194a7e1f1064088412a99f383fa",
+        "episode_key": "98ee83d0af6bd194a7e1f1064088412a99f383fa",
+        "title": "39. Nish Kumar: The Sidekick Soliloquy",
+        "published_at": "2021-05-03T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week Mike is joined by British comic Nish Kumar and they discuss Brexit, the craft behind building a one person show, and the time Nish was told by a heckler to “go home” when he was pretty close to his home. Nish divulges his lifelong goal to not be Batman or even Robin, but rather the other guy. The sidekick of ",
+        "audio_url": "https://pdst.fm/e/afp-222748-injected.calisto.simplecastaudio.com/32ea5a12-6e17-42a1-8b7f-3cd5287077bd/episodes/254ecd89-04bf-4a08-9d8b-a6f2cce16014/audio/128/default.mp3?aid=rss_feed&awCollectionId=32ea5a12-6e17-42a1-8b7f-3cd5287077bd&awEpisodeId=254ecd89-04bf-4a08-9d8b-a6f2cce16014&feed=MTW0B2El",
+        "link_url": "https://podcasts.apple.com/gb/podcast/39-nish-kumar-the-sidekick-soliloquy/id1515419751?i=1000519801359&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -27322,6 +27434,28 @@
     ],
     "dave-gorman": [
       {
+        "feed_slug": "external:apple:8c6fed008479",
+        "feed_title": "At The Bar With…Podcast",
+        "source_rss_url": "https://anchor.fm/s/104fff460/podcast/rss",
+        "dedupe_key": "67f0c43869ae4504c9822bd51dee0c83048c50db",
+        "episode_key": "67f0c43869ae4504c9822bd51dee0c83048c50db",
+        "title": "Episode 36 - Returning Guest Musician/Guitarist Dave Gorman",
+        "published_at": "2026-04-06T19:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "At The Bar With... is a podcast featuring Brett, Stacy, Jean, & Patrick. Compelling guests and content, with a bartender, libations, and great conversation. \n\nFeatured guest: Dave Gorman \n\nDave has been a professional musician since the early 1990's. Dave has been a featured guitar player in bands such as: Mad Atchu; L",
+        "audio_url": "https://anchor.fm/s/104fff460/podcast/play/118013029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-6%2F421481837-44100-2-ffce30f69693e.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-36-returning-guest-musician-guitarist-dave-gorman/id1817553397?i=1000759896616&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:50ce75180d0a",
         "feed_title": "The Custard TV Podcast",
         "source_rss_url": "https://feed.podbean.com/luke5n/feed.xml",
@@ -28755,6 +28889,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:07e86b28599a",
+        "feed_title": "Listen to Mine of Full Audiobooks in Non-Fiction, Education",
+        "source_rss_url": "https://hotaudiobook.com/tune/user/4194/index.xml",
+        "dedupe_key": "d2aa21576c8b1de10ba3ed563c03af63d5f1cabe",
+        "episode_key": "d2aa21576c8b1de10ba3ed563c03af63d5f1cabe",
+        "title": "Dave Gorman's Pub Olympics - Dave Gorman",
+        "published_at": "2012-07-02T18:11:42Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to the full audiobook free with a 30-day free trial : https://esound.space/full Title: Dave Gorman's Pub OlympicsAuthor: Dave GormanNarrator: Dave Gorman, GuestsFormat: UnabridgedLength: 0:27:49Language: EnglishRelease date: 07-02-2012Publisher: Penguin Books LTDGenres: Non-Fiction, Art & MusicSummary:Dave Gorma",
+        "audio_url": "https://storage.googleapis.com/book/audio/383791.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gormans-pub-olympics-dave-gorman/id1844779109?i=1000730758513&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:9033b45d1f08",
         "feed_title": "How to Download Free Audiobook in Radio & TV, Entertainment",
         "source_rss_url": "https://epod.space/tone/id/2726/index.xml",
@@ -29010,6 +29166,29 @@
         "description": "Listen to this audiobook in full for free onhttps://hotaudiobook.com/free Title: Dave Gorman Genius: Series 1Author: Dave GormanNarrator: Dave Gorman, GuestsFormat: UnabridgedLength: 2:21:09Language: EnglishRelease date: 09-03-2007Publisher: Penguin Books LTDGenres: General ComedySummary:In a quest to unearth a genius ",
         "audio_url": "https://storage.googleapis.com/hotaudiobook/audio/61955.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-genius-series-1-dave-gorman/id1842650428?i=1000728832070&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee",
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:7b87114c8dbc",
+        "feed_title": "When Life Needs a Punchline - Free Audiobook, Your Hilarious Escape",
+        "source_rss_url": "https://hotaudiobook.com/tune/user/4031/index.xml",
+        "dedupe_key": "f333c46806e13598ac6ae931b633003eac5b158c",
+        "episode_key": "f333c46806e13598ac6ae931b633003eac5b158c",
+        "title": "Dave Gorman Genius: Series 1 - Dave Gorman",
+        "published_at": "2007-09-03T09:03:42Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to the full audiobook free with a 30-day free trial : https://esound.space/full Title: Dave Gorman Genius: Series 1Author: Dave GormanNarrator: Dave Gorman, GuestsFormat: UnabridgedLength: 2:21:09Language: EnglishRelease date: 09-03-2007Publisher: Penguin Books LTDGenres: General ComedySummary:In a quest to unea",
+        "audio_url": "https://storage.googleapis.com/book/audio/354866.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-genius-series-1-dave-gorman/id1842650428?i=1000759790275&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
