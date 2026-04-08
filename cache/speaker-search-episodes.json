@@ -8981,6 +8981,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "b99e558f9e1a31374207b2ddee14b4651a82f748",
+        "episode_key": "b99e558f9e1a31374207b2ddee14b4651a82f748",
+        "title": "#410 - Nepo Connectors, Keir Today John Tomorrow and Richard Herring",
+        "published_at": "2025-02-11T16:17:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What do the people want? Wordle Live. What do they not want? The Cymru Connection. That’s the opinion of John Robins. Just John Robins. You thought that we were out of the Wordly woods. But no, the more concern you have for the woods the more trees John will plant. PLANT being a good starter. John wants a feature subst",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Ap0kqk1jk/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/410-nepo-connectors-keir-today-john-tomorrow-and/id1465290044?i=1000691142389&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring",
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:8cc4a7996941",
         "feed_title": "The Chris Moyles Show on Radio X Podcast",
         "source_rss_url": "https://feeds.captivate.fm/the-chris-moyles-show",
@@ -9103,6 +9126,28 @@
         "feed_image_url": null,
         "description": "Och aye the noo! John Robins is up in Edinburgh for the Fringe throughout the whole of August, so for today's show he joined Elis and Producer Dave live from Scotland via an ISDN line (think tin can and string but more advanced).\nTo celebrate the fact he’s currently staying in the centre of the comedy universe John inv",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0crcyvl.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/230-rockless-fields-flyering-high-and-passport-portraits/id1465290044?i=1000575146662&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "d93ad69f0d1063cfb6ae5ff0cf927164aad33f17",
+        "episode_key": "d93ad69f0d1063cfb6ae5ff0cf927164aad33f17",
+        "title": "#230 - Rockless Fields, Flyering High and Passport Portraits",
+        "published_at": "2022-08-05T16:11:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Och aye the noo! John Robins is up in Edinburgh for the Fringe throughout the whole of August, so for today's show he joined Elis and Producer Dave live from Scotland via an ISDN line (think tin can and string but more advanced).\nTo celebrate the fact he’s currently staying in the centre of the comedy universe John inv",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Am0019rgc/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/230-rockless-fields-flyering-high-and-passport-portraits/id1465290044?i=1000575146662&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
@@ -11561,6 +11606,29 @@
         "feed_image_url": null,
         "description": "What do the people want? Wordle Live. What do they not want? The Cymru Connection. That’s the opinion of John Robins. Just John Robins. You thought that we were out of the Wordly woods. But no, the more concern you have for the woods the more trees John will plant. PLANT being a good starter. John wants a feature subst",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0kqkm27.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/410-nepo-connectors-keir-today-john-tomorrow-and/id1465290044?i=1000691142389&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring",
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "b99e558f9e1a31374207b2ddee14b4651a82f748",
+        "episode_key": "b99e558f9e1a31374207b2ddee14b4651a82f748",
+        "title": "#410 - Nepo Connectors, Keir Today John Tomorrow and Richard Herring",
+        "published_at": "2025-02-11T16:17:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What do the people want? Wordle Live. What do they not want? The Cymru Connection. That’s the opinion of John Robins. Just John Robins. You thought that we were out of the Wordly woods. But no, the more concern you have for the woods the more trees John will plant. PLANT being a good starter. John wants a feature subst",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Ap0kqk1jk/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/410-nepo-connectors-keir-today-john-tomorrow-and/id1465290044?i=1000691142389&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
@@ -15882,6 +15950,28 @@
     ],
     "lou-sanders": [
       {
+        "feed_slug": "external:apple:bdacba4ea278",
+        "feed_title": "Spent",
+        "source_rss_url": "https://feeds.acast.com/public/shows/68ff802ee0f934b5d11222a2",
+        "dedupe_key": "35dbe422ec0dc51a05775ed1895bdbf0bb62e63a",
+        "episode_key": "35dbe422ec0dc51a05775ed1895bdbf0bb62e63a",
+        "title": "Lou Sanders",
+        "published_at": "2026-04-07T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome to Spent.\nThis week, Matt Edmondson is joined by comedian and TV star Lou Sanders as they delve into her chaotic spending habits…and you’re going to want to hang around for some of these receipts! From sofa paint to an ACTUAL magic wand, Lou’s bought it all…\nPlus, Lou tells Matt about her mad car crash story, t",
+        "audio_url": "https://sphinx.acast.com/p/open/s/68ff802ee0f934b5d11222a2/e/69d39934e9dcab30771f39e8/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lou-sanders/id1848904079?i=1000759963120&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3adb5ccf639f",
         "feed_title": "Last One Laughing Official Podcast",
         "source_rss_url": "https://rss.art19.com/last-one-laughing",
@@ -16348,6 +16438,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "bf55ef12838cce9ab7f814a82b5dd2761b003c72",
+        "episode_key": "bf55ef12838cce9ab7f814a82b5dd2761b003c72",
+        "title": "#404 - #PlasticJack, Lou Sanders and You Can Only Push The Listeners So Far",
+        "published_at": "2025-01-21T17:15:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "No, this episode is not a web error. Instead it contains something else which will make the content servers explode. Yes that’s right, it’s the return of the Cymru Connection. And amidst such Cymraeg content it’s fever pitch. In fact the fervour has led to an Elis on such a high that he makes financial cheques that he ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Ap0kl4bx3/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/404-plasticjack-lou-sanders-and-you-can-only-push/id1465290044?i=1000684876824&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
@@ -16591,6 +16703,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "8852f3032a8279a9dcd7c007a49167e649ed2b9a",
+        "episode_key": "8852f3032a8279a9dcd7c007a49167e649ed2b9a",
+        "title": "#321 - Psychic Cats, Second Rate Roses and Out of Riff Ammo",
+        "published_at": "2024-04-02T15:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The lovely Lou Sanders is in the studio and brings along her wonderfully chaotic aura.\nOh and it's dead bus-eh. There's another hands on Made Up Game, Lou's not getting any traction on her socials and a caller deals out not just one but TWO harrowing stories.\nTo get in touch with the show, email hello@elisandjohn.com\nF",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Ap0hnc25k/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/321-psychic-cats-second-rate-roses-and-out-of-riff-ammo/id1465290044?i=1000651202019&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:6587af693c65",
         "feed_title": "Crushed by Margaret Cabourn-Smith",
         "source_rss_url": "https://feeds.megaphone.fm/AUDD5119698848",
@@ -16646,6 +16780,28 @@
         "feed_image_url": null,
         "description": "Due to factors there was no live show today, but that doesn’t mean we were ever going to leave you high and dry without your weekly dose of content. No, we’ve proven time and time again that nothing can stop us from #creating #content, so strap yourself in for a fast and loose podcast-only version of the Elis James and",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0gvqxd8.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/299-pylon-following-50-under-50-and-lous-big-birthday/id1465290044?i=1000636439582&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "36ae4d11904bb49ac4dfb88466fecd2d8883a5b1",
+        "episode_key": "36ae4d11904bb49ac4dfb88466fecd2d8883a5b1",
+        "title": "#299 - Pylon Following, 50 Under 50 and Lou’s Big Birthday",
+        "published_at": "2023-11-24T16:33:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Due to factors there was no live show today, but that doesn’t mean we were ever going to leave you high and dry without your weekly dose of content. No, we’ve proven time and time again that nothing can stop us from #creating #content, so strap yourself in for a fast and loose podcast-only version of the Elis James and",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Ap0gvqz7y/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/299-pylon-following-50-under-50-and-lous-big-birthday/id1465290044?i=1000636439582&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
@@ -16801,6 +16957,28 @@
         "feed_image_url": null,
         "description": "‘Excitement’ was the word on everyone’s lips at the BBC today… and for good reason. First, they were excited about the fact that the wonderful Lou Sanders was sitting in for Elis whilst he treated himself to a luxury spa break in Montenegro. Then, the excitement grew even more as John entered the studio looking more bu",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0frz4kp.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/274-date-city-central-forty-slinks-and-reece-with-a-spoon/id1465290044?i=1000615449197&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "c9526813e791d12acdb9a07e02c226dc70140f50",
+        "episode_key": "c9526813e791d12acdb9a07e02c226dc70140f50",
+        "title": "#274 - Date City Central, Forty Slinks and Reece With A Spoon",
+        "published_at": "2023-06-02T15:56:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "‘Excitement’ was the word on everyone’s lips at the BBC today… and for good reason. First, they were excited about the fact that the wonderful Lou Sanders was sitting in for Elis whilst he treated himself to a luxury spa break in Montenegro. Then, the excitement grew even more as John entered the studio looking more bu",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Am001md23/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/274-date-city-central-forty-slinks-and-reece-with-a-spoon/id1465290044?i=1000615449197&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
@@ -16977,6 +17155,28 @@
         "feed_image_url": null,
         "description": "With Elis holidaying in Bedford, Lou Sanders was once again parachuted in to keep Johnny JR in check, and what a job she did.\nAmongst the fun, we were given rare access to the heart of the Lionesses den, as footballing legend Ellen White joined us to discuss England’s chances of going all the way in Euro 2022. She also",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0cnk70p.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/228-tricky-chinos-cushion-collectives-and-ellen-white/id1465290044?i=1000570850688&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "6f9888d7d7e019daa0aa882212cda273ccea6fb5",
+        "episode_key": "6f9888d7d7e019daa0aa882212cda273ccea6fb5",
+        "title": "#228 - Tricky Chinos, Cushion Collectives and Ellen White",
+        "published_at": "2022-07-22T17:54:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "With Elis holidaying in Bedford, Lou Sanders was once again parachuted in to keep Johnny JR in check, and what a job she did.\nAmongst the fun, we were given rare access to the heart of the Lionesses den, as footballing legend Ellen White joined us to discuss England’s chances of going all the way in Euro 2022. She also",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Am0019c0p/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/228-tricky-chinos-cushion-collectives-and-ellen-white/id1465290044?i=1000570850688&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
@@ -17303,6 +17503,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "1c301b575f305507c967c26b0755a26fc8c61039",
+        "episode_key": "1c301b575f305507c967c26b0755a26fc8c61039",
+        "title": "#183 - Chafing Challenges, Lager Sleeves and Convivial Ceilidhs",
+        "published_at": "2021-11-05T16:54:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "With John being absent from the show this week the venerable Lou Sanders joined Elis and Producer Dave in the studio to steady the ‘Good Ship 5 Live’; and there was so much fun to be had! In what was her hat-trick appearance on the show Lou revealed that she once invited Rick Edwards (the new co-host of 5 Live Breakfas",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Am001157r/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/183-chafing-challenges-lager-sleeves-and-convivial/id1465290044?i=1000540904855&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
@@ -17413,6 +17635,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "c2eb9ed3f255ad5d6cc3fa65862a5463cf28fe4a",
+        "episode_key": "c2eb9ed3f255ad5d6cc3fa65862a5463cf28fe4a",
+        "title": "#97 - Lou Sanders, Herts Holidays and John’s Greedy Palms",
+        "published_at": "2020-08-14T15:19:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "With Elis holidaying in Berkhamsted, the wonderful Lou Sanders joined John on the show today! Will she do Elis proud in today’s Made Up Game? Can she successfully read John’s palm? And crucially, will she know when the mics are on and when they’re off (the answer is no). Enjoy!\nTo get in touch with the show, email hell",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Am000ln3k/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/97-lou-sanders-herts-holidays-and-johns-greedy-palms/id1465290044?i=1000488146134&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f7b0ad5c7df5",
         "feed_title": "Pappy's Flatshare",
         "source_rss_url": "https://feeds.megaphone.fm/NSR6478712326",
@@ -17447,6 +17691,28 @@
         "feed_image_url": null,
         "description": "Elis and John discuss their dream festival line-up and we're joined by Lou Sanders!",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p08btfqv.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/68-the-isolation-tapes-50-000-johns-and-lou-sanders/id1465290044?i=1000473110349&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "f8560610d8015a4c9c9e492aa5ed5e2d603e44ed",
+        "episode_key": "f8560610d8015a4c9c9e492aa5ed5e2d603e44ed",
+        "title": "#68 - The Isolation Tapes: 50,000 Johns and Lou Sanders",
+        "published_at": "2020-04-30T04:45:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Elis and John discuss their dream festival line-up and we're joined by Lou Sanders!\nTo get in touch with the show, email hello@elisandjohn.com\nFor lots of exclusive EJJR #content, join our Patreon at patreon.com/elisandjohn\nFor weekly visual highlights, head to youtube.com/@elisandjohn \nFor everything else, head to eli",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Ap08bth9w/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/68-the-isolation-tapes-50-000-johns-and-lou-sanders/id1465290044?i=1000473110349&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,

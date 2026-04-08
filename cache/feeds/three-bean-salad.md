@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-04-01T03:45:28+00:00`
-- checked_at: `2026-04-01T03:45:28+00:00`
-- etag: `"9bffe-64e5af9f58569"`
-- last_modified: `Wed, 01 Apr 2026 00:15:07 GMT`
+- fetched_at: `2026-04-08T03:32:12+00:00`
+- checked_at: `2026-04-08T03:32:12+00:00`
+- etag: `"9cd20-64ee7cad02674"`
+- last_modified: `Wed, 08 Apr 2026 00:15:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-04-01T03:45:28+00:00",
+  "fetched_at": "2026-04-08T03:32:12+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "02fd60e821f1700f3caceaa6d749f91d6786983b",
+      "title": "Show Us Your Onions",
+      "published_at": "2026-04-08T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/show-us-your-onions",
+      "description": "The Moon landings. The fall of the Berlin Wall. The conviction of Al Capone. Everyone remembers exactly where they were when the news broke of these landmark moments in history. Well get memorising your surroundings people because it’s about to happen again. That’s right. None of your common-or-garden bean-machine-spewed topics this week. Oh no. Prepare to drink in a world first and please welcome the inaugural episode of a podcast format that takes The Rule Book, tears it to shreds then pickles it to prevent spoilage in case it turns out we need it later after all - it’s “Show us your onions!”. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/4a1a0037-852b-494e-9c9f-11569e33e0ce/S20E5-Show-us-your-onions.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/9197b881-85b5-4633-a093-c220c3946404.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=9197b881-85b5-4633-a093-c220c3946404",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56956596",
+      "itunes_duration": "59:20",
+      "speakers": [
+        "Al Capone",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "onion"
+      ]
+    },
     {
       "key": "9a775c5b2b73558356f11e45214693616d03a140",
       "title": "Saints",
@@ -4131,6 +4152,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — Show Us Your Onions — speakers: Al Capone, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-01 — Saints — speakers: Bean Machine, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-03-25 — Moving House — speakers: Moving House What, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-03-18 — The Olympics — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge

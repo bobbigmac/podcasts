@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-04-07T21:58:04+00:00`
-- checked_at: `2026-04-07T21:58:04+00:00`
-- etag: `"djEuMi4wOjE3NzU1OTg5MDQ2Njc="`
+- fetched_at: `2026-04-08T03:32:12+00:00`
+- checked_at: `2026-04-08T03:32:12+00:00`
+- etag: `"djEuMi4wOjE3NzU2MDY0OTkzNzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-04-07T21:58:04+00:00",
+  "fetched_at": "2026-04-08T03:32:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "9a185d352ccf050b9f07715a69a3e3ba7dafbb5c",
+      "title": "Lisa Kudrow",
+      "published_at": "2026-04-08T00:01:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/lisa-kudrow",
+      "description": "This week we were joined by the brilliant Lisa Kudrow, who came by to chat about the new season of The Comeback. Over lunch we talked about everything from acting opposite her son Julian in the new series, the inspiration behind Valerie Cherish, filming Friends in front of a live audience, to growing up in Tarzana and her mum’s roast chicken with parmesan, garlic and paprika. We also discovered her sweet tooth, her love of KFC, the famous Jennifer Aniston salad, the reason she gave up cooking and the comfort foods she craved while pregnant. Thank you Lisa for coming over! The Comeback is available now on Sky and HBO Max. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1775579174571-777873bc-f82b-4bea-a03c-b999938d7ec6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69d4e30df44b357ce96269d6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49794820",
+      "itunes_duration": "51:52",
+      "speakers": [
+        "Lisa Kudrow"
+      ],
+      "topics": [
+        "lisa",
+        "kudrow"
+      ]
+    },
     {
       "key": "68cf907afea1a4aeb3f8484f79a852feafefa91f",
       "title": "Jamie Laing and Sophie Habboo",
@@ -7007,6 +7026,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — Lisa Kudrow — speakers: Lisa Kudrow
 - 2026-04-01 — Jamie Laing and Sophie Habboo — speakers: Jamie Laing, Sophie Habboo
 - 2026-03-25 — Chaka Khan — speakers: Chaka Khan
 - 2026-03-18 — Jane McDonald — speakers: Jane McDonald

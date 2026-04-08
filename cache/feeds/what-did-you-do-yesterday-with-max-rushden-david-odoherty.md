@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-04-05T03:36:57+00:00`
-- checked_at: `2026-04-05T03:36:57+00:00`
-- last_modified: `Sat, 04 Apr 2026 23:15:00 GMT`
+- fetched_at: `2026-04-08T03:32:12+00:00`
+- checked_at: `2026-04-08T03:32:12+00:00`
+- last_modified: `Tue, 07 Apr 2026 23:15:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/34bc546b80209ae9aca6b80a5f50c13e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-05T03:36:57+00:00",
+  "fetched_at": "2026-04-08T03:32:12+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "4fd8387b2fd33293a04ef502c47b1f72a6777410",
+      "title": "WDWDY #66: Busted knees and ruptured spleens",
+      "published_at": "2026-04-07T23:15:00+00:00",
+      "link": null,
+      "description": "On this mid-week bonus ep we find out what Max did with his yesterday... Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7afcb4fe-2e18-11f1-a47a-73c21b843153/image/66dd0e1c0c3ae1c9c14e2654bb78ebeb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9168719595.mp3?updated=1775082756",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3195",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "knee",
+        "spleen"
+      ]
+    },
     {
       "key": "688213de6dddb45c7b4b5b9bdf4393a8c0e667fb",
       "title": "S4 EP14: Mel Giedroyc",
@@ -3155,6 +3175,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — WDWDY #66: Busted knees and ruptured spleens — speakers: Max Rushden, David O'Doherty
 - 2026-04-04 — S4 EP14: Mel Giedroyc — speakers: Mel Giedroyc, Max Rushden, David O'Doherty
 - 2026-03-31 — WDWDY #65: Max & David's Woke Daydream — speakers: Max Rushden, David O'Doherty
 - 2026-03-29 — S4 EP13: Chris Addison — speakers: Chris Addison, Max Rushden, David O'Doherty

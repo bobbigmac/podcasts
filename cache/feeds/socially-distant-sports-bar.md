@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-04-05T09:55:50+00:00`
-- checked_at: `2026-04-05T09:55:50+00:00`
-- etag: `"djEuMi4wOjE3NzUzODI1NDk3MDI="`
+- fetched_at: `2026-04-08T03:32:12+00:00`
+- checked_at: `2026-04-08T03:32:12+00:00`
+- etag: `"djEuMi4wOjE3NzU2MDQyNzkzMjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-04-05T09:55:50+00:00",
+  "fetched_at": "2026-04-08T03:32:12+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "b466c261df9552244cf75b5c1b9090cf45d26d11",
+      "title": "Night One at The New Theatre (Pt 1)",
+      "published_at": "2026-04-07T23:24:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/night-one-at-the-new-theatre-pt-1",
+      "description": "Night One at The New Theatre (Pt 1) Elis James – the king of Welsh podcasting – joins forces with TV’s Tony Mammoth, Mike Bubbins, and ARIA award-winning producer Steff Garrero for a LIVE episode of The Socially Distant Sports Bar, recorded at the New Theatre in Cardiff in front of a sold-out crowd. 🚨 LAST REMAINING LIVE DATES 🚨 London's Hackney Empire TONIGHT is the ONLY show left — and tickets are almost gone. https://www.hackneyempire.co.uk/events/the-socially-distant-sports-bar-live This is Part 1 — the first half of the show , with: Mike: Golf https://www.instagram.com/reel/DVedLLGksz8/?igsh=cDk5a25ieDg4Mm91 Elis: Sir Alec https://www.instagram.com/reel/DV7J6eOgsQf/?igsh=MWlsNTJlNnFyZWxyeQ%3D%3D Mike: Karma https://youtube.com/shorts/bIXPZwGUgW4?si=Jk3u2KnMWNK0mYnE 👉 Want the full episode (including Part 3 Q&A)? Subscribe on Apple Podcasts. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69d0e6c9f57702d2d9dca99b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108902400",
+      "itunes_duration": "45:22",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "night",
+        "theatre"
+      ]
+    },
     {
       "key": "720daee9e96f260c8e66b43f9aa9dc3f78e12f0c",
       "title": "He Has Risen: Pint Size",
@@ -14414,6 +14435,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-07 — Night One at The New Theatre (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-04 — He Has Risen: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-02 — Mainland (pt 2) — speakers: sport’s weirdest, most fascinating, Elis James, Mike Bubbins, Steff Garrero
 - 2026-03-30 — Mainland (pt 1) — speakers: Mainland Three, Elis James, Mike Bubbins, Steff Garrero

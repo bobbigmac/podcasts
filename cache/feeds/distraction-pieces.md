@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-04-07T16:18:30+00:00`
-- checked_at: `2026-04-07T16:18:30+00:00`
-- etag: `"djEuMi4wOjE3NzU1NzYwMjIxNjU="`
+- fetched_at: `2026-04-08T03:32:12+00:00`
+- checked_at: `2026-04-08T03:32:12+00:00`
+- etag: `"djEuMi4wOjE3NzU2MTg0MzkyNzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-04-07T16:18:30+00:00",
+  "fetched_at": "2026-04-08T03:32:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9a5e1e6ebe15af8d2f895d44064bbe93854e17db",
+      "title": "DAVID DASTMALCHIAN • the LA vampire with an attitude of gratitude (Late Night With The Devil / One Piece / Oppenheimer) #666",
+      "published_at": "2026-04-08T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the excellent and truly unique actor DAVID DASTMALCHIAN ! The perfect guest for this episode 🤘 as the Iron Maiden classic spins in the background... David is a fantastic presence who has awesome stories but it's not just that, it's the whole vibe. Some might say \"essence\", if they're feeling snooty. But whatever the weather - always a good hang. There is a HUGE amount of covered ground here as you'd hope, including a hot off the press movie recommendation , some Cyndi Lauper business up top, music recommendations , loving LA as a vampire (complete with black umbrella), early Chicago days artistry, craft, process, gratitude and reckoning with past addictions having been in recovery for almost 2 decades. And, as Pip hints, tales for days. Really great stuff, proper Distraction Pieces goodness or - if you will - Dastmalchian Pieces , as it shall be known for this episode. Thank you. PIP'S PATREON PAGE if you're of a supporting nature IMDB INSTAGRAM LATE NIGHT WITH THE DEVIL STREET FIGHTER PRISONERS PIP AT PRINCE CHARLES CINEMA • 9th April! SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1775574895730-4c6ab2c5-fc87-45d5-8eed-ca0bafc36bec.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69d523d67c7533ee55f298a4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "130128417",
+      "itunes_duration": "54:09",
+      "speakers": [
+        "David Dastmalchian"
+      ],
+      "topics": [
+        "david",
+        "dastmalchian",
+        "vampire",
+        "attitude",
+        "gratitude",
+        "late",
+        "night",
+        "devil",
+        "piece",
+        "oppenheimer"
+      ]
+    },
     {
       "key": "6f6d0e68e94111f053718da43eb2a011237abe2f",
       "title": "GEORGINA CAMPBELL (Barbarian / Cold Storage / Black Mirror) • Friday Rewind",
@@ -18532,6 +18559,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — DAVID DASTMALCHIAN • the LA vampire with an attitude of gratitude (Late Night With The Devil / One Piece / Oppenheimer) #666 — speakers: David Dastmalchian
 - 2026-04-03 — GEORGINA CAMPBELL (Barbarian / Cold Storage / Black Mirror) • Friday Rewind
 - 2026-04-01 — ONE DRINK w/ Kae, Polar & Musa • a flashback to 2011 in 3 movements #665
 - 2026-03-27 — FULL FACT.org (independent fact checkers & campaigners) • Friday Rewind

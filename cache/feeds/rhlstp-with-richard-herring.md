@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-06T16:01:22+00:00`
-- checked_at: `2026-04-06T16:01:22+00:00`
-- etag: `"djEuMi4wOjE3NzU0ODg2ODI0MTQ="`
+- fetched_at: `2026-04-08T03:32:12+00:00`
+- checked_at: `2026-04-08T03:32:12+00:00`
+- etag: `"djEuMi4wOjE3NzU2MTcwNTkzMzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-06T16:01:22+00:00",
+  "fetched_at": "2026-04-08T03:32:12+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "edb9b2f8e73bac7442537a38b141bd63fb77835f",
+      "title": "RHLSTP 606 - Wendy Wason",
+      "published_at": "2026-04-08T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #606 - Why Nicholas Lyndhurst Is Like John Travolta - It’s another Podcast Rooms episode - I like them, do you? This week’s guest is someone Rich has known since drunken nights in the 90s in Edinburgh, actor, comedian and writer Wendy Wason. They chat about why Johnny Depp and John Malkovich touched Wendy’s tummy together, writing a play about witch hunts both historic and modern day, the possible power of crystals and why it’s OK for people to believe any rubbish they want (apart from flat earthers) and deciding to start doing stand up when your baby is 6 weeks old because it’s possible to do anything once you’ve created an actual human. SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1775488352634-8bbd58f7-4e92-4001-92e5-0bd38cc60ba7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69d3ceaad2e95f5131406524/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30619990",
+      "itunes_duration": "55:28",
+      "speakers": [
+        "Nicholas Lyndhurst",
+        "Richard Herring"
+      ],
+      "topics": [
+        "wendy",
+        "wason"
+      ]
+    },
     {
       "key": "a51bfb8f9ffd7b02d8c7a6b8540a7def5c30edf0",
       "title": "RAACN week 10",
@@ -21989,6 +22009,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — RHLSTP 606 - Wendy Wason — speakers: Nicholas Lyndhurst, Richard Herring
 - 2026-04-04 — RAACN week 10 — speakers: Richard Herring
 - 2026-04-03 — RHLSTP Book Club 175 - Chris Evans (not that one) — speakers: Chris Evans, Richard Herring
 - 2026-04-01 — RHLSTP 605 - Stephen Bailey — speakers: Stephen Bailey, Richard Herring

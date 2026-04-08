@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-04-07T19:32:08+00:00`
-- checked_at: `2026-04-07T19:32:08+00:00`
-- etag: `"djEuMi4wOjE3NzU1ODAyNTU5Mzg="`
+- fetched_at: `2026-04-08T03:32:12+00:00`
+- checked_at: `2026-04-08T03:32:12+00:00`
+- etag: `"djEuMi4wOjE3NzU2MTcyMzk3NzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-04-07T19:32:08+00:00",
+  "fetched_at": "2026-04-08T03:32:12+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "604505250f309f0d08c5df5f5de25e533ee61747",
+      "title": "John Mulaney",
+      "published_at": "2026-04-08T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/john-mulaney",
+      "description": "US stand-up superstar, ‘Saturday Night Live’ alumnus and ‘The Bear’ star John Mulaney has a table booked this week. But does he remember John the Mouse? John Mulaney is on tour in the UK and Ireland with his show ‘Mister Whatever’. For dates and tickets go to johnmulaney.com Follow John on Instagram @johnmulaney Watch the video version of this episode on the Off Menu YouTube on Thu 9 Apr. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1775558257241-0fbb711e-fae3-4048-a33e-4a8003c1e58d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69ce3d1ff57702d2d9ee7567/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98219776",
+      "itunes_duration": "1:21:50",
+      "speakers": [
+        "John Mulaney",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "john",
+        "mulaney"
+      ]
+    },
     {
       "key": "d32a21a60228a037245ccb27c3cb6439b66c973c",
       "title": "Regé-Jean Page",
@@ -8353,6 +8375,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — John Mulaney — speakers: John Mulaney, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-01 — Regé-Jean Page — speakers: Jean Page, Dream Restaurant, Ed Gamble, James Acaster, Ben Williams
 - 2026-03-25 — Ixta Belfrage — speakers: Ixta Belfrage Award, Ixta Belfrage, Ed Gamble, James Acaster, Ben Williams
 - 2026-03-18 — Kojey Radical — speakers: Kojey Radical Brit, Kojey Radical, Ed Gamble, James Acaster, Ben Williams
