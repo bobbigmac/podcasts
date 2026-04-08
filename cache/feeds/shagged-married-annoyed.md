@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-04-07T14:00:52+00:00`
-- checked_at: `2026-04-07T14:00:52+00:00`
-- last_modified: `Tue, 07 Apr 2026 11:41:50 GMT`
+- fetched_at: `2026-04-08T07:52:48+00:00`
+- checked_at: `2026-04-08T07:52:48+00:00`
+- last_modified: `Wed, 08 Apr 2026 03:58:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-07T14:00:52+00:00",
+  "fetched_at": "2026-04-08T07:52:48+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2c3216194ad1d6893e3c0346b8676f64da5d8b2b",
+      "title": "Please Keep Me Anonymous with Joanna Page",
+      "published_at": "2026-04-08T03:52:00+00:00",
+      "link": null,
+      "description": "Joining Chris and Rosie Ramsey on this week's Shagged Married Annoyed is the brilliant Actor, Podcaster, Taskmaster Contestant and star of Gavin and Stacey, Joanna Page! Joanna brings her incredible energy to the podcast and shares so much we almost didn't need a Please Keep Me Anonymous! They discuss family holidays, moving house, life with four kids and of course how much Joanna enjoyed taking part in the new series of Taskmaster! You can catch Joanna alongside Amy Gledhill, Armando Iannucci, Joel Dommett and Kumail Nanjiani on Taskmaster from April 9th at 9pm on Channel 4, you can also catch up on all episodes at channel4.com You can also get a glimpse in to Joanna's life on her podcast Lush, which is released weekly and is available wherever you get you get your podcasts If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a8ad5090-3271-11f1-9089-ab2b50af925f/image/7cb2980c82324f406350e50ba6a0af4a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5918773079.mp3?updated=1775560835",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2572",
+      "speakers": [
+        "Joanna Page",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "joanna",
+        "page"
+      ]
+    },
     {
       "key": "d4b44fd464a3e7f3c34d85dc5b353f890fee3e0c",
       "title": "April Fool's, School Trauma and Chris's Unfortunate Lookalike",
@@ -8075,6 +8097,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — Please Keep Me Anonymous with Joanna Page — speakers: Joanna Page, Rosie Ramsey, Chris Ramsey
 - 2026-04-03 — April Fool's, School Trauma and Chris's Unfortunate Lookalike — speakers: School Trauma, Rosie Ramsey, Chris Ramsey
 - 2026-04-01 — Please Keep Me Anonymous with Emma Doran — speakers: Emma Doran, Rosie Ramsey, Chris Ramsey
 - 2026-03-27 — The Oscars, the Return of the Motorhome and an Incident in the Shower — speakers: Rosie Ramsey, Chris Ramsey
