@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-04-08T14:02:27+00:00`
-- checked_at: `2026-04-08T14:02:27+00:00`
+- fetched_at: `2026-04-09T07:54:55+00:00`
+- checked_at: `2026-04-09T07:54:55+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Wed, 08 Apr 2026 11:52:57 GMT`
+- last_modified: `Thu, 09 Apr 2026 04:07:38 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-08T14:02:27+00:00",
+  "fetched_at": "2026-04-09T07:54:55+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1e463dafda3d22e457eedd9bcde859dc79ed4fe4",
+      "title": "Sarah Hadland",
+      "published_at": "2026-04-09T04:00:00+00:00",
+      "link": null,
+      "description": "Oh what joy to have the marvellous Sarah Hadland joining me in the garden this week. 💃🏼🪩 Strictly sensation, such fun sitcom star and a truly fabulous actress, soon to be lighting up the London stage in The Truth. 🦊 We chat fox poo, the perils of Slip 'n' Slide and, of course, getting pissed with Alan Titchmarsh. And stay tuned to hear all about a rather alarming encounter with a bull in East Croydon! So, get a sink at the ready (just in case), don those Strictly sequins, and do please join me for some Pottering. 🎧 Watch on YouTube and Spotify or listen wherever you get your podcasts. And please do like and subscribe, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/80c4b2d6-3338-11f1-b9fc-879c6c76a5b7/image/02294e7e386a885caf12a692e1413da4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR6870964333.mp3?updated=1775649468",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3710",
+      "speakers": [
+        "Sarah Hadland",
+        "Tom Allen"
+      ],
+      "topics": [
+        "sarah",
+        "hadland"
+      ]
+    },
     {
       "key": "0a6e319ca7556d9e03b8ff85b25431befa473139",
       "title": "Lou Beckett",
@@ -628,6 +648,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-09 — Sarah Hadland — speakers: Sarah Hadland, Tom Allen
 - 2026-04-02 — Lou Beckett — speakers: Lou Beckett Umbrellas, Lou Beckett, Tom Allen
 - 2026-03-26 — Dr Amir Khan — speakers: Amir Khan, Tom Allen
 - 2026-03-19 — The Clippings: Part 3 — speakers: Whilst Pottering, Tom Allen

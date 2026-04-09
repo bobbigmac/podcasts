@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-04-08T16:21:00+00:00`
-- checked_at: `2026-04-08T16:21:00+00:00`
-- etag: `"djEuMi4wOjE3NzU2NTY3Mjg4NTI="`
+- fetched_at: `2026-04-09T07:54:55+00:00`
+- checked_at: `2026-04-09T07:54:55+00:00`
+- etag: `"djEuMi4wOjE3NzU3MTA4Mzk4NDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-04-08T16:21:00+00:00",
+  "fetched_at": "2026-04-09T07:54:55+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a4b53a66bc842b181794ac266c11083632cf936d",
+      "title": "Flo & Joan (2019): ComCompendium",
+      "published_at": "2026-04-09T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/flo-joan-2019-comcompendium",
+      "description": "This week we’re delving back into the archives and going to episode 320 with the musical comedy genius of Flo & Joan where we discuss: going from open mics to a special on Amazon Prime in just four years the inside story on their Royal Variety Performance why going viral makes you turn your phone off what they learnt from the Canadian improv scene and how shaking an egg is harder than it looks... Join the Insiders Club at patreon.com/comcompod where you can instantly get access to over 30 minutes of exclusive extras . 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ 30mins of exclusive extra content with Flo & Joan ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly-ish Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Catch Up with Flo & Joan: Flo & Joan are on tour through the UK and Ireland from September! Find all the dates and more at floandjoan.com . Everything I'm up to: Come and see me LIVE - find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1775656099639-b96b9829-114d-449f-bbb6-7afd9450cff2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69d65ec0086c93c18bae7400/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99461952",
+      "itunes_duration": "1:09:04",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "joan",
+        "comcompendium"
+      ]
+    },
     {
       "key": "c3d909d83f95ac1c204e0e26ca104f6965fe71d0",
       "title": "Charlene Kaye",
@@ -11313,6 +11332,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-09 — Flo & Joan (2019): ComCompendium — speakers: Stuart Goldsmith
 - 2026-04-02 — Charlene Kaye — speakers: Charlene Kaye, Stuart Goldsmith
 - 2026-03-27 — Johnny Marriott from PET NEEDS: NonComPod — speakers: Johnny Marriott, Stuart Goldsmith
 - 2026-03-19 — Chris Fleming (2019): ComCompendium — speakers: Chris Fleming, Stuart Goldsmith
