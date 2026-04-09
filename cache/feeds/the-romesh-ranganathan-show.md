@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-04-06T08:02:08+00:00`
-- checked_at: `2026-04-06T08:02:08+00:00`
-- last_modified: `Mon, 06 Apr 2026 05:19:03 GMT`
+- fetched_at: `2026-04-09T03:28:29+00:00`
+- checked_at: `2026-04-09T03:28:29+00:00`
+- last_modified: `Thu, 09 Apr 2026 01:42:38 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-06T08:02:08+00:00",
+  "fetched_at": "2026-04-09T03:28:29+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "98d5a0688fc5d020a04c1aa90250d6cd1686a796",
+      "title": "Romesh & Shanthi Respond to the Haters",
+      "published_at": "2026-04-08T23:30:00+00:00",
+      "link": null,
+      "description": "Can Shanthi read minds? In this episode, Romesh and mum Shanthi talk about literally everything. From receiving negative comments, how to handle nightmares, Romesh's vaping problem and the chances that life is all just a simulation. They also answer listener questions, giving their best advice for your dilemmas. As always, it’s chaotic, honest and slightly unhinged. A Ranga Bee Production in partnership with Platform Chapters 00:00 Intro 01:55 Shanthi gets upset about the comments 04:45 Shanthi recieves a gift 05:54 A listener has a dreamy question for Romesh 07:15 Shanthi’s nightmare recovery 08:01 Romesh, vaping and nicorette dreams 12:29 A question on flatulence 21:16 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ebb58042-33a2-11f1-9198-f7949aac92ce/image/98420293248036f5c71ac79166841b54.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1145383817.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1554",
+      "speakers": [
+        "Shanthi Respond",
+        "Haters Can Shanthi",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "romesh",
+        "shanthi",
+        "respond",
+        "hater"
+      ]
+    },
     {
       "key": "2d5b7a2e32c84848e92d0378124ccb00cc676f07",
       "title": "James McAvoy: Acting, X-Men & Directing His First Film",
@@ -1321,6 +1344,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-08 — Romesh & Shanthi Respond to the Haters — speakers: Shanthi Respond, Haters Can Shanthi, Romesh Ranganathan
 - 2026-04-05 — James McAvoy: Acting, X-Men & Directing His First Film — speakers: James McAvoy, Romesh Ranganathan
 - 2026-04-01 — Shanthi's Hot Takes: Gentle Parenting, Ice Baths & Air Fryers — speakers: Gentle Parenting, Romesh Ranganathan
 - 2026-03-29 — Bryan Cranston: Breaking Bad, Malcolm In The Middle & Falling In Love With Acting — speakers: Bryan Cranston, Breaking Bad, Walter White, Romesh Ranganathan
