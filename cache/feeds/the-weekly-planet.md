@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-04-07T07:49:47+00:00`
-- checked_at: `2026-04-07T07:49:47+00:00`
-- etag: `"djEuMi4wOjE3NzU1NDMwMTY0ODU="`
+- fetched_at: `2026-04-09T14:13:46+00:00`
+- checked_at: `2026-04-09T14:13:46+00:00`
+- etag: `"djEuMi4wOjE3NzU3NDE0MzkzNzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-04-07T07:49:47+00:00",
+  "fetched_at": "2026-04-09T14:13:46+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d39d8fc9e8496d62ce78f7d38df305e9416e4968",
+      "title": "The War of the Worlds (1953) - Caravan Of Garbage",
+      "published_at": "2026-04-09T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/the-war-of-the-worlds-1953-caravan-of-garbage",
+      "description": "ALIENS ARE REAL. I mean, statistically the chances of there being life in an ever expanding universe is pretty much a lock. And to celebrate that and the return of Steven Spielberg to making an alien movie with Disclosure Day in 2026 we're going to take a look at three adaptations of the War of the Worlds, starting with the 1953 classic. An absolute astounding achievement in model work, design, alien monster suits, explosions and guys being stoic then running around for a bit. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69c9e42d9b6be94a1a9989d8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25893046",
+      "itunes_duration": "25:45",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "worlds",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "0eb55bd8274600c749b8612f40ff1621399f8e09",
       "title": "617 The Super Mario Galaxy Movie & Supergirl Trailer",
@@ -22037,6 +22058,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-09 — The War of the Worlds (1953) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-04-05 — 617 The Super Mario Galaxy Movie & Supergirl Trailer — speakers: James Clement, Nick Mason
 - 2026-04-02 — Ready Player One - Caravan Of Garbage — speakers: Ready Player One, James Clement, Nick Mason
 - 2026-03-30 — 616 Ready or Not 2/They Will Kill You & Trailers for Awful Remakes — speakers: James Clement, Nick Mason
