@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-06T10:20:11+00:00`
-- checked_at: `2026-04-06T10:20:11+00:00`
-- etag: `"djEuMi4wOjE3NzU0NjMwNzU1OTk="`
+- fetched_at: `2026-04-09T16:41:54+00:00`
+- checked_at: `2026-04-09T16:41:54+00:00`
+- etag: `"djEuMi4wOjE3NzU3NTEyOTYxNzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-06T10:20:11+00:00",
+  "fetched_at": "2026-04-09T16:41:54+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "11f4e0201608947d0284a9a8c35c7cfb1130c188",
+      "title": "AI is embedded in the British state",
+      "published_at": "2026-04-09T16:13:34+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/ai-is-embedded-in-the-british-state",
+      "description": "AI is embedded in the machinery of the British state: drafting legislation, shaping spending decisions, informing interest rate policy and writing speeches delivered in parliament. Has Britain handed over political power without ever really deciding to, and without fully understanding to whom? Tom McTague is joined by Will Dunn to discuss. READ Will's piece: https://www.newstatesman.com/technology/2026/04/the-silent-coup LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1775751020711-81b9f5b8-ae48-4fd6-a0fc-05105b2d039a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69d7d02e3ae78d6f11a3bdbd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132690038",
+      "itunes_duration": "55:15",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "state"
+      ]
+    },
     {
       "key": "21dc5e911936bd5ab33a2cc33312ff50ad1dcc06",
       "title": "Yanis Varoufakis: Greece has become Israel's \"handmaiden\"",
@@ -30936,6 +30955,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-09 — AI is embedded in the British state — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-04-06 — Yanis Varoufakis: Greece has become Israel's "handmaiden" — speakers: Yanis Varoufakis, Anoosh Chakelian, Oli Dugmore
 - 2026-04-03 — Thames Water's careless vandalism — speakers: Thames Water, Anoosh Chakelian, Oli Dugmore
 - 2026-04-02 — Trump’s ground options in Iran — speakers: Anoosh Chakelian, Oli Dugmore

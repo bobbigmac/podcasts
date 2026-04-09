@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-04-07T10:16:54+00:00`
-- checked_at: `2026-04-07T10:16:54+00:00`
-- etag: `W/"b9e7ed2b7c047529347d59d4c2e004af"`
-- last_modified: `Tue, 07 Apr 2026 09:33:07 GMT`
+- fetched_at: `2026-04-09T16:41:54+00:00`
+- checked_at: `2026-04-09T16:41:54+00:00`
+- etag: `W/"bf4f322cdc7f9ee8646887676a83e834"`
+- last_modified: `Thu, 09 Apr 2026 16:12:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-04-07T10:16:54+00:00",
+  "fetched_at": "2026-04-09T16:41:54+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -38,7 +38,7 @@
       "link": "https://audioboom.com/posts/8882282",
       "description": "Dan, James and Andy discuss YOUR facts, including dogs playing poker and peacocks destroying planets. Dan reveals the name of his pot plant. And we name eight more Friend of the Podcast fact custodians. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43479177.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8882282.mp3?modified=1775145892&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8882282.mp3?modified=1775554696&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1722",
@@ -111,7 +111,7 @@
       "link": "https://audioboom.com/posts/8879242",
       "description": "Daliso Chaponda joins Dan, James and Andy to discuss space, scrabble, smuggling and cichlids. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Thanks to the National Space Centre for the use of the BIS spacesuit image.",
       "image_url": "https://audioboom.com/i/43551214.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8879242.mp3?modified=1774611063&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8879242.mp3?modified=1774613377&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3447",
@@ -351,10 +351,10 @@
       "link": "https://audioboom.com/posts/8863325",
       "description": "Ray O'Leary joins Dan, James and Andy to discuss Rousseau, rays, receptionists and remarkable royalties. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
       "image_url": "https://audioboom.com/i/43483069.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8863325.mp3?modified=1771522930&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8863325.mp3?modified=1775751159&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3162",
+      "itunes_duration": "3062",
       "speakers": [
         "Ray O'Leary",
         "Dan Schreiber",
@@ -495,7 +495,7 @@
       "link": "https://audioboom.com/posts/8854261",
       "description": "Sally Phillips joins Dan, James and Andy to discuss Greenlandic traditions, Australian accents and British Airways. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43435573.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8854261.mp3?modified=1769709978&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8854261.mp3?modified=1773933451&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3106",

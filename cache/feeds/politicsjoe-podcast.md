@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-08T16:21:00+00:00`
-- checked_at: `2026-04-08T16:21:00+00:00`
-- etag: `"djEuMi4wOjE3NzU2NTk2MDEyMTA="`
+- fetched_at: `2026-04-09T16:41:54+00:00`
+- checked_at: `2026-04-09T16:41:54+00:00`
+- etag: `"djEuMi4wOjE3NzU3NDc2MTMyNDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-08T16:21:00+00:00",
+  "fetched_at": "2026-04-09T16:41:54+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "4a5c301f0eb0dd65cc92d8c2f56c822d07dd09b7",
+      "title": "What's next after Trump's Iran ceasefire? Scott Lucas interview",
+      "published_at": "2026-04-09T15:13:33+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69d7c21def4d72420652fffe",
+      "description": "Seán is joined by friend of the podcast Scott Lucas to make sense of the relative peace that has fallen in Tehran after the striking of a ceasefire deal on Tuesday. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69d7c21def4d72420652fffe/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71549813",
+      "itunes_duration": "37:14",
+      "speakers": [
+        "Scott Lucas"
+      ],
+      "topics": [
+        "trump",
+        "iran",
+        "ceasefire",
+        "scott",
+        "lucas"
+      ]
+    },
     {
       "key": "0f06dbc58d0a0b979463880c170aa7bdb1fff5ce",
       "title": "Karl Turner: Labour suspends MP critical of Keir Starmer",
@@ -12442,6 +12464,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-09 — What's next after Trump's Iran ceasefire? Scott Lucas interview — speakers: Scott Lucas
 - 2026-04-08 — Karl Turner: Labour suspends MP critical of Keir Starmer — speakers: Karl Turner
 - 2026-04-07 — Kanye West banned from the UK — speakers: Kanye West
 - 2026-04-06 — Answering your questions at Easter

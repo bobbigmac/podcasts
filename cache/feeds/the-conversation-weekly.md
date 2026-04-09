@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-04-09T14:13:46+00:00`
-- checked_at: `2026-04-09T14:13:46+00:00`
-- etag: `"2489b9-64f0627a084de"`
-- last_modified: `Thu, 09 Apr 2026 12:28:33 GMT`
+- fetched_at: `2026-04-09T16:41:54+00:00`
+- checked_at: `2026-04-09T16:41:54+00:00`
+- etag: `"24a6d5-64f08103f7650"`
+- last_modified: `Thu, 09 Apr 2026 14:45:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-04-09T14:13:46+00:00",
+  "fetched_at": "2026-04-09T16:41:54+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,25 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "962c6a2eace339ff015717db190d152d606d68a2",
+      "title": "The pseudoscientific scale looksmaxxers use to rate each other",
+      "published_at": "2026-04-09T14:45:00+00:00",
+      "link": "https://theconversation.com/the-pseudoscientific-attractiveness-scale-that-grew-out-of-incel-forums-and-is-now-making-money-for-looksmaxxing-influencers-280198",
+      "description": "If you have teenagers in your life, they’ll probably have heard of the PSL scale. Or at least the language associated with it. Chad. Stacy. Normie. Subhuman. The PSL scale is a pseudoscientific attractiveness rating system used by looksmaxxers, men in a part of the manosphere who can go to extreme methods to change their appearance. The roots of this rating system lie in misogynistic online forums used by incels or involuntarily celibates, but now it’s all over social media. So how did the language of incels, and this one way of quantifying attractiveness and beauty, go so mainstream? In this episode, we speak to Jordan Foster, an associate professor of sociology at MacEwan University in Alberta, Canada, who researches social media, beauty and masculinity. He explains the origins of the PSL scale, where it fits into the manosphere, and how some looksmaxxing influencers are making money off it. This episode was written and produced by Katie Flood and Gemma Ware was the executive producer. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. What parents need to know to talk to their children about the manosphere How ‘looksmaxxing’ self-improvement apps are marketing misogyny to young men Men can get out of the manosphere. Here’s what former incels say about why they left From gym to jawline: What looksmaxxing says about modern masculinity Mentioned in this episode: The We Society Tackling the big questions through a social science lens, the We Society Podcast from the Academy of Social Sciences brings you some of the best ideas to shape the way we live. Join acclaimed journalist and Academy president Will Hutton, as he invites guests from the world of social science to explore the stories behind the news and hear their solutions to society’s most pressing problems.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/8d3c4a15-24dc-4510-97b4-57ee9185688e.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43748458",
+      "itunes_duration": "30:23",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "scale",
+        "looksmaxxer"
+      ]
+    },
     {
       "key": "858cfedde82af1a2b15e9f1f9937403c239cc60b",
       "title": "The Making of One Nation: the unlikely rise of Australia’s Pauline Hanson",
@@ -5790,6 +5809,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-09 — The pseudoscientific scale looksmaxxers use to rate each other — speakers: Gemma Ware
 - 2026-04-02 — The Making of One Nation: the unlikely rise of Australia’s Pauline Hanson — speakers: Pauline Hanson, Gemma Ware
 - 2026-03-26 — Artemis II: NASA’s long road back to the Moon — speakers: Gemma Ware
 - 2026-03-19 — How the US cloned Iran's drones — speakers: Central Command, Gemma Ware
