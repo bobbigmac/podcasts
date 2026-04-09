@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-03-30T19:19:15+00:00`
-- checked_at: `2026-03-30T19:19:15+00:00`
-- etag: `"d11f6-64e40cad593a6"`
-- last_modified: `Mon, 30 Mar 2026 17:00:48 GMT`
+- fetched_at: `2026-04-09T21:58:05+00:00`
+- checked_at: `2026-04-09T21:58:05+00:00`
+- etag: `"d1dd6-64f0d17874a4a"`
+- last_modified: `Thu, 09 Apr 2026 20:45:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-03-30T19:19:15+00:00",
+  "fetched_at": "2026-04-09T21:58:05+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ce8be14dde8886b6e05f513b83b329d952959f98",
+      "title": "Phil Ellis - Series 21 Ep.1",
+      "published_at": "2026-04-09T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "We're back baby! Yes that's right it's officially Taskmaster time and we have been busy catching up with all the new (and past) contestants in the Taskmaster Caravan. To kick off Series 21 Ed is joined by the brilliant Phil Ellis! Phil shares his thoughts on the new series but also admits to being a bit sad that it's all carrying on without him! Ed and Phil discuss this first episode in detail but also chat about hair implants, life after Taskmaster and Phil's role in Eaten By Lions... You can see Phil on tour with his show Bath Mat, visit philelliscomedy.com for tickets You can catch up on all of Taskmaster at Channel4.com To get all the latest TM news visit Taskmaster.tv Watch even more Taskmaster content at www.youtube.com/c/Taskmaster",
+      "image_url": "https://artwork.captivate.fm/9b3573d7-ff17-4632-843a-248479638e21/TASKMASTER-PODCAST-ARTWORK-PHIL.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/12ec70b1-c439-442d-b618-546acf63f8bc.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=12ec70b1-c439-442d-b618-546acf63f8bc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58429774",
+      "itunes_duration": "01:00:51",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "phil",
+        "ellis",
+        "series"
+      ]
+    },
     {
       "key": "106a305e7db8f22e98d598b7d59e77c276b3d94a",
       "title": "Taskmaster The Podcast Rewind - Series 3 Ep3. With Katy Wix",
@@ -5237,6 +5257,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-09 — Phil Ellis - Series 21 Ep.1 — speakers: Ed Gamble
 - 2026-03-26 — Taskmaster The Podcast Rewind - Series 3 Ep3. With Katy Wix — speakers: Katy Wix, revisit Ed, Ed Gamble
 - 2026-03-19 — Taskmaster the Podcast Rewind - Series 1 Ep.4 With Nicola Coughlan — speakers: Derry Girls, Ed Gamble
 - 2026-03-12 — Taskmaster Live on Stage - New York Night #2 — speakers: New York Night, Ed Gamble
