@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-04-09T03:28:29+00:00`
-- checked_at: `2026-04-09T03:28:29+00:00`
-- last_modified: `Thu, 09 Apr 2026 03:20:33 GMT`
+- fetched_at: `2026-04-09T10:21:45+00:00`
+- checked_at: `2026-04-09T10:21:45+00:00`
+- last_modified: `Thu, 09 Apr 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/331bda8c1f2eae5ac227dbde5de618a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-09T03:28:29+00:00",
+  "fetched_at": "2026-04-09T10:21:45+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,33 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "69a3eeed9dd29e6311d4ef1219ec2beefa6eb251",
+      "title": "Patrick Radden Keefe on a Double Life, a Gilded City and a Mysterious Death",
+      "published_at": "2026-04-09T09:00:00+00:00",
+      "link": null,
+      "description": "In 2023, Patrick Radden Keefe met a man who told him, \"I might have a story for you.\" When you're Patrick — New Yorker staff writer, author of \"some of the most memorable nonfiction books of the last decade\" (that's the New York Times talking) — this is a hazard of the trade. But he heard the guy out. The guy said he knew a family whose 19-year-old son had died in mysterious circumstances. \"He went off the balcony of a luxury apartment building overlooking the Thames.\" When the boy's parents started looking into it, they made an astonishing discovery: Their son — a nice, upper-middle-class Londoner — had been running around the city posing as the son of a Russian oligarch. \"This guy said only about that much,\" Patrick tells us in today's episode, \"and I knew if the family would talk to me, this was my next thing.\" His new book is London Falling: A Mysterious Death in a Gilded City and a Family's Search for Truth . The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠here⁠⁠⁠ . Follow Rufus on ⁠⁠LinkedIn⁠⁠ , subscribe to our ⁠⁠Substack⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠nextbigideaclub.com⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). Sponsored By: Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠⁠meetfabric.com/nbi⁠⁠ Factor — Head to ⁠⁠⁠factormeals.com/idea50off⁠⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠⁠granola.ai/idea⁠⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP8879793822.mp3?updated=1775704656",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3498",
+      "speakers": [
+        "Patrick Radden Keefe",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "patrick",
+        "radden",
+        "keefe",
+        "life",
+        "gilded",
+        "city",
+        "mysterious",
+        "death"
+      ]
+    },
     {
       "key": "17728ad5e8857b52628a10ec91874321a8c8e37b",
       "title": "How to Be Okay When Nothing Is Okay",
@@ -7484,6 +7511,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-09 — Patrick Radden Keefe on a Double Life, a Gilded City and a Mysterious Death — speakers: Patrick Radden Keefe, Rufus Griscom, Caleb Bissinger
 - 2026-04-06 — How to Be Okay When Nothing Is Okay — speakers: Jenny Lawson, Rufus Griscom, Caleb Bissinger
 - 2026-04-02 — Best Of: The New Science of Improving Your Memory — speakers: Jean Renoir, Rufus Griscom, Caleb Bissinger
 - 2026-03-30 — How to Find the Meaning of Your Life (with Arthur C. Brooks) — speakers: Rufus Griscom, Caleb Bissinger

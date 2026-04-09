@@ -14840,6 +14840,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "eb88714c67b5c1548f32ec75be4ce337f52a17ff",
+        "episode_key": "eb88714c67b5c1548f32ec75be4ce337f52a17ff",
+        "title": "#40 - Harry Potter Jobsworths, Alex Horne and The Want of Prince",
+        "published_at": "2020-02-14T17:51:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The big four-oh sees John embarrassed by his full-time fiancée on Valentine's Day, comedian Alex Horne jumps on the Chesham bandwagon and our Unsung Hero is an absolute belter.\nTo get in touch with the show, email hello@elisandjohn.com\nFor lots of exclusive EJJR #content, join our Patreon at patreon.com/elisandjohn\nFor",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Am000f7hr/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/40-harry-potter-jobsworths-alex-horne-and-the-want-of-prince/id1465290044?i=1000465615833&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:d3a3c6055afb",
         "feed_title": "The Horne Section Podcast",
         "source_rss_url": "https://feeds.acast.com/public/shows/33d542b1-7589-4a3b-9207-b89d31c6234f",
@@ -16925,6 +16947,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "7c47a4ce9a13d555a40e86d69e1d7a19d8902242",
+        "episode_key": "7c47a4ce9a13d555a40e86d69e1d7a19d8902242",
+        "title": "#287 - Memoirhahas, Cat Flap Chaos and Tessellation Turmoil",
+        "published_at": "2023-09-01T16:56:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "After a month long loan deal expired, Edinburgh returned John Robins. So Robins, free from the Scottish capital's creative buzz and extortionate rental prices returned to the studio... to broadcast to Britain and the world. But today he was not with his companion of norm.\nWith Elis away on a sojourn for Isy's birthday,",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Am001q1f5/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/287-memoirhahas-cat-flap-chaos-and-tessellation-turmoil/id1465290044?i=1000626484040&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:bb2224026702",
         "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
         "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",
@@ -17948,6 +17992,28 @@
       }
     ],
     "stewart-lee": [
+      {
+        "feed_slug": "external:apple:86e8d6833f90",
+        "feed_title": "Strong Message Here",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
+        "dedupe_key": "9662ca806c9b28dbd4d922f369b49565c327ba39",
+        "episode_key": "9662ca806c9b28dbd4d922f369b49565c327ba39",
+        "title": "Deep Disillusionment in This Country (with Stewart Lee)",
+        "published_at": "2026-04-08T12:20:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week, Armando is joined again by Stewart Lee to look at how political actors use language.\nWes Streeting says there is a 'deep disillusionment in this country', and says there is a “growing sense of despair about whether anyone is capable of turning this country round\". Why is that? And does politicians speaking i",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nc623g.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/deep-disillusionment-in-this-country-with-stewart-lee/id1774462541?i=1000734191416&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:86e8d6833f90",
         "feed_title": "Strong Message Here",
