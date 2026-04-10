@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-04-08T03:32:12+00:00`
-- checked_at: `2026-04-08T03:32:12+00:00`
-- etag: `"djEuMi4wOjE3NzU2MTg0MzkyNzY="`
+- fetched_at: `2026-04-10T03:41:15+00:00`
+- checked_at: `2026-04-10T03:41:15+00:00`
+- etag: `"djEuMi4wOjE3NzU3OTEyMzkyOTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-04-08T03:32:12+00:00",
+  "fetched_at": "2026-04-10T03:41:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e932c32535d13303045f67bc0077a0eaf8b7f20c",
+      "title": "JAMIE DEMETRIOU (Stath Lets Flats / Fleabag / Paddington 2) • Friday Rewind",
+      "published_at": "2026-04-10T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Jamie Demetriou , originally episode 212 from 2018-06-20. Original writeup below: You’re going to be seeing a LOT more of Jamie over the next month or two as he’s about to unveil his new series ‘Stath Lets Flats’, which is part of Channel 4’s ‘Comedy Blaps’ vehicle - in the meantime, enjoy this proper get together with Pip and Jamie, as the two cover a ton of ground in the cosy but apparently humid Acast studios to discuss the use of the not often utilised Greek accent in comedy, working on a small scale as a jumping board for larger scale work, the fact that he’s “Always done idiots”, working with and promoting his comedian sister, the heightened but committed character, reactions to comedy within the actual scenes, improv and the importance of casting, the insanity and craziness of the Edinburgh Fringe, the idea of ‘anti-comedy’, and it’s important to point out that while this episode features reference to David Earl throughout, the podcast is not sponsored nor overseen by him. But check him out whenever you can, of course. He’s awesome. So’s Jamie. Enjoy! PIP'S PATREON PAGE if you're of a supporting nature STATH LETS FLATS INSTAGRAM IMDB PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1775774279605-df5804a5-14a3-46ae-8f1a-7e14d79ae323.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69d82b10d3f0dd77477e2a25/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "178037151",
+      "itunes_duration": "1:14:07",
+      "speakers": [],
+      "topics": [
+        "jamie",
+        "demetriou",
+        "stath",
+        "lets",
+        "flats",
+        "fleabag",
+        "paddington",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "9a5e1e6ebe15af8d2f895d44064bbe93854e17db",
       "title": "DAVID DASTMALCHIAN • the LA vampire with an attitude of gratitude (Late Night With The Devil / One Piece / Oppenheimer) #666",
@@ -18559,6 +18583,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-10 — JAMIE DEMETRIOU (Stath Lets Flats / Fleabag / Paddington 2) • Friday Rewind
 - 2026-04-08 — DAVID DASTMALCHIAN • the LA vampire with an attitude of gratitude (Late Night With The Devil / One Piece / Oppenheimer) #666 — speakers: David Dastmalchian
 - 2026-04-03 — GEORGINA CAMPBELL (Barbarian / Cold Storage / Black Mirror) • Friday Rewind
 - 2026-04-01 — ONE DRINK w/ Kae, Polar & Musa • a flashback to 2011 in 3 movements #665

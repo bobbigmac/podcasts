@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-04-08T03:32:12+00:00`
-- checked_at: `2026-04-08T03:32:12+00:00`
-- etag: `"djEuMi4wOjE3NzU2MDQyNzkzMjM="`
+- fetched_at: `2026-04-10T03:41:15+00:00`
+- checked_at: `2026-04-10T03:41:15+00:00`
+- etag: `"djEuMi4wOjE3NzU3NzcxOTkyODc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-04-08T03:32:12+00:00",
+  "fetched_at": "2026-04-10T03:41:15+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "18084b4774d95e381c8323db50c34c6766b1e99b",
+      "title": "Night One at The New Theatre (Pt 2)",
+      "published_at": "2026-04-09T23:26:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/night-one-at-the-new-theatre-pt-2",
+      "description": "Night One at The New Theatre (Pt 2) Part 2 of our LIVE Cardiff show — and the crowd (and hosts) are a few drinks deeper… https://www.hackneyempire.co.uk/events/the-socially-distant-sports-bar-live Featuring: Steff: Hull KR crowd https://www.instagram.com/reel/DU85KI8DsbY/?igsh=MWlqMzJ3eG9xdWFkZA== Steff: Perfect for Running https://www.youtube.com/shorts/DkRc0SIdO0k Elis: High Jump https://www.instagram.com/reel/DVrDTyAjio4/?igsh=Y3liMWRsMzEyMGYz 👉 For Part 3 (Q&A), subscribe on Apple Podcasts. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69d0e7bad2e95f51313611ee/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125783040",
+      "itunes_duration": "52:24",
+      "speakers": [
+        "Night One",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "night",
+        "theatre"
+      ]
+    },
     {
       "key": "b466c261df9552244cf75b5c1b9090cf45d26d11",
       "title": "Night One at The New Theatre (Pt 1)",
@@ -14435,6 +14457,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-09 — Night One at The New Theatre (Pt 2) — speakers: Night One, Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-07 — Night One at The New Theatre (Pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-04 — He Has Risen: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-02 — Mainland (pt 2) — speakers: sport’s weirdest, most fascinating, Elis James, Mike Bubbins, Steff Garrero

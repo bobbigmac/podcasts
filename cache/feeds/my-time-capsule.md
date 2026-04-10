@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-04-09T21:58:05+00:00`
-- checked_at: `2026-04-09T21:58:05+00:00`
-- etag: `"djEuMi4wOjE3NzU3Njc0MzI0Nzc="`
+- fetched_at: `2026-04-10T03:41:15+00:00`
+- checked_at: `2026-04-10T03:41:15+00:00`
+- etag: `"djEuMi4wOjE3NzU3NzU3NTkyNzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-04-09T21:58:05+00:00",
+  "fetched_at": "2026-04-10T03:41:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2dd3659907a1f3165f51047ac4553a12626ab1be",
+      "title": "Doug Allan Tribute - A look back at Ep. 314 with the wildlife cameraman, who died this week",
+      "published_at": "2026-04-09T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/doug-allan-tribute-a-look-back-at-ep-314-with-the-wildlife-c",
+      "description": "After the extremely sad news of the death of wildlife cameraman Doug Allan this week, we thought we would share his wonderful episode again as a tribute to his extraordinary life and career. It was first released in August 23. Our love and thoughts to his family and friends. Doug Allan was lead cameraman on The Blue Planet, Planet Earth, Life, Human Planet, Frozen Planet, Expedition Iceberg and Forces of Nature and is responsible for some of the most famous wildlife footage ever filmed, including the extraordinary sequence of killer whales creating waves to wash seals off ice floes in Antarctica. He spent much of his career working alongside Sir David Attenborough. Doug has won eight Emmys and four BAFTAs and in 2017 he won an outstanding contribution award at the British Academy Scotland Awards. In 2011 he filmed and was a presenter for the BBC series Ocean Giants about whales worldwide and In 2012 he was one of the presenters on Operation Iceberg, as well as filming many of the sequences in this award winning series. Doug appeared on BBC Radio 4's Desert Island Discs in 2014 and The Museum of Curiosity in 2019 . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69d80f8800eb02bda1bd7377/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65675410",
+      "itunes_duration": "54:43",
+      "speakers": [
+        "Doug Allan"
+      ],
+      "topics": [
+        "doug",
+        "allan",
+        "tribute",
+        "look",
+        "wildlife",
+        "cameraman",
+        "week"
+      ]
+    },
     {
       "key": "cdf27fdea4bd43a7bf1d8b6ea660cc4c65e9b654",
       "title": "Ep. 576 - Riki Lindhome - Actor, comedian from film Million Dollar Baby and TV Wednesday & Big Bang Theory",
@@ -12314,6 +12338,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-09 — Doug Allan Tribute - A look back at Ep. 314 with the wildlife cameraman, who died this week — speakers: Doug Allan
 - 2026-04-06 — Ep. 576 - Riki Lindhome - Actor, comedian from film Million Dollar Baby and TV Wednesday & Big Bang Theory — speakers: Riki Lindhome, Million Dollar Baby, Big Bang Theory Riki
 - 2026-04-05 — Easter Apology — speakers: Easter Apology No, Happy Easter, Follow My Time Capsule
 - 2026-04-03 — Ep. 575 - Daniel Edison - Award winning one-liner comedian, as seen on Britain's Got Talent 2026. — speakers: Daniel Edison Award, Snows Comedy Star, Daniel Edison

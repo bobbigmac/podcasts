@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-04-09T16:41:54+00:00`
-- checked_at: `2026-04-09T16:41:54+00:00`
-- last_modified: `Thu, 09 Apr 2026 16:18:33 GMT`
+- fetched_at: `2026-04-10T03:41:15+00:00`
+- checked_at: `2026-04-10T03:41:15+00:00`
+- last_modified: `Thu, 09 Apr 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-09T16:41:54+00:00",
+  "fetched_at": "2026-04-10T03:41:15+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e468d8c987a078f760fdf4919780dba64ff6788f",
+      "title": "André The Giant, Tom’s Man Room and Rom the Sex Symbol",
+      "published_at": "2026-04-09T23:01:00+00:00",
+      "link": null,
+      "description": "What is Tom’s favourite memory of Romesh, what happened at the Wonka premiere and would you eat a burrito from Tom’s belly button or arse crack? This week we not only answer some of your questions, but have even more of our own, like why isn’t Tom allowed to play Fifa? and why is Romesh’s name on a vibrator…? Send in your questions, pictures, videos and voice notes to wolfowlpod@gmail.com for the chance to have them answered in an upcoming episode. A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 - Intro 01:38 - Friendship Memories 05:41 - Would you rather? 06:49 - Bakery dilemma 13:49 - Tipping 14:36 - Falling over 16:03 - André the giant 16:58 - Fifa 19:20 - Rom the sex symbol Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/80dc0694-33ff-11f1-b7ff-bb5eb4f5e312/image/de3b3cfd0fd5adde0545b110ba87a5b8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8200090482.mp3?updated=1775751806",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1588",
+      "speakers": [
+        "Tom’s Man Room",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "giant",
+        "room",
+        "symbol"
+      ]
+    },
     {
       "key": "c81eb43b34e1bcd857e067a75b00eda1355bbe50",
       "title": "Marvel Auditions, Soap Dramas and Spider Bites",
@@ -6473,6 +6495,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-09 — André The Giant, Tom’s Man Room and Rom the Sex Symbol — speakers: Tom’s Man Room, Romesh Ranganathan, Tom Davis
 - 2026-04-06 — Marvel Auditions, Soap Dramas and Spider Bites — speakers: Soap Dramas, Spider Bites, Romesh Ranganathan, Tom Davis
 - 2026-04-02 — Ed Sheeran, Marriage Proposals and Sunderland — speakers: Ed Sheeran, Romesh Ranganathan, Tom Davis
 - 2026-03-31 — Wikifeet, Football Manager and Pro Plus — speakers: Tom’s Wikifeet, Romesh Ranganathan, Tom Davis

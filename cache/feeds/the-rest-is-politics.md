@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-04-08T19:40:45+00:00`
-- checked_at: `2026-04-08T19:40:45+00:00`
-- last_modified: `Wed, 08 Apr 2026 19:05:19 GMT`
+- fetched_at: `2026-04-10T03:41:15+00:00`
+- checked_at: `2026-04-10T03:41:15+00:00`
+- last_modified: `Fri, 10 Apr 2026 00:35:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-08T19:40:45+00:00",
+  "fetched_at": "2026-04-10T03:41:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -8187,7 +8187,7 @@
       "link": null,
       "description": "Is it too late to save our rivers? How should the government approach drug testing at festivals? Which political journalists were in attendance at George Osborne's wedding? Singer, environmental campaigner, and our next Leading guest Feargal Sharkey steps in for Rory to answer all these questions and more. TRIP Plus: Become a member of The Rest Is Politics Plus to support the podcast, enjoy ad-free listening to both TRIP and Leading, benefit from discount book prices on titles mentioned on the pod, join our Discord chatroom, and receive early access to live show tickets and Question Time episodes. Just head to therestispolitics.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestispolitics . Instagram: @restispolitics Twitter: @RestIsPolitics Email: restispolitics@gmail.com Producers: Dom Johnson + Nicole Maslen Exec Producers: Tony Pastor + Jack Davenport Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1534536355.mp3?updated=1693286713",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1534536355.mp3?updated=1775781609",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1601",
@@ -8211,7 +8211,7 @@
       "link": null,
       "description": "Is there any way that Sunak can win the next election? Would a second Trump presidency decisively change the course of the Ukraine conflict? What's the future of Palestine in the face of Netanyahu's far right government in Israel? Rory and Alastair answer all these questions and more on today's episode of The Rest Is Politics. TRIP Plus: Become a member of The Rest Is Politics Plus to support the podcast, enjoy ad-free listening to both TRIP and Leading, benefit from discount book prices on titles mentioned on the pod, join our Discord chatroom, and receive early access to live show tickets and Question Time episodes. Just head to therestispolitics.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestispolitics . Instagram: @restispolitics Twitter: @RestIsPolitics Email: restispolitics@gmail.com Producers: Dom Johnson + Nicole Maslen Exec Producers: Tony Pastor + Jack Davenport Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7650991130.mp3?updated=1693288026",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7650991130.mp3?updated=1775781477",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2814",
