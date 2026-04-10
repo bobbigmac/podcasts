@@ -1163,6 +1163,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:7e66e5c79019",
+        "feed_title": "Good One",
+        "source_rss_url": "https://feeds.megaphone.fm/VMP8521265258",
+        "dedupe_key": "16f96768b84d9b3916567faeb47ad8fa1f7322e2",
+        "episode_key": "16f96768b84d9b3916567faeb47ad8fa1f7322e2",
+        "title": "James Acaster Unpacks His Kettering Town FC Chant and Reacts to Bo Burnham",
+        "published_at": "2025-07-10T15:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Good One is moving to video! Check us out on ⁠Vulture's Youtube channel.⁠ \n\nComedian James Acaster joins this week's episode of Good One to talk about the lifecycle of his Kettering FC chant bit, almost deciding to quit stand up, and finally seeing Bo Burnham's 'Inside'.\n\n00:00 Intro\n00:01:02 Funniest thing that happen",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP6201114085.mp3?updated=1752161708",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster-unpacks-his-kettering-town-fc-chant-and/id1203393721?i=1000716700467&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -1946,6 +1968,28 @@
         "description": "Huge Davies takes on hosting duties this week to ask how the boys would steal an animal from London Zoo, and how much they would have to be paid to never use a bag again.\nHypothetical the Podcast is a Hat Trick Production for Dave. Our guest host this week was Huge Davies. The guests were Josh Widdicombe and James Acas",
         "audio_url": "https://sphinx.acast.com/p/open/s/625563eef25a12001309ecc2/e/62821987f7114f0012f21b10/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/huge-davies/id1621722160?i=1000565729883&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:04bf13a3cc34",
+        "feed_title": "Hypothetical The Podcast with Josh Widdicombe and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/625563eef25a12001309ecc2",
+        "dedupe_key": "bd99734f2c65a3bcba063d91a00d5add53eaa726",
+        "episode_key": "bd99734f2c65a3bcba063d91a00d5add53eaa726",
+        "title": "Rosie Jones",
+        "published_at": "2022-06-02T04:00:17Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's time for Rosie Jones to be our host, asking the boys how they would order a coffee if they were 3 inches tall and how they'd explain giving eels as gifts for the rest of their lives…\nHypothetical the Podcast is a Hat Trick Production for Dave. Our guest host this week was Rosie Jones. The guests were Josh Widdicom",
+        "audio_url": "https://sphinx.acast.com/p/open/s/625563eef25a12001309ecc2/e/628215b0eadd5e0012e7ac90/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/rosie-jones/id1621722160?i=1000564917447&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
