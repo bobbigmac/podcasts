@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-04-08T16:21:00+00:00`
-- checked_at: `2026-04-08T16:21:00+00:00`
-- etag: `"djEuMi4wOjE3NzU2NjA0Mzk0Mjc="`
+- fetched_at: `2026-04-10T13:49:49+00:00`
+- checked_at: `2026-04-10T13:49:49+00:00`
+- etag: `"djEuMi4wOjE3NzU4Mjc4MzkzOTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-04-08T16:21:00+00:00",
+  "fetched_at": "2026-04-10T13:49:49+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "2ff761ba811267b2ad817783eae2d04f94a7d90c",
+      "title": "Behind the scenes with Artemis II’s scientists during the historic Moon fly-by",
+      "published_at": "2026-04-10T13:30:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01208-1",
+      "description": "In this episode: On Monday, reporter Alexandra Witze was in the heart of the Artemis II mission’s science operations. She tells us about the experience and what NASA’s researchers have learnt from the mission so far. Nature: I was with Artemis II’s scientists during the Moon fly-by. Here’s what I saw Nature: First photos from Artemis II: see stunning ‘Earthset’ and more Nature: Historic Artemis II Moon fly-by — Nature’s live coverage as it happened Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69d8dbaed3f0dd7747b95cde/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13142157",
+      "itunes_duration": "13:40",
+      "speakers": [
+        "Alexandra Witze",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "scene",
+        "artemis",
+        "scientist",
+        "moon"
+      ]
+    },
     {
       "key": "ca8bab8fd9fbd2ad084e804a5fea1670e08fd156",
       "title": "Briefing Chat: The tongue trick that helps sunbirds suck",
@@ -19404,6 +19427,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-10 — Behind the scenes with Artemis II’s scientists during the historic Moon fly-by — speakers: Alexandra Witze, Benjamin Thompson, Noah Baker
 - 2026-04-08 — Briefing Chat: The tongue trick that helps sunbirds suck — speakers: Benjamin Thompson, Noah Baker
 - 2026-04-02 — Artemis II is go: humans head to the Moon after half-century absence — speakers: Benjamin Thompson, Noah Baker
 - 2026-04-01 — These scientists chased a jet to learn more about ‘lean-burn’ contrails — speakers: Voigt et al, Benjamin Thompson, Noah Baker
