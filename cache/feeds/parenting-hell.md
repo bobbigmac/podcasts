@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-04-07T03:30:40+00:00`
-- checked_at: `2026-04-07T03:30:40+00:00`
-- last_modified: `Tue, 07 Apr 2026 03:05:57 GMT`
+- fetched_at: `2026-04-10T07:59:20+00:00`
+- checked_at: `2026-04-10T07:59:20+00:00`
+- last_modified: `Fri, 10 Apr 2026 07:14:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-07T03:30:40+00:00",
+  "fetched_at": "2026-04-10T07:59:20+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c5f311eaeeab660a64a404ee7d6fb7721b0592db",
+      "title": "S12 EP28: Emma Doran",
+      "published_at": "2026-04-10T06:07:00+00:00",
+      "link": null,
+      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) it's the brilliant comedian - Emma Doran. Emma Doran extends her Emmaculate UK and Ireland stand-up tour up until 2027, including the London Palladium on 7th February 2027. Emma will also make her debut at the 2026 Edinburgh Festival Fringe, Pleasance Courtyard – Beside from 5 – 30th August (excl 12th, 19th, 26th) For more info and tickets visit emmadorancomedy.com Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2118061273.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3921",
+      "speakers": [
+        "Emma Doran",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "emma",
+        "doran"
+      ]
+    },
     {
       "key": "4acdfdfd3efb2e061a5b48cadc297de82f041914",
       "title": "S12 EP27: A Couple of Petrolheads",
@@ -12164,6 +12185,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-10 — S12 EP28: Emma Doran — speakers: Emma Doran, Rob Beckett, Josh Widdicombe
 - 2026-04-06 — S12 EP27: A Couple of Petrolheads — speakers: Rob Beckett, Josh Widdicombe
 - 2026-04-03 — S12 EP26: Jamie Laing — speakers: Jamie Laing, Rob Beckett, Josh Widdicombe
 - 2026-03-30 — S12 EP25: Who don't you like? — speakers: Rob Beckett, Josh Widdicombe

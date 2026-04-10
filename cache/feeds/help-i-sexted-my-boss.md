@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-04-09T16:41:54+00:00`
-- checked_at: `2026-04-09T16:41:54+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpVM05Ea3hPVFE0T1RjPTo6c2F4ZXNz"`
+- fetched_at: `2026-04-10T07:59:20+00:00`
+- checked_at: `2026-04-10T07:59:20+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpVM09UZzJNekU0TXpnPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-04-09T16:41:54+00:00",
+  "fetched_at": "2026-04-10T07:59:20+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "072f419e13ee9120b5ab8b732cbb4c63ce6df239",
+      "title": "Viagra For Hamsters!? | And More Niche Knowledge",
+      "published_at": "2026-04-10T05:23:51+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/viagra-for-hamsters-and-more-niche-knowledge",
+      "description": "William’s been busy cleaning his skirting boards, and it’s getting Jordan VERY flustered. The boys also dive into plenty of discussion regarding barnacle penises, belly button fluff, and the mystery behind giving Viagra to hamsters as they react to your niche interests and facts. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1775749182295-467bb392-8652-451d-b0a1-2e58d338be8f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69d7c825f1cc54b0f22443c2/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=z93GaQu-DZADAM4-qyW9vPxKPqe2hVPfwCoTWvk76l0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28419970",
+      "itunes_duration": "29:36",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "viagra",
+        "hamsters",
+        "niche",
+        "knowledge"
+      ]
+    },
     {
       "key": "530dad878fe09cbb75fda6a1308a7ca93581119a",
       "title": "Help I Want My Boss's Sausage | And William’s Got BEER FEAR",
@@ -14059,6 +14081,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-10 — Viagra For Hamsters!? | And More Niche Knowledge — speakers: William Hanson, Jordan North
 - 2026-04-07 — Help I Want My Boss's Sausage | And William’s Got BEER FEAR — speakers: William’s Got, William Hanson, Jordan North
 - 2026-04-03 — William's KFC Review | And Jordan's Northern Problem — speakers: William Hanson, Jordan North
 - 2026-03-31 — Help I’ve Never Shaved My Pubes | And Jordan’s Buckfast Regret — speakers: Jordan’s Buckfast Regret, William Hanson, Jordan North

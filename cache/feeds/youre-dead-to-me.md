@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-04-07T14:00:52+00:00`
-- checked_at: `2026-04-07T14:00:52+00:00`
-- etag: `"0436410afc91bd1a8b77d6ae983e8a05"`
-- last_modified: `Tue, 07 Apr 2026 12:29:24 GMT`
+- fetched_at: `2026-04-10T07:59:20+00:00`
+- checked_at: `2026-04-10T07:59:20+00:00`
+- etag: `"e7318eac40bb7e0c50932768fb2ab2a8"`
+- last_modified: `Fri, 10 Apr 2026 05:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1pytt.jpg",
-  "fetched_at": "2026-04-07T14:00:52+00:00",
+  "fetched_at": "2026-04-10T07:59:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,27 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "bf49c55f9d7dc116a11c36531bde7879ee94273b",
+      "title": "El Cid: the life and legend of a medieval Spanish warrior",
+      "published_at": "2026-04-10T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002smys",
+      "description": "Greg Jenner is joined in medieval Spain by historian Professor Nora Berend and comedian Toussaint Douglass to learn about the colourful life and afterlife of the warrior known as El Cid. El Cid – real name Rodrigo Díaz – was a mercenary in eleventh-century Spain who fought for both Christian kings and Muslim rulers before setting himself up as ruler of Valencia. This episode explores his dramatic life in the period before religious divisions were key on the Iberian Peninsula, and an ambitious warrior might fight for whoever would pay him. It then traces the legend that grew up around him after his death, taking in the medieval romances written about El Cid, the surprising role his bones played in the Napoleonic wars, his appropriation by General Franco after the Spanish Civil War, and even the classic Hollywood film starring Charlton Heston and Sophia Loren. If you’re a fan of legendary but mysterious figures from the past, medieval romances, and the use and misuse of history for political purposes, you’ll love our episode on El Cid. If you want to learn more about other historical events mentioned in this episode, listen to our episodes on al-Andalus and Young Napoleon. And for more from Toussaint Douglass, check out our episodes on Frederick Douglass and the Causes of the British Civil Wars. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Adam Simcox Written by: Adam Simcox, Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n5qspl.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55936000",
+      "itunes_duration": "3496",
+      "speakers": [
+        "Greg Jenner",
+        "Nora Berend"
+      ],
+      "topics": [
+        "life",
+        "legend",
+        "warrior"
+      ]
+    },
     {
       "key": "a06490d7410e0afd59415f878ce4ab79d423306a",
       "title": "Empress Dowager Cixi: from concubine to ruler of China",
@@ -5705,6 +5726,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-10 — El Cid: the life and legend of a medieval Spanish warrior — speakers: Greg Jenner, Nora Berend
 - 2026-04-03 — Empress Dowager Cixi: from concubine to ruler of China — speakers: Greg Jenner, Yangwen Zheng
 - 2026-03-27 — History of the Telephone: 150th anniversary special — speakers: Greg Jenner, Iwan Morus
 - 2026-03-20 — History of Spices: commerce, colonialism and culinary innovation — speakers: Greg Jenner, David Veevers, Paul Sinha
