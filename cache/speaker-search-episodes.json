@@ -29423,6 +29423,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:e3e516d0d8b6",
+        "feed_title": "RED TALKS",
+        "source_rss_url": "https://feeds.megaphone.fm/APL1280656580",
+        "dedupe_key": "d9a9e7fb5623e29a3de14ec84fb108212253c6ac",
+        "episode_key": "d9a9e7fb5623e29a3de14ec84fb108212253c6ac",
+        "title": "HARRY HILL: Comedian, Doctor, Man",
+        "published_at": "2026-03-29T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedy Legend Harry Hill joins Red Richardson and shares stories from his early days winning the very first Edinburgh Best Newcomer Award, his competitiveness with contemporaries like Lee Evans and Jack Dee and shares some behind the scenes stories from You've Been Framed about a naughty producer and he tells a story a",
+        "audio_url": "https://traffic.megaphone.fm/APL8200581865.mp3?updated=1775818570",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harry-hill-comedian-doctor-man/id1849405652?i=1000758105998&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill",
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e5b58072e338",
         "feed_title": "Oh My Dog! with Jack Dee and Seann Walsh",
         "source_rss_url": "https://anchor.fm/s/10b7d8230/podcast/rss",
