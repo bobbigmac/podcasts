@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-10T19:12:05+00:00`
-- checked_at: `2026-04-10T19:12:05+00:00`
-- etag: `"djEuMi4wOjE3NzU4NDAxMDk1Mzc="`
+- fetched_at: `2026-04-11T09:57:06+00:00`
+- checked_at: `2026-04-11T09:57:06+00:00`
+- etag: `"djEuMi4wOjE3NzU4OTQ0Mzk0MTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Oli Dugmore and the New Statesman team",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-10T19:12:05+00:00",
+  "fetched_at": "2026-04-11T09:57:06+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "1ae18aa98f6899c6f4f1ae6f2efd7f11f0dc4cf2",
+      "title": "Trump’s “demented” Easter and fragile ceasefire | Will and Anoosh's weekly round up",
+      "published_at": "2026-04-11T08:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/trumps-demented-easter-and-fragile-ceasefire-will-and-anoosh",
+      "description": "Trump’s \"demented\" Easter announcement, Britain’s squeezed middle and getting “the ick” for Zack Polanski… Anoosh Chakelian and Will Dunn round up the stories of the week. READ: https://www.newstatesman.com/politics/the-sketch/2026/04/the-trumps-wish-the-world-a-very-demented-easter https://www.newstatesman.com/international-politics/economy-international-politics/2026/04/britains-vanishing-middle-class LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1775839605148-11a6a166-9978-4ca2-8afa-4660bb8a42c5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69d92b6dfdeddc4b127036e4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50110620",
+      "itunes_duration": "26:02",
+      "speakers": [
+        "Zack Pol",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "trump",
+        "easter",
+        "ceasefire",
+        "anoosh",
+        "round"
+      ]
+    },
     {
       "key": "11f4e0201608947d0284a9a8c35c7cfb1130c188",
       "title": "AI is embedded in the British state",
@@ -30955,6 +30979,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-11 — Trump’s “demented” Easter and fragile ceasefire | Will and Anoosh's weekly round up — speakers: Zack Pol, Anoosh Chakelian, Oli Dugmore
 - 2026-04-09 — AI is embedded in the British state — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-04-06 — Yanis Varoufakis: Greece has become Israel's "handmaiden" — speakers: Yanis Varoufakis, Anoosh Chakelian, Oli Dugmore
 - 2026-04-03 — Thames Water's careless vandalism — speakers: Thames Water, Anoosh Chakelian, Oli Dugmore
