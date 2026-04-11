@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-08T03:32:12+00:00`
-- checked_at: `2026-04-08T03:32:12+00:00`
-- etag: `"djEuMi4wOjE3NzU2MTcwNTkzMzI="`
+- fetched_at: `2026-04-11T13:30:49+00:00`
+- checked_at: `2026-04-11T13:30:49+00:00`
+- etag: `"djEuMi4wOjE3NzU5MDYzMTYzMjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-08T03:32:12+00:00",
+  "fetched_at": "2026-04-11T13:30:49+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f27bfca6497d6fe95c45de118ca3df480b06725b",
+      "title": "RAACN week 11",
+      "published_at": "2026-04-11T11:07:43+00:00",
+      "link": "https://shows.acast.com/rhlstp/episodes/raacn-week-11",
+      "description": "Tuesday April 7th 2026 - King of the Farts - Rich and Ally are back on Rich’s 14th Wedding Anniversary to finally determine whether men or women have the worst smelling flatus. Yes, it’s as bad as it sounds. If you need to get up to speed on Baggy Pants and the Nitwits head here https://www.youtube.com/watch?v=RmZj7m_u74g&t=3s Wednesday 8th April 2026 - Knicky-Knacky-Knocks - A clearly tired and emotional Richard Herring celebrates the end of the war and the great man who has brought about peace, whilst Ally tries to start an all-out superpower confrontation partly to put viewers of this show out of their misery. All this and an AI Jesus. What’s not to love? Thursday 9th April 2026 - Angels - Rich is back from the brink and ready to do a documentary on his breakdown. Today he and Ally discuss why people shouldn’t be allowed to look old and also shouldn’t be allowed to try not to look old. Minimal singing to appease the kind of people who think anything is worth saying on YouTube. And also to annoy the people who think anything is worth saying on Youtube if they like the singing. Friday 10th April 2026 - Melania - Rich and Ally discuss Melania’s recent Epstein based statement and try to work out if it’s possible to predict anything coming out of the White House. With a guest spot from someone who was also not a friend of Epstein and has no connection with him and doesn’t know who he is. Weird we got him on really. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1775905355226-443a6f11-e957-4b23-8ff0-85af78ab7047.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69da2b8197d78f9e2baf4d47/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33479306",
+      "itunes_duration": "1:09:41",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "raacn",
+        "week"
+      ]
+    },
     {
       "key": "edb9b2f8e73bac7442537a38b141bd63fb77835f",
       "title": "RHLSTP 606 - Wendy Wason",
@@ -22009,6 +22028,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-11 — RAACN week 11 — speakers: Richard Herring
 - 2026-04-08 — RHLSTP 606 - Wendy Wason — speakers: Nicholas Lyndhurst, Richard Herring
 - 2026-04-04 — RAACN week 10 — speakers: Richard Herring
 - 2026-04-03 — RHLSTP Book Club 175 - Chris Evans (not that one) — speakers: Chris Evans, Richard Herring
