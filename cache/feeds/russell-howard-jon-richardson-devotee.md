@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-04-11T19:04:59+00:00`
-- checked_at: `2026-04-11T19:04:59+00:00`
-- etag: `W/"28ec6-sDxgEGrtQdWVpOWBO+G3EPiTOOc"`
+- fetched_at: `2026-04-12T15:51:42+00:00`
+- checked_at: `2026-04-12T15:51:42+00:00`
+- etag: `W/"280e7-2dND+2UhqDUAfuFCHbHaAWDP5Is"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,39 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-04-11T19:04:59+00:00",
+  "fetched_at": "2026-04-12T15:51:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "63ef2eac43e8241517f82f04dc8c1389a9c7a32c",
+      "title": "Winner Plays On The Complete Collection (Part 1) with Elis James and John Robins",
+      "published_at": "2026-04-12T15:45:08+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Winner-Plays-On-The-Complete-Collection-Part-1-with-Elis-James-and-John-Robins-e3hpn5j",
+      "description": "Winner Plays On The Complete Collection (Part 1) with Elis James and John Robins",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1776008697844-537cc029d4ae8.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118332019/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-12%2Fc6ae2f39-0523-40fe-d338-48524c0de0e1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "318277864",
+      "itunes_duration": "07:22:02",
+      "speakers": [
+        "Elis James",
+        "John Robins"
+      ],
+      "topics": [
+        "winner",
+        "play",
+        "complete",
+        "collection",
+        "elis",
+        "james",
+        "john",
+        "robins"
+      ]
+    },
     {
       "key": "3823d361645ad92683aab4311c61aeb846f502e4",
       "title": "#56 Jon Richardson Podcast",
@@ -2890,6 +2916,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-12 — Winner Plays On The Complete Collection (Part 1) with Elis James and John Robins — speakers: Elis James, John Robins
 - 2026-04-11 — #56 Jon Richardson Podcast
 - 2026-04-10 — #55 Jon Richardson Podcast
 - 2026-04-09 — #54 Jon Richardson Podcast
