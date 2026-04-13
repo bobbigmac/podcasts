@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-04-13T08:23:04+00:00`
-- checked_at: `2026-04-13T08:23:04+00:00`
-- last_modified: `Mon, 13 Apr 2026 04:25:02 GMT`
+- fetched_at: `2026-04-13T10:56:08+00:00`
+- checked_at: `2026-04-13T10:56:08+00:00`
+- last_modified: `Mon, 13 Apr 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-13T08:23:04+00:00",
+  "fetched_at": "2026-04-13T10:56:08+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,29 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "0eeebeabee1c50669fd85fbd63bb5aa9e095fb4c",
+      "title": "Demis Hassabis Wants to Build AGI. Should We Trust Him?",
+      "published_at": "2026-04-13T09:00:00+00:00",
+      "link": null,
+      "description": "When journalist Sebastian Mallaby approached Demis Hassabis, Google's AI chief and a man with a lifelong mission to build superintelligence, about writing his biography, he made the following pitch: \"If you're going to disrupt people from head to toe, you owe them an explanation of why you're doing it. What motivates you? Why do something this dangerous?\" Today, Sebastian tells us what answers he found. Sebastian's new book, The Infinity Machine, is out now. Pick up a copy from Amazon , Audible , or Bookshop.org . The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠here⁠⁠⁠ . Follow Rufus on ⁠⁠LinkedIn⁠⁠ , subscribe to our ⁠⁠Substack⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠nextbigideaclub.com⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). Sponsored By: Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠⁠meetfabric.com/nbi⁠⁠ Factor — Head to ⁠⁠⁠factormeals.com/idea50off⁠⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠⁠granola.ai/idea⁠⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP1625354232.mp3?updated=1776054592",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4424",
+      "speakers": [
+        "Sebastian Mallaby",
+        "Demis Hassabis",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "demis",
+        "hassabis",
+        "build"
+      ]
+    },
     {
       "key": "69a3eeed9dd29e6311d4ef1219ec2beefa6eb251",
       "title": "Patrick Radden Keefe on a Double Life, a Gilded City and a Mysterious Death",
@@ -7511,6 +7534,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — Demis Hassabis Wants to Build AGI. Should We Trust Him? — speakers: Sebastian Mallaby, Demis Hassabis, Rufus Griscom, Caleb Bissinger
 - 2026-04-09 — Patrick Radden Keefe on a Double Life, a Gilded City and a Mysterious Death — speakers: Patrick Radden Keefe, Rufus Griscom, Caleb Bissinger
 - 2026-04-06 — How to Be Okay When Nothing Is Okay — speakers: Jenny Lawson, Rufus Griscom, Caleb Bissinger
 - 2026-04-02 — Best Of: The New Science of Improving Your Memory — speakers: Jean Renoir, Rufus Griscom, Caleb Bissinger
