@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-04-09T16:41:54+00:00`
-- checked_at: `2026-04-09T16:41:54+00:00`
-- etag: `"djEuMi4wOjE3NzU3NDkyMzAzMzY="`
+- fetched_at: `2026-04-13T03:52:40+00:00`
+- checked_at: `2026-04-13T03:52:40+00:00`
+- etag: `"djEuMi4wOjE3NzYwNDU4MTk0MDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-04-09T16:41:54+00:00",
+  "fetched_at": "2026-04-13T03:52:40+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "f17defe509f4508edda2e4a7aacac1c2ebefcd95",
+      "title": "Show 398. Ben Judah",
+      "published_at": "2026-04-13T02:03:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-398-ben-judah",
+      "description": "This is a top level briefing from one of the best minds in foreign policy. Ben was Special Adviser to David Lammy when he was Foreign Secretary. He's been in the room for some of the most important meetings of the last few years, including face-to-face meetings with JD Vance. In this gripping episode he answers some of the biggest questions about global instability. What should the UK do to mitigate the shift in American policy? How terrifying is the future? What do these changes mean for politics in the UK? How can the British state be changed to work better? How radical do we need to be when it comes to racial and religious integration at home? Big questions with big answers from one of the most compelling voices in modern politics. THE POLITICAL PARTY LIVE 20 April: Shabana Mahmood 11 May: Lewis Goodall https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SIGN UP to Matt's mailing list to get free audience tickets to his Radio 4 series: https://www.mattforde.com/mailing-list SEE Matt's brand new stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/69d7c86ee257f11e03e30f9a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88535389",
+      "itunes_duration": "1:01:28",
+      "speakers": [
+        "Ben Judah",
+        "Matt Forde"
+      ],
+      "topics": [
+        "judah"
+      ]
+    },
     {
       "key": "7d57bd515c22e1ec756738dfa2857802a81b2ca6",
       "title": "Show 397. Claire Coutinho",
@@ -10245,6 +10264,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — Show 398. Ben Judah — speakers: Ben Judah, Matt Forde
 - 2026-04-06 — Show 397. Claire Coutinho — speakers: Claire Coutinho, Matt Forde
 - 2026-03-31 — Show 396. Lisa Nandy LIVE — speakers: Matt Forde
 - 2026-03-23 — Show 395. Chris Curtis — speakers: Chris Curtis, Matt Forde

@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-04-12T15:51:42+00:00`
-- checked_at: `2026-04-12T15:51:42+00:00`
-- last_modified: `Sun, 12 Apr 2026 14:31:19 GMT`
+- fetched_at: `2026-04-13T03:52:40+00:00`
+- checked_at: `2026-04-13T03:52:40+00:00`
+- last_modified: `Sun, 12 Apr 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-12T15:51:42+00:00",
+  "fetched_at": "2026-04-13T03:52:40+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "0ba3880201f1f78e75d169406d61fd0d19dd6928",
+      "title": "Sara Pascoe: New Travel Show, Life On Tour & Parenting",
+      "published_at": "2026-04-12T23:01:00+00:00",
+      "link": null,
+      "description": "Can you have a successful comedy career and a balanced family life? Comedian and writer Sara Pascoe joins Romesh Ranganathan to talk about touring, parenting and why stand-up comedy can make balancing family life surprisingly difficult. They get into Sara's early beginnings in comedy, wanting to be an actor and how the stand-up landscape has changed over the years. Expect stories of people pleasing in the entertainment industry, Sara's writing process (after winning the Dame Jilly Cooper Award) and her new travel series Zero Stars with Roisin Conaty, where the pair travel to some of the worst-rated holiday destinations in Europe including a chaotic cruise and a trip to Albania. Plus: roast potato cooking tips, Sara’s “Dragon’s Den” business idea, a question from Shanthi and as always a round of Misquoted. A Ranga Bee Production in partnership with Platform. Chapters 00:00 Intro 02:00 Selling out tours 00:00 Dealing with criticism 04:58 A gift for Sara 06:10 Roast potatoes and cooking tips 09:40 Sara’s comedy beginnings 12:04 The changing nature of the comedy game 13:33 Balancing family life 20:10 A question from Shanthi about being a mum 23:09 Rom and Sara on the role of parenting 26:11 The importance of reading 29:10 Comedy chat 35:38 Sara’s Dragon’s Den Idea 36:57 Sara on winning Dame Jilly Cooper Award 40:50 Sara’s writing advice 43:06 Zero Stars the new travel show 53:35 Rom’s Albanian tattoo story 55:45 Misquoted 01:05:37 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/42450302-3677-11f1-b067-5f5f40deb128/image/98744f0efe58d7993a84c41f977e4eb1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8080971893.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4392",
+      "speakers": [
+        "Sara Pascoe",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "sara",
+        "pascoe",
+        "travel",
+        "life",
+        "tour",
+        "parenting"
+      ]
+    },
     {
       "key": "98d5a0688fc5d020a04c1aa90250d6cd1686a796",
       "title": "Romesh & Shanthi Respond to the Haters",
@@ -1344,6 +1368,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-12 — Sara Pascoe: New Travel Show, Life On Tour & Parenting — speakers: Sara Pascoe, Romesh Ranganathan
 - 2026-04-08 — Romesh & Shanthi Respond to the Haters — speakers: Shanthi Respond, Haters Can Shanthi, Romesh Ranganathan
 - 2026-04-05 — James McAvoy: Acting, X-Men & Directing His First Film — speakers: James McAvoy, Romesh Ranganathan
 - 2026-04-01 — Shanthi's Hot Takes: Gentle Parenting, Ice Baths & Air Fryers — speakers: Gentle Parenting, Romesh Ranganathan

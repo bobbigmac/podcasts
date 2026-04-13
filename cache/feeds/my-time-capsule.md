@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-04-12T15:51:42+00:00`
-- checked_at: `2026-04-12T15:51:42+00:00`
-- etag: `"djEuMi4wOjE3NzYwMDcxMjY3NDE="`
+- fetched_at: `2026-04-13T03:52:40+00:00`
+- checked_at: `2026-04-13T03:52:40+00:00`
+- etag: `"djEuMi4wOjE3NzYwMzQ5NTkzMDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-04-12T15:51:42+00:00",
+  "fetched_at": "2026-04-13T03:52:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,34 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2b581692444b85795046fe79bac82af843769ec7",
+      "title": "Ep. 577 - Lily Phillips - BBC New Comedy Awards Finalist, Chortle’s “One to Watch”, Leicester Square New Comedian of the Year runner up",
+      "published_at": "2026-04-12T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-577-lily-phillips-bbc-new-comedy-awards-finalist-chortles",
+      "description": "Lily Phillips is one of the most exciting up and coming voices in comedy in the UK. She was a Runner Up at the 2019 Leicester Square New Comedian of the Year, Funny Women Finalist 2018, and was a part of prestigious Pleasance Comedy Reserve at the 2019 Edinburgh Fringe Festival. In 2021, she reached the grand final of the BBC New Comedy Awards on BBC One and she was Chortle’s One to Watch 2022. She is a series regular on The Stand Up Sketch Show and The Stand Up Sketch Show Christmas Special (ITV2), and she recently starred in a new hidden camera show for E4 Digital as a fake podcast host. Her credits also include Period Dramas (BBC3), The Joy Of Missing Out (All4), and comedy shorts for Comedy Central Online. She has also debated at the Oxford Union. Lily is also a talented writer and in 2021, her script beat out over 1,000 applicants to be shortlisted as the final 3 in the Funny Women’s Writer’s Award, sponsored by Sky Studios. Lily has fronted campaigns for Dominos, North Face, Bumble, and Mooncup, bringing her hilarious brand of feminist comedy to the masses . Lily Phillips is our guest in episode 577 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Tickets for Lily Phillips: Crying at Soho Theatre available here - https://sohotheatre.com/events/lily-phillips-crying . For everything else Lily Phillips, including her podcast, visit - https://www.lilyphillipscomedy.com . Follow Lily Phillips on Instagram : @lilyphillipscomedy . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69dbb7d6361823b78110f1f9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92820291",
+      "itunes_duration": "1:17:20",
+      "speakers": [
+        "Leicester Square New Comedian",
+        "Lily Phillips"
+      ],
+      "topics": [
+        "lily",
+        "phillips",
+        "comedy",
+        "awards",
+        "finalist",
+        "chortle",
+        "watch",
+        "leicester",
+        "square",
+        "comedian"
+      ]
+    },
     {
       "key": "2dd3659907a1f3165f51047ac4553a12626ab1be",
       "title": "Doug Allan Tribute - A look back at Ep. 314 with the wildlife cameraman, who died this week",
@@ -12338,6 +12366,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-12 — Ep. 577 - Lily Phillips - BBC New Comedy Awards Finalist, Chortle’s “One to Watch”, Leicester Square New Comedian of the Year runner up — speakers: Leicester Square New Comedian, Lily Phillips
 - 2026-04-09 — Doug Allan Tribute - A look back at Ep. 314 with the wildlife cameraman, who died this week — speakers: Doug Allan
 - 2026-04-06 — Ep. 576 - Riki Lindhome - Actor, comedian from film Million Dollar Baby and TV Wednesday & Big Bang Theory — speakers: Riki Lindhome, Million Dollar Baby, Big Bang Theory Riki
 - 2026-04-05 — Easter Apology — speakers: Easter Apology No, Happy Easter, Follow My Time Capsule

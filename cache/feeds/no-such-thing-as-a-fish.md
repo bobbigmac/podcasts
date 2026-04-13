@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-04-10T03:41:15+00:00`
-- checked_at: `2026-04-10T03:41:15+00:00`
-- etag: `W/"2f7fcb7dfbc6cdc346039afb55445aca"`
-- last_modified: `Thu, 09 Apr 2026 22:55:00 GMT`
+- fetched_at: `2026-04-13T03:52:40+00:00`
+- checked_at: `2026-04-13T03:52:40+00:00`
+- etag: `W/"2d3584fe94e88ddd60308ad2873d388d"`
+- last_modified: `Sun, 12 Apr 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-04-10T03:41:15+00:00",
+  "fetched_at": "2026-04-13T03:52:40+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "536fb5ece183811f667218f638350a09580365dc",
+      "title": "Little Fish: No Harm, No Foul",
+      "published_at": "2026-04-12T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8885666",
+      "description": "Dan, James and Andy discuss YOUR facts, including antifreeze, leaning trees and FURBs. Andy reveals why he's not on the Hollywood Walk of Fame. And we name eight more Friend of the Podcast fact custodians. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8885666.mp3?modified=1775824543&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1905",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "harm",
+        "foul"
+      ]
+    },
     {
       "key": "24bcdba571dd05a5cf7618cb1dbab4808d43d841",
       "title": "No Such Thing As The God of Snooze Buttons",
@@ -16056,6 +16079,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-12 — Little Fish: No Harm, No Foul — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-04-09 — No Such Thing As The God of Snooze Buttons — speakers: Anne Miller, Ben Hur, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-04-05 — Little Fish: The Body Of A Young Paul Newman — speakers: Paul Newman, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-04-02 — No Such Thing As Elizabeth I's Burnt Umber — speakers: Angela Barnes, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

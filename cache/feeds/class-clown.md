@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-04-12T19:08:20+00:00`
-- checked_at: `2026-04-12T19:08:20+00:00`
-- last_modified: `Sun, 12 Apr 2026 17:07:43 GMT`
+- fetched_at: `2026-04-13T03:52:40+00:00`
+- checked_at: `2026-04-13T03:52:40+00:00`
+- last_modified: `Mon, 13 Apr 2026 02:15:44 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-12T19:08:20+00:00",
+  "fetched_at": "2026-04-13T03:52:40+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f2683a9a6dcd90741cbbcb25c723d9b1e52f3d12",
+      "title": "AL MURRAY: I Have To Fight Being A Conformist",
+      "published_at": "2026-04-12T23:00:00+00:00",
+      "link": null,
+      "description": "Al Murray joins us to talk about his uni days with Stewart Lee and Richard Herring, boarding school's similarities to Lord Of the Flies, his first job sweeping floors in factories, why he has to fight being a natural conformist and his early days gigging with a set that was based around performing sound FX... Here Part 2 with Al right now and access exclusive bonus content here! See Seann Walsh on tour! Get This Is Torture Tickets! Check Out Al Murray's History podcast Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d542147e-345b-11f1-8af1-6f7703d231de/image/a7d0545ce9d72a58e9720cd3eddd0c87.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7054064706.mp3?updated=1775900196",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2743",
+      "speakers": [
+        "Al Murray",
+        "Stewart Lee",
+        "Richard Herring",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "murray",
+        "conformist"
+      ]
+    },
     {
       "key": "f031e210ac5dfcf7f63b403cbd4e0dc85d737642",
       "title": "JANINE HAROUNI: Bullying Shaped My Comedy",
@@ -1298,6 +1320,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-12 — AL MURRAY: I Have To Fight Being A Conformist — speakers: Al Murray, Stewart Lee, Richard Herring, Seann Walsh
 - 2026-04-05 — JANINE HAROUNI: Bullying Shaped My Comedy — speakers: My Comedy Janine Harouni, Seann Walsh
 - 2026-03-29 — RHYS JAMES: Serial Lying, Testing Personas & Comedy Origin Story — speakers: Rhys James, Seann Walsh
 - 2026-03-23 — FIN TAYLOR Pt 2: Worst Trouble He Ever Got In, Origins of Fin Vs History & Fin Vs The Internet — speakers: Fin Taylor Pt, Fin Taylor, Seann Walsh
