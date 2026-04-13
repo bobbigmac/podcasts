@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-12T07:44:05+00:00`
-- checked_at: `2026-04-12T07:44:05+00:00`
-- etag: `"djEuMi4wOjE3NzU5NzAwMzk1MjI="`
+- fetched_at: `2026-04-13T14:07:25+00:00`
+- checked_at: `2026-04-13T14:07:25+00:00`
+- etag: `"djEuMi4wOjE3NzYwODE2Mzk4NzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,32 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-12T07:44:05+00:00",
+  "fetched_at": "2026-04-13T14:07:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "7cc7e39cc73fddd1435474595f3fa3be515edfb6",
+      "title": "Tucker Carlson makes the BBC look silly",
+      "published_at": "2026-04-13T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69dcd59a715b7d1039cb958c",
+      "description": "Andy and Seán take to the poljoe dungeon to recap the Sunday shows, where America's most prominent right-wing pundit went on the BBC, and ended up coming across competent, in no small part due to the government's Palestine Action ban. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69dcd59a715b7d1039cb958c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "120267582",
+      "itunes_duration": "1:02:37",
+      "speakers": [
+        "Tucker Carlson"
+      ],
+      "topics": [
+        "tucker",
+        "carlson"
+      ]
+    },
     {
       "key": "63c421bbfc6855dd51f4e5411a7ccf7b69d98318",
       "title": "Can the Green Party fix the housing crisis? Zoë Garbett interview",
@@ -12486,6 +12505,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — Tucker Carlson makes the BBC look silly — speakers: Tucker Carlson
 - 2026-04-12 — Can the Green Party fix the housing crisis? Zoë Garbett interview — speakers: Zoë Garbett
 - 2026-04-09 — What's next after Trump's Iran ceasefire? Scott Lucas interview — speakers: Scott Lucas
 - 2026-04-08 — Karl Turner: Labour suspends MP critical of Keir Starmer — speakers: Karl Turner
