@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-04-07T14:00:52+00:00`
-- checked_at: `2026-04-07T14:00:52+00:00`
-- etag: `"djEuMi4wOjE3NzU1NjgyOTE4MDE="`
+- fetched_at: `2026-04-13T16:38:19+00:00`
+- checked_at: `2026-04-13T16:38:19+00:00`
+- etag: `"djEuMi4wOjE3NzYwOTIwMDI5ODA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-04-07T14:00:52+00:00",
+  "fetched_at": "2026-04-13T16:38:19+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0de1adbae8412c0da70d44c23251341e4457925b",
+      "title": "He Put Hidden Cameras In My Bedroom",
+      "published_at": "2026-04-13T14:53:22+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/he-put-hidden-cameras-in-my-bedroom",
+      "description": "This week, Katherine's Telling Everybody Everything about how she likes exploring opinions that are different to her own and the benefit of holding two truths at once, even though it makes listeners QUITE angry. Holland isn't sleeping well, so Katherine used a 3am crash out to watch 'The Death and Life of Lamar Odom' on Netflix and marvels at how this man is wholly unable to credit Khloe with anything related to his miraculous recovery. Comedian Andrew Johnston contributes his pop culture talking points including The Tayvis Wedding details, a troubling SNL confession, and Justin Trudeau's backwards cap at Coachella over the weekend. Yuck. Plus, a somber listener letter about finding hidden cameras in her bedroom....twice. Can an abuser also be 'nice'? x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1776091588050-cac7e4bb-d4ea-45fc-9ceb-16ac8d47e582.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/69dd03620f4c4bd4d1183b27/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83000133",
+      "itunes_duration": "57:38",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "hidden",
+        "cameras",
+        "bedroom"
+      ]
+    },
     {
       "key": "416d234773d71fff505d3a5145863684800ad382",
       "title": "Bobby K Reacts to Moon Mission",
@@ -6050,6 +6071,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — He Put Hidden Cameras In My Bedroom — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-04-07 — Bobby K Reacts to Moon Mission — speakers: Katherine Ryan
 - 2026-03-30 — RIP Manny Ryan — speakers: Rip Manny Ryan, Katherine Ryan
 - 2026-03-23 — Taylor Frankie Paul and Manosphere REACTS — speakers: Frankie Paul, Katherine Ryan
