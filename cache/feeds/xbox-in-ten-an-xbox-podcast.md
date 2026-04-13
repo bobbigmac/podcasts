@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-04-11T19:04:59+00:00`
-- checked_at: `2026-04-11T19:04:59+00:00`
-- etag: `"cfd918525201294baa1dc08ed92e5e0b"`
-- last_modified: `Sat, 11 Apr 2026 16:08:50 GMT`
+- fetched_at: `2026-04-13T08:23:04+00:00`
+- checked_at: `2026-04-13T08:23:04+00:00`
+- etag: `"edbb8693a8ca704c3c958220f0c8580e"`
+- last_modified: `Mon, 13 Apr 2026 04:14:41 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-04-11T19:04:59+00:00",
+  "fetched_at": "2026-04-13T08:23:04+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7b5e52bd33509e4ad8f8365f620993ddb1204047",
+      "title": "Xbox To Release Halo: Campaign Evolved In July 2026? - (Xbox In Ten: An Xbox Podcast - Ep. 359)",
+      "published_at": "2026-04-13T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-to-release-halo-campaign-evolved-in-july-2026-xbox-in-ten-an-xbox-podcast-ep-359",
+      "description": "Week of: 4-6-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/0/3/d/4/03d41408140a8b62d959afa2a1bf1c87/359.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/359.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "15333952",
+      "itunes_duration": "10:47",
+      "speakers": [
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "release",
+        "halo",
+        "campaign",
+        "july",
+        "podcast"
+      ]
+    },
     {
       "key": "d724a45a073ddff23d6879b73fcd19bac5ff268f",
       "title": "Xbox Games Showcase 2026 with Gears E-Day Direct on June 7 - (Xbox In Ten: An Xbox Podcast - Ep. 358)",
@@ -9020,6 +9045,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — Xbox To Release Halo: Campaign Evolved In July 2026? - (Xbox In Ten: An Xbox Podcast - Ep. 359) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-04-06 — Xbox Games Showcase 2026 with Gears E-Day Direct on June 7 - (Xbox In Ten: An Xbox Podcast - Ep. 358) — speakers: Brandon Rosa
 - 2026-03-30 — Is Xbox Working on a New Game Pass Tier...Trion? - (Xbox In Ten: An Xbox Podcast - Ep. 357) — speakers: New Game Pass Tier, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-03-23 — Starfield Story DLC & Free Update Dated - (Xbox In Ten: An Xbox Podcast - Ep. 356) — speakers: Starfield Story, Brandon Rosa

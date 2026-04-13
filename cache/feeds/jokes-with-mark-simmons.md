@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-04-13T03:52:40+00:00`
-- checked_at: `2026-04-13T03:52:40+00:00`
-- etag: `"djEuMi4wOjE3NzYwMzc5MjUxMTU="`
+- fetched_at: `2026-04-13T08:23:04+00:00`
+- checked_at: `2026-04-13T08:23:04+00:00`
+- etag: `"djEuMi4wOjE3NzYwNTI4NDA3MjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-04-13T03:52:40+00:00",
+  "fetched_at": "2026-04-13T08:23:04+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "beaab0196fb5c333e19c25570b6cc77f9ba9c80e",
+      "title": "Tour Talk: Home Town Show & Viral Video",
+      "published_at": "2026-04-13T04:00:00+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/tour-talk-home-town-show-viral-video",
+      "description": "The boys discuss the dynamics of a home town gig and analyse why Mark's video went viral See Mark on tour here https://marksimmons.co.uk/live-dates/ See Danny in New Zealand here https://dannywardcomedy.co.uk/wheres-ward/#the-holiday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/69dc3025361823b7812f40ac/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43063018",
+      "itunes_duration": "29:49",
+      "speakers": [
+        "Mark Simmons"
+      ],
+      "topics": [
+        "tour",
+        "talk",
+        "home",
+        "town",
+        "viral",
+        "video"
+      ]
+    },
     {
       "key": "b66f95c410f46d7bc57fce47588749c3a6f67559",
       "title": "Tour Talk: Radio 2 Breakfast Show Audition",
@@ -7218,6 +7241,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — Tour Talk: Home Town Show & Viral Video — speakers: Mark Simmons
 - 2026-04-06 — Tour Talk: Radio 2 Breakfast Show Audition — speakers: Mark Simmons
 - 2026-04-01 — Tour Talk: Danny's Bad Back Seminar — speakers: Mark Simmons
 - 2026-03-24 — Tour Talk: Worst week of the tour — speakers: Mark Simmons

@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-04-07T07:49:47+00:00`
-- checked_at: `2026-04-07T07:49:47+00:00`
-- etag: `"45e9f8062ea50efe96e388278b80d70a"`
-- last_modified: `Tue, 07 Apr 2026 04:00:06 GMT`
+- fetched_at: `2026-04-13T08:23:04+00:00`
+- checked_at: `2026-04-13T08:23:04+00:00`
+- etag: `"11b1ccad5ff1f266ec371b833fa192bf"`
+- last_modified: `Mon, 13 Apr 2026 04:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-04-07T07:49:47+00:00",
+  "fetched_at": "2026-04-13T08:23:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "a79c1cd3333c2fff65f0626145b19ec4702e91c0",
+      "title": "Unspeakable",
+      "published_at": "2026-04-13T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0ncr7d3",
+      "description": "This episode we hear Hugh Dennis's word for decision fatigue, Katy Wix's coinage for when you find yourself stuck telling a story in public to break an awkward silence, and Jess Fostekew's word for that nuggety squashed sock you find stuck inside a duvet cover. Ever struggled to find the right word for a feeling or sensation? Unspeakable sees comedian Phil Wang and lexicographer Susie Dent invite celebrity guests to invent new linguistic creations, to solve those all too relatable moments when we're lost for words. This is episode four from series three of Unspeakable. To hear more from this series, search \"Unspeakable\" on BBC Sounds. Hosts: Phil Wang and Susie Dent Guests: Hugh Dennis, Jess Fostekew and Katy Wix Created by Joe Varley Writers: Matt Crosby and James Farmer Recorded by Jerry Peal Producer: Jon Harvey Executive Producers: Joe Varley and Akash Lockmun A Brown Bred production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ncq0v1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27120000",
+      "itunes_duration": "1695",
+      "speakers": [
+        "Hugh Dennis",
+        "Katy Wix"
+      ],
+      "topics": [
+        "unspeakable"
+      ]
+    },
     {
       "key": "d8cd7c1faa577952fcea783f8c4acb74a195b9ce",
       "title": "Live from the UK: Live Comedy Day",
@@ -976,6 +995,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — Unspeakable — speakers: Hugh Dennis, Katy Wix
 - 2026-04-06 — Live from the UK: Live Comedy Day
 - 2026-03-30 — The Matt Forde Focus Group
 - 2026-03-23 — Slim's Guide to Life

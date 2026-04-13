@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-04-12T13:34:29+00:00`
-- checked_at: `2026-04-12T13:34:29+00:00`
-- etag: `"djEuMi4wOjE3NzU5OTU4MTg4MzQ="`
+- fetched_at: `2026-04-13T08:23:04+00:00`
+- checked_at: `2026-04-13T08:23:04+00:00`
+- etag: `"djEuMi4wOjE3NzYwNjE4NzgwODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-04-12T13:34:29+00:00",
+  "fetched_at": "2026-04-13T08:23:04+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "fdf037fb0dcee44050bf3e5e67d226c6eb2c1ce6",
+      "title": "618 The Drama & The Boys Final Season (so far)",
+      "published_at": "2026-04-13T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/618-the-drama-the-boys-final-season-so-far",
+      "description": "The Boys are back in town. For their fifth and final season, we talk the first two episodes. Plus we review The Drama, the somewhat controversial A24 film starring Zendaya and Robert Pattinson. And of course there's the news of the week including a shift in direction for Avatar 5 & 6, the surprising ratings for the Disney Plus She-Hulk series, the return of Luke Cage and Iron Fist for Daredevil: Born Again Season 3, an announcement for Extraction 3 and the first trailer for the MCU Special Presentation, The Punisher: One Last Kill. Thanks for listening New bonus booque clubbe episode for The Dark Knight Returns out now! Including fully edited video version PLUS entire backcatalogue including ad-free feeds and early access on https://bigsandwich.co/ Is James allowed to have parallel thoughts? Vote here: https://forms.gle/jMZh6e55nkdEszPx6 PLEASE be aware timecodes may shift up to a few minutes due to inserted ads. 00:00 The Start 05:05 Avatar Films in Trouble 13:38 Metal Gear Solid Movie 18:54 Best MCU Disney Show Reveal 24:03 Returning Characters in Daredevil S3 25:58 Extraction 3 Announced 28:13 The Punisher: One Last Kill Trailer 31:43 The Boys Final Season (so far) Spoiler Review 45:26 The Drama Movie Review 51:05 The Drama Spoiler Segment 01:02:09 What We Reading, What We Gonna Read Cont. 01:06:00 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69db8baa97d78f9e2b0b2517/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121649350",
+      "itunes_duration": "1:24:28",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "drama",
+        "boys",
+        "final",
+        "season"
+      ]
+    },
     {
       "key": "d39d8fc9e8496d62ce78f7d38df305e9416e4968",
       "title": "The War of the Worlds (1953) - Caravan Of Garbage",
@@ -22058,6 +22080,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — 618 The Drama & The Boys Final Season (so far) — speakers: James Clement, Nick Mason
 - 2026-04-09 — The War of the Worlds (1953) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-04-05 — 617 The Super Mario Galaxy Movie & Supergirl Trailer — speakers: James Clement, Nick Mason
 - 2026-04-02 — Ready Player One - Caravan Of Garbage — speakers: Ready Player One, James Clement, Nick Mason

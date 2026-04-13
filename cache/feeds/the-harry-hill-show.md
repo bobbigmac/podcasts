@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-04-10T19:12:05+00:00`
-- checked_at: `2026-04-10T19:12:05+00:00`
-- last_modified: `Fri, 10 Apr 2026 17:11:17 GMT`
+- fetched_at: `2026-04-13T08:23:04+00:00`
+- checked_at: `2026-04-13T08:23:04+00:00`
+- last_modified: `Mon, 13 Apr 2026 08:20:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-10T19:12:05+00:00",
+  "fetched_at": "2026-04-13T08:23:04+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3bd278104f91867292fd690700a09ead7b2d46ef",
+      "title": "Tim Vine: I've Sniffed Up The Seeds",
+      "published_at": "2026-04-13T05:00:00+00:00",
+      "link": null,
+      "description": "In the season 1 finale, Harry is joined by old friend, the king of puns and one liners, Tim Vine . Our expert Tom Nancollas is teaching us all about Lighthouses. Saily - Download from the app store and use code HARRYHILL at checkout for 15% off! For more details: ⁠https://saily.com/harryhill⁠ ⛵ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/69f5a4f0-34f7-11f1-acfb-3fc45095dd5e/image/0e4ca6f847544d883350a5eb65c0e7b9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4388433380.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4192",
+      "speakers": [
+        "Tim Vine",
+        "Harry Hill"
+      ],
+      "topics": [
+        "vine",
+        "seed"
+      ]
+    },
     {
       "key": "f8a35940f5e93b70b6db9b65f435c768ad4cc6c9",
       "title": "Tom Allen: I Have An Average Garden, Maybe Two or Three Farms.",
@@ -1631,6 +1651,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — Tim Vine: I've Sniffed Up The Seeds — speakers: Tim Vine, Harry Hill
 - 2026-04-06 — Tom Allen: I Have An Average Garden, Maybe Two or Three Farms. — speakers: Tom Allen, Harry Hill
 - 2026-03-30 — Alex Brooker: It’s One of the Big Perks. That and the Queues at Disney. — speakers: Alex Brooker, Harry Hill
 - 2026-03-23 — Self Esteem aka Rebecca Lucy Taylor: Instructions for Assembling Flat Pack Furniture — speakers: Rebecca Lucy Taylor, Self Esteem, Harry Hill
