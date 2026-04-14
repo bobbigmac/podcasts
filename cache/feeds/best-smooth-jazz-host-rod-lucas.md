@@ -2,10 +2,10 @@
 
 - slug: `best-smooth-jazz-host-rod-lucas`
 - source: `https://bsj.podomatic.com/rss2.xml`
-- fetched_at: `2026-04-13T16:38:19+00:00`
-- checked_at: `2026-04-13T16:38:19+00:00`
-- etag: `W/"c2fdcdf444f171ea3acdf0a3d02fa3f7-gzip"`
-- last_modified: `Mon, 13 Apr 2026 14:57:27 GMT`
+- fetched_at: `2026-04-14T08:04:06+00:00`
+- checked_at: `2026-04-14T08:04:06+00:00`
+- etag: `W/"bb34e7a6271a592b0575c03efafc2289-gzip"`
+- last_modified: `Tue, 14 Apr 2026 04:34:43 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.podomatic.com/podcasts/bsj",
   "description": "Best Smooth Jazz (BSJ) from London UK is a refreshingly 'chilled' Smooth Jazz radio show - all instrumental. Host Rod Lucas plays a 'cool' selection of new & familiar Smooth Jazz instrumentals. Easy listening Grooves with a Soul & R&B feel and Latin vibes. Jazz with fun feel. London's New Cool Smooth Jazz. Soul lovers will enjoy the grooves too.",
   "image_url": "https://assets.podomatic.net/ts/00/ea/86/marcushayes001/1400x1400_15737164.jpg",
-  "fetched_at": "2026-04-13T16:38:19+00:00",
+  "fetched_at": "2026-04-14T08:04:06+00:00",
   "owners": [
     "Rod Lucas"
   ],
@@ -34,9 +34,9 @@
       "link": "https://www.podomatic.com/podcasts/bsj/episodes/2026-04-13T07_57_18-07_00",
       "description": "Here we go with the latest Best Smooth Jazz Podcast—more smooth jazz, more great vibes, and a bit of fun along the way. Angie’s picked out a lovely French wine for this episode, while we keep the music flowing with instrumental smooth grooves from London, England. It’s all about melody—perfect for work, rest, or just kicking back. Things get a little dramatic too, as Rod’s prized tape machine literally goes up in smoke live in the studio! You can watch the TV version on YouTube as well. Enjoy the music, enjoy the moment. First aired on 11th April 2026, and this one runs for over two hours. BSJ website: https://BestSmoothJazz.com",
       "image_url": null,
-      "enclosure_url": "https://bsj.podomatic.com/enclosure/2026-04-13T07_57_18-07_00.mp3?_=1776092238.17741220",
+      "enclosure_url": "https://bsj.podomatic.com/enclosure/2026-04-13T07_57_18-07_00.mp3?_=1776092265.17741220",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "188011759",
+      "enclosure_length": "188441561",
       "itunes_duration": "7833",
       "speakers": [
         "Rod Lucas"

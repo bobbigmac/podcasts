@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-04-13T08:23:04+00:00`
-- checked_at: `2026-04-13T08:23:04+00:00`
-- etag: `"11b1ccad5ff1f266ec371b833fa192bf"`
-- last_modified: `Mon, 13 Apr 2026 04:00:06 GMT`
+- fetched_at: `2026-04-14T08:04:06+00:00`
+- checked_at: `2026-04-14T08:04:06+00:00`
+- etag: `"a5722a619b7cfc0a842d378a78a99296"`
+- last_modified: `Tue, 14 Apr 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-04-13T08:23:04+00:00",
+  "fetched_at": "2026-04-14T08:04:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -970,23 +970,6 @@
       "topics": [
         "skewer"
       ]
-    },
-    {
-      "key": "6fd7c89edfacf6add14193e72615c3cd76ca1c66",
-      "title": "Introducing: The Naked Week",
-      "published_at": "2025-04-14T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0l3xkq8",
-      "description": "The Naked Week team are back to place satirical news-tariffs on current events with a mix of correspondents, guests and, occasionally, live animals. This week we mourn the death of globalisation, take a tour of Keir's new theme park, and play a game of BBC Balance Local Elections Naked Week Joke Twister. From The Skewer’s Jon Holmes and host Andrew Hunter Murray comes The Naked Week, a fresh way of dressing the week’s news in the altogether and parading it around for everyone to laugh at. With award-winning writers and a crack team of contemporary satirists - and recorded in front of a live audience - The Naked Week delivers a topical news-nude straight to your ears. Written by: Jon Holmes Katie Sayer Gareth Ceredig Sarah Dempster Jason Hazeley. Investigations Team: Cat Neilan Louis Mian Freya Shaw Matt Brown Guests: Freya Parker and Alicia Fitzgerald. Production Team: Laura Grimshaw, Tony Churnside, Jerry Peal, Katie Sayer, Phoebe Butler. Executive Producer: Philip Abrams Produced and Directed by Jon Holmes An unusual production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l3xjf6.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "28144000",
-      "itunes_duration": "1759",
-      "speakers": [],
-      "topics": [
-        "naked",
-        "week"
-      ]
     }
   ]
 }
@@ -1044,4 +1027,3 @@
 - 2025-05-05 — Michael Spicer: No Room — speakers: Michael Spicer
 - 2025-04-28 — Mark Watson Talks a Bit About Life — speakers: Mark Watson Talks, Mark Watson
 - 2025-04-21 — The Skewer — speakers: Jon Holmes
-- 2025-04-14 — Introducing: The Naked Week
