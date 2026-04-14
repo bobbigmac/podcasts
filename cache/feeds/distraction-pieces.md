@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-04-10T03:41:15+00:00`
-- checked_at: `2026-04-10T03:41:15+00:00`
-- etag: `"djEuMi4wOjE3NzU3OTEyMzkyOTc="`
+- fetched_at: `2026-04-14T14:11:33+00:00`
+- checked_at: `2026-04-14T14:11:33+00:00`
+- etag: `"djEuMi4wOjE3NzYxNjQ4OTc1Mzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-04-10T03:41:15+00:00",
+  "fetched_at": "2026-04-14T14:11:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

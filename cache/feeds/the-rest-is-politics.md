@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-04-13T14:07:25+00:00`
-- checked_at: `2026-04-13T14:07:25+00:00`
-- last_modified: `Mon, 13 Apr 2026 13:42:33 GMT`
+- fetched_at: `2026-04-14T14:11:33+00:00`
+- checked_at: `2026-04-14T14:11:33+00:00`
+- last_modified: `Tue, 14 Apr 2026 14:04:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-13T14:07:25+00:00",
+  "fetched_at": "2026-04-14T14:11:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -30,9 +30,9 @@
       "title": "520. Orbán Ousted: Is The Tide Turning Against Far-Right Populism?",
       "published_at": "2026-04-13T12:37:00+00:00",
       "link": null,
-      "description": "Does Hungary ousting its far-right prime minister prove rightwing populists and autocrats can be beaten around the world, from Trump and Farage to Netanyahu and Milei? Does JD Vance have the midas touch, after his desperate last-ditch efforts last week to get Orbán re-elected? What does Orbán’s departure mean for Putin, Ukraine, and European unity? Join Alastair as he reacts to the end of Viktor Orbán's sixteen-year reign over Hungary. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus: Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. To sign up and for terms and conditions, visit fuseenergy.com/politics . ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Adam Thornton Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Does Hungary ousting its far-right prime minister prove rightwing populists and autocrats can be beaten around the world, from Trump and Farage to Netanyahu and Milei? Does JD Vance have the midas touch, after his desperate last-ditch efforts last week to get Orbán re-elected? What does Orbán’s departure mean for Putin, Ukraine, and European unity? Join Alastair as he reacts to the end of Viktor Orbán's sixteen-year reign over Hungary. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus: Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at https://fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Adam Thornton Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/a13f4746-3735-11f1-937d-f38167e51600/image/ab683cc250426eed4743f29d5e84cc4d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8475909924.mp3?updated=1776084501",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8475909924.mp3?updated=1776175757",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "953",

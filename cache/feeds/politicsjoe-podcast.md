@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-14T10:40:27+00:00`
-- checked_at: `2026-04-14T10:40:27+00:00`
-- etag: `"djEuMi4wOjE3NzYxNTg5MDk1MjA="`
+- fetched_at: `2026-04-14T14:11:33+00:00`
+- checked_at: `2026-04-14T14:11:33+00:00`
+- etag: `"djEuMi4wOjE3NzYxNjgwMzk1NDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-14T10:40:27+00:00",
+  "fetched_at": "2026-04-14T14:11:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "8da785a1fa69d8050d16dfaaa54300a4b3ecfc60",
+      "title": "What Viktor Orbán’s election wipeout means for Trump and Farage",
+      "published_at": "2026-04-14T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69de08bd2cfb2f5bcbd067ec",
+      "description": "Ava is joined once again by friend of PoliticsJOE Sam Bright to break down the latest news from the continent, after Hungary's quasi dictator Viktor Orbán was toppled in a landslide on Sunday night. Péter Magyar absolutely hammered Orbán's Fidesz party on Sunday night, ending 16 years of rule by Viktor Orbán. Sam breaks down the victory for Magyar and what the opposition leader stands for. He also delves into the consequences for right-wing movements across Europe, as Orbán's close alignment with the Trump regime was tipped as a key reason for his downfall. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69de08bd2cfb2f5bcbd067ec/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47326962",
+      "itunes_duration": "32:50",
+      "speakers": [
+        "Viktor Orbán",
+        "PoliticsJOE Sam Bright"
+      ],
+      "topics": [
+        "viktor",
+        "election",
+        "wipeout",
+        "trump",
+        "farage"
+      ]
+    },
     {
       "key": "7cc7e39cc73fddd1435474595f3fa3be515edfb6",
       "title": "Tucker Carlson makes the BBC look silly",
@@ -12505,6 +12528,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-14 — What Viktor Orbán’s election wipeout means for Trump and Farage — speakers: Viktor Orbán, PoliticsJOE Sam Bright
 - 2026-04-13 — Tucker Carlson makes the BBC look silly — speakers: Tucker Carlson
 - 2026-04-12 — Can the Green Party fix the housing crisis? Zoë Garbett interview — speakers: Zoë Garbett
 - 2026-04-09 — What's next after Trump's Iran ceasefire? Scott Lucas interview — speakers: Scott Lucas
