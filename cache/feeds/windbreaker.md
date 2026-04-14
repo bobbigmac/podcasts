@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-04-14T08:04:06+00:00`
-- checked_at: `2026-04-14T08:04:06+00:00`
-- etag: `W/"3abbd-UOKOWzCXecYo+9hAXpORbJ0LPVA"`
+- fetched_at: `2026-04-14T19:41:15+00:00`
+- checked_at: `2026-04-14T19:41:15+00:00`
+- etag: `W/"3ab4a-4apkQYm+WijH3HZ4aQ5ofP0fXz8"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-04-14T08:04:06+00:00",
+  "fetched_at": "2026-04-14T19:41:15+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -28,16 +28,16 @@
   ],
   "episodes": [
     {
-      "key": "489d3cc22ee2d4f5daf3bfc401363a31299bcaea",
+      "key": "22d6c64d7b6300a35cde576fdf200c0dcf26e9d7",
       "title": "The Problem With Trilogies | Windbreaker Podcast",
-      "published_at": "2026-04-14T01:00:01+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/The-Problem-With-Trilogies--Windbreaker-Podcast-e3hs0ri",
+      "published_at": "2026-04-14T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/The-Problem-With-Trilogies--Windbreaker-Podcast-e3ht5bq",
       "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty dig into trilogies in video games -- which have soared, which have stumbled, why capping off a trio of stories tends to be so difficult for so many franchises, and why we see so few “Part 3s” nowadays. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
       "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-      "enclosure_url": "https://anchor.fm/s/fe088118/podcast/play/118407474/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-13%2Fc8c68173-d6c3-629f-993c-21ee41bb1747.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1214440235.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "154669856",
-      "itunes_duration": "01:47:24",
+      "enclosure_length": "86265939",
+      "itunes_duration": "01:29:51",
       "speakers": [
         "Yahtzee Croshaw",
         "Marty Sliva"
