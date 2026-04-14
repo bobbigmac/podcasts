@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-04-13T03:52:40+00:00`
-- checked_at: `2026-04-13T03:52:40+00:00`
-- last_modified: `Mon, 13 Apr 2026 02:00:00 GMT`
+- fetched_at: `2026-04-14T03:41:57+00:00`
+- checked_at: `2026-04-14T03:41:57+00:00`
+- last_modified: `Tue, 14 Apr 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-13T03:52:40+00:00",
+  "fetched_at": "2026-04-14T03:41:57+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,27 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "c5a556a31c0403a26b4dbd0d250e2122bc57c1e6",
+      "title": "S15 Ep 817: A Year Of Your Life Podding",
+      "published_at": "2026-04-14T02:00:00+00:00",
+      "link": null,
+      "description": "After not admitting to some colleagues that he has a podcast, Joe wants to analyse why he and David both find it so embarrassing to talk about Chatabix, even though they love making it. Also, Natasha Demetriou has been in touch recently to ask them if they know how many hours they think they’ve spent recording the pod for - so they try to work that out for her. Then to close the episode, David recounts a life-affirming morning he had meeting a friend who’s just moved into his neighbourhood. Lovely! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠YouTube⁠ ⁠Instagram⁠ ⁠TikTok⁠ ⁠Patreon⁠ ⁠Merch⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6345858575.mp3?updated=1775803050",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2634",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "year",
+        "life",
+        "podding"
+      ]
+    },
     {
       "key": "da05b8738e5b07f0eb94a1810869b48d122fa42d",
       "title": "S15 Ep 816 Vault Mondays: Surprise Guest - Harry Hill",
@@ -14399,6 +14420,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-14 — S15 Ep 817: A Year Of Your Life Podding — speakers: Joe Wilkinson, David Earl
 - 2026-04-13 — S15 Ep 816 Vault Mondays: Surprise Guest - Harry Hill — speakers: Harry Hill, Joe Wilkinson, David Earl
 - 2026-04-10 — S15 Ep 815 Listener's Mailbag: Funny Names & Working With A Prat — speakers: Joe Wilkinson, David Earl
 - 2026-04-09 — S15 Ep 814: Football Coaching and the Return of Vigilante Joe — speakers: Vigilante Joe David, Joe Wilkinson, David Earl

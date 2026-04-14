@@ -18213,6 +18213,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:9eb57c7b46ac",
+        "feed_title": "Pod Save the UK",
+        "source_rss_url": "https://audioboom.com/channels/5166011.rss",
+        "dedupe_key": "4d2dda406800396462e128a302f9dac3b90eedc7",
+        "episode_key": "4d2dda406800396462e128a302f9dac3b90eedc7",
+        "title": "Truth, Lies and Donald Trump w/ Stewart Lee",
+        "published_at": "2026-03-26T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian and columnist Stewart Lee joins Nish and Coco to discuss the week’s big stories.\nThey talk about Donald Trump’s deadly and yet utterly confusing war with Iran, as the US President continues to contradict his own statements about the Strait of Hormuz and peace talks, almost in the same breath. \nIt certainly mea",
+        "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8878754.mp3?modified=1774537043&sid=5166011&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/truth-lies-and-donald-trump-w-stewart-lee/id1683411536?i=1000757418144&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:ff10e364941c",
         "feed_title": "The Louis Theroux Podcast",
         "source_rss_url": "https://feeds.megaphone.fm/GLT1948741183",

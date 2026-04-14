@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-04-11T07:16:23+00:00`
-- checked_at: `2026-04-11T07:16:23+00:00`
-- etag: `W/"33904-T+jw9d3jS89UtfL3DOah1Lwk2pc"`
+- fetched_at: `2026-04-14T03:41:57+00:00`
+- checked_at: `2026-04-14T03:41:57+00:00`
+- etag: `W/"3412f-99ApuIhvc0t9o3cOPlVXYuL99iU"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-04-11T07:16:23+00:00",
+  "fetched_at": "2026-04-14T03:41:57+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,31 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "4377071fb42141e660dd7fa055c79fd163c2fe92",
+      "title": "The High (and Low) Points of Nintendo, PlayStation, and Xbox | Firelink Podcast",
+      "published_at": "2026-04-10T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/The-High-and-Low-Points-of-Nintendo--PlayStation--and-Xbox--Firelink-Podcast-e3hs0l4",
+      "description": "This week on Firelink, Nick, KC, and Marty chat about the specific high and low points of each major platform, thoughts on the Super Mario Galaxy Movie, and what they've been playing. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/118407268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-13%2Ffda1ad3e-ca1c-d2a7-64e0-a6c7566a7e33.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "154669856",
+      "itunes_duration": "01:47:24",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "point",
+        "nintendo",
+        "playstation",
+        "xbox",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "ef931c01c53c1c91e25dfeaba85b1b8b8232b80e",
       "title": "Marathon, Crimson Desert, and Super Mario Wonder Have a Hold on Us | Firelink Podcast",
@@ -2660,6 +2685,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-10 — The High (and Low) Points of Nintendo, PlayStation, and Xbox | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-04-03 — Marathon, Crimson Desert, and Super Mario Wonder Have a Hold on Us | Firelink Podcast — speakers: Crimson Desert, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-03-27 — Stranger Than Heaven Looks Impossibly Cool | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-03-20 — The Subnautica 2 Drama Gets Even Weirder, Crimson Desert Reviews Land, and More | Firelink Podcast — speakers: Crimson Desert Reviews Land, Marty Sliva, Nick Calandra, KC Nwosu
