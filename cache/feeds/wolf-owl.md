@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-04-14T03:41:57+00:00`
-- checked_at: `2026-04-14T03:41:57+00:00`
-- last_modified: `Mon, 13 Apr 2026 23:10:07 GMT`
+- fetched_at: `2026-04-14T10:40:27+00:00`
+- checked_at: `2026-04-14T10:40:27+00:00`
+- last_modified: `Tue, 14 Apr 2026 08:57:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-14T03:41:57+00:00",
+  "fetched_at": "2026-04-14T10:40:27+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -34,10 +34,10 @@
       "link": null,
       "description": "Will the Teenage Mutant Ninja Turtles ever be avenged? Why was Tom sobbing in Magaluf? Can we bring back phone calls? This week’s episode is an emotional rollercoaster so strap in and remember to be careful when ordering Nduja sausage. You may be left wondering if Tom’s wife now knows about the missing cat poster, who knows..but what you can help us with is how many pairs of pants should a man own? Let us know at wolfowlpod@gmail.com A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 01:02 Teenage Mutant Ninja Turtles 04:30 Movies and music 07:03 Emotional Tom 08:47 Texting 12:20 Bring back phone calls 16:39 Missing cat 28:45 Glasses 29:54 Teeth grinding 32:30 Dirty pants 41:33 Stairs and escalators Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/534e9ed0-3756-11f1-a850-cf4b8a77d17e/image/b7e56b249bc3a89c9dab8f2170f1eb10.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9090439421.mp3?updated=1776100263",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9090439421.mp3?updated=1776157303",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2678",
+      "itunes_duration": "2808",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"

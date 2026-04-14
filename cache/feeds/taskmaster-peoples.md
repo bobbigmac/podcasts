@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-04-06T13:46:11+00:00`
-- checked_at: `2026-04-06T13:46:11+00:00`
-- etag: `"10a57a-64ec8f6076316"`
-- last_modified: `Mon, 06 Apr 2026 11:28:08 GMT`
+- fetched_at: `2026-04-14T10:40:27+00:00`
+- checked_at: `2026-04-14T10:40:27+00:00`
+- etag: `"10b19a-64f67fe591469"`
+- last_modified: `Tue, 14 Apr 2026 09:12:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-04-06T13:46:11+00:00",
+  "fetched_at": "2026-04-14T10:40:27+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a8c94cf6d8a888f4fd8fe8385113342c576d16fb",
+      "title": "Happy New Series Day! - S21, Ep. 1",
+      "published_at": "2026-04-13T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Father Taskmaster's been! And Jenny and Jack are ready to discuss, with Jenny offering her fool-proof way to deter people from her house, Jack giving his analysis on what makes a worm a worm, and both enjoying the company of the brand new cast. Plus, a listener writes in to suggest a very detailed 'Taskmaster World Cup' plan. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/49c925f2-56fb-4001-bccd-ba4b003a7cd9.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=49c925f2-56fb-4001-bccd-ba4b003a7cd9",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67661631",
+      "itunes_duration": "01:06:59",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "happy",
+        "series"
+      ]
+    },
     {
       "key": "f58707dc348c8bae1fe1ad8c6e9888b9222a1dd2",
       "title": "SERIES 21 STATS EXPLOSION",
@@ -4411,6 +4431,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-13 — Happy New Series Day! - S21, Ep. 1 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-04-06 — SERIES 21 STATS EXPLOSION — speakers: Amy Gledhill, Armando Iannucci, Joanna Page, Jenny Eclair, Jack Bernhardt
 - 2026-03-30 — Yoghurt's Not a Meal - S3, Ep. 3 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-03-23 — Happy Birthday - S10, Ep 1 — speakers: Happy Birthday, Jenny Eclair, Jack Bernhardt
