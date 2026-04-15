@@ -22793,6 +22793,28 @@
     ],
     "nish-kumar": [
       {
+        "feed_slug": "external:apple:71ff8532d9f4",
+        "feed_title": "Films To Be Buried With with Brett Goldstein",
+        "source_rss_url": "https://feeds.megaphone.fm/QCD8204217646",
+        "dedupe_key": "215f4339ba03e5352eb8ac596c7d87c94a38c445",
+        "episode_key": "215f4339ba03e5352eb8ac596c7d87c94a38c445",
+        "title": "Nish Kumar (The So On Time It's Almost Early Films Of The Year 2O25 Special • Part 1)",
+        "published_at": "2026-04-15T07:20:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "LOOK OUT! It’s only Films To Be Buried With!\n\nJoin your host Brett Goldstein as he talks life, death, love and the universe with long-term show friend, hilarious comic and insightful podcaster NISH KUMAR! It's The So On Time It's Almost Early Films Of The Year 2O25 Special Part 1!\n\nIt's fair to say Nish is at 10,000 ho",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6707052790.mp3?updated=1776199871",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar-the-so-on-time-its-almost-early-films-of/id1408585620?i=1000761485541&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e8a4989cd996",
         "feed_title": "Have I Got News For Your Ears",
         "source_rss_url": "https://feeds.megaphone.fm/WMHY5503481559",
