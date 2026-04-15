@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-04-08T19:40:45+00:00`
-- checked_at: `2026-04-08T19:40:45+00:00`
-- etag: `"djEuMi4wOjE3NzU2Njg2NTY5MDU="`
+- fetched_at: `2026-04-15T14:05:26+00:00`
+- checked_at: `2026-04-15T14:05:26+00:00`
+- etag: `"djEuMi4wOjE3NzYyNjAxMzk1MjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-04-08T19:40:45+00:00",
+  "fetched_at": "2026-04-15T14:05:26+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
