@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-04-14T19:41:15+00:00`
-- checked_at: `2026-04-14T19:41:15+00:00`
-- last_modified: `Tue, 14 Apr 2026 16:32:41 GMT`
+- fetched_at: `2026-04-15T08:04:33+00:00`
+- checked_at: `2026-04-15T08:04:33+00:00`
+- last_modified: `Wed, 15 Apr 2026 04:36:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-14T19:41:15+00:00",
+  "fetched_at": "2026-04-15T08:04:33+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a53eb9b6baa0e45065fddfb21674cd0055efaca4",
+      "title": "Please Keep Me Anonymous with Suzi Ruffell",
+      "published_at": "2026-04-15T04:30:00+00:00",
+      "link": null,
+      "description": "On this week podcast Chris and Rosie are joined by the brilliant comedian and podcaster Suzi Ruffell! As well as talking about her current tour, The Juggle, Suzi reveals what happened the first time she met Mel C and why Chris Ramsey and Ipads will always be connected in her mind. And of course, Suzi reads a listeners story. Trigger warning, it's rank! To get tickets to Suzi's tour visit suziruffell.com You can catch Suzi on the her podcast's Like Minded Friends with Tom Allen and Big Kick Energy with Maisie Adam. If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Today, get Huel’s full Lite & Lean Starter Kit online with our code SMA30 for 30% off at https://huel.com/SMA30. New Customers Only. Thank you to Huel for partnering and supporting our show! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/309178fc-3802-11f1-9864-83e8e492882a/image/ea6e5d6a5ee7efd5531a808d0a1db485.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7408058126.mp3?updated=1776172694",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2516",
+      "speakers": [
+        "Suzi Ruffell",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "suzi",
+        "ruffell"
+      ]
+    },
     {
       "key": "60d3aafa66c4090413d85d07ecb6825578f0b965",
       "title": "A New Alliance, Real Life Dominatrix and the Last Bus Home",
@@ -8120,6 +8142,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-15 — Please Keep Me Anonymous with Suzi Ruffell — speakers: Suzi Ruffell, Chris Ramsey, Rosie Ramsey
 - 2026-04-10 — A New Alliance, Real Life Dominatrix and the Last Bus Home — speakers: Rosie Ramsey, Chris Ramsey
 - 2026-04-08 — Please Keep Me Anonymous with Joanna Page — speakers: Joanna Page, Rosie Ramsey, Chris Ramsey
 - 2026-04-03 — April Fool's, School Trauma and Chris's Unfortunate Lookalike — speakers: School Trauma, Rosie Ramsey, Chris Ramsey
