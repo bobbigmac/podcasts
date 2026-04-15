@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-04-10T13:49:49+00:00`
-- checked_at: `2026-04-10T13:49:49+00:00`
-- etag: `"djEuMi4wOjE3NzU4Mjc4MzkzOTM="`
+- fetched_at: `2026-04-15T16:14:57+00:00`
+- checked_at: `2026-04-15T16:14:57+00:00`
+- etag: `"djEuMi4wOjE3NzYyNjgzNDkyMTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-04-10T13:49:49+00:00",
+  "fetched_at": "2026-04-15T16:14:57+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "57dd0fd84390b2231bb5e8297cf26a583fa62921",
+      "title": "Giant cancer study reveals effectiveness of 'off label' treatments",
+      "published_at": "2026-04-15T15:52:29+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01241-0",
+      "description": "In this episode: 00:46 A massive trial assessing the outcomes of ‘off label’ cancer treatment Research Article: Verkerk et al . 12:49 Research Highlights Nature: Microbial hockey: bacteria can spin a ‘puck’ just by swimming Nature: Regular physical activity in midlife cuts risk of early death 15:14 10,000 years of western Eurasian evolution Nature: Landmark ancient-genome study shows surprise acceleration of human evolution Research Article: Akbari et al. Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Never miss an episode. Subscribe to the Nature Podcast on Apple Podcasts , Spotify , YouTube Music or your favourite podcast app. An RSS feed for the Nature Podcast is available too. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69dfb3c12fdc372bd1768c09/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26116877",
+      "itunes_duration": "27:11",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "cancer",
+        "study",
+        "effectiveness",
+        "label",
+        "treatment"
+      ]
+    },
     {
       "key": "2ff761ba811267b2ad817783eae2d04f94a7d90c",
       "title": "Behind the scenes with Artemis II’s scientists during the historic Moon fly-by",
@@ -19427,6 +19450,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-15 — Giant cancer study reveals effectiveness of 'off label' treatments — speakers: Benjamin Thompson, Noah Baker
 - 2026-04-10 — Behind the scenes with Artemis II’s scientists during the historic Moon fly-by — speakers: Alexandra Witze, Benjamin Thompson, Noah Baker
 - 2026-04-08 — Briefing Chat: The tongue trick that helps sunbirds suck — speakers: Benjamin Thompson, Noah Baker
 - 2026-04-02 — Artemis II is go: humans head to the Moon after half-century absence — speakers: Benjamin Thompson, Noah Baker

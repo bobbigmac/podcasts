@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-04-15T14:05:26+00:00`
-- checked_at: `2026-04-15T14:05:26+00:00`
-- etag: `"djEuMi4wOjE3NzYyNjAxMzk1MjQ="`
+- fetched_at: `2026-04-15T16:14:57+00:00`
+- checked_at: `2026-04-15T16:14:57+00:00`
+- etag: `"djEuMi4wOjE3NzYyNjM0NTQwNzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-04-15T14:05:26+00:00",
+  "fetched_at": "2026-04-15T16:14:57+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "0d0182e3b01924989ee124a192828e31e5a99156",
+      "title": "The Denial Episode",
+      "published_at": "2026-04-15T14:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/the-denial-episode",
+      "description": "This week Andy is joined by Sara Barron and Anuvab Pal as the trio delves into the week's news in denial! From Hungary's historic election, to Sadiq Khan's claim of misinformation spreading across London. Oh and the leader of the free world posted an image of himself depicted as Jesus. All that and more on issue 4375 of The Bugle! 🇺🇸 AI Trump: The trio discuss the US president's latest AI imagery, this time with him depicted awfully similar to one Jesus Christ. 🇭🇺 Orban Out: The three jump into the latest news of Hungary's historic election and the end of 16 year reign. 🇬🇧 London's Misinformation: Andy, Sara and Anuvab chat about London's Mayor Sadiq Khan fears of misinformation spreading about the safety of the city! Andy's Links: https://www.andyzaltzman.co.uk/ Sara Barron's Links: https://podcasts.apple.com/gb/podcast/firecrotch-normcore-they-like-to-watch/id1589742577 Anuvab Pal's Links: https://anuvabpal.com/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1776263446169-c21145b7-907a-4426-953b-c4ff149b8ee9.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/69df904b80c1f20b2b3b909e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44860812",
+      "itunes_duration": "46:43",
+      "speakers": [
+        "Sara Barron",
+        "Anuvab Pal",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "denial"
+      ]
+    },
     {
       "key": "5b70217f4277cd4128500011a7d0b11d81aa590b",
       "title": "This week's been rough!",
@@ -14106,6 +14126,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-15 — The Denial Episode — speakers: Sara Barron, Anuvab Pal, Andy Zaltzman
 - 2026-04-08 — This week's been rough! — speakers: Alice Fraser, Andy Zaltzman
 - 2026-04-01 — Unheard and Too Hot To Handle! — speakers: Andy Zaltzman
 - 2026-03-25 — Trump needs a better jokes writer! — speakers: Nish Kumar, Tom Ballard, Andy Zaltzman
