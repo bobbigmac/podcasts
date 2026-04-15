@@ -18125,6 +18125,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:0ca1d54dc195",
+        "feed_title": "White Wine Question Time",
+        "source_rss_url": "https://feeds.acast.com/public/shows/acaaaf98-69c1-4a94-b843-5ea7e3892f66",
+        "dedupe_key": "ce38df501235f3ff0b197fb7b02095574a84d52c",
+        "episode_key": "ce38df501235f3ff0b197fb7b02095574a84d52c",
+        "title": "APRIL FOOLS: Katherine Ryan",
+        "published_at": "2026-04-14T01:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome to White Wine Question Time, where on Tuesdays we dust off some of our very best episodes from the cellar.\nThis month it's all about our favourite April Fools - the very best funny women and men we've raised a glass with. You'll hear from Joe Lycett, Katherine Ryan (this episode), Stewart Lee, and Ellie Taylor ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/wwqt/e/69dcca2a94cbb214c3f6cfc3/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/april-fools-katherine-ryan/id1447646731?i=1000761204416&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:86e8d6833f90",
         "feed_title": "Strong Message Here",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
