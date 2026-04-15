@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-04-13T03:52:40+00:00`
-- checked_at: `2026-04-13T03:52:40+00:00`
-- last_modified: `Sun, 12 Apr 2026 22:12:45 GMT`
+- fetched_at: `2026-04-15T03:40:18+00:00`
+- checked_at: `2026-04-15T03:40:18+00:00`
+- last_modified: `Tue, 14 Apr 2026 23:15:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/0bbecfc9ad65078c6accdbc313267a08.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-13T03:52:40+00:00",
+  "fetched_at": "2026-04-15T03:40:18+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "91d826c80fe0668202ad7eb1a1878b66fda9260f",
+      "title": "WDWDY #67: I HATE NATURE",
+      "published_at": "2026-04-14T23:15:00+00:00",
+      "link": null,
+      "description": "On this mid-week bonus ep we find out what David did with his yesterday... Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6eb15dce-3540-11f1-b86e-c7c632ee637f/image/f97d2d1144435c04e34487bd7c13ae33.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7728041399.mp3?updated=1775870420",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3173",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "nature"
+      ]
+    },
     {
       "key": "f5cae1416d5e5e9927d375fff2488fc9706defbc",
       "title": "S4 EP15: Isy Suttie",
@@ -3194,6 +3213,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-14 — WDWDY #67: I HATE NATURE — speakers: Max Rushden, David O'Doherty
 - 2026-04-11 — S4 EP15: Isy Suttie — speakers: Max Rushden, David O'Doherty
 - 2026-04-07 — WDWDY #66: Busted knees and ruptured spleens — speakers: Max Rushden, David O'Doherty
 - 2026-04-04 — S4 EP14: Mel Giedroyc — speakers: Mel Giedroyc, Max Rushden, David O'Doherty

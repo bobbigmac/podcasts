@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-04-13T19:39:29+00:00`
-- checked_at: `2026-04-13T19:39:29+00:00`
-- etag: `"djEuMi4wOjE3NzYwOTkwOTIwODU="`
+- fetched_at: `2026-04-15T03:40:18+00:00`
+- checked_at: `2026-04-15T03:40:18+00:00`
+- etag: `"djEuMi4wOjE3NzYyMTEyMzk1Mzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-04-13T19:39:29+00:00",
+  "fetched_at": "2026-04-15T03:40:18+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "a3b27544a84b4aa302a9ddf44e9a6e47a76c5c46",
+      "title": "DWSC LIVE: With Lindsey Santoro",
+      "published_at": "2026-04-15T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-lindsay-santoro",
+      "description": "It's part two of the DWSC live show in Birmingham, where we get to hear how Lindsey Santoro fell prey to a perp who completely chickened out in their criminal activities. She then gives our hosts a hand with a case where a crime filled caper got one holy order feeling pretty crabby. Finally, an audience member relays a very awkward school days exchange. We'll be back on Friday, with the first of our live shows in Nottingham with guest Barry Dodds, see you then! Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast DWSC eps now drop every Wednesday and every other Friday, so that's at least SIX drops every, single month! Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/69dcff000f4c4bd4d1170300/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83542136",
+      "itunes_duration": "58:00",
+      "speakers": [
+        "Lindsey Santoro",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "lindsey",
+        "santoro"
+      ]
+    },
     {
       "key": "c1d7da63b580f1a3ee02ca9263bc088a7db02e52",
       "title": "DWSC LIVE: With Joe Sutherland",
@@ -10926,6 +10948,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-15 — DWSC LIVE: With Lindsey Santoro — speakers: Lindsey Santoro, Hannah George, Taylor Glenn
 - 2026-04-08 — DWSC LIVE: With Joe Sutherland — speakers: Joe Sutherland, Hannah George, Taylor Glenn
 - 2026-04-03 — DWSC LIVE: With Julia Goulding — speakers: when star, Hannah George, Taylor Glenn
 - 2026-04-01 — DWSC LIVE: With Josh Jones — speakers: Josh Jones, Hannah George, Taylor Glenn

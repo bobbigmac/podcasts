@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-04-14T14:11:33+00:00`
-- checked_at: `2026-04-14T14:11:33+00:00`
-- etag: `"djEuMi4wOjE3NzYxNjQ4OTc1Mzk="`
+- fetched_at: `2026-04-15T03:40:18+00:00`
+- checked_at: `2026-04-15T03:40:18+00:00`
+- etag: `"djEuMi4wOjE3NzYyMjMyMzk0Njg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-04-14T14:11:33+00:00",
+  "fetched_at": "2026-04-15T03:40:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "86139185c51e17a2d281ae22ab288b1c0b96da6d",
+      "title": "ED GAMBLE • get your tickets now for his 2027 'Fresh Hell' tour (Off Menu / Traitors: Uncloaked / Taskmaster) #667",
+      "published_at": "2026-04-15T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the always welcome and always funny ED GAMBLE ! Ed Gamble in the building! It's always a great day when Ed comes knocking. This is one of those episodes where topics could have been randomly picked out of a hat and it would have still been fantastic, but of course that's not how things went down (and topics remained organic to the conversation). Whether you know Ed from Off Menu or more recent ventures, or you've been a fan since the good old days, it's a lovely chat which factors in all sorts including early nu-metal days, the almight companion show 'The Traitors: Uncloaked' and the always cooking 'Taskmaster', the process of comedy and showmaking, being in support of comics, the consistently top 10 podcast 'Off Menu' with co-host genie James Acaster, the whole pivot to video movement within podcasting, and wrestling. And so much more! But that's for you to discover. ENJOY! PIP'S PATREON PAGE if you're of a supporting nature ONLINE & TOUR DATES ONLINE STORE (vinyl still available) INSTAGRAM OFF MENU SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1776163285069-04217dd1-16a4-4559-ac61-ec9481f71b93.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69de2021ae33864715e60813/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "161670198",
+      "itunes_duration": "1:07:18",
+      "speakers": [],
+      "topics": [
+        "gamble",
+        "ticket",
+        "fresh",
+        "hell",
+        "tour",
+        "menu",
+        "traitors",
+        "taskmaster"
+      ]
+    },
     {
       "key": "e932c32535d13303045f67bc0077a0eaf8b7f20c",
       "title": "JAMIE DEMETRIOU (Stath Lets Flats / Fleabag / Paddington 2) • Friday Rewind",
@@ -18583,6 +18606,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-15 — ED GAMBLE • get your tickets now for his 2027 'Fresh Hell' tour (Off Menu / Traitors: Uncloaked / Taskmaster) #667
 - 2026-04-10 — JAMIE DEMETRIOU (Stath Lets Flats / Fleabag / Paddington 2) • Friday Rewind
 - 2026-04-08 — DAVID DASTMALCHIAN • the LA vampire with an attitude of gratitude (Late Night With The Devil / One Piece / Oppenheimer) #666 — speakers: David Dastmalchian
 - 2026-04-03 — GEORGINA CAMPBELL (Barbarian / Cold Storage / Black Mirror) • Friday Rewind

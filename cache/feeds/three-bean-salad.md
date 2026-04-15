@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-04-08T03:32:12+00:00`
-- checked_at: `2026-04-08T03:32:12+00:00`
-- etag: `"9cd20-64ee7cad02674"`
-- last_modified: `Wed, 08 Apr 2026 00:15:07 GMT`
+- fetched_at: `2026-04-15T03:40:18+00:00`
+- checked_at: `2026-04-15T03:40:18+00:00`
+- etag: `"9da63-64f749bba0bc3"`
+- last_modified: `Wed, 15 Apr 2026 00:15:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-04-08T03:32:12+00:00",
+  "fetched_at": "2026-04-15T03:40:18+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "415b0eed4d64d53104a0b10512de3dbbb7252d68",
+      "title": "Vitamins",
+      "published_at": "2026-04-15T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/vitamins",
+      "description": "Josh of Deep South Texas brings the beans (via the bean machine) the topic of vitamins this week. Perfect timing as this week sees the launch of Three Bean Salad’s Vita-Plex injections for glossier skin and lukewarmer banter. For just 99.99.99 in any currency of your choice you can receive bi-weekly* intravenous pints of Vita-Plex. Vita-Plex contains an unique blend of vitamins, minerals and matter tested by “scientists” who promise they’ve done their own research and that’s the Three Bean Salad guarantee!!! *whether you interpret this as twice a week or once every two weeks will have no bearing on pricing or clinical impact. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/9aaf828c-4d8b-480e-a760-0732843cbbc9/S20E7-Vitamins.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/f31e60f8-7c72-4f9d-99e7-1fbdd1c72198.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=f31e60f8-7c72-4f9d-99e7-1fbdd1c72198",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59351502",
+      "itunes_duration": "01:01:49",
+      "speakers": [
+        "Vitamins Josh",
+        "Deep South Texas",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "vitamin"
+      ]
+    },
     {
       "key": "02fd60e821f1700f3caceaa6d749f91d6786983b",
       "title": "Show Us Your Onions",
@@ -4152,6 +4174,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-15 — Vitamins — speakers: Vitamins Josh, Deep South Texas, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-08 — Show Us Your Onions — speakers: Al Capone, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-01 — Saints — speakers: Bean Machine, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-03-25 — Moving House — speakers: Moving House What, Mike Wozniak, Henry Paker, Benjamin Partridge

@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-04-10T07:59:20+00:00`
-- checked_at: `2026-04-10T07:59:20+00:00`
-- etag: `"djEuMi4wOjE3NzU4MDYyNjA4Mzg="`
+- fetched_at: `2026-04-15T03:40:18+00:00`
+- checked_at: `2026-04-15T03:40:18+00:00`
+- etag: `"djEuMi4wOjE3NzYyMjIwMzk2Mjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-04-10T07:59:20+00:00",
+  "fetched_at": "2026-04-15T03:40:18+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f4262a2f59241575d6b172abd491145eb76dcd2f",
+      "title": "Brian Cox",
+      "published_at": "2026-04-15T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/brian-cox",
+      "description": "British acting royalty, ‘Succession’ star and BAFTA winner Brian Cox joins us in the Dream Restaurant this week. Yep, it’s another national treasure. But does he think that dark matter is evil? Brian Cox’s directorial debut ‘Glenrothan’ is in cinemas on Fri 17 April. Follow Brian on Instagram @coxusa Watch the video version of this episode on the Off Menu YouTube on Thu 16 Apr. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1775729762604-5856721f-5609-43df-b120-9bcc9a9aee9f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69d77d332a193257ad3608a8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71586016",
+      "itunes_duration": "59:39",
+      "speakers": [
+        "Brian Cox",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "brian"
+      ]
+    },
     {
       "key": "604505250f309f0d08c5df5f5de25e533ee61747",
       "title": "John Mulaney",
@@ -8375,6 +8396,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-15 — Brian Cox — speakers: Brian Cox, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-08 — John Mulaney — speakers: John Mulaney, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-01 — Regé-Jean Page — speakers: Jean Page, Dream Restaurant, Ed Gamble, James Acaster, Ben Williams
 - 2026-03-25 — Ixta Belfrage — speakers: Ixta Belfrage Award, Ixta Belfrage, Ed Gamble, James Acaster, Ben Williams

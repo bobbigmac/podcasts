@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-04-14T22:05:14+00:00`
-- checked_at: `2026-04-14T22:05:14+00:00`
-- last_modified: `Tue, 14 Apr 2026 21:56:34 GMT`
+- fetched_at: `2026-04-15T03:40:18+00:00`
+- checked_at: `2026-04-15T03:40:18+00:00`
+- last_modified: `Tue, 14 Apr 2026 23:05:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-14T22:05:14+00:00",
+  "fetched_at": "2026-04-15T03:40:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "c19beaa6badcf6259b0dd6cc662ef0af3bc123c4",
+      "title": "521. Trump’s Naval Blockade: Is America Becoming a Rogue State?",
+      "published_at": "2026-04-14T23:00:00+00:00",
+      "link": null,
+      "description": "As Trump unleashes yet more global economic turmoil with his aggressive Strait of Hormuz blockade, is he creating a state of ‘permanent emergency’ and reshaping the world order in ways nobody can predict? Why did JD Vance give up on negotiations with Iran after just 21 hours, and why is the 'ceasefire' already collapsing? What surprised Alastair most about his interview with the President of Ukraine, Volodymyr Zelenskyy? Join Alastair and Rory as they answer all these questions and more. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at https://fuseenergy.com/politics and get a free TRIP+ subscription. Get our exclusive NordVPN deal here ➼ https://nordvpn.com/restispolitics It's risk-free with Nord's 30-day money-back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a913c380-382e-11f1-a206-5bef12b6679b/image/01a422984480ebb0654ed16760fa2ab7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3432583083.mp3?updated=1776204085",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3578",
+      "speakers": [],
+      "topics": [
+        "trump",
+        "naval",
+        "blockade",
+        "america",
+        "rogue",
+        "state"
+      ]
+    },
     {
       "key": "cbafca389a15d1e519d20dd50dfc5bb31c6a7122",
       "title": "520. Orbán Ousted: Is The Tide Turning Against Far-Right Populism?",
@@ -11551,6 +11572,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-14 — 521. Trump’s Naval Blockade: Is America Becoming a Rogue State?
 - 2026-04-13 — 520. Orbán Ousted: Is The Tide Turning Against Far-Right Populism? — speakers: Against Far, Right Populism, Does Hungary
 - 2026-04-08 — 519. Trump's NATO Threat & a Critical Election in Hungary (Question Time) — speakers: Critical Election, Question Time, Following Trump
 - 2026-04-07 — 518. Is Trump a Fascist and is His War on Iran Unwinnable?

@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-14T19:41:15+00:00`
-- checked_at: `2026-04-14T19:41:15+00:00`
-- etag: `"djEuMi4wOjE3NzYxOTA4NDMzMDM="`
+- fetched_at: `2026-04-15T03:40:18+00:00`
+- checked_at: `2026-04-15T03:40:18+00:00`
+- etag: `"djEuMi4wOjE3NzYyMjE4NTkyNjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-14T19:41:15+00:00",
+  "fetched_at": "2026-04-15T03:40:18+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1636a41cd597d448b69276896d6f7b0140557b1a",
+      "title": "RHLSTP Book Club 176 - Emma Jane Unsworth",
+      "published_at": "2026-04-15T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #176 - Slags - Rich talks to author and screenwriter Emma Jane Unsworth about her newest novel, Slags, a tale of teenagers, sisters and secrets. They chat about writing about the 1990s and the changes in sexual mores and social media judgement that made our lives both harder and easier, writing about serious subjects in a very funny book, using teenage diaries and poetry for inspiration, using real-life details in fiction, why Emma went for this bold title and how doing an MA in Creative Writing helped her at the start of her career. Also her dad’s resolution not to use the portaloos at the Also Festival and Emma’s forthcoming appearance there and what age constitutes middle-age (I don’t think Rich can pretend any longer - or might be beyond it). Buy the book here https://uk.bookshop.org/p/books/slags-emma-jane-unsworth/0b2e7f200de66d89 See details of the Also festival here https://www.also-festival.com/ SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1776189716996-23378845-299b-4a88-9afa-1eebd74376a0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69de83c4ae338647150d05af/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20692879",
+      "itunes_duration": "40:13",
+      "speakers": [
+        "Emma Jane Unsworth",
+        "Richard Herring"
+      ],
+      "topics": [
+        "rhlstp",
+        "book",
+        "club",
+        "emma",
+        "jane",
+        "unsworth"
+      ]
+    },
     {
       "key": "f27bfca6497d6fe95c45de118ca3df480b06725b",
       "title": "RAACN week 11",
@@ -22028,6 +22052,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-15 — RHLSTP Book Club 176 - Emma Jane Unsworth — speakers: Emma Jane Unsworth, Richard Herring
 - 2026-04-11 — RAACN week 11 — speakers: Richard Herring
 - 2026-04-08 — RHLSTP 606 - Wendy Wason — speakers: Nicholas Lyndhurst, Richard Herring
 - 2026-04-04 — RAACN week 10 — speakers: Richard Herring

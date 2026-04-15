@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-04-14T03:41:57+00:00`
-- checked_at: `2026-04-14T03:41:57+00:00`
-- last_modified: `Tue, 14 Apr 2026 02:00:00 GMT`
+- fetched_at: `2026-04-15T03:40:18+00:00`
+- checked_at: `2026-04-15T03:40:18+00:00`
+- last_modified: `Wed, 15 Apr 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-14T03:41:57+00:00",
+  "fetched_at": "2026-04-15T03:40:18+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,26 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "f2d19972bfb8d566c31ba896fb7293e04ed3e60a",
+      "title": "S15 Ep 818: Celebrities We Have Met",
+      "published_at": "2026-04-15T02:00:00+00:00",
+      "link": null,
+      "description": "Joe bumped into Vanessa Feltz on Brighton seafront the other day - who he’d never met before but they had a brief chat and she took a photo of them both. The encounter may have only lasted a few minutes but obviously David wants to know everything and his forensic questioning of Joe takes up the first 20 minutes of the show. Then, after discussing a few other celebrities they’ve been lucky enough to chat with, David recounts the full story of the time he met Miranda Hart. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6487382208.mp3?updated=1775803142",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2659",
+      "speakers": [
+        "Vanessa Feltz",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "celebrity"
+      ]
+    },
     {
       "key": "c5a556a31c0403a26b4dbd0d250e2122bc57c1e6",
       "title": "S15 Ep 817: A Year Of Your Life Podding",
@@ -14420,6 +14440,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-15 — S15 Ep 818: Celebrities We Have Met — speakers: Vanessa Feltz, Joe Wilkinson, David Earl
 - 2026-04-14 — S15 Ep 817: A Year Of Your Life Podding — speakers: Joe Wilkinson, David Earl
 - 2026-04-13 — S15 Ep 816 Vault Mondays: Surprise Guest - Harry Hill — speakers: Harry Hill, Joe Wilkinson, David Earl
 - 2026-04-10 — S15 Ep 815 Listener's Mailbag: Funny Names & Working With A Prat — speakers: Joe Wilkinson, David Earl

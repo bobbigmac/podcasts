@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-04-14T22:05:14+00:00`
-- checked_at: `2026-04-14T22:05:14+00:00`
-- etag: `"djEuMi4wOjE3NzYxOTg2NDYzMjk="`
+- fetched_at: `2026-04-15T03:40:18+00:00`
+- checked_at: `2026-04-15T03:40:18+00:00`
+- etag: `"djEuMi4wOjE3NzYyMTEyMzk0ODk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-04-14T22:05:14+00:00",
+  "fetched_at": "2026-04-15T03:40:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "9f6af1b7c78a4072e58c2db8a4492a55b318bfaf",
+      "title": "Kae Tempest",
+      "published_at": "2026-04-15T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/kae-tempest",
+      "description": "This week we have the excellent Kae Tempest joining us for lunch! Kae came by to talk about his beautiful new novel Having Spent a Life Seeking. Over lunch, we covered everything from growing up in Lewisham in a big blended family, to music, poetry and the writing process. We also chatted about cooking scallop spaghetti for his girlfriend and giving up sugar, cigarettes and alcohol for Lent. Kae, we loved having you over; a fantastic guest and an enriching, gorgeous afternoon. Kae’s book is available to pre-order now, out April 30th. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1776186039813-59199b51-5dfe-4d94-ba35-1aaf58d7e951.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69dd245bdaa5b95957dcbb62/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54897683",
+      "itunes_duration": "57:11",
+      "speakers": [
+        "Kae Tempest"
+      ],
+      "topics": [
+        "tempest"
+      ]
+    },
     {
       "key": "9a185d352ccf050b9f07715a69a3e3ba7dafbb5c",
       "title": "Lisa Kudrow",
@@ -7026,6 +7044,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-15 — Kae Tempest — speakers: Kae Tempest
 - 2026-04-08 — Lisa Kudrow — speakers: Lisa Kudrow
 - 2026-04-01 — Jamie Laing and Sophie Habboo — speakers: Jamie Laing, Sophie Habboo
 - 2026-03-25 — Chaka Khan — speakers: Chaka Khan
