@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-04-15T08:04:33+00:00`
-- checked_at: `2026-04-15T08:04:33+00:00`
-- last_modified: `Wed, 15 Apr 2026 07:20:00 GMT`
+- fetched_at: `2026-04-16T10:41:13+00:00`
+- checked_at: `2026-04-16T10:41:13+00:00`
+- last_modified: `Thu, 16 Apr 2026 10:02:31 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-15T08:04:33+00:00",
+  "fetched_at": "2026-04-16T10:41:13+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -34,10 +34,10 @@
       "link": "https://www.patreon.com/cw/brettgoldstein",
       "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with long-term show friend, hilarious comic and insightful podcaster NISH KUMAR ! It's The So On Time It's Almost Early Films Of The Year 2O25 Special Part 1! It's fair to say Nish is at 10,000 hours expert level at this whole afterlife and movie thing, with this episode serving as conclusive proof if needed at all. The podcast pal that has seen more death and then immediately afterlife (in that order) than any other guest returns to drop science with Brett about all of the cinematic masterpieces of 2025! No 2026 boundaries get stepped on or over here - the cut-off is final. We're talking January to December 2025. As always this is a wonderful roundup of an incredible year in cinema, a year of which we're still feeling the ripples. So much happened, so many huge films, and so much to talk about. As such, as always, this is the first of two parts so please, without further show notes - enjoy the episode! ⁠ Video and extra audio available on Brett's Patreon! ⁠ • Refresh your wardrobe with Quince. Go to https://quince.com/brett for free shipping and 365-day returns. • EXCLUSIVE NordVPN Deal ➼ http://nordvpn.com/brett Try it risk-free now with a 30-day money-back guarantee ⁠ NISH ONLINE ⁠ ⁠INSTAGRAM⁠ ⁠POD SAVE THE UK⁠ –––––––––– ⁠⁠ BRETT • X ⁠⁠⁠ ⁠⁠⁠ BRETT • INSTAGRAM ⁠⁠⁠ ⁠⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠⁠ ⁠⁠⁠ TED LASSO ⁠⁠⁠ ⁠⁠⁠ SHRINKING ⁠⁠⁠ ⁠⁠⁠ ALL OF YOU ⁠⁠⁠ ⁠⁠⁠ SOULMATES ⁠⁠⁠ ⁠⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/97808372-383f-11f1-9d56-1b5d8f6addfd/image/9f2b31943528e3eef3453567913dd6a0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6707052790.mp3?updated=1776199871",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6707052790.mp3?updated=1776334003",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4208",
+      "itunes_duration": "4171",
       "speakers": [
         "Nish Kumar",
         "Brett Goldstein"

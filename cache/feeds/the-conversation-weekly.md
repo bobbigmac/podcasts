@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-04-09T16:41:54+00:00`
-- checked_at: `2026-04-09T16:41:54+00:00`
-- etag: `"24a6d5-64f08103f7650"`
-- last_modified: `Thu, 09 Apr 2026 14:45:11 GMT`
+- fetched_at: `2026-04-16T10:41:13+00:00`
+- checked_at: `2026-04-16T10:41:13+00:00`
+- etag: `"24c0ad-64f9047e2601d"`
+- last_modified: `Thu, 16 Apr 2026 09:16:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-04-09T16:41:54+00:00",
+  "fetched_at": "2026-04-16T10:41:13+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,29 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "0729644581be380e61d8422b1acde642a40e7435",
+      "title": "How former insider Péter Magyar ousted Hungary’s Viktor Orbán",
+      "published_at": "2026-04-16T09:15:00+00:00",
+      "link": "https://theconversation.com/who-is-hungarys-peter-magyar-and-how-he-overturned-viktor-orbans-illiberal-democracy-280651",
+      "description": "For 16 years, Viktor Orbán built an illiberal democracy in Hungary. Orbán and his Fidesz party managed to take control of many of Hungary's levers of power, from the judiciary to state-owned media, and weakened the institutions that could keep them accountable. Now, his regime has been ended by a former Fidesz insider, Péter Magyar, who managed to unite Hungarians to secure a two-third majority in the country's parliament. So how did Peter Magyar manage to beat his former boss? And what does Magyar's victory mean for the European Union, where Orbán was a belligerent, pro-Russian voice at the leaders' table. We speak to Zsolt Enyedi , professor of political science at the Central European University and an expert in Hungarian politics. This episode was produced by Mend Mariwany and Katie Flood. Gemma Ware was the host and executive producer. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Mentioned in this episode: The We Society Tackling the big questions through a social science lens, the We Society Podcast from the Academy of Social Sciences brings you some of the best ideas to shape the way we live. Join acclaimed journalist and Academy president Will Hutton, as he invites guests from the world of social science to explore the stories behind the news and hear their solutions to society’s most pressing problems. The Making of an Autocrat Search \"The Conversation Weekly\" for our new series: The Making of an Autocrat. Is America watching its democracy unravel in real time? In The Making of an Autocrat from The Conversation, six of the world’s pre-eminant scholars reveal the recipe for authoritarian rule. From capturing a party, to controlling the military, Donald Trump is borrowing from the playbook of strongmen thoughout history. This is the story of how democracies falter — and what might happen next.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/85de8acd-0602-4ccb-966c-cffad93c1b7d.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44750306",
+      "itunes_duration": "31:05",
+      "speakers": [
+        "Péter Magyar",
+        "Viktor Orbán",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "insider",
+        "magyar",
+        "hungary",
+        "viktor"
+      ]
+    },
     {
       "key": "962c6a2eace339ff015717db190d152d606d68a2",
       "title": "The pseudoscientific scale looksmaxxers use to rate each other",
@@ -5809,6 +5832,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — How former insider Péter Magyar ousted Hungary’s Viktor Orbán — speakers: Péter Magyar, Viktor Orbán, Gemma Ware
 - 2026-04-09 — The pseudoscientific scale looksmaxxers use to rate each other — speakers: Gemma Ware
 - 2026-04-02 — The Making of One Nation: the unlikely rise of Australia’s Pauline Hanson — speakers: Pauline Hanson, Gemma Ware
 - 2026-03-26 — Artemis II: NASA’s long road back to the Moon — speakers: Gemma Ware
