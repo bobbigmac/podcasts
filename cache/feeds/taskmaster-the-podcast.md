@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-04-09T21:58:05+00:00`
-- checked_at: `2026-04-09T21:58:05+00:00`
-- etag: `"d1dd6-64f0d17874a4a"`
-- last_modified: `Thu, 09 Apr 2026 20:45:08 GMT`
+- fetched_at: `2026-04-16T21:59:13+00:00`
+- checked_at: `2026-04-16T21:59:13+00:00`
+- etag: `"d2846-64f99e8a0a087"`
+- last_modified: `Thu, 16 Apr 2026 20:45:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-04-09T21:58:05+00:00",
+  "fetched_at": "2026-04-16T21:59:13+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f17d8617b2e6e45d366a2a73a273219eb4b6ae19",
+      "title": "Armando Iannucci - Series 21 Ep.2",
+      "published_at": "2026-04-16T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "This week Ed is joined by creator of The Thick of It , Veep and all round comedy royalty, Armando Iannucci. Armando reveals what a huge fan he has been of Taskmaster since the very beginning and why he decided to take part in the show. He and Ed dig deep in to Epsiode 2 and discuss the most unquestionable thing of beauty, what it was like to be on a team with Joanna Page and how hard Armando finds it to take off his Producer hat. Catch up on all of Taskmaster at channel4.com For all your latest Taskmaster news visit Taskmaster.tv To watch the podcast and to see lots of extra Taskmaster content visit youtube.com/c/Taskmaster",
+      "image_url": "https://artwork.captivate.fm/7fa5a5b9-e541-4417-9b13-8b5d8a814fca/TASKMASTER-PODCAST-ARTWORK-Armando-V2.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/15240883-bd1b-4e8c-b2d9-5dd402e27459.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=15240883-bd1b-4e8c-b2d9-5dd402e27459",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64915173",
+      "itunes_duration": "01:07:37",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "armando",
+        "iannucci",
+        "series"
+      ]
+    },
     {
       "key": "ce8be14dde8886b6e05f513b83b329d952959f98",
       "title": "Phil Ellis - Series 21 Ep.1",
@@ -5257,6 +5277,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — Armando Iannucci - Series 21 Ep.2 — speakers: Ed Gamble
 - 2026-04-09 — Phil Ellis - Series 21 Ep.1 — speakers: Ed Gamble
 - 2026-03-26 — Taskmaster The Podcast Rewind - Series 3 Ep3. With Katy Wix — speakers: Katy Wix, revisit Ed, Ed Gamble
 - 2026-03-19 — Taskmaster the Podcast Rewind - Series 1 Ep.4 With Nicola Coughlan — speakers: Derry Girls, Ed Gamble
