@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-04-15T16:14:57+00:00`
-- checked_at: `2026-04-15T16:14:57+00:00`
+- fetched_at: `2026-04-16T08:02:28+00:00`
+- checked_at: `2026-04-16T08:02:28+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Wed, 15 Apr 2026 15:06:44 GMT`
+- last_modified: `Thu, 16 Apr 2026 04:07:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-15T16:14:57+00:00",
+  "fetched_at": "2026-04-16T08:02:28+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "036d4098180efb80d53ffca37bd325f7c88cb310",
+      "title": "Jonny Hincks",
+      "published_at": "2026-04-16T04:00:00+00:00",
+      "link": null,
+      "description": "This week joining me for some Pottering is Horticultural Hercules, social media sensation and author of Garden Yourself Happy , Jonny Hincks! 🪴 It was a real delight to have a true green-fingered great in the garden, and we had a lovely chat about the intoxicating smells of nature, the power of planting for our health and wellbeing, and Jonny’s lessons for lawns: don’t go too short! ✂️ It's rather a different story when it comes to fashion. So, lucky YouTube and Spotify viewers, please do enjoy a closer look at our legs. 👀 Oh, the joys of a visualised podcast! Now, stick on those Daisy Dukes, grab your trusty trowel, and let’s go Pottering... 🎧 Watch on YouTube and Spotify or listen wherever you get your podcasts. And please do like and subscribe, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/81092832-381d-11f1-a0fb-0787a0d22e9f/image/075c315f46bf4e9598b10b2015c095a4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4052636229.mp3?updated=1776184789",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3124",
+      "speakers": [
+        "Jonny Hincks",
+        "Tom Allen"
+      ],
+      "topics": [
+        "jonny",
+        "hincks"
+      ]
+    },
     {
       "key": "1e463dafda3d22e457eedd9bcde859dc79ed4fe4",
       "title": "Sarah Hadland",
@@ -648,6 +668,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — Jonny Hincks — speakers: Jonny Hincks, Tom Allen
 - 2026-04-09 — Sarah Hadland — speakers: Sarah Hadland, Tom Allen
 - 2026-04-02 — Lou Beckett — speakers: Lou Beckett Umbrellas, Lou Beckett, Tom Allen
 - 2026-03-26 — Dr Amir Khan — speakers: Amir Khan, Tom Allen

@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-04-13T16:38:19+00:00`
-- checked_at: `2026-04-13T16:38:19+00:00`
-- etag: `"djEuMi4wOjE3NzYwOTcxNjEyMjQ="`
+- fetched_at: `2026-04-16T08:02:28+00:00`
+- checked_at: `2026-04-16T08:02:28+00:00`
+- etag: `"djEuMi4wOjE3NzYzMTU2NDAxNDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-04-13T16:38:19+00:00",
+  "fetched_at": "2026-04-16T08:02:28+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "69b1794eee5284e522b9ac2b3b673f611848b796",
+      "title": "Ellie Taylor (2019): ComCompendium",
+      "published_at": "2026-04-16T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/ellie-taylor-2019-comcompendium",
+      "description": "Welcome back for another delve into the ComComPod archives, this time with episode 308 with Ellie Taylor where we discuss: the absurd concept of Show Me the Funny how her happy life outside of comedy protects her the weird science of writing and why she \"can't do clever topics\" Join the Insiders Club at patreon.com/comcompod where you can instantly get access to the full back catalogue of extras . 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content you can't find anywhere else ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly-ish Stu&As Catch Up with Ellie: You can keep up to date with Ellie by joining her mailing list at ellietaylorcomedy.com and follow on Instagram, @elliejanetaylor . Everything I'm up to: Come and see me LIVE - find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1776096638793-8c3cdead-9a87-486e-af8e-0ea7a79493ef.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69dd1789715b7d1039dff4d0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95507712",
+      "itunes_duration": "1:06:19",
+      "speakers": [
+        "Ellie Taylor",
+        "Ellie Ta",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "ellie",
+        "taylor",
+        "comcompendium"
+      ]
+    },
     {
       "key": "a4b53a66bc842b181794ac266c11083632cf936d",
       "title": "Flo & Joan (2019): ComCompendium",
@@ -11332,6 +11354,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — Ellie Taylor (2019): ComCompendium — speakers: Ellie Taylor, Ellie Ta, Stuart Goldsmith
 - 2026-04-09 — Flo & Joan (2019): ComCompendium — speakers: Stuart Goldsmith
 - 2026-04-02 — Charlene Kaye — speakers: Charlene Kaye, Stuart Goldsmith
 - 2026-03-27 — Johnny Marriott from PET NEEDS: NonComPod — speakers: Johnny Marriott, Stuart Goldsmith

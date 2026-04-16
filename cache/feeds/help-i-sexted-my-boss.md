@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-04-15T19:43:25+00:00`
-- checked_at: `2026-04-15T19:43:25+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpZeU9EQXlOVEl5T0RnPTo6c2F4ZXNz"`
+- fetched_at: `2026-04-16T08:02:28+00:00`
+- checked_at: `2026-04-16T08:02:28+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpZek1UVTJOREUzT0RJPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-04-15T19:43:25+00:00",
+  "fetched_at": "2026-04-16T08:02:28+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e3600374e6c643e2e64124f32e505ca9d12aa132",
+      "title": "REACTING TO JORDAN’S OLD VLOGS | And Illegal Cheeses",
+      "published_at": "2026-04-16T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/reacting-to-jordans-old-vlogs-and-illegal-cheeses",
+      "description": "Justin Bieber isn’t the only one who’s been going through the archives looking at old videos on YouTube; we’ve also found a gold mine of content from Jordan to laugh/cry/cringe at (don’t worry, William doesn’t escape his past either). The boys also have plenty to comment on regarding Paris, clapping in church, and illegal cheese. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": "29:27",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "jordan",
+        "vlogs",
+        "illegal",
+        "cheeses"
+      ]
+    },
     {
       "key": "52ec054cdc78c3fd6e6de8a7da2419a85fa6f385",
       "title": "Help Can I Dry Hump A Virgin | And Jordan’s Cowboy Scrap",
@@ -14105,6 +14127,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — REACTING TO JORDAN’S OLD VLOGS | And Illegal Cheeses — speakers: William Hanson, Jordan North
 - 2026-04-14 — Help Can I Dry Hump A Virgin | And Jordan’s Cowboy Scrap — speakers: Jordan’s Cowboy Scrap Jordan, William Hanson, Jordan North
 - 2026-04-10 — Viagra For Hamsters!? | And More Niche Knowledge — speakers: William Hanson, Jordan North
 - 2026-04-07 — Help I Want My Boss's Sausage | And William’s Got BEER FEAR — speakers: William’s Got, William Hanson, Jordan North
