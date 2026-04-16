@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-04-10T19:12:05+00:00`
-- checked_at: `2026-04-10T19:12:05+00:00`
-- etag: `"1229694d4d79eb4f1d8a29eae3256b32"`
-- last_modified: `Fri, 10 Apr 2026 18:00:10 GMT`
+- fetched_at: `2026-04-16T19:37:57+00:00`
+- checked_at: `2026-04-16T19:37:57+00:00`
+- etag: `"4ea9c5ff7712c6e445000db0022efe3a"`
+- last_modified: `Thu, 16 Apr 2026 17:59:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-  "fetched_at": "2026-04-10T19:12:05+00:00",
+  "fetched_at": "2026-04-16T19:37:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5465,29 +5465,6 @@
         "friday",
         "april"
       ]
-    },
-    {
-      "key": "47698b6859597c2a5002196b5e24253d1f716034",
-      "title": "The News Quiz - Friday 16th April 2021",
-      "published_at": "2021-04-16T17:59:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09dxfk3",
-      "description": "Andy Zaltzman squares up to the week's headlines with panellists Hugo Rifkind, Susie McCabe, Daliso Chaponda and Lucy Porter. Panellists lobby for points as they answer questions on the Greensill affair and the theft of a giant rabbit. Written by Andy Zaltzman with additional material from Alice Fraser, Simon Alcock, Tasha Dhanraj and Jenan Younis. Producer: Richard Morris A BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09dxctz.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26752000",
-      "itunes_duration": "1672",
-      "speakers": [
-        "Andy Zaltzman",
-        "Hugo Rifkind",
-        "Susie McCabe"
-      ],
-      "topics": [
-        "news",
-        "quiz",
-        "friday",
-        "april"
-      ]
     }
   ]
 }
@@ -5754,4 +5731,3 @@
 - 2021-05-07 — The News Quiz - Friday 7th May 2021 — speakers: Andy Zaltzman, Paul Sinha, Angela Barnes, Ayesha Ha
 - 2021-04-30 — The News Quiz - Friday 30th April 2021 — speakers: Andy Zaltzman, Simon Evans, Helen Lewis, Elis James
 - 2021-04-23 — The News Quiz - Friday 23rd April 2021 — speakers: Andy Zaltman, Andrew Maxwell, Athena Kug
-- 2021-04-16 — The News Quiz - Friday 16th April 2021 — speakers: Andy Zaltzman, Hugo Rifkind, Susie McCabe
