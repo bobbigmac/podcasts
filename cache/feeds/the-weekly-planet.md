@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-04-14T08:04:06+00:00`
-- checked_at: `2026-04-14T08:04:06+00:00`
-- etag: `"djEuMi4wOjE3NzYxNDIwMDQwNTA="`
+- fetched_at: `2026-04-16T14:12:34+00:00`
+- checked_at: `2026-04-16T14:12:34+00:00`
+- etag: `"djEuMi4wOjE3NzYzNDYyMzkyNzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-04-14T08:04:06+00:00",
+  "fetched_at": "2026-04-16T14:12:34+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "960b2958172bb10618926885434ae40cc78c8271",
+      "title": "War of the Worlds (2005) - Caravan Of Garbage",
+      "published_at": "2026-04-16T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/war-of-the-worlds-2005-caravan-of-garbage",
+      "description": "Aliens continue to be real on our journey through three very distinct War of the Worlds adaptations. This week it's the second collaboration between Steven Spielberg and Tom Cruise after Minority Report, War of the Worlds 2005. Interesting premise and time, post 9/11, Tom Cruise in his weirdest (publicially) era and a director who'd made two exceptional extra terrestrial propeties prior to this. This should be fantastic! And yet...Anyhow thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69cb11a1e8519e977f159798/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25279342",
+      "itunes_duration": "25:28",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "worlds",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "fdf037fb0dcee44050bf3e5e67d226c6eb2c1ce6",
       "title": "618 The Drama & The Boys Final Season (so far)",
@@ -22080,6 +22101,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — War of the Worlds (2005) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-04-13 — 618 The Drama & The Boys Final Season (so far) — speakers: James Clement, Nick Mason
 - 2026-04-09 — The War of the Worlds (1953) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-04-05 — 617 The Super Mario Galaxy Movie & Supergirl Trailer — speakers: James Clement, Nick Mason

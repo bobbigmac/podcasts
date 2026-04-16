@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-16T10:41:13+00:00`
-- checked_at: `2026-04-16T10:41:13+00:00`
-- etag: `"djEuMi4wOjE3NzYzMjgyMTUzNTc="`
+- fetched_at: `2026-04-16T14:12:34+00:00`
+- checked_at: `2026-04-16T14:12:34+00:00`
+- etag: `"djEuMi4wOjE3NzYzNDA4Mzk1ODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,31 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-16T10:41:13+00:00",
+  "fetched_at": "2026-04-16T14:12:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "8d4ffc68b4ec7747ddd3f51030f1c2212a21a538",
+      "title": "Military experts break down if UK is ready for war",
+      "published_at": "2026-04-16T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69e0c1b76e5b90839a7721e9",
+      "description": "PoliticsJOE is joined by the UK's former permanent representative to Nato, Sir Adam Thomson, and former Navy Commander Kevin Rowlands to discuss the state of the UK's Armed Forces. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69e0c1b76e5b90839a7721e9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27238219",
+      "itunes_duration": "18:54",
+      "speakers": [
+        "Adam Thomson"
+      ],
+      "topics": [
+        "expert"
+      ]
+    },
     {
       "key": "aa83ae99a5f540cdb71c5fbf3a8a038c0db8db7c",
       "title": "Keir Starmer slammed over grim Defence spending \"complacency\" | PMQs reaction",
@@ -12549,6 +12567,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — Military experts break down if UK is ready for war — speakers: Adam Thomson
 - 2026-04-15 — Keir Starmer slammed over grim Defence spending "complacency" | PMQs reaction
 - 2026-04-14 — What Viktor Orbán’s election wipeout means for Trump and Farage — speakers: Viktor Orbán, PoliticsJOE Sam Bright
 - 2026-04-13 — Tucker Carlson makes the BBC look silly — speakers: Tucker Carlson
