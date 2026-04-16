@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-04-16T03:46:17+00:00`
-- checked_at: `2026-04-16T03:46:17+00:00`
-- etag: `W/"366feb2d957e48d8f2ede3329cb36114"`
-- last_modified: `Thu, 16 Apr 2026 03:00:00 GMT`
+- fetched_at: `2026-04-16T16:49:24+00:00`
+- checked_at: `2026-04-16T16:49:24+00:00`
+- etag: `W/"0fe6e66dc9e88e79a6eaa44543ec5da5"`
+- last_modified: `Thu, 16 Apr 2026 15:50:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-04-16T03:46:17+00:00",
+  "fetched_at": "2026-04-16T16:49:24+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -287,10 +287,10 @@
       "link": "https://audioboom.com/posts/8853111",
       "description": "Keir Starmer jets off to Beijing, leaving Westminster - once again - bubbling with rumours about his future. The King of the North might be off the cards, but Angela Rayner and even Ed Miliband are eyeing up the top spot. Reform thinks GB News Presenter and right-wing activist Matt Goodwin is the right man to be their MP candidate in Gorton and Denton - if only he can shelve his disdain for Manchester… Nish and Coco chew it all over with political journalist Zoë Grünewald. Away from the psychodrama, controversial plans to overhaul special educational needs education in England risk children’s legal rights to cut costs. Campaigners Rachel Filmer and Carrie Grant share their concerns with Coco. And surveillance firm Palantir is using medical records to target people for ICE in the US - could the UK be next? This podcast has been edited to remove a story about Matt Goodwin after he clarified the context of his comments about Manchester. We regret the error. CHECK OUT THESE DEALS FROM OUR SPONSORS SHOPIFY https://www.shopify.co.uk/podsavetheuk GUESTS Zoë Grünewald, journalist, broadcaster and political commentator Dr Carrie Grant MBE, TV presenter and voice coach Rachel Filmer, SEND campaigner USEFUL LINKS Save Our Children’s Rights Campaign https://www.saveourchildrensrights.org.uk/ Stop Palantir in the NHS https://goodlawproject.org/campaign/stop-palantir-in-the-nhs CREDITS Keir Starmer / TikTok Pod Save America / X Good Law Project / Instagram Sky News / YouTube UKLabour / X Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43429810.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8853111.mp3?modified=1769683142&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8853111.mp3?modified=1776354624&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3232",
+      "itunes_duration": "3139",
       "speakers": [
         "Will Starmer",
         "Nish Kumar",

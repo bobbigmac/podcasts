@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-16T14:12:34+00:00`
-- checked_at: `2026-04-16T14:12:34+00:00`
-- etag: `"djEuMi4wOjE3NzYzNDExNTg3MjM="`
+- fetched_at: `2026-04-16T16:49:24+00:00`
+- checked_at: `2026-04-16T16:49:24+00:00`
+- etag: `"djEuMi4wOjE3NzYzNTM0Mzk0NTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-16T14:12:34+00:00",
+  "fetched_at": "2026-04-16T16:49:24+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "d2d5b86e47215be3b1eb658f04f64360d9aa4bf3",
+      "title": "Why do young women hate men?",
+      "published_at": "2026-04-16T15:30:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/why-do-young-women-hate-men",
+      "description": "For years, we have wrung our hands about the manosphere: the misogynist influencers like Andrew Tate exploiting a generation of disillusioned and impressionable lost boys. But what about radicalised young women? New, exclusive polling for the New Statesman has uncovered a huge difference in the political, economic and social outlook of women and men under 30 in Britain, created largely by women turning to the left. Should we be worried about the “femmosphere”? Joining me to discuss is Scarlett Maguire, founder and director of polling and research company Merlin Strategy, and our online editor Emily Lawford, whose brilliant report about this phenomenon will be out in this week’s issue of the New Statesman . Meet the Angry Young Women https://www.newstatesman.com/cover-story/2026/04/meet-the-angry-young-women-why-young-women-dont-want-to-date-me Revealed: the new radicalism among young women https://www.newstatesman.com/politics/polling/2026/04/revealed-the-new-radicalism-among-young-women LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1776340575679-15a92d5a-a836-4cf9-a38f-270f282b7963.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69e0d0a6a0cdd3989c388ba8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52692134",
+      "itunes_duration": "27:22",
+      "speakers": [
+        "Andrew Tate",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "woman"
+      ]
+    },
     {
       "key": "1ae18aa98f6899c6f4f1ae6f2efd7f11f0dc4cf2",
       "title": "Trump’s “demented” Easter and fragile ceasefire | Will and Anoosh's weekly round up",
@@ -30979,6 +30999,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — Why do young women hate men? — speakers: Andrew Tate, Anoosh Chakelian, Oli Dugmore
 - 2026-04-11 — Trump’s “demented” Easter and fragile ceasefire | Will and Anoosh's weekly round up — speakers: Zack Pol, Anoosh Chakelian, Oli Dugmore
 - 2026-04-09 — AI is embedded in the British state — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-04-06 — Yanis Varoufakis: Greece has become Israel's "handmaiden" — speakers: Yanis Varoufakis, Anoosh Chakelian, Oli Dugmore
