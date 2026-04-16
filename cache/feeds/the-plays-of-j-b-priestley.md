@@ -3,10 +3,12 @@
 - slug: `the-plays-of-j-b-priestley`
 - source: `https://archive.org/download/rss_jbprbrdc/jbprbrdc`
 - fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-03-28T07:13:44+00:00`
+- checked_at: `2026-04-16T03:46:17+00:00`
 - etag: `"6684802c-5fca"`
 - last_modified: `Tue, 02 Jul 2024 22:33:16 GMT`
 - max_episodes_per_feed: `2000`
+- status: `error`
+- last_error: `HTTP 500` — Internal Server Error
 
 <!-- FEED_JSON -->
 ```json
@@ -592,7 +594,17 @@
         "credit"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-04-16T03:46:17+00:00",
+    "status": "error",
+    "checked_at": "2026-04-16T03:46:17+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 500,
+      "message": "Internal Server Error"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

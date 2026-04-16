@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-04-13T16:38:19+00:00`
-- checked_at: `2026-04-13T16:38:19+00:00`
-- etag: `W/"fe05c470224fa8b50cbbed28c7889748"`
-- last_modified: `Mon, 13 Apr 2026 15:53:50 GMT`
+- fetched_at: `2026-04-16T03:46:17+00:00`
+- checked_at: `2026-04-16T03:46:17+00:00`
+- etag: `W/"366feb2d957e48d8f2ede3329cb36114"`
+- last_modified: `Thu, 16 Apr 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-04-13T16:38:19+00:00",
+  "fetched_at": "2026-04-16T03:46:17+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4a9686e3d95b0c74396ef05b1b9742aaf4589384",
+      "title": "Trump's Jesus Meme Chaos w/ Tommy Vietor",
+      "published_at": "2026-04-16T03:00:00+00:00",
+      "link": "https://audioboom.com/posts/8890371",
+      "description": "Who says the special relationship is on the ropes? Coco and Nish are joined by Pod Save America’s Tommy Vietor to showcase transatlantic co-operation at its very best. From the battle of slopaganda to the real war in Iran - there’s a lot to talk about. Donald Trump deleted a Truth Social post because he looked a little bit too much like Jesus for the Christian community - many of them have been some of his biggest supporters. Meanwhile Iran has released a series of sometimes-antisemitic, AI, Lego rap videos. In the UK, Keir Starmer is being criticised for not spending enough on defence at a time when the wars in Ukraine and the Middle East are focusing minds. Plus - Your Party hits the skids in Scotland - we hear from an insider about what went down. Don’t forget to leave a review - it gives the show a boost and we love to see your comments. CHECK OUT THESE DEALS FROM OUR SPONSORS AURA FRAMES: https://shopify.co.uk/podsavetheuk SHOPIFY: https://www.wise.com WISE: https://shopify.co.uk/podsavetheuk GUESTS Tommy Vietor, Host, Pod Save America and Pod Save The World USEFUL LINKS How to email your MP about NHS Palantir contracts - https://www.amnesty.org.uk/get-involved/take-action/sign-a-petition/mp-demand-no-palantir-in-our-nhs/ CREDITS Donald Trump - @rapidresponse47, X Iranian Propaganda Video - Explosive Media Owen Maitland, Former Your Party Scotland executive committee member Faiza Shaheen, Director, Tax Justice UK - ‘Politics Live’, BBC One Saturday Night Live UK, Sky One Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43595146.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8890371.mp3?modified=1776267841&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3191",
+      "speakers": [
+        "Jesus Meme Chaos",
+        "Tommy Vietor Who",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "trump",
+        "jesus",
+        "meme",
+        "chaos",
+        "tommy",
+        "vietor"
+      ]
+    },
     {
       "key": "e25b737bbf83a894202f58da2be0d134ebe07597",
       "title": "Can AI really be your friend? w/Jamie Bartlett",
@@ -3678,6 +3704,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — Trump's Jesus Meme Chaos w/ Tommy Vietor — speakers: Jesus Meme Chaos, Tommy Vietor Who, Nish Kumar, Coco Khan
 - 2026-04-02 — Can AI really be your friend? w/Jamie Bartlett — speakers: Jamie Bartlett Coco, Jamie Bartlett, Nish Kumar, Coco Khan
 - 2026-03-26 — Truth, Lies and Donald Trump w/ Stewart Lee — speakers: Stewart Lee Comedian, Stewart Lee, Nish Kumar, Coco Khan
 - 2026-03-21 — Can Britain’s myth and magic challenge the far right? w/ Zakia Sewell — speakers: Zakia Sewell, Nish Kumar, Coco Khan

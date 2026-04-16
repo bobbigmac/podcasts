@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-04-15T03:40:18+00:00`
-- checked_at: `2026-04-15T03:40:18+00:00`
-- last_modified: `Wed, 15 Apr 2026 01:13:42 GMT`
+- fetched_at: `2026-04-16T03:46:17+00:00`
+- checked_at: `2026-04-16T03:46:17+00:00`
+- last_modified: `Wed, 15 Apr 2026 23:08:17 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-15T03:40:18+00:00",
+  "fetched_at": "2026-04-16T03:46:17+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,30 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "70a55663f95ba1077bccb8509344903a483e0552",
+      "title": "Unfinished Business: Browsing the Backlog",
+      "published_at": "2026-04-15T23:00:00+00:00",
+      "link": null,
+      "description": "Fling wide your windows and turn your stereos up to ten because it's a brand-spanking-new episode of Button Boys and everyone needs to know about it. We live in the busiest era in human history*, constantly distracted by work, love life, eating, sleeping and breathing with no time for what matters: gaming. Steam sales, recommendations, gifts and impulse purchases have left us with an intimidatingly large pile of games that get buried over time. This week, Sarah, Pierre and Glenn are tasked with painstakingly excavating this hoard like a crack team of archaeologists to reveal whether it's a Sutton Hoo or Sutton Poo they've been sitting on all these years. But first, the Boys catch up on what they've been playing this week as Sarah's been scared sick, Glenn's cringing through an old classic and Pierre's struggling to get a word in edgeways. *Citation needed To follow along with the Button Boys outside the podcast: Pierre - ⁠ You Sit There, I'll Stand Here⁠ Glenn - ⁠ Please Sir, Glenn I Have Some Moore Glenn and Producer Ben - ⁠ The Audience VS ⁠ ⁠Sarah's Melbourne Show⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Final Fantasy XIII Resident Evil: Requiem Resident Evil 2 The Last of Us Resident Evil 2 Remake Dragon Quest VII Reimagined Oxenfree Oxenfree II: Lost Signals This War of Mine Frostpunk Songs of Syx Planescape: Torment Monaco: What's Yours is Mine Quantum Break Date Boy taking My Dark Knight Girlfriend to the corner store Stardew Valley Call of Duty: Warzone Balatro Pillars of Eternity II Apotheon FIFA 19 FIFA 20 LEGO DC Super-Villains Stronghold 3 Stronghold 2 Pippa Funnel: The Stud Farm Inheritance Blue Prince The Lord of the Rings: Gollum Where the Water Tastes Like Wine South of Midnight Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR9014716413.mp3?updated=1776213293",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3181",
+      "speakers": [
+        "Unfinished Business",
+        "Backlog Fling",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "unfinished",
+        "business",
+        "backlog"
+      ]
+    },
     {
       "key": "2235b181a4454f5f47a8b3ea23ab30865d872af2",
       "title": "Gaming Highs",
@@ -924,6 +948,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-15 — Unfinished Business: Browsing the Backlog — speakers: Unfinished Business, Backlog Fling, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-04-08 — Gaming Highs — speakers: Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-04-01 — Yes Please Moments: Volume 2 — speakers: Button Boy, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-03-26 — State of the Art: Visual Design — speakers: La Gallerie Bouton, Glenn Moore, Sarah Keyworth, Pierre Novellie
