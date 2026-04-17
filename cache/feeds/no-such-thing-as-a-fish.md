@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-04-17T03:45:20+00:00`
-- checked_at: `2026-04-17T03:45:20+00:00`
-- etag: `W/"3a7e4ca24a2330f61d8a5bceffcb26c2"`
-- last_modified: `Thu, 16 Apr 2026 22:55:00 GMT`
+- fetched_at: `2026-04-17T10:35:16+00:00`
+- checked_at: `2026-04-17T10:35:16+00:00`
+- etag: `W/"2154c44d665f6ca4644c9282c8a18e46"`
+- last_modified: `Fri, 17 Apr 2026 09:06:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-04-17T03:45:20+00:00",
+  "fetched_at": "2026-04-17T10:35:16+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -376,7 +376,7 @@
       "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8866484.mp3?modified=1772110328&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3253",
+      "itunes_duration": "3142",
       "speakers": [
         "Melanie Bracewell",
         "Selena Gomez",

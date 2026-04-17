@@ -7607,6 +7607,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:c6031f1ae9bf",
+        "feed_title": "Hawksbee and Jacobs Daily",
+        "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
+        "dedupe_key": "760943a9f9596b7eb6816a04fbf822040f8eb51c",
+        "episode_key": "760943a9f9596b7eb6816a04fbf822040f8eb51c",
+        "title": "Stadium McStade Face",
+        "published_at": "2021-11-09T16:04:45Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Paul and Charlie are joined by comedian Harry Hill, whispering Hugh Woozencroft, former F1 driver David Coulthard and Ben from Llantwit Major AFC. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/hawksbeeandjacobs/stadiummcstadeface/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stadium-mcstade-face/id348889102?i=1000541247397&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:542e0c12e801",
         "feed_title": "Parenting Hell with Rob Beckett and Josh Widdicombe",
         "source_rss_url": "https://feeds.megaphone.fm/GLT9881106244",
