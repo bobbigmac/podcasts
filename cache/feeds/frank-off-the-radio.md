@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-04-16T03:46:17+00:00`
-- checked_at: `2026-04-16T03:46:17+00:00`
-- last_modified: `Wed, 15 Apr 2026 23:56:45 GMT`
+- fetched_at: `2026-04-17T03:45:20+00:00`
+- checked_at: `2026-04-17T03:45:20+00:00`
+- last_modified: `Fri, 17 Apr 2026 00:07:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-16T03:46:17+00:00",
+  "fetched_at": "2026-04-17T03:45:20+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,26 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "6270f4fd78d76f5e41831d7365ea4792d0291327",
+      "title": "Accidental Gorpcore",
+      "published_at": "2026-04-17T00:00:00+00:00",
+      "link": null,
+      "description": "Frank and Emily are joined by Steve Hall! This time Frank has been disappointed by the menu in a themed cafe and has managed to make an unknowing fashion statement. Steve has also had an interesting night out and have the team ever dined and dashed? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2222610328.mp3?updated=1776296409",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2347",
+      "speakers": [
+        "Steve Hall",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "accidental",
+        "gorpcore"
+      ]
+    },
     {
       "key": "b4374c4df5594a76617c515b6ac695e16b280fea",
       "title": "Frank Skinner's Poetry Podcast: Poetry Anthologies",
@@ -11937,25 +11957,6 @@
       ]
     },
     {
-      "key": "43a3b6dc5229a2a177261786bfe7de141447e6d8",
-      "title": "The Best of Frank 2009 - 2011",
-      "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170208081140.mp3",
-      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2009 - 2011. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a716fc9a-817e-11ef-8fe9-17afc22bd574/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9438067069.mp3?updated=1739807264",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3157",
-      "speakers": [
-        "Frank Skinner"
-      ],
-      "topics": [
-        "best",
-        "frank"
-      ]
-    },
-    {
       "key": "ccc010063fb85c02298487d103c3f1e5f08b6437",
       "title": "Big Daddy's Birthday",
       "published_at": "2017-01-28T08:00:00+00:00",
@@ -11972,6 +11973,25 @@
       "topics": [
         "daddy",
         "birthday"
+      ]
+    },
+    {
+      "key": "43a3b6dc5229a2a177261786bfe7de141447e6d8",
+      "title": "The Best of Frank 2009 - 2011",
+      "published_at": "2017-01-28T08:00:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170208081140.mp3",
+      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2009 - 2011. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a716fc9a-817e-11ef-8fe9-17afc22bd574/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9438067069.mp3?updated=1739807264",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3157",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "best",
+        "frank"
       ]
     },
     {
@@ -13615,13 +13635,13 @@
       ]
     },
     {
-      "key": "909af024d5d1470daf77598b7f74c36a738f988f",
+      "key": "864fc7223ea4db3d1f6994c74a1833ed766874a0",
       "title": "The Frank Skinner Show - Late Review",
       "published_at": "2015-08-08T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150808124012.mp3",
-      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week the the G man (Gareth Richards) is back whilst Alun is away doing his Edinburgh show. Frank discusses his scary book and flying any day. The team also talk Keith Richards, Noel Edmonds and snacks of choice after it was revealed the Doctor Who cast are no longer allowed biscuits on set. Emily, Gareth and Frank also give their #latereviews Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/dc6a22c8-817e-11ef-8fe9-035c7d632db0/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3168595967.mp3?updated=1738241570",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150808124717.mp3",
+      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week the G man (Gareth Richards) is back whilst Alun is away doing his Edinburgh show. Frank discusses his scary book and flying ant day. The team also talk Keith Richards, Noel Edmonds and snacks of choice after it was revealed the Doctor Who cast are no longer allowed biscuits on set. Emily, Gareth and Frank also give their #latereviews Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/db8407e8-817e-11ef-8fe9-9746e1f354ec/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5260248061.mp3?updated=1738241551",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4626",
@@ -13636,13 +13656,13 @@
       ]
     },
     {
-      "key": "864fc7223ea4db3d1f6994c74a1833ed766874a0",
+      "key": "909af024d5d1470daf77598b7f74c36a738f988f",
       "title": "The Frank Skinner Show - Late Review",
       "published_at": "2015-08-08T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150808124717.mp3",
-      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week the G man (Gareth Richards) is back whilst Alun is away doing his Edinburgh show. Frank discusses his scary book and flying ant day. The team also talk Keith Richards, Noel Edmonds and snacks of choice after it was revealed the Doctor Who cast are no longer allowed biscuits on set. Emily, Gareth and Frank also give their #latereviews Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/db8407e8-817e-11ef-8fe9-9746e1f354ec/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5260248061.mp3?updated=1738241551",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150808124012.mp3",
+      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. This week the the G man (Gareth Richards) is back whilst Alun is away doing his Edinburgh show. Frank discusses his scary book and flying any day. The team also talk Keith Richards, Noel Edmonds and snacks of choice after it was revealed the Doctor Who cast are no longer allowed biscuits on set. Emily, Gareth and Frank also give their #latereviews Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dc6a22c8-817e-11ef-8fe9-035c7d632db0/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3168595967.mp3?updated=1738241570",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4626",
@@ -23261,6 +23281,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-17 — Accidental Gorpcore — speakers: Steve Hall, Frank Skinner
 - 2026-04-15 — Frank Skinner's Poetry Podcast: Poetry Anthologies — speakers: Frank Skinner's Poetry, Frank Skinner
 - 2026-04-13 — Things To Do In The Black Country — speakers: Johnny White Really Really, Frank Skinner
 - 2026-04-10 — Ghosted by Who Do You Think You Are — speakers: Johnny White Really Really, Frank Skinner
@@ -23865,8 +23886,8 @@
 - 2017-02-11 — The Frank Skinner Show - Unconventional Laughter — speakers: Frank Skinner
 - 2017-02-04 — The Frank Skinner Show - Drexit — speakers: Frank Skinner
 - 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
-- 2017-01-28 — The Best of Frank 2009 - 2011 — speakers: Frank Skinner
 - 2017-01-28 — Big Daddy's Birthday — speakers: Frank Skinner
+- 2017-01-28 — The Best of Frank 2009 - 2011 — speakers: Frank Skinner
 - 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-27 — Frank in Conversation with Adrian Chiles — speakers: Radio Frank, Frank Skinner
 - 2017-01-21 — The Frank Skinner Show - Diamante Detail — speakers: Frank Skinner

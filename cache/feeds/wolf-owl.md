@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-04-16T19:37:57+00:00`
-- checked_at: `2026-04-16T19:37:57+00:00`
-- last_modified: `Thu, 16 Apr 2026 19:09:37 GMT`
+- fetched_at: `2026-04-17T03:45:20+00:00`
+- checked_at: `2026-04-17T03:45:20+00:00`
+- last_modified: `Thu, 16 Apr 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-16T19:37:57+00:00",
+  "fetched_at": "2026-04-17T03:45:20+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,34 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "78d07db1831667b4ecdcdb5210fa0b2fe43cc503",
+      "title": "Bedroom Feedback, Gary Neville and Sleep Routines",
+      "published_at": "2026-04-16T23:01:00+00:00",
+      "link": null,
+      "description": "Who has Romesh got beef with? Who would win at running the country between Ian Botham and Gary Neville? What’s the worst thing we’ve said post-sex? This week’s episode is full of even more embarrassing confessions - get comfortable, you’re about to be uncomfortable! Don’t forget to send your questions, confessions, pictures and videos to wolfowlpod@gmail.com and we could be reading them out in an upcoming episode. A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 01:56 World Cup 09:07 Sex vocals 16:18 Sleep struggles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0650bf7a-3984-11f1-9faf-a3c81dbe557f/image/12a1db2de12adf4ce71e2f81457ab8e5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3361516066.mp3?updated=1776355561",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1681",
+      "speakers": [
+        "Bedroom Feedback",
+        "Gary Neville",
+        "Ian Botham",
+        "Gary Nevil",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "bedroom",
+        "feedback",
+        "gary",
+        "neville",
+        "sleep",
+        "routines"
+      ]
+    },
     {
       "key": "ccb53bea8e24349a5d70186d89aee38d6941a1c3",
       "title": "Ninja Turtles, Dirty Underwear and Spicy Sausage",
@@ -6519,6 +6547,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — Bedroom Feedback, Gary Neville and Sleep Routines — speakers: Bedroom Feedback, Gary Neville, Ian Botham, Gary Nevil, Romesh Ranganathan, Tom Davis
 - 2026-04-13 — Ninja Turtles, Dirty Underwear and Spicy Sausage — speakers: Romesh Ranganathan, Tom Davis
 - 2026-04-09 — André The Giant, Tom’s Man Room and Rom the Sex Symbol — speakers: Tom’s Man Room, Romesh Ranganathan, Tom Davis
 - 2026-04-06 — Marvel Auditions, Soap Dramas and Spider Bites — speakers: Soap Dramas, Spider Bites, Romesh Ranganathan, Tom Davis

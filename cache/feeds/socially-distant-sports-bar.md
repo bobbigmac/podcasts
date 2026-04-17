@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-04-15T03:40:18+00:00`
-- checked_at: `2026-04-15T03:40:18+00:00`
-- etag: `"djEuMi4wOjE3NzYyMDgwNTkzODY="`
+- fetched_at: `2026-04-17T03:45:20+00:00`
+- checked_at: `2026-04-17T03:45:20+00:00`
+- etag: `"djEuMi4wOjE3NzYzODE3NTk0MDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-04-15T03:40:18+00:00",
+  "fetched_at": "2026-04-17T03:45:20+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "82b691ef9ca2b0f8afe6d3413b941374ce9baeb4",
+      "title": "Darllen a Rhedeg (pt 2)",
+      "published_at": "2026-04-16T23:22:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/darllen-a-rhedeg-pt-2",
+      "description": "A weekly mix of sporting brilliance, nostalgia and complete nonsense. 🎧 PART 2 (Early & Ad-Free) Mike Documentary: Final Siren: Inside the AFL https://www.amazon.co.uk/gp/video/detail/B0GHP5F7Q3/ref=atv_dp_share_cu_r Elis Book: Austerity Britain — David Kynaston https://www.amazon.co.uk/Austerity-Britain-1945-1951-Tales-Jerusalem/dp/0747599238 AND Alternative Wales https://www.alternativewales.com/shop 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69ddd790ea8ef7a4e0712aeb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95762880",
+      "itunes_duration": "39:54",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "rhedeg"
+      ]
+    },
     {
       "key": "ee04db80a95317b7ac565c137fbcb119c6175eb9",
       "title": "Darllen a Rhedeg (pt 1)",
@@ -14500,6 +14520,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — Darllen a Rhedeg (pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-14 — Darllen a Rhedeg (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-11 — Searching: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-09 — Night One at The New Theatre (Pt 2) — speakers: Night One, Elis James, Mike Bubbins, Steff Garrero

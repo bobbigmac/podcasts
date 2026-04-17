@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-04-16T16:49:24+00:00`
-- checked_at: `2026-04-16T16:49:24+00:00`
-- last_modified: `Thu, 16 Apr 2026 16:19:01 GMT`
+- fetched_at: `2026-04-17T03:45:20+00:00`
+- checked_at: `2026-04-17T03:45:20+00:00`
+- last_modified: `Fri, 17 Apr 2026 01:21:51 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-16T16:49:24+00:00",
+  "fetched_at": "2026-04-17T03:45:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "e3f3008a0e2cab7fba8020b8c4490139df16ea02",
+      "title": "Beating Populism: How To Fight Back",
+      "published_at": "2026-04-16T22:55:00+00:00",
+      "link": null,
+      "description": "Are we living in a 1930s moment in history? How can leaders fight back against populism? And is Franklin D Roosevelt the answer? Join Alastair Campbell and Liam Byrne for part 2 of their discussion on why populism is winning and how to beat it. To hear the whole Populism series, sign up at therestispolitics.com Social Producer: Celine Charles Video Editor: James Clayden Producer: India Dunkley Exec Producer: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9c4bf8c2-39ad-11f1-bcd0-af103609006b/image/8cab78dc53df71f1ae1444ec2ef68bdd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5723791080.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "781",
+      "speakers": [
+        "Beating Populism"
+      ],
+      "topics": [
+        "populism"
+      ]
+    },
     {
       "key": "7f047cdf9cfda1107f8f9da9de3c671d294a4f83",
       "title": "522. Has Hungary Shown Britain How to Beat Farage? (Question Time)",
@@ -8300,7 +8318,7 @@
       "link": null,
       "description": "Why are the Orkney islands looking to explore options around joining Norway? Are psychedelics the future of mental health treatment? Does the path to a Labour majority include winning over National Trust members? Join Rory and Alastair as they answer all these questions and more on today's Question Time podcast. TRIP Plus: Become a member of The Rest Is Politics Plus to support the podcast, enjoy ad-free listening to both TRIP and Leading, benefit from discount book prices on titles mentioned on the pod, join our Discord chatroom, and receive early access to live show tickets and Question Time episodes. Just head to therestispolitics.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestispolitics . Instagram: @restispolitics Twitter: @RestIsPolitics Email: restispolitics@gmail.com Producers: Dom Johnson + Nicole Maslen Exec Producers: Tony Pastor + Jack Davenport Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ecceaaa6-2425-11ee-be58-333e191414ca/image/1646046789918-2cc590a25e3c4af2377f6cee4909cf6b.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4631221349.mp3?updated=1693286720",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4631221349.mp3?updated=1776381810",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2436",
@@ -11595,6 +11613,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — Beating Populism: How To Fight Back — speakers: Beating Populism
 - 2026-04-15 — 522. Has Hungary Shown Britain How to Beat Farage? (Question Time) — speakers: Beat Farage, Question Time
 - 2026-04-14 — 521. Trump’s Naval Blockade: Is America Becoming a Rogue State?
 - 2026-04-13 — 520. Orbán Ousted: Is The Tide Turning Against Far-Right Populism? — speakers: Against Far, Right Populism, Does Hungary

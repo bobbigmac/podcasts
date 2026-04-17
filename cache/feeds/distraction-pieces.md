@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-04-16T21:59:13+00:00`
-- checked_at: `2026-04-16T21:59:13+00:00`
-- etag: `"djEuMi4wOjE3NzYzNzE0ODM5MjQ="`
+- fetched_at: `2026-04-17T03:45:20+00:00`
+- checked_at: `2026-04-17T03:45:20+00:00`
+- etag: `"djEuMi4wOjE3NzYzOTYwMzkyNTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-04-16T21:59:13+00:00",
+  "fetched_at": "2026-04-17T03:45:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d313b96da2e92903a14a491e908d4d08057dca00",
+      "title": "NORMAN COOK (aka FATBOY SLIM!) • Friday Rewind",
+      "published_at": "2026-04-17T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Norman Cook aka Fatboy Slim , originally episode 268 from 2019-05-15. Original writeup below: “Fatboy Slim? Just a band…” It’s so great when these music based episodes come around, especially when Pip has had previous dealings with the guest in question which is exactly the case with Norman. In fact you will hear the evidence of which at the very end of the podcast so keep that in the treat bank for now eh! A truly great chat with the two down on the coast in Norman’s Brighton home, where they catch up on all sorts covering the past, the present and the future of his career. As you’ll hear, it’s really quite a monumental career at that - indeed, he goes decades deeper than a few hit singles. From an early start with his band The Housemartins, he’s had more pseudonyms than Kool Keith and played to more people than - well, you name em… The very definition of a superstar DJ, let’s say! From some podcast chatter up top, to some light Millwall vs Brighton banter, to his early days in Reigate being a punk up against a sea of teddyboys, the homogeneity of culture these days, the relationship dynamics of being in a band, how he’s always been into indie and dance music when the two were not as mixed up as the present day, that insane Brighton beach show, collaborating with previous DPP guest Ryca, being very much in the public eye via his marriage to Zoe Ball and SO much brilliant music talk throughout. Immense! Listen and love! PIP'S PATREON PAGE if you're of a supporting nature FATBOY SLIM ONLINE (everything is here) PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1776371096298-10c811ac-c8ea-4871-bb11-a50acd831288.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69e1471bd2febdbec94db011/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "180647184",
+      "itunes_duration": "1:15:12",
+      "speakers": [
+        "Norman Cook"
+      ],
+      "topics": [
+        "norman",
+        "cook",
+        "fatboy",
+        "slim",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "86139185c51e17a2d281ae22ab288b1c0b96da6d",
       "title": "ED GAMBLE • get your tickets now for his 2027 'Fresh Hell' tour (Off Menu / Traitors: Uncloaked / Taskmaster) #667",
@@ -18606,6 +18629,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-17 — NORMAN COOK (aka FATBOY SLIM!) • Friday Rewind — speakers: Norman Cook
 - 2026-04-15 — ED GAMBLE • get your tickets now for his 2027 'Fresh Hell' tour (Off Menu / Traitors: Uncloaked / Taskmaster) #667
 - 2026-04-10 — JAMIE DEMETRIOU (Stath Lets Flats / Fleabag / Paddington 2) • Friday Rewind
 - 2026-04-08 — DAVID DASTMALCHIAN • the LA vampire with an attitude of gratitude (Late Night With The Devil / One Piece / Oppenheimer) #666 — speakers: David Dastmalchian

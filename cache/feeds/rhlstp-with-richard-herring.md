@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-16T19:37:57+00:00`
-- checked_at: `2026-04-16T19:37:57+00:00`
-- etag: `"djEuMi4wOjE3NzYzNjAxMzA2NzY="`
+- fetched_at: `2026-04-17T03:45:20+00:00`
+- checked_at: `2026-04-17T03:45:20+00:00`
+- etag: `"djEuMi4wOjE3NzYzOTQ2NTkzMjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-16T19:37:57+00:00",
+  "fetched_at": "2026-04-17T03:45:20+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,22 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2a5d1b210ca427e04879d79a5e70a9b5d063190d",
+      "title": "RHLSTP Bonus 3",
+      "published_at": "2026-04-17T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Bonus 3 - In this resurfaced subscriber-exclusive podcast from 2022, Richard is asked a series of emergency questions by his ventriloquist dummy Ally Sloper, including his most mundane encounter with a famous person, and whether he would prefer a talcum powder tit or a finger that could travel through time. There's even a podcast world first, in which the host fully vacates the studio for a number of minutes to answer his front door. If you like this sort of thing - why not consider becoming a badger? You'll get access to loads more of these, a monthly AMA podcast, as well as video versions of all RHLSTP episodes for which video exists... https://www.gofasterstripe.com/cgi-bin/w.cgi?showfull=28439 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1776359406467-df579659-c2f2-4fea-8bb8-e80cb5580d2d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69e11ac26e5b90839a97b984/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21636705",
+      "itunes_duration": "44:36",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": []
+    },
     {
       "key": "1636a41cd597d448b69276896d6f7b0140557b1a",
       "title": "RHLSTP Book Club 176 - Emma Jane Unsworth",
@@ -22052,6 +22068,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-17 — RHLSTP Bonus 3 — speakers: Richard Herring
 - 2026-04-15 — RHLSTP Book Club 176 - Emma Jane Unsworth — speakers: Emma Jane Unsworth, Richard Herring
 - 2026-04-11 — RAACN week 11 — speakers: Richard Herring
 - 2026-04-08 — RHLSTP 606 - Wendy Wason — speakers: Nicholas Lyndhurst, Richard Herring

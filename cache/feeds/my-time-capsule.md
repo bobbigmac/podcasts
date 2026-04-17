@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-04-16T16:49:24+00:00`
-- checked_at: `2026-04-16T16:49:24+00:00`
-- etag: `"djEuMi4wOjE3NzYzNTExMDI4MzA="`
+- fetched_at: `2026-04-17T03:45:20+00:00`
+- checked_at: `2026-04-17T03:45:20+00:00`
+- etag: `"djEuMi4wOjE3NzYzODA1NjAxOTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-04-16T16:49:24+00:00",
+  "fetched_at": "2026-04-17T03:45:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "add2964ec555a3657103ad8e3e32110720e52faa",
+      "title": "Ep. 578 - Alicia Kite - Fashion entrepreneur, academy founder and shapewear designer",
+      "published_at": "2026-04-16T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-578-alicia-kite-fashion-entrepreneur-academy-founder-and",
+      "description": "Alicia Kite is one of the UK's most pioneering figures in fashion. She opened her first luxury designer boutique at 19 — becoming one of the first UK retailers to stock Moschino and growing Alicia Kite into a five-store fashion destination, working with Prada and Dolce & Gabbana. She went on to launch Begin Again, a designer resale concept that was ahead of the sustainability curve by decades, before channelling her expertise into personal styling and the Alicia Kite Academy — now 20 years old, and responsible for training an entire generation of image consultants across the UK. Her latest venture is her own shapewear brand, designed from the ground up to be breathable, comfortable, and stylish enough to show off — not hide in. From teenage entrepreneur to academy founder to product designer, Alicia Kite has spent over three decades reshaping how women think about fashion, confidence, and what they wear. Alicia Kite is our guest in episode 578 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . For everything Alicia Kite including her shapewear and personal fashion consultancy, visit - https://www.aliciakite.co.uk . Follow Alicia Kite on Instagram : @aliciakiteshapewear . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69e0f77ea0cdd3989c45df16/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63645173",
+      "itunes_duration": "53:02",
+      "speakers": [
+        "Alicia Kite"
+      ],
+      "topics": [
+        "alicia",
+        "kite",
+        "fashion",
+        "entrepreneur",
+        "academy",
+        "founder",
+        "designer"
+      ]
+    },
     {
       "key": "2b581692444b85795046fe79bac82af843769ec7",
       "title": "Ep. 577 - Lily Phillips - BBC New Comedy Awards Finalist, Chortle’s “One to Watch”, Leicester Square New Comedian of the Year runner up",
@@ -12366,6 +12390,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — Ep. 578 - Alicia Kite - Fashion entrepreneur, academy founder and shapewear designer — speakers: Alicia Kite
 - 2026-04-12 — Ep. 577 - Lily Phillips - BBC New Comedy Awards Finalist, Chortle’s “One to Watch”, Leicester Square New Comedian of the Year runner up — speakers: Leicester Square New Comedian, Lily Phillips
 - 2026-04-09 — Doug Allan Tribute - A look back at Ep. 314 with the wildlife cameraman, who died this week — speakers: Doug Allan
 - 2026-04-06 — Ep. 576 - Riki Lindhome - Actor, comedian from film Million Dollar Baby and TV Wednesday & Big Bang Theory — speakers: Riki Lindhome, Million Dollar Baby, Big Bang Theory Riki
