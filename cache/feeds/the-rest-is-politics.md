@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-04-17T16:13:53+00:00`
-- checked_at: `2026-04-17T16:13:53+00:00`
-- last_modified: `Fri, 17 Apr 2026 16:00:25 GMT`
+- fetched_at: `2026-04-17T19:21:33+00:00`
+- checked_at: `2026-04-17T19:21:33+00:00`
+- last_modified: `Fri, 17 Apr 2026 17:48:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-17T16:13:53+00:00",
+  "fetched_at": "2026-04-17T19:21:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "ccea18ab55a404849e78783a3ac1cdd15cdd3b23",
+      "title": "523. The Starmer-Mandelson Scandal: Lying or Incompetence?",
+      "published_at": "2026-04-17T16:53:00+00:00",
+      "link": null,
+      "description": "Can Starmer survive if it emerges he was previously told about Mandelson's failed vetting? Is he developing a pattern of blaming others when things go wrong? Will this lead Labour MPs to start questioning their leader ahead of crucial local elections? Join Rory and Alastair as they answer all these questions and more. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at ⁠https://fuseenergy.com/politics⁠ and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/874c6ed8-3a76-11f1-aff0-030828dc0b99/image/66eac4a66ab4afd8261d1fa70dc90697.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4372087644.mp3?updated=1776445229",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1386",
+      "speakers": [
+        "Can Starmer"
+      ],
+      "topics": [
+        "starmer",
+        "mandelson",
+        "scandal",
+        "lying",
+        "incompetence"
+      ]
+    },
     {
       "key": "e3f3008a0e2cab7fba8020b8c4490139df16ea02",
       "title": "Beating Populism: How To Fight Back",
@@ -11613,6 +11635,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-17 — 523. The Starmer-Mandelson Scandal: Lying or Incompetence? — speakers: Can Starmer
 - 2026-04-16 — Beating Populism: How To Fight Back — speakers: Beating Populism
 - 2026-04-15 — 522. Has Hungary Shown Britain How to Beat Farage? (Question Time) — speakers: Beat Farage, Question Time
 - 2026-04-14 — 521. Trump’s Naval Blockade: Is America Becoming a Rogue State?

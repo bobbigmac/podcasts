@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-04-17T13:58:40+00:00`
-- checked_at: `2026-04-17T13:58:40+00:00`
-- etag: `"d28926b6265676d8434b8acab5658b93"`
-- last_modified: `Fri, 17 Apr 2026 13:00:03 GMT`
+- fetched_at: `2026-04-17T19:21:33+00:00`
+- checked_at: `2026-04-17T19:21:33+00:00`
+- etag: `"1a5dea5b82e279f81f3a704ca2b672df"`
+- last_modified: `Fri, 17 Apr 2026 17:06:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-04-17T13:58:40+00:00",
+  "fetched_at": "2026-04-17T19:21:33+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -35,7 +35,7 @@
       "title": "Amy Matthews, Scott Agnew, Athena Kugblenu and David Kay",
       "published_at": "2026-04-17T13:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m002v00x",
-      "description": "Des Clarke hosts Scotland's award-winning satirical news quiz.",
+      "description": "Des and the teams break up the week's big news, including: The first TV debate of the 2026 Holyrood Election, Donald Trump having a war of words with the Pope, an unusual job interview, the Hungarian election and more. Lead Writer: Madeleine Brettingham Additional material: Robbie Taylor-Hunt, Claire Cox, Alan Hazlie, Cooper Mawhinney Sweryt, Ben Moore, Stuart Beale, Alex Buchanan & Mark Granger, Ruaridh Miller, Christopher Stanners, Jon Paisley, Duncan Black Producer: Chris Quilietti Senior Producer: David Flynn Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ndzx46.mp3",
       "enclosure_type": "audio/mpeg",
@@ -45,7 +45,7 @@
         "Amy Matthews",
         "Scott Agnew",
         "Athena Kugblenu",
-        "David Kay",
+        "David Kay Des",
         "Bbc Radio Scotland"
       ],
       "topics": [
@@ -296,7 +296,7 @@
 
 ## Episodes (newest first)
 
-- 2026-04-17 — Amy Matthews, Scott Agnew, Athena Kugblenu and David Kay — speakers: Amy Matthews, Scott Agnew, Athena Kugblenu, David Kay, Bbc Radio Scotland
+- 2026-04-17 — Amy Matthews, Scott Agnew, Athena Kugblenu and David Kay — speakers: Amy Matthews, Scott Agnew, Athena Kugblenu, David Kay Des, Bbc Radio Scotland
 - 2026-04-10 — Amanda Dwyer, Jamie MacDonald, Kim Blythe and Stephen Buchanan — speakers: Amanda Dwyer, Jamie MacDonald, Kim Blythe, Stephen Buchanan Des, Bbc Radio Scotland
 - 2026-04-03 — Chris Forbes, Kemah Bob, Kate Hammer and Stuart McPherson — speakers: Chris Forbes, Kemah Bob, Kate Hammer, Stuart McPherson, Bbc Radio Scotland
 - 2026-03-27 — Glasgow International Comedy Festival Special: Susie McCabe, Aurie Styla, Tiffany Stevenson and Rosco McClelland — speakers: Susie McCabe, Aurie Styla, Rosco McClelland, Bbc Radio Scotland

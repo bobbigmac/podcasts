@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-04-16T19:37:57+00:00`
-- checked_at: `2026-04-16T19:37:57+00:00`
-- etag: `"4ea9c5ff7712c6e445000db0022efe3a"`
-- last_modified: `Thu, 16 Apr 2026 17:59:03 GMT`
+- fetched_at: `2026-04-17T19:21:33+00:00`
+- checked_at: `2026-04-17T19:21:33+00:00`
+- etag: `"a079bfde70ca541dd403e0d6082e29ef"`
+- last_modified: `Fri, 17 Apr 2026 18:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-  "fetched_at": "2026-04-16T19:37:57+00:00",
+  "fetched_at": "2026-04-17T19:21:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "9e83b24141e6c2c9b243dfe58215f38e2e15acfa",
+      "title": "The Naked Week: Ep6. Swearing, Steeplechase, and Strikes.",
+      "published_at": "2026-04-17T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0ncnzyg",
+      "description": "Following Trump's tirade, The Naked Week team bleep the hell out of the bleeping news, swear at a steeplechase, and stage a walk out. From The Skewer’s Jon Holmes and host Andrew Hunter Murray comes The Naked Week; a fresh way of dressing the week’s news in the altogether and parading it around for everyone to laugh at. With award-winning writers and a crack team of contemporary satirists - and recorded in front of a live audience - The Naked Week delivers a topical news-nude straight to your ears. Written by: Jon Holmes Katie Sayer Gareth Ceredig James Kettle Jason Hazeley Additional Material: Karl Minns Jane Fae Molly Punshon Darren Phillips Kevin Smith Investigation team: Cat Neilan Becky Pinnington Guest Correspondent: Katie Norris Production Team: Tony Churnside, Jerry Peal, David Riffkin. Production Coordinator: Molly Punshon Assistant Producer: Katie Sayer Executive Producer: Philip Abrams Produced and Directed by Jon Holmes An unusual production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ncrbvq.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26624000",
+      "itunes_duration": "1664",
+      "speakers": [],
+      "topics": [
+        "naked",
+        "week",
+        "swearing",
+        "steeplechase",
+        "strike"
+      ]
+    },
     {
       "key": "74b67173f31cb0d02a2d1902d0b47233a52be235",
       "title": "The Naked Week: Ep5. Jesus Christ Superstarmer, and Dark Satanic Mills",
@@ -5473,6 +5493,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-17 — The Naked Week: Ep6. Swearing, Steeplechase, and Strikes.
 - 2026-04-10 — The Naked Week: Ep5. Jesus Christ Superstarmer, and Dark Satanic Mills — speakers: Jesus Christ Superstarmer, Dark Satanic Mills
 - 2026-04-03 — The Naked Week: Ep4. Who ya gonna call...? (Clue: It's Donald Trump)
 - 2026-03-27 — The Naked Week: Ep3. Shipping, Shopping, and Shagg...you know what, never mind.
