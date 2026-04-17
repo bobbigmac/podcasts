@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-04-17T03:45:20+00:00`
-- checked_at: `2026-04-17T03:45:20+00:00`
-- etag: `W/"2988a-7mq1BzS1JApjv111ceBDtXJCtzs"`
+- fetched_at: `2026-04-17T08:03:40+00:00`
+- checked_at: `2026-04-17T08:03:40+00:00`
+- etag: `W/"29d52-Za1ueHEY2TzzEYE53lN8kL6io98"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,37 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-04-17T03:45:20+00:00",
+  "fetched_at": "2026-04-17T08:03:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6becf3af2ad73c8085e306916983fee5691476dc",
+      "title": "John's Gig Diaries The Complete Collection - Elis James and John Robins",
+      "published_at": "2026-04-16T18:07:06+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Johns-Gig-Diaries-The-Complete-Collection---Elis-James-and-John-Robins-e3i0rb2",
+      "description": "John's Gig Diaries The Complete Collection",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1776362820638-33ac8b6031c11.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118565666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-16%2F32233901-bc15-7f2a-f060-48198517fc13.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74839292",
+      "itunes_duration": "01:17:56",
+      "speakers": [
+        "John Robins"
+      ],
+      "topics": [
+        "john",
+        "diaries",
+        "complete",
+        "collection",
+        "elis",
+        "james",
+        "robins"
+      ]
+    },
     {
       "key": "be82e0f7de9c806a74b984e5163943fc1bd324c0",
       "title": "Elis' Gig Diaries The Complete Collection - Elis James and John Robins",
@@ -2992,6 +3016,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-16 — John's Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-04-15 — Elis' Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins, Elis James
 - 2026-04-14 — A Robins Amongst The Pigeons The Complete Collection - Elis James and John Robins (Radio X) — speakers: John Robins
 - 2026-04-13 — #2 Winner Plays On The Complete Collection PART 2 - with Elis James and John Robins — speakers: Elis James, John Robins

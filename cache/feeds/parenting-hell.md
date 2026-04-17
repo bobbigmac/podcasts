@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-04-14T03:41:57+00:00`
-- checked_at: `2026-04-14T03:41:57+00:00`
-- last_modified: `Mon, 13 Apr 2026 23:18:02 GMT`
+- fetched_at: `2026-04-17T08:03:40+00:00`
+- checked_at: `2026-04-17T08:03:40+00:00`
+- last_modified: `Fri, 17 Apr 2026 06:03:38 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-14T03:41:57+00:00",
+  "fetched_at": "2026-04-17T08:03:40+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9dd977b332e77b5b51ade1822da69efda0b38446",
+      "title": "S12 EP30: Michelle Wolf",
+      "published_at": "2026-04-17T05:02:00+00:00",
+      "link": null,
+      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) it's the brilliant comedian, writer, producer and presenter - Michelle Wolf Go to punchup.live/michellewolf to find dates and tickets for Michelle's new stand-up show tour 'Best Job in The World' Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4030617369.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3440",
+      "speakers": [
+        "Michelle Wolf",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "michelle",
+        "wolf"
+      ]
+    },
     {
       "key": "cf696949cd046e8fd6db4c84ece71aa1b8e57a71",
       "title": "S12 EP29: Beckett's Crude Retort",
@@ -12206,6 +12227,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-17 — S12 EP30: Michelle Wolf — speakers: Michelle Wolf, Rob Beckett, Josh Widdicombe
 - 2026-04-13 — S12 EP29: Beckett's Crude Retort — speakers: Rob Beckett, Josh Widdicombe
 - 2026-04-10 — S12 EP28: Emma Doran — speakers: Emma Doran, Rob Beckett, Josh Widdicombe
 - 2026-04-06 — S12 EP27: A Couple of Petrolheads — speakers: Rob Beckett, Josh Widdicombe

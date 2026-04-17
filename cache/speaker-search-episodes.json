@@ -8071,6 +8071,28 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:8bc61d154ae8",
+        "feed_title": "Dish",
+        "source_rss_url": "https://feeds.megaphone.fm/dish",
+        "dedupe_key": "bb9b5236046238894a036697da5fcc6caf0f89d4",
+        "episode_key": "bb9b5236046238894a036697da5fcc6caf0f89d4",
+        "title": "Harriet Kemsley tucks into a dish of golden aubergine, broccoli and honey baked feta",
+        "published_at": "2026-04-08T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We bring all the flavours for this brilliant comedian. \n\nHarriet Kemsley is an English stand-up comic, writer and actress. You’ll know her from appearances on shows including Live At The Apollo, 8 Out Of 10 Cats, Hypothetical and Last One Laughing. She also hosts a podcast with Amy Gledhill, Single Ladies In Your Area,",
+        "audio_url": "https://pdst.fm/e/chtbl.com/track/43774/traffic.megaphone.fm/CGPL3688881154.mp3?updated=1775572847",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harriet-kemsley-tucks-into-a-dish-of-golden/id1626354833?i=1000760147576&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:54d7379a1dd7",
         "feed_title": "Sara & Cariad's Weirdos Book Club",
         "source_rss_url": "https://feeds.acast.com/public/shows/64b69e3ec409730011da06ee",
@@ -8957,6 +8979,28 @@
       }
     ],
     "richard-herring": [
+      {
+        "feed_slug": "external:apple:96594d663a6c",
+        "feed_title": "RHLSTP with Richard Herring",
+        "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
+        "dedupe_key": "6df508d01d82e4965503b65b82ddecdf0233b4c1",
+        "episode_key": "6df508d01d82e4965503b65b82ddecdf0233b4c1",
+        "title": "RAACN week 11",
+        "published_at": "2026-04-11T11:07:43Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tuesday April 7th 2026 - King of the Farts - Rich and Ally are back on Rich’s 14th Wedding Anniversary to finally determine whether men or women have the worst smelling flatus. Yes, it’s as bad as it sounds. If you need to get up to speed on Baggy Pants and the Nitwits head here https://www.youtube.com/watch?v=RmZj7m_u",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69da2b8197d78f9e2baf4d47/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/raacn-week-11/id520831548?i=1000760810406&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:0ca1d54dc195",
         "feed_title": "White Wine Question Time",
@@ -16171,6 +16215,28 @@
     ],
     "lou-sanders": [
       {
+        "feed_slug": "external:apple:cef152158840",
+        "feed_title": "Single Ladies In Your Area",
+        "source_rss_url": "https://feeds.acast.com/public/shows/66d6edc291ae4d209b1d4826",
+        "dedupe_key": "537e94e1445caac93d5d2c6220f2dfe8a5d4bdce",
+        "episode_key": "537e94e1445caac93d5d2c6220f2dfe8a5d4bdce",
+        "title": "Dream dates and weirdest one night stands with Lou Sanders (Live at Underbelly Boulevard Soho)",
+        "published_at": "2026-04-17T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week’s episode of Single Ladies is a special LIVE recording of the podcast, coming to you from Underbelly Boulevard Soho. Harriet is joined by special guest host Loulie Sanders, and they ask the audience for their weirdest one night stand stories and what they would change on the dating apps.\nYou can buy Lou's inc",
+        "audio_url": "https://sphinx.acast.com/p/open/s/66d6edc291ae4d209b1d4826/e/69d6b82334b90cef2baedc3e/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dream-dates-and-weirdest-one-night-stands-with-lou/id1769371068?i=1000761925438&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:bdacba4ea278",
         "feed_title": "Spent",
         "source_rss_url": "https://feeds.acast.com/public/shows/68ff802ee0f934b5d11222a2",
@@ -16451,6 +16517,28 @@
         "description": "Comedian Lou Sanders and her best mate from down the road, Georgie Bayford, are atingle to announce the launch of their new podcast, A PSYCHIC TOLD US TO DO IT. Broadcasting from Lou's sauna, (except NHS advice says we can't just yet as Georgie is recovering from a big op!)\nExpect discussions on gym perverts, witches v",
         "audio_url": "https://sphinx.acast.com/p/open/s/67ac877eb468a1d76ff3e12d/e/6813f0c59704d99f84d2b704/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/head-in-a-bush-mega-fun-feline-protest-poo/id1795911180?i=1000705771873&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:de5cfd8ddc30",
+        "feed_title": "A Psychic Told Us To Do It",
+        "source_rss_url": "https://feeds.acast.com/public/shows/67ac877eb468a1d76ff3e12d",
+        "dedupe_key": "6e97ad121e43c966f886051f820a7a7d23b31019",
+        "episode_key": "6e97ad121e43c966f886051f820a7a7d23b31019",
+        "title": "CUSPY BITCHES, ASTRO CHARTS & GEORGIE LOSES HER VOICE",
+        "published_at": "2025-04-24T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian Lou Sanders and her best mate from down the road, Georgie Bayford, are atingle to announce the launch of their new podcast, A PSYCHIC TOLD US TO DO IT. Broadcasting from Lou's sauna, (except NHS advice says we can't just yet as Georgie is recovering from a big op!)\nExpect discussions on gym perverts, witches v",
+        "audio_url": "https://sphinx.acast.com/p/open/s/67ac877eb468a1d76ff3e12d/e/680aad67de47823c8010a1ed/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/cuspy-bitches-astro-charts-georgie-loses-her-voice/id1795911180?i=1000704816965&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -17056,6 +17144,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "3fab15b8545db207c6d04585317a46cf9d60ea55",
+        "episode_key": "3fab15b8545db207c6d04585317a46cf9d60ea55",
+        "title": "#294 - Derbyshire Disrespect, Fruity Boy & Veg Head and Vibing On Ice",
+        "published_at": "2023-10-20T15:35:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "John - similar to a comedy version of The Rolling Stones - just doesn't want to stop touring, meaning that for the second week on the bounce he wasn't around for the show. So, with an empty seat next to Elis we needed someone who'd be able to carry the show with a sense of responsibility... a sense of hubris... dare we",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Am001rhwm/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/294-derbyshire-disrespect-fruity-boy-veg-head-and/id1465290044?i=1000632029574&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:5dc1b693c271",
         "feed_title": "No Such Thing As A Fish",
         "source_rss_url": "https://audioboom.com/channels/2399216.rss",
@@ -17453,6 +17563,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "9f4e12bf1440f9f03fd6bb2bd3a90b039212c429",
+        "episode_key": "9f4e12bf1440f9f03fd6bb2bd3a90b039212c429",
+        "title": "#214 - Tawdry Tents, Lost Lou and Duped John",
+        "published_at": "2022-06-03T17:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "With Elis being away from the show this week it was down to the ever dependable super-sub Lou Sanders to step in and fill the content void left in his place (think of her as radio’s own Ole Gunnar Solskjær). With a fully rehearsed show opener and a fist full of anecdotes she slotted right in alongside Johnny JR - and e",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Am0017s5j/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/214-tawdry-tents-lost-lou-and-duped-john/id1465290044?i=1000565144881&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
@@ -17768,6 +17900,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "a09c014887e25e4b4324cbcdabe0fc7d5ad1a298",
+        "episode_key": "a09c014887e25e4b4324cbcdabe0fc7d5ad1a298",
+        "title": "#173 - Al Cook, Too Much Water and John's Small Holiday",
+        "published_at": "2021-08-27T15:35:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "With Elis sunning himself in tropical Bedfordshire, John was joined by friend of the show Lou Sanders! Amongst the fun, they played a fantastic grape-based Made Up Game suggested by 9-year-old Rosa, the tables turned on a regular feature as Ask John became Ask Lou, and we learned that John isn't the only sex symbol to ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Am000z0z3/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/173-al-cook-too-much-water-and-johns-small-holiday/id1465290044?i=1000533321571&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
@@ -17979,6 +18133,28 @@
         "description": "Are cats real people? Is the phrase 'turtle head' rude? All questions that will be answered on this week's podcast! Plus - Lou Sanders becomes an Agony Aunt for our listeners. You can get all the information about her tour at www.lousanders.com\n\nThanks for downloading the podcast – remember, you can be an Early Worm an",
         "audio_url": "https://dax.captivate.fm/d1c68a15-1385-4e46-b8a9-a1346685cb01/774e78c9-3eea-42ee-83e3-8cdbaa5444cd.mp3?aw_0_1st.showid=271ada40-4f74-48dc-8db5-08c3d4d8378e&aw_0_1st.episodeid=f5a5e955-08ed-4273-8f70-3db906a2b047",
         "link_url": "https://podcasts.apple.com/gb/podcast/episode-22-kill-cats-woah-woah/id1467168361?i=1000455128745&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "85308f0ca66d3f60e8e2e9e82f81e403691ff993",
+        "episode_key": "85308f0ca66d3f60e8e2e9e82f81e403691ff993",
+        "title": "#13 - Live From Edinburgh with Lou Sanders, Ivo Graham and Sunil Patel",
+        "published_at": "2019-08-23T16:36:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It’s the fourth and final week at the Edinburgh Festival for Elis James and John Robins, and they’re going out with a guest-filled bang! Lou Sanders, Ivo Graham and Sunil Patel create an anarchic 'last day at school' vibe, whilst the boys also ask 'When did you get it wrong with your hero'. It’s a busy one, so please d",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/urn%3Abbc%3Apodcast%3Am0007s5v/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/13-live-from-edinburgh-with-lou-sanders-ivo-graham/id1465290044?i=1000447635584&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

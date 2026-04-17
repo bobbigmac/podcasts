@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-04-16T10:41:13+00:00`
-- checked_at: `2026-04-16T10:41:13+00:00`
-- last_modified: `Thu, 16 Apr 2026 09:03:48 GMT`
+- fetched_at: `2026-04-17T08:03:40+00:00`
+- checked_at: `2026-04-17T08:03:40+00:00`
+- last_modified: `Fri, 17 Apr 2026 04:11:51 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-16T10:41:13+00:00",
+  "fetched_at": "2026-04-17T08:03:40+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,35 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d8ede2a27fc4481df0dedd4347df57745632dfb1",
+      "title": "Grown Up Tears in Build-A-Bear, A Knicker Drawer Clear Out and Chris Joins The Litter Police",
+      "published_at": "2026-04-17T04:08:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed, Chris and Rosie Ramsey discuss easter money, the reverse of toxic masculinity and why Chris is retiring from cooking! Chris explains why he has been tearing up and what led to a face off with a teenager whilst Rosie has some opinions to share about the TV Show, Summer House and she's been busy with an underwear clear out. All of this plus a listener reveals her husbands egg habit and an Auzzie gets in touch to share his beef with Chris! If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Today, get Huel’s full Lite & Lean Starter Kit online with our code SMA30 for 30% off at https://huel.com/SMA30. New Customers Only. Thank you to Huel for partnering and supporting our show! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6915214458.mp3?updated=1776285882",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3534",
+      "speakers": [
+        "Chris Joins",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "tear",
+        "build",
+        "bear",
+        "knicker",
+        "drawer",
+        "clear",
+        "chris",
+        "joins",
+        "litter",
+        "police"
+      ]
+    },
     {
       "key": "a53eb9b6baa0e45065fddfb21674cd0055efaca4",
       "title": "Please Keep Me Anonymous with Suzi Ruffell",
@@ -8142,6 +8171,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-17 — Grown Up Tears in Build-A-Bear, A Knicker Drawer Clear Out and Chris Joins The Litter Police — speakers: Chris Joins, Rosie Ramsey, Chris Ramsey
 - 2026-04-15 — Please Keep Me Anonymous with Suzi Ruffell — speakers: Suzi Ruffell, Chris Ramsey, Rosie Ramsey
 - 2026-04-10 — A New Alliance, Real Life Dominatrix and the Last Bus Home — speakers: Rosie Ramsey, Chris Ramsey
 - 2026-04-08 — Please Keep Me Anonymous with Joanna Page — speakers: Joanna Page, Rosie Ramsey, Chris Ramsey

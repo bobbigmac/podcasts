@@ -2,9 +2,9 @@
 
 - slug: `a-woodturners-journey`
 - source: `https://feeds.acast.com/public/shows/65a70f72224eec0017895999`
-- fetched_at: `2026-04-14T16:20:11+00:00`
-- checked_at: `2026-04-14T16:20:11+00:00`
-- etag: `"djEuMi4wOjE3NzYxNzg0OTA4NDY="`
+- fetched_at: `2026-04-17T08:03:40+00:00`
+- checked_at: `2026-04-17T08:03:40+00:00`
+- etag: `"djEuMi4wOjE3NzY0MDkyMzk1NzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/a-woodturners-journey",
   "description": "At A Woodturners Journey, we strive to explore woodturning from all different perspectives. Markus and Chris are both obsessed with creating things on their lathe as well as finding areas to improve their efficiencies and style. Their goal is to stay up to date with the newest things going on around the world of woodturning. They also love to interview fellow woodturners and find out about their journey so far. Woodturning is a wonderful rabbit hole and one we never see ourselves finding the bottom of. Join us in our journey. If you have any comments, questions or feedback please send us an email AWoodturnersJourney@gmail.com or find us on Instagram @AWoodturnersJourney Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
-  "fetched_at": "2026-04-14T16:20:11+00:00",
+  "fetched_at": "2026-04-17T08:03:40+00:00",
   "owners": [
     "Chris Jacobsen"
   ],
@@ -26,6 +26,22 @@
     "hobbies"
   ],
   "episodes": [
+    {
+      "key": "4ddf709186772e4ca7771d5b7cd3fcda5201c421",
+      "title": "Ep. 36 - Moving Day",
+      "published_at": "2026-04-17T07:00:00+00:00",
+      "link": "http://www.instagram.com/awoodturnersjourney",
+      "description": "Enjoy episode 36. We get together in person in Chris’ basement to have an in-person discussion of Markus’ class experience with the Seattle Woodturners and Kevin Jesequel. We also talk about a few other random things and I am pretty sure no one reads these… Apple Podcast: https://podcasts.apple.com/us/podcast/a-woodturners-journey/id1727042194 Spotify: https://open.spotify.com/show/6a8YdbJZfBt4NVqcQTI0UT?si=4DUOBk6ZStWe4O4sUFk7Rg RSS: https://feeds.acast.com/public/shows/65a70f72224eec0017895999 Please email us at: AWoodturnersJourney@gmail.com Follow us on Instagram at: www.instagram.com/awoodturnersjourney Chris - www.instagram.com/hiramwoodworking & www.instagram.com/whatwoodyouturn Markus - www.instagram.com/redchairwoodworks Please subscribe, listen to the episode, and let us know what you think with a comment or a 5-star review. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65a70f72224eec0017895999/e/69de553a8424efe84cccfbe4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100631233",
+      "itunes_duration": "52:11",
+      "speakers": [
+        "Chris Jacobsen"
+      ],
+      "topics": []
+    },
     {
       "key": "f5014cc46575bd851a94fd866e6aa9eb3ac48aa7",
       "title": "Ep 35 - Back to Oregon",
@@ -709,6 +725,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-17 — Ep. 36 - Moving Day — speakers: Chris Jacobsen
 - 2026-04-03 — Ep 35 - Back to Oregon — speakers: Carl Jacobson, Chris Jacobsen
 - 2026-03-20 — Ep 34 - Going to California — speakers: Mike Mahoney, Chris Jacobsen
 - 2026-03-06 — Ep. 33 - Minnesota — speakers: Chris Jacobsen
