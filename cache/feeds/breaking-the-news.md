@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-04-10T13:49:49+00:00`
-- checked_at: `2026-04-10T13:49:49+00:00`
-- etag: `"3477829cc1da328f986e4f1b9006b715"`
-- last_modified: `Fri, 10 Apr 2026 13:00:04 GMT`
+- fetched_at: `2026-04-17T13:58:40+00:00`
+- checked_at: `2026-04-17T13:58:40+00:00`
+- etag: `"d28926b6265676d8434b8acab5658b93"`
+- last_modified: `Fri, 17 Apr 2026 13:00:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-04-10T13:49:49+00:00",
+  "fetched_at": "2026-04-17T13:58:40+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -30,6 +30,33 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "00736b847a4f0c699a372d4a6f5736919f654c2b",
+      "title": "Amy Matthews, Scott Agnew, Athena Kugblenu and David Kay",
+      "published_at": "2026-04-17T13:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002v00x",
+      "description": "Des Clarke hosts Scotland's award-winning satirical news quiz.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ndzx46.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Amy Matthews",
+        "Scott Agnew",
+        "Athena Kugblenu",
+        "David Kay",
+        "Bbc Radio Scotland"
+      ],
+      "topics": [
+        "matthews",
+        "scott",
+        "agnew",
+        "athena",
+        "kugblenu",
+        "david"
+      ]
+    },
     {
       "key": "26fc62256e26a4a86bdff6262a7aa5e6cded1507",
       "title": "Amanda Dwyer, Jamie MacDonald, Kim Blythe and Stephen Buchanan",
@@ -269,6 +296,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-17 — Amy Matthews, Scott Agnew, Athena Kugblenu and David Kay — speakers: Amy Matthews, Scott Agnew, Athena Kugblenu, David Kay, Bbc Radio Scotland
 - 2026-04-10 — Amanda Dwyer, Jamie MacDonald, Kim Blythe and Stephen Buchanan — speakers: Amanda Dwyer, Jamie MacDonald, Kim Blythe, Stephen Buchanan Des, Bbc Radio Scotland
 - 2026-04-03 — Chris Forbes, Kemah Bob, Kate Hammer and Stuart McPherson — speakers: Chris Forbes, Kemah Bob, Kate Hammer, Stuart McPherson, Bbc Radio Scotland
 - 2026-03-27 — Glasgow International Comedy Festival Special: Susie McCabe, Aurie Styla, Tiffany Stevenson and Rosco McClelland — speakers: Susie McCabe, Aurie Styla, Rosco McClelland, Bbc Radio Scotland

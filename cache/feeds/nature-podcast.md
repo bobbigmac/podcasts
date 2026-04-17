@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-04-15T16:14:57+00:00`
-- checked_at: `2026-04-15T16:14:57+00:00`
-- etag: `"djEuMi4wOjE3NzYyNjgzNDkyMTQ="`
+- fetched_at: `2026-04-17T13:58:40+00:00`
+- checked_at: `2026-04-17T13:58:40+00:00`
+- etag: `"djEuMi4wOjE3NzY0MzMxNjk3MjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-04-15T16:14:57+00:00",
+  "fetched_at": "2026-04-17T13:58:40+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "ad3ea824deb81b1837b616841adb6f8e1c66a0c9",
+      "title": "Briefing Chat: Penguins pick up PFAS pollution",
+      "published_at": "2026-04-17T13:36:51+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01263-8",
+      "description": "In this episode: 00:30 The penguins measuring environmental PFAS Science: Penguins become marine detectives, thanks to pollutant-detecting anklets 05:14 Treating autoimmune diseases with CAR-T Nature: One woman, three autoimmune diseases: CAR-T therapy vanquishes ultra-rare disease trio 10:34 Why an anglerfish’s lure might have two uses Science: Why do anglerfish have glowing lures? It might be sex Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1776433158630-34143c01-425c-48cc-9129-d826f1366dc1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69e23773abe143da5b3d168b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14438496",
+      "itunes_duration": "15:01",
+      "speakers": [
+        "Briefing Chat",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "chat",
+        "penguin",
+        "pfas",
+        "pollution"
+      ]
+    },
     {
       "key": "57dd0fd84390b2231bb5e8297cf26a583fa62921",
       "title": "Giant cancer study reveals effectiveness of 'off label' treatments",
@@ -19450,6 +19473,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-17 — Briefing Chat: Penguins pick up PFAS pollution — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
 - 2026-04-15 — Giant cancer study reveals effectiveness of 'off label' treatments — speakers: Benjamin Thompson, Noah Baker
 - 2026-04-10 — Behind the scenes with Artemis II’s scientists during the historic Moon fly-by — speakers: Alexandra Witze, Benjamin Thompson, Noah Baker
 - 2026-04-08 — Briefing Chat: The tongue trick that helps sunbirds suck — speakers: Benjamin Thompson, Noah Baker
