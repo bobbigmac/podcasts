@@ -19473,6 +19473,28 @@
         "feed_slug": "external:apple:dea4c429bee5",
         "feed_title": "Across the Stew-niverse: A podcast about Stewart Lee",
         "source_rss_url": "https://feeds.zencastr.com/f/CZJyM4rZ.rss",
+        "dedupe_key": "7feae4323d8bff85580bf71968a3caceeae6ed6a",
+        "episode_key": "7feae4323d8bff85580bf71968a3caceeae6ed6a",
+        "title": "Stewin' the Fat 2: With Dave Cohen",
+        "published_at": "2024-05-18T15:37:48Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Dan caught up with bona fide COMEDY GENIUS Dave Cohen (Horrible Histories, HIGNFY, Spitting Image, loads of other stuff) to Stew the Fat (yes we will continuously repeat these tedious puns) about his days as a stand up in the erly days of Alternative Comedy, establishing the now world famous Comedy Store players (with,",
+        "audio_url": "https://redirect.zencastr.com/r/episode/6648cb4c51101892bacf877a/size/171230464/audio-files/6557720c984c29d90a56b31b/d048bce0-a4e6-49f7-ba45-1547c348ef37.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewin-the-fat-2-with-dave-cohen/id1739123296?i=1000656006019&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:dea4c429bee5",
+        "feed_title": "Across the Stew-niverse: A podcast about Stewart Lee",
+        "source_rss_url": "https://feeds.zencastr.com/f/CZJyM4rZ.rss",
         "dedupe_key": "0aee46f14f755da1c0eadbf069acc97eadef1fb4",
         "episode_key": "0aee46f14f755da1c0eadbf069acc97eadef1fb4",
         "title": "Episode 6: Comedy Vehicle #1.3 - Political Correctness (2009)",

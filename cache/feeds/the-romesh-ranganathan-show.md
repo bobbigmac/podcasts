@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-04-16T08:02:28+00:00`
-- checked_at: `2026-04-16T08:02:28+00:00`
-- last_modified: `Thu, 16 Apr 2026 07:30:13 GMT`
+- fetched_at: `2026-04-17T16:13:53+00:00`
+- checked_at: `2026-04-17T16:13:53+00:00`
+- last_modified: `Fri, 17 Apr 2026 14:00:46 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-16T08:02:28+00:00",
+  "fetched_at": "2026-04-17T16:13:53+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -100,9 +100,9 @@
       "title": "James McAvoy: Acting, X-Men & Directing His First Film",
       "published_at": "2026-04-05T23:01:00+00:00",
       "link": null,
-      "description": "How did James McAvoy become one of the most versatile actors in Hollywood? Actor and director James McAvoy joins Romesh Ranganathan for a very special episode talking about acting, accents and the difference from Hollywood to home. James talks about accidentally getting into acting, why his philosophy is always “story first” and how he approaches building characters. Plus his skill at mastering accents, training as a pastry chef, bad reviews and being a part of the X‑Men family. We also discuss James' new film and his directorial debut, California Scheming. And as always, a question from Shanthi. A Ranga Bee Production in partnership with Platform. 00:00 Intro 00:20 James joke and the stereotype of podcasts 04:15 James and Rom discuss Jordan Peterson 07:32 A gift for James 09:07 A moment for some Monster Munch 10:22 Early beginnings and getting into acting 18:20 Training as a pastry chef & Bake Off 20:12 Accents, agents and acting 29:28 Crying and vomiting on request 31:20 James and his agent Ruth 32:56 Romesh’s dad’s brutal honesty 34:24 The X-Men Films 38:18 James and Romesh on bad reviews 45:30 Future work and legacy 48:01 A question from Shanthi 49:72 California Scheming 01:03:19 Misquoted 01:10:28 On getting older 01:13:22 Meantime and Frankie Boyle 01:14:24 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "How did James McAvoy become one of the most versatile actors in Hollywood? Actor and director James McAvoy joins Romesh Ranganathan for a very special episode talking about acting, accents and the difference from Hollywood to home. James talks about accidentally getting into acting, why his philosophy is always “story first” and how he approaches building characters. Plus his skill at mastering accents, training as a pastry chef, bad reviews and being a part of the X‑Men family. We also discuss James' new film and his directorial debut, California Schemin'. And as always, a question from Shanthi. A Ranga Bee Production in partnership with Platform. 00:00 Intro 00:20 James joke and the stereotype of podcasts 04:15 James and Rom discuss Jordan Peterson 07:32 A gift for James 09:07 A moment for some Monster Munch 10:22 Early beginnings and getting into acting 18:20 Training as a pastry chef & Bake Off 20:12 Accents, agents and acting 29:28 Crying and vomiting on request 31:20 James and his agent Ruth 32:56 Romesh’s dad’s brutal honesty 34:24 The X-Men Films 38:18 James and Romesh on bad reviews 45:30 Future work and legacy 48:01 A question from Shanthi 49:72 California Scheming 01:03:19 Misquoted 01:10:28 On getting older 01:13:22 Meantime and Frankie Boyle 01:14:24 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/8abcae96-30dc-11f1-9b39-5324fbfeccec/image/53b0dc68f38fddeb88cc3aca8a9e76d7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4372827882.mp3?updated=1775426191",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4372827882.mp3?updated=1776434738",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4677",

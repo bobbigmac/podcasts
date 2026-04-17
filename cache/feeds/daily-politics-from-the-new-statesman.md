@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-17T13:58:40+00:00`
-- checked_at: `2026-04-17T13:58:40+00:00`
-- etag: `"djEuMi4wOjE3NzY0MjY5OTA5NjU="`
+- fetched_at: `2026-04-17T16:13:53+00:00`
+- checked_at: `2026-04-17T16:13:53+00:00`
+- etag: `"djEuMi4wOjE3NzY0MzY5MzQ1ODI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-17T13:58:40+00:00",
+  "fetched_at": "2026-04-17T16:13:53+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
