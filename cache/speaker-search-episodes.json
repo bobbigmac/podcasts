@@ -20993,6 +20993,29 @@
         ],
         "topics": [],
         "external": true
+      },
+      {
+        "feed_slug": "external:apple:7b87114c8dbc",
+        "feed_title": "When Life Needs a Punchline - Free Audiobook, Your Hilarious Escape",
+        "source_rss_url": "https://hotaudiobook.com/tune/user/4031/index.xml",
+        "dedupe_key": "8a13b9755fe897ae3c894224291217ed78fa821a",
+        "episode_key": "8a13b9755fe897ae3c894224291217ed78fa821a",
+        "title": "Dave Gorman Genius: Series 1 - Dave Gorman",
+        "published_at": "2007-09-03T09:03:42Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to the full audiobook free with a 30-day free trial : https://esound.space/full Title: Dave Gorman Genius: Series 1Author: Dave GormanNarrator: Dave Gorman, GuestsFormat: UnabridgedLength: 2:21:09Language: EnglishRelease date: 09-03-2007Publisher: Penguin Books LTDGenres: General ComedySummary:In a quest to unea",
+        "audio_url": "https://audiobookzap.com/audio/354866.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-genius-series-1-dave-gorman/id1842650428?i=1000759790275&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee",
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
       }
     ],
     "lee-mack": [
@@ -22091,6 +22114,28 @@
         "description": "Kirsty Young interviews the comedian Lee Mack.\nHe writes and stars in the BBC One hit show \"Not Going Out\". His stand-up tours do great business and his lightening sharp comedy reflexes are also put to good use on a number of prime-time panel shows.\nHis first ever performance was doing impressions for his school mates,",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02pnyhj.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/lee-mack/id342735925?i=1000168682915&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:4f3e2b3d37e1",
+        "feed_title": "Amnesty's Secret Comedy Podcast",
+        "source_rss_url": "http://www.amnesty.org.uk/podcasts/secretcomedypodcast/secretcomedy.xml",
+        "dedupe_key": "b7f4047e007ff46e9cfb48f1d6550045d1f1c1ea",
+        "episode_key": "b7f4047e007ff46e9cfb48f1d6550045d1f1c1ea",
+        "title": "Secret Comedy Podcast 2013 #15 - Tanyalee Davis, Lee Mack, Paul Foot + more",
+        "published_at": "2013-08-30T12:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In the last of our Secret Comedy Podcasts recorded live at this year's Edinburgh Festival we have extra bits that we just couldn't squeeze into the other shows, including stand up from Tanyalee Davis, Paul Foot and David Morgan. Plus we chat to Lee Mack about his first ride and Tim Fitzhigham tells Mark Dolan about sai",
+        "audio_url": "http://www.podtrac.com/pts/redirect.mp3/www.amnesty.org.uk/podcasts/secretcomedypodcast/secretcomedy13-15.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/secret-comedy-podcast-2013-15-tanyalee-davis-lee-mack/id550151597?i=1000165050358&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -29461,6 +29506,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:07e86b28599a",
+        "feed_title": "Listen to Mine of Full Audiobooks in Non-Fiction, Education",
+        "source_rss_url": "https://hotaudiobook.com/tune/user/4194/index.xml",
+        "dedupe_key": "6a43ba5b56dc559a42e016a3e9d79ac0c40e2450",
+        "episode_key": "6a43ba5b56dc559a42e016a3e9d79ac0c40e2450",
+        "title": "Dave Gorman's Pub Olympics - Dave Gorman",
+        "published_at": "2012-07-02T18:11:42Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to the full audiobook free with a 30-day free trial : https://esound.space/full Title: Dave Gorman's Pub OlympicsAuthor: Dave GormanNarrator: Dave Gorman, GuestsFormat: UnabridgedLength: 0:27:49Language: EnglishRelease date: 07-02-2012Publisher: Penguin Books LTDGenres: Non-Fiction, Art & MusicSummary:Dave Gorma",
+        "audio_url": "https://audiobookzap.com/audio/383791.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gormans-pub-olympics-dave-gorman/id1844779109?i=1000730758513&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:9033b45d1f08",
         "feed_title": "How to Download Free Audiobook in Radio & TV, Entertainment",
         "source_rss_url": "https://epod.space/tone/id/2726/index.xml",
@@ -29738,6 +29805,29 @@
         "feed_image_url": null,
         "description": "Listen to the full audiobook free with a 30-day free trial : https://esound.space/full Title: Dave Gorman Genius: Series 1Author: Dave GormanNarrator: Dave Gorman, GuestsFormat: UnabridgedLength: 2:21:09Language: EnglishRelease date: 09-03-2007Publisher: Penguin Books LTDGenres: General ComedySummary:In a quest to unea",
         "audio_url": "https://storage.googleapis.com/book/audio/354866.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-genius-series-1-dave-gorman/id1842650428?i=1000759790275&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee",
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:7b87114c8dbc",
+        "feed_title": "When Life Needs a Punchline - Free Audiobook, Your Hilarious Escape",
+        "source_rss_url": "https://hotaudiobook.com/tune/user/4031/index.xml",
+        "dedupe_key": "8a13b9755fe897ae3c894224291217ed78fa821a",
+        "episode_key": "8a13b9755fe897ae3c894224291217ed78fa821a",
+        "title": "Dave Gorman Genius: Series 1 - Dave Gorman",
+        "published_at": "2007-09-03T09:03:42Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to the full audiobook free with a 30-day free trial : https://esound.space/full Title: Dave Gorman Genius: Series 1Author: Dave GormanNarrator: Dave Gorman, GuestsFormat: UnabridgedLength: 2:21:09Language: EnglishRelease date: 09-03-2007Publisher: Penguin Books LTDGenres: General ComedySummary:In a quest to unea",
+        "audio_url": "https://audiobookzap.com/audio/354866.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-genius-series-1-dave-gorman/id1842650428?i=1000759790275&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
@@ -30220,6 +30310,28 @@
     ],
     "david-mitchell": [
       {
+        "feed_slug": "external:apple:a148332efdc1",
+        "feed_title": "The Moment with Miles Jupp",
+        "source_rss_url": "https://anchor.fm/s/10a505c0c/podcast/rss",
+        "dedupe_key": "3aca7295b6afd6d94276a4d7b995d17c23193b4e",
+        "episode_key": "3aca7295b6afd6d94276a4d7b995d17c23193b4e",
+        "title": "S3 Episode 4 without David Mitchell",
+        "published_at": "2026-04-10T04:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Miles Jupp takes a moment to reflect on the events of the past seven days - the headlines, the absurdities, and the things that probably shouldn’t have happened at all.\n\nIn this episode, Miles is not joined by David Mitchell , who was unfortunately unavailable.\n\nFollow on IG: @Milesjuppoffically @themomentwithmilesjupp",
+        "audio_url": "https://traffic.megaphone.fm/APO2376014424.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s3-episode-4-without-david-mitchell/id1845363363?i=1000760603062&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:63a811a89de9",
         "feed_title": "In Your Spare Time: From the Blog of Ursula K. Le Guin",
         "source_rss_url": "https://feeds.libsyn.com/608015/rss",
@@ -30574,6 +30686,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:867ff7a6ae51",
+        "feed_title": "Human Stories, Machine Dreams",
+        "source_rss_url": "https://anchor.fm/s/fbe94264/podcast/rss",
+        "dedupe_key": "81cb676e115da0b32ac05f47bfd7664f452cc898",
+        "episode_key": "81cb676e115da0b32ac05f47bfd7664f452cc898",
+        "title": "Cloud Atlas - David Mitchell",
+        "published_at": "2024-10-26T17:30:06Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Cloud Atlas by David Mitchell is a genre-blending novel that weaves together six interconnected stories spanning different time periods, from the 19th century to a distant, dystopian future. Each narrative is nested within the others, creating a complex structure that explores themes of power, oppression, reincarnation",
+        "audio_url": "https://anchor.fm/s/fbe94264/podcast/play/93572633/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-26%2F388759457-44100-2-50bfd9ecf9a47.m4a",
+        "link_url": "https://podcasts.apple.com/gb/podcast/cloud-atlas-david-mitchell/id1795506384?i=1000690891915&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3a927652aa24",
         "feed_title": "Reel Talk with Honey & Jonathan Ross",
         "source_rss_url": "https://feeds.captivate.fm/reel-talk-honey-jonathan-ross",
@@ -30763,6 +30897,28 @@
         "description": "In the first episode of a new series, Greg Jenner is joined by Dr Julia Leikin and comedian David Mitchell to learn all about the life of Catherine II of Russia, better known as Catherine the Great. Catherine’s story is full of contradictions and ambiguities. She was a German princess who became empress of all Russia, ",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0h15gby.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/catherine-the-great/id1479973402?i=1000639453333&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:7066989f6b1d",
+        "feed_title": "Adult Book Club",
+        "source_rss_url": "https://anchor.fm/s/5b83a044/podcast/rss",
+        "dedupe_key": "08bcba4181e70cb92e8eab66f7ae02d971aefc36",
+        "episode_key": "08bcba4181e70cb92e8eab66f7ae02d971aefc36",
+        "title": "Episode 63: The Thousand Autumns of Jacob de Zoet by David Mitchell",
+        "published_at": "2023-12-24T15:44:20Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome to the 63rd Episode of the ABC Pod the Adult Book Club where we drink and we read things. This episode features The Thousand Autumns of Jacob de Zoet by David Mitchell. Discussion of the book starts at the 15th minute. Spoilers are between the 1- and 2-hour marks. Like the book, we spend a lot of time pre-spoil",
+        "audio_url": "https://anchor.fm/s/5b83a044/podcast/play/80416097/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-24%2F12e79a03-a72c-ddbc-0428-0377969ff794.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-63-the-thousand-autumns-of-jacob-de-zoet/id1568017846?i=1000639593402&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -31765,6 +31921,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:c5df4fff71a7",
+        "feed_title": "Loose Ends",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/b006qjym.rss",
+        "dedupe_key": "1fddc84774db6e736827c76255e22ff44efefa36",
+        "episode_key": "1fddc84774db6e736827c76255e22ff44efefa36",
+        "title": "David Mitchell, Donovan, Maureen Lipman, Gillian Burke, Tankus The Henge, Arthur Smith, Clive Anderson",
+        "published_at": "2018-12-22T19:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Clive Anderson and Arthur Smith are joined by Donovan, David Mitchell, Maureen Lipman and Gillian Burke for an eclectic mix of conversation, music and comedy. With music from Donovan and Tankus The Henge.\nProducer: Tim Bano",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p06w31g7.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-donovan-maureen-lipman-gillian-burke/id1163219363?i=1000426341280&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:0819254cddd4",
         "feed_title": "Read On - The Audiobook Show from RNIB",
         "source_rss_url": "https://audioboom.com/channels/4899091.rss",
@@ -31941,6 +32119,50 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:f49a23c4531f",
+        "feed_title": "Southbank Centre",
+        "source_rss_url": "https://feeds.captivate.fm/southbank-centre",
+        "dedupe_key": "691de51bb57ee1216d61705161e07144ada24542",
+        "episode_key": "691de51bb57ee1216d61705161e07144ada24542",
+        "title": "Kazuo Ishiguro with David Mitchell",
+        "published_at": "2016-03-18T20:12:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Two world-renowned authors: Nobel prize winning Kazuo Ishiguro and novelist, David Mitchell appear together for the first time in an intimate exploration of the writing process.",
+        "audio_url": "https://podcasts.captivate.fm/media/54480bd2-4312-4ad1-b8b3-7d802badd634/252829744-southbankcentre-kazuo-ishiguro-and-david-mitchell-con.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/kazuo-ishiguro-with-david-mitchell/id1271294378?i=1000393252771&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1b5de0c867ae",
+        "feed_title": "This Writing Life",
+        "source_rss_url": "https://thiswritinglife.co.uk/feed.xml",
+        "dedupe_key": "ec41251ee6da0ad2df34e10210c4a57504f1dfdc",
+        "episode_key": "ec41251ee6da0ad2df34e10210c4a57504f1dfdc",
+        "title": "Episode 41 - David Mitchell and Michel Faber in conversation: Part 1",
+        "published_at": "2016-02-25T11:53:56Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "I interviewed the novelists David Mitchell and Michel Faber for the Sunday Independent. Mitchell had not long since published The Bone Clocks, and Faber The Book of Strange New Things. ----more----They were old friends, something that was apparent from the moment I met them both at Durrants Hotel in central London. Bef",
+        "audio_url": "https://mcdn.podbean.com/mf/web/yadqur/FaberMitchellPart1FINAL.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-41-david-mitchell-and-michel-faber-in/id1101837877?i=1000366471995&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
@@ -32095,6 +32317,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:3498e906694d",
+        "feed_title": "Slate Books",
+        "source_rss_url": "https://feeds.megaphone.fm/slatesaudiobookclub",
+        "dedupe_key": "7c45f52f77d7c0f2b26e7866f0cdbeb800e9874b",
+        "episode_key": "7c45f52f77d7c0f2b26e7866f0cdbeb800e9874b",
+        "title": "Slate Audio Book Club: Cloud Atlas by David Mitchell",
+        "published_at": "2012-11-02T16:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Dan Kois, Emily Bazelon, and Meghan O'Rourke discuss David Mitchell's epic novel.\nLearn more about your ad choices. Visit megaphone.fm/adchoices",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/verifi.podscribe.com/rss/p/traffic.megaphone.fm/SM1900733368.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/slate-audio-book-club-cloud-atlas-by-david-mitchell/id158004629?i=1000123464551&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
@@ -32107,6 +32351,50 @@
         "description": "RHLSTP #13: David Mitchell - The Shreks of Westminster Bridge. Slightly worse for wear after having lunch with Alice Cooper at the Q Awards, Richard is delighted to welcome a man he thinks might be him from another time stream, David 'Mitch' Mitchell. He's certainly met his match in pedantry and both men accidentally r",
         "audio_url": "https://sphinx.acast.com/rhlstp/rhlstp-13-david-mitchell/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/rhlstp-13-david-mitchell/id520831548?i=1000122906035&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f22e319bc1e6",
+        "feed_title": "A Bit Of A Chat With Ken Plume - FRED Entertainment",
+        "source_rss_url": "https://rss.libsyn.com/shows/18537/destinations/12910.xml",
+        "dedupe_key": "f7cce3b123f32f35909de45d52df8ba4459c775b",
+        "episode_key": "f7cce3b123f32f35909de45d52df8ba4459c775b",
+        "title": "David Mitchell 2",
+        "published_at": "2011-06-25T22:17:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Ken has another chat with writer/performer David Mitchell about politicians, live TV, Charlemagne, Anglo-Saxon genital words, suburbia, and slapping John Cleese.",
+        "audio_url": "https://traffic.libsyn.com/secure/bitofachat/bit_of_a_chat-david_mitchell_2.mp3?dest-id=12910",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-2/id305634745?i=1000386981449&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e5109e3e8ef8",
+        "feed_title": "Engage  Audiobook in Fiction, Historical",
+        "source_rss_url": "https://hotaudiobook.com/tone/id/2365/index.xml",
+        "dedupe_key": "107176ac6addd2a687e2857e453b29b24b06833f",
+        "episode_key": "107176ac6addd2a687e2857e453b29b24b06833f",
+        "title": "The Thousand Autumns of Jacob de Zoet by David Mitchell | Free Audiobook",
+        "published_at": "2010-05-13T16:44:21Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobooks for free on :\n\nhttps://esound.space/audible \n\nTitle: The Thousand Autumns of Jacob de Zoet\n\nAuthor: David Mitchell\n\nNarrator: Tim Pigott-Smith, Paula Wilcox\n\nFormat: Abridged\n\nLength: 7 hrs and 3 mins\n\nLanguage: English\n\nRelease date: 05-13-10\n\nPublisher: Hodder Headline Limited\n\nGenres: Ficti",
+        "audio_url": "https://samples.audible.com/bk/hodd/000223/bk_hodd_000223_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-thousand-autumns-of-jacob-de-zoet-by/id1818748274?i=1000711352191&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
