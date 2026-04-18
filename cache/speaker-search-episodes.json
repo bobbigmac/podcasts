@@ -13999,6 +13999,28 @@
     ],
     "alex-horne": [
       {
+        "feed_slug": "external:apple:937fa744d6bb",
+        "feed_title": "The Kickabout With Johnny Vaughan",
+        "source_rss_url": "https://feeds.captivate.fm/the-kickabout-with-johnny",
+        "dedupe_key": "d998290e915696360e1640a5f5749f4d37d36981",
+        "episode_key": "d998290e915696360e1640a5f5749f4d37d36981",
+        "title": "Episode 510 - The Super Duper Soccer Sunday Special with Alex Horne",
+        "published_at": "2026-04-18T12:15:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Toby Tarrant is in for Johnny this week. He's joined as ever by Gavin 'The Woodman' Woods and they speak to Alex Horne live from the Taskmaster House ahead of his comedian's charity football match, taking place in May.\nYou can hear The Kickabout live on Radio X from 11am every Saturday. Get in touch on kickabout@radiox",
+        "audio_url": "https://episodes.captivate.fm/episode/4e35f273-fae0-45d4-bb93-55e21b65fa22.mp3?aw_0_1st.showid=966aeb5f-0f07-460c-8f66-04995c2b1434&aw_0_1st.episodeid=4e35f273-fae0-45d4-bb93-55e21b65fa22",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-510-the-super-duper-soccer-sunday-special/id1111579428?i=1000762133576&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:bb2224026702",
         "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
         "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",

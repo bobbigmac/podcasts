@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-17T16:13:53+00:00`
-- checked_at: `2026-04-17T16:13:53+00:00`
-- etag: `"djEuMi4wOjE3NzY0MzY5MzQ1ODI="`
+- fetched_at: `2026-04-18T19:09:16+00:00`
+- checked_at: `2026-04-18T19:09:16+00:00`
+- etag: `"djEuMi4wOjE3NzY1MjgwMzk4Mzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-17T16:13:53+00:00",
+  "fetched_at": "2026-04-18T19:09:16+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "e500cda982271c0c72ac446ef86ca6790356f2c2",
+      "title": "Ex defence secretary slams Starmer's strategy",
+      "published_at": "2026-04-18T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/ex-defence-secretary-slams-starmers-strategy",
+      "description": "Criticism of Labour's response to the global threat, Trump's AI Jesus and parliament's \"summer of sex\". Will Dunn and Anoosh Chakelian round up this week's stories. Any suggestions for next week's categories, please comment below. 📚 READ: https://www.newstatesman.com/politics/the-sketch/2026/04/at-a-defence-conference-tech-execs-haggle-over-reducing-the-cost-to-kill LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1776420999825-3b15cfcc-c4fd-4781-96eb-bf677621f174.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69e2099da0cdd3989ca232b5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54295982",
+      "itunes_duration": "28:10",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "defence",
+        "secretary",
+        "starmer",
+        "strategy"
+      ]
+    },
     {
       "key": "d2d5b86e47215be3b1eb658f04f64360d9aa4bf3",
       "title": "Why do young women hate men?",
@@ -30999,6 +31021,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-18 — Ex defence secretary slams Starmer's strategy — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-04-16 — Why do young women hate men? — speakers: Andrew Tate, Anoosh Chakelian, Oli Dugmore
 - 2026-04-11 — Trump’s “demented” Easter and fragile ceasefire | Will and Anoosh's weekly round up — speakers: Zack Pol, Anoosh Chakelian, Oli Dugmore
 - 2026-04-09 — AI is embedded in the British state — speakers: Anoosh Chakelian, Oli Dugmore
