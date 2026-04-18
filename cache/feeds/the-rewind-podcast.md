@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-04-15T22:04:29+00:00`
-- checked_at: `2026-04-15T22:04:29+00:00`
-- etag: `W/"15c34-/1g2w26cM+odIYk9TyJKnFSbK1I"`
+- fetched_at: `2026-04-18T15:53:59+00:00`
+- checked_at: `2026-04-18T15:53:59+00:00`
+- etag: `W/"15c34-Vrqjk+HaP38w/7fPfFl2+1VM5Ws"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-04-15T22:04:29+00:00",
+  "fetched_at": "2026-04-18T15:53:59+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
