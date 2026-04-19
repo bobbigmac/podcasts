@@ -2,9 +2,9 @@
 
 - slug: `ramon-fears-terror-tapes`
 - source: `https://feeds.acast.com/public/shows/65301134633a050012b657b7`
-- fetched_at: `2026-03-25T21:53:59+00:00`
-- checked_at: `2026-03-25T21:53:59+00:00`
-- etag: `"djEuMi4wOjE3NzQ0Njg5OTk1NTc="`
+- fetched_at: `2026-04-19T13:34:49+00:00`
+- checked_at: `2026-04-19T13:34:49+00:00`
+- etag: `"djEuMi4wOjE3NzY2MDQzOTUwNzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.ramonfear.com/episodes/",
   "description": "7x finalist at the Independent Podcast Awards 2024 | A completely original horror-comedy anthology podcast. Inspired by horror across the whole spooky spectrum. With an ounce of Argento, a quart of Carpenter and a heft of Hitchcock, witness tales of everyday terror presented by your nefarious narrator, that horrible host, that evil escort, RAMON FEAR. You'll never be the same again... once you put the Fear in your ear! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65301134633a050012b657b7/show-cover.png",
-  "fetched_at": "2026-03-25T21:53:59+00:00",
+  "fetched_at": "2026-04-19T13:34:49+00:00",
   "owners": [
     "Ramon Fear"
   ],
