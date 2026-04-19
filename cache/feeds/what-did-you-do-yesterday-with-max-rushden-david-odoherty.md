@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-04-15T03:40:18+00:00`
-- checked_at: `2026-04-15T03:40:18+00:00`
-- last_modified: `Tue, 14 Apr 2026 23:15:00 GMT`
+- fetched_at: `2026-04-19T03:49:34+00:00`
+- checked_at: `2026-04-19T03:49:34+00:00`
+- last_modified: `Sat, 18 Apr 2026 23:15:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/0bbecfc9ad65078c6accdbc313267a08.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-15T03:40:18+00:00",
+  "fetched_at": "2026-04-19T03:49:34+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c569a11d68e1bc44131ccf1ddf9cf9e16530334b",
+      "title": "S4 EP16: Lloyd Langford",
+      "published_at": "2026-04-18T23:15:00+00:00",
+      "link": null,
+      "description": "Joining us on this episode of ' ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ What did you do yesterday? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ' is the brilliant comedian - Lloyd Langford. We asked Lloyd what he did yesterday? He told us. That's it... enjoy! Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ @yesterdaypod ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ea9c970e-368b-11f1-9b99-6b97fc141608/image/7209ec326b1e02931fbaf342d1c90574.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2060334536.mp3?updated=1776032255",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4605",
+      "speakers": [
+        "Lloyd Langford",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "lloyd",
+        "langford"
+      ]
+    },
     {
       "key": "91d826c80fe0668202ad7eb1a1878b66fda9260f",
       "title": "WDWDY #67: I HATE NATURE",
@@ -3213,6 +3234,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-18 — S4 EP16: Lloyd Langford — speakers: Lloyd Langford, Max Rushden, David O'Doherty
 - 2026-04-14 — WDWDY #67: I HATE NATURE — speakers: Max Rushden, David O'Doherty
 - 2026-04-11 — S4 EP15: Isy Suttie — speakers: Max Rushden, David O'Doherty
 - 2026-04-07 — WDWDY #66: Busted knees and ruptured spleens — speakers: Max Rushden, David O'Doherty
