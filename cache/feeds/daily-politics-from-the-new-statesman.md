@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-18T19:09:16+00:00`
-- checked_at: `2026-04-18T19:09:16+00:00`
-- etag: `"djEuMi4wOjE3NzY1MjgwMzk4Mzg="`
+- fetched_at: `2026-04-20T16:22:11+00:00`
+- checked_at: `2026-04-20T16:22:11+00:00`
+- etag: `"djEuMi4wOjE3NzY3MDA4Mzk4MTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-18T19:09:16+00:00",
+  "fetched_at": "2026-04-20T16:22:11+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "e477734582ab277c2db11cf2c744b478ef461866",
+      "title": "Does Starmer deserve more credit?",
+      "published_at": "2026-04-20T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/does-starmer-deserve-more-credit",
+      "description": "Does Keir Starmer deserve more credit for keeping us out of a third Gulf war? Is Farage's relationship with Trump hurting Reform's polling? And who are the bright young things in British politics? Anoosh Chakelian is joined by Tom McTague and Ailbhe Rea to answer your questions. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1776426755968-6a066d45-9756-4d77-9523-c55de1269aea.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69e21fee0b4baf3bf23b9e3e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79788038",
+      "itunes_duration": "33:09",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "starmer",
+        "credit"
+      ]
+    },
     {
       "key": "e500cda982271c0c72ac446ef86ca6790356f2c2",
       "title": "Ex defence secretary slams Starmer's strategy",
@@ -31021,6 +31041,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — Does Starmer deserve more credit? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-04-18 — Ex defence secretary slams Starmer's strategy — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-04-16 — Why do young women hate men? — speakers: Andrew Tate, Anoosh Chakelian, Oli Dugmore
 - 2026-04-11 — Trump’s “demented” Easter and fragile ceasefire | Will and Anoosh's weekly round up — speakers: Zack Pol, Anoosh Chakelian, Oli Dugmore
