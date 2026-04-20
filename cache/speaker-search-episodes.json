@@ -7107,6 +7107,72 @@
     ],
     "harry-hill": [
       {
+        "feed_slug": "external:apple:c3609c3b7c4f",
+        "feed_title": "Class Clown",
+        "source_rss_url": "https://feeds.megaphone.fm/APL3984327377",
+        "dedupe_key": "aad135541adf2990923d7295067271bab7780e13",
+        "episode_key": "aad135541adf2990923d7295067271bab7780e13",
+        "title": "AL MURRAY: Harry Hill's advice \"Stop Being Lazy!\" & Secrets Of The Pub Landlord",
+        "published_at": "2026-04-20T09:31:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Al Murray is back for Part 2 where he reveals all about the secrets of The Pub Landlord, how Harry Hill's advice put him on the path to success, why he doesn't perform stand up out of character and why he doesn't feel cut out for panel shows...\n\nUse promo code classclown and try Ship Station free for sixty days! \n\nChec",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL3905159289.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/al-murray-harry-hills-advice-stop-being-lazy-secrets/id1815770286?i=1000762303248&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e8b919cc1fa1",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT2134425554",
+        "dedupe_key": "10595cbfe5fd3eb80902ff79d114397bcd6277ea",
+        "episode_key": "10595cbfe5fd3eb80902ff79d114397bcd6277ea",
+        "title": "The Best of The Harry Hill Show Season 1!",
+        "published_at": "2026-04-20T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "To wrap up Season 1, we're taking a look at some of our favourite bits as well as introducing The Harry Hill Show Choir (prepare your ears).\n\nPanic not though dear audience, we'll be back elevating your Monday mornings in no time with the return of Season 2 from 11th May.\n\nLet us know who you'd like to see in future ep",
+        "audio_url": "https://traffic.megaphone.fm/NSR2170122180.mp3?updated=1776452161",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-best-of-the-harry-hill-show-season-1/id1742178595?i=1000762339195&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:d5a7e6acbb25",
+        "feed_title": "The Romesh Ranganathan Show",
+        "source_rss_url": "https://feeds.megaphone.fm/romesh",
+        "dedupe_key": "57a2949b6830ee537069102ace30b4d037779823",
+        "episode_key": "57a2949b6830ee537069102ace30b4d037779823",
+        "title": "Harry Hill: From Doctor To Comedian, TV Burp & Success in America",
+        "published_at": "2026-04-19T23:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "How does someone go from medicine to comedy?\n\n\n\nComedian Harry Hill joins Romesh Ranganathan for a funny and insightful conversation about stand-up, originality and staying relevant in comedy.\n\n\n\nHarry reflects on leaving a career in medicine to pursue his comedy dream, touring with Tim Vine, and how he developed his c",
+        "audio_url": "https://traffic.megaphone.fm/GLT4044926232.mp3?updated=1776463035",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harry-hill-from-doctor-to-comedian-tv-burp-success/id1838594107?i=1000762303943&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:ad90399bfbc3",
         "feed_title": "Chatabix",
         "source_rss_url": "https://feeds.megaphone.fm/GLT7256806225",
@@ -23228,6 +23294,50 @@
         "description": "#252 Giraffe Harpsichord - Richard’s house is being haunted by a film star, but he’ll get over it. He’s back at the Exeter Corn Exchange and chatting to the man behind the most employable moustache in the UK, Mike Wozniak.\nThey discuss how many people is too many people for a sketch troupe, children failing to recognis",
         "audio_url": "https://sphinx.acast.com/rhlstp/rhlstp252-mikewozniak/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/rhlstp-252-mike-wozniak/id520831548?i=1000463520534&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Mike Wozniak"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:17c8754e01df",
+        "feed_title": "St Elwick's Neighbourhood Association Newsletter Podcast",
+        "source_rss_url": "https://anchor.fm/s/f6fb9cc/podcast/rss",
+        "dedupe_key": "73ad91fcdfa973d7c47e3dfdf026181fd1558621",
+        "episode_key": "73ad91fcdfa973d7c47e3dfdf026181fd1558621",
+        "title": "Christmas Fayre Flyer",
+        "published_at": "2019-12-19T22:16:17Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Christmas Fayre Flyer: ie not an edition of the newsletter proper. Just a short notice re this Saturday's Fayre/road closures etc. Volunteers needed please!\n\n\n\nBy Mike Wozniak.\n\nGuest appearance Henry Paker\n\nProduced by Joel Porter.",
+        "audio_url": "https://anchor.fm/s/f6fb9cc/podcast/play/9155690/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-11-19%2F39813026-48000-2-2a001d79f8a81.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/christmas-fayre-flyer/id1484451923?i=1000460238761&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Mike Wozniak"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:17c8754e01df",
+        "feed_title": "St Elwick's Neighbourhood Association Newsletter Podcast",
+        "source_rss_url": "https://anchor.fm/s/f6fb9cc/podcast/rss",
+        "dedupe_key": "4737e6e6af5e6990b11a91bf675c6028fe199da2",
+        "episode_key": "4737e6e6af5e6990b11a91bf675c6028fe199da2",
+        "title": "Podcast Edition 2",
+        "published_at": "2019-11-26T01:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Regret the Newsletter remains in podcast form for this edition. Please find all the usual newsletter features enclosed including Parish Notices, Council Watch and Crime Figures. This edition also includes the return of our local history section with Hilary Geisler and, in Local Lives, we visit the home and studio of lo",
+        "audio_url": "https://anchor.fm/s/f6fb9cc/podcast/play/8627980/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-10-24%2F35466160-48000-2-0c4a8e9cea1c9.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/podcast-edition-2/id1484451923?i=1000457877729&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
