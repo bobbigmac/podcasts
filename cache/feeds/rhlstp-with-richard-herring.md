@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-17T03:45:20+00:00`
-- checked_at: `2026-04-17T03:45:20+00:00`
-- etag: `"djEuMi4wOjE3NzYzOTQ2NTkzMjI="`
+- fetched_at: `2026-04-20T03:51:57+00:00`
+- checked_at: `2026-04-20T03:51:57+00:00`
+- etag: `"djEuMi4wOjE3NzY2NTM4NTkyODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-17T03:45:20+00:00",
+  "fetched_at": "2026-04-20T03:51:57+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c634dfd03d531c5d5244d44996665c412d9724b3",
+      "title": "Retro RHLSTP 140 - Nish Kumar",
+      "published_at": "2026-04-20T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#434 - Big Nick - Richard is back at the Leicester Comedy Festival for the second week in a row, concerned about the historical figures that they venerate here. His guest is Michael Sheen stand-in, Nish Kumar. They discuss the physical and mental health scares they’ve had since last they met and the secret that Richard was harbouring back then, plus whether therapy helps of hinders comedy, cowardly potholers, horny followers of the alien Jesus, getting to sit in Richard Osman’s chair, how little control we have over our lives and an hilariously angry and potentially lethal encounter with Boris Johnson. Thanks to the Leicester Comedy Festival for having us. Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1774893691947-7f0dac2c-5295-4478-8d19-c9651df43ea2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69cabb034bc3c0b5ce4cad98/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32879054",
+      "itunes_duration": "1:03:24",
+      "speakers": [
+        "Nish Kumar",
+        "Big Nick",
+        "Leicester Comedy Festival",
+        "Richard Herring"
+      ],
+      "topics": [
+        "retro",
+        "nish",
+        "kumar"
+      ]
+    },
     {
       "key": "2a5d1b210ca427e04879d79a5e70a9b5d063190d",
       "title": "RHLSTP Bonus 3",
@@ -22068,6 +22091,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — Retro RHLSTP 140 - Nish Kumar — speakers: Nish Kumar, Big Nick, Leicester Comedy Festival, Richard Herring
 - 2026-04-17 — RHLSTP Bonus 3 — speakers: Richard Herring
 - 2026-04-15 — RHLSTP Book Club 176 - Emma Jane Unsworth — speakers: Emma Jane Unsworth, Richard Herring
 - 2026-04-11 — RAACN week 11 — speakers: Richard Herring

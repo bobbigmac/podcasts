@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-04-19T19:09:21+00:00`
-- checked_at: `2026-04-19T19:09:21+00:00`
-- etag: `"djEuMi4wOjE3NzY2MjQyMzY2MDc="`
+- fetched_at: `2026-04-20T03:51:57+00:00`
+- checked_at: `2026-04-20T03:51:57+00:00`
+- etag: `"djEuMi4wOjE3NzY2Mzk3NTk0MzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-04-19T19:09:21+00:00",
+  "fetched_at": "2026-04-20T03:51:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "90e5367f3a8ab197af638971bcbe6cf31895536c",
+      "title": "Ep. 579 - Fatiha El-Ghorri - Stand-up comedy from from Taskmaster, Live at the Apollo, QI, The Last Leg…",
+      "published_at": "2026-04-19T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-579-fatiha-el-ghorri-stand-up-comedy-from-from-taskmaster",
+      "description": "Fatiha El-Ghorri is the breakout star of Taskmaster series 19 and an award-winning stand-up comedian. Her sharp, witty observations challenge stereotypes with humour rooted in her experiences as a British Muslim hijabi woman, offering a fresh and fearless voice on stage. She has performed at the Royal Albert Hall and the London Palladium alongside Lenny Henry for Comic Relief. On TV, Fatiha has performed stand-up on Live at the Apollo, The Russell Howard Hour and Comedy Central Live, and made appearances on QI, The Jonathan Ross Show, Outsiders, Big Zuu’s Big Eats, Guessable, The Last Leg, Out of Order, and is a team captain on U&Dave’s Silence is Golden. Fatiha has acted in the BAFTA-winning Mr Bigstuff for Sky, with series 2 launching this year, and she wrote and starred in her own BBC short, Donkey. Fatiha’s debut novel, The Perks of My Hijab, will be published by Simon & Schuster Children’s Books . Fatiha El-Ghorri is our guest in episode 579 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . For Fatiha’s tour ad Edinburgh tickets, visit - https://www.fatihaelghorri.co.uk . Follow Fatiha El-Ghorri on Instagram : @fatiha.elghorri . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast, get all episodes ad-free and a bonus episode every Wednesday of \"My Time Capsule The Debrief', please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69e5226c6e5b90839aad305e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75157858",
+      "itunes_duration": "1:02:37",
+      "speakers": [
+        "Fatiha El-Ghorri"
+      ],
+      "topics": [
+        "fatiha",
+        "ghorri",
+        "comedy",
+        "taskmaster",
+        "apollo"
+      ]
+    },
     {
       "key": "add2964ec555a3657103ad8e3e32110720e52faa",
       "title": "Ep. 578 - Alicia Kite - Fashion entrepreneur, academy founder and shapewear designer",
@@ -12390,6 +12412,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-19 — Ep. 579 - Fatiha El-Ghorri - Stand-up comedy from from Taskmaster, Live at the Apollo, QI, The Last Leg… — speakers: Fatiha El-Ghorri
 - 2026-04-16 — Ep. 578 - Alicia Kite - Fashion entrepreneur, academy founder and shapewear designer — speakers: Alicia Kite
 - 2026-04-12 — Ep. 577 - Lily Phillips - BBC New Comedy Awards Finalist, Chortle’s “One to Watch”, Leicester Square New Comedian of the Year runner up — speakers: Leicester Square New Comedian, Lily Phillips
 - 2026-04-09 — Doug Allan Tribute - A look back at Ep. 314 with the wildlife cameraman, who died this week — speakers: Doug Allan

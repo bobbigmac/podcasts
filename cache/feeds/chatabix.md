@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-04-17T13:58:40+00:00`
-- checked_at: `2026-04-17T13:58:40+00:00`
-- last_modified: `Fri, 17 Apr 2026 12:36:58 GMT`
+- fetched_at: `2026-04-20T03:51:57+00:00`
+- checked_at: `2026-04-20T03:51:57+00:00`
+- last_modified: `Mon, 20 Apr 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-17T13:58:40+00:00",
+  "fetched_at": "2026-04-20T03:51:57+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "af8ac6e7a5937cf84323f45e48fd40bf7b869a08",
+      "title": "S15 Ep 821 Vault Mondays: Art College Pictures and Live Gigs",
+      "published_at": "2026-04-20T02:00:00+00:00",
+      "link": null,
+      "description": "On this old episode from the archives, we chat about something from the past and then we have an amazing idea!!! First posted on 2nd June 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1818001495.mp3?updated=1776420263",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2609",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "college",
+        "pictures"
+      ]
+    },
     {
       "key": "0b481361d6c1a136158fb54006b563ede8f0791b",
       "title": "S15 Ep 820 Listener’s Mailbag: A Japanese Chatabiscuit and A Car For Joe",
@@ -14483,6 +14505,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — S15 Ep 821 Vault Mondays: Art College Pictures and Live Gigs — speakers: Joe Wilkinson, David Earl
 - 2026-04-17 — S15 Ep 820 Listener’s Mailbag: A Japanese Chatabiscuit and A Car For Joe — speakers: Joe Wilkinson, David Earl
 - 2026-04-16 — S15 Ep 819: Camper-Vaning and Fucktoids — speakers: van holi, Joe Wilkinson, David Earl
 - 2026-04-15 — S15 Ep 818: Celebrities We Have Met — speakers: Vanessa Feltz, Joe Wilkinson, David Earl

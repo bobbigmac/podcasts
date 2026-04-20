@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-04-17T22:01:19+00:00`
-- checked_at: `2026-04-17T22:01:19+00:00`
-- last_modified: `Fri, 17 Apr 2026 21:52:25 GMT`
+- fetched_at: `2026-04-20T03:51:57+00:00`
+- checked_at: `2026-04-20T03:51:57+00:00`
+- last_modified: `Sun, 19 Apr 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-17T22:01:19+00:00",
+  "fetched_at": "2026-04-20T03:51:57+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "23359b7223b7a26f12539cdd3277dbc2d7095f19",
+      "title": "Harry Hill: From Doctor To Comedian, TV Burp & Success in America",
+      "published_at": "2026-04-19T23:01:00+00:00",
+      "link": null,
+      "description": "How does someone go from medicine to comedy? Comedian Harry Hill joins Romesh Ranganathan for a funny and insightful conversation about stand-up, originality and staying relevant in comedy. Harry reflects on leaving a career in medicine to pursue his comedy dream, touring with Tim Vine, and how he developed his completely unique style. They also share on their comedy influences, from Jack Dee to Sean Lock, discuss the pressure of writing new material, and why struggling on stage is part of the process. From TV Burp, to touring, to David Letterman and making it in the US, they cover it all. Plus, expect the usual question from Shanthi and a strong game of Misquoted to top it all off. It's a masterclass in comedy with plenty of nonsense along the way. A Ranga Bee Production in partnership with Platform. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5d24132e-3a83-11f1-bc32-17fa0bed4abb/image/8e03b889f720302c407503bed7abaae7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4044926232.mp3?updated=1776463035",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4081",
+      "speakers": [
+        "Harry Hill",
+        "Comedian Harry Hill",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "harry",
+        "hill",
+        "doctor",
+        "comedian",
+        "burp",
+        "success",
+        "america"
+      ]
+    },
     {
       "key": "7391e62c8edb2596b96b56a40d17501f0ace008d",
       "title": "Shanthi Takes On Misquoted & Are Skiing Holidays Overrated?",
@@ -1390,6 +1416,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-19 — Harry Hill: From Doctor To Comedian, TV Burp & Success in America — speakers: Harry Hill, Comedian Harry Hill, Romesh Ranganathan
 - 2026-04-16 — Shanthi Takes On Misquoted & Are Skiing Holidays Overrated? — speakers: Can Shanthi, Romesh Ranganathan
 - 2026-04-12 — Sara Pascoe: New Travel Show, Life On Tour & Parenting — speakers: Sara Pascoe, Romesh Ranganathan
 - 2026-04-08 — Romesh & Shanthi Respond to the Haters — speakers: Shanthi Respond, Haters Can Shanthi, Romesh Ranganathan
