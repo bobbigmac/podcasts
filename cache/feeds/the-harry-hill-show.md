@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-04-17T22:01:19+00:00`
-- checked_at: `2026-04-17T22:01:19+00:00`
-- last_modified: `Fri, 17 Apr 2026 19:27:40 GMT`
+- fetched_at: `2026-04-20T08:27:17+00:00`
+- checked_at: `2026-04-20T08:27:17+00:00`
+- last_modified: `Mon, 20 Apr 2026 05:06:37 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-17T22:01:19+00:00",
+  "fetched_at": "2026-04-20T08:27:17+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "50b37e5a91992f6a80811c3eac5c6a859623196e",
+      "title": "The Best of The Harry Hill Show Season 1!",
+      "published_at": "2026-04-20T05:00:00+00:00",
+      "link": null,
+      "description": "To wrap up Season 1, we're taking a look at some of our favourite bits as well as introducing The Harry Hill Show Choir (prepare your ears). Panic not though dear audience, we'll be back elevating your Monday mornings in no time with the return of Season 2 from 11th May. Let us know who you'd like to see in future episodes in the comments! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2170122180.mp3?updated=1776452161",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2802",
+      "speakers": [
+        "Harry Hill"
+      ],
+      "topics": [
+        "best",
+        "harry",
+        "hill",
+        "season"
+      ]
+    },
     {
       "key": "3bd278104f91867292fd690700a09ead7b2d46ef",
       "title": "Tim Vine: I've Sniffed Up The Seeds",
@@ -1651,6 +1672,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — The Best of The Harry Hill Show Season 1! — speakers: Harry Hill
 - 2026-04-13 — Tim Vine: I've Sniffed Up The Seeds — speakers: Tim Vine, Harry Hill
 - 2026-04-06 — Tom Allen: I Have An Average Garden, Maybe Two or Three Farms. — speakers: Tom Allen, Harry Hill
 - 2026-03-30 — Alex Brooker: It’s One of the Big Perks. That and the Queues at Disney. — speakers: Alex Brooker, Harry Hill

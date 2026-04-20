@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-04-14T08:04:06+00:00`
-- checked_at: `2026-04-14T08:04:06+00:00`
-- etag: `"a5722a619b7cfc0a842d378a78a99296"`
-- last_modified: `Tue, 14 Apr 2026 04:00:04 GMT`
+- fetched_at: `2026-04-20T08:27:17+00:00`
+- checked_at: `2026-04-20T08:27:17+00:00`
+- etag: `"c9a0145f057808e113932726580dbd04"`
+- last_modified: `Mon, 20 Apr 2026 04:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-04-14T08:04:06+00:00",
+  "fetched_at": "2026-04-20T08:27:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "084857b1d65f9cb4a3849b6d5722e3a5ffb86de6",
+      "title": "Nature Table",
+      "published_at": "2026-04-20T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nfcznj",
+      "description": "In this episode Sue checks out a fiendish Church-eating fungus, the mad lifecycle of Marine Midges and a potential orgasm fungus. This is episode 2 of series 5 of Nature Table - Miraculous Marine Midges and Church-Eating Fungus. ‘Sue Perkins’ Nature Table - possibly the funniest “natural science” series, ever.’ Pick of the Week, The Telegraph Recorded at the Natural History Museum, this episode of Sue Perkins’ ARIA-winning ‘Show and Tell’ wildlife comedy features special guests: comedian Sara Pascoe, the Natural History Museum’s Queen of flies Dr. Erica McAlister and Fungarium Collections Manager at Kew Gardens, Lee Davies. Nature Table has a simple clear goal: to positively celebrate our planet’s wonderfully wild (and funny) flora and fauna in a fun accessible way... whilst always having a giggle. Hosted by: Sue Perkins Guests: Sara Pascoe, Dr. Erica McAlister, Lee Davies and Elizabeth. Written by: Jon Hunter and Jenny Laville. Additional material by: Jade Gebbie. Researcher: Catherine Beazley Executive Producer: James Robinson Sound Editor: Jerry Peal Music by: Ben Mirin Production Coordinator: Sarah Nicholls & Caroline Barlow Producer: Simon Nicholls A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nfczjv.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27424000",
+      "itunes_duration": "1714",
+      "speakers": [],
+      "topics": [
+        "nature",
+        "table"
+      ]
+    },
     {
       "key": "a79c1cd3333c2fff65f0626145b19ec4702e91c0",
       "title": "Unspeakable",
@@ -978,6 +995,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — Nature Table
 - 2026-04-13 — Unspeakable — speakers: Hugh Dennis, Katy Wix
 - 2026-04-06 — Live from the UK: Live Comedy Day
 - 2026-03-30 — The Matt Forde Focus Group

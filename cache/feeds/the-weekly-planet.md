@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-04-20T03:51:57+00:00`
-- checked_at: `2026-04-20T03:51:57+00:00`
-- etag: `"djEuMi4wOjE3NzY2NDY5MDcxMDM="`
+- fetched_at: `2026-04-20T08:27:17+00:00`
+- checked_at: `2026-04-20T08:27:17+00:00`
+- etag: `"djEuMi4wOjE3NzY2NTk0Mzk0NDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-04-20T03:51:57+00:00",
+  "fetched_at": "2026-04-20T08:27:17+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "63421bb30f8e46ee8af69e55a75c78b22247f32f",
+      "title": "619 Cinema Con Reveals & Lee Cronin's The Mummy",
+      "published_at": "2026-04-20T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/619-cinema-con-reveals-lee-cronins-the-mummy",
+      "description": "CinemaCon 2026 brings us news and footage from all the major studios most of which we are not allowed to see. We're talking Avengers: Doomsday and Spider-Man: Brand New Day plus trailers for The Mandalorian vs Groglet, Street Fighter & Godzilla Minus Zero, massive layoffs over at Disney and more! Also as mentioned up top everything at BigSandwich.co is now avaliable on Patreon! New bonuses now available on Patreon! Check out new options for early access, ad-free episodes and exclusive shows every week. Including a new video for The Dark Knight Returns and full movie commentary for Cloverfield! All available on bigsandwich.co and now also patreon.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 02:55 patreon.com/mrsundaymovies 07:34 Cinema Con Sony Reveals 15:24 LOTR: Hunt for Gollum Cast Announced 20:00 More Warner Bros Reveals 23:56 Wonder Woman Casting Maybe 25:00 Disney's Cinema Con Reveals 26:45 The Mandalorian vs Groglet Final Trailer 29:16 Avengers: Doomsday Cinema Con Trailer 31:22 Big Disney Lay-offs 38:07 James vs School Apps 40:31 Godzilla Minus Zero Trailer 44:51 Street Fighter Movie Trailer 48:22 Lee Cronin's The Mummy Review 01:03:33 Lee Cronin's The Mummy Spoiler Segment 01:10:28 What We Reading, What We Gonna Read 01:21:12 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69e2534223929c3a2a442a70/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "151141804",
+      "itunes_duration": "1:44:57",
+      "speakers": [
+        "Lee Cronin",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "cinema",
+        "reveals",
+        "cronin",
+        "mummy"
+      ]
+    },
     {
       "key": "960b2958172bb10618926885434ae40cc78c8271",
       "title": "War of the Worlds (2005) - Caravan Of Garbage",
@@ -22101,6 +22124,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — 619 Cinema Con Reveals & Lee Cronin's The Mummy — speakers: Lee Cronin, James Clement, Nick Mason
 - 2026-04-16 — War of the Worlds (2005) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-04-13 — 618 The Drama & The Boys Final Season (so far) — speakers: James Clement, Nick Mason
 - 2026-04-09 — The War of the Worlds (1953) - Caravan Of Garbage — speakers: James Clement, Nick Mason

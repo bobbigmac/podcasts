@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-03-25T13:49:59+00:00`
-- checked_at: `2026-03-25T13:49:59+00:00`
-- etag: `"djEuMi4wOjE3NzQ0NDYxNzAwMjg="`
+- fetched_at: `2026-04-20T08:27:17+00:00`
+- checked_at: `2026-04-20T08:27:17+00:00`
+- etag: `"djEuMi4wOjE3NzY2Njk4MjY0MDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-03-25T13:49:59+00:00",
+  "fetched_at": "2026-04-20T08:27:17+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "76a3c70d45227e39278e79ea9c2e1227836c024c",
+      "title": "EP.269 - JAMIE HEWLETT & DAMON ALBARN AKA GORILLAZ",
+      "published_at": "2026-04-20T07:21:40+00:00",
+      "link": "https://shows.acast.com/adambuxton/episodes/ep269-jamie-hewlett-damon-albarn-aka-gorillaz",
+      "description": "Adam talks with Damon Albarn and Jamie Hewlett of Gorillaz about not giving a f**k, being born in the 60s and growing up in the 70s and 80s, duetting with Mark E Smith and Lou Reed, why Damon isn't as impressed by Van Morrison and Coldplay as Adam is, partying too hard with Ant and Dec, trying to get The Spice Girls into Stockhausen, Dads, the new Gorillaz album 'The Mountain' and the experience of trying to make peace with mortality in India that inspired it. Conversation recorded face-to-face in London on 22nd January, 2026 THE ADAM BUXTON BAND SPRING 2026 TOUR BUG BOWIE SPECIAL @ THE LIGHTROOM SAILY 🌎 Get an exclusive 15% discount on your first Saily data plans! Use code buxton at checkout. Download Saily app or go to to https://saily.com/ buxton ⛵ NORD VPN EXCLUSIVE NordVPN Deal ➼ https:// nordvpn.com/buxton Try it risk-free now with a 30-day money-back guarantee! Thanks to Séamus Murphy-Mitchell for production support Podcast illustration by Helen Green Listen to Adam's album 'Buckle Up' Order Adam's book 'I Love You Byeee' Sign up for the newsletter on Adam's website (scroll down on homepage) RELATED LINKS GORILLAZ - THE MOUNTAIN TOUR 2026 DAMON ALBARN'S SONGWRITING ROUTINE, USING GARAGEBAND TO CREATE BLUR SONGS ON TAPE NOTES PODCAST - 2023 (YOUTUBE) DAMON ALBARN: STUDIO TOUR, 'CRACKER ISLAND' COACHELLA - APPLE MUSIC - 2023 (YOUTUBE) DAMON ALBARN - THE CULTURE SHOW SPECIAL - 2014 (YOUTUBE) DAMON'S STUDIO 13 (WEBSITE WITH STUDIO PICS AND GEAR LIST) THE ADAM BUXTON BAND SUPPORT ACTS ANNA B SAVAGE - THE GHOST - 2022 (YOUTUBE) THE CINDYS - ETERNAL PHARMACY - 2026 (YOUTUBE) TALIABLE - SCRUB - 2025 (YOUTUBE) CLÉMENTINE MARCH - FIREWORKS - 2025 (YOUTUBE) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1776669917185-c8c31891-5647-4829-a0b3-e8c29f073f77.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/69e5d3a123929c3a2a112536/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "203610429",
+      "itunes_duration": "1:24:50",
+      "speakers": [
+        "Damon Albarn",
+        "Jamie Hewlett",
+        "Adam Buxton"
+      ],
+      "topics": [
+        "jamie",
+        "hewlett",
+        "damon",
+        "gorillaz"
+      ]
+    },
     {
       "key": "2375943fd7b8658be44920cfbe5a1e26066a3bff",
       "title": "EP.268 - ADAM AND JOE",
@@ -5484,6 +5507,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — EP.269 - JAMIE HEWLETT & DAMON ALBARN AKA GORILLAZ — speakers: Damon Albarn, Jamie Hewlett, Adam Buxton
 - 2025-12-25 — EP.268 - ADAM AND JOE — speakers: Joe Adam, Adam Buxton
 - 2025-12-01 — EP.267 - RICHARD AYOADE & FRANK BLACK (LIVE) — speakers: DR Buckles, Adam Buxton
 - 2025-11-25 — EP.266 - DEVENDRA BANHART — speakers: Devendra Banhart, Adam Buxton

@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-04-18T03:30:11+00:00`
-- checked_at: `2026-04-18T03:30:11+00:00`
-- etag: `"c5a0866abccde8a4f0cb14ee211849e8"`
-- last_modified: `Fri, 17 Apr 2026 23:28:51 GMT`
+- fetched_at: `2026-04-20T08:27:17+00:00`
+- checked_at: `2026-04-20T08:27:17+00:00`
+- etag: `"9ec7875714d3f6dc5220fade3a2d79ab"`
+- last_modified: `Mon, 20 Apr 2026 04:12:33 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-04-18T03:30:11+00:00",
+  "fetched_at": "2026-04-20T08:27:17+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "36446371aa3edaa26c775651a689efab607d5b4f",
+      "title": "Microsoft Considering Major Changes To Game Pass After CEO Said It's Too Expensive - (Xbox In Ten: An Xbox Podcast - Ep. 360)",
+      "published_at": "2026-04-20T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/microsoft-considering-major-changes-to-game-pass-after-ceo-said-its-too-expensive-xbox-in-ten-an-xbox-podcast-ep-360",
+      "description": "Week of: 4-13-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/7/2/7/5/7275154530fb6eb616c3140a3186d450/360.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/360.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19157056",
+      "itunes_duration": "13:08",
+      "speakers": [
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "microsoft",
+        "changes",
+        "game",
+        "pass",
+        "expensive",
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "7b5e52bd33509e4ad8f8365f620993ddb1204047",
       "title": "Xbox To Release Halo: Campaign Evolved In July 2026? - (Xbox In Ten: An Xbox Podcast - Ep. 359)",
@@ -9045,6 +9069,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — Microsoft Considering Major Changes To Game Pass After CEO Said It's Too Expensive - (Xbox In Ten: An Xbox Podcast - Ep. 360) — speakers: Brandon Rosa
 - 2026-04-13 — Xbox To Release Halo: Campaign Evolved In July 2026? - (Xbox In Ten: An Xbox Podcast - Ep. 359) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-04-06 — Xbox Games Showcase 2026 with Gears E-Day Direct on June 7 - (Xbox In Ten: An Xbox Podcast - Ep. 358) — speakers: Brandon Rosa
 - 2026-03-30 — Is Xbox Working on a New Game Pass Tier...Trion? - (Xbox In Ten: An Xbox Podcast - Ep. 357) — speakers: New Game Pass Tier, Xbox Gaming News, Fun Fact, Brandon Rosa

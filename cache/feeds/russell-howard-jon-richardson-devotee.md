@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-04-20T03:51:57+00:00`
-- checked_at: `2026-04-20T03:51:57+00:00`
-- etag: `W/"29d52-9Qe5AVBBLjQsUx12qpvkTV9vfME"`
+- fetched_at: `2026-04-20T08:27:17+00:00`
+- checked_at: `2026-04-20T08:27:17+00:00`
+- etag: `W/"2a1e8-0brdaMZ0AapBJkQMDL/s+doAEMg"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,37 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-04-20T03:51:57+00:00",
+  "fetched_at": "2026-04-20T08:27:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "15292b37e27d1ca75d71062230cd1dd6214298aa",
+      "title": "BetaBet The Complete Collection - Elis James and John Robins",
+      "published_at": "2026-04-19T18:18:44+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/BetaBet-The-Complete-Collection---Elis-James-and-John-Robins-e3i4tup",
+      "description": "All the Betabet with Elis & John from the xfm show",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1776622673772-4b61debad4b87.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118699417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-19%2F8933f64a-134d-92a0-9f20-b4ec3cb80cfc.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "165718214",
+      "itunes_duration": "02:52:36",
+      "speakers": [
+        "John Robins"
+      ],
+      "topics": [
+        "betabet",
+        "complete",
+        "collection",
+        "elis",
+        "james",
+        "john",
+        "robins"
+      ]
+    },
     {
       "key": "6becf3af2ad73c8085e306916983fee5691476dc",
       "title": "John's Gig Diaries The Complete Collection - Elis James and John Robins",
@@ -3016,6 +3040,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-19 — BetaBet The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-04-16 — John's Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-04-15 — Elis' Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins, Elis James
 - 2026-04-14 — A Robins Amongst The Pigeons The Complete Collection - Elis James and John Robins (Radio X) — speakers: John Robins
