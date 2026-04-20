@@ -3,12 +3,10 @@
 - slug: `judge-dredd`
 - source: `https://archive.org/download/rss_judr/judr`
 - fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-04-20T08:27:17+00:00`
+- checked_at: `2026-04-20T10:57:46+00:00`
 - etag: `"61ec617e-350d"`
 - last_modified: `Sat, 22 Jan 2022 19:56:46 GMT`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: <urlopen error timed out>
 
 <!-- FEED_JSON -->
 ```json
@@ -433,17 +431,7 @@
         "dredd"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-04-20T08:27:17+00:00",
-    "status": "error",
-    "checked_at": "2026-04-20T08:27:17+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "<urlopen error timed out>"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->

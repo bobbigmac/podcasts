@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-04-20T03:51:57+00:00`
-- checked_at: `2026-04-20T03:51:57+00:00`
-- last_modified: `Sun, 19 Apr 2026 23:00:00 GMT`
+- fetched_at: `2026-04-20T10:57:46+00:00`
+- checked_at: `2026-04-20T10:57:46+00:00`
+- last_modified: `Mon, 20 Apr 2026 09:31:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-20T03:51:57+00:00",
+  "fetched_at": "2026-04-20T10:57:46+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -29,9 +29,9 @@
     {
       "key": "c534ffd466ba39777d98200e4968ec69aa6c5ccd",
       "title": "AL MURRAY: Harry Hill's advice \"Stop Being Lazy!\" & Secrets Of The Pub Landlord",
-      "published_at": "2026-04-19T23:00:00+00:00",
+      "published_at": "2026-04-20T09:31:00+00:00",
       "link": null,
-      "description": "Al Murray is back for Part 2 where he reveals all about the secrets of The Pub Landlord, how Harry Hill's advice put him on the path to success, why he doesn't perform stand up out of character and why he doesn't feel cut out for panel shows... Check out some Patreon exclusive content with Al in which he answers your questions, shares early drinking stories and talks about drumming alongside his hero Phil Collins Check out Al's WWII podcast We Have Ways Of Making You Talk See Seann on hos new This Is Torture tour! Tickets Here Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "Al Murray is back for Part 2 where he reveals all about the secrets of The Pub Landlord, how Harry Hill's advice put him on the path to success, why he doesn't perform stand up out of character and why he doesn't feel cut out for panel shows... Use promo code classclown and try Ship Station free for sixty days ! Check out some Patreon exclusive content with Al in which he answers your questions, shares early drinking stories and talks about drumming alongside his hero Phil Collins Check out Al's WWII podcast We Have Ways Of Making You Talk See Seann on hos new This Is Torture tour! Tickets Here Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL3905159289.mp3",
       "enclosure_type": "audio/mpeg",
@@ -1346,7 +1346,7 @@
 
 ## Episodes (newest first)
 
-- 2026-04-19 — AL MURRAY: Harry Hill's advice "Stop Being Lazy!" & Secrets Of The Pub Landlord — speakers: Harry Hill, Al Murray, Seann Walsh
+- 2026-04-20 — AL MURRAY: Harry Hill's advice "Stop Being Lazy!" & Secrets Of The Pub Landlord — speakers: Harry Hill, Al Murray, Seann Walsh
 - 2026-04-12 — AL MURRAY: I Have To Fight Being A Conformist — speakers: Al Murray, Stewart Lee, Richard Herring, Seann Walsh
 - 2026-04-05 — JANINE HAROUNI: Bullying Shaped My Comedy — speakers: My Comedy Janine Harouni, Seann Walsh
 - 2026-03-29 — RHYS JAMES: Serial Lying, Testing Personas & Comedy Origin Story — speakers: Rhys James, Seann Walsh

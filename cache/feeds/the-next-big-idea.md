@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-04-20T03:51:57+00:00`
-- checked_at: `2026-04-20T03:51:57+00:00`
-- last_modified: `Mon, 20 Apr 2026 02:10:52 GMT`
+- fetched_at: `2026-04-20T10:57:46+00:00`
+- checked_at: `2026-04-20T10:57:46+00:00`
+- last_modified: `Mon, 20 Apr 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-20T03:51:57+00:00",
+  "fetched_at": "2026-04-20T10:57:46+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,27 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "e3725fd91bc1b85c375cd7f45a2841dc01683a8a",
+      "title": "The History and Future of Apple",
+      "published_at": "2026-04-20T09:00:00+00:00",
+      "link": null,
+      "description": "In celebration of Apple's 50th birthday, we're probing the company's past and peering into its future with David Pogue — former New York Times tech columnist, current CBS Sunday Morning correspondent, and author of the recent New York Times bestseller Apple: The First 50 Years . We begin by looking backward, exploring the improbable story of the hippie pranksters who built the world's first trillion-dollar company. But we're not just here for the history. We also look ahead, asking: What cool new tech are they cooking up in Cupertino? Why has Apple been so slow on AI, and does the company have a plan to catch up? And who's the frontrunner to succeed Tim Cook? The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠here⁠⁠⁠ . Follow Rufus on ⁠⁠LinkedIn⁠⁠ , subscribe to our ⁠⁠Substack⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠nextbigideaclub.com⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). Sponsored By: Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠⁠meetfabric.com/nbi⁠⁠ Factor — Head to ⁠⁠⁠factormeals.com/idea50off⁠⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠⁠granola.ai/idea⁠⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP7754620136.mp3?updated=1776651348",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4881",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "history",
+        "future",
+        "apple"
+      ]
+    },
     {
       "key": "79221cfcafe991d133143a65255dc76a2384e4f1",
       "title": "Best Of: Tony Fadell’s Guide to Building Products, Startups and Careers",
@@ -7561,6 +7582,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — The History and Future of Apple — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-04-16 — Best Of: Tony Fadell’s Guide to Building Products, Startups and Careers — speakers: Tony Fadell’s Guide, Tony Fadell, Rufus Griscom, Caleb Bissinger
 - 2026-04-13 — Demis Hassabis Wants to Build AGI. Should We Trust Him? — speakers: Sebastian Mallaby, Demis Hassabis, Rufus Griscom, Caleb Bissinger
 - 2026-04-09 — Patrick Radden Keefe on a Double Life, a Gilded City and a Mysterious Death — speakers: Patrick Radden Keefe, Rufus Griscom, Caleb Bissinger
