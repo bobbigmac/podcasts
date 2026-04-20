@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-04-20T10:57:46+00:00`
-- checked_at: `2026-04-20T10:57:46+00:00`
-- last_modified: `Mon, 20 Apr 2026 08:59:25 GMT`
+- fetched_at: `2026-04-20T14:10:48+00:00`
+- checked_at: `2026-04-20T14:10:48+00:00`
+- last_modified: `Mon, 20 Apr 2026 14:08:31 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-20T10:57:46+00:00",
+  "fetched_at": "2026-04-20T14:10:48+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,62 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "481a83e99802730caa207963385d0e6735d0d0b0",
+      "title": "479. Welsh Election Special with Kiri Pritchard-McLean, Priya Hall and Carol Vorderman - part two",
+      "published_at": "2026-04-20T11:30:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 479. Welsh Election Special Presented by Deborah Frances-White, guest co-host Kiri Pritchard-McLean and special guests Priya Hall, Carol Vorderman, Sioned Williams and Tessa Marshall with music from Mared and Cardiff Superchoir. Recorded 12 April 2026 at the New Theatre Cardiff. Released 20 April. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Kiri Pritchard-McLean https://www.instagram.com/kiri_pritchard_mclean https://www.kiripritchardmclean.co.uk More about Priya Hall https://www.instagram.com/priyahallcomedy https://linktr.ee/priyahall For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Guilty Feminist x The Nerve . https://www.leicestersquaretheatre.com/show/guilty-feminist-x-the-nerve-road-to-gilead/ Road to Gilead at the Museum of Comedy . https://www.museumofcomedy.com/the-guilty-feminist/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ab3612c0-3c3f-11f1-bac8-dfd8d2f6162c/image/d8d5d65ae13e06bd3ea6e259e7e3e364.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL2144160897.mp3?updated=1776675855",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3615",
+      "speakers": [
+        "Priya Hall",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "welsh",
+        "election",
+        "special",
+        "kiri",
+        "pritchard",
+        "mclean",
+        "priya",
+        "hall",
+        "carol",
+        "vorderman"
+      ]
+    },
+    {
+      "key": "b9312b1f9545e0991e7d8ec981d8980127e4a707",
+      "title": "479. Welsh Election Special with Kiri Pritchard-McLean, Priya Hall and Carol Vorderman - part one",
+      "published_at": "2026-04-20T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 479. Welsh Election Special Presented by Deborah Frances-White, guest co-host Kiri Pritchard-McLean and special guests Priya Hall, Carol Vorderman, Sioned Williams and Tessa Marshall with music from Mared and Cardiff Superchoir. Recorded 12 April 2026 at the New Theatre Cardiff. Released 20 April. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Kiri Pritchard-McLean https://www.instagram.com/kiri_pritchard_mclean https://www.kiripritchardmclean.co.uk More about Priya Hall https://www.instagram.com/priyahallcomedy https://linktr.ee/priyahall For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Guilty Feminist x The Nerve . https://www.leicestersquaretheatre.com/show/guilty-feminist-x-the-nerve-road-to-gilead/ Road to Gilead at the Museum of Comedy . https://www.museumofcomedy.com/the-guilty-feminist/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7b0149fa-3c8d-11f1-8c96-dbe59a6d3ad5/image/d8d5d65ae13e06bd3ea6e259e7e3e364.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL1456394931.mp3?updated=1776675756",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4268",
+      "speakers": [
+        "Priya Hall",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "welsh",
+        "election",
+        "special",
+        "kiri",
+        "pritchard",
+        "mclean",
+        "priya",
+        "hall",
+        "carol",
+        "vorderman"
+      ]
+    },
     {
       "key": "f151c5cd5f4e2aabaceb31e033ee48826ad21346",
       "title": "478. Endometriosis with Heidi Regan, Sanju Pal and Tulip Siddiq MP",
@@ -17732,6 +17788,8 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — 479. Welsh Election Special with Kiri Pritchard-McLean, Priya Hall and Carol Vorderman - part two — speakers: Priya Hall, Deborah Frances-White
+- 2026-04-20 — 479. Welsh Election Special with Kiri Pritchard-McLean, Priya Hall and Carol Vorderman - part one — speakers: Priya Hall, Deborah Frances-White
 - 2026-04-13 — 478. Endometriosis with Heidi Regan, Sanju Pal and Tulip Siddiq MP — speakers: Heidi Regan, Deborah Frances-White
 - 2026-04-06 — 477. The Guilty Feminist Ten for Ten #9: Athena Kugblenu — speakers: Deborah Frances-White
 - 2026-03-30 — 476. The Guilty Feminist 476. Ten for Ten #8: Celia Pacquola — speakers: Deborah Frances-White

@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-04-14T10:40:27+00:00`
-- checked_at: `2026-04-14T10:40:27+00:00`
-- etag: `"10b19a-64f67fe591469"`
-- last_modified: `Tue, 14 Apr 2026 09:12:07 GMT`
+- fetched_at: `2026-04-20T14:10:48+00:00`
+- checked_at: `2026-04-20T14:10:48+00:00`
+- etag: `"10bede-64fe4b55e776c"`
+- last_modified: `Mon, 20 Apr 2026 13:59:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-04-14T10:40:27+00:00",
+  "fetched_at": "2026-04-20T14:10:48+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6ce8b5350c7eb12d3db9df3873a2974aafdf2a41",
+      "title": "Yorkshire Puddings on a Plane - S21, Ep.2",
+      "published_at": "2026-04-20T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "We're back for some more series 21! And in this episode Jenny and Jack discuss Kumail Nanjiani's back, Amy Gledhill's art frames, Armando Iannucci’s version of Munch’s The Scream , Joanna Page's mum and Joel Dommett's lack of regrets, among other things. Plus, was Alex Horne afraid in the skittles task? Also, The Andy's write in to clarify something about Joel's egg, and a listener makes some informed guesses about future [Oscar-winning] casts. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/a2e6afec-aaa2-49f4-9c1c-5dfbd2b60e22.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=a2e6afec-aaa2-49f4-9c1c-5dfbd2b60e22",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69236717",
+      "itunes_duration": "01:08:51",
+      "speakers": [
+        "Yorkshire Puddings",
+        "Kumail Nanjiani",
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "yorkshire",
+        "puddings",
+        "plane"
+      ]
+    },
     {
       "key": "a8c94cf6d8a888f4fd8fe8385113342c576d16fb",
       "title": "Happy New Series Day! - S21, Ep. 1",
@@ -4431,6 +4454,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — Yorkshire Puddings on a Plane - S21, Ep.2 — speakers: Yorkshire Puddings, Kumail Nanjiani, Jenny Eclair, Jack Bernhardt
 - 2026-04-13 — Happy New Series Day! - S21, Ep. 1 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-04-06 — SERIES 21 STATS EXPLOSION — speakers: Amy Gledhill, Armando Iannucci, Joanna Page, Jenny Eclair, Jack Bernhardt
 - 2026-03-30 — Yoghurt's Not a Meal - S3, Ep. 3 — speakers: Jenny Eclair, Jack Bernhardt

@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-19T07:45:48+00:00`
-- checked_at: `2026-04-19T07:45:48+00:00`
-- etag: `"djEuMi4wOjE3NzY1NzQ4Mzk0NDk="`
+- fetched_at: `2026-04-20T14:10:48+00:00`
+- checked_at: `2026-04-20T14:10:48+00:00`
+- etag: `"djEuMi4wOjE3NzY2ODY0NjA4MDY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,32 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-19T07:45:48+00:00",
+  "fetched_at": "2026-04-20T14:10:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a7f087e0b5ad56b2bb78cbcad3a177e09c9adc19",
+      "title": "Is Keir Starmer about to resign?",
+      "published_at": "2026-04-20T12:01:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69e61569d2febdbec98c71da",
+      "description": "The latest Peter Mandelson revelations are still looming large over the Prime Minister despite the sacking of Olly Robins, and Starmer maintains that he wasn't told until Tuesday that Mandelson wasn't granted the highest level of clearance. Ava, Seán, and Andy unpack the discourse. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69e61569d2febdbec98c71da/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71975558",
+      "itunes_duration": "49:58",
+      "speakers": [
+        "Peter Mandelson"
+      ],
+      "topics": [
+        "keir",
+        "starmer"
+      ]
+    },
     {
       "key": "14034b7197b521d4c302c6921632a35da656202a",
       "title": "Holocaust Survivor eviscerates Israel, Netanyahu, and the far-right | Stephen Kapos interview",
@@ -12591,6 +12610,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — Is Keir Starmer about to resign? — speakers: Peter Mandelson
 - 2026-04-19 — Holocaust Survivor eviscerates Israel, Netanyahu, and the far-right | Stephen Kapos interview — speakers: Stephen Kapos
 - 2026-04-16 — Military experts break down if UK is ready for war — speakers: Adam Thomson
 - 2026-04-15 — Keir Starmer slammed over grim Defence spending "complacency" | PMQs reaction

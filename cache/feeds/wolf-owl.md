@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-04-17T13:58:40+00:00`
-- checked_at: `2026-04-17T13:58:40+00:00`
-- last_modified: `Fri, 17 Apr 2026 11:08:32 GMT`
+- fetched_at: `2026-04-20T14:10:48+00:00`
+- checked_at: `2026-04-20T14:10:48+00:00`
+- last_modified: `Mon, 20 Apr 2026 13:03:50 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-17T13:58:40+00:00",
+  "fetched_at": "2026-04-20T14:10:48+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -6474,9 +6474,9 @@
       "title": "Episode 3",
       "published_at": "2020-12-09T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode3",
-      "description": "We’re talking… lookalikes, pub lunches, flatmate quandaries and scriptwriting advice. Oh, and some more on Christmas trees too. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… lookalikes, pub lunches, flatmate quandaries and scriptwriting advice. Oh, and some more on Christmas trees too. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/9fd855ba-4831-11ed-b685-83fba7466e24/image/611fbb2615a1aa001297f461.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1474404685.mp3?updated=1707777910",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1474404685.mp3?updated=1776686786",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3801",
@@ -6491,12 +6491,12 @@
       "title": "Episode 2",
       "published_at": "2020-12-02T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode2",
-      "description": "We’re talking… Christmas trees, premature mid-life crises, life before mobile phones, and chat-up disasters. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Christmas trees, premature mid-life crises, life before mobile phones, and chat-up disasters. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/a0350396-4831-11ed-b685-df00f0893194/image/611fbb2615a1aa001297f468.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8552562062.mp3?updated=1704712073",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8552562062.mp3?updated=1776683993",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3500",
+      "itunes_duration": "3499",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -6508,12 +6508,12 @@
       "title": "Episode 1",
       "published_at": "2020-11-25T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode1",
-      "description": "Here it is - our first show! We’re talking… hats, early starts, annoying colleagues and cramming for exams. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a08e3a56-4831-11ed-b685-f7fc385c42d6/image/611fbb2615a1aa001297f46f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5362216982.mp3?updated=1704712010",
+      "description": "Here it is - our first show! We’re talking… hats, early starts, annoying colleagues and cramming for exams. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5362216982.mp3?updated=1776683228",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3074",
+      "itunes_duration": "3072",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
