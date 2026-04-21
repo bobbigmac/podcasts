@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-04-16T10:41:13+00:00`
-- checked_at: `2026-04-16T10:41:13+00:00`
-- etag: `"dac663b76c1ea98048ac5b3cc6eba6d0"`
-- last_modified: `Thu, 16 Apr 2026 08:36:05 GMT`
+- fetched_at: `2026-04-21T14:08:59+00:00`
+- checked_at: `2026-04-21T14:08:59+00:00`
+- etag: `"a5425b35afd5ac1c0ac4f58f70995963"`
+- last_modified: `Tue, 21 Apr 2026 13:10:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-04-16T10:41:13+00:00",
+  "fetched_at": "2026-04-21T14:08:59+00:00",
   "owners": [
     "Marc Gunn"
   ],

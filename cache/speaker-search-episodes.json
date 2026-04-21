@@ -4167,6 +4167,28 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:9d0c510b2ad9",
+        "feed_title": "Babak and Ray Have Nothing To Say",
+        "source_rss_url": "https://feeds.redcircle.com/fb999caa-5d97-4fbf-a972-c78aa2e57117",
+        "dedupe_key": "d69a76546fe3c55411e78a3691ab41d44da65ada",
+        "episode_key": "d69a76546fe3c55411e78a3691ab41d44da65ada",
+        "title": "Ed Gamble // 1 PM",
+        "published_at": "2026-04-20T12:00:29Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian Ed Gamble is the 1pm guest.",
+        "audio_url": "https://audio4.redcircle.com/episodes/23886831-acd7-4eb4-902e-dbe7f5482a75/stream.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ed-gamble-1-pm/id1867490943?i=1000762390996&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:94236977612e",
         "feed_title": "Distraction Pieces Podcast with Scroobius Pip",
         "source_rss_url": "https://feeds.acast.com/public/shows/ad4e2f12-9862-4cf6-b6af-3ae392c45fad",

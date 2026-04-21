@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-04-21T08:07:58+00:00`
-- checked_at: `2026-04-21T08:07:58+00:00`
-- etag: `W/"2a1e8-Mflao/t1dOx+rRoMKXpAfhNHbns"`
+- fetched_at: `2026-04-21T14:08:59+00:00`
+- checked_at: `2026-04-21T14:08:59+00:00`
+- etag: `W/"2a770-rZ5nSZOCNUdiW2RsIwSox3BoHnk"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,38 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-04-21T08:07:58+00:00",
+  "fetched_at": "2026-04-21T14:08:59+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "1a517a659f437efd0774af60c75f575dacb0125b",
+      "title": "Complete James Acaster's Classic Scrapes | Josh Widdicombe XFM Podcast",
+      "published_at": "2026-04-20T20:01:34+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Complete-James-Acasters-Classic-Scrapes--Josh-Widdicombe-XFM-Podcast-e3i6n3k",
+      "description": "The complete James Acaster's Classic Scrapes stories from the Josh Widdicombe XFM podcast which originally aired from February 2013 to July 2015. Enjoy! :)",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1776715025045-f0f9184ac79ac.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118757940/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-20%2F8cfe56ff-1bab-03f5-fa0b-576d9b864e43.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "371712455",
+      "itunes_duration": "06:27:11",
+      "speakers": [
+        "James Acaster"
+      ],
+      "topics": [
+        "complete",
+        "james",
+        "acaster",
+        "classic",
+        "scrapes",
+        "josh",
+        "widdicombe",
+        "podcast"
+      ]
+    },
     {
       "key": "15292b37e27d1ca75d71062230cd1dd6214298aa",
       "title": "BetaBet The Complete Collection - Elis James and John Robins",
@@ -3040,6 +3065,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — Complete James Acaster's Classic Scrapes | Josh Widdicombe XFM Podcast — speakers: James Acaster
 - 2026-04-19 — BetaBet The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-04-16 — John's Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-04-15 — Elis' Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins, Elis James
