@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-04-13T16:38:19+00:00`
-- checked_at: `2026-04-13T16:38:19+00:00`
-- etag: `"djEuMi4wOjE3NzYwOTIwMDI5ODA="`
+- fetched_at: `2026-04-21T10:43:56+00:00`
+- checked_at: `2026-04-21T10:43:56+00:00`
+- etag: `"djEuMi4wOjE3NzY3NTk4NDUwNDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-04-13T16:38:19+00:00",
+  "fetched_at": "2026-04-21T10:43:56+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "115c596f8665a86723c7355809010e870d78fb50",
+      "title": "Non-Consensual Filming Fallout",
+      "published_at": "2026-04-21T08:24:04+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/non-consensual-filming-fallout",
+      "description": "This week, Katherine's Telling Everybody Everything about how 'nice guys' flooded the comments of last week's listener letter post regarding her husband placing hidden cameras in her bedroom and feeling a weekly entitlement to her body. This episode is dedicated to those men and 'lifting them up' as they continue to baffle us with their stupidity whoops we've done it again there. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1776759353361-0f6083ec-f775-4078-8c8e-940e0c378086.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/69e73424289eeb2c7b3dd94f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68555464",
+      "itunes_duration": "47:36",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "consensual",
+        "filming",
+        "fallout"
+      ]
+    },
     {
       "key": "0de1adbae8412c0da70d44c23251341e4457925b",
       "title": "He Put Hidden Cameras In My Bedroom",
@@ -6071,6 +6092,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — Non-Consensual Filming Fallout — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-04-13 — He Put Hidden Cameras In My Bedroom — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-04-07 — Bobby K Reacts to Moon Mission — speakers: Katherine Ryan
 - 2026-03-30 — RIP Manny Ryan — speakers: Rip Manny Ryan, Katherine Ryan

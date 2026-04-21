@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-04-20T19:33:23+00:00`
-- checked_at: `2026-04-20T19:33:23+00:00`
-- last_modified: `Mon, 20 Apr 2026 16:42:42 GMT`
+- fetched_at: `2026-04-21T10:43:56+00:00`
+- checked_at: `2026-04-21T10:43:56+00:00`
+- last_modified: `Tue, 21 Apr 2026 08:22:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-20T19:33:23+00:00",
+  "fetched_at": "2026-04-21T10:43:56+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3ac3395a17e68c6eb83586b894fae5d7db7d012c",
+      "title": "Harry Styles, Chocolate Cake and the World Cup",
+      "published_at": "2026-04-21T08:22:00+00:00",
+      "link": null,
+      "description": "What would Tom prefer to watch over the World Cup final? Why didn’t Romesh get Oasis tickets and what is Tom’s favourite One Direction song? All of this and more burning questions answered like how does Tom like his eggs and will Romesh ever eat an egg again??? Two guys, no preparation, this is the Wolf & Owl! Send your questions, pictures and videos to wolfowlpod@gmail.com for the chance to be featured in an upcoming episode and don’t forget to like and subscribe! A Ranga Bee Production in partnership with Platform Media. Chapters : 00:00 Intro 3:30 Analytics and CEOs 7:01 Chocolate cake and eggs 11:58 World Cup finals 14:49 Oasis and Bruno Mars 16:56 One Direction 20:36 Theatre 22:01 Bill Burr and roasting 31:08 Brunch at Tom’s 38:18 Flying high Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/af8da618-3ccf-11f1-acc0-6be85278521a/image/5a9b62a01adc5f0d39217f26fc31d38f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6873784716.mp3?updated=1776760059",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2577",
+      "speakers": [
+        "Harry Styles",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "harry",
+        "styles",
+        "chocolate",
+        "cake",
+        "world"
+      ]
+    },
     {
       "key": "78d07db1831667b4ecdcdb5210fa0b2fe43cc503",
       "title": "Bedroom Feedback, Gary Neville and Sleep Routines",
@@ -6547,6 +6571,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — Harry Styles, Chocolate Cake and the World Cup — speakers: Harry Styles, Romesh Ranganathan, Tom Davis
 - 2026-04-16 — Bedroom Feedback, Gary Neville and Sleep Routines — speakers: Bedroom Feedback, Gary Neville, Ian Botham, Gary Nevil, Romesh Ranganathan, Tom Davis
 - 2026-04-13 — Ninja Turtles, Dirty Underwear and Spicy Sausage — speakers: Romesh Ranganathan, Tom Davis
 - 2026-04-09 — André The Giant, Tom’s Man Room and Rom the Sex Symbol — speakers: Tom’s Man Room, Romesh Ranganathan, Tom Davis
