@@ -18683,6 +18683,50 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:62eaefbd161c",
+        "feed_title": "101 Part Time Jobs with Giles Bidder",
+        "source_rss_url": "https://feeds.megaphone.fm/AUDD4038251652",
+        "dedupe_key": "8c8c5b950981f7f6164ec53569fc658b3e191e36",
+        "episode_key": "8c8c5b950981f7f6164ec53569fc658b3e191e36",
+        "title": "Stewart Lee - \"I left comedy for five years and started again\"",
+        "published_at": "2026-04-21T10:45:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stewart Lee joins on the non-affordability of bands today, alternative comedy and the different classes of comedians, losing money on tour, his old band and fighting facism dressed as a man-wulf. STEWART LEE vs THE MAN-WULF continues to tour throughout 2026, ending at Leicester Square Theatre in December.  Tickets: www",
+        "audio_url": "https://traffic.megaphone.fm/GBL1798161912.mp3?updated=1776771336",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee-i-left-comedy-for-five-years-and-started-again/id1269106709?i=1000762734114&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:0ca1d54dc195",
+        "feed_title": "White Wine Question Time",
+        "source_rss_url": "https://feeds.acast.com/public/shows/acaaaf98-69c1-4a94-b843-5ea7e3892f66",
+        "dedupe_key": "cb5925638f4ddda3601e3160c16f4b8733062941",
+        "episode_key": "cb5925638f4ddda3601e3160c16f4b8733062941",
+        "title": "APRIL FOOLS: Stewart Lee",
+        "published_at": "2026-04-21T01:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome to White Wine Question Time, where on Tuesdays we dust off some of our very best episodes from the cellar.\nThis month it's all about our favourite April Fools - the very best funny women and men we've raised a glass with. You'll hear from Joe Lycett, Katharine Ryan, Stewart Lee (this episode), and Ellie Taylor ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/wwqt/e/69dcd65e715b7d1039cbdae3/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/april-fools-stewart-lee/id1447646731?i=1000762494577&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:0ca1d54dc195",
         "feed_title": "White Wine Question Time",
         "source_rss_url": "https://feeds.acast.com/public/shows/acaaaf98-69c1-4a94-b843-5ea7e3892f66",
@@ -22705,6 +22749,28 @@
       }
     ],
     "mike-wozniak": [
+      {
+        "feed_slug": "external:apple:f4add41b198d",
+        "feed_title": "Beef And Dairy Network",
+        "source_rss_url": "https://feeds.simplecast.com/4NOSW3hj",
+        "dedupe_key": "b2495fd030b8e07b93172f5f434a60f0826e6c35",
+        "episode_key": "b2495fd030b8e07b93172f5f434a60f0826e6c35",
+        "title": "Episode 133 - The Darleigh Spring Fayre",
+        "published_at": "2026-04-21T00:39:48Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's MaxFunDrive! To support the show, go to maximumfun.org/join\n\nMike Shephard, Freya Parker, Mike Wozniak, Sammy Dobson and Linnea Sage join in this week as we learn all about the Darleigh Spring Fayre, which this year celebrated its 600th anniversary.\n\nStock media provided by Setuniman/Pond5.com and Soundrangers/Pon",
+        "audio_url": "https://mgln.ai/e/31/claritaspod.com/measure/afp-9384.calisto.simplecastaudio.com/e92a01ab-5b37-4cfb-95ba-46364813a9d2/episodes/9f0db5cd-587b-4a51-84f4-eb6aedc089cd/audio/128/default.mp3?aid=rss_feed&awCollectionId=e92a01ab-5b37-4cfb-95ba-46364813a9d2&awEpisodeId=9f0db5cd-587b-4a51-84f4-eb6aedc089cd&feed=4NOSW3hj",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-133-the-darleigh-spring-fayre/id1022024768?i=1000762491534&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Mike Wozniak"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:07db89d5fa64",
         "feed_title": "Saturday Live",
