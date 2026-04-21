@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-04-20T08:27:17+00:00`
-- checked_at: `2026-04-20T08:27:17+00:00`
-- etag: `"c9a0145f057808e113932726580dbd04"`
-- last_modified: `Mon, 20 Apr 2026 04:00:06 GMT`
+- fetched_at: `2026-04-21T08:07:58+00:00`
+- checked_at: `2026-04-21T08:07:58+00:00`
+- etag: `"ef012f3d7a2e20a9099f07096a8cabc4"`
+- last_modified: `Tue, 21 Apr 2026 05:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-04-20T08:27:17+00:00",
+  "fetched_at": "2026-04-21T08:07:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -969,24 +969,6 @@
         "talks",
         "life"
       ]
-    },
-    {
-      "key": "07e0583dd240fc594153901d649f2fa45f566ac9",
-      "title": "The Skewer",
-      "published_at": "2025-04-21T05:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0l4y8fz",
-      "description": "Jon Holmes remixes the news into a current affairs comedy concept album. News meets popular culture in a multi-award-winning mash up. This week: Charlie XCX is bumpin' that with Donald Trump, Minecraft Movie vs Russia, and Starmer: Man of Steel. Producer: Jon Holmes An unusual production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l4y825.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14560000",
-      "itunes_duration": "910",
-      "speakers": [
-        "Jon Holmes"
-      ],
-      "topics": [
-        "skewer"
-      ]
     }
   ]
 }
@@ -1044,4 +1026,3 @@
 - 2025-05-12 — Kiri Pritchard-McLean: Tough Crowd — speakers: Kiri Pritchard-McLean
 - 2025-05-05 — Michael Spicer: No Room — speakers: Michael Spicer
 - 2025-04-28 — Mark Watson Talks a Bit About Life — speakers: Mark Watson Talks, Mark Watson
-- 2025-04-21 — The Skewer — speakers: Jon Holmes

@@ -30847,6 +30847,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:456a89172dbd",
+        "feed_title": "The Ageless Warrior Lab",
+        "source_rss_url": "https://rss.buzzsprout.com/2501023.rss",
+        "dedupe_key": "e3a3e159934fb33369ae0b7079fab8b90101502c",
+        "episode_key": "e3a3e159934fb33369ae0b7079fab8b90101502c",
+        "title": "David Mitchell on No-Gi BJJ, Ankle Locks & Balancing a Career with Elite Competition | Ep. 27",
+        "published_at": "2026-02-03T20:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode, I sit down with David Mitchell, a BJJ black belt and one of the most dangerous submission artists in Masters competition today. David is ranked #1 in the world for Master 2 No-Gi by IBJJF, has won around 85% of his matches with a 90% submission rate, and recently released his instructional \"Ankle Locks",
+        "audio_url": "https://www.buzzsprout.com/2501023/episodes/18614162-david-mitchell-on-no-gi-bjj-ankle-locks-balancing-a-career-with-elite-competition-ep-27.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-on-no-gi-bjj-ankle-locks-balancing-a/id1840239491?i=1000747915240&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:2a4dadfe68e3",
         "feed_title": "RealTalk MS",
         "source_rss_url": "https://rss.libsyn.com/shows/105901/destinations/570470.xml",
