@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-04-20T22:02:51+00:00`
-- checked_at: `2026-04-20T22:02:51+00:00`
-- last_modified: `Mon, 20 Apr 2026 21:34:56 GMT`
+- fetched_at: `2026-04-21T03:46:03+00:00`
+- checked_at: `2026-04-21T03:46:03+00:00`
+- last_modified: `Mon, 20 Apr 2026 23:15:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-20T22:02:51+00:00",
+  "fetched_at": "2026-04-21T03:46:03+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "21370b1c197d7c25370418d361cbd89decc2e403",
+      "title": "Rupert Murdoch Is A Messy Bitch",
+      "published_at": "2026-04-20T23:05:00+00:00",
+      "link": null,
+      "description": "Internet personalities Alex Cooper and Alix Earle are feuding - but why might this be a good thing for both of them? Will the new Michael Jackson film be a hit, and should you go and see it? And is nonagenarian Rupert Murdoch a messy bitch? The drama between podcast mogul Alex Cooper and influencer Alix Earle has set social media alight - but is it all a PR stunt? And what are the economics behind celebrity feuds? The Michael Jackson biopic is set for a record opening. Richard Osman and Marina Hyde assess the morality of the Jackson estate. Made in Chelsea cast member Binky Felstead has ignited a row over influencer freebies after she asked for a complimentary birthday cake from a London bakery. Are influencers becoming the UK's most hated profession? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Adam Thornton & James Clayden Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Neil Fearn Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7452239728.mp3?updated=1776719851",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3119",
+      "speakers": [
+        "Alex Cooper",
+        "Alix Earle",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "rupert",
+        "murdoch",
+        "messy",
+        "bitch"
+      ]
+    },
     {
       "key": "2f9f073a33d0c162a8860002c73859ac4b9a38ad",
       "title": "The Pop Culture Moment That Broke Our Hearts",
@@ -5616,6 +5640,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-20 — Rupert Murdoch Is A Messy Bitch — speakers: Alex Cooper, Alix Earle, Richard Osman, Marina Hyde
 - 2026-04-15 — The Pop Culture Moment That Broke Our Hearts — speakers: Martin Lewis, Richard Osman, Marina Hyde
 - 2026-04-13 — Euphoria: Exploitation or Empowerment? — speakers: Sam Altman, Richard Osman, Marina Hyde
 - 2026-04-08 — The Toughest Job In Entertainment — speakers: Entertainment How, Richard Osman, Marina Hyde

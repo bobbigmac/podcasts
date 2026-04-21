@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-20T19:33:23+00:00`
-- checked_at: `2026-04-20T19:33:23+00:00`
-- etag: `"djEuMi4wOjE3NzY3MTE4MTE1NDU="`
+- fetched_at: `2026-04-21T03:46:03+00:00`
+- checked_at: `2026-04-21T03:46:03+00:00`
+- etag: `"djEuMi4wOjE3NzY3NDAyNTkyNDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-20T19:33:23+00:00",
+  "fetched_at": "2026-04-21T03:46:03+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "50e43f2b893ac7acc46d1c34e24a66323d882086",
+      "title": "RAACN week 12",
+      "published_at": "2026-04-21T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Monday 13th April 2026 Lord of the Dance - Donald Trump has declared himself the new Jesus, which is totally normal. But is he the real one? And who will challenge him on this? And why weren’t religious people annoyed about him before? You con’t get this on the grown-up news Tuesday 14th April 2026 - Who Doctor?- Sometimes on a fast moving show like Newsround we get it wrong. Today we make a sincere apology to anyone we have offended. It looks like tomorrow we might have to do more sincere apologies. But more up to the date news that you won’t see in the lamestream media. Wednesday 15th April 2026 - Tomb of Christ - Rich and Ally are back with an exclusive news story for everyone but mechanics, and a live report from the discovery of the tomb of our Lord Jesus Christ. Is he in there or not? Our reporter will tell you, but which reporter will it be today? Thursday 16th April 2026 - Beautiful Butterfly - Rich auditions for Saturday Night Live, but Ally is more interested in the revenge of Jesus in a very heavy Trump/Jesus week. Not too many songs if you don’t like that bit. Why would you only not like that bit, you idiot? Friday 17th April 2026 - Keir - back with all the genital based news from Apple News and definitely recorded today, rich and Ally discuss the nick name the Iranians have for our PM for an unheralded 5th Newsround of the week! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1776676761519-5a314f26-38c9-432f-97fc-0c6db8ffd575.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69e5f05266c3374f7e91b263/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32746247",
+      "itunes_duration": "1:08:12",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "raacn",
+        "week"
+      ]
+    },
     {
       "key": "c634dfd03d531c5d5244d44996665c412d9724b3",
       "title": "Retro RHLSTP 140 - Nish Kumar",
@@ -22091,6 +22110,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — RAACN week 12 — speakers: Richard Herring
 - 2026-04-20 — Retro RHLSTP 140 - Nish Kumar — speakers: Nish Kumar, Big Nick, Leicester Comedy Festival, Richard Herring
 - 2026-04-17 — RHLSTP Bonus 3 — speakers: Richard Herring
 - 2026-04-15 — RHLSTP Book Club 176 - Emma Jane Unsworth — speakers: Emma Jane Unsworth, Richard Herring

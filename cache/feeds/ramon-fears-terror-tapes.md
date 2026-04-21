@@ -2,9 +2,9 @@
 
 - slug: `ramon-fears-terror-tapes`
 - source: `https://feeds.acast.com/public/shows/65301134633a050012b657b7`
-- fetched_at: `2026-04-20T03:51:57+00:00`
-- checked_at: `2026-04-20T03:51:57+00:00`
-- etag: `"djEuMi4wOjE3NzY2NDY4Mzk0ODM="`
+- fetched_at: `2026-04-21T03:46:03+00:00`
+- checked_at: `2026-04-21T03:46:03+00:00`
+- etag: `"djEuMi4wOjE3NzY3MzMyMzk1MTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.ramonfear.com/episodes/",
   "description": "7x finalist at the Independent Podcast Awards 2024 | A completely original horror-comedy anthology podcast. Inspired by horror across the whole spooky spectrum. With an ounce of Argento, a quart of Carpenter and a heft of Hitchcock, witness tales of everyday terror presented by your nefarious narrator, that horrible host, that evil escort, RAMON FEAR. You'll never be the same again... once you put the Fear in your ear! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65301134633a050012b657b7/show-cover.png",
-  "fetched_at": "2026-04-20T03:51:57+00:00",
+  "fetched_at": "2026-04-21T03:46:03+00:00",
   "owners": [
     "Ramon Fear"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "44f0b92c0ff06f1013028eccf30781ea0b92b483",
+      "title": "SPRING FORWARD, EPISODE 2: FEBRUARY",
+      "published_at": "2026-04-21T01:00:00+00:00",
+      "link": "https://shows.acast.com/ramon-fear-terror-tapes/episodes/spring-forward-episode-2-february",
+      "description": "In a first for the House of Fear, we present a story told in four parts over four days. Follow the nostalgic diary entries of one egotistical children's entertainer turned author and his encounter with a mysterious entity who offers him fame and fortune. But what goes up, must always come down. And what springs forward must always, eventually, fall back... Our second set of diary entries takes us through the month of February in the year 2000. Ramon has more Terror Tapes to dig up and show you. Keep updated with us at @terrortapespod, share the episodes with friends and fiends and leave us a review on your preferred podcast app. And if you've done all of that and still want to support us in making the show then please consider donating ! Starring: Ramon Fear as Himself Sam Thomas as David Brand Alex Lynch as The Langridges Rep Odinn Orn Hilmarsson as The Announcer Written by Alex Lynch and Sam Thomas Editing by Alex Lynch and Odinn Orn Hilmarsson Music and Sound by Odinn Orn Hilmarsson Meat Wrangling by Sam Thomas Mixing by Odinn Orn Hilmarsson Directed by House Of Fear Ramon Fear’s Terror Tapes is an original horror-comedy anthology podcast. Visit the website RamonFear.com to find out more If you want to follow us, we are @TerrorTapesPod on practically all socials or you can visit our LinkTree here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65301134633a050012b657b7/1776636986060-eed1f3ca-2ef7-44d5-ba7a-2705d658a280.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65301134633a050012b657b7/e/69e4d240d2febdbec94316e1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19920960",
+      "itunes_duration": "8:17",
+      "speakers": [
+        "Ramon Fear"
+      ],
+      "topics": [
+        "spring",
+        "forward",
+        "february"
+      ]
+    },
     {
       "key": "6a90e4aacae38e763c6bac811f5a73c2ec2afc7a",
       "title": "SPRING FORWARD, EPISODE 1: JANUARY",
@@ -943,6 +963,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — SPRING FORWARD, EPISODE 2: FEBRUARY — speakers: Ramon Fear
 - 2026-04-20 — SPRING FORWARD, EPISODE 1: JANUARY — speakers: Ramon Fear
 - 2025-12-23 — THAW OF THE WORLDS - An Ice Cold Christmas Chiller — speakers: Ramon Fear
 - 2025-10-27 — SPECIAL EPISODE: THE PHANTOM THEREMIN — speakers: Ramon Fear
