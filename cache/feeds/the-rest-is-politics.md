@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-04-18T03:30:11+00:00`
-- checked_at: `2026-04-18T03:30:11+00:00`
-- last_modified: `Sat, 18 Apr 2026 03:20:28 GMT`
+- fetched_at: `2026-04-21T16:20:27+00:00`
+- checked_at: `2026-04-21T16:20:27+00:00`
+- last_modified: `Tue, 21 Apr 2026 16:14:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-18T03:30:11+00:00",
+  "fetched_at": "2026-04-21T16:20:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "b3e5f56f1d57c499453108aec79a39ea68fd5075",
+      "title": "524. Starmer’s Mandelson Mess and the Iranian Nuclear Threat",
+      "published_at": "2026-04-21T16:02:00+00:00",
+      "link": null,
+      "description": "Did Starmer show a fatal lack of judgement and curiosity about Peter Mandelson’s suitability for public office? How and why did Trump destroy years of successful Iranian nuclear ‘containment’ policy? Four years into the Sudan war, what does the failure of peace efforts reveal about the unravelling of the world order? Join Rory and Alastair as they answer all these questions and more. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b181b938-3d9b-11f1-914c-eb6a6c44fc0a/image/b8906de3f4ca6856df1993e27bb46973.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3736443991.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3006",
+      "speakers": [
+        "Peter Mandelson"
+      ],
+      "topics": [
+        "starmer",
+        "mandelson",
+        "mess",
+        "nuclear",
+        "threat"
+      ]
+    },
     {
       "key": "ccea18ab55a404849e78783a3ac1cdd15cdd3b23",
       "title": "523. The Starmer-Mandelson Scandal: Lying or Incompetence?",
@@ -11635,6 +11657,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — 524. Starmer’s Mandelson Mess and the Iranian Nuclear Threat — speakers: Peter Mandelson
 - 2026-04-17 — 523. The Starmer-Mandelson Scandal: Lying or Incompetence? — speakers: Can Starmer
 - 2026-04-16 — Beating Populism: How To Fight Back — speakers: Beating Populism
 - 2026-04-15 — 522. Has Hungary Shown Britain How to Beat Farage? (Question Time) — speakers: Beat Farage, Question Time

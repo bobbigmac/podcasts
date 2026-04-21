@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-20T14:10:48+00:00`
-- checked_at: `2026-04-20T14:10:48+00:00`
-- etag: `"djEuMi4wOjE3NzY2ODY0NjA4MDY="`
+- fetched_at: `2026-04-21T16:20:27+00:00`
+- checked_at: `2026-04-21T16:20:27+00:00`
+- etag: `"djEuMi4wOjE3NzY3ODcwMTk2OTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-20T14:10:48+00:00",
+  "fetched_at": "2026-04-21T16:20:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "70b222153c2026b2ec123d8d352a339aa218221d",
+      "title": "Civil Servant ends Keir Starmer in Select Committee",
+      "published_at": "2026-04-21T15:56:59+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69e790e96eeb59e2baa89b25",
+      "description": "The recently sacked Olly Robbins was called before the Foreign Affairs Select Committee this morning where he outlined what he knew and when during the appointment of Peter Mandelson to Washington. Ava and Andy spell out what his answers mean for the Prime Minister and his chances of hanging on. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69e790e96eeb59e2baa89b25/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59639366",
+      "itunes_duration": "41:24",
+      "speakers": [
+        "Civil Servant",
+        "Olly Robbins"
+      ],
+      "topics": [
+        "servant",
+        "keir",
+        "starmer",
+        "select",
+        "committee"
+      ]
+    },
     {
       "key": "a7f087e0b5ad56b2bb78cbcad3a177e09c9adc19",
       "title": "Is Keir Starmer about to resign?",
@@ -12610,6 +12633,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — Civil Servant ends Keir Starmer in Select Committee — speakers: Civil Servant, Olly Robbins
 - 2026-04-20 — Is Keir Starmer about to resign? — speakers: Peter Mandelson
 - 2026-04-19 — Holocaust Survivor eviscerates Israel, Netanyahu, and the far-right | Stephen Kapos interview — speakers: Stephen Kapos
 - 2026-04-16 — Military experts break down if UK is ready for war — speakers: Adam Thomson

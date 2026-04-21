@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-04-08T19:40:45+00:00`
-- checked_at: `2026-04-08T19:40:45+00:00`
-- etag: `W/"55e9c079ac9cdaa2b38e50e0365cc8ba"`
-- last_modified: `Wed, 08 Apr 2026 16:26:41 GMT`
+- fetched_at: `2026-04-21T16:20:27+00:00`
+- checked_at: `2026-04-21T16:20:27+00:00`
+- etag: `W/"da0e4d72f05b3829584324bcf3d41827"`
+- last_modified: `Tue, 21 Apr 2026 16:08:17 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-04-08T19:40:45+00:00",
+  "fetched_at": "2026-04-21T16:20:27+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,28 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "98101a433769ec1467cfff28e7c22c0f0334e564",
+      "title": "172: A Kicking For Keir",
+      "published_at": "2026-04-21T16:04:59+00:00",
+      "link": "https://audioboom.com/posts/8893478",
+      "description": "Who wants to give Keir Starmer a kicking? Basically everyone. Rotten Boroughs editor Saba Salman joins Helen Lewis, Ian Hislop and Adam Macqueen to explain how British politics has fractured and how May's elections will be a total bunfight. Plus: how did Elizabeth II become Brenda, and what nicknames for Harry and Meghan never took off?",
+      "image_url": "https://audioboom.com/i/43607324/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8893478.mp3?modified=1776787703&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2478",
+      "speakers": [
+        "Rotten Boroughs",
+        "Saba Salman",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "kicking",
+        "keir"
+      ]
+    },
     {
       "key": "c7b16deb1b405a877462d9491081952887308381",
       "title": "171: Meta's Not Better",
@@ -3653,6 +3675,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — 172: A Kicking For Keir — speakers: Rotten Boroughs, Saba Salman, Andrew Hunter Murray, Ian Hislop
 - 2026-04-08 — 171: Meta's Not Better — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-03-24 — 170: Mad King Donald — speakers: Donald Ian, Richard Brooks, Andrew Hunter Murray, Ian Hislop
 - 2026-03-10 — 169: War On Iran: Aya-Tollad You So — speakers: Andrew Hunter Murray, Ian Hislop

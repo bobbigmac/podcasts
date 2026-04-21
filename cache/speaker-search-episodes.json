@@ -30268,6 +30268,29 @@
     ],
     "jack-dee": [
       {
+        "feed_slug": "external:apple:d5a7e6acbb25",
+        "feed_title": "The Romesh Ranganathan Show",
+        "source_rss_url": "https://feeds.megaphone.fm/romesh",
+        "dedupe_key": "57a2949b6830ee537069102ace30b4d037779823",
+        "episode_key": "57a2949b6830ee537069102ace30b4d037779823",
+        "title": "Harry Hill: From Doctor To Comedian, TV Burp & Success in America",
+        "published_at": "2026-04-19T23:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "How does someone go from medicine to comedy?\n\n\n\nComedian Harry Hill joins Romesh Ranganathan for a funny and insightful conversation about stand-up, originality and staying relevant in comedy.\n\n\n\nHarry reflects on leaving a career in medicine to pursue his comedy dream, touring with Tim Vine, and how he developed his c",
+        "audio_url": "https://traffic.megaphone.fm/GLT4044926232.mp3?updated=1776463035",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harry-hill-from-doctor-to-comedian-tv-burp-success/id1838594107?i=1000762303943&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill",
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e3e516d0d8b6",
         "feed_title": "RED TALKS",
         "source_rss_url": "https://feeds.megaphone.fm/APL1280656580",
