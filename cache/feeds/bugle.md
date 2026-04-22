@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-04-22T14:09:07+00:00`
-- checked_at: `2026-04-22T14:09:07+00:00`
-- etag: `"djEuMi4wOjE3NzY4NjQxMTQxMDE="`
+- fetched_at: `2026-04-22T16:19:06+00:00`
+- checked_at: `2026-04-22T16:19:06+00:00`
+- etag: `"djEuMi4wOjE3NzY4Njk4NTIwMjc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-04-22T14:09:07+00:00",
+  "fetched_at": "2026-04-22T16:19:06+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "9e297e663de7e431a7af8a5eb9ed789d60c41cf0",
+      "title": "US Navy comes up short (and hungry)",
+      "published_at": "2026-04-22T13:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/us-navy-comes-up-short-and-hungry",
+      "description": "It's issue 4376! This week Andy is joined by Tiff Stevenson and Neil Delamere as the three jump into this week's news! Starting off with the ramifications of the war in Iran, the trio also discuss the state of US Navy's dining in the wake of reported food shortages, the planet burning up and the UK's Mandelson problem rumbles on! 🇺🇸 US Navy's short supply: The trio discuss the US Navy's food shortage and some ingenious ways of solving it! 🔥 The world's on fire!: The three jump into the latest news out of Japan, as the country prepare to hit a 40c summer. 🇬🇧 UK's Mandelson problem: Andy, Tiff and Neil report the latest on Starmer and his government as they continue to navigate the debacle. Andy's Links: https://www.andyzaltzman.co.uk/ Tiff Stevenson's Links: https://tiffstevenson.co.uk/ Neil Delamere's Links: https://www.neildelamere.com/reinventing-the-neil-tour 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/69e8ba4cc8a506316ddd0fae/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40763141",
+      "itunes_duration": "42:27",
+      "speakers": [
+        "Tiff Stevenson",
+        "Neil Delamere",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "navy"
+      ]
+    },
     {
       "key": "0d0182e3b01924989ee124a192828e31e5a99156",
       "title": "The Denial Episode",
@@ -14126,6 +14146,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — US Navy comes up short (and hungry) — speakers: Tiff Stevenson, Neil Delamere, Andy Zaltzman
 - 2026-04-15 — The Denial Episode — speakers: Sara Barron, Anuvab Pal, Andy Zaltzman
 - 2026-04-08 — This week's been rough! — speakers: Alice Fraser, Andy Zaltzman
 - 2026-04-01 — Unheard and Too Hot To Handle! — speakers: Andy Zaltzman

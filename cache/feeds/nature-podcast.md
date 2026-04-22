@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-04-17T13:58:40+00:00`
-- checked_at: `2026-04-17T13:58:40+00:00`
-- etag: `"djEuMi4wOjE3NzY0MzMxNjk3MjI="`
+- fetched_at: `2026-04-22T16:19:06+00:00`
+- checked_at: `2026-04-22T16:19:06+00:00`
+- etag: `"djEuMi4wOjE3NzY4NzAwMzk0MTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-04-17T13:58:40+00:00",
+  "fetched_at": "2026-04-22T16:19:06+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,30 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "d776927f90bd1dc1736a362326d454439bd47212",
+      "title": "Meet Ace, the table-tennis robot that can beat elite players",
+      "published_at": "2026-04-22T15:00:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01341-x",
+      "description": "In this episode: 00:45 The table-tennis robot that can mix it with the pros Research Article: Dürr et al. News and Views: Robot can beat elite players at table tennis Video: This robot can beat you at table tennis 14:13 Research Highlights Nature: Venus’s impenetrable haze could be made of cosmic dust Nature: Graves reveal plague’s inequitable toll 16:21 Why physicists can’t agree on the strength of Big G Nature: How big is Big G? Mystery deepens after ten-year effort to measure gravity’s strength Research Article: Schlamminger et al. Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69e8dda517df632b851c37b3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25141631",
+      "itunes_duration": "26:10",
+      "speakers": [
+        "Meet Ace",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "meet",
+        "table",
+        "tennis",
+        "robot",
+        "player"
+      ]
+    },
     {
       "key": "ad3ea824deb81b1837b616841adb6f8e1c66a0c9",
       "title": "Briefing Chat: Penguins pick up PFAS pollution",
@@ -19473,6 +19497,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — Meet Ace, the table-tennis robot that can beat elite players — speakers: Meet Ace, Benjamin Thompson, Noah Baker
 - 2026-04-17 — Briefing Chat: Penguins pick up PFAS pollution — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
 - 2026-04-15 — Giant cancer study reveals effectiveness of 'off label' treatments — speakers: Benjamin Thompson, Noah Baker
 - 2026-04-10 — Behind the scenes with Artemis II’s scientists during the historic Moon fly-by — speakers: Alexandra Witze, Benjamin Thompson, Noah Baker
