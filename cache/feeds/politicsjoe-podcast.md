@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-21T16:20:27+00:00`
-- checked_at: `2026-04-21T16:20:27+00:00`
-- etag: `"djEuMi4wOjE3NzY3ODcwMTk2OTQ="`
+- fetched_at: `2026-04-22T14:09:07+00:00`
+- checked_at: `2026-04-22T14:09:07+00:00`
+- etag: `"djEuMi4wOjE3NzY4NjEyMzA4ODI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-21T16:20:27+00:00",
+  "fetched_at": "2026-04-22T14:09:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "09bcbc7c85286d47826f5557e6194e2f79f7bf48",
+      "title": "Keir Starmer survives Mandelson fiasco, just | PMQs Analysis",
+      "published_at": "2026-04-22T12:33:50+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69e8c028abe143da5b8aa15c",
+      "description": "After bombshells were dropped in sacked civil servant Olly Robbins’ Select Committee appearance yesterday, Kemi Badenoch has kept up pressure on the Prime Minister as the Mandelson scandal grows. Laura and Andy react to the clash at the despatch box, and unpack what the ensuing discourse will mean for Starmer’s hopes of staying in post. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69e8c028abe143da5b8aa15c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31223558",
+      "itunes_duration": "21:40",
+      "speakers": [],
+      "topics": [
+        "keir",
+        "starmer",
+        "mandelson",
+        "fiasco",
+        "analysis"
+      ]
+    },
     {
       "key": "70b222153c2026b2ec123d8d352a339aa218221d",
       "title": "Civil Servant ends Keir Starmer in Select Committee",
@@ -12633,6 +12653,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — Keir Starmer survives Mandelson fiasco, just | PMQs Analysis
 - 2026-04-21 — Civil Servant ends Keir Starmer in Select Committee — speakers: Civil Servant, Olly Robbins
 - 2026-04-20 — Is Keir Starmer about to resign? — speakers: Peter Mandelson
 - 2026-04-19 — Holocaust Survivor eviscerates Israel, Netanyahu, and the far-right | Stephen Kapos interview — speakers: Stephen Kapos
