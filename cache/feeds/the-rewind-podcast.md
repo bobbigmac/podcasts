@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-04-22T10:42:43+00:00`
-- checked_at: `2026-04-22T10:42:43+00:00`
-- etag: `W/"163d7-F2ZaTI3uu29K6er89MyBbkHkCsg"`
+- fetched_at: `2026-04-22T22:04:49+00:00`
+- checked_at: `2026-04-22T22:04:49+00:00`
+- etag: `W/"15c34-Vrqjk+HaP38w/7fPfFl2+1VM5Ws"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-04-22T10:42:43+00:00",
+  "fetched_at": "2026-04-22T22:04:49+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,34 +28,6 @@
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "27dd821580709668f943ec43ca75114ad78197c0",
-      "title": "Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast",
-      "published_at": "2026-04-22T01:00:01+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Exit-8-Is-the-Rare-Video-Game-Movie-That-Understands-Video-Games--The-Rewind-Podcast-e3i90h0",
-      "description": "This week on The Rewind, Darren, Jack, and Marty chat about how Exit 8 fully embraces both of its mediums, reveals from CinemaCon, as well as everything else they've been watching. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠⁠",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/118833120/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-22%2F4a1d4049-f940-23cd-a5c9-8f7e844c9180.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "256677728",
-      "itunes_duration": "02:58:14",
-      "speakers": [
-        "Darren Mooney",
-        "Jack Packard",
-        "Marty Sliva"
-      ],
-      "topics": [
-        "exit",
-        "rare",
-        "video",
-        "game",
-        "movie",
-        "understands",
-        "games",
-        "rewind",
-        "podcast"
-      ]
-    },
     {
       "key": "ae4d53eadaabc65feca25ec797e86e9e695e858f",
       "title": "The Super Mario Galaxy Movie Super Show! | The Rewind Podcast",
@@ -1145,7 +1117,6 @@
 
 ## Episodes (newest first)
 
-- 2026-04-22 — Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-04-08 — The Super Mario Galaxy Movie Super Show! | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-03-25 — Project Hail Mary and Our Favorite Space Movies | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-03-11 — Chainsaw Man, Oscar Predictions, and the State of the Slasher | The Rewind Podcast — speakers: Chainsaw Man, Darren Mooney, Jack Packard, Marty Sliva

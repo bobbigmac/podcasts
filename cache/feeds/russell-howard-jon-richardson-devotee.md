@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-04-22T19:38:08+00:00`
-- checked_at: `2026-04-22T19:38:08+00:00`
-- etag: `W/"2aac5-QePvmVsZ0UHMqZv4AupZD2WE4b4"`
+- fetched_at: `2026-04-22T22:04:49+00:00`
+- checked_at: `2026-04-22T22:04:49+00:00`
+- etag: `W/"2a671-UYB60ixn+Xb2E6K6D1DTaLi1VgA"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,33 +17,13 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-04-22T19:38:08+00:00",
+  "fetched_at": "2026-04-22T22:04:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "caf33e384e5c41c1f90d80478f0650cf659b7aa7",
-      "title": "Best of James Acaster Podcast Fubar Radio",
-      "published_at": "2026-04-22T17:06:04+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Best-of-James-Acaster-Podcast-Fubar-Radio-e3ia2tg",
-      "description": "Best of James Acaster Podcast Fubar Radio",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1776877537802-13172ed4bb49e.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118868336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-22%2Fbb8705ed-95ff-0f1e-3863-be71d0ec60dc.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "57312904",
-      "itunes_duration": "00:59:41",
-      "speakers": [],
-      "topics": [
-        "james",
-        "acaster",
-        "podcast",
-        "fubar",
-        "radio"
-      ]
-    },
     {
       "key": "9b58702f5b7ef86c0a990e27f9ae267487a929a5",
       "title": "All James Acaster's Scrapes from Josh Widdicombe XFM",
@@ -3082,7 +3062,6 @@
 
 ## Episodes (newest first)
 
-- 2026-04-22 — Best of James Acaster Podcast Fubar Radio
 - 2026-04-21 — All James Acaster's Scrapes from Josh Widdicombe XFM — speakers: James Acaster
 - 2026-04-19 — BetaBet The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-04-16 — John's Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
