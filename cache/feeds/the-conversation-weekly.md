@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-04-22T16:19:06+00:00`
-- checked_at: `2026-04-22T16:19:06+00:00`
-- etag: `"24c2db-6500ec04f23a5"`
-- last_modified: `Wed, 22 Apr 2026 16:09:06 GMT`
+- fetched_at: `2026-04-22T19:38:08+00:00`
+- checked_at: `2026-04-22T19:38:08+00:00`
+- etag: `"24c2db-6500f061459fb"`
+- last_modified: `Wed, 22 Apr 2026 16:28:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-04-22T16:19:06+00:00",
+  "fetched_at": "2026-04-22T19:38:08+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -36,8 +36,8 @@
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/85de8acd-0602-4ccb-966c-cffad93c1b7d.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "44750306",
-      "itunes_duration": "31:05",
+      "enclosure_length": "45312670",
+      "itunes_duration": "31:28",
       "speakers": [
         "Péter Magyar",
         "Viktor Orbán",
@@ -143,8 +143,8 @@
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/3bb7834d-ea67-4c99-b9e1-5ace72f783a6.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "33388921",
-      "itunes_duration": "23:11",
+      "enclosure_length": "34364438",
+      "itunes_duration": "23:52",
       "speakers": [
         "Gemma Ware"
       ],

@@ -2,6 +2,51 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "c2bcd58d868a0d9852e0dca540b09801eb945035",
+        "episode_key": "c2bcd58d868a0d9852e0dca540b09801eb945035",
+        "title": "Graham Norton",
+        "published_at": "2026-04-22T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We’re back in National Treasure territory, as king of the chat show Graham Norton turns interviewee in the Dream Restaurant. But don’t give him a blue cheese olive.\nGraham Norton hosts ‘The Neighbourhood’ which starts Friday 24 April, 9pm on ITV1 and ITVX. The series debuts with a three-night launch across Friday, Satu",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69ce3e7df44b357ce9070389/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/graham-norton/id1442950743?i=1000762994109&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "73f633ebee66eb5ec9d7aeb673615a33426e4f08",
+        "episode_key": "73f633ebee66eb5ec9d7aeb673615a33426e4f08",
+        "title": "All James Acaster's Scrapes from Josh Widdicombe XFM",
+        "published_at": "2026-04-21T17:56:23Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "All James Acaster's Scrapes from Josh Widdicombe XFM",
+        "audio_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118813773/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-21%2F06d95b9d-d786-cb82-cbbe-3bd01490fa51.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/all-james-acasters-scrapes-from-josh-widdicombe-xfm/id1866254969?i=1000762931419&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:94236977612e",
         "feed_title": "Distraction Pieces Podcast with Scroobius Pip",
         "source_rss_url": "https://feeds.acast.com/public/shows/ad4e2f12-9862-4cf6-b6af-3ae392c45fad",
@@ -4166,6 +4211,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "c2bcd58d868a0d9852e0dca540b09801eb945035",
+        "episode_key": "c2bcd58d868a0d9852e0dca540b09801eb945035",
+        "title": "Graham Norton",
+        "published_at": "2026-04-22T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We’re back in National Treasure territory, as king of the chat show Graham Norton turns interviewee in the Dream Restaurant. But don’t give him a blue cheese olive.\nGraham Norton hosts ‘The Neighbourhood’ which starts Friday 24 April, 9pm on ITV1 and ITVX. The series debuts with a three-night launch across Friday, Satu",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69ce3e7df44b357ce9070389/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/graham-norton/id1442950743?i=1000762994109&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:9d0c510b2ad9",
         "feed_title": "Babak and Ray Have Nothing To Say",
