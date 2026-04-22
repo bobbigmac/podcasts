@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-04-15T03:40:18+00:00`
-- checked_at: `2026-04-15T03:40:18+00:00`
-- etag: `"djEuMi4wOjE3NzYyMjIwMzk2Mjg="`
+- fetched_at: `2026-04-22T03:42:37+00:00`
+- checked_at: `2026-04-22T03:42:37+00:00`
+- etag: `"djEuMi4wOjE3NzY4MjY4NDAwOTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-04-15T03:40:18+00:00",
+  "fetched_at": "2026-04-22T03:42:37+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c5e1e36621b94b117f4710bfeeb9ac14676439ce",
+      "title": "Graham Norton",
+      "published_at": "2026-04-22T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/graham-norton",
+      "description": "We’re back in National Treasure territory, as king of the chat show Graham Norton turns interviewee in the Dream Restaurant. But don’t give him a blue cheese olive. Graham Norton hosts ‘The Neighbourhood’ which starts Friday 24 April, 9pm on ITV1 and ITVX. The series debuts with a three-night launch across Friday, Saturday and Sunday. For the remaining four weeks, The Neighbourhood continues in its regular slot every Thursday and Friday night. Graham’s podcast ‘Wanging On’ is available wherever you get your podcasts and on YouTube . Follow Graham on Instagram @grahnort Watch the video version of this episode on the Off Menu YouTube on Thu 23 Apr. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1775558285008-e3f2d86a-96d8-48e4-8966-672a42f2ee55.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69ce3e7df44b357ce9070389/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79791136",
+      "itunes_duration": "1:06:29",
+      "speakers": [
+        "Graham Norton",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "graham",
+        "norton"
+      ]
+    },
     {
       "key": "f4262a2f59241575d6b172abd491145eb76dcd2f",
       "title": "Brian Cox",
@@ -8396,6 +8418,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — Graham Norton — speakers: Graham Norton, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-15 — Brian Cox — speakers: Brian Cox, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-08 — John Mulaney — speakers: John Mulaney, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-01 — Regé-Jean Page — speakers: Jean Page, Dream Restaurant, Ed Gamble, James Acaster, Ben Williams

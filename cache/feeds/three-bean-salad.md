@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-04-15T03:40:18+00:00`
-- checked_at: `2026-04-15T03:40:18+00:00`
-- etag: `"9da63-64f749bba0bc3"`
-- last_modified: `Wed, 15 Apr 2026 00:15:07 GMT`
+- fetched_at: `2026-04-22T03:42:37+00:00`
+- checked_at: `2026-04-22T03:42:37+00:00`
+- etag: `"9e98b-650016d148df9"`
+- last_modified: `Wed, 22 Apr 2026 00:15:15 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-04-15T03:40:18+00:00",
+  "fetched_at": "2026-04-22T03:42:37+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ae353ab92bdebf2ebfffcba62b9822a9492e1249",
+      "title": "Smells",
+      "published_at": "2026-04-22T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/smells",
+      "description": "The bean machine emits most known smells most days as a byproduct of its relentless toil. In a few short moments the aromas belched forth could be resinous, minty, jazzy, agricultural or anything in between. Something it has never spat out, however, is the topic of smells but that’s all changed now thanks to Andrew of Bremen, Dorset. Tune in for a gripping discourse on the difference between Eau de Cologne (water from the city of Cologne) and Odour Cologne (the smell of the city of Cologne which is Eau de Cologne which is water from the city of Cologne) and more!!! With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod Details of Henry's tour here: henrypaker.com Sponsor John Robins's marathon running here: https://www.justgiving.com/page/johnrobins",
+      "image_url": "https://artwork.captivate.fm/d9312a1c-47f2-4019-99f3-a12ee6d29d08/S20E8-Smell.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/9bfecad9-dcd2-43b6-9e6f-e3dd2477ed6b.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=9bfecad9-dcd2-43b6-9e6f-e3dd2477ed6b",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68534902",
+      "itunes_duration": "01:11:23",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "smells"
+      ]
+    },
     {
       "key": "415b0eed4d64d53104a0b10512de3dbbb7252d68",
       "title": "Vitamins",
@@ -4174,6 +4194,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — Smells — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-15 — Vitamins — speakers: Vitamins Josh, Deep South Texas, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-08 — Show Us Your Onions — speakers: Al Capone, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-01 — Saints — speakers: Bean Machine, Mike Wozniak, Henry Paker, Benjamin Partridge

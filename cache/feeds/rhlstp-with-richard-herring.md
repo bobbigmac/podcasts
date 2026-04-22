@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-21T03:46:03+00:00`
-- checked_at: `2026-04-21T03:46:03+00:00`
-- etag: `"djEuMi4wOjE3NzY3NDAyNTkyNDI="`
+- fetched_at: `2026-04-22T03:42:37+00:00`
+- checked_at: `2026-04-22T03:42:37+00:00`
+- etag: `"djEuMi4wOjE3NzY4MjY2NTk0MTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-21T03:46:03+00:00",
+  "fetched_at": "2026-04-22T03:42:37+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "98411ca49a4bd180c3d223b105fb3b0d3faf7411",
+      "title": "RHLSTP 607 - Andy Hamilton",
+      "published_at": "2026-04-22T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #607 - Next Stop: Very Green Park - Richard has written his one joke for 2026, so don’t miss it. His guest is writer, performer, wit and possible Satan, Andy Hamilton. They chat about why the dentist in Peppa Pig never does any dentistry, how Andy got on to the writing team of Not The Nine O Clock News, why his first sitcom taught him some important lessons (whilst not being the most remembered of his work), how the BBC bodged getting Drop The Dead Donkey and the incredible casting story of the kids from Outnumbered, the incredible story of the man who pretended to be Andy Hamilton, Rich’s attempt to turn Andy’s life into a musical and why actors like to get some input from writers Support Smelt here https://www.leadmojo.co.uk/smelt Watch The Kit Curran Radio Show here https://www.youtube.com/watch?v=WxkHDn00A70&list=PLjVRVyRgpZFKNkMJSRokgZIOsqkVck7WI SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1776711583144-ebb9ff32-a222-4fb0-8183-7b40b877fa79.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69e6788366c3374f7eaba344/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33884313",
+      "itunes_duration": "1:06:22",
+      "speakers": [
+        "Andy Hamilton",
+        "Richard Herring"
+      ],
+      "topics": [
+        "andy",
+        "hamilton"
+      ]
+    },
     {
       "key": "50e43f2b893ac7acc46d1c34e24a66323d882086",
       "title": "RAACN week 12",
@@ -22110,6 +22130,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — RHLSTP 607 - Andy Hamilton — speakers: Andy Hamilton, Richard Herring
 - 2026-04-21 — RAACN week 12 — speakers: Richard Herring
 - 2026-04-20 — Retro RHLSTP 140 - Nish Kumar — speakers: Nish Kumar, Big Nick, Leicester Comedy Festival, Richard Herring
 - 2026-04-17 — RHLSTP Bonus 3 — speakers: Richard Herring

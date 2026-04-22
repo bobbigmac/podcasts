@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-04-19T03:49:34+00:00`
-- checked_at: `2026-04-19T03:49:34+00:00`
-- last_modified: `Sat, 18 Apr 2026 22:22:13 GMT`
+- fetched_at: `2026-04-22T03:42:37+00:00`
+- checked_at: `2026-04-22T03:42:37+00:00`
+- last_modified: `Wed, 22 Apr 2026 01:08:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-19T03:49:34+00:00",
+  "fetched_at": "2026-04-22T03:42:37+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "b1c466e88dbd39ecea7eb3b41d4a66bbbe2258e9",
+      "title": "Janine Harouni",
+      "published_at": "2026-04-22T01:00:00+00:00",
+      "link": null,
+      "description": "Blisteringly talented comedian Janine Harouni is in the studio this week picking out the things that make her happy which include nerds, digital clocks… and a great story about how to get her thighs to stop squeaking in front of Robert Pattinson. It’s all in here, so please enjoy at your leisure! Janine’s current tour is called ‘This is What you Waited For’ and we waited a bit too long to promote this one because there’s only a handful of dates left: Birmingham on May 8th and Manchester on May 22nd, but hey - if you’re in those places then get yourself a ticket from https://www.janineharouni.com 🎟️ And please do go to see Russell while he’s on tour with his latest show that’s busting out some rave reviews: Don’t miss this fantastic show of all brand-new material. Find out more at https://www.russell-howard.co.uk 🎟️ That’s the end of this week’s feast of comedy. We dab away the jokes from the corners of our mouths with a fancy napkin and we scrape back our chairs to retire to the smoking lounge where we light up fat cigars and talk about grown-up stuff. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Go to https://surfshark.com/russell or use code RUSSELL at checkout to get 4 extra months of Surfshark VPN! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/283e71a4-2d04-11f1-ab59-0f3b22da3ce7/image/14e4bcb4555a8519da874d30497682b2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9753884458.mp3?updated=1776551228",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3824",
+      "speakers": [
+        "Janine Harouni",
+        "Russell Howard"
+      ],
+      "topics": [
+        "janine",
+        "harouni"
+      ]
+    },
     {
       "key": "98a54d6767ef741d2f2beaf2b938845748ef2a94",
       "title": "Sean McLoughlin",
@@ -2851,26 +2871,6 @@
       ]
     },
     {
-      "key": "bf03113301d6d5ef63cfab1beb51af9273cd52fb",
-      "title": "1. Munya Chawawa",
-      "published_at": "2023-10-11T00:00:00+00:00",
-      "link": "https://russellhowardswonderbox.podbean.com/e/munya-chawawa-s-wonderbox/",
-      "description": "Today’s guest is internet comedy star, Munya Chawawa, who chats to Russell about why he loves Streets of Rage, the importance of a slice of pizza and reveals his jaw-dropping hidden ability. Russell is currently on tour in the US and UK: visit russell-howard.co.uk to find out more and book tickets. Munya is also on tour now and you can get tickets for his show at livenation.co.uk Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8213247652.mp3?updated=1724199785",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3440",
-      "speakers": [
-        "Munya Chawawa",
-        "Russell Howard"
-      ],
-      "topics": [
-        "munya",
-        "chawawa"
-      ]
-    },
-    {
       "key": "924c820cca749517d697f9fd72841775d38ebe40",
       "title": "2. Sam Ryder",
       "published_at": "2023-10-11T00:00:00+00:00",
@@ -2888,6 +2888,26 @@
       ],
       "topics": [
         "ryder"
+      ]
+    },
+    {
+      "key": "bf03113301d6d5ef63cfab1beb51af9273cd52fb",
+      "title": "1. Munya Chawawa",
+      "published_at": "2023-10-11T00:00:00+00:00",
+      "link": "https://russellhowardswonderbox.podbean.com/e/munya-chawawa-s-wonderbox/",
+      "description": "Today’s guest is internet comedy star, Munya Chawawa, who chats to Russell about why he loves Streets of Rage, the importance of a slice of pizza and reveals his jaw-dropping hidden ability. Russell is currently on tour in the US and UK: visit russell-howard.co.uk to find out more and book tickets. Munya is also on tour now and you can get tickets for his show at livenation.co.uk Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8213247652.mp3?updated=1724199785",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3440",
+      "speakers": [
+        "Munya Chawawa",
+        "Russell Howard"
+      ],
+      "topics": [
+        "munya",
+        "chawawa"
       ]
     },
     {
@@ -2913,6 +2933,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — Janine Harouni — speakers: Janine Harouni, Russell Howard
 - 2026-04-15 — Sean McLoughlin — speakers: Sean McLoughlin, Russell Howard
 - 2026-04-08 — Mike Rice — speakers: Mike Rice, Russell Howard
 - 2026-04-04 — March's Moments of the Month — speakers: Month Hello, Russell Howard
@@ -3054,6 +3075,6 @@
 - 2023-11-01 — 5. Jordan Gray — speakers: Jordan Gray Stand, Jordan Gray, Russell Howard
 - 2023-10-25 — 4. Jen Brister — speakers: Russell Howard
 - 2023-10-18 — 3. Jimmy Carr — speakers: Jimmy Carr, Russell Howard
-- 2023-10-11 — 1. Munya Chawawa — speakers: Munya Chawawa, Russell Howard
 - 2023-10-11 — 2. Sam Ryder — speakers: Sam Ryder Sitting, Sam Ryder, Russell Howard
+- 2023-10-11 — 1. Munya Chawawa — speakers: Munya Chawawa, Russell Howard
 - 2023-09-28 — Trailer — speakers: Russell Howard

@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-04-21T14:08:59+00:00`
-- checked_at: `2026-04-21T14:08:59+00:00`
-- etag: `"djEuMi4wOjE3NzY3NzM5NjIxOTU="`
+- fetched_at: `2026-04-22T03:42:37+00:00`
+- checked_at: `2026-04-22T03:42:37+00:00`
+- etag: `"djEuMi4wOjE3NzY4MjgwMzkzMzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-04-21T14:08:59+00:00",
+  "fetched_at": "2026-04-22T03:42:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "df6bf9ccde5b4a2b691784016155ff9935948e67",
+      "title": "GEMMA CAIRNEY • pre-order 'The Immortal Sisterhood' to ensure a gift of future happiness (radio / media / all things great) #668",
+      "published_at": "2026-04-22T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the necessary ray of light that is GEMMA CAIRNEY ! A return mission from Gemma, as the last meeting was a good 9 years ago... Also \"necessary ray of light\", while a lovely sounding complement, doesn't actually inform you of what Gemma's up to at the moment or has been up to over those interveining 9 years, which is a huge amount! From the early years on radio right up to recent times, with a prolific range of projects and quests along the way, Gemma hasn't lost any sparkle or positivity, which is a rare thing in a world such as this. But as you can imagine, it does take energy an a psychic toll, and we hear about it in this awesome, inspiring episode. While there is a wealth of tangents born from her upcoming book release 'The Immortal Sisterhood', she and Pip cover a lot of ground including art and creativity and the class cross-section, patriarchy at large, motherhood (times two!), location, hwo and why love is just straight up better than hate, and altogether much too much to summarise in these notes. So just jump in and enjoy, and you're sure to come away from this one with a smile and feeling just a little bit taller. Or maybe floating a bit. Enjoy! PIP'S PATREON PAGE if you're of a supporting nature INSTAGRAM THE IMMORTAL SISTERHOOD pre-order THE IMMORTAL SISTERHOOD LIVE GEMMA'S PATREON DREAM SPACE SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1776693371001-9d7ea80b-899e-4241-84c4-28753b1244c0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69e62ed0abe143da5b264781/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "195104724",
+      "itunes_duration": "1:21:14",
+      "speakers": [],
+      "topics": [
+        "gemma",
+        "cairney",
+        "immortal",
+        "sisterhood",
+        "gift",
+        "happiness",
+        "radio",
+        "medium",
+        "thing"
+      ]
+    },
     {
       "key": "d313b96da2e92903a14a491e908d4d08057dca00",
       "title": "NORMAN COOK (aka FATBOY SLIM!) • Friday Rewind",
@@ -18629,6 +18653,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — GEMMA CAIRNEY • pre-order 'The Immortal Sisterhood' to ensure a gift of future happiness (radio / media / all things great) #668
 - 2026-04-17 — NORMAN COOK (aka FATBOY SLIM!) • Friday Rewind — speakers: Norman Cook
 - 2026-04-15 — ED GAMBLE • get your tickets now for his 2027 'Fresh Hell' tour (Off Menu / Traitors: Uncloaked / Taskmaster) #667
 - 2026-04-10 — JAMIE DEMETRIOU (Stath Lets Flats / Fleabag / Paddington 2) • Friday Rewind

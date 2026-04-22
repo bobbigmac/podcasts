@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-04-20T22:02:51+00:00`
-- checked_at: `2026-04-20T22:02:51+00:00`
-- etag: `"djEuMi4wOjE3NzY3MTc2NjQwMjc="`
+- fetched_at: `2026-04-22T03:42:37+00:00`
+- checked_at: `2026-04-22T03:42:37+00:00`
+- etag: `"djEuMi4wOjE3NzY4MTYwMzk1ODc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-04-20T22:02:51+00:00",
+  "fetched_at": "2026-04-22T03:42:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "688347b481db210ee26efc95b4f1ee7238127c09",
+      "title": "Kristin Scott Thomas",
+      "published_at": "2026-04-22T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/kristin-scott-thomas",
+      "description": "This week we’re joined by the wonderful Dame Kristin Scott Thomas for lunch! Kristin came by to talk about her beautiful new film My Mother’s Wedding, and over lunch we covered everything from growing up in a family of five children and her mum’s cooking, to leaving drama school and being sent to France as an au pair. We also chatted about acting in French, auditioning for the incomparable Prince’s Under the Cherry Moon (and kissing Prince), and reuniting with the incredible Scarlett Johansson on the new film. Kristin was such a warm and fascinating guest, and we absolutely loved having her at the table! Kristin’s directorial debut, My Mother’s Wedding, will be in cinemas in the UK from 29th May! Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1776810185823-7d6ef3c3-3dc5-41fb-b3d7-3a6d5680a0c7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69e68f5f738b0d0aa581de68/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48754101",
+      "itunes_duration": "50:47",
+      "speakers": [
+        "Kristin Scott Thomas"
+      ],
+      "topics": [
+        "kristin",
+        "scott",
+        "thomas"
+      ]
+    },
     {
       "key": "9f6af1b7c78a4072e58c2db8a4492a55b318bfaf",
       "title": "Kae Tempest",
@@ -7044,6 +7064,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — Kristin Scott Thomas — speakers: Kristin Scott Thomas
 - 2026-04-15 — Kae Tempest — speakers: Kae Tempest
 - 2026-04-08 — Lisa Kudrow — speakers: Lisa Kudrow
 - 2026-04-01 — Jamie Laing and Sophie Habboo — speakers: Jamie Laing, Sophie Habboo

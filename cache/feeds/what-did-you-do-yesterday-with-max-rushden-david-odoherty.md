@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-04-21T16:20:27+00:00`
-- checked_at: `2026-04-21T16:20:27+00:00`
-- last_modified: `Tue, 21 Apr 2026 14:17:04 GMT`
+- fetched_at: `2026-04-22T03:42:37+00:00`
+- checked_at: `2026-04-22T03:42:37+00:00`
+- last_modified: `Tue, 21 Apr 2026 23:15:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/0bbecfc9ad65078c6accdbc313267a08.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-21T16:20:27+00:00",
+  "fetched_at": "2026-04-22T03:42:37+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,23 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "07f7e4b003694e3618dc694271b5bf828d8b2f10",
+      "title": "WDWDY #68: I am Poo Poo",
+      "published_at": "2026-04-21T23:15:00+00:00",
+      "link": null,
+      "description": "On this mid-week bonus ep we find out what Max did with his yesterday... Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fe926222-3d87-11f1-a59d-efaa9d5951f1/image/66dd0e1c0c3ae1c9c14e2654bb78ebeb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5454423888.mp3?updated=1776781317",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3712",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": []
+    },
     {
       "key": "c569a11d68e1bc44131ccf1ddf9cf9e16530334b",
       "title": "S4 EP16: Lloyd Langford",
@@ -3234,6 +3251,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — WDWDY #68: I am Poo Poo — speakers: Max Rushden, David O'Doherty
 - 2026-04-21 — S4 EP16: Lloyd Langford — speakers: Lloyd Langford, Max Rushden, David O'Doherty
 - 2026-04-14 — WDWDY #67: I HATE NATURE — speakers: Max Rushden, David O'Doherty
 - 2026-04-11 — S4 EP15: Isy Suttie — speakers: Max Rushden, David O'Doherty

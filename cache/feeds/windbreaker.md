@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-04-21T19:36:52+00:00`
-- checked_at: `2026-04-21T19:36:52+00:00`
-- etag: `W/"3ab4a-VEm9vOu43HrEtDjVrxYOevRdQT4"`
+- fetched_at: `2026-04-22T03:42:37+00:00`
+- checked_at: `2026-04-22T03:42:37+00:00`
+- etag: `W/"3b26a-YGFr3tWA1LTRM+pGmPx2wv5+2wI"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-04-21T19:36:52+00:00",
+  "fetched_at": "2026-04-22T03:42:37+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ee441069b151e397cac867046cf23e67f4a6b44c",
+      "title": "Is Hand-Holding Really a Gaming Sin? | Windbreaker Podcast",
+      "published_at": "2026-04-21T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Is-Hand-Holding-Really-a-Gaming-Sin---Windbreaker-Podcast-e3i8vom",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty unpack the current state of hand-holding in games. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2974169815.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "101878304",
+      "itunes_duration": "01:10:44",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "hand",
+        "holding",
+        "gaming",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "22d6c64d7b6300a35cde576fdf200c0dcf26e9d7",
       "title": "The Problem With Trilogies | Windbreaker Podcast",
@@ -2760,6 +2783,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-21 — Is Hand-Holding Really a Gaming Sin? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-04-14 — The Problem With Trilogies | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-04-07 — Let’s Talk About Resurrection | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-03-31 — The Highs, Lows, and Spoilers of Pokémon Pokopia | Windbreaker Podcast — speakers: Pokémon Pokopia, Yahtzee Croshaw, Marty Sliva

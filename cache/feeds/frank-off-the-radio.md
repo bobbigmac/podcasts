@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-04-21T03:46:03+00:00`
-- checked_at: `2026-04-21T03:46:03+00:00`
-- last_modified: `Tue, 21 Apr 2026 03:26:15 GMT`
+- fetched_at: `2026-04-22T03:42:37+00:00`
+- checked_at: `2026-04-22T03:42:37+00:00`
+- last_modified: `Wed, 22 Apr 2026 00:06:43 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-21T03:46:03+00:00",
+  "fetched_at": "2026-04-22T03:42:37+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,30 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "bc9f7aa51427a9e9e8dea61d22feda98f068059c",
+      "title": "Frank Skinner's Poetry Podcast: Erasure Poetry",
+      "published_at": "2026-04-22T00:00:00+00:00",
+      "link": null,
+      "description": "Frank explores poems stowed away in prose, as revealed by Nicole Sealey and Emma Filtness. The collections referenced are “The Ferguson Report: An Erasure” by Nicole Sealey and “This Savage Language” by Emma Filtness. The poems referenced are “Page 260” and “Page 5”. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e97eb89c-390c-11f1-b806-33f94e654bf6/image/97b1e72728f91939a4e02d3e48196c1a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6666373319.mp3?updated=1776287042",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2491",
+      "speakers": [
+        "Frank Skinner's Poetry",
+        "Nicole Sealey",
+        "Emma Filtness",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "poetry",
+        "podcast"
+      ]
+    },
     {
       "key": "f57ace06fe6958c9bb07819129a07bfb7f4aaf28",
       "title": "Visited By The Water Police",
@@ -11980,44 +12004,6 @@
       ]
     },
     {
-      "key": "7c4e0deb661ada556c65fb430b63a19a3b131ada",
-      "title": "The Frank Skinner Show",
-      "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170215084334.mp3",
-      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2012 - 2014. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a6a6d0f0-817e-11ef-8fe9-ff6933348e1c/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5794355821.mp3?updated=1738248195",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5157",
-      "speakers": [
-        "Frank Skinner"
-      ],
-      "topics": [
-        "frank",
-        "skinner"
-      ]
-    },
-    {
-      "key": "5de0960f8d5078afa39c547f0609ad0585b17760",
-      "title": "The Frank Skinner Show",
-      "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170222103109.mp3",
-      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2015 - 2016. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a7991afe-817e-11ef-8fe9-dff118a13380/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7403625260.mp3?updated=1738248136",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4974",
-      "speakers": [
-        "Frank Skinner"
-      ],
-      "topics": [
-        "frank",
-        "skinner"
-      ]
-    },
-    {
       "key": "43a3b6dc5229a2a177261786bfe7de141447e6d8",
       "title": "The Best of Frank 2009 - 2011",
       "published_at": "2017-01-28T08:00:00+00:00",
@@ -12053,6 +12039,44 @@
       "topics": [
         "daddy",
         "birthday"
+      ]
+    },
+    {
+      "key": "7c4e0deb661ada556c65fb430b63a19a3b131ada",
+      "title": "The Frank Skinner Show",
+      "published_at": "2017-01-28T08:00:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170215084334.mp3",
+      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2012 - 2014. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a6a6d0f0-817e-11ef-8fe9-ff6933348e1c/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5794355821.mp3?updated=1738248195",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5157",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner"
+      ]
+    },
+    {
+      "key": "5de0960f8d5078afa39c547f0609ad0585b17760",
+      "title": "The Frank Skinner Show",
+      "published_at": "2017-01-28T08:00:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170222103109.mp3",
+      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2015 - 2016. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a7991afe-817e-11ef-8fe9-dff118a13380/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7403625260.mp3?updated=1738248136",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4974",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner"
       ]
     },
     {
@@ -13800,13 +13824,13 @@
       ]
     },
     {
-      "key": "f3df9ef0d8db8db71611fbc454d749aeadfbd2a7",
+      "key": "ac8a01118c26f992d71356c23f3b95acc6b7568c",
       "title": "The Frank Skinner Show - Pole Position",
       "published_at": "2015-07-04T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704160258.mp3",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704161146.mp3",
       "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. The team are all back together. Frank joined in on festival season and learnt more than he'd bargained for at a farm. The team discuss Wimbledon, falling over and Peppa Pig. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/df6ec79e-817e-11ef-8fe9-cb7afbb0cb5e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1533179636.mp3?updated=1738241359",
+      "image_url": "https://megaphone.imgix.net/podcasts/dfcaa140-817e-11ef-8fe9-cbb3e0a2ec74/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8812593582.mp3?updated=1738241382",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4594",
@@ -13821,13 +13845,13 @@
       ]
     },
     {
-      "key": "ac8a01118c26f992d71356c23f3b95acc6b7568c",
+      "key": "f3df9ef0d8db8db71611fbc454d749aeadfbd2a7",
       "title": "The Frank Skinner Show - Pole Position",
       "published_at": "2015-07-04T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704161146.mp3",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704160258.mp3",
       "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. The team are all back together. Frank joined in on festival season and learnt more than he'd bargained for at a farm. The team discuss Wimbledon, falling over and Peppa Pig. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/dfcaa140-817e-11ef-8fe9-cbb3e0a2ec74/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8812593582.mp3?updated=1738241382",
+      "image_url": "https://megaphone.imgix.net/podcasts/df6ec79e-817e-11ef-8fe9-cb7afbb0cb5e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1533179636.mp3?updated=1738241359",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4594",
@@ -23323,6 +23347,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — Frank Skinner's Poetry Podcast: Erasure Poetry — speakers: Frank Skinner's Poetry, Nicole Sealey, Emma Filtness, Frank Skinner
 - 2026-04-20 — Visited By The Water Police — speakers: Steve Hall, Frank Skinner
 - 2026-04-18 — Frank Skinner’s Radio Days: Childhood Fears — speakers: Frank Skinner
 - 2026-04-17 — Accidental Gorpcore — speakers: Steve Hall, Frank Skinner
@@ -23929,10 +23954,10 @@
 - 2017-02-18 — The Frank Skinner Show - What does the snake want? — speakers: Frank Skinner
 - 2017-02-11 — The Frank Skinner Show - Unconventional Laughter — speakers: Frank Skinner
 - 2017-02-04 — The Frank Skinner Show - Drexit — speakers: Frank Skinner
-- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
-- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-28 — The Best of Frank 2009 - 2011 — speakers: Frank Skinner
 - 2017-01-28 — Big Daddy's Birthday — speakers: Frank Skinner
+- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
+- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-27 — Frank in Conversation with Adrian Chiles — speakers: Radio Frank, Frank Skinner
 - 2017-01-21 — The Frank Skinner Show - Diamante Detail — speakers: Frank Skinner
 - 2017-01-14 — The Frank Skinner Show - The Abuse Of The Fork — speakers: Frank Skinner
