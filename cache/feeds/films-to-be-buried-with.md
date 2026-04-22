@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-04-21T16:20:27+00:00`
-- checked_at: `2026-04-21T16:20:27+00:00`
-- last_modified: `Tue, 21 Apr 2026 15:54:01 GMT`
+- fetched_at: `2026-04-22T08:05:33+00:00`
+- checked_at: `2026-04-22T08:05:33+00:00`
+- last_modified: `Wed, 22 Apr 2026 07:15:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-21T16:20:27+00:00",
+  "fetched_at": "2026-04-22T08:05:33+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -27,6 +27,29 @@
     "film"
   ],
   "episodes": [
+    {
+      "key": "eacedac06807cfb4677c06dcd617e350ec81a4cb",
+      "title": "Nish Kumar (The So On Time It's Almost Early Films Of The Year 2O25 Special • Part 2) • #391",
+      "published_at": "2026-04-22T07:15:00+00:00",
+      "link": "https://www.patreon.com/cw/brettgoldstein",
+      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with long-term show friend, hilarious comic and insightful podcaster NISH KUMAR ! It's The So On Time It's Almost Early Films Of The Year 2O25 Special Part 2! It's fair to say Nish is at 10,000 hours expert level at this whole afterlife and movie thing, with this episode serving as conclusive proof if needed at all. The podcast pal that has seen more death and then immediately afterlife (in that order) than any other guest returns to drop science with Brett about all of the cinematic masterpieces of 2025! No 2026 boundaries get stepped on or over here - the cut-off is final. We're talking January to December 2025. As always this is a wonderful roundup of an incredible year in cinema, a year of which we're still feeling the ripples. So much happened, so many huge films, and so much to talk about. As such, as always, this is the first of two parts so please, without further show notes - enjoy the concluding episode! The best of 2026 is just around the corner, folks. ⁠⁠ Video and extra audio available on Brett's Patreon! ⁠⁠ ⁠⁠ NISH ONLINE ⁠⁠ ⁠ ⁠INSTAGRAM⁠ ⁠ ⁠ ⁠POD SAVE THE UK⁠ ⁠ –––––––––– ⁠⁠⁠ BRETT • X ⁠⁠⁠⁠ ⁠⁠⁠⁠ BRETT • INSTAGRAM ⁠⁠⁠⁠ ⁠⁠⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠⁠⁠ ⁠⁠⁠⁠ TED LASSO ⁠⁠⁠⁠ ⁠⁠⁠⁠ SHRINKING ⁠⁠⁠⁠ ⁠⁠⁠⁠ ALL OF YOU ⁠⁠⁠⁠ ⁠⁠⁠⁠ SOULMATES ⁠⁠⁠⁠ ⁠⁠⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4d873abc-3d95-11f1-96ec-3f57e8e6b729/image/e6a91067939480d3f400e88a4dbbeeb7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1860637351.mp3?updated=1776786022",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3186",
+      "speakers": [
+        "Nish Kumar",
+        "Brett Goldstein"
+      ],
+      "topics": [
+        "kumar",
+        "time",
+        "films",
+        "year",
+        "special"
+      ]
+    },
     {
       "key": "c2a2608f2dea810b9c77e82f8da22909bd216895",
       "title": "Nish Kumar (The So On Time It's Almost Early Films Of The Year 2O25 Special • Part 1) • #390",
@@ -9298,6 +9321,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — Nish Kumar (The So On Time It's Almost Early Films Of The Year 2O25 Special • Part 2) • #391 — speakers: Nish Kumar, Brett Goldstein
 - 2026-04-15 — Nish Kumar (The So On Time It's Almost Early Films Of The Year 2O25 Special • Part 1) • #390 — speakers: Nish Kumar, Brett Goldstein
 - 2026-04-01 — Riz Ahmed (Bait / Hamlet / Four Lions / The Night Of) • #389 — speakers: Riz Ahmed, Brett Goldstein
 - 2026-03-25 — Phil Lord & Chris Miller (Project Hail Mary / The Lego Movie / Cloudy With A Chance...) • #388 — speakers: Chris Miller, Brett Goldstein

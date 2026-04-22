@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-04-21T21:59:10+00:00`
-- checked_at: `2026-04-21T21:59:10+00:00`
-- etag: `"djEuMi4wOjE3NzY4MDc2NTI0Mjg="`
+- fetched_at: `2026-04-22T08:05:33+00:00`
+- checked_at: `2026-04-22T08:05:33+00:00`
+- etag: `"djEuMi4wOjE3NzY4MzQwOTkzNDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-04-21T21:59:10+00:00",
+  "fetched_at": "2026-04-22T08:05:33+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c6356013b3414a271ced217c040645fa88d44962",
+      "title": "S2E45 | Grey Supremacist",
+      "published_at": "2026-04-22T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e45-grey-supremacist",
+      "description": "This week the buds discuss Mr blobby's fancy dress, the baby wee-wee toy, continental cereals, Miss Rachel and Glenn’s Room 101. Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Pierre is on tour across the UK, Ireland and Netherlands! Including a headline show at the Leicester Square Theatre on May 28th! Tickets available now at https://www.pierrenovellie.com/ Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/69e7ee96eefc66ef2b51bb66/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68165186",
+      "itunes_duration": "47:10",
+      "speakers": [
+        "Grey Supremacist",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "grey",
+        "supremacist"
+      ]
+    },
     {
       "key": "dc0e8b5db17c8dcc192fa042261b7c1c55f0be27",
       "title": "S2E44 | Flake Torpedo",
@@ -7641,6 +7662,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — S2E45 | Grey Supremacist — speakers: Grey Supremacist, Phil Wang, Pierre Novellie
 - 2026-04-15 — S2E44 | Flake Torpedo — speakers: Flake Torpedo, Phil Wang, Pierre Novellie
 - 2026-04-08 — S2E43 | Del Boy Heat Map — speakers: Del Boy Heat Map, Phil Wang, Pierre Novellie
 - 2026-04-01 — S2E42 | Blowjack Horsejob — speakers: Blowjack Horsejob, Phil Wang, Pierre Novellie

@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-04-13T03:52:40+00:00`
-- checked_at: `2026-04-13T03:52:40+00:00`
-- etag: `"djEuMi4wOjE3NzYwNDU4MTk0MDE="`
+- fetched_at: `2026-04-22T08:05:33+00:00`
+- checked_at: `2026-04-22T08:05:33+00:00`
+- etag: `"djEuMi4wOjE3NzY4MzY4MDMyMzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-04-13T03:52:40+00:00",
+  "fetched_at": "2026-04-22T08:05:33+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "5fda1656eb88f7007e94cadef7eec2179bce20b1",
+      "title": "Show 399. Shabana Mahmood - LIVE",
+      "published_at": "2026-04-22T05:46:04+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-399-shabana-mahmood-live",
+      "description": "Shabana Mahmood doesn't hold back in this impassioned, thoughtful and hilarious interview. This is the Home Secretary as you've never heard her before. Nothing is off limits in this wide-ranging interview which includes reflections on her upbringing, her solution for dealing with immigration and a revelation about her hobby that you'd never see coming. Warning: includes protestors. And a very direct response from the Home Secretary. THE POLITICAL PARTY LIVE 11 May: Lewis Goodall 1 June: Andy Burnham https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE Matt's brand new stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/69e860c3c8a506316dd2bbc3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "139679729",
+      "itunes_duration": "1:36:59",
+      "speakers": [
+        "Shabana Mahmood",
+        "Matt Forde"
+      ],
+      "topics": [
+        "shabana",
+        "mahmood"
+      ]
+    },
     {
       "key": "f17defe509f4508edda2e4a7aacac1c2ebefcd95",
       "title": "Show 398. Ben Judah",
@@ -10264,6 +10284,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — Show 399. Shabana Mahmood - LIVE — speakers: Shabana Mahmood, Matt Forde
 - 2026-04-13 — Show 398. Ben Judah — speakers: Ben Judah, Matt Forde
 - 2026-04-06 — Show 397. Claire Coutinho — speakers: Claire Coutinho, Matt Forde
 - 2026-03-31 — Show 396. Lisa Nandy LIVE — speakers: Matt Forde
