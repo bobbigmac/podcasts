@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-04-20T08:27:17+00:00`
-- checked_at: `2026-04-20T08:27:17+00:00`
-- etag: `"djEuMi4wOjE3NzY2Njk4MjY0MDk="`
+- fetched_at: `2026-04-22T10:42:43+00:00`
+- checked_at: `2026-04-22T10:42:43+00:00`
+- etag: `"djEuMi4wOjE3NzY4NDc2Njc3Mzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-04-20T08:27:17+00:00",
+  "fetched_at": "2026-04-22T10:42:43+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -35,8 +35,8 @@
       "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1776669917185-c8c31891-5647-4829-a0b3-e8c29f073f77.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/69e5d3a123929c3a2a112536/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "203610429",
-      "itunes_duration": "1:24:50",
+      "enclosure_length": "204610408",
+      "itunes_duration": "1:25:15",
       "speakers": [
         "Damon Albarn",
         "Jamie Hewlett",
