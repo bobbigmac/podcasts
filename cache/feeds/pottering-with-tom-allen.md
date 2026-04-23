@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-04-22T14:09:07+00:00`
-- checked_at: `2026-04-22T14:09:07+00:00`
+- fetched_at: `2026-04-23T06:02:50+00:00`
+- checked_at: `2026-04-23T06:02:50+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Wed, 22 Apr 2026 11:11:07 GMT`
+- last_modified: `Thu, 23 Apr 2026 04:07:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-22T14:09:07+00:00",
+  "fetched_at": "2026-04-23T06:02:50+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4961cf2222ae4f52b5c67a98f7aa61efac877519",
+      "title": "Ashley James",
+      "published_at": "2026-04-23T04:00:00+00:00",
+      "link": null,
+      "description": "Joining me this week in the garden is the delightful Ashley James ! Broadcaster, campaigner and Sunday Times Bestselling author, Ashley's debut book Bimbo is out right now! 🌸 We chat about turning our hands to gardening, sometimes at the expense of Dad’s daffodils, the surprisingly fascinating origins of the ‘Crazy Cat Lady’, and the highs and lows of being a woman online. 🐈 🌻 So, switch off This Morning , grab a little sachet of wildflowers, and come pottering with me. 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2bc954bc-3e37-11f1-920b-63c891f408be/image/950ed8f5ab44e02c65c53dab7ec703a3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR7576707209.mp3?updated=1776855582",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2937",
+      "speakers": [
+        "Ashley James",
+        "Tom Allen"
+      ],
+      "topics": [
+        "ashley",
+        "james"
+      ]
+    },
     {
       "key": "036d4098180efb80d53ffca37bd325f7c88cb310",
       "title": "Jonny Hincks",
@@ -668,6 +688,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — Ashley James — speakers: Ashley James, Tom Allen
 - 2026-04-16 — Jonny Hincks — speakers: Jonny Hincks, Tom Allen
 - 2026-04-09 — Sarah Hadland — speakers: Sarah Hadland, Tom Allen
 - 2026-04-02 — Lou Beckett — speakers: Lou Beckett Umbrellas, Lou Beckett, Tom Allen

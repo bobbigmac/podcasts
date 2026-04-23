@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-04-20T10:57:46+00:00`
-- checked_at: `2026-04-20T10:57:46+00:00`
-- etag: `"djEuMi4wOjE3NzY2Nzk1MzEzNjY="`
+- fetched_at: `2026-04-23T06:02:50+00:00`
+- checked_at: `2026-04-23T06:02:50+00:00`
+- etag: `"djEuMi4wOjE3NzY5MjA0NDAwNjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-04-20T10:57:46+00:00",
+  "fetched_at": "2026-04-23T06:02:50+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ddcaaac9cd53db83210b6593dc73ce5cb6d6796c",
+      "title": "Daran Jonno Johnson",
+      "published_at": "2026-04-23T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/507-daran-jonno-johnson",
+      "description": "Most people in the comedy world will know Jonno Johnson as a third of the sketch trio Sheeps , but most recently he’s taken up the role of Head Writer at SNL UK ! In this episode recorded in January 2026, we discuss: the hidden world of sketch writing and script editing why he wanted to be the Chuckle Brothers how he manages on-stage anxiety in real time Jonno’s musical talents from writing pantomimes to freestyle raps the Sheeps approach of building a sketch with structure, misdirection and building towards something bigger than it seems the hidden fear of a show's attendance over the performance the turning point of getting out of your own way and Jonno's advice for aspiring comedy writers Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to 15 minutes of exclusive extras including: the audition that made him swear off auditions entirely why there’s no real “ community ” in sketch comedy anymore and how admiration within your own circle can shape what you make 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Jonno: Jonno: Here Comes Mr Funny is at the Edinburgh Fringe this summer at the Monkey Barrel 2. You can also follow Jonno on Instagram, @thisisjonno . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ 15 minutes of exclusive extra content with Jonno ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE including dates in Bristol , Marlborough, LA and Mach ! Find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1776679060421-91c95b22-6768-497b-8759-ee95b049fcfc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69e5fa6bd2febdbec9863d14/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92310912",
+      "itunes_duration": "1:04:06",
+      "speakers": [
+        "Daran Jonno Johnson",
+        "Jonno Johnson",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "daran",
+        "jonno",
+        "johnson"
+      ]
+    },
     {
       "key": "69b1794eee5284e522b9ac2b3b673f611848b796",
       "title": "Ellie Taylor (2019): ComCompendium",
@@ -11354,6 +11376,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — Daran Jonno Johnson — speakers: Daran Jonno Johnson, Jonno Johnson, Stuart Goldsmith
 - 2026-04-16 — Ellie Taylor (2019): ComCompendium — speakers: Ellie Taylor, Ellie Ta, Stuart Goldsmith
 - 2026-04-09 — Flo & Joan (2019): ComCompendium — speakers: Stuart Goldsmith
 - 2026-04-02 — Charlene Kaye — speakers: Charlene Kaye, Stuart Goldsmith
