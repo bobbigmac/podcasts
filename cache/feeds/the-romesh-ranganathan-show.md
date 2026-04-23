@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-04-22T22:04:49+00:00`
-- checked_at: `2026-04-22T22:04:49+00:00`
-- last_modified: `Wed, 22 Apr 2026 19:47:54 GMT`
+- fetched_at: `2026-04-23T03:46:36+00:00`
+- checked_at: `2026-04-23T03:46:36+00:00`
+- last_modified: `Wed, 22 Apr 2026 23:56:15 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-22T22:04:49+00:00",
+  "fetched_at": "2026-04-23T03:46:36+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "5e593229da8665de16ca34d3466e74713cf4dfb1",
+      "title": "Shanthi’s TikTok Shop Obsession & Are Sleepovers Bad?",
+      "published_at": "2026-04-22T23:01:00+00:00",
+      "link": null,
+      "description": "Is Romesh a sex icon? Romesh Ranganathan and his mum Shanthi are back answering listener dilemmas, including a tricky parenting question and rating the team's attractiveness.They get into Shanthi’s latest TikTok Shop discovery (and the mystery of a stolen delivery), her thoughts on health trends and supplements, and why Romesh is apparently failing basic son duties. As always expect a healthy amount of roasting, form Romesh's fashion to his bum. A Ranga Bee Production in partnership with Platform. 00:00 Intro 03:23 Shanthi calls out Romesh 05:10 Sunday scaries 07:20 Morning rituals and astro turf 12:46 The best and worst thing in Shanthi’s week 14:38 TikTok Shop and thiefs 16:47 Shanthi’s take on Afrobeats 18:14 Rom and Shanthi on having Harry Hill on the show 19:16 Romesh’s outfit gets ripped apart 20:30 Praying and diet tips 23:19 Shanthi asks for advice 24:55 A question for Shanthi on the team’s attractiveness 28:09 Romesh’s question on being a sex icon 31:45 Are sleepovers good or bad? 36:43 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/eff43c24-3e7a-11f1-9def-43951ea8c734/image/a9b709b49d64b0d9f5b13ca7fc06241e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3017217283.mp3?updated=1776887567",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2435",
+      "speakers": [
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "tiktok",
+        "shop",
+        "obsession",
+        "sleepovers"
+      ]
+    },
     {
       "key": "23359b7223b7a26f12539cdd3277dbc2d7095f19",
       "title": "Harry Hill: From Doctor To Comedian, TV Burp & Success in America",
@@ -1416,6 +1438,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — Shanthi’s TikTok Shop Obsession & Are Sleepovers Bad? — speakers: Romesh Ranganathan
 - 2026-04-19 — Harry Hill: From Doctor To Comedian, TV Burp & Success in America — speakers: Harry Hill, Comedian Harry Hill, Romesh Ranganathan
 - 2026-04-16 — Shanthi Takes On Misquoted & Are Skiing Holidays Overrated? — speakers: Can Shanthi, Romesh Ranganathan
 - 2026-04-12 — Sara Pascoe: New Travel Show, Life On Tour & Parenting — speakers: Sara Pascoe, Romesh Ranganathan

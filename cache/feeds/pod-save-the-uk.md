@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-04-16T16:49:24+00:00`
-- checked_at: `2026-04-16T16:49:24+00:00`
-- etag: `W/"0fe6e66dc9e88e79a6eaa44543ec5da5"`
-- last_modified: `Thu, 16 Apr 2026 15:50:12 GMT`
+- fetched_at: `2026-04-23T03:46:36+00:00`
+- checked_at: `2026-04-23T03:46:36+00:00`
+- etag: `W/"4a73bbb00b06749404f93950c922f635"`
+- last_modified: `Thu, 23 Apr 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-04-16T16:49:24+00:00",
+  "fetched_at": "2026-04-23T03:46:36+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "396bba7fdf371d5ce29e9e26bb18ab433dda5048",
+      "title": "Mandelson, May Elections & Rosie Jones Mayhem",
+      "published_at": "2026-04-23T03:00:00+00:00",
+      "link": "https://audioboom.com/posts/8894165",
+      "description": "British politics was shaken to its core this week when we all realised that, maybe, Keir Starmer isn’t as quite across the detail as he tries to make out. He had to explain exactly what he did and didn’t know about the developed vetting carried out for Peter Mandelson’s appointment as the UK’s Ambassador to the US. Right on the heels of that, came Olly Robbins, who was sacked last week from his role as the chief official at the Foreign Office. In a very civil servant way, he revealed the internal pressures and machinations that were happening during the appointment process. Both men had serious questions to answer about what they did but Coco and Nish are joined by political journalist Zoë Grünewald to ask why everyone is obsessing over the process while almost totally ignoring the larger, moral decision to make the appointment in the first place. Plus the comedian Rosie Jones arrives to totally derail the whole podcast with a mix of funny jabs at Nish while still telling us about the work of her brilliant foundation which is celebrating its first birthday! Don’t forget to leave a review - it gives the show a boost and we love to see your comments. **Warning: use of a racial slur during the Labour May election segment** CHECK OUT THESE DEALS FROM OUR SPONSORS INCOGNI: https://www.incogni.com/podsavetheuk Code: podsavetheuk WISE: https://shopify.co.uk/podsavetheuk AURA FRAMES: https://www.auraframes.com Code: PSTUK SHIPSTATION: https://www.shipstation.com Code: PSTUK GUESTS Zoë Grünewald - Journalist, broadcaster and political commentator Rosie Jones - Comedian USEFUL LINKS The Rosie Jones Foundation: https://www.rosiejonesfoundation.com/ CREDITS Sir Keir Starmer MP - Parliament TV Emily Thornberry MP - The Mirror, YouTube Sir Oliver Robbins - Parliament TV David Miliband MP - Mornings with Ridge and Frost, Sky News Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43610253.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8894165.mp3?modified=1776880504&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4241",
+      "speakers": [
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "mandelson",
+        "elections",
+        "rosie",
+        "jones",
+        "mayhem"
+      ]
+    },
     {
       "key": "4a9686e3d95b0c74396ef05b1b9742aaf4589384",
       "title": "Trump's Jesus Meme Chaos w/ Tommy Vietor",
@@ -3704,6 +3727,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — Mandelson, May Elections & Rosie Jones Mayhem — speakers: Nish Kumar, Coco Khan
 - 2026-04-16 — Trump's Jesus Meme Chaos w/ Tommy Vietor — speakers: Jesus Meme Chaos, Tommy Vietor Who, Nish Kumar, Coco Khan
 - 2026-04-02 — Can AI really be your friend? w/Jamie Bartlett — speakers: Jamie Bartlett Coco, Jamie Bartlett, Nish Kumar, Coco Khan
 - 2026-03-26 — Truth, Lies and Donald Trump w/ Stewart Lee — speakers: Stewart Lee Comedian, Stewart Lee, Nish Kumar, Coco Khan

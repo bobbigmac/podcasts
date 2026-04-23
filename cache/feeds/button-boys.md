@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-04-21T19:36:52+00:00`
-- checked_at: `2026-04-21T19:36:52+00:00`
-- last_modified: `Tue, 21 Apr 2026 17:23:20 GMT`
+- fetched_at: `2026-04-23T03:46:36+00:00`
+- checked_at: `2026-04-23T03:46:36+00:00`
+- last_modified: `Wed, 22 Apr 2026 23:22:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-21T19:36:52+00:00",
+  "fetched_at": "2026-04-23T03:46:36+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,27 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "04f13dab85b6b9a6995b178168c281c83dc7b8c9",
+      "title": "ABBA: You Ask, We Answer",
+      "published_at": "2026-04-22T23:00:00+00:00",
+      "link": null,
+      "description": "Welcome to our inaugural Ask Button Boys Anything episode, where we take gaming-related questions, and I cannot stress enough, *gaming-related questions* from you, the listener. Questions we won't be answering: What's your recommendation for the best Thai food south of the river? What are your bank details? Fold or scrunch? Does Italy actually exist? To find out the questions we will be answering, alongside what the Boys have been up to over the past week and Taylor Swift's deleted track, press play now! To follow along with the Button Boys outside the podcast: Glenn and Producer Ben - ⁠ The Audience VS ⁠ Pierre - ⁠ You Sit There, I'll Stand Here⁠ Glenn - ⁠ Please Sir, Glenn I Have Some Moore ⁠Sarah's New York show If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Terra Invicta Mario Party Pokémon Stadium Consume Me Blue Prince Return of the Obra Dinn Europa Universalis IV Hearts of Iron IV Lost Records: Bloom & Rage What Remains of Edith Finch Papers Muppets Inside Crash Team Racing Soul Reaver: Legacy of Kain Spyro the Dragon Final Fantasy IX Age of Empires Command & Conquer Uncharted 2: Among Thieves The Last of Us The Witcher 3: Wild Hunt Uncharted 4: A Thief’s End God of War Red Dead Redemption 2 Grand Theft Auto: Vice City The Legend of Zelda: Breath of the Wild The Legend of Zelda: Tears of the Kingdom Elden Ring Dark Souls The Last of Us Part II Disco Elysium Age of Empires II: The Conquerors Cyberpunk 2077 The Witcher 3: Blood and Wine The Sims 2: University The Sims: Hot Date The Sims 2: Pets Call of Duty: Black Ops 7 Starfield The Elder Scrolls V: Skyrim The Elder Scrolls IV: Oblivion Fallout 3 Fallout 4 Split Fiction Resident Evil Requiem Crash Bandicoot TOCA Touring Cars Colin McRae Rally Age of Empires II Command & Conquer: Red Alert Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR5657006640.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2800",
+      "speakers": [
+        "Ask Button Boys Anything",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "abba"
+      ]
+    },
     {
       "key": "70a55663f95ba1077bccb8509344903a483e0552",
       "title": "Unfinished Business: Browsing the Backlog",
@@ -948,6 +969,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-22 — ABBA: You Ask, We Answer — speakers: Ask Button Boys Anything, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-04-15 — Unfinished Business: Browsing the Backlog — speakers: Unfinished Business, Backlog Fling, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-04-08 — Gaming Highs — speakers: Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-04-01 — Yes Please Moments: Volume 2 — speakers: Button Boy, Glenn Moore, Sarah Keyworth, Pierre Novellie
