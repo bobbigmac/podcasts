@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-04-23T03:46:36+00:00`
-- checked_at: `2026-04-23T03:46:36+00:00`
-- last_modified: `Thu, 23 Apr 2026 02:27:38 GMT`
+- fetched_at: `2026-04-23T10:47:28+00:00`
+- checked_at: `2026-04-23T10:47:28+00:00`
+- last_modified: `Thu, 23 Apr 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-23T03:46:36+00:00",
+  "fetched_at": "2026-04-23T10:47:28+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,28 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "675d52ee295d4f6163259d8876353ad5e922f55e",
+      "title": "“Beliefs Are Tools, Not Truths”",
+      "published_at": "2026-04-23T09:00:00+00:00",
+      "link": null,
+      "description": "What's standing between you and your goals? Focus? Discipline? Motivation? Nir Eyal points the finger somewhere else. Your beliefs. In his new book, Beyond Belief , he shows you how to trade them in for better ones — and finally get unstuck. The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠here⁠⁠⁠ . Follow Rufus on ⁠⁠LinkedIn⁠⁠ , subscribe to our ⁠⁠Substack⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . Check out Nir’s previous appearance on the show ⁠here⁠ . The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠nextbigideaclub.com⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). Sponsored By: Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠⁠meetfabric.com/nbi⁠⁠ Factor — Head to ⁠⁠⁠factormeals.com/idea50off⁠⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠⁠granola.ai/idea⁠⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP3615030346.mp3?updated=1776911548",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4896",
+      "speakers": [
+        "Nir Eyal",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "beliefs",
+        "tools",
+        "truths"
+      ]
+    },
     {
       "key": "e3725fd91bc1b85c375cd7f45a2841dc01683a8a",
       "title": "The History and Future of Apple",
@@ -7582,6 +7604,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — “Beliefs Are Tools, Not Truths” — speakers: Nir Eyal, Rufus Griscom, Caleb Bissinger
 - 2026-04-20 — The History and Future of Apple — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-04-16 — Best Of: Tony Fadell’s Guide to Building Products, Startups and Careers — speakers: Tony Fadell’s Guide, Tony Fadell, Rufus Griscom, Caleb Bissinger
 - 2026-04-13 — Demis Hassabis Wants to Build AGI. Should We Trust Him? — speakers: Sebastian Mallaby, Demis Hassabis, Rufus Griscom, Caleb Bissinger
