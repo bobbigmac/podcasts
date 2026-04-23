@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-22T14:09:07+00:00`
-- checked_at: `2026-04-22T14:09:07+00:00`
-- etag: `"djEuMi4wOjE3NzY4NjEyMzA4ODI="`
+- fetched_at: `2026-04-23T14:10:56+00:00`
+- checked_at: `2026-04-23T14:10:56+00:00`
+- etag: `"djEuMi4wOjE3NzY5NDU2Mzk0NDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-22T14:09:07+00:00",
+  "fetched_at": "2026-04-23T14:10:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "de87c290b3bedb56ba7173bc162d67b250e9d03d",
+      "title": "Why Starmer can't recover from the Mandelson scandal | David Maddox interview",
+      "published_at": "2026-04-23T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69e9fad16e5b90839a6c803d",
+      "description": "The Independent's Political Editor David Maddox came by the JOE studios to break down his story revealing the depth and breadth of the Peter Mandelson vetting fiasco. Andy and David break down who knew what when, the consequences for the Prime Minister, and what it says about the credibility of his offering to the British people in 2024 of a government of honest operators working in the best interests of the nation. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69e9fad16e5b90839a6c803d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44521894",
+      "itunes_duration": "23:10",
+      "speakers": [
+        "David Maddox"
+      ],
+      "topics": [
+        "starmer",
+        "mandelson",
+        "scandal",
+        "david",
+        "maddox"
+      ]
+    },
     {
       "key": "09bcbc7c85286d47826f5557e6194e2f79f7bf48",
       "title": "Keir Starmer survives Mandelson fiasco, just | PMQs Analysis",
@@ -12653,6 +12675,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — Why Starmer can't recover from the Mandelson scandal | David Maddox interview — speakers: David Maddox
 - 2026-04-22 — Keir Starmer survives Mandelson fiasco, just | PMQs Analysis
 - 2026-04-21 — Civil Servant ends Keir Starmer in Select Committee — speakers: Civil Servant, Olly Robbins
 - 2026-04-20 — Is Keir Starmer about to resign? — speakers: Peter Mandelson

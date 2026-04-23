@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-04-20T03:51:57+00:00`
-- checked_at: `2026-04-20T03:51:57+00:00`
-- etag: `W/"1382df01c95ff0df3f222e5f0dff5d01"`
-- last_modified: `Sun, 19 Apr 2026 22:55:00 GMT`
+- fetched_at: `2026-04-23T14:10:56+00:00`
+- checked_at: `2026-04-23T14:10:56+00:00`
+- etag: `W/"07e7f86c4e2ab6f68abba2b6df5403f4"`
+- last_modified: `Thu, 23 Apr 2026 12:04:57 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-04-20T03:51:57+00:00",
+  "fetched_at": "2026-04-23T14:10:56+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -346,10 +346,10 @@
       "link": "https://audioboom.com/posts/8869393",
       "description": "Daniel Sloss joins Dan, James and Andy to discuss Lord of the Rings, North of the Border, and the Father of Electricity. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43515662.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8869393.mp3?modified=1772730078&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8869393.mp3?modified=1776945909&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3560",
+      "itunes_duration": "3352",
       "speakers": [
         "Daniel Sloss",
         "Dan Schreiber",

@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-04-20T08:27:17+00:00`
-- checked_at: `2026-04-20T08:27:17+00:00`
-- etag: `"djEuMi4wOjE3NzY2NTk0Mzk0NDE="`
+- fetched_at: `2026-04-23T14:10:56+00:00`
+- checked_at: `2026-04-23T14:10:56+00:00`
+- etag: `"djEuMi4wOjE3NzY5NTEwMzkyODA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-04-20T08:27:17+00:00",
+  "fetched_at": "2026-04-23T14:10:56+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "5af0866e36c369b3c6c0aeabcb48ff0f8abdcfea",
+      "title": "War of the Worlds (2025) - Caravan Of Garbage",
+      "published_at": "2026-04-23T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/war-of-the-worlds-2025",
+      "description": "All good things must come to an end, like for example our War of the Worlds retrospective. But at lease we're going out on the lowest of the lows, the 2025 but filmed in 2020 Ice Cube \"screenlife\" adaptation. Considered by many to be one of the worst movies ever made with such a bizarre and terrible execution it's kind of hard to stay focused on one thing at a time when talking about it. Thanks for watching our Caravan Of Garbage review! SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69d4966a07bc2cbfc7fa1f45/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28833332",
+      "itunes_duration": "29:11",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "worlds",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "63421bb30f8e46ee8af69e55a75c78b22247f32f",
       "title": "619 Cinema Con Reveals & Lee Cronin's The Mummy",
@@ -22124,6 +22145,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — War of the Worlds (2025) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-04-20 — 619 Cinema Con Reveals & Lee Cronin's The Mummy — speakers: Lee Cronin, James Clement, Nick Mason
 - 2026-04-16 — War of the Worlds (2005) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-04-13 — 618 The Drama & The Boys Final Season (so far) — speakers: James Clement, Nick Mason
