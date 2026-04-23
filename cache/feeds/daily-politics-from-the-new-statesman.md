@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-20T16:22:11+00:00`
-- checked_at: `2026-04-20T16:22:11+00:00`
-- etag: `"djEuMi4wOjE3NzY3MDA4Mzk4MTY="`
+- fetched_at: `2026-04-23T16:53:11+00:00`
+- checked_at: `2026-04-23T16:53:11+00:00`
+- etag: `"djEuMi4wOjE3NzY5NTgwNzY2MDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-20T16:22:11+00:00",
+  "fetched_at": "2026-04-23T16:53:11+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "2c35400674300a00068873c71f3d157daaa66311",
+      "title": "Keir Starmer is all alone",
+      "published_at": "2026-04-23T15:27:56+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/keir-starmer-is-all-alone",
+      "description": "The Mandelson affair has become less about Peter Mandelson’s alleged wrongdoing, and all about Keir Starmer’s ability to run the country. This week Olly Robbins, former chief civil servant at the Foreign Office, insisted the Prime Minister pressured him into clearing Peter Mandelson for the US ambassador post. Yesterday, Starmer was forced to admit his former spin doctor Matthew Doyle, who was suspended from the Labour Party over campaigning for a convicted child sex offender, was also considered for a diplomatic role. Labour MPs and even cabinet ministers no longer seem able to defend the Prime Minister. But the frontrunners to replace Starmer are also, according to reporting by our editor Tom McTague, biding their time. How long can they wait? How long can the country wait? Anoosh Chakelian is joined by Tom McTague in the studio. READ: Keir Starmer is all alone https://www.newstatesman.com/politics/labour/2026/04/keir-starmer-is-all-alone LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1776958030545-2be9fb2b-414f-456a-8d46-5db75b0de045.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69ea3a7c0b4baf3bf2c15160/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49210361",
+      "itunes_duration": "34:09",
+      "speakers": [
+        "Peter Mandelson",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "keir",
+        "starmer"
+      ]
+    },
     {
       "key": "e477734582ab277c2db11cf2c744b478ef461866",
       "title": "Does Starmer deserve more credit?",
@@ -31041,6 +31062,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — Keir Starmer is all alone — speakers: Peter Mandelson, Anoosh Chakelian, Oli Dugmore
 - 2026-04-20 — Does Starmer deserve more credit? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-04-18 — Ex defence secretary slams Starmer's strategy — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-04-16 — Why do young women hate men? — speakers: Andrew Tate, Anoosh Chakelian, Oli Dugmore

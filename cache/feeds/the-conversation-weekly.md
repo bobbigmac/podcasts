@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-04-23T14:10:56+00:00`
-- checked_at: `2026-04-23T14:10:56+00:00`
-- etag: `"24c2db-6501e7cceb908"`
-- last_modified: `Thu, 23 Apr 2026 10:55:33 GMT`
+- fetched_at: `2026-04-23T16:53:11+00:00`
+- checked_at: `2026-04-23T16:53:11+00:00`
+- etag: `"24d7a2-650217c7cbaf3"`
+- last_modified: `Thu, 23 Apr 2026 14:30:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-04-23T14:10:56+00:00",
+  "fetched_at": "2026-04-23T16:53:11+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,25 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "a651b8a7e9b83ad1277ea5d9a9c69f841f457a27",
+      "title": "Israel’s history shapes how it wages war",
+      "published_at": "2026-04-23T14:30:00+00:00",
+      "link": "https://theconversation.com/how-israels-history-has-shaped-the-way-it-wages-war-281194",
+      "description": "In around ten minutes on April 8, the Israeli military hit more than 100 targets across Lebanon. Israel called the attack Operation Eternal Darkness and said it struck Hezbollah command and control centres. The Lebanese government said at least 300 people were killed and 1,000 injured. Israel has a powerful and lethal army, and it’s been defending itself against attacks from Hamas, Hezbollah and Iran. But why has it chosen such brutal military aggression? One historian, Yaron Peleg , believes the answer to this question lies in the early days of Zionism in the 19th century, when many Jews who arrived in Palestine were fleeing antisemitism in Europe. In defiance, they began a cultural revolution, emphasising military strength and honouring Biblical Jewish heroes. But in the wake of the Holocaust, Peleg, who is a professor of modern Hebrew studies at the University of Cambridge in the UK, thinks Israel’s view of itself began to change. He tracks how he sees Israel’s self‑image changed from self‑reliance to aggressive militarism, and how that history helps to explain the way it wages war today. This episode was produced by Mend Mariwany and the executive producer was Gemma Ware. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Mentioned in this episode: Voices of the South",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/13764a56-c536-467b-a4c4-15c5003a09aa.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41568592",
+      "itunes_duration": "28:52",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "israel",
+        "history"
+      ]
+    },
     {
       "key": "0729644581be380e61d8422b1acde642a40e7435",
       "title": "How former insider Péter Magyar ousted Hungary’s Viktor Orbán",
@@ -5832,6 +5851,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — Israel’s history shapes how it wages war — speakers: Gemma Ware
 - 2026-04-16 — How former insider Péter Magyar ousted Hungary’s Viktor Orbán — speakers: Péter Magyar, Viktor Orbán, Gemma Ware
 - 2026-04-09 — The pseudoscientific scale looksmaxxers use to rate each other — speakers: Gemma Ware
 - 2026-04-02 — The Making of One Nation: the unlikely rise of Australia’s Pauline Hanson — speakers: Pauline Hanson, Gemma Ware

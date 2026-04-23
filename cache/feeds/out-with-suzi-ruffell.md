@@ -2,9 +2,9 @@
 
 - slug: `out-with-suzi-ruffell`
 - source: `https://feeds.megaphone.fm/GLT9819213775`
-- fetched_at: `2026-04-23T10:47:28+00:00`
-- checked_at: `2026-04-23T10:47:28+00:00`
-- last_modified: `Thu, 23 Apr 2026 10:39:20 GMT`
+- fetched_at: `2026-04-23T16:53:11+00:00`
+- checked_at: `2026-04-23T16:53:11+00:00`
+- last_modified: `Thu, 23 Apr 2026 16:34:55 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -15,9 +15,9 @@
   "source_url": "https://feeds.megaphone.fm/GLT9819213775",
   "title": "Out with Suzi Ruffell",
   "link": "https://www.spreaker.com/show/out-with-suzi-ruffell",
-  "description": "OUT with Suzi Ruffell is a podcast that celebrates the LGBTQIA+ community through comedian, presenter and writer Suzi Ruffell's relaxed interviews of queer luminaries — from popstars to politicians, activists to artists. Tune in to hear Suzi and her guests talk about coming out, being out, finding your place in the world and sharing moments of queer joy.",
-  "image_url": "https://megaphone.imgix.net/podcasts/1af2f5a0-1a7b-11ed-a410-0fc86e797d6c/image/80877cfaa22e76a0c525da39b69282a6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-23T10:47:28+00:00",
+  "description": "OUT with Suzi Ruffell is a podcast that celebrates the LGBTQIA+ community through comedian and writer Suzi Ruffell's relaxed interviews of queer luminaries — from popstars to politicians, activists to artists. Tune in to hear Suzi and her guests talk about coming out, being out, finding your place in the world and sharing moments of queer joy. Presented in collaboration with Attitude Magazine.",
+  "image_url": "https://megaphone.imgix.net/podcasts/1af2f5a0-1a7b-11ed-a410-0fc86e797d6c/image/a75117f58bc16a4309d04bd56f21e462.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-04-23T16:53:11+00:00",
   "owners": [
     "Suzi Ruffell"
   ],
