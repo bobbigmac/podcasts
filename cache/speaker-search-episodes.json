@@ -2,6 +2,28 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "a7568674cdfca298814c33070f382e7ee5760437",
+        "episode_key": "a7568674cdfca298814c33070f382e7ee5760437",
+        "title": "Best of James Acaster Podcast Fubar Radio",
+        "published_at": "2026-04-22T17:06:04Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Best of James Acaster Podcast Fubar Radio",
+        "audio_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118868336/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-22%2Fbb8705ed-95ff-0f1e-3863-be71d0ec60dc.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/best-of-james-acaster-podcast-fubar-radio/id1866254969?i=1000763106327&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -9554,6 +9576,28 @@
         "description": "New month, new studio, new podcast, same great show!\nHey there! Welcome to the next episode of The Chris Moyles Show on Radio X Podcast - number 433 to be exact! Having returned from Amsterdam, Chris and the team have been laughing all week as we’ve had not one, not two, but THREE comedians in the studio. In this whopp",
         "audio_url": "https://dax.captivate.fm/b70711ca-e8fb-4c80-b011-bd21bcee839f/Podcast-434-this-this-this-encoded.mp3?aw_0_1st.showid=ed87f36a-7b44-4e79-beea-f3220752406c&aw_0_1st.episodeid=0a36e9b9-7b7c-479c-98f5-02f008c4fdba",
         "link_url": "https://podcasts.apple.com/gb/podcast/bill-bailey-ross-noble-and-richard-herring-433/id1042635536?i=1000647667529&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:66a92b32c347",
+        "feed_title": "You're Dead to Me",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/p07mdbhg.rss",
+        "dedupe_key": "a25e41c8fb553a364ee4c401aa7275d75c8a74db",
+        "episode_key": "a25e41c8fb553a364ee4c401aa7275d75c8a74db",
+        "title": "Shakespeare (Radio Edit)",
+        "published_at": "2023-11-10T08:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode, recorded live at the Shakespeare North Playhouse in Prescot, Greg Jenner is joined by Professor Farah Karim-Cooper and comedian Richard Herring to learn all about the life, legend and legacy of William Shakespeare himself. 2023 marks the 400th anniversary of the publication of the First Folio of Shakes",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0grq5fc.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/shakespeare-radio-edit/id1479973402?i=1000634262672&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

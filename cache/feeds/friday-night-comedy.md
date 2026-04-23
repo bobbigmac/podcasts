@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-04-17T19:21:33+00:00`
-- checked_at: `2026-04-17T19:21:33+00:00`
-- etag: `"a079bfde70ca541dd403e0d6082e29ef"`
-- last_modified: `Fri, 17 Apr 2026 18:00:04 GMT`
+- fetched_at: `2026-04-23T19:40:37+00:00`
+- checked_at: `2026-04-23T19:40:37+00:00`
+- etag: `"afdcc982f743c5b650e540f0e3c93197"`
+- last_modified: `Thu, 23 Apr 2026 17:58:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-  "fetched_at": "2026-04-17T19:21:33+00:00",
+  "fetched_at": "2026-04-23T19:40:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5462,29 +5462,6 @@
         "friday",
         "april"
       ]
-    },
-    {
-      "key": "12c67a90199aedc883c98f229a1a624bb4f91d70",
-      "title": "The News Quiz - Friday 23rd April 2021",
-      "published_at": "2021-04-23T17:58:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09flhf6",
-      "description": "Andy Zaltman presents a look back at the week's headlines with panellists Andrew Maxwell, Athena Kugblenu, Anne McElvoy and Chris McCausland. This week super leagues, super texts and a super example of someone being told to get out of a pub. Written by Andy Zaltzman with additional material from Alice Fraser, Mike Shephard, Rajiv Karia and Jenan Younis. Producer: Richard Morris A BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0n52k1w.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09flgw5.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26688000",
-      "itunes_duration": "1668",
-      "speakers": [
-        "Andy Zaltman",
-        "Andrew Maxwell",
-        "Athena Kug"
-      ],
-      "topics": [
-        "news",
-        "quiz",
-        "friday",
-        "april"
-      ]
     }
   ]
 }
@@ -5751,4 +5728,3 @@
 - 2021-05-14 — The News Quiz - Friday 14th May 2021 — speakers: Andy Zaltzman, Danny Finkelstein
 - 2021-05-07 — The News Quiz - Friday 7th May 2021 — speakers: Andy Zaltzman, Paul Sinha, Angela Barnes, Ayesha Ha
 - 2021-04-30 — The News Quiz - Friday 30th April 2021 — speakers: Andy Zaltzman, Simon Evans, Helen Lewis, Elis James
-- 2021-04-23 — The News Quiz - Friday 23rd April 2021 — speakers: Andy Zaltman, Andrew Maxwell, Athena Kug
