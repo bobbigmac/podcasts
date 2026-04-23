@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-04-16T21:59:13+00:00`
-- checked_at: `2026-04-16T21:59:13+00:00`
-- etag: `"d2846-64f99e8a0a087"`
-- last_modified: `Thu, 16 Apr 2026 20:45:11 GMT`
+- fetched_at: `2026-04-23T22:01:08+00:00`
+- checked_at: `2026-04-23T22:01:08+00:00`
+- etag: `"d3230-65026b9546054"`
+- last_modified: `Thu, 23 Apr 2026 20:45:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-04-16T21:59:13+00:00",
+  "fetched_at": "2026-04-23T22:01:08+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "92260963b904848dc86259d51a13a5f1419bcff7",
+      "title": "Joanna Page - Series 21 Ep.3",
+      "published_at": "2026-04-23T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "This week on the Taskmaster Podcast Ed Gamble is joined by the the actor, podcaster and the star of Gavin & Stacey, Joanna Page! Joanna shares all about being on the current series of Taskmaster; why she didn't think she was right for the show, what it was like being on a team with Armando and why Lorraine Kelly on a trolley wouldn't be a good prize! Catch up on all of Taskmaster at Channel4.com For all your Taskmaster news and merch visit Taskmaster.tv You can also watch the podcast (plus loads of other TM content) at the shows YouTube Channel: youtube.com/c/Taskmaster",
+      "image_url": "https://artwork.captivate.fm/276d0a68-1526-4151-a48f-0170b4b8b8eb/TASKMASTER-PODCAST-ARTWORK-Joanna-v2.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/2eb89c48-90c1-4246-b508-5c1e09c033ad.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=2eb89c48-90c1-4246-b508-5c1e09c033ad",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49360828",
+      "itunes_duration": "51:25",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "joanna",
+        "page",
+        "series"
+      ]
+    },
     {
       "key": "f17d8617b2e6e45d366a2a73a273219eb4b6ae19",
       "title": "Armando Iannucci - Series 21 Ep.2",
@@ -5277,6 +5297,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — Joanna Page - Series 21 Ep.3 — speakers: Ed Gamble
 - 2026-04-16 — Armando Iannucci - Series 21 Ep.2 — speakers: Ed Gamble
 - 2026-04-09 — Phil Ellis - Series 21 Ep.1 — speakers: Ed Gamble
 - 2026-03-26 — Taskmaster The Podcast Rewind - Series 3 Ep3. With Katy Wix — speakers: Katy Wix, revisit Ed, Ed Gamble
