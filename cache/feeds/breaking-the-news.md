@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-04-17T19:21:33+00:00`
-- checked_at: `2026-04-17T19:21:33+00:00`
-- etag: `"1a5dea5b82e279f81f3a704ca2b672df"`
-- last_modified: `Fri, 17 Apr 2026 17:06:25 GMT`
+- fetched_at: `2026-04-24T14:06:14+00:00`
+- checked_at: `2026-04-24T14:06:14+00:00`
+- etag: `"e18c98d998ece0d36dd1e819d028a930"`
+- last_modified: `Fri, 24 Apr 2026 13:45:52 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-04-17T19:21:33+00:00",
+  "fetched_at": "2026-04-24T14:06:14+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -30,6 +30,35 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "80e33a20cabb0110eb22d3348e684cf0652d55b6",
+      "title": "Stuart Mitchell, Josie Long, Alistair Barrie and Sara Barron",
+      "published_at": "2026-04-24T13:02:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002v9x4",
+      "description": "Des and the teams break up the biggest news of the week, including the latest with Sir Keir Starmer and Peter Mandelson, John Swinney declining a trip to the US, and a rise in 'granny cooking'. Lead Writer: Elaine Malcolmson Additional Material: Nathan Cowley, John O'Neill, Stuart Beale, Alan Hazlie, Cooper Mawhinney Sweryt, Rebecca Bain & Alex Garrick-Wright, Jon Paisley, Gregor Paton Producer: Lauren Mackay Senior Producer: Dave Flynn Researcher: Chris Quilietti Script Editor: Keiron Nicholson An Eco-Audio certified Production.",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ngcf6j.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26880000",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Stuart Mitchell",
+        "Josie Long",
+        "Alistair Barrie",
+        "Sara Barron Des",
+        "Bbc Radio Scotland"
+      ],
+      "topics": [
+        "stuart",
+        "mitchell",
+        "josie",
+        "long",
+        "alistair",
+        "barrie",
+        "sara",
+        "barron"
+      ]
+    },
     {
       "key": "00736b847a4f0c699a372d4a6f5736919f654c2b",
       "title": "Amy Matthews, Scott Agnew, Athena Kugblenu and David Kay",
@@ -296,6 +325,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-24 — Stuart Mitchell, Josie Long, Alistair Barrie and Sara Barron — speakers: Stuart Mitchell, Josie Long, Alistair Barrie, Sara Barron Des, Bbc Radio Scotland
 - 2026-04-17 — Amy Matthews, Scott Agnew, Athena Kugblenu and David Kay — speakers: Amy Matthews, Scott Agnew, Athena Kugblenu, David Kay Des, Bbc Radio Scotland
 - 2026-04-10 — Amanda Dwyer, Jamie MacDonald, Kim Blythe and Stephen Buchanan — speakers: Amanda Dwyer, Jamie MacDonald, Kim Blythe, Stephen Buchanan Des, Bbc Radio Scotland
 - 2026-04-03 — Chris Forbes, Kemah Bob, Kate Hammer and Stuart McPherson — speakers: Chris Forbes, Kemah Bob, Kate Hammer, Stuart McPherson, Bbc Radio Scotland
