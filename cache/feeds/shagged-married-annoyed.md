@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-04-23T16:53:11+00:00`
-- checked_at: `2026-04-23T16:53:11+00:00`
-- last_modified: `Thu, 23 Apr 2026 14:45:52 GMT`
+- fetched_at: `2026-04-24T08:22:12+00:00`
+- checked_at: `2026-04-24T08:22:12+00:00`
+- last_modified: `Fri, 24 Apr 2026 04:35:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-23T16:53:11+00:00",
+  "fetched_at": "2026-04-24T08:22:12+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7c2d7e20261f37c895ac7ec0a73db1d16448e5b6",
+      "title": "Buzz Ballz, Pasta Puns and Safe Sex Tips from Chris!",
+      "published_at": "2026-04-24T04:28:00+00:00",
+      "link": null,
+      "description": "This week on Shagged Married Annoyed, Chris and Rosie get nostalgic for old school alcohol and they figure out what a Buzz Ball is! Chris provides some pasta based humour and lists things that really do blow his mind! The pair discuss the TV show Hebburn, a word that Chris has been using in front of the kids and why this week, there is no beef for Rosie... There is also a quick call with the original Barry Beef, our Kev! If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1248185349.mp3?updated=1776866498",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3673",
+      "speakers": [
+        "Buzz Ballz",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "buzz",
+        "ballz",
+        "pasta",
+        "puns",
+        "safe",
+        "tips",
+        "chris"
+      ]
+    },
     {
       "key": "b76479857b38035b92b635a8d5536f53c1baa373",
       "title": "Please Keep Me Anonymous with Tom Rosenthal",
@@ -8192,6 +8218,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-24 — Buzz Ballz, Pasta Puns and Safe Sex Tips from Chris! — speakers: Buzz Ballz, Chris Ramsey, Rosie Ramsey
 - 2026-04-22 — Please Keep Me Anonymous with Tom Rosenthal — speakers: Tom Rosenthal, Rosie Ramsey, Chris Ramsey
 - 2026-04-17 — Grown Up Tears in Build-A-Bear, A Knicker Drawer Clear Out and Chris Joins The Litter Police — speakers: Chris Joins, Rosie Ramsey, Chris Ramsey
 - 2026-04-15 — Please Keep Me Anonymous with Suzi Ruffell — speakers: Suzi Ruffell, Chris Ramsey, Rosie Ramsey
