@@ -2,9 +2,9 @@
 
 - slug: `xbox-casuals-an-xbox-podcast`
 - source: `https://anchor.fm/s/1580e714/podcast/rss`
-- fetched_at: `2026-04-22T03:42:37+00:00`
-- checked_at: `2026-04-22T03:42:37+00:00`
-- etag: `W/"cb207-ZgVyNhowFUoeGHwVbivSuH0YttQ"`
+- fetched_at: `2026-04-24T16:12:46+00:00`
+- checked_at: `2026-04-24T16:12:46+00:00`
+- etag: `W/"cca7a-dPFTgk1++JRW9tt3mqaCik02Clw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.towercasuals.com",
   "description": "Xbox Casuals is a biweekly podcast dedicated to all things Xbox, brought to you by Tower Casuals. Every other Friday, hosts Corey Dirrig and Josh Finney break down the latest Xbox news, rumors, Game Pass updates, new releases, and more. Tune in for new episodes every other Friday on all major podcast platforms and on the Tower Casuals YouTube channel.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3507693/3507693-1773365336153-dd04b03eadeee.jpg",
-  "fetched_at": "2026-04-22T03:42:37+00:00",
+  "fetched_at": "2026-04-24T16:12:46+00:00",
   "owners": [
     "Corey Dirrig",
     "Josh Finney"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "4c344c8bdad984807caa8b61b3e206cec29e5e04",
+      "title": "Xbox Game Pass Gets Cheaper As Call of Duty Exits",
+      "published_at": "2026-04-24T13:52:19+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/xboxcasuals/episodes/Xbox-Game-Pass-Gets-Cheaper-As-Call-of-Duty-Exits-e3ideu1",
+      "description": "Xbox is making some aggressive moves, and it feels like things are finally out in the open. Under Asha Sharma and Matt Booty, the team laid out a clear four-part plan for the future, covering hardware, games, player experience, and services. On this week’s Xbox Casuals , Corey Dirrig and Josh Finney discuss what it all means, from stabilizing the current console generation and teasing Project Helix, to growing franchises and rethinking how Xbox Game Pass works going forward. There’s even talk of potential acquisitions and changes to exclusivity. It’s a lot to take in, but more than anything, it finally feels like Xbox is being upfront about where it’s headed and has lit some fire under the community. Now it’s just a matter of seeing how it all plays out. This and more this week on Xbox Casuals . Join our communities: Boss Rush Community Discord Tower Casuals Destiny Discord Follow our Hosts: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Corey Dirrig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , Founder of Boss Rush Media, ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tower Casuals: The Destiny Podcast⁠,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and the ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Boss Rush Network⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Josh Finney⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , cofounder and cohost of ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tower Casuals: The Destiny Podcast⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ .",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3507693/3507693-1777037551097-6736d20fa0546.jpg",
+      "enclosure_url": "https://anchor.fm/s/1580e714/podcast/play/118978945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-24%2F8cf897c8-4964-7076-9ac4-fb89de321277.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78559001",
+      "itunes_duration": "01:05:27",
+      "speakers": [
+        "Gets Cheaper",
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
+      "topics": [
+        "xbox",
+        "game",
+        "pass",
+        "duty",
+        "exits"
+      ]
+    },
     {
       "key": "7b7376d02c5b45141d71a833f24e09cb7955c9cb",
       "title": "Epic Games Lays Off 1000 Employees as Industry Continues Its Spiral",
@@ -5172,6 +5196,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-24 — Xbox Game Pass Gets Cheaper As Call of Duty Exits — speakers: Gets Cheaper, Corey Dirrig, Josh Finney
 - 2026-03-27 — Epic Games Lays Off 1000 Employees as Industry Continues Its Spiral — speakers: Corey Dirri, Corey Dirrig, Josh Finney
 - 2026-03-13 — What is the Messaging Behind Xbox's Project Helix? — speakers: Project Helix, Corey Dirrig, Josh Finney
 - 2026-02-27 — Sarah Bond and Phil Spencer are Leaving Xbox, Asha Sharma Named New CEO — speakers: Sarah Bond, Phil Spencer, Leaving Xbox, Corey Dirrig, Josh Finney

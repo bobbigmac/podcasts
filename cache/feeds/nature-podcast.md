@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-04-22T16:19:06+00:00`
-- checked_at: `2026-04-22T16:19:06+00:00`
-- etag: `"djEuMi4wOjE3NzY4NzAwMzk0MTI="`
+- fetched_at: `2026-04-24T16:12:46+00:00`
+- checked_at: `2026-04-24T16:12:46+00:00`
+- etag: `"djEuMi4wOjE3NzcwNDM0NDYxMTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-04-22T16:19:06+00:00",
+  "fetched_at": "2026-04-24T16:12:46+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,30 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "68f0cd52bb38fdba9ae00d2a5a6ebb440f9ca0d2",
+      "title": "Inside the evidence revolution — how decision-making became data driven",
+      "published_at": "2026-04-24T15:10:45+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01359-1",
+      "description": "In this episode of Nature hits the books , we speak with Nature 's Helen Pearson whose book Beyond Belief: How Evidence Shows What Really Works looks at the history of using evidence, rather than opinion, in decision making. The book traces the course of the movement in various disciplines, such as the rise of evidence-based medicine in the 90s, looking at the rebels who led the charge, the barriers they faced, and why the use of evidence is crucial at a time when misinformation is rife. Beyond Belief: How Evidence Shows What Really Works Helen Pearson Princeton University Press (in the press) Music supplied by SPD/Triple Scoop Music/Getty Images Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69eb87f66e5b90839a9eed71/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25363823",
+      "itunes_duration": "26:23",
+      "speakers": [
+        "Helen Pearson",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "evidence",
+        "revolution",
+        "decision",
+        "making",
+        "datum"
+      ]
+    },
     {
       "key": "d776927f90bd1dc1736a362326d454439bd47212",
       "title": "Meet Ace, the table-tennis robot that can beat elite players",
@@ -19497,6 +19521,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-24 — Inside the evidence revolution — how decision-making became data driven — speakers: Helen Pearson, Benjamin Thompson, Noah Baker
 - 2026-04-22 — Meet Ace, the table-tennis robot that can beat elite players — speakers: Meet Ace, Benjamin Thompson, Noah Baker
 - 2026-04-17 — Briefing Chat: Penguins pick up PFAS pollution — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
 - 2026-04-15 — Giant cancer study reveals effectiveness of 'off label' treatments — speakers: Benjamin Thompson, Noah Baker
