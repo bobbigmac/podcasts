@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-04-23T03:46:36+00:00`
-- checked_at: `2026-04-23T03:46:36+00:00`
-- etag: `W/"35121-LOzCNO9zq6YOLPveNJpo5X7lftg"`
+- fetched_at: `2026-04-24T22:02:14+00:00`
+- checked_at: `2026-04-24T22:02:14+00:00`
+- etag: `W/"348b0-i3Gte1/zAPfAEbbPNAQ0co4+DUE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-04-23T03:46:36+00:00",
+  "fetched_at": "2026-04-24T22:02:14+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -35,32 +35,7 @@
       "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Pragmata-Rules--Rockstars-Been-Hacked--and-Bloodborne-Is-Getting-Movied--Firelink-Podcast-e3i3kh4",
       "description": "This week on Firelink, Nick, KC, and Marty chat about the specific high and low points of each major platform, thoughts on the Super Mario Galaxy Movie, and what they've been playing. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠patreon.com/SecondWindGroup",
       "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/118656996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-18%2F5c82d0a2-c43b-0e91-5dfd-11ee80b8a634.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "140857376",
-      "itunes_duration": "01:37:49",
-      "speakers": [
-        "Marty Sliva",
-        "Nick Calandra",
-        "KC Nwosu"
-      ],
-      "topics": [
-        "pragmata",
-        "rules",
-        "rockstar",
-        "bloodborne",
-        "firelink",
-        "podcast"
-      ]
-    },
-    {
-      "key": "b9356b9053e1b20c3abc53f1473b9627a73d185e",
-      "title": "Pragmata Rules, Rockstar's Been Hacked, and Bloodborne Is Getting Movie'd | Firelink Podcast",
-      "published_at": "2026-04-17T13:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Pragmata-Rules--Rockstars-Been-Hacked--and-Bloodborne-Is-Getting-Movied--Firelink-Podcast-e3i8vr0",
-      "description": "This week on Firelink, Nick, KC, and Marty chat about Capcom's latest winner in Pragmata, some fascinating Rockstar data, and thoughts on the newly announced Bloodborne animated movie. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠⁠",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/118832416/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-22%2F0dc3824d-db1c-1553-ac0e-36761d431999.mp3",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/118656996/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-24%2Fce018571-976f-9489-278a-77af68d9dae2.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "142561184",
       "itunes_duration": "01:39:00",
@@ -2736,7 +2711,6 @@
 ## Episodes (newest first)
 
 - 2026-04-18 — Pragmata Rules, Rockstar's Been Hacked, and Bloodborne Is Getting Movie'd | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
-- 2026-04-17 — Pragmata Rules, Rockstar's Been Hacked, and Bloodborne Is Getting Movie'd | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-04-10 — The High (and Low) Points of Nintendo, PlayStation, and Xbox | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-04-03 — Marathon, Crimson Desert, and Super Mario Wonder Have a Hold on Us | Firelink Podcast — speakers: Crimson Desert, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-03-27 — Stranger Than Heaven Looks Impossibly Cool | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu

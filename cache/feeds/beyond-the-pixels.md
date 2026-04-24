@@ -2,9 +2,9 @@
 
 - slug: `beyond-the-pixels`
 - source: `https://anchor.fm/s/10cd8b17c/podcast/rss`
-- fetched_at: `2026-04-24T19:12:36+00:00`
-- checked_at: `2026-04-24T19:12:36+00:00`
-- etag: `W/"175f-FQcb+2Y/Fa0LqCvxzyYRR3eON6o"`
+- fetched_at: `2026-04-24T22:02:14+00:00`
+- checked_at: `2026-04-24T22:02:14+00:00`
+- etag: `W/"175f-4li6FJ8sy/DtF7+xTgG/8XC/irQ"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/second-wind",
   "description": "A podcast that peers behind the fabric of the game development industry. Hosted by Nick Calandra.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45004951/45004951-1765819416911-95ba46ab6b4c3.jpg",
-  "fetched_at": "2026-04-24T19:12:36+00:00",
+  "fetched_at": "2026-04-24T22:02:14+00:00",
   "owners": [
     "Nick Calandra"
   ],
