@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-04-22T03:42:37+00:00`
-- checked_at: `2026-04-22T03:42:37+00:00`
-- etag: `"djEuMi4wOjE3NzY4MTQxNzkzMDQ="`
+- fetched_at: `2026-04-24T03:50:14+00:00`
+- checked_at: `2026-04-24T03:50:14+00:00`
+- etag: `"djEuMi4wOjE3NzY5ODY1NTkzMzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-04-22T03:42:37+00:00",
+  "fetched_at": "2026-04-24T03:50:14+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,25 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "661875484f9ba925eba7e8b7da8496a1cccf7e09",
+      "title": "You're The 2nd Richest Man I Know (pt 2)",
+      "published_at": "2026-04-23T23:22:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/youre-the-2nd-richest-man-i-know-pt-2",
+      "description": "Part 2 of this week’s episode — where the lads go deeper into the stories behind sport. 🎧 PART 2 Elis Documentary: The Overlap – Gareth Bale https://youtu.be/4HgfuJZVLHU?si=AAo7eHu2TliEND_4 Steff Book: Runner’s World (Harry Styles edition) https://www.runnersworld.com/uk/training/motivation/a70591239/harry-styles-marathon-haruki-murakami/?HearstNode=4F5F33FA2B5A7B34D4836F928AC01875D0201F6E0AB1D217C710F7BBF55D826D&utm_source=crm&utm_term=SUBS_N&utm_medium=email&utm_campaign=RNW_N_20260303_HS 👉 For early, ad-free listening + Part 3 bonus content , subscribe to Distant Pod Bonus Club on Apple Podcasts . 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69e1e568289eeb2c7b0ad633/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82464000",
+      "itunes_duration": "34:21",
+      "speakers": [
+        "Richest Man",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": []
+    },
     {
       "key": "b35509a75cd159f342cd2565d56cc258bdf99f3b",
       "title": "You're The 2nd Richest Man I Know (pt 1)",
@@ -14538,6 +14557,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — You're The 2nd Richest Man I Know (pt 2) — speakers: Richest Man, Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-21 — You're The 2nd Richest Man I Know (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-16 — Darllen a Rhedeg (pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-14 — Darllen a Rhedeg (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero

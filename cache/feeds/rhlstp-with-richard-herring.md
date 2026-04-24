@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-22T03:42:37+00:00`
-- checked_at: `2026-04-22T03:42:37+00:00`
-- etag: `"djEuMi4wOjE3NzY4MjY2NTk0MTI="`
+- fetched_at: `2026-04-24T03:50:14+00:00`
+- checked_at: `2026-04-24T03:50:14+00:00`
+- etag: `"djEuMi4wOjE3NzY5OTk0NTkyOTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-22T03:42:37+00:00",
+  "fetched_at": "2026-04-24T03:50:14+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "65f6d81b07a1405f4bfa25d60e7c435e1666bcd4",
+      "title": "RHLSTP Book Club 177 - Harriet Tyce",
+      "published_at": "2026-04-24T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #177 - Witch Trial - Rich talks to best selling author and brilliant and terrifying Traitors contestant Harriet Tyce about her phenomenal fifth novel, Witch Trial. Obviously there’s a bit of Traitors chat as they discuss the decision to go in and whether it’s helped with book sales, but mainly we’re looking at the effect of taking an MA in creative writing and why it might help you write a best selling novel, Harriet’s decision not to put out her second novel (or her earlier work that I would really like to see), the inspiration for Witch Trial, the real spooky stuff in Edinburgh that you can see in the National Museum, writing from the male perspective, the incredible ending of this book which we can’t really discuss but that I doubt you’ll guess, creating an atmosphere with two short early chapters and when in the process she wrote these and the possibility of a sequel. Plus Harriet does a Lee and Herring reference, almost like she’s as excited to meet me as I am to meet her. Buy the book here - https://uk.bookshop.org/p/books/witch-trial-don-t-miss-the-extraordinary-brand-new-thriller-from-the-sunday-times-million-copy-bestselling-author-available-to-pre-order-now-harrie/d50dd98898dbdd03 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1774449294906-e4d47dd5-f016-424a-8137-c4edcdec06dc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69c3f2a01d78c4aa57bb54df/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27775366",
+      "itunes_duration": "55:14",
+      "speakers": [
+        "Book Club",
+        "Harriet Tyce",
+        "Witch Trial",
+        "Richard Herring"
+      ],
+      "topics": [
+        "rhlstp",
+        "book",
+        "club",
+        "harriet",
+        "tyce"
+      ]
+    },
     {
       "key": "98411ca49a4bd180c3d223b105fb3b0d3faf7411",
       "title": "RHLSTP 607 - Andy Hamilton",
@@ -22130,6 +22155,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-24 — RHLSTP Book Club 177 - Harriet Tyce — speakers: Book Club, Harriet Tyce, Witch Trial, Richard Herring
 - 2026-04-22 — RHLSTP 607 - Andy Hamilton — speakers: Andy Hamilton, Richard Herring
 - 2026-04-21 — RAACN week 12 — speakers: Richard Herring
 - 2026-04-20 — Retro RHLSTP 140 - Nish Kumar — speakers: Nish Kumar, Big Nick, Leicester Comedy Festival, Richard Herring

@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-04-23T16:53:11+00:00`
-- checked_at: `2026-04-23T16:53:11+00:00`
-- last_modified: `Thu, 23 Apr 2026 16:17:53 GMT`
+- fetched_at: `2026-04-24T03:50:14+00:00`
+- checked_at: `2026-04-24T03:50:14+00:00`
+- last_modified: `Thu, 23 Apr 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-23T16:53:11+00:00",
+  "fetched_at": "2026-04-24T03:50:14+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "939d058207a2c791498c1547713cef75e762eb73",
+      "title": "Three Peaks Challenge, Intrusive Thoughts & Anxiety When Things Go Well",
+      "published_at": "2026-04-23T23:01:00+00:00",
+      "link": null,
+      "description": "Will Tom and Rom finally conquer the National Three Peaks Challenge? Can the Owl's advice on intrusive thoughts help you stop bracing for disaster when life is going well? And how would they handle finding out the world is ending? Plus, the power of listener email strikes again, and Rom is heading back to Tunbridge Wells! If you've got a problem that no one else can solve, email us at wolfowlpod@gmail.com and become one of the hoard. Don't forget to like and subscribe! A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 - Intro 00:36 - London Marathon 03:20 - Movie audition 08:11 - Three Peaks 10:16 - Tunbridge Wells 16:30 - The pain body 18:48 - Join the hoard Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/964e6ce4-3ef2-11f1-919a-cb67df97b8ff/image/76289e18eec11f82e9dfeb9e2629de30.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7930648271.mp3?updated=1776961369",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1338",
+      "speakers": [
+        "Will Tom",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "peaks",
+        "challenge",
+        "intrusive",
+        "thoughts",
+        "anxiety",
+        "thing"
+      ]
+    },
     {
       "key": "3ac3395a17e68c6eb83586b894fae5d7db7d012c",
       "title": "Harry Styles, Chocolate Cake and the World Cup",
@@ -6571,6 +6596,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — Three Peaks Challenge, Intrusive Thoughts & Anxiety When Things Go Well — speakers: Will Tom, Romesh Ranganathan, Tom Davis
 - 2026-04-21 — Harry Styles, Chocolate Cake and the World Cup — speakers: Harry Styles, Romesh Ranganathan, Tom Davis
 - 2026-04-16 — Bedroom Feedback, Gary Neville and Sleep Routines — speakers: Bedroom Feedback, Gary Neville, Ian Botham, Gary Nevil, Romesh Ranganathan, Tom Davis
 - 2026-04-13 — Ninja Turtles, Dirty Underwear and Spicy Sausage — speakers: Romesh Ranganathan, Tom Davis

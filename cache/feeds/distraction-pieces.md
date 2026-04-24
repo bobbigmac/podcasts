@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-04-22T03:42:37+00:00`
-- checked_at: `2026-04-22T03:42:37+00:00`
-- etag: `"djEuMi4wOjE3NzY4MjgwMzkzMzI="`
+- fetched_at: `2026-04-24T03:50:14+00:00`
+- checked_at: `2026-04-24T03:50:14+00:00`
+- etag: `"djEuMi4wOjE3NzcwMDA4Mzk1MjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-04-22T03:42:37+00:00",
+  "fetched_at": "2026-04-24T03:50:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "383abef2a8eb2a76b335ae2e37eb9fa181a5bbe6",
+      "title": "BOOTS RILEY (Sorry To Bother You / I Love Boosters / rap legends The Coup) • Friday Rewind",
+      "published_at": "2026-04-24T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Boots Riley , originally episode 243 from 2018-12-05. Original writeup below: “…as I went on I realised the main thing that I needed to give people was passion…” Pip’s been lining this one up for a GOOD long while, before the hype was bubbling in the UK for Boot’s debut film as director, and the wonderful news is that it will be in the UK very soon! I for one am sick of reading tweets about how good it is from US people. So it’s great news that us UK folk get a piece… This is a perfect if slightly condensed connection with Pip and Boots, as they get into his desire to be Prince early on, theatre, film school, wanting to sound like Ice Cube, the mainstream-ness of documentaries, having faith in a great cast, his diverse cinematic influences, importance of wardrobe and “beautiful clutter”. Oh, and that whole Spike Lee thing too... Wonderful - enjoy, investigate the film ‘ SORRY TO BOTHER YOU ’ and go through the back catalogue of THE COUP at your nearest convenience!!! PIP'S PATREON PAGE if you're of a supporting nature I LOVE BOOSTERS SORRY TO BOTHER YOU THE COUP BOOTS RILEY on TWITTER BOOTS on SPIKE LEE PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1776773648852-c76dd4b9-9dc4-413a-a7bb-a306a1245025.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69e76b4a6eeb59e2baa30fbc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105588557",
+      "itunes_duration": "43:55",
+      "speakers": [],
+      "topics": [
+        "boots",
+        "riley",
+        "sorry",
+        "love",
+        "boosters",
+        "legend",
+        "coup",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "df6bf9ccde5b4a2b691784016155ff9935948e67",
       "title": "GEMMA CAIRNEY • pre-order 'The Immortal Sisterhood' to ensure a gift of future happiness (radio / media / all things great) #668",
@@ -34,8 +58,8 @@
       "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1776693371001-9d7ea80b-899e-4241-84c4-28753b1244c0.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69e62ed0abe143da5b264781/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "195104724",
-      "itunes_duration": "1:21:14",
+      "enclosure_length": "195047124",
+      "itunes_duration": "1:21:12",
       "speakers": [],
       "topics": [
         "gemma",
@@ -18653,6 +18677,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-24 — BOOTS RILEY (Sorry To Bother You / I Love Boosters / rap legends The Coup) • Friday Rewind
 - 2026-04-22 — GEMMA CAIRNEY • pre-order 'The Immortal Sisterhood' to ensure a gift of future happiness (radio / media / all things great) #668
 - 2026-04-17 — NORMAN COOK (aka FATBOY SLIM!) • Friday Rewind — speakers: Norman Cook
 - 2026-04-15 — ED GAMBLE • get your tickets now for his 2027 'Fresh Hell' tour (Off Menu / Traitors: Uncloaked / Taskmaster) #667

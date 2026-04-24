@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-04-23T14:10:56+00:00`
-- checked_at: `2026-04-23T14:10:56+00:00`
-- etag: `"djEuMi4wOjE3NzY5NTI2MjU2MjI="`
+- fetched_at: `2026-04-24T03:50:14+00:00`
+- checked_at: `2026-04-24T03:50:14+00:00`
+- etag: `"djEuMi4wOjE3NzY5ODUzNjAzMTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-04-23T14:10:56+00:00",
+  "fetched_at": "2026-04-24T03:50:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "065ddd18580015e8d54bcef737e58b7c9a08f0c6",
+      "title": "Ep. 580 - Seann Walsh (Unedited) - From episode 76, now 20 mins longer!",
+      "published_at": "2026-04-23T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-580-seann-walsh-unedited-from-episode-76-now-20-mins-long",
+      "description": "An unedited version of Ep. 76 with comedian Sean Walsh. Now 20 mins longer! Seann Walsh has appeared on Live at the Apollo three times, The Wheel, 8 Out of 10 Cats, The Last Leg, The Stand Up Sketch Show, Alan Davies: As Yet Untitled, World’s Most Dangerous Roads, Battle in the Box and Series 22 of I’m a Celebrity…Get Me Out of Here!, Strictly Come Dancing and just stared in I'm A Celebrity South Africa. Seann also hosts a trilogy of podcasts: Oh My Dog alongside Jack Dee, where they interview a special guest all about their relationships with their beloved dogs. Class Clown, which since its launch has cemented itself firmly up the charts. Seann’s self-produced YouTube stand-up specials Back From The Bed, Kiss, and Seann Walsh is Dead, Happy Now? have together amassed over a million views, and cemented Seann’s status as one of the best stand-up comedians in the country. Seann’s acting credits include The Lovebox in Your Living Room, Clown, and The Bystanders, which won him the award for Best Actor (Feature Film) at the 2023 Sydney Science Fiction Film Festival. He also made his Shakespearean debut in 2024, playing Malvolio in Twelfth Night at Stafford Gatehouse, and 2024 also saw him take on the role of Yvan in a regional UK tour of the multi -award winning play ART directed by Iqbal Khan, earning Seann five star reviews for both plays. Seann Walsh is our guest in episode 580 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . For tickets to Seann’s tour and his podcasts, visit - https://www.seannwalsh.com . Follow Seann Walsh on Instagram : @seannwalsh . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69ea25316e5b90839a721f28/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95213107",
+      "itunes_duration": "1:19:20",
+      "speakers": [
+        "Seann Walsh",
+        "Sean Walsh"
+      ],
+      "topics": [
+        "seann",
+        "walsh",
+        "unedited"
+      ]
+    },
     {
       "key": "90e5367f3a8ab197af638971bcbe6cf31895536c",
       "title": "Ep. 579 - Fatiha El-Ghorri - Stand-up comedy from from Taskmaster, Live at the Apollo, QI, The Last Leg…",
@@ -12412,6 +12433,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-23 — Ep. 580 - Seann Walsh (Unedited) - From episode 76, now 20 mins longer! — speakers: Seann Walsh, Sean Walsh
 - 2026-04-19 — Ep. 579 - Fatiha El-Ghorri - Stand-up comedy from from Taskmaster, Live at the Apollo, QI, The Last Leg… — speakers: Fatiha El-Ghorri
 - 2026-04-16 — Ep. 578 - Alicia Kite - Fashion entrepreneur, academy founder and shapewear designer — speakers: Alicia Kite
 - 2026-04-12 — Ep. 577 - Lily Phillips - BBC New Comedy Awards Finalist, Chortle’s “One to Watch”, Leicester Square New Comedian of the Year runner up — speakers: Leicester Square New Comedian, Lily Phillips
