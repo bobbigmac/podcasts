@@ -22219,6 +22219,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:477c6e03fb84",
+        "feed_title": "The MMA Fan Show",
+        "source_rss_url": "https://feeds.acast.com/public/shows/1646f88e-303a-4afe-a03b-2158260948f0",
+        "dedupe_key": "3bcf95dacf399ee4eb633cd42ca853ab5d349da6",
+        "episode_key": "3bcf95dacf399ee4eb633cd42ca853ab5d349da6",
+        "title": "Special Guest - Lee Mack",
+        "published_at": "2021-05-24T10:34:25Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The MMA Fan Podcast \nOn this episode you can hear hosts Blake & Stu chat to comedian and actor Lee Mack. This is a Fight Or Flight special where we asked Lee to watch Andrei Arlovski\nv Travis Browne for the first time and we all go in on one the wildest fights in UFC history\nThe MMA Fan Podcast Disclaimer\nBlake & Stu a",
+        "audio_url": "https://sphinx.acast.com/the-mma-fan-podcast/specialguest-leemack/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/special-guest-lee-mack/id1556071172?i=1000521004059&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:46728eebbe84",
         "feed_title": "The British Broadcasting Century with Paul Kerensa",
         "source_rss_url": "https://feed.podbean.com/bbcentury/feed.xml",
@@ -33022,6 +33044,28 @@
         "description": "Ken has another chat with writer/performer David Mitchell about politicians, live TV, Charlemagne, Anglo-Saxon genital words, suburbia, and slapping John Cleese.",
         "audio_url": "https://traffic.libsyn.com/secure/bitofachat/bit_of_a_chat-david_mitchell_2.mp3?dest-id=12910",
         "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-2/id305634745?i=1000386981449&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:39d607c415b2",
+        "feed_title": "World Book Club",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/p003jhsk.rss",
+        "dedupe_key": "1b913575648930ba95f6965b8719b11b9f5e0581",
+        "episode_key": "1b913575648930ba95f6965b8719b11b9f5e0581",
+        "title": "World Book Club: David Mitchell",
+        "published_at": "2010-06-05T19:06:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Harriett Gilbert talks to David Mitchell about his novel Cloud Atlas.",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02qr69b.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/world-book-club-david-mitchell/id263658343?i=1000083860085&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
