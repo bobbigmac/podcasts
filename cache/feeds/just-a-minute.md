@@ -2,10 +2,10 @@
 
 - slug: `just-a-minute`
 - source: `https://podcasts.files.bbci.co.uk/b006s5dp.rss`
-- fetched_at: `2026-03-09T19:10:05+00:00`
-- checked_at: `2026-03-09T19:10:05+00:00`
-- etag: `"d23c7bbeef829486f2bafaca4ca667d6"`
-- last_modified: `Mon, 09 Mar 2026 19:00:05 GMT`
+- fetched_at: `2026-04-24T10:44:49+00:00`
+- checked_at: `2026-04-24T10:44:49+00:00`
+- etag: `"15083e51df9f30ac7f8d26b7f418323a"`
+- last_modified: `Fri, 24 Apr 2026 09:15:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b006s5dp",
   "description": "Panel game in which the contestants are challenged to speak for one minute without hesitation, deviation or repetition on any subject that comes up on the cards",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1qz57.jpg",
-  "fetched_at": "2026-03-09T19:10:05+00:00",
+  "fetched_at": "2026-04-24T10:44:49+00:00",
   "owners": [
     "Bbc Radio"
   ],
