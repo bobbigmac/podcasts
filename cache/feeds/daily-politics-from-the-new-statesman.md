@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-24T14:06:14+00:00`
-- checked_at: `2026-04-24T14:06:14+00:00`
-- etag: `"djEuMi4wOjE3NzcwMjg4NDQxNzc="`
+- fetched_at: `2026-04-25T19:11:26+00:00`
+- checked_at: `2026-04-25T19:11:26+00:00`
+- etag: `"djEuMi4wOjE3NzcxMzI4MzkzMzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1764584528464-e9d29d68-9714-4c17-a134-9fdc587a932f.jpeg",
-  "fetched_at": "2026-04-24T14:06:14+00:00",
+  "fetched_at": "2026-04-25T19:11:26+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "4d28843c94624021ec5f3570ab1a38b8e373be5a",
+      "title": "Political F-bombs and Jacob Rees-Mogg “unbuttoned”",
+      "published_at": "2026-04-25T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/political-f-bombs-and-jacob-rees-mogg-unbuttoned",
+      "description": "The inevitability of the Peter Mandelson scandal, Jacob Rees-Mogg’s live show, and the rising cost of condoms… Will Dunn and Anoosh Chakelian round up the stories of the week. READ: https://www.newstatesman.com/politics/uk-politics/2026/04/whos-afraid-of-olly-robbins https://www.newstatesman.com/politics/the-sketch/2026/04/jacob-rees-mogg-relishes-the-limelight LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777028539325-a0bc4b67-98c0-4264-b841-6ba3eeeaeac3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69eb4eecd2febdbec94b3150/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54163012",
+      "itunes_duration": "28:07",
+      "speakers": [
+        "Jacob Rees-Mogg",
+        "Peter Mandelson",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "bomb",
+        "jacob",
+        "rees",
+        "mogg"
+      ]
+    },
     {
       "key": "2c35400674300a00068873c71f3d157daaa66311",
       "title": "Keir Starmer is all alone",
@@ -31062,6 +31086,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-25 — Political F-bombs and Jacob Rees-Mogg “unbuttoned” — speakers: Jacob Rees-Mogg, Peter Mandelson, Anoosh Chakelian, Oli Dugmore
 - 2026-04-23 — Keir Starmer is all alone — speakers: Peter Mandelson, Anoosh Chakelian, Oli Dugmore
 - 2026-04-20 — Does Starmer deserve more credit? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-04-18 — Ex defence secretary slams Starmer's strategy — speakers: Anoosh Chakelian, Oli Dugmore
