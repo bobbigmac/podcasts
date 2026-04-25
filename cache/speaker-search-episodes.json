@@ -14221,6 +14221,28 @@
     ],
     "alex-horne": [
       {
+        "feed_slug": "external:apple:f6f6a1cd1e9f",
+        "feed_title": "Taskmaster Ísland",
+        "source_rss_url": "https://feed.podbean.com/taskmasterisland/feed.xml",
+        "dedupe_key": "de9454e736817be1dcfcaef1c58063c2c9247978",
+        "episode_key": "de9454e736817be1dcfcaef1c58063c2c9247978",
+        "title": "#3 - Edda Björgvins & Alex Horne",
+        "published_at": "2026-04-24T12:29:39Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "**ENGLISH BELOW**\n\n\n\nAri Eldjárn og Jóhann Alfreð kafa undir yfirborðið á Taskmaster Ísland þáttaröðinni á Sýn.\n\n \n\nEdda Björgvins er gestur þáttarins í dag. Edda var ansi óviss með að taka þátt - enda þolir hún ekki svona keppnir eða þrautaþætti að eigin sögn. Hún hefur hins vegar slegið í gegn með frammistöðu sinni o",
+        "audio_url": "https://mcdn.podbean.com/mf/web/3kx34fmf6vhstrv7/TM_3.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/3-edda-bj%C3%B6rgvins-alex-horne/id1882701809?i=1000763418981&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:937fa744d6bb",
         "feed_title": "The Kickabout With Johnny Vaughan",
         "source_rss_url": "https://feeds.captivate.fm/the-kickabout-with-johnny",
@@ -15124,6 +15146,28 @@
         "description": "To finish the Champion of Champions two-parter Ed is joined by the show creator and assistant to The Taskmaster - it's Little Alex Horne! Alex returns to the podcast with some great Champion of Champion's behind the scenes exclusives and even some Series 13 teasers! Enjoy, your time starts now! \nWatch all of Taskmaster",
         "audio_url": "https://dax.captivate.fm/b9b04c79-8b19-42de-b57d-c1ca72f00f5e/media-encoded.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=9442f44f-19b9-41b6-b5ea-949926f0152c",
         "link_url": "https://podcasts.apple.com/gb/podcast/ep-67-alex-horne-champion-of-champions-s1-5-ep-2/id1535040312?i=1000550640810&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:c6031f1ae9bf",
+        "feed_title": "Hawksbee and Jacobs Daily",
+        "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
+        "dedupe_key": "a437b9a45909c0e0d4f5b8fb574f04782623bf9a",
+        "episode_key": "a437b9a45909c0e0d4f5b8fb574f04782623bf9a",
+        "title": "Hat Replacement Service",
+        "published_at": "2021-09-23T14:56:59Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Paul and Charlie are joined by comedian and Taskmaster star Alex Horne, comedian and Chelsea fan Omid Djalili, one of the star's of a viral village cricket video Nush Ladak as well as Andy Jacobs and Geoff Peters for a cracking birthday spread! Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/hawksbeeandjacobs/hatreplacementservice/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/hat-replacement-service/id348889102?i=1000536403766&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
