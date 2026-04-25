@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-04-24T03:50:14+00:00`
-- checked_at: `2026-04-24T03:50:14+00:00`
-- last_modified: `Fri, 24 Apr 2026 00:06:39 GMT`
+- fetched_at: `2026-04-25T03:31:45+00:00`
+- checked_at: `2026-04-25T03:31:45+00:00`
+- last_modified: `Fri, 24 Apr 2026 23:08:50 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-24T03:50:14+00:00",
+  "fetched_at": "2026-04-25T03:31:45+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,29 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "69c92bd1bd1debb8fc324101c593e834610d1a24",
+      "title": "Frank Skinner’s Radio Days: Naked Bike Ride",
+      "published_at": "2026-04-24T23:00:00+00:00",
+      "link": null,
+      "description": "Frank, Emily and Alun are in 2013 for this edition of the radio show best bits. Frank has had an unbelievable week, Emily has been to LA with R. Patz and Barack Obama has had an issue with names. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/847a0094-3c29-11f1-86c1-77e14e2be1ba/image/d5c8bed165865e75ab19d9dfea02deb9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8823847480.mp3?updated=1776629136",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2499",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "naked",
+        "bike",
+        "ride"
+      ]
+    },
     {
       "key": "ec82be8b9bc1e1afd4689a214dbc6adada9957ae",
       "title": "The Tooth Fairy Has A Side Hustle",
@@ -11290,13 +11313,13 @@
       ]
     },
     {
-      "key": "d48ef5a438843b2e1474f4e63ed62b05fc6bc7b0",
+      "key": "81781c7f89c31bee3dd07a7b838ae5af76fe1297",
       "title": "Frank Skinner in conversation with Russell T Davies",
       "published_at": "2017-09-19T23:00:00+00:00",
-      "link": null,
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170915135553.mp3",
       "description": "Russell T Davies drops in to chat to Frank about his brand new book, Dr Who and Cucumber. Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/926a4eaa-817e-11ef-8fe9-4ba28c52c978/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9756902071.mp3?updated=1738239390",
+      "image_url": "https://megaphone.imgix.net/podcasts/91e37f56-817e-11ef-8fe9-bfc52ad41a4e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6014759002.mp3?updated=1738239147",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1790",
@@ -11313,13 +11336,13 @@
       ]
     },
     {
-      "key": "81781c7f89c31bee3dd07a7b838ae5af76fe1297",
+      "key": "d48ef5a438843b2e1474f4e63ed62b05fc6bc7b0",
       "title": "Frank Skinner in conversation with Russell T Davies",
       "published_at": "2017-09-19T23:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170915135553.mp3",
+      "link": null,
       "description": "Russell T Davies drops in to chat to Frank about his brand new book, Dr Who and Cucumber. Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/91e37f56-817e-11ef-8fe9-bfc52ad41a4e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6014759002.mp3?updated=1738239147",
+      "image_url": "https://megaphone.imgix.net/podcasts/926a4eaa-817e-11ef-8fe9-4ba28c52c978/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9756902071.mp3?updated=1738239390",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1790",
@@ -12063,25 +12086,6 @@
       ]
     },
     {
-      "key": "7c4e0deb661ada556c65fb430b63a19a3b131ada",
-      "title": "The Frank Skinner Show",
-      "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170215084334.mp3",
-      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2012 - 2014. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a6a6d0f0-817e-11ef-8fe9-ff6933348e1c/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5794355821.mp3?updated=1738248195",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "5157",
-      "speakers": [
-        "Frank Skinner"
-      ],
-      "topics": [
-        "frank",
-        "skinner"
-      ]
-    },
-    {
       "key": "43a3b6dc5229a2a177261786bfe7de141447e6d8",
       "title": "The Best of Frank 2009 - 2011",
       "published_at": "2017-01-28T08:00:00+00:00",
@@ -12098,6 +12102,25 @@
       "topics": [
         "best",
         "frank"
+      ]
+    },
+    {
+      "key": "7c4e0deb661ada556c65fb430b63a19a3b131ada",
+      "title": "The Frank Skinner Show",
+      "published_at": "2017-01-28T08:00:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170215084334.mp3",
+      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2012 - 2014. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a6a6d0f0-817e-11ef-8fe9-ff6933348e1c/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5794355821.mp3?updated=1738248195",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5157",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner"
       ]
     },
     {
@@ -23368,6 +23391,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-24 — Frank Skinner’s Radio Days: Naked Bike Ride — speakers: Frank Skinner
 - 2026-04-24 — The Tooth Fairy Has A Side Hustle — speakers: Rob Auton, Frank Skinner
 - 2026-04-22 — Frank Skinner's Poetry Podcast: Erasure Poetry — speakers: Frank Skinner's Poetry, Nicole Sealey, Emma Filtness, Frank Skinner
 - 2026-04-20 — Visited By The Water Police — speakers: Steve Hall, Frank Skinner
@@ -23978,8 +24002,8 @@
 - 2017-02-04 — The Frank Skinner Show - Drexit — speakers: Frank Skinner
 - 2017-01-28 — Big Daddy's Birthday — speakers: Frank Skinner
 - 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
-- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-28 — The Best of Frank 2009 - 2011 — speakers: Frank Skinner
+- 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-27 — Frank in Conversation with Adrian Chiles — speakers: Radio Frank, Frank Skinner
 - 2017-01-21 — The Frank Skinner Show - Diamante Detail — speakers: Frank Skinner
 - 2017-01-14 — The Frank Skinner Show - The Abuse Of The Fork — speakers: Frank Skinner

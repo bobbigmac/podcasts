@@ -4234,6 +4234,28 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:b668206d8929",
+        "feed_title": "Taskmaster The Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
+        "dedupe_key": "1b02b6762ae799046f8d0de2180e5a0856d7f627",
+        "episode_key": "1b02b6762ae799046f8d0de2180e5a0856d7f627",
+        "title": "Joanna Page - Series 21 Ep.3",
+        "published_at": "2026-04-23T20:45:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on the Taskmaster Podcast Ed Gamble is joined by the the actor, podcaster and the star of Gavin & Stacey, Joanna Page! \nJoanna shares all about being on the current series of Taskmaster; why she didn't think she was right for the show, what it was like being on a team with Armando and why Lorraine Kelly on a ",
+        "audio_url": "https://episodes.captivate.fm/episode/2eb89c48-90c1-4246-b508-5c1e09c033ad.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=2eb89c48-90c1-4246-b508-5c1e09c033ad",
+        "link_url": "https://podcasts.apple.com/gb/podcast/joanna-page-series-21-ep-3/id1535040312?i=1000763315135&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -26888,6 +26910,28 @@
       }
     ],
     "richard-ayoade": [
+      {
+        "feed_slug": "external:apple:41fa7076cc7d",
+        "feed_title": "Le podcast du festival",
+        "source_rss_url": "https://feeds.podcastics.com/podcastics/podcasts/rss/5623_6a8fc55bb5e835721ea6757f5711b3c0.rss",
+        "dedupe_key": "0da1320366fe985ffb51799a82be3005996b806d",
+        "episode_key": "0da1320366fe985ffb51799a82be3005996b806d",
+        "title": "Wes Anderson & Richard Ayoade",
+        "published_at": "2026-04-24T14:03:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Réalisateurs au style inimitable, Wes Anderson et Richard Ayoade ont partagé leur vision du cinéma, entre esthétique minutieuse et humour subtil. À travers leurs œuvres respectives, ils façonnent des univers uniques, reconnaissables entre tous, où chaque détail compte. Avec finesse et autodérision, ils sont revenus sur",
+        "audio_url": "https://track.podcastics.com/5623/413485.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/wes-anderson-richard-ayoade/id1675217999?i=1000763434416&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:562f25abfaaa",
         "feed_title": "The Comedy Room",
