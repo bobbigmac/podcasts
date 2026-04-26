@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-24T03:50:14+00:00`
-- checked_at: `2026-04-24T03:50:14+00:00`
-- etag: `"djEuMi4wOjE3NzY5OTk0NTkyOTc="`
+- fetched_at: `2026-04-26T15:57:24+00:00`
+- checked_at: `2026-04-26T15:57:24+00:00`
+- etag: `"djEuMi4wOjE3NzcyMTMzMTYxMTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-24T03:50:14+00:00",
+  "fetched_at": "2026-04-26T15:57:24+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e26de78a11078cfaa28ab6563912726bba3b284d",
+      "title": "RAACN week 13",
+      "published_at": "2026-04-26T14:21:56+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "﻿Tuesday 21st April 2026 - Bullseye! Rich and Ally are back after a brief hiatus with the biggest news story from Spain, involving serious injury to a Spanish man, so no laughs in this one. What do you mean, just like normal? Wednesday 22nd April 2026 - Ma-kak-que - It’s been a difficult week with no sleep for Rich, but luckily he is a pro and none of that makes it to the screen and it’s another serious news day covering Barbary Apes, Finnish sky penises and the interview that all the media wanted. Everything is OK. You have nothing to fear. Apart from Ally coming to your house in the night which is about 50% likely to happen. Sorry. Friday 24th April 2026 - Nuke Em - Rich and Ally are back for the last Newsround of the Week and Rich is a bit tired from performing every night. How did John Craven do it? Not that this is anything like anything he did. They talk about nuclear war and York City’s promotion chances. Would a nuclear bomb or York failing to get promotion be worse? That’s just one of the questions that is not addressed in this episode, which might include some songs. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1777213060048-57fa4de5-5ba2-4a2a-bb15-a18dc7d50f43.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69ee1f8423929c3a2a1be8df/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23745792",
+      "itunes_duration": "49:28",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "raacn",
+        "week"
+      ]
+    },
     {
       "key": "65f6d81b07a1405f4bfa25d60e7c435e1666bcd4",
       "title": "RHLSTP Book Club 177 - Harriet Tyce",
@@ -22155,6 +22174,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-26 — RAACN week 13 — speakers: Richard Herring
 - 2026-04-24 — RHLSTP Book Club 177 - Harriet Tyce — speakers: Book Club, Harriet Tyce, Witch Trial, Richard Herring
 - 2026-04-22 — RHLSTP 607 - Andy Hamilton — speakers: Andy Hamilton, Richard Herring
 - 2026-04-21 — RAACN week 12 — speakers: Richard Herring
