@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-04-20T14:10:48+00:00`
-- checked_at: `2026-04-20T14:10:48+00:00`
-- last_modified: `Mon, 20 Apr 2026 14:08:31 GMT`
+- fetched_at: `2026-04-26T03:55:36+00:00`
+- checked_at: `2026-04-26T03:55:36+00:00`
+- last_modified: `Sat, 25 Apr 2026 23:01:54 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-20T14:10:48+00:00",
+  "fetched_at": "2026-04-26T03:55:36+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
