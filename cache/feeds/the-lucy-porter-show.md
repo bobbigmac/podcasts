@@ -2,8 +2,8 @@
 
 - slug: `the-lucy-porter-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/`
-- fetched_at: `2026-04-26T07:54:50+00:00`
-- checked_at: `2026-04-26T07:54:50+00:00`
+- fetched_at: `2026-04-26T10:06:10+00:00`
+- checked_at: `2026-04-26T10:06:10+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "image_url": "",
-  "fetched_at": "2026-04-26T07:54:50+00:00",
+  "fetched_at": "2026-04-26T10:06:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
