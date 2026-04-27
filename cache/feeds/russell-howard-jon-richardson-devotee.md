@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-04-26T19:13:58+00:00`
-- checked_at: `2026-04-26T19:13:58+00:00`
-- etag: `W/"2b674-6d3TRHYfEF/dry3F1s+V8Xfr4KQ"`
+- fetched_at: `2026-04-27T22:06:31+00:00`
+- checked_at: `2026-04-27T22:06:31+00:00`
+- etag: `W/"2bbfc-7isRgNjES4KsQEKJg09uYNfalxQ"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,40 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-04-26T19:13:58+00:00",
+  "fetched_at": "2026-04-27T22:06:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "59333e4640222d447e4422d83f02702bb134ebf1",
+      "title": "Josh Widdicombe XFM #3 – James Acaster Classic Scrape 3, Joe Lycett on The Pope.",
+      "published_at": "2026-04-27T17:46:25+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-3--James-Acaster-Classic-Scrape-3--Joe-Lycett-on-The-Pope-e3ii0ac",
+      "description": "James Acaster shares another Classic Scrape about his encounter with a celebrity. Joe Lycett phones in to talk about the Pope.Broadcast on 19th February 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1777311974832-3d2922506948a.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/119127820/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-27%2Fc1b57522-837c-5d69-05c3-dc9c8fbffa31.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29921771",
+      "itunes_duration": "00:31:09",
+      "speakers": [
+        "James Acaster Classic Scrape",
+        "Joe Lycett",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "lycett",
+        "pope"
+      ]
+    },
     {
       "key": "e91be104e7654eb313681bd6d0a53afdd5225f4a",
       "title": "Josh Widdicombe XFM #2 – James Acaster Classic Scrape 2, Joe Lycett on Richard III",
@@ -3139,6 +3166,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Josh Widdicombe XFM #3 – James Acaster Classic Scrape 3, Joe Lycett on The Pope. — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster
 - 2026-04-26 — Josh Widdicombe XFM #2 – James Acaster Classic Scrape 2, Joe Lycett on Richard III — speakers: James Acaster Classic Scrape, Joe Lycett, Richard Iii, James Acaster
 - 2026-04-23 — Josh Widdicombe XFM #1 - Stephen Merchant, James Acaster Classic Scrape, Joe Lycett — speakers: James Acaster Classic Scrape, Joe Lycett Ricky Gervais, Josh Widdicombe, Stephen Merchant
 - 2026-04-22 — Best of James Acaster Podcast Fubar Radio
