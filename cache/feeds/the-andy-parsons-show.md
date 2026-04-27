@@ -2,8 +2,8 @@
 
 - slug: `the-andy-parsons-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/`
-- fetched_at: `2026-04-27T03:59:50+00:00`
-- checked_at: `2026-04-27T03:59:50+00:00`
+- fetched_at: `2026-04-27T08:40:52+00:00`
+- checked_at: `2026-04-27T08:40:52+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/",
   "image_url": "",
-  "fetched_at": "2026-04-27T03:59:50+00:00",
+  "fetched_at": "2026-04-27T08:40:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

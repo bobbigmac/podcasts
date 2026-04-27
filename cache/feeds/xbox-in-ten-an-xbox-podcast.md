@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-04-23T03:46:36+00:00`
-- checked_at: `2026-04-23T03:46:36+00:00`
-- etag: `"d77f1f2cf6978658f05fda33fb986b6c"`
-- last_modified: `Wed, 22 Apr 2026 23:28:40 GMT`
+- fetched_at: `2026-04-27T08:40:52+00:00`
+- checked_at: `2026-04-27T08:40:52+00:00`
+- etag: `"b9ee3c04cea4de0f7212d922603cccd1"`
+- last_modified: `Mon, 27 Apr 2026 04:15:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-04-23T03:46:36+00:00",
+  "fetched_at": "2026-04-27T08:40:52+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "3ea9e711c68f9c52999a3d1142d97fb11fb578fd",
+      "title": "Xbox Game Pass Ultimate Price Drop! - (Xbox In Ten: An Xbox Podcast - Ep. 361)",
+      "published_at": "2026-04-27T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-game-pass-ultimate-price-drop-xbox-in-ten-an-xbox-podcast-ep-361",
+      "description": "Week of: 4-20-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/2/1/0/1/21010cffa6bad759d959afa2a1bf1c87/361.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/361.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13190040",
+      "itunes_duration": "11:35",
+      "speakers": [
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "game",
+        "pass",
+        "ultimate",
+        "price",
+        "drop",
+        "podcast"
+      ]
+    },
     {
       "key": "36446371aa3edaa26c775651a689efab607d5b4f",
       "title": "Microsoft Considering Major Changes To Game Pass After CEO Said It's Too Expensive - (Xbox In Ten: An Xbox Podcast - Ep. 360)",
@@ -9069,6 +9093,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Xbox Game Pass Ultimate Price Drop! - (Xbox In Ten: An Xbox Podcast - Ep. 361) — speakers: Brandon Rosa
 - 2026-04-20 — Microsoft Considering Major Changes To Game Pass After CEO Said It's Too Expensive - (Xbox In Ten: An Xbox Podcast - Ep. 360) — speakers: Brandon Rosa
 - 2026-04-13 — Xbox To Release Halo: Campaign Evolved In July 2026? - (Xbox In Ten: An Xbox Podcast - Ep. 359) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-04-06 — Xbox Games Showcase 2026 with Gears E-Day Direct on June 7 - (Xbox In Ten: An Xbox Podcast - Ep. 358) — speakers: Brandon Rosa

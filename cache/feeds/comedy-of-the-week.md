@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-04-21T08:07:58+00:00`
-- checked_at: `2026-04-21T08:07:58+00:00`
-- etag: `"ef012f3d7a2e20a9099f07096a8cabc4"`
-- last_modified: `Tue, 21 Apr 2026 05:00:05 GMT`
+- fetched_at: `2026-04-27T08:40:52+00:00`
+- checked_at: `2026-04-27T08:40:52+00:00`
+- etag: `"d0f31719264a733524e836d6ccb96ef7"`
+- last_modified: `Mon, 27 Apr 2026 04:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-04-21T08:07:58+00:00",
+  "fetched_at": "2026-04-27T08:40:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,23 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "fb8ec4513012187891866488dd573c8b66a5912d",
+      "title": "Brian & Roger",
+      "published_at": "2026-04-27T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0ngfpgz",
+      "description": "This is episode 1 of the latest series of Brian & Roger, titled Carla. There’s not much that could quell Roger’s positive mood; he’s got a plan for a very special bonding activity with his teenage son Jamie and Brian may be able to help. There’s romance on the cards too but he'll need some dating advice... Brian & Roger are friends that met at a support group for divorced men. Both are starting again, both are finding it hard. One of them is nice. To hear more episodes from this series, search \"Brian and Roger\" on BBC Sounds. Written and performed by Harry Peacock and Dan Skinner. Produced by Joel Morris and Sally Harrison. Music by Bach, arranged by Hywel Davies. Hywel Davies (piano), Luke Belcher (bass), Tilly Tremayne (vocals). Executive Producer: Johnny Vegas A Woolyback production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ngfkrr.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14128000",
+      "itunes_duration": "883",
+      "speakers": [],
+      "topics": [
+        "brian",
+        "roger"
+      ]
+    },
     {
       "key": "084857b1d65f9cb4a3849b6d5722e3a5ffb86de6",
       "title": "Nature Table",
@@ -977,6 +994,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Brian & Roger
 - 2026-04-20 — Nature Table
 - 2026-04-13 — Unspeakable — speakers: Hugh Dennis, Katy Wix
 - 2026-04-06 — Live from the UK: Live Comedy Day
