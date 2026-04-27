@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-04-27T16:55:14+00:00`
-- checked_at: `2026-04-27T16:55:14+00:00`
-- etag: `W/"35167-TcHyE/KFvqWnbmm0p3mG/BUrlHM"`
+- fetched_at: `2026-04-27T19:48:32+00:00`
+- checked_at: `2026-04-27T19:48:32+00:00`
+- etag: `W/"348b0-i3Gte1/zAPfAEbbPNAQ0co4+DUE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-04-27T16:55:14+00:00",
+  "fetched_at": "2026-04-27T19:48:32+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,31 +28,6 @@
     "games"
   ],
   "episodes": [
-    {
-      "key": "42d21ac92ca5a12fb02a121274770a3ffcb4a5c4",
-      "title": "Building a Showcase, Black Flag Returns, and More | Firelink Podcast",
-      "published_at": "2026-04-24T13:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Building-a-Showcase--Black-Flag-Returns--and-More--Firelink-Podcast-e3ihs03",
-      "description": "This week on Firelink, Nick, KC, and Marty chat about what goes into building a video game showcase, Black Flag Resynced, and Xbox Game Pass getting the rare price reduction. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/119123395/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-27%2Ffb4b87a0-8837-b606-826d-5aa107651223.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "134339360",
-      "itunes_duration": "01:33:17",
-      "speakers": [
-        "Marty Sliva",
-        "Nick Calandra",
-        "KC Nwosu"
-      ],
-      "topics": [
-        "showcase",
-        "black",
-        "flag",
-        "return",
-        "firelink",
-        "podcast"
-      ]
-    },
     {
       "key": "c9be807d2834833a45c2731d51c859e3eeedc757",
       "title": "Pragmata Rules, Rockstar's Been Hacked, and Bloodborne Is Getting Movie'd | Firelink Podcast",
@@ -2735,7 +2710,6 @@
 
 ## Episodes (newest first)
 
-- 2026-04-24 — Building a Showcase, Black Flag Returns, and More | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-04-18 — Pragmata Rules, Rockstar's Been Hacked, and Bloodborne Is Getting Movie'd | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-04-10 — The High (and Low) Points of Nintendo, PlayStation, and Xbox | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-04-03 — Marathon, Crimson Desert, and Super Mario Wonder Have a Hold on Us | Firelink Podcast — speakers: Crimson Desert, Marty Sliva, Nick Calandra, KC Nwosu
