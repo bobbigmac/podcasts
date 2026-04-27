@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-04-21T10:43:56+00:00`
-- checked_at: `2026-04-21T10:43:56+00:00`
-- etag: `"djEuMi4wOjE3NzY3NTk4NDUwNDA="`
+- fetched_at: `2026-04-27T14:26:17+00:00`
+- checked_at: `2026-04-27T14:26:17+00:00`
+- etag: `"djEuMi4wOjE3NzcyOTg4NDI1MDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-04-21T10:43:56+00:00",
+  "fetched_at": "2026-04-27T14:26:17+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "db9d4ac4c79cdedf91e0971b36139407aa8fda0c",
+      "title": "So You'd Like To Join a Polycule",
+      "published_at": "2026-04-27T14:07:22+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/so-youd-like-to-join-a-polycule",
+      "description": "This week, Katherine's Telling Everybody Everything about the difference between the American justice system and the rules against influencing a jury in the UK with regards to entertainer Russell Brand's apparent press tour. Later, comedian Andrew Johnston joins us @mandrewbrawnston to bring news of the UK ban on selling tobacco to anyone born after January 2009 and an exciting opportunity to join a San Francisco 'polycule'. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1777298429719-0d1e46b8-6757-49a2-a53b-1451247c687e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/69ef6d9aca8040fd3178d749/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58961419",
+      "itunes_duration": "40:56",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "polycule"
+      ]
+    },
     {
       "key": "115c596f8665a86723c7355809010e870d78fb50",
       "title": "Non-Consensual Filming Fallout",
@@ -6092,6 +6111,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — So You'd Like To Join a Polycule — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-04-21 — Non-Consensual Filming Fallout — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-04-13 — He Put Hidden Cameras In My Bedroom — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-04-07 — Bobby K Reacts to Moon Mission — speakers: Katherine Ryan

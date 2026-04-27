@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-23T14:10:56+00:00`
-- checked_at: `2026-04-23T14:10:56+00:00`
-- etag: `"djEuMi4wOjE3NzY5NDU2Mzk0NDA="`
+- fetched_at: `2026-04-27T14:26:17+00:00`
+- checked_at: `2026-04-27T14:26:17+00:00`
+- etag: `"djEuMi4wOjE3NzcyOTEyMzk1MTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,32 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-23T14:10:56+00:00",
+  "fetched_at": "2026-04-27T14:26:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "0eff9a8467e38c14587cfa00544409459b459eb2",
+      "title": "Debriefing the Hannah Spencer interview",
+      "published_at": "2026-04-27T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69ef4c9e8bbe959f25d80dce",
+      "description": "Andy, Seán, and Ava wade into the discourse inferno set alight by yesterday's interview with Green MP Hannah Spencer, with one question in particular emerging: does Westminster have a drinking problem? Also, a look ahead to Morgan McSweeney's appearance before the Foreign Affairs Select Committee tomorrow. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69ef4c9e8bbe959f25d80dce/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74576774",
+      "itunes_duration": "51:46",
+      "speakers": [
+        "Hannah Spencer"
+      ],
+      "topics": [
+        "hannah",
+        "spencer"
+      ]
+    },
     {
       "key": "de87c290b3bedb56ba7173bc162d67b250e9d03d",
       "title": "Why Starmer can't recover from the Mandelson scandal | David Maddox interview",
@@ -12675,6 +12694,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Debriefing the Hannah Spencer interview — speakers: Hannah Spencer
 - 2026-04-23 — Why Starmer can't recover from the Mandelson scandal | David Maddox interview — speakers: David Maddox
 - 2026-04-22 — Keir Starmer survives Mandelson fiasco, just | PMQs Analysis
 - 2026-04-21 — Civil Servant ends Keir Starmer in Select Committee — speakers: Civil Servant, Olly Robbins
