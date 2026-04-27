@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-04-22T03:42:37+00:00`
-- checked_at: `2026-04-22T03:42:37+00:00`
-- last_modified: `Wed, 22 Apr 2026 01:08:27 GMT`
+- fetched_at: `2026-04-27T16:55:14+00:00`
+- checked_at: `2026-04-27T16:55:14+00:00`
+- last_modified: `Mon, 27 Apr 2026 15:13:17 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-22T03:42:37+00:00",
+  "fetched_at": "2026-04-27T16:55:14+00:00",
   "owners": [
     "Russell Howard"
   ],

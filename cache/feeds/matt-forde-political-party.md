@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-04-22T08:05:33+00:00`
-- checked_at: `2026-04-22T08:05:33+00:00`
-- etag: `"djEuMi4wOjE3NzY4MzY4MDMyMzI="`
+- fetched_at: `2026-04-27T16:55:14+00:00`
+- checked_at: `2026-04-27T16:55:14+00:00`
+- etag: `"djEuMi4wOjE3NzczMDMwNDUxMjk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-04-22T08:05:33+00:00",
+  "fetched_at": "2026-04-27T16:55:14+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "2ab2bb3f561c14a3c3b83ae5c8843f1488fc664a",
+      "title": "Show 400. Andrew Marr - Replay",
+      "published_at": "2026-04-27T15:16:46+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-400-andrew-marr-replay",
+      "description": "This is a classic from the back catalogue. You are about to be thoroughly entertained by one of the best raconteurs in the history of the show. Andrew Marr is one of the most gifted broadcasters that Britain has ever produced and he shares hilarious stories from his wonderful career. This is a show packed with powerful moments, including the mistakes Andrew thinks the media made in their coverage of Iraq, and his experiences of interviewing leading politicians like Boris Johnson and Jeremy Corbyn. Andrew Marr isn't just a gifted journalist, he's fantastic company. Enjoy! THE POLITICAL PARTY LIVE 11 May: Lewis Goodall 1 June: Andy Burnham https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE Matt's brand new stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/69ef7e057cc011b3f645e1ae/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119454155",
+      "itunes_duration": "1:22:56",
+      "speakers": [
+        "Andrew Marr Replay",
+        "Matt Forde"
+      ],
+      "topics": [
+        "andrew",
+        "marr",
+        "replay"
+      ]
+    },
     {
       "key": "5fda1656eb88f7007e94cadef7eec2179bce20b1",
       "title": "Show 399. Shabana Mahmood - LIVE",
@@ -10284,6 +10305,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Show 400. Andrew Marr - Replay — speakers: Andrew Marr Replay, Matt Forde
 - 2026-04-22 — Show 399. Shabana Mahmood - LIVE — speakers: Shabana Mahmood, Matt Forde
 - 2026-04-13 — Show 398. Ben Judah — speakers: Ben Judah, Matt Forde
 - 2026-04-06 — Show 397. Claire Coutinho — speakers: Claire Coutinho, Matt Forde
