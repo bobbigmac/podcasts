@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-04-27T03:59:50+00:00`
-- checked_at: `2026-04-27T03:59:50+00:00`
-- etag: `W/"ad22b79dfa80a3f17b0e0b34dfa10a86"`
-- last_modified: `Sun, 26 Apr 2026 22:55:00 GMT`
+- fetched_at: `2026-04-27T11:17:16+00:00`
+- checked_at: `2026-04-27T11:17:16+00:00`
+- etag: `W/"143e1afaf958aac6e038508a9c1434da"`
+- last_modified: `Mon, 27 Apr 2026 08:48:44 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-04-27T03:59:50+00:00",
+  "fetched_at": "2026-04-27T11:17:16+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -36,15 +36,13 @@
       "title": "Little Fish: Jurassic Bark",
       "published_at": "2026-04-26T22:55:00+00:00",
       "link": "https://audioboom.com/posts/8895133",
-      "description": "",
+      "description": "Dan, James and Andy discuss YOUR facts, including hippos and hip-hop. Dan's joke-telling career reaches its peak. And we name eight more Friend of the Podcast fact custodians. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43479177.jpg",
       "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8895133.mp3?modified=1777045678&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1901",
       "speakers": [
-        "Little Fish",
-        "Jurassic Bark",
         "Dan Schreiber",
         "James Harkin",
         "Anna Ptaszynski",
@@ -16174,7 +16172,7 @@
 
 ## Episodes (newest first)
 
-- 2026-04-26 — Little Fish: Jurassic Bark — speakers: Little Fish, Jurassic Bark, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-04-26 — Little Fish: Jurassic Bark — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-04-23 — No Such Thing As Anti-Drone Sharks — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-04-19 — Little Fish: Violent Dave — speakers: Violent Dave Dan, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-04-16 — No Such Thing As A Second-Placed Helmet — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
