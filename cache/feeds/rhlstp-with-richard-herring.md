@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-26T19:13:58+00:00`
-- checked_at: `2026-04-26T19:13:58+00:00`
-- etag: `"djEuMi4wOjE3NzcyMjExOTEyMjc="`
+- fetched_at: `2026-04-27T03:59:50+00:00`
+- checked_at: `2026-04-27T03:59:50+00:00`
+- etag: `"djEuMi4wOjE3NzcyNTg2NTkyOTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-26T19:13:58+00:00",
+  "fetched_at": "2026-04-27T03:59:50+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "46ec3d133e37eaf264ced89665a2593ffb0426ff",
+      "title": "Retro RHLSTP 141 - Ria Lina",
+      "published_at": "2026-04-27T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#414 Thid - Richard returns to his old stomping ground of Balham to take part in the Cheerful Earful Festival at the Bedford pub, a place that holds a lot of memories, some of which occur to him as he’s speaking. His guest is the fabulous Ria Lina. They talk about the power of being an outsider in comedy, gigging whilst pregnant, working for the serious fraud office, why the coronavirus helped propel Ria into the spotlight, some behind the scenes secrets from Have I Got News For You? and the extra demands put on female performers. Buy Richard’s new book here. http://gofasterstripe.com/ball SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1777220796502-27aa3b2f-a473-4148-8cff-06e2508f5cbd.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69ee3d261e5fb1ae460f46b0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42581622",
+      "itunes_duration": "1:25:13",
+      "speakers": [
+        "Ria Lina",
+        "Cheerful Earful",
+        "Richard Herring"
+      ],
+      "topics": [
+        "retro",
+        "lina"
+      ]
+    },
     {
       "key": "e26de78a11078cfaa28ab6563912726bba3b284d",
       "title": "RAACN week 13",
@@ -22174,6 +22195,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Retro RHLSTP 141 - Ria Lina — speakers: Ria Lina, Cheerful Earful, Richard Herring
 - 2026-04-26 — RAACN week 13 — speakers: Richard Herring
 - 2026-04-24 — RHLSTP Book Club 177 - Harriet Tyce — speakers: Book Club, Harriet Tyce, Witch Trial, Richard Herring
 - 2026-04-22 — RHLSTP 607 - Andy Hamilton — speakers: Andy Hamilton, Richard Herring

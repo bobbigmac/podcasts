@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-04-26T19:13:58+00:00`
-- checked_at: `2026-04-26T19:13:58+00:00`
-- etag: `"djEuMi4wOjE3NzcyMjg2NDg0MTQ="`
+- fetched_at: `2026-04-27T03:59:50+00:00`
+- checked_at: `2026-04-27T03:59:50+00:00`
+- etag: `"djEuMi4wOjE3NzcyNDQ1NTkzMTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-04-26T19:13:58+00:00",
+  "fetched_at": "2026-04-27T03:59:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f7d4d0647e9eeea9db09df51ea7b42ea8cdf1c96",
+      "title": "Ep. 581 - Eleanor Morton - Award winning comedian who's written for The News Quiz, The Now Show, Hypothetical and The Beano.",
+      "published_at": "2026-04-26T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-581-eleanor-morton-award-winning-comedian-whos-written-fo",
+      "description": "Eleanor Morton is a Scottish stand-up, writer and actor whose latest Edinburgh Fringe show, Haunted House , received rave reviews and won a Terrier Award. She is widely recognised for her online sketch characters, including Craig the Tourguide and documentarian Suzanne Primate, which have earned her a substantial following and fans such as Patton Oswalt, Michael McKean and Taika Waititi. For radio, Eleanor co-wrote and performed The Rest of Us for BBC Radio 4 alongside Esyllt Sears and Mary Flanigan, and has appeared in the live panel show 8 Out of 10 Celts . She has also written for BBC Radio Ulster’s Lunchtime With Michael Fry . Her other writing credits include The News Quiz , The Now Show , Newsjack , Hypothetical and The Beano . She has also been a panellist and writer on Radio Scotland’s Breaking The News , and has appeared across BBC Radio 4 and Radio 4 Extra. A regular on the UK live circuit, she has supported acts including Josie Long, Tony Law, Frankie Boyle, Stewart Francis and Lost Voice Guy. She has performed eight solo shows at the Edinburgh Fringe, including Lollipop (2014), nominated for Best Show at the Scottish Comedy Awards, and Great Title, Glamorous Photo (2018), both available on NextUp. She performs regularly at leading venues including The Stand and Monkey Barrel Comedy. Eleanor Morton is our guest in episode 581 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Tickets for Eleanor’s Edinburgh Fringe show, Eleanor Morton: The Mermaid, available here - https://www.edfringe.com/tickets/whats-on/eleanor-morton-the-mermaid . For Eleanor’s podcast, book and everything else, visit - https://eleanormortoncomedian.com . Follow Eleanor Morton on Instagram : @eleanormortoncomedy . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69ee5b68ae8bc4f377002aad/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93490593",
+      "itunes_duration": "1:17:54",
+      "speakers": [
+        "Eleanor Morton",
+        "Edinburgh Fringe"
+      ],
+      "topics": [
+        "eleanor",
+        "morton",
+        "award",
+        "comedian",
+        "news",
+        "quiz",
+        "hypothetical",
+        "beano"
+      ]
+    },
     {
       "key": "065ddd18580015e8d54bcef737e58b7c9a08f0c6",
       "title": "Ep. 580 - Seann Walsh (Unedited) - From episode 76, now 20 mins longer!",
@@ -12433,6 +12459,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-26 — Ep. 581 - Eleanor Morton - Award winning comedian who's written for The News Quiz, The Now Show, Hypothetical and The Beano. — speakers: Eleanor Morton, Edinburgh Fringe
 - 2026-04-23 — Ep. 580 - Seann Walsh (Unedited) - From episode 76, now 20 mins longer! — speakers: Seann Walsh, Sean Walsh
 - 2026-04-19 — Ep. 579 - Fatiha El-Ghorri - Stand-up comedy from from Taskmaster, Live at the Apollo, QI, The Last Leg… — speakers: Fatiha El-Ghorri
 - 2026-04-16 — Ep. 578 - Alicia Kite - Fashion entrepreneur, academy founder and shapewear designer — speakers: Alicia Kite

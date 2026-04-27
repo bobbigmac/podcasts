@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-04-26T21:54:44+00:00`
-- checked_at: `2026-04-26T21:54:44+00:00`
-- last_modified: `Sun, 26 Apr 2026 20:49:46 GMT`
+- fetched_at: `2026-04-27T03:59:50+00:00`
+- checked_at: `2026-04-27T03:59:50+00:00`
+- last_modified: `Sun, 26 Apr 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-26T21:54:44+00:00",
+  "fetched_at": "2026-04-27T03:59:50+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c4f2c86e8629ad8b7d8d4a82bbb7699b6f3a7b89",
+      "title": "Thundercat on Creativity, Positive Mindsets & Finding His Sound",
+      "published_at": "2026-04-26T23:01:00+00:00",
+      "link": null,
+      "description": "Can you force creativity or does it only come when it’s ready? Double Grammy Award winning artist Thundercat joins Romesh Ranganathan for a wide-ranging conversation about music, art, style and finding your own sound. From Thundercat’s journey in music, growing up around musicians, to becoming a solo artist and finding his niche, they discuss how his sound developed and how working with Flying Lotus changed everything. He also touches on creating during trauma and why he believes creativity cannot be rushed. And they discuss the potential of a new album... Plus, a question from Shanthi on confidence and dealing with bullying growing up, touring and new music, a game of Misquoted and obviously, a lot of love for the bass. A Ranga Bee Production in partnership with Platform. 00:00 Intro 03:23 Romesh gasses up Thundercat 03:57 Gift giving 06:49 Upcoming European Tour 08:15 The difference between American crowds 10:20 Was he always going to be a musician? 11:59 When art starts paying off 14:00 How did he become a solo artist? 16:30 How to define Thundercats genre 22:19 A question from Shanthi on confidence 25:28 On getting bullied 29:09 Thundercats style 35:00 New music and possible albums 38:30 On trauma effecting creativity 40:13 Misquoted 43:50 On Mac Miller 45:56 Misquoted continued 48:03 Is Thundercat a Thundercat fan? 50:56 The importance of bass 52:55 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8bf89e46-41a8-11f1-8598-db2db0087123/image/ce98acf1630210d8bb9fc40456833a98.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2279784898.mp3?updated=1777236880",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3401",
+      "speakers": [
+        "Grammy Award",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "thundercat",
+        "creativity",
+        "positive",
+        "mindsets",
+        "sound"
+      ]
+    },
     {
       "key": "5e593229da8665de16ca34d3466e74713cf4dfb1",
       "title": "Shanthi’s TikTok Shop Obsession & Are Sleepovers Bad?",
@@ -1438,6 +1461,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-26 — Thundercat on Creativity, Positive Mindsets & Finding His Sound — speakers: Grammy Award, Romesh Ranganathan
 - 2026-04-22 — Shanthi’s TikTok Shop Obsession & Are Sleepovers Bad? — speakers: Romesh Ranganathan
 - 2026-04-19 — Harry Hill: From Doctor To Comedian, TV Burp & Success in America — speakers: Harry Hill, Comedian Harry Hill, Romesh Ranganathan
 - 2026-04-16 — Shanthi Takes On Misquoted & Are Skiing Holidays Overrated? — speakers: Can Shanthi, Romesh Ranganathan

@@ -22528,6 +22528,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:811a218cc3ab",
+        "feed_title": "The BALANCE podcast",
+        "source_rss_url": "https://feeds.acast.com/public/shows/91654f1b-3e5c-4ff1-a30a-53835349f6e8",
+        "dedupe_key": "c355126183537fa832c000573f77bf0c19c71a64",
+        "episode_key": "c355126183537fa832c000573f77bf0c19c71a64",
+        "title": "Episode 22 (bonus episode!): Lee Mack on the art of quick thinking",
+        "published_at": "2019-07-12T04:55:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "There is simply no one quicker than Lee Mack.\nThe comedian gives us an insight into that lightning quick mind, ahead of the release of the new Horrible Histories movie.\nLee also talks about possibly having ADHD - you'll discover why it's a \"possibly\".\nThe Not Going Out star was talking as part of the LOCO London Comedy",
+        "audio_url": "https://sphinx.acast.com/balance/leemackontheartofquickthinking/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-22-bonus-episode-lee-mack-on-the-art-of/id1456186895?i=1000444276317&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b3c2c6e0098f",
         "feed_title": "Immerse Yourself in Stories Through Sound With Full Audiobook",
         "source_rss_url": "https://hoststorage.space/tune/user/2480/index.xml",
@@ -30600,6 +30622,28 @@
     ],
     "jack-dee": [
       {
+        "feed_slug": "external:apple:e5b58072e338",
+        "feed_title": "Oh My Dog! with Jack Dee and Seann Walsh",
+        "source_rss_url": "https://anchor.fm/s/10b7d8230/podcast/rss",
+        "dedupe_key": "46f402ba40dede9b0cbd01e4c178f0ac3be87e88",
+        "episode_key": "46f402ba40dede9b0cbd01e4c178f0ac3be87e88",
+        "title": "The Cinnamon Trust & Mildred is 5!",
+        "published_at": "2026-04-27T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Mildred turns five (which sends Seann into a full existential spiral), Juniper survives a Toblerone incident, and Jack reflects on dogs getting older… before the gang are joined by Izzy Cude from The Cinnamon Trust.\nThey support elderly and terminally ill people to keep their beloved pets - and the scale of what they d",
+        "audio_url": "https://traffic.megaphone.fm/APO8534855881.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-cinnamon-trust-mildred-is-5/id1675517221?i=1000763727170&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:d5a7e6acbb25",
         "feed_title": "The Romesh Ranganathan Show",
         "source_rss_url": "https://feeds.megaphone.fm/romesh",
@@ -31057,6 +31101,28 @@
         "description": "Kirsty Young's castaway this week is the comedian, Jack Dee.\nComedian, actor and writer, his persona is that of the laconic miserabilist - his hit sit-com was called \"Lead Balloon\" and his autobiography entitled \"Thanks For Nothing\". That is only part of the picture: even though show business was in the family - his gr",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02pnydr.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/jack-dee/id342735925?i=1000312230762&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:5b0a180ff3c7",
+        "feed_title": "Immerse Yourself in Premium Audiobook Titles in Entertainment & Performing Arts",
+        "source_rss_url": "https://mediabooks.space/bi/3871/index.xml",
+        "dedupe_key": "879f528b9c4323c232f01d7762186c085aea5a7f",
+        "episode_key": "879f528b9c4323c232f01d7762186c085aea5a7f",
+        "title": "Stephen Lyttelton, Tim Brooke-Taylor, Graeme Garden, Barry Cryer, Tony Hawks, Jools Holland, Andy Hamilton, Sandi Toksvig, Jeremy Hardy, Rob Brydon, Jack Dee presents I'm Sorry I Haven't a Clue: Humph Celebration Concert",
+        "published_at": "2011-10-21T04:17:48Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "#ads Get premium access to stream any unabridged audiobook by starting your free trial:https://mediabooks.space/il-3871/Title: I'm Sorry I Haven't a Clue: Humph Celebration Concert\n Author: Stephen Lyttelton, Tim Brooke-Taylor, Graeme Garden, Barry Cryer, Tony Hawks, Jools Holland, Andy Hamilton, Sandi Toksvig, Jeremy ",
+        "audio_url": "https://samples.audible.com/bk/bbcw/005095/bk_bbcw_005095_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stephen-lyttelton-tim-brooke-taylor-graeme-garden-barry/id1895573772?i=1000763730112&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

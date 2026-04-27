@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-04-24T22:02:14+00:00`
-- checked_at: `2026-04-24T22:02:14+00:00`
-- last_modified: `Fri, 24 Apr 2026 21:59:40 GMT`
+- fetched_at: `2026-04-27T03:59:50+00:00`
+- checked_at: `2026-04-27T03:59:50+00:00`
+- last_modified: `Sun, 26 Apr 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-24T22:02:14+00:00",
+  "fetched_at": "2026-04-27T03:59:50+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c0124b0924f5735bb69d84d3febb1599b881d758",
+      "title": "HARRY HILL: Tough Early Shows, Gigging With Al Murray & Innate Understanding Of Jokes",
+      "published_at": "2026-04-26T23:00:00+00:00",
+      "link": null,
+      "description": "Harry Hill sits down with Seann Walsh and discusses navigating the eccentric characters on the circuit in his early performing days, how he fell in love with comedy and his innate understanding of jokes, a formative early experience performing in a panto and his early days as a doctor. He also talks about the advice he gave a young Al Murray, how he found his early stage time and whether his parents experience in Am Dram possibly helped plant the possibility of a career in performance. Check Out Part 2 of our Harry Hill interview here and get access to him answering your questions ! Get Tickets to see Seann live on his This Is Torture! Tour Don't forget to check out Harry's new podcast The Harry Hill Show! Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9444503002.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2979",
+      "speakers": [
+        "Harry Hill",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "harry",
+        "hill",
+        "tough",
+        "show",
+        "murray",
+        "innate",
+        "understanding",
+        "jokes"
+      ]
+    },
     {
       "key": "c534ffd466ba39777d98200e4968ec69aa6c5ccd",
       "title": "AL MURRAY: Harry Hill's advice \"Stop Being Lazy!\" & Secrets Of The Pub Landlord",
@@ -1346,6 +1372,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-26 — HARRY HILL: Tough Early Shows, Gigging With Al Murray & Innate Understanding Of Jokes — speakers: Harry Hill, Seann Walsh
 - 2026-04-20 — AL MURRAY: Harry Hill's advice "Stop Being Lazy!" & Secrets Of The Pub Landlord — speakers: Harry Hill, Al Murray, Seann Walsh
 - 2026-04-12 — AL MURRAY: I Have To Fight Being A Conformist — speakers: Al Murray, Stewart Lee, Richard Herring, Seann Walsh
 - 2026-04-05 — JANINE HAROUNI: Bullying Shaped My Comedy — speakers: My Comedy Janine Harouni, Seann Walsh
