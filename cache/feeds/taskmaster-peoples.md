@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-04-20T14:10:48+00:00`
-- checked_at: `2026-04-20T14:10:48+00:00`
-- etag: `"10bede-64fe4b55e776c"`
-- last_modified: `Mon, 20 Apr 2026 13:59:34 GMT`
+- fetched_at: `2026-04-28T11:16:58+00:00`
+- checked_at: `2026-04-28T11:16:58+00:00`
+- etag: `"10c73b-6508217ca99cf"`
+- last_modified: `Tue, 28 Apr 2026 09:45:35 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-04-20T14:10:48+00:00",
+  "fetched_at": "2026-04-28T11:16:58+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "eb718e473bbf0a8d0a39f1fde7e5b1f493d6e584",
+      "title": "Various Danglements - S21, Ep.3",
+      "published_at": "2026-04-27T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Does Joel make the best bit of wordplay in Taskmaster history? Are telepathic winks the only good winks? Is the leg a shape? Is Lorraine Kelly proof that the Scottish mafia are always on stand by? Jenny and Jack gather to discuss this and so much more about episode 3. Plus a listener writes in with a worm hill she’s ready to die on while another listener points out why Sophie Duker is responsible for the whole worm task. Do you know the life span of a worm? Can you wink telepathically? We’d love to hear from you: fans@tasmakster.tv",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/ba5f7c3c-acb0-4a24-9d09-2916d4a74a14.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=ba5f7c3c-acb0-4a24-9d09-2916d4a74a14",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60126259",
+      "itunes_duration": "59:05",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "danglements"
+      ]
+    },
     {
       "key": "6ce8b5350c7eb12d3db9df3873a2974aafdf2a41",
       "title": "Yorkshire Puddings on a Plane - S21, Ep.2",
@@ -4454,6 +4473,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Various Danglements - S21, Ep.3 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-04-20 — Yorkshire Puddings on a Plane - S21, Ep.2 — speakers: Yorkshire Puddings, Kumail Nanjiani, Jenny Eclair, Jack Bernhardt
 - 2026-04-13 — Happy New Series Day! - S21, Ep. 1 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-04-06 — SERIES 21 STATS EXPLOSION — speakers: Amy Gledhill, Armando Iannucci, Joanna Page, Jenny Eclair, Jack Bernhardt
