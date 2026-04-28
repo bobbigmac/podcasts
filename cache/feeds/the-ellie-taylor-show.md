@@ -2,8 +2,8 @@
 
 - slug: `the-ellie-taylor-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/`
-- fetched_at: `2026-04-28T11:16:58+00:00`
-- checked_at: `2026-04-28T11:16:58+00:00`
+- fetched_at: `2026-04-28T17:02:15+00:00`
+- checked_at: `2026-04-28T17:02:15+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "image_url": "",
-  "fetched_at": "2026-04-28T11:16:58+00:00",
+  "fetched_at": "2026-04-28T17:02:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
