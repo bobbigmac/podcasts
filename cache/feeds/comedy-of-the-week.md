@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-04-27T08:40:52+00:00`
-- checked_at: `2026-04-27T08:40:52+00:00`
-- etag: `"d0f31719264a733524e836d6ccb96ef7"`
-- last_modified: `Mon, 27 Apr 2026 04:00:05 GMT`
+- fetched_at: `2026-04-28T04:05:08+00:00`
+- checked_at: `2026-04-28T04:05:08+00:00`
+- etag: `"754022f6708f10b6d40ff31ca0f1c77b"`
+- last_modified: `Tue, 28 Apr 2026 04:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-04-27T08:40:52+00:00",
+  "fetched_at": "2026-04-28T04:05:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -964,28 +964,6 @@
         "spicer",
         "room"
       ]
-    },
-    {
-      "key": "4f3edc7b68f07c186378a015dc67d0414827cb7f",
-      "title": "Mark Watson Talks a Bit About Life",
-      "published_at": "2025-04-28T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0l68n80",
-      "description": "Multi-award winning comedian and author Mark Watson continues his probably doomed, but luckily funny quest to make sense of the human experience. This series is about time - the days of the week, the stages of our existence - and the way we use it to make sense of things. We make our way through the working week, tonight considering 'hump day' - Wednesday. Wednesday's child, famously, is full of woe. Both Mark and Esther are in this category. Is the woe a real issue or merely a fairy tale? What is the bleakest joke ever told by a four-year-old? And what would Thomas Hardy make of this series? Expect jokes, observations and interactions galore as Mark is aided, and sometimes obstructed, by the sardonic musical excellence of Flo & Joan. There's also a hand-picked comedy colleague each week - here, we welcome Esther Manito. Producer: Lianne Coop An Impatient production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l68jw5.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27504000",
-      "itunes_duration": "1719",
-      "speakers": [
-        "Mark Watson Talks",
-        "Mark Watson"
-      ],
-      "topics": [
-        "mark",
-        "watson",
-        "talks",
-        "life"
-      ]
     }
   ]
 }
@@ -1043,4 +1021,3 @@
 - 2025-05-19 — Unspeakable — speakers: Clive Anderson, Sindhu Vee
 - 2025-05-12 — Kiri Pritchard-McLean: Tough Crowd — speakers: Kiri Pritchard-McLean
 - 2025-05-05 — Michael Spicer: No Room — speakers: Michael Spicer
-- 2025-04-28 — Mark Watson Talks a Bit About Life — speakers: Mark Watson Talks, Mark Watson

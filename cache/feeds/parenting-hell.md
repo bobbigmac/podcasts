@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-04-24T19:12:36+00:00`
-- checked_at: `2026-04-24T19:12:36+00:00`
-- last_modified: `Fri, 24 Apr 2026 17:16:14 GMT`
+- fetched_at: `2026-04-28T04:05:08+00:00`
+- checked_at: `2026-04-28T04:05:08+00:00`
+- last_modified: `Tue, 28 Apr 2026 04:01:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-24T19:12:36+00:00",
+  "fetched_at": "2026-04-28T04:05:08+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4f5c9de1b0e9fa4ccfc84a2d52c6078c723ace56",
+      "title": "S12 EP33: Matt Morsia",
+      "published_at": "2026-04-28T03:45:00+00:00",
+      "link": null,
+      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is YouTuber, bodybuilder, fitness coach and television personality - also known for appearing as Legend on the British sports game show Gladiators - Matt Morisa. Matt's new book FITNESS UNLOCKED is available to pre-order now and out on the 4 June 2026. Matt is also 'Legend' in the new BBC One hit series, Gladiators. You can watch the new UK Gladiators on BBC iPlayer Youtube: @mattdoesfitness Instagram: @mattdoesfitness Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8739427456.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3304",
+      "speakers": [
+        "Matt Morsia",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "matt",
+        "morsia"
+      ]
+    },
     {
       "key": "f96c49ed58a4aafbf94b3a5d9ff1b1337c06a5e6",
       "title": "S12 EP32: Hal Cruttenden",
@@ -52,9 +73,9 @@
       "title": "S12 EP31: Briony May Williams",
       "published_at": "2026-04-21T07:07:00+00:00",
       "link": null,
-      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) it's the brillian baker and presenter - Briony May Williams. Listen to her podcast, I ’ m Not Judging You But … alongside her two best mates, Charlie Fuge and Vix Willshire wherever you get your podcasts. Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) it's the brilliant baker and presenter - Briony May Williams. Listen to her podcast, I ’ m Not Judging You But … alongside her two best mates, Charlie Fuge and Vix Willshire wherever you get your podcasts. Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3686869833.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3686869833.mp3?updated=1777346842",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3464",
@@ -12268,6 +12289,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-28 — S12 EP33: Matt Morsia — speakers: Matt Morsia, Rob Beckett, Josh Widdicombe
 - 2026-04-24 — S12 EP32: Hal Cruttenden — speakers: Hal Cruttenden, Rob Beckett, Josh Widdicombe
 - 2026-04-21 — S12 EP31: Briony May Williams — speakers: May Williams, Rob Beckett, Josh Widdicombe
 - 2026-04-17 — S12 EP30: Michelle Wolf — speakers: Michelle Wolf, Rob Beckett, Josh Widdicombe

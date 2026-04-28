@@ -2,9 +2,9 @@
 
 - slug: `out-with-suzi-ruffell`
 - source: `https://feeds.megaphone.fm/GLT9819213775`
-- fetched_at: `2026-04-27T22:06:31+00:00`
-- checked_at: `2026-04-27T22:06:31+00:00`
-- last_modified: `Mon, 27 Apr 2026 21:55:47 GMT`
+- fetched_at: `2026-04-28T04:05:08+00:00`
+- checked_at: `2026-04-28T04:05:08+00:00`
+- last_modified: `Mon, 27 Apr 2026 23:05:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.spreaker.com/show/out-with-suzi-ruffell",
   "description": "OUT with Suzi Ruffell is a podcast that celebrates the LGBTQIA+ community through comedian and writer Suzi Ruffell's relaxed interviews of queer luminaries — from popstars to politicians, activists to artists. Tune in to hear Suzi and her guests talk about coming out, being out, finding your place in the world and sharing moments of queer joy. Presented in collaboration with Attitude Magazine.",
   "image_url": "https://megaphone.imgix.net/podcasts/1af2f5a0-1a7b-11ed-a410-0fc86e797d6c/image/a75117f58bc16a4309d04bd56f21e462.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-27T22:06:31+00:00",
+  "fetched_at": "2026-04-28T04:05:08+00:00",
   "owners": [
     "Suzi Ruffell"
   ],
@@ -27,6 +27,25 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "8dfa55d015b1fd91fc93be451f27dd6123946177",
+      "title": "New series starts Friday 1st May!",
+      "published_at": "2026-04-27T23:00:00+00:00",
+      "link": null,
+      "description": "OUT with Suzi Ruffell is coming back! I'm delighted to bring you a brand new series of OUT in collaboration with Attitude magazine. I have some great guests lined up for you and we're kicking things off on Friday 1st May with 2 amazing interviews. For those of you who enjoy a visualised podcast, you'll be able to watch the interviews on the Attitude magazine YouTube channel and on Spotify. I'll be reading your listener emails every week on an audio only episode, so send your stories to ⁠⁠hello@outwithsuziruffell.com⁠⁠ I can't wait to hear from you! You can also come and see me on tour, head to suziruffell.com for details and tickets x Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4021253241.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "162",
+      "speakers": [
+        "Suzi Ruffell"
+      ],
+      "topics": [
+        "series",
+        "friday"
+      ]
+    },
     {
       "key": "58f85aea6ec2f8014873b74e96ecaa4022c05b52",
       "title": "S9 EP6: Bisi Alimi",
@@ -2324,6 +2343,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — New series starts Friday 1st May! — speakers: Suzi Ruffell
 - 2024-08-01 — S9 EP6: Bisi Alimi — speakers: Bisi Alimi, Suzi Ruffell
 - 2024-07-25 — S9 EP5: Charley Marlowe — speakers: Charley Marlowe, Suzi Ruffell
 - 2024-07-18 — S9 EP4: Danny Beard — speakers: Danny Beard, Suzi Ruffell

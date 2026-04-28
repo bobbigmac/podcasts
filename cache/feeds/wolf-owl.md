@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-04-27T19:48:32+00:00`
-- checked_at: `2026-04-27T19:48:32+00:00`
-- last_modified: `Mon, 27 Apr 2026 17:27:29 GMT`
+- fetched_at: `2026-04-28T04:05:08+00:00`
+- checked_at: `2026-04-28T04:05:08+00:00`
+- last_modified: `Mon, 27 Apr 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-27T19:48:32+00:00",
+  "fetched_at": "2026-04-28T04:05:08+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "515fc089abd25850e3a7516a3d7cef1c7e5d8442",
+      "title": "Leonardo Di Caprio, Jason Momoa and Fashion Regrets",
+      "published_at": "2026-04-27T23:01:00+00:00",
+      "link": null,
+      "description": "Did Louis Walsh tell Tom to f*ck off? Could you be Romesh’s clothes buddy? And would he look good in a boiler suit? Plus, the Wolf and the Owl both share some deeply personal hot takes, while discussing best dad bods (Leonardo DiCaprio or Jason Momoa?) fashion regrets and Ben Shepherd. Send in your hot takes, confessions and dilemmas to wolfowlpod@gmail.com Don’t forget to like and subscribe! A Ranga Bee Production in partnership with Platform Media. 00:00 - Intro 1:10 - Fifa and procrastination 04:37 - Sort your life out 08:09 - Talent shows 14:37 - Charity shops 17:44 - Clothes buddy 20:16 - Skinny Jeans 22:28 - Rom’s blazer look 26:33 - Fashion regrets 27:07 - Dad bods 29:54 - Hot takes 36:00 - Marbles Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/843d14bc-4251-11f1-879b-771273ec6934/image/7ee04ecff902ab656898ac2ab31cc92b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1402584245.mp3?updated=1777311034",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2516",
+      "speakers": [
+        "Leonardo Di Caprio",
+        "Louis Walsh",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "leonardo",
+        "caprio",
+        "jason",
+        "momoa",
+        "fashion",
+        "regrets"
+      ]
+    },
     {
       "key": "939d058207a2c791498c1547713cef75e762eb73",
       "title": "Three Peaks Challenge, Intrusive Thoughts & Anxiety When Things Go Well",
@@ -6596,6 +6622,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-27 — Leonardo Di Caprio, Jason Momoa and Fashion Regrets — speakers: Leonardo Di Caprio, Louis Walsh, Romesh Ranganathan, Tom Davis
 - 2026-04-23 — Three Peaks Challenge, Intrusive Thoughts & Anxiety When Things Go Well — speakers: Will Tom, Romesh Ranganathan, Tom Davis
 - 2026-04-21 — Harry Styles, Chocolate Cake and the World Cup — speakers: Harry Styles, Romesh Ranganathan, Tom Davis
 - 2026-04-16 — Bedroom Feedback, Gary Neville and Sleep Routines — speakers: Bedroom Feedback, Gary Neville, Ian Botham, Gary Nevil, Romesh Ranganathan, Tom Davis
