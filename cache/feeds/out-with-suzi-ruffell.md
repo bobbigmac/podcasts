@@ -2,9 +2,9 @@
 
 - slug: `out-with-suzi-ruffell`
 - source: `https://feeds.megaphone.fm/GLT9819213775`
-- fetched_at: `2026-04-28T17:02:15+00:00`
-- checked_at: `2026-04-28T17:02:15+00:00`
-- last_modified: `Tue, 28 Apr 2026 15:17:02 GMT`
+- fetched_at: `2026-04-28T19:56:18+00:00`
+- checked_at: `2026-04-28T19:56:18+00:00`
+- last_modified: `Tue, 28 Apr 2026 19:23:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.spreaker.com/show/out-with-suzi-ruffell",
   "description": "OUT with Suzi Ruffell is a podcast that celebrates the LGBTQIA+ community through comedian and writer Suzi Ruffell's relaxed interviews of queer luminaries — from popstars to politicians, activists to artists. Tune in to hear Suzi and her guests talk about coming out, being out, finding your place in the world and sharing moments of queer joy. Brought to you by Attitude magazine and Off The Kerb Productions. Host: Suzi Ruffell Podcast producer: Alma Fournier-Carballo Booking producer: Dale Fox Post producer: Markus Bidaux",
   "image_url": "https://megaphone.imgix.net/podcasts/1af2f5a0-1a7b-11ed-a410-0fc86e797d6c/image/2b4507e00e68ff14dcd3c6ba547ac0e1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-28T17:02:15+00:00",
+  "fetched_at": "2026-04-28T19:56:18+00:00",
   "owners": [
     "Suzi Ruffell"
   ],
@@ -1647,26 +1647,6 @@
       ]
     },
     {
-      "key": "50ed11f5d05af4fba583c456428ad8a2e1aa2276",
-      "title": "S3 EP6: Scott Mills",
-      "published_at": "2021-04-04T23:05:05+00:00",
-      "link": "https://www.spreaker.com/user/12633137/owsr-scott-mills-final",
-      "description": "Out with Suzi Ruffell - S3 EP6: Scott Mills Joining me on the show this week is the brilliant DJ and presenter, Scott Mills. I loved hearing about his story and hope you do too. Thanks. Suzi xx **CONTENT WARNING* Please be aware the correspondence section of this episode contains discussion of drug use, mental health, suicide and self harm, and sexual abuse. Please subscribe and leave a review. And if you want to get in touch with me on the show, here's how... email: hello@outwithsuziruffell.com twitter: @outwithsuzi A 'Keep It Light Media' Production Sales, advertising and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/296f4124-1a7b-11ed-b2cf-8fdc59e7b6b1/image/cd19b8eb18cb27ec06fb8e063854fbc6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2607072276.mp3?updated=1660335524",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3802",
-      "speakers": [
-        "Scott Mills",
-        "Suzi Ruffell"
-      ],
-      "topics": [
-        "scott",
-        "mill"
-      ]
-    },
-    {
       "key": "6a1d99bd2579dc3b9fa6863a0945f82fbe0c2370",
       "title": "S3 EP5: Cameron Esposito",
       "published_at": "2021-03-28T23:05:10+00:00",
@@ -2424,7 +2404,6 @@
 - 2021-04-25 — S3 EP9: Brona C. Titley — speakers: Suzi Ruffell
 - 2021-04-18 — S3 EP8: Jamie Windust — speakers: Jamie Windust Out, Jamie Windust, Suzi Ruffell
 - 2021-04-11 — S3 EP7: Lianne Sanderson — speakers: Lianne Sanderson, Suzi Ruffell
-- 2021-04-04 — S3 EP6: Scott Mills — speakers: Scott Mills, Suzi Ruffell
 - 2021-03-28 — S3 EP5: Cameron Esposito — speakers: Cameron Esposito, Suzi Ruffell
 - 2021-03-22 — S3 EP4: Bethany Black — speakers: Suzi Ruffell
 - 2021-03-15 — S3 EP3: Johannes Radebe — speakers: Suzi Ruffell
