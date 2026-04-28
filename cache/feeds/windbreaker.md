@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-04-28T04:05:08+00:00`
-- checked_at: `2026-04-28T04:05:08+00:00`
-- etag: `W/"3b26a-7fkRGjqGD/5aECY/l83yxkGj8Fc"`
+- fetched_at: `2026-04-28T08:39:12+00:00`
+- checked_at: `2026-04-28T08:39:12+00:00`
+- etag: `W/"3ba06-JHGksuAKkHEsBFtp951vOoVpq/0"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-04-28T04:05:08+00:00",
+  "fetched_at": "2026-04-28T08:39:12+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "3777f8d62397c1ac8b70f71c5210d3c663ee2824",
+      "title": "Let's All Have a Good Cry | Windbreaker Podcast",
+      "published_at": "2026-04-28T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Lets-All-Have-a-Good-Cry--Windbreaker-Podcast-e3iib97",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty want to expand on the topic of games that have made us cry, which Yahtzee covered in his most recent Semi-Ramblomatic. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1217745317.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132738080",
+      "itunes_duration": "01:32:10",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "ee441069b151e397cac867046cf23e67f4a6b44c",
       "title": "Is Hand-Holding Really a Gaming Sin? | Windbreaker Podcast",
@@ -2783,6 +2803,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-28 — Let's All Have a Good Cry | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-04-21 — Is Hand-Holding Really a Gaming Sin? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-04-14 — The Problem With Trilogies | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-04-07 — Let’s Talk About Resurrection | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

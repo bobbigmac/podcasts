@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-04-27T08:40:52+00:00`
-- checked_at: `2026-04-27T08:40:52+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpjeU56WTJOemt3TkRZPTo6c2F4ZXNz"`
+- fetched_at: `2026-04-28T08:39:12+00:00`
+- checked_at: `2026-04-28T08:39:12+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpjek5USTBOREk0TnpRPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-04-27T08:40:52+00:00",
+  "fetched_at": "2026-04-28T08:39:12+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,13 +30,13 @@
     {
       "key": "02d5d2e69318f86feba5cc8bef85fb2734c2a63f",
       "title": "Help I’m Going To Prison | A Letter From The Police",
-      "published_at": "2026-04-27T05:00:00+00:00",
+      "published_at": "2026-04-28T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-im-going-to-prison-a-letter-from-the-police",
-      "description": "It was bound to happen. The law catches up with us all eventually, and Jordan North is no exception to that rule. What none of us could have expected was for the law to barge in and confront him in the middle of the podcast! Luckily for all of us, William and Jordan can still solve modern day dilemmas - even if one of them is in handcuffs. Expect everything from wearing your wife’s knickers to emergency tampon removals. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "It was bound to happen. The law catches up with us all eventually, and Jordan North is no exception to that rule. What none of us could have expected was for the law to barge in and confront him in the middle of the podcast! Luckily for all of us, William and Jordan can still solve modern day dilemmas - even if one of them is in handcuffs. Expect everything from wearing your wife’s knickers to emergency tampon removals. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1777276669952-0497e846-dfd3-43a7-b079-6f253430a161.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69eb76f0676ff13bc531190e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=S46fqNlMXrto2xTCOSkFfAz_w7dxuA2XWJP13PSg-bo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42829949",
       "itunes_duration": "44:36",
       "speakers": [
         "Jordan North",
@@ -14195,7 +14195,7 @@
 
 ## Episodes (newest first)
 
-- 2026-04-27 — Help I’m Going To Prison | A Letter From The Police — speakers: Jordan North, William Hanson
+- 2026-04-28 — Help I’m Going To Prison | A Letter From The Police — speakers: Jordan North, William Hanson
 - 2026-04-24 — What Is GOONING? | And Jordan’s Sexy Jet Wash — speakers: Jordan’s Sexy Jet Wash, William Hanson, Jordan North
 - 2026-04-21 — Help I’ve Got Mother Of Pearl Fish Cutlery | And Butch BBQ Chat — speakers: Butch Bbq Chat, William Hanson, Jordan North
 - 2026-04-17 — REACTING TO JORDAN’S OLD VLOGS | And Illegal Cheeses — speakers: William Hanson, Jordan North

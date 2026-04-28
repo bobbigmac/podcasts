@@ -2,8 +2,8 @@
 
 - slug: `the-rock-show-with-ed-gamble-and-joel-dommett`
 - source: `https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/`
-- fetched_at: `2026-04-28T04:05:08+00:00`
-- checked_at: `2026-04-28T04:05:08+00:00`
+- fetched_at: `2026-04-28T08:39:12+00:00`
+- checked_at: `2026-04-28T08:39:12+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/",
   "image_url": "",
-  "fetched_at": "2026-04-28T04:05:08+00:00",
+  "fetched_at": "2026-04-28T08:39:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

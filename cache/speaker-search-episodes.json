@@ -4234,6 +4234,28 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:8e22327570e3",
+        "feed_title": "Sunday Brunch Picky Bits",
+        "source_rss_url": "https://feeds.acast.com/public/shows/68d10529146cfd1a65544aed",
+        "dedupe_key": "60792403a1a2a7387e209cc11ed185e4f7c2d82f",
+        "episode_key": "60792403a1a2a7387e209cc11ed185e4f7c2d82f",
+        "title": "S2 Ep12 Roger Sanchez, Jon McClure, Ed Gamble, Molly King, Matt Edmondson, Brad Alexander & Amy Gledhill",
+        "published_at": "2026-04-27T15:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tim Lovejoy and Simon Rimmer interview big names from the worlds of sport, music, entertainment, food and more. The Sunday Brunch Picky Bits podcast presents audio highlights from each weekly TV episode for you to enjoy on the go.\nThis week, we've picked bits from Tim and Simon's interviews with: Roger Sanchez, Jon McC",
+        "audio_url": "https://sphinx.acast.com/p/open/s/68d10529146cfd1a65544aed/e/69e5e82723929c3a2a153755/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s2-ep12-roger-sanchez-jon-mcclure-ed-gamble-molly-king/id1843289955?i=1000763828701&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
