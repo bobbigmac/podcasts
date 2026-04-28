@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-04-28T19:56:18+00:00`
-- checked_at: `2026-04-28T19:56:18+00:00`
-- last_modified: `Tue, 28 Apr 2026 19:55:51 GMT`
+- fetched_at: `2026-04-28T22:11:24+00:00`
+- checked_at: `2026-04-28T22:11:24+00:00`
+- last_modified: `Tue, 28 Apr 2026 21:33:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-28T19:56:18+00:00",
+  "fetched_at": "2026-04-28T22:11:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,23 +27,26 @@
   "episodes": [
     {
       "key": "c7d24d905c45a77333c4a30c9b5aad3b1d527800",
-      "title": "526. Can the King Save the Special Relationship?",
+      "title": "526. Trump's Orwellian Maths and the King's Special Relationship Mission",
       "published_at": "2026-04-28T19:45:00+00:00",
       "link": null,
       "description": "Is the so-called ‘special relationship’ between America and Britain already broken, and is it even worth saving? How can the UK and Europe achieve independence from the US on defence, tech and nuclear? Is Trump's comical mathematical illiteracy actually a serious threat to democracy? Join Rory and Alastair as they answer all these questions and more. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at https://fuseenergy.com/politics and get a free TRIP+ subscription. __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Emma Jackson Video Editor: Josh Smith, Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ace3b322-4309-11f1-a434-8b6e94dfd000/image/aa7f067ad9c7c1fc76d5d0e13e77e16d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8288275012.mp3?updated=1777406447",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8288275012.mp3?updated=1777411168",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3633",
+      "itunes_duration": "3471",
       "speakers": [
-        "King Save",
-        "Special Relationship"
+        "Orwellian Maths"
       ],
       "topics": [
+        "trump",
+        "orwellian",
+        "maths",
         "king",
         "special",
-        "relationship"
+        "relationship",
+        "mission"
       ]
     },
     {
@@ -11702,7 +11705,7 @@
 
 ## Episodes (newest first)
 
-- 2026-04-28 — 526. Can the King Save the Special Relationship? — speakers: King Save, Special Relationship
+- 2026-04-28 — 526. Trump's Orwellian Maths and the King's Special Relationship Mission — speakers: Orwellian Maths
 - 2026-04-22 — 525. JD Vance vs. the Pope and the Far-Right Funding Machine (Question Time) — speakers: JD Vance
 - 2026-04-21 — 524. Starmer’s Mandelson Mess and the Iranian Nuclear Threat — speakers: Peter Mandelson
 - 2026-04-17 — 523. The Starmer-Mandelson Scandal: Lying or Incompetence? — speakers: Can Starmer
