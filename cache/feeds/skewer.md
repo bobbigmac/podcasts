@@ -2,10 +2,10 @@
 
 - slug: `skewer`
 - source: `https://podcasts.files.bbci.co.uk/m000czyb.rss`
-- fetched_at: `2026-04-23T10:47:28+00:00`
-- checked_at: `2026-04-23T10:47:28+00:00`
-- etag: `"e5768864a255d5030389b02b96ebb69d"`
-- last_modified: `Thu, 23 Apr 2026 10:44:00 GMT`
+- fetched_at: `2026-04-29T14:30:30+00:00`
+- checked_at: `2026-04-29T14:30:30+00:00`
+- etag: `"1b4e6de1f66a1abed0d4c09e2efb2f3d"`
+- last_modified: `Wed, 29 Apr 2026 13:03:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m000czyb",
   "description": "A twisted comedy treat. Jon Holmes brings you the week's biggest stories like you've never heard them before. The news remixed. Welcome to The Skewer. Headphones on. The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS New York Festival 2020 Audio Production Awards 2020 British Podcast Awards 2020 Audio Production Awards 2019 (Sound Design) Audio Production Awards 2020 An Unusual production for BBC Radio 4",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kvt4yr.jpg",
-  "fetched_at": "2026-04-23T10:47:28+00:00",
+  "fetched_at": "2026-04-29T14:30:30+00:00",
   "owners": [
     "Jon Holmes"
   ],
@@ -31,7 +31,7 @@
   "episodes": [
     {
       "key": "b0732b603b778bfb96c55e8d0dc8050794359482",
-      "title": "The Incredible Starmer. (You wouldn't like him when he's angry)",
+      "title": "1. The Incredible Starmer. (You wouldn't like him when he's angry)",
       "published_at": "2026-04-22T22:30:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m002vbyb",
       "description": "Cogs in the War Machine, Beatrix Potter's The Tale of Peter Mandelson, and The Incredible Starmer. (You wouldn't like him when he's angry.) The multi-award-winning satire is back for a new run as Jon Holmes mashes up the news with pop-culture to create a current affairs comedy concept album. Producer: Jon Holmes An unusual production for BBC Radio 4",
@@ -1545,7 +1545,7 @@
 
 ## Episodes (newest first)
 
-- 2026-04-22 — The Incredible Starmer. (You wouldn't like him when he's angry) — speakers: Beatrix Potter, Peter Mandelson, Jon Holmes
+- 2026-04-22 — 1. The Incredible Starmer. (You wouldn't like him when he's angry) — speakers: Beatrix Potter, Peter Mandelson, Jon Holmes
 - 2026-02-04 — 5. This Charming Mandelson — speakers: Charming Mandelson, Peter Mandelson, Sleeping Beauty, Jon Holmes
 - 2026-01-28 — 4. The Jaws of Andy Burnham — speakers: Jon Holmes
 - 2026-01-21 — 3. Greenland, Traitors, and Trump — speakers: Jon Holmes
