@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-04-28T17:02:15+00:00`
-- checked_at: `2026-04-28T17:02:15+00:00`
-- last_modified: `Tue, 28 Apr 2026 14:26:26 GMT`
+- fetched_at: `2026-04-29T16:53:35+00:00`
+- checked_at: `2026-04-29T16:53:35+00:00`
+- last_modified: `Wed, 29 Apr 2026 16:46:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-28T17:02:15+00:00",
+  "fetched_at": "2026-04-29T16:53:35+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -6439,33 +6439,16 @@
       ]
     },
     {
-      "key": "8db6490483109699dc221f823ba76cd0fee6b61c",
-      "title": "Episode 9",
-      "published_at": "2021-01-27T07:00:00+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode9",
-      "description": "We’re talking… hair gel, spicy mackerel snacks, grief with teeth and a wrestling tag-team challenge. Plus more of your emails answered and an update on Married At First Sight. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/9d8001b4-4831-11ed-b685-4b183b60750f/image/611fbb2615a1aa001297f437.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5190494573.mp3?updated=1707778275",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3714",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": []
-    },
-    {
       "key": "52a6b11ab0d6e7dc63ec407da064ec165ec6c62e",
       "title": "Episode 8",
       "published_at": "2021-01-20T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode8",
-      "description": "We’re talking… making coffee, interpreting dreams, favourite cinema snacks and the pros and cons of meeting a complete stranger for a pint. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… making coffee, interpreting dreams, favourite cinema snacks and the pros and cons of meeting a complete stranger for a pint. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/9ddf95ca-4831-11ed-b685-f3c5d6e77bd1/image/611fbb2615a1aa001297f43e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9539816149.mp3?updated=1707778168",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9539816149.mp3?updated=1777479442",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3847",
+      "itunes_duration": "3877",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -6477,9 +6460,9 @@
       "title": "Episode 7",
       "published_at": "2021-01-13T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode7",
-      "description": "We’re talking… listener reviews, stalking reality TV stars, morale-boosting music and dodgy WhatsApp groups. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/9e3dd2ca-4831-11ed-b685-0fa702b0055e/image/611fbb2615a1aa001297f445.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4511145271.mp3?updated=1707778176",
+      "description": "We’re talking… listener reviews, stalking reality TV stars, morale-boosting music and dodgy WhatsApp groups. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4511145271.mp3?updated=1777478226",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3360",
@@ -6494,9 +6477,9 @@
       "title": "Episode 6",
       "published_at": "2021-01-06T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode6",
-      "description": "We’re talking… chicken tikka masala, soccer celebrations, town rivalries and broken teeth. Plus the hotly anticipated results of our Tom vs Rom Cyberpunk poll. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/9ebf32d4-4831-11ed-b685-a3a627025911/image/611fbb2615a1aa001297f44c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1724783633.mp3?updated=1707778093",
+      "description": "We’re talking… chicken tikka masala, soccer celebrations, town rivalries and broken teeth. Plus the hotly anticipated results of our Tom vs Rom Cyberpunk poll. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9ebf32d4-4831-11ed-b685-a3a627025911/image/9b3992af4467436c1b6e6af1a5ec99b0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1724783633.mp3?updated=1777478334",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3474",
@@ -6511,9 +6494,9 @@
       "title": "Ep 5: Pilot #1 - Aliens",
       "published_at": "2020-12-23T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/pilot-1-aliens",
-      "description": "Before the Wolf and Owl podcast was revealed to the world, Tom and Romesh recorded a number of pilots with each show themed on a single topic. Some were great, a few were average and one potentially career-ending. Undeterred, we’ve decided to release a selection of these recordings and here’s the first - it’s all about aliens. Enjoy! Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Before the Wolf and Owl podcast was revealed to the world, Tom and Romesh recorded a number of pilots with each show themed on a single topic. Some were great, a few were average and one potentially career-ending. Undeterred, we’ve decided to release a selection of these recordings and here’s the first - it’s all about aliens. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/9f1eab10-4831-11ed-b685-6b7388928a59/image/611fbb2615a1aa001297f453.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1342984116.mp3?updated=1707777986",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1342984116.mp3?updated=1777477681",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3971",
@@ -6531,9 +6514,9 @@
       "title": "Episode 4",
       "published_at": "2020-12-16T08:10:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode4",
-      "description": "We’re talking…. gaming, names, Keanu Reeves adverts, and some advice on clothing and cleaning. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking…. gaming, names, Keanu Reeves adverts, and some advice on clothing and cleaning. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/9f7ea79a-4831-11ed-b685-2bd2fd11208b/image/611fbb2615a1aa001297f45a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7498483709.mp3?updated=1707777957",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7498483709.mp3?updated=1777477253",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3720",
@@ -6933,7 +6916,6 @@
 - 2021-02-05 — Bonus Email Episode #2 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-03 — Episode 10 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-01-29 — Bonus Email Episode #1 — speakers: Romesh Ranganathan, Tom Davis
-- 2021-01-27 — Episode 9 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-01-20 — Episode 8 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-01-13 — Episode 7 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-01-06 — Episode 6 — speakers: Romesh Ranganathan, Tom Davis

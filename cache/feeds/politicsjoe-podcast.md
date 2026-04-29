@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-28T17:02:15+00:00`
-- checked_at: `2026-04-28T17:02:15+00:00`
-- etag: `"djEuMi4wOjE3NzczOTI5MzUyMzc="`
+- fetched_at: `2026-04-29T16:53:35+00:00`
+- checked_at: `2026-04-29T16:53:35+00:00`
+- etag: `"djEuMi4wOjE3Nzc0NzU1OTY5NjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,30 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-28T17:02:15+00:00",
+  "fetched_at": "2026-04-29T16:53:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "db116fb613f8eb5bd3fa823914b2ecd7155c5cc3",
+      "title": "Is this Keir Starmer's last PMQs?",
+      "published_at": "2026-04-29T15:13:16+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69f22006c2d898b28bb65138",
+      "description": "Ava, Seán, and Laura bear witness to what could be Keir Starmer's last PMQs as Prime Minister. Hear a man on the brink attempt to defend his record and talk up his achievements before the May elections. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69f22006c2d898b28bb65138/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60243012",
+      "itunes_duration": "41:49",
+      "speakers": [],
+      "topics": [
+        "keir",
+        "starmer"
+      ]
+    },
     {
       "key": "cc66ea9ec1ad64547f596fc8527924fc1d550cc9",
       "title": "Morgan McSweeney backs Starmer in Mandelson committee",
@@ -12714,6 +12731,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — Is this Keir Starmer's last PMQs?
 - 2026-04-28 — Morgan McSweeney backs Starmer in Mandelson committee
 - 2026-04-27 — Debriefing the Hannah Spencer interview — speakers: Hannah Spencer
 - 2026-04-23 — Why Starmer can't recover from the Mandelson scandal | David Maddox interview — speakers: David Maddox

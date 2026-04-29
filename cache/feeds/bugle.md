@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-04-27T11:17:16+00:00`
-- checked_at: `2026-04-27T11:17:16+00:00`
-- etag: `"djEuMi4wOjE3NzcyODY1Njc0ODk="`
+- fetched_at: `2026-04-29T16:53:35+00:00`
+- checked_at: `2026-04-29T16:53:35+00:00`
+- etag: `"djEuMi4wOjE3Nzc0NzQ4Mzk0MDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-04-27T11:17:16+00:00",
+  "fetched_at": "2026-04-29T16:53:35+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "9224c849206de9fbe11233eb383d0c27ee7f96d3",
+      "title": "The King meets Trump",
+      "published_at": "2026-04-29T15:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/the-king-meets-trump",
+      "description": "On this week's issue of the Bugle. Andy is joined by dream team Alice Fraser and Nish Kumar as the trio jump into this week's news as the King visits America, Trump's new ballroom and the latest news from the White House correspondents dinner. Plus Andy opens up The Bugle's Gambling and Sports sections. It's issue 4377 of The Bugle! 🇬🇧 The King meets Trump: King Charles lands in the US to meet with Donald Trump as fractious relations between countries continues. 🇺🇸 Correspondents Dinner Horror: The trio discuss the aftermath following shots fired at the White House Correspondents Dinner. 💰 Real Life Gambling: Andy, Alice and Nish report the news that people are gambling on real life events! Andy's Links: https://www.andyzaltzman.co.uk/ Alice Fraser's Links: https://www.patreon.com/AliceFraser Nish Kumar's Links: https://www.nishkumar.co.uk/ 🎤 Get tickets for the LIVE episode of The Gargle HERE https://www.angelcomedy.co.uk/event-detail/the-gargle-live-fri-26th-jun-the-bill-murray-london-tickets-202606261800/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1777474226869-c20fa3ef-7890-43cf-9501-2c1182969598.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/69f2178a13ce2999f40935b7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39540609",
+      "itunes_duration": "41:11",
+      "speakers": [
+        "Alice Fraser",
+        "Nish Kumar",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "king",
+        "trump"
+      ]
+    },
     {
       "key": "9e297e663de7e431a7af8a5eb9ed789d60c41cf0",
       "title": "US Navy comes up short (and hungry)",
@@ -14146,6 +14167,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — The King meets Trump — speakers: Alice Fraser, Nish Kumar, Andy Zaltzman
 - 2026-04-22 — US Navy comes up short (and hungry) — speakers: Tiff Stevenson, Neil Delamere, Andy Zaltzman
 - 2026-04-15 — The Denial Episode — speakers: Sara Barron, Anuvab Pal, Andy Zaltzman
 - 2026-04-08 — This week's been rough! — speakers: Alice Fraser, Andy Zaltzman

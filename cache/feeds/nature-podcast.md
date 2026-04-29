@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-04-24T16:12:46+00:00`
-- checked_at: `2026-04-24T16:12:46+00:00`
-- etag: `"djEuMi4wOjE3NzcwNDM0NDYxMTc="`
+- fetched_at: `2026-04-29T16:53:35+00:00`
+- checked_at: `2026-04-29T16:53:35+00:00`
+- etag: `"djEuMi4wOjE3Nzc0NzQ4Mzk0MDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-04-24T16:12:46+00:00",
+  "fetched_at": "2026-04-29T16:53:35+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -29,12 +29,35 @@
   ],
   "episodes": [
     {
+      "key": "6fe9a199c872a55f0a3618c9b4755ccbe6623106",
+      "title": "Immunity gets a boost from a surprising place — breakfast",
+      "published_at": "2026-04-29T15:00:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01406-x",
+      "description": "In this episode: 00:45 How eating can boost the immune system Research Article: Kumar et al. 08:28 Research Highlights Nature: Cosmic-ray detection heralds era of mega-observatories for neutrinos Nature: Little ants groom big ones in a desert spa 10:53 The pressing need to plan for future nuclear disasters World View: Forty years after Chornobyl, more nuclear disasters are inevitable — plan for them Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69f21b2613ce2999f40ab129/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19807863",
+      "itunes_duration": "20:36",
+      "speakers": [
+        "Kumar et al",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "immunity",
+        "boost",
+        "place",
+        "breakfast"
+      ]
+    },
+    {
       "key": "68f0cd52bb38fdba9ae00d2a5a6ebb440f9ca0d2",
       "title": "Inside the evidence revolution — how decision-making became data driven",
       "published_at": "2026-04-24T15:10:45+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01359-1",
       "description": "In this episode of Nature hits the books , we speak with Nature 's Helen Pearson whose book Beyond Belief: How Evidence Shows What Really Works looks at the history of using evidence, rather than opinion, in decision making. The book traces the course of the movement in various disciplines, such as the rise of evidence-based medicine in the 90s, looking at the rebels who led the charge, the barriers they faced, and why the use of evidence is crucial at a time when misinformation is rife. Beyond Belief: How Evidence Shows What Really Works Helen Pearson Princeton University Press (in the press) Music supplied by SPD/Triple Scoop Music/Getty Images Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1777474374010-6cc09b20-2568-497d-8e76-c55def18b026.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69eb87f66e5b90839a9eed71/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "25363823",
@@ -19521,6 +19544,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — Immunity gets a boost from a surprising place — breakfast — speakers: Kumar et al, Benjamin Thompson, Noah Baker
 - 2026-04-24 — Inside the evidence revolution — how decision-making became data driven — speakers: Helen Pearson, Benjamin Thompson, Noah Baker
 - 2026-04-22 — Meet Ace, the table-tennis robot that can beat elite players — speakers: Meet Ace, Benjamin Thompson, Noah Baker
 - 2026-04-17 — Briefing Chat: Penguins pick up PFAS pollution — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
