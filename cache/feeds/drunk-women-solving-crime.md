@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-04-27T11:17:16+00:00`
-- checked_at: `2026-04-27T11:17:16+00:00`
-- etag: `"djEuMi4wOjE3NzcyODY3MzAyODg="`
+- fetched_at: `2026-04-29T04:02:36+00:00`
+- checked_at: `2026-04-29T04:02:36+00:00`
+- etag: `"djEuMi4wOjE3Nzc0MjA4Mzk0NzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-04-27T11:17:16+00:00",
+  "fetched_at": "2026-04-29T04:02:36+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "8230183a526d859e0735f0da7e607feb04f61c2c",
+      "title": "DWSC LIVE: With Ashley Storrie",
+      "published_at": "2026-04-29T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/443-dwsc-live-with-ashley-storrie",
+      "description": "Welcome to the first of the week's DWSC drops from shows recorded in Chelmsford, where a riotous time was had by all, especially when returning guest Ashley Storrie, told us all how her Uncle Tommy's flair for print almost got her in hot water, and shared her penchant for a very specific quirk in the guys she dates. The gang then delved into a case that takes us back to 1500s Chelmsford and a very talented cat named 'Steve'. And our audience crime also keeps for a feline theme, as we hear about one lady's brush with a cat burglar. Part two of our Chelmsford trip drops this Friday, with incredible scenes from the hilarious Kate Butch! Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast DWSC eps now drop every Wednesday and every other Friday, so that's at least SIX drops every, single month! Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/69ef2d912da85ae26e4aaa8a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83383160",
+      "itunes_duration": "57:53",
+      "speakers": [
+        "Ashley Storrie",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "ashley",
+        "storrie"
+      ]
+    },
     {
       "key": "e6c15b55535b28ae78ba231af25d79b2824502be",
       "title": "DWSC LIVE: With Selina Mosinski",
@@ -10991,6 +11013,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — DWSC LIVE: With Ashley Storrie — speakers: Ashley Storrie, Hannah George, Taylor Glenn
 - 2026-04-22 — DWSC LIVE: With Selina Mosinski — speakers: Selina Mosinski, Hannah George, Taylor Glenn
 - 2026-04-17 — DWSC LIVE: With Barry Dodds — speakers: Hannah George, Taylor Glenn
 - 2026-04-15 — DWSC LIVE: With Lindsey Santoro — speakers: Lindsey Santoro, Hannah George, Taylor Glenn

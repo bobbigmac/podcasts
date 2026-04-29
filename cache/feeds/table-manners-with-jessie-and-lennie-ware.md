@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-04-28T22:11:24+00:00`
-- checked_at: `2026-04-28T22:11:24+00:00`
-- etag: `"djEuMi4wOjE3Nzc0MDY0OTgzMDE="`
+- fetched_at: `2026-04-29T04:02:36+00:00`
+- checked_at: `2026-04-29T04:02:36+00:00`
+- etag: `"djEuMi4wOjE3Nzc0MjA4Mzk1MDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-04-28T22:11:24+00:00",
+  "fetched_at": "2026-04-29T04:02:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "24f8e44884bde194a9d1af5fa444af43f02266f6",
+      "title": "Phil Wang",
+      "published_at": "2026-04-29T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/phil-wang",
+      "description": "Food meets comedy this week as we have comedian and Great British Menu judge Phil Wang joining us! Born and raised in Malaysia, Phil is now a local south London resident and he took a break from judging Michelin star chefs to join us for lunch. A real foodie, we heard all about the delicious dishes Phil ate growing up in Asia, his thoughts on a Yorkshire pudding & chip shop curry sauce, the ‘Slurpies’ awards he created on Twitter (rating the best noodle spots), his go to ice breaker of ranking favourite carbs, how he navigated moving from engineering to comedy and we discover Phil will eat absolutely anything in the world - yet refuses to eat cooked salmon! Thank you for joining us for Phil, good luck on the tour! Phil’s brand new comedy tour ‘Uh Oh’ will be travelling across the UK from September-November 2026. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1777386470807-d7854c29-8bd8-4127-8862-76b1e9493c4d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69f0bfea8647f8587eec3f93/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50722271",
+      "itunes_duration": "52:50",
+      "speakers": [
+        "Phil Wang"
+      ],
+      "topics": [
+        "phil",
+        "wang"
+      ]
+    },
     {
       "key": "688347b481db210ee26efc95b4f1ee7238127c09",
       "title": "Kristin Scott Thomas",
@@ -7064,6 +7083,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — Phil Wang — speakers: Phil Wang
 - 2026-04-22 — Kristin Scott Thomas — speakers: Kristin Scott Thomas
 - 2026-04-15 — Kae Tempest — speakers: Kae Tempest
 - 2026-04-08 — Lisa Kudrow — speakers: Lisa Kudrow

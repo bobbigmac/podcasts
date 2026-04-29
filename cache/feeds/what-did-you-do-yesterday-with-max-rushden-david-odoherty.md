@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-04-28T22:11:24+00:00`
-- checked_at: `2026-04-28T22:11:24+00:00`
-- last_modified: `Tue, 28 Apr 2026 21:05:17 GMT`
+- fetched_at: `2026-04-29T04:02:36+00:00`
+- checked_at: `2026-04-29T04:02:36+00:00`
+- last_modified: `Tue, 28 Apr 2026 23:45:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/0bbecfc9ad65078c6accdbc313267a08.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-28T22:11:24+00:00",
+  "fetched_at": "2026-04-29T04:02:36+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "004b138fc24c897c80fc2b82b3a2283c760120d1",
+      "title": "WDWDY #69: Caught with a Kumquat",
+      "published_at": "2026-04-28T23:45:00+00:00",
+      "link": null,
+      "description": "On this mid-week bonus ep we find out what David did with his yesterday... Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5b897fea-41b8-11f1-a156-93b129403399/image/f97d2d1144435c04e34487bd7c13ae33.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9284548069.mp3?updated=1777241845",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3197",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "kumquat"
+      ]
+    },
     {
       "key": "11a176d3751f83b3399d3bea6a227016016a0771",
       "title": "S4 EP17: Waleed Aly",
@@ -3271,6 +3290,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-28 — WDWDY #69: Caught with a Kumquat — speakers: Max Rushden, David O'Doherty
 - 2026-04-25 — S4 EP17: Waleed Aly — speakers: Waleed Aly Joining, Max Rushden, David O'Doherty
 - 2026-04-21 — WDWDY #68: I am Poo Poo — speakers: Max Rushden, David O'Doherty
 - 2026-04-21 — S4 EP16: Lloyd Langford — speakers: Lloyd Langford, Max Rushden, David O'Doherty

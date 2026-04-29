@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-04-27T14:26:17+00:00`
-- checked_at: `2026-04-27T14:26:17+00:00`
-- etag: `"djEuMi4wOjE3NzcyOTU0OTc2NDI="`
+- fetched_at: `2026-04-29T04:02:36+00:00`
+- checked_at: `2026-04-29T04:02:36+00:00`
+- etag: `"djEuMi4wOjE3Nzc0MTk3NTkzODc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-04-27T14:26:17+00:00",
+  "fetched_at": "2026-04-29T04:02:36+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "5acc655578834a19aa56c8c77ca45d8d913f7bd4",
+      "title": "Heseltine’s Mace (pt 1)",
+      "published_at": "2026-04-28T23:42:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/heseltines-mace-pt-1",
+      "description": "Elis James, Mike Bubbins and Steff Garrero return with another trip to The Socially Distant Sports Bar — catching up on life, sport and culture with strong opinions and zero expertise. PART 1 Elis and Mike catch up on their week, with the usual modern cultural references of Michael Heseltine and Karen Carpenter, before diving into the sporting moments that caught their attention. Elis: Reflecting on the career of Aaron Ramsey https://www.youtube.com/watch?v=Pki069juAH8 Mike: Emma Hayes on understanding menstrual cycles in elite women’s sport https://www.instagram.com/reel/DW7ZwC6P-ZC/?igsh=MW44M3JibXNvdGo1aQ== Steff: Diego Maradona — and his unique relationship with the football https://www.youtube.com/watch?v=iqzXw3fygBg 👉 For early, ad‑free listening and bonus content, subscribe on Apple Podcasts. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69ef2b71119a778978ca15db/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "140934720",
+      "itunes_duration": "58:43",
+      "speakers": [
+        "Heseltine’s Mace",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "heseltine",
+        "mace"
+      ]
+    },
     {
       "key": "4c24fc0ede409c40db9f717065837a5d7f864da6",
       "title": "Darts: Pint Size",
@@ -14603,6 +14625,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-28 — Heseltine’s Mace (pt 1) — speakers: Heseltine’s Mace, Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-25 — Darts: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-23 — You're The 2nd Richest Man I Know (pt 2) — speakers: Richest Man, Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-21 — You're The 2nd Richest Man I Know (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero

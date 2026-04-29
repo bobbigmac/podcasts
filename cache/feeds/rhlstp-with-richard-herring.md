@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-04-28T19:56:18+00:00`
-- checked_at: `2026-04-28T19:56:18+00:00`
-- etag: `"djEuMi4wOjE3Nzc0MDI5MjAyMDE="`
+- fetched_at: `2026-04-29T04:02:36+00:00`
+- checked_at: `2026-04-29T04:02:36+00:00`
+- etag: `"djEuMi4wOjE3Nzc0MzE0NTkyODc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-04-28T19:56:18+00:00",
+  "fetched_at": "2026-04-29T04:02:36+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a6046e7a60185d15e59aafeccf162a0268c6098c",
+      "title": "RHLSTP 608 - Michelle Wolf",
+      "published_at": "2026-04-29T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #608 - Enter Pursued By A Crow - Richard is celebrating the month of his 14th wedding anniversary and questioning if the Pope is soft on crime. His guest is exceptionally funny US stand-up Michelle Wolf. They talk about helping a Kardashian to sell merkins, the awful thoughts you have about your baby and your phone when you are a parent, starting a show with challenging material, why Michelle was advised to stop liking otters, accidental racism, the brilliant set she performed at the Correspondents’ Dinner https://www.youtube.com/watch?v=VRgrLFNXa84 and how she upset Trump and other prominent politicians, her new show about the hardest job in the world. See Michelle live https://punchup.live/michellewolf See Michelle on Netflix https://www.netflix.com/browse/person/40207266 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1777315828761-96ca9ce3-57ec-4828-bb02-786270205b6d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69efb05c139a58c7ab50037d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34859532",
+      "itunes_duration": "1:06:11",
+      "speakers": [
+        "Michelle Wolf",
+        "Richard Herring"
+      ],
+      "topics": [
+        "michelle",
+        "wolf"
+      ]
+    },
     {
       "key": "46ec3d133e37eaf264ced89665a2593ffb0426ff",
       "title": "Retro RHLSTP 141 - Ria Lina",
@@ -22195,6 +22215,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — RHLSTP 608 - Michelle Wolf — speakers: Michelle Wolf, Richard Herring
 - 2026-04-27 — Retro RHLSTP 141 - Ria Lina — speakers: Ria Lina, Cheerful Earful, Richard Herring
 - 2026-04-26 — RAACN week 13 — speakers: Richard Herring
 - 2026-04-24 — RHLSTP Book Club 177 - Harriet Tyce — speakers: Book Club, Harriet Tyce, Witch Trial, Richard Herring

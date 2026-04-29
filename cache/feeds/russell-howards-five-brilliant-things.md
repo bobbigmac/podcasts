@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-04-27T16:55:14+00:00`
-- checked_at: `2026-04-27T16:55:14+00:00`
-- last_modified: `Mon, 27 Apr 2026 15:13:17 GMT`
+- fetched_at: `2026-04-29T04:02:36+00:00`
+- checked_at: `2026-04-29T04:02:36+00:00`
+- last_modified: `Wed, 29 Apr 2026 01:06:58 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-27T16:55:14+00:00",
+  "fetched_at": "2026-04-29T04:02:36+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "98b85698a081ea6748e543ed0c77383fa00070aa",
+      "title": "Jamie Hutchinson",
+      "published_at": "2026-04-29T01:00:00+00:00",
+      "link": null,
+      "description": "Jamie Hutchinson, the voice of Manchester, the wildly popular comedian is with us and it’s a fantastic romp through the most intense made-up games, the frenzy of horse-racing commentary and the simple pleasure of answering obscure quiz questions with your mates. There’s also a top tip for comedy writing in there towards the end. Genuinely useful… 🎤 Jamie is on tour RIGHT NOW! His latest show has had rave reviews and it’s called ‘Can My Mate Come, He’s Sound’. Quite a few of the dates are sold out but there’s still stuff left for Autumn - anyway have a look, buy tickets and all that at https://jamiehcomedian.com 🎤 🎟️ And please do go to see Russell while he’s on tour with his latest show that’s busting out some rave reviews: Don’t miss this fantastic show of all brand-new material. Find out more at https://www.russell-howard.co.uk 🎟️ 🏇🏻 And as the blurb enters the final furlong it’s neck and neck between a good sign-off paragraph and a disappointing sign-off paragraph and it really couldn’t be closer up on the inside comes an offensive sign-off paragraph but a disappointing sign-off paragraph wins it by a nose. 🏇🏻 Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/20a438ee-4248-11f1-9b48-1b4fdf9f0c3c/image/47a8e11700a53f6fb725e924baef5bf7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2574849877.mp3?updated=1777302015",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3471",
+      "speakers": [
+        "Jamie Hutchinson",
+        "Russell Howard"
+      ],
+      "topics": [
+        "jamie",
+        "hutchinson"
+      ]
+    },
     {
       "key": "b1c466e88dbd39ecea7eb3b41d4a66bbbe2258e9",
       "title": "Janine Harouni",
@@ -2933,6 +2953,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — Jamie Hutchinson — speakers: Jamie Hutchinson, Russell Howard
 - 2026-04-22 — Janine Harouni — speakers: Janine Harouni, Russell Howard
 - 2026-04-15 — Sean McLoughlin — speakers: Sean McLoughlin, Russell Howard
 - 2026-04-08 — Mike Rice — speakers: Mike Rice, Russell Howard

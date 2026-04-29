@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-04-24T22:02:14+00:00`
-- checked_at: `2026-04-24T22:02:14+00:00`
-- etag: `"djEuMi4wOjE3NzcwNjUwMzcxNzE="`
+- fetched_at: `2026-04-29T04:02:36+00:00`
+- checked_at: `2026-04-29T04:02:36+00:00`
+- etag: `"djEuMi4wOjE3Nzc0MzE2Mzk4MTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-04-24T22:02:14+00:00",
+  "fetched_at": "2026-04-29T04:02:36+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e17b4eea84f41f11170245863ca17872880e9a98",
+      "title": "Ayoade Bamgboye",
+      "published_at": "2026-04-29T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/ayoade-bamgboye",
+      "description": "‘SNL UK’ cast member and Edinburgh Comedy Awards Best Newcomer winner Ayoade Bamgboye is this week’s dream diner. Let’s just hope there aren’t any fecal clouds in the Dream Restaurant. Ayoade Bamgboye is on tour with her show ‘Swings and Roundabouts’. For dates and tickets go to berksnest.com/ayoade Ayoade stars in ‘Saturday Night Live UK’, Saturdays at 10pm on Sky One . Follow Ayoade on Instagram @ayoadezahrah Watch the video version of this episode on the Off Menu YouTube on Thu 30 Apr. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1775558872290-128ecaa9-d2d2-40d4-9b5a-d7542f790855.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69d4e25a17813d9ba705aa1b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87496096",
+      "itunes_duration": "1:12:54",
+      "speakers": [
+        "Best Newcomer",
+        "Ayoade Bamgboye",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "ayoade",
+        "bamgboye"
+      ]
+    },
     {
       "key": "c5e1e36621b94b117f4710bfeeb9ac14676439ce",
       "title": "Graham Norton",
@@ -8418,6 +8441,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — Ayoade Bamgboye — speakers: Best Newcomer, Ayoade Bamgboye, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-22 — Graham Norton — speakers: Graham Norton, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-15 — Brian Cox — speakers: Brian Cox, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-08 — John Mulaney — speakers: John Mulaney, Ed Gamble, James Acaster, Ben Williams

@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-04-28T22:11:24+00:00`
-- checked_at: `2026-04-28T22:11:24+00:00`
-- etag: `"djEuMi4wOjE3Nzc0MDkzNTc3MjA="`
+- fetched_at: `2026-04-29T04:02:36+00:00`
+- checked_at: `2026-04-29T04:02:36+00:00`
+- etag: `"djEuMi4wOjE3Nzc0MzI4MzkzMDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-04-28T22:11:24+00:00",
+  "fetched_at": "2026-04-29T04:02:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fef83fc448e4296447c0e6013ab3ad468c3b1175",
+      "title": "ADEEL AKHTAR • \"dig where you stand\" (Mass / Four Lions / Down Cemetary Road) #669",
+      "published_at": "2026-04-29T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by acting great ADEEL AKHTAR ! There's no doubt that this is a very special episode, as you have rightfully come to expect from Distraction Pieces. But there's a feeling of almost meditation on this one, a sense of two people building a very detailed structure of conversation and being in total flow state with it, while all the time the door is open for everyone listening (as opposed to two people having a locked-off personal catch up, you know?). Adeel has clearly done a lot of thinking and indeed meditating on this craft of acting, and so much of it is present here as he and Pip get into all aspects of the game, including the process itself and the myriad facets within, the art and mechanics of theatre acting versus screen acting and the subtle alterations that are necessary, and the idea of requiring permission to pivot or try something new when you might already be exactly where you need to be. As Adell quotes, \"dig where you stand\". What's also perfect is that he joined Pip for this chat while he was on break from rehearsing for 'Mass', which is also talked about in here. Pure craft on display. Oh and also please check the Music Boutique link below - more details in the ep. Enjoy! PIP'S PATREON PAGE if you're of a supporting nature INSTAGRAM IMDB MASS @ DONMAR SAVE THE MUSIC BOUTIQUE SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1777408566386-76a6ab31-7d30-4309-ac44-4b89b5d6bd06.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69f11d4d5531bfee7865022d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117604541",
+      "itunes_duration": "48:56",
+      "speakers": [],
+      "topics": [
+        "akhtar",
+        "mass",
+        "lions",
+        "cemetary",
+        "road"
+      ]
+    },
     {
       "key": "383abef2a8eb2a76b335ae2e37eb9fa181a5bbe6",
       "title": "BOOTS RILEY (Sorry To Bother You / I Love Boosters / rap legends The Coup) • Friday Rewind",
@@ -18677,6 +18697,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — ADEEL AKHTAR • "dig where you stand" (Mass / Four Lions / Down Cemetary Road) #669
 - 2026-04-24 — BOOTS RILEY (Sorry To Bother You / I Love Boosters / rap legends The Coup) • Friday Rewind
 - 2026-04-22 — GEMMA CAIRNEY • pre-order 'The Immortal Sisterhood' to ensure a gift of future happiness (radio / media / all things great) #668
 - 2026-04-17 — NORMAN COOK (aka FATBOY SLIM!) • Friday Rewind — speakers: Norman Cook
