@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-04-28T22:11:24+00:00`
-- checked_at: `2026-04-28T22:11:24+00:00`
-- last_modified: `Tue, 28 Apr 2026 21:32:26 GMT`
+- fetched_at: `2026-04-29T08:33:09+00:00`
+- checked_at: `2026-04-29T08:33:09+00:00`
+- last_modified: `Wed, 29 Apr 2026 07:20:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-28T22:11:24+00:00",
+  "fetched_at": "2026-04-29T08:33:09+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -27,6 +27,29 @@
     "film"
   ],
   "episodes": [
+    {
+      "key": "b5cd399655c0db6f1f7716dbfeb5d2afb138ae11",
+      "title": "Adam Sztykiel (Let's Have Kids / Bad Monkey / Black Adam) • #392",
+      "published_at": "2026-04-29T07:20:00+00:00",
+      "link": "https://www.patreon.com/cw/brettgoldstein",
+      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the all star producer and screenwriter ADAM SZTYKIEL ! Adam's a key player in a pivotal moment in Brett's life, it turns out, having crafted a pilot of show which - while not made into a series - you could call a pilot for loads of other awesome things that were. This was the early Bill Lawrence days, with whom Adam has worked on many projects that you will certainly have heard of. This is a great episode, super fun and a really breezy catch up which also reveals loads of nice moments and memories and standout moments. We also hear Adam go in on such things as working with a significant life-partner and the joy of validation, good cinematic parenting of a young child, LOL (or Love Of Lynch - 3 syllables so maybe an acronym is redundant), and good old fasioned Altitude Adjusted Lachrymosity Syndrome (or crying over films on planes). Enjoy! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! INSTAGRAM IMDB BAD MONKEY SEASON 2 LET'S HAVE KIDS (more info) –––––––––– ⁠⁠ BRETT • X ⁠⁠ ⁠⁠ BRETT • INSTAGRAM ⁠⁠ ⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠ ⁠⁠ TED LASSO ⁠⁠ ⁠⁠ SHRINKING ⁠⁠ ⁠⁠ ALL OF YOU ⁠⁠ ⁠⁠ SOULMATES ⁠⁠ ⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0337fd10-4345-11f1-bb36-634c896637ab/image/d5b3e6a8de456b788599638158a9b494.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7079211386.mp3?updated=1777411164",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3353",
+      "speakers": [
+        "Adam Sztykiel",
+        "Brett Goldstein"
+      ],
+      "topics": [
+        "adam",
+        "sztykiel",
+        "kids",
+        "monkey",
+        "black"
+      ]
+    },
     {
       "key": "eacedac06807cfb4677c06dcd617e350ec81a4cb",
       "title": "Nish Kumar (The So On Time It's Almost Early Films Of The Year 2O25 Special • Part 2) • #391",
@@ -9321,6 +9344,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — Adam Sztykiel (Let's Have Kids / Bad Monkey / Black Adam) • #392 — speakers: Adam Sztykiel, Brett Goldstein
 - 2026-04-22 — Nish Kumar (The So On Time It's Almost Early Films Of The Year 2O25 Special • Part 2) • #391 — speakers: Nish Kumar, Brett Goldstein
 - 2026-04-15 — Nish Kumar (The So On Time It's Almost Early Films Of The Year 2O25 Special • Part 1) • #390 — speakers: Nish Kumar, Brett Goldstein
 - 2026-04-01 — Riz Ahmed (Bait / Hamlet / Four Lions / The Night Of) • #389 — speakers: Riz Ahmed, Brett Goldstein

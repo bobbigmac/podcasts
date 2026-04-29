@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-04-28T19:56:18+00:00`
-- checked_at: `2026-04-28T19:56:18+00:00`
-- etag: `"djEuMi4wOjE3Nzc0MDIwNTcyNzg="`
+- fetched_at: `2026-04-29T08:33:09+00:00`
+- checked_at: `2026-04-29T08:33:09+00:00`
+- etag: `"djEuMi4wOjE3Nzc0NDI0OTkzNDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-04-28T19:56:18+00:00",
+  "fetched_at": "2026-04-29T08:33:09+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7c94c8cd4d1f7d674600c49ead68e1e7cb57d356",
+      "title": "S2E46 | Boeing 1",
+      "published_at": "2026-04-29T06:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e46-boeing-1",
+      "description": "Video Version available here! This week the buds discuss Father Christmas, a Tom Waits Bond song, 'Matrix football' and steam punk planes. Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Pierre is on tour across the UK, Ireland and Netherlands! Including a headline show at the Leicester Square Theatre on May 28th! Tickets available now at https://www.pierrenovellie.com/ Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/69f100c9526757e10b624691/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70980270",
+      "itunes_duration": "49:11",
+      "speakers": [
+        "Tom Waits Bond",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "boeing"
+      ]
+    },
     {
       "key": "c6356013b3414a271ced217c040645fa88d44962",
       "title": "S2E45 | Grey Supremacist",
@@ -7662,6 +7682,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — S2E46 | Boeing 1 — speakers: Tom Waits Bond, Phil Wang, Pierre Novellie
 - 2026-04-22 — S2E45 | Grey Supremacist — speakers: Grey Supremacist, Phil Wang, Pierre Novellie
 - 2026-04-15 — S2E44 | Flake Torpedo — speakers: Flake Torpedo, Phil Wang, Pierre Novellie
 - 2026-04-08 — S2E43 | Del Boy Heat Map — speakers: Del Boy Heat Map, Phil Wang, Pierre Novellie

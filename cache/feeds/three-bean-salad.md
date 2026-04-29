@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-04-22T03:42:37+00:00`
-- checked_at: `2026-04-22T03:42:37+00:00`
-- etag: `"9e98b-650016d148df9"`
-- last_modified: `Wed, 22 Apr 2026 00:15:15 GMT`
+- fetched_at: `2026-04-29T08:33:09+00:00`
+- checked_at: `2026-04-29T08:33:09+00:00`
+- etag: `"9f05f-65094146294d7"`
+- last_modified: `Wed, 29 Apr 2026 07:13:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-04-22T03:42:37+00:00",
+  "fetched_at": "2026-04-29T08:33:09+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ec6a9d4d02a7f91dd2b2d478afa2b303bb2d0529",
+      "title": "Fifth Wednesday Not-A-Lotta-Podda",
+      "published_at": "2026-04-29T07:10:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/fifth-wednesday-not-a-lotta-podda",
+      "description": "No normal episode of Three Bean Salad this week (it's a five Wednesday April and we only do four episodes a month because of tidal science) Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad",
+      "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/1a42714d-bde8-4d10-ab0d-5ba50319310e.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=1a42714d-bde8-4d10-ab0d-5ba50319310e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "6602964",
+      "itunes_duration": "06:53",
+      "speakers": [
+        "Fifth Wednesday Not",
+        "Podda No",
+        "Three Bean Salad",
+        "Wednesday April",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "fifth",
+        "wednesday",
+        "lotta",
+        "podda"
+      ]
+    },
     {
       "key": "ae353ab92bdebf2ebfffcba62b9822a9492e1249",
       "title": "Smells",
@@ -4194,6 +4221,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — Fifth Wednesday Not-A-Lotta-Podda — speakers: Fifth Wednesday Not, Podda No, Three Bean Salad, Wednesday April, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-22 — Smells — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-15 — Vitamins — speakers: Vitamins Josh, Deep South Texas, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-08 — Show Us Your Onions — speakers: Al Capone, Mike Wozniak, Henry Paker, Benjamin Partridge

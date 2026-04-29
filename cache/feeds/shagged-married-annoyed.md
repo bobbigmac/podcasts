@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-04-27T16:55:14+00:00`
-- checked_at: `2026-04-27T16:55:14+00:00`
-- last_modified: `Mon, 27 Apr 2026 14:44:05 GMT`
+- fetched_at: `2026-04-29T08:33:09+00:00`
+- checked_at: `2026-04-29T08:33:09+00:00`
+- last_modified: `Wed, 29 Apr 2026 04:26:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-27T16:55:14+00:00",
+  "fetched_at": "2026-04-29T08:33:09+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3661705c6b9f505efd9ae3e16ddcad7a75258a6a",
+      "title": "Please Keep Me Anonymous with Daniel Sloss",
+      "published_at": "2026-04-29T04:24:00+00:00",
+      "link": null,
+      "description": "On Shagged Married Annoyed this week Chris and Rosie Ramsey are joined by the fantastic comedian Daniel Sloss! They discuss what being ‘hard’ means now and how comedians don’t quite manage it. Daniel explains why his show Jigsaw broke up so many relationships and the trio get deep over messages from the Universe. For tickets to Daniel's tour visit Danielsloss.com You can find Daniel's Live Shows ' Dark ' and ' Jigsaw ' at Netflix.com If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 Enjoy all these episodes on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3b72abba-4243-11f1-9184-5bebd4a62a3e/image/7ff694d1cb38b15e011f9d06dcaaf9b9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2211326704.mp3?updated=1777301339",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2232",
+      "speakers": [
+        "Daniel Sloss",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "daniel",
+        "sloss"
+      ]
+    },
     {
       "key": "7c2d7e20261f37c895ac7ec0a73db1d16448e5b6",
       "title": "Buzz Ballz, Pasta Puns and Safe Sex Tips from Chris!",
@@ -8218,6 +8240,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — Please Keep Me Anonymous with Daniel Sloss — speakers: Daniel Sloss, Rosie Ramsey, Chris Ramsey
 - 2026-04-24 — Buzz Ballz, Pasta Puns and Safe Sex Tips from Chris! — speakers: Buzz Ballz, Chris Ramsey, Rosie Ramsey
 - 2026-04-22 — Please Keep Me Anonymous with Tom Rosenthal — speakers: Tom Rosenthal, Rosie Ramsey, Chris Ramsey
 - 2026-04-17 — Grown Up Tears in Build-A-Bear, A Knicker Drawer Clear Out and Chris Joins The Litter Police — speakers: Chris Joins, Rosie Ramsey, Chris Ramsey
