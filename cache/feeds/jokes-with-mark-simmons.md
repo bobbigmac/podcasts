@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-04-22T19:38:08+00:00`
-- checked_at: `2026-04-22T19:38:08+00:00`
-- etag: `"djEuMi4wOjE3NzY4NzY5NzY3NTU="`
+- fetched_at: `2026-04-29T19:54:03+00:00`
+- checked_at: `2026-04-29T19:54:03+00:00`
+- etag: `"djEuMi4wOjE3Nzc0ODMxOTU1MzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-04-22T19:38:08+00:00",
+  "fetched_at": "2026-04-29T19:54:03+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ccc907dec1a95f11e77711d992d3975f351c4d5e",
+      "title": "Sarah Roberts Returns",
+      "published_at": "2026-04-29T17:19:55+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/sarah-roberts-returns",
+      "description": "Sarah Roberts bring sis some more routines she's not quite happy with yet. See Mark on tour here https://marksimmons.co.uk/live-dates/ See Danny on tour here https://dannywardcomedy.co.uk/wheres-ward/#the-holiday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/69f23dbbeaa0279b7c6886ff/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59854407",
+      "itunes_duration": "41:30",
+      "speakers": [
+        "Sarah Roberts Returns",
+        "Sarah Roberts",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "sarah",
+        "roberts",
+        "return"
+      ]
+    },
     {
       "key": "0f7a436b802a8e5143ca28c1003ce8c895fa791e",
       "title": "Ben Norris Returns",
@@ -7263,6 +7285,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — Sarah Roberts Returns — speakers: Sarah Roberts Returns, Sarah Roberts, Mark Simmons
 - 2026-04-22 — Ben Norris Returns — speakers: Ben Norris Returns Traditional, Ben Norris, https mar, Mark Simmons
 - 2026-04-13 — Tour Talk: Home Town Show & Viral Video — speakers: Mark Simmons
 - 2026-04-06 — Tour Talk: Radio 2 Breakfast Show Audition — speakers: Mark Simmons

@@ -2,9 +2,9 @@
 
 - slug: `st-elwicks`
 - source: `https://anchor.fm/s/f6fb9cc/podcast/rss`
-- fetched_at: `2026-04-29T14:30:30+00:00`
-- checked_at: `2026-04-29T14:30:30+00:00`
-- etag: `W/"e604-j6NPO0H5yzC9noZm1RadGhqjbzY"`
+- fetched_at: `2026-04-29T19:54:03+00:00`
+- checked_at: `2026-04-29T19:54:03+00:00`
+- etag: `W/"e604-Pc70CxvY2hqRnin9QJg8UKmMfK8"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/joel-porter1",
   "description": "St Elwick's Neighbourhood Association Newsletter Podcast Editor-in-Chief Malcolm Durridge. By Mike Wozniak Produced by Joel Porter",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/2489803/2489803-1571730422334-a7600df9d973b.jpg",
-  "fetched_at": "2026-04-29T14:30:30+00:00",
+  "fetched_at": "2026-04-29T19:54:03+00:00",
   "owners": [
     "Mike Wozniak"
   ],
