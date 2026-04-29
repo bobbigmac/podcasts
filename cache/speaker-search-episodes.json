@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "c5149da731c163cc6d871c79e416d2184b0e32ba",
+        "episode_key": "c5149da731c163cc6d871c79e416d2184b0e32ba",
+        "title": "Ayoade Bamgboye",
+        "published_at": "2026-04-29T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "‘SNL UK’ cast member and Edinburgh Comedy Awards Best Newcomer winner Ayoade Bamgboye is this week’s dream diner. Let’s just hope there aren’t any fecal clouds in the Dream Restaurant. \nAyoade Bamgboye is on tour with her show ‘Swings and Roundabouts’. For dates and tickets go to berksnest.com/ayoade \nAyoade stars in ‘",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69d4e25a17813d9ba705aa1b/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ayoade-bamgboye/id1442950743?i=1000764227093&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
@@ -4233,6 +4256,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "c5149da731c163cc6d871c79e416d2184b0e32ba",
+        "episode_key": "c5149da731c163cc6d871c79e416d2184b0e32ba",
+        "title": "Ayoade Bamgboye",
+        "published_at": "2026-04-29T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "‘SNL UK’ cast member and Edinburgh Comedy Awards Best Newcomer winner Ayoade Bamgboye is this week’s dream diner. Let’s just hope there aren’t any fecal clouds in the Dream Restaurant. \nAyoade Bamgboye is on tour with her show ‘Swings and Roundabouts’. For dates and tickets go to berksnest.com/ayoade \nAyoade stars in ‘",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69d4e25a17813d9ba705aa1b/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ayoade-bamgboye/id1442950743?i=1000764227093&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:8e22327570e3",
         "feed_title": "Sunday Brunch Picky Bits",
