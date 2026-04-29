@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-04-29T19:54:03+00:00`
-- checked_at: `2026-04-29T19:54:03+00:00`
-- etag: `W/"2c72d-y0SXgpAyYapqqFAGczpr3HZGAN4"`
+- fetched_at: `2026-04-29T22:11:27+00:00`
+- checked_at: `2026-04-29T22:11:27+00:00`
+- etag: `W/"2c1a3-as5gDe2dh2GSAnLytTO0BFJgB94"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,40 +17,13 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-04-29T19:54:03+00:00",
+  "fetched_at": "2026-04-29T22:11:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "fb29d54b54d518d5261de94456e8bbacb58848ef",
-      "title": "Josh Widdicombe XFM #5 – James Acaster Classic Scrape 5, Joe Lycett on The Italian Elections",
-      "published_at": "2026-04-29T18:57:19+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-5--James-Acaster-Classic-Scrape-5--Joe-Lycett-on-The-Italian-Elections-e3ilh33",
-      "description": "James Acaster joins Josh in the studio again for another Classic Scrape. Joe Lycett talks about the Italian elections.Broadcast on 5th March 2013.",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1777487704256-9d87226c2c1c6.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/119243299/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-29%2F94c36213-80af-e73a-62a3-7440ff25fc7a.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "35393267",
-      "itunes_duration": "00:36:51",
-      "speakers": [
-        "James Acaster Classic Scrape",
-        "Joe Lycett",
-        "James Acaster"
-      ],
-      "topics": [
-        "josh",
-        "widdicombe",
-        "james",
-        "acaster",
-        "classic",
-        "scrape",
-        "lycett",
-        "elections"
-      ]
-    },
     {
       "key": "a6d451b5a8fcadac26ba0a71aa6270a5cc7608f3",
       "title": "Josh Widdicombe XFM #4 – James Acaster Classic Scrape 4, Joe Lycett says Catchphrase For First Time",
@@ -3221,7 +3194,6 @@
 
 ## Episodes (newest first)
 
-- 2026-04-29 — Josh Widdicombe XFM #5 – James Acaster Classic Scrape 5, Joe Lycett on The Italian Elections — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster
 - 2026-04-28 — Josh Widdicombe XFM #4 – James Acaster Classic Scrape 4, Joe Lycett says Catchphrase For First Time — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster
 - 2026-04-27 — Josh Widdicombe XFM #3 – James Acaster Classic Scrape 3, Joe Lycett on The Pope. — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster
 - 2026-04-26 — Josh Widdicombe XFM #2 – James Acaster Classic Scrape 2, Joe Lycett on Richard III — speakers: James Acaster Classic Scrape, Joe Lycett, Richard Iii, James Acaster
