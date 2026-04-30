@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-04-27T11:17:16+00:00`
-- checked_at: `2026-04-27T11:17:16+00:00`
-- etag: `"djEuMi4wOjE3NzcyODUyNjkzMjk="`
+- fetched_at: `2026-04-30T19:49:36+00:00`
+- checked_at: `2026-04-30T19:49:36+00:00`
+- etag: `"djEuMi4wOjE3Nzc1Njg3NjIxNzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-04-27T11:17:16+00:00",
+  "fetched_at": "2026-04-30T19:49:36+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,31 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "02f0d9dc511405812d3738604f60325b60c1c5a0",
+      "title": "Attacks on Jews are an indictment of Keir Starmer's Britain",
+      "published_at": "2026-04-30T17:06:01+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/attacks-on-jews-are-an-indictment-of-keir-starmers-britain",
+      "description": "\"It makes me furious,\" says New Statesman editor Tom McTague. An attack in Golders Green, London, yet again exposes the rise of antisemitism in Britain. Anoosh Chakelian has been reporting from the borough, where local Jews fear for their safety, volunteer security guards patrol the streets and Jewish children have to pass through heavy security cordons to get to school. She tells editor Tom McTague about what she found. Meanwhile, the rise of anti-Jewish hate is putting more pressure on a government still mired in the Peter Mandelson scandal. The Prime Minister has become deeply unpopular, the Iran War continues, and local elections loom. Westminster has concluded Keir Starmer has two options: fight or flight. The New Statesman's political editor, Ailbhe Rea, says the Prime Minister has made a decision and raised his fists. READ: Terror in Golders Green, by Anoosh Chakelian https://www.newstatesman.com/politics/society/2026/04/terror-in-suburbia We are under attack, by Rachel Cunliffe https://www.newstatesman.com/politics/society/2026/04/we-are-under-attack LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777568640950-c37a6d94-8f47-438c-91eb-c7825ec90772.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69f38b3d8dd960ac61a16449/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67963670",
+      "itunes_duration": "47:11",
+      "speakers": [
+        "Tom McTague",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "attack",
+        "jews",
+        "indictment",
+        "keir",
+        "starmer",
+        "britain"
+      ]
+    },
     {
       "key": "4d28843c94624021ec5f3570ab1a38b8e373be5a",
       "title": "Political F-bombs and Jacob Rees-Mogg “unbuttoned”",
@@ -31086,6 +31111,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — Attacks on Jews are an indictment of Keir Starmer's Britain — speakers: Tom McTague, Anoosh Chakelian, Oli Dugmore
 - 2026-04-25 — Political F-bombs and Jacob Rees-Mogg “unbuttoned” — speakers: Jacob Rees-Mogg, Peter Mandelson, Anoosh Chakelian, Oli Dugmore
 - 2026-04-23 — Keir Starmer is all alone — speakers: Peter Mandelson, Anoosh Chakelian, Oli Dugmore
 - 2026-04-20 — Does Starmer deserve more credit? — speakers: Anoosh Chakelian, Oli Dugmore

@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-04-24T19:12:36+00:00`
-- checked_at: `2026-04-24T19:12:36+00:00`
-- etag: `"067fdecd99b92ea47f0b6ccb5bc02010"`
-- last_modified: `Fri, 24 Apr 2026 18:00:10 GMT`
+- fetched_at: `2026-04-30T19:49:36+00:00`
+- checked_at: `2026-04-30T19:49:36+00:00`
+- etag: `"58ba442344c7cc7ef125d33d7ff177b6"`
+- last_modified: `Thu, 30 Apr 2026 18:00:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-04-24T19:12:36+00:00",
+  "fetched_at": "2026-04-30T19:49:36+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5460,30 +5460,6 @@
         "quiz",
         "friday"
       ]
-    },
-    {
-      "key": "f67b548928b1834f5f7e6d839c889da8f0f81380",
-      "title": "The News Quiz - Friday 30th April 2021",
-      "published_at": "2021-04-30T18:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09g9q3z",
-      "description": "Andy Zaltzman presents a look back at the week's headlines with Simon Evans, Helen Lewis, Elis James and Ria Lina. This week decorating, vaccinating and electioneering are subject to scrutiny by our teams. Written by Andy Zaltzman with additional material from Alice Fraser, Mike Shephard, Tasha Dhanraj and Tom Mayhew. Producer: Richard Morris and Gwyn Rhys Davies A BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09g9p02.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26816000",
-      "itunes_duration": "1676",
-      "speakers": [
-        "Andy Zaltzman",
-        "Simon Evans",
-        "Helen Lewis",
-        "Elis James"
-      ],
-      "topics": [
-        "news",
-        "quiz",
-        "friday",
-        "april"
-      ]
     }
   ]
 }
@@ -5750,4 +5726,3 @@
 - 2021-05-21 — The News Quiz - Friday 21st May 2021 — speakers: Andy Zaltzman, Geoff Norcott, Eleanor Tiernan
 - 2021-05-14 — The News Quiz - Friday 14th May 2021 — speakers: Andy Zaltzman, Danny Finkelstein
 - 2021-05-07 — The News Quiz - Friday 7th May 2021 — speakers: Andy Zaltzman, Paul Sinha, Angela Barnes, Ayesha Ha
-- 2021-04-30 — The News Quiz - Friday 30th April 2021 — speakers: Andy Zaltzman, Simon Evans, Helen Lewis, Elis James
