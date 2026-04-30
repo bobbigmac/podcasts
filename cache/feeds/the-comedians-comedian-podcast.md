@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-04-29T22:11:27+00:00`
-- checked_at: `2026-04-29T22:11:27+00:00`
-- etag: `"djEuMi4wOjE3Nzc0OTMxNjM4MDI="`
+- fetched_at: `2026-04-30T08:36:06+00:00`
+- checked_at: `2026-04-30T08:36:06+00:00`
+- etag: `"djEuMi4wOjE3Nzc1MjUyMzk4MDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-04-29T22:11:27+00:00",
+  "fetched_at": "2026-04-30T08:36:06+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6846a2375ddff1040c3c108dd8c897febc9e685a",
+      "title": "John Tothill",
+      "published_at": "2026-04-30T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/508-john-tothill",
+      "description": "John Tothill is one of the most exciting stand-ups to come out of the UK in recent years. Debuting in 2023, he’s now on his third show with This Must Be Heaven - the story of his near death experience and an underwhelming cruise. In this episode we discuss: the brutal truth about moving from open mics to pro gigs why early WIPs are often funnier than complete shows the loneliness of being trapped on a cruise ship after bombing every night why crowd work makes him uncomfortable scaling material up for bigger rooms while supporting Alan Davies and we find out if John Tothill is happy … Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to 15 minutes of exclusive extras including: the realisation that not everyone will get your material, but the right people really will what trait is most likely to obstruct success why “doing the work” often looks like not doing the work at all and the fear about where the world goes next… 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with John: You can see John Tothill: This Must Be Heaven tomorrow at Mach (if you’re reading this as it’s released), London on 22nd May and in Edinburgh this summer. Find all the dates at campsite.bio/johntothill . Also, you can keep-up-date with John on Instagram, @johntothill . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ 15 minutes of exclusive extra content with John ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE including dates in Mach this weekend , LA next week and lots of other places after then! Find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1777492511694-95bd8a98-5950-4bd9-965d-1bcbbddfa22d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69f2629213ce2999f42394f6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108626112",
+      "itunes_duration": "1:15:26",
+      "speakers": [
+        "John Tothill",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "john",
+        "tothill"
+      ]
+    },
     {
       "key": "ddcaaac9cd53db83210b6593dc73ce5cb6d6796c",
       "title": "Jonno Johnson",
@@ -11374,6 +11394,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — John Tothill — speakers: John Tothill, Stuart Goldsmith
 - 2026-04-23 — Jonno Johnson — speakers: Jonno Johnson, Stuart Goldsmith
 - 2026-04-16 — Ellie Taylor (2019): ComCompendium — speakers: Ellie Taylor, Ellie Ta, Stuart Goldsmith
 - 2026-04-09 — Flo & Joan (2019): ComCompendium — speakers: Stuart Goldsmith
