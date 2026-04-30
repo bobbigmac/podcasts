@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-04-30T04:03:53+00:00`
-- checked_at: `2026-04-30T04:03:53+00:00`
-- last_modified: `Thu, 30 Apr 2026 01:41:08 GMT`
+- fetched_at: `2026-04-30T11:06:19+00:00`
+- checked_at: `2026-04-30T11:06:19+00:00`
+- last_modified: `Thu, 30 Apr 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-30T04:03:53+00:00",
+  "fetched_at": "2026-04-30T11:06:19+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,27 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "1012e066ae40ebfcc124db03ed042ca91d53b900",
+      "title": "We're Still Thinking About This Conversation with Will Guidara",
+      "published_at": "2026-04-30T09:00:00+00:00",
+      "link": null,
+      "description": "In September 2023, Will Guidara told us the story of how he used two words to turn a middling brasserie into the best restaurant in the world. Those two words? Unreasonable hospitality. We're running that episode again today because, well, it's one of our all-time favorites. And because Will is coming back on the show on Monday to discuss his brand-new book, Unreasonable Hospitality: The Field Guide . Consider this the appetizer. Sponsored By: Fabric — Join the thousands of parents who trust Fabric to help protect their family at ⁠meetfabric.com/nbi⁠ Factor — Head to ⁠⁠factormeals.com/idea50off⁠⁠ and use code idea50off to get 50% off your first box Granola — Get three months free at ⁠granola.ai/idea⁠ Shopify — Start your $1/month trial at ⁠⁠⁠⁠shopify.com/nbi⁠⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP8187232009.mp3?updated=1777513559",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3757",
+      "speakers": [
+        "Will Guidara",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "conversation",
+        "guidara"
+      ]
+    },
     {
       "key": "327fd3aea441934f8e889372d341a7a6134a0106",
       "title": "Here’s Our Favorite Book of the Season",
@@ -7625,6 +7646,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — We're Still Thinking About This Conversation with Will Guidara — speakers: Will Guidara, Rufus Griscom, Caleb Bissinger
 - 2026-04-27 — Here’s Our Favorite Book of the Season — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-04-23 — “Beliefs Are Tools, Not Truths” — speakers: Nir Eyal, Rufus Griscom, Caleb Bissinger
 - 2026-04-20 — The History and Future of Apple — speakers: Rufus Griscom, Caleb Bissinger

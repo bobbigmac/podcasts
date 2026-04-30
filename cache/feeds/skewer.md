@@ -2,10 +2,10 @@
 
 - slug: `skewer`
 - source: `https://podcasts.files.bbci.co.uk/m000czyb.rss`
-- fetched_at: `2026-04-29T14:30:30+00:00`
-- checked_at: `2026-04-29T14:30:30+00:00`
-- etag: `"1b4e6de1f66a1abed0d4c09e2efb2f3d"`
-- last_modified: `Wed, 29 Apr 2026 13:03:10 GMT`
+- fetched_at: `2026-04-30T11:06:19+00:00`
+- checked_at: `2026-04-30T11:06:19+00:00`
+- etag: `"51d1b6facc1c3ba693f403841af219db"`
+- last_modified: `Thu, 30 Apr 2026 08:33:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m000czyb",
   "description": "A twisted comedy treat. Jon Holmes brings you the week's biggest stories like you've never heard them before. The news remixed. Welcome to The Skewer. Headphones on. The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS New York Festival 2020 Audio Production Awards 2020 British Podcast Awards 2020 Audio Production Awards 2019 (Sound Design) Audio Production Awards 2020 An Unusual production for BBC Radio 4",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kvt4yr.jpg",
-  "fetched_at": "2026-04-29T14:30:30+00:00",
+  "fetched_at": "2026-04-30T11:06:19+00:00",
   "owners": [
     "Jon Holmes"
   ],
@@ -29,6 +29,25 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "c1d28e16ed3f119f2ddba524d1a69baa26c9e641",
+      "title": "2. Lie Back and Think of England",
+      "published_at": "2026-04-30T08:31:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002vmnq",
+      "description": "Starmer has a problem, Trump has a ballroom blitz, and Charles lies back and thinks of England. The multi-award-winning satire is back for a new run as Jon Holmes mashes up the news with pop-culture to create a current affairs comedy concept album. Producer: Jon Holmes An unusual production for BBC Radio 4",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nhfypj.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13504000",
+      "itunes_duration": "844",
+      "speakers": [
+        "Lie Back",
+        "Jon Holmes"
+      ],
+      "topics": [
+        "england"
+      ]
+    },
     {
       "key": "b0732b603b778bfb96c55e8d0dc8050794359482",
       "title": "1. The Incredible Starmer. (You wouldn't like him when he's angry)",
@@ -1545,6 +1564,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — 2. Lie Back and Think of England — speakers: Lie Back, Jon Holmes
 - 2026-04-22 — 1. The Incredible Starmer. (You wouldn't like him when he's angry) — speakers: Beatrix Potter, Peter Mandelson, Jon Holmes
 - 2026-02-04 — 5. This Charming Mandelson — speakers: Charming Mandelson, Peter Mandelson, Sleeping Beauty, Jon Holmes
 - 2026-01-28 — 4. The Jaws of Andy Burnham — speakers: Jon Holmes
