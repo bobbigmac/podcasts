@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-04-30T11:06:19+00:00`
-- checked_at: `2026-04-30T11:06:19+00:00`
-- etag: `"24d084-650aaad3494e8"`
-- last_modified: `Thu, 30 Apr 2026 10:10:40 GMT`
+- fetched_at: `2026-04-30T16:47:11+00:00`
+- checked_at: `2026-04-30T16:47:11+00:00`
+- etag: `"24e5b9-650ae6e8d9265"`
+- last_modified: `Thu, 30 Apr 2026 14:39:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-04-30T11:06:19+00:00",
+  "fetched_at": "2026-04-30T16:47:11+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,25 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "59de3b96101f2c9c4f0c2fe4963e46e39b68c0a9",
+      "title": "Trump v Leo: the war of words over a just war",
+      "published_at": "2026-04-30T14:30:00+00:00",
+      "link": "https://theconversation.com/what-is-a-just-war-inside-the-war-of-words-between-the-trump-administration-and-the-catholic-church-281788",
+      "description": "After Donald Trump took to social media to lambast Pope Leo's criticism of the Iran war, the pontiff told journalists \"I'm not afraid of the Trump administration\". Part of the war of words between Trump and Leo is a question over whether the Iran war is a just one. Just war theory, first articulated by St Augustine in the fifth century, outlines the church’s moral guidelines for political and military leaders to consider before choosing to go to war. But it’s not static, and the church’s own position has become more restrictive in recent years. In this episode, Gerard Powers , the director of Catholic Peace Building Studies at the University of Notre Dame in Indiana, explains how the Catholic church’s just war tradition evolved and the influence it’s had on US military thinking. Powers was a senior advisor on international policy for the U.S. Conference of Catholic Bishops during the Iraq war, and was involved in efforts to persuade the Bush administration not to invade. He sets out the difficulty now facing Catholics serving in the US military, whose archbishop has now spoken out against the war they’re being asked to fight This episode was produced by Katie Flood and Mend Mariwany and the executive producer was Gemma Ware. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/4a5b9400-9bc3-4dfd-a8b4-905a66d9d39f.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39226975",
+      "itunes_duration": "27:14",
+      "speakers": [
+        "Pope Leo",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "word"
+      ]
+    },
     {
       "key": "a651b8a7e9b83ad1277ea5d9a9c69f841f457a27",
       "title": "Israel’s history shapes how it wages war",
@@ -5851,6 +5870,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — Trump v Leo: the war of words over a just war — speakers: Pope Leo, Gemma Ware
 - 2026-04-23 — Israel’s history shapes how it wages war — speakers: Gemma Ware
 - 2026-04-16 — How former insider Péter Magyar ousted Hungary’s Viktor Orbán — speakers: Péter Magyar, Viktor Orbán, Gemma Ware
 - 2026-04-09 — The pseudoscientific scale looksmaxxers use to rate each other — speakers: Gemma Ware
