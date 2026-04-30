@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-04-28T22:11:24+00:00`
-- checked_at: `2026-04-28T22:11:24+00:00`
-- last_modified: `Tue, 28 Apr 2026 20:53:24 GMT`
+- fetched_at: `2026-04-30T04:03:53+00:00`
+- checked_at: `2026-04-30T04:03:53+00:00`
+- last_modified: `Wed, 29 Apr 2026 23:07:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-28T22:11:24+00:00",
+  "fetched_at": "2026-04-30T04:03:53+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,28 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "66b9f276dceff17a2487873b63915e930231ee87",
+      "title": "The Great Game Pitch-Off",
+      "published_at": "2026-04-29T23:00:00+00:00",
+      "link": null,
+      "description": "Say bye-bye April and hi-hi to this week's episode of Button Boys, not to be confused with the global smash-hit podcast Bunting Boys, who claim to \"put the bants in bunts\". Back from the far reaches of the globe the Boys have been set the task of pitching their dream games. Each host takes it in turns to talk you through their vision and win your hearts. Head over to Discord to vote on what you think could be the Button Boys' first billion-dollar franchise. But before they go all Jordan Belfort on you, the Boys catch up on what they've been playing over the last few weeks. Sarah's found themself straddling the old and new, Pierre's got his hands on an early access code for one of his favourite franchises and Glenn's been hanging out with an underage android. Press play to find out why that's not problematic. To follow along with the Button Boys outside the podcast: Pierre - ⁠ You Sit There, I'll Stand Here⁠ ⁠Sarah's New York show If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Pokémon Red Pokémon Scarlet Stardew Valley Pokémon: Let’s Go A Short Hike Hell Let Loose: Vietnam Vampire Crawlers Vampire Survivors Blue Prince Pragmata The Last of Us Dead Space Mass Effect Alan Wake Pipe Dream Crusader Kings III Age of Empires The Sims Doki Doki Literature Club! The Sims: Spooky Stuff Discounty Dave the Diver Coffee Talk Tavern Talk This War of Mine Commandos 3 Until Dawn Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR3627386542.mp3?updated=1777504235",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3403",
+      "speakers": [
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "great",
+        "game",
+        "pitch"
+      ]
+    },
     {
       "key": "04f13dab85b6b9a6995b178168c281c83dc7b8c9",
       "title": "ABBA: You Ask, We Answer",
@@ -969,6 +991,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — The Great Game Pitch-Off — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-04-22 — ABBA: You Ask, We Answer — speakers: Ask Button Boys Anything, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-04-15 — Unfinished Business: Browsing the Backlog — speakers: Unfinished Business, Backlog Fling, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-04-08 — Gaming Highs — speakers: Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie

@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-04-29T14:30:30+00:00`
-- checked_at: `2026-04-29T14:30:30+00:00`
+- fetched_at: `2026-04-30T04:03:53+00:00`
+- checked_at: `2026-04-30T04:03:53+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Wed, 29 Apr 2026 12:51:28 GMT`
+- last_modified: `Thu, 30 Apr 2026 04:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-29T14:30:30+00:00",
+  "fetched_at": "2026-04-30T04:03:53+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "46f87c4439dca3ce6b01bfbdb8d04ca29ed85c53",
+      "title": "Carol Klein",
+      "published_at": "2026-04-30T04:00:00+00:00",
+      "link": null,
+      "description": "Oh what a treat it was to chat with true gardening icon Carol Klein! Presenter, author and gardener extraordinaire, Carol is so gloriously entertaining and a true horticultural hero of mine and so many others. It was an absolute pleasure to chat with her, even if the spring sunshine soon swapped out for sleet! ☂️❄️ 🌸 We discuss the promiscuity of the primrose, the dangers of the Chelsea Flower Show bar and even, briefly, bathing with John Lennon. 🍷🍇 If you’ve enjoyed the conversation, I’d highly suggest seeking out Carol’s books, in particular her perfectly named Hortobiography and, brilliant news, the new series of Greatest Gardens with Diarmuid Gavin and Carol Klein is available on BBC iPlayer right now, please do take a look! Now, pour yourself a glass of crisp rosé, pop open those umbrellas and come pottering with us. Quick! Before the sap rises! 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3d658818-43c7-11f1-bca5-53c35c2c4f56/image/adcd3c0b059ff1ce13ae85bd74db8dbf.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2668650779.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2343",
+      "speakers": [
+        "Carol Klein",
+        "Tom Allen"
+      ],
+      "topics": [
+        "carol",
+        "klein"
+      ]
+    },
     {
       "key": "4961cf2222ae4f52b5c67a98f7aa61efac877519",
       "title": "Ashley James",
@@ -688,6 +708,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — Carol Klein — speakers: Carol Klein, Tom Allen
 - 2026-04-23 — Ashley James — speakers: Ashley James, Tom Allen
 - 2026-04-16 — Jonny Hincks — speakers: Jonny Hincks, Tom Allen
 - 2026-04-09 — Sarah Hadland — speakers: Sarah Hadland, Tom Allen

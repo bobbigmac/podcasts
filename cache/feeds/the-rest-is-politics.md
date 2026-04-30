@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-04-29T16:53:35+00:00`
-- checked_at: `2026-04-29T16:53:35+00:00`
-- last_modified: `Wed, 29 Apr 2026 16:03:03 GMT`
+- fetched_at: `2026-04-30T04:03:53+00:00`
+- checked_at: `2026-04-30T04:03:53+00:00`
+- last_modified: `Thu, 30 Apr 2026 02:34:15 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-29T16:53:35+00:00",
+  "fetched_at": "2026-04-30T04:03:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "16e13a90344de75f50f8f55870681735c2da1316",
+      "title": "527. Are American Tech Billionaires Threatening British Democracy?",
+      "published_at": "2026-04-29T23:00:00+00:00",
+      "link": null,
+      "description": "Given Palantir’s controversial manifesto – described by some as having “techno-fascist” tendencies – why is the UK Government expanding its work with the company? Why has the Foreign Office closed its international humanitarian law unit, and what does this say about the UK's commitment to international law? Is the government doing enough to address mental health issues, particularly among young people and Gen Z? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. Stream Secret Service now on ITVX. Visit https://www.itv.com/watch/secret-service/10a3104 __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter __________ Social Producer: Emma Jackson Video Editor: James Clayden, Lorcan Moullier Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7217176894.mp3?updated=1777478144",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3256",
+      "speakers": [],
+      "topics": [
+        "american",
+        "tech",
+        "billionaires",
+        "democracy"
+      ]
+    },
     {
       "key": "c7d24d905c45a77333c4a30c9b5aad3b1d527800",
       "title": "526. Trump's Orwellian Maths and the King's Special Relationship Mission",
@@ -11705,6 +11724,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — 527. Are American Tech Billionaires Threatening British Democracy?
 - 2026-04-28 — 526. Trump's Orwellian Maths and the King's Special Relationship Mission — speakers: Orwellian Maths
 - 2026-04-22 — 525. JD Vance vs. the Pope and the Far-Right Funding Machine (Question Time) — speakers: JD Vance
 - 2026-04-21 — 524. Starmer’s Mandelson Mess and the Iranian Nuclear Threat — speakers: Peter Mandelson

@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-04-29T14:30:30+00:00`
-- checked_at: `2026-04-29T14:30:30+00:00`
-- last_modified: `Wed, 29 Apr 2026 14:17:18 GMT`
+- fetched_at: `2026-04-30T04:03:53+00:00`
+- checked_at: `2026-04-30T04:03:53+00:00`
+- last_modified: `Wed, 29 Apr 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-29T14:30:30+00:00",
+  "fetched_at": "2026-04-30T04:03:53+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c56b2311db890845672a2bd53a54497c64e5bf55",
+      "title": "Shanthi’s Birthday Special",
+      "published_at": "2026-04-29T23:01:00+00:00",
+      "link": null,
+      "description": "What do you get Shanthi Ranganathan for her birthday when she already has it all? It’s a special birthday episode of The Romesh Ranganathan Show, as Romesh and the team celebrate Shanthi with gifts, an unexpected charity donation, and a chaotic game of Would You Rather? From Shanthi’s thoughts on dating later in life, to questions about drug use, and heated debates over Titanic, cats and parrots, this birthday special goes exactly where you’d expect and absolutely nowhere you’d predict... Plus, Romesh and Shanthi tackle your listener dilemmas with their usual mix of questionable advice, honesty and chaos. A Ranga Bee Production in partnership with Platform. 00:00 Intro 01:00 Shanthi’s birthday gifts 04:36 Romesh’s charity donation 07:25 Would You Rather with Shanthi 08:50 Shanthi’s first marijuana experience 10:30 Shanthi on dating 19:18 Did Thundercat like the hat? 22:00 A question about age 26:48 Most proud moments 30:40 A miscommunication about movies, cats and parrots 36:50 How do the Ranganathan’s celebrate birthdays? 39:15 Titanic movie opinions 41:40 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3a684e52-43cc-11f1-a46e-6f502a64115d/image/4d1e9759b90a3e4609dd97cd8468b2fe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4775148942.mp3?updated=1777472530",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2766",
+      "speakers": [
+        "Birthday Special What",
+        "Shanthi Ranganathan",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "birthday",
+        "special"
+      ]
+    },
     {
       "key": "c4f2c86e8629ad8b7d8d4a82bbb7699b6f3a7b89",
       "title": "Thundercat on Creativity, Positive Mindsets & Finding His Sound",
@@ -1461,6 +1483,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-29 — Shanthi’s Birthday Special — speakers: Birthday Special What, Shanthi Ranganathan, Romesh Ranganathan
 - 2026-04-26 — Thundercat on Creativity, Positive Mindsets & Finding His Sound — speakers: Grammy Award, Romesh Ranganathan
 - 2026-04-22 — Shanthi’s TikTok Shop Obsession & Are Sleepovers Bad? — speakers: Romesh Ranganathan
 - 2026-04-19 — Harry Hill: From Doctor To Comedian, TV Burp & Success in America — speakers: Harry Hill, Comedian Harry Hill, Romesh Ranganathan
