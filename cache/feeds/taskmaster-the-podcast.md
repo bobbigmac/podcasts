@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-04-23T22:01:08+00:00`
-- checked_at: `2026-04-23T22:01:08+00:00`
-- etag: `"d3230-65026b9546054"`
-- last_modified: `Thu, 23 Apr 2026 20:45:08 GMT`
+- fetched_at: `2026-04-30T22:09:07+00:00`
+- checked_at: `2026-04-30T22:09:07+00:00`
+- etag: `"d3e02-650b38a35e66a"`
+- last_modified: `Thu, 30 Apr 2026 20:45:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-04-23T22:01:08+00:00",
+  "fetched_at": "2026-04-30T22:09:07+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d5ad24285da3398b8e20dd2d4604de5bc95576b5",
+      "title": "Jenny Eclair - Series 21 Ep.4",
+      "published_at": "2026-04-30T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "On this week's podcast Ed is joined by the brilliant comedian, writer and podcast Jenny Eclair! Jenny joins Ed in the caravan where they invent a new game, discuss the Series 21 line up and even talk Labubus! Jenny is of course the host of Taskmaster The People Podcast which is released each week and has all the BTS and TM knowledge you could dream of. Head here each week to hear Jack Bernhardt and Jenny discuss all things TM Taskmaster The People's Podcast You can also listen to Jenny every Friday on her podcast Older & Wider To catch up on Taskmaster visit Channel4.com To get all the latest news head to Taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/1985633c-3b9c-4657-abda-ea3d19fd2264/TASKMASTER-PODCAST-ARTWORK-Jenny-v2.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/9a3696de-9b93-4bfd-ab85-9e0440442f03.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=9a3696de-9b93-4bfd-ab85-9e0440442f03",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59031627",
+      "itunes_duration": "01:01:29",
+      "speakers": [
+        "Jenny Eclair",
+        "Ed Gamble"
+      ],
+      "topics": [
+        "jenny",
+        "eclair",
+        "series"
+      ]
+    },
     {
       "key": "92260963b904848dc86259d51a13a5f1419bcff7",
       "title": "Joanna Page - Series 21 Ep.3",
@@ -5297,6 +5318,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — Jenny Eclair - Series 21 Ep.4 — speakers: Jenny Eclair, Ed Gamble
 - 2026-04-23 — Joanna Page - Series 21 Ep.3 — speakers: Ed Gamble
 - 2026-04-16 — Armando Iannucci - Series 21 Ep.2 — speakers: Ed Gamble
 - 2026-04-09 — Phil Ellis - Series 21 Ep.1 — speakers: Ed Gamble
