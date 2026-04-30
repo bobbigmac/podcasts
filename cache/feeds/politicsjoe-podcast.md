@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-04-30T11:06:19+00:00`
-- checked_at: `2026-04-30T11:06:19+00:00`
-- etag: `"djEuMi4wOjE3Nzc1NDY5MzcwMzk="`
+- fetched_at: `2026-04-30T14:24:12+00:00`
+- checked_at: `2026-04-30T14:24:12+00:00`
+- etag: `"djEuMi4wOjE3Nzc1NTA0Mzk0ODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-04-30T11:06:19+00:00",
+  "fetched_at": "2026-04-30T14:24:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "3386f150b09b7b5f69778a0f267e6a21c582ec81",
+      "title": "Lefties clash over MPs drinking in Parliament",
+      "published_at": "2026-04-30T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69f3149313ce2999f4588f52",
+      "description": "Columnist Stella Tsantekidou and Turn Left Media's Curtis Daly were feuding on Twitter earlier this week. In response to our Hannah Spencer interview, Stella wrote: \"Yeah no, sorry, MPs are often cooped up in Parliament for 15 hours a day, they will have a drink with journalists or colleagues and will still be discussing politics -their job\". Curtis replied: \"I'm absolutely ok with MPs not drinking on the job, its not a human right.\" Today, on the PolJOE sofa, with Ava as mediator, the two have it out. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69f3149313ce2999f4588f52/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37899968",
+      "itunes_duration": "26:18",
+      "speakers": [
+        "Stella Tsantekidou",
+        "Turn Left"
+      ],
+      "topics": [
+        "lefty",
+        "parliament"
+      ]
+    },
     {
       "key": "db116fb613f8eb5bd3fa823914b2ecd7155c5cc3",
       "title": "Is this Keir Starmer's last PMQs?",
@@ -12731,6 +12751,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — Lefties clash over MPs drinking in Parliament — speakers: Stella Tsantekidou, Turn Left
 - 2026-04-29 — Is this Keir Starmer's last PMQs?
 - 2026-04-28 — Morgan McSweeney backs Starmer in Mandelson committee
 - 2026-04-27 — Debriefing the Hannah Spencer interview — speakers: Hannah Spencer

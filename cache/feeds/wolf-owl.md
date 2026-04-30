@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-04-30T11:06:19+00:00`
-- checked_at: `2026-04-30T11:06:19+00:00`
-- last_modified: `Thu, 30 Apr 2026 10:43:38 GMT`
+- fetched_at: `2026-04-30T14:24:12+00:00`
+- checked_at: `2026-04-30T14:24:12+00:00`
+- last_modified: `Thu, 30 Apr 2026 13:47:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-30T11:06:19+00:00",
+  "fetched_at": "2026-04-30T14:24:12+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -6388,12 +6388,12 @@
       "title": "Bonus Email Episode #2",
       "published_at": "2021-02-05T08:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/bonusemailshow-2",
-      "description": "It’s another Friday bonus show - if you keep sending us questions, we’ll keep answering them! We tackle… round three of Tom’s celebrity endorsement beef, some advice on getting into acting, dealing with compliments and vegan insult comebacks. Thanks for all your emails - keep them coming at wolfowlpod@gmail.com Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/9bf2149a-4831-11ed-b685-b71e29bdfa26/image/611fbb2615a1aa001297f422.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8358809233.mp3?updated=1707778425",
+      "description": "It’s another Friday bonus show - if you keep sending us questions, we’ll keep answering them! We tackle… round three of Tom’s celebrity endorsement beef, some advice on getting into acting, dealing with compliments and vegan insult comebacks. Thanks for all your emails - keep them coming at wolfowlpod@gmail.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8358809233.mp3?updated=1777554963",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2976",
+      "itunes_duration": "3006",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -6424,12 +6424,12 @@
       "title": "Bonus Email Episode #1",
       "published_at": "2021-01-29T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/bonusemailepisode",
-      "description": "Following an epic response to our email callout, this week we’ve recorded a special bonus episode to answer more of your questions. We tackle… having a coffee with George Clooney, hooking up with old friends, dealing with fame and some advice on child-friendly hip hop. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Following an epic response to our email callout, this week we’ve recorded a special bonus episode to answer more of your questions. We tackle… having a coffee with George Clooney, hooking up with old friends, dealing with fame and some advice on child-friendly hip hop. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/9cc1794c-4831-11ed-b685-4bb69632ced5/image/611fbb2615a1aa001297f430.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6419454094.mp3?updated=1707778314",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6419454094.mp3?updated=1777553932",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2663",
+      "itunes_duration": "2693",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -6479,7 +6479,7 @@
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode7",
       "description": "We’re talking… listener reviews, stalking reality TV stars, morale-boosting music and dodgy WhatsApp groups. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4511145271.mp3?updated=1777478226",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4511145271.mp3?updated=1777553534",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3360",

@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-04-27T11:17:16+00:00`
-- checked_at: `2026-04-27T11:17:16+00:00`
-- etag: `W/"143e1afaf958aac6e038508a9c1434da"`
-- last_modified: `Mon, 27 Apr 2026 08:48:44 GMT`
+- fetched_at: `2026-04-30T14:24:12+00:00`
+- checked_at: `2026-04-30T14:24:12+00:00`
+- etag: `W/"1107f513e76a0099fe257fff3dda64ca"`
+- last_modified: `Thu, 30 Apr 2026 12:52:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-04-27T11:17:16+00:00",
+  "fetched_at": "2026-04-30T14:24:12+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -345,7 +345,7 @@
       "link": "https://audioboom.com/posts/8873213",
       "description": "Mary Roach joins Dan, James and Andy to discuss blood banks, breast boosting and beneficial bryophytes. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43527820.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8873213.mp3?modified=1773337818&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8873213.mp3?modified=1777553557&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3446",

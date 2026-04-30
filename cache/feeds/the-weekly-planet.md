@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-04-27T08:40:52+00:00`
-- checked_at: `2026-04-27T08:40:52+00:00`
-- etag: `"djEuMi4wOjE3NzcyNjI1MDczNTc="`
+- fetched_at: `2026-04-30T14:24:12+00:00`
+- checked_at: `2026-04-30T14:24:12+00:00`
+- etag: `"djEuMi4wOjE3Nzc1NTU4MzkzMDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-04-27T08:40:52+00:00",
+  "fetched_at": "2026-04-30T14:24:12+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "25dc195264467148d83e58c07a51df83904fa020",
+      "title": "X-Men - Caravan Of Garbage",
+      "published_at": "2026-04-30T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/x-men-caravan-of-garbage",
+      "description": "Cast your mind back to the year 2000. Okay great. And now think about the movie X-Men which introduced the world to the modern superhero movie with the likes of Hugh Jackman's Wolverine, Patrick Stewarts a bald guy, Ian McKellen as Magnet and Halle Berry as a much underused Storm. And with the likes of James Marsden coming back as Cyclops for Avengers: Doomsday in 2026 this decades old Marvel franchise has never been more relevant. And then there's the Bryan Singer of it all. YUCK. Anyways thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69ddc6b32cfb2f5bcbc40130/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31808470",
+      "itunes_duration": "32:21",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "1954caa13d6711de841f9f42e9e62930bb7df7ca",
       "title": "620: Clayface, Exit 8 & Michael Movie",
@@ -22168,6 +22188,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — X-Men - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-04-26 — 620: Clayface, Exit 8 & Michael Movie — speakers: Michael Movie, James Clement, Nick Mason
 - 2026-04-23 — War of the Worlds (2025) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-04-20 — 619 Cinema Con Reveals & Lee Cronin's The Mummy — speakers: Lee Cronin, James Clement, Nick Mason
