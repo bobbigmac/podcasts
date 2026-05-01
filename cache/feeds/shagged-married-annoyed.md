@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-05-01T04:16:32+00:00`
-- checked_at: `2026-05-01T04:16:32+00:00`
-- last_modified: `Fri, 01 May 2026 04:14:00 GMT`
+- fetched_at: `2026-05-01T08:24:39+00:00`
+- checked_at: `2026-05-01T08:24:39+00:00`
+- last_modified: `Fri, 01 May 2026 06:32:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-01T04:16:32+00:00",
+  "fetched_at": "2026-05-01T08:24:39+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -32,7 +32,7 @@
       "title": "BFT's, Bum Washing Toilets and is Rosie Launching her Country Music Career?",
       "published_at": "2026-05-01T04:14:00+00:00",
       "link": null,
-      "description": "On this week's Shagged Married Annoyed Chris and Rosie Ramsey discuss remembering things the old school way, their musical tastes in the early noughties and what Chris would like for his 40th Birthday! Rosie explains the drawbacks of BFT's and shares her ideas for a new Children's book. Chris has one last tour update which involves some shade from his tour manager and a town crier! All of this plus a musical voice note and some QFTP's involving a a foreign object in an ear and less that romantic declaration of love. If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "On this week's Shagged Married Annoyed Chris and Rosie Ramsey discuss remembering things the old school way, their musical tastes in the early noughties and what Chris would like for his 40th Birthday! Rosie explains the drawbacks of BFT's and shares her ideas for a new Children's book. Chris has one last tour update which involves some shade from his tour manager and a town crier! All of this plus a musical voice note and some QFTP's involving a a foreign object in an ear and a less than romantic declaration of love. If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6958577704.mp3?updated=1777547047",
       "enclosure_type": "audio/mpeg",

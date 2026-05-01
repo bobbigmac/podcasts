@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-05-01T04:16:32+00:00`
-- checked_at: `2026-05-01T04:16:32+00:00`
-- etag: `W/"2c72d-y0SXgpAyYapqqFAGczpr3HZGAN4"`
+- fetched_at: `2026-05-01T08:24:39+00:00`
+- checked_at: `2026-05-01T08:24:39+00:00`
+- etag: `W/"2cd0b-ykw8IYsfzXRQMTVaKBjqRXUX3cY"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,43 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-05-01T04:16:32+00:00",
+  "fetched_at": "2026-05-01T08:24:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "5efb83ca037c53a44ff05fbe48fde706826312d9",
+      "title": "Josh Widdicombe XFM #6 – Adam Hills & Alex Brooker, James Acaster Classic Scrape 6, Joe Lycett",
+      "published_at": "2026-04-30T19:08:04+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-6--Adam-Hills--Alex-Brooker--James-Acaster-Classic-Scrape-6--Joe-Lycett-e3incfq",
+      "description": "Adam Hills & Alex Brooker from The Last Leg join Josh in the studio.James Acaster shares another Classic Scape and Joe Lycett talks about Jospeh Stalin.Broadcast on 12th March 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1777576075548-351b7b300c68f.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/119304122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-30%2F8f2f9b84-ac29-a69f-3ab0-3cf77958a63c.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30698810",
+      "itunes_duration": "00:31:57",
+      "speakers": [
+        "Alex Brooker",
+        "James Acaster Classic Scrape",
+        "Joe Lycett Adam Hills",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "adam",
+        "hills",
+        "alex",
+        "brooker",
+        "james",
+        "acaster",
+        "classic",
+        "scrape"
+      ]
+    },
     {
       "key": "fb29d54b54d518d5261de94456e8bbacb58848ef",
       "title": "Josh Widdicombe XFM #5 – James Acaster Classic Scrape 5, Joe Lycett on The Italian Elections",
@@ -3221,6 +3251,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — Josh Widdicombe XFM #6 – Adam Hills & Alex Brooker, James Acaster Classic Scrape 6, Joe Lycett — speakers: Alex Brooker, James Acaster Classic Scrape, Joe Lycett Adam Hills, James Acaster
 - 2026-04-29 — Josh Widdicombe XFM #5 – James Acaster Classic Scrape 5, Joe Lycett on The Italian Elections — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster
 - 2026-04-28 — Josh Widdicombe XFM #4 – James Acaster Classic Scrape 4, Joe Lycett says Catchphrase For First Time — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster
 - 2026-04-27 — Josh Widdicombe XFM #3 – James Acaster Classic Scrape 3, Joe Lycett on The Pope. — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster

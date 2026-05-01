@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-04-24T08:22:12+00:00`
-- checked_at: `2026-04-24T08:22:12+00:00`
-- etag: `"519d90817a425f355f3d4b3b16a6b51c"`
-- last_modified: `Fri, 24 Apr 2026 05:00:07 GMT`
+- fetched_at: `2026-05-01T08:24:39+00:00`
+- checked_at: `2026-05-01T08:24:39+00:00`
+- etag: `"400a4155988890b4442b66ef757d72ae"`
+- last_modified: `Fri, 01 May 2026 05:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1pytt.jpg",
-  "fetched_at": "2026-04-24T08:22:12+00:00",
+  "fetched_at": "2026-05-01T08:24:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,29 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "1a99e84a0217acf6f745e430f8bcbd9183a8c7da",
+      "title": "Emperor Nero (Radio Edit)",
+      "published_at": "2026-05-01T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0n9kcv3",
+      "description": "Greg Jenner is joined in ancient Rome by Professor Mary Beard and comedian and actor Patton Oswalt to learn all about Emperor Nero. Nero has gone down in history as one of Rome’s most infamous rulers – the villain in any number of films and television programmes, and the man who fiddled while the eternal city burned. He was also emperor during a number of momentous moments in the history of ancient Rome, including the revolt in Britain led by Iceni warrior queen Boudica. But does he deserve his notorious posthumous reputation? This episode explores the man and the myth, examining Nero’s complicated path to the imperial throne, his relationship with famous philosopher Seneca the Younger, his murderous behaviour towards the women in his life, and the numerous plots that swirled around him. Along the way, we take a look at the more ridiculous moments in Nero’s life, including the athletic games he founded, the festival to himself that he instituted, and his numerous dramatic appearances on the stage. This is a radio edit of the original podcast episode. For the full-length version, please look further back in the feed. Hosted by: Greg Jenner Research by: Aimee Hinds Scott Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n9kbfp.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26992000",
+      "itunes_duration": "1687",
+      "speakers": [
+        "Greg Jenner",
+        "Mary Beard",
+        "Patton Oswalt"
+      ],
+      "topics": [
+        "emperor",
+        "nero",
+        "radio",
+        "edit"
+      ]
+    },
     {
       "key": "65e8d872771c7547b90a5ce72aeb2bfcac5fc09d",
       "title": "The Terracotta Army (Radio Edit)",
@@ -5769,6 +5792,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-01 — Emperor Nero (Radio Edit) — speakers: Greg Jenner, Mary Beard, Patton Oswalt
 - 2026-04-24 — The Terracotta Army (Radio Edit) — speakers: Greg Jenner, Julia Lovell, Phil Wang
 - 2026-04-17 — Medieval Irish Folklore (Radio Edit) — speakers: Greg Jenner
 - 2026-04-10 — El Cid: the life and legend of a medieval Spanish warrior — speakers: Greg Jenner, Nora Berend

@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-04-27T03:59:50+00:00`
-- checked_at: `2026-04-27T03:59:50+00:00`
-- etag: `"djEuMi4wOjE3NzcyNDQ1NTkzMTk="`
+- fetched_at: `2026-05-01T08:24:39+00:00`
+- checked_at: `2026-05-01T08:24:39+00:00`
+- etag: `"djEuMi4wOjE3Nzc2MjEzNjYxODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-04-27T03:59:50+00:00",
+  "fetched_at": "2026-05-01T08:24:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d7410549f7221416af23d0dc7c6a94b3d23d71db",
+      "title": "Ep. 582 - Joe Wilkinson Unedited - An uncut version of our episode with the Celebrity Traitors star!",
+      "published_at": "2026-05-01T07:42:44+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-582-joe-wilkinson-unedited-an-uncut-version-of-our-episod",
+      "description": "An unedited version of Ep. 245 with comedian Joe Wilkinson. Now 10 mins longer! Comedian and actor Joe Wilkinson is best known for his Celebrity Traitors, Last One Laughing UK, regular appearances on 8 Out of 10 Cats Does Countdown, as Pat the postman in Ricky Gervais’ After Life on Netflix and Dan in the incredible Him & Her. He’s also been in Live at the Apollo, a number of episodes of Have I Got News For You, Miranda, Derek, Taskmaster, Sex Education and Not Going Out. He was Star Baker on The Great British Bake Off for Stand Up to Cancer. His daily podcast, Chatabix, which he does with his After Life co-star David Earle, reached no.1 in the Apple Podcast charts. Joe Wilkinson is our guest in episode 582 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Follow Joe Wilkinson on Instagram : @gillinghamjoe . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69f459769dcd58edd9c2a3b2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83992993",
+      "itunes_duration": "1:09:59",
+      "speakers": [
+        "Joe Wilkinson"
+      ],
+      "topics": [
+        "wilkinson",
+        "unedited",
+        "version",
+        "celebrity",
+        "traitors",
+        "star"
+      ]
+    },
     {
       "key": "f7d4d0647e9eeea9db09df51ea7b42ea8cdf1c96",
       "title": "Ep. 581 - Eleanor Morton - Award winning comedian who's written for The News Quiz, The Now Show, Hypothetical and The Beano.",
@@ -12459,6 +12482,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-01 — Ep. 582 - Joe Wilkinson Unedited - An uncut version of our episode with the Celebrity Traitors star! — speakers: Joe Wilkinson
 - 2026-04-26 — Ep. 581 - Eleanor Morton - Award winning comedian who's written for The News Quiz, The Now Show, Hypothetical and The Beano. — speakers: Eleanor Morton, Edinburgh Fringe
 - 2026-04-23 — Ep. 580 - Seann Walsh (Unedited) - From episode 76, now 20 mins longer! — speakers: Seann Walsh, Sean Walsh
 - 2026-04-19 — Ep. 579 - Fatiha El-Ghorri - Stand-up comedy from from Taskmaster, Live at the Apollo, QI, The Last Leg… — speakers: Fatiha El-Ghorri
