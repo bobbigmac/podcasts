@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-04-29T04:02:36+00:00`
-- checked_at: `2026-04-29T04:02:36+00:00`
-- etag: `"djEuMi4wOjE3Nzc0MjA4Mzk0NzI="`
+- fetched_at: `2026-05-01T04:16:32+00:00`
+- checked_at: `2026-05-01T04:16:32+00:00`
+- etag: `"djEuMi4wOjE3Nzc1OTM2Mzk0MjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-04-29T04:02:36+00:00",
+  "fetched_at": "2026-05-01T04:16:32+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "d5d3acd57e971321e3e50898d1c4772da9856713",
+      "title": "DWSC LIVE: With Kate Butch",
+      "published_at": "2026-05-01T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-kate-butch",
+      "description": "For our second DWSC drop of the week, we stick around in Chelmsford, and welcome the second guest from our live show, the hilarious and impossibly glam Kate Butch! Kate did not disappoint both sartorially, or comically, as she recounted the times, she was the unlucky recipient of phone snatchings and how the song in her ear pods turned out to be more than a little prophetical. We then hear about a local case involving some very timely (and thirsty) robbers, before finally inviting an audience member onto the stage to tell us about a crime against both pancakes and the concept of what constitutes a ‘treat'. We're back in the studio next week, with the fantastic Danni Diston, see you there! Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast DWSC eps now drop every Wednesday and every other Friday, so that's at least SIX drops every, single month! Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/69ef2f062da85ae26e4b1fca/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92049468",
+      "itunes_duration": "1:03:54",
+      "speakers": [
+        "Kate Butch",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "kate",
+        "butch"
+      ]
+    },
     {
       "key": "8230183a526d859e0735f0da7e607feb04f61c2c",
       "title": "DWSC LIVE: With Ashley Storrie",
@@ -11013,6 +11035,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-01 — DWSC LIVE: With Kate Butch — speakers: Kate Butch, Hannah George, Taylor Glenn
 - 2026-04-29 — DWSC LIVE: With Ashley Storrie — speakers: Ashley Storrie, Hannah George, Taylor Glenn
 - 2026-04-22 — DWSC LIVE: With Selina Mosinski — speakers: Selina Mosinski, Hannah George, Taylor Glenn
 - 2026-04-17 — DWSC LIVE: With Barry Dodds — speakers: Hannah George, Taylor Glenn

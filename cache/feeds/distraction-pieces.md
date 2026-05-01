@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-04-30T19:49:36+00:00`
-- checked_at: `2026-04-30T19:49:36+00:00`
-- etag: `"djEuMi4wOjE3Nzc1NzY1MzA2MjY="`
+- fetched_at: `2026-05-01T04:16:32+00:00`
+- checked_at: `2026-05-01T04:16:32+00:00`
+- etag: `"djEuMi4wOjE3Nzc2MDU2MzkzMjk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-04-30T19:49:36+00:00",
+  "fetched_at": "2026-05-01T04:16:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "73b450e4b0c69e8ea2852d79f442b1c2f81812a0",
+      "title": "RUTGER BREGMAN (Utopia For Realists / Humankind / Moral Ambition) • Friday Rewind",
+      "published_at": "2026-05-01T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Rutger Bregman , originally episode 190 from 2018-02-21. Original writeup below: An absolutely massive episode covering - as said - some big topics and issues, which are immensely interesting and made a lot easier to understand with Rutger’s able guidance and explanation. His book ‘ Utopia For Realists And How We Can Get There ’ is available now (published by Bloomsbury), and this should be a good idea of what you can expect - Rutger tackles the issues of universal basic income, strikes, borders, how great art can be achieved by not having basic financial worries, how we need a return to utopian thinking, new ideas beginning at the fringes of society, how the US isn’t the beating heart of the entire world (as the news may have you believe), the ‘circle of bullshit’, and how we are working with “21st Century hardware on 19th Century software” - all of these are expounded on a great deal so this is a good one to really sit and take some time with. There is a kind of ‘Freakanomics’ approach to some of the points, which is fascinating - like the eventual financial cost of one element of one’s life, and the knock-on effects of doing one thing in particular and how it leads to what’s down the road. Just so much to enjoy, and all very positive too - certainly not a world of doom and gloom in this one, no way. Enlighten yourself and enjoy! PIP'S PATREON PAGE if you're of a supporting nature ONLINE YOUTUBE PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1777576202156-330c23e6-b779-4b3e-a7fc-2b887844e542.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69f3aa52ad9857928952f0e2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "201154768",
+      "itunes_duration": "1:23:44",
+      "speakers": [],
+      "topics": [
+        "rutger",
+        "bregman",
+        "utopia",
+        "realists",
+        "humankind",
+        "moral",
+        "ambition",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "fef83fc448e4296447c0e6013ab3ad468c3b1175",
       "title": "ADEEL AKHTAR • \"dig where you stand\" (Mass / Four Lions / Down Cemetary Road) #669",
@@ -18697,6 +18721,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-01 — RUTGER BREGMAN (Utopia For Realists / Humankind / Moral Ambition) • Friday Rewind
 - 2026-04-29 — ADEEL AKHTAR • "dig where you stand" (Mass / Four Lions / Down Cemetary Road) #669
 - 2026-04-24 — BOOTS RILEY (Sorry To Bother You / I Love Boosters / rap legends The Coup) • Friday Rewind
 - 2026-04-22 — GEMMA CAIRNEY • pre-order 'The Immortal Sisterhood' to ensure a gift of future happiness (radio / media / all things great) #668

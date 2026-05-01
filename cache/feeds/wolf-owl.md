@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-04-30T19:49:36+00:00`
-- checked_at: `2026-04-30T19:49:36+00:00`
-- last_modified: `Thu, 30 Apr 2026 17:55:00 GMT`
+- fetched_at: `2026-05-01T04:16:32+00:00`
+- checked_at: `2026-05-01T04:16:32+00:00`
+- last_modified: `Thu, 30 Apr 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-30T19:49:36+00:00",
+  "fetched_at": "2026-05-01T04:16:32+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "47e82060ff9ef4cffaf0ebf9e36440eb89ba5c6d",
+      "title": "Ozempic, Vaping and Rita Ora",
+      "published_at": "2026-04-30T23:01:00+00:00",
+      "link": null,
+      "description": "Has Tom been on the Ozempic? Is Wolf & Owl going international? And who would our dream dinner guests be? Yet again your emails have inspired us friends - if you’re in a European city that we can fly to within a day, get in touch! We’ve shaken on it, so we’ll be coming to visit one of you… Let us know where in Europe you’re from and don’t forget to send your questions, pictures and suggestions to wolfowlpod@gmail.com Don’t forget to like and subscribe! A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 00:57 Wolf & Owl International 03:17 Ozempic and vamping 08:21 Dream dinner party 16:53 Stand up intros Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4e3fd2a4-430b-11f1-8974-53450cb96ee6/image/fd90afc296fa5ed490527f59ee3c1f81.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6545295666.mp3?updated=1777557118",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1428",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "ozempic",
+        "vaping",
+        "rita"
+      ]
+    },
     {
       "key": "515fc089abd25850e3a7516a3d7cef1c7e5d8442",
       "title": "Leonardo Di Caprio, Jason Momoa and Fashion Regrets",
@@ -6622,6 +6643,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — Ozempic, Vaping and Rita Ora — speakers: Romesh Ranganathan, Tom Davis
 - 2026-04-27 — Leonardo Di Caprio, Jason Momoa and Fashion Regrets — speakers: Leonardo Di Caprio, Louis Walsh, Romesh Ranganathan, Tom Davis
 - 2026-04-23 — Three Peaks Challenge, Intrusive Thoughts & Anxiety When Things Go Well — speakers: Will Tom, Romesh Ranganathan, Tom Davis
 - 2026-04-21 — Harry Styles, Chocolate Cake and the World Cup — speakers: Harry Styles, Romesh Ranganathan, Tom Davis

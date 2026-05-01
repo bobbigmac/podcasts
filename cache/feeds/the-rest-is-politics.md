@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-04-30T22:09:07+00:00`
-- checked_at: `2026-04-30T22:09:07+00:00`
-- last_modified: `Thu, 30 Apr 2026 21:03:30 GMT`
+- fetched_at: `2026-05-01T04:16:32+00:00`
+- checked_at: `2026-05-01T04:16:32+00:00`
+- last_modified: `Thu, 30 Apr 2026 23:19:47 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-04-30T22:09:07+00:00",
+  "fetched_at": "2026-05-01T04:16:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "dea84732adda7ef6b43bbc2e9e5a0b7989e8d2d6",
+      "title": "Lucky or Left Behind? The Gen Z Money Story",
+      "published_at": "2026-04-30T22:55:00+00:00",
+      "link": null,
+      "description": "Is Gen Z the most informed generation in history, or the most financially trapped? Is a university degree still worth it, or have we sent too many people to study the wrong things? Has Britain gone from a meritocracy to an inheritocracy, where the “Bank of Mum and Dad” are more essential than ever? Vicky Spratt, Housing and Society Correspondent, investigates the Gen Z story and how bad are things really for young people? This week she is joined by generational historial Dr Eliza Filby. STUDENT DISCOUNT FOR TRIP PLUS: £20 FOR THE YEAR : The Rest is Politics is offering an exclusive discount for students, just sign up with your student email address here To hear the whole episode, and to get access to all TRIP bonus content, sign up at therestispolitics.com Instagram: ⁠@restispolitics⁠ Twitter: ⁠@restispolitics⁠ Email: ⁠therestispolitics@goalhanger.com⁠ __________ Hosted by: Vicky Spratt Producer: India Dunkley Social Producer: Celine Charles Video Editor: Adam Thornton, Lorcan Moullier Researcher: Olivia Taylor Hooper Exec Producer: Tom Whiter Editorial Director: Emily Kent-Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3b9f194e-44a4-11f1-92fc-570555cf3614/image/545941e72476abe7d88d43e266df1741.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3398086747.mp3?updated=1777573437",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1012",
+      "speakers": [
+        "Left Behind"
+      ],
+      "topics": [
+        "money",
+        "story"
+      ]
+    },
     {
       "key": "16e13a90344de75f50f8f55870681735c2da1316",
       "title": "527. Are American Tech Billionaires Threatening British Democracy?",
@@ -11724,6 +11743,7 @@
 
 ## Episodes (newest first)
 
+- 2026-04-30 — Lucky or Left Behind? The Gen Z Money Story — speakers: Left Behind
 - 2026-04-29 — 527. Are American Tech Billionaires Threatening British Democracy?
 - 2026-04-28 — 526. Trump's Orwellian Maths and the King's Special Relationship Mission — speakers: Orwellian Maths
 - 2026-04-22 — 525. JD Vance vs. the Pope and the Far-Right Funding Machine (Question Time) — speakers: JD Vance
