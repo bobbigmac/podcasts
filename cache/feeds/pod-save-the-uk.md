@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-04-23T19:40:37+00:00`
-- checked_at: `2026-04-23T19:40:37+00:00`
-- etag: `W/"d991518ee6476d5e5b2551fad6a20600"`
-- last_modified: `Thu, 23 Apr 2026 18:51:15 GMT`
+- fetched_at: `2026-05-01T19:38:13+00:00`
+- checked_at: `2026-05-01T19:38:13+00:00`
+- etag: `W/"96728e0156c58ad6ed07976649c000a0"`
+- last_modified: `Fri, 01 May 2026 18:47:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,9 +16,9 @@
   "source_url": "https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053",
   "title": "Pod Save the UK",
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
-  "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – in partnership with Reduced Listening, tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
-  "image_url": "https://audioboom.com/i/43321223.jpg",
-  "fetched_at": "2026-04-23T19:40:37+00:00",
+  "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
+  "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
+  "fetched_at": "2026-05-01T19:38:13+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"

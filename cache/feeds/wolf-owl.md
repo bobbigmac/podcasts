@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-01T16:08:21+00:00`
-- checked_at: `2026-05-01T16:08:21+00:00`
-- last_modified: `Fri, 01 May 2026 15:34:41 GMT`
+- fetched_at: `2026-05-01T19:38:13+00:00`
+- checked_at: `2026-05-01T19:38:13+00:00`
+- last_modified: `Fri, 01 May 2026 17:21:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-01T16:08:21+00:00",
+  "fetched_at": "2026-05-01T19:38:13+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -6259,6 +6259,25 @@
       "topics": []
     },
     {
+      "key": "c1d34c7ef05fd35ed1b0f11f8e885060b6ced9bb",
+      "title": "Bonus Email Episode #6",
+      "published_at": "2021-03-12T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/bonusemailepisode-6",
+      "description": "We tackle… inappropriate adverts, social media (mis)management, incommunicative flatmates, lads chat, more of those pesky inner voices and dealing with the family dog. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/987f14f2-4831-11ed-b685-1f171d492a83/image/611fbb2615a1aa001297f3e3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1508875943.mp3?updated=1777647668",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3225",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "email"
+      ]
+    },
+    {
       "key": "176445514541ea8e091d704dd9a2b904c3f06450",
       "title": "Episode 15",
       "published_at": "2021-03-10T07:00:00+00:00",
@@ -6925,6 +6944,7 @@
 - 2021-03-24 — Episode 17 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-03-19 — Bonus Email Episode #7 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-03-17 — Episode 16 — speakers: growing up, filming cock-ups, Romesh Ranganathan, Tom Davis
+- 2021-03-12 — Bonus Email Episode #6 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-03-10 — Episode 15 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-03-05 — Bonus Email Episode #5 — speakers: marriage proposals, Romesh Ranganathan, Tom Davis
 - 2021-03-03 — Episode 14 — speakers: Romesh Ranganathan, Tom Davis
