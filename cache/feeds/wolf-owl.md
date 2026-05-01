@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-01T08:24:39+00:00`
-- checked_at: `2026-05-01T08:24:39+00:00`
-- last_modified: `Fri, 01 May 2026 07:47:53 GMT`
+- fetched_at: `2026-05-01T13:54:22+00:00`
+- checked_at: `2026-05-01T13:54:22+00:00`
+- last_modified: `Fri, 01 May 2026 13:42:50 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-01T08:24:39+00:00",
+  "fetched_at": "2026-05-01T13:54:22+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -5450,6 +5450,23 @@
       "topics": []
     },
     {
+      "key": "1bd1ed225bb1de3dd1eb13d483f50bdcf2f8353f",
+      "title": "Episode 11",
+      "published_at": "2021-10-02T13:15:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode11",
+      "description": "We’re talking… owning your own style, having a good bedside manner (or lack of), making up new words and hand shakes vs fist-bumps. Plus a dramatic revelation about someone’s age. Oh and just so you know, Tom’s still not oiled his chair. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5732961212.mp3?updated=1777641790",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3998",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
       "key": "81574a64081926f581a171c4830e20d1cf182cdc",
       "title": "Episode 43",
       "published_at": "2021-09-29T06:00:44+00:00",
@@ -6298,67 +6315,13 @@
       ]
     },
     {
-      "key": "2a1d914e2fefa936b4f9ec170e042289257f9bfa",
-      "title": "Episode 14",
-      "published_at": "2021-03-03T07:00:00+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode14",
-      "description": "We’re talking… new presenting styles for the podcast, retail aggravations, vindictive DIY tools, getting control of your inner voice and more tiny toilets. Plus some helpful advice on hair. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/99b54ada-4831-11ed-b685-733df719ce4f/image/611fbb2615a1aa001297f3f8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3878548890.mp3?updated=1707778793",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3933",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": []
-    },
-    {
-      "key": "8bb41b307e3862753738ce6d083c264775a11e96",
-      "title": "Episode 13",
-      "published_at": "2021-02-24T07:00:00+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode13",
-      "description": "We’re talking… keeping up with the cool kids, when to help out a stranger (or not), sweet souls, man-bags and Mulberry handbags, and traumatic encounters with tradesmen. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/9a12bca6-4831-11ed-b685-63559f485d4c/image/611fbb2615a1aa001297f3ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7849233859.mp3?updated=1707778758",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4213",
-      "speakers": [
-        "sweet souls",
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": []
-    },
-    {
-      "key": "17bc9f443a8ec8d2ba9a2f6ddc0efdb6178ca92b",
-      "title": "Bonus Email Episode #4",
-      "published_at": "2021-02-19T07:00:00+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/bonusemailepisode-4",
-      "description": "Undeterred by Tom’s dodgy wi-fi signal throughout the recording, it’s time to answer more of your emails! We tackle… vegan bacon, after-work drinks, frustratingly small clothes sizes, some advice on patience in relationships and getting caught short at the seaside. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/9a6ce8de-4831-11ed-b685-5ba1c5a0398e/image/611fbb2615a1aa001297f406.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4356605919.mp3?updated=1707778724",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3140",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "email"
-      ]
-    },
-    {
       "key": "51a0cb1d16d19e83db98e65936d6f427db850962",
       "title": "Episode 12",
       "published_at": "2021-02-17T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode12",
       "description": "We’re talking… getting used to wearing jeans again, the mind-blowing genius of zips, personalised cards, buying gifts and unconventional uses for a cheese and onion pasty. Plus our old friends persnickety and Kreme both make a return appearance. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/9ac648a2-4831-11ed-b685-831fda29b24a/image/611fbb2615a1aa001297f40d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9691249316.mp3?updated=1777568683",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9691249316.mp3?updated=1777641821",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3969",
@@ -6386,23 +6349,6 @@
       "topics": [
         "email"
       ]
-    },
-    {
-      "key": "1bd1ed225bb1de3dd1eb13d483f50bdcf2f8353f",
-      "title": "Episode 11",
-      "published_at": "2021-02-10T07:00:00+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode11",
-      "description": "We’re talking… owning your own style, having a good bedside manner (or lack of), making up new words and hand shakes vs fist-bumps. Plus a dramatic revelation about someone’s age. Oh and just so you know, Tom’s still not oiled his chair. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/9b96236a-4831-11ed-b685-9f1028e87649/image/611fbb2615a1aa001297f41b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5732961212.mp3?updated=1777560520",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3998",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": []
     },
     {
       "key": "a732041cf9b69d854ce285a418488d9f8712a129",
@@ -6899,6 +6845,7 @@
 - 2021-10-20 — Episode 46 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-10-13 — Episode 45 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-10-06 — Episode 44 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-10-02 — Episode 11 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-29 — Episode 43 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-24 — Bonus Email Episode #22 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-22 — Episode 42 — speakers: Romesh Ranganathan, Tom Davis
@@ -6946,12 +6893,8 @@
 - 2021-03-12 — Bonus Email Episode #6 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-03-10 — Episode 15 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-03-05 — Bonus Email Episode #5 — speakers: marriage proposals, Romesh Ranganathan, Tom Davis
-- 2021-03-03 — Episode 14 — speakers: Romesh Ranganathan, Tom Davis
-- 2021-02-24 — Episode 13 — speakers: sweet souls, Romesh Ranganathan, Tom Davis
-- 2021-02-19 — Bonus Email Episode #4 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-17 — Episode 12 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-12 — Bonus Email Episode #3 — speakers: Romesh Ranganathan, Tom Davis
-- 2021-02-10 — Episode 11 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-05 — Bonus Email Episode #2 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-03 — Episode 10 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-01-29 — Bonus Email Episode #1 — speakers: Romesh Ranganathan, Tom Davis

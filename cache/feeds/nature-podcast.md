@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-04-29T16:53:35+00:00`
-- checked_at: `2026-04-29T16:53:35+00:00`
-- etag: `"djEuMi4wOjE3Nzc0NzQ4Mzk0MDM="`
+- fetched_at: `2026-05-01T13:54:22+00:00`
+- checked_at: `2026-05-01T13:54:22+00:00`
+- etag: `"djEuMi4wOjE3Nzc2NDA2NDE3MjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-04-29T16:53:35+00:00",
+  "fetched_at": "2026-05-01T13:54:22+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"

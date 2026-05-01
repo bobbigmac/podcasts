@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-01T04:16:32+00:00`
-- checked_at: `2026-05-01T04:16:32+00:00`
-- etag: `"djEuMi4wOjE3Nzc2MDQyNTkyMjU="`
+- fetched_at: `2026-05-01T13:54:22+00:00`
+- checked_at: `2026-05-01T13:54:22+00:00`
+- etag: `"djEuMi4wOjE3Nzc2Mzg4MDk5MDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-01T04:16:32+00:00",
+  "fetched_at": "2026-05-01T13:54:22+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -31,7 +31,7 @@
       "title": "Retro Can I Have My Ball Back? - Episode 1",
       "published_at": "2026-05-01T02:57:00+00:00",
       "link": "https://rhlstp.co.uk",
-      "description": "#1 Shelling Peas with Charley Boorman - A brand new podcast series that’s happy to admit that it’s a load of bollocks. Uniballer Richard Herring tells the story of how he came to lose one of his Chuckle Brothers, talks to other monoballs and teste experts (testperts) about these remarkable and vulnerable organs. In episode one Richard recounts what happened when he first became concerned about his weird big bollock and talks to Richard Herring lookalike and fellow motorcycle enthusiast and womble, Charley Boorman to find out how his dog helped him diagnose his own testicular cancer. To find out how best to check your balls or the balls of someone you love (or like enough) head here https://uk.movember.com/men-s-health/testicular-cancer For even more bollock facts and funny stories from Richard’s own diagnosis, Buy the Can I Have My Ball Back? book here https://www.gofasterstripe.com/ball SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "#1 Shelling Peas with Charley Boorman - A brand new podcast series that’s happy to admit that it’s a load of bollocks. Uniballer Richard Herring tells the story of how he came to lose one of his Chuckle Brothers, talks to other monoballs and teste experts (testperts) about these remarkable and vulnerable organs. In episode one Richard recounts what happened when he first became concerned about his weird big bollock and talks to Richard Herring lookalike and fellow motorcycle enthusiast and womble, Charley Boorman to find out how his dog helped him diagnose his own testicular cancer. To find out how best to check your balls or the balls of someone you love (or like enough) head here https://uk.movember.com/men-s-health/testicular-cancer For even more bollock facts and funny stories from Richard’s own diagnosis, Buy the Can I Have My Ball Back? DVD or Download here https://www.gofasterstripe.com/ball SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1777402377618-a975c9c2-6313-459e-b700-92e5115587b9.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69f102202f651f55f5148940/media.mp3",
       "enclosure_type": "audio/mpeg",
