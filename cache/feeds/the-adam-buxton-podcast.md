@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-04-22T10:42:43+00:00`
-- checked_at: `2026-04-22T10:42:43+00:00`
-- etag: `"djEuMi4wOjE3NzY4NDc2Njc3Mzk="`
+- fetched_at: `2026-05-01T16:08:21+00:00`
+- checked_at: `2026-05-01T16:08:21+00:00`
+- etag: `"djEuMi4wOjE3Nzc2NDc0NTI0MDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-04-22T10:42:43+00:00",
+  "fetched_at": "2026-05-01T16:08:21+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1a890d1007becb943c36ce3789f0a1d4c1a513be",
+      "title": "EP.270 - REBECCA LUCY TAYLOR AKA SELF ESTEEM",
+      "published_at": "2026-05-01T14:59:13+00:00",
+      "link": "https://shows.acast.com/adambuxton/episodes/ep270-rebecca-lucy-taylor-aka-self-esteem",
+      "description": "Adam talks with Rebecca Lucy Taylor AKA musician Self Esteem about Bake Off stress, ambition guilt, feeling out of place as an indie pop star, feeling at home in Cabaret, the challenges of following up a hit album, booze, why men love CBT and much else. Conversation recorded face-to-face in London on 23 June, 2025 THE ADAM BUXTON BAND MAY 2026 TOUR ADAM BUXTON & MIRANDA SAWYER @ CHARLESTON FESTIVAL 14 May 2026, 9pm BUG BOWIE SPECIAL @ THE LIGHTROOM 17 June, 2-4 July, 2026 PEOPLE'S EMERGENCY BRIEFING FILM AND TALK WITH ADAM BUXTON & PATRICK BARKHAM @ NORWICH ARTS CENTRE , 28 June, 2026 SAILY 🌎 Get an exclusive 15% discount on your first Saily data plans! Use code buxton at checkout. Download Saily app or go to to https://saily.com/ buxton ⛵ NORD VPN EXCLUSIVE NordVPN Deal ➼ https:// nordvpn.com/buxton Try it risk-free now with a 30-day money-back guarantee! Thanks to Séamus Murphy-Mitchell for production support Podcast illustration by Helen Green Listen to Adam's album 'Buckle Up' Order Adam's book 'I Love You Byeee' Sign up for the newsletter on Adam's website (scroll down on homepage) RELATED LINKS SELF ESTEEM - I DO THIS ALL THE TIME - 2021 (YOUTUBE) SELF ESTEEM - THE CURSE Self Esteem's song about booze from 'A Complicated Woman' - 2025 (YOUTUBE) SELF ESTEEM - FOCUS IS POWER - 2025 (YOUTUBE) TEETH'N'SMILES Starring Self Esteem @ Duke Of York's Theatre until 6 June, 2026 (TEETH'N'SMILES WEBSITE) ADAM BUXTON PODCAST LIVE WITH MAWAAN RIZWAAN @ ROUNDHOUSE , 5 April, 2026 I'll be waffling with Mawaan Rizwaan, the former YouTube comedian turned BAFTA winning writer and star of TV sitcom Juice, at the Roundhouse Comedy Festival. I don't plan on doing any other live podcasts this year, so I hope you can make it to this one. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1777640864004-284ea88e-aa89-412c-850d-8a732102f112.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/69f4b3e1ad98579289a98f67/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "154714365",
+      "itunes_duration": "1:04:27",
+      "speakers": [
+        "Rebecca Lucy Taylor",
+        "Adam Buxton"
+      ],
+      "topics": [
+        "rebecca",
+        "lucy",
+        "self",
+        "esteem"
+      ]
+    },
     {
       "key": "76a3c70d45227e39278e79ea9c2e1227836c024c",
       "title": "EP.269 - JAMIE HEWLETT & DAMON ALBARN AKA GORILLAZ",
@@ -5507,6 +5529,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-01 — EP.270 - REBECCA LUCY TAYLOR AKA SELF ESTEEM — speakers: Rebecca Lucy Taylor, Adam Buxton
 - 2026-04-20 — EP.269 - JAMIE HEWLETT & DAMON ALBARN AKA GORILLAZ — speakers: Damon Albarn, Jamie Hewlett, Adam Buxton
 - 2025-12-25 — EP.268 - ADAM AND JOE — speakers: Joe Adam, Adam Buxton
 - 2025-12-01 — EP.267 - RICHARD AYOADE & FRANK BLACK (LIVE) — speakers: DR Buckles, Adam Buxton

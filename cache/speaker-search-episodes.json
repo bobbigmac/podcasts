@@ -2,6 +2,28 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "03cf2b3825879a65e0536aba3739af4fd0194718",
+        "episode_key": "03cf2b3825879a65e0536aba3739af4fd0194718",
+        "title": "Josh Widdicombe XFM #6 – Adam Hills & Alex Brooker, James Acaster Classic Scrape 6, Joe Lycett",
+        "published_at": "2026-04-30T19:08:04Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Adam Hills & Alex Brooker from The Last Leg join Josh in the studio.James Acaster shares another Classic Scape and Joe Lycett talks about Jospeh Stalin.Broadcast on 12th March 2013.",
+        "audio_url": "https://anchor.fm/s/10d6f1db0/podcast/play/119304122/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-30%2F8f2f9b84-ac29-a69f-3ab0-3cf77958a63c.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-6-adam-hills-alex-brooker-james/id1866254969?i=1000764944850&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -6744,6 +6766,28 @@
         "description": "Post Book Tour in Bath, Nat and Roro are back to chat about this month’s Book Club. There’s a bit of an unboxing of lovely gifts and also some chat about the storm and how Maria is willing to embrace technology… but otherwise it’s ALL Bob Mortimer’s autobiography - And Away...\n\n\n\nOctober's Book is Happy Days by Natalie",
         "audio_url": "https://traffic.megaphone.fm/KILM3684155123.mp3?updated=1759596056",
         "link_url": "https://podcasts.apple.com/gb/podcast/ep158-book-club-3-and-away-by-bob-mortimer/id1742465831?i=1000730132258&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:7c053f44b623",
+        "feed_title": "Natalie Cassidy's 'Life with Nat'",
+        "source_rss_url": "https://feeds.acast.com/public/shows/69f21c2dc5dd1a1717e62afd",
+        "dedupe_key": "c3d9633f8462b47ee539eedfb7ddb4833b7b5aa3",
+        "episode_key": "c3d9633f8462b47ee539eedfb7ddb4833b7b5aa3",
+        "title": "EP158: Book Club #3 - And Away... by Bob Mortimer",
+        "published_at": "2025-10-04T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Post Book Tour in Bath, Nat and Roro are back to chat about this month’s Book Club. There’s a bit of an unboxing of lovely gifts and also some chat about the storm and how Maria is willing to embrace technology… but otherwise it’s ALL Bob Mortimer’s autobiography - And Away...\n\nOctober's Book is Happy Days by Natalie C",
+        "audio_url": "https://sphinx.acast.com/p/open/s/69f21c2dc5dd1a1717e62afd/e/0188bdca-3ff2-11f1-bfd2-638a76171132/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep158-book-club-3-and-away-by-bob-mortimer/id1742465831?i=1000764526135&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

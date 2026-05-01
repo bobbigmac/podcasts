@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-05-01T13:54:22+00:00`
-- checked_at: `2026-05-01T13:54:22+00:00`
-- etag: `"djEuMi4wOjE3Nzc2NDA2NDE3MjA="`
+- fetched_at: `2026-05-01T16:08:21+00:00`
+- checked_at: `2026-05-01T16:08:21+00:00`
+- etag: `"djEuMi4wOjE3Nzc2NDQwMzkzNzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-05-01T13:54:22+00:00",
+  "fetched_at": "2026-05-01T16:08:21+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,28 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "09ce6dd3e450d081b00dbcedafab99baa089b817",
+      "title": "Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells",
+      "published_at": "2026-05-01T14:00:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01439-2",
+      "description": "In this episode: 00:27 How a parasite unveiled a mitochondrial secret Nature: Mitochondria can spawn new ‘organelles’ — hinting at how modern cells evolved 06:13 The extinct cephalopods that could have been enormous Nature: Did kraken-like octopuses rule Cretaceous seas? Massive jaw fossils offer clues Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1777640543887-92a2bdc8-17b5-4912-84f5-126f45716353.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69f4a4c18beeba531060f77d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "12428176",
+      "itunes_duration": "12:55",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "chat",
+        "mitochondria",
+        "organelle",
+        "cell"
+      ]
+    },
     {
       "key": "6fe9a199c872a55f0a3618c9b4755ccbe6623106",
       "title": "Immunity gets a boost from a surprising place — breakfast",
@@ -19544,6 +19566,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-01 — Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells — speakers: Benjamin Thompson, Noah Baker
 - 2026-04-29 — Immunity gets a boost from a surprising place — breakfast — speakers: Kumar et al, Benjamin Thompson, Noah Baker
 - 2026-04-24 — Inside the evidence revolution — how decision-making became data driven — speakers: Helen Pearson, Benjamin Thompson, Noah Baker
 - 2026-04-22 — Meet Ace, the table-tennis robot that can beat elite players — speakers: Meet Ace, Benjamin Thompson, Noah Baker
