@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-01T13:54:22+00:00`
-- checked_at: `2026-05-01T13:54:22+00:00`
-- etag: `"djEuMi4wOjE3Nzc2NDExMTMwMDA="`
+- fetched_at: `2026-05-02T07:59:08+00:00`
+- checked_at: `2026-05-02T07:59:08+00:00`
+- etag: `"djEuMi4wOjE3Nzc3MDUyMzkzODc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-01T13:54:22+00:00",
+  "fetched_at": "2026-05-02T07:59:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "7e7d323da1dc8c6f4113aa7f58b23df3c882915d",
+      "title": "This is why my constituents HATE Keir Starmer | Sorcha Eastwood Interview",
+      "published_at": "2026-05-02T07:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69f3820cad985792893ff370",
+      "description": "On this episode of the PoliticsJOE Podcast, Alliance MP Sorcha Eastwood joins the team for a candid and unfiltered conversation about the realities of representing her constituents—and why she believes Keir Starmer isn’t delivering for people like them. Sorcha pulls no punches as she explains her frustrations with decisions coming from Westminster, arguing that too many ordinary voters are being left behind. She reflects on the growing disconnect between political leadership and everyday life, and why she feels her constituents deserve far better. The conversation also turns to the culture inside Parliament itself. Sorcha shares her exhaustion with what she describes as “gentlemen’s club” politics—an outdated, exclusionary environment that still shapes how decisions are made and who gets heard. She discusses the barriers this creates, particularly for women and those outside the traditional political mould, and why meaningful change has been so slow. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69f3820cad985792893ff370/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55246351",
+      "itunes_duration": "38:21",
+      "speakers": [
+        "Sorcha Eastwood"
+      ],
+      "topics": [
+        "constituent",
+        "hate",
+        "keir",
+        "starmer",
+        "sorcha",
+        "eastwood"
+      ]
+    },
     {
       "key": "3386f150b09b7b5f69778a0f267e6a21c582ec81",
       "title": "Lefties clash over MPs drinking in Parliament",
@@ -12751,6 +12774,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-02 — This is why my constituents HATE Keir Starmer | Sorcha Eastwood Interview — speakers: Sorcha Eastwood
 - 2026-04-30 — Lefties clash over MPs drinking in Parliament — speakers: Stella Tsantekidou, Turn Left
 - 2026-04-29 — Is this Keir Starmer's last PMQs?
 - 2026-04-28 — Morgan McSweeney backs Starmer in Mandelson committee
