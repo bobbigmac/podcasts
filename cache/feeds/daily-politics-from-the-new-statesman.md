@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-05-01T16:08:21+00:00`
-- checked_at: `2026-05-01T16:08:21+00:00`
-- etag: `"djEuMi4wOjE3Nzc2NTA0Mjc2Njg="`
+- fetched_at: `2026-05-02T19:17:34+00:00`
+- checked_at: `2026-05-02T19:17:34+00:00`
+- etag: `"djEuMi4wOjE3Nzc3Mzc2MzkzMjk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-05-01T16:08:21+00:00",
+  "fetched_at": "2026-05-02T19:17:34+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "41a30882dddbb4461d781fec6c30949afc0066dd",
+      "title": "Charles, royal court jester | Will and Anoosh’s weekly round up",
+      "published_at": "2026-05-02T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/charles-royal-court-jester-will-and-anooshs-weekly-round-up",
+      "description": "Parliament boozers, Morgan McSweeney vs Emily Thornberry, and King Charles' stand-up routine. Will and Anoosh discuss another big week. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777649611816-dea9dddd-cfa3-462b-ad27-4be59b864cff.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69f4c835417b02e93860bd72/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42765615",
+      "itunes_duration": "29:41",
+      "speakers": [
+        "Emily Thornberry",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "charles",
+        "court",
+        "jester",
+        "anoosh",
+        "round"
+      ]
+    },
     {
       "key": "02f0d9dc511405812d3738604f60325b60c1c5a0",
       "title": "Attacks on Jews are an indictment of Keir Starmer's Britain",
@@ -31111,6 +31135,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-02 — Charles, royal court jester | Will and Anoosh’s weekly round up — speakers: Emily Thornberry, Anoosh Chakelian, Oli Dugmore
 - 2026-04-30 — Attacks on Jews are an indictment of Keir Starmer's Britain — speakers: Tom McTague, Anoosh Chakelian, Oli Dugmore
 - 2026-04-25 — Political F-bombs and Jacob Rees-Mogg “unbuttoned” — speakers: Jacob Rees-Mogg, Peter Mandelson, Anoosh Chakelian, Oli Dugmore
 - 2026-04-23 — Keir Starmer is all alone — speakers: Peter Mandelson, Anoosh Chakelian, Oli Dugmore
