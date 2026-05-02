@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-01T13:54:22+00:00`
-- checked_at: `2026-05-01T13:54:22+00:00`
-- etag: `"djEuMi4wOjE3Nzc2Mzg4MDk5MDM="`
+- fetched_at: `2026-05-02T10:10:34+00:00`
+- checked_at: `2026-05-02T10:10:34+00:00`
+- etag: `"djEuMi4wOjE3Nzc3MTUxMjg1NjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-01T13:54:22+00:00",
+  "fetched_at": "2026-05-02T10:10:34+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e44be9f0ca8d8ddf8381456961353169de5e912c",
+      "title": "RAACN week 14",
+      "published_at": "2026-05-02T09:45:29+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Monday 27th April 2026 - Distraction - Rich doesn’t let exhaustion stop him bringing you all the news that matters - no prizes for guessing today’s top stories. Though it may not be what the lame stream media is concentrating on. Tuesday 28th April 2026 - What BP Do With Their Profits - Rich and Ally are back again with all the big news stories. Today, record profiteering from BP, from a war they didn’t pay for and what that means for democracy to the chagrin of feudal kings. It’s a very clever show, but we’re not going to tell you why. If you’re actually clever you’ll understand it without having to have it explained to you. Thursday 30th April 2026 - Truncated Due To Chicken Pox - the news is coming in thick and fast, Rich is back on the telly, the Universe might end before that and Herring junior needs to be picked up from school. This never happened to John Craven. Friday 1st May 2026 - Rings of Uranus - Rich and Ally discuss some amazing space news in the first Newsround of the month, but the last one in the week. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1777714754515-62588495-d9bb-42d4-a761-f2143f75c230.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69f5c7b88beeba5310ad8da4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25440768",
+      "itunes_duration": "52:59",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "raacn",
+        "week"
+      ]
+    },
     {
       "key": "746d3b4e3276b915bbfa1b2437c89836ad0e1544",
       "title": "Retro Can I Have My Ball Back? - Episode 1",
@@ -22234,6 +22253,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-02 — RAACN week 14 — speakers: Richard Herring
 - 2026-05-01 — Retro Can I Have My Ball Back? - Episode 1 — speakers: Richard Herring
 - 2026-04-29 — RHLSTP 608 - Michelle Wolf — speakers: Michelle Wolf, Richard Herring
 - 2026-04-27 — Retro RHLSTP 141 - Ria Lina — speakers: Ria Lina, Cheerful Earful, Richard Herring
