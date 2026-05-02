@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=16",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=16",
-  "fetched_at": "2026-05-01T22:05:46+00:00",
+  "fetched_at": "2026-05-02T03:50:31+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=17",
   "episodes": [
+    {
+      "key": "8e28b41b306758815ad030a67a5d3443eb9c7d79",
+      "guid": "88661778-c371-4fa9-a6c1-6f9cfc368973",
+      "title": "Best of FUBAR (6th February)",
+      "published_at": "2025-02-06T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-6th-february/",
+      "description": "A selection of highlights from the FUBAR vaults.",
+      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1738804142-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=88661778-c371-4fa9-a6c1-6f9cfc368973&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "8fde080e6494694724d36fd112f057d5de9e842e",
       "guid": "f15991b6-f569-43ec-a816-68652847e6a5",
@@ -380,19 +393,6 @@
       "description": "A selection of highlights from the FUBAR vaults.",
       "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1736298532-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=8319dfab-f322-4438-8a72-62e59379996e&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "5632badc7e819ef30598d7e347b1b2359b4e176a",
-      "guid": "4bc47d6b-14e2-451d-b648-7d1800248bcb",
-      "title": "Best of FUBAR (7th January)",
-      "published_at": "2025-01-07T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-7th-january/",
-      "description": "A selection of highlights from the FUBAR vaults.",
-      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1736212149-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=4bc47d6b-14e2-451d-b648-7d1800248bcb&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null
