@@ -3,12 +3,10 @@
 - slug: `judge-dredd`
 - source: `https://archive.org/download/rss_judr/judr`
 - fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-05-03T19:17:56+00:00`
+- checked_at: `2026-05-03T22:00:05+00:00`
 - etag: `"61ec617e-350d"`
 - last_modified: `Sat, 22 Jan 2022 19:56:46 GMT`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: `HTTP 500` — Internal Server Error
 
 <!-- FEED_JSON -->
 ```json
@@ -433,17 +431,7 @@
         "dredd"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-05-03T19:17:56+00:00",
-    "status": "error",
-    "checked_at": "2026-05-03T19:17:56+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 500,
-      "message": "Internal Server Error"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
