@@ -2,8 +2,8 @@
 
 - slug: `the-ellie-taylor-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/`
-- fetched_at: `2026-05-03T04:11:09+00:00`
-- checked_at: `2026-05-03T04:11:09+00:00`
+- fetched_at: `2026-05-03T08:15:31+00:00`
+- checked_at: `2026-05-03T08:15:31+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "image_url": "",
-  "fetched_at": "2026-05-03T04:11:09+00:00",
+  "fetched_at": "2026-05-03T08:15:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4b86e4e754721402187869f45d8a78a7eec6b53e",
+      "guid": "be902a2d-daf5-4722-bf95-9b1599d36c44",
+      "title": "The Ellie Taylor Show (3rd May)",
+      "published_at": "2026-05-03T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-ellie-taylor-show-3rd-may/",
+      "description": "Where there's an Essex twang, there's hot gossip.",
+      "image_url": "https://mm.aiircdn.com/177/695686.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1777791676-the_ellie_taylor_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=be902a2d-daf5-4722-bf95-9b1599d36c44&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "a8585bdbcbbb2bbc5aaaa8ef1b7405cf413469ea",
       "guid": "8557b129-96af-4f52-a0c2-b1ffba0eb804",
@@ -1383,6 +1396,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-03 — The Ellie Taylor Show (3rd May)
 - 2026-04-26 — The Ellie Taylor Show (26th April)
 - 2026-04-19 — The Ellie Taylor Show (19th April)
 - 2026-04-12 — The Ellie Taylor Show (12th April)
