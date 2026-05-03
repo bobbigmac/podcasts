@@ -1,18 +1,18 @@
 {
-  "next_index": 8,
+  "next_index": 0,
   "batch_size": 10,
   "last_batch": [
+    "Harry Hill",
+    "Alex Horne",
+    "Stewart Lee",
+    "Mike Wozniak",
+    "Nish Kumar",
+    "Dave Gorman",
+    "Lee Mack",
+    "David Mitchell",
     "Jack Dee",
-    "Richard Ayoade",
-    "Bob Mortimer",
-    "Harriet Kemsley",
-    "James Acaster",
-    "Ed Gamble",
-    "Lou Sanders",
-    "Richard Herring",
-    "Tim Key",
-    "Sally Phillips"
+    "Richard Ayoade"
   ],
-  "last_run_at": "2026-05-02T21:58:25+00:00",
+  "last_run_at": "2026-05-03T04:11:49+00:00",
   "last_status": "ok"
 }
