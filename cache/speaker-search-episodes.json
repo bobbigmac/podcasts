@@ -18927,6 +18927,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:0f9d53fd1f0f",
+        "feed_title": "Cuddle Club with Lou Sanders",
+        "source_rss_url": "https://feeds.acast.com/public/shows/dc460793-43f6-4464-a809-8e23f92194bb",
+        "dedupe_key": "d2f958f39145da23e8e1c2e8a0e333dc69423d1b",
+        "episode_key": "d2f958f39145da23e8e1c2e8a0e333dc69423d1b",
+        "title": "Ep 6: Evelyn Mok",
+        "published_at": "2020-03-20T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Can’t cuddle in real life? Have a virtual cuddle from Lou Sanders and this week’s guest, comedian Evelyn Mok!\nFollow Evelyn Mok on Twitter: @Evelyn Mok\nListen to Evelyn’s podcast ‘Rice to Meet You’ with Nigel Ng\nFollow Cuddle Club on Twitter and Instagram: @CuddleClubPod\nRecorded by Ben Williams and edited by Naomi Par",
+        "audio_url": "https://sphinx.acast.com/cuddleclub/ep6-evelynmok/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-6-evelyn-mok/id1497593906?i=1000468943972&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:bb2224026702",
         "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
         "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",

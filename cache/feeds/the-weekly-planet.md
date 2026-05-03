@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-04-30T14:24:12+00:00`
-- checked_at: `2026-04-30T14:24:12+00:00`
-- etag: `"djEuMi4wOjE3Nzc1NTU4MzkzMDA="`
+- fetched_at: `2026-05-03T13:49:26+00:00`
+- checked_at: `2026-05-03T13:49:26+00:00`
+- etag: `"djEuMi4wOjE3Nzc4MDA2ODcyMTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-04-30T14:24:12+00:00",
+  "fetched_at": "2026-05-03T13:49:26+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -49,7 +49,7 @@
     },
     {
       "key": "1954caa13d6711de841f9f42e9e62930bb7df7ca",
-      "title": "620: Clayface, Exit 8 & Michael Movie",
+      "title": "620 Clayface, Exit 8 & Michael Movie",
       "published_at": "2026-04-26T16:30:00+00:00",
       "link": "https://shows.acast.com/theweeklyplanet/episodes/620-exit-8-michael-movie",
       "description": "It’s kind of hard to believe that it is yet again time for another Weekly Planet podcast. It’s even harder to believe we talk about the movie Exit 8 and also the Michael Jackson biopic. Plus we talk the news of the week which involves a new video game adaptation from Christopher McQuarrie and Michael B Jordan, the cancellation of Gen V, trailers for Clayface, the first DCU horror movie, Coyote vs ACME, Spider-Noir, Coyote vs. ACME, big trouble for that dude who leaked the Avatar: The Last Airbender movie and a whole lot more. Thanks for listening James on new episode of Thumb Cramps (around 45 mins): https://open.spotify.com/episode/4eAygHfrjQYLB3fXTtBIKX?si=e05b8bc1a5034a43 New bonuses now available on Patreon! Check out new options for early access, ad-free episodes and exclusive shows every week. Including a brand new ep of exclusive podcast all about clickbait but for The Lord of the Rings! All available on bigsandwich.co and now also patreon.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 06:51 Battlefield Video Game Movie 12:35 Gen V Series Cancelled 14:21 DC Lanterns Trailer Pulled 17:08 Clayface Trailer 23:44 Coyote vs ACME Trailer 29:35 Spider Noir Trailer 32:27 Avatar TLA Movie Leak 35:14 Exit 8 Movie Review 45:28 Exit 8 Spoiler Segment 55:05 What We Reading, What We Gonna Read 58:49 Michael Movie Spoiler Review 01:15:32 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
@@ -22189,7 +22189,7 @@
 ## Episodes (newest first)
 
 - 2026-04-30 — X-Men - Caravan Of Garbage — speakers: James Clement, Nick Mason
-- 2026-04-26 — 620: Clayface, Exit 8 & Michael Movie — speakers: Michael Movie, James Clement, Nick Mason
+- 2026-04-26 — 620 Clayface, Exit 8 & Michael Movie — speakers: Michael Movie, James Clement, Nick Mason
 - 2026-04-23 — War of the Worlds (2025) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-04-20 — 619 Cinema Con Reveals & Lee Cronin's The Mummy — speakers: Lee Cronin, James Clement, Nick Mason
 - 2026-04-16 — War of the Worlds (2005) - Caravan Of Garbage — speakers: James Clement, Nick Mason
