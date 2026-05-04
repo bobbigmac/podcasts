@@ -24062,6 +24062,28 @@
     ],
     "nish-kumar": [
       {
+        "feed_slug": "external:apple:d7451e131c7a",
+        "feed_title": "Mike Birbiglia's Working It Out",
+        "source_rss_url": "https://feeds.simplecast.com/MTW0B2El",
+        "dedupe_key": "1cf45bc1ac192c78cd63fb6471069ccbe20f6e0a",
+        "episode_key": "1cf45bc1ac192c78cd63fb6471069ccbe20f6e0a",
+        "title": "211. Nish Kumar Returns: Dinosaurs Before the Meteor",
+        "published_at": "2026-05-04T04:10:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "British comedian Nish Kumar returns to the podcast to discuss the humbling nature of stand-up comedy, lessons learned from the Edinburgh Fringe Festival, and more. Nish explains the concept of his new tour, “Angry Humour From a Really Nice Guy,” and how he finds the comedy within his pessimistic views about humanity. P",
+        "audio_url": "https://pdst.fm/e/afp-222748-injected.calisto.simplecastaudio.com/32ea5a12-6e17-42a1-8b7f-3cd5287077bd/episodes/80ad43b3-c81b-4816-8f3c-36d850aaec5d/audio/128/default.mp3?aid=rss_feed&awCollectionId=32ea5a12-6e17-42a1-8b7f-3cd5287077bd&awEpisodeId=80ad43b3-c81b-4816-8f3c-36d850aaec5d&feed=MTW0B2El",
+        "link_url": "https://podcasts.apple.com/gb/podcast/211-nish-kumar-returns-dinosaurs-before-the-meteor/id1515419751?i=1000765931595&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:178cb6db7c51",
         "feed_title": "Fighting Talk",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/b0070hvs.rss",
@@ -30246,6 +30268,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:905f6fcbf0bd",
+        "feed_title": "Let storytelling fill your quiet moments",
+        "source_rss_url": "https://audiobookzap.com/audible/apple/168/index.xml",
+        "dedupe_key": "5eee684058864c3c95ab8036985b8d141bf321c2",
+        "episode_key": "5eee684058864c3c95ab8036985b8d141bf321c2",
+        "title": "Dave Gorman - Genius: The Complete Series 1-3",
+        "published_at": "2018-06-28T00:53:56Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Visit audiobookzap.com/audible to get free audiobook with a 30-day free trial! Title: Dave Gorman - Genius: The Complete Series 1-3Subtitle: The BBC Radio 4 ComedyCategories: Entertainment, FunnyAuthor: Dave GormanNarrator: Dave GormanPublisher: BBC AudioRelease date: 06-28-2018Language: English",
+        "audio_url": "https://samples.audible.de/bk/rhuk/003753/bk_rhuk_003753_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-genius-the-complete-series-1-3/id1896020827?i=1000765395019&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
@@ -30544,6 +30588,28 @@
         "description": "Share our pleasure chatting about magic, coincidences and games with the fascinating Dave Gorman, then feel our pain as a tarry soft drink promotes the question: \"What IS 'malt' anyway?\" Yes, it's like a trip back in time to the early days of the show, as once again we find ourselves hijacking someone else's office wit",
         "audio_url": "https://s3.amazonaws.com/roo/shiftrunstop/63+Episode+63_+Dave+Gorman.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/episode-63-dave-gorman/id338127646?i=1000117730557&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:97ec58c58420",
+        "feed_title": "A new dimension of reading awaits you",
+        "source_rss_url": "https://audiobookzap.com/audible/apple/42/index.xml",
+        "dedupe_key": "29af827ade6354db9fd70ce39bfab383f61eb5c1",
+        "episode_key": "29af827ade6354db9fd70ce39bfab383f61eb5c1",
+        "title": "Dave Gorman's Pub Olympics",
+        "published_at": "2012-07-02T20:50:47Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Visit audiobookzap.com/audible to get free audiobook with a 30-day free trial! Title: Dave Gorman's Pub OlympicsCategories: EntertainmentAuthor: Dave GormanNarrator: Chris AddisonPublisher: BBC AudioRelease date: 07-02-2012Language: English",
+        "audio_url": "https://samples.audible.de/bk/bbcw/005984/bk_bbcw_005984_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gormans-pub-olympics/id1896003858?i=1000765096611&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

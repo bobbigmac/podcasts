@@ -2,9 +2,9 @@
 
 - slug: `out-with-suzi-ruffell`
 - source: `https://feeds.megaphone.fm/GLT9819213775`
-- fetched_at: `2026-05-04T04:08:33+00:00`
-- checked_at: `2026-05-04T04:08:33+00:00`
-- last_modified: `Sun, 03 May 2026 23:06:47 GMT`
+- fetched_at: `2026-05-04T11:17:53+00:00`
+- checked_at: `2026-05-04T11:17:53+00:00`
+- last_modified: `Mon, 04 May 2026 10:07:44 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -15,9 +15,9 @@
   "source_url": "https://feeds.megaphone.fm/GLT9819213775",
   "title": "Out with Suzi Ruffell",
   "link": "https://www.spreaker.com/show/out-with-suzi-ruffell",
-  "description": "Attitude Presents: Out with Suzi Ruffell is a podcast that celebrates the LGBTQIA+ community through comedian and writer Suzi Ruffell's relaxed interviews of queer luminaries — from popstars to politicians, activists to artists. Tune in to hear Suzi and her guests talk about coming out, being out, finding your place in the world and sharing moments of queer joy. Brought to you by Attitude magazine and Off The Kerb Productions. Host: Suzi Ruffell Podcast producer: Alma Fournier-Carballo Booking producer: Dale Fox Post producer: Markus Bidaux",
-  "image_url": "https://megaphone.imgix.net/podcasts/1af2f5a0-1a7b-11ed-a410-0fc86e797d6c/image/9c85ee7f3c8de38193750ea33ca800ce.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-04T04:08:33+00:00",
+  "description": "Attitude Presents: Out with Suzi Ruffell is a podcast that celebrates the LGBTQIA+ community through comedian and writer Suzi Ruffell's relaxed interviews of queer luminaries — from popstars to politicians, activists to artists. Tune in to hear Suzi and her guests talk about coming out, being out, finding your place in the world and sharing moments of queer joy. Brought to you by Attitude magazine and Off The Kerb Productions. Host: Suzi Ruffell · Podcast producer: Alma Fournier-Carballo · Booking producer: Dale Fox · Post producer: Markus Bidaux",
+  "image_url": "https://megaphone.imgix.net/podcasts/1af2f5a0-1a7b-11ed-a410-0fc86e797d6c/image/cfca99fb5f4ff7128b2a90e4fea85f54.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-05-04T11:17:53+00:00",
   "owners": [
     "Suzi Ruffell"
   ],
@@ -53,11 +53,11 @@
       "published_at": "2026-04-30T23:00:00+00:00",
       "link": null,
       "description": "Today's guest is a legendary drag performer, winner of RuPaul's Drag Race: UK vs The World, singer, songwriter, podcaster and activist, Tia Kofi. I absolutely loved chatting to Tia and if you're into your sci-fi and you want to hear more from them, do check out ⁠⁠The Final FronTia podcast⁠⁠ , it's a lot of fun. Enjoy the episode and don't forget to subscribe, follow, share, like, rate and review. Thanks, Suzi x If you want to get in touch with me on the show email ⁠⁠⁠⁠⁠hello@outwithsuziruffell.com⁠⁠⁠⁠⁠ I'm also on tour! Find all the details at ⁠⁠⁠suziruffell.com⁠⁠⁠ Host: Suzi Ruffell Brought to you by Attitude magazine and Off The Kerb Productions Podcast producer: Alma Fournier-Carballo Booking producer: Dale Fox Post producer: Markus Bidaux Sales, advertising and general enquiries: ⁠hello@outwithsuziruffell.com⁠⁠⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/5a871350-44b0-11f1-bd09-4f09123c6908/image/be0471707729c72cb1f526702c450d69.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR7796852493.mp3?updated=1777593543",
+      "image_url": "https://megaphone.imgix.net/podcasts/5a871350-44b0-11f1-bd09-4f09123c6908/image/6ae28a2662395cc006dca163222e1603.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR7796852493.mp3?updated=1777889430",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2677",
+      "itunes_duration": "2842",
       "speakers": [
         "Tia Kofi",
         "Suzi Ruffell"
@@ -72,7 +72,7 @@
       "published_at": "2026-04-30T23:00:00+00:00",
       "link": null,
       "description": "We're back! I'm delighted to bring you a brand new series of Out with Suzi Ruffell now in collaboration with Attitude magazine . I have some great guests lined up for you and this time we're filming each interview, for those of you who enjoy a visualised podcast. To kick things off I had a fantastic chat with Cliff Joannou, Editor in Chief of both Attitude magazine and Rolling Stone UK. I loved hearing about Cliff's upbringing, the London clubbing scene past and present, the thrills and challenges of leading two major UK publications and his commitment to making a difference for our community. Enjoy the episode and don't forget to follow, subscribe, share, like, rate and review. Thanks, Suzi x If you want to get in touch with me on the show email ⁠⁠⁠hello@outwithsuziruffell.com⁠⁠⁠ I'm also on tour! Find all the details at ⁠suziruffell.com⁠ Host: Suzi Ruffell Brought to you by Attitude magazine and Off The Kerb Productions Podcast producer: Alma Fournier-Carballo Booking producer: Dale Fox Post producer: Markus Bidaux Sales, advertising and general enquiries: ⁠hello@outwithsuziruffell.com⁠⁠⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/9475bcac-4248-11f1-add7-afa1e932a706/image/53283fced45472d81c5600deedd9c456.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "image_url": "https://megaphone.imgix.net/podcasts/9475bcac-4248-11f1-add7-afa1e932a706/image/6509b7c8260b5ace05ebd4b15730e8a9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/NSR5789008116.mp3?updated=1777328639",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",

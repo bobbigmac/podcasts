@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-05-04T04:08:33+00:00`
-- checked_at: `2026-05-04T04:08:33+00:00`
-- last_modified: `Mon, 04 May 2026 02:24:06 GMT`
+- fetched_at: `2026-05-04T11:17:53+00:00`
+- checked_at: `2026-05-04T11:17:53+00:00`
+- last_modified: `Mon, 04 May 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-04T04:08:33+00:00",
+  "fetched_at": "2026-05-04T11:17:53+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,27 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "e1a0fd61428152fcfa65ad12cf7666eb2fcc620c",
+      "title": "You're in the Hospitality Business (Whether You Know It or Not)",
+      "published_at": "2026-05-04T09:00:00+00:00",
+      "link": null,
+      "description": "For the last three years, Will Guidara has been on the road talking about unreasonable hospitality. He's met financiers and prison wardens, educators and athletes, Fortune 500 executives and small business owners. They kept asking the same question: \"I get how this works in a restaurant, but how do I apply it in my business?\" So Will wrote them an answer. It's called Unreasonable Hospitality: The Field Guide . 🔗 SPONSORED BY: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months. Just head to granola.ai/idea Incogni — Protect your personal information online and get an exclusive 60% off an annual plan at incogni.com/nbi Quince — Refresh your spring wardrobe and get free shipping and 365-day returns at quince.com/nbi Shopify — Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP3990771715.mp3?updated=1777861738",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3785",
+      "speakers": [
+        "Will Guidara",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "hospitality",
+        "business"
+      ]
+    },
     {
       "key": "1012e066ae40ebfcc124db03ed042ca91d53b900",
       "title": "We're Still Thinking About This Conversation with Will Guidara",
@@ -7646,6 +7667,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — You're in the Hospitality Business (Whether You Know It or Not) — speakers: Will Guidara, Rufus Griscom, Caleb Bissinger
 - 2026-04-30 — We're Still Thinking About This Conversation with Will Guidara — speakers: Will Guidara, Rufus Griscom, Caleb Bissinger
 - 2026-04-27 — Here’s Our Favorite Book of the Season — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-04-23 — “Beliefs Are Tools, Not Truths” — speakers: Nir Eyal, Rufus Griscom, Caleb Bissinger
