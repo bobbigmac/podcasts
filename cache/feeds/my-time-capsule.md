@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-05-01T08:24:39+00:00`
-- checked_at: `2026-05-01T08:24:39+00:00`
-- etag: `"djEuMi4wOjE3Nzc2MjEzNjYxODM="`
+- fetched_at: `2026-05-04T08:42:27+00:00`
+- checked_at: `2026-05-04T08:42:27+00:00`
+- etag: `"djEuMi4wOjE3Nzc4NzkzNjI4MjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-05-01T08:24:39+00:00",
+  "fetched_at": "2026-05-04T08:42:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "be86ffffe287ac87f14790ef581e9c6664766ec2",
+      "title": "Ep. 583 - Dean Friedman - Singer-songwriter best known for the hits “Ariel” and “Lucky Stars”",
+      "published_at": "2026-05-04T07:22:40+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-583-dean-friedman-singer-songwriter-best-known-for-the-hi",
+      "description": "Dean Friedman is a US singer-songwriter best known in the UK for the hit singles “Ariel” (1977) and “Lucky Stars” (1978), a Top 40 duet with Denise Marsa. He has released an extensive catalogue of independently produced albums and EPs, retaining full creative control of his work, and has toured the UK regularly for decades, building a loyal audience. His songs have been widely broadcast on UK radio, particularly on BBC Radio 2, sustaining his profile beyond his chart years. In addition to his recording career, Friedman has created educational music initiatives, including designing and building accessible instruments for children and developing school programmes focused on songwriting and creativity. Dean Friedman is our guest in episode 583 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . For EVERYTHIG Dean Friedman, visit - https://www.deanfriedman.com . Tickets for Dean Friedman’s Songfest - https://www.eventbrite.com/e/songfest-2026-fri-sat-sun-28-29-30-aug-rugby-tickets-1803641974699?aff=deantrack01 . Follow Dean Friedman on Instagram : @dean.friedman . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69f849428466468ab00d59a5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50885402",
+      "itunes_duration": "42:24",
+      "speakers": [
+        "Dean Friedman"
+      ],
+      "topics": [
+        "dean",
+        "friedman",
+        "singer",
+        "songwriter",
+        "ariel",
+        "lucky",
+        "stars"
+      ]
+    },
     {
       "key": "d7410549f7221416af23d0dc7c6a94b3d23d71db",
       "title": "Ep. 582 - Joe Wilkinson Unedited - An uncut version of our episode with the Celebrity Traitors star!",
@@ -12482,6 +12506,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — Ep. 583 - Dean Friedman - Singer-songwriter best known for the hits “Ariel” and “Lucky Stars” — speakers: Dean Friedman
 - 2026-05-01 — Ep. 582 - Joe Wilkinson Unedited - An uncut version of our episode with the Celebrity Traitors star! — speakers: Joe Wilkinson
 - 2026-04-26 — Ep. 581 - Eleanor Morton - Award winning comedian who's written for The News Quiz, The Now Show, Hypothetical and The Beano. — speakers: Eleanor Morton, Edinburgh Fringe
 - 2026-04-23 — Ep. 580 - Seann Walsh (Unedited) - From episode 76, now 20 mins longer! — speakers: Seann Walsh, Sean Walsh

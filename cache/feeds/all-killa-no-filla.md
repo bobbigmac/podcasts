@@ -2,10 +2,10 @@
 
 - slug: `all-killa-no-filla`
 - source: `https://allkillanofilla.libsyn.com/rss`
-- fetched_at: `2026-05-01T13:54:22+00:00`
-- checked_at: `2026-05-01T13:54:22+00:00`
-- etag: `"e2b7f9808386fcfc5870c569be2c29be"`
-- last_modified: `Fri, 01 May 2026 13:35:30 GMT`
+- fetched_at: `2026-05-04T08:42:27+00:00`
+- checked_at: `2026-05-04T08:42:27+00:00`
+- etag: `"5f692f62743ff03cfde51ed5aeb6dcff"`
+- last_modified: `Mon, 04 May 2026 05:37:28 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://allkillanofilla.podomatic.com",
   "description": "Join comedians Rachel Fairburn and Kiri Pritchard - McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it.",
   "image_url": "https://static.libsyn.com/p/assets/f/7/f/0/f7f0f9cb9da4b5bb16c3140a3186d450/All_Killa_logo_copy.png",
-  "fetched_at": "2026-05-01T13:54:22+00:00",
+  "fetched_at": "2026-05-04T08:42:27+00:00",
   "owners": [
     "Kiri Pritchard-McLean",
     "Rachel Fairburn"
@@ -29,6 +29,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "6aeb7835c6f7ed5ad893379b2a3c87b9feb1f972",
+      "title": "All Killa No Filla - Episode 130 - Neville Heath",
+      "published_at": "2026-05-04T05:30:00+00:00",
+      "link": "https://allkillanofilla.libsyn.com/all-killa-no-filla-episode-130-neville-heath",
+      "description": "Join comedians Rachel Fairburn and Kiri Pritchard-McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it. This month's episode is about one of the original 'ladykillers' - Neville Heath. A charming RAF pilot with a habit for sadistic sexual murder, Heath killed at least two women in 1946. Away from the gruesome deaths, Rachel has her own horror story about a recent health check-up, and Kiri educates us all on the difference between red wings and brown wings (with a little help from Tim).",
+      "image_url": "https://static.libsyn.com/p/assets/f/b/9/3/fb9381e55c6aff48d959afa2a1bf1c87/All_Killa_title_card-20260501-s2r8ofuupv.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/allkillanofilla/All_Killa_No_Filla_-_Episode_130_-_Neville_Heath.mp3?dest-id=459476",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103000954",
+      "itunes_duration": "01:11:03",
+      "speakers": [
+        "Rachel Fairburn",
+        "Kiri Pritchard-McLean"
+      ],
+      "topics": [
+        "killa",
+        "filla",
+        "neville",
+        "heath"
+      ]
+    },
     {
       "key": "5176f2f0d5a25c741fad90af9e6bce64e9efb549",
       "title": "All Killa No Filla - Episode 129 - Part 2 - The Railway Killers",
@@ -4387,6 +4409,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — All Killa No Filla - Episode 130 - Neville Heath — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-04-06 — All Killa No Filla - Episode 129 - Part 2 - The Railway Killers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-03-16 — All Killa No Filla - Episode 129 - Part 1 - The Railway Killers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-02-09 — All Killa No Filla - Episode 128 - Minnie Wallace Walkup — speakers: Rachel Fairburn, Kiri Pritchard-McLean

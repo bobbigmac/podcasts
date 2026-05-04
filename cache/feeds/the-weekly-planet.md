@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-05-04T04:08:33+00:00`
-- checked_at: `2026-05-04T04:08:33+00:00`
-- etag: `"djEuMi4wOjE3Nzc4NTQ0MjE3MzE="`
+- fetched_at: `2026-05-04T08:42:27+00:00`
+- checked_at: `2026-05-04T08:42:27+00:00`
+- etag: `"djEuMi4wOjE3Nzc4NjkwMzk0NDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-05-04T04:08:33+00:00",
+  "fetched_at": "2026-05-04T08:42:27+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "4cf7e15bab3dde5255e00dce2292904e1a9abae1",
+      "title": "621 Django/Zorro Crossover & The Devil Wears Prada 2",
+      "published_at": "2026-05-04T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/621djangozorro-crossover-the-devil-wears-prada-2",
+      "description": "We won't be silienced. By hook or by crook we're going to discuss and review The Devil Wears Prada 2. Plus we're going to talk the Django/Zorro sequel movie that might finally be happening, a trailer for Zack Cregger's Resident Evil movie, the DCU Authority movie cancelled, details of Desert Warrior (a huge movie that bombed nobody has heard of) and the passing of two comic book legends. Thanks for listening and we won't be silenced TWO new bonuses available this week on Patreon & Big Sandwich! A new episode of James & Maso's Time Crapsule podcast plus a new video version for our recent Lord of the Rings special clickbait episode. Both available at some point early this week on bigsandwich.co and now also patreon.com/mrsundaymovies Also Nick Mason is on a new episode of the great Book Cheat podcast talking Sherlock Holmes right here: https://open.spotify.com/episode/06w566g9SNKC2YcG6aGRXU?si=c8a599a5b13547b1 PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 03:26 RIP George Conway & Len Strazewski 07:46 Django & Zorro Movie Crossover 15:19 Resident Evil 2026 Trailer 20:37 The Authority Movie Cancelled 27:20 The Desert Warrior Movie (what's happening?) 34:30 The Devil Wears Prada 2 Movie Review 49:12 The Devil Wears Prada 2 Spoiler Segment 54:58 What We Reading, What We Gonna Read (The Boys Spoilers) 01:06:50 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69f713b68dd960ac618e4686/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "128044125",
+      "itunes_duration": "1:28:55",
+      "speakers": [
+        "Zorro Crossover",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "django",
+        "zorro",
+        "crossover",
+        "devil",
+        "wears",
+        "prada"
+      ]
+    },
     {
       "key": "25dc195264467148d83e58c07a51df83904fa020",
       "title": "X-Men - Caravan Of Garbage",
@@ -22188,6 +22213,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — 621 Django/Zorro Crossover & The Devil Wears Prada 2 — speakers: Zorro Crossover, James Clement, Nick Mason
 - 2026-04-30 — X-Men - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-04-26 — 620 Clayface, Exit 8 & Michael Movie — speakers: Michael Movie, James Clement, Nick Mason
 - 2026-04-23 — War of the Worlds (2025) - Caravan Of Garbage — speakers: James Clement, Nick Mason

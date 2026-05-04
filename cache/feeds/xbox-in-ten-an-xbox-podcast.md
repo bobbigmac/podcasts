@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-04-27T08:40:52+00:00`
-- checked_at: `2026-04-27T08:40:52+00:00`
-- etag: `"b9ee3c04cea4de0f7212d922603cccd1"`
-- last_modified: `Mon, 27 Apr 2026 04:15:22 GMT`
+- fetched_at: `2026-05-04T08:42:27+00:00`
+- checked_at: `2026-05-04T08:42:27+00:00`
+- etag: `"ec8154ed4dc285800677eba64e472c0a"`
+- last_modified: `Mon, 04 May 2026 04:18:35 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-04-27T08:40:52+00:00",
+  "fetched_at": "2026-05-04T08:42:27+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,36 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "cfe91d189d34801a18fcb6c24630eb1d73c82d78",
+      "title": "Game Pass's Best Games, Recommendations, and Future Releases - (Xbox In Ten: An Xbox Podcast - Ep. 362)",
+      "published_at": "2026-05-04T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/game-passs-best-games-recommendations-and-future-releases-xbox-in-ten-an-xbox-podcast-ep-362",
+      "description": "Week of: 4-27-2026 Xbox Game Pass Extravaganza",
+      "image_url": "https://static.libsyn.com/p/assets/4/c/5/7/4c5712c82336072f16c3140a3186d450/362.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/Ep_362.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "12714448",
+      "itunes_duration": "09:21",
+      "speakers": [
+        "Game Pass",
+        "Best Games",
+        "Future Releases",
+        "Xbox Game Pass Extravaganza",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "game",
+        "pass",
+        "best",
+        "games",
+        "recommendations",
+        "future",
+        "releases",
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "3ea9e711c68f9c52999a3d1142d97fb11fb578fd",
       "title": "Xbox Game Pass Ultimate Price Drop! - (Xbox In Ten: An Xbox Podcast - Ep. 361)",
@@ -9093,6 +9123,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — Game Pass's Best Games, Recommendations, and Future Releases - (Xbox In Ten: An Xbox Podcast - Ep. 362) — speakers: Game Pass, Best Games, Future Releases, Xbox Game Pass Extravaganza, Brandon Rosa
 - 2026-04-27 — Xbox Game Pass Ultimate Price Drop! - (Xbox In Ten: An Xbox Podcast - Ep. 361) — speakers: Brandon Rosa
 - 2026-04-20 — Microsoft Considering Major Changes To Game Pass After CEO Said It's Too Expensive - (Xbox In Ten: An Xbox Podcast - Ep. 360) — speakers: Brandon Rosa
 - 2026-04-13 — Xbox To Release Halo: Campaign Evolved In July 2026? - (Xbox In Ten: An Xbox Podcast - Ep. 359) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
