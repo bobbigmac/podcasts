@@ -20076,6 +20076,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:23628b540327",
+        "feed_title": "Cats Got Your Tongue?",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR5070904813",
+        "dedupe_key": "b17abbc0a10fd805546c870c1d1d6369c6a44ff6",
+        "episode_key": "b17abbc0a10fd805546c870c1d1d6369c6a44ff6",
+        "title": "9. Stewart Lee",
+        "published_at": "2025-06-26T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode, host Adam chats to legendary comedian Stewart Lee about life with his cats. The two discuss how his cat Boo Boo was an excellent nighttime companion for a stand-up comedian coming home late and how the cat community comes together when a beloved pet goes missing, plus they wonder whether ginger cats ar",
+        "audio_url": "https://traffic.megaphone.fm/NSR6841936946.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/9-stewart-lee/id1695724130?i=1000714722826&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:86e8d6833f90",
         "feed_title": "Strong Message Here",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
