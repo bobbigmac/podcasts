@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-04-28T04:05:08+00:00`
-- checked_at: `2026-04-28T04:05:08+00:00`
-- etag: `"754022f6708f10b6d40ff31ca0f1c77b"`
-- last_modified: `Tue, 28 Apr 2026 04:00:05 GMT`
+- fetched_at: `2026-05-04T04:08:33+00:00`
+- checked_at: `2026-05-04T04:08:33+00:00`
+- etag: `"3dc633cf6e625c9915328893c6782890"`
+- last_modified: `Mon, 04 May 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-04-28T04:05:08+00:00",
+  "fetched_at": "2026-05-04T04:08:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "903f886b35374064b621c33b6187b71b318c07d6",
+      "title": "Geoff Norcott's Working Men's Club",
+      "published_at": "2026-05-04T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nhnh20",
+      "description": "This week, Geoff looks at the “angry middle-aged white men” that Gary Neville identified as the source of all division within the UK. Is that fair? If so, why are they angry? And could there be both a deeper reason for their anger and also a better outlet for it? As ever, these serious points are intercut with “manly hypotheticals”, the sort of question men ask each other to avoid talking about stuff that matters, like - if you’re drinking non-alcoholic beer, are you still obliged to buy a round? This is episode 2 of Series 2 of Geoff Norcott's Working Men's Club. To hear more from this series, search \"Stand-Up Specials\" on BBC Sounds. Written and presented by Geoff Norcott Recorded by Sean Kerwin Production manager: Dawn Williams Executive producer: Caroline Raphael Producer: Ed Morrish A Pier production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nhngg5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27136000",
+      "itunes_duration": "1696",
+      "speakers": [
+        "Geoff Norcott",
+        "Gary Neville"
+      ],
+      "topics": [
+        "geoff",
+        "norcott",
+        "working",
+        "club"
+      ]
+    },
     {
       "key": "fb8ec4513012187891866488dd573c8b66a5912d",
       "title": "Brian & Roger",
@@ -972,6 +994,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — Geoff Norcott's Working Men's Club — speakers: Geoff Norcott, Gary Neville
 - 2026-04-27 — Brian & Roger
 - 2026-04-20 — Nature Table
 - 2026-04-13 — Unspeakable — speakers: Hugh Dennis, Katy Wix

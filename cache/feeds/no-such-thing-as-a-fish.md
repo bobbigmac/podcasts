@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-05-01T04:16:32+00:00`
-- checked_at: `2026-05-01T04:16:32+00:00`
-- etag: `W/"e950538b66f90361e84ce3d3b82152a1"`
-- last_modified: `Thu, 30 Apr 2026 22:35:00 GMT`
+- fetched_at: `2026-05-04T04:08:33+00:00`
+- checked_at: `2026-05-04T04:08:33+00:00`
+- etag: `W/"aa95fdeda26f37526ebc7ae945892bdc"`
+- last_modified: `Sun, 03 May 2026 22:58:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-05-01T04:16:32+00:00",
+  "fetched_at": "2026-05-04T04:08:33+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,30 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "18457a9a424332c684a181cbd5572c4aef0c964b",
+      "title": "Little Fish: You've Hit The Nail On the Head",
+      "published_at": "2026-05-03T22:58:00+00:00",
+      "link": "https://audioboom.com/posts/8897439",
+      "description": "Dan, James and Andy discuss YOUR facts, including Jack Black and flat pack. James creates a new theme tune. And we name eight more Friend of the Podcast fact custodians.",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8897439.mp3?modified=1777551419&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1938",
+      "speakers": [
+        "Jack Black",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "nail",
+        "head"
+      ]
+    },
     {
       "key": "927d73ced92589198659ebe438064de4366fd5e1",
       "title": "No Such Thing As Imaginary Flumps",
@@ -16196,6 +16220,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-03 — Little Fish: You've Hit The Nail On the Head — speakers: Jack Black, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-04-30 — No Such Thing As Imaginary Flumps — speakers: Amy Gledhill, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-04-26 — Little Fish: Jurassic Bark — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-04-23 — No Such Thing As Anti-Drone Sharks — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

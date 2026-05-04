@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-05-03T19:17:56+00:00`
-- checked_at: `2026-05-03T19:17:56+00:00`
-- etag: `"djEuMi4wOjE3Nzc4MzA1NzczMjg="`
+- fetched_at: `2026-05-04T04:08:33+00:00`
+- checked_at: `2026-05-04T04:08:33+00:00`
+- etag: `"djEuMi4wOjE3Nzc4NjM2Mzk0ODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-05-03T19:17:56+00:00",
+  "fetched_at": "2026-05-04T04:08:33+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "86d54e7ae3c9897ab89b85c92284043b74867b9c",
+      "title": "Show 401. Steve Baker",
+      "published_at": "2026-05-04T03:00:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-401steve-baker",
+      "description": "Strap on in for an adrenaline-fuelled hour with former Conservative minister Steve Baker. This is packed full of honest reflections on the faith, life, mental health... and so much more. Steve is a deep thinker and has continued to analyse politics since he left Parliament. This is cracking. CHECK OUT Steve's project, 'Fighting for a Free Future' here: https://www.fightingforafreefuture.com/ THE POLITICAL PARTY LIVE 11 May: Lewis Goodall 1 June: Andy Burnham https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE Matt's brand new stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/69f78ab1e1fad0f98a00ff8e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91040017",
+      "itunes_duration": "1:03:12",
+      "speakers": [
+        "Steve Baker Strap",
+        "Steve Baker",
+        "Matt Forde"
+      ],
+      "topics": [
+        "steve",
+        "baker"
+      ]
+    },
     {
       "key": "2ab2bb3f561c14a3c3b83ae5c8843f1488fc664a",
       "title": "Show 400. Andrew Marr - Replay",
@@ -10305,6 +10326,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — Show 401. Steve Baker — speakers: Steve Baker Strap, Steve Baker, Matt Forde
 - 2026-04-27 — Show 400. Andrew Marr - Replay — speakers: Andrew Marr Replay, Matt Forde
 - 2026-04-22 — Show 399. Shabana Mahmood - LIVE — speakers: Shabana Mahmood, Matt Forde
 - 2026-04-13 — Show 398. Ben Judah — speakers: Ben Judah, Matt Forde

@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-03T19:17:56+00:00`
-- checked_at: `2026-05-03T19:17:56+00:00`
-- etag: `"djEuMi4wOjE3Nzc4MzIxOTIyNDA="`
+- fetched_at: `2026-05-04T04:08:33+00:00`
+- checked_at: `2026-05-04T04:08:33+00:00`
+- etag: `"djEuMi4wOjE3Nzc4NjM0NTkzMTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-03T19:17:56+00:00",
+  "fetched_at": "2026-05-04T04:08:33+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fc678ed89870f254c0574a46321cb0d6d4f60ce2",
+      "title": "Retro RHLSTP 142 - Catherine Bohart",
+      "published_at": "2026-05-04T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#438 Naked Beach - Richard reveals whether Great Yarmouth has given him a multi-million pound honour or not. His guest was having a bad time last time they were on, let’s see if they’re doing any better now, it’s the brilliant Catherine Bohart. The pair talk about their respective visits to Iceland and whether Rich’s depleted genitals might end up in a museum, appearing at the ghost Edinburgh Fringe of 2021, whether OCD had any influence over he choice of college, whether the point of life is to experience joy, cats in washing machines and the AI questions finally come good as they prompt an incredible story about a taxidermied squirrel. Look out for Catherine’s WIP gigs here https://www.catherinebohart.com/live Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1777831827889-406ee4d0-7cbf-4ce9-96a6-919d743f6eb4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69f78fa88beeba5310056d3c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34602306",
+      "itunes_duration": "1:04:26",
+      "speakers": [
+        "Catherine Bohart",
+        "Naked Beach",
+        "Great Yarmouth",
+        "Richard Herring"
+      ],
+      "topics": [
+        "retro",
+        "catherine",
+        "bohart"
+      ]
+    },
     {
       "key": "e44be9f0ca8d8ddf8381456961353169de5e912c",
       "title": "RAACN week 14",
@@ -22253,6 +22276,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — Retro RHLSTP 142 - Catherine Bohart — speakers: Catherine Bohart, Naked Beach, Great Yarmouth, Richard Herring
 - 2026-05-02 — RAACN week 14 — speakers: Richard Herring
 - 2026-05-01 — Retro Can I Have My Ball Back? - Episode 1 — speakers: Richard Herring
 - 2026-04-29 — RHLSTP 608 - Michelle Wolf — speakers: Michelle Wolf, Richard Herring

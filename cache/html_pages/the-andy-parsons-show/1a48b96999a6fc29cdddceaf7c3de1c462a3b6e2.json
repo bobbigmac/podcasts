@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/?page=4",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/?page=4",
-  "fetched_at": "2026-05-03T22:00:05+00:00",
+  "fetched_at": "2026-05-04T04:08:33+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": null,
   "episodes": [
+    {
+      "key": "026262ed0d80109a28f420541d49b97a15616f20",
+      "guid": "e245755b-a6cb-4756-96da-f780be6d6ec1",
+      "title": "The Andy Parsons Show (11th August)",
+      "published_at": "2024-08-11T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-andy-parsons-show-11th-august1/",
+      "description": "Join the Mock the Week star as he delivers his own verdict on the week's big news stories.",
+      "image_url": "https://assets.sharp-stream.com/content/fubar_radio/artwork/andy_parsons_podcast_1400x1400_2_1629974649.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1723418041-the_andy_parsons_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=e245755b-a6cb-4756-96da-f780be6d6ec1&awCollectionId=fubar_radio-standalone&providerId=fubar",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "5bf03d290be8d9b29473e6dffc4e292f36aab52f",
       "guid": "a33cca75-0f79-4a71-aefa-c3c6564c5720",

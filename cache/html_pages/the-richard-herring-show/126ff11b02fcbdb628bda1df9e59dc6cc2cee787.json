@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/the-richard-herring-show/",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/the-richard-herring-show/",
-  "fetched_at": "2026-05-03T22:00:05+00:00",
+  "fetched_at": "2026-05-04T04:08:33+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/the-richard-herring-show/?page=2",
   "episodes": [
+    {
+      "key": "058191902dd88887c8281d55be41c0d5536051a8",
+      "guid": "d05f0fff-3a51-4f63-b9ef-521baddfe2e3",
+      "title": "The Richard Herring Show (4th May)",
+      "published_at": "2026-05-04T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-richard-herring-show-4th-may/",
+      "description": "Master of British comedy Richard Herring unleashes his ribald humour with off-beat co-host Lou Sanders.",
+      "image_url": "https://mm.aiircdn.com/177/865364.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1777863677-the_richard_herring_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=d05f0fff-3a51-4f63-b9ef-521baddfe2e3&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "a2f36fb2fcc6dd58c815bba2f4186ab7b74831e6",
       "guid": "c1d6a202-2298-4b38-bd96-7c74b05366ba",
@@ -380,19 +393,6 @@
       "description": "Master of British comedy Richard Herring unleashes his ribald humour with off-beat co-host Lou Sanders.",
       "image_url": "https://mm.aiircdn.com/177/865364.png",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1760324517-the_richard_herring_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=d439f685-7727-4489-adbf-b94543e65694&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "0d7c7942e0d883f349def98d74f3cace387abfb2",
-      "guid": "0cf0ac49-914c-45df-bc22-431892c09c00",
-      "title": "The Richard Herring Show (6th October)",
-      "published_at": "2025-10-06T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/the-richard-herring-show-6th-october/",
-      "description": "Master of British comedy Richard Herring unleashes his ribald humour with off-beat co-host Lou Sanders.",
-      "image_url": "https://mm.aiircdn.com/177/865364.png",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1759719693-the_richard_herring_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=0cf0ac49-914c-45df-bc22-431892c09c00&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null

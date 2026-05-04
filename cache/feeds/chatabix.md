@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-02T07:59:08+00:00`
-- checked_at: `2026-05-02T07:59:08+00:00`
-- last_modified: `Sat, 02 May 2026 07:20:18 GMT`
+- fetched_at: `2026-05-04T04:08:33+00:00`
+- checked_at: `2026-05-04T04:08:33+00:00`
+- last_modified: `Mon, 04 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-02T07:59:08+00:00",
+  "fetched_at": "2026-05-04T04:08:33+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "71deb30d206b06717486bff52f63bca1d8608c27",
+      "title": "S15 Ep 831 Vault Mondays: The Podcast Title and Addictions",
+      "published_at": "2026-05-04T02:00:00+00:00",
+      "link": null,
+      "description": "This week, we bring you the holy grail of Vault Mondays - the very first episode of Chatabix! It’s a tentative start but once things get going, David and Joe decide on a name for the pod and discus Vicks Sinex and Coke Zero. First posted on 29th March 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8220006990.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1740",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "podcast",
+        "title",
+        "addiction"
+      ]
+    },
     {
       "key": "2748e719e15b9efd906438a3781bffdaa83e2aa4",
       "title": "S15 Ep 830 Listener’s Mailbag: Bad Vibes and Hash-letes",
@@ -14708,6 +14731,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — S15 Ep 831 Vault Mondays: The Podcast Title and Addictions — speakers: Joe Wilkinson, David Earl
 - 2026-05-01 — S15 Ep 830 Listener’s Mailbag: Bad Vibes and Hash-letes — speakers: Joe Wilkinson, David Earl
 - 2026-04-30 — S15 Ep 829 Bonus Episode: Lose Two Stone - Week 1 — speakers: Lose Two Stone, Joe Wilkinson, David Earl
 - 2026-04-29 — S15 Ep 828: A Double Bubble and London Trouble - Part 2 — speakers: Joe Wilkinson, David Earl

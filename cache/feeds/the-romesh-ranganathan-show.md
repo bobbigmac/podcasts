@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-05-01T19:38:13+00:00`
-- checked_at: `2026-05-01T19:38:13+00:00`
-- last_modified: `Fri, 01 May 2026 16:22:04 GMT`
+- fetched_at: `2026-05-04T04:08:33+00:00`
+- checked_at: `2026-05-04T04:08:33+00:00`
+- last_modified: `Sun, 03 May 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-01T19:38:13+00:00",
+  "fetched_at": "2026-05-04T04:08:33+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "29198997335dcd43bd1954a47ef99c7f081ac68d",
+      "title": "Miriam Margolyes on Harry Potter, Blackadder & How To Be Confident",
+      "published_at": "2026-05-03T23:01:00+00:00",
+      "link": null,
+      "description": "What happens when you put Miriam Margolyes and Romesh in a room together? Surprisingly brilliant life advice and a mild flirtation... BAFTA-winning actor, author and national treasure Miriam Margolyes joins Romesh Ranganathan for one of the funniest, frankest and most unpredictable episodes yet. Miriam reflects on her extraordinary career, from Blackadder and Harry Potter to her deep love of Charles Dickens, theatre and live audiences. She also discusses her new documentary, 'Miriam Margolye Made Me Me', her upcoming book 'Miriam’s Full English', life on Cameo, and why getting older has made her bolder. Expect candid opinions on fame, politics, kindness, reality TV, social issues and public figures, alongside stories from Cambridge Footlights, her long standing beef with John Cleese, working with comedy legends, and why she still believes in seizing the day. Plus: Shanthi’s question, audience absurdity and some truly unfiltered and unhinged moments… and yes, an on-air fart. It's a hilarious episode and unmistakably Miriam. A Ranga Bee Production in partnership with Platform. 00:00 Intro 03:32 A gift for Miriam 06:00 Miriam thinks Rom is sexy 07:40 The new documentary 09:00 On success 10:30 More on Miriam Margolyes Made Me Me 15:45 On being a farty old lady and reality TV 17:08 Writing a new book 18:09 Unhinged audience questions and Cameo 21:00 On Nigel Farage 26:48 Most proud moments 25:37 Shanthi’s question to Miriam 28:29 On importance and popularity 32:23 Humanity, kindness and politics 37:42 Does Miriam like a full english? 38:22 On touring and Miriam’s broad career 39:37 Miriam farts on the show 40:30 Getting into acting 43:38 Footlights and her beef with John Cleese 47:13 Working on Blackadder 50:32 Harry Potter and it’s legacy 51:46 A message to David Essex 52:30 Miriam’s favourite actor to work with 56:41 Most surprising person she’s worked with 58:50 Most important work 01:00:25 What’s next 01:01:55 Misquoted 01:09:45 Advice from Miriam 01:10:44 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/cc0c0f92-4575-11f1-8a00-6f0ff7bbc5f2/image/21f01cefeaafc33543fc6d5c1d6f7dc6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8934748122.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4486",
+      "speakers": [
+        "Miriam Margolyes",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "miriam",
+        "margolyes",
+        "harry",
+        "potter",
+        "blackadder"
+      ]
+    },
     {
       "key": "c56b2311db890845672a2bd53a54497c64e5bf55",
       "title": "Shanthi’s Birthday Special",
@@ -1483,6 +1506,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-03 — Miriam Margolyes on Harry Potter, Blackadder & How To Be Confident — speakers: Miriam Margolyes, Romesh Ranganathan
 - 2026-04-29 — Shanthi’s Birthday Special — speakers: Birthday Special What, Shanthi Ranganathan, Romesh Ranganathan
 - 2026-04-26 — Thundercat on Creativity, Positive Mindsets & Finding His Sound — speakers: Grammy Award, Romesh Ranganathan
 - 2026-04-22 — Shanthi’s TikTok Shop Obsession & Are Sleepovers Bad? — speakers: Romesh Ranganathan
