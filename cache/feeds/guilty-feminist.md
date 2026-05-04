@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-05-04T11:17:53+00:00`
-- checked_at: `2026-05-04T11:17:53+00:00`
-- last_modified: `Mon, 04 May 2026 11:00:00 GMT`
+- fetched_at: `2026-05-04T14:30:19+00:00`
+- checked_at: `2026-05-04T14:30:19+00:00`
+- last_modified: `Mon, 04 May 2026 11:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-04T11:17:53+00:00",
+  "fetched_at": "2026-05-04T14:30:19+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "309a73b89d50352d673dd79375a8964a08357aac",
+      "title": "481. The Algorithm with Aoife Dunne and Adele Zeynep Walton - part two",
+      "published_at": "2026-05-04T11:30:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 481. The Algorithm Presented by Deborah Frances-White, guest co-host Aoife Dunne and guest Adele Zeynep Walton Recorded 10 April 2026 at the Museum of Comedy in London. Released 4 May. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-hav e More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Aoife Dunne https://www.instagram.com/aoife_is_never_dunne https://aoifedunnecomedy.com More about Adele Zeynep Walton https://www.instagram.com/adele_walton https://www.adelesnotes.co.uk https://www.waterstones.com/book/logging-off/adele-zeynep-walton/9781398722927 For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Road to Gilead at the Museum of Comedy . https://www.museumofcomedy.com/the-guilty-feminist/ The Guilty Feminist Meets Rose McGowan . https://www.charleston.org.uk/event/the-guilty-feminist Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4a2d440a-4674-11f1-ae7f-0f42f40e035a/image/6a509b38568ae5983409c56bab0f1309.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL7629857528.mp3?updated=1777760837",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2349",
+      "speakers": [
+        "Deborah Frances-White",
+        "Aoife Dunne"
+      ],
+      "topics": [
+        "algorithm",
+        "aoife",
+        "dunne",
+        "adele",
+        "zeynep",
+        "walton"
+      ]
+    },
     {
       "key": "fcf595115db633d191ec04f5f9dfad38d77416e6",
       "title": "481. The Algorithm with Aoife Dunne and Adele Zeynep Walton - part one",
@@ -17864,6 +17888,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — 481. The Algorithm with Aoife Dunne and Adele Zeynep Walton - part two — speakers: Deborah Frances-White, Aoife Dunne
 - 2026-05-04 — 481. The Algorithm with Aoife Dunne and Adele Zeynep Walton - part one — speakers: Deborah Frances-White, Aoife Dunne
 - 2026-04-27 — 480. Keep Palantir Out Of Our NHS with Susan Wokoma, Dr Matt Mahmoudi and Linnéa Freear - part two — speakers: Keep Palantir, Susan Wokoma, Matt Mahmoudi, Deborah Frances-White
 - 2026-04-27 — 480. Keep Palantir Out Of Our NHS with Susan Wokoma, Dr Matt Mahmoudi and Linnéa Freear - part one — speakers: Keep Palantir, Susan Wokoma, Matt Mahmoudi, Deborah Frances-White
