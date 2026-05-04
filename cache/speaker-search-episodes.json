@@ -7001,6 +7001,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:23628b540327",
+        "feed_title": "Cats Got Your Tongue?",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR5070904813",
+        "dedupe_key": "2ca5103a085333ac252b8ac8d74f397a835aa11c",
+        "episode_key": "2ca5103a085333ac252b8ac8d74f397a835aa11c",
+        "title": "7. Bob Mortimer",
+        "published_at": "2024-08-16T05:00:36Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode Adam is very pleased to welcome a legend to Cats Got Your Tongue?, the comedian, author and TV personality, Bob Mortimer! Bob chats about life with his cat Goodmonson, his pride at having such a handsome cat and the inspiration behind his famous surreal cat names. Plus, he reflects on the many cats he h",
+        "audio_url": "https://traffic.megaphone.fm/NSR2079768069.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/7-bob-mortimer/id1695724130?i=1000665566271&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
