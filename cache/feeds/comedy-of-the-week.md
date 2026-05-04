@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-05-04T04:08:33+00:00`
-- checked_at: `2026-05-04T04:08:33+00:00`
-- etag: `"3dc633cf6e625c9915328893c6782890"`
-- last_modified: `Mon, 04 May 2026 04:00:04 GMT`
+- fetched_at: `2026-05-04T19:55:01+00:00`
+- checked_at: `2026-05-04T19:55:01+00:00`
+- etag: `"d5c54fccb95e47c23e35a72d0b15628e"`
+- last_modified: `Mon, 04 May 2026 18:25:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-05-04T04:08:33+00:00",
+  "fetched_at": "2026-05-04T19:55:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

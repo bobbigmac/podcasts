@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-05-04T17:01:03+00:00`
-- checked_at: `2026-05-04T17:01:03+00:00`
-- etag: `W/"35167-AfcxwCLVyyxemPlpG9JFj2xdERo"`
+- fetched_at: `2026-05-04T19:55:01+00:00`
+- checked_at: `2026-05-04T19:55:01+00:00`
+- etag: `W/"35997-gNnca5kUc1dPglVNw1WyyYJgX9U"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-05-04T17:01:03+00:00",
+  "fetched_at": "2026-05-04T19:55:01+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,30 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "02641e3075a06e69e5d6dee6b4e73f912f58665d",
+      "title": "Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast",
+      "published_at": "2026-05-01T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Our-Early-Thoughts-on-Saros--the-Big-New-PS5-Exclusive--Firelink-Podcast-e3ir9b3",
+      "description": "This week on Firelink, Nick, KC, and Marty chat about their time in the opening hours of Saros, PlayStation's DRM drama, and Xbox's dour financials. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/119431971/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-4%2Fea4d2857-aa20-bfcd-d7cb-df9b139eaedb.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "164222240",
+      "itunes_duration": "01:54:02",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "thoughts",
+        "saros",
+        "exclusive",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "42d21ac92ca5a12fb02a121274770a3ffcb4a5c4",
       "title": "Building a Showcase, Black Flag Returns, and More | Firelink Podcast",
@@ -2735,6 +2759,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-01 — Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-04-24 — Building a Showcase, Black Flag Returns, and More | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-04-18 — Pragmata Rules, Rockstar's Been Hacked, and Bloodborne Is Getting Movie'd | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-04-10 — The High (and Low) Points of Nintendo, PlayStation, and Xbox | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
