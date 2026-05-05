@@ -2,9 +2,9 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-05-04T04:08:33+00:00`
-- checked_at: `2026-05-04T04:08:33+00:00`
-- etag: `W/"aa95fdeda26f37526ebc7ae945892bdc"`
+- fetched_at: `2026-05-05T14:23:38+00:00`
+- checked_at: `2026-05-05T14:23:38+00:00`
+- etag: `W/"b21cf1e5d893da600471f1e45762bc64"`
 - last_modified: `Sun, 03 May 2026 22:58:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-05-04T04:08:33+00:00",
+  "fetched_at": "2026-05-05T14:23:38+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",

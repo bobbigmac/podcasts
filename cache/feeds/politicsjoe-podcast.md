@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-02T07:59:08+00:00`
-- checked_at: `2026-05-02T07:59:08+00:00`
-- etag: `"djEuMi4wOjE3Nzc3MDUyMzkzODc="`
+- fetched_at: `2026-05-05T14:23:38+00:00`
+- checked_at: `2026-05-05T14:23:38+00:00`
+- etag: `"djEuMi4wOjE3Nzc5ODk2Mzk2NjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,32 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-02T07:59:08+00:00",
+  "fetched_at": "2026-05-05T14:23:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "f192de1fabc392afb9aa84210188db46c8059d7b",
+      "title": "Reform declare war on the Greens",
+      "published_at": "2026-05-05T14:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69f9f7112a1dd3f1a820f16f",
+      "description": "It's gloves off between Reform and the Greens, with Zia Yusuf vowing that, if elected, Reform will prioritise putting migrant detention centres in constituencies that vote for Zack Polanski. Also, Seán, Laura, and Andy wade into the controversy surrounding Polanski after he shared a tweet critical of the police's use of force in detaining a suspect in the Golders Green attack. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69f9f7112a1dd3f1a820f16f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75282364",
+      "itunes_duration": "52:16",
+      "speakers": [
+        "Zia Yusuf"
+      ],
+      "topics": [
+        "reform",
+        "greens"
+      ]
+    },
     {
       "key": "7e7d323da1dc8c6f4113aa7f58b23df3c882915d",
       "title": "This is why my constituents HATE Keir Starmer | Sorcha Eastwood Interview",
@@ -12774,6 +12793,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — Reform declare war on the Greens — speakers: Zia Yusuf
 - 2026-05-02 — This is why my constituents HATE Keir Starmer | Sorcha Eastwood Interview — speakers: Sorcha Eastwood
 - 2026-04-30 — Lefties clash over MPs drinking in Parliament — speakers: Stella Tsantekidou, Turn Left
 - 2026-04-29 — Is this Keir Starmer's last PMQs?

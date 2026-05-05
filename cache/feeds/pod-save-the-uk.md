@@ -2,9 +2,9 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-05-01T19:38:13+00:00`
-- checked_at: `2026-05-01T19:38:13+00:00`
-- etag: `W/"96728e0156c58ad6ed07976649c000a0"`
+- fetched_at: `2026-05-05T14:23:38+00:00`
+- checked_at: `2026-05-05T14:23:38+00:00`
+- etag: `W/"d9fcb16a289f7e7a6e10eecd09b1f556"`
 - last_modified: `Fri, 01 May 2026 18:47:39 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-05-01T19:38:13+00:00",
+  "fetched_at": "2026-05-05T14:23:38+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
