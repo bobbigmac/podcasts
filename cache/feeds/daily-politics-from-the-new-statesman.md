@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-05-05T14:23:38+00:00`
-- checked_at: `2026-05-05T14:23:38+00:00`
-- etag: `"djEuMi4wOjE3Nzc5ODk1NDk3NDU="`
+- fetched_at: `2026-05-05T16:54:48+00:00`
+- checked_at: `2026-05-05T16:54:48+00:00`
+- etag: `"djEuMi4wOjE3Nzc5OTY4MzkzNDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-05-05T14:23:38+00:00",
+  "fetched_at": "2026-05-05T16:54:48+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "f06f7de48bdd6913a46283f23e4dd86e74f8c128",
+      "title": "Zack Polanski: Corbyn's true heir?",
+      "published_at": "2026-05-05T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/zack-polanski-corbyns-true-heir",
+      "description": "Crowds of young people chant his name but the Green leader is \"nervous\", says Ailbhe Rea. -- A year ago, Zack Polanksi was relatively unknown. Now, he's leading an \"eco-populist\" movement that has revitalised the Green Party and looks likely to propel a left-wing surge in the May local elections. Ailbhe Rea profiled the Green leader for the New Statesman, meeting him shortly after he'd been addressing young activists. She found a \"sweet, slightly nervous\" man who admits he still has much to learn about running a political party. Here Ailbhe speaks to Anoosh Chakelian about Zack Polanski's political position, his unusual background, and the lessons he might learn from Jeremy Corbyn. LISTEN NEXT: Attacks on Jews are an indictment of Keir Starmer's Britain READ: Zack Polanski is still learning LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777988861888-5695f602-5803-43fc-9d2a-d778446b8749.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69f9f7ad82781c7c45719d06/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34098352",
+      "itunes_duration": "23:40",
+      "speakers": [
+        "Zack Polanski",
+        "Ailbhe Rea",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "zack",
+        "polanski",
+        "corbyn",
+        "heir"
+      ]
+    },
     {
       "key": "41a30882dddbb4461d781fec6c30949afc0066dd",
       "title": "Charles, royal court jester | Will and Anoosh’s weekly round up",
@@ -31135,6 +31159,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — Zack Polanski: Corbyn's true heir? — speakers: Zack Polanski, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2026-05-02 — Charles, royal court jester | Will and Anoosh’s weekly round up — speakers: Emily Thornberry, Anoosh Chakelian, Oli Dugmore
 - 2026-04-30 — Attacks on Jews are an indictment of Keir Starmer's Britain — speakers: Tom McTague, Anoosh Chakelian, Oli Dugmore
 - 2026-04-25 — Political F-bombs and Jacob Rees-Mogg “unbuttoned” — speakers: Jacob Rees-Mogg, Peter Mandelson, Anoosh Chakelian, Oli Dugmore

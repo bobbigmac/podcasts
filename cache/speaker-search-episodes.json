@@ -15223,6 +15223,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:c6031f1ae9bf",
+        "feed_title": "Hawksbee and Jacobs Daily",
+        "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
+        "dedupe_key": "d0ef50b0f388d23e6f517be2d28c2904b48449f1",
+        "episode_key": "d0ef50b0f388d23e6f517be2d28c2904b48449f1",
+        "title": "Null And Void",
+        "published_at": "2023-03-23T16:15:21Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Paul Hawksbee and Charlie Baker are joined in the pod by taskmaster Alex Horne and comedian James Gill. Plus, Andy Jacobs and Geoff Peters join in for the Birthday Spread! Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/hawksbeeandjacobs/e/641c7b1a62f8960011522f4c/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/null-and-void/id348889102?i=1000605592385&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
@@ -24667,6 +24689,28 @@
         "feed_image_url": null,
         "description": "This week on Pottering, I had the pleasure of being joined for some 'Alfresco Therapy' by the gloriously funny Nish Kumar! Superbly satirical stand up, you may also know him from Radio 4, his hit podcast Pod Save The UK, or from television (The Mash Report, Taskmaster, Joel and Nish vs The World).On a rather changeable",
         "audio_url": "https://traffic.megaphone.fm/NSR7598941532.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar/id1840896737?i=1000732084979&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:0bf102c49cf0",
+        "feed_title": "Pottering with Tom Allen",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR7948227179",
+        "dedupe_key": "5429dab068062a3651e05a9e60a107e877146359",
+        "episode_key": "5429dab068062a3651e05a9e60a107e877146359",
+        "title": "Nish Kumar",
+        "published_at": "2025-10-16T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on Pottering, I had the pleasure of being joined for some 'Alfresco Therapy' by the gloriously funny Nish Kumar! Superbly satirical stand up, you may also know him from Radio 4, his hit podcast Pod Save The UK, or from television (The Mash Report, Taskmaster, Joel and Nish vs The World).On a rather changeable",
+        "audio_url": "https://traffic.megaphone.fm/NSR7598941532.mp3?updated=1777973662",
         "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar/id1840896737?i=1000732084979&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
