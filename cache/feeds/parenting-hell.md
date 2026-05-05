@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-05-01T16:08:21+00:00`
-- checked_at: `2026-05-01T16:08:21+00:00`
-- last_modified: `Fri, 01 May 2026 14:59:57 GMT`
+- fetched_at: `2026-05-05T03:50:01+00:00`
+- checked_at: `2026-05-05T03:50:01+00:00`
+- last_modified: `Tue, 05 May 2026 02:32:55 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/40fdac0908467e0692b2c0139f4db663.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-01T16:08:21+00:00",
+  "fetched_at": "2026-05-05T03:50:01+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "55c779a15bea3e303abb9aa423f3b0ff22f59c18",
+      "title": "S12 EP35: Faithful... or Traitor?",
+      "published_at": "2026-05-05T02:30:00+00:00",
+      "link": null,
+      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... You may have seen the news over the weekend that Rob will be in the next series of Celebrity Traitors. Please note: we don't discuss it at all in this episode. But we will happily click-bait the episode title to harvest listeners... enjoy! ⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6725149760.mp3?updated=1777947014",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2712",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "faithful",
+        "traitor"
+      ]
+    },
     {
       "key": "ea8e21ae2b07289c47fa20b39d4f92030eb1aa20",
       "title": "S12 EP34: Josh gets bullied by Romesh",
@@ -12309,6 +12329,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — S12 EP35: Faithful... or Traitor? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-05-01 — S12 EP34: Josh gets bullied by Romesh — speakers: Rob Beckett, Josh Widdicombe
 - 2026-04-28 — S12 EP33: Matt Morsia — speakers: Matt Morsia, Rob Beckett, Josh Widdicombe
 - 2026-04-24 — S12 EP32: Hal Cruttenden — speakers: Hal Cruttenden, Rob Beckett, Josh Widdicombe

@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-04T08:42:27+00:00`
-- checked_at: `2026-05-04T08:42:27+00:00`
-- last_modified: `Mon, 04 May 2026 07:31:33 GMT`
+- fetched_at: `2026-05-05T03:50:01+00:00`
+- checked_at: `2026-05-05T03:50:01+00:00`
+- last_modified: `Tue, 05 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-04T08:42:27+00:00",
+  "fetched_at": "2026-05-05T03:50:01+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,27 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "02a554123888ce99963f9485825ce491e00b4caa",
+      "title": "S15 Ep 832: David’s Post-Filming High",
+      "published_at": "2026-05-05T02:00:00+00:00",
+      "link": null,
+      "description": "David’s finished his filming job and consequently is on an absolute high - buzzing about loving life and even starting to like London too. So obviously Joe wants to know everything and also hear about all the friendly Londoners David’s been talking to. It’s quite the turnaround! Also, they chat about George Michael’s house in Goring on Thames, comfort zones, troublesome taxi drivers and Davis’s weight loss plans. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: ⁠YouTube⁠ ⁠Instagram⁠ ⁠TikTok⁠ ⁠Patreon⁠ ⁠Merch⁠ Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7082421518.mp3?updated=1777619797",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2390",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "post",
+        "high"
+      ]
+    },
     {
       "key": "71deb30d206b06717486bff52f63bca1d8608c27",
       "title": "S15 Ep 831 Vault Mondays: The Podcast Title and Addictions",
@@ -10866,30 +10887,6 @@
       ]
     },
     {
-      "key": "f712aae5f7b66d93af8b8a8af248ce019437fb7e",
-      "title": "Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton",
-      "published_at": "2024-01-08T14:35:00+00:00",
-      "link": null,
-      "description": "This ep is from the Chatavaults and was originally released in Sept 2022. Paul Gorton is back with loads more anecdotes from his 'Deal or No Deal' days. He tells us tales of backstage camaraderie and gives a glimpse into the mind games going on with Noel Edmunds. It's the first time Paul met Noel so he was a bit nervous. David asks what Noel was wearing and they have a long conversation about his hair. Paul tells David & Joe about the dodgy hotel the contestants stayed in, feeling more confident on the show, trying to remember the box numbers and a very awkward kiss ! Paul Gorton is currently in BBC One show The Traitors UK S2. https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7048305337.mp3?updated=1704724734",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3896",
-      "speakers": [
-        "Paul Gorton",
-        "Joe Wilkinson",
-        "David Earl"
-      ],
-      "topics": [
-        "gorton",
-        "deal",
-        "saga",
-        "traitors",
-        "paul"
-      ]
-    },
-    {
       "key": "ef1b582767a738b4d57bedcab718ba69a050375b",
       "title": "Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton",
       "published_at": "2024-01-08T14:35:00+00:00",
@@ -10908,6 +10905,30 @@
       "topics": [
         "gorton",
         "start",
+        "deal",
+        "saga",
+        "traitors",
+        "paul"
+      ]
+    },
+    {
+      "key": "f712aae5f7b66d93af8b8a8af248ce019437fb7e",
+      "title": "Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton",
+      "published_at": "2024-01-08T14:35:00+00:00",
+      "link": null,
+      "description": "This ep is from the Chatavaults and was originally released in Sept 2022. Paul Gorton is back with loads more anecdotes from his 'Deal or No Deal' days. He tells us tales of backstage camaraderie and gives a glimpse into the mind games going on with Noel Edmunds. It's the first time Paul met Noel so he was a bit nervous. David asks what Noel was wearing and they have a long conversation about his hair. Paul tells David & Joe about the dodgy hotel the contestants stayed in, feeling more confident on the show, trying to remember the box numbers and a very awkward kiss ! Paul Gorton is currently in BBC One show The Traitors UK S2. https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7048305337.mp3?updated=1704724734",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3896",
+      "speakers": [
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "gorton",
         "deal",
         "saga",
         "traitors",
@@ -14731,6 +14752,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — S15 Ep 832: David’s Post-Filming High — speakers: Joe Wilkinson, David Earl
 - 2026-05-04 — S15 Ep 831 Vault Mondays: The Podcast Title and Addictions — speakers: Joe Wilkinson, David Earl
 - 2026-05-01 — S15 Ep 830 Listener’s Mailbag: Bad Vibes and Hash-letes — speakers: Joe Wilkinson, David Earl
 - 2026-04-30 — S15 Ep 829 Bonus Episode: Lose Two Stone - Week 1 — speakers: Lose Two Stone, Joe Wilkinson, David Earl
@@ -15221,8 +15243,8 @@
 - 2024-01-09 — S10 Ep 346 Usual Drivel: David Goes Running — speakers: David Goes Running David, Joe Wilkinson, David Earl
 - 2024-01-08 — Gorton Part 4. The moment and even more DOND: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — Gorton Part 3. The Deal Or No Deal saga rolls on: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
-- 2024-01-08 — Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — S10 Ep 341. Emergency Pod: Deep Dive Ep 3 The Traitors — speakers: Deep Dive, Joe Wilkinson, David Earl
 - 2024-01-05 — S10 Ep 340 Emergency Pod: Dissecting Ep 2 The Traitors — speakers: Joe Wilkinson, David Earl
 - 2024-01-04 — S10 Ep 339 Emergency Pod: Debrief Traitors Ep 1 — speakers: Joe Wilkinson, David Earl

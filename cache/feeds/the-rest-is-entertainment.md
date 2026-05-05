@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-05-04T19:55:01+00:00`
-- checked_at: `2026-05-04T19:55:01+00:00`
-- last_modified: `Mon, 04 May 2026 18:33:25 GMT`
+- fetched_at: `2026-05-05T03:50:01+00:00`
+- checked_at: `2026-05-05T03:50:01+00:00`
+- last_modified: `Tue, 05 May 2026 03:22:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-04T19:55:01+00:00",
+  "fetched_at": "2026-05-05T03:50:01+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "6485367591f1bfcf0ebd62ae33b440835706f76b",
+      "title": "Will Ross Kemp Win Celebrity Traitors?",
+      "published_at": "2026-05-04T23:05:00+00:00",
+      "link": null,
+      "description": "Have producers made a massive casting error in the next season of Celebrity Traitors? Why is Linger by the Cranberries seeing a massive resurgence? Is Jacob Elordi a dead cert for 007? Michael Sheen, Bella Ramsey and Richard E. Grant are among the 21 stars heading to the Highlands for a new series of Celebrity Traitors. Who do Richard and Marina think will make the best Traitors and Faithfuls? The Cranberries’ 1993 classic, ‘Linger’ is everywhere right now - from Tik Tok to Hulu’s Love Story. Why is the hit song captivating younger generations? And why are record labels prioritising ‘sync deals’ over traditional promotion? Four years on from Daniel Craig’s last film, the James Bond franchise is yet to confirm the new 007. But who’s the current favourite? Why is the casting process taking so long? And Marina reveals her tip-off about a prime candidate. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠ therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠ www.goalhanger.com⁠ Video Editor: Adam Thornton Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Neil Fearn Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7387135300.mp3?updated=1777918120",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3384",
+      "speakers": [
+        "Will Ross Kemp",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "ross",
+        "kemp",
+        "celebrity",
+        "traitors"
+      ]
+    },
     {
       "key": "eb2a11bbd17309850ed2bd876e61f11c49655bbe",
       "title": "Our Most WTF Celebrity Couples",
@@ -5704,6 +5727,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-04 — Will Ross Kemp Win Celebrity Traitors? — speakers: Will Ross Kemp, Richard Osman, Marina Hyde
 - 2026-04-29 — Our Most WTF Celebrity Couples — speakers: Bobby Brown, Richard Osman, Marina Hyde
 - 2026-04-27 — Bible Study With Russell Brand — speakers: Richard Osman, Marina Hyde
 - 2026-04-22 — Hitler vs Hitchcock — speakers: Jess Glynne, Richard Osman, Marina Hyde
