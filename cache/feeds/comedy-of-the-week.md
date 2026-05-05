@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-05-04T19:55:01+00:00`
-- checked_at: `2026-05-04T19:55:01+00:00`
-- etag: `"d5c54fccb95e47c23e35a72d0b15628e"`
-- last_modified: `Mon, 04 May 2026 18:25:23 GMT`
+- fetched_at: `2026-05-05T08:27:26+00:00`
+- checked_at: `2026-05-05T08:27:26+00:00`
+- etag: `"52c5de371a20ae21f03eda3f515cf5b8"`
+- last_modified: `Tue, 05 May 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-05-04T19:55:01+00:00",
+  "fetched_at": "2026-05-05T08:27:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -966,26 +966,6 @@
         "mclean",
         "crowd"
       ]
-    },
-    {
-      "key": "b55561afda85195ec51075e8059e656ea6060d88",
-      "title": "Michael Spicer: No Room",
-      "published_at": "2025-05-05T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0l7wty8",
-      "description": "The standout satirist of the social media age, Michael Spicer, returns with his sketch comedy show that targets the exponential lunacy of the politics and culture that is overwhelming us. Apprentice hopefuls are challenged to create the perfect, sustainable planet. Can the boys' team rise to the challenge, or will they be fired directly into a supernova? And our government troubleshooters - all called Tim - solve the immigration crisis once and for all. The new series of No Room comes after a critically acclaimed first series that built on MICHAEL Spicer's social media output, which took off when he created his Room Next Door government advisor character. His withering takedowns of politicians have amassed more than 100 million views and helped keep his audience sane in fractured times. Writer, Performer and Co-Editor: Michael Spicer Composer and Sound Designer: Augustin Bousfield Producer: Matt Tiller A Tillervision production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l7wt7q.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14896000",
-      "itunes_duration": "931",
-      "speakers": [
-        "Michael Spicer"
-      ],
-      "topics": [
-        "michael",
-        "spicer",
-        "room"
-      ]
     }
   ]
 }
@@ -1043,4 +1023,3 @@
 - 2025-06-02 — It's a Fair Cop
 - 2025-05-19 — Unspeakable — speakers: Clive Anderson, Sindhu Vee
 - 2025-05-12 — Kiri Pritchard-McLean: Tough Crowd — speakers: Kiri Pritchard-McLean
-- 2025-05-05 — Michael Spicer: No Room — speakers: Michael Spicer

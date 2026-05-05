@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-05-04T08:42:27+00:00`
-- checked_at: `2026-05-04T08:42:27+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpjNE56QTRORFF5TWpnPTo6c2F4ZXNz"`
+- fetched_at: `2026-05-05T08:27:26+00:00`
+- checked_at: `2026-05-05T08:27:26+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpjNU5qZ3hOemczTXprPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-05-04T08:42:27+00:00",
+  "fetched_at": "2026-05-05T08:27:26+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -29,17 +29,17 @@
   "episodes": [
     {
       "key": "c9efebf6b5586b56acf3656d12e0ed372ffb7cab",
-      "title": "Help He’s Fist Deep In My Mum | And William’s Starts Parkour",
-      "published_at": "2026-05-04T05:00:00+00:00",
+      "title": "Help He’s Fist Deep In My Mum | And William Parkours?!",
+      "published_at": "2026-05-05T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-hes-fist-deep-in-my-mum-and-williams-starts-parkour",
-      "description": "Who on earth could possibly go to the gym and lose only ONE of their shoes? Who has taken up parkour with aplomb? Who is missing out on a trip to Benidorm with the lads? Find out all the answers and more as William and Jordan solve your dilemmas, involving what you should wear in a nightclub and how to get over walking in on your boyfriend getting intimate with your mother. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "Who on earth could possibly go to the gym and lose only ONE of their shoes? Who has taken up parkour with aplomb? Who is missing out on a trip to Benidorm with the lads? Find out all the answers and more as William and Jordan solve your dilemmas, involving what you should wear in a nightclub and how to get over walking in on your boyfriend getting intimate with your mother. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1777961170852-dab12c62-7cee-441d-af1e-4bec9b138c1a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69f4c8dd0bd9183c31e68b0e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=yJeSxkXsnFFdjVcgAWDVccFXhB7dEOxNDyWU032-VXQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43402553",
       "itunes_duration": "45:12",
       "speakers": [
-        "William’s Starts",
+        "William Parkours",
         "William Hanson",
         "Jordan North"
       ],
@@ -47,8 +47,7 @@
         "fist",
         "deep",
         "william",
-        "starts",
-        "parkour"
+        "parkours"
       ]
     },
     {
@@ -14244,7 +14243,7 @@
 
 ## Episodes (newest first)
 
-- 2026-05-04 — Help He’s Fist Deep In My Mum | And William’s Starts Parkour — speakers: William’s Starts, William Hanson, Jordan North
+- 2026-05-05 — Help He’s Fist Deep In My Mum | And William Parkours?! — speakers: William Parkours, William Hanson, Jordan North
 - 2026-05-01 — Jordan’s Drag Name | And William’s Silver Spoon — speakers: Jordan’s Drag Name, William’s Silver, William Hanson, Jordan North
 - 2026-04-28 — Help I’m Going To Prison | A Letter From The Police — speakers: Jordan North, William Hanson
 - 2026-04-24 — What Is GOONING? | And Jordan’s Sexy Jet Wash — speakers: Jordan’s Sexy Jet Wash, William Hanson, Jordan North
