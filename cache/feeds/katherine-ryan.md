@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-04-27T14:26:17+00:00`
-- checked_at: `2026-04-27T14:26:17+00:00`
-- etag: `"djEuMi4wOjE3NzcyOTg4NDI1MDU="`
+- fetched_at: `2026-05-05T10:56:03+00:00`
+- checked_at: `2026-05-05T10:56:03+00:00`
+- etag: `"djEuMi4wOjE3Nzc5NzU0MDc5MDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-04-27T14:26:17+00:00",
+  "fetched_at": "2026-05-05T10:56:03+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c4ba0c4943b4b34d798eb842065c77b5b8e1c189",
+      "title": "Violet's First Car",
+      "published_at": "2026-05-05T10:03:27+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/violets-first-car",
+      "description": "This week, Katherine's Telling Everybody Everything about how celebrities are making A MILLION dollars a week on Only Fans? Is not being on Only Fans a missed opportunity? Also, apparently you can't just go out and buy any car you like for a young driver. There are insurance rules about Litres and TORQUE and value and size and all kinds of things that Katherine had no idea about. Thank God once again for Bobby and his value-consciousness. But what does Katherine know - she can't even get life insurance so the plan is DONT DIE. Also, Andrew sends us Met Gala looks hot off the press and we play a little game of GAGworthy or SLAGworthy (which we know is mean). Plus, your letters about moaning neighbours and secretive husbands. xx Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1777974923263-75114a33-890e-4c88-aeaf-4dd3568de116.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/69f9c06f2a1dd3f1a80d4fac/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77025407",
+      "itunes_duration": "53:29",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "violet"
+      ]
+    },
     {
       "key": "db9d4ac4c79cdedf91e0971b36139407aa8fda0c",
       "title": "So You'd Like To Join a Polycule",
@@ -6111,6 +6130,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — Violet's First Car — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-04-27 — So You'd Like To Join a Polycule — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-04-21 — Non-Consensual Filming Fallout — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-04-13 — He Put Hidden Cameras In My Bedroom — speakers: Telling Everybody Everything, Katherine Ryan
