@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "4774e39d9168964ca99114f986d1fd7d35aed9cd",
+        "episode_key": "4774e39d9168964ca99114f986d1fd7d35aed9cd",
+        "title": "Montaigne",
+        "published_at": "2026-05-06T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Australian musician, ARIA Award-winner and former Eurovision contestant Montaigne – aka Jessica Alyssa Cerro – is this week’s dream diner. Will James bring up 2016? \nMontaigne is touring Australia in August for the 10th anniversary of their Glorious Heights album. For dates and tickets go to montaignemusic.com.au \nList",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69d77fde47ecb945c27f02c7/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/montaigne/id1442950743?i=1000766363708&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
@@ -830,6 +853,28 @@
         "feed_image_url": null,
         "description": "What a joy it was to be back in the garden for another episode of Pottering, this time with none other than James Acaster. A splendid stand up, author and of course everyone’s favourite genie waiter!It was an absolute delight to spend an afternoon in the sunshine with James. We discuss mindfulness apps, the trials and ",
         "audio_url": "https://traffic.megaphone.fm/NSR5815889622.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster/id1840896737?i=1000737541426&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:0bf102c49cf0",
+        "feed_title": "Pottering with Tom Allen",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR7948227179",
+        "dedupe_key": "dbebb83f4c5cdc1b9fe31b4fbadcf765e8139879",
+        "episode_key": "dbebb83f4c5cdc1b9fe31b4fbadcf765e8139879",
+        "title": "James Acaster",
+        "published_at": "2025-11-20T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What a joy it was to be back in the garden for another episode of Pottering, this time with none other than James Acaster. A splendid stand up, author and of course everyone’s favourite genie waiter!It was an absolute delight to spend an afternoon in the sunshine with James. We discuss mindfulness apps, the trials and ",
+        "audio_url": "https://traffic.megaphone.fm/NSR5815889622.mp3?updated=1777973724",
         "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster/id1840896737?i=1000737541426&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
@@ -4301,6 +4346,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "4774e39d9168964ca99114f986d1fd7d35aed9cd",
+        "episode_key": "4774e39d9168964ca99114f986d1fd7d35aed9cd",
+        "title": "Montaigne",
+        "published_at": "2026-05-06T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Australian musician, ARIA Award-winner and former Eurovision contestant Montaigne – aka Jessica Alyssa Cerro – is this week’s dream diner. Will James bring up 2016? \nMontaigne is touring Australia in August for the 10th anniversary of their Glorious Heights album. For dates and tickets go to montaignemusic.com.au \nList",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69d77fde47ecb945c27f02c7/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/montaigne/id1442950743?i=1000766363708&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",

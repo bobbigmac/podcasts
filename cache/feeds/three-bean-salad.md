@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-04-29T08:33:09+00:00`
-- checked_at: `2026-04-29T08:33:09+00:00`
-- etag: `"9f05f-65094146294d7"`
-- last_modified: `Wed, 29 Apr 2026 07:13:07 GMT`
+- fetched_at: `2026-05-06T04:04:28+00:00`
+- checked_at: `2026-05-06T04:04:28+00:00`
+- etag: `"9f690-6511b0e9b9076"`
+- last_modified: `Wed, 06 May 2026 00:15:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-04-29T08:33:09+00:00",
+  "fetched_at": "2026-05-06T04:04:28+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "72328829f94359bc95a56316aa30087532029574",
+      "title": "Free Patreon episode - And Then Sparrows Took Their Eyes - Three Brothers Grimm Tales",
+      "published_at": "2026-05-06T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/free-patreon-episode-and-then-sparrows-took-their-eyes-three-brothers-grimm-tales",
+      "description": "A freebie Patreon episode to give you a taste of what we do over there. Henry tells Mike and Ben three stories by the Brothers Grimm. www.patreon.com/threebeansalad",
+      "image_url": "https://artwork.captivate.fm/7c458300-0aef-4eaa-aee9-513a973c5cef/Then-sparrows-took-their-eyes.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/ec74b9c7-d861-4591-b7d7-151d52e3fb03.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=ec74b9c7-d861-4591-b7d7-151d52e3fb03",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70187512",
+      "itunes_duration": "01:13:07",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "free",
+        "patreon",
+        "sparrows",
+        "eyes",
+        "brothers",
+        "grimm",
+        "tale"
+      ]
+    },
     {
       "key": "ec6a9d4d02a7f91dd2b2d478afa2b303bb2d0529",
       "title": "Fifth Wednesday Not-A-Lotta-Podda",
@@ -4221,6 +4247,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — Free Patreon episode - And Then Sparrows Took Their Eyes - Three Brothers Grimm Tales — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-29 — Fifth Wednesday Not-A-Lotta-Podda — speakers: Fifth Wednesday Not, Podda No, Three Bean Salad, Wednesday April, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-22 — Smells — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-15 — Vitamins — speakers: Vitamins Josh, Deep South Texas, Mike Wozniak, Henry Paker, Benjamin Partridge

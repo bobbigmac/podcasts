@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-04-29T16:53:35+00:00`
-- checked_at: `2026-04-29T16:53:35+00:00`
-- etag: `"djEuMi4wOjE3Nzc0NzkyMjk1ODg="`
+- fetched_at: `2026-05-06T04:04:28+00:00`
+- checked_at: `2026-05-06T04:04:28+00:00`
+- etag: `"djEuMi4wOjE3NzgwMzY0Mzk4MzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-04-29T16:53:35+00:00",
+  "fetched_at": "2026-05-06T04:04:28+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f7ec50d4d8940df77ceb21c492a6f428b2d8ba5d",
+      "title": "Montaigne",
+      "published_at": "2026-05-06T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/montaigne",
+      "description": "Australian musician, ARIA Award-winner and former Eurovision contestant Montaigne – aka Jessica Alyssa Cerro – is this week’s dream diner. Will James bring up 2016? Montaigne is touring Australia in August for the 10th anniversary of their Glorious Heights album. For dates and tickets go to montaignemusic.com.au Listen and buy Montaigne’s latest album ‘it’s hard to be a fish’ here . Follow Montaigne on Instagram and TikTok @actualmontaigne Watch the video version of this episode on the Off Menu YouTube on Thu 7 May. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1775730262300-7eb55087-67a0-4cac-aa50-4612a1cf2ce8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69d77fde47ecb945c27f02c7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92036896",
+      "itunes_duration": "1:16:41",
+      "speakers": [
+        "Aria Award-winner",
+        "Jessica Alys",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "montaigne"
+      ]
+    },
     {
       "key": "e17b4eea84f41f11170245863ca17872880e9a98",
       "title": "Ayoade Bamgboye",
@@ -8441,6 +8463,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — Montaigne — speakers: Aria Award-winner, Jessica Alys, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-29 — Ayoade Bamgboye — speakers: Best Newcomer, Ayoade Bamgboye, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-22 — Graham Norton — speakers: Graham Norton, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-15 — Brian Cox — speakers: Brian Cox, Ed Gamble, James Acaster, Ben Williams

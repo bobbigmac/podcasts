@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-05-04T14:30:19+00:00`
-- checked_at: `2026-05-04T14:30:19+00:00`
-- etag: `"djEuMi4wOjE3Nzc4OTU4MzQ5ODI="`
+- fetched_at: `2026-05-06T04:04:28+00:00`
+- checked_at: `2026-05-06T04:04:28+00:00`
+- etag: `"djEuMi4wOjE3NzgwMjI5OTkzMjk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-05-04T14:30:19+00:00",
+  "fetched_at": "2026-05-06T04:04:28+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "eb2fc48f7c574a5e2a9235b22d423799170e04b3",
+      "title": "Steaming Cocks (pt 1)",
+      "published_at": "2026-05-05T23:16:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/steaming-cocks-pt-1",
+      "description": "Elis James ( Elis James & John Robins ), Mike Bubbins ( Mammoth ) and producer Steff Garrero return for another episode of The Socially Distant Sports Bar — where sport, culture and conversational cul‑de‑sacs collide. 👉 For early, ad‑free listening and bonus content, subscribe on Apple Podcasts. PART 1 The lads catch up on the week before wandering into a discussion that starts with sport and ends somewhere deep inside a Carry On film. Mike and Elis take in an England cricketer having a go at Major League Baseball, Elis continues his fascination with cockles, and things slowly spiral from there. Mike: Hockey at 81 https://www.instagram.com/reel/DWOnZwHjV4V/?igsh=MTF6OGx3aXV4czNmZQ== Elis: Jon Welsh lives every prop’s dream — very briefly https://www.instagram.com/reel/DXCgqWxhgTI/?igsh=aW03eWM1cXh1MHl5 Steff: Harry Brook tries his hand at baseball https://www.youtube.com/watch?v=tleXz33ilb4 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69f888fa8dd960ac61d7a951/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "165475200",
+      "itunes_duration": "1:08:56",
+      "speakers": [
+        "Steaming Cocks",
+        "Elis James",
+        "John Robins",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "cocks"
+      ]
+    },
     {
       "key": "f6752bb31195335ca647394b0d92c0c53817b7ec",
       "title": "GloboPod: Pint Size",
@@ -14671,6 +14693,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — Steaming Cocks (pt 1) — speakers: Steaming Cocks, Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-05-02 — GloboPod: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-30 — Heseltine’s Mace (pt 2) — speakers: Heseltine’s Mace, Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-28 — Heseltine’s Mace (pt 1) — speakers: Heseltine’s Mace, Elis James, Mike Bubbins, Steff Garrero

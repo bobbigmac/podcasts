@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-05-05T22:12:13+00:00`
-- checked_at: `2026-05-05T22:12:13+00:00`
-- etag: `"djEuMi4wOjE3NzgwMTM5NTk5NjA="`
+- fetched_at: `2026-05-06T04:04:28+00:00`
+- checked_at: `2026-05-06T04:04:28+00:00`
+- etag: `"djEuMi4wOjE3NzgwMjU2Mzk3NjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-05-05T22:12:13+00:00",
+  "fetched_at": "2026-05-06T04:04:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e1d0aed245cc6a175cb4c87968e826d3dcd8c063",
+      "title": "Nish Kumar",
+      "published_at": "2026-05-06T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/nish-kumar",
+      "description": "We’ve got political comedy superstar Nish Kumar joining us for lunch this week! Nish is a political satirist, podcaster, comedian & TV host and he is fresh in from the USA where he has been on testing out his brand new tour, ‘Angry Humour From A Really Nice Guy’. Over lunch, we covered everything from creating the podcast 'Pod Save The UK', the delicious Keralan food his grandma made him when he was younger, where he will be eating around the UK on his tour, hosting a travel show with friend of the podcast Joel Dommett, where to find the best Indian food in London, and we find out what happened when Nish chased Boris Johnson down the street swearing at him…! Thank you for popping over Nish, you are a really nice guy. Don’t miss his upcoming tour ‘Angry Humour From A Really Nice Guy’ which starts in September. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1777999738530-e3596849-cb99-4bd4-8f26-1a649d5ae953.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/69fa01df2a1dd3f1a824c5b3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47068472",
+      "itunes_duration": "49:01",
+      "speakers": [
+        "Nish Kumar"
+      ],
+      "topics": [
+        "kumar"
+      ]
+    },
     {
       "key": "24f8e44884bde194a9d1af5fa444af43f02266f6",
       "title": "Phil Wang",
@@ -7083,6 +7101,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — Nish Kumar — speakers: Nish Kumar
 - 2026-04-29 — Phil Wang — speakers: Phil Wang
 - 2026-04-22 — Kristin Scott Thomas — speakers: Kristin Scott Thomas
 - 2026-04-15 — Kae Tempest — speakers: Kae Tempest

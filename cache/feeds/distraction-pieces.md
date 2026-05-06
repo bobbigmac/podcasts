@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-05-05T16:54:48+00:00`
-- checked_at: `2026-05-05T16:54:48+00:00`
-- etag: `"djEuMi4wOjE3Nzc5OTU1NzY4NTQ="`
+- fetched_at: `2026-05-06T04:04:28+00:00`
+- checked_at: `2026-05-06T04:04:28+00:00`
+- etag: `"djEuMi4wOjE3NzgwMzc2Mzk0MTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-05-05T16:54:48+00:00",
+  "fetched_at": "2026-05-06T04:04:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0c287eeb77a71bc733bf326f0fdfdb37a418bc89",
+      "title": "IZUKA HOYLE • the life and times of an immaculate action hero (Prisoner / Boiling Point / Big Boys) #670",
+      "published_at": "2026-05-06T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the absolute superstar of screens of all sizes IZUKA HOYLE ! A super delightful pick-me-up of an episode, featuring a true action star but someone who is infinitely capable of delivering whatever the role requires. Izuka and Pip share many mutual friends and this is where the chat excels, as through the miracle of telephone technology (okay let's walk that back a bit - two voice messages), we get to travel down a new portal in the conversation which is a lovely little distraction. Elsewhere though, of course we get to hear about all things stunt and action through 'Prisoner' and what that brought to the table, being handcuffed to a scene partner (and the important of chemistry in such a scenario), working on Jack Rooke's 'Big Boys', and how the whole acting world was approached and landed upon. Awesome stuff – enrich your week's listening! PIP'S PATREON PAGE if you're of a supporting nature INSTAGRAM IMDB PRISONER BOILING POINT SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1777994891124-1f8b553c-3590-411d-9080-47ccf6786d3b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69fa0f3882781c7c457a8842/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127732676",
+      "itunes_duration": "53:09",
+      "speakers": [],
+      "topics": [
+        "izuka",
+        "hoyle",
+        "life",
+        "time",
+        "action",
+        "hero",
+        "prisoner",
+        "boiling",
+        "point",
+        "boys"
+      ]
+    },
     {
       "key": "73b450e4b0c69e8ea2852d79f442b1c2f81812a0",
       "title": "RUTGER BREGMAN (Utopia For Realists / Humankind / Moral Ambition) • Friday Rewind",
@@ -18721,6 +18746,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — IZUKA HOYLE • the life and times of an immaculate action hero (Prisoner / Boiling Point / Big Boys) #670
 - 2026-05-01 — RUTGER BREGMAN (Utopia For Realists / Humankind / Moral Ambition) • Friday Rewind
 - 2026-04-29 — ADEEL AKHTAR • "dig where you stand" (Mass / Four Lions / Down Cemetary Road) #669
 - 2026-04-24 — BOOTS RILEY (Sorry To Bother You / I Love Boosters / rap legends The Coup) • Friday Rewind

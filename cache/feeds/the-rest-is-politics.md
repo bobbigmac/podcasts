@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-05-05T19:52:11+00:00`
-- checked_at: `2026-05-05T19:52:11+00:00`
-- last_modified: `Tue, 05 May 2026 17:22:56 GMT`
+- fetched_at: `2026-05-06T04:04:28+00:00`
+- checked_at: `2026-05-06T04:04:28+00:00`
+- last_modified: `Wed, 06 May 2026 02:29:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-05T19:52:11+00:00",
+  "fetched_at": "2026-05-06T04:04:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "8d450a2595838959bba9fb76a44d20c7609cd427",
+      "title": "528. Trump vs. Germany and Farage’s £5m ‘Gift’",
+      "published_at": "2026-05-05T23:00:00+00:00",
+      "link": null,
+      "description": "As Trump threatens to withdraw 5,000 troops from Germany, has European appeasement of Trump officially failed? Will historic local election losses for Labour trigger a change of Prime Minister? Why has Nigel Farage faced such little scrutiny on his £5 million ‘gift’ from a Thai-based crypto billionaire? Join Rory and Alastair as they answer all these questions and more. __________ Our new student discount : get TRIP membership for just £20 per year when you sign up using your university email at checkout on therestispolitics.com . Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, James Clayden Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/66347dfa-4884-11f1-9198-1f7746b89f64/image/f574a4e3223be0c89672b1b35f03d7b3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4526435591.mp3?updated=1778002068",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3694",
+      "speakers": [],
+      "topics": [
+        "trump",
+        "germany",
+        "farage",
+        "gift"
+      ]
+    },
     {
       "key": "dea84732adda7ef6b43bbc2e9e5a0b7989e8d2d6",
       "title": "Lucky or Left Behind? The Gen Z Money Story",
@@ -11743,6 +11762,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — 528. Trump vs. Germany and Farage’s £5m ‘Gift’
 - 2026-04-30 — Lucky or Left Behind? The Gen Z Money Story — speakers: Left Behind
 - 2026-04-29 — 527. Are American Tech Billionaires Threatening British Democracy?
 - 2026-04-28 — 526. Trump's Orwellian Maths and the King's Special Relationship Mission — speakers: Orwellian Maths

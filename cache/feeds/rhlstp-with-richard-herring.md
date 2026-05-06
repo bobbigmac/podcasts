@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-04T22:14:33+00:00`
-- checked_at: `2026-05-04T22:14:33+00:00`
-- etag: `"djEuMi4wOjE3Nzc5MzAzOTQwNDU="`
+- fetched_at: `2026-05-06T04:04:28+00:00`
+- checked_at: `2026-05-06T04:04:28+00:00`
+- etag: `"djEuMi4wOjE3NzgwMzYyNTkyNjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-04T22:14:33+00:00",
+  "fetched_at": "2026-05-06T04:04:28+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cd2752acf05fed56a46fa7aed2c7e22d165c6d50",
+      "title": "RHLSTP Book Club 178 - John Robins (Part 1)",
+      "published_at": "2026-05-06T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #178 - Thirst - Part one of a two part chat with John Robins about his book about his relationship and troubles with alcohol, Thirst. They chat about why he wanted to write this book, whether it was difficult to go back over the subject, why it made Rich want to gamble, how it’s helpful to deal honestly with your shame and the stupid stuff you’ve done in your life, epiphanies in stand up careers and why Jesus shouldn’t run a social media account Buy the book here - https://uk.bookshop.org/p/books/thirst-twelve-drinks-that-changed-my-life-john-robins/24157e3cdfc6ba19 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1777929486137-31ac4990-ec18-4009-9a60-44552830816b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69f90e453a143563ed9c61b3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27999926",
+      "itunes_duration": "55:15",
+      "speakers": [
+        "John Robins",
+        "Richard Herring"
+      ],
+      "topics": [
+        "rhlstp",
+        "book",
+        "club",
+        "john",
+        "robins"
+      ]
+    },
     {
       "key": "fc678ed89870f254c0574a46321cb0d6d4f60ce2",
       "title": "Retro RHLSTP 142 - Catherine Bohart",
@@ -22276,6 +22299,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — RHLSTP Book Club 178 - John Robins (Part 1) — speakers: John Robins, Richard Herring
 - 2026-05-04 — Retro RHLSTP 142 - Catherine Bohart — speakers: Catherine Bohart, Naked Beach, Great Yarmouth, Richard Herring
 - 2026-05-02 — RAACN week 14 — speakers: Richard Herring
 - 2026-05-01 — Retro Can I Have My Ball Back? - Episode 1 — speakers: Richard Herring

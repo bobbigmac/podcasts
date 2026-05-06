@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-05-05T16:54:48+00:00`
-- checked_at: `2026-05-05T16:54:48+00:00`
-- last_modified: `Tue, 05 May 2026 15:44:10 GMT`
+- fetched_at: `2026-05-06T04:04:28+00:00`
+- checked_at: `2026-05-06T04:04:28+00:00`
+- last_modified: `Tue, 05 May 2026 23:05:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-05T16:54:48+00:00",
+  "fetched_at": "2026-05-06T04:04:28+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "255ba3014631cb94ef494b8d126b6dd750788164",
+      "title": "Introducing: The Book Club",
+      "published_at": "2026-05-05T23:05:00+00:00",
+      "link": null,
+      "description": "Is The Hound of the Baskervilles the Greatest Mystery Ever Written? What is the true story that inspired Arthur Conan Doyle's best-seller? Why have there been so many portrayals of Sherlock Holmes and John Watson in media beyond the novels? Is this the greatest Sherlock story ever told? Find 'The Book Club' wherever you get your podcasts Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7706029701.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1396",
+      "speakers": [
+        "Greatest Mystery Ever Written",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "6485367591f1bfcf0ebd62ae33b440835706f76b",
       "title": "Will Ross Kemp Win Celebrity Traitors?",
@@ -5727,6 +5748,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-05 — Introducing: The Book Club — speakers: Greatest Mystery Ever Written, Richard Osman, Marina Hyde
 - 2026-05-04 — Will Ross Kemp Win Celebrity Traitors? — speakers: Will Ross Kemp, Richard Osman, Marina Hyde
 - 2026-04-29 — Our Most WTF Celebrity Couples — speakers: Bobby Brown, Richard Osman, Marina Hyde
 - 2026-04-27 — Bible Study With Russell Brand — speakers: Richard Osman, Marina Hyde
