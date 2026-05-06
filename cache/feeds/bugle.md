@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-04-29T16:53:35+00:00`
-- checked_at: `2026-04-29T16:53:35+00:00`
-- etag: `"djEuMi4wOjE3Nzc0NzQ4Mzk0MDI="`
+- fetched_at: `2026-05-06T16:54:05+00:00`
+- checked_at: `2026-05-06T16:54:05+00:00`
+- etag: `"djEuMi4wOjE3NzgwODQwNzIzMTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-04-29T16:53:35+00:00",
+  "fetched_at": "2026-05-06T16:54:05+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "ba38df4791dfee84cf5a13d6f46747a87cd48045",
+      "title": "The Bugle reviews King Charles' visit to the US",
+      "published_at": "2026-05-06T16:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/the-bugle-reviews-king-charles-visit-to-the-us",
+      "description": "On this week's issue of the Bugle, Andy is joined by Josie Long and sister Helen Zaltzman as the three dive into the week's news from The official Bugle review of King Charles' visit to the United States. Plus the latest ahead of the upcoming UK local elections, Canada Horse News and a Crucible streaker! 🇬🇧 The King's visit to USA: The official Bugle review as King Charles lands in the US 🇬🇧 UK Local Elections: The trio discuss the upcoming local elections 🎱 Crucible Streaker: Andy, Josie and Helen report on the disruptions of the Snooker Championships from crowd heckles to an OnlyFan model streaking! Andy's Links: https://www.andyzaltzman.co.uk/ Josie Long's Links: https://linktr.ee/josielongstuff? Helen Zaltzman's Links: https://linktr.ee/helenzaltzman 🎤 Get tickets for the LIVE episode of The Gargle HERE https://www.angelcomedy.co.uk/event-detail/the-gargle-live-fri-26th-jun-the-bill-murray-london-tickets-202606261800/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/69fb5779a3c5770dc9c7e539/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40009560",
+      "itunes_duration": "41:40",
+      "speakers": [
+        "Josie Long",
+        "Helen Zaltzman",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "bugle",
+        "king",
+        "charles",
+        "visit"
+      ]
+    },
     {
       "key": "9224c849206de9fbe11233eb383d0c27ee7f96d3",
       "title": "The King meets Trump",
@@ -14167,6 +14190,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — The Bugle reviews King Charles' visit to the US — speakers: Josie Long, Helen Zaltzman, Andy Zaltzman
 - 2026-04-29 — The King meets Trump — speakers: Alice Fraser, Nish Kumar, Andy Zaltzman
 - 2026-04-22 — US Navy comes up short (and hungry) — speakers: Tiff Stevenson, Neil Delamere, Andy Zaltzman
 - 2026-04-15 — The Denial Episode — speakers: Sara Barron, Anuvab Pal, Andy Zaltzman

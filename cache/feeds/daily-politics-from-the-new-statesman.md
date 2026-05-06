@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-05-06T14:46:14+00:00`
-- checked_at: `2026-05-06T14:46:14+00:00`
-- etag: `"djEuMi4wOjE3NzgwNzMxMzA1MjM="`
+- fetched_at: `2026-05-06T16:54:05+00:00`
+- checked_at: `2026-05-06T16:54:05+00:00`
+- etag: `"djEuMi4wOjE3NzgwODIyMzA0MjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-05-06T14:46:14+00:00",
+  "fetched_at": "2026-05-06T16:54:05+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "79944f40184b40d628736a9e61137437ab3d81b6",
+      "title": "The gutting of the two party system",
+      "published_at": "2026-05-06T15:43:50+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/the-gutting-of-the-two-party-system",
+      "description": "The UK is gearing up for local and devolved elections on Thursday. As Keir Starmer looks increasingly isolated as Prime Minister, much is being made of a potentially disastrous few days for the Labour Party. If results go as badly for Labour as some are predicting, this could be the end for the PM. Meanwhile, the insurgent Reform and Green parties are looking to continue their surging momentum. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1778082099271-27963c8a-e9f9-4a59-873f-bd7231d3b1d0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69fb5fa7991c56bfd835a174/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67068859",
+      "itunes_duration": "27:53",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "gutting",
+        "party",
+        "system"
+      ]
+    },
     {
       "key": "f06f7de48bdd6913a46283f23e4dd86e74f8c128",
       "title": "Zack Polanski: Corbyn's true heir?",
@@ -31159,6 +31180,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — The gutting of the two party system — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-05 — Zack Polanski: Corbyn's true heir? — speakers: Zack Polanski, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2026-05-02 — Charles, royal court jester | Will and Anoosh’s weekly round up — speakers: Emily Thornberry, Anoosh Chakelian, Oli Dugmore
 - 2026-04-30 — Attacks on Jews are an indictment of Keir Starmer's Britain — speakers: Tom McTague, Anoosh Chakelian, Oli Dugmore

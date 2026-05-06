@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-05-01T16:08:21+00:00`
-- checked_at: `2026-05-01T16:08:21+00:00`
-- etag: `"djEuMi4wOjE3Nzc2NDQwMzkzNzA="`
+- fetched_at: `2026-05-06T16:54:05+00:00`
+- checked_at: `2026-05-06T16:54:05+00:00`
+- etag: `"djEuMi4wOjE3NzgwODA1OTM1NTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-05-01T16:08:21+00:00",
+  "fetched_at": "2026-05-06T16:54:05+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,27 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "39c092d282755e46327ef79731ee212032034833",
+      "title": "Anaesthetized brains can still process podcasts",
+      "published_at": "2026-05-06T15:15:50+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01480-1",
+      "description": "In this episode: 00:42 Probing the unconscious brain’s processing ability Research Article: Katlowitz et al. Nature: Even the unconscious brain can learn — and predict what you’ll say next 12:32 Research Highlights Nature: An electrifying test to find a good coffee Nature: ​​​​​​​ Forest pests hit trees hard as temperatures rise Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69fb5b26a3c5770dc9c94e8d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14421122",
+      "itunes_duration": "15:00",
+      "speakers": [
+        "Research Article",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "brain",
+        "podcast"
+      ]
+    },
     {
       "key": "09ce6dd3e450d081b00dbcedafab99baa089b817",
       "title": "Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells",
@@ -19566,6 +19587,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — Anaesthetized brains can still process podcasts — speakers: Research Article, Benjamin Thompson, Noah Baker
 - 2026-05-01 — Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells — speakers: Benjamin Thompson, Noah Baker
 - 2026-04-29 — Immunity gets a boost from a surprising place — breakfast — speakers: Kumar et al, Benjamin Thompson, Noah Baker
 - 2026-04-24 — Inside the evidence revolution — how decision-making became data driven — speakers: Helen Pearson, Benjamin Thompson, Noah Baker
