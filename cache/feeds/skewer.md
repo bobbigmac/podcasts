@@ -2,10 +2,10 @@
 
 - slug: `skewer`
 - source: `https://podcasts.files.bbci.co.uk/m000czyb.rss`
-- fetched_at: `2026-05-01T10:43:13+00:00`
-- checked_at: `2026-05-01T10:43:13+00:00`
-- etag: `"fcb71a81315ee4762ec3484e0e4db459"`
-- last_modified: `Fri, 01 May 2026 09:40:57 GMT`
+- fetched_at: `2026-05-06T14:46:14+00:00`
+- checked_at: `2026-05-06T14:46:14+00:00`
+- etag: `"182947a0042dfeaf897845ec38bc75d5"`
+- last_modified: `Wed, 06 May 2026 12:16:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m000czyb",
   "description": "A twisted comedy treat. Jon Holmes brings you the week's biggest stories like you've never heard them before. The news remixed. Welcome to The Skewer. Headphones on. The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS New York Festival 2020 Audio Production Awards 2020 British Podcast Awards 2020 Audio Production Awards 2019 (Sound Design) Audio Production Awards 2020 An Unusual production for BBC Radio 4",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kvt4yr.jpg",
-  "fetched_at": "2026-05-01T10:43:13+00:00",
+  "fetched_at": "2026-05-06T14:46:14+00:00",
   "owners": [
     "Jon Holmes"
   ],

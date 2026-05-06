@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-05T14:23:38+00:00`
-- checked_at: `2026-05-05T14:23:38+00:00`
-- etag: `"djEuMi4wOjE3Nzc5ODk2Mzk2NjQ="`
+- fetched_at: `2026-05-06T14:46:14+00:00`
+- checked_at: `2026-05-06T14:46:14+00:00`
+- etag: `"djEuMi4wOjE3NzgwNjk4NDYzODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-05T14:23:38+00:00",
+  "fetched_at": "2026-05-06T14:46:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "ce7515ee8a9c1f40d2382d4f77016e905d44db37",
+      "title": "Economist explains how Big Banks are CHEATING Britain | James Meadway interview",
+      "published_at": "2026-05-06T12:12:18+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69fb3022a3c5770dc9ba2939",
+      "description": "James Meadway is an economist and Green Party candidate for Tower Hamlets council in tomorrow's local elections. He joined us in studio to talk about the campaign, his journey from being a member of Jeremy Corbyn's inner circle in his years of leadership of Labour to running for the Greens, and the need for the government to work in the interests of the people rather than to kow tow to big business. The candidates running in Bromley North are: Hirra Khan Adeogun - Green Party John Bullard - Reform UK Hamim Chowdhury - Labour Party Simon Nicholas Herbert - Liberal Democrats Samia Hersi - Conservative and Unionist Party Mohammed Ilyas - Aspire David Andre Lurie - Liberal Democrats Abdul Mannan - Aspire James George Edward Meadway - Green Party Abdul Mumin - Tower Hamlets Independents Sheikh Mohammed Nashar - Tower Hamlets Independents Shaheda Rowshonara Rahman - Labour Party Alex Reeves - Conservative and Unionist Party Lauren Riley - Trade Unionist and Socialist Coalition Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69fb3022a3c5770dc9ba2939/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41425632",
+      "itunes_duration": "21:33",
+      "speakers": [
+        "James Meadway"
+      ],
+      "topics": [
+        "economist",
+        "bank",
+        "britain",
+        "james",
+        "meadway"
+      ]
+    },
     {
       "key": "f192de1fabc392afb9aa84210188db46c8059d7b",
       "title": "Reform declare war on the Greens",
@@ -12793,6 +12815,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — Economist explains how Big Banks are CHEATING Britain | James Meadway interview — speakers: James Meadway
 - 2026-05-05 — Reform declare war on the Greens — speakers: Zia Yusuf
 - 2026-05-02 — This is why my constituents HATE Keir Starmer | Sorcha Eastwood Interview — speakers: Sorcha Eastwood
 - 2026-04-30 — Lefties clash over MPs drinking in Parliament — speakers: Stella Tsantekidou, Turn Left
