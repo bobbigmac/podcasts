@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-05-05T14:23:38+00:00`
-- checked_at: `2026-05-05T14:23:38+00:00`
-- last_modified: `Tue, 05 May 2026 12:42:07 GMT`
+- fetched_at: `2026-05-06T11:19:45+00:00`
+- checked_at: `2026-05-06T11:19:45+00:00`
+- last_modified: `Wed, 06 May 2026 04:16:58 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-05T14:23:38+00:00",
+  "fetched_at": "2026-05-06T11:19:45+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7fef49c63ae78a69929bcfa0d2f17f58cff370ed",
+      "title": "Please Keep Me Anonymous with Babatunde Aléshé",
+      "published_at": "2026-05-06T04:12:00+00:00",
+      "link": null,
+      "description": "On this week's podcast Chris and Rosie are joined by comedian, podcaster, Dad and Taskmaster alumni, Babatunde Aléshé! As well as discussing the highs and lows of parenting the three bond over turning 40! Babatunde also shares some parenting hacks... onions anyone? They also chat holiday destinations, back stage energy at comedy gigs and why Babatunde started a podcast with two of his best mates. You can listen to Man Like You which features Babatunde, Mo Gilligan and Eddie Kadi wherever you get your podcasts. For updates on Babatunde's live dates visit babatundealeshe.com If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3b622b70-487c-11f1-aa0b-674bd995fc8f/image/82dbfcd84376998d3b26ef3e970adc78.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1994201452.mp3?updated=1777984473",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2380",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "babatunde"
+      ]
+    },
     {
       "key": "0ace3b690a79885f1c2869c290378c1acc59d1a2",
       "title": "BFT's, Bum Washing Toilets and is Rosie Launching her Country Music Career?",
@@ -8266,6 +8286,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — Please Keep Me Anonymous with Babatunde Aléshé — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-05-01 — BFT's, Bum Washing Toilets and is Rosie Launching her Country Music Career? — speakers: Rosie Launching, Annoyed Chris, Rosie Ramsey, Chris Ramsey
 - 2026-04-29 — Please Keep Me Anonymous with Daniel Sloss — speakers: Daniel Sloss, Rosie Ramsey, Chris Ramsey
 - 2026-04-24 — Buzz Ballz, Pasta Puns and Safe Sex Tips from Chris! — speakers: Buzz Ballz, Chris Ramsey, Rosie Ramsey

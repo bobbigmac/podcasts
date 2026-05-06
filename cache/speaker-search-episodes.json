@@ -32288,6 +32288,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:d0969a5580fe",
+        "feed_title": "Hey! read this.",
+        "source_rss_url": "https://rss.buzzsprout.com/953494.rss",
+        "dedupe_key": "99f38def9edeccd7889c774062d2ee08abd2b7c7",
+        "episode_key": "99f38def9edeccd7889c774062d2ee08abd2b7c7",
+        "title": "Cloud Atlas by: David Mitchell with Zach Moning",
+        "published_at": "2024-05-28T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode B+V talk with their new friend Zach about Cloud Atlas by: David Mitchell and get extremely hyped to dive into some of Mr. Mitchell's other works in the future.  \n\n If you'd like to support the arts in Cincinnati and the wonderful work that Zach does with Artswave for our artistic community consider dona",
+        "audio_url": "https://www.buzzsprout.com/953494/episodes/15144662-cloud-atlas-by-david-mitchell-with-zach-moning.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/cloud-atlas-by-david-mitchell-with-zach-moning/id1648054922?i=1000656983512&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",

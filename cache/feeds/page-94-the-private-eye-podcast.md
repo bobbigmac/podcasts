@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-05-05T14:23:38+00:00`
-- checked_at: `2026-05-05T14:23:38+00:00`
-- etag: `W/"1d74b0174ab821e6aad1e6440eb1ac75"`
-- last_modified: `Tue, 21 Apr 2026 16:08:17 GMT`
+- fetched_at: `2026-05-06T11:19:45+00:00`
+- checked_at: `2026-05-06T11:19:45+00:00`
+- etag: `W/"a56f85a0251cb691be4068cb37a5d06b"`
+- last_modified: `Wed, 06 May 2026 10:19:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-05-05T14:23:38+00:00",
+  "fetched_at": "2026-05-06T11:19:45+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,26 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "3f78118c312a881ed88cce532dd647a13d4811bd",
+      "title": "173: The Antisemitism Spectrum",
+      "published_at": "2026-05-06T10:15:49+00:00",
+      "link": "https://audioboom.com/posts/8899816",
+      "description": "The team discuss antisemitism across the British political scene, Nigel Farage's £5million bung, and one of the (few) bits of Parliament that genuinely works.",
+      "image_url": "https://audioboom.com/i/43631597/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8899816.mp3?modified=1778062750&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2651",
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "antisemitism",
+        "spectrum"
+      ]
+    },
     {
       "key": "98101a433769ec1467cfff28e7c22c0f0334e564",
       "title": "172: A Kicking For Keir",
@@ -3675,6 +3695,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — 173: The Antisemitism Spectrum — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-04-21 — 172: A Kicking For Keir — speakers: Rotten Boroughs, Saba Salman, Andrew Hunter Murray, Ian Hislop
 - 2026-04-08 — 171: Meta's Not Better — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-03-24 — 170: Mad King Donald — speakers: Donald Ian, Richard Brooks, Andrew Hunter Murray, Ian Hislop

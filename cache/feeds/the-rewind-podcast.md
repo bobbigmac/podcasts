@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-05-05T08:27:26+00:00`
-- checked_at: `2026-05-05T08:27:26+00:00`
-- etag: `W/"163d7-moSJFrEF70hNoyKjz2pCO0QE49A"`
+- fetched_at: `2026-05-06T11:19:45+00:00`
+- checked_at: `2026-05-06T11:19:45+00:00`
+- etag: `W/"16aa5-FnhsbxX35PBH4auc3Ivyx5W3Ui8"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-05-05T08:27:26+00:00",
+  "fetched_at": "2026-05-06T11:19:45+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7543c814db08d14374d1d3747466c7a665fdc662",
+      "title": "Previewing the Big Movies of Summer 2026 | The Rewind Podcast",
+      "published_at": "2026-05-06T01:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Previewing-the-Big-Movies-of-Summer-2026--The-Rewind-Podcast-e3iv0fe",
+      "description": "This week on The Rewind, Darren, Jack, and Marty run down the slate of big movies releasing this summer. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/119553966/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-6%2F63cc1f54-bf4a-5eba-492e-4f7f6be8e398.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "259744928",
+      "itunes_duration": "03:00:22",
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "movies",
+        "summer",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "27dd821580709668f943ec43ca75114ad78197c0",
       "title": "Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast",
@@ -1145,6 +1168,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — Previewing the Big Movies of Summer 2026 | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-04-22 — Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-04-08 — The Super Mario Galaxy Movie Super Show! | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-03-25 — Project Hail Mary and Our Favorite Space Movies | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
