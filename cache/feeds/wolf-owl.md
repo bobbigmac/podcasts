@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-07T14:50:13+00:00`
-- checked_at: `2026-05-07T14:50:13+00:00`
-- last_modified: `Thu, 07 May 2026 13:54:04 GMT`
+- fetched_at: `2026-05-07T17:03:31+00:00`
+- checked_at: `2026-05-07T17:03:31+00:00`
+- last_modified: `Thu, 07 May 2026 16:53:46 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-07T14:50:13+00:00",
+  "fetched_at": "2026-05-07T17:03:31+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "33df697bc347727b6224f2a282e5fd964b1a37f1",
+      "title": "Mickey Drips, Paintball and Wedding Anniversaries",
+      "published_at": "2026-05-06T23:01:00+00:00",
+      "link": null,
+      "description": "Is it acceptable to wear clothing with your face on it? Do people still use handkerchiefs? And who invented Mickey Drips? Plus, this week we realise the importance of reading ahead and discuss how we deal with the grief of losing a member of your pack. Send your questions and thoughts to wolfowlpod@gmail.com and don’t forget to like and subscribe friend! A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 01:07 Wedding anniversaries 03:27 T-shirt role play 08:34 Blooper 09:18 Pets passing 15:19 Mickey Drips Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/076b06d2-4874-11f1-ad48-c36c91ba0e63/image/c9b5919f05de239d9a16ea0f83ca133d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9443775491.mp3?updated=1778172587",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1353",
+      "speakers": [
+        "Mickey Drips",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "mickey",
+        "drips",
+        "paintball",
+        "wedding",
+        "anniversary"
+      ]
+    },
     {
       "key": "0c516fe85f2ae105a7819997c88f3ed86da4e2e3",
       "title": "Theme Parks, Bucket Lists and Tattoos",
@@ -5459,83 +5483,13 @@
       "topics": []
     },
     {
-      "key": "91a3f1327d66e658bd6e5046362908e4aa7c2a82",
-      "title": "Episode 44",
-      "published_at": "2021-10-06T06:00:24+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-44",
-      "description": "We’re talking… sore throats and posture straps, osteopathy cults, social media meltdowns and some very exciting trainspotting news. Then some of your email questions on someone getting your name wrong, celebrating a retirement and how to tell if a guy’s into you. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/84a01e90-4831-11ed-b685-b76f081ca43c/image/cove.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6639689423.mp3?updated=1708389534",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3804",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": []
-    },
-    {
-      "key": "81574a64081926f581a171c4830e20d1cf182cdc",
-      "title": "Episode 43",
-      "published_at": "2021-09-29T06:00:44+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-43",
-      "description": "We’re talking… toenails, unfortunate lookalikes, lipcare, ear specialists, the invention of plates, and the scourge of parsley and rocket. Then some email question advice on noisey neighbour sex, how to break a pet’s death to your child, the rights or wrongs of paying compliments and toxic ball syndrome. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/85198082-4831-11ed-b685-934f72af8035/image/cove.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3573894421.mp3?updated=1708389506",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3976",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": []
-    },
-    {
-      "key": "f28aea0fc0cbf93a7fcbeebf967f823cd81539a7",
-      "title": "Bonus Email Episode #22",
-      "published_at": "2021-09-24T06:00:03+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/bonus-email-episode-22",
-      "description": "The Wolf & Owl Bonus Episode is back! In this week's show, we tackle... a query on real friendships, updates on the meat drought and DOMS awareness, collecting dead dogs' teeth, getting on well with kids, a new pair of kittens and a disappointing experience losing your virginity. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/85782b96-4831-11ed-b685-eb75f5caf2ee/image/cove.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1509089720.mp3?updated=1708363090",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3184",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "email"
-      ]
-    },
-    {
-      "key": "3c7791ba21be5e35f8030e6879b0c39acf28795e",
-      "title": "Episode 42",
-      "published_at": "2021-09-22T06:00:43+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-42",
-      "description": "We’re talking… exercise routine recoveries, DOMS and ray guns, airfryer-gate, meat droughts, abattoirs and fast food serial killers. Then after a quick apology, we answer some email questions on a 40th birthday outfit, Wikipedia pages, BO solutions, feet on train seats and Married at First Sight UK. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/85d58dc2-4831-11ed-b685-678ad1fc4e23/image/cove.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5124987638.mp3?updated=1708363040",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3756",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": []
-    },
-    {
       "key": "58dda8d600a1d35031b7e04fd3b0ce94f9eac820",
       "title": "Episode 41",
-      "published_at": "2021-09-15T06:00:15+00:00",
+      "published_at": "2021-09-15T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-41",
-      "description": "We’re talking… late night food orders, the evolution of ovens, the cult of air-fryers, body odour issues and deodorant mash-ups. Then some of your email questions answered on the appeal of lab-grown meat products, wearing a football shirt on a first date and moving things on in a relationship. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… late night food orders, the evolution of ovens, the cult of air-fryers, body odour issues and deodorant mash-ups. Then some of your email questions answered on the appeal of lab-grown meat products, wearing a football shirt on a first date and moving things on in a relationship. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/86304f64-4831-11ed-b685-7bc335817dde/image/cove.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8647454897.mp3?updated=1708363007",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8647454897.mp3?updated=1778167158",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3977",
@@ -6652,6 +6606,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — Mickey Drips, Paintball and Wedding Anniversaries — speakers: Mickey Drips, Romesh Ranganathan, Tom Davis
 - 2026-05-04 — Theme Parks, Bucket Lists and Tattoos — speakers: Theme Parks, Bucket Lists, Will Tom, Romesh Ranganathan, Tom Davis
 - 2026-04-30 — Ozempic, Vaping and Rita Ora — speakers: Romesh Ranganathan, Tom Davis
 - 2026-04-27 — Leonardo Di Caprio, Jason Momoa and Fashion Regrets — speakers: Leonardo Di Caprio, Louis Walsh, Romesh Ranganathan, Tom Davis
@@ -6908,10 +6863,6 @@
 - 2021-10-27 — Episode 47 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-10-20 — Episode 46 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-10-13 — Episode 45 — speakers: Romesh Ranganathan, Tom Davis
-- 2021-10-06 — Episode 44 — speakers: Romesh Ranganathan, Tom Davis
-- 2021-09-29 — Episode 43 — speakers: Romesh Ranganathan, Tom Davis
-- 2021-09-24 — Bonus Email Episode #22 — speakers: Romesh Ranganathan, Tom Davis
-- 2021-09-22 — Episode 42 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-15 — Episode 41 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-08 — Episode 40 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-01 — Episode 39 — speakers: Romesh Ranganathan, Tom Davis

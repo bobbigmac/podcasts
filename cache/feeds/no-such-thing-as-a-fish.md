@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-05-05T14:23:38+00:00`
-- checked_at: `2026-05-05T14:23:38+00:00`
-- etag: `W/"b21cf1e5d893da600471f1e45762bc64"`
-- last_modified: `Sun, 03 May 2026 22:58:00 GMT`
+- fetched_at: `2026-05-07T17:03:31+00:00`
+- checked_at: `2026-05-07T17:03:31+00:00`
+- etag: `W/"93011981ccd24963b1f629d0b5832d11"`
+- last_modified: `Thu, 07 May 2026 16:20:53 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-05-05T14:23:38+00:00",
+  "fetched_at": "2026-05-07T17:03:31+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -345,10 +345,10 @@
       "link": "https://audioboom.com/posts/8876104",
       "description": "Nina Conti joins Dan, James and Andy to discuss ventriloquists, gogillath, Shakestheare, and Twintheth Nargaret. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
       "image_url": "https://audioboom.com/i/43538723.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8876104.mp3?modified=1773933442&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8876104.mp3?modified=1778170867&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3604",
+      "itunes_duration": "3516",
       "speakers": [
         "Shakespeare Burger",
         "Nina Conti",
@@ -492,7 +492,7 @@
       "link": "https://audioboom.com/posts/8866484",
       "description": "Melanie Bracewell joins Dan, James and Andy to discuss springtime, snot and Selena Gomez. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43498411.png",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8866484.mp3?modified=1772110328&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8866484.mp3?modified=1776416796&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3142",

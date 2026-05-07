@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/?page=5",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/?page=5",
-  "fetched_at": "2026-05-07T14:50:13+00:00",
+  "fetched_at": "2026-05-07T17:03:31+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/?page=6",
   "episodes": [
+    {
+      "key": "05bfbd7b711ffa4b570afaa124df58a2a07e587b",
+      "guid": "564e226e-e5bb-43b8-9644-2bcc29742fc4",
+      "title": "Peacock and Gamble (13th March)",
+      "published_at": "2025-03-13T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-13th-march/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1741885324-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=564e226e-e5bb-43b8-9644-2bcc29742fc4&awCollectionId=fubar_radio-standalone&providerId=fubar_ra",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "9429b2f479c13249ae1c5020fc19dfa7420d3686",
       "guid": "4cf00984-3d6f-4c39-a9fa-215d0e212a69",
@@ -380,19 +393,6 @@
       "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
       "image_url": "https://mm.aiircdn.com/177/783129.png",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1732878421-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=7ba16685-4be1-4b0a-9c6c-67c2c6603428&awCollectionId=fubar_radio-standalone&providerId=fubar_ra",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "6a768be725c4b69abe0611f8790c4340fa9e4d43",
-      "guid": "aa5b1bd1-87f6-4a19-a44f-ff791caefcff",
-      "title": "Peacock and Gamble",
-      "published_at": "2024-11-28T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble/",
-      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
-      "image_url": "https://mm.aiircdn.com/177/783129.png",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1732813309-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=aa5b1bd1-87f6-4a19-a44f-ff791caefcff&awCollectionId=fubar_radio-standalone&providerId=fubar_ra",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null

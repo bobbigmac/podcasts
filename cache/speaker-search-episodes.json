@@ -31845,6 +31845,28 @@
     ],
     "david-mitchell": [
       {
+        "feed_slug": "external:apple:26a188c3b684",
+        "feed_title": "The Gill Athletics Track and Field Connections Podcast",
+        "source_rss_url": "https://anchor.fm/s/10ea86d8/podcast/rss",
+        "dedupe_key": "cbdc00f12bfccaddf651ea8b8f290d43578daca4",
+        "episode_key": "cbdc00f12bfccaddf651ea8b8f290d43578daca4",
+        "title": "#155: Gill1918 presents Track Tribe LIVE: (Part 2) \"Teaching Across Generations\" with David Mitchell hosted by Kyle Jones",
+        "published_at": "2026-05-07T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "🌟Explore Our Library: Dive into over 350 episodes featuring insights from coaching legends such asBoo Schexnayder and Dan Pfaff, Diljeet Taylor (BYU) and Beth Alford-Sullivan, as well as superstar coaches Petros Kyprianou (Illinois),Althea Thomas (Vanderbilt) and many more! Find us on Twitch.tv, YouTube, Apple Podcasts",
+        "audio_url": "https://anchor.fm/s/10ea86d8/podcast/play/117706769/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-30%2F18f952a4-7626-d289-36ab-30f852d76d4f.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/155-gill1918-presents-track-tribe-live-part-2-teaching/id1500782760?i=1000766564589&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:a148332efdc1",
         "feed_title": "The Moment with Miles Jupp",
         "source_rss_url": "https://anchor.fm/s/10a505c0c/podcast/rss",
