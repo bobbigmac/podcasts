@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-06T14:46:14+00:00`
-- checked_at: `2026-05-06T14:46:14+00:00`
-- etag: `"djEuMi4wOjE3NzgwNjk4NDYzODM="`
+- fetched_at: `2026-05-07T14:50:13+00:00`
+- checked_at: `2026-05-07T14:50:13+00:00`
+- etag: `"djEuMi4wOjE3NzgxNTg4Mzk1MzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,31 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-06T14:46:14+00:00",
+  "fetched_at": "2026-05-07T14:50:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "33e94a3d9302dee0afc42f9548e69c410cfeeb68",
+      "title": "Hormuz Crisis: This is what resilient infrastructure looks like",
+      "published_at": "2026-05-07T13:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69fc7a4e051b78474eb914e8",
+      "description": "﻿Donald Trump's war with Iran has led many to a rethink of the global economy. With his presidency already weakening relations between Britain and the US and uniting European nations, events like the blockade of the Strait of Hormuz raise further questions about our dependency on the global oil markets, as well as fossil fuels altogether. Edward Fitzpatrick of ConFlow Power Group joins Ava to imagine what greener, smarter, genuinely resilient infrastructure could look like in Britain and beyond, and peels back the curtain on the AI powering it. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69fc7a4e051b78474eb914e8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55301001",
+      "itunes_duration": "38:23",
+      "speakers": [],
+      "topics": [
+        "hormuz",
+        "crisis",
+        "infrastructure"
+      ]
+    },
     {
       "key": "ce7515ee8a9c1f40d2382d4f77016e905d44db37",
       "title": "Economist explains how Big Banks are CHEATING Britain | James Meadway interview",
@@ -12815,6 +12833,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — Hormuz Crisis: This is what resilient infrastructure looks like
 - 2026-05-06 — Economist explains how Big Banks are CHEATING Britain | James Meadway interview — speakers: James Meadway
 - 2026-05-05 — Reform declare war on the Greens — speakers: Zia Yusuf
 - 2026-05-02 — This is why my constituents HATE Keir Starmer | Sorcha Eastwood Interview — speakers: Sorcha Eastwood
