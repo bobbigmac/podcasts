@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-07T17:03:31+00:00`
-- checked_at: `2026-05-07T17:03:31+00:00`
-- last_modified: `Thu, 07 May 2026 16:53:46 GMT`
+- fetched_at: `2026-05-07T19:53:38+00:00`
+- checked_at: `2026-05-07T19:53:38+00:00`
+- last_modified: `Thu, 07 May 2026 17:33:58 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-07T17:03:31+00:00",
+  "fetched_at": "2026-05-07T19:53:38+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,30 +27,6 @@
     "comedy"
   ],
   "episodes": [
-    {
-      "key": "33df697bc347727b6224f2a282e5fd964b1a37f1",
-      "title": "Mickey Drips, Paintball and Wedding Anniversaries",
-      "published_at": "2026-05-06T23:01:00+00:00",
-      "link": null,
-      "description": "Is it acceptable to wear clothing with your face on it? Do people still use handkerchiefs? And who invented Mickey Drips? Plus, this week we realise the importance of reading ahead and discuss how we deal with the grief of losing a member of your pack. Send your questions and thoughts to wolfowlpod@gmail.com and don’t forget to like and subscribe friend! A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 01:07 Wedding anniversaries 03:27 T-shirt role play 08:34 Blooper 09:18 Pets passing 15:19 Mickey Drips Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/076b06d2-4874-11f1-ad48-c36c91ba0e63/image/c9b5919f05de239d9a16ea0f83ca133d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9443775491.mp3?updated=1778172587",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "1353",
-      "speakers": [
-        "Mickey Drips",
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "mickey",
-        "drips",
-        "paintball",
-        "wedding",
-        "anniversary"
-      ]
-    },
     {
       "key": "0c516fe85f2ae105a7819997c88f3ed86da4e2e3",
       "title": "Theme Parks, Bucket Lists and Tattoos",
@@ -5483,6 +5459,25 @@
       "topics": []
     },
     {
+      "key": "f28aea0fc0cbf93a7fcbeebf967f823cd81539a7",
+      "title": "Bonus Email Episode #22",
+      "published_at": "2021-09-24T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/bonus-email-episode-22",
+      "description": "The Wolf & Owl Bonus Episode is back! In this week's show, we tackle... a query on real friendships, updates on the meat drought and DOMS awareness, collecting dead dogs' teeth, getting on well with kids, a new pair of kittens and a disappointing experience losing your virginity. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1509089720.mp3?updated=1778169802",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3184",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "email"
+      ]
+    },
+    {
       "key": "58dda8d600a1d35031b7e04fd3b0ce94f9eac820",
       "title": "Episode 41",
       "published_at": "2021-09-15T07:00:00+00:00",
@@ -6606,7 +6601,6 @@
 
 ## Episodes (newest first)
 
-- 2026-05-06 — Mickey Drips, Paintball and Wedding Anniversaries — speakers: Mickey Drips, Romesh Ranganathan, Tom Davis
 - 2026-05-04 — Theme Parks, Bucket Lists and Tattoos — speakers: Theme Parks, Bucket Lists, Will Tom, Romesh Ranganathan, Tom Davis
 - 2026-04-30 — Ozempic, Vaping and Rita Ora — speakers: Romesh Ranganathan, Tom Davis
 - 2026-04-27 — Leonardo Di Caprio, Jason Momoa and Fashion Regrets — speakers: Leonardo Di Caprio, Louis Walsh, Romesh Ranganathan, Tom Davis
@@ -6863,6 +6857,7 @@
 - 2021-10-27 — Episode 47 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-10-20 — Episode 46 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-10-13 — Episode 45 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-09-24 — Bonus Email Episode #22 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-15 — Episode 41 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-08 — Episode 40 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-01 — Episode 39 — speakers: Romesh Ranganathan, Tom Davis
