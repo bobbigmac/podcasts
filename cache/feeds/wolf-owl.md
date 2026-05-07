@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-06T20:01:07+00:00`
-- checked_at: `2026-05-06T20:01:07+00:00`
-- last_modified: `Wed, 06 May 2026 19:09:01 GMT`
+- fetched_at: `2026-05-07T11:18:28+00:00`
+- checked_at: `2026-05-07T11:18:28+00:00`
+- last_modified: `Thu, 07 May 2026 11:12:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-06T20:01:07+00:00",
+  "fetched_at": "2026-05-07T11:18:28+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -5597,40 +5597,6 @@
       "topics": []
     },
     {
-      "key": "76e54109e1fd261ee59be12a30d5f24de4524e82",
-      "title": "Episode 37",
-      "published_at": "2021-08-18T06:00:00+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode37",
-      "description": "We’re talking… dad jokes, losing a beard, hiding some fish, waterpark worries and swimming pool pranks. Followed by some more of your emails, with questions on favourite TV night snacks and how the Wolf and Owl would cope with military training. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/87bcb124-4831-11ed-b685-cbd2ea2c1efd/image/611fbb2615a1aa001297f2e0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8657281819.mp3?updated=1708047818",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3881",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": []
-    },
-    {
-      "key": "057ccc28e5ae5e49b48b5e0ac78752f69dfbb4b5",
-      "title": "Episode 36",
-      "published_at": "2021-08-11T06:00:00+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode36",
-      "description": "We’re talking… summer holidays! The greatest pair of sliders ever made, beachwear and holiday meals, clean lines in clothing, gaming the Pizza Hut buffet deal and a medley of swimming successes and failures. Plus, we answer some email qustions about revealing your past whilst dating, problems with a career in sport and acting alongside a close friend. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/88592112-4831-11ed-b685-db177f89a3c0/image/611fbb2615a1aa001297f2e7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7452191327.mp3?updated=1708045331",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3812",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": []
-    },
-    {
       "key": "b4014cd0cebc768953f94b70c89f1f8fd9980534",
       "title": "Episode 35",
       "published_at": "2021-08-04T07:00:00+00:00",
@@ -6916,8 +6882,6 @@
 - 2021-09-08 — Episode 40 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-01 — Episode 39 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-08-25 — Episode 38 — speakers: Romesh Ranganathan, Tom Davis
-- 2021-08-18 — Episode 37 — speakers: Romesh Ranganathan, Tom Davis
-- 2021-08-11 — Episode 36 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-08-04 — Episode 35 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-07-28 — Episode 34 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-07-23 — Bonus Email Episode #21 — speakers: Romesh Ranganathan, Tom Davis

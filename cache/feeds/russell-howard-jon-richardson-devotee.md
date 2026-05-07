@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-05-07T08:47:42+00:00`
-- checked_at: `2026-05-07T08:47:42+00:00`
-- etag: `W/"2d290-10I3Py8KBOWe9hTRE4SNNnD6pfk"`
+- fetched_at: `2026-05-07T11:18:28+00:00`
+- checked_at: `2026-05-07T11:18:28+00:00`
+- etag: `W/"2d7d6-6ZXcUNs08JEUy3LrbhivHFX3LGE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,40 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-05-07T08:47:42+00:00",
+  "fetched_at": "2026-05-07T11:18:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a649d32808beaa9cbab96e486ff242b58c25f853",
+      "title": "Josh Widdicombe XFM #8 – Alan Carr, James Acaster Classic Scrape 8",
+      "published_at": "2026-05-06T18:56:36+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-8--Alan-Carr--James-Acaster-Classic-Scrape-8-e3j09mb",
+      "description": "Alan Carr joins Josh in the studio and James Acaster delivers the 8th part in the Classic Scrape anthology.Broadcast on 26th February 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1778093792360-109f68e5b7c3c.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/119596171/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-6%2Fcb2dbc5e-e824-d0c8-4cf3-983b3ae93d90.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55215175",
+      "itunes_duration": "00:57:30",
+      "speakers": [
+        "Alan Carr",
+        "James Acaster Classic Scrape",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "alan",
+        "carr",
+        "james",
+        "acaster",
+        "classic",
+        "scrape"
+      ]
+    },
     {
       "key": "f33a212dbbb1f182c110fd5c707675286363c78e",
       "title": "Josh Widdicombe XFM #7 – James Acaster Classic Scrape 7, Joe Lycett on Chris Huhne & Vicky Pryce",
@@ -3282,6 +3309,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — Josh Widdicombe XFM #8 – Alan Carr, James Acaster Classic Scrape 8 — speakers: Alan Carr, James Acaster Classic Scrape, James Acaster
 - 2026-05-05 — Josh Widdicombe XFM #7 – James Acaster Classic Scrape 7, Joe Lycett on Chris Huhne & Vicky Pryce — speakers: James Acaster Classic Scrape, Joe Lycett, Vicky Pryce, James Acaster, Chris Huhne
 - 2026-04-30 — Josh Widdicombe XFM #6 – Adam Hills & Alex Brooker, James Acaster Classic Scrape 6, Joe Lycett — speakers: Alex Brooker, James Acaster Classic Scrape, Joe Lycett Adam Hills, James Acaster
 - 2026-04-29 — Josh Widdicombe XFM #5 – James Acaster Classic Scrape 5, Joe Lycett on The Italian Elections — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster

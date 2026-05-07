@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-05-07T04:04:45+00:00`
-- checked_at: `2026-05-07T04:04:45+00:00`
-- last_modified: `Thu, 07 May 2026 01:59:27 GMT`
+- fetched_at: `2026-05-07T11:18:28+00:00`
+- checked_at: `2026-05-07T11:18:28+00:00`
+- last_modified: `Thu, 07 May 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-07T04:04:45+00:00",
+  "fetched_at": "2026-05-07T11:18:28+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,29 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "df28fe0fc081652c3ca9addbef6b4828b1d3ef23",
+      "title": "Turning Constraints Into Breakthroughs with David Epstein",
+      "published_at": "2026-05-07T09:00:00+00:00",
+      "link": null,
+      "description": "Is freedom overrated? In his new book, Inside the Box , David Epstein argues that constraints, limits and obstacles are what stimulate creativity, innovation, collaboration and personal contentment. 📦 Get David’s new book delivered straight to your door by joining the Next Big Idea Club! Learn more at nextbigideaclub.com (use code PODCAST for 20% off). 🔗 SPONSORED BY: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months. Just head to granola.ai/idea Incogni — Protect your personal information online and get an exclusive 60% off an annual plan at incogni.com/nbi Quince — Refresh your spring wardrobe and get free shipping and 365-day returns at quince.com/nbi Shopify — Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP8007946053.mp3?updated=1778119461",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5208",
+      "speakers": [
+        "David Epstein",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "constraints",
+        "breakthroughs",
+        "david",
+        "epstein"
+      ]
+    },
     {
       "key": "e1a0fd61428152fcfa65ad12cf7666eb2fcc620c",
       "title": "You're in the Hospitality Business (Whether You Know It or Not)",
@@ -7667,6 +7690,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — Turning Constraints Into Breakthroughs with David Epstein — speakers: David Epstein, Rufus Griscom, Caleb Bissinger
 - 2026-05-04 — You're in the Hospitality Business (Whether You Know It or Not) — speakers: Will Guidara, Rufus Griscom, Caleb Bissinger
 - 2026-04-30 — We're Still Thinking About This Conversation with Will Guidara — speakers: Will Guidara, Rufus Griscom, Caleb Bissinger
 - 2026-04-27 — Here’s Our Favorite Book of the Season — speakers: Rufus Griscom, Caleb Bissinger
