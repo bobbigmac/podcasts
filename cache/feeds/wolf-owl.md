@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-07T19:53:38+00:00`
-- checked_at: `2026-05-07T19:53:38+00:00`
-- last_modified: `Thu, 07 May 2026 17:33:58 GMT`
+- fetched_at: `2026-05-07T22:16:03+00:00`
+- checked_at: `2026-05-07T22:16:03+00:00`
+- last_modified: `Thu, 07 May 2026 19:55:59 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-07T19:53:38+00:00",
+  "fetched_at": "2026-05-07T22:16:03+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -5459,6 +5459,40 @@
       "topics": []
     },
     {
+      "key": "91a3f1327d66e658bd6e5046362908e4aa7c2a82",
+      "title": "Episode 44",
+      "published_at": "2021-10-06T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-44",
+      "description": "We’re talking… sore throats and posture straps, osteopathy cults, social media meltdowns and some very exciting trainspotting news. Then some of your email questions on someone getting your name wrong, celebrating a retirement and how to tell if a guy’s into you. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/84a01e90-4831-11ed-b685-b76f081ca43c/image/cove.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6639689423.mp3?updated=1778172831",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3804",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
+      "key": "81574a64081926f581a171c4830e20d1cf182cdc",
+      "title": "Episode 43",
+      "published_at": "2021-09-29T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-43",
+      "description": "We’re talking… toenails, unfortunate lookalikes, lipcare, ear specialists, the invention of plates, and the scourge of parsley and rocket. Then some email question advice on noisey neighbour sex, how to break a pet’s death to your child, the rights or wrongs of paying compliments and toxic ball syndrome. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/85198082-4831-11ed-b685-934f72af8035/image/cove.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3573894421.mp3?updated=1778170736",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3975",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
       "key": "f28aea0fc0cbf93a7fcbeebf967f823cd81539a7",
       "title": "Bonus Email Episode #22",
       "published_at": "2021-09-24T07:00:00+00:00",
@@ -5476,6 +5510,23 @@
       "topics": [
         "email"
       ]
+    },
+    {
+      "key": "3c7791ba21be5e35f8030e6879b0c39acf28795e",
+      "title": "Episode 42",
+      "published_at": "2021-09-22T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-42",
+      "description": "We’re talking… exercise routine recoveries, DOMS and ray guns, airfryer-gate, meat droughts, abattoirs and fast food serial killers. Then after a quick apology, we answer some email questions on a 40th birthday outfit, Wikipedia pages, BO solutions, feet on train seats and Married at First Sight UK. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/85d58dc2-4831-11ed-b685-678ad1fc4e23/image/cove.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5124987638.mp3?updated=1778169052",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3756",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
     },
     {
       "key": "58dda8d600a1d35031b7e04fd3b0ce94f9eac820",
@@ -6857,7 +6908,10 @@
 - 2021-10-27 — Episode 47 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-10-20 — Episode 46 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-10-13 — Episode 45 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-10-06 — Episode 44 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-09-29 — Episode 43 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-24 — Bonus Email Episode #22 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-09-22 — Episode 42 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-15 — Episode 41 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-08 — Episode 40 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-01 — Episode 39 — speakers: Romesh Ranganathan, Tom Davis

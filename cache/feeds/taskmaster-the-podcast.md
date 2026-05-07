@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-04-30T22:09:07+00:00`
-- checked_at: `2026-04-30T22:09:07+00:00`
-- etag: `"d3e02-650b38a35e66a"`
-- last_modified: `Thu, 30 Apr 2026 20:45:08 GMT`
+- fetched_at: `2026-05-07T22:16:03+00:00`
+- checked_at: `2026-05-07T22:16:03+00:00`
+- etag: `"d473f-651405b1eee29"`
+- last_modified: `Thu, 07 May 2026 20:45:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-04-30T22:09:07+00:00",
+  "fetched_at": "2026-05-07T22:16:03+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "01ebd879430fc2c57f01b1effc4efa37b782c83e",
+      "title": "Joel Dommett - Series 21 Ep.5",
+      "published_at": "2026-05-07T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "On this week's podcast Ed is joined by comedian, presenter and podcaster, Joel Dommett! As well as chatting through Epsiode 5 of Series 21, the pair cover lots more, including; a phone call, a wasp, some comedy nostalgia and a fair amount of tattoo chat. Plus, Joel gets to us the word 'phwoar'! *NO WASPS WERE HARMED DURING THE RECORDING OF THIS PODCAST* Next week Ed will be joined by the brilliant comedian, actor and star of Series 21, Amy Gledhill. For all your Taskmaster News visit Taskmaster.tv And to catch up on Taskmaster go to channel4.com",
+      "image_url": "https://artwork.captivate.fm/8a31778a-5f10-49fd-bbd3-0b670c2ba5d4/TASKMASTER-PODCAST-ARTWORK-Joel-v1.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/36cdb35b-f1da-4f24-b6ab-aaf75a3cad35.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=36cdb35b-f1da-4f24-b6ab-aaf75a3cad35",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71553624",
+      "itunes_duration": "01:14:32",
+      "speakers": [
+        "Joel Dommett",
+        "Ed Gamble"
+      ],
+      "topics": [
+        "joel",
+        "dommett",
+        "series"
+      ]
+    },
     {
       "key": "d5ad24285da3398b8e20dd2d4604de5bc95576b5",
       "title": "Jenny Eclair - Series 21 Ep.4",
@@ -5318,6 +5339,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — Joel Dommett - Series 21 Ep.5 — speakers: Joel Dommett, Ed Gamble
 - 2026-04-30 — Jenny Eclair - Series 21 Ep.4 — speakers: Jenny Eclair, Ed Gamble
 - 2026-04-23 — Joanna Page - Series 21 Ep.3 — speakers: Ed Gamble
 - 2026-04-16 — Armando Iannucci - Series 21 Ep.2 — speakers: Ed Gamble
