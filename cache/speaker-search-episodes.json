@@ -23462,6 +23462,28 @@
     ],
     "mike-wozniak": [
       {
+        "feed_slug": "external:apple:f7b0ad5c7df5",
+        "feed_title": "Pappy's Flatshare",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR6478712326",
+        "dedupe_key": "94f32d52386dbdd12983af7b1f6ddabf8f3d0863",
+        "episode_key": "94f32d52386dbdd12983af7b1f6ddabf8f3d0863",
+        "title": "Pappy's Flatshare Slamdown ep 1614: Rosie Jones & Mike Wozniak",
+        "published_at": "2026-05-05T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This month we're joined by the amazing Rosie Jones & Mike Wozniak.\n\nPappy's Flatshare Slamdown is a silly panel show, recorded in front of a live audience and hosted by Matthew Crosby, Ben Clark and Tom Parry-Wicks.\n\nRosie Jones - https://www.instagram.com/josierones/\n\nMike Wozniak -  https://www.instagram.com/mrmikewo",
+        "audio_url": "https://traffic.megaphone.fm/NSR5641701590.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/pappys-flatshare-slamdown-ep-1614-rosie-jones-mike-wozniak/id437801391?i=1000766338844&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Mike Wozniak"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f4add41b198d",
         "feed_title": "Beef And Dairy Network",
         "source_rss_url": "https://feeds.simplecast.com/4NOSW3hj",

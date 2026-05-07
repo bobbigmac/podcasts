@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-05-06T16:54:05+00:00`
-- checked_at: `2026-05-06T16:54:05+00:00`
-- last_modified: `Wed, 06 May 2026 15:52:45 GMT`
+- fetched_at: `2026-05-07T04:04:45+00:00`
+- checked_at: `2026-05-07T04:04:45+00:00`
+- last_modified: `Wed, 06 May 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-06T16:54:05+00:00",
+  "fetched_at": "2026-05-07T04:04:45+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "0cbf14a06bba5b7b114c93aa2d101ea52bb891ce",
+      "title": "Shanthi on Being an Immigrant in the 70s & Superstitions",
+      "published_at": "2026-05-06T23:01:00+00:00",
+      "link": null,
+      "description": "Who would direct Shanthi's documentary about her life? Romesh and Shanthi are back in the studio, discussing Miriam Margolyes, documentaries and whether Shanthi would make her own all about arriving in the UK in 1975 to navigating culture shock, kindness from strangers, and the realities of starting over. They also tackle your listener dilemmas with some sound advice, from issues dealing with mother-in-laws, parenting and superstitions. And for once Rom and Shanthi agree! Plus: We ask the team who is better to work with Karl Pilkington or Romesh? A Ranga Bee Production in partnership with Platform. 00:00 Intro 01:43 Shanthi on Miriam Margolyes 02:42 Would Shanthi make a documentary? 04:12 Shanthi on coming to the UK 08:43 Answering your dilemmas 10:09 Working with Romesh vs Karl Pilkington 10:42 Dilemmas continued 16:55 Ranganathan supersitions 23:06 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/32f92c02-4955-11f1-a1cc-9fb841ea1a1e/image/615e4f8e585b680b37fd18329c28b05b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4081587177.mp3?updated=1778082466",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1599",
+      "speakers": [
+        "Superstitions Who",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "immigrant",
+        "superstition"
+      ]
+    },
     {
       "key": "29198997335dcd43bd1954a47ef99c7f081ac68d",
       "title": "Miriam Margolyes on Harry Potter, Blackadder & How To Be Confident",
@@ -1506,6 +1527,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-06 — Shanthi on Being an Immigrant in the 70s & Superstitions — speakers: Superstitions Who, Romesh Ranganathan
 - 2026-05-03 — Miriam Margolyes on Harry Potter, Blackadder & How To Be Confident — speakers: Miriam Margolyes, Romesh Ranganathan
 - 2026-04-29 — Shanthi’s Birthday Special — speakers: Birthday Special What, Shanthi Ranganathan, Romesh Ranganathan
 - 2026-04-26 — Thundercat on Creativity, Positive Mindsets & Finding His Sound — speakers: Grammy Award, Romesh Ranganathan

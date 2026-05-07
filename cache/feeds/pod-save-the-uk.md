@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-05-05T14:23:38+00:00`
-- checked_at: `2026-05-05T14:23:38+00:00`
-- etag: `W/"d9fcb16a289f7e7a6e10eecd09b1f556"`
-- last_modified: `Fri, 01 May 2026 18:47:39 GMT`
+- fetched_at: `2026-05-07T04:04:45+00:00`
+- checked_at: `2026-05-07T04:04:45+00:00`
+- etag: `W/"5287ec70c091a7a73c23dbb40cf0415f"`
+- last_modified: `Thu, 07 May 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-05-05T14:23:38+00:00",
+  "fetched_at": "2026-05-07T04:04:45+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,35 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3e7698964fe45bab367a48c5f6b3ce8f5a8bc8dd",
+      "title": "Last orders for Labour? Starmer’s election nightmare and Westminster’s booze problem w/Will Hayward and Zoë Grünewald",
+      "published_at": "2026-05-07T03:00:00+00:00",
+      "link": "https://audioboom.com/posts/8900190",
+      "description": "This week, Nish and Coco make sense of a bruising local election week, as Labour braces for heavy losses, Reform eyes major gains, and the Greens look to break through in London. They’re joined by Will Hayward, award-winning investigative journalist and expert on Welsh politics, to break down what’s happening in Wales, where Labour’s century-long dominance could be coming to an end. He explains the new Senedd voting system, the rise of Plaid and Reform, and what this election could mean for the future of devolution. Plus: Zoë Grünewald joins to unpack Reform’s latest migrant detention centre proposal, Green hopes in the capital, and what a bad night could mean for Keir Starmer. And: should MPs be allowed to drink on the job, or is Parliament’s bar tab finally becoming a political problem? GUESTS Zoë Grünewald, political journalist Will Hayward, Cardiff-based investigative journalist USEFUL LINKS Guide to Senedd voting system: https://senedd.wales/senedd-now/senedd-blog/how-will-the-new-voting-system-work-at-the-next-senedd-election/ CREDITS Radio 4, Today Show Tiktok, Zia Yusef (@ziayusufuk) Instagram, Hannah Spencer (@hannahtheplumbermcr) Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43633006.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8900190.mp3?modified=1778096618&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3813",
+      "speakers": [
+        "Will Hayward",
+        "Zoë Grünewald",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "order",
+        "labour",
+        "starmer",
+        "election",
+        "nightmare",
+        "westminster",
+        "booze",
+        "problem",
+        "hayward"
+      ]
+    },
     {
       "key": "396bba7fdf371d5ce29e9e26bb18ab433dda5048",
       "title": "Mandelson, May Elections & Rosie Jones Mayhem",
@@ -3727,6 +3756,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — Last orders for Labour? Starmer’s election nightmare and Westminster’s booze problem w/Will Hayward and Zoë Grünewald — speakers: Will Hayward, Zoë Grünewald, Nish Kumar, Coco Khan
 - 2026-04-23 — Mandelson, May Elections & Rosie Jones Mayhem — speakers: Nish Kumar, Coco Khan
 - 2026-04-16 — Trump's Jesus Meme Chaos w/ Tommy Vietor — speakers: Jesus Meme Chaos, Tommy Vietor Who, Nish Kumar, Coco Khan
 - 2026-04-02 — Can AI really be your friend? w/Jamie Bartlett — speakers: Jamie Bartlett Coco, Jamie Bartlett, Nish Kumar, Coco Khan

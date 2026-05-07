@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-05-06T14:46:14+00:00`
-- checked_at: `2026-05-06T14:46:14+00:00`
+- fetched_at: `2026-05-07T04:04:45+00:00`
+- checked_at: `2026-05-07T04:04:45+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Wed, 06 May 2026 12:22:30 GMT`
+- last_modified: `Thu, 07 May 2026 04:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-06T14:46:14+00:00",
+  "fetched_at": "2026-05-07T04:04:45+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "313b2eda973699bc5c630938a3778e9888685ebd",
+      "title": "Cariad Lloyd",
+      "published_at": "2026-05-07T04:00:00+00:00",
+      "link": null,
+      "description": "Joining me this week in our little Pottering oasis is the delightful Cariad Lloyd ! Comedian, author and podcast sensation, Cariad is co-host of the brilliant Sara & Cariad’s Weirdos Book Club with Sara Pascoe, and part of the all-star improv show Austentatious , which is in the West End and on tour throughout 2026, so do check that out! 🌷🎭 We chat nineties nostalgia, the wonderful world of improv, yes and hear all about Cariad’s amazing children’s book Where Did She Go? Both proud members of the Dead Dad Club, Cariad has such a wonderfully honest way of chatting about death and grief. If the conversation intrigues you, please do seek out her books, and take a listen to Griefcast, (once you’re all up to date and subscribed to Pottering, of course!) 😉💕 🌹 Now, put a bookmark in that copy of Sense and Sensibility, dust off your old DMs, and let’s go Pottering. 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/59d13a9e-4942-11f1-b467-5f5f91ebe3b2/image/63397c9cb6c936ee709613ef5c5ff73e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2104496292.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3447",
+      "speakers": [
+        "Cariad Lloyd",
+        "Tom Allen"
+      ],
+      "topics": [
+        "cariad",
+        "lloyd"
+      ]
+    },
     {
       "key": "46f87c4439dca3ce6b01bfbdb8d04ca29ed85c53",
       "title": "Carol Klein",
@@ -708,6 +728,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — Cariad Lloyd — speakers: Cariad Lloyd, Tom Allen
 - 2026-04-30 — Carol Klein — speakers: Carol Klein, Tom Allen
 - 2026-04-23 — Ashley James — speakers: Ashley James, Tom Allen
 - 2026-04-16 — Jonny Hincks — speakers: Jonny Hincks, Tom Allen
