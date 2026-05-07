@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-05-06T14:46:14+00:00`
-- checked_at: `2026-05-06T14:46:14+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpnd056ZzBNakEwT1RVPTo6c2F4ZXNz"`
+- fetched_at: `2026-05-07T08:47:42+00:00`
+- checked_at: `2026-05-07T08:47:42+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpneE16QXdORFF5T1RrPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-05-06T14:46:14+00:00",
+  "fetched_at": "2026-05-07T08:47:42+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1c22b850a3d1ffda79975bc005800b15d3053b35",
+      "title": "Granny Put What In Her Eye?! | And Jordan's Superstitions",
+      "published_at": "2026-05-07T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/granny-put-what-in-her-eye-and-jordans-superstitions",
+      "description": "The boys are touching wood in the studio as they reveal all about their own superstitions. Spolier: Jordan has loads, William has none. Elsewhere there's a Granny putting something strange in her eye at night, the boys learn that you shouldn't put duck butter in your mouth and Ben and Jordan open up their very own BJ Services.",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": "31:00",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "granny",
+        "jordan",
+        "superstition"
+      ]
+    },
     {
       "key": "c9efebf6b5586b56acf3656d12e0ed372ffb7cab",
       "title": "Help He’s Fist Deep In My Mum | And William Parkours?!",
@@ -14243,6 +14264,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — Granny Put What In Her Eye?! | And Jordan's Superstitions — speakers: William Hanson, Jordan North
 - 2026-05-05 — Help He’s Fist Deep In My Mum | And William Parkours?! — speakers: William Parkours, William Hanson, Jordan North
 - 2026-05-01 — Jordan’s Drag Name | And William’s Silver Spoon — speakers: Jordan’s Drag Name, William’s Silver, William Hanson, Jordan North
 - 2026-04-28 — Help I’m Going To Prison | A Letter From The Police — speakers: Jordan North, William Hanson

@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-05-03T22:00:05+00:00`
-- checked_at: `2026-05-03T22:00:05+00:00`
-- etag: `"djEuMi4wOjE3Nzc4MzY5OTQ3Mzg="`
+- fetched_at: `2026-05-07T08:47:42+00:00`
+- checked_at: `2026-05-07T08:47:42+00:00`
+- etag: `"djEuMi4wOjE3NzgxMzAwNDE2NDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-05-03T22:00:05+00:00",
+  "fetched_at": "2026-05-07T08:47:42+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "de77fed336df8ded73f0c0e449b6b44543e79736",
+      "title": "John Robins Returns",
+      "published_at": "2026-05-07T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/509-john-robins-returns",
+      "description": "313 episodes later… the critically acclaimed comedian, award-winning broadcaster and Taskmaster champion, John Robins returns to the pod! John first spoke on stage with an incredible level of honesty and introspection about his alcoholism with Howl (which you can listen to on his here ). This week he’s continuing to share that story with the release of his memoir, Thirst : the story of his life through the lens of alcohol, the drinks that made him, and those that broke him . In this episode we discuss: how Taskmaster was the closest he’s got to being himself on TV why 12-step recovery feels like a form of stand-up the process of opening yourself up in the form a book how comedy careers can distort what you see as success the problem with “ ego ” in comedy and how sobriety shifts it learning to sit with yourself instead of escaping and if John plans to return to stand-up... Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to 20 minutes of exclusive extras including: how much of stress is actually chosen why alcohol never actually solves what it claims to and the impact of recording the audiobook 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with John: John Robins' Thirst is out now on in all good book stores and is also available as an Audiobook. Find all the info at johnrobins.com . You can keep-up-date with John on Instagram, @nomadic_revery . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ 20 minutes of exclusive extra content with John ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1777836245159-c3cce638-6656-4d9a-abcd-f1275972f1b2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/69f7a38a9dcd58edd988dc2d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "131806656",
+      "itunes_duration": "1:31:31",
+      "speakers": [
+        "John Robins Returns",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "john",
+        "robins",
+        "return"
+      ]
+    },
     {
       "key": "6846a2375ddff1040c3c108dd8c897febc9e685a",
       "title": "John Tothill",
@@ -11394,6 +11415,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — John Robins Returns — speakers: John Robins Returns, Stuart Goldsmith
 - 2026-04-30 — John Tothill — speakers: John Tothill, Stuart Goldsmith
 - 2026-04-23 — Jonno Johnson — speakers: Jonno Johnson, Stuart Goldsmith
 - 2026-04-16 — Ellie Taylor (2019): ComCompendium — speakers: Ellie Taylor, Ellie Ta, Stuart Goldsmith

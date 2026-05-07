@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-04-28T17:02:15+00:00`
-- checked_at: `2026-04-28T17:02:15+00:00`
-- etag: `"2968591de93e19bd99ffe4f833ef85d8"`
-- last_modified: `Tue, 28 Apr 2026 16:30:13 GMT`
+- fetched_at: `2026-05-07T08:47:42+00:00`
+- checked_at: `2026-05-07T08:47:42+00:00`
+- etag: `"114232410e066471cc69bdb1acbaf6a9"`
+- last_modified: `Thu, 07 May 2026 08:44:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-04-28T17:02:15+00:00",
+  "fetched_at": "2026-05-07T08:47:42+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -27,6 +27,29 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "0e41a60dc9004a4dabc474957cd2f59f77efd77d",
+      "title": "Selkie Women of the Northern Shore #757",
+      "published_at": "2026-05-07T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/selkie-women-of-the-northern-shore-757",
+      "description": "Selkies rise from the sea in Celtic legend. Wild. Powerful. Unstoppable. This week on the Irish & Celtic Music Podcast, we celebrate the women of Celtic music who carry that same energy. From the north shore to the black water, Show 757 is an hour of music that will pull you under in the best possible way. It's the Irish & Celtic Music Podcast #757 - - Subscribe now at CelticMusicPodcast.com ! One Street Over, Gillian Boucher & Bob McNeill, Fialla, Eloise & Co., The Leftovers, The Bow Tides, Low Lily, Tara's Folk, Sue Spencer, Eimear Arkins, Sora, Louise Bichan, Kim Carnie, THE DIVINERS GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! You can follow our playlist on YouTube to listen to those top voted tracks as they are added every 2 - 3 weeks. THIS WEEK IN CELTIC MUSIC 0:08 - Boxing Robin \"Ned Coleman's #2/The Orphan\" from Land of the Noon - Day Moon Gypsy Youngraven - vocals, guitar, and bodhrán 3:28 - WELCOME 5:25 - Gillian Boucher & Bob McNeill \"Mountain Road #2\" from Race for the Sun Gillian Boucher: fiddle, piano 11:22 - Fialla \"Maid in Her Father's Garden\" from Home & Away Katie: Vocals, Guitar, Bodhrán, Irish Stepdancing 14:44 - Eloise & Co. \"Hanter Dro 1953 Kraozon/Hanter Dro 1930 Gregam/Meetinghouse Hanter Dro\" from avec Elodie Becky Tracy (fiddle, octave fiddle) Rachel Bell (accordion) Rachel Aucoin (piano) 18:35 - The Leftovers \"Down By the Glenside\" from Heart of Buffalo Elizabeth Shea: vocals 21:34 - FEEDBACK 24:17 - The Bow Tides \"Trip to Gaelicia\" from Sailing On Ellery Klein: fiddle Jessie Burns: fiddle Katie Grennan: fiddle, champion Irish dancer 28:29 - Low Lily \"Where We Belong\" from Angels in the Wreckage LIZ SIMMONS: Guitar & Vocals NATALIE PADILLA: Fiddle, Banjo & Vocals 32:06 - Tara's Folk \"How many Roads\" from remember how we fall Julien Casanova - fiddle Catherine de Vençay - cello 36:19 - Sue Spencer \"Free in the Harbour\" from North Shore Sue Spencer: Guitar, Vocals 40:22 - THANKS 42:51 - Eimear Arkins \"The St. Louis Waltz (Waltz)\" from Here & There Eimear Arikins: Fiddle, Vocals 47:10 - Sora \"Selkie\" from Ghostlines Sora - Voice, Piano, Violin 50:09 - Louise Bichan \"Auch\" from The Lost Summer Louise Bichan: fiddle 53:58 - Kim Carnie \"Eolas Gradhaich\" from A' Chailleach Kim Carnie: vocals 57:20 - CLOSING 58:40 - THE DIVINERS \"Daychovo Horo\" from earshot (EP) ILSE DE ZIAH: Cello; Fiddle; Vocals 1:01:23 - CREDITS Support for this program comes from Hank Woodward. Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. Support for this program comes from John Sharkey White, II. Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Clean energy is the single most powerful tool we have to fight climate change. Solar, wind, hydro - every kilowatt of clean power displaces the fossil fuels warming our planet. The big picture matters. So do the small choices you make every day. This week's tip comes from the 5 Rs of Sustainability: Refuse. Before you buy something new, ask yourself if you actually need it. Every item you don't buy is one that never had to be made, shipped, or eventually thrown away. Refusing is the most underrated act of sustainability there is. Start there. Your wallet and the planet will both thank you. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories. Every song has a story, every episode is a toast to Celtic and folk songwriters. Discover the stories behind the songs from the heart of the Celtic pub scene. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email the artists to let them know you heard them on the Irish & Celtic Music Podcast. These musicians are not part of some corporation. They are small indie groups that rely on people just like you to support their music so they can keep creating it. Please show your generosity. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . ALBUM PINS ARE CHANGING THE WAY WE HEAR CELTIC MUSIC Looking for a fresh way to support the music you love? Meet the Album Pin. Album Pins are lapel pins themed to a specific album — and each one comes with a digital download. Wear your music. All of my latest pins are wood - burned and locally produced, which means a smaller footprint and a one - of - a - kind feel you won't find anywhere else. Pick yours up at magerecords.com THANK YOU PATRONS OF THE PODCAST! Every episode of the Irish & Celtic Music Podcast exists because of you. Your support makes this possible, week after week, year after year. That is not a small thing. Your generosity covers real costs: audio engineering, graphic design, the Celtic Music Magazine, show promotion, and buying music directly from the independent Celtic artists we feature. You are the reason this music reaches new ears every single week. Not a patron yet? Here is what you are missing. Patrons get early access to episodes, music - only editions, free MP3 downloads, exclusive stories and artist interviews, and a vote in the Celtic Top 20. Join us today and help keep Celtic music alive, independent, and growing. Every single patron matters. Slainte! A special thanks to our Celtic Legends: Fuzzy, Dave and Rosie Donnelly, Rick Boyce, Bruce, Daniel Ide, Brian McReynolds, Marti Meyers, Alan Schindler, Margreta Silverstone, Emma Bartholomew, Dan mcDade, Jeff A, Gerald F Boyle, Miranda Nelson, Nancie Barnett, Gary R Hook, Lynda MacNeil, Kelly Garrod, Mike Schock, Shawn Cali HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $25. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. Learn more about the invasion at http://celticinvasion.com/ #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo. If you're in a Celtic band, send me an audio recording of you performing live. Just audio. I'll use it in a podcast episode later this year. Email me at follow@bestcelticmusic. Asa Swain commented on Patreon: \"I like hearing you talk, but thanks for releasing a \"music only\" version for everyone. I appreciate it.\" woodland folk replied to question, \"how does the podcast make your life better?\": I listen to ur podcast on my phone. on my closed fiddle case, mingled with birdsong, gentle hissing wood,the sun comes up early over the Mendips.the wind is still fresh... A battle of wills, my playlist rarely is enough....two tunes I play in the city right now I heard on one of my favourite episodes to date(man of the house),\"the silver spear\"& the blue idol.... I listened to this episode in a wood near the coast. maby five yrs ago, a deep cashcrop, scented pine. the needles leave a sponge rug moss covers old stumps & oaks, older by far than the rest of the wood that grow in crearings. deer whistle & bark in the night \"home is were the heart is\" & have on occasion gone back to listen again... The music u play suits the wood my friend...\"",
+      "image_url": "https://static.libsyn.com/p/assets/4/8/b/b/48bbce9a788bd0a816c3140a3186d450/757-Selkie_Women_of_the_North_Shore-Tara_sFolk-1400.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-757.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60778098",
+      "itunes_duration": "01:02:59",
+      "speakers": [
+        "Selkie Women",
+        "Northern Shore",
+        "Marc Gunn"
+      ],
+      "topics": [
+        "selkie",
+        "women",
+        "northern",
+        "shore"
+      ]
+    },
     {
       "key": "33f4f5e1708205cf4bda3ba1837495e8e9daddfc",
       "title": "Four Thousand Weeks, Happy Earth Week #756",
@@ -16175,6 +16198,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — Selkie Women of the Northern Shore #757 — speakers: Selkie Women, Northern Shore, Marc Gunn
 - 2026-04-23 — Four Thousand Weeks, Happy Earth Week #756 — speakers: Marc Gunn
 - 2026-04-16 — Cat on the Roof #755 — speakers: Marc Gunn
 - 2026-04-09 — Raise Another Pint for Hope #754 — speakers: Marc Gunn
