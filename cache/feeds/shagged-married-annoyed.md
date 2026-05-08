@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-05-07T11:18:28+00:00`
-- checked_at: `2026-05-07T11:18:28+00:00`
-- last_modified: `Thu, 07 May 2026 10:13:12 GMT`
+- fetched_at: `2026-05-08T07:57:11+00:00`
+- checked_at: `2026-05-08T07:57:11+00:00`
+- last_modified: `Fri, 08 May 2026 04:11:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-07T11:18:28+00:00",
+  "fetched_at": "2026-05-08T07:57:11+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "110b9ccc062e0bc7792c1c7543354a542c7b2942",
+      "title": "Chore Play, Fly Tipping on the Moon and News From The Death Clock",
+      "published_at": "2026-05-08T04:11:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed, Chris and Rosie Ramsey discuss home schooling, a Taskmaster reunion and some questionable safety advice. Chris has been caught with beer kegs in his car and Rosie tries her first Dirty Martini. All this plus a new term from a listener, a quiz about the Moon and the couple get some good/bad news from the death clock. If you want to get involved and have your stories and voice notes included on the podcast then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4705308339.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3426",
+      "speakers": [
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "chore",
+        "play",
+        "tipping",
+        "moon",
+        "news",
+        "death",
+        "clock"
+      ]
+    },
     {
       "key": "7fef49c63ae78a69929bcfa0d2f17f58cff370ed",
       "title": "Please Keep Me Anonymous with Babatunde Aléshé",
@@ -8286,6 +8311,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-08 — Chore Play, Fly Tipping on the Moon and News From The Death Clock — speakers: Rosie Ramsey, Chris Ramsey
 - 2026-05-06 — Please Keep Me Anonymous with Babatunde Aléshé — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-05-01 — BFT's, Bum Washing Toilets and is Rosie Launching her Country Music Career? — speakers: Rosie Launching, Annoyed Chris, Rosie Ramsey, Chris Ramsey
 - 2026-04-29 — Please Keep Me Anonymous with Daniel Sloss — speakers: Daniel Sloss, Rosie Ramsey, Chris Ramsey

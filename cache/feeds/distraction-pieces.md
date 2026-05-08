@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-05-06T04:04:28+00:00`
-- checked_at: `2026-05-06T04:04:28+00:00`
-- etag: `"djEuMi4wOjE3NzgwMzc2Mzk0MTE="`
+- fetched_at: `2026-05-08T07:57:11+00:00`
+- checked_at: `2026-05-08T07:57:11+00:00`
+- etag: `"djEuMi4wOjE3NzgyMTcxNjc1ODk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-05-06T04:04:28+00:00",
+  "fetched_at": "2026-05-08T07:57:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "dcdb198b9ce839ebbeb74a91f20a8be9d85e1bca",
+      "title": "STEPHEN FRY (thou shalt not question Stephen Fry) • Friday Rewind",
+      "published_at": "2026-05-08T05:12:47+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Stephen Fry , originally episode 440 from 2022-05-02. Original writeup below: Simply using the term ‘national treasure’ doesn’t do any kind of justice whatsoever to who or what Stephen is, does and has done, of course. But it’s pretty tough to dispute. Long term (and casual) Pip listeners will already know the line ‘Thou shalt not question Stephen Fry’ - well, Pip breaks the holy rap commandment and does just that, and it’s a joy to behold. Naturally there’s only so many tips of icebergs one can introduce in an hour, but rest assured that you get the full Pip and Fry experience including pandemic times, social media, Greeks and Romans and history as a whole, tattoos, religion, politics - it’s like if you had a dinner party with him but condensed into a lunch break. So enjoy this hang time with Stephen and let’s hope that it only leads to more! Enjoy. PIP'S PATREON PAGE if you're of a supporting nature ALL STEPHEN LINKS HERE! ONLINE TWITTER PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1778216951414-6394e4fd-bc71-4b4b-9b99-d8f332b324b3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/69fd70cf2ba0ef2ccac09343/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "154442477",
+      "itunes_duration": "1:04:16",
+      "speakers": [
+        "Stephen Fry"
+      ],
+      "topics": [
+        "stephen",
+        "shalt",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "0c287eeb77a71bc733bf326f0fdfdb37a418bc89",
       "title": "IZUKA HOYLE • the life and times of an immaculate action hero (Prisoner / Boiling Point / Big Boys) #670",
@@ -18746,6 +18767,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-08 — STEPHEN FRY (thou shalt not question Stephen Fry) • Friday Rewind — speakers: Stephen Fry
 - 2026-05-06 — IZUKA HOYLE • the life and times of an immaculate action hero (Prisoner / Boiling Point / Big Boys) #670
 - 2026-05-01 — RUTGER BREGMAN (Utopia For Realists / Humankind / Moral Ambition) • Friday Rewind
 - 2026-04-29 — ADEEL AKHTAR • "dig where you stand" (Mass / Four Lions / Down Cemetary Road) #669

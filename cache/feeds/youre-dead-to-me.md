@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-05-01T08:24:39+00:00`
-- checked_at: `2026-05-01T08:24:39+00:00`
-- etag: `"400a4155988890b4442b66ef757d72ae"`
-- last_modified: `Fri, 01 May 2026 05:00:06 GMT`
+- fetched_at: `2026-05-08T07:57:11+00:00`
+- checked_at: `2026-05-08T07:57:11+00:00`
+- etag: `"7017e621e294f92e896ba5564aadb18f"`
+- last_modified: `Fri, 08 May 2026 05:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1pytt.jpg",
-  "fetched_at": "2026-05-01T08:24:39+00:00",
+  "fetched_at": "2026-05-08T07:57:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,29 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "cdbfab7f0ccfc4171f398736b1a89db0f0634de7",
+      "title": "Renaissance Medicine (Radio Edit)",
+      "published_at": "2026-05-08T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nc092x",
+      "description": "Greg Jenner is joined in the 16th century by Dr Alanna Skuse and comedian Ria Lina to learn all about medicine and medical professionals in Tudor and Stuart England. In Renaissance-era England, medicine was still based on the theory of the four humours, passed down from ancient Greek and Roman physicians like Hippocrates and Galen. But from the reign of Henry VIII, there were signs of change. The invention of the printing press led to an explosion in medical and anatomical books, and the circulation of ideas from across Europe. The College of Physicians was founded in 1518, and the Company of Barber-Surgeons in 1543. Medicine became a real business, with a range of specialists, professional bodies overseeing different kinds of healthcare, and an explosion of medical providers advertising their services to the general public. This episode explores the landscape of healthcare in 16th- and 17th-century England, looking at everyone from physicians, surgeons and apothecaries to domestic healers and midwives, and even taking in quacks and frauds. Along the way, it examines the sensible social distancing measures taken during the Great Plague, the cures both sensible and dangerous offered for all kinds of diseases, and the cutting-edge experiments men like William Harvey and Christopher Wren were carrying out on the circulation of the blood. This is a radio edit of the original podcast episode. For the full-length version, please look further back in the feed. Hosted by: Greg Jenner Research by: Katharine Russell Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nc08sw.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27008000",
+      "itunes_duration": "1688",
+      "speakers": [
+        "Greg Jenner",
+        "Alanna Skuse",
+        "Ria Lina"
+      ],
+      "topics": [
+        "renaissance",
+        "medicine",
+        "radio",
+        "edit"
+      ]
+    },
     {
       "key": "1a99e84a0217acf6f745e430f8bcbd9183a8c7da",
       "title": "Emperor Nero (Radio Edit)",
@@ -5792,6 +5815,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-08 — Renaissance Medicine (Radio Edit) — speakers: Greg Jenner, Alanna Skuse, Ria Lina
 - 2026-05-01 — Emperor Nero (Radio Edit) — speakers: Greg Jenner, Mary Beard, Patton Oswalt
 - 2026-04-24 — The Terracotta Army (Radio Edit) — speakers: Greg Jenner, Julia Lovell, Phil Wang
 - 2026-04-17 — Medieval Irish Folklore (Radio Edit) — speakers: Greg Jenner
