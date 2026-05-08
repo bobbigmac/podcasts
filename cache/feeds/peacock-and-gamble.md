@@ -2,8 +2,8 @@
 
 - slug: `peacock-and-gamble`
 - source: `https://www.fubarradio.com/player/on-demand/peacock-and-gamble/`
-- fetched_at: `2026-05-08T07:57:11+00:00`
-- checked_at: `2026-05-08T07:57:11+00:00`
+- fetched_at: `2026-05-08T10:48:51+00:00`
+- checked_at: `2026-05-08T10:48:51+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "image_url": "",
-  "fetched_at": "2026-05-08T07:57:11+00:00",
+  "fetched_at": "2026-05-08T10:48:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "09309937abe1dd0b829a7b1bb4082f79808f4fda",
+      "guid": "75a24894-5cdc-493f-a0fe-44cff59a2585",
+      "title": "Peacock and Gamble (8th May)",
+      "published_at": "2026-05-08T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-8th-may1/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1778234627-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=75a24894-5cdc-493f-a0fe-44cff59a2585&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "72292b534ae5073ddc7cffab73ae7b1048b8925a",
       "guid": "a7bb6c92-bfd0-4607-9c20-643bd34073ba",
@@ -2735,6 +2748,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-08 — Peacock and Gamble (8th May)
 - 2026-05-07 — Peacock and Gamble (7th May)
 - 2026-05-01 — Peacock and Gamble (1st May)
 - 2026-04-30 — Peacock and Gamble (30th April)

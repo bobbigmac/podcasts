@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-04-30T16:47:11+00:00`
-- checked_at: `2026-04-30T16:47:11+00:00`
-- etag: `"24e5b9-650ae6e8d9265"`
-- last_modified: `Thu, 30 Apr 2026 14:39:29 GMT`
+- fetched_at: `2026-05-08T10:48:51+00:00`
+- checked_at: `2026-05-08T10:48:51+00:00`
+- etag: `"24ff57-6514ac8d3982e"`
+- last_modified: `Fri, 08 May 2026 09:11:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-04-30T16:47:11+00:00",
+  "fetched_at": "2026-05-08T10:48:51+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,28 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "8f378c9d8bc2f2edd4caced7fa4887db7df10d50",
+      "title": "China’s long game on Trump’s tariffs",
+      "published_at": "2026-05-07T14:15:00+00:00",
+      "link": "https://theconversation.com/chinas-ability-to-weather-trumps-trade-war-was-two-decades-in-the-making-282199",
+      "description": "As Xi Jinping prepares to host Donald Trump for a delayed summit in Beijing on May 14-15, a lot has changed since the US president's last visit to China in November 2017. Trump's first trade war with China began in earnest the following year, ushering in a new era of trade tensions between the world's two largest economies. While Trump's second trade war raged in 2025, China reported a record trade surplus of US$1.2 trillion. Yes, direct trade with the US fell sharply, but China shifted its focus elsewhere, doubling down on an existing \"great reallocation\". In this episode, we speak to economist Jiao Wang at the University of Sussex, about how decisions China took over the past two decades meant it was able to protect itself from the worst of Trump's tariff wars. This episode was produced by Mend Mariwany and the executive producer was Gemma Ware. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Supreme Court’s tariff decision still leaves a ‘mess’ for companies trying to grab refunds With a shrinking population, China needs new drivers of growth. Consumer spending has yet to fill the gap Amid rising tensions, ‘friendshoring’ might keep global trade alive Have US tariffs failed to bite? China’s trade surplus hits a record US$1.2 trillion Mentioned in this episode: Voices of the South",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/6e150ada-cdaa-474d-9d83-af66f1c8476b.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45960297",
+      "itunes_duration": "31:55",
+      "speakers": [
+        "Xi Jinping",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "china",
+        "game",
+        "trump",
+        "tariff"
+      ]
+    },
     {
       "key": "59de3b96101f2c9c4f0c2fe4963e46e39b68c0a9",
       "title": "Trump v Leo: the war of words over a just war",
@@ -5870,6 +5892,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — China’s long game on Trump’s tariffs — speakers: Xi Jinping, Gemma Ware
 - 2026-04-30 — Trump v Leo: the war of words over a just war — speakers: Pope Leo, Gemma Ware
 - 2026-04-23 — Israel’s history shapes how it wages war — speakers: Gemma Ware
 - 2026-04-16 — How former insider Péter Magyar ousted Hungary’s Viktor Orbán — speakers: Péter Magyar, Viktor Orbán, Gemma Ware

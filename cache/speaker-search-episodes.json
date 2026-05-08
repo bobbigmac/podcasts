@@ -19351,6 +19351,50 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:86e8d6833f90",
+        "feed_title": "Strong Message Here",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
+        "dedupe_key": "1045db23a0072631e585ee2aaae96b581dabda91",
+        "episode_key": "1045db23a0072631e585ee2aaae96b581dabda91",
+        "title": "Technological Republic (with Stewart Lee and Carole Cadwalladr)",
+        "published_at": "2026-05-07T09:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What is the Technological Republic?\nArmando, Stewart and founder of The Nerve, Carole Cadwalladr, discuss the language and posture of the manifesto released by Palantir's Alex Karp last year.\nWe look at how Tech bros frame those who block their progress, their effusive language about their products, why they might refl",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njrbk2.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/technological-republic-with-stewart-lee-and/id1774462541?i=1000766594587&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:589fe3e104a1",
+        "feed_title": "Do By Friday",
+        "source_rss_url": "https://feeds.simplecast.com/5nKJV82u",
+        "dedupe_key": "777038a942144711954cf775cee08093d9fda7bd",
+        "episode_key": "777038a942144711954cf775cee08093d9fda7bd",
+        "title": "Butt Thorn",
+        "published_at": "2026-05-06T21:06:16Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Links\n\n “I know it when I see it” - Wikipedia\n Antonin Scalia - Wikipedia\n Clarence Thomas - Wikipedia\n Mycroft Holmes (Gatiss) | Baker Street Wiki | Fandom\n Zizing 'Em Up: Hughes brothers molded early on by Toronto's hockey culture | NHL.com\n Spotlight (film) - Wikipedia\n Toy Story 3 | The Incinerator - YouTube\n The K",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/media/audio/transcoded/6b279c30-da59-4ae7-b742-dc229b5bbfc2/1f3d89c5-00b9-4569-8948-2a39974e0742/episodes/audio/group/92feb781-5d1a-4b44-9358-2c653aeb14a7/group-item/ef35aea3-08ed-435a-be50-b4aa0afc1ce7/128_default_tc.mp3?aid=rss_feed&feed=5nKJV82u",
+        "link_url": "https://podcasts.apple.com/gb/podcast/butt-thorn/id1169249168?i=1000766512949&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:62eaefbd161c",
         "feed_title": "101 Part Time Jobs with Giles Bidder",
         "source_rss_url": "https://feeds.megaphone.fm/AUDD4038251652",
@@ -21746,6 +21790,28 @@
         "description": "Sean Hughes is joined by Stewart Lee for the first session of their two-part interview.  Visit Sean’s site at www.seanhughes.co.uk or follow him on twitter: @mr_seanhughes © Dogs In the Field Productions Hosted on Acast. See acast.com/privacy for more information.",
         "audio_url": "https://sphinx.acast.com/undertheradar/seanhughesundertheradarpodcastwithspecialgueststewartleepart1-repeat-/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/sean-hughes-under-the-radar-podcast-with-special/id834968789?i=1000374281942&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:aabc03fe6804",
+        "feed_title": "The Quietus Radio",
+        "source_rss_url": "https://media.rss.com/the-quietus-radio/feed.xml",
+        "dedupe_key": "48427aa2120c3a857420a12dc44278c078407d91",
+        "episode_key": "48427aa2120c3a857420a12dc44278c078407d91",
+        "title": "Show 17 – Stewart Lee",
+        "published_at": "2016-08-10T10:09:52Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week The Quietus is celebrating its eighth birthday as a fully independent music and culture website…. Cheers! Luke will have a pint of flat, room temperature Thadeus Marsh-Hermit’s Brain Cleaver porter in a pewter tankard poured by a gender fluid bar person naked bar for a roll of clingfilm and John would gladly ",
+        "audio_url": "https://content.rss.com/episodes/380318/2680026/the-quietus-radio/2026_04_01_09_31_06_6c2fdf01-2790-4a8f-b1bb-a314552be18a.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/show-17-stewart-lee/id1141717351?i=1000373954429&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
