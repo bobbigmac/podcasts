@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-05-07T14:50:13+00:00`
-- checked_at: `2026-05-07T14:50:13+00:00`
-- etag: `"djEuMi4wOjE3NzgxNTYwMjE5ODY="`
+- fetched_at: `2026-05-08T16:45:11+00:00`
+- checked_at: `2026-05-08T16:45:11+00:00`
+- etag: `"djEuMi4wOjE3NzgyNTQ2ODA2NTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-05-07T14:50:13+00:00",
+  "fetched_at": "2026-05-08T16:45:11+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "65ecd6d602f49a513935f554dcf57aece57441a5",
+      "title": "Local election results: the end of Starmer?",
+      "published_at": "2026-05-08T15:01:30+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/local-election-results-the-end-of-starmer",
+      "description": "Results from the local and devolved are coming in. It has been, as many expected, a disappointing result for the Labour Party. Meanwhile, the insurgent parties, the Green Party to an extent, but especially Reform, have delivered on their promise of snowballing momentum. Anoosh Chakelian is joined by senior data journalist Ben Walker, political editor Ailbhe Rea and editor-in-chief Tom McTague. READ: https://www.newstatesman.com/politics/uk-politics/may-2026/2026/05/live-results-map-wales-scotland-and-local-elections LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1778251634179-4fc87cbe-d50e-4e5b-8165-ba198c78e134.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/69fdf75db50a61492d80dc35/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "129573115",
+      "itunes_duration": "1:07:25",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "election",
+        "result",
+        "starmer"
+      ]
+    },
     {
       "key": "79944f40184b40d628736a9e61137437ab3d81b6",
       "title": "The gutting of the two party system",
@@ -31180,6 +31201,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-08 — Local election results: the end of Starmer? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-06 — The gutting of the two party system — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-05 — Zack Polanski: Corbyn's true heir? — speakers: Zack Polanski, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2026-05-02 — Charles, royal court jester | Will and Anoosh’s weekly round up — speakers: Emily Thornberry, Anoosh Chakelian, Oli Dugmore

@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-07T14:50:13+00:00`
-- checked_at: `2026-05-07T14:50:13+00:00`
-- etag: `"djEuMi4wOjE3NzgxNTg4Mzk1MzY="`
+- fetched_at: `2026-05-08T16:45:11+00:00`
+- checked_at: `2026-05-08T16:45:11+00:00`
+- etag: `"djEuMi4wOjE3NzgyNTY1NTg1ODk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,31 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-07T14:50:13+00:00",
+  "fetched_at": "2026-05-08T16:45:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "619038cdeaf2bc15d588f3e05805fb0d839908b2",
+      "title": "Labour's local election wipeout, analysed",
+      "published_at": "2026-05-08T16:09:18+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69fe0aae668fe6d31f582088",
+      "description": "Laura and Seán take to the studio to piece together the winners and losers of the 2026 local elections, as Labour's catastrophic run of form sees no sign of letting up. Reform were the big winners with a landslide in councils across the country, with the Greens eating away at Starmer's left flank with notable wins in Hackney and Edinburgh. In Wales, Labour's First Minister FAILED to gain reelection as the parties woes fell deeper into the abyss. Can Keir Starmer survive? Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69fe0aae668fe6d31f582088/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91301070",
+      "itunes_duration": "47:31",
+      "speakers": [],
+      "topics": [
+        "labour",
+        "election",
+        "wipeout"
+      ]
+    },
     {
       "key": "33e94a3d9302dee0afc42f9548e69c410cfeeb68",
       "title": "Hormuz Crisis: This is what resilient infrastructure looks like",
@@ -12833,6 +12851,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-08 — Labour's local election wipeout, analysed
 - 2026-05-07 — Hormuz Crisis: This is what resilient infrastructure looks like
 - 2026-05-06 — Economist explains how Big Banks are CHEATING Britain | James Meadway interview — speakers: James Meadway
 - 2026-05-05 — Reform declare war on the Greens — speakers: Zia Yusuf

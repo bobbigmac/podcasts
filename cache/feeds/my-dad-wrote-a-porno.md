@@ -2,10 +2,10 @@
 
 - slug: `my-dad-wrote-a-porno`
 - source: `https://feeds.acast.com/public/shows/ee6fd316-9ce1-4f8a-ba2c-a4a4bf5643e4`
-- fetched_at: `2026-02-19T20:01:08+00:00`
-- checked_at: `2026-02-19T20:01:08+00:00`
-- etag: `"djEuMi4wOjE3NjYyNDc1Mjg2MzQ="`
-- max_episodes_per_feed: `1000`
+- fetched_at: `2026-05-08T16:45:11+00:00`
+- checked_at: `2026-05-08T16:45:11+00:00`
+- etag: `"djEuMi4wOjE3NzgyNTc5NDc5ODk="`
+- max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
 ```json
@@ -17,7 +17,7 @@
   "link": "http://mydadwroteaporno.com",
   "description": "Imagine if your Dad wrote a dirty book. Most people would try to ignore it and pretend it had never happened - but not Jamie Morton. Instead, he's decided to read it to the world in this award-winning comedy podcast.",
   "image_url": "https://assets.pippa.io/shows/61b9f45b1a8cbe48893cedf4/show-cover.jpg",
-  "fetched_at": "2026-02-19T20:01:08+00:00",
+  "fetched_at": "2026-05-08T16:45:11+00:00",
   "owners": [
     "Jamie Morton",
     "James Cooper",
@@ -25,7 +25,7 @@
   ],
   "common_speakers": [],
   "categories": [
-    "comedy/british"
+    "comedy"
   ],
   "episodes": [
     {
@@ -40,6 +40,7 @@
       "enclosure_length": "326158550",
       "itunes_duration": "28:18",
       "speakers": [
+        "Monday Morning",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -62,7 +63,6 @@
       "enclosure_length": "313073478",
       "itunes_duration": "27:10",
       "speakers": [
-        "Belinda Blinked",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -107,6 +107,7 @@
       "enclosure_length": "360023750",
       "itunes_duration": "31:15",
       "speakers": [
+        "Sunday Night",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -129,7 +130,6 @@
       "enclosure_length": "321754150",
       "itunes_duration": "27:55",
       "speakers": [
-        "Peter Rouse",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -218,7 +218,6 @@
       "enclosure_length": "350366102",
       "itunes_duration": "30:24",
       "speakers": [
-        "Jim Stirling",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -309,7 +308,6 @@
       "enclosure_length": "333014128",
       "itunes_duration": "28:54",
       "speakers": [
-        "Belinda Blumenthal",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -353,7 +351,6 @@
       "itunes_duration": "43:51",
       "speakers": [
         "Unheard Bits",
-        "Rocky Flintstone",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -421,13 +418,6 @@
       "itunes_duration": "46:24",
       "speakers": [
         "Unheard Bits",
-        "Lin-Manuel Miranda",
-        "Dan Levy",
-        "Michael Sheen",
-        "Nicholas Hoult",
-        "Hayley Atwell",
-        "Jessie Ware",
-        "Joe Lycett",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -624,7 +614,6 @@
       "enclosure_length": "3711835",
       "itunes_duration": "2:33",
       "speakers": [
-        "Rocky Flintstone",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -646,7 +635,6 @@
       "itunes_duration": "35:23",
       "speakers": [
         "Comic Relief",
-        "Dan Snow",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -708,6 +696,7 @@
       "enclosure_length": "47216475",
       "itunes_duration": "49:09",
       "speakers": [
+        "Abbey Ro",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -859,7 +848,6 @@
       "enclosure_length": "53375248",
       "itunes_duration": "44:28",
       "speakers": [
-        "Background Goon",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -985,7 +973,7 @@
       "speakers": [
         "Saucy Pans",
         "Cheeky Woks",
-        "Pacific Cooking Conference",
+        "Pacific Cooki",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -1010,7 +998,6 @@
       "itunes_duration": "21:23",
       "speakers": [
         "Belinda Blinked",
-        "Cian O'Mahony",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -1074,7 +1061,6 @@
       "enclosure_length": "51129808",
       "itunes_duration": "42:36",
       "speakers": [
-        "Herr Bisch",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -1206,8 +1192,6 @@
       "itunes_duration": "30:56",
       "speakers": [
         "Joan Jericha",
-        "Julia Davis",
-        "Vicki Pepperdine",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -1273,7 +1257,6 @@
       "enclosure_length": "14758284",
       "itunes_duration": "12:17",
       "speakers": [
-        "Rocky Flintstone",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -1401,7 +1384,6 @@
       "speakers": [
         "Dan Levy Creator",
         "Dan Levy",
-        "Eugene Levy",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -1572,7 +1554,6 @@
       "speakers": [
         "Josh Groban Grammy",
         "Belinker Josh Groban",
-        "Celine Dion",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -1660,7 +1641,6 @@
       "itunes_duration": "28:32",
       "speakers": [
         "Lin-Manuel Miranda",
-        "Dick Van Dyke",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -2342,6 +2322,7 @@
       "enclosure_length": "19913719",
       "itunes_duration": "12:27",
       "speakers": [
+        "Special One",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -2405,7 +2386,6 @@
       "itunes_duration": "28:12",
       "speakers": [
         "Book Three Jamie",
-        "Belinda Blinked",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -2426,7 +2406,6 @@
       "enclosure_length": "14801001",
       "itunes_duration": "12:19",
       "speakers": [
-        "Albert Hall",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -2450,6 +2429,9 @@
       "enclosure_length": "61229493",
       "itunes_duration": "51:01",
       "speakers": [
+        "My Dad Wrote",
+        "Christmas Porno",
+        "Belinda Blinked",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -2471,7 +2453,6 @@
       "enclosure_length": "0",
       "itunes_duration": "44:07",
       "speakers": [
-        "East Berlin",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -2761,7 +2742,6 @@
       "itunes_duration": "17:28",
       "speakers": [
         "Emma Sayle",
-        "Killing Kittens",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -3209,7 +3189,6 @@
       "enclosure_length": "45948683",
       "itunes_duration": "38:17",
       "speakers": [
-        "Spaghetti Bolognese",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -3252,7 +3231,7 @@
       "enclosure_length": "51967886",
       "itunes_duration": "43:18",
       "speakers": [
-        "Jim Stirling",
+        "Jim Stirli",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -3472,7 +3451,6 @@
       "itunes_duration": "42:19",
       "speakers": [
         "James Pops",
-        "James Godwin",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -3560,7 +3538,6 @@
       "enclosure_length": "44563885",
       "itunes_duration": "37:08",
       "speakers": [
-        "Mile High Club",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -3648,7 +3625,7 @@
       "enclosure_length": "44750605",
       "itunes_duration": "37:17",
       "speakers": [
-        "Grigor Calanski",
+        "Casino Etoile",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -3738,7 +3715,6 @@
       "itunes_duration": "34:23",
       "speakers": [
         "Helga Turns",
-        "Dr Robbin",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -3804,6 +3780,8 @@
       "enclosure_length": "15559426",
       "itunes_duration": "12:57",
       "speakers": [
+        "Book Announcement Amazing",
+        "Rocky Flintstone",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -3847,7 +3825,8 @@
       "enclosure_length": "31387419",
       "itunes_duration": "26:09",
       "speakers": [
-        "Rocky Flintstone",
+        "Elijah Wood Hollywood",
+        "Elijah Wood",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -3892,7 +3871,6 @@
       "enclosure_length": "22534291",
       "itunes_duration": "18:46",
       "speakers": [
-        "Belinda Blinked",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -3913,7 +3891,6 @@
       "enclosure_length": "13177255",
       "itunes_duration": "13:43",
       "speakers": [
-        "Rocky Flintstone",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -3937,6 +3914,8 @@
       "enclosure_length": "27152165",
       "itunes_duration": "28:16",
       "speakers": [
+        "Monday Morning",
+        "Belinda Bl",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -3958,7 +3937,6 @@
       "enclosure_length": "7791866",
       "itunes_duration": "8:06",
       "speakers": [
-        "Belinda Blinked",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -4086,7 +4064,6 @@
       "enclosure_length": "26796895",
       "itunes_duration": "27:54",
       "speakers": [
-        "Peter Rouse",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -4171,7 +4148,6 @@
       "enclosure_length": "29177609",
       "itunes_duration": "30:23",
       "speakers": [
-        "Jim Stirling",
         "Jamie Morton",
         "James Cooper",
         "Alice Levine"
@@ -4293,24 +4269,24 @@
 
 ## Episodes (newest first)
 
-- 2025-10-17 — S1E13 - 'Monday Morning 7.45am' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2025-10-16 — S1E12 - 'The Duchess Comes Clean' REMASTERED — speakers: Belinda Blinked, Jamie Morton, James Cooper, Alice Levine
+- 2025-10-17 — S1E13 - 'Monday Morning 7.45am' REMASTERED — speakers: Monday Morning, Jamie Morton, James Cooper, Alice Levine
+- 2025-10-16 — S1E12 - 'The Duchess Comes Clean' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2025-10-15 — S1E11 - 'The Night Receptionist' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2025-10-14 — S1E10 - 'Sunday Night 11.55pm' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2025-10-13 — S1E9 - 'The Horse and Jockey' REMASTERED — speakers: Peter Rouse, Jamie Morton, James Cooper, Alice Levine
+- 2025-10-14 — S1E10 - 'Sunday Night 11.55pm' REMASTERED — speakers: Sunday Night, Jamie Morton, James Cooper, Alice Levine
+- 2025-10-13 — S1E9 - 'The Horse and Jockey' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2025-10-12 — S1E8 - 'The Chalet' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2025-10-11 — S1E7 - 'The Tombola' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2025-10-10 — S1E6 - 'The Third Client Peter Rouse' REMASTERED — speakers: Peter Rouse, Jamie Morton, James Cooper, Alice Levine
-- 2025-10-09 — S1E5 - 'The Second Client Jim Stirling' REMASTERED — speakers: Jim Stirling, Jamie Morton, James Cooper, Alice Levine
+- 2025-10-09 — S1E5 - 'The Second Client Jim Stirling' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2025-10-08 — S1E4 - 'The Maze / The First Client' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2025-10-07 — S1E3 - 'The Regional Sales Meeting' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2025-10-06 — S1E2 - 'The Leather Room' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2025-10-05 — S1E1 - 'The Job Interview' REMASTERED — speakers: Belinda Blumenthal, Jamie Morton, James Cooper, Alice Levine
+- 2025-10-05 — S1E1 - 'The Job Interview' REMASTERED — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2024-03-25 — The Best Of (And Unheard Bits) - Part Nine — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
-- 2024-02-19 — The Best Of (And Unheard Bits) - Part Eight — speakers: Unheard Bits, Rocky Flintstone, Jamie Morton, James Cooper, Alice Levine
+- 2024-02-19 — The Best Of (And Unheard Bits) - Part Eight — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
 - 2024-01-22 — The Best Of (And Unheard Bits) - Part Seven — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
 - 2023-12-18 — The Best Of (And Unheard Bits) - Part Six — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
-- 2023-11-20 — The Best Of (And Unheard Bits) - Part Five — speakers: Unheard Bits, Lin-Manuel Miranda, Dan Levy, Michael Sheen, Nicholas Hoult, Hayley Atwell, Jessie Ware, Joe Lycett, Jamie Morton, James Cooper, Alice Levine
+- 2023-11-20 — The Best Of (And Unheard Bits) - Part Five — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
 - 2023-10-22 — The Best Of (And Unheard Bits) - Part Four — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
 - 2023-09-24 — The Best Of (And Unheard Bits) - Part Three — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
 - 2023-08-27 — The Best Of (And Unheard Bits) - Part Two — speakers: Unheard Bits, Jamie Morton, James Cooper, Alice Levine
@@ -4319,43 +4295,43 @@
 - 2022-12-05 — The Finale - Part 2 — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2022-12-01 — Finale Footnotes: Send Offs, Surprises & Songs — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2022-11-28 — The Finale - Part 1 — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2022-11-13 — We have some news... — speakers: Rocky Flintstone, Jamie Morton, James Cooper, Alice Levine
-- 2022-03-13 — My Dad Wrote A History Hit — speakers: Comic Relief, Dan Snow, Jamie Morton, James Cooper, Alice Levine
+- 2022-11-13 — We have some news... — speakers: Jamie Morton, James Cooper, Alice Levine
+- 2022-03-13 — My Dad Wrote A History Hit — speakers: Comic Relief, Jamie Morton, James Cooper, Alice Levine
 - 2022-03-07 — Best Of Book Six — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2021-12-13 — My Dad Wrote A Christmas Porno 6 - Part Two — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2021-12-06 — My Dad Wrote A Christmas Porno 6 - Part One — speakers: Jamie Morton, James Cooper, Alice Levine
+- 2021-12-06 — My Dad Wrote A Christmas Porno 6 - Part One — speakers: Abbey Ro, Jamie Morton, James Cooper, Alice Levine
 - 2021-08-01 — S6E10 - 'The Winner Takes It All' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2021-07-28 — Footnotes: The Bisch-Burt Contract — speakers: Herr Bisch, Wayne Burt, Jamie Morton, James Cooper, Alice Levine
 - 2021-07-25 — S6E9 - 'The Three B Tree' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2021-07-14 — Footnotes: Dialect Coach — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2021-07-11 — S6E8 - 'Hush, Little Belinda, Don't You Cry' — speakers: Little Belinda, Jamie Morton, James Cooper, Alice Levine
 - 2021-07-07 — Footnotes: Show and Tell — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2021-07-04 — S6E7 - 'HS2' — speakers: Background Goon, Jamie Morton, James Cooper, Alice Levine
+- 2021-07-04 — S6E7 - 'HS2' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2021-06-30 — Footnotes: Sir Rocky Flintstone? — speakers: Rocky Flintstone, Jamie Morton, James Cooper, Alice Levine
 - 2021-06-27 — S6E6 - 'B;B;B;' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2021-06-23 — Footnotes: Calling Belinkers 2 — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2021-06-20 — S6E5 - 'Back To Basics' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2021-06-16 — Footnotes: Samara Weaving — speakers: Samara Weaving, Jamie Morton, James Cooper, Alice Levine
-- 2021-06-13 — S6E4 - 'Saucy Pans and Cheeky Woks' — speakers: Saucy Pans, Cheeky Woks, Pacific Cooking Conference, Jamie Morton, James Cooper, Alice Levine
-- 2021-06-09 — Footnotes: Understanding The "Timeline" — speakers: Belinda Blinked, Cian O'Mahony, Jamie Morton, James Cooper, Alice Levine
+- 2021-06-13 — S6E4 - 'Saucy Pans and Cheeky Woks' — speakers: Saucy Pans, Cheeky Woks, Pacific Cooki, Jamie Morton, James Cooper, Alice Levine
+- 2021-06-09 — Footnotes: Understanding The "Timeline" — speakers: Belinda Blinked, Jamie Morton, James Cooper, Alice Levine
 - 2021-06-06 — S6E3 - 'Hard As The Rocks' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2021-06-02 — Footnotes: Feet — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2021-05-30 — S6E2 - 'The Flying Doctor' — speakers: Herr Bisch, Jamie Morton, James Cooper, Alice Levine
+- 2021-05-30 — S6E2 - 'The Flying Doctor' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2021-05-26 — Footnotes: Rocky Answers Your Questions 5 — speakers: Rocky Flintstone, Jamie Morton, James Cooper, Alice Levine
 - 2021-05-24 — S6E1 - 'Dust and Scrub, Scrub and Dust' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2021-04-05 — Best of Book Five — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2020-12-14 — My Dad Wrote A Christmas Porno 5 - Part Two — speakers: My Dad Wrote, Christmas Porno, Jamie Morton, James Cooper, Alice Levine
 - 2020-12-07 — My Dad Wrote A Christmas Porno 5 - Part One — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2019-12-25 — Footnotes: Dear Joan & Jericha — speakers: Joan Jericha, Julia Davis, Vicki Pepperdine, Jamie Morton, James Cooper, Alice Levine
+- 2019-12-25 — Footnotes: Dear Joan & Jericha — speakers: Joan Jericha, Jamie Morton, James Cooper, Alice Levine
 - 2019-12-16 — My Dad Wrote A Christmas Porno 4 — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2019-12-09 — S5E13 - 'Fight or Flight' — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2019-11-28 — Footnotes: Finale Predictions — speakers: Rocky Flintstone, Jamie Morton, James Cooper, Alice Levine
+- 2019-11-28 — Footnotes: Finale Predictions — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2019-11-25 — S5E12 - 'Two Clits In The Clink' — speakers: James Spooner, Jamie Morton, James Cooper, Alice Levine
 - 2019-11-21 — Footnotes: Your Sex Stories — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2019-11-18 — S5E11 - 'A B, a B and a Q' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2019-11-14 — Footnotes: G'day Belinda! — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2019-11-11 — S5E10 - 'Star Crossed Lovin'' — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2019-11-07 — Footnotes: Dan Levy — speakers: Dan Levy Creator, Dan Levy, Eugene Levy, Jamie Morton, James Cooper, Alice Levine
+- 2019-11-07 — Footnotes: Dan Levy — speakers: Dan Levy Creator, Dan Levy, Jamie Morton, James Cooper, Alice Levine
 - 2019-11-04 — S5E9 - 'A Flying Machine So Pretty' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2019-10-31 — Footnotes: Calling Belinkers — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2019-10-28 — S5E8 - 'M's The Word' — speakers: Jamie Morton, James Cooper, Alice Levine
@@ -4363,11 +4339,11 @@
 - 2019-10-21 — S5E7 - 'A Gentleman Woof' — speakers: Herr Bisch, Jamie Morton, James Cooper, Alice Levine
 - 2019-10-17 — Footnotes: Learning German — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2019-10-14 — S5E6 - 'Clean As A Whistleblower' — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2019-10-10 — Footnotes: Josh Groban — speakers: Josh Groban Grammy, Belinker Josh Groban, Celine Dion, Jamie Morton, James Cooper, Alice Levine
+- 2019-10-10 — Footnotes: Josh Groban — speakers: Josh Groban Grammy, Belinker Josh Groban, Jamie Morton, James Cooper, Alice Levine
 - 2019-10-07 — S5E5 - 'Smiffy' — speakers: Herr Bisch, Jamie Morton, James Cooper, Alice Levine
 - 2019-10-03 — Footnotes: Righting The Wrongs Again — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2019-09-30 — S5E4 - 'Showering Ideas;;' — speakers: Herr Bisch, Jamie Morton, James Cooper, Alice Levine
-- 2019-09-26 — Footnotes: Lin-Manuel Miranda — speakers: Lin-Manuel Miranda, Dick Van Dyke, Jamie Morton, James Cooper, Alice Levine
+- 2019-09-26 — Footnotes: Lin-Manuel Miranda — speakers: Lin-Manuel Miranda, Jamie Morton, James Cooper, Alice Levine
 - 2019-09-23 — S5E3 - 'The Safe House' — speakers: Herr Bisch, Jamie Morton, James Cooper, Alice Levine
 - 2019-09-19 — Footnotes: Rocky Answers Your Questions 4 — speakers: Rocky Flintstone, Jamie Morton, James Cooper, Alice Levine
 - 2019-09-16 — S5E2 - 'Beep...Beep...Beeeeeep' — speakers: Jamie Morton, James Cooper, Alice Levine
@@ -4398,13 +4374,13 @@
 - 2018-09-10 — S4E3 - 'Cubicle Confessions' — speakers: Cubicle Confessions, Jamie Morton, James Cooper, Alice Levine
 - 2018-09-06 — Footnotes: Rocky Answers Your Questions 3 — speakers: Rocky Flintstone, Jamie Morton, James Cooper, Alice Levine
 - 2018-09-03 — S4E2 - 'Tony's Secret' — speakers: Will Tony, Jamie Morton, James Cooper, Alice Levine
-- 2018-08-30 — Footnotes: Who Is The Special One? — speakers: Jamie Morton, James Cooper, Alice Levine
+- 2018-08-30 — Footnotes: Who Is The Special One? — speakers: Special One, Jamie Morton, James Cooper, Alice Levine
 - 2018-08-27 — S4E1 - 'Dearly Beloved' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2018-08-20 — Belinda Blinked 4; The Blurb — speakers: Belinda Blinked, Jamie Morton, James Cooper, Alice Levine
-- 2018-04-09 — Best of Book Three — speakers: Book Three Jamie, Belinda Blinked, Jamie Morton, James Cooper, Alice Levine
-- 2018-02-01 — Footnotes: Royal Albert Hall — speakers: Albert Hall, Jamie Morton, James Cooper, Alice Levine
-- 2017-12-11 — My Dad Wrote A Christmas Porno 2 — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2017-09-04 — S3E15 - 'East Berlin' — speakers: East Berlin, Jamie Morton, James Cooper, Alice Levine
+- 2018-04-09 — Best of Book Three — speakers: Book Three Jamie, Jamie Morton, James Cooper, Alice Levine
+- 2018-02-01 — Footnotes: Royal Albert Hall — speakers: Jamie Morton, James Cooper, Alice Levine
+- 2017-12-11 — My Dad Wrote A Christmas Porno 2 — speakers: My Dad Wrote, Christmas Porno, Belinda Blinked, Jamie Morton, James Cooper, Alice Levine
+- 2017-09-04 — S3E15 - 'East Berlin' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2017-08-31 — Footnotes: How Will It End? — speakers: Book Three, Jamie Morton, James Cooper, Alice Levine
 - 2017-08-28 — S3E14 - 'Belinda's Spiral Staircase' — speakers: Spiral Staircase, Bargain Basementland, Des Martin, Jamie Morton, James Cooper, Alice Levine
 - 2017-08-24 — Footnotes: Personality Test — speakers: Belinda Blumenthal, Jamie Morton, James Cooper, Alice Levine
@@ -4417,7 +4393,7 @@
 - 2017-07-31 — S3E10 - 'Ken Dewsbury's Cellar' — speakers: Ken Dewsbury, Jamie Morton, James Cooper, Alice Levine
 - 2017-07-27 — Footnotes: Rocky Changed My Life — speakers: Rocky Changed My Life, Jamie Morton, James Cooper, Alice Levine
 - 2017-07-24 — S3E9 - 'Yorkshire' — speakers: Ken Dewsbury, Jamie Morton, James Cooper, Alice Levine
-- 2017-07-20 — Footnotes: Sex Parties — speakers: Emma Sayle, Killing Kittens, Jamie Morton, James Cooper, Alice Levine
+- 2017-07-20 — Footnotes: Sex Parties — speakers: Emma Sayle, Jamie Morton, James Cooper, Alice Levine
 - 2017-07-17 — S3E8 - 'A F*cking Good Time' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2017-07-13 — Footnotes: Aphrodisiacs — speakers: Amy Reiley, Jamie Morton, James Cooper, Alice Levine
 - 2017-07-10 — S3E7 - 'The Chocolate Fountain' — speakers: Alfonse Stirbacker, Jamie Morton, James Cooper, Alice Levine
@@ -4437,9 +4413,9 @@
 - 2016-12-16 — My Dad Wrote A Christmas Porno 1 — speakers: My Dad Wrote, Christmas Porno, Christmas Special, Office Christmas Party, Jamie Morton, James Cooper, Alice Levine
 - 2016-10-24 — S2E17 - 'A Hot Afternoon at the Lazy P Ranch' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2016-10-20 — Footnotes: Michael Sheen — speakers: Michael Sheen Star, Michael Sheen, Jamie Morton, James Cooper, Alice Levine
-- 2016-10-17 — S2E16 - 'A Bit Of Spaghetti Sauce' — speakers: Spaghetti Bolognese, Jamie Morton, James Cooper, Alice Levine
+- 2016-10-17 — S2E16 - 'A Bit Of Spaghetti Sauce' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2016-10-13 — Footnotes: Inside Our Book — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2016-10-10 — S2E15 - 'Jim's Secret' — speakers: Jim Stirling, Jamie Morton, James Cooper, Alice Levine
+- 2016-10-10 — S2E15 - 'Jim's Secret' — speakers: Jim Stirli, Jamie Morton, James Cooper, Alice Levine
 - 2016-10-06 — Footnotes: Charlotte Crosby — speakers: Charlotte Crosby, Jamie Morton, James Cooper, Alice Levine
 - 2016-10-03 — S2E14 - 'Texas, USA' — speakers: Jim Stirling, Jamie Morton, James Cooper, Alice Levine
 - 2016-09-29 — Footnotes: Dr Tamal Ray — speakers: Tamal Ray, Jamie Morton, James Cooper, Alice Levine
@@ -4449,39 +4425,39 @@
 - 2016-09-15 — Footnotes: Thomas Middleditch — speakers: Thomas Middleditch Emmy, Thomas Middleditch, Jamie Morton, James Cooper, Alice Levine
 - 2016-09-12 — S2E11 - 'Forsters of Knightsbridge, Dressage Outfitters To Royalty' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2016-09-08 — Footnotes: Twitter Roulette — speakers: Twitter Roulette, Jamie Morton, James Cooper, Alice Levine
-- 2016-09-05 — S2E10 - 'Sir James Pops Up' — speakers: James Pops, James Godwin, Jamie Morton, James Cooper, Alice Levine
+- 2016-09-05 — S2E10 - 'Sir James Pops Up' — speakers: James Pops, Jamie Morton, James Cooper, Alice Levine
 - 2016-09-01 — Footnotes: Rachel Bloom — speakers: Rachel Bloom Creator, Jamie Morton, James Cooper, Alice Levine
 - 2016-08-29 — S2E9 - 'Motivating The Sales Force' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2016-08-25 — Footnotes: Daisy Ridley — speakers: Daisy Ridley, Jamie Morton, James Cooper, Alice Levine
-- 2016-08-22 — S2E8 - 'Amsterdam To London Sky High' — speakers: Mile High Club, Jamie Morton, James Cooper, Alice Levine
+- 2016-08-22 — S2E8 - 'Amsterdam To London Sky High' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2016-08-18 — Footnotes: No Such Thing As A Porno — speakers: Dan Schreiber, Jamie Morton, James Cooper, Alice Levine
 - 2016-08-15 — S2E7 - 'The Countess Zara' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2016-08-11 — Footnotes: Reddit — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2016-08-08 — S2E6 - 'Casino Etoile, Amsterdam'. — speakers: Grigor Calanski, Jamie Morton, James Cooper, Alice Levine
+- 2016-08-08 — S2E6 - 'Casino Etoile, Amsterdam'. — speakers: Casino Etoile, Jamie Morton, James Cooper, Alice Levine
 - 2016-08-04 — Footnotes: Learning Dutch — speakers: Learning Dutch Want, Jamie Morton, James Cooper, Alice Levine
 - 2016-08-01 — S2E5 - 'Goedenavond Peter' — speakers: Goedenavond Peter, Peter Rouse, Jamie Morton, James Cooper, Alice Levine
 - 2016-07-28 — Footnotes: We've Got Mail — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2016-07-25 — S2E4 - 'Helga Turns It On' — speakers: Helga Turns, Dr Robbin, Jamie Morton, James Cooper, Alice Levine
+- 2016-07-25 — S2E4 - 'Helga Turns It On' — speakers: Helga Turns, Jamie Morton, James Cooper, Alice Levine
 - 2016-07-21 — Footnotes: Joe Lycett — speakers: Joe Lycett Comedian, Joe Lycett, Jamie Morton, James Cooper, Alice Levine
 - 2016-07-18 — S2E3 - 'The Dutchman's Leather Desk' — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2016-07-14 — Footnotes: Book Announcement — speakers: Jamie Morton, James Cooper, Alice Levine
+- 2016-07-14 — Footnotes: Book Announcement — speakers: Book Announcement Amazing, Rocky Flintstone, Jamie Morton, James Cooper, Alice Levine
 - 2016-07-11 — S2E2 - 'Amsterdammmm' — speakers: Peter Rouse, Jamie Morton, James Cooper, Alice Levine
-- 2016-07-07 — Footnotes: Elijah Wood — speakers: Rocky Flintstone, Jamie Morton, James Cooper, Alice Levine
+- 2016-07-07 — Footnotes: Elijah Wood — speakers: Elijah Wood Hollywood, Elijah Wood, Jamie Morton, James Cooper, Alice Levine
 - 2016-07-04 — S2E1 - 'Ritz Spa Gossip' — speakers: Ritz Spa Gossip, Jamie Morton, James Cooper, Alice Levine
-- 2016-06-06 — Best Of Book One — speakers: Belinda Blinked, Jamie Morton, James Cooper, Alice Levine
-- 2015-12-25 — Footnotes: Rocky Answers Your Questions — speakers: Rocky Flintstone, Jamie Morton, James Cooper, Alice Levine
-- 2015-12-21 — S1E13 - 'Monday Morning 7.45am' — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2015-12-17 — Footnotes: Casting The Movie — speakers: Belinda Blinked, Jamie Morton, James Cooper, Alice Levine
+- 2016-06-06 — Best Of Book One — speakers: Jamie Morton, James Cooper, Alice Levine
+- 2015-12-25 — Footnotes: Rocky Answers Your Questions — speakers: Jamie Morton, James Cooper, Alice Levine
+- 2015-12-21 — S1E13 - 'Monday Morning 7.45am' — speakers: Monday Morning, Belinda Bl, Jamie Morton, James Cooper, Alice Levine
+- 2015-12-17 — Footnotes: Casting The Movie — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2015-12-14 — S1E12 - 'The Duchess Comes Clean' — speakers: Belinda Blinked, Jamie Morton, James Cooper, Alice Levine
 - 2015-12-10 — Footnotes: Merchandising — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2015-12-07 — S1E11 - 'The Night Receptionist' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2015-12-03 — Footnotes: Rocky's Biography — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2015-11-30 — S1E10 - 'Sunday Night 11.55pm' — speakers: Jamie Morton, James Cooper, Alice Levine
-- 2015-11-23 — S1E9 - 'The Horse and Jockey' — speakers: Peter Rouse, Jamie Morton, James Cooper, Alice Levine
+- 2015-11-23 — S1E9 - 'The Horse and Jockey' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2015-11-16 — S1E8 - 'The Chalet' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2015-11-09 — S1E7 - 'The Tombola' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2015-11-02 — S1E6 - 'The Third Client Peter Rouse' — speakers: Peter Rouse, Jamie Morton, James Cooper, Alice Levine
-- 2015-10-26 — S1E5 - 'The Second Client Jim Stirling' — speakers: Jim Stirling, Jamie Morton, James Cooper, Alice Levine
+- 2015-10-26 — S1E5 - 'The Second Client Jim Stirling' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2015-10-19 — S1E4 - 'The Maze / The First Client' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2015-10-12 — S1E3 - 'The Regional Sales Meeting' — speakers: Jamie Morton, James Cooper, Alice Levine
 - 2015-10-05 — S1E2 - 'The Leather Room' — speakers: Jamie Morton, James Cooper, Alice Levine

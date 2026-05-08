@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-05-06T16:54:05+00:00`
-- checked_at: `2026-05-06T16:54:05+00:00`
-- etag: `"djEuMi4wOjE3NzgwODA1OTM1NTM="`
+- fetched_at: `2026-05-08T16:45:11+00:00`
+- checked_at: `2026-05-08T16:45:11+00:00`
+- etag: `"djEuMi4wOjE3NzgyNTI0Nzc4Nzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-05-06T16:54:05+00:00",
+  "fetched_at": "2026-05-08T16:45:11+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,30 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "5b995455872eace7b1d659c0066cdf8ff097756b",
+      "title": "Briefing Chat: Can't focus? It's not your attention span, it's your notifications",
+      "published_at": "2026-05-08T15:01:17+00:00",
+      "link": "https://shows.acast.com/nature/episodes/briefing-chat-cant-focus-its-not-your-attention-span-its-you",
+      "description": "00:31 The science of attention spans Nature Feature: Are attention spans really shrinking? What the science says 04:54 Data centres in space? Nature News Explainer: AI data hubs in space: when will they take flight? Nature Comment: Space diplomacy: bridging the operating gaps between myriad missions Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1778250562889-cc08b153-526f-487e-b066-1870783e2c5f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/69fdf35b44cb786b37a2b1e0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "15692113",
+      "itunes_duration": "10:53",
+      "speakers": [
+        "Briefing Chat",
+        "Nature Feature",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "chat",
+        "attention",
+        "span",
+        "notification"
+      ]
+    },
     {
       "key": "39c092d282755e46327ef79731ee212032034833",
       "title": "Anaesthetized brains can still process podcasts",
@@ -19587,6 +19611,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-08 — Briefing Chat: Can't focus? It's not your attention span, it's your notifications — speakers: Briefing Chat, Nature Feature, Benjamin Thompson, Noah Baker
 - 2026-05-06 — Anaesthetized brains can still process podcasts — speakers: Research Article, Benjamin Thompson, Noah Baker
 - 2026-05-01 — Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells — speakers: Benjamin Thompson, Noah Baker
 - 2026-04-29 — Immunity gets a boost from a surprising place — breakfast — speakers: Kumar et al, Benjamin Thompson, Noah Baker

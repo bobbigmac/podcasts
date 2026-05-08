@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-05-04T19:55:01+00:00`
-- checked_at: `2026-05-04T19:55:01+00:00`
-- etag: `W/"35997-gNnca5kUc1dPglVNw1WyyYJgX9U"`
+- fetched_at: `2026-05-08T16:45:11+00:00`
+- checked_at: `2026-05-08T16:45:11+00:00`
+- etag: `W/"36164-pspUqDfx3AqYNGmvq7xKzS9Cgh0"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-05-04T19:55:01+00:00",
+  "fetched_at": "2026-05-08T16:45:11+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,30 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "cd178071a1ad4127bb0205bb809b3a636afdbb66",
+      "title": "Nintendo's Star Fox Surprise | Firelink Podcast",
+      "published_at": "2026-05-08T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Nintendos-Star-Fox-Surprise--Firelink-Podcast-e3j3e0p",
+      "description": "This week on Firelink, Nick, KC, and Marty chat about the surprise Star Fox announcement, the new Stranger Than Heaven showcase, and the new games they've been playing. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/119698905/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-8%2Fa2f2d4b6-e9ea-6626-e840-fd3dbe33bcf8.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "135561632",
+      "itunes_duration": "01:34:08",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "nintendo",
+        "star",
+        "surprise",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "02641e3075a06e69e5d6dee6b4e73f912f58665d",
       "title": "Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast",
@@ -2759,6 +2783,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-08 — Nintendo's Star Fox Surprise | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-05-01 — Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-04-24 — Building a Showcase, Black Flag Returns, and More | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-04-18 — Pragmata Rules, Rockstar's Been Hacked, and Bloodborne Is Getting Movie'd | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
