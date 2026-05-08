@@ -6713,6 +6713,28 @@
     ],
     "bob-mortimer": [
       {
+        "feed_slug": "external:apple:a940e8e8f575",
+        "feed_title": "Joe Marler Will See You Now",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT9033701265",
+        "dedupe_key": "6a2458e24b4e3a6a9be6389611705aa3e5cc59e1",
+        "episode_key": "6a2458e24b4e3a6a9be6389611705aa3e5cc59e1",
+        "title": "Munya Chawawa Calls Out Donald Trump (and Bob Mortimer)",
+        "published_at": "2026-05-07T16:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What do Donald Trump, WWE and Munya Chawawa all have in common? According to Munya… everything.\n\nThe internet’s biggest satirist enters the clinic to unpack his obsession with wrestling, the psychology of “kayfabe”, and why politicians might secretly be cutting wrestling promos. Along the way Joe attempts the Walls of ",
+        "audio_url": "https://traffic.megaphone.fm/GLT9095644060.mp3?updated=1778175897",
+        "link_url": "https://podcasts.apple.com/gb/podcast/munya-chawawa-calls-out-donald-trump-and-bob-mortimer/id1850736713?i=1000766644880&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f365e01dfc3f",
         "feed_title": "Alan Carr's 'Life's a Beach'",
         "source_rss_url": "https://feeds.megaphone.fm/GLT3251662520",
@@ -31397,6 +31419,28 @@
       }
     ],
     "jack-dee": [
+      {
+        "feed_slug": "external:apple:e5b58072e338",
+        "feed_title": "Oh My Dog! with Jack Dee and Seann Walsh",
+        "source_rss_url": "https://anchor.fm/s/10b7d8230/podcast/rss",
+        "dedupe_key": "5257913d43d4adb81877b1164c09aaadef17f8b2",
+        "episode_key": "5257913d43d4adb81877b1164c09aaadef17f8b2",
+        "title": "Bark Back #23: Punk Dogs, Birthday Pups & Jack Dee: Influencer",
+        "published_at": "2026-05-08T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on Bark Back, your dogs steal the show… from Mavis and her AI-generated punk band, to birthday girl Keris, Sherlock’s genius cardboard box game, and more brilliant listener stories. Plus, Jack reacts to a photo documenting his unexpected new career as an influencer, Dolly gets some heartfelt love, and your me",
+        "audio_url": "https://traffic.megaphone.fm/APO4140728627.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bark-back-23-punk-dogs-birthday-pups-jack-dee-influencer/id1675517221?i=1000766701730&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e5b58072e338",
         "feed_title": "Oh My Dog! with Jack Dee and Seann Walsh",

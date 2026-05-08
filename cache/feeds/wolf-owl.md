@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-08T19:44:46+00:00`
-- checked_at: `2026-05-08T19:44:46+00:00`
-- last_modified: `Fri, 08 May 2026 19:42:33 GMT`
+- fetched_at: `2026-05-08T22:11:07+00:00`
+- checked_at: `2026-05-08T22:11:07+00:00`
+- last_modified: `Fri, 08 May 2026 21:06:51 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-08T19:44:46+00:00",
+  "fetched_at": "2026-05-08T22:11:07+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -4836,38 +4836,16 @@
       "topics": []
     },
     {
-      "key": "830562bbe153e359ae4fa9bc5e225f3591f63d57",
-      "title": "Ep 74: Middle Age Partying & County Fairs",
-      "published_at": "2022-06-08T05:00:55+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-74-middle-aged-partying-county-fairs",
-      "description": "We’re talking…. acceptable venues for middle age nights out, elderflower lager, county fair attire, sleeveless shirts, extreme shaving, festival infatuations, little white lies and the intimidating thought of dating again. Plus, we receive a shocking revelation on the ‘My Guy!’ debate and answer a few of your emails too. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/668bba2c-4831-11ed-b685-e31ea2fa57d3/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4460663209.mp3?updated=1670450271",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3046",
-      "speakers": [
-        "Middle Age Partying",
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "partying",
-        "county",
-        "fairs"
-      ]
-    },
-    {
       "key": "827820dc27c71d091a33e43b780e5e086d05f703",
       "title": "Ep 73: Crap Raps & A Solid Night’s Sleep",
-      "published_at": "2022-06-01T05:00:16+00:00",
+      "published_at": "2022-06-01T06:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-73-crap-raps-a-solid-nights-sleep",
-      "description": "We’re talking…. cringeworthy rapping, overenthusiastic hecklers, hen and stag parties, sleep help from the night ninja, spring-clean-itus, the parable of the new neighbour, panel show pilots and celebrity freebies. Plus, email questions on pursuing an ex-boyfriend and finding a compromise with your partner on food treats. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking…. cringeworthy rapping, overenthusiastic hecklers, hen and stag parties, sleep help from the night ninja, spring-clean-itus, the parable of the new neighbour, panel show pilots and celebrity freebies. Plus, email questions on pursuing an ex-boyfriend and finding a compromise with your partner on food treats. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/675625c8-4831-11ed-b685-1b7594a008ef/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6930800585.mp3?updated=1670450455",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6930800585.mp3?updated=1778271148",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4075",
+      "itunes_duration": "4074",
       "speakers": [
         "Crap Raps",
         "Solid Night",
@@ -4885,11 +4863,11 @@
     {
       "key": "9b297b795a21d50f477a40fd377e09a148b2eedd",
       "title": "Ep 72: Local Radio & Celebrating Celebrations",
-      "published_at": "2022-05-28T05:00:32+00:00",
+      "published_at": "2022-05-28T06:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-72-local-radio-celebrating-celebrations",
-      "description": "We’re talking…. local radio presenters, annoying adverts, talking to professional footballers, making the most of celebrations, airport drinking, attitudes to awards, hanging out on set together, catering letdowns and an all-important update on Tom’s sugar ban. Then it’s onto some more hot topics - baths in the middle of hotel rooms, echoey garages, listener gripes and a few of your email questions. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking…. local radio presenters, annoying adverts, talking to professional footballers, making the most of celebrations, airport drinking, attitudes to awards, hanging out on set together, catering letdowns and an all-important update on Tom’s sugar ban. Then it’s onto some more hot topics - baths in the middle of hotel rooms, echoey garages, listener gripes and a few of your email questions. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/6843a96a-4831-11ed-b685-5bf548d56831/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9654046437.mp3?updated=1670450818",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9654046437.mp3?updated=1778270744",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3857",
@@ -4907,11 +4885,11 @@
     {
       "key": "affe471c1ef6bd5ff6800ab0e0921f16a6514a16",
       "title": "Ep 71: Quitting Sugar & Addictive TV",
-      "published_at": "2022-05-18T05:00:56+00:00",
+      "published_at": "2022-05-18T06:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-71-quitting-sugar-addictive-tv",
-      "description": "We’re talking…. Tom’s ambitious plan to give up sugar, opposite mums, fizzy drinks, bespoke pasties, biscuit gluttony, addictively tepid TV, great bedtime storytelling and the awesomeness of satsumas - or maybe that should be clementines? Then some email questions answered on dealing with uneven incomes, the seven deadly sins, and coming up with sayings and catchphrases. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/68ca8d36-4831-11ed-b685-531b7cae39d1/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3038710794.mp3?updated=1670451548",
+      "description": "We’re talking…. Tom’s ambitious plan to give up sugar, opposite mums, fizzy drinks, bespoke pasties, biscuit gluttony, addictively tepid TV, great bedtime storytelling and the awesomeness of satsumas - or maybe that should be clementines? Then some email questions answered on dealing with uneven incomes, the seven deadly sins, and coming up with sayings and catchphrases. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3038710794.mp3?updated=1778270418",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4055",
@@ -4928,14 +4906,14 @@
     {
       "key": "e016f30f053499881cdad7588cd40b3739971f02",
       "title": "Ep 70: Burritos & Wedding Cakes",
-      "published_at": "2022-05-11T05:00:55+00:00",
+      "published_at": "2022-05-11T06:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-70-burritos-wedding-cakes",
-      "description": "We’re talking…. a Wolf and Owl burrito shack, foam wedding cakes, family favouritism, having your flaws pointed out to you, disappointing male attitudes, chatty swans, advice on learning lines and bad front row decorum at gigs. Then we get serious answering your emails - this week on standing up against homophobia, a dilemma on mending a family rift and a very varied three-part question. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking…. a Wolf and Owl burrito shack, foam wedding cakes, family favouritism, having your flaws pointed out to you, disappointing male attitudes, chatty swans, advice on learning lines and bad front row decorum at gigs. Then we get serious answering your emails - this week on standing up against homophobia, a dilemma on mending a family rift and a very varied three-part question. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/695ae8c2-4831-11ed-b685-4b654ecf1840/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3061649024.mp3?updated=1708647536",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3061649024.mp3?updated=1778270031",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3928",
+      "itunes_duration": "4012",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -4944,6 +4922,140 @@
         "burritos",
         "wedding",
         "cakes"
+      ]
+    },
+    {
+      "key": "b53814c0b83267360eaacb3098950ff78833f302",
+      "title": "Ep 69: Stopping Swearing & Family Gatherings",
+      "published_at": "2022-05-04T06:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-69-stopping-swearing-family-gatherings",
+      "description": "We’re talking…. too much swearing, the art of expletives, a Wolf & Owl family meet-up, re-telling embarrassing stories, being in the doghouse, dropping a baby, happy health food shops, snobby estate agents and the pitfalls of using public toilets. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/69c47f26-4831-11ed-b685-579c630d4b37/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6637901032.mp3?updated=1778269685",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3880",
+      "speakers": [
+        "Stopping Swearing",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "swearing",
+        "family",
+        "gatherings"
+      ]
+    },
+    {
+      "key": "b5383851a475e1bffe5a75b491453af4134b7c61",
+      "title": "Ep 68: Sandwich Joy & Stolen Sauces",
+      "published_at": "2022-04-27T06:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-68-sandwich-joys-stolen-hot-sauce",
+      "description": "We’re talking…. celebrating sandwiches, misplaced S’s, best-before dates, stolen hot sauce, hide and seek, learning to sing, pretending to sing, watching the boxing and an unfortunate vegan slip-up. Then we answer a couple of email questions on advice about running a pub and holidaying alone after a recent break-up. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6a726956-4831-11ed-b685-779fd81c2cac/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9383999677.mp3?updated=1778267786",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4201",
+      "speakers": [
+        "Sandwich Joy",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "sandwich",
+        "stolen",
+        "sauces"
+      ]
+    },
+    {
+      "key": "04f70a9e9671c67b57dc28501da620049b98c5b5",
+      "title": "Ep 67: Nervous Laughs & T-Shirt Weather",
+      "published_at": "2022-04-20T06:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-67-nervous-laughter-t-shirt-weather",
+      "description": "We’re talking…. nervous laughter, not paying attention, cocky pups and dog whistles, single-layer temperatures, embarrassing gym moments, sweaty trains, nose plasters, wrinkled T-shirts and bonding through badminton. Followed by a couple of email questions on secret take-aways and a very messy lodger who's outstayed their welcome. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6ae438ba-4831-11ed-b685-9bed597d3357/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3539914617.mp3?updated=1778267479",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4027",
+      "speakers": [
+        "Nervous Laughs",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "nervous",
+        "laughs",
+        "shirt",
+        "weather"
+      ]
+    },
+    {
+      "key": "71ed61da4adf8ff76acb8cfab62e6317fcb9e89b",
+      "title": "Ep 66: Garage Life & Sugar Fasting",
+      "published_at": "2022-04-06T06:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-66-garage-life-sugar-fasting",
+      "description": "We’re talking…. working in the garage, double curry days, giving up sugar and other fasting plans, bed wars, puppy gates, online customer services and Instagram influencers. Then after a bit of F45 training and some messages from our imaginary sponsors, we answer emails on a troublesome ex, the loss of a pet, ideas for a bike riding honeymoon and an organ donation. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6b499b9c-4831-11ed-b685-6fbc4071deed/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3322314546.mp3?updated=1778267309",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4245",
+      "speakers": [
+        "Garage Life",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "garage",
+        "life",
+        "sugar",
+        "fasting"
+      ]
+    },
+    {
+      "key": "66f35952d1ecd5ebabdb79c7f9202892ccf0b13c",
+      "title": "Ep 65: Show Openers & Oscars Shockers",
+      "published_at": "2022-03-30T06:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-64-show-openers-oscars-shockers",
+      "description": "We’re talking…. how to open the show, patience with risotto, the much-neglected pearl barley, complaining in restaurants, eating interventions, the Owl’s birthday, working a room, being anxious in crowds and that Oscars shocker. And a massive thank you to all those who came out to the live shows last week - we had a blast! For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6cc308be-4831-11ed-b685-8bfe8b5a936e/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8876075350.mp3?updated=1778266996",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3497",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "openers",
+        "oscars",
+        "shockers"
+      ]
+    },
+    {
+      "key": "ba60375fa4f6405cf351bec66ff6a403af492dcd",
+      "title": "Ep 64: Heath Checks & Arrogant Animals",
+      "published_at": "2022-03-23T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-64-heath-checkups-arrogant-animals",
+      "description": "We’re talking…. hotel lifestyles and heath checkups, medical scares, failures at fasting, red or white meat, the arrogance of pigs, visiting farms and the pitfalls of homemade kefir. Plus some email questions on helping a friend who’s obsessed with exercise, the acceptability of wearing caps in your 40’s, and our most awkward heckler anecdotes. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6f782a9e-4831-11ed-b685-4bbd60fa3e9e/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6758124021.mp3?updated=1778266821",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4090",
+      "speakers": [
+        "Heath Checks",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "heath",
+        "checks",
+        "arrogant",
+        "animals"
       ]
     },
     {
@@ -6766,11 +6878,16 @@
 - 2022-07-06 — S2 Ep 3: Sunny Days & Funny Nights — speakers: Romesh Ranganathan, Tom Davis
 - 2022-06-29 — S2 Ep 2: Paper Maps & Gig Mishaps — speakers: Gig Mishaps, Romesh Ranganathan, Tom Davis
 - 2022-06-22 — S2 Ep 1: Or should that be Episode 100? — speakers: Romesh Ranganathan, Tom Davis
-- 2022-06-08 — Ep 74: Middle Age Partying & County Fairs — speakers: Middle Age Partying, Romesh Ranganathan, Tom Davis
 - 2022-06-01 — Ep 73: Crap Raps & A Solid Night’s Sleep — speakers: Crap Raps, Solid Night, Romesh Ranganathan, Tom Davis
 - 2022-05-28 — Ep 72: Local Radio & Celebrating Celebrations — speakers: Local Radio, Romesh Ranganathan, Tom Davis
 - 2022-05-18 — Ep 71: Quitting Sugar & Addictive TV — speakers: Romesh Ranganathan, Tom Davis
 - 2022-05-11 — Ep 70: Burritos & Wedding Cakes — speakers: Romesh Ranganathan, Tom Davis
+- 2022-05-04 — Ep 69: Stopping Swearing & Family Gatherings — speakers: Stopping Swearing, Romesh Ranganathan, Tom Davis
+- 2022-04-27 — Ep 68: Sandwich Joy & Stolen Sauces — speakers: Sandwich Joy, Romesh Ranganathan, Tom Davis
+- 2022-04-20 — Ep 67: Nervous Laughs & T-Shirt Weather — speakers: Nervous Laughs, Romesh Ranganathan, Tom Davis
+- 2022-04-06 — Ep 66: Garage Life & Sugar Fasting — speakers: Garage Life, Romesh Ranganathan, Tom Davis
+- 2022-03-30 — Ep 65: Show Openers & Oscars Shockers — speakers: Romesh Ranganathan, Tom Davis
+- 2022-03-23 — Ep 64: Heath Checks & Arrogant Animals — speakers: Heath Checks, Romesh Ranganathan, Tom Davis
 - 2022-03-16 — Ep 63: Home Haircuts & Restaurant Beef — speakers: Home Haircuts, Romesh Ranganathan, Tom Davis
 - 2022-03-02 — Ep 62: Hotel Rooms & Vegan Eggs — speakers: Hotel Rooms, Romesh Ranganathan, Tom Davis
 - 2022-02-23 — Ep 61: Driving Lessons & Live Shows — speakers: Romesh Ranganathan, Tom Davis
