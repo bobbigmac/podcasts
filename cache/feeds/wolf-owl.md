@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-08T16:45:11+00:00`
-- checked_at: `2026-05-08T16:45:11+00:00`
-- last_modified: `Fri, 08 May 2026 16:39:21 GMT`
+- fetched_at: `2026-05-08T19:44:46+00:00`
+- checked_at: `2026-05-08T19:44:46+00:00`
+- last_modified: `Fri, 08 May 2026 19:42:33 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-08T16:45:11+00:00",
+  "fetched_at": "2026-05-08T19:44:46+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -4947,150 +4947,16 @@
       ]
     },
     {
-      "key": "b53814c0b83267360eaacb3098950ff78833f302",
-      "title": "Ep 69: Stopping Swearing & Family Gatherings",
-      "published_at": "2022-05-04T05:00:11+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-69-stopping-swearing-family-gatherings",
-      "description": "We’re talking…. too much swearing, the art of expletives, a Wolf & Owl family meet-up, re-telling embarrassing stories, being in the doghouse, dropping a baby, happy health food shops, snobby estate agents and the pitfalls of using public toilets. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/69c47f26-4831-11ed-b685-579c630d4b37/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6637901032.mp3?updated=1708647510",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3880",
-      "speakers": [
-        "Stopping Swearing",
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "swearing",
-        "family",
-        "gatherings"
-      ]
-    },
-    {
-      "key": "b5383851a475e1bffe5a75b491453af4134b7c61",
-      "title": "Ep 68: Sandwich Joy & Stolen Sauces",
-      "published_at": "2022-04-27T05:00:09+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-68-sandwich-joys-stolen-hot-sauce",
-      "description": "We’re talking…. celebrating sandwiches, misplaced S’s, best-before dates, stolen hot sauce, hide and seek, learning to sing, pretending to sing, watching the boxing and an unfortunate vegan slip-up. Then we answer a couple of email questions on advice about running a pub and holidaying alone after a recent break-up. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/6a726956-4831-11ed-b685-779fd81c2cac/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9383999677.mp3?updated=1708647526",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4143",
-      "speakers": [
-        "Sandwich Joy",
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "sandwich",
-        "stolen",
-        "sauces"
-      ]
-    },
-    {
-      "key": "04f70a9e9671c67b57dc28501da620049b98c5b5",
-      "title": "Ep 67: Nervous Laughs & T-Shirt Weather",
-      "published_at": "2022-04-20T05:00:35+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-67-nervous-laughter-t-shirt-weather",
-      "description": "We’re talking…. nervous laughter, not paying attention, cocky pups and dog whistles, single-layer temperatures, embarrassing gym moments, sweaty trains, nose plasters, wrinkled T-shirts and bonding through badminton. Followed by a couple of email questions on secret take-aways and a very messy lodger who's outstayed their welcome. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/6ae438ba-4831-11ed-b685-9bed597d3357/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3539914617.mp3?updated=1708647345",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4027",
-      "speakers": [
-        "Nervous Laughs",
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "nervous",
-        "laughs",
-        "shirt",
-        "weather"
-      ]
-    },
-    {
-      "key": "71ed61da4adf8ff76acb8cfab62e6317fcb9e89b",
-      "title": "Ep 66: Garage Life & Sugar Fasting",
-      "published_at": "2022-04-06T05:00:48+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-66-garage-life-sugar-fasting",
-      "description": "We’re talking…. working in the garage, double curry days, giving up sugar and other fasting plans, bed wars, puppy gates, online customer services and Instagram influencers. Then after a bit of F45 training and some messages from our imaginary sponsors, we answer emails on a troublesome ex, the loss of a pet, ideas for a bike riding honeymoon and an organ donation. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/6b499b9c-4831-11ed-b685-6fbc4071deed/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3322314546.mp3?updated=1708647218",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4245",
-      "speakers": [
-        "Garage Life",
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "garage",
-        "life",
-        "sugar",
-        "fasting"
-      ]
-    },
-    {
-      "key": "66f35952d1ecd5ebabdb79c7f9202892ccf0b13c",
-      "title": "Ep 65: Show Openers & Oscars Shockers",
-      "published_at": "2022-03-30T05:00:57+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-64-show-openers-oscars-shockers",
-      "description": "We’re talking…. how to open the show, patience with risotto, the much-neglected pearl barley, complaining in restaurants, eating interventions, the Owl’s birthday, working a room, being anxious in crowds and that Oscars shocker. And a massive thank you to all those who came out to the live shows last week - we had a blast! For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/6cc308be-4831-11ed-b685-8bfe8b5a936e/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8876075350.mp3?updated=1708642484",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3497",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "openers",
-        "oscars",
-        "shockers"
-      ]
-    },
-    {
-      "key": "ba60375fa4f6405cf351bec66ff6a403af492dcd",
-      "title": "Ep 64: Heath Checks & Arrogant Animals",
-      "published_at": "2022-03-23T06:00:52+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-64-heath-checkups-arrogant-animals",
-      "description": "We’re talking…. hotel lifestyles and heath checkups, medical scares, failures at fasting, red or white meat, the arrogance of pigs, visiting farms and the pitfalls of homemade kefir. Plus some email questions on helping a friend who’s obsessed with exercise, the acceptability of wearing caps in your 40’s, and our most awkward heckler anecdotes. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/6f782a9e-4831-11ed-b685-4bbd60fa3e9e/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6758124021.mp3?updated=1708642450",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4090",
-      "speakers": [
-        "Heath Checks",
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "heath",
-        "checks",
-        "arrogant",
-        "animals"
-      ]
-    },
-    {
       "key": "67c68b3b99e3a708e5ecad60b6c1c6892529b599",
       "title": "Ep 63: Home Haircuts & Restaurant Beef",
-      "published_at": "2022-03-16T06:00:17+00:00",
+      "published_at": "2022-03-16T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-63-home-haircuts-restaurant-beef",
-      "description": "We’re talking…. befriending barbers, having a gardener, restaurant letdowns, noisily enjoying food, making enemies with hypnotists, baby stresses and overdosing on Big Tasty’s. Then, after a quick tot-up of podcast guest appearances, we take a look at some emails on balancing family life with work, a topical debate about wheels and doors, and a heartwarming relationship update. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking…. befriending barbers, having a gardener, restaurant letdowns, noisily enjoying food, making enemies with hypnotists, baby stresses and overdosing on Big Tasty’s. Then, after a quick tot-up of podcast guest appearances, we take a look at some emails on balancing family life with work, a topical debate about wheels and doors, and a heartwarming relationship update. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/71f802da-4831-11ed-b685-6b2bd42a087d/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7804221616.mp3?updated=1708642178",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7804221616.mp3?updated=1778266577",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3761",
+      "itunes_duration": "3844",
       "speakers": [
         "Home Haircuts",
         "Romesh Ranganathan",
@@ -5106,14 +4972,14 @@
     {
       "key": "969beca30af5f1145bd0c249f93dbaa8b09f6023",
       "title": "Ep 62: Hotel Rooms & Vegan Eggs",
-      "published_at": "2022-03-02T06:00:01+00:00",
+      "published_at": "2022-03-02T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-62-hotel-rooms-vegan-eggs",
-      "description": "We’re talking…. favourite seasons, hotel room invasions, buffet portion control, egg ordering protocols, bald auctions, wholesome living and awkward public interactions. Then onto some listener’s email questions - this week on the end of a relationship, giving advice to your friends, and the right time and place to ask someone out. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking…. favourite seasons, hotel room invasions, buffet portion control, egg ordering protocols, bald auctions, wholesome living and awkward public interactions. Then onto some listener’s email questions - this week on the end of a relationship, giving advice to your friends, and the right time and place to ask someone out. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/754ebd8e-4831-11ed-b685-0761d9734c93/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8492201957.mp3?updated=1708642197",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8492201957.mp3?updated=1778261303",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4027",
+      "itunes_duration": "4057",
       "speakers": [
         "Hotel Rooms",
         "Romesh Ranganathan",
@@ -5129,11 +4995,11 @@
     {
       "key": "441d0f41566f2eb3b09e5055dc131b8778e209f3",
       "title": "Ep 61: Driving Lessons & Live Shows",
-      "published_at": "2022-02-23T06:00:53+00:00",
+      "published_at": "2022-02-23T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-61-driving-lessons-live-shows",
-      "description": "We’re talking…. Rom teaching Tom to drive, drink drivers, the Wolf & Owl on stage, more hair challenges, baby crap, undercover investigations, messy rooms and some real-life imposters. Followed by a few of your emails, this week on meeting up with an internet acquaintance and supporting your daughter’s captainship of the local football team. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking…. Rom teaching Tom to drive, drink drivers, the Wolf & Owl on stage, more hair challenges, baby crap, undercover investigations, messy rooms and some real-life imposters. Followed by a few of your emails, this week on meeting up with an internet acquaintance and supporting your daughter’s captainship of the local football team. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/7624adfe-4831-11ed-b685-8bf651581e1e/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1451872247.mp3?updated=1708642061",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1451872247.mp3?updated=1778260914",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3995",
@@ -5149,11 +5015,11 @@
     {
       "key": "35c0a155a60d53eb411977adccdee1ae85c1c193",
       "title": "Ep 60: Valentine's & The Super Bowl",
-      "published_at": "2022-02-16T06:00:09+00:00",
+      "published_at": "2022-02-16T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-60-valentines-super-bowls",
-      "description": "We’re talking…. romantic gestures, upside-down NFL extravaganzas, rum sponsorship, Twitter spats, football dads, movie star magic, Sunday food excesses and a hair loss re-growth challenge. Then some more of your sweet sweet emails - this week on a partner’s past, snow opinions and women going on stag-do's. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking…. romantic gestures, upside-down NFL extravaganzas, rum sponsorship, Twitter spats, football dads, movie star magic, Sunday food excesses and a hair loss re-growth challenge. Then some more of your sweet sweet emails - this week on a partner’s past, snow opinions and women going on stag-do's. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/76d517de-4831-11ed-b685-47764508520b/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4930777497.mp3?updated=1708465607",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4930777497.mp3?updated=1778260629",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4187",
@@ -5170,14 +5036,14 @@
     {
       "key": "fd29381465260c7910e6f43f03219464d6c451db",
       "title": "Episode 59",
-      "published_at": "2022-02-11T06:00:12+00:00",
+      "published_at": "2022-02-11T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-59",
-      "description": "We’re talking…. a 'party Rom' spin-off film, exercise endorsements, goldfish bowls, getting excited about storage, folding or rolling, the launch of The Curse, and two rather invasive health check-ups. Plus, some thoughts on a couple of emails about clothing and an all-important update on the Wolf & Owl merch. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking…. a 'party Rom' spin-off film, exercise endorsements, goldfish bowls, getting excited about storage, folding or rolling, the launch of The Curse, and two rather invasive health check-ups. Plus, some thoughts on a couple of emails about clothing and an all-important update on the Wolf & Owl merch. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5890294155.mp3?updated=1708464896",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5890294155.mp3?updated=1778259941",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3056",
+      "itunes_duration": "3055",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -5187,14 +5053,14 @@
     {
       "key": "c9e4c37af19bf3c6f7943e1681c70b9e81224b7b",
       "title": "Episode 58",
-      "published_at": "2022-02-02T06:00:57+00:00",
+      "published_at": "2022-02-02T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-58",
-      "description": "Whilst Rom struggles with an epic hangover (and a lot of gloating from Tom), we’re talking…. late nights and afterparties, food delivery mix-ups, not dressing your age, a potential fashion consultation, baby stresses and more wi-fi woes. Followed by some thoughtful responses to a couple of listener’s emails - and a banging final thoughts collaboration to close the show. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Whilst Rom struggles with an epic hangover (and a lot of gloating from Tom), we’re talking…. late nights and afterparties, food delivery mix-ups, not dressing your age, a potential fashion consultation, baby stresses and more wi-fi woes. Followed by some thoughtful responses to a couple of listener’s emails - and a banging final thoughts collaboration to close the show. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5608790097.mp3?updated=1708464983",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5608790097.mp3?updated=1778259657",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3829",
+      "itunes_duration": "3859",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -5204,16 +5070,34 @@
     {
       "key": "c1d5a70b072ec02d56b59d0b6cb0dfcb235943ef",
       "title": "Episode 57",
-      "published_at": "2022-01-26T06:00:48+00:00",
+      "published_at": "2022-01-26T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-57",
-      "description": "We’re talking…. Rom’s awesome weekend, Manchester’s curry mile, overdosing on ghee, inadvertently becoming a West Ham fan, clubbing in your 40s, bonding with Leonardo DiCaprio and badly fitting suits. Then onto more listener emails - this week about poetry, film screenplays, an update on dating again, and advice on giving advice. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking…. Rom’s awesome weekend, Manchester’s curry mile, overdosing on ghee, inadvertently becoming a West Ham fan, clubbing in your 40s, bonding with Leonardo DiCaprio and badly fitting suits. Then onto more listener emails - this week about poetry, film screenplays, an update on dating again, and advice on giving advice. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4716592786.mp3?updated=1708464066",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4716592786.mp3?updated=1778259451",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4207",
+      "itunes_duration": "4262",
       "speakers": [
         "curry mile",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
+      "key": "0ec5cd93156710d6c2828c1e6ab180776523b384",
+      "title": "Episode 56",
+      "published_at": "2022-01-19T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-56",
+      "description": "We’re talking…. Tom’s covid troubles, being naked at home, hecklers, broken headphones, style over substance, and a crazy idea for audio tattoos. Then we answer your email questions on dealing with potentially aggressive situations, the early days of Rom and Tom, getting into stand-up, and a relationship quandary. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6413489311.mp3?updated=1778258657",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3717",
+      "speakers": [
+        "Tom’s covid troubles",
         "Romesh Ranganathan",
         "Tom Davis"
       ],
@@ -5239,6 +5123,23 @@
       ]
     },
     {
+      "key": "8a176d38be90a22b168fed057230542184bdff60",
+      "title": "Episode 55",
+      "published_at": "2021-12-22T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-55",
+      "description": "We’re talking… all about Tom’s brand new baby daughter, of course! Plus, getting emotional, night feeds, pricey popcorn, cinema gripes and the rights and wrongs of bespoke burgers. We also answer a few email questions, this time on bad experiences getting dumped and making the decision to change careers. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3107636749.mp3?updated=1778256679",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3905",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
       "key": "dd631a764debf6759b644fe0f566980a4d1f40bd",
       "title": "Episode 54",
       "published_at": "2021-12-15T07:00:00+00:00",
@@ -5249,6 +5150,95 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4122",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
+      "key": "a1944104a72c61a36d6393e28cb6e6938cac75ec",
+      "title": "Bonus Email Episode #24",
+      "published_at": "2021-12-10T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/bonus-email-episode-23",
+      "description": "After a speedy apology about our new merch selling out so quick, we dig into some chat about Christmas cards, role models, political parties and yet another pretty disgusting story. Then some more of your emails - this week about a drunken night’s stay in a hotel, settling with remaining single and the meaning of a ‘G’. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8688519146.mp3?updated=1778255772",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2985",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "email"
+      ]
+    },
+    {
+      "key": "acb4a7c7c57df07db2055b636a2c6ba7a6bb069a",
+      "title": "Episode 53",
+      "published_at": "2021-12-08T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-53",
+      "description": "We’re talking… the big Wolf & Owl merch drop, poster shops, teenage clothing mistakes, new shows and new puppies, washing before sleep and making the most of hotel showers. Then some email questions on getting engaged, coping with a partner’s phone addiction and memorable night bus journeys. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7299750830.mp3?updated=1778255559",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3359",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
+      "key": "153969b590899f4d1c05c680e71b4f3ddae2164f",
+      "title": "Episode 52",
+      "published_at": "2021-12-01T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-52",
+      "description": "We’re talking… breakfast radio presenters, a change of heart on plastic Christmas trees, dirty fingernails, sweetcorn love, phone pranks, Idris Elba and an important meeting at Butlin's. Then, after clearing up the difference between colds and flu, we answer a few email questions on shameful drunken antics, voiceovers and early TV appearances. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6408491025.mp3?updated=1778255100",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3829",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
+      "key": "db80dc2ef6b857b0f80e4f2df7c4ed3a46ce398a",
+      "title": "Bonus Email Episode #23",
+      "published_at": "2021-11-26T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/bonus-email-episode-2",
+      "description": "The Wolf & Owl podcast is one year old! So it’s time to celebrate with an impromptu bonus episode - and a special birthday theme-tune remix too. Then, after some reminiscing about embarrassing teenage infatuations, we tackle email questions on what to do about a partner's annoying habits, beer fear and messing up when trying to make a good first impression. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9316576427.mp3?updated=1778254621",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2520",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "email"
+      ]
+    },
+    {
+      "key": "f4ea6f95536c9c2aef313015d752944985b4a648",
+      "title": "Episode 51",
+      "published_at": "2021-11-24T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-5",
+      "description": "We’re talking… camouflage fashion, dealing with unruly pupils, sixth form proms, Tom’s calamitous time in the Scouts, an embarrassing fall for Rom and Mustaffa the lion. Then a few of your emails, this week about a revelatory hack to reduce phone use, advice on helping out a nephew and comparing morning routines. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4458658021.mp3?updated=1778254384",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4046",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -5268,6 +5258,91 @@
       "itunes_duration": "4040",
       "speakers": [
         "Crawley Councillor",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
+      "key": "2add4d6cc3b9302934342a88214e6171d736cbb4",
+      "title": "Episode 49",
+      "published_at": "2021-11-10T08:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-49",
+      "description": "We’re talking… podcast reviews, the return of some scat chat, stag-do’s and the prankmeister general, a new puppy and a phone screen-time challenge. We also answer some of your emails, of course - this time on back pain, opinions on ‘private time’, and the best way to cook a potato. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5683462962.mp3?updated=1778253099",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3696",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
+      "key": "e8200372b9b31d03d9c5802ee9d30768b3e4459c",
+      "title": "Episode 48",
+      "published_at": "2021-11-03T08:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-4",
+      "description": "We’re talking… shiny trench coats, wardrobe classics, body shame issues, different type of laughs and hanging out with TV people. Then a couple of email questions on the rights and wrongs of preferring a quiet night in and sleeping with separate duvets. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5176089091.mp3?updated=1778252654",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3780",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
+      "key": "193d8628ad2a73b0662792e2455950809f67a323",
+      "title": "Episode 47",
+      "published_at": "2021-10-27T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-47",
+      "description": "We’re talking… new homes, family holidays, fashion statements (explained via The Transformers), removal companies, excessive hypochondria and the possibilities of a Romesh statue in Crawley. Plus, we answer some of your email questions on getting over embarrassing moments, the right way to deal with workplace abuse, and a Tom Davis positivity generator. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9475598808.mp3?updated=1778252274",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3854",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
+      "key": "b9c5e21d2289918f7ba10303b60f8c268b096876",
+      "title": "Episode 46",
+      "published_at": "2021-10-20T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-46",
+      "description": "We’re talking… fashion Russian-roulette, not going on runs, bonding over mountains, playing poker with zoo animals, computer game tuition and some unfortunate news about Tom’s dog. Plus, some email questions answered on TV shows our families bonded over, using rap to teach maths, and a problem with loud eating. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6004219911.mp3?updated=1778251807",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4037",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
+      "key": "125aa198de8dce83cae36b2b90727a5c6f89baef",
+      "title": "Episode 45",
+      "published_at": "2021-10-13T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode-45",
+      "description": "We’re talking… morning hair, dangerous dentists, making movies and meeting film stars, takeaway splurges, charity marathons and the many parts of Tom’s heart. Then it’s email time with a few questions answered on veggie recipe inspiration and a flatmate quandary. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8341a21c-4831-11ed-b685-6b64b76e2a0b/image/cove.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4231480721.mp3?updated=1778251429",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4234",
+      "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
       ],
@@ -6696,12 +6771,6 @@
 - 2022-05-28 — Ep 72: Local Radio & Celebrating Celebrations — speakers: Local Radio, Romesh Ranganathan, Tom Davis
 - 2022-05-18 — Ep 71: Quitting Sugar & Addictive TV — speakers: Romesh Ranganathan, Tom Davis
 - 2022-05-11 — Ep 70: Burritos & Wedding Cakes — speakers: Romesh Ranganathan, Tom Davis
-- 2022-05-04 — Ep 69: Stopping Swearing & Family Gatherings — speakers: Stopping Swearing, Romesh Ranganathan, Tom Davis
-- 2022-04-27 — Ep 68: Sandwich Joy & Stolen Sauces — speakers: Sandwich Joy, Romesh Ranganathan, Tom Davis
-- 2022-04-20 — Ep 67: Nervous Laughs & T-Shirt Weather — speakers: Nervous Laughs, Romesh Ranganathan, Tom Davis
-- 2022-04-06 — Ep 66: Garage Life & Sugar Fasting — speakers: Garage Life, Romesh Ranganathan, Tom Davis
-- 2022-03-30 — Ep 65: Show Openers & Oscars Shockers — speakers: Romesh Ranganathan, Tom Davis
-- 2022-03-23 — Ep 64: Heath Checks & Arrogant Animals — speakers: Heath Checks, Romesh Ranganathan, Tom Davis
 - 2022-03-16 — Ep 63: Home Haircuts & Restaurant Beef — speakers: Home Haircuts, Romesh Ranganathan, Tom Davis
 - 2022-03-02 — Ep 62: Hotel Rooms & Vegan Eggs — speakers: Hotel Rooms, Romesh Ranganathan, Tom Davis
 - 2022-02-23 — Ep 61: Driving Lessons & Live Shows — speakers: Romesh Ranganathan, Tom Davis
@@ -6709,9 +6778,21 @@
 - 2022-02-11 — Episode 59 — speakers: Romesh Ranganathan, Tom Davis
 - 2022-02-02 — Episode 58 — speakers: Romesh Ranganathan, Tom Davis
 - 2022-01-26 — Episode 57 — speakers: curry mile, Romesh Ranganathan, Tom Davis
+- 2022-01-19 — Episode 56 — speakers: Tom’s covid troubles, Romesh Ranganathan, Tom Davis
 - 2022-01-07 — Bonus New Year Episode — speakers: Romesh Ranganathan, Tom Davis
+- 2021-12-22 — Episode 55 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-12-15 — Episode 54 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-12-10 — Bonus Email Episode #24 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-12-08 — Episode 53 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-12-01 — Episode 52 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-11-26 — Bonus Email Episode #23 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-11-24 — Episode 51 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-11-17 — Episode 50 — speakers: Crawley Councillor, Romesh Ranganathan, Tom Davis
+- 2021-11-10 — Episode 49 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-11-03 — Episode 48 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-10-27 — Episode 47 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-10-20 — Episode 46 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-10-13 — Episode 45 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-10-06 — Episode 44 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-29 — Episode 43 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-09-24 — Bonus Email Episode #22 — speakers: Romesh Ranganathan, Tom Davis

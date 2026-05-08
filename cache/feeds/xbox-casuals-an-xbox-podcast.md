@@ -2,9 +2,9 @@
 
 - slug: `xbox-casuals-an-xbox-podcast`
 - source: `https://anchor.fm/s/1580e714/podcast/rss`
-- fetched_at: `2026-05-08T16:45:11+00:00`
-- checked_at: `2026-05-08T16:45:11+00:00`
-- etag: `W/"ccc99-3QM5ThSNcR4QZzjT1hKYB6wJZZk"`
+- fetched_at: `2026-05-08T19:44:46+00:00`
+- checked_at: `2026-05-08T19:44:46+00:00`
+- etag: `W/"ce3cc-fDg0DPwCi6HU+t0ezWMWkoiDPrA"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.towercasuals.com",
   "description": "Xbox Casuals is a biweekly podcast dedicated to all things Xbox, brought to you by Tower Casuals by Boss Rush Media and the Boss Rush Network. Every other Friday, hosts Corey Dirrig and Josh Finney break down the latest Xbox news, rumors, Game Pass updates, new releases, and more. Tune in for new episodes every other Friday on all major podcast platforms and on the Tower Casuals YouTube channel.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3507693/3507693-1778013671728-43cbd1cefedc1.jpg",
-  "fetched_at": "2026-05-08T16:45:11+00:00",
+  "fetched_at": "2026-05-08T19:44:46+00:00",
   "owners": [
     "Corey Dirrig",
     "Josh Finney"
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "9d37e0ab95951ae8cc5531cd4851677ca83330a4",
+      "title": "The Death of Xbox Copilot, Leadership Changes, and 007: First Light",
+      "published_at": "2026-05-08T17:07:21+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/xboxcasuals/episodes/The-Death-of-Xbox-Copilot--Leadership-Changes--and-007-First-Light-e3j3fsc",
+      "description": "The future of Xbox just got a whole lot more interesting with potential leaks, leadership shakeups, and a surprise shadow drop. This week on Xbox Casuals , ⁠Corey Dirrig⁠ and ⁠Josh Finney⁠ discuss new Xbox CEO Asha Sharma's continued aggression in player-first moves, the latest in leadership changes, Forza Horizon 6 and whether legit city racing could finally return to the series in its Japanese setting, the potential Halo 2 and Halo 3 remakes, and talk about why IO Interactive’s James Bond: First Light already feels like a Game of the Year contender. Plus they look ahead to the June Showcase, discuss if Fable can survive the GTA VI hype cycle, and what they could possibly see in the 30 minute showcase of Gears of War: E-Day. This and more ⁠ this week on Xbox Casuals ⁠. Join our communities: ⁠Boss Rush Community Discord⁠ ⁠Tower Casuals Destiny Discord⁠ Follow our Hosts: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Corey Dirrig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , Founder of Boss Rush Media, ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tower Casuals: The Destiny Podcast⁠,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and the ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Boss Rush Network⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Josh Finney⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , cofounder and cohost of ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tower Casuals: The Destiny Podcast⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ .",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3507693/3507693-1778260022819-2d1a049e96e2e.jpg",
+      "enclosure_url": "https://anchor.fm/s/1580e714/podcast/play/119700812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-8%2Fcf5eb2c9-a62d-1828-a4b1-808899b0e9df.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93568438",
+      "itunes_duration": "01:17:58",
+      "speakers": [
+        "Leadership Changes",
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
+      "topics": [
+        "death",
+        "xbox",
+        "copilot",
+        "leadership",
+        "changes",
+        "light"
+      ]
+    },
     {
       "key": "4c344c8bdad984807caa8b61b3e206cec29e5e04",
       "title": "Xbox Game Pass Gets Cheaper As Call of Duty Exits",
@@ -5196,6 +5221,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-08 — The Death of Xbox Copilot, Leadership Changes, and 007: First Light — speakers: Leadership Changes, Corey Dirrig, Josh Finney
 - 2026-04-24 — Xbox Game Pass Gets Cheaper As Call of Duty Exits — speakers: Gets Cheaper, Corey Dirrig, Josh Finney
 - 2026-03-27 — Epic Games Lays Off 1000 Employees as Industry Continues Its Spiral — speakers: Corey Dirri, Corey Dirrig, Josh Finney
 - 2026-03-13 — What is the Messaging Behind Xbox's Project Helix? — speakers: Project Helix, Corey Dirrig, Josh Finney
