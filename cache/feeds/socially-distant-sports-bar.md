@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-05-06T04:04:28+00:00`
-- checked_at: `2026-05-06T04:04:28+00:00`
-- etag: `"djEuMi4wOjE3NzgwMjI5OTkzMjk="`
+- fetched_at: `2026-05-08T03:53:40+00:00`
+- checked_at: `2026-05-08T03:53:40+00:00`
+- etag: `"djEuMi4wOjE3NzgxOTU2NzkyNjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-05-06T04:04:28+00:00",
+  "fetched_at": "2026-05-08T03:53:40+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "980693496f0cbddc743093f252c6a5f4853252bc",
+      "title": "Steaming Cocks (pt 2)",
+      "published_at": "2026-05-07T23:14:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/steaming-cocks-pt-2",
+      "description": "Elis James (Elis James & John Robins), Mike Bubbins (Mammoth) and producer Steff Garrero return for another episode of The Socially Distant Sports Bar. 👉 For early, ad‑free listening and bonus content, subscribe on Apple Podcasts. Part 2 slows things down — slightly — for a classic Sports Bar deeper dive. PART 2 Mike Documentary: Ivor Allchurch A look at the “Golden Boy of Welsh Football” — a Swansea and Newcastle legend who represented Wales at the 1958 World Cup. https://www.youtube.com/watch?v=MxyTRf8qTJg Elis Book / Reading: Phil Stead’s Substack Thoughtful sports writing and football culture essays, recommended by Elis. https://philstead.substack.com/ 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69f8899a8dd960ac61d7cc24/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105147840",
+      "itunes_duration": "43:48",
+      "speakers": [
+        "Steaming Cocks",
+        "Elis James",
+        "John Robins",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "cocks"
+      ]
+    },
     {
       "key": "eb2fc48f7c574a5e2a9235b22d423799170e04b3",
       "title": "Steaming Cocks (pt 1)",
@@ -14693,6 +14715,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — Steaming Cocks (pt 2) — speakers: Steaming Cocks, Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-05-05 — Steaming Cocks (pt 1) — speakers: Steaming Cocks, Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-05-02 — GloboPod: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-04-30 — Heseltine’s Mace (pt 2) — speakers: Heseltine’s Mace, Elis James, Mike Bubbins, Steff Garrero

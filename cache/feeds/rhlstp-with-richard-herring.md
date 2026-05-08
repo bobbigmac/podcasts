@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-07T22:16:03+00:00`
-- checked_at: `2026-05-07T22:16:03+00:00`
-- etag: `"djEuMi4wOjE3NzgxODk0NTk0MTE="`
+- fetched_at: `2026-05-08T03:53:40+00:00`
+- checked_at: `2026-05-08T03:53:40+00:00`
+- etag: `"djEuMi4wOjE3NzgyMDkwNTkyOTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-07T22:16:03+00:00",
+  "fetched_at": "2026-05-08T03:53:40+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4f6e60e68aaabb6d697c8f3549c601226372e4fd",
+      "title": "Retro Can I Have My Ball Back? - Episode 2",
+      "published_at": "2026-05-08T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#2 The Bagging Area with Dr Sara Kayat - Richard continues the story of his testicular cancer diagnosis and this week reveals how you maintain your dignity whilst having your balls scanned. He also talks to Dr Sara Kayat about why men are so reluctant to talk to their GP and the myriad of things that go wrong in a scrotum. Find out how to examine the testicles of yourself or a consenting friend here https://uk.movember.com/men-s-health/testicular-cancer For even more bollock facts and funny stories from Richard’s own diagnosis, Buy the Can I Have My Ball Back? book here https://www.gofasterstripe.com/ball SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1778189267184-df3cc36a-8e71-45b9-a7f1-b0d28b4ff060.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69fd03a8c117aa79bf513411/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "18942006",
+      "itunes_duration": "33:25",
+      "speakers": [
+        "Sara Kayat Richard",
+        "Richard Herring"
+      ],
+      "topics": [
+        "retro",
+        "ball"
+      ]
+    },
     {
       "key": "cd2752acf05fed56a46fa7aed2c7e22d165c6d50",
       "title": "RHLSTP Book Club 178 - John Robins (Part 1)",
@@ -22299,6 +22319,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-08 — Retro Can I Have My Ball Back? - Episode 2 — speakers: Sara Kayat Richard, Richard Herring
 - 2026-05-06 — RHLSTP Book Club 178 - John Robins (Part 1) — speakers: John Robins, Richard Herring
 - 2026-05-04 — Retro RHLSTP 142 - Catherine Bohart — speakers: Catherine Bohart, Naked Beach, Great Yarmouth, Richard Herring
 - 2026-05-02 — RAACN week 14 — speakers: Richard Herring

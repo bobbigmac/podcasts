@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-05-07T17:03:31+00:00`
-- checked_at: `2026-05-07T17:03:31+00:00`
-- etag: `"djEuMi4wOjE3NzgxNzA5MzU1NzU="`
+- fetched_at: `2026-05-08T03:53:40+00:00`
+- checked_at: `2026-05-08T03:53:40+00:00`
+- etag: `"djEuMi4wOjE3NzgxOTQ5NTkzNTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-05-07T17:03:31+00:00",
+  "fetched_at": "2026-05-08T03:53:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ebb634aad96b29c93f89c7e34ada0820abe8c2cd",
+      "title": "My Time Capsule The Dig - Ep. 1 - With Lucy Porter!",
+      "published_at": "2026-05-07T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-1-with-lucy-porter",
+      "description": "A brand new podcast from us: My Time Capsule - The Dig! Mike and his producer and son John sit down together for a dig around in this week's Time Capsule, dig up Lucy Porter's old Time Capsule (with the woman herself), play exclusive unheard clips and interact with listeners via email and voice memos. Get involved and send The Dig an email or voice memo, via - https://mytimecapsulepodcast.com/dig . For Lucy Porter's tour tickets and much more, visit - https://www.lucyporter.co.uk . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1778170682738-641c1d7e-84b5-459b-b632-d9236201a40d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/69fcbc372b71c054a35806f1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55378985",
+      "itunes_duration": "46:08",
+      "speakers": [
+        "Lucy Porter",
+        "John sit"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "lucy",
+        "porter"
+      ]
+    },
     {
       "key": "be86ffffe287ac87f14790ef581e9c6664766ec2",
       "title": "Ep. 583 - Dean Friedman - Singer-songwriter best known for the hits “Ariel” and “Lucky Stars”",
@@ -12506,6 +12528,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — My Time Capsule The Dig - Ep. 1 - With Lucy Porter! — speakers: Lucy Porter, John sit
 - 2026-05-04 — Ep. 583 - Dean Friedman - Singer-songwriter best known for the hits “Ariel” and “Lucky Stars” — speakers: Dean Friedman
 - 2026-05-01 — Ep. 582 - Joe Wilkinson Unedited - An uncut version of our episode with the Celebrity Traitors star! — speakers: Joe Wilkinson
 - 2026-04-26 — Ep. 581 - Eleanor Morton - Award winning comedian who's written for The News Quiz, The Now Show, Hypothetical and The Beano. — speakers: Eleanor Morton, Edinburgh Fringe

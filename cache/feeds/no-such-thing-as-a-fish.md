@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-05-07T17:03:31+00:00`
-- checked_at: `2026-05-07T17:03:31+00:00`
-- etag: `W/"93011981ccd24963b1f629d0b5832d11"`
-- last_modified: `Thu, 07 May 2026 16:20:53 GMT`
+- fetched_at: `2026-05-08T03:53:40+00:00`
+- checked_at: `2026-05-08T03:53:40+00:00`
+- etag: `W/"2592a1902a0d427fc7ed1a1d16fc62d6"`
+- last_modified: `Thu, 07 May 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-05-07T17:03:31+00:00",
+  "fetched_at": "2026-05-08T03:53:40+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,28 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "584f78331424cd974dc628236d729c4c14df47c6",
+      "title": "No Such Thing As A Ham Bag",
+      "published_at": "2026-05-07T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8900570",
+      "description": "Susie Dent joins Dan, James and Andy to discuss mums, tongues, Tods and Boz. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Get NordVPN two-year plan + four months extra ➼ https://nordvpn.com/fish It’s risk-free with Nord’s 30-day money-back guarantee.",
+      "image_url": "https://audioboom.com/i/43635030.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8900570.mp3?modified=1778168134&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3426",
+      "speakers": [
+        "Susie Dent",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing"
+      ]
+    },
     {
       "key": "18457a9a424332c684a181cbd5572c4aef0c964b",
       "title": "Little Fish: You've Hit The Nail On the Head",
@@ -16220,6 +16242,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — No Such Thing As A Ham Bag — speakers: Susie Dent, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-03 — Little Fish: You've Hit The Nail On the Head — speakers: Jack Black, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-04-30 — No Such Thing As Imaginary Flumps — speakers: Amy Gledhill, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-04-26 — Little Fish: Jurassic Bark — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
