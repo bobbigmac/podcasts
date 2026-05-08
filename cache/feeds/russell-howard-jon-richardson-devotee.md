@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-05-08T10:48:51+00:00`
-- checked_at: `2026-05-08T10:48:51+00:00`
-- etag: `W/"2d7d6-Yy0PvdB06XeKCrXmm5WmCISz2DU"`
+- fetched_at: `2026-05-08T14:16:30+00:00`
+- checked_at: `2026-05-08T14:16:30+00:00`
+- etag: `W/"2ddc6-m5l4aG6PEroRgUi5hPIVYZy4F/I"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,44 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-05-08T10:48:51+00:00",
+  "fetched_at": "2026-05-08T14:16:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "81da4a935ee6fddf01521ccd6f84870327646ace",
+      "title": "Josh Widdicombe XFM #9 – Rob Beckett, James Acaster Classic Scrape 9, Joe Lycett on Ronald Reagan",
+      "published_at": "2026-05-07T19:46:14+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-9--Rob-Beckett--James-Acaster-Classic-Scrape-9--Joe-Lycett-on-Ronald-Reagan-e3j242h",
+      "description": "Rob Beckett joins Josh in the studio. James Acaster has another Classic Scrape and Joe Lycett talks about Ronald Reagan & being bumped for Alan Carr last week.Broadcast on 2nd April 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1778183113965-c01f1af48a525.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/119655953/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-7%2F838f3ac0-318c-471f-e892-a7f3bf1b45c3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35827792",
+      "itunes_duration": "00:37:18",
+      "speakers": [
+        "Rob Beckett",
+        "James Acaster Classic Scrape",
+        "Joe Lycett",
+        "Ronald Reagan",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "beckett",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "lycett",
+        "ronald",
+        "reagan"
+      ]
+    },
     {
       "key": "a649d32808beaa9cbab96e486ff242b58c25f853",
       "title": "Josh Widdicombe XFM #8 – Alan Carr, James Acaster Classic Scrape 8",
@@ -3309,6 +3340,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-07 — Josh Widdicombe XFM #9 – Rob Beckett, James Acaster Classic Scrape 9, Joe Lycett on Ronald Reagan — speakers: Rob Beckett, James Acaster Classic Scrape, Joe Lycett, Ronald Reagan, James Acaster
 - 2026-05-06 — Josh Widdicombe XFM #8 – Alan Carr, James Acaster Classic Scrape 8 — speakers: Alan Carr, James Acaster Classic Scrape, James Acaster
 - 2026-05-05 — Josh Widdicombe XFM #7 – James Acaster Classic Scrape 7, Joe Lycett on Chris Huhne & Vicky Pryce — speakers: James Acaster Classic Scrape, Joe Lycett, Vicky Pryce, James Acaster, Chris Huhne
 - 2026-04-30 — Josh Widdicombe XFM #6 – Adam Hills & Alex Brooker, James Acaster Classic Scrape 6, Joe Lycett — speakers: Alex Brooker, James Acaster Classic Scrape, Joe Lycett Adam Hills, James Acaster
