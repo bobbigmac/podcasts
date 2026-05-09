@@ -14623,6 +14623,28 @@
     ],
     "alex-horne": [
       {
+        "feed_slug": "external:apple:c6031f1ae9bf",
+        "feed_title": "Hawksbee and Jacobs Daily",
+        "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
+        "dedupe_key": "34bb98ce9d10bf303b2e6a8cf2df0bab0e54f60b",
+        "episode_key": "34bb98ce9d10bf303b2e6a8cf2df0bab0e54f60b",
+        "title": "Football’s Elite and the Chicken City Derby",
+        "published_at": "2026-05-07T15:28:03Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Paul Hawksbee and Charlie Baker are in the chairs for this edition of the podcast.\nWe start with French football expert Julien Laurens, who drops by to give us his expert take on all the latest action from the Champions League.\nThen, comedian and Taskmaster star Alex Horne joins the guys to talk about a very special ch",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/hawksbeeandjacobs/e/69fcaf83385e8d5e307767fa/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/footballs-elite-and-the-chicken-city-derby/id348889102?i=1000766640750&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f6f6a1cd1e9f",
         "feed_title": "Taskmaster Ísland",
         "source_rss_url": "https://feed.podbean.com/taskmasterisland/feed.xml",
@@ -24450,6 +24472,28 @@
         "description": "Former GB badminton player Gail Emms, football journalist John Cross, The Big Issue editor Paul McNamee and comedian Nish Kumar join Rick Edwards for an hour of sporting punditry, humour and entertainment. Points are awarded for informed comment, wit and passion, but taken away for nonsense and answers lacking in convi",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nj01gf.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/gail-emms-john-cross-nish-kumar-paul-mcnamee/id73330572?i=1000765771231&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:5b707c818a78",
+        "feed_title": "Top Stories!",
+        "source_rss_url": "https://rss.pdrl.fm/4128f0/feeds.acast.com/public/shows/6310d4dfae5d1300124c4e12",
+        "dedupe_key": "71f2765316266e58a293a98997b4abfda0fab0d1",
+        "episode_key": "71f2765316266e58a293a98997b4abfda0fab0d1",
+        "title": "AND…WE’RE LIVE!",
+        "published_at": "2026-04-28T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome to Top Stories! In a Bugle first, live from the New Town Theatre, Edinburgh. We let YOU the Buglers, choose the Top Story, Joining Andy for issue 4117, Nish Kumar and Aditi Mittal. Listen now to see what the live audience went for! \nThanks, more classic clips tomorrow. Now go listen to the latest Bugle, in your",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6310d4dfae5d1300124c4e12/e/69ef93d326249124d5424465/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/and-were-live/id1647976369?i=1000763840042&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

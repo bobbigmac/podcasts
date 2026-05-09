@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-08T22:11:07+00:00`
-- checked_at: `2026-05-08T22:11:07+00:00`
-- last_modified: `Fri, 08 May 2026 21:06:51 GMT`
+- fetched_at: `2026-05-09T03:55:03+00:00`
+- checked_at: `2026-05-09T03:55:03+00:00`
+- last_modified: `Fri, 08 May 2026 22:30:44 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-08T22:11:07+00:00",
+  "fetched_at": "2026-05-09T03:55:03+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -4836,6 +4836,28 @@
       "topics": []
     },
     {
+      "key": "830562bbe153e359ae4fa9bc5e225f3591f63d57",
+      "title": "Ep 74: Middle Age Partying & County Fairs",
+      "published_at": "2022-06-08T06:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-74-middle-aged-partying-county-fairs",
+      "description": "We’re talking…. acceptable venues for middle age nights out, elderflower lager, county fair attire, sleeveless shirts, extreme shaving, festival infatuations, little white lies and the intimidating thought of dating again. Plus, we receive a shocking revelation on the ‘My Guy!’ debate and answer a few of your emails too. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/668bba2c-4831-11ed-b685-e31ea2fa57d3/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4460663209.mp3?updated=1778271312",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3046",
+      "speakers": [
+        "Middle Age Partying",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "partying",
+        "county",
+        "fairs"
+      ]
+    },
+    {
       "key": "827820dc27c71d091a33e43b780e5e086d05f703",
       "title": "Ep 73: Crap Raps & A Solid Night’s Sleep",
       "published_at": "2022-06-01T06:00:00+00:00",
@@ -6878,6 +6900,7 @@
 - 2022-07-06 — S2 Ep 3: Sunny Days & Funny Nights — speakers: Romesh Ranganathan, Tom Davis
 - 2022-06-29 — S2 Ep 2: Paper Maps & Gig Mishaps — speakers: Gig Mishaps, Romesh Ranganathan, Tom Davis
 - 2022-06-22 — S2 Ep 1: Or should that be Episode 100? — speakers: Romesh Ranganathan, Tom Davis
+- 2022-06-08 — Ep 74: Middle Age Partying & County Fairs — speakers: Middle Age Partying, Romesh Ranganathan, Tom Davis
 - 2022-06-01 — Ep 73: Crap Raps & A Solid Night’s Sleep — speakers: Crap Raps, Solid Night, Romesh Ranganathan, Tom Davis
 - 2022-05-28 — Ep 72: Local Radio & Celebrating Celebrations — speakers: Local Radio, Romesh Ranganathan, Tom Davis
 - 2022-05-18 — Ep 71: Quitting Sugar & Addictive TV — speakers: Romesh Ranganathan, Tom Davis
