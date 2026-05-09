@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-05-09T16:07:52+00:00`
-- checked_at: `2026-05-09T16:07:52+00:00`
-- last_modified: `Sat, 09 May 2026 15:51:11 GMT`
+- fetched_at: `2026-05-09T19:32:46+00:00`
+- checked_at: `2026-05-09T19:32:46+00:00`
+- last_modified: `Sat, 09 May 2026 19:24:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/40fdac0908467e0692b2c0139f4db663.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-09T16:07:52+00:00",
+  "fetched_at": "2026-05-09T19:32:46+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -290,25 +290,6 @@
       "topics": [
         "chantel",
         "nash"
-      ]
-    },
-    {
-      "key": "7c43783409cc73dd038234616ce81076bfb86d84",
-      "title": "S12 EP23: The One Where Rob Poops The Bed",
-      "published_at": "2026-03-24T08:01:00+00:00",
-      "link": null,
-      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... in this episode Rob has a bowel accident while filming abroad and gets mugged by a monkey. Parenting Hell is a Spotify Podcast, available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8580498018.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3247",
-      "speakers": [
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "poops"
       ]
     },
     {
@@ -658,42 +639,6 @@
         "hill",
         "return"
       ]
-    },
-    {
-      "key": "e335223c788629f2d9224ccebc88bf042d4f9ef6",
-      "title": "S12 EP5: The kind way is often worse",
-      "published_at": "2026-01-20T05:14:00+00:00",
-      "link": null,
-      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... it's January so Josh has over booked himself and might be having a manic episode. You can listen to Josh's new podcast ⁠⁠ ⁠ 'Museum of Pop Culture'⁠⁠⁠ wherever you get your podcasts. New episodes released twice a week. Parenting Hell is a Spotify Podcast, available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1960942525.mp3?updated=1768886386",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3295",
-      "speakers": [
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "kind"
-      ]
-    },
-    {
-      "key": "cd2cc1d18e457b53cd66273325c5fcbac0d1bae1",
-      "title": "S12 EP4: You've Jet-lagged Yourself",
-      "published_at": "2026-01-16T15:33:00+00:00",
-      "link": null,
-      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... You can listen to Josh's new podcast ⁠ ⁠ 'Museum of Pop Culture'⁠⁠ wherever you get your podcasts. New episodes released twice a week. Parenting Hell is a Spotify Podcast, available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6923384354.mp3?updated=1768657714",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3614",
-      "speakers": [
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": []
     },
     {
       "key": "b605e58ac19a3d8feb0208be1fbe9ba9c13095f2",
@@ -1200,28 +1145,6 @@
       "topics": [
         "rugged",
         "ready"
-      ]
-    },
-    {
-      "key": "0280d034971126a57de6723e38cb412f389d244c",
-      "title": "S11 EP19: Harry Aikines-Aryeetey",
-      "published_at": "2025-10-17T00:11:00+00:00",
-      "link": null,
-      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the brilliant former commonwealth sprinter - Harry Aikines-Aryeetey. A former Commonwealth sprinter and television personality, known for appearing as \"Nitro\" in the BBC sports endurance competition series Gladiators You can see Harry on the latest series of Strictly Come Dancing. Get your votes in!! NOTE: This episode was recorded before the new series of Strictly began. Parenting Hell is a Spotify Podcast, available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1261320435.mp3?updated=1767055897",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3324",
-      "speakers": [
-        "Harry Aikines-Aryeetey",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "harry",
-        "aikines",
-        "aryeetey"
       ]
     },
     {
@@ -2167,26 +2090,6 @@
       ]
     },
     {
-      "key": "651fe20b9d0788c7d7641e054fec2dc065664da5",
-      "title": "S10 EP21: Opinion Juice",
-      "published_at": "2025-05-06T06:27:00+00:00",
-      "link": null,
-      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... Please follow and leave a rating and review you filthy street dogs... xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk INSTAGRAM: @parentinghell Parenting Hell is a Spotify Podcast, available free everywhere every Tuesday and Friday. ﻿MAILING LIST: ⁠⁠parentinghellpodcast.mailchimpsites.com⁠⁠ Join the mailing list to be first to hear about live show dates and tickets, Parenting Hell merch and any other exciting news... A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2524916717.mp3?updated=1746513159",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3316",
-      "speakers": [
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "opinion",
-        "juice"
-      ]
-    },
-    {
       "key": "833e1b4b213031b01d090e88159ddf394ad4a3f6",
       "title": "S10 EP20: Pete Doherty",
       "published_at": "2025-05-02T08:30:00+00:00",
@@ -2274,28 +2177,6 @@
       ]
     },
     {
-      "key": "723a12ba08c4b5205539146b44045005eb2c9d67",
-      "title": "S10 EP16: Joel Dommett (The Return)",
-      "published_at": "2025-04-18T01:21:00+00:00",
-      "link": null,
-      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) for his second appearance on the show is our good friend, the comedian, actor and presenter - Joel Dommett. You can find info and tickets for Joel's new tour 'Happy Idiot' HERE Parenting Hell is a Spotify Podcast, available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: @parentinghell ﻿ Join the mailing list to be first to hear about live show dates and tickets, Parenting Hell merch and any other exciting news... MAILING LIST: parentinghellpodcast.mailchimpsites.com A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4805444580.mp3?updated=1744936516",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3843",
-      "speakers": [
-        "Joel Dommett",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "joel",
-        "dommett",
-        "return"
-      ]
-    },
-    {
       "key": "295c2a93406911eb61e66e7c9df96845e6dd51ac",
       "title": "S10 EP15: Josh the Birthday Boy",
       "published_at": "2025-04-14T23:45:00+00:00",
@@ -2357,27 +2238,6 @@
       "topics": [
         "drunk",
         "melody"
-      ]
-    },
-    {
-      "key": "46bea3c783fcecefa9ae7a027153235c266a6390",
-      "title": "S10 EP12: Gemma Atkinson",
-      "published_at": "2025-04-04T00:00:00+00:00",
-      "link": null,
-      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the presenter and actress - Gemma Atkinson . Gemma's new children's book 'Let's Get Ready' is available now. Let’s Get Ready is a fun, yet practical take on getting ready in the morning. The book includes nifty hints and tips for children to use the toilet, wash their hands, brush their teeth, and get dressed! With tricks and songs (including the magical coat trick, the toothbrushing song, shoe stickers and the get-dressed-jiggle) Let’s Get Ready will help children (and their grownups) remember what to do. This picture book for 3+ offers children, parents and carers alike all of the practical advice required for school readiness. Parenting Hell is a Spotify Podcast, available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: @parentinghell ﻿ Join the mailing list to be first to hear about live show dates and tickets, Parenting Hell merch and any other exciting news... MAILING LIST: parentinghellpodcast.mailchimpsites.com A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2500676754.mp3?updated=1743721060",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3181",
-      "speakers": [
-        "Gemma Atkinson",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "gemma",
-        "atkinson"
       ]
     },
     {
@@ -2671,26 +2531,6 @@
       ]
     },
     {
-      "key": "228f58ebca1c3a5b6bef46e1ba5e36d421a03fae",
-      "title": "S9 EP47: Rob's House Has a Leak",
-      "published_at": "2025-02-11T07:37:00+00:00",
-      "link": null,
-      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... The guus discuss Rob's house having a water leak, Josh's appearance on Michael McIntyre's Midnight Game show, and is it weird to not take your watch off when you go to bed? Please follow and leave a rating and review you filthy street dogs... xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk INSTAGRAM: @parentinghell Parenting Hell is a Spotify Podcast, available free everywhere every Tuesday and Friday. ﻿MAILING LIST: parentinghellpodcast.mailchimpsites.com Join the mailing list to be first to hear about live show dates and tickets, Parenting Hell merch and any other exciting news... A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2558140042.mp3?updated=1767056119",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3642",
-      "speakers": [
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "house",
-        "leak"
-      ]
-    },
-    {
       "key": "e1c9c85644164fb8ce35c008b3931c98752a6005",
       "title": "S9 EP46: Jack Dee (The Return)",
       "published_at": "2025-02-07T01:00:00+00:00",
@@ -2731,27 +2571,6 @@
         "voice",
         "note",
         "beckett"
-      ]
-    },
-    {
-      "key": "be545597d565b81d5d1ec0da543cc90c36d559cd",
-      "title": "S9 EP44: Harry Judd",
-      "published_at": "2025-01-31T07:31:00+00:00",
-      "link": null,
-      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the brilliant musician (as the drummer from McFly), author, dancer and presenter - Harry Judd. You can listen to Harry's brilliant podcast 'Binge' HERE Parenting Hell is a Spotify Podcast, available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: @parentinghell ﻿ Join the mailing list to be first to hear about live show dates and tickets, Parenting Hell merch and any other exciting news... MAILING LIST: parentinghellpodcast.mailchimpsites.com A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2797569033.mp3?updated=1738309124",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4041",
-      "speakers": [
-        "Harry Judd",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "harry",
-        "judd"
       ]
     },
     {
@@ -2894,27 +2713,6 @@
       ]
     },
     {
-      "key": "d939f13c1aaab3af0580190eb7e927e2a8f85c07",
-      "title": "S9 EP36: Casa Del Plyboard",
-      "published_at": "2025-01-03T08:44:00+00:00",
-      "link": null,
-      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... Please follow and leave a rating and review you filthy street dogs... xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk INSTAGRAM: @parentinghell Parenting Hell is a Spotify Podcast, available free everywhere every Tuesday and Friday. ﻿MAILING LIST: parentinghellpodcast.mailchimpsites.com Join the mailing list to be first to hear about live show dates and tickets, Parenting Hell merch and any other exciting news... A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5150751119.mp3?updated=1735894285",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "2520",
-      "speakers": [
-        "Casa Del Plyboard",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "casa",
-        "plyboard"
-      ]
-    },
-    {
       "key": "06257a23450118b8931cf140819949978fd7aad6",
       "title": "S9 EP35: The Playground Shaggers Festive Special",
       "published_at": "2024-12-24T03:00:00+00:00",
@@ -2953,48 +2751,6 @@
       ],
       "topics": [
         "google"
-      ]
-    },
-    {
-      "key": "1be1b94cf6abc6f921b42ee290df8e5047bff2ea",
-      "title": "S9 EP33: Josh moves back home",
-      "published_at": "2024-12-17T05:10:00+00:00",
-      "link": null,
-      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... Please follow and leave a rating and review you filthy street dogs... xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk INSTAGRAM: @parentinghell Parenting Hell is a Spotify Podcast, available free everywhere every Tuesday and Friday. ﻿MAILING LIST: parentinghellpodcast.mailchimpsites.com Join the mailing list to be first to hear about live show dates and tickets, Parenting Hell merch and any other exciting news... A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4811638891.mp3?updated=1767055910",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3037",
-      "speakers": [
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "josh"
-      ]
-    },
-    {
-      "key": "8f1667a0198a038019c5d6be0bc0bb1966525f93",
-      "title": "S9 EP32: The Christmas Stress Tornado",
-      "published_at": "2024-12-13T07:53:00+00:00",
-      "link": null,
-      "description": "**TRIGGER WARNING** There is discussion of both Santa Claus and Elves Behaving Badly in this episode that is not suitable for younger ears!! More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... Please follow and leave a rating and review you filthy street dogs... xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk INSTAGRAM: @parentinghell Parenting Hell is a Spotify Podcast, available free everywhere every Tuesday and Friday. ﻿MAILING LIST: parentinghellpodcast.mailchimpsites.com Join the mailing list to be first to hear about live show dates and tickets, Parenting Hell merch and any other exciting news... A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2989015663.mp3?updated=1767056017",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3403",
-      "speakers": [
-        "Santa Claus",
-        "Elves Behaving Badly",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "christmas",
-        "stress",
-        "tornado"
       ]
     },
     {
@@ -3037,27 +2793,6 @@
       "topics": [
         "vogue",
         "williams"
-      ]
-    },
-    {
-      "key": "194e8fe829577053c68428ec8893a481e0f64d95",
-      "title": "S9 EP29: No Anecdote Too Small",
-      "published_at": "2024-12-03T03:00:00+00:00",
-      "link": null,
-      "description": "**TRIGGER WARNING** There is discussion of Santa Claus and Lapland in this episode not suitable for younger ears!! More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... Please follow and leave a rating and review you filthy street dogs... xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk INSTAGRAM: @parentinghell Parenting Hell is a Spotify Podcast, available free everywhere every Tuesday and Friday. ﻿MAILING LIST: parentinghellpodcast.mailchimpsites.com Join the mailing list to be first to hear about live show dates and tickets, Parenting Hell merch and any other exciting news... A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2464614110.mp3?updated=1767056102",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "2424",
-      "speakers": [
-        "No Anecdote Too Small",
-        "Santa Claus",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "anecdote"
       ]
     },
     {
@@ -3123,26 +2858,6 @@
       ]
     },
     {
-      "key": "e3272e6c2585b9edc80d5feaf5b6982412f26591",
-      "title": "S9 EP25: Time To Ban Homework",
-      "published_at": "2024-11-19T06:21:00+00:00",
-      "link": null,
-      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... Please follow and leave a rating and review you filthy street dogs... xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk INSTAGRAM: @parentinghell Parenting Hell is a Spotify Podcast, available free everywhere every Tuesday and Friday. ﻿MAILING LIST: parentinghellpodcast.mailchimpsites.com Join the mailing list to be first to hear about live show dates and tickets, Parenting Hell merch and any other exciting news... A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5509007788.mp3?updated=1767056036",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "2971",
-      "speakers": [
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "time",
-        "homework"
-      ]
-    },
-    {
       "key": "95075b84611fc50004091a74e2e808346eed1bd5",
       "title": "S9 EP24: The Theme Parks Special",
       "published_at": "2024-11-15T05:23:00+00:00",
@@ -3162,26 +2877,6 @@
         "theme",
         "parks",
         "special"
-      ]
-    },
-    {
-      "key": "638d3354b43d0797eb510128d455598a9e9651a9",
-      "title": "S9 EP23: Josh and Strictly Come Dancing",
-      "published_at": "2024-11-12T04:00:00+00:00",
-      "link": null,
-      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... In this episode Josh discusses the huge announcement that he will be doing the Christmas special of Strictly Come Dancing!! Please follow and leave a rating and review you filthy street dogs... xx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk INSTAGRAM: @parentinghell Parenting Hell is a Spotify Podcast, available free everywhere every Tuesday and Friday. ﻿MAILING LIST: parentinghellpodcast.mailchimpsites.com Join the mailing list to be first to hear about live show dates and tickets, Parenting Hell merch and any other exciting news... A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2032270180.mp3?updated=1731384379",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "2408",
-      "speakers": [
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "josh",
-        "dancing"
       ]
     },
     {
@@ -5857,28 +5552,6 @@
       ]
     },
     {
-      "key": "6aa05ee8acfdd55d6025b41c1ace27a2da46e589",
-      "title": "S7 EP4: Seann Walsh (The Return)",
-      "published_at": "2023-08-04T06:20:00+00:00",
-      "link": null,
-      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the brilliant comedian - Seann Walsh. We spoke to Seann earlier in the year before the baby was due about his expectations, let's see if the reality has lived up to them... You can get tickets for Seann's new stand-up tour 'Back From The Bed' HERE Parenting Hell is a Spotify Podcast, available everywhere every Tuesday and Friday. Please leave a rating and review you filthy street dogs... xx If you want to get in touch with the show here's how: EMAIL: Hello@lockdownparenting.co.uk INSTAGRAM: @parentinghell MAILING LIST: parentinghellpodcast.mailchimpsites.com A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com (N) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7717773018.mp3?updated=1695650866",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3367",
-      "speakers": [
-        "Seann Walsh",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "seann",
-        "walsh",
-        "return"
-      ]
-    },
-    {
       "key": "4e8dd1d705c3a5072b5196c3c1ddafb2f9dc1d27",
       "title": "S7 EP3: Price check on the condoms...",
       "published_at": "2023-08-01T02:00:00+00:00",
@@ -5998,27 +5671,6 @@
         "Josh Widdicombe"
       ],
       "topics": []
-    },
-    {
-      "key": "d0f367b7ce19fc58b83b12fd8580b22bb9935acb",
-      "title": "S6 EP52: Natalie Cassidy",
-      "published_at": "2023-07-07T03:00:00+00:00",
-      "link": null,
-      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the brilliant actress - Natalie Cassidy. Natalie has played Sonia Fowler in Eastenders since 1993 and was also a contestant on the seventh series of Strictly Come Dancing and the ninth series of Celebrity Big Brother. Parenting Hell is available exclusively (for free!) only on Spotify every Tuesday and Friday. Please leave a rating and review you filthy street dogs... xx If you want to get in touch with the show here's how: EMAIL: Hello@lockdownparenting.co.uk INSTAGRAM: @parentinghell MAILING LIST: parentinghellpodcast.mailchimpsites.com A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1512052997.mp3?updated=1688693496",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3170",
-      "speakers": [
-        "Natalie Cassidy",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "natalie",
-        "cassidy"
-      ]
     },
     {
       "key": "0fd4b5968aa105750244dfd5d7d29dbe70a89ef2",
@@ -6845,27 +6497,6 @@
       ]
     },
     {
-      "key": "efb3999485f4fefbd37b9275aac79b681ba1d1c7",
-      "title": "S6 EP10: Cariad Lloyd",
-      "published_at": "2023-02-10T04:00:00+00:00",
-      "link": null,
-      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the brilliant podcaster and actress - Cariad Lloyd. You can listen to Cariad's podcast 'Griefcast' wherever you get your podcasts. And her new book 'You Are Not Alone' is out now. Thanks, Rob + Josh. We're going on tour!! Fancy seeing the podcast live in some of the best venues in the UK? Of course you do, you're not made of stone! Tickets available now on the dates and at the venues below. We can't wait to see you there... ON SALE NOW 14th April 2023 - Manchester AO Arena 19th April 2023 - Nottingham 20th April 2023 - Cardiff 21st April 2023 - London (The O2) 23rd April 2023 - London (Wembley) 28th April 2023 - Birmingham Utilita Arena If you want to get in touch with the show here's how: EMAIL: Hello@lockdownparenting.co.uk TWITTER: @parenting_hell INSTAGRAM: @parentinghell A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7272953865.mp3?updated=1724242106",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4057",
-      "speakers": [
-        "Cariad Lloyd Joining",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "cariad",
-        "lloyd"
-      ]
-    },
-    {
       "key": "bd39fb9d3c53022e4c8ff4a0b54eb2f4d1d662bf",
       "title": "S6 EP9: What's the worst smell you've ever smelt?",
       "published_at": "2023-02-07T03:00:00+00:00",
@@ -7147,28 +6778,6 @@
       ]
     },
     {
-      "key": "a385757368238981f7f58247a48c7b5d03963d84",
-      "title": "S05 EP42: Jarred Christmas (The Return)",
-      "published_at": "2022-12-16T03:00:00+00:00",
-      "link": null,
-      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the return of the brilliant comedian - Jarred Christmas. You can see Jarred in panto this season as Buttons in Cinderella at De Montfort Hall, Leicester. And tickets for 'The Mighty Kids Beatbox Comedy Show' are available now. Thanks, Rob + Josh. We're going on tour!! Fancy seeing the podcast live in some of the best venues in the UK? Of course you do, you're not made of stone! Tickets available now on the dates and at the venues below. We can't wait to see you there... ON SALE NOW 14th April 2023 - Manchester AO Arena 19th April 2023 - Nottingham 20th April 2023 - Cardiff 21st April 2023 - London (The O2) 23rd April 2023 - London (Wembley) 28th April 2023 - Birmingham Utilita Arena If you want to get in touch with the show here's how: EMAIL: Hello@lockdownparenting.co.uk TWITTER: @parenting_hell INSTAGRAM: @parentinghell A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2487893664.mp3?updated=1724369599",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3611",
-      "speakers": [
-        "Jarred Christmas",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "jarred",
-        "christmas",
-        "return"
-      ]
-    },
-    {
       "key": "f7f5005562fb87eac4fbfaab7b6e28bab524fb81",
       "title": "S05 EP41: Thanks to Lou. Apologies to Rose.",
       "published_at": "2022-12-13T04:15:00+00:00",
@@ -7429,27 +7038,6 @@
       ]
     },
     {
-      "key": "93e08f6167a0162c4789a550e1b5807b6137eab8",
-      "title": "S05 EP28: Anton Du Beke",
-      "published_at": "2022-10-28T07:33:04+00:00",
-      "link": null,
-      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the brilliant dancer and presenter - Anton Du Beke. Anton's new book 'The Ballroom Blitz' is out now. Thanks, Rob + Josh. We're going on tour!! Fancy seeing the podcast live in some of the best venues in the UK? Of course you do, you're not made of stone! Tickets available now on the dates and at the venues below. We can't wait to see you there... ON SALE NOW 14th April 2023 - Manchester AO Arena 19th April 2023 - Nottingham 20th April 2023 - Cardiff 21st April 2023 - London (The O2) 23rd April 2023 - London (Wembley) 28th April 2023 - Birmingham Utilita Arena If you want to get in touch with the show here's how: EMAIL: Hello@lockdownparenting.co.uk TWITTER: @parenting_hell INSTAGRAM: @parentinghell A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5272220757.mp3?updated=1737886342",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3251",
-      "speakers": [
-        "Anton Du Beke",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "anton",
-        "beke"
-      ]
-    },
-    {
       "key": "7964f3e0d1dd00fc9558ae7d49bc977a4edfea89",
       "title": "S05 EP27: Gary Neville",
       "published_at": "2022-10-25T04:35:44+00:00",
@@ -7489,29 +7077,6 @@
       "topics": [
         "rachel",
         "parris"
-      ]
-    },
-    {
-      "key": "4ed888c38b363ad2fc52ac8eb1818bf667276cec",
-      "title": "S05 EP25: Brown Noise And Temperature Guns",
-      "published_at": "2022-10-18T06:00:00+00:00",
-      "link": null,
-      "description": "More misadventures in parenting (and beyond) with Rob and Josh... Please leave a rating and review you filthy street dogs... xx If you want to get in touch with the show here's how: EMAIL: Hello@lockdownparenting.co.uk TWITTER: @parenting_hell INSTAGRAM: @parentinghell MAILING LIST: parentinghellpodcast.mailchimpsites.com A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6659735852.mp3?updated=1737886414",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3013",
-      "speakers": [
-        "Brown Noise",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "brown",
-        "noise",
-        "temperature",
-        "guns"
       ]
     },
     {
@@ -11753,27 +11318,6 @@
       ]
     },
     {
-      "key": "7c06d9a279f9261155a88ab33e1457b5983e28ce",
-      "title": "S01 EP27: Dara Ó Briain",
-      "published_at": "2020-07-28T01:00:10+00:00",
-      "link": "https://www.spreaker.com/user/12633137/lph-dara-final",
-      "description": "ROB BECKETT & JOSH WIDDICOMBE'S 'LOCKDOWN PARENTING HELL' - S01 EP27: Dara Ó Briain Joining us in the studio this episode to discuss the highs and lows of parenting (and life) during the lock down and beyond is the brilliant comedian and presenter, Dara Ó Briain. Find out more about the great range of school uniform available from F&F at Tesco here: https://bit.ly/BackToSchoolPC Available in selected larger stores. Subject to availability. Excludes Next. Enjoy. Rate and Review. Thanks. xxx If you want to get in touch with the show here's how: EMAIL: Hello@lockdownparenting.co.uk TWITTER: @lockdownparent INSTAGRAM: @lockdown_parenting (And the NikNak account is @penrosehouse #niknaksafety) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6338905143.mp3?updated=1737079485",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "2634",
-      "speakers": [
-        "Josh Widdicombe'S",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "dara",
-        "briain"
-      ]
-    },
-    {
       "key": "5f579121ead9dec61a47039d66574080fdbc3153",
       "title": "S01 EP26: Just put a beret on a chicken...",
       "published_at": "2020-07-24T14:54:42+00:00",
@@ -11834,28 +11378,6 @@
       "topics": [
         "gavin",
         "malcolm"
-      ]
-    },
-    {
-      "key": "e76cf5af5231e0eb8b1ee4ae50c0c5ff18040a0f",
-      "title": "S01 EP23: Rosie Ramsey",
-      "published_at": "2020-07-14T02:00:07+00:00",
-      "link": "https://www.spreaker.com/user/12633137/lph-rosie-ramsey-final",
-      "description": "ROB BECKETT & JOSH WIDDICOMBE'S 'LOCKDOWN PARENTING HELL' - S01 EP23: Rosie Ramsey Joining us in the studio this episode to discuss the highs and lows of parenting (and life) during the lock down and beyond is the brilliant actor, presenter Radio DJ and podcaster, Rosie Ramsey. Enjoy. Rate and Review. Thanks. xxx If you want to get in touch with the show here's how: EMAIL: Hello@lockdownparenting.co.uk TWITTER: @lockdownparent A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5348197594.mp3?updated=1737078132",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3081",
-      "speakers": [
-        "Rosie Ramsey Rob",
-        "Rosie Ramsey",
-        "Rob Beckett",
-        "Josh Widdicombe"
-      ],
-      "topics": [
-        "rosie",
-        "ramsey"
       ]
     },
     {
@@ -12363,7 +11885,6 @@
 - 2026-04-03 — S12 EP26: Jamie Laing — speakers: Jamie Laing, Rob Beckett, Josh Widdicombe
 - 2026-03-30 — S12 EP25: Who don't you like? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-03-27 — S12 EP24: Chantel Nash — speakers: Chantel Nash, Rob Beckett, Josh Widdicombe
-- 2026-03-24 — S12 EP23: The One Where Rob Poops The Bed — speakers: Rob Beckett, Josh Widdicombe
 - 2026-03-20 — S12 EP22: Lauren Laverne — speakers: Lauren Laverne, Rob Beckett, Josh Widdicombe
 - 2026-03-17 — S12 EP21: What is this life? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-03-13 — S12 EP20: Charlie Baker (The Return) — speakers: Charlie Baker, Rob Beckett, Josh Widdicombe
@@ -12381,8 +11902,6 @@
 - 2026-01-30 — S12 EP8: John Bishop — speakers: John Bishop, Rob Beckett, Josh Widdicombe
 - 2026-01-27 — S12 EP7: I'm going to sneeze... — speakers: Rob Beckett, Josh Widdicombe
 - 2026-01-23 — S12 EP6: Harry Hill (The Return) — speakers: Harry Hill, Rob Beckett, Josh Widdicombe
-- 2026-01-20 — S12 EP5: The kind way is often worse — speakers: Rob Beckett, Josh Widdicombe
-- 2026-01-16 — S12 EP4: You've Jet-lagged Yourself — speakers: Rob Beckett, Josh Widdicombe
 - 2026-01-13 — S12 EP3: The Wheels Have Come Off — speakers: Rob Beckett, Josh Widdicombe
 - 2026-01-09 — S12 EP2: Prince Naseem Hamed — speakers: Prince Naseem Hamed Joining, Rob Beckett, Josh Widdicombe
 - 2026-01-06 — S12 EP1: A Whole New World... — speakers: Rob Beckett, Josh Widdicombe
@@ -12408,7 +11927,6 @@
 - 2025-10-28 — S11 EP22: Back to Parenting — speakers: Rob Beckett, Josh Widdicombe
 - 2025-10-24 — S11 EP21: Customer Service Revenge — speakers: Rob Beckett, Josh Widdicombe
 - 2025-10-20 — S11 EP20: Rugged and Ready — speakers: Rob Beckett, Josh Widdicombe
-- 2025-10-17 — S11 EP19: Harry Aikines-Aryeetey — speakers: Harry Aikines-Aryeetey, Rob Beckett, Josh Widdicombe
 - 2025-10-14 — S11 EP18: A Sneeze is Normal — speakers: Rob Beckett, Josh Widdicombe
 - 2025-10-10 — S11 EP17: Chris McCausland (The Return) — speakers: Chris McCausland, Rob Beckett, Josh Widdicombe
 - 2025-10-07 — S11 EP16: Lou shaves Rob's back in the garden... — speakers: Rob Beckett, Josh Widdicombe
@@ -12455,16 +11973,13 @@
 - 2025-05-16 — S10 EP24: Charlie Brooker — speakers: Charlie Brooker, Rob Beckett, Josh Widdicombe
 - 2025-05-12 — S10 EP23: Lou and Rose clap back — speakers: Rob Beckett, Josh Widdicombe
 - 2025-05-08 — S10 EP22: Other Parent W*nkers — speakers: Rob Beckett, Josh Widdicombe
-- 2025-05-06 — S10 EP21: Opinion Juice — speakers: Rob Beckett, Josh Widdicombe
 - 2025-05-02 — S10 EP20: Pete Doherty — speakers: Pete Doherty, Rob Beckett, Josh Widdicombe
 - 2025-04-29 — S10 EP19: Dirty Monkey Cuck — speakers: Monkey Cuck, Rob Beckett, Josh Widdicombe
 - 2025-04-24 — S10 EP18: Leanne Quigley — speakers: Leanne Quigley, Rob Beckett, Josh Widdicombe
 - 2025-04-22 — S10 EP17: Easter Lost Keys Chaos — speakers: Easter Lost Keys Chaos, Stiff Neck, Loose Neck, Rob Beckett, Josh Widdicombe
-- 2025-04-18 — S10 EP16: Joel Dommett (The Return) — speakers: Joel Dommett, Rob Beckett, Josh Widdicombe
 - 2025-04-14 — S10 EP15: Josh the Birthday Boy — speakers: Rob Beckett, Josh Widdicombe
 - 2025-04-10 — S10 EP14: Stacey Solomon & Joe Swash (The Return) — speakers: Stacey Solomon, Joe Swash, Rob Beckett, Josh Widdicombe
 - 2025-04-08 — S10 EP13: Drunk on melodies — speakers: Rob Beckett, Josh Widdicombe
-- 2025-04-04 — S10 EP12: Gemma Atkinson — speakers: Gemma Atkinson, Rob Beckett, Josh Widdicombe
 - 2025-04-01 — S10 EP11: Mothers Day Mania — speakers: Rob Beckett, Josh Widdicombe
 - 2025-03-28 — S10 EP10: Gyles Brandreth — speakers: Gyles Brandreth, Rob Beckett, Josh Widdicombe
 - 2025-03-25 — S10 EP9: I feel like a bad parent... — speakers: Rob Beckett, Josh Widdicombe, Small Busi
@@ -12479,10 +11994,8 @@
 - 2025-02-21 — Now That's What I Call Parenting Hell... Volume 15 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2025-02-18 — Now That's What I Call Parenting Hell - Volume 14 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2025-02-14 — S9 EP48: Valentines Playground Shag*ers Special — speakers: Valentines Playground, Rob Beckett, Josh Widdicombe
-- 2025-02-11 — S9 EP47: Rob's House Has a Leak — speakers: Rob Beckett, Josh Widdicombe
 - 2025-02-07 — S9 EP46: Jack Dee (The Return) — speakers: Jack Dee, Rob Beckett, Josh Widdicombe
 - 2025-02-04 — S9 EP45: A Voice note From Lou Beckett — speakers: Lou Beckett, Rob Beckett, Josh Widdicombe
-- 2025-01-31 — S9 EP44: Harry Judd — speakers: Harry Judd, Rob Beckett, Josh Widdicombe
 - 2025-01-28 — S9 EP43: A rat ran up my leg — speakers: Rob Beckett, Josh Widdicombe
 - 2025-01-24 — S9 EP42: Dr. Rangan Chatterjee — speakers: Rangan Chatterjee, Rob Beckett, Josh Widdicombe
 - 2025-01-21 — S9 EP41: Observations from a tired man with an ill family — speakers: Rob Beckett, Josh Widdicombe
@@ -12490,20 +12003,14 @@
 - 2025-01-14 — S9 EP39: Ever Eaten a Kumquat? — speakers: Rob Beckett, Josh Widdicombe
 - 2025-01-10 — S9 EP38: The Cottage Cheese Boyz — speakers: Rob Beckett, Josh Widdicombe
 - 2025-01-07 — S9 EP37: Gladiators chat & January Blues — speakers: Rob Beckett, Josh Widdicombe
-- 2025-01-03 — S9 EP36: Casa Del Plyboard — speakers: Casa Del Plyboard, Rob Beckett, Josh Widdicombe
 - 2024-12-24 — S9 EP35: The Playground Shaggers Festive Special — speakers: Rob Beckett, Josh Widdicombe
 - 2024-12-20 — S9 EP34: Do Not Google That — speakers: Rob Beckett, Josh Widdicombe
-- 2024-12-17 — S9 EP33: Josh moves back home — speakers: Rob Beckett, Josh Widdicombe
-- 2024-12-13 — S9 EP32: The Christmas Stress Tornado — speakers: Santa Claus, Elves Behaving Badly, Rob Beckett, Josh Widdicombe
 - 2024-12-10 — S9 EP31: Rob Gets A Tour Toaster — speakers: Rob Gets, Rob Beckett, Josh Widdicombe
 - 2024-12-06 — S9 EP30: Vogue Williams — speakers: Vogue Williams, Rob Beckett, Josh Widdicombe
-- 2024-12-03 — S9 EP29: No Anecdote Too Small — speakers: No Anecdote Too Small, Santa Claus, Rob Beckett, Josh Widdicombe
 - 2024-11-29 — S9 EP28: Kerry Godliman (The Return) — speakers: Kerry Godliman, Rob Beckett, Josh Widdicombe
 - 2024-11-26 — S9 EP27: No Cupboards For Christmas — speakers: Rob Beckett, Josh Widdicombe
 - 2024-11-22 — S9 EP26: Joe Lycett — speakers: Joe Lycett, Rob Beckett, Josh Widdicombe
-- 2024-11-19 — S9 EP25: Time To Ban Homework — speakers: Rob Beckett, Josh Widdicombe
 - 2024-11-15 — S9 EP24: The Theme Parks Special — speakers: Special More, Rob Beckett, Josh Widdicombe
-- 2024-11-12 — S9 EP23: Josh and Strictly Come Dancing — speakers: Rob Beckett, Josh Widdicombe
 - 2024-11-08 — S9 EP22: Now That's What I Call Parenting Hell... Volume 13 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2024-11-05 — S9 EP21: Now That's What I Call Parenting Hell... Volume 12 — speakers: Call Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2024-11-01 — S9 EP20: Where is the time going? — speakers: Rob Beckett, Josh Widdicombe
@@ -12635,14 +12142,12 @@
 - 2023-08-15 — S7 EP7: "I wake up and it all just starts again..." — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2023-08-11 — S7 EP6: Annie Mac — speakers: Annie Mac, Rob Beckett, Josh Widdicombe
 - 2023-08-08 — S7 EP5: Normal? Or not normal? — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
-- 2023-08-04 — S7 EP4: Seann Walsh (The Return) — speakers: Seann Walsh, Rob Beckett, Josh Widdicombe
 - 2023-08-01 — S7 EP3: Price check on the condoms... — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2023-07-28 — S7 EP2: Big Old Porridge Gobbler — speakers: Parenting Hell, Rob Beckett, Josh Widdicombe
 - 2023-07-25 — S7 EP1: Lou breaks her ankle on holiday — speakers: Rob Beckett, Josh Widdicombe
 - 2023-07-18 — S6 EP55: Hook a suck — speakers: Father Christmas, Rob Beckett, Josh Widdicombe
 - 2023-07-14 — S6 EP54: Alex James — speakers: Alex James, Rob Beckett, Josh Widdicombe
 - 2023-07-11 — S6 EP53: 69 - 69 - 69 - 24/7 — speakers: Rob Beckett, Josh Widdicombe
-- 2023-07-07 — S6 EP52: Natalie Cassidy — speakers: Natalie Cassidy, Rob Beckett, Josh Widdicombe
 - 2023-07-04 — S6 EP51: Children Are Bad At Things — speakers: Rob Beckett, Josh Widdicombe
 - 2023-06-30 — S6 EP50: David Cross — speakers: David Cross, Rob Beckett, Josh Widdicombe
 - 2023-06-27 — S6 EP49: His Hair Has Gone Blue! — speakers: Rob Beckett, Josh Widdicombe
@@ -12684,7 +12189,6 @@
 - 2023-02-21 — S6 EP13: Playdate From Hell — speakers: Rob Beckett, Josh Widdicombe
 - 2023-02-17 — S6 EP12: Poodles and Noodles — speakers: Rob Beckett, Josh Widdicombe
 - 2023-02-14 — S6 EP11: Lou Beckett (The Valentine's Day Special) — speakers: Lou Beckett, Valentine’s Day, Rob Beckett, Josh Widdicombe
-- 2023-02-10 — S6 EP10: Cariad Lloyd — speakers: Cariad Lloyd Joining, Rob Beckett, Josh Widdicombe
 - 2023-02-07 — S6 EP9: What's the worst smell you've ever smelt? — speakers: Rob Beckett, Josh Widdicombe
 - 2023-02-03 — S6 EP8: Sam and Billie Faiers — speakers: Billie Faiers, Rob Beckett, Josh Widdicombe
 - 2023-01-31 — S6 EP7: The day that goes badly wrong.... — speakers: Rob Beckett, Josh Widdicombe
@@ -12699,7 +12203,6 @@
 - 2022-12-29 — S05 EP45: Let the Christmas (Alarm) bells ring... — speakers: Rob Beckett, Josh Widdicombe
 - 2022-12-23 — S05 EP44: Seann Walsh — speakers: Seann Walsh, Rob Beckett, Josh Widdicombe
 - 2022-12-20 — S05 EP43: The Sad Dads Disco — speakers: Rob Beckett, Josh Widdicombe
-- 2022-12-16 — S05 EP42: Jarred Christmas (The Return) — speakers: Jarred Christmas, Rob Beckett, Josh Widdicombe
 - 2022-12-13 — S05 EP41: Thanks to Lou. Apologies to Rose. — speakers: Rob Beckett, Josh Widdicombe
 - 2022-12-09 — S05 EP40: Adrian Chiles — speakers: Adrian Chiles Joining, Rob Beckett, Josh Widdicombe
 - 2022-12-06 — S05 EP39: How is this my job? — speakers: Rob Beckett, Josh Widdicombe
@@ -12713,10 +12216,8 @@
 - 2022-11-08 — S05 EP31: Sideways Like A Crab — speakers: Rob Beckett, Josh Widdicombe
 - 2022-11-04 — S05 EP30: Simon Gregson — speakers: Simon Gregson, Rob Beckett, Josh Widdicombe
 - 2022-11-01 — S05 EP29: Welcome To The Thunderdome... — speakers: Rob Beckett, Josh Widdicombe
-- 2022-10-28 — S05 EP28: Anton Du Beke — speakers: Anton Du Beke, Rob Beckett, Josh Widdicombe
 - 2022-10-25 — S05 EP27: Gary Neville — speakers: Gary Neville, Rob Beckett, Josh Widdicombe
 - 2022-10-21 — S05 EP26: Rachel Parris — speakers: Rachel Parris, Rob Beckett, Josh Widdicombe
-- 2022-10-18 — S05 EP25: Brown Noise And Temperature Guns — speakers: Brown Noise, Rob Beckett, Josh Widdicombe
 - 2022-10-14 — S05 EP24: Fearne Cotton — speakers: Fearne Cotton Joining, Rob Beckett, Josh Widdicombe
 - 2022-10-11 — S05 EP23: I Don't Want To Be A Diva.... — speakers: Rob Beckett, Josh Widdicombe
 - 2022-10-07 — S05 EP22: Denise Welch — speakers: Denise Welch, Rob Beckett, Josh Widdicombe
@@ -12925,11 +12426,9 @@
 - 2020-08-07 — S01 EP30: "I carried a watermelon..." — speakers: Rob Beckett, Josh Widdicombe
 - 2020-08-04 — S01 EP29: Romesh Ranganathan — speakers: Josh Widdicombe'S, Rob Beckett, Josh Widdicombe
 - 2020-07-31 — S01 EP28: Snail-ma-geddon — speakers: Rob Beckett, Josh Widdicombe
-- 2020-07-28 — S01 EP27: Dara Ó Briain — speakers: Josh Widdicombe'S, Rob Beckett, Josh Widdicombe
 - 2020-07-24 — S01 EP26: Just put a beret on a chicken... — speakers: Rob Beckett, Josh Widdicombe
 - 2020-07-21 — S01 EP25: Judi Love — speakers: Judi Love, Judi Love Joining, Rob Beckett, Josh Widdicombe
 - 2020-07-19 — S01 EP24: Gavin and Malcolm — speakers: Josh Widdicombe'S, Rob Beckett, Josh Widdicombe
-- 2020-07-14 — S01 EP23: Rosie Ramsey — speakers: Rosie Ramsey Rob, Rosie Ramsey, Rob Beckett, Josh Widdicombe
 - 2020-07-10 — S01 EP22: Windburn, man and boy... — speakers: Rob Beckett, Josh Widdicombe
 - 2020-07-07 — S01 EP21: Russell Kane — speakers: Russell Kane, Rob Beckett, Josh Widdicombe
 - 2020-07-03 — S01 EP20: Aircon vs. Heat Wave — speakers: Heat Wave, Heat Wave Enjoy, Rob Beckett, Josh Widdicombe
