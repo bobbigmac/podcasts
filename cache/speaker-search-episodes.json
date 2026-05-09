@@ -21490,6 +21490,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:3b7cd840b0a1",
+        "feed_title": "Rock's Backpages",
+        "source_rss_url": "https://feeds.megaphone.fm/rocksbackpages",
+        "dedupe_key": "106fb0f40b135e6a22fdae4f823b1b173111b288",
+        "episode_key": "106fb0f40b135e6a22fdae4f823b1b173111b288",
+        "title": "E83: Stewart Lee on Robert Lloyd + Robert Wyatt + Ronald \"Khalis\" Bell",
+        "published_at": "2020-09-14T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this week's episode, we invite cult meta-comedian and out-there-music connoisseur Stewart Lee to discuss the new documentary he's made about Prefects/Nightingales legend Robert Lloyd. Stewart also pitches in on RBP's new audio interview, a 1991 conversation 'twixt the late Andy Gill and everyone's favourite choirboy",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/PAN9068048117.mp3?updated=1673393012",
+        "link_url": "https://podcasts.apple.com/gb/podcast/e83-stewart-lee-on-robert-lloyd-robert-wyatt-ronald/id1441099644?i=1000565396644&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:366e2e3ee08f",
         "feed_title": "A Good Read",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/b006v8jn.rss",

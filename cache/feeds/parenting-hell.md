@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-05-09T13:52:01+00:00`
-- checked_at: `2026-05-09T13:52:01+00:00`
-- last_modified: `Sat, 09 May 2026 12:23:32 GMT`
+- fetched_at: `2026-05-09T16:07:52+00:00`
+- checked_at: `2026-05-09T16:07:52+00:00`
+- last_modified: `Sat, 09 May 2026 15:51:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/40fdac0908467e0692b2c0139f4db663.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-09T13:52:01+00:00",
+  "fetched_at": "2026-05-09T16:07:52+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -12158,10 +12158,10 @@
       "link": null,
       "description": "Joining us in the studio this episode to discuss the highs and lows of parenting (and life) during the lock down and beyond is the brilliant comedian, co-host and creator of Taskmaster and the Horne Section, Mr Alex Horne. Enjoy. Rate and Review. Thanks. xxx If you want to get in touch with the show here's how: EMAIL: hello@lockdownparenting.co.uk Instagram: ⁠ ⁠@parentinghell⁠⁠ A 'Keep it Light Media' Production Producer: Michael Marden Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5947946357.mp3?updated=1757617642",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5947946357.mp3?updated=1778338133",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2703",
+      "itunes_duration": "2748",
       "speakers": [
         "Alex Horne",
         "Rob Beckett",
@@ -12179,10 +12179,10 @@
       "link": null,
       "description": "Joining us in the studio this episode to discuss the highs and lows of parenting (and life) during the lock down and beyond is the brilliant comedian, writer and actress, Ellie Taylor. Enjoy. Rate and Review. Thanks. xxx If you want to get in touch with the show here's how: EMAIL: hello@lockdownparenting.co.uk Instagram: ⁠ ⁠@parentinghell⁠⁠ A 'Keep it Light Media' Production Producer: Michael Marden Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5932358044.mp3?updated=1757617336",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5932358044.mp3?updated=1778338034",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2757",
+      "itunes_duration": "2802",
       "speakers": [
         "Rob Beckett",
         "Josh Widdicombe"
@@ -12199,10 +12199,10 @@
       "link": null,
       "description": "Joining us in the studio this episode to discuss the highs and lows of parenting (and life) during the lock down and beyond is the amazing comedian Jason Manford who for half the week has six, yes SIX children to tend no. Enjoy! Rate and Review. Thanks. xxx If you want to get in touch with the show here's how: EMAIL: hello@lockdownparenting.co.uk Instagram: ⁠ ⁠@parentinghell⁠⁠ A 'Keep it Light Media' Production Producer: Michael Marden Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8280275346.mp3?updated=1757616785",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8280275346.mp3?updated=1778338037",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2357",
+      "itunes_duration": "2402",
       "speakers": [
         "Jason Manford",
         "Rob Beckett",
@@ -12220,10 +12220,10 @@
       "link": null,
       "description": "Joining us in the studio this episode to discuss the highs and lows of parenting (and life) during the lock down and beyond is the amazing comedian and actress, Kerry Godliman. (WARNING: Contains spontaneous potty training and teenage arguments) Enjoy. Rate and Review. Thanks. xxx If you want to get in touch with the show here's how: EMAIL: ⁠ Hello@lockdownparenting.co.uk INSTAGRAM: @lockdownparent A 'Keep It Light Media' Production Producer by Michael Marden Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7727312883.mp3?updated=1753930230",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7727312883.mp3?updated=1778337894",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2671",
+      "itunes_duration": "2716",
       "speakers": [
         "Kerry Godliman",
         "Rob Beckett",
@@ -12241,10 +12241,10 @@
       "link": null,
       "description": "Joining us in the studio this episode to discuss the highs and lows of parenting (and life) during the lock down and beyond is broadcasting legend, Jonathan Ross. Enjoy. Rate and Review. Thanks. xxx If you want to get in touch with the show here's how: EMAIL: hello@lockdownparenting.co.uk Instagram: ⁠⁠@parentinghell⁠⁠ A 'Keep it Light Media' Production Producer: Michael Marden Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3923749202.mp3?updated=1753920975",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3923749202.mp3?updated=1778337837",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2478",
+      "itunes_duration": "2523",
       "speakers": [
         "Jonathan Ross",
         "Rob Beckett",
@@ -12262,10 +12262,10 @@
       "link": null,
       "description": "Joining us in the studio this episode to discuss the highs and lows of parenting (and life) during the lockdown is comedian Lucy Beaumont who tells us all about her hamster sitcom, and more importantly as the partner of episode two guest Jon Richardson she's able to shed some light on what we are affectionately calling the 'curry-gate' scandal. Enjoy. Please rate and Review. Thanks. xxx If you want to get in touch with the show here's how: EMAIL: hello@lockdownparenting.co.uk Instagram: ⁠⁠@parentinghell⁠⁠ A 'Keep it Light Media' Production Producer: Michael Marden Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7178658612.mp3?updated=1753929245",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7178658612.mp3?updated=1778337874",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2291",
+      "itunes_duration": "2336",
       "speakers": [
         "Lucy Beaumont",
         "Rob Beckett",
