@@ -2,9 +2,9 @@
 
 - slug: `have-a-word`
 - source: `https://feeds.acast.com/public/shows/660d348bf844f70016bf5fd1`
-- fetched_at: `2026-05-08T03:53:40+00:00`
-- checked_at: `2026-05-08T03:53:40+00:00`
-- etag: `"djEuMi4wOjE3NzgyMDExNzU1Nzc="`
+- fetched_at: `2026-05-09T08:10:40+00:00`
+- checked_at: `2026-05-09T08:10:40+00:00`
+- etag: `"djEuMi4wOjE3NzgzMDI4MzkzODI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://haveawordpod.com",
   "description": "The funniest podcast in the UK with comedians Adam Rowe and Dan Nightingale Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
-  "fetched_at": "2026-05-08T03:53:40+00:00",
+  "fetched_at": "2026-05-09T08:10:40+00:00",
   "owners": [
     "Dan Nightingale",
     "Adam Rowe"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9d2e9cf07da224c56400e1b1ff8d6d157cd92e97",
+      "title": "#380 with Mike Bubbins - Have A Word w/Adam, Dan & Carl",
+      "published_at": "2026-05-09T05:00:00+00:00",
+      "link": "https://shows.acast.com/have-a-word-with-adamrowe-and-dannightingale/episodes/380-with-mike-bubbins-have-a-word-wadam-dan-carl",
+      "description": "Tickets, merch and loads more available on our website! https://haveawordpod.com HAW x Stars In Their Eyes Tickets: https://www.skiddle.com/e/42247092 Tickets for Have A Word Live shows as well as Adam and Dan's tours and previews: Adam's Tickets: https://www.adamrowe.com Dan's Tickets: https://dannightingale.com Carl's Stream || https://twitch.tv/senseicarl_ Finn's Music & Tickets: https://finnlayk.co.uk Film Club Tickets: https://plazacinemaliverpool.savoysystems.co.uk/PlazaCinemaLiverpool.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_976.TcsWebTab_977.TcsPerformance_23863058.TcsSection_1791 Finnlay K - Beautiful Morning: https://finnlayk.lnk.to/BeautfiulMorning As Adam and Dan said, don't miss out on all of our extra content, we've got one of the best value Patreons in the game. An extra 90+ minute episode every week plus loads of bonus content such as the now infamous Lockdown Lock-ins, the Nashville & Amsterdam specials and our Ghost Hunts! What are you waiting for? Sign up now at https://patreon.com/haveawordpod​ Get subscribed to Have A Word Highlights: https://youtube.com/haveawordhighlights Listen to Finn's new EP: https://finnlayk.lnk.to/AllInYourMind Thanks to this week's sponsors: Heights | https://heights.com/haveaword Enter code HAVEAWORD20 at checkout for 20% off your first month! Manscaped | https://manscaped.com 20% off with promo code: WORD20 NordVPN | https://nordvpn.com/haveaword EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/haveaword Try it risk-free now with a 30-day money-back guarantee Lovehoney | https://lovehoney.co/word_podcast Love how you love and take 20% off sitewide to unlock sexual happiness and discover a happier you with promo code: AFF-WORD20 Saily | https://saily.com/haveaword Download SAILY in your app store and use our code HAVEAWORD at checkout to get an exclusive 15% off your first purchase or go to https://saily.com/haveaword 🌍 ADAM ROWE and DAN NIGHTINGALE are two award winning comedians from Liverpool & Preston, respectively. They are two of the UK's most highly regarded stand-ups and have both performed all over the world. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/1778199194628-0dbb17ac-6b97-4d2c-ad04-eed879a40627.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/660d348bf844f70016bf5fd1/e/69fd2a0810185e2be41eed61/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "139476741",
+      "itunes_duration": "2:25:17",
+      "speakers": [
+        "Dan Nightingale",
+        "Adam Rowe"
+      ],
+      "topics": [
+        "mike",
+        "bubbins",
+        "word",
+        "adam",
+        "carl"
+      ]
+    },
     {
       "key": "bc1ee8c6d669942d2352a91a4f96d9a5972607fc",
       "title": "#379 with Rick Edwards - Have A Word w/Adam, Dan & Carl",
@@ -8747,6 +8770,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-09 — #380 with Mike Bubbins - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-05-02 — #379 with Rick Edwards - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-04-25 — #378 with Taylor Ryan - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-04-18 — #377 with Matt Richardson - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
