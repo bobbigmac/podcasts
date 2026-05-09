@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-05-08T03:53:40+00:00`
-- checked_at: `2026-05-08T03:53:40+00:00`
-- last_modified: `Fri, 08 May 2026 03:32:34 GMT`
+- fetched_at: `2026-05-09T13:52:01+00:00`
+- checked_at: `2026-05-09T13:52:01+00:00`
+- last_modified: `Sat, 09 May 2026 12:23:32 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/40fdac0908467e0692b2c0139f4db663.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-08T03:53:40+00:00",
+  "fetched_at": "2026-05-09T13:52:01+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -34,7 +34,7 @@
       "link": null,
       "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the actress, writer and director - Jessica Hynes. We chat parenting - Jessica has three kids, the first of which she had during the first wave of hit shows in her amazing career - including the iconic 'Spaced' and 'The Royal Family'. And we find out about her fnatastic new Channel 4 show 'Patience'. Enjoy!! 'Patience' is available to stream and watch now on Channel 4. www.channel4.com/programmes/patience Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2814967149.mp3?updated=1778201270",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2814967149.mp3?updated=1778328525",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3764",

@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-05-08T16:45:11+00:00`
-- checked_at: `2026-05-08T16:45:11+00:00`
-- last_modified: `Fri, 08 May 2026 16:42:06 GMT`
+- fetched_at: `2026-05-09T13:52:01+00:00`
+- checked_at: `2026-05-09T13:52:01+00:00`
+- last_modified: `Sat, 09 May 2026 11:21:58 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-08T16:45:11+00:00",
+  "fetched_at": "2026-05-09T13:52:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -32,10 +32,10 @@
       "link": null,
       "description": "Will Keir Starmer survive presiding over seismic Labour losses in the local elections, and if he doesn’t who should replace him? Do historic Reform and Green wins for Farage and Polanski confirm the death of two-party politics in the UK? Did the Ed Davey’s Lib Dems and Kemi Badenoch’s Conservatives actually perform better than expected? Join Rory and Alastair as they answer all these questions and more. __________ Our new university student discount: Get TRIP membership for just £20 per year when you sign up using your university email at checkout on therestispolitics.com ⁠ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/96c05b2a-4af4-11f1-aacb-6fa3f09418b0/image/f3032d154d6009b7a86d2580a1ac716b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2368987264.mp3?updated=1778258819",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2368987264.mp3?updated=1778323966",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3820",
+      "itunes_duration": "3816",
       "speakers": [
         "Alastair React"
       ],
