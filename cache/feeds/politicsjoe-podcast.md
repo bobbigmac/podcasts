@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-08T16:45:11+00:00`
-- checked_at: `2026-05-08T16:45:11+00:00`
-- etag: `"djEuMi4wOjE3NzgyNTY1NTg1ODk="`
+- fetched_at: `2026-05-10T08:21:43+00:00`
+- checked_at: `2026-05-10T08:21:43+00:00`
+- etag: `"djEuMi4wOjE3NzgzODkyMzk1NTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-08T16:45:11+00:00",
+  "fetched_at": "2026-05-10T08:21:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "283412f76b3769c45f43576542252784ca3ce8e6",
+      "title": "KNEECAP on Donald Trump, free speech, and fighting terror charges",
+      "published_at": "2026-05-10T05:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/69fe038444cb786b37a85981",
+      "description": "Kneecap joined PoliticsJOE, fresh off the back of having a terrorism case, against member Mo Chara, thrown out of the British Court. It's also the premise of their new album, which they discussed with our very own Irishman-in-residence Seán Hickey. If you somehow missed the trail of the UK and Ireland's most controversial musicians, here's the TLDR. Kneecap were involved in a UK court case because member Mo Chara, real name, Liam Óg Ó hAnnaidh was accused of displaying a Hezbollah flag during a concert in London in November 2024. UK prosecutors said this could amount to an offence under the UK Terrorism Act because Hezbollah is a proscribed terrorist organisation in the UK. Prosecutors also alleged slogans supporting Hezbollah and Hamas were shouted during the performance. The case was initially thrown out because prosecutors failed to get the Attorney General’s approval within the legal six-month time limit required to bring the charge. The Crown Prosecution Service later appealed, trying to reinstate the case. In March 2026, the High Court rejected that appeal, meaning Mo Chara didn't face trial. The judges said the prosecution had been started unlawfully due to the procedural error, not because the court ruled on whether the alleged conduct itself was legal or illegal. Kneecap argued the prosecution was politically motivated and linked to their outspoken support for Palestine. A media carnival, if you will. Hey, that's the name of one of the songs on their new album. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/69fe038444cb786b37a85981/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61479659",
+      "itunes_duration": "32:00",
+      "speakers": [
+        "Mo Chara"
+      ],
+      "topics": [
+        "kneecap",
+        "donald",
+        "trump",
+        "speech",
+        "terror",
+        "charge"
+      ]
+    },
     {
       "key": "619038cdeaf2bc15d588f3e05805fb0d839908b2",
       "title": "Labour's local election wipeout, analysed",
@@ -12851,6 +12874,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-10 — KNEECAP on Donald Trump, free speech, and fighting terror charges — speakers: Mo Chara
 - 2026-05-08 — Labour's local election wipeout, analysed
 - 2026-05-07 — Hormuz Crisis: This is what resilient infrastructure looks like
 - 2026-05-06 — Economist explains how Big Banks are CHEATING Britain | James Meadway interview — speakers: James Meadway

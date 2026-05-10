@@ -32353,6 +32353,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:d728623419b4",
+        "feed_title": "Speculative Speculations",
+        "source_rss_url": "https://anchor.fm/s/f16676a4/podcast/rss",
+        "dedupe_key": "2f0e94c26fe00e86202875ca81a0c8da000c05c4",
+        "episode_key": "2f0e94c26fe00e86202875ca81a0c8da000c05c4",
+        "title": "Cloud Atlas Part 1 by David Mitchell and Plenitude by Will Worthington",
+        "published_at": "2025-06-03T19:39:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Join the group for the first discussion of Cloud Atlas by David Mitchell. The short story for the week is Plenitude by Will Worthington",
+        "audio_url": "https://anchor.fm/s/f16676a4/podcast/play/103476715/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-4-31%2F401341994-44100-2-efaad13330c55.m4a",
+        "link_url": "https://podcasts.apple.com/gb/podcast/cloud-atlas-part-1-by-david-mitchell-and-plenitude-by/id1727904531?i=1000711065199&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:113233102968",
         "feed_title": "Irish & Celtic Music Podcast",
         "source_rss_url": "https://bellobard.libsyn.com/rss",
