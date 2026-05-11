@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-05-04T11:17:53+00:00`
-- checked_at: `2026-05-04T11:17:53+00:00`
-- etag: `"10d34a-650f9f62d6748"`
-- last_modified: `Mon, 04 May 2026 08:46:07 GMT`
+- fetched_at: `2026-05-11T20:03:28+00:00`
+- checked_at: `2026-05-11T20:03:28+00:00`
+- etag: `"10e040-6518d1b316b7c"`
+- last_modified: `Mon, 11 May 2026 16:19:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-05-04T11:17:53+00:00",
+  "fetched_at": "2026-05-11T20:03:28+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "48ed57bbbaf0c0217e36c45726c4662fcd32d20b",
+      "title": "Everybody Blinks - S21, Ep.5",
+      "published_at": "2026-05-11T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "We're halfway through the series and Armando’s had a nearly perfect game, but does it position him for a series win? Meanwhile, Joanna forgets one of the top two Greg rules; no football, no crystals. And Jenny is forced to explain why it’s really not safe to put a lawnmower in your knickers. Plus, it's a first for naming episodes, and a listener writes in to point out potential libel while another makes a brave point about blinking. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/7320246b-08a8-4b61-9676-6af242147325.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=7320246b-08a8-4b61-9676-6af242147325",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63537407",
+      "itunes_duration": "01:02:33",
+      "speakers": [
+        "Everybody Blinks",
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "blinks"
+      ]
+    },
     {
       "key": "3cbcc2f76628c01e1bd1e69bb628495f96c58113",
       "title": "Thinking’s Not My Vibe - S21, Ep.4",
@@ -4492,6 +4512,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — Everybody Blinks - S21, Ep.5 — speakers: Everybody Blinks, Jenny Eclair, Jack Bernhardt
 - 2026-05-04 — Thinking’s Not My Vibe - S21, Ep.4 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-04-27 — Various Danglements - S21, Ep.3 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-04-20 — Yorkshire Puddings on a Plane - S21, Ep.2 — speakers: Yorkshire Puddings, Kumail Nanjiani, Jenny Eclair, Jack Bernhardt

@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-05-08T16:45:11+00:00`
-- checked_at: `2026-05-08T16:45:11+00:00`
-- etag: `"djEuMi4wOjE3NzgyNTI0Nzc4Nzk="`
+- fetched_at: `2026-05-11T20:03:28+00:00`
+- checked_at: `2026-05-11T20:03:28+00:00`
+- etag: `"djEuMi4wOjE3Nzg1MTQ0NzE5NzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-05-08T16:45:11+00:00",
+  "fetched_at": "2026-05-11T20:03:28+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,26 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "3d1e9f680e1a534ce31b4380ffd1be191230eee1",
+      "title": "Audio long read: The air is full of DNA — here’s what scientists are using it for",
+      "published_at": "2026-05-11T15:47:51+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01522-8",
+      "description": "Although scientists have long been able to gather DNA from water and soil, it's only recently that they've started to see the air as a source of genetic information. Airborne DNA is already being used to monitor individual species, but researchers hope its abundance could have multiple uses, including judging the success of conservation efforts or attacks with biological weapons. However, there remains much to understand, such as how far DNA travels in the air, and the ethics involved in the potential identification of a person's genetic information. This is an audio version of our Feature: The air is full of DNA — here’s what scientists are using it for Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a01fa27b443364556f3e156/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "18397927",
+      "itunes_duration": "19:06",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "read",
+        "scientist"
+      ]
+    },
     {
       "key": "5b995455872eace7b1d659c0066cdf8ff097756b",
       "title": "Briefing Chat: Can't focus? It's not your attention span, it's your notifications",
@@ -19611,6 +19631,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — Audio long read: The air is full of DNA — here’s what scientists are using it for — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-08 — Briefing Chat: Can't focus? It's not your attention span, it's your notifications — speakers: Briefing Chat, Nature Feature, Benjamin Thompson, Noah Baker
 - 2026-05-06 — Anaesthetized brains can still process podcasts — speakers: Research Article, Benjamin Thompson, Noah Baker
 - 2026-05-01 — Briefing Chat: Stressed mitochondria spawn new 'organelles' in cells — speakers: Benjamin Thompson, Noah Baker

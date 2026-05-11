@@ -2,9 +2,9 @@
 
 - slug: `athletico-mince`
 - source: `https://feeds.acast.com/public/shows/512e6e5b-1328-4152-869e-16ad11c71e70`
-- fetched_at: `2026-05-11T15:35:24+00:00`
-- checked_at: `2026-05-11T15:35:24+00:00`
-- etag: `"djEuMi4wOjE3Nzg1MTEzNjQxODQ="`
+- fetched_at: `2026-05-11T20:03:28+00:00`
+- checked_at: `2026-05-11T20:03:28+00:00`
+- etag: `"djEuMi4wOjE3Nzg1MjIwMjAzMDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://athleticomince.com",
   "description": "Bob Mortimer and Andy Dawson's podcast - brass hands, blue drink and more. It's not really about football, d'you know what I mean?",
   "image_url": "https://assets.pippa.io/shows/620e4cf6bbc313c2291225d7/55638de6-e973-4375-94e5-11d1669fb19d.png",
-  "fetched_at": "2026-05-11T15:35:24+00:00",
+  "fetched_at": "2026-05-11T20:03:28+00:00",
   "owners": [
     "Bob Mortimer",
     "Andy Dawson"
@@ -33,7 +33,7 @@
       "title": "The Talksport Collection Vol. 2",
       "published_at": "2026-05-11T14:55:42+00:00",
       "link": "https://shows.acast.com/athleticomince/episodes/the-talksport-collection-vol-2",
-      "description": "A compilation of tapes, mp3s and WAVs acquired by Bob between November 2021 and April 2024. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "A compilation of tapes, mp3s and WAVs acquired by Bob between November 2021 and April 2024. (Originally released to Club Parsnips members in June 2025) Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/620e4cf6bbc313c2291225d7/55638de6-e973-4375-94e5-11d1669fb19d.png",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/athleticomince/e/6a01ee04b443364556ef24ff/media.mp3",
       "enclosure_type": "audio/mpeg",

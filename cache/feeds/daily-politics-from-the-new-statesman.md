@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-05-11T15:35:24+00:00`
-- checked_at: `2026-05-11T15:35:24+00:00`
-- etag: `"djEuMi4wOjE3Nzg1MDEzODQxMDU="`
+- fetched_at: `2026-05-11T20:03:28+00:00`
+- checked_at: `2026-05-11T20:03:28+00:00`
+- etag: `"djEuMi4wOjE3Nzg1MjAyMzk1MjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-05-11T15:35:24+00:00",
+  "fetched_at": "2026-05-11T20:03:28+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "c55e78cd33e856c31764b741a8d36fc35dc79f6c",
+      "title": "The weirdest day in Westminster",
+      "published_at": "2026-05-11T16:51:57+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/the-weirdest-day-in-westminster",
+      "description": "Keir Starmer has pledged to “prove the doubters wrong” as he tries to head off a leadership challenge after the disastrous local election results last week. Fighting for his political life, the PM announced plans for stronger ties with the EU, powers to nationalise British steel and a scheme to help young people find work. But will it be enough? Many of his own party don’t seem to think so, with his former Deputy PM Angela Rayner calling for Andy Burnham to come back to Parliament. Backbench MP Catherine West even threatened to mount a leadership challenge against Starmer, but has now backed down and called on him to go by September. READ: https://www.newstatesman.com/politics/westminster/2026/05/labour-faces-civil-war-to-replace-starmer LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1778518220985-53ce08d7-ec87-422f-aebf-ebbc23419d91.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a0208630f58bc4da96c12d4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "114260226",
+      "itunes_duration": "47:32",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "westminster"
+      ]
+    },
     {
       "key": "65ecd6d602f49a513935f554dcf57aece57441a5",
       "title": "Local election results: the end of Starmer?",
@@ -31201,6 +31220,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — The weirdest day in Westminster — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-08 — Local election results: the end of Starmer? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-06 — The gutting of the two party system — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-05 — Zack Polanski: Corbyn's true heir? — speakers: Zack Polanski, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
