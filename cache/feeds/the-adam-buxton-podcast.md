@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-05-01T16:08:21+00:00`
-- checked_at: `2026-05-01T16:08:21+00:00`
-- etag: `"djEuMi4wOjE3Nzc2NDc0NTI0MDU="`
+- fetched_at: `2026-05-11T15:35:24+00:00`
+- checked_at: `2026-05-11T15:35:24+00:00`
+- etag: `"djEuMi4wOjE3Nzg1MDQzODAyNDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-05-01T16:08:21+00:00",
+  "fetched_at": "2026-05-11T15:35:24+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d9a5f36915cf0336d95e2f996216804f77a8057a",
+      "title": "EP.271 - JOSH JOHNSON",
+      "published_at": "2026-05-11T13:01:24+00:00",
+      "link": "https://shows.acast.com/adambuxton/episodes/ep271-josh-johnson",
+      "description": "Adam talks with American stand up comedian and Daily Show correspondent Josh Johnson about not drinking alcohol, growing up in Louisiana, alligator gumbo, David Blaine, pranksters, responding to tragic and shocking current events in his stand up sets, and what tourists dislike most about the UK. And in the outro, Adam talks about his recent live shows with the band and a moment of Beatles communion in Liverpool. Conversation recorded face-to-face in London on 23 January, 2026 SUBMIT QUESTIONS FOR Q&A EPISODE : Adambuxtonpodcast@gmail.com NORD VPN EXCLUSIVE NordVPN Deal ➼ https:// nordvpn.com/buxton Try it risk-free now with a 30-day money-back guarantee! Thanks to Diggory Waite and Claire Broughton at Hattrick and Séamus Murphy Mitchell for production support. Podcast illustration by Helen Green THE ADAM BUXTON BAND MAY 2026 TOUR ADAM BUXTON & MIRANDA SAWYER @ CHARLESTON FESTIVAL 14 May 2026, 9pm BUG BOWIE SPECIAL @ THE LIGHTROOM 17 June, 2-4 July, 2026 ADAM BUXTON PODCAST LIVE WITH MAWAAN RIZWAAN @ ROUNDHOUSE , 5 April, 2026 RELATED LINKS JOSH JOHNSON - DRAKE VS KENDRICK EXPLAINED TO WHITE PEOPLE - 2024 (YOUTUBE) JOSH JOHNSON LIVE @ SOHO THEATRE, WALTHAMSTOW - 2025 (YOUTUBE) JOSH JOHNSON - THE FAILURE, FEAR AND FRENZY AROUND LUIGI MANGIONE - 2024 (YOUTUBE) JOSH JOHNSON - IT'S LITERALLY ICE VS. GOOD - 2026 (YOUTUBE) JOSH JOHNSON - CATFISHING THE KKK - 2017 (YOUTUBE) JOSH JOHNSON PODCASTS (JOSH JOHSNON WEBSITE) DAVID BLAINE AND EAMONN HOLMES ON GMTV - 2001 (YOUTUBE) ADAM & GAZ COOMBES - I BELIEVE IN FATHER CHRISTMAS - 2014 (YOUTUBE) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1778503842047-9ea6dee1-e3dd-41f6-bce1-38f5d8bd5e37.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/6a01d2bc92e9663a6f7b9284/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "185900297",
+      "itunes_duration": "1:17:27",
+      "speakers": [
+        "Josh Johnson",
+        "Adam Buxton"
+      ],
+      "topics": [
+        "josh",
+        "johnson"
+      ]
+    },
     {
       "key": "1a890d1007becb943c36ce3789f0a1d4c1a513be",
       "title": "EP.270 - REBECCA LUCY TAYLOR AKA SELF ESTEEM",
@@ -5529,6 +5549,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — EP.271 - JOSH JOHNSON — speakers: Josh Johnson, Adam Buxton
 - 2026-05-01 — EP.270 - REBECCA LUCY TAYLOR AKA SELF ESTEEM — speakers: Rebecca Lucy Taylor, Adam Buxton
 - 2026-04-20 — EP.269 - JAMIE HEWLETT & DAMON ALBARN AKA GORILLAZ — speakers: Damon Albarn, Jamie Hewlett, Adam Buxton
 - 2025-12-25 — EP.268 - ADAM AND JOE — speakers: Joe Adam, Adam Buxton

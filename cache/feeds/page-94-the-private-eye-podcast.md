@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-05-06T11:19:45+00:00`
-- checked_at: `2026-05-06T11:19:45+00:00`
-- etag: `W/"a56f85a0251cb691be4068cb37a5d06b"`
-- last_modified: `Wed, 06 May 2026 10:19:04 GMT`
+- fetched_at: `2026-05-11T15:35:24+00:00`
+- checked_at: `2026-05-11T15:35:24+00:00`
+- etag: `W/"85fdaaee1238edd7008108c59e2623ad"`
+- last_modified: `Mon, 11 May 2026 13:08:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-05-06T11:19:45+00:00",
+  "fetched_at": "2026-05-11T15:35:24+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"

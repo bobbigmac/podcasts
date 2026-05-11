@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-05-09T08:10:40+00:00`
-- checked_at: `2026-05-09T08:10:40+00:00`
-- last_modified: `Sat, 09 May 2026 05:23:13 GMT`
+- fetched_at: `2026-05-11T15:35:24+00:00`
+- checked_at: `2026-05-11T15:35:24+00:00`
+- last_modified: `Mon, 11 May 2026 11:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-09T08:10:40+00:00",
+  "fetched_at": "2026-05-11T15:35:24+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "44aa8aaaf3c76778c3e4b747ed4400ebba01b50c",
+      "title": "482. Ten for Ten #10: Sara Pascoe",
+      "published_at": "2026-05-11T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 482. Ten for Ten #10 Presented by Deborah Frances-White with special guest Sara Pascoe Recorded 9 April 2026 in London. Released 11 May. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Sara Pascoe https://www.instagram.com/sara.pascoe https://sarapascoe.co.uk For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Road to Gilead at the Museum of Comedy . https://www.museumofcomedy.com/the-guilty-feminist/ The Guilty Feminist Meets Rose McGowan . https://www.charleston.org.uk/event/the-guilty-feminist Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/81bff7be-4aca-11f1-aeb3-6f2880456241/image/83d712eb2ba4911bb9c5e27584ed0b76.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL5448532007.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3303",
+      "speakers": [
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "sara",
+        "pascoe"
+      ]
+    },
     {
       "key": "309a73b89d50352d673dd79375a8964a08357aac",
       "title": "481. The Algorithm with Aoife Dunne and Adele Zeynep Walton - part two",
@@ -17888,6 +17907,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — 482. Ten for Ten #10: Sara Pascoe — speakers: Deborah Frances-White
 - 2026-05-04 — 481. The Algorithm with Aoife Dunne and Adele Zeynep Walton - part two — speakers: Deborah Frances-White, Aoife Dunne
 - 2026-05-04 — 481. The Algorithm with Aoife Dunne and Adele Zeynep Walton - part one — speakers: Deborah Frances-White, Aoife Dunne
 - 2026-04-27 — 480. Keep Palantir Out Of Our NHS with Susan Wokoma, Dr Matt Mahmoudi and Linnéa Freear - part two — speakers: Keep Palantir, Susan Wokoma, Matt Mahmoudi, Deborah Frances-White

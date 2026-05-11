@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-05-11T04:35:42+00:00`
-- checked_at: `2026-05-11T04:35:42+00:00`
-- etag: `W/"628ab7ac80044f807cd54da142825b2f"`
-- last_modified: `Sun, 10 May 2026 22:55:00 GMT`
+- fetched_at: `2026-05-11T15:35:24+00:00`
+- checked_at: `2026-05-11T15:35:24+00:00`
+- etag: `W/"4973a848cd3a7aae3bbe8cc2c91c19cc"`
+- last_modified: `Mon, 11 May 2026 13:04:59 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-05-11T04:35:42+00:00",
+  "fetched_at": "2026-05-11T15:35:24+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -131,7 +131,7 @@
       "link": "https://audioboom.com/posts/8895133",
       "description": "Dan, James and Andy discuss YOUR facts, including hippos and hip-hop. Dan's joke-telling career reaches its peak. And we name eight more Friend of the Podcast fact custodians. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43479177.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8895133.mp3?modified=1777045678&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8895133.mp3?modified=1777280028&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1901",

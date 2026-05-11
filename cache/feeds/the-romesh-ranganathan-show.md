@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-05-11T09:59:28+00:00`
-- checked_at: `2026-05-11T09:59:28+00:00`
-- last_modified: `Mon, 11 May 2026 00:11:12 GMT`
+- fetched_at: `2026-05-11T15:35:24+00:00`
+- checked_at: `2026-05-11T15:35:24+00:00`
+- last_modified: `Mon, 11 May 2026 11:05:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-11T09:59:28+00:00",
+  "fetched_at": "2026-05-11T15:35:24+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -31,9 +31,9 @@
       "title": "Adam Buxton on Why Podcasting Has Got WORSE & Comedy Jingles",
       "published_at": "2026-05-10T23:01:00+00:00",
       "link": null,
-      "description": "What is the future of comedy and podcasts? Comedian, actor and podcaster Adam Buxton joins Romesh for a thoughtful and funny conversation about creativity, aging and the strange evolution of podcasting. Adam reflects on his career from The Adam and Joe Show, to music, to building one of the UK’s most respected podcasts. From working with Louis Theroux to becoming podcast competitors, he discusses why he prefers audio over video, even as the industry shifts toward clips, algorithms and “maximising reach”. They also chat about the reality of getting older in the public eye and why chasing audience approval can quietly ruin creative work. Plus, Adam talks about making his debut solo album, Buckle Up, collaborating with Metronomy’s Joe Mount, and finding new ways to stay creative. Expect as usual, a question from Shanthi, and a game of Misquoted with a brutal breakdown of how viral exclusives are ruining us. A Ranga Bee Production in partnership with Platform. 00:00 Intro 05:00 A gift for Adam 06:30 Hair loss, aging and awkward family moments 13:20 Rom & Adam’s attempt at friendship 16:33 Adam on podcasting trending 17:10 The competition with Theroux 18:04 What Adam doesn’t like about podcasting 25:42 Getting into music 29:55 Adam’s new comedy album 30:51 Shorts faux pas and fashion envy 36:40 More on Buckle Up the album 39:30 Adam does a jingle 42:06 Adam’s divided career 49:39 A question from Shanthi 51:57 The future of comedy TV 54:55 Misquoted 01:02:29 A viral exclusive broken down 01:06:36 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "What is the future of comedy and podcasts? Comedian, actor and podcaster Adam Buxton joins Romesh for a thoughtful and funny conversation about creativity, aging and the strange evolution of podcasting. Adam reflects on his career from The Adam and Joe Show, to music, to building one of the UK’s most respected podcasts. From working with Louis Theroux to becoming podcast competitors, he discusses why he prefers audio over video, even as the industry shifts toward clips, algorithms and “maximising reach”. They also chat about the reality of getting older in the public eye and why chasing audience approval can quietly ruin creative work. Plus, Adam talks about making his debut solo album, Buckle Up, collaborating with Metronomy’s Joe Mount, and finding new ways to stay creative. Expect as usual, a question from Shanthi, and a game of Misquoted with a brutal breakdown of how viral exclusives are ruining us. The Adam Buxton Band are on tour and you can get your tickets here! https://linktr.ee/theadambuxtonband A Ranga Bee Production in partnership with Platform. 00:00 Intro 05:00 A gift for Adam 06:30 Hair loss, aging and awkward family moments 13:20 Rom & Adam’s attempt at friendship 16:33 Adam on podcasting trending 17:10 The competition with Theroux 18:04 What Adam doesn’t like about podcasting 25:42 Getting into music 29:55 Adam’s new comedy album 30:51 Shorts faux pas and fashion envy 36:40 More on Buckle Up the album 39:30 Adam does a jingle 42:06 Adam’s divided career 49:39 A question from Shanthi 51:57 The future of comedy TV 54:55 Misquoted 01:02:29 A viral exclusive broken down 01:06:36 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/275eae96-4958-11f1-ac7e-13418d78f811/image/1d933ee1736b8c49adda4723b91dbb04.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2767050472.mp3?updated=1778262448",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2767050472.mp3?updated=1778494874",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4204",

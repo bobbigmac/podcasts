@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-10T08:21:43+00:00`
-- checked_at: `2026-05-10T08:21:43+00:00`
-- etag: `"djEuMi4wOjE3NzgzODkyMzk1NTQ="`
+- fetched_at: `2026-05-11T15:35:24+00:00`
+- checked_at: `2026-05-11T15:35:24+00:00`
+- etag: `"djEuMi4wOjE3Nzg1MDUzNzM2NzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-10T08:21:43+00:00",
+  "fetched_at": "2026-05-11T15:35:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "640d2f581a88cc333a2b7b4e1ac7a78ec257fd05",
+      "title": "Rayner is READY, Streeting would kill Labour | Labour MP speaks out 000",
+      "published_at": "2026-05-11T13:16:13+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a01d69d92e9663a6f7cece5",
+      "description": "Clive Lewis came by the PoliticsJOE studio this week to break down the runners and riders in a potential leadership challenge against Keir Starmer. After a disastrous showing in the local elections, questions over Keir Starmer's leadership of his party - and the country - have only intensified. Particularly from within his own ranks, the Prime Minister has been battling against backbenchers eager to share their fury with the running of the party. Clive Lewis has long been a critic of Keir Starmer, calling last year for Andy Burnham to take his Norwich seat in order to contest a leadership election. Today he joins Ava to break down where his party goes from here. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a01d69d92e9663a6f7cece5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44051224",
+      "itunes_duration": "45:45",
+      "speakers": [
+        "Clive Lewis"
+      ],
+      "topics": [
+        "rayner",
+        "streeting",
+        "labour"
+      ]
+    },
     {
       "key": "283412f76b3769c45f43576542252784ca3ce8e6",
       "title": "KNEECAP on Donald Trump, free speech, and fighting terror charges",
@@ -12874,6 +12894,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — Rayner is READY, Streeting would kill Labour | Labour MP speaks out 000 — speakers: Clive Lewis
 - 2026-05-10 — KNEECAP on Donald Trump, free speech, and fighting terror charges — speakers: Mo Chara
 - 2026-05-08 — Labour's local election wipeout, analysed
 - 2026-05-07 — Hormuz Crisis: This is what resilient infrastructure looks like
