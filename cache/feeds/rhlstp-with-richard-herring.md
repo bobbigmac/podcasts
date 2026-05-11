@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-08T19:44:46+00:00`
-- checked_at: `2026-05-08T19:44:46+00:00`
-- etag: `"djEuMi4wOjE3NzgyNjI4NjUzMjE="`
+- fetched_at: `2026-05-11T04:35:42+00:00`
+- checked_at: `2026-05-11T04:35:42+00:00`
+- etag: `"djEuMi4wOjE3Nzg0NjgyNTkzODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-08T19:44:46+00:00",
+  "fetched_at": "2026-05-11T04:35:42+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "17c86770fec55ca604521ae23bb47aa9db32ee8a",
+      "title": "Retro RHLSTP 143 - Stephen Merchant",
+      "published_at": "2026-05-11T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#427 Retribution - Richard is hoping to get a bridge named after him in Great Yarmouth and hopefully his fans will do better than they did in getting him nominated for a British Comedy Award. It’s an incredible guest to start the new series, making his first appearance in almost 10 years, Stephen Merchant. Stephen has some questions for Richard about his first stint on the podcast and Richard doesn’t really have any answers. But after a bit of squirming the pair get talking about meeting your heroes, your parents meeting your heroes, how an omelette was the clincher in getting Christopher Walken on to The Outlaws, the KLF style destruction of a Banksy, the Herring’s Eye, the surprising news that drugs can be quite good fun, how Stephen made an impression at a Sarah Silverman party and his move into serious acting. Are they friends again by the end? I guess we’ll find out in ten years time. Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1772999496368-3b497299-a078-4a3d-ad55-d86f2229dea6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69add2f36ffdcd81881a9320/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33326535",
+      "itunes_duration": "1:06:17",
+      "speakers": [
+        "Stephen Merchant",
+        "Great Yarmouth",
+        "Richard Herring"
+      ],
+      "topics": [
+        "retro",
+        "stephen",
+        "merchant"
+      ]
+    },
     {
       "key": "4f6e60e68aaabb6d697c8f3549c601226372e4fd",
       "title": "Retro Can I Have My Ball Back? - Episode 2",
@@ -22319,6 +22341,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — Retro RHLSTP 143 - Stephen Merchant — speakers: Stephen Merchant, Great Yarmouth, Richard Herring
 - 2026-05-08 — Retro Can I Have My Ball Back? - Episode 2 — speakers: Sara Kayat Richard, Richard Herring
 - 2026-05-06 — RHLSTP Book Club 178 - John Robins (Part 1) — speakers: John Robins, Richard Herring
 - 2026-05-04 — Retro RHLSTP 142 - Catherine Bohart — speakers: Catherine Bohart, Naked Beach, Great Yarmouth, Richard Herring

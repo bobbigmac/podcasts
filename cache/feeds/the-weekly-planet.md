@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-05-10T13:55:49+00:00`
-- checked_at: `2026-05-10T13:55:49+00:00`
-- etag: `"djEuMi4wOjE3Nzg0MjA5MDU3MTk="`
+- fetched_at: `2026-05-11T04:35:42+00:00`
+- checked_at: `2026-05-11T04:35:42+00:00`
+- etag: `"djEuMi4wOjE3Nzg0NzM4MzkyNDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-05-10T13:55:49+00:00",
+  "fetched_at": "2026-05-11T04:35:42+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6c2dc439ff77e74c0d8e155bf6d408926371d52a",
+      "title": "622 Daredevil, The Boys & Mortal Kombat 2",
+      "published_at": "2026-05-11T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/622-daredevil-the-boys-mortal-kombat-2",
+      "description": "Welcome back to another episode of The Weekly Planet where wer talk movies (Mortal Kombat 2), comics (some Doctor Strange Thing) and TV Shows (Daredevil: Born Again Season 2/The Boys Season 5). We also talk the news of the week including a Spider-Man MCU origin revelation, a snow first look at The Batman Part II, a new Planet of the Apes movie in the works and trailers for Evil Dead Burn and Christopher Nolan's The Odyssey. Thanks for listening! New bonus Q&A podcast episode with James & Maso out now on bigsandwich.co and patreon.com/mrsundaymovies Also Nick Mason is on TWO new episodes of the great Book Cheat podcast talking Sherlock Holmes right here: https://open.spotify.com/episode/06w566g9SNKC2YcG6aGRXU?si=c8a599a5b13547b1 PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 03:18 MCU Spider-Man's Origin Reveals 07:38 The Batman Part 2 Camera Test 11:40 New Planet of the Apes Movie Details 20:42 Evil Dead Burn Trailer 22:52 The Odyssey Trailer 27:10 Mortal Kombat 2 Movie Review 43:56 Mortal Kombat 2 Spoiler Segment 53:02 What We Reading, What We Gonna Read 58:14 Daredevil: Born Again S2 & The Boys S5 (so far) Spoiler Reviews 01:11:50 Letters, It's Time For John Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a008ca9385e8d5e305f4d2b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "137004334",
+      "itunes_duration": "1:35:08",
+      "speakers": [
+        "Mortal Kombat",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "daredevil",
+        "boys",
+        "mortal",
+        "kombat"
+      ]
+    },
     {
       "key": "ec0b1a13f867ccdaa25a8e68c187ea5925fb80ba",
       "title": "X-Men: The Last Stand REDUX - Caravan Of Garbage",
@@ -22257,6 +22280,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — 622 Daredevil, The Boys & Mortal Kombat 2 — speakers: Mortal Kombat, James Clement, Nick Mason
 - 2026-05-10 — X-Men: The Last Stand REDUX - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-05-08 — X2: X-Men United - Caravan Of Garbage — speakers: Sam Raimi, James Clement, Nick Mason
 - 2026-05-04 — 621 Django/Zorro Crossover & The Devil Wears Prada 2 — speakers: Zorro Crossover, James Clement, Nick Mason

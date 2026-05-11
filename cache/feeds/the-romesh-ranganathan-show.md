@@ -3,9 +3,11 @@
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
 - fetched_at: `2026-05-08T19:44:46+00:00`
-- checked_at: `2026-05-08T19:44:46+00:00`
+- checked_at: `2026-05-11T04:35:42+00:00`
 - last_modified: `Fri, 08 May 2026 17:52:04 GMT`
 - max_episodes_per_feed: `2000`
+- status: `error`
+- last_error: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>
 
 <!-- FEED_JSON -->
 ```json
@@ -1520,7 +1522,17 @@
         "ranganathan"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-05-11T04:35:42+00:00",
+    "status": "error",
+    "checked_at": "2026-05-11T04:35:42+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

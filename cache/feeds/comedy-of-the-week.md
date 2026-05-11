@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-05-05T08:27:26+00:00`
-- checked_at: `2026-05-05T08:27:26+00:00`
-- etag: `"52c5de371a20ae21f03eda3f515cf5b8"`
-- last_modified: `Tue, 05 May 2026 04:00:04 GMT`
+- fetched_at: `2026-05-11T04:35:42+00:00`
+- checked_at: `2026-05-11T04:35:42+00:00`
+- etag: `"2736a63620da1c0c0a3c03ddf6f254c6"`
+- last_modified: `Mon, 11 May 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-05-05T08:27:26+00:00",
+  "fetched_at": "2026-05-11T04:35:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "24795741f35c2039ce94abc5b78cd6fab32b9c0e",
+      "title": "Emer Maguire: Patron Saint of Bad Luck",
+      "published_at": "2026-05-11T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0njsvq8",
+      "description": "A year ago, Emer Maguire had it all. Now she’s sleeping on the floor of her brother’s student flat in a shady part of Belfast – no girlfriend, no home, no hope. Where did it all go wrong? How did she end up all alone, broken hearted and with only an assistance dog called Dougal for company? Is she the Patron Saint of Bad Luck? Comedian Emer Maguire recalls how the worst year of her life - including messy break-up, serious medical issues and not one, but two life-changing diagnoses – put her on the path to living her best life. Told with her trademark honesty and songwriting brilliance, Emer’s tale is both heartfelt and uplifting, a laugh-out-loud rollercoaster journey of self-discovery and self-acceptance. One of Northern Ireland’s most exciting comedic voices, Emer Maguire (who was dubbed by one critic as the “indie Victoria Wood”) is a double Irish IMRO award-winning presenter and four times TEDx speaker. Written and performed by Emer Maguire Produced by Anna Hinds Executive Producer: Keith Martin Sound: David Walker A FABEL radio production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njsv2v.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27408000",
+      "itunes_duration": "1713",
+      "speakers": [
+        "Emer Maguire",
+        "Patron Saint"
+      ],
+      "topics": [
+        "emer",
+        "maguire",
+        "patron",
+        "saint",
+        "luck"
+      ]
+    },
     {
       "key": "903f886b35374064b621c33b6187b71b318c07d6",
       "title": "Geoff Norcott's Working Men's Club",
@@ -974,6 +997,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — Emer Maguire: Patron Saint of Bad Luck — speakers: Emer Maguire, Patron Saint
 - 2026-05-04 — Geoff Norcott's Working Men's Club — speakers: Geoff Norcott, Gary Neville
 - 2026-04-27 — Brian & Roger
 - 2026-04-20 — Nature Table

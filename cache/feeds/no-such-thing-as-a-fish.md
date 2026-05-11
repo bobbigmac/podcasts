@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-05-08T03:53:40+00:00`
-- checked_at: `2026-05-08T03:53:40+00:00`
-- etag: `W/"2592a1902a0d427fc7ed1a1d16fc62d6"`
-- last_modified: `Thu, 07 May 2026 22:55:00 GMT`
+- fetched_at: `2026-05-11T04:35:42+00:00`
+- checked_at: `2026-05-11T04:35:42+00:00`
+- etag: `W/"628ab7ac80044f807cd54da142825b2f"`
+- last_modified: `Sun, 10 May 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-05-08T03:53:40+00:00",
+  "fetched_at": "2026-05-11T04:35:42+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "7551ba6a2be57bab9694d9b249648805451b0af0",
+      "title": "Little Fish: Still Rockin' The Cloaca",
+      "published_at": "2026-05-10T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8900574",
+      "description": "Dan, James and Andy discuss YOUR facts, including Nottingham and wedding hams. Dan and Andy argue over Ben Stiller movies. Again. And we name eight more Friend of the Podcast fact custodians. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8900574.mp3?modified=1778164539&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1821",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "rockin",
+        "cloaca"
+      ]
+    },
     {
       "key": "584f78331424cd974dc628236d729c4c14df47c6",
       "title": "No Such Thing As A Ham Bag",
@@ -16242,6 +16265,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-10 — Little Fish: Still Rockin' The Cloaca — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-07 — No Such Thing As A Ham Bag — speakers: Susie Dent, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-03 — Little Fish: You've Hit The Nail On the Head — speakers: Jack Black, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-04-30 — No Such Thing As Imaginary Flumps — speakers: Amy Gledhill, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

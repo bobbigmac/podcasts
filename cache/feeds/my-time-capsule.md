@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-05-10T19:33:05+00:00`
-- checked_at: `2026-05-10T19:33:05+00:00`
-- etag: `"djEuMi4wOjE3Nzg0MzcwNjcyNjY="`
+- fetched_at: `2026-05-11T04:35:42+00:00`
+- checked_at: `2026-05-11T04:35:42+00:00`
+- etag: `"djEuMi4wOjE3Nzg0NTQxNTkzMTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-05-10T19:33:05+00:00",
+  "fetched_at": "2026-05-11T04:35:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "648ec0ca2cc6275583f4c136b957ba355c88bd3f",
+      "title": "Ep. 584 - Julie Peasgood - From Brookside, Emmerdale & Hollyoaks and winner of RTS’s TV Personality of the Year Award",
+      "published_at": "2026-05-10T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-584-julie-peasgood-from-brookside-emmerdale-hollyoaks-and",
+      "description": "Julie Peasgood is probably best known for having been a regular in no less than three soaps: Brookside, Emmerdale and Hollyoaks. She has a multi-faceted career as an accomplished actress, TV presenter and producer, award-winning author, voice-over artist and events host. Honoured by the Royal Television Society with their celebrated Television Personality of the Year Award, Julie’s acting career spans over fifty years of prestigious theatre and television, including five years with the Royal Shakespeare Company, TV serials such as Taggart, Casualty, The Survivors, September Song, Spender, Russell T Davies’ Years and Years and Doctors (playing Michael Fenton Stevens wife!). Julie has also made her mark as a prolific travel and lifestyle writer: she was Contributing Editor for Cruise & Travel magazine for twelve years and has had long-running columns in Crafts Beautiful, Yours and Now magazines and Group Leisure and Travel, as well as being a regular contributor to Metro and the Mail on Sunday. A veteran of over 100 cruises - as a travel presenter, cruise reviewer and guest speaker – in 2018 Julie decided to combine her love of cruise travel with her passion for crafts, to form her highly successful company Supercraft Cruises.. Julie Peasgood is our guest in episode 584 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Julie’s Supercraft Cruises company - https://www.supercraftcruises.com . To donate blood, visit - www.blood.co.uk . Buddhism in Action for Peace - https://sgi-uk.org . Follow Julie Peasgood on Instagram : @juliepeasgood . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a00cbcbdcea0196adcd8f3e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56510610",
+      "itunes_duration": "47:05",
+      "speakers": [
+        "Julie Peasgood"
+      ],
+      "topics": [
+        "julie",
+        "peasgood",
+        "brookside",
+        "emmerdale",
+        "hollyoaks",
+        "winner",
+        "personality",
+        "year",
+        "award"
+      ]
+    },
     {
       "key": "ebb634aad96b29c93f89c7e34ada0820abe8c2cd",
       "title": "My Time Capsule The Dig - Ep. 1 - With Lucy Porter!",
@@ -12528,6 +12554,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-10 — Ep. 584 - Julie Peasgood - From Brookside, Emmerdale & Hollyoaks and winner of RTS’s TV Personality of the Year Award — speakers: Julie Peasgood
 - 2026-05-07 — My Time Capsule The Dig - Ep. 1 - With Lucy Porter! — speakers: Lucy Porter, John sit
 - 2026-05-04 — Ep. 583 - Dean Friedman - Singer-songwriter best known for the hits “Ariel” and “Lucky Stars” — speakers: Dean Friedman
 - 2026-05-01 — Ep. 582 - Joe Wilkinson Unedited - An uncut version of our episode with the Celebrity Traitors star! — speakers: Joe Wilkinson
