@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-05-10T22:04:23+00:00`
-- checked_at: `2026-05-10T22:04:23+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpnME5EUTFNakUzTnpjPTo6c2F4ZXNz"`
+- fetched_at: `2026-05-11T09:59:28+00:00`
+- checked_at: `2026-05-11T09:59:28+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpnME56VTJOREF6TkRNPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-05-10T22:04:23+00:00",
+  "fetched_at": "2026-05-11T09:59:28+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f8f60d9dc258c623e41e36dd680fafa218792b30",
+      "title": "Help I’m Sharing Soap With Strangers | And Speedo Season",
+      "published_at": "2026-05-11T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-im-sharing-soap-with-strangers-and-speedo-season",
+      "description": "Would you accept a bar of soap from another gym member? Would you share a toothbrush with your partner? Would William look good in Speedos? The questions that William and Jordan find answers to are as varied as ever. Elsewhere there's an etiquettemology regarding a canine-friendly designer brand and a listener dilemma about flags.",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": "45:26",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "soap",
+        "strangers",
+        "speedo",
+        "season"
+      ]
+    },
     {
       "key": "1c22b850a3d1ffda79975bc005800b15d3053b35",
       "title": "Granny Put What In Her Eye?! | And Jordan's Superstitions",
@@ -14264,6 +14286,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — Help I’m Sharing Soap With Strangers | And Speedo Season — speakers: William Hanson, Jordan North
 - 2026-05-08 — Granny Put What In Her Eye?! | And Jordan's Superstitions — speakers: William Hanson, Jordan North
 - 2026-05-05 — Help He’s Fist Deep In My Mum | And William Parkours?! — speakers: William Parkours, William Hanson, Jordan North
 - 2026-05-01 — Jordan’s Drag Name | And William’s Silver Spoon — speakers: Jordan’s Drag Name, William’s Silver, William Hanson, Jordan North

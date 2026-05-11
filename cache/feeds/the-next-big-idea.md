@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-05-11T04:35:42+00:00`
-- checked_at: `2026-05-11T04:35:42+00:00`
-- last_modified: `Mon, 11 May 2026 02:37:42 GMT`
+- fetched_at: `2026-05-11T09:59:28+00:00`
+- checked_at: `2026-05-11T09:59:28+00:00`
+- last_modified: `Mon, 11 May 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-11T04:35:42+00:00",
+  "fetched_at": "2026-05-11T09:59:28+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,25 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "6fe335e3f33b1992d5175afcb6a0ebd2ac6f76a1",
+      "title": "You Can Grow Your Brain. Here’s How.",
+      "published_at": "2026-05-11T09:00:00+00:00",
+      "link": null,
+      "description": "In the last 20 years, there has been a dramatic change in our understanding of neuroplasticity — the brain’s capacity to grow new neurons. In the last five years, we’ve learned that your hippocampus, the part of your brain responsible for learning and memory, can get bigger at any age. Majid Fotuhi, who teaches at Johns Hopkins, has been at the forefront of a new body of research demonstrating that lifestyle changes — tweaks to the way you exercise and eat, adjustments to your sleep and mindset — can improve your brain health no matter how old you are. They can even reverse early-stage Alzheimer’s. His new book is The Invincible Brain , and the message is clear: with the right lifestyle and mindset changes, you can grow a bigger brain. 🔗 LINKS AND MENTIONS: Check out our playlist of health-related episode on Spotify The Next Big Idea Club — Save 20% on any membership when you use code PODCAST at nextbigideaclub.com Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months. Just head to granola.ai/idea Incogni — Protect your personal information online and get an exclusive 60% off an annual plan at incogni.com/nbi Quince — Refresh your spring wardrobe and get free shipping and 365-day returns at quince.com/nbi Shopify — Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP1494482864.mp3?updated=1778467353",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4813",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "brain"
+      ]
+    },
     {
       "key": "df28fe0fc081652c3ca9addbef6b4828b1d3ef23",
       "title": "Turning Constraints Into Breakthroughs with David Epstein",
@@ -7690,6 +7709,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — You Can Grow Your Brain. Here’s How. — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-05-07 — Turning Constraints Into Breakthroughs with David Epstein — speakers: David Epstein, Rufus Griscom, Caleb Bissinger
 - 2026-05-04 — You're in the Hospitality Business (Whether You Know It or Not) — speakers: Will Guidara, Rufus Griscom, Caleb Bissinger
 - 2026-04-30 — We're Still Thinking About This Conversation with Will Guidara — speakers: Will Guidara, Rufus Griscom, Caleb Bissinger

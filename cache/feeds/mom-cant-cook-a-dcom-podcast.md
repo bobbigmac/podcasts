@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-05-10T22:04:23+00:00`
-- checked_at: `2026-05-10T22:04:23+00:00`
-- last_modified: `Sun, 10 May 2026 07:28:59 GMT`
+- fetched_at: `2026-05-11T09:59:28+00:00`
+- checked_at: `2026-05-11T09:59:28+00:00`
+- last_modified: `Mon, 11 May 2026 06:30:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-05-10T22:04:23+00:00",
+  "fetched_at": "2026-05-11T09:59:28+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "95e5e4aa3b097ab326b7492144311122c4da4b1c",
+      "title": "Zapped",
+      "published_at": "2026-05-11T06:30:00+00:00",
+      "link": null,
+      "description": "Zoe's only just started at her new high school, but already she finds her existence beset by boys. Stinking, rude, unfocused, noisy, stinking boys. Did we mention they stink? Luckily, through a series of electrical mishaps, an app on Zoe's phone becomes boy-mind-control software, and soon Zoe has turned every boy in school into an unwilling puppet, and she begins to reshape the world according to her own girlish whims. If you think that sounds like a troubling premise for a movie, good instincts! Luke and Andy grapple with the ramifications of Zoe (played by a young Zendaya) gleefully shattering the minds of every boy in town, and suffer their own psychological damage at the hands of Jackson, Zapped's romantic interest whose favourite novel?... well, let's just say it might surprise you. If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched Zapped and have your own thoughts, email them to us at momcantcookpod@gmail.com for a chance to have them read out on the show. Next time on Mom Can't Cook! we'll be watching 1996's Encino Woman. See you then! This episode is sponsored by Greenchef. Head to Greenchef.com/50momcantcook and use code 50momcantcook to get fifty percent off your first month, then twenty percent off for two months. This episode is also sponsored by Insert Coin Clothing! Visit insertcoinclothing.com and use code BREAKINGAPPISHARDTODO for 10% off online orders. Codes are not applicable on charity items, bundles, gift cards, postage and some products at launch. Codes cannot be combined with other deals or promotions and are valid until the end of 2026. Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/rss.art19.com/episodes/4c40c5c4-081c-41f8-a61d-eb9141dce7aa.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "133769090",
+      "itunes_duration": "02:19:20",
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
+      "topics": [
+        "zapped"
+      ]
+    },
     {
       "key": "0a68ec0051426ff26cbf7bf4734abb6eb8bfffb5",
       "title": "Congo",
@@ -2086,6 +2105,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — Zapped — speakers: Luke Westaway, Andy Farrant
 - 2026-04-27 — Congo — speakers: Luke Westaway, Andy Farrant
 - 2026-04-13 — Mail to the Chief — speakers: Kenny Witkowski, Mortal Karnage, Luke Westaway, Andy Farrant
 - 2026-03-30 — Lemonade Mouth — speakers: Lemonade Mouth Lemonade Mouth, Luke Westaway, Andy Farrant
