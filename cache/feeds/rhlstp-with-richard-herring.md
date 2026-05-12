@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-11T15:35:24+00:00`
-- checked_at: `2026-05-11T15:35:24+00:00`
-- etag: `"djEuMi4wOjE3Nzg1MDM2MDY1NTU="`
+- fetched_at: `2026-05-12T04:04:53+00:00`
+- checked_at: `2026-05-12T04:04:53+00:00`
+- etag: `"djEuMi4wOjE3Nzg1NTQ4Mzk3Nzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-11T15:35:24+00:00",
+  "fetched_at": "2026-05-12T04:04:53+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1e48e05560b60a80d22a2130865a19457c14d013",
+      "title": "RAACN week 15",
+      "published_at": "2026-05-12T03:00:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Tuesday 5th May 2026- Mrs Doubtfire - There’s news of an upcoming royal birth and suspicions of a clever ruse going on, but you can hear about it straight from the shamed-horse’s mouth with a special interview with the grandfather to be. Wednesday 6th May 2026 - Hypnotherapy Lies - Rich and Ally have breaking news about the most mendacious politician there has ever been and why we must never vote for anyone who tells lies. You will be shocked to the core by these accusations. Plus find out how to get bigger breasts. It's the show that gives you everything. Thursday 5th May 2026 - Election Day - Rich and Ally cover all the comings and goings as some of the UK prepares to vote for Reform and not “Crack” Polanski. Friday May 8th 2026 MV Hondius - Rich and Ally are back for the last time this week and they’re looking at the brand new virus that will hopefully spread across the world and get us all into another relaxing lockdown. Plus a report from the deck of the doomed ship, but who will be the reporter today? Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1778503279908-8e08afd0-ba65-449a-a222-bece0b825547.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a01cfb6b443364556e01f1e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33655488",
+      "itunes_duration": "1:10:06",
+      "speakers": [
+        "Mrs Doubtfire There",
+        "Richard Herring"
+      ],
+      "topics": [
+        "raacn",
+        "week"
+      ]
+    },
     {
       "key": "17c86770fec55ca604521ae23bb47aa9db32ee8a",
       "title": "Retro RHLSTP 143 - Stephen Merchant",
@@ -22341,6 +22361,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-12 — RAACN week 15 — speakers: Mrs Doubtfire There, Richard Herring
 - 2026-05-11 — Retro RHLSTP 143 - Stephen Merchant — speakers: Stephen Merchant, Great Yarmouth, Richard Herring
 - 2026-05-08 — Retro Can I Have My Ball Back? - Episode 2 — speakers: Sara Kayat Richard, Richard Herring
 - 2026-05-06 — RHLSTP Book Club 178 - John Robins (Part 1) — speakers: John Robins, Richard Herring

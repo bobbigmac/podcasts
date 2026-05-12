@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-05-10T19:33:05+00:00`
-- checked_at: `2026-05-10T19:33:05+00:00`
-- last_modified: `Sun, 10 May 2026 18:57:16 GMT`
+- fetched_at: `2026-05-12T04:04:53+00:00`
+- checked_at: `2026-05-12T04:04:53+00:00`
+- last_modified: `Tue, 12 May 2026 03:03:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/40fdac0908467e0692b2c0139f4db663.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-10T19:33:05+00:00",
+  "fetched_at": "2026-05-12T04:04:53+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6a675ce9f24c85893cfdc4ebe329d95d597a7e5f",
+      "title": "S12 EP37: A Room With No Window",
+      "published_at": "2026-05-11T23:30:00+00:00",
+      "link": null,
+      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... it's been a busy weekend over at PH Towers. Find out why inside this episode... ⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4448102979.mp3?updated=1778541480",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2762",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "room",
+        "window"
+      ]
+    },
     {
       "key": "3e827108d34e3aa60850bb34288df9cf5434e865",
       "title": "S12 EP36: Jessica Hynes",
@@ -11872,6 +11892,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — S12 EP37: A Room With No Window — speakers: Rob Beckett, Josh Widdicombe
 - 2026-05-08 — S12 EP36: Jessica Hynes — speakers: Jessica Hynes, Rob Beckett, Josh Widdicombe
 - 2026-05-05 — S12 EP35: Faithful... or Traitor? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-05-01 — S12 EP34: Josh gets bullied by Romesh — speakers: Rob Beckett, Josh Widdicombe

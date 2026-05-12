@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-05-11T22:18:19+00:00`
-- checked_at: `2026-05-11T22:18:19+00:00`
-- last_modified: `Mon, 11 May 2026 22:15:55 GMT`
+- fetched_at: `2026-05-12T04:04:53+00:00`
+- checked_at: `2026-05-12T04:04:53+00:00`
+- last_modified: `Tue, 12 May 2026 00:41:31 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-11T22:18:19+00:00",
+  "fetched_at": "2026-05-12T04:04:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "288fe2dcbc63aea7c9df663d3e8c10ffa2b6b44c",
+      "title": "Enraged or Engaged? Angela Rayner on The Gen Z Story",
+      "published_at": "2026-05-11T23:10:00+00:00",
+      "link": null,
+      "description": "Former Deputy Prime Minister, Angela Rayner, joins Alastair Campbell and Vicky Spratt to discuss the Gen Z story as she sees it. Listen to hear her thoughts on the success of The Green Party, the allure of characters like Gary Stevenson and Zack Polanski, the hopelessness of young people, the danger of binary politics and short-term thinking, as well as her push for the government to reconnect with Gen Z and empower leaders of the future. She also listens and responds directly to some of your experiences sent to us via voice note. To hear episode one and two of the Gen Z Story, sign up at ⁠therestispolitics.com ⁠ and if you're a student, sign up with your student email address to get a year of TRIP Plus for just £20. For analysis on this interview and more insights into the Gen Z Story series, sign up to our free newsletter . Instagram: ⁠@restispolitics⁠ Twitter: ⁠@restispolitics⁠ Email: ⁠therestispolitics@goalhanger.com⁠ __________ Hosted by: Vicky Spratt Producer: India Dunkley Social Producer: Celine Charles Video Editor: Josh Smith, Lorcan Moullier Researcher: Olivia Taylor Hooper Exec Producer: Tom Whiter Editorial Director: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0857c302-4d81-11f1-a14c-5bd4d1fba97c/image/141e751f10f0462143e503c7785a2f14.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9620316606.mp3?updated=1778542540",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4097",
+      "speakers": [
+        "Angela Rayner",
+        "Alastair Campbell",
+        "Vicky Spratt"
+      ],
+      "topics": [
+        "angela",
+        "rayner",
+        "story"
+      ]
+    },
     {
       "key": "3baa68254c43eaa456f924d3157804935f65e8bd",
       "title": "Divided or Dependent? The Real Gen Z Story",
@@ -112,10 +134,10 @@
       "link": null,
       "description": "Is Gen Z the most informed generation in history, or the most financially trapped? Is a university degree still worth it, or have we sent too many people to study the wrong things? Has Britain gone from a meritocracy to an inheritocracy, where the “Bank of Mum and Dad” are more essential than ever? Vicky Spratt, Housing and Society Correspondent, investigates the Gen Z story and how bad are things really for young people? This week she is joined by generational historial Dr Eliza Filby. STUDENT DISCOUNT FOR TRIP PLUS: £20 FOR THE YEAR : The Rest is Politics is offering an exclusive discount for students, just sign up with your student email address here To hear the whole episode, and to get access to all TRIP bonus content, sign up at therestispolitics.com Instagram: ⁠@restispolitics⁠ Twitter: ⁠@restispolitics⁠ Email: ⁠therestispolitics@goalhanger.com⁠ __________ Hosted by: Vicky Spratt Producer: India Dunkley Social Producer: Celine Charles Video Editor: Adam Thornton, Lorcan Moullier Researcher: Olivia Taylor Hooper Exec Producer: Tom Whiter Editorial Director: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/3b9f194e-44a4-11f1-92fc-570555cf3614/image/545941e72476abe7d88d43e266df1741.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3398086747.mp3?updated=1777629718",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3398086747.mp3?updated=1778539178",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1147",
+      "itunes_duration": "1012",
       "speakers": [
         "Left Behind"
       ],
@@ -11823,6 +11845,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — Enraged or Engaged? Angela Rayner on The Gen Z Story — speakers: Angela Rayner, Alastair Campbell, Vicky Spratt
 - 2026-05-09 — Divided or Dependent? The Real Gen Z Story
 - 2026-05-08 — 530. Is Starmer the Next Joe Biden? Rory and Alastair React to Local Elections — speakers: Alastair React
 - 2026-05-06 — 529. Antisemitism, Polarisation, and How the King Outplayed Trump — speakers: King Outplayed Trump How

@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-11T15:35:24+00:00`
-- checked_at: `2026-05-11T15:35:24+00:00`
-- last_modified: `Mon, 11 May 2026 12:22:04 GMT`
+- fetched_at: `2026-05-12T04:04:53+00:00`
+- checked_at: `2026-05-12T04:04:53+00:00`
+- last_modified: `Tue, 12 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-11T15:35:24+00:00",
+  "fetched_at": "2026-05-12T04:04:53+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "a8f27e4d4ae2126697b6726e129cb20129e29e34",
+      "title": "S15 Ep 387: The Hunt for Joe’s Sinister Farm",
+      "published_at": "2026-05-12T02:00:00+00:00",
+      "link": null,
+      "description": "For today’s episode, Chatabix transforms into a proper True Crime podcast. Following their discussion about the sinister farm that Joe stumbled across on a recent walk, he and David have decided to investigate further and see if they can uncover what dastardly goings on might be happening there. So prepare yourself for some serious internet sleuthing and steady your nerves as the mystery unfolds… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2189396684.mp3?updated=1778501307",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2577",
+      "speakers": [
+        "Joe’s Sinister Farm",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "hunt",
+        "sinister",
+        "farm"
+      ]
+    },
     {
       "key": "35051485f10f3237ecce20539e5ddf714bcf45bd",
       "title": "S15 Ep 836 Vault Mondays: The 100th Episode",
@@ -10925,30 +10947,6 @@
       ]
     },
     {
-      "key": "7d5608a0274d914f7bdfacf408646143b138034b",
-      "title": "Gorton Part 3. The Deal Or No Deal saga rolls on: Traitors Paul Gorton",
-      "published_at": "2024-01-08T14:36:00+00:00",
-      "link": null,
-      "description": "This ep is from the Chatavaults and was originally released in Nov 2022. Paul Gorton is back for the third time to talk about his Deal or No Deal experience. He's eighteen shows down and tells us that Daddy has now left. Paul is asked to be the new Daddy of the team which he's thrilled about. He tells them about the holding pen for the contestants. David wants to know details about the set. Noel Edmunds tells Paul off for disrupting the show as he needs yet another wee. David and Joe realise Paul is playing the long game and will definitely be back for another episode. Paul Gorton is currently in BBC One show The Traitors UK S2. https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6945072813.mp3?updated=1704724753",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3673",
-      "speakers": [
-        "Paul Gorton",
-        "Joe Wilkinson",
-        "David Earl"
-      ],
-      "topics": [
-        "gorton",
-        "deal",
-        "saga",
-        "traitors",
-        "paul"
-      ]
-    },
-    {
       "key": "3b843f9fe856f7c6d1d204e3dd37da6bc42d6927",
       "title": "Gorton Part 4. The moment and even more DOND: Traitors Paul Gorton",
       "published_at": "2024-01-08T14:36:00+00:00",
@@ -10973,16 +10971,16 @@
       ]
     },
     {
-      "key": "ef1b582767a738b4d57bedcab718ba69a050375b",
-      "title": "Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton",
-      "published_at": "2024-01-08T14:35:00+00:00",
+      "key": "7d5608a0274d914f7bdfacf408646143b138034b",
+      "title": "Gorton Part 3. The Deal Or No Deal saga rolls on: Traitors Paul Gorton",
+      "published_at": "2024-01-08T14:36:00+00:00",
       "link": null,
-      "description": "This ep is from the Chatavaults. It first went out in August 2022 long before Paul Gorton applied to go on The Traitors. He originally got in touch with Chatabix as David and Joe wanted to talk to someone who had been on a game show. As a past contestant on Deal or No Deal with Noel Edmunds, Paul had lots of great stories to tell. They all got on like a house on fire and the rest, as they say, is history. Paul Gorton is currently in the BBC show The Traitors UK (series 2) https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "description": "This ep is from the Chatavaults and was originally released in Nov 2022. Paul Gorton is back for the third time to talk about his Deal or No Deal experience. He's eighteen shows down and tells us that Daddy has now left. Paul is asked to be the new Daddy of the team which he's thrilled about. He tells them about the holding pen for the contestants. David wants to know details about the set. Noel Edmunds tells Paul off for disrupting the show as he needs yet another wee. David and Joe realise Paul is playing the long game and will definitely be back for another episode. Paul Gorton is currently in BBC One show The Traitors UK S2. https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4580271085.mp3?updated=1704724690",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6945072813.mp3?updated=1704724753",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3105",
+      "itunes_duration": "3673",
       "speakers": [
         "Paul Gorton",
         "Joe Wilkinson",
@@ -10990,7 +10988,6 @@
       ],
       "topics": [
         "gorton",
-        "start",
         "deal",
         "saga",
         "traitors",
@@ -11015,6 +11012,31 @@
       ],
       "topics": [
         "gorton",
+        "deal",
+        "saga",
+        "traitors",
+        "paul"
+      ]
+    },
+    {
+      "key": "ef1b582767a738b4d57bedcab718ba69a050375b",
+      "title": "Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton",
+      "published_at": "2024-01-08T14:35:00+00:00",
+      "link": null,
+      "description": "This ep is from the Chatavaults. It first went out in August 2022 long before Paul Gorton applied to go on The Traitors. He originally got in touch with Chatabix as David and Joe wanted to talk to someone who had been on a game show. As a past contestant on Deal or No Deal with Noel Edmunds, Paul had lots of great stories to tell. They all got on like a house on fire and the rest, as they say, is history. Paul Gorton is currently in the BBC show The Traitors UK (series 2) https://www.instagram.com/paulgorton/ Merch: https://chatabixshop.com/ Twitter: https://twitter.com/chatabix1 Insta: www.instagram.com/chatabixpodcast Patreon: www.patreon.com/chatabix Contact us: chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4580271085.mp3?updated=1704724690",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3105",
+      "speakers": [
+        "Paul Gorton",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "gorton",
+        "start",
         "deal",
         "saga",
         "traitors",
@@ -14838,6 +14860,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-12 — S15 Ep 387: The Hunt for Joe’s Sinister Farm — speakers: Joe’s Sinister Farm, Joe Wilkinson, David Earl
 - 2026-05-11 — S15 Ep 836 Vault Mondays: The 100th Episode — speakers: Vault Mondays, Joe Wilkinson, David Earl
 - 2026-05-08 — S15 Ep 835 Listeners Mailbag: The Return Of One In A Million — speakers: Listeners Mailbag, Million Well, Joe Wilkinson, David Earl
 - 2026-05-07 — S15 Ep 834: Golden Moments and Joe’s Secret Admirer - Part 2 — speakers: Joe Wilkinson, David Earl
@@ -15331,10 +15354,10 @@
 - 2024-01-11 — S10 Ep 348 Usual Drivel: Joe Goes Running — speakers: Joe Goes Running, Joe Wilkinson, David Earl
 - 2024-01-10 — S10 Ep 347 Specialist Guest: Floor Manager Tony Guyan — speakers: Tony Guyan, Joe Wilkinson, David Earl
 - 2024-01-09 — S10 Ep 346 Usual Drivel: David Goes Running — speakers: David Goes Running David, Joe Wilkinson, David Earl
-- 2024-01-08 — Gorton Part 3. The Deal Or No Deal saga rolls on: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — Gorton Part 4. The moment and even more DOND: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
-- 2024-01-08 — Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 3. The Deal Or No Deal saga rolls on: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — Gorton Part 2. The Deal or No Deal Saga continues: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
+- 2024-01-08 — Gorton Part 1. The very start of the Deal or No Deal saga: Traitors Paul Gorton — speakers: Paul Gorton, Joe Wilkinson, David Earl
 - 2024-01-08 — S10 Ep 341. Emergency Pod: Deep Dive Ep 3 The Traitors — speakers: Deep Dive, Joe Wilkinson, David Earl
 - 2024-01-05 — S10 Ep 340 Emergency Pod: Dissecting Ep 2 The Traitors — speakers: Joe Wilkinson, David Earl
 - 2024-01-04 — S10 Ep 339 Emergency Pod: Debrief Traitors Ep 1 — speakers: Joe Wilkinson, David Earl

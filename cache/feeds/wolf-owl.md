@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-11T15:35:24+00:00`
-- checked_at: `2026-05-11T15:35:24+00:00`
-- last_modified: `Mon, 11 May 2026 15:22:31 GMT`
+- fetched_at: `2026-05-12T04:04:53+00:00`
+- checked_at: `2026-05-12T04:04:53+00:00`
+- last_modified: `Mon, 11 May 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-11T15:35:24+00:00",
+  "fetched_at": "2026-05-12T04:04:53+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d44e4df7d88ae841640d1c8b40e9e05d64fa37e7",
+      "title": "Piers Morgan, Percy Pigs and Gladiators",
+      "published_at": "2026-05-11T23:01:00+00:00",
+      "link": null,
+      "description": "What does Romesh have in common with Piers Morgan? What offers has Tom been getting in his DMs? Can you guess who Tom’s style icon is? It’s time for another trip on this little rollercoaster that we call the Wolf & Owl, grab a mug (with or without handle), some hayfever tablets and strap in. Like, subscribe and be a part of the tribe by sending your thoughts and questions to us at wolfowlpod@gmail.com A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 01:01 Style icons 03:56 Gladiators & Only Fans 06:25 Kissing 07:40 Sweet Jon 09:11 Going public 14:52 Edge Lord 16:38 Rough and tumble 30:55 Tattoos 35:10 Russell Brand and Piers Morgan 38:33 Lord Of The Rings 40:22 Pollen 43:08 Carpet Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/93b96d2c-4d42-11f1-b514-63f18ec39e36/image/ffbe77e5f1defa1cb462932dc58aec4a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8865557586.mp3?updated=1778513247",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2918",
+      "speakers": [
+        "Percy Pigs",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "piers",
+        "morgan",
+        "percy",
+        "pigs",
+        "gladiator"
+      ]
+    },
     {
       "key": "33df697bc347727b6224f2a282e5fd964b1a37f1",
       "title": "Mickey Drips, Paintball and Wedding Anniversaries",
@@ -6676,6 +6700,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-11 — Piers Morgan, Percy Pigs and Gladiators — speakers: Percy Pigs, Romesh Ranganathan, Tom Davis
 - 2026-05-07 — Mickey Drips, Paintball and Wedding Anniversaries — speakers: Mickey Drips, Romesh Ranganathan, Tom Davis
 - 2026-05-04 — Theme Parks, Bucket Lists and Tattoos — speakers: Theme Parks, Bucket Lists, Will Tom, Romesh Ranganathan, Tom Davis
 - 2026-04-30 — Ozempic, Vaping and Rita Ora — speakers: Romesh Ranganathan, Tom Davis

@@ -3,8 +3,10 @@
 - slug: `the-lucy-porter-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/`
 - fetched_at: `2026-05-11T22:18:19+00:00`
-- checked_at: `2026-05-11T22:18:19+00:00`
+- checked_at: `2026-05-12T04:04:53+00:00`
 - max_episodes_per_feed: `2000`
+- status: `error`
+- last_error: HTTP Error 502: Bad Gateway
 
 <!-- FEED_JSON -->
 ```json
@@ -1402,7 +1404,17 @@
       "itunes_duration": null
     }
   ],
-  "scraper": "fubar_on_demand"
+  "scraper": "fubar_on_demand",
+  "fetch": {
+    "error_since": "2026-05-12T04:04:53+00:00",
+    "status": "error",
+    "checked_at": "2026-05-12T04:04:53+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "HTTP Error 502: Bad Gateway"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

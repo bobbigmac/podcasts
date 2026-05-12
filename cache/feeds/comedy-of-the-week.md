@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-05-11T04:35:42+00:00`
-- checked_at: `2026-05-11T04:35:42+00:00`
-- etag: `"2736a63620da1c0c0a3c03ddf6f254c6"`
-- last_modified: `Mon, 11 May 2026 04:00:04 GMT`
+- fetched_at: `2026-05-12T04:04:53+00:00`
+- checked_at: `2026-05-12T04:04:53+00:00`
+- etag: `"80bed998012f305248cdb3d2454cd83a"`
+- last_modified: `Tue, 12 May 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-05-11T04:35:42+00:00",
+  "fetched_at": "2026-05-12T04:04:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -968,27 +968,6 @@
       "topics": [
         "unspeakable"
       ]
-    },
-    {
-      "key": "70f14e86f08768d27de2cc301701448c29baf275",
-      "title": "Kiri Pritchard-McLean: Tough Crowd",
-      "published_at": "2025-05-12T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0l993mg",
-      "description": "Have you ever considered becoming a foster carer? Multi award-winning comedian Kiri Pritchard-McLean hadn’t - until a chance radio advert changed everything. In this heartfelt and inspiring half-hour special, recorded in front of a live audience, Kiri shares the unexpected and deeply personal journey that led her to become a Local Authority foster carer on the Welsh island of Ynys Môn. With her signature wit and warmth, Kiri lifts the lid on the system and offers a moving, candid, and funny account of what it truly means to open your home - and your heart - to a child in need. First broadcast during Foster Care Fortnight in the UK, this programme shines a timely spotlight on the extraordinary power of ordinary people to make a difference. Written and performed by Kiri Pritchard-McLean Producer: Tashi Radha Executive Producer : Suzy Grant Sound Engineers: Jerry Peal & Jon Last Production Manager: Sarah Sharpe A Listen production for Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0l992hf.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27344000",
-      "itunes_duration": "1709",
-      "speakers": [
-        "Kiri Pritchard-McLean"
-      ],
-      "topics": [
-        "kiri",
-        "pritchard",
-        "mclean",
-        "crowd"
-      ]
     }
   ]
 }
@@ -1046,4 +1025,3 @@
 - 2025-06-09 — Strong Message Here — speakers: Jon Stewart
 - 2025-06-02 — It's a Fair Cop
 - 2025-05-19 — Unspeakable — speakers: Clive Anderson, Sindhu Vee
-- 2025-05-12 — Kiri Pritchard-McLean: Tough Crowd — speakers: Kiri Pritchard-McLean
