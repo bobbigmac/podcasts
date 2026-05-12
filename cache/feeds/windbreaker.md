@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-05-12T11:26:15+00:00`
-- checked_at: `2026-05-12T11:26:15+00:00`
-- etag: `W/"3c113-+J8Vb3Uz17w0QNYVo7icRtnWiUA"`
+- fetched_at: `2026-05-12T14:49:11+00:00`
+- checked_at: `2026-05-12T14:49:11+00:00`
+- etag: `W/"3c837-zrlGXBXFMFnpNg53oMMvfxAUWNQ"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-05-12T11:26:15+00:00",
+  "fetched_at": "2026-05-12T14:49:11+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "80edb88a3733a7d2a23b11e9ff3a2113d690ebf0",
+      "title": "How to Keep a Franchise Feeling Fresh | Windbreaker Podcast",
+      "published_at": "2026-05-12T01:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/How-to-Keep-a-Franchise-Feeling-Fresh--Windbreaker-Podcast-e3j7rrl",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about what it takes to keep a franchise feeling fresh in 2026. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5722404065.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111841376",
+      "itunes_duration": "01:17:40",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "franchise",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "812129ec99f8c0110b6e13ba4020fcde1ae37f67",
       "title": "Games As Comedy Engines w/ Jack Packard | Windbreaker Podcast",
@@ -2829,6 +2850,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-12 — How to Keep a Franchise Feeling Fresh | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-05-05 — Games As Comedy Engines w/ Jack Packard | Windbreaker Podcast — speakers: Jack Packard, Yahtzee Croshaw, Marty Sliva
 - 2026-04-28 — Let's All Have a Good Cry | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-04-21 — Is Hand-Holding Really a Gaming Sin? | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

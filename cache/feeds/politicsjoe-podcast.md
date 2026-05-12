@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-11T15:35:24+00:00`
-- checked_at: `2026-05-11T15:35:24+00:00`
-- etag: `"djEuMi4wOjE3Nzg1MDUzNzM2NzA="`
+- fetched_at: `2026-05-12T14:49:11+00:00`
+- checked_at: `2026-05-12T14:49:11+00:00`
+- etag: `"djEuMi4wOjE3Nzg1OTAwMDgxNjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,31 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-11T15:35:24+00:00",
+  "fetched_at": "2026-05-12T14:49:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "cf18e12570ad5941a463b4e6f7161b46021ea83d",
+      "title": "Who could replace Keir Starmer in Number 10?",
+      "published_at": "2026-05-12T12:46:47+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a03213837a1e7308df72a5d",
+      "description": "Ava and Seán make their way through the Labour runners and riders in a potential leadership election, as Keir Starmer battles to cling on to power while MPs implore him to resign. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a03213837a1e7308df72a5d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39811159",
+      "itunes_duration": "27:38",
+      "speakers": [],
+      "topics": [
+        "keir",
+        "starmer",
+        "number"
+      ]
+    },
     {
       "key": "640d2f581a88cc333a2b7b4e1ac7a78ec257fd05",
       "title": "Rayner is READY, Streeting would kill Labour | Labour MP speaks out 000",
@@ -12894,6 +12912,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-12 — Who could replace Keir Starmer in Number 10?
 - 2026-05-11 — Rayner is READY, Streeting would kill Labour | Labour MP speaks out 000 — speakers: Clive Lewis
 - 2026-05-10 — KNEECAP on Donald Trump, free speech, and fighting terror charges — speakers: Mo Chara
 - 2026-05-08 — Labour's local election wipeout, analysed

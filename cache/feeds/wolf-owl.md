@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-12T11:26:15+00:00`
-- checked_at: `2026-05-12T11:26:15+00:00`
-- last_modified: `Tue, 12 May 2026 11:23:11 GMT`
+- fetched_at: `2026-05-12T14:49:11+00:00`
+- checked_at: `2026-05-12T14:49:11+00:00`
+- last_modified: `Tue, 12 May 2026 14:46:37 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-12T11:26:15+00:00",
+  "fetched_at": "2026-05-12T14:49:11+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -4525,9 +4525,9 @@
       "title": "S2 Ep 16: Chinese Soup & A Creepy Conman",
       "published_at": "2022-10-19T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… phlegm-filled openers, charity gigs, Tom’s creepy Chinese restaurant swindler, an eye-gate update, Twitter trolls, Rom’s train waffle champion, Bristol’s GPS dog and our favourite comfort films. Plus, emails on maintaining a relationship with an ex, bad smells in public places, and the great ‘sit or stand’ debate. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… phlegm-filled openers, charity gigs, Tom’s creepy Chinese restaurant swindler, an eye-gate update, Twitter trolls, Rom’s train waffle champion, Bristol’s GPS dog and our favourite comfort films. Plus, emails on maintaining a relationship with an ex, bad smells in public places, and the great ‘sit or stand’ debate. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7350028815.mp3?updated=1670448750",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7350028815.mp3?updated=1778597479",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4409",
@@ -4543,33 +4543,13 @@
       ]
     },
     {
-      "key": "2f1b2280234fd781c82fd07e0e62a6bfd32afcfb",
-      "title": "S2 Ep 15: Gym Jocks & Over-indulging",
-      "published_at": "2022-10-12T02:00:00+00:00",
-      "link": null,
-      "description": "We’re talking… becoming ‘Locker Room Joes’, fitness app Top Trumps, deteriorating take-aways, homemade curries, over-indulging on free food, the false economy of a free bar limit and Tom’s charity push-up challenge. Then after a rather controversial follow-up email, we answer questions on excessive eating and drinking on holiday, the right time and place to approach a celebrity and how best to help a lonely family member. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5033042280.mp3?updated=1670448774",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4128",
-      "speakers": [
-        "Top Trumps",
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "jocks"
-      ]
-    },
-    {
       "key": "2c3becd0455c244dee3bd93b2b08b9a763e34353",
       "title": "S2 Ep 14: Slow Service & Cringey Complaints",
       "published_at": "2022-10-05T03:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-14-slow-service-cringey-complaints",
-      "description": "We’re talking… awesome animations, restaurant letdowns, embarrassing complaint letters, awkward interactions and a stressful encounter with a charity meerkat. Then we tackle email questions about a parent’s past catching up with them, relationship age gaps, more sock swaps and a debate on a very specific benefit of weight loss. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… awesome animations, restaurant letdowns, embarrassing complaint letters, awkward interactions and a stressful encounter with a charity meerkat. Then we tackle email questions about a parent’s past catching up with them, relationship age gaps, more sock swaps and a debate on a very specific benefit of weight loss. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5ec9e00c-4831-11ed-b685-7b3aeeda185d/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7793255498.mp3?updated=1670419283",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7793255498.mp3?updated=1778593087",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3747",
@@ -4589,12 +4569,12 @@
       "title": "S2 Ep 13: Radio Jobs & Roller Coasters",
       "published_at": "2022-09-28T03:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-13-radio-jobs-roller-coasters",
-      "description": "We’re back baby! And kicking things off with… early career radio jobs, kids TV show presenting, holidaying at home, celebrity SAS, the pleasure of fast-track tickets, a bizarre sock-thieving incident and traumatic roller coaster experiences. Then we answer some more of your emails, this week on keep in contact with friends, playing rude lyrics around kids and having to downsize your home. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re back baby! And kicking things off with… early career radio jobs, kids TV show presenting, holidaying at home, celebrity SAS, the pleasure of fast-track tickets, a bizarre sock-thieving incident and traumatic roller coaster experiences. Then we answer some more of your emails, this week on keep in contact with friends, playing rude lyrics around kids and having to downsize your home. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5f600d16-4831-11ed-b685-d7289339a685/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3436548543.mp3?updated=1670419343",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3436548543.mp3?updated=1778593193",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3924",
+      "itunes_duration": "3954",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -4611,9 +4591,9 @@
       "title": "S2 Ep 12: After Parties & Airport Scares",
       "published_at": "2022-09-08T03:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-12-after-parties-airport-scares",
-      "description": "We’re talking… a Dave Chappelle party, dodgy bar tactics, embellishing stories, action heroes and Mr Maths, airport scares, Fantasy Football woes, big-beer Tom and anxious toilet trips. Plus, email questions on banter with new mates, wearing dirty clothes at home, gaming all-inclusive holidays and some feedback on cooking risotto and pissing in pools. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… a Dave Chappelle party, dodgy bar tactics, embellishing stories, action heroes and Mr Maths, airport scares, Fantasy Football woes, big-beer Tom and anxious toilet trips. Plus, email questions on banter with new mates, wearing dirty clothes at home, gaming all-inclusive holidays and some feedback on cooking risotto and pissing in pools. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/5ff4bbd2-4831-11ed-b685-378e68a61dd6/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2394722756.mp3?updated=1670419479",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2394722756.mp3?updated=1778592589",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4124",
@@ -4633,9 +4613,9 @@
       "title": "S2 Ep 11: Holiday Beers & Needy Risotto",
       "published_at": "2022-09-01T05:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-11-holiday-beers-needy-risotto",
-      "description": "We’re talking… mini-Sagres beers, vegan bacon dust, needy risottos, signing pebbles, Tom’s new TV obsessions, the ever-changing Kanye West and getting creative in stand-up. Then we take a look at some of your emails, with questions on losing weight to please a partner, putting off seeing the doctor and the rights and wrongs of pissing in swimming pools. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… mini-Sagres beers, vegan bacon dust, needy risottos, signing pebbles, Tom’s new TV obsessions, the ever-changing Kanye West and getting creative in stand-up. Then we take a look at some of your emails, with questions on losing weight to please a partner, putting off seeing the doctor and the rights and wrongs of pissing in swimming pools. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/6064b072-4831-11ed-b685-531dc6a6086f/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9241814765.mp3?updated=1670419545",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9241814765.mp3?updated=1778592186",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3458",
@@ -4655,9 +4635,9 @@
       "title": "S2 Ep 10: Making Beds & Windy Auditions",
       "published_at": "2022-08-25T05:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-10-making-beds-windy-auditions",
-      "description": "We’re talking… tidy teenagers, long vs short holidays, a surprise second dog, celebrity crushes, Tom’s windy Eastenders audition, Sprite challenges, foreign exchange trips and two aching backs. Then we answer some email questions on invasive in-laws, dirty toilets, camp cavemen and an unattractive obsession with hair removal cream. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… tidy teenagers, long vs short holidays, a surprise second dog, celebrity crushes, Tom’s windy Eastenders audition, Sprite challenges, foreign exchange trips and two aching backs. Then we answer some email questions on invasive in-laws, dirty toilets, camp cavemen and an unattractive obsession with hair removal cream. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/60e1c6ac-4831-11ed-b685-b774cfab5d04/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3782968428.mp3?updated=1670419596",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3782968428.mp3?updated=1778592021",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3996",
@@ -4676,9 +4656,9 @@
       "title": "S2 Ep 9: Portugal Rom & Dry Clean Tom",
       "published_at": "2022-08-18T05:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-9-portugal-rom-dry-clean-tom",
-      "description": "We’re talking… dodgy Zoom backgrounds, borrowed pants and saggy pouches, dry cleaning doubts, skinny jeans regrets, giving up golf, holiday gyms and snake oil posture fixes. Then, after some more arse pebble clarifications, we answer emails on an obsession with running, a favourite restaurant closing down and thoughts on a certain type of energy. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… dodgy Zoom backgrounds, borrowed pants and saggy pouches, dry cleaning doubts, skinny jeans regrets, giving up golf, holiday gyms and snake oil posture fixes. Then, after some more arse pebble clarifications, we answer emails on an obsession with running, a favourite restaurant closing down and thoughts on a certain type of energy. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/61671ea6-4831-11ed-b685-a7d08515f588/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3435162007.mp3?updated=1670421920",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3435162007.mp3?updated=1778591535",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3493",
@@ -4696,9 +4676,9 @@
       "title": "S2 Ep 8: Big Brags & Embarrassing Photos",
       "published_at": "2022-08-10T05:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-8-big-brags-embarrassing-photos",
-      "description": "We’re talking… big bragging, gigging at Hooters, keeping tour shows fresh, dealing with embarrassing photos, beer-drinking sweet spots and Tom Hanks vs Matthew McConaughey. Plus, we answer some great emails on tips to keep the neighbours happy, how to get a partner to help out with housework and a very strange twist on Tom’s arse-pebble idea. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… big bragging, gigging at Hooters, keeping tour shows fresh, dealing with embarrassing photos, beer-drinking sweet spots and Tom Hanks vs Matthew McConaughey. Plus, we answer some great emails on tips to keep the neighbours happy, how to get a partner to help out with housework and a very strange twist on Tom’s arse-pebble idea. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/623a613a-4831-11ed-b685-d7c4306b040f/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9143904868.mp3?updated=1670422395",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9143904868.mp3?updated=1778587865",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3989",
@@ -4717,9 +4697,9 @@
       "title": "S2 Ep 7: Red Bull Rom & Glasgow Golf Trips",
       "published_at": "2022-08-03T05:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-7-red-bull-rom-glasgow-golf-trips",
-      "description": "We’re talking… party clowns, prop comics and comedy competitions, the return of Red Bull Rom, Spanish lesson updates, mobile samosa feasts, Love Island gripes, triumphant Lionesses and Tom’s very ambitious golf trip to Glasgow. Then some emails on beach confidence, a name mix-up with a new friend and correcting a partner’s unpleasant habit. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… party clowns, prop comics and comedy competitions, the return of Red Bull Rom, Spanish lesson updates, mobile samosa feasts, Love Island gripes, triumphant Lionesses and Tom’s very ambitious golf trip to Glasgow. Then some emails on beach confidence, a name mix-up with a new friend and correcting a partner’s unpleasant habit. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/62bea8c8-4831-11ed-b685-a309ba32a052/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1285423330.mp3?updated=1670422628",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1285423330.mp3?updated=1778586759",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4012",
@@ -4739,9 +4719,9 @@
       "title": "S2 Ep 6: Puppy Piss & Ruined Rugs",
       "published_at": "2022-07-27T05:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-6-puppy-piss-a-ruined-rug",
-      "description": "We’re talking… hair gel techniques, puppy piss and a ruined rug, Sunday lunch spills, Henry the Eighth, mortal combat with the kids, phones in the toilet, a pact to learn Spanish and the end of Neighbours. Then some email questions answered on dating a friend's ex, an expensive wedding invite, and a mystery tidy-upper. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… hair gel techniques, puppy piss and a ruined rug, Sunday lunch spills, Henry the Eighth, mortal combat with the kids, phones in the toilet, a pact to learn Spanish and the end of Neighbours. Then some email questions answered on dating a friend's ex, an expensive wedding invite, and a mystery tidy-upper. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/637950d8-4831-11ed-b685-7b3abcbe5fa7/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2123359151.mp3?updated=1670430371",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2123359151.mp3?updated=1778586258",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3814",
@@ -4763,7 +4743,7 @@
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-5-40-degrees-santa-issues",
       "description": "On the hottest day of the year, we’re talking… staying hydrated, a world without carpets, a universal secret Santa, picture-perfect Christmases, culturally sensitive penguins and Charles Dickens by the pool. Then, after a quick tally of seaweed responses from our listeners, we answer emails on confident beach swims, tube-train deposits, returning clothing and an unfortunate incident with a nightie. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9877297977.mp3?updated=1778585285",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9877297977.mp3?updated=1778585570",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3807",
@@ -4775,6 +4755,28 @@
         "degrees",
         "santa",
         "issues"
+      ]
+    },
+    {
+      "key": "8c6f179bf8a74099623aeb03b8658917dfed9719",
+      "title": "S2 Ep 4: Sleeping Styles & Seaweed Scandals",
+      "published_at": "2022-07-13T05:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-4-sleeping-styles-crispy-cabbage",
+      "description": "We’re talking… hot sleeps, night-time toilet trips, beach bodies, prams on the sand and screaming into the sea, security tags, spring-loaded napkins and a scandalous revelation about crispy seaweed. Then we take a look at some emails about ‘hotness as a state of mind’, birthday trip ideas, favourite films and a tricky relationship quandary. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/648a97a2-4831-11ed-b685-939197cd1d7e/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6059855040.mp3?updated=1778585162",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3615",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "sleeping",
+        "styles",
+        "seaweed",
+        "scandals"
       ]
     },
     {
@@ -4819,6 +4821,23 @@
         "maps",
         "mishaps"
       ]
+    },
+    {
+      "key": "2c18c9f4cde63265582a0c2ed628cc06abf27c45",
+      "title": "S2 Ep 1: Or should that be Episode 100?",
+      "published_at": "2022-06-22T05:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-1-or-should-that-be-episode-100",
+      "description": "As the Wolf & Owl Podcast reaches its 100th episode, we’re talking…. the start of a brand new series, muddled numbering, new podcast strategies, the results of Jamie Redknapp’s listener poll, mace-strength chilli challenges, Tom’s secret curry pebble tip and never-ending film franchises. Then onto some of your email questions about dealing with nerves when public speaking and managing expectations when moving house. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/660fd966-4831-11ed-b685-3720f7baf5a2/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4074394865.mp3?updated=1778583853",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3793",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
     },
     {
       "key": "830562bbe153e359ae4fa9bc5e225f3591f63d57",
@@ -6871,7 +6890,6 @@
 - 2022-11-02 — S2 Ep 18: Halloween Rom & Pancake Problems — speakers: Romesh Ranganathan, Tom Davis
 - 2022-10-26 — S2 Ep 17: Robot Chefs & Crap Cap Service — speakers: Romesh Ranganathan, Tom Davis
 - 2022-10-19 — S2 Ep 16: Chinese Soup & A Creepy Conman — speakers: Romesh Ranganathan, Tom Davis
-- 2022-10-12 — S2 Ep 15: Gym Jocks & Over-indulging — speakers: Top Trumps, Romesh Ranganathan, Tom Davis
 - 2022-10-05 — S2 Ep 14: Slow Service & Cringey Complaints — speakers: Romesh Ranganathan, Tom Davis
 - 2022-09-28 — S2 Ep 13: Radio Jobs & Roller Coasters — speakers: Romesh Ranganathan, Tom Davis
 - 2022-09-08 — S2 Ep 12: After Parties & Airport Scares — speakers: Dave Chappelle party, Romesh Ranganathan, Tom Davis
@@ -6882,8 +6900,10 @@
 - 2022-08-03 — S2 Ep 7: Red Bull Rom & Glasgow Golf Trips — speakers: Romesh Ranganathan, Tom Davis
 - 2022-07-27 — S2 Ep 6: Puppy Piss & Ruined Rugs — speakers: Romesh Ranganathan, Tom Davis
 - 2022-07-20 — S2 Ep 5: 40 Degrees & Santa Issues — speakers: Romesh Ranganathan, Tom Davis
+- 2022-07-13 — S2 Ep 4: Sleeping Styles & Seaweed Scandals — speakers: Romesh Ranganathan, Tom Davis
 - 2022-07-06 — S2 Ep 3: Sunny Days & Funny Nights — speakers: Romesh Ranganathan, Tom Davis
 - 2022-06-29 — S2 Ep 2: Paper Maps & Gig Mishaps — speakers: Gig Mishaps, Romesh Ranganathan, Tom Davis
+- 2022-06-22 — S2 Ep 1: Or should that be Episode 100? — speakers: Romesh Ranganathan, Tom Davis
 - 2022-06-08 — Ep 74: Middle Age Partying & County Fairs — speakers: Middle Age Partying, Romesh Ranganathan, Tom Davis
 - 2022-06-01 — Ep 73: Crap Raps & A Solid Night’s Sleep — speakers: Crap Raps, Solid Night, Romesh Ranganathan, Tom Davis
 - 2022-05-28 — Ep 72: Local Radio & Celebrating Celebrations — speakers: Local Radio, Romesh Ranganathan, Tom Davis

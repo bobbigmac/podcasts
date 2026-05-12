@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-05-12T04:04:53+00:00`
-- checked_at: `2026-05-12T04:04:53+00:00`
-- last_modified: `Tue, 12 May 2026 00:41:31 GMT`
+- fetched_at: `2026-05-12T14:49:11+00:00`
+- checked_at: `2026-05-12T14:49:11+00:00`
+- last_modified: `Tue, 12 May 2026 14:46:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-12T04:04:53+00:00",
+  "fetched_at": "2026-05-12T14:49:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "0e37a2225b7b7221de31e19da2d7d3a311c6f0d8",
+      "title": "531. Starmer on the Brink: What Next?",
+      "published_at": "2026-05-12T13:11:00+00:00",
+      "link": null,
+      "description": "As Starmer’s cabinet begin turning against him, how long can he cling on to power? By challenging Starmer without a clear plan for what comes next, are Labour MPs unleashing a chaos they cannot control? As Wales and Scotland shift dramatically towards Plaid Cymru, the Scottish National Party, and Reform UK – are we witnessing the end of both Labour and the Conservatives as national parties? Join Rory and Alastair as they answer all these questions and more. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. Lloyds. 250 years on and still backing the nation's aspirations. Get more from your business accounts. Search Lloyds Business Accounts. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Vasco Andrade Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5c6924fe-4e03-11f1-94d5-f38a15ad4900/image/3f7b7c51d2fe43781a5c93b87cb26044.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6857979860.mp3?updated=1778593879",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3951",
+      "speakers": [
+        "What Next"
+      ],
+      "topics": [
+        "starmer",
+        "brink"
+      ]
+    },
     {
       "key": "288fe2dcbc63aea7c9df663d3e8c10ffa2b6b44c",
       "title": "Enraged or Engaged? Angela Rayner on The Gen Z Story",
@@ -11845,6 +11864,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-12 — 531. Starmer on the Brink: What Next? — speakers: What Next
 - 2026-05-11 — Enraged or Engaged? Angela Rayner on The Gen Z Story — speakers: Angela Rayner, Alastair Campbell, Vicky Spratt
 - 2026-05-09 — Divided or Dependent? The Real Gen Z Story
 - 2026-05-08 — 530. Is Starmer the Next Joe Biden? Rory and Alastair React to Local Elections — speakers: Alastair React
