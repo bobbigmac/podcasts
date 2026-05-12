@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-12T09:12:25+00:00`
-- checked_at: `2026-05-12T09:12:25+00:00`
-- last_modified: `Tue, 12 May 2026 09:01:23 GMT`
+- fetched_at: `2026-05-12T11:26:15+00:00`
+- checked_at: `2026-05-12T11:26:15+00:00`
+- last_modified: `Tue, 12 May 2026 11:23:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-12T09:12:25+00:00",
+  "fetched_at": "2026-05-12T11:26:15+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -4761,9 +4761,9 @@
       "title": "S2 Ep 5: 40 Degrees & Santa Issues",
       "published_at": "2022-07-20T05:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-5-40-degrees-santa-issues",
-      "description": "On the hottest day of the year, we’re talking… staying hydrated, a world without carpets, a universal secret Santa, picture-perfect Christmases, culturally sensitive penguins and Charles Dickens by the pool. Then, after a quick tally of seaweed responses from our listeners, we answer emails on confident beach swims, tube-train deposits, returning clothing and an unfortunate incident with a nightie. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/640660d6-4831-11ed-b685-f7b90f50d5c8/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9877297977.mp3?updated=1670430549",
+      "description": "On the hottest day of the year, we’re talking… staying hydrated, a world without carpets, a universal secret Santa, picture-perfect Christmases, culturally sensitive penguins and Charles Dickens by the pool. Then, after a quick tally of seaweed responses from our listeners, we answer emails on confident beach swims, tube-train deposits, returning clothing and an unfortunate incident with a nightie. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9877297977.mp3?updated=1778585285",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3807",
@@ -4778,38 +4778,16 @@
       ]
     },
     {
-      "key": "8c6f179bf8a74099623aeb03b8658917dfed9719",
-      "title": "S2 Ep 4: Sleeping Styles & Seaweed Scandals",
-      "published_at": "2022-07-13T05:00:00+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-4-sleeping-styles-crispy-cabbage",
-      "description": "We’re talking… hot sleeps, night-time toilet trips, beach bodies, prams on the sand and screaming into the sea, security tags, spring-loaded napkins and a scandalous revelation about crispy seaweed. Then we take a look at some emails about ‘hotness as a state of mind’, birthday trip ideas, favourite films and a tricky relationship quandary. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/648a97a2-4831-11ed-b685-939197cd1d7e/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6059855040.mp3?updated=1670431989",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3615",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "sleeping",
-        "styles",
-        "seaweed",
-        "scandals"
-      ]
-    },
-    {
       "key": "6709f6f81e9e83d90aa900ab41d0fcb974962c72",
       "title": "S2 Ep 3: Sunny Days & Funny Nights",
       "published_at": "2022-07-06T05:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-3-sunny-days-funny-nights",
-      "description": "We’re talking… summer weather, making time for romance, crazy fussiness, the daunting thought of sex, the highs and lows of last week’s gigs, Tom’s most gluttonous meal ever and the burden of handsome mates. Then, after a bit of a disagreement about sweet potato fries and broccoli, we answer emails on techniques to help with relaxing, dealing with difficult in-laws, and an uplifting message from a newlywed. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… summer weather, making time for romance, crazy fussiness, the daunting thought of sex, the highs and lows of last week’s gigs, Tom’s most gluttonous meal ever and the burden of handsome mates. Then, after a bit of a disagreement about sweet potato fries and broccoli, we answer emails on techniques to help with relaxing, dealing with difficult in-laws, and an uplifting message from a newlywed. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/65238e6c-4831-11ed-b685-1b46f1fffcfd/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8494518743.mp3?updated=1670432322",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8494518743.mp3?updated=1778584985",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3812",
+      "itunes_duration": "3842",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -4825,9 +4803,9 @@
       "title": "S2 Ep 2: Paper Maps & Gig Mishaps",
       "published_at": "2022-06-29T05:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-2-paper-maps-gig-mishaps",
-      "description": "We’re talking…. loud openings, paper maps vs sat nav, car racing hobbits, star quality and false modesty, Crawley gig mishaps, awkward photo moments, working the room and divisive fashion. Then, after an update on last week’s ‘arse pebble’, we answer emails about not having many friends, maintaining a relationship through university, and meat-based wedding cakes. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking…. loud openings, paper maps vs sat nav, car racing hobbits, star quality and false modesty, Crawley gig mishaps, awkward photo moments, working the room and divisive fashion. Then, after an update on last week’s ‘arse pebble’, we answer emails about not having many friends, maintaining a relationship through university, and meat-based wedding cakes. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/659b25f8-4831-11ed-b685-ebf8adc1702c/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3526573806.mp3?updated=1670448290",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3526573806.mp3?updated=1778584594",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4004",
@@ -4841,23 +4819,6 @@
         "maps",
         "mishaps"
       ]
-    },
-    {
-      "key": "2c18c9f4cde63265582a0c2ed628cc06abf27c45",
-      "title": "S2 Ep 1: Or should that be Episode 100?",
-      "published_at": "2022-06-22T05:00:00+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/s2-ep-1-or-should-that-be-episode-100",
-      "description": "As the Wolf & Owl Podcast reaches its 100th episode, we’re talking…. the start of a brand new series, muddled numbering, new podcast strategies, the results of Jamie Redknapp’s listener poll, mace-strength chilli challenges, Tom’s secret curry pebble tip and never-ending film franchises. Then onto some of your email questions about dealing with nerves when public speaking and managing expectations when moving house. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/660fd966-4831-11ed-b685-3720f7baf5a2/image/fc1325b6-ab0e-4121-83bc-001803b59092.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4074394865.mp3?updated=1670448644",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3793",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": []
     },
     {
       "key": "830562bbe153e359ae4fa9bc5e225f3591f63d57",
@@ -6921,10 +6882,8 @@
 - 2022-08-03 — S2 Ep 7: Red Bull Rom & Glasgow Golf Trips — speakers: Romesh Ranganathan, Tom Davis
 - 2022-07-27 — S2 Ep 6: Puppy Piss & Ruined Rugs — speakers: Romesh Ranganathan, Tom Davis
 - 2022-07-20 — S2 Ep 5: 40 Degrees & Santa Issues — speakers: Romesh Ranganathan, Tom Davis
-- 2022-07-13 — S2 Ep 4: Sleeping Styles & Seaweed Scandals — speakers: Romesh Ranganathan, Tom Davis
 - 2022-07-06 — S2 Ep 3: Sunny Days & Funny Nights — speakers: Romesh Ranganathan, Tom Davis
 - 2022-06-29 — S2 Ep 2: Paper Maps & Gig Mishaps — speakers: Gig Mishaps, Romesh Ranganathan, Tom Davis
-- 2022-06-22 — S2 Ep 1: Or should that be Episode 100? — speakers: Romesh Ranganathan, Tom Davis
 - 2022-06-08 — Ep 74: Middle Age Partying & County Fairs — speakers: Middle Age Partying, Romesh Ranganathan, Tom Davis
 - 2022-06-01 — Ep 73: Crap Raps & A Solid Night’s Sleep — speakers: Crap Raps, Solid Night, Romesh Ranganathan, Tom Davis
 - 2022-05-28 — Ep 72: Local Radio & Celebrating Celebrations — speakers: Local Radio, Romesh Ranganathan, Tom Davis
