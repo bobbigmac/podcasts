@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-05-12T14:49:11+00:00`
-- checked_at: `2026-05-12T14:49:11+00:00`
-- etag: `W/"2e2a9-Zo+6FFXXDnbMftfRrGL/WhuQeXc"`
+- fetched_at: `2026-05-12T20:07:20+00:00`
+- checked_at: `2026-05-12T20:07:20+00:00`
+- etag: `W/"2e795-s3qRLwsE4KLJk/9ERzG6ZDKO2bg"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,40 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-05-12T14:49:11+00:00",
+  "fetched_at": "2026-05-12T20:07:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "26ee4fa345e87ae5811bf3232f084ce640c79279",
+      "title": "Josh Widdicombe XFM #11 – James Acaster Classic Scrape 11, Joe Lycett on the US Masters",
+      "published_at": "2026-05-12T18:30:04+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-11--James-Acaster-Classic-Scrape-11--Joe-Lycett-on-the-US-Masters-e3j9888",
+      "description": "James Acaster is in the studio with another Classic Scrape and Joe Lycett talks about the US Masters.Broadcast on 16th April 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1778610578171-687bf401b81ed.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8158645623.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39297001",
+      "itunes_duration": "00:40:55",
+      "speakers": [
+        "James Acaster Classic Scrape",
+        "Joe Lycett",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "lycett",
+        "masters"
+      ]
+    },
     {
       "key": "e6b5a466347ca59107f7bf2903d69e7bc0305d6a",
       "title": "Josh Widdicombe XFM #10 – James Acaster Classic Scrape 10, Joe Lycett on Nuclear Policy.",
@@ -3368,6 +3395,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-12 — Josh Widdicombe XFM #11 – James Acaster Classic Scrape 11, Joe Lycett on the US Masters — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster
 - 2026-05-11 — Josh Widdicombe XFM #10 – James Acaster Classic Scrape 10, Joe Lycett on Nuclear Policy. — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster
 - 2026-05-07 — Josh Widdicombe XFM #9 – Rob Beckett, James Acaster Classic Scrape 9, Joe Lycett on Ronald Reagan — speakers: Rob Beckett, James Acaster Classic Scrape, Joe Lycett, Ronald Reagan, James Acaster
 - 2026-05-06 — Josh Widdicombe XFM #8 – Alan Carr, James Acaster Classic Scrape 8 — speakers: Alan Carr, James Acaster Classic Scrape, James Acaster
