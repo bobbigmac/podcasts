@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-12T04:04:53+00:00`
-- checked_at: `2026-05-12T04:04:53+00:00`
-- last_modified: `Tue, 12 May 2026 02:00:00 GMT`
+- fetched_at: `2026-05-12T09:12:25+00:00`
+- checked_at: `2026-05-12T09:12:25+00:00`
+- last_modified: `Tue, 12 May 2026 05:18:44 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-12T04:04:53+00:00",
+  "fetched_at": "2026-05-12T09:12:25+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -30,7 +30,7 @@
   "episodes": [
     {
       "key": "a8f27e4d4ae2126697b6726e129cb20129e29e34",
-      "title": "S15 Ep 387: The Hunt for Joe’s Sinister Farm",
+      "title": "S15 Ep 837: The Hunt for Joe’s Sinister Farm",
       "published_at": "2026-05-12T02:00:00+00:00",
       "link": null,
       "description": "For today’s episode, Chatabix transforms into a proper True Crime podcast. Following their discussion about the sinister farm that Joe stumbled across on a recent walk, he and David have decided to investigate further and see if they can uncover what dastardly goings on might be happening there. So prepare yourself for some serious internet sleuthing and steady your nerves as the mystery unfolds… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -14860,7 +14860,7 @@
 
 ## Episodes (newest first)
 
-- 2026-05-12 — S15 Ep 387: The Hunt for Joe’s Sinister Farm — speakers: Joe’s Sinister Farm, Joe Wilkinson, David Earl
+- 2026-05-12 — S15 Ep 837: The Hunt for Joe’s Sinister Farm — speakers: Joe’s Sinister Farm, Joe Wilkinson, David Earl
 - 2026-05-11 — S15 Ep 836 Vault Mondays: The 100th Episode — speakers: Vault Mondays, Joe Wilkinson, David Earl
 - 2026-05-08 — S15 Ep 835 Listeners Mailbag: The Return Of One In A Million — speakers: Listeners Mailbag, Million Well, Joe Wilkinson, David Earl
 - 2026-05-07 — S15 Ep 834: Golden Moments and Joe’s Secret Admirer - Part 2 — speakers: Joe Wilkinson, David Earl

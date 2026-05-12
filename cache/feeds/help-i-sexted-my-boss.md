@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-05-11T15:35:24+00:00`
-- checked_at: `2026-05-11T15:35:24+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpnMU1ERXpORE13TURZPTo6c2F4ZXNz"`
+- fetched_at: `2026-05-12T09:12:25+00:00`
+- checked_at: `2026-05-12T09:12:25+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpnMU5qSXdNemsyTnpjPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-05-11T15:35:24+00:00",
+  "fetched_at": "2026-05-12T09:12:25+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,13 +30,13 @@
     {
       "key": "f8f60d9dc258c623e41e36dd680fafa218792b30",
       "title": "Help I’m Sharing Soap With Strangers | And Speedo Season",
-      "published_at": "2026-05-11T05:00:00+00:00",
+      "published_at": "2026-05-12T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-im-sharing-soap-with-strangers-and-speedo-season",
-      "description": "Would you accept a bar of soap from another gym member? Would you share a toothbrush with your partner? Would William look good in Speedos? The questions that William and Jordan find answers to are as varied as ever. Elsewhere there's an etiquettemology regarding a canine-friendly designer brand and a listener dilemma about flags.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "Would you accept a bar of soap from another gym member? Would you share a toothbrush with your partner? Would William look good in Speedos? The questions that William and Jordan find answers to are as varied as ever. Elsewhere there's an etiquettemology regarding a canine-friendly designer brand and a listener dilemma about flags. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1778444223776-304ea03e-d536-42fe-9a89-88e5e2895272.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/69fdf3fc590bda6aa4a853d8/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Qksz70SMr696fjje1tOatnqpiU6cudtIFvVUjj3sZpc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43624907",
       "itunes_duration": "45:26",
       "speakers": [
         "William Hanson",
@@ -14286,7 +14286,7 @@
 
 ## Episodes (newest first)
 
-- 2026-05-11 — Help I’m Sharing Soap With Strangers | And Speedo Season — speakers: William Hanson, Jordan North
+- 2026-05-12 — Help I’m Sharing Soap With Strangers | And Speedo Season — speakers: William Hanson, Jordan North
 - 2026-05-08 — Granny Put What In Her Eye?! | And Jordan's Superstitions — speakers: William Hanson, Jordan North
 - 2026-05-05 — Help He’s Fist Deep In My Mum | And William Parkours?! — speakers: William Parkours, William Hanson, Jordan North
 - 2026-05-01 — Jordan’s Drag Name | And William’s Silver Spoon — speakers: Jordan’s Drag Name, William’s Silver, William Hanson, Jordan North
