@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-12T14:49:11+00:00`
-- checked_at: `2026-05-12T14:49:11+00:00`
-- last_modified: `Tue, 12 May 2026 14:46:37 GMT`
+- fetched_at: `2026-05-12T17:22:57+00:00`
+- checked_at: `2026-05-12T17:22:57+00:00`
+- last_modified: `Tue, 12 May 2026 16:01:57 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-12T14:49:11+00:00",
+  "fetched_at": "2026-05-12T17:22:57+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -4391,34 +4391,13 @@
       ]
     },
     {
-      "key": "2cba94a3d99dc6da923e456588c6f552e23a1572",
-      "title": "S2 Ep 22: Superheroes & Small Talk",
-      "published_at": "2022-11-30T03:00:00+00:00",
-      "link": null,
-      "description": "We’re talking… off-duty superheroes, international takeaways, teutonic troubles, cultural differences, small talk styles, World Cup concerns and Netflix Specials. Then, some email questions answered on long distance running, a very difficult career decision and a colleague with some pretty unpleasant habits. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4848044410.mp3?updated=1669718188",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3682",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "superheroes",
-        "small",
-        "talk"
-      ]
-    },
-    {
       "key": "d9c01f9ec1084a0939f0a8505a5d02c01153e577",
       "title": "S2 Ep 21: Fire Alarms & Straddle-Gate Updates",
       "published_at": "2022-11-23T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Tom’s very persistent hotel fire alarm, Rom’s gig-heavy week, getting locked out of your bank account, an all important update on straddle-gate, playing make-believe as kids and finding enjoyable ways to exercise. Then, after Rom sets a little test for the Swan, we answer email questions on maintaining healthy friendships, the different phases of a relationship and a missing package left with a neighbour. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Tom’s very persistent hotel fire alarm, Rom’s gig-heavy week, getting locked out of your bank account, an all important update on straddle-gate, playing make-believe as kids and finding enjoyable ways to exercise. Then, after Rom sets a little test for the Swan, we answer email questions on maintaining healthy friendships, the different phases of a relationship and a missing package left with a neighbour. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2090338560.mp3?updated=1669156794",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2090338560.mp3?updated=1778601106",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3655",
@@ -4435,37 +4414,16 @@
       ]
     },
     {
-      "key": "b19ddfb86ef9d9a3f06af256dd8416a23c8d8cf0",
-      "title": "S2 Ep 20: Egg Addictions & Suspect Straddling",
-      "published_at": "2022-11-16T03:00:00+00:00",
-      "link": null,
-      "description": "We’re talking… helping out at hotels, heavy egg consumption, being drunk on podcasts, Tom’s mighty press-up challenge, a bit of sports massage advice and a highly controversial straddling incident. Plus, we answer emails about weird dreams, a neighbour’s builders and adjusting to returning home after a year away travelling. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3821621014.mp3?updated=1668582163",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3907",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "addictions",
-        "suspect",
-        "straddling"
-      ]
-    },
-    {
       "key": "97c9e97999763870fde385594ca77f311646a18f",
       "title": "S2 Ep 19: Tech Troubles & Heavy Petting",
       "published_at": "2022-11-09T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… technical difficulties, anxious batteries, some very heavy petting at the pool, being beardless, a supermarket challenge, restaurant banter, even more internet problems and a very special announcement. Plus, a few email questions answered on wedding invitations and advice for regaining lost confidence. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… technical difficulties, anxious batteries, some very heavy petting at the pool, being beardless, a supermarket challenge, restaurant banter, even more internet problems and a very special announcement. Plus, a few email questions answered on wedding invitations and advice for regaining lost confidence. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7933708503.mp3?updated=1668582583",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7933708503.mp3?updated=1778598605",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2936",
+      "itunes_duration": "2966",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -4478,34 +4436,13 @@
       ]
     },
     {
-      "key": "c1c5f28e91ec79d4191847be66932183868d96d3",
-      "title": "S2 Ep 18: Halloween Rom & Pancake Problems",
-      "published_at": "2022-11-02T03:00:00+00:00",
-      "link": null,
-      "description": "We’re talking… broken phones, missing merch, halloween party costumes, spoilt roasts and hotel pancake problems, boxing for babies, TV series quitters and arthouse cinema bores. Plus, email questions on not being homesick, coping with a long-distance relationship and toddlers peeing in public. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4025335262.mp3?updated=1668582614",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3941",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "halloween",
-        "pancake",
-        "problems"
-      ]
-    },
-    {
       "key": "03bacdf672be39f88b955c515b6592028cb8a8ac",
       "title": "S2 Ep 17: Robot Chefs & Crap Cap Service",
       "published_at": "2022-10-26T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… podding on an empty stomach, awards for cowardice, footie training pick-ups, fast-food ordering screens, robot chefs, bad customer service and homemade burgers. Then after quite a bit of toilet talk, we answer emails about some relationship advice, a work place predicament and presents for parents. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… podding on an empty stomach, awards for cowardice, footie training pick-ups, fast-food ordering screens, robot chefs, bad customer service and homemade burgers. Then after quite a bit of toilet talk, we answer emails about some relationship advice, a work place predicament and presents for parents. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5555095794.mp3?updated=1668582634",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5555095794.mp3?updated=1778597944",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4055",
@@ -4527,7 +4464,7 @@
       "link": null,
       "description": "We’re talking… phlegm-filled openers, charity gigs, Tom’s creepy Chinese restaurant swindler, an eye-gate update, Twitter trolls, Rom’s train waffle champion, Bristol’s GPS dog and our favourite comfort films. Plus, emails on maintaining a relationship with an ex, bad smells in public places, and the great ‘sit or stand’ debate. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7350028815.mp3?updated=1778597479",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7350028815.mp3?updated=1778597834",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4409",
@@ -4540,6 +4477,26 @@
         "soup",
         "creepy",
         "conman"
+      ]
+    },
+    {
+      "key": "2f1b2280234fd781c82fd07e0e62a6bfd32afcfb",
+      "title": "S2 Ep 15: Gym Jocks & Over-indulging",
+      "published_at": "2022-10-12T02:00:00+00:00",
+      "link": null,
+      "description": "We’re talking… becoming ‘Locker Room Joes’, fitness app Top Trumps, deteriorating take-aways, homemade curries, over-indulging on free food, the false economy of a free bar limit and Tom’s charity push-up challenge. Then after a rather controversial follow-up email, we answer questions on excessive eating and drinking on holiday, the right time and place to approach a celebrity and how best to help a lonely family member. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast M erch - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5033042280.mp3?updated=1778595938",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4128",
+      "speakers": [
+        "Top Trumps",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "jocks"
       ]
     },
     {
@@ -6883,13 +6840,11 @@
 - 2022-12-21 — S2 Ep 25: The Drunk Christmas Special — speakers: Romesh Ranganathan, Tom Davis
 - 2022-12-14 — S2 Ep 24: New Tattoos & Travel Meltdowns — speakers: Romesh Ranganathan, Tom Davis
 - 2022-12-07 — S2 Ep 23: Sickly Tom & A West End Trip — speakers: Romesh Ranganathan, Tom Davis
-- 2022-11-30 — S2 Ep 22: Superheroes & Small Talk — speakers: Romesh Ranganathan, Tom Davis
 - 2022-11-23 — S2 Ep 21: Fire Alarms & Straddle-Gate Updates — speakers: Romesh Ranganathan, Tom Davis
-- 2022-11-16 — S2 Ep 20: Egg Addictions & Suspect Straddling — speakers: Romesh Ranganathan, Tom Davis
 - 2022-11-09 — S2 Ep 19: Tech Troubles & Heavy Petting — speakers: Romesh Ranganathan, Tom Davis
-- 2022-11-02 — S2 Ep 18: Halloween Rom & Pancake Problems — speakers: Romesh Ranganathan, Tom Davis
 - 2022-10-26 — S2 Ep 17: Robot Chefs & Crap Cap Service — speakers: Romesh Ranganathan, Tom Davis
 - 2022-10-19 — S2 Ep 16: Chinese Soup & A Creepy Conman — speakers: Romesh Ranganathan, Tom Davis
+- 2022-10-12 — S2 Ep 15: Gym Jocks & Over-indulging — speakers: Top Trumps, Romesh Ranganathan, Tom Davis
 - 2022-10-05 — S2 Ep 14: Slow Service & Cringey Complaints — speakers: Romesh Ranganathan, Tom Davis
 - 2022-09-28 — S2 Ep 13: Radio Jobs & Roller Coasters — speakers: Romesh Ranganathan, Tom Davis
 - 2022-09-08 — S2 Ep 12: After Parties & Airport Scares — speakers: Dave Chappelle party, Romesh Ranganathan, Tom Davis

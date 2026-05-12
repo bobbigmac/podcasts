@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-05-11T20:03:28+00:00`
-- checked_at: `2026-05-11T20:03:28+00:00`
-- etag: `"djEuMi4wOjE3Nzg1MjAyMzk1MjI="`
+- fetched_at: `2026-05-12T17:22:57+00:00`
+- checked_at: `2026-05-12T17:22:57+00:00`
+- etag: `"djEuMi4wOjE3Nzg1OTc2MTQ5Mjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-05-11T20:03:28+00:00",
+  "fetched_at": "2026-05-12T17:22:57+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "4fa9041e8feb02b46bb6205a9bb39a2b84a2038f",
+      "title": "Starmer defiantly clings to power",
+      "published_at": "2026-05-12T14:53:34+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/starmer-defiantly-clings-to-power",
+      "description": "Over 80 MPs are calling for Keir Starmer’s resignation, reaching the threshold required for a contender to mount a leadership challenge, with ministers - including Jess Philips - resigning from government too. After a high stakes meeting this morning, several cabinet members voiced their support for the Prime Minister, as he defiantly vowed to “get on with governing”. Will the Prime Minister survive the week? READ: https://www.newstatesman.com/politics/uk-politics/2026/05/tracked-the-labour-mps-calling-for-keir-starmer-to-go LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1778597423606-6156249d-afa5-4fe6-b66d-4846f956be66.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a033cc80f58bc4da96c12d5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63201537",
+      "itunes_duration": "26:18",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "starmer",
+        "cling",
+        "power"
+      ]
+    },
     {
       "key": "c55e78cd33e856c31764b741a8d36fc35dc79f6c",
       "title": "The weirdest day in Westminster",
@@ -31220,6 +31241,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-12 — Starmer defiantly clings to power — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-11 — The weirdest day in Westminster — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-08 — Local election results: the end of Starmer? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-06 — The gutting of the two party system — speakers: Anoosh Chakelian, Oli Dugmore
