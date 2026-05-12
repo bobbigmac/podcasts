@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-05-07T04:04:45+00:00`
-- checked_at: `2026-05-07T04:04:45+00:00`
-- last_modified: `Thu, 07 May 2026 01:04:23 GMT`
+- fetched_at: `2026-05-12T22:35:24+00:00`
+- checked_at: `2026-05-12T22:35:24+00:00`
+- last_modified: `Tue, 12 May 2026 22:28:43 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-07T04:04:45+00:00",
+  "fetched_at": "2026-05-12T22:35:24+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",

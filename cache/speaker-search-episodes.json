@@ -5,6 +5,28 @@
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "573c01fadd8cae8d3f6ca0f6c6dce8932e3c5341",
+        "episode_key": "573c01fadd8cae8d3f6ca0f6c6dce8932e3c5341",
+        "title": "Josh Widdicombe XFM #10 – James Acaster Classic Scrape 10, Joe Lycett on Nuclear Policy.",
+        "published_at": "2026-05-11T20:28:07Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster shares another Classic Scrape and Joe Lycett talks about discussing nuclear policy.Broadcast on 9th April 2013.",
+        "audio_url": "https://traffic.megaphone.fm/APO3254449903.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-10-james-acaster-classic-scrape/id1866254969?i=1000767264121&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
         "dedupe_key": "fcd7e9d6cca6e7ef7f181f7bf871803ddb87c95c",
         "episode_key": "fcd7e9d6cca6e7ef7f181f7bf871803ddb87c95c",
         "title": "Josh Widdicombe XFM #8 – Alan Carr, James Acaster Classic Scrape 8",

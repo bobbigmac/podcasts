@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-05-06T11:19:45+00:00`
-- checked_at: `2026-05-06T11:19:45+00:00`
-- etag: `"djEuMi4wOjE3NzgwNDM2OTk0MDc="`
+- fetched_at: `2026-05-12T22:35:24+00:00`
+- checked_at: `2026-05-12T22:35:24+00:00`
+- etag: `"djEuMi4wOjE3Nzg2MTYyNzI1MTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-05-06T11:19:45+00:00",
+  "fetched_at": "2026-05-12T22:35:24+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
