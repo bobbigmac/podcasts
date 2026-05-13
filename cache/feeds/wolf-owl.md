@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-12T20:07:20+00:00`
-- checked_at: `2026-05-12T20:07:20+00:00`
-- last_modified: `Tue, 12 May 2026 18:02:19 GMT`
+- fetched_at: `2026-05-13T15:13:54+00:00`
+- checked_at: `2026-05-13T15:13:54+00:00`
+- last_modified: `Wed, 13 May 2026 14:36:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-12T20:07:20+00:00",
+  "fetched_at": "2026-05-13T15:13:54+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -4332,12 +4332,12 @@
       "title": "S2 Ep 25: The Drunk Christmas Special",
       "published_at": "2022-12-21T03:00:00+00:00",
       "link": null,
-      "description": "It’s finally here! No, not Christmas. Our Christmas special - and it’s the merriest Christmas special of them all! The Wolf and Owl together in a podcast studio with a bar full of booze. What could possibly go wrong? Ho ho ho! For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s finally here! No, not Christmas. Our Christmas special - and it’s the merriest Christmas special of them all! The Wolf and Owl together in a podcast studio with a bar full of booze. What could possibly go wrong? Ho ho ho! For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5279679425.mp3?updated=1753929099",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5279679425.mp3?updated=1778683182",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4708",
+      "itunes_duration": "4768",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -4353,9 +4353,9 @@
       "title": "S2 Ep 24: New Tattoos & Travel Meltdowns",
       "published_at": "2022-12-14T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Wolf & Owl tattoos, Tom’s real-life Planes, Trains and Automobiles ordeal, customer service meltdowns, bizarre complaining styles, coming home to curry and the correct number of papadums to order. Then, after some World Cup commiserations and celebrations, we answer email questions on shaving all your hair off and being comfortable accepting help from your parents. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Wolf & Owl tattoos, Tom’s real-life Planes, Trains and Automobiles ordeal, customer service meltdowns, bizarre complaining styles, coming home to curry and the correct number of papadums to order. Then, after some World Cup commiserations and celebrations, we answer email questions on shaving all your hair off and being comfortable accepting help from your parents. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4799126037.mp3?updated=1670966671",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4799126037.mp3?updated=1778669967",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3868",
@@ -4374,9 +4374,9 @@
       "title": "S2 Ep 23: Sickly Tom & A West End Trip",
       "published_at": "2022-12-07T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Tom’s very sick week, passionate languages, beige diets and Imodium, rucksack dads, theatre trips, a serious beef with M&M's and the heaven and hell of visiting Hamleys. Followed by some email questions on our favourite moments from the pod, a maid of honour problem, snoring solutions and perfecting efficient packing. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Tom’s very sick week, passionate languages, beige diets and Imodium, rucksack dads, theatre trips, a serious beef with M&M's and the heaven and hell of visiting Hamleys. Followed by some email questions on our favourite moments from the pod, a maid of honour problem, snoring solutions and perfecting efficient packing. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6465926179.mp3?updated=1670360967",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6465926179.mp3?updated=1778667220",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3926",

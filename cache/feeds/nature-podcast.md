@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-05-11T20:03:28+00:00`
-- checked_at: `2026-05-11T20:03:28+00:00`
-- etag: `"djEuMi4wOjE3Nzg1MTQ0NzE5NzY="`
+- fetched_at: `2026-05-13T15:13:54+00:00`
+- checked_at: `2026-05-13T15:13:54+00:00`
+- etag: `"djEuMi4wOjE3Nzg2ODQ0Mzk2NjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-05-11T20:03:28+00:00",
+  "fetched_at": "2026-05-13T15:13:54+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,27 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "07adff7678f701c5613448139322aee2e00f9595",
+      "title": "Red-light therapy is all the rage — does it work?",
+      "published_at": "2026-05-13T15:00:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01547-z",
+      "description": "In this episode: 00:42 Is red-light therapy all hype? Disclaimer: The opinions and assertions expressed herein by Juanita Anders are those of the speaker and do not reflect the official policy or position of the Uniformed Services University of the Health Sciences or the Department of War. Nature: The surprising science behind red-light therapy — and how it really works 10:52 Research Highlights Nature: Trafficked pangolins can be traced to their source by DNA — even to a specific forest Nature: A wispy wrapper for a chilly, Pluto-like world 13:11 The complex story of global obesity rates Research article: NCD Risk Factor Collaboration Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a048d01d58f9c365b169e4a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21091982",
+      "itunes_duration": "21:56",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "light",
+        "therapy",
+        "rage"
+      ]
+    },
     {
       "key": "3d1e9f680e1a534ce31b4380ffd1be191230eee1",
       "title": "Audio long read: The air is full of DNA — here’s what scientists are using it for",
@@ -19631,6 +19652,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — Red-light therapy is all the rage — does it work? — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-11 — Audio long read: The air is full of DNA — here’s what scientists are using it for — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-08 — Briefing Chat: Can't focus? It's not your attention span, it's your notifications — speakers: Briefing Chat, Nature Feature, Benjamin Thompson, Noah Baker
 - 2026-05-06 — Anaesthetized brains can still process podcasts — speakers: Research Article, Benjamin Thompson, Noah Baker
