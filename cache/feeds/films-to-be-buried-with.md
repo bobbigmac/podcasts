@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-05-12T20:07:20+00:00`
-- checked_at: `2026-05-12T20:07:20+00:00`
-- last_modified: `Tue, 12 May 2026 18:48:26 GMT`
+- fetched_at: `2026-05-13T09:19:09+00:00`
+- checked_at: `2026-05-13T09:19:09+00:00`
+- last_modified: `Wed, 13 May 2026 07:20:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-12T20:07:20+00:00",
+  "fetched_at": "2026-05-13T09:19:09+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -27,6 +27,31 @@
     "film"
   ],
   "episodes": [
+    {
+      "key": "a3be84dddf3356c3be0b903db5689a9aa8631af2",
+      "title": "Andi Osho • Rewind Classic (Blue Lights / Sex Education / Breeders)",
+      "published_at": "2026-05-13T07:20:00+00:00",
+      "link": "https://www.patreon.com/brettgoldstein",
+      "description": "LOOK OUT! It’s only Films To Be Buried With! A REWIND CLASSIC! Join your host Brett Goldstein as he talks life, death, love and the universe with the wonderful actor and comic ANDI OSHO ! Original writeup below: A gloriously joyful and open episode... So much to listen in on, including Andi's spiritual quest away from comedy centred around mental health preservation, existential crises, the LA and UK divide, panel shows, beginning again, dying well and to rewatch or not rewatch. A LOT to cover in this one so prepare some time to really dig in... ENJOY! ⁠⁠ ⁠⁠ Video and extra audio available on Brett's Patreon! EXCLUSIVE NordVPN Deal ➼ http://nordvpn.com/brett Try it risk-free now with a 30-day money-back guarantee IMDB INSTAGRAM ONLINE EXTRA BITS ⁠⁠ ⁠⁠⁠⁠⁠⁠⁠ BRETT • X ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ BRETT • INSTAGRAM ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ TED LASSO ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ SHRINKING ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ ALL OF YOU ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ SOULMATES ⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7902589794.mp3?updated=1778611997",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3554",
+      "speakers": [
+        "Brett Goldstein"
+      ],
+      "topics": [
+        "andi",
+        "osho",
+        "rewind",
+        "classic",
+        "blue",
+        "lights",
+        "education",
+        "breeders"
+      ]
+    },
     {
       "key": "fbcb48eefdac59458b54b7a472e60b012c71048b",
       "title": "Peter Capaldi (Doctor Who / In The Loop / Criminal Record) • #393",
@@ -9368,6 +9393,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — Andi Osho • Rewind Classic (Blue Lights / Sex Education / Breeders) — speakers: Brett Goldstein
 - 2026-05-06 — Peter Capaldi (Doctor Who / In The Loop / Criminal Record) • #393 — speakers: Peter Capaldi, Brett Goldstein
 - 2026-04-29 — Adam Sztykiel (Let's Have Kids / Bad Monkey / Black Adam) • #392 — speakers: Adam Sztykiel, Brett Goldstein
 - 2026-04-22 — Nish Kumar (The So On Time It's Almost Early Films Of The Year 2O25 Special • Part 2) • #391 — speakers: Nish Kumar, Brett Goldstein

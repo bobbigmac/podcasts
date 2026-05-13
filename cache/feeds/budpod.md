@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-05-12T22:35:24+00:00`
-- checked_at: `2026-05-12T22:35:24+00:00`
-- etag: `"djEuMi4wOjE3Nzg2MTYyNzI1MTA="`
+- fetched_at: `2026-05-13T09:19:09+00:00`
+- checked_at: `2026-05-13T09:19:09+00:00`
+- etag: `"djEuMi4wOjE3Nzg2NDg0OTk0MjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-05-12T22:35:24+00:00",
+  "fetched_at": "2026-05-13T09:19:09+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "333a8e15f6c156cb60744b3febfcaf95ec5246ec",
+      "title": "S2E48 | Spider in a Glass",
+      "published_at": "2026-05-13T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e48-spider-in-a-glass",
+      "description": "Youtube Version Here! This week the buds discuss The Machynlleth Comedy Festival, Pierre's new ear worm, immature Johnny Cash and Glenn's 'What Do You Prefer?' Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV. Pierre is on tour across the UK, Ireland and Netherlands! Including a headline show at the Leicester Square Theatre on May 28th! Tickets available now at https://www.pierrenovellie.com/ Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6a0387d06304701dd8d17e09/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61599109",
+      "itunes_duration": "42:41",
+      "speakers": [
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "spider",
+        "glass"
+      ]
+    },
     {
       "key": "27bc02dc0b3e3bc27124090af450310b8921d492",
       "title": "S2E47 | Solid Loafs",
@@ -7703,6 +7723,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — S2E48 | Spider in a Glass — speakers: Phil Wang, Pierre Novellie
 - 2026-05-06 — S2E47 | Solid Loafs — speakers: Solid Loafs, Phil Wang, Pierre Novellie
 - 2026-04-29 — S2E46 | Boeing 1 — speakers: Tom Waits Bond, Phil Wang, Pierre Novellie
 - 2026-04-22 — S2E45 | Grey Supremacist — speakers: Grey Supremacist, Phil Wang, Pierre Novellie
