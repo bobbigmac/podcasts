@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-05-12T22:35:24+00:00`
-- checked_at: `2026-05-12T22:35:24+00:00`
-- last_modified: `Tue, 12 May 2026 20:44:07 GMT`
+- fetched_at: `2026-05-13T04:12:13+00:00`
+- checked_at: `2026-05-13T04:12:13+00:00`
+- last_modified: `Wed, 13 May 2026 00:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-12T22:35:24+00:00",
+  "fetched_at": "2026-05-13T04:12:13+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,32 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "0dbca6c77074de329ccd8a23ba889e58a9ae1561",
+      "title": "Frank Skinner's Poetry Podcast: Kathleen Jamie",
+      "published_at": "2026-05-13T00:00:00+00:00",
+      "link": null,
+      "description": "Frank views the world from a tree house, with the fabulous Kathleen Jamie. The poem referenced is “The Treehouse” from a collection called “The Treehouse” by Kathleen Jamie. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/903fb19a-4d17-11f1-b054-2f463fee5d2b/image/97b1e72728f91939a4e02d3e48196c1a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2727487406.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2645",
+      "speakers": [
+        "Frank Skinner's Poetry",
+        "Kathleen Jamie Frank",
+        "Kathleen Jamie",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "poetry",
+        "podcast",
+        "kathleen",
+        "jamie"
+      ]
+    },
     {
       "key": "99bf3c7d0de62415224345df55dd38d9169565e4",
       "title": "Devastating News For Frank",
@@ -11514,13 +11540,13 @@
       ]
     },
     {
-      "key": "81781c7f89c31bee3dd07a7b838ae5af76fe1297",
+      "key": "d48ef5a438843b2e1474f4e63ed62b05fc6bc7b0",
       "title": "Frank Skinner in conversation with Russell T Davies",
       "published_at": "2017-09-19T23:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170915135553.mp3",
+      "link": null,
       "description": "Russell T Davies drops in to chat to Frank about his brand new book, Dr Who and Cucumber. Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/91e37f56-817e-11ef-8fe9-bfc52ad41a4e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6014759002.mp3?updated=1738239147",
+      "image_url": "https://megaphone.imgix.net/podcasts/926a4eaa-817e-11ef-8fe9-4ba28c52c978/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9756902071.mp3?updated=1738239390",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1790",
@@ -11537,13 +11563,13 @@
       ]
     },
     {
-      "key": "d48ef5a438843b2e1474f4e63ed62b05fc6bc7b0",
+      "key": "81781c7f89c31bee3dd07a7b838ae5af76fe1297",
       "title": "Frank Skinner in conversation with Russell T Davies",
       "published_at": "2017-09-19T23:00:00+00:00",
-      "link": null,
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170915135553.mp3",
       "description": "Russell T Davies drops in to chat to Frank about his brand new book, Dr Who and Cucumber. Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/926a4eaa-817e-11ef-8fe9-4ba28c52c978/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9756902071.mp3?updated=1738239390",
+      "image_url": "https://megaphone.imgix.net/podcasts/91e37f56-817e-11ef-8fe9-bfc52ad41a4e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6014759002.mp3?updated=1738239147",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1790",
@@ -12249,25 +12275,6 @@
       ]
     },
     {
-      "key": "ccc010063fb85c02298487d103c3f1e5f08b6437",
-      "title": "Big Daddy's Birthday",
-      "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170128131925.mp3",
-      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Frank is joined by Divine Miss Em and The Cockerel...and various other surprise guests along the way. He's sixty! And he's got a bus pass and itchy knees. The team talk Morgan's 'mare and go to animal corner. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a64beece-817e-11ef-8fe9-936e8dbf30ea/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4127811701.mp3?updated=1738246710",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4889",
-      "speakers": [
-        "Frank Skinner"
-      ],
-      "topics": [
-        "daddy",
-        "birthday"
-      ]
-    },
-    {
       "key": "5de0960f8d5078afa39c547f0609ad0585b17760",
       "title": "The Frank Skinner Show",
       "published_at": "2017-01-28T08:00:00+00:00",
@@ -12284,6 +12291,25 @@
       "topics": [
         "frank",
         "skinner"
+      ]
+    },
+    {
+      "key": "ccc010063fb85c02298487d103c3f1e5f08b6437",
+      "title": "Big Daddy's Birthday",
+      "published_at": "2017-01-28T08:00:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170128131925.mp3",
+      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Frank is joined by Divine Miss Em and The Cockerel...and various other surprise guests along the way. He's sixty! And he's got a bus pass and itchy knees. The team talk Morgan's 'mare and go to animal corner. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a64beece-817e-11ef-8fe9-936e8dbf30ea/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4127811701.mp3?updated=1738246710",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4889",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "daddy",
+        "birthday"
       ]
     },
     {
@@ -23592,6 +23618,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — Frank Skinner's Poetry Podcast: Kathleen Jamie — speakers: Frank Skinner's Poetry, Kathleen Jamie Frank, Kathleen Jamie, Frank Skinner
 - 2026-05-11 — Devastating News For Frank — speakers: Frank Frank, Rob Auton, Frank Skinner
 - 2026-05-09 — Frank Skinner’s Radio Days: Family Changing Room — speakers: Frank Skinner
 - 2026-05-08 — A New Ending For The Show — speakers: Rob Auton, Frank Skinner
@@ -24210,8 +24237,8 @@
 - 2017-02-18 — The Frank Skinner Show - What does the snake want? — speakers: Frank Skinner
 - 2017-02-11 — The Frank Skinner Show - Unconventional Laughter — speakers: Frank Skinner
 - 2017-02-04 — The Frank Skinner Show - Drexit — speakers: Frank Skinner
-- 2017-01-28 — Big Daddy's Birthday — speakers: Frank Skinner
 - 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
+- 2017-01-28 — Big Daddy's Birthday — speakers: Frank Skinner
 - 2017-01-28 — The Best of Frank 2009 - 2011 — speakers: Frank Skinner
 - 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-27 — Frank in Conversation with Adrian Chiles — speakers: Radio Frank, Frank Skinner

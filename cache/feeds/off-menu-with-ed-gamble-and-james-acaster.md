@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-05-12T17:22:57+00:00`
-- checked_at: `2026-05-12T17:22:57+00:00`
-- etag: `"djEuMi4wOjE3Nzg2MDYzMjE2NTU="`
+- fetched_at: `2026-05-13T04:12:13+00:00`
+- checked_at: `2026-05-13T04:12:13+00:00`
+- etag: `"djEuMi4wOjE3Nzg2NDEyMzk4Njg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-05-12T17:22:57+00:00",
+  "fetched_at": "2026-05-13T04:12:13+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1ec7fe67207316a7542ffac507c2ca4eabe4ec00",
+      "title": "Phil Wang (Tasting Menu)",
+      "published_at": "2026-05-13T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/phil-wang-tasting-menu",
+      "description": "Fan favourite from the very first series of Off Menu, Phil Wang returns to the Dream Restaurant for a Tasting Menu booking. We hope he likes buttery cabbage. Phil Wang is on tour with his new show ‘Uh Oh’. For dates and tickets go to philwang.co.uk Follow Phil on Instagram @wangpix Watch the video version of this episode on the Off Menu YouTube on Thu 14 May. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1775579926804-9eb29232-650a-457d-8a15-f342661db565.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69d5345f2a193257ad72ca1d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103196896",
+      "itunes_duration": "1:25:59",
+      "speakers": [
+        "Phil Wang",
+        "Off Menu",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "phil",
+        "wang",
+        "tasting",
+        "menu"
+      ]
+    },
     {
       "key": "f7ec50d4d8940df77ceb21c492a6f428b2d8ba5d",
       "title": "Montaigne",
@@ -8463,6 +8488,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — Phil Wang (Tasting Menu) — speakers: Phil Wang, Off Menu, Ed Gamble, James Acaster, Ben Williams
 - 2026-05-06 — Montaigne — speakers: Aria Award-winner, Jessica Alys, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-29 — Ayoade Bamgboye — speakers: Best Newcomer, Ayoade Bamgboye, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-22 — Graham Norton — speakers: Graham Norton, Ed Gamble, James Acaster, Ben Williams

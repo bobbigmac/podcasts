@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-12T17:22:57+00:00`
-- checked_at: `2026-05-12T17:22:57+00:00`
-- etag: `"djEuMi4wOjE3Nzg2MDA4NTM3MTc="`
+- fetched_at: `2026-05-13T04:12:13+00:00`
+- checked_at: `2026-05-13T04:12:13+00:00`
+- etag: `"djEuMi4wOjE3Nzg2NDEwNTkzNTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-12T17:22:57+00:00",
+  "fetched_at": "2026-05-13T04:12:13+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6cbd42aabb999d35acbeef3df1d49a949e57ecd2",
+      "title": "Matt Forde - \"Comedian Cancer Frankingstein\"",
+      "published_at": "2026-05-13T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #609 - Comedian Cancer Frankingstein - Rich hasn’t got much to say at the start (hooray) and even then he is not as funny as a man in the audience. His guest is impressionist, comedian and podcaster Matt Forde. They talk about Rich’s Mastermind failure (again?), working on Spitting Image and how weird it is that out of all the characters that show has done, it’s the puppet of Paddington that has got them into the most trouble, working with the divine genius Alice Levine, interviewing the Prime Minister and other dodgy political figures, why there’s a better option than going back in time to kill baby Hitler, plus a long chat about the negatives and surprising positives of having had spinal cancer, why it’s helpful to talk about this and why cancer isn’t as bad as the possibility of Nottingham Forest getting demoted. Another really special podcast. Don’t miss this one. See Matt on tour - https://www.mattforde.com/live-shows Listen to the CRUK podcast with Matt, Rich and Mark Steel https://shows.acast.com/rhlstp/episodes/special-episode-in-partnership-with-cancer-research-uk SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Recorded at the Leicester Square Theatre Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1778538254581-5d443afc-fa12-4d82-9e0e-84b244c45d71.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a02572b5c981a3573110dfe/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32594375",
+      "itunes_duration": "1:03:46",
+      "speakers": [
+        "Cancer Frankingstein",
+        "Cancer Frankingstein Rich",
+        "Richard Herring"
+      ],
+      "topics": [
+        "matt",
+        "forde",
+        "comedian",
+        "cancer",
+        "frankingstein"
+      ]
+    },
     {
       "key": "1e48e05560b60a80d22a2130865a19457c14d013",
       "title": "RAACN week 15",
@@ -22361,6 +22385,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — Matt Forde - "Comedian Cancer Frankingstein" — speakers: Cancer Frankingstein, Cancer Frankingstein Rich, Richard Herring
 - 2026-05-12 — RAACN week 15 — speakers: Mrs Doubtfire There, Richard Herring
 - 2026-05-11 — Retro RHLSTP 143 - Stephen Merchant — speakers: Stephen Merchant, Great Yarmouth, Richard Herring
 - 2026-05-08 — Retro Can I Have My Ball Back? - Episode 2 — speakers: Sara Kayat Richard, Richard Herring

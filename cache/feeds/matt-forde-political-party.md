@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-05-12T17:22:57+00:00`
-- checked_at: `2026-05-12T17:22:57+00:00`
-- etag: `"djEuMi4wOjE3Nzg2MDM5MDE5MjU="`
+- fetched_at: `2026-05-13T04:12:13+00:00`
+- checked_at: `2026-05-13T04:12:13+00:00`
+- etag: `"djEuMi4wOjE3Nzg2NDEyMzk4Njc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-05-12T17:22:57+00:00",
+  "fetched_at": "2026-05-13T04:12:13+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "aaf196b1a0cc41c417624c1a770e8bbad0e066ba",
+      "title": "Show 402. Lewis Goodall",
+      "published_at": "2026-05-13T03:00:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-402-lewis-goodall",
+      "description": "WOAH. Recorded the night Labour MPs began calling on Keir Starmer to resign, this is an adrenaline-fuelled up-to-the-minute analysis of what has gone wrong and what happens next. PLUS great stuff about Lewis's life growing up, his book, his mum and the dynamic between him, Emily Maitlis and Jon Sopel. It's a corker. THE POLITICAL PARTY LIVE 1 June: Andy Burnham https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE Matt's brand new stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a03577d37a1e7308d1698ab/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "135198821",
+      "itunes_duration": "1:33:52",
+      "speakers": [
+        "Lewis Goodall",
+        "Labour MPs",
+        "Matt Forde"
+      ],
+      "topics": [
+        "lewis",
+        "goodall"
+      ]
+    },
     {
       "key": "86d54e7ae3c9897ab89b85c92284043b74867b9c",
       "title": "Show 401. Steve Baker",
@@ -10326,6 +10347,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — Show 402. Lewis Goodall — speakers: Lewis Goodall, Labour MPs, Matt Forde
 - 2026-05-04 — Show 401. Steve Baker — speakers: Steve Baker Strap, Steve Baker, Matt Forde
 - 2026-04-27 — Show 400. Andrew Marr - Replay — speakers: Andrew Marr Replay, Matt Forde
 - 2026-04-22 — Show 399. Shabana Mahmood - LIVE — speakers: Shabana Mahmood, Matt Forde

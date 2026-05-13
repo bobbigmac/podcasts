@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-05-10T04:14:48+00:00`
-- checked_at: `2026-05-10T04:14:48+00:00`
-- etag: `"djEuMi4wOjE3NzgzNjg0NzkzMjA="`
+- fetched_at: `2026-05-13T04:12:13+00:00`
+- checked_at: `2026-05-13T04:12:13+00:00`
+- etag: `"djEuMi4wOjE3Nzg2MjgwMzk0MzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-05-10T04:14:48+00:00",
+  "fetched_at": "2026-05-13T04:12:13+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "6f475c89054b291ef5b53d7379d8ab6d0ab5e260",
+      "title": "LIVE at the Hackney Empire (Pt 1)",
+      "published_at": "2026-05-12T23:20:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/live-at-the-hackney-empire-pt-1",
+      "description": "Elis James ( Elis James & John Robins ), Mike Bubbins ( Mammoth ) and Steff Garrero bring you a LIVE episode of The Socially Distant Sports Bar , recorded at the iconic Hackney Empire in London in front of a \"packed\" audience. This is Distant Pod on stage — bigger, louder and slightly more chaotic. PART 1 The first half of the live show, as the lads ease into proceedings before things inevitably escalate. Elis: Robot Wars https://www.instagram.com/reel/DWW_DmXiI_z/?igsh=MWZ4ZDVpcm5xNGx3OQ%3D%3D Mike: Actors can’t throw https://www.instagram.com/reel/DWjvy9YibzB/?igsh=MTFxYXhpN2VnY3RoOQ== Steff: March Madness https://www.instagram.com/reel/DWjWd0LjoVh/?igsh=MWh5aWN1NTNvdGw3Yw== 👉 For early, ad‑free listening and the live Q&A, subscribe on Apple Podcasts. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69fd738f385e8d5e30b91b17/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122039040",
+      "itunes_duration": "50:50",
+      "speakers": [
+        "Elis James",
+        "John Robins",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "hackney",
+        "empire"
+      ]
+    },
     {
       "key": "3ee0532f366a40747edfbdbc30dec4ee9f95a4b0",
       "title": "Danny Wallace: Pint Size",
@@ -14740,6 +14762,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-12 — LIVE at the Hackney Empire (Pt 1) — speakers: Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-05-09 — Danny Wallace: Pint Size — speakers: Danny Wallace, Pint Size Welcome, Elis James, Mike Bubbins, Steff Garrero
 - 2026-05-07 — Steaming Cocks (pt 2) — speakers: Steaming Cocks, Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-05-05 — Steaming Cocks (pt 1) — speakers: Steaming Cocks, Elis James, John Robins, Mike Bubbins, Steff Garrero

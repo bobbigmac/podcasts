@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-05-12T20:07:20+00:00`
-- checked_at: `2026-05-12T20:07:20+00:00`
-- etag: `"djEuMi4wOjE3Nzg2MDc3Mzg2OTQ="`
+- fetched_at: `2026-05-13T04:12:13+00:00`
+- checked_at: `2026-05-13T04:12:13+00:00`
+- etag: `"djEuMi4wOjE3Nzg2NDI0MzkyNzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-05-12T20:07:20+00:00",
+  "fetched_at": "2026-05-13T04:12:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "15eab39bc4bfede36d84c5096ac2a10fcfd21e9b",
+      "title": "TOM GEORGE • the beauty of unmotivated camera movements (Two Weeks In August / Bait / See How They Run) #671",
+      "published_at": "2026-05-13T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the awesome director and writer TOM GEORGE ! A true nerd-out for the film heads right here, as Tom and Pip get it cracking from the beginning and do not let up. Tom's been ultra busy in recent times and all of this busy-ness is discussed, and it's really fascinating of course... Mixed in with the updates are some gems and jewels about the process and backstage bits and pieces that are truly worthy of note for those who enjoy the work on screen and appreciate the hows and whos of it arriving there. As you will expect there's some great 'Bait' chat involving Riz and Guz, a shared love of the one-shot and extended takes, how Tom found out about the See How They Run Bafta nom (cheers Pip!), allowing the script to do heavy lifting, and just an overall celebration of creativity, essentially. Enjoy, it's a goody! PIP'S PATREON PAGE if you're of a supporting nature IMDB BAIT SEE HOW THEY RUN TWO WEEKS IN AUGUST SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1778607270651-83b8ee30-8c22-4e87-b831-50f20efd72dd.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a03667a5c981a3573747c29/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "166695590",
+      "itunes_duration": "1:09:23",
+      "speakers": [
+        "Tom George"
+      ],
+      "topics": [
+        "george",
+        "beauty",
+        "camera",
+        "movement",
+        "week",
+        "august",
+        "bait"
+      ]
+    },
     {
       "key": "dcdb198b9ce839ebbeb74a91f20a8be9d85e1bca",
       "title": "STEPHEN FRY (thou shalt not question Stephen Fry) • Friday Rewind",
@@ -18767,6 +18791,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — TOM GEORGE • the beauty of unmotivated camera movements (Two Weeks In August / Bait / See How They Run) #671 — speakers: Tom George
 - 2026-05-08 — STEPHEN FRY (thou shalt not question Stephen Fry) • Friday Rewind — speakers: Stephen Fry
 - 2026-05-06 — IZUKA HOYLE • the life and times of an immaculate action hero (Prisoner / Boiling Point / Big Boys) #670
 - 2026-05-01 — RUTGER BREGMAN (Utopia For Realists / Humankind / Moral Ambition) • Friday Rewind

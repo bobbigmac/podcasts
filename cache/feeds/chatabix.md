@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-12T22:35:24+00:00`
-- checked_at: `2026-05-12T22:35:24+00:00`
-- last_modified: `Tue, 12 May 2026 21:30:26 GMT`
+- fetched_at: `2026-05-13T04:12:13+00:00`
+- checked_at: `2026-05-13T04:12:13+00:00`
+- last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT7256806225",
   "description": "Comedians Joe Wilkinson & David Earl chat utter drivel to each other 3 - 5 days a week. They natter to celebrities and deep dive into guests with interesting lives (as theirs is so boring). Occasionally they plan a surprise for each other to pep it up a bit. David loves hearing about behind the scenes stuff from TV shows and writing jingles. Joe likes adventuring and is obsessed with the podcast charts. Sometimes they'll embark on a day out podding together just so they can get out of the house. It's a brilliantly chaotic podcast which occasionally covers regular topics like TV Reviews, Snooker, Canal boating and Music.",
   "image_url": "https://megaphone.imgix.net/podcasts/d4b1c7d0-f3d0-11ed-ad4f-fb277d4d1724/image/1a442b002529e97f44dacbee6986a457.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-12T22:35:24+00:00",
+  "fetched_at": "2026-05-13T04:12:13+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -28,6 +28,25 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "4af81c8584be8cf91f582dd75edcd084a2063135",
+      "title": "S15 Ep 838: The Farm - Revisited!",
+      "published_at": "2026-05-13T02:00:00+00:00",
+      "link": null,
+      "description": "It seems that David’s curiosity about Joe’s sinister farm has not yet been satisfied. So in this episode, he encourages Joe to re-open the case files and probe further into the (potentially) murky underworld of this very suspicious rural hideaway. After some further internet hunting and exploring on Google maps, Joe is even inspired to return to the actual location to take another look. Their True Crime investigation is really hotting up! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM5088941482.mp3?updated=1778611388",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3111",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "farm"
+      ]
+    },
     {
       "key": "a8f27e4d4ae2126697b6726e129cb20129e29e34",
       "title": "S15 Ep 837: The Hunt for Joe’s Sinister Farm",
@@ -14860,6 +14879,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — S15 Ep 838: The Farm - Revisited! — speakers: Joe Wilkinson, David Earl
 - 2026-05-12 — S15 Ep 837: The Hunt for Joe’s Sinister Farm — speakers: Joe’s Sinister Farm, Joe Wilkinson, David Earl
 - 2026-05-11 — S15 Ep 836 Vault Mondays: The 100th Episode — speakers: Vault Mondays, Joe Wilkinson, David Earl
 - 2026-05-08 — S15 Ep 835 Listeners Mailbag: The Return Of One In A Million — speakers: Listeners Mailbag, Million Well, Joe Wilkinson, David Earl

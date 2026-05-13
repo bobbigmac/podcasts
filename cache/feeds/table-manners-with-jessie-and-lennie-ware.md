@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-05-12T22:35:24+00:00`
-- checked_at: `2026-05-12T22:35:24+00:00`
-- etag: `"djEuMi4wOjE3Nzg2MjQzMTQ2NzI="`
+- fetched_at: `2026-05-13T04:12:13+00:00`
+- checked_at: `2026-05-13T04:12:13+00:00`
+- etag: `"djEuMi4wOjE3Nzg2MzA0Mzk1Mjk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-05-12T22:35:24+00:00",
+  "fetched_at": "2026-05-13T04:12:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "dcc1c7c38021ac0a19a93dff62937da7e9407de8",
+      "title": "James Graham",
+      "published_at": "2026-05-13T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/james-graham",
+      "description": "This week we have the fantastic James Graham joining us for lunch! James came by to talk about his award winning play, Dear England coming to the BBC. Over lunch, we covered everything from growing up in a Nottinghamshire mining village and telly dinners, to the huge Sunday roasts his family loved. We also chatted about Gareth Southgate, turning football into theatre, his love of musicals, the Polish soup disaster that put him off hosting, and his very romantic passion for whisky. James was such a thoughtful guest, we are such fans of his work and we absolutely loved having him at the table. Dear England is coming to BBC iPlayer and BBC One later this month! Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1778599329892-69b14e5e-25c5-4b01-9392-ac81339c51f9.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a023b2d92e9663a6fa3f31d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62324818",
+      "itunes_duration": "1:04:55",
+      "speakers": [
+        "James Graham"
+      ],
+      "topics": [
+        "james",
+        "graham"
+      ]
+    },
     {
       "key": "e1d0aed245cc6a175cb4c87968e826d3dcd8c063",
       "title": "Nish Kumar",
@@ -7101,6 +7120,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — James Graham — speakers: James Graham
 - 2026-05-06 — Nish Kumar — speakers: Nish Kumar
 - 2026-04-29 — Phil Wang — speakers: Phil Wang
 - 2026-04-22 — Kristin Scott Thomas — speakers: Kristin Scott Thomas

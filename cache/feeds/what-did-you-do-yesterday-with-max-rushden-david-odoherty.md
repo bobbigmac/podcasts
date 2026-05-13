@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-05-10T04:14:48+00:00`
-- checked_at: `2026-05-10T04:14:48+00:00`
-- last_modified: `Sat, 09 May 2026 23:30:00 GMT`
+- fetched_at: `2026-05-13T04:12:13+00:00`
+- checked_at: `2026-05-13T04:12:13+00:00`
+- last_modified: `Tue, 12 May 2026 23:45:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/0bbecfc9ad65078c6accdbc313267a08.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-10T04:14:48+00:00",
+  "fetched_at": "2026-05-13T04:12:13+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,23 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f6e6d44cd5190e2031180e0f51488a837fedd564",
+      "title": "WDWDY #71: I could go on You Bet!",
+      "published_at": "2026-05-12T23:45:00+00:00",
+      "link": null,
+      "description": "On this mid-week bonus ep we find out what David did with his yesterday... We're doing another WDYDY LIVE SHOW at Vicar Street in Dublin on 2nd September 2026. Tickets available: HERE Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bcdc0d00-4ba2-11f1-b798-c312438e298a/image/f97d2d1144435c04e34487bd7c13ae33.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1899545001.mp3?updated=1778336270",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3181",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": []
+    },
     {
       "key": "e3542a0c851512674d377dacf16e57f02fd2db5f",
       "title": "S4 EP19: Amy Annette",
@@ -3350,6 +3367,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-12 — WDWDY #71: I could go on You Bet! — speakers: Max Rushden, David O'Doherty
 - 2026-05-09 — S4 EP19: Amy Annette — speakers: Amy Annette, Max Rushden, David O'Doherty
 - 2026-05-05 — WDWDY #70: In The Air Tonight — speakers: Max Rushden, David O'Doherty
 - 2026-05-02 — S4 EP18: Paul Williams — speakers: Paul Williams, Max Rushden, David O'Doherty
