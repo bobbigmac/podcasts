@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-05-13T15:13:54+00:00`
-- checked_at: `2026-05-13T15:13:54+00:00`
-- last_modified: `Wed, 13 May 2026 14:30:37 GMT`
+- fetched_at: `2026-05-13T17:24:10+00:00`
+- checked_at: `2026-05-13T17:24:10+00:00`
+- last_modified: `Wed, 13 May 2026 17:02:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/f16189eb4e860f90c52e73daa75e5be7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-13T15:13:54+00:00",
+  "fetched_at": "2026-05-13T17:24:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "29b29a5338c7f066f2f8073186858e240b3dadad",
+      "title": "532. The Trump-Xi Showdown and Putin’s Conscription Con",
+      "published_at": "2026-05-13T16:38:00+00:00",
+      "link": null,
+      "description": "As Trump becomes the first American president to visit China in nearly a decade, will the summit bring any positive developments, or will it further deepen global disorder? Will Trump sacrifice Taiwan's security to gain concessions from Xi on Iran? With Russia losing 30,000 troops per month and Putin resorting to deceiving African workers into combat, are his war efforts finally collapsing? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at ⁠https://fuseenergy.com/politics⁠ and get a free TRIP+ subscription. Lloyds. 250 years on and still backing the nation's aspirations. Get more from your business accounts. Search Lloyds Business Accounts. Get our exclusive NordVPN deal here ➼ ⁠https://nordvpn.com/restispolitics⁠ It's risk-free with Nord's 30-day money-back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Charlie Rodwell, Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/304bd758-4ee0-11f1-b8d9-cb2a8d1e0795/image/184e91a8d2aa3f7924ee1642efe26f93.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6384306617.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3455",
+      "speakers": [],
+      "topics": [
+        "trump",
+        "showdown",
+        "putin",
+        "conscription"
+      ]
+    },
     {
       "key": "0e37a2225b7b7221de31e19da2d7d3a311c6f0d8",
       "title": "531. Starmer on the Brink: What Next?",
@@ -11864,6 +11883,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — 532. The Trump-Xi Showdown and Putin’s Conscription Con
 - 2026-05-12 — 531. Starmer on the Brink: What Next? — speakers: What Next
 - 2026-05-11 — Enraged or Engaged? Angela Rayner on The Gen Z Story — speakers: Angela Rayner, Alastair Campbell, Vicky Spratt
 - 2026-05-09 — Divided or Dependent? The Real Gen Z Story
