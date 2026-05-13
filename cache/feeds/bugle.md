@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-05-13T15:13:54+00:00`
-- checked_at: `2026-05-13T15:13:54+00:00`
-- etag: `"djEuMi4wOjE3Nzg2ODQ2ODY0NDY="`
+- fetched_at: `2026-05-13T22:38:18+00:00`
+- checked_at: `2026-05-13T22:38:18+00:00`
+- etag: `"djEuMi4wOjE3Nzg3MDMxNDg1MTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-05-13T15:13:54+00:00",
+  "fetched_at": "2026-05-13T22:38:18+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -29,7 +29,7 @@
   "episodes": [
     {
       "key": "07ef223f92f6cca0f9fab0fce8025061168ea7f7",
-      "title": "Straight out the Bugle archives!",
+      "title": "Bitcoin, Dana White and Running Robots!",
       "published_at": "2026-05-13T15:00:00+00:00",
       "link": "https://shows.acast.com/thebugle/episodes/straight-out-the-bugle-archives-issue-4379a",
       "description": "It's episode 4379A Buglers! This week producer Harry has rounded up a few clips of satirical ramble that we didn’t quite have space for the first time round. But don't worry we’ll be back next week with Josh Gondelman and Alice Fraser. If you like The Bugle ad-free and uninterrupted. Then why not join The Bugle’s voluntary subscription, with your support Andy and his cohort of co-hosts can continue to blast there trademark mix of satirical insight and shameless drivel all over the planet. 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 🎤 Get tickets for the LIVE episode of The Gargle HERE https://www.angelcomedy.co.uk/event-detail/the-gargle-live-fri-26th-jun-the-bill-murray-london-tickets-202606261800/ 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon Hosted on Acast. See acast.com/privacy for more information.",
@@ -39,11 +39,16 @@
       "enclosure_length": "28652355",
       "itunes_duration": "29:50",
       "speakers": [
+        "Dana White",
+        "Running Robots",
         "Andy Zaltzman"
       ],
       "topics": [
-        "bugle",
-        "archive"
+        "bitcoin",
+        "dana",
+        "white",
+        "running",
+        "robot"
       ]
     },
     {
@@ -14209,7 +14214,7 @@
 
 ## Episodes (newest first)
 
-- 2026-05-13 — Straight out the Bugle archives! — speakers: Andy Zaltzman
+- 2026-05-13 — Bitcoin, Dana White and Running Robots! — speakers: Dana White, Running Robots, Andy Zaltzman
 - 2026-05-06 — The Bugle reviews King Charles' visit to the US — speakers: Josie Long, Helen Zaltzman, Andy Zaltzman
 - 2026-04-29 — The King meets Trump — speakers: Alice Fraser, Nish Kumar, Andy Zaltzman
 - 2026-04-22 — US Navy comes up short (and hungry) — speakers: Tiff Stevenson, Neil Delamere, Andy Zaltzman
