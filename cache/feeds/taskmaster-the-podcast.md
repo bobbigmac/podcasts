@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-05-07T22:16:03+00:00`
-- checked_at: `2026-05-07T22:16:03+00:00`
-- etag: `"d473f-651405b1eee29"`
-- last_modified: `Thu, 07 May 2026 20:45:08 GMT`
+- fetched_at: `2026-05-14T22:19:08+00:00`
+- checked_at: `2026-05-14T22:19:08+00:00`
+- etag: `"d501a-651cd2bfd2ed2"`
+- last_modified: `Thu, 14 May 2026 20:45:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-05-07T22:16:03+00:00",
+  "fetched_at": "2026-05-14T22:19:08+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cf28adf2b781702274d99234110b8eef28bd61fa",
+      "title": "Amy Gledhill - Series 21 Ep.6",
+      "published_at": "2026-05-14T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "On this week's podcast Ed is joined by comedian, actress and Series 21 star, Amy Gledhill! Amy reveals why she has some regrets over her costume, what it was like to be on a team with someone so famous, whose in Hollywood and why she didn't want to be known as the bone woman! They also discuss embarrassing possessions, Coconkers, what it means to be brave and Ed reveals the musical instrument he learnt at school. For all your Taskmaster news visit Taskmaster.tv To catch up on all episodes of Taskmaster visit channel4.com",
+      "image_url": "https://artwork.captivate.fm/01564a70-1884-49f3-bb2e-c3cf19e1c32e/TASKMASTER-PODCAST-ARTWORK-Amy-v1.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/3b861ac4-b6d2-4b36-9d88-052c43676e83.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=3b861ac4-b6d2-4b36-9d88-052c43676e83",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56690580",
+      "itunes_duration": "59:03",
+      "speakers": [
+        "Amy Gledhill",
+        "Ed Gamble"
+      ],
+      "topics": [
+        "gledhill",
+        "series"
+      ]
+    },
     {
       "key": "01ebd879430fc2c57f01b1effc4efa37b782c83e",
       "title": "Joel Dommett - Series 21 Ep.5",
@@ -5339,6 +5359,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — Amy Gledhill - Series 21 Ep.6 — speakers: Amy Gledhill, Ed Gamble
 - 2026-05-07 — Joel Dommett - Series 21 Ep.5 — speakers: Joel Dommett, Ed Gamble
 - 2026-04-30 — Jenny Eclair - Series 21 Ep.4 — speakers: Jenny Eclair, Ed Gamble
 - 2026-04-23 — Joanna Page - Series 21 Ep.3 — speakers: Ed Gamble
