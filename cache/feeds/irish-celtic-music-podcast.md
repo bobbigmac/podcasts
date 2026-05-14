@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-05-11T15:35:24+00:00`
-- checked_at: `2026-05-11T15:35:24+00:00`
-- etag: `"77c07b039e80fb305d0a5e6f336debb8"`
-- last_modified: `Mon, 11 May 2026 14:49:59 GMT`
+- fetched_at: `2026-05-14T17:12:42+00:00`
+- checked_at: `2026-05-14T17:12:42+00:00`
+- etag: `"fdfe454607ea85fa14af567e37b4ce9a"`
+- last_modified: `Thu, 14 May 2026 15:46:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-05-11T15:35:24+00:00",
+  "fetched_at": "2026-05-14T17:12:42+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -5242,7 +5242,7 @@
       "title": "We're giving away 34 Celtic MP3s...",
       "published_at": "2021-03-17T16:00:00+00:00",
       "link": "https://celticmusicpodcast.com/free",
-      "description": "Do you love Celtic music, the music of Ireland and Scotland? Welcome to the Irish & Celtic Music Podcast. Each week, you'll receive an hour-long, award-winning, Celtic radio show featuring some of the best independent Irish & Celtic music online. This is one of the top music podcasts on Apple Podcasts. It won Best Podsafe Music Podcast in the Podcast Awards three times. And it is all yours for... FREE! Subscribe to the podcast on Apple Podcasts and on other podcatchers below. Listen to Your Free Downloads Now. Subscribe to our newsletter! You'll get two full albums of free Celtic music, in exchange for your email address. Get Free Updates Subscribe to the Celtic Music Magazine to be notified of each new episode. You'll get Celtic Music News every Thursday. Plus, I'll send you 34 Celtic MP3s for FREE! You're So Close to Downloading Free MP3s... Name: Email: We respect your email privacy",
+      "description": "Do you love Celtic music, the music of Ireland and Scotland? Welcome to the Irish & Celtic Music Podcast. Each week, you'll receive an hour-long, award-winning, Celtic radio show featuring some of the best independent Irish & Celtic music online. This is one of the top music podcasts on Apple Podcasts. It won Best Podsafe Music Podcast in the Podcast Awards three times. And it is all yours for... FREE! Subscribe to the podcast on Apple Podcasts and on other podcatchers below. Listen to Your Free Downloads Now. Subscribe to our newsletter! You'll get two full albums of free Celtic music, in exchange for your email address. Get Free Updates Subscribe to the Celtic Music Magazine to be notified of each new episode. You'll get Celtic Music News every Thursday. Plus, I'll send you 34 Celtic MP3s for FREE! You're So Close to Downloading Free MP3s... Best of all... It's FREE! First Name: Email: I agree to receive email updates and promotions from Marc Gunnn's Irish & Celtic Music Podcast. Submit",
       "image_url": null,
       "enclosure_url": null,
       "enclosure_type": null,

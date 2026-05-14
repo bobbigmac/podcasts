@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-14T14:39:54+00:00`
-- checked_at: `2026-05-14T14:39:54+00:00`
-- last_modified: `Thu, 14 May 2026 14:17:54 GMT`
+- fetched_at: `2026-05-14T17:12:42+00:00`
+- checked_at: `2026-05-14T17:12:42+00:00`
+- last_modified: `Thu, 14 May 2026 15:09:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-14T14:39:54+00:00",
+  "fetched_at": "2026-05-14T17:12:42+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -4057,28 +4057,6 @@
       ]
     },
     {
-      "key": "882174654b2f0883c8ec069c36e6a688a8cc3019",
-      "title": "S2 Ep 38: Visible Nipples & Museum Snacks",
-      "published_at": "2023-03-15T03:00:00+00:00",
-      "link": null,
-      "description": "We’re talking… velour loungewear, visible nipple issues, zips and buttons, museum snacks, a Wolf & Owl male sports bra, hair plugs vs wigs and the many quandaries of cosmetic surgery. Then, after a bit of Apprentice chat, we answer email questions on sharing mortgage costs, doing things in the wrong order, Far East travels and photo mishaps. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4286344581.mp3?updated=1678810108",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3853",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "visible",
-        "nipples",
-        "museum",
-        "snacks"
-      ]
-    },
-    {
       "key": "207eb3ec6fac10d53c65048c63ce860d53a1dfee",
       "title": "S2 Ep 37: Bad Breath Paranoia & Donut Doubts",
       "published_at": "2023-03-08T03:00:00+00:00",
@@ -6887,7 +6865,6 @@
 - 2023-04-05 — S2 Ep 41: Dental Care & Disney World — speakers: Romesh Ranganathan, Tom Davis
 - 2023-03-29 — S2 Ep 40: Birthdays and Brass Necks — speakers: Romesh Ranganathan, Tom Davis
 - 2023-03-22 — S2 Ep 39: Dull Detectives & Fake Injuries — speakers: Romesh Ranganathan, Tom Davis
-- 2023-03-15 — S2 Ep 38: Visible Nipples & Museum Snacks — speakers: Romesh Ranganathan, Tom Davis
 - 2023-03-08 — S2 Ep 37: Bad Breath Paranoia & Donut Doubts — speakers: Romesh Ranganathan, Tom Davis
 - 2023-03-03 — S2 Ep 36: Return Of The Bonus — speakers: Romesh Ranganathan, Tom Davis
 - 2023-03-01 — S2 Ep 35: Embarrassing Impressions & Cheesecake Controversy — speakers: Romesh Ranganathan, Tom Davis

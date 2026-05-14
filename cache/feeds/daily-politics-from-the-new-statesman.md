@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-05-12T17:22:57+00:00`
-- checked_at: `2026-05-12T17:22:57+00:00`
-- etag: `"djEuMi4wOjE3Nzg1OTc2MTQ5Mjg="`
+- fetched_at: `2026-05-14T17:12:42+00:00`
+- checked_at: `2026-05-14T17:12:42+00:00`
+- etag: `"djEuMi4wOjE3Nzg3NzQzNjEyODk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-05-12T17:22:57+00:00",
+  "fetched_at": "2026-05-14T17:12:42+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "8ca08f7f9a40c8edbe964b83211315cb159af57d",
+      "title": "Streeting resigns, but can he trigger a leadership contest?",
+      "published_at": "2026-05-14T15:58:56+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/streeting-resigns-but-can-he-trigger-leadership-contest",
+      "description": "Wes Streeting resigned as Health Secretary on Thursday morning, but Ailbhe Rea says Keir Starmer is determined to fight on. After days of speculation – and a 16-minute meeting at Number 10 – Wes Streeting has finally resigned from cabinet. On the same day, Angela Rayner has announced she has been \"cleared\" of wrongdoing related to unpaid property tax, which would leave her free to run in a leadership contest if one is triggered. However, sources inside Number 10 have told Ailbhe Rea that Wes Streeting does not have the backing of enough MPs to trigger a leadership contest. So what is the former Health Secretary hoping to achieve? And if a leadership contest were triggered, who else would be likely to run? Ailbhe Rea and Anoosh Chakelian discuss the latest from Westminster in The Politics Show. READ: Wes Streeting resigns with an excoriating letter to Starmer LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1778774258943-25d86a98-81ef-4b9f-9662-3f0e7a8666b9.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a05eca20d2228d6b482413d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27495862",
+      "itunes_duration": "28:38",
+      "speakers": [
+        "Wes Streeting",
+        "Ailbhe Rea",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "resign",
+        "leadership",
+        "contest"
+      ]
+    },
     {
       "key": "4fa9041e8feb02b46bb6205a9bb39a2b84a2038f",
       "title": "Starmer defiantly clings to power",
@@ -31241,6 +31264,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — Streeting resigns, but can he trigger a leadership contest? — speakers: Wes Streeting, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2026-05-12 — Starmer defiantly clings to power — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-11 — The weirdest day in Westminster — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-08 — Local election results: the end of Starmer? — speakers: Anoosh Chakelian, Oli Dugmore
