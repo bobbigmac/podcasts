@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-05-12T22:35:24+00:00`
-- checked_at: `2026-05-12T22:35:24+00:00`
-- etag: `"djEuMi4wOjE3Nzg2MTgyNTA0NDY="`
+- fetched_at: `2026-05-14T08:50:09+00:00`
+- checked_at: `2026-05-14T08:50:09+00:00`
+- etag: `"djEuMi4wOjE3Nzg3MzQ4Mzk5Nzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-05-12T22:35:24+00:00",
+  "fetched_at": "2026-05-14T08:50:09+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "53eb21adf117702aeba41c2e6c9538f67a8a8f43",
+      "title": "Ian Smith",
+      "published_at": "2026-05-14T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/510-ian-smith",
+      "description": "This week I’m joined by two-time Edinburgh Comedy Award nominee, Ian Smith ! You may also know him best as the co-host of the Northern News podcast with Amy Gledhill, as well as appearances on Live at the Apollo, Have I Got News For You and on his own Radio 4 series, Ian Smith is Stressed! He’s now back with Ian Smith: Foot Spa Half Empty - a sharp, surreal and painfully relatable look at stress, love, and the kind of life choices that include buying a magic spell off Amazon. In this episode we discuss: the brutal on-the-job experience that actually makes a stand-up the uncertainty of what actually leads to TV work learning the value of other comedians as “outside eyes” on your material why comedy as therapy is limited (but why it still helps anyway) the stuff that gets cut from The Northern News and we find out of Ian Smith is happy... Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to 20 minutes of exclusive extras including: how writing for The News Quiz taught him to write on demand why previews are meant to be messy and how deadlines remove self-doubt and force clarity in creative decisions 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Ian: Foot Spa Half Empty is on its final leg of the UK tour. You can find all the dates and more at iansmithcomedian.co.uk . You can also keep-up-date with Ian on Instagram, @iansmithcomedy . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ 20 minutes of exclusive extra content with Ian ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1778618040384-342dce57-910e-4a66-8dc0-e9391820db31.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a038f8a6304701dd8d3663a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123270336",
+      "itunes_duration": "1:25:36",
+      "speakers": [
+        "Ian Smith",
+        "Edinburgh Comedy Award",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "smith"
+      ]
+    },
     {
       "key": "de77fed336df8ded73f0c0e449b6b44543e79736",
       "title": "John Robins Returns",
@@ -11415,6 +11435,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — Ian Smith — speakers: Ian Smith, Edinburgh Comedy Award, Stuart Goldsmith
 - 2026-05-07 — John Robins Returns — speakers: John Robins Returns, Stuart Goldsmith
 - 2026-04-30 — John Tothill — speakers: John Tothill, Stuart Goldsmith
 - 2026-04-23 — Jonno Johnson — speakers: Jonno Johnson, Stuart Goldsmith
