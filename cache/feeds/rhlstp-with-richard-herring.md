@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-13T04:12:13+00:00`
-- checked_at: `2026-05-13T04:12:13+00:00`
-- etag: `"djEuMi4wOjE3Nzg2NDEwNTkzNTE="`
+- fetched_at: `2026-05-14T11:22:04+00:00`
+- checked_at: `2026-05-14T11:22:04+00:00`
+- etag: `"djEuMi4wOjE3Nzg3NTUxODE5Mzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-13T04:12:13+00:00",
+  "fetched_at": "2026-05-14T11:22:04+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -72,7 +72,7 @@
     },
     {
       "key": "17c86770fec55ca604521ae23bb47aa9db32ee8a",
-      "title": "Retro RHLSTP 143 - Stephen Merchant",
+      "title": "Stephen Merchant (Retro) - \"Retribution\"",
       "published_at": "2026-05-11T02:57:00+00:00",
       "link": "https://rhlstp.co.uk",
       "description": "#427 Retribution - Richard is hoping to get a bridge named after him in Great Yarmouth and hopefully his fans will do better than they did in getting him nominated for a British Comedy Award. It’s an incredible guest to start the new series, making his first appearance in almost 10 years, Stephen Merchant. Stephen has some questions for Richard about his first stint on the podcast and Richard doesn’t really have any answers. But after a bit of squirming the pair get talking about meeting your heroes, your parents meeting your heroes, how an omelette was the clincher in getting Christopher Walken on to The Outlaws, the KLF style destruction of a Banksy, the Herring’s Eye, the surprising news that drugs can be quite good fun, how Stephen made an impression at a Sarah Silverman party and his move into serious acting. Are they friends again by the end? I guess we’ll find out in ten years time. Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
@@ -83,13 +83,13 @@
       "itunes_duration": "1:06:17",
       "speakers": [
         "Stephen Merchant",
-        "Great Yarmouth",
         "Richard Herring"
       ],
       "topics": [
-        "retro",
         "stephen",
-        "merchant"
+        "merchant",
+        "retro",
+        "retribution"
       ]
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "key": "cd2752acf05fed56a46fa7aed2c7e22d165c6d50",
-      "title": "RHLSTP Book Club 178 - John Robins (Part 1)",
+      "title": "John Robins on Thirst (Part 1) - Book Club",
       "published_at": "2026-05-06T02:57:00+00:00",
       "link": "https://rhlstp.co.uk",
       "description": "RHLSTP Book Club #178 - Thirst - Part one of a two part chat with John Robins about his book about his relationship and troubles with alcohol, Thirst. They chat about why he wanted to write this book, whether it was difficult to go back over the subject, why it made Rich want to gamble, how it’s helpful to deal honestly with your shame and the stupid stuff you’ve done in your life, epiphanies in stand up careers and why Jesus shouldn’t run a social media account Buy the book here - https://uk.bookshop.org/p/books/thirst-twelve-drinks-that-changed-my-life-john-robins/24157e3cdfc6ba19 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
@@ -128,16 +128,16 @@
         "Richard Herring"
       ],
       "topics": [
-        "rhlstp",
-        "book",
-        "club",
         "john",
-        "robins"
+        "robins",
+        "thirst",
+        "book",
+        "club"
       ]
     },
     {
       "key": "fc678ed89870f254c0574a46321cb0d6d4f60ce2",
-      "title": "Retro RHLSTP 142 - Catherine Bohart",
+      "title": "Catherine Bohart (Retro) - \"Naked Beach\"",
       "published_at": "2026-05-04T02:57:00+00:00",
       "link": "https://rhlstp.co.uk",
       "description": "#438 Naked Beach - Richard reveals whether Great Yarmouth has given him a multi-million pound honour or not. His guest was having a bad time last time they were on, let’s see if they’re doing any better now, it’s the brilliant Catherine Bohart. The pair talk about their respective visits to Iceland and whether Rich’s depleted genitals might end up in a museum, appearing at the ghost Edinburgh Fringe of 2021, whether OCD had any influence over he choice of college, whether the point of life is to experience joy, cats in washing machines and the AI questions finally come good as they prompt an incredible story about a taxidermied squirrel. Look out for Catherine’s WIP gigs here https://www.catherinebohart.com/live Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
@@ -148,14 +148,14 @@
       "itunes_duration": "1:04:26",
       "speakers": [
         "Catherine Bohart",
-        "Naked Beach",
-        "Great Yarmouth",
         "Richard Herring"
       ],
       "topics": [
-        "retro",
         "catherine",
-        "bohart"
+        "bohart",
+        "retro",
+        "naked",
+        "beach"
       ]
     },
     {
@@ -22387,10 +22387,10 @@
 
 - 2026-05-13 — Matt Forde - "Comedian Cancer Frankingstein" — speakers: Cancer Frankingstein, Cancer Frankingstein Rich, Richard Herring
 - 2026-05-12 — RAACN week 15 — speakers: Mrs Doubtfire There, Richard Herring
-- 2026-05-11 — Retro RHLSTP 143 - Stephen Merchant — speakers: Stephen Merchant, Great Yarmouth, Richard Herring
+- 2026-05-11 — Stephen Merchant (Retro) - "Retribution" — speakers: Stephen Merchant, Richard Herring
 - 2026-05-08 — Retro Can I Have My Ball Back? - Episode 2 — speakers: Sara Kayat Richard, Richard Herring
-- 2026-05-06 — RHLSTP Book Club 178 - John Robins (Part 1) — speakers: John Robins, Richard Herring
-- 2026-05-04 — Retro RHLSTP 142 - Catherine Bohart — speakers: Catherine Bohart, Naked Beach, Great Yarmouth, Richard Herring
+- 2026-05-06 — John Robins on Thirst (Part 1) - Book Club — speakers: John Robins, Richard Herring
+- 2026-05-04 — Catherine Bohart (Retro) - "Naked Beach" — speakers: Catherine Bohart, Richard Herring
 - 2026-05-02 — RAACN week 14 — speakers: Richard Herring
 - 2026-05-01 — Retro Can I Have My Ball Back? - Episode 1 — speakers: Richard Herring
 - 2026-04-29 — RHLSTP 608 - Michelle Wolf — speakers: Michelle Wolf, Richard Herring

@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-05-13T20:08:49+00:00`
-- checked_at: `2026-05-13T20:08:49+00:00`
-- last_modified: `Wed, 13 May 2026 18:22:26 GMT`
+- fetched_at: `2026-05-14T11:22:04+00:00`
+- checked_at: `2026-05-14T11:22:04+00:00`
+- last_modified: `Thu, 14 May 2026 11:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-13T20:08:49+00:00",
+  "fetched_at": "2026-05-14T11:22:04+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "44ec969400bfa744acbe4e0731aec915c55245ce",
+      "title": "Yesteryear with Caro Claire Burke",
+      "published_at": "2026-05-14T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist Culture Club: Yesteryear Presented by Deborah Frances-White and very special guest Caro Claire Burke Recorded 28 April 2026 in London. Released 14 May. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Caro Claire Burke https://www.caroclaireburke.com https://www.waterstones.com/book/yesteryear/caro-claire-burke/9780008742768 For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Road to Gilead at the Museum of Comedy. https://www.museumofcomedy.com/the-guilty-feminist/ The Guilty Feminist Meets Rose McGowan . https://www.charleston.org.uk/event/the-guilty-feminist Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3db895ea-4ef7-11f1-9304-d779578b5494/image/b499372d8454a440dd908d61f17ef4bb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL9532847533.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1564",
+      "speakers": [
+        "Claire Burke",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "yesteryear",
+        "caro",
+        "claire",
+        "burke"
+      ]
+    },
     {
       "key": "44aa8aaaf3c76778c3e4b747ed4400ebba01b50c",
       "title": "482. Ten for Ten #10: Sara Pascoe",
@@ -17907,6 +17929,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — Yesteryear with Caro Claire Burke — speakers: Claire Burke, Deborah Frances-White
 - 2026-05-11 — 482. Ten for Ten #10: Sara Pascoe — speakers: Deborah Frances-White
 - 2026-05-04 — 481. The Algorithm with Aoife Dunne and Adele Zeynep Walton - part two — speakers: Deborah Frances-White, Aoife Dunne
 - 2026-05-04 — 481. The Algorithm with Aoife Dunne and Adele Zeynep Walton - part one — speakers: Deborah Frances-White, Aoife Dunne
