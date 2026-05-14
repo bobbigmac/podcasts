@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-05-13T15:13:54+00:00`
-- checked_at: `2026-05-13T15:13:54+00:00`
-- last_modified: `Wed, 13 May 2026 10:15:18 GMT`
+- fetched_at: `2026-05-14T04:12:11+00:00`
+- checked_at: `2026-05-14T04:12:11+00:00`
+- last_modified: `Wed, 13 May 2026 23:05:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-13T15:13:54+00:00",
+  "fetched_at": "2026-05-14T04:12:11+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "622a7c40521729f06722ce04870c62a0ddc28303",
+      "title": "Paul McCartney Answers YOUR Questions",
+      "published_at": "2026-05-13T23:05:00+00:00",
+      "link": null,
+      "description": "Richard Osman and Marina Hyde are joined by the most influential pop writer of all time - Sir Paul McCartney. The Beatles legend answers your questions on the changing nature of fame, his relationship with ambition and why you must always play the hits at live shows. Filmed at Abbey Road Studios. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠www.goalhanger.com⁠ Video Editor: Adam Thornton Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Neil Fearn Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1873116821.mp3?updated=1778667608",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2156",
+      "speakers": [
+        "Paul McCartney Answers",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "paul",
+        "mccartney",
+        "question"
+      ]
+    },
     {
       "key": "911b4b8c5b2d35b231df076ba9a038c707923362",
       "title": "Beckham's Nepo Baby Nightmare",
@@ -5791,6 +5813,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — Paul McCartney Answers YOUR Questions — speakers: Paul McCartney Answers, Richard Osman, Marina Hyde
 - 2026-05-11 — Beckham's Nepo Baby Nightmare — speakers: Harper Beckham, Richard Osman, Marina Hyde
 - 2026-05-06 — How Not To Become A Meme — speakers: Meme Which, Richard Osman, Marina Hyde
 - 2026-05-05 — Introducing: The Book Club — speakers: Greatest Mystery Ever Written, Richard Osman, Marina Hyde

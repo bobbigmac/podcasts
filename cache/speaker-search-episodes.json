@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "704204636a91ac512ee6efccddf94a735f96c624",
+        "episode_key": "704204636a91ac512ee6efccddf94a735f96c624",
+        "title": "Phil Wang (Tasting Menu)",
+        "published_at": "2026-05-13T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Fan favourite from the very first series of Off Menu, Phil Wang returns to the Dream Restaurant for a Tasting Menu booking. We hope he likes buttery cabbage. \nPhil Wang is on tour with his new show ‘Uh Oh’. For dates and tickets go to philwang.co.uk \nFollow Phil on Instagram @wangpix \nWatch the video version of this ep",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69d5345f2a193257ad72ca1d/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/phil-wang-tasting-menu/id1442950743?i=1000767507614&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
@@ -4394,6 +4417,29 @@
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "704204636a91ac512ee6efccddf94a735f96c624",
+        "episode_key": "704204636a91ac512ee6efccddf94a735f96c624",
+        "title": "Phil Wang (Tasting Menu)",
+        "published_at": "2026-05-13T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Fan favourite from the very first series of Off Menu, Phil Wang returns to the Dream Restaurant for a Tasting Menu booking. We hope he likes buttery cabbage. \nPhil Wang is on tour with his new show ‘Uh Oh’. For dates and tickets go to philwang.co.uk \nFollow Phil on Instagram @wangpix \nWatch the video version of this ep",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/69d5345f2a193257ad72ca1d/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/phil-wang-tasting-menu/id1442950743?i=1000767507614&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
         "dedupe_key": "4774e39d9168964ca99114f986d1fd7d35aed9cd",
         "episode_key": "4774e39d9168964ca99114f986d1fd7d35aed9cd",
         "title": "Montaigne",
@@ -4812,6 +4858,28 @@
         "description": "It's a classic archive episode this week - Comedian & podcast host Ed Gamble joins David & Joe mid spat. After he’s broken up the argument, Ed talks about Off Menu, getting Ed Sheeran on, chart positions and why they should get a producer. Joe & David start bickering again. Ed leaves.\n\nFirst posted sometime in 2022, ex",
         "audio_url": "https://traffic.megaphone.fm/KILM8895051466.mp3?updated=1772097463",
         "link_url": "https://podcasts.apple.com/gb/podcast/s15-ep-786-vault-mondays-guest-ed-gamble/id1560965008?i=1000752383885&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:6a3178f5eccd",
+        "feed_title": "Chatabix",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a042bd3aeff4cb21ba01798",
+        "dedupe_key": "a92458a696657856dbb527ad5a77fbc96eaa4c30",
+        "episode_key": "a92458a696657856dbb527ad5a77fbc96eaa4c30",
+        "title": "S15 Ep 786 Vault Mondays: Guest - Ed Gamble",
+        "published_at": "2026-03-02T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's a classic archive episode this week - Comedian & podcast host Ed Gamble joins David & Joe mid spat. After he’s broken up the argument, Ed talks about Off Menu, getting Ed Sheeran on, chart positions and why they should get a producer. Joe & David start bickering again. Ed leaves.\nFirst posted sometime in 2022, exa",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/83bdec78-4e04-11f1-8f55-ef5444077635/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s15-ep-786-vault-mondays-guest-ed-gamble/id1560965008?i=1000767564456&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

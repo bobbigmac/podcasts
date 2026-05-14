@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-05-13T15:13:54+00:00`
-- checked_at: `2026-05-13T15:13:54+00:00`
+- fetched_at: `2026-05-14T04:12:11+00:00`
+- checked_at: `2026-05-14T04:12:11+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Wed, 13 May 2026 11:24:44 GMT`
+- last_modified: `Thu, 14 May 2026 04:04:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-13T15:13:54+00:00",
+  "fetched_at": "2026-05-14T04:12:11+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e9f393d2ade1dc0b4fe0c008b05d9dbeccb59be0",
+      "title": "Alan Carr",
+      "published_at": "2026-05-14T04:00:00+00:00",
+      "link": null,
+      "description": "Oh, what a joy it was to welcome my dear friend Alan Carr into the garden for a spot of Pottering! 🌻 Comedian, presenter and turret-loving TV sensation, Alan is always a delight! You’ll know him from the brilliant Changing Ends on ITV, his Mediterranean makeovers with Amanda Holden on BBC One, BAFTA-award winning The Traitors , and of course so much more besides. We shoot the breeze (or should that be the trout?) about Alan’s brand new castle, our favourite National Trust spots, and being shamed by national treasure Dame Mary Berry. Much to enjoy! 🏰🍷🦜 🍾 So pop open the bubbles, grab those birdwatching binoculars, and perhaps change out of that Poirot outfit, just in case, as you come Pottering with us. 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, perhaps leave us a review, it's very much appreciated, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/daed8224-4eb8-11f1-bb11-2fdac7b57c07/image/fd10814763d9a8213460a9abf1f6f2e1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2782692325.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3098",
+      "speakers": [
+        "Alan Carr",
+        "Tom Allen"
+      ],
+      "topics": [
+        "alan",
+        "carr"
+      ]
+    },
     {
       "key": "313b2eda973699bc5c630938a3778e9888685ebd",
       "title": "Cariad Lloyd",
@@ -728,6 +748,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — Alan Carr — speakers: Alan Carr, Tom Allen
 - 2026-05-07 — Cariad Lloyd — speakers: Cariad Lloyd, Tom Allen
 - 2026-04-30 — Carol Klein — speakers: Carol Klein, Tom Allen
 - 2026-04-23 — Ashley James — speakers: Ashley James, Tom Allen

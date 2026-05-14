@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-05-13T20:08:49+00:00`
-- checked_at: `2026-05-13T20:08:49+00:00`
-- last_modified: `Wed, 13 May 2026 18:31:31 GMT`
+- fetched_at: `2026-05-14T04:12:11+00:00`
+- checked_at: `2026-05-14T04:12:11+00:00`
+- last_modified: `Wed, 13 May 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-13T20:08:49+00:00",
+  "fetched_at": "2026-05-14T04:12:11+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,24 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "b1af8d138e144cb21281372121440e70c4302d7e",
+      "title": "We Accidentally Ignored 632 Emails…",
+      "published_at": "2026-05-13T23:01:00+00:00",
+      "link": null,
+      "description": "What happens when you realise you’ve accidentally ignored 632 listener emails? Mystery solved and an apology is in order from the team in this Thursday's episode of The Romesh Ranganathan Show, after finding out they have been checking the wrong inbox the entire time. This week Romesh and Shanthi team up again to answer and advise on your dilemmas. Covering topics from aging, learning English and impressing family members to some unlicensed, dubious medical advice from Shanthi herself. There’s also a chaotic “Freaky Friday” conversation about swapping lives for 24 hours, an unexpected Tamil telling-off and Romesh is forced into a terrible apology. 00:00 Intro 01:20 Meditating with Romesh 02:44 A podcast debrief 05:30 An apology to the emailers 10:12 Your listener dilemmas answered 20:30 Romesh’s last epic night out 22:30 A Ranganathan Freaky Friday 30:39 How to impress your mother in law 33:23 Shanthi tells Romesh off in Tamil 35:17 An apology from Romesh 38:45 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8237e4a0-4ef2-11f1-8363-e7190efa331a/image/93c0df94e029cef1ccab388de90e4a51.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6244326342.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2577",
+      "speakers": [
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "emails"
+      ]
+    },
     {
       "key": "014271c01fe3ec2a23c2f658a18fb4602745a32c",
       "title": "Adam Buxton on Why Podcasting Has Got WORSE & Comedy Jingles",
@@ -1551,6 +1569,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-13 — We Accidentally Ignored 632 Emails… — speakers: Romesh Ranganathan
 - 2026-05-10 — Adam Buxton on Why Podcasting Has Got WORSE & Comedy Jingles — speakers: Adam Buxton, Romesh Ranganathan
 - 2026-05-06 — Shanthi on Being an Immigrant in the 70s & Superstitions — speakers: Superstitions Who, Romesh Ranganathan
 - 2026-05-03 — Miriam Margolyes on Harry Potter, Blackadder & How To Be Confident — speakers: Miriam Margolyes, Romesh Ranganathan

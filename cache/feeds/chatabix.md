@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-13T17:24:10+00:00`
-- checked_at: `2026-05-13T17:24:10+00:00`
-- etag: `"djEuMi4wOjE3Nzg2ODg2NTA2NTc="`
+- fetched_at: `2026-05-14T04:12:11+00:00`
+- checked_at: `2026-05-14T04:12:11+00:00`
+- etag: `"djEuMi4wOjE3Nzg3MjQwMzk2NTk="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-05-13T17:24:10+00:00",
+  "fetched_at": "2026-05-14T04:12:11+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,25 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "8cd45009d25185e0e30a9a5dc8df86e90258751e",
+      "title": "S15 Ep 839: Patreons In The Den - Part 1",
+      "published_at": "2026-05-14T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-839-patreons-in-the-den-part-1",
+      "description": "Soon after starting today’s show, Joe remembers that his brother’s had a new section idea for the pod and messages him to get the full details. So while they await the reply, David decides to send out a message to the Chatabix Patreons to ask if they have any ideas too and would like to join them on Zoom for a Dragon’s Den style pitching session. The only problem is, he sends the link out to everyone which very quickly results in a complete pile-on of potential Patreon contestants. Let the chaos commence! PS there were a lot, so it’s gonna be a two-parter. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a049e170cdbf0d1ff75126b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117202688",
+      "itunes_duration": "48:50",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "patreon"
+      ]
+    },
     {
       "key": "cde1242647339bd4131bb549a91d1f0c0dd2227f",
       "title": "S15 Ep 838: The Farm - Revisited!",
@@ -14880,6 +14899,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — S15 Ep 839: Patreons In The Den - Part 1 — speakers: Joe Wilkinson, David Earl
 - 2026-05-13 — S15 Ep 838: The Farm - Revisited! — speakers: Joe Wilkinson, David Earl
 - 2026-05-12 — S15 Ep 837: The Hunt for Joe’s Sinister Farm — speakers: Joe’s Sinister Farm, Joe Wilkinson, David Earl
 - 2026-05-11 — S15 Ep 836 Vault Mondays: The 100th Episode — speakers: Vault Mondays, Joe Wilkinson, David Earl
