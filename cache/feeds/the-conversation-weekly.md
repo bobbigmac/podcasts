@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-05-08T10:48:51+00:00`
-- checked_at: `2026-05-08T10:48:51+00:00`
-- etag: `"24ff57-6514ac8d3982e"`
-- last_modified: `Fri, 08 May 2026 09:11:39 GMT`
+- fetched_at: `2026-05-14T14:39:54+00:00`
+- checked_at: `2026-05-14T14:39:54+00:00`
+- etag: `"251112-651c7f154d6c7"`
+- last_modified: `Thu, 14 May 2026 14:30:49 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-05-08T10:48:51+00:00",
+  "fetched_at": "2026-05-14T14:39:54+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,27 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "56f9b2664705c68526801558b0d1886ed691d02d",
+      "title": "The conspiracy theorists who feel vindicated by the Epstein files",
+      "published_at": "2026-05-14T14:30:00+00:00",
+      "link": "https://theconversation.com/the-conspiracy-theorists-who-feel-vindicated-by-the-epstein-files-282816",
+      "description": "As the revelations from the Epstein files continue to reverberate around the globe, those conspiracy theorists who were among the first to call for the release of information about Jeffrey Epstein's legal cases are feeling vindicated. Before his death, Epstein already featured in many fringe online forums, including those centred on the Qanon conspiracy narrative that the world is run by an elite cabal of child sex traffickers. Now, many in these communities are saying \"We told you so.\" In this episode, Art Jipson , a sociologist at the University of Dayton in Ohio, who researches social movements and extremism, explains what happened when a real-life criminal case collided with an online community built on conspiracy theories. This episode was produced by Katie Flood, with assistance from Mend Mariwany. The executive producer was Gemma Ware. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/6b44d8ce-3aae-43f0-8bf5-25f405e2ef7f.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42722786",
+      "itunes_duration": "29:40",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "conspiracy",
+        "theorist",
+        "epstein",
+        "file"
+      ]
+    },
     {
       "key": "8f378c9d8bc2f2edd4caced7fa4887db7df10d50",
       "title": "China’s long game on Trump’s tariffs",
@@ -5892,6 +5913,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — The conspiracy theorists who feel vindicated by the Epstein files — speakers: Gemma Ware
 - 2026-05-07 — China’s long game on Trump’s tariffs — speakers: Xi Jinping, Gemma Ware
 - 2026-04-30 — Trump v Leo: the war of words over a just war — speakers: Pope Leo, Gemma Ware
 - 2026-04-23 — Israel’s history shapes how it wages war — speakers: Gemma Ware

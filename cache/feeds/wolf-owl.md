@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-14T11:22:04+00:00`
-- checked_at: `2026-05-14T11:22:04+00:00`
-- last_modified: `Thu, 14 May 2026 11:18:51 GMT`
+- fetched_at: `2026-05-14T14:39:54+00:00`
+- checked_at: `2026-05-14T14:39:54+00:00`
+- last_modified: `Thu, 14 May 2026 14:17:54 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-14T11:22:04+00:00",
+  "fetched_at": "2026-05-14T14:39:54+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -61,7 +61,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9443775491.mp3?updated=1778174172",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1353",
+      "itunes_duration": "1233",
       "speakers": [
         "Mickey Drips",
         "Romesh Ranganathan",
@@ -111,7 +111,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6545295666.mp3?updated=1777557118",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1428",
+      "itunes_duration": "1308",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -158,7 +158,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7930648271.mp3?updated=1777311140",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1338",
+      "itunes_duration": "1218",
       "speakers": [
         "Will Tom",
         "Romesh Ranganathan",
@@ -4083,9 +4083,9 @@
       "title": "S2 Ep 37: Bad Breath Paranoia & Donut Doubts",
       "published_at": "2023-03-08T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Sunday mornings, moody audience members, ghosting rock stars, the fall-out from Tom’s cheesecake controversy, non-hibernating squirrels, lazy bears, smelly trailers, messy burritos and some extremely unwanted toothpaste. Then, after Rom tells us all about his awkward donut gifts, we answer questions on strange co-incidences and the viability of genetically traced dog-poo fines. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Sunday mornings, moody audience members, ghosting rock stars, the fall-out from Tom’s cheesecake controversy, non-hibernating squirrels, lazy bears, smelly trailers, messy burritos and some extremely unwanted toothpaste. Then, after Rom tells us all about his awkward donut gifts, we answer questions on strange co-incidences and the viability of genetically traced dog-poo fines. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1962068865.mp3?updated=1678229154",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1962068865.mp3?updated=1778768063",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3914",
@@ -4105,12 +4105,12 @@
       "title": "S2 Ep 36: Return Of The Bonus",
       "published_at": "2023-03-03T03:00:00+00:00",
       "link": null,
-      "description": "The bonus episodes are back baby! First up, a quick chat about post-exercise aches and the long-awaited return of Party Rom. Then we tackle some email questions about doing standup whilst being a teacher, getting over heart-break, not missing someone, more nicknames and a potential new jingle for the pod. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "The bonus episodes are back baby! First up, a quick chat about post-exercise aches and the long-awaited return of Party Rom. Then we tackle some email questions about doing standup whilst being a teacher, getting over heart-break, not missing someone, more nicknames and a potential new jingle for the pod. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8378619623.mp3?updated=1708647477",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8378619623.mp3?updated=1778765893",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2387",
+      "itunes_duration": "2386",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -4124,9 +4124,9 @@
       "title": "S2 Ep 35: Embarrassing Impressions & Cheesecake Controversy",
       "published_at": "2023-03-01T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Instagram initiatives, oversharing on the pod, showing off with impressions, crimes against hair, crushingly embarrassing videos, texting anxieties, Oliver Twist’s gruel buffet and Tom’s controversial take on cheesecake. Plus, email questions about peeing dogs, worst and best nicknames, a new ‘would you rather’ section and getting scammed on holiday. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Instagram initiatives, oversharing on the pod, showing off with impressions, crimes against hair, crushingly embarrassing videos, texting anxieties, Oliver Twist’s gruel buffet and Tom’s controversial take on cheesecake. Plus, email questions about peeing dogs, worst and best nicknames, a new ‘would you rather’ section and getting scammed on holiday. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6830230845.mp3?updated=1677604379",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6830230845.mp3?updated=1778762659",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4081",
@@ -4146,12 +4146,12 @@
       "title": "S2 Ep 34: Music vs Comedy",
       "published_at": "2023-02-22T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… stand-up comedy in music venues, aggressive gigs, performing at festivals, singing feedback and a Wolf & Owl Christmas single, bootlace belts, bad parenting and the possibility of giving up swearing. Plus, some email questions on sporting injuries, favourite nicknames and getting to grips with grief. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… stand-up comedy in music venues, aggressive gigs, performing at festivals, singing feedback and a Wolf & Owl Christmas single, bootlace belts, bad parenting and the possibility of giving up swearing. Plus, some email questions on sporting injuries, favourite nicknames and getting to grips with grief. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5059148869.mp3?updated=1676997343",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5059148869.mp3?updated=1778761659",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3948",
+      "itunes_duration": "3978",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -4166,9 +4166,9 @@
       "title": "S2 Ep 33: Horrible Hangovers & Valentines Panics",
       "published_at": "2023-02-15T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… hungover chores, Zoom fights, rugby days and donkey dicks, emergency valentines plans, homemade margaritas, brewing beer, the world's happiest countries and the pros and cons of never having to sleep again. Followed by email questions on vaping in bed, audio book obsessions and restaurant ordering etiquette - and an all important update on Tom’s ghost! For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… hungover chores, Zoom fights, rugby days and donkey dicks, emergency valentines plans, homemade margaritas, brewing beer, the world's happiest countries and the pros and cons of never having to sleep again. Followed by email questions on vaping in bed, audio book obsessions and restaurant ordering etiquette - and an all important update on Tom’s ghost! For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3929067284.mp3?updated=1676401945",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3929067284.mp3?updated=1778760112",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4076",
@@ -4188,9 +4188,9 @@
       "title": "S2 Ep 32: Tough Cops & Soft Water",
       "published_at": "2023-02-08T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… a BO shirt update, spa-day podcasts, walking in London, happy dentists, New York hussles, oversharing at the gym, the amazingness of water softeners and a gritty Wolf & Owl police drama. Then some of your email questions on dealing with bullying, doorbell cameras, squeamish incidents and planning a wedding party playlist. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… a BO shirt update, spa-day podcasts, walking in London, happy dentists, New York hussles, oversharing at the gym, the amazingness of water softeners and a gritty Wolf & Owl police drama. Then some of your email questions on dealing with bullying, doorbell cameras, squeamish incidents and planning a wedding party playlist. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8534474086.mp3?updated=1675797727",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8534474086.mp3?updated=1778759475",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3808",
@@ -4210,9 +4210,9 @@
       "title": "S2 Ep 31: Car De-Icing & Seriously Singing",
       "published_at": "2023-02-01T03:00:00+00:00",
       "link": null,
-      "description": "S2 Ep 31: Car De-Icing & Seriously Singing We’re talking… punctual podding, car windscreen de-icing, opticians and eye hankies, the Wolf & Owl singing their hearts out, smelly football shirts, bad B.O. and growing ears. Then some of your email questions answered on toilet tackle logistics, a problematic father-in-law, making peace with past sins and undignified operations. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "S2 Ep 31: Car De-Icing & Seriously Singing We’re talking… punctual podding, car windscreen de-icing, opticians and eye hankies, the Wolf & Owl singing their hearts out, smelly football shirts, bad B.O. and growing ears. Then some of your email questions answered on toilet tackle logistics, a problematic father-in-law, making peace with past sins and undignified operations. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5974211123.mp3?updated=1675153036",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5974211123.mp3?updated=1778758787",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3923",

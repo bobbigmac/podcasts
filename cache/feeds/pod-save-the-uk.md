@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-05-14T08:50:09+00:00`
-- checked_at: `2026-05-14T08:50:09+00:00`
-- etag: `W/"6b1c018b391e96b987bfc05e94880f9c"`
-- last_modified: `Thu, 14 May 2026 08:39:54 GMT`
+- fetched_at: `2026-05-14T14:39:54+00:00`
+- checked_at: `2026-05-14T14:39:54+00:00`
+- etag: `W/"eca6fbacb7a94d0c18ff272c4ef7086f"`
+- last_modified: `Thu, 14 May 2026 11:45:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-05-14T08:50:09+00:00",
+  "fetched_at": "2026-05-14T14:39:54+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -36,10 +36,10 @@
       "link": "https://audioboom.com/posts/8903237",
       "description": "This week, as Labour reels from a brutal set of election results, Nish and Coco try to make sense of Keir Starmer’s fight to stay in Downing Street, a story moving faster than political journalists can refresh their phones. They’re joined by Helena, aka NoJusticeMTG, Twitch streamer, YouTuber and Novara Media contributor, to break down Labour’s post-election meltdown, the rise of Reform, and whether the Greens’ surge points to a more hopeful progressive future. They also dig into who might replace Starmer, from Angela Rayner to Andy Burnham and Wes Streeting. Plus, what should we take from Plaid Cymru’s win in Wales, Reform’s new foothold, and the Greens breaking through in places Labour once took for granted? And former Google executive Mo Gawdat joins to discuss Chasing Utopia, the new documentary asking whether AI is about to transform our lives, our politics, and possibly the future of humanity itself. Watch Mo Gawdat in Atlantic Studios new release Chasing Utopia from Friday 15th May 2026 at Everyman Cinemas. Book tickets at everymancinema.com . GUESTS Mo Gawdat NoJusticeMTG USEFUL LINKS Raphael Behr https://www.theguardian.com/commentisfree/2026/may/13/labour-battle-of-ideas-no-10-keir-starmer-leadership CREDITS BBC ONE: Sunday with Laura Kuenssberg Youtube: Novara Media Pod Save the UK is an Intelligence Squared production for Crooked Media. Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43645233.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8903237.mp3?modified=1778709004&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8903237.mp3?modified=1778759121&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4496",
+      "itunes_duration": "4624",
       "speakers": [
         "Nish Kumar",
         "Coco Khan"

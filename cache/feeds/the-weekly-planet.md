@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-05-11T04:35:42+00:00`
-- checked_at: `2026-05-11T04:35:42+00:00`
-- etag: `"djEuMi4wOjE3Nzg0NzM4MzkyNDk="`
+- fetched_at: `2026-05-14T14:39:54+00:00`
+- checked_at: `2026-05-14T14:39:54+00:00`
+- etag: `"djEuMi4wOjE3Nzg3NjU0MzkzMDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-05-11T04:35:42+00:00",
+  "fetched_at": "2026-05-14T14:39:54+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c509e07a42eff7a44e038a41e01d552be3c12f85",
+      "title": "Total Recall - Caravan Of Garbage",
+      "published_at": "2026-05-14T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/total-recall-caravan-of-garbage",
+      "description": "Over the next four weeks we're taking a trip through some classic 1990's science fiction films. An interesting era which still encorporated old school film making techniques like model work, stop motion and rear projection plus early computer generated imagery. This week it's the action classic Total Recall starring Arnold Schwarzenegger and Sharon Stone from director Paul Verhoeven not to be confused with the 2012 reboot or the book its based on that has a completely different name and premise. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/69f96886d9139f13fbd0ce32/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28577254",
+      "itunes_duration": "30:32",
+      "speakers": [
+        "Total Recall",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "total",
+        "recall",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "6c2dc439ff77e74c0d8e155bf6d408926371d52a",
       "title": "622 Daredevil, The Boys & Mortal Kombat 2",
@@ -22280,6 +22303,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — Total Recall - Caravan Of Garbage — speakers: Total Recall, James Clement, Nick Mason
 - 2026-05-11 — 622 Daredevil, The Boys & Mortal Kombat 2 — speakers: Mortal Kombat, James Clement, Nick Mason
 - 2026-05-10 — X-Men: The Last Stand REDUX - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-05-08 — X2: X-Men United - Caravan Of Garbage — speakers: Sam Raimi, James Clement, Nick Mason

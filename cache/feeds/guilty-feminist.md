@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-05-14T11:22:04+00:00`
-- checked_at: `2026-05-14T11:22:04+00:00`
-- last_modified: `Thu, 14 May 2026 11:00:00 GMT`
+- fetched_at: `2026-05-14T14:39:54+00:00`
+- checked_at: `2026-05-14T14:39:54+00:00`
+- last_modified: `Thu, 14 May 2026 13:21:59 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-14T11:22:04+00:00",
+  "fetched_at": "2026-05-14T14:39:54+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -37,7 +37,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9532847533.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1564",
+      "itunes_duration": "1594",
       "speakers": [
         "Claire Burke",
         "Deborah Frances-White"
@@ -59,7 +59,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5448532007.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3303",
+      "itunes_duration": "3333",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -78,7 +78,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7629857528.mp3?updated=1777760837",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2349",
+      "itunes_duration": "2379",
       "speakers": [
         "Deborah Frances-White",
         "Aoife Dunne"
@@ -102,7 +102,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7467236829.mp3?updated=1777760824",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3761",
+      "itunes_duration": "3791",
       "speakers": [
         "Deborah Frances-White",
         "Aoife Dunne"
@@ -126,7 +126,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9424744239.mp3?updated=1777761044",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3079",
+      "itunes_duration": "3109",
       "speakers": [
         "Keep Palantir",
         "Susan Wokoma",
@@ -152,7 +152,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1853112635.mp3?updated=1777157821",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3928",
+      "itunes_duration": "3958",
       "speakers": [
         "Keep Palantir",
         "Susan Wokoma",
@@ -178,7 +178,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2144160897.mp3?updated=1776675855",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3615",
+      "itunes_duration": "3645",
       "speakers": [
         "Priya Hall",
         "Deborah Frances-White"
@@ -206,7 +206,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1456394931.mp3?updated=1776675756",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4268",
+      "itunes_duration": "4298",
       "speakers": [
         "Priya Hall",
         "Deborah Frances-White"
@@ -234,7 +234,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2461458497.mp3?updated=1775983747",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6063",
+      "itunes_duration": "6093",
       "speakers": [
         "Heidi Regan",
         "Deborah Frances-White"
@@ -258,7 +258,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9312507428.mp3?updated=1775392799",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2969",
+      "itunes_duration": "2999",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -279,7 +279,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9305761332.mp3?updated=1774820579",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3468",
+      "itunes_duration": "3498",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -300,7 +300,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5889898042.mp3?updated=1774198162",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3996",
+      "itunes_duration": "4026",
       "speakers": [
         "Juno Dawson",
         "Singing Resistance London",
@@ -330,7 +330,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5213143156.mp3?updated=1774198086",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3316",
+      "itunes_duration": "3346",
       "speakers": [
         "Juno Dawson",
         "Athena Kugblenu",
@@ -362,7 +362,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3354006675.mp3?updated=1773507612",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4873",
+      "itunes_duration": "4903",
       "speakers": [
         "Max Olesker",
         "Jess Robinson",
@@ -387,7 +387,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5876459643.mp3?updated=1772911558",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2161",
+      "itunes_duration": "2191",
       "speakers": [
         "Roger Griffin",
         "Deborah Frances-White",
@@ -414,7 +414,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4572648626.mp3?updated=1772911553",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4049",
+      "itunes_duration": "4079",
       "speakers": [
         "Roger Griffin",
         "Deborah Frances-White",
@@ -441,7 +441,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8607405256.mp3?updated=1775818280",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3488",
+      "itunes_duration": "3608",
       "speakers": [
         "Deborah Frances-White",
         "Grace Campbell"
@@ -464,7 +464,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5472061727.mp3?updated=1775817972",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1395",
+      "itunes_duration": "1425",
       "speakers": [
         "Birth Keepers",
         "Sirin Kale",
@@ -489,7 +489,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1763578535.mp3?updated=1772450145",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2808",
+      "itunes_duration": "2838",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -508,7 +508,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4041903799.mp3?updated=1772014421",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1514",
+      "itunes_duration": "1544",
       "speakers": [
         "Deborah Frances-White",
         "Hannah Spencer",
@@ -534,7 +534,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7542915551.mp3?updated=1771680340",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2613",
+      "itunes_duration": "2643",
       "speakers": [
         "Abigoliah Schamaun",
         "Deborah Frances-White"
@@ -560,7 +560,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6355579042.mp3?updated=1771680365",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4599",
+      "itunes_duration": "4629",
       "speakers": [
         "Abigoliah Schamaun",
         "Deborah Frances-White"
@@ -586,7 +586,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9835820582.mp3?updated=1771326143",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4845",
+      "itunes_duration": "4875",
       "speakers": [
         "Deborah Fran",
         "Deborah Frances-White"
@@ -612,7 +612,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2781770682.mp3?updated=1771195749",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3680",
+      "itunes_duration": "3710",
       "speakers": [
         "Alison Spittle",
         "Deborah Frances-White",
@@ -633,7 +633,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1682353713.mp3?updated=1770548301",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4042",
+      "itunes_duration": "4072",
       "speakers": [
         "Kate Mosse",
         "Deborah Frances-White"
@@ -656,7 +656,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5436980751.mp3?updated=1770154988",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "902",
+      "itunes_duration": "932",
       "speakers": [
         "Jessica Regan Big Speeches",
         "Jessica Regan",
@@ -679,7 +679,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4649969367.mp3?updated=1769818445",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3623",
+      "itunes_duration": "3653",
       "speakers": [
         "Susan Wokoma",
         "Susan Wokoma Presented",
@@ -700,7 +700,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8602329730.mp3?updated=1769384704",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4190",
+      "itunes_duration": "4220",
       "speakers": [
         "Hannah Gadsby",
         "Deborah Frances-White"
@@ -721,7 +721,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2183130085.mp3?updated=1768774012",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2796",
+      "itunes_duration": "2826",
       "speakers": [
         "Deborah Frances-White",
         "Jen Br"
@@ -740,7 +740,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8910542128.mp3?updated=1768157893",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3054",
+      "itunes_duration": "3084",
       "speakers": [
         "Grace Petrie",
         "Deborah Frances-White"
@@ -760,7 +760,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7838969343.mp3?updated=1767564950",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2509",
+      "itunes_duration": "2539",
       "speakers": [
         "Susan Wokoma",
         "Jane Bradley",
@@ -790,7 +790,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2729676686.mp3?updated=1767565284",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5584",
+      "itunes_duration": "5614",
       "speakers": [
         "Susan Wokoma",
         "Jane Bradley",
@@ -818,7 +818,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5383283566.mp3?updated=1766337761",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3392",
+      "itunes_duration": "3422",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -837,7 +837,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9647476957.mp3?updated=1766325464",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3543",
+      "itunes_duration": "3573",
       "speakers": [
         "Jessica Fostekew",
         "Guilty Feminist",
@@ -858,7 +858,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7826111358.mp3?updated=1765801030",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5875",
+      "itunes_duration": "5905",
       "speakers": [
         "Jessica Fosekew",
         "Deborah Frances-White"
@@ -882,7 +882,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1108704157.mp3?updated=1765153456",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5826",
+      "itunes_duration": "5856",
       "speakers": [
         "Jessica Fosekew",
         "Monica Ferro",
@@ -910,7 +910,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9230904378.mp3?updated=1764509326",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5811",
+      "itunes_duration": "5841",
       "speakers": [
         "Christian Nationalism",
         "Minnie Rahman",
@@ -940,7 +940,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5404357988.mp3?updated=1763412010",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1489",
+      "itunes_duration": "1519",
       "speakers": [
         "Ben Elton Explains",
         "British Comedy Ben Elton",
@@ -964,7 +964,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4526392472.mp3?updated=1763978324",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4029",
+      "itunes_duration": "4059",
       "speakers": [
         "Annie Lennox",
         "Deborah Frances-White"
@@ -985,7 +985,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2740633251.mp3?updated=1775818295",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1468",
+      "itunes_duration": "1588",
       "speakers": [
         "Alaa Al-ghoul",
         "Deborah Frances-White"
@@ -1008,7 +1008,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8357353441.mp3?updated=1763306096",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5110",
+      "itunes_duration": "5140",
       "speakers": [
         "Chiara Capraro",
         "Deborah Frances-White"
@@ -1034,7 +1034,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4818825689.mp3?updated=1762644600",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3640",
+      "itunes_duration": "3670",
       "speakers": [
         "Deborah Frances-White",
         "Jessica Foste"
@@ -1059,7 +1059,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3080013107.mp3?updated=1762774461",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3188",
+      "itunes_duration": "3218",
       "speakers": [
         "Deborah Frances-White",
         "Jessica Foste"
@@ -1084,7 +1084,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7326543629.mp3?updated=1762525490",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2185",
+      "itunes_duration": "2215",
       "speakers": [
         "Roadkill Presented",
         "Deborah Frances-White"
@@ -1107,7 +1107,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4495026622.mp3?updated=1762098776",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3456",
+      "itunes_duration": "3486",
       "speakers": [
         "Neil Datta",
         "Deborah Frances-White"
@@ -1129,7 +1129,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1504018410.mp3?updated=1761509855",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4216",
+      "itunes_duration": "4246",
       "speakers": [
         "Jessica Swale",
         "Deborah Frances-White"
@@ -1150,7 +1150,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9083568827.mp3?updated=1760353858",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5849",
+      "itunes_duration": "5879",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -1170,7 +1170,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6074233945.mp3?updated=1760361825",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2692",
+      "itunes_duration": "2722",
       "speakers": [
         "Lucy Karczewski",
         "Nia Towle",
@@ -1194,7 +1194,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1116415170.mp3?updated=1775818271",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1969",
+      "itunes_duration": "2089",
       "speakers": [
         "Alaa Al-ghoul",
         "Deborah Frances-White"
@@ -1214,7 +1214,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3386553560.mp3?updated=1759702086",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3391",
+      "itunes_duration": "3421",
       "speakers": [
         "Emma Walker",
         "Deborah Frances-White"
@@ -1240,7 +1240,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5865745969.mp3?updated=1758983055",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2868",
+      "itunes_duration": "2898",
       "speakers": [
         "Emily Burns",
         "Deborah Frances-White"
@@ -1262,7 +1262,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3522076704.mp3?updated=1759759940",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5060",
+      "itunes_duration": "5090",
       "speakers": [
         "Jessica Fostekew",
         "Josie Naughton",
@@ -1291,7 +1291,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5707541385.mp3?updated=1759759760",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3115",
+      "itunes_duration": "3145",
       "speakers": [
         "Jessica Fostekew",
         "Chantelle Lunt",
@@ -1318,7 +1318,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5032394823.mp3?updated=1759759888",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2799",
+      "itunes_duration": "2829",
       "speakers": [
         "Yassmin Abdel-Magied",
         "Mariam Khan",
@@ -1345,7 +1345,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3581177718.mp3?updated=1759759939",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3531",
+      "itunes_duration": "3561",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -1366,7 +1366,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1934703458.mp3?updated=1759760388",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4468",
+      "itunes_duration": "4498",
       "speakers": [
         "Katie Mulgrew",
         "Deborah Frances-White"
@@ -1390,7 +1390,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2472205609.mp3?updated=1759760345",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3200",
+      "itunes_duration": "3230",
       "speakers": [
         "Sanne Søndergaard",
         "Sofie Hagen",
@@ -1414,7 +1414,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8681411016.mp3?updated=1759760465",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3811",
+      "itunes_duration": "3841",
       "speakers": [
         "Suzie Miller",
         "Deborah Frances-White",
@@ -1437,7 +1437,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9910332455.mp3?updated=1759760473",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4860",
+      "itunes_duration": "4890",
       "speakers": [
         "Abigoliah Schamaun",
         "Deborah Frances-White",
@@ -1461,7 +1461,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5846174101.mp3?updated=1759265803",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3129",
+      "itunes_duration": "3159",
       "speakers": [
         "Gemma Cairney",
         "Amika George",
@@ -1492,7 +1492,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9740421619.mp3?updated=1759265798",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4467",
+      "itunes_duration": "4497",
       "speakers": [
         "Juno Dawson",
         "Deborah Frances-White"
@@ -1517,7 +1517,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7260329448.mp3?updated=1759265706",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2645",
+      "itunes_duration": "2675",
       "speakers": [
         "Jess O’Thomson",
         "Jude Guaitamacchi",
@@ -1541,7 +1541,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6202780926.mp3?updated=1759266281",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6102",
+      "itunes_duration": "6132",
       "speakers": [
         "Emma Smith",
         "Deborah Frances-White",
@@ -1565,7 +1565,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9103881641.mp3?updated=1759266147",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4578",
+      "itunes_duration": "4608",
       "speakers": [
         "Edinburgh Previews",
         "Bec Hill",
@@ -1594,7 +1594,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8409725731.mp3?updated=1759265879",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5072",
+      "itunes_duration": "5102",
       "speakers": [
         "Deborah Frances-White",
         "Grace Petrie"
@@ -1618,7 +1618,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6335756824.mp3?updated=1759266022",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4419",
+      "itunes_duration": "4449",
       "speakers": [
         "Edinburgh Previews",
         "Jess Robinson",
@@ -1648,7 +1648,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2731867767.mp3?updated=1759266175",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5610",
+      "itunes_duration": "5640",
       "speakers": [
         "Lee Knight",
         "Syrus Lowe",
@@ -1673,7 +1673,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9043084305.mp3?updated=1759266132",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4291",
+      "itunes_duration": "4321",
       "speakers": [
         "Deborah Frances-White",
         "Alison Spittle"
@@ -1696,7 +1696,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1866815190.mp3?updated=1759265923",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4881",
+      "itunes_duration": "4911",
       "speakers": [
         "Margaret Cabourn-Smith",
         "Deborah Frances-White",
@@ -1721,7 +1721,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2210941009.mp3?updated=1759266002",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3674",
+      "itunes_duration": "3704",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -1743,7 +1743,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9881681873.mp3?updated=1759265965",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4267",
+      "itunes_duration": "4297",
       "speakers": [
         "Sara Barron",
         "Deborah Frances-White"
@@ -1766,7 +1766,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6931024097.mp3?updated=1759265755",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3405",
+      "itunes_duration": "3435",
       "speakers": [
         "Mara Clarke",
         "Justyna Wydrzyńska",
@@ -1794,7 +1794,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8133510376.mp3?updated=1759266074",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5212",
+      "itunes_duration": "5242",
       "speakers": [
         "Bec Hill",
         "Deborah Frances-White",
@@ -1817,7 +1817,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5854294546.mp3?updated=1775818248",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "506",
+      "itunes_duration": "536",
       "speakers": [
         "Alaa Al-ghoul",
         "Deborah Frances-White"
@@ -1842,7 +1842,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5690944214.mp3?updated=1759266157",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5555",
+      "itunes_duration": "5585",
       "speakers": [
         "Grace Petrie",
         "Deborah Frances-White"
@@ -1865,7 +1865,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2616332616.mp3?updated=1759265942",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4073",
+      "itunes_duration": "4103",
       "speakers": [
         "Alison Spittle",
         "Deborah Frances-White",
@@ -1889,7 +1889,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9602162411.mp3?updated=1759265797",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3509",
+      "itunes_duration": "3539",
       "speakers": [
         "Colin McFarlane",
         "Deborah Frances-White"
@@ -1911,7 +1911,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7889209662.mp3?updated=1759265834",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4201",
+      "itunes_duration": "4231",
       "speakers": [
         "Natalie Bochenski",
         "Deborah Frances-White",
@@ -1935,7 +1935,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2807393135.mp3?updated=1775818034",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1347",
+      "itunes_duration": "1377",
       "speakers": [
         "Stella Creasy MP",
         "Deborah Frances-White"
@@ -1958,7 +1958,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6599394158.mp3?updated=1775818010",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1495",
+      "itunes_duration": "1525",
       "speakers": [
         "Alaa Al-ghoul mp",
         "Alaa Al-ghoul",
@@ -1981,7 +1981,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5978232881.mp3?updated=1759266092",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4843",
+      "itunes_duration": "4873",
       "speakers": [
         "Laura Bates",
         "Desiree Burch",
@@ -2005,7 +2005,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8310271912.mp3?updated=1759265923",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3367",
+      "itunes_duration": "3397",
       "speakers": [
         "Jessica Regan",
         "Deborah Frances-White"
@@ -2028,7 +2028,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7094905158.mp3?updated=1759266144",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5231",
+      "itunes_duration": "5261",
       "speakers": [
         "David Tennant",
         "Deborah Frances-White",
@@ -2050,7 +2050,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7501920109.mp3?updated=1759265814",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3345",
+      "itunes_duration": "3375",
       "speakers": [
         "Guilty Feminist",
         "Deborah Frances-White",
@@ -2074,7 +2074,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2264711715.mp3?updated=1775818133",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2121",
+      "itunes_duration": "2151",
       "speakers": [
         "Alaa Al-ghoul",
         "Deborah Frances-White"
@@ -2097,7 +2097,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9396272974.mp3?updated=1759266180",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4953",
+      "itunes_duration": "4983",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -2118,7 +2118,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6432841727.mp3?updated=1759266015",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4523",
+      "itunes_duration": "4553",
       "speakers": [
         "Shaparak Khorsandi",
         "Leila Navabi",
@@ -2146,7 +2146,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7108810509.mp3?updated=1759266218",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5799",
+      "itunes_duration": "5829",
       "speakers": [
         "Cancel Culture",
         "Josie Long",
@@ -2170,7 +2170,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4041983333.mp3?updated=1759266220",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4984",
+      "itunes_duration": "5014",
       "speakers": [
         "Jessica Fostekew",
         "Deborah Frances-White"
@@ -2191,7 +2191,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7474841997.mp3?updated=1759265781",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2874",
+      "itunes_duration": "2904",
       "speakers": [
         "Alison Bechdel",
         "Deborah Frances-White"
@@ -2212,7 +2212,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7929993305.mp3?updated=1759266277",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6819",
+      "itunes_duration": "6849",
       "speakers": [
         "Dan Schreiber",
         "Mara Clarke",
@@ -2242,7 +2242,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6439609563.mp3?updated=1759266216",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4804",
+      "itunes_duration": "4834",
       "speakers": [
         "Susan Wokoma",
         "Deborah Frances-White"
@@ -2263,7 +2263,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9651207081.mp3?updated=1759266097",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6005",
+      "itunes_duration": "6035",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -2283,7 +2283,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5675646228.mp3?updated=1775818035",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "269",
+      "itunes_duration": "299",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -2305,7 +2305,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7781680709.mp3?updated=1759265871",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4432",
+      "itunes_duration": "4462",
       "speakers": [
         "Fran Lusty",
         "Rosie Hewlett",
@@ -2329,7 +2329,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2533268144.mp3?updated=1759266027",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3962",
+      "itunes_duration": "3992",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -2352,7 +2352,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9860653324.mp3?updated=1759266148",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6958",
+      "itunes_duration": "6988",
       "speakers": [
         "Carrie Quinlan",
         "Rev Kate Harford",
@@ -2382,7 +2382,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3534600239.mp3?updated=1759265990",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3435",
+      "itunes_duration": "3465",
       "speakers": [
         "Annie Lennox",
         "Raakhi Shah",
@@ -2410,7 +2410,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6967791755.mp3?updated=1759266011",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4382",
+      "itunes_duration": "4412",
       "speakers": [
         "Claire Hooper",
         "Jennifer Robinson",
@@ -2435,7 +2435,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7646579893.mp3?updated=1759266028",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4622",
+      "itunes_duration": "4652",
       "speakers": [
         "Jamila Rizvi",
         "Astrid Edwards",
@@ -2464,7 +2464,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1543515269.mp3?updated=1759266128",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5037",
+      "itunes_duration": "5067",
       "speakers": [
         "Claire Hooper",
         "Gina Martin",
@@ -2488,7 +2488,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8711616282.mp3?updated=1759266022",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4653",
+      "itunes_duration": "4683",
       "speakers": [
         "Deborah Frances-White",
         "Zoe Coom"
@@ -2510,7 +2510,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4188470902.mp3?updated=1759265879",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3259",
+      "itunes_duration": "3289",
       "speakers": [
         "Natalie Evans",
         "Georgie Laming",
@@ -2536,7 +2536,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7093540170.mp3?updated=1759266026",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3915",
+      "itunes_duration": "3945",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -2555,7 +2555,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5699190220.mp3?updated=1759265764",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3508",
+      "itunes_duration": "3538",
       "speakers": [
         "Megumi Inman",
         "Shiori Ito",
@@ -2579,7 +2579,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6931415786.mp3?updated=1759266086",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4641",
+      "itunes_duration": "4671",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -2603,7 +2603,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9908725284.mp3?updated=1759265777",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3805",
+      "itunes_duration": "3835",
       "speakers": [
         "Kate Nash",
         "Deborah France",
@@ -2626,7 +2626,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5392827970.mp3?updated=1759265947",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3143",
+      "itunes_duration": "3173",
       "speakers": [
         "Sofie Hagen",
         "Emily Grossman",
@@ -2652,7 +2652,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9452567367.mp3?updated=1759266116",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4895",
+      "itunes_duration": "4925",
       "speakers": [
         "Abigoliah Schamaun",
         "Bonnie Greer",
@@ -2680,7 +2680,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8503113167.mp3?updated=1759266044",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4880",
+      "itunes_duration": "4910",
       "speakers": [
         "Mara Clarke",
         "Deborah Frances-White"
@@ -2706,7 +2706,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5705672753.mp3?updated=1759266234",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5863",
+      "itunes_duration": "5893",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -2726,7 +2726,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6011165999.mp3?updated=1759265998",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4180",
+      "itunes_duration": "4210",
       "speakers": [
         "Tressie McMillan Cottom",
         "Tressie McMillan Cottom Presented",
@@ -2750,7 +2750,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5099182144.mp3?updated=1759265811",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3961",
+      "itunes_duration": "3991",
       "speakers": [
         "Gillian Anderson",
         "Female Desire",
@@ -2773,7 +2773,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3858830173.mp3?updated=1759265738",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1973",
+      "itunes_duration": "2003",
       "speakers": [
         "Susan Wokoma",
         "Susan Wokoma Presented",
@@ -2795,7 +2795,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4235778618.mp3?updated=1759266129",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5805",
+      "itunes_duration": "5835",
       "speakers": [
         "Deborah Frances-White",
         "Sindhu Vee"
@@ -2819,7 +2819,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7875790695.mp3?updated=1759266265",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5724",
+      "itunes_duration": "5754",
       "speakers": [
         "Jessica Fostekew",
         "Kate Mosse",
@@ -2848,7 +2848,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1907924907.mp3?updated=1775817683",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3566",
+      "itunes_duration": "3596",
       "speakers": [
         "Election Monologues",
         "Jessica Hynes",
@@ -2879,7 +2879,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9011605208.mp3?updated=1759266267",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "8203",
+      "itunes_duration": "8233",
       "speakers": [
         "Susan Wokoma",
         "Millie Bobby Brown",
@@ -2908,7 +2908,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3703970639.mp3?updated=1759266057",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5626",
+      "itunes_duration": "5656",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -2928,7 +2928,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5436574432.mp3?updated=1759266104",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4836",
+      "itunes_duration": "4866",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -2946,7 +2946,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7795503487.mp3?updated=1759266025",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4032",
+      "itunes_duration": "4062",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -2964,7 +2964,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9308705621.mp3?updated=1759266076",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4068",
+      "itunes_duration": "4098",
       "speakers": [
         "Edinburgh Tattoos",
         "Chloe Petts",
@@ -2991,7 +2991,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9156162358.mp3?updated=1759266114",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4489",
+      "itunes_duration": "4519",
       "speakers": [
         "Kemah Bob",
         "Deborah Frances-White"
@@ -3015,7 +3015,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8989946877.mp3?updated=1759266249",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5628",
+      "itunes_duration": "5658",
       "speakers": [
         "Jessica Fostekew",
         "Deborah Frances-White"
@@ -3039,7 +3039,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5947632820.mp3?updated=1759266004",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4037",
+      "itunes_duration": "4067",
       "speakers": [
         "Rebekah Pierre",
         "Sarah Thomas",
@@ -3068,7 +3068,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8371290889.mp3?updated=1759266152",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3749",
+      "itunes_duration": "3779",
       "speakers": [
         "Catherine Bohart",
         "Helen Bauer",
@@ -3095,7 +3095,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2593971480.mp3?updated=1759266184",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4320",
+      "itunes_duration": "4350",
       "speakers": [
         "Georgia Takacs",
         "Deborah Frances-White"
@@ -3117,7 +3117,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9247466008.mp3?updated=1759266044",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3513",
+      "itunes_duration": "3543",
       "speakers": [
         "Sophie Willan",
         "Deborah Frances-White"
@@ -3138,7 +3138,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9065892597.mp3?updated=1759265761",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2773",
+      "itunes_duration": "2803",
       "speakers": [
         "Sofie Hagen",
         "Emma Kennedy",
@@ -3165,7 +3165,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2154276400.mp3?updated=1759266116",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3881",
+      "itunes_duration": "3911",
       "speakers": [
         "Kate Cheka",
         "Emma Sidi",
@@ -3193,7 +3193,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1478751624.mp3?updated=1759265749",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2280",
+      "itunes_duration": "2310",
       "speakers": [
         "Media Storm",
         "Mina Smallman",
@@ -3219,7 +3219,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1023140202.mp3?updated=1759266050",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3837",
+      "itunes_duration": "3867",
       "speakers": [
         "Geraldine Hickey",
         "Brihony Dawson",
@@ -3248,7 +3248,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9650437403.mp3?updated=1759266032",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3486",
+      "itunes_duration": "3516",
       "speakers": [
         "Geraldine Hickey",
         "Brihony Dawson",
@@ -3278,7 +3278,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5111939848.mp3?updated=1759265776",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2208",
+      "itunes_duration": "2238",
       "speakers": [
         "justice mp",
         "Deborah Frances-White"
@@ -3300,7 +3300,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2148112077.mp3?updated=1759266144",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4726",
+      "itunes_duration": "4756",
       "speakers": [
         "Natalie Winter",
         "Meghna Jayanth",
@@ -3328,7 +3328,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2636289598.mp3?updated=1759265799",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2709",
+      "itunes_duration": "2739",
       "speakers": [
         "Yve Blake",
         "Deborah Frances-White"
@@ -3352,7 +3352,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1089577402.mp3?updated=1759265767",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2486",
+      "itunes_duration": "2516",
       "speakers": [
         "Sarah Thornton",
         "Deborah Frances-White"
@@ -3376,7 +3376,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8392385822.mp3?updated=1759265942",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4025",
+      "itunes_duration": "4055",
       "speakers": [
         "Kathleen Hanna",
         "Deborah Frances-White Recor",
@@ -3403,7 +3403,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9605930103.mp3?updated=1759266182",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6253",
+      "itunes_duration": "6283",
       "speakers": [
         "Jessica Fostekew",
         "Melody Robinson",
@@ -3433,7 +3433,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6879341053.mp3?updated=1759266206",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5565",
+      "itunes_duration": "5595",
       "speakers": [
         "Guilty Feminist",
         "Edinburgh Previews",
@@ -3467,7 +3467,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9450369505.mp3?updated=1759266188",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4976",
+      "itunes_duration": "5006",
       "speakers": [
         "Jessica Fostekew",
         "Lauren Elkin",
@@ -3497,7 +3497,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5949595063.mp3?updated=1759265763",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2129",
+      "itunes_duration": "2159",
       "speakers": [
         "Guilty Feminist Culture Club",
         "Guilty Feminist Culture",
@@ -3524,7 +3524,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2521512972.mp3?updated=1775817475",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3123",
+      "itunes_duration": "3153",
       "speakers": [
         "Claire Hooper",
         "Dureshawar Khan",
@@ -3554,7 +3554,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1843206569.mp3?updated=1759266054",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4460",
+      "itunes_duration": "4490",
       "speakers": [
         "Claire Hooper",
         "Dureshawar Khan",
@@ -3585,7 +3585,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3521598115.mp3?updated=1759266067",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3732",
+      "itunes_duration": "3762",
       "speakers": [
         "Lynn Enright",
         "Deborah Frances-White",
@@ -3614,7 +3614,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6227365667.mp3?updated=1759265886",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3310",
+      "itunes_duration": "3340",
       "speakers": [
         "Alice Fraser",
         "Huda Fadlelmawla",
@@ -3644,7 +3644,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1156885401.mp3?updated=1759266199",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4319",
+      "itunes_duration": "4349",
       "speakers": [
         "Alice Fraser",
         "Huda Fadlelmawla",
@@ -3675,7 +3675,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7726495313.mp3?updated=1759265734",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2159",
+      "itunes_duration": "2189",
       "speakers": [
         "Susan Wokoma",
         "Rebekah Hinds",
@@ -3704,7 +3704,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5883975207.mp3?updated=1759266073",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4264",
+      "itunes_duration": "4294",
       "speakers": [
         "Magda Szubanski",
         "Deborah Frances-White"
@@ -3732,7 +3732,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1223032132.mp3?updated=1759266041",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3900",
+      "itunes_duration": "3930",
       "speakers": [
         "Magda Szubanski",
         "Deborah Frances-White"
@@ -3760,7 +3760,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6508140894.mp3?updated=1775818151",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2802",
+      "itunes_duration": "2832",
       "speakers": [
         "Geraldine Hickey",
         "Vivana Luzochimana",
@@ -3790,7 +3790,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8218410150.mp3?updated=1759266188",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4089",
+      "itunes_duration": "4119",
       "speakers": [
         "Geraldine Hickey",
         "Vivana Luzochimana",
@@ -3821,7 +3821,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4628998530.mp3?updated=1775818183",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3181",
+      "itunes_duration": "3211",
       "speakers": [
         "Sue Lytollis",
         "Arihia Latham",
@@ -3850,7 +3850,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3771280717.mp3?updated=1759266105",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4504",
+      "itunes_duration": "4534",
       "speakers": [
         "Sue Lytollis",
         "Arihia Latham",
@@ -3880,7 +3880,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5687827989.mp3?updated=1775818401",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3066",
+      "itunes_duration": "3096",
       "speakers": [
         "Julia Střelou",
         "Grace Petrie",
@@ -3908,7 +3908,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6868013552.mp3?updated=1759265836",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3612",
+      "itunes_duration": "3642",
       "speakers": [
         "Julia Střelou",
         "Grace Petrie",
@@ -3936,7 +3936,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7554403854.mp3?updated=1759265932",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4224",
+      "itunes_duration": "4254",
       "speakers": [
         "Daisy Lavea-Timo",
         "Sue Kedgley",
@@ -3964,7 +3964,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6815356073.mp3?updated=1759266177",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4701",
+      "itunes_duration": "4731",
       "speakers": [
         "Daisy Lavea-Timo",
         "Sue Kedgley",
@@ -3992,7 +3992,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4383392555.mp3?updated=1759266142",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5828",
+      "itunes_duration": "5858",
       "speakers": [
         "Stella Creasy",
         "Lisa Hallgarten",
@@ -4023,7 +4023,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3332804699.mp3?updated=1759266255",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4597",
+      "itunes_duration": "4627",
       "speakers": [
         "Abigoliah Schamaun",
         "Dina Mousawi",
@@ -4053,7 +4053,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5078969797.mp3?updated=1759265976",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3327",
+      "itunes_duration": "3357",
       "speakers": [
         "Binna Kandola",
         "Marianna Zajac",
@@ -4083,7 +4083,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9305799731.mp3?updated=1759266163",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4342",
+      "itunes_duration": "4372",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -4104,7 +4104,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2205292955.mp3?updated=1759265752",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1916",
+      "itunes_duration": "1946",
       "speakers": [
         "Anoushka Warden",
         "Anoushka Warden Presented",
@@ -4128,7 +4128,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2142428279.mp3?updated=1759266248",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6081",
+      "itunes_duration": "6111",
       "speakers": [
         "Deborah Frances-W",
         "Deborah Frances-White"
@@ -4154,7 +4154,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2344679580.mp3?updated=1775818128",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3331",
+      "itunes_duration": "3361",
       "speakers": [
         "Sara Barron",
         "Deborah Frances-White"
@@ -4176,7 +4176,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5285188823.mp3?updated=1775818289",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1543",
+      "itunes_duration": "1573",
       "speakers": [
         "Melanie Ward",
         "Deborah Frances-White"
@@ -4197,7 +4197,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8652136977.mp3?updated=1759266088",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4183",
+      "itunes_duration": "4213",
       "speakers": [
         "Rebecca Roache",
         "Deborah Frances-White"
@@ -4218,7 +4218,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3204614543.mp3?updated=1759266220",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4161",
+      "itunes_duration": "4191",
       "speakers": [
         "Abigoliah Schamaun",
         "India Rakusen",
@@ -4245,7 +4245,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2924360379.mp3?updated=1759266281",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4760",
+      "itunes_duration": "4790",
       "speakers": [
         "Jessica Fostekew",
         "Kirsty Sedgman",
@@ -4268,7 +4268,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9150416138.mp3?updated=1759265974",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2895",
+      "itunes_duration": "2925",
       "speakers": [
         "Sofie Hagen",
         "Deborah Frances-White"
@@ -4295,7 +4295,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8168105722.mp3?updated=1759266190",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4522",
+      "itunes_duration": "4552",
       "speakers": [
         "Eleanor Conway",
         "Deborah Frances-White"
@@ -4318,7 +4318,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5765410477.mp3?updated=1759265994",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3825",
+      "itunes_duration": "3855",
       "speakers": [
         "Monica Beletsky",
         "Deborah Frances-White"
@@ -4345,7 +4345,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6608944125.mp3?updated=1759266215",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4216",
+      "itunes_duration": "4246",
       "speakers": [
         "Hannah Einbinder",
         "Deborah Frances-Whit",
@@ -4372,7 +4372,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3678952919.mp3?updated=1759266105",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4681",
+      "itunes_duration": "4711",
       "speakers": [
         "Jessica Fostekew",
         "Olga Koch",
@@ -4399,7 +4399,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4770067205.mp3?updated=1759266043",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3112",
+      "itunes_duration": "3142",
       "speakers": [
         "Thea Sharrock",
         "Deborah Frances-White"
@@ -4427,7 +4427,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3847206774.mp3?updated=1759265955",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3155",
+      "itunes_duration": "3185",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -4450,7 +4450,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8785562989.mp3?updated=1759265921",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3711",
+      "itunes_duration": "3741",
       "speakers": [
         "Dolly Alderton",
         "Kemah Bob",
@@ -4477,7 +4477,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5625210630.mp3?updated=1775818387",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2768",
+      "itunes_duration": "2798",
       "speakers": [
         "Budour Hassan",
         "Khaled Dawas",
@@ -4502,7 +4502,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6960668462.mp3?updated=1759266190",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4921",
+      "itunes_duration": "4951",
       "speakers": [
         "Raoul Martinez",
         "Deborah Frances-White"
@@ -4529,7 +4529,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1822628538.mp3?updated=1759266182",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4556",
+      "itunes_duration": "4586",
       "speakers": [
         "Esther Manito",
         "Kate Cheka",
@@ -4553,7 +4553,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8678023442.mp3?updated=1759266220",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5796",
+      "itunes_duration": "5826",
       "speakers": [
         "Sammy Dobson",
         "Deborah Frances-White",
@@ -4580,7 +4580,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8547083157.mp3?updated=1759266055",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4837",
+      "itunes_duration": "4867",
       "speakers": [
         "Jessica Fostekew",
         "Lou Sanders",
@@ -4605,7 +4605,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5065420065.mp3?updated=1759265870",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3057",
+      "itunes_duration": "3087",
       "speakers": [
         "Jenny Eclair",
         "Deborah Frances-White",
@@ -4630,7 +4630,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8628290262.mp3?updated=1759266194",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4668",
+      "itunes_duration": "4698",
       "speakers": [
         "Alison Spittle",
         "Deborah Frances-White"
@@ -4654,7 +4654,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1214763768.mp3?updated=1759266024",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3080",
+      "itunes_duration": "3110",
       "speakers": [
         "Cariad Lloyd",
         "Deborah Frances-White",
@@ -4681,7 +4681,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4085080600.mp3?updated=1759266199",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4552",
+      "itunes_duration": "4582",
       "speakers": [
         "Jessica Fostekew",
         "Mary O’Connell",
@@ -4704,7 +4704,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1978562662.mp3?updated=1759266011",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3128",
+      "itunes_duration": "3158",
       "speakers": [
         "Deborah Frances-White",
         "Sofie Hagen"
@@ -4728,7 +4728,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7674887045.mp3?updated=1759266234",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5170",
+      "itunes_duration": "5200",
       "speakers": [
         "Deborah Frances-White Re",
         "Deborah Frances-White"
@@ -4749,7 +4749,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6376021845.mp3?updated=1759265725",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1060",
+      "itunes_duration": "1090",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -4768,7 +4768,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2606385562.mp3?updated=1775818313",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3877",
+      "itunes_duration": "3907",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -4790,7 +4790,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1605152761.mp3?updated=1775818397",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6190",
+      "itunes_duration": "6220",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -4809,7 +4809,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5181873464.mp3?updated=1759266214",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4873",
+      "itunes_duration": "4903",
       "speakers": [
         "Jessica Fostekew",
         "Andi Osho",
@@ -4834,7 +4834,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9381746246.mp3?updated=1759266133",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5135",
+      "itunes_duration": "5165",
       "speakers": [
         "Susan Wokoma",
         "Liv Francis-Cornibert",
@@ -4864,7 +4864,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4800990352.mp3?updated=1759265921",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2627",
+      "itunes_duration": "2657",
       "speakers": [
         "Justyna Wydrzyñska",
         "Chiara Capraro",
@@ -4888,7 +4888,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6211547083.mp3?updated=1759266178",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4156",
+      "itunes_duration": "4186",
       "speakers": [
         "Chloe Petts",
         "Daisy Haggard",
@@ -4911,7 +4911,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5647533462.mp3?updated=1759266056",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3903",
+      "itunes_duration": "3933",
       "speakers": [
         "Margaret Cabourn Smith",
         "Jen Brister",
@@ -4939,7 +4939,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8714564691.mp3?updated=1759266201",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4505",
+      "itunes_duration": "4535",
       "speakers": [
         "Shaparak Khorsandi",
         "Leila Navabi",
@@ -4963,7 +4963,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1250815501.mp3?updated=1759266234",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5823",
+      "itunes_duration": "5853",
       "speakers": [
         "Cal Wilson",
         "Mark Hodge",
@@ -4983,7 +4983,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7520962052.mp3?updated=1759266112",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4468",
+      "itunes_duration": "4498",
       "speakers": [
         "Jessica Fostekew",
         "Mary Beard",
@@ -5007,7 +5007,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8019802594.mp3?updated=1759266129",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4310",
+      "itunes_duration": "4340",
       "speakers": [
         "Chloe Petts",
         "Rosamund Adoo-Kissi-Debrah Cbe",
@@ -5033,7 +5033,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8745803183.mp3?updated=1759266173",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4573",
+      "itunes_duration": "4603",
       "speakers": [
         "Cal Wilson",
         "Julia Gillard",
@@ -5062,7 +5062,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7215720532.mp3?updated=1759266179",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3943",
+      "itunes_duration": "3973",
       "speakers": [
         "Abigoliah Schamaun",
         "Chris Lani-McAllister",
@@ -5090,7 +5090,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8755699103.mp3?updated=1759266183",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4176",
+      "itunes_duration": "4206",
       "speakers": [
         "Abigoliah Schamaun",
         "Alex Cowan",
@@ -5117,7 +5117,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7485895649.mp3?updated=1775818030",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1650",
+      "itunes_duration": "1680",
       "speakers": [
         "Kate Bedding",
         "Deborah Frances-White"
@@ -5142,7 +5142,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5231836547.mp3?updated=1759266220",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5887",
+      "itunes_duration": "5917",
       "speakers": [
         "Desiree Burch",
         "Susan Skedd",
@@ -5169,7 +5169,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2403875837.mp3?updated=1759266146",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3837",
+      "itunes_duration": "3867",
       "speakers": [
         "Esther Manito",
         "Deborah Frances-White"
@@ -5194,7 +5194,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1878249599.mp3?updated=1759266215",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4492",
+      "itunes_duration": "4522",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -5214,7 +5214,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8777367830.mp3?updated=1759266153",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4787",
+      "itunes_duration": "4817",
       "speakers": [
         "Margaret Cabourn-Smith",
         "Sindhu Vee",
@@ -5240,7 +5240,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1661079148.mp3?updated=1759266250",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6044",
+      "itunes_duration": "6074",
       "speakers": [
         "Susan Wokoma",
         "Emma Butler",
@@ -5269,7 +5269,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4797942724.mp3?updated=1759266027",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3256",
+      "itunes_duration": "3286",
       "speakers": [
         "Abigoliah Schamaun",
         "Deborah Frances-White",
@@ -5294,7 +5294,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2577965960.mp3?updated=1759266251",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6451",
+      "itunes_duration": "6481",
       "speakers": [
         "Grace Petrie",
         "Deborah Frances-White"
@@ -5322,7 +5322,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2212821804.mp3?updated=1759266069",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3569",
+      "itunes_duration": "3599",
       "speakers": [
         "Jessica Fostekew",
         "Deborah Frances-White",
@@ -5346,7 +5346,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6320959241.mp3?updated=1775818354",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2291",
+      "itunes_duration": "2321",
       "speakers": [
         "Hannah George",
         "Catie Wilkins",
@@ -5374,7 +5374,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8183276319.mp3?updated=1759265738",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1069",
+      "itunes_duration": "1099",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -5397,7 +5397,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8835669080.mp3?updated=1759265780",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2155",
+      "itunes_duration": "2185",
       "speakers": [
         "Jo Caulfield",
         "Deborah Frances-White"
@@ -5422,7 +5422,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6991963169.mp3?updated=1759266177",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4490",
+      "itunes_duration": "4520",
       "speakers": [
         "Maggie Aderin-Pocock",
         "Dr Anne-Marie Imafidon",
@@ -5452,7 +5452,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3438303626.mp3?updated=1759266208",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4204",
+      "itunes_duration": "4234",
       "speakers": [
         "Margaret Cabourn-Smith",
         "Deborah Frances-White",
@@ -5477,7 +5477,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2486640653.mp3?updated=1759266046",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4752",
+      "itunes_duration": "4782",
       "speakers": [
         "Rachel Parris",
         "Alix Fox",
@@ -5504,7 +5504,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4906665140.mp3?updated=1759266031",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5089",
+      "itunes_duration": "5119",
       "speakers": [
         "Sara Pascoe",
         "Deborah Frances-White"
@@ -5527,7 +5527,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1331236242.mp3?updated=1759266053",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3407",
+      "itunes_duration": "3437",
       "speakers": [
         "Sofie Hagen",
         "Susan Calman",
@@ -5554,7 +5554,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3628018649.mp3?updated=1759266206",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4869",
+      "itunes_duration": "4899",
       "speakers": [
         "Syrus Lowe",
         "Lee Knight",
@@ -5579,7 +5579,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6302074105.mp3?updated=1759265923",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2333",
+      "itunes_duration": "2363",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -5603,7 +5603,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1660301211.mp3?updated=1759266190",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4677",
+      "itunes_duration": "4707",
       "speakers": [
         "Cal Wilson",
         "Kristine Ziwica",
@@ -5632,7 +5632,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2904689738.mp3?updated=1759265980",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2978",
+      "itunes_duration": "3008",
       "speakers": [
         "Catherine Bohart",
         "Deborah Frances-White",
@@ -5656,7 +5656,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3574160583.mp3?updated=1759265761",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "941",
+      "itunes_duration": "971",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -5679,7 +5679,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1482311116.mp3?updated=1759266200",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4504",
+      "itunes_duration": "4534",
       "speakers": [
         "Jessica Fostekew",
         "Samara Bay",
@@ -5703,7 +5703,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9055889870.mp3?updated=1759266298",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4626",
+      "itunes_duration": "4656",
       "speakers": [
         "Deborah Frances-White",
         "Alison Spittle"
@@ -5726,7 +5726,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5069313309.mp3?updated=1759266188",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3997",
+      "itunes_duration": "4027",
       "speakers": [
         "Fatiha El-Ghorri",
         "Tatty Macleod",
@@ -5752,7 +5752,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6900567107.mp3?updated=1759266168",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4491",
+      "itunes_duration": "4521",
       "speakers": [
         "Jessica Regan",
         "Deborah Frances-White"
@@ -5775,7 +5775,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3683056433.mp3?updated=1759265790",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1685",
+      "itunes_duration": "1715",
       "speakers": [
         "Media Storm",
         "Deborah Frances-White"
@@ -5798,7 +5798,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1479253095.mp3?updated=1759266209",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5012",
+      "itunes_duration": "5042",
       "speakers": [
         "Fatiha El-Ghorri",
         "Jaz O’Hara",
@@ -5825,7 +5825,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2460731311.mp3?updated=1759266160",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3529",
+      "itunes_duration": "3559",
       "speakers": [
         "Bec Hill",
         "Deborah Frances-White",
@@ -5848,7 +5848,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9381815297.mp3?updated=1759266195",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4209",
+      "itunes_duration": "4239",
       "speakers": [
         "Alison Spittle",
         "Christie Watson",
@@ -5874,7 +5874,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4955226260.mp3?updated=1759266133",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3730",
+      "itunes_duration": "3760",
       "speakers": [
         "Sara Barron",
         "Deborah Frances-White"
@@ -5898,7 +5898,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5360647263.mp3?updated=1759265770",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1503",
+      "itunes_duration": "1533",
       "speakers": [
         "Mathilda Mallinson",
         "Deborah Frances-White"
@@ -5924,7 +5924,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2925405771.mp3?updated=1759266272",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4470",
+      "itunes_duration": "4500",
       "speakers": [
         "Alison Spittle",
         "Priya Joi",
@@ -5948,7 +5948,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2596727887.mp3?updated=1759266163",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4577",
+      "itunes_duration": "4607",
       "speakers": [
         "Chloe Petts",
         "Laura Lexx",
@@ -5973,7 +5973,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1810450742.mp3?updated=1759265772",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1536",
+      "itunes_duration": "1566",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -5993,7 +5993,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8500722170.mp3?updated=1759266171",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4682",
+      "itunes_duration": "4712",
       "speakers": [
         "Sarah Keyworth",
         "Anna Leong Brophy",
@@ -6023,7 +6023,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7978148974.mp3?updated=1759266363",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5173",
+      "itunes_duration": "5203",
       "speakers": [
         "Jessica Fostekew",
         "Jessica Fostekew Presented",
@@ -6044,7 +6044,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5081859046.mp3?updated=1759266200",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4515",
+      "itunes_duration": "4545",
       "speakers": [
         "Alison Spittle",
         "Deborah Frances-White"
@@ -6064,7 +6064,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1001645912.mp3?updated=1759266192",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4031",
+      "itunes_duration": "4061",
       "speakers": [
         "Sara Pascoe",
         "Deborah Frances-White"
@@ -6085,7 +6085,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6555493102.mp3?updated=1759265837",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1796",
+      "itunes_duration": "1826",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -6104,7 +6104,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3541623547.mp3?updated=1759266250",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5214",
+      "itunes_duration": "5244",
       "speakers": [
         "Stef Tisdell",
         "Cheryl Crilly",
@@ -6128,7 +6128,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4876946613.mp3?updated=1759266196",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4525",
+      "itunes_duration": "4555",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -6151,7 +6151,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4410955568.mp3?updated=1775818237",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "256",
+      "itunes_duration": "286",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -6171,7 +6171,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1658913694.mp3?updated=1759266202",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4460",
+      "itunes_duration": "4490",
       "speakers": [
         "Molly Naylor",
         "Deborah Frances-White"
@@ -6194,7 +6194,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9693135874.mp3?updated=1759265970",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3058",
+      "itunes_duration": "3088",
       "speakers": [
         "Alison Spittle",
         "Tracy Ryan",
@@ -6226,7 +6226,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7435886146.mp3?updated=1759266285",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4964",
+      "itunes_duration": "4994",
       "speakers": [
         "Zoe Brownstone",
         "Esther Manito",
@@ -6251,7 +6251,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1581341333.mp3?updated=1775818086",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1868",
+      "itunes_duration": "1898",
       "speakers": [
         "Sara Barron",
         "Deborah Frances-Whi",
@@ -6277,7 +6277,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4368311340.mp3?updated=1759265791",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1546",
+      "itunes_duration": "1576",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -6298,7 +6298,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1038740618.mp3?updated=1759266145",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3288",
+      "itunes_duration": "3318",
       "speakers": [
         "Jessica Fostekew",
         "Florence Schechter",
@@ -6324,7 +6324,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6180448103.mp3?updated=1759266275",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4612",
+      "itunes_duration": "4642",
       "speakers": [
         "Budget Cuts",
         "Sarah Keyworth",
@@ -6350,7 +6350,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6999186908.mp3?updated=1759266417",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5627",
+      "itunes_duration": "5657",
       "speakers": [
         "Jessica Fostekew",
         "Hélène Sifre",
@@ -6378,7 +6378,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1900812631.mp3?updated=1759265867",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "965",
+      "itunes_duration": "995",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -6398,7 +6398,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2565654437.mp3?updated=1759266191",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4268",
+      "itunes_duration": "4298",
       "speakers": [
         "Helen Bauer",
         "Ellie Dixon",
@@ -6427,7 +6427,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9426737431.mp3?updated=1759266130",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3504",
+      "itunes_duration": "3534",
       "speakers": [
         "Helen Bauer",
         "Ellie Dixon",
@@ -6456,7 +6456,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4747565341.mp3?updated=1759265907",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1167",
+      "itunes_duration": "1197",
       "speakers": [
         "Mathilda Mallinson",
         "Deborah Frances-White"
@@ -6479,7 +6479,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2516034487.mp3?updated=1759266264",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4267",
+      "itunes_duration": "4297",
       "speakers": [
         "Sarah Keyworth",
         "Cariad Lloyd",
@@ -6504,7 +6504,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9720581819.mp3?updated=1759265869",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1547",
+      "itunes_duration": "1577",
       "speakers": [
         "Deborah Frances-White",
         "Alison Oliver",
@@ -6529,7 +6529,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6048436596.mp3?updated=1775817924",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "251",
+      "itunes_duration": "281",
       "speakers": [
         "Visionary Arts Awards",
         "Media Storm Media Storm",
@@ -6556,7 +6556,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7298232457.mp3?updated=1759266163",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4589",
+      "itunes_duration": "4619",
       "speakers": [
         "Alison Spittle",
         "Gemma Bradley",
@@ -6582,7 +6582,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5755164700.mp3?updated=1775818415",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2707",
+      "itunes_duration": "2737",
       "speakers": [
         "Alison Spittle",
         "Gemma Bradley",
@@ -6608,7 +6608,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5260812100.mp3?updated=1759266309",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5016",
+      "itunes_duration": "5046",
       "speakers": [
         "Zoe Brownstone",
         "Priya Hall",
@@ -6635,7 +6635,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3727132287.mp3?updated=1759266109",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2140",
+      "itunes_duration": "2170",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -6658,7 +6658,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7330524381.mp3?updated=1759266207",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3606",
+      "itunes_duration": "3636",
       "speakers": [
         "Jessica Fostekew",
         "Deborah Frances-Whit",
@@ -6681,7 +6681,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4981782197.mp3?updated=1759266279",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4644",
+      "itunes_duration": "4674",
       "speakers": [
         "Cal Wilson",
         "Julia Zemiro",
@@ -6710,7 +6710,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7987554246.mp3?updated=1759266157",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3772",
+      "itunes_duration": "3802",
       "speakers": [
         "Cal Wilson",
         "Julia Zemiro",
@@ -6739,7 +6739,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5675616079.mp3?updated=1759266364",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4802",
+      "itunes_duration": "4832",
       "speakers": [
         "Alison Spittle",
         "Fern Brady Present",
@@ -6763,7 +6763,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9669233761.mp3?updated=1759265984",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1783",
+      "itunes_duration": "1813",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -6788,7 +6788,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6844376765.mp3?updated=1759266288",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4770",
+      "itunes_duration": "4800",
       "speakers": [
         "Jessica Fostekew",
         "Catherine Cohen",
@@ -6814,7 +6814,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5886882687.mp3?updated=1759266397",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4965",
+      "itunes_duration": "4995",
       "speakers": [
         "Jamie Klingler",
         "Mandu Reid",
@@ -6843,7 +6843,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8907979840.mp3?updated=1759266243",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4696",
+      "itunes_duration": "4726",
       "speakers": [
         "Jessica Fostekew",
         "Chloe Petts",
@@ -6867,7 +6867,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4952865380.mp3?updated=1759265970",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1691",
+      "itunes_duration": "1721",
       "speakers": [
         "Ramita Navai",
         "Rogine Babaei",
@@ -6892,7 +6892,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2654449262.mp3?updated=1759266260",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4827",
+      "itunes_duration": "4857",
       "speakers": [
         "Shaparak Khorsandi",
         "Deborah Frances-White"
@@ -6918,7 +6918,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2023079965.mp3?updated=1759266180",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3070",
+      "itunes_duration": "3100",
       "speakers": [
         "Cal Wilson",
         "Deborah Frances-White",
@@ -6942,7 +6942,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8793238565.mp3?updated=1759266245",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4508",
+      "itunes_duration": "4538",
       "speakers": [
         "Cal Wilson",
         "Deborah Frances-White",
@@ -6966,7 +6966,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2655152418.mp3?updated=1759266239",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3577",
+      "itunes_duration": "3607",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -6985,7 +6985,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1700493680.mp3?updated=1759266184",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3447",
+      "itunes_duration": "3477",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -7004,7 +7004,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6560788157.mp3?updated=1759266117",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2252",
+      "itunes_duration": "2282",
       "speakers": [
         "Deborah Frances-White",
         "Farah Coming"
@@ -7031,7 +7031,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4754093457.mp3?updated=1759266190",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3462",
+      "itunes_duration": "3492",
       "speakers": [
         "Mai Chen",
         "Deborah Frances-White"
@@ -7054,7 +7054,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1550861712.mp3?updated=1759266191",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3619",
+      "itunes_duration": "3649",
       "speakers": [
         "Mai Chen",
         "Grace Petrie",
@@ -7078,7 +7078,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1058966644.mp3?updated=1759266103",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1889",
+      "itunes_duration": "1919",
       "speakers": [
         "Megha Mohan",
         "Deborah Frances-White"
@@ -7098,7 +7098,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7749506937.mp3?updated=1759266296",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4822",
+      "itunes_duration": "4852",
       "speakers": [
         "Kemah Bob",
         "Seyi Akiwowo",
@@ -7123,7 +7123,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5396116886.mp3?updated=1759266215",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3836",
+      "itunes_duration": "3866",
       "speakers": [
         "Cal Wilson",
         "Annie Potts",
@@ -7151,7 +7151,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9322649849.mp3?updated=1759266212",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3834",
+      "itunes_duration": "3864",
       "speakers": [
         "Cal Wilson",
         "Annie Potts",
@@ -7179,7 +7179,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6693778200.mp3?updated=1759265931",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1347",
+      "itunes_duration": "1377",
       "speakers": [
         "Leanne Alie Warning",
         "Deborah Frances-White"
@@ -7199,7 +7199,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4062083333.mp3?updated=1775818360",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2356",
+      "itunes_duration": "2386",
       "speakers": [
         "Jessica Regan",
         "Wunmi Mosaku",
@@ -7227,7 +7227,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4177192944.mp3?updated=1759266163",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4020",
+      "itunes_duration": "4050",
       "speakers": [
         "Kemah Bob",
         "Jordan Gray",
@@ -7252,7 +7252,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4256982618.mp3?updated=1759266142",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4011",
+      "itunes_duration": "4041",
       "speakers": [
         "Amao Leota Lu",
         "Deborah Frances-White"
@@ -7280,7 +7280,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6166178093.mp3?updated=1759266123",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3736",
+      "itunes_duration": "3766",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -7307,7 +7307,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7807104970.mp3?updated=1759266178",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3313",
+      "itunes_duration": "3343",
       "speakers": [
         "Stuart Murphy",
         "Soraya Mafi",
@@ -7336,7 +7336,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1951608907.mp3?updated=1759265903",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "913",
+      "itunes_duration": "943",
       "speakers": [
         "Leanne Yau",
         "Deborah Frances-White"
@@ -7358,7 +7358,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3601661165.mp3?updated=1759266124",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3447",
+      "itunes_duration": "3477",
       "speakers": [
         "Njambi McGrath",
         "Deborah Frances-White"
@@ -7385,7 +7385,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2255757870.mp3?updated=1759266165",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2479",
+      "itunes_duration": "2509",
       "speakers": [
         "Juliet Stevenson",
         "Juliet Stevenson Presented",
@@ -7412,7 +7412,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4233130510.mp3?updated=1759266245",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3259",
+      "itunes_duration": "3289",
       "speakers": [
         "Steph Tisdell",
         "Breeanna Brock",
@@ -7438,7 +7438,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2370360539.mp3?updated=1759266223",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3867",
+      "itunes_duration": "3897",
       "speakers": [
         "Steph Tisdell",
         "Breeanna Brock",
@@ -7464,7 +7464,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8234257694.mp3?updated=1759266193",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3894",
+      "itunes_duration": "3924",
       "speakers": [
         "Laura Bates",
         "Deborah Frances-White"
@@ -7490,7 +7490,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9559113815.mp3?updated=1759265992",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1784",
+      "itunes_duration": "1814",
       "speakers": [
         "Eastern European",
         "Media Storm",
@@ -7511,7 +7511,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7195311361.mp3?updated=1759266287",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4513",
+      "itunes_duration": "4543",
       "speakers": [
         "Kemah Bob",
         "Chris Lani-McAllister",
@@ -7535,7 +7535,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4565412364.mp3?updated=1759266143",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3408",
+      "itunes_duration": "3438",
       "speakers": [
         "Kemah Bob",
         "Rosie Holt",
@@ -7561,7 +7561,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5371220338.mp3?updated=1759265890",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1014",
+      "itunes_duration": "1044",
       "speakers": [
         "Scarlett Curtis",
         "Kamilah McInnis",
@@ -7586,7 +7586,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8203244198.mp3?updated=1759266166",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4164",
+      "itunes_duration": "4194",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -7608,7 +7608,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7251605108.mp3?updated=1775818396",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3297",
+      "itunes_duration": "3327",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -7630,7 +7630,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3530359056.mp3?updated=1759266241",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3727",
+      "itunes_duration": "3757",
       "speakers": [
         "Hammersmith Apollo",
         "Hammersmith Apollo Presented",
@@ -7653,7 +7653,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8996222322.mp3?updated=1759266127",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4290",
+      "itunes_duration": "4320",
       "speakers": [
         "Hammersmith Apollo",
         "Hammersmith Apollo Presented",
@@ -7676,7 +7676,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3226445454.mp3?updated=1759265930",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1715",
+      "itunes_duration": "1745",
       "speakers": [
         "Bell Ribeiro-Addy",
         "Deborah Frances-White"
@@ -7704,7 +7704,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9675710852.mp3?updated=1759266343",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5011",
+      "itunes_duration": "5041",
       "speakers": [
         "Brown Guilty Feminists",
         "Rubina Pabani",
@@ -7729,7 +7729,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9890028122.mp3?updated=1759266189",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3051",
+      "itunes_duration": "3081",
       "speakers": [
         "Jessica Regan",
         "Deborah Frances-White"
@@ -7756,7 +7756,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6279976622.mp3?updated=1759266204",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3413",
+      "itunes_duration": "3443",
       "speakers": [
         "Michelle Ryan",
         "Deborah Frances-White",
@@ -7783,7 +7783,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4993185246.mp3?updated=1759266233",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4135",
+      "itunes_duration": "4165",
       "speakers": [
         "Michelle Ryan",
         "Deborah Frances-White",
@@ -7810,7 +7810,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1598000326.mp3?updated=1759266248",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3862",
+      "itunes_duration": "3892",
       "speakers": [
         "Jessica Fostekew",
         "Deborah Frances-White"
@@ -7836,7 +7836,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1455885686.mp3?updated=1759266271",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5394",
+      "itunes_duration": "5424",
       "speakers": [
         "Geraldine Hickey",
         "Michelle Telfer",
@@ -7866,7 +7866,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2103753088.mp3?updated=1759266192",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4423",
+      "itunes_duration": "4453",
       "speakers": [
         "Geraldine Hickey",
         "Michelle Telfer",
@@ -7896,7 +7896,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9260674013.mp3?updated=1759266048",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1637",
+      "itunes_duration": "1667",
       "speakers": [
         "Reed Amber",
         "Florence Bark",
@@ -7920,7 +7920,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4760865400.mp3?updated=1759266185",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3687",
+      "itunes_duration": "3717",
       "speakers": [
         "Cordelia Stevenson",
         "Jack Wakely",
@@ -7949,7 +7949,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2607334169.mp3?updated=1759266119",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3179",
+      "itunes_duration": "3209",
       "speakers": [
         "Susan Wokoma",
         "Kemah Bob",
@@ -7980,7 +7980,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7999275447.mp3?updated=1759266171",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2775",
+      "itunes_duration": "2805",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -8003,7 +8003,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3446077784.mp3?updated=1759265990",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1172",
+      "itunes_duration": "1202",
       "speakers": [
         "Rachel Heaton",
         "Thimali Kodikara",
@@ -8030,7 +8030,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8106350514.mp3?updated=1759266188",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3357",
+      "itunes_duration": "3387",
       "speakers": [
         "Kemah Bob",
         "Josie Long",
@@ -8059,7 +8059,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6614312203.mp3?updated=1759266188",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2798",
+      "itunes_duration": "2828",
       "speakers": [
         "Kemah Bob",
         "Josie Long",
@@ -8088,7 +8088,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7758182609.mp3?updated=1759266057",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1534",
+      "itunes_duration": "1564",
       "speakers": [
         "Mathilda Mallinson",
         "Deborah Frances-White"
@@ -8110,7 +8110,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4643902936.mp3?updated=1759266191",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2917",
+      "itunes_duration": "2947",
       "speakers": [
         "Kemah Bob",
         "Ruth Madeley",
@@ -8138,7 +8138,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5217999997.mp3?updated=1759266209",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3709",
+      "itunes_duration": "3739",
       "speakers": [
         "Kemah Bob",
         "Ruth Madeley",
@@ -8166,7 +8166,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6476110150.mp3?updated=1759266018",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1741",
+      "itunes_duration": "1771",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -8186,7 +8186,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2649431959.mp3?updated=1759266252",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3574",
+      "itunes_duration": "3604",
       "speakers": [
         "Geraldine Hickey",
         "Anna Ziersch",
@@ -8216,7 +8216,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8760962226.mp3?updated=1759266230",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3312",
+      "itunes_duration": "3342",
       "speakers": [
         "Geraldine Hickey",
         "Anna Ziersch",
@@ -8246,7 +8246,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9918749682.mp3?updated=1759266304",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4910",
+      "itunes_duration": "4940",
       "speakers": [
         "Kemah Bob",
         "Deborah Frances-White"
@@ -8274,7 +8274,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7360251477.mp3?updated=1759266169",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3537",
+      "itunes_duration": "3567",
       "speakers": [
         "Kemah Bob",
         "Rachael Wiseman",
@@ -8303,7 +8303,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7871434560.mp3?updated=1759266043",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1864",
+      "itunes_duration": "1894",
       "speakers": [
         "Jamie Wareham",
         "Deborah Frances-White"
@@ -8323,7 +8323,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2843098480.mp3?updated=1759266181",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4466",
+      "itunes_duration": "4496",
       "speakers": [
         "Abigoliah Schamaun",
         "Melin Edomwonyi",
@@ -8352,7 +8352,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7905509159.mp3?updated=1759266192",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3038",
+      "itunes_duration": "3068",
       "speakers": [
         "Abigoliah Schamaun",
         "Melin Edomwonyi",
@@ -8381,7 +8381,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9160608001.mp3?updated=1759266153",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3887",
+      "itunes_duration": "3917",
       "speakers": [
         "Catherine Bohart",
         "Alison Spittle",
@@ -8408,7 +8408,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7243671267.mp3?updated=1759266126",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3566",
+      "itunes_duration": "3596",
       "speakers": [
         "Catherine Bohart",
         "Alison Spittle",
@@ -8435,7 +8435,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2584665228.mp3?updated=1775818052",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1352",
+      "itunes_duration": "1382",
       "speakers": [
         "Comfort Etim",
         "Deborah Frances-White"
@@ -8459,7 +8459,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3617399643.mp3?updated=1759266098",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1678",
+      "itunes_duration": "1708",
       "speakers": [
         "Rachel Charlton-Dailey",
         "Deborah Frances-White"
@@ -8480,7 +8480,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6074128101.mp3?updated=1759266258",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3830",
+      "itunes_duration": "3860",
       "speakers": [
         "Jessica Fostekew",
         "Deborah Frances",
@@ -8509,7 +8509,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6729160813.mp3?updated=1775818398",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2581",
+      "itunes_duration": "2611",
       "speakers": [
         "Jessica Fostekew",
         "Deborah Frances",
@@ -8538,7 +8538,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2103916980.mp3?updated=1759266387",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5352",
+      "itunes_duration": "5382",
       "speakers": [
         "Catherine Bohart",
         "Naomi Evans",
@@ -8567,7 +8567,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2857808069.mp3?updated=1775818237",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2741",
+      "itunes_duration": "2771",
       "speakers": [
         "Catherine Bohart",
         "Naomi Evans",
@@ -8597,7 +8597,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2476405259.mp3?updated=1759266050",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1510",
+      "itunes_duration": "1540",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -8616,7 +8616,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3891117312.mp3?updated=1759266176",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2851",
+      "itunes_duration": "2881",
       "speakers": [
         "Jonathan Van Ness",
         "Deborah Frances-White"
@@ -8637,7 +8637,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5261405313.mp3?updated=1759266137",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2294",
+      "itunes_duration": "2324",
       "speakers": [
         "Jonathan Van Ness",
         "Deborah Frances-White"
@@ -8658,7 +8658,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5223448963.mp3?updated=1759266370",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5843",
+      "itunes_duration": "5873",
       "speakers": [
         "Jessica Fostekew",
         "Sarah Ellis",
@@ -8688,7 +8688,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2173873648.mp3?updated=1759266176",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4673",
+      "itunes_duration": "4703",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -8708,7 +8708,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9580463869.mp3?updated=1759266544",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7573",
+      "itunes_duration": "7603",
       "speakers": [
         "Suzi Ruffell",
         "Deborah Frances-White"
@@ -8730,7 +8730,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1844043985.mp3?updated=1759266438",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6654",
+      "itunes_duration": "6684",
       "speakers": [
         "Amy Calvert",
         "Desiree Reynolds",
@@ -8760,7 +8760,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6814738230.mp3?updated=1759266265",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6624",
+      "itunes_duration": "6654",
       "speakers": [
         "Good Luck",
         "Emma Thompson",
@@ -8790,7 +8790,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2733014319.mp3?updated=1759266369",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5271",
+      "itunes_duration": "5301",
       "speakers": [
         "Jessica Fostekew",
         "Nerissa Simmone",
@@ -8821,7 +8821,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5632148311.mp3?updated=1759266246",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4721",
+      "itunes_duration": "4751",
       "speakers": [
         "Jessica Fostekew",
         "Jess Robinson",
@@ -8849,7 +8849,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5296265910.mp3?updated=1759266361",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6958",
+      "itunes_duration": "6988",
       "speakers": [
         "Jessica Fostekew",
         "Kerry Mackereth",
@@ -8875,7 +8875,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7078026617.mp3?updated=1759266216",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3791",
+      "itunes_duration": "3821",
       "speakers": [
         "Mark Hodge",
         "Deborah Frances-White"
@@ -8897,7 +8897,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8249585225.mp3?updated=1759266422",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5069",
+      "itunes_duration": "5099",
       "speakers": [
         "Suzi Ruffell",
         "Kemah Bob",
@@ -8926,7 +8926,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9015382557.mp3?updated=1775818076",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1317",
+      "itunes_duration": "1347",
       "speakers": [
         "Deborah Frances-White",
         "Sara Barron"
@@ -8946,7 +8946,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9713519488.mp3?updated=1759266217",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6590",
+      "itunes_duration": "6620",
       "speakers": [
         "Sarah Keyworth",
         "Athena Kuglenu",
@@ -8977,7 +8977,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8538263975.mp3?updated=1775818349",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2536",
+      "itunes_duration": "2566",
       "speakers": [
         "Mathilda Mallinson",
         "Deborah Frances-White"
@@ -9003,7 +9003,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8963713843.mp3?updated=1759266278",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3515",
+      "itunes_duration": "3545",
       "speakers": [
         "Kemah Bob",
         "Clodagh Finn",
@@ -9031,7 +9031,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2595185136.mp3?updated=1759266251",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3877",
+      "itunes_duration": "3907",
       "speakers": [
         "Kemah Bob",
         "Clodagh Finn",
@@ -9058,7 +9058,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1579345799.mp3?updated=1759266325",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5078",
+      "itunes_duration": "5108",
       "speakers": [
         "Millie Bobby Brown",
         "Deborah Frances-White",
@@ -9082,7 +9082,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6532210421.mp3?updated=1775818070",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3512",
+      "itunes_duration": "3542",
       "speakers": [
         "Millie Bobby Brown",
         "Susan Wokoma",
@@ -9107,7 +9107,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6993043139.mp3?updated=1759266180",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3788",
+      "itunes_duration": "3818",
       "speakers": [
         "Deborah Frances-White",
         "Tom Allen"
@@ -9128,7 +9128,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7607840576.mp3?updated=1759266365",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4637",
+      "itunes_duration": "4667",
       "speakers": [
         "Deborah Frances-White",
         "Tom Allen"
@@ -9149,7 +9149,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4420690367.mp3?updated=1759266776",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6764",
+      "itunes_duration": "6794",
       "speakers": [
         "Hannah Gadsby",
         "Deborah Frances-White"
@@ -9171,7 +9171,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7659921044.mp3?updated=1775818108",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3096",
+      "itunes_duration": "3126",
       "speakers": [
         "Candice Brathwaite",
         "Deborah Frances-White"
@@ -9193,7 +9193,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3304297680.mp3?updated=1759266197",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2424",
+      "itunes_duration": "2454",
       "speakers": [
         "Nicky Clark",
         "Meera Syal",
@@ -9219,7 +9219,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9710371555.mp3?updated=1759266496",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5613",
+      "itunes_duration": "5643",
       "speakers": [
         "Moan Zine",
         "Jayde Adams",
@@ -9248,7 +9248,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8966602708.mp3?updated=1759266165",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4322",
+      "itunes_duration": "4352",
       "speakers": [
         "Deborah Frances-White",
         "Chris Sween"
@@ -9272,7 +9272,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4186581624.mp3?updated=1759266153",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1705",
+      "itunes_duration": "1735",
       "speakers": [
         "Jamie Klingler Fought",
         "Deborah Frances-White",
@@ -9294,7 +9294,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4757214414.mp3?updated=1759266331",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5769",
+      "itunes_duration": "5799",
       "speakers": [
         "Walking Away",
         "Laurie Penny",
@@ -9326,7 +9326,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6134400614.mp3?updated=1759266261",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5306",
+      "itunes_duration": "5336",
       "speakers": [
         "Alison Spittle",
         "Mathilda Mallinson",
@@ -9353,7 +9353,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9015512778.mp3?updated=1759266220",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4529",
+      "itunes_duration": "4559",
       "speakers": [
         "Susan Wokoma",
         "Deborah Frances-White"
@@ -9378,7 +9378,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4794776457.mp3?updated=1759266218",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3131",
+      "itunes_duration": "3161",
       "speakers": [
         "Being Bolshy",
         "Sarah Keyworth",
@@ -9404,7 +9404,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7852110607.mp3?updated=1759266227",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3031",
+      "itunes_duration": "3061",
       "speakers": [
         "Deborah Frances-White",
         "Grace Petrie"
@@ -9426,7 +9426,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3570379227.mp3?updated=1759266229",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3287",
+      "itunes_duration": "3317",
       "speakers": [
         "Deborah Frances-White",
         "Grace Petrie"
@@ -9448,7 +9448,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6363904916.mp3?updated=1759266250",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4936",
+      "itunes_duration": "4966",
       "speakers": [
         "Sarah Keyworth",
         "Mary Ann Sieghart",
@@ -9473,7 +9473,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1202188755.mp3?updated=1759266396",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4857",
+      "itunes_duration": "4887",
       "speakers": [
         "Ginny Hogan",
         "Maxine Peake",
@@ -9498,7 +9498,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6607124789.mp3?updated=1759266353",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4493",
+      "itunes_duration": "4523",
       "speakers": [
         "Jessica Fostekew",
         "Juno Dawson",
@@ -9524,7 +9524,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8030213165.mp3?updated=1759266423",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5848",
+      "itunes_duration": "5878",
       "speakers": [
         "Sara Pascoe",
         "Deborah Frances-White"
@@ -9552,7 +9552,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5418959419.mp3?updated=1759266308",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4153",
+      "itunes_duration": "4183",
       "speakers": [
         "Alex Wyse",
         "Deborah Frances-White",
@@ -9575,7 +9575,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2588562470.mp3?updated=1759266323",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4788",
+      "itunes_duration": "4818",
       "speakers": [
         "Eliza Reid",
         "Deborah Frances-White",
@@ -9600,7 +9600,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4662066171.mp3?updated=1759266267",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3701",
+      "itunes_duration": "3731",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -9621,7 +9621,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2325192812.mp3?updated=1759266252",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3961",
+      "itunes_duration": "3991",
       "speakers": [
         "Jessica Fostekew",
         "Greer Forde-MacNaughton",
@@ -9652,7 +9652,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1800023534.mp3?updated=1759266268",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3891",
+      "itunes_duration": "3921",
       "speakers": [
         "Natalie Bochenski",
         "Deborah Frances-White",
@@ -9675,7 +9675,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7312014060.mp3?updated=1759266403",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4463",
+      "itunes_duration": "4493",
       "speakers": [
         "Kemah Bob",
         "Deborah Frances-White"
@@ -9697,7 +9697,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3383056369.mp3?updated=1759266225",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3255",
+      "itunes_duration": "3285",
       "speakers": [
         "Catherine Bohart",
         "Deborah Frances-White",
@@ -9720,7 +9720,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6196263887.mp3?updated=1759266330",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4450",
+      "itunes_duration": "4480",
       "speakers": [
         "Alison Spittle",
         "Deborah Frances-White"
@@ -9741,7 +9741,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2958969992.mp3?updated=1759266223",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3305",
+      "itunes_duration": "3335",
       "speakers": [
         "Jessica Regan",
         "Deborah Frances-White"
@@ -9763,7 +9763,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1712838432.mp3?updated=1759266581",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6202",
+      "itunes_duration": "6232",
       "speakers": [
         "Kathy Lette",
         "Deborah Frances-White"
@@ -9788,7 +9788,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3236499436.mp3?updated=1759266143",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2687",
+      "itunes_duration": "2717",
       "speakers": [
         "Alison Spittle",
         "Deborah Frances-White"
@@ -9810,7 +9810,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7102070370.mp3?updated=1759266415",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4691",
+      "itunes_duration": "4721",
       "speakers": [
         "Deborah Frances-White",
         "Grace Petrie"
@@ -9833,7 +9833,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2025243608.mp3?updated=1759266253",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4320",
+      "itunes_duration": "4350",
       "speakers": [
         "Sara Barron",
         "Deborah Frances-White"
@@ -9855,7 +9855,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3366569741.mp3?updated=1775818056",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2977",
+      "itunes_duration": "3007",
       "speakers": [
         "Sainsbury’s Recorded",
         "Deborah Frances-White"
@@ -9877,7 +9877,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9787490399.mp3?updated=1759266310",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5158",
+      "itunes_duration": "5188",
       "speakers": [
         "Catherine Bohart",
         "Soph Galustian",
@@ -9902,7 +9902,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5102271978.mp3?updated=1759266153",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1505",
+      "itunes_duration": "1535",
       "speakers": [
         "Guilty Feminist",
         "Siobhan Blak",
@@ -9923,7 +9923,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5228032546.mp3?updated=1759266267",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3358",
+      "itunes_duration": "3388",
       "speakers": [
         "Jessica Fostekew",
         "Anna Sharyhina",
@@ -9953,7 +9953,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5983510670.mp3?updated=1759266429",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5083",
+      "itunes_duration": "5113",
       "speakers": [
         "Katy Wix",
         "Deborah Frances-White"
@@ -9976,7 +9976,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1344127603.mp3?updated=1759266391",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5940",
+      "itunes_duration": "5970",
       "speakers": [
         "Cal Wilson",
         "Rachelle Panitz",
@@ -10001,7 +10001,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6407062531.mp3?updated=1759266286",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4141",
+      "itunes_duration": "4171",
       "speakers": [
         "Guilty Feminist",
         "Sean Presented",
@@ -10027,7 +10027,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4330102031.mp3?updated=1759266479",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5911",
+      "itunes_duration": "5941",
       "speakers": [
         "Catherine Bohart",
         "Rachel Sermanni",
@@ -10053,7 +10053,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2774040349.mp3?updated=1759266407",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5615",
+      "itunes_duration": "5645",
       "speakers": [
         "Bob Gill",
         "Rita Issa",
@@ -10080,7 +10080,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8890054599.mp3?updated=1759266359",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4657",
+      "itunes_duration": "4687",
       "speakers": [
         "Greenham Common",
         "Suzi Ruffel",
@@ -10107,7 +10107,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2376067170.mp3?updated=1759266351",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6072",
+      "itunes_duration": "6102",
       "speakers": [
         "Alison Spittle",
         "Grace Petrie",
@@ -10134,7 +10134,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9339876280.mp3?updated=1759266439",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5808",
+      "itunes_duration": "5838",
       "speakers": [
         "Bridget Christie",
         "Travis Alabanza",
@@ -10163,7 +10163,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6401211180.mp3?updated=1759266235",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3110",
+      "itunes_duration": "3140",
       "speakers": [
         "Jessica Fostekew",
         "Elena Soper",
@@ -10190,7 +10190,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2548236099.mp3?updated=1759266654",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6730",
+      "itunes_duration": "6760",
       "speakers": [
         "Monkey Business",
         "Kemah Bob",
@@ -10219,7 +10219,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8671437262.mp3?updated=1759266618",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5263",
+      "itunes_duration": "5293",
       "speakers": [
         "Mari Elen Jones",
         "Deborah Frances-White"
@@ -10243,7 +10243,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5141990420.mp3?updated=1759266517",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5279",
+      "itunes_duration": "5309",
       "speakers": [
         "Shaparak Khorsandi",
         "Nova Reid",
@@ -10270,7 +10270,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8866224191.mp3?updated=1759266270",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4580",
+      "itunes_duration": "4610",
       "speakers": [
         "Kemah Bob",
         "Deborah Frances-White"
@@ -10292,7 +10292,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3786700023.mp3?updated=1775818282",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "231",
+      "itunes_duration": "261",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -10311,7 +10311,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3480604889.mp3?updated=1759266324",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5668",
+      "itunes_duration": "5698",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -10331,7 +10331,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8794176448.mp3?updated=1775817929",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "343",
+      "itunes_duration": "373",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -10350,7 +10350,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3136365005.mp3?updated=1759266436",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6016",
+      "itunes_duration": "6046",
       "speakers": [
         "Sarah Keyworth",
         "Deborah Frances-White"
@@ -10373,7 +10373,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2597687954.mp3?updated=1759266374",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3879",
+      "itunes_duration": "3909",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -10395,7 +10395,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6693899170.mp3?updated=1759266529",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6122",
+      "itunes_duration": "6152",
       "speakers": [
         "Kemah Bob",
         "Mridul Wadhwa",
@@ -10418,7 +10418,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7667276530.mp3?updated=1759266561",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4481",
+      "itunes_duration": "4511",
       "speakers": [
         "Alison Spittle",
         "Ola Labib",
@@ -10442,7 +10442,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9210680690.mp3?updated=1759266629",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6497",
+      "itunes_duration": "6527",
       "speakers": [
         "Free Britney",
         "Kemah Bob",
@@ -10473,7 +10473,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2332758530.mp3?updated=1759266317",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5553",
+      "itunes_duration": "5583",
       "speakers": [
         "Yomi Adegoke",
         "Otegha Uwagba",
@@ -10498,7 +10498,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2752502466.mp3?updated=1759266356",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5281",
+      "itunes_duration": "5311",
       "speakers": [
         "Jeremy Hersh",
         "Jasmine Batchelor",
@@ -10524,7 +10524,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7476788679.mp3?updated=1759266441",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6111",
+      "itunes_duration": "6141",
       "speakers": [
         "Sol Escobar",
         "Dema Aktaa",
@@ -10550,7 +10550,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3045958560.mp3?updated=1759266466",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5032",
+      "itunes_duration": "5062",
       "speakers": [
         "Deborah Frances-White",
         "Athena Kugblenu",
@@ -10581,7 +10581,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9506590731.mp3?updated=1759266333",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4102",
+      "itunes_duration": "4132",
       "speakers": [
         "Rola Hallam",
         "Deborah Frances-White"
@@ -10604,7 +10604,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2344367349.mp3?updated=1759266586",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6043",
+      "itunes_duration": "6073",
       "speakers": [
         "Catherine Bohart",
         "Deborah Frances-White"
@@ -10626,7 +10626,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6685578819.mp3?updated=1759266282",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4535",
+      "itunes_duration": "4565",
       "speakers": [
         "Alison Spittle",
         "MiMi Aye",
@@ -10650,7 +10650,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8814985397.mp3?updated=1759266280",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4620",
+      "itunes_duration": "4650",
       "speakers": [
         "Susannah Fielding",
         "Pandora Sykes",
@@ -10674,7 +10674,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3095791753.mp3?updated=1759266411",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4343",
+      "itunes_duration": "4373",
       "speakers": [
         "Deborah Frances-White",
         "Alison Spittle"
@@ -10697,7 +10697,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6073822777.mp3?updated=1759266640",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7177",
+      "itunes_duration": "7207",
       "speakers": [
         "Jessica Fostekew",
         "Jonelle Lewis",
@@ -10729,7 +10729,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8405357603.mp3?updated=1759266444",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5556",
+      "itunes_duration": "5586",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -10748,7 +10748,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5208773790.mp3?updated=1759266375",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5386",
+      "itunes_duration": "5416",
       "speakers": [
         "Emma Dabiri",
         "Deborah Frances-White"
@@ -10771,7 +10771,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7880528639.mp3?updated=1759266628",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6306",
+      "itunes_duration": "6336",
       "speakers": [
         "Alison Bechdel",
         "Maria Bamford",
@@ -10798,7 +10798,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9561018349.mp3?updated=1759266386",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4803",
+      "itunes_duration": "4833",
       "speakers": [
         "Josie Long",
         "Silé Edwards",
@@ -10822,7 +10822,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9372236118.mp3?updated=1759266382",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4536",
+      "itunes_duration": "4566",
       "speakers": [
         "Romany Women",
         "Alison Spittle",
@@ -10853,7 +10853,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7180475479.mp3?updated=1759266529",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5382",
+      "itunes_duration": "5412",
       "speakers": [
         "Bell Ribeiro-Addy",
         "Patsy Stevenson",
@@ -10885,7 +10885,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5072399397.mp3?updated=1759266393",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3269",
+      "itunes_duration": "3299",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -10905,7 +10905,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3965490448.mp3?updated=1759266186",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4770",
+      "itunes_duration": "4800",
       "speakers": [
         "Edith Bowman",
         "Grace Petrie",
@@ -10931,7 +10931,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3208377622.mp3?updated=1759266441",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4646",
+      "itunes_duration": "4676",
       "speakers": [
         "Jo Brand",
         "Angela Saini",
@@ -10959,7 +10959,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7677438885.mp3?updated=1759266318",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3739",
+      "itunes_duration": "3769",
       "speakers": [
         "Marian Keyes",
         "Roxana Nic Liam",
@@ -10986,7 +10986,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2531174990.mp3?updated=1759266407",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4775",
+      "itunes_duration": "4805",
       "speakers": [
         "Steph Tisdell",
         "Mel Buttle",
@@ -11010,7 +11010,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2218774611.mp3?updated=1775818299",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "260",
+      "itunes_duration": "290",
       "speakers": [
         "Special Announcement",
         "Guilty Feminist International Women",
@@ -11034,7 +11034,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5179022519.mp3?updated=1759266368",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4264",
+      "itunes_duration": "4294",
       "speakers": [
         "Jill Nalder",
         "Deborah Frances-White"
@@ -11058,7 +11058,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8647861904.mp3?updated=1759266441",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4985",
+      "itunes_duration": "5015",
       "speakers": [
         "Jessica Fostekew",
         "Samantha Baines",
@@ -11083,7 +11083,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5957598676.mp3?updated=1759266417",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4865",
+      "itunes_duration": "4895",
       "speakers": [
         "Jessica Fostekew",
         "Yasmin Benoit",
@@ -11107,7 +11107,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9436799923.mp3?updated=1759266313",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3415",
+      "itunes_duration": "3445",
       "speakers": [
         "Cal Wilson",
         "Fiona Given",
@@ -11134,7 +11134,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9089536278.mp3?updated=1759266624",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5029",
+      "itunes_duration": "5059",
       "speakers": [
         "Gemma Tutton",
         "Deborah Frances-White",
@@ -11160,7 +11160,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1454680615.mp3?updated=1759266560",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5317",
+      "itunes_duration": "5347",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -11180,7 +11180,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7843813398.mp3?updated=1759266419",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5080",
+      "itunes_duration": "5110",
       "speakers": [
         "Deborah Frances-White",
         "Phoebe Waller-Bridge",
@@ -11205,7 +11205,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8111938051.mp3?updated=1759266526",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4382",
+      "itunes_duration": "4412",
       "speakers": [
         "Sophie Williams",
         "Deborah Frances-White"
@@ -11228,7 +11228,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9963095761.mp3?updated=1759266284",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2829",
+      "itunes_duration": "2859",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -11248,7 +11248,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3804021901.mp3?updated=1759266866",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "9024",
+      "itunes_duration": "9054",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -11267,7 +11267,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2874632616.mp3?updated=1759266555",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6107",
+      "itunes_duration": "6137",
       "speakers": [
         "Alison Spittle",
         "Juliet Stevenson",
@@ -11298,7 +11298,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8573938052.mp3?updated=1759266369",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3779",
+      "itunes_duration": "3809",
       "speakers": [
         "Sandi Toksvig",
         "Deborah Frances-White"
@@ -11319,7 +11319,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7735528627.mp3?updated=1759266250",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3149",
+      "itunes_duration": "3179",
       "speakers": [
         "Alison Spittle",
         "Vick Hope",
@@ -11345,7 +11345,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3436614381.mp3?updated=1759266303",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4857",
+      "itunes_duration": "4887",
       "speakers": [
         "Kemah Bob",
         "Mata Marielle",
@@ -11371,7 +11371,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5456584981.mp3?updated=1759266366",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5132",
+      "itunes_duration": "5162",
       "speakers": [
         "Richard Herring",
         "Will Hislop",
@@ -11396,7 +11396,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7377398509.mp3?updated=1759266576",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4153",
+      "itunes_duration": "4183",
       "speakers": [
         "Rachel Bloom",
         "Ruby Wax",
@@ -11419,7 +11419,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9239539187.mp3?updated=1759266375",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5243",
+      "itunes_duration": "5273",
       "speakers": [
         "Jamila Rizvi",
         "Colleen Hickman",
@@ -11449,7 +11449,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9414501017.mp3?updated=1759266407",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4523",
+      "itunes_duration": "4553",
       "speakers": [
         "Problem Solving",
         "Deborah Frances-White"
@@ -11473,7 +11473,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6872467714.mp3?updated=1759266273",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2737",
+      "itunes_duration": "2767",
       "speakers": [
         "Michelle Buteau",
         "Holly Whitaker",
@@ -11498,7 +11498,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1221350348.mp3?updated=1759266482",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5563",
+      "itunes_duration": "5593",
       "speakers": [
         "Travis Alabanza",
         "Deborah Frances-White"
@@ -11523,7 +11523,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2913947727.mp3?updated=1759266381",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4202",
+      "itunes_duration": "4232",
       "speakers": [
         "Jessica Fostekew",
         "Katie Melua",
@@ -11547,7 +11547,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7998361672.mp3?updated=1759266423",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4860",
+      "itunes_duration": "4890",
       "speakers": [
         "Jessica Fostekew",
         "Jean Owtram",
@@ -11571,7 +11571,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9114673250.mp3?updated=1759266370",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4712",
+      "itunes_duration": "4742",
       "speakers": [
         "Sindhu Vee",
         "Emma Howard Boyd",
@@ -11600,7 +11600,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8082077063.mp3?updated=1759266375",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4646",
+      "itunes_duration": "4676",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -11622,7 +11622,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3424068268.mp3?updated=1759266432",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5871",
+      "itunes_duration": "5901",
       "speakers": [
         "Susan Wokoma",
         "Bumi Thomas",
@@ -11649,7 +11649,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1061881401.mp3?updated=1759266600",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5754",
+      "itunes_duration": "5784",
       "speakers": [
         "Jayde Adams",
         "Stephanie Yeboah",
@@ -11673,7 +11673,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6055522545.mp3?updated=1759266303",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3879",
+      "itunes_duration": "3909",
       "speakers": [
         "Glenn Boozan",
         "Deborah Frances-White"
@@ -11695,7 +11695,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4376095812.mp3?updated=1759266385",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5398",
+      "itunes_duration": "5428",
       "speakers": [
         "Kemah Bob",
         "Jonelle Lewis",
@@ -11724,7 +11724,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8499544809.mp3?updated=1759266435",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4836",
+      "itunes_duration": "4866",
       "speakers": [
         "Alexandra Wilson",
         "Deborah Frances-White",
@@ -11752,7 +11752,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7371671604.mp3?updated=1759266361",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4613",
+      "itunes_duration": "4643",
       "speakers": [
         "Geraldine Hickey",
         "Kate McLennan",
@@ -11781,7 +11781,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7922620347.mp3?updated=1759266357",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4583",
+      "itunes_duration": "4613",
       "speakers": [
         "Kemah Bob",
         "Polly Neate",
@@ -11808,7 +11808,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1334267794.mp3?updated=1759266407",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3763",
+      "itunes_duration": "3793",
       "speakers": [
         "Karen Hawkins",
         "Deborah Frances-White"
@@ -11832,7 +11832,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6679766603.mp3?updated=1759266784",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6730",
+      "itunes_duration": "6760",
       "speakers": [
         "Athena Kugblenu",
         "Stephanie Pearson",
@@ -11861,7 +11861,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2180015178.mp3?updated=1759266339",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3522",
+      "itunes_duration": "3552",
       "speakers": [
         "Cal Wilson",
         "Jackie Clark",
@@ -11885,7 +11885,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6758796394.mp3?updated=1759266522",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4996",
+      "itunes_duration": "5026",
       "speakers": [
         "Jenny Slate",
         "Chanel Miller",
@@ -11916,7 +11916,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6101801007.mp3?updated=1759266441",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5727",
+      "itunes_duration": "5757",
       "speakers": [
         "Scarlett Curtis",
         "Jameela Jamil",
@@ -11944,7 +11944,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2812306090.mp3?updated=1759266373",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4558",
+      "itunes_duration": "4588",
       "speakers": [
         "Steph Tisdell",
         "Amy Sheppard",
@@ -11974,7 +11974,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7626546557.mp3?updated=1759266341",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3993",
+      "itunes_duration": "4023",
       "speakers": [
         "Sara Pascoe",
         "Sarah Brown",
@@ -12002,7 +12002,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6056124205.mp3?updated=1759266334",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4278",
+      "itunes_duration": "4308",
       "speakers": [
         "Zainab Johnson",
         "Deborah Frances-White"
@@ -12025,7 +12025,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9366618062.mp3?updated=1759266354",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4536",
+      "itunes_duration": "4566",
       "speakers": [
         "Geraldine Hickey",
         "Deborah Frances-White"
@@ -12049,7 +12049,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9741730986.mp3?updated=1759266314",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3797",
+      "itunes_duration": "3827",
       "speakers": [
         "Sindu Vee",
         "Poppy Jaman",
@@ -12076,7 +12076,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7389712561.mp3?updated=1759266341",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3628",
+      "itunes_duration": "3658",
       "speakers": [
         "Cal Wilson",
         "Ali Mau",
@@ -12098,7 +12098,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6751401825.mp3?updated=1775818153",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4414",
+      "itunes_duration": "4444",
       "speakers": [
         "Selin Özünaldım",
         "Merve Lal Karatop",
@@ -12123,7 +12123,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8556913795.mp3?updated=1759266781",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6010",
+      "itunes_duration": "6040",
       "speakers": [
         "Susan Wokoma",
         "Sian Clifford",
@@ -12150,7 +12150,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8010667916.mp3?updated=1759266247",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2927",
+      "itunes_duration": "2957",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -12171,7 +12171,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1726167666.mp3?updated=1759266523",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5177",
+      "itunes_duration": "5207",
       "speakers": [
         "Jessica Fostekew",
         "Zaheera Hassanali",
@@ -12200,7 +12200,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2938747647.mp3?updated=1759266575",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6076",
+      "itunes_duration": "6106",
       "speakers": [
         "Robby Hoffman",
         "Deborah Frances-White"
@@ -12223,7 +12223,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8991862838.mp3?updated=1759266231",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2036",
+      "itunes_duration": "2066",
       "speakers": [
         "Kemah Bob Hello",
         "Deborah Frances-White"
@@ -12245,7 +12245,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4286340761.mp3?updated=1759266359",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4168",
+      "itunes_duration": "4198",
       "speakers": [
         "Mae Martin",
         "Charlotte Ritchie",
@@ -12267,7 +12267,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6007636952.mp3?updated=1759266597",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5952",
+      "itunes_duration": "5982",
       "speakers": [
         "Cal Wilson",
         "Deborah Frances-White"
@@ -12289,7 +12289,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2723123340.mp3?updated=1759266365",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3831",
+      "itunes_duration": "3861",
       "speakers": [
         "Sindhu Vee",
         "Nadine Tunasi",
@@ -12313,7 +12313,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7147440594.mp3?updated=1759266515",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4647",
+      "itunes_duration": "4677",
       "speakers": [
         "Miranda Hine",
         "Saraya Stewart",
@@ -12340,7 +12340,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9335815236.mp3?updated=1759266360",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4083",
+      "itunes_duration": "4113",
       "speakers": [
         "Hannah Einbinder",
         "Deborah Frances-White"
@@ -12363,7 +12363,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2241527290.mp3?updated=1759266440",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5341",
+      "itunes_duration": "5371",
       "speakers": [
         "Fatima Mawas",
         "Jan Fran",
@@ -12389,7 +12389,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9166280672.mp3?updated=1759266275",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3026",
+      "itunes_duration": "3056",
       "speakers": [
         "Yassmin Abdel-Magied",
         "Mariam Khan",
@@ -12414,7 +12414,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7683366951.mp3?updated=1759266360",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4652",
+      "itunes_duration": "4682",
       "speakers": [
         "Cal Wilson",
         "Julia Gillard",
@@ -12438,7 +12438,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1047958481.mp3?updated=1759266337",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3920",
+      "itunes_duration": "3950",
       "speakers": [
         "Abbie Hirst",
         "Jay Stern",
@@ -12469,7 +12469,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5489034137.mp3?updated=1759266325",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3536",
+      "itunes_duration": "3566",
       "speakers": [
         "Beth Stelling",
         "Elizabeth Sam",
@@ -12499,7 +12499,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4245667013.mp3?updated=1759266324",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3633",
+      "itunes_duration": "3663",
       "speakers": [
         "Geraldine Hickey",
         "Deborah Frances-White"
@@ -12524,7 +12524,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7942670181.mp3?updated=1759266300",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3248",
+      "itunes_duration": "3278",
       "speakers": [
         "Jessica Fostekew",
         "Daniela Tejada",
@@ -12556,7 +12556,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2067709358.mp3?updated=1759266413",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4355",
+      "itunes_duration": "4385",
       "speakers": [
         "Kate O'Donnell",
         "Charlotte Keatley",
@@ -12582,7 +12582,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3123898489.mp3?updated=1759266357",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4084",
+      "itunes_duration": "4114",
       "speakers": [
         "Claire Hooper",
         "Monique Murphy",
@@ -12607,7 +12607,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3396500799.mp3?updated=1759266315",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3803",
+      "itunes_duration": "3833",
       "speakers": [
         "Katie Greenall",
         "Mika Johnson",
@@ -12634,7 +12634,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2997049824.mp3?updated=1759266385",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4967",
+      "itunes_duration": "4997",
       "speakers": [
         "Alison Spittle",
         "Julie Jay",
@@ -12657,7 +12657,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9449346405.mp3?updated=1759266423",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4651",
+      "itunes_duration": "4681",
       "speakers": [
         "Jessica Fostekew",
         "Sara Mardini",
@@ -12684,7 +12684,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1221080151.mp3?updated=1759266876",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4595",
+      "itunes_duration": "4625",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -12705,7 +12705,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3662351298.mp3?updated=1759266415",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4793",
+      "itunes_duration": "4823",
       "speakers": [
         "Jamila Rizvi",
         "Astrid Edwards",
@@ -12732,7 +12732,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1442545157.mp3?updated=1759266260",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2890",
+      "itunes_duration": "2920",
       "speakers": [
         "Alison Spittle",
         "Deborah Frances-White"
@@ -12755,7 +12755,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8694281190.mp3?updated=1759266332",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3724",
+      "itunes_duration": "3754",
       "speakers": [
         "Jessica Fostekew",
         "Stef Smith",
@@ -12782,7 +12782,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9619769812.mp3?updated=1759266339",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3751",
+      "itunes_duration": "3781",
       "speakers": [
         "Johnny Cochrane",
         "Elliot Rae",
@@ -12805,7 +12805,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1790245876.mp3?updated=1759266518",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3902",
+      "itunes_duration": "3932",
       "speakers": [
         "Abigoliah Schamaun",
         "Nell Gifford",
@@ -12830,7 +12830,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8381031896.mp3?updated=1759266824",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5340",
+      "itunes_duration": "5370",
       "speakers": [
         "Deborah Frances-White Recorded Jul",
         "Deborah Frances-White"
@@ -12851,7 +12851,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2623606900.mp3?updated=1759266350",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3792",
+      "itunes_duration": "3822",
       "speakers": [
         "Deborah Frances-White Recorded",
         "Deborah Frances-White"
@@ -12872,7 +12872,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2663645134.mp3?updated=1775818310",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "228",
+      "itunes_duration": "258",
       "speakers": [
         "Big Speeches",
         "London Big Speeches",
@@ -12896,7 +12896,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8573488194.mp3?updated=1759266808",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4455",
+      "itunes_duration": "4485",
       "speakers": [
         "Alison Spittle",
         "Miranda Kane",
@@ -12925,7 +12925,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5122844175.mp3?updated=1759266323",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3680",
+      "itunes_duration": "3710",
       "speakers": [
         "Renée Davis",
         "Heidi Regan",
@@ -12950,7 +12950,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9248980121.mp3?updated=1759266715",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4909",
+      "itunes_duration": "4939",
       "speakers": [
         "Hannah George",
         "Deborah Frances-White"
@@ -12975,7 +12975,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5368763688.mp3?updated=1759266382",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3965",
+      "itunes_duration": "3995",
       "speakers": [
         "Susan Wokoma",
         "Sabrina Mahfouz",
@@ -13006,7 +13006,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7586823324.mp3?updated=1759266373",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4549",
+      "itunes_duration": "4579",
       "speakers": [
         "Richard Herring",
         "Deborah Frances-White"
@@ -13028,7 +13028,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6971681806.mp3?updated=1759266438",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4653",
+      "itunes_duration": "4683",
       "speakers": [
         "Jayde Adams",
         "Jamie Barton",
@@ -13057,7 +13057,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2372348322.mp3?updated=1759266233",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2150",
+      "itunes_duration": "2180",
       "speakers": [
         "Rosalyn Wilder",
         "Deborah Frances-White"
@@ -13085,7 +13085,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4350247077.mp3?updated=1759266484",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4587",
+      "itunes_duration": "4617",
       "speakers": [
         "Jessica Fostekew",
         "Deborah Fran",
@@ -13108,7 +13108,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4026644190.mp3?updated=1759266314",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3326",
+      "itunes_duration": "3356",
       "speakers": [
         "Rosie Jones",
         "Jena Friedman",
@@ -13136,7 +13136,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1293801024.mp3?updated=1759266346",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3595",
+      "itunes_duration": "3625",
       "speakers": [
         "Rachel Fairburn",
         "Deborah Frances-White"
@@ -13159,7 +13159,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9739650587.mp3?updated=1759266424",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4578",
+      "itunes_duration": "4608",
       "speakers": [
         "Sara Pascoe",
         "Helen Clarkson",
@@ -13187,7 +13187,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3328146123.mp3?updated=1759266375",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3528",
+      "itunes_duration": "3558",
       "speakers": [
         "Dan Schreiber",
         "Deborah Frances-White"
@@ -13209,7 +13209,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4426322456.mp3?updated=1759266338",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3834",
+      "itunes_duration": "3864",
       "speakers": [
         "Kajal Odedra",
         "Margaret Atwood",
@@ -13236,7 +13236,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4436626581.mp3?updated=1759266824",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5961",
+      "itunes_duration": "5991",
       "speakers": [
         "Deborah Frances-White Recorded",
         "Deborah Frances-White"
@@ -13258,7 +13258,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7436694974.mp3?updated=1759266323",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3465",
+      "itunes_duration": "3495",
       "speakers": [
         "Guilty Bugle",
         "Andy Zaltzman",
@@ -13282,7 +13282,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5847275310.mp3?updated=1759266330",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3134",
+      "itunes_duration": "3164",
       "speakers": [
         "Emma Dabiri",
         "Deborah Frances-White",
@@ -13306,7 +13306,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9083906421.mp3?updated=1759266246",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2607",
+      "itunes_duration": "2637",
       "speakers": [
         "Nuala McKeever",
         "Grainne Teggart",
@@ -13336,7 +13336,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8667732448.mp3?updated=1759266278",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3164",
+      "itunes_duration": "3194",
       "speakers": [
         "Yassmin Abdel-Magied",
         "Nat Luurtsema",
@@ -13358,7 +13358,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7382443295.mp3?updated=1759266352",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4373",
+      "itunes_duration": "4403",
       "speakers": [
         "Tobi Kyeremateng",
         "Koko Brown",
@@ -13384,7 +13384,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8141176993.mp3?updated=1759266382",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4558",
+      "itunes_duration": "4588",
       "speakers": [
         "Jessica Fostekew",
         "Deborah Frances-White"
@@ -13408,7 +13408,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4225853216.mp3?updated=1759266352",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3913",
+      "itunes_duration": "3943",
       "speakers": [
         "Catherine Bohart",
         "Corry Shaw",
@@ -13438,7 +13438,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4388035888.mp3?updated=1759266347",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4290",
+      "itunes_duration": "4320",
       "speakers": [
         "Natalie Haynes",
         "Jessica Swale",
@@ -13462,7 +13462,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8082699658.mp3?updated=1759266322",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3871",
+      "itunes_duration": "3901",
       "speakers": [
         "Aisling Bea",
         "Deborah Frances-White"
@@ -13484,7 +13484,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9140218517.mp3?updated=1759266383",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4067",
+      "itunes_duration": "4097",
       "speakers": [
         "Deborah Frances-White Recorded",
         "Deborah Frances-White"
@@ -13507,7 +13507,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6789280128.mp3?updated=1759266350",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3760",
+      "itunes_duration": "3790",
       "speakers": [
         "Amy Lamé",
         "Alicia Wittmeyer",
@@ -13532,7 +13532,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8607269721.mp3?updated=1759266438",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4423",
+      "itunes_duration": "4453",
       "speakers": [
         "Ellen Coyne",
         "Molly Sterling",
@@ -13560,7 +13560,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1996348954.mp3?updated=1759266313",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3744",
+      "itunes_duration": "3774",
       "speakers": [
         "Athena Kugblenu",
         "Amali de Alwis",
@@ -13588,7 +13588,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4841728052.mp3?updated=1759266335",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4067",
+      "itunes_duration": "4097",
       "speakers": [
         "Lynn Enright",
         "Deborah Frances-White"
@@ -13615,7 +13615,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6730215210.mp3?updated=1759266323",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3096",
+      "itunes_duration": "3126",
       "speakers": [
         "Geraldine Hickey",
         "Kate Bolick",
@@ -13640,7 +13640,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9415752332.mp3?updated=1759266500",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5024",
+      "itunes_duration": "5054",
       "speakers": [
         "Cal Wilson",
         "Lizzie Marvelly",
@@ -13662,7 +13662,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4583705291.mp3?updated=1759266377",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3885",
+      "itunes_duration": "3915",
       "speakers": [
         "Emma Thompson",
         "Mindy Kaling",
@@ -13686,7 +13686,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2734304407.mp3?updated=1759266314",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3806",
+      "itunes_duration": "3836",
       "speakers": [
         "Dolly Alderton",
         "Kemah Bob",
@@ -13710,7 +13710,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3978476461.mp3?updated=1775818301",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "662",
+      "itunes_duration": "692",
       "speakers": [
         "Eve Ensler",
         "David Benson",
@@ -13740,7 +13740,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4488620680.mp3?updated=1759266292",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3134",
+      "itunes_duration": "3164",
       "speakers": [
         "Sara Pascoe",
         "Routes Collective",
@@ -13767,7 +13767,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2762118100.mp3?updated=1759266276",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2842",
+      "itunes_duration": "2872",
       "speakers": [
         "Hannah Gousy",
         "Deborah Frances-White"
@@ -13790,7 +13790,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5652465716.mp3?updated=1759266375",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4696",
+      "itunes_duration": "4726",
       "speakers": [
         "Maggie Aderin-Pocock",
         "Dr Anne-Marie Imafidon",
@@ -13819,7 +13819,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3631192373.mp3?updated=1759266944",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5822",
+      "itunes_duration": "5852",
       "speakers": [
         "Cal Wilson",
         "Deborah Frances-White"
@@ -13843,7 +13843,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7025358981.mp3?updated=1759266487",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5429",
+      "itunes_duration": "5459",
       "speakers": [
         "Catherine Bohart",
         "Sadie Hasler",
@@ -13871,7 +13871,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8056298461.mp3?updated=1759266436",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5295",
+      "itunes_duration": "5325",
       "speakers": [
         "Darcy Vescio",
         "Deborah Frances-White"
@@ -13897,7 +13897,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4825020407.mp3?updated=1759266391",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3614",
+      "itunes_duration": "3644",
       "speakers": [
         "Uma Kondabolu",
         "Deborah Frances-White"
@@ -13919,7 +13919,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9260204111.mp3?updated=1759266451",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6213",
+      "itunes_duration": "6243",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -13937,7 +13937,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7651560655.mp3?updated=1775817970",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "412",
+      "itunes_duration": "442",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -13956,7 +13956,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2795262473.mp3?updated=1759266538",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4736",
+      "itunes_duration": "4766",
       "speakers": [
         "Susan Wokoma",
         "Adjoa Andoh",
@@ -13987,7 +13987,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7866370698.mp3?updated=1759266674",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3536",
+      "itunes_duration": "3566",
       "speakers": [
         "Jessica Fostekew",
         "Konnie Huq",
@@ -14015,7 +14015,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5653142725.mp3?updated=1759266436",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5847",
+      "itunes_duration": "5877",
       "speakers": [
         "Cal Wilson",
         "Susie Youssef",
@@ -14044,7 +14044,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7277768634.mp3?updated=1759266307",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3149",
+      "itunes_duration": "3179",
       "speakers": [
         "Jessica Fostekew",
         "Deborah Frances-White"
@@ -14070,7 +14070,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3386765515.mp3?updated=1775817964",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "405",
+      "itunes_duration": "435",
       "speakers": [
         "Beloved Clara",
         "Comic Relief",
@@ -14095,7 +14095,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6868249778.mp3?updated=1759266781",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4335",
+      "itunes_duration": "4365",
       "speakers": [
         "Laura Davis",
         "Alice Fraser",
@@ -14120,7 +14120,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4089256968.mp3?updated=1759266726",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4549",
+      "itunes_duration": "4579",
       "speakers": [
         "Cal Wilson",
         "Deborah Frances-White"
@@ -14143,7 +14143,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8922920800.mp3?updated=1759266432",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4128",
+      "itunes_duration": "4158",
       "speakers": [
         "Catherine Bohart",
         "Laura Wade",
@@ -14170,7 +14170,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3287155865.mp3?updated=1759266279",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2978",
+      "itunes_duration": "3008",
       "speakers": [
         "Susan Wokoma",
         "Jennifer Sheridan",
@@ -14197,7 +14197,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4411149552.mp3?updated=1759266347",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2862",
+      "itunes_duration": "2892",
       "speakers": [
         "Catherine Bohart",
         "Kirstie Swain",
@@ -14227,7 +14227,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3900292653.mp3?updated=1759266438",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4416",
+      "itunes_duration": "4446",
       "speakers": [
         "Cal Wilson",
         "Geraldine Hickey",
@@ -14252,7 +14252,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3555860938.mp3?updated=1759266313",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3555",
+      "itunes_duration": "3585",
       "speakers": [
         "Jessica Fostekew",
         "Matilda Leyser",
@@ -14276,7 +14276,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8697820955.mp3?updated=1759266576",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3290",
+      "itunes_duration": "3320",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -14296,7 +14296,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9816858397.mp3?updated=1759266448",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5127",
+      "itunes_duration": "5157",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -14315,7 +14315,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1316860595.mp3?updated=1759267060",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7518",
+      "itunes_duration": "7548",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -14335,7 +14335,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2124869981.mp3?updated=1759266349",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4409",
+      "itunes_duration": "4439",
       "speakers": [
         "Kemah Bob",
         "Deborah Frances-White"
@@ -14358,7 +14358,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4602680124.mp3?updated=1775817944",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "349",
+      "itunes_duration": "379",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -14379,7 +14379,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9263245551.mp3?updated=1759266598",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6775",
+      "itunes_duration": "6805",
       "speakers": [
         "Desiree Burch",
         "Deborah Frances-White"
@@ -14403,7 +14403,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5915467690.mp3?updated=1775818219",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "207",
+      "itunes_duration": "237",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -14423,7 +14423,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9499206895.mp3?updated=1759266919",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6104",
+      "itunes_duration": "6134",
       "speakers": [
         "Alison Spittle",
         "Richard Radcliffe",
@@ -14456,7 +14456,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1558599998.mp3?updated=1759266919",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4365",
+      "itunes_duration": "4395",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -14476,7 +14476,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4203141359.mp3?updated=1759266340",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3787",
+      "itunes_duration": "3817",
       "speakers": [
         "Kemah Bob",
         "Yomi Adegoke",
@@ -14504,7 +14504,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4608993965.mp3?updated=1759266711",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3168",
+      "itunes_duration": "3198",
       "speakers": [
         "Aisling Bea",
         "Jessica Fostekew",
@@ -14532,7 +14532,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3789408132.mp3?updated=1759266750",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4229",
+      "itunes_duration": "4259",
       "speakers": [
         "Claire Hooper",
         "Tessa Waters",
@@ -14557,7 +14557,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9338930378.mp3?updated=1775818316",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "211",
+      "itunes_duration": "241",
       "speakers": [
         "Guilty Feminist",
         "Deborah Frances-White"
@@ -14578,7 +14578,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6804903955.mp3?updated=1759266330",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3716",
+      "itunes_duration": "3746",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -14598,7 +14598,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8359306592.mp3?updated=1759266404",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4771",
+      "itunes_duration": "4801",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -14619,7 +14619,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7885029163.mp3?updated=1759266826",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6641",
+      "itunes_duration": "6671",
       "speakers": [
         "Amnesty International",
         "Deborah Frances-White"
@@ -14644,7 +14644,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7367440973.mp3?updated=1759266314",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7869",
+      "itunes_duration": "7899",
       "speakers": [
         "Lynn Ruane",
         "Tara Flynn",
@@ -14675,7 +14675,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9324355890.mp3?updated=1759266891",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7398",
+      "itunes_duration": "7428",
       "speakers": [
         "Amnesty International",
         "Deborah Frances-White"
@@ -14700,7 +14700,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3000814303.mp3?updated=1759266302",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3096",
+      "itunes_duration": "3126",
       "speakers": [
         "Jessica Regan",
         "Jessica Hynes",
@@ -14726,7 +14726,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1132586030.mp3?updated=1759266594",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5806",
+      "itunes_duration": "5836",
       "speakers": [
         "Susan Wokoma",
         "Ella Hickson",
@@ -14756,7 +14756,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4250048045.mp3?updated=1759266766",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5990",
+      "itunes_duration": "6020",
       "speakers": [
         "Grace Petrie",
         "Deborah Frances-White"
@@ -14780,7 +14780,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7422669871.mp3?updated=1759266402",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3530",
+      "itunes_duration": "3560",
       "speakers": [
         "Yasmine Akram Content",
         "Deborah Frances-White"
@@ -14804,7 +14804,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7335093084.mp3?updated=1759266348",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2856",
+      "itunes_duration": "2886",
       "speakers": [
         "Jessica Fostekew",
         "Sophie Duker",
@@ -14835,7 +14835,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6966127550.mp3?updated=1759266750",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4622",
+      "itunes_duration": "4652",
       "speakers": [
         "Kemah Bob",
         "Lou Sanders",
@@ -14860,7 +14860,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8090439020.mp3?updated=1759266547",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4083",
+      "itunes_duration": "4113",
       "speakers": [
         "Rose Matafeo",
         "Deborah Frances-White",
@@ -14882,7 +14882,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8580783911.mp3?updated=1759266351",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3342",
+      "itunes_duration": "3372",
       "speakers": [
         "Karen Cogan",
         "Emily Lloyd Saini",
@@ -14909,7 +14909,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6556699089.mp3?updated=1759266855",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7140",
+      "itunes_duration": "7170",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -14929,7 +14929,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1659964998.mp3?updated=1759266380",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4312",
+      "itunes_duration": "4342",
       "speakers": [
         "Deborah Frances-White",
         "Abigoliah Schamaun"
@@ -14949,7 +14949,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9301323533.mp3?updated=1759266342",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3719",
+      "itunes_duration": "3749",
       "speakers": [
         "Danielle Ward",
         "Anna Crilly",
@@ -14977,7 +14977,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5087829616.mp3?updated=1759266768",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5348",
+      "itunes_duration": "5378",
       "speakers": [
         "Rana Hussain",
         "Deborah Frances-White",
@@ -15001,7 +15001,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4426070174.mp3?updated=1759266450",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3792",
+      "itunes_duration": "3822",
       "speakers": [
         "Ellen Jones",
         "Kemah Bob",
@@ -15025,7 +15025,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5060910176.mp3?updated=1759266504",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4957",
+      "itunes_duration": "4987",
       "speakers": [
         "Juliet Stevenson",
         "Rosalind Brody",
@@ -15050,7 +15050,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4382873656.mp3?updated=1759266333",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3499",
+      "itunes_duration": "3529",
       "speakers": [
         "Rosie Jones",
         "Deborah Frances-White"
@@ -15071,7 +15071,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6625526852.mp3?updated=1759266828",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "7136",
+      "itunes_duration": "7166",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -15090,7 +15090,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1473168754.mp3?updated=1759266411",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3348",
+      "itunes_duration": "3378",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -15110,7 +15110,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3021196773.mp3?updated=1759266739",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3782",
+      "itunes_duration": "3812",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -15130,7 +15130,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2099857399.mp3?updated=1759266486",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3766",
+      "itunes_duration": "3796",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -15148,7 +15148,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1167104215.mp3?updated=1759266637",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5816",
+      "itunes_duration": "5846",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -15167,7 +15167,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9477453259.mp3?updated=1759266519",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3648",
+      "itunes_duration": "3678",
       "speakers": [
         "Female Friendships",
         "Cara Theobold",
@@ -15191,7 +15191,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8449781838.mp3?updated=1759266438",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3787",
+      "itunes_duration": "3817",
       "speakers": [
         "Gina Martin",
         "Yassmin Abdel-Magied",
@@ -15215,7 +15215,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7071139537.mp3?updated=1759266323",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3052",
+      "itunes_duration": "3082",
       "speakers": [
         "Helen Linehan",
         "Deborah Frances-White",
@@ -15237,7 +15237,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1860516411.mp3?updated=1759266382",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4519",
+      "itunes_duration": "4549",
       "speakers": [
         "Susie Youssef",
         "Deborah Frances-White"
@@ -15259,7 +15259,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1194935602.mp3?updated=1759266823",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5218",
+      "itunes_duration": "5248",
       "speakers": [
         "Yassmin Abdel-Magied",
         "Liv Francis-Cornibert",
@@ -15284,7 +15284,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5155273157.mp3?updated=1759266363",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4315",
+      "itunes_duration": "4345",
       "speakers": [
         "Anna Drezen",
         "Deborah Frances-White"
@@ -15305,7 +15305,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6938765587.mp3?updated=1759266309",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3004",
+      "itunes_duration": "3034",
       "speakers": [
         "Kemah Bob",
         "Deborah Frances-White"
@@ -15326,7 +15326,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8079695004.mp3?updated=1759266703",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4291",
+      "itunes_duration": "4321",
       "speakers": [
         "Stella Creasy",
         "Sisters Uncut",
@@ -15349,7 +15349,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9819766399.mp3?updated=1759266707",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4461",
+      "itunes_duration": "4491",
       "speakers": [
         "Calais Refugee Special",
         "Deborah Frances-White"
@@ -15370,7 +15370,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6698908238.mp3?updated=1759266483",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3849",
+      "itunes_duration": "3879",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -15390,7 +15390,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8126814540.mp3?updated=1759266359",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4295",
+      "itunes_duration": "4325",
       "speakers": [
         "Michelle Law",
         "Deborah Frances-White",
@@ -15411,7 +15411,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4522377899.mp3?updated=1775818142",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2998",
+      "itunes_duration": "3028",
       "speakers": [
         "Rosie Wilby",
         "Deborah Frances-White"
@@ -15432,7 +15432,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7056709180.mp3?updated=1759266762",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4111",
+      "itunes_duration": "4141",
       "speakers": [
         "Laura Bates",
         "Deborah Frances-White"
@@ -15457,7 +15457,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9309243830.mp3?updated=1759266449",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4504",
+      "itunes_duration": "4534",
       "speakers": [
         "Milly Thomas",
         "Deborah Frances-White"
@@ -15479,7 +15479,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9601157156.mp3?updated=1759266698",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4937",
+      "itunes_duration": "4967",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -15500,7 +15500,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8020787096.mp3?updated=1775818303",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4861",
+      "itunes_duration": "4891",
       "speakers": [
         "Suffragette Centenary Special",
         "Deborah Frances-White"
@@ -15522,7 +15522,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7621732192.mp3?updated=1759266682",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3736",
+      "itunes_duration": "3766",
       "speakers": [
         "Alice Snedden",
         "Deborah Frances-White"
@@ -15543,7 +15543,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3330902410.mp3?updated=1759266386",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3481",
+      "itunes_duration": "3511",
       "speakers": [
         "Wonder Woman",
         "Sam Bain",
@@ -15565,7 +15565,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9715420551.mp3?updated=1759266417",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4440",
+      "itunes_duration": "4470",
       "speakers": [
         "Hannah Gadsby",
         "Deborah Frances-White",
@@ -15586,7 +15586,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1965454315.mp3?updated=1759266679",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3262",
+      "itunes_duration": "3292",
       "speakers": [
         "Dana Alexander",
         "Deborah Frances-White"
@@ -15607,7 +15607,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8099543593.mp3?updated=1759266446",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3205",
+      "itunes_duration": "3235",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -15627,7 +15627,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9472608891.mp3?updated=1759266272",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4522",
+      "itunes_duration": "4552",
       "speakers": [
         "Tiff Stevenson",
         "Deborah Frances-White",
@@ -15649,7 +15649,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5377441626.mp3?updated=1759266337",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3241",
+      "itunes_duration": "3271",
       "speakers": [
         "Vanessa Kisuule",
         "Miriam Battye",
@@ -15674,7 +15674,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8019643112.mp3?updated=1759266608",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4519",
+      "itunes_duration": "4549",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -15694,7 +15694,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7537174930.mp3?updated=1759266343",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3177",
+      "itunes_duration": "3207",
       "speakers": [
         "Amika George",
         "Grace Campbell",
@@ -15721,7 +15721,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8015272539.mp3?updated=1759266371",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3804",
+      "itunes_duration": "3834",
       "speakers": [
         "Female Friendships",
         "Sara Barron",
@@ -15744,7 +15744,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1551472872.mp3?updated=1759266837",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4222",
+      "itunes_duration": "4252",
       "speakers": [
         "Charlotte Keatley",
         "Deborah Frances-White"
@@ -15765,7 +15765,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3577047611.mp3?updated=1775818126",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4606",
+      "itunes_duration": "4636",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -15785,7 +15785,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3131559490.mp3?updated=1759266354",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3552",
+      "itunes_duration": "3582",
       "speakers": [
         "Weinstein Culture",
         "Jo Brand",
@@ -15809,7 +15809,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7783310895.mp3?updated=1759266616",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2968",
+      "itunes_duration": "2998",
       "speakers": [
         "Getting Older",
         "Jenny Eclair",
@@ -15830,7 +15830,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5904000919.mp3?updated=1759266947",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4410",
+      "itunes_duration": "4440",
       "speakers": [
         "Weinstein Culture",
         "Kristine Ziwica",
@@ -15854,7 +15854,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4622237098.mp3?updated=1759266351",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2868",
+      "itunes_duration": "2898",
       "speakers": [
         "Role Models",
         "Suzi Ruffell",
@@ -15877,7 +15877,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3149746798.mp3?updated=1759266658",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3350",
+      "itunes_duration": "3380",
       "speakers": [
         "Angela Clarke",
         "Deborah Frances-White"
@@ -15897,7 +15897,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3854819083.mp3?updated=1759266475",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4121",
+      "itunes_duration": "4151",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -15917,7 +15917,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7771897093.mp3?updated=1759266610",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4200",
+      "itunes_duration": "4230",
       "speakers": [
         "Sharon Horgan",
         "Rebekah Staton",
@@ -15941,7 +15941,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5507369262.mp3?updated=1759266560",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3607",
+      "itunes_duration": "3637",
       "speakers": [
         "Liz Miele",
         "Deborah Frances-White",
@@ -15961,7 +15961,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9836983356.mp3?updated=1759266473",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5162",
+      "itunes_duration": "5192",
       "speakers": [
         "Rev Kate Harford",
         "Deborah Frances-White",
@@ -15988,7 +15988,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9747545030.mp3?updated=1759266822",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "6762",
+      "itunes_duration": "6792",
       "speakers": [
         "Rev Kate Harford",
         "Deborah Frances-White",
@@ -16014,7 +16014,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9713846674.mp3?updated=1759266814",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4154",
+      "itunes_duration": "4184",
       "speakers": [
         "Somalia Seaton",
         "Deborah Frances-White"
@@ -16035,7 +16035,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7883821365.mp3?updated=1759266407",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2897",
+      "itunes_duration": "2927",
       "speakers": [
         "Mae Martin",
         "Deborah Frances-White"
@@ -16055,7 +16055,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3796074643.mp3?updated=1759266780",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4533",
+      "itunes_duration": "4563",
       "speakers": [
         "Alix Fox",
         "Deborah Frances-White"
@@ -16075,7 +16075,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7884846465.mp3?updated=1759266831",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3176",
+      "itunes_duration": "3206",
       "speakers": [
         "Kate O'Donnell",
         "Deborah Frances-White"
@@ -16096,7 +16096,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9038381791.mp3?updated=1759266768",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4849",
+      "itunes_duration": "4879",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -16118,7 +16118,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7696503536.mp3?updated=1759266440",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3700",
+      "itunes_duration": "3730",
       "speakers": [
         "Pippa Evans",
         "Poppy King",
@@ -16142,7 +16142,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6133899781.mp3?updated=1759266354",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3244",
+      "itunes_duration": "3274",
       "speakers": [
         "Rick Stroud",
         "Deborah Frances-White"
@@ -16164,7 +16164,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5294859541.mp3?updated=1759266689",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3561",
+      "itunes_duration": "3591",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -16184,7 +16184,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3740434130.mp3?updated=1759266421",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4118",
+      "itunes_duration": "4148",
       "speakers": [
         "Rachel Bloom",
         "Deborah Frances-White",
@@ -16206,7 +16206,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5156896710.mp3?updated=1759266728",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3353",
+      "itunes_duration": "3383",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -16224,7 +16224,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7952809547.mp3?updated=1759266507",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4028",
+      "itunes_duration": "4058",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -16244,7 +16244,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1441473938.mp3?updated=1759266772",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3586",
+      "itunes_duration": "3616",
       "speakers": [
         "Aparna Nancherla",
         "Deborah Frances-White"
@@ -16265,7 +16265,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5740109060.mp3?updated=1759266709",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3949",
+      "itunes_duration": "3979",
       "speakers": [
         "Jarlath Regan",
         "Deborah Frances-White"
@@ -16287,7 +16287,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9324690184.mp3?updated=1759266740",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4031",
+      "itunes_duration": "4061",
       "speakers": [
         "Sharon Horgan",
         "Rebekah Staton",
@@ -16310,7 +16310,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6980337653.mp3?updated=1759266496",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2977",
+      "itunes_duration": "3007",
       "speakers": [
         "Periods Redux",
         "Deborah Frances-White",
@@ -16333,7 +16333,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7682867018.mp3?updated=1759266466",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3505",
+      "itunes_duration": "3535",
       "speakers": [
         "Becca Bunce",
         "Deborah Frances-White"
@@ -16354,7 +16354,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4205675177.mp3?updated=1759266887",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4843",
+      "itunes_duration": "4873",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -16377,7 +16377,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4073616565.mp3?updated=1759266505",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4196",
+      "itunes_duration": "4226",
       "speakers": [
         "Female Archetypes",
         "David Baddiel",
@@ -16400,7 +16400,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1287807410.mp3?updated=1759266831",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4070",
+      "itunes_duration": "4100",
       "speakers": [
         "Deborah Frances-White",
         "Margaret Cabourn-Smith"
@@ -16420,7 +16420,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1198016618.mp3?updated=1759266520",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3564",
+      "itunes_duration": "3594",
       "speakers": [
         "Dawn O'Porter",
         "Deborah Frances-White"
@@ -16440,7 +16440,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7346301049.mp3?updated=1759266566",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3112",
+      "itunes_duration": "3142",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -16459,7 +16459,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6239249593.mp3?updated=1759266779",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5101",
+      "itunes_duration": "5131",
       "speakers": [
         "Cal Wilson",
         "Deborah Frances-White"
@@ -16479,7 +16479,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7779472508.mp3?updated=1759266556",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3630",
+      "itunes_duration": "3660",
       "speakers": [
         "Jess Phillips",
         "Deborah Frances-White"
@@ -16500,7 +16500,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9972079395.mp3?updated=1775818089",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3833",
+      "itunes_duration": "3863",
       "speakers": [
         "Susan Wokoma",
         "Deborah Frances-White"
@@ -16522,7 +16522,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3346939847.mp3?updated=1759266854",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4402",
+      "itunes_duration": "4432",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -16546,7 +16546,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6831367327.mp3?updated=1759266635",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3300",
+      "itunes_duration": "3330",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -16566,7 +16566,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6958005818.mp3?updated=1759266801",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3785",
+      "itunes_duration": "3815",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -16587,7 +16587,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9867056065.mp3?updated=1759266578",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3624",
+      "itunes_duration": "3654",
       "speakers": [
         "Deborah Frances-White",
         "Sara Pascoe"
@@ -16606,7 +16606,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8348764691.mp3?updated=1759266614",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2640",
+      "itunes_duration": "2670",
       "speakers": [
         "Deborah Frances-White",
         "Sara Pascoe"
@@ -16625,7 +16625,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2344520636.mp3?updated=1759266759",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4220",
+      "itunes_duration": "4250",
       "speakers": [
         "Deborah Frances-White",
         "Sofie Hagen"
@@ -16647,7 +16647,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9274390367.mp3?updated=1759266771",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3548",
+      "itunes_duration": "3578",
       "speakers": [
         "Jessica Regan",
         "Deborah Frances-White"
@@ -16668,7 +16668,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9558557581.mp3?updated=1759266614",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3929",
+      "itunes_duration": "3959",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -16686,7 +16686,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1284221538.mp3?updated=1775818191",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3044",
+      "itunes_duration": "3074",
       "speakers": [
         "Deborah Frances-White",
         "Sofie Hagen"
@@ -16708,7 +16708,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2043275465.mp3?updated=1759266692",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3143",
+      "itunes_duration": "3173",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -16727,7 +16727,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5895017847.mp3?updated=1759266603",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2937",
+      "itunes_duration": "2967",
       "speakers": [
         "Ellie Taylor",
         "Deborah Frances-White",
@@ -16750,7 +16750,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4208881242.mp3?updated=1759266666",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3431",
+      "itunes_duration": "3461",
       "speakers": [
         "Aisling Bea",
         "Deborah Frances-White",
@@ -16772,7 +16772,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4823446514.mp3?updated=1759266429",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2850",
+      "itunes_duration": "2880",
       "speakers": [
         "Sofie Hagen",
         "Deborah Frances-White"
@@ -16793,7 +16793,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7321045246.mp3?updated=1759266692",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3157",
+      "itunes_duration": "3187",
       "speakers": [
         "Holly Walsh",
         "Sofie Hagen",
@@ -16816,7 +16816,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1133573030.mp3?updated=1759266542",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2642",
+      "itunes_duration": "2672",
       "speakers": [
         "Jordan Raskopoulos",
         "Sofie Hagen",
@@ -16839,7 +16839,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7665782971.mp3?updated=1775818024",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "709",
+      "itunes_duration": "739",
       "speakers": [
         "Jordan Raskopoulos",
         "Deborah Frances-White"
@@ -16859,7 +16859,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4132068810.mp3?updated=1759266579",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2933",
+      "itunes_duration": "2963",
       "speakers": [
         "Carrie Quinlan",
         "Sofie Hagen",
@@ -16881,7 +16881,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9581971378.mp3?updated=1759266356",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "848",
+      "itunes_duration": "878",
       "speakers": [
         "Carrie Quinlan",
         "Deborah Frances-White"
@@ -16901,7 +16901,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5436803558.mp3?updated=1759266645",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2824",
+      "itunes_duration": "2854",
       "speakers": [
         "Mary Lynn Rajskub",
         "Sofie Hagen",
@@ -16924,7 +16924,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1206912794.mp3?updated=1759266359",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "909",
+      "itunes_duration": "939",
       "speakers": [
         "Mary Lynn Rajskub",
         "Deborah Frances-White"
@@ -16943,7 +16943,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5339282904.mp3?updated=1775818515",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3092",
+      "itunes_duration": "3122",
       "speakers": [
         "Emily Grossman",
         "Sofie Hagen",
@@ -16964,7 +16964,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3959326285.mp3?updated=1759266707",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4934",
+      "itunes_duration": "4964",
       "speakers": [
         "Deborah Frances-White",
         "Carrie Quinlan"
@@ -16985,7 +16985,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1257678735.mp3?updated=1759266768",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5134",
+      "itunes_duration": "5164",
       "speakers": [
         "Deborah Frances-White",
         "Carrie Quinlan"
@@ -17006,7 +17006,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4340856537.mp3?updated=1759266324",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "824",
+      "itunes_duration": "854",
       "speakers": [
         "Emily Grossman",
         "Deborah Frances-White"
@@ -17026,7 +17026,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8771453534.mp3?updated=1759266613",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2577",
+      "itunes_duration": "2607",
       "speakers": [
         "Evelyn Mok",
         "Sofie Hagen",
@@ -17047,7 +17047,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3990995607.mp3?updated=1759266376",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1063",
+      "itunes_duration": "1093",
       "speakers": [
         "Evelyn Mok",
         "Deborah Frances-White"
@@ -17067,7 +17067,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9088061858.mp3?updated=1759266660",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3263",
+      "itunes_duration": "3293",
       "speakers": [
         "Sanne Søndergaard",
         "Sofie Hagen",
@@ -17088,7 +17088,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4021431088.mp3?updated=1775817996",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "620",
+      "itunes_duration": "650",
       "speakers": [
         "Sanne Søndergaard",
         "Deborah Frances-White"
@@ -17108,7 +17108,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7147435140.mp3?updated=1759266581",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3139",
+      "itunes_duration": "3169",
       "speakers": [
         "Susan Calman",
         "Sofie Hagen",
@@ -17129,7 +17129,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8466945291.mp3?updated=1775818061",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "650",
+      "itunes_duration": "680",
       "speakers": [
         "Susan Calman",
         "Deborah Frances-White"
@@ -17148,7 +17148,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7168812203.mp3?updated=1759266560",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3172",
+      "itunes_duration": "3202",
       "speakers": [
         "Jessica Fostekew",
         "Sofie Hagen",
@@ -17170,7 +17170,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1591444382.mp3?updated=1775817682",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "668",
+      "itunes_duration": "698",
       "speakers": [
         "Jessica Fostekew",
         "Deborah Frances-White"
@@ -17190,7 +17190,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2723769934.mp3?updated=1775818137",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3358",
+      "itunes_duration": "3388",
       "speakers": [
         "Emma Holten",
         "Sofie Hagen",
@@ -17212,7 +17212,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9784492446.mp3?updated=1775817966",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "599",
+      "itunes_duration": "629",
       "speakers": [
         "Emma Holten",
         "Deborah Frances-White"
@@ -17232,7 +17232,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7754291783.mp3?updated=1759266726",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3220",
+      "itunes_duration": "3250",
       "speakers": [
         "Sally Phillips",
         "Sofie Hagen",
@@ -17254,7 +17254,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5903980714.mp3?updated=1775817955",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "644",
+      "itunes_duration": "674",
       "speakers": [
         "Sally Phillips",
         "Deborah Frances-White"
@@ -17274,7 +17274,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5014648963.mp3?updated=1759266729",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2974",
+      "itunes_duration": "3004",
       "speakers": [
         "Sofie Hagen",
         "Deborah Frances-White"
@@ -17296,7 +17296,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3455349238.mp3?updated=1775817975",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "383",
+      "itunes_duration": "413",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -17316,7 +17316,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1209207065.mp3?updated=1775818445",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2849",
+      "itunes_duration": "2879",
       "speakers": [
         "Sofie Hagen",
         "Deborah Frances-White"
@@ -17336,7 +17336,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4041671853.mp3?updated=1775818285",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "549",
+      "itunes_duration": "579",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -17355,7 +17355,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3443720384.mp3?updated=1759266618",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3029",
+      "itunes_duration": "3059",
       "speakers": [
         "Alison Spittle",
         "Sofie Hagen",
@@ -17378,7 +17378,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6657003579.mp3?updated=1759266590",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2967",
+      "itunes_duration": "2997",
       "speakers": [
         "Sofie Hagen",
         "Deborah Frances-White"
@@ -17399,7 +17399,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3363543503.mp3?updated=1759266516",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3130",
+      "itunes_duration": "3160",
       "speakers": [
         "Tania Edwards",
         "Sofie Hagen",
@@ -17421,7 +17421,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7351668766.mp3?updated=1759266336",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "850",
+      "itunes_duration": "880",
       "speakers": [
         "Tania Edwards",
         "Deborah Frances-White"
@@ -17441,7 +17441,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8746234499.mp3?updated=1759266519",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2766",
+      "itunes_duration": "2796",
       "speakers": [
         "Sarah Millican",
         "Sofie Hagen",
@@ -17462,7 +17462,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2815017076.mp3?updated=1775817967",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "337",
+      "itunes_duration": "367",
       "speakers": [
         "Sarah Millican",
         "Deborah Frances-White"
@@ -17482,7 +17482,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1967174228.mp3?updated=1759266562",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2725",
+      "itunes_duration": "2755",
       "speakers": [
         "Hannah Gadsby",
         "Sofie Hagen",
@@ -17504,7 +17504,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3331431579.mp3?updated=1775818282",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "553",
+      "itunes_duration": "583",
       "speakers": [
         "Hannah Gadsby",
         "Deborah Frances-White"
@@ -17524,7 +17524,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7821955550.mp3?updated=1775817924",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "346",
+      "itunes_duration": "376",
       "speakers": [
         "Global Pillage",
         "Deborah Frances-White"
@@ -17544,7 +17544,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL5192936811.mp3?updated=1759266429",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2728",
+      "itunes_duration": "2758",
       "speakers": [
         "Sofie Hagen",
         "Deborah Frances-White"
@@ -17566,7 +17566,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2432157573.mp3?updated=1775817991",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "640",
+      "itunes_duration": "670",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -17585,7 +17585,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2185215618.mp3?updated=1759266496",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2642",
+      "itunes_duration": "2672",
       "speakers": [
         "Margaret Cabourn-Smith",
         "Deborah Frances-White"
@@ -17607,7 +17607,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9059651312.mp3?updated=1775818241",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "336",
+      "itunes_duration": "366",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -17626,7 +17626,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL4075216874.mp3?updated=1759266509",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3333",
+      "itunes_duration": "3363",
       "speakers": [
         "Roisin Conaty",
         "Sofie Hagen",
@@ -17647,7 +17647,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2458463963.mp3?updated=1775817944",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "418",
+      "itunes_duration": "448",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -17665,7 +17665,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6188385316.mp3?updated=1759266620",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3335",
+      "itunes_duration": "3365",
       "speakers": [
         "Sarah Millican",
         "Sofie Hagen",
@@ -17688,7 +17688,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL7036978811.mp3?updated=1775817958",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "374",
+      "itunes_duration": "404",
       "speakers": [
         "Sarah Millican",
         "Deborah Frances-White"
@@ -17709,7 +17709,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6181450467.mp3?updated=1759266583",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3197",
+      "itunes_duration": "3227",
       "speakers": [
         "Jessamyn Stanley",
         "Sofie Hagen",
@@ -17731,7 +17731,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8073706450.mp3?updated=1775817977",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "572",
+      "itunes_duration": "602",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -17750,7 +17750,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2287114108.mp3?updated=1759266773",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3253",
+      "itunes_duration": "3283",
       "speakers": [
         "Sofie Hagen",
         "Deborah Frances-White"
@@ -17770,7 +17770,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3616430643.mp3?updated=1775818278",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "421",
+      "itunes_duration": "451",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -17789,7 +17789,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3634287883.mp3?updated=1759266694",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3306",
+      "itunes_duration": "3336",
       "speakers": [
         "Sara Pascoe",
         "Sofie Hagen",
@@ -17811,7 +17811,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL1428684914.mp3?updated=1775817952",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "641",
+      "itunes_duration": "671",
       "speakers": [
         "Sara Pascoe",
         "Deborah Frances-White"
@@ -17831,7 +17831,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL9447164345.mp3?updated=1759266430",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2339",
+      "itunes_duration": "2369",
       "speakers": [
         "Jo Caulfield",
         "Sofie Hagen",
@@ -17851,7 +17851,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL8429064243.mp3?updated=1775818011",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "404",
+      "itunes_duration": "434",
       "speakers": [
         "Jo Caulfield",
         "Deborah Frances-White"
@@ -17870,7 +17870,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL3088048402.mp3?updated=1759266513",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2702",
+      "itunes_duration": "2732",
       "speakers": [
         "Emma Kennedy",
         "Sofie Hagen",
@@ -17892,7 +17892,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL6953937638.mp3?updated=1775817961",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "269",
+      "itunes_duration": "299",
       "speakers": [
         "Deborah Frances-White"
       ],
@@ -17910,7 +17910,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/APL2927132148.mp3?updated=1759266550",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2991",
+      "itunes_duration": "3021",
       "speakers": [
         "Shappi Khorsandi",
         "Sofie Hagen",
