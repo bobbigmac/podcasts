@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-05-14T04:12:11+00:00`
-- checked_at: `2026-05-14T04:12:11+00:00`
+- fetched_at: `2026-05-14T20:01:32+00:00`
+- checked_at: `2026-05-14T20:01:32+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 14 May 2026 04:04:29 GMT`
+- last_modified: `Thu, 14 May 2026 19:38:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-14T04:12:11+00:00",
+  "fetched_at": "2026-05-14T20:01:32+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -37,7 +37,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2782692325.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3098",
+      "itunes_duration": "3158",
       "speakers": [
         "Alan Carr",
         "Tom Allen"
@@ -57,7 +57,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR2104496292.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3447",
+      "itunes_duration": "3507",
       "speakers": [
         "Cariad Lloyd",
         "Tom Allen"
@@ -117,7 +117,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4052636229.mp3?updated=1777973865",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3064",
+      "itunes_duration": "3124",
       "speakers": [
         "Jonny Hincks",
         "Tom Allen"
@@ -137,7 +137,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR6870964333.mp3?updated=1777973892",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3650",
+      "itunes_duration": "3710",
       "speakers": [
         "Sarah Hadland",
         "Tom Allen"
@@ -157,7 +157,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8500410679.mp3?updated=1777973827",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3075",
+      "itunes_duration": "3135",
       "speakers": [
         "Lou Beckett Umbrellas",
         "Lou Beckett",
@@ -177,7 +177,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR3020859349.mp3?updated=1777973819",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2950",
+      "itunes_duration": "3010",
       "speakers": [
         "Amir Khan",
         "Tom Allen"

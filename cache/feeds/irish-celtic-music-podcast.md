@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-05-14T17:12:42+00:00`
-- checked_at: `2026-05-14T17:12:42+00:00`
-- etag: `"fdfe454607ea85fa14af567e37b4ce9a"`
-- last_modified: `Thu, 14 May 2026 15:46:01 GMT`
+- fetched_at: `2026-05-14T20:01:32+00:00`
+- checked_at: `2026-05-14T20:01:32+00:00`
+- etag: `"e39210a5f9e8c30b5cefd96a5b5c6e4d"`
+- last_modified: `Thu, 14 May 2026 17:17:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-05-14T17:12:42+00:00",
+  "fetched_at": "2026-05-14T20:01:32+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -27,6 +27,27 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "8b713434c5e366edfec3ebbb215479ab0c035dd4",
+      "title": "O'Niel's Drowsy Irish Town #758",
+      "published_at": "2026-05-14T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/oniels-drowsy-irish-town-758",
+      "description": "Celtic music never sits still, and episode 758 of the Irish & Celtic Music Podcast is proof of that. We're calling this one O'Neill's Drowsy Irish Town, but don't let that fool you. There is nothing sleepy about this lineup. Fourteen artists are here today, pushing tradition into something fresh and alive. Hit play and let the music take you somewhere - - Subscribe now at CelticMusicPodcast.com ! Tartanic, Charlene Adzima, Tara's Folk, Eimear Arkins & Eileen Gannon, The Bordercollies, Jocelyn Pettit & Ellen Gira, The Friel Sisters, Goitse, Rakish, Leevy, Release the Craicen, Katie Jane Band, Low Power Trio, Banshee in the Kitchen GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! THIS WEEK IN CELTIC MUSIC 0:06 - Tartanic \"Slapping Paddies\" from Uncivilized 3:01 - WELCOME 4:43 - Charlene Adzima \"Jimmie McGetrick's/John Naughton's/Tom Ward's Downfall\" from The Initiation 7:54 - Tara's Folk \"O'Neils\" from remember how we fall 11:44 - Eimear Arkins & Eileen Gannon \"George White's/McGettrick's/Cedars of Lebanon (reels)\" from The Belles of St. Louis 15:42 - The Bordercollies \"Rollin and Tumblin\" from To The Hills and Back 18:31 - FEEDBACK 21:18 - Jocelyn Pettit & Ellen Gira \"Bellechasse\" from Here To Stay 25:18 - The Friel Sisters \"Kelvin's Purling Stream\" from Before the Sun 29:04 - Goitse \"Margadh an Iúir\" from Rosc 31:58 - Rakish \"Time Check\" from Now, O Now 35:50 - THANKS 37:48 - Release the Craicen \"Star of the County Down / Cooley's Reel / Drowsy Maggie\" from Live! Songs on a Boat 42:38 - Katie Jane Band \"Frank's / Mason's Apron\" from Wild One 45:12 - Leevy \"The Mountain Spoke\" from Baile Mhúirne or the Soldiers March the Paps of Anú 49:53 - Low Power Trio \"Loch Lomond\" from Dirty Old Town 53:06 - CLOSING 54:53 - Banshee in the Kitchen \"King of Laoise\" from Band O' Shees 58:44 - CREDITS Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. Support for this program comes from John Sharkey White, II. Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Hank Woodward. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Here's a thought worth sitting with. The single most powerful thing we can do to fight climate change is move toward clean energy. Solar, wind, hydro. Energy that doesn't cost the earth to produce. But while the big picture shifts, there's plenty we can do right now in our own lives. Think about the 5 Rs of Sustainability. Refuse what you don't need. Reduce what you use. Reuse what you already have. Repurpose the things that still have life in them. And recycle whatever is left. Start with just one of those this week. Pick the easiest one. Then build from there. Small choices, made by millions of people, add up to something enormous. The music we love was born from a culture that respected the land. Let's honor that. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories. Every song has a story, every episode is a toast to Celtic and folk songwriters. Discover the stories behind the songs from the heart of the Celtic pub scene. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email the artists to let them know you heard them on the Irish & Celtic Music Podcast. These musicians are not part of some corporation. They are small indie groups that rely on people just like you to support their music so they can keep creating it. Please show your generosity. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . ALBUM PINS ARE CHANGING THE WAY WE HEAR CELTIC MUSIC Looking for a fresh way to support the music you love? Meet the Album Pin. Album Pins are lapel pins themed to a specific album — and each one comes with a digital download. Wear your music. All of my latest pins are wood - burned and locally produced, which means a smaller footprint and a one - of - a - kind feel you won't find anywhere else. Pick yours up at magerecords.com THANK YOU PATRONS OF THE PODCAST! Thank you, patrons of the podcast! Because of generous supporters like you, the Irish & Celtic Music Podcast releases a new episode nearly every single week. Your support doesn't just fund the show. It fuels a movement. It helps us share the magic of Celtic music with thousands of new listeners and grow a global community of music lovers. Your contributions pay for everything behind the scenes: audio engineering, stunning graphics, weekly issues of the Celtic Music Magazine, show promotion, and most importantly, buying the music we feature from independent Celtic artists. And if you're not yet a patron? You are missing out. Patrons get early access to episodes, music - only editions, free MP3 downloads, exclusive stories and artist interviews, and a vote in the Celtic Top 20. Join us today keep the music alive, vibrant, and independent. A special thanks to our latest Patron of the Podcast: Jason Schatz HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $25. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. Learn more about the invasion at http://celticinvasion.com/ #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo. If you're in a Celtic band, send me an audio recording of you performing live. Just audio. I'll use it in a podcast episode later this year. Email me at follow@bestcelticmusic. Daniel Faigin emailed re: Android Shuffle Apps: \"Marc: I primarily listen to music via my iPod Classic (extensive smart playlists, all on shuffle). But all my music (around 58,000 tracks), is on my Android phone, and there I used the Gone Mad Music Player. It can play the music downloaded to your device, and has a smart playlist equivalent to the iPod / iTunes capability. It's the backup for my iPod Classic. Just search for it on Google Play; it does require a small payment to support development and unlock full capabilities. Alas, fewer phone manufacturers are supporting an external memory card (critical when you have a lot of music) - - Samsung might at the lowest level, as well as Motorola. Other than that, you need more storage if you download music.\" Gershon commented on Patreon: \"Sitting here in my favorite chair, listening to #754, two dogs at my feet, reading and sipping my evening tea I heard your commentary regarding our wayward President and feckless Congress. Thank you! You are on the right side of history. I appreciate this after the horrific week we've had. I am even prouder now to be a supporter and fan. Keep up the good work and make \"good trouble.\"",
+      "image_url": "https://static.libsyn.com/p/assets/6/9/6/9/6969cea55537e8a716c3140a3186d450/758-O_Neill_s_Drowsy_Irish_Town-Rakish-1400.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-758.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58327660",
+      "itunes_duration": "01:00:32",
+      "speakers": [
+        "Drowsy Irish Town",
+        "Marc Gunn"
+      ],
+      "topics": [
+        "drowsy",
+        "irish",
+        "town"
+      ]
+    },
     {
       "key": "0e41a60dc9004a4dabc474957cd2f59f77efd77d",
       "title": "Selkie Women of the Northern Shore #757",
@@ -16198,6 +16219,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — O'Niel's Drowsy Irish Town #758 — speakers: Drowsy Irish Town, Marc Gunn
 - 2026-05-07 — Selkie Women of the Northern Shore #757 — speakers: Selkie Women, Northern Shore, Marc Gunn
 - 2026-04-23 — Four Thousand Weeks, Happy Earth Week #756 — speakers: Marc Gunn
 - 2026-04-16 — Cat on the Roof #755 — speakers: Marc Gunn
