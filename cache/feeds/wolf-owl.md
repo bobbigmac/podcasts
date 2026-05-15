@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-14T17:12:42+00:00`
-- checked_at: `2026-05-14T17:12:42+00:00`
-- last_modified: `Thu, 14 May 2026 15:09:56 GMT`
+- fetched_at: `2026-05-15T04:17:14+00:00`
+- checked_at: `2026-05-15T04:17:14+00:00`
+- last_modified: `Thu, 14 May 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-14T17:12:42+00:00",
+  "fetched_at": "2026-05-15T04:17:14+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "75f806b6e585920155a079d5d4b1f9e012048247",
+      "title": "Korean Skincare, Smoothie Makers and Bad Gifts",
+      "published_at": "2026-05-14T23:01:00+00:00",
+      "link": null,
+      "description": "What does Tom use in the shower? What’s the secret to Romesh’s glistening skin and which comedian did he go make-up shopping with? On this episode we also discuss how to know when it’s time for a career change and what exactly is a boomerang gift? and have we given one... Send your dilemmas, questions and voice notes to us at wolfowlpod@gmail.com A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 03:14 Career change 12:59 Boomerang gifts 17:40 Korean skincare Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/20e59f34-4df4-11f1-a6a6-a38dd28bb4a4/image/324338c858ae3985fb17ef612c465385.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9172055878.mp3?updated=1778771688",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1355",
+      "speakers": [
+        "Smoothie Makers",
+        "Bad Gifts",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "korean",
+        "skincare",
+        "smoothie",
+        "makers",
+        "gifts"
+      ]
+    },
     {
       "key": "d44e4df7d88ae841640d1c8b40e9e05d64fa37e7",
       "title": "Piers Morgan, Percy Pigs and Gladiators",
@@ -6678,6 +6703,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — Korean Skincare, Smoothie Makers and Bad Gifts — speakers: Smoothie Makers, Bad Gifts, Romesh Ranganathan, Tom Davis
 - 2026-05-11 — Piers Morgan, Percy Pigs and Gladiators — speakers: Percy Pigs, Romesh Ranganathan, Tom Davis
 - 2026-05-07 — Mickey Drips, Paintball and Wedding Anniversaries — speakers: Mickey Drips, Romesh Ranganathan, Tom Davis
 - 2026-05-04 — Theme Parks, Bucket Lists and Tattoos — speakers: Theme Parks, Bucket Lists, Will Tom, Romesh Ranganathan, Tom Davis

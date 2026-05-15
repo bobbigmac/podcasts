@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-05-11T15:35:24+00:00`
-- checked_at: `2026-05-11T15:35:24+00:00`
-- etag: `W/"4973a848cd3a7aae3bbe8cc2c91c19cc"`
-- last_modified: `Mon, 11 May 2026 13:04:59 GMT`
+- fetched_at: `2026-05-15T04:17:14+00:00`
+- checked_at: `2026-05-15T04:17:14+00:00`
+- etag: `W/"c7fe0459976b687a475aea5b56c6b52f"`
+- last_modified: `Thu, 14 May 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-05-11T15:35:24+00:00",
+  "fetched_at": "2026-05-15T04:17:14+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "de66f61b6e4891d5d4959178d4cd0c677348e2fe",
+      "title": "No Such Thing As A Whale In Your Car",
+      "published_at": "2026-05-14T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8903631",
+      "description": "Manu Henriot joins Dan, James and Andy to discuss seaweed, spermaceti, stick houses and Spain. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43646753.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8903631.mp3?modified=1778777411&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3418",
+      "speakers": [
+        "Manu Henriot",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "whale"
+      ]
+    },
     {
       "key": "7551ba6a2be57bab9694d9b249648805451b0af0",
       "title": "Little Fish: Still Rockin' The Cloaca",
@@ -16265,6 +16288,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — No Such Thing As A Whale In Your Car — speakers: Manu Henriot, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-10 — Little Fish: Still Rockin' The Cloaca — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-07 — No Such Thing As A Ham Bag — speakers: Susie Dent, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-03 — Little Fish: You've Hit The Nail On the Head — speakers: Jack Black, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

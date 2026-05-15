@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-05-14T20:01:32+00:00`
-- checked_at: `2026-05-14T20:01:32+00:00`
-- etag: `"djEuMi4wOjE3Nzg3ODcyNzY0NTc="`
+- fetched_at: `2026-05-15T04:17:14+00:00`
+- checked_at: `2026-05-15T04:17:14+00:00`
+- etag: `"djEuMi4wOjE3Nzg4MTUyMzkzMTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-05-14T20:01:32+00:00",
+  "fetched_at": "2026-05-15T04:17:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "56d749e8f8fe1cfb9b9749bf1a056f43aa2f6f88",
+      "title": "SAFDIE BROTHERS (Uncut Gems / The Smashing Machine / Marty Supreme) • Friday Rewind",
+      "published_at": "2026-05-15T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with the Safdie Brothers , originally episode 307 from 2020-01-15. Original writeup below: You may know them from the fantastic ‘Good Time’ (featuring a tightly wound Robert Pattinson), or maybe ‘Heaven Knows What’, but for sure you will be seeing much more of them with their new Netflix / cinema joint and Adam Sandler-starring ‘Uncut Gems’! Pip is a confirmed fan of course, and caught up with them on a very swift whirlwind run in London to talk all things film, from the time taken to get to this stage with the film, seeing the effect of it on an audience (especially comedically), the casting of Adam Sandler, the importance of voices, the use of extras in a far more involved sense, British acting and the realism of it, casting real people, working with musicians, using New York as a character, their intense focus on character even down to auditioning actors for one line appearances, and the sonic world of a film including the ‘Atmos’ mix which they go into. Amazing - proper film nerd’s one here and you’re not one, you might well be by the end. Enjoy! PIP'S PATREON PAGE if you're of a supporting nature JOSH SAFDIE on IMDB! BENNY SAFDIE on IMDB! UNCUT GEMS THE SMASHING MACHINE MARTY SUPREME PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1778786653918-df45b20f-a1b4-4487-9324-2b5c668c0bda.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a0623ccefd1f558b041b4a7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98999735",
+      "itunes_duration": "41:10",
+      "speakers": [
+        "Uncut Gems"
+      ],
+      "topics": [
+        "safdie",
+        "brothers",
+        "uncut",
+        "gems",
+        "smashing",
+        "machine",
+        "marty",
+        "supreme",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "15eab39bc4bfede36d84c5096ac2a10fcfd21e9b",
       "title": "TOM GEORGE • the beauty of unmotivated camera movements (Two Weeks In August / Bait / See How They Run) #671",
@@ -18791,6 +18818,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-15 — SAFDIE BROTHERS (Uncut Gems / The Smashing Machine / Marty Supreme) • Friday Rewind — speakers: Uncut Gems
 - 2026-05-13 — TOM GEORGE • the beauty of unmotivated camera movements (Two Weeks In August / Bait / See How They Run) #671 — speakers: Tom George
 - 2026-05-08 — STEPHEN FRY (thou shalt not question Stephen Fry) • Friday Rewind — speakers: Stephen Fry
 - 2026-05-06 — IZUKA HOYLE • the life and times of an immaculate action hero (Prisoner / Boiling Point / Big Boys) #670

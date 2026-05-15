@@ -2094,6 +2094,95 @@
         "feed_slug": "external:apple:1773bc876200",
         "feed_title": "Springleaf",
         "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
+        "dedupe_key": "403fc27f793fed7ee2a3194ebf49b724537599af",
+        "episode_key": "403fc27f793fed7ee2a3194ebf49b724537599af",
+        "title": "Episode 7",
+        "published_at": "2024-01-02T06:00:49Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Joe Lycett is in the studio with Pat and Adams this week, and it gets quite messy quite quickly. With Janet newly installed as leader of the SW11 gang, the criminals pivot from drug dealing to phone scams and Donna discovers a hidden talent for the artform. Clarke unexpectedly turns up in a new role at the police stati",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65401c2618e0ae0011a36b32/e/6558e2321a7d7e001251f85b/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-7/id1716339860?i=1000640289753&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1773bc876200",
+        "feed_title": "Springleaf",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
+        "dedupe_key": "9101c24e726452fca6a056b5e4953fa5b8617a0e",
+        "episode_key": "9101c24e726452fca6a056b5e4953fa5b8617a0e",
+        "title": "Episode 6",
+        "published_at": "2023-12-26T06:00:03Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Having survived his unfortunate interaction with Huey's shotgun, Clarke goes into hiding, while Angela faces the consequences of her unauthorised stint undercover. Pat, Evelyn and Sita wait for an update on the future of their prank show and, over at SW11 HQ, Lawrence and Janet continue to clash as the Leader-Off enter",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65401c2618e0ae0011a36b32/e/6558e1e3eddaaa00124d463c/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-6/id1716339860?i=1000639700232&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1773bc876200",
+        "feed_title": "Springleaf",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
+        "dedupe_key": "a36e07f505d40b752fdef5c957726e1dcf088d74",
+        "episode_key": "a36e07f505d40b752fdef5c957726e1dcf088d74",
+        "title": "Episode 5",
+        "published_at": "2023-12-19T06:00:04Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Lawrence and Janet jostle for position in the newly formed SW11 gang, whilst things look increasingly dicey for Clarke after he's outed as an undercover cop. Desperately in search of a rescue plan, Pat is struck by inspiration whilst filming a TV prank show.\nA true(ish) crime podcast, which sees undercover cop Pat Spri",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65401c2618e0ae0011a36b32/e/6558e1abc8ed51001373964d/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-5/id1716339860?i=1000639039029&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1773bc876200",
+        "feed_title": "Springleaf",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
+        "dedupe_key": "0eb2059587c81be85cd1fa8e3b78c14545445e12",
+        "episode_key": "0eb2059587c81be85cd1fa8e3b78c14545445e12",
+        "title": "Episode 4",
+        "published_at": "2023-12-12T06:00:38Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "With SW5 member (and fellow undercover cop) Clarke tied up in the backroom of SW6 HQ, Pat needs to come up with a rescue plan, stat. But when he leaks Clarke's whereabouts to SW5 gang leader Janet (Natalie Cassidy), existing tensions between the two gangs begin to escalate. Meanwhile, on the comedy circuit, there's ano",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65401c2618e0ae0011a36b32/e/6558e1535c5f690012fd384e/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-4/id1716339860?i=1000638273393&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1773bc876200",
+        "feed_title": "Springleaf",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
         "dedupe_key": "f1e2f9a811d08805f76cb30d36455c6b7b9e84c1",
         "episode_key": "f1e2f9a811d08805f76cb30d36455c6b7b9e84c1",
         "title": "Episode 3",
@@ -2495,6 +2584,29 @@
         "speakers": [
           "Harriet Kemsley",
           "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "6cf524a28783463f2233b4689091125bbc15b8f5",
+        "episode_key": "6cf524a28783463f2233b4689091125bbc15b8f5",
+        "title": "Ep 100: Ed Gamble and James Acaster (with special guest genie Claudia Winkleman)",
+        "published_at": "2021-04-21T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "One hundred! The hundo! The big 1-0-0! In a milestone episode, Ed and James finally reveal their dream meals. And who better for the genie to transfer his powers to than Off Menu fave and this episode’s special guest host, Claudia Winkleman!\nA massive thanks to Claudia for being our wish-granter. A HUGE thank you to yo",
+        "audio_url": "https://sphinx.acast.com/offmenu/ep100-edgambleandjamesacaster-withspecialguestgenieclaudiawinkleman-/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-100-ed-gamble-and-james-acaster-with-special/id1442950743?i=1000517982504&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
         ],
         "topics": [],
         "external": true
@@ -6245,6 +6357,29 @@
         "feed_slug": "external:apple:1773bc876200",
         "feed_title": "Springleaf",
         "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
+        "dedupe_key": "9101c24e726452fca6a056b5e4953fa5b8617a0e",
+        "episode_key": "9101c24e726452fca6a056b5e4953fa5b8617a0e",
+        "title": "Episode 6",
+        "published_at": "2023-12-26T06:00:03Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Having survived his unfortunate interaction with Huey's shotgun, Clarke goes into hiding, while Angela faces the consequences of her unauthorised stint undercover. Pat, Evelyn and Sita wait for an update on the future of their prank show and, over at SW11 HQ, Lawrence and Janet continue to clash as the Leader-Off enter",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65401c2618e0ae0011a36b32/e/6558e1e3eddaaa00124d463c/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-6/id1716339860?i=1000639700232&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1773bc876200",
+        "feed_title": "Springleaf",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65401c2618e0ae0011a36b32",
         "dedupe_key": "4b55729638670410aa28c6f80db1d444655970a2",
         "episode_key": "4b55729638670410aa28c6f80db1d444655970a2",
         "title": "Episode 1",
@@ -6470,6 +6605,29 @@
         "enclosure_type": null,
         "speakers": [
           "Nish Kumar",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "6cf524a28783463f2233b4689091125bbc15b8f5",
+        "episode_key": "6cf524a28783463f2233b4689091125bbc15b8f5",
+        "title": "Ep 100: Ed Gamble and James Acaster (with special guest genie Claudia Winkleman)",
+        "published_at": "2021-04-21T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "One hundred! The hundo! The big 1-0-0! In a milestone episode, Ed and James finally reveal their dream meals. And who better for the genie to transfer his powers to than Off Menu fave and this episode’s special guest host, Claudia Winkleman!\nA massive thanks to Claudia for being our wish-granter. A HUGE thank you to yo",
+        "audio_url": "https://sphinx.acast.com/offmenu/ep100-edgambleandjamesacaster-withspecialguestgenieclaudiawinkleman-/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-100-ed-gamble-and-james-acaster-with-special/id1442950743?i=1000517982504&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
           "Ed Gamble"
         ],
         "topics": [],

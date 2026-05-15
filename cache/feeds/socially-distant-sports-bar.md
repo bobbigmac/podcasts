@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-05-13T04:12:13+00:00`
-- checked_at: `2026-05-13T04:12:13+00:00`
-- etag: `"djEuMi4wOjE3Nzg2MjgwMzk0MzQ="`
+- fetched_at: `2026-05-15T04:17:14+00:00`
+- checked_at: `2026-05-15T04:17:14+00:00`
+- etag: `"djEuMi4wOjE3Nzg4MDA3NzkzODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-05-13T04:12:13+00:00",
+  "fetched_at": "2026-05-15T04:17:14+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "1b0f7ba2d3ca07c7581669d35e569589afd49a28",
+      "title": "LIVE at the Hackney Empire (Pt 2)",
+      "published_at": "2026-05-14T23:19:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/live-at-the-hackney-empire-pt-2",
+      "description": "Elis James ( Elis James & John Robins ), Mike Bubbins ( Mammoth ) and Steff Garrero bring you a LIVE episode of The Socially Distant Sports Bar , recorded at the iconic Hackney Empire in London in front of an audience. This is Distant Pod on stage — bigger, louder and slightly more chaotic. PART 2 Mike: Tom Cillo, 58 https://www.facebook.com/share/v/1KWtuPBS5J/?mibextid=wwXIfr Steff: Bradford on Avon RFC https://www.instagram.com/reel/DWddeCSCF-D/?igsh=MTJoa2Yzbnc3MGtieQ== Elis: Too Fast https://www.instagram.com/p/B5BNNbGAysx/?igsh=aGhueWx2d3loNjNi 👉 Subscribe on Apple Podcasts for the Part 3 Q&A. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/69fd74bb2ba0ef2ccac19bb8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116116800",
+      "itunes_duration": "48:22",
+      "speakers": [
+        "Elis James",
+        "John Robins",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "hackney",
+        "empire"
+      ]
+    },
     {
       "key": "6f475c89054b291ef5b53d7379d8ab6d0ab5e260",
       "title": "LIVE at the Hackney Empire (Pt 1)",
@@ -14762,6 +14784,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — LIVE at the Hackney Empire (Pt 2) — speakers: Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-05-12 — LIVE at the Hackney Empire (Pt 1) — speakers: Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-05-09 — Danny Wallace: Pint Size — speakers: Danny Wallace, Pint Size Welcome, Elis James, Mike Bubbins, Steff Garrero
 - 2026-05-07 — Steaming Cocks (pt 2) — speakers: Steaming Cocks, Elis James, John Robins, Mike Bubbins, Steff Garrero

@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-05-14T17:12:42+00:00`
-- checked_at: `2026-05-14T17:12:42+00:00`
-- etag: `"djEuMi4wOjE3Nzg3NzI4MjYxNjE="`
+- fetched_at: `2026-05-15T04:17:14+00:00`
+- checked_at: `2026-05-15T04:17:14+00:00`
+- etag: `"djEuMi4wOjE3Nzg3OTk3NTk0MzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-05-14T17:12:42+00:00",
+  "fetched_at": "2026-05-15T04:17:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "85021262c2a430134c5bd2f40cfb84ccee5d5968",
+      "title": "My Time Capsule The Dig - Ep. 2 - With Steve Edge (Phoenix Nights, Benidorm, The Jason Manford Show)",
+      "published_at": "2026-05-14T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-2-with-steve-edge-phoenix-nights",
+      "description": "Mike and his producer and son John sit down together for a dig around in this week's Time Capsule, dig up Steve Edge's old Time Capsule and ask him where he'd like it buried, play exclusive unheard clips and interact with listeners via email and voice memos . You'll know Steve Edge from Episode 27, Phoenix Nights, Benidorm, The Madame Blanc Mysteries & The Jason Manford Show - With Steve Edge . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow Steve Edge on Instagram : @sirsteveedge . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1778772260397-f555ce72-abf1-4d33-b451-f01aa2d744bf.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a05eb5a3fd6979bfc07989f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52130397",
+      "itunes_duration": "43:26",
+      "speakers": [
+        "Steve Edge",
+        "Manford Show"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "steve",
+        "edge",
+        "phoenix",
+        "nights",
+        "benidorm",
+        "jason",
+        "manford"
+      ]
+    },
     {
       "key": "648ec0ca2cc6275583f4c136b957ba355c88bd3f",
       "title": "Ep. 584 - Julie Peasgood - From Brookside, Emmerdale & Hollyoaks and winner of RTS’s TV Personality of the Year Award",
@@ -12554,6 +12581,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — My Time Capsule The Dig - Ep. 2 - With Steve Edge (Phoenix Nights, Benidorm, The Jason Manford Show) — speakers: Steve Edge, Manford Show
 - 2026-05-10 — Ep. 584 - Julie Peasgood - From Brookside, Emmerdale & Hollyoaks and winner of RTS’s TV Personality of the Year Award — speakers: Julie Peasgood
 - 2026-05-07 — My Time Capsule The Dig - Ep. 1 - With Lucy Porter! — speakers: Lucy Porter, John sit
 - 2026-05-04 — Ep. 583 - Dean Friedman - Singer-songwriter best known for the hits “Ariel” and “Lucky Stars” — speakers: Dean Friedman

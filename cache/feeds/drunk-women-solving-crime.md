@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-05-13T04:12:13+00:00`
-- checked_at: `2026-05-13T04:12:13+00:00`
-- etag: `"djEuMi4wOjE3Nzg2MzA0Mzk1NDk="`
+- fetched_at: `2026-05-15T04:17:14+00:00`
+- checked_at: `2026-05-15T04:17:14+00:00`
+- etag: `"djEuMi4wOjE3Nzg4MDMyMzkzNzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-05-13T04:12:13+00:00",
+  "fetched_at": "2026-05-15T04:17:14+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "ee553c5c40fea48501694d3a7dcbc7808d24c70e",
+      "title": "A Window into Stuart McPherson",
+      "published_at": "2026-05-15T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/a-window-into-stuart-mcpherson",
+      "description": "In your Friday bonus ep, we hear about the time Stuart McPherson was left wide open to opportunistic theft, thanks to a landlord's rather optimistic views on security. Stuart also helps investigate a case in which the perp manages to contort the criminal narrative and may have also invented those silver status you get in tourist hot spots. Plus, the gang give their opinions on the circumstances of a listener being relieved of their handbag. See you next week when we hear what happened in Oxford with Hannah Byczkowski! Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast DWSC eps now drop every Wednesday and every other Friday, so that's at least SIX drops every, single month! Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/69f8d52e836b4ec718777a28/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86085822",
+      "itunes_duration": "59:46",
+      "speakers": [
+        "Stuart McPherson",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "window",
+        "stuart",
+        "mcpherson"
+      ]
+    },
     {
       "key": "cc347b9779276b90d73fd0261d013b42434772ba",
       "title": "Everything's FINE, with Nataly Aukar",
@@ -11078,6 +11100,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-15 — A Window into Stuart McPherson — speakers: Stuart McPherson, Hannah George, Taylor Glenn
 - 2026-05-13 — Everything's FINE, with Nataly Aukar — speakers: Nataly Aukar, Hannah George, Taylor Glenn
 - 2026-05-06 — Anything But Vanilla, with Danni Diston — speakers: Danni Diston, Hannah George, Taylor Glenn
 - 2026-05-01 — DWSC LIVE: With Kate Butch — speakers: Kate Butch, Hannah George, Taylor Glenn

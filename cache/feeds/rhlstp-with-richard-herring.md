@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-14T20:01:32+00:00`
-- checked_at: `2026-05-14T20:01:32+00:00`
-- etag: `"djEuMi4wOjE3Nzg3ODM1NDk3NzI="`
+- fetched_at: `2026-05-15T04:17:14+00:00`
+- checked_at: `2026-05-15T04:17:14+00:00`
+- etag: `"djEuMi4wOjE3Nzg4MTM4NTkyNzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-14T20:01:32+00:00",
+  "fetched_at": "2026-05-15T04:17:14+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6fdddd2f71d6c85dc255ced1e8ebd4f597aa88ca",
+      "title": "John Robins on Thirst (Part 2) - Book Club",
+      "published_at": "2026-05-15T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #179 - Thirst - Part two of the interview with John about his new book Thirst. They chat about why alcohol is addictive because it doesn’t quite work, how annoying it is when authors don’t translate stuff in different languages, Swarfega and lathes, whether it’s OK to still like Woody Allen films (at least the good ones) and what the rules are for all of this, because it isn’t clear Buy the book here - https://uk.bookshop.org/p/books/thirst-twelve-drinks-that-changed-my-life-john-robins/24157e3cdfc6ba19 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1778753979952-2f182290-cc22-4372-b6bc-13ce4717d696.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a05a316d58f9c365b79bacd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23482816",
+      "itunes_duration": "48:25",
+      "speakers": [
+        "John Robins",
+        "Richard Herring"
+      ],
+      "topics": [
+        "john",
+        "robins",
+        "thirst",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "6cbd42aabb999d35acbeef3df1d49a949e57ecd2",
       "title": "Matt Forde - \"Comedian Cancer Frankingstein\"",
@@ -22385,6 +22408,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-15 — John Robins on Thirst (Part 2) - Book Club — speakers: John Robins, Richard Herring
 - 2026-05-13 — Matt Forde - "Comedian Cancer Frankingstein" — speakers: Cancer Frankingstein, Cancer Frankingstein Rich, Richard Herring
 - 2026-05-12 — RAACN week 15 — speakers: Mrs Doubtfire There, Richard Herring
 - 2026-05-11 — Stephen Merchant (Retro) - "Retribution" — speakers: Stephen Merchant, Richard Herring

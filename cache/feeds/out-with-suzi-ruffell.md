@@ -2,9 +2,9 @@
 
 - slug: `out-with-suzi-ruffell`
 - source: `https://feeds.megaphone.fm/GLT9819213775`
-- fetched_at: `2026-05-13T04:12:13+00:00`
-- checked_at: `2026-05-13T04:12:13+00:00`
-- last_modified: `Tue, 12 May 2026 23:54:16 GMT`
+- fetched_at: `2026-05-15T04:17:14+00:00`
+- checked_at: `2026-05-15T04:17:14+00:00`
+- last_modified: `Thu, 14 May 2026 23:07:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.spreaker.com/show/out-with-suzi-ruffell",
   "description": "Attitude Presents: Out with Suzi Ruffell is a podcast that celebrates the LGBTQIA+ community through comedian and writer Suzi Ruffell's relaxed interviews of queer luminaries — from popstars to politicians, activists to artists. Tune in to hear Suzi and her guests talk about coming out, being out, finding your place in the world and sharing moments of queer joy. Brought to you by Attitude magazine and Off The Kerb Productions. Host: Suzi Ruffell · Podcast producer: Alma Fournier-Carballo · Booking producer: Dale Fox · Post producer: Markus Bidaux",
   "image_url": "https://megaphone.imgix.net/podcasts/1af2f5a0-1a7b-11ed-a410-0fc86e797d6c/image/cfca99fb5f4ff7128b2a90e4fea85f54.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-13T04:12:13+00:00",
+  "fetched_at": "2026-05-15T04:17:14+00:00",
   "owners": [
     "Suzi Ruffell"
   ],
@@ -27,6 +27,26 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "7f170c60829962fa0ac26ed9322e01e5049a7887",
+      "title": "2026 S1 Ep4: Bradley Riches",
+      "published_at": "2026-05-14T23:00:00+00:00",
+      "link": null,
+      "description": "Today’s guest is the wonderful Bradley Riches, an award-winning actor who you will know from the enormous hit Heartstopper and much-loved soap Emmerdale , as well as his impactful appearance on Celebrity Big Brother . He is also a writer and his beautiful new book, Autistically Me , is out on 9 June: https://watkinspublishinglinks.com/autisticallyme Bradley will appear in the upcoming Heartstopper Forever movie, coming to Netflix on 17 July: https://www.attitude.co.uk/culture/heartstopper-forever-release-date-confirmed-by-netflix-520572/ Enjoy the episode and don't forget to subscribe, follow, share, like, rate and review. Thanks, Suzi x If you want to get in touch with me on the show email ⁠⁠⁠⁠hello@outwithsuziruffell.com⁠⁠⁠⁠ I'm also on tour! Find all the details at ⁠⁠suziruffell.com⁠⁠ Host: Suzi Ruffell Brought to you by Attitude magazine and Off The Kerb Productions Podcast producer: Alma Fournier-Carballo Booking producer: Dale Fox Post producer: Markus Bidaux Sales, advertising and general enquiries: ⁠hello@outwithsuziruffell.com⁠⁠⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b63b92a8-4e55-11f1-a0bd-7bd6a732f771/image/81b8213fd23f07bdeb563d07aa5d8695.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR1407522574.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2823",
+      "speakers": [
+        "Bradley Riches",
+        "Suzi Ruffell"
+      ],
+      "topics": [
+        "bradley",
+        "riches"
+      ]
+    },
     {
       "key": "07cb8d7c37e1fe0ca7c5ca3aa5e2e1e0730724a2",
       "title": "Monday Minis Ep2",
@@ -2422,6 +2442,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — 2026 S1 Ep4: Bradley Riches — speakers: Bradley Riches, Suzi Ruffell
 - 2026-05-10 — Monday Minis Ep2 — speakers: Monday Minis, Suzi Ruffell
 - 2026-05-07 — 2026 S1 Ep3: Megan Jayne Crabbe — speakers: Megan Jayne Crabbe, Suzi Ruffell
 - 2026-05-03 — Monday Minis Ep1 — speakers: Monday Minis, Suzi Ruffell

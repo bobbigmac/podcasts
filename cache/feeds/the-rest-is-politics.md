@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-05-14T14:39:54+00:00`
-- checked_at: `2026-05-14T14:39:54+00:00`
-- last_modified: `Thu, 14 May 2026 13:27:00 GMT`
+- fetched_at: `2026-05-15T04:17:14+00:00`
+- checked_at: `2026-05-15T04:17:14+00:00`
+- last_modified: `Thu, 14 May 2026 23:16:38 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/1a4f337061ca59ac603d55d2bc10d8ca.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-14T14:39:54+00:00",
+  "fetched_at": "2026-05-15T04:17:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "e267c8dccfa85e323d2b234da5efbc4345154039",
+      "title": "533. Andy Burnham's Big Gamble: Can He Beat Reform?",
+      "published_at": "2026-05-14T23:00:00+00:00",
+      "link": null,
+      "description": "What is Alastair’s plea to Labour politicians, after this week’s turmoil? After Wes Streeting’s resignation from the cabinet, will he still run against the ‘King of the North’, Andy Burnham, and how bruising would a leadership contest be for the government? How risky is this for Burnham, and can he beat Reform in Greater Manchester? Join Rory and Alastair as they answer all these questions and more in this emergency episode. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Vasco Andrade Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f1fb9860-4fe5-11f1-85bb-c3f46d372fe8/image/fda7d42b185173f46a6d5bd77faa50a7.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5517460317.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1804",
+      "speakers": [
+        "Andy Burnham",
+        "Wes Streeting"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "gamble",
+        "reform"
+      ]
+    },
     {
       "key": "29b29a5338c7f066f2f8073186858e240b3dadad",
       "title": "532. The Trump-Xi Showdown and Putin’s Conscription Con",
@@ -11883,6 +11905,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-14 — 533. Andy Burnham's Big Gamble: Can He Beat Reform? — speakers: Andy Burnham, Wes Streeting
 - 2026-05-13 — 532. The Trump-Xi Showdown and Putin’s Conscription Con
 - 2026-05-12 — 531. Starmer on the Brink: What Next? — speakers: What Next
 - 2026-05-11 — Enraged or Engaged? Angela Rayner on The Gen Z Story — speakers: Angela Rayner, Alastair Campbell, Vicky Spratt
