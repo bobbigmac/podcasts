@@ -17513,6 +17513,28 @@
     ],
     "lou-sanders": [
       {
+        "feed_slug": "external:apple:6c6378df8da4",
+        "feed_title": "Rich Beyond My Wildest Dreams",
+        "source_rss_url": "https://feeds.acast.com/public/shows/66e958720befac28e33062d3",
+        "dedupe_key": "cf675c50d8235ce1828e1468e0ec0430c7f29577",
+        "episode_key": "cf675c50d8235ce1828e1468e0ec0430c7f29577",
+        "title": "18: Lou Sanders",
+        "published_at": "2026-05-15T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week, we’re joined by brilliant comedian - Lou Sanders!\nSo listen in as she dives into all the wild ways she’d spend a £200,000,000 EuroMillions jackpot.\nFrom building a luxury eco-village out of mud and straw, to hiring a pet psychic for her donkeys!\nSubscribe and follow for new episodes every Friday!!!\nOn Apple ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/66e958720befac28e33062d3/e/6a05cca73fd6979bfcfa7f1b/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/18-lou-sanders/id1769041729?i=1000767883686&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:cef152158840",
         "feed_title": "Single Ladies In Your Area",
         "source_rss_url": "https://feeds.acast.com/public/shows/66d6edc291ae4d209b1d4826",

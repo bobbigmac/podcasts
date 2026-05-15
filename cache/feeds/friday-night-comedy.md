@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-05-14T20:01:32+00:00`
-- checked_at: `2026-05-14T20:01:32+00:00`
-- etag: `"039fba2b52d540a064792fc69bd9ced7"`
-- last_modified: `Thu, 14 May 2026 18:01:20 GMT`
+- fetched_at: `2026-05-15T19:53:21+00:00`
+- checked_at: `2026-05-15T19:53:21+00:00`
+- etag: `"78b5bd587e772e04fb358ed16c6324b5"`
+- last_modified: `Fri, 15 May 2026 18:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-05-14T20:01:32+00:00",
+  "fetched_at": "2026-05-15T19:53:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "cfcd973f056c6d8feae583e2471991c32a2f4681",
+      "title": "The News Quiz: Ep4. The people have spoken",
+      "published_at": "2026-05-15T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nk5rj1",
+      "description": "Recorded on Friday morning, Andy and the panel dig into the election results from 7th May. Who’s done well? Who’s done not so well? And how does this have anything to do with The Grand National? Also up for discussion is The Met Gala and the legend that is Sir David Attenborough’s 100th birthday. Written by Andy Zaltzman. With additional material by: Mike Shephard, Cameron Loxdale, Stephanie Kemp and Angela Channell Producer: Georgia Keating Executive Producer: Pete Strauss Production Coordinator: Asha Osborne-Grinter Sound Editor: Marc Willcox Recorded by Jerry Peal and Jon Calver A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nk60zt.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27296000",
+      "itunes_duration": "1706",
+      "speakers": [],
+      "topics": [
+        "news",
+        "quiz",
+        "people"
+      ]
+    },
     {
       "key": "22d21c6f5a4fb0ae4b7fd69dbecc71a793376da1",
       "title": "The News Quiz: Ep3. When the King came round for tea",
@@ -5464,6 +5482,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-15 — The News Quiz: Ep4. The people have spoken
 - 2026-05-08 — The News Quiz: Ep3. When the King came round for tea — speakers: Donald Trump’s Wh
 - 2026-05-01 — The News Quiz: Ep2. The art of vetting — speakers: Peter Mandelson
 - 2026-04-24 — The News Quiz: Ep1. Messiah or Doctor? — speakers: Andy Zaltzman, Andrew Maxwell
