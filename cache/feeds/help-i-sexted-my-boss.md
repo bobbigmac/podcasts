@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-05-14T08:50:09+00:00`
-- checked_at: `2026-05-14T08:50:09+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnpnM05ETTRNRFkzTXprPTo6c2F4ZXNz"`
+- fetched_at: `2026-05-15T09:24:37+00:00`
+- checked_at: `2026-05-15T09:24:37+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnpnNE1qRXlNems0T0RJPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-05-14T08:50:09+00:00",
+  "fetched_at": "2026-05-15T09:24:37+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,13 +30,13 @@
     {
       "key": "12745d8d11bcd53e9a6719edc315ffc0db4cd6c2",
       "title": "Jordan’s 2AM Cringe | And Is Wrestling Gay?",
-      "published_at": "2026-05-14T05:00:00+00:00",
+      "published_at": "2026-05-15T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/jordans-2am-cringe-and-is-wrestling-gay",
-      "description": "What do you wake up at 2am randomly thinking about that still makes you cringe? Jordan has a long list, and it turns out that so do our G&Divas! Plus, Jordan questions the homosexual tendencies of wrestling, he ponders whether lollypop people still exist and William asks him where he stores his house keys.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "What do you wake up at 2am randomly thinking about that still makes you cringe? Jordan has a long list, and it turns out that so do our G&Divas! Plus, Jordan questions the homosexual tendencies of wrestling, he ponders whether lollypop people still exist and William asks him where he stores his house keys. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1778743799970-4482300b-5d19-4027-bfa7-4ad7cc49aa4c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a0323db30f662dee6e6031d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=mA653_GDztAyl29i-burl7UWFLK6kFTSMTNFLeFiZl4",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28786102",
       "itunes_duration": "29:59",
       "speakers": [
         "William Hanson",
@@ -14307,7 +14307,7 @@
 
 ## Episodes (newest first)
 
-- 2026-05-14 — Jordan’s 2AM Cringe | And Is Wrestling Gay? — speakers: William Hanson, Jordan North
+- 2026-05-15 — Jordan’s 2AM Cringe | And Is Wrestling Gay? — speakers: William Hanson, Jordan North
 - 2026-05-12 — Help I’m Sharing Soap With Strangers | And Speedo Season — speakers: William Hanson, Jordan North
 - 2026-05-08 — Granny Put What In Her Eye?! | And Jordan's Superstitions — speakers: William Hanson, Jordan North
 - 2026-05-05 — Help He’s Fist Deep In My Mum | And William Parkours?! — speakers: William Parkours, William Hanson, Jordan North

@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-05-14T22:19:08+00:00`
-- checked_at: `2026-05-14T22:19:08+00:00`
+- fetched_at: `2026-05-15T09:24:37+00:00`
+- checked_at: `2026-05-15T09:24:37+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 14 May 2026 22:07:28 GMT`
+- last_modified: `Fri, 15 May 2026 08:25:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-14T22:19:08+00:00",
+  "fetched_at": "2026-05-15T09:24:37+00:00",
   "owners": [
     "Tom Allen"
   ],

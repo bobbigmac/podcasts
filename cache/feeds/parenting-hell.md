@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-05-15T04:17:14+00:00`
-- checked_at: `2026-05-15T04:17:14+00:00`
-- last_modified: `Fri, 15 May 2026 01:27:02 GMT`
+- fetched_at: `2026-05-15T09:24:37+00:00`
+- checked_at: `2026-05-15T09:24:37+00:00`
+- last_modified: `Fri, 15 May 2026 07:32:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/40fdac0908467e0692b2c0139f4db663.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-15T04:17:14+00:00",
+  "fetched_at": "2026-05-15T09:24:37+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a2950dab723b50f921795df360539f4efdebea37",
+      "title": "S12 EP38: Eddie Marsan",
+      "published_at": "2026-05-15T07:06:00+00:00",
+      "link": null,
+      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the brilliant actor - Eddie Marsan. No Ordinary Heist is a Sky Original release in May. Prisoner will be coming on Sky on the 30th April. Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3920731487.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3401",
+      "speakers": [
+        "Eddie Marsan Joining",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "eddie",
+        "marsan"
+      ]
+    },
     {
       "key": "6a675ce9f24c85893cfdc4ebe329d95d597a7e5f",
       "title": "S12 EP37: A Room With No Window",
@@ -11872,6 +11893,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-15 — S12 EP38: Eddie Marsan — speakers: Eddie Marsan Joining, Rob Beckett, Josh Widdicombe
 - 2026-05-11 — S12 EP37: A Room With No Window — speakers: Rob Beckett, Josh Widdicombe
 - 2026-05-08 — S12 EP36: Jessica Hynes — speakers: Jessica Hynes, Rob Beckett, Josh Widdicombe
 - 2026-05-05 — S12 EP35: Faithful... or Traitor? — speakers: Rob Beckett, Josh Widdicombe

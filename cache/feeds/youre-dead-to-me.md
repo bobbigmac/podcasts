@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-05-08T07:57:11+00:00`
-- checked_at: `2026-05-08T07:57:11+00:00`
-- etag: `"7017e621e294f92e896ba5564aadb18f"`
-- last_modified: `Fri, 08 May 2026 05:00:04 GMT`
+- fetched_at: `2026-05-15T09:24:37+00:00`
+- checked_at: `2026-05-15T09:24:37+00:00`
+- etag: `"6f43083345f8175253a7680938c1de44"`
+- last_modified: `Fri, 15 May 2026 05:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1pytt.jpg",
-  "fetched_at": "2026-05-08T07:57:11+00:00",
+  "fetched_at": "2026-05-15T09:24:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,28 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "35ddc0673a48b6476609516534133ccf5c644328",
+      "title": "Philippe, Duc d’Orléans (Radio Edit)",
+      "published_at": "2026-05-15T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0ndpj3n",
+      "description": "Greg Jenner is joined in 17th-century France by Dr Jonathan Spangler and comedian Tom Allen to learn all about Philippe, Duc d’Orléans, Louis XIV’s younger brother. King Louis XIV is one of the most famous monarchs in French history: the man who built and presided over the glittering court at Versailles, established himself as an absolute ruler, and whose 72-year reign is still the longest in European history. But what about his younger brother, Philippe? Who was the man who grew up and lived in the shadow of the Sun King? Raised to defer to his brother at all costs, his promising military career was cut short when it seemed like he might outshine Louis. When all eyes were on him as heir to the throne, he would wear dresses to provoke shock at courtly balls. He balanced his marriage to his witty German wife, Liselotte, with a decades-long relationship with his aristocratic male lover, the Chevalier de Lorraine – and other men of the court. And he maintained an image as a louche and irresponsible courtier while increasing his personal wealth through clever financial management. This episode explores the complexities and contradictions of Philippe’s life, and examines the difficult position of second sons in royal history. This is a radio edit of the original podcast episode. For the full-length version, please look further back in the feed. Hosted by: Greg Jenner Research by: Emma Mitchell Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ndpt9m.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27296000",
+      "itunes_duration": "1706",
+      "speakers": [
+        "Greg Jenner",
+        "Jonathan Spangler",
+        "Tom Allen"
+      ],
+      "topics": [
+        "philippe",
+        "radio",
+        "edit"
+      ]
+    },
     {
       "key": "cdbfab7f0ccfc4171f398736b1a89db0f0634de7",
       "title": "Renaissance Medicine (Radio Edit)",
@@ -5815,6 +5837,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-15 — Philippe, Duc d’Orléans (Radio Edit) — speakers: Greg Jenner, Jonathan Spangler, Tom Allen
 - 2026-05-08 — Renaissance Medicine (Radio Edit) — speakers: Greg Jenner, Alanna Skuse, Ria Lina
 - 2026-05-01 — Emperor Nero (Radio Edit) — speakers: Greg Jenner, Mary Beard, Patton Oswalt
 - 2026-04-24 — The Terracotta Army (Radio Edit) — speakers: Greg Jenner, Julia Lovell, Phil Wang
