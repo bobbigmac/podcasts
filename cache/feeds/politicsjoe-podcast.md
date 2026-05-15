@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-13T17:24:10+00:00`
-- checked_at: `2026-05-13T17:24:10+00:00`
-- etag: `"djEuMi4wOjE3Nzg2OTA0MDMzMTc="`
+- fetched_at: `2026-05-15T14:34:34+00:00`
+- checked_at: `2026-05-15T14:34:34+00:00`
+- etag: `"djEuMi4wOjE3Nzg4NTI3NDM0Njk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-13T17:24:10+00:00",
+  "fetched_at": "2026-05-15T14:34:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "34a6614b8758448e3103e1678877a21351b27ec4",
+      "title": "Q&A: Will Wes Streeting be Prime Minister?",
+      "published_at": "2026-05-15T13:45:43+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a072387382d6c403024413a",
+      "description": "Ava Santina and Andy Twelves sit down to answer your questions about a potential Labour leadership contest after a crazy week in British politics. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a072387382d6c403024413a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35161073",
+      "itunes_duration": "24:24",
+      "speakers": [
+        "Ava Santina",
+        "Andy Twelves"
+      ],
+      "topics": [
+        "streeting",
+        "prime",
+        "minister"
+      ]
+    },
     {
       "key": "78064c48dd7bc4a3629ec80dbb06ff7e0917da00",
       "title": "Labour MPs: Wes Streeting will RUIN Labour",
@@ -12931,6 +12952,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-15 — Q&A: Will Wes Streeting be Prime Minister? — speakers: Ava Santina, Andy Twelves
 - 2026-05-13 — Labour MPs: Wes Streeting will RUIN Labour — speakers: Wes Streeting
 - 2026-05-12 — Who could replace Keir Starmer in Number 10?
 - 2026-05-11 — Rayner is READY, Streeting would kill Labour | Labour MP speaks out 000 — speakers: Clive Lewis

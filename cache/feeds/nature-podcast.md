@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-05-13T15:13:54+00:00`
-- checked_at: `2026-05-13T15:13:54+00:00`
-- etag: `"djEuMi4wOjE3Nzg2ODQ0Mzk2NjM="`
+- fetched_at: `2026-05-15T14:34:34+00:00`
+- checked_at: `2026-05-15T14:34:34+00:00`
+- etag: `"djEuMi4wOjE3Nzg4NTUxNzg5MDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-05-13T15:13:54+00:00",
+  "fetched_at": "2026-05-15T14:34:34+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "bd7839a849596b969ecf14b0cbb6779d0718ece9",
+      "title": "Briefing Chat: Hantavirus — what this outbreak reveals about the disease",
+      "published_at": "2026-05-15T14:26:18+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01575-9",
+      "description": "In this episode: 00:34 What questions remain about the hantavirus outbreak? Nature: Hantavirus outbreak exposes uncertainty about how disease spreads Nature: There is no vaccine for deadly hantavirus: what that means for future outbreaks Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a072d0aefd1f558b09d4e16/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "9208515",
+      "itunes_duration": "9:34",
+      "speakers": [
+        "Briefing Chat",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "chat",
+        "hantavirus",
+        "outbreak",
+        "disease"
+      ]
+    },
     {
       "key": "07adff7678f701c5613448139322aee2e00f9595",
       "title": "Red-light therapy is all the rage — does it work?",
@@ -4053,7 +4076,7 @@
       "title": "AI hears hidden X factor in zebra finch love songs",
       "published_at": "2024-03-20T16:00:42+00:00",
       "link": "https://www.nature.com/articles/d41586-024-00864-5",
-      "description": "This podcast has been corrected: in a previous version at 5:55 we stated that that the team's 200mm devices currently contain only a couple of magnetic tunnelling junctions, in fact they studied 500-1000 devices in this work. 00:48 How mysterious skyrmions could power next-generation computers Skyrmions are tiny whirlpools of magnetic spin that some researchers believe have useful properties that could unlock new kinds of computing. However getting skyrmions to perform useful computational tasks has been tricky. Now researchers have developed a method to create and manipulate skyrmions in a way that is compatible with existing computing technology, allowing them to read and write data at a fraction of the energy cost of conventional systems. The team think this shows that skyrmions could be a viable part of the next generation of computers. Research Article: Chen et al. News and Views: Magnetic whirlpools offer improved data storage 07:51 Research Highlights How robotically-enhanced, live jellyfish could make ocean monitoring cheap and easy, and how collective saliva tests could be a cost-effective way of testing for a serious infant infection. Research Highlight: These cyborg jellyfish could monitor the changing seas Research Highlight: Pooling babies’ saliva helps catch grave infection in newborns 10:01 AI identifies X factor hidden within zebra finch songs Male songbirds often develop elaborate songs to demonstrate their fitness, but many birds only learn a single song and stick with it their entire lives. How female birds judge the fitness between these males has been a long-standing puzzle. Now, using an AI-based system a team has analysed the songs of male zebra finches and shown that some songs have a hidden factor that is imperceptible to humans. Although it’s not clear exactly what this factor is, songs containing it were shown to be harder to learn and more attractive to females. The researchers hope that this AI-based method will allow them to better understand what makes some birdsong more attractive than others. Research article: Alam et al. News and Views: Birds convey complex signals in simple songs 20:04 Briefing Chat How H5N1 avian influenza is threatening penguins on Antarctica, and why farmed snake-meat could be a more environmentally-friendly way to produce protein for food. Nature News: Bird-flu threat disrupts Antarctic penguin studies Scientific American: Snake Steak Could Be a Climate-Friendly Source of Protein Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "This podcast has been corrected: in a previous version at 5:55 we stated that that the team's 200mm devices currently contain only a couple of magnetic tunnelling junctions, in fact they studied 500-1000 devices in this work. Update 15 May 2026 : The paper on zebra finch songs featured in this podcast was retracted on 15 April 2026. 00:48 How mysterious skyrmions could power next-generation computers Skyrmions are tiny whirlpools of magnetic spin that some researchers believe have useful properties that could unlock new kinds of computing. However getting skyrmions to perform useful computational tasks has been tricky. Now researchers have developed a method to create and manipulate skyrmions in a way that is compatible with existing computing technology, allowing them to read and write data at a fraction of the energy cost of conventional systems. The team think this shows that skyrmions could be a viable part of the next generation of computers. Research Article: Chen et al. News and Views: Magnetic whirlpools offer improved data storage 07:51 Research Highlights How robotically-enhanced, live jellyfish could make ocean monitoring cheap and easy, and how collective saliva tests could be a cost-effective way of testing for a serious infant infection. Research Highlight: These cyborg jellyfish could monitor the changing seas Research Highlight: Pooling babies’ saliva helps catch grave infection in newborns 10:01 AI identifies X factor hidden within zebra finch songs The paper covered in this podcast has been retracted by the authors following further data analysis. Retraction Note: The hidden fitness of the male zebra finch courtship song 20:04 Briefing Chat How H5N1 avian influenza is threatening penguins on Antarctica, and why farmed snake-meat could be a more environmentally-friendly way to produce protein for food. Nature News: Bird-flu threat disrupts Antarctic penguin studies Scientific American: Snake Steak Could Be a Climate-Friendly Source of Protein Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/65faf2a4b5ab8d00173f07a2/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -19652,6 +19675,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-15 — Briefing Chat: Hantavirus — what this outbreak reveals about the disease — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
 - 2026-05-13 — Red-light therapy is all the rage — does it work? — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-11 — Audio long read: The air is full of DNA — here’s what scientists are using it for — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-08 — Briefing Chat: Can't focus? It's not your attention span, it's your notifications — speakers: Briefing Chat, Nature Feature, Benjamin Thompson, Noah Baker
