@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-15T04:17:14+00:00`
-- checked_at: `2026-05-15T04:17:14+00:00`
-- etag: `"djEuMi4wOjE3Nzg4MTM4NTkyNzQ="`
+- fetched_at: `2026-05-16T10:38:11+00:00`
+- checked_at: `2026-05-16T10:38:11+00:00`
+- etag: `"djEuMi4wOjE3Nzg5MjUxNzY0NzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-15T04:17:14+00:00",
+  "fetched_at": "2026-05-16T10:38:11+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ee25b9ee84d56ea52deb0cfbd17b5a689920a2d8",
+      "title": "Rich and Ally's Craven Newsround Compilation 16",
+      "published_at": "2026-05-16T09:52:56+00:00",
+      "link": "https://shows.acast.com/rhlstp/episodes/rich-and-allys-craven-newsround-compilation-1",
+      "description": "Monday May 11th 2026 - Pert Nipples - Rich and Ally are back after a weekend away and Rich is determined to keep the show to its 5 minute time slot. With all the news from the Met Gala. So should be a nice quiet one. Tuesday 12th May 2026 - Llama Farmer - Rich and Ally are back to get to the bottom of whether the Prime Minister will stay on and whether he is a damp rag or something else all together. Wednesday 13th May 2026 - King’s Peach - Rich and Ally have news about dogs being kicked in the head and PM’s being kicked in the balls. With an exclusive interview with the next PM?? You don’t get this on the lame-stream news. Friday May 15th 2026 - The Gig Gokker - Rich and Ally are back for the last Newsround of the week and it’s all about Riches and riches. Not a single song, so nothing to annoy anyone. I am sure everything is fine. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1778924974386-40d8b200-5636-4af9-98d3-145ff13a281b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a083e78382d6c403074d42f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31682304",
+      "itunes_duration": "1:06:00",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation"
+      ]
+    },
     {
       "key": "6fdddd2f71d6c85dc255ced1e8ebd4f597aa88ca",
       "title": "John Robins on Thirst (Part 2) - Book Club",
@@ -22408,6 +22429,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-16 — Rich and Ally's Craven Newsround Compilation 16 — speakers: Richard Herring
 - 2026-05-15 — John Robins on Thirst (Part 2) - Book Club — speakers: John Robins, Richard Herring
 - 2026-05-13 — Matt Forde - "Comedian Cancer Frankingstein" — speakers: Cancer Frankingstein, Cancer Frankingstein Rich, Richard Herring
 - 2026-05-12 — RAACN week 15 — speakers: Mrs Doubtfire There, Richard Herring
