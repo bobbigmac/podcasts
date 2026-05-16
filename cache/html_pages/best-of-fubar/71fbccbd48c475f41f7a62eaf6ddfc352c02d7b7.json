@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=22",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=22",
-  "fetched_at": "2026-05-15T22:11:22+00:00",
+  "fetched_at": "2026-05-16T04:01:20+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": null,
   "episodes": [
+    {
+      "key": "e3050218877804118d38ff37f7cfceeacfe4e21f",
+      "guid": "bf7c0358-91de-416f-b52c-539a15588491",
+      "title": "Best of FUBAR (24th August)",
+      "published_at": "2024-08-24T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-24th-august/",
+      "description": "",
+      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1724457950-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=bf7c0358-91de-416f-b52c-539a15588491&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "93bb55318cd1ca2ce07967b52bc149946ea397e0",
       "guid": "c790e8e7-1c3c-450f-a132-0bf59c4dc022",

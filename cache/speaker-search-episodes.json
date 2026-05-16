@@ -24884,6 +24884,72 @@
     ],
     "nish-kumar": [
       {
+        "feed_slug": "external:apple:230fcc5a3193",
+        "feed_title": "TRASHFUTURE",
+        "source_rss_url": "https://feed.podbean.com/trashfuturepodcast/feed.xml",
+        "dedupe_key": "d63189bba0a40527f0aa3eaa637f205d1caabe16",
+        "episode_key": "d63189bba0a40527f0aa3eaa637f205d1caabe16",
+        "title": "*PREVIEW* White Skin, White Masks feat. Nish Kumar",
+        "published_at": "2026-05-15T17:38:30Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We’ve brought on our friend and long-suffering literary correspondent Nish Kumar to discuss Matthew Goodwin’s new book that he wrote using AI while cribbing a stupid meme from the Joe Rogan Experience: “suicidal empathy.” The hits are all there, but Goodwin can’t bring himself to go full Camp of the Saints, and instead",
+        "audio_url": "https://mcdn.podbean.com/mf/web/kfimy4jsyebq4h59/05-15-TF-Nish-promo.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/preview-white-skin-white-masks-feat-nish-kumar/id1261944206?i=1000767992274&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:5b707c818a78",
+        "feed_title": "Top Stories!",
+        "source_rss_url": "https://rss.pdrl.fm/4128f0/feeds.acast.com/public/shows/6310d4dfae5d1300124c4e12",
+        "dedupe_key": "737578f12be2c15a558cdf7dbf4ccb6fee417d7c",
+        "episode_key": "737578f12be2c15a558cdf7dbf4ccb6fee417d7c",
+        "title": "2020 Review Leftovers",
+        "published_at": "2026-05-15T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome back to Top Stories! We're heading back to the start of 2021, where Andy was joined by Nish Kumar and Alice Fraser, and they had festive leftovers from the Bugle review of 2020. \nThat was another Top Story. Thanks for listening. Now pop over the mothership and listen to the last Bugle podcast. It’s like Top Sto",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6310d4dfae5d1300124c4e12/e/6a05c48d68dc584edabb378a/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/2020-review-leftovers/id1647976369?i=1000767757654&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:5b707c818a78",
+        "feed_title": "Top Stories!",
+        "source_rss_url": "https://rss.pdrl.fm/4128f0/feeds.acast.com/public/shows/6310d4dfae5d1300124c4e12",
+        "dedupe_key": "817a3d4a22eefaf502766f6b8a9d666aedfbf130",
+        "episode_key": "817a3d4a22eefaf502766f6b8a9d666aedfbf130",
+        "title": "Our 150th Anniversary since relaunch!",
+        "published_at": "2026-05-14T16:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome back to Top Stories. In this episode we travel back an over half a decade ago, to the 150th anniversary of the relaunch of The Bugle. Andy was joined by Nish Kumar, and Hari Kondabolu, as they find themselves suffering from cabin fever during the Covid-19 lockdown!\nThanks, more classic clips tomorrow. Now go li",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6310d4dfae5d1300124c4e12/e/6a05c461d98ee73f63ac22c1/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/our-150th-anniversary-since-relaunch/id1647976369?i=1000767757830&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:fd2f66771bc9",
         "feed_title": "Table Manners with Jessie and Lennie Ware",
         "source_rss_url": "https://feeds.acast.com/public/shows/4d1603d1-3c56-4f4d-a5b3-7611f87011a9",
