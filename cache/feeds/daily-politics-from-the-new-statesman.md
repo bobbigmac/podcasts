@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-05-15T14:34:34+00:00`
-- checked_at: `2026-05-15T14:34:34+00:00`
-- etag: `"djEuMi4wOjE3Nzg4NDM0ODI2OTE="`
+- fetched_at: `2026-05-16T16:08:28+00:00`
+- checked_at: `2026-05-16T16:08:28+00:00`
+- etag: `"djEuMi4wOjE3Nzg5NDcyMzkzMDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-05-15T14:34:34+00:00",
+  "fetched_at": "2026-05-16T16:08:28+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "24d23ce8a512add07799b165cb9d21cab1995d37",
+      "title": "Keir Starmer’s never ending chaos | Will and Anoosh’s weekly round up",
+      "published_at": "2026-05-16T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/keir-starmers-never-ending-chaos-will-and-anooshs-weekly-rou",
+      "description": "Keir Starmer’s never ending cycle of political chaos, Reform’s suspended local councillors and Anoosh’s heckle of Boris Johnson. Will Dunn and Anoosh Chakelian round up the stories of the week. Read: https://www.newstatesman.com/comment/2026/05/will-progressives-ever-forgive-labour https://www.newstatesman.com/business/economics/2026/05/the-bond-markets-will-not-save-keir-starmer LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1778843375428-445c33d2-ee29-4bb0-a510-1b51c6adf97d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a06fdeaec9ca1b453ca699a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62959218",
+      "itunes_duration": "32:42",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "keir",
+        "starmer",
+        "chaos",
+        "anoosh",
+        "round"
+      ]
+    },
     {
       "key": "8ca08f7f9a40c8edbe964b83211315cb159af57d",
       "title": "Streeting resigns, but can he trigger a leadership contest?",
@@ -31264,6 +31287,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-16 — Keir Starmer’s never ending chaos | Will and Anoosh’s weekly round up — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-14 — Streeting resigns, but can he trigger a leadership contest? — speakers: Wes Streeting, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2026-05-12 — Starmer defiantly clings to power — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-11 — The weirdest day in Westminster — speakers: Anoosh Chakelian, Oli Dugmore
