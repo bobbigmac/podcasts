@@ -2680,6 +2680,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:2a4373e4b849",
+        "feed_title": "How To Fail With Elizabeth Day",
+        "source_rss_url": "https://rss.pdrl.fm/e402a9/feeds.megaphone.fm/howtofail",
+        "dedupe_key": "f3bd36451ee98c9e19f5bffbf9fb09cebe940d5a",
+        "episode_key": "f3bd36451ee98c9e19f5bffbf9fb09cebe940d5a",
+        "title": "S9, Ep8 How to Fail: James Acaster",
+        "published_at": "2020-10-14T06:27:50Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Yes, it's the SEASON FINALE - I know, I know, it comes around so quickly doesn't it? But fear not, for we have an excellent guest in the form of James Acaster: comedian, podcaster, author and music enthusiast (specifically enthusiastic for anything released in 2016, which he claims in his book, Perfect Sound Whatever, ",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/pdrl.fm/e402a9/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/mgln.ai/e/143/pscrb.fm/rss/p/traffic.megaphone.fm/SONY1860366504.mp3?updated=1705664461",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s9-ep8-how-to-fail-james-acaster/id1407451189?i=1000494686730&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:0ca1d54dc195",
         "feed_title": "White Wine Question Time",
         "source_rss_url": "https://feeds.acast.com/public/shows/acaaaf98-69c1-4a94-b843-5ea7e3892f66",
