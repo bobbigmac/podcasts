@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-05-17T13:56:34+00:00`
-- checked_at: `2026-05-17T13:56:34+00:00`
-- etag: `W/"36164-WH4rf64IZICzvZe9VJRUL/vf4ao"`
+- fetched_at: `2026-05-17T16:10:50+00:00`
+- checked_at: `2026-05-17T16:10:50+00:00`
+- etag: `W/"3697f-Q52eYl4psCbEpOj328x2ZQmbAfw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-05-17T13:56:34+00:00",
+  "fetched_at": "2026-05-17T16:10:50+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,32 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "ccbd8082db9ded98fc13c3164a2980acf323d656",
+      "title": "Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast",
+      "published_at": "2026-05-15T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Mortal-Kombat-II-Impressions--Mixtapes-Ridiculous-Drama--and-More--Firelink-Podcast-e3jfjk5",
+      "description": "This week on Firelink, Nick, KC, and Marty chat about the the silly drama surrounding Mixtape, a game update from Sega, impressions of the new Mortal Kombat movie, and more. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/120097861/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-17%2F6e461942-934b-97e8-8ba3-f537d252771a.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "162097376",
+      "itunes_duration": "01:52:34",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "kombat",
+        "impressions",
+        "mixtape",
+        "ridiculous",
+        "drama",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "cd178071a1ad4127bb0205bb809b3a636afdbb66",
       "title": "Nintendo's Star Fox Surprise | Firelink Podcast",
@@ -2783,6 +2809,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-15 — Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-05-08 — Nintendo's Star Fox Surprise | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-05-01 — Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-04-24 — Building a Showcase, Black Flag Returns, and More | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
