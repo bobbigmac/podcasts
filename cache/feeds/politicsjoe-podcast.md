@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-15T14:34:34+00:00`
-- checked_at: `2026-05-15T14:34:34+00:00`
-- etag: `"djEuMi4wOjE3Nzg4NTI3NDM0Njk="`
+- fetched_at: `2026-05-17T13:56:34+00:00`
+- checked_at: `2026-05-17T13:56:34+00:00`
+- etag: `"djEuMi4wOjE3NzkwMTU2Mzk1MDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-15T14:34:34+00:00",
+  "fetched_at": "2026-05-17T13:56:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "49742a797b965f4bb66b45a61dc28c08c7aa49f4",
+      "title": "The sinister plot behind the far-right's shift on Israel | Norman Finkelstein interview",
+      "published_at": "2026-05-17T11:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a099b51d98ee73f63b7a5c2",
+      "description": "Norman Finkelstein is the foremost scholar on the politics of Palestine and Israel since the foundation of the Israeli state. He took time out of his busy schedule to speak to us about the deepening crisis in free speech across the globe that has stemmed from public opposition to Western complicity in the genocide in Gaza. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a099b51d98ee73f63b7a5c2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "116908158",
+      "itunes_duration": "1:21:10",
+      "speakers": [
+        "Norman Finkelstein"
+      ],
+      "topics": [
+        "plot",
+        "right",
+        "shift",
+        "israel",
+        "norman",
+        "finkelstein"
+      ]
+    },
     {
       "key": "34a6614b8758448e3103e1678877a21351b27ec4",
       "title": "Q&A: Will Wes Streeting be Prime Minister?",
@@ -12952,6 +12975,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-17 — The sinister plot behind the far-right's shift on Israel | Norman Finkelstein interview — speakers: Norman Finkelstein
 - 2026-05-15 — Q&A: Will Wes Streeting be Prime Minister? — speakers: Ava Santina, Andy Twelves
 - 2026-05-13 — Labour MPs: Wes Streeting will RUIN Labour — speakers: Wes Streeting
 - 2026-05-12 — Who could replace Keir Starmer in Number 10?

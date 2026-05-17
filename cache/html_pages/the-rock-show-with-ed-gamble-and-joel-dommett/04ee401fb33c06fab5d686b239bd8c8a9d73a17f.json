@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/?page=3",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/?page=3",
-  "fetched_at": "2026-05-17T10:39:11+00:00",
+  "fetched_at": "2026-05-17T13:56:34+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": null,
   "episodes": [
+    {
+      "key": "86115c5a3b975ccf7da4b7465cbf98c2d65897de",
+      "guid": "afcd401c-3dfa-4b12-abce-0b9416b64bd4",
+      "title": "The Rock Show with Ed Gamble and Joel Dommett (23rd March)",
+      "published_at": "2025-03-23T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-rock-show-with-ed-gamble-and-joel-dommett-23rd-march/",
+      "description": "FUBAR's dons of rock Ed and Joel give you a rock education every week - and you'll have a bloody good laugh while you're at it.",
+      "image_url": "https://mm.aiircdn.com/177/173528.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1742738671-the_rock_show_with_ed_gamble_and_joel_dommett.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=afcd401c-3dfa-4b12-abce-0b9416b64bd4&awCollectionId=fubar_radio-sta",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "378f56d6878b1e80f5cb938fdc19c4a947211c4a",
       "guid": "338b4194-f192-40e7-8225-a3c8e57b612d",
