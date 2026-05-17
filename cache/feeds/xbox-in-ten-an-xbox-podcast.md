@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-05-11T04:35:42+00:00`
-- checked_at: `2026-05-11T04:35:42+00:00`
-- etag: `"a9bec1580d18b65f572378254e768d45"`
-- last_modified: `Mon, 11 May 2026 04:17:49 GMT`
+- fetched_at: `2026-05-17T22:07:59+00:00`
+- checked_at: `2026-05-17T22:07:59+00:00`
+- etag: `"f9f01b81959a52bfa3616d8bb570b917"`
+- last_modified: `Sun, 17 May 2026 19:58:28 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-05-11T04:35:42+00:00",
+  "fetched_at": "2026-05-17T22:07:59+00:00",
   "owners": [
     "Brandon Rosa"
   ],
