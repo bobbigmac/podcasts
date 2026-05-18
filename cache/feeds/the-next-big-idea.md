@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-05-18T04:41:14+00:00`
-- checked_at: `2026-05-18T04:41:14+00:00`
-- last_modified: `Mon, 18 May 2026 03:19:19 GMT`
+- fetched_at: `2026-05-18T10:41:09+00:00`
+- checked_at: `2026-05-18T10:41:09+00:00`
+- last_modified: `Mon, 18 May 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-18T04:41:14+00:00",
+  "fetched_at": "2026-05-18T10:41:09+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,28 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "ec603315363aab897e272cde1f0dfb9df6a40905",
+      "title": "Best Of: An Epicurean Guide to the Good Life",
+      "published_at": "2026-05-18T09:00:00+00:00",
+      "link": null,
+      "description": "The Greek philosopher Epicurus made a rather bold claim over two thousand years ago. The key to life, he said, is simple: pursue pleasure and avoid pain. Around this maxim he developed a school of philosophy, Epicureanism, which promised its adherents that if they took care of their basic needs, surrounded themselves with trustworthy friends, and developed a basic understanding of science, they would be happy. But is it really that simple? Can the advice of someone born 2,363 years ago still hold true? To answer these questions, we turned to Emily Austin, professor of philosophy at Wake Forest University and author of the delightful book Living for Pleasure: An Epicurean Guide to Life. (This episode first aired in January 2023.) Sponsored By: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months. Just head to granola.ai/idea Incogni — Protect your personal information online and get an exclusive 60% off an annual plan at incogni.com/nbi Quince — Refresh your spring wardrobe and get free shipping and 365-day returns at quince.com/nbi Shopify — Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP5110114644.mp3?updated=1779074651",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4292",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "epicurean",
+        "guide",
+        "good",
+        "life"
+      ]
+    },
     {
       "key": "568aea63df04605956b6f342f18c76158efa3f7a",
       "title": "What if Uncertainty Isn’t Such a Bad Thing?",
@@ -7730,6 +7752,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — Best Of: An Epicurean Guide to the Good Life — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-05-14 — What if Uncertainty Isn’t Such a Bad Thing? — speakers: Simone Stolzoff, Rufus Griscom, Caleb Bissinger
 - 2026-05-11 — You Can Grow Your Brain. Here’s How. — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-05-07 — Turning Constraints Into Breakthroughs with David Epstein — speakers: David Epstein, Rufus Griscom, Caleb Bissinger

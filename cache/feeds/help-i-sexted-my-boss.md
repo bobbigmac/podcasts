@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-05-17T22:07:59+00:00`
-- checked_at: `2026-05-17T22:07:59+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnprd05UUTNNVE0zTnpZPTo6c2F4ZXNz"`
+- fetched_at: `2026-05-18T10:41:09+00:00`
+- checked_at: `2026-05-18T10:41:09+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnprd09EQTBPVE15T1RJPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-05-17T22:07:59+00:00",
+  "fetched_at": "2026-05-18T10:41:09+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f90a55e3307856ef77bbc04f3ec29cafb5db3629",
+      "title": "Help I’m A West End Girl | And Jordy’s Rants",
+      "published_at": "2026-05-18T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-im-a-west-end-girl-and-jordys-rants",
+      "description": "All aboard! William's got some news that you're not going to want to miss. Meanwhile, Jordan's unhappy about the suggestion of a 6am airport pint ban, the boys discuss their favourite flowers and they wonder whether they would ever marry a murderer.",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": "47:35",
+      "speakers": [
+        "Jordy’s Rants",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "west",
+        "girl",
+        "jordy",
+        "rant"
+      ]
+    },
     {
       "key": "12745d8d11bcd53e9a6719edc315ffc0db4cd6c2",
       "title": "Jordan’s 2AM Cringe | And Is Wrestling Gay?",
@@ -14307,6 +14330,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — Help I’m A West End Girl | And Jordy’s Rants — speakers: Jordy’s Rants, William Hanson, Jordan North
 - 2026-05-15 — Jordan’s 2AM Cringe | And Is Wrestling Gay? — speakers: William Hanson, Jordan North
 - 2026-05-12 — Help I’m Sharing Soap With Strangers | And Speedo Season — speakers: William Hanson, Jordan North
 - 2026-05-08 — Granny Put What In Her Eye?! | And Jordan's Superstitions — speakers: William Hanson, Jordan North

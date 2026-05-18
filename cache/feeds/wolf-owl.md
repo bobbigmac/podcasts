@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-15T09:24:37+00:00`
-- checked_at: `2026-05-15T09:24:37+00:00`
-- last_modified: `Fri, 15 May 2026 09:16:14 GMT`
+- fetched_at: `2026-05-18T10:41:09+00:00`
+- checked_at: `2026-05-18T10:41:09+00:00`
+- last_modified: `Mon, 18 May 2026 10:33:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-15T09:24:37+00:00",
+  "fetched_at": "2026-05-18T10:41:09+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -3979,9 +3979,9 @@
       "title": "S2 Ep 43: Busted Chairs & A Brand New Air Fryer",
       "published_at": "2023-04-26T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… real vs fantasy football, cool American drinks, the fallacy of builders tea, disappearing into obscurity, broken chairs and bruised egos, Tom’s shocking return to air frying and techniques for unlocking your creativity. Then we answer some email questions on encouraging words for your partner, getting over disappointments and a tricky visible nipple issue. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… real vs fantasy football, cool American drinks, the fallacy of builders tea, disappearing into obscurity, broken chairs and bruised egos, Tom’s shocking return to air frying and techniques for unlocking your creativity. Then we answer some email questions on encouraging words for your partner, getting over disappointments and a tricky visible nipple issue. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5274139608.mp3?updated=1682422271",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5274139608.mp3?updated=1779100629",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3797",
@@ -4000,9 +4000,9 @@
       "title": "S2 Ep 42: Lightsabers & Noisy Sandwiches",
       "published_at": "2023-04-19T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… multiple apologies, building your own lightsaber, sandwich-gate and some very angry listeners, sexing up the King’s coronation, the pain of picnics, agro wasps, the dangerous combination of tight trunks and a full bladder, embarrassing nearly-naked experiences and audition let-downs. Plus, a jam-packed email about fatherhood, envy and playing FIFA online. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… multiple apologies, building your own lightsaber, sandwich-gate and some very angry listeners, sexing up the King’s coronation, the pain of picnics, agro wasps, the dangerous combination of tight trunks and a full bladder, embarrassing nearly-naked experiences and audition let-downs. Plus, a jam-packed email about fatherhood, envy and playing FIFA online. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6995344881.mp3?updated=1681822899",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6995344881.mp3?updated=1779099939",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4025",
@@ -4021,9 +4021,9 @@
       "title": "S2 Ep 41: Dental Care & Disney World",
       "published_at": "2023-04-05T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… early morning starts, minty fresh breath, burping actors, a trip to Disney World, Marvel Rom vs Star Wars Rom, being born as a 43-year-old, Pontins talent contests, quitting Twitter and coming up with character voices. Plus, a couple of email questions answered about being on celebrity shows and our best (or worst) spontaneous decisions. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… early morning starts, minty fresh breath, burping actors, a trip to Disney World, Marvel Rom vs Star Wars Rom, being born as a 43-year-old, Pontins talent contests, quitting Twitter and coming up with character voices. Plus, a couple of email questions answered about being on celebrity shows and our best (or worst) spontaneous decisions. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9105642439.mp3?updated=1680628892",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9105642439.mp3?updated=1779099258",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3709",
@@ -4043,9 +4043,9 @@
       "title": "S2 Ep 40: Birthdays and Brass Necks",
       "published_at": "2023-03-29T02:00:00+00:00",
       "link": null,
-      "description": "It’s Rom’s Birthday! And to celebrate the special day, we’re talking… early morning gym sessions, naming names, extreme beard trims, rubber necking, brass necks, Tom’s beef with Married At First Sight, the mystery of Ryan Reynolds and anecdote angst. Then, after Tom’s very lengthy explanations about why time exists and snakes hiss, we just about manage to squeeze in some email questions. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s Rom’s Birthday! And to celebrate the special day, we’re talking… early morning gym sessions, naming names, extreme beard trims, rubber necking, brass necks, Tom’s beef with Married At First Sight, the mystery of Ryan Reynolds and anecdote angst. Then, after Tom’s very lengthy explanations about why time exists and snakes hiss, we just about manage to squeeze in some email questions. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5249666235.mp3?updated=1680070153",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5249666235.mp3?updated=1779098214",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3426",
@@ -4064,9 +4064,9 @@
       "title": "S2 Ep 39: Dull Detectives & Fake Injuries",
       "published_at": "2023-03-22T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… dull detectives, ounces of Idris, constructive criticisms, working on walks, sleeping sounds, fire-hydrant attacks, attentions-seeking injuries and losing your rag in public. Plus, an email question about appropriating your partners recommendations and another suggestion for a ‘would you rather’ quandary. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… dull detectives, ounces of Idris, constructive criticisms, working on walks, sleeping sounds, fire-hydrant attacks, attentions-seeking injuries and losing your rag in public. Plus, an email question about appropriating your partners recommendations and another suggestion for a ‘would you rather’ quandary. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List- https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9270506371.mp3?updated=1679337533",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9270506371.mp3?updated=1779096895",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3965",
