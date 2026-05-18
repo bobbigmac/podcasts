@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-18T15:56:24+00:00`
-- checked_at: `2026-05-18T15:56:24+00:00`
-- last_modified: `Mon, 18 May 2026 15:51:58 GMT`
+- fetched_at: `2026-05-18T20:01:18+00:00`
+- checked_at: `2026-05-18T20:01:18+00:00`
+- last_modified: `Mon, 18 May 2026 18:23:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-18T15:56:24+00:00",
+  "fetched_at": "2026-05-18T20:01:18+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -3290,12 +3290,12 @@
       "title": "S2 Ep 76: Stand-Up Celebrations & Saturday Chefs",
       "published_at": "2023-10-25T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Tom at the Hackney Empire, Rom’s warm-up gigs, end of show celebrations, the acceptability of jumping into the crowd, some mischievous misreporting, the mystery of a very intimidating audience member and dealing with successes and criticisms. Then it’s a glowing report from Rom’s recent appearance on Saturday Kitchen, the challenges of not swearing on live TV, a minor sticky toffee pudding scandal, some serious beef with burgers and the difference between fruit and veg. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Tom at the Hackney Empire, Rom’s warm-up gigs, end of show celebrations, the acceptability of jumping into the crowd, some mischievous misreporting, the mystery of a very intimidating audience member and dealing with successes and criticisms. Then it’s a glowing report from Rom’s recent appearance on Saturday Kitchen, the challenges of not swearing on live TV, a minor sticky toffee pudding scandal, some serious beef with burgers and the difference between fruit and veg. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4463478233.mp3?updated=1698247168",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4463478233.mp3?updated=1779122980",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3788",
+      "itunes_duration": "3848",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -3311,12 +3311,12 @@
       "title": "S2 Ep 75: Friday Bonus & A Seinfeld Quiz",
       "published_at": "2023-10-20T02:00:00+00:00",
       "link": null,
-      "description": "Before we hit the emails, Rom challenges Tom to a Seinfeld quiz and we discuss our current TV obsessions, life after reality shows and the problems with YouTube boxers. Then we answer some more of your questions - this week about how to switch off and relax whilst juggling a hectic life, making the first move with a work colleague and some inspiration for a romantic gesture. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Before we hit the emails, Rom challenges Tom to a Seinfeld quiz and we discuss our current TV obsessions, life after reality shows and the problems with YouTube boxers. Then we answer some more of your questions - this week about how to switch off and relax whilst juggling a hectic life, making the first move with a work colleague and some inspiration for a romantic gesture. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7987167879.mp3?updated=1697639694",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7987167879.mp3?updated=1779122069",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3348",
+      "itunes_duration": "3378",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -3332,9 +3332,9 @@
       "title": "S2 Ep 74: Self-Tan & Airport Pranks",
       "published_at": "2023-10-18T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Tom’s broken boiler, holidaying in Spain, a calamitous self-tan lotion miss-communication, hotel prank calls, bumpy landings, duty-free scares, the best flabbergaster in the game, Rom’s West Country gigs, the brilliant Fatiha El-Ghorri and a query about backstage banter. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Tom’s broken boiler, holidaying in Spain, a calamitous self-tan lotion miss-communication, hotel prank calls, bumpy landings, duty-free scares, the best flabbergaster in the game, Rom’s West Country gigs, the brilliant Fatiha El-Ghorri and a query about backstage banter. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2105917554.mp3?updated=1698256169",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2105917554.mp3?updated=1779121354",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3440",
@@ -3353,9 +3353,9 @@
       "title": "S2 Ep 73: Friday Bonus & Sporting Fails",
       "published_at": "2023-10-13T02:00:00+00:00",
       "link": null,
-      "description": "Bonus emails time! First we discuss some of our sporting disappointments and general lack of competitiveness, along with some recent feedback about recycling. Then it’s time for the main event - a real mix bag of questions on manscaping, calling out a friend for being racist, impressions of each other and a ‘would you rather’ challenge. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Bonus emails time! First we discuss some of our sporting disappointments and general lack of competitiveness, along with some recent feedback about recycling. Then it’s time for the main event - a real mix bag of questions on manscaping, calling out a friend for being racist, impressions of each other and a ‘would you rather’ challenge. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1201576334.mp3?updated=1697041510",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1201576334.mp3?updated=1779120698",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2023",
@@ -3373,9 +3373,9 @@
       "title": "S2 Ep 72: No Ideas & Insta Strategies",
       "published_at": "2023-10-11T02:00:00+00:00",
       "link": null,
-      "description": "After worrying they’ve absolutely nothing to talk about on this week’s pod, Rom and Tom pull 50 minutes of chat out the bag! We’re talking… bedroom presenting, Apollo shows, the greatness of Denise van Outen, illnesses and tour show tickets, making friends with actors, Instagram strategies, TikTok obsessions, a Wolf & Owl FPL update, film stars and billionaires, the Beckham documentary, buying a football club and Tom learning to drive (again). For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "After worrying they’ve absolutely nothing to talk about on this week’s pod, Rom and Tom pull 50 minutes of chat out the bag! We’re talking… bedroom presenting, Apollo shows, the greatness of Denise van Outen, illnesses and tour show tickets, making friends with actors, Instagram strategies, TikTok obsessions, a Wolf & Owl FPL update, film stars and billionaires, the Beckham documentary, buying a football club and Tom learning to drive (again). For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3748757844.mp3?updated=1696947008",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3748757844.mp3?updated=1779120328",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3343",

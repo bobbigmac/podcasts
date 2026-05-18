@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-05-16T16:08:28+00:00`
-- checked_at: `2026-05-16T16:08:28+00:00`
-- etag: `"djEuMi4wOjE3Nzg5NDcyMzkzMDg="`
+- fetched_at: `2026-05-18T20:01:18+00:00`
+- checked_at: `2026-05-18T20:01:18+00:00`
+- etag: `"djEuMi4wOjE3NzkxMjEyOTE3NzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-05-16T16:08:28+00:00",
+  "fetched_at": "2026-05-18T20:01:18+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "308607d278031bcabfe6e4366dd6e5fe87fccae4",
+      "title": "What is Andy Burnham’s “Manchesterism”?",
+      "published_at": "2026-05-18T16:20:22+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/what-is-andy-burnhams-manchesterism",
+      "description": "Andy Burnham is running in a by-election in Makerfield, which is likely to be held on 18 June, to return to Parliament as an MP. If he wins, he will be the frontrunner in a contest to replace Keir Starmer as Prime Minister. Burnham’s personal brand of politics is often referred to as “Manchesterism”. So, what is it? Anoosh Chakelian is joined by The New Statesman’s editor-in-chief Tom McTague, who profiled Andy Burnham back in September. LISTEN: https://www.newstatesman.com/podcasts/politics-podcast/2025/09/andy-burnham-has-a-plan-for-britain-2 READ: https://www.newstatesman.com/politics/2025/09/exclusive-andy-burnhams-plan-for-britain LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1779121088616-bc6d7d9b-398d-44ff-8eba-c38171b868e4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a0b3b9f215f57b8a2b6ad81/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99258155",
+      "itunes_duration": "41:19",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "manchesterism"
+      ]
+    },
     {
       "key": "24d23ce8a512add07799b165cb9d21cab1995d37",
       "title": "Keir Starmer’s never ending chaos | Will and Anoosh’s weekly round up",
@@ -31287,6 +31309,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — What is Andy Burnham’s “Manchesterism”? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-05-16 — Keir Starmer’s never ending chaos | Will and Anoosh’s weekly round up — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-14 — Streeting resigns, but can he trigger a leadership contest? — speakers: Wes Streeting, Ailbhe Rea, Anoosh Chakelian, Oli Dugmore
 - 2026-05-12 — Starmer defiantly clings to power — speakers: Anoosh Chakelian, Oli Dugmore
