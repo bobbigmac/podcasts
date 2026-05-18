@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-05-17T13:56:34+00:00`
-- checked_at: `2026-05-17T13:56:34+00:00`
-- last_modified: `Sun, 17 May 2026 11:25:19 GMT`
+- fetched_at: `2026-05-18T15:56:24+00:00`
+- checked_at: `2026-05-18T15:56:24+00:00`
+- last_modified: `Mon, 18 May 2026 12:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-17T13:56:34+00:00",
+  "fetched_at": "2026-05-18T15:56:24+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,88 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "faf24e0996ce523f12c562f0998265c9f556ab90",
+      "title": "483. Bonus with Lucia Osborne-Crowley",
+      "published_at": "2026-05-18T12:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 483. Bonus Presented by Deborah Frances-White with special guest Lucia Osborne-Crowley from The Nerve Recorded 13 May 2026 via Riverside. Released 18 May. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Lucia Osborne-Crowley https://www.instagram.com/luciaoc https://luciaosbornecrowley.com https://www.waterstones.com/book/the-lasting-harm/lucia-osborne-crowley/9780008591229 For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Road to Gilead at the Museum of Comedy . https://www.museumofcomedy.com/the-guilty-feminist/ The Guilty Feminist Meets Rose McGowan . https://www.charleston.org.uk/event/the-guilty-feminist Tracey Emin in Conversation . https://www.southbankcentre.co.uk/whats-on/the-guilty-feminist-tracey-emin-in-conversation/ Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d337df34-51d8-11f1-b944-2b44c93f7f93/image/8a2090d8283c50120619267268614127.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL4908020118.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2948",
+      "speakers": [
+        "Lucia Osborne-Crowley",
+        "Deborah Frances-White",
+        "Lucia Osborne-C"
+      ],
+      "topics": [
+        "lucia",
+        "osborne",
+        "crowley"
+      ]
+    },
+    {
+      "key": "bf2531919a2d38b6e61bb45037e1f1ccd981b38d",
+      "title": "483. The Epstein Files with The Nerve featuring Ria Lina, Carole Cadwalladr, Lucia Osborne-Crowley, Dan Whitlam and GeeJay - part two",
+      "published_at": "2026-05-18T11:30:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 483. The Epstein Files with The Nerve Presented by Deborah Frances-White and Ria Lina with special guests Carole Cadwalladr and Lucia Osborne-Crowley from The Nerve, poetry from Dan Whitlam and music from GeeJay Recorded 30 April 2026 at the Leicester Square Theatre in London. Released 18 May. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Ria Lina https://www.instagram.com/rialina_ https://www.patreon.com/cw/rialina https://rialina.com More about The Nerve https://www.instagram.com/the_nerve_news https://www.thenerve.news https://www.instagram.com/carole_cadwalladr More about Lucia Osborne-Crowley https://www.instagram.com/luciaoc https://luciaosbornecrowley.com https://www.waterstones.com/book/the-lasting-harm/lucia-osborne-crowley/9780008591229 More about Dan Whitlam https://www.instagram.com/danwhitlam https://www.danwhitlam.com More about GeeJay https://www.instagram.com/geejayuk https://geejay.uk https://soundcloud.com/geejayuk For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Road to Gilead at the Museum of Comedy . https://www.museumofcomedy.com/the-guilty-feminist/ The Guilty Feminist Meets Rose McGowan . https://www.charleston.org.uk/event/the-guilty-feminist Tracey Emin in Conversation . https://www.southbankcentre.co.uk/whats-on/the-guilty-feminist-tracey-emin-in-conversation/ Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/caaa3f24-51d8-11f1-a3da-f3dce27d8103/image/b6bd404018adcca0e21e9737d55a7d14.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL6824243832.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3227",
+      "speakers": [
+        "Carole Cadwalladr",
+        "Lucia Osborne-Crowley",
+        "Dan Whitlam",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "epstein",
+        "files",
+        "nerve",
+        "lina",
+        "carole",
+        "cadwalladr",
+        "lucia",
+        "osborne",
+        "crowley",
+        "whitlam"
+      ]
+    },
+    {
+      "key": "6a98b0d964fd9fd80b5a250b876b660cca43b9f0",
+      "title": "483. The Epstein Files with The Nerve featuring Ria Lina, Carole Cadwalladr, Lucia Osborne-Crowley, Dan Whitlam and GeeJay - part one",
+      "published_at": "2026-05-18T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 483. The Epstein Files with The Nerve Presented by Deborah Frances-White and Ria Lina with special guests Carole Cadwalladr and Lucia Osborne-Crowley from The Nerve, poetry from Dan Whitlam and music from GeeJay Recorded 30 April 2026 at the Leicester Square Theatre in London. Released 18 May. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Ria Lina https://www.instagram.com/rialina_ https://www.patreon.com/cw/rialina https://rialina.com More about The Nerve https://www.instagram.com/the_nerve_news https://www.thenerve.news https://www.instagram.com/carole_cadwalladr More about Lucia Osborne-Crowley https://www.instagram.com/luciaoc https://luciaosbornecrowley.com https://www.waterstones.com/book/the-lasting-harm/lucia-osborne-crowley/9780008591229 More about Dan Whitlam https://www.instagram.com/danwhitlam https://www.danwhitlam.com More about GeeJay https://www.instagram.com/geejayuk https://geejay.uk https://soundcloud.com/geejayuk For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Road to Gilead at the Museum of Comedy . https://www.museumofcomedy.com/the-guilty-feminist/ The Guilty Feminist Meets Rose McGowan . https://www.charleston.org.uk/event/the-guilty-feminist Tracey Emin in Conversation . https://www.southbankcentre.co.uk/whats-on/the-guilty-feminist-tracey-emin-in-conversation/ Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c2209fb0-51d8-11f1-9ab4-1bbabf9b091b/image/b6bd404018adcca0e21e9737d55a7d14.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL4903680131.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4127",
+      "speakers": [
+        "Carole Cadwalladr",
+        "Lucia Osborne-Crowley",
+        "Dan Whitlam",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "epstein",
+        "files",
+        "nerve",
+        "lina",
+        "carole",
+        "cadwalladr",
+        "lucia",
+        "osborne",
+        "crowley",
+        "whitlam"
+      ]
+    },
     {
       "key": "44ec969400bfa744acbe4e0731aec915c55245ce",
       "title": "Yesteryear with Caro Claire Burke",
@@ -17929,6 +18011,9 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — 483. Bonus with Lucia Osborne-Crowley — speakers: Lucia Osborne-Crowley, Deborah Frances-White, Lucia Osborne-C
+- 2026-05-18 — 483. The Epstein Files with The Nerve featuring Ria Lina, Carole Cadwalladr, Lucia Osborne-Crowley, Dan Whitlam and GeeJay - part two — speakers: Carole Cadwalladr, Lucia Osborne-Crowley, Dan Whitlam, Deborah Frances-White
+- 2026-05-18 — 483. The Epstein Files with The Nerve featuring Ria Lina, Carole Cadwalladr, Lucia Osborne-Crowley, Dan Whitlam and GeeJay - part one — speakers: Carole Cadwalladr, Lucia Osborne-Crowley, Dan Whitlam, Deborah Frances-White
 - 2026-05-14 — Yesteryear with Caro Claire Burke — speakers: Claire Burke, Deborah Frances-White
 - 2026-05-11 — 482. Ten for Ten #10: Sara Pascoe — speakers: Deborah Frances-White
 - 2026-05-04 — 481. The Algorithm with Aoife Dunne and Adele Zeynep Walton - part two — speakers: Deborah Frances-White, Aoife Dunne

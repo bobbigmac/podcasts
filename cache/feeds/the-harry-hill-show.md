@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-05-18T10:41:09+00:00`
-- checked_at: `2026-05-18T10:41:09+00:00`
-- last_modified: `Mon, 18 May 2026 08:44:30 GMT`
+- fetched_at: `2026-05-18T15:56:24+00:00`
+- checked_at: `2026-05-18T15:56:24+00:00`
+- last_modified: `Mon, 18 May 2026 11:54:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-18T10:41:09+00:00",
+  "fetched_at": "2026-05-18T15:56:24+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -28,8 +28,8 @@
   "episodes": [
     {
       "key": "743bfd6f60cd8e652078c74c1c037e6c3731c890",
-      "title": "Henning Wehn: Live Laugh Love, It's Prosecco O'Clock",
-      "published_at": "2026-05-18T08:23:00+00:00",
+      "title": "Henning Wehn: In Germany people laugh once the work is done. Not instead of doing any work.",
+      "published_at": "2026-05-18T10:59:00+00:00",
       "link": null,
       "description": "Henning Wehn, Deutschlands größter Lacher, ist diese Woche bei Harry zu Gast. Außerdem erfahren wir alles über Uhren von dem Denkmalpfleger Alex Jeffrey. Henning Wehn, Germany's biggest laugher joins Harry this week. We're learning all about Clocks with conservationist, Alex Jeffrey. \"Henning Wehn\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on Henning Wehn. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
@@ -45,9 +45,9 @@
       "topics": [
         "henning",
         "wehn",
-        "laugh",
-        "love",
-        "prosecco"
+        "germany",
+        "people",
+        "work"
       ]
     },
     {
@@ -1717,7 +1717,7 @@
 
 ## Episodes (newest first)
 
-- 2026-05-18 — Henning Wehn: Live Laugh Love, It's Prosecco O'Clock — speakers: Henning Wehn, Harry zu Gast, Harry Hill
+- 2026-05-18 — Henning Wehn: In Germany people laugh once the work is done. Not instead of doing any work. — speakers: Henning Wehn, Harry zu Gast, Harry Hill
 - 2026-05-11 — Joe Lycett: There are a few AI slop accounts now that really grip me... — speakers: Joe Lycett, Mummy Joe Lycett, Harry Hill
 - 2026-04-20 — The Best of The Harry Hill Show Season 1! — speakers: Harry Hill
 - 2026-04-13 — Tim Vine: I've Sniffed Up The Seeds — speakers: Tim Vine, Harry Hill

@@ -2,6 +2,28 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "0aaf97fea906566804d51637de9105734c912bb8",
+        "episode_key": "0aaf97fea906566804d51637de9105734c912bb8",
+        "title": "Josh Widdicombe XFM #14 – James Acaster returns with Classic Scrape 12, Joe Lycett, Elis James",
+        "published_at": "2026-05-17T18:13:03Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster returns with a new Classic Scrape, Joe Lycett phones in and Elis James is in the studio.Broadcast on 4th June 2013.",
+        "audio_url": "https://traffic.megaphone.fm/APO4395715918.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-14-james-acaster-returns-with/id1866254969?i=1000768277389&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
