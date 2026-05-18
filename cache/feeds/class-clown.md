@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-05-11T22:18:19+00:00`
-- checked_at: `2026-05-11T22:18:19+00:00`
-- last_modified: `Mon, 11 May 2026 21:07:57 GMT`
+- fetched_at: `2026-05-18T04:41:14+00:00`
+- checked_at: `2026-05-18T04:41:14+00:00`
+- last_modified: `Sun, 17 May 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-11T22:18:19+00:00",
+  "fetched_at": "2026-05-18T04:41:14+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "85fb59f99880f94abe51c0133d83ed1e96980a30",
+      "title": "FATIHA EL-GHORRI: Working 9-5 AND gigging 6 nights a week",
+      "published_at": "2026-05-17T23:00:00+00:00",
+      "link": null,
+      "description": "Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7819151684.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2498",
+      "speakers": [
+        "Seann Walsh"
+      ],
+      "topics": [
+        "fatiha",
+        "ghorri",
+        "night",
+        "week"
+      ]
+    },
     {
       "key": "6ebae048cc260f370f5fc1fca6b05bc9fb3f08c7",
       "title": "FATIHA EL-GHORRI: From Homelessness & Two Divorces To Living Her Comedy Dream",
@@ -1421,6 +1442,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-17 — FATIHA EL-GHORRI: Working 9-5 AND gigging 6 nights a week — speakers: Seann Walsh
 - 2026-05-10 — FATIHA EL-GHORRI: From Homelessness & Two Divorces To Living Her Comedy Dream — speakers: Fatiha El-Ghorri, Seann Walsh
 - 2026-05-03 — HARRY HILL: The Benefits Of Failing & Going To School In Hong Kong — speakers: Harry Hill, Seann Walsh
 - 2026-04-26 — HARRY HILL: Tough Early Shows, Gigging With Al Murray & Innate Understanding Of Jokes — speakers: Harry Hill, Seann Walsh

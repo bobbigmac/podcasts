@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-05-17T22:07:59+00:00`
-- checked_at: `2026-05-17T22:07:59+00:00`
-- etag: `"f9f01b81959a52bfa3616d8bb570b917"`
-- last_modified: `Sun, 17 May 2026 19:58:28 GMT`
+- fetched_at: `2026-05-18T04:41:14+00:00`
+- checked_at: `2026-05-18T04:41:14+00:00`
+- etag: `"59e7f417f360fd5ff83ee70f7f1fec66"`
+- last_modified: `Mon, 18 May 2026 04:19:37 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-05-17T22:07:59+00:00",
+  "fetched_at": "2026-05-18T04:41:14+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7842ce972b878da87711f935e7338f8fb51b91e4",
+      "title": "Xbox Is Rebranding to XBOX? - (Xbox In Ten: An Xbox Podcast - Ep. 364)",
+      "published_at": "2026-05-18T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-is-rebranding-to-xbox-xbox-in-ten-an-xbox-podcast-ep-364",
+      "description": "Week of: 5-11-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/7/6/5/d/765db1a90bca2acdd959afa2a1bf1c87/364.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/364.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19577776",
+      "itunes_duration": "13:54",
+      "speakers": [
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "22aeaf07451b689a638e12e9314d6822be0f536a",
       "title": "Xbox News Recap: New North Star, Project Helix, AI, and More! - (Xbox In Ten: An Xbox Podcast - Ep. 363)",
@@ -9149,6 +9168,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — Xbox Is Rebranding to XBOX? - (Xbox In Ten: An Xbox Podcast - Ep. 364) — speakers: Brandon Rosa
 - 2026-05-11 — Xbox News Recap: New North Star, Project Helix, AI, and More! - (Xbox In Ten: An Xbox Podcast - Ep. 363) — speakers: Project Helix, Brandon Rosa
 - 2026-05-04 — Game Pass's Best Games, Recommendations, and Future Releases - (Xbox In Ten: An Xbox Podcast - Ep. 362) — speakers: Game Pass, Best Games, Future Releases, Xbox Game Pass Extravaganza, Brandon Rosa
 - 2026-04-27 — Xbox Game Pass Ultimate Price Drop! - (Xbox In Ten: An Xbox Podcast - Ep. 361) — speakers: Brandon Rosa

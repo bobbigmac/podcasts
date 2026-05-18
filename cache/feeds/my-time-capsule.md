@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-05-17T19:35:51+00:00`
-- checked_at: `2026-05-17T19:35:51+00:00`
-- etag: `"djEuMi4wOjE3NzkwNDA2ODcxNjQ="`
+- fetched_at: `2026-05-18T04:41:14+00:00`
+- checked_at: `2026-05-18T04:41:14+00:00`
+- etag: `"djEuMi4wOjE3NzkwNTg5NTkzMDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-05-17T19:35:51+00:00",
+  "fetched_at": "2026-05-18T04:41:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3b10848fde356eebd7b6af4776fd60f9a4c368c9",
+      "title": "Ep. 585 - Bryony Kimmings - Writer and performer who co-wrote the film Last Christmas with Emma Thompson",
+      "published_at": "2026-05-17T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-585-bryony-kimmings-writer-and-performer-who-co-wrote-the",
+      "description": "Bryony Kimmings is an award-winning writer and performer whose work spans television, film and groundbreaking live performance. Most recently, she adapted The Rapture into a five-part television drama starring Ruth Madeley. She also co-wrote, with Emma Thompson, the screenplay for the film Last Christmas, starring Emilia Clarke and Henry Golding. Widely regarded as one of the UK’s most original contemporary performers, Bryony creates multi-platform works that blend autobiography, social experimentation and performance art. Her acclaimed shows include I’m a Phoenix, Bitch, Credible Likeable Superstar Role Model and Fake It Till You Make It, all of which received widespread critical praise and multiple five-star reviews. Her latest production, Bog Witch, follows a critically acclaimed London run and is now touring venues across the UK and Ireland. Inspired by Bryony’s own life, the show explores her decision to uproot herself and her son to live in an isolated cottage in the wilderness in an attempt to reconnect with nature and rediscover happiness and sanity. Bryony Kimmings is our guest in episode 585 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . For tickets for Bog Witch and everything else Bryony Kimmings, visit - https://www.bryonykimmings.com . Follow Bryony Kimmings on Instagram : @bryonykimmings . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a0a01afbae3d7f66f7248ba/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69807981",
+      "itunes_duration": "58:10",
+      "speakers": [
+        "Emma Thompson",
+        "Bryony Kimmings"
+      ],
+      "topics": [
+        "bryony",
+        "kimmings",
+        "writer",
+        "performer",
+        "film",
+        "christmas",
+        "emma",
+        "thompson"
+      ]
+    },
     {
       "key": "85021262c2a430134c5bd2f40cfb84ccee5d5968",
       "title": "My Time Capsule The Dig - Ep. 2 - With Steve Edge (Phoenix Nights, Benidorm, The Jason Manford Show)",
@@ -12581,6 +12607,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-17 — Ep. 585 - Bryony Kimmings - Writer and performer who co-wrote the film Last Christmas with Emma Thompson — speakers: Emma Thompson, Bryony Kimmings
 - 2026-05-14 — My Time Capsule The Dig - Ep. 2 - With Steve Edge (Phoenix Nights, Benidorm, The Jason Manford Show) — speakers: Steve Edge, Manford Show
 - 2026-05-10 — Ep. 584 - Julie Peasgood - From Brookside, Emmerdale & Hollyoaks and winner of RTS’s TV Personality of the Year Award — speakers: Julie Peasgood
 - 2026-05-07 — My Time Capsule The Dig - Ep. 1 - With Lucy Porter! — speakers: Lucy Porter, John sit

@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-05-17T04:31:45+00:00`
-- checked_at: `2026-05-17T04:31:45+00:00`
-- last_modified: `Sun, 17 May 2026 00:41:46 GMT`
+- fetched_at: `2026-05-18T04:41:14+00:00`
+- checked_at: `2026-05-18T04:41:14+00:00`
+- last_modified: `Sun, 17 May 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-17T04:31:45+00:00",
+  "fetched_at": "2026-05-18T04:41:14+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "decfc04a62ccded429f51b77f48d6571cdd7c0d6",
+      "title": "Ben Elton on Blackadder, Mr Bean & Writing TV Classics",
+      "published_at": "2026-05-17T23:01:00+00:00",
+      "link": null,
+      "description": "What does the man behind Blackadder actually think about modern comedy? Ben Elton, multi award-winning comedian writer, novelist, director and lyricist joins Romesh to discuss his new autobiography, 'What Have I Done?’' and share with us how he went from being a 10-year old auditioning for amateur theatre, to writing some of the most-loved British sitcoms including Blackadder, The Young Ones and more. From going to University with Rick Mayall, getting the call to work with Queen and how the We Will Rock You Musical really came about, to what happened when Blackadder got cancelled and why he loves Mr Bean so much. Plus: a classic question from Shanthi, a rant about mobile phones and an unexpected modelling pitch to M&S. Don't miss it. A Ranga Bee Production in partnership with Platform. 00:00 - Intro 02:50 - Ben’s autobiography 04:49 - On reviews and critics 09:09 - A gift for Ben 12:54 - Ben’s route into writing 15:34 - On stand up 21:32 - Challenging sexism and politics 24:10 - On Improvising 26:13 - The real story of Blackadder 37:55 - Ben’s favourite work 39:30 - On negative headlines 40:56 - Upstart Crow with David Mitchell 43:32 - Triumph and disaster 45:03 - Shanthi’s question to Ben 48:35 - On We Will Rock You 01:01-40 - Misquoted 01:16:55 - Saying what you want to say 01:18:28 - Modelling pitch 01:19:02 - Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/897ce5ca-5187-11f1-a1a6-77ab483539a1/image/8013056bcd8b362bb03ad7df5c3dfca6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5158751539.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4976",
+      "speakers": [
+        "Ben Elton",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "elton",
+        "blackadder",
+        "bean",
+        "writing",
+        "classic"
+      ]
+    },
     {
       "key": "b1af8d138e144cb21281372121440e70c4302d7e",
       "title": "We Accidentally Ignored 632 Emails…",
@@ -1569,6 +1592,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-17 — Ben Elton on Blackadder, Mr Bean & Writing TV Classics — speakers: Ben Elton, Romesh Ranganathan
 - 2026-05-13 — We Accidentally Ignored 632 Emails… — speakers: Romesh Ranganathan
 - 2026-05-10 — Adam Buxton on Why Podcasting Has Got WORSE & Comedy Jingles — speakers: Adam Buxton, Romesh Ranganathan
 - 2026-05-06 — Shanthi on Being an Immigrant in the 70s & Superstitions — speakers: Superstitions Who, Romesh Ranganathan

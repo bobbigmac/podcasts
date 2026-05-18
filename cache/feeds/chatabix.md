@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-15T17:00:59+00:00`
-- checked_at: `2026-05-15T17:00:59+00:00`
-- etag: `"djEuMi4wOjE3Nzg4NjQwMDI0MzE="`
+- fetched_at: `2026-05-18T04:41:14+00:00`
+- checked_at: `2026-05-18T04:41:14+00:00`
+- etag: `"djEuMi4wOjE3NzkwNjk2Mzk1NzU="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-05-15T17:00:59+00:00",
+  "fetched_at": "2026-05-18T04:41:14+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,30 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "8548a301cc50d436972e307a3ff45323dc874b57",
+      "title": "S15 Ep 841 Vault Mondays: Joe's Music Library and Becoming A Model",
+      "published_at": "2026-05-18T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-841-vault-mondays-joes-music-library-and-becoming-a-m",
+      "description": "Archive episode time! And in this classic, we chat about technical difficulties, Ben Rufus Green, Joe's music library and turning Joe into a successful model. First posted on 23rd June 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a074f4fd98ee73f6339e7b2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67522688",
+      "itunes_duration": "28:08",
+      "speakers": [
+        "Ben Rufus Green",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "music",
+        "library",
+        "model"
+      ]
+    },
     {
       "key": "3ca05c557e57cf234681bec80f2a3996be2f0ee8",
       "title": "S15 Ep 840: Patreons In The Den - Part 2",
@@ -14918,6 +14942,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — S15 Ep 841 Vault Mondays: Joe's Music Library and Becoming A Model — speakers: Ben Rufus Green, Joe Wilkinson, David Earl
 - 2026-05-15 — S15 Ep 840: Patreons In The Den - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2026-05-14 — S15 Ep 839: Patreons In The Den - Part 1 — speakers: Joe Wilkinson, David Earl
 - 2026-05-13 — S15 Ep 838: The Farm - Revisited! — speakers: Joe Wilkinson, David Earl

@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/the-richard-herring-show/?page=4",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/the-richard-herring-show/?page=4",
-  "fetched_at": "2026-05-17T22:07:59+00:00",
+  "fetched_at": "2026-05-18T04:41:14+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": null,
   "episodes": [
+    {
+      "key": "78cb50029bd11972f151350fc2d5f3d6ac681ea3",
+      "guid": "e62b013c-7002-4764-8f03-a26ebd1669cf",
+      "title": "The Richard Herring Show (26th August)",
+      "published_at": "2024-08-26T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-richard-herring-show-26th-august/",
+      "description": "Master of British comedy Richard Herring unleashes his ribald humour with off-beat co-host Lou Sanders.",
+      "image_url": "https://mm.aiircdn.com/177/865364.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1724641270-the_richard_herring_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=e62b013c-7002-4764-8f03-a26ebd1669cf&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "d060227c5bc8f928109402cd12d75f3794c7412a",
       "guid": "e5e15352-f0e4-4dc8-9295-bd929f932d84",

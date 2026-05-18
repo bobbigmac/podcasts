@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-05-16T04:01:20+00:00`
-- checked_at: `2026-05-16T04:01:20+00:00`
-- etag: `"djEuMi4wOjE3Nzg4OTMxNjIzNjg="`
+- fetched_at: `2026-05-18T04:41:14+00:00`
+- checked_at: `2026-05-18T04:41:14+00:00`
+- etag: `"djEuMi4wOjE3NzkwNzg2Mzk0MDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-05-16T04:01:20+00:00",
+  "fetched_at": "2026-05-18T04:41:14+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ba331a18a242e95980d4accc1b02bb01e0044b59",
+      "title": "623 The Punisher: One Last Kill",
+      "published_at": "2026-05-18T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/623-the-punisher-one-last-kill",
+      "description": "It's high time for another Weekly Planet podcast! This week we're talking the latest MCU Special Presentation The Punisher: One Last Kill, box office tracking for The Mandalorian vs Groglet & Masters of the Universe, Ahsoka Season 2 release date, the Voltron movie going straight to streaming, four Fast & Furious spin-off TV shows in the works, new details on the Lanterns DCU series and more! Thanks for listening New bonus let's play video for the He-Man games out now to watch on bigsandwich.co and patreon.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 02:48 What's Vin Diesel's Deal? 07:49 Mandalorian vs Groglet Preview 13:04 Ahsoka Season 2 Release 15:21 He-Man Movie Box Office Fears 21:13 Voltron Movie Straight to Streaming 26:50 FOUR Fast & Furious Spin-off Series 29:50 Westworld Movie Reboot Announced 37:04 New DC Lanterns Series Details 40:20 The Punisher: One Last Kill Review 52:00 The Punisher: One Last Kill Spoilers 01:05:02 What We Reading, What We Gonna Read 01:12:48 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a072dc368dc584eda371e5e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138601774",
+      "itunes_duration": "1:36:15",
+      "speakers": [
+        "Weekly Planet",
+        "Special Pre",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "punisher",
+        "kill"
+      ]
+    },
     {
       "key": "c509e07a42eff7a44e038a41e01d552be3c12f85",
       "title": "Total Recall - Caravan Of Garbage",
@@ -22303,6 +22325,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — 623 The Punisher: One Last Kill — speakers: Weekly Planet, Special Pre, James Clement, Nick Mason
 - 2026-05-14 — Total Recall - Caravan Of Garbage — speakers: Total Recall, James Clement, Nick Mason
 - 2026-05-11 — 622 Daredevil, The Boys & Mortal Kombat 2 — speakers: Mortal Kombat, James Clement, Nick Mason
 - 2026-05-10 — X-Men: The Last Stand REDUX - Caravan Of Garbage — speakers: James Clement, Nick Mason

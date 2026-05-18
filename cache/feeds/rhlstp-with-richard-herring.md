@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-16T10:38:11+00:00`
-- checked_at: `2026-05-16T10:38:11+00:00`
-- etag: `"djEuMi4wOjE3Nzg5MjUxNzY0NzI="`
+- fetched_at: `2026-05-18T04:41:14+00:00`
+- checked_at: `2026-05-18T04:41:14+00:00`
+- etag: `"djEuMi4wOjE3NzkwNzMwNTkzNjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-16T10:38:11+00:00",
+  "fetched_at": "2026-05-18T04:41:14+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "67963a2234043048010ceaaba3f98b73b80b84cb",
+      "title": "Josh Widdicombe (Retro) - \"Chlorine Allergy\"",
+      "published_at": "2026-05-18T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#429 Chlorine Allergy - Rich has some cold hard truths for any murderers out there and is also glad to see that his eventless zombie story idea has been so quickly embraced, with a twist. Today is a momentous meeting of Champions of Champions because his guest is Josh Widdicombe. They talk about the worst thing you can take to the hospital when your wife is giving birth, being related to Henry VIII and a man who wiped a king’s bum, what Josh’s disability is, the true motivations of role players, bumping into Beaumont, Josh’s inability to swim, whether we might see the return of the sitcom Josh, tiny women who live in burrows and whether some comedians work so hard that they never get a chance to spend their millions. Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1778782548420-5d07a977-b595-453b-a0c9-000e34e5def9.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a06111368dc584edad8104a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40892354",
+      "itunes_duration": "1:20:15",
+      "speakers": [
+        "Josh Widdicombe",
+        "Richard Herring"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "retro",
+        "chlorine",
+        "allergy"
+      ]
+    },
     {
       "key": "ee25b9ee84d56ea52deb0cfbd17b5a689920a2d8",
       "title": "Rich and Ally's Craven Newsround Compilation 16",
@@ -22429,6 +22452,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-18 — Josh Widdicombe (Retro) - "Chlorine Allergy" — speakers: Josh Widdicombe, Richard Herring
 - 2026-05-16 — Rich and Ally's Craven Newsround Compilation 16 — speakers: Richard Herring
 - 2026-05-15 — John Robins on Thirst (Part 2) - Book Club — speakers: John Robins, Richard Herring
 - 2026-05-13 — Matt Forde - "Comedian Cancer Frankingstein" — speakers: Cancer Frankingstein, Cancer Frankingstein Rich, Richard Herring

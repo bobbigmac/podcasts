@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-05-15T09:24:37+00:00`
-- checked_at: `2026-05-15T09:24:37+00:00`
-- etag: `W/"6f9ce62ddb54666a07b994993a419641"`
-- last_modified: `Fri, 15 May 2026 08:44:59 GMT`
+- fetched_at: `2026-05-18T04:41:14+00:00`
+- checked_at: `2026-05-18T04:41:14+00:00`
+- etag: `W/"4f4dc1b8fe1eeee382dcaef8eb133ff4"`
+- last_modified: `Sun, 17 May 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-05-15T09:24:37+00:00",
+  "fetched_at": "2026-05-18T04:41:14+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,28 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "d1da83c2305fc5ee503e758b574722b9ac499008",
+      "title": "Little Fish: Unencumbered By Any Knowledge",
+      "published_at": "2026-05-17T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8904130",
+      "description": "Dan, James and Andy discuss YOUR facts, including reaction times and daylight saving times. We learn why Andy doesn't fancy the secret to everlasting life. And we name eight more Friend of the Podcast fact custodians. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8904130.mp3?modified=1778863139&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1819",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "knowledge"
+      ]
+    },
     {
       "key": "de66f61b6e4891d5d4959178d4cd0c677348e2fe",
       "title": "No Such Thing As A Whale In Your Car",
@@ -16288,6 +16310,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-17 — Little Fish: Unencumbered By Any Knowledge — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-14 — No Such Thing As A Whale In Your Car — speakers: Manu Henriot, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-10 — Little Fish: Still Rockin' The Cloaca — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-07 — No Such Thing As A Ham Bag — speakers: Susie Dent, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
