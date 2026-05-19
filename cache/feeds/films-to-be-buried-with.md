@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-05-13T09:19:09+00:00`
-- checked_at: `2026-05-13T09:19:09+00:00`
-- last_modified: `Wed, 13 May 2026 07:20:00 GMT`
+- fetched_at: `2026-05-19T22:38:10+00:00`
+- checked_at: `2026-05-19T22:38:10+00:00`
+- last_modified: `Tue, 19 May 2026 20:51:28 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-13T09:19:09+00:00",
+  "fetched_at": "2026-05-19T22:38:10+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -57,7 +57,7 @@
       "title": "Peter Capaldi (Doctor Who / In The Loop / Criminal Record) • #393",
       "published_at": "2026-05-06T06:29:00+00:00",
       "link": "https://www.patreon.com/cw/brettgoldstein",
-      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the wel versed and well rounded national treasure that is PETER CAPALDI ! Peter has been a very welcome fixture of the small and big screen since a little while back, and is one of those actors who wherever you meet him on the journey, you'll very likely feel the need to acquaint yourself with the rest of the roles. Thankfully there are many, which range from the titual star of sci-fi institution Doctor Who to the irascible and short-tempered Malcolm Tucker in The Thick Of It and In The Loop. This is a delightful chat with Brett which mercifully doesn't find itself in Tucker territory, but rather the more pleasant and very enjoyable side of Peter, off camera. Tons to enjoy! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! CRIMINAL RECORD SERIES 2 IMDB SWEET ILLUSIONS album THE THICK OF IT LOCAL HERO –––––––––– ⁠⁠ BRETT • X ⁠⁠ ⁠⁠ BRETT • INSTAGRAM ⁠⁠ ⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠ ⁠⁠ TED LASSO ⁠⁠ ⁠⁠ SHRINKING ⁠⁠ ⁠⁠ ALL OF YOU ⁠⁠ ⁠⁠ SOULMATES ⁠⁠ ⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the well versed and well rounded national treasure that is PETER CAPALDI ! Peter has been a very welcome fixture of the small and big screen since a little while back, and is one of those actors who wherever you meet him on the journey, you'll very likely feel the need to acquaint yourself with the rest of the roles. Thankfully there are many, which range from the titual star of sci-fi institution Doctor Who to the irascible and short-tempered Malcolm Tucker in The Thick Of It and In The Loop. This is a delightful chat with Brett which mercifully doesn't find itself in Tucker territory, but rather the more pleasant and very enjoyable side of Peter, off camera. Tons to enjoy! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! CRIMINAL RECORD SERIES 2 IMDB SWEET ILLUSIONS album THE THICK OF IT LOCAL HERO –––––––––– ⁠⁠ BRETT • X ⁠⁠ ⁠⁠ BRETT • INSTAGRAM ⁠⁠ ⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠ ⁠⁠ TED LASSO ⁠⁠ ⁠⁠ SHRINKING ⁠⁠ ⁠⁠ ALL OF YOU ⁠⁠ ⁠⁠ SOULMATES ⁠⁠ ⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/70c674f6-489a-11f1-b507-ffb14fb81112/image/8c7150b786698e31360d7dfdba7f0386.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1273106329.mp3?updated=1777997646",
       "enclosure_type": "audio/mpeg",

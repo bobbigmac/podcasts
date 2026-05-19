@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-05-19T20:04:07+00:00`
-- checked_at: `2026-05-19T20:04:07+00:00`
-- etag: `W/"3c837-oJvOsYq5VmQ+5BVUdnQ3hlkRbSI"`
+- fetched_at: `2026-05-19T22:38:10+00:00`
+- checked_at: `2026-05-19T22:38:10+00:00`
+- etag: `W/"3cfff-ELnAd2u5L4qoQFyDbjR23BCOnTk"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-05-19T20:04:07+00:00",
+  "fetched_at": "2026-05-19T22:38:10+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "20b26d80aab548fcf8e98dabc4e6e68c733e099c",
+      "title": "Hey Games, Cool It With the Text Logs | Windbreaker Podcast",
+      "published_at": "2026-05-19T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Hey-Games--Cool-It-With-the-Text-Logs--Windbreaker-Podcast-e3jjopj",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about text/diary/journal/audio logs in video games -- the good, the bad, and the weird. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://anchor.fm/s/fe088118/podcast/play/120234227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-19%2F3ca725d2-ab47-e788-6cc9-2d01bfe0b5b3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106717856",
+      "itunes_duration": "01:14:06",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "games",
+        "cool",
+        "text",
+        "logs",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "80edb88a3733a7d2a23b11e9ff3a2113d690ebf0",
       "title": "How to Keep a Franchise Feeling Fresh | Windbreaker Podcast",
@@ -2850,6 +2874,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-19 — Hey Games, Cool It With the Text Logs | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-05-12 — How to Keep a Franchise Feeling Fresh | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-05-05 — Games As Comedy Engines w/ Jack Packard | Windbreaker Podcast — speakers: Jack Packard, Yahtzee Croshaw, Marty Sliva
 - 2026-04-28 — Let's All Have a Good Cry | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
