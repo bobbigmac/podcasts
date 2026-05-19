@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-05-18T04:41:14+00:00`
-- checked_at: `2026-05-18T04:41:14+00:00`
-- etag: `"31d62fb14725ce8c0cbf785883719c37"`
-- last_modified: `Mon, 18 May 2026 04:00:07 GMT`
+- fetched_at: `2026-05-19T10:07:04+00:00`
+- checked_at: `2026-05-19T10:07:04+00:00`
+- etag: `"37b774de418580aba21f545ddb1d70ed"`
+- last_modified: `Tue, 19 May 2026 05:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-05-18T04:41:14+00:00",
+  "fetched_at": "2026-05-19T10:07:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -969,25 +969,6 @@
       "topics": [
         "fair"
       ]
-    },
-    {
-      "key": "6a2ff7de0a20201a839720dad24986bad9d6bf3d",
-      "title": "Unspeakable",
-      "published_at": "2025-05-19T05:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lc3rcj",
-      "description": "We hear Clive Anderson's new word for the mystery of hotel bathrooms, Sindhu Vee's term to measure cuteness, and a nail-biting finish from Ed Gamble. Ever struggled to find the right word for a feeling or sensation? Unspeakable sees comedian Phil Wang and lexicographer Susie Dent invite celebrity guests to invent new linguistic creations, to solve those all too relatable moments when we're lost for words. To hear more episodes, search \"Unspeakable\" on BBC Sounds. Hosts: Phil Wang and Susie Dent Guests: Clive Anderson, Ed Gamble and Sindhu Vee Created by Joe Varley Writers: Matt Crosby and Katie Storey Recorded by Jerry Peal Producer: Jon Harvey Executive Producers: Joe Varley and Akash Lockmun A Brown Bred production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lc3qrk.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27440000",
-      "itunes_duration": "1715",
-      "speakers": [
-        "Clive Anderson",
-        "Sindhu Vee"
-      ],
-      "topics": [
-        "unspeakable"
-      ]
     }
   ]
 }
@@ -1045,4 +1026,3 @@
 - 2025-06-16 — Live from the UK
 - 2025-06-09 — Strong Message Here — speakers: Jon Stewart
 - 2025-06-02 — It's a Fair Cop
-- 2025-05-19 — Unspeakable — speakers: Clive Anderson, Sindhu Vee

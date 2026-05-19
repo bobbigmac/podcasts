@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-05-18T20:01:18+00:00`
-- checked_at: `2026-05-18T20:01:18+00:00`
-- etag: `"djEuMi4wOjE3NzkxMzI2ODc4ODg="`
+- fetched_at: `2026-05-19T10:07:04+00:00`
+- checked_at: `2026-05-19T10:07:04+00:00`
+- etag: `"djEuMi4wOjE3NzkxNzQwOTEyMTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-05-18T20:01:18+00:00",
+  "fetched_at": "2026-05-19T10:07:04+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4cfa2403846396d694d165bdaccb87de148d9ed2",
+      "title": "EP.272 - BRIDGET CHRISTIE & ALICE BOYD LIVE @ BRISTOL - BEACON THEATRE, 2024",
+      "published_at": "2026-05-19T07:01:31+00:00",
+      "link": "https://shows.acast.com/adambuxton/episodes/ep272-bridget-christie-alice-boyd-live-bristol-beacon-theatr",
+      "description": "Adam talks with comedian, actor and writer Bridget Christie in front of a live audience at the Bristol Beacon about the joys of jogging, enlightenment in middle age, why Ken Dodd is not creepy, the rewards of being single, and what happens when teenagers start leaving home. Plus live music from UK-based sound artist, composer and field recordist Alice Boyd. Thanks to Crosstown promotions and the live podcast crew especially Richard Walsh, Mike Thompson, Ben Saunders, Analisa Lembo, Séamus Murphy Mitchell and Frank Buxton. Conversation and music recorded on 24 May, 2024 Podcast illustration by Helen Green SAILY 🌎 Get an exclusive 15% discount on your first Saily data plans! Use code buxton at checkout. Download Saily app or go to https://saily.com/ buxton ⛵ THE ADAM BUXTON BAND MAY 2026 TOUR BUG BOWIE SPECIAL @ THE LIGHTROOM 17 June, 2-4 July, 2026 ADAM BUXTON PODCAST LIVE WITH MAWAAN RIZWAAN @ The Roundhouse, 5 April, 2026 RETURN OF THE WHITE TAILED EAGLE by Alice Boyd - 2025 (YouTube) ALICE BOYD - SHIFTING SOUNDSCAPES - 2024 (BBC Sounds) ALICE BOYD LIVE IN WARSAW - 2026 (YouTube) KEN DODD AND BESSIE BRADDOCK STATUE photo by David Rostance (flickr) A LOOK INSIDE BOWIE - YOU ARE NOT ALONE @ The Lightroom (Instagram) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1779132049496-d8b993ad-ccd2-4f4b-b390-20671c811e41.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/6a0b690ffd0523152a2e64cf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "145733743",
+      "itunes_duration": "1:00:43",
+      "speakers": [
+        "Bridget Christie",
+        "Adam Buxton"
+      ],
+      "topics": [
+        "bridget",
+        "christie",
+        "alice",
+        "boyd",
+        "bristol",
+        "beacon",
+        "theatre"
+      ]
+    },
     {
       "key": "d9a5f36915cf0336d95e2f996216804f77a8057a",
       "title": "EP.271 - JOSH JOHNSON",
@@ -5549,6 +5574,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-19 — EP.272 - BRIDGET CHRISTIE & ALICE BOYD LIVE @ BRISTOL - BEACON THEATRE, 2024 — speakers: Bridget Christie, Adam Buxton
 - 2026-05-11 — EP.271 - JOSH JOHNSON — speakers: Josh Johnson, Adam Buxton
 - 2026-05-01 — EP.270 - REBECCA LUCY TAYLOR AKA SELF ESTEEM — speakers: Rebecca Lucy Taylor, Adam Buxton
 - 2026-04-20 — EP.269 - JAMIE HEWLETT & DAMON ALBARN AKA GORILLAZ — speakers: Damon Albarn, Jamie Hewlett, Adam Buxton

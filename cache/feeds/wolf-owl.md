@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-19T04:33:38+00:00`
-- checked_at: `2026-05-19T04:33:38+00:00`
-- last_modified: `Mon, 18 May 2026 23:10:13 GMT`
+- fetched_at: `2026-05-19T10:07:04+00:00`
+- checked_at: `2026-05-19T10:07:04+00:00`
+- last_modified: `Tue, 19 May 2026 10:04:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-19T04:33:38+00:00",
+  "fetched_at": "2026-05-19T10:07:04+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -3252,12 +3252,12 @@
       "title": "S2 Ep 79: Friday Bonus with a Laughing Emoji",
       "published_at": "2023-11-10T03:00:00+00:00",
       "link": null,
-      "description": "It’s bonus time! And we’re talking… love for the North, hotel upgrades, supporting actors, losing your temper, Ross Kemp rabbit holes and an Emoji Movie remake. Then it’s onto some email questions about putting your foot in it at a wedding and a best mate’s annoying habits (read at Rom’s x2 speed). Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s bonus time! And we’re talking… love for the North, hotel upgrades, supporting actors, losing your temper, Ross Kemp rabbit holes and an Emoji Movie remake. Then it’s onto some email questions about putting your foot in it at a wedding and a best mate’s annoying habits (read at Rom’s x2 speed). Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1717302038.mp3?updated=1708647645",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1717302038.mp3?updated=1779183360",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2652",
+      "itunes_duration": "2682",
       "speakers": [
         "Laughing Emoji",
         "Romesh Ranganathan",
@@ -3274,12 +3274,12 @@
       "title": "S2 Ep 78: Wardrobes, Coffee & TikTok Tom",
       "published_at": "2023-11-08T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… messy wardrobes, high-level hygiene, a very strange dinner table, the errors of hanging up T-shirts, loud irons, cap collections, Tom’s new TikTok videos, social media food reviewers, Pret problems, bogus baristas, a very dubious story about cronuts and some calorie confusion. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… messy wardrobes, high-level hygiene, a very strange dinner table, the errors of hanging up T-shirts, loud irons, cap collections, Tom’s new TikTok videos, social media food reviewers, Pret problems, bogus baristas, a very dubious story about cronuts and some calorie confusion. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6889505584.mp3?updated=1699382206",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6889505584.mp3?updated=1779182963",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3823",
+      "itunes_duration": "3853",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -3295,9 +3295,9 @@
       "title": "S2 Ep 77: Space Food & Scandalous Seeds",
       "published_at": "2023-11-01T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… party Tom, old-school hotel rooms, lost light switches, catering in space and astronaut caretakers, moon tourism, asking a stranger the time, party icebreakers, round two of the great fruit & veg seed debate, DIY successes, eureka moments, first day filming and looking good (or bad) in lycra. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… party Tom, old-school hotel rooms, lost light switches, catering in space and astronaut caretakers, moon tourism, asking a stranger the time, party icebreakers, round two of the great fruit & veg seed debate, DIY successes, eureka moments, first day filming and looking good (or bad) in lycra. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6392165796.mp3?updated=1698783489",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6392165796.mp3?updated=1779182153",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3517",
