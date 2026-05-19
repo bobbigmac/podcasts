@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-18T15:56:24+00:00`
-- checked_at: `2026-05-18T15:56:24+00:00`
-- etag: `"djEuMi4wOjE3NzkxMDE2OTkxMTU="`
+- fetched_at: `2026-05-19T04:33:38+00:00`
+- checked_at: `2026-05-19T04:33:38+00:00`
+- etag: `"djEuMi4wOjE3NzkxNTYwMzk1OTY="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-05-18T15:56:24+00:00",
+  "fetched_at": "2026-05-19T04:33:38+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,25 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "56c6b90d062b8423ab8026c123f77715e34e01ab",
+      "title": "S15 Ep 842: The ‘Not A Mailbag’ Episode",
+      "published_at": "2026-05-19T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-842-the-not-a-mailbag-episode",
+      "description": "Well, David and Joe had all good intentions for this to be a regular Friday Mailbag episode. But after David reads out the first email, they both get totally sidetracked with a story about the time teenage David hung out with some very curious The Cure fans. So much so, that it takes up the rest of the show - it’s a cracking yarn though! Normal Mailbag service will return this Friday. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a0aeccffd0523152a02e8d7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "154002368",
+      "itunes_duration": "1:04:10",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "mailbag"
+      ]
+    },
     {
       "key": "8548a301cc50d436972e307a3ff45323dc874b57",
       "title": "S15 Ep 841 Vault Mondays: Joe's Music Library and Becoming A Model",
@@ -14942,6 +14961,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-19 — S15 Ep 842: The ‘Not A Mailbag’ Episode — speakers: Joe Wilkinson, David Earl
 - 2026-05-18 — S15 Ep 841 Vault Mondays: Joe's Music Library and Becoming A Model — speakers: Ben Rufus Green, Joe Wilkinson, David Earl
 - 2026-05-15 — S15 Ep 840: Patreons In The Den - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2026-05-14 — S15 Ep 839: Patreons In The Den - Part 1 — speakers: Joe Wilkinson, David Earl
