@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-19T15:48:21+00:00`
-- checked_at: `2026-05-19T15:48:21+00:00`
-- last_modified: `Tue, 19 May 2026 13:57:03 GMT`
+- fetched_at: `2026-05-19T20:04:07+00:00`
+- checked_at: `2026-05-19T20:04:07+00:00`
+- last_modified: `Tue, 19 May 2026 17:42:15 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-19T15:48:21+00:00",
+  "fetched_at": "2026-05-19T20:04:07+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -3020,12 +3020,12 @@
       "title": "S3 Ep 4: Keith The Ulcer & Showbiz Pals",
       "published_at": "2024-01-24T03:00:00+00:00",
       "link": null,
-      "description": "Apologies again, more internet woes this week - but the show must go on! We’re talking… feeling sorry for ourselves, too much tour chat, Keith the worry ulcer, Radio 2 get-togethers, baggy vs skinny jeans, The One Show appearances and showbiz pals, Below Deck disagreements, disappearing oil, empty drink cans and TikTok algorithms. And don’t miss our special FILM PITCHES bonus episode - coming on Friday. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Apologies again, more internet woes this week - but the show must go on! We’re talking… feeling sorry for ourselves, too much tour chat, Keith the worry ulcer, Radio 2 get-togethers, baggy vs skinny jeans, The One Show appearances and showbiz pals, Below Deck disagreements, disappearing oil, empty drink cans and TikTok algorithms. And don’t miss our special FILM PITCHES bonus episode - coming on Friday. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4489083188.mp3?updated=1706035597",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4489083188.mp3?updated=1779209821",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3422",
+      "itunes_duration": "3450",
       "speakers": [
         "Showbiz Pals Apologies",
         "Romesh Ranganathan",
@@ -3042,12 +3042,12 @@
       "title": "S3 Ep 3: Tech Meltdowns & Confusing Nicknames",
       "published_at": "2024-01-17T03:00:00+00:00",
       "link": null,
-      "description": "It’s a shaky start to the show so hold on tight, this could be a bumpy ride!? We’re talking… computer conspiracies and internet issues, apocalypse movies, Rom growing his hair, tour show promotions, visiting Australia, split squats and a Bulgarian Top 10, Tom’s month in Vegas, not skiing, pretending to speak French, smelly campfires and a lot of confusion about an animal nickname. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s a shaky start to the show so hold on tight, this could be a bumpy ride!? We’re talking… computer conspiracies and internet issues, apocalypse movies, Rom growing his hair, tour show promotions, visiting Australia, split squats and a Bulgarian Top 10, Tom’s month in Vegas, not skiing, pretending to speak French, smelly campfires and a lot of confusion about an animal nickname. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9183756753.mp3?updated=1705426194",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9183756753.mp3?updated=1779209063",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3204",
+      "itunes_duration": "3219",
       "speakers": [
         "Tech Meltdowns",
         "Romesh Ranganathan",
