@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-05-11T15:35:24+00:00`
-- checked_at: `2026-05-11T15:35:24+00:00`
-- etag: `"djEuMi4wOjE3Nzg1MTIxMjQzMDE="`
+- fetched_at: `2026-05-19T15:48:21+00:00`
+- checked_at: `2026-05-19T15:48:21+00:00`
+- etag: `"djEuMi4wOjE3NzkxODg3NjkzODc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-05-11T15:35:24+00:00",
+  "fetched_at": "2026-05-19T15:48:21+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fc81544303f0e385eb26c378e33ccf2e7d5a4122",
+      "title": "Lee Andrews is in My Basement",
+      "published_at": "2026-05-19T11:06:09+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/lee-andrews-is-in-my-basement",
+      "description": "This week, Katherine's Telling Everybody Everything about her unhealthy preoccupation with Katie Price's love life. A first born daughter, Katie is the queen of our hearts and Katherine can understand why she's digging her heels in so hard when so much evidence has been helpfully released to show her missing husband *could be* a massive scammer. Katherine and Violet spent a blissful evening away from most of the smaller kids but soon wanted to return home to the chaos. Also, Panorama reveals a MAFS UK scandal that has rocked Channel 4 and perhaps the format of reality TV forever. Plus, comedian Andrew Johnston joins us from Los Angeles to chat fake feeds, Jessica Simpson relegating her kids to coach, and two hot-off-the-press celebrity splits. You can follow Andrew on TikTok @AndrewJohnston1999 or on insta @MandrewBrawnston x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1779188515252-7a4ddb00-536d-4e8c-ba9f-8a0e659e095d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a0c44210d79e8dc11fa5e2a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80402099",
+      "itunes_duration": "55:49",
+      "speakers": [
+        "Lee Andrews",
+        "Katie Pri",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "andrews",
+        "basement"
+      ]
+    },
     {
       "key": "14aa3584ca812b782b80189ecf40d33514c0c06a",
       "title": "Locked WhatsApp Messages",
@@ -6150,6 +6171,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-19 — Lee Andrews is in My Basement — speakers: Lee Andrews, Katie Pri, Katherine Ryan
 - 2026-05-11 — Locked WhatsApp Messages — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-05-05 — Violet's First Car — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-04-27 — So You'd Like To Join a Polycule — speakers: Telling Everybody Everything, Katherine Ryan

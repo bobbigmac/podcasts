@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-19T10:07:04+00:00`
-- checked_at: `2026-05-19T10:07:04+00:00`
-- last_modified: `Tue, 19 May 2026 10:04:20 GMT`
+- fetched_at: `2026-05-19T15:48:21+00:00`
+- checked_at: `2026-05-19T15:48:21+00:00`
+- last_modified: `Tue, 19 May 2026 13:57:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-19T10:07:04+00:00",
+  "fetched_at": "2026-05-19T15:48:21+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -3061,37 +3061,16 @@
       ]
     },
     {
-      "key": "7df97ab1102c2fc6c979c4ce0566d4a364e841fa",
-      "title": "S3 Ep 2: Bin-gate & Weighing Profiteroles",
-      "published_at": "2024-01-10T03:00:00+00:00",
-      "link": null,
-      "description": "We’re talking… being bad at basketball, homework hassles, recycling bin scandals and Tom’s new rubbish dump video, new year social media plans, counting calories and weighing profiteroles, suspicious TikTok food advice, stand-up warm-ups, very loud laughs and a problematic food delivery omission. Plus, a slang challenge quiz for Tom - just how streetwise is he? For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9690243468.mp3?updated=1704783366",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3993",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "gate",
-        "weighing",
-        "profiteroles"
-      ]
-    },
-    {
       "key": "6e8e0aa5294db4361e02180fe1287f235937eaf9",
       "title": "S3 Ep 1: New Year, New Beginnings",
       "published_at": "2024-01-05T03:00:00+00:00",
       "link": null,
-      "description": "The Wolf & Owl are back and ready for 2024! We’re talking… podcast logos, mistaken identities, the infamous Davis/Ranganathan Christmas lunch, £7 Panettone, a Wolf & Owl trip to New York, Tom’s foxes and a noisy neighbour problem, lime pickle vs mango chutney, New Years parties and failing to look cool. Plus, some email questions about making sure you’re making the most of things and our favourite book and film adaptations. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "The Wolf & Owl are back and ready for 2024! We’re talking… podcast logos, mistaken identities, the infamous Davis/Ranganathan Christmas lunch, £7 Panettone, a Wolf & Owl trip to New York, Tom’s foxes and a noisy neighbour problem, lime pickle vs mango chutney, New Years parties and failing to look cool. Plus, some email questions about making sure you’re making the most of things and our favourite book and film adaptations. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5630422338.mp3?updated=1704358867",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5630422338.mp3?updated=1779191426",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4046",
+      "itunes_duration": "4061",
       "speakers": [
         "New Year",
         "Romesh Ranganathan",
@@ -3107,9 +3086,9 @@
       "title": "S2 Ep 86: Live in London Pt. 2",
       "published_at": "2023-12-27T03:00:00+00:00",
       "link": null,
-      "description": "It’s part two of our Christmas specials and we’re back at the Hammersmith Apollo for the second half of the show. Rom and Tom answer audience questions on choosing a best man, the existence of ghosts, alternative used for Celebrations tins and much, much more! Make sure to check out our YouTube channel for extended video clips of the show. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s part two of our Christmas specials and we’re back at the Hammersmith Apollo for the second half of the show. Rom and Tom answer audience questions on choosing a best man, the existence of ghosts, alternative used for Celebrations tins and much, much more! Make sure to check out our YouTube channel for extended video clips of the show. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7604085492.mp3?updated=1703054990",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7604085492.mp3?updated=1779190727",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3920",
@@ -3126,9 +3105,9 @@
       "title": "S2 Ep 85: Live in London Pt. 1",
       "published_at": "2023-12-20T03:00:00+00:00",
       "link": null,
-      "description": "The first of our extra special two part festive treat - it’s the Wolf and Owl Live in London! Recorded on 2nd November 2023 at the Hammersmith Eventim Apollo. Merry Christmas my guys and tune in next week for more… Make sure to check out our YouTube channel for extended video clips of the show. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "The first of our extra special two part festive treat - it’s the Wolf and Owl Live in London! Recorded on 2nd November 2023 at the Hammersmith Eventim Apollo. Merry Christmas my guys and tune in next week for more… Make sure to check out our YouTube channel for extended video clips of the show. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6879133485.mp3?updated=1703054947",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6879133485.mp3?updated=1779189117",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3256",
@@ -3145,9 +3124,9 @@
       "title": "S2 Ep 84: Santas & Celebrities",
       "published_at": "2023-12-13T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… 100 day coughs, Christmas fairgrounds, I’m A Celebrity contestants, very boring stories, Heathrow hassles, family songs, legendary roast dinners, a Chesney Hawkes revelation, exchanging phone numbers and two Mary Poppins auditions. Plus, email questions about Cyberpunk 2077 and a potentially friendship-ending secret Santa gift. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… 100 day coughs, Christmas fairgrounds, I’m A Celebrity contestants, very boring stories, Heathrow hassles, family songs, legendary roast dinners, a Chesney Hawkes revelation, exchanging phone numbers and two Mary Poppins auditions. Plus, email questions about Cyberpunk 2077 and a potentially friendship-ending secret Santa gift. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6487322041.mp3?updated=1702454888",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6487322041.mp3?updated=1779188643",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4084",
@@ -3165,9 +3144,9 @@
       "title": "S2 Ep 83: Wonka Premiere & Radio Rom",
       "published_at": "2023-12-06T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… a week of Wonka, hotel apologies, concentrating on content and social media memes, premiere parties, red carpet regrets, Rom’s new Radio 2 show, using local greengrocers and Tom’s takeaway crisis. Then it’s email time, with questions on taking a punt on reaching out to a celebrity and attitudes to calling in sick at work. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… a week of Wonka, hotel apologies, concentrating on content and social media memes, premiere parties, red carpet regrets, Rom’s new Radio 2 show, using local greengrocers and Tom’s takeaway crisis. Then it’s email time, with questions on taking a punt on reaching out to a celebrity and attitudes to calling in sick at work. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5251865695.mp3?updated=1701766736",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5251865695.mp3?updated=1779188265",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4090",
@@ -3186,12 +3165,12 @@
       "title": "S2 Ep 82: Hotel Snobs & Rom’s HYROX",
       "published_at": "2023-11-29T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Christmas shopping, hotel rejections and snobbish staff, Rom’s HYROX challenge (shout out to Chrissy!), Jill Scott smashing it on ALOTO, excessive swearing, great gigs and shaky warm-up shows, miss-pronouncing place names, missing out on a roast, a rescued phone and some lacklustre anecdotes. Plus, the Wolf & Owl at the Wonka premiere! For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Christmas shopping, hotel rejections and snobbish staff, Rom’s HYROX challenge (shout out to Chrissy!), Jill Scott smashing it on ALOTO, excessive swearing, great gigs and shaky warm-up shows, miss-pronouncing place names, missing out on a roast, a rescued phone and some lacklustre anecdotes. Plus, the Wolf & Owl at the Wonka premiere! For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6172571474.mp3?updated=1701188413",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6172571474.mp3?updated=1779187660",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3273",
+      "itunes_duration": "3333",
       "speakers": [
         "Rom’s Hyrox",
         "Romesh Ranganathan",
@@ -3208,9 +3187,9 @@
       "title": "S2 Ep 81: Cocaine Hippos & On-Screen Kissing",
       "published_at": "2023-11-22T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… listener complaints, Christmas lunch confirmations, travel shows and Asian Provocateur, Pablo Escobar’s hippos, how to brag, failed auditions, on-screen kisses, snogging vs French kissing, a curious case of the cooties and dickhead mints. Plus, a couple of tricky email questions about a relative’s offensive language and a sex chat-bot dilemma. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… listener complaints, Christmas lunch confirmations, travel shows and Asian Provocateur, Pablo Escobar’s hippos, how to brag, failed auditions, on-screen kisses, snogging vs French kissing, a curious case of the cooties and dickhead mints. Plus, a couple of tricky email questions about a relative’s offensive language and a sex chat-bot dilemma. For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1756347713.mp3?updated=1700584450",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1756347713.mp3?updated=1779186915",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3993",
@@ -3228,14 +3207,14 @@
     {
       "key": "40d2cd6f4c93ece99d7b297b7685404099f294c5",
       "title": "S2 Ep 80: Double Illness & A Christmas Lunch",
-      "published_at": "2023-11-15T14:02:29+00:00",
+      "published_at": "2023-11-15T14:02:00+00:00",
       "link": null,
-      "description": "We’re talking… tattoos and hair-do’s, meeting 50 Cent, an ill Tom and a very run-down Rom, sad hotels, a round of golf with Jim, a Ranganathan and Davis family Christmas lunch, burgers followed by curry and the wonders of echinacea. Then we answer some email questions about recording live stand-up shows and advice on muffling farts - plus a very surreal debate about moody hippos and smiling giraffes. Trigger warning - this episode contains an excessive amount of bleeping. Enjoy! For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… tattoos and hair-do’s, meeting 50 Cent, an ill Tom and a very run-down Rom, sad hotels, a round of golf with Jim, a Ranganathan and Davis family Christmas lunch, burgers followed by curry and the wonders of echinacea. Then we answer some email questions about recording live stand-up shows and advice on muffling farts - plus a very surreal debate about moody hippos and smiling giraffes. Trigger warning - this episode contains an excessive amount of bleeping. Enjoy! For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1867936474.mp3?updated=1700057159",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1867936474.mp3?updated=1779186223",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3863",
+      "itunes_duration": "3893",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -6847,7 +6826,6 @@
 - 2024-01-26 — S3 Ep 5: Bonus Film Pitch Special — speakers: Romesh Ranganathan, Tom Davis
 - 2024-01-24 — S3 Ep 4: Keith The Ulcer & Showbiz Pals — speakers: Showbiz Pals Apologies, Romesh Ranganathan, Tom Davis
 - 2024-01-17 — S3 Ep 3: Tech Meltdowns & Confusing Nicknames — speakers: Tech Meltdowns, Romesh Ranganathan, Tom Davis
-- 2024-01-10 — S3 Ep 2: Bin-gate & Weighing Profiteroles — speakers: Romesh Ranganathan, Tom Davis
 - 2024-01-05 — S3 Ep 1: New Year, New Beginnings — speakers: New Year, Romesh Ranganathan, Tom Davis
 - 2023-12-27 — S2 Ep 86: Live in London Pt. 2 — speakers: Romesh Ranganathan, Tom Davis
 - 2023-12-20 — S2 Ep 85: Live in London Pt. 1 — speakers: Romesh Ranganathan, Tom Davis

@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-05-11T15:35:24+00:00`
-- checked_at: `2026-05-11T15:35:24+00:00`
-- etag: `W/"85fdaaee1238edd7008108c59e2623ad"`
-- last_modified: `Mon, 11 May 2026 13:08:11 GMT`
+- fetched_at: `2026-05-19T15:48:21+00:00`
+- checked_at: `2026-05-19T15:48:21+00:00`
+- etag: `W/"b7f8c07f7f739d1e2755e561bc80bda2"`
+- last_modified: `Tue, 19 May 2026 15:43:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-05-11T15:35:24+00:00",
+  "fetched_at": "2026-05-19T15:48:21+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,29 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "365e16731ecebcaf25e9de97fc28a7637bee6358",
+      "title": "174: Burnham Would, Wesley Snipes",
+      "published_at": "2026-05-19T15:39:52+00:00",
+      "link": "https://audioboom.com/posts/8905414",
+      "description": "The team discuss the Labour leadership, play Helen’s new quiz ‘Faction or Fiction’, and Saba Salman joins for a post-pre-mortem on the local elections.",
+      "image_url": "https://audioboom.com/i/43653833/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8905414.mp3?modified=1779205407&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2889",
+      "speakers": [
+        "Wesley Snipes",
+        "Saba Salman",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "burnham",
+        "wesley",
+        "snipes"
+      ]
+    },
     {
       "key": "3f78118c312a881ed88cce532dd647a13d4811bd",
       "title": "173: The Antisemitism Spectrum",
@@ -3695,6 +3718,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-19 — 174: Burnham Would, Wesley Snipes — speakers: Wesley Snipes, Saba Salman, Andrew Hunter Murray, Ian Hislop
 - 2026-05-06 — 173: The Antisemitism Spectrum — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-04-21 — 172: A Kicking For Keir — speakers: Rotten Boroughs, Saba Salman, Andrew Hunter Murray, Ian Hislop
 - 2026-04-08 — 171: Meta's Not Better — speakers: Andrew Hunter Murray, Ian Hislop
