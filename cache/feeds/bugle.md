@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-05-19T15:48:21+00:00`
-- checked_at: `2026-05-19T15:48:21+00:00`
-- etag: `"djEuMi4wOjE3NzkyMDI0ODcwMTU="`
+- fetched_at: `2026-05-20T15:54:53+00:00`
+- checked_at: `2026-05-20T15:54:53+00:00`
+- etag: `"djEuMi4wOjE3NzkyNzQ4Mzk0ODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-05-19T15:48:21+00:00",
+  "fetched_at": "2026-05-20T15:54:53+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "46c2b184ebe17865596a8160049f71dbead08e23",
+      "title": "Starmer's still PM (just)",
+      "published_at": "2026-05-20T11:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/starmer-is-still-pm-just",
+      "description": "On this week's issue of the Bugle, Andy is joined by Alice Fraser and Josh Gondelman, as the three jump back into the news after a week off, as they discuss the UK's PM Kier Starmer grasping onto power, Trump's recent visit to China, and UK Navy wardrobe conundrum. All this plus more in issue 4379 of The Bugle! 🇬🇧 UK PM in trouble: The Bugle catch up on the recent news of Kier Starmer struggling to keep hold of power 🇺🇸 Trump and Xi catch up: The trio discuss the talks between US and China 🏠 Farage spends big: Andy, Alice and Josh report on the story of Reform Leader Nigel Farage buying a £1.5m house from a £5m Thai crypto-investor's donation Andy's Links: https://www.andyzaltzman.co.uk/ Alice Fraser's Links: https://www.patreon.com/AliceFraser?l=en-GB Josh Gondelman's Links: https://www.joshgondelman.com/ 🎤 Get tickets for the LIVE episode of The Gargle HERE https://www.angelcomedy.co.uk/event-detail/the-gargle-live-fri-26th-jun-the-bill-murray-london-tickets-202606261800/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1779201535838-76430f93-7999-48df-ab32-2fc5f36efdb7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a0c79114c1aeb32e706492e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48639581",
+      "itunes_duration": "50:39",
+      "speakers": [
+        "Alice Fraser",
+        "Josh Gondelman",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "starmer"
+      ]
+    },
     {
       "key": "07ef223f92f6cca0f9fab0fce8025061168ea7f7",
       "title": "Bitcoin, Dana White and Running Robots!",
@@ -14214,6 +14234,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Starmer's still PM (just) — speakers: Alice Fraser, Josh Gondelman, Andy Zaltzman
 - 2026-05-13 — Bitcoin, Dana White and Running Robots! — speakers: Dana White, Running Robots, Andy Zaltzman
 - 2026-05-06 — The Bugle reviews King Charles' visit to the US — speakers: Josie Long, Helen Zaltzman, Andy Zaltzman
 - 2026-04-29 — The King meets Trump — speakers: Alice Fraser, Nish Kumar, Andy Zaltzman

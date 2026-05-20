@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-05-15T14:34:34+00:00`
-- checked_at: `2026-05-15T14:34:34+00:00`
-- etag: `"djEuMi4wOjE3Nzg4NTUxNzg5MDc="`
+- fetched_at: `2026-05-20T15:54:53+00:00`
+- checked_at: `2026-05-20T15:54:53+00:00`
+- etag: `"djEuMi4wOjE3NzkyODkyMzkzODc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-05-15T14:34:34+00:00",
+  "fetched_at": "2026-05-20T15:54:53+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -29,12 +29,33 @@
   ],
   "episodes": [
     {
+      "key": "b6c8f57be5420aa6b991b77c7164c2d9ad458d94",
+      "title": "AI ‘scientists’ promise to accelerate research — how do they work?",
+      "published_at": "2026-05-20T15:00:00+00:00",
+      "link": "https://shows.acast.com/nature/episodes/ai-scientists-promise-to-accelerate-research-how-do-they-wor",
+      "description": "In this episode: 00:46 Meet the AI scientists designed to accelerate research Research article: Ghareeb et al. Research article: Gottweis et al. Nature: Teams of AI agents boost speed of research Editorial: Why AI cannot do good science without humans Nature: Do you hate or love AI? Take Nature’s poll 13:25 Research Highlights Nature: Dried to survive: desiccated tardigrades tolerate high heat Nature: Pristine Antarctic ice records the Solar System’s travels 15:35 Using LiDAR to look around corners Research article: Somasundaram et al. Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a0dc5cb163f10018375cad8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26833194",
+      "itunes_duration": "27:55",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "scientist",
+        "promise",
+        "research"
+      ]
+    },
+    {
       "key": "bd7839a849596b969ecf14b0cbb6779d0718ece9",
       "title": "Briefing Chat: Hantavirus — what this outbreak reveals about the disease",
       "published_at": "2026-05-15T14:26:18+00:00",
       "link": "https://www.nature.com/articles/d41586-026-01575-9",
       "description": "In this episode: 00:34 What questions remain about the hantavirus outbreak? Nature: Hantavirus outbreak exposes uncertainty about how disease spreads Nature: There is no vaccine for deadly hantavirus: what that means for future outbreaks Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1779272082951-5382d297-3669-4645-9ea2-467d0d77c129.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a072d0aefd1f558b09d4e16/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "9208515",
@@ -19675,6 +19696,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — AI ‘scientists’ promise to accelerate research — how do they work? — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-15 — Briefing Chat: Hantavirus — what this outbreak reveals about the disease — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
 - 2026-05-13 — Red-light therapy is all the rage — does it work? — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-11 — Audio long read: The air is full of DNA — here’s what scientists are using it for — speakers: Benjamin Thompson, Noah Baker

@@ -2,8 +2,8 @@
 
 - slug: `best-of-fubar`
 - source: `https://www.fubarradio.com/player/on-demand/best-of-fubar/`
-- fetched_at: `2026-05-20T09:53:57+00:00`
-- checked_at: `2026-05-20T09:53:57+00:00`
+- fetched_at: `2026-05-20T15:54:53+00:00`
+- checked_at: `2026-05-20T15:54:53+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/best-of-fubar/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/best-of-fubar/",
   "image_url": "",
-  "fetched_at": "2026-05-20T09:53:57+00:00",
+  "fetched_at": "2026-05-20T15:54:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -2749,6 +2749,19 @@
       "description": "A selection of highlights from the FUBAR vaults.",
       "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1761177847-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=a8f0c9ef-7b5e-491d-8f45-11495c99428d&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
+    {
+      "key": "e5b2075da44a4e2b3ea50b62977ac7b20f5c79de",
+      "guid": "7a8aac89-2222-4b69-a0b7-4c350aa4bcab",
+      "title": "Best of FUBAR (22nd October)",
+      "published_at": "2025-10-22T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-22nd-october1/",
+      "description": "A selection of highlights from the FUBAR vaults.",
+      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1761091425-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=7a8aac89-2222-4b69-a0b7-4c350aa4bcab&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null
@@ -8535,6 +8548,7 @@
 - 2025-10-25 — Best of FUBAR (25th October)
 - 2025-10-24 — Best of FUBAR (24th October)
 - 2025-10-23 — Best of FUBAR (23rd October)
+- 2025-10-22 — Best of FUBAR (22nd October)
 - 2025-10-21 — Best of FUBAR (21st October)
 - 2025-10-20 — Best of FUBAR (20th October)
 - 2025-10-19 — Best of FUBAR (19th October)

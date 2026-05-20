@@ -2,9 +2,9 @@
 
 - slug: `athletico-mince`
 - source: `https://feeds.acast.com/public/shows/512e6e5b-1328-4152-869e-16ad11c71e70`
-- fetched_at: `2026-05-11T20:03:28+00:00`
-- checked_at: `2026-05-11T20:03:28+00:00`
-- etag: `"djEuMi4wOjE3Nzg1MjIwMjAzMDM="`
+- fetched_at: `2026-05-20T15:54:53+00:00`
+- checked_at: `2026-05-20T15:54:53+00:00`
+- etag: `"djEuMi4wOjE3NzkyODkzMTE2OTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://athleticomince.com",
   "description": "Bob Mortimer and Andy Dawson's podcast - brass hands, blue drink and more. It's not really about football, d'you know what I mean?",
   "image_url": "https://assets.pippa.io/shows/620e4cf6bbc313c2291225d7/55638de6-e973-4375-94e5-11d1669fb19d.png",
-  "fetched_at": "2026-05-11T20:03:28+00:00",
+  "fetched_at": "2026-05-20T15:54:53+00:00",
   "owners": [
     "Bob Mortimer",
     "Andy Dawson"
@@ -28,6 +28,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "301171620879a03ce474fb8a7b65f07837d02c9a",
+      "title": "Boiled Parsnips 54: Medico",
+      "published_at": "2026-05-20T15:01:28+00:00",
+      "link": "https://shows.acast.com/athleticomince/episodes/boiled-parsnips-54-medico",
+      "description": "Glastonbury, John Cooper Sunshine, beach safety, a disrupted eye test, a Sorrento holiday, and Coogan meets Mick. (Originally recorded for Club Parsnips on 28/6/25 https://www.patreon.com/athleticomince) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/620e4cf6bbc313c2291225d7/55638de6-e973-4375-94e5-11d1669fb19d.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/athleticomince/e/6a0dccdf163f100183796d47/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30947140",
+      "itunes_duration": "40:18",
+      "speakers": [
+        "Boiled Parsnips",
+        "John Cooper Sunshine",
+        "Bob Mortimer",
+        "Andy Dawson"
+      ],
+      "topics": [
+        "parsnip",
+        "medico"
+      ]
+    },
     {
       "key": "3147973bb6849278d24dabe8479da78fbcb9824a",
       "title": "The Talksport Collection Vol. 2",
@@ -4867,6 +4889,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Boiled Parsnips 54: Medico — speakers: Boiled Parsnips, John Cooper Sunshine, Bob Mortimer, Andy Dawson
 - 2026-05-11 — The Talksport Collection Vol. 2 — speakers: Bob Mortimer, Andy Dawson
 - 2026-03-07 — Boiled Parsnips 53: Cupboard Dogs — speakers: Boiled Parsnips, Cupboard Dogs Names, Bob Mortimer, Andy Dawson
 - 2026-02-27 — Boiled Parsnips 52: Lemon Drivel — speakers: Boiled Parsnips, Crime Files, Bob Mortimer, Andy Dawson
