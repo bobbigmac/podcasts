@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-05-19T15:48:21+00:00`
-- checked_at: `2026-05-19T15:48:21+00:00`
-- etag: `"djEuMi4wOjE3NzkxOTI4MjQwNjM="`
+- fetched_at: `2026-05-20T09:53:57+00:00`
+- checked_at: `2026-05-20T09:53:57+00:00`
+- etag: `"djEuMi4wOjE3NzkyNTMyOTkzNjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-05-19T15:48:21+00:00",
+  "fetched_at": "2026-05-20T09:53:57+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "82a24ff13e8c6e1a81d92c19790718ed23071cd6",
+      "title": "S2E49 | Late Night Sinister",
+      "published_at": "2026-05-20T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e49-late-night-sinister",
+      "description": "Youtube Version available to watch here! This week the buds discuss our Golden Globes triumph! Google maps, Hungry Jack's and sketches are back! This week's sketch: 'Adult Shit Shit'. Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! BudPod Live is back! In Bath! Tickets available here - https://komediabath.co.uk/events/128649554-budpod-live-2026-11-03-19-00-00/ Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Pierre is on tour across the UK, Ireland and Netherlands! Including a headline show at the Leicester Square Theatre on May 28th! Tickets available now at https://www.pierrenovellie.com/ Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6a0c53f8948aa1c94aa8f861/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73558592",
+      "itunes_duration": "50:57",
+      "speakers": [
+        "Golden Globes",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "late",
+        "night",
+        "sinister"
+      ]
+    },
     {
       "key": "333a8e15f6c156cb60744b3febfcaf95ec5246ec",
       "title": "S2E48 | Spider in a Glass",
@@ -7723,6 +7745,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — S2E49 | Late Night Sinister — speakers: Golden Globes, Phil Wang, Pierre Novellie
 - 2026-05-13 — S2E48 | Spider in a Glass — speakers: Phil Wang, Pierre Novellie
 - 2026-05-06 — S2E47 | Solid Loafs — speakers: Solid Loafs, Phil Wang, Pierre Novellie
 - 2026-04-29 — S2E46 | Boeing 1 — speakers: Tom Waits Bond, Phil Wang, Pierre Novellie

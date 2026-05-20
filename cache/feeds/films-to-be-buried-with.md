@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-05-19T22:38:10+00:00`
-- checked_at: `2026-05-19T22:38:10+00:00`
-- last_modified: `Tue, 19 May 2026 20:51:28 GMT`
+- fetched_at: `2026-05-20T09:53:57+00:00`
+- checked_at: `2026-05-20T09:53:57+00:00`
+- last_modified: `Wed, 20 May 2026 07:23:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-19T22:38:10+00:00",
+  "fetched_at": "2026-05-20T09:53:57+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -27,6 +27,30 @@
     "film"
   ],
   "episodes": [
+    {
+      "key": "f2db3d58b02f5da0c458f40c62ad9604771a4a0f",
+      "title": "Noah Hawley (Fargo / Alien: Earth / Legion) • #395",
+      "published_at": "2026-05-20T07:23:00+00:00",
+      "link": "https://www.patreon.com/cw/brettgoldstein",
+      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the multi-faceted creator, author, show runner and director NOAH HAWLEY ! Definitely an episode that will inspire viewings and re-viewings of a lot of series after listening, as Noah goes into a lot of depth about past and upcoming works. So much goodness in here about not only the work he's personally been involved with but of course, the world of cinema in general and why those picks resonate. On the menu we have such delights as complex ear surgery (no triggers, it's all very safe), how to reduce down a Cohen Bros classic, working as a novellist, accents and flipping back and forth between them, (successful) attempts at scaring his daughter and wrangling budgets. A great one here. Enjoy! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! ⁠ ⁠ IMDB FARGO Season 1 ALIEN: EARTH LUCY IN THE SKY –––––––––– ⁠⁠⁠ BRETT • X ⁠⁠⁠ ⁠⁠⁠ BRETT • INSTAGRAM ⁠⁠⁠ ⁠⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠⁠ ⁠⁠⁠ TED LASSO ⁠⁠⁠ ⁠⁠⁠ SHRINKING ⁠⁠⁠ ⁠⁠⁠ ALL OF YOU ⁠⁠⁠ ⁠⁠⁠ SOULMATES ⁠⁠⁠ ⁠⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/425b23aa-53c1-11f1-9e80-930c70e34d11/image/10315ab2c0c16812e1adc930ed90fb98.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD9124728371.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3106",
+      "speakers": [
+        "Noah Hawley",
+        "Brett Goldstein"
+      ],
+      "topics": [
+        "noah",
+        "hawley",
+        "fargo",
+        "alien",
+        "earth",
+        "legion"
+      ]
+    },
     {
       "key": "a3be84dddf3356c3be0b903db5689a9aa8631af2",
       "title": "Andi Osho • Rewind Classic (Blue Lights / Sex Education / Breeders)",
@@ -9393,6 +9417,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Noah Hawley (Fargo / Alien: Earth / Legion) • #395 — speakers: Noah Hawley, Brett Goldstein
 - 2026-05-13 — Andi Osho • Rewind Classic (Blue Lights / Sex Education / Breeders) — speakers: Brett Goldstein
 - 2026-05-06 — Peter Capaldi (Doctor Who / In The Loop / Criminal Record) • #393 — speakers: Peter Capaldi, Brett Goldstein
 - 2026-04-29 — Adam Sztykiel (Let's Have Kids / Bad Monkey / Black Adam) • #392 — speakers: Adam Sztykiel, Brett Goldstein

@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-20T04:36:12+00:00`
-- checked_at: `2026-05-20T04:36:12+00:00`
-- etag: `"djEuMi4wOjE3NzkyNDI0Mzk2Mzc="`
+- fetched_at: `2026-05-20T09:53:57+00:00`
+- checked_at: `2026-05-20T09:53:57+00:00`
+- etag: `"djEuMi4wOjE3NzkyNjA3NTI2Nzk="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-05-20T04:36:12+00:00",
+  "fetched_at": "2026-05-20T09:53:57+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -34,7 +34,7 @@
       "title": "S15 Ep 843: Toby’s Trousers - Part 1",
       "published_at": "2026-05-20T02:00:00+00:00",
       "link": "https://shows.acast.com/chatabix/episodes/s15-ep-843-tobys-trousers-part-1",
-      "description": "Joe’s back in a hotel after doing some filming yesterday, so feeling a little a little out of sorts being away from home. He’s also come up with a new section idea for the pod and really wants to talk to David about it. But first he needs to explain about a pair of expensive trousers that he really liked but was reluctant buy, which leads to a lot of analysis from David and a real downward spiral from Joe. Then David recounts a country lane stand-off he had the other day, where he behaved very valiantly indeed! More on all this - plus Pottery Thrown Down, David’s Business Studies course and A Pod Chart Quiz - in tomorrow’s Part 2 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Joe’s back in a hotel after doing some filming yesterday, so feeling a little a little out of sorts being away from home. He’s also come up with a new section idea for the pod and really wants to talk to David about it. But first he needs to explain about a pair of expensive trousers that he really liked but was reluctant to buy, which leads to a lot of analysis from David and a real downward spiral from Joe. Then David recounts a country lane stand-off he had the other day, where he behaved very valiantly indeed! More on all this - plus Pottery Thrown Down, David’s Business Studies course and A Pod Chart Quiz - in tomorrow’s Part 2 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a0aee814239db8b87631177/media.mp3",
       "enclosure_type": "audio/mpeg",

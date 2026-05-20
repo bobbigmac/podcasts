@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-05-19T15:48:21+00:00`
-- checked_at: `2026-05-19T15:48:21+00:00`
-- last_modified: `Tue, 19 May 2026 14:03:14 GMT`
+- fetched_at: `2026-05-20T09:53:57+00:00`
+- checked_at: `2026-05-20T09:53:57+00:00`
+- last_modified: `Wed, 20 May 2026 09:20:52 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/40fdac0908467e0692b2c0139f4db663.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-19T15:48:21+00:00",
+  "fetched_at": "2026-05-20T09:53:57+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -350,6 +350,25 @@
       "topics": [
         "chantel",
         "nash"
+      ]
+    },
+    {
+      "key": "7c43783409cc73dd038234616ce81076bfb86d84",
+      "title": "S12 EP23: The One Where Rob Poops The Bed",
+      "published_at": "2026-03-24T08:01:00+00:00",
+      "link": null,
+      "description": "More misadventures in parenting, life, and beyond with Rob Beckett and Josh Widdicombe... in this episode Rob has a bowel accident while filming abroad and gets mugged by a monkey. Parenting Hell is a Spotify Podcast, available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8580498018.mp3?updated=1779269146",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3247",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "poops"
       ]
     },
     {
@@ -11928,6 +11947,7 @@
 - 2026-04-03 — S12 EP26: Jamie Laing — speakers: Jamie Laing, Rob Beckett, Josh Widdicombe
 - 2026-03-30 — S12 EP25: Who don't you like? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-03-27 — S12 EP24: Chantel Nash — speakers: Chantel Nash, Rob Beckett, Josh Widdicombe
+- 2026-03-24 — S12 EP23: The One Where Rob Poops The Bed — speakers: Rob Beckett, Josh Widdicombe
 - 2026-03-20 — S12 EP22: Lauren Laverne — speakers: Lauren Laverne, Rob Beckett, Josh Widdicombe
 - 2026-03-17 — S12 EP21: What is this life? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-03-13 — S12 EP20: Charlie Baker (The Return) — speakers: Charlie Baker, Rob Beckett, Josh Widdicombe
