@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-05-20T15:54:53+00:00`
-- checked_at: `2026-05-20T15:54:53+00:00`
-- etag: `"djEuMi4wOjE3NzkyNzQ4Mzk0ODM="`
+- fetched_at: `2026-05-20T20:30:25+00:00`
+- checked_at: `2026-05-20T20:30:25+00:00`
+- etag: `"djEuMi4wOjE3NzkyOTY3OTI4Nzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-05-20T15:54:53+00:00",
+  "fetched_at": "2026-05-20T20:30:25+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -36,7 +36,7 @@
       "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1779201535838-76430f93-7999-48df-ab32-2fc5f36efdb7.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a0c79114c1aeb32e706492e/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "48639581",
+      "enclosure_length": "48639164",
       "itunes_duration": "50:39",
       "speakers": [
         "Alice Fraser",

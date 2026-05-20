@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-05-19T22:38:10+00:00`
-- checked_at: `2026-05-19T22:38:10+00:00`
-- etag: `W/"2ffea-0K1KqYyVEVEFqUa5R7htkiNHDm8"`
+- fetched_at: `2026-05-20T20:30:25+00:00`
+- checked_at: `2026-05-20T20:30:25+00:00`
+- etag: `W/"304ea-NqQ6gD3vT1FTHwpEK6UPJwFAaxw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,39 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-05-19T22:38:10+00:00",
+  "fetched_at": "2026-05-20T20:30:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "282a302ef0c6c4c6faba1a85b2c2e5cef12830d7",
+      "title": "Josh Widdicombe XFM # 17 – James Acaster Classic Scrape 15, Joe Lycett",
+      "published_at": "2026-05-20T18:35:20+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM--17--James-Acaster-Classic-Scrape-15--Joe-Lycett-e3jlj6r",
+      "description": "James Acaster joins Josh for another Classic Scrape, Joe Lycett on SolihullBroadcast on 25th June 2013",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1779302070363-260b714a16f02.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/120294043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-20%2F424560524-44100-2-ba007e5136f11.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32966111",
+      "itunes_duration": "00:34:20",
+      "speakers": [
+        "James Acaster Classic Scrape",
+        "Joe Lycett James Acaster",
+        "Joe Lycett"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "lycett"
+      ]
+    },
     {
       "key": "19ddbe9242cf649874be9850e7231b13c4747dd4",
       "title": "Josh Widdicombe XFM #16 – James Acaster Classic Scrape 14, Joe Lycett, Nick Helm",
@@ -3524,6 +3550,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Josh Widdicombe XFM # 17 – James Acaster Classic Scrape 15, Joe Lycett — speakers: James Acaster Classic Scrape, Joe Lycett James Acaster, Joe Lycett
 - 2026-05-19 — Josh Widdicombe XFM #16 – James Acaster Classic Scrape 14, Joe Lycett, Nick Helm — speakers: James Acaster Classic Scrape, Joe Lycett, Nick Helm
 - 2026-05-18 — Josh Widdicombe XFM #15 – Nish Kumar, James Acaster Classic Scrape 13, Joe Lycett — speakers: James Acaster Classic Scrape, Joe Lycett
 - 2026-05-17 — Josh Widdicombe XFM #14 – James Acaster returns with Classic Scrape 12, Joe Lycett, Elis James — speakers: James Acaster, Joe Lycett, Elis James James Acaster, Elis James

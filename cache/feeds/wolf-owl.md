@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-20T15:54:53+00:00`
-- checked_at: `2026-05-20T15:54:53+00:00`
-- last_modified: `Wed, 20 May 2026 15:46:03 GMT`
+- fetched_at: `2026-05-20T20:30:25+00:00`
+- checked_at: `2026-05-20T20:30:25+00:00`
+- last_modified: `Wed, 20 May 2026 17:36:43 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-20T15:54:53+00:00",
+  "fetched_at": "2026-05-20T20:30:25+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -2549,9 +2549,9 @@
       "title": "S3 Ep 26: An Owl in the O2",
       "published_at": "2024-05-29T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Rom’s massive weekend at the O2, dry ice and a bloody nose, a six foot seven Sarah Pascoe, cancelled Scotland gigs, audition frustrations, Mothra Tom, smart motorways and traffic jam charades, knocking off early, hotel drinks, honesty bars, sweaty performances, shaved armpits and excessively exhausted parents. Plus - a bonus episode coming for you on Friday! And that’s a definite this time. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Rom’s massive weekend at the O2, dry ice and a bloody nose, a six foot seven Sarah Pascoe, cancelled Scotland gigs, audition frustrations, Mothra Tom, smart motorways and traffic jam charades, knocking off early, hotel drinks, honesty bars, sweaty performances, shaved armpits and excessively exhausted parents. Plus - a bonus episode coming for you on Friday! And that’s a definite this time. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7223776479.mp3?updated=1716919084",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7223776479.mp3?updated=1779296477",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3363",
@@ -2566,9 +2566,9 @@
       "title": "S3 Ep 25: Europlugs & A Very Sexy Rom",
       "published_at": "2024-05-22T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… international time differences, two-prong plug adapters, Benjamin Franklin, Apple addictions, the seventh sexiest Owl in the UK, TikTok trolls, night-time toothaches, dog photo collages, theatre ghosts and the tricky tightrope of dealing with hecklers. Plus, an email question about a second chance with a childhood sweetheart. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… international time differences, two-prong plug adapters, Benjamin Franklin, Apple addictions, the seventh sexiest Owl in the UK, TikTok trolls, night-time toothaches, dog photo collages, theatre ghosts and the tricky tightrope of dealing with hecklers. Plus, an email question about a second chance with a childhood sweetheart. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7438158294.mp3?updated=1716364501",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7438158294.mp3?updated=1779295968",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3314",
@@ -2587,9 +2587,9 @@
       "title": "S3 Ep 24: BAFTA Wins & Broken Flies",
       "published_at": "2024-05-15T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… American football caps, Rom’s busy night at the BAFTAs, being amazing at being famous (that’s not us, by the way), the Kat at Tom’s O2 Indigo gig, stand-up outfit malfunctions, raucous afterparty guests, the phenomenon of Baby Reindeer and Tik Tok ‘hate-watching’. Plus, we read emails about a very appropriate best man speech and a tempting offer to interview a big cat expert on the pod. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… American football caps, Rom’s busy night at the BAFTAs, being amazing at being famous (that’s not us, by the way), the Kat at Tom’s O2 Indigo gig, stand-up outfit malfunctions, raucous afterparty guests, the phenomenon of Baby Reindeer and Tik Tok ‘hate-watching’. Plus, we read emails about a very appropriate best man speech and a tempting offer to interview a big cat expert on the pod. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1663898840.mp3?updated=1715722533",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1663898840.mp3?updated=1779295598",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3679",
@@ -2608,9 +2608,9 @@
       "title": "S3 Ep 23: Sapplebins & Red Velvet Toothpaste",
       "published_at": "2024-05-08T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… underground Disney films, annoying Wolf & Owl catchphrases, Bill Burr in Unfrosted, memorising Robin Hood Prince Of Thieves, impressing girls with raps, Tom’s 90’s boyband, the rights and wrongs of ‘edgy’ toothpastes, the amazingness of mint, a margarita thief and bad drunks. Plus, we play two banging country and western covers of our theme tune and answer an email question about first a relationship whilst at university. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… underground Disney films, annoying Wolf & Owl catchphrases, Bill Burr in Unfrosted, memorising Robin Hood Prince Of Thieves, impressing girls with raps, Tom’s 90’s boyband, the rights and wrongs of ‘edgy’ toothpastes, the amazingness of mint, a margarita thief and bad drunks. Plus, we play two banging country and western covers of our theme tune and answer an email question about first a relationship whilst at university. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3672000134.mp3?updated=1715106043",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3672000134.mp3?updated=1779295179",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3592",

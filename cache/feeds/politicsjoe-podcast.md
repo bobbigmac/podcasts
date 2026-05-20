@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-19T15:48:21+00:00`
-- checked_at: `2026-05-19T15:48:21+00:00`
-- etag: `"djEuMi4wOjE3NzkxODkyNDYwMzE="`
+- fetched_at: `2026-05-20T20:30:25+00:00`
+- checked_at: `2026-05-20T20:30:25+00:00`
+- etag: `"djEuMi4wOjE3NzkyOTUxODM2NTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,31 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-19T15:48:21+00:00",
+  "fetched_at": "2026-05-20T20:30:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "ea283c82d35b387a396c4f447f348206f4630cbf",
+      "title": "Is Keir Starmer finished? PMQs analysis",
+      "published_at": "2026-05-20T16:39:43+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a0de2c4163f100183827e4e",
+      "description": "Ava and Andy sit down to break down Keir Starmer's first PMQs back from recess as his own MPs circle and call for him to resign. Will he make it to another PMQs session? Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a0de2c4163f100183827e4e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69495392",
+      "itunes_duration": "36:09",
+      "speakers": [],
+      "topics": [
+        "keir",
+        "starmer",
+        "analysis"
+      ]
+    },
     {
       "key": "3ab4cfb3d9431e6c249a1e8d7041a9f1baeafb03",
       "title": "Will the Greens block Burnham's path to No 10?",
@@ -12996,6 +13014,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Is Keir Starmer finished? PMQs analysis
 - 2026-05-18 — Will the Greens block Burnham's path to No 10? — speakers: Wes Streeting
 - 2026-05-17 — The sinister plot behind the far-right's shift on Israel | Norman Finkelstein interview — speakers: Norman Finkelstein
 - 2026-05-15 — Q&A: Will Wes Streeting be Prime Minister? — speakers: Ava Santina, Andy Twelves
