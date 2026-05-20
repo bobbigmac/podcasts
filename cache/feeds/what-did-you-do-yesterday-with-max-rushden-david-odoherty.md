@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-05-19T22:38:10+00:00`
-- checked_at: `2026-05-19T22:38:10+00:00`
-- last_modified: `Tue, 19 May 2026 21:39:45 GMT`
+- fetched_at: `2026-05-20T04:36:12+00:00`
+- checked_at: `2026-05-20T04:36:12+00:00`
+- last_modified: `Wed, 20 May 2026 01:44:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/0bbecfc9ad65078c6accdbc313267a08.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-19T22:38:10+00:00",
+  "fetched_at": "2026-05-20T04:36:12+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "8000af15276541e1547a8f7ff5dfb5aed4c18fa7",
+      "title": "WDWDY #72: The Montenegro Tease",
+      "published_at": "2026-05-19T23:15:00+00:00",
+      "link": null,
+      "description": "On this mid-week bonus ep we find out what Max did with his yesterday... Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/44b588bc-5299-11f1-92d2-fb0680f005ae/image/66dd0e1c0c3ae1c9c14e2654bb78ebeb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1172313708.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2955",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "wdwdy",
+        "montenegro",
+        "tease"
+      ]
+    },
     {
       "key": "ce238c3c9ee4573057d27ea4e7f1fe3ea9134087",
       "title": "S4 EP20: Shane Daniel Byrne",
@@ -3389,6 +3410,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-19 — WDWDY #72: The Montenegro Tease — speakers: Max Rushden, David O'Doherty
 - 2026-05-16 — S4 EP20: Shane Daniel Byrne — speakers: Daniel Byrne, Max Rushden, David O'Doherty
 - 2026-05-12 — WDWDY #71: I could go on You Bet! — speakers: Max Rushden, David O'Doherty
 - 2026-05-09 — S4 EP19: Amy Annette — speakers: Amy Annette, Max Rushden, David O'Doherty

@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-05-15T17:00:59+00:00`
-- checked_at: `2026-05-15T17:00:59+00:00`
-- etag: `"djEuMi4wOjE3Nzg4NjM4ODgyMTg="`
+- fetched_at: `2026-05-20T04:36:12+00:00`
+- checked_at: `2026-05-20T04:36:12+00:00`
+- etag: `"djEuMi4wOjE3NzkyNDYwMzk2NTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-05-15T17:00:59+00:00",
+  "fetched_at": "2026-05-20T04:36:12+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "46cafd838066955df3def3a9ee4f0bf945747af9",
+      "title": "Michelle Wolf",
+      "published_at": "2026-05-20T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/michelle-wolf",
+      "description": "Emmy-nominated stand-up and Netflix star Michelle Wolf has a table booked in the Dream Restaurant this week. She shoulder not done that. Michelle Wolf is touring England in from 11th June. For dates and tickets go to punchup.live/michellewolf Follow Michelle on Instagram and TikTok @michelleisawolf Watch the video version of this episode on the Off Menu YouTube on Thu 21 May. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1778662983964-b65d1eb1-5481-4977-ad9a-18c5ef683c44.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a0494c33eb64523560e1089/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100166656",
+      "itunes_duration": "1:23:28",
+      "speakers": [
+        "Michelle Wolf Emmy",
+        "Michelle Wolf",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "michelle",
+        "wolf"
+      ]
+    },
     {
       "key": "1ec7fe67207316a7542ffac507c2ca4eabe4ec00",
       "title": "Phil Wang (Tasting Menu)",
@@ -8488,6 +8511,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Michelle Wolf — speakers: Michelle Wolf Emmy, Michelle Wolf, Ed Gamble, James Acaster, Ben Williams
 - 2026-05-13 — Phil Wang (Tasting Menu) — speakers: Phil Wang, Off Menu, Ed Gamble, James Acaster, Ben Williams
 - 2026-05-06 — Montaigne — speakers: Aria Award-winner, Jessica Alys, Ed Gamble, James Acaster, Ben Williams
 - 2026-04-29 — Ayoade Bamgboye — speakers: Best Newcomer, Ayoade Bamgboye, Ed Gamble, James Acaster, Ben Williams

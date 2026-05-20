@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-05-19T20:04:07+00:00`
-- checked_at: `2026-05-19T20:04:07+00:00`
-- etag: `"djEuMi4wOjE3NzkyMTg4MzE3MTU="`
+- fetched_at: `2026-05-20T04:36:12+00:00`
+- checked_at: `2026-05-20T04:36:12+00:00`
+- etag: `"djEuMi4wOjE3NzkyNDcyMzkyMzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-05-19T20:04:07+00:00",
+  "fetched_at": "2026-05-20T04:36:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5404d3232286af0968fc80a11e37ead503ef5731",
+      "title": "AMAR CHADHA-PATEL • the sacred arts of world building and world burning (Willow / The Creator / The Decameron) #672",
+      "published_at": "2026-05-20T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the fabulous acting talent that is AMAR CHADHA-PATEL ! Bar after bar on this one, folks. You'll really enjoy it and that goes for everyone including those not necessarily focused on the world of the moving picture. Amar's been steadily building steam on his career path and as you'll hear here, is gradually owning the fact that he's really incredibly good at what he does. Which is NOT the opposite of humility. It's a sign of acknowledging growth, skill and accomplishment, and is refreshing to hear. But on top of that, there's so much in this chat including behind the scenes nuggets, how he approaches a one man theatre show, advice, mistakes, history, the Persian Empire (can have ONE WEEK where that doesn't come up??), and so much more. It's a lovely one which is hugely entertaining and informative, and packs in a lot in the run time. Enjoy! PIP'S PATREON PAGE if you're of a supporting nature IMDB INSTAGRAM FOAL (theatre show) SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1779218165576-36663bcd-e773-43ad-9023-575e0a5a7ef3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a0cb98f760dd444446b776d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "169372399",
+      "itunes_duration": "1:10:30",
+      "speakers": [
+        "Amar Chadha-Patel"
+      ],
+      "topics": [
+        "chadha",
+        "patel",
+        "world",
+        "building",
+        "willow",
+        "creator",
+        "decameron"
+      ]
+    },
     {
       "key": "56d749e8f8fe1cfb9b9749bf1a056f43aa2f6f88",
       "title": "SAFDIE BROTHERS (Uncut Gems / The Smashing Machine / Marty Supreme) • Friday Rewind",
@@ -18818,6 +18842,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — AMAR CHADHA-PATEL • the sacred arts of world building and world burning (Willow / The Creator / The Decameron) #672 — speakers: Amar Chadha-Patel
 - 2026-05-15 — SAFDIE BROTHERS (Uncut Gems / The Smashing Machine / Marty Supreme) • Friday Rewind — speakers: Uncut Gems
 - 2026-05-13 — TOM GEORGE • the beauty of unmotivated camera movements (Two Weeks In August / Bait / See How They Run) #671 — speakers: Tom George
 - 2026-05-08 — STEPHEN FRY (thou shalt not question Stephen Fry) • Friday Rewind — speakers: Stephen Fry

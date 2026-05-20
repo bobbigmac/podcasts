@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-05-18T22:13:44+00:00`
-- checked_at: `2026-05-18T22:13:44+00:00`
-- last_modified: `Mon, 18 May 2026 20:15:28 GMT`
+- fetched_at: `2026-05-20T04:36:12+00:00`
+- checked_at: `2026-05-20T04:36:12+00:00`
+- last_modified: `Wed, 20 May 2026 00:08:13 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-18T22:13:44+00:00",
+  "fetched_at": "2026-05-20T04:36:12+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "9bddb319e03da5125edf1d31b00f0196d6fe5949",
+      "title": "Frank Skinner’s Radio Days: Little Rituals",
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "link": null,
+      "description": "Frank, Emily and Alun have reached the end of 2013 for our radio show highlights. This time there's chat about parental embarrassment, IQ tests and Frank has moved house. Enjoy! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a9a6b84c-52f1-11f1-96ff-1b318f2e5f73/image/d5c8bed165865e75ab19d9dfea02deb9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1406919548.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2398",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "ritual"
+      ]
+    },
     {
       "key": "a00f2ed8d119206abf04abba37624129f5e3ab27",
       "title": "The Best Sitcom Ever",
@@ -12334,16 +12355,16 @@
       ]
     },
     {
-      "key": "5de0960f8d5078afa39c547f0609ad0585b17760",
+      "key": "7c4e0deb661ada556c65fb430b63a19a3b131ada",
       "title": "The Frank Skinner Show",
       "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170222103109.mp3",
-      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2015 - 2016. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a7991afe-817e-11ef-8fe9-dff118a13380/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7403625260.mp3?updated=1738248136",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170215084334.mp3",
+      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2012 - 2014. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a6a6d0f0-817e-11ef-8fe9-ff6933348e1c/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5794355821.mp3?updated=1738248195",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4974",
+      "itunes_duration": "5157",
       "speakers": [
         "Frank Skinner"
       ],
@@ -12372,16 +12393,16 @@
       ]
     },
     {
-      "key": "7c4e0deb661ada556c65fb430b63a19a3b131ada",
+      "key": "5de0960f8d5078afa39c547f0609ad0585b17760",
       "title": "The Frank Skinner Show",
       "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170215084334.mp3",
-      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2012 - 2014. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a6a6d0f0-817e-11ef-8fe9-ff6933348e1c/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5794355821.mp3?updated=1738248195",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170222103109.mp3",
+      "description": "We've put together the very best of Frank Skinner to celebrate his 60th Birthday. Here's the best from 2015 - 2016. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a7991afe-817e-11ef-8fe9-dff118a13380/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7403625260.mp3?updated=1738248136",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5157",
+      "itunes_duration": "4974",
       "speakers": [
         "Frank Skinner"
       ],
@@ -23677,6 +23698,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Frank Skinner’s Radio Days: Little Rituals — speakers: Frank Skinner
 - 2026-05-18 — The Best Sitcom Ever — speakers: Josh Weller, Frank Skinner
 - 2026-05-16 — Frank Skinner's Radio Days: The Bat — speakers: Frank Skinner, Bat Frank
 - 2026-05-15 — I Like New Persons — speakers: Josh Weller, Frank Skinner

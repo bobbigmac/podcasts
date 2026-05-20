@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-05-19T20:04:07+00:00`
-- checked_at: `2026-05-19T20:04:07+00:00`
-- etag: `"djEuMi4wOjE3NzkyMDU4MDY1NDg="`
+- fetched_at: `2026-05-20T04:36:12+00:00`
+- checked_at: `2026-05-20T04:36:12+00:00`
+- etag: `"djEuMi4wOjE3NzkyMzUyMzkzNzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-05-19T20:04:07+00:00",
+  "fetched_at": "2026-05-20T04:36:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "17af37578694bc048c4d7326e2ad4b65fbc693d6",
+      "title": "Ralph Fiennes",
+      "published_at": "2026-05-20T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/ralph-fiennes",
+      "description": "This week we have Ralph Fiennes joining us for lunch! Ralph came over to talk about the new David Hare play he helped bring to life, Grace Pervades. We were swept up in stories of Victorian theatre, Italian food, Catholicism, and growing up as the eldest of six in a very artistic family. Over Mum’s Greek chicken and lemon potatoes, Ralph talked about post-show rituals, his obsession with simple fresh food, cooking Ottolenghi lamb in lockdown, and why a filthy martini with a blue cheese olive is “blasphemy”. Ralph, we just wish you could’ve stayed for a glass of wine! Grace Pervades is at the Theatre Royal Haymarket until July the 11th, don’t miss it! Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1779205242100-34ce6293-e931-4d74-ae08-c5ab6f50384d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a0c8145bf33122289ea136b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41982327",
+      "itunes_duration": "43:43",
+      "speakers": [
+        "Ralph Fiennes",
+        "David Ha"
+      ],
+      "topics": [
+        "ralph",
+        "fienne"
+      ]
+    },
     {
       "key": "dcc1c7c38021ac0a19a93dff62937da7e9407de8",
       "title": "James Graham",
@@ -7120,6 +7140,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Ralph Fiennes — speakers: Ralph Fiennes, David Ha
 - 2026-05-13 — James Graham — speakers: James Graham
 - 2026-05-06 — Nish Kumar — speakers: Nish Kumar
 - 2026-04-29 — Phil Wang — speakers: Phil Wang

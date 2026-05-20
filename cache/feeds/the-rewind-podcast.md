@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-05-19T22:38:10+00:00`
-- checked_at: `2026-05-19T22:38:10+00:00`
-- etag: `W/"16aa5-Q9siWe5hDY36NvdphBGtUYMwwyY"`
+- fetched_at: `2026-05-20T04:36:12+00:00`
+- checked_at: `2026-05-20T04:36:12+00:00`
+- etag: `W/"171d4-DJvDdCSym+KTQ4Q7Kh6H7Q1gKMg"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-05-19T22:38:10+00:00",
+  "fetched_at": "2026-05-20T04:36:12+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "b261e7309a3dd1a0ad73cfb63cfecb38b9c613c0",
+      "title": "Obsession Rules, Mor(e)tal Kombat, and The Batman Part II Casting | The Rewind Podcast",
+      "published_at": "2026-05-20T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Obsession-Rules--Moretal-Kombat--and-The-Batman-Part-II-Casting--The-Rewind-Podcast-e3jk91m",
+      "description": "This week on The Rewind, Darren, Jack, and Marty gush about Obsession, unpack The Batman Part II's casting news, and more. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/120250870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-19%2F41440212-c426-2c5f-34c9-29cb6beadd15.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "235503392",
+      "itunes_duration": "02:43:32",
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "obsession",
+        "rules",
+        "kombat",
+        "batman",
+        "casting",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "7543c814db08d14374d1d3747466c7a665fdc662",
       "title": "Previewing the Big Movies of Summer 2026 | The Rewind Podcast",
@@ -1168,6 +1194,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Obsession Rules, Mor(e)tal Kombat, and The Batman Part II Casting | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-05-06 — Previewing the Big Movies of Summer 2026 | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-04-22 — Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-04-08 — The Super Mario Galaxy Movie Super Show! | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva

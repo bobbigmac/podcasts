@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-19T10:07:04+00:00`
-- checked_at: `2026-05-19T10:07:04+00:00`
-- etag: `"djEuMi4wOjE3NzkxODAwOTQ3MTk="`
+- fetched_at: `2026-05-20T04:36:12+00:00`
+- checked_at: `2026-05-20T04:36:12+00:00`
+- etag: `"djEuMi4wOjE3NzkyNDI0Mzk2Mzc="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-05-19T10:07:04+00:00",
+  "fetched_at": "2026-05-20T04:36:12+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,26 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "d33b8dd1cb07002947a0832dc036e5efd60209ee",
+      "title": "S15 Ep 843: Toby’s Trousers - Part 1",
+      "published_at": "2026-05-20T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-843-tobys-trousers-part-1",
+      "description": "Joe’s back in a hotel after doing some filming yesterday, so feeling a little a little out of sorts being away from home. He’s also come up with a new section idea for the pod and really wants to talk to David about it. But first he needs to explain about a pair of expensive trousers that he really liked but was reluctant buy, which leads to a lot of analysis from David and a real downward spiral from Joe. Then David recounts a country lane stand-off he had the other day, where he behaved very valiantly indeed! More on all this - plus Pottery Thrown Down, David’s Business Studies course and A Pod Chart Quiz - in tomorrow’s Part 2 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a0aee814239db8b87631177/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110882048",
+      "itunes_duration": "46:12",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "toby",
+        "trousers"
+      ]
+    },
     {
       "key": "56c6b90d062b8423ab8026c123f77715e34e01ab",
       "title": "S15 Ep 842: The ‘Not A Mailbag’ Episode",
@@ -14961,6 +14981,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — S15 Ep 843: Toby’s Trousers - Part 1 — speakers: Joe Wilkinson, David Earl
 - 2026-05-19 — S15 Ep 842: The ‘Not A Mailbag’ Episode — speakers: Joe Wilkinson, David Earl
 - 2026-05-18 — S15 Ep 841 Vault Mondays: Joe's Music Library and Becoming A Model — speakers: Ben Rufus Green, Joe Wilkinson, David Earl
 - 2026-05-15 — S15 Ep 840: Patreons In The Den - Part 2 — speakers: Joe Wilkinson, David Earl

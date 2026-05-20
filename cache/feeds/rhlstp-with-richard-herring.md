@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-18T04:41:14+00:00`
-- checked_at: `2026-05-18T04:41:14+00:00`
-- etag: `"djEuMi4wOjE3NzkwNzMwNTkzNjI="`
+- fetched_at: `2026-05-20T04:36:12+00:00`
+- checked_at: `2026-05-20T04:36:12+00:00`
+- etag: `"djEuMi4wOjE3NzkyNDU4NTkyNDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-18T04:41:14+00:00",
+  "fetched_at": "2026-05-20T04:36:12+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4dc8b73c398d3af43cb63a6dbac97204d49ec18c",
+      "title": "Jameela Jamil - \"Cake in a Graveyard\"",
+      "published_at": "2026-05-20T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #610 - Cake in a Graveyard - Richard is excited about the breaking news (at time of recording). Broken years ago by this podcast and treats the audience to his poem about the disgraced Randrew Andrew. His guest is a woman with a life that feels like it has been moulded by Greek Gods fighting with a genie, the very open and frank and incredible Jameela Jamil. And she is not alone. She brings two further guests, one of whom has been vomiting blood. All in a day’s normalcy for Jameela. They discuss he brilliant podcast Wrong Moves with Jameela Jamil, kicking a stunt man in the dick, running into a force field with a cake, the bee-based car accident that nearly killed her, but led to the best year of her life (she claims), the lies she’s told to get jobs and the incredible and unbelievable truths that have accompanied her on her journey, how a school bully led to her becoming an actor (but long after they’d left school), her imminent 40th birthday, how our respective gigs for Elton John went, an incredible story about paying for someone’s IVF that should completely be a sitcom and how Richard might just be a peripheral side character in the simulation that is Jameela’s impossible life. This is up there with Brian Blessed, but I think this time, it’s all true. Listen to Jameela’s podcast Wrong Turns here (or wherever you get your podcasts) - https://open.spotify.com/show/48QtcFDDyQzKIc4B0fo4V7 Listen to the full unredacted Sofie Hagen episode here (Randrew Andrew chat begins around 1:08:00) - https://open.spotify.com/episode/7rKIkLAmgEOtOrbpNJVZ6h Come and see RHLSTP live - http://richardherring.com/rhlstp . You should really have been at this one, you idiot. SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Recorded at the Leicester Square Theatre Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1778782853989-d2e7454c-3c41-448a-ab0b-33e81153ca24.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a0610e2efd1f558b039dcb9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33613000",
+      "itunes_duration": "1:05:45",
+      "speakers": [
+        "Jameela Jamil Cake",
+        "Richard Herring"
+      ],
+      "topics": [
+        "jameela",
+        "jamil",
+        "cake",
+        "graveyard"
+      ]
+    },
     {
       "key": "67963a2234043048010ceaaba3f98b73b80b84cb",
       "title": "Josh Widdicombe (Retro) - \"Chlorine Allergy\"",
@@ -22452,6 +22474,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — Jameela Jamil - "Cake in a Graveyard" — speakers: Jameela Jamil Cake, Richard Herring
 - 2026-05-18 — Josh Widdicombe (Retro) - "Chlorine Allergy" — speakers: Josh Widdicombe, Richard Herring
 - 2026-05-16 — Rich and Ally's Craven Newsround Compilation 16 — speakers: Richard Herring
 - 2026-05-15 — John Robins on Thirst (Part 2) - Book Club — speakers: John Robins, Richard Herring
