@@ -2,8 +2,8 @@
 
 - slug: `peacock-and-gamble`
 - source: `https://www.fubarradio.com/player/on-demand/peacock-and-gamble/`
-- fetched_at: `2026-05-21T15:51:14+00:00`
-- checked_at: `2026-05-21T15:51:14+00:00`
+- fetched_at: `2026-05-21T20:10:06+00:00`
+- checked_at: `2026-05-21T20:10:06+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "image_url": "",
-  "fetched_at": "2026-05-21T15:51:14+00:00",
+  "fetched_at": "2026-05-21T20:10:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6e79505fa9a7dfeaa4f71d3fb0ca5cb3b50554b2",
+      "guid": "969c5eaf-43ae-442f-ad71-9081f809473a",
+      "title": "Peacock and Gamble (21st May)",
+      "published_at": "2026-05-21T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-21st-may/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1779379326-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=969c5eaf-43ae-442f-ad71-9081f809473a&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "fe55fd9f314a1c6dd198412280616823aac44592",
       "guid": "db2c90f1-375d-4f80-9ea4-cd1111a1f03c",
@@ -2774,6 +2787,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — Peacock and Gamble (21st May)
 - 2026-05-15 — Peacock and Gamble (15th May)
 - 2026-05-14 — Peacock and Gamble (14th May)
 - 2026-05-08 — Peacock and Gamble (8th May)

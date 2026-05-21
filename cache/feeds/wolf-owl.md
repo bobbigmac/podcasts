@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-21T15:51:14+00:00`
-- checked_at: `2026-05-21T15:51:14+00:00`
-- last_modified: `Thu, 21 May 2026 13:16:38 GMT`
+- fetched_at: `2026-05-21T20:10:06+00:00`
+- checked_at: `2026-05-21T20:10:06+00:00`
+- last_modified: `Thu, 21 May 2026 16:52:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-21T15:51:14+00:00",
+  "fetched_at": "2026-05-21T20:10:06+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -2290,9 +2290,9 @@
       "title": "S3 Ep 38: Weighted Vests & A Rowdy Wolf",
       "published_at": "2024-07-17T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Euros consolations, getting stuck in a weighted vest, pigging out after exercising, Japanese milk buns, Spanish lagers, an over-excited Wolf at Boxpark Wembley, melancholic zoos, show-off flamingos, top 5 Disney songs, Avoidance issues, cancelled Meerkats and a new tattoo for the Owl. Plus, Rom and Tom have a go at hard-hitting news and current affairs chat. Look out The Rest Is Politics, there’s some new guys in town… For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Euros consolations, getting stuck in a weighted vest, pigging out after exercising, Japanese milk buns, Spanish lagers, an over-excited Wolf at Boxpark Wembley, melancholic zoos, show-off flamingos, top 5 Disney songs, Avoidance issues, cancelled Meerkats and a new tattoo for the Owl. Plus, Rom and Tom have a go at hard-hitting news and current affairs chat. Look out The Rest Is Politics, there’s some new guys in town… For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4504756003.mp3?updated=1721116536",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4504756003.mp3?updated=1779382471",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3513",
@@ -2312,9 +2312,9 @@
       "title": "S3 Ep 37: Friday Bonus & DJ Tom",
       "published_at": "2024-07-12T02:00:00+00:00",
       "link": null,
-      "description": "First up, it's a chat about very cold plunges, Wednesday’s England Euros win (apologies to the non-footie-fans), sneaky photos, a Cyprus Hill concert, doing your 10,000 steps and ending conversations. Then we move onto more of your sweet sweet emails, which this week are about some Australian love for the poo monster, Tom trying his hand at DJing and getting compliments from celebrities. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "First up, it's a chat about very cold plunges, Wednesday’s England Euros win (apologies to the non-footie-fans), sneaky photos, a Cyprus Hill concert, doing your 10,000 steps and ending conversations. Then we move onto more of your sweet sweet emails, which this week are about some Australian love for the poo monster, Tom trying his hand at DJing and getting compliments from celebrities. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7399697192.mp3?updated=1720718539",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7399697192.mp3?updated=1779382078",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2422",
@@ -2333,9 +2333,9 @@
       "title": "S3 Ep 36: Vegan Mice & Flight Delays",
       "published_at": "2024-07-10T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… having food named after you, vegan mice and curry mousetraps, not sticking to a health kick, Haribo addictions, Tom’s delayed flight and an almost missed England match, being a ‘pampered luvvie’, toddlers on the tannoy, Rom at the Love Supreme Festival, Tom’s ‘roadie vibes’, more on the Euro performances and social media sleuths. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… having food named after you, vegan mice and curry mousetraps, not sticking to a health kick, Haribo addictions, Tom’s delayed flight and an almost missed England match, being a ‘pampered luvvie’, toddlers on the tannoy, Rom at the Love Supreme Festival, Tom’s ‘roadie vibes’, more on the Euro performances and social media sleuths. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3720168650.mp3?updated=1720511166",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3720168650.mp3?updated=1779381826",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3206",
