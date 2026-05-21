@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-04-24T14:06:14+00:00`
-- checked_at: `2026-04-24T14:06:14+00:00`
-- etag: `"e18c98d998ece0d36dd1e819d028a930"`
-- last_modified: `Fri, 24 Apr 2026 13:45:52 GMT`
+- fetched_at: `2026-05-21T15:51:14+00:00`
+- checked_at: `2026-05-21T15:51:14+00:00`
+- etag: `"19d190ec6a14cf3e217cc34f0cb2bc51"`
+- last_modified: `Thu, 21 May 2026 12:33:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-04-24T14:06:14+00:00",
+  "fetched_at": "2026-05-21T15:51:14+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -288,35 +288,6 @@
         "amanda",
         "hursy"
       ]
-    },
-    {
-      "key": "9d4ac60dea2a0d1e16585ed92a8bf2a55a6faddd",
-      "title": "Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd and Val McDermid",
-      "published_at": "2026-02-20T14:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m002rgl1",
-      "description": "Des and the teams break up the week's big news. Including: the arrest of Andrew Mountbatten-Windsor, the Curling drama at the Winter Olympics, the East Neuk’s starring role in an international video game and more, Lead Writer: Nathan Cowley Additional material: Scott Graham, Rebecca Bain and Alex Garrick-Wright, Stephen Holford, Matthew McLane, Gabi Celaya, Mike Wooles, Fearghas Kelly, Cooper Mawhinney Sweryt, Lucy Rycroft-Smith, Claire Cox, Hughie Shepherd-Cross and Neil Bratchpiece Producer: Chris Quilietti Senior Producer: Lauren Mackay Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n28s4x.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26880000",
-      "itunes_duration": "1680",
-      "speakers": [
-        "Gareth Waugh",
-        "Ria Lina",
-        "Christopher Macarthur-Boyd",
-        "Val McDermid Des",
-        "Andrew Mountbatten-Windsor",
-        "Bbc Radio Scotland"
-      ],
-      "topics": [
-        "gareth",
-        "waugh",
-        "lina",
-        "christopher",
-        "macarthur",
-        "boyd",
-        "mcdermid"
-      ]
     }
   ]
 }
@@ -334,4 +305,3 @@
 - 2026-03-13 — Glasgow International Comedy Festival Special: Ashley Storrie, Jim Smith, Elaine Malcolmson and Chris Thorburn — speakers: Ashley Storrie, Jim Smith, Elaine Malcolmson, Chris Thorburn, Bbc Radio Scotland
 - 2026-03-06 — Felicity Ward, Mark Nelson, Kathleen Hughes and James Gardner — speakers: Mark Nelson, Kathleen Hughes, James Gardner Des, Bbc Radio Scotland
 - 2026-02-27 — Jay Lafferty, Robin Ince, Sam Lake and Amanda Hursy — speakers: Jay Lafferty, Robin Ince, Sam Lake, Peter Mandelson, Bbc Radio Scotland
-- 2026-02-20 — Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd and Val McDermid — speakers: Gareth Waugh, Ria Lina, Christopher Macarthur-Boyd, Val McDermid Des, Andrew Mountbatten-Windsor, Bbc Radio Scotland

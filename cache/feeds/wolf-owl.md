@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-21T10:02:54+00:00`
-- checked_at: `2026-05-21T10:02:54+00:00`
-- last_modified: `Thu, 21 May 2026 08:50:07 GMT`
+- fetched_at: `2026-05-21T15:51:14+00:00`
+- checked_at: `2026-05-21T15:51:14+00:00`
+- last_modified: `Thu, 21 May 2026 13:16:38 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-21T10:02:54+00:00",
+  "fetched_at": "2026-05-21T15:51:14+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -2356,12 +2356,12 @@
       "title": "S3 Ep 35: Friday Bonus & A Poo Monster",
       "published_at": "2024-07-05T02:00:00+00:00",
       "link": null,
-      "description": "Yep, we’re on a roll with the bonus eps now and this one’s a right banger! First up, Rom’s after a bit of holiday fashion advice from Tom, which leads onto some chat about style icons, discovering bald patches and more Apple update woes. Then Tom reveals an unfortunate incident he’s just had on holiday with a ‘poo monster’ and a very upset Dutch family. Plus, we answer emails about a list of Tom’s favourite things that he’s revealed on the pod, and making friends with someone who has very different opinions to yours. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Yep, we’re on a roll with the bonus eps now and this one’s a right banger! First up, Rom’s after a bit of holiday fashion advice from Tom, which leads onto some chat about style icons, discovering bald patches and more Apple update woes. Then Tom reveals an unfortunate incident he’s just had on holiday with a ‘poo monster’ and a very upset Dutch family. Plus, we answer emails about a list of Tom’s favourite things that he’s revealed on the pod, and making friends with someone who has very different opinions to yours. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9340578587.mp3?updated=1720119092",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9340578587.mp3?updated=1779369636",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2361",
+      "itunes_duration": "2389",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -2376,9 +2376,9 @@
       "title": "S3 Ep 34: Holidays, Hay Fever & Jet Lag",
       "published_at": "2024-07-03T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… struggling with hay fever and jet-lag, the Wolf on holiday, Rom’s US work travels, knowing too much about Beavo, the awkwardness of VIP areas, disappointing a whole stag-do, a swing in a restaurant, an England vs Slovakia Euros de-brief, raw-dosing on flights, WhatsApp anxieties, heavy metal massages, Tom’s suncream back-roller invention, the problems with making binge-able television and Grace's new favourite kids program. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… struggling with hay fever and jet-lag, the Wolf on holiday, Rom’s US work travels, knowing too much about Beavo, the awkwardness of VIP areas, disappointing a whole stag-do, a swing in a restaurant, an England vs Slovakia Euros de-brief, raw-dosing on flights, WhatsApp anxieties, heavy metal massages, Tom’s suncream back-roller invention, the problems with making binge-able television and Grace's new favourite kids program. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2004953204.mp3?updated=1719946373",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2004953204.mp3?updated=1779369136",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3786",
@@ -2396,9 +2396,9 @@
       "title": "S3 Ep 33: Friday Bonus & The AI Robots Are Coming!",
       "published_at": "2024-06-28T02:00:00+00:00",
       "link": null,
-      "description": "It’s Fridays folks and another Wolf & Owl bonus episode! First up, a big thank you to all the listeners who’ve got in touch about our non-league football team sponsorship. We’ll be going through all the messages and hopefully making an announcement on that soon - watch this space. And now onto your email questions - which this week are about artificial intelligence, how best to make amends after an embarrassing incident on a night out and a problem with a colleague and their very repetitive phrase. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s Fridays folks and another Wolf & Owl bonus episode! First up, a big thank you to all the listeners who’ve got in touch about our non-league football team sponsorship. We’ll be going through all the messages and hopefully making an announcement on that soon - watch this space. And now onto your email questions - which this week are about artificial intelligence, how best to make amends after an embarrassing incident on a night out and a problem with a colleague and their very repetitive phrase. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7329948636.mp3?updated=1719556653",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7329948636.mp3?updated=1779368405",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2001",
@@ -2416,9 +2416,9 @@
       "title": "S3 Ep 32: Pouffes, Trains & Queue-Jumping Scum",
       "published_at": "2024-06-26T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… an update on pouffe pronunciations, Monster drinkers and overdosing on Red Bull, the Wolf doing political comedy, getting told off on Have I Got News For You, bungie boxing, winding up Wladimir Klitschko and Tony Bellew, M&Ms in cinema popcorn, are white shorts wrong?, not going to Wimbledon, the scourge of queue jumpers, painfully slow ordering, train travel gripes, public transport bed-bugs, man-spreading and bothering Terry Venables. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… an update on pouffe pronunciations, Monster drinkers and overdosing on Red Bull, the Wolf doing political comedy, getting told off on Have I Got News For You, bungie boxing, winding up Wladimir Klitschko and Tony Bellew, M&Ms in cinema popcorn, are white shorts wrong?, not going to Wimbledon, the scourge of queue jumpers, painfully slow ordering, train travel gripes, public transport bed-bugs, man-spreading and bothering Terry Venables. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6984563649.mp3?updated=1719319022",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6984563649.mp3?updated=1779368208",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3842",
@@ -2440,9 +2440,9 @@
       "title": "S3 Ep 31: Friday Bonus & A Right Hotel Mess",
       "published_at": "2024-06-21T02:00:00+00:00",
       "link": null,
-      "description": "It’s a Friday Bonus ting! First up, Rom reveals that he might have finally beaten his phone addiction - and then finds out from a listener’s email that he’s the reason for her pregnancy. It’s all go for the Owl this week. Then we answer questions on when’s then best time to reveal to friends that your having a baby, our most embarrassing hotel incidents, The Swan on Natalie Cassidy’s podcast, and how best to deal with the ‘all men’ stereotype. Plus, some exciting news about the Wolf & Owl sponsoring a non-league football team. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s a Friday Bonus ting! First up, Rom reveals that he might have finally beaten his phone addiction - and then finds out from a listener’s email that he’s the reason for her pregnancy. It’s all go for the Owl this week. Then we answer questions on when’s then best time to reveal to friends that your having a baby, our most embarrassing hotel incidents, The Swan on Natalie Cassidy’s podcast, and how best to deal with the ‘all men’ stereotype. Plus, some exciting news about the Wolf & Owl sponsoring a non-league football team. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8871358205.mp3?updated=1718881608",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8871358205.mp3?updated=1779367861",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2448",
@@ -2462,9 +2462,9 @@
       "title": "S3 Ep 30: Heavy Metal & Mice Invaders",
       "published_at": "2024-06-19T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… getting into heavy metal, comedy at music gigs, Rom & Rob Beckett at the Download festival, not liking camping, Rom’s angry neighbour, celebrity beefs, Tom’s final week of tour shows in Devon and Cornwall, doner kebab pizzas, T-shirt strips, a poorly Davis household and a mouse in their house, how to pronounce ‘pouffe’, writing a new dictionary and alphabet issues. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… getting into heavy metal, comedy at music gigs, Rom & Rob Beckett at the Download festival, not liking camping, Rom’s angry neighbour, celebrity beefs, Tom’s final week of tour shows in Devon and Cornwall, doner kebab pizzas, T-shirt strips, a poorly Davis household and a mouse in their house, how to pronounce ‘pouffe’, writing a new dictionary and alphabet issues. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3669174422.mp3?updated=1719651417",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3669174422.mp3?updated=1779367312",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3380",
@@ -2484,9 +2484,9 @@
       "title": "S3 Ep 29: Hotel Audio & Vegan Beef",
       "published_at": "2024-06-12T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… both podding from hotel rooms, dodgy sound quality (sorry about that!), Rom’s new Oculus VR headset, getting distracted, continuing colds, finishing up tours, tucked-in bedsheets, unfortunate stains, dealing with tattoos, Rom’s heart-warming experience in a Rwandan milk bar and some unfortunate vegan abuse. Then we answer a few of your email questions - this time about dealing with a toxic parent and bad public toilet etiquette. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… both podding from hotel rooms, dodgy sound quality (sorry about that!), Rom’s new Oculus VR headset, getting distracted, continuing colds, finishing up tours, tucked-in bedsheets, unfortunate stains, dealing with tattoos, Rom’s heart-warming experience in a Rwandan milk bar and some unfortunate vegan abuse. Then we answer a few of your email questions - this time about dealing with a toxic parent and bad public toilet etiquette. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7696794156.mp3?updated=1718042197",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7696794156.mp3?updated=1779366570",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3072",
@@ -2506,9 +2506,9 @@
       "title": "S3 Ep 28: Food Thievery & A Grumpy Wolf",
       "published_at": "2024-06-07T02:00:00+00:00",
       "link": null,
-      "description": "Apologies for the delay with this week’s episode but we’ve got a bumper show to make up for it. We’re talking… Rom’s stolen meals, simmering food, the under-appreciation of Vicks, hoodie drawstrings, our live show at Sheffield’s Crossed Wires Festival, Tom’s nasty head-cold, being bad at being ill, finishing tours, bad drunks, losing your temper with inanimate objects, rubbish lawnmowers, in-growing hairs, having absolutely no arse, mooning, an unfortunate Tom look-a-like and The Dominos Pizza Awards. Plus, email questions about open-air toilets and whether heckling is becoming more of a problem at stand-up gigs. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Apologies for the delay with this week’s episode but we’ve got a bumper show to make up for it. We’re talking… Rom’s stolen meals, simmering food, the under-appreciation of Vicks, hoodie drawstrings, our live show at Sheffield’s Crossed Wires Festival, Tom’s nasty head-cold, being bad at being ill, finishing tours, bad drunks, losing your temper with inanimate objects, rubbish lawnmowers, in-growing hairs, having absolutely no arse, mooning, an unfortunate Tom look-a-like and The Dominos Pizza Awards. Plus, email questions about open-air toilets and whether heckling is becoming more of a problem at stand-up gigs. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7991369759.mp3?updated=1717689001",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7991369759.mp3?updated=1779365005",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4245",
@@ -2528,12 +2528,12 @@
       "title": "S3 Ep 27: Friday Bonus & Love Tickets",
       "published_at": "2024-05-31T02:00:00+00:00",
       "link": null,
-      "description": "At last, a long promised bonus episode to ease you into the weekend. So it’s straight onto your emails, which this week are about idiot hecklers, Tom’s music tastes, concerning TikTok algorithms, stand-up show ticket swaps, a case of mistaken identity and more thoughts on Tom’s free ‘rail pass of love’ idea. Plus, a massive shout out to Michael Hutchinson for compiling this ‘Romesh Recommends’ Spotify Playlist. which compiles almost every track that Rom’s ended the pod with. Listen here: Romesh Recommends Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "At last, a long promised bonus episode to ease you into the weekend. So it’s straight onto your emails, which this week are about idiot hecklers, Tom’s music tastes, concerning TikTok algorithms, stand-up show ticket swaps, a case of mistaken identity and more thoughts on Tom’s free ‘rail pass of love’ idea. Plus, a massive shout out to Michael Hutchinson for compiling this ‘Romesh Recommends’ Spotify Playlist. which compiles almost every track that Rom’s ended the pod with. Listen here: Romesh Recommends Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3639082380.mp3?updated=1717068441",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3639082380.mp3?updated=1779364391",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2245",
+      "itunes_duration": "2275",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"

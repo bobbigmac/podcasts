@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-05-20T20:30:25+00:00`
-- checked_at: `2026-05-20T20:30:25+00:00`
-- etag: `"2511aa-65241fae3bf84"`
-- last_modified: `Wed, 20 May 2026 16:06:35 GMT`
+- fetched_at: `2026-05-21T15:51:14+00:00`
+- checked_at: `2026-05-21T15:51:14+00:00`
+- etag: `"252d46-65254f57b820a"`
+- last_modified: `Thu, 21 May 2026 14:45:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-05-20T20:30:25+00:00",
+  "fetched_at": "2026-05-21T15:51:14+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,28 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "4f1912abbeee420e7fd5413d765d7633c688fe68",
+      "title": "Argentina’s inflation ‘miracle’ is more of a mirage",
+      "published_at": "2026-05-21T14:45:00+00:00",
+      "link": "https://theconversation.com/why-javier-mileis-inflation-miracle-in-argentina-is-more-of-a-mirage-283418",
+      "description": "The month Javier Milei took over as president of Argentina in December 2023, monthly inflation was 25.5%. The annual rate for that year was 211%. Now, it’s plummeted to 32% – still very high, but more stable. Milei, a right-wing populist famous for wielding a chainsaw on stage to make a point about fiscal conservatism, made cutting inflation a central part of his campaign. And yet economists like Can Cinar from City St George's, University of London, warn that Milei’s battle against inflation is more of a mirage, than a miracle. In this episode, Cinar explains how Milei’s government managed to cut inflation by deliberately suppressing people’s wages, and the stark impact these policies are having on Argentinians. This episode was written and produced by Mend Mariwany and Gemma Ware with production assistance from Katie Flood. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Kemi Badenoch says she wants to be Britain’s Javier Milei – but is the Argentinian president a model to follow? What’s inflation – and how exactly do we measure it? Javier Milei’s victory in Argentina’s midterm elections is also a win for Trump Currency controls and debt in Argentina: the stakes are high if Milei’s latest economic gamble doesn’t pay off Javier Milei’s inflation ‘miracle’ in Argentina is a warning to the world, not a blueprint Mentioned in this episode: Voices of the South",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/4031e513-fa25-4541-ad4b-ed40eeeedcbb.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38577467",
+      "itunes_duration": "26:47",
+      "speakers": [
+        "Javier Milei",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "argentina",
+        "inflation",
+        "miracle",
+        "mirage"
+      ]
+    },
     {
       "key": "56f9b2664705c68526801558b0d1886ed691d02d",
       "title": "The conspiracy theorists who feel vindicated by the Epstein files",
@@ -5913,6 +5935,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — Argentina’s inflation ‘miracle’ is more of a mirage — speakers: Javier Milei, Gemma Ware
 - 2026-05-14 — The conspiracy theorists who feel vindicated by the Epstein files — speakers: Gemma Ware
 - 2026-05-07 — China’s long game on Trump’s tariffs — speakers: Xi Jinping, Gemma Ware
 - 2026-04-30 — Trump v Leo: the war of words over a just war — speakers: Pope Leo, Gemma Ware

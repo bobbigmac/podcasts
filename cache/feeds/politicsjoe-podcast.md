@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-20T20:30:25+00:00`
-- checked_at: `2026-05-20T20:30:25+00:00`
-- etag: `"djEuMi4wOjE3NzkyOTUxODM2NTM="`
+- fetched_at: `2026-05-21T15:51:14+00:00`
+- checked_at: `2026-05-21T15:51:14+00:00`
+- etag: `"djEuMi4wOjE3NzkzNjg2Mzc0NjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-20T20:30:25+00:00",
+  "fetched_at": "2026-05-21T15:51:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "d0ecc45b3e9612961cf88f0abc0421c079d5c87d",
+      "title": "This is how Labour can transform Britain's economy | Economist and Labour MP Jeevun Sandher",
+      "published_at": "2026-05-21T13:03:57+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a0f02bd3bbd73b46e4adf31",
+      "description": "Jeevun Sandher is a Labour MP and economist, and swung by the studio to speak to us about the economy, Labour and Keir Starmer's woes, and how to turn around the government's fortunes. For Sandher, affordability is key. He breaks down key issues he saw on the doorstep from 2015 until today, and how both real and imagined threats have mobilised the country around a far-right alternative in Reform UK. He explains how a drop in living standards has led to Brits up and down the land turning away from parties like Labour and turning towards Farage and his politics of blame and division. The MP explains how the Labour Party need to re-employ a politics of hope, and plan to change the economic situation of millions of Brits up and down the land, if they are to have any chance of beating the right at the next election. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a0f02bd3bbd73b46e4adf31/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72215962",
+      "itunes_duration": "37:35",
+      "speakers": [
+        "Jeevun Sandher"
+      ],
+      "topics": [
+        "labour",
+        "britain",
+        "economy",
+        "economist",
+        "jeevun",
+        "sandher"
+      ]
+    },
     {
       "key": "ea283c82d35b387a396c4f447f348206f4630cbf",
       "title": "Is Keir Starmer finished? PMQs analysis",
@@ -13014,6 +13037,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — This is how Labour can transform Britain's economy | Economist and Labour MP Jeevun Sandher — speakers: Jeevun Sandher
 - 2026-05-20 — Is Keir Starmer finished? PMQs analysis
 - 2026-05-18 — Will the Greens block Burnham's path to No 10? — speakers: Wes Streeting
 - 2026-05-17 — The sinister plot behind the far-right's shift on Israel | Norman Finkelstein interview — speakers: Norman Finkelstein

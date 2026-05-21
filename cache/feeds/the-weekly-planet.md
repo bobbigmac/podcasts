@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-05-21T10:02:54+00:00`
-- checked_at: `2026-05-21T10:02:54+00:00`
-- etag: `"djEuMi4wOjE3NzkzNDMyNDUxMDY="`
+- fetched_at: `2026-05-21T15:51:14+00:00`
+- checked_at: `2026-05-21T15:51:14+00:00`
+- etag: `"djEuMi4wOjE3NzkzNzAyMzk0MzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-05-21T10:02:54+00:00",
+  "fetched_at": "2026-05-21T15:51:14+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "71152048cede7d19008e4efc8213a0ff14e40105",
+      "title": "Demolition Man - Caravan Of Garbage",
+      "published_at": "2026-05-21T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/demolition-man-caravan-of-garbage",
+      "description": "Stallone, always on the hunt for the next action blockbuster, took a shot at sci-fi in 1993 with the release of Demolition Man. Set in the future of 1996 and then the future of 2032 it pits him against Wesley Snipes' Simon Phoenix having the absolute time of his life. And that's the whole movie real, just an absolute blast from the get go with somewhat accurate depictions of the future mixed in with absolute insanity like the three sea shells situation. Thanks for coming along with us on our 1990s sci-fi retrospective and watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a01556044cb786b37493c99/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27581446",
+      "itunes_duration": "27:09",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "demolition",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "ba331a18a242e95980d4accc1b02bb01e0044b59",
       "title": "623 The Punisher: One Last Kill",
@@ -22325,6 +22346,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — Demolition Man - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-05-18 — 623 The Punisher: One Last Kill — speakers: Weekly Planet, Special Pre, James Clement, Nick Mason
 - 2026-05-14 — Total Recall - Caravan Of Garbage — speakers: Total Recall, James Clement, Nick Mason
 - 2026-05-11 — 622 Daredevil, The Boys & Mortal Kombat 2 — speakers: Mortal Kombat, James Clement, Nick Mason
