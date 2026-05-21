@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-05-14T22:19:08+00:00`
-- checked_at: `2026-05-14T22:19:08+00:00`
-- etag: `"d501a-651cd2bfd2ed2"`
-- last_modified: `Thu, 14 May 2026 20:45:08 GMT`
+- fetched_at: `2026-05-21T22:41:08+00:00`
+- checked_at: `2026-05-21T22:41:08+00:00`
+- etag: `"d59e0-65259fcf82da6"`
+- last_modified: `Thu, 21 May 2026 20:45:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-05-14T22:19:08+00:00",
+  "fetched_at": "2026-05-21T22:41:08+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "adffafc9a6c27c536583a392c26d705a086707b5",
+      "title": "John Kearns - Series 21 Ep.7",
+      "published_at": "2026-05-21T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "On this week's Taskmaster Podcast, Ed Gamble is joined by comedian, writer and TM alumni John Kearns! In true John Kearns fashion the pair talk about all kinds of stuff, including a potential new podcast format and maybe a little bit of Taskmaster... You can see John on tour with his show Tilting at Windmills. For tickets go to johnkearnscomedy.co.uk If you'd like to go back and watch John's series of Taskmaster which he starred in alongside Sarah Millican, Fern Brady, Munya Chawawa and Dara Ó Briain visit Channel4.com For all your latest TM news visit Taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/8360e204-a875-4fc4-8543-68a7ad3d0044/TASKMASTER-PODCAST-ARTWORK-John.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/060d6e7f-d41e-40c0-9f5c-3b61cc053fcb.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=060d6e7f-d41e-40c0-9f5c-3b61cc053fcb",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73353359",
+      "itunes_duration": "01:16:24",
+      "speakers": [
+        "Ed Gamble",
+        "John Kearns"
+      ],
+      "topics": [
+        "john",
+        "kearns",
+        "series"
+      ]
+    },
     {
       "key": "cf28adf2b781702274d99234110b8eef28bd61fa",
       "title": "Amy Gledhill - Series 21 Ep.6",
@@ -5359,6 +5380,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — John Kearns - Series 21 Ep.7 — speakers: Ed Gamble, John Kearns
 - 2026-05-14 — Amy Gledhill - Series 21 Ep.6 — speakers: Amy Gledhill, Ed Gamble
 - 2026-05-07 — Joel Dommett - Series 21 Ep.5 — speakers: Joel Dommett, Ed Gamble
 - 2026-04-30 — Jenny Eclair - Series 21 Ep.4 — speakers: Jenny Eclair, Ed Gamble
