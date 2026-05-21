@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-05-20T04:36:12+00:00`
-- checked_at: `2026-05-20T04:36:12+00:00`
-- last_modified: `Wed, 20 May 2026 01:43:15 GMT`
+- fetched_at: `2026-05-21T04:43:37+00:00`
+- checked_at: `2026-05-21T04:43:37+00:00`
+- last_modified: `Wed, 20 May 2026 23:09:46 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-20T04:36:12+00:00",
+  "fetched_at": "2026-05-21T04:43:37+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,28 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "439ef6f7ee5f374be724fdf614c30cb5dbe98f54",
+      "title": "CEX Appeal: The Gift Game",
+      "published_at": "2026-05-20T23:00:00+00:00",
+      "link": null,
+      "description": "Fresh episode, come get your fresh episode! You'll pay how much? Practically robbing me at that price. Go on then, fill yer boots. If you hadn't guessed already, this week the Boys have headed off to the market on the hunt for the best cheap games they can get their hands on. Armed with £15, they've been haggling and bartering to find the most appealing game. Will they strike gold in the bargain bins or be fleeced like fools? Before all that though, we're due a big catch-up. Sarah's gone as far Inside as they can go, Pierre's not playing a war OR strategy game and Glenn's stuck deciding between an early access blockbuster and a game about someone being stuck making decisions. To see the Button Boys outside the podcast: Pierre - ⁠ You Sit There, I'll Stand Here⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Inside LIMBO Somerville Dorfromantik Hell Let Loose: Vietnam Resident Evil 2 9 Kings Mixtape What Remains of Edith Finch Lost Records: Bloom & Rage Uncharted 4: A Thief's End The Last of Us: Part II The Artful Escape Forza Horizon 6 Gears of War Halo Forza Horizon Mario Kart Directive 8020 Until Dawn The Quarry The Dark Pictures The Thing Remastered Detroit: Become Human Alien: Isolation Darkwood Visage Amnesia: The Bunker Grand Theft Auto V King's Field Deathloop Unknown 9: Awakening Stardew Valley Jack Holmes: Master of Puppets The Texas Chain Saw Massacre Dead by Daylight Friday the 13th: The Game Duskers Command & Conquer: Generals Wax Heads Dark Souls III Locomoto Hitman World of Assassination 007: First Light Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR5117900235.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3703",
+      "speakers": [
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "appeal",
+        "gift",
+        "game"
+      ]
+    },
     {
       "key": "70e0ee5b5c6cbbec1979517ec9a425465e846388",
       "title": "Guns, Worms and Steel: Gaming’s Best Weapons",
@@ -1040,6 +1062,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — CEX Appeal: The Gift Game — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-05-13 — Guns, Worms and Steel: Gaming’s Best Weapons — speakers: Best Weapons Slap, Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-05-06 — O Captain! My Captain Price: What We've Learned from Gaming — speakers: Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-04-29 — The Great Game Pitch-Off — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie

@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-05-20T20:30:25+00:00`
-- checked_at: `2026-05-20T20:30:25+00:00`
-- last_modified: `Wed, 20 May 2026 17:56:46 GMT`
+- fetched_at: `2026-05-21T04:43:37+00:00`
+- checked_at: `2026-05-21T04:43:37+00:00`
+- last_modified: `Wed, 20 May 2026 23:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-20T20:30:25+00:00",
+  "fetched_at": "2026-05-21T04:43:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "c4f1a3f1f83e3a00de3a86006eb22743977471d0",
+      "title": "535. The Ebola Outbreak and the British Far-Right’s Next Move",
+      "published_at": "2026-05-20T23:00:00+00:00",
+      "link": null,
+      "description": "Are Xi and Putin playing Trump? How serious is the new Ebola outbreak, especially after Trump's and Britain's severe cuts to international aid? With Tommy Robinson explicitly telling his supporters to support Reform UK, the Conservative Party, and other right-wing parties ahead of 2029, is this a deliberate strategy to infiltrate mainstream politics and normalise far-right extremism? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. __________ The National Survey: To have your say on the country you want to see, just head to thenationalconversation.org.uk . Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Vasco Andrade Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/486b6ffe-5464-11f1-9086-2b736159097d/image/ef1b92f5787074e8354c47291f844c2f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5570446960.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2581",
+      "speakers": [],
+      "topics": [
+        "ebola",
+        "outbreak",
+        "right"
+      ]
+    },
     {
       "key": "5130c412b96240dd5a8a6c6b48086a0205c94ba8",
       "title": "534. Is Wes Streeting Trying to Sabotage Andy Burnham?",
@@ -11927,6 +11945,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — 535. The Ebola Outbreak and the British Far-Right’s Next Move
 - 2026-05-19 — 534. Is Wes Streeting Trying to Sabotage Andy Burnham? — speakers: Wes Streeting Trying, Wes Streeting, Andy Burnham
 - 2026-05-14 — 533. Andy Burnham's Big Gamble: Can He Beat Reform? — speakers: Andy Burnham, Wes Streeting
 - 2026-05-13 — 532. The Trump-Xi Showdown and Putin’s Conscription Con

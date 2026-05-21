@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-05-20T20:30:25+00:00`
-- checked_at: `2026-05-20T20:30:25+00:00`
-- last_modified: `Wed, 20 May 2026 16:29:03 GMT`
+- fetched_at: `2026-05-21T04:43:37+00:00`
+- checked_at: `2026-05-21T04:43:37+00:00`
+- last_modified: `Wed, 20 May 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-20T20:30:25+00:00",
+  "fetched_at": "2026-05-21T04:43:37+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "5ecf6fe11ae3bab32951dda1b7503159838e37a0",
+      "title": "We FINALLY Read Your Emails!",
+      "published_at": "2026-05-20T23:01:00+00:00",
+      "link": null,
+      "description": "Can we fix the email problem? This week's Thursday episode is an Email Special, where we finally catch up with some of your unanswered messages. From family feuds over cats and awkward sex talks to relationship arguments, the pair call people out, offer advice and revisit the infamous “tortoise eating your ding dong” debate. Romesh also addresses complaints about eating on the podcast (don't worry we mute him) and Shanthi gets duped by AI and TikTok. Plus there's a failed attempt to pitch to M&S. With Shanthi being spikey and Romesh getting roasted it's one not to miss. A Ranga Bee Production in partnership with Platform. 00:00 Intro 04:53 An email special 05:25 On Ben Elton 07:08 An M&S sponsor attempt 08:17 A serious note from Romesh 09:00 A doctors opinion 10:00 Shanthi has a go 13:39 Some email stats 16:00 Would Romesh be a good model? 16:35 The first email 17:0 Tortoises revisited 20:18 A jingle and an ego bash 23:18 An email about a cat 28:13 Dogs or cats? 29:19 Shanthi’s TikTok finds 32:05 An email about the sex talk 38:26 A couple’s dispute 45:00 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5b8b0fbe-5463-11f1-bcd7-57eee7a7e80e/image/c58b57b29903b0296df1af22196a78a7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4262035623.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2968",
+      "speakers": [
+        "Email Special",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "emails"
+      ]
+    },
     {
       "key": "decfc04a62ccded429f51b77f48d6571cdd7c0d6",
       "title": "Ben Elton on Blackadder, Mr Bean & Writing TV Classics",
@@ -1592,6 +1611,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-20 — We FINALLY Read Your Emails! — speakers: Email Special, Romesh Ranganathan
 - 2026-05-17 — Ben Elton on Blackadder, Mr Bean & Writing TV Classics — speakers: Ben Elton, Romesh Ranganathan
 - 2026-05-13 — We Accidentally Ignored 632 Emails… — speakers: Romesh Ranganathan
 - 2026-05-10 — Adam Buxton on Why Podcasting Has Got WORSE & Comedy Jingles — speakers: Adam Buxton, Romesh Ranganathan

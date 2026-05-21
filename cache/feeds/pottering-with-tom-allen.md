@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-05-20T15:54:53+00:00`
-- checked_at: `2026-05-20T15:54:53+00:00`
+- fetched_at: `2026-05-21T04:43:37+00:00`
+- checked_at: `2026-05-21T04:43:37+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Wed, 20 May 2026 12:33:08 GMT`
+- last_modified: `Thu, 21 May 2026 04:08:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-20T15:54:53+00:00",
+  "fetched_at": "2026-05-21T04:43:37+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "78c44e0a5482f8d230006a4e6c2b8487f9047d57",
+      "title": "Laura Checkley",
+      "published_at": "2026-05-21T04:00:00+00:00",
+      "link": null,
+      "description": "This week we welcomed the wonderful Laura Checkley in to the garden! A glorious actor and brilliantly funny, you’ll know Laura from King Gary , Action Team, Screw, Detectorists and, well, so many things besides! 🎬 🪴 We chat firing guns in Bulgaria, neighbourhood Facebook groups and what growing up gay did to our wardrobes. My bathroom birdsong also gets another mention, what a successful purchase that has turned out to be! 🐦‍⬛ So, stick on that little beanie hat, grab yourself some chicken wings and let’s go Pottering. 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. 🌷 Please do like and subscribe as they say! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/cb911eb4-5442-11f1-8430-3f039188c25f/image/e99be7868983ba1ddb0547825153b5a4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4535655966.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3578",
+      "speakers": [
+        "Laura Checkley",
+        "Tom Allen"
+      ],
+      "topics": [
+        "laura",
+        "checkley"
+      ]
+    },
     {
       "key": "e9f393d2ade1dc0b4fe0c008b05d9dbeccb59be0",
       "title": "Alan Carr",
@@ -748,6 +768,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — Laura Checkley — speakers: Laura Checkley, Tom Allen
 - 2026-05-14 — Alan Carr — speakers: Alan Carr, Tom Allen
 - 2026-05-07 — Cariad Lloyd — speakers: Cariad Lloyd, Tom Allen
 - 2026-04-30 — Carol Klein — speakers: Carol Klein, Tom Allen
