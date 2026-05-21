@@ -2,10 +2,10 @@
 
 - slug: `skewer`
 - source: `https://podcasts.files.bbci.co.uk/m000czyb.rss`
-- fetched_at: `2026-05-20T22:44:09+00:00`
-- checked_at: `2026-05-20T22:44:09+00:00`
-- etag: `"c5ff811d4d43b20b9584688383a3d408"`
-- last_modified: `Wed, 20 May 2026 22:30:04 GMT`
+- fetched_at: `2026-05-21T10:02:54+00:00`
+- checked_at: `2026-05-21T10:02:54+00:00`
+- etag: `"6096af739d677e0698e0db922746f460"`
+- last_modified: `Thu, 21 May 2026 07:59:43 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/m000czyb",
   "description": "A twisted comedy treat. Jon Holmes brings you the week's biggest stories like you've never heard them before. The news remixed. Welcome to The Skewer. Headphones on. The multi-award winning, 'dizzying, dazzling, haunting and moving' satirical comedy returns to twist itself into these turbulent times. With contributions from brand new and diverse audio talent, The Skewer is the sound the abyss makes as it stares back at you through your ears. 'A kind of concept album made of music and news. There's simply nothing else like it.' AWARDS New York Festival 2020 Audio Production Awards 2020 British Podcast Awards 2020 Audio Production Awards 2019 (Sound Design) Audio Production Awards 2020 An Unusual production for BBC Radio 4",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0kvt4yr.jpg",
-  "fetched_at": "2026-05-20T22:44:09+00:00",
+  "fetched_at": "2026-05-21T10:02:54+00:00",
   "owners": [
     "Jon Holmes"
   ],
@@ -31,7 +31,7 @@
   "episodes": [
     {
       "key": "c140e1a75d4d5e44e258becafe69619bcfa477b6",
-      "title": "Married At First Sh*te",
+      "title": "5. Married At First Sh*te",
       "published_at": "2026-05-20T22:30:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m002wjmv",
       "description": "All hail The King of the North and all condemn Married At First Sh*te. The multi-award-winning satire is back as Jon Holmes mashes up the news with pop-culture to create a current affairs satirical comedy concept album. Producer: Jon Holmes An unusual production for BBC Radio 4",
@@ -50,7 +50,7 @@
     },
     {
       "key": "1718177c6bf4bfb1eb76cb2d43eebdbd32137310",
-      "title": "Hard Labour",
+      "title": "4. Hard Labour",
       "published_at": "2026-05-13T22:30:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m002w5z9",
       "description": "Streeting wants in and Starmer styles it out. The multi-award-winning satire is back as Jon Holmes mashes up the news with pop-culture to create a current affairs satirical comedy concept album. Producer: Jon Holmes An unusual production for BBC Radio 4",
@@ -1627,8 +1627,8 @@
 
 ## Episodes (newest first)
 
-- 2026-05-20 — Married At First Sh*te — speakers: Jon Holmes
-- 2026-05-13 — Hard Labour — speakers: Jon Holmes
+- 2026-05-20 — 5. Married At First Sh*te — speakers: Jon Holmes
+- 2026-05-13 — 4. Hard Labour — speakers: Jon Holmes
 - 2026-05-06 — 3. Local Elections and a Middle Eastern Ship-Show — speakers: Local Elections, Middle Eastern Ship, Show Local, Middle East, Jon Holmes
 - 2026-04-30 — 2. Lie Back and Think of England — speakers: Lie Back, Jon Holmes
 - 2026-04-22 — 1. The Incredible Starmer. (You wouldn't like him when he's angry) — speakers: Beatrix Potter, Peter Mandelson, Jon Holmes

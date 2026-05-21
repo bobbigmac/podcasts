@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-05-14T14:39:54+00:00`
-- checked_at: `2026-05-14T14:39:54+00:00`
-- etag: `W/"eca6fbacb7a94d0c18ff272c4ef7086f"`
-- last_modified: `Thu, 14 May 2026 11:45:05 GMT`
+- fetched_at: `2026-05-21T10:02:54+00:00`
+- checked_at: `2026-05-21T10:02:54+00:00`
+- etag: `W/"8c16098cd693ed8709e104589ee7f22d"`
+- last_modified: `Thu, 21 May 2026 03:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-05-14T14:39:54+00:00",
+  "fetched_at": "2026-05-21T10:02:54+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "84a45d82e952036ebd00c0bada9adef7f7fea2f2",
+      "title": "Starmer clings on, Burnham steps up w/ MP Nadia Whittome",
+      "published_at": "2026-05-21T03:00:00+00:00",
+      "link": "https://audioboom.com/posts/8905980",
+      "description": "This week, Nish and Coco make sense of another chaotic week in Westminster, as Keir Starmer clings on in Downing Street, Wes Streeting resigns, and Andy Burnham’s route back to Parliament suddenly becomes very real. They’re joined by Nadia Whittome, Labour MP for Nottingham East and one of the earliest MPs to call for Starmer to go, to unpack the mood inside the Labour Party, whether Burnham is really the answer, and what Labour needs to do to win back progressive voters. Plus: after Stephen Christopher Yaxley-Lennon, aka Tommy Robinson’s latest rally in London, how should progressives respond to the far right without simply echoing its politics? And: Nigel Farage faces questions over a £5m gift from a crypto billionaire. Does the man of the people have some very expensive explaining to do? CHECK OUT THESE DEALS FROM OUR SPONSORS BT: Search ‘Why BT’ to find out more. VANTA: https://www.vanta.com/PSTUK INCOGNI: https://www.incogni.com/podsavetheuk Code: podsavetheuk SHOPIFY: https://shopify.co.uk/podsavetheuk GUESTS Nadia Whittome MP USEFUL LINKS @Femi_Sorry: Tommy Robinson supporters expose themselves so fast! - Unite The Kingdom https://www.youtube.com/watch?v=vBdc_HsSA5Y CLIP CREDITS Femi Oluwole Nigel Farage Interview: The Sun Pod Save the UK is an Intelligence Squared production for Crooked Media. Get in touch - contact us via email: podsavetheuk@crooked.com Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43655858.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8905980.mp3?modified=1779303413&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3982",
+      "speakers": [
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "starmer",
+        "cling",
+        "burnham",
+        "nadia",
+        "whittome"
+      ]
+    },
     {
       "key": "3e8d1bf67d154e4c410319596cb6989d968dd1e3",
       "title": "Starmer’s Survival Week w/NoJusticeMTG, plus Mo Gawdat",
@@ -3779,6 +3802,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — Starmer clings on, Burnham steps up w/ MP Nadia Whittome — speakers: Nish Kumar, Coco Khan
 - 2026-05-14 — Starmer’s Survival Week w/NoJusticeMTG, plus Mo Gawdat — speakers: Nish Kumar, Coco Khan
 - 2026-05-07 — Last orders for Labour? Starmer’s election nightmare and Westminster’s booze problem w/Will Hayward and Zoë Grünewald — speakers: Will Hayward, Zoë Grünewald, Nish Kumar, Coco Khan
 - 2026-04-23 — Mandelson, May Elections & Rosie Jones Mayhem — speakers: Nish Kumar, Coco Khan

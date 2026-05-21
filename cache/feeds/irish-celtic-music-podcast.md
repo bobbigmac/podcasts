@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-05-19T15:48:21+00:00`
-- checked_at: `2026-05-19T15:48:21+00:00`
-- etag: `"52bfa49d602d67e77200ad036ad91206"`
-- last_modified: `Tue, 19 May 2026 14:33:26 GMT`
+- fetched_at: `2026-05-21T10:02:54+00:00`
+- checked_at: `2026-05-21T10:02:54+00:00`
+- etag: `"f6201a4bb53b7822efbcd4c3909aca96"`
+- last_modified: `Thu, 21 May 2026 08:35:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-05-19T15:48:21+00:00",
+  "fetched_at": "2026-05-21T10:02:54+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -27,6 +27,27 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "e93daa6f62e5a8f804598cf535f776716da2927a",
+      "title": "Irish Music to Stir the Blood #759",
+      "published_at": "2026-05-21T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/irish-music-to-stir-the-blood-759",
+      "description": "This is music to stir the blood. Episode #759 of the Irish & Celtic Music Podcast brings you Altan, Scythian, Low Lily, Hanneke Cassel, and more. Fifteen tracks to get your pulse going. Let's do this. - - Subscribe now at CelticMusicPodcast.com ! The Byrne Brothers, Elizabeth Sutherland, Ashley Davis Band, W. Ed Harris, Erin Ruth, Sean Heely and Beth Patterson, Low Lily, Sue Tillotson & Jim Cunningham, Rambling Sailors, Hanneke Cassel, Paddyman, The Celtic Kitchen Party, Scythian, Altan GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! THIS WEEK IN CELTIC MUSIC 0:02 - Intro: Rachel Hair 0:10 - The Byrne Brothers \"Yvonne's Waltz (The Byrne Brothers)\" from Living the Dream 3:22 - WELCOME 4:50 - Elizabeth Sutherland \"Elsa's Dance (The Fairy Garden)\" from Forest Dreams 7:16 - Ashley Davis Band \"Here By My Side\" from When the Stars Went Out 11:37 - W. Ed Harris \"The Sligo Maid\" from Cares of Tomorrow Can Wait 14:32 - Sean Heely and Beth Patterson \"Allan Tyne of Harrow\" from Stir the Blood to Fire 19:46 - FEEDBACK 24:08 - Low Lily \"Brothers in Arms\" from 10,000 Days Like These 28:48 - Sue Tillotson & Jim Cunningham \"An't Isgair\" from Water Horse 33:13 - Rambling Sailors \"Whiskey in the Jar\" from Tales From the White Horse 36:37 - Erin Ruth \"I'm a Man You Don't Meet Every Day\" from Traditions & Original Work 39:30 - THANKS 41:20 - Hanneke Cassel \"Strathspey O' Death #1 / Strathspey O'Death #2 / Colonel Thornton / Running Around the Tree\" from Some Melodious Sonnet 45:35 - Paddyman \"The Secret of a Real Irish Pub\" from One for the Road [Explicit] 49:18 - The Celtic Kitchen Party \"Wolfe Island Jig\" from Sociable! 51:25 - Scythian \"My Son John\" from Jump at the Sun 54:47 - CLOSING 56:31 - Altan \"Lurgy Streams\" from The Widening Gyre 1:00:25 - CREDITS Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. Support for this program comes from John Sharkey White, II. Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Hank Woodward. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Here's something worth knowing. Clean energy is now the cheapest source of new electricity in most of the world. Solar. Wind. Battery storage. The technology works. The prices are down. There is no good reason to keep burning fossil fuels except one: money. Fossil fuel companies spend millions lobbying politicians to block clean energy policy. That investment pays off for them. It does not pay off for the rest of us. We get higher energy costs, dirtier air, and a planet that keeps warming. So here's what you can do. Contact your elected representatives. Tell them you want clean energy policies that put people first. Not corporate profits. Your voice matters. Use it. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories. Every song has a story, every episode is a toast to Celtic and folk songwriters. Discover the stories behind the songs from the heart of the Celtic pub scene. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email the artists to let them know you heard them on the Irish & Celtic Music Podcast. These musicians are not part of some corporation. They are small indie groups that rely on people just like you to support their music so they can keep creating it. Please show your generosity. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . ALBUM PINS ARE CHANGING THE WAY WE HEAR CELTIC MUSIC Looking for a fresh way to support the music you love? Meet the Album Pin. Album Pins are lapel pins themed to a specific album — and each one comes with a digital download. Wear your music. All of my latest pins are wood - burned and locally produced, which means a smaller footprint and a one - of - a - kind feel you won't find anywhere else. Pick yours up at magerecords.com THANK YOU PATRONS OF THE PODCAST! This episode is brought to you by our generous patrons. These are the listeners who make the Irish & Celtic Music Podcast possible every single week. They keep the music coming. They keep this community alive. And I am so grateful for every one of them. If you love this show, I invite you to join them. A special thanks to our latest Patron of the Podcast: Paul, Ty, Cody HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $25. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. Learn more about the invasion at http://celticinvasion.com/ #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo. If you're in a Celtic band, send me an audio recording of you performing live. Just audio. I'll use it in a podcast episode later this year. Email me at follow@bestcelticmusic. Jennifer Van Boxel emailed: \"Mark, I just finished listening to episode #749, Celtic Protest Songs, and I want to thank you for using your specialized platform to say things that really need to be said these days. Thank you for taking the financial hit to bring those songs to us. I am already a Patreon, and I had been debating whether or not to renew my year subscription when it runs out in a couple months. This episode has persuaded me to continue to monetarily support this podcast. I also appreciate the Pride Month specials you've done in the past, emphasizing that Celtic music is a space for everyone.\" Shel O'Toole commented on Patreon: \"Good for you Marc, it's important to call out hate and bigotry when we see it. Governments like to dehumanise those they either don't understand or choose to see as an enemy. That way they can go to war without feeling any conscience about killing other people. I believe love is the most powerful universal force and it's love that should be promoted, not fear and hatred.\" Frank Higgins replied to my email about How do you celebrate Celtic culture through music?: \"My wife plays at a session at a pub every week. We've also gone to ireland twice with Kevin Burke on a music tour with a group of people.\"",
+      "image_url": "https://static.libsyn.com/p/assets/6/9/4/d/694d5fd0981803f4d959afa2a1bf1c87/759-Irish_Music_to_Stir_the_Blood-LowLily-1400.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-759.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60054570",
+      "itunes_duration": "01:02:18",
+      "speakers": [
+        "Irish Music",
+        "Marc Gunn"
+      ],
+      "topics": [
+        "irish",
+        "music",
+        "blood"
+      ]
+    },
     {
       "key": "8b713434c5e366edfec3ebbb215479ab0c035dd4",
       "title": "O'Niel's Drowsy Irish Town #758",
@@ -16219,6 +16240,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — Irish Music to Stir the Blood #759 — speakers: Irish Music, Marc Gunn
 - 2026-05-14 — O'Niel's Drowsy Irish Town #758 — speakers: Drowsy Irish Town, Marc Gunn
 - 2026-05-07 — Selkie Women of the Northern Shore #757 — speakers: Selkie Women, Northern Shore, Marc Gunn
 - 2026-04-23 — Four Thousand Weeks, Happy Earth Week #756 — speakers: Marc Gunn
