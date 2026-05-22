@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-05-22T04:35:27+00:00`
-- checked_at: `2026-05-22T04:35:27+00:00`
-- last_modified: `Thu, 21 May 2026 22:55:00 GMT`
+- fetched_at: `2026-05-22T09:49:25+00:00`
+- checked_at: `2026-05-22T09:49:25+00:00`
+- last_modified: `Fri, 22 May 2026 09:33:41 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T04:35:27+00:00",
+  "fetched_at": "2026-05-22T09:49:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -30,12 +30,12 @@
       "title": "Struggling or Snowflakes? The Gen Z Mental Health Story",
       "published_at": "2026-05-21T22:55:00+00:00",
       "link": null,
-      "description": "Why has there been such an increase in young people diagnosed with mental health problems? Are Gen Z less resilient than older generations, or have they been seriously let down? Has therapy culture gone too far – or not far enough? Why are there so many young people doing absolutely nothing? Is it laziness, or something else? This week, Vicky Spratt is joined by three guests: psychologist and expert in adolescent mental health, Dr Lucy Folkues, researcher and co-author of “inside the mind of a 16 year old”, Shuab Gamote and writer of “Girls, The Commodification of Everything” Freya India. To hear the whole Gen Z series, sign up at therestispolitics.com Get TRIP Plus for £20 for the year by using your student email address. Instagram: ⁠@restispolitics⁠ Twitter: ⁠@restispolitics⁠ Email: ⁠therestispolitics@goalhanger.com⁠ __________ Hosted by: Vicky Spratt Producer: India Dunkley Social Producer: Celine Charles Video Editor: Josh Smith Researcher: Olivia Taylor Hooper Exec Producer: Tom Whiter Editorial Director: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "What's behind the rise in young people being diagnosed with mental health problems? Are members of Gen Z less resilient than older generations? Or are they a product of a society that has failed them? Has therapy culture gone too far? Or not far enough? Why are so many young people out of work? Is it laziness? Is something deeper at play? This week in The Gen Z Story, Vicky Spratt is joined by three guests: psychologist and expert in adolescent mental health, Dr Lucy Foulkes, Shuab Gamote, researcher and co-author of “Inside the Mind of a 16-year-old” and \"Inside the Mind of a Young NEET\" and Freya India, the author behind the book “Girls, The Commodification of Everything”. To hear the whole Gen Z series, sign up at therestispolitics.com Get TRIP Plus for £20 for the year by using your student email address. Instagram: ⁠@restispolitics⁠ Twitter: ⁠@restispolitics⁠ Email: ⁠therestispolitics@goalhanger.com⁠ __________ Hosted by: Vicky Spratt Producer: India Dunkley Social Producer: Celine Charles Video Editor: Josh Smith Researcher: Olivia Taylor Hooper Exec Producer: Tom Whiter Editorial Director: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9537859508.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1262",
+      "itunes_duration": "1397",
       "speakers": [],
       "topics": [
         "snowflake",

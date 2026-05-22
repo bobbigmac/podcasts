@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-05-21T22:41:08+00:00`
-- checked_at: `2026-05-21T22:41:08+00:00`
-- etag: `"djEuMi4wOjE3NzkzOTQ1NzQ5MDc="`
+- fetched_at: `2026-05-22T09:49:25+00:00`
+- checked_at: `2026-05-22T09:49:25+00:00`
+- etag: `"djEuMi4wOjE3Nzk0MjYwMzk2MjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-05-21T22:41:08+00:00",
+  "fetched_at": "2026-05-22T09:49:25+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b7aeef09680cb90550b7446c6c36a1906f93f1ae",
+      "title": "Rose Matafeo (2018): ComCompendium",
+      "published_at": "2026-05-22T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/rose-matafeo-2018-comcompendium",
+      "description": "This week we’re delving into the archives and going back to episode 259 in 2018 with that year's Edinburgh Comedy Award winner, Rose Matafeo ! We discuss: how she ensured her hilarious material about female sexuality in Horndog brought the whole room along with it how she's actively mining for hot takes and why she has a quintuple-threat approach to performance Join the Insiders Club at patreon.com/comcompod where you can instantly get access to the full back catalogue of extras , including 20 minutes with Rose! 👉 Sign up to the NEW ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content you can't find anywhere else ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly-ish Stu&As Catch Up with Rose: You can see Rose Matafeo working up some new material in Edinburgh this summer, find out more through the link in the show notes. Everything I'm up to: Come and see me LIVE - find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1779393017113-7ed3de72-5a67-47c5-aa90-1353f9b8271f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a0f62ad80978431dab8a371/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75139319",
+      "itunes_duration": "52:10",
+      "speakers": [
+        "Rose Matafeo",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "rose",
+        "matafeo",
+        "comcompendium"
+      ]
+    },
     {
       "key": "53eb21adf117702aeba41c2e6c9538f67a8a8f43",
       "title": "Ian Smith",
@@ -11435,6 +11456,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-22 — Rose Matafeo (2018): ComCompendium — speakers: Rose Matafeo, Stuart Goldsmith
 - 2026-05-14 — Ian Smith — speakers: Ian Smith, Edinburgh Comedy Award, Stuart Goldsmith
 - 2026-05-07 — John Robins Returns — speakers: John Robins Returns, Stuart Goldsmith
 - 2026-04-30 — John Tothill — speakers: John Tothill, Stuart Goldsmith

@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-05-21T20:10:06+00:00`
-- checked_at: `2026-05-21T20:10:06+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnprek56azFNamczTXpjPTo6c2F4ZXNz"`
+- fetched_at: `2026-05-22T09:49:25+00:00`
+- checked_at: `2026-05-22T09:49:25+00:00`
+- etag: `"ZGpFdU1pNHdPakUzTnprME1qWXdNemszTURJPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-05-21T20:10:06+00:00",
+  "fetched_at": "2026-05-22T09:49:25+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,13 +30,13 @@
     {
       "key": "b965077f6e1a1083736e88bd258f07ce200c79f7",
       "title": "Help I Sexted The Luxury Podcast",
-      "published_at": "2026-05-21T05:00:00+00:00",
+      "published_at": "2026-05-22T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-i-sexted-the-luxury-podcast",
-      "description": "William has finally done it and recorded a podcast episode with both of his work husbands around the same table. Will there be jealousy as Jordan and Jonathan fight over William's attention? Will tempers flare over Jordan’s impression of Jonathan? Will they come to blows (not that kind) over the different uses of various cleaning products? Sit back and enjoy! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "William has finally done it and recorded a podcast episode with both of his work husbands around the same table. Will there be jealousy as Jordan and Jonathan fight over William's attention? Will tempers flare over Jordan’s impression of Jonathan? Will they come to blows (not that kind) over the different uses of various cleaning products? Sit back and enjoy! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1779379510502-a41b5b00-a371-45f7-bee5-cffa9980c1b9.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a0dad3517091c07a86e9636/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=YD9gLTOwNapFD-C4xjU2KzYcb6y87CI6CYCvXPWsR7I",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39559000",
       "itunes_duration": "41:12",
       "speakers": [
         "William Hanson",
@@ -14350,7 +14350,7 @@
 
 ## Episodes (newest first)
 
-- 2026-05-21 — Help I Sexted The Luxury Podcast — speakers: William Hanson, Jordan North
+- 2026-05-22 — Help I Sexted The Luxury Podcast — speakers: William Hanson, Jordan North
 - 2026-05-19 — Help I’m A West End Girl | And Jordy’s Rants — speakers: Jordy’s Rants, William Hanson, Jordan North
 - 2026-05-15 — Jordan’s 2AM Cringe | And Is Wrestling Gay? — speakers: William Hanson, Jordan North
 - 2026-05-12 — Help I’m Sharing Soap With Strangers | And Speedo Season — speakers: William Hanson, Jordan North
