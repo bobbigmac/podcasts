@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-05-20T04:36:12+00:00`
-- checked_at: `2026-05-20T04:36:12+00:00`
-- etag: `"djEuMi4wOjE3NzkyMzMwNzkzNzM="`
+- fetched_at: `2026-05-22T04:35:27+00:00`
+- checked_at: `2026-05-22T04:35:27+00:00`
+- etag: `"djEuMi4wOjE3Nzk0MDY4MzkyNDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-05-20T04:36:12+00:00",
+  "fetched_at": "2026-05-22T04:35:27+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "e6e7616fa5c10d8a5bb272166fb386a2c9e94650",
+      "title": "Back To Basics (pt 2)",
+      "published_at": "2026-05-21T23:40:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/back-to-basics-pt-2",
+      "description": "👉 Subscribe on Apple Podcasts for Part 3 bonus content. Part 2 of The Socially Distant Sports Bar , where the conversation turns to the stories behind sport. Join Elis James and Mike Bubbins as they deep dive into sports. This week, the focus is on cycling legend Eddy Merckx, using a classic documentary as a starting point, alongside a book exploring participation and inclusion in sport. As ever, you don’t need to have seen or read anything — the discussion goes where it goes. PART 2 Elis Documentary: Eddy Merckx: The Greatest Show on Earth (1975) https://www.youtube.com/watch?app=desktop&v=Oqs__6rfk9c&t=2208s&ra=m Steff Book: Breaking The Grass Ceiling by Patricia Gregory https://amzn.to/4d0ZmOC 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a0b066e0bb7fec0e363c761/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65807040",
+      "itunes_duration": "27:25",
+      "speakers": [
+        "Apple Podcasts",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "basic"
+      ]
+    },
     {
       "key": "18a465fd7ffd103758da665842e681d2acec82c2",
       "title": "Back To Basics (pt 1)",
@@ -14829,6 +14850,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — Back To Basics (pt 2) — speakers: Apple Podcasts, Elis James, Mike Bubbins, Steff Garrero
 - 2026-05-19 — Back To Basics (pt 1) — speakers: Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-05-16 — Magic… It’s Your Job: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-05-14 — LIVE at the Hackney Empire (Pt 2) — speakers: Elis James, John Robins, Mike Bubbins, Steff Garrero

@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-05-20T04:36:12+00:00`
-- checked_at: `2026-05-20T04:36:12+00:00`
-- last_modified: `Wed, 20 May 2026 04:07:27 GMT`
+- fetched_at: `2026-05-22T04:35:27+00:00`
+- checked_at: `2026-05-22T04:35:27+00:00`
+- last_modified: `Fri, 22 May 2026 03:47:37 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-20T04:36:12+00:00",
+  "fetched_at": "2026-05-22T04:35:27+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,34 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a0572a42356228fcaf5d85c0d7d66359a0797f7a",
+      "title": "Ikea Role Play , Mouth Breathers and Chris Gets Owned by a Bouncy Castle",
+      "published_at": "2026-05-22T03:44:00+00:00",
+      "link": null,
+      "description": "On this week Shagged Married Annoyed, Chris and Rosie Ramsey discuss flat pack furniture (which involves some customer service roleplay), a difficult time with a bouncy castle , what hay fever has turned Chris in to. and Rosie is caught eating an unusual snack! There's some advice to be given that involves supermarket points and an ex boyfriend, plus some real life experience from a one time Findomme! All of this plus QFTP's involving dry humping, cuckolding and loads more! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2026423936.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3755",
+      "speakers": [
+        "Mouth Breathers",
+        "Chris Gets Owned",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "ikea",
+        "role",
+        "play",
+        "mouth",
+        "breathers",
+        "chris",
+        "bouncy",
+        "castle"
+      ]
+    },
     {
       "key": "f16343b38f3f12a715b27f9f3fdb852a32c555a1",
       "title": "Please Keep Me Anonymous with Greg James and Alice Levine",
@@ -8385,6 +8413,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-22 — Ikea Role Play , Mouth Breathers and Chris Gets Owned by a Bouncy Castle — speakers: Mouth Breathers, Chris Gets Owned, Rosie Ramsey, Chris Ramsey
 - 2026-05-20 — Please Keep Me Anonymous with Greg James and Alice Levine — speakers: Greg James, Alice Levine, Rosie Ramsey, Chris Ramsey
 - 2026-05-15 — New Bras, Wheelie Bins and Rosie Tries to Kill Comedy — speakers: Wheelie Bins, Rosie Tries, Kill Comedy, Rosie Ramsey, Chris Ramsey
 - 2026-05-13 — Please Keep Me Anonymous with Laura Smyth — speakers: Laura Smyth, Rosie Ramsey, Chris Ramsey

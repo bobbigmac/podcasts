@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-21T20:10:06+00:00`
-- checked_at: `2026-05-21T20:10:06+00:00`
-- last_modified: `Thu, 21 May 2026 16:52:24 GMT`
+- fetched_at: `2026-05-22T04:35:27+00:00`
+- checked_at: `2026-05-22T04:35:27+00:00`
+- last_modified: `Thu, 21 May 2026 23:10:28 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-21T20:10:06+00:00",
+  "fetched_at": "2026-05-22T04:35:27+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "dbe7e6115e0cab94621a5a8e7ad260302e521717",
+      "title": "Weddings, Food Vans and King Prawn Purée",
+      "published_at": "2026-05-21T23:01:00+00:00",
+      "link": null,
+      "description": "What does Tom regret about his wedding? Is Romesh holding a grudge again Tom? What do David Haye and Romesh have in common? Does anyone know what the difference is between a food stall and a food station? And should Tom open his own burger van business? This is the Wolf and Banter Canon 1 and this week’s email special! Get involved and send your questions, dilemmas and voice notes to us at wolfowlpod@gmail.com A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 01:16 Wedding advice 07:36 Food vans 09:48 King prawn puree Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/42fc81fe-5363-11f1-a6b0-af0aecac27ac/image/23b8de01e578d5892639d8c5cb91f904.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2310273527.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1065",
+      "speakers": [
+        "David Haye",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "wedding",
+        "food",
+        "vans",
+        "king",
+        "prawn"
+      ]
+    },
     {
       "key": "849c30b6a15fc04ceb1d1b51ed5b284004f37ed9",
       "title": "Tyson Fury, Arsenal Merch and Awkward Interactions",
@@ -6687,6 +6711,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — Weddings, Food Vans and King Prawn Purée — speakers: David Haye, Romesh Ranganathan, Tom Davis
 - 2026-05-18 — Tyson Fury, Arsenal Merch and Awkward Interactions — speakers: Tyson Fury, Arsenal Merch, Awkward Interactions Do, Romesh Ranganathan, Tom Davis
 - 2026-05-14 — Korean Skincare, Smoothie Makers and Bad Gifts — speakers: Smoothie Makers, Bad Gifts, Romesh Ranganathan, Tom Davis
 - 2026-05-11 — Piers Morgan, Percy Pigs and Gladiators — speakers: Percy Pigs, Romesh Ranganathan, Tom Davis

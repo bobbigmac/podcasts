@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-05-18T04:41:14+00:00`
-- checked_at: `2026-05-18T04:41:14+00:00`
-- etag: `W/"4f4dc1b8fe1eeee382dcaef8eb133ff4"`
-- last_modified: `Sun, 17 May 2026 22:55:00 GMT`
+- fetched_at: `2026-05-22T04:35:27+00:00`
+- checked_at: `2026-05-22T04:35:27+00:00`
+- etag: `W/"646472a62947cdd987f370404bb739b1"`
+- last_modified: `Thu, 21 May 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-05-18T04:41:14+00:00",
+  "fetched_at": "2026-05-22T04:35:27+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,28 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "cc7d06fe328913c1196c5099db4b2e26fb17b712",
+      "title": "No Such Thing As Uncle Egg",
+      "published_at": "2026-05-21T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8906438",
+      "description": "Prodigal Podcaster Anna Ptaszynski returns! She joins Dan, James and Andy to discuss whistling bombs, wifi cars and wild oats. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
+      "image_url": "https://audioboom.com/i/43657672.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8906438.mp3?modified=1779379748&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3538",
+      "speakers": [
+        "Anna Ptaszynski",
+        "Dan Schreiber",
+        "James Harkin",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "uncle"
+      ]
+    },
     {
       "key": "d1da83c2305fc5ee503e758b574722b9ac499008",
       "title": "Little Fish: Unencumbered By Any Knowledge",
@@ -390,7 +412,7 @@
       "link": "https://audioboom.com/posts/8879242",
       "description": "Daliso Chaponda joins Dan, James and Andy to discuss space, scrabble, smuggling and cichlids. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Thanks to the National Space Centre for the use of the BIS spacesuit image.",
       "image_url": "https://audioboom.com/i/43551214.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8879242.mp3?modified=1774613377&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8879242.mp3?modified=1778834711&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3447",
@@ -16310,6 +16332,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — No Such Thing As Uncle Egg — speakers: Anna Ptaszynski, Dan Schreiber, James Harkin, Andrew Hunter Murray
 - 2026-05-17 — Little Fish: Unencumbered By Any Knowledge — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-14 — No Such Thing As A Whale In Your Car — speakers: Manu Henriot, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-10 — Little Fish: Still Rockin' The Cloaca — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

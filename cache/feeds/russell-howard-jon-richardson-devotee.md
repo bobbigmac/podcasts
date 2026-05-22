@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-05-21T04:43:37+00:00`
-- checked_at: `2026-05-21T04:43:37+00:00`
-- etag: `W/"304ea-NqQ6gD3vT1FTHwpEK6UPJwFAaxw"`
+- fetched_at: `2026-05-22T04:35:27+00:00`
+- checked_at: `2026-05-22T04:35:27+00:00`
+- etag: `W/"309ab-nnaTgtM3Hhsw9iR/yPOQioSQwdk"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,40 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-05-21T04:43:37+00:00",
+  "fetched_at": "2026-05-22T04:35:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a2f817b8fe24a7c288ec7e97dd83474e86058acb",
+      "title": "Josh Widdicombe XFM #18 – James Acaster vs Tom Craine: Battle of the Scrapes (Classic Scrape 16)",
+      "published_at": "2026-05-21T18:46:08+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-18--James-Acaster-vs-Tom-Craine-Battle-of-the-Scrapes-Classic-Scrape-16-e3jn977",
+      "description": "James Acaster and Tom Craine go head-to-head in the battle of the scrapes.Broadcast on 9th July 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1779389126872-457d6a001f991.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2491260511.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40967522",
+      "itunes_duration": "00:42:40",
+      "speakers": [
+        "James Acaster",
+        "Tom Craine"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "craine",
+        "battle",
+        "scrapes",
+        "classic",
+        "scrape"
+      ]
+    },
     {
       "key": "282a302ef0c6c4c6faba1a85b2c2e5cef12830d7",
       "title": "Josh Widdicombe XFM # 17 – James Acaster Classic Scrape 15, Joe Lycett",
@@ -3550,6 +3577,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — Josh Widdicombe XFM #18 – James Acaster vs Tom Craine: Battle of the Scrapes (Classic Scrape 16) — speakers: James Acaster, Tom Craine
 - 2026-05-20 — Josh Widdicombe XFM # 17 – James Acaster Classic Scrape 15, Joe Lycett — speakers: James Acaster Classic Scrape, Joe Lycett James Acaster, Joe Lycett
 - 2026-05-19 — Josh Widdicombe XFM #16 – James Acaster Classic Scrape 14, Joe Lycett, Nick Helm — speakers: James Acaster Classic Scrape, Joe Lycett, Nick Helm
 - 2026-05-18 — Josh Widdicombe XFM #15 – Nish Kumar, James Acaster Classic Scrape 13, Joe Lycett — speakers: James Acaster Classic Scrape, Joe Lycett

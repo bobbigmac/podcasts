@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-21T04:43:37+00:00`
-- checked_at: `2026-05-21T04:43:37+00:00`
-- etag: `"djEuMi4wOjE3NzkzMjg4Mzk0MjM="`
+- fetched_at: `2026-05-22T04:35:27+00:00`
+- checked_at: `2026-05-22T04:35:27+00:00`
+- etag: `"djEuMi4wOjE3Nzk0MTUyMzkzODA="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-05-21T04:43:37+00:00",
+  "fetched_at": "2026-05-22T04:35:27+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,30 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "c6a2e75d264393c189373879ecfb0610763b6006",
+      "title": "S15 Ep 845 Listeners Mailbag: Spice Girls and Golden Moments",
+      "published_at": "2026-05-22T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-845-listeners-mailbag-spice-girls-and-golden-moments",
+      "description": "After almost being totally distracted from Mailbag again by some Spice Girls anecdotes, David and Joe eventually manage to pull some post out of the bag. There’s messages about the Brighton Pillars, some Golden Moments, a dog fouling quandary, a miss-judged quip, an old pub in Albourne with a dome and another ‘how often we have sex’ report. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a0d5ccda173e3b4db6eeea9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104322368",
+      "itunes_duration": "43:28",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listeners",
+        "mailbag",
+        "spice",
+        "girls",
+        "golden",
+        "moments"
+      ]
+    },
     {
       "key": "93d85b76cd0309b873aedf246f725e1a99df53bc",
       "title": "S15 Ep 844: Toby’s Trousers - Part 2",
@@ -15001,6 +15025,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-22 — S15 Ep 845 Listeners Mailbag: Spice Girls and Golden Moments — speakers: Joe Wilkinson, David Earl
 - 2026-05-21 — S15 Ep 844: Toby’s Trousers - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2026-05-20 — S15 Ep 843: Toby’s Trousers - Part 1 — speakers: Joe Wilkinson, David Earl
 - 2026-05-19 — S15 Ep 842: The ‘Not A Mailbag’ Episode — speakers: Joe Wilkinson, David Earl

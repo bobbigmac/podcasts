@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-05-20T15:54:53+00:00`
-- checked_at: `2026-05-20T15:54:53+00:00`
-- etag: `"djEuMi4wOjE3NzkyODc1OTM4MzI="`
+- fetched_at: `2026-05-22T04:35:27+00:00`
+- checked_at: `2026-05-22T04:35:27+00:00`
+- etag: `"djEuMi4wOjE3Nzk0MjAwMzkyNjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-05-20T15:54:53+00:00",
+  "fetched_at": "2026-05-22T04:35:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a2f8d0fddd804e2e5576f3b55d994fd25a38227f",
+      "title": "MATT WILLIS (Busted) • Friday Rewind",
+      "published_at": "2026-05-22T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with the Matt Willis , originally episode 132 from 2017-01-11. A lovely chat with Matt, who talked at length about the behind the scenes aspects of being in a huge pop punk band back in the day, as well as the very much in front of the scenes aspects too. Lovely stuff and hugely interesting wherever you find yourself on the popular music spectrum. PIP'S PATREON PAGE if you're of a supporting nature BUSTED PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1779286882044-42fdc4ae-26dc-4ddc-b0b6-637e2c1c0396.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a0dc629163f10018375e03f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "189847754",
+      "itunes_duration": "1:19:01",
+      "speakers": [
+        "Matt Willis"
+      ],
+      "topics": [
+        "matt",
+        "willis",
+        "busted",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "5404d3232286af0968fc80a11e37ead503ef5731",
       "title": "AMAR CHADHA-PATEL • the sacred arts of world building and world burning (Willow / The Creator / The Decameron) #672",
@@ -18842,6 +18864,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-22 — MATT WILLIS (Busted) • Friday Rewind — speakers: Matt Willis
 - 2026-05-20 — AMAR CHADHA-PATEL • the sacred arts of world building and world burning (Willow / The Creator / The Decameron) #672 — speakers: Amar Chadha-Patel
 - 2026-05-15 — SAFDIE BROTHERS (Uncut Gems / The Smashing Machine / Marty Supreme) • Friday Rewind — speakers: Uncut Gems
 - 2026-05-13 — TOM GEORGE • the beauty of unmotivated camera movements (Two Weeks In August / Bait / See How They Run) #671 — speakers: Tom George

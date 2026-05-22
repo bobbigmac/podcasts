@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-05-21T20:10:06+00:00`
-- checked_at: `2026-05-21T20:10:06+00:00`
-- etag: `"djEuMi4wOjE3NzkzODIzNjYzMTg="`
+- fetched_at: `2026-05-22T04:35:27+00:00`
+- checked_at: `2026-05-22T04:35:27+00:00`
+- etag: `"djEuMi4wOjE3Nzk0MDQ1NTk5NDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-05-21T20:10:06+00:00",
+  "fetched_at": "2026-05-22T04:35:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0978745c89bbae64fce648d9ccb075c702b13a19",
+      "title": "My Time Capsule The Dig - Ep. 3 - With Josh Bolt (from George Clooney's Catch-22 & Tom Hanks' Masters of the Air)",
+      "published_at": "2026-05-21T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-3-with-josh-bolt-from-george-cloo",
+      "description": "Mike and his producer and son John sit down together for a dig around in this week's Time Capsule, Mike asks Josh Bolt where he wants his time capsule buried and they interact with listeners via email and voice memos . You'll know Josh Bolt from episode 175, Last Tango in Halifax, Benidorm, George Clooney's Catch-22 and Tom Hanks' Masters of the Air . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow Josh Bolt on Instagram : @joshryanbolt . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1779382112119-3ba44d92-e07f-43eb-a937-f3515d4c363d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a0f385e3bbd73b46e5cbbe4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49139377",
+      "itunes_duration": "40:56",
+      "speakers": [
+        "George Clooney",
+        "Tom Hanks Masters"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "josh",
+        "bolt",
+        "george",
+        "clooney",
+        "hanks",
+        "masters"
+      ]
+    },
     {
       "key": "3b10848fde356eebd7b6af4776fd60f9a4c368c9",
       "title": "Ep. 585 - Bryony Kimmings - Writer and performer who co-wrote the film Last Christmas with Emma Thompson",
@@ -12607,6 +12633,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-21 — My Time Capsule The Dig - Ep. 3 - With Josh Bolt (from George Clooney's Catch-22 & Tom Hanks' Masters of the Air) — speakers: George Clooney, Tom Hanks Masters
 - 2026-05-17 — Ep. 585 - Bryony Kimmings - Writer and performer who co-wrote the film Last Christmas with Emma Thompson — speakers: Emma Thompson, Bryony Kimmings
 - 2026-05-14 — My Time Capsule The Dig - Ep. 2 - With Steve Edge (Phoenix Nights, Benidorm, The Jason Manford Show) — speakers: Steve Edge, Manford Show
 - 2026-05-10 — Ep. 584 - Julie Peasgood - From Brookside, Emmerdale & Hollyoaks and winner of RTS’s TV Personality of the Year Award — speakers: Julie Peasgood

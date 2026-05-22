@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-20T15:54:53+00:00`
-- checked_at: `2026-05-20T15:54:53+00:00`
-- etag: `"djEuMi4wOjE3NzkyNzQ1NDA3NTI="`
+- fetched_at: `2026-05-22T04:35:27+00:00`
+- checked_at: `2026-05-22T04:35:27+00:00`
+- etag: `"djEuMi4wOjE3Nzk0MTg2NTkzOTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-20T15:54:53+00:00",
+  "fetched_at": "2026-05-22T04:35:27+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "460a6fd424a4b5bc7e8c818fcba75f518fd1f2f6",
+      "title": "Brian Bilston on How to Lay an Egg with a Horse Inside - Book Club",
+      "published_at": "2026-05-22T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #180 - How To Lay an Egg with a Horse Inside - Rich talks to the Banksy of poetry (though he’s happy to be seen in the video, so that blows that), Brian Bilston (if that is his real name) about his career in poetry and his latest collection How To Lay an Egg With a Horse Inside. They chat about where this fantastic title came from and the probable obliviousness of its creator, how Twitter used to be a great place to post creative content and be inspired by others, how the book is a sarcastic but also inspirational look at the creation of poetry, whether AI will ever take the place of writers and most importantly where we get our crazy ideas from. Buy the book here - https://uk.bookshop.org/p/books/how-to-lay-an-egg-with-a-horse-inside-signed-edition-an-alternative-guide-to-writing-and-enjoying-poetry-brian-bilston/d20254e846a1c3e8 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1778783257999-9730435b-a387-4df6-a8c0-99766b3c569f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a0610fed98ee73f63c86e77/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23297621",
+      "itunes_duration": "44:57",
+      "speakers": [
+        "Brian Bilston",
+        "Richard Herring"
+      ],
+      "topics": [
+        "brian",
+        "bilston",
+        "horse",
+        "inside",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "4dc8b73c398d3af43cb63a6dbac97204d49ec18c",
       "title": "Jameela Jamil - \"Cake in a Graveyard\"",
@@ -22474,6 +22498,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-22 — Brian Bilston on How to Lay an Egg with a Horse Inside - Book Club — speakers: Brian Bilston, Richard Herring
 - 2026-05-20 — Jameela Jamil - "Cake in a Graveyard" — speakers: Jameela Jamil Cake, Richard Herring
 - 2026-05-18 — Josh Widdicombe (Retro) - "Chlorine Allergy" — speakers: Josh Widdicombe, Richard Herring
 - 2026-05-16 — Rich and Ally's Craven Newsround Compilation 16 — speakers: Richard Herring
