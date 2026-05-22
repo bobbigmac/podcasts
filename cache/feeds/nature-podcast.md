@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-05-20T15:54:53+00:00`
-- checked_at: `2026-05-20T15:54:53+00:00`
-- etag: `"djEuMi4wOjE3NzkyODkyMzkzODc="`
+- fetched_at: `2026-05-22T15:21:51+00:00`
+- checked_at: `2026-05-22T15:21:51+00:00`
+- etag: `"djEuMi4wOjE3Nzk0NTA4NzkyNDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-05-20T15:54:53+00:00",
+  "fetched_at": "2026-05-22T15:21:51+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,27 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "6e425be3212abd21633e727e71adbb7767403bbd",
+      "title": "Major Ebola outbreak is escalating: what happens next",
+      "published_at": "2026-05-22T11:53:45+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01660-z",
+      "description": "On 17 May the World Health Organization (WHO) declared an ongoing Ebola outbreak a public health emergency of international concern. Centred on the Democratic Republic of the Congo and Uganda, the outbreak has seen mounting numbers of suspected cases and deaths linked to the rare Bundibugyo species of Ebola virus. In this podcast we hear what's currently known about the outbreak and the efforts of clinicians, researchers and public health officials to halt its progress. Nature: Ebola outbreak is a global health emergency: what happens next Nature: Race begins to trial Ebola drugs amid current outbreak Nature: Ebola outbreak spirals out of control: how might it have started? Nature: Will this Ebola outbreak be the biggest yet? Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a1043c980978431daeea014/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "11561162",
+      "itunes_duration": "12:01",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "major",
+        "ebola",
+        "outbreak"
+      ]
+    },
     {
       "key": "b6c8f57be5420aa6b991b77c7164c2d9ad458d94",
       "title": "AI ‘scientists’ promise to accelerate research — how do they work?",
@@ -19696,6 +19717,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-22 — Major Ebola outbreak is escalating: what happens next — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-20 — AI ‘scientists’ promise to accelerate research — how do they work? — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-15 — Briefing Chat: Hantavirus — what this outbreak reveals about the disease — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
 - 2026-05-13 — Red-light therapy is all the rage — does it work? — speakers: Benjamin Thompson, Noah Baker

@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-21T15:51:14+00:00`
-- checked_at: `2026-05-21T15:51:14+00:00`
-- etag: `"djEuMi4wOjE3NzkzNjg2Mzc0NjI="`
+- fetched_at: `2026-05-22T15:21:51+00:00`
+- checked_at: `2026-05-22T15:21:51+00:00`
+- etag: `"djEuMi4wOjE3Nzk0NTgxNTMzOTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-21T15:51:14+00:00",
+  "fetched_at": "2026-05-22T15:21:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b5de2d5fa554977a5d23c1f61cca932dbfb5075f",
+      "title": "What I saw at Tommy Robinson's right-wing march",
+      "published_at": "2026-05-22T13:55:53+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a10601c11eba3cf15aae782",
+      "description": "Laura reflects on her journey to Central London last Saturday for the Unite the Kingdom rally, fronted by Stephen Yaxley-Lennon aka Tommy Robinson. She breaks down the faces seen on the ground, the ideology, fragmented as it was, of the attendees, and key takeaways from the day. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a10601c11eba3cf15aae782/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24020750",
+      "itunes_duration": "16:40",
+      "speakers": [
+        "Tommy Robinson"
+      ],
+      "topics": [
+        "tommy",
+        "robinson",
+        "wing",
+        "march"
+      ]
+    },
     {
       "key": "d0ecc45b3e9612961cf88f0abc0421c079d5c87d",
       "title": "This is how Labour can transform Britain's economy | Economist and Labour MP Jeevun Sandher",
@@ -13037,6 +13058,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-22 — What I saw at Tommy Robinson's right-wing march — speakers: Tommy Robinson
 - 2026-05-21 — This is how Labour can transform Britain's economy | Economist and Labour MP Jeevun Sandher — speakers: Jeevun Sandher
 - 2026-05-20 — Is Keir Starmer finished? PMQs analysis
 - 2026-05-18 — Will the Greens block Burnham's path to No 10? — speakers: Wes Streeting

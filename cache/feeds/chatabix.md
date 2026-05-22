@@ -3,12 +3,10 @@
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
 - fetched_at: `2026-05-22T04:35:27+00:00`
-- checked_at: `2026-05-22T09:49:25+00:00`
+- checked_at: `2026-05-22T15:21:51+00:00`
 - etag: `"djEuMi4wOjE3Nzk0MTUyMzkzODA="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>
 
 <!-- FEED_JSON -->
 ```json
@@ -15020,17 +15018,7 @@
         "chatabix"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-05-22T09:49:25+00:00",
-    "status": "error",
-    "checked_at": "2026-05-22T09:49:25+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->

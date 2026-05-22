@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-05-22T04:35:27+00:00`
-- checked_at: `2026-05-22T04:35:27+00:00`
-- last_modified: `Fri, 22 May 2026 03:47:37 GMT`
+- fetched_at: `2026-05-22T15:21:51+00:00`
+- checked_at: `2026-05-22T15:21:51+00:00`
+- last_modified: `Fri, 22 May 2026 14:48:49 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T04:35:27+00:00",
+  "fetched_at": "2026-05-22T15:21:51+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -32,7 +32,7 @@
       "title": "Ikea Role Play , Mouth Breathers and Chris Gets Owned by a Bouncy Castle",
       "published_at": "2026-05-22T03:44:00+00:00",
       "link": null,
-      "description": "On this week Shagged Married Annoyed, Chris and Rosie Ramsey discuss flat pack furniture (which involves some customer service roleplay), a difficult time with a bouncy castle , what hay fever has turned Chris in to. and Rosie is caught eating an unusual snack! There's some advice to be given that involves supermarket points and an ex boyfriend, plus some real life experience from a one time Findomme! All of this plus QFTP's involving dry humping, cuckolding and loads more! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "On this week Shagged Married Annoyed, Chris and Rosie Ramsey discuss flat pack furniture (which involves some customer service roleplay), a difficult time with a bouncy castle , what hay fever has turned Chris in to. and Rosie is caught eating an unusual snack! There's some advice to be given that involves supermarket points and an ex boyfriend, plus some real life experience from a one time Findomme! All of this plus QFTP's involving dry humping, cuckolding and loads more! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Today, get Huel’s full Lite & Lean Starter Kit online with our code SMA30 for 30% off at https://huel.com/SMA30 . New Customers Only. Thank you to Huel for partnering and supporting our show! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2026423936.mp3",
       "enclosure_type": "audio/mpeg",
@@ -60,7 +60,7 @@
       "title": "Please Keep Me Anonymous with Greg James and Alice Levine",
       "published_at": "2026-05-20T04:00:00+00:00",
       "link": null,
-      "description": "On the podcast this week Chris and Rosie Ramsey are joined by hosts of the new podcast Bad Chat and the team behind the Crossed Wires podcast festival ( AKA Radio and Podcast Royalty), Greg James and Alice Levine! What happens when four chatty broadcasters sit down in a room together? A whole lot! They discuss Greg and Alice's new podcast, Bad Chat, Greg's family member at Chris's gig and the pros and cons of doing a podcast as a married couple! They also chat about the joys of listener interaction and what makes the audience really angry! All this, plus an email from a listener who would like some advice...anonymously! You can listen and watch Bad Chat wherever you get your podcasts and for tickets to the the Crossed Wires festival visit crossedwires.live/line-up If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "On the podcast this week Chris and Rosie Ramsey are joined by hosts of the new podcast Bad Chat and the team behind the Crossed Wires podcast festival ( AKA Radio and Podcast Royalty), Greg James and Alice Levine! What happens when four chatty broadcasters sit down in a room together? A whole lot! They discuss Greg and Alice's new podcast, Bad Chat, Greg's family member at Chris's gig and the pros and cons of doing a podcast as a married couple! They also chat about the joys of listener interaction and what makes the audience really angry! All this, plus an email from a listener who would like some advice...anonymously! You can listen and watch Bad Chat wherever you get your podcasts and for tickets to the the Crossed Wires festival visit crossedwires.live/line-up If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Today, get Huel’s full Lite & Lean Starter Kit online with our code SMA30 for 30% off at https://huel.com/SMA30 . New Customers Only. Thank you to Huel for partnering and supporting our show! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/2a481a1e-5387-11f1-a718-7b4dc42916b9/image/301e59245bb16324cb89cb06d76a72e5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3523272845.mp3",
       "enclosure_type": "audio/mpeg",
