@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-05-21T20:10:06+00:00`
-- checked_at: `2026-05-21T20:10:06+00:00`
-- etag: `"335f758d0a855ccbf5b61d14825757fe"`
-- last_modified: `Thu, 21 May 2026 17:58:03 GMT`
+- fetched_at: `2026-05-22T20:10:11+00:00`
+- checked_at: `2026-05-22T20:10:11+00:00`
+- etag: `"722b3396f89b888339439f6370273ebf"`
+- last_modified: `Fri, 22 May 2026 18:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-05-21T20:10:06+00:00",
+  "fetched_at": "2026-05-22T20:10:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "7fd8bf4dba2fcb89aca2cbd7a6aa5255bb980ce9",
+      "title": "The News Quiz Ep5. Starmer psychodrama",
+      "published_at": "2026-05-22T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nkc6th",
+      "description": "What a week it's been for the Prime Minister. In the aftermath of seismic local elections results, there's been non-stop Labour party in-fighting. Wes Streeting has resigned as Health Secretary so the race for Labour leader is seemingly on - who will throw their hat in the ring? Will Andy Burnham, i.e. the King of the North, make his move? In other news, the panel discuss Trump's state visit to China and why the Royal Navy has to redesign women's uniforms over 'inappropriately placed' buttons. Helping Andy make sense of it all this week is Nish Kumar, Ian Smith, Katy Balls and Mhairi Black. Written by Andy Zaltzman. With additional material by: Alex Kealy, Ruth Husko and Claire Rammelkamp Producer: Georgia Keating Executive Producer: Richard Morris Production Coordinator: Asha Osborne-Grinter Sound Editor: Marc Willcox Recorded by David Thomas A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nlhsj5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27264000",
+      "itunes_duration": "1704",
+      "speakers": [
+        "Prime Minister"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "starmer",
+        "psychodrama"
+      ]
+    },
     {
       "key": "cfcd973f056c6d8feae583e2471991c32a2f4681",
       "title": "The News Quiz: Ep4. The people have spoken",
@@ -5460,6 +5481,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-22 — The News Quiz Ep5. Starmer psychodrama — speakers: Prime Minister
 - 2026-05-15 — The News Quiz: Ep4. The people have spoken
 - 2026-05-08 — The News Quiz: Ep3. When the King came round for tea — speakers: Donald Trump’s Wh
 - 2026-05-01 — The News Quiz: Ep2. The art of vetting — speakers: Peter Mandelson
