@@ -9239,6 +9239,28 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:6587af693c65",
+        "feed_title": "Crushed by Margaret Cabourn-Smith",
+        "source_rss_url": "https://feeds.megaphone.fm/AUDD5119698848",
+        "dedupe_key": "f4e9ca3bae1edc9cea2dd5a6deba969c1fddda0a",
+        "episode_key": "f4e9ca3bae1edc9cea2dd5a6deba969c1fddda0a",
+        "title": "108. Harriet Kemsley LIVE from the Machynlleth Comedy Festival",
+        "published_at": "2026-05-22T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Crushed by Margaret Cabourn-Smith; the podcast about unrequited love (WILD APPLAUSE HERE)\n\n \n\nToday's episode was recorded live at the Machynlleth Comedy Festival and features the awesome stand-up comic, podcaster and Last One Laughing Legend HARRIET KEMSLEY.\n\n \n\nShe really went for it even though the shame was thoroug",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/AUDD9929023795.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/108-harriet-kemsley-live-from-the-machynlleth-comedy/id1615555767?i=1000769029255&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:8bc61d154ae8",
         "feed_title": "Dish",
         "source_rss_url": "https://feeds.megaphone.fm/dish",
