@@ -20702,6 +20702,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:c471ce3a334a",
+        "feed_title": "the evening almanac",
+        "source_rss_url": "https://anchor.fm/s/9ba2f8/podcast/rss",
+        "dedupe_key": "fbe32164b0b6fb1ad2fbca7fa3a6d7dc57eccad1",
+        "episode_key": "fbe32164b0b6fb1ad2fbca7fa3a6d7dc57eccad1",
+        "title": "Ep 828 - Stewart Lee's Punchable Fans",
+        "published_at": "2025-10-15T16:35:50Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Quite a deep chat about popularity and alternative art, man. Basically.",
+        "audio_url": "https://anchor.fm/s/9ba2f8/podcast/play/109720134/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-15%2F409324258-44100-2-8bbf250c5e2d8.m4a",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-828-stewart-lees-punchable-fans/id1591074664?i=1000732013290&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:1aa2373ef0a4",
         "feed_title": "Great Lives",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/b006qxsb.rss",

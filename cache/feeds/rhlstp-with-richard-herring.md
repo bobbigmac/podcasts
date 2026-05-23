@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-22T04:35:27+00:00`
-- checked_at: `2026-05-22T04:35:27+00:00`
-- etag: `"djEuMi4wOjE3Nzk0MTg2NTkzOTI="`
+- fetched_at: `2026-05-23T10:43:28+00:00`
+- checked_at: `2026-05-23T10:43:28+00:00`
+- etag: `"djEuMi4wOjE3Nzk1MzEwMTM5NDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-22T04:35:27+00:00",
+  "fetched_at": "2026-05-23T10:43:28+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9aa03c7f091f21d6d1153ab9481c23571f8dabb5",
+      "title": "Rich and Ally's Craven Newsround Compilation 17",
+      "published_at": "2026-05-23T10:10:15+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Tuesday 19th May 2026 - Scott Baio’s Tapestry - Rich and Ally are back with news of a very important study on the Bayeaux Tapestry, but then have to stop as Rich has to go to a parent teacher thing at his kids’ school. Never happened to John Craven. That’s why it’s under 5 minutes today though. Wednesday 20th May 2026 - Spygate - Rich is back in more cheerful mood and there’s finally been a major development in his puppetry skills. But how many cocaines has he taken? And is his real viewership waiting for him, ungestated, in the future? Today the boys discuss football like a pair of right lads, plus how to be like Rich. Thursday 21st May 2026 - Foot in Mouth - Rich and Ally are back and looking at the STI figures in the EU and how best to sexily open a condom. Before falling out quite badly. Could this be the end of the partnership? Friday 22nd May 2026 - Unflammable - Rich and Ally are back, but there’s some bad blood between them. Can’t everyone just think of Rich’s wider career? They are talking about the eternal flame, not of gonorrhoea this time, but in a Buddhist Temple in Japan and why it might be a bad idea to house that in a place made of wood. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1779530733061-970379b1-2ffe-499b-8b83-6fe158406d02.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a117d0511eba3cf15e92240/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36188544",
+      "itunes_duration": "1:15:23",
+      "speakers": [
+        "Scott Baio",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation"
+      ]
+    },
     {
       "key": "460a6fd424a4b5bc7e8c818fcba75f518fd1f2f6",
       "title": "Brian Bilston on How to Lay an Egg with a Horse Inside - Book Club",
@@ -22498,6 +22520,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-23 — Rich and Ally's Craven Newsround Compilation 17 — speakers: Scott Baio, Richard Herring
 - 2026-05-22 — Brian Bilston on How to Lay an Egg with a Horse Inside - Book Club — speakers: Brian Bilston, Richard Herring
 - 2026-05-20 — Jameela Jamil - "Cake in a Graveyard" — speakers: Jameela Jamil Cake, Richard Herring
 - 2026-05-18 — Josh Widdicombe (Retro) - "Chlorine Allergy" — speakers: Josh Widdicombe, Richard Herring
