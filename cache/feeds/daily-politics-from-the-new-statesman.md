@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-05-21T20:10:06+00:00`
-- checked_at: `2026-05-21T20:10:06+00:00`
-- etag: `"djEuMi4wOjE3NzkzODEzNzI3NzU="`
+- fetched_at: `2026-05-23T16:12:46+00:00`
+- checked_at: `2026-05-23T16:12:46+00:00`
+- etag: `"djEuMi4wOjE3Nzk1NTIwMzk0OTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-05-21T20:10:06+00:00",
+  "fetched_at": "2026-05-23T16:12:46+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,31 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "fdf32b662051c77a1173bd27184f0ca264733cdc",
+      "title": "Nigel Farage’s £5 million “reward” from crypto billionaire | Will and Anoosh",
+      "published_at": "2026-05-23T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/nigel-farages-5-million-reward-from-crypto-billionaire-will",
+      "description": "Nigel Farage’s £5 million “reward” from crypto billionaire Christopher Harborne, the NHS “I feel lucky” syndrome and the Reform councillor who wants us to crack down on extra terrestrial activity. Will Dunn and Anoosh Chakelian round up the stories of the week. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1779379741437-c71e79a7-640b-4d7e-a640-05b99503ab53.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a0f2e115cf61563f2b9cf1f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73777400",
+      "itunes_duration": "38:19",
+      "speakers": [
+        "Christopher Harborne",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "nigel",
+        "farage",
+        "reward",
+        "crypto",
+        "billionaire",
+        "anoosh"
+      ]
+    },
     {
       "key": "b8e8e3ecfa5d006a866f147c20b05f77aa93ab33",
       "title": "Starmer attempts business as usual",
@@ -31330,6 +31355,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-23 — Nigel Farage’s £5 million “reward” from crypto billionaire | Will and Anoosh — speakers: Christopher Harborne, Anoosh Chakelian, Oli Dugmore
 - 2026-05-21 — Starmer attempts business as usual — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-05-18 — What is Andy Burnham’s “Manchesterism”? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-05-16 — Keir Starmer’s never ending chaos | Will and Anoosh’s weekly round up — speakers: Anoosh Chakelian, Oli Dugmore
