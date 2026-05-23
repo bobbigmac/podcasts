@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-05-18T15:56:24+00:00`
-- checked_at: `2026-05-18T15:56:24+00:00`
-- last_modified: `Mon, 18 May 2026 12:00:00 GMT`
+- fetched_at: `2026-05-23T14:02:23+00:00`
+- checked_at: `2026-05-23T14:02:23+00:00`
+- last_modified: `Sat, 23 May 2026 13:42:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-18T15:56:24+00:00",
+  "fetched_at": "2026-05-23T14:02:23+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -2032,7 +2032,7 @@
     },
     {
       "key": "ead2265792b42441d7b030a5e5c18aeff00b0332",
-      "title": "Second update from Gaza nurse Alaa Al-ghoul.mp3",
+      "title": "Second update from Gaza nurse Alaa Al-ghoul",
       "published_at": "2025-06-11T11:00:00+00:00",
       "link": "https://shows.acast.com/guiltyfeminist/episodes/second-update-from-gaza-nurse-alaa-al-ghoulmp3",
       "description": "Emergency Episode: Gaza nurse Alaa Al-ghoul Deborah Frances-White in conversation with Gaza nurse Alaa Al-ghoul Recorded 8 June 2025. Released 11 June The Guilty Feminist theme composed by Mark Hodge. Support Alaa by visiting her Instagram page https://www.instagram.com/nurse_alaa_alghoul Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts or Acast+ https://plus.acast.com/s/6130f79f1531680013afcfbd Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
@@ -2042,7 +2042,6 @@
       "enclosure_length": "0",
       "itunes_duration": "1525",
       "speakers": [
-        "Alaa Al-ghoul mp",
         "Alaa Al-ghoul",
         "Deborah Frances-White"
       ],
@@ -2050,7 +2049,8 @@
         "update",
         "gaza",
         "nurse",
-        "alaa"
+        "alaa",
+        "ghoul"
       ]
     },
     {
@@ -3352,8 +3352,8 @@
     },
     {
       "key": "240079632a9e490cd94d5442d2af9ae479cae226",
-      "title": "Media Storm presents: Rape off the record - The price of open justice.mp3",
-      "published_at": "2024-08-07T11:00:27+00:00",
+      "title": "Media Storm presents: Rape off the record - The price of open justice",
+      "published_at": "2024-08-07T11:00:00+00:00",
       "link": "https://shows.acast.com/guiltyfeminist/episodes/media-storm-presents-rape-off-the-record-the-price-of-open-j",
       "description": "RAPE OFF THE RECORD: THE PRICE OF OPEN JUSTICE Media Storm’s first series featured an investigation into ‘Rape justice: ‘What happens to the 98% , when we discovered the fates of the many reported rapes that never make it to trial. Today, we speak to “the lucky ones,” the 2% of victims who get the chance to go to court. Or do they? They are told to leave the courtroom and miss the bulk of their trial… and then they must pay tens of thousands of pounds to find out what happened inside. Are government contractors getting rich off victims’ suffering? Or is someone trying to hide something? This is an investigation into the transparency of the UK’s judiciary, and the treatment of women and victims during rape and sexual assault trials. Media Storm is hosted by Mathilda Mallinson (@mathildamall) and Helena Wadia (@helenawadia). The music is by Samfire (@soundofsamfire). Links: Discover the campaign: https://www.openjusticeforall.com Listen to Media Storm's original investigation ‘Rape Justice: What happens to the 98%' https://podcasts.apple.com/us/podcast/s1e3-rape-justice-what-happens-to-the-98-with/id1592553644?i=1000544393437 Support Media Storm investigations on Patreon https://www.patreon.com/MediaStormPodcast Speakers: Juliana Terlizzi (@juterlizzi) Charlotte Schreurs (@charlotteschreurs_) Hosted on Acast. See acast.com/privacy for more information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/085d9942-9ac3-11f0-b3bf-779c4e7bac9b/image/60b0fc6fd43c4bacc6f2f0e58bd7bf05.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -3362,14 +3362,15 @@
       "enclosure_length": "0",
       "itunes_duration": "2238",
       "speakers": [
-        "justice mp",
+        "Media Storm",
         "Deborah Frances-White"
       ],
       "topics": [
         "media",
         "storm",
         "record",
-        "price"
+        "price",
+        "justice"
       ]
     },
     {
@@ -18093,7 +18094,7 @@
 - 2025-06-16 — 440. Justice for Windrush with Colin McFarlane — speakers: Colin McFarlane, Deborah Frances-White
 - 2025-06-15 — The Guilty Feminist watches And Just Like That - Season 3, Episode 3 with Natalie Bochenski — speakers: Natalie Bochenski, Deborah Frances-White, Natalie Boche
 - 2025-06-13 — Emergency Episode: Our chance to decriminalise abortion in England and Wales — speakers: Stella Creasy MP, Deborah Frances-White
-- 2025-06-11 — Second update from Gaza nurse Alaa Al-ghoul.mp3 — speakers: Alaa Al-ghoul mp, Alaa Al-ghoul, Deborah Frances-White
+- 2025-06-11 — Second update from Gaza nurse Alaa Al-ghoul — speakers: Alaa Al-ghoul, Deborah Frances-White
 - 2025-06-09 — 439. The New Age of Sexism with Laura Bates and Desiree Burch — speakers: Laura Bates, Desiree Burch, Deborah Frances-White
 - 2025-06-08 — The Guilty Feminist watches And Just Like That - Season 3, Episode 2 with Jessica Regan — speakers: Jessica Regan, Deborah Frances-White
 - 2025-06-02 — 438. In Conversation with David Tennant — speakers: David Tennant, Deborah Frances-White, David Tenna
@@ -18147,7 +18148,7 @@
 - 2024-08-14 — Media Storm presents - Mina Smallman on misogynoir, survival and a better tomorrow — speakers: Media Storm, Mina Smallman, Deborah Frances-White
 - 2024-08-12 — 406. Live from Sydney, Australia with Geraldine Hickey, Alison J Barton, Tilly Lawless, Brihony Dawson and Grace Petrie - part two — speakers: Geraldine Hickey, Brihony Dawson, Deborah Frances-White
 - 2024-08-12 — 406. Live from Sydney, Australia with Geraldine Hickey, Alison J Barton, Tilly Lawless, Brihony Dawson and Grace Petrie - part one — speakers: Geraldine Hickey, Brihony Dawson, Grace Petrie, Deborah Frances-White
-- 2024-08-07 — Media Storm presents: Rape off the record - The price of open justice.mp3 — speakers: justice mp, Deborah Frances-White
+- 2024-08-07 — Media Storm presents: Rape off the record - The price of open justice — speakers: Media Storm, Deborah Frances-White
 - 2024-08-05 — 405. Gaming with Sophie Willan and guests Natalie Winter, Meghna Jayanth and Samantha Béart — speakers: Natalie Winter, Meghna Jayanth, Samantha Béart, Deborah Frances-White
 - 2024-08-03 — The Guilty Feminist Culture Club – Fangirls with Yve Blake — speakers: Yve Blake, Deborah Frances-White
 - 2024-08-02 — The Guilty Feminist Culture Club – Tits Up with Sarah Thornton — speakers: Sarah Thornton, Deborah Frances-White

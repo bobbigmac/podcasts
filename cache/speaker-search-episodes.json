@@ -4637,6 +4637,28 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:b668206d8929",
+        "feed_title": "Taskmaster The Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
+        "dedupe_key": "2b0ea63440d9289a5ea8d082ffb59711077c813e",
+        "episode_key": "2b0ea63440d9289a5ea8d082ffb59711077c813e",
+        "title": "John Kearns - Series 21 Ep.7",
+        "published_at": "2026-05-21T20:45:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "On this week's Taskmaster Podcast, Ed Gamble is joined by comedian, writer and TM alumni John Kearns! In true John Kearns fashion the pair talk about all kinds of stuff, including a potential new podcast format and maybe a little bit of Taskmaster...\nYou can see John on tour with his show Tilting at Windmills. For tick",
+        "audio_url": "https://episodes.captivate.fm/episode/060d6e7f-d41e-40c0-9f5c-3b61cc053fcb.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=060d6e7f-d41e-40c0-9f5c-3b61cc053fcb",
+        "link_url": "https://podcasts.apple.com/gb/podcast/john-kearns-series-21-ep-7/id1535040312?i=1000768978222&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
