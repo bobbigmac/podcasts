@@ -17600,6 +17600,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:a87f2631b5f9",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "https://feeds.acast.com/public/shows/e1483c6e-23ae-46f4-bd83-2528800cbe78",
+        "dedupe_key": "e690a248e05e5a780fd27b10606fa6666fab0132",
+        "episode_key": "e690a248e05e5a780fd27b10606fa6666fab0132",
+        "title": "Alex Horne, Nick Helm, Tony Law and Will Collier",
+        "published_at": "2013-06-07T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Nick Helm and Tony Law join Alex in dismantling the week's big news topics; mosquitos, education, long words... yup we've got it all and if that's not enough to keep your earphones in we have a guide to Selby. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-nick-helm-tony-law-and-will-collier/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-nick-helm-tony-law-and-will-collier/id1133204823?i=1000372293484&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f0e5f1b08719",
         "feed_title": "Alex Horne Breaks the News",
         "source_rss_url": "http://rss.acast.com/alexhornebreaksnews",
