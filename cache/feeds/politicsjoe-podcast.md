@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-22T20:10:11+00:00`
-- checked_at: `2026-05-22T20:10:11+00:00`
-- etag: `"djEuMi4wOjE3Nzk0NjM0NzExMDM="`
+- fetched_at: `2026-05-24T08:44:17+00:00`
+- checked_at: `2026-05-24T08:44:17+00:00`
+- etag: `"djEuMi4wOjE3Nzk2MDk2Mzk1MjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-22T20:10:11+00:00",
+  "fetched_at": "2026-05-24T08:44:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b165774ee6c12c53b86c88428264f3ca1ddf864c",
+      "title": "Why the far-right HATE London | Sadiq Khan interview",
+      "published_at": "2026-05-24T08:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a10752fa9d3d2ec140718f2",
+      "description": "Sadiq Khan marked ten years in City Hall this May, and Ava joined the Mayor of London to walk back through a decade running Britain's capital. Sadiq's time in charge has been far from smooth. From Conservative administrations to conspiracy theories, the Mayor of London has fought against opposition from all angles to get his agenda through. During the chat, Sadiq speaks about the pockets of offline and online opposition to his leadership of the city, and how he pushes back against those who want to do London down. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a10752fa9d3d2ec140718f2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43247497",
+      "itunes_duration": "30:00",
+      "speakers": [
+        "Sadiq Khan"
+      ],
+      "topics": [
+        "right",
+        "hate",
+        "london",
+        "sadiq",
+        "khan"
+      ]
+    },
     {
       "key": "b5de2d5fa554977a5d23c1f61cca932dbfb5075f",
       "title": "What I saw at Tommy Robinson's right-wing march",
@@ -13058,6 +13080,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-24 — Why the far-right HATE London | Sadiq Khan interview — speakers: Sadiq Khan
 - 2026-05-22 — What I saw at Tommy Robinson's right-wing march — speakers: Tommy Robinson
 - 2026-05-21 — This is how Labour can transform Britain's economy | Economist and Labour MP Jeevun Sandher — speakers: Jeevun Sandher
 - 2026-05-20 — Is Keir Starmer finished? PMQs analysis

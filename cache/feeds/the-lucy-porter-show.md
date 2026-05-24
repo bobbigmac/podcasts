@@ -2,8 +2,8 @@
 
 - slug: `the-lucy-porter-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/`
-- fetched_at: `2026-05-24T04:38:19+00:00`
-- checked_at: `2026-05-24T04:38:19+00:00`
+- fetched_at: `2026-05-24T08:44:17+00:00`
+- checked_at: `2026-05-24T08:44:17+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "image_url": "",
-  "fetched_at": "2026-05-24T04:38:19+00:00",
+  "fetched_at": "2026-05-24T08:44:17+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "435e5118ac0349f23288dc987b98117bc50a4b1b",
+      "guid": "be0e78a7-d935-45a9-b6e1-defb08a60b54",
+      "title": "The Lucy Porter Show (24th May)",
+      "published_at": "2026-05-24T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-lucy-porter-show-24th-may/",
+      "description": "Ever wondered what 'Woman's Hour' would be like if it were uncensored?",
+      "image_url": "https://mm.aiircdn.com/177/420888.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1779595225-the_lucy_porter_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=be0e78a7-d935-45a9-b6e1-defb08a60b54&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "3d96dd71a2f2a9486a79217ed3b0e8c57390e342",
       "guid": "15521e0e-a55f-4584-acab-2dcb01a198e1",
@@ -1422,6 +1435,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-24 — The Lucy Porter Show (24th May)
 - 2026-05-17 — The Lucy Porter Show (17th May)
 - 2026-05-10 — The Lucy Porter Show (10th May)
 - 2026-05-03 — The Lucy Porter Show (3rd May)

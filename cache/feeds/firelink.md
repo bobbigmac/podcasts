@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-05-24T04:38:19+00:00`
-- checked_at: `2026-05-24T04:38:19+00:00`
-- etag: `W/"3697f-2DhPaG5mkvXMS35xGbCXLWCZyDI"`
+- fetched_at: `2026-05-24T08:44:17+00:00`
+- checked_at: `2026-05-24T08:44:17+00:00`
+- etag: `W/"3716a-Iptng5+6vhhJ9GNxBAavkoSb5uM"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-05-24T04:38:19+00:00",
+  "fetched_at": "2026-05-24T08:44:17+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,30 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "60aa4060103381e83567cc24827e20f93821b7dc",
+      "title": "Dream Pairings of Developers and IP | Firelink Podcast",
+      "published_at": "2026-05-22T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Dream-Pairings-of-Developers-and-IP--Firelink-Podcast-e3jpr56",
+      "description": "This week on Firelink, Nick, KC, and Marty chat about the Kingdom Come devs making a Middle-earth game, Destiny's uncertain future, and early impressions of the big new games. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/120433254/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-23%2F22b5ea66-e246-cd35-0e7c-a865b2878079.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "110003936",
+      "itunes_duration": "01:16:23",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "dream",
+        "pairings",
+        "developers",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "ccbd8082db9ded98fc13c3164a2980acf323d656",
       "title": "Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast",
@@ -2809,6 +2833,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-22 — Dream Pairings of Developers and IP | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-05-15 — Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-05-08 — Nintendo's Star Fox Surprise | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-05-01 — Our Early Thoughts on Saros, the Big New PS5 Exclusive | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
