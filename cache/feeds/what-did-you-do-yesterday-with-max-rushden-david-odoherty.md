@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-05-20T09:53:57+00:00`
-- checked_at: `2026-05-20T09:53:57+00:00`
-- last_modified: `Wed, 20 May 2026 08:09:19 GMT`
+- fetched_at: `2026-05-24T04:38:19+00:00`
+- checked_at: `2026-05-24T04:38:19+00:00`
+- last_modified: `Sat, 23 May 2026 23:15:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT5518536193",
   "description": "A podcast where people tell us what they did yesterday....",
   "image_url": "https://megaphone.imgix.net/podcasts/d764f444-654d-11ef-b74f-a76e3761340f/image/0bbecfc9ad65078c6accdbc313267a08.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-20T09:53:57+00:00",
+  "fetched_at": "2026-05-24T04:38:19+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -27,6 +27,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "28bbf96d6795fc37b32842cb55a7ccc3ddc97034",
+      "title": "S4 EP21: Ben Elton",
+      "published_at": "2026-05-23T23:15:00+00:00",
+      "link": null,
+      "description": "Joining us on this episode of ' ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ What did you do yesterday? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ' is a legend of comedy. Writer, actor, comedian - Ben Elton. We asked Ben what he did yesterday? He told us. That's it... enjoy! Ben's critically acclaimed autobiography What Have I Done? is publishing in paperback 21st May 2026. For the first – and only – time, Ben opens up in his frank, forthright and entertaining autobiography. Taking a deep dive into his life and times, both private and public, to reveal the true stories behind iconic hits such as The Young Ones and We Will Rock You, his pioneering routines hosting Saturday Live, which birthed a revolution in stand-up comedy, and so much more. Ben recounts his life and uniquely varied career from his Catford childhood and being the BBC’s youngest ever sitcom writer at 21 right up to the present day, with yet another hit sitcom, Upstart Crow; a surprise late-life BAFTA; and his most critically acclaimed stand-up comedy show to date. The book is full of anecdotes, such as when Ben met Emma Thompson and became infatuated with her on set, his creative partnership with Rik Mayall, and working with Richard Curtis, Rowan Atkinson et al on Blackadder. It was an instant Sunday Times bestseller and critics' pick of the best biographies and memoirs published in 2025, with fantastic peer endorsements from other comedians: Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ @yesterdaypod ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1923309666.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4551",
+      "speakers": [
+        "Ben Elton",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "elton"
+      ]
+    },
     {
       "key": "8000af15276541e1547a8f7ff5dfb5aed4c18fa7",
       "title": "WDWDY #72: The Montenegro Tease",
@@ -3410,6 +3430,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-23 — S4 EP21: Ben Elton — speakers: Ben Elton, Max Rushden, David O'Doherty
 - 2026-05-19 — WDWDY #72: The Montenegro Tease — speakers: Max Rushden, David O'Doherty
 - 2026-05-16 — S4 EP20: Shane Daniel Byrne — speakers: Daniel Byrne, Max Rushden, David O'Doherty
 - 2026-05-12 — WDWDY #71: I could go on You Bet! — speakers: Max Rushden, David O'Doherty
