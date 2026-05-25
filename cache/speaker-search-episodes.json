@@ -16316,6 +16316,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:bb0962bc77f3",
+        "feed_title": "The Lovejoy Hour",
+        "source_rss_url": "https://audioboom.com/channels/5040401.rss",
+        "dedupe_key": "4474c8221e1f845a5d7e0dced495c77bf8425b21",
+        "episode_key": "4474c8221e1f845a5d7e0dced495c77bf8425b21",
+        "title": "Ep 194 - Alex Horne -15 questions to Alex Horne",
+        "published_at": "2020-12-13T17:17:42Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tim Lovejoy asks Alex Horne 15 questions about his life. This podcast is sponsored by Quooker.co.uk",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/7750587.mp3?modified=1607960593&sid=5040401&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-194-alex-horne-15-questions-to-alex-horne/id1196671475?i=1000502246517&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:bb2224026702",
         "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
         "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",
