@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-05-25T10:47:24+00:00`
-- checked_at: `2026-05-25T10:47:24+00:00`
-- last_modified: `Mon, 25 May 2026 09:00:00 GMT`
+- fetched_at: `2026-05-25T15:28:59+00:00`
+- checked_at: `2026-05-25T15:28:59+00:00`
+- last_modified: `Mon, 25 May 2026 12:48:52 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-25T10:47:24+00:00",
+  "fetched_at": "2026-05-25T15:28:59+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -29,7 +29,7 @@
   "episodes": [
     {
       "key": "a9fa10d257eb2433007418162e5d9ff0f89259e9",
-      "title": "Stop Chasing More. Start Embracing Your Limits.",
+      "title": "Best Of: Stop Chasing More. Start Embracing Your Limits.",
       "published_at": "2026-05-25T09:00:00+00:00",
       "link": null,
       "description": "In his mega-bestseller Four Thousand Weeks , Oliver Burkeman showed that the finitude of life “isn’t a reason for unremitting despair, or for living in an anxiety-fueled panic about making the most of your limited time. It’s a cause for relief.” In his follow-up book, Meditations for Mortals , he invites us to embrace what he calls “imperfectionism.” Accept your limitations, your finitude, your lack of control — because “the more we try to render the world controllable,” he warns, “the more it eludes us; and the more daily life loses … its resonance, its capacity to touch, move and absorb us.” This episode first aired on October 31, 2024, but it wasn’t Oliver’s first appearance on the show. Back in 2022, he sat down with our curator Malcolm Gladwell. You can find that conversation here . 💬 LINES WE LOVED: “Turning towards the limited situation in which we find ourselves is ultimately freeing, energizing, and conducive to meaningful productivity.” “Getting on top of all your to-dos is impossible because there's always a bigger space of things that we could do than things that we're going to be able to do.” “Everything is either a good time or a good story.” 🔗 SPONSORED BY: The Next Big Idea Club ➡️ Join today and we’ll send you a copy of David Epstein’s latest bestseller, Inside the Box. Use code PODCAST to save 20% at nextbigideaclub.com Incogni ➡️ Protect your personal information online and get an exclusive 60% off an annual plan at incogni.com/nbi Quince ➡️ Refresh your spring wardrobe and get free shipping and 365-day returns at quince.com/nbi Shopify ➡️ Launch your business for just $1/month. Start selling today at shopify.com/nbi",
@@ -7794,7 +7794,7 @@
 
 ## Episodes (newest first)
 
-- 2026-05-25 — Stop Chasing More. Start Embracing Your Limits. — speakers: Oliver Burkeman, Rufus Griscom, Caleb Bissinger
+- 2026-05-25 — Best Of: Stop Chasing More. Start Embracing Your Limits. — speakers: Oliver Burkeman, Rufus Griscom, Caleb Bissinger
 - 2026-05-21 — When Will AI Empty Your Dishwasher? (with Nicholas Thompson) — speakers: Nicholas Thompson, Rufus Griscom, Caleb Bissinger
 - 2026-05-18 — Best Of: An Epicurean Guide to the Good Life — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-05-14 — What if Uncertainty Isn’t Such a Bad Thing? — speakers: Simone Stolzoff, Rufus Griscom, Caleb Bissinger

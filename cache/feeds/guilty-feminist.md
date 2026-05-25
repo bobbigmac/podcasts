@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-05-23T14:02:23+00:00`
-- checked_at: `2026-05-23T14:02:23+00:00`
-- last_modified: `Sat, 23 May 2026 13:42:21 GMT`
+- fetched_at: `2026-05-25T15:28:59+00:00`
+- checked_at: `2026-05-25T15:28:59+00:00`
+- last_modified: `Mon, 25 May 2026 11:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-23T14:02:23+00:00",
+  "fetched_at": "2026-05-25T15:28:59+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,64 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "d543f832f87dd805a332ac3abdf69412b9c4dbc8",
+      "title": "484. Girls’ Rights Are Human Rights with Jessica Fostekew and special guests Claire Mahon and Julia Rowland - part two",
+      "published_at": "2026-05-25T11:30:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 484. Girls’ Rights Are Human Rights Presented by Deborah Frances-White and Jessica Fostekew with special guests Claire Mahon and Julia Rowland Recorded 14 May 2026 at the Museum of Comedy in London. Released 25 May. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Jessica Fostekew https://www.instagram.com/jessicafostekew https://www.plosive.co.uk/events/jessica-fostekew-iconic-breath-tour-2026 More about our guests https://plan-international.org/publications/strengthening-girls-rights-as-human-rights https://www.globalhumanrightsgroup.org https://www.instagram.com/cfmahon https://www.clairemahon.com For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Tracey Emin in Conversation . https://www.southbankcentre.co.uk/whats-on/the-guilty-feminist-tracey-emin-in-conversation/ Stonewall Open Space day . https://stonewall.typeform.com/to/yutQ5R5F Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/aceb40e6-56ab-11f1-ab1c-9f0c38c5c2ff/image/0f1ada830f9ccb21ff193245837c6669.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL1058748074.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3496",
+      "speakers": [
+        "Jessica Fostekew",
+        "Claire Mahon",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "girl",
+        "right",
+        "human",
+        "rights",
+        "jessica",
+        "fostekew",
+        "guest",
+        "claire",
+        "mahon",
+        "julia"
+      ]
+    },
+    {
+      "key": "7cd290f461f3235bd2f631c0d80cd3f2bd98787e",
+      "title": "484. Girls’ Rights Are Human Rights with Jessica Fostekew and special guests Claire Mahon and Julia Rowland - part one",
+      "published_at": "2026-05-25T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 484. Girls’ Rights Are Human Rights Presented by Deborah Frances-White and Jessica Fostekew with special guests Claire Mahon and Julia Rowland Recorded 14 May 2026 at the Museum of Comedy in London. Released 25 May. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Jessica Fostekew https://www.instagram.com/jessicafostekew https://www.plosive.co.uk/events/jessica-fostekew-iconic-breath-tour-2026 More about our guests https://plan-international.org/publications/strengthening-girls-rights-as-human-rights https://www.globalhumanrightsgroup.org https://www.instagram.com/cfmahon https://www.clairemahon.com For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Tracey Emin in Conversation . https://www.southbankcentre.co.uk/whats-on/the-guilty-feminist-tracey-emin-in-conversation/ Stonewall Open Space day . https://stonewall.typeform.com/to/yutQ5R5F Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ae224718-56a4-11f1-b6bf-835fead4d841/image/0f1ada830f9ccb21ff193245837c6669.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL7848682763.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2730",
+      "speakers": [
+        "Jessica Fostekew",
+        "Claire Mahon",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "girl",
+        "right",
+        "human",
+        "rights",
+        "jessica",
+        "fostekew",
+        "guest",
+        "claire",
+        "mahon",
+        "julia"
+      ]
+    },
     {
       "key": "faf24e0996ce523f12c562f0998265c9f556ab90",
       "title": "483. Bonus with Lucia Osborne-Crowley",
@@ -18012,6 +18070,8 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — 484. Girls’ Rights Are Human Rights with Jessica Fostekew and special guests Claire Mahon and Julia Rowland - part two — speakers: Jessica Fostekew, Claire Mahon, Deborah Frances-White
+- 2026-05-25 — 484. Girls’ Rights Are Human Rights with Jessica Fostekew and special guests Claire Mahon and Julia Rowland - part one — speakers: Jessica Fostekew, Claire Mahon, Deborah Frances-White
 - 2026-05-18 — 483. Bonus with Lucia Osborne-Crowley — speakers: Lucia Osborne-Crowley, Deborah Frances-White, Lucia Osborne-C
 - 2026-05-18 — 483. The Epstein Files with The Nerve featuring Ria Lina, Carole Cadwalladr, Lucia Osborne-Crowley, Dan Whitlam and GeeJay - part two — speakers: Carole Cadwalladr, Lucia Osborne-Crowley, Dan Whitlam, Deborah Frances-White
 - 2026-05-18 — 483. The Epstein Files with The Nerve featuring Ria Lina, Carole Cadwalladr, Lucia Osborne-Crowley, Dan Whitlam and GeeJay - part one — speakers: Carole Cadwalladr, Lucia Osborne-Crowley, Dan Whitlam, Deborah Frances-White
