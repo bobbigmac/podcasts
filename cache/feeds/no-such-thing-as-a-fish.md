@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-05-22T09:49:25+00:00`
-- checked_at: `2026-05-22T09:49:25+00:00`
-- etag: `W/"b818278ed2c1dd60a6324459b9350528"`
-- last_modified: `Fri, 22 May 2026 08:50:30 GMT`
+- fetched_at: `2026-05-25T04:50:57+00:00`
+- checked_at: `2026-05-25T04:50:57+00:00`
+- etag: `W/"77d88dac57faffaf4ad11f85397c72d6"`
+- last_modified: `Sun, 24 May 2026 22:59:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-05-22T09:49:25+00:00",
+  "fetched_at": "2026-05-25T04:50:57+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,28 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "24c7642177823351c936dda6bac3a7d349973fe2",
+      "title": "Little Fish: Swallowing A Fabergé Egg",
+      "published_at": "2026-05-24T22:59:00+00:00",
+      "link": "https://audioboom.com/posts/8906995",
+      "description": "Anna joins Dan and Andy for her first Little Fish, discussing your facts including liver eating and toucan heating. We learn why you might want to put your socks on if you see Dan crawling around on the beach. And we name eight more Friend of the Podcast fact custodians. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8906995.mp3?modified=1779472628&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1712",
+      "speakers": [
+        "Fabergé Egg Anna",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish"
+      ]
+    },
     {
       "key": "cc7d06fe328913c1196c5099db4b2e26fb17b712",
       "title": "No Such Thing As Uncle Egg",
@@ -16332,6 +16354,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-24 — Little Fish: Swallowing A Fabergé Egg — speakers: Fabergé Egg Anna, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-21 — No Such Thing As Uncle Egg — speakers: Anna Ptaszynski, Dan Schreiber, James Harkin, Andrew Hunter Murray
 - 2026-05-17 — Little Fish: Unencumbered By Any Knowledge — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-14 — No Such Thing As A Whale In Your Car — speakers: Manu Henriot, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

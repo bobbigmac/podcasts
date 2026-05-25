@@ -3,12 +3,10 @@
 - slug: `lip-service`
 - source: `https://archive.org/download/rss_lise/lise`
 - fetched_at: `2026-02-19T20:50:56+00:00`
-- checked_at: `2026-05-24T22:10:02+00:00`
+- checked_at: `2026-05-25T04:50:57+00:00`
 - etag: `"61d9cec7-18cb"`
 - last_modified: `Sat, 08 Jan 2022 17:49:59 GMT`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: `HTTP 500` — Internal Server Error
 
 <!-- FEED_JSON -->
 ```json
@@ -136,17 +134,7 @@
         "service"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-05-24T22:10:02+00:00",
-    "status": "error",
-    "checked_at": "2026-05-24T22:10:02+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": 500,
-      "message": "Internal Server Error"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->

@@ -2,9 +2,9 @@
 
 - slug: `out-with-suzi-ruffell`
 - source: `https://feeds.megaphone.fm/GLT9819213775`
-- fetched_at: `2026-05-22T20:10:11+00:00`
-- checked_at: `2026-05-22T20:10:11+00:00`
-- last_modified: `Fri, 22 May 2026 16:22:31 GMT`
+- fetched_at: `2026-05-25T04:50:57+00:00`
+- checked_at: `2026-05-25T04:50:57+00:00`
+- last_modified: `Sun, 24 May 2026 23:21:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.spreaker.com/show/out-with-suzi-ruffell",
   "description": "Attitude Presents: Out with Suzi Ruffell is a podcast that celebrates the LGBTQIA+ community through comedian and writer Suzi Ruffell's relaxed interviews of queer luminaries — from popstars to politicians, activists to artists. Tune in to hear Suzi and her guests talk about coming out, being out, finding your place in the world and sharing moments of queer joy. Brought to you by Attitude magazine and Off The Kerb Productions. Host: Suzi Ruffell · Podcast producer: Alma Fournier-Carballo · Booking producer: Dale Fox · Post producer: Markus Bidaux",
   "image_url": "https://megaphone.imgix.net/podcasts/1af2f5a0-1a7b-11ed-a410-0fc86e797d6c/image/cfca99fb5f4ff7128b2a90e4fea85f54.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T20:10:11+00:00",
+  "fetched_at": "2026-05-25T04:50:57+00:00",
   "owners": [
     "Suzi Ruffell"
   ],
@@ -27,6 +27,26 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "2d3f1f1e531c7c2cda3e2a97ee610ab1f3597926",
+      "title": "Monday Minis Ep4",
+      "published_at": "2026-05-24T23:00:00+00:00",
+      "link": null,
+      "description": "For long-time followers of the podcast, you'll know that the listeners' emails segment was a huge part of Out and its community. With the new visualised format, we didn't want to leave it behind, so l'll be sharing my favourite emails from you, the listeners, in these stand-alone mini episodes every week. The Out episode Shay refers to in his letter is S1 Ep8: Jude Guaitamacchi. Enjoy the episode and if you'd like to share your own story, send it to me on hello@outwithsuziruffell.com x My book ‘Am I Having Fun Now?’ is out in paperback on 28th May, pre-order it here: https://www.waterstones.com/book/am-i-having-fun-now/suzi-ruffell/9781035036905 I’m on tour! Details and tickets here: https://suziruffell.com/tour/ Host: Suzi Ruffell Brought to you by Attitude magazine and Off The Kerb Productions Podcast producer: Alma Fournier-Carballo Booking producer: Dale Fox Post producer: Markus Bidaux Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR3461280443.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "619",
+      "speakers": [
+        "Monday Minis",
+        "Suzi Ruffell"
+      ],
+      "topics": [
+        "monday",
+        "mini"
+      ]
+    },
     {
       "key": "ceba86299514b338bb0737d891cf43f784c0c021",
       "title": "2026 S1 Ep5: Phil Dunning",
@@ -2482,6 +2502,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-24 — Monday Minis Ep4 — speakers: Monday Minis, Suzi Ruffell
 - 2026-05-21 — 2026 S1 Ep5: Phil Dunning — speakers: Phil Dunning, Suzi Ruffell
 - 2026-05-17 — Monday Minis Ep3 — speakers: Monday Minis, Suzi Ruffell
 - 2026-05-14 — 2026 S1 Ep4: Bradley Riches — speakers: Bradley Riches, Suzi Ruffell

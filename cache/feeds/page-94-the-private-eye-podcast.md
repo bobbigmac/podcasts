@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-05-19T15:48:21+00:00`
-- checked_at: `2026-05-19T15:48:21+00:00`
-- etag: `W/"b7f8c07f7f739d1e2755e561bc80bda2"`
-- last_modified: `Tue, 19 May 2026 15:43:20 GMT`
+- fetched_at: `2026-05-25T04:50:57+00:00`
+- checked_at: `2026-05-25T04:50:57+00:00`
+- etag: `W/"59bf7e19876131ce51aee5ff6b517423"`
+- last_modified: `Mon, 25 May 2026 00:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-05-19T15:48:21+00:00",
+  "fetched_at": "2026-05-25T04:50:57+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,28 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "aa097112a886a8be05ef77db070d9617814fb260",
+      "title": "175: PAUL FOOT 2026: CUTTING CORNERS",
+      "published_at": "2026-05-25T00:30:00+00:00",
+      "link": "https://audioboom.com/posts/8906916",
+      "description": "Joe Duggan of the i paper tells the story of the workers falling ill and dying with silicosis after cutting fashionable kitchen counters without adequate protection. Part of Private Eye's Paul Foot Award 2026 shortlist series.",
+      "image_url": "https://audioboom.com/i/43659582/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8906916.mp3?modified=1779464278&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "806",
+      "speakers": [
+        "Joe Duggan",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "paul",
+        "foot",
+        "corner"
+      ]
+    },
     {
       "key": "365e16731ecebcaf25e9de97fc28a7637bee6358",
       "title": "174: Burnham Would, Wesley Snipes",
@@ -3718,6 +3740,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — 175: PAUL FOOT 2026: CUTTING CORNERS — speakers: Joe Duggan, Andrew Hunter Murray, Ian Hislop
 - 2026-05-19 — 174: Burnham Would, Wesley Snipes — speakers: Wesley Snipes, Saba Salman, Andrew Hunter Murray, Ian Hislop
 - 2026-05-06 — 173: The Antisemitism Spectrum — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-04-21 — 172: A Kicking For Keir — speakers: Rotten Boroughs, Saba Salman, Andrew Hunter Murray, Ian Hislop

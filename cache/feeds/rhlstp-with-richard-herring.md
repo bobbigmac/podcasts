@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-24T22:10:02+00:00`
-- checked_at: `2026-05-24T22:10:02+00:00`
-- etag: `"djEuMi4wOjE3Nzk2NTM4OTc1NTI="`
+- fetched_at: `2026-05-25T04:50:57+00:00`
+- checked_at: `2026-05-25T04:50:57+00:00`
+- etag: `"djEuMi4wOjE3Nzk2Nzc4NTk0MDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-24T22:10:02+00:00",
+  "fetched_at": "2026-05-25T04:50:57+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "885bf301dc3ac2a95064938b9b4521b4c9004d98",
+      "title": "Tim Key (Retro) - \"The Imp from Impington\"",
+      "published_at": "2026-05-25T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#430 The Imp from Impington - Rich has a problem with his daughter’s favourite song, and shows that he is up to date with all the music playing at the discos nowadays. His guest is the irrepressible timkey, back for a third time in 18 months!. They talk about Tim’s time as a white van man, a woman who survived eight days in a snow drift (for a bit), the places that Tim is and isn’t going for his (basically sold out) tour https://www.plosive.co.uk/events/tim-key-mulberry-tour-2023 , where he gets his crazy ideas, the incredible baguette deal in Pret, which comedian would make the best Prime Minister, being the answer to a question of University Challenge and what it’s like to do a gig to a mainly Malaysian audience. There’s a new and exciting instalment of the adventures of timkey the monkey and the pair compare cancers and then Rich asks the occasionally dynamite question, “What’s it like being Tim Key?” Who can be sure. All I know is it’s always a rollercoaster of fun and danger to be in his company! Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1779653148073-dfeba3c8-dcf4-4f4f-9a18-777f045b7aca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a135a26294da705c330b1cb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33908913",
+      "itunes_duration": "1:06:53",
+      "speakers": [
+        "Tim Key",
+        "Richard Herring"
+      ],
+      "topics": [
+        "retro",
+        "impington"
+      ]
+    },
     {
       "key": "9aa03c7f091f21d6d1153ab9481c23571f8dabb5",
       "title": "Rich and Ally's Craven Newsround Compilation 17",
@@ -22520,6 +22540,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — Tim Key (Retro) - "The Imp from Impington" — speakers: Tim Key, Richard Herring
 - 2026-05-23 — Rich and Ally's Craven Newsround Compilation 17 — speakers: Scott Baio, Richard Herring
 - 2026-05-22 — Brian Bilston on How to Lay an Egg with a Horse Inside - Book Club — speakers: Brian Bilston, Richard Herring
 - 2026-05-20 — Jameela Jamil - "Cake in a Graveyard" — speakers: Jameela Jamil Cake, Richard Herring

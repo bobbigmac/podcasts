@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-05-24T19:39:57+00:00`
-- checked_at: `2026-05-24T19:39:57+00:00`
-- etag: `"djEuMi4wOjE3Nzk2Mzk5NTg5ODk="`
+- fetched_at: `2026-05-25T04:50:57+00:00`
+- checked_at: `2026-05-25T04:50:57+00:00`
+- etag: `"djEuMi4wOjE3Nzk2NjM3NTk0MjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-05-24T19:39:57+00:00",
+  "fetched_at": "2026-05-25T04:50:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "044c91b6a57c0cd9fb117a4bac19710d7a760885",
+      "title": "Ep. 586 - Tom Bailey - Theatremaker & Arctic Expeditioner. Recorded from The Arctic Wilderness",
+      "published_at": "2026-05-24T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-586-tom-bailey-theatremaker-arctic-expeditioner-recorded",
+      "description": "Tom Bailey is a Bristol-based theatremaker and artist, and creative director of Herald Angel award-winning company MECHANIMAL, whose work — described by New Scientist as \"extraordinary… moving and enlightening\" — has toured to over 15 countries and explores humanity's relationship to a changing planet. We caught up with Tom from a remote shack in northern Norway, where he is currently midway through *Threshold – A Wild New Border Journey*: a 600km ultra-slow expedition by ski, sled, foot and boat across the Arctic borderlands of Norway, Finland and Sweden. Beginning on 10 March 2026 at Barents Spektakel, the two-month journey travels westwards through the Russia–Finland–Norway border region before concluding at Stamsund International Theatre Festival in the Lofoten Islands in May 2026. Along the way, Tom is meeting local communities, artists and researchers to document the lived realities of life in a fast-changing Arctic — with a new performance piece set to premiere in 2027. Threshold builds on a body of work that has consistently used endurance and landscape as artistic material. In 2024 Tom walked 1,000 kilometres solo as a tribute to lost species, research that fed directly into *Wild Thing!* — his most recent Edinburgh Fringe production, in which he attempts to embody 48,000 endangered species. Supported by Arts Council England, Arts Council Norway and the Danish Arts Foundation, his practice remains one of the most distinctive and committed voices in ecological theatre. Tom Bailey is our guest in episode 586 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . To find out more about Tom’s theatre visit - https://mechanimal.co.uk . Follow Tom Bailey’s theatre company on Instagram : @_mechanimal_ . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a1326969feea1b67ef38cac/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63302969",
+      "itunes_duration": "52:44",
+      "speakers": [
+        "Arctic Expeditioner",
+        "Tom Bailey",
+        "Herald Angel"
+      ],
+      "topics": [
+        "bailey",
+        "theatremaker",
+        "arctic",
+        "expeditioner",
+        "wilderness"
+      ]
+    },
     {
       "key": "0978745c89bbae64fce648d9ccb075c702b13a19",
       "title": "My Time Capsule The Dig - Ep. 3 - With Josh Bolt (from George Clooney's Catch-22 & Tom Hanks' Masters of the Air)",
@@ -12633,6 +12657,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-24 — Ep. 586 - Tom Bailey - Theatremaker & Arctic Expeditioner. Recorded from The Arctic Wilderness — speakers: Arctic Expeditioner, Tom Bailey, Herald Angel
 - 2026-05-21 — My Time Capsule The Dig - Ep. 3 - With Josh Bolt (from George Clooney's Catch-22 & Tom Hanks' Masters of the Air) — speakers: George Clooney, Tom Hanks Masters
 - 2026-05-17 — Ep. 585 - Bryony Kimmings - Writer and performer who co-wrote the film Last Christmas with Emma Thompson — speakers: Emma Thompson, Bryony Kimmings
 - 2026-05-14 — My Time Capsule The Dig - Ep. 2 - With Steve Edge (Phoenix Nights, Benidorm, The Jason Manford Show) — speakers: Steve Edge, Manford Show

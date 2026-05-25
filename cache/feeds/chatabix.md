@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-23T10:43:28+00:00`
-- checked_at: `2026-05-23T10:43:28+00:00`
-- etag: `"djEuMi4wOjE3Nzk1MTkyMjM0NzI="`
+- fetched_at: `2026-05-25T04:50:57+00:00`
+- checked_at: `2026-05-25T04:50:57+00:00`
+- etag: `"djEuMi4wOjE3Nzk2NzQ0Mzk2NDU="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-05-23T10:43:28+00:00",
+  "fetched_at": "2026-05-25T04:50:57+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "06f96ab689f2517ec26bccc3048c35c8019782f4",
+      "title": "S15 Ep 846 Vault Mondays: Taking A Pee and A Chat With Jaackmaate",
+      "published_at": "2026-05-25T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-846-vault-mondays-taking-a-pee-and-a-chat-with-jaackm",
+      "description": "In this weeks archive show, we chat to YouTube and podcasting legend Jaackmaate - and what a nice man he is too First posted on 22 December 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a114d099feea1b67e9f61af/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84682688",
+      "itunes_duration": "35:17",
+      "speakers": [
+        "legend Jaackmaate",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "chat",
+        "jaackmaate"
+      ]
+    },
     {
       "key": "c6a2e75d264393c189373879ecfb0610763b6006",
       "title": "S15 Ep 845 Listeners Mailbag: Spice Girls and Golden Moments",
@@ -15025,6 +15048,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — S15 Ep 846 Vault Mondays: Taking A Pee and A Chat With Jaackmaate — speakers: legend Jaackmaate, Joe Wilkinson, David Earl
 - 2026-05-22 — S15 Ep 845 Listeners Mailbag: Spice Girls and Golden Moments — speakers: Joe Wilkinson, David Earl
 - 2026-05-21 — S15 Ep 844: Toby’s Trousers - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2026-05-20 — S15 Ep 843: Toby’s Trousers - Part 1 — speakers: Joe Wilkinson, David Earl

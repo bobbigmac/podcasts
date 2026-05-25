@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-05-22T20:10:11+00:00`
-- checked_at: `2026-05-22T20:10:11+00:00`
-- last_modified: `Fri, 22 May 2026 17:34:47 GMT`
+- fetched_at: `2026-05-25T04:50:57+00:00`
+- checked_at: `2026-05-25T04:50:57+00:00`
+- last_modified: `Sun, 24 May 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T20:10:11+00:00",
+  "fetched_at": "2026-05-25T04:50:57+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "5c157a3232b8e4689ad3ed288204af0d400bd073",
+      "title": "Aziz Ansari on Parks and Rec, Master of None & Living in London",
+      "published_at": "2026-05-24T23:01:00+00:00",
+      "link": null,
+      "description": "What happens when one of the world’s biggest comedians swaps Hollywood for a flip phone and a quieter life? Comedian, writer, actor and director Aziz Ansari joins Romesh Ranganathan for a wide-ranging conversation about stand-up, identity, culture, creativity and getting older. From selling out Madison Square Garden to creating one of the most renowned Netflix comedy-dramas, Master of None, Aziz reflects on the pressure of chasing great work. He discusses his career from starting in stand-up, to Parks And Recreation, to directing his new film Good Fortune starring Keanu Reeves and Seth Rogen, looking at how the comedy scene has changed over time. The pair also discuss growing up in immigrant families, blending cultures, working with parents and all-things UK, from settling in to football culture. Plus Aziz's passion for cooking and cookbooks. As always expect an unhinged questions from Shanthi and a good game of Misquoted finish. A Ranga Bee Production in partnership with Platform. 00:00 Intro 03:39 Have Aziz and Rom met? 04:05 Tamil and blending cultures 12:38 On age 13:38 A gift for Aziz 15:49 Can Aziz handle hot sauce? 17:20 Moving to the UK 18:05 Football 19:22 On Master of None 25:55 Parents and support 31:34 Working with parents 34:09 A question from Shanthi 36:10 Selling out Madison Square Garden 37:00 Finding creative balance 39:22 Stand up in New York 43:56 How has Aziz’s standup changed? 50:50 On Parks And Recreation 57:10 How hard is it to make a movie? 1:01:57 Chasing your best work 1:03:42 Misquoted 1:12:30 An exclusive 1:15:25 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4cba86a2-55ff-11f1-970b-8f65dbf76d90/image/91b75b473075de223cc8701418fd9933.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2267776282.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4767",
+      "speakers": [
+        "Aziz Ansari",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "aziz",
+        "ansari",
+        "parks",
+        "master",
+        "living",
+        "london"
+      ]
+    },
     {
       "key": "5ecf6fe11ae3bab32951dda1b7503159838e37a0",
       "title": "We FINALLY Read Your Emails!",
@@ -1611,6 +1635,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-24 — Aziz Ansari on Parks and Rec, Master of None & Living in London — speakers: Aziz Ansari, Romesh Ranganathan
 - 2026-05-20 — We FINALLY Read Your Emails! — speakers: Email Special, Romesh Ranganathan
 - 2026-05-17 — Ben Elton on Blackadder, Mr Bean & Writing TV Classics — speakers: Ben Elton, Romesh Ranganathan
 - 2026-05-13 — We Accidentally Ignored 632 Emails… — speakers: Romesh Ranganathan

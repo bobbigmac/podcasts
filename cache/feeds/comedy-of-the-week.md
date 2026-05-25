@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-05-19T10:07:04+00:00`
-- checked_at: `2026-05-19T10:07:04+00:00`
-- etag: `"37b774de418580aba21f545ddb1d70ed"`
-- last_modified: `Tue, 19 May 2026 05:00:07 GMT`
+- fetched_at: `2026-05-25T04:50:57+00:00`
+- checked_at: `2026-05-25T04:50:57+00:00`
+- etag: `"7922214e36df4c58938274254d24e1f7"`
+- last_modified: `Mon, 25 May 2026 04:00:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-05-19T10:07:04+00:00",
+  "fetched_at": "2026-05-25T04:50:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "926dd199fb329bab9e28b4c283184e18fac787f1",
+      "title": "Hajj & Seek",
+      "published_at": "2026-05-25T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nlxhsr",
+      "description": "A spiritual journey like no other… just with more chaos, queueing, and a missing pair of sandals. Blending storytelling, stand-up and documentary, comedian Ali Shahalom (aka Ali Official) takes us on a deeply personal comic journey through one of the most important acts of worship in Islam: Hajj. What begins as a sacred pilgrimage becomes a test of patience, endurance, and broadband speed. From battling the notoriously stressful Nusuk booking system (“depression you pay for”) to convincing his entire family to commit to the trip, Ali charts every step of the journey with warmth, honesty and razor-sharp humour. There are frozen bank accounts, passport panics, and a £40,000 leap of faith - and that's all before he’s even left the UK. Written and performed by Ali Shahalom Script editor - Laura Major Sound design - Andy Goddard Producer - Victoria Lloyd A Mighty Bunny Production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nlxf6c.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27472000",
+      "itunes_duration": "1717",
+      "speakers": [
+        "Hajj Seek"
+      ],
+      "topics": [
+        "hajj",
+        "seek"
+      ]
+    },
     {
       "key": "d05c14160c031ae9fc4d8ba366fcbe43b1dcf4dc",
       "title": "The Skewer: Hard Labour",
@@ -977,6 +996,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — Hajj & Seek — speakers: Hajj Seek
 - 2026-05-18 — The Skewer: Hard Labour — speakers: Jon Holmes
 - 2026-05-11 — Emer Maguire: Patron Saint of Bad Luck — speakers: Emer Maguire, Patron Saint
 - 2026-05-04 — Geoff Norcott's Working Men's Club — speakers: Geoff Norcott, Gary Neville

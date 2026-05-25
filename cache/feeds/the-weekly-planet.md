@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-05-23T04:07:17+00:00`
-- checked_at: `2026-05-23T04:07:17+00:00`
-- etag: `"djEuMi4wOjE3Nzk1MDg2NTU2MDA="`
+- fetched_at: `2026-05-25T04:50:57+00:00`
+- checked_at: `2026-05-25T04:50:57+00:00`
+- etag: `"djEuMi4wOjE3Nzk2ODM0MzkzMDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-05-23T04:07:17+00:00",
+  "fetched_at": "2026-05-25T04:50:57+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ed016bd82d8189d2d434a34fe81e56687c6962e0",
+      "title": "624 The Mandalorian vs Groglet & The Boys Series Finale",
+      "published_at": "2026-05-25T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/624-the-mandalorian-vs-groglet-the-boys-series-finale",
+      "description": "Incredible week for both big movie and big tv show! That’s right, both The Mandalorian VS. Groglet and The Boys Season 5 finale have arrived to varying degrees of audience apathy. We review that plus talk the news of the week covering Peter Jackson potentially returning to Middle Earth to direct The Silmarillion, The Godfather gets a fourth movie, a new trailer for Lanterns and more! Thanks for listening! New bonus Booque Clubbe podcast ep and video for Spider-Man: Life Story! Available to watch and listen now on bigsandwich.co and patreon.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 03:19 The Silmarillion LOTR Movie 09:12 New Godfather Spin-off Movie 20:54 Avatar TLA Season 2 Trailer 21:26 New DC Lanterns Trailer 31:43 The Mandalorian vs Groglet Movie Review 52:25 The Mandalorian vs Groglet Spoiler Segment 01:04:50 The Boys Finale Full Spoiler Review 01:29:20 What We Reading, Obsession Review 01:35:25 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a106cc242bb55037b4be218/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "165152004",
+      "itunes_duration": "1:54:41",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "mandalorian",
+        "groglet",
+        "boys",
+        "series",
+        "finale"
+      ]
+    },
     {
       "key": "71152048cede7d19008e4efc8213a0ff14e40105",
       "title": "Demolition Man - Caravan Of Garbage",
@@ -22346,6 +22369,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — 624 The Mandalorian vs Groglet & The Boys Series Finale — speakers: James Clement, Nick Mason
 - 2026-05-21 — Demolition Man - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-05-18 — 623 The Punisher: One Last Kill — speakers: Weekly Planet, Special Pre, James Clement, Nick Mason
 - 2026-05-14 — Total Recall - Caravan Of Garbage — speakers: Total Recall, James Clement, Nick Mason

@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-05-24T10:50:31+00:00`
-- checked_at: `2026-05-24T10:50:31+00:00`
-- last_modified: `Sun, 24 May 2026 09:01:44 GMT`
+- fetched_at: `2026-05-25T04:50:57+00:00`
+- checked_at: `2026-05-25T04:50:57+00:00`
+- last_modified: `Sun, 24 May 2026 23:19:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-24T10:50:31+00:00",
+  "fetched_at": "2026-05-25T04:50:57+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,34 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7948a4217836cc7f82462183214cfc131d17a93d",
+      "title": "JAKE LAMBERT: Slough To Social Media Stardom & Ricky Gervais Inspiration",
+      "published_at": "2026-05-24T23:00:00+00:00",
+      "link": null,
+      "description": "Jake Lambert is a social media comedy superstar, who has featured on all our timelines with his sharp and satirical observations on everyday life. In this episode we talk about growing up in Slough with a childhood filled with eccentric characters, how his mum encouraged him to be exceed his surroundings, the influence of Ricky Gervais and how he very nearly became a policeman instead of pursuing his now wildly successful career in comedy. See Seann Walsh LIVE on his This Is Torture! tour Learn more about your ad choices. Visit megaphone.fm/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8186772606.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4168",
+      "speakers": [
+        "Jake Lambert",
+        "comedy superstar",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "jake",
+        "lambert",
+        "slough",
+        "social",
+        "media",
+        "stardom",
+        "ricky",
+        "gervais",
+        "inspiration"
+      ]
+    },
     {
       "key": "85fb59f99880f94abe51c0133d83ed1e96980a30",
       "title": "FATIHA EL-GHORRI: Working 9-5 AND gigging 6 nights a week",
@@ -1443,6 +1471,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-24 — JAKE LAMBERT: Slough To Social Media Stardom & Ricky Gervais Inspiration — speakers: Jake Lambert, comedy superstar, Seann Walsh
 - 2026-05-18 — FATIHA EL-GHORRI: Working 9-5 AND gigging 6 nights a week — speakers: Fatiha El-Ghorri, Seann Walsh
 - 2026-05-10 — FATIHA EL-GHORRI: From Homelessness & Two Divorces To Living Her Comedy Dream — speakers: Fatiha El-Ghorri, Seann Walsh
 - 2026-05-03 — HARRY HILL: The Benefits Of Failing & Going To School In Hong Kong — speakers: Harry Hill, Seann Walsh
