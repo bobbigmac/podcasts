@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-05-23T16:12:46+00:00`
-- checked_at: `2026-05-23T16:12:46+00:00`
-- last_modified: `Fri, 22 May 2026 15:21:49 GMT`
+- fetched_at: `2026-05-25T10:47:24+00:00`
+- checked_at: `2026-05-25T10:47:24+00:00`
+- last_modified: `Mon, 25 May 2026 06:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-05-23T16:12:46+00:00",
+  "fetched_at": "2026-05-25T10:47:24+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "171dbd46f4d30a2a52f321365cbbb83d70c69a53",
+      "title": "Encino Woman",
+      "published_at": "2026-05-25T06:30:00+00:00",
+      "link": null,
+      "description": "Remember Encino Man? The 1992 comedy movie about a caveman who gets thawed out and must adjust to life in the 20th century? Well, our advice would be to cling to that relatively positive memory like your life depended on it, because the straight-to-TV sequel Encino Woman (1996) is quite possibly the worst film we've ever seen. When unsuccessful ad executive David Hosenfelt is attacked in his home by a roaming cavewoman, he finds his luck turns as 'Lucy' becomes the face of a lucrative fashion campaign for a fragrance called Primal. Sounds like a reasonable premise for a movie, right? Listener, you are unfortunately mistaken. Grit your teeth as we recap a movie that was, remarkably, never re-broadcast or released on any home media. Although that fact gets less remarkable the longer you watch. If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched Encino Woman and have your own thoughts, email them to us at momcantcookpod@gmail.com for a chance to have them read out on the show. Next time on Mom Can't Cook! we'll be watching 2012's Radio Rebel. See you then! This episode is sponsored by NordVPN! Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ https://nordvpn.com/momcantcook . Itʼs risk free with NordVPNʼs 30-day money-back guarantee! This episode is also sponsored by Saily. Get an exclusive 15% discount on Saily data plans! Use code momcantcook at checkout. Download Saily app or go to saily.com/momcantcook Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/rss.art19.com/episodes/3d5f42d9-190c-4031-8614-7a67ae0f6594.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "131809697",
+      "itunes_duration": "02:17:18",
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
+      "topics": [
+        "encino",
+        "woman"
+      ]
+    },
     {
       "key": "95e5e4aa3b097ab326b7492144311122c4da4b1c",
       "title": "Zapped",
@@ -2105,6 +2125,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — Encino Woman — speakers: Luke Westaway, Andy Farrant
 - 2026-05-11 — Zapped — speakers: Luke Westaway, Andy Farrant
 - 2026-04-27 — Congo — speakers: Luke Westaway, Andy Farrant
 - 2026-04-13 — Mail to the Chief — speakers: Kenny Witkowski, Mortal Karnage, Luke Westaway, Andy Farrant

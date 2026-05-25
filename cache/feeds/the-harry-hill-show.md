@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-05-22T20:10:11+00:00`
-- checked_at: `2026-05-22T20:10:11+00:00`
-- last_modified: `Fri, 22 May 2026 17:16:00 GMT`
+- fetched_at: `2026-05-25T10:47:24+00:00`
+- checked_at: `2026-05-25T10:47:24+00:00`
+- last_modified: `Mon, 25 May 2026 05:07:52 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T20:10:11+00:00",
+  "fetched_at": "2026-05-25T10:47:24+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -26,6 +26,34 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8b63a7417ae7005f2ad5d76c7a867d9f45903405",
+      "title": "Adam Hills: Nick Cave, Evil Swans, and Training My Bladder for the Coronation",
+      "published_at": "2026-05-25T05:00:00+00:00",
+      "link": null,
+      "description": "Adam Hills, the biggest comedian to come out of the home of the Sydney Tramway Museum joins Harry to talk about everything from surviving a five-hour bladder-testing royal ceremony to why AI comedy routines are getting a little *too* good for comfort.We also take a deep, chaotic dive into British history with archaeologist Dr. Erin Lloyd-Jones to uncover the truth about William Wallace. Did he actually wear a kilt? Did he paint his face blue like Mel Gibson? And what exactly is a \"sticky end\"? (Warning: it involves a lot of tar ). Plus, introducing yet ANOTHER new game, \"What is the Velcro Singing?\" and check in with Gary's Joke Corner. \"Adam Hills\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on Adam Hills. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e2cc8c14-542c-11f1-8419-cb15dba56953/image/0bb92ac43d0316ffe08feaec51b211ad.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4303912594.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3622",
+      "speakers": [
+        "Adam Hills",
+        "Nick Cave",
+        "Evil Swans",
+        "Harry Hill"
+      ],
+      "topics": [
+        "adam",
+        "hills",
+        "nick",
+        "cave",
+        "swans",
+        "training",
+        "bladder",
+        "coronation"
+      ]
+    },
     {
       "key": "743bfd6f60cd8e652078c74c1c037e6c3731c890",
       "title": "Henning Wehn: In Germany people laugh once the work is done. Not instead of doing any work.",
@@ -1717,6 +1745,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — Adam Hills: Nick Cave, Evil Swans, and Training My Bladder for the Coronation — speakers: Adam Hills, Nick Cave, Evil Swans, Harry Hill
 - 2026-05-18 — Henning Wehn: In Germany people laugh once the work is done. Not instead of doing any work. — speakers: Henning Wehn, Harry zu Gast, Harry Hill
 - 2026-05-11 — Joe Lycett: There are a few AI slop accounts now that really grip me... — speakers: Joe Lycett, Mummy Joe Lycett, Harry Hill
 - 2026-04-20 — The Best of The Harry Hill Show Season 1! — speakers: Harry Hill

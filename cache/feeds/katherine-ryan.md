@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-05-19T15:48:21+00:00`
-- checked_at: `2026-05-19T15:48:21+00:00`
-- etag: `"djEuMi4wOjE3NzkxODg3NjkzODc="`
+- fetched_at: `2026-05-25T10:47:24+00:00`
+- checked_at: `2026-05-25T10:47:24+00:00`
+- etag: `"djEuMi4wOjE3Nzk2OTc3MzYzNTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-05-19T15:48:21+00:00",
+  "fetched_at": "2026-05-25T10:47:24+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "21c74ece8f7ddd777a0ef01f98d2443526732a8e",
+      "title": "Am I An Instrument Of The Far Right?",
+      "published_at": "2026-05-25T08:28:56+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/am-i-an-instrument-of-the-far-right",
+      "description": "This week, Katherine's Telling Everybody Everything about how like a sports injury, a breastfeeding event can knock you sideways and end your milking career. Also, a school parent tweets something WILD about a child at the school and I guess everyone is just.... okay with it? Mummy's in danger of KARENING about it and embarrassing the family. Should we beg Erica Komisar to appear on the podcast or have we got feminist problems with her attachment theory? Jon Richardson can do better cartwheels than Katherine because she's starting to die. Also, comedian Andrew Johnston brings news from Hollywood like - Hayden Pannetiere's memoir is spicy and details her relationship with her daughter (who lives with her giant ex), Shakira has a big tax win over the Spanish government, and an update on Katie Price's missing husband. Plus, your letters about being a reality star and washing the shitty towels of a 67 year old man. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1779697195487-79d7a9dc-90c9-4d58-b10e-913554190165.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a140848cb11d38a8b3ec1a4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79896786",
+      "itunes_duration": "55:28",
+      "speakers": [
+        "Far Right",
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "instrument",
+        "right"
+      ]
+    },
     {
       "key": "fc81544303f0e385eb26c378e33ccf2e7d5a4122",
       "title": "Lee Andrews is in My Basement",
@@ -6171,6 +6192,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — Am I An Instrument Of The Far Right? — speakers: Far Right, Telling Everybody Everything, Katherine Ryan
 - 2026-05-19 — Lee Andrews is in My Basement — speakers: Lee Andrews, Katie Pri, Katherine Ryan
 - 2026-05-11 — Locked WhatsApp Messages — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-05-05 — Violet's First Car — speakers: Telling Everybody Everything, Katherine Ryan
