@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-22T20:10:11+00:00`
-- checked_at: `2026-05-22T20:10:11+00:00`
-- last_modified: `Fri, 22 May 2026 16:59:01 GMT`
+- fetched_at: `2026-05-26T04:34:08+00:00`
+- checked_at: `2026-05-26T04:34:08+00:00`
+- last_modified: `Mon, 25 May 2026 23:10:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T20:10:11+00:00",
+  "fetched_at": "2026-05-26T04:34:08+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "25ebf4a23078e8f13ffb5b78b565ac3543e40989",
+      "title": "Timothée Chalamet, Ewoks and How To Interview",
+      "published_at": "2026-05-25T23:01:00+00:00",
+      "link": null,
+      "description": "What pictures did Tom send to Timothée Chalamet? How can Romesh improve his interview technique? And why does Tom dislike Ewoks? Plus, impressions of Justin Timberlake and Ricky Martin and we debate just how good rhubarb is. Send your thoughts on rhubarb and anything else that’s on your mind to wolfowlpod@gmail.com A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 - Intro 00:55 - Rick and Morty and TV intros 03:30 - Ewoks 04:03 - Kids films? 07:06 - The issue 08:09 - Texting Timothee Chalamet 20:30 - Jill Scott and Jill Scott 28:01 - Compliments 28:29 - Interviewing techniques 29:20 - Justin Timberlake 45:56 - Giggling fits 47:02 - Rhubarb 49:16 - Martin the dog Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2487a332-55e5-11f1-ad9c-57069632c8e3/image/165e6a70ac2d518e81412f30229bcc82.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1788623199.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3256",
+      "speakers": [
+        "Timothée Chalamet",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "chalamet",
+        "ewok"
+      ]
+    },
     {
       "key": "dbe7e6115e0cab94621a5a8e7ad260302e521717",
       "title": "Weddings, Food Vans and King Prawn Purée",
@@ -6711,6 +6732,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — Timothée Chalamet, Ewoks and How To Interview — speakers: Timothée Chalamet, Romesh Ranganathan, Tom Davis
 - 2026-05-21 — Weddings, Food Vans and King Prawn Purée — speakers: David Haye, Romesh Ranganathan, Tom Davis
 - 2026-05-18 — Tyson Fury, Arsenal Merch and Awkward Interactions — speakers: Tyson Fury, Arsenal Merch, Awkward Interactions Do, Romesh Ranganathan, Tom Davis
 - 2026-05-14 — Korean Skincare, Smoothie Makers and Bad Gifts — speakers: Smoothie Makers, Bad Gifts, Romesh Ranganathan, Tom Davis

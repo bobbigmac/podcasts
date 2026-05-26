@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-25T04:50:57+00:00`
-- checked_at: `2026-05-25T04:50:57+00:00`
-- etag: `"djEuMi4wOjE3Nzk2NzQ0Mzk2NDU="`
+- fetched_at: `2026-05-26T04:34:08+00:00`
+- checked_at: `2026-05-26T04:34:08+00:00`
+- etag: `"djEuMi4wOjE3Nzk3NjA4Mzk1MDI="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-05-25T04:50:57+00:00",
+  "fetched_at": "2026-05-26T04:34:08+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,27 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "7e9257c8f4b344042545491e2a17e3b19641877d",
+      "title": "S15 Ep 845: Plodding Podding and Coffee Wagons",
+      "published_at": "2026-05-26T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-845-plodding-podding-and-coffee-wagons",
+      "description": "Apologies in advance as this one was a bit of a slog, to say the least! David and Joe were feeling very uninspired and really struggled with things to talk about. But they still managed to come up with an hour of chatting - on subjects including toxic incompetence, the Fawlty Towers Dining Experience, owning a coffee wagon, podding from listeners houses, David at Plumpton College, the wonderful Adam Buxton, Comedy Shuffle and the Golden Lobe awards. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a114d9080978431da2b3b9e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "140802368",
+      "itunes_duration": "58:40",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "podding",
+        "coffee",
+        "wagons"
+      ]
+    },
     {
       "key": "06f96ab689f2517ec26bccc3048c35c8019782f4",
       "title": "S15 Ep 846 Vault Mondays: Taking A Pee and A Chat With Jaackmaate",
@@ -15048,6 +15069,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-26 — S15 Ep 845: Plodding Podding and Coffee Wagons — speakers: Joe Wilkinson, David Earl
 - 2026-05-25 — S15 Ep 846 Vault Mondays: Taking A Pee and A Chat With Jaackmaate — speakers: legend Jaackmaate, Joe Wilkinson, David Earl
 - 2026-05-22 — S15 Ep 845 Listeners Mailbag: Spice Girls and Golden Moments — speakers: Joe Wilkinson, David Earl
 - 2026-05-21 — S15 Ep 844: Toby’s Trousers - Part 2 — speakers: Joe Wilkinson, David Earl

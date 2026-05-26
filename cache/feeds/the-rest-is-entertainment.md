@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-05-25T22:17:08+00:00`
-- checked_at: `2026-05-25T22:17:08+00:00`
-- last_modified: `Mon, 25 May 2026 22:11:25 GMT`
+- fetched_at: `2026-05-26T04:34:08+00:00`
+- checked_at: `2026-05-26T04:34:08+00:00`
+- last_modified: `Tue, 26 May 2026 00:00:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-25T22:17:08+00:00",
+  "fetched_at": "2026-05-26T04:34:08+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "2ece4e73eaeb62174d46ea6d44c3230a0ba11e5a",
+      "title": "Married At First Sight: Tip Of The Iceberg?",
+      "published_at": "2026-05-25T23:05:00+00:00",
+      "link": null,
+      "description": "Is this the end for the hit reality dating show, Married At First Sight? Were the inaugural ‘Enhanced Games’ a hit or flop? And what does the end of Stephen Colbert’s Late Show tell us about where late-night TV is going? Channel 4 has pulled Married at First Sight UK from streaming in the wake of sexual abuse allegations by former participants. Richard Osman and Marina Hyde unpick what this means for Channel 4, and whether the controversial format is too toxic to save. The Enhanced Games saw elite athletes flock to Las Vegas for a contest where performance-enhancing drugs were encouraged, not banned. Will this herald a new age of sporting entertainment? Stephen Colbert has bid farewell to The Late Show, an institution of America's small screen. But what will happen to late-night TV without it? And what will Colbert do next? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Joey McCarthy & James Clayden Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Sam Psyk & Neil Fearn Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3309959421.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3509",
+      "speakers": [
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "sight",
+        "iceberg"
+      ]
+    },
     {
       "key": "b41b704575ccf157d24197dcf59d92cd78e952ed",
       "title": "Marina Is Wrong About The Best Bond Theme",
@@ -5879,6 +5899,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-25 — Married At First Sight: Tip Of The Iceberg? — speakers: Richard Osman, Marina Hyde
 - 2026-05-20 — Marina Is Wrong About The Best Bond Theme — speakers: Richard Osman, Marina Hyde
 - 2026-05-19 — Have Tradwives Killed Feminism? — speakers: James Kanagasooriam, Richard Osman, Marina Hyde
 - 2026-05-18 — Elon Musk vs Christopher Nolan — speakers: Christopher Nolan, Richard Osman, Marina Hyde

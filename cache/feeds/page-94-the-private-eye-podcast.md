@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-05-25T04:50:57+00:00`
-- checked_at: `2026-05-25T04:50:57+00:00`
-- etag: `W/"59bf7e19876131ce51aee5ff6b517423"`
-- last_modified: `Mon, 25 May 2026 00:30:00 GMT`
+- fetched_at: `2026-05-26T04:34:08+00:00`
+- checked_at: `2026-05-26T04:34:08+00:00`
+- etag: `W/"e3064feef9b6fb3b661bc630c351c993"`
+- last_modified: `Tue, 26 May 2026 00:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-05-25T04:50:57+00:00",
+  "fetched_at": "2026-05-26T04:34:08+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,30 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "0c1f6758631628f52f6c09ccf3166ad7cdb3fb62",
+      "title": "176: PAUL FOOT 2026: A PROVEN LAWYER",
+      "published_at": "2026-05-26T00:30:00+00:00",
+      "link": "https://audioboom.com/posts/8906917",
+      "description": "Daniel Timms of the Sheffield Tribune tells the story of the solicitor who used legal loopholes to extract sums of £25,000 from Yorkshire homeowners. Part of Private Eye's Paul Foot Award 2026 shortlist series.",
+      "image_url": "https://audioboom.com/i/43659588/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8906917.mp3?modified=1779464340&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "672",
+      "speakers": [
+        "Daniel Timms",
+        "Sheffield Tribune",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "paul",
+        "foot",
+        "proven",
+        "lawyer"
+      ]
+    },
     {
       "key": "aa097112a886a8be05ef77db070d9617814fb260",
       "title": "175: PAUL FOOT 2026: CUTTING CORNERS",
@@ -3740,6 +3764,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-26 — 176: PAUL FOOT 2026: A PROVEN LAWYER — speakers: Daniel Timms, Sheffield Tribune, Andrew Hunter Murray, Ian Hislop
 - 2026-05-25 — 175: PAUL FOOT 2026: CUTTING CORNERS — speakers: Joe Duggan, Andrew Hunter Murray, Ian Hislop
 - 2026-05-19 — 174: Burnham Would, Wesley Snipes — speakers: Wesley Snipes, Saba Salman, Andrew Hunter Murray, Ian Hislop
 - 2026-05-06 — 173: The Antisemitism Spectrum — speakers: Andrew Hunter Murray, Ian Hislop
