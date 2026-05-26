@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-05-26T04:34:08+00:00`
-- checked_at: `2026-05-26T04:34:08+00:00`
-- etag: `W/"e3064feef9b6fb3b661bc630c351c993"`
-- last_modified: `Tue, 26 May 2026 00:30:00 GMT`
+- fetched_at: `2026-05-26T10:17:42+00:00`
+- checked_at: `2026-05-26T10:17:42+00:00`
+- etag: `W/"5a80390781ed10b54be1fa179c81f449"`
+- last_modified: `Tue, 26 May 2026 07:45:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-05-26T04:34:08+00:00",
+  "fetched_at": "2026-05-26T10:17:42+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -35,7 +35,7 @@
       "published_at": "2026-05-26T00:30:00+00:00",
       "link": "https://audioboom.com/posts/8906917",
       "description": "Daniel Timms of the Sheffield Tribune tells the story of the solicitor who used legal loopholes to extract sums of £25,000 from Yorkshire homeowners. Part of Private Eye's Paul Foot Award 2026 shortlist series.",
-      "image_url": "https://audioboom.com/i/43659588/s=1400x1400/el=1/rt=fill.png",
+      "image_url": "https://audioboom.com/i/43663120/s=1400x1400/el=1/rt=fill.png",
       "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8906917.mp3?modified=1779464340&sid=5112392&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -59,7 +59,7 @@
       "published_at": "2026-05-25T00:30:00+00:00",
       "link": "https://audioboom.com/posts/8906916",
       "description": "Joe Duggan of the i paper tells the story of the workers falling ill and dying with silicosis after cutting fashionable kitchen counters without adequate protection. Part of Private Eye's Paul Foot Award 2026 shortlist series.",
-      "image_url": "https://audioboom.com/i/43659582/s=1400x1400/el=1/rt=fill.png",
+      "image_url": "https://audioboom.com/i/43663118/s=1400x1400/el=1/rt=fill.png",
       "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8906916.mp3?modified=1779464278&sid=5112392&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",

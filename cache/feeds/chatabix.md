@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-26T04:34:08+00:00`
-- checked_at: `2026-05-26T04:34:08+00:00`
-- etag: `"djEuMi4wOjE3Nzk3NjA4Mzk1MDI="`
+- fetched_at: `2026-05-26T10:17:42+00:00`
+- checked_at: `2026-05-26T10:17:42+00:00`
+- etag: `"djEuMi4wOjE3Nzk3ODgyNjA5Njc="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-05-26T04:34:08+00:00",
+  "fetched_at": "2026-05-26T10:17:42+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"

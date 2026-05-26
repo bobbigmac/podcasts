@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-05-22T09:49:25+00:00`
-- checked_at: `2026-05-22T09:49:25+00:00`
-- last_modified: `Fri, 22 May 2026 09:04:59 GMT`
+- fetched_at: `2026-05-26T10:17:42+00:00`
+- checked_at: `2026-05-26T10:17:42+00:00`
+- last_modified: `Tue, 26 May 2026 08:12:38 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/40fdac0908467e0692b2c0139f4db663.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T09:49:25+00:00",
+  "fetched_at": "2026-05-26T10:17:42+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b0a4f4ae11cc0e59d8618d3dd9d6889d575124f6",
+      "title": "S12 EP41: Imagine This",
+      "published_at": "2026-05-26T07:40:00+00:00",
+      "link": null,
+      "description": "In this episode we go through some more of your amazing playground shaggers stories. Keep them coming in we love these hilarious tales of infidelity and mischief.... ⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2731101566.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3048",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "imagine"
+      ]
+    },
     {
       "key": "f280fd42c7a3c475f2b4ef21598e92050eb7f29b",
       "title": "S12 EP40: Josh is the new co-host of Strictly Come Dancing!!",
@@ -11988,6 +12007,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-26 — S12 EP41: Imagine This — speakers: Rob Beckett, Josh Widdicombe
 - 2026-05-22 — S12 EP40: Josh is the new co-host of Strictly Come Dancing!! — speakers: Rob Beckett, Josh Widdicombe
 - 2026-05-19 — S12 EP39: We're sticking strictly to business — speakers: Rob Beckett, Josh Widdicombe
 - 2026-05-15 — S12 EP38: Eddie Marsan — speakers: Eddie Marsan Joining, Rob Beckett, Josh Widdicombe

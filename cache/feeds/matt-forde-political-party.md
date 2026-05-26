@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-05-19T15:48:21+00:00`
-- checked_at: `2026-05-19T15:48:21+00:00`
-- etag: `"djEuMi4wOjE3NzkxOTQ4NDU0NTY="`
+- fetched_at: `2026-05-26T10:17:42+00:00`
+- checked_at: `2026-05-26T10:17:42+00:00`
+- etag: `"djEuMi4wOjE3Nzk3ODkwMjc4MzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-05-19T15:48:21+00:00",
+  "fetched_at": "2026-05-26T10:17:42+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "41a8a16f552266312e0afcf4fbf2432479019e7f",
+      "title": "Show 404. Kieran Andrews",
+      "published_at": "2026-05-26T09:49:49+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-404-kieran-andrews",
+      "description": "This is an absolute scorcher with ITV Borders' Political Editor. Kieran gives an entertaining and comprehensive analysis of the Holyrood election results and what they mean for the future of Scottish and UK politics. From an MSP elected on a student visa to what impact Scotland's World Cup campaign will have, it's all in here. Enjoy! THE POLITICAL PARTY LIVE 1 June: Andy Burnham https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE Matt's stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows May 26 Hay Festival 27 Lowestoft Marina Theatre 28 Steyning Festival 29 Maidenhead Norden Farm 31 Nottingham Theatre Royal June 3 Portsmouth New Theatre Royal - EXTRA DATE 4 Coventry Warwick Arts Centre 5 Cambridge Junction 6 Sheffield Steamworks 9 Liverpool Everyman Theatre 10 Chipping Norton Theatre 12 Norwich Playhouse - EXTRA DATE 14 York The Crescent - EXTRA DATE 15 Leeds City Varieties - EXTRA DATE 16 Glasgow Glee Club - EXTRA DATE 18 Aberdeen Lemon Tree - EXTRA DATE 26 Bristol 1532 - EXTRA DATE July 3 Basingstoke The Haymarket - EXTRA DATE 8 Birmingham Glee Club - EXTRA DATE 10 Bedford Quarry Theatre - EXTRA DATE 16 Maidenhead Norden Farm - EXTRA DATE DONATE to the RNOH Charity here: https://www. justgiving.com/campaign/mattforde Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a156ce383dd9b6e1196bd3a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78242699",
+      "itunes_duration": "54:19",
+      "speakers": [
+        "Kieran Andrews",
+        "Matt Forde"
+      ],
+      "topics": [
+        "kieran",
+        "andrews"
+      ]
+    },
     {
       "key": "a37890060c649c764ae1cf4aad5fa2d3252f98e0",
       "title": "Show 403. Samantha Niblett",
@@ -10367,6 +10387,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-26 — Show 404. Kieran Andrews — speakers: Kieran Andrews, Matt Forde
 - 2026-05-19 — Show 403. Samantha Niblett — speakers: Samantha Niblett Samantha, Matt Forde
 - 2026-05-13 — Show 402. Lewis Goodall — speakers: Lewis Goodall, Labour MPs, Matt Forde
 - 2026-05-04 — Show 401. Steve Baker — speakers: Steve Baker Strap, Steve Baker, Matt Forde
