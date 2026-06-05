@@ -20245,6 +20245,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:b6ddb63da1f3",
+        "feed_title": "Full Steam Ahead! With Chris McDonald",
+        "source_rss_url": "https://anchor.fm/s/109b3dd28/podcast/rss",
+        "dedupe_key": "23b5414f1341c58562943a4618736aa2982e7825",
+        "episode_key": "23b5414f1341c58562943a4618736aa2982e7825",
+        "title": "Full Steam Ahead Season 1 Ep 8 - With Comedian Stewart Lee",
+        "published_at": "2026-05-26T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome to Full Steam Ahead! With Chris McDonald — the podcast where real conversations meet real momentum. Each episode, Chris dives into the stories, challenges, successes, and lessons that fuel the people who refuse to stand still. From captivating stories and historical insights to conversations that spark curiosit",
+        "audio_url": "https://anchor.fm/s/109b3dd28/podcast/play/120569366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-26%2F424926242-44100-2-a41fb50441aba.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/full-steam-ahead-season-1-ep-8-with-comedian-stewart-lee/id1858197362?i=1000769690558&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:86e8d6833f90",
         "feed_title": "Strong Message Here",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
@@ -22186,6 +22208,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:7619dc15fcd5",
+        "feed_title": "The Mrs Barbara Nice & Friends Podcast",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6855538a80301bef72a8fb33",
+        "dedupe_key": "14520954fae5dcdd81d5761c9aab9ac974c3b39a",
+        "episode_key": "14520954fae5dcdd81d5761c9aab9ac974c3b39a",
+        "title": "Stewart Lee: King Rocker",
+        "published_at": "2021-02-03T11:59:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Like every podcast going this week, Mrs Barbara Nice and Friends was fortunate to be able to chat with comedian Stewart Lee to talk about the film he has in part funded, produced, interviewed and promoted along with Michael Cummings (Brass Eye, Toast of London): King Rocker\nThe film focuses on Birmingham alternative ro",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6855538a80301bef72a8fb33/e/cd357785-3189-46c2-a81f-d6329815fe33/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee-king-rocker/id1437402253?i=1000507567320&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e7806ce80a56",
         "feed_title": "THE ADAM BUXTON PODCAST",
         "source_rss_url": "https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645",
@@ -22285,6 +22329,28 @@
         "feed_image_url": null,
         "description": "Alan sits down with comedian Stewart Lee, a man The Times called in 2018 'the best standup working today'!\n\nThey chat about how COVID-19 stopped Stewart's latest tour and how he'll tackle comedy once it's back to some sort of normality, as well as how the pair both shared the same stage decades apart!\n\nAlan and Stewart",
         "audio_url": "https://api.spreaker.com/download/episode/41921459/stewart_lee_final_pod.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee/id1536155285?i=1000498237421&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:668b4a47d4ed",
+        "feed_title": "How To Change The World with Alan Johnson",
+        "source_rss_url": "https://feeds.captivate.fm/how-to-change-the-world",
+        "dedupe_key": "701ff68f1432e961960f3fd620508f3d49e53a79",
+        "episode_key": "701ff68f1432e961960f3fd620508f3d49e53a79",
+        "title": "Stewart Lee",
+        "published_at": "2020-11-11T23:05:09Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Alan sits down with comedian Stewart Lee, a man The Times called in 2018 'the best standup working today'!\n\nThey chat about how COVID-19 stopped Stewart's latest tour and how he'll tackle comedy once it's back to some sort of normality, as well as how the pair both shared the same stage decades apart!\n\nAlan and Stewart",
+        "audio_url": "https://episodes.captivate.fm/episode/59e42b4a-e9da-41c7-9cb1-c84957027a65.mp3?aw_0_1st.showid=8c7956bf-35ce-465c-af76-47aa4ca2fda7&aw_0_1st.episodeid=59e42b4a-e9da-41c7-9cb1-c84957027a65",
         "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee/id1536155285?i=1000498237421&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
@@ -33206,6 +33272,50 @@
     ],
     "david-mitchell": [
       {
+        "feed_slug": "external:apple:96594d663a6c",
+        "feed_title": "Richard Herring's Leicester Square Theatre Podcast (RHLSTP)",
+        "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
+        "dedupe_key": "fe8640f7874de11dc2237ab93b981be743e25979",
+        "episode_key": "fe8640f7874de11dc2237ab93b981be743e25979",
+        "title": "David Mitchell - \"A Special Place in Hell\"",
+        "published_at": "2026-06-03T02:57:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "RHLSTP #612 - A Special Place in Hell - Rich has an apology to make regarding bird genitals. His guest is RHLSTP favourite David Mitchell. There’s lots of rarely if ever asked emergency questions and chat about John Kearns’ eight stone rabbit, a joke about Ludwig that one listener will enjoy, returning to sketch shows ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a1db733626f8869c3a311da/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-a-special-place-in-hell/id520831548?i=1000770875437&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:36328dd29b22",
+        "feed_title": "The Lure Fishing Podcast",
+        "source_rss_url": "https://anchor.fm/s/46cefb08/podcast/rss",
+        "dedupe_key": "5fea85ae91027b29eda54b56215ab21a48d627c3",
+        "episode_key": "5fea85ae91027b29eda54b56215ab21a48d627c3",
+        "title": "Episode 53 - Sea Angler Editor - David Mitchell",
+        "published_at": "2026-05-29T06:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode I chat with the editor of Sea Angler Magazine, David Mitchell. \nDavid is an accomplished angler is him own right who fishes the Kent coast. \n\nWe chat about how he got his passion for angling which eventually led to him landing a dream job as the editor of Sea Angler Magazine.\n\nWe discuss all things Sea ",
+        "audio_url": "https://anchor.fm/s/46cefb08/podcast/play/120378637/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-22%2Fbde66d02-6d23-e4b4-582f-08fae07ab038.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-53-sea-angler-editor-david-mitchell/id1666809652?i=1000770128989&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:26a188c3b684",
         "feed_title": "The Gill Athletics Track and Field Connections Podcast",
         "source_rss_url": "https://anchor.fm/s/10ea86d8/podcast/rss",
@@ -33312,6 +33422,28 @@
         "speakers": [
           "David Mitchell",
           "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3adb5ccf639f",
+        "feed_title": "Last One Laughing Official Podcast",
+        "source_rss_url": "https://rss.art19.com/last-one-laughing",
+        "dedupe_key": "2352e60c18f5e486af82aedaeaa04c7073850686",
+        "episode_key": "2352e60c18f5e486af82aedaeaa04c7073850686",
+        "title": "Episode Six: David Mitchell and Lou Sanders",
+        "published_at": "2026-04-02T01:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Roisin Conaty is joined by series two’s David Mitchell and series one's Lou Sanders to discuss the final episode of the series. They discuss the highlights of the grand finale, and get some insight from David and Lou about all things LOL.\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at ",
+        "audio_url": "https://pscrb.fm/rss/p/rss.art19.com/episodes/079005ab-bb98-44a9-8ff4-3df6d2f873da.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-six-david-mitchell-and-lou-sanders/id1885620207?i=1000758753711&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
         ],
         "topics": [],
         "external": true
@@ -33638,6 +33770,28 @@
         "description": "On this episode of #AudioBookClub:\n A thousand years of history in just twenty eight minutes!\n Steve Phillips and Matthew Layton present #AudioBookClub - the podcast that reviews and recommends audiobooks.\n On this episode:\n We peruse British comedy icon David Mitchell's history of the kings and queens of England.\n  \n ",
         "audio_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/audiobookclub/Mixdown.mp3?dest-id=1097036",
         "link_url": "https://podcasts.apple.com/gb/podcast/unruly-by-david-mitchell/id1454318279?i=1000680953483&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:5fcbc6b871de",
+        "feed_title": "Bigfoot Society",
+        "source_rss_url": "https://rss.pdrl.fm/3e8f48/www.spreaker.com/show/5828342/episodes/feed",
+        "dedupe_key": "84a32579a781599534f3385f4af714d84bb34279",
+        "episode_key": "84a32579a781599534f3385f4af714d84bb34279",
+        "title": "When Research Turns to Experience: A Conversation with Lisa Semmler and Dr. David Mitchell",
+        "published_at": "2024-12-07T07:00:06Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Join Jeremiah Byron from the Bigfoot Society as he dives deep into the intriguing world of Sasquatch and psychic phenomena with guests Lisa Semmler, a PhD candidate in Integral and Transpersonal Psychology at the California Institute of Integral Studies (CIIS), and Dr. David S. B. Mitchell, an expert in cryptid studies",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/pdrl.fm/3e8f48/api.spreaker.com/download/episode/63128137/bfs611lisaresearchadbreaksfinal.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/when-research-turns-to-experience-a-conversation/id1453429066?i=1000679557982&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -34696,6 +34850,28 @@
         "description": "Novelist and screenwriter David Mitchell (author not comedian) goes head to head with writer Jasper Fforde in a War Of The Words. David and Jasper discuss their latest books (Utopia Avenue and The Constant Rabbit) with host Joe Haddow, as well as talking about their writing and what they have been reading recently. \nTh",
         "audio_url": "https://sphinx.acast.com/bookoff/davidmitchellandjasperfforde-off-the-wallbooksandtoomanycooks-/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-and-jasper-fforde-off-the-wall-books/id1250925854?i=1000492266259&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:6a526a89cd71",
+        "feed_title": "Good Book Boys",
+        "source_rss_url": "https://www.latterature.com/good-book-boys?format=rss",
+        "dedupe_key": "7fe92ceaf4d2aa687ef961fa265594470759c53d",
+        "episode_key": "7fe92ceaf4d2aa687ef961fa265594470759c53d",
+        "title": "Slade House (David Mitchell, 2015)",
+        "published_at": "2020-09-22T21:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "\"Down the road from a working-class British pub, along the brick wall of a narrow alley, if the conditions are exactly right, you’ll find the entrance to Slade House. A stranger will greet you by name and invite you inside. At first, you won’t want to leave. Later, you’ll find that you can’t. Every nine years, the hous",
+        "audio_url": "https://static1.squarespace.com/static/5ed508666d22ee22f0d60822/t/5f61d56f2124514d56407ffa/1600247286901/9+Slade+House+By+David+Mitchell.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/slade-house-david-mitchell-2015/id1527112430?i=1000492218727&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
