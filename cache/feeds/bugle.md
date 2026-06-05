@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-05-20T20:30:25+00:00`
-- checked_at: `2026-05-20T20:30:25+00:00`
-- etag: `"djEuMi4wOjE3NzkyOTY3OTI4Nzc="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA1NTY0Mzk2MzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-05-20T20:30:25+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,47 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "fc423d22b5d77ce1cf90582ab00192e01755b9c2",
+      "title": "Iran tries to buy time, Trump outbids them",
+      "published_at": "2026-06-04T04:02:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/iran-tries-to-buy-time-trump-outbids-them",
+      "description": "Andy is with Mark Steel and Ria Lina to ask the big questions... Are we still paying attention to the Iran war? Would Andrew Mountbatten Windsor make a good mechanic? Has anyone read the latest Peter Mandelson files? And the World Cup - a political own goal? 🎤 Get tickets for the LIVE episode of The Gargle HERE https://www.angelcomedy.co.uk/event-detail/the-gargle-live-fri-26th-jun-the-bill-murray-london-tickets-202606261800/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a2076435ef62e6e7e82cc9e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54611893",
+      "itunes_duration": "37:37",
+      "speakers": [
+        "Mark Steel",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "iran",
+        "time",
+        "outbid"
+      ]
+    },
+    {
+      "key": "fa8e2b428c2012f6140a736f8a2360383b4a7416",
+      "title": "Woolly Mammoth or Inflation? You Decide!",
+      "published_at": "2026-05-28T05:02:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/woolly-mammoth-or-inflation-you-decide",
+      "description": "Andy is with Felicity Ward and Anuvab Pal to ask the big questions... Why do we feel politics in our legs? Is it possible to cheat at the enhanced games? Is 'Melodi' the political love story we all need? And HS2. Why are train so bad? 🎤 Get tickets for the LIVE episode of The Gargle HERE https://www.angelcomedy.co.uk/event-detail/the-gargle-live-fri-26th-jun-the-bill-murray-london-tickets-202606261800/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a1757eac92816b54444f24e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64189516",
+      "itunes_duration": "44:05",
+      "speakers": [
+        "Anuvab Pal",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "mammoth",
+        "inflation"
+      ]
+    },
     {
       "key": "46c2b184ebe17865596a8160049f71dbead08e23",
       "title": "Starmer's still PM (just)",
@@ -14234,6 +14275,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — Iran tries to buy time, Trump outbids them — speakers: Mark Steel, Andy Zaltzman
+- 2026-05-28 — Woolly Mammoth or Inflation? You Decide! — speakers: Anuvab Pal, Andy Zaltzman
 - 2026-05-20 — Starmer's still PM (just) — speakers: Alice Fraser, Josh Gondelman, Andy Zaltzman
 - 2026-05-13 — Bitcoin, Dana White and Running Robots! — speakers: Dana White, Running Robots, Andy Zaltzman
 - 2026-05-06 — The Bugle reviews King Charles' visit to the US — speakers: Josie Long, Helen Zaltzman, Andy Zaltzman

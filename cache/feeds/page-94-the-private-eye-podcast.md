@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-05-26T10:17:42+00:00`
-- checked_at: `2026-05-26T10:17:42+00:00`
-- etag: `W/"5a80390781ed10b54be1fa179c81f449"`
-- last_modified: `Tue, 26 May 2026 07:45:04 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `W/"d54175d8e07fed7dc054a08677a46bb2"`
+- last_modified: `Tue, 02 Jun 2026 19:38:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-05-26T10:17:42+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,135 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "dec0973a8f65d249be0475c8695a57e9728d499e",
+      "title": "182: Make Hay",
+      "published_at": "2026-06-02T13:50:00+00:00",
+      "link": "https://audioboom.com/posts/8910705",
+      "description": "The team record a special episode from the Hay Festival. Featuring Tony Blair, Keir Starmer, Donald Trump, Nigel Farage, Nicola Sturgeon, and all your other - favourite? - characters from the news.",
+      "image_url": "https://audioboom.com/i/43674108/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8910705.mp3?modified=1780429093&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2493",
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": []
+    },
+    {
+      "key": "5e79c5f1f664afa5f0b1e842f67d18f970db0ea2",
+      "title": "181: And The Winner Is...",
+      "published_at": "2026-06-01T20:37:52+00:00",
+      "link": "https://audioboom.com/posts/8910482",
+      "description": "You've heard the stories. You've admired the piles of paper in the Eye office (video viewers only). And now it's time to learn which brilliant story has won this year's Paul Foot Award!",
+      "image_url": "https://audioboom.com/i/43673230/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8910482.mp3?modified=1780346302&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "382",
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "winner"
+      ]
+    },
+    {
+      "key": "493acad4419f5b1405bb9e262d7ae88dce17877e",
+      "title": "180: PAUL FOOT 2026: THE PINCH-OF-SALT PATH",
+      "published_at": "2026-05-30T00:30:00+00:00",
+      "link": "https://audioboom.com/posts/8907905",
+      "description": "Chloe Hadjimatheou of the Observer looked into a beloved, million-selling bestseller, The Salt Path, and found the book arguably fit the 'fiction' shelves better.",
+      "image_url": "https://audioboom.com/i/43663360/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8907905.mp3?modified=1779795090&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "808",
+      "speakers": [
+        "Chloe Hadjimatheou",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "paul",
+        "foot",
+        "pinch",
+        "salt",
+        "path"
+      ]
+    },
+    {
+      "key": "50182fcafb24bb8b51f2b625f84570fc8b65cab0",
+      "title": "179: PAUL FOOT 2026: UNSAFE CONVICTIONS",
+      "published_at": "2026-05-29T00:30:00+00:00",
+      "link": "https://audioboom.com/posts/8907901",
+      "description": "Adam Bychawski reported on how people who've been wrongly imprisoned - sometimes for many years - are still not being compensated even after they've overturned their convictions, thank to a 2014 change in the law.",
+      "image_url": "https://audioboom.com/i/43663348/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8907901.mp3?modified=1779794619&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "817",
+      "speakers": [
+        "Adam Bychawski",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "paul",
+        "foot",
+        "conviction"
+      ]
+    },
+    {
+      "key": "fdb85b2a5536ac1928fb076b08c3b92d89d53027",
+      "title": "178: PAUL FOOT 2026: HARD LABOUR",
+      "published_at": "2026-05-28T00:30:00+00:00",
+      "link": "https://audioboom.com/posts/8907899",
+      "description": "Peter Geoghegan and Khadija Sharife uncovered how Labour Together - the think-tank which helped make Keir Starmer PM - had hired a PR firm to try and discredit journalists asking them questions about their funding.",
+      "image_url": "https://audioboom.com/i/43663340/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8907899.mp3?modified=1779794346&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "768",
+      "speakers": [
+        "Peter Geoghegan",
+        "Khadija Sharife",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "paul",
+        "foot",
+        "hard",
+        "labour"
+      ]
+    },
+    {
+      "key": "30bf0264a7239133dbfa243de73518c112fe3df8",
+      "title": "177: PAUL FOOT 2026: RAAC AND RUIN",
+      "published_at": "2026-05-27T00:30:00+00:00",
+      "link": "https://audioboom.com/posts/8907897",
+      "description": "Lindsay Bruce of the Aberdeen Press and Journal fought for justice for homeowners facing ruin after they learned their homes were full of dodgy concrete. Her campaign eventually led to a complete surrender by local authorities and compensation for affected homeowners.",
+      "image_url": "https://audioboom.com/i/43663328/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8907897.mp3?modified=1779793957&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "959",
+      "speakers": [
+        "Lindsay Bruce",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "paul",
+        "foot",
+        "raac",
+        "ruin"
+      ]
+    },
     {
       "key": "0c1f6758631628f52f6c09ccf3166ad7cdb3fb62",
       "title": "176: PAUL FOOT 2026: A PROVEN LAWYER",
@@ -3764,6 +3893,12 @@
 
 ## Episodes (newest first)
 
+- 2026-06-02 — 182: Make Hay — speakers: Andrew Hunter Murray, Ian Hislop
+- 2026-06-01 — 181: And The Winner Is... — speakers: Andrew Hunter Murray, Ian Hislop
+- 2026-05-30 — 180: PAUL FOOT 2026: THE PINCH-OF-SALT PATH — speakers: Chloe Hadjimatheou, Andrew Hunter Murray, Ian Hislop
+- 2026-05-29 — 179: PAUL FOOT 2026: UNSAFE CONVICTIONS — speakers: Adam Bychawski, Andrew Hunter Murray, Ian Hislop
+- 2026-05-28 — 178: PAUL FOOT 2026: HARD LABOUR — speakers: Peter Geoghegan, Khadija Sharife, Andrew Hunter Murray, Ian Hislop
+- 2026-05-27 — 177: PAUL FOOT 2026: RAAC AND RUIN — speakers: Lindsay Bruce, Andrew Hunter Murray, Ian Hislop
 - 2026-05-26 — 176: PAUL FOOT 2026: A PROVEN LAWYER — speakers: Daniel Timms, Sheffield Tribune, Andrew Hunter Murray, Ian Hislop
 - 2026-05-25 — 175: PAUL FOOT 2026: CUTTING CORNERS — speakers: Joe Duggan, Andrew Hunter Murray, Ian Hislop
 - 2026-05-19 — 174: Burnham Would, Wesley Snipes — speakers: Wesley Snipes, Saba Salman, Andrew Hunter Murray, Ian Hislop

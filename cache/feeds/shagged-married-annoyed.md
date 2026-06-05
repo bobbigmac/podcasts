@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-05-22T15:21:51+00:00`
-- checked_at: `2026-05-22T15:21:51+00:00`
-- last_modified: `Fri, 22 May 2026 14:48:49 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- last_modified: `Fri, 05 Jun 2026 04:12:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T15:21:51+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,95 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4c568b79d8a2983028990fa14da3d3525ae3b849",
+      "title": "Beer Spas, Baby Shower Beef and Buying Warts",
+      "published_at": "2026-06-05T04:07:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged married Annoyed Chris and Rosie Ramsey have a holiday debrief, Chris suggests a 40th Birthday trip for Rosie, and a new way to get rid of warts and potentially verruca's is shared on the podcast! Rosie reveals her thoughts on Baby Showers, Chris had some beef over weather icons and the pair get deep over AI... All of this plus a brilliant voice note, more A1 sex shop chat and some second hand gold clubs! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1422495887.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3682",
+      "speakers": [
+        "Annoyed Chris",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "beer",
+        "spas",
+        "baby",
+        "shower",
+        "beef",
+        "buying",
+        "wart"
+      ]
+    },
+    {
+      "key": "4a2e86e0e196ed301971a8dcb39c5cfd37a14efc",
+      "title": "Please Keep Me Anonymous with Mel Giedroyc",
+      "published_at": "2026-06-03T04:09:00+00:00",
+      "link": null,
+      "description": "On this week's podcast Chris and Rosie are joined by the wonderful Mel Giedroyc. Mel joins the pair the day after The BAFTAS and has a brilliant reveal about her outfit. They discuss award ceremonies, talking Italian and Mel shares her TMJ problem post Last One Laughing... We hear a story from a SMA and there's even some Strictly chat! As well as this Mel talks about her brilliant podcast, Where There's a Will There's a Wake which is available every week, wherever you get your podcasts! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3bb68af0-5e7d-11f1-bf31-3bb7b4b930e6/image/c0981f2b5f18f467b868b6330ff6a955.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6689069180.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2510",
+      "speakers": [
+        "Mel Giedroyc",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "giedroyc"
+      ]
+    },
+    {
+      "key": "6c5327da64c9cdee08c6a2fa9ecf9e72e248c05b",
+      "title": "Rosie Gets Scammed By An Inflatable D*ck",
+      "published_at": "2026-05-29T04:12:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed, Chris and Rosie Ramsey discuss Rosie's trip to Verona, their different reactions to potential intruders, a Hen Do scam and why Chris very much felt his age when discussing the Radio 1 Big Weekend. They also chat about roller skates, robots and Rosie reveals how she was humbled by Sandra... All this plus beefs, a mum related voice note and some fab QFTPs. If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Today, get Huel’s full Lite & Lean Starter Kit online with our code SMA30 for 30% off at https://huel.com/SMA30 . New Customers Only. Thank you to Huel for partnering and supporting our show! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9293066758.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3528",
+      "speakers": [
+        "Rosie Gets Scammed",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "rosie"
+      ]
+    },
+    {
+      "key": "ec773909ee7c7791d0ff9c2fccd29ceb47075ac6",
+      "title": "Please Keep Me Anonymous with Rhys James",
+      "published_at": "2026-05-27T04:17:00+00:00",
+      "link": null,
+      "description": "On the podcast this week Chris and Rosie Ramsey are joined by comedian and Mock The Week star, Rhys James. Rhys chats about his new role as a Team Captain on Mock The Week, why cracking your head open is a retro injury and he shares a pretty harrowing back stage Green Room story. Chris reveals an old hygiene habit from the Edinburgh Fringe and Rhys and Rosie do their best to explain Rat Boy Summer. All this plus a horrifying story from one of you lovely lot! You can catch Rhys on tour this year with his show Chop Logic, for tickets visit rhysjames.co.uk If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Today, get Huel’s full Lite & Lean Starter Kit online with our code SMA30 for 30% off at https://huel.com/SMA30 . New Customers Only. Thank you to Huel for partnering and supporting our show! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2a67bbc6-5904-11f1-9fba-a7a3218632f4/image/0a6c32f8547f9f623fb026c0d3f31c1d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4125931678.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2756",
+      "speakers": [
+        "Rhys James",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "rhys",
+        "james"
+      ]
+    },
     {
       "key": "a0572a42356228fcaf5d85c0d7d66359a0797f7a",
       "title": "Ikea Role Play , Mouth Breathers and Chris Gets Owned by a Bouncy Castle",
@@ -8413,6 +8502,10 @@
 
 ## Episodes (newest first)
 
+- 2026-06-05 — Beer Spas, Baby Shower Beef and Buying Warts — speakers: Annoyed Chris, Rosie Ramsey, Chris Ramsey
+- 2026-06-03 — Please Keep Me Anonymous with Mel Giedroyc — speakers: Mel Giedroyc, Chris Ramsey, Rosie Ramsey
+- 2026-05-29 — Rosie Gets Scammed By An Inflatable D*ck — speakers: Rosie Gets Scammed, Rosie Ramsey, Chris Ramsey
+- 2026-05-27 — Please Keep Me Anonymous with Rhys James — speakers: Rhys James, Rosie Ramsey, Chris Ramsey
 - 2026-05-22 — Ikea Role Play , Mouth Breathers and Chris Gets Owned by a Bouncy Castle — speakers: Mouth Breathers, Chris Gets Owned, Rosie Ramsey, Chris Ramsey
 - 2026-05-20 — Please Keep Me Anonymous with Greg James and Alice Levine — speakers: Greg James, Alice Levine, Rosie Ramsey, Chris Ramsey
 - 2026-05-15 — New Bras, Wheelie Bins and Rosie Tries to Kill Comedy — speakers: Wheelie Bins, Rosie Tries, Kill Comedy, Rosie Ramsey, Chris Ramsey

@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-05-22T09:49:25+00:00`
-- checked_at: `2026-05-22T09:49:25+00:00`
-- last_modified: `Fri, 22 May 2026 09:33:41 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- last_modified: `Thu, 04 Jun 2026 15:14:15 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -15,9 +15,9 @@
   "source_url": "https://feeds.acast.com/public/shows/the-rest-is-politics",
   "title": "The Rest Is Politics",
   "link": "http://therestispolitics.com/",
-  "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com.",
-  "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T09:49:25+00:00",
+  "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
+  "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/1a4f337061ca59ac603d55d2bc10d8ca.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,12 +26,120 @@
   ],
   "episodes": [
     {
+      "key": "4f8ffa7ed12bd6a71f894d1dd5ba8af7c67e8a97",
+      "title": "539. Embezzlement, the Mandelson Texts, and Hasan Piker's UK Ban",
+      "published_at": "2026-06-03T23:00:00+00:00",
+      "link": null,
+      "description": "What does the SNP embezzlement case reveal about how scandal-ridden British politics is? Is the banning of prominent left-wing American commentators Hasan Piker and Cenk Uygur a sensible decision or a serious threat to free speech? After Rory and Alastair discussed their most “evil” handshakes last week, who is the most “angelic” person they have each shaken hands with? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Adam Thornton, Vasco Andrade Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fe322e72-5f3b-11f1-aadd-bfa71441fb06/image/0c0129e1b10f99954ed42186b3820667.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6008315666.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3537",
+      "speakers": [
+        "Mandelson Texts",
+        "Hasan Piker"
+      ],
+      "topics": [
+        "embezzlement",
+        "mandelson",
+        "texts",
+        "hasan",
+        "piker"
+      ]
+    },
+    {
+      "key": "203f0a09059c094cf600e345a158213ad03f4356",
+      "title": "538. The Pope’s AI Warning and Alastair Reacts to Blair’s Attack",
+      "published_at": "2026-06-02T23:00:00+00:00",
+      "link": null,
+      "description": "Is Pope Leo’s encyclical the most important contribution to the AI debate so far, and is he doing more to hold Silicon Valley to account than any Western government? What did Alastair say to Tony Blair about his explosive essay attacking the direction of Starmer’s government, the Labour Party, and net zero? Why does Rory think Blair is now closer to JD Vance than to the values that defined New Labour? Join Rory and Alastair as they answer all these questions and more. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, James Clayden Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/76109144-5eac-11f1-8004-d3e387a70fd1/image/9f5059c4b58bb2834e4f1009de165e8f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5119611822.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3896",
+      "speakers": [],
+      "topics": [
+        "pope",
+        "warning",
+        "alastair",
+        "reacts",
+        "blair",
+        "attack"
+      ]
+    },
+    {
+      "key": "37cd8e42ff33206abc2d5c32e63936a2cd08459b",
+      "title": "Who Funds Reform? The Missing Millions",
+      "published_at": "2026-05-28T23:00:00+00:00",
+      "link": null,
+      "description": "Who is the secretive billionaire bankrolling Reform — and what does he want? How did a brand new party raise and spend £17 million with no public explanation? As Farage inches toward power, who's really pulling the strings? This four part series, made in collaboration with The Observer’s Slow Newscast will explore the money, donors and power networks behind Reform UK. To hear all four episodes as they drop, sign up at therestispolitics.com Go deeper into the world of The Rest Is Politics by signing up for our free newsletter ⁠HERE⁠ , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at ⁠fuseenergy.com/politics⁠ and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ ⁠nordvpn.com/restispolitics⁠ It's risk-free with Nord's 30 day money back guarantee ✅ Reporter: Cat Neilan Series Reporter/Producer: Poppy Bullard Producer: Matt Russell Sound Design: Dominic Delargy Producer for Goalhanger: India Dunkley Executive Producer for Goalhanger: Tom Whiter Executive Producer for the Observer: Jasper Corbett Clips: Reform UK, BBC, The Times, House of Commons Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0123db1c-5a87-11f1-b3c7-638d160f86d8/image/43636a173a2da5229469dc9f9c210a32.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9950656724.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1945",
+      "speakers": [
+        "Who Funds Reform"
+      ],
+      "topics": [
+        "reform",
+        "missing",
+        "millions"
+      ]
+    },
+    {
+      "key": "2d1f25c13ed45daed6af8076940888d95bc7e02f",
+      "title": "537. Indicting Trump, Israeli Prisons, and Rory vs. Ed Miliband",
+      "published_at": "2026-05-27T23:00:00+00:00",
+      "link": null,
+      "description": "What connects Trump’s Cuba blockade and Ben Gvir’s abuse of flotilla activists? As Richard Tice denies climate change science, will reality catch up with Reform UK – and what is Rory’s issue with Ed Miliband’s approach to net zero? Who is the most evil person Rory and Alastair have ever shaken hands with? Join Alastair and Rory as they answer all these questions and more in this week's edition of Question Time. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Social Producer: Celine Charles Video Editor: Vasco Andrade Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/68eae760-59d6-11f1-a321-d3be63c8db5e/image/921131876bfacaf9baae445395b3cf5e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6138100002.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2969",
+      "speakers": [
+        "Ed Miliband",
+        "Ben Gvir",
+        "Richard Tice"
+      ],
+      "topics": [
+        "indicting",
+        "trump",
+        "israeli",
+        "prisons",
+        "rory",
+        "miliband"
+      ]
+    },
+    {
+      "key": "db255cb61615996753e375da12f8eb0b3eae6d04",
+      "title": "536. Is Trump’s Corruption Machine Reaching New Extremes?",
+      "published_at": "2026-05-26T23:00:00+00:00",
+      "link": null,
+      "description": "Has the scale of Donald J. Trump’s corruption become too big to prosecute? Is the US Constitution now a roadmap to tyranny instead of a protection against it? Why do 72% of Gen Z think things will only get worse, and can mainstream politics win them back? Join Alastair and Rory as they answer all these questions and more. __________ Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/82e15e38-5922-11f1-8bc4-d7c8197ebf71/image/0a9c9f5fce9332b739c409513ab067b1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7450059564.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3579",
+      "speakers": [],
+      "topics": [
+        "trump",
+        "corruption",
+        "machine",
+        "extremes"
+      ]
+    },
+    {
       "key": "463a777190deefde3b1696990028f0db8f743f52",
       "title": "Struggling or Snowflakes? The Gen Z Mental Health Story",
       "published_at": "2026-05-21T22:55:00+00:00",
       "link": null,
       "description": "What's behind the rise in young people being diagnosed with mental health problems? Are members of Gen Z less resilient than older generations? Or are they a product of a society that has failed them? Has therapy culture gone too far? Or not far enough? Why are so many young people out of work? Is it laziness? Is something deeper at play? This week in The Gen Z Story, Vicky Spratt is joined by three guests: psychologist and expert in adolescent mental health, Dr Lucy Foulkes, Shuab Gamote, researcher and co-author of “Inside the Mind of a 16-year-old” and \"Inside the Mind of a Young NEET\" and Freya India, the author behind the book “Girls, The Commodification of Everything”. To hear the whole Gen Z series, sign up at therestispolitics.com Get TRIP Plus for £20 for the year by using your student email address. Instagram: ⁠@restispolitics⁠ Twitter: ⁠@restispolitics⁠ Email: ⁠therestispolitics@goalhanger.com⁠ __________ Hosted by: Vicky Spratt Producer: India Dunkley Social Producer: Celine Charles Video Editor: Josh Smith Researcher: Olivia Taylor Hooper Exec Producer: Tom Whiter Editorial Director: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
+      "image_url": "https://megaphone.imgix.net/podcasts/ef4e01ee-552f-11f1-a615-fb98f9347fc9/image/f89e85a613a66cc8c494a7bbc2f12a6d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9537859508.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -11964,6 +12072,11 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — 539. Embezzlement, the Mandelson Texts, and Hasan Piker's UK Ban — speakers: Mandelson Texts, Hasan Piker
+- 2026-06-02 — 538. The Pope’s AI Warning and Alastair Reacts to Blair’s Attack
+- 2026-05-28 — Who Funds Reform? The Missing Millions — speakers: Who Funds Reform
+- 2026-05-27 — 537. Indicting Trump, Israeli Prisons, and Rory vs. Ed Miliband — speakers: Ed Miliband, Ben Gvir, Richard Tice
+- 2026-05-26 — 536. Is Trump’s Corruption Machine Reaching New Extremes?
 - 2026-05-21 — Struggling or Snowflakes? The Gen Z Mental Health Story
 - 2026-05-20 — 535. The Ebola Outbreak and the British Far-Right’s Next Move
 - 2026-05-19 — 534. Is Wes Streeting Trying to Sabotage Andy Burnham? — speakers: Wes Streeting Trying, Wes Streeting, Andy Burnham

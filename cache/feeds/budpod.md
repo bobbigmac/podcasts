@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-05-21T20:10:06+00:00`
-- checked_at: `2026-05-21T20:10:06+00:00`
-- etag: `"djEuMi4wOjE3NzkzODI4ODE4MDI="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA1Mjg5OTEyODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-05-21T20:10:06+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,50 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7f336fd5888cd13a54c5c388ae313b40a5a0898d",
+      "title": "S2E51 | Mormon World Cup",
+      "published_at": "2026-06-03T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e51-mormon-world-cup",
+      "description": "Youtube version available here! This week the buds discuss the upcoming World Cup, WhatsApp nostalgia, Pierre's annual tweet, British food and another 'Pheromone' moment! This week's sketch: 'Peppa Pig The Movie' Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! BudPod Live is back! In Bath! Tickets available here - https://komediabath.co.uk/events/128649554-budpod-live-2026-11-03-19-00-00/ Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Pierre is on tour across the UK, Ireland and Netherlands! Tickets available now at https://www.pierrenovellie.com/ Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6a1eebe0335cf85f9ce5d382/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68200571",
+      "itunes_duration": "47:15",
+      "speakers": [
+        "Mormon World Cup Youtube",
+        "World Cup",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "mormon",
+        "world"
+      ]
+    },
+    {
+      "key": "7272a70f77e75498a20c1c753ec5a1538edcfbd0",
+      "title": "S2E50 | Moron Safari",
+      "published_at": "2026-05-27T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e50-moron-safari",
+      "description": "Youtube version available here! This week the buds discuss the 'worst non-violent thing', Cormac McCarthy, 'Hell People' and social media. This week's sketch: 'Dirty Billy Pizza. Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! BudPod Live is back! In Bath! Tickets available here - https://komediabath.co.uk/events/128649554-budpod-live-2026-11-03-19-00-00/ Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Pierre is on tour across the UK, Ireland and Netherlands! Including a headline show at the Leicester Square Theatre on May 28th! Tickets available now at https://www.pierrenovellie.com/ Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6a15d56d6ee822cbfb104d2e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77871107",
+      "itunes_duration": "53:58",
+      "speakers": [
+        "Moron Safari",
+        "Cormac McC",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "moron",
+        "safari"
+      ]
+    },
     {
       "key": "82a24ff13e8c6e1a81d92c19790718ed23071cd6",
       "title": "S2E49 | Late Night Sinister",
@@ -7745,6 +7789,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — S2E51 | Mormon World Cup — speakers: Mormon World Cup Youtube, World Cup, Phil Wang, Pierre Novellie
+- 2026-05-27 — S2E50 | Moron Safari — speakers: Moron Safari, Cormac McC, Phil Wang, Pierre Novellie
 - 2026-05-20 — S2E49 | Late Night Sinister — speakers: Golden Globes, Phil Wang, Pierre Novellie
 - 2026-05-13 — S2E48 | Spider in a Glass — speakers: Phil Wang, Pierre Novellie
 - 2026-05-06 — S2E47 | Solid Loafs — speakers: Solid Loafs, Phil Wang, Pierre Novellie

@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-05-20T09:53:57+00:00`
-- checked_at: `2026-05-20T09:53:57+00:00`
-- last_modified: `Wed, 20 May 2026 07:23:00 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- last_modified: `Wed, 03 Jun 2026 07:21:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-20T09:53:57+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -27,6 +27,54 @@
     "film"
   ],
   "episodes": [
+    {
+      "key": "5d36a5de98113e0dafbbda5a864608a5e1eb1c5c",
+      "title": "Betty Gilpin (Office Romance / GLOW / The Hunt) • #397",
+      "published_at": "2026-06-03T07:21:00+00:00",
+      "link": "https://www.patreon.com/cw/brettgoldstein",
+      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the truly excellent actress BETTY GILPIN ! We join the estimable Betty on road near a present filming location, and it's a pleasure to find her is great spirits and very much up for building an episode for the books. This one's a real treat, classic FTBBW, and a chance to enjoy Betty's company in a different setting to the stage / small / big screen! As always you know much ground is covered, including her author status, having a moon in disdain, screaming an opus at an oncoming tsunami (this is beginning to read like a poem), sharing acting skill with her folks who still form a very loving piece of the puzzle, a stoner past life, the delicate art of trauma farming, the compulsive viewing habits of young ones, owning the 'mad and tired' voice-over style and sharing screen time with Brett, Jennifer Lopez and Amy Sedaris in the upcoming 'Office Romance' (Netflix, June 5th). Oh and a surprise visit in the cabin mid-record too... Enjoy! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! ⁠ IMDB OFFICE ROMANCE GLOW THE HUNT –––––––––– ⁠⁠⁠ BRETT • X ⁠⁠⁠ ⁠⁠⁠ BRETT • INSTAGRAM ⁠⁠⁠ ⁠⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠⁠ ⁠⁠⁠ TED LASSO ⁠⁠⁠ ⁠⁠⁠ SHRINKING ⁠⁠⁠ ⁠⁠⁠ ALL OF YOU ⁠⁠⁠ ⁠⁠⁠ SOULMATES ⁠⁠⁠ ⁠⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/404d0768-5e9d-11f1-9903-77fa02640e8d/image/2f1ccdf4251c97081f306473aec27e5c.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD3780361852.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3739",
+      "speakers": [
+        "Betty Gilpin",
+        "Brett Goldstein"
+      ],
+      "topics": [
+        "betty",
+        "gilpin",
+        "office",
+        "romance",
+        "glow",
+        "hunt"
+      ]
+    },
+    {
+      "key": "acfee83026b41f959bfc8c188e7d2b16717d2d26",
+      "title": "Amy Sedaris (Office Romance / The Mandalorian / BoJack Horseman) • #396",
+      "published_at": "2026-05-27T07:20:00+00:00",
+      "link": "https://www.patreon.com/cw/brettgoldstein",
+      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with the fabulous creator, writer and actor AMY SEDARIS ! A genuinely inexhaustable fountain of light right here with Amy, who is huge fun and totally game for a really enjoyable episode. As an avid appreciator of play acting mixed with that wiggle room for improv, you know it's going to be a free and breezy session with tons of fun but also the proper film stuff we all want (need) to hear, as well as a really nice show of love and support for her brother David - a family who cheer each other on so much. Some really interesting picks here too and a lot of never before mentioned ones. Oh also this episode features what is likely the greatest list of likes in the history of the podcast. You can catch Amy when she stars in Brett's new film 'Office Romance', released on June 5th 2026! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! IMDB IG OFFICE ROMANCE BOJACK HORSEMAN –––––––––– ⁠⁠ BRETT • X ⁠⁠ ⁠⁠ BRETT • INSTAGRAM ⁠⁠ ⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠ ⁠⁠ TED LASSO ⁠⁠ ⁠⁠ SHRINKING ⁠⁠ ⁠⁠ ALL OF YOU ⁠⁠ ⁠⁠ SOULMATES ⁠⁠ ⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5385754e-5908-11f1-b269-ef165bc093f4/image/ca9646955f01ffa9529cde6fdc9a961d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6502848470.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3013",
+      "speakers": [
+        "Amy Sedaris",
+        "Brett Goldstein"
+      ],
+      "topics": [
+        "sedaris",
+        "office",
+        "romance",
+        "mandalorian",
+        "bojack",
+        "horseman"
+      ]
+    },
     {
       "key": "f2db3d58b02f5da0c458f40c62ad9604771a4a0f",
       "title": "Noah Hawley (Fargo / Alien: Earth / Legion) • #395",
@@ -9417,6 +9465,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Betty Gilpin (Office Romance / GLOW / The Hunt) • #397 — speakers: Betty Gilpin, Brett Goldstein
+- 2026-05-27 — Amy Sedaris (Office Romance / The Mandalorian / BoJack Horseman) • #396 — speakers: Amy Sedaris, Brett Goldstein
 - 2026-05-20 — Noah Hawley (Fargo / Alien: Earth / Legion) • #395 — speakers: Noah Hawley, Brett Goldstein
 - 2026-05-13 — Andi Osho • Rewind Classic (Blue Lights / Sex Education / Breeders) — speakers: Brett Goldstein
 - 2026-05-06 — Peter Capaldi (Doctor Who / In The Loop / Criminal Record) • #393 — speakers: Peter Capaldi, Brett Goldstein

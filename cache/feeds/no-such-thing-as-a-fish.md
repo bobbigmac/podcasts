@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-05-25T04:50:57+00:00`
-- checked_at: `2026-05-25T04:50:57+00:00`
-- etag: `W/"77d88dac57faffaf4ad11f85397c72d6"`
-- last_modified: `Sun, 24 May 2026 22:59:00 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `W/"34da4934f88c6dc38e108ff2c7664084"`
+- last_modified: `Fri, 05 Jun 2026 10:03:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-05-25T04:50:57+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,75 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "e780cfbff4a3ef3c915c269ab3f94971f53811c1",
+      "title": "No Such Thing As Chekhov's Volcano",
+      "published_at": "2026-06-04T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8912385",
+      "description": "Greg Foot joins James, Anna and Andy to discuss vision, vacuums, volcanoes and Volvos. Head to nosuchthingasafish.com/Risummer for tickets to our July shows at the Royal Institution! Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Get NordVPN two-year plan + four months extra ➼ https://nordvpn.com/fish It’s risk-free with Nord’s 30-day money-back guarantee. Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
+      "image_url": "https://audioboom.com/i/43680607.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8912385.mp3?modified=1780593670&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3609",
+      "speakers": [
+        "Greg Foot",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "chekhov",
+        "volcano"
+      ]
+    },
+    {
+      "key": "d0be21fb24a55b6d369af209a4ca374c650b2195",
+      "title": "Little Fish: It's Nice To Say Titicaca",
+      "published_at": "2026-05-31T22:59:00+00:00",
+      "link": "https://audioboom.com/posts/8908962",
+      "description": "Anna, Dan and James discuss YOUR facts including Hot Springs and Fat Controllers. Anna astonishes us all by failing to fall for a 2000s pop music hoax. And we name eight more Friend of the Podcast fact custodians. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8908962.mp3?modified=1779984620&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1861",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "nice",
+        "titicaca"
+      ]
+    },
+    {
+      "key": "044e0a927c8518ea39756423f5959d16fb4930b4",
+      "title": "No Such Thing As A Pastronaut",
+      "published_at": "2026-05-28T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8908834",
+      "description": "Dan, James, Anna and Andy discuss kitchen hygiene, a Commander-in-Chief, and NaHCO3. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
+      "image_url": "https://audioboom.com/i/43668734.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8908834.mp3?modified=1779969632&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3402",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "pastronaut"
+      ]
+    },
     {
       "key": "24c7642177823351c936dda6bac3a7d349973fe2",
       "title": "Little Fish: Swallowing A Fabergé Egg",
@@ -291,7 +360,7 @@
       "link": "https://audioboom.com/posts/8890884",
       "description": "Zoe Lyons joins Dan, James and Andy to discuss road runners, sharks and Eddie the Eagle. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43597246.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8890884.mp3?modified=1776378586&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8890884.mp3?modified=1780653698&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3499",
@@ -336,10 +405,10 @@
       "link": "https://audioboom.com/posts/8885210",
       "description": "Anne Miller joins Dan, James and Andy to discuss beans, Blackbeard and Ben Hur. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Head to www.squarespace.com/FISH to save 10% off your first purchase of a website or domain using code FISH.",
       "image_url": "https://audioboom.com/i/43574773.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8885210.mp3?modified=1775742009&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8885210.mp3?modified=1779970738&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3317",
+      "itunes_duration": "3237",
       "speakers": [
         "Anne Miller",
         "Ben Hur",
@@ -16354,6 +16423,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — No Such Thing As Chekhov's Volcano — speakers: Greg Foot, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-05-31 — Little Fish: It's Nice To Say Titicaca — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-05-28 — No Such Thing As A Pastronaut — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-24 — Little Fish: Swallowing A Fabergé Egg — speakers: Fabergé Egg Anna, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-21 — No Such Thing As Uncle Egg — speakers: Anna Ptaszynski, Dan Schreiber, James Harkin, Andrew Hunter Murray
 - 2026-05-17 — Little Fish: Unencumbered By Any Knowledge — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

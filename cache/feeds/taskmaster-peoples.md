@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-05-25T04:50:57+00:00`
-- checked_at: `2026-05-25T04:50:57+00:00`
-- etag: `"10fa24-6529c6d957d7a"`
-- last_modified: `Mon, 25 May 2026 04:01:07 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"11052a-65332414af657"`
+- last_modified: `Mon, 01 Jun 2026 14:46:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-05-25T04:50:57+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c37ede8f98ca90cd866b4c43c02024fcf10ffbdd",
+      "title": "No Kinky Couches - S21, Ep.8",
+      "published_at": "2026-06-01T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "In this week's episode we learn a surprising thing about Kumail, explain conkers to a Canadian and settle a spoon-related debate. Plus, have we witnessed Armando’s most unhinged moment yet? Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/77ef2c32-c00a-4f6c-8e2e-7b946b14a2da.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=77ef2c32-c00a-4f6c-8e2e-7b946b14a2da",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61696449",
+      "itunes_duration": "01:01:01",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "kinky",
+        "couches"
+      ]
+    },
     {
       "key": "8a7dc86163b0729c5cf7c92fb6db8a7d0d888236",
       "title": "Moral About Donuts - S21, Ep.7",
@@ -4553,6 +4573,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-01 — No Kinky Couches - S21, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-05-25 — Moral About Donuts - S21, Ep.7 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-05-18 — Nietzsche Once Said - S21, Ep. 6 — speakers: Jason Mantzoukas, Jenny Eclair, Jack Bernhardt
 - 2026-05-11 — Everybody Blinks - S21, Ep.5 — speakers: Everybody Blinks, Jenny Eclair, Jack Bernhardt

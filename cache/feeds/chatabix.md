@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-05-26T10:17:42+00:00`
-- checked_at: `2026-05-26T10:17:42+00:00`
-- etag: `"djEuMi4wOjE3Nzk3ODgyNjA5Njc="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA2MzMyNzUzOTY="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-05-26T10:17:42+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -30,8 +30,181 @@
   ],
   "episodes": [
     {
+      "key": "eb4f777159d9c177c652b69d08d1c1cec3b48611",
+      "title": "S15 Ep 855 Listener’s Mailbag: Robert Smith and Impressions",
+      "published_at": "2026-06-05T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-855-listeners-mailbag-robert-smith-and-impressions",
+      "description": "In today’s mailbag, there’s messages about growing up living next to Robert Smith, love for Muswell Hill, lunch time darts, some very sweet ‘mundane parenting’ stories, Tesco celeb spots, an impression of David and Joe, a golden moment, a workplace easter egg and gaming on drugs. Happy Friday! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a1840c771443cf04aa29a41/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69842048",
+      "itunes_duration": "29:06",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Robert Smith",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "robert",
+        "smith",
+        "impression"
+      ]
+    },
+    {
+      "key": "ffa5cc88d8f658df7fb648a800f226e7d9852d3a",
+      "title": "S15 Ep 854: Cameo Clips and Joe’s Breakdancing",
+      "published_at": "2026-06-04T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-854-cameo-clips-and-joes-breakdancing",
+      "description": "Amongst the very varied topics on today’s show, David and Joe discuss Cameo clips and whether Chatabix should do them, speedy interactions with fans, The new Micheal Jackson film, Joe’s short-lived love of breakdancing, childhood games with siblings, singing songs on the pod and learning more about The Grateful Dead. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a18405071443cf04aa27d1e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44561554",
+      "itunes_duration": "46:25",
+      "speakers": [
+        "Cameo Clips",
+        "Joe’s Breakdancing Amongst",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "cameo",
+        "clips"
+      ]
+    },
+    {
+      "key": "95f6562e861c6e66bbfc84597ae1b0007978d3b3",
+      "title": "S15 Ep 853: The Soundtrack To My God Awful Life",
+      "published_at": "2026-06-03T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-853-the-soundtrack-to-my-god-awful-life",
+      "description": "First up, there’s some chat about young people’s thoughts on podcasts, fears about becoming irrelevant and a concerning side-effect of weight loss - so all business as usual really. But then the conversation turns to some recent comments that David made about the band Dodgy - and the wheels rapidly start to come off the Chatabus. Needless to say - we love you Dodgy, it was just a bit of ‘ramping it up for the pod’. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a183ff7029c20a5f6e33399/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38705528",
+      "itunes_duration": "40:19",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "soundtrack",
+        "awful",
+        "life"
+      ]
+    },
+    {
+      "key": "139bfe5a06708cef50ac11d079b1c4b86574260e",
+      "title": "S15 Ep 852: Raking Leaves and Making Tea",
+      "published_at": "2026-06-02T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-852-raking-leaves-and-making-tea",
+      "description": "On today’s show, David plays Joe some recordings he made whilst passing by one of the houses he used to garden for in Handcross, West Sussex. So there’s plenty of reminiscing about all that. Then the chat turns to the slightly embarrassing perks of being an actor on a film set. Well, embarrassing for David and Joe at least, as the simple act of being offered cup of tea seems to make them feel very uncomfortable indeed. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a183f978fd07475b56f35ff/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50993528",
+      "itunes_duration": "53:07",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "leaf"
+      ]
+    },
+    {
+      "key": "a9fa46e3d424f14bf7e9dba1a8105df912213427",
+      "title": "S15 Ep 851 Vault Mondays: Guest - Tony Way",
+      "published_at": "2026-06-01T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-851-vault-mondays-guest-tony-way",
+      "description": "In this old show, we chatted to actor Tony Way (After Life, Extras, Game of Thrones) about getting out of auditions, the stress of buying houses, putting on an Essex accent and being manly when the builders are round. First posted sometime in 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a183f0a71443cf04aa20c45/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31121658",
+      "itunes_duration": "32:25",
+      "speakers": [
+        "Tony Way",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "guest",
+        "tony"
+      ]
+    },
+    {
+      "key": "79c53d991927f8b3e5ac0659fbe5a0cf8f962141",
+      "title": "S15 Ep 850 Listener’s Mailbag: Bed Wars and Sting Stories",
+      "published_at": "2026-05-29T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-848-listeners-mailbag-bed-wars-and-sting-stories",
+      "description": "Time to wrap up the week with another look into our mailbag. There’s an Our Little Systems from Australia, some revelations from a golf course greenkeeper, a few quips and jokes, a couple with a funny name, a bed shop turf war and two great stories about encounters with Sting. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a114dc69feea1b67e9f8ea6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71562368",
+      "itunes_duration": "29:49",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "wars",
+        "sting",
+        "stories"
+      ]
+    },
+    {
+      "key": "dbe61571c6231fde676545403b1dcfd72e43d299",
+      "title": "S15 Ep 849: Joe’s Circus Epiphany",
+      "published_at": "2026-05-28T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-847-joes-circus-epiphany",
+      "description": "Joe’s been to see the circus at the Brighton Fringe - and whilst watching the show had a bit of a revelation. Meanwhile, David went with his sister to the Fawlty Towers Dining Experience in London. So as you can imagine, they spend most of the episode catching up on those very two things. It’s showtime!! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a1568e083dd9b6e1194cc20/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84082688",
+      "itunes_duration": "35:02",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "circus",
+        "epiphany"
+      ]
+    },
+    {
+      "key": "9feca1b02367ed8469b15917625e53693165519b",
+      "title": "S15 Ep 848: The Farm Investigation Continues",
+      "published_at": "2026-05-27T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s15-ep-846-the-farm-investigation-continues",
+      "description": "Just when you thought it was all over, now it’s David turn to visit Joe’s sinister farm. Whilst staying with relatives in Susses last week, he realised he was very close to it and jumped at the chance to do his own investigations. And also while there record some video footage. So on today’s pod, he talks Joe through his experience and plays him some of the all-important evidence. And the verdict - well, we’ll let you decide on that… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a1568858ff41815a85b2e7f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "120962048",
+      "itunes_duration": "50:24",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "farm",
+        "investigation"
+      ]
+    },
+    {
       "key": "7e9257c8f4b344042545491e2a17e3b19641877d",
-      "title": "S15 Ep 845: Plodding Podding and Coffee Wagons",
+      "title": "S15 Ep 847: Plodding Podding and Coffee Wagons",
       "published_at": "2026-05-26T02:00:00+00:00",
       "link": "https://shows.acast.com/chatabix/episodes/s15-ep-845-plodding-podding-and-coffee-wagons",
       "description": "Apologies in advance as this one was a bit of a slog, to say the least! David and Joe were feeling very uninspired and really struggled with things to talk about. But they still managed to come up with an hour of chatting - on subjects including toxic incompetence, the Fawlty Towers Dining Experience, owning a coffee wagon, podding from listeners houses, David at Plumpton College, the wonderful Adam Buxton, Comedy Shuffle and the Golden Lobe awards. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
@@ -15069,7 +15242,15 @@
 
 ## Episodes (newest first)
 
-- 2026-05-26 — S15 Ep 845: Plodding Podding and Coffee Wagons — speakers: Joe Wilkinson, David Earl
+- 2026-06-05 — S15 Ep 855 Listener’s Mailbag: Robert Smith and Impressions — speakers: Listener’s Mailbag, Robert Smith, Joe Wilkinson, David Earl
+- 2026-06-04 — S15 Ep 854: Cameo Clips and Joe’s Breakdancing — speakers: Cameo Clips, Joe’s Breakdancing Amongst, Joe Wilkinson, David Earl
+- 2026-06-03 — S15 Ep 853: The Soundtrack To My God Awful Life — speakers: Joe Wilkinson, David Earl
+- 2026-06-02 — S15 Ep 852: Raking Leaves and Making Tea — speakers: Joe Wilkinson, David Earl
+- 2026-06-01 — S15 Ep 851 Vault Mondays: Guest - Tony Way — speakers: Tony Way, Joe Wilkinson, David Earl
+- 2026-05-29 — S15 Ep 850 Listener’s Mailbag: Bed Wars and Sting Stories — speakers: Joe Wilkinson, David Earl
+- 2026-05-28 — S15 Ep 849: Joe’s Circus Epiphany — speakers: Joe Wilkinson, David Earl
+- 2026-05-27 — S15 Ep 848: The Farm Investigation Continues — speakers: Joe Wilkinson, David Earl
+- 2026-05-26 — S15 Ep 847: Plodding Podding and Coffee Wagons — speakers: Joe Wilkinson, David Earl
 - 2026-05-25 — S15 Ep 846 Vault Mondays: Taking A Pee and A Chat With Jaackmaate — speakers: legend Jaackmaate, Joe Wilkinson, David Earl
 - 2026-05-22 — S15 Ep 845 Listeners Mailbag: Spice Girls and Golden Moments — speakers: Joe Wilkinson, David Earl
 - 2026-05-21 — S15 Ep 844: Toby’s Trousers - Part 2 — speakers: Joe Wilkinson, David Earl

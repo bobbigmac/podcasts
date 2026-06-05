@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-05-20T04:36:12+00:00`
-- checked_at: `2026-05-20T04:36:12+00:00`
-- etag: `W/"171d4-DJvDdCSym+KTQ4Q7Kh6H7Q1gKMg"`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `W/"1793e-V81i/fufhpvqx/tq1n+qmTnW2yw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-05-20T04:36:12+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "8ac70a7cab6b87eabd3cb36a5649c239fbc15269",
+      "title": "Could Grogu Survive in the Backrooms? | The Rewind Podcast",
+      "published_at": "2026-06-03T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Could-Grogu-Survive-in-the-Backrooms---The-Rewind-Podcast-e3k9dbv",
+      "description": "This week on The Rewind, Jack is out, so Darren and Marty enlisted Nick and JM8 to come chat about The Mandalorian and Grogu, Backrooms, and everything else they've been watching. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/120943423/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-3%2F99e43dcf-81fa-9289-df27-c6efe7d02385.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "158635040",
+      "itunes_duration": "01:50:09",
+      "speakers": [
+        "Grogu Survive",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "grogu",
+        "backroom",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "b261e7309a3dd1a0ad73cfb63cfecb38b9c613c0",
       "title": "Obsession Rules, Mor(e)tal Kombat, and The Batman Part II Casting | The Rewind Podcast",
@@ -1194,6 +1218,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Could Grogu Survive in the Backrooms? | The Rewind Podcast — speakers: Grogu Survive, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-05-20 — Obsession Rules, Mor(e)tal Kombat, and The Batman Part II Casting | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-05-06 — Previewing the Big Movies of Summer 2026 | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-04-22 — Exit 8 Is the Rare Video Game Movie That Understands Video Games | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva

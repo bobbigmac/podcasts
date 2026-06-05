@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-05-24T08:44:17+00:00`
-- checked_at: `2026-05-24T08:44:17+00:00`
-- etag: `W/"3716a-Iptng5+6vhhJ9GNxBAavkoSb5uM"`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `W/"38259-HczAmrflS+k74N7xqUkGpTuf/yk"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-05-24T08:44:17+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,56 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "5c3cc01c64914d43eb7e71370438db5495067b59",
+      "title": "Summer Game Fest Predictions and Speculation | Firelink Podcast",
+      "published_at": "2026-06-05T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Summer-Game-Fest-Predictions-and-Speculation--Firelink-Podcast-e3kc90k",
+      "description": "This week on Firelink, Nick, KC, and Marty give their thoughts on Tuesday's State of Play showcase before looking forward to this weekend's Summer Game Fest shenanigans. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/121037268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-5%2F8cc93ac1-9283-f3b3-82f8-0ca48d6ec373.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "146606432",
+      "itunes_duration": "01:41:48",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "summer",
+        "game",
+        "fest",
+        "predictions",
+        "speculation",
+        "firelink",
+        "podcast"
+      ]
+    },
+    {
+      "key": "601b26947936819e9db9b54d6e0336b56cc291ea",
+      "title": "Stop Watching This and Go Play Mina the Hollower and 007 First Light | Firelink Podcast",
+      "published_at": "2026-05-29T13:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Stop-Watching-This-and-Go-Play-Mina-the-Hollower-and-007-First-Light--Firelink-Podcast-e3k279m",
+      "description": "This week on Firelink, Nick, KC, and Marty chat about the pair of excellent new releases in Mina the Hollower and 007 First Light, break down the insane price increases on Valve's Steam Deck, and marvel at The Witcher III getting a new expansion 12 years later. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/120707830/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-29%2F55c5b2b8-a9f3-5082-e226-b0e9b9641ffe.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "161793824",
+      "itunes_duration": "01:52:21",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "mina",
+        "hollower",
+        "light",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "60aa4060103381e83567cc24827e20f93821b7dc",
       "title": "Dream Pairings of Developers and IP | Firelink Podcast",
@@ -2833,6 +2883,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-05 — Summer Game Fest Predictions and Speculation | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
+- 2026-05-29 — Stop Watching This and Go Play Mina the Hollower and 007 First Light | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-05-22 — Dream Pairings of Developers and IP | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-05-15 — Mortal Kombat II Impressions, Mixtape’s Ridiculous Drama, and More | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-05-08 — Nintendo's Star Fox Surprise | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu

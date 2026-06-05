@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-05-23T14:02:23+00:00`
-- checked_at: `2026-05-23T14:02:23+00:00`
-- etag: `"djEuMi4wOjE3Nzk1Mzc4MDAxODM="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA0NzEwNzQzNjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-05-23T14:02:23+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,45 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "38c4d353713e381346637751407b257b7ce86980",
+      "title": "Giorgio Locatelli",
+      "published_at": "2026-06-03T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/georgio-locatelli",
+      "description": "Ciao to all of our listeners, and benvenuto to our next guest, the fabulous Italian chef Giorgio Locatelli! We’re so excited to be part of Giorgio's big announcement that he is set to be the new judge on Celebrity Masterchef on BBC One later this year! Mum took up the challenge of cooking for this Michelin star chef, and she even had a helping hand from the master himself. Not only is Giorgio an incredible chef, but he definitely needs his own Italian travel series too - we heard all about the very best places to visit in Italy, food spots in Sicily, where to find the very best olive oil, that his grandparents lived past 100 and you won’t want to miss his tip on how to find the best tinned tomatoes in the supermarket! Thank you for a gorgeous evening Giorgio, we can’t wait to see you in action on Masterchef later in the year. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1780418731033-f6f57a30-2119-4c3e-934a-4a0c1f801dc8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a1efafb335cf85f9ced2e2f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58788048",
+      "itunes_duration": "1:01:14",
+      "speakers": [
+        "Giorgio Locatelli Ciao",
+        "Giorgio Loc"
+      ],
+      "topics": [
+        "giorgio",
+        "locatelli"
+      ]
+    },
+    {
+      "key": "2886fe43a4b5817e7ae747ee5725ce8ec958b4ad",
+      "title": "Jack Rooke",
+      "published_at": "2026-05-27T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/jack-rooke",
+      "description": "We are so happy to be joined by award winning comedy writer Jack Rooke on the podcast this week! Fresh from his BAFTA win for his beautiful comedy series ‘Big Boys’ (and still suffering from a 2 day hangover), Jack joined us for brunch to celebrate the occasion. Jack is in the midst of preparing for the return of his comedy show ‘Good Grief’, and we talked about how comedy helped him with the loss of his dad when he was a teen. We also covered meeting Celie Imrie, rating gifted lasagnes, his love of working in Paris, his dream of Christmas dinner & thanksgiving merged into one meal, and we even get a confession involving Jessie’s mobile number! What a total delight to chat with the fabulous Jack, good luck with the tour! ‘Good Grief’ is touring the UK from August to October, tickets on sale now. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1779813004982-34bdf55c-9961-4f8f-9d07-ab96b32f6242.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a11977c42bb55037b8b2eae/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53039437",
+      "itunes_duration": "55:14",
+      "speakers": [
+        "Jack Rooke"
+      ],
+      "topics": [
+        "jack",
+        "rooke"
+      ]
+    },
     {
       "key": "17af37578694bc048c4d7326e2ad4b65fbc693d6",
       "title": "Ralph Fiennes",
@@ -7140,6 +7179,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Giorgio Locatelli — speakers: Giorgio Locatelli Ciao, Giorgio Loc
+- 2026-05-27 — Jack Rooke — speakers: Jack Rooke
 - 2026-05-20 — Ralph Fiennes — speakers: Ralph Fiennes, David Ha
 - 2026-05-13 — James Graham — speakers: James Graham
 - 2026-05-06 — Nish Kumar — speakers: Nish Kumar

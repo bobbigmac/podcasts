@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-05-25T10:47:24+00:00`
-- checked_at: `2026-05-25T10:47:24+00:00`
-- etag: `"djEuMi4wOjE3Nzk3MDM0MDg3OTY="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA0ODY1NDI2MzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-05-25T10:47:24+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,73 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "074845dd6ae45a565b05fd3d0389fe400bc473cc",
+      "title": "Saving Our Own Skins, with Jamie East",
+      "published_at": "2026-06-03T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/saving-your-own-skins-with-jamie-east",
+      "description": "In today's ep, we are joined by presenter and producer, Jamie East, who gave Hannah and Taylor an education in some dubiously named children's TV shows of the 1970s, as well as the T-shirts of the 1990's which acted as the memes of their day. Jamie also opens the show with a criminal story of naked ambition, before earning his brownie points by helping our hosts shift through the weeds of a criminal tale where the perp deserved more than a handshake from Paul Hollywood. You can check out Jamie's podcast Tales from the Celebrity Trenches head to thecrimedesk.com AND our listeners get a promo code for a 7 day free trial, select the 7-day free trial, click ‘Use a Promo Code’ and add the code: DRUNKWOMEN Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a1da7d4302b9e359cfa6354/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86052344",
+      "itunes_duration": "59:45",
+      "speakers": [
+        "Jamie East",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "skin",
+        "jamie",
+        "east"
+      ]
+    },
+    {
+      "key": "10ad5cfd3b9735b49d60acac8eccda6b4794a88e",
+      "title": "A Bag For Your Finger? With Rosie Turner",
+      "published_at": "2026-05-29T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/a-bag-for-your-finger-with-rosie-turner",
+      "description": "We're back in the studio today, and joined by producer and writer, Rosie Turner, who tells us about a baffling scenario witnessed in A&E, before helping Hannah and Taylor with a crime against literature. Plus, we hear about a crime story from Taylor's life, which plays on a very specific kind of gull-ability. Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a10c7bf42bb55037b61d90c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "82916024",
+      "itunes_duration": "57:34",
+      "speakers": [
+        "Rosie Turner",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "finger",
+        "rosie",
+        "turner"
+      ]
+    },
+    {
+      "key": "b57b1172c2daadbdebd92032336a1ab3f9eb1225",
+      "title": "DWSC LIVE: With Dillie Keane (we need to talk about Kevin)",
+      "published_at": "2026-05-27T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-dillie-keane-ft-kevin",
+      "description": "Here's part two of an incredible night in Oxford, when Hannah and Taylor welcomed the wondrous Dillie Keane on stage. And Dillie didn't arrive alone, as she brought her adorable pup Kevin, who of course stole the show with his adorable antics. But Kevin wasn't the only treasure to feature that evening, as our crime case starts with a shipwreck; plus, a member of the audience tells us about a backstage theft by one barefaced perp. Hannah and Taylor are on tour during the spring and summer of 2026... Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast Don't forget you can get ad free and early access to episodes, video recordings, invitations to live zoom recordings, shout outs and a whole lot more, head to www.patreon.com/drunkwomensolvingcrime Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a1022cf42bb55037b3a212d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74542136",
+      "itunes_duration": "51:45",
+      "speakers": [
+        "Dillie Keane",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "dillie",
+        "keane",
+        "kevin"
+      ]
+    },
     {
       "key": "3427faf44829eea8bc3e35bccaafd9155c99afba",
       "title": "DWSC LIVE: With Hannah Byczkowski",
@@ -11122,6 +11189,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Saving Our Own Skins, with Jamie East — speakers: Jamie East, Hannah George, Taylor Glenn
+- 2026-05-29 — A Bag For Your Finger? With Rosie Turner — speakers: Rosie Turner, Hannah George, Taylor Glenn
+- 2026-05-27 — DWSC LIVE: With Dillie Keane (we need to talk about Kevin) — speakers: Dillie Keane, Hannah George, Taylor Glenn
 - 2026-05-20 — DWSC LIVE: With Hannah Byczkowski — speakers: Hannah Byczkowski, Hannah George, Taylor Glenn
 - 2026-05-15 — A Window into Stuart McPherson — speakers: Stuart McPherson, Hannah George, Taylor Glenn
 - 2026-05-13 — Everything's FINE, with Nataly Aukar — speakers: Nataly Aukar, Hannah George, Taylor Glenn

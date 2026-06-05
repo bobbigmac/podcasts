@@ -2,9 +2,9 @@
 
 - slug: `xbox-casuals-an-xbox-podcast`
 - source: `https://anchor.fm/s/1580e714/podcast/rss`
-- fetched_at: `2026-05-26T10:17:42+00:00`
-- checked_at: `2026-05-26T10:17:42+00:00`
-- etag: `W/"ce3cc-tKVvDKj7Eh/Ua8DMyxUrzYDfaJA"`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `W/"cf7bd-YR+JbtkIKF83DUiysBOXHOltIw8"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.towercasuals.com",
   "description": "Xbox Casuals is a biweekly podcast dedicated to all things Xbox, brought to you by Tower Casuals by Boss Rush Media and the Boss Rush Network. Every other Friday, hosts Corey Dirrig and Josh Finney break down the latest Xbox news, rumors, Game Pass updates, new releases, and more. Tune in for new episodes every other Friday on all major podcast platforms and on the Tower Casuals YouTube channel.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3507693/3507693-1778013671728-43cbd1cefedc1.jpg",
-  "fetched_at": "2026-05-26T10:17:42+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Corey Dirrig",
     "Josh Finney"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c870f3f8ba3e9f2eaa8d01022ea72d14af78b272",
+      "title": "It's Time for XBOX Summer Showcase Predictions",
+      "published_at": "2026-05-29T16:19:20+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/xboxcasuals/episodes/Its-Time-for-XBOX-Summer-Showcase-Predictions-e3k2oho",
+      "description": "The XBOX Summer Showcase is right around the corner, so you know what time it is. This week on Xbox Casuals, Corey Dirrig and Josh Finney discuss the recent news on what's happening at Bungie, Destiny 2, and Marathon Season 2, the discussions surrounding XBOX's major changes internally and what \"tough decisions\" actually means, and what Asha Sharma's first on-stage appearance might look like at the Summer Showcase. They also go through their top 5 predictions for the XBOX Summer Showcase, including Halo 7, Wolfenstein III, Quake, The Coalition's new IP, and the reveal of Project Helix. This and more on Xbox Casuals: An Xbox Podcast. Join our communities: ⁠⁠Boss Rush Community Discord⁠⁠ ⁠⁠Tower Casuals Destiny Discord⁠⁠ Follow our Hosts: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Corey Dirrig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , Founder of Boss Rush Media, ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tower Casuals: The Destiny Podcast⁠,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and the ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Boss Rush Network⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Josh Finney⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , cofounder and cohost of ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tower Casuals: The Destiny Podcast⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ .",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3507693/3507693-1780071527329-1f6b1c5b84545.jpg",
+      "enclosure_url": "https://anchor.fm/s/1580e714/podcast/play/120725496/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-29%2F20cb0481-380a-1b3b-e4fc-74e5d2a20abd.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106204911",
+      "itunes_duration": "01:28:30",
+      "speakers": [
+        "Summer Showcase",
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
+      "topics": [
+        "time",
+        "xbox",
+        "summer",
+        "showcase",
+        "prediction"
+      ]
+    },
     {
       "key": "9d37e0ab95951ae8cc5531cd4851677ca83330a4",
       "title": "The Death of Xbox Copilot, Leadership Changes, and 007: First Light",
@@ -5221,6 +5245,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-29 — It's Time for XBOX Summer Showcase Predictions — speakers: Summer Showcase, Corey Dirrig, Josh Finney
 - 2026-05-08 — The Death of Xbox Copilot, Leadership Changes, and 007: First Light — speakers: Leadership Changes, Corey Dirrig, Josh Finney
 - 2026-04-24 — Xbox Game Pass Gets Cheaper As Call of Duty Exits — speakers: Gets Cheaper, Corey Dirrig, Josh Finney
 - 2026-03-27 — Epic Games Lays Off 1000 Employees as Industry Continues Its Spiral — speakers: Corey Dirri, Corey Dirrig, Josh Finney

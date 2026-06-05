@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-05-21T04:43:37+00:00`
-- checked_at: `2026-05-21T04:43:37+00:00`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 21 May 2026 04:08:22 GMT`
+- last_modified: `Thu, 04 Jun 2026 04:08:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-21T04:43:37+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -28,16 +28,56 @@
   ],
   "episodes": [
     {
+      "key": "f7ab4b0f78bd537b45d4be3a513bb08dabbb8da4",
+      "title": "Kiri Pritchard-McLean",
+      "published_at": "2026-06-04T04:00:00+00:00",
+      "link": null,
+      "description": "This week I was joined in my Pottering patch by the glorious Kiri Pritchard-McLean ! Stand up comedian, podcaster and all round delight, I’ve known Kiri for a long time so it was such a joy to catch up. 🌸 🐓🌾 Straight from the countryside in her transit van, Kiri arrived with tales of dead rats, learning from the past in her own farming adventures, and her wonderful fostering work. There is also a rather lovely memory involving a stripper in my mum and dad’s kitchen. Ah, wonderful times. Now, pop that kitten back in its box, grab your favourite plant based snack, and come Pottering with us. 🐈 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bf46165a-59e7-11f1-bb08-eb8d9463d52c/image/b69707675795adb6de28d4737f282621.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4745328421.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2954",
+      "speakers": [
+        "Kiri Pritchard",
+        "Tom Allen"
+      ],
+      "topics": [
+        "kiri",
+        "pritchard",
+        "mclean"
+      ]
+    },
+    {
+      "key": "11141db0567a36d03d4de6926cd3b6a780c9648d",
+      "title": "Sara Cox",
+      "published_at": "2026-05-28T04:00:00+00:00",
+      "link": null,
+      "description": "The superb Sara Cox joins me this week for another day of sun in the garden! ☀️🌻 Presenter, author and radio extraordinaire, Sara is such a joyful and calming presence, and we had a glorious time chatting about everything from the Radio 1 fax machine to the backside of a bird, and, the sometimes rather arousing, writing process. 👀 Sara’s new book The Truth of Us is available to preorder now, and we'll soon all be waking up to a nice cup of tea, perhaps an omelette, and the Sara Cox Radio 2 Breakfast Show! What a treat! ☕🍳 🌷 So, skip the marathon training for today, pop the kettle on, and let’s go Pottering. 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ddf21ce0-59d6-11f1-a439-cb39c26fac7d/image/fd8d0ae4ae5e1c17351ecdfd5c030635.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2528430260.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3873",
+      "speakers": [
+        "Sara Cox",
+        "Tom Allen"
+      ],
+      "topics": [
+        "sara"
+      ]
+    },
+    {
       "key": "78c44e0a5482f8d230006a4e6c2b8487f9047d57",
       "title": "Laura Checkley",
       "published_at": "2026-05-21T04:00:00+00:00",
       "link": null,
-      "description": "This week we welcomed the wonderful Laura Checkley in to the garden! A glorious actor and brilliantly funny, you’ll know Laura from King Gary , Action Team, Screw, Detectorists and, well, so many things besides! 🎬 🪴 We chat firing guns in Bulgaria, neighbourhood Facebook groups and what growing up gay did to our wardrobes. My bathroom birdsong also gets another mention, what a successful purchase that has turned out to be! 🐦‍⬛ So, stick on that little beanie hat, grab yourself some chicken wings and let’s go Pottering. 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. 🌷 Please do like and subscribe as they say! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "This week we welcomed the wonderful Laura Checkley in to the garden! A glorious actor and brilliantly funny, you’ll know Laura from King Gary , Action Team, Screw, Detectorists and, well, so many things besides! 🎬 🪴 We chat firing guns in Bulgaria, neighbourhood Facebook groups and what growing up gay did to our wardrobes. My bathroom birdsong also gets another mention, what a successful purchase that has turned out to be! 🐦‍⬛ So, stick on that little beanie hat, grab yourself some chicken wings and let’s go Pottering. 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. 🌷 Please do like and subscribe as they say! 🌎 Get an exclusive 15% discount on your first Saily data plans! Use code tomallen at checkout. Download Saily app or go to to https://saily.com/tomallen⛵ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/cb911eb4-5442-11f1-8430-3f039188c25f/image/e99be7868983ba1ddb0547825153b5a4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/NSR4535655966.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3578",
+      "itunes_duration": "3638",
       "speakers": [
         "Laura Checkley",
         "Tom Allen"
@@ -768,6 +808,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — Kiri Pritchard-McLean — speakers: Kiri Pritchard, Tom Allen
+- 2026-05-28 — Sara Cox — speakers: Sara Cox, Tom Allen
 - 2026-05-21 — Laura Checkley — speakers: Laura Checkley, Tom Allen
 - 2026-05-14 — Alan Carr — speakers: Alan Carr, Tom Allen
 - 2026-05-07 — Cariad Lloyd — speakers: Cariad Lloyd, Tom Allen

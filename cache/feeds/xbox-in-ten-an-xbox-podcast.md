@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-05-25T04:50:57+00:00`
-- checked_at: `2026-05-25T04:50:57+00:00`
-- etag: `"08e65f6e646b3fb1b577b359874e0078"`
-- last_modified: `Mon, 25 May 2026 04:19:33 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"68effb94ebc9e4231a6a38b7470857cd"`
+- last_modified: `Mon, 01 Jun 2026 04:17:57 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-05-25T04:50:57+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "3c91e51c9cd1da8c1bfa68f505c1c27148477e41",
+      "title": "Xbox Delays Fable To February 2027 - (Xbox In Ten: An Xbox Podcast - Ep. 366)",
+      "published_at": "2026-06-01T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-delays-fable-to-february-2027-xbox-in-ten-an-xbox-podcast-ep-366",
+      "description": "Week of: 5-25-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/1/0/1/b/101b06a70b1dce2916c3140a3186d450/366.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/366.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "17280976",
+      "itunes_duration": "12:13",
+      "speakers": [
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "delays",
+        "fable",
+        "february",
+        "podcast"
+      ]
+    },
     {
       "key": "2e6ea5d7cabb9241c6c1796fea2191be6ce71ad1",
       "title": "Major Xbox Leadership Hires to Strengthen Console Brand - (Xbox In Ten: An Xbox Podcast - Ep. 365)",
@@ -9195,6 +9219,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-01 — Xbox Delays Fable To February 2027 - (Xbox In Ten: An Xbox Podcast - Ep. 366) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-05-25 — Major Xbox Leadership Hires to Strengthen Console Brand - (Xbox In Ten: An Xbox Podcast - Ep. 365) — speakers: Xbox Leadership Hires, Console Brand, Brandon Rosa
 - 2026-05-18 — Xbox Is Rebranding to XBOX? - (Xbox In Ten: An Xbox Podcast - Ep. 364) — speakers: Brandon Rosa
 - 2026-05-11 — Xbox News Recap: New North Star, Project Helix, AI, and More! - (Xbox In Ten: An Xbox Podcast - Ep. 363) — speakers: Project Helix, Brandon Rosa

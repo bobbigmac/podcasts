@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-05-26T04:34:08+00:00`
-- checked_at: `2026-05-26T04:34:08+00:00`
-- last_modified: `Mon, 25 May 2026 23:10:11 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- last_modified: `Fri, 05 Jun 2026 14:24:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-26T04:34:08+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,79 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5ad98d0990ef0ce38bf8df71107a0f70ee003300",
+      "title": "Hot Chip Aftermath, WhatsApp Groups and Holding Grudges",
+      "published_at": "2026-06-04T23:01:00+00:00",
+      "link": null,
+      "description": "Is it OK to wave at strangers in the street? Should you confront people about secret WhatsApp groups? Should we have done the hot chip challenge before recording another episode? Probably not. Will Tom survive this episode? You’re about to find out… Send your questions, dilemmas and voice notes to wolfowlpod@gmail.com and don’t forget to like and subscribe friends! A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 01:33 Waving 05:11 WhatsApp groups 10:44 Overthinking interactions 16:20 Holding grudges Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/481f4afc-5dc9-11f1-ad0a-275eb2dedbae/image/096cb135866062e82cbd77782a94d985.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2850158941.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1333",
+      "speakers": [
+        "Hot Chip Aftermath",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "chip",
+        "aftermath",
+        "whatsapp",
+        "groups",
+        "holding",
+        "grudges"
+      ]
+    },
+    {
+      "key": "4ce5507714021efa0ca9e4dc90398769744e277a",
+      "title": "Hot Chip Challenge, Bathroom Habits and Amanda Holden",
+      "published_at": "2026-06-01T23:01:00+00:00",
+      "link": null,
+      "description": "Can Tom and Romesh survive the Hot Chip challenge? Watch to find out… Plus, what is Tom’s signature dish and why should you never be in the kitchen with Rom? How many times should you go to the bathroom and do we need to get more sleep? Also, why does Tom sniff sweaty shorts? We’re ready to rock! Don’t forget to like and subscribe and get in touch with us at wolfowlpod@gmail.com A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 00:43 Supermarket shopping 04:24 Home cooking 06:16 Tom’s soufflé 12:09 Bathroom habits 16:08 Bugsy Malone 21:15 Sleeping problems 31:35 Young love 35:41 Hot chip challenge 39:35 Know your limits Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f8785848-5da7-11f1-8b3f-fb268a2c408f/image/133a39e4b78a735219f2f7f8608c53d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6183426144.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2641",
+      "speakers": [
+        "Amanda Holden",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "chip",
+        "challenge",
+        "bathroom",
+        "habits",
+        "amanda",
+        "holden"
+      ]
+    },
+    {
+      "key": "f2116485616c6002e3406627d291f337f8133e8b",
+      "title": "In-Laws, FOMO and Thierry Henry",
+      "published_at": "2026-05-28T23:01:00+00:00",
+      "link": null,
+      "description": "Who is the alpha male between Tom and Romesh? What happened after Romesh’s childhood reunion on Michael McIntyre’s Big Show? Who else has Tom been texting and why does he think about Romesh in bed? Plus, should we get special guests on the pod? Don’t forget to just do you and send us your, questions, queries and funny photos and videos to us at wolfowlpod@gmail.com A Ranga Bee Production in partnership with Platform Media. Chapters 🎬 00:00 Intro 01:06 In-law opinions 10:50 Dylan and Michael McIntrye 16:28 Thierry Henry 18:01 Late 20s and hobbies 22:52 Life FOMO Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8977624611.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1783",
+      "speakers": [
+        "Thierry Henry Who",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "laws",
+        "fomo",
+        "thierry",
+        "henry"
+      ]
+    },
     {
       "key": "25ebf4a23078e8f13ffb5b78b565ac3543e40989",
       "title": "Timothée Chalamet, Ewoks and How To Interview",
@@ -627,7 +700,7 @@
       "link": null,
       "description": "We’re talking… Tom at Rom’s Women In Mind press night, the greatness of Sheridan Smith, maintaining concentration on stage, New Year’s resolutions, an epic Christmas dinner, Tom taking on Gordon Ramsay in the kitchen, trading card auctions, Pokemon Go, an update on Buzz’s girlfriend in Home Alone, Stranger Things, watching scary films as a kid and some controversial comments about landlines and soft-play. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM9213661096.mp3?updated=1767896745",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9213661096.mp3?updated=1779987120",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3722",
@@ -649,12 +722,12 @@
       "title": "S4 Ep 52: Live Tour Highlights Pt 2 - Manchester",
       "published_at": "2025-12-31T03:00:00+00:00",
       "link": null,
-      "description": "It’s the second part of our Live Tour best bits - and this time it’s the Manchester Opera House! This was our final show of the tour and topics discussed included parents evenings, schoolboy pranks, dogs and stinging nettles, a Royal Variety Performance, meeting De La Soul and being contestants on The Traitors and MAFS. Thanks so much to everyone who came to all the shows, you were amazing! Recorded on 20th November For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s the second part of our Live Tour best bits - and this time it’s the Manchester Opera House! This was our final show of the tour and topics discussed included parents evenings, schoolboy pranks, dogs and stinging nettles, a Royal Variety Performance, meeting De La Soul and being contestants on The Traitors and MAFS. Thanks so much to everyone who came to all the shows, you were amazing! For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM8052232708.mp3?updated=1766484400",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8052232708.mp3?updated=1779986807",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2615",
+      "itunes_duration": "2645",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -670,9 +743,9 @@
       "title": "S4 Ep 51: ’Twas The Pod Before Christmas",
       "published_at": "2025-12-24T03:00:00+00:00",
       "link": null,
-      "description": "It’s Christmas Eve and the Wolf & Owl are here to kick off your holiday celebrations in style! We’re talking… Rom starting his new West End play, performance nerves and thespian vibes, Tom the nomad, neighbourhood ‘full-fibre’ issues, lost luggage on a festive family trip to Vienna, too many hot dogs at the Christmas market, getting old, bifocal glasses and some classic Christmas films. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s Christmas Eve and the Wolf & Owl are here to kick off your holiday celebrations in style! We’re talking… Rom starting his new West End play, performance nerves and thespian vibes, Tom the nomad, neighbourhood ‘full-fibre’ issues, lost luggage on a festive family trip to Vienna, too many hot dogs at the Christmas market, getting old, bifocal glasses and some classic Christmas films. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM2409632501.mp3?updated=1766481157",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2409632501.mp3?updated=1779986506",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3295",
@@ -689,9 +762,9 @@
       "title": "S4 Ep 50: Live Tour Highlights Pt 1 - Glasgow",
       "published_at": "2025-12-17T03:00:00+00:00",
       "link": null,
-      "description": "Yes that’s right - it’s the first of two shows featuring highlights from the Wolf & Owl Live Tour. And first up, it’s The Pavilion Theatre in Glasgow! Amongst all the on-stage antics, there’s chat about Scotch eggs and French kissing, a rowdy fox in Tom’s back garden, the problems of having people over for dinner and making a new American friend after the show. Thanks to the amazing people of Glasgow for making it such a special night! Recorded on 18th Oct 2025 Part 2 will be coming to you on New Years Eve… For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Yes that’s right - it’s the first of two shows featuring highlights from the Wolf & Owl Live Tour. And first up, it’s The Pavilion Theatre in Glasgow! Amongst all the on-stage antics, there’s chat about Scotch eggs and French kissing, a rowdy fox in Tom’s back garden, the problems of having people over for dinner and making a new American friend after the show. Thanks to the amazing people of Glasgow for making it such a special night! Part 2 will be coming to you on New Years Eve… For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM4630456473.mp3?updated=1765911961",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4630456473.mp3?updated=1779985914",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2798",
@@ -710,9 +783,9 @@
       "title": "S4 Ep 49: An Email Extravaganza!",
       "published_at": "2025-12-10T03:00:00+00:00",
       "link": null,
-      "description": "As we’ve been neglecting the listener’s emails a bit recently, this week we’re dedicating a whole episode to them. But first up, there’s a chat about our decreasing metal sharpness, Dwayne Johnson’s fitness regime and Tom’s new hotel ghost. Then we read messages about some dog poo detective work, tips on meeting a new parter (plus a brief lesson in quantum mechanics) and what one question would you ask an alien. Well, we may have only manage three - but they’re all corkers! For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "As we’ve been neglecting the listener’s emails a bit recently, this week we’re dedicating a whole episode to them. But first up, there’s a chat about our decreasing metal sharpness, Dwayne Johnson’s fitness regime and Tom’s new hotel ghost. Then we read messages about some dog poo detective work, tips on meeting a new parter (plus a brief lesson in quantum mechanics) and what one question would you ask an alien. Well, we may have only manage three - but they’re all corkers! For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM3752899022.mp3?updated=1765300678",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3752899022.mp3?updated=1779985571",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3471",
@@ -730,9 +803,9 @@
       "title": "S4 Ep 48: Celebrity Warhammer & A Birthday Cake Calamity",
       "published_at": "2025-12-03T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Drake and Kim Kardashian playing Dungeons & Dragons, Henry Cavill’s Warhammer obsession, stressful Lego builds, The Simpsons and Friends golden eras, Back To The Future on the What Went Wrong podcast, Sloth from the Goonies, Forrest Gump in Philadelphia, Grace’s big birthday party, a unicorn cake disaster, Tom Fletcher’s songs for the Paddington musical, a Royal Variety Performance, the brilliant Nick Helm and winter work-out struggles. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Drake and Kim Kardashian playing Dungeons & Dragons, Henry Cavill’s Warhammer obsession, stressful Lego builds, The Simpsons and Friends golden eras, Back To The Future on the What Went Wrong podcast, Sloth from the Goonies, Forrest Gump in Philadelphia, Grace’s big birthday party, a unicorn cake disaster, Tom Fletcher’s songs for the Paddington musical, a Royal Variety Performance, the brilliant Nick Helm and winter work-out struggles. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM8732432037.mp3?updated=1764708283",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8732432037.mp3?updated=1779985189",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3617",
@@ -755,9 +828,9 @@
       "title": "S4 Ep 47: The Big Questions & See Through Blinds",
       "published_at": "2025-11-27T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Tom’s new laptop, clean toilets and dirty tongues, big questions about the natural world, some philosophy on perception, reading books, saying hello to Bill Nighy, a sad encounter on a train, see through hotel blinds and a peeping Tom, being a vegan in prison, appropriate breakfast footwear, showing socks off and skinny jeans fashion. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Tom’s new laptop, clean toilets and dirty tongues, big questions about the natural world, some philosophy on perception, reading books, saying hello to Bill Nighy, a sad encounter on a train, see through hotel blinds and a peeping Tom, being a vegan in prison, appropriate breakfast footwear, showing socks off and skinny jeans fashion. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM2240430414.mp3?updated=1764177621",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2240430414.mp3?updated=1779984516",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3375",
@@ -775,12 +848,12 @@
       "title": "S4 Ep 46: Theatre Rom & Cranston Pickle",
       "published_at": "2025-11-19T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… overnight flights and beating jet-lag, interviewing the brilliant Bryan Cranston, introducing theatre Rom, backstage meet-ups with West End stars, messing up on mufti day, hugging David Gandy, Tom’s top ten men to kiss, acting with Lenny Rush, a very aggressive incident at a corporate gig and some humble behaviour at the recent Eubank v Benn boxing match. Plus, we read emails offering some merch advice and a question about not being invited to a party. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… overnight flights and beating jet-lag, interviewing the brilliant Bryan Cranston, introducing theatre Rom, backstage meet-ups with West End stars, messing up on mufti day, hugging David Gandy, Tom’s top ten men to kiss, acting with Lenny Rush, a very aggressive incident at a corporate gig and some humble behaviour at the recent Eubank v Benn boxing match. Plus, we read emails offering some merch advice and a question about not being invited to a party. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM1499010944.mp3?updated=1763477426",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1499010944.mp3?updated=1779984065",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3878",
+      "itunes_duration": "3966",
       "speakers": [
         "Bryan Cranston",
         "Romesh Ranganathan",
@@ -797,9 +870,9 @@
       "title": "S4 Ep 45: The Falafel Guy & Christmas Adverts",
       "published_at": "2025-11-12T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… North American travels, huge expresso cups, audition tape anxieties, Tom’s Work In Progress shows, catering concerns and becoming ‘the falafel guy’, combating neediness when performing, our take on the new John Lewis Christmas advert and a follow up on lasts week’s childhood memories of the Streatham McDonalds. Plus, we answer emails about Rom using Tom’s impression of him in an advert and advice on parenting in the internet age. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… North American travels, huge expresso cups, audition tape anxieties, Tom’s Work In Progress shows, catering concerns and becoming ‘the falafel guy’, combating neediness when performing, our take on the new John Lewis Christmas advert and a follow up on lasts week’s childhood memories of the Streatham McDonalds. Plus, we answer emails about Rom using Tom’s impression of him in an advert and advice on parenting in the internet age. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM4652480602.mp3?updated=1762878341",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4652480602.mp3?updated=1779983171",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3655",
@@ -815,35 +888,13 @@
       ]
     },
     {
-      "key": "e5d235b8d1d14c834c364c6c0ac12d169cd52413",
-      "title": "S4 Ep 44: Wagyu Burgers & Rom in NYC",
-      "published_at": "2025-11-05T03:00:00+00:00",
-      "link": null,
-      "description": "We’re talking… Gordon Ramsey’s Burger King collaboration, fast food attitudes, Ray Liotta at the Sutton Pizza Hut, forgotten hand luggage on Rom’s trip to New York, social posts, big shop bust ups, amazing vegan steaks, Tom in The Reluctant Vampire, Rom’s West End theatre debut and a very successful Halloween party. Plus, an old ‘Rom Wasn’t Built In A Day’ Edinburgh show poster and a question about what it’s like to be a celebrity. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM9039662188.mp3?updated=1762326430",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3503",
-      "speakers": [
-        "Gordon Ramsey",
-        "Ray Liotta",
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "wagyu",
-        "burgers"
-      ]
-    },
-    {
       "key": "d8f8a352593f9ee2a439d4ead303db2efc6eec60",
       "title": "S4 Ep 43: Live at London’s Hackney Empire",
       "published_at": "2025-10-31T03:00:00+00:00",
       "link": null,
-      "description": "While the Wolf & Owl prepare to wrap their first-ever live tour, here’s some of the best bits from our two shows at London’s Hackney Empire! There’s chat about Tom’s plans to reunite David and Brooklyn Beckham, Rom’s problems with buying football boots for his son, a very special story about a hero who raced to the rescue at a National Trust cafe and some on-stage samosa mayhem too. Thanks to everyone who came to all the shows so far - we love you! Recorded on 7 & 8 October 2025 For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "While the Wolf & Owl prepare to wrap their first-ever live tour, here’s some of the best bits from our two shows at London’s Hackney Empire! There’s chat about Tom’s plans to reunite David and Brooklyn Beckham, Rom’s problems with buying football boots for his son, a very special story about a hero who raced to the rescue at a National Trust cafe and some on-stage samosa mayhem too. Thanks to everyone who came to all the shows so far - we love you! For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM4680174096.mp3?updated=1761935445",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4680174096.mp3?updated=1779982160",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4812",
@@ -862,9 +913,9 @@
       "title": "S4 Ep 42: AITA Bonus Show",
       "published_at": "2025-10-22T02:00:00+00:00",
       "link": null,
-      "description": "After a busy weekend on the Wolf & Owl Live tour eating far too many donuts, followed by numerous Work In Progress shows in London and Crawley, it’s a slightly weary Rom and Tom who join us this week. They also quickly realise that having spent so much time together, there’s not much chatting for them to catch up on. So instead of the usual shenanigans, they settle back and tackle some ‘Am I The Asshole’ dilemmas that have been sent in by listeners. It’s a AITA extravaganza- enjoy! Usual service will resume next week… For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "After a busy weekend on the Wolf & Owl Live tour eating far too many donuts, followed by numerous Work In Progress shows in London and Crawley, it’s a slightly weary Rom and Tom who join us this week. They also quickly realise that having spent so much time together, there’s not much chatting for them to catch up on. So instead of the usual shenanigans, they settle back and tackle some ‘Am I The Asshole’ dilemmas that have been sent in by listeners. It’s a AITA extravaganza- enjoy! Usual service will resume next week… For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM7882503583.mp3?updated=1761074989",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM7882503583.mp3?updated=1779981752",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2464",
@@ -881,9 +932,9 @@
       "title": "S4 Ep 41: Auditions & Am I The A**hole",
       "published_at": "2025-10-15T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… microphone checks, Rom’s weary laptop, Eon Musk, Tom as a James Bond villain, manifesting for movie auditions, the path to true enlightenment, two great nights at the Hackney Empires and the wonderful Aisling Bea joining us for our show in Dublin. Plus, we play a few rounds of ‘Am I The Asshole?’, do some more planning for our stay in a haunted house, and answer emails about the Six Seven meme and advice on turning 50. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… microphone checks, Rom’s weary laptop, Eon Musk, Tom as a James Bond villain, manifesting for movie auditions, the path to true enlightenment, two great nights at the Hackney Empires and the wonderful Aisling Bea joining us for our show in Dublin. Plus, we play a few rounds of ‘Am I The Asshole?’, do some more planning for our stay in a haunted house, and answer emails about the Six Seven meme and advice on turning 50. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM6110662667.mp3?updated=1760455541",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6110662667.mp3?updated=1779981445",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3810",
@@ -901,12 +952,12 @@
       "title": "S4 Ep 40: Back Chat & Extreme Manspreading",
       "published_at": "2025-10-08T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… running thin on material, under-promoted performances, desperate Insta videos, an amazing live show in Birmingham (thanks to all that came!), owl jokes, Tom’s back injury controversy and a grilling from a Daily Mail journalist about it, an extreme case of manspreading on a plane and rowdy behaviour on flights. Plus, some background info on the Thundercats and an email question about cheek-kissing in dreams. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… running thin on material, under-promoted performances, desperate Insta videos, an amazing live show in Birmingham (thanks to all that came!), owl jokes, Tom’s back injury controversy and a grilling from a Daily Mail journalist about it, an extreme case of manspreading on a plane and rowdy behaviour on flights. Plus, some background info on the Thundercats and an email question about cheek-kissing in dreams. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM4192895967.mp3?updated=1759855855",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4192895967.mp3?updated=1779980370",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2817",
+      "itunes_duration": "2832",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -922,12 +973,12 @@
       "title": "S4 Ep 39: Oasis Highs, MAFS Beef & A Fiery Burrito",
       "published_at": "2025-10-01T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Tom's amazing night at the Oasis concert, Josh Widdicombe’s Liam Gallagher strut, speedy toilet trips, a very loud audience burp, Rom’s War Child charity dinner with Olivia Coleman and John Lithgow, new tattoos, a problematic couple on the new series of MAFS, Tom’s very spicy burrito and a massive thanks to all those who came to our first live tour show in Belfast. Plus, emails about filming TV pilots and a very embarrassed audience member. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Tom's amazing night at the Oasis concert, Josh Widdicombe’s Liam Gallagher strut, speedy toilet trips, a very loud audience burp, Rom’s War Child charity dinner with Olivia Coleman and John Lithgow, new tattoos, a problematic couple on the new series of MAFS, Tom’s very spicy burrito and a massive thanks to all those who came to our first live tour show in Belfast. Plus, emails about filming TV pilots and a very embarrassed audience member. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM2889431114.mp3?updated=1759248509",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2889431114.mp3?updated=1779979935",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3735",
+      "itunes_duration": "3765",
       "speakers": [
         "Fiery Burrito",
         "Josh Widdicombe",
@@ -949,9 +1000,9 @@
       "title": "S4 Ep 38: Wine Gifts & Chat Shows",
       "published_at": "2025-09-24T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… horny house-guests, dish washing techniques, the perils of bringing a bottle of wine to a party, non-alcoholic alternatives at football matches, Rom’s new chat show and Can’t Knock The Hustle documentary, awkward photo shoots and a silk worm in Crawley. Then we answer email questions about the appropriate time to start sharing pictures of a new partner, alternative careers and how Rom and Tom would cope as firefighters. Plus, a very special archive audio recording from when Rom was a school teacher. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… horny house-guests, dish washing techniques, the perils of bringing a bottle of wine to a party, non-alcoholic alternatives at football matches, Rom’s new chat show and Can’t Knock The Hustle documentary, awkward photo shoots and a silk worm in Crawley. Then we answer email questions about the appropriate time to start sharing pictures of a new partner, alternative careers and how Rom and Tom would cope as firefighters. Plus, a very special archive audio recording from when Rom was a school teacher. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM6264118002.mp3?updated=1758647180",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM6264118002.mp3?updated=1779979475",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3725",
@@ -970,9 +1021,9 @@
       "title": "S4 Ep 37: Body Aches & Hair Transplants",
       "published_at": "2025-09-17T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… fake enthusiasm, Rom’s ‘Doug’ tendencies, Tom’s aching body concerns, over sharing on social media, guesting on Zoe Ball’s Radio 2 show, ball-bag routines, plastic surgery and hair transplants, wearing cardigans, fashion faux pas and the prospect of trying out a very odd version of the preppy look at our upcoming Belfast gig. Plus, we answer email questions about getting out of an unhealthy relationship and helping out your partner with their work issues. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… fake enthusiasm, Rom’s ‘Doug’ tendencies, Tom’s aching body concerns, over sharing on social media, guesting on Zoe Ball’s Radio 2 show, ball-bag routines, plastic surgery and hair transplants, wearing cardigans, fashion faux pas and the prospect of trying out a very odd version of the preppy look at our upcoming Belfast gig. Plus, we answer email questions about getting out of an unhealthy relationship and helping out your partner with their work issues. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM4645706290.mp3?updated=1758122871",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4645706290.mp3?updated=1779979077",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4065",
@@ -993,12 +1044,12 @@
       "title": "S4 Ep 36: Curry Gifts & A Meditation Cushion",
       "published_at": "2025-09-10T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Rom’s very busy week, Radio 2 In The Park, late-night hotel snacks, a curry feast from the neighbours, Tom’s 100 press-up challenge, on stage with Bucks Fizz and Jay-Z, being embarrassingly bad at pool, awkward photo requests, a private pool controversy, Rom’s new mediation cushion and some back-pedalling about ketchup with samosas. Plus, an apologetic email about missing one of Tom’s gigs to finish making a flat-packed cabinet. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Rom’s very busy week, Radio 2 In The Park, late-night hotel snacks, a curry feast from the neighbours, Tom’s 100 press-up challenge, on stage with Bucks Fizz and Jay-Z, being embarrassingly bad at pool, awkward photo requests, a private pool controversy, Rom’s new mediation cushion and some back-pedalling about ketchup with samosas. Plus, an apologetic email about missing one of Tom’s gigs to finish making a flat-packed cabinet. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM8145313078.mp3?updated=1757439184",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8145313078.mp3?updated=1779978352",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3721",
+      "itunes_duration": "3751",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -1011,38 +1062,16 @@
       ]
     },
     {
-      "key": "7ff3cf6e181a5cfa9361ec46cc1f2b09b6253052",
-      "title": "S4 Ep 35: Meat Feasts & Mango Chutney",
-      "published_at": "2025-09-04T02:00:00+00:00",
-      "link": null,
-      "description": "We’re talking… filming the last ever series of ALOTO, dealing with a bad performance (even though it wasn’t), an excessively meat-heavy Chinese feast, samosas and ketchup, mango chutney with absolutely everything, comedian/condiment comparisons, bad meals and how best to complain in a restaurant. Plus, our right to reply on some joke complaints and we answer email questions on Tom’s Rom impressions, a super-strong prostate, the new Southpark character and using real people in our comedy. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM2851172025.mp3?updated=1756919635",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3788",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "meat",
-        "feasts",
-        "mango",
-        "chutney"
-      ]
-    },
-    {
       "key": "e300f57acb48836403d8b08e3a4073db9a824b87",
       "title": "S4 Ep 34: A Pool Poo & Slow Jet Skiing",
       "published_at": "2025-08-27T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… the Davis family’s last day in Portugal, a new phone-use rule, a poo in the pool at Tom’s hotel and several days of civil unrest, Rom’s new Tom voice, a full debrief on last week’s Beckett and Ranganathan lunch, GCSE results day, a very slow jet ski ride, the end of Rangaball and some questionable urinal behaviour. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… the Davis family’s last day in Portugal, a new phone-use rule, a poo in the pool at Tom’s hotel and several days of civil unrest, Rom’s new Tom voice, a full debrief on last week’s Beckett and Ranganathan lunch, GCSE results day, a very slow jet ski ride, the end of Rangaball and some questionable urinal behaviour. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM8878928049.mp3?updated=1756223199",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8878928049.mp3?updated=1779977626",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3254",
+      "itunes_duration": "3314",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -1058,9 +1087,9 @@
       "title": "S4 Ep 33: The Summer Holiday Edition",
       "published_at": "2025-08-20T02:00:00+00:00",
       "link": null,
-      "description": "With Rom in Majorca and Tom in Portugal at the moment, it’s a proper summer holiday special of the pod this week. So we’re talking… Rom being at the same resort as Rob Beckett, holidaying with friends, Tom’s need for some stool softeners, Rom’s Fruit ’n Fibre addiction, sun lounger etiquette, showing off to the hotel staff, pool-side quality time with the kids and some airport luggage carousel shenanigans. Plus, a debrief on Tom’s ending to last week’s episode, a belated congratulations to the Lionesses - and some email questions too about children using phones and a draconian coffee station cop at work. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "With Rom in Majorca and Tom in Portugal at the moment, it’s a proper summer holiday special of the pod this week. So we’re talking… Rom being at the same resort as Rob Beckett, holidaying with friends, Tom’s need for some stool softeners, Rom’s Fruit ’n Fibre addiction, sun lounger etiquette, showing off to the hotel staff, pool-side quality time with the kids and some airport luggage carousel shenanigans. Plus, a debrief on Tom’s ending to last week’s episode, a belated congratulations to the Lionesses - and some email questions too about children using phones and a draconian coffee station cop at work. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM8582820831.mp3?updated=1755629584",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM8582820831.mp3?updated=1779976870",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4073",
@@ -1079,12 +1108,12 @@
       "title": "S4 Ep 32: Night In Vlogs & A Dead Laptop",
       "published_at": "2025-08-13T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Rom’s last day at Disney World, a nasty bout of food poisoning, influencer ‘night in’ vlogs and Tom having a go at making one himself, a smashed phone, some very frustrating customer service and a follow up email from a Wolf & Owl fan. Apologies for the slightly premature end to this week’s show - Rom’s broken laptop brought proceeding to an abrupt halt. But thankfully, Tom still managed to record one of his oh so sweet closing thoughts to end things on. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Rom’s last day at Disney World, a nasty bout of food poisoning, influencer ‘night in’ vlogs and Tom having a go at making one himself, a smashed phone, some very frustrating customer service and a follow up email from a Wolf & Owl fan. Apologies for the slightly premature end to this week’s show - Rom’s broken laptop brought proceeding to an abrupt halt. But thankfully, Tom still managed to record one of his oh so sweet closing thoughts to end things on. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM4843995107.mp3?updated=1755019302",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4843995107.mp3?updated=1779976437",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2608",
+      "itunes_duration": "2590",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -1101,12 +1130,12 @@
       "title": "S4 Ep 31: Disney Rom and Getting Egged",
       "published_at": "2025-08-06T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… the Ranganathan family in Disney World, moustache disguises, Tom’s new sock obsession, swearing at theme parks, getting ‘egged’ in the street, coping with heat on holiday, too many Arsenal football shirts, embarrassing yourself in front of your family, football banter, ‘big fella’ chat and Tom’s long-awaited appearance on Rick And Morty. Plus, emails about a trolling mispronunciation, excessive weight-loss chat, toilet cleaners and some lovely praise for the pod. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… the Ranganathan family in Disney World, moustache disguises, Tom’s new sock obsession, swearing at theme parks, getting ‘egged’ in the street, coping with heat on holiday, too many Arsenal football shirts, embarrassing yourself in front of your family, football banter, ‘big fella’ chat and Tom’s long-awaited appearance on Rick And Morty. Plus, emails about a trolling mispronunciation, excessive weight-loss chat, toilet cleaners and some lovely praise for the pod. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM1162297568.mp3?updated=1754420670",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM1162297568.mp3?updated=1779975893",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3388",
+      "itunes_duration": "3387",
       "speakers": [
         "Disney Rom",
         "Romesh Ranganathan",
@@ -1121,9 +1150,9 @@
       "title": "S4 Ep 30: Dirty Services & Mounjaro Jabs",
       "published_at": "2025-07-30T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… a rejuvenated Tom after last week’s Naseem-gate, a busy time gigging, disgustingly dirty motorway service stations, Mounjaro jab rumours, Tom considering a boxing match, food influencers, trolls getting angry and a hot night of stand-up in Northampton. Plus, a few emails of support, a question about the weather disrupted Ludlow Castle Comedy Festival and a request for some relationship advice. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… a rejuvenated Tom after last week’s Naseem-gate, a busy time gigging, disgustingly dirty motorway service stations, Mounjaro jab rumours, Tom considering a boxing match, food influencers, trolls getting angry and a hot night of stand-up in Northampton. Plus, a few emails of support, a question about the weather disrupted Ludlow Castle Comedy Festival and a request for some relationship advice. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM9145934983.mp3?updated=1753915121",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9145934983.mp3?updated=1779974974",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4065",
@@ -1143,9 +1172,9 @@
       "title": "S4 Ep 29: Boxing Bants & AI Podcasts",
       "published_at": "2025-07-23T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… audio experiments, never-ending subscriptions, getting lost with Severance, Tom’s very first live presenting job at the Usyk vs Dubois bout, an awkward interview with Prince Naseem, getting mugged off by rappers, a sober Romesh at The Weakest Link wrap party, the kissing Coldplay couple, the prospect of AI podcasts and Cat’s video of a very drunk Tom. Plus, we answer an email question about how best to deal with criticism of your creative endeavours. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… audio experiments, never-ending subscriptions, getting lost with Severance, Tom’s very first live presenting job at the Usyk vs Dubois bout, an awkward interview with Prince Naseem, getting mugged off by rappers, a sober Romesh at The Weakest Link wrap party, the kissing Coldplay couple, the prospect of AI podcasts and Cat’s video of a very drunk Tom. Plus, we answer an email question about how best to deal with criticism of your creative endeavours. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM3762596032.mp3?updated=1753922083",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM3762596032.mp3?updated=1779974301",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3888",
@@ -1163,9 +1192,9 @@
       "title": "S4 Ep 28: Halloween Costumes & A Dance Contest",
       "published_at": "2025-07-16T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… middle names, Radio DJs, Tom and Mel Giedroyc on the Scott Mills show, unsubstantiated Muhammad Ali quotes, halloween costume madness, unwanted dancing advances, a parent & child dance competition, Toblerone prizes, farty beers and a fridge full three year old Heinekens. Then we answer email questions about parenting advice for a socially anxious father, cold plunge mantras (and a cool new name for Tom) and our favourite film franchises. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… middle names, Radio DJs, Tom and Mel Giedroyc on the Scott Mills show, unsubstantiated Muhammad Ali quotes, halloween costume madness, unwanted dancing advances, a parent & child dance competition, Toblerone prizes, farty beers and a fridge full three year old Heinekens. Then we answer email questions about parenting advice for a socially anxious father, cold plunge mantras (and a cool new name for Tom) and our favourite film franchises. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM4302233464.mp3?updated=1752600441",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM4302233464.mp3?updated=1779973932",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3569",
@@ -1186,9 +1215,9 @@
       "title": "S4 Ep 27: The Scorpion & A Spudgun",
       "published_at": "2025-07-09T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… the Wolf at a teddy bears picnic, an insect bite emergency, an embarrassing school holiday incident with a scorpion, miss-matched shoes, Tom hosting the Broadcast Digital Awards, Superman films and bogus film reviews, going to Chessington with Nicolas Holt, getting kicked out of a library, mastering smelling good, Seth Rogen’s new Apple TV show and the announcement of Tom’s 2026 stand-up tour - SPUDGUN. Plus, we answer an email question about a time travel quandary with another classic roll play. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… the Wolf at a teddy bears picnic, an insect bite emergency, an embarrassing school holiday incident with a scorpion, miss-matched shoes, Tom hosting the Broadcast Digital Awards, Superman films and bogus film reviews, going to Chessington with Nicolas Holt, getting kicked out of a library, mastering smelling good, Seth Rogen’s new Apple TV show and the announcement of Tom’s 2026 stand-up tour - SPUDGUN. Plus, we answer an email question about a time travel quandary with another classic roll play. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM9720070452.mp3?updated=1751985544",
+      "enclosure_url": "https://traffic.megaphone.fm/KILM9720070452.mp3?updated=1779973335",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3579",
@@ -1202,34 +1231,13 @@
       ]
     },
     {
-      "key": "02b45cc3e89b9765d38b4dac17a9b00d97e09f47",
-      "title": "S4 Ep 26: Clooney Chats & Rom’s Album",
-      "published_at": "2025-07-02T02:00:00+00:00",
-      "link": null,
-      "description": "We’re talking… double corporate gigs, Tom back at Buckingham Palace with The Kings Trust, chats and photos with George Clooney, not being competitive, Rom starting work on his album, Micky drips and arguing with your penis, home Wi-Fi woes, WhatsApp groups vs knocking on doors and an email question about a gift for a retiring teacher. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/KILM2693958530.mp3?updated=1751365409",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3786",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "clooney",
-        "chats",
-        "album"
-      ]
-    },
-    {
       "key": "2a5c906cff4a4cc20d385570a945a8990227db24",
       "title": "S4 Ep 25: Avoiding Bees & Burnt Pizzas",
       "published_at": "2025-06-25T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… bad audio apologies, a hot night of stand-up at Fulham Pier, avoiding swallowing bees, Amish holidays, antisocial phone use, news on Rom’s school board appeal decision, burnt pizzas at the prom after-party, Tom’s party house problems and keeping on top of stress. Then we take on a couple of quick-fire ethical dilemmas and answer an email from a 16 year old listener with a tricky romance predicament. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… bad audio apologies, a hot night of stand-up at Fulham Pier, avoiding swallowing bees, Amish holidays, antisocial phone use, news on Rom’s school board appeal decision, burnt pizzas at the prom after-party, Tom’s party house problems and keeping on top of stress. Then we take on a couple of quick-fire ethical dilemmas and answer an email from a 16 year old listener with a tricky romance predicament. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1894842163.mp3?updated=1750751702",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1894842163.mp3?updated=1779972278",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4121",
@@ -1244,34 +1252,13 @@
       ]
     },
     {
-      "key": "bdaf90fcde94e2d2627217dc983465e989f28b9f",
-      "title": "S4 Ep 24: School Appeals & AI Stand-Up",
-      "published_at": "2025-06-18T02:00:00+00:00",
-      "link": null,
-      "description": "We’re talking… Rom being back in the UK, a rush home from Gibraltar, the Ranganathan’s school appeal hearing, final GCSE exams, school proms and a cool dad competition, getting a knighthood, an A.I. stand-up routine about gardening, Tom’s sleep paralysis and the Wolf & Cub podcast. Then we answer emails about an embarrassed tour show apology, more sightings of Ronan Keating, and a report of a restaurant with service that went above and beyond. Apologies for Tom’s audio on this one - the only room at home he could record in this week was his banqueting hall. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7383051100.mp3?updated=1750175357",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3814",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "school",
-        "appeals",
-        "stand"
-      ]
-    },
-    {
       "key": "812b8ff414086019184d076623672247fc3247c6",
       "title": "S4 Ep 23: Dartmoor Ghosts & Alien Overlords",
       "published_at": "2025-06-11T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… warm bath podcasting, opera singing, more tales from Rom’s European tour, lost luggage, baggy boxer shorts and Tom’s Dartmoor writing retreat - where he learnt lots about ghosts in walls and pixies on bridges from a lovely tour guide. Plus, an arse pebble in Helsinki, another ethical dilemma, a podcast disruption by our alien overlords, some love for puppets and an email about Ronan Keating not eating a cream horn. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… warm bath podcasting, opera singing, more tales from Rom’s European tour, lost luggage, baggy boxer shorts and Tom’s Dartmoor writing retreat - where he learnt lots about ghosts in walls and pixies on bridges from a lovely tour guide. Plus, an arse pebble in Helsinki, another ethical dilemma, a podcast disruption by our alien overlords, some love for puppets and an email about Ronan Keating not eating a cream horn. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9977884601.mp3?updated=1749575627",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9977884601.mp3?updated=1779968132",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3603",
@@ -1291,9 +1278,9 @@
       "title": "S4 Ep 22: Rom In Copenhagen & Scores Out Of 10",
       "published_at": "2025-06-04T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Spotify reviews, changeable weather, being in tune with nature, The Liver King documentary, Tom Pepper and Tony the Tiger, giving up sugar, Dot Cotton’s parenting skills, hugs on tour, Rom in Copenhagen (and loving it), good looking versions of ourselves and our real scores out of 10. Then onto some emails, including a moan from a Manchester City fan, a quandary about re-locating to Australia and a fresh breath compliment. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Spotify reviews, changeable weather, being in tune with nature, The Liver King documentary, Tom Pepper and Tony the Tiger, giving up sugar, Dot Cotton’s parenting skills, hugs on tour, Rom in Copenhagen (and loving it), good looking versions of ourselves and our real scores out of 10. Then onto some emails, including a moan from a Manchester City fan, a quandary about re-locating to Australia and a fresh breath compliment. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2734110340.mp3?updated=1748965222",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2734110340.mp3?updated=1779966715",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3542",
@@ -1311,9 +1298,9 @@
       "title": "S4 Ep 21: Mandrills & BO",
       "published_at": "2025-05-28T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Rom’s European tour, Tom’s trip to Amsterdam Zoo to film a Mandrill, zoologists with BO, bad breath at the boxing, animal-friendly deodorant, signature scents, some support for Jack Grealish and new tattoos for everyone. Then we answer some emails about tonsil stones, tips for making creative notes, navigating financial planing in a relationship and Ronan Keating eating a cream cone. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Rom’s European tour, Tom’s trip to Amsterdam Zoo to film a Mandrill, zoologists with BO, bad breath at the boxing, animal-friendly deodorant, signature scents, some support for Jack Grealish and new tattoos for everyone. Then we answer some emails about tonsil stones, tips for making creative notes, navigating financial planing in a relationship and Ronan Keating eating a cream cone. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9478317891.mp3?updated=1748333782",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9478317891.mp3?updated=1779965833",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3908",
@@ -1331,9 +1318,9 @@
       "title": "S4 Ep 20: Drinking Disasters and Useless Seals",
       "published_at": "2025-05-21T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… a 15 year old Romesh, teenage parties and early drinking disasters, being firmly in the friend-zone, sneaking out of a Spanish hospital, the mystery of Tom’s bad breath, a well-catered gig at Coughlans Bakery, Crystal Palace celebrations, leaky water bottles, useless seals, famous last words and Tom’s new sauna. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… a 15 year old Romesh, teenage parties and early drinking disasters, being firmly in the friend-zone, sneaking out of a Spanish hospital, the mystery of Tom’s bad breath, a well-catered gig at Coughlans Bakery, Crystal Palace celebrations, leaky water bottles, useless seals, famous last words and Tom’s new sauna. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9124491411.mp3?updated=1747666930",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9124491411.mp3?updated=1779900735",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3283",
@@ -1352,9 +1339,9 @@
       "title": "S4 Ep 19: Superhero Fights & A Signed Thong",
       "published_at": "2025-05-14T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… vocal warm-ups, finding a new parter, being on the One Show sofa with Natalie Portman, respecting neck hair, the Wolf & Hall podcast, new ideas for the pod, part two of the Men vs Gorilla debate, Rom’s day working at Coughlans bakery and a signed pair of knickers. Then we answer some emails, this time about a Marathon disaster, some feedback on Judge Romesh and a fight between Spiderman and Batman. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… vocal warm-ups, finding a new parter, being on the One Show sofa with Natalie Portman, respecting neck hair, the Wolf & Hall podcast, new ideas for the pod, part two of the Men vs Gorilla debate, Rom’s day working at Coughlans bakery and a signed pair of knickers. Then we answer some emails, this time about a Marathon disaster, some feedback on Judge Romesh and a fight between Spiderman and Batman. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8225074641.mp3?updated=1747149714",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8225074641.mp3?updated=1779900054",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3267",
@@ -1374,9 +1361,9 @@
       "title": "S4 Ep 18: Hot Marathons & Gorilla Debates",
       "published_at": "2025-05-07T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Tom’s tough week, a night at the Benn v Eubank boxing, some debatable sobriety and a thorough debrief from Rom on his London Marathon - featuring celebrity runners, problems with the heat, live race interviews, second half struggles, just beating the heroic Joel Dommett and a massive shout out to running partner James. Plus, the prospect of Tom taking on Ross Kemp in a Misfits fight (the battle of the baldies), trash talking, the Mandrill comedy content creators and our take on the 100 men vs 1 gorilla debate. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Tom’s tough week, a night at the Benn v Eubank boxing, some debatable sobriety and a thorough debrief from Rom on his London Marathon - featuring celebrity runners, problems with the heat, live race interviews, second half struggles, just beating the heroic Joel Dommett and a massive shout out to running partner James. Plus, the prospect of Tom taking on Ross Kemp in a Misfits fight (the battle of the baldies), trash talking, the Mandrill comedy content creators and our take on the 100 men vs 1 gorilla debate. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9453506312.mp3?updated=1746542609",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9453506312.mp3?updated=1779899564",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3779",
@@ -1391,34 +1378,13 @@
       ]
     },
     {
-      "key": "9f475def6dbdb82c4eba3a9f8d8563fad7dcf031",
-      "title": "S4 Ep 17: Family Gatherings & Rom Vs The Council",
-      "published_at": "2025-04-23T02:00:00+00:00",
-      "link": null,
-      "description": "We’re talking… Easter feasts, the long-awaited Ranganathan family visit to the Davis’s new home, the most beautiful cat ever, a very competitive FIFA tournament, Romesh vs the West Sussex County Council schools board (and the Netflix film version of that heroic story), corduroy vibes, wearing skinny jeans, ape-like physiques and the final week before Rom runs the London Marathon. Plus, Tom’s idea for a Bible revamp and an email about a very troublesome ingrowing hair. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9800593044.mp3?updated=1745330220",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3753",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "family",
-        "gatherings",
-        "council"
-      ]
-    },
-    {
       "key": "d16792f055ee45dcc7756f7ff14c384070cbd7ba",
       "title": "S4 Ep 16: Marathon Prep & Aubergine Ragu",
       "published_at": "2025-04-16T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Rom’s Marathon preparations, the upcoming Davis/Ranganathan family meet-up, vegan mums, Tom’s aubergine ragu, protein obsessions, Mandrill vest tops, angry organs, Rom as a scaffolder, maverick school teachers, overzealous disciplining and some pretty harsh nicknames. Plus, we answer emails about Usher concert spoilers, more on the sit or stand debate, a prisoners dilemma with Katherine Ryan and some cat care advice. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Rom’s Marathon preparations, the upcoming Davis/Ranganathan family meet-up, vegan mums, Tom’s aubergine ragu, protein obsessions, Mandrill vest tops, angry organs, Rom as a scaffolder, maverick school teachers, overzealous disciplining and some pretty harsh nicknames. Plus, we answer emails about Usher concert spoilers, more on the sit or stand debate, a prisoners dilemma with Katherine Ryan and some cat care advice. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2803244912.mp3?updated=1744648269",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2803244912.mp3?updated=1779898359",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3633",
@@ -1439,9 +1405,9 @@
       "title": "S4 Ep 15: A New Cat & Usher’s Cherries",
       "published_at": "2025-04-09T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… early morning recordings, surviving a house fire, family pets and a new cat in the Davis household, lots of chat about rats, school nicknames, an update on Rom’s son’s school placement, Usher’s very suggestive bowl of cherries and a jobsworth security guard the last ever You Me At Six gig. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… early morning recordings, surviving a house fire, family pets and a new cat in the Davis household, lots of chat about rats, school nicknames, an update on Rom’s son’s school placement, Usher’s very suggestive bowl of cherries and a jobsworth security guard the last ever You Me At Six gig. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5706477397.mp3?updated=1744125401",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5706477397.mp3?updated=1779897811",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3554",
@@ -1459,9 +1425,9 @@
       "title": "S4 Ep 14: Rom’s Beard and Tom’s Nose",
       "published_at": "2025-04-04T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… delays and apologies, whether cats are livestock, a big reveal about Rom’s beard, too much scat chat, a family outing to see Usher, some extreme nose-hair plucking from a Turkish barber, school placement problems and the pros and cons of sleeping on the floor. Then after all that, we finally get around to answering some more of your emails, this time about a tricky situation involving Rom’s stand-up show in Amsterdam and a list of pub bar-tending gripes. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… delays and apologies, whether cats are livestock, a big reveal about Rom’s beard, too much scat chat, a family outing to see Usher, some extreme nose-hair plucking from a Turkish barber, school placement problems and the pros and cons of sleeping on the floor. Then after all that, we finally get around to answering some more of your emails, this time about a tricky situation involving Rom’s stand-up show in Amsterdam and a list of pub bar-tending gripes. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5513727689.mp3?updated=1743686097",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5513727689.mp3?updated=1779897339",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3563",
@@ -1481,9 +1447,9 @@
       "title": "S4 Ep 13: Trapped In A Toilet & Going On Tour",
       "published_at": "2025-03-26T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… using indicators, good gut health, long handwashing, Tom’s traumatic morning getting locked in the toilet, what to feed ducks, being naked at home, texting too much and being in the top 5% of people that are wanted as friends. Then it’s onto some moral dilemmas, this time about more train tracks (with poor old Tim Key tied to them) and a teenage son in trouble with the law. Plus, we announce all the long-awaited details of our upcoming Wolf & Owl Live UK tour - don’t miss it! Make sure to sign up to our mailing list at www.wolfandowlpod.com for access to PRESALE tickets - which starts at 11am on Thurs 27 March 2025. General sale tickets available from 11am on Fri 28 March 2025. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… using indicators, good gut health, long handwashing, Tom’s traumatic morning getting locked in the toilet, what to feed ducks, being naked at home, texting too much and being in the top 5% of people that are wanted as friends. Then it’s onto some moral dilemmas, this time about more train tracks (with poor old Tim Key tied to them) and a teenage son in trouble with the law. Plus, we announce all the long-awaited details of our upcoming Wolf & Owl Live UK tour - don’t miss it! Make sure to sign up to our mailing list at www.wolfandowlpod.com for access to PRESALE tickets - which starts at 11am on Thurs 27 March 2025. General sale tickets available from 11am on Fri 28 March 2025. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6322706251.mp3?updated=1742963516",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6322706251.mp3?updated=1779896526",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3604",
@@ -1501,9 +1467,9 @@
       "title": "S4 Ep 12: Spot Stories & Celebrity Trains",
       "published_at": "2025-03-19T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… lofts vs attics, picking spots and traumatic pimple problems, crying in the toilets at work, some serious catastrophizing, Tom’s King’s Trust Gala with the lovely Pierce Brosnan and a great email question about supermarket etiquette and a heinous trolly theft. Plus, more moral dilemmas - this time about owning a new social media platform and a load of celebrities tied to a train track. Who would you save? For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… lofts vs attics, picking spots and traumatic pimple problems, crying in the toilets at work, some serious catastrophizing, Tom’s King’s Trust Gala with the lovely Pierce Brosnan and a great email question about supermarket etiquette and a heinous trolly theft. Plus, more moral dilemmas - this time about owning a new social media platform and a load of celebrities tied to a train track. Who would you save? For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4434746862.mp3?updated=1742316734",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4434746862.mp3?updated=1779887085",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3686",
@@ -1523,9 +1489,9 @@
       "title": "S4 Ep 11: The Cat & An Asthmatic Grandma",
       "published_at": "2025-03-12T03:00:00+00:00",
       "link": null,
-      "description": "This week it’s another international episode of the show - with Romesh in Mumbai and Tom still sat on his floor at home. Undeterred, we’re talking… a big family gathering, doing voices for toys, Rom at the boxing and an interview with Kugan Cassius, problematic fashion labels, bad gym faces and having no arse, a dilemma about an asthmatic grandma and a bit of bother with some sunglasses. Plus, the long-awaited reveal of our new podcast artwork! For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "This week it’s another international episode of the show - with Romesh in Mumbai and Tom still sat on his floor at home. Undeterred, we’re talking… a big family gathering, doing voices for toys, Rom at the boxing and an interview with Kugan Cassius, problematic fashion labels, bad gym faces and having no arse, a dilemma about an asthmatic grandma and a bit of bother with some sunglasses. Plus, the long-awaited reveal of our new podcast artwork! For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2642586062.mp3?updated=1741757104",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2642586062.mp3?updated=1779882729",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3049",
@@ -1543,9 +1509,9 @@
       "title": "S4 Ep 10: Muay Thai & Bakery Beef",
       "published_at": "2025-03-05T03:00:00+00:00",
       "link": null,
-      "description": "There’s a plethora of audio problems and wonky wi-fi on this week’s show - so apologies in advance for that. But amongst all the technical troubles, we’re talking… Tom’s Muay Thai injury, having hectic schedules, a bit of Stormzy schadenfreude, some bakery shop sparring, a Christmas turkey X-Factor, Romesh’s film-set catering, more marathon training and an electrolyte endorsement. Plus, we answer emails about getting undressed to do a poo and problems with the new series of The White Lotus. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "There’s a plethora of audio problems and wonky wi-fi on this week’s show - so apologies in advance for that. But amongst all the technical troubles, we’re talking… Tom’s Muay Thai injury, having hectic schedules, a bit of Stormzy schadenfreude, some bakery shop sparring, a Christmas turkey X-Factor, Romesh’s film-set catering, more marathon training and an electrolyte endorsement. Plus, we answer emails about getting undressed to do a poo and problems with the new series of The White Lotus. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2087362134.mp3?updated=1741118845",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2087362134.mp3?updated=1779882496",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4053",
@@ -1565,9 +1531,9 @@
       "title": "S4 Ep 9: Maison Davis & Tibetan Monks",
       "published_at": "2025-02-26T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Tom’s new house (and choosing a name for it), a trip to Latvia, cultural generalisations, a friendly Ukrainian taxi driver, doing yoga with a belching Tibetan monk, Rom’s new zen attitude, the highs and lows of shopping in Riga, a Dog Man movie review, standing ovations at films, the new Captain America and an introduction to Romesh Skywalker. Plus, there’s feedback from some very decent estate agents and we tackle another tricky moral dilemma. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Tom’s new house (and choosing a name for it), a trip to Latvia, cultural generalisations, a friendly Ukrainian taxi driver, doing yoga with a belching Tibetan monk, Rom’s new zen attitude, the highs and lows of shopping in Riga, a Dog Man movie review, standing ovations at films, the new Captain America and an introduction to Romesh Skywalker. Plus, there’s feedback from some very decent estate agents and we tackle another tricky moral dilemma. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6521438334.mp3?updated=1740507271",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6521438334.mp3?updated=1779881626",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3790",
@@ -1587,9 +1553,9 @@
       "title": "S4 Ep 8: Delays & Dilemmas",
       "published_at": "2025-02-19T18:00:00+00:00",
       "link": null,
-      "description": "Apologies for the slight delay with this week’s show - but it's here now and good to go! We’re talking… Rom’s Marathon fundraising, house moving anxieties, Tom being on the final episode of Kathy Burke’s podcast, award ceremony hangers-on and keeping our brains sharp with both mental arithmetic tests and some tricky ethical dilemmas. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Apologies for the slight delay with this week’s show - but it's here now and good to go! We’re talking… Rom’s Marathon fundraising, house moving anxieties, Tom being on the final episode of Kathy Burke’s podcast, award ceremony hangers-on and keeping our brains sharp with both mental arithmetic tests and some tricky ethical dilemmas. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1643095242.mp3?updated=1739988312",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1643095242.mp3?updated=1779881126",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3547",
@@ -1607,9 +1573,9 @@
       "title": "S4 Ep 7: The 32nd of January & Tom’s Singing",
       "published_at": "2025-02-12T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Tom’s house move plans, old arcade games, does the 32nd of January exist and a general confusion with dates, autograph hunters, navigating small-talk, the loveliness of the Radio 2 door staff, acting in a film with your heroes, catastrophizing at work and Kanye’s latest disgraceful behaviour. Plus, more chat on the Boyzone documentary, a potential new Wolf and Owl bakery product, the offer of a consultation from a mindset coach and a request for Tom to do some singing. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Tom’s house move plans, old arcade games, does the 32nd of January exist and a general confusion with dates, autograph hunters, navigating small-talk, the loveliness of the Radio 2 door staff, acting in a film with your heroes, catastrophizing at work and Kanye’s latest disgraceful behaviour. Plus, more chat on the Boyzone documentary, a potential new Wolf and Owl bakery product, the offer of a consultation from a mindset coach and a request for Tom to do some singing. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6390979968.mp3?updated=1739290463",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6390979968.mp3?updated=1779880583",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3969",
@@ -1628,9 +1594,9 @@
       "title": "S4 Ep 6: Caps, Traps and MAFS",
       "published_at": "2025-02-05T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… small caps, the awkwardness of photos and videos, Rom’s first thirst trap, loving Judy Love, how best to deal with over-eating, inferiority complexes, the downfall of MAFS, infectious enthusiasm, the Boyzone documentary, the Stranger Things stage play and Rom’s excessive jumping at horror film shocks. Plus, we answer an email about how best to prepare for life after your kids have left the nest. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… small caps, the awkwardness of photos and videos, Rom’s first thirst trap, loving Judy Love, how best to deal with over-eating, inferiority complexes, the downfall of MAFS, infectious enthusiasm, the Boyzone documentary, the Stranger Things stage play and Rom’s excessive jumping at horror film shocks. Plus, we answer an email about how best to prepare for life after your kids have left the nest. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1660709806.mp3?updated=1738693241",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1660709806.mp3?updated=1779879642",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3924",
@@ -1648,9 +1614,9 @@
       "title": "S4 Ep 5: Photo Shoots & Amazing Nurses",
       "published_at": "2025-01-30T03:00:00+00:00",
       "link": null,
-      "description": "We’re kicking off this week’s show with some very exciting news! We’ve just done a photo shoot for our new podcast artwork and are going to ask you lovely listeners to decide which picture we should use. So keep ‘em peeled for the public vote, which will be coming soon. Then we’re talking… degrading vs digressing, Andy Peters Nandos connections, a number of apologies, Tom’s Mandrill protein shake PR, how to be good at financial investments, an update on Rom’s troublesome feet (thanks to all those who sent in solutions), a curry night with Geoff Norcott and a lot of love for the amazing work that nurses do. Plus, we answer emails about a fake owl decoy statue and a request for advice about dealing with a transatlantic relationship. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re kicking off this week’s show with some very exciting news! We’ve just done a photo shoot for our new podcast artwork and are going to ask you lovely listeners to decide which picture we should use. So keep ‘em peeled for the public vote, which will be coming soon. Then we’re talking… degrading vs digressing, Andy Peters Nandos connections, a number of apologies, Tom’s Mandrill protein shake PR, how to be good at financial investments, an update on Rom’s troublesome feet (thanks to all those who sent in solutions), a curry night with Geoff Norcott and a lot of love for the amazing work that nurses do. Plus, we answer emails about a fake owl decoy statue and a request for advice about dealing with a transatlantic relationship. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9408164049.mp3?updated=1738226745",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9408164049.mp3?updated=1779878162",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3051",
@@ -1670,9 +1636,9 @@
       "title": "S4 Ep 4: LA Rom & Boxing Beef",
       "published_at": "2025-01-22T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… podding from Los Angeles, Rom’s US stand-up tour, the TikTok shut down, social media porn stars, the KSI vs Wayne Bridge Misfits bout (plus our first ever pod debate update), Wolf & Owl boxing promotions, the tastiness of American food, Snoop Dog’s very public change of opinion and the unfortunate consequences of sleep deprivation. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… podding from Los Angeles, Rom’s US stand-up tour, the TikTok shut down, social media porn stars, the KSI vs Wayne Bridge Misfits bout (plus our first ever pod debate update), Wolf & Owl boxing promotions, the tastiness of American food, Snoop Dog’s very public change of opinion and the unfortunate consequences of sleep deprivation. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4222425304.mp3?updated=1737477000",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4222425304.mp3?updated=1779877635",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3771",
@@ -1690,9 +1656,9 @@
       "title": "S4 Ep 3: Restaurant Debates & Celebrity Photos",
       "published_at": "2025-01-15T03:00:00+00:00",
       "link": null,
-      "description": "First up, it’s very welcome return visit to the pod from the Squirrel - who gives Tom his review of the latest Sonic The Hedgehog film. Big up the Squirrel! Then it’s on with the rest of the show and we’re talking… defending Robbie Williams, Tom working for the AA, round two of the pre-ordering in restaurants debate, when to back down in an argument (or not), gigging together, celebrity photo walls and a load of confusion about The Masked Singer. Plus, we answer emails about another name for beardstaches and some advice on having to be away from your home and family for a long time. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "First up, it’s very welcome return visit to the pod from the Squirrel - who gives Tom his review of the latest Sonic The Hedgehog film. Big up the Squirrel! Then it’s on with the rest of the show and we’re talking… defending Robbie Williams, Tom working for the AA, round two of the pre-ordering in restaurants debate, when to back down in an argument (or not), gigging together, celebrity photo walls and a load of confusion about The Masked Singer. Plus, we answer emails about another name for beardstaches and some advice on having to be away from your home and family for a long time. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4852874983.mp3?updated=1736851019",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4852874983.mp3?updated=1779877133",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3927",
@@ -1712,9 +1678,9 @@
       "title": "S4 Ep 2: Beardstaches & New Years in NYC",
       "published_at": "2025-01-08T03:00:00+00:00",
       "link": null,
-      "description": "It’s our first episode recorded in 2025! And to kick off the new year, we’re talking… having a breardstache, a Wolf & Owl live tour, Rom’s trip to New York City, musicals and singing waiters, pre-ordering in restaurants, New Year’s Eve in Times Square, Christmas morning at the Davis household, very popular noodles, pestering food influencers, being cool vs being thirsty, some trolling of Tom and a slightly nervous chat about Elon Musk. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s our first episode recorded in 2025! And to kick off the new year, we’re talking… having a breardstache, a Wolf & Owl live tour, Rom’s trip to New York City, musicals and singing waiters, pre-ordering in restaurants, New Year’s Eve in Times Square, Christmas morning at the Davis household, very popular noodles, pestering food influencers, being cool vs being thirsty, some trolling of Tom and a slightly nervous chat about Elon Musk. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9733984141.mp3?updated=1736283229",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9733984141.mp3?updated=1779815000",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3792",
@@ -1732,12 +1698,12 @@
       "title": "S4 Ep 1: New Year’s Day Special",
       "published_at": "2025-01-01T03:00:00+00:00",
       "link": null,
-      "description": "What better way to kick off 2025 than with a New Year’s Day Wolf & Owl special! So, alongside plenty of New Year's celebrations, we’re talking… not having many friends, a mysterious intruder at Tom’s house, a lovely Christmas morning chat with a vicar and wearing a dog-collar during a martial arts fight. Plus, our New Year's (or new day) resolutions and we answer some listener’s emails about their goals for 2025, such as weight loss, improving health, being more organised and working out a new running style. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "What better way to kick off 2025 than with a New Year’s Day Wolf & Owl special! So, alongside plenty of New Year's celebrations, we’re talking… not having many friends, a mysterious intruder at Tom’s house, a lovely Christmas morning chat with a vicar and wearing a dog-collar during a martial arts fight. Plus, our New Year's (or new day) resolutions and we answer some listener’s emails about their goals for 2025, such as weight loss, improving health, being more organised and working out a new running style. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4711332103.mp3?updated=1735635953",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4711332103.mp3?updated=1779814532",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3122",
+      "itunes_duration": "3121",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -1752,9 +1718,9 @@
       "title": "S3 Ep 65: The Squirrel & The Royal Albert Hall",
       "published_at": "2024-12-18T03:00:00+00:00",
       "link": null,
-      "description": "It’s a very special occasion for the pod as we’re kicking off this episode with our very first guest - the Squirrel! It’s none other than Rom’s son Charlie, who has a quick chat with Tom before heading out to school. Then it’s on with the show and we’re talking… beard paint, aging with dignity, a mad time filming and a broken ankle, being more zen about things, Tom’s tricky gig hosting the Streets Of London charity evening at the Royal Albert Hall, Christmas preparations, committing to spending more time with our wives and moving house in the New Year. Plus, in a follow up to last week’s sauna chat debate, we answer an email question about how best to make new friends after re-locating to another part of the country. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s a very special occasion for the pod as we’re kicking off this episode with our very first guest - the Squirrel! It’s none other than Rom’s son Charlie, who has a quick chat with Tom before heading out to school. Then it’s on with the show and we’re talking… beard paint, aging with dignity, a mad time filming and a broken ankle, being more zen about things, Tom’s tricky gig hosting the Streets Of London charity evening at the Royal Albert Hall, Christmas preparations, committing to spending more time with our wives and moving house in the New Year. Plus, in a follow up to last week’s sauna chat debate, we answer an email question about how best to make new friends after re-locating to another part of the country. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9515732956.mp3?updated=1734442618",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9515732956.mp3?updated=1779814129",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4038",
@@ -1774,12 +1740,12 @@
       "title": "S3 Ep 64: Christmas Jumpers In Arizona",
       "published_at": "2024-12-11T03:00:00+00:00",
       "link": null,
-      "description": "With Rom out filming in Arizona, it’s a transatlantic episode of the pod this week. And we’re talking… lots and lots of Christmas jumpers, seriously overpacking, loving crumpets in winter, having your bum pinched, Tom guesting on Kathy Burkes live podcast, our Christmas show at Ally Pally, falling over in Jack Whitehall’s new film, arrogant huskies, F1 toilet breaks, sauna conversations and a rather awkward listener’s email about pâté. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "With Rom out filming in Arizona, it’s a transatlantic episode of the pod this week. And we’re talking… lots and lots of Christmas jumpers, seriously overpacking, loving crumpets in winter, having your bum pinched, Tom guesting on Kathy Burkes live podcast, our Christmas show at Ally Pally, falling over in Jack Whitehall’s new film, arrogant huskies, F1 toilet breaks, sauna conversations and a rather awkward listener’s email about pâté. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7703821919.mp3?updated=1733847109",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7703821919.mp3?updated=1779813495",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2993",
+      "itunes_duration": "3023",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -1795,12 +1761,12 @@
       "title": "S3 Ep 63: Amazing Sandwiches & A Ribbing from Rod",
       "published_at": "2024-12-04T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… Tom’s favourite sandwich shop ever, toastie revelations, celebrity scandals, a cricket match encounter, on-screen talent, a banter-filled charity event with Rod Stewart, the Wolf & Owl football derby and getting long words wrong in important meetings. Then we answer some of your email questions, this time about sandwich recommendations, celebrity free passes and some new music from one of our listeners - the metal mongoose. Plus, there’s some rethinking on Rom’s social media plans and an update on Tom’s big soup ideas. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… Tom’s favourite sandwich shop ever, toastie revelations, celebrity scandals, a cricket match encounter, on-screen talent, a banter-filled charity event with Rod Stewart, the Wolf & Owl football derby and getting long words wrong in important meetings. Then we answer some of your email questions, this time about sandwich recommendations, celebrity free passes and some new music from one of our listeners - the metal mongoose. Plus, there’s some rethinking on Rom’s social media plans and an update on Tom’s big soup ideas. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7009965601.mp3?updated=1733226510",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7009965601.mp3?updated=1779813225",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3979",
+      "itunes_duration": "4099",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -1816,9 +1782,9 @@
       "title": "S3 Ep 62: Christmas Movies and Nicorette Nightmares",
       "published_at": "2024-11-27T03:00:00+00:00",
       "link": null,
-      "description": "With Rom calling in from India for this week’s show, we’re talking… watching new and old Christmas films, Robert De Nero’s acting style, the phenomenon of two Chris Evans’s, apologising to King Charles, an update on the Phil Wang stolen jacket mystery, a missing fancy dress outfit for our upcoming Christmas show, Tom’s visit to Lapland UK, Rom’s Nicorette nightmares and the possibly of giving up social media for good. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "With Rom calling in from India for this week’s show, we’re talking… watching new and old Christmas films, Robert De Nero’s acting style, the phenomenon of two Chris Evans’s, apologising to King Charles, an update on the Phil Wang stolen jacket mystery, a missing fancy dress outfit for our upcoming Christmas show, Tom’s visit to Lapland UK, Rom’s Nicorette nightmares and the possibly of giving up social media for good. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2795433534.mp3?updated=1732687254",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2795433534.mp3?updated=1779812701",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3694",
@@ -1839,9 +1805,9 @@
       "title": "S3 Ep 61: Nas Nights & Big Soups",
       "published_at": "2024-11-20T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… the Nas anniversary concert, designing your own T-shirt, new W&O merch, restaurants serving Cup-A-Soups, Tom’s love of Heinz Big Soup, dealing with big egos and a bullying manager at a Soho House afterparty, Rom becoming an impromptu cloakroom attendant and Tom’s stolen puffa jacket at a Phil Wang gig. Plus, we answer emails about supermarket world-food aisles, a tricky quandary from a Wolf 2.0, a follow-up on Sloth from the Goonies, Dungarees or Crocs with socks, and a new career in photography. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… the Nas anniversary concert, designing your own T-shirt, new W&O merch, restaurants serving Cup-A-Soups, Tom’s love of Heinz Big Soup, dealing with big egos and a bullying manager at a Soho House afterparty, Rom becoming an impromptu cloakroom attendant and Tom’s stolen puffa jacket at a Phil Wang gig. Plus, we answer emails about supermarket world-food aisles, a tricky quandary from a Wolf 2.0, a follow-up on Sloth from the Goonies, Dungarees or Crocs with socks, and a new career in photography. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3316496580.mp3?updated=1732010736",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3316496580.mp3?updated=1779811576",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4280",
@@ -1859,9 +1825,9 @@
       "title": "S3 Ep 60: Busy Tom & Sprout Surprises",
       "published_at": "2024-11-15T03:00:00+00:00",
       "link": null,
-      "description": "Apologies for the delay but this week’s episode is finally here - better late than never! We’re talking… late arrivals, Tom’s very busy week, tech troubles and more AirPod woes, sleeping with Batman, the greatness of Colin Farrell, Internet speed tests, robot restaurants in South Korea, the top 5 sprout-exporting countries, blockbuster films, the Goonies legacy, meeting Tim Dillon in NYC, working out new stand-up material and Tom’s return to Buckingham Palace. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Apologies for the delay but this week’s episode is finally here - better late than never! We’re talking… late arrivals, Tom’s very busy week, tech troubles and more AirPod woes, sleeping with Batman, the greatness of Colin Farrell, Internet speed tests, robot restaurants in South Korea, the top 5 sprout-exporting countries, blockbuster films, the Goonies legacy, meeting Tim Dillon in NYC, working out new stand-up material and Tom’s return to Buckingham Palace. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7094512861.mp3?updated=1732088784",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7094512861.mp3?updated=1779811082",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3856",
@@ -1882,9 +1848,9 @@
       "title": "S3 Ep 59: Quiz Questions & Stolen AirPod Sleuths",
       "published_at": "2024-11-06T03:00:00+00:00",
       "link": null,
-      "description": "We’re talking… sleeping babies, Rom in South Korea, miss-reporting about podcast interviews, paying too much attention to the trolls, four quiz-show questions, acquired fruits, an update on Tom’s stolen AirPods and his plans to retrieve them, a devastating health warning about a favourite restaurant, trick-or-treat age limits, crying at the cinema and teaching school kids using inspirational documentaries. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… sleeping babies, Rom in South Korea, miss-reporting about podcast interviews, paying too much attention to the trolls, four quiz-show questions, acquired fruits, an update on Tom’s stolen AirPods and his plans to retrieve them, a devastating health warning about a favourite restaurant, trick-or-treat age limits, crying at the cinema and teaching school kids using inspirational documentaries. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8640767382.mp3?updated=1730836507",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8640767382.mp3?updated=1779810706",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3719",
@@ -1901,36 +1867,13 @@
       ]
     },
     {
-      "key": "583cabe136f5b041d41348f543201f7d8ebf1030",
-      "title": "S3 Ep 58: Jumper-Gate & Celebrity Politics",
-      "published_at": "2024-10-30T03:00:00+00:00",
-      "link": null,
-      "description": "We’re talking… Stewart Williams vibes and a controversial jumper, warming up on Loose Women, attempting stand-up whilst severely jet lagged, advice on new material, a poorly timed stuck zip, the Tony Hinchcliffe controversy and a Wolf & Owl take on the US presidential election race, an awkward Ranganathan family mix-up, embarrassing sauna interactions and Tom’s frustrations with tracking his stolen AirPods. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6036886145.mp3?updated=1730228117",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3787",
-      "speakers": [
-        "Stewart Williams",
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "jumper",
-        "gate",
-        "celebrity",
-        "politics"
-      ]
-    },
-    {
       "key": "9f33e380fbb3157dc5e88bf09b48a94c0a9558bb",
       "title": "S3 Ep 57: Dogs And Cats & Hotel Room Numbers",
       "published_at": "2024-10-23T02:00:00+00:00",
       "link": null,
-      "description": "With Rom now on the Dubai leg of his stand-up tour, Tom’s keen to hear all about the place and find out how everything's been going since they last spoke. So we’re talking…. Rom’s family coming out to meet him, being more ‘braggy', a visit to the Sidney Dogs and Cats Home, misguided slams and eating humble pie, the lifestyle of an international DJ, new ideas for hotel room numbering, iPad restaurant ordering, having low expectations and kids doing impressions of parents. Then we answer a few email questions, this time about some advice on a stand-up routine and the Skibidi youth-speak translator app. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "With Rom now on the Dubai leg of his stand-up tour, Tom’s keen to hear all about the place and find out how everything's been going since they last spoke. So we’re talking…. Rom’s family coming out to meet him, being more ‘braggy', a visit to the Sidney Dogs and Cats Home, misguided slams and eating humble pie, the lifestyle of an international DJ, new ideas for hotel room numbering, iPad restaurant ordering, having low expectations and kids doing impressions of parents. Then we answer a few email questions, this time about some advice on a stand-up routine and the Skibidi youth-speak translator app. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8733249054.mp3?updated=1761557624",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8733249054.mp3?updated=1779810105",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3812",
@@ -1951,9 +1894,9 @@
       "title": "S3 Ep 56: TV Nostalgia & Pedicure Problems",
       "published_at": "2024-10-16T02:00:00+00:00",
       "link": null,
-      "description": "With Rom in Sidney this week, it’s another intercontinental episode of the Wolf & Owl. We’re talking… food spills, old school ASOS, more thirst traps, enviously cool celebrities, the wonders of lift lighting, deleting Instagram, television heydays and an Eastenders watch-along, pornstar encounters, filming a Bellow Deck promo, an update on Rom’s visit to New Zealand, pedicure preparations and an awkward airport security confrontation. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "With Rom in Sidney this week, it’s another intercontinental episode of the Wolf & Owl. We’re talking… food spills, old school ASOS, more thirst traps, enviously cool celebrities, the wonders of lift lighting, deleting Instagram, television heydays and an Eastenders watch-along, pornstar encounters, filming a Bellow Deck promo, an update on Rom’s visit to New Zealand, pedicure preparations and an awkward airport security confrontation. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6878691302.mp3?updated=1729060424",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6878691302.mp3?updated=1779809579",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3827",
@@ -1972,9 +1915,9 @@
       "title": "S3 Ep 55: Two Pints & A Missing Romesh",
       "published_at": "2024-10-09T02:00:00+00:00",
       "link": null,
-      "description": "As Rom’s in Aukland on the New Zealand leg of his Antipodean tour, he joins Tom at home in his kitchen via the wonders of technology, for a globe-spanning edition of the podcast. And this week we’re talking… a two-pint drunk Romesh, getting people’s names wrong, oversleeping, missing the pod recording, the sitting or standing debate, Tom on potty training duties, getting homesick, an update on how the tour’s been going, music choices for our Christmas show, uncannily Trumpy hand gestures, the highs and lows of corporate gigs and what a sweet sweet soul Joel Dommett is. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "As Rom’s in Aukland on the New Zealand leg of his Antipodean tour, he joins Tom at home in his kitchen via the wonders of technology, for a globe-spanning edition of the podcast. And this week we’re talking… a two-pint drunk Romesh, getting people’s names wrong, oversleeping, missing the pod recording, the sitting or standing debate, Tom on potty training duties, getting homesick, an update on how the tour’s been going, music choices for our Christmas show, uncannily Trumpy hand gestures, the highs and lows of corporate gigs and what a sweet sweet soul Joel Dommett is. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8942468814.mp3?updated=1728398199",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8942468814.mp3?updated=1779808966",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3663",
@@ -1993,9 +1936,9 @@
       "title": "S3 Ep 54: The Airport Departure Lounge Edition",
       "published_at": "2024-10-02T02:00:00+00:00",
       "link": null,
-      "description": "As Rom’s waiting to board a flight to Australia that’s been seriously delayed, what better way to fill the time than by recording this week’s show at the airport. So, for our first ever Wolf & Owl on location episode, Tom joins him via Zoom to get the lowdown on all the shenanigans and find out if and when Rom’s ever going to take off. This is nail-biting podding at its very best! In other news, they also do a thorough debrief of Tom’s recent appearance on Rom’s Radio 2 show and have a chat about a Final Fantasy cosplay party. Plus, there’s a very exciting announcement about our Wolf & Owl Christmas party at the Alexandra Palace Theatre on 3rd December. So make sure that you sign up to our mailing list HERE for all the latest ticket news and information. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "As Rom’s waiting to board a flight to Australia that’s been seriously delayed, what better way to fill the time than by recording this week’s show at the airport. So, for our first ever Wolf & Owl on location episode, Tom joins him via Zoom to get the lowdown on all the shenanigans and find out if and when Rom’s ever going to take off. This is nail-biting podding at its very best! In other news, they also do a thorough debrief of Tom’s recent appearance on Rom’s Radio 2 show and have a chat about a Final Fantasy cosplay party. Plus, there’s a very exciting announcement about our Wolf & Owl Christmas party at the Alexandra Palace Theatre on 3rd December. So make sure that you sign up to our mailing list HERE for all the latest ticket news and information. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5622546505.mp3?updated=1727769464",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5622546505.mp3?updated=1779808449",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2845",
@@ -2015,9 +1958,9 @@
       "title": "S3 Ep 53: Willie Giggles & A Hot Rom Drop",
       "published_at": "2024-09-25T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… permanent tiredness, always finding Willie funny, nicknames and coming up with TV character names, a big Arsenal day out, football bullies and Tom’s top 25 ex-footballers, a very careful chat about the latest P-Diddy allegations, Rom’s DMC finals drop for Revrt, an upcoming trip to Australia and what might happen if the podcast ever ended? Then we answer a few more of your emails, this time a question about collapsing chairs (and a few other on-set disasters) and a request for some advice about a relationship problem. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… permanent tiredness, always finding Willie funny, nicknames and coming up with TV character names, a big Arsenal day out, football bullies and Tom’s top 25 ex-footballers, a very careful chat about the latest P-Diddy allegations, Rom’s DMC finals drop for Revrt, an upcoming trip to Australia and what might happen if the podcast ever ended? Then we answer a few more of your emails, this time a question about collapsing chairs (and a few other on-set disasters) and a request for some advice about a relationship problem. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9391107713.mp3?updated=1727242534",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9391107713.mp3?updated=1779808155",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3744",
@@ -2037,9 +1980,9 @@
       "title": "S3 Ep 52: Friday Bonus & A Padel Match",
       "published_at": "2024-09-20T02:00:00+00:00",
       "link": null,
-      "description": "We’ve finally gone and followed up on one of our promises and had a game of Padel. Earlier this week, Rom and Tom met up with Jill Scott and Jonathan Andrews for a doubles match at the O2 Padel Social Club. So standby for a full report on their game. We also discuss soppy text messages, a Jonas Brothers concert, Wetherspoons toilets, Tom’s over-enthusiasm, invites to christenings, painted nails and having a bad nights sleep worrying. And there’s even time for us to answer a few of your emails too - it’s one bumper of a bonus show! Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’ve finally gone and followed up on one of our promises and had a game of Padel. Earlier this week, Rom and Tom met up with Jill Scott and Jonathan Andrews for a doubles match at the O2 Padel Social Club. So standby for a full report on their game. We also discuss soppy text messages, a Jonas Brothers concert, Wetherspoons toilets, Tom’s over-enthusiasm, invites to christenings, painted nails and having a bad nights sleep worrying. And there’s even time for us to answer a few of your emails too - it’s one bumper of a bonus show! Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4444744207.mp3?updated=1726825788",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4444744207.mp3?updated=1779807242",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3216",
@@ -2058,9 +2001,9 @@
       "title": "S3 Ep 51: Oasis Investigations & Despicable Rom",
       "published_at": "2024-09-18T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… the Oasis reunion gigs, big blags and fake fans, a dinner party investigation, an imaginary Knight Rider car, Diggerland dads, household chores, birthday meal delays, gendered hobbies and Rom’s mysterious Despicable Me disappearance. Plus, more of our ‘conversation starter’ role plays - and this time we’re a at a busy house party and the horse races too. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… the Oasis reunion gigs, big blags and fake fans, a dinner party investigation, an imaginary Knight Rider car, Diggerland dads, household chores, birthday meal delays, gendered hobbies and Rom’s mysterious Despicable Me disappearance. Plus, more of our ‘conversation starter’ role plays - and this time we’re a at a busy house party and the horse races too. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6637977946.mp3?updated=1726825807",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6637977946.mp3?updated=1779805794",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3217",
@@ -2080,9 +2023,9 @@
       "title": "S3 Ep 50: Friday Bonus & Loads Of Swearing",
       "published_at": "2024-09-13T02:00:00+00:00",
       "link": null,
-      "description": "Time for a look at more of your sweet, sweet emails. So after a quick chat about koala bears and Rom’s upcoming international tour dates, we read messages about some advice on ice bath maintenance, anxiety over an upcoming stag-do, having ‘your moment’ doing something creative and a quandary about listening to the podcast when your kids are around. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Time for a look at more of your sweet, sweet emails. So after a quick chat about koala bears and Rom’s upcoming international tour dates, we read messages about some advice on ice bath maintenance, anxiety over an upcoming stag-do, having ‘your moment’ doing something creative and a quandary about listening to the podcast when your kids are around. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2084160108.mp3?updated=1726201427",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2084160108.mp3?updated=1779805338",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2035",
@@ -2096,35 +2039,13 @@
       ]
     },
     {
-      "key": "29510c0f9ea5736721ac3086030417b8d5fbebc8",
-      "title": "S3 Ep 49: Thirst Traps & Pool Pals",
-      "published_at": "2024-09-11T02:00:00+00:00",
-      "link": null,
-      "description": "It’s that time again - the Wolf and Owl are back in the studio together, ready for more face to face banter. So we’re talking… being in great shape, back cracking, very smiley photos, Insta post thirst traps, chat-show challenges, Rom’s radio show routine, Tom’s holiday disappointment and a supportive new pal at the pool, managing egos, navigating set-backs and passing the parenting buck when on holiday. Also, a big shout out to Eddie - you the man! For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9376644645.mp3?updated=1725896736",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3433",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": [
-        "thirst",
-        "traps",
-        "pool",
-        "pals"
-      ]
-    },
-    {
       "key": "9e1fe21cbccde369a8b3482a4f411d1e196cf8fe",
       "title": "S3 Ep 48: Rangaball & Getting Caught Naked",
       "published_at": "2024-09-04T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… podcast admin issues, chronic hat-hair, Rom returning home from his Portugal trip, making holiday friends, a new game called ‘Rangaball’, playing padel with Jason Manford, getting caught naked at the ALOTO studios, a bit of a backtracking on wasps and 250 conversation starters. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… podcast admin issues, chronic hat-hair, Rom returning home from his Portugal trip, making holiday friends, a new game called ‘Rangaball’, playing padel with Jason Manford, getting caught naked at the ALOTO studios, a bit of a backtracking on wasps and 250 conversation starters. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5072644013.mp3?updated=1725443939",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5072644013.mp3?updated=1779801686",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3051",
@@ -2141,12 +2062,12 @@
       "title": "S3 Ep 47: Our Summer Holiday Finale!",
       "published_at": "2024-08-30T02:00:00+00:00",
       "link": null,
-      "description": "It’s our final show while Rom’s away on his family holiday in Greece and it’s been a wonderful summer break. So we’re talking… breakfast buffet banter, the best waiter in the world, working on your personality traits, what the point of wasps is, playing a cameo in other peoples lives, bacon quality abroad, the comedians inner circle, the greatness of Chris McCausland, Tom’s Christmas Rant disaster, an uncleaned air-frier and desperately trying to impress people in their 20’s. Plus, our first W&O FPL update of the season and more on the fall-out from Ray Gunn’s Olympic breakdance fiasco. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s our final show while Rom’s away on his family holiday in Greece and it’s been a wonderful summer break. So we’re talking… breakfast buffet banter, the best waiter in the world, working on your personality traits, what the point of wasps is, playing a cameo in other peoples lives, bacon quality abroad, the comedians inner circle, the greatness of Chris McCausland, Tom’s Christmas Rant disaster, an uncleaned air-frier and desperately trying to impress people in their 20’s. Plus, our first W&O FPL update of the season and more on the fall-out from Ray Gunn’s Olympic breakdance fiasco. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5056926470.mp3?updated=1724996979",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5056926470.mp3?updated=1779801416",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4084",
+      "itunes_duration": "4113",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -2162,12 +2083,12 @@
       "title": "S3 Ep 46: Grey Beards & Cool Dads",
       "published_at": "2024-08-21T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… what to do about a greying beard, Snapchat filters, a big follow-up on last week’s breakdance debacle, the release of Tom’s Underdog tour special, a third instalment of the Tom Packman story and a cherished Nandos black card, lads-holidays, being a cool dad, first girlfriends and boyfriends, the Swan’s life-long dream to become a professional breakdancer, hanging out with Prince William and Rom’s lovely black nail varnish. Plus, a very exciting announcement about our first Wolf & Owl football team sponsorship and the kicking-off of our new season's FPL league. Underdog premieres on Sky Comedy tonight at 9pm (20/08/24). For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… what to do about a greying beard, Snapchat filters, a big follow-up on last week’s breakdance debacle, the release of Tom’s Underdog tour special, a third instalment of the Tom Packman story and a cherished Nandos black card, lads-holidays, being a cool dad, first girlfriends and boyfriends, the Swan’s life-long dream to become a professional breakdancer, hanging out with Prince William and Rom’s lovely black nail varnish. Plus, a very exciting announcement about our first Wolf & Owl football team sponsorship and the kicking-off of our new season's FPL league. Underdog premieres on Sky Comedy tonight at 9pm (20/08/24). For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT6097460485.mp3?updated=1724168681",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6097460485.mp3?updated=1779800859",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3736",
+      "itunes_duration": "3766",
       "speakers": [
         "Grey Beards",
         "Romesh Ranganathan",
@@ -2185,12 +2106,12 @@
       "title": "S3 Ep 45: Restaurant Controversies & Olympic Breakdancers",
       "published_at": "2024-08-14T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… chillaxed Rom on holiday, a heartfelt apology for Tom Packman, lots of listener feedback on the scavenged food in restaurants debate, takeaway freebees, aggressive late-night customers, different attitudes to tipping, reluctantly running a pub, lookalikes and mistaken identities, Ray Gunn’s Olympic breakdance routine, social media pile-ons and maturing in our stand-up. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… chillaxed Rom on holiday, a heartfelt apology for Tom Packman, lots of listener feedback on the scavenged food in restaurants debate, takeaway freebees, aggressive late-night customers, different attitudes to tipping, reluctantly running a pub, lookalikes and mistaken identities, Ray Gunn’s Olympic breakdance routine, social media pile-ons and maturing in our stand-up. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7580618900.mp3?updated=1723668489",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7580618900.mp3?updated=1779800220",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3817",
+      "itunes_duration": "3622",
       "speakers": [
         "Tom Packman",
         "Romesh Ranganathan",
@@ -2208,9 +2129,9 @@
       "title": "S3 Ep 44: Friday Bonus with the Lupo E Gufo",
       "published_at": "2024-08-09T02:00:00+00:00",
       "link": null,
-      "description": "Friday time = bonus time! So, we kick things off with a chat about international podcast adverts and an Italian version of the Wolf & Owl - Lupo E Gufo. Then it’s onto your emails and we answer questions about making use of leftover food, an awkward case of being called the wrong name, and if we’d like to change our pasts so that we met our wives sooner. There’s also plenty of the usual digressions like thoughts on bow ties, brilliant bakeries, Rom’s reheated rice and some nasty food poisoning. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Friday time = bonus time! So, we kick things off with a chat about international podcast adverts and an Italian version of the Wolf & Owl - Lupo E Gufo. Then it’s onto your emails and we answer questions about making use of leftover food, an awkward case of being called the wrong name, and if we’d like to change our pasts so that we met our wives sooner. There’s also plenty of the usual digressions like thoughts on bow ties, brilliant bakeries, Rom’s reheated rice and some nasty food poisoning. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2899304345.mp3?updated=1723040587",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2899304345.mp3?updated=1779799069",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2418",
@@ -2229,12 +2150,12 @@
       "title": "S3 Ep 43: A Holiday Owl & Tearaway Toddlers",
       "published_at": "2024-08-07T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… early morning sharpeners, growing too old for slang words, getting rusty, the Owl’s family holiday at Center Parcs, paint-balling panics, a triumphant Swan at the bowling ally, hotel restaurant rivalries, naughty toddlers, Olympic successes, more on those Art Attack rumours and a bizarre message from listener. Then, in a turn to more serious matters, we also discuss Facebook racists and share some thoughts on the recent shameful riots. It's all of life on the Wolf & Owl. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… early morning sharpeners, growing too old for slang words, getting rusty, the Owl’s family holiday at Center Parcs, paint-balling panics, a triumphant Swan at the bowling ally, hotel restaurant rivalries, naughty toddlers, Olympic successes, more on those Art Attack rumours and a bizarre message from listener. Then, in a turn to more serious matters, we also discuss Facebook racists and share some thoughts on the recent shameful riots. It's all of life on the Wolf & Owl. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT3493665030.mp3?updated=1722932268",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3493665030.mp3?updated=1779796962",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3295",
+      "itunes_duration": "3291",
       "speakers": [
         "Holiday Owl",
         "Romesh Ranganathan",
@@ -2251,12 +2172,12 @@
       "title": "S3 Ep 42: Friday Bonus & 'Gonna Go Water'",
       "published_at": "2024-08-02T02:00:00+00:00",
       "link": null,
-      "description": "We’re back to finish the week off in style with more of your wonderful email comments and questions. First up though, a quick gripe about intimidating members clubs and late-night UFC matches. But once that’s all sorted, we read out a message reminding us about the phrase ’gonna go water’, offer some advice to a listener struggling to get used a very wanted yet unexpected pregnancy, and help out a British listener living in New Zealand but thinking about returning to the UK. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re back to finish the week off in style with more of your wonderful email comments and questions. First up though, a quick gripe about intimidating members clubs and late-night UFC matches. But once that’s all sorted, we read out a message reminding us about the phrase ’gonna go water’, offer some advice to a listener struggling to get used a very wanted yet unexpected pregnancy, and help out a British listener living in New Zealand but thinking about returning to the UK. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8460304904.mp3?updated=1722434474",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8460304904.mp3?updated=1779796506",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1772",
+      "itunes_duration": "1771",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -2271,12 +2192,12 @@
       "title": "S3 Ep 41: Art Shows & Scavenged Chips",
       "published_at": "2024-07-31T02:00:00+00:00",
       "link": null,
-      "description": "We’re talking… being back on Zoom, Tom’s re-scheduled Scotland gigs, storytelling with Ally McCoist, Rom definitely not presenting a TV art show, more raw-dogging on flights, making albums, keeping positive, some miss-appropriated chips, not promoting the pod, a National Trust dog and pigeon fiasco, a chronic lack of privacy at home, getting into Skechers and being great a taking the piss. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re talking… being back on Zoom, Tom’s re-scheduled Scotland gigs, storytelling with Ally McCoist, Rom definitely not presenting a TV art show, more raw-dogging on flights, making albums, keeping positive, some miss-appropriated chips, not promoting the pod, a National Trust dog and pigeon fiasco, a chronic lack of privacy at home, getting into Skechers and being great a taking the piss. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT2873220350.mp3?updated=1722382265",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2873220350.mp3?updated=1779796188",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3508",
+      "itunes_duration": "3437",
       "speakers": [
         "Ally McCoist",
         "Romesh Ranganathan",
@@ -2293,9 +2214,9 @@
       "title": "S3 Ep 40: Friday Bonus & Not-So Spanish Beers",
       "published_at": "2024-07-26T02:00:00+00:00",
       "link": null,
-      "description": "We’re still together in the studio for this week’s bonus show. So once caps have been sorted and a phone holder arranged, we kick things off with Tom explaining what the CrowdStrike meltdown was all about (definite fact-check needed on this), and Rom recounts a mis-judged joke at his kids school performance. Then it’s onto your emails, which this week are on the pronunciation of Madri beer and a question about Tom’s early adoption of weighted vests. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "We’re still together in the studio for this week’s bonus show. So once caps have been sorted and a phone holder arranged, we kick things off with Tom explaining what the CrowdStrike meltdown was all about (definite fact-check needed on this), and Rom recounts a mis-judged joke at his kids school performance. Then it’s onto your emails, which this week are on the pronunciation of Madri beer and a question about Tom’s early adoption of weighted vests. Thanks for all your messages - keep them coming at wolfowlpod@gmail.com Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT4117028792.mp3?updated=1721903944",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4117028792.mp3?updated=1779795540",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1932",
@@ -2314,9 +2235,9 @@
       "title": "S3 Ep 39: Studio Vibes & A Missing Spiderman",
       "published_at": "2024-07-24T02:00:00+00:00",
       "link": null,
-      "description": "It’s a very special edition of the pod this week as the Wolf and Owl are together in a studio to record the show face to face. We’re talking… reporter apologies, embarrassing eyewear, old school pals, doing a runner, Tom’s golf gig and a case of mistaken identity, a Harry Styles misdirection, Boxpark video shame, Rom’s tricky time at the Dre and Snoop launch party, not meeting your heroes, over-packing for holidays, buffet-wear, teenage sleepovers and a stressful pillow buying trip to Bluewater. Trigger Warning for the bleep-phobic out there - there are a lot of them in the first 10 minutes of the show. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production For sales and sponsorship enquiries: HELLO@KEEPITLIGHTMEDIA.COM Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "It’s a very special edition of the pod this week as the Wolf and Owl are together in a studio to record the show face to face. We’re talking… reporter apologies, embarrassing eyewear, old school pals, doing a runner, Tom’s golf gig and a case of mistaken identity, a Harry Styles misdirection, Boxpark video shame, Rom’s tricky time at the Dre and Snoop launch party, not meeting your heroes, over-packing for holidays, buffet-wear, teenage sleepovers and a stressful pillow buying trip to Bluewater. Trigger Warning for the bleep-phobic out there - there are a lot of them in the first 10 minutes of the show. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT8075717015.mp3?updated=1721749618",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8075717015.mp3?updated=1779795201",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3839",
@@ -6355,11 +6276,11 @@
       "published_at": "2021-03-10T07:00:00+00:00",
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode15",
       "description": "We’re talking… Pelé and the pitfalls of panel shows, stand-up shockers, lookalikes (or not at all-alikes) and celebrity snaps. Plus some advice on careers, a change of heart and a heated debate about losing a customer. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/98de181c-4831-11ed-b685-eff396b000d9/image/611fbb2615a1aa001297f3ea.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/GLT1882898612.mp3?updated=1777646154",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1882898612.mp3?updated=1780669667",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4021",
+      "itunes_duration": "4026",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -6410,10 +6331,10 @@
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode13",
       "description": "We’re talking… keeping up with the cool kids, when to help out a stranger (or not), sweet souls, man-bags and Mulberry handbags, and traumatic encounters with tradesmen. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT7849233859.mp3?updated=1777641929",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7849233859.mp3?updated=1780668673",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4208",
+      "itunes_duration": "4213",
       "speakers": [
         "sweet souls",
         "Romesh Ranganathan",
@@ -6441,23 +6362,6 @@
       ]
     },
     {
-      "key": "51a0cb1d16d19e83db98e65936d6f427db850962",
-      "title": "Episode 12",
-      "published_at": "2021-02-17T07:00:00+00:00",
-      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode12",
-      "description": "We’re talking… getting used to wearing jeans again, the mind-blowing genius of zips, personalised cards, buying gifts and unconventional uses for a cheese and onion pasty. Plus our old friends persnickety and Kreme both make a return appearance. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT9691249316.mp3?updated=1777641821",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3969",
-      "speakers": [
-        "Romesh Ranganathan",
-        "Tom Davis"
-      ],
-      "topics": []
-    },
-    {
       "key": "89b18cd74aceefccfeec93222364c873763d0e42",
       "title": "Bonus Email Episode #3",
       "published_at": "2021-02-12T07:00:00+00:00",
@@ -6483,10 +6387,10 @@
       "link": "https://shows.acast.com/wolf-and-owl/episodes/episode11",
       "description": "We’re talking… owning your own style, having a good bedside manner (or lack of), making up new words and hand shakes vs fist-bumps. Plus a dramatic revelation about someone’s age. Oh and just so you know, Tom’s still not oiled his chair. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
-      "enclosure_url": "https://traffic.megaphone.fm/GLT5732961212.mp3?updated=1778077743",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5732961212.mp3?updated=1780586755",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3998",
+      "itunes_duration": "4008",
       "speakers": [
         "Romesh Ranganathan",
         "Tom Davis"
@@ -6732,6 +6636,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — Hot Chip Aftermath, WhatsApp Groups and Holding Grudges — speakers: Hot Chip Aftermath, Romesh Ranganathan, Tom Davis
+- 2026-06-01 — Hot Chip Challenge, Bathroom Habits and Amanda Holden — speakers: Amanda Holden, Romesh Ranganathan, Tom Davis
+- 2026-05-28 — In-Laws, FOMO and Thierry Henry — speakers: Thierry Henry Who, Romesh Ranganathan, Tom Davis
 - 2026-05-25 — Timothée Chalamet, Ewoks and How To Interview — speakers: Timothée Chalamet, Romesh Ranganathan, Tom Davis
 - 2026-05-21 — Weddings, Food Vans and King Prawn Purée — speakers: David Haye, Romesh Ranganathan, Tom Davis
 - 2026-05-18 — Tyson Fury, Arsenal Merch and Awkward Interactions — speakers: Tyson Fury, Arsenal Merch, Awkward Interactions Do, Romesh Ranganathan, Tom Davis
@@ -6766,7 +6673,6 @@
 - 2025-11-27 — S4 Ep 47: The Big Questions & See Through Blinds — speakers: Romesh Ranganathan, Tom Davis
 - 2025-11-19 — S4 Ep 46: Theatre Rom & Cranston Pickle — speakers: Bryan Cranston, Romesh Ranganathan, Tom Davis
 - 2025-11-12 — S4 Ep 45: The Falafel Guy & Christmas Adverts — speakers: Tom’s Work, Romesh Ranganathan, Tom Davis
-- 2025-11-05 — S4 Ep 44: Wagyu Burgers & Rom in NYC — speakers: Gordon Ramsey, Ray Liotta, Romesh Ranganathan, Tom Davis
 - 2025-10-31 — S4 Ep 43: Live at London’s Hackney Empire — speakers: Romesh Ranganathan, Tom Davis
 - 2025-10-22 — S4 Ep 42: AITA Bonus Show — speakers: Romesh Ranganathan, Tom Davis
 - 2025-10-15 — S4 Ep 41: Auditions & Am I The A**hole — speakers: Eon Musk, Romesh Ranganathan, Tom Davis
@@ -6775,7 +6681,6 @@
 - 2025-09-24 — S4 Ep 38: Wine Gifts & Chat Shows — speakers: Romesh Ranganathan, Tom Davis
 - 2025-09-17 — S4 Ep 37: Body Aches & Hair Transplants — speakers: Rom’s Doug, Romesh Ranganathan, Tom Davis
 - 2025-09-10 — S4 Ep 36: Curry Gifts & A Meditation Cushion — speakers: Romesh Ranganathan, Tom Davis
-- 2025-09-04 — S4 Ep 35: Meat Feasts & Mango Chutney — speakers: Romesh Ranganathan, Tom Davis
 - 2025-08-27 — S4 Ep 34: A Pool Poo & Slow Jet Skiing — speakers: Romesh Ranganathan, Tom Davis
 - 2025-08-20 — S4 Ep 33: The Summer Holiday Edition — speakers: Romesh Ranganathan, Tom Davis
 - 2025-08-13 — S4 Ep 32: Night In Vlogs & A Dead Laptop — speakers: Romesh Ranganathan, Tom Davis
@@ -6784,16 +6689,13 @@
 - 2025-07-23 — S4 Ep 29: Boxing Bants & AI Podcasts — speakers: Romesh Ranganathan, Tom Davis
 - 2025-07-16 — S4 Ep 28: Halloween Costumes & A Dance Contest — speakers: Mel Giedroyc, Romesh Ranganathan, Tom Davis
 - 2025-07-09 — S4 Ep 27: The Scorpion & A Spudgun — speakers: Romesh Ranganathan, Tom Davis
-- 2025-07-02 — S4 Ep 26: Clooney Chats & Rom’s Album — speakers: Romesh Ranganathan, Tom Davis
 - 2025-06-25 — S4 Ep 25: Avoiding Bees & Burnt Pizzas — speakers: Romesh Ranganathan, Tom Davis
-- 2025-06-18 — S4 Ep 24: School Appeals & AI Stand-Up — speakers: Romesh Ranganathan, Tom Davis
 - 2025-06-11 — S4 Ep 23: Dartmoor Ghosts & Alien Overlords — speakers: Romesh Ranganathan, Tom Davis
 - 2025-06-04 — S4 Ep 22: Rom In Copenhagen & Scores Out Of 10 — speakers: Romesh Ranganathan, Tom Davis
 - 2025-05-28 — S4 Ep 21: Mandrills & BO — speakers: Rom’s European, Romesh Ranganathan, Tom Davis
 - 2025-05-21 — S4 Ep 20: Drinking Disasters and Useless Seals — speakers: Romesh Ranganathan, Tom Davis
 - 2025-05-14 — S4 Ep 19: Superhero Fights & A Signed Thong — speakers: Natalie Portman, Romesh Ranganathan, Tom Davis
 - 2025-05-07 — S4 Ep 18: Hot Marathons & Gorilla Debates — speakers: Romesh Ranganathan, Tom Davis
-- 2025-04-23 — S4 Ep 17: Family Gatherings & Rom Vs The Council — speakers: Romesh Ranganathan, Tom Davis
 - 2025-04-16 — S4 Ep 16: Marathon Prep & Aubergine Ragu — speakers: Aubergine Ragu, Romesh Ranganathan, Tom Davis
 - 2025-04-09 — S4 Ep 15: A New Cat & Usher’s Cherries — speakers: Romesh Ranganathan, Tom Davis
 - 2025-04-04 — S4 Ep 14: Rom’s Beard and Tom’s Nose — speakers: Rom’s Beard, Tom’s Nose, Romesh Ranganathan, Tom Davis
@@ -6817,7 +6719,6 @@
 - 2024-11-20 — S3 Ep 61: Nas Nights & Big Soups — speakers: Romesh Ranganathan, Tom Davis
 - 2024-11-15 — S3 Ep 60: Busy Tom & Sprout Surprises — speakers: Busy Tom, Sprout Surprises Apologies, Romesh Ranganathan, Tom Davis
 - 2024-11-06 — S3 Ep 59: Quiz Questions & Stolen AirPod Sleuths — speakers: Romesh Ranganathan, Tom Davis
-- 2024-10-30 — S3 Ep 58: Jumper-Gate & Celebrity Politics — speakers: Stewart Williams, Romesh Ranganathan, Tom Davis
 - 2024-10-23 — S3 Ep 57: Dogs And Cats & Hotel Room Numbers — speakers: Romesh Ranganathan, Tom Davis
 - 2024-10-16 — S3 Ep 56: TV Nostalgia & Pedicure Problems — speakers: Romesh Ranganathan, Tom Davis
 - 2024-10-09 — S3 Ep 55: Two Pints & A Missing Romesh — speakers: Romesh Ranganathan, Tom Davis
@@ -6826,7 +6727,6 @@
 - 2024-09-20 — S3 Ep 52: Friday Bonus & A Padel Match — speakers: Romesh Ranganathan, Tom Davis
 - 2024-09-18 — S3 Ep 51: Oasis Investigations & Despicable Rom — speakers: Oasis Investigations, Romesh Ranganathan, Tom Davis
 - 2024-09-13 — S3 Ep 50: Friday Bonus & Loads Of Swearing — speakers: Romesh Ranganathan, Tom Davis
-- 2024-09-11 — S3 Ep 49: Thirst Traps & Pool Pals — speakers: Romesh Ranganathan, Tom Davis
 - 2024-09-04 — S3 Ep 48: Rangaball & Getting Caught Naked — speakers: Romesh Ranganathan, Tom Davis
 - 2024-08-30 — S3 Ep 47: Our Summer Holiday Finale! — speakers: Romesh Ranganathan, Tom Davis
 - 2024-08-21 — S3 Ep 46: Grey Beards & Cool Dads — speakers: Grey Beards, Romesh Ranganathan, Tom Davis
@@ -7041,7 +6941,6 @@
 - 2021-03-03 — Episode 14 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-24 — Episode 13 — speakers: sweet souls, Romesh Ranganathan, Tom Davis
 - 2021-02-19 — Bonus Email Episode #4 — speakers: Romesh Ranganathan, Tom Davis
-- 2021-02-17 — Episode 12 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-12 — Bonus Email Episode #3 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-10 — Episode 11 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-05 — Bonus Email Episode #2 — speakers: Romesh Ranganathan, Tom Davis

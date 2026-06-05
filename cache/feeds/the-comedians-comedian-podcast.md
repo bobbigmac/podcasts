@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-05-22T09:49:25+00:00`
-- checked_at: `2026-05-22T09:49:25+00:00`
-- etag: `"djEuMi4wOjE3Nzk0MjYwMzk2MjM="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA1NDkyMzk3ODg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-05-22T09:49:25+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,45 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a72a2a72f31294139b239f60b5d6a6d30e009bdf",
+      "title": "Sara Pascoe Returns",
+      "published_at": "2026-06-04T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/511-sara-pascoe-returns",
+      "description": "Exactly 500 episodes later one of the UK’s most acclaimed comics, Sara Pascoe , returns to the show. Fresh off her latest tour, I Am A Strange Gloop, we discuss: how comedians become addicted to rejection the imbalance of what the circuit means for different comedians why there should be a workshop for comics to survive panel shows the impossible balance between truth and funny in stand-up whether using writers in comedy is “cheating” and we find out if Sara Pascoe is happy … Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to exclusive extras where discuss the hidden world of corporate gigs including: why corporates can feel impossible from the start the different standards held between public and private shows and we unpack the survival tactics used by pro comics on the circuit 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Sara: You can see Sara Pascoe for one night only at this year's Edinburgh Fringe at the Underbelly on the 5th August. Find all the info at sarapascoe.co.uk . You can keep-up-date with Sara on Instagram, @sara.pascoe . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content with Sara ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE ON TOUR , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Other things : Find out more abotu Lee Kyle's book at imleekyle.com . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1780512624779-878cc6ee-a0f9-4c0e-a82d-373fb8c82772.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a20788d5ef62e6e7e837cd7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127990656",
+      "itunes_duration": "1:28:52",
+      "speakers": [
+        "Sara Pascoe",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sara",
+        "pascoe",
+        "return"
+      ]
+    },
+    {
+      "key": "ad96acb6b82bdee04df5f63106fa47295c2ce067",
+      "title": "A Very Important Announcement...",
+      "published_at": "2026-05-29T11:15:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/a-very-important-announcement",
+      "description": "HUGE NEWS: I'M GOING ON TOUR! I'm heading on my first UK tour in nearly a decade with Canary. As the miners scrambled to safety, they’d try to grab the dead canary and then immediately revive it with pure oxygen, condemning it to a constant loop of singing, panicking, dying and then singing again. Which is a tiny bit like medicating your chronic dread by making people laugh about the climate crisis* *As certified by The TImes: \"The funny side of climate change… No, really!\" LIVE DATES Edinburgh | 17th to 30th August Cambridge | 3rd September Glasgow | 16th September Oxford | 20th September Manchester | 2nd October Cardiff | 9th October Maidenhead | 16th October Sheffield | 6th November Birmingham | 13th November PLUS, the biggest headline show of my career... Bristol Old Vi c | 18th November Tickets now on sale at stuartgoldsmith.com/comedy . This show blazes with fierce hope! I'm really proud of it, and can't wait to take it out on the road (sustainably of course). Hopefully see you there! - Stu Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1779884816741-5f551abc-72bf-4fd8-8b37-5ed081e42e2e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a16e51a8ff41815a8d8b590/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "7947101",
+      "itunes_duration": "5:30",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "announcement"
+      ]
+    },
     {
       "key": "b7aeef09680cb90550b7446c6c36a1906f93f1ae",
       "title": "Rose Matafeo (2018): ComCompendium",
@@ -11456,6 +11495,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — Sara Pascoe Returns — speakers: Sara Pascoe, Stuart Goldsmith
+- 2026-05-29 — A Very Important Announcement... — speakers: Stuart Goldsmith
 - 2026-05-22 — Rose Matafeo (2018): ComCompendium — speakers: Rose Matafeo, Stuart Goldsmith
 - 2026-05-14 — Ian Smith — speakers: Ian Smith, Edinburgh Comedy Award, Stuart Goldsmith
 - 2026-05-07 — John Robins Returns — speakers: John Robins Returns, Stuart Goldsmith

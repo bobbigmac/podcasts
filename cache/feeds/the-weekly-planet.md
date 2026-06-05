@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-05-25T04:50:57+00:00`
-- checked_at: `2026-05-25T04:50:57+00:00`
-- etag: `"djEuMi4wOjE3Nzk2ODM0MzkzMDA="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA1Nzk4Mzk0NTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-05-25T04:50:57+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,73 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "3354c64216304378d3f5ba5f1880383df32868f3",
+      "title": "The Fifth Element (Extended) - Caravan Of Garbage",
+      "published_at": "2026-06-04T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/the-fifth-element-extended-caravan-of-garbage",
+      "description": "To conclude our look at classic 90s sci-fi we've hit The Fifth Element! A wonderful action adventure movie starring Bruce Willis, Milla Jovovich and Gary Oldman sporting three of the most insane hairstyles every commited to film. Wonderful special effects, great world building, action scenes that pack a punch all under the direction of a really crook bloke. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a0e9f8d80978431da7b5435/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24309814",
+      "itunes_duration": "23:39",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "fifth",
+        "element",
+        "extended",
+        "caravan",
+        "garbage"
+      ]
+    },
+    {
+      "key": "13987fae6118096c5f12275ea4ff0eb8cf020fa6",
+      "title": "625 Backrooms & Spider-Noir",
+      "published_at": "2026-06-01T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/625-backrooms-spider-noir",
+      "description": "Welcome back everyone to a new episode of The Weekly Planet! This week we review two hot propeties that in a way have nothing in common, Backrooms and also Spider-Noir. We also discuss the passing of legandary editor Marcia Lucas, trouble for the Masters of the Universe 2026 adaptation, the return of AI Stan \"The Man\" Lee, the next movie from Obsession director Curry Barker and more! Thanks for listening New bonus movie commentary for E.T. The Extra-Terrestrial with James & Maso out now! Available to listen now on bigsandwich.co and patreon.com/mrsundaymovies alongside over 100 other full movie commentary tracks PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 02:50 Marcia Lucas RIP 06:24 Masters of the Universe Troubles 15:40 Somehow Stan Lee Has Returned 20:10 Obsession Director's Next Project 21:28 Sugar Season 2 Trailer 27:21 Backrooms Movie Review 43:12 Backrooms Spoiler Segment 58:53 Spider-Noir Series Review 01:08:34 Spider-Noir Spoiler Segment 01:16:22 What We Reading, What We Gonna Read 01:20:24 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a1c2568717bd81fe401e948/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "157489559",
+      "itunes_duration": "1:49:22",
+      "speakers": [
+        "Noir Welcome",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "backrooms",
+        "spider",
+        "noir"
+      ]
+    },
+    {
+      "key": "64527f0b90b6b46ea2bd80e3fd70abbdde14c10f",
+      "title": "Starship Troopers - Caravan Of Garbage",
+      "published_at": "2026-05-28T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/starship-troopers-caravan-of-garbage",
+      "description": "It's absolutely bizarre that the first live action adaptation of Starship Troopers from director Paul Verhoeven bombed as badly as it did. Not only that but critics also seemed to have completely missed the not very subtle social commetary in relation to the rise of facism in western society. Now, for the most part I hope, people seem to know better and this movie is recognised for both its satirical nature and incredible action sequences. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a0e8f3a11eba3cf152fc801/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26307814",
+      "itunes_duration": "25:44",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "starship",
+        "troopers",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "ed016bd82d8189d2d434a34fe81e56687c6962e0",
       "title": "624 The Mandalorian vs Groglet & The Boys Series Finale",
@@ -22369,6 +22436,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — The Fifth Element (Extended) - Caravan Of Garbage — speakers: James Clement, Nick Mason
+- 2026-06-01 — 625 Backrooms & Spider-Noir — speakers: Noir Welcome, James Clement, Nick Mason
+- 2026-05-28 — Starship Troopers - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-05-25 — 624 The Mandalorian vs Groglet & The Boys Series Finale — speakers: James Clement, Nick Mason
 - 2026-05-21 — Demolition Man - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-05-18 — 623 The Punisher: One Last Kill — speakers: Weekly Planet, Special Pre, James Clement, Nick Mason

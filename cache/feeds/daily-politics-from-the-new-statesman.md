@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-05-23T16:12:46+00:00`
-- checked_at: `2026-05-23T16:12:46+00:00`
-- etag: `"djEuMi4wOjE3Nzk1NTIwMzk0OTE="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA2NTM0MzgzNTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-05-23T16:12:46+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,72 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "563d26cc4cbcdae4d8f56a3540633746254dd4b6",
+      "title": "What does Makerfield make of Andy Burnham?",
+      "published_at": "2026-06-04T16:06:53+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/what-does-makerfield-make-of-andy-burnham",
+      "description": "The spectre of the Makerfield by-election on June 18th is hanging over British politics. If Andy Burnham wins, he’s in prime position to challenge Keir Starmer’s leadership. However, a Burnham victory in Makerfield is far from certain. Reform and their candidate Robert Kenyon are mounting a serious challenge. Tom McTague is joined by polling expert Scarlett Maguire and our political editor Ailbhe Rea to discuss. READ https://www.newstatesman.com/politics/uk-politics/2026/06/in-makerfield-voters-on-both-sides-are-united-by-despair https://www.newstatesman.com/politics/uk-politics/2026/06/andy-burnhams-door-knock-to-downing-street LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1780589028179-5d2f78de-fd9c-4627-ad7c-25f93640d2b6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a21a1ab7f20ed305bb6339e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "136013606",
+      "itunes_duration": "56:37",
+      "speakers": [
+        "Andy Burnham",
+        "Andy Bur",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "makerfield",
+        "andy",
+        "burnham"
+      ]
+    },
+    {
+      "key": "f9bb86758802d4823d3855c4e99e16ff3f894344",
+      "title": "Why UK politics has failed for 20 years",
+      "published_at": "2026-06-01T17:17:22+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/what-britain-wont-face",
+      "description": "While Westminster looks inward, the world is moving fast. Keir Starmer's government needs to focus on the urgent changes affecting all of our lives. Tom McTague joins Anoosh Chakelian to discuss his latest essay for the New Statesman, and answer listeners questions. This week, listeners ask: \"Why have British politicians been so useless for the past 20 years?\" and \"is it finally time for voting reform?\" LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1780334011943-6b3ee85b-7b52-4942-915e-67cf27893adb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a1db5d287d5963946868141/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25620897",
+      "itunes_duration": "26:41",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "politic",
+        "year"
+      ]
+    },
+    {
+      "key": "bdc75c73593b9f591839525e843ed8b4ba21bcf2",
+      "title": "Tony Blair has kicked the Labour Party into action",
+      "published_at": "2026-05-28T12:18:47+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/tony-blair-has-kicked-the-labour-party-into-action",
+      "description": "This week there’s only one subject to discuss – and that’s Tony Blair – who has written a blistering 5,000 word essay criticising everyone from Keir Starmer to Andy Burnham, Ed Miliband and Wes Streeting. Tom McTague is joined by political editor Ailbhe Rea to discuss this “right wing” intervention. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1779967492208-47e85e1b-f5c1-45cc-97a5-2ac8d4790b29.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a1825e0c1ad96e2630b5fa7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65755870",
+      "itunes_duration": "34:11",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "tony",
+        "blair",
+        "labour",
+        "party",
+        "action"
+      ]
+    },
     {
       "key": "fdf32b662051c77a1173bd27184f0ca264733cdc",
       "title": "Nigel Farage’s £5 million “reward” from crypto billionaire | Will and Anoosh",
@@ -31355,6 +31421,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — What does Makerfield make of Andy Burnham? — speakers: Andy Burnham, Andy Bur, Anoosh Chakelian, Oli Dugmore
+- 2026-06-01 — Why UK politics has failed for 20 years — speakers: Anoosh Chakelian, Oli Dugmore
+- 2026-05-28 — Tony Blair has kicked the Labour Party into action — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-23 — Nigel Farage’s £5 million “reward” from crypto billionaire | Will and Anoosh — speakers: Christopher Harborne, Anoosh Chakelian, Oli Dugmore
 - 2026-05-21 — Starmer attempts business as usual — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-05-18 — What is Andy Burnham’s “Manchesterism”? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore

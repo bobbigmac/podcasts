@@ -2,8 +2,8 @@
 
 - slug: `peacock-and-gamble`
 - source: `https://www.fubarradio.com/player/on-demand/peacock-and-gamble/`
-- fetched_at: `2026-05-26T10:17:42+00:00`
-- checked_at: `2026-05-26T10:17:42+00:00`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,65 @@
   "link": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "image_url": "",
-  "fetched_at": "2026-05-26T10:17:42+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "08f4ab2def98a1d8934c22a5d2ad172d49c47d95",
+      "guid": "4c4d6a0d-c3b7-4b9c-896d-4f3a04d8177b",
+      "title": "Peacock and Gamble (5th June)",
+      "published_at": "2026-06-05T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-5th-june1/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1780653735-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=4c4d6a0d-c3b7-4b9c-896d-4f3a04d8177b&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
+    {
+      "key": "098691ec84536c8c4cac0936d488e40236b08228",
+      "guid": "ed9f1779-2953-4ede-8fb6-98b6cfcec70d",
+      "title": "Peacock and Gamble (4th June)",
+      "published_at": "2026-06-04T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-4th-june/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1780588937-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=ed9f1779-2953-4ede-8fb6-98b6cfcec70d&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
+    {
+      "key": "649c60fbe02090b4b47d3a9a72003a5b2e8790ac",
+      "guid": "424a8603-91f5-4b5f-b3b7-a9e4bb736245",
+      "title": "Peacock and Gamble (29th May)",
+      "published_at": "2026-05-29T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-29th-may1/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1780048937-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=424a8603-91f5-4b5f-b3b7-a9e4bb736245&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
+    {
+      "key": "7a3aab3f8845d3684d803547d36a51fe1bce4d44",
+      "guid": "a763a634-50fd-402c-9ffb-d872e066dc8e",
+      "title": "Peacock and Gamble (28th May)",
+      "published_at": "2026-05-28T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-28th-may/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1779984153-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=a763a634-50fd-402c-9ffb-d872e066dc8e&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "0c287d4a98d2074255bee296f0e5056d1717fee6",
       "guid": "734f272a-3c2a-4af9-b813-533322b92767",
@@ -2800,6 +2852,10 @@
 
 ## Episodes (newest first)
 
+- 2026-06-05 — Peacock and Gamble (5th June)
+- 2026-06-04 — Peacock and Gamble (4th June)
+- 2026-05-29 — Peacock and Gamble (29th May)
+- 2026-05-28 — Peacock and Gamble (28th May)
 - 2026-05-22 — Peacock and Gamble (22nd May)
 - 2026-05-21 — Peacock and Gamble (21st May)
 - 2026-05-15 — Peacock and Gamble (15th May)

@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-05-21T22:41:08+00:00`
-- checked_at: `2026-05-21T22:41:08+00:00`
-- etag: `"d59e0-65259fcf82da6"`
-- last_modified: `Thu, 21 May 2026 20:45:09 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"d6dd7-6537369e13e9f"`
+- last_modified: `Thu, 04 Jun 2026 20:30:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-05-21T22:41:08+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,46 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "24227d16f102e9c0ad532789197cf93094a6e92a",
+      "title": "Kumail Nanjiani - Series 21 Ep.9",
+      "published_at": "2026-06-04T20:30:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "This week on the podcast Ed is joined by the (very famous) comedian, actor, writer and Hollywood superstar, Kumail Nanjiani! Unfortunately Kumail couldn't get to the caravan but that doesn't stop him from sharing his highs, lows, and bravest moments from the series. Kumail reveals how he got in to Taskmaster, what he thinks about the Gambelian comparison and how much he loved doing the show. For all of your Taskmaster news visit Taskmaster.tv To catch up on all previous Taskmaster Series visit channel4.com To watch loads of BTS and extra content go to our Taskmaster YouTube Channel",
+      "image_url": "https://artwork.captivate.fm/eff0ff6c-19ac-4810-85f6-dd2341ddabbf/TASKMASTER-PODCAST-ARTWORK-Kumail.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/8c5f062c-e7c6-458f-961c-7213c01c2193.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=8c5f062c-e7c6-458f-961c-7213c01c2193",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76745097",
+      "itunes_duration": "01:19:56",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "kumail",
+        "nanjiani",
+        "series"
+      ]
+    },
+    {
+      "key": "c1c334e10505b3d51ddd0c31348dda38cd008976",
+      "title": "Jason Mantzoukas - Series 21 Ep.8",
+      "published_at": "2026-05-28T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "This week Ed is joined by the brilliant actor, comedian, podcaster and all round super star, Jason Mantzoukas. We didn't manage to get Jason in the caravan but the pair chatted over zoom about Series 21 and Jason shares his love for the new line up! Jason also has some general TM notes for the team (uncut YouTube content anyone?) he gives some bts goss from Series 19, has some great merch ideas and he reveals that Conkers and Coconkers were completely alien to him and pretty much still are! For all your TM news visit Taskmaster.tv To catch up on all series of Taskmaster go to channel4.com and you can also visit the Taskmaster YouTube page youtube.com/c/Taskmaster",
+      "image_url": "https://artwork.captivate.fm/1998fa81-f3c0-4b27-8372-a1d6c2d2c4c3/TASKMASTER-PODCAST-ARTWORK-JASON.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/75c11465-700e-4f2d-9d6b-3c0ff0935e35.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=75c11465-700e-4f2d-9d6b-3c0ff0935e35",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72422980",
+      "itunes_duration": "01:15:26",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "jason",
+        "mantzoukas",
+        "series"
+      ]
+    },
     {
       "key": "adffafc9a6c27c536583a392c26d705a086707b5",
       "title": "John Kearns - Series 21 Ep.7",
@@ -5380,6 +5420,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — Kumail Nanjiani - Series 21 Ep.9 — speakers: Ed Gamble
+- 2026-05-28 — Jason Mantzoukas - Series 21 Ep.8 — speakers: Ed Gamble
 - 2026-05-21 — John Kearns - Series 21 Ep.7 — speakers: Ed Gamble, John Kearns
 - 2026-05-14 — Amy Gledhill - Series 21 Ep.6 — speakers: Amy Gledhill, Ed Gamble
 - 2026-05-07 — Joel Dommett - Series 21 Ep.5 — speakers: Joel Dommett, Ed Gamble

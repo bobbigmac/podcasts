@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-05-26T10:17:42+00:00`
-- checked_at: `2026-05-26T10:17:42+00:00`
-- etag: `W/"30e65-nhwl/E8SwYwhufLmYSs1md009go"`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `W/"32607-mCFKHTDcIOl1VFQPjn9L5wOltbA"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,150 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-05-26T10:17:42+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7f41cac68fdfda7b578604a5f15b24a7fc8da799",
+      "title": "Josh Widdicombe XFM # 24 – James Acaster Classic Scrape 21, Matthew Crosby",
+      "published_at": "2026-06-04T18:51:26+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM--24--James-Acaster-Classic-Scrape-21--Matthew-Crosby-e3kbkdh",
+      "description": "James Acaster shares another Classic Scape and Matthew Crosby phones in.Broadcast on 11th September 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1780598890716-872ec8d400a28.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4040193240.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32448260",
+      "itunes_duration": "00:33:47",
+      "speakers": [
+        "James Acaster Classic Scrape",
+        "Matthew Crosby",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "matthew",
+        "crosby"
+      ]
+    },
+    {
+      "key": "183ad2d8ca24a5131532df59df97eaa48b24bfde",
+      "title": "Josh Widdicombe XFM # 23 – Rob Beckett, Joe Lycett",
+      "published_at": "2026-06-03T18:56:24+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM--23--Rob-Beckett--Joe-Lycett-e3ka2v7",
+      "description": "Rob Beckett Joins Josh in the studio and Joe Lycett calls in.Broadcast on 3rd September 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1780512956944-3cb7f93c25a59.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7020791264.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29003858",
+      "itunes_duration": "00:30:12",
+      "speakers": [
+        "Rob Beckett",
+        "Joe Lycett"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "beckett",
+        "lycett"
+      ]
+    },
+    {
+      "key": "2433542fd3ae5cec9b8808bf068c20e06bb0b934",
+      "title": "Josh Widdicombe XFM #22 – John Robins, Sara Pascoe, James Acaster Classic Scrape 20, Joe Lycett",
+      "published_at": "2026-05-28T19:48:29+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-22--John-Robins--Sara-Pascoe--James-Acaster-Classic-Scrape-20--Joe-Lycett-e3k1i5b",
+      "description": "Josh is still at the Edinburgh Festival and is joined by James Acaster, Joe Lycett, John Robins, Sara Pascoe and Matt FordeBroadcast on 20th August 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1779997620325-8a6601ddcd615.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6581702450.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41238777",
+      "itunes_duration": "00:42:57",
+      "speakers": [
+        "John Robins",
+        "Sara Pascoe",
+        "James Acaster Classic Scrape",
+        "Joe Lycett Josh",
+        "James Acaster",
+        "Joe Lycett"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "john",
+        "robins",
+        "sara",
+        "pascoe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape"
+      ]
+    },
+    {
+      "key": "77a7bc3fdba097e23fd9638556f337f5b3ddc55d",
+      "title": "Josh Widdicombe XFM #21: James Acaster Classic Scrape 19, Joe Lycett, Charlie Baker",
+      "published_at": "2026-05-27T19:07:19+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-21-James-Acaster-Classic-Scrape-19--Joe-Lycett--Charlie-Baker-e3jvvs8",
+      "description": "Josh is at the Edinburgh festival and is joined by James Acaster, Joe Lycett and Charlie Baker.Broadcast on 13th August 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1779908747935-b89ae399d7ca3.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1949742943.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22367920",
+      "itunes_duration": "00:23:17",
+      "speakers": [
+        "James Acaster Classic Scrape",
+        "Joe Lycett",
+        "Charlie Baker",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "lycett",
+        "charlie",
+        "baker"
+      ]
+    },
+    {
+      "key": "ab5b42f2bc6d621dbeeaa6c195742df1527b162e",
+      "title": "Josh Widdicombe XFM #20 – Holly Walsh, James Acaster Classic Scrape 18",
+      "published_at": "2026-05-26T19:32:54+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-20--Holly-Walsh--James-Acaster-Classic-Scrape-18-e3jub9d",
+      "description": "James Acaster shares another classic scrape and Holly Walsh joins Josh in the studio.Broadcast on 30th July 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1779823944249-a2a3c4fd55aaf.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7035972367.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38110771",
+      "itunes_duration": "00:39:41",
+      "speakers": [
+        "Holly Walsh",
+        "James Acaster Classic Scrape",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "holly",
+        "walsh",
+        "james",
+        "acaster",
+        "classic",
+        "scrape"
+      ]
+    },
     {
       "key": "0a59c284f53875f225e9fe09a2e548dce8ce266d",
       "title": "Josh Widdicombe XFM #19 -James Acaster Classic Scrape 17, Joe Lycett on the moon landing",
@@ -3603,6 +3740,11 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — Josh Widdicombe XFM # 24 – James Acaster Classic Scrape 21, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster
+- 2026-06-03 — Josh Widdicombe XFM # 23 – Rob Beckett, Joe Lycett — speakers: Rob Beckett, Joe Lycett
+- 2026-05-28 — Josh Widdicombe XFM #22 – John Robins, Sara Pascoe, James Acaster Classic Scrape 20, Joe Lycett — speakers: John Robins, Sara Pascoe, James Acaster Classic Scrape, Joe Lycett Josh, James Acaster, Joe Lycett
+- 2026-05-27 — Josh Widdicombe XFM #21: James Acaster Classic Scrape 19, Joe Lycett, Charlie Baker — speakers: James Acaster Classic Scrape, Joe Lycett, Charlie Baker, James Acaster
+- 2026-05-26 — Josh Widdicombe XFM #20 – Holly Walsh, James Acaster Classic Scrape 18 — speakers: Holly Walsh, James Acaster Classic Scrape, James Acaster
 - 2026-05-26 — Josh Widdicombe XFM #19 -James Acaster Classic Scrape 17, Joe Lycett on the moon landing — speakers: Joe Lycett, James Acaster
 - 2026-05-21 — Josh Widdicombe XFM #18 – James Acaster vs Tom Craine: Battle of the Scrapes (Classic Scrape 16) — speakers: James Acaster, Tom Craine
 - 2026-05-20 — Josh Widdicombe XFM # 17 – James Acaster Classic Scrape 15, Joe Lycett — speakers: James Acaster Classic Scrape, Joe Lycett James Acaster, Joe Lycett

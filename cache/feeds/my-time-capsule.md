@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-05-25T04:50:57+00:00`
-- checked_at: `2026-05-25T04:50:57+00:00`
-- etag: `"djEuMi4wOjE3Nzk2NjM3NTk0MjE="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA2MTQxNTkyNzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-05-25T04:50:57+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,70 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ec0bcb3c492532521f493ff7aca6c002dd6b1836",
+      "title": "My Time Capsule The Dig - Ep. 5 - With Rufus Hound!",
+      "published_at": "2026-06-04T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-5-with-rufus-hound",
+      "description": "Mike and his producer and son John sit down together for a dig around in this week's Time Capsule and hear where Johann Hari wants to bury his capsule, Mike chats with Rufus Hound about his old capsule and where he wants it buried and they interact with listeners via email and voice memos . Rufus Hound was a guest in episode 6 of My Time Capsule! Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1780583368011-80c49dc3-5959-4f13-bfdf-b9fd8db5e249.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a218c8f1ddbe06b3ae2b7ea/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61185483",
+      "itunes_duration": "50:59",
+      "speakers": [],
+      "topics": [
+        "time",
+        "capsule",
+        "rufus",
+        "hound"
+      ]
+    },
+    {
+      "key": "85a2314f73d8cb19868cef89ae35bd476f54335f",
+      "title": "Ep. 587 - Johann Hari - New York Times bestseller, over 2 million books sold in 40 languages",
+      "published_at": "2026-06-01T06:13:36+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-587-johann-hari-new-york-times-bestselling-over-2-million",
+      "description": "Johann Hari is a New York Times bestselling author whose five books have sold more than two million copies in 40 languages. His acclaimed works include Stolen Focus , Lost Connections , Chasing the Scream and Magic Pill , exploring issues ranging from attention and mental health to addiction and obesity. His TED Talks have been viewed more than 93 million times, and Chasing the Scream was adapted into the Oscar-nominated film The United States vs. Billie Holiday . Hari also served as Executive Producer of an eight-part television series with Samuel L. Jackson. His work has been praised by figures including Oprah Winfrey, Noam Chomsky, Elton John and Naomi Klein. A former journalist, Johann has written for many of the world’s leading publications, including The New York Times , The Guardian , The Los Angeles Times , Politico , The Spectator and Le Monde Diplomatique . He has appeared on major broadcast and podcast platforms including NPR’s All Things Considered , HBO’s Real Time with Bill Maher , The Joe Rogan Experience and the BBC’s Question Time . Johann has twice been named National Newspaper Journalist of the Year by Amnesty International and has also received Comment Awards for Cultural Commentator of the Year and Environmental Commentator of the Year. Johann Hari is our guest in episode 587 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . For Johann’s book, visit - https://johannhari.com . Follow Johann Hari on Instagram : @johann.hari . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a1d2310626f8869c36bf185/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93198022",
+      "itunes_duration": "1:17:39",
+      "speakers": [
+        "Johann Hari"
+      ],
+      "topics": [
+        "johann",
+        "hari",
+        "york",
+        "times",
+        "bestseller",
+        "book",
+        "language"
+      ]
+    },
+    {
+      "key": "7dddc39f4d96c07cb4eef8d937613a714df7663b",
+      "title": "My Time Capsule The Dig - Ep. 4 - With Janet Ellis!",
+      "published_at": "2026-05-28T22:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-4-with-janet-ellis",
+      "description": "Mike and his producer and son John sit down together for a dig around in this week's Time Capsule, Mike asks Janet Ellis where she wants her time capsule buried and they interact with listeners via email and voice memos . Janet Ellis was a guest in episode 19 of My Time Capsule! Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow Janet Ellis on Instagram : @missjanetellis . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1780003085169-78d06b56-7a2b-4609-8954-01d9ba9e1ead.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a18b2bb847a83997ec0a037/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43595149",
+      "itunes_duration": "36:19",
+      "speakers": [
+        "Janet Ellis"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "janet",
+        "ellis"
+      ]
+    },
     {
       "key": "044c91b6a57c0cd9fb117a4bac19710d7a760885",
       "title": "Ep. 586 - Tom Bailey - Theatremaker & Arctic Expeditioner. Recorded from The Arctic Wilderness",
@@ -12657,6 +12721,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — My Time Capsule The Dig - Ep. 5 - With Rufus Hound!
+- 2026-06-01 — Ep. 587 - Johann Hari - New York Times bestseller, over 2 million books sold in 40 languages — speakers: Johann Hari
+- 2026-05-28 — My Time Capsule The Dig - Ep. 4 - With Janet Ellis! — speakers: Janet Ellis
 - 2026-05-24 — Ep. 586 - Tom Bailey - Theatremaker & Arctic Expeditioner. Recorded from The Arctic Wilderness — speakers: Arctic Expeditioner, Tom Bailey, Herald Angel
 - 2026-05-21 — My Time Capsule The Dig - Ep. 3 - With Josh Bolt (from George Clooney's Catch-22 & Tom Hanks' Masters of the Air) — speakers: George Clooney, Tom Hanks Masters
 - 2026-05-17 — Ep. 585 - Bryony Kimmings - Writer and performer who co-wrote the film Last Christmas with Emma Thompson — speakers: Emma Thompson, Bryony Kimmings

@@ -2,10 +2,10 @@
 
 - slug: `scummy-mummies`
 - source: `https://scummymummies.libsyn.com/rss`
-- fetched_at: `2026-02-21T00:11:50+00:00`
-- checked_at: `2026-02-21T00:11:50+00:00`
-- etag: `"ba856be9906dc7837ff2c79e11dffef6"`
-- last_modified: `Fri, 31 Oct 2025 21:43:34 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"6c4a169947b8a1e42d5a70e8f1d6cbc8"`
+- last_modified: `Fri, 29 May 2026 14:52:52 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.scummymummies.com/podcast.html",
   "description": "Scummy Mummies is the podcast for less-than-perfect parents. Comedians Helen Thorn and Ellie Gibson discuss a range of topics relevant to modern mums and dads, from culture and current affairs to farting and fish fingers.",
   "image_url": "https://static.libsyn.com/p/assets/c/f/f/1/cff1127faca92003/ituneslaughing_1400x1400.jpg",
-  "fetched_at": "2026-02-21T00:11:50+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Ellie Gibson",
     "Helen Thorn"
@@ -43,9 +43,6 @@
       "itunes_duration": "50:35",
       "speakers": [
         "Esther Walker",
-        "Giles Coren",
-        "Bad Cook",
-        "Yotam Ottolenghi",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -90,8 +87,6 @@
       "itunes_duration": "41:07",
       "speakers": [
         "Stuart Goldsmith",
-        "ComediansComedian com",
-        "Sarah Millican",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -114,9 +109,6 @@
       "itunes_duration": "40:45",
       "speakers": [
         "Bryony Gordon",
-        "Annabel Karmel",
-        "Cheryl Fernandez-Versini",
-        "Twitter bryony gordon",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -139,9 +131,6 @@
       "enclosure_length": "38738264",
       "itunes_duration": "40:22",
       "speakers": [
-        "Carolyn Robertson",
-        "Jenni Murray",
-        "Twitter CarolynAdopt",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -165,7 +154,6 @@
       "itunes_duration": "44:35",
       "speakers": [
         "Jessica Pidsley",
-        "Mutha Courage",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -187,7 +175,6 @@
       "itunes_duration": "41:28",
       "speakers": [
         "Dan Whitehead",
-        "Tom Hanks",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -209,7 +196,6 @@
       "enclosure_length": "39232291",
       "itunes_duration": "40:52",
       "speakers": [
-        "Clemmie Hooper",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -256,8 +242,6 @@
       "speakers": [
         "Nurse Jessie",
         "Steve Hill",
-        "Rob Sedgebeer",
-        "Joe Mangle",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -281,8 +265,6 @@
       "enclosure_length": "46602584",
       "itunes_duration": "48:33",
       "speakers": [
-        "Stuart Heritage",
-        "Noel Edmonds",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -307,7 +289,6 @@
       "speakers": [
         "Lucy Mangan",
         "Roald Dahl",
-        "Twitter lucymangan",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -356,7 +337,6 @@
       "itunes_duration": "47:28",
       "speakers": [
         "Dawn Isaac",
-        "Scummy Gardener",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -378,7 +358,8 @@
       "enclosure_length": "34732125",
       "itunes_duration": "36:11",
       "speakers": [
-        "Joining Helen",
+        "Grandads Special",
+        "Comedian What",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -402,11 +383,6 @@
       "itunes_duration": "43:55",
       "speakers": [
         "Kerry Godliman",
-        "Michael McIntyre",
-        "Kevin Bridges",
-        "Richard Branson",
-        "Scummy Mummy Confessions",
-        "Mummy Confessions",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -430,8 +406,6 @@
       "itunes_duration": "34:48",
       "speakers": [
         "Kent Valentine",
-        "Russell Brand",
-        "Mummy Confessions",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -453,9 +427,6 @@
       "enclosure_length": "45788399",
       "itunes_duration": "47:42",
       "speakers": [
-        "Helen McGinn",
-        "Atomic Kitten",
-        "Mummy Confessions",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -480,8 +451,7 @@
       "enclosure_length": "39926522",
       "itunes_duration": "41:36",
       "speakers": [
-        "Muhammad Ali",
-        "Center Parcs",
+        "Travel Special",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -525,8 +495,6 @@
       "itunes_duration": "37:44",
       "speakers": [
         "Kerry Leigh",
-        "Scummy Mummy Confessions",
-        "Cows Women",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -550,6 +518,9 @@
       "enclosure_length": "42547544",
       "itunes_duration": "44:20",
       "speakers": [
+        "DJ Ghetto Booty Dancing",
+        "mud baths",
+        "raw sewage",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -573,8 +544,6 @@
       "enclosure_length": "46959521",
       "itunes_duration": "48:55",
       "speakers": [
-        "Sarah Lorentzen",
-        "Penelope Keith",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -615,8 +584,7 @@
       "enclosure_length": "37693279",
       "itunes_duration": "39:16",
       "speakers": [
-        "Lucy Woodhouse",
-        "Meriel Durand",
+        "Lucy Woodho",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -637,9 +605,6 @@
       "itunes_duration": "43:24",
       "speakers": [
         "Peter Mattessi",
-        "Awight Guvnor",
-        "Scummy Mummy Confessions",
-        "Brighton Fringe",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -704,8 +669,6 @@
       "speakers": [
         "Katy Perry",
         "Abigail Burdess",
-        "Handbag Surprise",
-        "Scummy Mummy Confessions",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -727,9 +690,6 @@
       "itunes_duration": "44:08",
       "speakers": [
         "Laura Kemp",
-        "Allison Pearson",
-        "Follow Laura",
-        "Scummy Confessions",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -753,7 +713,6 @@
       "speakers": [
         "John Williams",
         "My Son's Not Rainman",
-        "Fray Bentos",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -794,7 +753,7 @@
       "enclosure_length": "39647325",
       "itunes_duration": "41:18",
       "speakers": [
-        "Mummy Confessions",
+        "Dr Greg Schwager",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -815,8 +774,6 @@
       "enclosure_length": "37685842",
       "itunes_duration": "39:16",
       "speakers": [
-        "Hannah Saunders",
-        "Guru Josh",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -838,7 +795,6 @@
       "itunes_duration": "41:30",
       "speakers": [
         "Steve Hill",
-        "Scummy Mummy Confessions",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -859,7 +815,8 @@
       "enclosure_length": "37114074",
       "itunes_duration": "38:40",
       "speakers": [
-        "Charlotte Forfieh",
+        "Very Scummy Christmas Season",
+        "Scummy Mummies Christmas Special",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -881,7 +838,6 @@
       "itunes_duration": "32:36",
       "speakers": [
         "Nina Swann",
-        "Miley Cyrus",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -906,7 +862,6 @@
       "itunes_duration": "43:05",
       "speakers": [
         "Barbara Windsor",
-        "Nurse Jessie",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -926,8 +881,6 @@
       "enclosure_length": "45742828",
       "itunes_duration": "47:39",
       "speakers": [
-        "Dannii Minogue",
-        "Handbag Surprise",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -984,7 +937,7 @@
     },
     {
       "key": "956cc382e376748d64e20909e4cae1076e50d03f",
-      "title": "Episode 4: Plums, plasagne and a Special GuestÂ",
+      "title": "Episode 4: Plums, plasagne and a Special Guest",
       "published_at": "2013-09-23T22:56:02+00:00",
       "link": "http://www.scummymummies.com/1/post/2013/09/episode-4-plums-plasagne-and-a-special-guest.html",
       "description": "The latest episode of The Scummy Mummies Podcast is now live! Click here to download from iTunes: iTunes [...]",
@@ -1000,7 +953,8 @@
       "topics": [
         "plums",
         "plasagne",
-        "special"
+        "special",
+        "guest"
       ]
     },
     {
@@ -1016,7 +970,6 @@
       "itunes_duration": "35:05",
       "speakers": [
         "Handbag Surprise",
-        "Scummy Mummy Confessions",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -1054,7 +1007,7 @@
       "enclosure_length": "35325246",
       "itunes_duration": "36:48",
       "speakers": [
-        "Viv Groskop",
+        "Scummy Mummies",
         "Ellie Gibson",
         "Helen Thorn"
       ],
@@ -1067,48 +1020,48 @@
 
 ## Episodes (newest first)
 
-- 2015-04-20 — Episode 45: Food Special with Esther Walker — speakers: Esther Walker, Giles Coren, Bad Cook, Yotam Ottolenghi, Ellie Gibson, Helen Thorn
+- 2015-04-20 — Episode 45: Food Special with Esther Walker — speakers: Esther Walker, Ellie Gibson, Helen Thorn
 - 2015-04-06 — Episode 44: Blogging Special with Helen Neale — speakers: Ellie Gibson, Helen Thorn
-- 2015-03-23 — Episode 43: The Godfather with Stuart Goldsmith — speakers: Stuart Goldsmith, ComediansComedian com, Sarah Millican, Ellie Gibson, Helen Thorn
-- 2015-03-10 — Episode 42: Sex, Drugs and Mr Tumble with Bryony Gordon — speakers: Bryony Gordon, Annabel Karmel, Cheryl Fernandez-Versini, Twitter bryony gordon, Ellie Gibson, Helen Thorn
-- 2015-02-22 — Episode 41: LGBT Adoption Week Special — speakers: Carolyn Robertson, Jenni Murray, Twitter CarolynAdopt, Ellie Gibson, Helen Thorn
-- 2015-02-10 — Episode 40: Mental health, hypnobirthing and hip hop — speakers: Jessica Pidsley, Mutha Courage, Ellie Gibson, Helen Thorn
-- 2015-01-27 — Episode 39: Movie Special with Dan Whitehead — speakers: Dan Whitehead, Tom Hanks, Ellie Gibson, Helen Thorn
-- 2015-01-13 — Episode 38: Call the Midwife - Clemmie Hooper returns! — speakers: Clemmie Hooper, Ellie Gibson, Helen Thorn
+- 2015-03-23 — Episode 43: The Godfather with Stuart Goldsmith — speakers: Stuart Goldsmith, Ellie Gibson, Helen Thorn
+- 2015-03-10 — Episode 42: Sex, Drugs and Mr Tumble with Bryony Gordon — speakers: Bryony Gordon, Ellie Gibson, Helen Thorn
+- 2015-02-22 — Episode 41: LGBT Adoption Week Special — speakers: Ellie Gibson, Helen Thorn
+- 2015-02-10 — Episode 40: Mental health, hypnobirthing and hip hop — speakers: Jessica Pidsley, Ellie Gibson, Helen Thorn
+- 2015-01-27 — Episode 39: Movie Special with Dan Whitehead — speakers: Dan Whitehead, Ellie Gibson, Helen Thorn
+- 2015-01-13 — Episode 38: Call the Midwife - Clemmie Hooper returns! — speakers: Ellie Gibson, Helen Thorn
 - 2014-12-30 — Episode 37: New Baby Special with Helen and Ellie — speakers: Ellie Gibson, Helen Thorn
-- 2014-12-16 — Episode 36: Sweary Christmas with Nurse Jessie and Steve Hill — speakers: Nurse Jessie, Steve Hill, Rob Sedgebeer, Joe Mangle, Ellie Gibson, Helen Thorn
-- 2014-12-02 — Episode 35: Fatherhood, X-Factor and Nigella's toilet — speakers: Stuart Heritage, Noel Edmonds, Ellie Gibson, Helen Thorn
-- 2014-11-18 — Episode 34: Book Special with columnist Lucy Mangan — speakers: Lucy Mangan, Roald Dahl, Twitter lucymangan, Ellie Gibson, Helen Thorn
+- 2014-12-16 — Episode 36: Sweary Christmas with Nurse Jessie and Steve Hill — speakers: Nurse Jessie, Steve Hill, Ellie Gibson, Helen Thorn
+- 2014-12-02 — Episode 35: Fatherhood, X-Factor and Nigella's toilet — speakers: Ellie Gibson, Helen Thorn
+- 2014-11-18 — Episode 34: Book Special with columnist Lucy Mangan — speakers: Lucy Mangan, Roald Dahl, Ellie Gibson, Helen Thorn
 - 2014-11-04 — Episode 33: Tech Special with The Guardian's Jemima Kiss — speakers: Jemima Kiss, Ellie Gibson, Helen Thorn
-- 2014-10-21 — Episode 32: Gardening Special with Dawn Isaac — speakers: Dawn Isaac, Scummy Gardener, Ellie Gibson, Helen Thorn
-- 2014-10-07 — Episode 31: Grandads Special - the Vicar and the Comedian — speakers: Joining Helen, Ellie Gibson, Helen Thorn
-- 2014-09-23 — Episode 30: Comedy Special with Kerry Godliman — speakers: Kerry Godliman, Michael McIntyre, Kevin Bridges, Richard Branson, Scummy Mummy Confessions, Mummy Confessions, Ellie Gibson, Helen Thorn
-- 2014-09-09 — Episode 29: Dad Special - Kent Valentine's Day — speakers: Kent Valentine, Russell Brand, Mummy Confessions, Ellie Gibson, Helen Thorn
-- 2014-08-26 — Episode 28: Wine Special with Knackered Mother Helen McGinn — speakers: Helen McGinn, Atomic Kitten, Mummy Confessions, Ellie Gibson, Helen Thorn
-- 2014-08-12 — Episode 27: Travel Special - Wish You Weren't Here — speakers: Muhammad Ali, Center Parcs, Ellie Gibson, Helen Thorn
+- 2014-10-21 — Episode 32: Gardening Special with Dawn Isaac — speakers: Dawn Isaac, Ellie Gibson, Helen Thorn
+- 2014-10-07 — Episode 31: Grandads Special - the Vicar and the Comedian — speakers: Grandads Special, Comedian What, Ellie Gibson, Helen Thorn
+- 2014-09-23 — Episode 30: Comedy Special with Kerry Godliman — speakers: Kerry Godliman, Ellie Gibson, Helen Thorn
+- 2014-09-09 — Episode 29: Dad Special - Kent Valentine's Day — speakers: Kent Valentine, Ellie Gibson, Helen Thorn
+- 2014-08-26 — Episode 28: Wine Special with Knackered Mother Helen McGinn — speakers: Ellie Gibson, Helen Thorn
+- 2014-08-12 — Episode 27: Travel Special - Wish You Weren't Here — speakers: Travel Special, Ellie Gibson, Helen Thorn
 - 2014-07-28 — Episode 26: Live from Latitude with Viv Groskop — speakers: Viv Groskop, Ellie Gibson, Helen Thorn
-- 2014-07-15 — Episode 25: Cheese Special - the Kerry Leigh Triangle — speakers: Kerry Leigh, Scummy Mummy Confessions, Cows Women, Ellie Gibson, Helen Thorn
-- 2014-07-01 — Episode 24: Festival Special feat. DJ Ghetto Booty — speakers: Ellie Gibson, Helen Thorn
-- 2014-06-17 — Episode 23: The Sexpisode — speakers: Sarah Lorentzen, Penelope Keith, Ellie Gibson, Helen Thorn
+- 2014-07-15 — Episode 25: Cheese Special - the Kerry Leigh Triangle — speakers: Kerry Leigh, Ellie Gibson, Helen Thorn
+- 2014-07-01 — Episode 24: Festival Special feat. DJ Ghetto Booty — speakers: DJ Ghetto Booty Dancing, mud baths, raw sewage, Ellie Gibson, Helen Thorn
+- 2014-06-17 — Episode 23: The Sexpisode — speakers: Ellie Gibson, Helen Thorn
 - 2014-06-02 — Episode 22: Crappy Father's Day — speakers: Steve Hill, Ellie Gibson, Helen Thorn
-- 2014-05-20 — Episode 21: Oh, Viennetta — speakers: Lucy Woodhouse, Meriel Durand, Ellie Gibson, Helen Thorn
-- 2014-05-06 — Episode 20: The Perfect Blend — speakers: Peter Mattessi, Awight Guvnor, Scummy Mummy Confessions, Brighton Fringe, Ellie Gibson, Helen Thorn
+- 2014-05-20 — Episode 21: Oh, Viennetta — speakers: Lucy Woodho, Ellie Gibson, Helen Thorn
+- 2014-05-06 — Episode 20: The Perfect Blend — speakers: Peter Mattessi, Ellie Gibson, Helen Thorn
 - 2014-04-22 — Episode 19: Madonna or Mandela? — speakers: Nurse Jessie, Ellie Gibson, Helen Thorn
 - 2014-04-08 — Episode 18: Scum Dine With Me — speakers: Jo Travers, Ellie Gibson, Helen Thorn
-- 2014-03-24 — Episode 17: Miley or Kylie? — speakers: Katy Perry, Abigail Burdess, Handbag Surprise, Scummy Mummy Confessions, Ellie Gibson, Helen Thorn
-- 2014-03-11 — Episode 16: Welsh Rare Bits — speakers: Laura Kemp, Allison Pearson, Follow Laura, Scummy Confessions, Ellie Gibson, Helen Thorn
-- 2014-02-24 — Episode 15: His Son's Not Rainman — speakers: John Williams, My Son's Not Rainman, Fray Bentos, Ellie Gibson, Helen Thorn
+- 2014-03-24 — Episode 17: Miley or Kylie? — speakers: Katy Perry, Abigail Burdess, Ellie Gibson, Helen Thorn
+- 2014-03-11 — Episode 16: Welsh Rare Bits — speakers: Laura Kemp, Ellie Gibson, Helen Thorn
+- 2014-02-24 — Episode 15: His Son's Not Rainman — speakers: John Williams, My Son's Not Rainman, Ellie Gibson, Helen Thorn
 - 2014-02-11 — Episode 14: Midwife Crisis — speakers: Clemmie Hooper, Ellie Gibson, Helen Thorn
-- 2014-01-27 — Episode 13: The Sherlock of Moles — speakers: Mummy Confessions, Ellie Gibson, Helen Thorn
-- 2014-01-14 — Episode 12: Big fish, little fish fingers — speakers: Hannah Saunders, Guru Josh, Ellie Gibson, Helen Thorn
-- 2014-01-05 — Episode 11: Pregnant in Greggs — speakers: Steve Hill, Scummy Mummy Confessions, Ellie Gibson, Helen Thorn
-- 2013-12-17 — Episode 10: Have Yourself a Very Scummy Christmas — speakers: Charlotte Forfieh, Ellie Gibson, Helen Thorn
-- 2013-12-02 — Episode 9: Music, Miley and the Mango Jango Song — speakers: Nina Swann, Miley Cyrus, Ellie Gibson, Helen Thorn
-- 2013-11-18 — Episode 8: BOOBS. — speakers: Barbara Windsor, Nurse Jessie, Ellie Gibson, Helen Thorn
-- 2013-11-04 — Episode 7: Nudists, Mastication and the Poundland Snotgrape — speakers: Dannii Minogue, Handbag Surprise, Ellie Gibson, Helen Thorn
+- 2014-01-27 — Episode 13: The Sherlock of Moles — speakers: Dr Greg Schwager, Ellie Gibson, Helen Thorn
+- 2014-01-14 — Episode 12: Big fish, little fish fingers — speakers: Ellie Gibson, Helen Thorn
+- 2014-01-05 — Episode 11: Pregnant in Greggs — speakers: Steve Hill, Ellie Gibson, Helen Thorn
+- 2013-12-17 — Episode 10: Have Yourself a Very Scummy Christmas — speakers: Very Scummy Christmas Season, Scummy Mummies Christmas Special, Ellie Gibson, Helen Thorn
+- 2013-12-02 — Episode 9: Music, Miley and the Mango Jango Song — speakers: Nina Swann, Ellie Gibson, Helen Thorn
+- 2013-11-18 — Episode 8: BOOBS. — speakers: Barbara Windsor, Ellie Gibson, Helen Thorn
+- 2013-11-04 — Episode 7: Nudists, Mastication and the Poundland Snotgrape — speakers: Ellie Gibson, Helen Thorn
 - 2013-10-21 — Episode 6: Penis Beakers, Kraftwerk and Hummus — speakers: Hummus Hello, Ellie Gibson, Helen Thorn
 - 2013-10-08 — Episode 5: The Derren Brown of Vajayjays — speakers: Ellie Gibson, Helen Thorn
-- 2013-09-23 — Episode 4: Plums, plasagne and a Special GuestÂ — speakers: Ellie Gibson, Helen Thorn
-- 2013-09-02 — Episode 3: Bins, gigs and Handbag Surprise — speakers: Handbag Surprise, Scummy Mummy Confessions, Ellie Gibson, Helen Thorn
+- 2013-09-23 — Episode 4: Plums, plasagne and a Special Guest — speakers: Ellie Gibson, Helen Thorn
+- 2013-09-02 — Episode 3: Bins, gigs and Handbag Surprise — speakers: Handbag Surprise, Ellie Gibson, Helen Thorn
 - 2013-08-20 — Episode 2 is now available! — speakers: Ellie Gibson, Helen Thorn
-- 2013-07-29 — Episode 1 is live! — speakers: Viv Groskop, Ellie Gibson, Helen Thorn
+- 2013-07-29 — Episode 1 is live! — speakers: Scummy Mummies, Ellie Gibson, Helen Thorn

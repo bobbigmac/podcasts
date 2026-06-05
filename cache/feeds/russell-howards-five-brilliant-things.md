@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-05-22T15:21:51+00:00`
-- checked_at: `2026-05-22T15:21:51+00:00`
-- last_modified: `Fri, 22 May 2026 11:11:39 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- last_modified: `Wed, 03 Jun 2026 01:07:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-22T15:21:51+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,64 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a15533258c64992a9a8cfb481aa4494b3b340b57",
+      "title": "Serge Pizzorno",
+      "published_at": "2026-06-03T01:00:00+00:00",
+      "link": null,
+      "description": "Serge from Kasabian and Russell sit down and discuss the creative process, what it means to be an artist in the digital age, how to age gracefully and how to make the perfect egg. There’s something utterly engaging about listening to artists from the top of different fields discussing the similarities and differences between the ways they work and this show is no exception. Get involved, get inspired and maybe discover some songwriting and comedy writing secrets. And as we said in the show, Kasabian are playing a massive gig this summer at Finsbury Park in London. It’s on July 4th, it’s going to be a packed line-up and it’s going to be unmissable. Tickets from Ticketmaster through this link . And Kasabian’s new Album ‘Act III’ is coming out on July 17th - you can pre-order copies of that at https://www.kasabian.co.uk 🎟️ And please do go to see Russell while he’s on tour with his latest show that’s busting out some rave reviews: Don’t miss this fantastic show of all brand-new material. Find out more at https://www.russell-howard.co.uk 🎟️ Lovely! That’s it! Tidy job. Thanks. Bye! Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/de9f73a4-5d28-11f1-97b0-878c21a8d375/image/540940f7821c88adbd897f1b474ed681.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3046636447.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3798",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "serge",
+        "pizzorno"
+      ]
+    },
+    {
+      "key": "d8adf92a035f30a506cb22089e04d19271bf9071",
+      "title": "May's Moments of the Month",
+      "published_at": "2026-06-01T01:00:00+00:00",
+      "link": null,
+      "description": "Hey there! It's all the best bits from our May shows, all tied up with a fancy bow for your enjoyment! You will find in this pick n mix episode: Satirist and comedian Cody Dahler doing an impeccable Ed Miliband impression. Comedian Jess Fostekew taking us through the glorious triumph that is BEANS. Comedian Josh Pugh standing for the Italian National Anthem despite having no Italian heritage or affiliation. And finally some unmissable stories from comedian Rhys James. It's all in here, if you like one go back and enjoy the whole thing. We're back next Wednesday with another new guest but until then... Bye! Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7807360360.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3150",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "moments",
+        "month"
+      ]
+    },
+    {
+      "key": "4a154bb200eb030654164cf4b1cd3b29cd29a796",
+      "title": "Rhys James",
+      "published_at": "2026-05-27T01:00:00+00:00",
+      "link": null,
+      "description": "Do you want to show Rhys James a good time? All you need to do is take him to a hotel gym with Harry Styles, under the influence of general anaesthetic. At least…that’s what we have taken away from this fantastically breezy, genial show with the Mock the Week star (well…two of them really). Rhys’s Five Things include being rendered senseless, having that first pint after a sporting endeavour and the enigmatic Harry Styles. As you can tell from the show you just listened to (or are about to consume?) Rhys is an expert comedian, and he’s got a new show on the road from September this year. It’s called ‘Chop Logic’ and you can find out all the dates and buy those tickets by going to https://rhysjames.co.uk . The show will also be at the Pleasance Courtyard in Edinburgh for 14 nights if you happen to be there. 🎟️ And please do go to see Russell while he’s on tour with his latest show that’s busting out some rave reviews: Don’t miss this fantastic show of all brand-new material. Find out more at https://www.russell-howard.co.uk 🎟️ Thank you for stopping by for your annual blurb check-up. Your results are through and we’re pleased to tell you that you’ve come through another year in perfect health. Your stamina, your curiosity and your thirst for banality are unmatched by anyone else who’s had their blurb check this year. Congratulations and here’s to another year of the same. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/65ed92cc-55be-11f1-ab17-db417770f6d6/image/b82df3f52db016b9cdee094fb5a301b3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2684179815.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3487",
+      "speakers": [
+        "Rhys James",
+        "Russell Howard"
+      ],
+      "topics": [
+        "rhys",
+        "james"
+      ]
+    },
     {
       "key": "accfd18aba21bbc328732b5754460f67519063d9",
       "title": "Josh Pugh",
@@ -2973,26 +3031,6 @@
       ]
     },
     {
-      "key": "bf03113301d6d5ef63cfab1beb51af9273cd52fb",
-      "title": "1. Munya Chawawa",
-      "published_at": "2023-10-11T00:00:00+00:00",
-      "link": "https://russellhowardswonderbox.podbean.com/e/munya-chawawa-s-wonderbox/",
-      "description": "Today’s guest is internet comedy star, Munya Chawawa, who chats to Russell about why he loves Streets of Rage, the importance of a slice of pizza and reveals his jaw-dropping hidden ability. Russell is currently on tour in the US and UK: visit russell-howard.co.uk to find out more and book tickets. Munya is also on tour now and you can get tickets for his show at livenation.co.uk Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8213247652.mp3?updated=1724199785",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3440",
-      "speakers": [
-        "Munya Chawawa",
-        "Russell Howard"
-      ],
-      "topics": [
-        "munya",
-        "chawawa"
-      ]
-    },
-    {
       "key": "924c820cca749517d697f9fd72841775d38ebe40",
       "title": "2. Sam Ryder",
       "published_at": "2023-10-11T00:00:00+00:00",
@@ -3010,6 +3048,26 @@
       ],
       "topics": [
         "ryder"
+      ]
+    },
+    {
+      "key": "bf03113301d6d5ef63cfab1beb51af9273cd52fb",
+      "title": "1. Munya Chawawa",
+      "published_at": "2023-10-11T00:00:00+00:00",
+      "link": "https://russellhowardswonderbox.podbean.com/e/munya-chawawa-s-wonderbox/",
+      "description": "Today’s guest is internet comedy star, Munya Chawawa, who chats to Russell about why he loves Streets of Rage, the importance of a slice of pizza and reveals his jaw-dropping hidden ability. Russell is currently on tour in the US and UK: visit russell-howard.co.uk to find out more and book tickets. Munya is also on tour now and you can get tickets for his show at livenation.co.uk Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8213247652.mp3?updated=1724199785",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3440",
+      "speakers": [
+        "Munya Chawawa",
+        "Russell Howard"
+      ],
+      "topics": [
+        "munya",
+        "chawawa"
       ]
     },
     {
@@ -3035,6 +3093,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Serge Pizzorno — speakers: Russell Howard
+- 2026-06-01 — May's Moments of the Month — speakers: Russell Howard
+- 2026-05-27 — Rhys James — speakers: Rhys James, Russell Howard
 - 2026-05-20 — Josh Pugh — speakers: Josh Pugh, Russell Howard
 - 2026-05-13 — Jess Fostekew — speakers: Jess Fostekew Comedian, Jess Fostekew, Russell Howard
 - 2026-05-06 — Cody Dahler — speakers: Cody Dahler, Russell Howard
@@ -3182,6 +3243,6 @@
 - 2023-11-01 — 5. Jordan Gray — speakers: Jordan Gray Stand, Jordan Gray, Russell Howard
 - 2023-10-25 — 4. Jen Brister — speakers: Russell Howard
 - 2023-10-18 — 3. Jimmy Carr — speakers: Jimmy Carr, Russell Howard
-- 2023-10-11 — 1. Munya Chawawa — speakers: Munya Chawawa, Russell Howard
 - 2023-10-11 — 2. Sam Ryder — speakers: Sam Ryder Sitting, Sam Ryder, Russell Howard
+- 2023-10-11 — 1. Munya Chawawa — speakers: Munya Chawawa, Russell Howard
 - 2023-09-28 — Trailer — speakers: Russell Howard

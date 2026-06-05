@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-05-26T10:17:42+00:00`
-- checked_at: `2026-05-26T10:17:42+00:00`
-- etag: `W/"3cfff-Nuv8XQ9U1hq4vde4BWV1hBGfehs"`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `W/"3dfa5-+tkJ9WHQIrH8xqbZ6xz3pyvIAEg"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-05-26T10:17:42+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,53 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ea6c888045dcbc7b74f860c92f292d5c219cac8b",
+      "title": "OurFavorite Video Game Expansions and DLC | Windbreaker Podcast",
+      "published_at": "2026-06-02T01:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/OurFavorite-Video-Game-Expansions-and-DLC--Windbreaker-Podcast-e3k71np",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty use the news of The Witcher III getting a new expansion 12 years (!) after its initial release to chat about their own personal favorite video game expansions and DLC throughout history. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠ patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6817044321.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123975392",
+      "itunes_duration": "01:26:05",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "ourfavorite",
+        "video",
+        "game",
+        "expansions",
+        "windbreaker",
+        "podcast"
+      ]
+    },
+    {
+      "key": "7668890f123819f4b31629e6fc30c726eb547ba0",
+      "title": "Let's Talk About Metal Gear Solid | Windbreaker Podcast",
+      "published_at": "2026-05-26T13:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Lets-Talk-About-Metal-Gear-Solid--Windbreaker-Podcast-e3jt8oi",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about how the original 1998 Metal Gear Solid remains a singularly weird and wonderful experience. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6885355882.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "108647456",
+      "itunes_duration": "01:15:26",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "metal",
+        "gear",
+        "solid",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "20b26d80aab548fcf8e98dabc4e6e68c733e099c",
       "title": "Hey Games, Cool It With the Text Logs | Windbreaker Podcast",
@@ -2874,6 +2921,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-02 — OurFavorite Video Game Expansions and DLC | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
+- 2026-05-26 — Let's Talk About Metal Gear Solid | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-05-19 — Hey Games, Cool It With the Text Logs | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-05-12 — How to Keep a Franchise Feeling Fresh | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-05-05 — Games As Comedy Engines w/ Jack Packard | Windbreaker Podcast — speakers: Jack Packard, Yahtzee Croshaw, Marty Sliva

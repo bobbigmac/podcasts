@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-05-25T15:28:59+00:00`
-- checked_at: `2026-05-25T15:28:59+00:00`
-- last_modified: `Mon, 25 May 2026 11:03:31 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- last_modified: `Fri, 05 Jun 2026 14:46:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-25T15:28:59+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,77 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "cbae9f398fcd8a5285a400613386a58c363ce455",
+      "title": "Shanthi’s Love Languages & Philosophical Questions",
+      "published_at": "2026-06-03T23:01:00+00:00",
+      "link": null,
+      "description": "What should Shanthi learn next? In this week's episode of The Romesh Ranganathan Show we talk love languages, getting Shanthi on Raya and we even get a bit philosophical, plus Shanthi always wants to learn something new so send in your suggestions. We also answer more of your emails and voicenotes (as well as some roasting of Romesh) discussing career changes, age gaps and communication between sons and mothers. Plus, will Shanthi be seeing the Wayan brothers new movie, Scary Movie? And is Romesh going to buy her a Rolex for Christmas? Speaking of Christmas, THAT Christmas list pops up again… A Ranga Bee Production in partnership with Platform. Chapters: 00:00 Intro 02:12 On Scary Movie 03:03 Philosophical questions 10:26 What has Shanthi learnt? 11:40 Raya 12:11 Your questions 15:08 Love Languages 23:31 Shanthi’s wants a Rolex 27:12 Memorable trips 28:42 A question on university and changing careers 39:29 We answer another question from you 39:56 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/04b85942-5f41-11f1-af48-8f3adc12a827/image/8336d22b1c4518837c7c3f1601872f14.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8686562337.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2639",
+      "speakers": [
+        "Love Languages",
+        "Philosophical Questions What",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "love",
+        "languages",
+        "philosophical",
+        "questions"
+      ]
+    },
+    {
+      "key": "7666c233a5281370780a3f6c5c63475a8a87f2dc",
+      "title": "The Wayans Brothers on Scary Movie, White Chicks & How Comedy Has Gone Woke",
+      "published_at": "2026-05-31T23:01:00+00:00",
+      "link": null,
+      "description": "Is there going to be a White Chicks 2? Comedy legends Marlon and Shawn Wayans join The Romesh Ranganathan Show to talk about bringing Scary Movie back, the lasting impact of White Chicks and why Hollywood stopped making big comedy films. From creating iconic parody movies and surviving brutal reviews to growing up in one of comedy’s most influential families, the Wayans reflect on decades of making audiences laugh and why comedy might actually be harder than ever now. The brothers also discuss the chaos of In Living Color, their comedy influences and what it's like working with family and their legacy. They also touch on Marlon's love of stand-up and how it's shaped everything they do. Plus: Shanthi asks a question, the team gets roasted and there’s a heated complaint about the studio temperature. A Ranga Bee Production in partnership with Platform. 00:00 Intro 02:45 Tired Vibes & Tim Kash 04:41 On being in London 05:20 A gift for the guys 07:55 Scary Movie 08:38 The abscence of comedy movies 10:05 The difficulty of the comedy genre 13:36 The family effect and legacy 16:43 Making Scary Movie 18:24 Finding movie tropes 19:27 On reviews 20:41 A question from Shanthi 22:21 Working with family 26:25 On In Living Colour and Sketch 29:46 The team gets a roast 30:31 The Superbowl Show 33:38 A complaint about the room temperature 34:00 A brief shout out to Tim Kash 35:00 On representation 36:44 A game of Misquoted 39:23 What’s next? 41:06 On Stand up 45:15 Cancel culture 47:46 An exclusive 48:19 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3681e75e-5c62-11f1-b0cc-cfd1f6c6c409/image/6fdd16dc6f431e1dbe4a396ed6780305.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6731361925.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3142",
+      "speakers": [
+        "Shawn Wayans",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "wayans",
+        "brothers",
+        "scary",
+        "movie",
+        "white",
+        "chicks",
+        "comedy",
+        "woke"
+      ]
+    },
+    {
+      "key": "a1ed37e44ab27058803be2c96c3fcf70ffc23beb",
+      "title": "Shanthi Opens Up About Life In Sri Lanka",
+      "published_at": "2026-05-27T23:01:00+00:00",
+      "link": null,
+      "description": "What was Shanthi’s life like before the podcast? In this Thursday episode of The Romesh Ranganathan Show, Shanthi becomes the guest as Romesh talks to her about her childhood in Sri Lanka, meeting his dad, moving to the UK and the difficult years that followed. She opens up about losing her father at a young age, the freedom she found after leaving Sri Lanka and the financial struggles the family faced while trying to rebuild their lives in the UK. We also celebrate the team hitting 100,000 subscribers on YouTube with the arrival of the classic Silver Plaque. Plus: thoughts on Aziz Ansari’s appearance on the show and your listener dilemmas, including questions about luck vs fate, marriage roles and family drama. A Ranga Bee Production in partnership with Platform. 00:00 Intro 03:45 On Aziz Ansari on the show 06:38 Getting to know Shanthi 08:09 What’s happened to Shanthi’s house? 11:45 Rapid fire questions 20:41 We reached 100k subscribers! 24:00 Questions from you 25:58 Theorising luck 34:31 A question on marriage roles 40:22 We answer another email 45:34 An alternative outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d6d3fe44-59f7-11f1-beea-db6883559bee/image/94a70e61db9e44ca687dd928ee6036b1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4452531126.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3113",
+      "speakers": [
+        "Shanthi Opens Up About",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "life",
+        "lanka"
+      ]
+    },
     {
       "key": "5c157a3232b8e4689ad3ed288204af0d400bd073",
       "title": "Aziz Ansari on Parks and Rec, Master of None & Living in London",
@@ -1635,6 +1706,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Shanthi’s Love Languages & Philosophical Questions — speakers: Love Languages, Philosophical Questions What, Romesh Ranganathan
+- 2026-05-31 — The Wayans Brothers on Scary Movie, White Chicks & How Comedy Has Gone Woke — speakers: Shawn Wayans, Romesh Ranganathan
+- 2026-05-27 — Shanthi Opens Up About Life In Sri Lanka — speakers: Shanthi Opens Up About, Romesh Ranganathan
 - 2026-05-24 — Aziz Ansari on Parks and Rec, Master of None & Living in London — speakers: Aziz Ansari, Romesh Ranganathan
 - 2026-05-20 — We FINALLY Read Your Emails! — speakers: Email Special, Romesh Ranganathan
 - 2026-05-17 — Ben Elton on Blackadder, Mr Bean & Writing TV Classics — speakers: Ben Elton, Romesh Ranganathan

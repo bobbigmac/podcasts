@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-05-21T15:51:14+00:00`
-- checked_at: `2026-05-21T15:51:14+00:00`
-- etag: `W/"69c20974ccf99d9534f6aa937c7624d4"`
-- last_modified: `Thu, 21 May 2026 10:48:20 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `W/"b32636b5ec9852c116de4e604a9fe6e8"`
+- last_modified: `Thu, 04 Jun 2026 10:14:53 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-05-21T15:51:14+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,57 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "96b27289116b82600c7c35a6364bdf7a449e0a09",
+      "title": "The Mandelson Files: Chaos Inside Labour? Plus: Sabah Choudrey on the Culture War over Public Spaces",
+      "published_at": "2026-06-04T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8911934",
+      "description": "This week, Nish and Coco dig into the latest release of files around Peter Mandelson’s appointment as UK ambassador to the US, and what the hundreds of emails and WhatsApps reveal about Labour’s internal panic, Keir Starmer’s leadership, and a government that seems increasingly unsure of itself. They also unpack Alan Milburn’s major review into youth unemployment. Is Britain dealing with a generation that doesn’t want to work, or a broken system that has stripped away routes into jobs, training and support? Plus: Nish and Coco are joined by Sabah Choudrey, speaker, consultant and founder of Trans Pride Brighton, to discuss the EHRC’s new guidance on single-sex spaces, the worsening climate for trans people in the UK, and how a small network of gender-critical organisations has helped push trans rights into the centre of the culture war. GUESTS Zoë Crowther Sabah Choudrey USEFUL LINKS Updated EHRC Code of Practice: GI’s response | Gendered Intelligence Join the trans lobby on the 25th June: Mass Lobby for Trans Equality CHECK OUT THESE DEALS FROM OUR SPONSORS SHOPIFY: https://shopify.co.uk/podsavetheuk VANTA: https://www.vanta.com/PSTUK AURA FRAMES: https://www.auraframes.com Code: PSTUK BT: Search ‘Why BT’ to find out more. Pod Save the UK is an Intelligence Squared production for Crooked Media. Get in touch - contact us via email: podsavetheuk@crooked.com Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43677751.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8911934.mp3?modified=1780566623&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4193",
+      "speakers": [
+        "Sabah Choudrey",
+        "Peter Mandelson",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "mandelson",
+        "files",
+        "chaos",
+        "labour",
+        "sabah",
+        "choudrey",
+        "culture",
+        "public",
+        "spaces"
+      ]
+    },
+    {
+      "key": "c79f968c7f41984ad31c255be5fb12a1935640e2",
+      "title": "We Read Tony Blair So You Don’t Have To. Plus: Who Really Owns Britain? w/Hettie O’Brien",
+      "published_at": "2026-05-28T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8908534",
+      "description": "This week, Nish and Coco head back to Makerfield, where the by-election campaign is already turning into a political demolition derby; Andy Burnham is just ahead of Reform, the far right is fighting itself, Elon Musk has wandered into the discourse, and Nigel Farage has reappeared after questions over his £5 million gift. Plus: they’re joined by Hettie O’Brien, journalist and author of The Asset Class, to break down how private equity quietly bought up the services we rely on, from nurseries and care homes to vets and water companies, and why that matters for the broken economy we’re all living in. GUESTS Hettie O'Brien, journalist and author of The Asset Class: How Private Equity Turned Capitalism Against Itself USEFUL LINKS Amnesty Report | Like a snowball: the growth and impact of the gender critical movement in the UK Tony Blair Article | The Labour Party Is Playing With Fire Over Its Future and the Future of the Country by CLIP CREDITS Carol Vorderman via Instagram, (@carolvorders) CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://shopify.co.uk/podsavetheuk AURA FRAMES: https://www.auraframes.com Code: PSTUK BT: Search ‘Why BT’ to find out more. Pod Save the UK is an Intelligence Squared production for Crooked Media. Get in touch - contact us via email: podsavetheuk@crooked.com Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43676651.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8908534.mp3?modified=1779972691&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4001",
+      "speakers": [
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "tony",
+        "blair",
+        "britain",
+        "hettie"
+      ]
+    },
     {
       "key": "84a45d82e952036ebd00c0bada9adef7f7fea2f2",
       "title": "Starmer clings on, Burnham steps up w/ MP Nadia Whittome",
@@ -3802,6 +3853,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — The Mandelson Files: Chaos Inside Labour? Plus: Sabah Choudrey on the Culture War over Public Spaces — speakers: Sabah Choudrey, Peter Mandelson, Nish Kumar, Coco Khan
+- 2026-05-28 — We Read Tony Blair So You Don’t Have To. Plus: Who Really Owns Britain? w/Hettie O’Brien — speakers: Nish Kumar, Coco Khan
 - 2026-05-21 — Starmer clings on, Burnham steps up w/ MP Nadia Whittome — speakers: Nish Kumar, Coco Khan
 - 2026-05-14 — Starmer’s Survival Week w/NoJusticeMTG, plus Mo Gawdat — speakers: Nish Kumar, Coco Khan
 - 2026-05-07 — Last orders for Labour? Starmer’s election nightmare and Westminster’s booze problem w/Will Hayward and Zoë Grünewald — speakers: Will Hayward, Zoë Grünewald, Nish Kumar, Coco Khan

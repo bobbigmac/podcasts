@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-05-21T15:51:14+00:00`
-- checked_at: `2026-05-21T15:51:14+00:00`
-- etag: `"252d46-65254f57b820a"`
-- last_modified: `Thu, 21 May 2026 14:45:09 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"2560c5-6536e629ede74"`
+- last_modified: `Thu, 04 Jun 2026 14:30:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-05-21T15:51:14+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,47 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "8cc6399ea5c39e24a4b48aa139da7fb7b1a04527",
+      "title": "Two scientists on their race to make a new Ebola vaccine",
+      "published_at": "2026-06-04T14:30:00+00:00",
+      "link": "https://theconversation.com/the-scientists-racing-to-make-a-new-ebola-vaccine-to-combat-the-ongoing-epidemic-284483",
+      "description": "As health workers in the Democratic Republic of Congo (DRC) continue to battle an ongoing Ebola outbreak, scientists around the world are racing to develop a vaccine against the strain of the virus that’s causing it. Two approved vaccines exist for Ebola , but they target the Zaire strain of the virus, not the Bundibugyo strain causing the 2026 outbreak, which has so far killed 61 people with 359 confirmed cases in the DRC and neighbouring Uganda. In this episode, we speak to two scientists at the Oxford Vaccine Group at the University of Oxford, Teresa Lambe and Rebecca Makinson , who are developing a vaccine candidate for Bundibugyo virus. On June 1, they were among three research groups to receive fast-track funding from the Coalition for Epidemic Preparedness Innovations , alongside Moderna and IAVI. This episode was written and produced by Gemma Ware, Katie Flood and Mend Mariwany. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/fb2d3eaf-aa65-48a0-ae00-ff22423988b5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32156359",
+      "itunes_duration": "22:20",
+      "speakers": [
+        "Democratic Republic",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "scientist",
+        "race",
+        "ebola",
+        "vaccine"
+      ]
+    },
+    {
+      "key": "7b8de665d29bed47a44b8c125cf1b3a045b9ad51",
+      "title": "The salt caverns used to stockpile oil",
+      "published_at": "2026-05-28T14:45:00+00:00",
+      "link": "https://theconversation.com/how-and-where-global-strategic-oil-reserves-of-2-billion-barrels-are-stockpiled-283457",
+      "description": "Buried underground in caverns dug out of salt on the Gulf coast of the US are millions of barrels worth of crude oil. This is the Strategic Petroleum Reserve, built up in the late 1970s. Globally, at the end of 2025, global strategic oil stockpiles were estimated at 2.5 billion barrels , with China holding the most. With the Strait of Hormuz now closed for more than two months, global oil supplies are being squeezed. In March, as part of a co-ordinated move by members of the International Energy Agency to release 400 million barrels of oil to prevent price spikes, the US began releasing 172 million barrels from its strategic reserves. In this episode, we speak to Scott Montgomery, a former petroleum geologist who lectures in international studies at the University of Washington, about why these oil stockpiles were built up in the first place, and how they work. This episode was written and produced by Gemma Ware and Katie Flood with production assistance from Katie Flood. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Why Middle East gas field attacks could send energy prices soaring Why the Persian Gulf has more oil and gas than anywhere else on Earth War in the Middle East made the case for renewables – what’s happening in each country tells a harder story The government’s plans to bolster Australia’s fuel stores are sensible – but 5 years too late Over 400 million barrels will be added to the oil market soon – what are strategic reserves and what can they do? Mentioned in this episode: Voices of the South",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/5a43135c-16ad-42d1-b861-e14dea285343.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37836425",
+      "itunes_duration": "26:17",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "salt",
+        "cavern"
+      ]
+    },
     {
       "key": "4f1912abbeee420e7fd5413d765d7633c688fe68",
       "title": "Argentina’s inflation ‘miracle’ is more of a mirage",
@@ -5935,6 +5976,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — Two scientists on their race to make a new Ebola vaccine — speakers: Democratic Republic, Gemma Ware
+- 2026-05-28 — The salt caverns used to stockpile oil — speakers: Gemma Ware
 - 2026-05-21 — Argentina’s inflation ‘miracle’ is more of a mirage — speakers: Javier Milei, Gemma Ware
 - 2026-05-14 — The conspiracy theorists who feel vindicated by the Epstein files — speakers: Gemma Ware
 - 2026-05-07 — China’s long game on Trump’s tariffs — speakers: Xi Jinping, Gemma Ware

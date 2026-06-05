@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-05-25T04:50:57+00:00`
-- checked_at: `2026-05-25T04:50:57+00:00`
-- etag: `"djEuMi4wOjE3Nzk2Nzc4NTk0MDQ="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA2MjgyNTkzMTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-05-25T04:50:57+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,142 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ad6a4f225d432c0e3f398bdc2fe30c6443b0d367",
+      "title": "Alex Horne on The Last Pebble - Book Club",
+      "published_at": "2026-06-05T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #175 - The Last Pebble - Richard is in the Podcast Room with Taskmaster genius Alex Horne to talk about his kids’ book The Last Pebble. How did he find time to write a book? Was he worried about looking like another celebrity cashing in? Is it OK to take pebbles from the beach. Plus how the book changed with the help of an editor and could have been about a talking stone, the incredible life cycle of pebbles and how every book is a bit like a pebble in the ocean. Plus lots of chat about the future of Taskmaster, whether Richard is Everton, the amazing 24 hours of How Long Has This Been Going On? And whether Rich is prepared to take over from Greg Davies. Buy the book here - https://uk.bookshop.org/p/books/the-last-pebble-a-heartwarming-middle-grade-fiction-story-about-a-boy-his-grandad-and-a-mystery-for-boys-and-girls-age-9-10-11-12-by-comedian/2276ea2fa88fe3a6 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1774113416524-abfbf575-9271-4fbe-a2fc-6bf12da3bcfd.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69becfb91a160b44db06b19e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28119584",
+      "itunes_duration": "54:32",
+      "speakers": [
+        "Alex Horne",
+        "Richard Herring"
+      ],
+      "topics": [
+        "alex",
+        "horne",
+        "pebble",
+        "book",
+        "club"
+      ]
+    },
+    {
+      "key": "ed5b000f0653a8c66a975482ebf0544a4b7428d7",
+      "title": "David Mitchell - \"A Special Place in Hell\"",
+      "published_at": "2026-06-03T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #612 - A Special Place in Hell - Rich has an apology to make regarding bird genitals. His guest is RHLSTP favourite David Mitchell. There’s lots of rarely if ever asked emergency questions and chat about John Kearns’ eight stone rabbit, a joke about Ludwig that one listener will enjoy, returning to sketch shows and whether this might see the return of another nineties double act, what it’s like to work on Rick and Morty (if you don’t know anything about it), the easiest audiobook job of all time, some chat about what the Hell Satan is up to and a new take on It’s a Knockout. It’s a delight as you can imagine, but which person would Richard bring back from the dead? If you can think of it then you’re as bad as him. SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Recorded at the Leicester Square Theatre Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1780332116136-cb983c6e-52f8-48d8-ac38-4a3e128f4ca9.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a1db733626f8869c3a311da/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35773638",
+      "itunes_duration": "1:10:54",
+      "speakers": [
+        "David Mitchell",
+        "Richard Herring"
+      ],
+      "topics": [
+        "david",
+        "mitchell",
+        "special",
+        "place",
+        "hell"
+      ]
+    },
+    {
+      "key": "feb78e3966e9b00a295b58b091e238d91f52aa35",
+      "title": "Joe Cornish (Retro) - \"Womblin’ Free\"",
+      "published_at": "2026-06-01T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#432 Womblin’ Free - Richard has had a crisp and a field disappointment, but it won’t stop him interviewing the heck out of director, writer and omelette chef, Joe Cornish. They talk about offending Claudia Winkleman’s listeners, how Channel 4 messed up a sketch show with an incredible cast, (briefly) having the number one Netflix show (check out Lockwood and Co), whether being a director is all it’s cracked up to be, how losing a Fiat Punto led to Attack The Block, working with a Young One and whether ageing is something to fear. Plus the surprise of finding out that someone who has died was still alive and a bizarre synchronicity on the song with the best intro. And Rich lands himself another acting job, as long as he fulfils one condition. Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1779807983761-d9d9c2df-01dc-4e6e-93b9-3f080919d34e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a15b68f83dd9b6e11b7522f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34742857",
+      "itunes_duration": "1:12:22",
+      "speakers": [
+        "Joe Cornish",
+        "Richard Herring"
+      ],
+      "topics": [
+        "cornish",
+        "retro",
+        "womblin"
+      ]
+    },
+    {
+      "key": "d49366ca47385fb720c925a91913ee5f3bf2759d",
+      "title": "Rich and Ally's Craven Newsround Compilation 18",
+      "published_at": "2026-05-30T11:55:31+00:00",
+      "link": "https://shows.acast.com/rhlstp/episodes/rich-and-allys-craven-newsround-compilation-18",
+      "description": "Monday 25th May 2026 - No News Tuesday 26th May 2026 - No News Wednesday 27th May 2026 - No news Thursday 28th May 2026 - Badly Burnt Penis - Rich and Ally are back from their holidays with all the news that the mainstream media won’t touch. Because they won’t touch penises. Is that all we do on this? Finally the truth about the people of Harpenden, plus touching up the Cerne Abbas Giant’s private areas. It’s absolutely pathetic. Friday 29th May 2026 - Ulterior Mammoth - Rich and Ally are back for the second and last Newsround of the week and it’s all about bringing back the Mammoth and why anyone would want to do that. All neatly fitting into just five minutes. Support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1780141878255-16da4e75-30fc-4a1b-aa83-b209ba6a27b3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a1ad033ad55909da6153abe/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20144832",
+      "itunes_duration": "41:57",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "No News Tuesday",
+        "No News Wednesday",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation"
+      ]
+    },
+    {
+      "key": "6d40fdce70fa7524aa0a93e4913be24311dcb3b1",
+      "title": "Jonathan Grant on Reading the Room - Book Club",
+      "published_at": "2026-05-29T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #181 - Reading The Room - Rich talks to comedy historian and former stand up and agent, Jonathan Grant about his much needed work about the state of stand up comedy in the 21st Century. They chat about Jonathan’s reasons for writing the book, who he talked to, the difficulty of summing up two decades worth of stand up, how we’re at a place of opportunity and variety in stand-up but how doing the actual job is being squeezed, whether comedians come from doing proper jobs like in the old days, how online comedy can be a boon or a burden and how lock-down and the internet has led to intergenerational cross fertilisation (mainly in comedy terms). Plus the wonder that is Chris Evans (not that one) and gofasterstripe.com Buy the book here - https://gofasterstripe.com/cgi-bin/w.cgi?showfull=69222 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1779808028607-e5f8cfea-a644-49e1-917c-cf6d120e31fc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a15b6c66ee822cbfb053b25/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25063648",
+      "itunes_duration": "49:21",
+      "speakers": [
+        "Jonathan Grant",
+        "Richard Herring"
+      ],
+      "topics": [
+        "jonathan",
+        "grant",
+        "room",
+        "book",
+        "club"
+      ]
+    },
+    {
+      "key": "bb3c59da65e515bd01969b8be1c07d3527c097dd",
+      "title": "Natasha Hodgson - \"Smell The Magic\"",
+      "published_at": "2026-05-27T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #611 - Smell The Magic - Richard is podcasting in the middle of his run of 8 performances of a play. His guest must be in awe, it’s one of the brains behind and up front in Operation Mincemeat (which may have run almost as long) Natasha Hodgson. They talk about the work that she took on during lockdown, having to eat inky eggs in her first acting job, the phenomenal success of Mincemeat and the toll it took on her, Rich’s experience of musical and musical grades (you are treated to several songs from him and not much from Natasha - sorry), how Mincemeat elevated the women involved in the original mission, what the musical awakened in Rich, the extraordinary audio experience that is The Sink, plus some revealing emergency questions and some very bad advice for writers. Plus the world’s most controversial musical Dazzle and writing for puppets (I didn’t know you could do that). SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Recorded at the Leicester Square Theatre Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1779653046820-c9828148-1f2c-49d4-9c46-df49b583e6a6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a1359c455b99c7f899a71f4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29686386",
+      "itunes_duration": "1:01:50",
+      "speakers": [
+        "Natasha Hodgson Smell",
+        "Richard Herring"
+      ],
+      "topics": [
+        "natasha",
+        "hodgson",
+        "smell",
+        "magic"
+      ]
+    },
     {
       "key": "885bf301dc3ac2a95064938b9b4521b4c9004d98",
       "title": "Tim Key (Retro) - \"The Imp from Impington\"",
@@ -22540,6 +22676,12 @@
 
 ## Episodes (newest first)
 
+- 2026-06-05 — Alex Horne on The Last Pebble - Book Club — speakers: Alex Horne, Richard Herring
+- 2026-06-03 — David Mitchell - "A Special Place in Hell" — speakers: David Mitchell, Richard Herring
+- 2026-06-01 — Joe Cornish (Retro) - "Womblin’ Free" — speakers: Joe Cornish, Richard Herring
+- 2026-05-30 — Rich and Ally's Craven Newsround Compilation 18 — speakers: Craven Newsround Compilation, No News Tuesday, No News Wednesday, Richard Herring
+- 2026-05-29 — Jonathan Grant on Reading the Room - Book Club — speakers: Jonathan Grant, Richard Herring
+- 2026-05-27 — Natasha Hodgson - "Smell The Magic" — speakers: Natasha Hodgson Smell, Richard Herring
 - 2026-05-25 — Tim Key (Retro) - "The Imp from Impington" — speakers: Tim Key, Richard Herring
 - 2026-05-23 — Rich and Ally's Craven Newsround Compilation 17 — speakers: Scott Baio, Richard Herring
 - 2026-05-22 — Brian Bilston on How to Lay an Egg with a Horse Inside - Book Club — speakers: Brian Bilston, Richard Herring

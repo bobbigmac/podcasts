@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-05-22T04:35:27+00:00`
-- checked_at: `2026-05-22T04:35:27+00:00`
-- etag: `"djEuMi4wOjE3Nzk0MjAwMzkyNjg="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA2Mjk2MzkzNzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-05-22T04:35:27+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,11 +26,102 @@
   ],
   "episodes": [
     {
+      "key": "7861903b68ff6f1ec1cd52a0401d2554d0f6d3ea",
+      "title": "JO WHILEY (music radio royalty) • Friday Rewind",
+      "published_at": "2026-06-05T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Jo Whiley , originally episode 446 from 2022-04-06. Original writeup below: You can file this one under \"Always on the cards / finally happened\", if you're keeping scores. Jo's earned her place in the broadcasting hall of fame without a doubt, having been a rock solid and awesome part of radio history for a minute as well as holding it down on many a festival presenting lineup too. Here's a perfect chance to hear Jo on the other side of the mic as she and Pip catch up over the last couple of decades or more, from humble origins to the present day. Everything including Brighton beginnings and possible alternative career directions, her sisters journey through the pandemic which made for some heavy experiences on all sides (as well as dealings with the government), pivoting and moving from station to station, living in music, festivals, and the luxuries of gardening and nature. An uplifting one for sure, enjoy! PIP'S PATREON PAGE if you're of a supporting nature TWITTER INSTAGRAM RADIO 2 PIP x TOMO CAMPBELL @ HARRY STYLES MELTDOWN • SOUTHBANK CENTRE PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1780579154486-84a907f0-e1b5-4e14-b361-cb6189ecfa81.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a217c2717f169d643df3a9a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "131953301",
+      "itunes_duration": "54:54",
+      "speakers": [
+        "JO Whiley"
+      ],
+      "topics": [
+        "whiley",
+        "music",
+        "radio",
+        "royalty",
+        "friday",
+        "rewind"
+      ]
+    },
+    {
+      "key": "826fad38aac546fef27d98f08f9d95831042b923",
+      "title": "IAIN LEE • a life working in and coping with the media (Impostor Syndrome / The Living Room Tour / 11 O' Clock Show) #674",
+      "published_at": "2026-06-03T03:12:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by host, presenter and returning guest IAIN LEE ! Iain is a welcome, familiar face to a lot of us - someone who's been involved with some really great things, and it's a great chance to catch up and check in on where life's been leading him for the past handful of years (or more fairly, where's he's been directing his life. Truly it hasn't been an easy journey, with various dependancies and relapses on the table, but the 2026 Iain is congniscant of how these situations came into play and is able to trace the path. But there have been some awesome stops on the journey too, in finding love via a long term working relationship, and navigating an incredibly heavy and tense live radio situation resulting in a life-saving triangulation of listeners. Included in the chat of course are re-evaluations of the past and past works, I'm A Celeb, humiliation vs humility, figuring out a live show in your living room, and confronting the end of level conscience boss that is the fact that one might be as good as one hoped to be. So a lot going on, clearly...! Get listening. PIP'S PATREON PAGE if you're of a supporting nature IAIN LEE (all links here!) PIP x TOMO CAMPBELL @ HARRY STYLES MELTDOWN • SOUTHBANK CENTRE SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1780434668437-49dd7f19-b491-46de-999a-c106603d5b08.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a1f49fbd610a77403ac1101/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "178360266",
+      "itunes_duration": "1:14:15",
+      "speakers": [],
+      "topics": [
+        "iain",
+        "life",
+        "medium",
+        "impostor",
+        "syndrome",
+        "living",
+        "room",
+        "tour",
+        "clock"
+      ]
+    },
+    {
+      "key": "0bc3f2e054350cf4e7b9648ef5fbb5e1be2a2a11",
+      "title": "DJ SHADOW (Endtroducing / Quannum Projects) • Friday Rewind",
+      "published_at": "2026-05-29T13:06:15+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with DJ Shadow , originally episode 298 from 2019-11-13. Original episode intro: \" Guess who’s coming… IT’S… Guess who’s coming… IT’S j-j-j-just your favourite DJ saviour / using and confusing beats that you never heard / since / 1990… Ladies and gentlemen, he’ll put a smile on your face like Ultra Brite - it’s DJ SHADOW! \" (* now that is a solid intro). Original writeup below: “…Not every musical moment affects people the same way…” A great rare treat for Shadow heads and crate digging nerds, and those who appreciate a good old fashioned music chat right here, but not only that - of course Pip and Shadow get to some really interesting ground when not dealing with the musical matters at hand, including his growing up in a remote town with limited access to hip hop which leads nicely onto how he eventually did find his way in, which then leads us into the whole Mo Wax side of things where he met and worked with James Lavelle extensively for a contained period (the foundation for which being laid by discovering NME, Melody Maker and also by the very intro of Nation Of Millions by Public Enemy - “LONDON, ENGLAND…!!!”), the Entroducing / Soldesides / Unkle / Brainfreeze eras, dealing with fan expectations and of course being taken out of context in hilarious style, nutritional value of rap from then and now, the current album ‘Our Pathetic Age’ and a breakdown of lead track ‘Rosie’, conjuring live sets and so much more which is all there for you to discover! Such a good one. You’ll love it. PIP'S PATREON PAGE if you're of a supporting nature DJ SHADOW online DJ SHADOW on INSTAGRAM OUR PATHETIC AGE ROSIE PHILL MOST CHILL - 'On Tempo Jack' (for reference!) PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1780059366525-8bd95cb3-4e1d-46fc-ab2f-fdbda94e1671.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a198f47dd90858af90205f6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "171937166",
+      "itunes_duration": "1:11:34",
+      "speakers": [],
+      "topics": [
+        "shadow",
+        "endtroducing",
+        "quannum",
+        "projects",
+        "friday",
+        "rewind"
+      ]
+    },
+    {
+      "key": "9f541d88bfc5f51db0a9f8688599fa8b63634181",
+      "title": "AJA MONET • the surrealist blues poet defines the colour of rain ('The Color Of Rain' • 22 May on Drink Sum Wtr) #673",
+      "published_at": "2026-05-27T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the incredible musician and poet AJA MONET ! To use a couple of words to sum up the essence of someone is a strange thing indeed, and this subject comes up in this chat too. The idea of indentity versus what one strives for. This is most definitely an episode for the appreciators of the craft of poetry, but not ONLY that - it's more like a demonstration of why everything else around it matters so much, and how poetry is achieved by plugging into community, society, and life its very self. It's fascinating hearing about Aja's New York upbringing, and how exposure to the urban envrionment and the people within it helped cultivate the person she would grow into - Aja really does live and embody the life of a creator, and the self-proclaimed status of 'surrealist blues poet' is perfect indeed. You'll definitely get a huge amount from the chat if you yourself are involved in words, but if you're in the least bit creative and find that side of your life as crucial as air and water, you'll get so much from the chat. Peep the new album 'The Color Of Rain' at your nearest opportunity in the links below! PIP'S PATREON PAGE if you're of a supporting nature NEW ALBUM HERE! INSTAGRAM WEBSITE GUARDIAN ARTICLE mentioned by Pip! SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1779804333965-4d724b2a-c0f0-48ed-a015-d2090f5809ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a15aae2cb11d38a8bcc049a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134770711",
+      "itunes_duration": "56:05",
+      "speakers": [
+        "Sum Wtr"
+      ],
+      "topics": [
+        "monet",
+        "blue",
+        "colour",
+        "rain",
+        "color",
+        "drink"
+      ]
+    },
+    {
       "key": "a2f8d0fddd804e2e5576f3b55d994fd25a38227f",
       "title": "MATT WILLIS (Busted) • Friday Rewind",
       "published_at": "2026-05-22T03:20:00+00:00",
       "link": "https://www.patreon.com/scroobiuspip",
-      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with the Matt Willis , originally episode 132 from 2017-01-11. A lovely chat with Matt, who talked at length about the behind the scenes aspects of being in a huge pop punk band back in the day, as well as the very much in front of the scenes aspects too. Lovely stuff and hugely interesting wherever you find yourself on the popular music spectrum. PIP'S PATREON PAGE if you're of a supporting nature BUSTED PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Matt Willis , originally episode 132 from 2017-01-11. A lovely chat with Matt, who talked at length about the behind the scenes aspects of being in a huge pop punk band back in the day, as well as the very much in front of the scenes aspects too. Lovely stuff and hugely interesting wherever you find yourself on the popular music spectrum. PIP'S PATREON PAGE if you're of a supporting nature BUSTED PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1779286882044-42fdc4ae-26dc-4ddc-b0b6-637e2c1c0396.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a0dc629163f10018375e03f/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -18864,6 +18955,10 @@
 
 ## Episodes (newest first)
 
+- 2026-06-05 — JO WHILEY (music radio royalty) • Friday Rewind — speakers: JO Whiley
+- 2026-06-03 — IAIN LEE • a life working in and coping with the media (Impostor Syndrome / The Living Room Tour / 11 O' Clock Show) #674
+- 2026-05-29 — DJ SHADOW (Endtroducing / Quannum Projects) • Friday Rewind
+- 2026-05-27 — AJA MONET • the surrealist blues poet defines the colour of rain ('The Color Of Rain' • 22 May on Drink Sum Wtr) #673 — speakers: Sum Wtr
 - 2026-05-22 — MATT WILLIS (Busted) • Friday Rewind — speakers: Matt Willis
 - 2026-05-20 — AMAR CHADHA-PATEL • the sacred arts of world building and world burning (Willow / The Creator / The Decameron) #672 — speakers: Amar Chadha-Patel
 - 2026-05-15 — SAFDIE BROTHERS (Uncut Gems / The Smashing Machine / Marty Supreme) • Friday Rewind — speakers: Uncut Gems

@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-05-20T04:36:12+00:00`
-- checked_at: `2026-05-20T04:36:12+00:00`
-- etag: `"djEuMi4wOjE3NzkyNDYwMzk2NTI="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA0NTU2Mzk2OTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-05-20T04:36:12+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,50 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "32cf7e31eef5a36b5e2689cf06bfd9ded7bd785d",
+      "title": "Harry Enfield",
+      "published_at": "2026-06-03T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/harry-enfield",
+      "description": "It’s the final episode of series 15, and what better way to round off the series than with British comedy royalty, Harry Enfield. That's right, it's another National Treasure. Harry is on tour with ‘Harry Enfield and No Chums’. For dates and tickets go to www.fane.co.uk/harry-enfield Watch the video version of this episode on the Off Menu YouTube on Thu 4 June. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1779978870019-cbd9f6ed-7206-4d63-8b3c-7f2dd1536904.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a1854c271443cf04aac6383/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91210816",
+      "itunes_duration": "1:16:00",
+      "speakers": [
+        "Harry Enfield",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "harry",
+        "enfield"
+      ]
+    },
+    {
+      "key": "c46899517810c17836d90deebc6fadacfd0e9b4b",
+      "title": "Anna Faris",
+      "published_at": "2026-05-27T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/anna-faris",
+      "description": "‘Scary Movie’ star Anna Faris is this week’s diner, much to Ed and James’s delight. But someone else hijacks her booking… ‘Scary Movie’ is in cinemas June 5. Book your tickets now. Follow Anna on Instagram @annafaris Watch the video version of this episode on the Off Menu YouTube on Thu 28 May. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1779810625346-6bee6726-e410-49cd-861f-cf36e95cc634.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a074b3a382d6c403035aa6d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76382656",
+      "itunes_duration": "1:03:38",
+      "speakers": [
+        "Anna Faris",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "anna",
+        "faris"
+      ]
+    },
     {
       "key": "46cafd838066955df3def3a9ee4f0bf945747af9",
       "title": "Michelle Wolf",
@@ -702,7 +746,7 @@
       "title": "Gillian Anderson",
       "published_at": "2025-10-08T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/gillian-anderson",
-      "description": "We’re back in National Tredge territory with multi-award winning actor, ‘Sex Education’ and ‘The X Files’ star and soft drinks entrepreneur Gillian Anderson. But what is Green Glass Jello? ‘TRON: ARES’ is out in cinemas on 10th October. ‘Trespasses’ will air in November on Channel 4 Buy G Spot drinks at stores nationwide – including Sainsbury’s – or online at thisisgspot.com Follow Gillian on Instagram and TikTok @gilliana Watch the video version of this episode on the Off Menu YouTube on Thu 9 Oct. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "We’re back in National Treash territory with multi-award winning actor, ‘Sex Education’ and ‘The X Files’ star and soft drinks entrepreneur Gillian Anderson. But what is Green Glass Jello? ‘TRON: ARES’ is out in cinemas on 10th October. ‘Trespasses’ will air in November on Channel 4 Buy G Spot drinks at stores nationwide – including Sainsbury’s – or online at thisisgspot.com Follow Gillian on Instagram and TikTok @gilliana Watch the video version of this episode on the Off Menu YouTube on Thu 9 Oct. Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1759245766256-afd50db1-3164-4c67-902a-4ff833b733ac.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/68dbf7c87be17a7f01038bc3/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -8511,6 +8555,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Harry Enfield — speakers: Harry Enfield, Ed Gamble, James Acaster, Ben Williams
+- 2026-05-27 — Anna Faris — speakers: Anna Faris, Ed Gamble, James Acaster, Ben Williams
 - 2026-05-20 — Michelle Wolf — speakers: Michelle Wolf Emmy, Michelle Wolf, Ed Gamble, James Acaster, Ben Williams
 - 2026-05-13 — Phil Wang (Tasting Menu) — speakers: Phil Wang, Off Menu, Ed Gamble, James Acaster, Ben Williams
 - 2026-05-06 — Montaigne — speakers: Aria Award-winner, Jessica Alys, Ed Gamble, James Acaster, Ben Williams

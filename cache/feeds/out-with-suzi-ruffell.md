@@ -2,9 +2,9 @@
 
 - slug: `out-with-suzi-ruffell`
 - source: `https://feeds.megaphone.fm/GLT9819213775`
-- fetched_at: `2026-05-25T04:50:57+00:00`
-- checked_at: `2026-05-25T04:50:57+00:00`
-- last_modified: `Sun, 24 May 2026 23:21:29 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- last_modified: `Thu, 04 Jun 2026 23:08:37 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.spreaker.com/show/out-with-suzi-ruffell",
   "description": "Attitude Presents: Out with Suzi Ruffell is a podcast that celebrates the LGBTQIA+ community through comedian and writer Suzi Ruffell's relaxed interviews of queer luminaries — from popstars to politicians, activists to artists. Tune in to hear Suzi and her guests talk about coming out, being out, finding your place in the world and sharing moments of queer joy. Brought to you by Attitude magazine and Off The Kerb Productions. Host: Suzi Ruffell · Podcast producer: Alma Fournier-Carballo · Booking producer: Dale Fox · Post producer: Markus Bidaux",
   "image_url": "https://megaphone.imgix.net/podcasts/1af2f5a0-1a7b-11ed-a410-0fc86e797d6c/image/cfca99fb5f4ff7128b2a90e4fea85f54.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-25T04:50:57+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Suzi Ruffell"
   ],
@@ -27,6 +27,66 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "5afcb8e02298504f85c184052aca562d1a7ce0a9",
+      "title": "2026 S1 Ep7: Munroe Bergdorf",
+      "published_at": "2026-06-04T23:00:00+00:00",
+      "link": null,
+      "description": "Today’s guest is the sensational activist, model, writer, speaker and broadcaster Munroe Bergdorf and I’m so excited for you to listen to our conversation! Watch Munroe’s beautiful documentary ‘Love & Rage: Munroe Bergdorf’: https://www.amazon.co.uk/gp/video/detail/B0FCY469DZ/ Read Munroe’s latest book ‘Talk To Me’: https://www.penguin.co.uk/authors/300057/munroe-bergdorf Enjoy the episode and don't forget to subscribe, follow, share, like, rate and review. Thanks, Suzi x If you want to get in touch with me on the show email ⁠⁠⁠⁠hello@outwithsuziruffell.com⁠⁠⁠⁠ Come and see me live! Details at ⁠⁠suziruffell.com⁠⁠ Host: Suzi Ruffell Brought to you by Attitude magazine and Off The Kerb Productions Podcast producer: Alma Fournier-Carballo Booking producer: Dale Fox Post producer: Markus Bidaux Sales, advertising and general enquiries : ⁠hello@outwithsuziruffell.com⁠⁠⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/15501372-5aae-11f1-9f92-5f81b8f20a64/image/6e107287f0b3058abc6c4b21797d0f3b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4678451690.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2774",
+      "speakers": [
+        "Munroe Bergdorf",
+        "Suzi Ruffell"
+      ],
+      "topics": [
+        "munroe",
+        "bergdorf"
+      ]
+    },
+    {
+      "key": "25b551107669ce682eb4e22eac8354df901d2eee",
+      "title": "Monday Minis Ep5",
+      "published_at": "2026-05-31T23:00:00+00:00",
+      "link": null,
+      "description": "For long-time followers of the podcast, you'll know that the listeners' emails segment was a huge part of Out and its community. With the new visualised format, we didn't want to leave it behind, so l'll be sharing my favourite emails from you, the listeners, in these stand-alone mini episodes every week. My book ‘Am I Having Fun Now?’ is now available in all formats: hardback, paperback, eBook and audiobook (read by me!): https://linktr.ee/amihavingfunnow If you’re in or around Leeds, come along to my book event on Tuesday 2nd June: https://trumanbooks.co.uk/event/an-evening-with-comedian-suzi-ruffell Come and see my stand-up tour: https://suziruffell.com/tour/ Enjoy the episode and if you'd like to share your own story, send it to me on hello@outwithsuziruffell.com x Host: Suzi Ruffell Brought to you by Attitude magazine and Off The Kerb Productions Podcast producer: Alma Fournier-Carballo Booking producer: Dale Fox Post producer: Markus Bidaux Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR7822056029.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "538",
+      "speakers": [
+        "Monday Minis",
+        "Suzi Ruffell"
+      ],
+      "topics": [
+        "monday",
+        "minis"
+      ]
+    },
+    {
+      "key": "e08c329d4522999ba6993f5dc9162f763ba8b5aa",
+      "title": "2026 S1 Ep6: Dan Gillespie Sells",
+      "published_at": "2026-05-28T23:00:00+00:00",
+      "link": null,
+      "description": "Today’s guest is the incredible Dan Gillespie Sells, songwriter and frontman of The Feeling and composer of the fantastic ‘Everybody’s Talking About Jamie’ musical. ‘Brokeback Mountain’ a play with beautiful country-inspired music written by Dan, is currently playing in the US: https://www.chicagoshakes.com/productions/2526-brokeback-mountain/ The Feeling will be touring again in November 2026 celebrating the 20th anniversary of their hit album ‘Twelve Stops and Home’: https://www.thefeeling.com/ Enjoy the episode and don't forget to subscribe, follow, share, like, rate and review. Thanks, Suzi x If you want to get in touch with me on the show email ⁠⁠⁠⁠hello@outwithsuziruffell.com⁠⁠⁠⁠ I'm also on tour! Find all the details at ⁠⁠suziruffell.com⁠⁠ Host: Suzi Ruffell Brought to you by Attitude magazine and Off The Kerb Productions Podcast producer: Alma Fournier-Carballo Booking producer: Dale Fox Post producer: Markus Bidaux Sales, advertising and general enquiries : ⁠hello@outwithsuziruffell.com⁠⁠⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/726b8426-59bc-11f1-b3c8-23be0e95af7a/image/1349dd935f0ee868c5ab1dea1774bba4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR3334182121.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3523",
+      "speakers": [
+        "Dan Gillespie Sells",
+        "Suzi Ruffell"
+      ],
+      "topics": [
+        "gillespie",
+        "sells"
+      ]
+    },
     {
       "key": "2d3f1f1e531c7c2cda3e2a97ee610ab1f3597926",
       "title": "Monday Minis Ep4",
@@ -2502,6 +2562,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — 2026 S1 Ep7: Munroe Bergdorf — speakers: Munroe Bergdorf, Suzi Ruffell
+- 2026-05-31 — Monday Minis Ep5 — speakers: Monday Minis, Suzi Ruffell
+- 2026-05-28 — 2026 S1 Ep6: Dan Gillespie Sells — speakers: Dan Gillespie Sells, Suzi Ruffell
 - 2026-05-24 — Monday Minis Ep4 — speakers: Monday Minis, Suzi Ruffell
 - 2026-05-21 — 2026 S1 Ep5: Phil Dunning — speakers: Phil Dunning, Suzi Ruffell
 - 2026-05-17 — Monday Minis Ep3 — speakers: Monday Minis, Suzi Ruffell

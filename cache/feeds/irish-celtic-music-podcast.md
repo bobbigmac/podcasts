@@ -3,10 +3,12 @@
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
 - fetched_at: `2026-05-21T10:02:54+00:00`
-- checked_at: `2026-05-21T10:02:54+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
 - etag: `"f6201a4bb53b7822efbcd4c3909aca96"`
 - last_modified: `Thu, 21 May 2026 08:35:22 GMT`
 - max_episodes_per_feed: `2000`
+- status: `error`
+- last_error: IncompleteRead(7862538 bytes read, 5455428 more expected)
 
 <!-- FEED_JSON -->
 ```json
@@ -16233,7 +16235,17 @@
         "podcast"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-06-05T15:17:11+00:00",
+    "status": "error",
+    "checked_at": "2026-06-05T15:17:11+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "IncompleteRead(7862538 bytes read, 5455428 more expected)"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

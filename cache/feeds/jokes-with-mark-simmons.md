@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-05-13T04:12:13+00:00`
-- checked_at: `2026-05-13T04:12:13+00:00`
-- etag: `"djEuMi4wOjE3Nzg2NDEyMzk4NDY="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODAzNjkyMzk5Nzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-05-13T04:12:13+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d0e33d1a5535242e2c1087c0c167035151d6eab0",
+      "title": "Bilal Zafar",
+      "published_at": "2026-06-02T03:00:00+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/bilal-zafar",
+      "description": "Edinburgh Comedy Awards best newcomer nominee, Bilal Zafar, joins us to chat through some of his jokes that he's not quite happy with yet. See Mark on tour here https://marksimmons.co.uk/live-dates/ Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6a1dd16cc1105f0d1108d513/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51258846",
+      "itunes_duration": "35:33",
+      "speakers": [
+        "Comedy Awards",
+        "Bilal Zafar",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "bilal",
+        "zafar"
+      ]
+    },
     {
       "key": "80f1f60a4cc4fafe0346d8a6cfa0a18646a8adb9",
       "title": "Tour Talk: Is this the end of Mark & Danny",
@@ -7306,6 +7327,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-02 — Bilal Zafar — speakers: Comedy Awards, Bilal Zafar, Mark Simmons
 - 2026-05-13 — Tour Talk: Is this the end of Mark & Danny — speakers: Mark Simmons
 - 2026-04-29 — Sarah Roberts Returns — speakers: Sarah Roberts Returns, Sarah Roberts, Mark Simmons
 - 2026-04-22 — Ben Norris Returns — speakers: Ben Norris Returns Traditional, Ben Norris, https mar, Mark Simmons

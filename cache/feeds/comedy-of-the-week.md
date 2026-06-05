@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-05-25T04:50:57+00:00`
-- checked_at: `2026-05-25T04:50:57+00:00`
-- etag: `"7922214e36df4c58938274254d24e1f7"`
-- last_modified: `Mon, 25 May 2026 04:00:03 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"7fe0a25fc07b5d642850d52f372f2498"`
+- last_modified: `Tue, 02 Jun 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-05-25T04:50:57+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "24937e1b76ceac81a59faf617da540178ef7ca70",
+      "title": "Ian Smith is Stressed",
+      "published_at": "2026-06-01T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nnj8q0",
+      "description": "Ian Smith is back on his quest for calm. In this episode, Ian is going through one of the most stressful life experiences... moving house. Is he middle class now? How can he keep in touch with his friends? And just how much damage can an entire chickpea cause? Let’s find out together in Ian Smith is Stressed. Written and performed by Ian Smith Additional Material from Mike Shephard and Rhiannon Shaw Featuring Stuart Laws Assistant Producer - Em Humble Production Manager - Laura Shaw Produced by Benjamin Sutton A Daddy’s SuperYacht Production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nnj8b0.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27520000",
+      "itunes_duration": "1720",
+      "speakers": [
+        "Ian Smith"
+      ],
+      "topics": [
+        "smith"
+      ]
+    },
     {
       "key": "926dd199fb329bab9e28b4c283184e18fac787f1",
       "title": "Hajj & Seek",
@@ -972,22 +990,6 @@
         "strong",
         "message"
       ]
-    },
-    {
-      "key": "05c1522c9c6e7a5dbc4eab9da61905f3fcf331ac",
-      "title": "It's a Fair Cop",
-      "published_at": "2025-06-02T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lfftm6",
-      "description": "In this week’s case Alfie investigates an assault on an elderly man at a bus stop. But what could have provoked such a cowardly crime? Join former-cop turned stand-up comedian, Alfie Moore and his audience of sworn-in deputies as they ask if compassion is a thing of the past. It's a Fair Cop is the show where you, the audience, help deal with the cases Alfie's unearthed from 20 years of policing experience, to take a comic look at the law. For more episodes, search \"It's a Fair Cop\" on BBC Sounds. Written and presented by Alfie Moore Script Editor: Will Ing Production Co-ordinator: Caroline Barlow Producer: Sam Holmes A BBC Studios Audio Production for Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lffscy.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27424000",
-      "itunes_duration": "1714",
-      "speakers": [],
-      "topics": [
-        "fair"
-      ]
     }
   ]
 }
@@ -996,6 +998,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-01 — Ian Smith is Stressed — speakers: Ian Smith
 - 2026-05-25 — Hajj & Seek — speakers: Hajj Seek
 - 2026-05-18 — The Skewer: Hard Labour — speakers: Jon Holmes
 - 2026-05-11 — Emer Maguire: Patron Saint of Bad Luck — speakers: Emer Maguire, Patron Saint
@@ -1045,4 +1048,3 @@
 - 2025-06-23 — Henry Normal: A Normal... Humanity — speakers: Henry Normal
 - 2025-06-16 — Live from the UK
 - 2025-06-09 — Strong Message Here — speakers: Jon Stewart
-- 2025-06-02 — It's a Fair Cop

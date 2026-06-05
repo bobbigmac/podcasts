@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-05-06T04:04:28+00:00`
-- checked_at: `2026-05-06T04:04:28+00:00`
-- etag: `"9f690-6511b0e9b9076"`
-- last_modified: `Wed, 06 May 2026 00:15:11 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"a0381-6534e52fdade3"`
+- last_modified: `Wed, 03 Jun 2026 00:15:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-05-06T04:04:28+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "904bdda04cc06a2d60b1515b351872505076c39c",
+      "title": "Martial Arts",
+      "published_at": "2026-06-03T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/martial-arts",
+      "description": "Munashe of Birmingham kicks of a new season of the Three Bean Salad by feeding the topic of martial arts into the Bean Machine. So far the Bean Machine hasn’t awoken abruptly from a deep trance-like state to say the words “I know Kung Fu” but you’ll know when it does because it will quickly lead to an extinction level event. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod Details of Henry's tour here: henrypaker.com Details of Mike's tour here: mrmikewozniak.com",
+      "image_url": "https://artwork.captivate.fm/7e91943a-c30c-408d-9e72-3f3f143e2273/S21-E01-Martial-Arts.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/2c0fc9b5-0df8-4743-b2d9-5d00f851674b.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=2c0fc9b5-0df8-4743-b2d9-5d00f851674b",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64033063",
+      "itunes_duration": "01:06:42",
+      "speakers": [
+        "Martial Arts Munashe",
+        "Three Bean Salad",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "martial",
+        "arts"
+      ]
+    },
     {
       "key": "72328829f94359bc95a56316aa30087532029574",
       "title": "Free Patreon episode - And Then Sparrows Took Their Eyes - Three Brothers Grimm Tales",
@@ -4247,6 +4270,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Martial Arts — speakers: Martial Arts Munashe, Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-05-06 — Free Patreon episode - And Then Sparrows Took Their Eyes - Three Brothers Grimm Tales — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-29 — Fifth Wednesday Not-A-Lotta-Podda — speakers: Fifth Wednesday Not, Podda No, Three Bean Salad, Wednesday April, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-22 — Smells — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge

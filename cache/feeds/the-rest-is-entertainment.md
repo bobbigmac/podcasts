@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-05-26T10:17:42+00:00`
-- checked_at: `2026-05-26T10:17:42+00:00`
-- last_modified: `Tue, 26 May 2026 05:02:04 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- last_modified: `Thu, 04 Jun 2026 05:04:46 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/e7583ce2aa1dd7ca71a5f7d6a351d56e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-26T10:17:42+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,74 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "e52443314e1e199e6c0bb9455ce87db7333548ac",
+      "title": "Kylie Minogue, Sherlock Holmes & Venezuela Fury",
+      "published_at": "2026-06-03T23:05:00+00:00",
+      "link": null,
+      "description": "Is Sherlock Holmes the most-played literary character of all time? Why do tabloids latch onto certain C-list celebs? And who would Marina like to see get a spin-off crime show? Richard Osman and Marina Hyde answer your questions about TV, film, and the world of entertainment. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Max Archer Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Sam Psyk & Neil Fearn Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6480181541.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1875",
+      "speakers": [
+        "Kylie Minogue",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "kylie",
+        "minogue",
+        "sherlock",
+        "holmes",
+        "venezuela",
+        "fury"
+      ]
+    },
+    {
+      "key": "bdc46988ca580845c77859b67f6b6b73e1f07fde",
+      "title": "Backrooms: Has YouTube Just Saved Hollywood?",
+      "published_at": "2026-06-01T23:05:00+00:00",
+      "link": null,
+      "description": "Are Gen-Z filmmakers like Kane Parsons the new kings of Hollywood? Has Tom Hardy really been fired from the set of Mobland for upsetting Helen Mirren? And why is the author of the year’s biggest memoir facing a backlash from readers? YouTube native Kane Parsons has smashed box office expectations with his A24 horror film, Backrooms - becoming the youngest filmmaker to open at No 1 in the US. Richard Osman and Marina Hyde discuss the success of low-budget horror and the YouTube-to-cinema pipeline. Speculation is mounting that Tom Hardy has been axed from hit crime drama Mobland, after clashes with the creators and British acting royalty. But are the rumours true? And how often do stars actually get fired? Belle Burden’s bestselling marriage memoir, Strangers, has drawn fierce criticism after claims she exaggerated her financial ruin. Has the publishing industry’s hunger for ‘true’ stories broken the modern memoir? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: James Clayden & Lorcan Moullier Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Sam Psyk & Neil Fearn Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5112993968.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3065",
+      "speakers": [
+        "Tom Hardy",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "backroom",
+        "youtube",
+        "saved",
+        "hollywood"
+      ]
+    },
+    {
+      "key": "2e749ecdca241e6c4ffc66de9fbf9a4bef817938",
+      "title": "Would Coldplay Win Eurovision?",
+      "published_at": "2026-05-27T23:05:00+00:00",
+      "link": null,
+      "description": "Was Marina wrong about the best James Bond theme tune? Is Strictly Come Dancing about to radically change its format? Are films the reason you’re scared of quicksand? Richard Osman and Marina Hyde answer your questions about TV, film and the world of entertainment. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Max Archer Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Sam Psyk & Neil Fearn Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6155718763.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2357",
+      "speakers": [
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "coldplay",
+        "eurovision"
+      ]
+    },
     {
       "key": "2ece4e73eaeb62174d46ea6d44c3230a0ba11e5a",
       "title": "Married At First Sight: Tip Of The Iceberg?",
@@ -5899,6 +5967,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Kylie Minogue, Sherlock Holmes & Venezuela Fury — speakers: Kylie Minogue, Richard Osman, Marina Hyde
+- 2026-06-01 — Backrooms: Has YouTube Just Saved Hollywood? — speakers: Tom Hardy, Richard Osman, Marina Hyde
+- 2026-05-27 — Would Coldplay Win Eurovision? — speakers: Richard Osman, Marina Hyde
 - 2026-05-25 — Married At First Sight: Tip Of The Iceberg? — speakers: Richard Osman, Marina Hyde
 - 2026-05-20 — Marina Is Wrong About The Best Bond Theme — speakers: Richard Osman, Marina Hyde
 - 2026-05-19 — Have Tradwives Killed Feminism? — speakers: James Kanagasooriam, Richard Osman, Marina Hyde

@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-05-22T20:10:11+00:00`
-- checked_at: `2026-05-22T20:10:11+00:00`
-- etag: `"722b3396f89b888339439f6370273ebf"`
-- last_modified: `Fri, 22 May 2026 18:00:04 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"270d1d824de35578fbb0ddc9953e0551"`
+- last_modified: `Thu, 04 Jun 2026 17:58:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-05-22T20:10:11+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "fb7bd95e5f43c4978a5a2b9da8ea29dabef915f6",
+      "title": "The News Quiz Ep6. Brexpressionism",
+      "published_at": "2026-05-29T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nljxwp",
+      "description": "Recorded at Hay Festival, Andy asks the panel the dreaded question - is Brexit back on the table? Also on the menu is Welsh independence, the National Conversation and an update on just how much money has been wasted on HS2. This week’s panellists are Kiri Pritchard-McLean, Robin Morgan, Stephen Bush and Chloe Petts. Written by Andy Zaltzman. With additional material by: Maisie Adair, Catherine Brinkworth, Angela Channell and James Farmer Producer: Georgia Keating Executive Producer: James Robinson Production Coordinator: Asha Osborne-Grinter Sound Editor: Marc Willcox Recorded at Hay Festival A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nmt1wn.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27376000",
+      "itunes_duration": "1711",
+      "speakers": [],
+      "topics": [
+        "news",
+        "quiz",
+        "brexpressionism"
+      ]
+    },
     {
       "key": "7fd8bf4dba2fcb89aca2cbd7a6aa5255bb980ce9",
       "title": "The News Quiz Ep5. Starmer psychodrama",
@@ -5429,50 +5447,6 @@
         "ringers",
         "june"
       ]
-    },
-    {
-      "key": "284db5a702d750bc875c7ad0fb17f1de2c318b0c",
-      "title": "The News Quiz - Friday 4th June 2021",
-      "published_at": "2021-06-04T17:58:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09klt8r",
-      "description": "Andy Zaltzman presents a look back at the week's headlines with guests Andrew Maxwell, Kiri Pritchard-McLean, Alex Massie and Ria Lina. It's the last episode in the series and Andy FINALLY becomes the first News Quiz host to present the programme from the BBC Test Match Special commentary box at Lords. Written by Andy Zaltzman with additional material from Alice Fraser, Max Davis and Tasha Dhanraj. Producer: Richard Morris Production Coordinator: Cherlynn Andrew-Wilfred Sound Editor: Marc Willcox A BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09klsjb.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26800000",
-      "itunes_duration": "1675",
-      "speakers": [
-        "Andy Zaltzman",
-        "Andrew Maxwell"
-      ],
-      "topics": [
-        "news",
-        "quiz",
-        "friday",
-        "june"
-      ]
-    },
-    {
-      "key": "4c0e7a52505fb6de63fb8f1e3f523866f10e4b10",
-      "title": "The News Quiz - Friday 28th May 2021",
-      "published_at": "2021-05-28T17:58:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09jyddv",
-      "description": "Andy Zaltzman presents a look back at the week's headlines with guests Lucy Porter, Alice Fraser, Hugo Rifkind and Daliso Chaponda. This week a certain select committee hearing and the inaugural FALSE or VERY FALSE round. Written by Andy Zaltzman with additional material from Eleanor Morton, Rajiv Karia and Simon Alcock. Producer: Richard Morris Production Coordinator: Cherlynn Andrew-Wilfred Sound Editor: Marc Willcox A BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09jyc9q.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26816000",
-      "itunes_duration": "1676",
-      "speakers": [
-        "Andy Zaltzman",
-        "Lucy Porter",
-        "Alice Fraser"
-      ],
-      "topics": [
-        "news",
-        "quiz",
-        "friday"
-      ]
     }
   ]
 }
@@ -5481,6 +5455,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-29 — The News Quiz Ep6. Brexpressionism
 - 2026-05-22 — The News Quiz Ep5. Starmer psychodrama — speakers: Prime Minister
 - 2026-05-15 — The News Quiz: Ep4. The people have spoken
 - 2026-05-08 — The News Quiz: Ep3. When the King came round for tea — speakers: Donald Trump’s Wh
@@ -5738,5 +5713,3 @@
 - 2021-06-25 — Dead Ringers, 25th June, 2021 — speakers: Dead Ringers, Chris Whitty
 - 2021-06-18 — Dead Ringers, 18th June, 2021 — speakers: Dead Ringers
 - 2021-06-14 — Dead Ringers 11th June 2021 — speakers: Dead Ringers, Will England
-- 2021-06-04 — The News Quiz - Friday 4th June 2021 — speakers: Andy Zaltzman, Andrew Maxwell
-- 2021-05-28 — The News Quiz - Friday 28th May 2021 — speakers: Andy Zaltzman, Lucy Porter, Alice Fraser

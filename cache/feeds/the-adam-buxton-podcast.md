@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-05-25T15:28:59+00:00`
-- checked_at: `2026-05-25T15:28:59+00:00`
-- etag: `"djEuMi4wOjE3Nzk3MTc1NDczNTg="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODAwMDcyODYxNDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-05-25T15:28:59+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -31,12 +31,12 @@
       "title": "EP.273 - PATRICK RADDEN KEEFE",
       "published_at": "2026-05-25T13:49:22+00:00",
       "link": "https://shows.acast.com/adambuxton/episodes/ep273-patrick-radden-keefe",
-      "description": "Adam talks with American journalist Patrick Radden Keefe about his book London Falling: A Mysterious Death in a Gilded City and a Family’s Search for Truth , the challenges presented by parenting adolescents, the seductive power of movies like The Wolf Of Wall Street and Patrick's own efforts to resist the glamorising effect of TV and film during production of the TV adaptation of his book about the Troubles in Northern Ireland, Say Nothing , and Adam's own ludicrous taste of the criminal life in his early adolescence. There's also chat about why David Byrne's live show was the best live music show Adam has ever seen and whether it's OK to stand up at a seated music show. Conversation recorded face-to-face in Bath on 7 May, 2026 LONDON FALLING by Patrick Radden Keefe - 2026 (Waterstones) SUBMIT QUESTIONS FOR Q&A EPISODE : Adambuxtonpodcast@gmail.com Thanks to Diggory Waite and Claire Broughton at Hattrick and Séamus Murphy Mitchell for production support. Podcast illustration by Helen Green SPONSOR: SAILY 🌎 Get an exclusive 15% discount on your first Saily data plans! Use code buxton at checkout. Download Saily app or go to https://saily.com/ buxton ⛵ PEOPLE'S EMERGENCY BRIEFING FILM AND TALK WITH ADAM BUXTON & PATRICK BARKHAM @ Norwich Arts Centre, 28 June, 2026 ADAM BUXTON BAND @ Hoxton Hall, London, 23 & 24 June, 2026 (Eventim) BUG BOWIE SPECIAL @ The Lightroom, London, 17 June, 2-4 July, 2026 (Lightroom) ADAM BUXTON PODCAST LIVE WITH MAWAAN RIZWAAN @ Roundhouse, London , 5 April, 2026 (Roundhouse) Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Adam talks with American journalist Patrick Radden Keefe about his book London Falling: A Mysterious Death in a Gilded City and a Family’s Search for Truth , the challenges presented by parenting adolescents, the seductive power of movies like The Wolf Of Wall Street and Patrick's own efforts to resist the glamorising effect of TV and film during production of the TV adaptation of his book about the Troubles in Northern Ireland, Say Nothing , and Adam's own ludicrous taste of the criminal life in his early adolescence. There's also chat about why David Byrne's live show was the best live music show Adam has ever seen and whether it's OK to stand up at a seated music show. Conversation recorded face-to-face in Bath on 7 May, 2026 LONDON FALLING by Patrick Radden Keefe - 2026 (Waterstones) CLARIFICATION RE. STATINS vs GLP-1s Responding to Adam's comments about statins at the end of the conversation with Patrick, this was sent in by Dr Mit Shah, MBBS BSc (Hons) PhD, Consultant Cardiologist in Preventive Cardiology, Harefield Hospital: I’m a consultant cardiologist specialising in lipid disorders and preventive cardiology. While both GLP-1 drugs and statins can reduce cardiovascular risk, they work through very different mechanisms and treat different underlying problems. Statins are specifically used to lower LDL cholesterol, whereas GLP-1 drugs mainly work through the blood glucose and weight-loss pathway, with only modest effects on cholesterol. Statins have become somewhat unfairly maligned through widespread misinformation and exaggerated claims about side effects, despite very strong clinical evidence for benefit. In fact, researchers have even performed randomised trials demonstrating a significant “nocebo effect”, where patients experience expected side effects even when taking placebo tablets due to their preconceived expectations and worries. Daily, I see patients with severe (sometimes genetic) cholesterol disorders who have a critical need for statin therapy, but who are understandably hesitant because of what they’ve heard online. I worry that the idea that GLP-1s could simply replace statins may unintentionally add to that confusion. SUBMIT QUESTIONS FOR Q&A EPISODE : Adambuxtonpodcast@gmail.com Thanks to Diggory Waite and Claire Broughton at Hattrick and Séamus Murphy Mitchell for production support. Podcast illustration by Helen Green SPONSOR: SAILY 🌎 Get an exclusive 15% discount on your first Saily data plans! Use code buxton at checkout. Download Saily app or go to https://saily.com/ buxton ⛵ PEOPLE'S EMERGENCY BRIEFING FILM AND TALK WITH ADAM BUXTON & PATRICK BARKHAM @ Norwich Arts Centre, 28 June, 2026 ADAM BUXTON BAND @ Hoxton Hall, London, 23 & 24 June, 2026 (Eventim) BUG BOWIE SPECIAL @ The Lightroom, London, 17 June, 2-4 July, 2026 (Lightroom) ADAM BUXTON PODCAST LIVE WITH MAWAAN RIZWAAN @ Roundhouse, London , 5 April, 2026 (Roundhouse) Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1779715466333-97d299fa-3729-4d34-bbd1-1b4b346fa3a6.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/6a1452f26ee822cbfb889284/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "186300525",
-      "itunes_duration": "1:17:37",
+      "enclosure_length": "189610866",
+      "itunes_duration": "1:19:00",
       "speakers": [
         "Patrick Radden Keefe",
         "Adam Buxton"

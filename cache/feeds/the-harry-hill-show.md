@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-05-25T10:47:24+00:00`
-- checked_at: `2026-05-25T10:47:24+00:00`
-- last_modified: `Mon, 25 May 2026 05:07:52 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- last_modified: `Mon, 01 Jun 2026 08:14:31 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-25T10:47:24+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -26,6 +26,35 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "503ae044272b322f79af32c8ac41760584fba0fa",
+      "title": "Bridget Christie: Slow Bike Racing, Chris Tarrant's Boombox and Teaching Your Dog to Ignore Foxes",
+      "published_at": "2026-06-01T05:00:00+00:00",
+      "link": null,
+      "description": "Bridget Christie — comedian, writer, and the youngest of nine siblings from Gloucester — joins Harry to talk about leaving school at 15 with basically no qualifications, getting a four-star review in The Times, and why she keeps forgetting the plots of books she's just read. We also hear about a deeply chaotic Celebrity Millionaire with Al Murray, Chris Tarrant marching down a corridor with a ghetto blaster playing \"Alice Who The F**k Is Alice,\" and Bridget's decision to commemorate all of this by painting him in the nude.Plus: Battersea Dogs Home's canine behaviourist Beth Bushkid brings in Pancake the pug (brother: Dumpling) to answer the questions that matter — can you teach your dog to go to bed when a fox turns up? Are dogs psychic? And what is a dog? Bridget also becomes the first person in the show's history to do something correctly. Hit subscribe so you never miss an episode! Bridget Christie\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on Bridget Christie. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8d867fac-5b3f-11f1-9d3b-773234ca9534/image/a2cec537ad3aba0d6023a8b7ade94943.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR9062992457.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3870",
+      "speakers": [
+        "Bike Racing",
+        "Chris Tarrant",
+        "Harry Hill"
+      ],
+      "topics": [
+        "bridget",
+        "christie",
+        "slow",
+        "bike",
+        "racing",
+        "chris",
+        "tarrant",
+        "boombox",
+        "ignore",
+        "foxes"
+      ]
+    },
     {
       "key": "8b63a7417ae7005f2ad5d76c7a867d9f45903405",
       "title": "Adam Hills: Nick Cave, Evil Swans, and Training My Bladder for the Coronation",
@@ -36,7 +65,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR4303912594.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3622",
+      "itunes_duration": "3682",
       "speakers": [
         "Adam Hills",
         "Nick Cave",
@@ -1745,6 +1774,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-01 — Bridget Christie: Slow Bike Racing, Chris Tarrant's Boombox and Teaching Your Dog to Ignore Foxes — speakers: Bike Racing, Chris Tarrant, Harry Hill
 - 2026-05-25 — Adam Hills: Nick Cave, Evil Swans, and Training My Bladder for the Coronation — speakers: Adam Hills, Nick Cave, Evil Swans, Harry Hill
 - 2026-05-18 — Henning Wehn: In Germany people laugh once the work is done. Not instead of doing any work. — speakers: Henning Wehn, Harry zu Gast, Harry Hill
 - 2026-05-11 — Joe Lycett: There are a few AI slop accounts now that really grip me... — speakers: Joe Lycett, Mummy Joe Lycett, Harry Hill

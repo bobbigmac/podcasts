@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-05-25T15:28:59+00:00`
-- checked_at: `2026-05-25T15:28:59+00:00`
-- last_modified: `Mon, 25 May 2026 12:48:52 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- last_modified: `Thu, 04 Jun 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-25T15:28:59+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,69 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "77ad4d90a33238b510bd3a55616d8a01bebc5423",
+      "title": "Want to Be Happier? Try Talking to Strangers.",
+      "published_at": "2026-06-04T09:00:00+00:00",
+      "link": null,
+      "description": "Nicholas Epley is a mind reader. But he doesn’t have ESP or practice hypnosis. He's not telepathic or clairvoyant. Sure, you could ask him to read your fortune, but you'd be better off with a Magic 8 Ball. When we say Nick is a mind reader, what we mean is he studies mind reading at the University of Chicago — studies, as he puts it, \"how we make inferences about each other's thoughts and beliefs and attitudes, and mostly how we screw that up.\" Today, he makes small talk — and big talk — with Rufus about his new book, A Little More Social , which draws on the dozens of studies he's run with thousands of participants to show that talking to strangers, cringe as it may feel, can enliven your days, lengthen your life, and maybe even heal our politics. If you enjoyed this episode, check out our conversations with Charles Duhigg , Leslie John , David Brooks , Marc Schulz , Anna Sale , and John Colapinto . The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠here⁠⁠⁠ . Follow Rufus on ⁠⁠LinkedIn⁠⁠ , subscribe to our ⁠⁠Substack⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠. The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠nextbigideaclub.com⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). 🔗 Sponsored By: Fora — Build and scale your own travel business by becoming a Fora Advisor today at foratravel.com/idea Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Shopify — Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP4922331785.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4600",
+      "speakers": [
+        "Nicholas Epley",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "strangers"
+      ]
+    },
+    {
+      "key": "ff09b7ee3e5f5cd7c31d8682681e73c6c06591ef",
+      "title": "Best Of: Gretchen Rubin’s Guide to Getting Out of Your Head and Into the World",
+      "published_at": "2026-06-01T09:00:00+00:00",
+      "link": null,
+      "description": "What do your five senses — sight, sound, smell, taste, and touch — have to do with happiness? According to Gretchen Rubin, a great deal. The world around us, she says, has the potential to dazzle, to entertain, to trigger a state of rapture. If only we pay attention. Today on the show, she shares the tools she's developed to delight in the physical world. She spoke to Rufus in April 2023 about her book Life in Five Senses . Sponsored By: Fora — Become a Fora Advisor today at foratravel.com/idea Northwest Registered Agent — Learn more at northwestregisteredagent.com/nbifree Shopify — Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP1564477397.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3272",
+      "speakers": [
+        "Gretchen Rubin’s Guide",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "gretchen",
+        "rubin",
+        "guide",
+        "head",
+        "world"
+      ]
+    },
+    {
+      "key": "662639f6a35c1c303b0ac7d43009674301d05525",
+      "title": "The Case for Speechmaking in the Age of Doomscrolling",
+      "published_at": "2026-05-28T09:00:00+00:00",
+      "link": null,
+      "description": "America's a funny place. It's not a country with a fixed geographic or religious identity. We don't have a common story of divine creation. \"What we have,\" writes Ben Rhodes in his new book, ⁠All We Say⁠ , \"are words.\" The words of the founding documents, yes — but also \"the words of speeches spoken by Americans who call us to be that better version of ourselves.\" Ben has spent more time with great American speeches than just about anyone. For eight years, he was a speechwriter in the Obama White House, crafting some of the defining oratory of the era. His new book is a 250-year tour through 15 speeches that built the country, challenged it, and raised its sights. He tells us how FDR changed the course of WWII from behind the lectern, how MLK ad-libbed one of the most famous lines in American history, and what Obama's 2008 speech about race can teach today's politicians about storytelling. And he makes the case that America needs great oratory now more than it has in a long time. 💬 LINES WE LOVED: “Try to imagine American identity without speeches. It's hard to do. It's almost like secular scripture. Think about the Gettysburg Address, Lincoln's second inaugural, the ‘I Have a Dream’ speech or those Kennedy speeches — or, if you're a Republican, the speeches that Reagan gave. I would argue that one of the reasons our politics is so fractured and we can't talk to each other or persuade each other of anything is because we're not doing that anymore.” “Obama used to say to me, ‘Remember that everything we do is just we're trying to tell the best story we can about America and what it can be.’ Not only is every speech a story, but every speech is a chapter in a larger story we're trying to tell.” 🔗 LINKS + SPONSORS: If you enjoyed this episode, you might also like our conversations with Erik Larson , Walter Isaacson , Eric Weiner , and Jill Lepore . Granola ➡️ If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months. Just head to granola.ai/idea Incogni ➡️ Protect your personal information online and get an exclusive 60% off an annual plan at incogni.com/nbi Quince ➡️ Refresh your spring wardrobe and get free shipping and 365-day returns at quince.com/nbi Shopify ➡️ Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP8243778930.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3994",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "case"
+      ]
+    },
     {
       "key": "a9fa10d257eb2433007418162e5d9ff0f89259e9",
       "title": "Best Of: Stop Chasing More. Start Embracing Your Limits.",
@@ -7794,6 +7857,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — Want to Be Happier? Try Talking to Strangers. — speakers: Nicholas Epley, Rufus Griscom, Caleb Bissinger
+- 2026-06-01 — Best Of: Gretchen Rubin’s Guide to Getting Out of Your Head and Into the World — speakers: Gretchen Rubin’s Guide, Rufus Griscom, Caleb Bissinger
+- 2026-05-28 — The Case for Speechmaking in the Age of Doomscrolling — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-05-25 — Best Of: Stop Chasing More. Start Embracing Your Limits. — speakers: Oliver Burkeman, Rufus Griscom, Caleb Bissinger
 - 2026-05-21 — When Will AI Empty Your Dishwasher? (with Nicholas Thompson) — speakers: Nicholas Thompson, Rufus Griscom, Caleb Bissinger
 - 2026-05-18 — Best Of: An Epicurean Guide to the Good Life — speakers: Rufus Griscom, Caleb Bissinger

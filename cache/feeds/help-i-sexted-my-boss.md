@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-05-26T10:17:42+00:00`
-- checked_at: `2026-05-26T10:17:42+00:00`
-- etag: `"ZGpFdU1pNHdPakUzTnprM09ESXpNakEwTURZPTo6c2F4ZXNz"`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RBMk56RTROall3TmpnPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-05-26T10:17:42+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,70 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b8cfcffb7105de605dffdada0068f109e9dbc016",
+      "title": "Help I Sexted Toni And Ryan! | With Titanic Reenactments",
+      "published_at": "2026-06-05T05:00:00+00:00",
+      "link": "https://sextedmyboss.komi.io/",
+      "description": "Worlds collide as visitors from the other side of the world grace the Sexted studio - it’s only Toni and Ryan! How will William and Jordan react to a pair of Australians clinking glasses? How will Toni and Ryan react to a pair of uptight Brits refusing to discuss money? And who will be sliding up against each other to reenact a classic scene from Titanic? If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1780487487505-e7e42d2c-3cf7-4072-865d-2015391eb773.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a1ea4a2e769398f39ecccbe/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=WrKszlrI5KpDKIIjR3MEUSr4N44AVRbBOeiDjbFtP60",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43886132",
+      "itunes_duration": "45:42",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "toni",
+        "ryan",
+        "reenactment"
+      ]
+    },
+    {
+      "key": "15b0cd1a1de8a448da2073ece70d5680bce9a451",
+      "title": "Help He’s Entering My Tardis | And We've Got A New Studio!",
+      "published_at": "2026-06-02T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-hes-entering-my-tardis-and-how-to-stay-pale",
+      "description": "The Help I Sexted My Boss studio has had a glow up, and the boys are fizzing with excitement! There are new features, new dilemmas, and newfound respect for anyone who thinks it's sexy to dress up as Doctor Who in the bedroom. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1780240190096-9b887041-0e1c-4f76-9217-8b5f23c135b1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a195434b3015904c620d4c5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=nUp_dvmdLctYJ0kK0Yn7joHC9OsNg4sd0SWOSJ5yof8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35813250",
+      "itunes_duration": "37:18",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "tardis",
+        "studio"
+      ]
+    },
+    {
+      "key": "2d4d61a882ee68cb91df0bdcf0cdc4c8b16e3d16",
+      "title": "Jordan’s Philosophies | And Airport Nightmares",
+      "published_at": "2026-05-29T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/jordans-philosophies-and-airport-nightmares",
+      "description": "Not many people claim to be a wise man, but not many people are Jordan North! We’ve got philosophies and mantras galore to add to your life alongside some vital holiday hacks. There’s also an enraged William and a reminder to all of us to NEVER talk about airport transportation with him ever again. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1779976364050-4eb05d38-2b03-4bec-bd68-955d0416a809.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a183a807f1edadb4c14c7d1/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=ADnMLgurhKdra14WD3ZFNON7hF1UWcAUQARImgclQNo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22530089",
+      "itunes_duration": "23:28",
+      "speakers": [
+        "Airport Nightmares",
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "jordan",
+        "philosophies",
+        "airport",
+        "nightmares"
+      ]
+    },
     {
       "key": "21ac4c06fc490c17f2cf32b65d60f934fbe73b43",
       "title": "Help I’m Monster-Sized | And Jordan’s A GNOME?!",
@@ -14371,6 +14435,9 @@
 
 ## Episodes (newest first)
 
+- 2026-06-05 — Help I Sexted Toni And Ryan! | With Titanic Reenactments — speakers: William Hanson, Jordan North
+- 2026-06-02 — Help He’s Entering My Tardis | And We've Got A New Studio! — speakers: William Hanson, Jordan North
+- 2026-05-29 — Jordan’s Philosophies | And Airport Nightmares — speakers: Airport Nightmares, Jordan North, William Hanson
 - 2026-05-26 — Help I’m Monster-Sized | And Jordan’s A GNOME?! — speakers: William Hanson, Jordan North
 - 2026-05-22 — Help I Sexted The Luxury Podcast — speakers: William Hanson, Jordan North
 - 2026-05-19 — Help I’m A West End Girl | And Jordy’s Rants — speakers: Jordy’s Rants, William Hanson, Jordan North

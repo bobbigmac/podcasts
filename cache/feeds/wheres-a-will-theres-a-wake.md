@@ -2,9 +2,9 @@
 
 - slug: `wheres-a-will-theres-a-wake`
 - source: `https://feeds.megaphone.fm/wtawtaw`
-- fetched_at: `2026-05-26T04:34:08+00:00`
-- checked_at: `2026-05-26T04:34:08+00:00`
-- last_modified: `Tue, 26 May 2026 04:00:00 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- last_modified: `Tue, 02 Jun 2026 12:41:58 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/wtawtaw",
   "description": "Join Mel Giedroyc every week as she laughs in the face of death with all your favourite funny celebrities. Working on the assumption they’ve popped their clogs, they’ll be telling Mel all about how they’ve died, what they want for their funerals and why she should be unlocking the pearly gates for them. Want the episodes ad free AND extra content from Mel and her guest? 6 Feet Under steps away from fantasy and rifles through all your dead good emails. Head to wheretheresawilltheresawake.com to subscribe. AND If you've got a story for us, send it over to mel@deathpodcast.co.uk. A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast Learn more about your ad choices. Visit podcastchoices.com/adchoices Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast To bring your brand to life in this podcast, email podcastadsales@sonymusic.com",
   "image_url": "https://megaphone.imgix.net/podcasts/2b690814-56d7-11ed-8ab5-83c1414d4a97/image/c6f317fd3e7d35323d3d1f610fd8466f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-05-26T04:34:08+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Mel Giedroyc"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ebdd3cfe773c8c9d3a4e777b477fa7f40465513d",
+      "title": "Here Lies Konnie Huq",
+      "published_at": "2026-06-02T04:00:00+00:00",
+      "link": null,
+      "description": "Blue Peter pets, choc making and dressing up as a Dalek just because... It's ex Blue Peter presenter and children's author Konnie Huq! Have a story for us? Send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts and follow us at @sonypodcasts To bring your brand to life in this podcast, email podcastadsales@sonymusic.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/db57e192-7c67-11f0-bc82-abbcbf628fe4/image/67d15699b99a5c98053d91f367cdc73a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY3355956748.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1583",
+      "speakers": [
+        "Konnie Huq",
+        "Blue Peter",
+        "Mel Giedroyc"
+      ],
+      "topics": [
+        "konnie"
+      ]
+    },
     {
       "key": "07cef497b89d48ac1a1b70c2be60b49fdfd5a6c4",
       "title": "Here Lies Ben Shephard",
@@ -4030,6 +4050,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-02 — Here Lies Konnie Huq — speakers: Konnie Huq, Blue Peter, Mel Giedroyc
 - 2026-05-26 — Here Lies Ben Shephard — speakers: Ben Shephard, Mel Giedroyc
 - 2026-05-19 — Here lies David O'Doherty — speakers: David O'Doherty, Meeting Mel, Mel Giedroyc
 - 2026-05-12 — Here Lies Kae Kurd — speakers: Lies Kae Kurd Bungee, Mel Giedroyc

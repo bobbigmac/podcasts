@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-05-26T10:17:42+00:00`
-- checked_at: `2026-05-26T10:17:42+00:00`
-- etag: `"djEuMi4wOjE3Nzk3NzcxOTYyNzY="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA2NTk5NTk1OTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-05-26T10:17:42+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,113 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "e24bc975b7454b9267864a41b372da419383b4ae",
+      "title": "Roy Big‑Castle (pt 2)",
+      "published_at": "2026-06-04T23:20:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/roy-bigcastle-pt-2",
+      "description": "The Socially Distant Sports Bar, with Elis James, Mike Bubbins and Steff Garrero. Elis is best known as co‑host of Elis James & John Robins on BBC Radio 5 Live and BBC Sounds, while Mike is a television writer and star of Mammoth, bringing his own grounded, funny perspective on sport and life. Together, they offer a conversational, humorous take on sport that doesn’t rely on expertise — just curiosity and strong opinions. The discussion is driven by a documentary exploring football in Senegal, made by a former professional footballer turned filmmaker, offering an insider’s perspective on the structure, passion and challenges of the game in a different football culture. This is paired with a book choice — Gunslinger by Jeff Pearlman — which examines the life and career of NFL quarterback Brett Favre. It’s a portrait of a hugely talented but deeply flawed sporting figure, prompting discussion about legacy, personality and how sporting greatness is remembered. Inside Senegalese Football https://youtu.be/Xb6MiBrzNaQ?si=BjkgJIbfrq9ei9hY Gunslinger by Jeff Pearlman https://amzn.to/3PLVwQB 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a1d7168c1105f0d11e6addb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83304000",
+      "itunes_duration": "34:42",
+      "speakers": [
+        "Roy Big-Castle",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": []
+    },
+    {
+      "key": "dac537ad421c0da0e8e8196ea781387224a44259",
+      "title": "Roy Big‑Castle (pt 1)",
+      "published_at": "2026-06-02T23:28:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/roy-bigcastle-pt-1",
+      "description": "The Socially Distant Sports Bar is a comedy podcast hosted by Elis James (Elis James & John Robins) and Mike Bubbins (Mammoth), alongside Steff Garrero — offering a funny, curious take on sport, culture and the stories that surround them. You don’t need to love sport — or even understand it — to enjoy it. For early, ad‑free listening and bonus content, subscribe on Apple Podcasts. Young Aaron Rai https://www.instagram.com/reel/DYeqDfMs4Pw/?igsh=MWVraGU5bXgwOWQ2bw== Mary Tyler Moore https://www.instagram.com/reel/DVbYabtDtxJ/?igsh=ZnkycmhveW96cmg%3D Stewards https://www.instagram.com/reel/DYPq_qBNpMD/?igsh=MWpienB6cXVlNTM5cg== 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a1d70cf626f8869c388c796/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "135029760",
+      "itunes_duration": "56:15",
+      "speakers": [
+        "Roy Big-Castle",
+        "Elis James",
+        "John Robins",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": []
+    },
+    {
+      "key": "afac100b81ba4efd9613f9066b952050aa5b6410",
+      "title": "Anger: Pint Size",
+      "published_at": "2026-05-30T23:20:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/anger-pint-size",
+      "description": "Welcome to Pint-Sized Distant Pod. We’ve been back through our archive of episodes and picked out some of our favourite stories, anecdotes, and funny bits. If you’re new to the pod, these are a perfect way to dip your toe in and then dive back into the full episodes from our early days. This is from “ The Argus? No Offence But, The Argus? Not Even The Echo?” 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a1a0cd57296106df54a0924/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "15405120",
+      "itunes_duration": "6:25",
+      "speakers": [
+        "Pint Size Welcome",
+        "Sized Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "anger",
+        "pint",
+        "size"
+      ]
+    },
+    {
+      "key": "f7da76408316b23ba9df18e3c5c5adc2ac03bb7b",
+      "title": "David O'Doherty (pt 2)",
+      "published_at": "2026-05-28T23:26:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/david-odoherty-pt-2",
+      "description": "Irish comedian, writer and podcaster David O’Doherty joins The Socially Distant Sports Bar this week — bringing his trademark mix of sharp comedy, surreal storytelling and genuine sporting obsession. Known for his live shows, books and appearances on shows like 8 Out of 10 Cats Does Countdown , David also brings a deep love of cycling, Irish sport and the kind of niche sporting moments this podcast thrives on. David's podcast with Max Rushden, What Did You Do Yesterday? is a favourite of the Distant Pod team. Across this episode, David joins Elis James, Mike Bubbins and Steff Garrero for a wide‑ranging conversation, split across three parts. 🎧 PART 1 David looks back on his rugby playing days , growing up in Ireland during the eras of Euro 88 and Italia 90 , and how attitudes to GAA and other sports shaped his early experience of sport. That leads into the sporting moment that has stayed with him — Stephen Roche’s extraordinary ride on La Plagne in the 1987 Tour de France. https://www.youtube.com/watch?v=sQojh-wqL04&t=174s 🎧 PART 2 From there, things take a more surreal turn — including a brilliant comedy sketch about cricket and why sport can often feel completely baffling from the outside. https://www.youtube.com/watch?v=tYrue4oXCbo Plus a standout long‑form interview recommendation featuring Paul Kimmage: https://www.patreon.com/posts/ep-2011-david-do-49807937 👉 Want Part 3? 🎧 PART 3 (BONUS — SUBSCRIBERS ONLY) David brings what he believes might be the greatest sporting clip ever: 👉 The Castletown Donkey Derby https://www.youtube.com/watch?v=8XtVm8z28e4 You’ll need to subscribe (Apple or Patreon) to hear it in full — and it’s worth it. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1779690963072-943f5d44-2602-418f-84fd-38824610929e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a13ee80cb11d38a8b37a8d3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93498240",
+      "itunes_duration": "38:57",
+      "speakers": [
+        "David O'Doherty",
+        "David O’Doherty",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "david"
+      ]
+    },
+    {
+      "key": "49e44636b2d0ebce1b2e2951105169614f28f04c",
+      "title": "David O'Doherty (pt 1)",
+      "published_at": "2026-05-26T23:19:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/david-odoherty-pt-1",
+      "description": "Irish comedian, writer and podcaster David O’Doherty joins The Socially Distant Sports Bar this week — bringing his trademark mix of sharp comedy, surreal storytelling and genuine sporting obsession. David's podcast with Max Rushden, What Did You Do Yesterday? is a favourite of the Distant Pod team. Known for his live shows, books and appearances on shows like 8 Out of 10 Cats Does Countdown , David also brings a deep love of cycling, Irish sport and the kind of niche sporting moments this podcast thrives on. Across this episode, David joins Elis James, Mike Bubbins and Steff Garrero for a wide‑ranging conversation, split across three parts. 🎧 PART 1 David looks back on his rugby playing days , growing up in Ireland during the eras of Euro 88 and Italia 90 , and how attitudes to GAA and other sports shaped his early experience of sport. That leads into the sporting moment that has stayed with him — Stephen Roche’s extraordinary ride on La Plagne in the 1987 Tour de France. https://www.youtube.com/watch?v=sQojh-wqL04&t=174s 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1779690841788-515a7c61-39f2-45cf-9a35-51443a360c84.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a13eda0cb11d38a8b377451/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87569280",
+      "itunes_duration": "36:29",
+      "speakers": [
+        "David O'Doherty",
+        "David O’Doherty",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "david"
+      ]
+    },
     {
       "key": "8982f3e41c26de1228aa578e8f6cc7319559bb30",
       "title": "Keysey: Pint Size",
@@ -14872,6 +14979,11 @@
 
 ## Episodes (newest first)
 
+- 2026-06-04 — Roy Big‑Castle (pt 2) — speakers: Roy Big-Castle, Elis James, Mike Bubbins, Steff Garrero
+- 2026-06-02 — Roy Big‑Castle (pt 1) — speakers: Roy Big-Castle, Elis James, John Robins, Mike Bubbins, Steff Garrero
+- 2026-05-30 — Anger: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
+- 2026-05-28 — David O'Doherty (pt 2) — speakers: David O'Doherty, David O’Doherty, Elis James, Mike Bubbins, Steff Garrero
+- 2026-05-26 — David O'Doherty (pt 1) — speakers: David O'Doherty, David O’Doherty, Elis James, Mike Bubbins, Steff Garrero
 - 2026-05-23 — Keysey: Pint Size — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-05-21 — Back To Basics (pt 2) — speakers: Apple Podcasts, Elis James, Mike Bubbins, Steff Garrero
 - 2026-05-19 — Back To Basics (pt 1) — speakers: Elis James, John Robins, Mike Bubbins, Steff Garrero

@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-05-22T09:49:25+00:00`
-- checked_at: `2026-05-22T09:49:25+00:00`
-- etag: `"cfab79b475da4255ad790583bec0fa54"`
-- last_modified: `Fri, 22 May 2026 05:00:07 GMT`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"dd7e6f778e670778a3b71fe082ab73b7"`
+- last_modified: `Fri, 05 Jun 2026 05:00:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1pytt.jpg",
-  "fetched_at": "2026-05-22T09:49:25+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,53 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "394b53a9282985211a76bd2a53a87c9a96f11fe6",
+      "title": "Hypatia of Alexandria (Radio Edit)",
+      "published_at": "2026-06-05T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0njdn1k",
+      "description": "Greg Jenner is joined in late antique Egypt by Professor Edith Hall and comedian Olga Koch to learn about the life of mathematician Hypatia of Alexandria. An important mathematical and astronomical thinker, Hypatia is best known today for her brutal death at the hands of Christian fundamentalists. Born to a well-respected mathematician named Theon in fourth-century Alexandria, Hypatia received an unusually advanced education for a woman, and eventually took over her father’s school. But with the city in which she lived riven by religious and political conflicts during the declining days of the Roman empire, she came to the attention of radical Christians – with fatal consequences. In this episode we explore Hypatia’s trailblazing life as a philosopher and mathematician, and her afterlife as a martyr for intellectual enquiry, and as a certified feminist icon. This is a radio edit of the original podcast episode. For the full-length version, please look further back in the feed. Hosted by: Greg Jenner Research by: Adam Simcox Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0njdpz7.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27008000",
+      "itunes_duration": "1688",
+      "speakers": [
+        "Greg Jenner",
+        "Edith Hall",
+        "Olga Koch"
+      ],
+      "topics": [
+        "hypatia",
+        "alexandria",
+        "radio",
+        "edit"
+      ]
+    },
+    {
+      "key": "bea1584cdb2aa4f739e1967408821ad4e0692bce",
+      "title": "Geoffrey Chaucer (Radio Edit)",
+      "published_at": "2026-05-29T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nh0x1x",
+      "description": "Greg Jenner is joined in medieval England by Professor Marion Turner and comedian Mike Wozniak to learn all about Geoffrey Chaucer, author of the Canterbury Tales. Since the 15th century, Chaucer has been referred to as the father of English literature. He was one of the first authors to champion the use of Middle English for poetry instead of Latin, and after the invention of the printing press, his works became the foundation of the English literary canon – long before Shakespeare ever put quill to parchment. But Chaucer’s life was as extraordinary as his legacy, living as he did through the Black Death, the Hundred Years’ War between England and France, and the Peasants’ Revolt. In this episode, Greg and his guests explore Chaucer’s dramatic biography: growing up the son of a wine merchant in fourteenth-century London, his work for the royal court and long career as a medieval civil servant, his relationship with John of Gaunt through his mistress Katherine Swynford, and his travels throughout Europe. They also examine the poets that influenced him – including Petrarch, Bocaccio and Dante – and take a deep dive into the famous Canterbury Tales. This is a radio edit of the original podcast episode. For the full-length version, please look further back in the feed. Hosted by: Greg Jenner Research by: Rosalyn Sklar Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nh0yyk.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26896000",
+      "itunes_duration": "1681",
+      "speakers": [
+        "Geoffrey Chaucer",
+        "Greg Jenner",
+        "Marion Turner",
+        "Mike Wozniak"
+      ],
+      "topics": [
+        "geoffrey",
+        "chaucer",
+        "radio",
+        "edit"
+      ]
+    },
     {
       "key": "90e2d6158a0479fe053071e39d38d386aa8cdc1e",
       "title": "Lena Horne (Radio Edit)",
@@ -187,7 +234,7 @@
       "title": "Empress Dowager Cixi: from concubine to ruler of China",
       "published_at": "2026-04-03T05:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m002scqj",
-      "description": "Greg Jenner is joined in nineteenth-century China by historian Professor Yangwen Zheng and comedian Sophie Duker to learn about the Qing dynasty ruler Empress Dowager Cixi. A contemporary of Queen Victoria, Cixi rose from low-ranked concubine to de facto ruler of China for nearly half a century, and lived through a dizzying array of events in China’s nineteenth-century history, including the Taiping Rebellion, the Opium Wars, and the Boxer Rebellion. Ruling through her son and then her nephew, Empress Dowager Cixi dominated late Qing dynasty China, and oversaw a variety of economic and military – if not political – reforms. This episode charts her life, from her entry into the Forbidden Palace as a teenager all the way to her death in 1908, taking in the politics and traditions of the Qing imperial court, her relationship with Emperor Xianfeng and her rival turned co-ruler Empress Dowager Ci'an, and her determined attempts to gain and maintain power. If you’re a fan of Chinese history, ruthless court politics, and complex women characters, you’ll love our episode on Empress Dowager Cixi. If you want to learn more about the history of China, listen to our episodes on the history of Kung Fu and the Terracotta Warriors. And for more fascinating characters with Sophie Duker, check out our episode on Ramesses the Great, naughty nun Benedetta Carlini and the Chevalier de Saint-Georges. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Emma Mitchell Written by: Emma Mitchell, Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "description": "Greg Jenner is joined in 19th-century China by historian Professor Yangwen Zheng and comedian Sophie Duker to learn about the Qing dynasty ruler Empress Dowager Cixi. A contemporary of Queen Victoria, Cixi rose from low-ranked concubine to de facto ruler of China for nearly half a century, and lived through a dizzying array of events in China’s nineteenth-century history, including the Taiping Rebellion, the Opium Wars, and the Boxer Rebellion. Ruling through her son and then her nephew, Empress Dowager Cixi dominated late Qing dynasty China, and oversaw a variety of economic and military – if not political – reforms. This episode charts her life, from her entry into the Forbidden Palace as a teenager all the way to her death in 1908, taking in the politics and traditions of the Qing imperial court, her relationship with Emperor Xianfeng and her rival turned co-ruler Empress Dowager Ci'an, and her determined attempts to gain and maintain power. If you’re a fan of Chinese history, ruthless court politics, and complex women characters, you’ll love our episode on Empress Dowager Cixi. If you want to learn more about the history of China, listen to our episodes on the history of Kung Fu and the Terracotta Warriors. And for more fascinating characters with Sophie Duker, check out our episode on Ramesses the Great, naughty nun Benedetta Carlini and the Chevalier de Saint-Georges. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Emma Mitchell Written by: Emma Mitchell, Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n4hz7j.mp3",
       "enclosure_type": "audio/mpeg",
@@ -5860,6 +5907,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-05 — Hypatia of Alexandria (Radio Edit) — speakers: Greg Jenner, Edith Hall, Olga Koch
+- 2026-05-29 — Geoffrey Chaucer (Radio Edit) — speakers: Geoffrey Chaucer, Greg Jenner, Marion Turner, Mike Wozniak
 - 2026-05-22 — Lena Horne (Radio Edit) — speakers: Lena Horne, Greg Jenner, Hannah Thuraisingam Robbins
 - 2026-05-15 — Philippe, Duc d’Orléans (Radio Edit) — speakers: Greg Jenner, Jonathan Spangler, Tom Allen
 - 2026-05-08 — Renaissance Medicine (Radio Edit) — speakers: Greg Jenner, Alanna Skuse, Ria Lina

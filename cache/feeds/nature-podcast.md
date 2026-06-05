@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-05-22T15:21:51+00:00`
-- checked_at: `2026-05-22T15:21:51+00:00`
-- etag: `"djEuMi4wOjE3Nzk0NTA4NzkyNDU="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA1MDAwODk0OTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-05-22T15:21:51+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,52 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "d743625678d26f273cdc75872809e909bff53e18",
+      "title": "Your phone can use tiny skin-colour changes to measure your heart rate",
+      "published_at": "2026-06-03T15:21:29+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01793-1",
+      "description": "In this episode: 00:57 How your smartphone’s camera could measure your heart rate Research article: Liao et al. 08:55 Research Highlights Nature: A star gone rogue tears through the Galaxy Nature: Gold keeps glittering courtesy of surface chemistry 11:04 Should you try something new in a restaurant? Maths has the answer Nature: Feynman solved the ‘restaurant dilemma’ 50 years ago — now a study confirms his mathematics Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a2046793ab59ca4e2b17c72/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "17668399",
+      "itunes_duration": "18:23",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "phone",
+        "skin",
+        "colour",
+        "change",
+        "heart",
+        "rate"
+      ]
+    },
+    {
+      "key": "c0f79e17b92d504179f869a57c967b50ae1d872b",
+      "title": "Briefing Chat: When to trust eyewitness memory – according to science",
+      "published_at": "2026-05-29T15:20:32+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01736-w",
+      "description": "In this episode: 00:21 When witnesses identify suspects from police line-ups, confidence matters Nature: Memory on trial: the new science of when to trust eyewitness testimony 07:15 Registered Reports: how this ‘double peer review’ process could benefit scientists and their results Nature: Nature is expanding Registered Reports to all the fields in which we publish Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1780067884865-5780cc57-ac1d-4d01-8d72-aea477f77404.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a19ae75dd90858af90e0030/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24836473",
+      "itunes_duration": "17:14",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "chat",
+        "eyewitness",
+        "memory",
+        "science"
+      ]
+    },
     {
       "key": "6e425be3212abd21633e727e71adbb7767403bbd",
       "title": "Major Ebola outbreak is escalating: what happens next",
@@ -19717,6 +19763,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Your phone can use tiny skin-colour changes to measure your heart rate — speakers: Benjamin Thompson, Noah Baker
+- 2026-05-29 — Briefing Chat: When to trust eyewitness memory – according to science — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-22 — Major Ebola outbreak is escalating: what happens next — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-20 — AI ‘scientists’ promise to accelerate research — how do they work? — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-15 — Briefing Chat: Hantavirus — what this outbreak reveals about the disease — speakers: Briefing Chat, Benjamin Thompson, Noah Baker

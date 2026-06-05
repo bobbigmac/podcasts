@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-05-25T10:47:24+00:00`
-- checked_at: `2026-05-25T10:47:24+00:00`
-- etag: `"djEuMi4wOjE3Nzk2OTc3MzYzNTg="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODAzOTI3NjYzNDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-05-25T10:47:24+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,44 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0c57e6f423d249e2b51cf712aaa05222d3997e34",
+      "title": "Mr Tumble Age Gap Love",
+      "published_at": "2026-06-02T09:32:46+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/mr-tumble-age-gap-love",
+      "description": "This week, Katherine's Telling Everybody Everything about the flipped media reactions to Venezuela Fury's wedding and Mr Tumble's new romance. What the heck is going on there? Comedian Andrew Johnston @MandrewBrawnston brings hot pop culture news from Los Angeles including Oprah's BFF Gayle King finding her husband in bed with another woman, Ballsmaxxing, Khloe Kardashian's podcast chat with Tristan Thompson, and the news that there are more films with male leads called 'Chris' than there are with female leads over 60. Plus, your letters on confronting a pervert and breastfeeding etiquette. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1780392486243-cfb08726-af5b-4937-ad5f-dfbcfca8d66c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a1ea33e335cf85f9cc9401d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68733514",
+      "itunes_duration": "47:43",
+      "speakers": [
+        "Tumble Age Gap Love",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "tumble",
+        "love"
+      ]
+    },
+    {
+      "key": "08b53150fe97a5e787f3e51d14aedf63f29c7caa",
+      "title": "The Labour Poo",
+      "published_at": "2026-05-27T05:27:44+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/the-labour-poo",
+      "description": "This week, Katherine's Telling Everybody Everything about The Labour Poo with our friends at Andrex, who support this important conversation empowering mums to push (and to live!) without fear. Katherine is joined by the incomparable comedian Victoria Emes @VictoriaEmes whose social videos will have made you laugh and here she is doing it again with an unmissable story. Lifting shame has always been important to us and we'd love to hear your birth story too. Share your story #MyLabourPoo visit @AndrexUK www.andrex.co.uk Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1779857821368-81a9858c-ecd5-49f5-bde3-a04be959f7f0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a1680d0942fd187548f37d5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34831658",
+      "itunes_duration": "35:53",
+      "speakers": [
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "labour"
+      ]
+    },
     {
       "key": "21c74ece8f7ddd777a0ef01f98d2443526732a8e",
       "title": "Am I An Instrument Of The Far Right?",
@@ -6192,6 +6230,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-02 — Mr Tumble Age Gap Love — speakers: Tumble Age Gap Love, Katherine Ryan
+- 2026-05-27 — The Labour Poo — speakers: Katherine Ryan
 - 2026-05-25 — Am I An Instrument Of The Far Right? — speakers: Far Right, Telling Everybody Everything, Katherine Ryan
 - 2026-05-19 — Lee Andrews is in My Basement — speakers: Lee Andrews, Katie Pri, Katherine Ryan
 - 2026-05-11 — Locked WhatsApp Messages — speakers: Telling Everybody Everything, Katherine Ryan

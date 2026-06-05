@@ -2,9 +2,9 @@
 
 - slug: `have-a-word`
 - source: `https://feeds.acast.com/public/shows/660d348bf844f70016bf5fd1`
-- fetched_at: `2026-05-23T10:43:28+00:00`
-- checked_at: `2026-05-23T10:43:28+00:00`
-- etag: `"djEuMi4wOjE3Nzk1MTI0Mzk0MTE="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODAxMTcyMzkzNjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://haveawordpod.com",
   "description": "The funniest podcast in the UK with comedians Adam Rowe and Dan Nightingale Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
-  "fetched_at": "2026-05-23T10:43:28+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Dan Nightingale",
     "Adam Rowe"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3e4b2f53d8ee16ebd9d73e4268a1c5820e0453a8",
+      "title": "#383 with Rob Thomas & Danny McLoughlin - Have A Word w/Adam, Dan & Carl",
+      "published_at": "2026-05-30T05:00:00+00:00",
+      "link": "https://shows.acast.com/have-a-word-with-adamrowe-and-dannightingale/episodes/383-with-rob-thomas-danny-mcloughlin-have-a-word-wadam-dan-c",
+      "description": "﻿Tickets, merch and loads more available on our website! https://haveawordpod.com HAW x Stars In Their Eyes Tickets: https://www.skiddle.com/e/42247092 Tickets for Have A Word Live shows as well as Adam and Dan's tours and previews: Adam's Tickets: https://www.adamrowe.com Dan's Tickets: https://dannightingale.com Carl's Stream || https://twitch.tv/senseicarl_ Finn's Music & Tickets: https://finnlayk.co.uk Finnlay K - Beautiful Morning: https://finnlayk.lnk.to/BeautfiulMorning As Adam and Dan said, don't miss out on all of our extra content, we've got one of the best value Patreons in the game. An extra 90+ minute episode every week plus loads of bonus content such as the now infamous Lockdown Lock-ins, the Nashville & Amsterdam specials and our Ghost Hunts! What are you waiting for? Sign up now at https://patreon.com/haveawordpod​ Get subscribed to Have A Word Highlights: https://youtube.com/haveawordhighlights Listen to Finn's new EP: https://finnlayk.lnk.to/AllInYourMind Thanks to this week's sponsors: Heights | https://heights.com/haveaword Enter code HAVEAWORD20 at checkout for 20% off your first month! Manscaped | https://manscaped.com 20% off with promo code: WORD20 NordVPN | https://nordvpn.com/haveaword EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/haveaword Try it risk-free now with a 30-day money-back guarantee Lovehoney | https://lovehoney.co/word_podcast Love how you love and take 20% off sitewide to unlock sexual happiness and discover a happier you with promo code: AFF-WORD20 Saily | https://saily.com/haveaword Download SAILY in your app store and use our code HAVEAWORD at checkout to get an exclusive 15% off your first purchase or go to https://saily.com/haveaword 🌍 ADAM ROWE and DAN NIGHTINGALE are two award winning comedians from Liverpool & Preston, respectively. They are two of the UK's most highly regarded stand-ups and have both performed all over the world. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/660d348bf844f70016bf5fd1/e/6a19c9f669e69451e28587d7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "148865358",
+      "itunes_duration": "2:35:04",
+      "speakers": [
+        "Dan Nightingale",
+        "Adam Rowe"
+      ],
+      "topics": [
+        "thomas",
+        "danny",
+        "mcloughlin",
+        "word",
+        "adam",
+        "carl"
+      ]
+    },
     {
       "key": "89bee302404d232f830cc5a110305b14a10a4c91",
       "title": "#382 with Nick Helm - Have A Word w/Adam, Dan & Carl",
@@ -8816,6 +8840,7 @@
 
 ## Episodes (newest first)
 
+- 2026-05-30 — #383 with Rob Thomas & Danny McLoughlin - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-05-23 — #382 with Nick Helm - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-05-16 — #381 with Julian Deane - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-05-09 — #380 with Mike Bubbins - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe

@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-05-24T08:44:17+00:00`
-- checked_at: `2026-05-24T08:44:17+00:00`
-- etag: `"djEuMi4wOjE3Nzk2MDk2Mzk1MjM="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA1NzI0MzY1Nzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,174 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-05-24T08:44:17+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "52a51b09d3f6be97c0f50c71eaf0e4b639864574",
+      "title": "Starmer fumes at Farage for \"exploiting\" Henry Nowak tragedy",
+      "published_at": "2026-06-03T14:41:40+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a203bd13ab59ca4e2ad1f35",
+      "description": "At the centre of this week's PMQs was the tragic killing of Henry Nowak, which some political figures seem to have used for their own ends. Seán is joined by Charlie Herbert of The London Economic to breakdown the session. EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/politicsjoe. Try it risk-free now with a 30-day money-back guarantee Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a203bd13ab59ca4e2ad1f35/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71832140",
+      "itunes_duration": "49:52",
+      "speakers": [
+        "Henry Nowak"
+      ],
+      "topics": [
+        "starmer",
+        "fume",
+        "farage",
+        "henry",
+        "nowak",
+        "tragedy"
+      ]
+    },
+    {
+      "key": "7eff2fa022524017fb289845812125e56eba2aaf",
+      "title": "Can Labour win back the unions?",
+      "published_at": "2026-06-02T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a1ebc06a5a56cd151ea6bfc",
+      "description": "Simon Dubbins is the Head of International at Unite the union, and came by the JOE studios to speak to us before the leadership race for General Secretary in one of Britain's biggest unions. He speaks to Laura and Andy about the union's changing relationship with the Labour party, the shift in member's politics, and how to reignite the ties between the Labour party and the workers' movement Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a1ebc06a5a56cd151ea6bfc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38812835",
+      "itunes_duration": "26:56",
+      "speakers": [
+        "Simon Dubbins"
+      ],
+      "topics": [
+        "labour",
+        "union"
+      ]
+    },
+    {
+      "key": "025bd0a1395cf5d64358b12ddfbd2840bcae5be3",
+      "title": "Hasan Piker banned from the UK & SNP in turmoil",
+      "published_at": "2026-06-01T12:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a1d6115893d35377de7108e",
+      "description": "Monday has come around again. Andy and Seán react to Nicola Sturgeon's headline interview with Laura Kuenssberg yesterday in light of her estranged husband's admission to embezzling funds from the SNP, as well as to the news that Twitch streamer Hasan Piker has been barred from entering the UK. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a1d6115893d35377de7108e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81798660",
+      "itunes_duration": "56:47",
+      "speakers": [
+        "Hasan Piker"
+      ],
+      "topics": [
+        "hasan",
+        "piker",
+        "turmoil"
+      ]
+    },
+    {
+      "key": "a56826974c4a4d183803786f9800ef238712937a",
+      "title": "Extremist Billionaires are Taking Over the Internet | Taylor Lorenz interview",
+      "published_at": "2026-05-31T05:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a1b77ac717bd81fe4dafd71",
+      "description": "Taylor Lorenz is the journalist mapping out the culture of the internet and everything surrounding it. She took time out to swing by the JOE dungeon to speak to us about the growing power of the right in the online world, their ever-tightening grip on regulations of the internet and speech in the digital space, and how to fight back against it. Download SAILY in your app store and use our code joesunday at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/joesunday Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a1b77ac717bd81fe4dafd71/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71822589",
+      "itunes_duration": "49:50",
+      "speakers": [
+        "Taylor Lorenz"
+      ],
+      "topics": [
+        "billionaires",
+        "internet",
+        "taylor",
+        "lorenz"
+      ]
+    },
+    {
+      "key": "4869fa8d16e82c56379bcd69b3b9d71aa5da225e",
+      "title": "Boomers created an economy that FAILS young people",
+      "published_at": "2026-05-30T05:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a19c27549418f56c42dbb3a",
+      "description": "As Britain faces a lost generation of over a million young people not in education or employment, the author of a sobering report into the epidemic, Alan Milburn, speaks to Ava about what the government need to do to put an end to the crisis in opportunities for young people. Download SAILY in your app store and use our code politicsjoe at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/politicsjoe Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a19c27549418f56c42dbb3a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32075275",
+      "itunes_duration": "22:13",
+      "speakers": [],
+      "topics": [
+        "boomer",
+        "economy",
+        "people"
+      ]
+    },
+    {
+      "key": "4dc5916a0c9ba694e9193ee0885363b3b1fc810e",
+      "title": "Why I walked off Piers Morgan Uncensored",
+      "published_at": "2026-05-28T11:38:36+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a18293d847a83997e8cbe7b",
+      "description": "In the wake of Tommy Robinson's Unite the Kingdom rallys in Central London, Ava went on Piers Morgan to debate the happenings on and off the stage. The conversation quickly descended into chaos as contributors, wilfully or not, misunderstood what was being discussed, and the severity of it. It all came to a head when a contributor made a baffling accusation of Ava, which led her to walk out. Her and Seán run through the show and what led to the moment. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a18293d847a83997e8cbe7b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61597530",
+      "itunes_duration": "32:03",
+      "speakers": [
+        "Tommy Robinson"
+      ],
+      "topics": [
+        "piers",
+        "morgan",
+        "uncensored"
+      ]
+    },
+    {
+      "key": "c3d512fd7112e6d80e0bb960d39da74e0ec726b4",
+      "title": "When will Tony Blair get lost?",
+      "published_at": "2026-05-27T16:03:53+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a1714346ee822cbfb6f11e9",
+      "description": "Ava, Andy, and Seán brave the heat to cover Tony Blair's latest meddling, with the former PM's institute publishing an essay critical of Labour's lack of direction. Those named include Andy Burnham, Wes Streeting, and of course Keir Starmer himself. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a1714346ee822cbfb6f11e9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92087913",
+      "itunes_duration": "1:03:56",
+      "speakers": [],
+      "topics": [
+        "tony",
+        "blair"
+      ]
+    },
+    {
+      "key": "b84682b374f505d44853cf43c723dec40df2f343",
+      "title": "The truth about Tommy Robinson's Unite the Kingdom rally",
+      "published_at": "2026-05-26T13:08:31+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a0c45fdf2a0d4ad855c3379",
+      "description": "Ava is joined by broadcaster and activist Nicola Thorp to hear what she saw on the ground at last Saturday's Unite the Kingdom rally. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a0c45fdf2a0d4ad855c3379/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65942526",
+      "itunes_duration": "45:47",
+      "speakers": [
+        "Tommy Robinson"
+      ],
+      "topics": [
+        "truth",
+        "tommy",
+        "robinson",
+        "unite",
+        "kingdom",
+        "rally"
+      ]
+    },
     {
       "key": "b165774ee6c12c53b86c88428264f3ca1ddf864c",
       "title": "Why the far-right HATE London | Sadiq Khan interview",
@@ -13080,6 +13241,14 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Starmer fumes at Farage for "exploiting" Henry Nowak tragedy — speakers: Henry Nowak
+- 2026-06-02 — Can Labour win back the unions? — speakers: Simon Dubbins
+- 2026-06-01 — Hasan Piker banned from the UK & SNP in turmoil — speakers: Hasan Piker
+- 2026-05-31 — Extremist Billionaires are Taking Over the Internet | Taylor Lorenz interview — speakers: Taylor Lorenz
+- 2026-05-30 — Boomers created an economy that FAILS young people
+- 2026-05-28 — Why I walked off Piers Morgan Uncensored — speakers: Tommy Robinson
+- 2026-05-27 — When will Tony Blair get lost?
+- 2026-05-26 — The truth about Tommy Robinson's Unite the Kingdom rally — speakers: Tommy Robinson
 - 2026-05-24 — Why the far-right HATE London | Sadiq Khan interview — speakers: Sadiq Khan
 - 2026-05-22 — What I saw at Tommy Robinson's right-wing march — speakers: Tommy Robinson
 - 2026-05-21 — This is how Labour can transform Britain's economy | Economist and Labour MP Jeevun Sandher — speakers: Jeevun Sandher

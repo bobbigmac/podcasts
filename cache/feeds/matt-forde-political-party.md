@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-05-26T10:17:42+00:00`
-- checked_at: `2026-05-26T10:17:42+00:00`
-- etag: `"djEuMi4wOjE3Nzk3ODkwMjc4MzY="`
+- fetched_at: `2026-06-05T15:17:11+00:00`
+- checked_at: `2026-06-05T15:17:11+00:00`
+- etag: `"djEuMi4wOjE3ODA0ODU0ODM0NTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-05-26T10:17:42+00:00",
+  "fetched_at": "2026-06-05T15:17:11+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "56e723a80a89c3b264195fd07caf13f880700f12",
+      "title": "Show 405. Lucy Powell - LIVE",
+      "published_at": "2026-06-03T11:17:24+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-405-lucy-powell-live",
+      "description": "This is a cracking briefing from Labour's Deputy Leader. On Makerfield and what happens next for the party. Lucy takes us inside the heart of the Labour Party... do Labour MPs and members actually want a leadership election? And what would happen if there was one? Are the issues that Labour faces actually to do with Keir Starmer at all? Lucy is also a massive football fan, but how does she behave at games... the answer may surprise you. PLUS... beauty tips on how to look 20 years younger. THE POLITICAL PARTY LIVE 9 November: Liz Kendall Plus many more to be announced soon! https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE the final dates of Matt's stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows June 3 Portsmouth New Theatre Royal - EXTRA DATE 4 Coventry Warwick Arts Centre 5 Cambridge Junction 6 Sheffield Steamworks 9 Liverpool Everyman Theatre 10 Chipping Norton Theatre 12 Norwich Playhouse - EXTRA DATE 14 York The Crescent - EXTRA DATE 15 Leeds City Varieties - EXTRA DATE 16 Glasgow Glee Club - EXTRA DATE 18 Aberdeen Lemon Tree - EXTRA DATE 26 Bristol 1532 - EXTRA DATE July 3 Basingstoke The Haymarket - EXTRA DATE 8 Birmingham Glee Club - EXTRA DATE 10 Bedford Quarry Theatre - EXTRA DATE 16 Maidenhead Norden Farm - EXTRA DATE DONATE to the RNOH Charity here: https://www. justgiving.com/campaign/mattforde Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a200d6b3ab59ca4e29d16e0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119696419",
+      "itunes_duration": "1:23:07",
+      "speakers": [
+        "Matt Forde"
+      ],
+      "topics": [
+        "lucy",
+        "powell"
+      ]
+    },
     {
       "key": "41a8a16f552266312e0afcf4fbf2432479019e7f",
       "title": "Show 404. Kieran Andrews",
@@ -10387,6 +10406,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-03 — Show 405. Lucy Powell - LIVE — speakers: Matt Forde
 - 2026-05-26 — Show 404. Kieran Andrews — speakers: Kieran Andrews, Matt Forde
 - 2026-05-19 — Show 403. Samantha Niblett — speakers: Samantha Niblett Samantha, Matt Forde
 - 2026-05-13 — Show 402. Lewis Goodall — speakers: Lewis Goodall, Labour MPs, Matt Forde
