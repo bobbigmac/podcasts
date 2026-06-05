@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"270d1d824de35578fbb0ddc9953e0551"`
-- last_modified: `Thu, 04 Jun 2026 17:58:03 GMT`
+- fetched_at: `2026-06-05T20:12:31+00:00`
+- checked_at: `2026-06-05T20:12:31+00:00`
+- etag: `"5cd45bad86b9fb77b558474c44e20bf4"`
+- last_modified: `Fri, 05 Jun 2026 18:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-05T20:12:31+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "01bae133cc099e2d69bfaec978af5e9ef82b1309",
+      "title": "The News Quiz Ep7. Heat and NEETs",
+      "published_at": "2026-06-05T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nmv7k9",
+      "description": "Andy Zaltzman is joined by his panel of political satirists to unpack the critical essays of Tony Blair, the spending habits of Peter Murrell and the SNP, the sweltering heat, social media ban proposals for under 16's and young people in record levels of unemployment. This week’s panellists are Scott Bennett, Cody Dahler, Ayesha Hazarika and Bella Hull. Written by Andy Zaltzman. With additional material by: Angela Channel, Sam Nicoresti, Pravanya Pillay and Peter Tellouche. Producer: Rajiv Karia Executive Producer: Pete Strauss Production Coordinator: Asha Osborne-Grinter Sound Editor: Marc Willcox A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0np2cjg.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27488000",
+      "itunes_duration": "1718",
+      "speakers": [
+        "Andy Zaltzman",
+        "Tony Bl"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "heat",
+        "neet"
+      ]
+    },
     {
       "key": "fb7bd95e5f43c4978a5a2b9da8ea29dabef915f6",
       "title": "The News Quiz Ep6. Brexpressionism",
@@ -5455,6 +5477,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-05 — The News Quiz Ep7. Heat and NEETs — speakers: Andy Zaltzman, Tony Bl
 - 2026-05-29 — The News Quiz Ep6. Brexpressionism
 - 2026-05-22 — The News Quiz Ep5. Starmer psychodrama — speakers: Prime Minister
 - 2026-05-15 — The News Quiz: Ep4. The people have spoken

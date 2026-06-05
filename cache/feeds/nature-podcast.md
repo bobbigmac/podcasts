@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"djEuMi4wOjE3ODA1MDAwODk0OTA="`
+- fetched_at: `2026-06-05T20:12:31+00:00`
+- checked_at: `2026-06-05T20:12:31+00:00`
+- etag: `"djEuMi4wOjE3ODA2NzQwNDM0MTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-05T20:12:31+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,30 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "6bb39978f9031b804baf7233d682a3f4116902a9",
+      "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
+      "published_at": "2026-06-05T15:40:43+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01831-y",
+      "description": "In this episode: 00:23 Fossil evidence that spinosaurs had an aquatic lifestyle Science: Some spinosaurs cried salty tears to thrive in brackish waters 04:57 The explosive immune cells that kill in minutes Nature: Bang! Exploding immune cells splatter potent toxins everywhere Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1780674033567-e82ee58b-cd75-482f-9915-fef6351a08bc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a22edfbccc3ddbc7446ea37/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "10992494",
+      "itunes_duration": "11:25",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "briefing",
+        "chat",
+        "spinosaur",
+        "salt",
+        "gland",
+        "environment"
+      ]
+    },
     {
       "key": "d743625678d26f273cdc75872809e909bff53e18",
       "title": "Your phone can use tiny skin-colour changes to measure your heart rate",
@@ -19763,6 +19787,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-05 — Briefing chat: Spinosaurs with salt glands could have lived in marine environments — speakers: Benjamin Thompson, Noah Baker
 - 2026-06-03 — Your phone can use tiny skin-colour changes to measure your heart rate — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-29 — Briefing Chat: When to trust eyewitness memory – according to science — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-22 — Major Ebola outbreak is escalating: what happens next — speakers: Benjamin Thompson, Noah Baker
