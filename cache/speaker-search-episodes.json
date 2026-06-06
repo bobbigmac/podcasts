@@ -18071,6 +18071,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:3adb5ccf639f",
+        "feed_title": "Last One Laughing Official Podcast",
+        "source_rss_url": "https://rss.art19.com/last-one-laughing",
+        "dedupe_key": "2352e60c18f5e486af82aedaeaa04c7073850686",
+        "episode_key": "2352e60c18f5e486af82aedaeaa04c7073850686",
+        "title": "Episode Six: David Mitchell and Lou Sanders",
+        "published_at": "2026-04-02T01:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Roisin Conaty is joined by series two’s David Mitchell and series one's Lou Sanders to discuss the final episode of the series. They discuss the highlights of the grand finale, and get some insight from David and Lou about all things LOL.\nSee Privacy Policy at https://art19.com/privacy and California Privacy Notice at ",
+        "audio_url": "https://pscrb.fm/rss/p/rss.art19.com/episodes/079005ab-bb98-44a9-8ff4-3df6d2f873da.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-six-david-mitchell-and-lou-sanders/id1885620207?i=1000758753711&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell",
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:74fa0980a57e",
         "feed_title": "Where There's A Will, There's A Wake",
         "source_rss_url": "https://rss.pdrl.fm/4bb7b6/feeds.megaphone.fm/wtawtaw",
