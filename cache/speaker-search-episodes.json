@@ -9399,6 +9399,28 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:d36600c665b5",
+        "feed_title": "Namaste Motherf**kers",
+        "source_rss_url": "https://feeds.megaphone.fm/AUDD4029172098",
+        "dedupe_key": "4b56acc85f0373d6b868065808da79c847655e1a",
+        "episode_key": "4b56acc85f0373d6b868065808da79c847655e1a",
+        "title": "Classic Cally: Harriet Kemsey from Series Two",
+        "published_at": "2026-06-03T23:20:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this classic episode from the Namaste Archive, Cally talks to comedian Harriet Kemsley about babies, Bobby’s, dogs, comedy, gingerness, sleep, dyspraxia, chaos, co-parenting, origin stories, Live at the Apollo, little people, big rooms and authenticity .\n\nInstagram: ⁠@harrietkemsley\n\nGet tickets for Cally’s Tour\n\nOr",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/AUDD5694036208.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/classic-cally-harriet-kemsey-from-series-two/id1562113984?i=1000771069423&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:6587af693c65",
         "feed_title": "Crushed by Margaret Cabourn-Smith",
         "source_rss_url": "https://feeds.megaphone.fm/AUDD5119698848",
@@ -19124,6 +19146,28 @@
         "description": "Happy Saturday! Today Nick Grimshaw on The Graham Norton Radio Show with Waitrose:\nLou Sanders has a brand new memoir, What’s That Lady Doing?\nShow Chef Martha has all the tips for outdoor eating!\nAnd will there finally have a winner in Word Up?\nSee the interview with Lou Sanders on YouTube, just look up @VirginRadioUK",
         "audio_url": "https://sphinx.acast.com/p/acast/s/the-graham-norton-podcast/e/64e0bb0c2cfe01001167e278/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/nick-grimshaw-in-for-graham-norton-lou-sanders/id1547229368?i=1000624967567&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:0f9d53fd1f0f",
+        "feed_title": "Cuddle Club with Lou Sanders",
+        "source_rss_url": "https://feeds.acast.com/public/shows/dc460793-43f6-4464-a809-8e23f92194bb",
+        "dedupe_key": "fdc27f2399124bb861323b1635d99e9bc741754f",
+        "episode_key": "fdc27f2399124bb861323b1635d99e9bc741754f",
+        "title": "Cuddle Club x RHLSTP: Audible Comedy Club",
+        "published_at": "2023-08-17T03:00:55Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Rich and his old FUBAR colleague Lou Sanders team up to promote some of the great comedy content available on Audible. They pick out their favourite shows from the roster, Educating Daisy with Daisy May Cooper and French and Saunders: Titting About, as well as wild-card From The Oasthouse: The Alan Partridge Podcast. F",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/cuddleclub/e/64d62c7707d13c0011110c09/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/cuddle-club-x-rhlstp-audible-comedy-club/id1497593906?i=1000624715474&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
