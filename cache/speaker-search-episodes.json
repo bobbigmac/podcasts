@@ -15341,6 +15341,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:f8cd26d3aa3e",
+        "feed_title": "RHAP: We Know Reality TV",
+        "source_rss_url": "https://feeds.podcastmirror.com/reality-tv-rhap",
+        "dedupe_key": "99181c9432300252822feb7c92edf387c0608146",
+        "episode_key": "99181c9432300252822feb7c92edf387c0608146",
+        "title": "Taskmaster Series 21 Interview w/ Greg Davies and Alex Horne",
+        "published_at": "2026-06-04T12:16:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Taskmaster Series 21 Interview w/ Greg Davies and Alex Horne\nHaley Strong and Grace Leeder team up to dive into the UK show Taskmaster. They break down the contestants, the tasks, and everything that makes this comedic competition a must-watch. Make sure to listen, your time starts now!\n\n\nToday, Haley Strong and Grace ",
+        "audio_url": "https://media.blubrry.com/rob_has_a_podcast_survivor/traffic.megaphone.fm/RHAPN2097998934.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/taskmaster-series-21-interview-w-greg-davies-and-alex-horne/id880800097?i=1000771157130&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:c6031f1ae9bf",
         "feed_title": "Hawksbee and Jacobs Daily",
         "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
@@ -32759,6 +32781,28 @@
       }
     ],
     "jack-dee": [
+      {
+        "feed_slug": "external:apple:e5b58072e338",
+        "feed_title": "Oh My Dog! with Jack Dee and Seann Walsh",
+        "source_rss_url": "https://anchor.fm/s/10b7d8230/podcast/rss",
+        "dedupe_key": "b942074ef5ef52d53f55b0204eadc48b2d5a6c0c",
+        "episode_key": "b942074ef5ef52d53f55b0204eadc48b2d5a6c0c",
+        "title": "Bark Back #27: Dog Travel Tips, Bark Air & Jack's New Tail",
+        "published_at": "2026-06-05T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on Bark Back, Jack, Seann and Sara dive into your messages about travelling with dogs, including a fascinating email from New York about the emotional impact of flying dogs in aircraft holds.\nListeners share alternatives including dog-friendly ferries to Spain, travelling across Europe with pets, and why some",
+        "audio_url": "https://traffic.megaphone.fm/APO3597086758.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bark-back-27-dog-travel-tips-bark-air-jacks-new-tail/id1675517221?i=1000771239966&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e5b58072e338",
         "feed_title": "Oh My Dog! with Jack Dee and Seann Walsh",

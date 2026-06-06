@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"djEuMi4wOjE3ODA2MjgyNTkzMTY="`
+- fetched_at: `2026-06-06T16:19:18+00:00`
+- checked_at: `2026-06-06T16:19:18+00:00`
+- etag: `"djEuMi4wOjE3ODA3NTUzODU3MTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-06T16:19:18+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "675947ac3a2df7a8d24c1eaea81572153eac42de",
+      "title": "Rich and Ally's Craven Newsround Compilation",
+      "published_at": "2026-06-06T14:16:26+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Monday 1st June 2026 - Cloaca Room - Rich and Ally are back for another month and today they are reporting on a story that you won’t find in the lame stream media (unless you read the Guardian), the onanistic habits of birds. There is a lot of prejudice against wanking birds and we hope to do our bit to stop that. So do spread the important message of today’s report. It’s OK for birds to get off on themselves. Tuesday June 2nd 2026 - Question Time - Rich and Ally cover another story that the elitist BBC wouldn’t cover, what are the unanswered questions in the Mandleson Files? And how many are there? There are more questions than answers, but not if you include wrong answers. Thursday June 4th 2026 - Yvonne Boolabong - Ally tries his hand at some ventriloquism in this last episode of the week, due to a rare performance commitment, but eventually there is some bloody news and it’s all about the return of an unpopular, unfunny 1990s comedy figure. Surely Richard isn’t so self-obsessed to make all this about him? Come and see him live (while you still can) http://richardherring.com/gigs Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1780755179870-5c672dd0-afe6-4e44-a267-5504fc060ce7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a242bb9a2db34bb897188e4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30708288",
+      "itunes_duration": "1:03:58",
+      "speakers": [
+        "Craven Newsround Compilation Monday",
+        "Cloaca Room",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation"
+      ]
+    },
     {
       "key": "ad6a4f225d432c0e3f398bdc2fe30c6443b0d367",
       "title": "Alex Horne on The Last Pebble - Book Club",
@@ -22676,6 +22699,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-06 — Rich and Ally's Craven Newsround Compilation — speakers: Craven Newsround Compilation Monday, Cloaca Room, Richard Herring
 - 2026-06-05 — Alex Horne on The Last Pebble - Book Club — speakers: Alex Horne, Richard Herring
 - 2026-06-03 — David Mitchell - "A Special Place in Hell" — speakers: David Mitchell, Richard Herring
 - 2026-06-01 — Joe Cornish (Retro) - "Womblin’ Free" — speakers: Joe Cornish, Richard Herring

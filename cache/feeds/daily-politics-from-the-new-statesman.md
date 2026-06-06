@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"djEuMi4wOjE3ODA2NTM0MzgzNTQ="`
+- fetched_at: `2026-06-06T16:19:18+00:00`
+- checked_at: `2026-06-06T16:19:18+00:00`
+- etag: `"djEuMi4wOjE3ODA3NjE2NDExMDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-06T16:19:18+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b3c9680117196438e2531db680b392f9ef5ea6a2",
+      "title": "What would “Burnhamism” actually look like?",
+      "published_at": "2026-06-06T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/what-would-burnhamism-actually-look-like",
+      "description": "Andy Burnham’s tucked-in t-shirt, a bonkers “festival of AI optimism” and which MP would make the best James Bond. Will Dunn is joined by editor Tom McTague to discuss the stories of the week. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1780653350807-1ff90794-c909-4a93-b736-b8d25493a0f3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a229ce14745c3b8ff836e13/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75887489",
+      "itunes_duration": "39:16",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "burnhamism"
+      ]
+    },
     {
       "key": "563d26cc4cbcdae4d8f56a3540633746254dd4b6",
       "title": "What does Makerfield make of Andy Burnham?",
@@ -31421,6 +31441,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-06 — What would “Burnhamism” actually look like? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-04 — What does Makerfield make of Andy Burnham? — speakers: Andy Burnham, Andy Bur, Anoosh Chakelian, Oli Dugmore
 - 2026-06-01 — Why UK politics has failed for 20 years — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-05-28 — Tony Blair has kicked the Labour Party into action — speakers: Anoosh Chakelian, Oli Dugmore
