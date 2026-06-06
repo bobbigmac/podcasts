@@ -2,11 +2,9 @@
 
 - slug: `the-rock-show-with-ed-gamble-and-joel-dommett`
 - source: `https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/`
-- fetched_at: `2026-06-06T04:19:48+00:00`
-- checked_at: `2026-06-06T08:46:32+00:00`
+- fetched_at: `2026-06-06T10:59:08+00:00`
+- checked_at: `2026-06-06T10:59:08+00:00`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: HTTP Error 403: Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -18,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/",
   "image_url": "",
-  "fetched_at": "2026-06-06T04:19:48+00:00",
+  "fetched_at": "2026-06-06T10:59:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -1066,17 +1064,7 @@
       "itunes_duration": null
     }
   ],
-  "scraper": "fubar_on_demand",
-  "fetch": {
-    "error_since": "2026-06-06T08:46:32+00:00",
-    "status": "error",
-    "checked_at": "2026-06-06T08:46:32+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "HTTP Error 403: Forbidden"
-    }
-  }
+  "scraper": "fubar_on_demand"
 }
 ```
 <!-- /FEED_JSON -->
