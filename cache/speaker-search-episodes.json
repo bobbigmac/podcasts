@@ -22981,6 +22981,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:9e4ca72d123a",
+        "feed_title": "Inheritance Tracks",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/p02pc9my.rss",
+        "dedupe_key": "f015858dfb980ab89a26436ecc8ac6893efbb3dd",
+        "episode_key": "f015858dfb980ab89a26436ecc8ac6893efbb3dd",
+        "title": "Stewart Lee",
+        "published_at": "2015-03-07T11:48:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian Stewart Lee chooses 'Solitary Man' by Neil Diamond (recorded live at The Greek Theatre, Los Angeles) and 'Chicken Nuggets for me' by The Fish Police.",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p02scz2q.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee/id524681905?i=1000337111191&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
@@ -25574,6 +25596,28 @@
       }
     ],
     "nish-kumar": [
+      {
+        "feed_slug": "external:apple:c5df4fff71a7",
+        "feed_title": "Loose Ends",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/b006qjym.rss",
+        "dedupe_key": "69164163d78e024be1213d0ccc1d349a380ab090",
+        "episode_key": "69164163d78e024be1213d0ccc1d349a380ab090",
+        "title": "Nish Kumar, Holly Jackson, Rachel Parris, Haircut 100, Liam Bailey",
+        "published_at": "2026-06-06T17:15:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Edith Bowman is joined by best-selling author Holly Jackson, whose Young Adult mystery crime series A Good Girl's Guide to Murder has been adapted into a TV series staring Emma Myers as the straight-laced amateur detective Pip. Comedian Nish Kumar is heading out on a new tour later this year 'Angry Humour from a Really",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nqdz91.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar-holly-jackson-rachel-parris-haircut-100/id1163219363?i=1000771466317&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:8c34440a90c4",
         "feed_title": "Pod Save the World",
