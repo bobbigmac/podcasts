@@ -2,11 +2,9 @@
 
 - slug: `the-lucy-porter-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/`
-- fetched_at: `2026-06-06T22:16:09+00:00`
-- checked_at: `2026-06-07T04:55:39+00:00`
+- fetched_at: `2026-06-07T09:35:34+00:00`
+- checked_at: `2026-06-07T09:35:34+00:00`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: HTTP Error 403: Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -18,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "image_url": "",
-  "fetched_at": "2026-06-06T22:16:09+00:00",
+  "fetched_at": "2026-06-07T09:35:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "82e6ea6e30129a1cbc6c25d1da5aff60927d0f8b",
+      "guid": "76482379-8836-4c9a-9c56-760df2a9bd56",
+      "title": "The Lucy Porter Show (7th June)",
+      "published_at": "2026-06-07T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-lucy-porter-show-7th-june/",
+      "description": "Ever wondered what 'Woman's Hour' would be like if it were uncensored?",
+      "image_url": "https://mm.aiircdn.com/177/420888.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1780804825-the_lucy_porter_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=76482379-8836-4c9a-9c56-760df2a9bd56&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "1fa261ac119cb7821c077c139264559ca6f97d05",
       "guid": "3cd4f07f-da87-4e5a-a02e-51d338f31da9",
@@ -1443,23 +1454,14 @@
       "itunes_duration": null
     }
   ],
-  "scraper": "fubar_on_demand",
-  "fetch": {
-    "error_since": "2026-06-07T04:55:39+00:00",
-    "status": "error",
-    "checked_at": "2026-06-07T04:55:39+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "HTTP Error 403: Forbidden"
-    }
-  }
+  "scraper": "fubar_on_demand"
 }
 ```
 <!-- /FEED_JSON -->
 
 ## Episodes (newest first)
 
+- 2026-06-07 — The Lucy Porter Show (7th June)
 - 2026-05-31 — The Lucy Porter Show (31st May)
 - 2026-05-24 — The Lucy Porter Show (24th May)
 - 2026-05-17 — The Lucy Porter Show (17th May)

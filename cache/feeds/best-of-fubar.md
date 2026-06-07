@@ -2,11 +2,9 @@
 
 - slug: `best-of-fubar`
 - source: `https://www.fubarradio.com/player/on-demand/best-of-fubar/`
-- fetched_at: `2026-06-06T22:16:09+00:00`
-- checked_at: `2026-06-07T04:55:39+00:00`
+- fetched_at: `2026-06-07T09:35:34+00:00`
+- checked_at: `2026-06-07T09:35:34+00:00`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: HTTP Error 403: Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -18,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/best-of-fubar/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/best-of-fubar/",
   "image_url": "",
-  "fetched_at": "2026-06-06T22:16:09+00:00",
+  "fetched_at": "2026-06-07T09:35:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0ec002f7cff33ada9fa66417bef97b95d1289915",
+      "guid": "29136998-ec8c-4380-a4e4-9abd88c1c26f",
+      "title": "Best of FUBAR (7th June)",
+      "published_at": "2026-06-07T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-7th-june1/",
+      "description": "A selection of highlights from the FUBAR vaults.",
+      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1780790625-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=29136998-ec8c-4380-a4e4-9abd88c1c26f&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "067bc288a127953e910063ea4464e0c2881f8189",
       "guid": "0a4a64a5-3966-4a95-adbd-e6300cf6e2fe",
@@ -8554,23 +8565,14 @@
       "itunes_duration": null
     }
   ],
-  "scraper": "fubar_on_demand",
-  "fetch": {
-    "error_since": "2026-06-07T04:55:39+00:00",
-    "status": "error",
-    "checked_at": "2026-06-07T04:55:39+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "HTTP Error 403: Forbidden"
-    }
-  }
+  "scraper": "fubar_on_demand"
 }
 ```
 <!-- /FEED_JSON -->
 
 ## Episodes (newest first)
 
+- 2026-06-07 — Best of FUBAR (7th June)
 - 2026-06-06 — Best of FUBAR (6th June)
 - 2026-06-05 — Best of FUBAR (5th June)
 - 2026-06-04 — Best of FUBAR (4th June)

@@ -2,11 +2,9 @@
 
 - slug: `the-ellie-taylor-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/`
-- fetched_at: `2026-06-06T22:16:09+00:00`
-- checked_at: `2026-06-07T04:55:39+00:00`
+- fetched_at: `2026-06-07T09:35:34+00:00`
+- checked_at: `2026-06-07T09:35:34+00:00`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: HTTP Error 403: Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -18,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "image_url": "",
-  "fetched_at": "2026-06-06T22:16:09+00:00",
+  "fetched_at": "2026-06-07T09:35:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0c8984ef0b43474b20e1b4598e58c89967ba5f72",
+      "guid": "b44f86dd-a2ae-47c3-8159-e8f7eb523c79",
+      "title": "The Ellie Taylor Show (7th June)",
+      "published_at": "2026-06-07T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-ellie-taylor-show-7th-june/",
+      "description": "Where there's an Essex twang, there's hot gossip.",
+      "image_url": "https://mm.aiircdn.com/177/695686.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1780815629-the_ellie_taylor_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=b44f86dd-a2ae-47c3-8159-e8f7eb523c79&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "4f07861c6d31a96f3e62d3727ca03a903b72d4f2",
       "guid": "55024c05-7c5b-46e8-bf4f-fba258d218eb",
@@ -1443,23 +1454,14 @@
       "itunes_duration": null
     }
   ],
-  "scraper": "fubar_on_demand",
-  "fetch": {
-    "error_since": "2026-06-07T04:55:39+00:00",
-    "status": "error",
-    "checked_at": "2026-06-07T04:55:39+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "HTTP Error 403: Forbidden"
-    }
-  }
+  "scraper": "fubar_on_demand"
 }
 ```
 <!-- /FEED_JSON -->
 
 ## Episodes (newest first)
 
+- 2026-06-07 — The Ellie Taylor Show (7th June)
 - 2026-05-31 — The Ellie Taylor Show (31st May)
 - 2026-05-24 — The Ellie Taylor Show (24th May)
 - 2026-05-17 — The Ellie Taylor Show (17th May)

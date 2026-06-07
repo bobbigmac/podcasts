@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-06-05T20:12:31+00:00`
-- checked_at: `2026-06-05T20:12:31+00:00`
-- etag: `"djEuMi4wOjE3ODA2NzY2MzEwNTE="`
+- fetched_at: `2026-06-07T09:35:34+00:00`
+- checked_at: `2026-06-07T09:35:34+00:00`
+- etag: `"djEuMi4wOjE3ODA4MTkyMzkzOTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-06-05T20:12:31+00:00",
+  "fetched_at": "2026-06-07T09:35:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "4079790e8025df0ac5ce3d427ef0c211e9a1ffef",
+      "title": "Mariana Mazzucato: How governments dig their own grave",
+      "published_at": "2026-06-07T08:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a214c631ddbe06b3acacd8b",
+      "description": "Mariana Mazzucato is Professor in the Economics of Innovation and Public Value at University College London and author of The Common Good Economy: A New Compass . She came by the JOE studios to talk to us about the \"parasitic\" relationship government's have developed with the private sector, and how to end it. EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/politicsjoe . Try it risk-free now with a 30-day money-back guarantee Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a214c631ddbe06b3acacd8b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53905456",
+      "itunes_duration": "37:23",
+      "speakers": [
+        "Mariana Mazzucato"
+      ],
+      "topics": [
+        "mariana",
+        "mazzucato",
+        "government",
+        "grave"
+      ]
+    },
     {
       "key": "52a51b09d3f6be97c0f50c71eaf0e4b639864574",
       "title": "Starmer fumes at Farage for \"exploiting\" Henry Nowak tragedy",
@@ -13241,6 +13262,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-07 — Mariana Mazzucato: How governments dig their own grave — speakers: Mariana Mazzucato
 - 2026-06-03 — Starmer fumes at Farage for "exploiting" Henry Nowak tragedy — speakers: Henry Nowak
 - 2026-06-02 — Can Labour win back the unions? — speakers: Simon Dubbins
 - 2026-06-01 — Hasan Piker banned from the UK & SNP in turmoil — speakers: Hasan Piker

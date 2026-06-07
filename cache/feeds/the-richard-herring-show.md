@@ -2,11 +2,9 @@
 
 - slug: `the-richard-herring-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-richard-herring-show/`
-- fetched_at: `2026-06-06T22:16:09+00:00`
-- checked_at: `2026-06-07T04:55:39+00:00`
+- fetched_at: `2026-06-07T09:35:34+00:00`
+- checked_at: `2026-06-07T09:35:34+00:00`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: HTTP Error 403: Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -18,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-richard-herring-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-richard-herring-show/",
   "image_url": "",
-  "fetched_at": "2026-06-06T22:16:09+00:00",
+  "fetched_at": "2026-06-07T09:35:34+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -1251,17 +1249,7 @@
       "itunes_duration": null
     }
   ],
-  "scraper": "fubar_on_demand",
-  "fetch": {
-    "error_since": "2026-06-07T04:55:39+00:00",
-    "status": "error",
-    "checked_at": "2026-06-07T04:55:39+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "HTTP Error 403: Forbidden"
-    }
-  }
+  "scraper": "fubar_on_demand"
 }
 ```
 <!-- /FEED_JSON -->
