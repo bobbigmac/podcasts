@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"djEuMi4wOjE3ODA2NTk5NTk1OTI="`
+- fetched_at: `2026-06-07T04:55:39+00:00`
+- checked_at: `2026-06-07T04:55:39+00:00`
+- etag: `"djEuMi4wOjE3ODA3ODgzOTkzOTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-07T04:55:39+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,30 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "5c3935bd13ee6bcae42583006091733f17d332b5",
+      "title": "Bob Harris: Pint Size",
+      "published_at": "2026-06-06T23:26:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/bob-harris-pint-size",
+      "description": "Welcome to Pint-Sized Distant Pod. This week the broadcasting legend Bob Harris announced he is leaving BBC Radio 2. Bob was a guest on the podcast in 2024, so we’ve dug out our favourite bit of Bob. This is from 223: Bob Harris Get Well Soon Bob xx 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1780659912578-1ac00a04-423d-4768-b8cb-c9aa826112dc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a22b6f7be8560e74b7c27b0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30007680",
+      "itunes_duration": "12:30",
+      "speakers": [
+        "Bob Harris",
+        "Pint Size",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "harris",
+        "pint",
+        "size"
+      ]
+    },
     {
       "key": "e24bc975b7454b9267864a41b372da419383b4ae",
       "title": "Roy Big‑Castle (pt 2)",
@@ -14979,6 +15003,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-06 — Bob Harris: Pint Size — speakers: Bob Harris, Pint Size, Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-04 — Roy Big‑Castle (pt 2) — speakers: Roy Big-Castle, Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-02 — Roy Big‑Castle (pt 1) — speakers: Roy Big-Castle, Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-05-30 — Anger: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
