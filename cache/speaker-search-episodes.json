@@ -35940,6 +35940,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:a2d9e96039f7",
+        "feed_title": "Turn on Full Audiobook in Fiction, Gay & Lesbian",
+        "source_rss_url": "https://hotaudiobook.com/tone/id/2709/index.xml",
+        "dedupe_key": "27c660e4ccb55b41fc4fcc2fdd68470661ac16ef",
+        "episode_key": "27c660e4ccb55b41fc4fcc2fdd68470661ac16ef",
+        "title": "Cloud Atlas by David Mitchell | Free Audiobook",
+        "published_at": "2006-07-06T18:15:15Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobooks for free on :\n\nhttps://esound.space/audible \n\nTitle: Cloud Atlas\n\nAuthor: David Mitchell\n\nNarrator: Tim Pigott-Smith, Charles Collingwood, Jane Collingwood\n\nFormat: Abridged\n\nLength: 7 hrs and 17 mins\n\nLanguage: English\n\nRelease date: 07-06-06\n\nPublisher: Hodder Headline Limited\n\nGenres: Ficti",
+        "audio_url": "https://samples.audible.com/bk/hodd/000023/bk_hodd_000023_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/cloud-atlas-by-david-mitchell-free-audiobook/id1818747724?i=1000711337521&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:fb9148bbbb28",
         "feed_title": "How to Download Audiobook in Radio & TV, Entertainment",
         "source_rss_url": "https://epodcast.space/tone/id/2357/index.xml",
@@ -35952,6 +35974,28 @@
         "description": "Listen to full audiobooks for free on :\n\nhttps://hotaudiobook.com/free \n\nTitle: That Mitchell and Webb Sound: Radio Series 2\n\nAuthor: David Mitchell, Robert Webb\n\nNarrator: David Mitchell, Robert Webb\n\nFormat: Original Recording\n\nLength: 2 hrs and 42 mins\n\nLanguage: English\n\nRelease date: 04-20-06\n\nPublisher: BBC World",
         "audio_url": "https://samples.audible.com/rt/bbcw/000975/rt_bbcw_000975_sample.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/that-mitchell-and-webb-sound-radio-series-2-by-david/id1818777655?i=1000711520687&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:7bed8ff0a9e2",
+        "feed_title": "How to Grab Audiobook in Fiction, Chick Lit",
+        "source_rss_url": "https://hotaudiobook.com/tone/id/2468/index.xml",
+        "dedupe_key": "d512dec9709e354f806739d0a85db367a6c28124",
+        "episode_key": "d512dec9709e354f806739d0a85db367a6c28124",
+        "title": "Cloud Atlas by David Mitchell | Free Audiobook",
+        "published_at": "2004-11-23T21:05:21Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobooks for free on :\n\nhttps://esound.space/audible \n\nTitle: Cloud Atlas\n\nAuthor: David Mitchell\n\nNarrator: Scott Brick, Cassandra Campbell, Kim Mai Guest, Kirby Heyborne, John Lee, Richard Matthews\n\nFormat: Unabridged\n\nLength: 19 hrs and 33 mins\n\nLanguage: English\n\nRelease date: 11-23-04\n\nPublisher: ",
+        "audio_url": "https://samples.audible.com/bk/rand/000511/bk_rand_000511_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/cloud-atlas-by-david-mitchell-free-audiobook/id1818746883?i=1000711332416&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
