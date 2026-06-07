@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"68effb94ebc9e4231a6a38b7470857cd"`
-- last_modified: `Mon, 01 Jun 2026 04:17:57 GMT`
+- fetched_at: `2026-06-07T22:17:34+00:00`
+- checked_at: `2026-06-07T22:17:34+00:00`
+- etag: `"df4021b6aaed63fde2946f94e5d65a3d"`
+- last_modified: `Sun, 07 Jun 2026 20:50:42 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-07T22:17:34+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,38 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "4186b8c894b8e400d0ce00fd72a8a69240796f7b",
+      "title": "Xbox Games Showcase 2026, Summer Game Fest & State of Play Recaps - (Xbox In Ten: An Xbox Podcast - Ep. 367)",
+      "published_at": "2026-06-07T20:44:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-games-showcase-2026-summer-game-fest-state-of-play-recaps-xbox-in-ten-an-xbox-podcast-ep-367",
+      "description": "Week of: 6-1-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/7/0/2/b/702bf611f62e2191d959afa2a1bf1c87/367.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/367.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48754000",
+      "itunes_duration": "34:40",
+      "speakers": [
+        "Xbox Games Showcase",
+        "Summer Game Fest",
+        "Play Recaps",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "games",
+        "showcase",
+        "summer",
+        "game",
+        "fest",
+        "state",
+        "play",
+        "recaps",
+        "podcast"
+      ]
+    },
     {
       "key": "3c91e51c9cd1da8c1bfa68f505c1c27148477e41",
       "title": "Xbox Delays Fable To February 2027 - (Xbox In Ten: An Xbox Podcast - Ep. 366)",
@@ -9219,6 +9251,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-07 — Xbox Games Showcase 2026, Summer Game Fest & State of Play Recaps - (Xbox In Ten: An Xbox Podcast - Ep. 367) — speakers: Xbox Games Showcase, Summer Game Fest, Play Recaps, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-06-01 — Xbox Delays Fable To February 2027 - (Xbox In Ten: An Xbox Podcast - Ep. 366) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-05-25 — Major Xbox Leadership Hires to Strengthen Console Brand - (Xbox In Ten: An Xbox Podcast - Ep. 365) — speakers: Xbox Leadership Hires, Console Brand, Brandon Rosa
 - 2026-05-18 — Xbox Is Rebranding to XBOX? - (Xbox In Ten: An Xbox Podcast - Ep. 364) — speakers: Brandon Rosa
