@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-06-07T14:19:49+00:00`
-- checked_at: `2026-06-07T14:19:49+00:00`
-- etag: `"djEuMi4wOjE3ODA4MjUwODkwMDM="`
+- fetched_at: `2026-06-08T16:19:37+00:00`
+- checked_at: `2026-06-08T16:19:37+00:00`
+- etag: `"djEuMi4wOjE3ODA5MjQzOTg0MjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,37 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-06-07T14:19:49+00:00",
+  "fetched_at": "2026-06-08T16:19:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "f030494ac5b365131ace30d574beb06eb33ba40b",
+      "title": "Why is Starmer So Slow on Fixing Student Loans? With the Conservative's Ruth Davidson",
+      "published_at": "2026-06-08T13:13:18+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a26bfee4edd69dbd1dc2d7f",
+      "description": "For millions of graduates, student loans are just another deduction on the payslip. But what does Plan 2 actually mean — and why has it become one of the most controversial policies affecting young people in Britain? This week, Ava Santina takes a deep dive into the student loan system created under the Cameron-Clegg coalition and asks whether today's graduates have been sold a raw deal. From £9,000 tuition fees and RPI-linked interest rates to frozen repayment thresholds and balances that seem to grow despite years of repayments, Ava unpacks how the system works and why it has become a political flashpoint. Joining the podcast is former Conservative leader Ruth Davidson, who reflects on the origins of the policy, the political decisions that shaped it, and whether governments have underestimated the impact on a generation of graduates. With young people facing soaring housing costs, stagnant living standards and mounting debt, Ava asks whether Sir Keir Starmer's government should go further to reform Plan 2 loans. Would reducing interest rates, raising repayment thresholds or redesigning the system altogether put more money back into the pockets of younger workers? And can politicians afford to ignore the growing backlash? Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a26bfee4edd69dbd1dc2d7f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31535899",
+      "itunes_duration": "21:53",
+      "speakers": [
+        "Ruth Davidson"
+      ],
+      "topics": [
+        "starmer",
+        "fixing",
+        "student",
+        "loans",
+        "conservative",
+        "ruth",
+        "davidson"
+      ]
+    },
     {
       "key": "52a51b09d3f6be97c0f50c71eaf0e4b639864574",
       "title": "Starmer fumes at Farage for \"exploiting\" Henry Nowak tragedy",
@@ -13241,6 +13265,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — Why is Starmer So Slow on Fixing Student Loans? With the Conservative's Ruth Davidson — speakers: Ruth Davidson
 - 2026-06-03 — Starmer fumes at Farage for "exploiting" Henry Nowak tragedy — speakers: Henry Nowak
 - 2026-06-02 — Can Labour win back the unions? — speakers: Simon Dubbins
 - 2026-06-01 — Hasan Piker banned from the UK & SNP in turmoil — speakers: Hasan Piker
