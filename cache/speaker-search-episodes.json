@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:ebcb3ba2e5c7",
+        "feed_title": "Fwends",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5f5c3c6590ac9a2832e89ede",
+        "dedupe_key": "53685c62c52168e27b9bc6dc94aa6564ae8c298e",
+        "episode_key": "53685c62c52168e27b9bc6dc94aa6564ae8c298e",
+        "title": "James Acaster - The Cat Fwend",
+        "published_at": "2026-06-08T21:02:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "To close out this particular run of interviews (don't panic we have literally already recorded a whole next season) it's comedy deity James Acaster! \nThe gang discuss everything from winning over cats, to hotdog meat in pizza, and of course we close the mystery on if Nish Kumar is his forever Fwend. It's a good one. it",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5f5c3c6590ac9a2832e89ede/e/6a26b4b14bf3e47b18e38c58/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster-the-cat-fwend/id1531550405?i=1000771679942&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -4705,6 +4728,50 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:5a46c54e4129",
+        "feed_title": "The Chris Evans Show",
+        "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",
+        "dedupe_key": "85face4ba226e1839e69e1b08622a0bb557b155d",
+        "episode_key": "85face4ba226e1839e69e1b08622a0bb557b155d",
+        "title": "The TFI Monday one with Ed Gamble, Joanne McNally & Adrian Lester",
+        "published_at": "2026-06-08T10:33:51Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The excellent Ed Gamble and the joyous Joanne McNally share all the details on their new show, Unacceptable on TLC.\nThe amazing Adrian Lester tells us all about starring in the West End transfer of Cyrano de Bergerac which begins its run at London’s Noël Coward Theatre.\nCatch TFI Unplugged on Channel 4 at 11:05pm on Fr",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/chrisevansvirginuk/e/6a269a8f4bf3e47b18d72755/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-tfi-monday-one-with-ed-gamble-joanne-mcnally/id1450650136?i=1000771670029&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:b5ef036aff8d",
+        "feed_title": "Quickly Kevin; will he score? The 90s Football Show",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT1867349414",
+        "dedupe_key": "5ee45090f279cacec92406dcbc00e325043caae0",
+        "episode_key": "5ee45090f279cacec92406dcbc00e325043caae0",
+        "title": "The Series 6 Quiz (QK Reloaded)",
+        "published_at": "2026-06-03T23:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In an effort to become podcasting's version of UK Gold, we're spinning it back and replaying the glory days of QK, every Tuesday and Thursday (and Wednesday this week!). This is: QK Reloaded. We'll be playing through our original episodes in release order. And this is... from June 2020...\n\nThe Quickly Kevin 90's Footba",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2908858099.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-series-6-quiz-qk-reloaded/id1209129231?i=1000771067324&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
@@ -25640,6 +25707,29 @@
       }
     ],
     "nish-kumar": [
+      {
+        "feed_slug": "external:apple:ebcb3ba2e5c7",
+        "feed_title": "Fwends",
+        "source_rss_url": "https://feeds.acast.com/public/shows/5f5c3c6590ac9a2832e89ede",
+        "dedupe_key": "53685c62c52168e27b9bc6dc94aa6564ae8c298e",
+        "episode_key": "53685c62c52168e27b9bc6dc94aa6564ae8c298e",
+        "title": "James Acaster - The Cat Fwend",
+        "published_at": "2026-06-08T21:02:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "To close out this particular run of interviews (don't panic we have literally already recorded a whole next season) it's comedy deity James Acaster! \nThe gang discuss everything from winning over cats, to hotdog meat in pizza, and of course we close the mystery on if Nish Kumar is his forever Fwend. It's a good one. it",
+        "audio_url": "https://sphinx.acast.com/p/open/s/5f5c3c6590ac9a2832e89ede/e/6a26b4b14bf3e47b18e38c58/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster-the-cat-fwend/id1531550405?i=1000771679942&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:c5df4fff71a7",
         "feed_title": "Loose Ends",
