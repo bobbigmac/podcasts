@@ -15341,6 +15341,28 @@
     ],
     "alex-horne": [
       {
+        "feed_slug": "external:apple:e8b919cc1fa1",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT2134425554",
+        "dedupe_key": "0cba3e42a23f90cc27bc0a870e0223652a1c7387",
+        "episode_key": "0cba3e42a23f90cc27bc0a870e0223652a1c7387",
+        "title": "Alex Horne: Ham Ballads, Urban Foxes, and Wife-Swapping Over Dishwasher Ethics",
+        "published_at": "2026-06-08T04:59:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Alex Horne - comedian, creator, and the middle of three boys from Chichester - joins Harry to talk about loving school, his hard-hitting Goldsmiths student documentary about urban foxes, and whether the word \"meat\" was meant as a pun in Harry's new ballad. We also hear about a 24 hour singing challenge that accidentall",
+        "audio_url": "https://traffic.megaphone.fm/NSR1191332481.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-ham-ballads-urban-foxes-and-wife-swapping/id1742178595?i=1000771631880&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "Richard Herring's Leicester Square Theatre Podcast (RHLSTP)",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
@@ -16686,6 +16708,28 @@
         "description": "Joining us in the studio this episode to discuss the highs and lows of parenting (and life) during the lock down and beyond is the brilliant comedian, co-host and creator of Taskmaster and the Horne Section, Mr Alex Horne. \n\nEnjoy.\n\nRate and Review.\n\nThanks. xxx \n\n\n\nIf you want to get in touch with the show here's how:",
         "audio_url": "https://traffic.megaphone.fm/GLT5947946357.mp3?updated=1778338133",
         "link_url": "https://podcasts.apple.com/gb/podcast/s01-ep8-alex-horne/id1510251497?i=1000720147898&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:c6031f1ae9bf",
+        "feed_title": "Hawksbee and Jacobs Daily",
+        "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
+        "dedupe_key": "aaa6123e4de53e3dd883f692dd66d73c3cddc255",
+        "episode_key": "aaa6123e4de53e3dd883f692dd66d73c3cddc255",
+        "title": "Alan Knott's Landing",
+        "published_at": "2020-04-09T15:27:08Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Paul and Andy were joined by Nottinghamshire batsman Chris Nash, Ian 'The Moose' Abrahams, Dants as Steve Bruce, the voice of Golf Bob Bubka and comedian and taskmaster Alex Horne. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/hawksbeeandjacobs/alanknottslanding/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alan-knotts-landing/id348889102?i=1000470995056&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

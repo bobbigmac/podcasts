@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-06-06T16:19:18+00:00`
-- checked_at: `2026-06-06T16:19:18+00:00`
-- etag: `"djEuMi4wOjE3ODA3NjE2NDExMDE="`
+- fetched_at: `2026-06-08T20:32:40+00:00`
+- checked_at: `2026-06-08T20:32:40+00:00`
+- etag: `"djEuMi4wOjE3ODA5Mzc3NDkxMzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-06-06T16:19:18+00:00",
+  "fetched_at": "2026-06-08T20:32:40+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "3c0fb3776acd12d7b550774b173ec6c9133d7901",
+      "title": "Makerfield locals have their say",
+      "published_at": "2026-06-08T16:55:48+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/makerfield-locals-have-their-say",
+      "description": "Ahead of the by-election in Makerfield on June 18th, polling expert Scarlett Maguire spoke to voters in the constituency for the New Statesman. This episode is made up of clips from these Makerfield locals. Scarlett spoke to two groups, some who said they would be voting Reform, some who said they would be voting Labour. They shared their concerns about the current state of the UK and its politics, and their opinions on the two main parties and candidates battling it out in Makerfield. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1780937511583-77df8703-ac09-4942-9587-2282ea97e9c3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a26f2e3f4d052ccbc4f49fa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46521765",
+      "itunes_duration": "19:20",
+      "speakers": [
+        "Scarlett Maguire",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "makerfield",
+        "local"
+      ]
+    },
     {
       "key": "b3c9680117196438e2531db680b392f9ef5ea6a2",
       "title": "What would “Burnhamism” actually look like?",
@@ -31441,6 +31462,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — Makerfield locals have their say — speakers: Scarlett Maguire, Anoosh Chakelian, Oli Dugmore
 - 2026-06-06 — What would “Burnhamism” actually look like? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-04 — What does Makerfield make of Andy Burnham? — speakers: Andy Burnham, Andy Bur, Anoosh Chakelian, Oli Dugmore
 - 2026-06-01 — Why UK politics has failed for 20 years — speakers: Anoosh Chakelian, Oli Dugmore

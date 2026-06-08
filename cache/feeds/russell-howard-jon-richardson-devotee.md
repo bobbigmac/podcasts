@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `W/"32607-mCFKHTDcIOl1VFQPjn9L5wOltbA"`
+- fetched_at: `2026-06-08T20:32:40+00:00`
+- checked_at: `2026-06-08T20:32:40+00:00`
+- etag: `W/"32b09-4BQp84lffedS1izAPNybNwbCDNI"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,43 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-08T20:32:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "5e77421717ce9cfac82abf54c6f1332e669eb1eb",
+      "title": "Josh Widdicombe XFM # 25 – James Acaster Classic Scrape 22, Sean Walsh, Matthew Crosby",
+      "published_at": "2026-06-08T18:12:55+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM--25--James-Acaster-Classic-Scrape-22--Sean-Walsh--Matthew-Crosby-e3kgqnf",
+      "description": "James Acaster shares another Classic Scape, Sean Walsh joins Josh in the studio and Matthew Crosby phones in.Broadcast on 24th September 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1780942195043-cd0fa9cc7059a.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4895032553.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41203669",
+      "itunes_duration": "00:42:55",
+      "speakers": [
+        "James Acaster Classic Scrape",
+        "Sean Walsh",
+        "Matthew Crosby",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "sean",
+        "walsh",
+        "matthew",
+        "crosby"
+      ]
+    },
     {
       "key": "7f41cac68fdfda7b578604a5f15b24a7fc8da799",
       "title": "Josh Widdicombe XFM # 24 – James Acaster Classic Scrape 21, Matthew Crosby",
@@ -3740,6 +3770,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — Josh Widdicombe XFM # 25 – James Acaster Classic Scrape 22, Sean Walsh, Matthew Crosby — speakers: James Acaster Classic Scrape, Sean Walsh, Matthew Crosby, James Acaster
 - 2026-06-04 — Josh Widdicombe XFM # 24 – James Acaster Classic Scrape 21, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster
 - 2026-06-03 — Josh Widdicombe XFM # 23 – Rob Beckett, Joe Lycett — speakers: Rob Beckett, Joe Lycett
 - 2026-05-28 — Josh Widdicombe XFM #22 – John Robins, Sara Pascoe, James Acaster Classic Scrape 20, Joe Lycett — speakers: John Robins, Sara Pascoe, James Acaster Classic Scrape, Joe Lycett Josh, James Acaster, Joe Lycett
