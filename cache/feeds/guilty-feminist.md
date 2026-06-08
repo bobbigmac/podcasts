@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-06-06T16:19:18+00:00`
-- checked_at: `2026-06-06T16:19:18+00:00`
-- last_modified: `Sat, 06 Jun 2026 15:12:06 GMT`
+- fetched_at: `2026-06-08T11:20:12+00:00`
+- checked_at: `2026-06-08T11:20:12+00:00`
+- last_modified: `Mon, 08 Jun 2026 11:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-06T16:19:18+00:00",
+  "fetched_at": "2026-06-08T11:20:12+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a77b78945971942d82123e6b4a86b1295e12264f",
+      "title": "486. Criminal Justice with Charlotte Proudman",
+      "published_at": "2026-06-08T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 486. Criminal Justice Presented by Deborah Frances-White with very special guest Charlotte Proudman. Recorded 1 June in London. Released 8 June. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about this case and Charlotte Proudman https://www.bbc.co.uk/news/articles/clypg68e2neo https://www.proudmans.com/drcharlotteproudman https://www.instagram.com/drproudman https://www.waterstones.com/book/he-said-she-said/charlotte-proudman/9781399612456 For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Road to Gilead Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1990526915588 Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe previews at Soho Theatre . https://sohotheatre.com/events/the-guilty-feminist-edinburgh-preview-showcase Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/09a605ea-61b6-11f1-977c-7b383af8fb73/image/24c3cb9ad1ffb6c3ea5d49d9d0efe733.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL2321540979.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3380",
+      "speakers": [
+        "Charlotte Proudman",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "criminal",
+        "justice",
+        "charlotte",
+        "proudman"
+      ]
+    },
     {
       "key": "1221724f5f36338a62a1b542910993352228395d",
       "title": "485. Waterstone’s Book Club – Bimbo by Ashley James",
@@ -18094,6 +18116,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — 486. Criminal Justice with Charlotte Proudman — speakers: Charlotte Proudman, Deborah Frances-White
 - 2026-06-01 — 485. Waterstone’s Book Club – Bimbo by Ashley James — speakers: Ashley James, Deborah Frances-White
 - 2026-05-25 — 484. Girls’ Rights Are Human Rights with Jessica Fostekew and special guests Claire Mahon and Julia Rowland - part two — speakers: Jessica Fostekew, Claire Mahon, Deborah Frances-White
 - 2026-05-25 — 484. Girls’ Rights Are Human Rights with Jessica Fostekew and special guests Claire Mahon and Julia Rowland - part one — speakers: Jessica Fostekew, Claire Mahon, Deborah Frances-White

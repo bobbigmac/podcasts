@@ -2,9 +2,9 @@
 
 - slug: `xbox-casuals-an-xbox-podcast`
 - source: `https://anchor.fm/s/1580e714/podcast/rss`
-- fetched_at: `2026-06-08T05:01:11+00:00`
-- checked_at: `2026-06-08T05:01:11+00:00`
-- etag: `W/"d0be2-doLwSvd1KDJ5WTA5nHeI+BUyf0U"`
+- fetched_at: `2026-06-08T11:20:12+00:00`
+- checked_at: `2026-06-08T11:20:12+00:00`
+- etag: `W/"d0be2-0rPzhLaKErS0DBnbhFz7T3Yk9WQ"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.towercasuals.com",
   "description": "Xbox Casuals is a biweekly podcast dedicated to all things Xbox, brought to you by Tower Casuals by Boss Rush Media and the Boss Rush Network. Every other Friday, hosts Corey Dirrig and Josh Finney break down the latest Xbox news, rumors, Game Pass updates, new releases, and more. Tune in for new episodes every other Friday on all major podcast platforms and on the Tower Casuals YouTube channel.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3507693/3507693-1778013671728-43cbd1cefedc1.jpg",
-  "fetched_at": "2026-06-08T05:01:11+00:00",
+  "fetched_at": "2026-06-08T11:20:12+00:00",
   "owners": [
     "Corey Dirrig",
     "Josh Finney"

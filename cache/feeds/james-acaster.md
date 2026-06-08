@@ -2,8 +2,8 @@
 
 - slug: `james-acaster`
 - source: `https://www.fubarradio.com/player/on-demand/james-acaster/`
-- fetched_at: `2026-06-08T05:01:11+00:00`
-- checked_at: `2026-06-08T05:01:11+00:00`
+- fetched_at: `2026-06-08T11:20:12+00:00`
+- checked_at: `2026-06-08T11:20:12+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/james-acaster/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/james-acaster/",
   "image_url": "",
-  "fetched_at": "2026-06-08T05:01:11+00:00",
+  "fetched_at": "2026-06-08T11:20:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cf4cbc451b62482d2ea97d02b9146d4f94c6f8bb",
+      "guid": "0793f74d-256f-4e4c-b4ca-0ac670048b0e",
+      "title": "James Acaster (8th June)",
+      "published_at": "2026-06-08T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/james-acaster-8th-june/",
+      "description": "Hear James Acaster and his mates squirm as they defend the cringiest songs on their playlists in this hilarious music roast",
+      "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1780912940-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=0793f74d-256f-4e4c-b4ca-0ac670048b0e&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "f1281371f3e16b5555016c543a754db99db1eb37",
       "guid": "11327d46-e006-49d4-aa3d-da1cb7e59261",
@@ -2553,6 +2566,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — James Acaster (8th June)
 - 2026-06-01 — James Acaster (1st June)
 - 2026-05-25 — James Acaster (25th May)
 - 2026-05-18 — James Acaster (18th May)

@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-06-08T05:01:11+00:00`
-- checked_at: `2026-06-08T05:01:11+00:00`
-- last_modified: `Sun, 07 Jun 2026 23:19:39 GMT`
+- fetched_at: `2026-06-08T11:20:12+00:00`
+- checked_at: `2026-06-08T11:20:12+00:00`
+- last_modified: `Mon, 08 Jun 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-08T05:01:11+00:00",
+  "fetched_at": "2026-06-08T11:20:12+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,26 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "8e5e9965dc50c24de3bef0143feacfa99f47a113",
+      "title": "Best Of: The Power of Thinking Outside Your Brain",
+      "published_at": "2026-06-08T09:00:00+00:00",
+      "link": null,
+      "description": "Modern life has not been easy on our brains. Average IQ scores rose steadily throughout the last century. Now they appear to be leveling off. The problem, according to neuroscientists, may be that we have reached our neurobiological limits. Our brains simply can’t work any harder. Luckily, science writer Annie Murphy Paul has a solution. In her book The Extended Mind: The Power of Thinking Outside the Brain , she draws on a wealth of scientific research to show that we’re smarter when we get out of our heads. By offloading our memories onto our phones, making decisions based on our bodily sensations, using tactile tools to solve abstract problems, drawing inspiration from our surroundings, and arguing with our friends, we can access intelligence that exists beyond the confines of our craniums. In this episode, Annie explains how to do it. This episode first aired in June 2021. Sponsored By: Fora — Build and scale your own travel business by becoming a Fora Advisor today at foratravel.com/idea Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Shopify — Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP8324795438.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4369",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "power",
+        "brain"
+      ]
+    },
     {
       "key": "77ad4d90a33238b510bd3a55616d8a01bebc5423",
       "title": "Want to Be Happier? Try Talking to Strangers.",
@@ -7857,6 +7877,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — Best Of: The Power of Thinking Outside Your Brain — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-06-04 — Want to Be Happier? Try Talking to Strangers. — speakers: Nicholas Epley, Rufus Griscom, Caleb Bissinger
 - 2026-06-01 — Best Of: Gretchen Rubin’s Guide to Getting Out of Your Head and Into the World — speakers: Gretchen Rubin’s Guide, Rufus Griscom, Caleb Bissinger
 - 2026-05-28 — The Case for Speechmaking in the Age of Doomscrolling — speakers: Rufus Griscom, Caleb Bissinger

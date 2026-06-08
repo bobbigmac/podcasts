@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- last_modified: `Thu, 04 Jun 2026 17:30:04 GMT`
+- fetched_at: `2026-06-08T11:20:12+00:00`
+- checked_at: `2026-06-08T11:20:12+00:00`
+- last_modified: `Mon, 08 Jun 2026 08:49:42 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-08T11:20:12+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4aa4242471819d3401b0962fbc1f2676181a85fc",
+      "title": "Radio Rebel",
+      "published_at": "2026-06-08T06:30:00+00:00",
+      "link": null,
+      "description": "Radio. What is it? Is it some kind of podcast, maybe? Or possibly a Winamp skin? If you find out, let the producers of 2012 DCOM Radio Rebel know, because I think they'd really appreciate it. Radio Rebel tells the story of Tara, a shy teen with a secret double life as Radio Rebel, an inexplicably popular Seattle-wide radio host whose entire shtick appears to be telling people to be their real selves, talking about things happening in one specific high school, and then playing Peter Gabriel records. But when her enraged principal threatens to cancel prom unless Radio Rebel's identity is revealed, Tara's house of lies threatens to come crashing down, to the presumed bemusement of everyone in Seattle who doesn't go to her school. Can Tara and Radio Rebel coexist? How do you expose Banksy? And what the hell is a morp? Listen and find out! If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched Radio Rebel and have your own thoughts, email them to us at momcantcookpod@gmail.com for a chance to have them read out on the show. Next time on Mom Can't Cook! we'll be watching 2008's High School Musical 3: Senior Year. See you then! This episode is sponsored by NordVPN! Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ https://nordvpn.com/momcantcook . Itʼs risk free with NordVPNʼs 30-day money-back guarantee! This episode is also sponsored by Saily. Get an exclusive 15% discount on Saily data plans! Use code momcantcook at checkout. Download Saily app or go to saily.com/momcantcook Thanks to sponsor Green Chef! Head to greenchef.com/50momcantcook and use code 50momcantcook to get fifty percent off your first month, then twenty percent off for two months. Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/rss.art19.com/episodes/60a9c48a-b4fb-4cb0-be1d-a462531864fb.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "139978292",
+      "itunes_duration": "02:25:48",
+      "speakers": [
+        "Radio Rebel Radio",
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
+      "topics": [
+        "radio",
+        "rebel"
+      ]
+    },
     {
       "key": "e13e758293325befe6b84aeae06fbaf7e698460c",
       "title": "LIVE SHOW ANNOUNCEMENT! Return to Halloweentown, 28 October @ Leicester Square Theatre",
@@ -2149,6 +2170,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — Radio Rebel — speakers: Radio Rebel Radio, Luke Westaway, Andy Farrant
 - 2026-06-04 — LIVE SHOW ANNOUNCEMENT! Return to Halloweentown, 28 October @ Leicester Square Theatre — speakers: Luke Westaway, Andy Farrant
 - 2026-05-25 — Encino Woman — speakers: Luke Westaway, Andy Farrant
 - 2026-05-11 — Zapped — speakers: Luke Westaway, Andy Farrant

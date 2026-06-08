@@ -2,10 +2,10 @@
 
 - slug: `all-killa-no-filla`
 - source: `https://allkillanofilla.libsyn.com/rss`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"e9d0e753d200814f2410d52bed15f1d6"`
-- last_modified: `Tue, 02 Jun 2026 09:12:34 GMT`
+- fetched_at: `2026-06-08T11:20:12+00:00`
+- checked_at: `2026-06-08T11:20:12+00:00`
+- etag: `"0ea932d2bc5cd1f13584252ef0f7ccb3"`
+- last_modified: `Mon, 08 Jun 2026 05:33:55 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://allkillanofilla.podomatic.com",
   "description": "Join comedians Rachel Fairburn and Kiri Pritchard - McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it.",
   "image_url": "https://static.libsyn.com/p/assets/f/7/f/0/f7f0f9cb9da4b5bb16c3140a3186d450/All_Killa_logo_copy.png",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-08T11:20:12+00:00",
   "owners": [
     "Kiri Pritchard-McLean",
     "Rachel Fairburn"
@@ -29,6 +29,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "d868386a718327046a6acbabb2f6f9bc24b4d705",
+      "title": "All Killa No Filla - Episode 131 - Part 1 - Sara Aldrete",
+      "published_at": "2026-06-08T05:30:00+00:00",
+      "link": "https://allkillanofilla.libsyn.com/all-killa-no-filla-episode-131-part-1-sara-aldrete",
+      "description": "Join comedians Rachel Fairburn and Kiri Pritchard-McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it. Been a bit male-heavy lately, so this multi-parter is all about Sara Aldrete, who went by the badass nickname \"The Godmother\". Aldrete was convicted of murder while heading a drug-smuggling and human sacrificial cult in Mexico during the 80s. But it's also been very hot, so most of the chat is complaints about crisp packet sizes, book fairs and children on rideable suitcases. Tune in to part two to actually hear about the murders...",
+      "image_url": "https://static.libsyn.com/p/assets/1/e/1/4/1e14728819206bfcd959afa2a1bf1c87/All_Killa_title_card-20260602-x968f89fsl.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/allkillanofilla/All_Killa_No_Filla_-_Episode_131_-_Part_1_-_Sara_Aldrete.mp3?dest-id=459476",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85106403",
+      "itunes_duration": "58:37",
+      "speakers": [
+        "Rachel Fairburn",
+        "Kiri Pritchard-McLean"
+      ],
+      "topics": [
+        "killa",
+        "filla",
+        "sara",
+        "aldrete"
+      ]
+    },
     {
       "key": "6aeb7835c6f7ed5ad893379b2a3c87b9feb1f972",
       "title": "All Killa No Filla - Episode 130 - Neville Heath",
@@ -4409,6 +4431,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — All Killa No Filla - Episode 131 - Part 1 - Sara Aldrete — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-05-04 — All Killa No Filla - Episode 130 - Neville Heath — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-04-06 — All Killa No Filla - Episode 129 - Part 2 - The Railway Killers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-03-16 — All Killa No Filla - Episode 129 - Part 1 - The Railway Killers — speakers: Rachel Fairburn, Kiri Pritchard-McLean
