@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-06-07T16:43:59+00:00`
-- checked_at: `2026-06-07T16:43:59+00:00`
-- etag: `"djEuMi4wOjE3ODA4NDkxMzgyOTY="`
+- fetched_at: `2026-06-08T05:01:11+00:00`
+- checked_at: `2026-06-08T05:01:11+00:00`
+- etag: `"djEuMi4wOjE3ODA4OTMwMzk0MjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-06-07T16:43:59+00:00",
+  "fetched_at": "2026-06-08T05:01:11+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "eb92156dab4730b309e1f3d1a02f6b33b29f15ce",
+      "title": "626 Masters of the Universe & Summer Games Fest 2026",
+      "published_at": "2026-06-08T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/masters-of-the-universe-summer-games-fest-2026",
+      "description": "Dead franchises are back! That’s right, Masters of the Universe is finally in cinemas again after a near four decade break and its (Sword Talk/Quickstophers Quickstions) bad news for the character of He-Man. Plus we talk the passing of Anthony Head, Supergirl’s break even point, our first look at Lex Luthor’s battle armour from Man of Tomorrow (Superman 2), some big Avengers: Doomsday reveals, How To Rob A Bank, The End of Oak Street and a bunch of video game stuff including the new Wolverine game. Thanks for listening! New bonus clickbait podcast out now and available in fully edited video form! Available to watch on bigsandwich.co and patreon.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 05:37 Anthony Head RIP 10:53 Will Supergirl Succeed? 14:18 Man of Tomorrow Lex Luthor Reveal 19:56 Avengers: Doomsday Latest 22:19 Tom Holland's Chris Nolan Lessons 25:31 How To Rob A Bank Trailer 28:11 The End of Oak Street Trailer 31:18 Summer Games Fest 2026 35:18 Wolverine PS5 Gameplay Trailer 39:36 God of War: Laufey Announced 42:16 Control: Resonant Looks Great 47:01 Masters of the Universe Movie Review 01:10:00 Masters of the Universe Spoiler Segment 01:16:22 What We Reading, What We Gonna Read 01:23:25 Letters, It's Time For Letters 01:31:52 Quickstopher's Quickstions 01:41:44 Sword Talk SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a257c5e250fa4918b695c32/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "158631841",
+      "itunes_duration": "1:50:09",
+      "speakers": [
+        "Summer Games Fest",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "master",
+        "universe",
+        "summer",
+        "games",
+        "fest"
+      ]
+    },
     {
       "key": "3354c64216304378d3f5ba5f1880383df32868f3",
       "title": "The Fifth Element (Extended) - Caravan Of Garbage",
@@ -22436,6 +22460,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — 626 Masters of the Universe & Summer Games Fest 2026 — speakers: Summer Games Fest, James Clement, Nick Mason
 - 2026-06-04 — The Fifth Element (Extended) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-06-01 — 625 Backrooms & Spider-Noir — speakers: Noir Welcome, James Clement, Nick Mason
 - 2026-05-28 — Starship Troopers - Caravan Of Garbage — speakers: James Clement, Nick Mason

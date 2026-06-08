@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-07T22:17:34+00:00`
-- checked_at: `2026-06-07T22:17:34+00:00`
-- etag: `"djEuMi4wOjE3ODA4NzAzNDE1OTI="`
+- fetched_at: `2026-06-08T05:01:11+00:00`
+- checked_at: `2026-06-08T05:01:11+00:00`
+- etag: `"djEuMi4wOjE3ODA4ODc0NTkzNTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-07T22:17:34+00:00",
+  "fetched_at": "2026-06-08T05:01:11+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6b1f658402f36eee9339cd19cf2ce87d51a44d35",
+      "title": "Al Murray (Retro) - \"Too Much Farage Piss\"",
+      "published_at": "2026-06-08T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#436 Too Much Farage Piss - Rich is mourning the Veneziana pizzas that he bought and the terrible effects they have wrought and the loss of a man whose friend assumed he was joking. His guest is historian, comedian and puppeteer, Al Murray. They talk about the evolution of the new Spitting Image live show and, hosting a chat show with proper famous guests, the toll of touring in your 50s and Al’s first proper serious history book Command, including the impact that VD had on the British fighting forces. Plus why being a conformist in real life allows non-conformity on stage Buy Al’s book here https://www.amazon.co.uk/Command-Allies-Learned-Second-World/dp/B09V6HP2YR/ Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1780870230971-618229c9-04d7-40ac-8d2f-62eb14691712.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a25eb25a2db34bb89f148bd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37869298",
+      "itunes_duration": "1:12:26",
+      "speakers": [
+        "Al Murray",
+        "Richard Herring"
+      ],
+      "topics": [
+        "murray",
+        "retro",
+        "farage",
+        "piss"
+      ]
+    },
     {
       "key": "675947ac3a2df7a8d24c1eaea81572153eac42de",
       "title": "Rich and Ally's Craven Newsround Compilation",
@@ -22699,6 +22721,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — Al Murray (Retro) - "Too Much Farage Piss" — speakers: Al Murray, Richard Herring
 - 2026-06-06 — Rich and Ally's Craven Newsround Compilation — speakers: Craven Newsround Compilation Monday, Cloaca Room, Richard Herring
 - 2026-06-05 — Alex Horne on The Last Pebble - Book Club — speakers: Alex Horne, Richard Herring
 - 2026-06-03 — David Mitchell - "A Special Place in Hell" — speakers: David Mitchell, Richard Herring

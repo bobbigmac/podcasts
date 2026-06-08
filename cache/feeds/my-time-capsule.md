@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"djEuMi4wOjE3ODA2MTQxNTkyNzM="`
+- fetched_at: `2026-06-08T05:01:11+00:00`
+- checked_at: `2026-06-08T05:01:11+00:00`
+- etag: `"djEuMi4wOjE3ODA4NzMzNTkzNTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-08T05:01:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c59803bff9477e9a2610eba8c90e9726d5daa6f8",
+      "title": "Ep. 588 - Andrew Ryan - One of UK and Ireland’s most in-demand comedians, 60 million online views",
+      "published_at": "2026-06-07T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-588-andrew-ryan-one-of-uk-and-irelands-most-in-demand-com",
+      "description": "Andrew Ryan is one of the most in-demand comedians working across the UK and Ireland and his online content has amassed more than 60 million views across social media. In 2024, Andrew’s UK and Ireland tour was extended due to demand, selling more than 10,000 tickets across 56 dates. He followed this with the release of his self-produced stand-up special, filmed at the Alley Theatre in Strabane in 2025. His previous special, Live at the Black Box , was released in 2023. Alongside his stand-up career, Andrew is a breakfast presenter on Q Radio, broadcasting to more than 160,000 listeners each week. His television credits include The 2 Johnnies (RTÉ), The Blame Game (BBC One Northern Ireland), Russell Howard’s Good News (BBC Three), Best of the Edinburgh Festival Live (BBC Three), Live at The Comedy Store and Live for MIND (Comedy Central), The Six O’Clock Show , Ireland AM , and two series of Secrets of the Comedy Circuit for ITVX and UTV. He has also supported some of comedy’s biggest names on tour, including Joe Lycett, Jason Manford, Kerry Godliman, Shane Todd and George Lewis. Andrew Ryan is our guest in episode 588 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . For tickets to Andrew’s Edinburgh show, visit - https://underbellyedinburgh.co.uk/events/event/andrew-ryan-honest-capacity . For all other live shows and everything else, visit - https://andrewryancomedy.com . Follow Andrew Ryan on Instagram : @andrewryancomedy . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a2194ffac951431d76c74e5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74143263",
+      "itunes_duration": "1:01:46",
+      "speakers": [
+        "Andrew Ryan"
+      ],
+      "topics": [
+        "andrew",
+        "ryan",
+        "ireland",
+        "demand",
+        "comedian",
+        "view"
+      ]
+    },
     {
       "key": "ec0bcb3c492532521f493ff7aca6c002dd6b1836",
       "title": "My Time Capsule The Dig - Ep. 5 - With Rufus Hound!",
@@ -12721,6 +12744,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-07 — Ep. 588 - Andrew Ryan - One of UK and Ireland’s most in-demand comedians, 60 million online views — speakers: Andrew Ryan
 - 2026-06-04 — My Time Capsule The Dig - Ep. 5 - With Rufus Hound!
 - 2026-06-01 — Ep. 587 - Johann Hari - New York Times bestseller, over 2 million books sold in 40 languages — speakers: Johann Hari
 - 2026-05-28 — My Time Capsule The Dig - Ep. 4 - With Janet Ellis! — speakers: Janet Ellis

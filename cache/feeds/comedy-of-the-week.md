@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"7fe0a25fc07b5d642850d52f372f2498"`
-- last_modified: `Tue, 02 Jun 2026 04:00:04 GMT`
+- fetched_at: `2026-06-08T05:01:11+00:00`
+- checked_at: `2026-06-08T05:01:11+00:00`
+- etag: `"23b0e4deff383d40a019853b098980b4"`
+- last_modified: `Mon, 08 Jun 2026 04:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-08T05:01:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "eb973b49a91ec8e9cada968c5a4287a5ee0712b9",
+      "title": "One Person Found This Helpful",
+      "published_at": "2026-06-08T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0npt49m",
+      "description": "Frank Skinner and guests Dee Allum, Pierre Novellie, Zoe Lyons and Hasan Al-Habib discuss the tactics of Genghis Khan, the ethics of mousetraps and the morals of forgetting to wear trousers. Also, Swedish sheep wagons. Everyone has an online life, and when the great British public put pen to keyboard to leave a review, they almost always write something hilarious. And our all-star panel have to work out just what they were reviewing – and maybe contribute a few reviews of their own. So if you’re the person who went on Trip Advisor to review Ben Nevis as “Very steep and too high”, this show salutes you! Written by Frank Skinner, Catherine Brinkworth, Sarah Dempster, Jason Hazeley, Karl Minns, Katie Sayer & Peter Tellouche Devised by Jason Hazeley and Simon Evans with the producer David Tyler A Pozzitive production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0npt3ny.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27616000",
+      "itunes_duration": "1726",
+      "speakers": [
+        "Frank Skinner",
+        "Dee Allum",
+        "Pierre Novellie",
+        "Hasan Al-Habib"
+      ],
+      "topics": [
+        "person"
+      ]
+    },
     {
       "key": "24937e1b76ceac81a59faf617da540178ef7ca70",
       "title": "Ian Smith is Stressed",
@@ -998,6 +1019,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — One Person Found This Helpful — speakers: Frank Skinner, Dee Allum, Pierre Novellie, Hasan Al-Habib
 - 2026-06-01 — Ian Smith is Stressed — speakers: Ian Smith
 - 2026-05-25 — Hajj & Seek — speakers: Hajj Seek
 - 2026-05-18 — The Skewer: Hard Labour — speakers: Jon Holmes

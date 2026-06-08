@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-06-05T20:12:31+00:00`
-- checked_at: `2026-06-05T20:12:31+00:00`
-- last_modified: `Fri, 05 Jun 2026 16:03:44 GMT`
+- fetched_at: `2026-06-08T05:01:11+00:00`
+- checked_at: `2026-06-08T05:01:11+00:00`
+- last_modified: `Sun, 07 Jun 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-05T20:12:31+00:00",
+  "fetched_at": "2026-06-08T05:01:11+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a84d058c6a8db40e148f7842de2f092efe67f2a4",
+      "title": "Emily Atack on The Inbetweeners, Unwanted DMs and Nobody’s Fool",
+      "published_at": "2026-06-07T23:01:00+00:00",
+      "link": null,
+      "description": "Does Emily Atack wish she didn’t have to still talk about The Inbetweeners? And how does she cope with strangers shouting ‘Big Tits' at her? Actor, comedian and TV personality Emily Atack joins us on this week’s and discusses everything from how she landed the role of Charlotte Hinchcliffe in The Inbetweeners, to selling out tickets to her first ever show, before she’d even written it. We also talk about her documentary, Am I Asking For It?, tennis scenes in Rivals and her latest show Nobody’s Fool with Danny Dyer. Emily also talks about how her life has changed from Camden living days to country life and being a mum, plus could Romesh be getting ordained to marry Emily and her scientist husband? Plus, Shanthi wants to know all the gossip in her question to Emily AND she gives us an exclusive and it’s something you won’t be expecting! A Ranga Bee Production in partnership with Platform. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/cdf64282-60e1-11f1-a75f-3fd09d7aebdb/image/265bb75bffff35e927247451445840aa.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3267086035.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4925",
+      "speakers": [
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "emily",
+        "atack",
+        "inbetweeners",
+        "unwanted",
+        "fool"
+      ]
+    },
     {
       "key": "cbae9f398fcd8a5285a400613386a58c363ce455",
       "title": "Shanthi’s Love Languages & Philosophical Questions",
@@ -1706,6 +1728,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-07 — Emily Atack on The Inbetweeners, Unwanted DMs and Nobody’s Fool — speakers: Romesh Ranganathan
 - 2026-06-03 — Shanthi’s Love Languages & Philosophical Questions — speakers: Love Languages, Philosophical Questions What, Romesh Ranganathan
 - 2026-05-31 — The Wayans Brothers on Scary Movie, White Chicks & How Comedy Has Gone Woke — speakers: Shawn Wayans, Romesh Ranganathan
 - 2026-05-27 — Shanthi Opens Up About Life In Sri Lanka — speakers: Shanthi Opens Up About, Romesh Ranganathan

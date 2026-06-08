@@ -2,9 +2,9 @@
 
 - slug: `xbox-casuals-an-xbox-podcast`
 - source: `https://anchor.fm/s/1580e714/podcast/rss`
-- fetched_at: `2026-06-05T20:12:31+00:00`
-- checked_at: `2026-06-05T20:12:31+00:00`
-- etag: `W/"cf7bd-sBQV9oj2h4Pdj0P+lRPV9+X4jRg"`
+- fetched_at: `2026-06-08T05:01:11+00:00`
+- checked_at: `2026-06-08T05:01:11+00:00`
+- etag: `W/"d0be2-doLwSvd1KDJ5WTA5nHeI+BUyf0U"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.towercasuals.com",
   "description": "Xbox Casuals is a biweekly podcast dedicated to all things Xbox, brought to you by Tower Casuals by Boss Rush Media and the Boss Rush Network. Every other Friday, hosts Corey Dirrig and Josh Finney break down the latest Xbox news, rumors, Game Pass updates, new releases, and more. Tune in for new episodes every other Friday on all major podcast platforms and on the Tower Casuals YouTube channel.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/3507693/3507693-1778013671728-43cbd1cefedc1.jpg",
-  "fetched_at": "2026-06-05T20:12:31+00:00",
+  "fetched_at": "2026-06-08T05:01:11+00:00",
   "owners": [
     "Corey Dirrig",
     "Josh Finney"
@@ -27,6 +27,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ed684f81a3bc535ef341f0881aa8d07e6b4ea220",
+      "title": "XBOX Summer Showcase Reaction and Review Discussion",
+      "published_at": "2026-06-08T04:55:11+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/xboxcasuals/episodes/XBOX-Summer-Showcase-Reaction-and-Review-Discussion-e3kfppb",
+      "description": "The Xbox Summer Showcase has come and gone, and Xbox delivered one of its strongest presentations in years. This week on Xbox Casuals, Corey Dirrig and Josh Finney break down everything from the Xbox Summer Showcase, including the latest looks at Gears of War: E-Day, Fable, Halo: Combat Evolved Remake, Clockwork Revolution, and much more. The duo also dives into Xbox’s growing partnership with SEGA, the reveal of Persona 4 Revival, rumors surrounding Persona 6, the return of Crazy Taxi, and the stunning new translucent Xbox Series X special edition console. All this and more on Xbox Casuals. This and more on Xbox Casuals: An Xbox Podcast. Join our communities: ⁠⁠⁠Boss Rush Community Discord⁠⁠⁠ ⁠⁠⁠Tower Casuals Destiny Discord⁠⁠⁠ Follow our Hosts: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Corey Dirrig⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , Founder of Boss Rush Media, ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tower Casuals: The Destiny Podcast⁠,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ and the ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Boss Rush Network⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Josh Finney⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ , cofounder and cohost of ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Tower Casuals: The Destiny Podcast⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ .",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/3507693/3507693-1780894474600-da047c42e6751.jpg",
+      "enclosure_url": "https://anchor.fm/s/1580e714/podcast/play/121152747/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-8%2Fcfc4f194-4c49-6215-0df2-ca5ecc59211b.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111255948",
+      "itunes_duration": "01:32:42",
+      "speakers": [
+        "Summer Showcase Reaction",
+        "Summer Showcase",
+        "Corey Dirrig",
+        "Josh Finney"
+      ],
+      "topics": [
+        "xbox",
+        "summer",
+        "showcase",
+        "reaction",
+        "review",
+        "discussion"
+      ]
+    },
     {
       "key": "c870f3f8ba3e9f2eaa8d01022ea72d14af78b272",
       "title": "It's Time for XBOX Summer Showcase Predictions",
@@ -5245,6 +5271,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — XBOX Summer Showcase Reaction and Review Discussion — speakers: Summer Showcase Reaction, Summer Showcase, Corey Dirrig, Josh Finney
 - 2026-05-29 — It's Time for XBOX Summer Showcase Predictions — speakers: Summer Showcase, Corey Dirrig, Josh Finney
 - 2026-05-08 — The Death of Xbox Copilot, Leadership Changes, and 007: First Light — speakers: Leadership Changes, Corey Dirrig, Josh Finney
 - 2026-04-24 — Xbox Game Pass Gets Cheaper As Call of Duty Exits — speakers: Gets Cheaper, Corey Dirrig, Josh Finney

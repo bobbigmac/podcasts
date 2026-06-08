@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-06-07T16:43:59+00:00`
-- checked_at: `2026-06-07T16:43:59+00:00`
-- last_modified: `Sun, 07 Jun 2026 15:07:57 GMT`
+- fetched_at: `2026-06-08T05:01:11+00:00`
+- checked_at: `2026-06-08T05:01:11+00:00`
+- last_modified: `Sun, 07 Jun 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-07T16:43:59+00:00",
+  "fetched_at": "2026-06-08T05:01:11+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9ad572b868706114d828edc93cb32189ad1051c8",
+      "title": "DOM JOLY: The Joke That Ended my BBC Career, Getting Fired as Journalist & Being A Diplomat",
+      "published_at": "2026-06-07T23:00:00+00:00",
+      "link": null,
+      "description": "Dom is back for part 2 where he reveals how he broke into the TV industry via MTV and The Paramount Comedy channel, the VERY EXPENSIVE gag that ended his relationship with the BBC and his early career as an international diplomat. Hear Dom's Brutal Verdict on the US version of Trigger Happy TV over on Patreon plus his thoughts on the Yeti and big Foot: https://www.patreon.com/c/ClassClown See Seann Walsh Live On Tour! https://www.seannwalsh.com/ And See Dom on his Trigger Happy tour! https://www.domjoly.tv/live/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8293284128.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2914",
+      "speakers": [
+        "Getting Fired",
+        "Diplomat Dom",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "joly",
+        "joke",
+        "career",
+        "journalist",
+        "diplomat"
+      ]
+    },
     {
       "key": "963bb4e08a7c29b7ad44229665714366912c1b27",
       "title": "DOM JOLY: How A Panic Attack Almost derailed Trigger Happy TV & Why He hates the Word Prank",
@@ -1517,6 +1541,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-07 — DOM JOLY: The Joke That Ended my BBC Career, Getting Fired as Journalist & Being A Diplomat — speakers: Getting Fired, Diplomat Dom, Seann Walsh
 - 2026-05-31 — DOM JOLY: How A Panic Attack Almost derailed Trigger Happy TV & Why He hates the Word Prank — speakers: Seann Walsh
 - 2026-05-26 — Red Richardson: Interview Analysis With Dr Natalie Cawley — speakers: Natalie Cawley, Seann Walsh
 - 2026-05-24 — JAKE LAMBERT: Slough To Social Media Stardom & Ricky Gervais Inspiration — speakers: Jake Lambert, comedy superstar, Seann Walsh

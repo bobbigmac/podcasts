@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- last_modified: `Fri, 05 Jun 2026 00:07:53 GMT`
+- fetched_at: `2026-06-08T05:01:11+00:00`
+- checked_at: `2026-06-08T05:01:11+00:00`
+- last_modified: `Mon, 08 Jun 2026 00:06:43 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-08T05:01:11+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "b479359326e48c5f7ed9bae4a06771a7bbbe3302",
+      "title": "Celebrity Look-alikes",
+      "published_at": "2026-06-08T00:00:00+00:00",
+      "link": null,
+      "description": "Ruth Husko joins Frank and Em. The conversation ranges from celebrity look-alikes to the German word for men who sit down to pee. If you want to message the show, email us on FrankOffTheRadio@AvalonUK.com or Whatsapp us on 07457 417 769 We’re currently sponsored by BT - behind brilliant things! Search ‘Why BT’ to find out more or click on the following link: https://www.bt.com/broadband/why-bt Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1884265501.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2491",
+      "speakers": [
+        "Ruth Husko",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "celebrity",
+        "look",
+        "alike"
+      ]
+    },
     {
       "key": "9acdef084ff42572addea691faf90a1461129923",
       "title": "Frank's View on Football Parades",
@@ -11763,13 +11784,13 @@
       ]
     },
     {
-      "key": "81781c7f89c31bee3dd07a7b838ae5af76fe1297",
+      "key": "d48ef5a438843b2e1474f4e63ed62b05fc6bc7b0",
       "title": "Frank Skinner in conversation with Russell T Davies",
       "published_at": "2017-09-19T23:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170915135553.mp3",
+      "link": null,
       "description": "Russell T Davies drops in to chat to Frank about his brand new book, Dr Who and Cucumber. Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/91e37f56-817e-11ef-8fe9-bfc52ad41a4e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6014759002.mp3?updated=1738239147",
+      "image_url": "https://megaphone.imgix.net/podcasts/926a4eaa-817e-11ef-8fe9-4ba28c52c978/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9756902071.mp3?updated=1738239390",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1790",
@@ -11786,13 +11807,13 @@
       ]
     },
     {
-      "key": "d48ef5a438843b2e1474f4e63ed62b05fc6bc7b0",
+      "key": "81781c7f89c31bee3dd07a7b838ae5af76fe1297",
       "title": "Frank Skinner in conversation with Russell T Davies",
       "published_at": "2017-09-19T23:00:00+00:00",
-      "link": null,
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170915135553.mp3",
       "description": "Russell T Davies drops in to chat to Frank about his brand new book, Dr Who and Cucumber. Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/926a4eaa-817e-11ef-8fe9-4ba28c52c978/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9756902071.mp3?updated=1738239390",
+      "image_url": "https://megaphone.imgix.net/podcasts/91e37f56-817e-11ef-8fe9-bfc52ad41a4e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6014759002.mp3?updated=1738239147",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1790",
@@ -12517,25 +12538,6 @@
       ]
     },
     {
-      "key": "ccc010063fb85c02298487d103c3f1e5f08b6437",
-      "title": "Big Daddy's Birthday",
-      "published_at": "2017-01-28T08:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170128131925.mp3",
-      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Frank is joined by Divine Miss Em and The Cockerel...and various other surprise guests along the way. He's sixty! And he's got a bus pass and itchy knees. The team talk Morgan's 'mare and go to animal corner. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/a64beece-817e-11ef-8fe9-936e8dbf30ea/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4127811701.mp3?updated=1738246710",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "4889",
-      "speakers": [
-        "Frank Skinner"
-      ],
-      "topics": [
-        "daddy",
-        "birthday"
-      ]
-    },
-    {
       "key": "43a3b6dc5229a2a177261786bfe7de141447e6d8",
       "title": "The Best of Frank 2009 - 2011",
       "published_at": "2017-01-28T08:00:00+00:00",
@@ -12552,6 +12554,25 @@
       "topics": [
         "best",
         "frank"
+      ]
+    },
+    {
+      "key": "ccc010063fb85c02298487d103c3f1e5f08b6437",
+      "title": "Big Daddy's Birthday",
+      "published_at": "2017-01-28T08:00:00+00:00",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170128131925.mp3",
+      "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Frank is joined by Divine Miss Em and The Cockerel...and various other surprise guests along the way. He's sixty! And he's got a bus pass and itchy knees. The team talk Morgan's 'mare and go to animal corner. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a64beece-817e-11ef-8fe9-936e8dbf30ea/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4127811701.mp3?updated=1738246710",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4889",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "daddy",
+        "birthday"
       ]
     },
     {
@@ -14318,13 +14339,13 @@
       ]
     },
     {
-      "key": "f3df9ef0d8db8db71611fbc454d749aeadfbd2a7",
+      "key": "ac8a01118c26f992d71356c23f3b95acc6b7568c",
       "title": "The Frank Skinner Show - Pole Position",
       "published_at": "2015-07-04T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704160258.mp3",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704161146.mp3",
       "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. The team are all back together. Frank joined in on festival season and learnt more than he'd bargained for at a farm. The team discuss Wimbledon, falling over and Peppa Pig. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/df6ec79e-817e-11ef-8fe9-cb7afbb0cb5e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1533179636.mp3?updated=1738241359",
+      "image_url": "https://megaphone.imgix.net/podcasts/dfcaa140-817e-11ef-8fe9-cbb3e0a2ec74/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8812593582.mp3?updated=1738241382",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4594",
@@ -14339,13 +14360,13 @@
       ]
     },
     {
-      "key": "ac8a01118c26f992d71356c23f3b95acc6b7568c",
+      "key": "f3df9ef0d8db8db71611fbc454d749aeadfbd2a7",
       "title": "The Frank Skinner Show - Pole Position",
       "published_at": "2015-07-04T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704161146.mp3",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704160258.mp3",
       "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. The team are all back together. Frank joined in on festival season and learnt more than he'd bargained for at a farm. The team discuss Wimbledon, falling over and Peppa Pig. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/dfcaa140-817e-11ef-8fe9-cbb3e0a2ec74/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8812593582.mp3?updated=1738241382",
+      "image_url": "https://megaphone.imgix.net/podcasts/df6ec79e-817e-11ef-8fe9-cb7afbb0cb5e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1533179636.mp3?updated=1738241359",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4594",
@@ -23841,6 +23862,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — Celebrity Look-alikes — speakers: Ruth Husko, Frank Skinner
 - 2026-06-05 — Frank's View on Football Parades — speakers: Ruth Husko, Frank Skinner
 - 2026-06-03 — Frank Skinner's Radio Days: Doggy Dental — speakers: Frank Skinner, Doggy Dental
 - 2026-06-01 — 465 Quid for a Fox?! — speakers: Gyles Brandreth, Frank Skinner
@@ -24472,8 +24494,8 @@
 - 2017-02-11 — The Frank Skinner Show - Unconventional Laughter — speakers: Frank Skinner
 - 2017-02-04 — The Frank Skinner Show - Drexit — speakers: Frank Skinner
 - 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
-- 2017-01-28 — Big Daddy's Birthday — speakers: Frank Skinner
 - 2017-01-28 — The Best of Frank 2009 - 2011 — speakers: Frank Skinner
+- 2017-01-28 — Big Daddy's Birthday — speakers: Frank Skinner
 - 2017-01-28 — The Frank Skinner Show — speakers: Frank Skinner
 - 2017-01-27 — Frank in Conversation with Adrian Chiles — speakers: Radio Frank, Frank Skinner
 - 2017-01-21 — The Frank Skinner Show - Diamante Detail — speakers: Frank Skinner
