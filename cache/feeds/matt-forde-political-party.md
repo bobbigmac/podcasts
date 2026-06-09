@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-06-08T20:32:40+00:00`
-- checked_at: `2026-06-08T20:32:40+00:00`
-- etag: `"djEuMi4wOjE3ODA5MzY5MjEzMTg="`
+- fetched_at: `2026-06-09T04:34:04+00:00`
+- checked_at: `2026-06-09T04:34:04+00:00`
+- etag: `"djEuMi4wOjE3ODA5NzQwMzk2NzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-06-08T20:32:40+00:00",
+  "fetched_at": "2026-06-09T04:34:04+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "91d4b8bb34b60ce25b526dae5ab8fa139fda3b41",
+      "title": "Show 406. Jeremy Hunt",
+      "published_at": "2026-06-09T03:00:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-406-jeremy-hunt",
+      "description": "Prepare yourself for a big fat dose of political optimism. Jeremy Hunt is asking a big question: can we be rich again? His latest book seeks to answer this and before he gets into what needs to change, he also believes that there's plenty to be cheerful about. How can the government quickly deliver growth? What makes the UK uniquely placed to benefit from AI? What's his personal best London Marathon time? All this and more in a refreshingly positive take on politics. DONATE to Sarcoma UK https://www.justgiving.com/page/jeremy-remembers-charlie BUY Jeremy's book: https://www.politicos.co.uk/products/can-we-be-rich-again-the-extraordinary-potential-of-the-british-economy-by-jeremy-hunt-coming-5-june THE POLITICAL PARTY LIVE 9 November: Liz Kendall Plus many more to be announced soon! https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE the final dates of Matt's stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows June 9 Liverpool Everyman Theatre 10 Chipping Norton Theatre 12 Norwich Playhouse - EXTRA DATE 14 York The Crescent - EXTRA DATE 15 Leeds City Varieties - EXTRA DATE 16 Glasgow Glee Club - EXTRA DATE 18 Aberdeen Lemon Tree - EXTRA DATE 26 Bristol 1532 - EXTRA DATE July 3 Basingstoke The Haymarket - EXTRA DATE 8 Birmingham Glee Club - EXTRA DATE 10 Bedford Quarry Theatre - EXTRA DATE 16 Maidenhead Norden Farm - EXTRA DATE DONATE to the RNOH Charity here: https://www. justgiving.com/campaign/mattforde Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a26f0d9401089d02d56404a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71305993",
+      "itunes_duration": "49:30",
+      "speakers": [
+        "Jeremy Hunt Prepare",
+        "Jeremy Hunt",
+        "Matt Forde"
+      ],
+      "topics": [
+        "jeremy",
+        "hunt"
+      ]
+    },
     {
       "key": "56e723a80a89c3b264195fd07caf13f880700f12",
       "title": "Show 405. Lucy Powell - LIVE",
@@ -10406,6 +10427,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-09 — Show 406. Jeremy Hunt — speakers: Jeremy Hunt Prepare, Jeremy Hunt, Matt Forde
 - 2026-06-03 — Show 405. Lucy Powell - LIVE — speakers: Matt Forde
 - 2026-05-26 — Show 404. Kieran Andrews — speakers: Kieran Andrews, Matt Forde
 - 2026-05-19 — Show 403. Samantha Niblett — speakers: Samantha Niblett Samantha, Matt Forde

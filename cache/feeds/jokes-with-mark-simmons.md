@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-06-08T16:19:37+00:00`
-- checked_at: `2026-06-08T16:19:37+00:00`
-- etag: `"djEuMi4wOjE3ODA5MzA0NDg5NTU="`
+- fetched_at: `2026-06-09T04:34:04+00:00`
+- checked_at: `2026-06-09T04:34:04+00:00`
+- etag: `"djEuMi4wOjE3ODA5NzU4Mzk0ODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-06-08T16:19:37+00:00",
+  "fetched_at": "2026-06-09T04:34:04+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "64215d303a4dd5e400338ca98b5834959b7573b6",
+      "title": "Tour Talk: Danny's Back",
+      "published_at": "2026-06-09T03:30:00+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/tour-talk-dannys-back",
+      "description": "Danny returns from the New Zealand Comedy Festival, Mark breaks down the tour show in Blackpool and we have some real talk to end the podcast #awooga Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6a26d7904edd69dbd1e6339f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59425774",
+      "itunes_duration": "41:14",
+      "speakers": [
+        "Mark Simmons"
+      ],
+      "topics": [
+        "tour",
+        "talk",
+        "danny"
+      ]
+    },
     {
       "key": "d0e33d1a5535242e2c1087c0c167035151d6eab0",
       "title": "Bilal Zafar",
@@ -7327,6 +7347,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-09 — Tour Talk: Danny's Back — speakers: Mark Simmons
 - 2026-06-02 — Bilal Zafar — speakers: Comedy Awards, Bilal Zafar, Mark Simmons
 - 2026-05-13 — Tour Talk: Is this the end of Mark & Danny — speakers: Mark Simmons
 - 2026-04-29 — Sarah Roberts Returns — speakers: Sarah Roberts Returns, Sarah Roberts, Mark Simmons

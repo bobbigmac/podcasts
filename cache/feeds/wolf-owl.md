@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-06-08T20:32:40+00:00`
-- checked_at: `2026-06-08T20:32:40+00:00`
-- last_modified: `Mon, 08 Jun 2026 16:25:03 GMT`
+- fetched_at: `2026-06-09T04:34:04+00:00`
+- checked_at: `2026-06-09T04:34:04+00:00`
+- last_modified: `Tue, 09 Jun 2026 01:38:44 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-08T20:32:40+00:00",
+  "fetched_at": "2026-06-09T04:34:04+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "dba203daface725858d4d2db328cc777ec6882c0",
+      "title": "Robert De Niro, Traitors and the UCL Final",
+      "published_at": "2026-06-08T23:01:00+00:00",
+      "link": null,
+      "description": "Did Romesh wear his banter canon shirt for the UEFA Champions League final? Could Tom be one of the Mitchell brothers? Why did Romesh think he was a bad dad? Will Tom get the chance to be friends with Robert De Niro and how did he perform having to follow the King at The King’s Trust show? Also, as the wolf and owl head closer to 50, they wonder if their best years are behind them? We’ll let you decide! Don’t forget to like and subscribe and get in touch with us at wolfowlpod@gmail.com with your questions, dilemmas and voice notes. A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 02:22 Gentleman Jon 03:10 Banter Canon 04:11 The wolf and swan 06:28 Eric Morecambe series 09:12 Nearing 50 12:12 Five Guys and Ray Parlour 13:14 Tom’s Eastenders fantasy 20:27 Arsenal 27:38 Football dads 28:44 The UEFA Champions League final 39:34 Ladies First 43:24 The King’s Trust 44:46 Sticks Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a9ac6124-633c-11f1-856c-f3f4327605b1/image/f373e961757607969b48c497394f2548.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4334565827.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3081",
+      "speakers": [
+        "Robert De Niro",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "robert",
+        "niro",
+        "traitors",
+        "final"
+      ]
+    },
     {
       "key": "5ad98d0990ef0ce38bf8df71107a0f70ee003300",
       "title": "Hot Chip Aftermath, WhatsApp Groups and Holding Grudges",
@@ -1081,6 +1104,28 @@
         "gifts",
         "meditation",
         "cushion"
+      ]
+    },
+    {
+      "key": "7ff3cf6e181a5cfa9361ec46cc1f2b09b6253052",
+      "title": "S4 Ep 35: Meat Feasts & Mango Chutney",
+      "published_at": "2025-09-04T02:00:00+00:00",
+      "link": null,
+      "description": "We’re talking… filming the last ever series of ALOTO, dealing with a bad performance (even though it wasn’t), an excessively meat-heavy Chinese feast, samosas and ketchup, mango chutney with absolutely everything, comedian/condiment comparisons, bad meals and how best to complain in a restaurant. Plus, our right to reply on some joke complaints and we answer email questions on Tom’s Rom impressions, a super-strong prostate, the new Southpark character and using real people in our comedy. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2851172025.mp3?updated=1779977886",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3788",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "meat",
+        "feasts",
+        "mango",
+        "chutney"
       ]
     },
     {
@@ -6741,6 +6786,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — Robert De Niro, Traitors and the UCL Final — speakers: Robert De Niro, Romesh Ranganathan, Tom Davis
 - 2026-06-04 — Hot Chip Aftermath, WhatsApp Groups and Holding Grudges — speakers: Hot Chip Aftermath, Romesh Ranganathan, Tom Davis
 - 2026-06-01 — Hot Chip Challenge, Bathroom Habits and Amanda Holden — speakers: Amanda Holden, Romesh Ranganathan, Tom Davis
 - 2026-05-28 — In-Laws, FOMO and Thierry Henry — speakers: Thierry Henry Who, Romesh Ranganathan, Tom Davis
@@ -6787,6 +6833,7 @@
 - 2025-09-24 — S4 Ep 38: Wine Gifts & Chat Shows — speakers: Romesh Ranganathan, Tom Davis
 - 2025-09-17 — S4 Ep 37: Body Aches & Hair Transplants — speakers: Rom’s Doug, Romesh Ranganathan, Tom Davis
 - 2025-09-10 — S4 Ep 36: Curry Gifts & A Meditation Cushion — speakers: Romesh Ranganathan, Tom Davis
+- 2025-09-04 — S4 Ep 35: Meat Feasts & Mango Chutney — speakers: Romesh Ranganathan, Tom Davis
 - 2025-08-27 — S4 Ep 34: A Pool Poo & Slow Jet Skiing — speakers: Romesh Ranganathan, Tom Davis
 - 2025-08-20 — S4 Ep 33: The Summer Holiday Edition — speakers: Romesh Ranganathan, Tom Davis
 - 2025-08-13 — S4 Ep 32: Night In Vlogs & A Dead Laptop — speakers: Romesh Ranganathan, Tom Davis

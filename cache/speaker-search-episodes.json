@@ -10774,6 +10774,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8cc4a7996941",
+        "feed_title": "The Chris Moyles Show on Radio X Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/the-chris-moyles-show",
+        "dedupe_key": "e22034f5845433e667452ba7fcd22639376bb4d6",
+        "episode_key": "e22034f5845433e667452ba7fcd22639376bb4d6",
+        "title": "Davina McCall, Carol Vorderman, Amir Khan and the launch of Prize Dump Tour 2023 #409",
+        "published_at": "2023-09-15T13:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Have you ever grabbed your partner's braces and ridden them like a horse? You know what, don’t answer that actually. Here we are, episode 409 of The Chris Moyles Show on Radio X Podcast and goodness, it’s been a busy week. We were joined this week by SIX incredible guests including Davina McCall, who dished the details",
+        "audio_url": "https://dax.captivate.fm/6ceedf87-97ce-467f-95b7-4512c2d16622/Podcast-409-encoded.mp3?aw_0_1st.showid=ed87f36a-7b44-4e79-beea-f3220752406c&aw_0_1st.episodeid=30953238-a631-424a-b2c0-075f58d8059c",
+        "link_url": "https://podcasts.apple.com/gb/podcast/davina-mccall-carol-vorderman-amir-khan-and-the/id1042635536?i=1000628003792&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",

@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-06-08T05:01:11+00:00`
-- checked_at: `2026-06-08T05:01:11+00:00`
-- etag: `"23b0e4deff383d40a019853b098980b4"`
-- last_modified: `Mon, 08 Jun 2026 04:00:05 GMT`
+- fetched_at: `2026-06-09T04:34:04+00:00`
+- checked_at: `2026-06-09T04:34:04+00:00`
+- etag: `"934a110e6618b7b4c81d73740f4b6854"`
+- last_modified: `Tue, 09 Jun 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-06-08T05:01:11+00:00",
+  "fetched_at": "2026-06-09T04:34:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -992,25 +992,6 @@
       "itunes_duration": "1733",
       "speakers": [],
       "topics": []
-    },
-    {
-      "key": "4a0bc3cfb2222f8c16ded101025bb01a5df60358",
-      "title": "Strong Message Here",
-      "published_at": "2025-06-09T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lh48qt",
-      "description": "This week, we have a very special guest, Jon Stewart! Jon joins Armando and Helen to discuss whether Trump is the political equivalent of Miles Davis, the quaintness of UK politics compared to the US, Jon does a flawless Margaret Thatcher impression and they answer the age old question... are escalators the most emasculating form of travel? To hear more episodes from this series, search Strong Message Here on BBC Sounds. Have you stumbled upon any perplexing political phrases you need Helen and Armando to decode? Email them to us at strongmessagehere@bbc.co.uk Sound Editing by Charlie Brandon-King Production Coordinator - Sarah Nicholls Executive Producer - Pete Strauss Produced by Gwyn Rhys Davies. A BBC Studios Audio production for Radio 4. An EcoAudio Certified Production.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lh48ks.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "42352000",
-      "itunes_duration": "2647",
-      "speakers": [
-        "Jon Stewart"
-      ],
-      "topics": [
-        "strong",
-        "message"
-      ]
     }
   ]
 }
@@ -1069,4 +1050,3 @@
 - 2025-06-30 — Your Mum
 - 2025-06-23 — Henry Normal: A Normal... Humanity — speakers: Henry Normal
 - 2025-06-16 — Live from the UK
-- 2025-06-09 — Strong Message Here — speakers: Jon Stewart

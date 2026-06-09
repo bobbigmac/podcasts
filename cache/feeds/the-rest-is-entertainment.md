@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-06-08T20:32:40+00:00`
-- checked_at: `2026-06-08T20:32:40+00:00`
-- last_modified: `Mon, 08 Jun 2026 18:21:57 GMT`
+- fetched_at: `2026-06-09T04:34:04+00:00`
+- checked_at: `2026-06-09T04:34:04+00:00`
+- last_modified: `Mon, 08 Jun 2026 23:03:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-08T20:32:40+00:00",
+  "fetched_at": "2026-06-09T04:34:04+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "c7395179edb6f93c3e36923c00324748fb8ffd99",
+      "title": "The Steven Bartlett Podcast Pile-On",
+      "published_at": "2026-06-08T23:03:00+00:00",
+      "link": null,
+      "description": "Has Steven Bartlett inadvertently started the World War One of podcasting? Will Taylor Swift and Travis Kelce get married in Madison Square Garden? And why is America’s biggest news show having a very public meltdown? Diary of a CEO host Steven Bartlett sent the podcasting world into a tailspin after complaining that three glasses of wine ruined his health scores. But why is Bartlett so polarising? And for how long can he walk the tightrope between edgy podcaster and BBC host? In the wake of Dua Lipa and Callum Turner’s star-studded nuptials, Marina shares her field guide to the celebrity destination wedding. So who are the mandatory guests? And how closely will Taylor Swift adhere to the playbook when she ties the knot this summer? David Ellison’s takeover of America’s No.1 news show, 60 Minutes, has sparked dramatic firings and accusations of political interference. So what’s actually going on, and how do you save a legacy news show? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠⁠therestisentertainment.com ⁠⁠ For more Goalhanger Podcasts, head to ⁠⁠www.goalhanger.com ⁠⁠ Video Editor: Adam Thornton Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Sam Psyk Filmed at ⁠www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8171511487.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3548",
+      "speakers": [
+        "Steven Bartlett",
+        "Will Taylor Swift",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "steven",
+        "bartlett",
+        "podcast",
+        "pile"
+      ]
+    },
     {
       "key": "e52443314e1e199e6c0bb9455ce87db7333548ac",
       "title": "Kylie Minogue, Sherlock Holmes & Venezuela Fury",
@@ -5967,6 +5991,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-08 — The Steven Bartlett Podcast Pile-On — speakers: Steven Bartlett, Will Taylor Swift, Richard Osman, Marina Hyde
 - 2026-06-03 — Kylie Minogue, Sherlock Holmes & Venezuela Fury — speakers: Kylie Minogue, Richard Osman, Marina Hyde
 - 2026-06-01 — Backrooms: Has YouTube Just Saved Hollywood? — speakers: Tom Hardy, Richard Osman, Marina Hyde
 - 2026-05-27 — Would Coldplay Win Eurovision? — speakers: Richard Osman, Marina Hyde
