@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-09T15:27:35+00:00`
-- checked_at: `2026-06-09T15:27:35+00:00`
-- etag: `"djEuMi4wOjE3ODEwMDI0NjA3NTM="`
+- fetched_at: `2026-06-09T20:20:35+00:00`
+- checked_at: `2026-06-09T20:20:35+00:00`
+- etag: `"djEuMi4wOjE3ODEwMjg4NDY5MTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-09T15:27:35+00:00",
+  "fetched_at": "2026-06-09T20:20:35+00:00",
   "owners": [
     "Richard Herring"
   ],

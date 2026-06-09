@@ -3,8 +3,10 @@
 - slug: `peacock-and-gamble`
 - source: `https://www.fubarradio.com/player/on-demand/peacock-and-gamble/`
 - fetched_at: `2026-06-09T15:27:35+00:00`
-- checked_at: `2026-06-09T15:27:35+00:00`
+- checked_at: `2026-06-09T20:20:35+00:00`
 - max_episodes_per_feed: `2000`
+- status: `error`
+- last_error: HTTP Error 403: Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -2845,7 +2847,17 @@
       "itunes_duration": null
     }
   ],
-  "scraper": "fubar_on_demand"
+  "scraper": "fubar_on_demand",
+  "fetch": {
+    "error_since": "2026-06-09T20:20:35+00:00",
+    "status": "error",
+    "checked_at": "2026-06-09T20:20:35+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "HTTP Error 403: Forbidden"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
