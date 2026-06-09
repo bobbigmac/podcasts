@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-06-09T10:02:48+00:00`
-- checked_at: `2026-06-09T10:02:48+00:00`
-- etag: `W/"3dfa5-+tkJ9WHQIrH8xqbZ6xz3pyvIAEg"`
+- fetched_at: `2026-06-09T15:27:35+00:00`
+- checked_at: `2026-06-09T15:27:35+00:00`
+- etag: `W/"3e79c-1WeDnc8Iy/TprWYzjioxEGNQNX8"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-06-09T10:02:48+00:00",
+  "fetched_at": "2026-06-09T15:27:35+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "74cf65f52178fe5ce28d40ad0639a6e69898d005",
+      "title": "Catching Yahtzee Up on the Big Summer Game Fest Announcements | Windbreaker Podcast",
+      "published_at": "2026-06-09T01:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Catching-Yahtzee-Up-on-the-Big-Summer-Game-Fest-Announcements--Windbreaker-Podcast-e3kh60i",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty dip back into their annual tradition of running down the list of the big trailers, reveals, and announcements from this past week's Summer Game Fest showcases. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4595260193.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "119185952",
+      "itunes_duration": "01:22:46",
+      "speakers": [
+        "Catching Yahtzee",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "yahtzee",
+        "summer",
+        "game",
+        "fest",
+        "announcements",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "ea6c888045dcbc7b74f860c92f292d5c219cac8b",
       "title": "OurFavorite Video Game Expansions and DLC | Windbreaker Podcast",
@@ -2921,6 +2947,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-09 — Catching Yahtzee Up on the Big Summer Game Fest Announcements | Windbreaker Podcast — speakers: Catching Yahtzee, Yahtzee Croshaw, Marty Sliva
 - 2026-06-02 — OurFavorite Video Game Expansions and DLC | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-05-26 — Let's Talk About Metal Gear Solid | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-05-19 — Hey Games, Cool It With the Text Logs | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

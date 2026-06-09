@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-06-08T11:20:12+00:00`
-- checked_at: `2026-06-08T11:20:12+00:00`
-- last_modified: `Mon, 08 Jun 2026 08:30:32 GMT`
+- fetched_at: `2026-06-09T15:27:35+00:00`
+- checked_at: `2026-06-09T15:27:35+00:00`
+- last_modified: `Tue, 09 Jun 2026 15:22:55 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-08T11:20:12+00:00",
+  "fetched_at": "2026-06-09T15:27:35+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -58,7 +58,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8686562337.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2639",
+      "itunes_duration": "2579",
       "speakers": [
         "Love Languages",
         "Philosophical Questions What",
@@ -108,7 +108,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4452531126.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3113",
+      "itunes_duration": "3083",
       "speakers": [
         "Shanthi Opens Up About",
         "Romesh Ranganathan"
@@ -129,7 +129,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2267776282.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4767",
+      "itunes_duration": "4707",
       "speakers": [
         "Aziz Ansari",
         "Romesh Ranganathan"
@@ -443,7 +443,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4372827882.mp3?updated=1776434738",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4677",
+      "itunes_duration": "4676",
       "speakers": [
         "James McAvoy",
         "Romesh Ranganathan"

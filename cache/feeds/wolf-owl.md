@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-06-09T10:02:48+00:00`
-- checked_at: `2026-06-09T10:02:48+00:00`
-- last_modified: `Tue, 09 Jun 2026 09:06:10 GMT`
+- fetched_at: `2026-06-09T15:27:35+00:00`
+- checked_at: `2026-06-09T15:27:35+00:00`
+- last_modified: `Tue, 09 Jun 2026 14:25:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-09T10:02:48+00:00",
+  "fetched_at": "2026-06-09T15:27:35+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -1295,6 +1295,27 @@
       "topics": [
         "scorpion",
         "spudgun"
+      ]
+    },
+    {
+      "key": "02b45cc3e89b9765d38b4dac17a9b00d97e09f47",
+      "title": "S4 Ep 26: Clooney Chats & Rom’s Album",
+      "published_at": "2025-07-02T02:00:00+00:00",
+      "link": null,
+      "description": "We’re talking… double corporate gigs, Tom back at Buckingham Palace with The Kings Trust, chats and photos with George Clooney, not being competitive, Rom starting work on his album, Micky drips and arguing with your penis, home Wi-Fi woes, WhatsApp groups vs knocking on doors and an email question about a gift for a retiring teacher. For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com A Mighty Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/KILM2693958530.mp3?updated=1779973023",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3666",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "clooney",
+        "chats",
+        "album"
       ]
     },
     {
@@ -3181,6 +3202,27 @@
       ]
     },
     {
+      "key": "7df97ab1102c2fc6c979c4ce0566d4a364e841fa",
+      "title": "S3 Ep 2: Bin-gate & Weighing Profiteroles",
+      "published_at": "2024-01-10T03:00:00+00:00",
+      "link": null,
+      "description": "We’re talking… being bad at basketball, homework hassles, recycling bin scandals and Tom’s new rubbish dump video, new year social media plans, counting calories and weighing profiteroles, suspicious TikTok food advice, stand-up warm-ups, very loud laughs and a problematic food delivery omission. Plus, a slang challenge quiz for Tom - just how streetwise is he? For questions or comments, please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Shiny Ranga Production Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9690243468.mp3?updated=1779192222",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3993",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "gate",
+        "weighing",
+        "profiteroles"
+      ]
+    },
+    {
       "key": "6e8e0aa5294db4361e02180fe1287f235937eaf9",
       "title": "S3 Ep 1: New Year, New Beginnings",
       "published_at": "2024-01-05T03:00:00+00:00",
@@ -5033,6 +5075,31 @@
       ]
     },
     {
+      "key": "827820dc27c71d091a33e43b780e5e086d05f703",
+      "title": "Ep 73: Crap Raps & A Solid Night’s Sleep",
+      "published_at": "2022-06-01T06:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-73-crap-raps-a-solid-nights-sleep",
+      "description": "We’re talking…. cringeworthy rapping, overenthusiastic hecklers, hen and stag parties, sleep help from the night ninja, spring-clean-itus, the parable of the new neighbour, panel show pilots and celebrity freebies. Plus, email questions on pursuing an ex-boyfriend and finding a compromise with your partner on food treats. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6930800585.mp3?updated=1780919667",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4075",
+      "speakers": [
+        "Crap Raps",
+        "Solid Night",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "crap",
+        "raps",
+        "solid",
+        "night",
+        "sleep"
+      ]
+    },
+    {
       "key": "9b297b795a21d50f477a40fd377e09a148b2eedd",
       "title": "Ep 72: Local Radio & Celebrating Celebrations",
       "published_at": "2022-05-28T06:00:00+00:00",
@@ -5228,6 +5295,29 @@
         "checks",
         "arrogant",
         "animals"
+      ]
+    },
+    {
+      "key": "67c68b3b99e3a708e5ecad60b6c1c6892529b599",
+      "title": "Ep 63: Home Haircuts & Restaurant Beef",
+      "published_at": "2022-03-16T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/ep-63-home-haircuts-restaurant-beef",
+      "description": "We’re talking…. befriending barbers, having a gardener, restaurant letdowns, noisily enjoying food, making enemies with hypnotists, baby stresses and overdosing on Big Tasty’s. Then, after a quick tot-up of podcast guest appearances, we take a look at some emails on balancing family life with work, a topical debate about wheels and doors, and a heartwarming relationship update. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7804221616.mp3?updated=1780918374",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3849",
+      "speakers": [
+        "Home Haircuts",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "home",
+        "haircuts",
+        "restaurant",
+        "beef"
       ]
     },
     {
@@ -6512,6 +6602,23 @@
       ]
     },
     {
+      "key": "51a0cb1d16d19e83db98e65936d6f427db850962",
+      "title": "Episode 12",
+      "published_at": "2021-02-17T08:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode12",
+      "description": "We’re talking… getting used to wearing jeans again, the mind-blowing genius of zips, personalised cards, buying gifts and unconventional uses for a cheese and onion pasty. Plus our old friends persnickety and Kreme both make a return appearance. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9691249316.mp3?updated=1780667055",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3979",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
       "key": "89b18cd74aceefccfeec93222364c873763d0e42",
       "title": "Bonus Email Episode #3",
       "published_at": "2021-02-12T07:00:00+00:00",
@@ -6842,6 +6949,7 @@
 - 2025-07-23 — S4 Ep 29: Boxing Bants & AI Podcasts — speakers: Romesh Ranganathan, Tom Davis
 - 2025-07-16 — S4 Ep 28: Halloween Costumes & A Dance Contest — speakers: Mel Giedroyc, Romesh Ranganathan, Tom Davis
 - 2025-07-09 — S4 Ep 27: The Scorpion & A Spudgun — speakers: Romesh Ranganathan, Tom Davis
+- 2025-07-02 — S4 Ep 26: Clooney Chats & Rom’s Album — speakers: Romesh Ranganathan, Tom Davis
 - 2025-06-25 — S4 Ep 25: Avoiding Bees & Burnt Pizzas — speakers: Romesh Ranganathan, Tom Davis
 - 2025-06-18 — S4 Ep 24: School Appeals & AI Stand-Up — speakers: Romesh Ranganathan, Tom Davis
 - 2025-06-11 — S4 Ep 23: Dartmoor Ghosts & Alien Overlords — speakers: Romesh Ranganathan, Tom Davis
@@ -6930,6 +7038,7 @@
 - 2024-01-26 — S3 Ep 5: Bonus Film Pitch Special — speakers: Romesh Ranganathan, Tom Davis
 - 2024-01-24 — S3 Ep 4: Keith The Ulcer & Showbiz Pals — speakers: Showbiz Pals Apologies, Romesh Ranganathan, Tom Davis
 - 2024-01-17 — S3 Ep 3: Tech Meltdowns & Confusing Nicknames — speakers: Tech Meltdowns, Romesh Ranganathan, Tom Davis
+- 2024-01-10 — S3 Ep 2: Bin-gate & Weighing Profiteroles — speakers: Romesh Ranganathan, Tom Davis
 - 2024-01-05 — S3 Ep 1: New Year, New Beginnings — speakers: New Year, Romesh Ranganathan, Tom Davis
 - 2023-12-27 — S2 Ep 86: Live in London Pt. 2 — speakers: Romesh Ranganathan, Tom Davis
 - 2023-12-20 — S2 Ep 85: Live in London Pt. 1 — speakers: Romesh Ranganathan, Tom Davis
@@ -7018,6 +7127,7 @@
 - 2022-06-29 — S2 Ep 2: Paper Maps & Gig Mishaps — speakers: Gig Mishaps, Romesh Ranganathan, Tom Davis
 - 2022-06-22 — S2 Ep 1: Or should that be Episode 100? — speakers: Romesh Ranganathan, Tom Davis
 - 2022-06-08 — Ep 74: Middle Age Partying & County Fairs — speakers: Middle Age Partying, Romesh Ranganathan, Tom Davis
+- 2022-06-01 — Ep 73: Crap Raps & A Solid Night’s Sleep — speakers: Crap Raps, Solid Night, Romesh Ranganathan, Tom Davis
 - 2022-05-28 — Ep 72: Local Radio & Celebrating Celebrations — speakers: Local Radio, Romesh Ranganathan, Tom Davis
 - 2022-05-18 — Ep 71: Quitting Sugar & Addictive TV — speakers: Romesh Ranganathan, Tom Davis
 - 2022-05-11 — Ep 70: Burritos & Wedding Cakes — speakers: Romesh Ranganathan, Tom Davis
@@ -7027,6 +7137,7 @@
 - 2022-04-06 — Ep 66: Garage Life & Sugar Fasting — speakers: Garage Life, Romesh Ranganathan, Tom Davis
 - 2022-03-30 — Ep 65: Show Openers & Oscars Shockers — speakers: Romesh Ranganathan, Tom Davis
 - 2022-03-23 — Ep 64: Heath Checks & Arrogant Animals — speakers: Heath Checks, Romesh Ranganathan, Tom Davis
+- 2022-03-16 — Ep 63: Home Haircuts & Restaurant Beef — speakers: Home Haircuts, Romesh Ranganathan, Tom Davis
 - 2022-03-02 — Ep 62: Hotel Rooms & Vegan Eggs — speakers: Hotel Rooms, Romesh Ranganathan, Tom Davis
 - 2022-02-23 — Ep 61: Driving Lessons & Live Shows — speakers: Romesh Ranganathan, Tom Davis
 - 2022-02-16 — Ep 60: Valentine's & The Super Bowl — speakers: Romesh Ranganathan, Tom Davis
@@ -7098,6 +7209,7 @@
 - 2021-03-03 — Episode 14 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-24 — Episode 13 — speakers: sweet souls, Romesh Ranganathan, Tom Davis
 - 2021-02-19 — Bonus Email Episode #4 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-02-17 — Episode 12 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-12 — Bonus Email Episode #3 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-10 — Episode 11 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-02-05 — Bonus Email Episode #2 — speakers: Romesh Ranganathan, Tom Davis

@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"djEuMi4wOjE3ODAzOTI3NjYzNDE="`
+- fetched_at: `2026-06-09T15:27:35+00:00`
+- checked_at: `2026-06-09T15:27:35+00:00`
+- etag: `"djEuMi4wOjE3ODEwMDMyNzAxOTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-09T15:27:35+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "99640c11ed7b54d06f903588fe53750cce0e136f",
+      "title": "Bobby Skips Town",
+      "published_at": "2026-06-09T11:07:49+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/bobby-skips-town",
+      "description": "This week, Katherine's Telling Everybody Everything about having the children alone for three nights while our first guest of the new series, Bobby K joins us in a beautifully revamped studio to detail his harrowing journey to Waterloo, Ontario. Are we meant to relive the debauchery of our university years in our forties? Judging by Bobby's suspected concussion, most probably not. Comedian Andrew Johnston delivers pop culture news GAY from Los Angeles, reporting on Dua Lipa's wedding, MBBB's adoption, a Love Island UK swift exit, and Kate Middleton coming fascinator-to-fascinator with an ex. Plus, your letters on MIL trouble and a laser session gone wrong. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1781002627405-70eb3be6-5977-4e18-88a9-a957314567eb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a27f406427484b4a42b14d4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81858478",
+      "itunes_duration": "56:50",
+      "speakers": [
+        "Bobby Skips Town",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "bobby",
+        "skips",
+        "town"
+      ]
+    },
     {
       "key": "0c57e6f423d249e2b51cf712aaa05222d3997e34",
       "title": "Mr Tumble Age Gap Love",
@@ -6230,6 +6251,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-09 — Bobby Skips Town — speakers: Bobby Skips Town, Katherine Ryan
 - 2026-06-02 — Mr Tumble Age Gap Love — speakers: Tumble Age Gap Love, Katherine Ryan
 - 2026-05-27 — The Labour Poo — speakers: Katherine Ryan
 - 2026-05-25 — Am I An Instrument Of The Far Right? — speakers: Far Right, Telling Everybody Everything, Katherine Ryan
