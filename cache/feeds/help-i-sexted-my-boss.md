@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-06-08T11:20:12+00:00`
-- checked_at: `2026-06-08T11:20:12+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RBNE9UUTRNemszTkRRPTo6c2F4ZXNz"`
+- fetched_at: `2026-06-09T10:02:48+00:00`
+- checked_at: `2026-06-09T10:02:48+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RBNU9ERXlNemsyTWpNPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-06-08T11:20:12+00:00",
+  "fetched_at": "2026-06-09T10:02:48+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,13 +30,13 @@
     {
       "key": "74f80ee582f408b34fe92e45e5c869ec961e15ee",
       "title": "Help He’s Got Secret Viagra | And Bussing It With Wayne Rooney",
-      "published_at": "2026-06-08T05:00:00+00:00",
+      "published_at": "2026-06-09T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-hes-got-secret-viagra-and-bussing-it-with-wayne-rooney",
-      "description": "Jordan's back from Soccer Aid with tales from the dressing rooms. Not to be outdone on dressing room chat, William's been hard at work preparing for his West End debut and has an update on his bevel. The boys also help you with your dilemmas involving changing hairdressers, massage parlour faux pas, and how to confront your partner over his secret stash of Viagra. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "Jordan's back from Soccer Aid with tales from the dressing rooms. Not to be outdone on dressing room chat, William's been hard at work preparing for his West End debut and has an update on his bevel. The boys also help you with your dilemmas involving changing hairdressers, massage parlour faux pas, and how to confront your partner over his secret stash of Viagra. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1780671717770-dffbb2cc-9e28-4ac3-8d7c-5f5e0d458765.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a22d24e6ffc173964c66c3e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=4hTT7-kixbC_WLgoSvJreeNR-SvNd-RA-E8iD-c3Ack",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42689515",
       "itunes_duration": "44:28",
       "speakers": [
         "Wayne Rooney",
@@ -14457,7 +14457,7 @@
 
 ## Episodes (newest first)
 
-- 2026-06-08 — Help He’s Got Secret Viagra | And Bussing It With Wayne Rooney — speakers: Wayne Rooney, William Hanson, Jordan North
+- 2026-06-09 — Help He’s Got Secret Viagra | And Bussing It With Wayne Rooney — speakers: Wayne Rooney, William Hanson, Jordan North
 - 2026-06-05 — Help I Sexted Toni And Ryan! | With Titanic Reenactments — speakers: William Hanson, Jordan North
 - 2026-06-02 — Help He’s Entering My Tardis | And We've Got A New Studio! — speakers: William Hanson, Jordan North
 - 2026-05-29 — Jordan’s Philosophies | And Airport Nightmares — speakers: Airport Nightmares, Jordan North, William Hanson
