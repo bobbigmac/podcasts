@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"2560c5-6536e629ede74"`
-- last_modified: `Thu, 04 Jun 2026 14:30:26 GMT`
+- fetched_at: `2026-06-10T16:09:06+00:00`
+- checked_at: `2026-06-10T16:09:06+00:00`
+- etag: `"25590b-653e5cd53c4d1"`
+- last_modified: `Wed, 10 Jun 2026 12:58:37 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-10T16:09:06+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -36,8 +36,8 @@
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/fb2d3eaf-aa65-48a0-ae00-ff22423988b5.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "32156359",
-      "itunes_duration": "22:20",
+      "enclosure_length": "31314381",
+      "itunes_duration": "21:45",
       "speakers": [
         "Democratic Republic",
         "Gemma Ware"
@@ -54,12 +54,12 @@
       "title": "The salt caverns used to stockpile oil",
       "published_at": "2026-05-28T14:45:00+00:00",
       "link": "https://theconversation.com/how-and-where-global-strategic-oil-reserves-of-2-billion-barrels-are-stockpiled-283457",
-      "description": "Buried underground in caverns dug out of salt on the Gulf coast of the US are millions of barrels worth of crude oil. This is the Strategic Petroleum Reserve, built up in the late 1970s. Globally, at the end of 2025, global strategic oil stockpiles were estimated at 2.5 billion barrels , with China holding the most. With the Strait of Hormuz now closed for more than two months, global oil supplies are being squeezed. In March, as part of a co-ordinated move by members of the International Energy Agency to release 400 million barrels of oil to prevent price spikes, the US began releasing 172 million barrels from its strategic reserves. In this episode, we speak to Scott Montgomery, a former petroleum geologist who lectures in international studies at the University of Washington, about why these oil stockpiles were built up in the first place, and how they work. This episode was written and produced by Gemma Ware and Katie Flood with production assistance from Katie Flood. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Why Middle East gas field attacks could send energy prices soaring Why the Persian Gulf has more oil and gas than anywhere else on Earth War in the Middle East made the case for renewables – what’s happening in each country tells a harder story The government’s plans to bolster Australia’s fuel stores are sensible – but 5 years too late Over 400 million barrels will be added to the oil market soon – what are strategic reserves and what can they do? Mentioned in this episode: Voices of the South",
+      "description": "Buried underground in caverns dug out of salt on the Gulf coast of the US are millions of barrels worth of crude oil. This is the Strategic Petroleum Reserve, built up in the late 1970s. Globally, at the end of 2025, global strategic oil stockpiles were estimated at 2.5 billion barrels , with China holding the most. With the Strait of Hormuz now closed for more than two months, global oil supplies are being squeezed. In March, as part of a co-ordinated move by members of the International Energy Agency to release 400 million barrels of oil to prevent price spikes, the US began releasing 172 million barrels from its strategic reserves. In this episode, we speak to Scott Montgomery, a former petroleum geologist who lectures in international studies at the University of Washington, about why these oil stockpiles were built up in the first place, and how they work. This episode was written and produced by Gemma Ware and Katie Flood with production assistance from Katie Flood. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Why Middle East gas field attacks could send energy prices soaring Why the Persian Gulf has more oil and gas than anywhere else on Earth War in the Middle East made the case for renewables – what’s happening in each country tells a harder story The government’s plans to bolster Australia’s fuel stores are sensible – but 5 years too late Over 400 million barrels will be added to the oil market soon – what are strategic reserves and what can they do?",
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/5a43135c-16ad-42d1-b861-e14dea285343.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "37836425",
-      "itunes_duration": "26:17",
+      "enclosure_length": "34295475",
+      "itunes_duration": "23:49",
       "speakers": [
         "Gemma Ware"
       ],
@@ -73,12 +73,12 @@
       "title": "Argentina’s inflation ‘miracle’ is more of a mirage",
       "published_at": "2026-05-21T14:45:00+00:00",
       "link": "https://theconversation.com/why-javier-mileis-inflation-miracle-in-argentina-is-more-of-a-mirage-283418",
-      "description": "The month Javier Milei took over as president of Argentina in December 2023, monthly inflation was 25.5%. The annual rate for that year was 211%. Now, it’s plummeted to 32% – still very high, but more stable. Milei, a right-wing populist famous for wielding a chainsaw on stage to make a point about fiscal conservatism, made cutting inflation a central part of his campaign. And yet economists like Can Cinar from City St George's, University of London, warn that Milei’s battle against inflation is more of a mirage, than a miracle. In this episode, Cinar explains how Milei’s government managed to cut inflation by deliberately suppressing people’s wages, and the stark impact these policies are having on Argentinians. This episode was written and produced by Mend Mariwany and Gemma Ware with production assistance from Katie Flood. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Kemi Badenoch says she wants to be Britain’s Javier Milei – but is the Argentinian president a model to follow? What’s inflation – and how exactly do we measure it? Javier Milei’s victory in Argentina’s midterm elections is also a win for Trump Currency controls and debt in Argentina: the stakes are high if Milei’s latest economic gamble doesn’t pay off Javier Milei’s inflation ‘miracle’ in Argentina is a warning to the world, not a blueprint Mentioned in this episode: Voices of the South",
+      "description": "The month Javier Milei took over as president of Argentina in December 2023, monthly inflation was 25.5%. The annual rate for that year was 211%. Now, it’s plummeted to 32% – still very high, but more stable. Milei, a right-wing populist famous for wielding a chainsaw on stage to make a point about fiscal conservatism, made cutting inflation a central part of his campaign. And yet economists like Can Cinar from City St George's, University of London, warn that Milei’s battle against inflation is more of a mirage, than a miracle. In this episode, Cinar explains how Milei’s government managed to cut inflation by deliberately suppressing people’s wages, and the stark impact these policies are having on Argentinians. This episode was written and produced by Mend Mariwany and Gemma Ware with production assistance from Katie Flood. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Kemi Badenoch says she wants to be Britain’s Javier Milei – but is the Argentinian president a model to follow? What’s inflation – and how exactly do we measure it? Javier Milei’s victory in Argentina’s midterm elections is also a win for Trump Currency controls and debt in Argentina: the stakes are high if Milei’s latest economic gamble doesn’t pay off Javier Milei’s inflation ‘miracle’ in Argentina is a warning to the world, not a blueprint",
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/4031e513-fa25-4541-ad4b-ed40eeeedcbb.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "38577467",
-      "itunes_duration": "26:47",
+      "enclosure_length": "36142437",
+      "itunes_duration": "25:06",
       "speakers": [
         "Javier Milei",
         "Gemma Ware"
@@ -95,12 +95,12 @@
       "title": "The conspiracy theorists who feel vindicated by the Epstein files",
       "published_at": "2026-05-14T14:30:00+00:00",
       "link": "https://theconversation.com/the-conspiracy-theorists-who-feel-vindicated-by-the-epstein-files-282816",
-      "description": "As the revelations from the Epstein files continue to reverberate around the globe, those conspiracy theorists who were among the first to call for the release of information about Jeffrey Epstein's legal cases are feeling vindicated. Before his death, Epstein already featured in many fringe online forums, including those centred on the Qanon conspiracy narrative that the world is run by an elite cabal of child sex traffickers. Now, many in these communities are saying \"We told you so.\" In this episode, Art Jipson , a sociologist at the University of Dayton in Ohio, who researches social movements and extremism, explains what happened when a real-life criminal case collided with an online community built on conspiracy theories. This episode was produced by Katie Flood, with assistance from Mend Mariwany. The executive producer was Gemma Ware. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Mentioned in this episode: Voices of the South",
+      "description": "As the revelations from the Epstein files continue to reverberate around the globe, those conspiracy theorists who were among the first to call for the release of information about Jeffrey Epstein's legal cases are feeling vindicated. Before his death, Epstein already featured in many fringe online forums, including those centred on the Qanon conspiracy narrative that the world is run by an elite cabal of child sex traffickers. Now, many in these communities are saying \"We told you so.\" In this episode, Art Jipson , a sociologist at the University of Dayton in Ohio, who researches social movements and extremism, explains what happened when a real-life criminal case collided with an online community built on conspiracy theories. This episode was produced by Katie Flood, with assistance from Mend Mariwany. The executive producer was Gemma Ware. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/6b44d8ce-3aae-43f0-8bf5-25f405e2ef7f.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "45157816",
-      "itunes_duration": "31:22",
+      "enclosure_length": "41263273",
+      "itunes_duration": "28:39",
       "speakers": [
         "Gemma Ware"
       ],
@@ -116,12 +116,12 @@
       "title": "China’s long game on Trump’s tariffs",
       "published_at": "2026-05-07T14:15:00+00:00",
       "link": "https://theconversation.com/chinas-ability-to-weather-trumps-trade-war-was-two-decades-in-the-making-282199",
-      "description": "As Xi Jinping prepares to host Donald Trump for a delayed summit in Beijing on May 14-15, a lot has changed since the US president's last visit to China in November 2017. Trump's first trade war with China began in earnest the following year, ushering in a new era of trade tensions between the world's two largest economies. While Trump's second trade war raged in 2025, China reported a record trade surplus of US$1.2 trillion. Yes, direct trade with the US fell sharply, but China shifted its focus elsewhere, doubling down on an existing \"great reallocation\". In this episode, we speak to economist Jiao Wang at the University of Sussex, about how decisions China took over the past two decades meant it was able to protect itself from the worst of Trump's tariff wars. This episode was produced by Mend Mariwany and the executive producer was Gemma Ware. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Supreme Court’s tariff decision still leaves a ‘mess’ for companies trying to grab refunds With a shrinking population, China needs new drivers of growth. Consumer spending has yet to fill the gap Amid rising tensions, ‘friendshoring’ might keep global trade alive Have US tariffs failed to bite? China’s trade surplus hits a record US$1.2 trillion Mentioned in this episode: Voices of the South",
+      "description": "As Xi Jinping prepares to host Donald Trump for a delayed summit in Beijing on May 14-15, a lot has changed since the US president's last visit to China in November 2017. Trump's first trade war with China began in earnest the following year, ushering in a new era of trade tensions between the world's two largest economies. While Trump's second trade war raged in 2025, China reported a record trade surplus of US$1.2 trillion. Yes, direct trade with the US fell sharply, but China shifted its focus elsewhere, doubling down on an existing \"great reallocation\". In this episode, we speak to economist Jiao Wang at the University of Sussex, about how decisions China took over the past two decades meant it was able to protect itself from the worst of Trump's tariff wars. This episode was produced by Mend Mariwany and the executive producer was Gemma Ware. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Supreme Court’s tariff decision still leaves a ‘mess’ for companies trying to grab refunds With a shrinking population, China needs new drivers of growth. Consumer spending has yet to fill the gap Amid rising tensions, ‘friendshoring’ might keep global trade alive Have US tariffs failed to bite? China’s trade surplus hits a record US$1.2 trillion",
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/6e150ada-cdaa-474d-9d83-af66f1c8476b.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "45960297",
-      "itunes_duration": "31:55",
+      "enclosure_length": "42805542",
+      "itunes_duration": "29:44",
       "speakers": [
         "Xi Jinping",
         "Gemma Ware"
@@ -142,8 +142,8 @@
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/4a5b9400-9bc3-4dfd-a8b4-905a66d9d39f.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "39226975",
-      "itunes_duration": "27:14",
+      "enclosure_length": "37401330",
+      "itunes_duration": "25:58",
       "speakers": [
         "Pope Leo",
         "Gemma Ware"
@@ -157,12 +157,12 @@
       "title": "Israel’s history shapes how it wages war",
       "published_at": "2026-04-23T14:30:00+00:00",
       "link": "https://theconversation.com/how-israels-history-has-shaped-the-way-it-wages-war-281194",
-      "description": "In around ten minutes on April 8, the Israeli military hit more than 100 targets across Lebanon. Israel called the attack Operation Eternal Darkness and said it struck Hezbollah command and control centres. The Lebanese government said at least 300 people were killed and 1,000 injured. Israel has a powerful and lethal army, and it’s been defending itself against attacks from Hamas, Hezbollah and Iran. But why has it chosen such brutal military aggression? One historian, Yaron Peleg , believes the answer to this question lies in the early days of Zionism in the 19th century, when many Jews who arrived in Palestine were fleeing antisemitism in Europe. In defiance, they began a cultural revolution, emphasising military strength and honouring Biblical Jewish heroes. But in the wake of the Holocaust, Peleg, who is a professor of modern Hebrew studies at the University of Cambridge in the UK, thinks Israel’s view of itself began to change. He tracks how he sees Israel’s self‑image changed from self‑reliance to aggressive militarism, and how that history helps to explain the way it wages war today. This episode was produced by Mend Mariwany and the executive producer was Gemma Ware. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Mentioned in this episode: Voices of the South",
+      "description": "In around ten minutes on April 8, the Israeli military hit more than 100 targets across Lebanon. Israel called the attack Operation Eternal Darkness and said it struck Hezbollah command and control centres. The Lebanese government said at least 300 people were killed and 1,000 injured. Israel has a powerful and lethal army, and it’s been defending itself against attacks from Hamas, Hezbollah and Iran. But why has it chosen such brutal military aggression? One historian, Yaron Peleg , believes the answer to this question lies in the early days of Zionism in the 19th century, when many Jews who arrived in Palestine were fleeing antisemitism in Europe. In defiance, they began a cultural revolution, emphasising military strength and honouring Biblical Jewish heroes. But in the wake of the Holocaust, Peleg, who is a professor of modern Hebrew studies at the University of Cambridge in the UK, thinks Israel’s view of itself began to change. He tracks how he sees Israel’s self‑image changed from self‑reliance to aggressive militarism, and how that history helps to explain the way it wages war today. This episode was produced by Mend Mariwany and the executive producer was Gemma Ware. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/13764a56-c536-467b-a4c4-15c5003a09aa.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "42288317",
-      "itunes_duration": "29:22",
+      "enclosure_length": "38027642",
+      "itunes_duration": "26:24",
       "speakers": [
         "Gemma Ware"
       ],
@@ -176,12 +176,12 @@
       "title": "How former insider Péter Magyar ousted Hungary’s Viktor Orbán",
       "published_at": "2026-04-16T09:15:00+00:00",
       "link": "https://theconversation.com/who-is-hungarys-peter-magyar-and-how-he-overturned-viktor-orbans-illiberal-democracy-280651",
-      "description": "For 16 years, Viktor Orbán built an illiberal democracy in Hungary. Orbán and his Fidesz party managed to take control of many of Hungary's levers of power, from the judiciary to state-owned media, and weakened the institutions that could keep them accountable. Now, his regime has been ended by a former Fidesz insider, Péter Magyar, who managed to unite Hungarians to secure a two-third majority in the country's parliament. So how did Peter Magyar manage to beat his former boss? And what does Magyar's victory mean for the European Union, where Orbán was a belligerent, pro-Russian voice at the leaders' table. We speak to Zsolt Enyedi , professor of political science at the Central European University and an expert in Hungarian politics. This episode was produced by Mend Mariwany and Katie Flood. Gemma Ware was the host and executive producer. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. He exposed corruption and walked across Hungary. Now Péter Magyar has defeated a powerful state machine What Viktor Orbán’s election loss means for Putin, Trump and the rise of right-wing populism Viktor Orbán’s election loss shows the limits of his propaganda machine Mentioned in this episode: Voices of the South",
+      "description": "For 16 years, Viktor Orbán built an illiberal democracy in Hungary. Orbán and his Fidesz party managed to take control of many of Hungary's levers of power, from the judiciary to state-owned media, and weakened the institutions that could keep them accountable. Now, his regime has been ended by a former Fidesz insider, Péter Magyar, who managed to unite Hungarians to secure a two-third majority in the country's parliament. So how did Peter Magyar manage to beat his former boss? And what does Magyar's victory mean for the European Union, where Orbán was a belligerent, pro-Russian voice at the leaders' table. We speak to Zsolt Enyedi , professor of political science at the Central European University and an expert in Hungarian politics. This episode was produced by Mend Mariwany and Katie Flood. Gemma Ware was the host and executive producer. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. He exposed corruption and walked across Hungary. Now Péter Magyar has defeated a powerful state machine What Viktor Orbán’s election loss means for Putin, Trump and the rise of right-wing populism Viktor Orbán’s election loss shows the limits of his propaganda machine",
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/85de8acd-0602-4ccb-966c-cffad93c1b7d.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "45070044",
-      "itunes_duration": "31:18",
+      "enclosure_length": "41915289",
+      "itunes_duration": "29:06",
       "speakers": [
         "Péter Magyar",
         "Viktor Orbán",
@@ -203,8 +203,8 @@
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/8d3c4a15-24dc-4510-97b4-57ee9185688e.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "43505832",
-      "itunes_duration": "30:13",
+      "enclosure_length": "42786107",
+      "itunes_duration": "29:43",
       "speakers": [
         "Gemma Ware"
       ],
@@ -222,8 +222,8 @@
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/190305d6-9892-4748-9b15-54e9e1b087c6.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "25036215",
-      "itunes_duration": "26:05",
+      "enclosure_length": "24062789",
+      "itunes_duration": "25:04",
       "speakers": [
         "Pauline Hanson",
         "Gemma Ware"
@@ -246,8 +246,8 @@
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/56fcba57-131d-47e2-a37b-9099b1f9c101.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "39386218",
-      "itunes_duration": "27:21",
+      "enclosure_length": "36820785",
+      "itunes_duration": "25:34",
       "speakers": [
         "Gemma Ware"
       ],
@@ -267,8 +267,8 @@
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/f5ac4839-adba-4ecc-b45a-50573d2a53c6.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "40995570",
-      "itunes_duration": "28:28",
+      "enclosure_length": "39536057",
+      "itunes_duration": "27:27",
       "speakers": [
         "Central Command",
         "Gemma Ware"
@@ -283,12 +283,12 @@
       "title": "Mystery covid methane spike solved",
       "published_at": "2026-03-12T14:45:00+00:00",
       "link": "https://theconversation.com/why-global-methane-levels-spiked-during-covid-lockdowns-278128",
-      "description": "Six years ago, as countries around the world went into COVID lockdowns, the air got cleaner. Factories slowed down, roads emptied and aeroplanes were grounded. As people stayed home, the world burned fewer fossil fuels and so carbon dioxide emissions dropped. But something else was also happening in the atmosphere. Levels of methane , an extremely potent greenhouse gas that warms the planet even faster than CO2, rose faster in 2020 than at any point since records began in the 1980s. And methane levels kept on rising during 2021 and 2022. Ever since, scientists have been trying to piece together what caused this sudden mysterious increase in methane. Now, they think they have the answer – and it was partly due to COVID lockdowns. In this episode, we speak to Philippe Ciais , a researcher at the Laboratory for Environmental and Climate Science at Université Paris-Saclay in France, and one of the authors of a new study in the journal Science about the spike in methane levels, who explains how they solved the mystery. This episode was written and produced by Mend Mariwany and Katie Flood and Gemma Ware was the executive producer. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Pourquoi les émissions de méthane ont-elles bondi de 2020 à 2023 ? Une étude permet enfin de répondre Why fixing methane leaks from the oil and gas industry can be a climate game-changer – one that pays for itself Coronavirus lockdowns cut global carbon emissions by an estimated 7% – what happens now? Methane emissions are at new highs. It could put us on a dangerous climate path Mentioned in this episode: The Making of an Autocrat Search \"The Conversation Weekly\" for our new series: The Making of an Autocrat. Is America watching its democracy unravel in real time? In The Making of an Autocrat from The Conversation, six of the world’s pre-eminant scholars reveal the recipe for authoritarian rule. From capturing a party, to controlling the military, Donald Trump is borrowing from the playbook of strongmen thoughout history. This is the story of how democracies falter — and what might happen next. Voices of the South",
+      "description": "Six years ago, as countries around the world went into COVID lockdowns, the air got cleaner. Factories slowed down, roads emptied and aeroplanes were grounded. As people stayed home, the world burned fewer fossil fuels and so carbon dioxide emissions dropped. But something else was also happening in the atmosphere. Levels of methane , an extremely potent greenhouse gas that warms the planet even faster than CO2, rose faster in 2020 than at any point since records began in the 1980s. And methane levels kept on rising during 2021 and 2022. Ever since, scientists have been trying to piece together what caused this sudden mysterious increase in methane. Now, they think they have the answer – and it was partly due to COVID lockdowns. In this episode, we speak to Philippe Ciais , a researcher at the Laboratory for Environmental and Climate Science at Université Paris-Saclay in France, and one of the authors of a new study in the journal Science about the spike in methane levels, who explains how they solved the mystery. This episode was written and produced by Mend Mariwany and Katie Flood and Gemma Ware was the executive producer. Mixing by Eleanor Brezzi and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Pourquoi les émissions de méthane ont-elles bondi de 2020 à 2023 ? Une étude permet enfin de répondre Why fixing methane leaks from the oil and gas industry can be a climate game-changer – one that pays for itself Coronavirus lockdowns cut global carbon emissions by an estimated 7% – what happens now? Methane emissions are at new highs. It could put us on a dangerous climate path Mentioned in this episode: Voices of the South",
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/3bb7834d-ea67-4c99-b9e1-5ace72f783a6.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "34364438",
-      "itunes_duration": "23:52",
+      "enclosure_length": "32491772",
+      "itunes_duration": "22:34",
       "speakers": [
         "Gemma Ware"
       ],
@@ -308,8 +308,8 @@
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/33d9b883-1957-44f8-93d6-24174463b9b0.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "41275811",
-      "itunes_duration": "28:40",
+      "enclosure_length": "39816298",
+      "itunes_duration": "27:39",
       "speakers": [
         "Ali Khamenei",
         "Gemma Ware"
@@ -328,8 +328,8 @@
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/40a9eef5-f369-418b-92b3-2416f0ad8f14.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "41027543",
-      "itunes_duration": "28:29",
+      "enclosure_length": "39568030",
+      "itunes_duration": "27:29",
       "speakers": [
         "South Korea",
         "Gemma Ware"
@@ -351,8 +351,8 @@
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/6df86247-8191-4dbf-98a0-0e145282332c.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "34978838",
-      "itunes_duration": "24:17",
+      "enclosure_length": "33519325",
+      "itunes_duration": "23:17",
       "speakers": [
         "Vladmir Putin",
         "Gemma Ware"
@@ -372,8 +372,8 @@
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/ed11c7f7-3a45-4ab8-a655-3208f02b4465.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "36078489",
-      "itunes_duration": "25:03",
+      "enclosure_length": "34618976",
+      "itunes_duration": "24:02",
       "speakers": [
         "How Minneapolis",
         "Gemma Ware"

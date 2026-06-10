@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"dd7e6f778e670778a3b71fe082ab73b7"`
-- last_modified: `Fri, 05 Jun 2026 05:00:12 GMT`
+- fetched_at: `2026-06-10T16:09:06+00:00`
+- checked_at: `2026-06-10T16:09:06+00:00`
+- etag: `"8d9aa1b1c26231ec7fe425d4fabfb218"`
+- last_modified: `Wed, 10 Jun 2026 13:50:43 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,8 +17,8 @@
   "title": "You're Dead To Me",
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
-  "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m1pytt.jpg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
+  "fetched_at": "2026-06-10T16:09:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

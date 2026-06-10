@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-06-05T20:12:31+00:00`
-- checked_at: `2026-06-05T20:12:31+00:00`
-- etag: `"djEuMi4wOjE3ODA2NzQwNDM0MTI="`
+- fetched_at: `2026-06-10T16:09:06+00:00`
+- checked_at: `2026-06-10T16:09:06+00:00`
+- etag: `"djEuMi4wOjE3ODExMDM2MzkyODE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-06-05T20:12:31+00:00",
+  "fetched_at": "2026-06-10T16:09:06+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "67ddc7661162eae95b39953042ed72e4fa36698a",
+      "title": "Newly-discovered whale graveyard dates back millions of years",
+      "published_at": "2026-06-10T15:00:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01864-3",
+      "description": "In this episode: 00:46 A giant, ancient whale necropolis Research article: Peng et al. News & Views: A vast whale necropolis has been found 08:52 Research Highlights Nature: Babies’ birth weight improves with help of payments to parents Nature: Earliest signs of vision recorded in ancient sea-floor tracks 11:11 Turning plant material into chemical building-blocks Research article: Mains et al. Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a29779f4df224c1a469f09b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20799436",
+      "itunes_duration": "21:38",
+      "speakers": [
+        "News Views",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "whale",
+        "graveyard",
+        "million",
+        "year"
+      ]
+    },
     {
       "key": "6bb39978f9031b804baf7233d682a3f4116902a9",
       "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
@@ -19787,6 +19810,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — Newly-discovered whale graveyard dates back millions of years — speakers: News Views, Benjamin Thompson, Noah Baker
 - 2026-06-05 — Briefing chat: Spinosaurs with salt glands could have lived in marine environments — speakers: Benjamin Thompson, Noah Baker
 - 2026-06-03 — Your phone can use tiny skin-colour changes to measure your heart rate — speakers: Benjamin Thompson, Noah Baker
 - 2026-05-29 — Briefing Chat: When to trust eyewitness memory – according to science — speakers: Benjamin Thompson, Noah Baker

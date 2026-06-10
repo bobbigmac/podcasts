@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-06-05T20:12:31+00:00`
-- checked_at: `2026-06-05T20:12:31+00:00`
-- etag: `"5cd45bad86b9fb77b558474c44e20bf4"`
-- last_modified: `Fri, 05 Jun 2026 18:00:07 GMT`
+- fetched_at: `2026-06-10T16:09:06+00:00`
+- checked_at: `2026-06-10T16:09:06+00:00`
+- etag: `"2961bde7c5f4e37146b0fb9631f41a16"`
+- last_modified: `Wed, 10 Jun 2026 15:04:42 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-06-05T20:12:31+00:00",
+  "fetched_at": "2026-06-10T16:09:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -128,7 +128,7 @@
     {
       "key": "4b0c416e0e018fb7b9b5330a375e4ab4909ea53f",
       "title": "The News Quiz: Ep2. The art of vetting",
-      "published_at": "2026-05-01T18:00:00+00:00",
+      "published_at": "2026-04-24T18:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0ngg0p5",
       "description": "Some hot topics of conversation this week include the ever evolving Peter Mandelson vetting saga, phones being banned in schools and robots who can take over the world... sorry robots who can take over sports. Helping Andy make sense of it all are Daliso Chaponda, Catherine Bohart, Hugo Rifkind and Ria Lina. Written by Andy Zaltzman. With additional material by: Jade Gebbie, Christina Riggs, Henry Whaley and Angela Channell Producer: Georgia Keating Executive Producer: Richard Morris Production Coordinators: Asha Osborne-Grinter & Caroline Barlow Sound Editor: Marc Willcox A BBC Studios Production for Radio 4.",
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
@@ -5482,7 +5482,7 @@
 - 2026-05-22 — The News Quiz Ep5. Starmer psychodrama — speakers: Prime Minister
 - 2026-05-15 — The News Quiz: Ep4. The people have spoken
 - 2026-05-08 — The News Quiz: Ep3. When the King came round for tea — speakers: Donald Trump’s Wh
-- 2026-05-01 — The News Quiz: Ep2. The art of vetting — speakers: Peter Mandelson
+- 2026-04-24 — The News Quiz: Ep2. The art of vetting — speakers: Peter Mandelson
 - 2026-04-24 — The News Quiz: Ep1. Messiah or Doctor? — speakers: Andy Zaltzman, Andrew Maxwell
 - 2026-04-17 — The Naked Week: Ep6. Swearing, Steeplechase, and Strikes.
 - 2026-04-10 — The Naked Week: Ep5. Jesus Christ Superstarmer, and Dark Satanic Mills — speakers: Jesus Christ Superstarmer, Dark Satanic Mills

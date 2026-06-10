@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-10T04:48:05+00:00`
-- checked_at: `2026-06-10T04:48:05+00:00`
-- etag: `"djEuMi4wOjE3ODEwNjAyNTkyNzM="`
+- fetched_at: `2026-06-10T16:09:06+00:00`
+- checked_at: `2026-06-10T16:09:06+00:00`
+- etag: `"djEuMi4wOjE3ODExMDM4ODY4ODA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-10T04:48:05+00:00",
+  "fetched_at": "2026-06-10T16:09:06+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -98,7 +98,7 @@
       "title": "Alex Horne on The Last Pebble - Book Club",
       "published_at": "2026-06-05T02:57:00+00:00",
       "link": "https://rhlstp.co.uk",
-      "description": "RHLSTP Book Club #175 - The Last Pebble - Richard is in the Podcast Room with Taskmaster genius Alex Horne to talk about his kids’ book The Last Pebble. How did he find time to write a book? Was he worried about looking like another celebrity cashing in? Is it OK to take pebbles from the beach. Plus how the book changed with the help of an editor and could have been about a talking stone, the incredible life cycle of pebbles and how every book is a bit like a pebble in the ocean. Plus lots of chat about the future of Taskmaster, whether Richard is Everton, the amazing 24 hours of How Long Has This Been Going On? And whether Rich is prepared to take over from Greg Davies. Buy the book here - https://uk.bookshop.org/p/books/the-last-pebble-a-heartwarming-middle-grade-fiction-story-about-a-boy-his-grandad-and-a-mystery-for-boys-and-girls-age-9-10-11-12-by-comedian/2276ea2fa88fe3a6 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "RHLSTP Book Club #182 - The Last Pebble - Richard is in the Podcast Room with Taskmaster genius Alex Horne to talk about his kids’ book The Last Pebble. How did he find time to write a book? Was he worried about looking like another celebrity cashing in? Is it OK to take pebbles from the beach. Plus how the book changed with the help of an editor and could have been about a talking stone, the incredible life cycle of pebbles and how every book is a bit like a pebble in the ocean. Plus lots of chat about the future of Taskmaster, whether Richard is Everton, the amazing 24 hours of How Long Has This Been Going On? And whether Rich is prepared to take over from Greg Davies. Buy the book here - https://uk.bookshop.org/p/books/the-last-pebble-a-heartwarming-middle-grade-fiction-story-about-a-boy-his-grandad-and-a-mystery-for-boys-and-girls-age-9-10-11-12-by-comedian/2276ea2fa88fe3a6 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1774113416524-abfbf575-9271-4fbe-a2fc-6bf12da3bcfd.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/69becfb91a160b44db06b19e/media.mp3",
       "enclosure_type": "audio/mpeg",
