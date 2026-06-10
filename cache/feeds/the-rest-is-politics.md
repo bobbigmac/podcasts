@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-06-09T22:49:22+00:00`
-- checked_at: `2026-06-09T22:49:22+00:00`
-- last_modified: `Tue, 09 Jun 2026 21:50:44 GMT`
+- fetched_at: `2026-06-10T04:48:05+00:00`
+- checked_at: `2026-06-10T04:48:05+00:00`
+- last_modified: `Tue, 09 Jun 2026 23:00:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/1a4f337061ca59ac603d55d2bc10d8ca.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-09T22:49:22+00:00",
+  "fetched_at": "2026-06-10T04:48:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "581cecdd330b0df26c37c80dae20225b7173a98b",
+      "title": "540. The Untold Iran Crisis, Henry Nowak, and Farage’s Politics of Rage",
+      "published_at": "2026-06-09T23:00:00+00:00",
+      "link": null,
+      "description": "As Trump’s Iran disaster continues, are we facing a full-blown energy and economic crisis in the UK and beyond? Why are politicians refusing to be honest about the real cost of the Iran crisis? What does the far-right’s response to the Henry Nowak tragedy – from JD Vance to Rupert Lowe – tell us about post-truth populism? Join Rory and Alastair as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Odd Arne Westad by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. Father’s Day discounted gift memberships available here . Treat your dad to early access to Question Time, members-only miniseries, and much more. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ Sponsored by Lloyds. Learn how to avoid scams and protect yourself. See how Darkhorse Anti-Fraud technology helps keep you safe from fraud. Search Lloyds protect yourself from fraud. __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1af6b486-641b-11f1-97b8-73b669ae4af5/image/8da323037ddd8644cd1ea2eb0a8b9e6d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9150946128.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3930",
+      "speakers": [
+        "Henry Nowak"
+      ],
+      "topics": [
+        "untold",
+        "iran",
+        "crisis",
+        "henry",
+        "nowak",
+        "farage",
+        "politic",
+        "rage"
+      ]
+    },
     {
       "key": "4f8ffa7ed12bd6a71f894d1dd5ba8af7c67e8a97",
       "title": "539. Embezzlement, the Mandelson Texts, and Hasan Piker's UK Ban",
@@ -12072,6 +12097,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-09 — 540. The Untold Iran Crisis, Henry Nowak, and Farage’s Politics of Rage — speakers: Henry Nowak
 - 2026-06-03 — 539. Embezzlement, the Mandelson Texts, and Hasan Piker's UK Ban — speakers: Mandelson Texts, Hasan Piker
 - 2026-06-02 — 538. The Pope’s AI Warning and Alastair Reacts to Blair’s Attack
 - 2026-05-28 — Who Funds Reform? The Missing Millions — speakers: Who Funds Reform

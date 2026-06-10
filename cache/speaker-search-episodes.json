@@ -25,6 +25,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "bf30019a24702e463b2e981c27f77eba0d9c7991",
+        "episode_key": "bf30019a24702e463b2e981c27f77eba0d9c7991",
+        "title": "Josh Widdicombe XFM # 25 – James Acaster Classic Scrape 22, Sean Walsh, Matthew Crosby",
+        "published_at": "2026-06-08T18:12:55Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster shares another Classic Scape, Sean Walsh joins Josh in the studio and Matthew Crosby phones in.Broadcast on 24th September 2013.",
+        "audio_url": "https://traffic.megaphone.fm/APO4895032553.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-25-james-acaster-classic-scrape/id1866254969?i=1000771732327&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -4728,6 +4750,28 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:bcd8c8740780",
+        "feed_title": "Well Enough",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6877a2d54633a88a38ec3a2a",
+        "dedupe_key": "4196f27f2fc3d09bf365e90ba596c4e147f31769",
+        "episode_key": "4196f27f2fc3d09bf365e90ba596c4e147f31769",
+        "title": "Ed Gamble: \"Type 1 diabetes is like having another job\"",
+        "published_at": "2026-06-10T02:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian, presenter and Off Menu co-host Ed Gamble has spent more than 25 years living with Type 1 diabetes. Diagnosed at just 13 years old, he describes managing the condition as \"like having another job\" - a constant balancing act of food, insulin, exercise, stress and everyday life.\nIn this episode, Ed opens up abou",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6877a2d54633a88a38ec3a2a/e/6a288584262000e475497396/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ed-gamble-type-1-diabetes-is-like-having-another-job/id1839434349?i=1000771957514&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:5a46c54e4129",
         "feed_title": "The Chris Evans Show",

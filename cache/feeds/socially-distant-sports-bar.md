@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-06-08T16:19:37+00:00`
-- checked_at: `2026-06-08T16:19:37+00:00`
-- etag: `"djEuMi4wOjE3ODA5MjU4NTY5MDc="`
+- fetched_at: `2026-06-10T04:48:05+00:00`
+- checked_at: `2026-06-10T04:48:05+00:00`
+- etag: `"djEuMi4wOjE3ODEwNDcxNzkzOTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-06-08T16:19:37+00:00",
+  "fetched_at": "2026-06-10T04:48:05+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,29 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "7b9a62d4ea8105dcff6e262709b3016f42a2a1da",
+      "title": "FIFA World Cup Special (pt 1)",
+      "published_at": "2026-06-09T23:19:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/fifa-world-cup-special-pt-1",
+      "description": "The Socially Distant Sports Bar is a comedy podcast hosted by Elis James ( Elis James & John Robins on BBC Radio 5 Live) and Mike Bubbins ( Mammoth ), alongside producer Steff Garrero — offering a funny, curious take on sport, culture and the stories that surround them. This week, it’s a FIFA World Cup Special — a deep dive into the moments, players and chaos that make the tournament what it is. Yes, we’ve gone for a slightly SEO‑friendly title — which is why this description also includes names like Lionel Messi, Cristiano Ronaldo, Diego Maradona, Pelé, Zinedine Zidane, Kylian Mbappé and terms like World Cup goals, World Cup highlights, greatest World Cup moments … but once you’re in, it’s the usual mix of niche clips, big stories and sideways conversations about whether Mike could be a 13th Century entertainer... 🎧 PART 1 The lads look at the experience of getting to games at this year's tournament before diving into World Cup nostalgia. Mike on the realities of travelling to matches: https://share.google/d9wFWdgwmAZK50WE1 https://share.google/HtzictWOpgMjjtzgl Elis revisits Roberto Baggio at Italia ’90: https://m.youtube.com/watch?v=lOnKZ1M1anU&ra=m https://youtu.be/9hp1cl5Igig?si=6vmzaPJKViL0vmRp Steff looks at the England squad announcement and it's cultural impact: https://www.youtube.com/watch?v=2umUvkWzzxw 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a26a34ace924c5f29456522/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "172223040",
+      "itunes_duration": "1:11:45",
+      "speakers": [
+        "Elis James",
+        "John Robins",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "fifa",
+        "world",
+        "special"
+      ]
+    },
     {
       "key": "5c3935bd13ee6bcae42583006091733f17d332b5",
       "title": "Bob Harris: Pint Size",
@@ -15003,6 +15026,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-09 — FIFA World Cup Special (pt 1) — speakers: Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-06-06 — Bob Harris: Pint Size — speakers: Bob Harris, Pint Size, Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-04 — Roy Big‑Castle (pt 2) — speakers: Roy Big-Castle, Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-02 — Roy Big‑Castle (pt 1) — speakers: Roy Big-Castle, Elis James, John Robins, Mike Bubbins, Steff Garrero

@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"a0381-6534e52fdade3"`
-- last_modified: `Wed, 03 Jun 2026 00:15:25 GMT`
+- fetched_at: `2026-06-10T04:48:05+00:00`
+- checked_at: `2026-06-10T04:48:05+00:00`
+- etag: `"a0f36-653db23a756d2"`
+- last_modified: `Wed, 10 Jun 2026 00:15:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-10T04:48:05+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f0d49fc6cdb94387c807498a13a921e5af4dff76",
+      "title": "Agatha Christie",
+      "published_at": "2026-06-10T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/agatha-christie",
+      "description": "Agatha Christie has had her works translated into more languages than any other author in history according to the most superficial of Googlings. But would she have given a monkey’s? It’s impossible to know and fruitless to ask so why Alan of the Surrey Borders entered her name into the Bean Machine is a mystery the likes of which even Jack Reacher would struggle to solve but we’re here now so let’s all make the most of it. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/28f7e4a9-4943-4c2f-9f1d-8318afc4e1a5/S21-E01-Agatha-Christie.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/f6658b57-7747-4549-b1e2-918f576091da.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=f6658b57-7747-4549-b1e2-918f576091da",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62226644",
+      "itunes_duration": "01:04:49",
+      "speakers": [
+        "Agatha Christie",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "agatha",
+        "christie"
+      ]
+    },
     {
       "key": "904bdda04cc06a2d60b1515b351872505076c39c",
       "title": "Martial Arts",
@@ -4270,6 +4292,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — Agatha Christie — speakers: Agatha Christie, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-06-03 — Martial Arts — speakers: Martial Arts Munashe, Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-05-06 — Free Patreon episode - And Then Sparrows Took Their Eyes - Three Brothers Grimm Tales — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-04-29 — Fifth Wednesday Not-A-Lotta-Podda — speakers: Fifth Wednesday Not, Podda No, Three Bean Salad, Wednesday April, Mike Wozniak, Henry Paker, Benjamin Partridge

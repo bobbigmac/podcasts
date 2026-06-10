@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-09T20:20:35+00:00`
-- checked_at: `2026-06-09T20:20:35+00:00`
-- etag: `"djEuMi4wOjE3ODEwMjg4NDY5MTM="`
+- fetched_at: `2026-06-10T04:48:05+00:00`
+- checked_at: `2026-06-10T04:48:05+00:00`
+- etag: `"djEuMi4wOjE3ODEwNjAyNTkyNzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-09T20:20:35+00:00",
+  "fetched_at": "2026-06-10T04:48:05+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1dd6908b83557d72363102105035470e7bd70b03",
+      "title": "Ronni Ancona - \"Predicting the Future with Urine\"",
+      "published_at": "2026-06-10T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #613 - Predicting the Future with Urine - Richard is at the Podcast Room with the one-of-a-kind diamond that is Ronni Ancona. They chat about the disappointments of the Blue Peter studio, performing together at the Edinburgh Fringe 1992, how Ronni`s unlikely professional partnership with Alistair McGowan bore fruit, even after their romantic relationship had ended, having a part especially written for her on Eastenders, working with the amazing John Sessions, failing to impress her kids with her social media successes and producing movies with Sally Phillips. SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1781028659240-1254234a-11b7-45a5-a376-d8f349ff0de4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a2857eec022d9c4fe21acc9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31626714",
+      "itunes_duration": "58:25",
+      "speakers": [
+        "Ronni Ancona",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ronni",
+        "ancona",
+        "future",
+        "urine"
+      ]
+    },
     {
       "key": "6b1f658402f36eee9339cd19cf2ce87d51a44d35",
       "title": "Al Murray (Retro) - \"Too Much Farage Piss\"",
@@ -22721,6 +22743,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — Ronni Ancona - "Predicting the Future with Urine" — speakers: Ronni Ancona, Richard Herring
 - 2026-06-08 — Al Murray (Retro) - "Too Much Farage Piss" — speakers: Al Murray, Richard Herring
 - 2026-06-06 — Rich and Ally's Craven Newsround Compilation — speakers: Craven Newsround Compilation Monday, Cloaca Room, Richard Herring
 - 2026-06-05 — Alex Horne on The Last Pebble - Book Club — speakers: Alex Horne, Richard Herring

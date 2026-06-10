@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-06-08T05:01:11+00:00`
-- checked_at: `2026-06-08T05:01:11+00:00`
-- last_modified: `Sun, 07 Jun 2026 23:06:09 GMT`
+- fetched_at: `2026-06-10T04:48:05+00:00`
+- checked_at: `2026-06-10T04:48:05+00:00`
+- last_modified: `Wed, 10 Jun 2026 01:08:53 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-08T05:01:11+00:00",
+  "fetched_at": "2026-06-10T04:48:05+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c30b9ae3412a38bf47f1d3b0c7ff232586e5496b",
+      "title": "Sindhu Vee",
+      "published_at": "2026-06-10T01:00:00+00:00",
+      "link": null,
+      "description": "Comedian and Actor Sindhu Vee is in the studio and she’s brought stories galore! Her Five Things serve as catalysts to some of the funniest and most excellent stories we’ve had on the show in some time. From ‘the ability to cry on demand’ to Free Bibles and Fake Hotdogs, this is a tremendous show. Hope you enjoy listening as much as we enjoyed making it. You should go to see Sindhu live, and you can! Sindhu is out on tour with her smash hit show ’SWANKY’. 🎟️ There are a handful of European dates in the coming few days, then from September Sindhu is taking the show to theatres up and down the UK, with dates all the way through to April 2027. Many dates have already sold out so if you’re planning to buy then get on it! Check out https://sindhuvee.com/live/ for dates and tickets. 🎟️ Thanks for your presence here, you are always welcome. Even down here at the bottom of the blurb. There’s only the credits to go now. You’re like the last person in the cinema. There’s an usher waiting to clear up the popcorn. Better go now. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Why are you still here!? Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0900ce06-62ae-11f1-986d-4f043dbebb5e/image/7f2dce41d28a632d22841b8cb648aa62.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8555058477.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3826",
+      "speakers": [
+        "Sindhu Vee Comedian",
+        "Sindhu Vee",
+        "Russell Howard"
+      ],
+      "topics": [
+        "sindhu"
+      ]
+    },
     {
       "key": "a15533258c64992a9a8cfb481aa4494b3b340b57",
       "title": "Serge Pizzorno",
@@ -3093,6 +3113,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — Sindhu Vee — speakers: Sindhu Vee Comedian, Sindhu Vee, Russell Howard
 - 2026-06-03 — Serge Pizzorno — speakers: Russell Howard
 - 2026-06-01 — May's Moments of the Month — speakers: Russell Howard
 - 2026-05-27 — Rhys James — speakers: Rhys James, Russell Howard

@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-06-09T20:20:35+00:00`
-- checked_at: `2026-06-09T20:20:35+00:00`
-- last_modified: `Tue, 09 Jun 2026 15:27:54 GMT`
+- fetched_at: `2026-06-10T04:48:05+00:00`
+- checked_at: `2026-06-10T04:48:05+00:00`
+- last_modified: `Wed, 10 Jun 2026 04:06:53 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-09T20:20:35+00:00",
+  "fetched_at": "2026-06-10T04:48:05+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0008e042295b8f77c627513108d518152164fa35",
+      "title": "Please Keep Me Anonymous with Lucy Beaumont",
+      "published_at": "2026-06-10T04:03:00+00:00",
+      "link": null,
+      "description": "On this week's podcast Chris and Rosie are joined by comedian, writer and and Taskmaster alumni, Lucy Beaumont. The trio start with some trapped wind chat, Gum Tree Pets and Lucy's Ghost Cat. They discuss Lucy's upcoming tour, what YouTube is good for and why some influencers really annoy Lucy! All this plus a brilliant story from one of you lovely listeners! Lucy's tour 'Bad at Quiz Shows, Good With Weirdos' starts in September. For tickets go to lucybeaumont.co.uk If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ca43131e-63c4-11f1-b52d-171f6a3377dc/image/22c6b10a4a236360187f5613b7ce737e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2039176477.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2272",
+      "speakers": [
+        "Lucy Beaumont",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "lucy",
+        "beaumont"
+      ]
+    },
     {
       "key": "4c568b79d8a2983028990fa14da3d3525ae3b849",
       "title": "Beer Spas, Baby Shower Beef and Buying Warts",
@@ -8502,6 +8524,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — Please Keep Me Anonymous with Lucy Beaumont — speakers: Lucy Beaumont, Chris Ramsey, Rosie Ramsey
 - 2026-06-05 — Beer Spas, Baby Shower Beef and Buying Warts — speakers: Annoyed Chris, Rosie Ramsey, Chris Ramsey
 - 2026-06-03 — Please Keep Me Anonymous with Mel Giedroyc — speakers: Mel Giedroyc, Chris Ramsey, Rosie Ramsey
 - 2026-05-29 — Rosie Gets Scammed By An Inflatable D*ck — speakers: Rosie Gets Scammed, Rosie Ramsey, Chris Ramsey

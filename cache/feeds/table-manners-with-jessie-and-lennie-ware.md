@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-06-09T20:20:35+00:00`
-- checked_at: `2026-06-09T20:20:35+00:00`
-- etag: `"djEuMi4wOjE3ODEwMjUxNDM0MzM="`
+- fetched_at: `2026-06-10T04:48:05+00:00`
+- checked_at: `2026-06-10T04:48:05+00:00`
+- etag: `"djEuMi4wOjE3ODEwNDk2MzkzOTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-06-09T20:20:35+00:00",
+  "fetched_at": "2026-06-10T04:48:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e63c7eafe0dd1acfb5241e8fb9074242a212dad2",
+      "title": "Jeff Goldblum",
+      "published_at": "2026-06-10T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/jeff-goldblum",
+      "description": "The fabulous Jeff Goldblum pulls up a seat at the table this week. In the midst of his whirlwind tour of promoting his brand new album, Night Blooms, Jeff popped over to New Cross for lunch. A master storyteller, we heard about Jeff’s love of working in the UK, how he met his contortionist wife, why filming Wicked made him pescatarian, the food his family cooked while growing up, and we find out the answer to the ultimate question - ‘at what age should you show your kids the Jurassic Park films?’. Jeff is about to embark on a UK & European tour, including a night at the gorgeous Royal Albert Hall on the 30th June, don’t miss it! The brand new album Night Blooms is available now. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1781008232396-75c119df-02ce-4a57-8a78-875d6ab67bc7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a27df0d6642088a10a324e0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56137768",
+      "itunes_duration": "58:28",
+      "speakers": [
+        "Jeff Goldblum"
+      ],
+      "topics": [
+        "jeff",
+        "goldblum"
+      ]
+    },
     {
       "key": "38c4d353713e381346637751407b257b7ce86980",
       "title": "Giorgio Locatelli",
@@ -7179,6 +7198,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — Jeff Goldblum — speakers: Jeff Goldblum
 - 2026-06-03 — Giorgio Locatelli — speakers: Giorgio Locatelli Ciao, Giorgio Loc
 - 2026-05-27 — Jack Rooke — speakers: Jack Rooke
 - 2026-05-20 — Ralph Fiennes — speakers: Ralph Fiennes, David Ha

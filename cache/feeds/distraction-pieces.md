@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-06-09T15:27:35+00:00`
-- checked_at: `2026-06-09T15:27:35+00:00`
-- etag: `"djEuMi4wOjE3ODEwMTI4MzEyMTI="`
+- fetched_at: `2026-06-10T04:48:05+00:00`
+- checked_at: `2026-06-10T04:48:05+00:00`
+- etag: `"djEuMi4wOjE3ODEwNjE2MzkzNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-06-09T15:27:35+00:00",
+  "fetched_at": "2026-06-10T04:48:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c09acf5807440356c2e4343d8afd48f993cb6b9e",
+      "title": "MARK JENKIN • a Cornish Affirmative from an audience of one (Bait / Enys Men / Rose Of Nevada) #675",
+      "published_at": "2026-06-10T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by Cornwall's finest and UK film making royalty MARK JENKIN ! A total gem of an episode here, whether you are a heavyweight devotee of Mark's film output or if this is the first time you're hearing about him. Mark's got many years in the game, and in an era where almost every single thing feels digital, his approach to film making is almost as aesthetically radical as it comes - using all analogue gear, and a truly unique attitude to post-sync sound too. This chat gets into many eras and processes, including the origins of Bait (2019) which stem back to decades ago, how to tour a film, making films for an audience of self, representing the working class in an honourable way, Cornwall stereotypes, falling in love with the film making process again via Super8 cameras, the music making process and how said sync work happens. Genuine good stuff for the films heads (and, as said, those not familiar - everyone will get something from this). Oh and just TRY not to incorporate the Cornish Affirmative into you daily parlance. You can't eat the view! PIP'S PATREON PAGE if you're of a supporting nature ROSE OF NEVADA ENYS MEN BAIT ROSE OF NEVADA SOUNDTRACK (and more • Invada Records) PIP x TOMO CAMPBELL @ HARRY STYLES MELTDOWN • SOUTHBANK CENTRE SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1781012127553-01d5a164-1143-426e-8690-2bfaa79dcfcc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a28195f427484b4a43b494b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "183450339",
+      "itunes_duration": "1:16:22",
+      "speakers": [],
+      "topics": [
+        "mark",
+        "jenkin",
+        "cornish",
+        "affirmative",
+        "audience",
+        "bait",
+        "enys",
+        "rose",
+        "nevada"
+      ]
+    },
     {
       "key": "7861903b68ff6f1ec1cd52a0401d2554d0f6d3ea",
       "title": "JO WHILEY (music radio royalty) • Friday Rewind",
@@ -18955,6 +18979,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — MARK JENKIN • a Cornish Affirmative from an audience of one (Bait / Enys Men / Rose Of Nevada) #675
 - 2026-06-05 — JO WHILEY (music radio royalty) • Friday Rewind — speakers: JO Whiley
 - 2026-06-03 — IAIN LEE • a life working in and coping with the media (Impostor Syndrome / The Living Room Tour / 11 O' Clock Show) #674
 - 2026-05-29 — DJ SHADOW (Endtroducing / Quannum Projects) • Friday Rewind
