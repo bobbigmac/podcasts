@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-06-10T10:31:50+00:00`
-- checked_at: `2026-06-10T10:31:50+00:00`
-- last_modified: `Wed, 10 Jun 2026 09:51:14 GMT`
+- fetched_at: `2026-06-10T20:44:35+00:00`
+- checked_at: `2026-06-10T20:44:35+00:00`
+- last_modified: `Wed, 10 Jun 2026 20:08:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-10T10:31:50+00:00",
+  "fetched_at": "2026-06-10T20:44:35+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -32,7 +32,7 @@
       "published_at": "2026-06-08T04:59:00+00:00",
       "link": null,
       "description": "Alex Horne - comedian, creator, and the middle of three boys from Chichester - joins Harry to talk about loving school, his hard-hitting Goldsmiths student documentary about urban foxes, and whether the word \"meat\" was meant as a pun in Harry's new ballad. We also hear about a 24 hour singing challenge that accidentally lasted 25 and three quarter hours, why Alex's wife Rachel is in charge of his private pension, and a highly questionable \"life swap\" idea based entirely on dishwasher ethics. Architectural historian and seaside culture expert Dr. Kathryn Ferry stops by to celebrate Scarborough’s 400th anniversary and answer the questions that matter - did King George III actually say \"bugger Bognor\"? Why do pleasure piers have a habit of burning down? And would you buy the Brighton Palace Pier with Harry? Hit subscribe so you never miss an episode! Timestamps 00:00 – Welcome to the Hill Show! 00:36 – A Love Song for Ham 01:36 – Meet Alex Horne! 02:28 – Licky the Mascot 03:45 – The Cheshire United Pig Mascot 04:50 – The 25-and-Three-Quarter-Hour Sing-a-thon Error 06:15 – Granola Chaos Backstage at Battersea Power Station 07:18 – Dishwashing Debates & The Wife Swap Idea 10:45 – Sarah the AI Bot Claims She Felt Scammed 12:44 – Is Alex a Musician? (And the Son of a GP) 15:25 – Goldsmiths, Urban Foxes, and a Guaranteed Distinction 16:45 – Seeing Vic and Bob at the Albany Empire 18:45 – Sarah's Breakdown of Alex's Sky News Career 22:20 – Trying to Force \"Honk\" and \"Pratt Digger\" into the Dictionary 24:35 – Meeting Ken Dodd & Leaving the Show to Get a Coat 26:34 – Wafer-Thin Ham Product Recall Emergency 28:40 – Taskmaster in the Children's Ward 29:45 – The Traumatic Five-Foot Badger Story 31:04 – Wafer-Thin Ham Preventative Nose Cages 32:34 – The British Seaside ft. Dr. Catherine Ferry 35:05 – Scarborough's 400th Anniversary & The Mineral Spring 37:32 – Steamers, Trains, and Jane Austen Styles 38:45 – King George V and the Truth About \"Bugger Bognor\" 39:15 – Victorians, Bank Holidays, and the Invention of the Holiday 40:00 – The Very First Pleasure Pier on the Isle of Wight 42:50 – Buying Brighton Pier & The Fire Overheads 44:54 – Pebble Ridges, Mud, and Catherine's Postcard Book 47:45 – Name the Celebrity Seed! 52:30 – Gary's Joke Corner: Identity Politics 54:55 – Animals in Clothes Outro Song \"Alex Horne\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on Alex Horne. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
+      "image_url": "https://megaphone.imgix.net/podcasts/f590c320-60f6-11f1-bf99-4bc2b1adb17e/image/0e1cf2f6312435cefcc676ff1159f2a0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/NSR1191332481.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -117,7 +117,7 @@
       "published_at": "2026-05-18T10:59:00+00:00",
       "link": null,
       "description": "Henning Wehn, Deutschlands größter Lacher, ist diese Woche bei Harry zu Gast. Außerdem erfahren wir alles über Uhren von dem Denkmalpfleger Alex Jeffrey. Henning Wehn, Germany's biggest laugher joins Harry this week. We're learning all about Clocks with conservationist, Alex Jeffrey. \"Henning Wehn\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on Henning Wehn. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
+      "image_url": "https://megaphone.imgix.net/podcasts/e94f887a-5292-11f1-935a-3bc901474879/image/cd2f09296edc0a6802d00d75b60de34b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/NSR9113332040.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
