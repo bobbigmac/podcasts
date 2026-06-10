@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-06-09T22:49:22+00:00`
-- checked_at: `2026-06-09T22:49:22+00:00`
-- etag: `"djEuMi4wOjE3ODEwMzYyOTA1NzY="`
+- fetched_at: `2026-06-10T10:31:50+00:00`
+- checked_at: `2026-06-10T10:31:50+00:00`
+- etag: `"djEuMi4wOjE3ODEwNzkwOTc3MTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-06-09T22:49:22+00:00",
+  "fetched_at": "2026-06-10T10:31:50+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -31,7 +31,7 @@
       "title": "EP.274 - HARRY ENFIELD",
       "published_at": "2026-06-09T20:18:14+00:00",
       "link": "https://shows.acast.com/adambuxton/episodes/ep274-harry-enfie",
-      "description": "Adam talks with British comedian Harry Enfield about cringey behaviour as adolescents, coincidental similarities between their Dads, why Chrissie Hynde called Harry 'sperm of the devil', whether satire actually makes any difference, King Charles' reaction to TV comedy show The Windsors in which Harry played Charles and why Paul McCartney has seen Harry's genitals. There's also a brief taste of Adam's new comedy series SUCCESSPOD - 2026 (Audible) Conversation recorded face-to-face in London on 6 April, 2026 SUBMIT QUESTIONS FOR Q&A EPISODE : Adambuxtonpodcast@gmail.com Thanks to Diggory Waite and Claire Broughton at Hattrick and Séamus Murphy Mitchell for production support. Podcast illustration by Helen Green UPCOMING SHOWS ADAM BUXTON BAND @ Hoxton Hall, London, 23 & 24 June, 2026 (Eventim) BUG BOWIE SPECIAL @ The Lightroom, London, 17 June, 2-4 July, 2026 (Lightroom) LATITUDE 2026 Line Up and day splits (Adam Buxton Band on Friday 24 July, 2026) ADAM BUXTON PODCAST LIVE WITH MAWAAN RIZWAAN @ Roundhouse, London , 5 April, 2026 (Roundhouse) RELATED LINKS DESERT ISLAND DISCS with Harry Enfield - 1997 (BBC) HARRY ENFIELD AND NO CHUMS Review of Harry's 2026 live show - 2026 (Guardian) REVISIONIST HISTORY - THE SATIRE PARADOX - 2016 (Pushkin website) SINKING GIGGLING INTO THE SEA Jonathan Coe on satire - 2013 (London Review of Books) THE LOVE BOX IN YOUR LIVING ROOM Harry and Paul's Adam Curtis spoof/story of Britain's evolution over the last century through the life of the BBC - 2022 (BBC i-Player) HARRY AND PAUL'S STORY OF THE TWOS - 2014 (YouTube) WHERE'S THE BLOKE Harry and Paul with Catherine Shepherd - 2011 (YouTube) THE WRITER AND THE LANDLADY (Complete) Harry and Paul (YouTube) SAW YOU COMING Ruddy Hell! It's Harry And Paul - 2008 (YouTube) THE SURGEONS Harry and Paul Compilation (YouTube) RICKY GERVAIS Harry and Paul (YouTube) THE SELF RIGHTEOUS BROTHERS Harry Enfield and Chums - 1994 (YouTube) ANGRY COUPLE IN CAR Harry Enfield And Chums - 1994 (YouTube) THE PALACE OF RIGHTEOUS JUSTICE Harry Enfield's Television Programme - 1990 (YouTube) HARRY ENFIELD'S NORBERT SMITH - A LIFE - 1989 (YouTube) FRIDAY NIGHT LIVE Channel 4, including Stavros and Loadsamoney - 1988 (YouTube) Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Adam talks with British comedian Harry Enfield about cringey behaviour as adolescents, coincidental similarities between their Dads, why Chrissie Hynde called Harry 'sperm of the devil', whether satire actually makes any difference, King Charles' reaction to TV comedy show The Windsors in which Harry played Charles and why Paul McCartney has seen Harry's genitals. There's also a brief taste of Adam's new comedy series SUCCESSPOD - 2026 (Audible) Conversation recorded face-to-face in London on 6 April, 2026 SUBMIT QUESTIONS FOR Q&A EPISODE : Adambuxtonpodcast@gmail.com Thanks to Diggory Waite and Claire Broughton at Hattrick and Séamus Murphy Mitchell for production support. Podcast illustration by Helen Green UPCOMING SHOWS ADAM BUXTON BAND @ Hoxton Hall, London, 23 & 24 June, 2026 (Eventim) BUG BOWIE SPECIAL @ The Lightroom, London, 17 June, 2-4 July, 2026 (Lightroom) LATITUDE 2026 Line Up and day splits (Adam Buxton Band on Friday 24 July, 2026) ADAM BUXTON PODCAST LIVE WITH MAWAAN RIZWAAN @ Roundhouse, London , 5 April, 2026 (Roundhouse) RELATED LINKS HARRY ENFIELD & NO CHUMS TOUR 2026 DESERT ISLAND DISCS with Harry Enfield - 1997 (BBC) HARRY ENFIELD AND NO CHUMS Review of Harry's 2026 live show - 2026 (Guardian) REVISIONIST HISTORY - THE SATIRE PARADOX - 2016 (Pushkin website) SINKING GIGGLING INTO THE SEA Jonathan Coe on satire - 2013 (London Review of Books) THE LOVE BOX IN YOUR LIVING ROOM Harry and Paul's Adam Curtis spoof/story of Britain's evolution over the last century through the life of the BBC - 2022 (BBC i-Player) HARRY AND PAUL'S STORY OF THE TWOS - 2014 (YouTube) WHERE'S THE BLOKE Harry and Paul with Catherine Shepherd - 2011 (YouTube) THE WRITER AND THE LANDLADY (Complete) Harry and Paul (YouTube) SAW YOU COMING Ruddy Hell! It's Harry And Paul - 2008 (YouTube) THE SURGEONS Harry and Paul Compilation (YouTube) RICKY GERVAIS Harry and Paul (YouTube) THE SELF RIGHTEOUS BROTHERS Harry Enfield and Chums - 1994 (YouTube) ANGRY COUPLE IN CAR Harry Enfield And Chums - 1994 (YouTube) THE PALACE OF RIGHTEOUS JUSTICE Harry Enfield's Television Programme - 1990 (YouTube) HARRY ENFIELD'S NORBERT SMITH - A LIFE - 1989 (YouTube) FRIDAY NIGHT LIVE Channel 4, including Stavros and Loadsamoney - 1988 (YouTube) Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1781028149174-fd4c79b5-adc4-4a28-ade6-89db6e72be9e.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/6a285b13ec7c103dcac738d3/media.mp3",
       "enclosure_type": "audio/mpeg",

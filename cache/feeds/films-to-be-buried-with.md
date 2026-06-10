@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-06-09T20:20:35+00:00`
-- checked_at: `2026-06-09T20:20:35+00:00`
-- last_modified: `Tue, 09 Jun 2026 17:14:07 GMT`
+- fetched_at: `2026-06-10T10:31:50+00:00`
+- checked_at: `2026-06-10T10:31:50+00:00`
+- last_modified: `Wed, 10 Jun 2026 07:29:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-09T20:20:35+00:00",
+  "fetched_at": "2026-06-10T10:31:50+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -27,6 +27,30 @@
     "film"
   ],
   "episodes": [
+    {
+      "key": "4b35c791b608a4ec07d954a0c74a358be4b1fc4f",
+      "title": "Jennifer Lopez (Office Romance / Hustlers / Out Of Sight) • #398",
+      "published_at": "2026-06-10T07:29:00+00:00",
+      "link": "https://www.patreon.com/cw/brettgoldstein",
+      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe with quite literally the dream guest of Films To Be Buried With... Folks, please welcome JENNIFER LOPEZ ! This is it, people. This is the one. Listeners from the early days will know that Ms Lopez is favourite of the show, in all capacities including acting, singing, dancing - pick your craft. So it is an honour of the highest degree that it is finally time to welcome her to the podcast! Office Romance is now available on Netflix, where Jennifer and Brett co-star alongside an equally beautiful cast, and as many of you can well imagine, there are so many questions and talking points to cover in an episode like this. Well, consider none of them spoiled - dive into this one confident in the knowledge that it indeed one for the books, and already a top tier episode. It's been a long time coming but to finally see and hear it is a wonderful thing indeed. Enjoy this classic episode with, yes, Jennifer Lopez. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! ⁠⁠ Elevate your summer wardrobe — go to https://quince.com/brett for free shipping on your order and 365-day returns, now available in Canada IMDB OFFICE ROMANCE YOUTUBE MUSIC HUSTLERS OUT OF SIGHT –––––––––– ⁠⁠⁠⁠ BRETT • X ⁠⁠⁠⁠ ⁠⁠⁠⁠ BRETT • INSTAGRAM ⁠⁠⁠⁠ ⁠⁠⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠⁠⁠ ⁠⁠⁠⁠ TED LASSO ⁠⁠⁠⁠ ⁠⁠⁠⁠ SHRINKING ⁠⁠⁠⁠ ⁠⁠⁠⁠ ALL OF YOU ⁠⁠⁠⁠ ⁠⁠⁠⁠ SOULMATES ⁠⁠⁠⁠ ⁠⁠⁠⁠ SUPERBOB Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/08bdf53a-641c-11f1-a6d5-dfc81ffc388a/image/9a4e54cbb1ee76d2be8418506b1e0219.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1452693233.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4413",
+      "speakers": [
+        "Jennifer Lopez",
+        "Brett Goldstein"
+      ],
+      "topics": [
+        "jennifer",
+        "lopez",
+        "office",
+        "romance",
+        "hustlers",
+        "sight"
+      ]
+    },
     {
       "key": "5d36a5de98113e0dafbbda5a864608a5e1eb1c5c",
       "title": "Betty Gilpin (Office Romance / GLOW / The Hunt) • #397",
@@ -9465,6 +9489,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — Jennifer Lopez (Office Romance / Hustlers / Out Of Sight) • #398 — speakers: Jennifer Lopez, Brett Goldstein
 - 2026-06-03 — Betty Gilpin (Office Romance / GLOW / The Hunt) • #397 — speakers: Betty Gilpin, Brett Goldstein
 - 2026-05-27 — Amy Sedaris (Office Romance / The Mandalorian / BoJack Horseman) • #396 — speakers: Amy Sedaris, Brett Goldstein
 - 2026-05-20 — Noah Hawley (Fargo / Alien: Earth / Legion) • #395 — speakers: Noah Hawley, Brett Goldstein

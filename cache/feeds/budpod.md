@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-06-09T22:49:22+00:00`
-- checked_at: `2026-06-09T22:49:22+00:00`
-- etag: `"djEuMi4wOjE3ODEwMzk3NjQ1NTI="`
+- fetched_at: `2026-06-10T10:31:50+00:00`
+- checked_at: `2026-06-10T10:31:50+00:00`
+- etag: `"djEuMi4wOjE3ODEwNjc2OTkzMTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-06-09T22:49:22+00:00",
+  "fetched_at": "2026-06-10T10:31:50+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "be51019cd5da99d420ef376af0eb9d786a8bc7e0",
+      "title": "S2E52 | Chia Seed Man",
+      "published_at": "2026-06-10T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e52-chia-seed-man",
+      "description": "Youtube version available here! This week the buds discuss one year of Glenn on BudPod, gigantism, Easy Hotels and wackaging correspondence. This week's sketch: 'Matrix Flatmate' Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! BudPod Live is back! In Bath! Tickets available here - https://komediabath.co.uk/events/128649554-budpod-live-2026-11-03-19-00-00/ Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Pierre is on tour across the UK, Ireland and Netherlands! Tickets available now at https://www.pierrenovellie.com/ Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6a20b75ff8e85cfadafdeb2f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61474695",
+      "itunes_duration": "42:33",
+      "speakers": [
+        "Chia Seed Man",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "chia",
+        "seed"
+      ]
+    },
     {
       "key": "7f336fd5888cd13a54c5c388ae313b40a5a0898d",
       "title": "S2E51 | Mormon World Cup",
@@ -7789,6 +7810,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — S2E52 | Chia Seed Man — speakers: Chia Seed Man, Phil Wang, Pierre Novellie
 - 2026-06-03 — S2E51 | Mormon World Cup — speakers: Mormon World Cup Youtube, World Cup, Phil Wang, Pierre Novellie
 - 2026-05-27 — S2E50 | Moron Safari — speakers: Moron Safari, Cormac McC, Phil Wang, Pierre Novellie
 - 2026-05-20 — S2E49 | Late Night Sinister — speakers: Golden Globes, Phil Wang, Pierre Novellie
