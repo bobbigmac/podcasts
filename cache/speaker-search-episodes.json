@@ -11640,6 +11640,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:46481425b7bc",
+        "feed_title": "Piano Tech Radio Hour",
+        "source_rss_url": "https://feeds.transistor.fm/piano-tech-radio-hour",
+        "dedupe_key": "3cc481c4d267ee9bed09498c762ea94172470d5d",
+        "episode_key": "3cc481c4d267ee9bed09498c762ea94172470d5d",
+        "title": "Regulations and Appraisals w/ Sally Phillips and Leo Holder",
+        "published_at": "2024-03-20T22:50:22Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode, we have Sally Phillips and Leo Holder. Sally talks about the amount of regulation a new piano needs. All the work that needs to be done to a piano before delivery will save you money in after-market servicing and enable you to get the trust of a dealer. \n\nSally walks us through her checklist of things ",
+        "audio_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/p.podderapp.com/1591042662/pdrl.fm/5ebe92/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/bf353570/1446c137.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/regulations-and-appraisals-w-sally-phillips-and-leo-holder/id1513823904?i=1000649925376&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:0f9d53fd1f0f",
         "feed_title": "Cuddle Club with Lou Sanders",
         "source_rss_url": "https://feeds.acast.com/public/shows/dc460793-43f6-4464-a809-8e23f92194bb",
@@ -11871,6 +11893,28 @@
         "feed_image_url": null,
         "description": "In this information-packed session, Sally Phillips, a globally sought-after Steinway and concert prep expert, shares some of her most powerful secrets. She takes apart and puts back together the process of creating that “Perfect” piano sound. After all, she doesn’t take her brand name “Piano Perfect” lightly. \nLearn sp",
         "audio_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/p.podderapp.com/1591042662/growx.podkite.com/https/dHTapSqfIU/pdrl.fm/5ebe92/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/2b568da4/47aa28fc.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/perfecting-concert-piano-prep-w-sally-phillips/id1513823904?i=1000597540191&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:46481425b7bc",
+        "feed_title": "Piano Tech Radio Hour",
+        "source_rss_url": "https://feeds.transistor.fm/piano-tech-radio-hour",
+        "dedupe_key": "b88c3124c505932d3067777c78400342f0908448",
+        "episode_key": "b88c3124c505932d3067777c78400342f0908448",
+        "title": "Perfecting Concert Piano Prep w/ Sally Phillips",
+        "published_at": "2023-02-01T10:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this information-packed session, Sally Phillips, a globally sought-after Steinway and concert prep expert, shares some of her most powerful secrets. She takes apart and puts back together the process of creating that “Perfect” piano sound. After all, she doesn’t take her brand name “Piano Perfect” lightly. \nLearn sp",
+        "audio_url": "https://2.gum.fm/op3.dev/e/pdcn.co/e/p.podderapp.com/1591042662/pdrl.fm/5ebe92/pscrb.fm/rss/p/pdst.fm/e/dts.podtrac.com/redirect.mp3/media.transistor.fm/2b568da4/47aa28fc.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/perfecting-concert-piano-prep-w-sally-phillips/id1513823904?i=1000597540191&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,

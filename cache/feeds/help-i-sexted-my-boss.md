@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-06-10T10:31:50+00:00`
-- checked_at: `2026-06-10T10:31:50+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RFd09EUXhOell6TlRRPTo6c2F4ZXNz"`
+- fetched_at: `2026-06-11T10:57:53+00:00`
+- checked_at: `2026-06-11T10:57:53+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RFeE5UUXdOREF4T1RRPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-06-10T10:31:50+00:00",
+  "fetched_at": "2026-06-11T10:57:53+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c3cc5c0e774ea5435ef477742c24a057ecded8fa",
+      "title": "Fancy Dress Fantasies | And Dry Humping",
+      "published_at": "2026-06-11T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/fancy-dress-fantasies-and-dry-humping",
+      "description": "We all have fantasies. Some of us like a perfectly mixed Martini at midday, whereas others prefer to be tied up with a velvet dressing gown belt. And some of us like to be wooed by people dressed up as fictional characters - and it seems like there's A LOT of you who do! We also find out about a new pact William and Jordan are thinking of making together that involves dry humping. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
+      "image_url": null,
+      "enclosure_url": null,
+      "enclosure_type": null,
+      "enclosure_length": null,
+      "itunes_duration": "23:14",
+      "speakers": [
+        "Dry Humping",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "fancy",
+        "dress",
+        "fantasy",
+        "humping"
+      ]
+    },
     {
       "key": "74f80ee582f408b34fe92e45e5c869ec961e15ee",
       "title": "Help He’s Got Secret Viagra | And Bussing It With Wayne Rooney",
@@ -14457,6 +14480,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — Fancy Dress Fantasies | And Dry Humping — speakers: Dry Humping, William Hanson, Jordan North
 - 2026-06-09 — Help He’s Got Secret Viagra | And Bussing It With Wayne Rooney — speakers: Wayne Rooney, William Hanson, Jordan North
 - 2026-06-05 — Help I Sexted Toni And Ryan! | With Titanic Reenactments — speakers: William Hanson, Jordan North
 - 2026-06-02 — Help He’s Entering My Tardis | And We've Got A New Studio! — speakers: William Hanson, Jordan North

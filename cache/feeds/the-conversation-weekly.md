@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-06-10T16:09:06+00:00`
-- checked_at: `2026-06-10T16:09:06+00:00`
-- etag: `"25590b-653e5cd53c4d1"`
-- last_modified: `Wed, 10 Jun 2026 12:58:37 GMT`
+- fetched_at: `2026-06-11T10:57:53+00:00`
+- checked_at: `2026-06-11T10:57:53+00:00`
+- etag: `"257238-653f64f8fcdf9"`
+- last_modified: `Thu, 11 Jun 2026 08:40:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-06-10T16:09:06+00:00",
+  "fetched_at": "2026-06-11T10:57:53+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,26 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "a80709796280b97ba656e9545f376a425093685b",
+      "title": "How the US finally fell in love with soccer",
+      "published_at": "2026-06-11T08:40:00+00:00",
+      "link": "https://theconversation.com/how-the-us-finally-fell-in-love-with-soccer-284984",
+      "description": "When Roberto Baggio missed a penalty in the 1994 Fifa World Cup final at the Rose Bowl in Pasadena, California, more than 94,000 people were there to watch Italian heartbreak and Brazilian ecstasy. To this day, no other World Cup has been as well attended as the 1994 tournament. Tickets were cheap and abundant, and despite the relatively low profile of the game in the US compared to sports like baseball or basketball, people went along to see what it was all about. Now, three decades later, as the 2026 World Cup returns to North America with games across Mexico, Canada and the US, soccer has grown a much larger and more dedicated fan base in America. In this episode, we speak to John Sloop , a professor of communication studies at Vanderbilt University in Nashville, Tennessee, and historian of soccer and its fans in the United States, about what’s changed for the men’s game in the US and whether the popularity has staying power. This episode was written and produced by Gemma Ware, Katie Flood and Mend Mariwany. Mixing by Michelle Macklem and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Is soccer taking over America … or are Americans taking over football? How apartheid, European racism and Pelé helped cultivate a culture of diversity in US soccer that endures into Messi-era MLS Soaring ticket prices could help FIFA pull in $15B this World Cup cycle — where does the money come from, where does it go?",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/308bf3d2-2b8a-4a8f-9bbb-da07eb3c2e01.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36924856",
+      "itunes_duration": "25:39",
+      "speakers": [
+        "Roberto Baggio",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "love",
+        "soccer"
+      ]
+    },
     {
       "key": "8cc6399ea5c39e24a4b48aa139da7fb7b1a04527",
       "title": "Two scientists on their race to make a new Ebola vaccine",
@@ -5976,6 +5996,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — How the US finally fell in love with soccer — speakers: Roberto Baggio, Gemma Ware
 - 2026-06-04 — Two scientists on their race to make a new Ebola vaccine — speakers: Democratic Republic, Gemma Ware
 - 2026-05-28 — The salt caverns used to stockpile oil — speakers: Gemma Ware
 - 2026-05-21 — Argentina’s inflation ‘miracle’ is more of a mirage — speakers: Javier Milei, Gemma Ware

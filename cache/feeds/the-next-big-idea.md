@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-06-11T04:58:29+00:00`
-- checked_at: `2026-06-11T04:58:29+00:00`
-- last_modified: `Thu, 11 Jun 2026 01:36:24 GMT`
+- fetched_at: `2026-06-11T10:57:53+00:00`
+- checked_at: `2026-06-11T10:57:53+00:00`
+- last_modified: `Thu, 11 Jun 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-11T04:58:29+00:00",
+  "fetched_at": "2026-06-11T10:57:53+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,32 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "922189b3779af25fafcb3f96754b74bb14e4575f",
+      "title": "The Case for AI Optimism with Peter Diamandis and Steven Kotler",
+      "published_at": "2026-06-11T09:00:00+00:00",
+      "link": null,
+      "description": "Nearly half of all Americans believe AI is bad for humanity. Peter Diamandis is not one of them. On his podcast, Moonshots , and in his new book, We Are as Gods , co-written with the inimitable Steven Kotler, he makes the case that artificial intelligence is already ushering in a world of abundance — think radical life extension, 10 billion humanoid robots, and agents that do your job while you're sipping a latte. He knows it may not be all sunshine and hydroponic roses, but he believes our future is incredibly bright. And he's putting his money where his mouth is: XPRIZE, the nonprofit he founded more than 30 years ago to bankroll breakthroughs, just announced it's giving $3.5 million to filmmakers who conjure convincingly optimistic visions of the future. Rufus and Caleb don't have their film treatment ready yet, but they do have plenty of questions for Peter and Steven about flying cars, the future of work, worst-case scenarios, and the new commandments for working with AI. 💬 LINES WE LOVE: “If you’re in ninth grade and you’re using AI to do your homework, that’s just stupid, and you shouldn’t be allowed to do that. But if you’re in ninth grade and you’re using AI to help you build a starship to go to Alpha Centauri, or create a new form of energy, or something that’s way beyond your dreams — and it’s enabling you to up-level your ambition and your abilities — then that’s amazing.” —Peter Diamandis “Human writing is weird, it's surprising, it's idiosyncratic, it has high prediction error. An LLM optimizes towards the mean, towards the average. It standardizes output... [It] may make your writing look a lot cleaner to you, but it's actually hurting communication and it's hurting persuasion. Average gets ignored; remarkable gets remembered.” —Steven Kotler \"I'm not worried about artificial intelligence. I'm worried about human stupidity.” —Peter Diamandis 🎬 The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠here⁠⁠⁠ . 📱 Follow Rufus on ⁠⁠LinkedIn⁠⁠ , subscribe to our ⁠⁠Substack⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠. 🎁 The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠nextbigideaclub.com⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). 🔗 SPONSORED BY: Fora ➡️ Build and scale your own travel business by becoming a Fora Advisor today at foratravel.com/idea Northwest Registered Agent ➡️ Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Shopify ➡️ Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP4430928904.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3987",
+      "speakers": [
+        "Peter Diamandis",
+        "Steven Kotler",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "case",
+        "optimism",
+        "peter",
+        "diamandis",
+        "steven",
+        "kotler"
+      ]
+    },
     {
       "key": "8e5e9965dc50c24de3bef0143feacfa99f47a113",
       "title": "Best Of: The Power of Thinking Outside Your Brain",
@@ -7877,6 +7903,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — The Case for AI Optimism with Peter Diamandis and Steven Kotler — speakers: Peter Diamandis, Steven Kotler, Rufus Griscom, Caleb Bissinger
 - 2026-06-08 — Best Of: The Power of Thinking Outside Your Brain — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-06-04 — Want to Be Happier? Try Talking to Strangers. — speakers: Nicholas Epley, Rufus Griscom, Caleb Bissinger
 - 2026-06-01 — Best Of: Gretchen Rubin’s Guide to Getting Out of Your Head and Into the World — speakers: Gretchen Rubin’s Guide, Rufus Griscom, Caleb Bissinger

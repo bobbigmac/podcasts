@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-06-06T14:07:25+00:00`
-- checked_at: `2026-06-06T14:07:25+00:00`
-- etag: `"25d03fab683d3366a60ac159ddae3a50"`
-- last_modified: `Sat, 06 Jun 2026 11:39:04 GMT`
+- fetched_at: `2026-06-11T10:57:53+00:00`
+- checked_at: `2026-06-11T10:57:53+00:00`
+- etag: `"ee07bd7d14923a946e696e614f4993c1"`
+- last_modified: `Thu, 11 Jun 2026 08:37:47 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-06-06T14:07:25+00:00",
+  "fetched_at": "2026-06-11T10:57:53+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -27,6 +27,27 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "5ef3412c492111e83140d3d79598691c7aaf581b",
+      "title": "Socks in the Frying Pan Interview #762",
+      "published_at": "2026-06-11T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/socks-in-the-frying-pan-interview-762",
+      "description": "Socks in the Frying Pan joins me for a conversation in episode 762 of the Irish & Celtic Music Podcast. We dig into who they are, how they got here, and where they're going. Plus an hour of great Celtic music to go along with it. - - Subscribe now at CelticMusicPodcast.com ! Socks in the Frying Pan, Téada, Amadan, Old Man Flanagan's Ghost, The Celtic Kitchen Party, Brobdingnagian Bards, The Gothard Sisters GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! THIS WEEK IN CELTIC MUSIC 0:09 - Téada \"Reels - Paddy Ryan's Dream / The Winding Roads of Advance / Danny Meehan's / Mick Fitzpatrick's\" from Coiscéim Coiligh / As the Days Brighten 4:15 - WELCOME 5:54 - Amadan \"Johnny Jump Up / Swallow Tail Jig\" from Sons of Liberty and The Secret World of Celtic Rock 10:16 - Old Man Flanagan's Ghost \"Fisher's Hornpipe\" from LIVE 13:43 - INTERVIEW INTRO 14:34 - INTERVIEW WITH SOCKS IN THE FRYING PAN 19:23 - Socks in the Frying Pan \"Beetlejig Beetlejig Beetlejig!\" from Waiting for Inspiration 25:37 - \"The Slipjigs & Reels\" from Socks in the Frying Pan 40:12 - \"The Finale\" from Socks in the Frying Pan 46:41 - \"Mormond Braes (Live)\" from Raw & Ríl (Live) 50:57 - INTERVIEW OUTRO 51:04 - The Celtic Kitchen Party \"Covid - 19 Shanty\" from Last Call 52:51 - Brobdingnagian Bards \"Johnny at the Door\" from Songs of Ireland 56:27 - CLOSING 57:36 - The Gothard Sisters \"The Sailor and the Mermaid\" from Story Girl 1:01:43 - CREDITS Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. Support for this program comes from John Sharkey White, II. Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Hank Woodward. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Clean energy is one of the most powerful tools we have to fight climate change. Solar, wind, hydro - every kilowatt of clean power pushes fossil fuels a little further out the door. The big picture matters. And so do the small choices you make every day. This week's tip comes from the 5 Rs of Sustainability. The second one is Reduce. You don't have to go off the grid to make a difference. Just use less. Turn off lights you don't need. Buy fewer things you don't use. Cut back where you can. Small reductions add up fast - and they cost you nothing. Your wallet and the planet will both thank you. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories. Every song has a story, every episode is a toast to Celtic and folk songwriters. Discover the stories behind the songs from the heart of the Celtic pub scene. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email the artists to let them know you heard them on the Irish & Celtic Music Podcast. These musicians are not part of some corporation. They are small indie groups that rely on people just like you to support their music so they can keep creating it. Please show your generosity. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . ALBUM PINS ARE CHANGING THE WAY WE HEAR CELTIC MUSIC Looking for a fresh way to support the music you love? Meet the Album Pin. Album Pins are lapel pins themed to a specific album — and each one comes with a digital download. Wear your music. All of my latest pins are wood - burned and locally produced, which means a smaller footprint and a one - of - a - kind feel you won't find anywhere else. Pick yours up at magerecords.com THANK YOU PATRONS OF THE PODCAST! The Irish & Celtic Music Podcast is listener - supported, and that support makes episodes like this one possible. Bringing in an interview with Socks in the Frying Pan, keeping the show weekly, celebrating independent Celtic artists - it all happens because of you. Your generosity funds the podcast, the Celtic Top 20, the blog, and the community that keeps growing around this music every week. Thousands of listeners tune in each month because people like you make sure the show keeps going. As a patron you get early access to episodes, bonus content, and a vote in the Celtic Top 20 - the listener poll that helps shape what you hear. And you can even become part of SongHenge, to get even more. A special thanks to our Celtic Legends: Fuzzy, Dave and Rosie Donnelly, Rick Boyce, Bruce, Daniel Ide, Brian McReynolds, Marti Meyers, Alan Schindler, Margreta Silverstone, Emma Bartholomew, Dan mcDade, Jeff A, Gerald F Boyle, Miranda Nelson, Nancie Barnett, Gary R Hook, Lynda MacNeil, Kelly Garrod, Mike Schock, Shawn Cali HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $25. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. Learn more about the invasion at http://celticinvasion.com/ #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo. If you're in a Celtic band, send me an audio recording of you performing live. Just audio. I'll use it in a podcast episode later this year. Email me at follow@bestcelticmusic. River replied to my question, \"how does the podcast make your life better?\"Marc, Your music and podcasts have helped me through so many parts of my life! Without knowing it, you have seen me through multiple deaths in my family, broken relationships, moving from one state to another, and multiple surgeries. Of course you have also been there through the many good times, such as meeting my awesome wife and the birth of our daughter! I found your podcast back in 05 or 06 while living in Florida by chance and became an instant fan. It took no time for me to download all of your music and the Brobdingnagian Bards music I could! Congratulations on over 20 years of podcasting and (if my math is right) about 3 decades of music! Keep up the amazing work! Your Constant Listener, ~River\" Woodland Folk sent a picture of a fiddler. Is that Woodland Folk? He didn't say, but thank you for the photo! Cristen Y messaged on Patreon: \"Greetings! I found a few resources on my own about keening! Not sure if you know about these folks but there is a great podcast I found called Candlelit Tales. The hosts tell Irish stories and then discuss them afterwards; they talked about keening on their March 15, 2020 episode titled \"Whelans Live - Queen of the Banshee\" in case you want to check it out :) I appreciate you!\"",
+      "image_url": "https://static.libsyn.com/p/assets/1/6/7/f/167f5870340690e516c3140a3186d450/762-SocksintheFryingPanInterview-1400.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-762.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61181436",
+      "itunes_duration": "01:03:19",
+      "speakers": [
+        "Frying Pan",
+        "Celtic Music Podca",
+        "Marc Gunn"
+      ],
+      "topics": [
+        "sock",
+        "frying"
+      ]
+    },
     {
       "key": "959cab122d664bd5c215d2fa5d8c11651917da2c",
       "title": "Last Night in the Hills of Ireland #761",
@@ -16281,6 +16302,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — Socks in the Frying Pan Interview #762 — speakers: Frying Pan, Celtic Music Podca, Marc Gunn
 - 2026-06-04 — Last Night in the Hills of Ireland #761 — speakers: Last Night, Marc Gunn
 - 2026-05-28 — Child of Alba, Crossing to Ireland #760 — speakers: Marc Gunn
 - 2026-05-21 — Irish Music to Stir the Blood #759 — speakers: Irish Music, Marc Gunn

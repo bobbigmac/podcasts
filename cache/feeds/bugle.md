@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-06-10T20:44:35+00:00`
-- checked_at: `2026-06-10T20:44:35+00:00`
-- etag: `"djEuMi4wOjE3ODExMTQzMTI2MzA="`
+- fetched_at: `2026-06-11T10:57:53+00:00`
+- checked_at: `2026-06-11T10:57:53+00:00`
+- etag: `"djEuMi4wOjE3ODExNjIxMzkyMTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-06-10T20:44:35+00:00",
+  "fetched_at": "2026-06-11T10:57:53+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "140262d618f71eceb28bf9af5f963e93d4a92d6a",
+      "title": "Trump's cross, what is it this time?",
+      "published_at": "2026-06-11T07:15:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/trumps-cross-what-is-it-this-time",
+      "description": "On this week's issue of the Bugle, Andy is joined by Sara Barron and the long awaited return of Chris Addison, as the three jump straight into the week's news discussing the 47th president of the United States, late night rage call to Netanyahu, the possible impending ban on social media, the US banning entry to Somalian official Omar Artan and news on the latest Bond and are producers bias? All this in issue 4382 of The Bugle! 🇺🇸 Trump's angry call: The Bugle catch up on the recent news of Donald Trump and Benjamin Netanyahu late night call 📱 Social Media Ban: UK governments new efforts to get kids off their phones 🌍 World Cup Chaos: Andy, Sara and Chris report on the story of Somalian referee Omar Artan denied entry into the US Andy's Links: https://www.andyzaltzman.co.uk/ Sara Barron's Links: https://www.instagram.com/sarabarron1000000/?hl=en Chris Addison's Links: https://www.instagram.com/mrchrisaddison/?hl=en 🎤 Get tickets for the LIVE episode of The Gargle HERE https://www.angelcomedy.co.uk/event-detail/the-gargle-live-fri-26th-jun-the-bill-murray-london-tickets-202606261800/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a29a51a9068bf0408806170/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44684852",
+      "itunes_duration": "46:32",
+      "speakers": [
+        "Sara Barron",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "trump",
+        "cross",
+        "time"
+      ]
+    },
     {
       "key": "fc423d22b5d77ce1cf90582ab00192e01755b9c2",
       "title": "Iran tries to buy time, Trump outbids them",
@@ -14275,6 +14296,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — Trump's cross, what is it this time? — speakers: Sara Barron, Andy Zaltzman
 - 2026-06-04 — Iran tries to buy time, Trump outbids them — speakers: Mark Steel, Andy Zaltzman
 - 2026-05-28 — Woolly Mammoth or Inflation? You Decide! — speakers: Anuvab Pal, Andy Zaltzman
 - 2026-05-20 — Starmer's still PM (just) — speakers: Alice Fraser, Josh Gondelman, Andy Zaltzman
