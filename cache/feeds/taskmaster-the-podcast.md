@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"d6dd7-6537369e13e9f"`
-- last_modified: `Thu, 04 Jun 2026 20:30:22 GMT`
+- fetched_at: `2026-06-11T22:58:26+00:00`
+- checked_at: `2026-06-11T22:58:26+00:00`
+- etag: `"d773c-65400706d5143"`
+- last_modified: `Thu, 11 Jun 2026 20:45:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-11T22:58:26+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cfa2cc1f651c0cf2d14faf06bd6bfdb92946372c",
+      "title": "*Series 21 Winner* Series 21 Ep 10",
+      "published_at": "2026-06-11T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "It's a bittersweet day, we have a winner but we also have to bid farewell to a fantastic series! Thank you to all the wonderful guests who have help dig deep in to the narrative of Series 21, it has been a blast. And thank you all for listening! On this week's podcast Ed sits down with the winner of the series and they go through some of their personal highs a lows from the show, it's a real treat! To catch up on all your Taskmaster series go to channel4.com For all the brilliliant BTS and visualised podcast visit the Taskmaster YouTube Channel and for all your merch and goodies, go to taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/43091924-d158-4b74-a8cf-6ad51098e86d.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=43091924-d158-4b74-a8cf-6ad51098e86d",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63358283",
+      "itunes_duration": "01:06:00",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "series",
+        "winner"
+      ]
+    },
     {
       "key": "24227d16f102e9c0ad532789197cf93094a6e92a",
       "title": "Kumail Nanjiani - Series 21 Ep.9",
@@ -5420,6 +5439,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — *Series 21 Winner* Series 21 Ep 10 — speakers: Ed Gamble
 - 2026-06-04 — Kumail Nanjiani - Series 21 Ep.9 — speakers: Ed Gamble
 - 2026-05-28 — Jason Mantzoukas - Series 21 Ep.8 — speakers: Ed Gamble
 - 2026-05-21 — John Kearns - Series 21 Ep.7 — speakers: Ed Gamble, John Kearns
