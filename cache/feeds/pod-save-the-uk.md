@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `W/"b32636b5ec9852c116de4e604a9fe6e8"`
-- last_modified: `Thu, 04 Jun 2026 10:14:53 GMT`
+- fetched_at: `2026-06-11T04:58:29+00:00`
+- checked_at: `2026-06-11T04:58:29+00:00`
+- etag: `W/"4dd635d1df93d2a2bc38c877a69f0d1c"`
+- last_modified: `Thu, 11 Jun 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-11T04:58:29+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9ec1a514127da79658c76671574cb827f2492943",
+      "title": "Hasan Piker: “Not Conducive to the Public Good”? w/ Hasan Piker",
+      "published_at": "2026-06-11T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8914988",
+      "description": "This week, as the far-right continues to fan the flames of violence and division, Coco and Nish are joined by Hasan Piker: Twitch streamer, influencer, and left-wing political commentator who was recently blocked from entering the UK. They dig into what makes him “not conducive to the public good”, and why it’s important to speak the truth–however that comes across. They also talk about political allegiances, the future of progressive politics, and the worrying rise of far-right MAGA movements across the world. Does a Labour government have the answer? GUESTS Hasan Piker CHECK OUT THESE DEALS FROM OUR SPONSORS AURA FRAMES: https://www.auraframes.co.uk Code: PSTUK WISE: https://www.wise.com BT: Search ‘Why BT’ to find out more. Pod Save the UK is an Intelligence Squared production for Crooked Media. Get in touch - contact us via email: podsavetheuk@crooked.com Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43691359/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8914988.mp3?modified=1781112700&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3858",
+      "speakers": [
+        "Hasan Piker",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "hasan",
+        "piker",
+        "public",
+        "good"
+      ]
+    },
     {
       "key": "96b27289116b82600c7c35a6364bdf7a449e0a09",
       "title": "The Mandelson Files: Chaos Inside Labour? Plus: Sabah Choudrey on the Culture War over Public Spaces",
@@ -3853,6 +3876,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — Hasan Piker: “Not Conducive to the Public Good”? w/ Hasan Piker — speakers: Hasan Piker, Nish Kumar, Coco Khan
 - 2026-06-04 — The Mandelson Files: Chaos Inside Labour? Plus: Sabah Choudrey on the Culture War over Public Spaces — speakers: Sabah Choudrey, Peter Mandelson, Nish Kumar, Coco Khan
 - 2026-05-28 — We Read Tony Blair So You Don’t Have To. Plus: Who Really Owns Britain? w/Hettie O’Brien — speakers: Nish Kumar, Coco Khan
 - 2026-05-21 — Starmer clings on, Burnham steps up w/ MP Nadia Whittome — speakers: Nish Kumar, Coco Khan

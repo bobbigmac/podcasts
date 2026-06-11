@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-06-10T16:09:06+00:00`
-- checked_at: `2026-06-10T16:09:06+00:00`
+- fetched_at: `2026-06-11T04:58:29+00:00`
+- checked_at: `2026-06-11T04:58:29+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Wed, 10 Jun 2026 14:49:40 GMT`
+- last_modified: `Thu, 11 Jun 2026 04:10:35 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-10T16:09:06+00:00",
+  "fetched_at": "2026-06-11T04:58:29+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ea536c4692e614225cafd485800332028cd57fd5",
+      "title": "AJ Odudu",
+      "published_at": "2026-06-11T04:00:00+00:00",
+      "link": null,
+      "description": "Oh, what fun was had this week when the delightful AJ Odudu popped into the garden for a potter and a chat! Brilliant presenter and joyful human being, AJ has graced our screens presenting hit shows such as Big Brother, The Big Breakfast, M&S: Dress The Nation (ah, lovely M&S), and of course, cha cha cha’d her way to the Strictly final in 2021! 🌼💃 This week we chat the thoughts and feelings of plants, discover AJ’s ideal mattress, and discuss the World Cup and its oh so complicated rules. ⚽ We also hear a delightful story involving Channing Tatum, Jessie J and a backroom filled with bottles, so do listen up! 🍸 Now, get down off of that top bunk, pour yourself a Martini and come Pottering with me. 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, that would be lovely, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2dab5dbc-64ba-11f1-9bc5-6740db967737/image/0b8304d7f08cfdb0f89a4a8c18ffa0b3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2184984923.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3220",
+      "speakers": [
+        "Odudu Oh",
+        "Tom Allen"
+      ],
+      "topics": [
+        "odudu"
+      ]
+    },
     {
       "key": "f7ab4b0f78bd537b45d4be3a513bb08dabbb8da4",
       "title": "Kiri Pritchard-McLean",
@@ -808,6 +827,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — AJ Odudu — speakers: Odudu Oh, Tom Allen
 - 2026-06-04 — Kiri Pritchard-McLean — speakers: Kiri Pritchard, Tom Allen
 - 2026-05-28 — Sara Cox — speakers: Sara Cox, Tom Allen
 - 2026-05-21 — Laura Checkley — speakers: Laura Checkley, Tom Allen

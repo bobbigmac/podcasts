@@ -2,8 +2,8 @@
 
 - slug: `from-the-fringe`
 - source: `https://www.fubarradio.com/player/on-demand/from-the-fringe/`
-- fetched_at: `2026-06-10T22:56:28+00:00`
-- checked_at: `2026-06-10T22:56:28+00:00`
+- fetched_at: `2026-06-11T04:58:29+00:00`
+- checked_at: `2026-06-11T04:58:29+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/from-the-fringe/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/from-the-fringe/",
   "image_url": "",
-  "fetched_at": "2026-06-10T22:56:28+00:00",
+  "fetched_at": "2026-06-11T04:58:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

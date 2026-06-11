@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-06-10T20:44:35+00:00`
-- checked_at: `2026-06-10T20:44:35+00:00`
-- last_modified: `Wed, 10 Jun 2026 19:59:49 GMT`
+- fetched_at: `2026-06-11T04:58:29+00:00`
+- checked_at: `2026-06-11T04:58:29+00:00`
+- last_modified: `Wed, 10 Jun 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-10T20:44:35+00:00",
+  "fetched_at": "2026-06-11T04:58:29+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ae68679359030a47d2dd83054fe8b08bcea0cd21",
+      "title": "Which World Cup Footballers Would Shanthi Date?",
+      "published_at": "2026-06-10T23:01:00+00:00",
+      "link": null,
+      "description": "Would Shanthi date Harry Kane? In this Thursday episode of The Romesh Ranganathan Show, Shanthi puts some of football's biggest names under the microscope as she decides which World Cup stars she'd date, which she'd avoid and why Cristiano Ronaldo could be her son. Romesh attempts to teach Shanthi some football phrases ahead of the World Cup, Shanthi shares the story of the time she crashed into Romesh's gate, and there's a heated debate about whether Lionel Messi is actually as nice as everyone thinks he is. Plus, we answer your listener dilemmas, including how to approach a neighbour about dog sitting and advice for parents navigating the teenage years. A Ranga Bee Production in partnership with Platform. Chapters 00:00 Intro 04:14 Shanthi calls out Rom 07:51 World Cup chat 10:02 Romesh calls out TV Channels 10:46 God visited Shanthi 11:25 A dating game 23:04 The pizza van debacle 25:45 Shanthi wrecked Romesh’s gate 27:41 Detective Shanthi 29:17 Shanthi tries some footy cheers 38:12 On Emily Atack 40:40 Does Shanthi get nervous? 43:15 Answering your questions 54:08 Advice on parenting teenagers 01:00:44 Outro This episode is brought to you by Dear England - the new new fictionalised drama from BBC. Watch on www.bbc.co.uk/iplayer Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/59d64d56-64fc-11f1-a417-9f238da52181/image/d48c77dfe4d6e7e31bbcae257f8dfa83.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9480506698.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3889",
+      "speakers": [
+        "Harry Kane",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "world",
+        "footballer",
+        "shanthi",
+        "date"
+      ]
+    },
     {
       "key": "a84d058c6a8db40e148f7842de2f092efe67f2a4",
       "title": "Emily Atack on The Inbetweeners, Unwanted DMs and Nobody’s Fool",
@@ -1728,6 +1750,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-10 — Which World Cup Footballers Would Shanthi Date? — speakers: Harry Kane, Romesh Ranganathan
 - 2026-06-07 — Emily Atack on The Inbetweeners, Unwanted DMs and Nobody’s Fool — speakers: Romesh Ranganathan
 - 2026-06-03 — Shanthi’s Love Languages & Philosophical Questions — speakers: Love Languages, Philosophical Questions What, Romesh Ranganathan
 - 2026-05-31 — The Wayans Brothers on Scary Movie, White Chicks & How Comedy Has Gone Woke — speakers: Shawn Wayans, Romesh Ranganathan
