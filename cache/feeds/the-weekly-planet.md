@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-06-08T11:20:12+00:00`
-- checked_at: `2026-06-08T11:20:12+00:00`
-- etag: `"djEuMi4wOjE3ODA4OTkyNjcwMzk="`
+- fetched_at: `2026-06-11T16:20:31+00:00`
+- checked_at: `2026-06-11T16:20:31+00:00`
+- etag: `"djEuMi4wOjE3ODExODQ2Mzk0MTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-06-08T11:20:12+00:00",
+  "fetched_at": "2026-06-11T16:20:31+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7664b0e9201d514bc4e5bb879d78a66a9086511a",
+      "title": "Smallville's Supergirl - Caravan Of Garbage",
+      "published_at": "2026-06-11T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/smallvilles-supergirl-caravan-of-garbage",
+      "description": "Its time to return to Earth-167! Which you would obviously know as the universe of Smallville, the smash hit ten season long Superman original series that managed to introduce EVERY. SINGLE. DC. CHARACTER. before Clark Kent decides to put on the suit. This time we're going to be covering the storyline of Kara Zor-El aka Supergirl as played by Laura Vandervoort introduced in Season 7. And we've discovered so much more about this show including how many character get clones or are clones (it's a lot which is exciting). Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a1d166d302b9e359cc670e4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27666452",
+      "itunes_duration": "27:09",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "smallville",
+        "supergirl",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "eb92156dab4730b309e1f3d1a02f6b33b29f15ce",
       "title": "626 Masters of the Universe & Summer Games Fest 2026",
@@ -22460,6 +22482,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — Smallville's Supergirl - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-06-08 — 626 Masters of the Universe & Summer Games Fest 2026 — speakers: Summer Games Fest, James Clement, Nick Mason
 - 2026-06-04 — The Fifth Element (Extended) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-06-01 — 625 Backrooms & Spider-Noir — speakers: Noir Welcome, James Clement, Nick Mason

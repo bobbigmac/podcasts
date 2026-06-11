@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"346679c0931f957328a5dbeb758d9c11"`
-- last_modified: `Thu, 04 Jun 2026 12:00:05 GMT`
+- fetched_at: `2026-06-11T16:20:31+00:00`
+- checked_at: `2026-06-11T16:20:31+00:00`
+- etag: `"30eb9329f2d2c1765d3f84e45851683a"`
+- last_modified: `Thu, 11 Jun 2026 13:00:14 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-11T16:20:31+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -202,37 +202,6 @@
         "brettingham",
         "ignacio"
       ]
-    },
-    {
-      "key": "228acfe8e1c331548679a29a4b05cc9e55ee81fc",
-      "title": "Glasgow International Comedy Festival Special: Ashley Storrie, Jim Smith, Elaine Malcolmson and Chris Thorburn",
-      "published_at": "2026-03-13T14:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m002sd05",
-      "description": "Des and the teams are at the Glasgow International Comedy Festival to break up the week's big news, including: The rise in the price of oil, Scotland’s hopes in the Six Nations Rugby, a pill that could help you slow down ageing, a coffee shop where people rave, controversial comments from Timothée Chalamet, and more. Lead Writer: Alice Gregg Additional material: Claire Cox, Chris Stanners, Jennifer Walker, Nathan Cowley, Rachel Powell, Alan Hazlie, Cooper Mawhinney Sweryt, Chrissie Homer-Greenslade, Gregor Paton, Fearghas Kelly, Jon Paisley and Paul Brown Producer: Lauren Mackay Senior Producer: David Flynn Researcher: Chris Quilietti Script Editor: Keiron Nicholson An Eco-Audio certified Production",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n6gpyl.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26880000",
-      "itunes_duration": "1680",
-      "speakers": [
-        "Ashley Storrie",
-        "Jim Smith",
-        "Elaine Malcolmson",
-        "Chris Thorburn",
-        "Bbc Radio Scotland"
-      ],
-      "topics": [
-        "glasgow",
-        "international",
-        "comedy",
-        "festival",
-        "special",
-        "ashley",
-        "storrie",
-        "smith",
-        "elaine",
-        "malcolmson"
-      ]
     }
   ]
 }
@@ -247,4 +216,3 @@
 - 2026-04-03 — Chris Forbes, Kemah Bob, Kate Hammer and Stuart McPherson — speakers: Chris Forbes, Kemah Bob, Kate Hammer, Stuart McPherson, Bbc Radio Scotland
 - 2026-03-27 — Glasgow International Comedy Festival Special: Susie McCabe, Aurie Styla, Tiffany Stevenson and Rosco McClelland — speakers: Susie McCabe, Aurie Styla, Rosco McClelland, Bbc Radio Scotland
 - 2026-03-20 — Glasgow International Comedy Festival Special: Raymond Mearns, Madeleine Brettingham, Ignacio Lopez and Alexandra Haddow — speakers: Raymond Mearns, Madeleine Brettingham, Ignacio Lopez, Alexandra Haddow Des, Bbc Radio Scotland
-- 2026-03-13 — Glasgow International Comedy Festival Special: Ashley Storrie, Jim Smith, Elaine Malcolmson and Chris Thorburn — speakers: Ashley Storrie, Jim Smith, Elaine Malcolmson, Chris Thorburn, Bbc Radio Scotland
