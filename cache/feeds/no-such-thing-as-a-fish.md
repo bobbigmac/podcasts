@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-06-08T05:01:11+00:00`
-- checked_at: `2026-06-08T05:01:11+00:00`
-- etag: `W/"b864065453701db001265cae834e78e2"`
-- last_modified: `Sun, 07 Jun 2026 22:55:00 GMT`
+- fetched_at: `2026-06-11T20:35:15+00:00`
+- checked_at: `2026-06-11T20:35:15+00:00`
+- etag: `W/"46cad0c04ae898748dc25df8180ab779"`
+- last_modified: `Thu, 11 Jun 2026 16:19:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-06-08T05:01:11+00:00",
+  "fetched_at": "2026-06-11T20:35:15+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -335,10 +335,10 @@
       "link": "https://audioboom.com/posts/8894519",
       "description": "Cariad Lloyd joins Dan, James and Andy to discuss beeps, Pepys, embryos and streaming shows. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
       "image_url": "https://audioboom.com/i/43611609.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8894519.mp3?modified=1776945445&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8894519.mp3?modified=1781194606&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3432",
+      "itunes_duration": "3293",
       "speakers": [
         "Dan Schreiber",
         "James Harkin",

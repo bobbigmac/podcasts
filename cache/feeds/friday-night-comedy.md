@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-06-10T20:44:35+00:00`
-- checked_at: `2026-06-10T20:44:35+00:00`
-- etag: `"e31d77f43008a562a305caa5d7b496af"`
-- last_modified: `Wed, 10 Jun 2026 18:05:02 GMT`
+- fetched_at: `2026-06-11T20:35:15+00:00`
+- checked_at: `2026-06-11T20:35:15+00:00`
+- etag: `"c514f5ce5203849ca02fa4dac94668b3"`
+- last_modified: `Thu, 11 Jun 2026 17:38:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-06-10T20:44:35+00:00",
+  "fetched_at": "2026-06-11T20:35:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5428,27 +5428,6 @@
         "ringers",
         "june"
       ]
-    },
-    {
-      "key": "896634036d69e601411218e8db04bff3efcc67d5",
-      "title": "Dead Ringers 11th June 2021",
-      "published_at": "2021-06-14T12:38:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09l7crj",
-      "description": "Will England come out of lockdown on the 21st of June, how should the last series of Line of Duty have ended, and will Tom Cruise ever finish Mission Impossible 7? The writing squad for the series: Tom Jamieson and Nev Fountain, Laurence Howarth, Tom Coles & Ed Amsden, Jeffrey Aidoo, Simon Alcock, James Bugg, Sarah Campbell, Nastassia Dhanraj , Athena Kugblenu, Sophie Dickson, Rajiv Karia, Vivienne Riddoch & Jane Mccutcheon , Edward Tew. Producer: Bill Dare Production Coordinator: Sarah Sharpe A BBC Studios Production for Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09lfzmd.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26752000",
-      "itunes_duration": "1672",
-      "speakers": [
-        "Dead Ringers",
-        "Will England"
-      ],
-      "topics": [
-        "dead",
-        "ringers",
-        "june"
-      ]
     }
   ]
 }
@@ -5714,4 +5693,3 @@
 - 2021-07-09 — Dead Ringers, 9th July, 2021 — speakers: Dead Ringers, Angela Rayner
 - 2021-07-02 — Dead Ringers, Series 21, Episode 4 — speakers: Dead Ringers, Sajid Javid, Harry Kane
 - 2021-06-25 — Dead Ringers, 25th June, 2021 — speakers: Dead Ringers, Chris Whitty
-- 2021-06-14 — Dead Ringers 11th June 2021 — speakers: Dead Ringers, Will England

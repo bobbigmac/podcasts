@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-06-08T20:32:40+00:00`
-- checked_at: `2026-06-08T20:32:40+00:00`
-- etag: `"djEuMi4wOjE3ODA5Mzc3NDkxMzA="`
+- fetched_at: `2026-06-11T20:35:15+00:00`
+- checked_at: `2026-06-11T20:35:15+00:00`
+- etag: `"djEuMi4wOjE3ODExOTU2NjI1OTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-06-08T20:32:40+00:00",
+  "fetched_at": "2026-06-11T20:35:15+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "5c3ce83763d5b13d9b8f29588411122780214bf0",
+      "title": "The private companies running Britain",
+      "published_at": "2026-06-11T16:34:22+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/the-private-companies-running-britain",
+      "description": "From prisons to speed cameras and welfare to nuclear warning systems, the British government has outsourced a huge number of state operations to private companies – including the housing of asylum seekers. This week, riots erupted on the streets of Belfast following the stabbing of Stephen Ogilvy. The suspect is an ex asylum seeker. It’s the third summer in a row that the asylum accommodation system has been the focus of violent protests. Has Britain lost control? READ: How Britain lost control https://www.newstatesman.com/cover-story/2026/06/how-britain-lost-control LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1781195624788-585d19a2-10a8-40c9-a74a-d1e6e79e43eb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a2ada170fb1c04b6dafeb94/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45278772",
+      "itunes_duration": "47:09",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "company",
+        "britain"
+      ]
+    },
     {
       "key": "3c0fb3776acd12d7b550774b173ec6c9133d7901",
       "title": "Makerfield locals have their say",
@@ -31462,6 +31482,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — The private companies running Britain — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-06-08 — Makerfield locals have their say — speakers: Scarlett Maguire, Anoosh Chakelian, Oli Dugmore
 - 2026-06-06 — What would “Burnhamism” actually look like? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-04 — What does Makerfield make of Andy Burnham? — speakers: Andy Burnham, Andy Bur, Anoosh Chakelian, Oli Dugmore
