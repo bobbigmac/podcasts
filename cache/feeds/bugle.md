@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-06-12T10:39:43+00:00`
-- checked_at: `2026-06-12T10:39:43+00:00`
-- etag: `"djEuMi4wOjE3ODEyNTg2MTc5Mjk="`
+- fetched_at: `2026-06-12T15:39:09+00:00`
+- checked_at: `2026-06-12T15:39:09+00:00`
+- etag: `"djEuMi4wOjE3ODEyNjg4NTExOTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-06-12T10:39:43+00:00",
+  "fetched_at": "2026-06-12T15:39:09+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -33,7 +33,7 @@
       "published_at": "2026-06-11T07:15:00+00:00",
       "link": "https://shows.acast.com/thebugle/episodes/trumps-cross-what-is-it-this-time",
       "description": "On this week's issue of the Bugle, Andy is joined by Sara Barron and the long awaited return of Chris Addison, as the three jump straight into the week's news discussing the 47th president of the United States, late night rage call to Netanyahu, the possible impending ban on social media, the US banning entry to Somalian official Omar Artan and news on the latest Bond and are producers bias? All this in issue 4382 of The Bugle! 🇺🇸 Trump's angry call: The Bugle catch up on the recent news of Donald Trump and Benjamin Netanyahu late night call 📱 Social Media Ban: UK governments new efforts to get kids off their phones 🌍 World Cup Chaos: Andy, Sara and Chris report on the story of Somalian referee Omar Artan denied entry into the US Andy's Links: https://www.andyzaltzman.co.uk/ Sara Barron's Links: https://www.instagram.com/sarabarron1000000/?hl=en Chris Addison's Links: https://www.instagram.com/mrchrisaddison/?hl=en Donate to Emilia: https://www.crowdfunder.co.uk/p/a-safe-accessible-home-for-emilia 🎤 Get tickets for the LIVE episode of The Gargle HERE https://www.angelcomedy.co.uk/event-detail/the-gargle-live-fri-26th-jun-the-bill-murray-london-tickets-202606261800/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1781268572771-68954900-b8a0-4333-930b-e9d50b40d583.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a29a51a9068bf0408806170/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "44702405",
@@ -75,7 +75,7 @@
       "published_at": "2026-05-28T05:02:00+00:00",
       "link": "https://shows.acast.com/thebugle/episodes/woolly-mammoth-or-inflation-you-decide",
       "description": "Andy is with Felicity Ward and Anuvab Pal to ask the big questions... Why do we feel politics in our legs? Is it possible to cheat at the enhanced games? Is 'Melodi' the political love story we all need? And HS2. Why are train so bad? 🎤 Get tickets for the LIVE episode of The Gargle HERE https://www.angelcomedy.co.uk/event-detail/the-gargle-live-fri-26th-jun-the-bill-murray-london-tickets-202606261800/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1781268844921-22d90baf-7815-4c9b-bda4-9df8408d8842.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a1757eac92816b54444f24e/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "64189516",

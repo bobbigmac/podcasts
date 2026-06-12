@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-06-10T16:09:06+00:00`
-- checked_at: `2026-06-10T16:09:06+00:00`
-- etag: `"djEuMi4wOjE3ODExMDM2MzkyODE="`
+- fetched_at: `2026-06-12T15:39:09+00:00`
+- checked_at: `2026-06-12T15:39:09+00:00`
+- etag: `"djEuMi4wOjE3ODEyNzYyMjI0OTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-06-10T16:09:06+00:00",
+  "fetched_at": "2026-06-12T15:39:09+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,31 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "9db322b1a85845469c618dd01ff3a6ba5e67f725",
+      "title": "Briefing Chat: The epic journey of Stonehenge’s central stone",
+      "published_at": "2026-06-12T14:55:31+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01912-y",
+      "description": "In this episode: 00:37 Evidence that Stonehenge's Altar Stone travelled by glacier BBC Science Focus: We may have just cracked one of Stonehenge's greatest mysteries 05:44 Fossilized faeces reveal DNA from ancient ecosystem Nature: Ancient ground squirrels feasted on carcasses like ‘zombies of the Pleistocene’ Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1781276219778-2dcd9ff0-ef3d-406f-a19b-5dca3915e5bb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a2c1de40592e8254588f57b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "10901572",
+      "itunes_duration": "11:20",
+      "speakers": [
+        "Briefing Chat",
+        "Altar Stone",
+        "Science Focus",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "chat",
+        "journey",
+        "stonehenge",
+        "stone"
+      ]
+    },
     {
       "key": "67ddc7661162eae95b39953042ed72e4fa36698a",
       "title": "Newly-discovered whale graveyard dates back millions of years",
@@ -19810,6 +19835,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-12 — Briefing Chat: The epic journey of Stonehenge’s central stone — speakers: Briefing Chat, Altar Stone, Science Focus, Benjamin Thompson, Noah Baker
 - 2026-06-10 — Newly-discovered whale graveyard dates back millions of years — speakers: News Views, Benjamin Thompson, Noah Baker
 - 2026-06-05 — Briefing chat: Spinosaurs with salt glands could have lived in marine environments — speakers: Benjamin Thompson, Noah Baker
 - 2026-06-03 — Your phone can use tiny skin-colour changes to measure your heart rate — speakers: Benjamin Thompson, Noah Baker

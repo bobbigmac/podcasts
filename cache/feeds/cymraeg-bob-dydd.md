@@ -3,10 +3,12 @@
 - slug: `cymraeg-bob-dydd`
 - source: `https://www.spreaker.com/show/6325466/episodes/feed`
 - fetched_at: `2026-03-16T13:54:27+00:00`
-- checked_at: `2026-06-09T22:49:22+00:00`
+- checked_at: `2026-06-12T15:39:09+00:00`
 - etag: `"6e36fae88847d33cc49fdf2441981dba"`
 - last_modified: `Mon, 16 Mar 2026 12:13:12 GMT`
 - max_episodes_per_feed: `2000`
+- status: `error`
+- last_error: `HTTP 403` — Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -965,7 +967,17 @@
         "greeting"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-06-12T15:39:09+00:00",
+    "status": "error",
+    "checked_at": "2026-06-12T15:39:09+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": 403,
+      "message": "Forbidden"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->
