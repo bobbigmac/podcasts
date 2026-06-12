@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-06-11T16:20:31+00:00`
-- checked_at: `2026-06-11T16:20:31+00:00`
-- last_modified: `Thu, 11 Jun 2026 11:49:52 GMT`
+- fetched_at: `2026-06-12T05:02:09+00:00`
+- checked_at: `2026-06-12T05:02:09+00:00`
+- last_modified: `Thu, 11 Jun 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-11T16:20:31+00:00",
+  "fetched_at": "2026-06-12T05:02:09+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d0bcadadabf4d50daa1cace07d5e67e7f85924aa",
+      "title": "Pablo Escobart, Pigs and Massages",
+      "published_at": "2026-06-11T23:01:00+00:00",
+      "link": null,
+      "description": "When will people stop sending unsolicited d*ck pics? Will AI help us to really talk to animals? And what animal would Tom most like to talk to? What do Tom and Rom do to relax? And has Tom actually taken Romesh’s sleep advice? Don’t watch this episode while eating pineapple, or any food for that matter…and don’t forget to send your questions, dilemma and voice notes to us at wolfowlpod@gmail.com. A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 01:33 Tom’s DMs 03:39 Vegan dilemma 08:52 Pablo Escobart 10:18 Burn out 17:52 Play safe Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3d4659e0-6409-11f1-b8ce-5bfd4023b8c2/image/2a876bf3a52966b0b9220ce131fc42b6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5643403659.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1532",
+      "speakers": [
+        "Pablo Escobart",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "pablo",
+        "escobart",
+        "pigs",
+        "massage"
+      ]
+    },
     {
       "key": "dba203daface725858d4d2db328cc777ec6882c0",
       "title": "Robert De Niro, Traitors and the UCL Final",
@@ -6893,6 +6916,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — Pablo Escobart, Pigs and Massages — speakers: Pablo Escobart, Romesh Ranganathan, Tom Davis
 - 2026-06-08 — Robert De Niro, Traitors and the UCL Final — speakers: Robert De Niro, Romesh Ranganathan, Tom Davis
 - 2026-06-04 — Hot Chip Aftermath, WhatsApp Groups and Holding Grudges — speakers: Hot Chip Aftermath, Romesh Ranganathan, Tom Davis
 - 2026-06-01 — Hot Chip Challenge, Bathroom Habits and Amanda Holden — speakers: Amanda Holden, Romesh Ranganathan, Tom Davis

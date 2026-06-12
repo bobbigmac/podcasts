@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-06-11T20:35:15+00:00`
-- checked_at: `2026-06-11T20:35:15+00:00`
-- last_modified: `Thu, 11 Jun 2026 17:32:56 GMT`
+- fetched_at: `2026-06-12T05:02:09+00:00`
+- checked_at: `2026-06-12T05:02:09+00:00`
+- last_modified: `Fri, 12 Jun 2026 00:07:46 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-11T20:35:15+00:00",
+  "fetched_at": "2026-06-12T05:02:09+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "bae318e86dfaa095ce5e7d8d8f55688831509686",
+      "title": "How Much Is Frank Worth?",
+      "published_at": "2026-06-12T00:00:00+00:00",
+      "link": null,
+      "description": "Frank and Em welcome back the very well-loved Ruth Husko. Ruth thinks Frank is a legend for being 69, and Em reads a message from The Outside World that leaves them in stitches. Literally. If you want to message the show, email us at FrankOffTheRadio@AvalonUK.com or WhatsApp us on 07457 417 769 We’re currently sponsored by BT - behind brilliant things! Search ‘Why BT’ to find out more or click on the following link: https://www.bt.com/broadband/why-bt Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8705669697.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2254",
+      "speakers": [
+        "Frank Worth",
+        "Ruth Husko",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "worth"
+      ]
+    },
     {
       "key": "a982f6bad7ce54ec13e883948f4c1cf17e6b2468",
       "title": "Frank Radio Days: Buckle Up",
@@ -23882,6 +23903,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-12 — How Much Is Frank Worth? — speakers: Frank Worth, Ruth Husko, Frank Skinner
 - 2026-06-10 — Frank Radio Days: Buckle Up — speakers: Frank Radio Days, Frank Skinner
 - 2026-06-08 — Celebrity Look-alikes — speakers: Ruth Husko, Frank Skinner
 - 2026-06-05 — Frank's View on Football Parades — speakers: Ruth Husko, Frank Skinner

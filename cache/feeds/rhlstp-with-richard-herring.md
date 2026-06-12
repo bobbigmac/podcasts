@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-10T16:09:06+00:00`
-- checked_at: `2026-06-10T16:09:06+00:00`
-- etag: `"djEuMi4wOjE3ODExMDM4ODY4ODA="`
+- fetched_at: `2026-06-12T05:02:09+00:00`
+- checked_at: `2026-06-12T05:02:09+00:00`
+- etag: `"djEuMi4wOjE3ODEyMzMwNTkzODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-10T16:09:06+00:00",
+  "fetched_at": "2026-06-12T05:02:09+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6ea65d478587036d47381b12215a238f185b8cda",
+      "title": "Andrew Hunter Murray on Bad Deeds - Book Club",
+      "published_at": "2026-06-12T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #183 - Bad Deeds - Richard talks to novelist and former QI Elf Andrew Hunter Murray about his funny page-turner Bad Deeds. They chat about him no longer being like John Wyndham, how to break into BAFTA, how Richard broke into Buckingham Palace and the much repeated truth about what Michael Fagan got up to in the Queen’s bedroom, giving up on a novel after 30,000 words, planning plots, writing in Costa, the parallels with this book and the brilliant London Falling and why breaking into posh houses is acceptable behaviour. Buy the book here - https://uk.bookshop.org/p/books/bad-deeds-andrew-hunter-murray/8ac69edc4570ebc2 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1781102680561-d5f6e696-ef82-446c-896a-074a93def244.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a2977ef518f9f10eb813dd9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23413185",
+      "itunes_duration": "46:38",
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Richard Herring"
+      ],
+      "topics": [
+        "andrew",
+        "hunter",
+        "murray",
+        "deeds",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "1dd6908b83557d72363102105035470e7bd70b03",
       "title": "Ronni Ancona - \"Predicting the Future with Urine\"",
@@ -22743,6 +22767,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-12 — Andrew Hunter Murray on Bad Deeds - Book Club — speakers: Andrew Hunter Murray, Richard Herring
 - 2026-06-10 — Ronni Ancona - "Predicting the Future with Urine" — speakers: Ronni Ancona, Richard Herring
 - 2026-06-08 — Al Murray (Retro) - "Too Much Farage Piss" — speakers: Al Murray, Richard Herring
 - 2026-06-06 — Rich and Ally's Craven Newsround Compilation — speakers: Craven Newsround Compilation Monday, Cloaca Room, Richard Herring

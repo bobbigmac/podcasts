@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-06-09T04:34:04+00:00`
-- checked_at: `2026-06-09T04:34:04+00:00`
-- last_modified: `Tue, 09 Jun 2026 04:05:30 GMT`
+- fetched_at: `2026-06-12T05:02:09+00:00`
+- checked_at: `2026-06-12T05:02:09+00:00`
+- last_modified: `Fri, 12 Jun 2026 02:32:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-09T04:34:04+00:00",
+  "fetched_at": "2026-06-12T05:02:09+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d1e4de61db5333b275f13a4e2f7724b32c86c2d8",
+      "title": "S12 EP46: Laura Smyth (The Return)",
+      "published_at": "2026-06-12T02:30:00+00:00",
+      "link": null,
+      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the brilliant comedian and writer - Laura Smyth Following a meteoric rise through the comedy ranks, Laura Smyth – the brutally honest, blisteringly funny, working-class voice from East London – is back with a brand-new national tour. Off the back of her critically acclaimed and sell out debut tour Living My Best Life, Laura is hitting the road again in 2026 with ‘Born Aggy’. Tickets will be available from www.laurasmyth.com Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5611400172.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2923",
+      "speakers": [
+        "Laura Smyth",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "laura",
+        "smyth",
+        "return"
+      ]
+    },
     {
       "key": "915f43e268e4ef48f1a89b768d794fdd0fc027ff",
       "title": "S12 EP45: Chat 'N That",
@@ -12087,6 +12109,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-12 — S12 EP46: Laura Smyth (The Return) — speakers: Laura Smyth, Rob Beckett, Josh Widdicombe
 - 2026-06-09 — S12 EP45: Chat 'N That — speakers: Rob Beckett, Josh Widdicombe
 - 2026-06-05 — S12 EP44: Jack Savoretti — speakers: Jack Savoretti, Rob Beckett, Josh Widdicombe
 - 2026-06-02 — S12 EP43: Multi-generational Bad Parenting — speakers: Rob Beckett, Josh Widdicombe

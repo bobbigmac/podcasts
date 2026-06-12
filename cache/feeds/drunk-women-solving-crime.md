@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-06-10T04:48:05+00:00`
-- checked_at: `2026-06-10T04:48:05+00:00`
-- etag: `"djEuMi4wOjE3ODEwNDk2MzkzOTY="`
+- fetched_at: `2026-06-12T05:02:09+00:00`
+- checked_at: `2026-06-12T05:02:09+00:00`
+- etag: `"djEuMi4wOjE3ODEyMjI0Mzk2NDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-06-10T04:48:05+00:00",
+  "fetched_at": "2026-06-12T05:02:09+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "3dcc1c23a46c119edc7682d29cfed8f4100df414",
+      "title": "DWSC LIVE: With Seeta Wrightson",
+      "published_at": "2026-06-12T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-seeta-wrightson",
+      "description": "We're back in Leicester, this time with the hilarious Seeta Wrightson, whose opening story earns her the seal of approval from everyone in the room, not a dry eye in the house. She then aids and abets Taylor and Hannah get to the heady heights of a criminal act from the early 80s... are you sitting comfortably? Cos, our perp certainly was. We then round off the evening by hearing from an audience member who has never fought crime for The Queen... which is exactly what someone who fought crime for The Queen would say. Hannah and Taylor are on tour during the spring and summer of 2026...Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a26f4a2ec7c103dca4bd891/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83732197",
+      "itunes_duration": "58:08",
+      "speakers": [
+        "Seeta Wrightson",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "seeta",
+        "wrightson"
+      ]
+    },
     {
       "key": "4d25153aeed048683144d21599b32a43064e07f4",
       "title": "DWSC LIVE: With Chloe Reynolds",
@@ -11211,6 +11233,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-12 — DWSC LIVE: With Seeta Wrightson — speakers: Seeta Wrightson, Hannah George, Taylor Glenn
 - 2026-06-10 — DWSC LIVE: With Chloe Reynolds — speakers: Chloe Reynolds, Hannah George, Taylor Glenn
 - 2026-06-03 — Saving Our Own Skins, with Jamie East — speakers: Jamie East, Hannah George, Taylor Glenn
 - 2026-05-29 — A Bag For Your Finger? With Rosie Turner — speakers: Rosie Turner, Hannah George, Taylor Glenn

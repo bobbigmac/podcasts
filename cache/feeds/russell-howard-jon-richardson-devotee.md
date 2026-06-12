@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-06-11T20:35:15+00:00`
-- checked_at: `2026-06-11T20:35:15+00:00`
-- etag: `W/"33993-q3HnnKzvfZgU091/7AST0gIOx+Q"`
+- fetched_at: `2026-06-12T05:02:09+00:00`
+- checked_at: `2026-06-12T05:02:09+00:00`
+- etag: `W/"32fdf-xYA21hEanTBpjR14usxoSnIqT9U"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,68 +17,13 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-06-11T20:35:15+00:00",
+  "fetched_at": "2026-06-12T05:02:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "b9bde180225a14d44c6eec1366e9eb3356f2dbeb",
-      "title": "Josh Widdicombe XFM # 28 – James Acaster Classic Scrape 25, Matthew Crosby",
-      "published_at": "2026-06-11T18:14:58+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM--28--James-Acaster-Classic-Scrape-25--Matthew-Crosby-e3klpe6",
-      "description": "James Acaster shares another scrape and Matthew Crosby calls in to discuss David Beckham's autobiography.Broadcast on 15th October 2013.",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1781201608101-c6fdb96e8a3e4.jpg",
-      "enclosure_url": "https://traffic.megaphone.fm/APO5154285871.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "35935293",
-      "itunes_duration": "00:37:25",
-      "speakers": [
-        "James Acaster Classic Scrape",
-        "Matthew Crosby",
-        "James Acaster",
-        "David Beckham"
-      ],
-      "topics": [
-        "josh",
-        "widdicombe",
-        "james",
-        "acaster",
-        "classic",
-        "scrape",
-        "matthew",
-        "crosby"
-      ]
-    },
-    {
-      "key": "17aa97cfc521bf119d3f8ffd51f142c5d07695d1",
-      "title": "Josh Widdicombe XFM # 27 – James Acaster Classic Scrape 24, Matthew Crosby",
-      "published_at": "2026-06-11T11:59:47+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM--27--James-Acaster-Classic-Scrape-24--Matthew-Crosby-e3kk7qu",
-      "description": "James Acaster shares his recent scrape and Matthew Crosby reads another celebrity autobiography.Broadcast on 8th October 2013.",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1781115221796-3a05108ae97cd.jpg",
-      "enclosure_url": "https://traffic.megaphone.fm/APO3763660112.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "35167920",
-      "itunes_duration": "00:36:37",
-      "speakers": [
-        "James Acaster Classic Scrape",
-        "Matthew Crosby",
-        "James Acaster"
-      ],
-      "topics": [
-        "josh",
-        "widdicombe",
-        "james",
-        "acaster",
-        "classic",
-        "scrape",
-        "matthew",
-        "crosby"
-      ]
-    },
     {
       "key": "e945c054935ba6872df9f06dc61f888b6e6eb196",
       "title": "Josh Widdicombe XFM # 26 – James Acaster Classic Scrape 23, Matthew Crosby",
@@ -3852,8 +3797,6 @@
 
 ## Episodes (newest first)
 
-- 2026-06-11 — Josh Widdicombe XFM # 28 – James Acaster Classic Scrape 25, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster, David Beckham
-- 2026-06-11 — Josh Widdicombe XFM # 27 – James Acaster Classic Scrape 24, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster
 - 2026-06-09 — Josh Widdicombe XFM # 26 – James Acaster Classic Scrape 23, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster
 - 2026-06-08 — Josh Widdicombe XFM # 25 – James Acaster Classic Scrape 22, Sean Walsh, Matthew Crosby — speakers: James Acaster Classic Scrape, Sean Walsh, Matthew Crosby, James Acaster
 - 2026-06-04 — Josh Widdicombe XFM # 24 – James Acaster Classic Scrape 21, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster

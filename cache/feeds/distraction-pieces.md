@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-06-11T22:58:26+00:00`
-- checked_at: `2026-06-11T22:58:26+00:00`
-- etag: `"djEuMi4wOjE3ODEyMTA2OTExOTk="`
+- fetched_at: `2026-06-12T05:02:09+00:00`
+- checked_at: `2026-06-12T05:02:09+00:00`
+- etag: `"djEuMi4wOjE3ODEyMzQ0MzkzOTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-06-11T22:58:26+00:00",
+  "fetched_at": "2026-06-12T05:02:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6f3308824624cb4b674e288b564b0b496071367b",
+      "title": "RAHUL KOHLI (Citadel / We Were Liars) • Friday Rewind",
+      "published_at": "2026-06-12T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Rahul Kholi , originally episode 355 from 2020-11-25. Original writeup below: An ALMOST in person DPP right here - well, Pip and the guest being in the same city, in a country far far away from their respective homesteads anyway - please enjoy a brilliantly upfront and honest chat with actor RAHUL KOHLI! I say upfront and honest - basically it’s one where sentiments aren’t hinted at, and feelings and thoughts are addressed in a mature and adult manner. He and Pip are currently in Vancouver, Canada, in the midst of filming in some very airtight pandemic conditions. You can hear all about that, which of course branches out into how life is in Canada, viewing the pandemic from a different country, the attitudes in the US, race and the media, privilege, social media tone deafness, becoming a Twitter celeb (not as glamorous as it sounds), what re-Trump-ing says about you, Mike Bithell and the amazing North Star Rising project he and Pip guested on, auditions, gaming voiceovers, acting, and the many intricate nuances of invoking Bollywood. It’s a packed one and it’s great. Get yerself in a listening situation. PIP'S PATREON PAGE if you're of a supporting nature RAHUL on TWITTER RAHUL on IMDB RAHUL AGENT TWEETSTORM FUNTIMES iZOMBIE PIP x TOMO CAMPBELL @ HARRY STYLES MELTDOWN • SOUTHBANK CENTRE PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1781210396272-0aa70622-e69e-44cf-8fdf-a9086d9bd874.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a2b1e4390aa100df923445e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "195286346",
+      "itunes_duration": "1:21:17",
+      "speakers": [],
+      "topics": [
+        "rahul",
+        "kohli",
+        "citadel",
+        "liars",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "c09acf5807440356c2e4343d8afd48f993cb6b9e",
       "title": "MARK JENKIN • a Cornish Affirmative from an audience of one (Bait / Enys Men / Rose Of Nevada) #675",
@@ -18979,6 +19000,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-12 — RAHUL KOHLI (Citadel / We Were Liars) • Friday Rewind
 - 2026-06-10 — MARK JENKIN • a Cornish Affirmative from an audience of one (Bait / Enys Men / Rose Of Nevada) #675
 - 2026-06-05 — JO WHILEY (music radio royalty) • Friday Rewind — speakers: JO Whiley
 - 2026-06-03 — IAIN LEE • a life working in and coping with the media (Impostor Syndrome / The Living Room Tour / 11 O' Clock Show) #674

@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-06-11T20:35:15+00:00`
-- checked_at: `2026-06-11T20:35:15+00:00`
-- etag: `W/"46cad0c04ae898748dc25df8180ab779"`
-- last_modified: `Thu, 11 Jun 2026 16:19:18 GMT`
+- fetched_at: `2026-06-12T05:02:09+00:00`
+- checked_at: `2026-06-12T05:02:09+00:00`
+- etag: `W/"19e792c49c139d3c30943fb575696263"`
+- last_modified: `Thu, 11 Jun 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-06-11T20:35:15+00:00",
+  "fetched_at": "2026-06-12T05:02:09+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "482629367acd7578dea428eab7669c50543d7404",
+      "title": "No Such Thing As Poddyversity Challenge",
+      "published_at": "2026-06-11T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8915422",
+      "description": "Dan, James, Anna and Andy discuss shamans, humans, theme parks and theme tunes. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Jack Chambers, Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43693493.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8915422.mp3?modified=1781197095&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3480",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "poddyversity",
+        "challenge"
+      ]
+    },
     {
       "key": "66ea2277087889b1ee1a4b773e514d668924354e",
       "title": "Little Fish: Accordion To Whom?",
@@ -16446,6 +16469,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — No Such Thing As Poddyversity Challenge — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-07 — Little Fish: Accordion To Whom? — speakers: Rufus Hound, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-04 — No Such Thing As Chekhov's Volcano — speakers: Greg Foot, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-05-31 — Little Fish: It's Nice To Say Titicaca — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

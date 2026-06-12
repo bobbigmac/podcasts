@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-06-11T16:20:31+00:00`
-- checked_at: `2026-06-11T16:20:31+00:00`
-- etag: `"djEuMi4wOjE3ODExODY5MzMzNDA="`
+- fetched_at: `2026-06-12T05:02:09+00:00`
+- checked_at: `2026-06-12T05:02:09+00:00`
+- etag: `"djEuMi4wOjE3ODEyMTg5NTkzNTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-06-11T16:20:31+00:00",
+  "fetched_at": "2026-06-12T05:02:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "68c8c13a2872cb84bffe821975629dc0a813e89b",
+      "title": "My Time Capsule The Dig - Ep. 6 - With Lindsey Santoro from episode 305!",
+      "published_at": "2026-06-11T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-6-with-lindsey-santoro-from-episo",
+      "description": "Lindsey Santoro (Live at the Apollo, Mel Giedroyc’s: Unforgivable, Radio 4's The Lively Life of Lindsey Santoro, Edinburgh Comedy Award Best Newcomer Nominee) was our guest in episode 305 and she returns to have a chat about her old time capsule and let us know where she wants it buried! Also, Mike and his producer and son John sit down together for a dig around in this week's Time Capsule and hear where Andrew Ryan wants to bury his capsule, they pay tribute to former guest and Mike's friend Anthony Head and they interact with listeners via email and voice memos . For Lindsey's Edinburgh show tickets and everything Lindsey Santoro, visit - https://www.lindseysantoro.co.uk . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1781185786167-3fbe7756-a749-4c95-bff8-9a0ee7b6ee97.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a2abdead1dd1d4482b70c7d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67168569",
+      "itunes_duration": "55:58",
+      "speakers": [
+        "Lindsey Santoro",
+        "Mel Giedroyc"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "lindsey",
+        "santoro"
+      ]
+    },
     {
       "key": "c59803bff9477e9a2610eba8c90e9726d5daa6f8",
       "title": "Ep. 588 - Andrew Ryan - One of UK and Ireland’s most in-demand comedians, 60 million online views",
@@ -12744,6 +12766,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-11 — My Time Capsule The Dig - Ep. 6 - With Lindsey Santoro from episode 305! — speakers: Lindsey Santoro, Mel Giedroyc
 - 2026-06-07 — Ep. 588 - Andrew Ryan - One of UK and Ireland’s most in-demand comedians, 60 million online views — speakers: Andrew Ryan
 - 2026-06-04 — My Time Capsule The Dig - Ep. 5 - With Rufus Hound!
 - 2026-06-01 — Ep. 587 - Johann Hari - New York Times bestseller, over 2 million books sold in 40 languages — speakers: Johann Hari
