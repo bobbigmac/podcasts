@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-06-12T15:39:09+00:00`
-- checked_at: `2026-06-12T15:39:09+00:00`
-- etag: `W/"38a64-qDYmo86o8iOF6ojTf5JzjQrtonk"`
+- fetched_at: `2026-06-12T20:25:22+00:00`
+- checked_at: `2026-06-12T20:25:22+00:00`
+- etag: `W/"38259-HczAmrflS+k74N7xqUkGpTuf/yk"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-06-12T15:39:09+00:00",
+  "fetched_at": "2026-06-12T20:25:22+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,32 +28,6 @@
     "games"
   ],
   "episodes": [
-    {
-      "key": "d0b1e0473407964a72fb47cebc4f93d58adfca1c",
-      "title": "Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast",
-      "published_at": "2026-06-12T13:00:01+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Highs-and-Lows-of-Summer-Game-Fest-2026--Firelink-Podcast-e3kmkuh",
-      "description": "This week on Firelink, Nick, KC, and Marty chat about their favorite games of Summer Game Fest, refresh their Fantasy Critic draft, and bemoan yet another round of layoffs at Ubisoft and Xbox. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/121377169/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-12%2F3e530604-141d-640d-f440-43e5f5153672.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "143125664",
-      "itunes_duration": "01:39:23",
-      "speakers": [
-        "Marty Sliva",
-        "Nick Calandra",
-        "KC Nwosu"
-      ],
-      "topics": [
-        "high",
-        "lows",
-        "summer",
-        "game",
-        "fest",
-        "firelink",
-        "podcast"
-      ]
-    },
     {
       "key": "5c3cc01c64914d43eb7e71370438db5495067b59",
       "title": "Summer Game Fest Predictions and Speculation | Firelink Podcast",
@@ -2909,7 +2883,6 @@
 
 ## Episodes (newest first)
 
-- 2026-06-12 — Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-06-05 — Summer Game Fest Predictions and Speculation | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-05-29 — Stop Watching This and Go Play Mina the Hollower and 007 First Light | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-05-22 — Dream Pairings of Developers and IP | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu

@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-06-11T20:35:15+00:00`
-- checked_at: `2026-06-11T20:35:15+00:00`
-- etag: `"c514f5ce5203849ca02fa4dac94668b3"`
-- last_modified: `Thu, 11 Jun 2026 17:38:02 GMT`
+- fetched_at: `2026-06-12T20:25:22+00:00`
+- checked_at: `2026-06-12T20:25:22+00:00`
+- etag: `"6b10627367ee34ba0006ca7501128d00"`
+- last_modified: `Fri, 12 Jun 2026 18:00:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-06-11T20:35:15+00:00",
+  "fetched_at": "2026-06-12T20:25:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "740109421984c7935ce53134e46c2a40ec5d7395",
+      "title": "The News Quiz Ep8. - Peter Scandalman",
+      "published_at": "2026-06-12T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0npc60g",
+      "description": "For the final episode of this series, we look at some of the stories that we’re leaving unresolved in our ‘News Quiz 2026 Summer Break Cliffhanger Special’. This includes the latest on the Peter Mandelson scandal and the back and forth between Trump, Israel and Iran. We also discuss the British animals which might make it onto our banknotes, and Andy challenges the panel on their best ways to improve football ahead of this year’s Men’s World Cup. This week’s panel is Pierre Novellie, Alasdair Beckett-King, Coco Khan and Desiree Burch. Written by Andy Zaltzman. With additional material by: Lotte Allan, Angela Channell, Eve Delaney and Katie Storey Producer: Georgia Keating Executive Producer: Pete Strauss Production Coordinator: Asha Osborne-Grinter Sound Editor: Marc Willcox Recorded by David Thomas A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nqcbtq.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27280000",
+      "itunes_duration": "1705",
+      "speakers": [
+        "Peter Scandalman"
+      ],
+      "topics": [
+        "news",
+        "quiz",
+        "peter",
+        "scandalman"
+      ]
+    },
     {
       "key": "01bae133cc099e2d69bfaec978af5e9ef82b1309",
       "title": "The News Quiz Ep7. Heat and NEETs",
@@ -5436,6 +5457,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-12 — The News Quiz Ep8. - Peter Scandalman — speakers: Peter Scandalman
 - 2026-06-05 — The News Quiz Ep7. Heat and NEETs — speakers: Andy Zaltzman, Tony Bl
 - 2026-05-29 — The News Quiz Ep6. Brexpressionism
 - 2026-05-22 — The News Quiz Ep5. Starmer psychodrama — speakers: Prime Minister

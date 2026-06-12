@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-06-11T20:35:15+00:00`
-- checked_at: `2026-06-11T20:35:15+00:00`
-- etag: `"djEuMi4wOjE3ODExOTU2NjI1OTI="`
+- fetched_at: `2026-06-12T20:25:22+00:00`
+- checked_at: `2026-06-12T20:25:22+00:00`
+- etag: `"djEuMi4wOjE3ODEyODA1NzI4MTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-06-11T20:35:15+00:00",
+  "fetched_at": "2026-06-12T20:25:22+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,32 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "cdc1a51f5e9e1da91f180ee3df4ce0beea2a50a5",
+      "title": "Wes Streeting: Keir Starmer doesn't take responsibility",
+      "published_at": "2026-06-12T15:55:25+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/wes-streeting-keir-starmer-doesnt-take-responsibility",
+      "description": "After the resignations of Defence Secretary John Healey and Armed Forces Minister Al Carns, Wes Streeting joins the Politics Show to reflect on why Keir Starmer is losing support from his loyal ministers. Streeting resigned his own post as Health Secretary in May, and has said he would run in a future race to replace Keir Starmer as Labour leader and Prime Minister. Also in this episode, Tom McTague and Ethan Croft discuss the resignations and what they mean – for the UK's ability to defend itself, and for the future of the government. The interview excerpt featured here is taken from an hour-long conversation with Wes Streeting which will publish next week. READ: John Healey's resignation heralds the end for Keir Starmer, by Andrew Marr LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1781279678038-b5726309-49f3-4e4e-b8a4-4f966cfe0ed0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a2c2255fec1fedfce25b4e5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28765622",
+      "itunes_duration": "29:57",
+      "speakers": [
+        "Wes Streeting",
+        "John Healey",
+        "Al Carns",
+        "Wes Stre",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "streeting",
+        "keir",
+        "starmer",
+        "responsibility"
+      ]
+    },
     {
       "key": "5c3ce83763d5b13d9b8f29588411122780214bf0",
       "title": "The private companies running Britain",
@@ -31482,6 +31508,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-12 — Wes Streeting: Keir Starmer doesn't take responsibility — speakers: Wes Streeting, John Healey, Al Carns, Wes Stre, Anoosh Chakelian, Oli Dugmore
 - 2026-06-11 — The private companies running Britain — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-06-08 — Makerfield locals have their say — speakers: Scarlett Maguire, Anoosh Chakelian, Oli Dugmore
 - 2026-06-06 — What would “Burnhamism” actually look like? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
