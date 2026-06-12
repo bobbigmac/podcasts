@@ -2,8 +2,8 @@
 
 - slug: `best-of-fubar`
 - source: `https://www.fubarradio.com/player/on-demand/best-of-fubar/`
-- fetched_at: `2026-06-12T05:02:09+00:00`
-- checked_at: `2026-06-12T05:02:09+00:00`
+- fetched_at: `2026-06-12T10:39:43+00:00`
+- checked_at: `2026-06-12T10:39:43+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/best-of-fubar/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/best-of-fubar/",
   "image_url": "",
-  "fetched_at": "2026-06-12T05:02:09+00:00",
+  "fetched_at": "2026-06-12T10:39:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

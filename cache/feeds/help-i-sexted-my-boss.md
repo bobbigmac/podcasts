@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-06-11T16:20:31+00:00`
-- checked_at: `2026-06-11T16:20:31+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RFeE9USTNOekl4TkRjPTo6c2F4ZXNz"`
+- fetched_at: `2026-06-12T10:39:43+00:00`
+- checked_at: `2026-06-12T10:39:43+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RFeU5EQTBNemsyTlRZPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-06-11T16:20:31+00:00",
+  "fetched_at": "2026-06-12T10:39:43+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,13 +30,13 @@
     {
       "key": "c3cc5c0e774ea5435ef477742c24a057ecded8fa",
       "title": "Fancy Dress Fantasies | And Dry Humping",
-      "published_at": "2026-06-11T05:00:00+00:00",
+      "published_at": "2026-06-12T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/fancy-dress-fantasies-and-dry-humping",
-      "description": "We all have fantasies. Some of us like a perfectly mixed Martini at midday, whereas others prefer to be tied up with a velvet dressing gown belt. And some of us like to be wooed by people dressed up as fictional characters - and it seems like there's A LOT of you who do! We also find out about a new pact William and Jordan are thinking of making together that involves dry humping. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "We all have fantasies. Some of us like a perfectly mixed Martini at midday, whereas others prefer to be tied up with a velvet dressing gown belt. And some of us like to be wooed by people dressed up as fictional characters - and it seems like there's A LOT of you who do! We also find out about a new pact William and Jordan are thinking of making together that involves dry humping. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1781084126723-7fa6b3b3-f2f4-4a0e-9f29-813a019d9dcc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a283b7993e8779f1090accc/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=b-qoZ6tKArZUr_an_D3idcm80ZqPx1G9OhI7_eHbsvA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22304809",
       "itunes_duration": "23:14",
       "speakers": [
         "Dry Humping",
@@ -14480,7 +14480,7 @@
 
 ## Episodes (newest first)
 
-- 2026-06-11 — Fancy Dress Fantasies | And Dry Humping — speakers: Dry Humping, William Hanson, Jordan North
+- 2026-06-12 — Fancy Dress Fantasies | And Dry Humping — speakers: Dry Humping, William Hanson, Jordan North
 - 2026-06-09 — Help He’s Got Secret Viagra | And Bussing It With Wayne Rooney — speakers: Wayne Rooney, William Hanson, Jordan North
 - 2026-06-05 — Help I Sexted Toni And Ryan! | With Titanic Reenactments — speakers: William Hanson, Jordan North
 - 2026-06-02 — Help He’s Entering My Tardis | And We've Got A New Studio! — speakers: William Hanson, Jordan North

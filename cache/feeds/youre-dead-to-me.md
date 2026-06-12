@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-06-10T16:09:06+00:00`
-- checked_at: `2026-06-10T16:09:06+00:00`
-- etag: `"8d9aa1b1c26231ec7fe425d4fabfb218"`
-- last_modified: `Wed, 10 Jun 2026 13:50:43 GMT`
+- fetched_at: `2026-06-12T10:39:43+00:00`
+- checked_at: `2026-06-12T10:39:43+00:00`
+- etag: `"f8c781ca1993794944a20038b4657ef6"`
+- last_modified: `Fri, 12 Jun 2026 05:00:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-06-10T16:09:06+00:00",
+  "fetched_at": "2026-06-12T10:39:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,28 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "6be0061737358323d10cf4a7cd6456b7e591812d",
+      "title": "Epic of Gilgamesh (Radio Edit)",
+      "published_at": "2026-06-12T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nl4mxt",
+      "description": "Greg Jenner is joined in the ancient world by Dr Moudhy Al-Rashid and comedian Marjolein Robertson to learn all about the famous Mesopotamian poem, the Epic of Gilgamesh. Sumerian poems about a legendary king called Gilgamesh began to be composed sometime in the third millennium, and were told and retold throughout Mesopotamia until a Babylonian scholar named Sîn-leqi-unninni wrote down what has become the standard version. The tale he recorded tells of a tyrannical king of Uruk, Gilgamesh, and the transformative journey he takes with his enemy-turned-friend (and possibly more), Enkidu. In the 3100 lines of the poem, they fight forest guardians and celestial bulls, anger the gods, and even challenge death itself. In this episode, we retell the story of Gilgamesh, exploring the history of the epic’s composition, what it tells us about ancient Mesopotamian storytelling and beliefs, and how it was rediscovered in the nineteenth century, written in cuneiform on clay tablets housed in the Library of Ashurbanipal at Nineveh. We also look at the themes of companionship, community and environmental protection that are still relevant today, and ask the question: is Gilgamesh just a legend, or was he based on a real king? This is a radio edit of the original podcast episode. For the full-length version, please look further back in the feed. Hosted by: Greg Jenner Research by: Katharine Russell Written by: Katharine Russell, Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nkr2xn.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27024000",
+      "itunes_duration": "1689",
+      "speakers": [
+        "Greg Jenner",
+        "Moudhy Al-Rashid",
+        "Marjolein Robertson"
+      ],
+      "topics": [
+        "gilgamesh",
+        "radio",
+        "edit"
+      ]
+    },
     {
       "key": "394b53a9282985211a76bd2a53a87c9a96f11fe6",
       "title": "Hypatia of Alexandria (Radio Edit)",
@@ -5907,6 +5929,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-12 — Epic of Gilgamesh (Radio Edit) — speakers: Greg Jenner, Moudhy Al-Rashid, Marjolein Robertson
 - 2026-06-05 — Hypatia of Alexandria (Radio Edit) — speakers: Greg Jenner, Edith Hall, Olga Koch
 - 2026-05-29 — Geoffrey Chaucer (Radio Edit) — speakers: Geoffrey Chaucer, Greg Jenner, Marion Turner, Mike Wozniak
 - 2026-05-22 — Lena Horne (Radio Edit) — speakers: Lena Horne, Greg Jenner, Hannah Thuraisingam Robbins

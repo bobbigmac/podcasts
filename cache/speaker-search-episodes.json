@@ -2975,6 +2975,28 @@
         "feed_slug": "external:apple:6690c4405592",
         "feed_title": "James Acaster's Stay Home Special Series",
         "source_rss_url": "https://feeds.sharp-stream.com/content/fubar_radio/feed-files/james_acasters_stay_home_special_series.xml",
+        "dedupe_key": "ee177608f03ed9cd6521b61891a1e24bab2e1383",
+        "episode_key": "ee177608f03ed9cd6521b61891a1e24bab2e1383",
+        "title": "Episode 3 - Scroobius Pip, Jim Bob, Rick Edwards, Lizzie Roper, Marcus Bentley",
+        "published_at": "2020-05-09T15:02:51Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode of James Acaster’s Stay Home Special, James played iPod on Shuffle with Scroobius Pip, Jim Bob, Rick Edwards, Lizzie Roper, Marcus Bentley.",
+        "audio_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1630000555-episode_3_scroobius_pip_jim_bob_rick_edwards_lizzie_roper_marcus_bentley.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=ep_8067&awCollectionId=podcast_82&providerId=fubar_radio",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-3-scroobius-pip-jim-bob-rick-edwards-lizzie/id1590006063?i=1000538386063&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:6690c4405592",
+        "feed_title": "James Acaster's Stay Home Special Series",
+        "source_rss_url": "https://feeds.sharp-stream.com/content/fubar_radio/feed-files/james_acasters_stay_home_special_series.xml",
         "dedupe_key": "9e6eebd2921b1bfb8f6cdea032a0cecfe9115e21",
         "episode_key": "9e6eebd2921b1bfb8f6cdea032a0cecfe9115e21",
         "title": "Episode 2 - Joel Dommett, Ken Collard, Fin Taylor, David Trent, James Redmond and Mike Wozniak",
