@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-06-12T20:25:22+00:00`
-- checked_at: `2026-06-12T20:25:22+00:00`
-- etag: `"djEuMi4wOjE3ODEyODA1NzI4MTI="`
+- fetched_at: `2026-06-13T16:45:49+00:00`
+- checked_at: `2026-06-13T16:45:49+00:00`
+- etag: `"djEuMi4wOjE3ODEzNjY0MzkyNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-06-12T20:25:22+00:00",
+  "fetched_at": "2026-06-13T16:45:49+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "5f23fad782ce8e2db32d3489fddabbcd01622aa2",
+      "title": "The Makerfield candidates’ normal person contest | Will and Anoosh",
+      "published_at": "2026-06-13T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/the-makerfield-candidates-normal-person-contest-will-and-ano",
+      "description": "The Makerfield by-election candidates battle it out to be the most “normal”, the travails of journalists from the US to the NS and more crossover between the worlds of AI and politics. Will Dunn and Anoosh Chakelian round up the stories of the week LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1781279467963-26892fca-073d-479e-9aa3-07094c829e3b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a2c2981efe82c6c016b246b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "103834106",
+      "itunes_duration": "43:13",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "makerfield",
+        "candidate",
+        "person",
+        "anoosh"
+      ]
+    },
     {
       "key": "cdc1a51f5e9e1da91f180ee3df4ce0beea2a50a5",
       "title": "Wes Streeting: Keir Starmer doesn't take responsibility",
@@ -31508,6 +31530,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-13 — The Makerfield candidates’ normal person contest | Will and Anoosh — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-06-12 — Wes Streeting: Keir Starmer doesn't take responsibility — speakers: Wes Streeting, John Healey, Al Carns, Wes Stre, Anoosh Chakelian, Oli Dugmore
 - 2026-06-11 — The private companies running Britain — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-06-08 — Makerfield locals have their say — speakers: Scarlett Maguire, Anoosh Chakelian, Oli Dugmore

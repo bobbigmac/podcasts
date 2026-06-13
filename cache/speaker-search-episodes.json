@@ -2205,6 +2205,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:31c647bfd4ab",
+        "feed_title": "What Did You Do Yesterday? with Max Rushden & David O'Doherty",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a2be260126ad95c2367834c",
+        "dedupe_key": "34e1aa0baf734cad85463d5c9ec6af0fe8828c35",
+        "episode_key": "34e1aa0baf734cad85463d5c9ec6af0fe8828c35",
+        "title": "EP10: James Acaster",
+        "published_at": "2024-10-27T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Joining hosts Max Rushden and David O' Doherty on this episode of 'What did you do yesterday?' is the brilliant comedian, actor, author and podcaster - James Acaster. \nWe ask James what he did yesterday? \nHe tells us. \nThat's it... enjoy! \nPlease subscribe, follow, and leave a review. xx\n\nGet in touch with the show: WH",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/1c15d4a0-664b-11f1-bf13-5b35a3f92e03/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep10-james-acaster/id1765600990?i=1000772365574&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:71ff8532d9f4",
         "feed_title": "Films To Be Buried With with Brett Goldstein",
         "source_rss_url": "https://feeds.megaphone.fm/QCD8204217646",
@@ -6691,6 +6713,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:31c647bfd4ab",
+        "feed_title": "What Did You Do Yesterday? with Max Rushden & David O'Doherty",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a2be260126ad95c2367834c",
+        "dedupe_key": "c785b696569a47b72757526f2efb59c526bdd9f6",
+        "episode_key": "c785b696569a47b72757526f2efb59c526bdd9f6",
+        "title": "EP15: Ed Gamble",
+        "published_at": "2024-12-01T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Joining hosts Max Rushden and David O' Doherty on this episode of 'What did you do yesterday?' is the comedian, podcaster, and presenter - Ed Gamble. \nWe ask Ed what he did yesterday? \nHe tells us. \nThat's it... enjoy\nPlease subscribe, follow, and leave a review. xx\n\nGet in touch with the show: WHATDIDYOUDOYESTERDAYPOD",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/20a23a04-664b-11f1-bf13-fb17f6d89713/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep15-ed-gamble/id1765600990?i=1000772365560&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:71ff8532d9f4",
         "feed_title": "Films To Be Buried With with Brett Goldstein",
         "source_rss_url": "https://feeds.megaphone.fm/QCD8204217646",
@@ -10528,6 +10572,28 @@
       }
     ],
     "richard-herring": [
+      {
+        "feed_slug": "external:apple:96594d663a6c",
+        "feed_title": "Richard Herring's Leicester Square Theatre Podcast (RHLSTP)",
+        "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
+        "dedupe_key": "6593debb46acd8d75951c2a1c7c29eddbe99178c",
+        "episode_key": "6593debb46acd8d75951c2a1c7c29eddbe99178c",
+        "title": "Rich and Ally's Craven Newsround Compilation \"Milked in a Basement\"",
+        "published_at": "2026-06-13T14:51:08Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tuesday 9th June 2026 - Milked in a Basement - Rich has been too busy or tired to do Newsround for a few days and to be honest probably should have given it a miss today. But news doesn’t wait for someone to be in the mood to tell you what the news is and luckily one person on this show can enunciate. The boys are talk",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a2d6e5b685069f99f50bc38/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/rich-and-allys-craven-newsround-compilation-milked-in/id520831548?i=1000772542460&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
@@ -18627,6 +18693,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:285070b97e35",
+        "feed_title": "Rich Fulcher's Talkbox",
+        "source_rss_url": "https://anchor.fm/s/104aea1a0/podcast/rss",
+        "dedupe_key": "634b2988e62a15b4c0e154e2e491738240cb34f5",
+        "episode_key": "634b2988e62a15b4c0e154e2e491738240cb34f5",
+        "title": "Lou Sanders: Onion Hands, Standup Tour, the Time Lou Wrecked My Flat, Getting Cancelled & Meat-Eating Satanists I Talk Box Ep. 5",
+        "published_at": "2025-06-18T16:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode of Talk Box, Lou Sanders joins Rich to talk about… well, a lot.Including:– Why her hands smelled like onions– Wrecking Rich’s flat (possibly cursed?)– Tour life, cancellations, and navigating chaos– Plus… meat-eating Satanists and other gentle topics\nAs usual, Rich mostly tries to stay on track, Lou say",
+        "audio_url": "https://traffic.megaphone.fm/APO6269796080.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lou-sanders-onion-hands-standup-tour-the-time-lou/id1814148567?i=1000713453160&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:de5cfd8ddc30",
         "feed_title": "A Psychic Told Us To Do It",
         "source_rss_url": "https://feeds.acast.com/public/shows/67ac877eb468a1d76ff3e12d",
@@ -19013,6 +19101,28 @@
         "description": "Joining hosts Max Rushden and David O' Doherty on this episode of 'What did you do yesterday?' is the brilliant comedian, writer and actress - Lou Sanders. \n\nWe ask Lou what she did yesterday? \nShe tells us. \nThat's it. \nEnjoy!\n\nPlease follow, subscribe and leave a review!!\n\nGet in touch with the show: WHATDIDYOUDOYEST",
         "audio_url": "https://traffic.megaphone.fm/GLT2015050628.mp3?updated=1736059080",
         "link_url": "https://podcasts.apple.com/gb/podcast/ep2-lou-sanders/id1765600990?i=1000667961012&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:31c647bfd4ab",
+        "feed_title": "What Did You Do Yesterday? with Max Rushden & David O'Doherty",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a2be260126ad95c2367834c",
+        "dedupe_key": "614e31f945ac93fe7a7da2898ea6f16ab2730307",
+        "episode_key": "614e31f945ac93fe7a7da2898ea6f16ab2730307",
+        "title": "EP2: Lou Sanders",
+        "published_at": "2024-09-01T13:57:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Joining hosts Max Rushden and David O' Doherty on this episode of 'What did you do yesterday?' is the brilliant comedian, writer and actress - Lou Sanders. \nWe ask Lou what she did yesterday? \nShe tells us. \nThat's it. \nEnjoy!\nPlease follow, subscribe and leave a review!!\nGet in touch with the show: WHATDIDYOUDOYESTERD",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/20c16cc6-664b-11f1-bf13-2b5e17b2f565/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep2-lou-sanders/id1765600990?i=1000772365623&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

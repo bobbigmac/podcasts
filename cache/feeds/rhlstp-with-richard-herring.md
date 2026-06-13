@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-12T20:25:22+00:00`
-- checked_at: `2026-06-12T20:25:22+00:00`
-- etag: `"djEuMi4wOjE3ODEyOTAwODE5NjQ="`
+- fetched_at: `2026-06-13T16:45:49+00:00`
+- checked_at: `2026-06-13T16:45:49+00:00`
+- etag: `"djEuMi4wOjE3ODEzNjIyNjc0NjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-12T20:25:22+00:00",
+  "fetched_at": "2026-06-13T16:45:49+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "45962f208f262ef156384473c45db1b4715ee9e9",
+      "title": "Rich and Ally's Craven Newsround Compilation \"Milked in a Basement\"",
+      "published_at": "2026-06-13T14:51:08+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Tuesday 9th June 2026 - Milked in a Basement - Rich has been too busy or tired to do Newsround for a few days and to be honest probably should have given it a miss today. But news doesn’t wait for someone to be in the mood to tell you what the news is and luckily one person on this show can enunciate. The boys are talking about creating sperm in a lab and what that might mean for humanity. It’s an all time classic. Thank you Moriarty. Wednesday 10th June 2026- Scooby DUMB - Rich is a bit less tired than yesterday, but still quite tired and he can’t believe that he is having his childhood destroyed. Just leave things the way they are. When they were good. When I was young. Plus big news about Prince Harry. Thursday 11th June 2026 - Blue Anchor - Rich and Ally are a bit put out to find out they are not the most popular thing in the show, but they plough on regardless, looking into the case of the mysterious cider drinking mannequin in Minehead. What really happened? The lamestream media won’t tell you, but we will. Friday 12th June 2026 - Sodomised Gargoyles - It’s the last Newsround of the week and a weary Richard Herring talks us through not one, not two, but three big news stories, travelling the world from Russia/Ukraine to Spain and then right out into outer space and unknowable time. You don’t get that on the grown-up news. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1781362092392-300d51c6-32d1-4c19-96e8-c84b1f68bbec.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a2d6e5b685069f99f50bc38/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36456192",
+      "itunes_duration": "1:15:56",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "basement"
+      ]
+    },
     {
       "key": "6ea65d478587036d47381b12215a238f185b8cda",
       "title": "Andrew Hunter Murray on Bad Deeds - Book Club",
@@ -22767,6 +22790,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-13 — Rich and Ally's Craven Newsround Compilation "Milked in a Basement" — speakers: Craven Newsround Compilation, Richard Herring
 - 2026-06-12 — Andrew Hunter Murray on Bad Deeds - Book Club — speakers: Andrew Hunter Murray, Richard Herring
 - 2026-06-10 — Ronni Ancona - "Predicting the Future with Urine" — speakers: Ronni Ancona, Richard Herring
 - 2026-06-08 — Al Murray (Retro) - "Too Much Farage Piss" — speakers: Al Murray, Richard Herring
