@@ -16140,6 +16140,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:31c647bfd4ab",
+        "feed_title": "What Did You Do Yesterday? with Max Rushden & David O'Doherty",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a2be260126ad95c2367834c",
+        "dedupe_key": "75637dafc5e68c0c8f1f2c7422402c4a2281472e",
+        "episode_key": "75637dafc5e68c0c8f1f2c7422402c4a2281472e",
+        "title": "EP3: Alex Horne",
+        "published_at": "2024-09-08T07:17:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Joining hosts Max Rushden and David O' Doherty on this episode of 'What did you do yesterday?' is the brilliant comedian - Alex Horne. \nWe ask Alex what he did yesterday? \nHe tells us. \nThat's it. \nEnjoy!\nPlease follow, subscribe and leave a review!!\nGet in touch with the show: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM\nAnd te",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/12c8c8b2-664b-11f1-bf13-6f19d72cc7cd/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep3-alex-horne/id1765600990?i=1000772365575&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:73f1b5d25ae3",
         "feed_title": "The Mid•Point with Gabby Logan",
         "source_rss_url": "https://feeds.acast.com/public/shows/6310cebaae5d1300124c3544",
