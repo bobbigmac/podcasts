@@ -2,9 +2,9 @@
 
 - slug: `have-a-word`
 - source: `https://feeds.acast.com/public/shows/660d348bf844f70016bf5fd1`
-- fetched_at: `2026-06-12T22:47:07+00:00`
-- checked_at: `2026-06-12T22:47:07+00:00`
-- etag: `"djEuMi4wOjE3ODEyOTYyNTQ1NDk="`
+- fetched_at: `2026-06-13T09:33:52+00:00`
+- checked_at: `2026-06-13T09:33:52+00:00`
+- etag: `"djEuMi4wOjE3ODEzMjY4Mzk0Njc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://haveawordpod.com",
   "description": "The funniest podcast in the UK with comedians Adam Rowe and Dan Nightingale Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
-  "fetched_at": "2026-06-12T22:47:07+00:00",
+  "fetched_at": "2026-06-13T09:33:52+00:00",
   "owners": [
     "Dan Nightingale",
     "Adam Rowe"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c112ce3957974ff968918751414ea8e1835647e7",
+      "title": "#385 with Bella Hull - Have A Word w/Adam, Dan & Carl",
+      "published_at": "2026-06-13T05:00:00+00:00",
+      "link": "https://shows.acast.com/have-a-word-with-adamrowe-and-dannightingale/episodes/385-with-bella-hull-have-a-word-adam-dan-carl",
+      "description": "THE KILIMANJARO SPECIAL IS NOW AVAILABLE PUBLICLY: https://youtu.be/Ou3QWOFzuHI Tickets, merch & more || https://haveawordpod.com Patreon || https://patreon.com/haveawordpod Dan's Tickets || http://dannightingale.com Adam's Tickets || https://adamrowe.co.uk Carl's Stream || https://twitch.tv/senseicarl_ Finn's Tickets & Music || https://finnlayk.co.uk Have A Word Highlights || https://youtube.com/haveawordhighlights Finnlay K - Beautiful Morning || https://finnlayk.lnk.to/BeautifulMorning MAD THAT w/ Harry & Carl || https://www.youtube.com/@MadThat Sponsors: Heights | https://heights.com/haveaword Enter code HAVEAWORD20 at checkout for 20% off your first month! Saily | https://saily.com/haveaword Download SAILY in your app store and use our code HAVEAWORD at checkout to get an exclusive 15% off your first purchase or go to https://saily.com/haveaword 🌍 Hello Fresh | https://www.hellofresh.co.uk/HAW50 Go to https://www.hellofresh.co.uk/HAW50 to enjoy an exclusive offer of 50% off your first box, along with a 20% discount for the following one month plus free desserts for life. Alternatively, you can use our code HAW50. This special offer is available for new customers as well as those who cancelled their subscription twelve months ago or more. Manscaped | https://manscaped.com 15% off your entire order and free shipping with promo code: WORD15 Lovehoney | https://lovehoney.co/word_youtube Love how you love and take 20% off sitewide to unlock sexual happiness and discover a happier you with promo code: AFF-WORD20 NordVPN | https://nordvpn.com/haveaword EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/haveaword Try it risk-free now with a 30-day money-back guarantee Discord || https://discord.gg/haveawordpod Follow the podcast, our hosts and our guest on social media: Have A Word https://facebook.com/haveawordpod https://twitter.com/haveawordpod https://instagram.com/haveawordpod Adam Rowe https://facebook.com/adamrowecomedian https://twitter.com/adamrowecomedy https://instagram.com/adamrowecomedian Dan Nightingale https://facebook.com/danhasapodcast https://twitter.com/danhasapodcast https://instagram.com/danhasapodcast Carl Reigler https://twitter.com/senseicarl_ https://instagram.com/senseicarl_ Bella Hull https://instagram.com/bellabellahull Hello Fresh Terms and Conditions: This offer entitles you to 50% off your first box, and 20% off your next four boxes plus free treats for 2 months when ordered in consecutive weeks during your first six weeks as a HelloFresh customer. One voucher per customer and household. Must be 18 or over. Once redeemed you will be signed up to a flexible rolling weekly subscription. Valid for UK residents only (including Jersey, Guernsey & Isle of Man), excluding Scottish Highlands and Islands. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/1781294025182-105be7e5-e7d3-4b57-9c39-b364de38cefa.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/660d348bf844f70016bf5fd1/e/6a2c63ad3982bde37253fc84/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "128084009",
+      "itunes_duration": "2:13:25",
+      "speakers": [
+        "Dan Nightingale",
+        "Adam Rowe"
+      ],
+      "topics": [
+        "bella",
+        "hull",
+        "word",
+        "adam",
+        "carl"
+      ]
+    },
     {
       "key": "284e351e4ce64788cf04dbd60edf1130666463ac",
       "title": "#384 with Seann Walsh - Have A Word w/Adam, Dan & Carl",
@@ -8863,6 +8886,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-13 — #385 with Bella Hull - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-06-06 — #384 with Seann Walsh - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-05-30 — #383 with Rob Thomas & Danny McLoughlin - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-05-23 — #382 with Nick Helm - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
