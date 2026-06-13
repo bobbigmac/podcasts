@@ -26986,6 +26986,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:31c647bfd4ab",
+        "feed_title": "What Did You Do Yesterday? with Max Rushden & David O'Doherty",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a2be260126ad95c2367834c",
+        "dedupe_key": "a86b48c796bb477c611ef7e969e7b1dafff75ddb",
+        "episode_key": "a86b48c796bb477c611ef7e969e7b1dafff75ddb",
+        "title": "EP19: Nish Kumar",
+        "published_at": "2024-12-29T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Everything. Everyone. Everywhere. Ends....\nAnd what better way to end the first series than with the first ever episode we recorded!! \nYes, it's finally here - the laywers have signed it off, Interpol are off our backs, and society is ready for WDYDY with Mr Nish Kumar... \nWe ask Nish what he did yesterday? \nHe tells u",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/1cd706e8-664b-11f1-bf13-4b436843c3d0/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep19-nish-kumar/id1765600990?i=1000772365435&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:556cc9550d87",
         "feed_title": "The Bugle",
         "source_rss_url": "https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607",
