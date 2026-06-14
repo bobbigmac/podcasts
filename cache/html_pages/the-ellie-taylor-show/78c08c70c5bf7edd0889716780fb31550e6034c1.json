@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/?page=3",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/?page=3",
-  "fetched_at": "2026-06-14T05:06:01+00:00",
+  "fetched_at": "2026-06-14T09:55:57+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/?page=4",
   "episodes": [
+    {
+      "key": "5f6f28f86b0c2110e2dd9904712d9dfd48f638e0",
+      "guid": "9426f841-9404-4ff8-a1cc-9d0c5c31d74c",
+      "title": "The Ellie Taylor Show (20th April)",
+      "published_at": "2025-04-20T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-ellie-taylor-show-20th-april/",
+      "description": "Where there's an Essex twang, there's hot gossip.",
+      "image_url": "https://mm.aiircdn.com/177/695686.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1745132478-the_ellie_taylor_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=9426f841-9404-4ff8-a1cc-9d0c5c31d74c&awCollectionId=fubar_radio-standalone&providerId=fubar",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "42a87241a5479458f6c68dffccbc35635884288b",
       "guid": "af966c83-a324-4422-8270-e48574d49b65",
@@ -380,19 +393,6 @@
       "description": "Where there's an Essex twang, there's hot gossip.",
       "image_url": "https://mm.aiircdn.com/177/695686.png",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1727596960-the_ellie_taylor_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=d1de72ef-a318-4586-9f41-d175af3f8abf&awCollectionId=fubar_radio-standalone&providerId=fubar",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "e27ea0dfc116d06859a480ffa5bf62016c0dc6a3",
-      "guid": "1c448343-e8cb-4fec-a2c8-67948d2a1f36",
-      "title": "The Ellie Taylor Show (22nd September)",
-      "published_at": "2024-09-22T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/the-ellie-taylor-show-22nd-september/",
-      "description": "Where there's an Essex twang, there's hot gossip.",
-      "image_url": "https://mm.aiircdn.com/177/695686.png",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1726992132-the_ellie_taylor_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=1c448343-e8cb-4fec-a2c8-67948d2a1f36&awCollectionId=fubar_radio-standalone&providerId=fubar",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null

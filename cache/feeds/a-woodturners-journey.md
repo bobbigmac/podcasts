@@ -2,9 +2,9 @@
 
 - slug: `a-woodturners-journey`
 - source: `https://feeds.acast.com/public/shows/65a70f72224eec0017895999`
-- fetched_at: `2026-06-14T05:06:01+00:00`
-- checked_at: `2026-06-14T05:06:01+00:00`
-- etag: `"djEuMi4wOjE3ODE0MDc4MDM5MjM="`
+- fetched_at: `2026-06-14T09:55:57+00:00`
+- checked_at: `2026-06-14T09:55:57+00:00`
+- etag: `"djEuMi4wOjE3ODE0MjA0Mzk0NTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/a-woodturners-journey",
   "description": "At A Woodturners Journey, we strive to explore woodturning from all different perspectives. Markus and Chris are both obsessed with creating things on their lathe as well as finding areas to improve their efficiencies and style. Their goal is to stay up to date with the newest things going on around the world of woodturning. They also love to interview fellow woodturners and find out about their journey so far. Woodturning is a wonderful rabbit hole and one we never see ourselves finding the bottom of. Join us in our journey. If you have any comments, questions or feedback please send us an email AWoodturnersJourney@gmail.com or find us on Instagram @AWoodturnersJourney Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
-  "fetched_at": "2026-06-14T05:06:01+00:00",
+  "fetched_at": "2026-06-14T09:55:57+00:00",
   "owners": [
     "Chris Jacobsen"
   ],
@@ -26,6 +26,24 @@
     "hobbies"
   ],
   "episodes": [
+    {
+      "key": "0797c22d91dc4de900f2e93cb70f4bb21f9c9daf",
+      "title": "Ep 40 - Youll be selling out theaters",
+      "published_at": "2026-06-14T07:00:00+00:00",
+      "link": "https://shows.acast.com/a-woodturners-journey/episodes/ep-40-youll-be-selling-out-theaters",
+      "description": "Enjoy episode 40. Markus is back! We chat about his upcoming performance in Moriarty, what we have been working on lately and some neat new tools that are coming out as well as a cool web app by James @ Bad Owl Tools for woodturning and woodworking. Apple Podcast: https://podcasts.apple.com/us/podcast/a-woodturners-journey/id1727042194 Spotify: https://open.spotify.com/show/6a8YdbJZfBt4NVqcQTI0UT?si=4DUOBk6ZStWe4O4sUFk7Rg RSS: https://feeds.acast.com/public/shows/65a70f72224eec0017895999 Please email us at: AWoodturnersJourney@gmail.com Follow us on Instagram at: www.instagram.com/awoodturnersjourney Chris - www.instagram.com/hiramwoodworking & www.instagram.com/whatwoodyouturn Markus - www.instagram.com/redchairwoodworks Bad Owl Tools - https://shop.badowltool.com/collections/bad-owl-tool GO SEE MARKUS AS MORIARTY: https://coastertheatre.com/shows/ken-ludwigs-moriarty/ Please subscribe, listen to the episode, and let us know what you think with a comment or a 5-star review. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65a70f72224eec0017895999/e/6a2e203b6cf76d7745c75438/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87743065",
+      "itunes_duration": "48:57",
+      "speakers": [
+        "Chris Jacobsen"
+      ],
+      "topics": [
+        "theater"
+      ]
+    },
     {
       "key": "087f774f4db93dc044c5e7c303663ba4e199e07a",
       "title": "Ep 39 - Turned to Dust w/ Mike Holmstrom",
@@ -786,6 +804,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-14 — Ep 40 - Youll be selling out theaters — speakers: Chris Jacobsen
 - 2026-05-31 — Ep 39 - Turned to Dust w/ Mike Holmstrom — speakers: Mike Holmstrom Enjoy, Mike Holmgren, Chris Jacobsen
 - 2026-05-18 — Ep 38 - Love As An Act Of Rebellion — speakers: Chris Jacobsen
 - 2026-05-03 — Ep 37 - High Voltage — speakers: Kevin Jesequel, Chris Jacobsen

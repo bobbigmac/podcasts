@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-06-12T20:25:22+00:00`
-- checked_at: `2026-06-12T20:25:22+00:00`
-- etag: `"djEuMi4wOjE3ODEyODg5NTAzNjY="`
+- fetched_at: `2026-06-14T09:55:57+00:00`
+- checked_at: `2026-06-14T09:55:57+00:00`
+- etag: `"djEuMi4wOjE3ODE0MTY4MzkzODA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,39 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-06-12T20:25:22+00:00",
+  "fetched_at": "2026-06-14T09:55:57+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "880ae4fcb74f26de7885fc4e748803a190b68ab1",
+      "title": "Hasan Piker meets Jeremy Corbyn | Israel, Trump, and the death of free speech",
+      "published_at": "2026-06-14T06:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a2c4ff60592e825459ad374",
+      "description": "Jeremy Corbyn is no stranger to media and political pile-ons. Neither is Hasan Piker. Hasan was due to grace the PolJOE dungeon with his presence, for a chat with the former leader of the Labour Party, but the UK government had other ideas. Himself and his uncle, Cenk Uygur, had their e-visas revoked by the Home Office, who believed their arrival would not be \"conducive to the public good.\" We decided to find out whether that was true or not by carrying on with the interview regardless. Hasan and Corbyn joined Seán for a wide-ranging chat on where their philosophies blend, and where they differ. How the global drive for equality and emancipation continues to be undermined by the very states sworn to protect them, and where the left can learn to become a true force in mainstream and grassroots political movements alike. EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/joesunday Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a2c4ff60592e825459ad374/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80635340",
+      "itunes_duration": "55:48",
+      "speakers": [
+        "Hasan Piker",
+        "Jeremy Corbyn"
+      ],
+      "topics": [
+        "hasan",
+        "piker",
+        "jeremy",
+        "corbyn",
+        "israel",
+        "trump",
+        "death",
+        "speech"
+      ]
+    },
     {
       "key": "30c089a02e85ad4a1ca6d778999efaa13c29fb65",
       "title": "The truth about the Belfast riots | Claire Hanna interview",
@@ -13287,6 +13313,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-14 — Hasan Piker meets Jeremy Corbyn | Israel, Trump, and the death of free speech — speakers: Hasan Piker, Jeremy Corbyn
 - 2026-06-10 — The truth about the Belfast riots | Claire Hanna interview — speakers: Claire Hanna
 - 2026-06-08 — Why is Starmer So Slow on Fixing Student Loans? With the Conservative's Ruth Davidson — speakers: Ruth Davidson
 - 2026-06-03 — Starmer fumes at Farage for "exploiting" Henry Nowak tragedy — speakers: Henry Nowak
