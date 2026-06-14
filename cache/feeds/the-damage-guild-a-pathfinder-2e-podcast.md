@@ -3,11 +3,9 @@
 - slug: `the-damage-guild-a-pathfinder-2e-podcast`
 - source: `https://www.thedamageguild.com/feed/podcast2`
 - fetched_at: `2026-06-08T05:01:11+00:00`
-- checked_at: `2026-06-14T14:27:37+00:00`
+- checked_at: `2026-06-14T16:46:19+00:00`
 - last_modified: `Mon, 08 Jun 2026 04:01:00 GMT`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: <urlopen error timed out>
 
 <!-- FEED_JSON -->
 ```json
@@ -1121,17 +1119,7 @@
         "preview"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-06-14T14:27:37+00:00",
-    "status": "error",
-    "checked_at": "2026-06-14T14:27:37+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "<urlopen error timed out>"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
