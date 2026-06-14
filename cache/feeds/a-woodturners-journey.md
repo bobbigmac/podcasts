@@ -2,9 +2,9 @@
 
 - slug: `a-woodturners-journey`
 - source: `https://feeds.acast.com/public/shows/65a70f72224eec0017895999`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"djEuMi4wOjE3ODAyMzIxMzkyMDU="`
+- fetched_at: `2026-06-14T05:06:01+00:00`
+- checked_at: `2026-06-14T05:06:01+00:00`
+- etag: `"djEuMi4wOjE3ODE0MDc4MDM5MjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/a-woodturners-journey",
   "description": "At A Woodturners Journey, we strive to explore woodturning from all different perspectives. Markus and Chris are both obsessed with creating things on their lathe as well as finding areas to improve their efficiencies and style. Their goal is to stay up to date with the newest things going on around the world of woodturning. They also love to interview fellow woodturners and find out about their journey so far. Woodturning is a wonderful rabbit hole and one we never see ourselves finding the bottom of. Join us in our journey. If you have any comments, questions or feedback please send us an email AWoodturnersJourney@gmail.com or find us on Instagram @AWoodturnersJourney Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-14T05:06:01+00:00",
   "owners": [
     "Chris Jacobsen"
   ],

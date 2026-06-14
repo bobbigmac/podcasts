@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-06-12T15:39:09+00:00`
-- checked_at: `2026-06-12T15:39:09+00:00`
-- etag: `"djEuMi4wOjE3ODEyNzY3NDY1MjQ="`
+- fetched_at: `2026-06-14T05:06:01+00:00`
+- checked_at: `2026-06-14T05:06:01+00:00`
+- etag: `"djEuMi4wOjE3ODEzOTMzMTkyODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-06-12T15:39:09+00:00",
+  "fetched_at": "2026-06-14T05:06:01+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,30 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "5af812e3563e4caba18d65c1f669179be1ec98ba",
+      "title": "Seve: Pint Size",
+      "published_at": "2026-06-13T23:28:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/seve-pint-size",
+      "description": "Welcome to Pint-Sized Distant Pod. We’ve been back through our archive of episodes and picked out some of our favourite stories, anecdotes, and funny bits. If you’re new to the pod, these are a perfect way to dip your toe in and then dive back into the full episodes from our early days. This is from 187: I Think She Could Believe Her Luck (Pt 1) 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a2c1c2f0592e825458862e6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14251990",
+      "itunes_duration": "14:50",
+      "speakers": [
+        "Pint Size Welcome",
+        "Sized Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "seve",
+        "pint",
+        "size"
+      ]
+    },
     {
       "key": "341b9bae9f256716c92f822f9e94e335a350651f",
       "title": "FIFA World Cup Special (pt 2)",
@@ -15049,6 +15073,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-13 — Seve: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-11 — FIFA World Cup Special (pt 2) — speakers: Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-06-09 — FIFA World Cup Special (pt 1) — speakers: Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-06-06 — Bob Harris: Pint Size — speakers: Bob Harris, Pint Size, Elis James, Mike Bubbins, Steff Garrero
