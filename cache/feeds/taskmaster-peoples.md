@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-06-08T16:19:37+00:00`
-- checked_at: `2026-06-08T16:19:37+00:00`
-- etag: `"1112b8-653bd092e55ed"`
-- last_modified: `Mon, 08 Jun 2026 12:20:28 GMT`
+- fetched_at: `2026-06-15T12:41:48+00:00`
+- checked_at: `2026-06-15T12:41:48+00:00`
+- etag: `"112057-65448054039b9"`
+- last_modified: `Mon, 15 Jun 2026 10:09:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-06-08T16:19:37+00:00",
+  "fetched_at": "2026-06-15T12:41:48+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9ce430348fca7dd5e04b1e1b7f42a500630dc81c",
+      "title": "The Whole Hilt With a Kilt - S21, Ep.10 *GRAND FINAL*",
+      "published_at": "2026-06-15T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Well kick us in the centre of the body, it's the series 21 grand final! And there's so much to discuss, including how to style out your cringe, whether or not it's possible to fill an egg cup with belly button lint alone and why Kumail's nipple gate got so out of hand on this podcast. And saying goodbye to series 21 of course means ushering in a new cast for series 22! Jack and Jenny give their thoughts. Next week Jack offers his series 21 stats debrief, and it's your chance to debrief too. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/5db6fd5e-ccde-49e6-abf1-52cda35b3340.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=5db6fd5e-ccde-49e6-abf1-52cda35b3340",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61046576",
+      "itunes_duration": "59:53",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "hilt",
+        "kilt",
+        "grand",
+        "final"
+      ]
+    },
     {
       "key": "e1e696dcea209dd6785e058d9d0dd42ac21f6905",
       "title": "The Last Handsome Cockroach Standing - S21, Ep.9",
@@ -4594,6 +4616,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — The Whole Hilt With a Kilt - S21, Ep.10 *GRAND FINAL* — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-06-08 — The Last Handsome Cockroach Standing - S21, Ep.9 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-06-01 — No Kinky Couches - S21, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-05-25 — Moral About Donuts - S21, Ep.7 — speakers: Jenny Eclair, Jack Bernhardt

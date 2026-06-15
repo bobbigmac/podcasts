@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-06-15T05:27:43+00:00`
-- checked_at: `2026-06-15T05:27:43+00:00`
-- last_modified: `Mon, 15 Jun 2026 00:20:00 GMT`
+- fetched_at: `2026-06-15T12:41:48+00:00`
+- checked_at: `2026-06-15T12:41:48+00:00`
+- last_modified: `Mon, 15 Jun 2026 11:54:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-15T05:27:43+00:00",
+  "fetched_at": "2026-06-15T12:41:48+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,26 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "3efe41a6a5c9a69409c240e021f54ed0ea3b8986",
+      "title": "This World Cup Is Messy. Watch It Anyway.",
+      "published_at": "2026-06-15T09:00:00+00:00",
+      "link": null,
+      "description": "The World Cup kicked off over the weekend, and so far the mood is meh. Fans are fuming over sell-your-kidney ticket prices, frightened by reports that ICE may target matches, tailgates, and sports bars, and generally feeling down on this quadrennial celebration. We wanted to know: Is there any joy left in this thing? So we called up Simon Kuper. He's a columnist at the Financial Times, \"one of the best sportswriters in the English language today\" (The New Yorker), and author of the Next Big Idea Club must-read World Cup Fever . He's also attended every World Cup since 1990. Simon tells us how the tournament bridges political divides, why suicides decline during the World Cup, whether “sportswashing” really works, and which storylines to follow, no matter if you're a die-hard footy fan or a first-time viewer. 🔗 SPONSORED BY: Fora — Build and scale your own travel business by becoming a Fora Advisor today at foratravel.com/idea Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Shopify — Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP3667321678.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2602",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "world",
+        "messy"
+      ]
+    },
     {
       "key": "922189b3779af25fafcb3f96754b74bb14e4575f",
       "title": "The Case for AI Optimism with Peter Diamandis and Steven Kotler",
@@ -7903,6 +7923,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — This World Cup Is Messy. Watch It Anyway. — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-06-11 — The Case for AI Optimism with Peter Diamandis and Steven Kotler — speakers: Peter Diamandis, Steven Kotler, Rufus Griscom, Caleb Bissinger
 - 2026-06-08 — Best Of: The Power of Thinking Outside Your Brain — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-06-04 — Want to Be Happier? Try Talking to Strangers. — speakers: Nicholas Epley, Rufus Griscom, Caleb Bissinger

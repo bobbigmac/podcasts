@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-06-14T14:27:37+00:00`
-- checked_at: `2026-06-14T14:27:37+00:00`
-- last_modified: `Sun, 14 Jun 2026 11:22:06 GMT`
+- fetched_at: `2026-06-15T12:41:48+00:00`
+- checked_at: `2026-06-15T12:41:48+00:00`
+- last_modified: `Mon, 15 Jun 2026 11:30:14 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-14T14:27:37+00:00",
+  "fetched_at": "2026-06-15T12:41:48+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,54 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "19d53c62042290b18fa8fca66f7e7446912db022",
+      "title": "487. The Anti-Gender Movement with Felicity Ward and Alice McCool - part two",
+      "published_at": "2026-06-15T11:30:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 487. The Anti-Gender Movement Presented by Deborah Frances-White and Felicity Ward with very special guest Alice McCool. Recorded 22 May at the Museum of Comedy. Released 15 June. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Felicity Ward https://www.instagram.com/felicityward https://www.felicityward.com More about Alice McCool https://www.instagram.com/mccoolingtonsphotos https://www.alicemccool.com For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Road to Gilead Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1990526915588 Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe previews at Soho Theatre . https://sohotheatre.com/events/the-guilty-feminist-edinburgh-preview-showcase Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/45dd49a2-67e1-11f1-9071-cbce02f88ac9/image/600a6a274f494be2bf59aa036599e88a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL3969065869.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2974",
+      "speakers": [
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "anti",
+        "gender",
+        "movement",
+        "felicity",
+        "ward",
+        "alice",
+        "mccool"
+      ]
+    },
+    {
+      "key": "597709aafb8b21bf44d75c20b0572a6b207a1959",
+      "title": "487. The Anti-Gender Movement with Felicity Ward and Alice McCool - part one",
+      "published_at": "2026-06-15T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 487. The Anti-Gender Movement Presented by Deborah Frances-White and Felicity Ward with very special guest Alice McCool. Recorded 22 May at the Museum of Comedy. Released 15 June. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Felicity Ward https://www.instagram.com/felicityward https://www.felicityward.com More about Alice McCool https://www.instagram.com/mccoolingtonsphotos https://www.alicemccool.com For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Road to Gilead Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1990526915588 Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe previews at Soho Theatre . https://sohotheatre.com/events/the-guilty-feminist-edinburgh-preview-showcase Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3914a1b6-67e1-11f1-901d-3be1b546206c/image/600a6a274f494be2bf59aa036599e88a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL4281818917.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3053",
+      "speakers": [
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "anti",
+        "gender",
+        "movement",
+        "felicity",
+        "ward",
+        "alice",
+        "mccool"
+      ]
+    },
     {
       "key": "a77b78945971942d82123e6b4a86b1295e12264f",
       "title": "486. Criminal Justice with Charlotte Proudman",
@@ -18116,6 +18164,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — 487. The Anti-Gender Movement with Felicity Ward and Alice McCool - part two — speakers: Deborah Frances-White
+- 2026-06-15 — 487. The Anti-Gender Movement with Felicity Ward and Alice McCool - part one — speakers: Deborah Frances-White
 - 2026-06-08 — 486. Criminal Justice with Charlotte Proudman — speakers: Charlotte Proudman, Deborah Frances-White
 - 2026-06-01 — 485. Waterstone’s Book Club – Bimbo by Ashley James — speakers: Ashley James, Deborah Frances-White
 - 2026-05-25 — 484. Girls’ Rights Are Human Rights with Jessica Fostekew and special guests Claire Mahon and Julia Rowland - part two — speakers: Jessica Fostekew, Claire Mahon, Deborah Frances-White

@@ -2,8 +2,8 @@
 
 - slug: `the-richard-herring-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-richard-herring-show/`
-- fetched_at: `2026-06-15T05:27:43+00:00`
-- checked_at: `2026-06-15T05:27:43+00:00`
+- fetched_at: `2026-06-15T12:41:48+00:00`
+- checked_at: `2026-06-15T12:41:48+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-richard-herring-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-richard-herring-show/",
   "image_url": "",
-  "fetched_at": "2026-06-15T05:27:43+00:00",
+  "fetched_at": "2026-06-15T12:41:48+00:00",
   "owners": [
     "Richard Herring"
   ],
