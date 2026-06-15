@@ -8252,6 +8252,28 @@
     ],
     "harry-hill": [
       {
+        "feed_slug": "external:apple:e8b919cc1fa1",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT2134425554",
+        "dedupe_key": "36635212d79b5eb9ab66615a5eb092aee0c56fae",
+        "episode_key": "36635212d79b5eb9ab66615a5eb092aee0c56fae",
+        "title": "Louis Theroux: Cardboard Owls, Incel Heirs, and Karate-Chopping Geese",
+        "published_at": "2026-06-15T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this week’s episode of the Vodscarf we welcome legendary documentary filmmaker Louis Theroux (after he accidentally walked onto set, why else would he be there?!) and Oxford astrophysicist Professor Chris Lintott to the studio for an hour of pure, unadulterated science and anti-comedy.  \n\nThings get incredibly weird",
+        "audio_url": "https://traffic.megaphone.fm/NSR8390462838.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/louis-theroux-cardboard-owls-incel-heirs-and-karate/id1742178595?i=1000772723681&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:18023f9a90d0",
         "feed_title": "Britcom Goes To The Movies",
         "source_rss_url": "https://feeds.megaphone.fm/WHYNOW1113045997",

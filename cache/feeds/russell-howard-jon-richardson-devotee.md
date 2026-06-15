@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-06-14T22:35:05+00:00`
-- checked_at: `2026-06-14T22:35:05+00:00`
-- etag: `W/"33993-ZsF0WEYFIJE/Y8U0Gz26J9X2QbE"`
+- fetched_at: `2026-06-15T19:08:30+00:00`
+- checked_at: `2026-06-15T19:08:30+00:00`
+- etag: `W/"33ebc-ofrdzk2SYpvjefrxr4bKTaqX7jU"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,43 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-06-14T22:35:05+00:00",
+  "fetched_at": "2026-06-15T19:08:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2c7540beb425897c8f0d727c7d063c64ee518294",
+      "title": "Josh Widdicombe XFM #30 – James Acaster Classic Scrape 27, Adam Hills, Matthew Crosby",
+      "published_at": "2026-06-15T18:53:32+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-30--James-Acaster-Classic-Scrape-27--Adam-Hills--Matthew-Crosby-e3kr0g0",
+      "description": "James Acaster and Adam Hill join josh. James shares another Classic Scrape and Matthew Crosby talks about Fern Britton's Book.Broadcast on 5th November 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1781549525492-93abecd43cf3.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2533436974.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37172452",
+      "itunes_duration": "00:38:43",
+      "speakers": [
+        "James Acaster Classic Scrape",
+        "Matthew Crosby",
+        "James Acaster",
+        "Adam Hill"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "adam",
+        "hills",
+        "matthew",
+        "crosby"
+      ]
+    },
     {
       "key": "b9bde180225a14d44c6eec1366e9eb3356f2dbeb",
       "title": "Josh Widdicombe XFM # 28 – James Acaster Classic Scrape 25, Matthew Crosby",
@@ -3852,6 +3882,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — Josh Widdicombe XFM #30 – James Acaster Classic Scrape 27, Adam Hills, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster, Adam Hill
 - 2026-06-11 — Josh Widdicombe XFM # 28 – James Acaster Classic Scrape 25, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster, David Beckham
 - 2026-06-11 — Josh Widdicombe XFM # 27 – James Acaster Classic Scrape 24, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster
 - 2026-06-09 — Josh Widdicombe XFM # 26 – James Acaster Classic Scrape 23, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster
