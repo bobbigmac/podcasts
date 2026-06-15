@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-06-14T22:35:05+00:00`
-- checked_at: `2026-06-14T22:35:05+00:00`
-- etag: `"95866d038710f4b91729a08b6ceed5cc"`
-- last_modified: `Sun, 14 Jun 2026 21:56:37 GMT`
+- fetched_at: `2026-06-15T05:27:43+00:00`
+- checked_at: `2026-06-15T05:27:43+00:00`
+- etag: `"3b12be81bc379af009e8e53479373c31"`
+- last_modified: `Mon, 15 Jun 2026 04:21:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-06-14T22:35:05+00:00",
+  "fetched_at": "2026-06-15T05:27:43+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "10d5ba0b410c70098c6d59e7fd566248dba4acd8",
+      "title": "Asha's Next 100 Days: A Scary Reset for XBOX? - (Xbox In Ten: An Xbox Podcast - Ep. 368)",
+      "published_at": "2026-06-15T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/ashas-next-100-days-a-scary-reset-for-xbox-xbox-in-ten-an-xbox-podcast-ep-368",
+      "description": "Week of: 6-8-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/c/d/a/8/cda8aa32f7f79db7d959afa2a1bf1c87/368.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/368.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23726368",
+      "itunes_duration": "16:44",
+      "speakers": [
+        "Scary Reset",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "asha",
+        "scary",
+        "reset",
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "4186b8c894b8e400d0ce00fd72a8a69240796f7b",
       "title": "Xbox Games Showcase 2026, Summer Game Fest & State of Play Recaps - (Xbox In Ten: An Xbox Podcast - Ep. 367)",
@@ -9251,6 +9276,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — Asha's Next 100 Days: A Scary Reset for XBOX? - (Xbox In Ten: An Xbox Podcast - Ep. 368) — speakers: Scary Reset, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-06-07 — Xbox Games Showcase 2026, Summer Game Fest & State of Play Recaps - (Xbox In Ten: An Xbox Podcast - Ep. 367) — speakers: Xbox Games Showcase, Summer Game Fest, Play Recaps, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-06-01 — Xbox Delays Fable To February 2027 - (Xbox In Ten: An Xbox Podcast - Ep. 366) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-05-25 — Major Xbox Leadership Hires to Strengthen Console Brand - (Xbox In Ten: An Xbox Podcast - Ep. 365) — speakers: Xbox Leadership Hires, Console Brand, Brandon Rosa

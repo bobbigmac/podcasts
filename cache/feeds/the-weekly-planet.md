@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-06-14T09:55:57+00:00`
-- checked_at: `2026-06-14T09:55:57+00:00`
-- etag: `"djEuMi4wOjE3ODE0MjIxMjg1Mjg="`
+- fetched_at: `2026-06-15T05:27:43+00:00`
+- checked_at: `2026-06-15T05:27:43+00:00`
+- etag: `"djEuMi4wOjE3ODE0OTc4Mzk0NDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-06-14T09:55:57+00:00",
+  "fetched_at": "2026-06-15T05:27:43+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ddb7f38015af7c47c2496993ba1e346e099e29fc",
+      "title": "627 More Spider-Man leaks & Disclosure Day!",
+      "published_at": "2026-06-15T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/627-disclosure-day",
+      "description": "Oh my gosh good news everyone movies are back and we also have news of new movies being made. This week we review Steven Spielberg's latest alien sci-fi outing, Disclosure Day. Plus we talk the leaked Spider-Man Brand New Day trailer, 24 Jump Street, Doctor Who takes a big hiatus (is cancelled), potential trouble with the Paramount/Warner Brothers merger, trailers for The Social Reckoning, Whalefall (Whale Fail), Pixar's Gatto and more! Thanks for listening New bonus podcast ep for James & Maso's Time Crapsule out now! Available to listen with entire back catalogue of bonuses on bigsandwich.co and patreon.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 04:42 Spider-Man: Brand New Day Trailer Leaked 12:02 24 Jump Street Movie Announced 15:28 Doctor Who Cancelled (for now maybe) 19:45 Troubles for Paramount's Warner Bros Bid 25:39 Social Reckoning Trailer 29:40 Whalefall (Whale Fail) Trailer 35:12 Pixar's Gato Trailer 37:00 Toy Story 5 Next Week 40:21 Disclosure Day Movie Review 01:01:34 Disclosure Day Spoiler Segment 01:11:39 What We Reading, What We Gonna Read 01:22:04 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a2c3d57685069f99ff6de16/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "143449265",
+      "itunes_duration": "1:39:36",
+      "speakers": [
+        "More Spider",
+        "Disclosure Day",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "spider",
+        "leak",
+        "disclosure"
+      ]
+    },
     {
       "key": "7664b0e9201d514bc4e5bb879d78a66a9086511a",
       "title": "Smallville's Supergirl - Caravan Of Garbage",
@@ -22482,6 +22505,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — 627 More Spider-Man leaks & Disclosure Day! — speakers: More Spider, Disclosure Day, James Clement, Nick Mason
 - 2026-06-11 — Smallville's Supergirl - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-06-08 — 626 Masters of the Universe & Summer Games Fest 2026 — speakers: Summer Games Fest, James Clement, Nick Mason
 - 2026-06-04 — The Fifth Element (Extended) - Caravan Of Garbage — speakers: James Clement, Nick Mason

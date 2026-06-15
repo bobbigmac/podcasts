@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-06-12T15:39:09+00:00`
-- checked_at: `2026-06-12T15:39:09+00:00`
-- last_modified: `Fri, 12 Jun 2026 14:13:01 GMT`
+- fetched_at: `2026-06-15T05:27:43+00:00`
+- checked_at: `2026-06-15T05:27:43+00:00`
+- last_modified: `Sun, 14 Jun 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-12T15:39:09+00:00",
+  "fetched_at": "2026-06-15T05:27:43+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "da81687f9670e254307f7df054291fc350777acf",
+      "title": "ShxtsNGigs On WORST Fan Interactions, Imposter Syndrome & Touring",
+      "published_at": "2026-06-14T23:01:00+00:00",
+      "link": null,
+      "description": "How did ShxtsNGigs become one of the biggest podcasts in the world? James and Fuhad join Romesh to talk about taking ShxtsNGigs from a side project to a global phenomenon, selling out arenas, building a loyal audience of millions and navigating the pressures that come with success. They discuss imposter syndrome, awkward fan encounters, life before podcasting and the challenges of balancing friendship with business. They open up about mental health, finding purpose in work and why positive male friendships matter more than ever in times of the manosphere. Plus, a classic question from Shanthi, stories from the road, the reality of podcast touring and a game of Misquoted. A Ranga Bee Production in partnership with Platform. Chapters 00:00 Intro 02:23 ShxtsNGigs call out Romesh 03:11 Sweating 05:07 Imposter syndrome 07:04 Rom’s bad job 10:15 A gift for ShxtsNGigs 11:35 Rick Glassman’s pod 12:52 What were their podcast goals? 18:23 Going on tour 20:43 Tobi hate 21:33 Can Romesh be a friend? 29:16 A Shanthi question 34:21 Trying not to be rude 36:37 Strange fan interactions 46:26 Work and friendship 48:33 When Fuhad was done 52:22 Positive male role models 59:02 Misquoted 01:10:00 An exclusive 01:13:47 Outro 📺 Follow us for new episodes! 📲 Head to our socials: https://linktr.ee/theromeshshow Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/79d32636-6657-11f1-b3e2-fbf64bdc121b/image/97a85d5b3cfdd02691d29f0cf6895567.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9192204818.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4702",
+      "speakers": [
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shxtsngig",
+        "worst",
+        "interactions",
+        "imposter",
+        "syndrome",
+        "touring"
+      ]
+    },
     {
       "key": "ae68679359030a47d2dd83054fe8b08bcea0cd21",
       "title": "Which World Cup Footballers Would Shanthi Date?",
@@ -1750,6 +1773,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-14 — ShxtsNGigs On WORST Fan Interactions, Imposter Syndrome & Touring — speakers: Romesh Ranganathan
 - 2026-06-10 — Which World Cup Footballers Would Shanthi Date? — speakers: Harry Kane, Romesh Ranganathan
 - 2026-06-07 — Emily Atack on The Inbetweeners, Unwanted DMs and Nobody’s Fool — speakers: Romesh Ranganathan
 - 2026-06-03 — Shanthi’s Love Languages & Philosophical Questions — speakers: Love Languages, Philosophical Questions What, Romesh Ranganathan

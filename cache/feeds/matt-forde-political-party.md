@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-06-14T16:46:19+00:00`
-- checked_at: `2026-06-14T16:46:19+00:00`
-- etag: `"djEuMi4wOjE3ODE0NTIyNDAxMjg="`
+- fetched_at: `2026-06-15T05:27:43+00:00`
+- checked_at: `2026-06-15T05:27:43+00:00`
+- etag: `"djEuMi4wOjE3ODE0ODkwMTk0MDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-06-14T16:46:19+00:00",
+  "fetched_at": "2026-06-15T05:27:43+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b42851ba711b83f78b9adba867b6f7c5c46b324b",
+      "title": "Show 407. Beeban Kidron",
+      "published_at": "2026-06-15T02:03:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-407-beeban-kidron",
+      "description": "From Hollywood film director to campaigner against the evils of Big Tech, via the House of Lords. Beeban Kidron is a force of nature and her new book 'Users' charts the rise of Big Tech and crucially tells us how we can fight back. This is a fascinating and hilarious interview with a national asset who has dedicated her life to fighting injustice online. Oh, and there's a cracking story about Patrick Swayze and Wesley Snipes. BUY Beeban's book: https://www.penguin.co.uk/books/480182/users-by-kidron-beeban/9780753562468 THE POLITICAL PARTY LIVE 9 November: Liz Kendall Plus many more to be announced soon! https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE the final dates of Matt's stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows June 15 Leeds City Varieties - EXTRA DATE 16 Glasgow Glee Club - EXTRA DATE 18 Aberdeen Lemon Tree - EXTRA DATE 26 Bristol 1532 - EXTRA DATE July 3 Basingstoke The Haymarket - EXTRA DATE 8 Birmingham Glee Club - EXTRA DATE 10 Bedford Quarry Theatre - EXTRA DATE 16 Maidenhead Norden Farm - EXTRA DATE DONATE to the RNOH Charity here: https://www. justgiving.com/campaign/mattforde Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a2ecdd0685069f99fa64015/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77826409",
+      "itunes_duration": "54:02",
+      "speakers": [
+        "Beeban Kidron",
+        "Matt Forde"
+      ],
+      "topics": [
+        "beeban",
+        "kidron"
+      ]
+    },
     {
       "key": "91d4b8bb34b60ce25b526dae5ab8fa139fda3b41",
       "title": "Show 406. Jeremy Hunt",
@@ -10427,6 +10447,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — Show 407. Beeban Kidron — speakers: Beeban Kidron, Matt Forde
 - 2026-06-09 — Show 406. Jeremy Hunt — speakers: Jeremy Hunt Prepare, Jeremy Hunt, Matt Forde
 - 2026-06-03 — Show 405. Lucy Powell - LIVE — speakers: Matt Forde
 - 2026-05-26 — Show 404. Kieran Andrews — speakers: Kieran Andrews, Matt Forde

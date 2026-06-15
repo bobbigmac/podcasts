@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-06-12T05:02:09+00:00`
-- checked_at: `2026-06-12T05:02:09+00:00`
-- etag: `W/"19e792c49c139d3c30943fb575696263"`
-- last_modified: `Thu, 11 Jun 2026 22:55:00 GMT`
+- fetched_at: `2026-06-15T05:27:43+00:00`
+- checked_at: `2026-06-15T05:27:43+00:00`
+- etag: `W/"f74c65ee5563b0c71811afeb6d3076c0"`
+- last_modified: `Sun, 14 Jun 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-06-12T05:02:09+00:00",
+  "fetched_at": "2026-06-15T05:27:43+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,28 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "8a546342a3917a8d47b5987e7c38710d356fc4b2",
+      "title": "Little Fish: I've Booked Us In A Lovely Toilet",
+      "published_at": "2026-06-14T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8916004",
+      "description": "Andy, James and Anna discuss YOUR facts including a road that's not a road; and lots of other places that are not where you might think. Anna discovers the true nature of God. And we name eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Jack Chambers, Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8916004.mp3?modified=1781280659&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1790",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "toilet"
+      ]
+    },
     {
       "key": "482629367acd7578dea428eab7669c50543d7404",
       "title": "No Such Thing As Poddyversity Challenge",
@@ -16469,6 +16491,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-14 — Little Fish: I've Booked Us In A Lovely Toilet — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-11 — No Such Thing As Poddyversity Challenge — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-07 — Little Fish: Accordion To Whom? — speakers: Rufus Hound, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-04 — No Such Thing As Chekhov's Volcano — speakers: Greg Foot, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

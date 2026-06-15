@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-06-12T05:02:09+00:00`
-- checked_at: `2026-06-12T05:02:09+00:00`
-- etag: `"djEuMi4wOjE3ODEyMTg5NTkzNTE="`
+- fetched_at: `2026-06-15T05:27:43+00:00`
+- checked_at: `2026-06-15T05:27:43+00:00`
+- etag: `"djEuMi4wOjE3ODE0NzgxNTkzMTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-06-12T05:02:09+00:00",
+  "fetched_at": "2026-06-15T05:27:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2d45395f676f2664afb8b3fb1f11741798787e77",
+      "title": "Ep. 589 - Cathy Shipton - Best known for playing Duffy in the British medical drama Casualty",
+      "published_at": "2026-06-14T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-589-cathy-shipton-best-known-for-playing-duffy-in-the-bri",
+      "description": "Cathy Shipton is a much-loved British actress best known for playing Lisa “Duffy” Duffin in the long-running British medical drama Casualty. A familiar face on British television for more than three decades, she became one of the show’s most popular and enduring cast members. Her other television appearances include Peak Practice, The Royal, Doctors, Holby City, One Foot in the Grave The Spice Girls film Spice World and Celebrity MasterChef. She has also appeared on shows including Pointless Celebrities and Who Do You Think You Are?. Away from acting, Cathy is a keen runner and co-authored the running guide Marathon Manual with marathon legend Liz McColgan, drawing on her own experience of training for and completing marathons. Cathy Shipton is our guest in episode 585 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Follow Cathy Shipton on Instagram : @cathshiptonofficial . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a2ac175438158000be5efec/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "94322854",
+      "itunes_duration": "1:18:35",
+      "speakers": [
+        "Cathy Shipton",
+        "Lisa Duffy Duffin"
+      ],
+      "topics": [
+        "cathy",
+        "shipton",
+        "best",
+        "duffy",
+        "drama",
+        "casualty"
+      ]
+    },
     {
       "key": "68c8c13a2872cb84bffe821975629dc0a813e89b",
       "title": "My Time Capsule The Dig - Ep. 6 - With Lindsey Santoro from episode 305!",
@@ -12766,6 +12790,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-14 — Ep. 589 - Cathy Shipton - Best known for playing Duffy in the British medical drama Casualty — speakers: Cathy Shipton, Lisa Duffy Duffin
 - 2026-06-11 — My Time Capsule The Dig - Ep. 6 - With Lindsey Santoro from episode 305! — speakers: Lindsey Santoro, Mel Giedroyc
 - 2026-06-07 — Ep. 588 - Andrew Ryan - One of UK and Ireland’s most in-demand comedians, 60 million online views — speakers: Andrew Ryan
 - 2026-06-04 — My Time Capsule The Dig - Ep. 5 - With Rufus Hound!

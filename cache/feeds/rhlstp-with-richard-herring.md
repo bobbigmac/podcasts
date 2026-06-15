@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-13T16:45:49+00:00`
-- checked_at: `2026-06-13T16:45:49+00:00`
-- etag: `"djEuMi4wOjE3ODEzNjIyNjc0NjA="`
+- fetched_at: `2026-06-15T05:27:43+00:00`
+- checked_at: `2026-06-15T05:27:43+00:00`
+- etag: `"djEuMi4wOjE3ODE0OTIyNTkzMDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-13T16:45:49+00:00",
+  "fetched_at": "2026-06-15T05:27:43+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "56ab44b4c5fbdcb5d174ab6413b3b6b3fb4a55b7",
+      "title": "Kiell Smith-Bynoe (Retro) - \"Adelaide Clowns\"",
+      "published_at": "2026-06-15T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#437 Adelaide Clowns - Richard has had a wonderful Saturday night without his wife doing what most men can only dream of. His guest is ubiquitous comedy actor and extremely good guy, Kiell Smith-Bynoe. They talk about the best acting job in the world, appearing on Death in Paradise, with some insights into what goes on off camera, getting intimate with an ex-Doctor Who assistant on the ace new series Dreamland, searching for real ghosts on the set of Ghosts, rating the catering on different TV shows, making too many omelettes and a rare career mis-step in Australian theatre. Plus the most considered answer to the human centipede question yet, a few hints about the new series of Taskmaster and find out who is the most objectionable cast member on Ghosts. Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1781102482295-e470795f-a66b-4056-9910-9b00cce16911.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a297798518f9f10eb810880/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38315774",
+      "itunes_duration": "1:12:54",
+      "speakers": [
+        "Kiell Smith-Bynoe",
+        "Richard Herring"
+      ],
+      "topics": [
+        "kiell",
+        "smith",
+        "bynoe",
+        "retro",
+        "adelaide",
+        "clowns"
+      ]
+    },
     {
       "key": "45962f208f262ef156384473c45db1b4715ee9e9",
       "title": "Rich and Ally's Craven Newsround Compilation \"Milked in a Basement\"",
@@ -22790,6 +22814,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — Kiell Smith-Bynoe (Retro) - "Adelaide Clowns" — speakers: Kiell Smith-Bynoe, Richard Herring
 - 2026-06-13 — Rich and Ally's Craven Newsround Compilation "Milked in a Basement" — speakers: Craven Newsround Compilation, Richard Herring
 - 2026-06-12 — Andrew Hunter Murray on Bad Deeds - Book Club — speakers: Andrew Hunter Murray, Richard Herring
 - 2026-06-10 — Ronni Ancona - "Predicting the Future with Urine" — speakers: Ronni Ancona, Richard Herring

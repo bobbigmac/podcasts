@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-06-14T22:35:05+00:00`
-- checked_at: `2026-06-14T22:35:05+00:00`
-- last_modified: `Sun, 14 Jun 2026 21:02:42 GMT`
+- fetched_at: `2026-06-15T05:27:43+00:00`
+- checked_at: `2026-06-15T05:27:43+00:00`
+- last_modified: `Sun, 14 Jun 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-14T22:35:05+00:00",
+  "fetched_at": "2026-06-15T05:27:43+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,35 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "18c0a155dc3b170afe1b2a69f380defa16b290a6",
+      "title": "PETER SERAFINOWICZ: From Liverpool Council Estate To Star Wars, Marvel & Comedy Fame",
+      "published_at": "2026-06-14T23:00:00+00:00",
+      "link": null,
+      "description": "Peter Serfinowicz has one of the most envious CVs in comedy: South Park, Shaun of The Dead, Star Wars, Guardians Of The Galaxy, John Wick, The Tick, Alan Partridge, Rick & Morty, The Simpsons, as well as creating his own iconic characters such as Brian Butterfield. In this episode we get into his early ability to mimic, his ADHD, the influence of Spike Milligan and how he went from a council estate in Liverpool as a Star Wars obsessed kid who later went on to fulfill his dream and land the role as the voice of Darth Maul in Episode 1: The Phantom Menace (Something he describes as being the biggest disappointment of his life!). We also get into why he fell in love with Eric Idle's The Rutles before getting into The Beatles. Check out the new Class Clown merch store and grab yourself a hat, T-Shirt or a Mug ! Listen to Part 2 with Peter Serfinowicz right now AND get exclusive extra content you won't hear ANYWHERE ELSE ! See Seann Walsh on Tour This Autumn ! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9824175116.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2165",
+      "speakers": [
+        "Peter Serafinowicz",
+        "Peter Serfinowicz",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "peter",
+        "serafinowicz",
+        "liverpool",
+        "council",
+        "estate",
+        "star",
+        "wars",
+        "marvel",
+        "comedy",
+        "fame"
+      ]
+    },
     {
       "key": "9ad572b868706114d828edc93cb32189ad1051c8",
       "title": "DOM JOLY: The Joke That Ended my BBC Career, Getting Fired as Journalist & Being A Diplomat",
@@ -1541,6 +1570,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-14 — PETER SERAFINOWICZ: From Liverpool Council Estate To Star Wars, Marvel & Comedy Fame — speakers: Peter Serafinowicz, Peter Serfinowicz, Seann Walsh
 - 2026-06-07 — DOM JOLY: The Joke That Ended my BBC Career, Getting Fired as Journalist & Being A Diplomat — speakers: Getting Fired, Diplomat Dom, Seann Walsh
 - 2026-05-31 — DOM JOLY: How A Panic Attack Almost derailed Trigger Happy TV & Why He hates the Word Prank — speakers: Seann Walsh
 - 2026-05-26 — Red Richardson: Interview Analysis With Dr Natalie Cawley — speakers: Natalie Cawley, Seann Walsh

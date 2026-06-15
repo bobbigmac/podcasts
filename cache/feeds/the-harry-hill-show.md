@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-06-10T20:44:35+00:00`
-- checked_at: `2026-06-10T20:44:35+00:00`
-- last_modified: `Wed, 10 Jun 2026 20:08:25 GMT`
+- fetched_at: `2026-06-15T05:27:43+00:00`
+- checked_at: `2026-06-15T05:27:43+00:00`
+- last_modified: `Mon, 15 Jun 2026 05:06:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-10T20:44:35+00:00",
+  "fetched_at": "2026-06-15T05:27:43+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -26,6 +26,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "df5104b6fd09dca238b2e94b4f0ede0caa489c8c",
+      "title": "Louis Theroux: Cardboard Owls, Incel Heirs, and Karate-Chopping Geese",
+      "published_at": "2026-06-15T05:00:00+00:00",
+      "link": null,
+      "description": "In this week’s episode of the Vodscarf we welcome legendary documentary filmmaker Louis Theroux (after he accidentally walked onto set, why else would he be there?!) and Oxford astrophysicist Professor Chris Lintott to the studio for an hour of pure, unadulterated science and anti-comedy. Things get incredibly weird, incredibly fast. Watch as we attempt to save our nose-diving viewer retention graph by shouting random words at you, dive deep into the tragic family lore of Harry’s fictional heir, Gary, and witness Louis Theroux showing he is in fact Harry's number one fan. If you've ever wanted to hear an esteemed Oxford professor explain why aliens might just be a bunch of Venusian penguins standing around in their own poo, listen up. TIMESTAMPS 00:00 – Fixing our terrible viewer retention graph (Kittens! Puppies! Sex!) 02:00 – Licky is a bit keen 03:25 – Gary reveals he is a 12-year-old incel 05:45 – Dark family secrets: Gary’s mum is in a secure institution 08:50 – Louis Theroux proves he is a Harry Hill superfan 13:15 – The Bald Cap Incident 15:40 – Sarah the AI Bot brings out the Twix bars 18:00 – An impromptu musical tribute to Catford 26:50 – The Theroux Bunch theme song 28:00 – Space Talk: Do aliens look like us? (The Theroux-Hill Theory) 36:10 – Professor Chris Lintott exposes Venusian poop penguins 38:25 – Louis met a man who chopped up 10 aliens 41:28 – Game Time: \"What is the Velcro Singing?!\" 43:28 – Gary’s Joke Corner (Louis tells a highly inappropriate joke) 45:15 – Butterfly In Blue Jeans \"Louis Theroux\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on Louis Theroux. / This work is licensed under CC BY-SA 4.0. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d94970ea-64ac-11f1-adf3-3b5d8be89603/image/6a1522bcf066af2683f3694163fa79ae.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR8390462838.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2870",
+      "speakers": [
+        "Louis Theroux",
+        "Incel Heirs",
+        "Harry Hill"
+      ],
+      "topics": [
+        "louis",
+        "theroux",
+        "cardboard",
+        "owls",
+        "incel",
+        "heirs",
+        "karate",
+        "geese"
+      ]
+    },
     {
       "key": "5fea052ed89597672e962ad13c3b6fe04c381c1d",
       "title": "Alex Horne: Ham Ballads, Urban Foxes, and Wife-Swapping Over Dishwasher Ethics",
@@ -1802,6 +1829,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — Louis Theroux: Cardboard Owls, Incel Heirs, and Karate-Chopping Geese — speakers: Louis Theroux, Incel Heirs, Harry Hill
 - 2026-06-08 — Alex Horne: Ham Ballads, Urban Foxes, and Wife-Swapping Over Dishwasher Ethics — speakers: Alex Horne, Alex Horne comedian, Harry Hill
 - 2026-06-01 — Bridget Christie: Slow Bike Racing, Chris Tarrant's Boombox and Teaching Your Dog to Ignore Foxes — speakers: Bike Racing, Chris Tarrant, Harry Hill
 - 2026-05-25 — Adam Hills: Nick Cave, Evil Swans, and Training My Bladder for the Coronation — speakers: Adam Hills, Nick Cave, Evil Swans, Harry Hill

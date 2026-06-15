@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-06-09T04:34:04+00:00`
-- checked_at: `2026-06-09T04:34:04+00:00`
-- etag: `"934a110e6618b7b4c81d73740f4b6854"`
-- last_modified: `Tue, 09 Jun 2026 04:00:04 GMT`
+- fetched_at: `2026-06-15T05:27:43+00:00`
+- checked_at: `2026-06-15T05:27:43+00:00`
+- etag: `"88c6b44d96ff1d44f1a6bcfe3234bb75"`
+- last_modified: `Mon, 15 Jun 2026 04:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-06-09T04:34:04+00:00",
+  "fetched_at": "2026-06-15T05:27:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "aeff3a2dec40e62705f2e881948d0233e680d219",
+      "title": "The Many Wrongs Of Lord Christian Brighty",
+      "published_at": "2026-06-15T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nrd45j",
+      "description": "Brighty’s holiday in Bath is interrupted by Babs insisting he make amends to his sister, Flan, after he ended her engagement with the entrepreneurial industrialist Mr Poach. Unfortunately the plan to fix the wrong of meddling in his sister’s life, involves more meddling in his sister's life. Meanwhile Churley has to contend with making ‘arrangements’ for an unexpected boxing match. Lord Christian Brighty used to be the most notorious rake of the Regency. But after a hazing ritual for a new chambermaid led to a self-inflicted cannonball injury, Brighty, compelled by the chambermaid in question - the uneducated but forthright Babigail – resolves to mend his ways. Accompanying him in his quest are Babs (elevated beyond her station to a chambermaid-cum-adviser role), and his butler, Mr Churlington (although Churley would actually prefer everything to stay exactly as it used to be). Written by Amy Greaves & Christian Brighty Cast: Lord Christian Brighty ….. Christian Brighty Babs ….. Jessica Knappett Churlington ….. Colin McFarlane Lady Flan Brighty ….. Jodie Mitchell Lavinia – a boxing trainer ….. Chiara Goldsmith Mr Poach – an industrialist ….. David Reed Amelia – a lady at the spa ….. Amy Greaves Pierce Egan – a boxing commentator – Jason Forbes Bob Gregson – a boxing pundit – Joz Norris Script Editor ….. David Reed Sound & Recording ….. Sonica Studios Photographer ….. Will Hearle Producer ….. Ben Walker A DLT Entertainment Production for BBC Radio 4 Christian Brighty and Amy Greaves’ viral sketches based on Bridgerton, Poldark and Jane Austen have catapulted them to viral stardom, securing Christian’s place as the internet’s answer to Mr Darcy and amassing 250 million views across TikTok and Instagram (@brightybuoy). Amy and Christian both have a deep love for the work of Jane Austen, traditional regency romance (not smut), and historical romance set in the regency (smut). The first series of The Many Wrongs of Lord Christian Brighty was nominated for Best Radio Show at the Chortle Awards 2025, and listed in The i's Best Radio Comedies Ever.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nrczh7.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28256000",
+      "itunes_duration": "1766",
+      "speakers": [],
+      "topics": [
+        "wrong",
+        "lord",
+        "christian",
+        "brighty"
+      ]
+    },
     {
       "key": "eb973b49a91ec8e9cada968c5a4287a5ee0712b9",
       "title": "One Person Found This Helpful",
@@ -1000,6 +1019,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — The Many Wrongs Of Lord Christian Brighty
 - 2026-06-08 — One Person Found This Helpful — speakers: Frank Skinner, Dee Allum, Pierre Novellie, Hasan Al-Habib
 - 2026-06-01 — Ian Smith is Stressed — speakers: Ian Smith
 - 2026-05-25 — Hajj & Seek — speakers: Hajj Seek
