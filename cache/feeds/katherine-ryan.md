@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-06-09T15:27:35+00:00`
-- checked_at: `2026-06-09T15:27:35+00:00`
-- etag: `"djEuMi4wOjE3ODEwMDMyNzAxOTQ="`
+- fetched_at: `2026-06-15T23:08:14+00:00`
+- checked_at: `2026-06-15T23:08:14+00:00`
+- etag: `"djEuMi4wOjE3ODE1NTY2MjA0NTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-06-09T15:27:35+00:00",
+  "fetched_at": "2026-06-15T23:08:14+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4cd285e51209214cccba27909f3a8eac0c536756",
+      "title": "Body Autonomy and THAT Baby Shower",
+      "published_at": "2026-06-15T20:50:20+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/body-autonomy-and-that-baby-shower",
+      "description": "This week, Katherine's Telling Everybody Everything about parent toddler parking spaces, and which of the polarised sides of the debate over Bonnie Blue's latest 'marketing stunt' she's on. Comedian Andrew Johnston @mandrewjohnston @andrewjohnston1999 joins from Hollywood with pop culture news on Elon Musk becoming a TRILLIONAIRE, Perrie Edwards' interview on Jamie Laing's Great Company Podcast and David Harbour taking 'the high road' when to pussy palace. Plus, a letter from a grown woman whose VERY grown mum is expecting a baby and a note about last week's laser burn nightmare from a personal injury barrister. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1781556380706-25b6e50e-9c17-413b-ba01-6ccdb0949f37.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a30658c0592e82545c61808/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79112486",
+      "itunes_duration": "54:56",
+      "speakers": [
+        "Body Autonomy",
+        "Baby Shower",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "body",
+        "autonomy",
+        "baby",
+        "shower"
+      ]
+    },
     {
       "key": "99640c11ed7b54d06f903588fe53750cce0e136f",
       "title": "Bobby Skips Town",
@@ -6251,6 +6274,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — Body Autonomy and THAT Baby Shower — speakers: Body Autonomy, Baby Shower, Katherine Ryan
 - 2026-06-09 — Bobby Skips Town — speakers: Bobby Skips Town, Katherine Ryan
 - 2026-06-02 — Mr Tumble Age Gap Love — speakers: Tumble Age Gap Love, Katherine Ryan
 - 2026-05-27 — The Labour Poo — speakers: Katherine Ryan

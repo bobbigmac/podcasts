@@ -29645,6 +29645,28 @@
     ],
     "richard-ayoade": [
       {
+        "feed_slug": "external:apple:fea129d05ae6",
+        "feed_title": "Leeds News Today | 2 Min News | The Daily News Now!",
+        "source_rss_url": "https://feeds.fastcast.ai/dallas-wings-the-daily-news-now.xml",
+        "dedupe_key": "a842f1f6b10a6c3e6318ae373e12a22d3810c5fe",
+        "episode_key": "a842f1f6b10a6c3e6318ae373e12a22d3810c5fe",
+        "title": "Richard Ayoade Joins Only Murders Season 6",
+        "published_at": "2026-06-15T15:07:12Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Richard Ayoade, star of The IT Crowd, is joining the cast of Only Murders in the Building for its explosive sixth season — filmed right in London. The lineup already boasts Doctor Who’s David Tennant and Jodie Whittaker, Bridgerton’s Nicola Coughlan, and comedy legends like Martin Freeman and Jennifer Saunders. It’s a ",
+        "audio_url": "https://api.fastcast.ai/audio/d4a01bd7-6354-48bd-86b9-fbbfbd0ad5f3.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/richard-ayoade-joins-only-murders-season-6/id1851350123?i=1000772823851&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:41fa7076cc7d",
         "feed_title": "Le podcast du festival",
         "source_rss_url": "https://feeds.podcastics.com/podcastics/podcasts/rss/5623_6a8fc55bb5e835721ea6757f5711b3c0.rss",

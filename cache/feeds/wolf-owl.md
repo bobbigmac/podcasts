@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-06-15T19:08:30+00:00`
-- checked_at: `2026-06-15T19:08:30+00:00`
-- last_modified: `Mon, 15 Jun 2026 17:04:49 GMT`
+- fetched_at: `2026-06-15T23:08:14+00:00`
+- checked_at: `2026-06-15T23:08:14+00:00`
+- last_modified: `Mon, 15 Jun 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-15T19:08:30+00:00",
+  "fetched_at": "2026-06-15T23:08:14+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,34 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ccc2f73c5af14a734dc8724c40673e695ad3b51a",
+      "title": "Matching Tattoos, Conspiracy Theories and Kevin Hart Roast",
+      "published_at": "2026-06-15T23:01:00+00:00",
+      "link": null,
+      "description": "Will Romesh retire from comedy at 50? Will ‘Heartbreak is the hardest thing’ become a chart-topping single? And will Tom wear a toupee? On this week’s episode we also reveal our matching Wolf & Owl tattoos - yes, we got it done! Plus, the Wolf & Owl club night IS happening! Make sure to sign up to our Instagram broadcast channel for Wolf & Owl updates and keep sending your questions, dilemmas and voice notes to us at wolfowlpod@gmail.com. A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 00:36 Tattoo reveal 4:37 Michael Jordan 6:31 The big step back 10:03 Romesh the movie star 12:29 The Wolf & Owl club night 15:46 AI and songs 18:29 Wigs and types 19:10 Event organisers 21:54 The roast of Kevin Hart 33:35 Love for Tom 34:18 - Magnifying glasses 36:29 - Shout outs 38:01 - Itchy toilet paper Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a422ae48-68be-11f1-9170-a7b824f8dd3e/image/cfa9d344e37438a3be71f0a88d91bb6b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3851647024.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2471",
+      "speakers": [
+        "Conspiracy Theories",
+        "Kevin Hart Roast",
+        "Will Heartbreak",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "matching",
+        "tattoos",
+        "conspiracy",
+        "theories",
+        "kevin",
+        "hart",
+        "roast"
+      ]
+    },
     {
       "key": "d0bcadadabf4d50daa1cace07d5e67e7f85924aa",
       "title": "Pablo Escobart, Pigs and Massages",
@@ -6916,6 +6944,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — Matching Tattoos, Conspiracy Theories and Kevin Hart Roast — speakers: Conspiracy Theories, Kevin Hart Roast, Will Heartbreak, Romesh Ranganathan, Tom Davis
 - 2026-06-11 — Pablo Escobart, Pigs and Massages — speakers: Pablo Escobart, Romesh Ranganathan, Tom Davis
 - 2026-06-08 — Robert De Niro, Traitors and the UCL Final — speakers: Robert De Niro, Romesh Ranganathan, Tom Davis
 - 2026-06-04 — Hot Chip Aftermath, WhatsApp Groups and Holding Grudges — speakers: Hot Chip Aftermath, Romesh Ranganathan, Tom Davis

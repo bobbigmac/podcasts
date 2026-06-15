@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-06-15T19:08:30+00:00`
-- checked_at: `2026-06-15T19:08:30+00:00`
-- last_modified: `Mon, 15 Jun 2026 18:40:30 GMT`
+- fetched_at: `2026-06-15T23:08:14+00:00`
+- checked_at: `2026-06-15T23:08:14+00:00`
+- last_modified: `Mon, 15 Jun 2026 23:05:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-15T19:08:30+00:00",
+  "fetched_at": "2026-06-15T23:08:14+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "3202443fc65316225f3b327c451c99b99c4b85a4",
+      "title": "Has The BBC Really Cancelled Doctor Who?",
+      "published_at": "2026-06-15T23:05:00+00:00",
+      "link": null,
+      "description": "Should the BBC have travelled stateside for the FIFA World Cup or stayed in Salford? And have bosses really cancelled the long-Running sci-fi stalwart Doctor Who? The World Cup has finally landed in the Americas, but time zones are preventing fans from watching the games. Richard Osman and Marina Hyde review the best and worst 'content' from the tournament, from Piers Morgan's podcasting attempts to the controversial ref-cam smothering our screens. What does it mean that the BBC has put Doctor Who out 'to tender'? Richard has the inside track and has a unique suggestion for the next Timelord. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Adam Thornton Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Sam Psyk Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9810015935.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3045",
+      "speakers": [
+        "Really Cancelled Doctor Who",
+        "World Cup",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "doctor"
+      ]
+    },
     {
       "key": "9103769e3852f334a4ab9f37bdf32a780aac767c",
       "title": "Steven Spielberg on Aliens, Young Directors and Being Turned Down for Bond",
@@ -6016,6 +6037,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-15 — Has The BBC Really Cancelled Doctor Who? — speakers: Really Cancelled Doctor Who, World Cup, Richard Osman, Marina Hyde
 - 2026-06-10 — Steven Spielberg on Aliens, Young Directors and Being Turned Down for Bond — speakers: Steven Spielberg, Richard Osman, Marina Hyde
 - 2026-06-08 — The Steven Bartlett Podcast Pile-On — speakers: Steven Bartlett, Will Taylor Swift, Richard Osman, Marina Hyde
 - 2026-06-03 — Kylie Minogue, Sherlock Holmes & Venezuela Fury — speakers: Kylie Minogue, Richard Osman, Marina Hyde
