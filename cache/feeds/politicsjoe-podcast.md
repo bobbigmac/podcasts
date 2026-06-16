@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-06-14T09:55:57+00:00`
-- checked_at: `2026-06-14T09:55:57+00:00`
-- etag: `"djEuMi4wOjE3ODE0MTY4MzkzODA="`
+- fetched_at: `2026-06-16T17:20:29+00:00`
+- checked_at: `2026-06-16T17:20:29+00:00`
+- etag: `"djEuMi4wOjE3ODE2MTg0MzkzNTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,31 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-06-14T09:55:57+00:00",
+  "fetched_at": "2026-06-16T17:20:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "1432b6049d1274d67d2dffd276b39203222f6c17",
+      "title": "Keir Starmer BANS social media for under-16s",
+      "published_at": "2026-06-16T14:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a313e3df20f3eca933901cb",
+      "description": "Ava and Andy return to the PolJOE sofa to dive deep on Keir Starmer's social media ban, weighing the pros, cons, and wider implications. Is this a well-considered crackdown or a desperate lurch for legacy? Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a313e3df20f3eca933901cb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55831430",
+      "itunes_duration": "38:45",
+      "speakers": [],
+      "topics": [
+        "keir",
+        "starmer",
+        "medium"
+      ]
+    },
     {
       "key": "880ae4fcb74f26de7885fc4e748803a190b68ab1",
       "title": "Hasan Piker meets Jeremy Corbyn | Israel, Trump, and the death of free speech",
@@ -13313,6 +13331,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-16 — Keir Starmer BANS social media for under-16s
 - 2026-06-14 — Hasan Piker meets Jeremy Corbyn | Israel, Trump, and the death of free speech — speakers: Hasan Piker, Jeremy Corbyn
 - 2026-06-10 — The truth about the Belfast riots | Claire Hanna interview — speakers: Claire Hanna
 - 2026-06-08 — Why is Starmer So Slow on Fixing Student Loans? With the Conservative's Ruth Davidson — speakers: Ruth Davidson

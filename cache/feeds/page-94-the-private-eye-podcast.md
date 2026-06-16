@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `W/"d54175d8e07fed7dc054a08677a46bb2"`
-- last_modified: `Tue, 02 Jun 2026 19:38:04 GMT`
+- fetched_at: `2026-06-16T17:20:29+00:00`
+- checked_at: `2026-06-16T17:20:29+00:00`
+- etag: `W/"3fe97f34a98e18e2c88ff695ea06dfad"`
+- last_modified: `Tue, 16 Jun 2026 15:36:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-06-16T17:20:29+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,26 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "e21e9c25b6ce3b7e6fb4d50d89e344d3c404e580",
+      "title": "183: Fight! Fight! Fight!",
+      "published_at": "2026-06-16T15:32:50+00:00",
+      "link": "https://audioboom.com/posts/8917258",
+      "description": "The team (plus guest Sarah Shannon) catch up on the latest White House cage fight, on the World Cup, on the USA and Iran's actual fight, and on the British fight for the right between Reform and Restore.",
+      "image_url": "https://audioboom.com/i/43700597/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8917258.mp3?modified=1781624193&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2668",
+      "speakers": [
+        "Sarah Shannon",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "fight"
+      ]
+    },
     {
       "key": "dec0973a8f65d249be0475c8695a57e9728d499e",
       "title": "182: Make Hay",
@@ -165,7 +185,7 @@
       "link": "https://audioboom.com/posts/8906917",
       "description": "Daniel Timms of the Sheffield Tribune tells the story of the solicitor who used legal loopholes to extract sums of £25,000 from Yorkshire homeowners. Part of Private Eye's Paul Foot Award 2026 shortlist series.",
       "image_url": "https://audioboom.com/i/43663120/s=1400x1400/el=1/rt=fill.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8906917.mp3?modified=1779464340&sid=5112392&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8906917.mp3?modified=1779781810&sid=5112392&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "672",
@@ -3893,6 +3913,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-16 — 183: Fight! Fight! Fight! — speakers: Sarah Shannon, Andrew Hunter Murray, Ian Hislop
 - 2026-06-02 — 182: Make Hay — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-06-01 — 181: And The Winner Is... — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-05-30 — 180: PAUL FOOT 2026: THE PINCH-OF-SALT PATH — speakers: Chloe Hadjimatheou, Andrew Hunter Murray, Ian Hislop
