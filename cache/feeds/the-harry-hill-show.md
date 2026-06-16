@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-06-16T17:20:29+00:00`
-- checked_at: `2026-06-16T17:20:29+00:00`
-- last_modified: `Tue, 16 Jun 2026 16:47:15 GMT`
+- fetched_at: `2026-06-16T21:18:45+00:00`
+- checked_at: `2026-06-16T21:18:45+00:00`
+- last_modified: `Tue, 16 Jun 2026 17:43:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-16T17:20:29+00:00",
+  "fetched_at": "2026-06-16T21:18:45+00:00",
   "owners": [
     "Harry Hill"
   ],

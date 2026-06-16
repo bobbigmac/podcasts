@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-06-15T19:08:30+00:00`
-- checked_at: `2026-06-15T19:08:30+00:00`
-- etag: `W/"33ebc-ofrdzk2SYpvjefrxr4bKTaqX7jU"`
+- fetched_at: `2026-06-16T21:18:45+00:00`
+- checked_at: `2026-06-16T21:18:45+00:00`
+- etag: `W/"3435c-kxOsm5TV5p81VPtYTYC7Bj3Yay4"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,38 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-06-15T19:08:30+00:00",
+  "fetched_at": "2026-06-16T21:18:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f5f8a22cf0fa2b7723cd3453f1a1bded72bf132c",
+      "title": "Josh Widdicombe XFM #31 – Joe Lycett in the studio, Nick Helm",
+      "published_at": "2026-06-16T19:52:41+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-31--Joe-Lycett-in-the-studio--Nick-Helm-e3kslqh",
+      "description": "Joe Lycett returns and joins Josh in the studio. Nick Helm pops in for the final hour.Broadcast on 12th November 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1781638738277-3dd0c1b1c57be.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8488709051.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48883669",
+      "itunes_duration": "00:50:55",
+      "speakers": [
+        "Joe Lycett",
+        "Nick Helm Joe Lycett",
+        "Nick Helm"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "lycett",
+        "studio",
+        "nick",
+        "helm"
+      ]
+    },
     {
       "key": "2c7540beb425897c8f0d727c7d063c64ee518294",
       "title": "Josh Widdicombe XFM #30 – James Acaster Classic Scrape 27, Adam Hills, Matthew Crosby",
@@ -3882,6 +3907,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-16 — Josh Widdicombe XFM #31 – Joe Lycett in the studio, Nick Helm — speakers: Joe Lycett, Nick Helm Joe Lycett, Nick Helm
 - 2026-06-15 — Josh Widdicombe XFM #30 – James Acaster Classic Scrape 27, Adam Hills, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster, Adam Hill
 - 2026-06-11 — Josh Widdicombe XFM # 28 – James Acaster Classic Scrape 25, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster, David Beckham
 - 2026-06-11 — Josh Widdicombe XFM # 27 – James Acaster Classic Scrape 24, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster
