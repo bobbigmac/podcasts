@@ -10683,6 +10683,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:31c647bfd4ab",
+        "feed_title": "What Did You Do Yesterday? with Max Rushden & David O'Doherty",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a2be260126ad95c2367834c",
+        "dedupe_key": "501e12ace729ae9ecc1a4bf4f23678071b50fdb4",
+        "episode_key": "501e12ace729ae9ecc1a4bf4f23678071b50fdb4",
+        "title": "S4 EP5: Richard Herring",
+        "published_at": "2026-02-01T01:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Joining us on this episode of '⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠What did you do yesterday?⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠' is the brilliant comedian and one of the godfathers of comedy - Richard Herring. \nWe asked Richard what he did yesterday? \nHe told us. \nThat's it... enjoy! \n\n\nGet in touch with the ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/15caaf76-664b-11f1-bf13-63028349ed92/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s4-ep5-richard-herring/id1765600990?i=1000772365165&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",

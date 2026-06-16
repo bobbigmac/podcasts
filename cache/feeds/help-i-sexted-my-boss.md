@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-06-15T05:27:43+00:00`
-- checked_at: `2026-06-15T05:27:43+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RFME9UazJNemsxTmpJPTo6c2F4ZXNz"`
+- fetched_at: `2026-06-16T05:32:22+00:00`
+- checked_at: `2026-06-16T05:32:22+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RFMU9EWXdOREF4TURJPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-06-15T05:27:43+00:00",
+  "fetched_at": "2026-06-16T05:32:22+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,13 +30,13 @@
     {
       "key": "9f2c6b3b7e0065e079d33852c9f4d9e1020648bf",
       "title": "Help I Can’t Say I Love You | And Steamy Expectations",
-      "published_at": "2026-06-15T05:00:00+00:00",
+      "published_at": "2026-06-16T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-i-cant-say-i-love-you-and-steamy-expectations",
-      "description": "William is flabbergasted when he finds out that his best friend and co-host has never said \"I love you\" to ANY of his brothers. Meanwhile, Jordan is shocked by the increase in attention he's been getting at the gym since his Soccer Aid debut. The boys also solve your dilemmas on escalator etiquette, how to cope when your friends are still hanging out with your ex, and how to manage things getting 'steamy' after time away from your partner. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "William is flabbergasted when he finds out that his best friend and co-host has never said \"I love you\" to ANY of his brothers. Meanwhile, Jordan is shocked by the increase in attention he's been getting at the gym since his Soccer Aid debut. The boys also solve your dilemmas on escalator etiquette, how to cope when your friends are still hanging out with your ex, and how to manage things getting 'steamy' after time away from your partner. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1781456668918-95667ab3-2729-4b71-93d1-37f5c4ad110c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a2ed29e8a9447af619f7d75/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jGREyd4k-ZG5e-zDi7Yt-DZJM3x1hokPvCdUb20NhDo",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46583222",
       "itunes_duration": "48:31",
       "speakers": [
         "William Hanson",
@@ -14500,7 +14500,7 @@
 
 ## Episodes (newest first)
 
-- 2026-06-15 — Help I Can’t Say I Love You | And Steamy Expectations — speakers: William Hanson, Jordan North
+- 2026-06-16 — Help I Can’t Say I Love You | And Steamy Expectations — speakers: William Hanson, Jordan North
 - 2026-06-12 — Fancy Dress Fantasies | And Dry Humping — speakers: Dry Humping, William Hanson, Jordan North
 - 2026-06-09 — Help He’s Got Secret Viagra | And Bussing It With Wayne Rooney — speakers: Wayne Rooney, William Hanson, Jordan North
 - 2026-06-05 — Help I Sexted Toni And Ryan! | With Titanic Reenactments — speakers: William Hanson, Jordan North

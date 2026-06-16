@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-06-15T05:27:43+00:00`
-- checked_at: `2026-06-15T05:27:43+00:00`
-- etag: `"88c6b44d96ff1d44f1a6bcfe3234bb75"`
-- last_modified: `Mon, 15 Jun 2026 04:00:07 GMT`
+- fetched_at: `2026-06-16T05:32:22+00:00`
+- checked_at: `2026-06-16T05:32:22+00:00`
+- etag: `"2f375fc14d7a5ee483525f730b6ca243"`
+- last_modified: `Tue, 16 Jun 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-06-15T05:27:43+00:00",
+  "fetched_at": "2026-06-16T05:32:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -997,20 +997,6 @@
         "normal",
         "humanity"
       ]
-    },
-    {
-      "key": "e36e6d296565718d330281d9fa74e840cdceee81",
-      "title": "Live from the UK",
-      "published_at": "2025-06-16T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lj5j3d",
-      "description": "Live from the UK brings you the best comedy talent from around the country, all from the comfort of your own headphones. Stand up legend Angela Barnes talks to Glasgow about their swearing, Newcastle about their love of getting starkers on holiday, and Manchester about the rude origins of their city's name. She brings you acts from all of these places and more, covering topics as far and wide as heatwaves, Gazza, hen dos and the George Foreman grill. How many shows can say that? This week you can hear; Mark Nelson at The Stand, Glasgow Louise Young at The Stand, Newcastle Hayley Ellis at the Frog and Bucket, Manchester and headliner Josh Pugh at the Glee Club, Birmingham Additional Material by Eve Delaney Recorded by Sean Kerwin and David Thomas Sound design by David Thomas Production Coordinator: Sarah Nicholls Executive Producer: Pete Strauss Produced by Gwyn Rhys Davies. A BBC Studios Audio Production for Radio 4. An EcoAudio Certified Production.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lj5hbn.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27728000",
-      "itunes_duration": "1733",
-      "speakers": [],
-      "topics": []
     }
   ]
 }
@@ -1069,4 +1055,3 @@
 - 2025-07-07 — Maisie Adam: Euros Fever — speakers: Maisie Adam Euros Fever, Maisie Adam
 - 2025-06-30 — Your Mum
 - 2025-06-23 — Henry Normal: A Normal... Humanity — speakers: Henry Normal
-- 2025-06-16 — Live from the UK
