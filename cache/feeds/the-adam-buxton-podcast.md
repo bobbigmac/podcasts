@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-06-10T10:31:50+00:00`
-- checked_at: `2026-06-10T10:31:50+00:00`
-- etag: `"djEuMi4wOjE3ODEwNzkwOTc3MTY="`
+- fetched_at: `2026-06-16T11:33:31+00:00`
+- checked_at: `2026-06-16T11:33:31+00:00`
+- etag: `"djEuMi4wOjE3ODE2MDkyMDk1NTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-06-10T10:31:50+00:00",
+  "fetched_at": "2026-06-16T11:33:31+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e0a28639d8771ceba26fa727ccc267ecfd61a303",
+      "title": "EP.275 - KATHY BURKE",
+      "published_at": "2026-06-16T11:26:54+00:00",
+      "link": "https://shows.acast.com/adambuxton/episodes/ep275-kathy-burke",
+      "description": "Adam talks with English actor, comedian, writer and director Kathy Burke about her memoir A Mind Of My Own , including her relationship with her Dad, Punk, being a Two Tone skinhead, the comments that stoked Kathy's anxiety over her appearance and the kind words of Clash frontman Joe Strummer, the genesis of Kathy's character Perry, meeting Peter Cooke, frustrations on the set of Straight To Hell, plus thoughts on comfy trainers, painful bras and getting older. Conversation recorded face-to-face in London on 5 June, 2026 SUBMIT QUESTIONS FOR Q&A EPISODE : Adambuxtonpodcast@gmail.com Thanks to Diggory Waite and Claire Broughton at Hattrick and Séamus Murphy Mitchell for production support. Podcast illustration by Helen Green SUCCESSPOD - 2026 (Audible) ADAM BUXTON BAND @ Hoxton Hall, London, 23 & 24 June, 2026 (Eventim) ADAM BUXTON PODCAST LIVE WITH MAWAAN RIZWAAN @ Roundhouse, London , 5 April, 2026 (Roundhouse) RELATED LINKS CARE Directed by Alexander Zeldin, starring Linda Bassett - current run ends 11 July 2026 (The Young Vic) KATHY ON ACTING AND BEAUTY - 1989 (YouTube) JONATHAN ROSS - THE LAST RESORT featuring Kathy as Tina Bishop, a young Vic Reeves drawing portraits of guests (Keith Allen, Lysette Anthony, Roland Gift, and a heavily sedated Malcom McLaren) - 1988 (YouTube) THE NYAH FEARTIES - Bludgeon Man on The Tube - 1986 (YouTube) THE PROCLAIMERS - THROW THE R AWAY Debut performance on The Tube - 1987 (YouTube) STRAIGHT TO HELL Directed by Alex Cox (Trailer) - 1987 (YouTube) KATHY IN THE SID AND NANCY BEHIND THE SCENES FEATURETTE - 1986 (YouTube) KATHY COMEDY AWARDS ACCEPTANCE SPEECH for Gimme Gimme Gimme - 2002 (YouTube) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1781607875489-cafcfb91-053a-4cbe-83e0-dbba355abeb0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/6a3132f90c9e914f707edc8e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "185419652",
+      "itunes_duration": "1:17:15",
+      "speakers": [
+        "Kathy Burke",
+        "Adam Buxton"
+      ],
+      "topics": [
+        "kathy",
+        "burke"
+      ]
+    },
     {
       "key": "6b836f37d0ae1450aa1a819002806a67e58d3718",
       "title": "EP.274 - HARRY ENFIELD",
@@ -5614,6 +5634,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-16 — EP.275 - KATHY BURKE — speakers: Kathy Burke, Adam Buxton
 - 2026-06-09 — EP.274 - HARRY ENFIELD — speakers: Harry Enfield, Adam Buxton
 - 2026-05-25 — EP.273 - PATRICK RADDEN KEEFE — speakers: Patrick Radden Keefe, Adam Buxton
 - 2026-05-19 — EP.272 - BRIDGET CHRISTIE & ALICE BOYD LIVE @ BRISTOL - BEACON THEATRE, 2024 — speakers: Bridget Christie, Adam Buxton
