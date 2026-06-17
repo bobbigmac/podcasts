@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-06-10T04:48:05+00:00`
-- checked_at: `2026-06-10T04:48:05+00:00`
-- etag: `"a0f36-653db23a756d2"`
-- last_modified: `Wed, 10 Jun 2026 00:15:21 GMT`
+- fetched_at: `2026-06-17T05:15:51+00:00`
+- checked_at: `2026-06-17T05:15:51+00:00`
+- etag: `"a1a55-65467f497de61"`
+- last_modified: `Wed, 17 Jun 2026 00:15:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-06-10T04:48:05+00:00",
+  "fetched_at": "2026-06-17T05:15:51+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2d6106878993bc63878cefc11fc23b2729e50ca2",
+      "title": "The Circus",
+      "published_at": "2026-06-17T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/the-circus",
+      "description": "People often say it’s not the size of a clown’s trousers that matters but the state of the custard pie in the clown’s pocket. Perhaps that’s something we should all reflect on more deeply with peak circus season fast approaching. No doubt that’s what Charlotte was thinking when she luzzed “The Circus” into the Bean Machine for use as this week’s topic. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/f1335725-71f7-477b-8296-4f400264d1af/S21-E03-The-Circus.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/0e03e6a0-6b35-4c84-b372-fb749b2761e3.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=0e03e6a0-6b35-4c84-b372-fb749b2761e3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60610396",
+      "itunes_duration": "01:03:08",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "circus"
+      ]
+    },
     {
       "key": "f0d49fc6cdb94387c807498a13a921e5af4dff76",
       "title": "Agatha Christie",
@@ -4292,6 +4312,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — The Circus — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-06-10 — Agatha Christie — speakers: Agatha Christie, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-06-03 — Martial Arts — speakers: Martial Arts Munashe, Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-05-06 — Free Patreon episode - And Then Sparrows Took Their Eyes - Three Brothers Grimm Tales — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge

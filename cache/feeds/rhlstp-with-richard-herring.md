@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-15T05:27:43+00:00`
-- checked_at: `2026-06-15T05:27:43+00:00`
-- etag: `"djEuMi4wOjE3ODE0OTIyNTkzMDI="`
+- fetched_at: `2026-06-17T05:15:51+00:00`
+- checked_at: `2026-06-17T05:15:51+00:00`
+- etag: `"djEuMi4wOjE3ODE2NjUwNTkzNzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-15T05:27:43+00:00",
+  "fetched_at": "2026-06-17T05:15:51+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f79856945e73d4ded79735c81a418169312fa298",
+      "title": "Tim Minchin - \"You’re Already Grown Up\"",
+      "published_at": "2026-06-17T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #614 - You’re Already Grown Up - Rich talks to musical genius, actor and comedian Tim Minchin. They discuss the possibility of a reboot of another kids’ classic and Tim’s possible involvement in it, how Ernie Herring responded to Matilda, the technical changes made to the film version of the musical, the gentle pivot into more serious songs, what the devil is up to and the incredible sacrifice of Judas, Richard’s favourite ever guest and why Rich shouldn’t judge his colleagues too harshly, some Shrek based content and a promise from Tim to compete the circle, how silence can be golden in comedy and creative wonderful art and return for the final episode of RHLSTP (as he was the first ever guest). Plus his plans for the next couple of years. The tiny Asian Bee Gees can be seen here https://www.youtube.com/watch?v=9r4E5osk0jk SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1781289805712-66fa2bfb-7ce1-43a0-bfbe-56fbd15a6979.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a2c5261252d86e8464bff0e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29903485",
+      "itunes_duration": "58:24",
+      "speakers": [
+        "Tim Minchin",
+        "Richard Herring"
+      ],
+      "topics": [
+        "minchin"
+      ]
+    },
     {
       "key": "56ab44b4c5fbdcb5d174ab6413b3b6b3fb4a55b7",
       "title": "Kiell Smith-Bynoe (Retro) - \"Adelaide Clowns\"",
@@ -22814,6 +22833,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — Tim Minchin - "You’re Already Grown Up" — speakers: Tim Minchin, Richard Herring
 - 2026-06-15 — Kiell Smith-Bynoe (Retro) - "Adelaide Clowns" — speakers: Kiell Smith-Bynoe, Richard Herring
 - 2026-06-13 — Rich and Ally's Craven Newsround Compilation "Milked in a Basement" — speakers: Craven Newsround Compilation, Richard Herring
 - 2026-06-12 — Andrew Hunter Murray on Bad Deeds - Book Club — speakers: Andrew Hunter Murray, Richard Herring

@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-06-16T21:18:45+00:00`
-- checked_at: `2026-06-16T21:18:45+00:00`
-- etag: `"djEuMi4wOjE3ODE2MzA3MDA3NzE="`
+- fetched_at: `2026-06-17T05:15:51+00:00`
+- checked_at: `2026-06-17T05:15:51+00:00`
+- etag: `"djEuMi4wOjE3ODE2NTQ0MzkzNTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-06-16T21:18:45+00:00",
+  "fetched_at": "2026-06-17T05:15:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "967db57bfefe297fc8c2de5d28144f52cdc19f7f",
+      "title": "Oti Mabuse",
+      "published_at": "2026-06-17T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/oti-mabuse",
+      "description": "In Strictly fabulous news, this week we’re joined by dance goddess, Oti Mabuse! Oti was beloved on Strictly Come Dancing in the UK, but she is also now head judge on the Irish version Dancing With the Stars - on top of that she is an author, presenter, podcaster and this week she has announced the wonderful news that she is pregnant with her second child! We heard all about Oti growing up in Pretoria and the delicious South African food her family would cook, being a destined dancer from age 4, competing in Blackpool from age 11, being best mates with gorgeous friend of the podcast Johannes Radebe, having more than double the invited guests turn up to her wedding, eating shark in Iceland, plus we discover the real meaning behind the name Oti! Thanks for popping over Oti, we can’t wait to try a traditional ’Seven Colours’ dish when we see you next. Oti’s latest book ‘Slow Burn’ is out now. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1781626119790-57af78ec-2e66-4022-8f5a-4377048bdb42.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a3174a4780d0f7579bc8244/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57405857",
+      "itunes_duration": "59:47",
+      "speakers": [
+        "Oti Mabuse"
+      ],
+      "topics": [
+        "mabuse"
+      ]
+    },
     {
       "key": "e63c7eafe0dd1acfb5241e8fb9074242a212dad2",
       "title": "Jeff Goldblum",
@@ -7198,6 +7216,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — Oti Mabuse — speakers: Oti Mabuse
 - 2026-06-10 — Jeff Goldblum — speakers: Jeff Goldblum
 - 2026-06-03 — Giorgio Locatelli — speakers: Giorgio Locatelli Ciao, Giorgio Loc
 - 2026-05-27 — Jack Rooke — speakers: Jack Rooke

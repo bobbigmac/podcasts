@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-06-16T21:18:45+00:00`
-- checked_at: `2026-06-16T21:18:45+00:00`
-- etag: `"djEuMi4wOjE3ODE2MzUxODgwMzU="`
+- fetched_at: `2026-06-17T05:15:51+00:00`
+- checked_at: `2026-06-17T05:15:51+00:00`
+- etag: `"djEuMi4wOjE3ODE2NjY0MzkyMjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-06-16T21:18:45+00:00",
+  "fetched_at": "2026-06-17T05:15:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cc0989bd1239587d4f8928bdf5ac8d07eea169bc",
+      "title": "RYAN CONDAL • how to train your house of dragons, or, flight of the Condal (House Of The Dragon / Colony / Rampage) #676",
+      "published_at": "2026-06-17T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the fabulous writer and director RYAN CONDAL ! A genuine treat for anyone in the least bit invested in all things Game Of Thrones and House Of The Dragon lore. Pip catches up with someone who is dealing with one of the tasks in recent times, which is showrunning a series with much expectation on its head. With past success and proven track record, turns out the hands it's in are very safe indeed, but nevertheless it is fascinating to hear how the whole thing is assembled and taken from writing room to screen. As you would expect, it takes a long time and there are no shortcuts, but what a pleasure in a time when so many shortcuts are made for us and the path is usually all about speed and quick results. So much goodness for the fans and appreciators in here, and those who are yet to begin their quest (god bless you!). As Ryan says, \"We're not going to do the comfortable thing that you expect or want\" - if that doesn't excite you, maybe House Of The Dragon isn't for you! ENJOY. PIP'S PATREON PAGE if you're of a supporting nature IMDB HOUSE OF THE DRAGON SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1781634629715-0dd3c1ab-04bf-4d10-9f77-81165034daa5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a3198739b6fd8dcabc3fe89/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "139107087",
+      "itunes_duration": "57:53",
+      "speakers": [],
+      "topics": [
+        "ryan",
+        "condal",
+        "house",
+        "dragon",
+        "flight",
+        "colony",
+        "rampage"
+      ]
+    },
     {
       "key": "6f3308824624cb4b674e288b564b0b496071367b",
       "title": "RAHUL KOHLI (Citadel / We Were Liars) • Friday Rewind",
@@ -19000,6 +19022,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — RYAN CONDAL • how to train your house of dragons, or, flight of the Condal (House Of The Dragon / Colony / Rampage) #676
 - 2026-06-12 — RAHUL KOHLI (Citadel / We Were Liars) • Friday Rewind
 - 2026-06-10 — MARK JENKIN • a Cornish Affirmative from an audience of one (Bait / Enys Men / Rose Of Nevada) #675
 - 2026-06-05 — JO WHILEY (music radio royalty) • Friday Rewind — speakers: JO Whiley

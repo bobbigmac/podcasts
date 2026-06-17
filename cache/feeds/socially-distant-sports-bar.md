@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-06-14T05:06:01+00:00`
-- checked_at: `2026-06-14T05:06:01+00:00`
-- etag: `"djEuMi4wOjE3ODEzOTMzMTkyODU="`
+- fetched_at: `2026-06-17T05:15:51+00:00`
+- checked_at: `2026-06-17T05:15:51+00:00`
+- etag: `"djEuMi4wOjE3ODE2NTIzOTk0NzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-06-14T05:06:01+00:00",
+  "fetched_at": "2026-06-17T05:15:51+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "cc6c12e4e1bc535fd564d8af21e37331ba5549ec",
+      "title": "Elis’ Homecoming Gig (pt 1)",
+      "published_at": "2026-06-16T23:26:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/elis-homecoming-gig-pt-1",
+      "description": "Elis James returns to Carmarthen for a special live recording of The Socially Distant Sports Bar , joined by Mike Bubbins and producer Steff Garrero. Recorded at the Lyric Theatre in front of a sold‑out crowd packed with Elis’ family and friends , this is a proper homecoming show — warm, lively and a bit looser than usual. In the first half, the conversation ranges from Don Revie’s famously unconventional man‑management techniques, to the realities of Sunday League football, and a brilliant story involving a teacher unexpectedly outsprinting an entire class. PART 1 Elis: https://www.instagram.com/reel/DUc0iHGDMTd/?igsh=MTFveWtrdHN0N3Y1dQ== https://www.instagram.com/reel/DV3HRNrElCd/?igsh=MWhmM2I1c3NvazE1MA== Mike: Don Revie, masseuse https://www.instagram.com/reel/DXTP4p7jAY-/?igsh=M3FyYXR5d3llZnVz Steff: Teacher wins https://www.instagram.com/reel/DXNa3rRjTl_/?igsh=MWRmYmUxdzBsM3Q5MA%3D%3D 👉 For Part 2 and bonus content, subscribe on Apple Podcasts. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a2c1dff6cf76d7745346c47/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "133686720",
+      "itunes_duration": "55:42",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "elis",
+        "homecoming"
+      ]
+    },
     {
       "key": "5af812e3563e4caba18d65c1f669179be1ec98ba",
       "title": "Seve: Pint Size",
@@ -15073,6 +15094,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-16 — Elis’ Homecoming Gig (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-13 — Seve: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-11 — FIFA World Cup Special (pt 2) — speakers: Elis James, John Robins, Mike Bubbins, Steff Garrero
 - 2026-06-09 — FIFA World Cup Special (pt 1) — speakers: Elis James, John Robins, Mike Bubbins, Steff Garrero

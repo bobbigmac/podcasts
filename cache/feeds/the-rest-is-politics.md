@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-06-16T21:18:45+00:00`
-- checked_at: `2026-06-16T21:18:45+00:00`
-- last_modified: `Tue, 16 Jun 2026 20:08:08 GMT`
+- fetched_at: `2026-06-17T05:15:51+00:00`
+- checked_at: `2026-06-17T05:15:51+00:00`
+- last_modified: `Tue, 16 Jun 2026 23:17:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/741a3be12916743e1552a965b3e44e89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-16T21:18:45+00:00",
+  "fetched_at": "2026-06-17T05:15:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "99d83b0c5b0019c8dac7a88ef8ec2754d4ca42f4",
+      "title": "543. The Disaster Britain Still Can't Escape and Trump’s Iran ‘Deal’",
+      "published_at": "2026-06-16T23:00:00+00:00",
+      "link": null,
+      "description": "What is the true cost of Brexit? How have British and European far-right politics evolved since the historic Brexit referendum, and can liberal democracy survive it? Is it possible to see Trump’s Iran ‘deal’ as anything other than a defeat for the US? Join Rory and Alastair as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with James Cleverly by searching ‘Leading’ on Spotify, Apple, or YouTube. Father’s Day discounted gift memberships available HERE . Treat your dad to early access to Question Time, members-only miniseries, and much more. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter ⁠ HERE ⁠ , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at ⁠ therestispolitics.com ⁠ to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at ⁠ fuseenergy.com/politics ⁠ and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ ⁠ nordvpn.com/restispolitics ⁠ It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: ⁠ @restispolitics ⁠ Twitter: ⁠ @restispolitics ⁠ Email: ⁠ therestispolitics@goalhanger.com ⁠ __________ Social Producer: Emma Jackson Video Editor: Josh Smith, Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/044bb914-69b8-11f1-b19a-73866a0894ab/image/d432cd8603214cf9cc5951bcfc035410.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5217824000.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3184",
+      "speakers": [],
+      "topics": [
+        "disaster",
+        "britain",
+        "trump",
+        "iran",
+        "deal"
+      ]
+    },
     {
       "key": "1e527584f1d34333971c34121069b5536a7daa58",
       "title": "542. Starmer Loses His Defence Secretary: What Next?",
@@ -12138,6 +12158,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-16 — 543. The Disaster Britain Still Can't Escape and Trump’s Iran ‘Deal’
 - 2026-06-11 — 542. Starmer Loses His Defence Secretary: What Next? — speakers: John Healey
 - 2026-06-10 — 541. Trump’s World Cup Mess and Kushner’s Albania Deal
 - 2026-06-09 — 540. The Untold Iran Crisis, Henry Nowak, and Farage’s Politics of Rage — speakers: Henry Nowak

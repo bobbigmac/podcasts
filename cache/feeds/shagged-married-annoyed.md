@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-06-16T11:33:31+00:00`
-- checked_at: `2026-06-16T11:33:31+00:00`
-- last_modified: `Tue, 16 Jun 2026 10:41:58 GMT`
+- fetched_at: `2026-06-17T05:15:51+00:00`
+- checked_at: `2026-06-17T05:15:51+00:00`
+- last_modified: `Wed, 17 Jun 2026 04:08:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-16T11:33:31+00:00",
+  "fetched_at": "2026-06-17T05:15:51+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "02e1d2372b014e6d22c3f993ef5f03aa5933bb98",
+      "title": "Please Keep Me Anonymous with Ed Gamble",
+      "published_at": "2026-06-17T04:02:00+00:00",
+      "link": null,
+      "description": "On this week's podcast Chris and Rosie are joined by comedian, podcaster and TV Host Ed Gamble! As well getting nostalgic about their Edinburgh Days, the trio discuss star signs, Real House Wives and Rosie reveals why she thinks she is addicted to her extended family... Ed talks about his upcoming tour Fresh Hell, his new TV Series Unacceptable and he reads one of your horrible stories! For tickets to Ed's tour visit edgamble.co.uk You can watch Unacceptable on TLC at 9pm from July 5th If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f97f9e9e-696a-11f1-b710-23ed816af06c/image/c112abbf23b2f6488f1eb88ecb5bd980.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7171648091.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2709",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "gamble"
+      ]
+    },
     {
       "key": "3c7b22ac7fd87d771d5e5629c9c1081fbdcbdff7",
       "title": "90's Parenting, a Golf Trip, and the start of Rosie's Caravan Campaign",
@@ -8550,6 +8570,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — Please Keep Me Anonymous with Ed Gamble — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-06-12 — 90's Parenting, a Golf Trip, and the start of Rosie's Caravan Campaign — speakers: Golf Trip, Chris Ramsey, Rosie Ramsey
 - 2026-06-10 — Please Keep Me Anonymous with Lucy Beaumont — speakers: Lucy Beaumont, Chris Ramsey, Rosie Ramsey
 - 2026-06-05 — Beer Spas, Baby Shower Beef and Buying Warts — speakers: Annoyed Chris, Rosie Ramsey, Chris Ramsey
