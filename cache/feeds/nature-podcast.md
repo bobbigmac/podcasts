@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-06-12T15:39:09+00:00`
-- checked_at: `2026-06-12T15:39:09+00:00`
-- etag: `"djEuMi4wOjE3ODEyNzYyMjI0OTk="`
+- fetched_at: `2026-06-17T16:04:06+00:00`
+- checked_at: `2026-06-17T16:04:06+00:00`
+- etag: `"djEuMi4wOjE3ODE3MDg2NTAwMTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-06-12T15:39:09+00:00",
+  "fetched_at": "2026-06-17T16:04:06+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "2764a1c6bb6c149ed3be6c1e77926ce85aa78f7d",
+      "title": "DNA from hunter-gatherer teeth reveals secrets of ancient plague",
+      "published_at": "2026-06-17T15:04:09+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-01941-7",
+      "description": "In this episode: 00:45 Ancient evidence of deadly plague outbreaks Research article: Macleod et al. 12:33 Research Highlights Nature: Bones of Iron Age skeleton were whittled into tools Nature: Giant crustacean of the deep sea steals a trick from bacteria 14:52 A prototype atom interferometer Research article: Baynham et al. Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a32b6cf883f9289e91e9c42/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25651767",
+      "itunes_duration": "26:42",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "hunter",
+        "gatherer",
+        "tooth",
+        "secret",
+        "plague"
+      ]
+    },
     {
       "key": "9db322b1a85845469c618dd01ff3a6ba5e67f725",
       "title": "Briefing Chat: The epic journey of Stonehenge’s central stone",
@@ -19835,6 +19858,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — DNA from hunter-gatherer teeth reveals secrets of ancient plague — speakers: Benjamin Thompson, Noah Baker
 - 2026-06-12 — Briefing Chat: The epic journey of Stonehenge’s central stone — speakers: Briefing Chat, Altar Stone, Science Focus, Benjamin Thompson, Noah Baker
 - 2026-06-10 — Newly-discovered whale graveyard dates back millions of years — speakers: News Views, Benjamin Thompson, Noah Baker
 - 2026-06-05 — Briefing chat: Spinosaurs with salt glands could have lived in marine environments — speakers: Benjamin Thompson, Noah Baker

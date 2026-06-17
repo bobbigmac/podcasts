@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-06-12T15:39:09+00:00`
-- checked_at: `2026-06-12T15:39:09+00:00`
-- etag: `"djEuMi4wOjE3ODEyNjE3OTI5MjA="`
+- fetched_at: `2026-06-17T16:04:06+00:00`
+- checked_at: `2026-06-17T16:04:06+00:00`
+- etag: `"djEuMi4wOjE3ODE3MDkyODI4NDQ="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-06-12T15:39:09+00:00",
+  "fetched_at": "2026-06-17T16:04:06+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2dd515eeeaa0c6e140648978697ea6b55a3a913c",
+      "title": "We're still in this for life...",
+      "published_at": "2026-06-17T14:42:50+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/were-still-in-this-for-life",
+      "description": "We promise we are in it for life.... Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a32b26a2a769315bae598bb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "1457695",
+      "itunes_duration": "1:26",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "life"
+      ]
+    },
     {
       "key": "6c7c1c4681147dab5c12c050594e11e9aba8b094",
       "title": "BREAKING NEWS!!!",
@@ -3532,6 +3551,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — We're still in this for life... — speakers: Max Rushden, David O'Doherty
 - 2026-06-10 — BREAKING NEWS!!! — speakers: Dear Yesterday Fans, Max Rushden, David O'Doherty
 - 2026-06-06 — S4 EP23: David Baddiel — speakers: David Baddiel, Max Rushden, David O'Doherty
 - 2026-06-02 — WDWDY #74: Hoovered Under The Duvet — speakers: Max Rushden, David O'Doherty

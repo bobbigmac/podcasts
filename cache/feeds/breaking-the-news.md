@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-06-11T16:20:31+00:00`
-- checked_at: `2026-06-11T16:20:31+00:00`
-- etag: `"30eb9329f2d2c1765d3f84e45851683a"`
-- last_modified: `Thu, 11 Jun 2026 13:00:14 GMT`
+- fetched_at: `2026-06-17T16:04:06+00:00`
+- checked_at: `2026-06-17T16:04:06+00:00`
+- etag: `"affb49c4619ef3a9b10abd4cd64b5ac1"`
+- last_modified: `Wed, 17 Jun 2026 14:47:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-06-11T16:20:31+00:00",
+  "fetched_at": "2026-06-17T16:04:06+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],

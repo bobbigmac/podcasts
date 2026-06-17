@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-06-12T15:39:09+00:00`
-- checked_at: `2026-06-12T15:39:09+00:00`
-- etag: `"djEuMi4wOjE3ODEyNjg4NTExOTE="`
+- fetched_at: `2026-06-17T16:04:06+00:00`
+- checked_at: `2026-06-17T16:04:06+00:00`
+- etag: `"djEuMi4wOjE3ODE3MDcxMzUyNDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-06-12T15:39:09+00:00",
+  "fetched_at": "2026-06-17T16:04:06+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "52c1e215dab60ebd47f49e3a3fe585eb981b6db0",
+      "title": "PEACE is among us! (for now)",
+      "published_at": "2026-06-17T14:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/peace-is-among-us-for-now",
+      "description": "On this week's issue of the Bugle, Andy is joined in person by Nish Kumar and Tom Ballard, as the three jump into this week's news, from the 47th President's birthday celebrations, to Elon Musk's record breaking wealth. Plus UK news as Andy Burnham sets up for a leadership coup and Ugly shark news as scientists discovery a new 'odd' looking species. All this and more in issue 4383 of The Bugle! 🎂 Trump's Birthday: The Bugle catch up on the 80th birthday of US President Donald Trump 📱 World's 1st Trillionaire: The trio delve into Elon Musk's record breaking wealth following the launch of Space X 🦈 Ugly Shark News: Andy, Nish and Tom discuss the latest scientific discovery of the world's ugliest shark! Donate to Emilia: https://www.crowdfunder.co.uk/p/a-safe-accessible-home-for-emilia Andy's Links: https://www.andyzaltzman.co.uk/ Nish Kumar's Links: https://www.nishkumar.co.uk/ Tom Ballard's Links: https://tomballard.com.au/ 🎤 Get tickets for the LIVE episode of The Gargle HERE https://www.angelcomedy.co.uk/event-detail/the-gargle-live-fri-26th-jun-the-bill-murray-london-tickets-202606261800/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a329e83a43c1651f44ecc09/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50873990",
+      "itunes_duration": "52:59",
+      "speakers": [
+        "Nish Kumar",
+        "Tom Ballard",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "peace"
+      ]
+    },
     {
       "key": "140262d618f71eceb28bf9af5f963e93d4a92d6a",
       "title": "Trump's cross, what is it this time?",
@@ -14296,6 +14316,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — PEACE is among us! (for now) — speakers: Nish Kumar, Tom Ballard, Andy Zaltzman
 - 2026-06-11 — Trump's cross, what is it this time? — speakers: Sara Barron, Andy Zaltzman
 - 2026-06-04 — Iran tries to buy time, Trump outbids them — speakers: Mark Steel, Andy Zaltzman
 - 2026-05-28 — Woolly Mammoth or Inflation? You Decide! — speakers: Anuvab Pal, Andy Zaltzman
