@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-06-16T17:20:29+00:00`
-- checked_at: `2026-06-16T17:20:29+00:00`
-- etag: `"djEuMi4wOjE3ODE2MTg0MzkzNTQ="`
+- fetched_at: `2026-06-17T20:29:47+00:00`
+- checked_at: `2026-06-17T20:29:47+00:00`
+- etag: `"djEuMi4wOjE3ODE3MTQxNzk3MDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,30 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-06-16T17:20:29+00:00",
+  "fetched_at": "2026-06-17T20:29:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "859f69a8ea96c00d61b1b8dc3f54b3ca86cae925",
+      "title": "Going deep on the Makerfield by-election",
+      "published_at": "2026-06-17T16:36:19+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a32cd032a769315baf006fc",
+      "description": "Before the people of Makerfield head to the polls to potentially crown the next Prime Minister, Ava and Seán break down what they saw on the ground there last week. EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/politicsjoe Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a32cd032a769315baf006fc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76458658",
+      "itunes_duration": "39:48",
+      "speakers": [],
+      "topics": [
+        "makerfield",
+        "election"
+      ]
+    },
     {
       "key": "1432b6049d1274d67d2dffd276b39203222f6c17",
       "title": "Keir Starmer BANS social media for under-16s",
@@ -13331,6 +13348,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — Going deep on the Makerfield by-election
 - 2026-06-16 — Keir Starmer BANS social media for under-16s
 - 2026-06-14 — Hasan Piker meets Jeremy Corbyn | Israel, Trump, and the death of free speech — speakers: Hasan Piker, Jeremy Corbyn
 - 2026-06-10 — The truth about the Belfast riots | Claire Hanna interview — speakers: Claire Hanna

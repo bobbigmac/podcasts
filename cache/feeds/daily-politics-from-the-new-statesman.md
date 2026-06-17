@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-06-17T16:04:06+00:00`
-- checked_at: `2026-06-17T16:04:06+00:00`
-- etag: `"djEuMi4wOjE3ODE3MDQzMjg5MjI="`
+- fetched_at: `2026-06-17T20:29:47+00:00`
+- checked_at: `2026-06-17T20:29:47+00:00`
+- etag: `"djEuMi4wOjE3ODE3MTM4NjYxMzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-06-17T16:04:06+00:00",
+  "fetched_at": "2026-06-17T20:29:47+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "5657d8f300b56dc77c3689106c69cbcd64eda13e",
+      "title": "If Andy Burnham wins, what next?",
+      "published_at": "2026-06-17T16:29:37+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/if-andy-burnham-wins-what-next",
+      "description": "Tomorrow - the fate of the Labour government, and Keir Starmer’s premiership, is in the balance as voters head to the polls in Makerfield for the most consequential by-election in a generation. If Andy Burnham wins, what are his next steps? How will the following days and weeks play out? Will Lloyd is joined by Ailbhe Rea to discuss. READ https://www.newstatesman.com/politics/2026/06/makerfield-days-andy-burnham-kenyon-farage-by-election LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1781713474401-0095a063-e692-4654-a72c-c01637ba1a7a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a32ca1fa7dbd5b50fbb058d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84607891",
+      "itunes_duration": "43:55",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "andy",
+        "burnham"
+      ]
+    },
     {
       "key": "1b93f97b49844590296a327f8c799fb66f4e71d7",
       "title": "Makerfield: What are the polls saying?",
@@ -31550,6 +31571,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — If Andy Burnham wins, what next? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-15 — Makerfield: What are the polls saying? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-06-13 — The Makerfield candidates’ normal person contest | Will and Anoosh — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-06-12 — Wes Streeting: Keir Starmer doesn't take responsibility — speakers: Wes Streeting, John Healey, Al Carns, Wes Stre, Anoosh Chakelian, Oli Dugmore
