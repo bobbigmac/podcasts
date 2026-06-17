@@ -2,9 +2,9 @@
 
 - slug: `my-dad-wrote-a-porno`
 - source: `https://feeds.acast.com/public/shows/ee6fd316-9ce1-4f8a-ba2c-a4a4bf5643e4`
-- fetched_at: `2026-05-08T16:45:11+00:00`
-- checked_at: `2026-05-08T16:45:11+00:00`
-- etag: `"djEuMi4wOjE3NzgyNTc5NDc5ODk="`
+- fetched_at: `2026-06-17T11:16:59+00:00`
+- checked_at: `2026-06-17T11:16:59+00:00`
+- etag: `"djEuMi4wOjE3ODE2ODg1NTc1OTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://mydadwroteaporno.com",
   "description": "Imagine if your Dad wrote a dirty book. Most people would try to ignore it and pretend it had never happened - but not Jamie Morton. Instead, he's decided to read it to the world in this award-winning comedy podcast.",
   "image_url": "https://assets.pippa.io/shows/61b9f45b1a8cbe48893cedf4/show-cover.jpg",
-  "fetched_at": "2026-05-08T16:45:11+00:00",
+  "fetched_at": "2026-06-17T11:16:59+00:00",
   "owners": [
     "Jamie Morton",
     "James Cooper",

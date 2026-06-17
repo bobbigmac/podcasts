@@ -3083,6 +3083,52 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "2d5bf294060cbdeaaa8c41fffb41a577208b1ff9",
+        "episode_key": "2d5bf294060cbdeaaa8c41fffb41a577208b1ff9",
+        "title": "Ep 41: Joe Lycett (Christmas Special)",
+        "published_at": "2019-12-11T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's a Christmas miracle! Joe Lycett joins us in the dream restaurant for a surprise festive special. If these three formed a boyband they'd be called Glazing Squad.\nRecorded and edited by Ben Williams for Plosive Productions.\nArtwork by Paul Gilbey (photography and design) and Amy Browne (illustrations).\nFollow Joe Ly",
+        "audio_url": "https://sphinx.acast.com/offmenu/41-joelycett-christmasspecial-/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-41-joe-lycett-christmas-special/id1442950743?i=1000459263614&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "0b117a890d6ae46c5b311dae10dd2314451e3034",
+        "episode_key": "0b117a890d6ae46c5b311dae10dd2314451e3034",
+        "title": "Ep 40: Kumail Nanjiani",
+        "published_at": "2019-11-20T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's the last episode of series two! And what a treat we have for the season finale: Kumail Nanjiani – star of 'Silicon Valley', upcoming Marvel movie 'The Eternals' and the Oscar-nominated 'The Big Sick' – closes the series with his emotionally-dead meal.\nRecorded and edited by Ben Williams for Plosive Productions.\nAr",
+        "audio_url": "https://sphinx.acast.com/offmenu/ep40-kumailnanjiani/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-40-kumail-nanjiani/id1442950743?i=1000457304324&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e7806ce80a56",
         "feed_title": "THE ADAM BUXTON PODCAST",
         "source_rss_url": "https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645",
@@ -4794,6 +4840,28 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:680432c6a051",
+        "feed_title": "Sh**ged Married Annoyed",
+        "source_rss_url": "https://feeds.megaphone.fm/sma",
+        "dedupe_key": "ab2764ca4880fbf6e5c8129ef1a790f1d4530c19",
+        "episode_key": "ab2764ca4880fbf6e5c8129ef1a790f1d4530c19",
+        "title": "Please Keep Me Anonymous with Ed Gamble",
+        "published_at": "2026-06-17T04:02:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "On this week's podcast Chris and Rosie are joined by comedian, podcaster and TV Host Ed Gamble! \n\nAs well getting nostalgic about their Edinburgh Days, the trio discuss star signs, Real House Wives and Rosie reveals why she thinks she is addicted to her extended family...\n\nEd talks about his upcoming tour Fresh Hell, h",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7171648091.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/please-keep-me-anonymous-with-ed-gamble/id1451489585?i=1000773064090&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:bcd8c8740780",
         "feed_title": "Well Enough",
@@ -7209,6 +7277,52 @@
         "description": "A second Christmas miracle! The Taskmaster himself Greg Davies joins us in the dream restaurant for another festive special. So let's start the meal with the well-known phrase, 'I'm hard, let's eat'.\nRecorded and edited by Ben Williams for Plosive Productions.\nArtwork by Paul Gilbey (photography and design) and Amy Bro",
         "audio_url": "https://sphinx.acast.com/offmenu/ep42-gregdavies-christmasspecial-/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/ep-42-greg-davies-christmas-special/id1442950743?i=1000459931616&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "2d5bf294060cbdeaaa8c41fffb41a577208b1ff9",
+        "episode_key": "2d5bf294060cbdeaaa8c41fffb41a577208b1ff9",
+        "title": "Ep 41: Joe Lycett (Christmas Special)",
+        "published_at": "2019-12-11T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's a Christmas miracle! Joe Lycett joins us in the dream restaurant for a surprise festive special. If these three formed a boyband they'd be called Glazing Squad.\nRecorded and edited by Ben Williams for Plosive Productions.\nArtwork by Paul Gilbey (photography and design) and Amy Browne (illustrations).\nFollow Joe Ly",
+        "audio_url": "https://sphinx.acast.com/offmenu/41-joelycett-christmasspecial-/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-41-joe-lycett-christmas-special/id1442950743?i=1000459263614&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "0b117a890d6ae46c5b311dae10dd2314451e3034",
+        "episode_key": "0b117a890d6ae46c5b311dae10dd2314451e3034",
+        "title": "Ep 40: Kumail Nanjiani",
+        "published_at": "2019-11-20T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's the last episode of series two! And what a treat we have for the season finale: Kumail Nanjiani – star of 'Silicon Valley', upcoming Marvel movie 'The Eternals' and the Oscar-nominated 'The Big Sick' – closes the series with his emotionally-dead meal.\nRecorded and edited by Ben Williams for Plosive Productions.\nAr",
+        "audio_url": "https://sphinx.acast.com/offmenu/ep40-kumailnanjiani/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-40-kumail-nanjiani/id1442950743?i=1000457304324&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-06-16T17:20:29+00:00`
-- checked_at: `2026-06-16T17:20:29+00:00`
-- last_modified: `Tue, 16 Jun 2026 17:14:42 GMT`
+- fetched_at: `2026-06-17T11:16:59+00:00`
+- checked_at: `2026-06-17T11:16:59+00:00`
+- last_modified: `Wed, 17 Jun 2026 07:26:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-16T17:20:29+00:00",
+  "fetched_at": "2026-06-17T11:16:59+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -27,6 +27,30 @@
     "film"
   ],
   "episodes": [
+    {
+      "key": "242f3ed558b5293293f9e105c2c2d2f8ea20d78c",
+      "title": "Tony Hale • The Resurrection (Office Romance / Sketch / Toy Story 5) • #399",
+      "published_at": "2026-06-17T07:26:00+00:00",
+      "link": "https://www.patreon.com/cw/brettgoldstein",
+      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe (again) with powerful voiceover talent, actor and writer TONY HALE ! The RESURRECTION ! A fantastic and timely resurrection for Tony as he's a part of the incredible cast of Office Romance (available now on Netflix!). There is of course never a bad time but this seems entirely appropriate. Tony's always great business, and in this incarnation we get to hear about all sorts including the skillful art of complement deflection, to tux or not to tux (and when to tux), 'Painface', the premier night of Office Romance and how to dress for such an occasion, the refining and evolving process of marriage, high school reunions (and instigating them), and his own movie project 'Sketch' which was a lot of years in the making. Oh and no horrors please cheers. Lovely stuff, enjoy! ⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! ⁠⁠⁠ IMDB OFFICE ROMANCE ⁠ TOY STORY 5 SKETCH –––––––––– ⁠⁠⁠ BRETT • X ⁠⁠⁠ ⁠⁠⁠ BRETT • INSTAGRAM ⁠⁠⁠ ⁠⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠⁠ ⁠⁠⁠ TED LASSO ⁠⁠⁠ ⁠⁠⁠ SHRINKING ⁠⁠⁠ ⁠⁠⁠ ALL OF YOU ⁠⁠⁠ ⁠⁠⁠ SOULMATES ⁠⁠⁠ ⁠⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3015010e-699f-11f1-aa49-9baf23eb6a26/image/11c6c477c2a147f30e990c26d542d2f2.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD6535903368.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2658",
+      "speakers": [
+        "Brett Goldstein"
+      ],
+      "topics": [
+        "tony",
+        "hale",
+        "resurrection",
+        "office",
+        "romance",
+        "sketch",
+        "story"
+      ]
+    },
     {
       "key": "4b35c791b608a4ec07d954a0c74a358be4b1fc4f",
       "title": "Jennifer Lopez (Office Romance / Hustlers / Out Of Sight) • #398",
@@ -9489,6 +9513,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — Tony Hale • The Resurrection (Office Romance / Sketch / Toy Story 5) • #399 — speakers: Brett Goldstein
 - 2026-06-10 — Jennifer Lopez (Office Romance / Hustlers / Out Of Sight) • #398 — speakers: Jennifer Lopez, Brett Goldstein
 - 2026-06-03 — Betty Gilpin (Office Romance / GLOW / The Hunt) • #397 — speakers: Betty Gilpin, Brett Goldstein
 - 2026-05-27 — Amy Sedaris (Office Romance / The Mandalorian / BoJack Horseman) • #396 — speakers: Amy Sedaris, Brett Goldstein
