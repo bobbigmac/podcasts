@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-06-11T22:58:26+00:00`
-- checked_at: `2026-06-11T22:58:26+00:00`
-- etag: `"d773c-65400706d5143"`
-- last_modified: `Thu, 11 Jun 2026 20:45:23 GMT`
+- fetched_at: `2026-06-18T15:52:36+00:00`
+- checked_at: `2026-06-18T15:52:36+00:00`
+- etag: `"d8726-65485171a5717"`
+- last_modified: `Thu, 18 Jun 2026 11:00:55 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-06-11T22:58:26+00:00",
+  "fetched_at": "2026-06-18T15:52:36+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1490af7c8a322f0b431c5b155ceab97f47c1d9e1",
+      "title": "Taskmaster The People's Podcast - The Whole Hilt With a Kilt - S21, Ep.10 *GRAND FINAL*",
+      "published_at": "2026-06-18T11:00:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "This week on the Taskmaster Podcast we share the latest People's Podcast which if you don't know is hosted each week by the brilliant Jenny Eclair and Jack Bernhardt! Enjoy! _____________________ Well kick us in the centre of the body, it's the series 21 grand final! And there's so much to discuss, including how to style out your cringe, whether or not it's possible to fill an egg cup with belly button lint alone and why Kumail's nipple gate got so out of hand on this podcast. And saying goodbye to series 21 of course means ushering in a new cast for series 22! Jack and Jenny give their thoughts. Next week Jack offers his series 21 stats debrief, and it's your chance to debrief too. Send all your Series 21 thoughts along to fans@taskmaster.tv Download the Taskmaster App for all kinds of extended fun. Watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com Catch up with old episodes from anywhere in the world taskmastersupermaxplus.vhx.tv Visit the Taskmaster YouTube Channel youtube.com/taskmaster",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/ad68c623-380e-4b96-b07d-a2560b6d2ca3.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=ad68c623-380e-4b96-b07d-a2560b6d2ca3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61046576",
+      "itunes_duration": "59:53",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "taskmaster",
+        "people",
+        "podcast",
+        "hilt",
+        "kilt",
+        "grand",
+        "final"
+      ]
+    },
     {
       "key": "cfa2cc1f651c0cf2d14faf06bd6bfdb92946372c",
       "title": "*Series 21 Winner* Series 21 Ep 10",
@@ -5439,6 +5463,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-18 — Taskmaster The People's Podcast - The Whole Hilt With a Kilt - S21, Ep.10 *GRAND FINAL* — speakers: Ed Gamble
 - 2026-06-11 — *Series 21 Winner* Series 21 Ep 10 — speakers: Ed Gamble
 - 2026-06-04 — Kumail Nanjiani - Series 21 Ep.9 — speakers: Ed Gamble
 - 2026-05-28 — Jason Mantzoukas - Series 21 Ep.8 — speakers: Ed Gamble

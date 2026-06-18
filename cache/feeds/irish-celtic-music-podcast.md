@@ -2,13 +2,11 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-06-11T10:57:53+00:00`
-- checked_at: `2026-06-18T10:47:29+00:00`
-- etag: `"ee07bd7d14923a946e696e614f4993c1"`
-- last_modified: `Thu, 11 Jun 2026 08:37:47 GMT`
+- fetched_at: `2026-06-18T15:52:36+00:00`
+- checked_at: `2026-06-18T15:52:36+00:00`
+- etag: `"8c844fd5658a162e222abe63e4aadc7e"`
+- last_modified: `Thu, 18 Jun 2026 08:37:43 GMT`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: IncompleteRead(10485760 bytes read, 3227795 more expected)
 
 <!-- FEED_JSON -->
 ```json
@@ -20,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-06-11T10:57:53+00:00",
+  "fetched_at": "2026-06-18T15:52:36+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -29,6 +27,25 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "8f8cd5e268074095ab702fca7d1a289e8d1498af",
+      "title": "Celtic Blood and Burning Roads #763",
+      "published_at": "2026-06-18T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/celtic-blood-and-burning-roads-763",
+      "description": "Celtic music is always burning somewhere. Today we fan the flame with new sounds from Sean Heely and Beth Patterson, The McDades, Skyrie, and a whole lot more. This is the Irish and Celtic Music Podcast. It's the Irish & Celtic Music Podcast #763 - - Subscribe now at CelticMusicPodcast.com ! Sean Heely and Beth Patterson, The Byrne Brothers, serious kitchen, Jared Bogle, Matt and Shannon Heaton, Ockham's Razor, Runa, Hounds of Finn, The Horsenecks, Skyrie, Vicki Swan and Jonny Dyer, Jarmila Xymena Gorna, The McDades GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! THIS WEEK IN CELTIC MUSIC 0:06 - Sean Heely and Beth Patterson \"Aux Nachitoches\" from Stir the Blood to Fire 3:32 - WELCOME 7:58 - The Byrne Brothers \"Waikiki Reel (Finn Byrne) Seanamhac Tube Station Reel [Traditional]\" from Living the Dream 11:27 - serious kitchen \"wind that shakes the barley\" from on the mash 15:42 - Jared Bogle \"The Orphan / The Black Rogue (Jigs)\" from The Old Road Home 19:02 - Matt and Shannon Heaton \"P Joe Hayes #2/Cottage in the Grove/Mother and Child (reels)\" from Whirring Wings 23:05 - FEEDBACK 24:02 - Runa \"For All That You Do Set\" from When The Light Gets In 29:35 - Hounds of Finn \"Where It Burns\" from Gravity Pulls 34:06 - The Horsenecks \"Jinny Lin's Tune\" from In the West 36:42 - THANKS 37:43 - Ockham's Razor \"Murmuring\" from Secrets and Silence 42:00 - Skyrie \"Solid Ground\" from Hunger Road 47:01 - Vicki Swan and Jonny Dyer \"Pyramid Bourrée\" from Come Bring With A Noise 50:48 - Jarmila Xymena Gorna \"Escape - Dihangfa\" from Single 56:24 - CLOSING 57:46 - The McDades \"The Lily of the West\" from Thread The Light 1:01:57 - CREDITS Support for this program comes from John Sharkey White, II. Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Hank Woodward. Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Clean energy is the single most powerful tool we have to fight climate change. Solar, wind, hydro - every kilowatt of clean power displaces the fossil fuels warming our planet. The big picture matters. So do the small choices you make every day. This week's tip comes from the 5 Rs of Sustainability: Refuse. Before you buy something new, ask yourself if you actually need it. Every item you don't buy is one that never had to be made, shipped, or eventually thrown away. Refusing is the most underrated act of sustainability there is. Start there. Your wallet and the planet will both thank you. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories. Every song has a story, every episode is a toast to Celtic and folk songwriters. Discover the stories behind the songs from the heart of the Celtic pub scene. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email the artists to let them know you heard them on the Irish & Celtic Music Podcast. These musicians are not part of some corporation. They are small indie groups that rely on people just like you to support their music so they can keep creating it. Please show your generosity. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . CHANGE IN WHO IS PLAYED ON THE PODCAST, NO AI MUSIC, FOCUS ON PERFORMING BANDS Something important happened recently. I received my first - ever submission from a Celtic \"band\" that was 100% AI - generated. Honestly? It sounded good. And I was grateful the artist, Emma Rove, was completely open about it. The music and the vocals were AI. I couldn't tell. But from the early days of this podcast, my goal has been to promote indie Celtic artists. I'm updating that for the future. My goal is to promote performing indie Celtic artists. This actually works well for me. I'm not a fan of most \"Celtic Music\" on YouTube. It's usually electronic and orchestrated. Not my thing. So if the artists aren't performing, I probably won't play them on the podcast. Hopefully that makes for a better show all around. Thanks for your support. THANK YOU PATRONS OF THE PODCAST! This episode exists because of our amazing Patrons of the Podcast. Every month, they chip in to keep this show running - covering audio engineering, graphic design, Celtic Music Magazine, and letting me go out and buy music directly from independent Celtic artists like the ones you just heard. Want in? It's simple. Step one: head to SongHenge.com. Step two: pick a support level that works for you. Step three: start enjoying the perks. That means early access to new episodes, music - only editions with no talking, free downloads, exclusive content, and even voting rights to help shape the show. Slàinte to every single Patron. You make this possible. A special thanks our newest Patron of the Podcast: John W HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $25. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. Learn more about the invasion at http://celticinvasion.com/ #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo. If you're in a Celtic band, send me an audio recording of you performing live. Just audio. I'll use it in a podcast episode later this year. Email me at follow@bestcelticmusic.",
+      "image_url": "https://static.libsyn.com/p/assets/b/5/6/a/b56a987e65bae22d16c3140a3186d450/763-Celtic_Blood_and_Burning_Roads-TheByrneBrothers-1400.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-763_music_only.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31011910",
+      "itunes_duration": "32:02",
+      "speakers": [
+        "Marc Gunn"
+      ],
+      "topics": [
+        "blood",
+        "road"
+      ]
+    },
     {
       "key": "5ef3412c492111e83140d3d79598691c7aaf581b",
       "title": "Socks in the Frying Pan Interview #762",
@@ -16297,23 +16314,14 @@
         "podcast"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-06-18T10:47:29+00:00",
-    "status": "error",
-    "checked_at": "2026-06-18T10:47:29+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "IncompleteRead(10485760 bytes read, 3227795 more expected)"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
 
 ## Episodes (newest first)
 
+- 2026-06-18 — Celtic Blood and Burning Roads #763 — speakers: Marc Gunn
 - 2026-06-11 — Socks in the Frying Pan Interview #762 — speakers: Frying Pan, Celtic Music Podca, Marc Gunn
 - 2026-06-04 — Last Night in the Hills of Ireland #761 — speakers: Last Night, Marc Gunn
 - 2026-05-28 — Child of Alba, Crossing to Ireland #760 — speakers: Marc Gunn

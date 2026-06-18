@@ -20889,6 +20889,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:86e8d6833f90",
+        "feed_title": "Strong Message Here",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
+        "dedupe_key": "3afc9f6a4d9e57ed37c8cb35fb01a80208588521",
+        "episode_key": "3afc9f6a4d9e57ed37c8cb35fb01a80208588521",
+        "title": "It's All Signed (with Stewart Lee)",
+        "published_at": "2026-06-17T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stewart Lee joins Armando to look at the detail, or lack thereof in the US and Iran deal.\nWhat is a memorandum of understanding? Does the language of UFC apply to this deal? And are Shoreditch hipsters running Iran's social media campaign?\nIt's by-election day, and while broadcast rules prevent us from discussing the e",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsk2g3.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/its-all-signed-with-stewart-lee/id1774462541?i=1000773168520&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b6ddb63da1f3",
         "feed_title": "Full Steam Ahead! With Chris McDonald",
         "source_rss_url": "https://anchor.fm/s/109b3dd28/podcast/rss",
@@ -26151,6 +26173,28 @@
       }
     ],
     "nish-kumar": [
+      {
+        "feed_slug": "external:apple:b5b6de6d71f1",
+        "feed_title": "Bold Politics with Zack Polanski",
+        "source_rss_url": "https://feeds.acast.com/public/shows/68b709d1a742b7c846de24b5",
+        "dedupe_key": "6176340cbc457fa846cb3df47c6dcd7b7213279e",
+        "episode_key": "6176340cbc457fa846cb3df47c6dcd7b7213279e",
+        "title": "Elon Musk Calls Zack A Scumbag | Nish Kumar",
+        "published_at": "2026-06-17T06:11:35Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "How is Nigel Farage evading scrutiny? Should social media companies be held to the same standard as broadcasters? Why did Keir Starmer almost immediately start sinking in the polls after his election victory in 2024?\nZack Polanski talks to comedian and broadcaster, Nish Kumar.\n_____\nWhat's your bold idea? Bring it to l",
+        "audio_url": "https://sphinx.acast.com/p/open/s/68b709d1a742b7c846de24b5/e/6a323a979b6fd8dcabf9c4f3/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/elon-musk-calls-zack-a-scumbag-nish-kumar/id1837201724?i=1000773078289&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:ebcb3ba2e5c7",
         "feed_title": "Fwends",
