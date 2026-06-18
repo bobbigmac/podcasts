@@ -34049,6 +34049,28 @@
     ],
     "david-mitchell": [
       {
+        "feed_slug": "external:apple:a1a2d2fefae5",
+        "feed_title": "Santa Fe News Today | 2 Min News | The Daily News Now!",
+        "source_rss_url": "https://feeds.fastcast.ai/santa-fe-daily-news-now.xml",
+        "dedupe_key": "4ef3df99f4de8bd300dead70af19ba8d81b69e2f",
+        "episode_key": "4ef3df99f4de8bd300dead70af19ba8d81b69e2f",
+        "title": "David Mitchell: Truth Teller, Editor Extraordinaire",
+        "published_at": "2026-06-17T05:12:15Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "David Mitchell, a revered journalist and former managing editor of The Santa Fe New Mexican, died at 90 after a battle with a neurodegenerative disease. Known for his fierce editorial standards and unwavering support of reporters, Mitchell once marked up the front page daily to ensure accuracy and accountability. His c",
+        "audio_url": "https://api.fastcast.ai/audio/2383fe35-f405-4320-be6b-c2dc3efa7490.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-truth-teller-editor-extraordinaire/id1855759086?i=1000773070526&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "Richard Herring's Leicester Square Theatre Podcast (RHLSTP)",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",

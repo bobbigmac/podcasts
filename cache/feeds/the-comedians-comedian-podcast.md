@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-06-15T19:08:30+00:00`
-- checked_at: `2026-06-15T19:08:30+00:00`
-- etag: `"djEuMi4wOjE3ODE1NDk3NTEwOTU="`
+- fetched_at: `2026-06-18T10:47:29+00:00`
+- checked_at: `2026-06-18T10:47:29+00:00`
+- etag: `"djEuMi4wOjE3ODE3Njk2Mzk0MjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-06-15T19:08:30+00:00",
+  "fetched_at": "2026-06-18T10:47:29+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c1bf6971d7e623f35209447da14856ca55abf6b0",
+      "title": "Joe Wells",
+      "published_at": "2026-06-18T08:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/512-joe-wells",
+      "description": "Joe Wells is known best for his shows exploring mental health and his neurodiversity being autistic, while before that he first made his name as a political comedian with shows like Night of the Living Tories. Joe also hosts the podcast Neurodivergent Moments with Abigoliah Schamaun, of which their book is out today! We discuss: how performing for a neurodivergent audience can change the mechanics of live comedy the impact parenthood has on the kind of comedy you want to make how comedy can be a tool for processing your neurodivergence writing a book about OCD at 15 how focusing on personal experiences stops your material becoming dated the problem with saying “ we're all on the spectrum ” and how Joe's viral clip didn't change his approach to making stuff Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to exclusive extras including: The Dark Room how Joe takes extra beats to make reveals land harder flipping the script for neurodivergent audiences and how being unfunny can be a secret power move in a club 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Joe: Joe's book with Abigoliah Schamaun, Neurodivergent Moments , is out today in all good book stores and Joe Wells: Daddy Autism is on tour later this year. Find all the info and more at joewells.org.uk . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content with Joe ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE ON TOUR , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Other things : Comedy promoters, get in touch with Amy Miller and Joyelle Nicole Johnson ! Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1781548215141-0549dbfc-c8fc-4f77-b03f-31db5eada5bc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a3047c4cd023694940a59b5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105417216",
+      "itunes_duration": "1:13:12",
+      "speakers": [
+        "Joe Wells Joe Wells",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "wells"
+      ]
+    },
     {
       "key": "6510287f05330d3aa9b222b2671a15a91581b06f",
       "title": "Suzi Ruffell (2019): ComCompendium",
@@ -11516,6 +11535,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-18 — Joe Wells — speakers: Joe Wells Joe Wells, Stuart Goldsmith
 - 2026-06-11 — Suzi Ruffell (2019): ComCompendium — speakers: Suzi Ruffell, Stuart Goldsmith
 - 2026-06-04 — Sara Pascoe Returns — speakers: Sara Pascoe, Stuart Goldsmith
 - 2026-05-29 — A Very Important Announcement... — speakers: Stuart Goldsmith
