@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-06-17T16:04:06+00:00`
-- checked_at: `2026-06-17T16:04:06+00:00`
-- last_modified: `Wed, 17 Jun 2026 15:30:57 GMT`
+- fetched_at: `2026-06-18T05:01:40+00:00`
+- checked_at: `2026-06-18T05:01:40+00:00`
+- last_modified: `Wed, 17 Jun 2026 23:05:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-17T16:04:06+00:00",
+  "fetched_at": "2026-06-18T05:01:40+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "ca22e804759c099dc3d677a4fd34ef2e197247f7",
+      "title": "Tom Hanks on Toy Story, Sequels and The Scene He Regrets",
+      "published_at": "2026-06-17T23:05:00+00:00",
+      "link": null,
+      "description": "Was the 90s the last great decade of movies? Who will Tom Hanks be supporting at the World Cup? And which film does he think features his worst performance? Richard Osman and Marina Hyde speak to Tom Hanks about his acting career, opinions on sequels and his favourite tank from WW2. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at ⁠therestisentertainment.com ⁠ For more Goalhanger Podcasts, head to ⁠www.goalhanger.com⁠ Video Editor: Adam Thornton Camera Op: Graham Howe Camera Assistant: Harry Swan Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Sam Psyk Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8866111647.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2307",
+      "speakers": [
+        "Tom Hanks",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "hanks",
+        "story",
+        "sequels",
+        "scene"
+      ]
+    },
     {
       "key": "3202443fc65316225f3b327c451c99b99c4b85a4",
       "title": "Has The BBC Really Cancelled Doctor Who?",
@@ -6034,6 +6057,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — Tom Hanks on Toy Story, Sequels and The Scene He Regrets — speakers: Tom Hanks, Richard Osman, Marina Hyde
 - 2026-06-15 — Has The BBC Really Cancelled Doctor Who? — speakers: Really Cancelled Doctor Who, World Cup, Richard Osman, Marina Hyde
 - 2026-06-10 — Steven Spielberg: I Was Turned Down for Bond — speakers: Steven Spielberg, Richard Osman, Marina Hyde
 - 2026-06-08 — The Steven Bartlett Podcast Pile-On — speakers: Steven Bartlett, Will Taylor Swift, Richard Osman, Marina Hyde

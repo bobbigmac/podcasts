@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-06-17T11:16:59+00:00`
-- checked_at: `2026-06-17T11:16:59+00:00`
-- last_modified: `Wed, 17 Jun 2026 11:13:33 GMT`
+- fetched_at: `2026-06-18T05:01:40+00:00`
+- checked_at: `2026-06-18T05:01:40+00:00`
+- last_modified: `Wed, 17 Jun 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-17T11:16:59+00:00",
+  "fetched_at": "2026-06-18T05:01:40+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e8be0350ece0201b7be8a954891564662bb49551",
+      "title": "The Australia Special",
+      "published_at": "2026-06-17T23:01:00+00:00",
+      "link": null,
+      "description": "Who are Shanthi’s favourite Australians? And why didn’t she move to Australia? This Thursday’s episode of The Romesh Ranganathan Show is an Australian special, celebrating all our listeners from down under - we’ve got a boomerang, flags, a kangaroo and hats - we’re not here to f*ck spiders! Shanthi reveals some secret stories, including how Romesh could’ve been born in Australia, plus she plays a game of guess the Australian phrase and even attempts the accents. We also answer questions from our Australian listeners on swearing in front of parents, if you should have more than one child and what are our favourite types of c*nt. Don’t forget to like and subscribe! A Ranga Bee Production in partnership with Platform. Chapters: 00:00 Intro 03:31 Cork hats 08:52 Shanthi on Australia 09:56 Australian family 10:53 Shanthi attempts an Aussie accent 12:05 Favourite Australians 15:45 Wikifeet 16:25 Aussie phrases 20:06 Shanthi on ShxtsNGigs 23:15 The c-bomb 26:47 Another question 31:50 Snake training 37:43 We answer another question 43:44 Live shows and a trip to Australia 45:03 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0845a2f4-698c-11f1-90f5-574bd78028db/image/766d937419b705dbaefff768b530377b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2331063332.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2942",
+      "speakers": [
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "australia",
+        "special"
+      ]
+    },
     {
       "key": "da81687f9670e254307f7df054291fc350777acf",
       "title": "ShxtsNGigs On WORST Fan Interactions, Imposter Syndrome & Touring",
@@ -1773,6 +1792,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-17 — The Australia Special — speakers: Romesh Ranganathan
 - 2026-06-14 — ShxtsNGigs On WORST Fan Interactions, Imposter Syndrome & Touring — speakers: Romesh Ranganathan
 - 2026-06-10 — Which World Cup Footballers Would Shanthi Date? — speakers: Harry Kane, Romesh Ranganathan
 - 2026-06-07 — Emily Atack on The Inbetweeners, Unwanted DMs and Nobody’s Fool — speakers: Romesh Ranganathan

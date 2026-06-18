@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-06-17T11:16:59+00:00`
-- checked_at: `2026-06-17T11:16:59+00:00`
+- fetched_at: `2026-06-18T05:01:40+00:00`
+- checked_at: `2026-06-18T05:01:40+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Wed, 17 Jun 2026 11:13:06 GMT`
+- last_modified: `Thu, 18 Jun 2026 04:10:30 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-17T11:16:59+00:00",
+  "fetched_at": "2026-06-18T05:01:40+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "19959b8366b6e6766e458f195ed7a1b031040000",
+      "title": "Philippa Perry",
+      "published_at": "2026-06-18T04:00:00+00:00",
+      "link": null,
+      "description": "Joining me this week in the gentle summer rain is the fabulous Philippa Perry! ☔ Author, psychotherapist, artist and agony aunt, Philippa is perhaps best known for the captivating The Book You Wish Your Parents Had Read, and now her brand new cosy crime novel, Shrink Solves Murder, is out too! 📖 Join us for a fascinating conversation, and an occasional visualised therapy session, where we chat writing fiction, why Mum’s comments about my chairs hurt more than they should, and newsletter reading newts. We also discuss whether a chatbot would make a good psychotherapist, and the importance of shagging in our youth. 🤖😘 Do take a look at Philippa’s new book, Shrink Solves Murder, and oh I urge you to follow her on Substack! 👈 So, settle down under our murder gazebo, stop scrolling on Rightmove, and let’s go Pottering. 🪴 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, or leave a review! Just don't mention the postman! @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a28f1064-6a38-11f1-9998-5fd1f3663334/image/49447e2ef52c19ff02df674f3cf6b754.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR3035638518.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4881",
+      "speakers": [
+        "Philippa Perry",
+        "Tom Allen"
+      ],
+      "topics": [
+        "philippa",
+        "perry"
+      ]
+    },
     {
       "key": "ea536c4692e614225cafd485800332028cd57fd5",
       "title": "AJ Odudu",
@@ -827,6 +847,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-18 — Philippa Perry — speakers: Philippa Perry, Tom Allen
 - 2026-06-11 — AJ Odudu — speakers: Odudu Oh, Tom Allen
 - 2026-06-04 — Kiri Pritchard-McLean — speakers: Kiri Pritchard, Tom Allen
 - 2026-05-28 — Sara Cox — speakers: Sara Cox, Tom Allen

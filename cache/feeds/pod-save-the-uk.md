@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-06-11T16:20:31+00:00`
-- checked_at: `2026-06-11T16:20:31+00:00`
-- etag: `W/"60d66717e94de36d5afb06f80d1af4ae"`
-- last_modified: `Thu, 11 Jun 2026 14:46:56 GMT`
+- fetched_at: `2026-06-18T05:01:40+00:00`
+- checked_at: `2026-06-18T05:01:40+00:00`
+- etag: `W/"90d72dec55f87a6178a3735bc14bf59d"`
+- last_modified: `Thu, 18 Jun 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-06-11T16:20:31+00:00",
+  "fetched_at": "2026-06-18T05:01:40+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,35 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6ccad77ec0a0dd158b8d1118a6698a2461697867",
+      "title": "Makerfield decides, Labour holds its breath…Plus, Palestine Action & Social Media bans w/ Akiko Hart",
+      "published_at": "2026-06-18T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8917806",
+      "description": "As Makerfield goes to the polls today, Nish and Coco take a look back at the campaign, interrogate Andy Burnham’s ‘King of the North’ brand, and dig into what ‘Manchesterism’ actually is–and how it could work on a national scale. They’re joined by Jack Dulhanty, journalist at Manchester Mill, to break down whether we can expect a people-pleaser for our next Prime Minister, how voting intentions have split households, and why a four-month old political party has given Reform a run for its money. Plus: following the Court of Appeal’s ruling upholding the ban on Palestine Action and the terror sentencing of the ‘Filton 4’ activists, we speak to Akiko Hart, director of Liberty, the UK’s oldest human rights organisation, to understand the consequences of applying such a broad definition of terrorism. And, as a social media ban looms for under-16s, what could this mean for the future of digital privacy in the UK? USEFUL LINKS See Ben Rhodes and Coco Khan live! Tickets here. Liberty breaks down the Palestine Action ruling: https://www.libertyhumanrights.org.uk/issue/breaking-down-the-court-of-appeal-judgment-on-palestine-actions-proscription/#:~:text=On%2015%20June%202026%2C%20the%20Court%20of%20Appeal%20ruled%20in,proscription%20was%20lawful%20and%20proportionate . GUESTS Akiko Hart Jack Dulhanty CHECK OUT THESE DEALS FROM OUR SPONSORS SAILY: https://www.saily.com/podsave BT: Search ‘Why BT’ to find out more. SHOPIFY: https://www.shopify.co.uk/podsavetheuk VANTA: https://www.vanta.com/PSTUK Pod Save the UK is an Intelligence Squared production for Crooked Media. Get in touch - contact us via email: podsavetheuk@crooked.com Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43702705/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8917806.mp3?modified=1781719659&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3948",
+      "speakers": [
+        "Akiko Hart",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "makerfield",
+        "labour",
+        "breath",
+        "plus",
+        "palestine",
+        "action",
+        "social",
+        "media",
+        "akiko",
+        "hart"
+      ]
+    },
     {
       "key": "9ec1a514127da79658c76671574cb827f2492943",
       "title": "Hasan Piker: “Not Conducive to the Public Good”?",
@@ -3876,6 +3905,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-18 — Makerfield decides, Labour holds its breath…Plus, Palestine Action & Social Media bans w/ Akiko Hart — speakers: Akiko Hart, Nish Kumar, Coco Khan
 - 2026-06-11 — Hasan Piker: “Not Conducive to the Public Good”? — speakers: Hasan Piker, Nish Kumar, Coco Khan
 - 2026-06-04 — The Mandelson Files: Chaos Inside Labour? Plus: Sabah Choudrey on the Culture War over Public Spaces — speakers: Sabah Choudrey, Peter Mandelson, Nish Kumar, Coco Khan
 - 2026-05-28 — We Read Tony Blair So You Don’t Have To. Plus: Who Really Owns Britain? w/Hettie O’Brien — speakers: Nish Kumar, Coco Khan
