@@ -2,10 +2,10 @@
 
 - slug: `breaking-the-news`
 - source: `https://podcasts.files.bbci.co.uk/b066zypj.rss`
-- fetched_at: `2026-06-17T16:04:06+00:00`
-- checked_at: `2026-06-17T16:04:06+00:00`
-- etag: `"affb49c4619ef3a9b10abd4cd64b5ac1"`
-- last_modified: `Wed, 17 Jun 2026 14:47:08 GMT`
+- fetched_at: `2026-06-18T20:38:28+00:00`
+- checked_at: `2026-06-18T20:38:28+00:00`
+- etag: `"503ff3ceb4242444a89669d918111f6d"`
+- last_modified: `Thu, 18 Jun 2026 12:00:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/b066zypj",
   "description": "Topical comedy panel show takes a satirical view of the week's headlines.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0h7r5t1.jpg",
-  "fetched_at": "2026-06-17T16:04:06+00:00",
+  "fetched_at": "2026-06-18T20:38:28+00:00",
   "owners": [
     "Bbc Radio Scotland"
   ],
@@ -171,37 +171,6 @@
         "styla",
         "tiffany"
       ]
-    },
-    {
-      "key": "d3a5e69ac463b229da0a92b2249e654c7375b8d8",
-      "title": "Glasgow International Comedy Festival Special: Raymond Mearns, Madeleine Brettingham, Ignacio Lopez and Alexandra Haddow",
-      "published_at": "2026-03-20T14:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/m002sr29",
-      "description": "Des and the teams are at the Glasgow International Comedy Festival to break up the week's big news, including: Trump's criticism of Keir Starmer over the war in Iran, Inverness in the running to be UK capital of culture, research into dishonest babies, an intervention from Angela Rayner and more. Lead Writer: Rebecca Bain & Alex Garrick Wright Additional material: Alan Hazlie, Ruaridh Miller, Chris Stanners, Chris Ballard, Alex Buchanan & Mark Granger, Ben Moore, Gregor Paton, Matt Reed, Nathan Cowley, Jennifer Walker Producer: Chris Quilietti Senior Producer: David Flynn Researcher: Jodie White Script Editor: Keiron Nicholson An Eco-Audio certified Production",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0n7v0lm.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26880000",
-      "itunes_duration": "1680",
-      "speakers": [
-        "Raymond Mearns",
-        "Madeleine Brettingham",
-        "Ignacio Lopez",
-        "Alexandra Haddow Des",
-        "Bbc Radio Scotland"
-      ],
-      "topics": [
-        "glasgow",
-        "international",
-        "comedy",
-        "festival",
-        "special",
-        "raymond",
-        "mearns",
-        "madeleine",
-        "brettingham",
-        "ignacio"
-      ]
     }
   ]
 }
@@ -215,4 +184,3 @@
 - 2026-04-10 — Amanda Dwyer, Jamie MacDonald, Kim Blythe and Stephen Buchanan — speakers: Amanda Dwyer, Jamie MacDonald, Kim Blythe, Stephen Buchanan Des, Bbc Radio Scotland
 - 2026-04-03 — Chris Forbes, Kemah Bob, Kate Hammer and Stuart McPherson — speakers: Chris Forbes, Kemah Bob, Kate Hammer, Stuart McPherson, Bbc Radio Scotland
 - 2026-03-27 — Glasgow International Comedy Festival Special: Susie McCabe, Aurie Styla, Tiffany Stevenson and Rosco McClelland — speakers: Susie McCabe, Aurie Styla, Rosco McClelland, Bbc Radio Scotland
-- 2026-03-20 — Glasgow International Comedy Festival Special: Raymond Mearns, Madeleine Brettingham, Ignacio Lopez and Alexandra Haddow — speakers: Raymond Mearns, Madeleine Brettingham, Ignacio Lopez, Alexandra Haddow Des, Bbc Radio Scotland

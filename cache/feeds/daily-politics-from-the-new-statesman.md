@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-06-17T20:29:47+00:00`
-- checked_at: `2026-06-17T20:29:47+00:00`
-- etag: `"djEuMi4wOjE3ODE3MTM4NjYxMzk="`
+- fetched_at: `2026-06-18T20:38:28+00:00`
+- checked_at: `2026-06-18T20:38:28+00:00`
+- etag: `"djEuMi4wOjE3ODE3OTYwNTE1MDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-06-17T20:29:47+00:00",
+  "fetched_at": "2026-06-18T20:38:28+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "cbac85b1c7dfe910cb406cba84dfd13b797d7e56",
+      "title": "Where Keir Starmer went wrong | Wes Streeting interview",
+      "published_at": "2026-06-18T08:00:44+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/wherestarmerwentwrong",
+      "description": "The former Health Secretary reveals why he believes Keir Starmer is failing. When Wes Streeting resigned from cabinet in May, it put an end to months of speculation. The former Health Secretary does want Keir Starmer’s job. Since then, the Defence Secretary, John Healey, and the Armed Forces minister, Al Carns, have both resigned over the Defence Spending plan. Keir Starmer’s leadership is looking more and more precarious. Now Andy Burnham is running in the Makerfield by-election. If he becomes an MP, that could clear a way for him to contest the leadership himself. In the days leading up to the by-election, Wes Streeting came into the New Statesman studio for an extended interview with our Political Correspondent, Ethan Croft. In the conversation you’re about to hear, Streeting speaks candidly about the reasons he left government, his views on Keir Starmer’s leadership and what he believes Labour needs to do to reverse its ailing fortunes. He’s also surprisingly complimentary about his potential rival in a future leadership contest, Andy Burnham. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1781618071203-db4f8fc2-cda5-4758-9742-08480f176a6b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a3028b925bad45864e1902d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56127320",
+      "itunes_duration": "58:27",
+      "speakers": [
+        "Wes Streeting",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "keir",
+        "starmer",
+        "streeting"
+      ]
+    },
     {
       "key": "5657d8f300b56dc77c3689106c69cbcd64eda13e",
       "title": "If Andy Burnham wins, what next?",
@@ -9948,28 +9970,6 @@
         "speech",
         "starmer",
         "ambition"
-      ]
-    },
-    {
-      "key": "79b0665330af46b96f83c0fbf344f5db37f23a7c",
-      "title": "ADHD in the criminal justice system | Sponsored",
-      "published_at": "2024-07-17T05:00:22+00:00",
-      "link": "https://shows.acast.com/newstatesman/episodes/adhd-in-the-criminal-justice-system-sponsored",
-      "description": "This episode was initiated and funded by Takeda UK Ltd. Attention deficit hyperactivity disorder (ADHD) affects millions worldwide, yet its presence within the criminal justice system is often misunderstood or overlooked. In this podcast we navigate the complex landscape where ADHD and the criminal justice system intercept; shedding light on the unique challenges and misconceptions faced by people with ADHD in prisons and the opportunities for improved care and support. From late diagnosis to repeated prison sentences, the impact of ADHD can shape outcomes in profound and often unrecognised ways. Host Emma Haslett is joined by Dr Tony Lloyd, the CEO of the ADHD Foundation; Sir Robert Buckland, the former Secretary of State for Justice and MP; Daley Jones, trustee at ADHD Liberty; and Sarah Templeton, an ADHD author and therapist, to explore the stories of those living at this intersection. This podcast was recorded and produced before the 2024 General Election was announced. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1733224250081-3e5d7feb-e30f-4001-8ddb-0c9e4e09e1d9.jpeg",
-      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/669043835d66becbc6fe61c7/media.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "17688300",
-      "itunes_duration": "12:16",
-      "speakers": [
-        "Anoosh Chakelian",
-        "Oli Dugmore"
-      ],
-      "topics": [
-        "adhd",
-        "justice",
-        "system",
-        "sponsored"
       ]
     },
     {
@@ -31571,6 +31571,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-18 — Where Keir Starmer went wrong | Wes Streeting interview — speakers: Wes Streeting, Anoosh Chakelian, Oli Dugmore
 - 2026-06-17 — If Andy Burnham wins, what next? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-15 — Makerfield: What are the polls saying? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-06-13 — The Makerfield candidates’ normal person contest | Will and Anoosh — speakers: Anoosh Chakelian, Oli Dugmore
@@ -32024,7 +32025,6 @@
 - 2024-07-19 — How long is Starmer's "honeymoon" period? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2024-07-18 — Will Labour's "Great British Energy" deliver? — speakers: Will Labour, Ed Miliband, Anoosh Chakelian, Oli Dugmore
 - 2024-07-17 — King's speech reveals Starmer's uncommon ambition — speakers: Anoosh Chakelian, Oli Dugmore
-- 2024-07-17 — ADHD in the criminal justice system | Sponsored — speakers: Anoosh Chakelian, Oli Dugmore
 - 2024-07-16 — Andrew Marr: What if the Trump assassination attempt had succeeded? — speakers: Andrew Marr, Anoosh Chakelian, Oli Dugmore
 - 2024-07-15 — Trump shooting: what the Democrats must do now — speakers: Anoosh Chakelian, Oli Dugmore
 - 2024-07-12 — What does Labour's "growth worth having" actually mean? — speakers: Anoosh Chakelian, Oli Dugmore

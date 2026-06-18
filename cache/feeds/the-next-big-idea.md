@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-06-15T12:41:48+00:00`
-- checked_at: `2026-06-15T12:41:48+00:00`
-- last_modified: `Mon, 15 Jun 2026 11:54:40 GMT`
+- fetched_at: `2026-06-18T20:38:28+00:00`
+- checked_at: `2026-06-18T20:38:28+00:00`
+- last_modified: `Thu, 18 Jun 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-15T12:41:48+00:00",
+  "fetched_at": "2026-06-18T20:38:28+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,25 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "247373ed3284302b138150249e3734a85171448c",
+      "title": "Are You Playing Someone Else’s Game?",
+      "published_at": "2026-06-18T09:00:00+00:00",
+      "link": null,
+      "description": "GPAs. Citations. Step counts. Likes. We love a good metric, don't we? It tells you exactly where you stand, no arguing. Mention a 4.0 to a high schooler and they'll know exactly what you mean. Tell a fellow Fitbit-wearer you just hit 10,000 and they'll nod approvingly. But that clarity has a price. To make a metric that clean, that portable, you have to sand off all the nuance, all the context, everything that made the thing worth measuring in the first place. And philosopher C. Thi Nguyen thinks that's quietly rewiring us. In his book The Score: How to Stop Playing Somebody Else's Game , he argues the metrics we chase have stopped measuring our values and started setting them. 🎬 The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠⁠here⁠⁠⁠⁠ . 📱 Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠. 🎁 The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠⁠nextbigideaclub.com⁠⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). 🔗 SPONSORED BY: Fora — Build and scale your own travel business by becoming a Fora Advisor today at foratravel.com/idea Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Shopify — Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP7051655866.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4484",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "game"
+      ]
+    },
     {
       "key": "3efe41a6a5c9a69409c240e021f54ed0ea3b8986",
       "title": "This World Cup Is Messy. Watch It Anyway.",
@@ -7923,6 +7942,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-18 — Are You Playing Someone Else’s Game? — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-06-15 — This World Cup Is Messy. Watch It Anyway. — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-06-11 — The Case for AI Optimism with Peter Diamandis and Steven Kotler — speakers: Peter Diamandis, Steven Kotler, Rufus Griscom, Caleb Bissinger
 - 2026-06-08 — Best Of: The Power of Thinking Outside Your Brain — speakers: Rufus Griscom, Caleb Bissinger

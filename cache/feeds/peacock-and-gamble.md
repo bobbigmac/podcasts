@@ -2,8 +2,8 @@
 
 - slug: `peacock-and-gamble`
 - source: `https://www.fubarradio.com/player/on-demand/peacock-and-gamble/`
-- fetched_at: `2026-06-18T15:52:36+00:00`
-- checked_at: `2026-06-18T15:52:36+00:00`
+- fetched_at: `2026-06-18T20:38:28+00:00`
+- checked_at: `2026-06-18T20:38:28+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "image_url": "",
-  "fetched_at": "2026-06-18T15:52:36+00:00",
+  "fetched_at": "2026-06-18T20:38:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2be938ffeb343955feaf2758ccec8d5ee1cff111",
+      "guid": "1a6b395c-541e-45ee-9773-6c030f81a896",
+      "title": "Peacock and Gamble (18th June)",
+      "published_at": "2026-06-18T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-18th-june/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1781798554-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=1a6b395c-541e-45ee-9773-6c030f81a896&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "6491cdd240a3f9a1b047e7ba527e33a0130f199d",
       "guid": "e7b775d9-eb6e-44c0-bf67-9bd0e613b749",
@@ -2878,6 +2891,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-18 — Peacock and Gamble (18th June)
 - 2026-06-12 — Peacock and Gamble (12th June)
 - 2026-06-11 — Peacock and Gamble (11th June)
 - 2026-06-05 — Peacock and Gamble (5th June)
