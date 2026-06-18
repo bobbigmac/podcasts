@@ -2,9 +2,9 @@
 
 - slug: `out-with-suzi-ruffell`
 - source: `https://feeds.megaphone.fm/GLT9819213775`
-- fetched_at: `2026-06-16T11:33:31+00:00`
-- checked_at: `2026-06-16T11:33:31+00:00`
-- last_modified: `Tue, 16 Jun 2026 08:22:43 GMT`
+- fetched_at: `2026-06-18T23:04:52+00:00`
+- checked_at: `2026-06-18T23:04:52+00:00`
+- last_modified: `Thu, 18 Jun 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.spreaker.com/show/out-with-suzi-ruffell",
   "description": "Attitude Presents: Out with Suzi Ruffell is a podcast that celebrates the LGBTQIA+ community through comedian and writer Suzi Ruffell's relaxed interviews of queer luminaries — from popstars to politicians, activists to artists. Tune in to hear Suzi and her guests talk about coming out, being out, finding your place in the world and sharing moments of queer joy. Brought to you by Attitude magazine and Off The Kerb Productions. Host: Suzi Ruffell · Podcast producer: Alma Fournier-Carballo · Booking producer: Dale Fox · Post producer: Markus Bidaux",
   "image_url": "https://megaphone.imgix.net/podcasts/1af2f5a0-1a7b-11ed-a410-0fc86e797d6c/image/cfca99fb5f4ff7128b2a90e4fea85f54.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-16T11:33:31+00:00",
+  "fetched_at": "2026-06-18T23:04:52+00:00",
   "owners": [
     "Suzi Ruffell"
   ],
@@ -27,6 +27,26 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "1d34192361c4625691715966a8cac5be4fa256b6",
+      "title": "2026 S1 Ep9: Peter Tatchell",
+      "published_at": "2026-06-18T23:00:00+00:00",
+      "link": null,
+      "description": "It is an honour to welcome today’s guest to the podcast. Peter Tatchell has dedicated his life to advancing human rights, tirelessly protesting injustice and advocating for change. He helped organise the very first Gay Pride march in London in 1972, and has played a huge role in furthering the equality of our community. Sign up to the Peter Tatchell Foundation newsletter to hear about all the incredible work being done for human rights around the world: https://petertatchellfoundation.org/join-us/ Enjoy the episode and don't forget to subscribe, follow, share, like, rate and review. Thanks, Suzi x If you want to get in touch with me on the show email ⁠⁠⁠⁠hello@outwithsuziruffell.com⁠⁠⁠⁠ Host: Suzi Ruffell Brought to you by Attitude magazine and Off The Kerb Productions Podcast producer: Alma Fournier-Carballo Booking producer: Dale Fox Post producer: Markus Bidaux Sales, advertising and general enquiries : ⁠hello@outwithsuziruffell.com⁠⁠⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/18853e94-68ac-11f1-92af-8ff5d4a47ea8/image/bff54a6aada7a70d22526296864f0c88.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4206183253.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2620",
+      "speakers": [
+        "Peter Tatchell",
+        "Suzi Ruffell"
+      ],
+      "topics": [
+        "peter",
+        "tatchell"
+      ]
+    },
     {
       "key": "ffdf7c58a0963e505d69452087431485cc707e0b",
       "title": "Monday Minis Ep7",
@@ -289,25 +309,6 @@
       ]
     },
     {
-      "key": "4cc84dd3f66789addcd1cfcd5bc693f5c2bd554a",
-      "title": "2026 S1 Ep2: Tia Kofi",
-      "published_at": "2026-04-30T23:00:00+00:00",
-      "link": null,
-      "description": "* If Spotify are having technical difficulties, please head over to YouTube to enjoy all new episodes ⁠HERE⁠ * Today's guest is a legendary drag performer, winner of RuPaul's Drag Race: UK vs The World, singer, songwriter, podcaster and activist, Tia Kofi. I absolutely loved chatting to Tia and if you're into your sci-fi and you want to hear more from them, do check out ⁠⁠The Final FronTia podcast⁠⁠ , it's a lot of fun. Enjoy the episode and don't forget to subscribe, follow, share, like, rate and review. Thanks, Suzi x If you want to get in touch with me on the show email ⁠⁠⁠⁠⁠hello@outwithsuziruffell.com⁠⁠⁠⁠⁠ I'm also on tour! Find all the details at ⁠⁠⁠suziruffell.com⁠⁠⁠ Host: Suzi Ruffell Brought to you by Attitude magazine and Off The Kerb Productions Podcast producer: Alma Fournier-Carballo Booking producer: Dale Fox Post producer: Markus Bidaux Sales, advertising and general enquiries: ⁠hello@outwithsuziruffell.com⁠⁠⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/5a871350-44b0-11f1-bd09-4f09123c6908/image/6ae28a2662395cc006dca163222e1603.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://traffic.megaphone.fm/NSR7796852493.mp3?updated=1777889430",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "2842",
-      "speakers": [
-        "Tia Kofi",
-        "Suzi Ruffell"
-      ],
-      "topics": [
-        "kofi"
-      ]
-    },
-    {
       "key": "8776b751bbf0c6508c7428793b8cceda9fc06c5b",
       "title": "2026 S1 Ep1: Cliff Joannou",
       "published_at": "2026-04-30T23:00:00+00:00",
@@ -324,6 +325,25 @@
       "topics": [
         "cliff",
         "joannou"
+      ]
+    },
+    {
+      "key": "4cc84dd3f66789addcd1cfcd5bc693f5c2bd554a",
+      "title": "2026 S1 Ep2: Tia Kofi",
+      "published_at": "2026-04-30T23:00:00+00:00",
+      "link": null,
+      "description": "* If Spotify are having technical difficulties, please head over to YouTube to enjoy all new episodes ⁠HERE⁠ * Today's guest is a legendary drag performer, winner of RuPaul's Drag Race: UK vs The World, singer, songwriter, podcaster and activist, Tia Kofi. I absolutely loved chatting to Tia and if you're into your sci-fi and you want to hear more from them, do check out ⁠⁠The Final FronTia podcast⁠⁠ , it's a lot of fun. Enjoy the episode and don't forget to subscribe, follow, share, like, rate and review. Thanks, Suzi x If you want to get in touch with me on the show email ⁠⁠⁠⁠⁠hello@outwithsuziruffell.com⁠⁠⁠⁠⁠ I'm also on tour! Find all the details at ⁠⁠⁠suziruffell.com⁠⁠⁠ Host: Suzi Ruffell Brought to you by Attitude magazine and Off The Kerb Productions Podcast producer: Alma Fournier-Carballo Booking producer: Dale Fox Post producer: Markus Bidaux Sales, advertising and general enquiries: ⁠hello@outwithsuziruffell.com⁠⁠⁠ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5a871350-44b0-11f1-bd09-4f09123c6908/image/6ae28a2662395cc006dca163222e1603.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR7796852493.mp3?updated=1777889430",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2842",
+      "speakers": [
+        "Tia Kofi",
+        "Suzi Ruffell"
+      ],
+      "topics": [
+        "kofi"
       ]
     },
     {
@@ -2622,6 +2642,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-18 — 2026 S1 Ep9: Peter Tatchell — speakers: Peter Tatchell, Suzi Ruffell
 - 2026-06-14 — Monday Minis Ep7 — speakers: Monday Minis, Suzi Ruffell
 - 2026-06-11 — 2026 S1 Ep8: Farrel Hegarty — speakers: Farrel Hegarty, Suzi Ruffell
 - 2026-06-07 — Monday Minis Ep6 — speakers: Monday Minis, Suzi Ruffell
@@ -2635,8 +2656,8 @@
 - 2026-05-10 — Monday Minis Ep2 — speakers: Monday Minis, Suzi Ruffell
 - 2026-05-07 — 2026 S1 Ep3: Megan Jayne Crabbe — speakers: Megan Jayne Crabbe, Suzi Ruffell
 - 2026-05-03 — Monday Minis Ep1 — speakers: Monday Minis, Suzi Ruffell
-- 2026-04-30 — 2026 S1 Ep2: Tia Kofi — speakers: Tia Kofi, Suzi Ruffell
 - 2026-04-30 — 2026 S1 Ep1: Cliff Joannou — speakers: Suzi Ruffell
+- 2026-04-30 — 2026 S1 Ep2: Tia Kofi — speakers: Tia Kofi, Suzi Ruffell
 - 2026-04-27 — New series starts Friday 1st May! — speakers: Suzi Ruffell
 - 2024-08-01 — S9 EP6: Bisi Alimi — speakers: Bisi Alimi, Suzi Ruffell
 - 2024-07-25 — S9 EP5: Charley Marlowe — speakers: Charley Marlowe, Suzi Ruffell

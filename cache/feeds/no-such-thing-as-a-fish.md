@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-06-15T05:27:43+00:00`
-- checked_at: `2026-06-15T05:27:43+00:00`
-- etag: `W/"f74c65ee5563b0c71811afeb6d3076c0"`
-- last_modified: `Sun, 14 Jun 2026 22:55:00 GMT`
+- fetched_at: `2026-06-18T23:04:52+00:00`
+- checked_at: `2026-06-18T23:04:52+00:00`
+- etag: `W/"6716bf2dde5df4e153de6bf0e02f15f5"`
+- last_modified: `Thu, 18 Jun 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-06-15T05:27:43+00:00",
+  "fetched_at": "2026-06-18T23:04:52+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,29 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "7e85f62fb4903edd8cc262e6e1015c7fb7408346",
+      "title": "No Such Thing As The Metal Bloke",
+      "published_at": "2026-06-18T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8918202",
+      "description": "Nish Kumar joins James, Anna and Andy to discuss The Man Who Talks With String; The Man Who Sold The World; and the man you don't want directing your B-movie. Head to nosuchthingasafish.com/Risummer for tickets to our July shows at the Royal Institution! Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Jack Chambers, Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43704193.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8918202.mp3?modified=1781796429&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3233",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "metal",
+        "bloke"
+      ]
+    },
     {
       "key": "8a546342a3917a8d47b5987e7c38710d356fc4b2",
       "title": "Little Fish: I've Booked Us In A Lovely Toilet",
@@ -333,7 +356,7 @@
       "link": "https://audioboom.com/posts/8897452",
       "description": "Amy Gledhill joins Dan, James and Andy to discuss the First Earl of Bristol, the Last One Laughing, and the Psycho that put movies in the right order. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43623269.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8897452.mp3?modified=1777568532&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8897452.mp3?modified=1781798227&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3440",
@@ -16491,6 +16514,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-18 — No Such Thing As The Metal Bloke — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-14 — Little Fish: I've Booked Us In A Lovely Toilet — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-11 — No Such Thing As Poddyversity Challenge — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-07 — Little Fish: Accordion To Whom? — speakers: Rufus Hound, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

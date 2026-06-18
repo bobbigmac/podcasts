@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-06-18T15:52:36+00:00`
-- checked_at: `2026-06-18T15:52:36+00:00`
-- etag: `"djEuMi4wOjE3ODE3ODYyNjIyOTI="`
+- fetched_at: `2026-06-18T23:04:52+00:00`
+- checked_at: `2026-06-18T23:04:52+00:00`
+- etag: `"djEuMi4wOjE3ODE4MjM3NTkzNzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-06-18T15:52:36+00:00",
+  "fetched_at": "2026-06-18T23:04:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "568381fe2a38f5cd404863613acebee6677b0cff",
+      "title": "My Time Capsule The Dig - Ep. 7 - With Robin Askwith!",
+      "published_at": "2026-06-18T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-7-with-robin-askwith",
+      "description": "Robin Askwith was our guest in episode 349 and he returns to have a chat about his old time capsule and let us know where he wants it buried! Robin Askwith is probably best known as Timothy Lea in the “Confessions of a…” film series. Also, Mike and his producer and son John sit down together for a dig around in this week's Time Capsule and they interact with listeners via email and voice memos . Follow Robin Askwith on Instagram: @robin_askwith50 Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1781784427316-ecf7872f-07fa-4752-ae0a-920286c087f6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a33e079f00c7050cb8e4546/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59616046",
+      "itunes_duration": "49:40",
+      "speakers": [
+        "Robin Askwith"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "robin",
+        "askwith"
+      ]
+    },
     {
       "key": "2d45395f676f2664afb8b3fb1f11741798787e77",
       "title": "Ep. 589 - Cathy Shipton - Best known for playing Duffy in the British medical drama Casualty",
@@ -12790,6 +12811,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-18 — My Time Capsule The Dig - Ep. 7 - With Robin Askwith! — speakers: Robin Askwith
 - 2026-06-14 — Ep. 589 - Cathy Shipton - Best known for playing Duffy in the British medical drama Casualty — speakers: Cathy Shipton, Lisa Duffy Duffin
 - 2026-06-11 — My Time Capsule The Dig - Ep. 6 - With Lindsey Santoro from episode 305! — speakers: Lindsey Santoro, Mel Giedroyc
 - 2026-06-07 — Ep. 588 - Andrew Ryan - One of UK and Ireland’s most in-demand comedians, 60 million online views — speakers: Andrew Ryan
