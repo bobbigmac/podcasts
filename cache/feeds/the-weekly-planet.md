@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-06-18T10:47:29+00:00`
-- checked_at: `2026-06-18T10:47:29+00:00`
-- etag: `"djEuMi4wOjE3ODE3NjQ1MDMzMzI="`
+- fetched_at: `2026-06-19T15:42:38+00:00`
+- checked_at: `2026-06-19T15:42:38+00:00`
+- etag: `"djEuMi4wOjE3ODE4NzU4MzkyMjc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-06-18T10:47:29+00:00",
+  "fetched_at": "2026-06-19T15:42:38+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "bf086ce35c6641e3e074c4a1365925bc80d12598",
+      "title": "The Supergirl TV Show (Extended) - Caravan Of Garbage",
+      "published_at": "2026-06-19T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/the-supergirl-tv-show-extended-caravan-of-garbage",
+      "description": "It's time to enter the universe of Earth-38, more commonly referred to as The Arrowverse. Amazingly we're haven't really covered much of this in Caravan Of Garbage and the Supergirl 2015 series seems a good a place as any. This version again sees the character of Kara Zor-El arrive from Krypton a little late to encounter a fully grown Superman and finds herself directionless despite having all the powers all of the time. Blending a bit of The Flash/Arrow with the likes of Alley McBeal/The Devil Wears Prada it definitely does its own thing for good or ill or for middling results whilst also managing to introduce characters like Martian Manhunter, Bizarro Supergirl, Tyler Hoechlin's Superman, Lois Lane, Jimmy Olson, Brainiac, Maxwell Lord, Lex Luthor and more! Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a265dc26263fbced6dcc7a2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29135444",
+      "itunes_duration": "28:11",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "supergirl",
+        "extended",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "ddb7f38015af7c47c2496993ba1e346e099e29fc",
       "title": "627 More Spider-Man leaks & Disclosure Day!",
@@ -22505,6 +22527,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-19 — The Supergirl TV Show (Extended) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-06-15 — 627 More Spider-Man leaks & Disclosure Day! — speakers: More Spider, Disclosure Day, James Clement, Nick Mason
 - 2026-06-11 — Smallville's Supergirl - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-06-08 — 626 Masters of the Universe & Summer Games Fest 2026 — speakers: Summer Games Fest, James Clement, Nick Mason

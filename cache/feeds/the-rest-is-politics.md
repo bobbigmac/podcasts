@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-06-19T10:56:51+00:00`
-- checked_at: `2026-06-19T10:56:51+00:00`
-- last_modified: `Fri, 19 Jun 2026 10:54:27 GMT`
+- fetched_at: `2026-06-19T15:42:38+00:00`
+- checked_at: `2026-06-19T15:42:38+00:00`
+- last_modified: `Fri, 19 Jun 2026 12:06:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/741a3be12916743e1552a965b3e44e89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-19T10:56:51+00:00",
+  "fetched_at": "2026-06-19T15:42:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "b7974ca35159d54e5a20bd4ffcc276d86122bba2",
+      "title": "545. Burnham Beats Reform: Britain’s Next Prime Minister?",
+      "published_at": "2026-06-19T11:25:00+00:00",
+      "link": null,
+      "description": "Has Andy Burnham’s huge victory against Reform in Makerfield shown the Labour Party how it can beat Farage? What does this defeat mean for the right, and how tricky will the coming months be for Andy Burnham? What does the Tory victory against the SNP in Aberdeen mean for British energy policy? Join Rory and Alastair as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with James Cleverly by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Emma Jackson Video Editor: Josh Smith, Kieron Leslie Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ecc69fd4-6b38-11f1-a777-571276a63191/image/9c44eb4be4510cfa312fcdbfeb0169d5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT1978061092.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2623",
+      "speakers": [
+        "Burnham Beats Reform",
+        "Andy Burnham"
+      ],
+      "topics": [
+        "burnham",
+        "beats",
+        "reform",
+        "britain",
+        "prime",
+        "minister"
+      ]
+    },
     {
       "key": "1a9e00472dab594802e69c41627886c46745dcbf",
       "title": "544. How Trump Is Weaponising AI and Martial Arts at the White House",
@@ -12181,6 +12205,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-19 — 545. Burnham Beats Reform: Britain’s Next Prime Minister? — speakers: Burnham Beats Reform, Andy Burnham
 - 2026-06-17 — 544. How Trump Is Weaponising AI and Martial Arts at the White House — speakers: Martial Arts
 - 2026-06-16 — 543. The Disaster Britain Still Can't Escape and Trump’s Iran ‘Deal’
 - 2026-06-11 — 542. Starmer Loses His Defence Secretary: What Next? — speakers: John Healey

@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-06-19T10:56:51+00:00`
-- checked_at: `2026-06-19T10:56:51+00:00`
-- etag: `"djEuMi4wOjE3ODE4NjU0Mjk4Mjg="`
+- fetched_at: `2026-06-19T15:42:38+00:00`
+- checked_at: `2026-06-19T15:42:38+00:00`
+- etag: `"djEuMi4wOjE3ODE4Nzk3NDg1MTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,38 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-06-19T10:56:51+00:00",
+  "fetched_at": "2026-06-19T15:42:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "7bcea55539655fe0925908243d73f61dc5592707",
+      "title": "Is Andy Burnham's win the death of Blue Labour? | Jonathan Hinder interview",
+      "published_at": "2026-06-19T11:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a351bd5db494ef85c9f198d",
+      "description": "As Labour grapples with falling poll ratings, the rise of Reform UK, and growing questions about its political identity, Labour MP Jonathan Hinder joins PoliticsJOE to discuss the future of the party, the influence of Blue Labour, and why so many traditional Labour voters have drifted away. In this wide-ranging interview, Hinder argues that Labour has lost touch with many of the working-class communities it was founded to represent. He discusses why issues such as immigration, economic security, national identity, workplace democracy, and public ownership have become central to political debate, and why Labour must rebuild trust with voters who increasingly feel ignored by Westminster politics. Hinder explains the principles of Blue Labour, the political tradition associated with Maurice Glasman that combines socialist economics with a focus on community, solidarity, parliamentary sovereignty and working-class representation. He argues that Labour's current leadership has often adopted Blue Labour rhetoric without fully embracing its ideas, leaving the party struggling to reconnect with former supporters. The conversation also explores Labour's growing challenge from Reform UK, why many trade union members are considering alternatives to Labour, and whether the party has become too focused on university graduates and metropolitan voters at the expense of its traditional base. Hinder discusses the immigration debate, the role of Parliament in shaping policy, and why he believes Labour needs a clearer vision for the future. The interview also touches on the ongoing debate surrounding the direction of Keir Starmer's government, the fallout from the latest Labour Party controversies, and the broader question of what Labour stands for in 21st century Britain. Could Andy Burnham represent Labour's future? Hinder discusses Burnham's political appeal, his ability to speak to different parts of Labour's coalition, and why many voters feel disconnected from the current political establishment. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a351bd5db494ef85c9f198d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46921736",
+      "itunes_duration": "32:27",
+      "speakers": [
+        "Andy Burnham",
+        "Jonathan Hinder"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "death",
+        "blue",
+        "labour",
+        "jonathan",
+        "hinder"
+      ]
+    },
     {
       "key": "859f69a8ea96c00d61b1b8dc3f54b3ca86cae925",
       "title": "Going deep on the Makerfield by-election",
@@ -13348,6 +13373,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-19 — Is Andy Burnham's win the death of Blue Labour? | Jonathan Hinder interview — speakers: Andy Burnham, Jonathan Hinder
 - 2026-06-17 — Going deep on the Makerfield by-election
 - 2026-06-16 — Keir Starmer BANS social media for under-16s
 - 2026-06-14 — Hasan Piker meets Jeremy Corbyn | Israel, Trump, and the death of free speech — speakers: Hasan Piker, Jeremy Corbyn

@@ -2,11 +2,9 @@
 
 - slug: `peacock-and-gamble`
 - source: `https://www.fubarradio.com/player/on-demand/peacock-and-gamble/`
-- fetched_at: `2026-06-19T05:23:51+00:00`
-- checked_at: `2026-06-19T10:56:51+00:00`
+- fetched_at: `2026-06-19T15:42:38+00:00`
+- checked_at: `2026-06-19T15:42:38+00:00`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: HTTP Error 403: Forbidden
 
 <!-- FEED_JSON -->
 ```json
@@ -18,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "image_url": "",
-  "fetched_at": "2026-06-19T05:23:51+00:00",
+  "fetched_at": "2026-06-19T15:42:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a14144aa26a5e8e5da9c02511e0d3cde8a0250ea",
+      "guid": "0b297c5a-3432-4987-af5f-fce08ab69482",
+      "title": "Peacock and Gamble (19th June)",
+      "published_at": "2026-06-19T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-19th-june1/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1781863334-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=0b297c5a-3432-4987-af5f-fce08ab69482&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "2be938ffeb343955feaf2758ccec8d5ee1cff111",
       "guid": "1a6b395c-541e-45ee-9773-6c030f81a896",
@@ -2886,23 +2897,14 @@
       "itunes_duration": null
     }
   ],
-  "scraper": "fubar_on_demand",
-  "fetch": {
-    "error_since": "2026-06-19T10:56:51+00:00",
-    "status": "error",
-    "checked_at": "2026-06-19T10:56:51+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "HTTP Error 403: Forbidden"
-    }
-  }
+  "scraper": "fubar_on_demand"
 }
 ```
 <!-- /FEED_JSON -->
 
 ## Episodes (newest first)
 
+- 2026-06-19 — Peacock and Gamble (19th June)
 - 2026-06-18 — Peacock and Gamble (18th June)
 - 2026-06-12 — Peacock and Gamble (12th June)
 - 2026-06-11 — Peacock and Gamble (11th June)
