@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-06-17T20:29:47+00:00`
-- checked_at: `2026-06-17T20:29:47+00:00`
-- last_modified: `Wed, 17 Jun 2026 17:13:30 GMT`
+- fetched_at: `2026-06-19T05:23:51+00:00`
+- checked_at: `2026-06-19T05:23:51+00:00`
+- last_modified: `Fri, 19 Jun 2026 04:07:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-17T20:29:47+00:00",
+  "fetched_at": "2026-06-19T05:23:51+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8fcedef47e6dd617d1085ca7ade3fa61a9d208de",
+      "title": "Mock the Week, Hotel Parties, and will Chris Weep or Faint?",
+      "published_at": "2026-06-19T04:00:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed, Chris has returned home a very tired guy! He has some hotel party beef and could potentially either weep or faint... The couple discuss Rosie's exercise injury, Lynx Africa and there is a coffee cup dispute! Questions from the public cover some mystery liquid, an HP Sauce Bottle and a getting ready ick. There's also some voice notes that include a reverse ick and a weather app invention! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1491256439.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3263",
+      "speakers": [
+        "Chris Weep",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "mock",
+        "week",
+        "hotel",
+        "parties",
+        "chris",
+        "faint"
+      ]
+    },
     {
       "key": "02e1d2372b014e6d22c3f993ef5f03aa5933bb98",
       "title": "Please Keep Me Anonymous with Ed Gamble",
@@ -8570,6 +8595,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-19 — Mock the Week, Hotel Parties, and will Chris Weep or Faint? — speakers: Chris Weep, Chris Ramsey, Rosie Ramsey
 - 2026-06-17 — Please Keep Me Anonymous with Ed Gamble — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-06-12 — 90's Parenting, a Golf Trip, and the start of Rosie's Caravan Campaign — speakers: Golf Trip, Chris Ramsey, Rosie Ramsey
 - 2026-06-10 — Please Keep Me Anonymous with Lucy Beaumont — speakers: Lucy Beaumont, Chris Ramsey, Rosie Ramsey

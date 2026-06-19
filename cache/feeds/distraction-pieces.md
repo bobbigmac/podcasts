@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-06-17T05:15:51+00:00`
-- checked_at: `2026-06-17T05:15:51+00:00`
-- etag: `"djEuMi4wOjE3ODE2NjY0MzkyMjg="`
+- fetched_at: `2026-06-19T05:23:51+00:00`
+- checked_at: `2026-06-19T05:23:51+00:00`
+- etag: `"djEuMi4wOjE3ODE4MzkyMzkyNDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-06-17T05:15:51+00:00",
+  "fetched_at": "2026-06-19T05:23:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1c2b065b3012697df39efd4bdbee2f8a38e95fab",
+      "title": "PROFESSOR GREEN (rap / TV & film / mental health advocacy) • Friday Rewind",
+      "published_at": "2026-06-19T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Professor Green , originally episode 223 from 2018-08-15. Original writeup below: As always with the Distraction Pieces Podcast, the chat does most definitely NOT focus on the main aspect you might be expecting, but covers a crazy amount of ground in the time the two have. And what a range on offer… Mr Green is clearly suffering from the after effects of some good time fun (with mate Example) the previous night but comes through it in fine form, leaping from topic to topic with ease, including how hard it must be to be a horrible bastard, the current state of society, news overload, the loss of hands-on skills, his insane experiences in solitary (for documentary reasons), dealing with the stress and fear of negative emotions, feeling the feels and not using crutches, troubled past, how folk can become comfortable and not take part in society, the greater subject of dogs and his own documentary work on what are considered difficult breeds, education, role models, Brexit, his touring days with Lily Allen and the difference in live music these days. All with tons in between of course. So dig deep and enjoy this in depth chat with Professor Green! PIP'S PATREON PAGE if you're of a supporting nature PROFESSOR GREEN MUSIC INSTAGRAM DISCOGRAPHY COUNT ON YOU on YOUTUBE PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1781775927757-177dc60b-5ebd-44d8-a3b7-20336e0ac620.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a33be6ff1ca90f587f0a4ab/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "209881559",
+      "itunes_duration": "1:27:22",
+      "speakers": [],
+      "topics": [
+        "professor",
+        "green",
+        "film",
+        "health",
+        "advocacy",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "cc0989bd1239587d4f8928bdf5ac8d07eea169bc",
       "title": "RYAN CONDAL • how to train your house of dragons, or, flight of the Condal (House Of The Dragon / Colony / Rampage) #676",
@@ -19022,6 +19044,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-19 — PROFESSOR GREEN (rap / TV & film / mental health advocacy) • Friday Rewind
 - 2026-06-17 — RYAN CONDAL • how to train your house of dragons, or, flight of the Condal (House Of The Dragon / Colony / Rampage) #676
 - 2026-06-12 — RAHUL KOHLI (Citadel / We Were Liars) • Friday Rewind
 - 2026-06-10 — MARK JENKIN • a Cornish Affirmative from an audience of one (Bait / Enys Men / Rose Of Nevada) #675

@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-18T20:38:28+00:00`
-- checked_at: `2026-06-18T20:38:28+00:00`
-- etag: `"djEuMi4wOjE3ODE3OTI1NzY2OTE="`
+- fetched_at: `2026-06-19T05:23:51+00:00`
+- checked_at: `2026-06-19T05:23:51+00:00`
+- etag: `"djEuMi4wOjE3ODE4Mzc4NTk0MjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-18T20:38:28+00:00",
+  "fetched_at": "2026-06-19T05:23:51+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b1b63e3d1e6ddfa6c43efd436be79c3b4cf8c94b",
+      "title": "Evie King on Get Ahead of Being Dead - Book Club",
+      "published_at": "2026-06-19T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #184 - Get Ahead of Being Dead - Rich catches up with Evie King (if that is her real name) to talk about her unique job and the books she has written about it and why we need to get prepped for our own deaths. They chat about organising funerals for people who die with no one to do it for them (and how that could be you), whether it’s necessary for her to work as hard as she does on this, how you need a strong stomach for her job, but also why you need to write down all your details and funereal wishes, why you can’t have a Viking funeral, but can be buried in your own garden, why you’re a tricky to burn bag of fluid, why dying shouldn’t be so taboo and thing you can do to liven up your funeral. A very positive book and chat about a subject that people don’t like to talk about. Buy the book here - https://uk.bookshop.org/p/books/get-ahead-of-being-dead-your-handy-planner-for-the-end-of-life-evie-king/3ac88527cbfebe4f SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1781103687976-b8b3b433-aec3-4366-aeab-e2b25dced8cf.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a2977f7518f9f10eb8141e7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23561645",
+      "itunes_duration": "44:59",
+      "speakers": [
+        "Evie King",
+        "Richard Herring"
+      ],
+      "topics": [
+        "evie",
+        "king",
+        "dead",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "f79856945e73d4ded79735c81a418169312fa298",
       "title": "Tim Minchin - \"You’re Already Grown Up\"",
@@ -22833,6 +22856,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-19 — Evie King on Get Ahead of Being Dead - Book Club — speakers: Evie King, Richard Herring
 - 2026-06-17 — Tim Minchin - "You’re Already Grown Up" — speakers: Tim Minchin, Richard Herring
 - 2026-06-15 — Kiell Smith-Bynoe (Retro) - "Adelaide Clowns" — speakers: Kiell Smith-Bynoe, Richard Herring
 - 2026-06-13 — Rich and Ally's Craven Newsround Compilation "Milked in a Basement" — speakers: Craven Newsround Compilation, Richard Herring

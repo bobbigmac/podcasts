@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-06-17T05:15:51+00:00`
-- checked_at: `2026-06-17T05:15:51+00:00`
-- etag: `"djEuMi4wOjE3ODE2NTQ0MzkzNjI="`
+- fetched_at: `2026-06-19T05:23:51+00:00`
+- checked_at: `2026-06-19T05:23:51+00:00`
+- etag: `"djEuMi4wOjE3ODE4MDQ1MjA1MDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-06-17T05:15:51+00:00",
+  "fetched_at": "2026-06-19T05:23:51+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -70,28 +70,6 @@
         "dwsc",
         "seeta",
         "wrightson"
-      ]
-    },
-    {
-      "key": "4d25153aeed048683144d21599b32a43064e07f4",
-      "title": "DWSC LIVE: With Chloe Reynolds",
-      "published_at": "2026-06-10T00:00:00+00:00",
-      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-chloe-reynolds",
-      "description": "This week's double drop gives the lowdown on what happened when Hannah and Taylor took to the stage in Leicester. First up to join them is the wondrous Chloe Reynolds, who sought catharsis for an ongoing issue - something we're sure her solicitor was delighted about! The gang then put their heads together to solve a historical case, which might have taken place locally, but is still MILES away from Shearsby, even if the outcome may not be a million miles away from a similar one today...good to know some things never change. Finally, we hear from a member of the audience, whose epic crime story earns a stamp of approval. See you Friday for part two with the brilliant Seeta Wrightson! Hannah and Taylor are on tour during the spring and summer of 2026...Each show is a double record, so that's TWO crimes to solve, TWO fantastic guests and TWO chances to win a set of DWSC coasters! For all info, dates and tickets have a look here Drunk Women Solving Crime - The UK's hit true crime comedy podcast Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a26f362427484b4a4ce8fdc/media.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "76076024",
-      "itunes_duration": "52:49",
-      "speakers": [
-        "Chloe Reynolds",
-        "Hannah George",
-        "Taylor Glenn"
-      ],
-      "topics": [
-        "dwsc",
-        "chloe",
-        "reynolds"
       ]
     },
     {
@@ -11257,7 +11235,6 @@
 
 - 2026-06-17 — Taking It Down a Notch, with Amelia Hamilton — speakers: Amelia Hamilton, Hannah George, Taylor Glenn
 - 2026-06-12 — DWSC LIVE: With Seeta Wrightson — speakers: Seeta Wrightson, Hannah George, Taylor Glenn
-- 2026-06-10 — DWSC LIVE: With Chloe Reynolds — speakers: Chloe Reynolds, Hannah George, Taylor Glenn
 - 2026-06-03 — Saving Our Own Skins, with Jamie East — speakers: Jamie East, Hannah George, Taylor Glenn
 - 2026-05-29 — A Bag For Your Finger? With Rosie Turner — speakers: Rosie Turner, Hannah George, Taylor Glenn
 - 2026-05-27 — DWSC LIVE: With Dillie Keane (we need to talk about Kevin) — speakers: Dillie Keane, Hannah George, Taylor Glenn

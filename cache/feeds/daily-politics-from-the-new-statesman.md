@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-06-18T20:38:28+00:00`
-- checked_at: `2026-06-18T20:38:28+00:00`
-- etag: `"djEuMi4wOjE3ODE3OTYwNTE1MDQ="`
+- fetched_at: `2026-06-19T05:23:51+00:00`
+- checked_at: `2026-06-19T05:23:51+00:00`
+- etag: `"djEuMi4wOjE3ODE4NDM0MDA5MTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-06-18T20:38:28+00:00",
+  "fetched_at": "2026-06-19T05:23:51+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "8fed227b74b608b6965845acf60652b44696026b",
+      "title": "Burnham wins Makerfield, what now?",
+      "published_at": "2026-06-19T04:30:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/burnham-wins-makerfield-what-now",
+      "description": "Andy Burnham has won the historic Makerfield by-election, he's soon expected to speak to Starmer or trigger a leadership election. Anoosh Chakelian is joined by Ethan Croft in Wigan. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1781843371603-84be9315-2a8e-4814-a8ef-ee609d3a064a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a34c4851982b3ac7653abf2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29382271",
+      "itunes_duration": "20:23",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "burnham",
+        "makerfield"
+      ]
+    },
     {
       "key": "cbac85b1c7dfe910cb406cba84dfd13b797d7e56",
       "title": "Where Keir Starmer went wrong | Wes Streeting interview",
@@ -31571,6 +31592,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-19 — Burnham wins Makerfield, what now? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-18 — Where Keir Starmer went wrong | Wes Streeting interview — speakers: Wes Streeting, Anoosh Chakelian, Oli Dugmore
 - 2026-06-17 — If Andy Burnham wins, what next? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-15 — Makerfield: What are the polls saying? — speakers: Anoosh Chakelian, Oli Dugmore
