@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-06-16T05:32:22+00:00`
-- checked_at: `2026-06-16T05:32:22+00:00`
-- etag: `W/"38a64-ozdd25z9Mc7D0qnfpLtSMAW3/e4"`
+- fetched_at: `2026-06-19T20:03:02+00:00`
+- checked_at: `2026-06-19T20:03:02+00:00`
+- etag: `W/"391cd-GqJlLFsX12yKqJwPwuIViaQu6JU"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-06-16T05:32:22+00:00",
+  "fetched_at": "2026-06-19T20:03:02+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,32 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "de9ea4648c5b1d55e66fc944038cddc9577337f3",
+      "title": "The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast",
+      "published_at": "2026-06-19T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/The-Xbox-News-Is-Infuriating--Devastating--and-Exhausting--Firelink-Podcast-e3l0q0j",
+      "description": "This week on Firelink, Nick, KC, and Marty chat about the reports of a bloody summer for Xbox. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/121710035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-19%2Fc10e7643-f25d-2525-aaaa-d2eab2da27e6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "133586528",
+      "itunes_duration": "01:32:46",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "xbox",
+        "news",
+        "infuriating",
+        "devastating",
+        "exhausting",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "d0b1e0473407964a72fb47cebc4f93d58adfca1c",
       "title": "Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast",
@@ -2909,6 +2935,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-19 — The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-06-12 — Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-06-05 — Summer Game Fest Predictions and Speculation | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-05-29 — Stop Watching This and Go Play Mina the Hollower and 007 First Light | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
