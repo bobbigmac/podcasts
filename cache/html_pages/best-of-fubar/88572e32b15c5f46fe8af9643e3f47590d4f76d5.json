@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/",
-  "fetched_at": "2026-06-19T05:23:51+00:00",
+  "fetched_at": "2026-06-20T04:40:42+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=2",
   "episodes": [
+    {
+      "key": "59deb3482330dada912dcb2cc88c3c116d24c1c1",
+      "guid": "105ef434-4a64-4410-b1a6-5f0d4240652f",
+      "title": "Best of FUBAR (20th June)",
+      "published_at": "2026-06-20T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-20th-june1/",
+      "description": "A selection of highlights from the FUBAR vaults.",
+      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1781913856-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=105ef434-4a64-4410-b1a6-5f0d4240652f&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "11c98b8fff606d66e070670dd56e465a6ce65908",
       "guid": "150ae727-947d-4990-8ca6-1504c2619308",
@@ -380,19 +393,6 @@
       "description": "A selection of highlights from the FUBAR vaults.",
       "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1779408225-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=009c5150-4bcb-4c70-bb1f-4ef16277a72c&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "e6bb6d6c5cd8081c26312f5f932074a0c94023dd",
-      "guid": "5070ddf2-7a65-4f2f-9c36-74157b439e35",
-      "title": "Best of FUBAR (21st May)",
-      "published_at": "2026-05-21T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-21st-may1/",
-      "description": "A selection of highlights from the FUBAR vaults.",
-      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1779321835-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=5070ddf2-7a65-4f2f-9c36-74157b439e35&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null
