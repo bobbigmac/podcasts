@@ -34866,6 +34866,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:63ca6627cc71",
+        "feed_title": "Shared Future News",
+        "source_rss_url": "https://anchor.fm/s/4f91527c/podcast/rss",
+        "dedupe_key": "2585b73b6b0bf6d0897b9fdea3e4324a579e814a",
+        "episode_key": "2585b73b6b0bf6d0897b9fdea3e4324a579e814a",
+        "title": "Northern Peacebuilders — David MITCHELL",
+        "published_at": "2024-04-26T00:09:53Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode of Northern Peacebuilders, we meet David Mitchell, Assistant Professor in Reconciliation and Peace Studies at Trinity College Dublin at Belfast, discussing his personal interest in peacebuilding, academic research, challenges in peacebuilding in Northern Ireland and globally, and the relevance of peace ",
+        "audio_url": "https://anchor.fm/s/4f91527c/podcast/play/85934909/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-26%2F96f0f0d8-0c4e-cd8f-6a0c-4e090d691790.m4a",
+        "link_url": "https://podcasts.apple.com/gb/podcast/northern-peacebuilders-david-mitchell/id1220090679?i=1000653633671&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:cefb7b3a2788",
         "feed_title": "Private Passions",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/b006tnv3.rss",
