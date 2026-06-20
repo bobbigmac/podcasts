@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-19T05:23:51+00:00`
-- checked_at: `2026-06-19T05:23:51+00:00`
-- etag: `"djEuMi4wOjE3ODE4Mzc4NTk0MjE="`
+- fetched_at: `2026-06-20T14:29:34+00:00`
+- checked_at: `2026-06-20T14:29:34+00:00`
+- etag: `"djEuMi4wOjE3ODE5NjUzNzA4MDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-19T05:23:51+00:00",
+  "fetched_at": "2026-06-20T14:29:34+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ef5297a882ce672b81ab8d1c22ca6975e04114c3",
+      "title": "Rich and Ally's Craven Newsround Compilation \"V-Maxxing\"",
+      "published_at": "2026-06-20T14:22:51+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Monday 15th June 2026 - V-Maxxing - Rich and Ally are back, though for Rich, maybe not for long, as Ally blurts out what he’s going through this week. Ever the pro, Rich pushes onwards despite attempts to make the whole show nothing but same phrases to discuss the controversial topic of Vagina-maxing. Is this the right medium to discuss this? Yes it is. Remember, Rich thinks whatever you think about this and is very much on your side. Unless you’re one of the dead-eyed people doing the operations. Get a tshirt here (if you are quick) - https://gofasterstripe.com/ally Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1781965254877-c8ad7c9f-a0a2-4132-b341-603ddae802fe.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a36a23a4a2a3be0f496c000/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "7525824",
+      "itunes_duration": "15:40",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "maxxing"
+      ]
+    },
     {
       "key": "b1b63e3d1e6ddfa6c43efd436be79c3b4cf8c94b",
       "title": "Evie King on Get Ahead of Being Dead - Book Club",
@@ -22856,6 +22878,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-20 — Rich and Ally's Craven Newsround Compilation "V-Maxxing" — speakers: Richard Herring
 - 2026-06-19 — Evie King on Get Ahead of Being Dead - Book Club — speakers: Evie King, Richard Herring
 - 2026-06-17 — Tim Minchin - "You’re Already Grown Up" — speakers: Tim Minchin, Richard Herring
 - 2026-06-15 — Kiell Smith-Bynoe (Retro) - "Adelaide Clowns" — speakers: Kiell Smith-Bynoe, Richard Herring
