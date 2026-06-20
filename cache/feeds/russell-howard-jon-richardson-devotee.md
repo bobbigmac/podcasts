@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-06-19T22:13:30+00:00`
-- checked_at: `2026-06-19T22:13:30+00:00`
-- etag: `W/"334d9-VFizU6n97VAa50cLC4YVXR2gerU"`
+- fetched_at: `2026-06-20T09:39:43+00:00`
+- checked_at: `2026-06-20T09:39:43+00:00`
+- etag: `W/"334d9-AHv1u+lHmYGL2NqiYXnMFqh4UWc"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-06-19T22:13:30+00:00",
+  "fetched_at": "2026-06-20T09:39:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
