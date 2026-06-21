@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-06-17T16:04:06+00:00`
-- checked_at: `2026-06-17T16:04:06+00:00`
-- etag: `"djEuMi4wOjE3ODE3MDkyODI4NDQ="`
+- fetched_at: `2026-06-21T05:18:18+00:00`
+- checked_at: `2026-06-21T05:18:18+00:00`
+- etag: `"djEuMi4wOjE3ODIwMTc3MDgwNzQ="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-06-17T16:04:06+00:00",
+  "fetched_at": "2026-06-21T05:18:18+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -29,22 +29,45 @@
   ],
   "episodes": [
     {
-      "key": "2dd515eeeaa0c6e140648978697ea6b55a3a913c",
-      "title": "We're still in this for life...",
-      "published_at": "2026-06-17T14:42:50+00:00",
-      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/were-still-in-this-for-life",
-      "description": "We promise we are in it for life.... Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a32b26a2a769315bae598bb/media.mp3",
+      "key": "bb004f20b3bc443fcc81cfa714b42be3c861a3e4",
+      "title": "S5 EP1: Kristen Schaal",
+      "published_at": "2026-06-21T03:05:41+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s5-ep1-kristen-schaal",
+      "description": "Joining us on this episode of ' ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ What did you do yesterday? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ' is the American actress, comedian, writer, and voice artist - Kristen Schaal. We asked Kristen what she did yesterday? She told us. That's it... enjoy! Are you ' IN IT FOR LIFE '? Sign up HERE if you are. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ @yesterdaypod ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1782003748533-29aa6254-efc0-4fd5-b33c-04a3136be81a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a373aa34a2a3be0f4ba1d4d/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "1457695",
-      "itunes_duration": "1:26",
+      "enclosure_length": "171488871",
+      "itunes_duration": "1:11:27",
       "speakers": [
+        "Kristen Schaal",
         "Max Rushden",
         "David O'Doherty"
       ],
       "topics": [
-        "life"
+        "kristen",
+        "schaal"
+      ]
+    },
+    {
+      "key": "ca6dd75c823edc4e6f865737e21c727a598039d2",
+      "title": "WDWDY #75: New Listener Drive",
+      "published_at": "2026-06-18T21:54:49+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-75-new-listener-drive",
+      "description": "IN IT FOR LIFE!!!! We finally made it, thanks for your patience... Will it be worth it? For lots of you, inevitably not... For some of you, absolutely... So buckle up for a buffet of yesterdays you showbiz loving lifers... Are you ' IN IT FOR LIFE '? Sign up HERE if you are. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Also, on this mid-week bonus ep we find out what David did with his yesterday... WDYDY LIVE SHOW at Vicar Street in Dublin on 2nd September 2026. Tickets available: ⁠⁠⁠HERE⁠⁠⁠ Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1781818082098-9d26a3cb-98b3-4f9d-8fd7-a3e1ba10aaf0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a3466b14a187774acb6159b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "162380405",
+      "itunes_duration": "1:07:39",
+      "speakers": [
+        "New Listener Drive",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "listener",
+        "drive"
       ]
     },
     {
@@ -3551,7 +3574,8 @@
 
 ## Episodes (newest first)
 
-- 2026-06-17 — We're still in this for life... — speakers: Max Rushden, David O'Doherty
+- 2026-06-21 — S5 EP1: Kristen Schaal — speakers: Kristen Schaal, Max Rushden, David O'Doherty
+- 2026-06-18 — WDWDY #75: New Listener Drive — speakers: New Listener Drive, Max Rushden, David O'Doherty
 - 2026-06-10 — BREAKING NEWS!!! — speakers: Dear Yesterday Fans, Max Rushden, David O'Doherty
 - 2026-06-06 — S4 EP23: David Baddiel — speakers: David Baddiel, Max Rushden, David O'Doherty
 - 2026-06-02 — WDWDY #74: Hoovered Under The Duvet — speakers: Max Rushden, David O'Doherty

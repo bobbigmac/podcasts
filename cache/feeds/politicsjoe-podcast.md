@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-06-20T14:29:34+00:00`
-- checked_at: `2026-06-20T14:29:34+00:00`
-- etag: `"djEuMi4wOjE3ODE4ODcyNDI5NTI="`
+- fetched_at: `2026-06-21T05:18:18+00:00`
+- checked_at: `2026-06-21T05:18:18+00:00`
+- etag: `"djEuMi4wOjE3ODIwMTgwMzk1MTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-06-20T14:29:34+00:00",
+  "fetched_at": "2026-06-21T05:18:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "cfbd7f6183069638901c95ab58f2e119631661fb",
+      "title": "The Biggest Lie about Capitalism | Mariana Mazzucato interview",
+      "published_at": "2026-06-21T05:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a3553c46f90df4cb715b3e2",
+      "description": "In this episode, we sit down with renowned economist, author, and founder of the UCL Institute for Innovation & Public Purpose, Professor Mariana Mazzucato, to discuss her new book The Common Good Economy: A New Compass, and why she believes modern capitalism is failing to deliver for ordinary people. From Palantir's NHS contracts and the future of AI governance to Thames Water, steel, industrial strategy, and the green transition, Mariana argues that governments have lost confidence in shaping markets around public purpose. Instead, she says, we've created an economy that too often socialises risk while privatising reward. We explore why governments fund many of the world's biggest innovations, from the internet and AI to Tesla and SpaceX, yet rarely share in the rewards when those investments succeed. Mariana explains how public investment helped create some of today's most valuable companies, why she believes Britain's relationship with business has become increasingly \"parasitic\", and what a more mission-driven economy could look like. The conversation also covers Labour's economic strategy, Keir Starmer's mission-led government, the future of industrial policy, public-private partnerships, corporate subsidies, regulation, and the role of the state in driving innovation. Mariana challenges the idea that regulation stifles growth, arguing instead that smart regulation has historically been one of the biggest drivers of innovation and prosperity. Mariana also explains why governments need clearer goals, stronger contracts, and greater accountability when working with private companies. Whether discussing water infrastructure, pharmaceuticals, AI, or clean energy, her central argument is that markets should be organised around outcomes that benefit people and the planet, not simply around short-term profit. If you're interested in economics, politics, industrial strategy, public ownership, AI, innovation, inequality, growth, Labour politics, public services, climate policy, or the future of capitalism, this conversation is essential listening. Let us know your thoughts in the comments. Do you agree with Mariana's vision of a common good economy? Can governments and businesses work together more effectively to solve society's biggest challenges? EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/joesunday - The all-in one app for Digital Security! Try it risk-free now with a 30-day money-back guarantee Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a3553c46f90df4cb715b3e2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57624556",
+      "itunes_duration": "39:58",
+      "speakers": [
+        "Mariana Mazzucato"
+      ],
+      "topics": [
+        "capitalism",
+        "mariana",
+        "mazzucato"
+      ]
+    },
     {
       "key": "7bcea55539655fe0925908243d73f61dc5592707",
       "title": "Is Andy Burnham's win the death of Blue Labour? | Jonathan Hinder interview",
@@ -13373,6 +13393,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-21 — The Biggest Lie about Capitalism | Mariana Mazzucato interview — speakers: Mariana Mazzucato
 - 2026-06-19 — Is Andy Burnham's win the death of Blue Labour? | Jonathan Hinder interview — speakers: Andy Burnham, Jonathan Hinder
 - 2026-06-17 — Going deep on the Makerfield by-election
 - 2026-06-16 — Keir Starmer BANS social media for under-16s
