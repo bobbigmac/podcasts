@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-06-19T15:42:38+00:00`
-- checked_at: `2026-06-19T15:42:38+00:00`
-- last_modified: `Fri, 19 Jun 2026 15:21:43 GMT`
+- fetched_at: `2026-06-22T12:25:33+00:00`
+- checked_at: `2026-06-22T12:25:33+00:00`
+- last_modified: `Mon, 22 Jun 2026 06:13:14 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-19T15:42:38+00:00",
+  "fetched_at": "2026-06-22T12:25:33+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "493c64312d610d21eaab79d80ac209b2f94d2d60",
+      "title": "Eve on Dr Dre, Battle Rapping and Living In The UK",
+      "published_at": "2026-06-22T06:12:00+00:00",
+      "link": null,
+      "description": "Double-Grammy winning rapper, actress and Emmy-host Eve shares the story of how she got into music, from early choir singing, to battle rapping and becoming one of the most iconic female rappers, working with Dr Dre, collaborating with Gwen Stefani and touring with Ja Rule and Nelly. She also talks about her journey into acting, working with Vin Diesel and being told off by Samuel L Jackson for swearing on set. Celebrating 25th years of her debut album Let There Be Eve...Ruff Ryders' First Lady, Eve also tells us about her plans for touring and the possibility of reimagined tracks We also get Eve playing a game of misquoted, chat about her new wellness business Breathe and Believe, what it was like hanging out with Prince and how much she loves living in the UK, but doesn’t love Marmite or Twiglets. Chapters: 00:00 - Intro 02:02 - Americans and Brits 03:24 - A gift for Eve 05:12 - Eve’s Grammys 07:59 - On her journey into music 18:02 - Rapping voices 20:18 - On live shows 24:47 - The impact of Scorpion’s success 27:06 - Female rappers 31:20 - A question from Shanthi 34:20 - Eve on live shows and touring 40:28 - The UK music scene 41:23 - On acting 48:31 - Breathe and Believe 52:56 - On living in the UK 55:04 - Misquoted 01:04:36 - An exclusive 01:05:58 - Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1e3fa88a-6be8-11f1-a477-bbffe82bd62c/image/48f8d9ad2cdb97ba71da8dd3fdfe1d13.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2110851938.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4177",
+      "speakers": [
+        "Dr Dre",
+        "Battle Rapping",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "battle",
+        "rapping"
+      ]
+    },
     {
       "key": "e8be0350ece0201b7be8a954891564662bb49551",
       "title": "The Australia Special",
@@ -1792,6 +1813,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Eve on Dr Dre, Battle Rapping and Living In The UK — speakers: Dr Dre, Battle Rapping, Romesh Ranganathan
 - 2026-06-17 — The Australia Special — speakers: Romesh Ranganathan
 - 2026-06-14 — ShxtsNGigs On WORST Fan Interactions, Imposter Syndrome & Touring — speakers: Romesh Ranganathan
 - 2026-06-10 — Which World Cup Footballers Would Shanthi Date? — speakers: Harry Kane, Romesh Ranganathan

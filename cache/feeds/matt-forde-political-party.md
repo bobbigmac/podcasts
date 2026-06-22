@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-06-15T05:27:43+00:00`
-- checked_at: `2026-06-15T05:27:43+00:00`
-- etag: `"djEuMi4wOjE3ODE0ODkwMTk0MDk="`
+- fetched_at: `2026-06-22T12:25:33+00:00`
+- checked_at: `2026-06-22T12:25:33+00:00`
+- etag: `"djEuMi4wOjE3ODIxMjU0NTY2OTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-06-15T05:27:43+00:00",
+  "fetched_at": "2026-06-22T12:25:33+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "6785a464646fd2d0469dc7adb8d89b1ae59b3e1a",
+      "title": "Show 408. Johann Lamont",
+      "published_at": "2026-06-22T10:50:17+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-408-johann-lamont",
+      "description": "This. Is. Superb. The former leader of Scottish Labour gives an impassioned and engrossing analysis of everything happening in Scottish and UK politics: · SNP corruption · Triple by-election reaction · Scottish media pig pen · PLUS! Tartan Army action It's everything you'd want and more. THE POLITICAL PARTY LIVE 9 November: Liz Kendall 21 December: Wes Streeting https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE the final dates of Matt's stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows June 26 Bristol 1532 - EXTRA DATE July 3 Basingstoke The Haymarket - EXTRA DATE 8 Birmingham Glee Club - EXTRA DATE 10 Bedford Quarry Theatre - EXTRA DATE 16 Maidenhead Norden Farm - EXTRA DATE DONATE to the RNOH Charity here: https://www. justgiving.com/campaign/mattforde Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a391390b53e8a6e08a6c529/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104437669",
+      "itunes_duration": "1:12:31",
+      "speakers": [
+        "Johann Lamont",
+        "Matt Forde"
+      ],
+      "topics": [
+        "johann",
+        "lamont"
+      ]
+    },
     {
       "key": "b42851ba711b83f78b9adba867b6f7c5c46b324b",
       "title": "Show 407. Beeban Kidron",
@@ -10447,6 +10467,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Show 408. Johann Lamont — speakers: Johann Lamont, Matt Forde
 - 2026-06-15 — Show 407. Beeban Kidron — speakers: Beeban Kidron, Matt Forde
 - 2026-06-09 — Show 406. Jeremy Hunt — speakers: Jeremy Hunt Prepare, Jeremy Hunt, Matt Forde
 - 2026-06-03 — Show 405. Lucy Powell - LIVE — speakers: Matt Forde

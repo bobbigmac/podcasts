@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-06-22T05:30:23+00:00`
-- checked_at: `2026-06-22T05:30:23+00:00`
-- etag: `"71e69ee0a19f212f7a3b8860f4b33ba4"`
-- last_modified: `Sun, 21 Jun 2026 12:06:01 GMT`
+- fetched_at: `2026-06-22T12:25:33+00:00`
+- checked_at: `2026-06-22T12:25:33+00:00`
+- etag: `"34d700cd37901368a339b9b4eeeb4500"`
+- last_modified: `Mon, 22 Jun 2026 05:31:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-06-22T05:30:23+00:00",
+  "fetched_at": "2026-06-22T12:25:33+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,36 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2dc1b887c963b5d39073add1e441934698f5514b",
+      "title": "Xbox Studios Compulsion, Double Fine, and Ninja Theory Facing Closure? - (Xbox In Ten: An Xbox Podcast - Ep. 369)",
+      "published_at": "2026-06-22T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-studios-compulsion-double-fine-and-ninja-theory-facing-closure-xbox-in-ten-an-xbox-podcast-ep-369",
+      "description": "Week of: 6-15-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/8/b/8/e/8b8e46c02ab712dbd959afa2a1bf1c87/369.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/369.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "18788464",
+      "itunes_duration": "13:29",
+      "speakers": [
+        "Xbox Studios Compulsion",
+        "Double Fine",
+        "Ninja Theory Facing Closure",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "studios",
+        "compulsion",
+        "fine",
+        "ninja",
+        "theory",
+        "closure",
+        "podcast"
+      ]
+    },
     {
       "key": "10d5ba0b410c70098c6d59e7fd566248dba4acd8",
       "title": "Asha's Next 100 Days: A Scary Reset for XBOX? - (Xbox In Ten: An Xbox Podcast - Ep. 368)",
@@ -9276,6 +9306,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Xbox Studios Compulsion, Double Fine, and Ninja Theory Facing Closure? - (Xbox In Ten: An Xbox Podcast - Ep. 369) — speakers: Xbox Studios Compulsion, Double Fine, Ninja Theory Facing Closure, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-06-15 — Asha's Next 100 Days: A Scary Reset for XBOX? - (Xbox In Ten: An Xbox Podcast - Ep. 368) — speakers: Scary Reset, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-06-07 — Xbox Games Showcase 2026, Summer Game Fest & State of Play Recaps - (Xbox In Ten: An Xbox Podcast - Ep. 367) — speakers: Xbox Games Showcase, Summer Game Fest, Play Recaps, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-06-01 — Xbox Delays Fable To February 2027 - (Xbox In Ten: An Xbox Podcast - Ep. 366) — speakers: Xbox Gaming News, Fun Fact, Brandon Rosa

@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-06-15T12:41:48+00:00`
-- checked_at: `2026-06-15T12:41:48+00:00`
-- last_modified: `Mon, 15 Jun 2026 11:30:14 GMT`
+- fetched_at: `2026-06-22T12:25:33+00:00`
+- checked_at: `2026-06-22T12:25:33+00:00`
+- last_modified: `Mon, 22 Jun 2026 11:38:30 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-15T12:41:48+00:00",
+  "fetched_at": "2026-06-22T12:25:33+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,37 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "673fb820e94dfad5f37b3029c2ca1d4918c9c125",
+      "title": "488. Migrant Rights and the Asylum Experience with Jessica Fostekew, Leyla Williams, Steasy Castro and Juliet Stevenson",
+      "published_at": "2026-06-22T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 488. Migrant Rights and the Asylum Experience. Presented by Deborah Frances-White and Jessica Fostekew with guests Leyla Williams, Steasy Castro and Juliet Stevenson. Recorded 12 June 2026 at West London Welcome. Released 22 June. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Jessica Fostekew https://www.instagram.com/jessicafostekew https://www.youtube.com/watch?v=nUAduMto_xc More about West London Welcome https://www.instagram.com/westlondonwelcome https://www.westlondonwelcome.com https://refugeeweek.org.uk For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Preview Showcase . https://sohotheatre.com/events/the-guilty-feminist-edinburgh-preview-showcase Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b439f962-6dc3-11f1-bd29-d3938c39045d/image/eb444457ed1845e3551c45610cfcf722.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL7993284099.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5485",
+      "speakers": [
+        "Jessica Fostekew",
+        "Steasy Castro",
+        "Juliet Stevenson",
+        "Deborah Frances-Whit",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "rights",
+        "asylum",
+        "experience",
+        "jessica",
+        "fostekew",
+        "leyla",
+        "williams",
+        "steasy",
+        "castro",
+        "juliet"
+      ]
+    },
     {
       "key": "19d53c62042290b18fa8fca66f7e7446912db022",
       "title": "487. The Anti-Gender Movement with Felicity Ward and Alice McCool - part two",
@@ -18164,6 +18195,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — 488. Migrant Rights and the Asylum Experience with Jessica Fostekew, Leyla Williams, Steasy Castro and Juliet Stevenson — speakers: Jessica Fostekew, Steasy Castro, Juliet Stevenson, Deborah Frances-Whit, Deborah Frances-White
 - 2026-06-15 — 487. The Anti-Gender Movement with Felicity Ward and Alice McCool - part two — speakers: Deborah Frances-White
 - 2026-06-15 — 487. The Anti-Gender Movement with Felicity Ward and Alice McCool - part one — speakers: Deborah Frances-White
 - 2026-06-08 — 486. Criminal Justice with Charlotte Proudman — speakers: Charlotte Proudman, Deborah Frances-White

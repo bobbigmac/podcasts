@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-06-15T12:41:48+00:00`
-- checked_at: `2026-06-15T12:41:48+00:00`
-- etag: `"112057-65448054039b9"`
-- last_modified: `Mon, 15 Jun 2026 10:09:22 GMT`
+- fetched_at: `2026-06-22T12:25:33+00:00`
+- checked_at: `2026-06-22T12:25:33+00:00`
+- etag: `"112ec8-654d40a407a16"`
+- last_modified: `Mon, 22 Jun 2026 09:12:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-06-15T12:41:48+00:00",
+  "fetched_at": "2026-06-22T12:25:33+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b6d33c8ee9ebf626be126b28b23bccefc93ca23f",
+      "title": "Champion Stats, Record Breakers and Lucky Seats - Series 21 Stats Debrief",
+      "published_at": "2026-06-22T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "The data has been crunched on Series 21 and we can officially say we have a confirmed lucky seat! Plus, Jack and Jenny explore alternative scoreboards, moments that could have changed the series, and just how close we were to a quadruple tiebreaker scenario. Is Joanna our first Welsh, Aries champion? How does Armando's result compare to other series? Was Joel the comedy glue that held everyone together? You'll have to listen to find out. Next week we discuss listeners' Series 21 task hacks, series injustices, and general series 21 comments. Send all your homework suggestions and Taskmaster thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/ce2c3c99-d908-4ed0-aef4-7fa8f15755c7.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=ce2c3c99-d908-4ed0-aef4-7fa8f15755c7",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48395379",
+      "itunes_duration": "46:46",
+      "speakers": [
+        "Record Breakers",
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "champion",
+        "stats",
+        "record",
+        "breakers",
+        "lucky",
+        "seats",
+        "series",
+        "debrief"
+      ]
+    },
     {
       "key": "9ce430348fca7dd5e04b1e1b7f42a500630dc81c",
       "title": "The Whole Hilt With a Kilt - S21, Ep.10 *GRAND FINAL*",
@@ -4616,6 +4643,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Champion Stats, Record Breakers and Lucky Seats - Series 21 Stats Debrief — speakers: Record Breakers, Jenny Eclair, Jack Bernhardt
 - 2026-06-15 — The Whole Hilt With a Kilt - S21, Ep.10 *GRAND FINAL* — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-06-08 — The Last Handsome Cockroach Standing - S21, Ep.9 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-06-01 — No Kinky Couches - S21, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt
