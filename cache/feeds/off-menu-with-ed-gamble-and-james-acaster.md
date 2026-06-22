@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-06-19T10:56:51+00:00`
-- checked_at: `2026-06-19T10:56:51+00:00`
-- etag: `"djEuMi4wOjE3ODE4NTgwMjM3Nzc="`
+- fetched_at: `2026-06-22T05:30:23+00:00`
+- checked_at: `2026-06-22T05:30:23+00:00`
+- etag: `"djEuMi4wOjE3ODIwOTcyMzk4OTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-06-19T10:56:51+00:00",
+  "fetched_at": "2026-06-22T05:30:23+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "184a883a48afb11412733c61fd6df2d74b842eb3",
+      "title": "Aisling Bea (Tasting Menu – Live at the Royal Albert Hall)",
+      "published_at": "2026-06-22T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/aisling-bea-tasting-menu-live-at-the-royal-albert-hall",
+      "description": "We’re back with a b-b-b-b-bonus episode, the first live show from our (recording-breaking) run at the Royal Albert Hall. We did 6 live ‘Tasting Menu’ episodes at the iconic London venue, where we got fan favourite guests back on the podcast to be served the menu of other fan favourite guests. And our first diner to return to the Dream Restaurant is stand-up superstar, actor and friend of the podcast (way back from episode 10), Aisling Bea! Follow Aisling on Instagram @weemissbea Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced and edited by Ben Williams for Plosive . Recorded by Matt Mountford-Lister for Storm Productions Group live at the Royal Albert Hall. Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Watch Ed and James's YouTube series 'Just Puddings'. Watch here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1781780925769-5b7ca5df-30c6-492c-a863-39bdaa154aa9.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a33d336c17f302876385a57/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100074016",
+      "itunes_duration": "1:23:23",
+      "speakers": [
+        "Aisling Bea",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "tasting",
+        "menu",
+        "royal",
+        "albert",
+        "hall"
+      ]
+    },
     {
       "key": "32cf7e31eef5a36b5e2689cf06bfd9ded7bd785d",
       "title": "Harry Enfield",
@@ -8555,6 +8580,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Aisling Bea (Tasting Menu – Live at the Royal Albert Hall) — speakers: Aisling Bea, Ed Gamble, James Acaster, Ben Williams
 - 2026-06-03 — Harry Enfield — speakers: Harry Enfield, Ed Gamble, James Acaster, Ben Williams
 - 2026-05-27 — Anna Faris — speakers: Anna Faris, Ed Gamble, James Acaster, Ben Williams
 - 2026-05-20 — Michelle Wolf — speakers: Michelle Wolf Emmy, Michelle Wolf, Ed Gamble, James Acaster, Ben Williams

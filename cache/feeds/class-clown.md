@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-06-15T05:27:43+00:00`
-- checked_at: `2026-06-15T05:27:43+00:00`
-- last_modified: `Sun, 14 Jun 2026 23:00:00 GMT`
+- fetched_at: `2026-06-22T05:30:23+00:00`
+- checked_at: `2026-06-22T05:30:23+00:00`
+- last_modified: `Sun, 21 Jun 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-15T05:27:43+00:00",
+  "fetched_at": "2026-06-22T05:30:23+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "227e8a87a8339eebb27051fada2dc4b50d88c51e",
+      "title": "PETER SERAFINOWICZ: Buddhism, Therapy and How I Broke Into Showbiz",
+      "published_at": "2026-06-21T23:00:00+00:00",
+      "link": null,
+      "description": "Comedian and Genius Impressionist Peter Serafinowicz talks about his relationship with AA, the influence of Philosopher Alan Watts, coming from a working class family that turned into a comedy dynasty. He also talks about having to have some kind of love for people you impersonate, revealing a dream he had about Andrew Tate that gave him some empathy for the man and shows off fantastic Elvis and Paul McCartney impersonations. Check out the new ⁠Class Clown merch store and grab yourself a hat, T-Shirt or a Mug⁠! https://classclownpodcast.myshopify.com/ If you enjoyed this get EVEN MORE WITH PETER, that you won't hear anywhere else, over on Patreon: https://www.patreon.com/c/ClassClown See Seann ⁠Walsh on Tour This Autumn⁠!https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL2777818003.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2196",
+      "speakers": [
+        "Peter Serafinowicz",
+        "Genius Impressionist",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "peter",
+        "serafinowicz",
+        "buddhism",
+        "therapy",
+        "showbiz"
+      ]
+    },
     {
       "key": "18c0a155dc3b170afe1b2a69f380defa16b290a6",
       "title": "PETER SERAFINOWICZ: From Liverpool Council Estate To Star Wars, Marvel & Comedy Fame",
@@ -1570,6 +1594,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-21 — PETER SERAFINOWICZ: Buddhism, Therapy and How I Broke Into Showbiz — speakers: Peter Serafinowicz, Genius Impressionist, Seann Walsh
 - 2026-06-14 — PETER SERAFINOWICZ: From Liverpool Council Estate To Star Wars, Marvel & Comedy Fame — speakers: Peter Serafinowicz, Peter Serfinowicz, Seann Walsh
 - 2026-06-07 — DOM JOLY: The Joke That Ended my BBC Career, Getting Fired as Journalist & Being A Diplomat — speakers: Getting Fired, Diplomat Dom, Seann Walsh
 - 2026-05-31 — DOM JOLY: How A Panic Attack Almost derailed Trigger Happy TV & Why He hates the Word Prank — speakers: Seann Walsh

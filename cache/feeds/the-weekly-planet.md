@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-06-19T15:42:38+00:00`
-- checked_at: `2026-06-19T15:42:38+00:00`
-- etag: `"djEuMi4wOjE3ODE4NzU4MzkyMjc="`
+- fetched_at: `2026-06-22T05:30:23+00:00`
+- checked_at: `2026-06-22T05:30:23+00:00`
+- etag: `"djEuMi4wOjE3ODIxMDI2Mzk0Mjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-06-19T15:42:38+00:00",
+  "fetched_at": "2026-06-22T05:30:23+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "98e3db52e36627d5006ae67651c45c42f5f07107",
+      "title": "628 Toy Story 5",
+      "published_at": "2026-06-22T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/628-toy-story-5",
+      "description": "Welcome one and all to this brand new episode of The Weekly Planet! This week we're talking Toy Story 5, first reactions and box office for Supergirl 2026, a Clayface test screening result, clarity around the recently announced Gorilla Grodd, a Skibidi Toilet movie update, trailers for Shrek 5 and Spider-Man: Brand New Day, an Austin Powers 4 reveal and apparently we're getting a He-Man/Masters of the Universe sequel. Thanks for listening New bonus Q&A podcast episode with James & Maso out now! Available to listen with entire back catalogue of bonuses on bigsandwich.co and patreon.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 02:34 Supergirl Tracking Poorly 05:36 New Clayface Movie Details 07:51 Gorilla Grodd TV Series 11:58 He-Man Bombs & Sequel 17:09 Skibidi Toilet Still Happening 20:16 Spider-Man: Brand New Day Trailer 27:22 Shrek 5 Trailer 29:36 Austin Powers 4 Maybe 32:06 Mr Sunday's Bonus Shrek Segment 35:30 Toy Story 5 Movie Review 53:30 Toy Story 5 Spoiler Segment 01:01:36 What We Reading, What We Gonna Read 01:12:35 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a36fa686f90df4cb78e32b7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "144626656",
+      "itunes_duration": "1:40:26",
+      "speakers": [
+        "Toy Story",
+        "Toy Stor",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "story"
+      ]
+    },
     {
       "key": "bf086ce35c6641e3e074c4a1365925bc80d12598",
       "title": "The Supergirl TV Show (Extended) - Caravan Of Garbage",
@@ -22527,6 +22548,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — 628 Toy Story 5 — speakers: Toy Story, Toy Stor, James Clement, Nick Mason
 - 2026-06-19 — The Supergirl TV Show (Extended) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-06-15 — 627 More Spider-Man leaks & Disclosure Day! — speakers: More Spider, Disclosure Day, James Clement, Nick Mason
 - 2026-06-11 — Smallville's Supergirl - Caravan Of Garbage — speakers: James Clement, Nick Mason

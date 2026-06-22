@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-06-21T10:05:06+00:00`
-- checked_at: `2026-06-21T10:05:06+00:00`
-- last_modified: `Sun, 21 Jun 2026 08:23:03 GMT`
+- fetched_at: `2026-06-22T05:30:23+00:00`
+- checked_at: `2026-06-22T05:30:23+00:00`
+- last_modified: `Mon, 22 Jun 2026 05:04:37 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-21T10:05:06+00:00",
+  "fetched_at": "2026-06-22T05:30:23+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -26,6 +26,35 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9d9a27c8b69cbdb890e61ab41470eb4fc1373500",
+      "title": "Jack Skipper: Shag Pile Debates, Chinese TikTok Data, and Nando’s Adele",
+      "published_at": "2026-06-22T05:00:00+00:00",
+      "link": null,
+      "description": "In this week’s episode of the Vodscarf we welcome social media sensation Jack Skipper and Egyptian Egyptologist Dr. Arto Belekdanian to the studio for an hour of pure, unadulterated history and anti-comedy. Things get incredibly weird, incredibly fast. Watch as Harry’s mum calls from a warzone just because she wanted to buy him some birthday pants from Debenhams, Sarah the AI Bot experiences a severe existential crisis before being miraculously cured by Dr. Pimple Popper, and witness Jack Skipper risking his entire reputation in the elite biscuit community by guessing the contents of rusted metal tins. If you've ever wanted to hear an esteemed Egyptologist explain why Julius Caesar and Mark Anthony weren't just hooking up with Cleopatra for her looks, but rather her incredible conversational skills, listen up. 00:51 – Sarah's Lament 04:32 – The Croydon Crucible: Did Nando’s coatings and IKEA meatballs create Adele? 05:38 – The 21-pin SCART lead generation struggle 06:26 – Jack's masterclass in succeeding on social media (Hint: Don't make any effort) 09:03 – Spitting water into the bushes vs. the failure of the Top Boy title sequence 10:08 – Regretting the financial investment of buying wigs for TikTok 12:52 – AI Sarah returns! Cured by Dr. Pimple Popper 14:05 – The dark truth about Jack’s Australian tomato farm past 14:59 – Throwing bread at Germaine Jenas on The One Show 15:29 – Carpet Fitting 101: The knee-kicker stretcher and the landing runner dilemma 21:12 – Giving all your personal data to the Chinese government 22:01 – Hiding a Saturday comedy course in Brighton from your family 22:43 – Jack completely derails the interview by eating Harry’s Twix 25:30 – Lee Evans at the Fairfield Halls and missing the glory days of VHS 27:34 – The BBC weather forecast photo rejection 27:59 – Commercial Break: The Pub Carpet Pillow Collection 29:17 – Theme of the Week: Cleopatra 31:43 – Dr. Arto Belekdanian exposes the legalities of female Pharaohs 33:58 – Roman propaganda: Why history hates Cleopatra 38:31 – Coin portraits and taking the honourable way out 41:09 – Game Time: \"Biscuits or Sewing Kit? How well do you know your tins?!\" 45:07 – Jack completely embarrasses himself in front of the biscuit community 47:05 – Gary’s Joke Corner 49:32 – Butterfly In Blue Jeans Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6684d054-69a2-11f1-b145-2f947733d78f/image/071524e6ea4b158443b5b9baaf1cfd84.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR8931039760.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3171",
+      "speakers": [
+        "Jack Skipper",
+        "Nando’s Adele",
+        "Harry Hill"
+      ],
+      "topics": [
+        "jack",
+        "skipper",
+        "shag",
+        "pile",
+        "debates",
+        "chinese",
+        "tiktok",
+        "data",
+        "nando",
+        "adele"
+      ]
+    },
     {
       "key": "df5104b6fd09dca238b2e94b4f0ede0caa489c8c",
       "title": "Louis Theroux: Cardboard Owls, Incel Heirs, and Karate-Chopping Geese",
@@ -1829,6 +1858,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Jack Skipper: Shag Pile Debates, Chinese TikTok Data, and Nando’s Adele — speakers: Jack Skipper, Nando’s Adele, Harry Hill
 - 2026-06-15 — Louis Theroux: Cardboard Owls, Incel Heirs, and Karate-Chopping Geese — speakers: Louis Theroux, Incel Heirs, Harry Hill
 - 2026-06-08 — Alex Horne: Ham Ballads, Urban Foxes, and Wife-Swapping Over Dishwasher Ethics — speakers: Alex Horne, Alex Horne comedian, Harry Hill
 - 2026-06-01 — Bridget Christie: Slow Bike Racing, Chris Tarrant's Boombox and Teaching Your Dog to Ignore Foxes — speakers: Bike Racing, Chris Tarrant, Harry Hill

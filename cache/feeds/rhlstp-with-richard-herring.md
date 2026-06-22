@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-20T14:29:34+00:00`
-- checked_at: `2026-06-20T14:29:34+00:00`
-- etag: `"djEuMi4wOjE3ODE5NjUzNzA4MDQ="`
+- fetched_at: `2026-06-22T05:30:23+00:00`
+- checked_at: `2026-06-22T05:30:23+00:00`
+- etag: `"djEuMi4wOjE3ODIwOTcwNTk0MDY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-20T14:29:34+00:00",
+  "fetched_at": "2026-06-22T05:30:23+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fb505fb9419fed147e87854c0c7d17e0962c50c1",
+      "title": "Mark Gatiss (Retro) - \"Cucumber Coward\"",
+      "published_at": "2026-06-22T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#439 Cucumber Coward - Richard is hoping to replace himself with an AI host and has left the emergency questions and some of the stand up to the robots. His guest, returning after a hiatus of just 400 episodes is the wonderful Mark Gatiss. They discuss the unfair tale of Jacob Marley, the influence of Robin Askwith, playing to camera 3 as Larry Grayson, Mark’s many theatre projects, working with Anthony Hopkins after portraying him in TMWRNJ and directing Reece Shearsmith. But will we find out his favourite episode of Sherlock and will Rich be here next week? Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1781791929518-366973d4-ca2f-436c-a040-80ce7af74758.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a33f87a01f32268518edecc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30868741",
+      "itunes_duration": "56:42",
+      "speakers": [
+        "Mark Gatiss",
+        "Coward Richard",
+        "Richard Herring"
+      ],
+      "topics": [
+        "mark",
+        "gatiss",
+        "retro",
+        "cucumber",
+        "coward"
+      ]
+    },
     {
       "key": "ef5297a882ce672b81ab8d1c22ca6975e04114c3",
       "title": "Rich and Ally's Craven Newsround Compilation \"V-Maxxing\"",
@@ -22878,6 +22902,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Mark Gatiss (Retro) - "Cucumber Coward" — speakers: Mark Gatiss, Coward Richard, Richard Herring
 - 2026-06-20 — Rich and Ally's Craven Newsround Compilation "V-Maxxing" — speakers: Richard Herring
 - 2026-06-19 — Evie King on Get Ahead of Being Dead - Book Club — speakers: Evie King, Richard Herring
 - 2026-06-17 — Tim Minchin - "You’re Already Grown Up" — speakers: Tim Minchin, Richard Herring

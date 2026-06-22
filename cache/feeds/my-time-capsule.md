@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-06-18T23:04:52+00:00`
-- checked_at: `2026-06-18T23:04:52+00:00`
-- etag: `"djEuMi4wOjE3ODE4MjM3NTkzNzI="`
+- fetched_at: `2026-06-22T05:30:23+00:00`
+- checked_at: `2026-06-22T05:30:23+00:00`
+- etag: `"djEuMi4wOjE3ODIwODI5NTkyOTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-06-18T23:04:52+00:00",
+  "fetched_at": "2026-06-22T05:30:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "68f7ad3c32f6390f80e1767cca8295ee24a545b6",
+      "title": "Ep. 590 - Dan Tiernan - Live at the Apollo, QI, The Last Leg, 8 Out Of 10 Cats Does Countdown",
+      "published_at": "2026-06-21T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-590-dan-tiernan-live-at-the-apollo-qi-the-last-leg-8-out",
+      "description": "Dan Tiernan is a comedian from Live at the Apollo, QI, The Last Leg, 8 Out Of 10 Cats Does Countdown, Mitchell and Webb Are Not Helping, Unforgivable, Comedy Central Live, Stand Up to Cancer, The Stand Up Sketch Show, and Rosie Jones’s Disability Comedy Extravaganza. His Edinburgh Fringe debut hour ‘Going Under’ saw him received a nomination for Best Newcomer at Edinburgh Comedy Award 2023, win Best Newcomer at the ISH Comedy Awards 2023 and he recorded the show as a BBC Radio 4 stand-up special. In 2022, he was named \"British Comedian of the Year\", and won the BBC New Comedy Award. Dan is returning to Edinburgh at Monkey Barrel 1 this August 2026 with his new show, Quartz and All . Dan Tiernan is our guest in episode 590 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Buy tickets for Quartz and All at Edinburgh Festival - https://www.edfringe.com/tickets/whats-on/dan-tiernan-quartz-and-all . For all other live shows, visit - https://linktr.ee/dantiernan . Follow Dan Tiernan on Instagram : @tiernancomedian . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a33e69601f3226851863ad8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77950348",
+      "itunes_duration": "1:04:57",
+      "speakers": [
+        "Dan Tiernan"
+      ],
+      "topics": [
+        "tiernan",
+        "apollo",
+        "cats"
+      ]
+    },
     {
       "key": "568381fe2a38f5cd404863613acebee6677b0cff",
       "title": "My Time Capsule The Dig - Ep. 7 - With Robin Askwith!",
@@ -12811,6 +12831,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-21 — Ep. 590 - Dan Tiernan - Live at the Apollo, QI, The Last Leg, 8 Out Of 10 Cats Does Countdown — speakers: Dan Tiernan
 - 2026-06-18 — My Time Capsule The Dig - Ep. 7 - With Robin Askwith! — speakers: Robin Askwith
 - 2026-06-14 — Ep. 589 - Cathy Shipton - Best known for playing Duffy in the British medical drama Casualty — speakers: Cathy Shipton, Lisa Duffy Duffin
 - 2026-06-11 — My Time Capsule The Dig - Ep. 6 - With Lindsey Santoro from episode 305! — speakers: Lindsey Santoro, Mel Giedroyc

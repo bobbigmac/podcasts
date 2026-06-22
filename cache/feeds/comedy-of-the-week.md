@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-06-16T05:32:22+00:00`
-- checked_at: `2026-06-16T05:32:22+00:00`
-- etag: `"2f375fc14d7a5ee483525f730b6ca243"`
-- last_modified: `Tue, 16 Jun 2026 04:00:04 GMT`
+- fetched_at: `2026-06-22T05:30:23+00:00`
+- checked_at: `2026-06-22T05:30:23+00:00`
+- etag: `"3f2b53a238b4dc372687d8b3e58b147b"`
+- last_modified: `Mon, 22 Jun 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-06-16T05:32:22+00:00",
+  "fetched_at": "2026-06-22T05:30:23+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "fc93e10aeff84853f0dc0fcf9f88140cb18be3e8",
+      "title": "John Tothill Forgives Your Sins",
+      "published_at": "2026-06-22T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nsfshq",
+      "description": "In a world of crossfit and kink-shaming, budgetting and meal prep, John Tothill presents the antidote to self-improvement. In this episode John tackles the workplace - rejecting the nauseating barrage of self-betterment and productivity, in favour of your worst impulses and transgressions. Listen, we all have regrets that make us wince to remember and consider booking a one-way ticket to Nepal. But do you know what the biggest killer in the UK is? That's right: shame. So come on in, darlings. Curl up with a lovely big pint of Negroni and share your naughtiest stories. John is here to celebrate your vices and absolve you of your sins. You have nothing to be ashamed of. Producer: Sasha Bobak Executive Producer: Pete Strauss Co-Writer: Eve Delaney Production Coordintor: Asha Osborne-Grinter A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsfrsj.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27520000",
+      "itunes_duration": "1720",
+      "speakers": [
+        "John Tothill"
+      ],
+      "topics": [
+        "john",
+        "tothill",
+        "forgives"
+      ]
+    },
     {
       "key": "aeff3a2dec40e62705f2e881948d0233e680d219",
       "title": "The Many Wrongs Of Lord Christian Brighty",
@@ -1005,6 +1025,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — John Tothill Forgives Your Sins — speakers: John Tothill
 - 2026-06-15 — The Many Wrongs Of Lord Christian Brighty
 - 2026-06-08 — One Person Found This Helpful — speakers: Frank Skinner, Dee Allum, Pierre Novellie, Hasan Al-Habib
 - 2026-06-01 — Ian Smith is Stressed — speakers: Ian Smith

@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/?page=3",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/?page=3",
-  "fetched_at": "2026-06-21T22:36:01+00:00",
+  "fetched_at": "2026-06-22T05:30:23+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/?page=4",
   "episodes": [
+    {
+      "key": "deeb637bc23066d9644f69618f86bbaf54a90d87",
+      "guid": "77ab66ab-018a-4727-a87a-dbf11b85779f",
+      "title": "The Andy Parsons Show (27th April)",
+      "published_at": "2025-04-27T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-andy-parsons-show-27th-april/",
+      "description": "Join the Mock the Week star as he delivers his own verdict on the week's big news stories.",
+      "image_url": "https://assets.sharp-stream.com/content/fubar_radio/artwork/andy_parsons_podcast_1400x1400_2_1629974649.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1745794898-the_andy_parsons_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=77ab66ab-018a-4727-a87a-dbf11b85779f&awCollectionId=fubar_radio-standalone&providerId=fubar",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "64d29a51966a777b2887bf3fc846743714ec7731",
       "guid": "f5f95cc3-7cf8-41ab-953c-0cb7711dca77",
@@ -380,19 +393,6 @@
       "description": "Join the Mock the Week star as he delivers his own verdict on the week's big news stories.",
       "image_url": "https://assets.sharp-stream.com/content/fubar_radio/artwork/andy_parsons_podcast_1400x1400_2_1629974649.jpg",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1728255773-the_andy_parsons_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=45dbb7bc-5600-4161-8947-39fdeb899d07&awCollectionId=fubar_radio-standalone&providerId=fubar",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "2f042083a6092d2b0e5047bd5b463a785b6d0f88",
-      "guid": "1d1e1bd1-1a88-4db2-8600-242f0be26ad4",
-      "title": "The Andy Parsons Show (29th September)",
-      "published_at": "2024-09-29T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/the-andy-parsons-show-29th-september/",
-      "description": "Join the Mock the Week star as he delivers his own verdict on the week's big news stories.",
-      "image_url": "https://assets.sharp-stream.com/content/fubar_radio/artwork/andy_parsons_podcast_1400x1400_2_1629974649.jpg",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1727650945-the_andy_parsons_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=1d1e1bd1-1a88-4db2-8600-242f0be26ad4&awCollectionId=fubar_radio-standalone&providerId=fubar",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null
