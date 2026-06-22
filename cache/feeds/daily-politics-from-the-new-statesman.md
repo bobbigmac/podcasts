@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-06-20T16:50:36+00:00`
-- checked_at: `2026-06-20T16:50:36+00:00`
-- etag: `"djEuMi4wOjE3ODE5NzEyMzk0ODI="`
+- fetched_at: `2026-06-22T18:53:29+00:00`
+- checked_at: `2026-06-22T18:53:29+00:00`
+- etag: `"djEuMi4wOjE3ODIxNDQzNzQwMzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-06-20T16:50:36+00:00",
+  "fetched_at": "2026-06-22T18:53:29+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "8caebbb4c86fee5999d0d2c4d70de4f55de881c5",
+      "title": "Keir Starmer resigns: “He’s been chewed up and spat out”",
+      "published_at": "2026-06-22T16:03:39+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/keir-starmer-resigns-hes-been-chewed-up-and-spat-out",
+      "description": "This morning, Keir Starmer stood outside No 10 Downing Street and announced his resignation as Prime Minister - the sixth to leave office since the EU referendum, which was ten years ago this week. He will remain in office until Labour selects a new leader. The Prime Minister’s likely successor Andy Burnham is sworn in as an MP today after his decisive victory in the Makerfield by-election last week. Burnham has already announced his intention to stand as a leadership contender. How did the Prime Minister come to this momentous decision, and what happens next? Anoosh Chakelian is joined by political editor Ailbhe Rea and editor-in-chief Tom McTague. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1782143726056-974af727-9033-4535-8146-26737bdd289b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a395ac64fa0b693278ef4a8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "109067939",
+      "itunes_duration": "56:43",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "keir",
+        "starmer"
+      ]
+    },
     {
       "key": "b4b0346a083904f4a2ee4a0b1d230551b7bd47b1",
       "title": "“Brand Burnham”: Why Andy is a marketing success story",
@@ -31616,6 +31636,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Keir Starmer resigns: “He’s been chewed up and spat out” — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-06-20 — “Brand Burnham”: Why Andy is a marketing success story — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-06-19 — Burnham wins Makerfield, what now? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-18 — Where Keir Starmer went wrong | Wes Streeting interview — speakers: Wes Streeting, Anoosh Chakelian, Oli Dugmore
