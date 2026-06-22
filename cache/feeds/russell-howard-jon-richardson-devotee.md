@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-06-21T22:36:01+00:00`
-- checked_at: `2026-06-21T22:36:01+00:00`
-- etag: `W/"33885-kvFaqBhXDGMHeHQ/5zvlZwg2KTY"`
+- fetched_at: `2026-06-22T22:54:47+00:00`
+- checked_at: `2026-06-22T22:54:47+00:00`
+- etag: `W/"33db0-Hr70lYqzs6YE/bESEAqvkHRE1EE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,42 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-06-21T22:36:01+00:00",
+  "fetched_at": "2026-06-22T22:54:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ad77de184144482bc27c21790cd4b030d1e47526",
+      "title": "Josh Widdicombe XFM #32 – Jack Dee, James Acaster Classic Scrape 28, Matthew Crosby",
+      "published_at": "2026-06-22T19:20:48+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-32--Jack-Dee--James-Acaster-Classic-Scrape-28--Matthew-Crosby-e3l4vga",
+      "description": "Jack Dee is in the studio, James Acaster shares another Classic Scrape and Matthew Crosby reads from another celebrity autobiography.Broadcast on 19th November 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782156001108-c62da1e08f30e.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1555870976.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54115046",
+      "itunes_duration": "00:55:46",
+      "speakers": [
+        "Jack Dee",
+        "James Acaster Classic Scrape",
+        "Matthew Crosby",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "jack",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "matthew",
+        "crosby"
+      ]
+    },
     {
       "key": "efebfe71a7abab01c112059fe1a55b5c58128678",
       "title": "Ricky Gervais LIVE 21/06/2026",
@@ -3843,6 +3872,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Josh Widdicombe XFM #32 – Jack Dee, James Acaster Classic Scrape 28, Matthew Crosby — speakers: Jack Dee, James Acaster Classic Scrape, Matthew Crosby, James Acaster
 - 2026-06-21 — Ricky Gervais LIVE 21/06/2026 — speakers: Ricky Gervais
 - 2026-06-16 — Josh Widdicombe XFM #31 – Joe Lycett in the studio, Nick Helm — speakers: Joe Lycett, Nick Helm Joe Lycett, Nick Helm
 - 2026-06-15 — Josh Widdicombe XFM #30 – James Acaster Classic Scrape 27, Adam Hills, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster, Adam Hill
