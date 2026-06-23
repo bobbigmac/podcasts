@@ -2,6 +2,51 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "6c2d9bc692b8fd4edb4404f5ee3ee214558517b4",
+        "episode_key": "6c2d9bc692b8fd4edb4404f5ee3ee214558517b4",
+        "title": "Josh Widdicombe XFM #33 – Stephen Merchant Returns, James Acaster Classic Scrape 29, Matthew Crosby",
+        "published_at": "2026-06-23T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stephen Merchant joins Josh in the studio, James Acaster shares another Classic Scrape and Matthew Crosby calls in and talks about another celebrity autobiography.Broadcast on 26th November 2013.",
+        "audio_url": "https://traffic.megaphone.fm/APO8975274424.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-33-stephen-merchant-returns-james/id1866254969?i=1000773840316&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "60493f029b67a6e293fa0e661151f803c2a29300",
+        "episode_key": "60493f029b67a6e293fa0e661151f803c2a29300",
+        "title": "Josh Widdicombe XFM #32 – Jack Dee, James Acaster Classic Scrape 28, Matthew Crosby",
+        "published_at": "2026-06-22T19:20:48Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Jack Dee is in the studio, James Acaster shares another Classic Scrape and Matthew Crosby reads from another celebrity autobiography.Broadcast on 19th November 2013.",
+        "audio_url": "https://traffic.megaphone.fm/APO1555870976.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-32-jack-dee-james-acaster-classic/id1866254969?i=1000773781693&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee",
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -9757,6 +9802,28 @@
       }
     ],
     "harriet-kemsley": [
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "f125f6ac7e1e7f4c37edec13194abd420069f84b",
+        "episode_key": "f125f6ac7e1e7f4c37edec13194abd420069f84b",
+        "title": "Josh Widdicombe XFM #34 – Nish Kumar, Harriet Kemsley, Matthew Crosby.",
+        "published_at": "2026-06-23T10:25:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Nish Kumar and Harriet Kemsley join Josh in the studio. Matthew Crosby reads from Sharon Osbourne's autobiography.Broadcast on 9th December 2013.",
+        "audio_url": "https://traffic.megaphone.fm/APO9063766040.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-34-nish-kumar-harriet-kemsley-matthew/id1866254969?i=1000773880831&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:d36600c665b5",
         "feed_title": "Namaste Motherf**kers",
@@ -33669,6 +33736,29 @@
       }
     ],
     "jack-dee": [
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "60493f029b67a6e293fa0e661151f803c2a29300",
+        "episode_key": "60493f029b67a6e293fa0e661151f803c2a29300",
+        "title": "Josh Widdicombe XFM #32 – Jack Dee, James Acaster Classic Scrape 28, Matthew Crosby",
+        "published_at": "2026-06-22T19:20:48Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Jack Dee is in the studio, James Acaster shares another Classic Scrape and Matthew Crosby reads from another celebrity autobiography.Broadcast on 19th November 2013.",
+        "audio_url": "https://traffic.megaphone.fm/APO1555870976.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-32-jack-dee-james-acaster-classic/id1866254969?i=1000773781693&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee",
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e5b58072e338",
         "feed_title": "Oh My Dog! with Jack Dee and Seann Walsh",
