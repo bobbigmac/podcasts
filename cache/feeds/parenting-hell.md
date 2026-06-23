@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-06-19T10:56:51+00:00`
-- checked_at: `2026-06-19T10:56:51+00:00`
-- last_modified: `Fri, 19 Jun 2026 07:07:06 GMT`
+- fetched_at: `2026-06-23T10:02:11+00:00`
+- checked_at: `2026-06-23T10:02:11+00:00`
+- last_modified: `Tue, 23 Jun 2026 09:09:32 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-19T10:56:51+00:00",
+  "fetched_at": "2026-06-23T10:02:11+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b29418c56390c86682cc22e1c5f97b18748acef6",
+      "title": "S12 EP49: I love the buffet",
+      "published_at": "2026-06-23T08:32:00+00:00",
+      "link": null,
+      "description": "More misadventures in parenting, life, and beyond with comedians Rob Beckett and Josh Widdicombe... ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2918081874.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3217",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "buffet"
+      ]
+    },
     {
       "key": "176c134ce8bf70a1543cc3ee38f9a2dc837b7e7e",
       "title": "S12 EP48: Stop me if you've heard this one before",
@@ -12149,6 +12168,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-23 — S12 EP49: I love the buffet — speakers: Rob Beckett, Josh Widdicombe
 - 2026-06-19 — S12 EP48: Stop me if you've heard this one before — speakers: Rob Beckett, Josh Widdicombe
 - 2026-06-15 — S12 EP47: The Juggle Is Real — speakers: Rob Beckett, Josh Widdicombe
 - 2026-06-12 — S12 EP46: Laura Smyth (The Return) — speakers: Laura Smyth, Rob Beckett, Josh Widdicombe

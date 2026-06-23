@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-06-17T05:15:51+00:00`
-- checked_at: `2026-06-17T05:15:51+00:00`
-- etag: `"djEuMi4wOjE3ODE2NjcwMzkzNjQ="`
+- fetched_at: `2026-06-23T10:02:11+00:00`
+- checked_at: `2026-06-23T10:02:11+00:00`
+- etag: `"djEuMi4wOjE3ODIxOTI4ODQxNTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-06-17T05:15:51+00:00",
+  "fetched_at": "2026-06-23T10:02:11+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "80d47d9614f09a8e438f2f2143c4ed9d1c6a6f37",
+      "title": "Markus Birdman And His Dog",
+      "published_at": "2026-06-23T05:34:44+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/markus-birdman-and-his-dog",
+      "description": "Markus Birdman brings us 2 jokes he's working on and tells us his favourite joke from another comedian You can support the podcast by joining the Patreon here: www.patreon.com/jokeswithmark Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6a3a1af47b6a25ccae7a96ba/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53739316",
+      "itunes_duration": "37:16",
+      "speakers": [
+        "Markus Birdman",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "markus",
+        "birdman"
+      ]
+    },
     {
       "key": "3be99de4831df2b600bb40593f6882656b0a6daa",
       "title": "Emmanuel Sonubi",
@@ -7367,6 +7387,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-23 — Markus Birdman And His Dog — speakers: Markus Birdman, Mark Simmons
 - 2026-06-17 — Emmanuel Sonubi — speakers: Emmanuel Sonubi, Mark Simmons
 - 2026-06-09 — Tour Talk: Danny's Back — speakers: Mark Simmons
 - 2026-06-02 — Bilal Zafar — speakers: Comedy Awards, Bilal Zafar, Mark Simmons

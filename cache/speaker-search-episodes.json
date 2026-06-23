@@ -15832,6 +15832,28 @@
     ],
     "alex-horne": [
       {
+        "feed_slug": "external:apple:c5ff6adaa0a5",
+        "feed_title": "Sort Your Life Out Unpacked",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m002s1mz.rss",
+        "dedupe_key": "832b4e01c84c9529cf72a1e6c865be63408144f2",
+        "episode_key": "832b4e01c84c9529cf72a1e6c865be63408144f2",
+        "title": "Alex Horne: The Giant Inflatable Duck",
+        "published_at": "2026-06-23T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Dilly Carter is joined by Taskmaster extraordinaire, ‘Little’ Alex Horne, shares his big dreams for his new home to be filled with noise, colour and chaos – but admits it’s currently overrun with builders and ladybirds.\nAlex brings in three suitably quirky items from home for Dilly Carter to unpack – from socks he’s ke",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ntg56j.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-the-giant-inflatable-duck/id1889545890?i=1000773838339&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e8b919cc1fa1",
         "feed_title": "The Harry Hill Show",
         "source_rss_url": "https://feeds.megaphone.fm/GLT2134425554",
@@ -26342,6 +26364,28 @@
         "feed_image_url": null,
         "description": "Tommy and Ben dig into a week dominated by ominous signs of regime change, nuclear standoffs, and a “historic” summit that left almost everyone disappointed.\nFirst they cover the signs pointing to American intervention in Cuba, including reports of Cuban drones, a possible indictment of 94-year-old Raúl Castro, a visit",
         "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8905700.mp3?modified=1779241124&sid=5166626&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/is-trump-planning-to-invade-cuba/id1200016351?i=1000768644061&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8c34440a90c4",
+        "feed_title": "Pod Save the World",
+        "source_rss_url": "https://audioboom.com/channels/5166626.rss",
+        "dedupe_key": "035566c48e2c0de7a30635f5b536bc10f97c49bf",
+        "episode_key": "035566c48e2c0de7a30635f5b536bc10f97c49bf",
+        "title": "Is Trump Planning to Invade Cuba?",
+        "published_at": "2026-05-20T07:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tommy and Ben dig into a week dominated by ominous signs of regime change, nuclear standoffs, and a “historic” summit that left almost everyone disappointed.\nFirst they cover the signs pointing to American intervention in Cuba, including reports of Cuban drones, a possible indictment of 94-year-old Raúl Castro, a visit",
+        "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8905700.mp3?modified=1779342252&sid=5166626&source=rss",
         "link_url": "https://podcasts.apple.com/gb/podcast/is-trump-planning-to-invade-cuba/id1200016351?i=1000768644061&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
