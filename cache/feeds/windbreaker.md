@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-06-16T21:18:45+00:00`
-- checked_at: `2026-06-16T21:18:45+00:00`
-- etag: `W/"3eeaa-jxWlgqh0jTDKT49lyG1rulF0huM"`
+- fetched_at: `2026-06-23T04:20:01+00:00`
+- checked_at: `2026-06-23T04:20:01+00:00`
+- etag: `W/"3f609-MCIp02G0dtrrUeLqNM4n1f1JngE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-06-16T21:18:45+00:00",
+  "fetched_at": "2026-06-23T04:20:01+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "1dca7c9456c4cb94fed04df39e6502a0ab5bebe1",
+      "title": "Why Are Cards Everywhere In Games? | Windbreaker Podcast (ft. Jack Packard)",
+      "published_at": "2026-06-23T01:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Why-Are-Cards-Everywhere-In-Games---Windbreaker-Podcast-ft--Jack-Packard-e3l54na",
+      "description": "On this week’s episode of Windbreaker, Yahtzee is on holiday, so Jack is joinging JM8 and Marty to chat about the rise of card-based video games. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9469157441.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92657949",
+      "itunes_duration": "01:35:29",
+      "speakers": [
+        "Jack Packard",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "cards",
+        "games",
+        "windbreaker",
+        "podcast",
+        "jack",
+        "packard"
+      ]
+    },
     {
       "key": "baaa9709f1b5d616de047346aa9f5fad57b6c905",
       "title": "Building Our Indie Game Mount Rushmore | Windbreaker Podcast",
@@ -2971,6 +2996,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-23 — Why Are Cards Everywhere In Games? | Windbreaker Podcast (ft. Jack Packard) — speakers: Jack Packard, Yahtzee Croshaw, Marty Sliva
 - 2026-06-16 — Building Our Indie Game Mount Rushmore | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-06-09 — Catching Yahtzee Up on the Big Summer Game Fest Announcements | Windbreaker Podcast — speakers: Catching Yahtzee, Yahtzee Croshaw, Marty Sliva
 - 2026-06-02 — OurFavorite Video Game Expansions and DLC | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

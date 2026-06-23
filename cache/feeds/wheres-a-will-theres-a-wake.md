@@ -2,9 +2,9 @@
 
 - slug: `wheres-a-will-theres-a-wake`
 - source: `https://feeds.megaphone.fm/wtawtaw`
-- fetched_at: `2026-06-16T11:33:31+00:00`
-- checked_at: `2026-06-16T11:33:31+00:00`
-- last_modified: `Tue, 16 Jun 2026 11:13:28 GMT`
+- fetched_at: `2026-06-23T04:20:01+00:00`
+- checked_at: `2026-06-23T04:20:01+00:00`
+- last_modified: `Tue, 23 Jun 2026 04:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/wtawtaw",
   "description": "Join Mel Giedroyc every week as she laughs in the face of death with all your favourite funny celebrities. Working on the assumption they’ve popped their clogs, they’ll be telling Mel all about how they’ve died, what they want for their funerals and why she should be unlocking the pearly gates for them. Want the episodes ad free AND extra content from Mel and her guest? 6 Feet Under steps away from fantasy and rifles through all your dead good emails. Head to wheretheresawilltheresawake.com to subscribe. AND If you've got a story for us, send it over to mel@deathpodcast.co.uk. A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast Learn more about your ad choices. Visit podcastchoices.com/adchoices Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast To bring your brand to life in this podcast, email podcastadsales@sonymusic.com",
   "image_url": "https://megaphone.imgix.net/podcasts/2b690814-56d7-11ed-8ab5-83c1414d4a97/image/c6f317fd3e7d35323d3d1f610fd8466f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-16T11:33:31+00:00",
+  "fetched_at": "2026-06-23T04:20:01+00:00",
   "owners": [
     "Mel Giedroyc"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "120b2a33a295352e1a2e476ac9b1e87d4b23531d",
+      "title": "Here Lies Simon Brodkin",
+      "published_at": "2026-06-23T04:00:00+00:00",
+      "link": null,
+      "description": "Celestial Stand Up, Ripped Jesus and starting a revolution in North Korea Comedian and public stunt performer Simon Brodkin, formerly known as Lee Nelson, joins Mel to pick apart his fantastical demise Upgrade your everyday wardrobe (while you still can 👀): https://www.fatface.com/shop/womens/f/feat-newin?utm_source=referral&utm_medium=podcast&utm_campaign=wheretheresawill Use code: WHERETHERESAWILL20 for 20% off. Have a story for us? Send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts and follow us at @sonypodcasts To bring your brand to life in this podcast, email podcastadsales@sonymusic.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/db9a5630-7c67-11f0-bc82-1339a6507417/image/bfbd26a07e56109b49cd334c346317ef.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY3643910889.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2629",
+      "speakers": [
+        "Simon Brodkin",
+        "Ripped Jesus",
+        "Mel Giedroyc"
+      ],
+      "topics": [
+        "simon",
+        "brodkin"
+      ]
+    },
     {
       "key": "8d7c8c682d6d61bd9373729871e2586cd04c0bb1",
       "title": "Here Lies Emma Barnett",
@@ -4090,6 +4111,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-23 — Here Lies Simon Brodkin — speakers: Simon Brodkin, Ripped Jesus, Mel Giedroyc
 - 2026-06-16 — Here Lies Emma Barnett — speakers: Emma Barnett, Mel Giedroyc
 - 2026-06-09 — Here Lies Larry Dean — speakers: Larry Dean, Mel Giedroyc
 - 2026-06-02 — Here Lies Konnie Huq — speakers: Konnie Huq, Blue Peter, Mel Giedroyc
