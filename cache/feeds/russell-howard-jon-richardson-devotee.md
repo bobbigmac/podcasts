@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-06-22T22:54:47+00:00`
-- checked_at: `2026-06-22T22:54:47+00:00`
-- etag: `W/"33db0-Hr70lYqzs6YE/bESEAqvkHRE1EE"`
+- fetched_at: `2026-06-23T20:22:00+00:00`
+- checked_at: `2026-06-23T20:22:00+00:00`
+- etag: `W/"349ce-inZ8/YToxOgx+P5jU09snFNWgd4"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,101 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-06-22T22:54:47+00:00",
+  "fetched_at": "2026-06-23T20:22:00+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "36c8d72b5338442bbd69e5c2d18ce206d8270bf0",
+      "title": "Josh Widdicombe XFM #35 – Christmas - James Acaster Classic Scrape 30, Elis James, Matthew Crosby",
+      "published_at": "2026-06-23T18:23:10+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-35--Christmas---James-Acaster-Classic-Scrape-30--Elis-James--Matthew-Crosby-e3l6hfq",
+      "description": "James Acaster shares a Christmas Scrape, Elis joins Josh in the studio and Matthew Crosby reads from the autobiography of Des O' Connor.Broadcast on 23rd December 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782238933276-c2b1eaeefd73c.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4724128480.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41771220",
+      "itunes_duration": "00:43:02",
+      "speakers": [
+        "James Acaster Classic Scrape",
+        "Elis James",
+        "Matthew Crosby",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "christmas",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "elis",
+        "matthew",
+        "crosby"
+      ]
+    },
+    {
+      "key": "c69d4390cf82600c1869e89a384bd32f78ea4cbe",
+      "title": "Josh Widdicombe XFM #34 – Nish Kumar, Harriet Kemsley, Matthew Crosby.",
+      "published_at": "2026-06-23T10:25:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-34--Nish-Kumar--Harriet-Kemsley--Matthew-Crosby-e3l4vq0",
+      "description": "Nish Kumar and Harriet Kemsley join Josh in the studio. Matthew Crosby reads from Sharon Osbourne's autobiography.Broadcast on 9th December 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782156389335-06f4ff7e3382d.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9063766040.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51496538",
+      "itunes_duration": "00:53:04",
+      "speakers": [
+        "Harriet Kemsley",
+        "Matthew Crosby",
+        "Sharon Osbourne"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "nish",
+        "kumar",
+        "harriet",
+        "kemsley",
+        "matthew",
+        "crosby"
+      ]
+    },
+    {
+      "key": "faadf826dfe7709f8163ab2c8645a0b234a5fcaa",
+      "title": "Josh Widdicombe XFM #33 – Stephen Merchant Returns, James Acaster Classic Scrape 29, Matthew Crosby",
+      "published_at": "2026-06-23T05:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-33--Stephen-Merchant-Returns--James-Acaster-Classic-Scrape-29--Matthew-Crosby-e3l4vl0",
+      "description": "Stephen Merchant joins Josh in the studio, James Acaster shares another Classic Scrape and Matthew Crosby calls in and talks about another celebrity autobiography.Broadcast on 26th November 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782156170269-03bb1fc69a4f4.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8975274424.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59332758",
+      "itunes_duration": "01:01:08",
+      "speakers": [
+        "Stephen Merchant Returns",
+        "James Acaster Classic Scrape",
+        "Matthew Crosby",
+        "Stephen Merchant",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "stephen",
+        "merchant",
+        "returns",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "matthew"
+      ]
+    },
     {
       "key": "ad77de184144482bc27c21790cd4b030d1e47526",
       "title": "Josh Widdicombe XFM #32 – Jack Dee, James Acaster Classic Scrape 28, Matthew Crosby",
@@ -51,25 +139,6 @@
         "scrape",
         "matthew",
         "crosby"
-      ]
-    },
-    {
-      "key": "efebfe71a7abab01c112059fe1a55b5c58128678",
-      "title": "Ricky Gervais LIVE 21/06/2026",
-      "published_at": "2026-06-21T19:46:59+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Ricky-Gervais-LIVE-21062026-e3l3dis",
-      "description": "Ricky Gervais LIVE 21/06/2026",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782071211187-1b5887957890d.jpg",
-      "enclosure_url": "https://traffic.megaphone.fm/APO6000393274.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26115386",
-      "itunes_duration": "00:26:54",
-      "speakers": [
-        "Ricky Gervais"
-      ],
-      "topics": [
-        "ricky",
-        "gervais"
       ]
     },
     {
@@ -3872,8 +3941,10 @@
 
 ## Episodes (newest first)
 
+- 2026-06-23 — Josh Widdicombe XFM #35 – Christmas - James Acaster Classic Scrape 30, Elis James, Matthew Crosby — speakers: James Acaster Classic Scrape, Elis James, Matthew Crosby, James Acaster
+- 2026-06-23 — Josh Widdicombe XFM #34 – Nish Kumar, Harriet Kemsley, Matthew Crosby. — speakers: Harriet Kemsley, Matthew Crosby, Sharon Osbourne
+- 2026-06-23 — Josh Widdicombe XFM #33 – Stephen Merchant Returns, James Acaster Classic Scrape 29, Matthew Crosby — speakers: Stephen Merchant Returns, James Acaster Classic Scrape, Matthew Crosby, Stephen Merchant, James Acaster
 - 2026-06-22 — Josh Widdicombe XFM #32 – Jack Dee, James Acaster Classic Scrape 28, Matthew Crosby — speakers: Jack Dee, James Acaster Classic Scrape, Matthew Crosby, James Acaster
-- 2026-06-21 — Ricky Gervais LIVE 21/06/2026 — speakers: Ricky Gervais
 - 2026-06-16 — Josh Widdicombe XFM #31 – Joe Lycett in the studio, Nick Helm — speakers: Joe Lycett, Nick Helm Joe Lycett, Nick Helm
 - 2026-06-15 — Josh Widdicombe XFM #30 – James Acaster Classic Scrape 27, Adam Hills, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster, Adam Hill
 - 2026-06-11 — Josh Widdicombe XFM # 28 – James Acaster Classic Scrape 25, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster, David Beckham

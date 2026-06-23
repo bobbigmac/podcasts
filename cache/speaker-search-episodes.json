@@ -24007,6 +24007,28 @@
     ],
     "lee-mack": [
       {
+        "feed_slug": "external:apple:d0be578e4e4b",
+        "feed_title": "pplpod",
+        "source_rss_url": "https://media.rss.com/pplpod/feed.xml",
+        "dedupe_key": "7a68d37490b8e59eabd8d20fd0a119b0c0133414",
+        "episode_key": "7a68d37490b8e59eabd8d20fd0a119b0c0133414",
+        "title": "Lee Mack: From Bingo Halls to BAFTA-Winning Comic Genius",
+        "published_at": "2026-06-23T09:34:53Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "As a teenage stable boy, he picked a horse at random for his first ever ride and ended up on the legendary Red Rum. That chaotic, working-class luck would later power one of British television's sharpest comedic minds.\nThis deep dive traces the evolution of Lee Mack from pub kid and holiday-camp entertainer to BAFTA-wi",
+        "audio_url": "https://content.rss.com/episodes/344999/2937294/pplpod/2026_06_23_09_00_16_d3302bdf-2869-4dd2-b1aa-50264b3db544.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lee-mack-from-bingo-halls-to-bafta-winning-comic-genius/id1836423938?i=1000773865436&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:ad90399bfbc3",
         "feed_title": "Chatabix",
         "source_rss_url": "https://feeds.megaphone.fm/GLT7256806225",
