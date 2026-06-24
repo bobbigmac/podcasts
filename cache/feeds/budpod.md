@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-06-17T05:15:51+00:00`
-- checked_at: `2026-06-17T05:15:51+00:00`
-- etag: `"djEuMi4wOjE3ODE2NzI0OTk1OTY="`
+- fetched_at: `2026-06-24T09:50:32+00:00`
+- checked_at: `2026-06-24T09:50:32+00:00`
+- etag: `"djEuMi4wOjE3ODIyNzcyOTkzNDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-06-17T05:15:51+00:00",
+  "fetched_at": "2026-06-24T09:50:32+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "27d9e0dd449981f264ba9be3edc7fdbd9da98393",
+      "title": "S2E54 | Papa's Flesh",
+      "published_at": "2026-06-24T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e54-papas-flesh",
+      "description": "This week the buds discuss Pierre's honeymoon, Japanese toilets, Toy Story and correspondence! This week's sketch: 'Posh Boy Blues' Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! BudPod Live is back! In Bath! Tickets available here - https://komediabath.co.uk/events/128649554-budpod-live-2026-11-03-19-00-00/ Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Pierre is on tour across the UK, Ireland and Netherlands! Tickets available at pierrenovellie.com Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6a3b0c1495244c4a61249b91/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66330698",
+      "itunes_duration": "45:56",
+      "speakers": [
+        "Toy Story",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "papa",
+        "flesh"
+      ]
+    },
     {
       "key": "44cf0e747fcb6d0e20fc8de515108e3a6ec381d1",
       "title": "S2E53 | Pooh Pooh the Willy",
@@ -7830,6 +7851,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — S2E54 | Papa's Flesh — speakers: Toy Story, Phil Wang, Pierre Novellie
 - 2026-06-17 — S2E53 | Pooh Pooh the Willy — speakers: Pooh Pooh, Phil Wang, Pierre Novellie
 - 2026-06-10 — S2E52 | Chia Seed Man — speakers: Chia Seed Man, Phil Wang, Pierre Novellie
 - 2026-06-03 — S2E51 | Mormon World Cup — speakers: Mormon World Cup Youtube, World Cup, Phil Wang, Pierre Novellie

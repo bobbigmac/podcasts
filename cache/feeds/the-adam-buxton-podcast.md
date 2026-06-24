@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-06-16T17:20:29+00:00`
-- checked_at: `2026-06-16T17:20:29+00:00`
-- etag: `"djEuMi4wOjE3ODE2MTE5NDI2Mzk="`
+- fetched_at: `2026-06-24T09:50:32+00:00`
+- checked_at: `2026-06-24T09:50:32+00:00`
+- etag: `"djEuMi4wOjE3ODIyODg1MzYxMzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-06-16T17:20:29+00:00",
+  "fetched_at": "2026-06-24T09:50:32+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "882e5f8950fefd57e573cc31b1a57b189cf6c23a",
+      "title": "EP.276 - LOUIS THEROUX",
+      "published_at": "2026-06-24T08:09:02+00:00",
+      "link": "https://shows.acast.com/adambuxton/episodes/ep276-louis-theroux",
+      "description": "Adam talks with British/American journalist, podcaster, and old friend Louis Theroux about Adam's Audible series Successpod (on which Louis was one of the producers) as well as great singers who can't sing, what Rosie is really thinking, enlightenment, the Manosphere and what men want from women. Conversation recorded face-to-face in London on 11 June, 2026 Thanks to Diggory Waite and Claire Broughton at Hattrick and Séamus Murphy Mitchell for production support. Podcast illustration by Helen Green PLEASE SIGN THE PEOPLE'S EMERGENCY BRIEFING PETITION This petition aims to get the government to hold credible national briefings from independent experts to give people clear, trusted guidance on what the risks from climate and nature breakdown mean in practice, and what we can do - both together and individually - to prepare and respond. More info HERE . PEOPLE'S EMERGENCY BRIEFING FILM AND TALK WITH ADAM BUXTON & PATRICK BARKHAM @ NORWICH ARTS CENTRE , 28 June, 2026 ADAM BUXTON PODCAST LIVE WITH MAWAAN RIZWAAN @ Roundhouse, London , 5 August, 2026 (Roundhouse) RELATED LINKS THE WAY THINGS GO (DER LAUF DER DINGE) by Peter Fischli and David Weiss - 1987 (Vimeo) MARTIAL ARTS ROBOTS DAZZLE AT THE 2026 SPRING GALA FESTIVAL - 2026 (YouTube) PYTHAGORA SWITCH IDENTS COMPILATION - 2002 to present (YouTube) Video idents and \"Pythagorean Devices\" (Rube Goldberg-style machine segments) from Japanese children's educational television program Pythagoras Switch ( ピタゴラスイッチ). ANDREW TATE'S EMPIRE OF ABUSE by Heidi Blake - 6 June, 2026 (The New Yorker) THE MEN WHO WANT WOMEN TO BE QUIET by Helen Lewis - 14 May, 2026 (Atlantic) SÉAMUS MURPHY-MITCHELL WINS EMMY - 2024 (Irish Film and Television Network) JIMINY GLICK INTERVIEWS ARTIE LANG from The Martin Short Show - 1999 (YouTube) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1782241048098-f5a563bc-ff35-4117-ad9c-141129cca8c3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/6a3adaf4bfa92390374ff5ec/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "211685260",
+      "itunes_duration": "1:28:12",
+      "speakers": [
+        "Louis Theroux",
+        "Adam Buxton"
+      ],
+      "topics": [
+        "louis",
+        "theroux"
+      ]
+    },
     {
       "key": "e0a28639d8771ceba26fa727ccc267ecfd61a303",
       "title": "EP.275 - KATHY BURKE",
@@ -5634,6 +5654,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — EP.276 - LOUIS THEROUX — speakers: Louis Theroux, Adam Buxton
 - 2026-06-16 — EP.275 - KATHY BURKE — speakers: Kathy Burke, Adam Buxton
 - 2026-06-09 — EP.274 - HARRY ENFIELD — speakers: Harry Enfield, Adam Buxton
 - 2026-05-25 — EP.273 - PATRICK RADDEN KEEFE — speakers: Patrick Radden Keefe, Adam Buxton
