@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-06-17T11:16:59+00:00`
-- checked_at: `2026-06-17T11:16:59+00:00`
-- last_modified: `Wed, 17 Jun 2026 07:26:00 GMT`
+- fetched_at: `2026-06-24T15:06:56+00:00`
+- checked_at: `2026-06-24T15:06:56+00:00`
+- last_modified: `Wed, 24 Jun 2026 07:19:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-17T11:16:59+00:00",
+  "fetched_at": "2026-06-24T15:06:56+00:00",
   "owners": [
     "Brett Goldstein"
   ],
@@ -27,6 +27,32 @@
     "film"
   ],
   "episodes": [
+    {
+      "key": "cd91e921b02e139f28041a2e24a78f7ab87870b6",
+      "title": "James Acaster • The Black Lodge (Off Menu / Hecklers Welcome / Repertoire) • #400",
+      "published_at": "2026-06-24T07:19:00+00:00",
+      "link": "https://www.patreon.com/cw/brettgoldstein",
+      "description": "LOOK OUT! It’s only Films To Be Buried With! Join your host Brett Goldstein as he talks life, death, love and the universe (for a fourth time) with the genie himself, long term friend and comic / actor / podcaster JAMES ACASTER ! The BLACK LODGE ! (...Also known as TV TO BE BURIED WITH). It was long journey getting here, but a glorious one. With the family tradition of Films To Be Buried With having James as guest every 100 episodes, James has basically mentioned every single film in celluloid memory and as such, we find ourselves at The Black Lodge. In other words, every answer is a TV show. A perfect tweak to the format with some answers you may expect but some that will come from straight out of left field. James is always a good time so you'll certainly enjoy this one. We'll see him again in 100 more, but for now, enjoy THE BLACK LODGE! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Video and extra audio available on Brett's Patreon! JAMES ONLINE ⁠ ⁠ –––––––––– ⁠⁠ BRETT • X ⁠⁠ ⁠⁠ BRETT • INSTAGRAM ⁠⁠ ⁠⁠ THE SECOND BEST NIGHT OF YOUR LIFE ⁠⁠ ⁠⁠ TED LASSO ⁠⁠ ⁠⁠ SHRINKING ⁠⁠ ⁠⁠ ALL OF YOU ⁠⁠ ⁠⁠ SOULMATES ⁠⁠ ⁠⁠ SUPERBOB (Brett's 2015 feature film) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ff639d94-6f4e-11f1-88b7-3b60ce689e86/image/6bace355a5232b558e2ca133b93653b4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1904781007.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3540",
+      "speakers": [
+        "James Acaster",
+        "Brett Goldstein"
+      ],
+      "topics": [
+        "james",
+        "acaster",
+        "black",
+        "lodge",
+        "menu",
+        "hecklers",
+        "welcome",
+        "repertoire"
+      ]
+    },
     {
       "key": "242f3ed558b5293293f9e105c2c2d2f8ea20d78c",
       "title": "Tony Hale • The Resurrection (Office Romance / Sketch / Toy Story 5) • #399",
@@ -9513,6 +9539,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — James Acaster • The Black Lodge (Off Menu / Hecklers Welcome / Repertoire) • #400 — speakers: James Acaster, Brett Goldstein
 - 2026-06-17 — Tony Hale • The Resurrection (Office Romance / Sketch / Toy Story 5) • #399 — speakers: Brett Goldstein
 - 2026-06-10 — Jennifer Lopez (Office Romance / Hustlers / Out Of Sight) • #398 — speakers: Jennifer Lopez, Brett Goldstein
 - 2026-06-03 — Betty Gilpin (Office Romance / GLOW / The Hunt) • #397 — speakers: Betty Gilpin, Brett Goldstein
