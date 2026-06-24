@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-06-19T05:23:51+00:00`
-- checked_at: `2026-06-19T05:23:51+00:00`
-- etag: `"djEuMi4wOjE3ODE4MzkyMzkyNDg="`
+- fetched_at: `2026-06-24T04:35:18+00:00`
+- checked_at: `2026-06-24T04:35:18+00:00`
+- etag: `"djEuMi4wOjE3ODIyNzEyMzkzOTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-06-19T05:23:51+00:00",
+  "fetched_at": "2026-06-24T04:35:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c374f1a9c135034c52a744dab21dbb12802bdc0e",
+      "title": "ABUBAKAR SALIM • conducting a perfect symphony of acting and game design (House Of The Dragon / Raised By Wolves / Tales Of Kenzera) #677",
+      "published_at": "2026-06-24T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the awesome actor and now also game designer ABUBAKAR SALIM ! What an absolute gem of an episode you have before you right here, as Pip checks in with Abubakar, one of the most power-move making-est actors in the game. You'll likely/surely recognize him from House Of The Dragon (Alyn of Hull), or Raised By Wolves (serving iconic costume realness), but chances are you might have also come into contact with his game 'Tales Of Kenzera' too. Even if none of those ring any bells, Abubakar is someone you'll get along with from jump, and has tales and perspective for days - working with Ridley Scott and what that process taught him, how the House Of The Dragon casting came about (crank call instincts on high alert), and how the inclusion of game design factored into life. A lovely chat with loads to enjoy for wherever you connect in those touchpoints, so enjoy! PIP'S PATREON PAGE if you're of a supporting nature IMDB INSTAGRAM HOUSE OF THE DRAGON RAISED BY WOLVES TALES OF KENZERA SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1782204771023-0f0001d0-165e-4a27-b341-d4c7f18744bc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a3a4e128a3c8822ab31e5c8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "156752424",
+      "itunes_duration": "1:05:14",
+      "speakers": [],
+      "topics": [
+        "abubakar",
+        "salim",
+        "symphony",
+        "game",
+        "design",
+        "house",
+        "dragon",
+        "wolf",
+        "tale",
+        "kenzera"
+      ]
+    },
     {
       "key": "1c2b065b3012697df39efd4bdbee2f8a38e95fab",
       "title": "PROFESSOR GREEN (rap / TV & film / mental health advocacy) • Friday Rewind",
@@ -19044,6 +19069,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — ABUBAKAR SALIM • conducting a perfect symphony of acting and game design (House Of The Dragon / Raised By Wolves / Tales Of Kenzera) #677
 - 2026-06-19 — PROFESSOR GREEN (rap / TV & film / mental health advocacy) • Friday Rewind
 - 2026-06-17 — RYAN CONDAL • how to train your house of dragons, or, flight of the Condal (House Of The Dragon / Colony / Rampage) #676
 - 2026-06-12 — RAHUL KOHLI (Citadel / We Were Liars) • Friday Rewind

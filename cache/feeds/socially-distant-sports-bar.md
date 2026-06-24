@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-06-22T18:53:29+00:00`
-- checked_at: `2026-06-22T18:53:29+00:00`
-- etag: `"djEuMi4wOjE3ODIxMzg0OTQ5NDM="`
+- fetched_at: `2026-06-24T04:35:18+00:00`
+- checked_at: `2026-06-24T04:35:18+00:00`
+- etag: `"djEuMi4wOjE3ODIyNTc2NzkyODk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-06-22T18:53:29+00:00",
+  "fetched_at": "2026-06-24T04:35:18+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,30 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "9d8766241b161889028cfd40e9773f46f41a31c3",
+      "title": "Peanuts, Caffeine, Acting",
+      "published_at": "2026-06-23T23:34:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/peanuts-caffeine-acting",
+      "description": "Welcome to this week’s Socially Distant Sports Bar . It's an award-winning comedy and sports podcast hosted by Elis James, Mike Bubbins and Steff Garrero. It is a show about sport, but not just scores and fixtures. Each week the boys use clips, documentaries, books and sporting stories as a way into funny, nostalgic and unpredictable conversations about life, Wales, friendship, family, old telly and the strange emotional pull of sport. Elis James is a comedian and broadcaster known for Elis & John while Mike Bubbins is a comedian and actor known for Mammoth. This week, the boys are looking at rugby size and the perfect breakfast. Clips Mike: Victor Matfield and John Kirwan https://www.instagram.com/reel/DYgfrHvRV-Z/?igsh=eDJ1NzNzaGIxMHNx Steff: Have A… https://www.instagram.com/reel/DYS7ITjxAlO/?igsh=ajB6MHVwNXpucmh1 Elis: Any cars coming? https://www.instagram.com/reel/DZGDoCzNHsT/?igsh=MWRnbDlqemVrbnFjdw== 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a3941399c43d66bc00e6456/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "168087360",
+      "itunes_duration": "1:10:02",
+      "speakers": [
+        "Acting Welcome",
+        "Socially Distant Sports Bar",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "peanut",
+        "caffeine",
+        "acting"
+      ]
+    },
     {
       "key": "bf5eb0f4fe58b36735fb7d4e6448c8d4caeac8f4",
       "title": "Jonny: Pint Size",
@@ -15139,6 +15163,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-23 — Peanuts, Caffeine, Acting — speakers: Acting Welcome, Socially Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-20 — Jonny: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-18 — Elis’ Homecoming Gig (pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-16 — Elis’ Homecoming Gig (pt 1) — speakers: Elis James, Mike Bubbins, Steff Garrero

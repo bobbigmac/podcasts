@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-06-21T05:18:18+00:00`
-- checked_at: `2026-06-21T05:18:18+00:00`
-- etag: `"djEuMi4wOjE3ODIwMTc3MDgwNzQ="`
+- fetched_at: `2026-06-24T04:35:18+00:00`
+- checked_at: `2026-06-24T04:35:18+00:00`
+- etag: `"djEuMi4wOjE3ODIyNTkyMzkzMDc="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-06-21T05:18:18+00:00",
+  "fetched_at": "2026-06-24T04:35:18+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "32a47a610d6428cdd43b66d3ecb0d7fe2d072b79",
+      "title": "WDWDY #76.1: To live and die in L.A. (Max Yesterday)",
+      "published_at": "2026-06-24T00:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-761-to-live-and-die-in-la-max-yesterday",
+      "description": "On the first of our new mid-week mayhem double eps we find out what Max did with his yesterday... he's in L.A. for the World Cup living a weird odd couple style sitcom existence with Barry while Jaime solo parents in Australia. If you want to hear all about what David did on this exact day then you need to be 'IN IT FOR LIFE' Sign up HERE and here https://yesterdaypod.supportingcast.fm/ Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1782017410639-c4eb0499-4673-4cef-ac3d-3b312ce72d0a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a376e45f1612f1c69528222/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "105390187",
+      "itunes_duration": "43:47",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "yesterday"
+      ]
+    },
     {
       "key": "bb004f20b3bc443fcc81cfa714b42be3c861a3e4",
       "title": "S5 EP1: Kristen Schaal",
@@ -3574,6 +3593,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — WDWDY #76.1: To live and die in L.A. (Max Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-06-21 — S5 EP1: Kristen Schaal — speakers: Kristen Schaal, Max Rushden, David O'Doherty
 - 2026-06-18 — WDWDY #75: New Listener Drive — speakers: New Listener Drive, Max Rushden, David O'Doherty
 - 2026-06-10 — BREAKING NEWS!!! — speakers: Dear Yesterday Fans, Max Rushden, David O'Doherty

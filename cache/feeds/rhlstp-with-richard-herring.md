@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-23T04:20:01+00:00`
-- checked_at: `2026-06-23T04:20:01+00:00`
-- etag: `"djEuMi4wOjE3ODIxNDI4NDM2NTc="`
+- fetched_at: `2026-06-24T04:35:18+00:00`
+- checked_at: `2026-06-24T04:35:18+00:00`
+- etag: `"djEuMi4wOjE3ODIyNjk4NTkzOTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-23T04:20:01+00:00",
+  "fetched_at": "2026-06-24T04:35:18+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8fa1d41a60f2943b9abe2abe3746373f24af755a",
+      "title": "Lorna Rose Treen - \"A 94 Year-Old-Woman Crawling Out of a Pile of Clothes\"",
+      "published_at": "2026-06-24T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #615 - A 94 Year-Old-Woman Crawling Out of a Pile of Clothes - Richard is at the Podcast Room again and this time joined by multi-award winning character comedian and writer, Lorna Rose Treen. They chat about subverting expectations on SNL UK, how the exquisite Time of the Week came out of Lorna working on Women’s Hour, winning the Edinburgh’s Joke of the Fringe with a joke that wasn’t even the best joke in the same minute of her show, being responsible for the death of comedy (according to the Sun), why it’s good for comedy to be silly and it’s important that female performers are allowed to be flawed and ridiculous and why a man with a bad sink joke ruined Rich’s career. SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1781792145532-9724a754-3410-4866-b609-bd8348d009a6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a33f896c17f30287649f68c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28020590",
+      "itunes_duration": "50:20",
+      "speakers": [
+        "Lorna Rose Treen",
+        "Richard Herring"
+      ],
+      "topics": [
+        "lorna",
+        "rose",
+        "treen",
+        "year",
+        "woman",
+        "pile",
+        "clothes"
+      ]
+    },
     {
       "key": "fb505fb9419fed147e87854c0c7d17e0962c50c1",
       "title": "Mark Gatiss (Retro) - \"Cucumber Coward\"",
@@ -22902,6 +22927,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — Lorna Rose Treen - "A 94 Year-Old-Woman Crawling Out of a Pile of Clothes" — speakers: Lorna Rose Treen, Richard Herring
 - 2026-06-22 — Mark Gatiss (Retro) - "Cucumber Coward" — speakers: Mark Gatiss, Coward Richard, Richard Herring
 - 2026-06-20 — Rich and Ally's Craven Newsround Compilation "V-Maxxing" — speakers: Richard Herring
 - 2026-06-19 — Evie King on Get Ahead of Being Dead - Book Club — speakers: Evie King, Richard Herring

@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-06-17T05:15:51+00:00`
-- checked_at: `2026-06-17T05:15:51+00:00`
-- etag: `"djEuMi4wOjE3ODE2NTQ0MzkzNTQ="`
+- fetched_at: `2026-06-24T04:35:18+00:00`
+- checked_at: `2026-06-24T04:35:18+00:00`
+- etag: `"djEuMi4wOjE3ODIyNzAwMzk1NjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-06-17T05:15:51+00:00",
+  "fetched_at": "2026-06-24T04:35:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,11 +26,30 @@
   ],
   "episodes": [
     {
+      "key": "4c43578b5ebd781afb34bd796b90a8ef0ccb4413",
+      "title": "Indira Varma",
+      "published_at": "2026-06-24T03:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/indira-varma",
+      "description": "This week the brilliant Indira Varma joins us for brunch. Known for her roles in Game of Thrones, The Night Manager, The Capture and now starring in the all-female production of Glengarry Glen Ross at The Old Vic, Indira popped over to New Cross and immediately became one of our dream foodie guests! We heard all about growing up in Bath with an Indian father and Swiss mother, the cabbage and peanut curry her dad taught her to make, working with friend of the podcast Ralph Fiennes, how theatre still gives her a thrill after all these years, and we are reminded of the best tip from Stanley Tucci when it comes to drinking cocktails! Plus Indira takes us through a spectacular last supper featuring deep-fried ricotta, spaghetti vongole, Swiss fondue and an ice cream finale. Don’t miss Indira starring in Glengarry Glen Ross at The Old Vic until 18th July, she is absolutely excellent in it. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1782146351255-00a72cba-33db-4c9d-b2c3-73fc8999ef92.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a3952a52734668997a253ee/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43033912",
+      "itunes_duration": "44:49",
+      "speakers": [
+        "Indira Varma"
+      ],
+      "topics": [
+        "indira",
+        "varma"
+      ]
+    },
+    {
       "key": "967db57bfefe297fc8c2de5d28144f52cdc19f7f",
       "title": "Oti Mabuse",
       "published_at": "2026-06-17T00:00:00+00:00",
       "link": "https://shows.acast.com/tablemanners/episodes/oti-mabuse",
-      "description": "In Strictly fabulous news, this week we’re joined by dance goddess, Oti Mabuse! Oti was beloved on Strictly Come Dancing in the UK, but she is also now head judge on the Irish version Dancing With the Stars - on top of that she is an author, presenter, podcaster and this week she has announced the wonderful news that she is pregnant with her second child! We heard all about Oti growing up in Pretoria and the delicious South African food her family would cook, being a destined dancer from age 4, competing in Blackpool from age 11, being best mates with gorgeous friend of the podcast Johannes Radebe, having more than double the invited guests turn up to her wedding, eating shark in Iceland, plus we discover the real meaning behind the name Oti! Thanks for popping over Oti, we can’t wait to try a traditional ’Seven Colours’ dish when we see you next. Oti’s latest book ‘Slow Burn’ is out now. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "In Strictly fabulous news, this week we’re joined by dance goddess, Oti Mabuse! Oti was beloved on Strictly Come Dancing in the UK, but she is also now head judge on the Irish version Dancing With the Stars - on top of that she is an author, presenter, podcaster and this week she has announced the wonderful news that she is pregnant with her second child! We heard all about Oti growing up in Pretoria and the delicious South African food her family would cook, being a destined dancer from age 4, competing in Blackpool from age 11, being best mates with gorgeous friend of the podcast Johannes Radebe, having more than double the invited guests turn up to her wedding, eating shark in Iceland, plus we discover the real meaning behind the name Oti! Thanks for popping over Oti, we can’t wait to try a traditional ’Seven Colours’ dish when we see you next. Oti’s latest book ‘Slow Burn’ is out now. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1781626119790-57af78ec-2e66-4022-8f5a-4377048bdb42.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a3174a4780d0f7579bc8244/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -7216,6 +7235,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — Indira Varma — speakers: Indira Varma
 - 2026-06-17 — Oti Mabuse — speakers: Oti Mabuse
 - 2026-06-10 — Jeff Goldblum — speakers: Jeff Goldblum
 - 2026-06-03 — Giorgio Locatelli — speakers: Giorgio Locatelli Ciao, Giorgio Loc

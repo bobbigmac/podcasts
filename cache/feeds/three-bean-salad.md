@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-06-17T05:15:51+00:00`
-- checked_at: `2026-06-17T05:15:51+00:00`
-- etag: `"a1a55-65467f497de61"`
-- last_modified: `Wed, 17 Jun 2026 00:15:22 GMT`
+- fetched_at: `2026-06-24T04:35:18+00:00`
+- checked_at: `2026-06-24T04:35:18+00:00`
+- etag: `"a24a3-654f4c5bafe1f"`
+- last_modified: `Wed, 24 Jun 2026 00:15:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-06-17T05:15:51+00:00",
+  "fetched_at": "2026-06-24T04:35:18+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "19792021779616f2de89f79469b69ade0a71eba9",
+      "title": "Seaside Towns",
+      "published_at": "2026-06-24T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/seaside-towns",
+      "description": "Seaside towns have had a shaky reputation ever since the people of Hastings lifted the rope for those meddlesome Normans. Almost a millennium on is it time their notoriety was reassessed? Owen of Rhyl thinks yes and that the people for the task are beans three. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/355e8d66-4853-4084-bdcf-a06ca77572ef/S21-E04-Seaside-Towns.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/146d7e0f-7919-4f8e-ab6b-568c043129ac.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=146d7e0f-7919-4f8e-ab6b-568c043129ac",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53562768",
+      "itunes_duration": "55:48",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "seaside",
+        "town"
+      ]
+    },
     {
       "key": "2d6106878993bc63878cefc11fc23b2729e50ca2",
       "title": "The Circus",
@@ -4312,6 +4333,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — Seaside Towns — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-06-17 — The Circus — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-06-10 — Agatha Christie — speakers: Agatha Christie, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-06-03 — Martial Arts — speakers: Martial Arts Munashe, Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge

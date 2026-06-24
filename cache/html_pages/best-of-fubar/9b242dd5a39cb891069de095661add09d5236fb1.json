@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=18",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=18",
-  "fetched_at": "2026-06-23T04:20:01+00:00",
+  "fetched_at": "2026-06-24T04:35:18+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=19",
   "episodes": [
+    {
+      "key": "f6860195e7189f0304afe81d9a6d44b53f99bf29",
+      "guid": "7af0c353-33e4-4bc7-9179-07f52953c947",
+      "title": "Best of FUBAR (30th January)",
+      "published_at": "2025-01-30T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-30th-january/",
+      "description": "A selection of highlights from the FUBAR vaults.",
+      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1738199479-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=7af0c353-33e4-4bc7-9179-07f52953c947&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "7e7502221fad115546140433f4b3f33166494de2",
       "guid": "298eafee-9017-4009-a3bc-041046198afb",
@@ -380,19 +393,6 @@
       "description": "A selection of highlights from the FUBAR vaults.",
       "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1735693877-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=777c763d-c3a3-4ba7-a3f8-28a6ba515a76&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "6fcafe60b9616ccf0171b81c1a7e5ffddee5a656",
-      "guid": "9603de69-c22c-49b7-b528-3adedaf65a1a",
-      "title": "Best of FUBAR (31st December)",
-      "published_at": "2024-12-31T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-31st-december/",
-      "description": "A selection of highlights from the FUBAR vaults.",
-      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1735607566-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=9603de69-c22c-49b7-b528-3adedaf65a1a&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null

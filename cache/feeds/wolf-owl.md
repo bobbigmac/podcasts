@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-06-16T11:33:31+00:00`
-- checked_at: `2026-06-16T11:33:31+00:00`
-- last_modified: `Tue, 16 Jun 2026 11:05:08 GMT`
+- fetched_at: `2026-06-24T04:35:18+00:00`
+- checked_at: `2026-06-24T04:35:18+00:00`
+- last_modified: `Tue, 23 Jun 2026 10:27:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-16T11:33:31+00:00",
+  "fetched_at": "2026-06-24T04:35:18+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,55 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4cc7c1b48fb5a433fb39b7000b25a49bd2937a09",
+      "title": "Plastic Surgery, Toilet Drama And Dental Nightmares",
+      "published_at": "2026-06-22T23:00:00+00:00",
+      "link": null,
+      "description": "Would Tom get a hair transplant? Would Rom get cosmetic work done? And is lending your mates money ever actually a good idea? On this week’s episode, the boys get into childhood films that shaped them, questionable fashion choices, pub stories and they tackle the age-old question of whether you should lend mates money. There’s also a trip down memory lane as Rom and Tom revisit an old photo of themselves, plus a deep dive into dental trauma. Don't forget to sign up to our Instagram broadcast channel for Wolf & Owl updates and keep sending your questions, dilemmas and voice notes to us at wolfowlpod@gmail.com. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:40 On excitement 05:45 Opinions on movies 12:27 Would the guys get work done? 13:10 A Tom & Rom throwback 14:39 Are moustache’s sexy? 15:26 Tom’s hero story 20:52 Why Tom stopped drinking 23:53 Rom’s dentist trauma 27:18 Lending mates money 35:11 Tom’s fashion faux pas 44:04 Tom’s poetic outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/123bb6b6-6e57-11f1-af39-03b9565c8942/image/c72048d83569d4433ad43abffc726de2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1272184811.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2929",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "plastic",
+        "surgery",
+        "toilet",
+        "drama",
+        "dental",
+        "nightmares"
+      ]
+    },
+    {
+      "key": "81da14239adec9fca8418a664829736b01685123",
+      "title": "Baked Beans, Chocolate Digestives and Declan Rice",
+      "published_at": "2026-06-18T23:01:00+00:00",
+      "link": null,
+      "description": "What way up should you eat a chocolate digestive biscuit? Is there anything that baked beans don’t go with? And why can’t Romesh ever be seen in public in Barcelona again? Also, our advice worked! Congratulations to the nervous numbat on his engagement! You too, could be the recipient of some potentially life-changing advice friends, send your questions, dilemmas, pictures and voice notes to us at wolfowlpod@gmail.com. A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 00:28 Proposal 03:02 Baked bean curry 07:58 Rom’s Barcelona story 12:51 Chocolate digestives 17:09 Stalkers vs fans 23:59 Drawings Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5728bb08-6b13-11f1-af08-1338d5a37d62/image/da6808ad79ed4733b3c11dd971c0ec49.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5904704073.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1726",
+      "speakers": [
+        "Declan Rice",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "baked",
+        "beans",
+        "chocolate",
+        "digestives",
+        "declan",
+        "rice"
+      ]
+    },
     {
       "key": "ccc2f73c5af14a734dc8724c40673e695ad3b51a",
       "title": "Matching Tattoos, Conspiracy Theories and Kevin Hart Roast",
@@ -6944,6 +6993,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-22 — Plastic Surgery, Toilet Drama And Dental Nightmares — speakers: Romesh Ranganathan, Tom Davis
+- 2026-06-18 — Baked Beans, Chocolate Digestives and Declan Rice — speakers: Declan Rice, Romesh Ranganathan, Tom Davis
 - 2026-06-15 — Matching Tattoos, Conspiracy Theories and Kevin Hart Roast — speakers: Conspiracy Theories, Kevin Hart Roast, Will Heartbreak, Romesh Ranganathan, Tom Davis
 - 2026-06-11 — Pablo Escobart, Pigs and Massages — speakers: Pablo Escobart, Romesh Ranganathan, Tom Davis
 - 2026-06-08 — Robert De Niro, Traitors and the UCL Final — speakers: Robert De Niro, Romesh Ranganathan, Tom Davis
