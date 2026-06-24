@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-06-22T18:53:29+00:00`
-- checked_at: `2026-06-22T18:53:29+00:00`
-- etag: `"djEuMi4wOjE3ODIwMzQ0OTA4NDc="`
+- fetched_at: `2026-06-24T17:17:52+00:00`
+- checked_at: `2026-06-24T17:17:52+00:00`
+- etag: `"djEuMi4wOjE3ODIzMTU1MjkzMjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,30 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-06-22T18:53:29+00:00",
+  "fetched_at": "2026-06-24T17:17:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "22c9083c17e339d1773137bc92419c0997a7a5f3",
+      "title": "Beginning of the end of Keir Starmer | PMQs analysed",
+      "published_at": "2026-06-24T15:38:49+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a3bfa095a67dba1ad2c8e79",
+      "description": "Ava and Andy take to the studio to break down Keir Starmer's first PMQs since resigning, where he defended his government's record since taking office in 2024. Download SAILY in your app store and use our code politicsjoe at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/politicsjoe Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a3bfa095a67dba1ad2c8e79/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63785860",
+      "itunes_duration": "33:10",
+      "speakers": [],
+      "topics": [
+        "keir",
+        "starmer"
+      ]
+    },
     {
       "key": "cfbd7f6183069638901c95ab58f2e119631661fb",
       "title": "The Biggest Lie about Capitalism | Mariana Mazzucato interview",
@@ -13393,6 +13410,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — Beginning of the end of Keir Starmer | PMQs analysed
 - 2026-06-21 — The Biggest Lie about Capitalism | Mariana Mazzucato interview — speakers: Mariana Mazzucato
 - 2026-06-19 — Is Andy Burnham's win the death of Blue Labour? | Jonathan Hinder interview — speakers: Andy Burnham, Jonathan Hinder
 - 2026-06-17 — Going deep on the Makerfield by-election

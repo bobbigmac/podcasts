@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-06-16T17:20:29+00:00`
-- checked_at: `2026-06-16T17:20:29+00:00`
-- etag: `W/"3fe97f34a98e18e2c88ff695ea06dfad"`
-- last_modified: `Tue, 16 Jun 2026 15:36:04 GMT`
+- fetched_at: `2026-06-24T17:17:52+00:00`
+- checked_at: `2026-06-24T17:17:52+00:00`
+- etag: `W/"a33388ade1cdac56986d66cdbccc6a36"`
+- last_modified: `Wed, 24 Jun 2026 12:29:53 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-06-16T17:20:29+00:00",
+  "fetched_at": "2026-06-24T17:17:52+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,27 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "852306843be32e5ac82ea0ea6a3c5f3f613179a7",
+      "title": "184: Coup What A Scorcher",
+      "published_at": "2026-06-24T11:58:27+00:00",
+      "link": "https://audioboom.com/posts/8920327",
+      "description": "The Private Eye team, minus Andy but plus Matt Muir, wave a sad farewell to Keir Starmer and prepare themselves for Andy Burnham and the Burnaissance. Also: is Nigel Farage running out of steam?",
+      "image_url": "https://audioboom.com/i/43712270/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8920327.mp3?modified=1782304077&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2419",
+      "speakers": [
+        "Matt Muir",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "coup",
+        "scorcher"
+      ]
+    },
     {
       "key": "e21e9c25b6ce3b7e6fb4d50d89e344d3c404e580",
       "title": "183: Fight! Fight! Fight!",
@@ -3913,6 +3934,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — 184: Coup What A Scorcher — speakers: Matt Muir, Andrew Hunter Murray, Ian Hislop
 - 2026-06-16 — 183: Fight! Fight! Fight! — speakers: Sarah Shannon, Andrew Hunter Murray, Ian Hislop
 - 2026-06-02 — 182: Make Hay — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-06-01 — 181: And The Winner Is... — speakers: Andrew Hunter Murray, Ian Hislop

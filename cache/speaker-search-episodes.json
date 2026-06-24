@@ -2,6 +2,72 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:71ff8532d9f4",
+        "feed_title": "Films To Be Buried With with Brett Goldstein",
+        "source_rss_url": "https://feeds.megaphone.fm/QCD8204217646",
+        "dedupe_key": "fcebe97d047735bbb0a92ac96fdf09e5f710a07f",
+        "episode_key": "fcebe97d047735bbb0a92ac96fdf09e5f710a07f",
+        "title": "James Acaster • The Black Lodge (Off Menu / Hecklers Welcome / Repertoire)",
+        "published_at": "2026-06-24T07:19:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "LOOK OUT! It’s only Films To Be Buried With!\n\nJoin your host Brett Goldstein as he talks life, death, love and the universe (for a fourth time) with the genie himself, long term friend and comic / actor / podcaster JAMES ACASTER! The BLACK LODGE!\n\n(...Also known as TV TO BE BURIED WITH). It was long journey getting her",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD1904781007.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster-the-black-lodge-off-menu-hecklers/id1408585620?i=1000774004793&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "077e6e824b7e6a041e367752b3beb87a4f3b8eb2",
+        "episode_key": "077e6e824b7e6a041e367752b3beb87a4f3b8eb2",
+        "title": "Josh Widdicombe XFM #36 – James Acaster Agony Uncle 1, Nish Kumar, Tiffany Stevenson.",
+        "published_at": "2026-06-24T05:24:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster's new feature, Agony Uncle (Moral Maze), begins. Nish Kumar's Nishapedia also begins with a Sadam Hussain conspiracy and Tiffany Stevenson joins Josh in the studio.Broadcast on 27th January 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO1319684135.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-36-james-acaster-agony-uncle-1/id1866254969?i=1000773994681&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "e800f401102d47c3f6a9409ed3d6d106e1dc1860",
+        "episode_key": "e800f401102d47c3f6a9409ed3d6d106e1dc1860",
+        "title": "Josh Widdicombe XFM #35 – Christmas - James Acaster Classic Scrape 30, Elis James, Matthew Crosby",
+        "published_at": "2026-06-23T18:23:10Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster shares a Christmas Scrape, Elis joins Josh in the studio and Matthew Crosby reads from the autobiography of Des O' Connor.Broadcast on 23rd December 2013.",
+        "audio_url": "https://traffic.megaphone.fm/APO4724128480.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-35-christmas-james-acaster-classic/id1866254969?i=1000773924288&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
@@ -10821,6 +10887,29 @@
       }
     ],
     "richard-herring": [
+      {
+        "feed_slug": "external:apple:d0be578e4e4b",
+        "feed_title": "pplpod",
+        "source_rss_url": "https://media.rss.com/pplpod/feed.xml",
+        "dedupe_key": "9ff16fa6ec493b5724edfd35b541ce71747088e5",
+        "episode_key": "9ff16fa6ec493b5724edfd35b541ce71747088e5",
+        "title": "Stewart Lee: The Comedian Who Built a Career by Alienating His Audience",
+        "published_at": "2026-06-23T11:26:47Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Imagine landing a coveted BBC television slot and then writing an anonymous review tearing your own performance to shreds, or printing a critic's brutal insult in giant letters on your promotional posters. That is exactly the kind of self-sabotaging genius that defines Stewart Lee, the man the Times once dubbed the com",
+        "audio_url": "https://content.rss.com/episodes/344999/2937397/pplpod/2026_06_23_10_16_56_c9f9a563-224c-4b2f-9056-cf7e335e1817.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee-the-comedian-who-built-a-career/id1836423938?i=1000773876430&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring",
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "Richard Herring's Leicester Square Theatre Podcast (RHLSTP)",
