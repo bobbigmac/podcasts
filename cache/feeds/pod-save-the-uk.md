@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-06-18T05:01:40+00:00`
-- checked_at: `2026-06-18T05:01:40+00:00`
-- etag: `W/"90d72dec55f87a6178a3735bc14bf59d"`
-- last_modified: `Thu, 18 Jun 2026 01:00:00 GMT`
+- fetched_at: `2026-06-25T04:33:59+00:00`
+- checked_at: `2026-06-25T04:33:59+00:00`
+- etag: `W/"d28f4fee7439a9ce6562e28816250c6f"`
+- last_modified: `Thu, 25 Jun 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-06-18T05:01:40+00:00",
+  "fetched_at": "2026-06-25T04:33:59+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7445791065247f83a4c75b8ca35c77855a723497",
+      "title": "Starmer Resigns! Listen up, Labour: Lessons learned from the Trump trap w/ Ben Rhodes",
+      "published_at": "2026-06-25T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8920527",
+      "description": "As Ben Rhodes says on this week’s episode, “we’re in a revolutionary moment globally”. Joining Nish and Coco from sister show Pod Save the World, Ben shares (and despairs) about the state of UK and US politics, and tells us what we can take from the Democrats’ disaster of 2024. Isn’t it time that progressives got their own populist? Plus, we hear about Ben’s new book, ‘All We Say’, tracing American history through some of its most famous–and infamous–speeches. We talk to him about the similarities between Britain and America both losing their way when it comes to national identity, and how our leaders need to tell it like it is. We can handle the truth! Also on the show, New Statesman Editor Tom McTague dissects Starmer’s swan song, his last minute decision not to challenge Burnham for leadership, and sets out why it all went wrong for a man who won a landslide victory less than two years ago. USEFUL LINKS Grab a copy of Ben’s new book, All We Say: https://www.penguin.co.uk/books/470622/all-we-say-by-rhodes-ben/9781847928887 Ailbhe Rea’s recent piece in the New Statesman: https://www.newstatesman.com/politics/labour/2026/06/what-happens-now Tom McTague’s interview with Keir Starmer: https://www.newstatesman.com/politics/2025/06/what-keir-starmer-cant-say GUESTS Ben Rhodes Tom McTague CHECK OUT THESE DEALS FROM OUR SPONSORS SAILY: https://www.saily.com/podsave HRF Power Plays: Search Power Plays wherever you get your podcasts. VANTA: https://www.vanta.com/PSTUK WISE: https://www.wise.com BT: Search ‘Why BT’ to find out more. Pod Save the UK is an Intelligence Squared production for Crooked Media. Get in touch - contact us via email: podsavetheuk@crooked.com we’d love to hear from you as we plan to do a mailbag episode soon: end any questions, thoughts, or musings our way! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43712998/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8920527.mp3?modified=1782327630&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3923",
+      "speakers": [
+        "Ben Rhodes",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "starmer",
+        "resigns",
+        "labour",
+        "lesson",
+        "trump",
+        "trap",
+        "rhodes"
+      ]
+    },
     {
       "key": "6ccad77ec0a0dd158b8d1118a6698a2461697867",
       "title": "Makerfield decides, Labour holds its breath…Plus, Palestine Action & Social Media bans w/ Akiko Hart",
@@ -65,7 +91,7 @@
       "link": "https://audioboom.com/posts/8914988",
       "description": "This week, as the far-right continues to fan the flames of violence and division, Coco and Nish are joined by Hasan Piker: Twitch streamer, influencer, and left-wing political commentator who was recently blocked from entering the UK. They dig into what makes him “not conducive to the public good”, and why it’s important to speak the truth–however that comes across. They also talk about political allegiances, the future of progressive politics, and the worrying rise of far-right MAGA movements across the world. Does a Labour government have the answer? GUESTS Hasan Piker CHECK OUT THESE DEALS FROM OUR SPONSORS AURA FRAMES: https://www.auraframes.co.uk Code: PSTUK WISE: https://www.wise.com BT: Search ‘Why BT’ to find out more. Pod Save the UK is an Intelligence Squared production for Crooked Media. Get in touch - contact us via email: podsavetheuk@crooked.com Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43691359/s=1400x1400/el=1/rt=fill.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8914988.mp3?modified=1781112700&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8914988.mp3?modified=1781189525&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3858",
@@ -117,7 +143,7 @@
       "link": "https://audioboom.com/posts/8908534",
       "description": "This week, Nish and Coco head back to Makerfield, where the by-election campaign is already turning into a political demolition derby; Andy Burnham is just ahead of Reform, the far right is fighting itself, Elon Musk has wandered into the discourse, and Nigel Farage has reappeared after questions over his £5 million gift. Plus: they’re joined by Hettie O’Brien, journalist and author of The Asset Class, to break down how private equity quietly bought up the services we rely on, from nurseries and care homes to vets and water companies, and why that matters for the broken economy we’re all living in. GUESTS Hettie O'Brien, journalist and author of The Asset Class: How Private Equity Turned Capitalism Against Itself USEFUL LINKS Amnesty Report | Like a snowball: the growth and impact of the gender critical movement in the UK Tony Blair Article | The Labour Party Is Playing With Fire Over Its Future and the Future of the Country by CLIP CREDITS Carol Vorderman via Instagram, (@carolvorders) CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://shopify.co.uk/podsavetheuk AURA FRAMES: https://www.auraframes.com Code: PSTUK BT: Search ‘Why BT’ to find out more. Pod Save the UK is an Intelligence Squared production for Crooked Media. Get in touch - contact us via email: podsavetheuk@crooked.com Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43676651.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8908534.mp3?modified=1779972691&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8908534.mp3?modified=1780499234&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4001",
@@ -3905,6 +3931,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — Starmer Resigns! Listen up, Labour: Lessons learned from the Trump trap w/ Ben Rhodes — speakers: Ben Rhodes, Nish Kumar, Coco Khan
 - 2026-06-18 — Makerfield decides, Labour holds its breath…Plus, Palestine Action & Social Media bans w/ Akiko Hart — speakers: Akiko Hart, Nish Kumar, Coco Khan
 - 2026-06-11 — Hasan Piker: “Not Conducive to the Public Good”? — speakers: Hasan Piker, Nish Kumar, Coco Khan
 - 2026-06-04 — The Mandelson Files: Chaos Inside Labour? Plus: Sabah Choudrey on the Culture War over Public Spaces — speakers: Sabah Choudrey, Peter Mandelson, Nish Kumar, Coco Khan
