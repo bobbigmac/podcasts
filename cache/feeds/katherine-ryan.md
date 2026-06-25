@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-06-15T23:08:14+00:00`
-- checked_at: `2026-06-15T23:08:14+00:00`
-- etag: `"djEuMi4wOjE3ODE1NTY2MjA0NTM="`
+- fetched_at: `2026-06-25T20:22:18+00:00`
+- checked_at: `2026-06-25T20:22:18+00:00`
+- etag: `"djEuMi4wOjE3ODI0MTg1NTQ5MjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-06-15T23:08:14+00:00",
+  "fetched_at": "2026-06-25T20:22:18+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "326290dd2f31d733dc0d8a818559db7f7d74b8f6",
+      "title": "In Conversation With Erica Komisar",
+      "published_at": "2026-06-25T20:15:54+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/in-conversation-with-erica-komisar",
+      "description": "She's the one who compared daycare to an orphanage (sort of) and said that when you let you babies 'cry it out' or are gone for prolonged periods of time, they assume you've died (kinda). That's how it may seem in short online clips, but the truth of what she has to say regarding neurology and attachment theory is far more complex. This week, Katherine's Telling Everybody Everything about brilliant psychoanalyst, author, and parent guidance expert, Erica Komisar as she joins us at Acast studios in London to discuss her newest book, The Child-Friendly Divorce. A sometimes controversial figure, The Left often rejects Ms Komisar's work because they see it as a retrogressive guilt-trip to push women out of the workforce. The Right embraces it to enforce traditional gender roles. Is anyone actually listening to the nuance of what she's saying regarding motherhood, criticism of how Western Capitalism pushes families to their limits and the toll it's taking on children and their mental health? Lots of people are actually, and Erica Komisar was recently featured on THE ACTUAL Kardashians! Whether you're about to be a parent, you're in the midst of parenting, or you didn't have the tools or information to parent the way you would if you could do it all again and you'd like to strengthen your parent-child bond now, it's never too late for repair. If you're going through a divorce, are thinking of leaving, or are single and wanting some RED FLAG case studies on why you should be super careful, Erica Komisar's The Child-Friendly Divorce is for you. www.komisar.com @EricaKomisar Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1782415966054-3fe55abd-b7c4-4241-9522-deb65e1beb97.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a3d8c7acb67fc75ea976f7a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96838553",
+      "itunes_duration": "1:07:14",
+      "speakers": [
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "conversation",
+        "erica",
+        "komisar"
+      ]
+    },
     {
       "key": "4cd285e51209214cccba27909f3a8eac0c536756",
       "title": "Body Autonomy and THAT Baby Shower",
@@ -6274,6 +6294,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — In Conversation With Erica Komisar — speakers: Katherine Ryan
 - 2026-06-15 — Body Autonomy and THAT Baby Shower — speakers: Body Autonomy, Baby Shower, Katherine Ryan
 - 2026-06-09 — Bobby Skips Town — speakers: Bobby Skips Town, Katherine Ryan
 - 2026-06-02 — Mr Tumble Age Gap Love — speakers: Tumble Age Gap Love, Katherine Ryan
