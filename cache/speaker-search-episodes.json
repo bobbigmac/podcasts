@@ -34961,6 +34961,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8d40a41faea8",
+        "feed_title": "City Arts & Lectures",
+        "source_rss_url": "https://feeds.feedburner.com/CityArts",
+        "dedupe_key": "1f7ebcd6c369d52dda57ea8e7d830da51975d678",
+        "episode_key": "1f7ebcd6c369d52dda57ea8e7d830da51975d678",
+        "title": "David Mitchell and Pico Iyer - Encore",
+        "published_at": "2025-07-13T20:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We’re going back into the archives for a conversation with David Mitchell, recorded in 2021.  In novels like Cloud Atlas, and The Bone Clocks, Mitchell weaves together the supernatural and the natural. He’s also one of the most structurally inventive writers of our time, featuring multiple genres in a single book. \n On",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/178/be36c881-dac1-4b72-9541-006596585233/CityArtsPodcastSegA-EveryWeek.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-and-pico-iyer-encore/id1436346407?i=1000717080826&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:d728623419b4",
         "feed_title": "Speculative Speculations",
         "source_rss_url": "https://anchor.fm/s/f16676a4/podcast/rss",

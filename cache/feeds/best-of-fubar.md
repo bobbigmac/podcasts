@@ -2,8 +2,8 @@
 
 - slug: `best-of-fubar`
 - source: `https://www.fubarradio.com/player/on-demand/best-of-fubar/`
-- fetched_at: `2026-06-24T04:35:18+00:00`
-- checked_at: `2026-06-24T04:35:18+00:00`
+- fetched_at: `2026-06-25T03:03:03+00:00`
+- checked_at: `2026-06-25T03:03:03+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/best-of-fubar/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/best-of-fubar/",
   "image_url": "",
-  "fetched_at": "2026-06-24T04:35:18+00:00",
+  "fetched_at": "2026-06-25T03:03:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "16cce415ecf2f3b0b4c1d35cf5a4462b2801086c",
+      "guid": "8dfa9794-63c5-47f3-bf6b-d7d5b679b950",
+      "title": "Best of FUBAR (25th June)",
+      "published_at": "2026-06-25T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-25th-june1/",
+      "description": "A selection of highlights from the FUBAR vaults.",
+      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1782345802-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=8dfa9794-63c5-47f3-bf6b-d7d5b679b950&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "36e143a7ebda2f1dff60c66ff4ce9d38901ee8ed",
       "guid": "f10173ec-77ab-4326-aa76-cc360569b707",
@@ -8793,6 +8806,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — Best of FUBAR (25th June)
 - 2026-06-24 — Best of FUBAR (24th June)
 - 2026-06-23 — Best of FUBAR (23rd June)
 - 2026-06-22 — Best of FUBAR (22nd June)

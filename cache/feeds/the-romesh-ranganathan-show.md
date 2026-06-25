@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-06-22T12:25:33+00:00`
-- checked_at: `2026-06-22T12:25:33+00:00`
-- last_modified: `Mon, 22 Jun 2026 06:13:14 GMT`
+- fetched_at: `2026-06-25T03:03:03+00:00`
+- checked_at: `2026-06-25T03:03:03+00:00`
+- last_modified: `Wed, 24 Jun 2026 23:10:14 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-22T12:25:33+00:00",
+  "fetched_at": "2026-06-25T03:03:03+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,22 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "0aea39a4d33ca1ecbc9c477fc937a00e2a4c7975",
+      "title": "Are Men Who Take Their Tops Off An Ick?",
+      "published_at": "2026-06-24T23:01:00+00:00",
+      "link": null,
+      "description": "Would you drink Marmite? Shanthi does. In this Thursday episode of The Romesh Ranganathan Show, Shanthi reveals her unusual homemade drink, shares her hot takes on summer fashion and the pair team up to answer your listener dilemmas. Debating everything from shirtless men, bucket hats and giant sunglasses to barbecues, iced coffee and whether fruit belongs in a salad, Shanthi voices her opinion on all of it. We also answer your problems, including a debate about personal hygiene habits and how to deal with family members whose views belong in another century. A Ranga Bee Production in partnership with Platform. Chapters 00:00 Intro 01:33 Does Shanthi know Eve? 03:38 Shanthi’s marmite recipe 04:25 Summer fashion takes 18:13 Shanthi’s new profile pic 19:42 Answering your dilemmas 32:18 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c71507ba-6fea-11f1-8de7-136e48c354b8/image/1d20f57b5acb1ea44d0c973da4d28644.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1133402720.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2189",
+      "speakers": [
+        "Romesh Ranganathan"
+      ],
+      "topics": []
+    },
     {
       "key": "493c64312d610d21eaab79d80ac209b2f94d2d60",
       "title": "Eve on Dr Dre, Battle Rapping and Living In The UK",
@@ -1813,6 +1829,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — Are Men Who Take Their Tops Off An Ick? — speakers: Romesh Ranganathan
 - 2026-06-22 — Eve on Dr Dre, Battle Rapping and Living In The UK — speakers: Dr Dre, Battle Rapping, Romesh Ranganathan
 - 2026-06-17 — The Australia Special — speakers: Romesh Ranganathan
 - 2026-06-14 — ShxtsNGigs On WORST Fan Interactions, Imposter Syndrome & Touring — speakers: Romesh Ranganathan

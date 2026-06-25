@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-06-18T05:01:40+00:00`
-- checked_at: `2026-06-18T05:01:40+00:00`
-- last_modified: `Wed, 17 Jun 2026 23:07:44 GMT`
+- fetched_at: `2026-06-25T03:03:03+00:00`
+- checked_at: `2026-06-25T03:03:03+00:00`
+- last_modified: `Wed, 24 Jun 2026 23:09:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-18T05:01:40+00:00",
+  "fetched_at": "2026-06-25T03:03:03+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,30 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "55faa283f30071b104207c80a20e8d4f2f4913cc",
+      "title": "The Prediction Game: Half-Time Report",
+      "published_at": "2026-06-24T23:00:00+00:00",
+      "link": null,
+      "description": "Cast your minds back to the start of the year, in the dank, dark depths of winter, when our intrepid hosts, full of hope and joy, set out their stalls with their most hotly anticipated games of the year and risked it all to be crowned Best Boy 2026. Fast forward to late June: sweltering heat, the world in a state of turmoil, the perfect time to check in on how they're getting on. What are their scores so far? Any delays? Has Novellie's Curse struck again? The Boys will have a chance to change course by swapping out a game, but will they waver? But before that, we catch up with Pierre's honeymoon in the Land of the Rising Sun, Sarah's gnarly experience with game customisation and Glenn's HD-2D adventures. To follow along with the Button Boys outside the podcast: BUTTON BOYS LIVE Pierre - ⁠ You Sit There, I'll Stand Here⁠ If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Age of Empires II Tourney, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: OlliOlli World Cuphead The Adventures of Elliot: The Millennium Tales Octopath Traveler Devil May Cry 007: First Light Mewgenics Grave Seasons Marvel’s Wolverine Panzer Strike Hell Let Loose: Vietnam My Arms Are Longer Now Book Smugglers Resident Evil Requiem Esoteric Ebb Grand Theft Auto VI Tides of Tomorrow Blitzkrieg Command & Conquer Steel Division Zero Parades: For Dead Spies MOUSE: P.I. For Hire Kingmakers Scarlet Deer Inn Mixtape Grand Theft Auto: Vice City Grand Theft Auto: San Andreas Grand Theft Auto III Grand Theft Auto IV Grand Theft Auto V Red Dead Redemption Red Dead Redemption 2 Half-Life 2 Silent Hill: Townfall Onimusha: Way of the Sword Marvel’s Spider-Man The Legend of Zelda: Ocarina of Time Remake Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR7518442438.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3126",
+      "speakers": [
+        "Time Report Cast",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "prediction",
+        "game",
+        "time",
+        "report"
+      ]
+    },
     {
       "key": "99e197d0cc1cd93304c319dca7604dadce06f4ba",
       "title": "The Last of Us: A Button Boys Special",
@@ -1151,6 +1175,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — The Prediction Game: Half-Time Report — speakers: Time Report Cast, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-06-17 — The Last of Us: A Button Boys Special — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-06-10 — Til Death Do Us Restart — speakers: Til Death, Button Boys, Leicester Square, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-06-03 — Empty Calorie Gaming — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie

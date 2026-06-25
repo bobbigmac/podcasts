@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-06-24T15:06:56+00:00`
-- checked_at: `2026-06-24T15:06:56+00:00`
-- last_modified: `Wed, 24 Jun 2026 14:37:31 GMT`
+- fetched_at: `2026-06-25T03:03:03+00:00`
+- checked_at: `2026-06-25T03:03:03+00:00`
+- last_modified: `Wed, 24 Jun 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/741a3be12916743e1552a965b3e44e89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-24T15:06:56+00:00",
+  "fetched_at": "2026-06-25T03:03:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "55ef7b3077d387ee820f593c4eb863b95c6a59ed",
+      "title": "547. The Truth About Russian Oil, Net Zero, and North Sea Drilling",
+      "published_at": "2026-06-24T23:00:00+00:00",
+      "link": null,
+      "description": "With the UK and Europe sweltering in yet another record-breaking heatwave, will we ever actually reach net zero? How close are we to a “lights out” scenario due to the Iran war, and how did we become so dependent on Russian oil? Is North Sea drilling for oil and gas a matter of national security, or an environmentally reckless fantasy? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time, with the European Commissioner for Energy and Housing, Dan Jørgensen. __________ Enjoy Rory and Alastair’s interview with Steve Rosenberg by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/24d60482-6fc1-11f1-be8a-4bf0d426d883/image/a4cb1b37926784db8425f5bb931ce470.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2357786231.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3585",
+      "speakers": [],
+      "topics": [
+        "truth",
+        "russian",
+        "zero",
+        "north",
+        "drilling"
+      ]
+    },
     {
       "key": "c73ff089d8c8e90b800366b3c4c692f1158a17d2",
       "title": "546. Keir Starmer Resigns: What Happens Next?",
@@ -12223,6 +12243,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-24 — 547. The Truth About Russian Oil, Net Zero, and North Sea Drilling
 - 2026-06-22 — 546. Keir Starmer Resigns: What Happens Next?
 - 2026-06-19 — 545. Burnham Beats Reform: Britain’s Next Prime Minister? — speakers: Burnham Beats Reform, Andy Burnham
 - 2026-06-17 — 544. How Trump Is Weaponising AI and Martial Arts at the White House — speakers: Martial Arts
