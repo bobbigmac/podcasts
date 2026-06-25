@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-06-22T05:30:23+00:00`
-- checked_at: `2026-06-22T05:30:23+00:00`
-- etag: `"djEuMi4wOjE3ODIxMDI2Mzk0Mjg="`
+- fetched_at: `2026-06-25T15:11:56+00:00`
+- checked_at: `2026-06-25T15:11:56+00:00`
+- etag: `"djEuMi4wOjE3ODIzOTQyMzk0NzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-06-22T05:30:23+00:00",
+  "fetched_at": "2026-06-25T15:11:56+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f2567430e61aaeb7b425f83077089c33a5a2091b",
+      "title": "The Flash - Caravan Of Garbage",
+      "published_at": "2026-06-25T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/the-flash-caravan-of-garbage",
+      "description": "For our final look at Supergirl, we're returning to the DCEU. And also Earth 89, Earth 789, Earth 30, Earth 66, Earth 203, Earth 789, and a reboot. That's right, we're taking a look at The Flash (2023), which aimed to be both a love letter to and the end of the Zack Snyder DC Universe, while also serving as an introduction to James Gunn's DCU. All your favourites are back: Michael Keaton, Ben Affleck, George Clooney, and Adam West as Batman, along with Wonder Woman, Aquaman, a pretty solid interpretation of Supergirl from Sasha Calle, and Ezra Miller's The Flash, I guess, if you're into that kind of thing. And it's awful. Thanks for watching our Caravan of Garbage review. SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a2d0a16e6540bec0ff99e25/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34532182",
+      "itunes_duration": "33:26",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "flash",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "98e3db52e36627d5006ae67651c45c42f5f07107",
       "title": "628 Toy Story 5",
@@ -22548,6 +22569,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — The Flash - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-06-22 — 628 Toy Story 5 — speakers: Toy Story, Toy Stor, James Clement, Nick Mason
 - 2026-06-19 — The Supergirl TV Show (Extended) - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-06-15 — 627 More Spider-Man leaks & Disclosure Day! — speakers: More Spider, Disclosure Day, James Clement, Nick Mason

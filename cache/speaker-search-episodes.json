@@ -21113,6 +21113,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:aa8b267d19fc",
+        "feed_title": "Wet Cold Irish Summer",
+        "source_rss_url": "https://anchor.fm/s/10b450a54/podcast/rss",
+        "dedupe_key": "3d3fbde80f5931df73b04e89da08528b8b2ec6df",
+        "episode_key": "3d3fbde80f5931df73b04e89da08528b8b2ec6df",
+        "title": "27. Comedian Stewart Lee, Cork Opera House: 'Wrestling my Werewolf'",
+        "published_at": "2026-06-23T23:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The boys go to see alternative comedy legend Stewart Lee as he performs his show ‘STEWART LEE VS THE MAN-WULF’ at Cork Opera House. \nDoes this count as local tourism, and thus fulfil the remit of the podcast? Sure. Why the hell not\n-\n\nRECOMMENDEDs:\nSTAND-UP/TV:\nStewart Lee vs The Man-Wulf (2026)Basic Lee (2024)Content ",
+        "audio_url": "https://anchor.fm/s/10b450a54/podcast/play/121874149/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-23%2F9e63daf6-d46f-2d37-fcf4-1c0497a5e59c.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/27-comedian-stewart-lee-cork-opera-house-wrestling/id1850849824?i=1000773950784&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:d0be578e4e4b",
         "feed_title": "pplpod",
         "source_rss_url": "https://media.rss.com/pplpod/feed.xml",
@@ -26486,6 +26508,72 @@
       }
     ],
     "nish-kumar": [
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "440d6a0a9597619e8e354a94a9f8adb4858d65c8",
+        "episode_key": "440d6a0a9597619e8e354a94a9f8adb4858d65c8",
+        "title": "Josh Widdicombe XFM #40 – James Acaster, Kerry Godliman, Nish Kumar",
+        "published_at": "2026-06-25T10:28:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Kerry Godliman joins Josh in the studio, Nish Kumar has another conspiracy theory and James Acaster reads a scrape sent in by a viewer.Broadcast on 4th March 2014",
+        "audio_url": "https://traffic.megaphone.fm/APO7876018684.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-40-james-acaster-kerry-godliman/id1866254969?i=1000774174485&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "f1c585d67b4f8c7f54af18786202f73e31e0b574",
+        "episode_key": "f1c585d67b4f8c7f54af18786202f73e31e0b574",
+        "title": "Josh Widdicombe XFM #39 – John Robins, Nish Kumar, Ivo Graham",
+        "published_at": "2026-06-25T05:25:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "John Robins and Ivo Graham join Josh in the studio. Nish discusses his craziest conspiracy theory yet.Broadcast on 18th February 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO4281064589.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-39-john-robins-nish-kumar-ivo-graham/id1866254969?i=1000774147382&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "f78d3f169891dfa9c786fb335250ebc299abd6cc",
+        "episode_key": "f78d3f169891dfa9c786fb335250ebc299abd6cc",
+        "title": "Josh Widdicombe XFM #38 – James Acaster Agony Uncle 2, Miles Jupp, Nish Kumar",
+        "published_at": "2026-06-24T18:24:46Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster gives another listener some advice, Nish Kumar shares another conspiracy theory and Miles Jupp joins Josh in the studio.Broadcast on 11th February 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO1819623712.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-38-james-acaster-agony-uncle-2/id1866254969?i=1000774080162&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",

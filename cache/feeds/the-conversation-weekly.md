@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-06-18T15:52:36+00:00`
-- checked_at: `2026-06-18T15:52:36+00:00`
-- etag: `"25831a-6548622e95f13"`
-- last_modified: `Thu, 18 Jun 2026 12:15:48 GMT`
+- fetched_at: `2026-06-25T15:11:56+00:00`
+- checked_at: `2026-06-25T15:11:56+00:00`
+- etag: `"259644-655139351770d"`
+- last_modified: `Thu, 25 Jun 2026 13:00:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-06-18T15:52:36+00:00",
+  "fetched_at": "2026-06-25T15:11:56+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,27 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "3dcaeb1b9fa46c395b77e8210615077fa677aea0",
+      "title": "Cockroach party hits nerve with angry young Indians",
+      "published_at": "2026-06-25T13:00:00+00:00",
+      "link": "https://theconversation.com/the-youth-jobs-crisis-fuelling-indias-cockroach-janta-party-protests-286063",
+      "description": "A new youth protest movement in India that started as online satire is now staging an ongoing sit-in in New Delhi calling for the resignation of India’s education minister. The Cockroach Janta Party (CJP) was launched in late May by Abhijeet Dipke, a graduate of Boston University, in response to alleged comments by India's chief justice, Surya Kant, comparing unemployed young Indians to cockroaches. Dipke launched a parody political party, calling on all cockroaches to unite, which led to street protests in cities including Delhi, Pune, Jaipur and Bengaluru. The CJP latched onto mounting anger in India at a series of issues affecting exams, including the secondary school leaving exam, which has affected thousands of people and been linked to suicides. But the movement has also tapped into the anger of a generation of graduates who’ve done everything right but still can’t find work that matches their aspirations. In this episode economist Rosa Abraham at Azim Premji University, explains how India’s jobs crisis is fuelling this new youth protest movement. This episode was written and produced by Gemma Ware and Mend Mariwany. Mixing by Michelle Macklem and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/bfa8b871-70d8-4c4f-967b-df4387ab7855.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36914825",
+      "itunes_duration": "25:38",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "cockroach",
+        "party",
+        "nerve",
+        "indians"
+      ]
+    },
     {
       "key": "bf996a5601551fe53206fda2cbc724c59ce6102b",
       "title": "Teens are still on social media, but does that mean Australia's ban has failed?",
@@ -6017,6 +6038,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — Cockroach party hits nerve with angry young Indians — speakers: Gemma Ware
 - 2026-06-18 — Teens are still on social media, but does that mean Australia's ban has failed? — speakers: When Australia, Gemma Ware
 - 2026-06-11 — How the US finally fell in love with soccer — speakers: Roberto Baggio, Gemma Ware
 - 2026-06-04 — Two scientists on their race to make a new Ebola vaccine — speakers: Democratic Republic, Gemma Ware

@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-06-18T10:47:29+00:00`
-- checked_at: `2026-06-18T10:47:29+00:00`
-- etag: `"djEuMi4wOjE3ODE3Njk2Mzk0MjI="`
+- fetched_at: `2026-06-25T15:11:56+00:00`
+- checked_at: `2026-06-25T15:11:56+00:00`
+- etag: `"djEuMi4wOjE3ODIzNjM2Mzk3NjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-06-18T10:47:29+00:00",
+  "fetched_at": "2026-06-25T15:11:56+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "016ba5c165d26a8db1a84b73b48f0b38d3e199f7",
+      "title": "Amy Annette",
+      "published_at": "2026-06-25T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/513-amy-annette",
+      "description": "Amy Annette has been described by the Guardian as a ‘delight to behold’. Her debut hour ' Thick Skin ' was a total sell-out at Edinburgh and was nominated for Best New Show at the Leicester Comedy Festival. Prior to stand-up, she was an experienced producer, script editor and editorial consultant - and is currently working on the comedy drama, Pretty Face. She’s now back with Say What You Like About Me at Edinburgh this summer. We discuss: how Amy’s dual citizenship shaped her sense of humour how working with Amy Poehler's production company helped her unlearn needing to justify her right to space becoming aware of an audience's gaps in cultural knowledge why long development processes doesn't mean things are going badly how reviews describe women's comedy as \"vibe\" while crediting men's comedy as craft and we find out if Amy is happy... Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to exclusive extras including: how people get fixated on the wrong markers of success discovering The Artist's Way's concept of \" Shadow Artists \" and how success often comes from getting out of your own way 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Amy: Amy Annette: Say What You Like About Me is at the Pleasance Dome in Edinburgh at 17:30 from 5th to the 30th August. Find all the dates and more at amyannette.net . You can also keep-up-date on Instagram @TheAmyAnnette . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content with Amy ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE ON TOUR , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1782310543736-61e27cae-539c-4651-a8e9-d3332e0d3b89.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a3bea27e1238e54b00094dd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "98452224",
+      "itunes_duration": "1:08:22",
+      "speakers": [
+        "Amy Annette Amy Annette",
+        "Thick Skin",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "annette"
+      ]
+    },
     {
       "key": "c1bf6971d7e623f35209447da14856ca55abf6b0",
       "title": "Joe Wells",
@@ -11535,6 +11555,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — Amy Annette — speakers: Amy Annette Amy Annette, Thick Skin, Stuart Goldsmith
 - 2026-06-18 — Joe Wells — speakers: Joe Wells Joe Wells, Stuart Goldsmith
 - 2026-06-11 — Suzi Ruffell (2019): ComCompendium — speakers: Suzi Ruffell, Stuart Goldsmith
 - 2026-06-04 — Sara Pascoe Returns — speakers: Sara Pascoe, Stuart Goldsmith
