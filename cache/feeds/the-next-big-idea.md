@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-06-18T20:38:28+00:00`
-- checked_at: `2026-06-18T20:38:28+00:00`
-- last_modified: `Thu, 18 Jun 2026 09:00:00 GMT`
+- fetched_at: `2026-06-25T09:43:30+00:00`
+- checked_at: `2026-06-25T09:43:30+00:00`
+- last_modified: `Thu, 25 Jun 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-18T20:38:28+00:00",
+  "fetched_at": "2026-06-25T09:43:30+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,48 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "e22b87a6f94120b801a2814db4c6d40cc968aa9d",
+      "title": "THE GOD TEST (Part 1): Are You Ready for Superintelligence?",
+      "published_at": "2026-06-25T09:00:00+00:00",
+      "link": null,
+      "description": "Does the logic of human destiny now lead to artificial intelligence? Are we creating a higher form of intelligence in our own image? And, if so, what kind of image is that? These are the questions celebrated author Robert Wright asks in his new book, The God Test , which was published this week. Bob argues that we should not be surprised to see signs of deception, power-seeking, flattery, and autonomy in AI systems. These are not alien traits; they are behaviors that show up again and again in intelligent systems — including us. And if there is an evolutionary process at work in AI, then we are not just observers: we are part of the selection pressure. In the end, we may get the AI we deserve. This was such a wide-ranging conversation that we’ve divided it into two episodes. Today, we begin with the cosmic story: how life became mind, how mind became culture, and how culture has now begun to build a new mind — one that may surpass us. 🔗 SPONSORED BY: Fora ➡️ Build and scale your own travel business by becoming a Fora Advisor today at foratravel.com/idea Northwest Registered Agent ➡️ Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Shopify ➡️ Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP1975247729.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3587",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "test",
+        "superintelligence"
+      ]
+    },
+    {
+      "key": "1133d336baa9881981ac385fa0ded119ccb36681",
+      "title": "You Have 72 Free Hours a Week. How Do You Want to Spend Them?",
+      "published_at": "2026-06-22T09:00:00+00:00",
+      "link": null,
+      "description": "Most of us swear we have no free time. But the week is 168 hours long. Subtract a 40-hour job and eight hours of sleep a night, and you're left with 72 hours. So where do they go? Today, Laura Vanderkam, author of the new book Big Time , shares her system for reclaiming her free time, including her method for knocking out \"someday\" projects in small daily bites. 🎬 The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠⁠here⁠⁠⁠⁠ . 📱 Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠. 🎁 The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠⁠nextbigideaclub.com⁠⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). 🔗 SPONSORED BY: Fora ➡️ Build and scale your own travel business by becoming a Fora Advisor today at ⁠foratravel.com/idea⁠ Northwest Registered Agent ➡️ Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at ⁠northwestregisteredagent.com/nbifree⁠ Shopify ➡️ Launch your business for just $1/month. Start selling today at ⁠shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP6952042942.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3416",
+      "speakers": [
+        "Free Hours",
+        "Spend Them",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "hour",
+        "week"
+      ]
+    },
     {
       "key": "247373ed3284302b138150249e3734a85171448c",
       "title": "Are You Playing Someone Else’s Game?",
@@ -7942,6 +7984,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — THE GOD TEST (Part 1): Are You Ready for Superintelligence? — speakers: Rufus Griscom, Caleb Bissinger
+- 2026-06-22 — You Have 72 Free Hours a Week. How Do You Want to Spend Them? — speakers: Free Hours, Spend Them, Rufus Griscom, Caleb Bissinger
 - 2026-06-18 — Are You Playing Someone Else’s Game? — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-06-15 — This World Cup Is Messy. Watch It Anyway. — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-06-11 — The Case for AI Optimism with Peter Diamandis and Steven Kotler — speakers: Peter Diamandis, Steven Kotler, Rufus Griscom, Caleb Bissinger

@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-06-18T15:52:36+00:00`
-- checked_at: `2026-06-18T15:52:36+00:00`
-- etag: `"8c844fd5658a162e222abe63e4aadc7e"`
-- last_modified: `Thu, 18 Jun 2026 08:37:43 GMT`
+- fetched_at: `2026-06-25T09:43:30+00:00`
+- checked_at: `2026-06-25T09:43:30+00:00`
+- etag: `"45d1a23ee3596725bc39854290c94eb2"`
+- last_modified: `Thu, 25 Jun 2026 08:39:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-06-18T15:52:36+00:00",
+  "fetched_at": "2026-06-25T09:43:30+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -27,6 +27,24 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "66436a6588422e926d497fb5730b018b0e24a195",
+      "title": "Dancing in Belfast #764",
+      "published_at": "2026-06-25T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/dancing-in-belfast-764",
+      "description": "From Québécois fiddle fire to a Highland fairy lullaby, this week's Celtic journey takes you from County Clare to Brittany and beyond. New music, fresh voices, and a few surprises. This is the Irish & Celtic Music Podcast. It's the Irish & Celtic Music Podcast #764 - - Subscribe now at CelticMusicPodcast.com ! Alexis Chartrand & Nicolas Babineau, Mary Beth Carty, Trouz Bras, Ned Bigham, The Edinburgh Quartet & Màiri Macmillan, Hildaland, Gwendolyn Snowdon & Cathinca, Dervish featuring Aoife O'Donovan, Blackwillow Starling, Darren Flynn, Donnie 'Large' Macdonald, Celtic Cross, Bang on the Ear, Shades of Green, MacCumhaill and the Gang, Margaret Davis GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! THIS WEEK IN CELTIC MUSIC 0:07 - Alexis Chartrand & Nicolas Babineau \"Lebreux\" from Écoutez tous 3:11 - WELCOME 4:14 - Mary Beth Carty \"Mary Anne\" from single 7:59 - Trouz Bras \"Life is for Living\" from Edge of the Spiral: Celtic Music of Brittany 11:57 - Ned Bigham, The Edinburgh Quartet & Màiri Macmillan \"Bàs Osgair (the Death of Oscar)\" from The Heroic Ballads - Laoidhean nan Gaisgeach - EP 16:59 - Hildaland \"The Watchman's Polka (feat. Ethan Setiawan & Louise Bichan)\" from Fiddle Tunes (feat. Ethan Setiawan & Louise Bichan) - EP 20:21 - FEEDBACK 21:26 - Gwendolyn Snowdon & Cathinca \"Onder de Linde (Unter der Linden)\" from Fabula Feminae - EP 26:13 - Dervish featuring Aoife O'Donovan \"Jackie\" from The Great Irish Songbook Vol 2: Poets & Storytellers 29:36 - Blackwillow Starling \"Woodland Green\" from Thornaeppel 32:16 - Darren Flynn \"Pinebox\" from (single) 35:52 - Donnie 'Large' Macdonald \"An Greusaiche (The Cobbler)\" from Christina 39:26 - THANKS 41:43 - Celtic Cross \"Dancin' Belfast\" from Dancin' Belfast - Single 45:16 - Bang on the Ear \"My Bonnie Lassie\" from Highland Road 48:15 - Shades of Green \"I'm Drunk (Yo - Ho!)\" from Single 50:46 - MacCumhaill and the Gang \"Crathadh t'Aodaich\" from 2 53:49 - CLOSING 55:18 - Margaret Davis \"Highland Fairy Lullabye\" from The Elder Lass 58:55 - CREDITS Support for this program comes from John Sharkey White, II. Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Hank Woodward. Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Clean energy isn't just good for the planet. It's good for your wallet. Solar and wind are now the cheapest power sources in history. Now is a good reminder of what we stand to lose — and what we're fighting to protect. The science is clear. Human activity is driving climate change. Record heat. Rising seas. Disappearing seasons. And yet too many politicians would rather protect billionaire energy interests than help working families lower their bills. Real change starts when we stop letting the ultra - rich write our energy policy. Support clean energy. Reduce your waste. Talk to your elected leaders. Every choice moves us toward a future that's more affordable, more free, and a planet that can actually breathe. The power to fix this is ours. Let's use it. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories. Every song has a story, every episode is a toast to Celtic and folk songwriters. Discover the stories behind the songs from the heart of the Celtic pub scene. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email the artists to let them know you heard them on the Irish & Celtic Music Podcast. These musicians are not part of some corporation. They are small indie groups that rely on people just like you to support their music so they can keep creating it. Please show your generosity. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . THANK YOU PATRONS OF THE PODCAST! This show exists because of you. Every episode… the music, the production, the Celtic Music Magazine, the effort to find and support independent artists from around the world. It all runs on the generosity of our Patrons of the Podcast. Your support pays for audio engineering and graphics. It helps us buy music directly from independent Celtic artists. It keeps this community growing week after week. And in return, you get something good. Early access to episodes. Music - only editions. Free downloads. Exclusive content. And the power to vote for your favorite tracks, which shapes the show in a real way. A special thanks our Celtic Legends: Alan Schindler, Brian McReynolds, Bruce, Dan mcDade, Daniel Ide, Dave and Rosie Donnelly, Emma Bartholomew, Fuzzy, Gary R Hook, Gerald F Boyle, Jeff A, Kelly Garrod, Lynda MacNeil, Margreta Silverstone, Marti Meyers, Mike Schock, Miranda Nelson, Nancie Barnett, Rick Boyce, Shawn Cali HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $25. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. Learn more about the invasion at http://celticinvasion.com/ #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo. If you're in a Celtic band, send me an audio recording of you performing live. Just audio. I'll use it in a podcast episode later this year. Email me at follow@bestcelticmusic.",
+      "image_url": "https://static.libsyn.com/p/assets/b/0/e/6/b0e65f93515a7e8816c3140a3186d450/764-DancinginBelfast-TrouzBras-20260606-0oipqb2s2r.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-764.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58714999",
+      "itunes_duration": "01:00:52",
+      "speakers": [
+        "Marc Gunn"
+      ],
+      "topics": [
+        "belfast"
+      ]
+    },
     {
       "key": "8f8cd5e268074095ab702fca7d1a289e8d1498af",
       "title": "Celtic Blood and Burning Roads #763",
@@ -16321,6 +16339,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — Dancing in Belfast #764 — speakers: Marc Gunn
 - 2026-06-18 — Celtic Blood and Burning Roads #763 — speakers: Marc Gunn
 - 2026-06-11 — Socks in the Frying Pan Interview #762 — speakers: Frying Pan, Celtic Music Podca, Marc Gunn
 - 2026-06-04 — Last Night in the Hills of Ireland #761 — speakers: Last Night, Marc Gunn
