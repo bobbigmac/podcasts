@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-06-19T20:03:02+00:00`
-- checked_at: `2026-06-19T20:03:02+00:00`
-- etag: `"79dc0097151079778f3a8de62ea64780"`
-- last_modified: `Fri, 19 Jun 2026 18:00:04 GMT`
+- fetched_at: `2026-06-26T20:08:25+00:00`
+- checked_at: `2026-06-26T20:08:25+00:00`
+- etag: `"92ddb623690cecba04c64fba5f76ebda"`
+- last_modified: `Fri, 26 Jun 2026 18:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
-  "fetched_at": "2026-06-19T20:03:02+00:00",
+  "fetched_at": "2026-06-26T20:08:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "ce811531b584c6a253fb94e90fae6d760dc1c72a",
+      "title": "Dead Ringers: Ep2. Makerfield Maketh Man",
+      "published_at": "2026-06-26T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nrrncf",
+      "description": "The Dead Ringers team are back to train their vocal firepower on the week’s news with an armoury of impressive impressions. This week: Andy Andy Burnham Bright, Thomas Tuchel talks tactics, and Curious Cases considers a conundrum. Starring Jon Culshaw, Jan Ravens, Lewis Macleod, Duncan Wisbey and Jess Robinson. Executive Producer: Pete Strauss Produced by Jon Holmes Production Co-ordinator: Giulia Lopes Mazzu A BBC Studios Production.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nt0ybl.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27232000",
+      "itunes_duration": "1702",
+      "speakers": [],
+      "topics": [
+        "dead",
+        "ringers",
+        "makerfield",
+        "maketh"
+      ]
+    },
     {
       "key": "ea876bbcc0355a2616a55c3a1de6fbc9877e6657",
       "title": "Dead Ringers: Ep1. Keir vs Kemi",
@@ -5450,27 +5469,6 @@
         "ringers",
         "series"
       ]
-    },
-    {
-      "key": "dd8d2eb13a9516123f3ab8ca219cffb34917aa0d",
-      "title": "Dead Ringers, 25th June, 2021",
-      "published_at": "2021-06-25T18:05:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09mk551",
-      "description": "There’s a surprising new role for Professor Chris Whitty, and Liz Truss is on the verge of her best ever trade deal. Performed by, Jon Culshaw, Lewis Macleod, Jan Ravens, and Duncan Wisbey. The writers were: Nev Fountain & Tom Jamieson, Laurence Howarth, Ed Amsden & Tom Coles, James Bugg, Simon Alcock, Jane McCutcheon & Vivienne Riddoch, Sophie Dickson, & Tasha Dhanraj. Producer: Bill Dare Production Coordinator: Sarah Sharpe A BBC Studios Production for Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3rn1.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "25808000",
-      "itunes_duration": "1613",
-      "speakers": [
-        "Dead Ringers",
-        "Chris Whitty"
-      ],
-      "topics": [
-        "dead",
-        "ringers",
-        "june"
-      ]
     }
   ]
 }
@@ -5479,6 +5477,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-26 — Dead Ringers: Ep2. Makerfield Maketh Man
 - 2026-06-19 — Dead Ringers: Ep1. Keir vs Kemi — speakers: Dead Ringers, World Cup
 - 2026-06-12 — The News Quiz Ep8. - Peter Scandalman — speakers: Peter Scandalman
 - 2026-06-05 — The News Quiz Ep7. Heat and NEETs — speakers: Andy Zaltzman, Tony Bl
@@ -5737,4 +5736,3 @@
 - 2021-07-16 — Dead Ringers, 16th July, 2021 — speakers: Dead Ringers
 - 2021-07-09 — Dead Ringers, 9th July, 2021 — speakers: Dead Ringers, Angela Rayner
 - 2021-07-02 — Dead Ringers, Series 21, Episode 4 — speakers: Dead Ringers, Sajid Javid, Harry Kane
-- 2021-06-25 — Dead Ringers, 25th June, 2021 — speakers: Dead Ringers, Chris Whitty

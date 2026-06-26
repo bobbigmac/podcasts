@@ -5,6 +5,28 @@
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "17c576c08700a056bc729e6ee32f7d6149759cb1",
+        "episode_key": "17c576c08700a056bc729e6ee32f7d6149759cb1",
+        "title": "Josh Widdicombe XFM #41 – Jon Richardson, James Acaster, Nish Kumar",
+        "published_at": "2026-06-25T17:57:39Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Jon Richardson joins Josh, James Acaster discusses Weetabix and Nish Kumar has a conspiracy theory about The Beatles.Broadcast on 11th March 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO2807253941.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-41-jon-richardson-james-acaster/id1866254969?i=1000774223440&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
         "dedupe_key": "440d6a0a9597619e8e354a94a9f8adb4858d65c8",
         "episode_key": "440d6a0a9597619e8e354a94a9f8adb4858d65c8",
         "title": "Josh Widdicombe XFM #40 – James Acaster, Kerry Godliman, Nish Kumar",
