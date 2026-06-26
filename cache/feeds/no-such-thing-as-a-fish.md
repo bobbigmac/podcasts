@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-06-18T23:04:52+00:00`
-- checked_at: `2026-06-18T23:04:52+00:00`
-- etag: `W/"6716bf2dde5df4e153de6bf0e02f15f5"`
-- last_modified: `Thu, 18 Jun 2026 22:55:00 GMT`
+- fetched_at: `2026-06-26T04:39:14+00:00`
+- checked_at: `2026-06-26T04:39:14+00:00`
+- etag: `W/"36b00e777c3ce17f35322e29b3909ebe"`
+- last_modified: `Thu, 25 Jun 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-06-18T23:04:52+00:00",
+  "fetched_at": "2026-06-26T04:39:14+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,53 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "4bdccf4bf6df9f06662130c0e6a99e71e01bb5bc",
+      "title": "No Such Thing As A Glazed Lizard Donut",
+      "published_at": "2026-06-25T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8920547",
+      "description": "Dan, James, Anna and Andy discuss Disney Princesses, brave tailors and tangled lizards. Head to nosuchthingasafish.com/Risummer for tickets to our July shows at the Royal Institution! Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43713062.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8920547.mp3?modified=1782330314&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3422",
+      "speakers": [
+        "Disney Princesses",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "glazed",
+        "lizard",
+        "donut"
+      ]
+    },
+    {
+      "key": "e575e9beb584c336ff5044b84a6a8da04e3fc7af",
+      "title": "Little Fish: Really Siding With The Baddies",
+      "published_at": "2026-06-21T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8918215",
+      "description": "James, Andy and Anna discuss YOUR facts including huge holes and dangerous materials. James and Andy argue over a TikTokker who doesn't exist. And we name eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Jack Chambers, Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8918215.mp3?modified=1781874446&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1843",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "baddie"
+      ]
+    },
     {
       "key": "7e85f62fb4903edd8cc262e6e1015c7fb7408346",
       "title": "No Such Thing As The Metal Bloke",
@@ -176,7 +223,7 @@
       "link": "https://audioboom.com/posts/8908834",
       "description": "Dan, James, Anna and Andy discuss kitchen hygiene, a Commander-in-Chief, and NaHCO3. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43668734.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8908834.mp3?modified=1779969632&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8908834.mp3?modified=1780049424&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3402",
@@ -264,10 +311,10 @@
       "link": "https://audioboom.com/posts/8903631",
       "description": "Manu Henriot joins Dan, James and Andy to discuss seaweed, spermaceti, stick houses and Spain. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43646753.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8903631.mp3?modified=1778777411&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8903631.mp3?modified=1782379955&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3418",
+      "itunes_duration": "3310",
       "speakers": [
         "Manu Henriot",
         "Dan Schreiber",
@@ -310,10 +357,10 @@
       "link": "https://audioboom.com/posts/8900570",
       "description": "Susie Dent joins Dan, James and Andy to discuss mums, tongues, Tods and Boz. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Get NordVPN two-year plan + four months extra ➼ https://nordvpn.com/fish It’s risk-free with Nord’s 30-day money-back guarantee.",
       "image_url": "https://audioboom.com/i/43635030.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8900570.mp3?modified=1778168134&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8900570.mp3?modified=1782330692&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3426",
+      "itunes_duration": "3229",
       "speakers": [
         "Susie Dent",
         "Dan Schreiber",
@@ -16514,6 +16561,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — No Such Thing As A Glazed Lizard Donut — speakers: Disney Princesses, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-06-21 — Little Fish: Really Siding With The Baddies — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-18 — No Such Thing As The Metal Bloke — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-14 — Little Fish: I've Booked Us In A Lovely Toilet — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-11 — No Such Thing As Poddyversity Challenge — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-06-25T15:11:56+00:00`
-- checked_at: `2026-06-25T15:11:56+00:00`
-- etag: `"djEuMi4wOjE3ODIzODk5ODY2NzQ="`
+- fetched_at: `2026-06-26T04:39:14+00:00`
+- checked_at: `2026-06-26T04:39:14+00:00`
+- etag: `"djEuMi4wOjE3ODI0Mjg1NTkyNjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-06-25T15:11:56+00:00",
+  "fetched_at": "2026-06-26T04:39:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9f855b58c983315234c1f82184b90ba3df6fdd24",
+      "title": "My Time Capsule The Dig - Ep. 8 - With David Gower!",
+      "published_at": "2026-06-25T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-8-with-david-gower",
+      "description": "David Gower was our guest in episode 220 and he returns to have a chat about his old time capsule and let us know where he wants it buried! Cricketer David Gower OBE was one of the greatest batsmen of all time and captained England to victory in the 1985 Ashes series. Also, Mike and his producer and son John find out where Dan Tiernan wants to bury his capsule and they interact with listeners via email and voice memos . Follow David Gower on Instagram: @gower.david . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1782389586470-a7185055-6982-4ea0-ac6d-be0d4d09f99a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a3d1ce2d760508ebafb3363/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42769679",
+      "itunes_duration": "35:38",
+      "speakers": [
+        "David Gower"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "david",
+        "gower"
+      ]
+    },
     {
       "key": "68f7ad3c32f6390f80e1767cca8295ee24a545b6",
       "title": "Ep. 590 - Dan Tiernan - Live at the Apollo, QI, The Last Leg, 8 Out Of 10 Cats Does Countdown",
@@ -12831,6 +12852,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — My Time Capsule The Dig - Ep. 8 - With David Gower! — speakers: David Gower
 - 2026-06-21 — Ep. 590 - Dan Tiernan - Live at the Apollo, QI, The Last Leg, 8 Out Of 10 Cats Does Countdown — speakers: Dan Tiernan
 - 2026-06-18 — My Time Capsule The Dig - Ep. 7 - With Robin Askwith! — speakers: Robin Askwith
 - 2026-06-14 — Ep. 589 - Cathy Shipton - Best known for playing Duffy in the British medical drama Casualty — speakers: Cathy Shipton, Lisa Duffy Duffin

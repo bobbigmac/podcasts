@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-06-24T04:35:18+00:00`
-- checked_at: `2026-06-24T04:35:18+00:00`
-- etag: `"djEuMi4wOjE3ODIyNTc2NzkyODk="`
+- fetched_at: `2026-06-26T04:39:14+00:00`
+- checked_at: `2026-06-26T04:39:14+00:00`
+- etag: `"djEuMi4wOjE3ODI0Mjg4NTk1MzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-06-24T04:35:18+00:00",
+  "fetched_at": "2026-06-26T04:39:14+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "ca8d6c64178839fb0e1603e5a0f2c52b36537548",
+      "title": "Aussie Mike",
+      "published_at": "2026-06-25T23:07:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/aussie-mike",
+      "description": "Elis James, Mike Bubbins and Steff Garrero return for another episode of The Socially Distant Sports Bar . You might know Elis from his podcast with John Robins \"Elis & John\" and Mike from his sitcom \"Mammoth\" Mike brings in an interview with Aussie Rules player Mark “Jacko” Jackson, the cult figure who became known for his personality, performances and unpredictable energy - hence the title of the episode... https://youtu.be/LxOljBVil2g Elis has chosen the book Wide Eyed and Legless by Jeff Connor, the story of the ANC-Halfords cycling team at the Tour de France. It is a tale of ambition, suffering, optimism and the brutal reality of trying to compete at the highest level of professional cycling. https://www.amazon.co.uk/Wide-Eyed-Legless-Inside-Tour-France-ebook/dp/B0050OM2Z2/ref=books_amazonstores_desktop_mfs_aufs_ap_sc_dsk_0?_encoding=UTF8&pd_rd_w=TaqD0&content-id=amzn1.sym.f9a1288a-66fe-4587-95f9-1387021c317b&pf_rd_p=f9a1288a-66fe-4587-95f9-1387021c317b&pf_rd_r=259-5073092-2401103&pd_rd_wg=D0aaA&pd_rd_r=cf6814ff-c64b-4c0d-a011-af8be33054fa Expect cycling pain, Australian chaos, sporting nostalgia and the usual Distant Pod detours. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a39467e81138d4ce59096c3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "112388160",
+      "itunes_duration": "46:49",
+      "speakers": [
+        "Aussie Mike Elis James",
+        "Mike Bubbins",
+        "Steff Garrero",
+        "Elis James"
+      ],
+      "topics": [
+        "aussie",
+        "mike"
+      ]
+    },
     {
       "key": "9d8766241b161889028cfd40e9773f46f41a31c3",
       "title": "Peanuts, Caffeine, Acting",
@@ -15163,6 +15185,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-25 — Aussie Mike — speakers: Aussie Mike Elis James, Mike Bubbins, Steff Garrero, Elis James
 - 2026-06-23 — Peanuts, Caffeine, Acting — speakers: Acting Welcome, Socially Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-20 — Jonny: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-18 — Elis’ Homecoming Gig (pt 2) — speakers: Elis James, Mike Bubbins, Steff Garrero

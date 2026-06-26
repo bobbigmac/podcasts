@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-24T04:35:18+00:00`
-- checked_at: `2026-06-24T04:35:18+00:00`
-- etag: `"djEuMi4wOjE3ODIyNjk4NTkzOTI="`
+- fetched_at: `2026-06-26T04:39:14+00:00`
+- checked_at: `2026-06-26T04:39:14+00:00`
+- etag: `"djEuMi4wOjE3ODI0NDI2NTkzMDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-24T04:35:18+00:00",
+  "fetched_at": "2026-06-26T04:39:14+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "57323de64039b53a73d7c2bd7a317bb309f87544",
+      "title": "Olly Smith on Death by Noir - Book Club",
+      "published_at": "2026-06-26T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #185 - Death by Noir - Rich meets Britain’s favourite wine expert (possibly) Olly Smith to talk about his Wine Crime Book, Death by Noir. They talk about how he isn’t just another celebrity cashing in with murder mystery books, as he was already an award winning writer, how he became a wine expert, whether there are any good non-alcoholic or English wines, why he wanted to write about a wine drinking amateur detective, being mistaken for a popular kids TV character, how the book is a love letter to not just wine and the process of making it, but the town of Lewes and the eccentric people who live there, doing a podcast with P!nk, the bits of England that remain very much themselves, whether anyone can really tell what wine smells of and the exciting possibility of turning the book into a TV show or film and what it’s like finally working with his brother Will Smith (not that one) Buy the book here - https://uk.bookshop.org/p/books/death-by-noir-olly-smith/7973486 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1781792379665-5cce6a68-6daa-4730-81ac-d28ab1d63432.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a33f8b3f00c7050cb9794ea/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20758592",
+      "itunes_duration": "40:43",
+      "speakers": [
+        "Olly Smith",
+        "Book Club",
+        "Richard Herring"
+      ],
+      "topics": [
+        "olly",
+        "smith",
+        "death",
+        "noir",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "8fa1d41a60f2943b9abe2abe3746373f24af755a",
       "title": "Lorna Rose Treen - \"A 94 Year-Old-Woman Crawling Out of a Pile of Clothes\"",
@@ -22927,6 +22952,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-26 — Olly Smith on Death by Noir - Book Club — speakers: Olly Smith, Book Club, Richard Herring
 - 2026-06-24 — Lorna Rose Treen - "A 94 Year-Old-Woman Crawling Out of a Pile of Clothes" — speakers: Lorna Rose Treen, Richard Herring
 - 2026-06-22 — Mark Gatiss (Retro) - "Cucumber Coward" — speakers: Mark Gatiss, Coward Richard, Richard Herring
 - 2026-06-20 — Rich and Ally's Craven Newsround Compilation "V-Maxxing" — speakers: Richard Herring

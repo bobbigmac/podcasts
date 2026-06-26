@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-06-24T04:35:18+00:00`
-- checked_at: `2026-06-24T04:35:18+00:00`
-- etag: `"djEuMi4wOjE3ODIyNzEyMzkzOTQ="`
+- fetched_at: `2026-06-26T04:39:14+00:00`
+- checked_at: `2026-06-26T04:39:14+00:00`
+- etag: `"djEuMi4wOjE3ODI0NDQwMzkzMTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-06-24T04:35:18+00:00",
+  "fetched_at": "2026-06-26T04:39:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fa95e0017f857464d49fa8484dd00005fb59b9d7",
+      "title": "DAVID EARL & JOE WILKINSON (Chatabix & much more) • Friday Rewind",
+      "published_at": "2026-06-26T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with David Earl & Joe Wilkinson , originally episode 99 from 2016-05-24. Original writeup below: Welcome, welcome, welcome to your 99th - NINETY NINTH - Wednesday-fresh instalment of the powerful, the savage, the almighty Distraction Pieces podcast. This week is a tag-team of sorts - it's the UK comedy gems David Earl & Joe Wilkinson! You probably know David Earl from his cringingly brilliant 'Brian Gittins' character, or 'Cumbo', and perhaps you've see Joe Wilkinson holding it down on '8 Out of 10 Cats' (and the Countdown cross-pollenation) and in various TV spots - well whether you do or not, now is your chance to get on a perfect level with the two of 'em, as Pip delves all the way into their backgrounds and presents in a lovely chat with a ton of awesome backstories, gossip, and the journey from the early days up to now and what the future holds. Naturally there is some good Ricky Gervais talk ('Derek' and so much more), UK comedy science as we hear from David and how Brian Gittins happened, and of course their new combined project 'Rovers'! So much. A full on entertainment showdown. PIP'S PATREON PAGE if you're of a supporting nature CHATABIX Chatabix Patreon PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1782394440694-515d0bd6-fc6e-4cff-8275-526c25a78032.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a3d3033a3fa978237fa608c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "153212368",
+      "itunes_duration": "1:03:45",
+      "speakers": [],
+      "topics": [
+        "david",
+        "earl",
+        "wilkinson",
+        "chatabix",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "c374f1a9c135034c52a744dab21dbb12802bdc0e",
       "title": "ABUBAKAR SALIM • conducting a perfect symphony of acting and game design (House Of The Dragon / Raised By Wolves / Tales Of Kenzera) #677",
@@ -19069,6 +19090,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-26 — DAVID EARL & JOE WILKINSON (Chatabix & much more) • Friday Rewind
 - 2026-06-24 — ABUBAKAR SALIM • conducting a perfect symphony of acting and game design (House Of The Dragon / Raised By Wolves / Tales Of Kenzera) #677
 - 2026-06-19 — PROFESSOR GREEN (rap / TV & film / mental health advocacy) • Friday Rewind
 - 2026-06-17 — RYAN CONDAL • how to train your house of dragons, or, flight of the Condal (House Of The Dragon / Colony / Rampage) #676
