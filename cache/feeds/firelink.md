@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-06-19T20:03:02+00:00`
-- checked_at: `2026-06-19T20:03:02+00:00`
-- etag: `W/"391cd-GqJlLFsX12yKqJwPwuIViaQu6JU"`
+- fetched_at: `2026-06-26T14:47:14+00:00`
+- checked_at: `2026-06-26T14:47:14+00:00`
+- etag: `W/"399ac-pRysz9rsx9cnio8ub2++2GufAvY"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-06-19T20:03:02+00:00",
+  "fetched_at": "2026-06-26T14:47:14+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,29 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "530b0315c6a039ae982f2d2ccc73ee089d47ea44",
+      "title": "The Road to GTA 6 Has Begun | Firelink Podcast",
+      "published_at": "2026-06-26T13:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/The-Road-to-GTA-6-Has-Begun--Firelink-Podcast-e3la3fk",
+      "description": "This week on Firelink, KC and Marty chat about the details surrounding Grand Theft Auto VI's launch, Netflix's new horror game, and what they've been playing. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/122014644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-26%2Fdd79d273-abfe-5c9b-9223-45f04f7ab8d2.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "135042080",
+      "itunes_duration": "01:33:46",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "road",
+        "begun",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "de9ea4648c5b1d55e66fc944038cddc9577337f3",
       "title": "The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast",
@@ -2935,6 +2958,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-26 — The Road to GTA 6 Has Begun | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-06-19 — The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-06-12 — Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-06-05 — Summer Game Fest Predictions and Speculation | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
