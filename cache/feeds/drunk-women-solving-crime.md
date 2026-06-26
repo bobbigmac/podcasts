@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-06-24T09:50:32+00:00`
-- checked_at: `2026-06-24T09:50:32+00:00`
-- etag: `"djEuMi4wOjE3ODIyOTA2MTMwODc="`
+- fetched_at: `2026-06-26T09:51:24+00:00`
+- checked_at: `2026-06-26T09:51:24+00:00`
+- etag: `"djEuMi4wOjE3ODI0NjA0MDA5NDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-06-24T09:50:32+00:00",
+  "fetched_at": "2026-06-26T09:51:24+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,29 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "d8ffd37d37d253064d1c2301a503e5ca367149e5",
+      "title": "DWSC LIVE: With Sally-Anne Hayward",
+      "published_at": "2026-06-26T07:50:56+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-sally-anne-hayward",
+      "description": "t's part two of our EPIC night in Bristol, and with us the the wonderful Sally-Anne Hayward, who tells us why she's got crime prevention in the bag, before helping our hosts solve a WW2 case in which the protagonist was no match for the Nazis. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a3e2f6126d5a6687a82b99a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72175330",
+      "itunes_duration": "50:06",
+      "speakers": [
+        "Sally-Anne Hayward",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "sally",
+        "anne",
+        "hayward"
+      ]
+    },
     {
       "key": "f2cb6089eb131781107bb89a11d289f3bfada609",
       "title": "DWSC LIVE: With Robin Morgan",
@@ -11255,6 +11278,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-26 — DWSC LIVE: With Sally-Anne Hayward — speakers: Sally-Anne Hayward, Hannah George, Taylor Glenn
 - 2026-06-24 — DWSC LIVE: With Robin Morgan — speakers: Robin Morgan, Hannah George, Taylor Glenn
 - 2026-06-17 — Taking It Down a Notch, with Amelia Hamilton — speakers: Amelia Hamilton, Hannah George, Taylor Glenn
 - 2026-06-12 — DWSC LIVE: With Seeta Wrightson — speakers: Seeta Wrightson, Hannah George, Taylor Glenn

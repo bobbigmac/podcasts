@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-06-23T10:02:11+00:00`
-- checked_at: `2026-06-23T10:02:11+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RJeE9UQTRNemszTkRJPTo6c2F4ZXNz"`
+- fetched_at: `2026-06-26T09:51:24+00:00`
+- checked_at: `2026-06-26T09:51:24+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RJME5UQXdNemswT1RNPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-06-23T10:02:11+00:00",
+  "fetched_at": "2026-06-26T09:51:24+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2e32d187979985d7ae66952beb6205eeaf180afe",
+      "title": "Help I Fact Up! | With Joe Thomas And James Buckley",
+      "published_at": "2026-06-26T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-i-fact-up-with-joe-thomas-and-james-buckley",
+      "description": "OOO PODCAST FWIENDS! After months of Jordan's requests (which verged on begging), we've finally got Joe Thomas and James Buckley from 'The Inbetweeners' and the 'Joe and James Fact Up!' podcast in for a chat! First off, the boys step into Joe and James' world (and studio) for a taste of their unique brand of tangent-heavy chat and fact-finding. Then it's over to the wonderfully tame world of Help I Sexted My Boss, where it doesn't take long at all for James Buckley to spot a clone-a-willy and all hell breaks loose. And of course, it wouldn't be a Sexted episode without a few of your dilemmas for all four of the boys to try and solve. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a3bf09323c4847f0599e6ba/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=AP3A8OQJgwq-T1i-ZTbQcNEHVhUSRKkW2uaeoLKjb9E",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50552999",
+      "itunes_duration": "52:39",
+      "speakers": [
+        "Joe Thomas",
+        "James Buckley",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "thomas",
+        "james",
+        "buckley"
+      ]
+    },
     {
       "key": "4127c8359650c316939761d743bdb15892a0a147",
       "title": "Help I Regret Pup Play | And My Bad Boyfriend",
@@ -14542,6 +14565,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-26 — Help I Fact Up! | With Joe Thomas And James Buckley — speakers: Joe Thomas, James Buckley, William Hanson, Jordan North
 - 2026-06-23 — Help I Regret Pup Play | And My Bad Boyfriend — speakers: William Hanson, Jordan North
 - 2026-06-19 — Daddy Pig’s A Misogynist | And Licking The Spice Out — speakers: Daddy Pig, Out When, William Hanson, Jordan North
 - 2026-06-16 — Help I Can’t Say I Love You | And Steamy Expectations — speakers: William Hanson, Jordan North
