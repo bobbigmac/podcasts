@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-06-24T04:35:18+00:00`
-- checked_at: `2026-06-24T04:35:18+00:00`
-- etag: `"djEuMi4wOjE3ODIyNTkyMzkzMDc="`
+- fetched_at: `2026-06-27T04:15:46+00:00`
+- checked_at: `2026-06-27T04:15:46+00:00`
+- etag: `"djEuMi4wOjE3ODI1MTg0NjE4OTM="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-06-24T04:35:18+00:00",
+  "fetched_at": "2026-06-27T04:15:46+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
