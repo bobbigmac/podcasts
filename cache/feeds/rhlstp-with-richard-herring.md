@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-26T04:39:14+00:00`
-- checked_at: `2026-06-26T04:39:14+00:00`
-- etag: `"djEuMi4wOjE3ODI0NDI2NTkzMDc="`
+- fetched_at: `2026-06-27T14:05:51+00:00`
+- checked_at: `2026-06-27T14:05:51+00:00`
+- etag: `"djEuMi4wOjE3ODI1NjgwNTQ2OTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-26T04:39:14+00:00",
+  "fetched_at": "2026-06-27T14:05:51+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0898a7c4515b3dfc7846dc60f90568651e717ffc",
+      "title": "Rich and Ally's Craven Newsround Compilation \"Incurable\"",
+      "published_at": "2026-06-27T13:47:33+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Monday 22nd June 2026 - Incurable - Rich is back after a brief hiatus to have some aborted chemo and maybe he’s returned to work too soon. Or maybe it’s the perfect time. The Prime Minister’s resignation is high on the agenda and there are two guest politicians to talk about it. Plus an amazing wartime song to cheer your heart and help you keep up the fight. Get a tshirt here (if you are quick) - https://gofasterstripe.com/ally Thursday 25th June 2026 - Too Hot To Newsround - Rich and Ally try to broadcast in this incredible heat, but they are wilting fast. At least they tried. Might have been better not to bother on this one. Buy a T shirt here http://gofasterstripe.com/ally Friday 26th June 2026 - Portmanteau -Rich and Ally brave the heat to talk about the King finally coughing up some tax, for getting very little in return. God save him. Plus a visit from a former royal. Buy a T shirt here http://gofasterstripe.com/ally Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1782567825772-0ed47a7a-5640-4b3b-bea1-8168810d39aa.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a3fd476a3fa978237c1614b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26924352",
+      "itunes_duration": "56:05",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation"
+      ]
+    },
     {
       "key": "57323de64039b53a73d7c2bd7a317bb309f87544",
       "title": "Olly Smith on Death by Noir - Book Club",
@@ -22952,6 +22974,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-27 — Rich and Ally's Craven Newsround Compilation "Incurable" — speakers: Craven Newsround Compilation, Richard Herring
 - 2026-06-26 — Olly Smith on Death by Noir - Book Club — speakers: Olly Smith, Book Club, Richard Herring
 - 2026-06-24 — Lorna Rose Treen - "A 94 Year-Old-Woman Crawling Out of a Pile of Clothes" — speakers: Lorna Rose Treen, Richard Herring
 - 2026-06-22 — Mark Gatiss (Retro) - "Cucumber Coward" — speakers: Mark Gatiss, Coward Richard, Richard Herring
