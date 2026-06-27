@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-06-26T17:07:32+00:00`
-- checked_at: `2026-06-26T17:07:32+00:00`
-- etag: `"djEuMi4wOjE3ODI0ODc0NDcyNjQ="`
+- fetched_at: `2026-06-27T16:19:23+00:00`
+- checked_at: `2026-06-27T16:19:23+00:00`
+- etag: `"djEuMi4wOjE3ODI1NzYwMzk1MDY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-06-26T17:07:32+00:00",
+  "fetched_at": "2026-06-27T16:19:23+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "faf030c5cd4a64b59a4f5256703e91086b169652",
+      "title": "Does Britain want another general election? | Will and Anoosh",
+      "published_at": "2026-06-27T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/does-britain-want-another-general-election-will-and-anoosh",
+      "description": "Keir Starmer’s turn at the resignation lectern, Peter Murrell’s £400,000 shopping spree and Will Dunn’s attempt at a “Man v Horse” race. Will and Anoosh discuss the stories of the week. READ: https://www.newstatesman.com/this-england/2026/06/one-small-step-for-man-much-further-for-a-horse LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1782480943780-71bc8f59-f5ee-4ae6-8f9f-9bd7607bab8f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a3e801260eef4f2296d582a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80454565",
+      "itunes_duration": "41:48",
+      "speakers": [
+        "Peter Murrell",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "britain",
+        "election",
+        "anoosh"
+      ]
+    },
     {
       "key": "3849dc3134752f323a2d3ffb08016a684a1d5bae",
       "title": "A critical three weeks for Burnham",
@@ -31656,6 +31678,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-27 — Does Britain want another general election? | Will and Anoosh — speakers: Peter Murrell, Anoosh Chakelian, Oli Dugmore
 - 2026-06-25 — A critical three weeks for Burnham — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-06-22 — Keir Starmer resigns: “He’s been chewed up and spat out” — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-06-20 — “Brand Burnham”: Why Andy is a marketing success story — speakers: Anoosh Chakelian, Oli Dugmore
