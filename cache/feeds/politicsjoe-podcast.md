@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-06-26T17:07:32+00:00`
-- checked_at: `2026-06-26T17:07:32+00:00`
-- etag: `"djEuMi4wOjE3ODI0OTIxMzgzOTM="`
+- fetched_at: `2026-06-28T09:32:29+00:00`
+- checked_at: `2026-06-28T09:32:29+00:00`
+- etag: `"djEuMi4wOjE3ODI2MjI4Mzk1MjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,32 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-06-26T17:07:32+00:00",
+  "fetched_at": "2026-06-28T09:32:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "e1b497d5429a8e6dda1364e471c60f67ffb853ac",
+      "title": "Why We Need to Abolish Politicians | Hélène Landemore interview",
+      "published_at": "2026-06-28T05:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a3d6235cb67fc75ea896aaf",
+      "description": "In this interview, Yale political scientist Hélène Landemore, author of Politics Without Politicians, argues that the political systems we take for granted are no longer fit for purpose. As trust in politicians reaches historic lows across Britain, Europe and the United States, Landemore makes the case that elections alone may no longer be enough to produce governments that truly represent ordinary people. Drawing on examples from Ancient Athens, France, Ireland, the United States, and the UK, she explains why professional politicians often become disconnected from the people they represent—and why citizens chosen by lottery could make better decisions than elected MPs. The interview also examines the growing gap between political elites and ordinary voters, discussing the rise of career politicians, the influence of wealthy interests, and why so many voters feel ignored by Westminster, Washington and Brussels. Landemore discusses the Yellow Vest movement in France, the Democratic Party's handling of Kamala Harris after Joe Biden stepped aside, the legitimacy of replacing prime ministers without a general election, and how public frustration has fuelled anti-establishment movements across the Western world. She also explains how citizens' assemblies have already been used to tackle some of society's most difficult questions, including abortion rights, marriage equality and climate policy, and why she believes these experiments could point towards the future of democracy. As public confidence in politics continues to decline, this conversation asks a provocative question: do we need fewer politicians—and more ordinary people making political decisions? Whether you agree or disagree, this is one of the most thought-provoking conversations you'll hear about democracy, political reform and the future of representative government. Download SAILY in your app store and use our code joesunday at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/joesunday Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a3d6235cb67fc75ea896aaf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55664422",
+      "itunes_duration": "38:38",
+      "speakers": [
+        "Hélène Landemore"
+      ],
+      "topics": [
+        "politician",
+        "landemore"
+      ]
+    },
     {
       "key": "22c9083c17e339d1773137bc92419c0997a7a5f3",
       "title": "Beginning of the end of Keir Starmer | PMQs analysed",
@@ -13410,6 +13429,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-28 — Why We Need to Abolish Politicians | Hélène Landemore interview — speakers: Hélène Landemore
 - 2026-06-24 — Beginning of the end of Keir Starmer | PMQs analysed
 - 2026-06-21 — The Biggest Lie about Capitalism | Mariana Mazzucato interview — speakers: Mariana Mazzucato
 - 2026-06-19 — Is Andy Burnham's win the death of Blue Labour? | Jonathan Hinder interview — speakers: Andy Burnham, Jonathan Hinder
