@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-06-22T12:25:33+00:00`
-- checked_at: `2026-06-22T12:25:33+00:00`
-- last_modified: `Mon, 22 Jun 2026 11:38:30 GMT`
+- fetched_at: `2026-06-29T11:23:34+00:00`
+- checked_at: `2026-06-29T11:23:34+00:00`
+- last_modified: `Mon, 29 Jun 2026 11:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-22T12:25:33+00:00",
+  "fetched_at": "2026-06-29T11:23:34+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -28,11 +28,62 @@
   ],
   "episodes": [
     {
+      "key": "a7e0619ae984a18bd08239bfecc89005484f35d3",
+      "title": "489. The Fear Opportunity with Victoria Pendleton",
+      "published_at": "2026-06-29T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 489. The Fear Opportunity Presented by Deborah Frances-White with very special guest Victoria Pendleton. Recorded 2 June via Riverside. Released 29 June. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Victoria Pendleton https://www.instagram.com/victorilou https://linktr.ee/TheFearOpportunity For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe previews at Soho Theatre . https://sohotheatre.com/events/the-guilty-feminist-edinburgh-preview-showcase Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/90846c68-7328-11f1-81d4-e71dfa77618a/image/de877c93ca0a4149c5a173967b56b941.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL4998926076.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3959",
+      "speakers": [
+        "Victoria Pendleton",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "fear",
+        "opportunity",
+        "victoria",
+        "pendleton"
+      ]
+    },
+    {
+      "key": "73968845b94c261af976e834b92ae39565a7e415",
+      "title": "Guilty Feminist Culture Club: Under the Shadow with Carmen Nasr, Nadia Latif and Leila Farzad",
+      "published_at": "2026-06-24T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist Culture Club. Under the Shadow. Presented by Deborah Frances-White with very special guests with Carmen Nasr, Nadia Latif and Leila Farzad. Recorded 16 June 2026 via Riverside. Released 24 June. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Under the Shadow https://almeida.co.uk/whats-on/under-the-shadow https://www.instagram.com/almeida_theatre For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Preview Showcase . https://sohotheatre.com/events/the-guilty-feminist-edinburgh-preview-showcase Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/27d0f3ea-6efe-11f1-a29e-73de0f18235e/image/b7693ab7f0fca86ed95d5ff778b1f9bc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL4245482588.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3161",
+      "speakers": [
+        "Carmen Nasr",
+        "Leila Farzad",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "guilty",
+        "feminist",
+        "culture",
+        "club",
+        "shadow",
+        "carmen",
+        "nasr",
+        "nadia",
+        "latif",
+        "leila"
+      ]
+    },
+    {
       "key": "673fb820e94dfad5f37b3029c2ca1d4918c9c125",
       "title": "488. Migrant Rights and the Asylum Experience with Jessica Fostekew, Leyla Williams, Steasy Castro and Juliet Stevenson",
       "published_at": "2026-06-22T11:00:00+00:00",
       "link": null,
-      "description": "The Guilty Feminist 488. Migrant Rights and the Asylum Experience. Presented by Deborah Frances-White and Jessica Fostekew with guests Leyla Williams, Steasy Castro and Juliet Stevenson. Recorded 12 June 2026 at West London Welcome. Released 22 June. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Jessica Fostekew https://www.instagram.com/jessicafostekew https://www.youtube.com/watch?v=nUAduMto_xc More about West London Welcome https://www.instagram.com/westlondonwelcome https://www.westlondonwelcome.com https://refugeeweek.org.uk For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Preview Showcase . https://sohotheatre.com/events/the-guilty-feminist-edinburgh-preview-showcase Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "The Guilty Feminist 488. Migrant Rights and the Asylum Experience. Presented by Deborah Frances-White and Jessica Fostekew with guests Leyla Williams, Steasy Castro and Juliet Stevenson. Recorded 12 June 2026 at West London Welcome. Released 22 June. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Jessica Fostekew https://www.instagram.com/jessicafostekew https://www.youtube.com/watch?v=nUAduMto_xc More about West London Welcome https://www.instagram.com/westlondonwelcome https://www.westlondonwelcome.com https://localgiving.org/fundraising/The-Guilty-Feminist-and-West-London-Welcome For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Preview Showcase . https://sohotheatre.com/events/the-guilty-feminist-edinburgh-preview-showcase Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/b439f962-6dc3-11f1-bd29-d3938c39045d/image/eb444457ed1845e3551c45610cfcf722.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/APL7993284099.mp3",
       "enclosure_type": "audio/mpeg",
@@ -18195,6 +18246,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — 489. The Fear Opportunity with Victoria Pendleton — speakers: Victoria Pendleton, Deborah Frances-White
+- 2026-06-24 — Guilty Feminist Culture Club: Under the Shadow with Carmen Nasr, Nadia Latif and Leila Farzad — speakers: Carmen Nasr, Leila Farzad, Deborah Frances-White
 - 2026-06-22 — 488. Migrant Rights and the Asylum Experience with Jessica Fostekew, Leyla Williams, Steasy Castro and Juliet Stevenson — speakers: Jessica Fostekew, Steasy Castro, Juliet Stevenson, Deborah Frances-Whit, Deborah Frances-White
 - 2026-06-15 — 487. The Anti-Gender Movement with Felicity Ward and Alice McCool - part two — speakers: Deborah Frances-White
 - 2026-06-15 — 487. The Anti-Gender Movement with Felicity Ward and Alice McCool - part one — speakers: Deborah Frances-White

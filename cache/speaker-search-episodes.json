@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "64d491b2e2fafb0c58b30c7bcb57eb2f75487f5c",
+        "episode_key": "64d491b2e2fafb0c58b30c7bcb57eb2f75487f5c",
+        "title": "Katherine Ryan (Tasting Menu – Live at the Royal Albert Hall)",
+        "published_at": "2026-06-29T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It’s a Monday bonus episode – the second of our live ‘Tasting Menu’ shows at London’s Royal Albert Hall – and our special returning guest is Katherine Ryan! The guest who introduced us all to ‘The Good Morning’ back on episode 45. \nListen to Katherine’s podcasts: Telling Everybody Everything and What’s My Age Again? wh",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a34fee74a187774ace84ef3/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/katherine-ryan-tasting-menu-live-at-the-royal-albert-hall/id1442950743?i=1000774636568&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
@@ -5087,6 +5110,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "64d491b2e2fafb0c58b30c7bcb57eb2f75487f5c",
+        "episode_key": "64d491b2e2fafb0c58b30c7bcb57eb2f75487f5c",
+        "title": "Katherine Ryan (Tasting Menu – Live at the Royal Albert Hall)",
+        "published_at": "2026-06-29T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It’s a Monday bonus episode – the second of our live ‘Tasting Menu’ shows at London’s Royal Albert Hall – and our special returning guest is Katherine Ryan! The guest who introduced us all to ‘The Good Morning’ back on episode 45. \nListen to Katherine’s podcasts: Telling Everybody Everything and What’s My Age Again? wh",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a34fee74a187774ace84ef3/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/katherine-ryan-tasting-menu-live-at-the-royal-albert-hall/id1442950743?i=1000774636568&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
@@ -36078,6 +36124,28 @@
         "description": "James sits down with David Mitchell of Patients for Affordable Drugs to discuss why medicines in the USA are unaffordable  and what we can do about it\nSee omnystudio.com/listener for privacy information.",
         "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/78d30acb-8463-4c40-a5ae-ae2d0145c9ff/3ed9aa00-9ff7-49af-8892-af230177f9a8/audio.mp3?utm_source=Podcast&in_playlist=bc7f369b-dce6-43c2-897e-ae2d0145ca12",
         "link_url": "https://podcasts.apple.com/gb/podcast/why-do-medicines-cost-so-much-in-the-usa/id1449762156?i=1000581491456&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:23fecaafa021",
+        "feed_title": "The Apocalyptic Gospel Podcast",
+        "source_rss_url": "https://apocalypticgospel.libsyn.com/rss",
+        "dedupe_key": "c67609de3cae29f162693a83f4a1769a92ce9d44",
+        "episode_key": "c67609de3cae29f162693a83f4a1769a92ce9d44",
+        "title": "S3E29: The Eschatological Metanarrative of the Psalms: An Interview with David Mitchell, part 1",
+        "published_at": "2022-09-14T12:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode we interview David Mitchell, Biblical scholar and pastoral musician. We explore some of his work on the Psalms from his book The Message of the Psalter: An Eschatological Programme in the Book of Psalms. David discusses the primary theme of his book with us – namely, that the Psalms have been organized ",
+        "audio_url": "https://traffic.libsyn.com/secure/apocalypticgospel/The_Apocalyptic_Gospel_Podcast_-_S3E29.mp3?dest-id=2146502",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s3e29-the-eschatological-metanarrative-of/id1519146276?i=1000579449532&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
