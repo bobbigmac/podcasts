@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-06-27T16:19:23+00:00`
-- checked_at: `2026-06-27T16:19:23+00:00`
-- etag: `"djEuMi4wOjE3ODI1NzYwMzk1MDY="`
+- fetched_at: `2026-06-29T16:10:10+00:00`
+- checked_at: `2026-06-29T16:10:10+00:00`
+- etag: `"djEuMi4wOjE3ODI3NDQyNDU1MDY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-06-27T16:19:23+00:00",
+  "fetched_at": "2026-06-29T16:10:10+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "4265b380c6475d007c4fdd0645285b1a727e8e40",
+      "title": "“Westminster is broken”: Andy Burnham sets out his leadership plan",
+      "published_at": "2026-06-29T14:44:05+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/westminster-is-broken-andy-burnham-sets-out-his-leadership-p",
+      "description": "This morning Andy Burnham delivered a speech criticising “Whitehall culture” and promising to rebalance resources between national and local governments. On course to enter Downing Street in as little as three weeks, the former Greater Manchester Mayor laid out his vision for a “Number 10 North”, promising “growth in every postcode”. But how will that work in practice? And how different is it from what’s been before? Anoosh Chakelian is joined by political editor Ailbhe Rea. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1782744099564-9fd0afa4-303f-4db5-b90d-25a778decf87.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a4283a525f9f013ec109c8c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44569045",
+      "itunes_duration": "23:10",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "westminster",
+        "andy",
+        "burnham",
+        "leadership",
+        "plan"
+      ]
+    },
     {
       "key": "faf030c5cd4a64b59a4f5256703e91086b169652",
       "title": "Does Britain want another general election? | Will and Anoosh",
@@ -31678,6 +31702,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — “Westminster is broken”: Andy Burnham sets out his leadership plan — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-27 — Does Britain want another general election? | Will and Anoosh — speakers: Peter Murrell, Anoosh Chakelian, Oli Dugmore
 - 2026-06-25 — A critical three weeks for Burnham — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-06-22 — Keir Starmer resigns: “He’s been chewed up and spat out” — speakers: Anoosh Chakelian, Oli Dugmore
