@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-06-25T15:11:56+00:00`
-- checked_at: `2026-06-25T15:11:56+00:00`
-- etag: `"djEuMi4wOjE3ODIzOTQyMzk0NzQ="`
+- fetched_at: `2026-06-29T04:59:08+00:00`
+- checked_at: `2026-06-29T04:59:08+00:00`
+- etag: `"djEuMi4wOjE3ODI3MDc0MzkzNDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-06-25T15:11:56+00:00",
+  "fetched_at": "2026-06-29T04:59:08+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e3b10fbf0b8700983d84a16870c582ea0d7157c2",
+      "title": "629 Supergirl!",
+      "published_at": "2026-06-29T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/629-supergirl",
+      "description": "The second movie entry in James Gunn's DCU is here, 2026's Supergirl starring Millie Alcock and it is not doing well at the box office and also people don't like it very much. We review that plus the annoucement of three new DC animated shows with Absolute Batman, Joker: Laugh Riot and Krypto, an influencer free start for Christopher Nolan's The Odyssey, trailers for Batman gets his back broken and Digger. what David Ellison has in stall for the upcoming DC movie and TV slate and more! Thanks for listening New bonus X-Men video game let's play video out now! Available to watch with entire back catalogue of 'Never Go Back' and all other bonuses on bigsandwich.co and patreon.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 04:08 New DCU Animated Shows Announced 13:18 Influencers Banned from Odyssey Showings 17:38 Tom Cruise's 'Digger' Movie Trailer 23:36 Future of DCU After Paramount Takeover 27:09 Supergirl Movie Review 51:00 Supergirl Spoiler Segment 01:08:42 What We Reading, What We Gonna Read 01:20:08 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a411fc289bd872840685e3b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "144765209",
+      "itunes_duration": "1:40:31",
+      "speakers": [
+        "James Gunn",
+        "Millie Alcock",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "supergirl"
+      ]
+    },
     {
       "key": "f2567430e61aaeb7b425f83077089c33a5a2091b",
       "title": "The Flash - Caravan Of Garbage",
@@ -22569,6 +22590,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — 629 Supergirl! — speakers: James Gunn, Millie Alcock, James Clement, Nick Mason
 - 2026-06-25 — The Flash - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-06-22 — 628 Toy Story 5 — speakers: Toy Story, Toy Stor, James Clement, Nick Mason
 - 2026-06-19 — The Supergirl TV Show (Extended) - Caravan Of Garbage — speakers: James Clement, Nick Mason

@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-06-22T05:30:23+00:00`
-- checked_at: `2026-06-22T05:30:23+00:00`
-- etag: `"3f2b53a238b4dc372687d8b3e58b147b"`
-- last_modified: `Mon, 22 Jun 2026 04:00:04 GMT`
+- fetched_at: `2026-06-29T04:59:08+00:00`
+- checked_at: `2026-06-29T04:59:08+00:00`
+- etag: `"4caf5d02b4ad958492346b95d6cf84f2"`
+- last_modified: `Mon, 29 Jun 2026 04:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-06-22T05:30:23+00:00",
+  "fetched_at": "2026-06-29T04:59:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,11 +27,25 @@
   ],
   "episodes": [
     {
+      "key": "fbc91aeba7e0ac146431beb801f127504aafe896",
+      "title": "P.O.V.",
+      "published_at": "2026-06-29T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0ntvglw",
+      "description": "P.O.V. returns for a second series of sketches from the internet's best comedians. This week we hear a sports commentary for the green-fingered, a policeman who is very determined to tell you something, and a trailer for every true crime podcast ever. Written and performed by Davina Bentley, Jake Bhardwaj, Kylie Brakeman, Stephen Buchanan, Nathan Caton, The Exploding Heads, Rachel Fairburn, Daniel Foxx, Matt Green, Kelechi Okafor, Elaine Owusu and Ed Night and Paddy Young. Recorded at The Soundhouse Studios and Guilt Free Post, London; Maximum Fun, Los Angeles; and Sonido Studios, Clydebank. Sound design ... Rich Evans at Synbox Post. Producer ... Ed Morrish Executive producer ... Lyndsay Fenner A Lead Mojo production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ntvdw6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27072000",
+      "itunes_duration": "1692",
+      "speakers": [],
+      "topics": []
+    },
+    {
       "key": "fc93e10aeff84853f0dc0fcf9f88140cb18be3e8",
       "title": "John Tothill Forgives Your Sins",
       "published_at": "2026-06-22T04:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0nsfshq",
-      "description": "In a world of crossfit and kink-shaming, budgetting and meal prep, John Tothill presents the antidote to self-improvement. In this episode John tackles the workplace - rejecting the nauseating barrage of self-betterment and productivity, in favour of your worst impulses and transgressions. Listen, we all have regrets that make us wince to remember and consider booking a one-way ticket to Nepal. But do you know what the biggest killer in the UK is? That's right: shame. So come on in, darlings. Curl up with a lovely big pint of Negroni and share your naughtiest stories. John is here to celebrate your vices and absolve you of your sins. You have nothing to be ashamed of. Producer: Sasha Bobak Executive Producer: Pete Strauss Co-Writer: Eve Delaney Production Coordintor: Asha Osborne-Grinter A BBC Studios Production for Radio 4.",
+      "description": "In a world of crossfit and kink-shaming, budgeting and meal prep, John Tothill presents the antidote to self-improvement. In this episode John tackles the workplace - rejecting the nauseating barrage of self-betterment and productivity, in favour of your worst impulses and transgressions. Listen, we all have regrets that make us wince to remember and consider booking a one-way ticket to Nepal. But do you know what the biggest killer in the UK is? That's right: shame. So come on in, darlings. Curl up with a lovely big pint of Negroni and share your naughtiest stories. John is here to celebrate your vices and absolve you of your sins. You have nothing to be ashamed of. Producer: Sasha Bobak Executive Producer: Pete Strauss Co-Writer: Eve Delaney Production Coordintor: Asha Osborne-Grinter A BBC Studios Production for Radio 4.",
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nsfrsj.mp3",
       "enclosure_type": "audio/mpeg",
@@ -997,26 +1011,6 @@
       "itunes_duration": "1711",
       "speakers": [],
       "topics": []
-    },
-    {
-      "key": "d7f2746a6284e5dc17c308d039292d09027102ac",
-      "title": "Henry Normal: A Normal... Humanity",
-      "published_at": "2025-06-23T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lkhj7h",
-      "description": "Join Henry Normal as he uses his unique blend of comedy and poetry to investigate what it truly means to be human. How are we different from other animals? Is there such a thing as a soul? Is it green or brown bin day today? These are just some of the unanswered questions Henry will be leaving unanswered in this new show, recorded live at the Hay-on-Wye Festival. This is the latest episode in his acclaimed, occasional series where the celebrated writer tackles subjects so vast only radio can possibly contain them. Written and performed by Henry Normal Production Coordinator - Katie Baum Produced by Carl Cooper A BBC Studios production for BBC Radio 4 To listen to more episodes from this series search \"Henry Normal\" on BBC Sounds. -- Henry Normal is a multi-award winning writer, producer and poet. Co-writer of TV classics including The Royle Family, The Mrs Merton Show, Coogan’s Run and Paul Calf, and producer of, amongst many others, Oscar-nominated Philomena, Gavin and Stacey and Alan Partridge. He’s published twelve collections of poetry, including his most recent An Alphabet of Storms, and co-wrote the memoir A Normal Family with Angela Pell – the everyday adventure of life with their autistic son. Praise for previous episodes in this series: \"Shove up National Treasures. We need to make room for Henry Normal\" – Simon O'Hagan, Radio Times -\"It's a rare and lovely thing: half an hour of radio that stops you short, gently demands your attention and then wipes your tears away while you have to have a little sit down\" -\"It's a real treat to hear a seasoned professional like Henry taking command of this evening comedy spot to deliver a show that's idiosyncratic and effortlessly funny\" -\"Not heard anything that jumps from hilarious to moving in such an intelligent, subtle way as Henry Normal's show\"",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lkhdqb.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27888000",
-      "itunes_duration": "1743",
-      "speakers": [
-        "Henry Normal"
-      ],
-      "topics": [
-        "henry",
-        "normal",
-        "humanity"
-      ]
     }
   ]
 }
@@ -1025,6 +1019,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — P.O.V.
 - 2026-06-22 — John Tothill Forgives Your Sins — speakers: John Tothill
 - 2026-06-15 — The Many Wrongs Of Lord Christian Brighty
 - 2026-06-08 — One Person Found This Helpful — speakers: Frank Skinner, Dee Allum, Pierre Novellie, Hasan Al-Habib
@@ -1075,4 +1070,3 @@
 - 2025-07-14 — Ashley Blaker's Hyperfixations — speakers: Ashley Blaker
 - 2025-07-07 — Maisie Adam: Euros Fever — speakers: Maisie Adam Euros Fever, Maisie Adam
 - 2025-06-30 — Your Mum
-- 2025-06-23 — Henry Normal: A Normal... Humanity — speakers: Henry Normal

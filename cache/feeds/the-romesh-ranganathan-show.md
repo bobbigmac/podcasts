@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-06-26T17:07:32+00:00`
-- checked_at: `2026-06-26T17:07:32+00:00`
-- last_modified: `Fri, 26 Jun 2026 16:59:59 GMT`
+- fetched_at: `2026-06-29T04:59:08+00:00`
+- checked_at: `2026-06-29T04:59:08+00:00`
+- last_modified: `Sun, 28 Jun 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-26T17:07:32+00:00",
+  "fetched_at": "2026-06-29T04:59:08+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "b1dbb326bb424b0bb76fc5e613cc7acf59498a4a",
+      "title": "Jemaine Clement On Flight of the Conchords, Marmite & British Comedy",
+      "published_at": "2026-06-28T23:01:00+00:00",
+      "link": null,
+      "description": "How awkward can filming a British comedy get? Jemaine Clement joins Romesh to discuss everything from New Zealand, comedy and touring. From starting at the Edinburgh Fringe, to creating one of the most loved series, Flight of the Conchords and working alongside Taika Waititi. They chat about Jemaine's new Disney+ comedy Alice and Steve, filming the upcoming Road Trooper movie with Matt Berry and the reality of life on set. Plus, there's a UK vs New Zealand Marmite taste test, a question from Shanthi, a game of Misquoted and the best Leonard Cohen impression you've ever heard. A Ranga Bee Production in partnership with Platform. Chapters 00:00 Intro 02:40 A present for Jemaine 04:48 Itchy & Scratchy vs Tom & Jerry 06:15 Road Trooper 09:07 A marmite taste test 16:24 New Zealand’s best 17:16 Upbringing and comedy 21:12 Flight Of The Conchords influences 22:05 Edinburgh Fringe 28:45 On Taika Waititi 31:06 A question from Shanthi 34:25 Touring 38:00 On Alice And Steve 49:10 Misquoted 57:50 An exclusive 58:54 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/453a7d72-716d-11f1-b18d-5fdec4229c02/image/c670af9d17d93ef24db244d50643b78f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7824590340.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3785",
+      "speakers": [
+        "Jemaine Clement",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "jemaine",
+        "clement",
+        "flight",
+        "conchords",
+        "marmite",
+        "british",
+        "comedy"
+      ]
+    },
     {
       "key": "0aea39a4d33ca1ecbc9c477fc937a00e2a4c7975",
       "title": "Are Men Who Take Their Tops Off An Ick?",
@@ -1829,6 +1854,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-28 — Jemaine Clement On Flight of the Conchords, Marmite & British Comedy — speakers: Jemaine Clement, Romesh Ranganathan
 - 2026-06-24 — Are Men Who Take Their Tops Off An Ick? — speakers: Romesh Ranganathan
 - 2026-06-22 — Eve on Dr Dre, Battle Rapping and Living In The UK — speakers: Dr Dre, Battle Rapping, Romesh Ranganathan
 - 2026-06-17 — The Australia Special — speakers: Romesh Ranganathan

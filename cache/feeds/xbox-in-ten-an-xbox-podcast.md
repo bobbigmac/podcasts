@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-06-22T12:25:33+00:00`
-- checked_at: `2026-06-22T12:25:33+00:00`
-- etag: `"34d700cd37901368a339b9b4eeeb4500"`
-- last_modified: `Mon, 22 Jun 2026 05:31:26 GMT`
+- fetched_at: `2026-06-29T04:59:08+00:00`
+- checked_at: `2026-06-29T04:59:08+00:00`
+- etag: `"799a4cb839e1172cf4bde4258c849f04"`
+- last_modified: `Mon, 29 Jun 2026 04:21:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-06-22T12:25:33+00:00",
+  "fetched_at": "2026-06-29T04:59:08+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "bfca9add3f01ee749477b9ca73da15406f9e99b6",
+      "title": "Xbox Console Price Hikes & GTA 6 Reveals $80 Price with Preorders Going Live - (Xbox In Ten: An Xbox Podcast - Ep. 370)",
+      "published_at": "2026-06-29T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-console-price-hikes-gta-6-reveals-80-price-with-preorders-going-live-xbox-in-ten-an-xbox-podcast-ep-370",
+      "description": "Week of: 6-22-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/d/e/e/9/dee922d5365d7dd9d959afa2a1bf1c87/370.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/370.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19783984",
+      "itunes_duration": "14:20",
+      "speakers": [
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "console",
+        "price",
+        "hikes",
+        "preorders",
+        "podcast"
+      ]
+    },
     {
       "key": "2dc1b887c963b5d39073add1e441934698f5514b",
       "title": "Xbox Studios Compulsion, Double Fine, and Ninja Theory Facing Closure? - (Xbox In Ten: An Xbox Podcast - Ep. 369)",
@@ -9306,6 +9329,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — Xbox Console Price Hikes & GTA 6 Reveals $80 Price with Preorders Going Live - (Xbox In Ten: An Xbox Podcast - Ep. 370) — speakers: Brandon Rosa
 - 2026-06-22 — Xbox Studios Compulsion, Double Fine, and Ninja Theory Facing Closure? - (Xbox In Ten: An Xbox Podcast - Ep. 369) — speakers: Xbox Studios Compulsion, Double Fine, Ninja Theory Facing Closure, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-06-15 — Asha's Next 100 Days: A Scary Reset for XBOX? - (Xbox In Ten: An Xbox Podcast - Ep. 368) — speakers: Scary Reset, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-06-07 — Xbox Games Showcase 2026, Summer Game Fest & State of Play Recaps - (Xbox In Ten: An Xbox Podcast - Ep. 367) — speakers: Xbox Games Showcase, Summer Game Fest, Play Recaps, Xbox Gaming News, Fun Fact, Brandon Rosa

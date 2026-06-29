@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-28T14:14:46+00:00`
-- checked_at: `2026-06-28T14:14:46+00:00`
-- etag: `"djEuMi4wOjE3ODI2NDk0ODYxMTg="`
+- fetched_at: `2026-06-29T04:59:08+00:00`
+- checked_at: `2026-06-29T04:59:08+00:00`
+- etag: `"djEuMi4wOjE3ODI3MDE4NTk0MjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-28T14:14:46+00:00",
+  "fetched_at": "2026-06-29T04:59:08+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1aeeffa9493cc94e4790fb50028be4634864e2f4",
+      "title": "Jordan Gray (Retro) - \"Embracing Your Delicious Fate\"",
+      "published_at": "2026-06-29T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#440 Embracing Your Delicious Fate - Richard comes bearing great news for those who seek seduction via pizza. His guest is the hottest new act in comedy right now, the incredible Jordan Gray. They talk about the smell of elephant dung, why she wasn’t allowed to set herself on fire on TV, a visit from Magneto, a double-teaming Bros, the erudition of Paloma Faith, Twitter storms, political footballs and why she is first and foremost a comedian and the lengths that people will go to to get into a toilet. Plus another amazing story of ridiculousness emerging from love and a billion Richard Herring sex robots. Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1782648756439-761902e7-c108-4c8c-bdd5-29ef3eb21684.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a410ec29fa27d16ae7fdd7d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29119634",
+      "itunes_duration": "1:00:39",
+      "speakers": [
+        "Jordan Gray",
+        "Richard Herring"
+      ],
+      "topics": [
+        "jordan",
+        "gray",
+        "retro",
+        "delicious",
+        "fate"
+      ]
+    },
     {
       "key": "0898a7c4515b3dfc7846dc60f90568651e717ffc",
       "title": "Rich and Ally's Craven Newsround Compilation \"Incurable\"",
@@ -22974,6 +22997,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — Jordan Gray (Retro) - "Embracing Your Delicious Fate" — speakers: Jordan Gray, Richard Herring
 - 2026-06-27 — Rich and Ally's Craven Newsround Compilation "Incurable" — speakers: Craven Newsround Compilation, Richard Herring
 - 2026-06-26 — Olly Smith on Death by Noir - Book Club — speakers: Olly Smith, Book Club, Richard Herring
 - 2026-06-24 — Lorna Rose Treen - "A 94 Year-Old-Woman Crawling Out of a Pile of Clothes" — speakers: Lorna Rose Treen, Richard Herring

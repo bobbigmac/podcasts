@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-06-22T05:30:23+00:00`
-- checked_at: `2026-06-22T05:30:23+00:00`
-- last_modified: `Sun, 21 Jun 2026 23:00:00 GMT`
+- fetched_at: `2026-06-29T04:59:08+00:00`
+- checked_at: `2026-06-29T04:59:08+00:00`
+- last_modified: `Mon, 29 Jun 2026 03:40:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-22T05:30:23+00:00",
+  "fetched_at": "2026-06-29T04:59:08+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "edf016646678bf1d80e33898e7f2c0626347b7d7",
+      "title": "NATALIE CASSIDY: Being An Eastenders Icon at 10, Clubbing at 15 and Her Love of Art",
+      "published_at": "2026-06-28T23:00:00+00:00",
+      "link": null,
+      "description": "Natalie Cassidy joins Seann Walsh to discuss what it's like coming from a working class background and achieving incredible fame at just 10 years old. We get into what it's like growing up in a world full of adults, getting access to high end night life when you are barely 15 and how she's developed a love of art and museums. Part 2 Available On Patreon With Exclusive Content!:https://www.patreon.com/c/ClassClownSee Seann ⁠Walsh on Tour This Autumn⁠!https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1657663757.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3013",
+      "speakers": [
+        "Natalie Cassidy",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "natalie",
+        "cassidy",
+        "eastenders",
+        "icon",
+        "love"
+      ]
+    },
     {
       "key": "227e8a87a8339eebb27051fada2dc4b50d88c51e",
       "title": "PETER SERAFINOWICZ: Buddhism, Therapy and How I Broke Into Showbiz",
@@ -1594,6 +1617,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-28 — NATALIE CASSIDY: Being An Eastenders Icon at 10, Clubbing at 15 and Her Love of Art — speakers: Natalie Cassidy, Seann Walsh
 - 2026-06-21 — PETER SERAFINOWICZ: Buddhism, Therapy and How I Broke Into Showbiz — speakers: Peter Serafinowicz, Genius Impressionist, Seann Walsh
 - 2026-06-14 — PETER SERAFINOWICZ: From Liverpool Council Estate To Star Wars, Marvel & Comedy Fame — speakers: Peter Serafinowicz, Peter Serfinowicz, Seann Walsh
 - 2026-06-07 — DOM JOLY: The Joke That Ended my BBC Career, Getting Fired as Journalist & Being A Diplomat — speakers: Getting Fired, Diplomat Dom, Seann Walsh
