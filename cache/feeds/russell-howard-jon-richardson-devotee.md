@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-06-23T20:22:00+00:00`
-- checked_at: `2026-06-23T20:22:00+00:00`
-- etag: `W/"349ce-inZ8/YToxOgx+P5jU09snFNWgd4"`
+- fetched_at: `2026-06-29T20:15:52+00:00`
+- checked_at: `2026-06-29T20:15:52+00:00`
+- etag: `W/"385bc-R1VsRetQAhwlaLjiAxGgdKkKiks"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,326 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-06-23T20:22:00+00:00",
+  "fetched_at": "2026-06-29T20:15:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "145eec051a95259a301ed1d8250c97435909e0ff",
+      "title": "Josh Widdicombe XFM #47 – David Baddiel, Roisin Conaty, Nish Kumar",
+      "published_at": "2026-06-29T18:42:56+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-47--David-Baddiel--Roisin-Conaty--Nish-Kumar-e3leg52",
+      "description": "David Baddiel and Roisin Conaty join Josh in the studio. Nish shares another instalment of Nishipedia.Broadcast on 29th April 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782758478797-7b6b4d225408e.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8152571150.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55608199",
+      "itunes_duration": "00:57:18",
+      "speakers": [
+        "David Baddiel",
+        "Roisin Conaty"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "david",
+        "baddiel",
+        "roisin",
+        "conaty",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "0663d1e219d276b00b24a27a5ac2e548a283c026",
+      "title": "Josh Widdicombe XFM #46 – Fin Taylor, Nish Kumar",
+      "published_at": "2026-06-29T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-46--Fin-Taylor--Nish-Kumar-e3ld11t",
+      "description": "Nish Kumar shares another Nishipedia entry and Finn Taylor joins Josh in the studio.Broadcast on 22nd April 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782675820730-e3990d2145319.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7480188039.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50318686",
+      "itunes_duration": "00:51:51",
+      "speakers": [
+        "Fin Taylor",
+        "Nish Kumar",
+        "Finn Taylor"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "taylor",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "ac9e3564353b57735041cb31fe1c1e87752d7120",
+      "title": "Josh Widdicombe XFM #45 – Alan Carr Returns, Matt Forde",
+      "published_at": "2026-06-29T05:03:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-45--Alan-Carr-Returns--Matt-Forde-e3ld0un",
+      "description": "Alan Carr joins josh in the studio, nish kumar shares another instalment of Nishipedia, Matt Forde join josh for the final hour.Broadcast on 14th April 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782675644249-709ec927f02a7.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/122110359/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F426986623-44100-2-36fa21fa82144.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45645739",
+      "itunes_duration": "00:47:32",
+      "speakers": [
+        "Alan Carr Returns",
+        "Matt Forde",
+        "Alan Carr"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "alan",
+        "carr",
+        "returns",
+        "matt",
+        "forde"
+      ]
+    },
+    {
+      "key": "d2a2876ec57338bab0858573e2da615a5e7d5250",
+      "title": "Josh Widdicombe XFM #44 – Katherine Ryan, Matthew Crosby, Nish Kumar",
+      "published_at": "2026-06-28T19:38:37+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-44--Katherine-Ryan--Matthew-Crosby--Nish-Kumar-e3ld0s6",
+      "description": "Katherine Ryan and Matthew Crosby join Josh in the studio. Nish Kumar has another installment of Nishipedia.Broadcast on 8th April 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782675422471-683fbacbfe8c3.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/122110278/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-28%2F426986526-44100-2-b394cc867494f.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47625612",
+      "itunes_duration": "00:49:36",
+      "speakers": [
+        "Katherine Ryan",
+        "Matthew Crosby"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "katherine",
+        "ryan",
+        "matthew",
+        "crosby",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "63803832e51bc8dd6f96bc70cd242810c92cff73",
+      "title": "Josh Widdicombe XFM #43 – James Acaster, Aisling Bea, Nish Kumar",
+      "published_at": "2026-06-26T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-43--James-Acaster--Aisling-Bea--Nish-Kumar-e3l9e16",
+      "description": "Aisling Bea joins Josh in the studio, James Acaster is in for the last hour and Nish Kumar shares another Nishipedia.Broadcast on 25th March 2014",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782410559002-c6008e768d34d.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9553992022.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53802330",
+      "itunes_duration": "00:55:26",
+      "speakers": [
+        "James Acaster",
+        "Aisling Bea"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "aisling",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "99f77c31dd5cc69f99b3dcf54066e002b95e129d",
+      "title": "Josh Widdicombe XFM #42 – Lots of James Acaster, Nish Kumar",
+      "published_at": "2026-06-26T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-42--Lots-of-James-Acaster--Nish-Kumar-e3l9dtb",
+      "description": "The booked guest didn't arrive so James Acaster joins Josh in the studio early. Nish Kumar's nishipedia continues.Broadcast on 18th March 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782410347093-08e8bd71fd891.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3456900471.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57669795",
+      "itunes_duration": "00:59:25",
+      "speakers": [
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "ba0a15b5b9f2a824e645af305ef65a7842cbba7b",
+      "title": "Josh Widdicombe XFM #41 – Jon Richardson, James Acaster, Nish Kumar",
+      "published_at": "2026-06-25T17:57:39+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-41--Jon-Richardson--James-Acaster--Nish-Kumar-e3l9dpf",
+      "description": "Jon Richardson joins Josh, James Acaster discusses Weetabix and Nish Kumar has a conspiracy theory about The Beatles.Broadcast on 11th March 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782410191180-80c5f51943512.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2807253941.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56929690",
+      "itunes_duration": "00:58:40",
+      "speakers": [
+        "Jon Richardson",
+        "James Acaster",
+        "Nish Kumar"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "richardson",
+        "james",
+        "acaster",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "2d119ad561e837f05390b092910023be0e50fcb5",
+      "title": "Josh Widdicombe XFM #40 – James Acaster, Kerry Godliman, Nish Kumar",
+      "published_at": "2026-06-25T10:28:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-40--James-Acaster--Kerry-Godliman--Nish-Kumar-e3l81pb",
+      "description": "Kerry Godliman joins Josh in the studio, Nish Kumar has another conspiracy theory and James Acaster reads a scrape sent in by a viewer.Broadcast on 4th March 2014",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782325766226-8c90a968f42f2.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7876018684.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59099377",
+      "itunes_duration": "01:00:54",
+      "speakers": [
+        "James Acaster",
+        "Kerry Godliman",
+        "Nish Kumar"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "kerry",
+        "godliman",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "7f02a759a9a0d04110a2f26d20dc679a1abc1dca",
+      "title": "Josh Widdicombe XFM #39 – John Robins, Nish Kumar, Ivo Graham",
+      "published_at": "2026-06-25T05:25:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-39--John-Robins--Nish-Kumar--Ivo-Graham-e3l81lm",
+      "description": "John Robins and Ivo Graham join Josh in the studio. Nish discusses his craziest conspiracy theory yet.Broadcast on 18th February 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782325571709-6f8e37ab06d6f.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4281064589.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63320570",
+      "itunes_duration": "01:05:15",
+      "speakers": [
+        "John Robins",
+        "Ivo Graham John Robins",
+        "Ivo Graham"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "john",
+        "robins",
+        "nish",
+        "kumar",
+        "graham"
+      ]
+    },
+    {
+      "key": "657b3d810af41df5cd9246dbb5b88a76f4139ef0",
+      "title": "Josh Widdicombe XFM #38 – James Acaster Agony Uncle 2, Miles Jupp, Nish Kumar",
+      "published_at": "2026-06-24T18:24:46+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-38--James-Acaster-Agony-Uncle-2--Miles-Jupp--Nish-Kumar-e3l81gf",
+      "description": "James Acaster gives another listener some advice, Nish Kumar shares another conspiracy theory and Miles Jupp joins Josh in the studio.Broadcast on 11th February 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782325398835-5ad644728a384.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1819623712.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55039478",
+      "itunes_duration": "00:56:43",
+      "speakers": [
+        "James Acaster Agony Uncle",
+        "Miles Jupp",
+        "Nish Kumar",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "agony",
+        "uncle",
+        "miles",
+        "jupp",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "e878801fb8d19b79901cd81936d38ee26d0f5fbc",
+      "title": "Josh Widdicombe XFM #37 – Mike Wozniak, Rob Beckett, Nish Kumar",
+      "published_at": "2026-06-24T10:25:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-37--Mike-Wozniak--Rob-Beckett--Nish-Kumar-e3l6hl5",
+      "description": "Mike Wozniak and Rob Beckett join Josh in the studio and Nish Kumar talks about a conspiracy theory involving JK Rowling.Broadcast on 4th February 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782239217371-4702fcab3b1fe.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5760345420.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62927716",
+      "itunes_duration": "01:04:51",
+      "speakers": [
+        "Mike Wozniak",
+        "Rob Beckett"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "mike",
+        "wozniak",
+        "beckett",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "a5be66420593730431a4a69024980c70c22dafde",
+      "title": "Josh Widdicombe XFM #36 – James Acaster Agony Uncle 1, Nish Kumar, Tiffany Stevenson.",
+      "published_at": "2026-06-24T05:24:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-36--James-Acaster-Agony-Uncle-1--Nish-Kumar--Tiffany-Stevenson-e3l6hj7",
+      "description": "James Acaster's new feature, Agony Uncle (Moral Maze), begins. Nish Kumar's Nishapedia also begins with a Sadam Hussain conspiracy and Tiffany Stevenson joins Josh in the studio.Broadcast on 27th January 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782239105266-db42cf1aef1ad.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1319684135.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42080934",
+      "itunes_duration": "00:43:21",
+      "speakers": [
+        "James Acaster Agony Uncle",
+        "James Acaster",
+        "Agony Uncle"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "agony",
+        "uncle",
+        "nish",
+        "kumar",
+        "tiffany",
+        "stevenson"
+      ]
+    },
     {
       "key": "36c8d72b5338442bbd69e5c2d18ce206d8270bf0",
       "title": "Josh Widdicombe XFM #35 – Christmas - James Acaster Classic Scrape 30, Elis James, Matthew Crosby",
@@ -3941,6 +4254,18 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — Josh Widdicombe XFM #47 – David Baddiel, Roisin Conaty, Nish Kumar — speakers: David Baddiel, Roisin Conaty
+- 2026-06-29 — Josh Widdicombe XFM #46 – Fin Taylor, Nish Kumar — speakers: Fin Taylor, Nish Kumar, Finn Taylor
+- 2026-06-29 — Josh Widdicombe XFM #45 – Alan Carr Returns, Matt Forde — speakers: Alan Carr Returns, Matt Forde, Alan Carr
+- 2026-06-28 — Josh Widdicombe XFM #44 – Katherine Ryan, Matthew Crosby, Nish Kumar — speakers: Katherine Ryan, Matthew Crosby
+- 2026-06-26 — Josh Widdicombe XFM #43 – James Acaster, Aisling Bea, Nish Kumar — speakers: James Acaster, Aisling Bea
+- 2026-06-26 — Josh Widdicombe XFM #42 – Lots of James Acaster, Nish Kumar — speakers: James Acaster
+- 2026-06-25 — Josh Widdicombe XFM #41 – Jon Richardson, James Acaster, Nish Kumar — speakers: Jon Richardson, James Acaster, Nish Kumar
+- 2026-06-25 — Josh Widdicombe XFM #40 – James Acaster, Kerry Godliman, Nish Kumar — speakers: James Acaster, Kerry Godliman, Nish Kumar
+- 2026-06-25 — Josh Widdicombe XFM #39 – John Robins, Nish Kumar, Ivo Graham — speakers: John Robins, Ivo Graham John Robins, Ivo Graham
+- 2026-06-24 — Josh Widdicombe XFM #38 – James Acaster Agony Uncle 2, Miles Jupp, Nish Kumar — speakers: James Acaster Agony Uncle, Miles Jupp, Nish Kumar, James Acaster
+- 2026-06-24 — Josh Widdicombe XFM #37 – Mike Wozniak, Rob Beckett, Nish Kumar — speakers: Mike Wozniak, Rob Beckett
+- 2026-06-24 — Josh Widdicombe XFM #36 – James Acaster Agony Uncle 1, Nish Kumar, Tiffany Stevenson. — speakers: James Acaster Agony Uncle, James Acaster, Agony Uncle
 - 2026-06-23 — Josh Widdicombe XFM #35 – Christmas - James Acaster Classic Scrape 30, Elis James, Matthew Crosby — speakers: James Acaster Classic Scrape, Elis James, Matthew Crosby, James Acaster
 - 2026-06-23 — Josh Widdicombe XFM #34 – Nish Kumar, Harriet Kemsley, Matthew Crosby. — speakers: Harriet Kemsley, Matthew Crosby, Sharon Osbourne
 - 2026-06-23 — Josh Widdicombe XFM #33 – Stephen Merchant Returns, James Acaster Classic Scrape 29, Matthew Crosby — speakers: Stephen Merchant Returns, James Acaster Classic Scrape, Matthew Crosby, Stephen Merchant, James Acaster
