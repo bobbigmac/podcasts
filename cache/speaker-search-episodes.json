@@ -19006,6 +19006,28 @@
         ],
         "topics": [],
         "external": true
+      },
+      {
+        "feed_slug": "external:apple:a87f2631b5f9",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "https://feeds.acast.com/public/shows/e1483c6e-23ae-46f4-bd83-2528800cbe78",
+        "dedupe_key": "29a1542a76ac2c7a8e6505cf9e707d6b8f54cefc",
+        "episode_key": "29a1542a76ac2c7a8e6505cf9e707d6b8f54cefc",
+        "title": "Alex Horne Breaks the News: Trailer",
+        "published_at": "2013-04-16T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Alex Horne introduces his brand new comedy podcast about some of the funnier news topics of the week. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-breaks-the-news-trailer/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-breaks-the-news-trailer/id1133204823?i=1000372293452&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
       }
     ],
     "lou-sanders": [
