@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-06-22T12:25:33+00:00`
-- checked_at: `2026-06-22T12:25:33+00:00`
-- etag: `"djEuMi4wOjE3ODIxMjU0NTY2OTk="`
+- fetched_at: `2026-06-30T14:43:06+00:00`
+- checked_at: `2026-06-30T14:43:06+00:00`
+- etag: `"djEuMi4wOjE3ODI4MTM5OTk0ODE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-06-22T12:25:33+00:00",
+  "fetched_at": "2026-06-30T14:43:06+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "39c6ef840909928ed773c551c197a485616edf89",
+      "title": "Show 409 - Andy Burnham - Replay",
+      "published_at": "2026-06-30T10:06:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-409-andy-burnham-replay",
+      "description": "Let's go back in time five years and see what, if anything, has really changed... In 2021 Andy was Mayor of Manchester but was clearly developing his thinking on where power in the UK lies. This is a great mix of thoughtful political analysis and riveting behind-the-scenes detail as Andy tells the incredible inside story behind his showdowns with the UK and Scottish governments. He also tells the heartbreaking story of the Hlllsborough families' long campaign for justice and his role in changing the Labour government's position, including the moment he stands in front of a packed Anfield at the memorial service. See the Political Party Live on Stage: 9 August: Anas Sarwar (Edinburgh) 15 August: Stephen Flynn (Edinburgh) 18 August: Rachel Reeves (Edinburgh) 20 August: Malcolm Offord (Edinburgh) 9 November: Liz Kendall (London) 21 December: Wes Streeting (London) Get tickets for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival: https://www.edfringe.com/tickets/whats-on/matt-forde-project-holy-moly Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a43952f3fa89e3338fde2ab/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111162159",
+      "itunes_duration": "1:17:11",
+      "speakers": [
+        "Matt Forde"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "replay"
+      ]
+    },
     {
       "key": "6785a464646fd2d0469dc7adb8d89b1ae59b3e1a",
       "title": "Show 408. Johann Lamont",
@@ -10467,6 +10487,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-30 — Show 409 - Andy Burnham - Replay — speakers: Matt Forde
 - 2026-06-22 — Show 408. Johann Lamont — speakers: Johann Lamont, Matt Forde
 - 2026-06-15 — Show 407. Beeban Kidron — speakers: Beeban Kidron, Matt Forde
 - 2026-06-09 — Show 406. Jeremy Hunt — speakers: Jeremy Hunt Prepare, Jeremy Hunt, Matt Forde

@@ -2767,6 +2767,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:5e2a2807e892",
+        "feed_title": "Discover Premium Audiobook Collection On Your Favorite Devices",
+        "source_rss_url": "https://booksreader.space/br/2066/index.xml",
+        "dedupe_key": "b93400f8711c6f723ac07dffd5ea775ce56b7293",
+        "episode_key": "b93400f8711c6f723ac07dffd5ea775ce56b7293",
+        "title": "James Acaster's Guide to Quitting Social Media -- James Acaster",
+        "published_at": "2022-08-18T09:34:26Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "#ads Stream any unabridged audiobook of your choice with premium access by starting your trial on:https://booksreader.space/al-2066/Title: James Acaster's Guide to Quitting Social Media\n Author: James Acaster\n Narrator: James Acaster\n Format: mp3\n Length: 6 hrs and 54 mins\n Release date: 08-18-22\n Ratings: 4.5 out of 5",
+        "audio_url": "https://samples.audible.com/bk/head/001839/bk_head_001839_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acasters-guide-to-quitting-social-media-james/id6784954434?i=1000774452483&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:04bf13a3cc34",
         "feed_title": "Hypothetical The Podcast with Josh Widdicombe and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/625563eef25a12001309ecc2",
@@ -11759,6 +11781,28 @@
       }
     ],
     "sally-phillips": [
+      {
+        "feed_slug": "external:apple:8e22327570e3",
+        "feed_title": "Sunday Brunch Picky Bits",
+        "source_rss_url": "https://feeds.acast.com/public/shows/68d10529146cfd1a65544aed",
+        "dedupe_key": "1f4e88b87e103d2215ad864964de742c2e77c1ab",
+        "episode_key": "1f4e88b87e103d2215ad864964de742c2e77c1ab",
+        "title": "S2 Ep21 Leslie Odom Jr, Alfie Boe, Sally Phillips, Phil Wang, Charlie Marlowe & Dry Cleaning",
+        "published_at": "2026-06-29T06:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tim Lovejoy and Simon Rimmer interview big names from the worlds of sport, music, entertainment, food and more. The Sunday Brunch Picky Bits podcast presents audio highlights from each weekly TV episode for you to enjoy on the go.\nThis week, we've picked bits from Tim and Simon's interviews with: Leslie Odom Jr, Alfie ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/68d10529146cfd1a65544aed/e/6a416bc47407a2671f8c2b14/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s2-ep21-leslie-odom-jr-alfie-boe-sally-phillips-phil/id1843289955?i=1000774651840&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:1a1e3e71ef0f",
         "feed_title": "Questions & Ancestors with Alex Jones",
