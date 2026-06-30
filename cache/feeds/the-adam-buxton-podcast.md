@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-06-24T09:50:32+00:00`
-- checked_at: `2026-06-24T09:50:32+00:00`
-- etag: `"djEuMi4wOjE3ODIyODg1MzYxMzA="`
+- fetched_at: `2026-06-30T22:39:22+00:00`
+- checked_at: `2026-06-30T22:39:22+00:00`
+- etag: `"djEuMi4wOjE3ODI4NTM0Mzk5MjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-06-24T09:50:32+00:00",
+  "fetched_at": "2026-06-30T22:39:22+00:00",
   "owners": [
     "Adam Buxton"
   ],
