@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-06-26T09:51:24+00:00`
-- checked_at: `2026-06-26T09:51:24+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RJME5UQXdNemswT1RNPTo6c2F4ZXNz"`
+- fetched_at: `2026-06-30T09:59:52+00:00`
+- checked_at: `2026-06-30T09:59:52+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RJM09UVTJNemsyTWpRPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-06-26T09:51:24+00:00",
+  "fetched_at": "2026-06-30T09:59:52+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -28,12 +28,32 @@
   ],
   "episodes": [
     {
+      "key": "86f2460b98bcfa82c9a22cde9befcfa0862cbc4c",
+      "title": "Help I’ve Scalded My A***hole | And Wendi’s Reply…",
+      "published_at": "2026-06-30T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-ive-scalded-my-ahole-and-wendis-reply",
+      "description": "Jordan's back from his mum's 60th birthday, and there's much to debrief on. Wendi has also heard William's recent comments about her, and let's just say SHOTS HAVE BEEN FIRED. Will William be able to resist having the last word, or will he keep digging his own grave? There's also plenty of dilemmas to solve, including how to dress for a northern wedding and the perils of douching with hot water. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1782724277052-4dc60e66-d041-4aec-a96c-08f5f22e63dd.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a3e9a89daba92da64b2a6aa/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=BASELsNHAfldzYL2Ws6D_Mq6LIknbnpo-6q2eHqr9Pg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39869544",
+      "itunes_duration": "41:31",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "wendi",
+        "reply"
+      ]
+    },
+    {
       "key": "2e32d187979985d7ae66952beb6205eeaf180afe",
       "title": "Help I Fact Up! | With Joe Thomas And James Buckley",
       "published_at": "2026-06-26T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-i-fact-up-with-joe-thomas-and-james-buckley",
       "description": "OOO PODCAST FWIENDS! After months of Jordan's requests (which verged on begging), we've finally got Joe Thomas and James Buckley from 'The Inbetweeners' and the 'Joe and James Fact Up!' podcast in for a chat! First off, the boys step into Joe and James' world (and studio) for a taste of their unique brand of tangent-heavy chat and fact-finding. Then it's over to the wonderfully tame world of Help I Sexted My Boss, where it doesn't take long at all for James Buckley to spot a clone-a-willy and all hell breaks loose. And of course, it wouldn't be a Sexted episode without a few of your dilemmas for all four of the boys to try and solve. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1782477018282-a6183309-2963-4662-916a-ea8bc3cf37dc.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a3bf09323c4847f0599e6ba/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=AP3A8OQJgwq-T1i-ZTbQcNEHVhUSRKkW2uaeoLKjb9E",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "50552999",
@@ -56,7 +76,7 @@
       "published_at": "2026-06-23T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-i-regret-pup-play-and-my-bad-boyfriend",
       "description": "After Jordan called up one of his three brothers to say \"I love you\" for the first time, it seems word of this has reached the rest of them, and they ARE NOT happy about it. Meanwhile, not content with West End success, William has been daydreaming about being a rockstar. The boys also address your dilemmas on bad boyfriends in the bedroom and the dangers of 'pup play'. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1782477047101-e44b0c94-08ce-47fb-aa01-eb1307ea3905.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a35462ca2c92989737dbe55/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=CTpLFDjX-8jMRAQ9swrgGeelxn7FdgbvYJubF39nRCs",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "42235611",
@@ -14565,6 +14585,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-30 — Help I’ve Scalded My A***hole | And Wendi’s Reply… — speakers: William Hanson, Jordan North
 - 2026-06-26 — Help I Fact Up! | With Joe Thomas And James Buckley — speakers: Joe Thomas, James Buckley, William Hanson, Jordan North
 - 2026-06-23 — Help I Regret Pup Play | And My Bad Boyfriend — speakers: William Hanson, Jordan North
 - 2026-06-19 — Daddy Pig’s A Misogynist | And Licking The Spice Out — speakers: Daddy Pig, Out When, William Hanson, Jordan North

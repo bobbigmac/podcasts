@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-06-30T04:33:45+00:00`
-- checked_at: `2026-06-30T04:33:45+00:00`
-- last_modified: `Fri, 26 Jun 2026 13:54:45 GMT`
+- fetched_at: `2026-06-30T09:59:52+00:00`
+- checked_at: `2026-06-30T09:59:52+00:00`
+- last_modified: `Tue, 30 Jun 2026 05:23:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/e7b5e70b063b9ec38ffb7ffdbeb89ff0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-30T04:33:45+00:00",
+  "fetched_at": "2026-06-30T09:59:52+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1e6266cc3800341fc6ac2321537793ceabbb4747",
+      "title": "S12 EP51: The Ransom Is My Ego",
+      "published_at": "2026-06-30T04:45:00+00:00",
+      "link": null,
+      "description": "Josh lives a holiday booking nightmare in real time, Rob stealth buys a swimming pool and gets into some Park Run beef. Enjoy! ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5817854731.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3191",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "ransom"
+      ]
+    },
     {
       "key": "06726d400048db4a1c67364560a96f1035d51f7e",
       "title": "S12 EP50: My daughter broke her arm",
@@ -12187,6 +12206,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-30 — S12 EP51: The Ransom Is My Ego — speakers: Rob Beckett, Josh Widdicombe
 - 2026-06-26 — S12 EP50: My daughter broke her arm — speakers: Rob Beckett, Josh Widdicombe
 - 2026-06-23 — S12 EP49: I love the buffet — speakers: Rob Beckett, Josh Widdicombe
 - 2026-06-19 — S12 EP48: Stop me if you've heard this one before — speakers: Rob Beckett, Josh Widdicombe
