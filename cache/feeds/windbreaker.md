@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-06-23T04:20:01+00:00`
-- checked_at: `2026-06-23T04:20:01+00:00`
-- etag: `W/"3f609-MCIp02G0dtrrUeLqNM4n1f1JngE"`
+- fetched_at: `2026-06-30T04:33:45+00:00`
+- checked_at: `2026-06-30T04:33:45+00:00`
+- etag: `W/"3fce9-V29UG+r9tIXPwR8xkW5oRSwgkMY"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-06-23T04:20:01+00:00",
+  "fetched_at": "2026-06-30T04:33:45+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "bf7bf43880ae3c67517940e67fcd4a58a8beb9fd",
+      "title": "The Art of the Time Loop | Windbreaker Podcast",
+      "published_at": "2026-06-30T01:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/The-Art-of-the-Time-Loop--Windbreaker-Podcast-e3legv0",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the art of the video game time loop. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7247490473.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65111776",
+      "itunes_duration": "01:07:06",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "time",
+        "loop",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "1dca7c9456c4cb94fed04df39e6502a0ab5bebe1",
       "title": "Why Are Cards Everywhere In Games? | Windbreaker Podcast (ft. Jack Packard)",
@@ -2996,6 +3018,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-30 — The Art of the Time Loop | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-06-23 — Why Are Cards Everywhere In Games? | Windbreaker Podcast (ft. Jack Packard) — speakers: Jack Packard, Yahtzee Croshaw, Marty Sliva
 - 2026-06-16 — Building Our Indie Game Mount Rushmore | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-06-09 — Catching Yahtzee Up on the Big Summer Game Fest Announcements | Windbreaker Podcast — speakers: Catching Yahtzee, Yahtzee Croshaw, Marty Sliva
