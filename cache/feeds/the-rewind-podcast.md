@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-06-30T20:18:20+00:00`
-- checked_at: `2026-06-30T20:18:20+00:00`
-- etag: `W/"18039-Cno/0I8TRhGjai4P6MC9qZ0rQyE"`
+- fetched_at: `2026-07-01T04:53:39+00:00`
+- checked_at: `2026-07-01T04:53:39+00:00`
+- etag: `W/"1871c-SD0c8Xkx7Gpz1aaImQzh6EXu9DU"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-06-30T20:18:20+00:00",
+  "fetched_at": "2026-07-01T04:53:39+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "da8aee3c7bff7c48232c2f535276d3c03061cf0d",
+      "title": "Supergirl and Widow's Bay Impressions | The Rewind Podcast",
+      "published_at": "2026-07-01T01:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Supergirl-and-Widows-Bay-Impressions--The-Rewind-Podcast-e3lgg05",
+      "description": "This week on The Rewind, Jack, Darren, and Marty chat about Supergirl, Widow's Bay, and everything else they've been watching. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/122224069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-1%2F445ed467-0632-7679-8278-a6b1c96d3b3e.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "272909408",
+      "itunes_duration": "03:09:31",
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "supergirl",
+        "widow",
+        "impressions",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "cf13b20a9d2ded31d69023a0c4cdf2b1f0890779",
       "title": "Does Masters of the Universe Have the Power? | The Rewind Podcast",
@@ -1242,6 +1266,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — Supergirl and Widow's Bay Impressions | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-06-17 — Does Masters of the Universe Have the Power? | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-06-03 — Could Grogu Survive in the Backrooms? | The Rewind Podcast — speakers: Grogu Survive, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-05-20 — Obsession Rules, Mor(e)tal Kombat, and The Batman Part II Casting | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva

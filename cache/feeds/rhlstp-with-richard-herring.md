@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-06-29T04:59:08+00:00`
-- checked_at: `2026-06-29T04:59:08+00:00`
-- etag: `"djEuMi4wOjE3ODI3MDE4NTk0MjM="`
+- fetched_at: `2026-07-01T04:53:39+00:00`
+- checked_at: `2026-07-01T04:53:39+00:00`
+- etag: `"djEuMi4wOjE3ODI4NzQ2NTkyNzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-06-29T04:59:08+00:00",
+  "fetched_at": "2026-07-01T04:53:39+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "839bcf86c92da217c8bdc4095ac0bf358ceed423",
+      "title": "Harry Shearer and Tom Leopold - \"J Edgar Hoover in a Ballgown\"",
+      "published_at": "2026-07-01T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #616 - J Edgar Hoover in a Ballgown - Richard has a remote chat with two powerhouses of American comedy Harry Shearer and Tom Leopold. They talk about Tom writing on some of the biggest sitcoms of the last few decades, how the pair met, their failed TV pilot that saw the birth of Spinal Tap, Tom’s conversion from Judaism to Catholicism, their brand new 32 year old project Here Comes J. Edgar! a comedy musical about a terrible man who held US politicians hostage to his will by use of his blackmailing list, how ridicule is the only thing that can hurt men like this. Plus what is Chevy Chase really like, how Paul McCartney is one of the great comedy improvisers and why Harry is still happy working on the Simpsons after all these years and how have these two maintained their friendship for so very long. Tickets for the show here https://kingsheadtheatre.com/whats-on/here-comes-j-edgar-a-comedy-musical-t7zc See RHLSTP at the Fringe http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1782649078139-af66ca59-8fc7-4983-b078-099d8aa9c5f4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a410ef626d5a6687a36f319/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21104222",
+      "itunes_duration": "43:57",
+      "speakers": [
+        "Harry Shearer",
+        "Edgar Hoover",
+        "Richard Herring"
+      ],
+      "topics": [
+        "harry",
+        "shearer",
+        "leopold",
+        "edgar",
+        "hoover",
+        "ballgown"
+      ]
+    },
     {
       "key": "1aeeffa9493cc94e4790fb50028be4634864e2f4",
       "title": "Jordan Gray (Retro) - \"Embracing Your Delicious Fate\"",
@@ -22997,6 +23022,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — Harry Shearer and Tom Leopold - "J Edgar Hoover in a Ballgown" — speakers: Harry Shearer, Edgar Hoover, Richard Herring
 - 2026-06-29 — Jordan Gray (Retro) - "Embracing Your Delicious Fate" — speakers: Jordan Gray, Richard Herring
 - 2026-06-27 — Rich and Ally's Craven Newsround Compilation "Incurable" — speakers: Craven Newsround Compilation, Richard Herring
 - 2026-06-26 — Olly Smith on Death by Noir - Book Club — speakers: Olly Smith, Book Club, Richard Herring

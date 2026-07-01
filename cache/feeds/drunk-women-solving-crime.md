@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-06-26T09:51:24+00:00`
-- checked_at: `2026-06-26T09:51:24+00:00`
-- etag: `"djEuMi4wOjE3ODI0NjA0MDA5NDI="`
+- fetched_at: `2026-07-01T04:53:39+00:00`
+- checked_at: `2026-07-01T04:53:39+00:00`
+- etag: `"djEuMi4wOjE3ODI4NjQwMzkzMzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -15,9 +15,9 @@
   "source_url": "https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad",
   "title": "Drunk Women Solving Crime",
   "link": "https://drunkwomensolvingcrime.komi.io/",
-  "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://audioalways.lnk.to/drunkwomensolvingcrimeSN If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
+  "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-06-26T09:51:24+00:00",
+  "fetched_at": "2026-07-01T04:53:39+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "519e1dabdee3e389579de8925d6b14acab210079",
+      "title": "Drinking the Kool Aid, with Alicia Witt",
+      "published_at": "2026-07-01T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/drinking-the-kool-aid-with-alicia-witt",
+      "description": "We're back in the studio this week, and delighted to be joined by our wonderful guest, actor, musician and author, Alicia Witt. Despite hearing about the time she evoked a very strong 'Single White Female' response from Taylor, Alicia didn't run a mile and in fact stayed to tell us about how an incident on a prior trip to London left her feline less than camera ready, before going on to prove she has more than one string to her bow by helping our hosts crack a case which also has its origin story in the English capital. The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in September, October AND November. Full info and tickets HERE. Plus, they still have one more summer show for 2026 when they appear at The Ventnor Fringe on Saturday 25th July! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a4267ec71668e370601be22/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84604837",
+      "itunes_duration": "58:44",
+      "speakers": [
+        "Alicia Witt",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "kool",
+        "alicia",
+        "witt"
+      ]
+    },
     {
       "key": "d8ffd37d37d253064d1c2301a503e5ca367149e5",
       "title": "DWSC LIVE: With Sally-Anne Hayward",
@@ -11278,6 +11300,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — Drinking the Kool Aid, with Alicia Witt — speakers: Alicia Witt, Hannah George, Taylor Glenn
 - 2026-06-26 — DWSC LIVE: With Sally-Anne Hayward — speakers: Sally-Anne Hayward, Hannah George, Taylor Glenn
 - 2026-06-24 — DWSC LIVE: With Robin Morgan — speakers: Robin Morgan, Hannah George, Taylor Glenn
 - 2026-06-17 — Taking It Down a Notch, with Amelia Hamilton — speakers: Amelia Hamilton, Hannah George, Taylor Glenn

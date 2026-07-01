@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-06-29T11:23:34+00:00`
-- checked_at: `2026-06-29T11:23:34+00:00`
-- etag: `"djEuMi4wOjE3ODI3MzEyMjg5MDA="`
+- fetched_at: `2026-07-01T04:53:39+00:00`
+- checked_at: `2026-07-01T04:53:39+00:00`
+- etag: `"djEuMi4wOjE3ODI4NjIyOTkzNDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-06-29T11:23:34+00:00",
+  "fetched_at": "2026-07-01T04:53:39+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "3c2544c6bb8066380248ea8a384c2a71adc6d3af",
+      "title": "Contrite, Vulnerable, Listener",
+      "published_at": "2026-06-30T23:31:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/contrite-vulnerable-listener",
+      "description": "Welcome to Wednesday’s Socially Distant Sports Bar with Elis James, Mike Bubbins and Steff Garrero. You'll know Elis from \"Elis & John\" and Mike from his TV show \"Mammoth\" This week, Elis brings in Roy Keane on relationship issues, Mike has Kevin Sinfield, and Steff has found Scotland fans at the baseball. There is emotional intelligence from unexpected places, sporting greatness, travelling supporters, and the usual attempt to keep a sports podcast somewhere near the subject of sport. Clips Elis: Roy Keane on relationship issues https://www.instagram.com/reel/DZpnCU0JLwk/?igsh=bzJwbXNpdm94ZG13 Mike: Kevin Sinfield https://www.instagram.com/reel/DZgE-PxsFXy/?igsh=MXdtbmNheWZwNWR4NQ== https://www.instagram.com/reel/DZg0L45gnFv/?igsh=MXZrZmNzbHBrY3hl Steff: Scotland fans at the baseball https://www.instagram.com/reel/DZlwiuZvviP/?igsh=MTBoZTd6NGpxa3Zncw== https://www.instagram.com/reel/DZlp5ijFWsK/?igsh=bmwwM2l0ZDN0aHBw https://www.instagram.com/reel/DZlg934NRAY/?igsh=MWp1Y29rcHVxbHdmNA== https://www.instagram.com/reel/DZlJnaYsKos/?igsh=MW03em9qODd0OWJjbg== There's another episode out on Friday. And if you want both episodes early and advert-free every Tuesday — AND a bonus 3rd episode which is only available on Apple Subscriptions in the podcast apps — subscribe to Distant Pod Bonus Club on Apple Podcasts. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a424d7871668e3706f689e3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "165396480",
+      "itunes_duration": "1:08:54",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "contrite",
+        "vulnerable",
+        "listener"
+      ]
+    },
     {
       "key": "31bae1aa285dd2ec6ede06b6b4e7fced39d76178",
       "title": "Cryogenics: Pint Size",
@@ -15209,6 +15231,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-30 — Contrite, Vulnerable, Listener — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-27 — Cryogenics: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-25 — Aussie Mike — speakers: Aussie Mike Elis James, Mike Bubbins, Steff Garrero, Elis James
 - 2026-06-23 — Peanuts, Caffeine, Acting — speakers: Acting Welcome, Socially Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero

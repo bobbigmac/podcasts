@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-06-24T04:35:18+00:00`
-- checked_at: `2026-06-24T04:35:18+00:00`
-- last_modified: `Tue, 23 Jun 2026 10:27:48 GMT`
+- fetched_at: `2026-07-01T04:53:39+00:00`
+- checked_at: `2026-07-01T04:53:39+00:00`
+- last_modified: `Tue, 30 Jun 2026 01:23:38 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-24T04:35:18+00:00",
+  "fetched_at": "2026-07-01T04:53:39+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,52 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5ab2aa84d9552c8a04a38f2607b977386a79125a",
+      "title": "Auditions, Ranking Actors & Weird Parenting Advice",
+      "published_at": "2026-06-29T23:01:00+00:00",
+      "link": null,
+      "description": "What would happen if Tom and Romesh started their own Diary of a CEO? On this week's Wolf & Owl, the boys settle into their brand new studio before taking the mickey out of some of the biggest podcasts around. From The Diary of a CEO to The Rest Is Entertainment (and even a cycling podcast nobody asked for), no podcast is safe. Elsewhere, Tom gives Romesh some questionable dad advice, and the pair role play some bizarre audition scenarios. As always, expect complete nonsense, the odd surprisingly wholesome moment and plenty of reasons to email us your questions, dilemmas and ideas for future episodes at wolfowlpod@gmail.com A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 02:40 A present for Jermaine 04:48 Itchy & Scratchy vs Tom & Jerry 05:51 Auditioning 13:00 Romesh’s audition 17:16 Some Dad advice 27:14 Ranking best actors 30:16 Our own Diary Of A CEO 36:05 What can we do next? 37:10 A cyling skit 41:04 Tom’s hallmark read 42:46 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3c443f70-73d7-11f1-8e32-0f3988eef5b6/image/a1fd156e224aa58d5f791e21bd5c9f44.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3638781746.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2740",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "auditions",
+        "ranking",
+        "actors",
+        "weird",
+        "parenting",
+        "advice"
+      ]
+    },
+    {
+      "key": "f5844cdf6049d61ff4a6223e50cb98e5856796b6",
+      "title": "Home Alone, Gordon Ramsay & Making Friends",
+      "published_at": "2026-06-25T23:01:00+00:00",
+      "link": null,
+      "description": "Is it harder to make friends after 40? On this week’s episode of Wolf & Owl, Rom and Tom tackle one of life’s trickier questions as they dish out advice on making new mates as an adult and why it can be harder after you hit 40. There’s also a Home Alone deep dive, a surprising switch up from Tom on his Gordon Ramsay opinion, a debate about Itchy And Scratchy and inevitably, one of Tom’s most revolting stories yet. As always, the boys are answering your emails, oversharing where absolutely nobody asked them to and some terrible American accents from Tom. A Ranga Bee Production in partnership with Platform Media. 00:00 Intro 00:56 Tom’s American accent 3:30 On Home Alone 4:52 Itchy & Scratchy vs Tom & Jerry 7:27 Tom’s vulgar poo story 9:16 An email from you 11:50 Tom goes backtracks on Gordon Ramsey 16:26 Advice on making friends 22:05 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/54e357ea-70a9-11f1-8845-77cac7200b2e/image/2baed9ae26b8c535d72ecaf708d61b2e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8897201994.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1515",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "home",
+        "gordon",
+        "ramsay",
+        "friend"
+      ]
+    },
     {
       "key": "4cc7c1b48fb5a433fb39b7000b25a49bd2937a09",
       "title": "Plastic Surgery, Toilet Drama And Dental Nightmares",
@@ -6993,6 +7039,8 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — Auditions, Ranking Actors & Weird Parenting Advice — speakers: Romesh Ranganathan, Tom Davis
+- 2026-06-25 — Home Alone, Gordon Ramsay & Making Friends — speakers: Romesh Ranganathan, Tom Davis
 - 2026-06-22 — Plastic Surgery, Toilet Drama And Dental Nightmares — speakers: Romesh Ranganathan, Tom Davis
 - 2026-06-18 — Baked Beans, Chocolate Digestives and Declan Rice — speakers: Declan Rice, Romesh Ranganathan, Tom Davis
 - 2026-06-15 — Matching Tattoos, Conspiracy Theories and Kevin Hart Roast — speakers: Conspiracy Theories, Kevin Hart Roast, Will Heartbreak, Romesh Ranganathan, Tom Davis

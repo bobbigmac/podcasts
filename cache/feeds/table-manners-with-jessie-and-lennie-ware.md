@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-06-24T04:35:18+00:00`
-- checked_at: `2026-06-24T04:35:18+00:00`
-- etag: `"djEuMi4wOjE3ODIyNzAwMzk1NjM="`
+- fetched_at: `2026-07-01T04:53:39+00:00`
+- checked_at: `2026-07-01T04:53:39+00:00`
+- etag: `"djEuMi4wOjE3ODI4NjQwMzkzMzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-06-24T04:35:18+00:00",
+  "fetched_at": "2026-07-01T04:53:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "01f5ffa0cd88870f0aa34258f7d03873d3337e75",
+      "title": "Gracie Abrams",
+      "published_at": "2026-07-01T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/gracie-abrams",
+      "description": "Superstar singer-songwriter Gracie Abrams pulls up a seat at the podcast table this week! Ahead of the release of her new album, we caught up with Gracie over brunch where mum whipped up a dutch baby with smoked salmon. Gracie told us about how she finds comfort in cooking while on tour, the meals she always requests when she's back home, the magic of performing live, and how she thought Taylor Swift messaging her was actually a prank! Plus, Gracie reveals the delicious caramelised leeks she’s obsessed with right now. Thank you for a lovely morning Gracie, Daughter From Hell is out on 17th July. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1782837387729-f3c0b4f5-1f8d-4878-99c5-7e3ea4fb51a1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a43e55275e7a3e961bf043e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36060263",
+      "itunes_duration": "37:33",
+      "speakers": [
+        "Gracie Abrams Superstar"
+      ],
+      "topics": [
+        "gracie",
+        "abrams"
+      ]
+    },
     {
       "key": "4c43578b5ebd781afb34bd796b90a8ef0ccb4413",
       "title": "Indira Varma",
@@ -7235,6 +7254,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — Gracie Abrams — speakers: Gracie Abrams Superstar
 - 2026-06-24 — Indira Varma — speakers: Indira Varma
 - 2026-06-17 — Oti Mabuse — speakers: Oti Mabuse
 - 2026-06-10 — Jeff Goldblum — speakers: Jeff Goldblum

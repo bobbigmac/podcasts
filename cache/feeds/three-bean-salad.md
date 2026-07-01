@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-06-24T04:35:18+00:00`
-- checked_at: `2026-06-24T04:35:18+00:00`
-- etag: `"a24a3-654f4c5bafe1f"`
-- last_modified: `Wed, 24 Jun 2026 00:15:26 GMT`
+- fetched_at: `2026-07-01T04:53:39+00:00`
+- checked_at: `2026-07-01T04:53:39+00:00`
+- etag: `"a2f99-655819650a810"`
+- last_modified: `Wed, 01 Jul 2026 00:15:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-06-24T04:35:18+00:00",
+  "fetched_at": "2026-07-01T04:53:39+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1b32d416c46f9def3549513d7bb850543395b396",
+      "title": "The Roman Empire",
+      "published_at": "2026-07-01T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/the-roman-empire",
+      "description": "Plumbers. Noon. The Planets. Just a few of the things that probably wouldn’t even exist today if it weren’t for the Roman Empire probably. And here’s another one: Luke from Bolton via Bremen. Little wonder then that he chose it as this week’s topic for the Three Bean Salad Podcast (which definitely would have existed either way). Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/2eb232d5-d201-4186-a6a9-4cb6e7688b15/S21-E05-The-Roman-Empire.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/dc37cd3a-4078-4284-ba27-0024aac8837f.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=dc37cd3a-4078-4284-ba27-0024aac8837f",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56906441",
+      "itunes_duration": "59:17",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "roman",
+        "empire"
+      ]
+    },
     {
       "key": "19792021779616f2de89f79469b69ade0a71eba9",
       "title": "Seaside Towns",
@@ -4333,6 +4354,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — The Roman Empire — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-06-24 — Seaside Towns — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-06-17 — The Circus — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-06-10 — Agatha Christie — speakers: Agatha Christie, Mike Wozniak, Henry Paker, Benjamin Partridge

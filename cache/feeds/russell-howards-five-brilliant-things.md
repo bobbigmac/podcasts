@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-06-24T04:35:18+00:00`
-- checked_at: `2026-06-24T04:35:18+00:00`
-- last_modified: `Tue, 23 Jun 2026 01:08:44 GMT`
+- fetched_at: `2026-07-01T04:53:39+00:00`
+- checked_at: `2026-07-01T04:53:39+00:00`
+- last_modified: `Wed, 01 Jul 2026 01:07:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-24T04:35:18+00:00",
+  "fetched_at": "2026-07-01T04:53:39+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "3d1999cd61b9a01fc29ed87393a95aef973d22cf",
+      "title": "Natalie Cassidy",
+      "published_at": "2026-07-01T01:00:00+00:00",
+      "link": null,
+      "description": "A lovely chat with a lovely guest: Natalie talks about her time behind the scenes on Eastenders (and her prodigious ability to nap on command), her more recent time spent working with the care system and sharing memes that people have made out of her own face! There’s loads to enjoy, please dive in and have a great time. We talked about it on the show - Nat has her podcast ‘Life with Nat’ alongside her closest friends and family, so if you want to hang out with Nat more long-term, you absolutely can. Visit https://lifewithnatpod.komi.io/ and get involved. This blurb has been passed by the official blurb approval committee with a safety rating of B minus. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3b4a4090-745b-11f1-aca9-473c1a21407d/image/427d0819c63db5b1673ae66530ed4a60.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1602192283.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3760",
+      "speakers": [
+        "Natalie Cassidy",
+        "Russell Howard"
+      ],
+      "topics": [
+        "natalie",
+        "cassidy"
+      ]
+    },
     {
       "key": "178c6ed4d6e8ecd7e113309156c2bd9c0ef04b9a",
       "title": "Al Nash",
@@ -3153,6 +3173,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — Natalie Cassidy — speakers: Natalie Cassidy, Russell Howard
 - 2026-06-23 — Al Nash — speakers: Al Nash AL, Al Nash, Al poppe, Russell Howard
 - 2026-06-17 — Aziz Ansari — speakers: Russell Howard
 - 2026-06-10 — Sindhu Vee — speakers: Sindhu Vee Comedian, Sindhu Vee, Russell Howard

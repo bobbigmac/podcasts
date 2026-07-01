@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-06-22T05:30:23+00:00`
-- checked_at: `2026-06-22T05:30:23+00:00`
-- last_modified: `Mon, 22 Jun 2026 05:04:37 GMT`
+- fetched_at: `2026-07-01T04:53:39+00:00`
+- checked_at: `2026-07-01T04:53:39+00:00`
+- last_modified: `Mon, 29 Jun 2026 14:09:30 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-22T05:30:23+00:00",
+  "fetched_at": "2026-07-01T04:53:39+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -26,6 +26,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "04a71715e39c6adb3b85ff40208fb150bb82c376",
+      "title": "Kiri Pritchard-McLean: Permaculture Farms, The Multi-Step Korean Skincare Cleansing Balm, and the Danbury Mint Shoe Collab",
+      "published_at": "2026-06-29T07:59:00+00:00",
+      "link": null,
+      "description": "In this week’s episode of the Podscarf we welcome Welsh comedic force Kiri Pritchard-McLean (who was spotted on a train trying to ignore Harry by aggressively speaking Welsh ) and University of Kent Music Hall expert Oliver Double to the studio for an hour of pure, unadulterated historical bawdiness and skincare science. Things get incredibly weird, incredibly fast. Watch as Kiri tries to navigate an absolute safeguarding nightmare involving Harry's fictional heir, Gary, and his filthy collar , witness Harry deliver his highly detailed skincare routine and we see the return of the ANDY BURNHAM. --- 00:00 – The Danbury Mint x Christian Labuta Flamboyant Shoe Collab 01:09 – The Cardiff-Glasgow Train Stalking Incident 02:59 – Fostering, Permaculture, and the \"Angle Grinder\" Dating App 04:20 – Licky the Mascot gets way too close to Kiri’s hair 05:49 – Chilling Deep Relationships with Chat GPT Therapists 07:09 – The Andy Burnham Dance 08:39 – Sarah the AI Bot offends the entire nation of Wales 09:32 – Dark History: The English Academics and the Block of Wood 10:22 – Sarah’s Biographical Slander: \"Gloucester Born?!\" 11:28 – The Vagaries of Animal Welfare Charities and Indoor Toilets 13:55 – Fart-powered Permaculture and Burning Your Own Effluent 15:23 – Harry’s Hyper-Intense 12-Step Korean Skincare Regime 16:38 – The Musty Flannel Incident (\"Stop it mum, I can't breathe!\") 17:09 – A Plant-Based Crisis: Sarah hands a Vegan a Twix bar 18:20 – Caroline Aherne being naughty in a cab 22:20 – Theme Of The Week: Music Hall 26:40 – Charles Morton’s Canterbury Trick and the Shape of the Hackney Empire 27:57 – The Dignitas Reunion Dinner Incident (A Dignitary falls off the stage) 31:23 – Little Titch: Six-fingered Mittens and Big Boot Dancing 33:10 – Royal Variety Scandal: Queen Mary hides from a woman in trousers 34:29 – Sweating on stage with the Spice Girls and Jim Davidson in 1997 35:54 – Fanning Dad with a Kipper: The DNA of Early Stand-up Comedy 38:20 – Mechanical Funnels and the Financial Collapse of Wet Money 41:04 – The Glasgow Empire: Graveyard of English Comics and Fake Fainting 44:22 – John Major's Dad and the Great Music Hall War of 1907 46:04 – Joan Rhodes: Bending Steel, Tearing Phone Books, and Dominating at Scrabble 47:11 – Celebrity Name the Seed! 52:38 – Gary’s Joke Corner 55:20 – Butterfly In Blue Jeans \"Kiri Pritchard McLean\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on Kiri Pritchard McLean. / This work is licensed under CC BY-SA 4.0.\" Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/16398662-70b4-11f1-a9f9-3f726a85225a/image/e43c09fdad6e919d8f5796f37391bbf8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR8561299814.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3556",
+      "speakers": [
+        "Harry Hill"
+      ],
+      "topics": [
+        "kiri",
+        "pritchard",
+        "mclean",
+        "permaculture",
+        "farms",
+        "multi",
+        "skincare",
+        "cleansing",
+        "balm",
+        "danbury"
+      ]
+    },
     {
       "key": "9d9a27c8b69cbdb890e61ab41470eb4fc1373500",
       "title": "Jack Skipper: Shag Pile Debates, Chinese TikTok Data, and Nando’s Adele",
@@ -1858,6 +1885,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-29 — Kiri Pritchard-McLean: Permaculture Farms, The Multi-Step Korean Skincare Cleansing Balm, and the Danbury Mint Shoe Collab — speakers: Harry Hill
 - 2026-06-22 — Jack Skipper: Shag Pile Debates, Chinese TikTok Data, and Nando’s Adele — speakers: Jack Skipper, Nando’s Adele, Harry Hill
 - 2026-06-15 — Louis Theroux: Cardboard Owls, Incel Heirs, and Karate-Chopping Geese — speakers: Louis Theroux, Incel Heirs, Harry Hill
 - 2026-06-08 — Alex Horne: Ham Ballads, Urban Foxes, and Wife-Swapping Over Dishwasher Ethics — speakers: Alex Horne, Alex Horne comedian, Harry Hill

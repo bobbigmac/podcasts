@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-06-26T04:39:14+00:00`
-- checked_at: `2026-06-26T04:39:14+00:00`
-- etag: `"djEuMi4wOjE3ODI0NDQwMzkzMTg="`
+- fetched_at: `2026-07-01T04:53:39+00:00`
+- checked_at: `2026-07-01T04:53:39+00:00`
+- etag: `"djEuMi4wOjE3ODI4NzYwMzkzODE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-06-26T04:39:14+00:00",
+  "fetched_at": "2026-07-01T04:53:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "24d587e820b7fb198c3f1170bd4c32aaaa3f281a",
+      "title": "MARK WATSON • \"You must be tired!\" (Before It Overtakes Us / Murder Of A Famous Bastard / No More Jockeys) #678",
+      "published_at": "2026-07-01T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the very hilarious comic, writer and podcaster MARK WATSON ! You can go ahead and add \"long overdue guest\" somewhere in the salutation there too, as Mark is someone who's been missing from the DPP alumni for way too long. Mark's been busy performing comedy all around the globe for a minute, and at some point you will have heard Pip proclaim his love for 'No More Jockeys' - the theme quiz with Tim Key, Alex Horne and Mark, so you'll likely know him from at least one point of entry. If not, fear not, as this is a lovely chat where no former knowledge is required! Pip and Mark go into several menu items including the perils of being 40+ (get your ailments bingo card prepped), peeing in odd places like a regular stray dog, getting lifts with parents as an adult, famous contacts in one's phone, riders at shows (ie backstage snax, beverages and more), surprise Mum spottings, squeezing material out of rugged situations when it might be better to just not have the situation, and his new podcast project (link below). Enjoy! PIP'S PATREON PAGE if you're of a supporting nature ONLINE MURDER OF A FAMOUS BASTARD THE INFINITE SHOW NO MORE JOCKEYS SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1782402972694-908854c4-872b-473b-9bed-9b737bc1c3f4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a3d530813f23e0ab6cbb401/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "184405386",
+      "itunes_duration": "1:16:46",
+      "speakers": [],
+      "topics": [
+        "mark",
+        "watson",
+        "murder",
+        "famous",
+        "bastard",
+        "jockeys"
+      ]
+    },
     {
       "key": "fa95e0017f857464d49fa8484dd00005fb59b9d7",
       "title": "DAVID EARL & JOE WILKINSON (Chatabix & much more) • Friday Rewind",
@@ -19090,6 +19111,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — MARK WATSON • "You must be tired!" (Before It Overtakes Us / Murder Of A Famous Bastard / No More Jockeys) #678
 - 2026-06-26 — DAVID EARL & JOE WILKINSON (Chatabix & much more) • Friday Rewind
 - 2026-06-24 — ABUBAKAR SALIM • conducting a perfect symphony of acting and game design (House Of The Dragon / Raised By Wolves / Tales Of Kenzera) #677
 - 2026-06-19 — PROFESSOR GREEN (rap / TV & film / mental health advocacy) • Friday Rewind

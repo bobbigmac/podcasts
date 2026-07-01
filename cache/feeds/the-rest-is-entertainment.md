@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-06-30T17:15:33+00:00`
-- checked_at: `2026-06-30T17:15:33+00:00`
-- last_modified: `Tue, 30 Jun 2026 16:03:44 GMT`
+- fetched_at: `2026-07-01T04:53:39+00:00`
+- checked_at: `2026-07-01T04:53:39+00:00`
+- last_modified: `Tue, 30 Jun 2026 23:10:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-30T17:15:33+00:00",
+  "fetched_at": "2026-07-01T04:53:39+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "2563d370a83adb0274de701f5b382062a31941e8",
+      "title": "World Cup Of... US Sitcoms",
+      "published_at": "2026-06-30T23:05:00+00:00",
+      "link": null,
+      "description": "Enjoy this teaser of Richard Osman's new bonus series 'World Cup of Everything' - the all-out, head-to-head battle to discover the Great British public's favourite of ANY category. This week, Richard is joined by Maisie Adam and John Robins to discuss... US Sitcoms. Our Summer sale is here: get an annual membership for a third off with code SUMMER26. That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Join The Rest Is Entertainment Club: Unlock the full experience of the show – with exclusive bonus content, ad-free listening, early access to Q&A episodes, access to our newsletter archive, discounted book prices with our partners at Coles Books, early ticket access to live events, and access to our chat community. Sign up directly at therestisentertainment.com For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Joey McCarthy Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Bex Tyrrell Exec Producer: Sam Psyk Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2a0a5df0-7498-11f1-8ae0-c367d6fae01f/image/7536e45912e7922115602f7d72e21166.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3783280634.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2119",
+      "speakers": [
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "world",
+        "sitcom"
+      ]
+    },
     {
       "key": "0e40464b895bb3b04b04ba324a2406df16ab1f18",
       "title": "Kylie Jenner's Pervert Glasses",
@@ -6127,6 +6147,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-30 — World Cup Of... US Sitcoms — speakers: Richard Osman, Marina Hyde
 - 2026-06-29 — Kylie Jenner's Pervert Glasses — speakers: Kylie Jenner, Pervert Glasses, Malevolant Dweeb, Mark Zuckerberg, Richard Osman, Marina Hyde
 - 2026-06-24 — What's In A Name? The Worst Movie Titles Ever — speakers: Ever Can, Richard Osman, Marina Hyde
 - 2026-06-22 — Andy Burnham - Our First Indie-Kid PM? — speakers: Andy Burnham, Richard Osman, Marina Hyde

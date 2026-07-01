@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-06-30T20:18:20+00:00`
-- checked_at: `2026-06-30T20:18:20+00:00`
-- last_modified: `Tue, 30 Jun 2026 18:43:44 GMT`
+- fetched_at: `2026-07-01T04:53:39+00:00`
+- checked_at: `2026-07-01T04:53:39+00:00`
+- last_modified: `Tue, 30 Jun 2026 23:00:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/741a3be12916743e1552a965b3e44e89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-30T20:18:20+00:00",
+  "fetched_at": "2026-07-01T04:53:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "9be3531178d89bfcdeb3bfdf8383b33a0bb15fdf",
+      "title": "548. Burnham vs. Westminster and Trump’s Next Target",
+      "published_at": "2026-06-30T23:00:00+00:00",
+      "link": null,
+      "description": "Will Andy Burnham’s plan for a ‘Number 10 North’ actually work in practice? What does Rory make of Burnham’s growth strategy? Who is Donald Trump’s next target in Latin America? Join Rory and Alastair as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Malcolm Turnbull by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Adam Thornton Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f855688c-747d-11f1-a87a-e3c5e8ab9d6c/image/66d040919ea1a42319abb47cbaf9e4d2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5591277395.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3261",
+      "speakers": [
+        "Will Andy Burnham"
+      ],
+      "topics": [
+        "burnham",
+        "westminster",
+        "trump",
+        "target"
+      ]
+    },
     {
       "key": "55ef7b3077d387ee820f593c4eb863b95c6a59ed",
       "title": "547. The Truth About Russian Oil, Net Zero, and North Sea Drilling",
@@ -12243,6 +12264,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-30 — 548. Burnham vs. Westminster and Trump’s Next Target — speakers: Will Andy Burnham
 - 2026-06-24 — 547. The Truth About Russian Oil, Net Zero, and North Sea Drilling
 - 2026-06-22 — 546. Keir Starmer Resigns: What Happens Next?
 - 2026-06-19 — 545. Burnham Beats Reform: Britain’s Next Prime Minister? — speakers: Burnham Beats Reform, Andy Burnham
