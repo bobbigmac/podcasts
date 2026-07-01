@@ -10053,6 +10053,28 @@
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "d30d902e29425e65e5fec661506e7a476f9b4166",
+        "episode_key": "d30d902e29425e65e5fec661506e7a476f9b4166",
+        "title": "Josh Widdicombe XFM #53 – Romesh Ranganathan, Harriet Kemsley",
+        "published_at": "2026-07-01T14:08:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Romesh Ranganathan and Harriet Kemsley join Josh in the studio during World Cup fever week.Broadcast on 16th June 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO9133353115.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-53-romesh-ranganathan-harriet-kemsley/id1866254969?i=1000775019102&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
         "dedupe_key": "f125f6ac7e1e7f4c37edec13194abd420069f84b",
         "episode_key": "f125f6ac7e1e7f4c37edec13194abd420069f84b",
         "title": "Josh Widdicombe XFM #34 – Nish Kumar, Harriet Kemsley, Matthew Crosby.",
