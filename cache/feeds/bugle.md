@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-07-01T10:13:09+00:00`
-- checked_at: `2026-07-01T10:13:09+00:00`
-- etag: `"djEuMi4wOjE3ODI5MDAxNTk5OTc="`
+- fetched_at: `2026-07-01T15:11:25+00:00`
+- checked_at: `2026-07-01T15:11:25+00:00`
+- etag: `"djEuMi4wOjE3ODI5MTA4Mzk1NTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-07-01T10:13:09+00:00",
+  "fetched_at": "2026-07-01T15:11:25+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "3ae4820d0c23337bc182838ddcebdaee86cc3ff6",
+      "title": "The Bugle World Cup Special",
+      "published_at": "2026-07-01T13:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/the-bugle-world-cup-special",
+      "description": "Welcome back to The Bugle, and issue number 4384a, The Bugle World Cup special, where producer Harry has been riffling through the archives to find some of the best clips from the previous World Cup's reported on the Bugle. From the 2018 World Cup democratic rankings, Mark van Bommel’s diaries, Puns from the ‘66 WC wining England squad, and we have access to some rare Bugle commentary from the Maradona's goal in '86, the 1950s WC clash between England & USA clash and the 1954 World Cup final! Thank you for listening, we’ll be back next week…There you go, what a show it was. Now please help us stay alive by donating at thebuglepodcast.com Donate to Emilia: https://www.crowdfunder.co.uk/p/a-safe-accessible-home-for-emilia 🎤 Get tickets for the LIVE episode of The Gargle HERE https://www.angelcomedy.co.uk/event-detail/the-gargle-live-fri-26th-jun-the-bill-murray-london-tickets-202606261800/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1782764185389-41036e7f-5082-4f6b-b1d3-77e4c9451524.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a42c8be6c42755eb6a874d9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23926909",
+      "itunes_duration": "24:55",
+      "speakers": [
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "bugle",
+        "world",
+        "special"
+      ]
+    },
     {
       "key": "c3710e58cfffcb87a8cb830b5fc1e13731c46fe6",
       "title": "British Politics Plunged into CHAOS (again)",
@@ -14338,6 +14358,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — The Bugle World Cup Special — speakers: Andy Zaltzman
 - 2026-06-24 — British Politics Plunged into CHAOS (again) — speakers: Alice Fraser, Neil Delamere, Andy Zaltzman
 - 2026-06-17 — PEACE is among us! (for now) — speakers: Nish Kumar, Tom Ballard, Andy Zaltzman
 - 2026-06-11 — Trump's cross, what is it this time? — speakers: Sara Barron, Andy Zaltzman

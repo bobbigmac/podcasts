@@ -26782,6 +26782,28 @@
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "d3416114b81cae45b7a230a49c94394013d8d8d0",
+        "episode_key": "d3416114b81cae45b7a230a49c94394013d8d8d0",
+        "title": "Josh Widdicombe XFM #49 – Ivo Graham, Charlie Baker, Nish Kumar",
+        "published_at": "2026-06-30T10:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Ivo Graham and Charlie Baker join Josh in the studio. Nish Kumar returns, revealing why he went missing last week and shares a new Nishipedia, Broadcast on 13th May 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO8862071278.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-49-ivo-graham-charlie-baker-nish-kumar/id1866254969?i=1000774892929&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
         "dedupe_key": "8293473f015ed21131ebe4e1bb13b9d67c4a9d0a",
         "episode_key": "8293473f015ed21131ebe4e1bb13b9d67c4a9d0a",
         "title": "Josh Widdicombe XFM #44 – Katherine Ryan, Matthew Crosby, Nish Kumar",
