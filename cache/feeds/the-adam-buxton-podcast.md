@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-06-30T22:39:22+00:00`
-- checked_at: `2026-06-30T22:39:22+00:00`
-- etag: `"djEuMi4wOjE3ODI4NTM0Mzk5MjE="`
+- fetched_at: `2026-07-01T10:13:09+00:00`
+- checked_at: `2026-07-01T10:13:09+00:00`
+- etag: `"djEuMi4wOjE3ODI4OTMwMTg3MzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-06-30T22:39:22+00:00",
+  "fetched_at": "2026-07-01T10:13:09+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "237cdf36b035e6570c3ca23812e9866c17fc0229",
+      "title": "EP.277 - SARA COX",
+      "published_at": "2026-07-01T08:03:46+00:00",
+      "link": "https://shows.acast.com/adambuxton/episodes/ep277-sara-cox",
+      "description": "Adam talks with broadcaster and author Sara Cox about hair raising childhood farm injuries, being a Daddy's girl, cringey memories of The Girlie Show , whether she feels she needs to watch what she says at the Big British Castle, the challenges of parenting teenagers in the digital age and the physical toll exacted upon her by Pudsey Bear. Conversation recorded face-to-face in London on 10 June, 2026 Thanks to Diggory Waite and Claire Broughton at Hattrick and Séamus Murphy Mitchell for production support. Podcast illustration by Helen Green PEOPLE'S EMERGENCY BRIEFING ON CLIMATE Information about where to see the film and how to organise a screening. Sign Chris Packham's petition HERE “The UK faces growing risks from climate and nature breakdown – from extreme weather to economic disruption and national security threats. Yet the public has never been given a clear national briefing on the scale of these risks. Government should hold an emergency briefing from leading experts. These risks could have serious consequences across UK society, with threats to health and food supply – which could become irreversible without urgent action. Many people are unclear how these risks may affect them, and information in the public domain is often misleading. A credible national briefing from independent experts would give people clear, trusted guidance on what these risks mean in practice, and what we can do – both together and individually – to prepare and respond.” Chris Packham. ADAM BUXTON PODCAST LIVE WITH MAWAAN RIZWAAN @ Roundhouse, London , 5 August, 2026 (Roundhouse) THE TRUTH OF US by Sara Cox - 2026 (Hachette) THE TEEN COMMANDMENTS PODCAST (YouTube) THE TEEN COMMANDMENTS PODCAST (Apple Podcasts) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1782847749066-98539892-1a43-40bb-9fb3-4b6cbef8c341.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/6a441c94e80d75fcb81dea7f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79740342",
+      "itunes_duration": "1:23:03",
+      "speakers": [
+        "Sara Cox",
+        "Adam Buxton"
+      ],
+      "topics": [
+        "sara"
+      ]
+    },
     {
       "key": "882e5f8950fefd57e573cc31b1a57b189cf6c23a",
       "title": "EP.276 - LOUIS THEROUX",
@@ -5654,6 +5673,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — EP.277 - SARA COX — speakers: Sara Cox, Adam Buxton
 - 2026-06-24 — EP.276 - LOUIS THEROUX — speakers: Louis Theroux, Adam Buxton
 - 2026-06-16 — EP.275 - KATHY BURKE — speakers: Kathy Burke, Adam Buxton
 - 2026-06-09 — EP.274 - HARRY ENFIELD — speakers: Harry Enfield, Adam Buxton
