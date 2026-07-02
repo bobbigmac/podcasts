@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-07-02T17:01:48+00:00`
-- checked_at: `2026-07-02T17:01:48+00:00`
-- etag: `"djEuMi4wOjE3ODMwMTA2OTU4MTg="`
+- fetched_at: `2026-07-02T22:18:43+00:00`
+- checked_at: `2026-07-02T22:18:43+00:00`
+- etag: `"djEuMi4wOjE3ODMwMjE3NzkyODg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-07-02T17:01:48+00:00",
+  "fetched_at": "2026-07-02T22:18:43+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "44a24c6d61d15f7db1736d4101f499e6cbc93646",
+      "title": "\"Startlingly transactional\" – Burnham prepares for power",
+      "published_at": "2026-07-02T16:44:37+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/startlingly-transactional-burnham-prepares-for-power",
+      "description": "Andy Burnham is preparing for power – which means horsetrading, negotiations and planning. Ailbhe Rea has been speaking to MPs and advisors inside the Labour party to find out what's really happening in Team Burnham, who's in line for the top jobs, and why some Labour MPs are giving Burnham \"the ick\". Plus: Reform say Nigel Farage is having a great time. Other sources say he’s struggling. What’s going on inside the “unofficial opposition”? Anoosh Chakelian is joined by Tom McTague and Ailbhe Rea. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1783010420284-2ce66885-0480-4cd9-b723-971e987a674b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a468f3fc6a271e3daefed1f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51539382",
+      "itunes_duration": "53:41",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "burnham",
+        "power"
+      ]
+    },
     {
       "key": "4265b380c6475d007c4fdd0645285b1a727e8e40",
       "title": "“Westminster is broken”: Andy Burnham sets out his leadership plan",
@@ -31702,6 +31723,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — "Startlingly transactional" – Burnham prepares for power — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-29 — “Westminster is broken”: Andy Burnham sets out his leadership plan — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-27 — Does Britain want another general election? | Will and Anoosh — speakers: Peter Murrell, Anoosh Chakelian, Oli Dugmore
 - 2026-06-25 — A critical three weeks for Burnham — speakers: Anoosh Chakelian, Oli Dugmore
