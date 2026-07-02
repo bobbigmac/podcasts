@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-06-25T15:11:56+00:00`
-- checked_at: `2026-06-25T15:11:56+00:00`
-- etag: `"259644-655139351770d"`
-- last_modified: `Thu, 25 Jun 2026 13:00:24 GMT`
+- fetched_at: `2026-07-02T14:28:37+00:00`
+- checked_at: `2026-07-02T14:28:37+00:00`
+- etag: `"25a790-655a13b2d378c"`
+- last_modified: `Thu, 02 Jul 2026 14:00:31 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-06-25T15:11:56+00:00",
+  "fetched_at": "2026-07-02T14:28:37+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,24 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "9965052d5e7e69ad4eeeaa4b0a43ef71a92f8dd2",
+      "title": "The anatomy of a super El Niño",
+      "published_at": "2026-07-02T14:00:00+00:00",
+      "link": "https://theconversation.com/how-an-el-nino-becomes-a-super-el-nino-286584",
+      "description": "El Niño has begun and forecasters predict a more than 60% chance that the naturally occurring phenomenon could become a very strong, or super El Niño later in 2026. El Niño begins with warmer water in the Pacific Ocean near the equator and can have a cascade of dramatic effects on the world’s weather. But what chain of events has to happen for high temperatures in the Pacific to translate into severe floods, droughts and storms around the world? And what role does climate change play in El Niño? In this episode, Ioana Colfescu , an expert in climate and machine learning at the University of St Andrews and the University of Edinburgh, explains how El Niño works and what it could mean for the world. This episode was written and produced by Gemma Ware and Mend Mariwany. Mixing by Michelle Macklem and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Mentioned in this episode: Voices of the South",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/450d2c67-8f0b-4e8c-ba99-542b8a4d923e.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31316262",
+      "itunes_duration": "21:45",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "anatomy"
+      ]
+    },
     {
       "key": "3dcaeb1b9fa46c395b77e8210615077fa677aea0",
       "title": "Cockroach party hits nerve with angry young Indians",
@@ -6038,6 +6056,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — The anatomy of a super El Niño — speakers: Gemma Ware
 - 2026-06-25 — Cockroach party hits nerve with angry young Indians — speakers: Gemma Ware
 - 2026-06-18 — Teens are still on social media, but does that mean Australia's ban has failed? — speakers: When Australia, Gemma Ware
 - 2026-06-11 — How the US finally fell in love with soccer — speakers: Roberto Baggio, Gemma Ware

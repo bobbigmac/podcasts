@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-07-02T09:31:37+00:00`
-- checked_at: `2026-07-02T09:31:37+00:00`
-- last_modified: `Thu, 02 Jul 2026 09:29:16 GMT`
+- fetched_at: `2026-07-02T14:28:37+00:00`
+- checked_at: `2026-07-02T14:28:37+00:00`
+- last_modified: `Thu, 02 Jul 2026 13:05:35 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-02T09:31:37+00:00",
+  "fetched_at": "2026-07-02T14:28:37+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -634,7 +634,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9395292670.mp3?updated=1774818841",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4859",
+      "itunes_duration": "4919",
       "speakers": [
         "Bryan Cranston",
         "Breaking Bad",
@@ -704,7 +704,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6236347597.mp3?updated=1773907985",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1985",
+      "itunes_duration": "1955",
       "speakers": [
         "Desert Island",
         "Would Shanthi",
@@ -727,7 +727,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7782384261.mp3?updated=1774041554",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3989",
+      "itunes_duration": "3959",
       "speakers": [
         "Hannah Fry",
         "Romesh Ranganathan"
@@ -750,7 +750,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9040183678.mp3?updated=1773274879",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2124",
+      "itunes_duration": "2094",
       "speakers": [
         "Romesh Ranganathan"
       ],
@@ -773,7 +773,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6989133308.mp3?updated=1772983678",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5931",
+      "itunes_duration": "5901",
       "speakers": [
         "Louis Theroux",
         "Romesh Ranganathan"
@@ -797,7 +797,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2477449347.mp3?updated=1772663754",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2237",
+      "itunes_duration": "2207",
       "speakers": [
         "terrible im",
         "Romesh Ranganathan"
@@ -818,7 +818,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3476210456.mp3?updated=1772444840",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4524",
+      "itunes_duration": "4494",
       "speakers": [
         "Tom Davis",
         "Romesh Ranganathan"
@@ -839,7 +839,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8700158826.mp3?updated=1772107158",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1694",
+      "itunes_duration": "1664",
       "speakers": [
         "Romesh Ranganathan"
       ],
@@ -858,7 +858,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1041248637.mp3?updated=1772055547",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5729",
+      "itunes_duration": "5759",
       "speakers": [
         "Josh Widdicombe",
         "Romesh Ranganathan"
@@ -883,7 +883,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1714113192.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2219",
+      "itunes_duration": "2189",
       "speakers": [
         "Near Death Experience",
         "Romesh Ranganathan"
@@ -907,7 +907,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9192744857.mp3?updated=1771197251",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3563",
+      "itunes_duration": "3533",
       "speakers": [
         "Sheridan Smith",
         "Romesh Ranganathan"
@@ -932,7 +932,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6604742134.mp3?updated=1770897629",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1550",
+      "itunes_duration": "1520",
       "speakers": [
         "Would Romesh Ever",
         "Shanthi Ranganathan",
@@ -953,7 +953,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2811199475.mp3?updated=1770596904",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4061",
+      "itunes_duration": "4031",
       "speakers": [
         "Gary Barlow",
         "Mark Owen",
@@ -979,7 +979,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8600641585.mp3?updated=1770247285",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2329",
+      "itunes_duration": "2299",
       "speakers": [
         "George Cloo",
         "Romesh Ranganathan"
@@ -999,7 +999,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT5324617050.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3897",
+      "itunes_duration": "3866",
       "speakers": [
         "Jack Thorne Adolescence",
         "Stephen Graham",
@@ -1025,7 +1025,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4388799882.mp3?updated=1769670163",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2034",
+      "itunes_duration": "2004",
       "speakers": [
         "Own Cooking Show",
         "Auntie Shanthi",
@@ -1047,7 +1047,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8234915787.mp3?updated=1769376864",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3622",
+      "itunes_duration": "3592",
       "speakers": [
         "Will Arnett",
         "Romesh Ranganathan"
@@ -1071,7 +1071,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2215876241.mp3?updated=1769019692",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1512",
+      "itunes_duration": "1482",
       "speakers": [
         "Romesh Ranganathan"
       ],
@@ -1095,7 +1095,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9253365639.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3491",
+      "itunes_duration": "3461",
       "speakers": [
         "Thierry Henry Singer",
         "Romesh Ranganathan"
@@ -1118,7 +1118,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6239485742.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1656",
+      "itunes_duration": "1626",
       "speakers": [
         "James Acaster",
         "Romesh Ranganathan"
@@ -1142,7 +1142,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7751117926.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4261",
+      "itunes_duration": "4231",
       "speakers": [
         "James Acaster",
         "Off Menu",
@@ -1169,7 +1169,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT8608421125.mp3?updated=1767812043",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1841",
+      "itunes_duration": "1811",
       "speakers": [
         "Why Do Mums Ignore",
         "Romesh Ranganathan"
@@ -1190,7 +1190,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT6469394374.mp3?updated=1767576562",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "5707",
+      "itunes_duration": "5677",
       "speakers": [
         "Ricky Gervais",
         "Romesh Ranganathan"
@@ -1218,7 +1218,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1775369138.mp3?updated=1766969314",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2389",
+      "itunes_duration": "2359",
       "speakers": [
         "Romesh Ranganathan"
       ],
@@ -1237,7 +1237,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9426639060.mp3?updated=1766340174",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3855",
+      "itunes_duration": "3825",
       "speakers": [
         "Chris McCausland",
         "Romesh Ranganathan"
@@ -1258,7 +1258,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7819082471.mp3?updated=1766006426",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2020",
+      "itunes_duration": "1990",
       "speakers": [
         "Very Ranganathan Christmas What",
         "Romesh Ranganathan"
@@ -1278,7 +1278,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2913673844.mp3?updated=1765750919",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4327",
+      "itunes_duration": "4297",
       "speakers": [
         "Bret McKenzie",
         "Bret McK",
@@ -1327,7 +1327,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9632050063.mp3?updated=1764969856",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4485",
+      "itunes_duration": "4455",
       "speakers": [
         "Stephen Merchant",
         "Romesh Ranganathan"
@@ -1350,7 +1350,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT1220036495.mp3?updated=1764854122",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1997",
+      "itunes_duration": "1847",
       "speakers": [
         "Romesh Ranganathan"
       ],
@@ -1372,7 +1372,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4163441493.mp3?updated=1764352525",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4766",
+      "itunes_duration": "4706",
       "speakers": [
         "Tim Key",
         "Romesh Ranganathan"
@@ -1394,7 +1394,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9818713196.mp3?updated=1764186380",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2134",
+      "itunes_duration": "1954",
       "speakers": [
         "Would Shanthi Ever Go",
         "Romesh Ranganathan"
@@ -1414,7 +1414,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3333602475.mp3?updated=1763756238",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3761",
+      "itunes_duration": "3611",
       "speakers": [
         "Saltburn Success",
         "Romesh Ranganathan"
@@ -1439,7 +1439,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7962343298.mp3?updated=1763574303",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2065",
+      "itunes_duration": "1915",
       "speakers": [
         "Romesh Ranganathan"
       ],
@@ -1463,7 +1463,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9338394293.mp3?updated=1763139596",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4493",
+      "itunes_duration": "4343",
       "speakers": [
         "Jack Whitehall",
         "Romesh Ranganathan"
@@ -1485,7 +1485,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT9581908440.mp3?updated=1763025993",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2651",
+      "itunes_duration": "2621",
       "speakers": [
         "Overprotective Parents",
         "Romesh Ranganathan"
@@ -1509,7 +1509,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT3822884203.mp3?updated=1762732244",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4630",
+      "itunes_duration": "4600",
       "speakers": [
         "Andy Murray",
         "Romesh Ranganathan"
@@ -1533,7 +1533,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7574215621.mp3?updated=1762444851",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2472",
+      "itunes_duration": "2442",
       "speakers": [
         "Shanthi Open Up Romesh",
         "Romesh Ranganathan"
@@ -1554,7 +1554,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4657660318.mp3?updated=1761989288",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3901",
+      "itunes_duration": "3871",
       "speakers": [
         "Loyle Carner",
         "Romesh Ranganathan"
@@ -1579,7 +1579,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT2079382954.mp3?updated=1761766392",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1228",
+      "itunes_duration": "1198",
       "speakers": [
         "Shanthi Holds",
         "Join Romesh",
@@ -1591,6 +1591,33 @@
         "romesh",
         "sings",
         "whitney"
+      ]
+    },
+    {
+      "key": "1d7080cfdcec3c8e19f914687c11947ac59903e0",
+      "title": "Daisy May Cooper & Charlie Cooper: Ghost Hunts, Sibling Rivalry & Threadworm",
+      "published_at": "2025-10-27T00:01:00+00:00",
+      "link": null,
+      "description": "What do you say when a fan recognises you… while you’re buying threadworm tablets? Daisy May and Charlie Cooper join Romesh to relive their most mortifying moments, talk about ghost-hunting in a haunted prison, and explain how a viral story nearly ruined their lives. They also get honest about fame, sibling rivalry, and why Daisy might be the only person to take sleeping pills on a paranormal show. A Ranga Bee Production in partnership with Listen. 00:00 Intro 01:20 “I Was a Bit of a Tw*t Before Fame” 03:00 How Important Is Being Famous? 04:45 Charlie on THREADWORMS 07:00 “Where’s the Fish in That Story?” 10:15 Daisy’s Viral Audition CONFESSION 11:50 Emotional Support Ghosts & Haunted Hotels 15:00 Daisy and Charlie Really Believe in Ghosts 18:00 Daisy Sleeps Through the Paranormal 20:00 Fake Tan in Prison 22:00 Telepathy Test 27:00 Charlie & Romesh’s Argos Jobs 33:00 Shanthi’s Question: Working with Siblings 37:00 Competing for Mum 40:00 The Hustle vs Family Life 44:00 Oscar Fixations 51:00 “You Were a Bit Boring – Now You’re Boring with More Money!” 53:00 The Pilot That Nearly Killed This Country 54:00 Daisy Pays Charlie a Compliment (Finally) 56:00 Daisy’s Creepy Tarot Reading 01:00:00 Misquoted 01:03:16 Who Wrote the Best Line in the Show? 01:04:50 Why the Runners Hate Daisy 01:07:30 Wetting Yourself 01:15:00 Romesh’s Josh Widdicombe Impression Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b43f9960-b25e-11f0-b177-8b4fe1f6def4/image/fa1e611ef57d7ddcdd4a06dc5e321b2c.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2728894450.mp3?updated=1761670662",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4697",
+      "speakers": [
+        "Charlie Cooper",
+        "Daisy May",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "daisy",
+        "cooper",
+        "charlie",
+        "ghost",
+        "hunts",
+        "sibling",
+        "rivalry",
+        "threadworm"
       ]
     },
     {
@@ -1915,6 +1942,7 @@
 - 2025-11-06 — Romesh & Shanthi Open Up — speakers: Shanthi Open Up Romesh, Romesh Ranganathan
 - 2025-11-03 — Loyle Carner: Glastonbury, Ottolenghi and James Bond Exclusive! — speakers: Loyle Carner, Romesh Ranganathan
 - 2025-10-30 — Shanthi Holds a Grudge & Romesh SINGS Whitney! — speakers: Shanthi Holds, Join Romesh, Romesh Ranganathan
+- 2025-10-27 — Daisy May Cooper & Charlie Cooper: Ghost Hunts, Sibling Rivalry & Threadworm — speakers: Charlie Cooper, Daisy May, Romesh Ranganathan
 - 2025-10-22 — Controlling Romesh's Life & What Shanthi Looks For In A Man! — speakers: Controlling Romesh, Join Romesh, Romesh Ranganathan
 - 2025-10-19 — Jameela Jamil: Accidentally Becoming A Hollywood Star & Why I Don’t Trust Journalists — speakers: Jameela Jamil, Romesh Ranganathan
 - 2025-10-15 — Romesh's Medical MIX UP & Should Grandparents Choose Their Nicknames? — speakers: Join Romesh, Romesh Ranganathan
