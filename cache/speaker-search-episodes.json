@@ -2,6 +2,51 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "e855ed3f79b66ce97c3d8eccc1c320d1811325a5",
+        "episode_key": "e855ed3f79b66ce97c3d8eccc1c320d1811325a5",
+        "title": "Josh Widdicombe XFM #55 – James Acaster Classic Scrape 31, Zoe Lyons, Nish Kumar",
+        "published_at": "2026-07-02T05:26:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster finally shares another Classic Scrape, Zoe Lyons joins Josh in the studio and Nish Kumar shares another thrilling Nishipedia.Broadcast on 7th July 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO8271116278.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-55-james-acaster-classic-scrape/id1866254969?i=1000775110886&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "73fc6ec4e50cc98dace2f1c9e767bac15e8f6963",
+        "episode_key": "73fc6ec4e50cc98dace2f1c9e767bac15e8f6963",
+        "title": "Josh Widdicombe XFM #52 – James Acaster Returns, Tim Key",
+        "published_at": "2026-07-01T10:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster finally returns and Tim Key joins Josh in the studio.Broadcast on 9th June 2014",
+        "audio_url": "https://traffic.megaphone.fm/APO9081380639.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-52-james-acaster-returns-tim-key/id1866254969?i=1000774994182&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -7884,6 +7929,28 @@
     ],
     "bob-mortimer": [
       {
+        "feed_slug": "external:apple:4fdc5fce09a4",
+        "feed_title": "Outsiding",
+        "source_rss_url": "https://feeds.megaphone.fm/CGPL6650066774",
+        "dedupe_key": "a9bf7e8d0e0abd4fd9d9b30167b0262095402326",
+        "episode_key": "a9bf7e8d0e0abd4fd9d9b30167b0262095402326",
+        "title": "Bob Mortimer on gardening’s unfolding stories, fishing, and amazing alliums",
+        "published_at": "2026-07-02T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It’s the first episode of Outsiding and we have found the perfect guest to welcome into our garden. Bob Mortimer is an adored comedian, presenter, writer and actor, who loves the outdoors with the same passion as he does big TVs. \n\nBob joins Caitlin and Adam to chat about the paperback release of his third novel, The L",
+        "audio_url": "https://traffic.megaphone.fm/CGPL9193925174.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bob-mortimer-on-gardenings-unfolding-stories-fishing/id6782845808?i=1000775106793&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:a940e8e8f575",
         "feed_title": "Joe Marler Will See You Now",
         "source_rss_url": "https://feeds.megaphone.fm/GLT9033701265",
@@ -13505,6 +13572,29 @@
       }
     ],
     "tim-key": [
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "73fc6ec4e50cc98dace2f1c9e767bac15e8f6963",
+        "episode_key": "73fc6ec4e50cc98dace2f1c9e767bac15e8f6963",
+        "title": "Josh Widdicombe XFM #52 – James Acaster Returns, Tim Key",
+        "published_at": "2026-07-01T10:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster finally returns and Tim Key joins Josh in the studio.Broadcast on 9th June 2014",
+        "audio_url": "https://traffic.megaphone.fm/APO9081380639.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-52-james-acaster-returns-tim-key/id1866254969?i=1000774994182&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "Richard Herring's Leicester Square Theatre Podcast (RHLSTP)",
