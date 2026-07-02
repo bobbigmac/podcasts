@@ -23857,6 +23857,28 @@
         "feed_slug": "external:apple:1e0022d65c7f",
         "feed_title": "Book Shambles",
         "source_rss_url": "https://feeds.feedburner.com/BookShambles",
+        "dedupe_key": "4b38f82ba8ed4cd05906d1e62cf8f8f68917f8c1",
+        "episode_key": "4b38f82ba8ed4cd05906d1e62cf8f8f68917f8c1",
+        "title": "Stewart Lee Returns - Part 2",
+        "published_at": "2018-02-25T11:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In Part 2 of Stewart Lee's second visit to Book Shambles, Stew, Robin and guest co-host Michael Legge continue their conversation getting into the work of Rosemary Tonks, David Keenan, Dave Graney and Ithell Colquhoun. Also Stew doesn't like Dunkirk and Michael's annoyed on trains.  This show wouldn't be possible witho",
+        "audio_url": "http://feeds.soundcloud.com/stream/404077002-cosmicshambles-book-shambles-season-7-episode-4-stewart-lee-part-2.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee-returns-part-2/id1057948467?i=1000403719390&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1e0022d65c7f",
+        "feed_title": "Book Shambles",
+        "source_rss_url": "https://feeds.feedburner.com/BookShambles",
         "dedupe_key": "7c96d0e1d4ff82a352ae0b10f087bff11a66d0d7",
         "episode_key": "7c96d0e1d4ff82a352ae0b10f087bff11a66d0d7",
         "title": "Stewart Lee Returns",
@@ -26800,6 +26822,28 @@
       }
     ],
     "nish-kumar": [
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "ce95ec17e25244b0b4b6684d9758f31676236f98",
+        "episode_key": "ce95ec17e25244b0b4b6684d9758f31676236f98",
+        "title": "Josh Widdicombe XFM #51 – James Bannon, Tom Parry, Nish Kumar",
+        "published_at": "2026-07-01T05:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Bannon (proper geeza) talks about being an undercover football hooligan, Tom Pary joins Josh in the studio as his wingman and Nish talks about another conspiacy theory.Broadcast on 27th May 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO4248048175.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-51-james-bannon-tom-parry-nish-kumar/id1866254969?i=1000774956305&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",

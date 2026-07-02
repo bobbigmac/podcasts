@@ -2,8 +2,8 @@
 
 - slug: `peacock-and-gamble`
 - source: `https://www.fubarradio.com/player/on-demand/peacock-and-gamble/`
-- fetched_at: `2026-07-02T14:28:37+00:00`
-- checked_at: `2026-07-02T14:28:37+00:00`
+- fetched_at: `2026-07-02T17:01:48+00:00`
+- checked_at: `2026-07-02T17:01:48+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "image_url": "",
-  "fetched_at": "2026-07-02T14:28:37+00:00",
+  "fetched_at": "2026-07-02T17:01:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "26a7519cbbbefa6b942390455b2fb6fab789f971",
+      "guid": "13e8e268-46bc-4edb-aab3-b6a37b969d00",
+      "title": "Peacock and Gamble",
+      "published_at": "2026-07-02T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble1/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1783008122-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=13e8e268-46bc-4edb-aab3-b6a37b969d00&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "47e77fb340be5a0d0b4258813061a52b1f9b2c33",
       "guid": "b078ee73-9603-43d7-a16e-f2f4d30e8066",
@@ -2930,6 +2943,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — Peacock and Gamble
 - 2026-06-26 — Peacock and Gamble (26th June)
 - 2026-06-25 — Peacock and Gamble (25th June)
 - 2026-06-19 — Peacock and Gamble (19th June)
