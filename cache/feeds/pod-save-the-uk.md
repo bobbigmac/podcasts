@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-06-25T04:33:59+00:00`
-- checked_at: `2026-06-25T04:33:59+00:00`
-- etag: `W/"d28f4fee7439a9ce6562e28816250c6f"`
-- last_modified: `Thu, 25 Jun 2026 01:00:00 GMT`
+- fetched_at: `2026-07-02T04:20:56+00:00`
+- checked_at: `2026-07-02T04:20:56+00:00`
+- etag: `W/"8faaf2eb76ba1b7ab68016dc1b86c7c3"`
+- last_modified: `Thu, 02 Jul 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-06-25T04:33:59+00:00",
+  "fetched_at": "2026-07-02T04:20:56+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,34 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1d1d137114c2918e5b037f390e0fc72149de86a6",
+      "title": "No10 in the North: Andy Burnham’s Manchester mission... Plus, is ‘free speech’ just a free pass for tech bros?",
+      "published_at": "2026-07-02T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8923079",
+      "description": "“Are you ready for this?” Following Andy Burnham’s first big policy speech since becoming an MP, and with his sights set firmly on the top job, Coco & Nish dig into his promises of regeneration, reindustrialisation, and…a new pair of running shorts. From No10 North to nationalisation and the biggest council house building programme since the postwar period, they discuss their unanswered questions and first impressions of the Manchester man offering “growth in every postcode, and hope in every heart.” Plus, they’re joined by journalist and campaigner Adele Zeynep Walton who shares her first-hand experience of the consequences of online harms. We ask whether the proposed social media ban for under-16s really gets to the heart of the problem (spoiler alert: no), and how we can truly hold the tech industry to account. Content note, this discussion includes references to suicide. USEFUL LINKS Buy Adele’s book: “Logging Off: The Human Cost of our Digital World” https://www.waterstones.com/book/logging-off/adele-zeynep-walton/9781398722941 Write to your MP and support the call for a public inquiry into the scale of harm facilitated by online suicide forums: https://mollyrosefoundation.beaconforms.com/form/90ddb8e4 https://mollyrosefoundation.org/campaigns/campaign-against-pro-suicide-forums/ GUESTS Adele Zeynep Walton CHECK OUT THESE DEALS FROM OUR SPONSORS BT: Search ‘Why BT’ to find out more. HRF Power Plays: Search Power Plays wherever you get your podcasts. WISE: https://www.wise.com Pod Save the UK is an Intelligence Squared production for Crooked Media. We’ll be doing another mailbag episode soon so get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43723864/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8923079.mp3?modified=1782939535&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4777",
+      "speakers": [
+        "Andy Burnham",
+        "Following Andy Burnham",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "north",
+        "andy",
+        "burnham",
+        "manchester",
+        "mission",
+        "speech",
+        "pass",
+        "tech"
+      ]
+    },
     {
       "key": "7445791065247f83a4c75b8ca35c77855a723497",
       "title": "Starmer Resigns! Listen up, Labour: Lessons learned from the Trump trap w/ Ben Rhodes",
@@ -3931,6 +3959,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — No10 in the North: Andy Burnham’s Manchester mission... Plus, is ‘free speech’ just a free pass for tech bros? — speakers: Andy Burnham, Following Andy Burnham, Nish Kumar, Coco Khan
 - 2026-06-25 — Starmer Resigns! Listen up, Labour: Lessons learned from the Trump trap w/ Ben Rhodes — speakers: Ben Rhodes, Nish Kumar, Coco Khan
 - 2026-06-18 — Makerfield decides, Labour holds its breath…Plus, Palestine Action & Social Media bans w/ Akiko Hart — speakers: Akiko Hart, Nish Kumar, Coco Khan
 - 2026-06-11 — Hasan Piker: “Not Conducive to the Public Good”? — speakers: Hasan Piker, Nish Kumar, Coco Khan

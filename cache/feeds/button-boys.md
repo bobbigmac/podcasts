@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-06-25T03:03:03+00:00`
-- checked_at: `2026-06-25T03:03:03+00:00`
-- last_modified: `Wed, 24 Jun 2026 23:09:07 GMT`
+- fetched_at: `2026-07-02T04:20:56+00:00`
+- checked_at: `2026-07-02T04:20:56+00:00`
+- last_modified: `Wed, 01 Jul 2026 23:07:57 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-25T03:03:03+00:00",
+  "fetched_at": "2026-07-02T04:20:56+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,30 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "9797071de15c80803a782157c80a3af38979ff70",
+      "title": "Slop Til You Drop: Shovelware, Clones and Cash Grabs",
+      "published_at": "2026-07-01T23:00:00+00:00",
+      "link": null,
+      "description": "In this week's episode, the Boys scrape up the fetid sludge from the bottom of the barrel to see what absolute slop they can find. From clones to cash grabs, smut to even smuttier smut, they've braved the worst so you don't have to. But, much like their mudlarking counterparts, they've managed to find a few glistening trinkets amongst the detritus. Elsewhere, the new Patreon Age of Empires playalong has begun, with one of the Boys being left out in the cold. Pierre's been going deep simulation on his favourite WWII game, Glenn's experienced the worst day in Australia that you can imagine and Sarah's been suffering from a bout of morality caused by our future Player 4 guest, Alasdair Beckett-King. To follow along with the Button Boys outside the podcast: ⁠ BUTTON BOYS LIVE! If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Age of Empires II: Definitive Edition Factorio Hell Let Loose 007: First Light The Drifter The Secret of Monkey Island Grim Fandango Broken Sword: The Shadow of the Templars Inside Deer & Boy LIMBO Little Nightmares Planet of Lana Lake Life is Strange The Legend of Zelda: Breath of the Wild Alien Invasion: RPG Idle Space Temple Run Subway Surfers Mafia City BALL x PIT Anime Feet Boys: The Charm Finder Quest The Last of Touch Good Girls: Seduction Starts With a Smile Librarian: Tidy Up the Arcane Library! PowerWash Simulator Sherlock Purr Comedy Quest Perky Little Things The Case of the Golden Idol Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR5994736803.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3290",
+      "speakers": [
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "slop",
+        "shovelware",
+        "clones",
+        "cash",
+        "grabs"
+      ]
+    },
     {
       "key": "55faa283f30071b104207c80a20e8d4f2f4913cc",
       "title": "The Prediction Game: Half-Time Report",
@@ -1175,6 +1199,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — Slop Til You Drop: Shovelware, Clones and Cash Grabs — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-06-24 — The Prediction Game: Half-Time Report — speakers: Time Report Cast, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-06-17 — The Last of Us: A Button Boys Special — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-06-10 — Til Death Do Us Restart — speakers: Til Death, Button Boys, Leicester Square, Glenn Moore, Sarah Keyworth, Pierre Novellie

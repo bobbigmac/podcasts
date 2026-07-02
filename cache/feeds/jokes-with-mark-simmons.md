@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-06-23T10:02:11+00:00`
-- checked_at: `2026-06-23T10:02:11+00:00`
-- etag: `"djEuMi4wOjE3ODIxOTI4ODQxNTA="`
+- fetched_at: `2026-07-02T04:20:56+00:00`
+- checked_at: `2026-07-02T04:20:56+00:00`
+- etag: `"djEuMi4wOjE3ODI5NjQ5MDA1NDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-06-23T10:02:11+00:00",
+  "fetched_at": "2026-07-02T04:20:56+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "595a583c29ffebfc84ad46e1e21d16b74410849a",
+      "title": "Finlay Christie Returns",
+      "published_at": "2026-07-02T04:01:00+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/finlay-christie-returns",
+      "description": "Finlay Christie returns to tell us three jokes he can't get to work and his favourite jokes from a movie. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6a45b2baf63987c537bc5605/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59883882",
+      "itunes_duration": "41:31",
+      "speakers": [
+        "Finlay Christie",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "finlay",
+        "christie",
+        "return"
+      ]
+    },
     {
       "key": "80d47d9614f09a8e438f2f2143c4ed9d1c6a6f37",
       "title": "Markus Birdman And His Dog",
@@ -7387,6 +7408,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — Finlay Christie Returns — speakers: Finlay Christie, Mark Simmons
 - 2026-06-23 — Markus Birdman And His Dog — speakers: Markus Birdman, Mark Simmons
 - 2026-06-17 — Emmanuel Sonubi — speakers: Emmanuel Sonubi, Mark Simmons
 - 2026-06-09 — Tour Talk: Danny's Back — speakers: Mark Simmons

@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-07-01T04:53:39+00:00`
-- checked_at: `2026-07-01T04:53:39+00:00`
-- last_modified: `Tue, 30 Jun 2026 23:00:22 GMT`
+- fetched_at: `2026-07-02T04:20:56+00:00`
+- checked_at: `2026-07-02T04:20:56+00:00`
+- last_modified: `Thu, 02 Jul 2026 00:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/741a3be12916743e1552a965b3e44e89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-01T04:53:39+00:00",
+  "fetched_at": "2026-07-02T04:20:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "7ff541e93dcc87ecc210f8fdd1cf025ace043e26",
+      "title": "549. Mamdani’s Wrecking Ball and the Rise of Anti-Migrant Vigilantes",
+      "published_at": "2026-07-01T23:00:00+00:00",
+      "link": null,
+      "description": "Is Zohran Mamdani becoming much more than a mayor and effectively running a shadow presidential campaign through the candidates he's backing? How significant is Australia’s new centrist party and could something similar be done in the UK? Are the anti-migrant protests and vigilantes in South Africa unique to the region, or part of a global populist pattern of scapegoating migrants for the failures of politics? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Malcolm Turnbull by searching ‘Leading’ on Spotify, Apple, or YouTube. The TRIP+ summer sale is ⁠ HERE : Get an annual membership for an extra 20% off with code SUMMER26. That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Lorcan Moullier, James Clayden Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f414d8a8-753f-11f1-b4c8-4f298634a9b1/image/a269ba67d26bc90ba34d39f947deb4bb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5595344829.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2708",
+      "speakers": [
+        "Zohran Mamdani"
+      ],
+      "topics": [
+        "mamdani",
+        "ball",
+        "rise",
+        "vigilante"
+      ]
+    },
     {
       "key": "9be3531178d89bfcdeb3bfdf8383b33a0bb15fdf",
       "title": "548. Burnham vs. Westminster and Trump’s Next Target",
@@ -12264,6 +12285,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — 549. Mamdani’s Wrecking Ball and the Rise of Anti-Migrant Vigilantes — speakers: Zohran Mamdani
 - 2026-06-30 — 548. Burnham vs. Westminster and Trump’s Next Target — speakers: Will Andy Burnham
 - 2026-06-24 — 547. The Truth About Russian Oil, Net Zero, and North Sea Drilling
 - 2026-06-22 — 546. Keir Starmer Resigns: What Happens Next?

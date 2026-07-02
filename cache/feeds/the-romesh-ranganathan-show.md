@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-07-01T20:14:20+00:00`
-- checked_at: `2026-07-01T20:14:20+00:00`
-- last_modified: `Wed, 01 Jul 2026 18:35:22 GMT`
+- fetched_at: `2026-07-02T04:20:56+00:00`
+- checked_at: `2026-07-02T04:20:56+00:00`
+- last_modified: `Wed, 01 Jul 2026 23:10:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-01T20:14:20+00:00",
+  "fetched_at": "2026-07-02T04:20:56+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a06dfec3bbb5671e3e671e588a5f189902ad5491",
+      "title": "Growing Up With An Eye Condition & Can Vegans Do This?",
+      "published_at": "2026-07-01T23:01:00+00:00",
+      "link": null,
+      "description": "Can Shanthi solve your life problems... and give you the perfect masala dosa recipe? Shanthi's back answering your questions, but not before revealing the mantras she lives by, how she rebuilt her happiness and why staying busy is the secret to a good life. Elsewhere, Romesh shares the advice he'd give his younger self, Shanthi teaches us how to make her famous masala dosa, and the listener dilemmas spiral from awkward parenting moments to one of the strangest vegan questions we've ever received. A Ranga Bee Production in partnership with Platform. Chapters 00:00 Intro 00:39 Mantras and happiness 03:16 Romesh explains Alice And Steve 05:26 Answering your questions 10:41 Shanthi’s Masala Dosa recipe 12:27 Romesh’s advice to his younger self 16:09 Awkward parent questions 23:44 A sausage sucking question 29:12 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4dc3b9b2-7556-11f1-880e-63c807d3dd9e/image/34480ee4c0088f33bcec07faa6450473.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4205480546.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2018",
+      "speakers": [
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "condition",
+        "vegans"
+      ]
+    },
     {
       "key": "b1dbb326bb424b0bb76fc5e613cc7acf59498a4a",
       "title": "Jemaine Clement On Flight of the Conchords, Marmite & British Comedy",
@@ -1854,6 +1873,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — Growing Up With An Eye Condition & Can Vegans Do This? — speakers: Romesh Ranganathan
 - 2026-06-28 — Jemaine Clement On Flight of the Conchords, Marmite & British Comedy — speakers: Jemaine Clement, Romesh Ranganathan
 - 2026-06-24 — Are Men Who Take Their Tops Off An Ick? — speakers: Romesh Ranganathan
 - 2026-06-22 — Eve on Dr Dre, Battle Rapping and Living In The UK — speakers: Dr Dre, Battle Rapping, Romesh Ranganathan
