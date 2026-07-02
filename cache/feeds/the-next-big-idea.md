@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-06-25T09:43:30+00:00`
-- checked_at: `2026-06-25T09:43:30+00:00`
-- last_modified: `Thu, 25 Jun 2026 09:00:00 GMT`
+- fetched_at: `2026-07-02T09:31:37+00:00`
+- checked_at: `2026-07-02T09:31:37+00:00`
+- last_modified: `Thu, 02 Jul 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-25T09:43:30+00:00",
+  "fetched_at": "2026-07-02T09:31:37+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,50 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "f98895c5851465a8e1b49a63a8d85e3947875a11",
+      "title": "As America Turns 250, Are You in the Mood to Celebrate?",
+      "published_at": "2026-07-02T09:00:00+00:00",
+      "link": null,
+      "description": "\"We’re entering our 250th birthday, and we’re not quite in the mood for a birthday party. We’ve been tearing ourselves apart.\" That's what Walter Isaacson told Rufus when they sat down last year. But, he says, it doesn't have to be that way. \"Let's use this birthday party as a chance to try to heal some of the divides.\" Walter's latest book is The Greatest Sentence Ever Written . That sentence? “We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.” Yes, it’s eloquent, but more than that, it gave the United States a mission statement, one that we are still striving — fitfully, imperfectly — to meet. With America's 250th birthday just a few days away, we think it's the perfect time to revisit this conversation with Walter about how that sentence came to be written, what it meant to the founders, and why it still matters today. 🎥 The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠here⁠⁠⁠ . 📱Follow Rufus on ⁠⁠LinkedIn⁠⁠ , subscribe to our ⁠⁠Substack⁠⁠ , or send us an email at ⁠podcast@nextbigideaclub.com⁠ . 🎁 The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠nextbigideaclub.com⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). 🔗 SPONSORED BY: IM8 ➡️ Athletes, doctors, David Beckham — they all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Northwest Registered Agent ➡️ They’ve been helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Shopify ➡️ Stop waiting for permission to build something. Your next revenue stream starts free at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP1944887392.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4110",
+      "speakers": [
+        "America Turns",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "america",
+        "mood"
+      ]
+    },
+    {
+      "key": "d2aec1dff702c27df7c416e2b448d89d2a9f11d0",
+      "title": "THE GOD TEST (Part 2): Can Humanity Pass the Cosmic Reckoning?",
+      "published_at": "2026-06-29T09:00:00+00:00",
+      "link": null,
+      "description": "On Thursday, Rufus and Robert Wright ( The God Test ) talked about AI as a new stage in the evolution of intelligence — and about the very human traits already showing up in our machines: empathy, deception, power-seeking, seduction. Today, they ask the harder question: what happens when these machines become the object of a geopolitical arms race? 🔗 SPONSORED BY: Fora ➡️ Build and scale your own travel business by becoming a Fora Advisor today at foratravel.com/idea Northwest Registered Agent ➡️ Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Shopify ➡️ Launch your business for just $1/month. Start selling today at shopify.com/nbi",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP3859932528.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2041",
+      "speakers": [
+        "Robert Wright",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "test",
+        "humanity",
+        "cosmic",
+        "reckoning"
+      ]
+    },
     {
       "key": "e22b87a6f94120b801a2814db4c6d40cc968aa9d",
       "title": "THE GOD TEST (Part 1): Are You Ready for Superintelligence?",
@@ -7984,6 +8028,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — As America Turns 250, Are You in the Mood to Celebrate? — speakers: America Turns, Rufus Griscom, Caleb Bissinger
+- 2026-06-29 — THE GOD TEST (Part 2): Can Humanity Pass the Cosmic Reckoning? — speakers: Robert Wright, Rufus Griscom, Caleb Bissinger
 - 2026-06-25 — THE GOD TEST (Part 1): Are You Ready for Superintelligence? — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-06-22 — You Have 72 Free Hours a Week. How Do You Want to Spend Them? — speakers: Free Hours, Spend Them, Rufus Griscom, Caleb Bissinger
 - 2026-06-18 — Are You Playing Someone Else’s Game? — speakers: Rufus Griscom, Caleb Bissinger

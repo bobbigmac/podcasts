@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-06-25T09:43:30+00:00`
-- checked_at: `2026-06-25T09:43:30+00:00`
+- fetched_at: `2026-07-02T09:31:37+00:00`
+- checked_at: `2026-07-02T09:31:37+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 25 Jun 2026 04:08:45 GMT`
+- last_modified: `Thu, 02 Jul 2026 04:10:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-25T09:43:30+00:00",
+  "fetched_at": "2026-07-02T09:31:37+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "81968813cc5e7cab86a44bb1850468e087b105e5",
+      "title": "Henry Agg",
+      "published_at": "2026-07-02T04:00:00+00:00",
+      "link": null,
+      "description": "An absolute joy this week to be joined among the hydrangeas by gardening guru Henry Agg ! 🌸 Garden designer and social media sensation, I love Henry’s accessible approach to gardening and was thrilled when he agreed to pop by for some Pottering. Listen in as we discuss Henry’s rather dramatic career change from the glamour of IT recruitment to the garden shed, the mental health benefits of spending time outdoors, and our highlights from this year’s Chelsea Flower Show. Henry also tells us all about his brilliant book, The Weekend Gardener , packed with tips, tricks and a plethora of projects to fill your weekends. 📖🌱 So, dust off your trug, pour yourself a glass of something cold, and let’s go Pottering. 🪴 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please like and subscribe! @tomallen Click below to discover QVC’s My Garden Escape, whether you're a seasoned gardener or a horticultural novice, it's your ultimate gardening destination. And don’t forget to use the code POTTER for £10 off your first purchase (minimum spends apply, see QVC website for full terms and conditions) https://www.qvcuk.com/content/garden-and-leisure/my-garden-escape.html?cid=PR-IF-Pottering&e22=MGE Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5f319dba-753b-11f1-9cbf-d76178d9e827/image/da807154c53145e56387495bd4ac6cf4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR1185677703.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2993",
+      "speakers": [
+        "Henry Agg",
+        "Tom Allen"
+      ],
+      "topics": [
+        "henry"
+      ]
+    },
     {
       "key": "2c51141c81c0e4367e4482a503c32c86a8a0d925",
       "title": "Ginger Johnson",
@@ -867,6 +886,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — Henry Agg — speakers: Henry Agg, Tom Allen
 - 2026-06-25 — Ginger Johnson — speakers: Ginger Johnson, Tom Allen
 - 2026-06-22 — Philippa Perry — speakers: Philippa Perry, Tom Allen
 - 2026-06-11 — AJ Odudu — speakers: Odudu Oh, Tom Allen
