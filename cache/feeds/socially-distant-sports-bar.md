@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-07-01T04:53:39+00:00`
-- checked_at: `2026-07-01T04:53:39+00:00`
-- etag: `"djEuMi4wOjE3ODI4NjIyOTkzNDM="`
+- fetched_at: `2026-07-03T04:07:29+00:00`
+- checked_at: `2026-07-03T04:07:29+00:00`
+- etag: `"djEuMi4wOjE3ODMwMzU4MTkyNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-07-01T04:53:39+00:00",
+  "fetched_at": "2026-07-03T04:07:29+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,29 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "2cc163579efd608979b813d4f76eda9a0d2fed9e",
+      "title": "Navy Blue Fleece Bikini",
+      "published_at": "2026-07-02T23:43:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/navy-blue-fleece-bikini",
+      "description": "Welcome to Friday’s Socially Distant Sports Bar with Elis James, Mike Bubbins and Steff Garrero. Elis brings in Kevin Bridges: In Search of the Beautiful Game , a documentary about football, comedy and the strange hold the game has on people. Steff has chosen Humans Not Robots: When Elite Sport and Real Life Collide by Michail Antonio, a book about the human reality behind elite sport — pressure, expectation, identity, vulnerability and what happens when real life crashes into professional performance. The Socially Distant Sports bar features Mike Bubbins from TV's Mammoth and Elis James from the \"Elis & John\" podcast. It's a funny podcast with sport at it's core. Subscribe to Distant Pod Bonus Club on Apple Podcasts and you’ll get Wednesday and Friday episodes early and advert-free every Tuesday. AND you'll get a bonus episode every single week. https://podcasts.apple.com/gb/podcast/the-socially-distant-sports-bar/id1503926981 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a4251dc6c42755eb67b28e8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79952640",
+      "itunes_duration": "33:18",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "navy",
+        "blue",
+        "fleece",
+        "bikini"
+      ]
+    },
     {
       "key": "3c2544c6bb8066380248ea8a384c2a71adc6d3af",
       "title": "Contrite, Vulnerable, Listener",
@@ -15231,6 +15254,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — Navy Blue Fleece Bikini — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-30 — Contrite, Vulnerable, Listener — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-27 — Cryogenics: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-06-25 — Aussie Mike — speakers: Aussie Mike Elis James, Mike Bubbins, Steff Garrero, Elis James

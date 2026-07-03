@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-07-02T17:01:48+00:00`
-- checked_at: `2026-07-02T17:01:48+00:00`
-- etag: `"djEuMi4wOjE3ODMwMDUyMTQ4NDY="`
+- fetched_at: `2026-07-03T04:07:29+00:00`
+- checked_at: `2026-07-03T04:07:29+00:00`
+- etag: `"djEuMi4wOjE3ODMwMzMzNTkzMDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-07-02T17:01:48+00:00",
+  "fetched_at": "2026-07-03T04:07:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c7e339395590886d4055b9ebef966e150ffeffbf",
+      "title": "My Time Capsule The Dig - Ep. 9 - With Garrett Millerick! (Creator of Radio 4's Do Gooders with Frank Skinner)",
+      "published_at": "2026-07-02T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-9-with-garrett-millerick-creator",
+      "description": "Garrett Millerick was our guest in episode 405 and he returns to have a chat about his old time capsule and let us know where he wants it buried! Comedian and writer Garrett Millerick, was the creator and writer of BBC Radio 4's Do Gooders with Frank Skinner and returns to Edinburgh this year with his new show, We Tried It Your Way. Also, Mike and his producer and son John find out where Remmie Milner wants to bury her capsule and they interact with listeners via email and voice memos . Tickets for Garrett Millerick: We Tried It Your Way at Edinburgh available here - https://www.pleasance.co.uk/event/garrett-millerick-we-tried-it-your-way . Follow Garrett Millerick on Instagram: @millerickcomedy . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1783004589338-00f2a3c8-ae0f-4607-84da-1801317462db.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a46801e1017d1286b44406e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63818104",
+      "itunes_duration": "53:10",
+      "speakers": [
+        "Frank Skinner",
+        "Garrett Millerick"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "garrett",
+        "millerick",
+        "creator",
+        "radio",
+        "gooders",
+        "frank",
+        "skinner"
+      ]
+    },
     {
       "key": "ffcafd23d64cad1f4107f4e5c18d9135c1acdf6e",
       "title": "Ep. 591 - Remmie Milner - Shirley Campbell in Apple TV+’s Silo & Lena in His Dark Materials",
@@ -12880,6 +12907,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — My Time Capsule The Dig - Ep. 9 - With Garrett Millerick! (Creator of Radio 4's Do Gooders with Frank Skinner) — speakers: Frank Skinner, Garrett Millerick
 - 2026-06-28 — Ep. 591 - Remmie Milner - Shirley Campbell in Apple TV+’s Silo & Lena in His Dark Materials — speakers: Shirley Campbell, Remmie Milner, Rebecca Fergu
 - 2026-06-25 — My Time Capsule The Dig - Ep. 8 - With David Gower! — speakers: David Gower
 - 2026-06-21 — Ep. 590 - Dan Tiernan - Live at the Apollo, QI, The Last Leg, 8 Out Of 10 Cats Does Countdown — speakers: Dan Tiernan

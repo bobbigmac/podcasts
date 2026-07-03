@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-06-26T04:39:14+00:00`
-- checked_at: `2026-06-26T04:39:14+00:00`
-- etag: `W/"36b00e777c3ce17f35322e29b3909ebe"`
-- last_modified: `Thu, 25 Jun 2026 22:55:00 GMT`
+- fetched_at: `2026-07-03T04:07:29+00:00`
+- checked_at: `2026-07-03T04:07:29+00:00`
+- etag: `W/"bc1f5734133fb860d16b71e765013d48"`
+- last_modified: `Thu, 02 Jul 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-06-26T04:39:14+00:00",
+  "fetched_at": "2026-07-03T04:07:29+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,53 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "de8ff4ee30e7a852d592fdb4df61008508730d9c",
+      "title": "No Such Thing As An Unlucky Fountain",
+      "published_at": "2026-07-02T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8923496",
+      "description": "Jamie Morton joins Dan, Anna and Andy to discuss symmetry, lottery, and an erotic bee. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43725152.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8923496.mp3?modified=1783008565&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3387",
+      "speakers": [
+        "Jamie Morton",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "unlucky",
+        "fountain"
+      ]
+    },
+    {
+      "key": "f4a20cf4c710360503d17c396f6b3f8f92fcec36",
+      "title": "Little Fish: Shall we put a podcast on? What a stupid idea!",
+      "published_at": "2026-06-28T22:59:00+00:00",
+      "link": "https://audioboom.com/posts/8921807",
+      "description": "Dan, Andy and Anna discuss YOUR facts including pasta, Proust and pencils. Anna shares her secret 'Wheel of Life' game. And we name eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8921807.mp3?modified=1782660357&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1826",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "podcast",
+        "idea"
+      ]
+    },
     {
       "key": "4bdccf4bf6df9f06662130c0e6a99e71e01bb5bc",
       "title": "No Such Thing As A Glazed Lizard Donut",
@@ -267,10 +314,10 @@
       "link": "https://audioboom.com/posts/8906438",
       "description": "Prodigal Podcaster Anna Ptaszynski returns! She joins Dan, James and Andy to discuss whistling bombs, wifi cars and wild oats. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
       "image_url": "https://audioboom.com/i/43657672.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8906438.mp3?modified=1779379748&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8906438.mp3?modified=1783009815&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3538",
+      "itunes_duration": "3490",
       "speakers": [
         "Anna Ptaszynski",
         "Dan Schreiber",
@@ -16561,6 +16608,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — No Such Thing As An Unlucky Fountain — speakers: Jamie Morton, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-06-28 — Little Fish: Shall we put a podcast on? What a stupid idea! — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-25 — No Such Thing As A Glazed Lizard Donut — speakers: Disney Princesses, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-21 — Little Fish: Really Siding With The Baddies — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-06-18 — No Such Thing As The Metal Bloke — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

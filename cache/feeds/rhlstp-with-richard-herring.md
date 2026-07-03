@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-01T04:53:39+00:00`
-- checked_at: `2026-07-01T04:53:39+00:00`
-- etag: `"djEuMi4wOjE3ODI4NzQ2NTkyNzY="`
+- fetched_at: `2026-07-03T04:07:29+00:00`
+- checked_at: `2026-07-03T04:07:29+00:00`
+- etag: `"djEuMi4wOjE3ODMwNDc0NTkzMjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-01T04:53:39+00:00",
+  "fetched_at": "2026-07-03T04:07:29+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5817946c27b678234eba73943f4a8210ced675b2",
+      "title": "Cally Beaton on Namaste Motherf*ckers - Book Club",
+      "published_at": "2026-07-03T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #186 - Namaste Motherf*ckers - Richard is back at the Podcast Room talking to stand up, motivational speaker and former TV executive about her first book, Namaste Motherf*ckers. They talk about whether this is a book for everyone, young and old, whether the young will ever learn from the old and wise, whether this is a self help book and whether you would take a self help pill to solve all your problems, why single life can be a good life and careering towards our sixties, but not being like our grandparents were at the same age Buy the book here - https://uk.bookshop.org/p/books/namaste-motherf-ckers-a-modern-manifesto-for-keeping-cool-when-you-re-a-hot-mess-the-sunday-times-top-10-bestseller-cally-beaton/6b2234553af2b4d8 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1782649338834-ea516b48-1fd3-41ec-badc-933d5aab2e62.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a410f246b6690f46a7f1017/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25828832",
+      "itunes_duration": "53:48",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "beaton",
+        "namaste",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "839bcf86c92da217c8bdc4095ac0bf358ceed423",
       "title": "Harry Shearer and Tom Leopold - \"J Edgar Hoover in a Ballgown\"",
@@ -23022,6 +23043,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-03 — Cally Beaton on Namaste Motherf*ckers - Book Club — speakers: Richard Herring
 - 2026-07-01 — Harry Shearer and Tom Leopold - "J Edgar Hoover in a Ballgown" — speakers: Harry Shearer, Edgar Hoover, Richard Herring
 - 2026-06-29 — Jordan Gray (Retro) - "Embracing Your Delicious Fate" — speakers: Jordan Gray, Richard Herring
 - 2026-06-27 — Rich and Ally's Craven Newsround Compilation "Incurable" — speakers: Craven Newsround Compilation, Richard Herring

@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-07-01T04:53:39+00:00`
-- checked_at: `2026-07-01T04:53:39+00:00`
-- etag: `"djEuMi4wOjE3ODI4NzYwMzkzODE="`
+- fetched_at: `2026-07-03T04:07:29+00:00`
+- checked_at: `2026-07-03T04:07:29+00:00`
+- etag: `"djEuMi4wOjE3ODMwNDg4MzkzNzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-07-01T04:53:39+00:00",
+  "fetched_at": "2026-07-03T04:07:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5af7ae164cbb6712a8ebafbd2c26577a7c69644a",
+      "title": "POM KLEMENTIEFF (Mission Impossible / Guardians... / Westworld) • Friday Rewind",
+      "published_at": "2026-07-03T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Pom Klementieff , originally episode 521 from 2023-07-12. Original writeup below: An absolute treat of an episode as we meet Pom in full fighting form, ready for a full on packed conversation branching out onto so much of her inspiring career but leaving enough for next time too! Basically - the surface is scratched but the iceberg has much below the surface, to smash a couple of metaophors together. Pom's been involved in a lot of cinema and always delivers huge performances, obviously including Mission: Impossible - Dead Reckoning, but along with the Guardians films, Suicide Squad, Westworld and loads more. Everything including process, hopes and dreams, basketball games with Spike Lee, working with Simon Pegg and Tom Cruise, and SO much more. Seriously - if you don't know Pom yet, get to know. A great one! PIP'S PATREON PAGE if you're of a supporting nature IMDB INSTAGRAM PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1782922223809-d266d5cb-c5cc-4c57-b166-a40581245ed3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a453d7c6771af4aa46a0a86/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104095804",
+      "itunes_duration": "43:17",
+      "speakers": [],
+      "topics": [
+        "klementieff",
+        "mission",
+        "impossible",
+        "guardians",
+        "westworld",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "24d587e820b7fb198c3f1170bd4c32aaaa3f281a",
       "title": "MARK WATSON • \"You must be tired!\" (Before It Overtakes Us / Murder Of A Famous Bastard / No More Jockeys) #678",
@@ -19111,6 +19133,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-03 — POM KLEMENTIEFF (Mission Impossible / Guardians... / Westworld) • Friday Rewind
 - 2026-07-01 — MARK WATSON • "You must be tired!" (Before It Overtakes Us / Murder Of A Famous Bastard / No More Jockeys) #678
 - 2026-06-26 — DAVID EARL & JOE WILKINSON (Chatabix & much more) • Friday Rewind
 - 2026-06-24 — ABUBAKAR SALIM • conducting a perfect symphony of acting and game design (House Of The Dragon / Raised By Wolves / Tales Of Kenzera) #677
