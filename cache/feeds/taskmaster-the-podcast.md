@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-06-25T22:45:21+00:00`
-- checked_at: `2026-06-25T22:45:21+00:00`
-- etag: `"d8f75-6551a47f0c3b4"`
-- last_modified: `Thu, 25 Jun 2026 21:00:24 GMT`
+- fetched_at: `2026-07-03T14:31:51+00:00`
+- checked_at: `2026-07-03T14:31:51+00:00`
+- etag: `"d96c2-655b323f352e6"`
+- last_modified: `Fri, 03 Jul 2026 11:22:30 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-06-25T22:45:21+00:00",
+  "fetched_at": "2026-07-03T14:31:51+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "18659ee6b0f582f90f29e6d51aac314236cc6e34",
+      "title": "Taskmaster the Podcast *Best of Series 21* Part Two",
+      "published_at": "2026-07-03T11:15:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "On today's episode we enjoy a another look back at some of our favourites moments from the podcast during Series 21. Who can forget John observing Kumail's arms and Jason's plea to be Paddington? All this and loads more! Enjoy, your time starts now... To catch up on all of Taskmaster head to Channel4.com For more content and some BTS visit the Taskmaster YouTube Channel To keep up to date with leader boards, merch and everything in between go to Taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/27c2c293-9a94-4e79-a5dc-7e287273fe42.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=27c2c293-9a94-4e79-a5dc-7e287273fe42",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61923913",
+      "itunes_duration": "01:04:30",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "podcast",
+        "best",
+        "series"
+      ]
+    },
     {
       "key": "1c912b8b8ace6ba8bc5a982414f6455a62ad1451",
       "title": "Taskmaster the Podcast *Best of Series 21* Part One",
@@ -5483,6 +5503,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-03 — Taskmaster the Podcast *Best of Series 21* Part Two — speakers: Ed Gamble
 - 2026-06-25 — Taskmaster the Podcast *Best of Series 21* Part One — speakers: Ed Gamble
 - 2026-06-18 — Taskmaster The People's Podcast - The Whole Hilt With a Kilt - S21, Ep.10 *GRAND FINAL* — speakers: Ed Gamble
 - 2026-06-11 — *Series 21 Winner* Series 21 Ep 10 — speakers: Ed Gamble

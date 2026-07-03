@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-06-25T20:22:18+00:00`
-- checked_at: `2026-06-25T20:22:18+00:00`
-- etag: `"djEuMi4wOjE3ODI0MTg1NTQ5MjE="`
+- fetched_at: `2026-07-03T14:31:51+00:00`
+- checked_at: `2026-07-03T14:31:51+00:00`
+- etag: `"djEuMi4wOjE3ODMwNzk3OTAzMjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-06-25T20:22:18+00:00",
+  "fetched_at": "2026-07-03T14:31:51+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7ded80c4cf0c635b061e6d28169d2a709deef30f",
+      "title": "The Gentleman's Pad",
+      "published_at": "2026-07-03T11:56:30+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/the-gentlemans-pad",
+      "description": "This week, Katherine's Telling Everybody Everything about a new initiative to start a men's sanitary product as she's joined by Bobby K who discusses a recent health issue. We unpack some of the blowback from last week's conversation with Erica Komisar and comedian Andrew Johnston joins from Los Angeles with some Hollywood news, including Kylie Jenner's staffing issues and Emily Ratakowski's essay on the stigma of being a single mother. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1783078884698-96bf5df1-969c-4722-8ced-8960811369a4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a47a36e8890f0eef30daada/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89639415",
+      "itunes_duration": "1:02:14",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "gentleman"
+      ]
+    },
     {
       "key": "326290dd2f31d733dc0d8a818559db7f7d74b8f6",
       "title": "In Conversation With Erica Komisar",
@@ -6294,6 +6313,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-03 — The Gentleman's Pad — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-06-25 — In Conversation With Erica Komisar — speakers: Katherine Ryan
 - 2026-06-15 — Body Autonomy and THAT Baby Shower — speakers: Body Autonomy, Baby Shower, Katherine Ryan
 - 2026-06-09 — Bobby Skips Town — speakers: Bobby Skips Town, Katherine Ryan

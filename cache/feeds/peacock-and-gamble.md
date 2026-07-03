@@ -2,8 +2,8 @@
 
 - slug: `peacock-and-gamble`
 - source: `https://www.fubarradio.com/player/on-demand/peacock-and-gamble/`
-- fetched_at: `2026-07-03T09:34:33+00:00`
-- checked_at: `2026-07-03T09:34:33+00:00`
+- fetched_at: `2026-07-03T14:31:51+00:00`
+- checked_at: `2026-07-03T14:31:51+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "image_url": "",
-  "fetched_at": "2026-07-03T09:34:33+00:00",
+  "fetched_at": "2026-07-03T14:31:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e3aea4c0e694fd1aac04f9743aa5c40be922b184",
+      "guid": "a20466bf-1ec4-4528-b003-4680a7c6250d",
+      "title": "Peacock and Gamble (3rd July)",
+      "published_at": "2026-07-03T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-3rd-july1/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1783072933-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=a20466bf-1ec4-4528-b003-4680a7c6250d&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "26a7519cbbbefa6b942390455b2fb6fab789f971",
       "guid": "13e8e268-46bc-4edb-aab3-b6a37b969d00",
@@ -2943,6 +2956,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-03 — Peacock and Gamble (3rd July)
 - 2026-07-02 — Peacock and Gamble
 - 2026-06-26 — Peacock and Gamble (26th June)
 - 2026-06-25 — Peacock and Gamble (25th June)
