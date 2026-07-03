@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-06-26T20:08:25+00:00`
-- checked_at: `2026-06-26T20:08:25+00:00`
-- etag: `"92ddb623690cecba04c64fba5f76ebda"`
-- last_modified: `Fri, 26 Jun 2026 18:00:06 GMT`
+- fetched_at: `2026-07-03T19:49:06+00:00`
+- checked_at: `2026-07-03T19:49:06+00:00`
+- etag: `"1affa6808ca42a83a0626a77baa19ddf"`
+- last_modified: `Fri, 03 Jul 2026 18:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
-  "fetched_at": "2026-06-26T20:08:25+00:00",
+  "fetched_at": "2026-07-03T19:49:06+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "a183342523e39beabb079052676b9e88313758bf",
+      "title": "Dead Ringers: Ep3. Heat, Hydration, and Harry Kane",
+      "published_at": "2026-07-03T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nt67s0",
+      "description": "The Dead Ringers team train their vocal firepower on the week’s news. This week: Keir is ex-Prime Minister, Rob is ex-army, and Liz Truss is ex-cited. Oh and it’s ruddy HOT. Starring Jon Culshaw, Jan Ravens, Lewis Macleod, Duncan Wisbey and Jess Robinson. Produced by Jon Holmes Executive Producer: Richard Morris Production Co-ordinator: Giulia Lopes Mazzu A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nvc951.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27360000",
+      "itunes_duration": "1710",
+      "speakers": [
+        "Harry Kane"
+      ],
+      "topics": [
+        "dead",
+        "ringers",
+        "heat",
+        "hydration",
+        "harry",
+        "kane"
+      ]
+    },
     {
       "key": "ce811531b584c6a253fb94e90fae6d760dc1c72a",
       "title": "Dead Ringers: Ep2. Makerfield Maketh Man",
@@ -5447,28 +5470,6 @@
         "ringers",
         "july"
       ]
-    },
-    {
-      "key": "5c5519c8a0582ba446ba70fc2ec4dfcb27755057",
-      "title": "Dead Ringers, Series 21, Episode 4",
-      "published_at": "2021-07-02T18:05:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09n7d1d",
-      "description": "Sajid Javid makes his first appearance as Health Minister, Liz Truss has a message for Harry Kane and the real secret of Andy Murray’s success is revealed. The writers were Tom Jamieson and Nev Fountain, Laurence Howarth, Tom Coles and Ed Amsden, Simon Alcock, Jeffrey Aidoo, Sophie Dickson and Duncan Wisbey. Producer: Bill Dare Production Coordinator: Sarah Sharpe A BBC Studios Production for Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3rrv.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27264000",
-      "itunes_duration": "1704",
-      "speakers": [
-        "Dead Ringers",
-        "Sajid Javid",
-        "Harry Kane"
-      ],
-      "topics": [
-        "dead",
-        "ringers",
-        "series"
-      ]
     }
   ]
 }
@@ -5477,6 +5478,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-03 — Dead Ringers: Ep3. Heat, Hydration, and Harry Kane — speakers: Harry Kane
 - 2026-06-26 — Dead Ringers: Ep2. Makerfield Maketh Man
 - 2026-06-19 — Dead Ringers: Ep1. Keir vs Kemi — speakers: Dead Ringers, World Cup
 - 2026-06-12 — The News Quiz Ep8. - Peter Scandalman — speakers: Peter Scandalman
@@ -5735,4 +5737,3 @@
 - 2021-08-02 — Party's Over: ep2 Road Trip 30th July 2021 — speakers: Road Trip, Prime Minister
 - 2021-07-16 — Dead Ringers, 16th July, 2021 — speakers: Dead Ringers
 - 2021-07-09 — Dead Ringers, 9th July, 2021 — speakers: Dead Ringers, Angela Rayner
-- 2021-07-02 — Dead Ringers, Series 21, Episode 4 — speakers: Dead Ringers, Sajid Javid, Harry Kane

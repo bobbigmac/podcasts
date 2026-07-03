@@ -26916,6 +26916,28 @@
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "8552e56263c4a47753fc300e3f255b0d27334dcc",
+        "episode_key": "8552e56263c4a47753fc300e3f255b0d27334dcc",
+        "title": "Josh Widdicombe XFM #56 – Unexpected James Acaster, Lots of Nish Kumar, Suzi Ruffell",
+        "published_at": "2026-07-02T10:29:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Nish Kumar joins Josh in the studio for a lot longer than usual, Suzi Ruffell joins Josh in the studio and James Acaster arrives unexpected.Broadcast on 14th July 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO5642094509.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-56-unexpected-james-acaster-lots/id1866254969?i=1000775159497&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
         "dedupe_key": "e855ed3f79b66ce97c3d8eccc1c320d1811325a5",
         "episode_key": "e855ed3f79b66ce97c3d8eccc1c320d1811325a5",
         "title": "Josh Widdicombe XFM #55 – James Acaster Classic Scrape 31, Zoe Lyons, Nish Kumar",

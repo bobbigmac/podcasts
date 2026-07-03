@@ -2,9 +2,9 @@
 
 - slug: `nature-podcast`
 - source: `https://feeds.acast.com/public/shows/0185cea5-9e3b-4b82-a887-26f91f92765f`
-- fetched_at: `2026-06-17T16:04:06+00:00`
-- checked_at: `2026-06-17T16:04:06+00:00`
-- etag: `"djEuMi4wOjE3ODE3MDg2NTAwMTg="`
+- fetched_at: `2026-07-03T19:49:06+00:00`
+- checked_at: `2026-07-03T19:49:06+00:00`
+- etag: `"djEuMi4wOjE3ODI5MDc4NDA5MTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.nature.com/nature/podcast",
   "description": "Nature Podcast - the world's best science and medicine in your earbuds",
   "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
-  "fetched_at": "2026-06-17T16:04:06+00:00",
+  "fetched_at": "2026-07-03T19:49:06+00:00",
   "owners": [
     "Benjamin Thompson",
     "Noah Baker"
@@ -28,6 +28,121 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "cc9622129764a4dc93db0673fe8a0508d52da9f1",
+      "title": "Togetherness: How co-operation built the world",
+      "published_at": "2026-07-01T12:10:40+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-02067-6",
+      "description": "In this episode, we speak with science journalist Rowan Hooper, whose book Togetherness: Symbiosis and the Hidden Story of Life's Greatest Collaborations takes a deep-dive into the world of co-operation between organisms. In the book, he argues that collaboration in nature has often been overlooked in favour of competition, and that organisms working together have played a vital role in making the world the way it is. Togetherness: Symbiosis and the Hidden Story of Life's Greatest Collaborations Rowan Hooper Fern Press (2026) Music supplied by SPD/Triple Scoop Music/Getty Images Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1782834235967-c09015e0-7032-4071-a23a-eec8d760775f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a43e473e80d75fcb8097120/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30428629",
+      "itunes_duration": "31:39",
+      "speakers": [
+        "Rowan Hooper",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "togetherness",
+        "operation",
+        "world"
+      ]
+    },
+    {
+      "key": "bbe9c652a02e40e64eed11277566a68aadc13703",
+      "title": "Audio long read: Is the peptide craze backed by science? The promise behind the hype",
+      "published_at": "2026-06-29T15:00:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-02063-w",
+      "description": "Peptides — short chains of amino acids — have become huge online. The popularity of these molecules has skyrocketed and they are now the latest cure-all trend on social media. But what does the science say about their effectiveness? Animal research suggests that that some of these experimental peptides hold promise, but evidence they work in people is lacking. This is an audio version of our Feature: Is the peptide craze backed by science? The promise behind the hype Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a3e9ee3a3fa978237762adb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "16074007",
+      "itunes_duration": "16:41",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "read",
+        "craze",
+        "science",
+        "promise",
+        "hype"
+      ]
+    },
+    {
+      "key": "81888f1cc27c3464defc5b797a886128c768ff8f",
+      "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
+      "published_at": "2026-06-26T15:00:00+00:00",
+      "link": "https://shows.acast.com/nature/episodes/briefing-chat-what-tickling-a-chimpanzee-can-tell-us-about-t",
+      "description": "Nature staff discuss how apes share a rhythm of laughter, and how AI use may degrade skills in medicine and computer science. 00:32 Early evidence suggests that AI use causes skills to atrophy Nature: Is AI ruining our skills? Early results are in — and they’re not good 06:42 Humans and chimps share a laugh Nature: Oo oo, ha ha: why humans and great apes giggle alike when tickled Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1782470667892-144712b6-433e-471b-8261-763692dd5287.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a3e58100ad3211686e8a738/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "5521031",
+      "itunes_duration": "11:30",
+      "speakers": [
+        "Briefing Chat",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "chat",
+        "chimpanzee",
+        "evolution",
+        "speech"
+      ]
+    },
+    {
+      "key": "629cd2d7566ba11c4de20de614a7464fa8e0ed94",
+      "title": "Medical records could be revealed by AI training-data vulnerability",
+      "published_at": "2026-06-24T15:00:00+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-02032-3",
+      "description": "In this episode: 00:46 How sensitive information can be gleaned from medical AIs Research article: Knolle et al. Correction: The story about medical AI-data privacy incorrectly stated that the number of individuals at high risk of a membership inference attack increases as training-dataset size grows. It should have stated that the increase in risk occurs when the AI model increases in capacity and size. 11:31 Research Highlights Nature: A long-lived butterfly’s secret to graceful ageing Nature: It slices! It dices! Sashimi-Bot handles seafood with ease 13:57 Across the Universe, galaxies clump together more than physicists thought they should Research article: Labini & Galoppo Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1768403592746-2c5f9e78-ae15-499a-9d0a-ae6ca82bb9ca.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a3bee5feeb75ff76e1e4084/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19126581",
+      "itunes_duration": "19:54",
+      "speakers": [
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "record",
+        "training",
+        "data",
+        "vulnerability"
+      ]
+    },
+    {
+      "key": "7119231d47d4dbaca357786b90f2f1545e042dce",
+      "title": "Briefing Chat: Testosterone and sperm may get a boost from obesity drugs",
+      "published_at": "2026-06-19T13:00:00+00:00",
+      "link": "https://shows.acast.com/nature/episodes/briefing-chat-testosterone-and-sperm-may-get-a-boost-from-ob",
+      "description": "Nature staff discuss preliminary data on the effects of GLP-1 drugs on male fertility plus a two-year trial of a brain-computer interface. 00:18 Brain-computer interface makes a life-changing impact Nature: At-home brain implant gives man with motor neuron disease his daily life back 05:39 The possible benefits of obesity drugs on testosterone Nature: The latest benefit of obesity drugs: boosting testosterone and sperm quality Subscribe to Nature Briefing, an unmissable daily round-up of science news, opinion and analysis free in your inbox every weekday. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3b71a8cbe675f3cedcb/1781865961156-f7e2f245-c705-4309-b1e2-e534f303e303.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/nature/e/6a351dd2db494ef85c9fdd24/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "17684171",
+      "itunes_duration": "12:16",
+      "speakers": [
+        "Briefing Chat",
+        "Benjamin Thompson",
+        "Noah Baker"
+      ],
+      "topics": [
+        "chat",
+        "testosterone",
+        "sperm",
+        "boost",
+        "obesity",
+        "drug"
+      ]
+    },
     {
       "key": "2764a1c6bb6c149ed3be6c1e77926ce85aa78f7d",
       "title": "DNA from hunter-gatherer teeth reveals secrets of ancient plague",
@@ -19858,6 +19973,11 @@
 
 ## Episodes (newest first)
 
+- 2026-07-01 — Togetherness: How co-operation built the world — speakers: Rowan Hooper, Benjamin Thompson, Noah Baker
+- 2026-06-29 — Audio long read: Is the peptide craze backed by science? The promise behind the hype — speakers: Benjamin Thompson, Noah Baker
+- 2026-06-26 — Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
+- 2026-06-24 — Medical records could be revealed by AI training-data vulnerability — speakers: Benjamin Thompson, Noah Baker
+- 2026-06-19 — Briefing Chat: Testosterone and sperm may get a boost from obesity drugs — speakers: Briefing Chat, Benjamin Thompson, Noah Baker
 - 2026-06-17 — DNA from hunter-gatherer teeth reveals secrets of ancient plague — speakers: Benjamin Thompson, Noah Baker
 - 2026-06-12 — Briefing Chat: The epic journey of Stonehenge’s central stone — speakers: Briefing Chat, Altar Stone, Science Focus, Benjamin Thompson, Noah Baker
 - 2026-06-10 — Newly-discovered whale graveyard dates back millions of years — speakers: News Views, Benjamin Thompson, Noah Baker
