@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-06-30T09:59:52+00:00`
-- checked_at: `2026-06-30T09:59:52+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RJM09UVTJNemsyTWpRPTo6c2F4ZXNz"`
+- fetched_at: `2026-07-03T09:34:33+00:00`
+- checked_at: `2026-07-03T09:34:33+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RNd05UUTRNemsyTURFPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-06-30T09:59:52+00:00",
+  "fetched_at": "2026-07-03T09:34:33+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "21aea0511cf40db81bc18e7f176ac7488b4eab25",
+      "title": "The Beef With Wendi Continues… And Jordan’s New Aroma",
+      "published_at": "2026-07-03T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/the-beef-with-wendi-continues-and-jordans-new-aroma",
+      "description": "William just doesn’t know when to stop and is ready to pour more fuel on the fire for his beef with Wendi. But how will she react to his latest slander? Meanwhile, Jump Cut Jack has noticed a nostalgic aroma from Jordan that was meant to be a compliment, but in reality went down like a smelly lead balloon. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a4511c67d372273fb0804e3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=RNw5hB9oUycanhguGs7zmeHZssnKIbNVCI5hy7hhS8Y",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "22591947",
+      "itunes_duration": "23:31",
+      "speakers": [
+        "Wendi Continues",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "beef",
+        "wendi",
+        "continues",
+        "jordan",
+        "aroma"
+      ]
+    },
     {
       "key": "86f2460b98bcfa82c9a22cde9befcfa0862cbc4c",
       "title": "Help I’ve Scalded My A***hole | And Wendi’s Reply…",
@@ -14585,6 +14609,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-03 — The Beef With Wendi Continues… And Jordan’s New Aroma — speakers: Wendi Continues, William Hanson, Jordan North
 - 2026-06-30 — Help I’ve Scalded My A***hole | And Wendi’s Reply… — speakers: William Hanson, Jordan North
 - 2026-06-26 — Help I Fact Up! | With Joe Thomas And James Buckley — speakers: Joe Thomas, James Buckley, William Hanson, Jordan North
 - 2026-06-23 — Help I Regret Pup Play | And My Bad Boyfriend — speakers: William Hanson, Jordan North
