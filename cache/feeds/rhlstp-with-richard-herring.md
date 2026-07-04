@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-03T04:07:29+00:00`
-- checked_at: `2026-07-03T04:07:29+00:00`
-- etag: `"djEuMi4wOjE3ODMwNDc0NTkzMjU="`
+- fetched_at: `2026-07-04T13:57:10+00:00`
+- checked_at: `2026-07-04T13:57:10+00:00`
+- etag: `"djEuMi4wOjE3ODMxNjUyODM5NTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-03T04:07:29+00:00",
+  "fetched_at": "2026-07-04T13:57:10+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5e4519a35d70468e83b289945085950d2a40c391",
+      "title": "Rich and Ally's Craven Newsround Compilation \"Farage’s Treasure\"",
+      "published_at": "2026-07-04T11:41:24+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Monday 29th June 2026 - Farage’s Treasure - Rich and Ally are here for maybe the only time this week to discuss Farage’s 5 million and the question that no one seems to ask him. The reporting remains unbiased and factual as always. Please buy a T shirt at http://gofasterstripe.com/ally Friday July 3rd 2026 - Haggy Girthday Gargara - Rich has risen like a Lazarus from his sick bed to bring you the news the lame stream media won’t cover. He realises almost immediately that he’s made a terrible mistake, but that doesn’t stop him and Ally making a pitch to cover the next World Cup for Netflix. Your last chance to get on the Thank You Moriarty T shirt is this weekend. Order your t shirt here http://gofasterstripe.com/ally Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1783164964980-5ba65bb5-4fc2-4e7f-a841-afac1ab920b2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a48f1635ef16cb80461fd72/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "16125888",
+      "itunes_duration": "33:35",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "farage",
+        "treasure"
+      ]
+    },
     {
       "key": "5817946c27b678234eba73943f4a8210ced675b2",
       "title": "Cally Beaton on Namaste Motherf*ckers - Book Club",
@@ -23043,6 +23067,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-04 — Rich and Ally's Craven Newsround Compilation "Farage’s Treasure" — speakers: Craven Newsround Compilation, Richard Herring
 - 2026-07-03 — Cally Beaton on Namaste Motherf*ckers - Book Club — speakers: Richard Herring
 - 2026-07-01 — Harry Shearer and Tom Leopold - "J Edgar Hoover in a Ballgown" — speakers: Harry Shearer, Edgar Hoover, Richard Herring
 - 2026-06-29 — Jordan Gray (Retro) - "Embracing Your Delicious Fate" — speakers: Jordan Gray, Richard Herring
