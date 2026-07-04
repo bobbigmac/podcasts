@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-07-03T19:49:06+00:00`
-- checked_at: `2026-07-03T19:49:06+00:00`
-- etag: `"djEuMi4wOjE3ODMwNzk2MzU5MzU="`
+- fetched_at: `2026-07-04T16:15:19+00:00`
+- checked_at: `2026-07-04T16:15:19+00:00`
+- etag: `"djEuMi4wOjE3ODMxODA4Mzk0MjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-07-03T19:49:06+00:00",
+  "fetched_at": "2026-07-04T16:15:19+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "1d94248f2214b52880ad4819c18416f69da3fbe7",
+      "title": "Nigel Farage has lost his aura",
+      "published_at": "2026-07-04T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/nigel-farage-has-lost-his-aura",
+      "description": "Nigel Farage loses his cool as he’s grilled on his £5 million “gift”, the “anti-woke” Davos and the elephant seal that’s terrorising Tasmania. Will and Anoosh round up the stories of the week. READ: https://www.newstatesman.com/politics/2026/07/is-nigel-farage-losing-momentum LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1783079272595-48e53793-e1bd-42b8-a5b1-a6d15e3fba56.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a47a146f34b8b6dacd65d6d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52664686",
+      "itunes_duration": "27:13",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "nigel",
+        "farage",
+        "aura"
+      ]
+    },
     {
       "key": "44a24c6d61d15f7db1736d4101f499e6cbc93646",
       "title": "\"Startlingly transactional\" – Burnham prepares for power",
@@ -31723,6 +31744,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-04 — Nigel Farage has lost his aura — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-07-02 — "Startlingly transactional" – Burnham prepares for power — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-29 — “Westminster is broken”: Andy Burnham sets out his leadership plan — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-27 — Does Britain want another general election? | Will and Anoosh — speakers: Peter Murrell, Anoosh Chakelian, Oli Dugmore
