@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-06-29T20:15:52+00:00`
-- checked_at: `2026-06-29T20:15:52+00:00`
-- etag: `W/"385bc-R1VsRetQAhwlaLjiAxGgdKkKiks"`
+- fetched_at: `2026-07-05T19:41:37+00:00`
+- checked_at: `2026-07-05T19:41:37+00:00`
+- etag: `W/"3b221-6KABPE4xFrCxRLpFl1swIxMchB4"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,213 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-06-29T20:15:52+00:00",
+  "fetched_at": "2026-07-05T19:41:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e8e9a580b3294f0f6cfa6a2b7b8d1c4608c9cfa5",
+      "title": "Josh Widdicombe XFM #56 – Unexpected James Acaster, Lots of Nish Kumar, Suzi Ruffell",
+      "published_at": "2026-07-02T10:29:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-56--Unexpected-James-Acaster--Lots-of-Nish-Kumar--Suzi-Ruffell-e3lhh8e",
+      "description": "Nish Kumar joins Josh in the studio for a lot longer than usual, Suzi Ruffell joins Josh in the studio and James Acaster arrives unexpected.Broadcast on 14th July 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782930611804-5438107d1474c.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5642094509.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49169354",
+      "itunes_duration": "00:50:40",
+      "speakers": [
+        "James Acaster",
+        "Suzi Ruffell"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "nish",
+        "kumar",
+        "suzi",
+        "ruffell"
+      ]
+    },
+    {
+      "key": "16be2c7afb1e367cf5189edc1e903d6f6d95cb09",
+      "title": "Josh Widdicombe XFM #55 – James Acaster Classic Scrape 31, Zoe Lyons, Nish Kumar",
+      "published_at": "2026-07-02T05:26:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-55--James-Acaster-Classic-Scrape-31--Zoe-Lyons--Nish-Kumar-e3lhh48",
+      "description": "James Acaster finally shares another Classic Scrape, Zoe Lyons joins Josh in the studio and Nish Kumar shares another thrilling Nishipedia.Broadcast on 7th July 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782930406095-15361e31bdb83.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8271116278.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49985714",
+      "itunes_duration": "00:51:30",
+      "speakers": [
+        "James Acaster Classic Scrape",
+        "James Acaster",
+        "Nish Kum"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "lyons",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "3f5fa5d0be359c2aa3d21765bb31aff1794a3b72",
+      "title": "Josh Widdicombe XFM #53 – Romesh Ranganathan, Harriet Kemsley",
+      "published_at": "2026-07-01T14:08:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-53--Romesh-Ranganathan--Harriet-Kemsley-e3lg2nn",
+      "description": "Romesh Ranganathan and Harriet Kemsley join Josh in the studio during World Cup fever week.Broadcast on 16th June 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782846620122-dfdf9fb5886f7.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9133353115.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60165517",
+      "itunes_duration": "01:02:00",
+      "speakers": [
+        "Harriet Kemsley"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "romesh",
+        "ranganathan",
+        "harriet",
+        "kemsley"
+      ]
+    },
+    {
+      "key": "4c81b207b7e14aab780533af0d8231fad1fa68e0",
+      "title": "Josh Widdicombe XFM #52 – James Acaster Returns, Tim Key",
+      "published_at": "2026-07-01T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-52--James-Acaster-Returns--Tim-Key-e3lg2fd",
+      "description": "James Acaster finally returns and Tim Key joins Josh in the studio.Broadcast on 9th June 2014",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782846235884-d7b19b3305326.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9081380639.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52071063",
+      "itunes_duration": "00:53:39",
+      "speakers": [
+        "James Acaster Returns",
+        "Tim Key",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "returns"
+      ]
+    },
+    {
+      "key": "95291987e13727eee45c85c3c179b8c813f05a98",
+      "title": "Josh Widdicombe XFM #51 – James Bannon, Tom Parry, Nish Kumar",
+      "published_at": "2026-07-01T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-51--James-Bannon--Tom-Parry--Nish-Kumar-e3lg2ac",
+      "description": "James Bannon (proper geeza) talks about being an undercover football hooligan, Tom Pary joins Josh in the studio as his wingman and Nish talks about another conspiacy theory.Broadcast on 27th May 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782845993734-1b1b0a59599bd.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4248048175.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32664103",
+      "itunes_duration": "00:33:39",
+      "speakers": [
+        "James Bannon",
+        "Tom Parry",
+        "Tom Pary"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "bannon",
+        "parry",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "27c958a6f8529a2051c3c937725ca988b5f3a221",
+      "title": "Josh Widdicombe XFM #50 – Sara Pascoe, Nathaniel Metcalfe",
+      "published_at": "2026-06-30T20:23:32+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-50--Sara-Pascoe--Nathaniel-Metcalfe-e3lg26g",
+      "description": "Sara Pascoe and Nathaniel Metcalfe join Josh in the Studio. Nish shares an installment of Nishipedia regarding jam jars.Broadcast on 27th May 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782845692916-60453d468839c.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4760614729.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46734127",
+      "itunes_duration": "00:48:09",
+      "speakers": [
+        "Sara Pascoe",
+        "Nathaniel Metcalfe"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "sara",
+        "pascoe",
+        "nathaniel",
+        "metcalfe"
+      ]
+    },
+    {
+      "key": "0ceb8e3ae9e072828828c39f49f28871a0928025",
+      "title": "Josh Widdicombe XFM #49 – Ivo Graham, Charlie Baker, Nish Kumar",
+      "published_at": "2026-06-30T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-49--Ivo-Graham--Charlie-Baker--Nish-Kumar-e3legc0",
+      "description": "Ivo Graham and Charlie Baker join Josh in the studio. Nish Kumar returns, revealing why he went missing last week and shares a new Nishipedia, Broadcast on 13th May 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782758946864-d341414d2e75e.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8862071278.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53442415",
+      "itunes_duration": "00:55:04",
+      "speakers": [
+        "Ivo Graham",
+        "Charlie Baker"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "graham",
+        "charlie",
+        "baker",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "50555574f6094182ca4376ca01359999b8ab3e79",
+      "title": "Josh Widdicombe XFM #48 – Marcus Brigstocke, John Kearns",
+      "published_at": "2026-06-30T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-48--Marcus-Brigstocke--John-Kearns-e3leg8c",
+      "description": "Marcus Brigstocke and John Kearns joins Josh in the studio. Nish Kumar has gone missing in action so Josh does his own version of Nishipedia.Broadcast on 6th May 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1782758658538-9820ec84ce77e.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7824215388.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33260419",
+      "itunes_duration": "00:34:16",
+      "speakers": [
+        "Marcus Brigstocke",
+        "John Kearns"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "marcus",
+        "brigstocke",
+        "john",
+        "kearns"
+      ]
+    },
     {
       "key": "145eec051a95259a301ed1d8250c97435909e0ff",
       "title": "Josh Widdicombe XFM #47 – David Baddiel, Roisin Conaty, Nish Kumar",
@@ -617,6 +817,33 @@
         "scrape",
         "sean",
         "walsh",
+        "matthew",
+        "crosby"
+      ]
+    },
+    {
+      "key": "7f41cac68fdfda7b578604a5f15b24a7fc8da799",
+      "title": "Josh Widdicombe XFM # 24 – James Acaster Classic Scrape 21, Matthew Crosby",
+      "published_at": "2026-06-04T18:51:26+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM--24--James-Acaster-Classic-Scrape-21--Matthew-Crosby-e3kbkdh",
+      "description": "James Acaster shares another Classic Scape and Matthew Crosby phones in.Broadcast on 11th September 2013.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1780598890716-872ec8d400a28.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4040193240.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32448260",
+      "itunes_duration": "00:33:47",
+      "speakers": [
+        "James Acaster Classic Scrape",
+        "Matthew Crosby",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
         "matthew",
         "crosby"
       ]
@@ -4254,6 +4481,14 @@
 
 ## Episodes (newest first)
 
+- 2026-07-02 — Josh Widdicombe XFM #56 – Unexpected James Acaster, Lots of Nish Kumar, Suzi Ruffell — speakers: James Acaster, Suzi Ruffell
+- 2026-07-02 — Josh Widdicombe XFM #55 – James Acaster Classic Scrape 31, Zoe Lyons, Nish Kumar — speakers: James Acaster Classic Scrape, James Acaster, Nish Kum
+- 2026-07-01 — Josh Widdicombe XFM #53 – Romesh Ranganathan, Harriet Kemsley — speakers: Harriet Kemsley
+- 2026-07-01 — Josh Widdicombe XFM #52 – James Acaster Returns, Tim Key — speakers: James Acaster Returns, Tim Key, James Acaster
+- 2026-07-01 — Josh Widdicombe XFM #51 – James Bannon, Tom Parry, Nish Kumar — speakers: James Bannon, Tom Parry, Tom Pary
+- 2026-06-30 — Josh Widdicombe XFM #50 – Sara Pascoe, Nathaniel Metcalfe — speakers: Sara Pascoe, Nathaniel Metcalfe
+- 2026-06-30 — Josh Widdicombe XFM #49 – Ivo Graham, Charlie Baker, Nish Kumar — speakers: Ivo Graham, Charlie Baker
+- 2026-06-30 — Josh Widdicombe XFM #48 – Marcus Brigstocke, John Kearns — speakers: Marcus Brigstocke, John Kearns
 - 2026-06-29 — Josh Widdicombe XFM #47 – David Baddiel, Roisin Conaty, Nish Kumar — speakers: David Baddiel, Roisin Conaty
 - 2026-06-29 — Josh Widdicombe XFM #46 – Fin Taylor, Nish Kumar — speakers: Fin Taylor, Nish Kumar, Finn Taylor
 - 2026-06-29 — Josh Widdicombe XFM #45 – Alan Carr Returns, Matt Forde — speakers: Alan Carr Returns, Matt Forde, Alan Carr
@@ -4276,6 +4511,7 @@
 - 2026-06-11 — Josh Widdicombe XFM # 27 – James Acaster Classic Scrape 24, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster
 - 2026-06-09 — Josh Widdicombe XFM # 26 – James Acaster Classic Scrape 23, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster
 - 2026-06-08 — Josh Widdicombe XFM # 25 – James Acaster Classic Scrape 22, Sean Walsh, Matthew Crosby — speakers: James Acaster Classic Scrape, Sean Walsh, Matthew Crosby, James Acaster
+- 2026-06-04 — Josh Widdicombe XFM # 24 – James Acaster Classic Scrape 21, Matthew Crosby — speakers: James Acaster Classic Scrape, Matthew Crosby, James Acaster
 - 2026-06-03 — Josh Widdicombe XFM # 23 – Rob Beckett, Joe Lycett — speakers: Rob Beckett, Joe Lycett
 - 2026-05-28 — Josh Widdicombe XFM #22 – John Robins, Sara Pascoe, James Acaster Classic Scrape 20, Joe Lycett — speakers: John Robins, Sara Pascoe, James Acaster Classic Scrape, Joe Lycett Josh, James Acaster, Joe Lycett
 - 2026-05-27 — Josh Widdicombe XFM #21: James Acaster Classic Scrape 19, Joe Lycett, Charlie Baker — speakers: James Acaster Classic Scrape, Joe Lycett, Charlie Baker, James Acaster
