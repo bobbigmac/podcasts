@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-07-01T04:53:39+00:00`
-- checked_at: `2026-07-01T04:53:39+00:00`
-- etag: `"djEuMi4wOjE3ODI4NzQ4Mzk2OTY="`
+- fetched_at: `2026-07-05T09:22:25+00:00`
+- checked_at: `2026-07-05T09:22:25+00:00`
+- etag: `"djEuMi4wOjE3ODMyMjc2MzkzODQ="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-07-01T04:53:39+00:00",
+  "fetched_at": "2026-07-05T09:22:25+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "76c55141fcad359073bd18c7ea071b6bbee67609",
+      "title": "S5 EP3: Dan Tiernan",
+      "published_at": "2026-07-05T05:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s5-ep3-dan-tiernan",
+      "description": "Joining us on this episode of ' ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ What did you do yesterday? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ' is the comedian Dan Tiernan We asked Dan what he did yesterday? He told us. That's it... enjoy! Are you ' IN IT FOR LIFE '? Sign up HERE if you are. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ @yesterdaypod ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1783226738880-5a857b23-ab61-4115-9d7d-e79484d42182.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a49e4782d7a15a979349319/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "170591263",
+      "itunes_duration": "1:11:04",
+      "speakers": [
+        "Dan Tiernan",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "tiernan"
+      ]
+    },
     {
       "key": "2a7424d1391d36cd51457dbc8e67410bec3e2fe7",
       "title": "WDWDY #77.1: The Humid-Centipede (David Yesterday)",
@@ -3636,6 +3656,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-05 — S5 EP3: Dan Tiernan — speakers: Dan Tiernan, Max Rushden, David O'Doherty
 - 2026-07-01 — WDWDY #77.1: The Humid-Centipede (David Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-06-28 — S5 EP2: Kyla Cobbler — speakers: Kyla Cobbler, Max Rushden, David O'Doherty
 - 2026-06-24 — WDWDY #76.1: To live and die in L.A. (Max Yesterday) — speakers: Max Rushden, David O'Doherty
