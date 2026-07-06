@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-07-02T14:28:37+00:00`
-- checked_at: `2026-07-02T14:28:37+00:00`
-- etag: `"djEuMi4wOjE3ODI5OTkwMzkzNjc="`
+- fetched_at: `2026-07-06T04:38:18+00:00`
+- checked_at: `2026-07-06T04:38:18+00:00`
+- etag: `"djEuMi4wOjE3ODMzMTIyMzkzMzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-07-02T14:28:37+00:00",
+  "fetched_at": "2026-07-06T04:38:18+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a099772848f5928d1912d9db0aa041199f907a5f",
+      "title": "630 Best/Worst Comic Adaptations & The Death of Physical Media",
+      "published_at": "2026-07-06T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/630bestworst-comic-adaptations-the-death-of-physical-media",
+      "description": "Incredible week for doing a great podcast! In this latest episode of The Weekly Planet we talk the best and worst comic adaptation choices from modern and decades past. We also discuss the further death of physical media with Sony Playstation not creating physical disks after 2028, confirmation that the Minions didn’t work with Hitler, new details on Danny McBrides G.I. Joe adaptation, a trailer for Robert Egger's Werwulf, James Gunn potentially directing the DCU Batman movie, potentially casting news for Bruce Wayne plus the fallout and blame game behind Supergirl. Thanks for listening! New bonus podcast and video out now! It's a special Batman-themed Booque Clubbe available to watch or listen to with entire back catalogue on bigsandwich.co, patreon.com/mrsundaymovies or YouTube Memberships on youtube.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 06:23 Sony Kills Physical Games Releases 22:24 Did The Minions Work for Hitler? 24:40 James & Maso's Tangent Time 28:15 New G.I. Movie Confirmed 31:07 Werwulf Trailer & First Look 34:31 James Gunn's Batman Movie Takeover 37:04 Supergirl, What Went Wrong? 47:05 Best & Worst Comic to Movie Adaptations 01:29:25 What We Reading, What We Gonna Read 01:40:04 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a4a461d0069388b7ae89688/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "182351443",
+      "itunes_duration": "2:06:37",
+      "speakers": [
+        "Worst Comic Adaptations",
+        "Physical Media Incredible",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "worst",
+        "comic",
+        "adaptations",
+        "death",
+        "physical",
+        "medium"
+      ]
+    },
     {
       "key": "5f8df415c403bf84824fbc2ad3aeb45864a60546",
       "title": "Jason and the Argonauts (Extended) - Caravan Of Garbage",
@@ -22614,6 +22640,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — 630 Best/Worst Comic Adaptations & The Death of Physical Media — speakers: Worst Comic Adaptations, Physical Media Incredible, James Clement, Nick Mason
 - 2026-07-02 — Jason and the Argonauts (Extended) - Caravan Of Garbage — speakers: Christopher Nolan, James Clement, Nick Mason
 - 2026-06-29 — 629 Supergirl! — speakers: James Gunn, Millie Alcock, James Clement, Nick Mason
 - 2026-06-25 — The Flash - Caravan Of Garbage — speakers: James Clement, Nick Mason

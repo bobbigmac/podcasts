@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-05T22:12:46+00:00`
-- checked_at: `2026-07-05T22:12:46+00:00`
-- etag: `"djEuMi4wOjE3ODMyODkzMDk1MTU="`
+- fetched_at: `2026-07-06T04:38:18+00:00`
+- checked_at: `2026-07-06T04:38:18+00:00`
+- etag: `"djEuMi4wOjE3ODMzMDY2NTkzMzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-05T22:12:46+00:00",
+  "fetched_at": "2026-07-06T04:38:18+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "10a256ccd3a2fcc125f3a79353d79778df05b20a",
+      "title": "Suggs (Retro) - \"Back of the Head With a Plastic Cup\"",
+      "published_at": "2026-07-06T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#441 Back of the Head With a Plastic Cup - Richard has been having weird dreams, but don’t try and interpret anything from them. His guest is singer, actor, presenter and legend Graham “Suggs” McPherson. They chat about how Madness might just be the defining band of the 80s, how their songs can make you travel in time, the brilliant social document of their book/documentary “Before We Was We”, the first appearance on Top of the Pops, pranking the clash, the Two Tone tour, plus the Madness sitcom that never was, appearing on the Young Ones, Suggs’ first attempt at stand up, the new album and tour in the works and his explosive acting career. Plus being caught up in a deadly riot and the best answer to the chrysalis question yet. Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1783289036348-28f0dffa-0850-4a8a-9253-87a3d05514b3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a4ad5010069388b7a0cb665/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27621701",
+      "itunes_duration": "51:03",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "suggs",
+        "retro",
+        "head",
+        "plastic"
+      ]
+    },
     {
       "key": "5e4519a35d70468e83b289945085950d2a40c391",
       "title": "Rich and Ally's Craven Newsround Compilation \"Farage’s Treasure\"",
@@ -23067,6 +23088,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — Suggs (Retro) - "Back of the Head With a Plastic Cup" — speakers: Richard Herring
 - 2026-07-04 — Rich and Ally's Craven Newsround Compilation "Farage’s Treasure" — speakers: Craven Newsround Compilation, Richard Herring
 - 2026-07-03 — Cally Beaton on Namaste Motherf*ckers - Book Club — speakers: Richard Herring
 - 2026-07-01 — Harry Shearer and Tom Leopold - "J Edgar Hoover in a Ballgown" — speakers: Harry Shearer, Edgar Hoover, Richard Herring

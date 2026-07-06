@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-06-29T04:59:08+00:00`
-- checked_at: `2026-06-29T04:59:08+00:00`
-- last_modified: `Mon, 29 Jun 2026 03:40:36 GMT`
+- fetched_at: `2026-07-06T04:38:18+00:00`
+- checked_at: `2026-07-06T04:38:18+00:00`
+- last_modified: `Sun, 05 Jul 2026 23:00:17 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-29T04:59:08+00:00",
+  "fetched_at": "2026-07-06T04:38:18+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -27,16 +27,44 @@
   ],
   "episodes": [
     {
+      "key": "dce73ffbab88a79b450f37855b91fd5bb74734e3",
+      "title": "NATALIE CASSIDY: Comedy Dreams, Rough Tabloid Treatment, Being Desperate To Leave School",
+      "published_at": "2026-07-05T23:00:00+00:00",
+      "link": null,
+      "description": "Natalie Cassidy is back! This time talking the what it's like being scrutinised by the tabloid press while going through your teens and young adulthood and the knock on effect that had at school where she had a tough time balancing her natural inclination to be studious but also hang out with the naughtier kids. She also reveals her stand up comedy aspirations! Get £10 off at TaskRabbit using the code classclown at checkout Get Exclusive Content With Natalie on Patreon where she answers Your Questions Check Out Natalie's New Patreon Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8442736156.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1973",
+      "speakers": [
+        "Comedy Dreams",
+        "Tabloid Treatment",
+        "Natalie Cassidy",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "natalie",
+        "cassidy",
+        "comedy",
+        "dreams",
+        "rough",
+        "tabloid",
+        "treatment",
+        "school"
+      ]
+    },
+    {
       "key": "edf016646678bf1d80e33898e7f2c0626347b7d7",
       "title": "NATALIE CASSIDY: Being An Eastenders Icon at 10, Clubbing at 15 and Her Love of Art",
-      "published_at": "2026-06-28T23:00:00+00:00",
+      "published_at": "2026-07-05T19:46:00+00:00",
       "link": null,
-      "description": "Natalie Cassidy joins Seann Walsh to discuss what it's like coming from a working class background and achieving incredible fame at just 10 years old. We get into what it's like growing up in a world full of adults, getting access to high end night life when you are barely 15 and how she's developed a love of art and museums. Part 2 Available On Patreon With Exclusive Content!:https://www.patreon.com/c/ClassClownSee Seann ⁠Walsh on Tour This Autumn⁠!https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Natalie Cassidy joins Seann Walsh to discuss what it's like coming from a working class background and achieving incredible fame at just 10 years old. We get into what it's like growing up in a world full of adults, getting access to high end night life when you are barely 15 and how she's developed a love of art and museums. Part 2 Available On Patreon With Exclusive Content!: https://www.patreon.com/ClassClown Seann ⁠Walsh on Tour This Autumn⁠! https://www.seannwalsh.com/ Check out Natalie's new Patreon! https://www.patreon.com/cw/LifewithNatPod Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1657663757.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3013",
+      "itunes_duration": "3133",
       "speakers": [
         "Natalie Cassidy",
         "Seann Walsh"
@@ -59,7 +87,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL2777818003.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2196",
+      "itunes_duration": "2256",
       "speakers": [
         "Peter Serafinowicz",
         "Genius Impressionist",
@@ -83,7 +111,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL9824175116.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2165",
+      "itunes_duration": "2225",
       "speakers": [
         "Peter Serafinowicz",
         "Peter Serfinowicz",
@@ -112,7 +140,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8293284128.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2914",
+      "itunes_duration": "2974",
       "speakers": [
         "Getting Fired",
         "Diplomat Dom",
@@ -1617,7 +1645,8 @@
 
 ## Episodes (newest first)
 
-- 2026-06-28 — NATALIE CASSIDY: Being An Eastenders Icon at 10, Clubbing at 15 and Her Love of Art — speakers: Natalie Cassidy, Seann Walsh
+- 2026-07-05 — NATALIE CASSIDY: Comedy Dreams, Rough Tabloid Treatment, Being Desperate To Leave School — speakers: Comedy Dreams, Tabloid Treatment, Natalie Cassidy, Seann Walsh
+- 2026-07-05 — NATALIE CASSIDY: Being An Eastenders Icon at 10, Clubbing at 15 and Her Love of Art — speakers: Natalie Cassidy, Seann Walsh
 - 2026-06-21 — PETER SERAFINOWICZ: Buddhism, Therapy and How I Broke Into Showbiz — speakers: Peter Serafinowicz, Genius Impressionist, Seann Walsh
 - 2026-06-14 — PETER SERAFINOWICZ: From Liverpool Council Estate To Star Wars, Marvel & Comedy Fame — speakers: Peter Serafinowicz, Peter Serfinowicz, Seann Walsh
 - 2026-06-07 — DOM JOLY: The Joke That Ended my BBC Career, Getting Fired as Journalist & Being A Diplomat — speakers: Getting Fired, Diplomat Dom, Seann Walsh

@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-06-29T04:59:08+00:00`
-- checked_at: `2026-06-29T04:59:08+00:00`
-- etag: `"4caf5d02b4ad958492346b95d6cf84f2"`
-- last_modified: `Mon, 29 Jun 2026 04:00:07 GMT`
+- fetched_at: `2026-07-06T04:38:18+00:00`
+- checked_at: `2026-07-06T04:38:18+00:00`
+- etag: `"d201b24aba60fcc1cc4feb4cce34d85a"`
+- last_modified: `Mon, 06 Jul 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-06-29T04:59:08+00:00",
+  "fetched_at": "2026-07-06T04:38:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "adb2d2883dbfc653bbf21c5bacb62df50ff1a548",
+      "title": "The Big Idea with Alistair Green",
+      "published_at": "2026-07-06T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nwqfnz",
+      "description": "Tabitha Beckworth is the founder and CEO of globally successful wellness brand, The Whisper. But, like any super driven hyper successful business person she does many different things, all of them to great success - over 3 million subscribers to her YouTube channel is a testament to this. But for this interview, Tabitha found time in her packed schedule to sit down with Alistair to explain more about what The Whisper is and the global community it has created. Alistair would like to take this moment to put it in writing that he doesn’t necessarily endorse the views of the guests. The Big Idea with Alistair Green is brought to you by Are You Okay? Mental Health. It’s a lot isn’t it? Written and performed by Alistair Green. Produced by Alex Burnard. A Cup & Nuzzle production for BBC Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nwqfxb.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13984000",
+      "itunes_duration": "874",
+      "speakers": [
+        "Tabitha Beckworth"
+      ],
+      "topics": [
+        "idea",
+        "alistair",
+        "green"
+      ]
+    },
     {
       "key": "fbc91aeba7e0ac146431beb801f127504aafe896",
       "title": "P.O.V.",
@@ -997,20 +1017,6 @@
         "euros",
         "fever"
       ]
-    },
-    {
-      "key": "e6a006dcce011ebe6ad68b9801bd4e8ca453ce9d",
-      "title": "Your Mum",
-      "published_at": "2025-06-30T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0llrz7q",
-      "description": "Janine tells us what happened when she was swapped at birth, why her brother has a bunker in Arizona and how her mum rules the roost with her ‘feminine guile’. Russell gives his hot take on childbirth, makes a case against toddler food and thanks his mum for putting up with his extraordinary amount of energy. In this series, Laura Smyth sits down with some incredible guests to find out about their mums and explore the many faces of ‘motherhood’. Join her for a nostalgic, shameless, cathartic ride that asks what (if anything) our folks have taught us. To hear more episodes search \"Your Mum\" on BBC Sounds. Producer: Sasha Bobak Production Coordinator: Katie Baum Executive Producer: Pete Strauss A BBC Studios Audio Production for Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0llrwpr.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27376000",
-      "itunes_duration": "1711",
-      "speakers": [],
-      "topics": []
     }
   ]
 }
@@ -1019,6 +1025,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — The Big Idea with Alistair Green — speakers: Tabitha Beckworth
 - 2026-06-29 — P.O.V.
 - 2026-06-22 — John Tothill Forgives Your Sins — speakers: John Tothill
 - 2026-06-15 — The Many Wrongs Of Lord Christian Brighty
@@ -1069,4 +1076,3 @@
 - 2025-07-21 — Kat Sadler's Screen Time — speakers: Kat Sadler
 - 2025-07-14 — Ashley Blaker's Hyperfixations — speakers: Ashley Blaker
 - 2025-07-07 — Maisie Adam: Euros Fever — speakers: Maisie Adam Euros Fever, Maisie Adam
-- 2025-06-30 — Your Mum

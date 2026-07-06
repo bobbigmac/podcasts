@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-07-05T22:12:46+00:00`
-- checked_at: `2026-07-05T22:12:46+00:00`
-- etag: `"djEuMi4wOjE3ODMyODU4ODE0MTE="`
+- fetched_at: `2026-07-06T04:38:18+00:00`
+- checked_at: `2026-07-06T04:38:18+00:00`
+- etag: `"djEuMi4wOjE3ODMyOTI1NTkzMTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-07-05T22:12:46+00:00",
+  "fetched_at": "2026-07-06T04:38:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a8580c246179099fb3891cce4d41f136c3797961",
+      "title": "Ep. 592 - Tony Cantwell - From Last One Laughing Ireland on Amazon Prime, hosted by Graham Norton",
+      "published_at": "2026-07-05T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-592-tony-cantwell-from-last-one-laughing-ireland-on-amazo",
+      "description": "Tony Cantwell is an Irish comedian, writer and actor. Tony recently appeared in Prime Video’s LOL: Last One Laughing Ireland, hosted by Graham Norton, alongside some of Ireland’s biggest comedy stars. He also starred in the acclaimed feature film Apocalypse Clown , winner of Best Irish Film at the 2023 Galway Film Fleadh, and has appeared in Amy Huberman’s comedy series Finding Joy . He is the creator and host of the hit podcast Tony Cantwell’s Hit Show and co-hosts Young Hot Guys , two of Ireland’s most popular comedy podcasts. He has sold out live shows across Ireland and the UK, including multiple performances at Dublin’s iconic Vicar Street, while his online sketches have amassed millions of views . Tony Cantwell is our guest in episode 592 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Buy tickets for Tony Cantwell’s Edinburgh Festival show here - https://www.edfringe.com/tickets/whats-on/tony-cantwell-you-cry-weird . Follow Tony Cantwell on Instagram : @tonyhorror . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a4ac8790069388b7a09d9c8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73718512",
+      "itunes_duration": "1:01:25",
+      "speakers": [
+        "Graham Norton",
+        "Tony Cantwell"
+      ],
+      "topics": [
+        "tony",
+        "cantwell",
+        "laughing",
+        "ireland",
+        "amazon",
+        "prime",
+        "graham",
+        "norton"
+      ]
+    },
     {
       "key": "c7e339395590886d4055b9ebef966e150ffeffbf",
       "title": "My Time Capsule The Dig - Ep. 9 - With Garrett Millerick! (Creator of Radio 4's Do Gooders with Frank Skinner)",
@@ -12907,6 +12933,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-05 — Ep. 592 - Tony Cantwell - From Last One Laughing Ireland on Amazon Prime, hosted by Graham Norton — speakers: Graham Norton, Tony Cantwell
 - 2026-07-02 — My Time Capsule The Dig - Ep. 9 - With Garrett Millerick! (Creator of Radio 4's Do Gooders with Frank Skinner) — speakers: Frank Skinner, Garrett Millerick
 - 2026-06-28 — Ep. 591 - Remmie Milner - Shirley Campbell in Apple TV+’s Silo & Lena in His Dark Materials — speakers: Shirley Campbell, Remmie Milner, Rebecca Fergu
 - 2026-06-25 — My Time Capsule The Dig - Ep. 8 - With David Gower! — speakers: David Gower
