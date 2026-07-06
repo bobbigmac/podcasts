@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-06-22T12:25:33+00:00`
-- checked_at: `2026-06-22T12:25:33+00:00`
-- last_modified: `Mon, 22 Jun 2026 06:30:01 GMT`
+- fetched_at: `2026-07-06T11:01:51+00:00`
+- checked_at: `2026-07-06T11:01:51+00:00`
+- last_modified: `Mon, 06 Jul 2026 07:23:59 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-06-22T12:25:33+00:00",
+  "fetched_at": "2026-07-06T11:01:51+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ea4c660c809f8d624a7df6fb25defcb06aa07fbf",
+      "title": "Invisible Sister",
+      "published_at": "2026-07-06T06:30:00+00:00",
+      "link": null,
+      "description": "Cleo has a problem. She often feels invisible because she has an awful personality and no one wants to be around her, unlike her sporty and popular sister Molly. But when, for reasons too complicated to go into here, Molly drinks a predator camouflage moth that makes her turn literally invisible, Cleo spends some time in her sister's shoes and realises that maybe being nice to other people isn't the unendurable nightmare it seems to be. Can Cleo pass herself off as Molly long enough to win the big lacrosse game? Will they figure out how to make Molly visible again? And is there a worse name for a party than \"Romp in the Swamp\"? Listen and find out! If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched Invisible Sister and have your own thoughts, or had a terrible time at Disneyland Paris, please email us at momcantcookpod@gmail.com for a chance to have your comments read out on the show. Next time on Mom Can't Cook! we'll be watching 2010's Camp Rock 2: The Final Jam. See you then! This episode is sponsored by NordVPN! Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ https://nordvpn.com/momcantcook . Itʼs risk free with NordVPNʼs 30-day money-back guarantee! This episode is also sponsored by Saily. Get an exclusive 15% discount on Saily data plans! Use code momcantcook at checkout. Download Saily app or go to saily.com/momcantcook This episode is also sponsored by Insert Coin Clothing! Visit insertcoinclothing.com and use code GATHERNOMOTH for 10% off online orders. Codes are not applicable on charity items, bundles, gift cards, postage and some products at launch. Codes cannot be combined with other deals or promotions and are valid until the end of 2026. Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/rss.art19.com/episodes/24ba4265-07de-4baa-af8d-a889df67d4b8.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134561959",
+      "itunes_duration": "02:20:10",
+      "speakers": [
+        "Invisible Sister Cleo",
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
+      "topics": [
+        "sister"
+      ]
+    },
     {
       "key": "c470eeeb6d3ed2527c02f2ba10faaa655ed2af14",
       "title": "High School Musical 3: Senior Year",
@@ -2193,6 +2213,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — Invisible Sister — speakers: Invisible Sister Cleo, Luke Westaway, Andy Farrant
 - 2026-06-22 — High School Musical 3: Senior Year — speakers: Luke Westaway, Andy Farrant
 - 2026-06-08 — Radio Rebel — speakers: Radio Rebel Radio, Luke Westaway, Andy Farrant
 - 2026-06-04 — LIVE SHOW ANNOUNCEMENT! Return to Halloweentown, 28 October @ Leicester Square Theatre — speakers: Luke Westaway, Andy Farrant

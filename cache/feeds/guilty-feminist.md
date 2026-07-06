@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-06-29T11:23:34+00:00`
-- checked_at: `2026-06-29T11:23:34+00:00`
-- last_modified: `Mon, 29 Jun 2026 11:00:00 GMT`
+- fetched_at: `2026-07-06T11:01:51+00:00`
+- checked_at: `2026-07-06T11:01:51+00:00`
+- last_modified: `Mon, 06 Jul 2026 11:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-29T11:23:34+00:00",
+  "fetched_at": "2026-07-06T11:01:51+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "64b28d00103afd8b9370e6141f9f60926a571614",
+      "title": "490. Live from the Charleston Festival, with Rose McGowan",
+      "published_at": "2026-07-06T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 490. Live from the Charleston Festival. Presented by Deborah Frances-White with very special guest Rose McGowan. Recorded 21 May 2026 at the Charleston Festival. Released 6 July. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Rose McGowan https://www.rosemcgowan.com https://www.instagram.com/rosemcgowan https://www.waterstones.com/book/brave/rose-mcgowan/9780008291129 For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Edinburgh Fringe previews at Soho Theatre . https://sohotheatre.com/events/the-guilty-feminist-edinburgh-preview-showcase Guilty Feminist at Ventnor Fringe . https://purchase.vfringe.co.uk/EventAvailability?EventId=37801 Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8568c030-7883-11f1-8fc5-578d15cfcab4/image/8e29f8cff842708557051e94a5f2e77b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/APL5270099246.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3762",
+      "speakers": [
+        "Rose McGowan",
+        "Guilty Feminist",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "charleston",
+        "festival",
+        "rose",
+        "mcgowan"
+      ]
+    },
     {
       "key": "a7e0619ae984a18bd08239bfecc89005484f35d3",
       "title": "489. The Fear Opportunity with Victoria Pendleton",
@@ -18246,6 +18269,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — 490. Live from the Charleston Festival, with Rose McGowan — speakers: Rose McGowan, Guilty Feminist, Deborah Frances-White
 - 2026-06-29 — 489. The Fear Opportunity with Victoria Pendleton — speakers: Victoria Pendleton, Deborah Frances-White
 - 2026-06-24 — Guilty Feminist Culture Club: Under the Shadow with Carmen Nasr, Nadia Latif and Leila Farzad — speakers: Carmen Nasr, Leila Farzad, Deborah Frances-White
 - 2026-06-22 — 488. Migrant Rights and the Asylum Experience with Jessica Fostekew, Leyla Williams, Steasy Castro and Juliet Stevenson — speakers: Jessica Fostekew, Steasy Castro, Juliet Stevenson, Deborah Frances-Whit, Deborah Frances-White
