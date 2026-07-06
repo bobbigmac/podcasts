@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-06-30T14:43:06+00:00`
-- checked_at: `2026-06-30T14:43:06+00:00`
-- etag: `"djEuMi4wOjE3ODI4MTM5OTk0ODE="`
+- fetched_at: `2026-07-06T15:54:34+00:00`
+- checked_at: `2026-07-06T15:54:34+00:00`
+- etag: `"djEuMi4wOjE3ODMzMzg1MjQwNjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-06-30T14:43:06+00:00",
+  "fetched_at": "2026-07-06T15:54:34+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "37eab76bfe5f97395ef08ffa508d9f97cb83f35c",
+      "title": "Show 410. Suzanne Moore",
+      "published_at": "2026-07-06T11:48:04+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-410-suzanne-moore",
+      "description": "You're not going to hear anyone else talk about politics like this. Suzanne is an original thinker. From bunking off school and doing acid while selling Marxism Today to ending up writing for The Telegraph. Her route through her career and life is completely unorthodox. She has a truly adventurous take on life and that informs her unique political analysis. This is a one-of-a-kind episode. See the Political Party Live on Stage: 9 August: Anas Sarwar (Edinburgh) 15 August: Stephen Flynn (Edinburgh) 18 August: Rachel Reeves (Edinburgh) 20 August: Malcolm Offord (Edinburgh) 9 November: Liz Kendall (London) 21 December: Wes Streeting (London) Get tickets for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival: https://www.edfringe.com/tickets/whats-on/matt-forde-project-holy-moly Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a4b961c634ace2d2d02446c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89643409",
+      "itunes_duration": "1:02:14",
+      "speakers": [
+        "Suzanne Moore",
+        "Matt Forde"
+      ],
+      "topics": [
+        "suzanne",
+        "moore"
+      ]
+    },
     {
       "key": "39c6ef840909928ed773c551c197a485616edf89",
       "title": "Show 409 - Andy Burnham - Replay",
@@ -10487,6 +10507,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — Show 410. Suzanne Moore — speakers: Suzanne Moore, Matt Forde
 - 2026-06-30 — Show 409 - Andy Burnham - Replay — speakers: Matt Forde
 - 2026-06-22 — Show 408. Johann Lamont — speakers: Johann Lamont, Matt Forde
 - 2026-06-15 — Show 407. Beeban Kidron — speakers: Beeban Kidron, Matt Forde
