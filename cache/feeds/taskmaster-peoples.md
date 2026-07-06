@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-06-29T16:10:10+00:00`
-- checked_at: `2026-06-29T16:10:10+00:00`
-- etag: `"113d6d-65564037a56c5"`
-- last_modified: `Mon, 29 Jun 2026 12:58:23 GMT`
+- fetched_at: `2026-07-06T20:14:00+00:00`
+- checked_at: `2026-07-06T20:14:00+00:00`
+- etag: `"114cd2-655f55b2aeed4"`
+- last_modified: `Mon, 06 Jul 2026 18:22:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-06-29T16:10:10+00:00",
+  "fetched_at": "2026-07-06T20:14:00+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6c5d1c0cb17e8f98eba7ef99ef426311be9092b6",
+      "title": "The Handy Bandy Stand - S10, Ep. 4",
+      "published_at": "2026-07-06T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "This week we revisit an old classic, featuring Danny Dyers secret love, the grandfather of podcasting, the most handsome and well dressed comedian of all time, comedy’s greatest character, and a very pregnant funny woman - according to Jack and Jenny. And it prompts some questions; was Mawaan only good at prize tasks because everyone else was so bad? Is there anything that can make Richard the security guard happy? Should everyone should be made to miss a penalty in front of a crowd? Has the recent hot weather made Jack very gullible? Plus a listener writes in to provide some last minute series 21 stats and another suggests Jenny revisit her series 15, episode 3 potato hat performance for homework. Send all your homework suggestions and Taskmaster thoughts along to fans@taskmaster.tv Download the Taskmaster App here: https://taskmaster.tv/app If you're in the UK you can watch all of Taskmaster on All 4 www.channel4.com/programmes/taskmaster Anywhere else, it's the Taskmaster YouTube youtube.com/taskmaster Visit the Taskmaster Store for all your TM goodies! taskmasterstore.com",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/773279e6-0e58-4e1e-9916-f84027b4f84a.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=773279e6-0e58-4e1e-9916-f84027b4f84a",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60796660",
+      "itunes_duration": "59:38",
+      "speakers": [
+        "Danny Dyers",
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "handy",
+        "bandy",
+        "stand"
+      ]
+    },
     {
       "key": "91db4636b7a50afefb7fc358e47cdd45050d2de3",
       "title": "Not a Florglone Conclusion - Series 21 Listener Questions",
@@ -4666,6 +4688,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — The Handy Bandy Stand - S10, Ep. 4 — speakers: Danny Dyers, Jenny Eclair, Jack Bernhardt
 - 2026-06-29 — Not a Florglone Conclusion - Series 21 Listener Questions — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-06-22 — Champion Stats, Record Breakers and Lucky Seats - Series 21 Stats Debrief — speakers: Record Breakers, Jenny Eclair, Jack Bernhardt
 - 2026-06-15 — The Whole Hilt With a Kilt - S21, Ep.10 *GRAND FINAL* — speakers: Jenny Eclair, Jack Bernhardt

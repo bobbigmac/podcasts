@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-07-04T19:36:04+00:00`
-- checked_at: `2026-07-04T19:36:04+00:00`
-- etag: `W/"399ac-j9kCg2PExtDAzy9mDfAuWpd0DXE"`
+- fetched_at: `2026-07-06T20:14:00+00:00`
+- checked_at: `2026-07-06T20:14:00+00:00`
+- etag: `W/"3a119-3+8HLTdbv8+0SZSiaRW2LY9JuY0"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-07-04T19:36:04+00:00",
+  "fetched_at": "2026-07-06T20:14:00+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,33 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "f383e9dab137dae2bece7929647ab8cef6a0b0ec",
+      "title": "PlayStation Just Dealt Game Preservation a Massive Blow | Firelink Podcast",
+      "published_at": "2026-07-03T20:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/PlayStation-Just-Dealt-Game-Preservation-a-Massive-Blow--Firelink-Podcast-e3lnh4p",
+      "description": "This week on Firelink, KC and Marty chat about Sony's decision to move away from physical games. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/122454617/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-6%2F601bb4b0-55ae-8cd9-3411-ad637d8a1251.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "148510688",
+      "itunes_duration": "01:43:07",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "playstation",
+        "dealt",
+        "game",
+        "preservation",
+        "massive",
+        "blow",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "530b0315c6a039ae982f2d2ccc73ee089d47ea44",
       "title": "The Road to GTA 6 Has Begun | Firelink Podcast",
@@ -2958,6 +2985,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-03 — PlayStation Just Dealt Game Preservation a Massive Blow | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-06-26 — The Road to GTA 6 Has Begun | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-06-19 — The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-06-12 — Highs (and Lows) of Summer Game Fest 2026 | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
