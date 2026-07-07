@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-07-03T09:34:33+00:00`
-- checked_at: `2026-07-03T09:34:33+00:00`
-- last_modified: `Fri, 03 Jul 2026 06:29:58 GMT`
+- fetched_at: `2026-07-07T10:00:07+00:00`
+- checked_at: `2026-07-07T10:00:07+00:00`
+- last_modified: `Tue, 07 Jul 2026 08:28:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/b2aa3247887f1870e2463ba16df8b5ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-03T09:34:33+00:00",
+  "fetched_at": "2026-07-07T10:00:07+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c4181cad61d4e567e8440c8d7f13d37988d5f07d",
+      "title": "I like a thin cheese",
+      "published_at": "2026-07-07T07:28:00+00:00",
+      "link": null,
+      "description": "More adventures in parenting and beyond with Rob and Josh... This ep it's a bit of inbox correspondence from the listeners and some of the best bits from our guests this series while we take a short break. Back very soon with series 13!!! 1. John Bishop 2. Kamille 3. Harry Hill 4. Emma Doran Listen and / or watch the full episodes on Spotify. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9720484686.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3402",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "cheese"
+      ]
+    },
     {
       "key": "538fdaf3538dbc9487fdcea90ded778a0e5ee468",
       "title": "S12 EP52: I am spent",
@@ -12225,6 +12244,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-07 — I like a thin cheese — speakers: Rob Beckett, Josh Widdicombe
 - 2026-07-03 — S12 EP52: I am spent — speakers: Rob Beckett, Josh Widdicombe
 - 2026-06-30 — S12 EP51: The Ransom Is My Ego — speakers: Rob Beckett, Josh Widdicombe
 - 2026-06-26 — S12 EP50: My daughter broke her arm — speakers: Rob Beckett, Josh Widdicombe
