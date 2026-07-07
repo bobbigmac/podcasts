@@ -34836,6 +34836,28 @@
     ],
     "jack-dee": [
       {
+        "feed_slug": "external:apple:0ca1d54dc195",
+        "feed_title": "White Wine Question Time",
+        "source_rss_url": "https://feeds.acast.com/public/shows/acaaaf98-69c1-4a94-b843-5ea7e3892f66",
+        "dedupe_key": "2abef6e03838094915a1805880e8421d169efa65",
+        "episode_key": "2abef6e03838094915a1805880e8421d169efa65",
+        "title": "FROM THE CELLAR: Jack Dee",
+        "published_at": "2026-07-07T07:13:46Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We do like to ponder our selections from the cellar - and when we finished recording Seann Walsh we knew exactly who to pair his episode with - so please enjoy a bottle of the finest Jack Dee. \nJack joined us back in 2024 to talk about what was then his new podcast with Seann 'For the Love of Dog' - a sort of canine 'P",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/wwqt/e/6a4ca72a4b1ada48f054c35b/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/from-the-cellar-jack-dee/id1447646731?i=1000775759312&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
