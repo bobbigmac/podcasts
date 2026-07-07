@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-06T04:38:18+00:00`
-- checked_at: `2026-07-06T04:38:18+00:00`
-- etag: `"djEuMi4wOjE3ODMzMDY2NTkzMzU="`
+- fetched_at: `2026-07-07T04:16:14+00:00`
+- checked_at: `2026-07-07T04:16:14+00:00`
+- etag: `"djEuMi4wOjE3ODMzNDQ4MjkyNzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-06T04:38:18+00:00",
+  "fetched_at": "2026-07-07T04:16:14+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -35,8 +35,8 @@
       "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1783289036348-28f0dffa-0850-4a8a-9253-87a3d05514b3.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a4ad5010069388b7a0cb665/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27621701",
-      "itunes_duration": "51:03",
+      "enclosure_length": "25308891",
+      "itunes_duration": "52:43",
       "speakers": [
         "Richard Herring"
       ],

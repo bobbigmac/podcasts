@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-06-30T04:33:45+00:00`
-- checked_at: `2026-06-30T04:33:45+00:00`
-- etag: `W/"3fce9-V29UG+r9tIXPwR8xkW5oRSwgkMY"`
+- fetched_at: `2026-07-07T04:16:14+00:00`
+- checked_at: `2026-07-07T04:16:14+00:00`
+- etag: `W/"403ee-rCldGv7IJfUrE8v4OfbUzA5t69g"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-06-30T04:33:45+00:00",
+  "fetched_at": "2026-07-07T04:16:14+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f482af49941a459004e533f024c5a88e5a6982f3",
+      "title": "The British Games Are Coming! | Windbreaker Podcast",
+      "published_at": "2026-07-07T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/The-British-Games-Are-Coming---Windbreaker-Podcast-e3lo7ds",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty gab about the long history of British-developed video games. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7894599913.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76335449",
+      "itunes_duration": "01:18:40",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "british",
+        "games",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "bf7bf43880ae3c67517940e67fcd4a58a8beb9fd",
       "title": "The Art of the Time Loop | Windbreaker Podcast",
@@ -3018,6 +3040,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-07 — The British Games Are Coming! | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-06-30 — The Art of the Time Loop | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-06-23 — Why Are Cards Everywhere In Games? | Windbreaker Podcast (ft. Jack Packard) — speakers: Jack Packard, Yahtzee Croshaw, Marty Sliva
 - 2026-06-16 — Building Our Indie Game Mount Rushmore | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

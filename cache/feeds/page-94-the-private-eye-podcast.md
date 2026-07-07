@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-06-24T17:17:52+00:00`
-- checked_at: `2026-06-24T17:17:52+00:00`
-- etag: `W/"a33388ade1cdac56986d66cdbccc6a36"`
-- last_modified: `Wed, 24 Jun 2026 12:29:53 GMT`
+- fetched_at: `2026-07-07T04:16:14+00:00`
+- checked_at: `2026-07-07T04:16:14+00:00`
+- etag: `W/"412cf3e69418c8dada6bc8d03cd31c2a"`
+- last_modified: `Tue, 30 Jun 2026 14:46:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-06-24T17:17:52+00:00",
+  "fetched_at": "2026-07-07T04:16:14+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -30,13 +30,35 @@
   ],
   "episodes": [
     {
+      "key": "6690fce80eaf2399fb6130fe19be3e029b8bbc5f",
+      "title": "185: Manc To The Future",
+      "published_at": "2026-06-30T14:43:20+00:00",
+      "link": "https://audioboom.com/posts/8922574",
+      "description": "Ian, Helen, Andy and Richard Brooks discuss Andy Burnham’s vision for Britain (AKA Even Greater Manchester), the non-existent ban on air-conditioning, and a new book on Emperor Trump.",
+      "image_url": "https://audioboom.com/i/43721718/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8922574.mp3?modified=1782830792&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2702",
+      "speakers": [
+        "Richard Brooks",
+        "Andy Burnham",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "manc",
+        "future"
+      ]
+    },
+    {
       "key": "852306843be32e5ac82ea0ea6a3c5f3f613179a7",
       "title": "184: Coup What A Scorcher",
       "published_at": "2026-06-24T11:58:27+00:00",
       "link": "https://audioboom.com/posts/8920327",
       "description": "The Private Eye team, minus Andy but plus Matt Muir, wave a sad farewell to Keir Starmer and prepare themselves for Andy Burnham and the Burnaissance. Also: is Nigel Farage running out of steam?",
       "image_url": "https://audioboom.com/i/43712270/s=1400x1400/el=1/rt=fill.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8920327.mp3?modified=1782304077&sid=5112392&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8920327.mp3?modified=1782422553&sid=5112392&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2419",
@@ -3934,6 +3956,7 @@
 
 ## Episodes (newest first)
 
+- 2026-06-30 — 185: Manc To The Future — speakers: Richard Brooks, Andy Burnham, Andrew Hunter Murray, Ian Hislop
 - 2026-06-24 — 184: Coup What A Scorcher — speakers: Matt Muir, Andrew Hunter Murray, Ian Hislop
 - 2026-06-16 — 183: Fight! Fight! Fight! — speakers: Sarah Shannon, Andrew Hunter Murray, Ian Hislop
 - 2026-06-02 — 182: Make Hay — speakers: Andrew Hunter Murray, Ian Hislop
