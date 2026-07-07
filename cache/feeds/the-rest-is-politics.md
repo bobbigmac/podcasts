@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-07-07T20:13:37+00:00`
-- checked_at: `2026-07-07T20:13:37+00:00`
-- last_modified: `Tue, 07 Jul 2026 20:04:40 GMT`
+- fetched_at: `2026-07-07T22:30:39+00:00`
+- checked_at: `2026-07-07T22:30:39+00:00`
+- last_modified: `Tue, 07 Jul 2026 22:24:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/741a3be12916743e1552a965b3e44e89.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-07T20:13:37+00:00",
+  "fetched_at": "2026-07-07T22:30:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "0c9613b2991e25ab3341fcc990bc1d3e4bea919b",
+      "title": "551. Will Farage’s Trumpian Resignation Stunt Backfire?",
+      "published_at": "2026-07-07T21:00:00+00:00",
+      "link": null,
+      "description": "Is Farage's shock by-election gamble a Trumpian trick to bury the scandal over his finances? Why has the Murdoch press finally turned on Britain's most protected politician? Can Andy Burnham beat the media machine that swallowed Keir Starmer? Join Alastair and Mehdi Hasan as they answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Ben Rhodes by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. Sponsored by Lloyds. Get the account that offers more. You've earned it. See how Lloyds can help you make the most of your money. Search Lloyds Premier. £15 per month fee refunded when you meet the eligibility criteria. T&Cs apply. UK residents, aged 18+. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ https://nordvpn.com/yourunique-code. It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Adam Thornton, James Clayden Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/903c31b8-7a36-11f1-be32-cf104421c37f/image/eab70153c4929d5393012e5e8b26553a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2621035020.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2869",
+      "speakers": [
+        "Will Farage"
+      ],
+      "topics": [
+        "farage",
+        "resignation",
+        "stunt",
+        "backfire"
+      ]
+    },
     {
       "key": "edba51ddd507c72e4da957d45d86beae8a961101",
       "title": "550. Will Farage's Extreme Wealth Be His Downfall?",
@@ -12306,6 +12327,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-07 — 551. Will Farage’s Trumpian Resignation Stunt Backfire? — speakers: Will Farage
 - 2026-07-02 — 550. Will Farage's Extreme Wealth Be His Downfall? — speakers: Will Farage
 - 2026-07-01 — 549. Mamdani’s Wrecking Ball and the Rise of Anti-Migrant Vigilantes — speakers: Zohran Mamdani
 - 2026-06-30 — 548. Burnham vs. Westminster and Trump’s Next Target — speakers: Will Andy Burnham

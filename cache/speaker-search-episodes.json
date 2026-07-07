@@ -8839,6 +8839,28 @@
     ],
     "harry-hill": [
       {
+        "feed_slug": "external:apple:542e0c12e801",
+        "feed_title": "Parenting Hell with Rob Beckett and Josh Widdicombe",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT9881106244",
+        "dedupe_key": "6756b98a109da9ab0ce56482f7a7a980cbcdf4ba",
+        "episode_key": "6756b98a109da9ab0ce56482f7a7a980cbcdf4ba",
+        "title": "I like a thin cheese",
+        "published_at": "2026-07-07T07:28:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "More adventures in parenting and beyond with Rob and Josh...\n\nThis ep it's a bit of inbox correspondence from the listeners and some of the best bits from our guests this series while we take a short break. \n\nBack very soon with series 13!!! \n\n\n\n1. John Bishop\n\n2. Kamille\n\n3. Harry Hill\n\n4. Emma Doran\n\n\n\nListen and / o",
+        "audio_url": "https://traffic.megaphone.fm/GLT9720484686.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/i-like-a-thin-cheese/id1510251497?i=1000775760493&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e8b919cc1fa1",
         "feed_title": "The Harry Hill Show",
         "source_rss_url": "https://feeds.megaphone.fm/GLT2134425554",
@@ -19137,6 +19159,28 @@
         "description": "Nick Helm and Tony Law join Alex in dismantling the week's big news topics; mosquitos, education, long words... yup we've got it all and if that's not enough to keep your earphones in we have a guide to Selby. Hosted on Acast. See acast.com/privacy for more information.",
         "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-nick-helm-tony-law-and-will-collier/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-nick-helm-tony-law-and-will-collier/id1133204823?i=1000372293484&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:a87f2631b5f9",
+        "feed_title": "Alex Horne Breaks the News",
+        "source_rss_url": "https://feeds.acast.com/public/shows/e1483c6e-23ae-46f4-bd83-2528800cbe78",
+        "dedupe_key": "5ae7fec07c91af5bf444f1eb5d00af4650a2d060",
+        "episode_key": "5ae7fec07c91af5bf444f1eb5d00af4650a2d060",
+        "title": "Alex Horne, Miles Jupp, Rob Beckett and Stephen Brown",
+        "published_at": "2013-05-31T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Alex Horne is joined by comedians Miles Jupp and Rob Beckett and 'professional thinker' Stephen Brown to cut out random stories from the newspapers and paste them into a slightly threatening but always hilarious podcast-shaped letter that demands your attention. Hosted on Acast. See acast.com/privacy for more informati",
+        "audio_url": "https://sphinx.acast.com/alexhornebreaksnews/alex-horne-miles-jupp-rob-beckett-and-stephen-brown/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-miles-jupp-rob-beckett-and-stephen-brown/id1133204823?i=1000372293485&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
