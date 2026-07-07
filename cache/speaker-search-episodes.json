@@ -8019,6 +8019,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:a940e8e8f575",
+        "feed_title": "Joe Marler Will See You Now",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT9033701265",
+        "dedupe_key": "952a9acdb5033e9cf30f0f753000110745601f5d",
+        "episode_key": "952a9acdb5033e9cf30f0f753000110745601f5d",
+        "title": "Munya Chawawa Calls Out Donald Trump (and Bob Mortimer)",
+        "published_at": "2026-05-07T16:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What do Donald Trump, WWE and Munya Chawawa all have in common? According to Munya… everything.\n\nThe internet’s biggest satirist enters the clinic to unpack his obsession with wrestling, the psychology of “kayfabe”, and why politicians might secretly be cutting wrestling promos. Along the way Joe attempts the Walls of ",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT9095644060.mp3?updated=1778175897",
+        "link_url": "https://podcasts.apple.com/gb/podcast/munya-chawawa-calls-out-donald-trump-and-bob-mortimer/id1850736713?i=1000766644880&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f365e01dfc3f",
         "feed_title": "Alan Carr's 'Life's a Beach'",
         "source_rss_url": "https://feeds.megaphone.fm/GLT3251662520",
@@ -15147,6 +15169,30 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:c6b7c4cc39d5",
+        "feed_title": "Taskmaster: The People's Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-peoples-podcast",
+        "dedupe_key": "0e2c62c7b1cff089eb296d9edef5d07a37515f0f",
+        "episode_key": "0e2c62c7b1cff089eb296d9edef5d07a37515f0f",
+        "title": "The Great Taskmaster Gathering",
+        "published_at": "2022-09-24T06:45:26Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Reporting to you live (not live) from Chesham FC, it's our correspondent Lou Sanders. Taskmaster: The People's podcast sent out a crack squad to cover The Great Taskmaster Gathering for all of you who didn't get a chance to grab a ticket (and Jack who is in France) can bask in the glory of the event. There are games, q",
+        "audio_url": "https://dax.captivate.fm/3d92c293-1515-4a78-aecc-c08db3dc3edc/media.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=34da5d8d-6418-4026-b584-448c1d4f7339",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-great-taskmaster-gathering/id1619305860?i=1000580495970&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders",
+          "Tim Key",
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:c6031f1ae9bf",
         "feed_title": "Hawksbee and Jacobs Daily",
         "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
@@ -17408,6 +17454,30 @@
         "enclosure_bytes": null,
         "enclosure_type": null,
         "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:c6b7c4cc39d5",
+        "feed_title": "Taskmaster: The People's Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-peoples-podcast",
+        "dedupe_key": "0e2c62c7b1cff089eb296d9edef5d07a37515f0f",
+        "episode_key": "0e2c62c7b1cff089eb296d9edef5d07a37515f0f",
+        "title": "The Great Taskmaster Gathering",
+        "published_at": "2022-09-24T06:45:26Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Reporting to you live (not live) from Chesham FC, it's our correspondent Lou Sanders. Taskmaster: The People's podcast sent out a crack squad to cover The Great Taskmaster Gathering for all of you who didn't get a chance to grab a ticket (and Jack who is in France) can bask in the glory of the event. There are games, q",
+        "audio_url": "https://dax.captivate.fm/3d92c293-1515-4a78-aecc-c08db3dc3edc/media.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=34da5d8d-6418-4026-b584-448c1d4f7339",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-great-taskmaster-gathering/id1619305860?i=1000580495970&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders",
+          "Tim Key",
           "Alex Horne"
         ],
         "topics": [],
@@ -20600,6 +20670,30 @@
         "enclosure_type": null,
         "speakers": [
           "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:c6b7c4cc39d5",
+        "feed_title": "Taskmaster: The People's Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-peoples-podcast",
+        "dedupe_key": "0e2c62c7b1cff089eb296d9edef5d07a37515f0f",
+        "episode_key": "0e2c62c7b1cff089eb296d9edef5d07a37515f0f",
+        "title": "The Great Taskmaster Gathering",
+        "published_at": "2022-09-24T06:45:26Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Reporting to you live (not live) from Chesham FC, it's our correspondent Lou Sanders. Taskmaster: The People's podcast sent out a crack squad to cover The Great Taskmaster Gathering for all of you who didn't get a chance to grab a ticket (and Jack who is in France) can bask in the glory of the event. There are games, q",
+        "audio_url": "https://dax.captivate.fm/3d92c293-1515-4a78-aecc-c08db3dc3edc/media.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=34da5d8d-6418-4026-b584-448c1d4f7339",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-great-taskmaster-gathering/id1619305860?i=1000580495970&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders",
+          "Tim Key",
+          "Alex Horne"
         ],
         "topics": [],
         "external": true
