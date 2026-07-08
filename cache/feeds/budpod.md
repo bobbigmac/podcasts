@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-07-01T10:13:09+00:00`
-- checked_at: `2026-07-01T10:13:09+00:00`
-- etag: `"djEuMi4wOjE3ODI4OTY0NTI1NzE="`
+- fetched_at: `2026-07-08T08:43:34+00:00`
+- checked_at: `2026-07-08T08:43:34+00:00`
+- etag: `"djEuMi4wOjE3ODM0OTk0MDAzMzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-07-01T10:13:09+00:00",
+  "fetched_at": "2026-07-08T08:43:34+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "449f010ee7c888abf1fc39792fb7e7d4d3bd20c0",
+      "title": "S2E56 | Hot Banana",
+      "published_at": "2026-07-08T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e56-hot-banana",
+      "description": "Youtube version available here! This week the buds discuss bog bodies, double acts, England v Mexico, silent film and the Wretch’s graduation. This week's sketch: 'Poop and Circumstance' Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! BudPod Live is back! Cheerful Earful Podcast Festival - October 10, 2026 - Tickets available here. Bath Komedia - November 3rd, 2026 - Tickets available here. Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6a4d8588ad78abcff1e52ccf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52714684",
+      "itunes_duration": "54:54",
+      "speakers": [
+        "Hot Banana Youtube",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "banana"
+      ]
+    },
     {
       "key": "30929b2ae4c41b1f8d6eee3bee62496d7bc86b7e",
       "title": "S2E55 | Tudor Tarantino",
@@ -7873,6 +7893,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-08 — S2E56 | Hot Banana — speakers: Hot Banana Youtube, Phil Wang, Pierre Novellie
 - 2026-07-01 — S2E55 | Tudor Tarantino — speakers: Fuzz Buzz, Tudor Ta, Phil Wang, Pierre Novellie
 - 2026-06-24 — S2E54 | Papa's Flesh — speakers: Toy Story, Phil Wang, Pierre Novellie
 - 2026-06-17 — S2E53 | Pooh Pooh the Willy — speakers: Pooh Pooh, Phil Wang, Pierre Novellie
