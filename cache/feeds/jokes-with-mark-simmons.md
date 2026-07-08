@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-07-02T04:20:56+00:00`
-- checked_at: `2026-07-02T04:20:56+00:00`
-- etag: `"djEuMi4wOjE3ODI5NjQ5MDA1NDc="`
+- fetched_at: `2026-07-08T14:40:44+00:00`
+- checked_at: `2026-07-08T14:40:44+00:00`
+- etag: `"djEuMi4wOjE3ODM1MTUxODI2MDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-07-02T04:20:56+00:00",
+  "fetched_at": "2026-07-08T14:40:44+00:00",
   "owners": [
     "Mark Simmons"
   ],

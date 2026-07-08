@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-07-03T14:31:51+00:00`
-- checked_at: `2026-07-03T14:31:51+00:00`
-- etag: `"djEuMi4wOjE3ODMwNzk3OTAzMjE="`
+- fetched_at: `2026-07-08T14:40:44+00:00`
+- checked_at: `2026-07-08T14:40:44+00:00`
+- etag: `"djEuMi4wOjE3ODM0MTQ1OTg2MDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-07-03T14:31:51+00:00",
+  "fetched_at": "2026-07-08T14:40:44+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,24 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c64dea5c27a79f578a1ee65ed26a898f9a075686",
+      "title": "JusT&T Married",
+      "published_at": "2026-07-07T08:56:38+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/justt-married",
+      "description": "This week, Katherine's Telling Everybody Everything about privilege and how it can make a very nice person tone-deaf at times. We unpack a little bit more of the Erica Komisar interview, hopefully clarifying some concerns about why we would host such a controversial psychoanalyst. Some WILD nonsense in the emails as we read your letters about a ridiculously selfish husband and a conundrum about whether or not to tell your mum that your dad is cheating! Crazy crazy crazy so if you have any added advice after listening to this one, let us know. Plus, our friend and comedian extraordinaire Andrew Johnston @MandrewBrawnston spills the T&T with all the details of Taylor and Travis' wedding at Madison Square Garden over the weekend, complete with decor details, guest list games, fashion and more! x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1783413863008-d046927e-c201-43d8-acfc-01bb4cedc96d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a4cbf46c4772b27e88c6a11/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84462154",
+      "itunes_duration": "58:39",
+      "speakers": [
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "married"
+      ]
+    },
     {
       "key": "7ded80c4cf0c635b061e6d28169d2a709deef30f",
       "title": "The Gentleman's Pad",
@@ -6313,6 +6331,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-07 — JusT&T Married — speakers: Katherine Ryan
 - 2026-07-03 — The Gentleman's Pad — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-06-25 — In Conversation With Erica Komisar — speakers: Katherine Ryan
 - 2026-06-15 — Body Autonomy and THAT Baby Shower — speakers: Body Autonomy, Baby Shower, Katherine Ryan

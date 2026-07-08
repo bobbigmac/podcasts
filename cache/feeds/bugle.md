@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-07-07T20:13:37+00:00`
-- checked_at: `2026-07-07T20:13:37+00:00`
-- etag: `"djEuMi4wOjE3ODMwODQ3MjI3MDU="`
+- fetched_at: `2026-07-08T14:40:44+00:00`
+- checked_at: `2026-07-08T14:40:44+00:00`
+- etag: `"djEuMi4wOjE3ODM1MTkyMzk1NTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-07-07T20:13:37+00:00",
+  "fetched_at": "2026-07-08T14:40:44+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,22 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "f5c99bf451a016ad78c5ca397616b8848c917490",
+      "title": "HAPPY 250th USA",
+      "published_at": "2026-07-08T14:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/happy-250th-usa",
+      "description": "To celebrate and commemorate the USA 250th birthday producer Harry has gone back through the archives to find some classic Bugle USA clips from the Pig War and Obama's election, to US Espionage and the Fuckeulogy of Osama Bin Laden PLUS a special presidential pun-run from Andy! There you go, what a show it was. Now please help us stay alive by donating at thebuglepodcast.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1783516172185-133e3498-05bd-4e57-b695-332dce268eee.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a4e4bfa1c8f5a97d8553f66/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47092714",
+      "itunes_duration": "49:03",
+      "speakers": [
+        "Andy Zaltzman"
+      ],
+      "topics": []
+    },
     {
       "key": "3ae4820d0c23337bc182838ddcebdaee86cc3ff6",
       "title": "The Bugle World Cup Special",
@@ -14358,6 +14374,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-08 — HAPPY 250th USA — speakers: Andy Zaltzman
 - 2026-07-01 — The Bugle World Cup Special — speakers: Andy Zaltzman
 - 2026-06-24 — British Politics Plunged into CHAOS (again) — speakers: Alice Fraser, Neil Delamere, Andy Zaltzman
 - 2026-06-17 — PEACE is among us! (for now) — speakers: Nish Kumar, Tom Ballard, Andy Zaltzman

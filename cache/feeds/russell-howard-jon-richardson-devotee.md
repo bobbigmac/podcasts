@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-07-05T19:41:37+00:00`
-- checked_at: `2026-07-05T19:41:37+00:00`
-- etag: `W/"3b221-6KABPE4xFrCxRLpFl1swIxMchB4"`
+- fetched_at: `2026-07-08T14:40:44+00:00`
+- checked_at: `2026-07-08T14:40:44+00:00`
+- etag: `W/"3c254-v6cn9Ojft7LmON/6F1yxOMRK+f4"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,95 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-07-05T19:41:37+00:00",
+  "fetched_at": "2026-07-08T14:40:44+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c75f0814a0f55333e6517a8e10e698568f3c4bdd",
+      "title": "Josh Widdicombe XFM #59 Edinburgh Fringe 2014 - James Acaster Classic Scrape 32, Romesh Ranganathan",
+      "published_at": "2026-07-08T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-59-Edinburgh-Fringe-2014---James-Acaster-Classic-Scrape-32--Romesh-Ranganathan-e3lpjo1",
+      "description": "Live from the first night of the Edinburgh Fringe Festival 2014. The panel features James Acaster (with a Classic Scrape), Romesh Ranganathan, Nish Kumar and Matthew Crosby. John Robins also pops in with his feature, Sacred Cow. Broadcast on 11th August 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783454163653-01db3b84ac95a.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3532118630.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85859780",
+      "itunes_duration": "01:28:28",
+      "speakers": [
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "edinburgh",
+        "fringe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "romesh",
+        "ranganathan"
+      ]
+    },
+    {
+      "key": "43185561b81c3baacaee5ddb2a53002974b414df",
+      "title": "Josh Widdicombe XFM #58 – Mike Wozniak Returns, Tom Rosenthal, Nish Kumar",
+      "published_at": "2026-07-08T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-58--Mike-Wozniak-Returns--Tom-Rosenthal--Nish-Kumar-e3lpjig",
+      "description": "Mike Wozniak returns, Tom Rosenthal returns and Nish Kumar shares his final Saturday Nishipedia before the big move to Sunday mornings.Broadcast on 11th August 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783453872060-6e2326f06d617.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3519467836.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38152790",
+      "itunes_duration": "00:39:19",
+      "speakers": [
+        "Mike Wozniak Returns",
+        "Tom Rosenthal",
+        "Mike Wozniak",
+        "Nish Kumar"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "mike",
+        "wozniak",
+        "returns",
+        "rosenthal",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "ee17fe60c5226e87c5980a64b3412751c1198cd3",
+      "title": "Josh Widdicombe XFM #57 – Acaster Phones In, Adam Hills & Alex Brooker, Nish Kumar",
+      "published_at": "2026-07-07T19:48:32+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-57--Acaster-Phones-In--Adam-Hills--Alex-Brooker--Nish-Kumar-e3lpjdc",
+      "description": "Adam Hills & Alex Brooker join Josh in the studio, Nish Kumar has another entry for Nishipedia and James Acaster phones in.Broadcast on 4th August 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783453616581-7f91584ee6e5.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8048244792.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48384603",
+      "itunes_duration": "00:49:51",
+      "speakers": [
+        "Alex Brooker"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "acaster",
+        "phones",
+        "adam",
+        "hills",
+        "alex",
+        "brooker",
+        "nish",
+        "kumar"
+      ]
+    },
     {
       "key": "e8e9a580b3294f0f6cfa6a2b7b8d1c4608c9cfa5",
       "title": "Josh Widdicombe XFM #56 – Unexpected James Acaster, Lots of Nish Kumar, Suzi Ruffell",
@@ -4481,6 +4563,9 @@
 
 ## Episodes (newest first)
 
+- 2026-07-08 — Josh Widdicombe XFM #59 Edinburgh Fringe 2014 - James Acaster Classic Scrape 32, Romesh Ranganathan — speakers: James Acaster
+- 2026-07-08 — Josh Widdicombe XFM #58 – Mike Wozniak Returns, Tom Rosenthal, Nish Kumar — speakers: Mike Wozniak Returns, Tom Rosenthal, Mike Wozniak, Nish Kumar
+- 2026-07-07 — Josh Widdicombe XFM #57 – Acaster Phones In, Adam Hills & Alex Brooker, Nish Kumar — speakers: Alex Brooker
 - 2026-07-02 — Josh Widdicombe XFM #56 – Unexpected James Acaster, Lots of Nish Kumar, Suzi Ruffell — speakers: James Acaster, Suzi Ruffell
 - 2026-07-02 — Josh Widdicombe XFM #55 – James Acaster Classic Scrape 31, Zoe Lyons, Nish Kumar — speakers: James Acaster Classic Scrape, James Acaster, Nish Kum
 - 2026-07-01 — Josh Widdicombe XFM #53 – Romesh Ranganathan, Harriet Kemsley — speakers: Harriet Kemsley
