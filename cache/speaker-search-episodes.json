@@ -2,6 +2,28 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:afe0f37d3942",
+        "feed_title": "The Daily Heretic",
+        "source_rss_url": "https://feeds.megaphone.fm/OTEP5129963398",
+        "dedupe_key": "ea196e34a2695841b23de6245ea376af9c6459a3",
+        "episode_key": "ea196e34a2695841b23de6245ea376af9c6459a3",
+        "title": "Leo Kearse - James Acaster is a Woke STAIN on British Comedy",
+        "published_at": "2026-07-07T11:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Has British comedy lost its edge to political correctness and ideological conformity? In this sharp, provocative, and darkly funny conversation, comedian Leo Kearse explains why he believes parts of modern comedy have become dominated by activism rather than genuine risk-taking and humour. 👉 Subscribe to The Daily Here",
+        "audio_url": "https://traffic.megaphone.fm/OTEP1864370434.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/leo-kearse-james-acaster-is-a-woke-stain-on-british-comedy/id1851429469?i=1000775783045&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -20931,6 +20953,28 @@
         "description": "Alison, Lou, Scarlett and the audience tell stories of humiliation to make us all laugh. This is the last in this series, we'll be back!",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0c15p86.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/rom-com-bombs-with-lou-sanders-and-scarlett-moffatt/id1525520717?i=1000557995347&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:c6b7c4cc39d5",
+        "feed_title": "Taskmaster: The People's Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-peoples-podcast",
+        "dedupe_key": "8017c5933cec1c89d42d45be94a72449cd9de4fe",
+        "episode_key": "8017c5933cec1c89d42d45be94a72449cd9de4fe",
+        "title": "Firsts",
+        "published_at": "2022-04-15T08:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome to the first episode of Taskmaster: The People's Podcast. Series 8 champion and Pantsuit Princess, Lou Sanders is joined by comedy writer, journalist and Taskmaster obsessive Jack Bernhardt. Together they scour the globe to find and chat to the biggest Taskmaster Superfans. This week our first candidate explain",
+        "audio_url": "https://dax.captivate.fm/89a05d78-ec12-491f-afe7-6bc6c31aad50/media.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=b5db1b4d-21b6-4b81-9dda-f6f54783fc2b",
+        "link_url": "https://podcasts.apple.com/gb/podcast/firsts/id1619305860?i=1000557691434&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
