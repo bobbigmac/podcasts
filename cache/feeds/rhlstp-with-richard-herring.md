@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-07T04:16:14+00:00`
-- checked_at: `2026-07-07T04:16:14+00:00`
-- etag: `"djEuMi4wOjE3ODMzNDQ4MjkyNzk="`
+- fetched_at: `2026-07-08T03:43:39+00:00`
+- checked_at: `2026-07-08T03:43:39+00:00`
+- etag: `"djEuMi4wOjE3ODM0Nzk0NTkyNzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-07T04:16:14+00:00",
+  "fetched_at": "2026-07-08T03:43:39+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ec4708ea7f70c993fc9a2858f1ee8caa19d53441",
+      "title": "Mitch Benn (Part 1) - \"Wild-Eyed Loner at the Gates of Oblivion\"",
+      "published_at": "2026-07-08T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #617 - Wild-Eyed Loner at the Gates of Oblivion - Rich is in salt-obsessed Droitwich at the second Rik Mayall festival and reads a bit of the never produced script of Man Down that he wrote for Rik (who would have done it better). His guest is Rik-fan, musician and comedian (usually at the same time) Mitch Benn. They chat about the remarkable cast of the Edinburgh show “The Bootleg Bootleg Beatles” and their varying fortunes, what Rik meant to the kids back in the early 80s, how Mitch was secretly the most popular comedy character in the UK for several years and getting to play Zaphod Beeblebrox alongside the original radio cast. It’s a solo performance to match the great Brian Blessed, but Rich manages a couple of humorous interjections! See Mitch in Edinburgh - https://underbellyedinburgh.co.uk/event/mitch-benn-asking-elvis See RHLSTP in Edinburgh - https://www.thestand.co.uk/fringe/2925/richard-herring-rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1783344309953-d686b1ea-a386-47df-be0a-56401600b87e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a4bae42f1400d42e1f27d21/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19706357",
+      "itunes_duration": "41:03",
+      "speakers": [
+        "Mitch Benn",
+        "Wild-Eyed Loner",
+        "Richard Herring"
+      ],
+      "topics": [
+        "mitch",
+        "benn",
+        "wild",
+        "eyed",
+        "loner",
+        "gates",
+        "oblivion"
+      ]
+    },
     {
       "key": "10a256ccd3a2fcc125f3a79353d79778df05b20a",
       "title": "Suggs (Retro) - \"Back of the Head With a Plastic Cup\"",
@@ -23088,6 +23114,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-08 — Mitch Benn (Part 1) - "Wild-Eyed Loner at the Gates of Oblivion" — speakers: Mitch Benn, Wild-Eyed Loner, Richard Herring
 - 2026-07-06 — Suggs (Retro) - "Back of the Head With a Plastic Cup" — speakers: Richard Herring
 - 2026-07-04 — Rich and Ally's Craven Newsround Compilation "Farage’s Treasure" — speakers: Craven Newsround Compilation, Richard Herring
 - 2026-07-03 — Cally Beaton on Namaste Motherf*ckers - Book Club — speakers: Richard Herring

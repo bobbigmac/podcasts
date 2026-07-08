@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-07-01T04:53:39+00:00`
-- checked_at: `2026-07-01T04:53:39+00:00`
-- etag: `"a2f99-655819650a810"`
-- last_modified: `Wed, 01 Jul 2026 00:15:21 GMT`
+- fetched_at: `2026-07-08T03:43:39+00:00`
+- checked_at: `2026-07-08T03:43:39+00:00`
+- etag: `"a3f38-6560e677b8556"`
+- last_modified: `Wed, 08 Jul 2026 00:15:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-07-01T04:53:39+00:00",
+  "fetched_at": "2026-07-08T03:43:39+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "657ac3bd6248eb616011145d3511d57279f8f635",
+      "title": "Village Fêtes",
+      "published_at": "2026-07-08T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/village-fetes",
+      "description": "Samuel of 84a High Street selects village fêtes as this week’s topic for the beans. You may well ask yourself why Samuel has made this choice and wonder if perhaps Samuel was never voted as Village Fête Prince or if Samuel’s motorised float never podiumed or if Samuel shoved his hand in a lucky dip barrel and pulled it out again expecting to be holding a prize only to find his fingers had been replaced with very long springs but Samuel’s motive for his choice is Samuel’s business and Samuel’s business alone. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Tickets for Henry's tour: www.henrypaker.com Ticket's for Benjamin's Beef And Dairy Network live show: https://www.kingsplace.co.uk/whats-on/podcast/beef-and-dairy-network-podcast-5/ Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/5ea55ec1-9167-43da-a452-5df2c3c1396c/S21-E06-Village-Fetes.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/bd0b0103-bc11-47f9-9a8c-ef3fdb979937.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=bd0b0103-bc11-47f9-9a8c-ef3fdb979937",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59515342",
+      "itunes_duration": "01:02:00",
+      "speakers": [
+        "High Street",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "village"
+      ]
+    },
     {
       "key": "1b32d416c46f9def3549513d7bb850543395b396",
       "title": "The Roman Empire",
@@ -4354,6 +4375,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-08 — Village Fêtes — speakers: High Street, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-01 — The Roman Empire — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-06-24 — Seaside Towns — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-06-17 — The Circus — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge

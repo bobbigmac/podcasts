@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-07-06T22:36:58+00:00`
-- checked_at: `2026-07-06T22:36:58+00:00`
-- etag: `"djEuMi4wOjE3ODMzNzM0MjI5Mjc="`
+- fetched_at: `2026-07-08T03:43:39+00:00`
+- checked_at: `2026-07-08T03:43:39+00:00`
+- etag: `"djEuMi4wOjE3ODM0Njg4Mzk0ODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-07-06T22:36:58+00:00",
+  "fetched_at": "2026-07-08T03:43:39+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,26 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "cfe563a04e564f720588bcac0771c283a60ff184",
+      "title": "DWSC LIVE: With Will Adamsdale",
+      "published_at": "2026-07-08T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-will-adamsdale",
+      "description": "Hello from wonderful Devon! Yes, it's another look back at the DWSC 2026 tour and today we find out what happened when Hannah and Taylor took to the stage in Exeter and were joined by the marvellous Will Adamsdale. Firstly, Will shared his impressive rolodex of times people have successfully relieved him of his possessions, before showing what a good boyyy he is, by helping our hosts dig into a crime that happened 160 years ago in the local area. Finally, we hear from a member of the audience who tells us about the time they were buttered up by a very slippery sort. The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in September, October AND November. Full info and tickets HERE. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a4c0ff601771200e4d4e1a9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90403429",
+      "itunes_duration": "1:02:46",
+      "speakers": [
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "adamsdale"
+      ]
+    },
     {
       "key": "519e1dabdee3e389579de8925d6b14acab210079",
       "title": "Drinking the Kool Aid, with Alicia Witt",
@@ -11300,6 +11320,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-08 — DWSC LIVE: With Will Adamsdale — speakers: Hannah George, Taylor Glenn
 - 2026-07-01 — Drinking the Kool Aid, with Alicia Witt — speakers: Alicia Witt, Hannah George, Taylor Glenn
 - 2026-06-26 — DWSC LIVE: With Sally-Anne Hayward — speakers: Sally-Anne Hayward, Hannah George, Taylor Glenn
 - 2026-06-24 — DWSC LIVE: With Robin Morgan — speakers: Robin Morgan, Hannah George, Taylor Glenn

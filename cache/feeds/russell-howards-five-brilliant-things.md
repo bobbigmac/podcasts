@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-07-01T04:53:39+00:00`
-- checked_at: `2026-07-01T04:53:39+00:00`
-- last_modified: `Wed, 01 Jul 2026 01:07:34 GMT`
+- fetched_at: `2026-07-08T03:43:39+00:00`
+- checked_at: `2026-07-08T03:43:39+00:00`
+- last_modified: `Wed, 08 Jul 2026 01:07:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-01T04:53:39+00:00",
+  "fetched_at": "2026-07-08T03:43:39+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,48 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6906804e47b3c9b6218b9f3cd0f2bc3d52fa9c6b",
+      "title": "Peter Serafinowicz",
+      "published_at": "2026-07-08T01:00:00+00:00",
+      "link": null,
+      "description": "Comedian and Actor Peter Serafinowicz takes an hour out of his hectic filming schedule to sit down and explain why we should listen to the Oh-Sees, why the Bionic Commando soundtrack was so groundbreaking and he gives us the most iconic death noise in video-game history. If you want to see Peter, get onto Netflix and watch Million Dollar Secret which he hosts. If you want to be Peter, then get Elden Ring and you can experience (as recreated on the podcast) his effort noises. Also watch out for him in the upcoming Elden Ring film! Exciting stuff. This blurb was produced with a huge number of effort noises that it’s extremely fortunate you didn’t hear because it sounded like someone struggling with a particularly stubborn turd. Bye bye you weird blurb reading person. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3af27bca-79f7-11f1-a798-1788fbaabf9c/image/f59e918078f6408ea639fbc256ca8409.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4089392313.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3916",
+      "speakers": [
+        "Peter Serafinowicz Comedian",
+        "Peter Serafinowicz",
+        "Russell Howard"
+      ],
+      "topics": [
+        "peter",
+        "serafinowicz"
+      ]
+    },
+    {
+      "key": "fa7b6f771d0fefba79b1a28b641cbc255030b4ce",
+      "title": "June's Moments of the Month",
+      "published_at": "2026-07-07T11:54:00+00:00",
+      "link": null,
+      "description": "Hello there! Welcome to June's Moments of the Month. In case you’re new here, this is a compilation show with a little snippet of each guest we’ve enjoyed this month, so you can get a flavour. Then if you like the taste of any of them you can double-back and listen to the whole episode. It’s a good way to discover someone you would never have thought of clicking on before. First in studio in June was the lead singer and creative force behind Kasabian... Serge Pizzorno After that we were visited by the superb stand-up Sindhu Vee with incredible stories about her formidable mother. Stand-up and acting icon Aziz Ansari was over from America so he popped in to see us next... And finally the SNL break-out star and internet comedy titan Al Nash was in with some very traditional British cosiness. And teeth. So there we go! That’s a little taste of what June was like. All of those shows are available in full right now, so if you got a taste for it, go and get some more. Thanks as always for listening and there will be a new show, as usual, this coming Wednesday. Byeeee! Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2981347555.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2855",
+      "speakers": [
+        "Month Hello",
+        "Russell Howard"
+      ],
+      "topics": [
+        "june",
+        "moments",
+        "month"
+      ]
+    },
     {
       "key": "3d1999cd61b9a01fc29ed87393a95aef973d22cf",
       "title": "Natalie Cassidy",
@@ -3173,6 +3215,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-08 — Peter Serafinowicz — speakers: Peter Serafinowicz Comedian, Peter Serafinowicz, Russell Howard
+- 2026-07-07 — June's Moments of the Month — speakers: Month Hello, Russell Howard
 - 2026-07-01 — Natalie Cassidy — speakers: Natalie Cassidy, Russell Howard
 - 2026-06-23 — Al Nash — speakers: Al Nash AL, Al Nash, Al poppe, Russell Howard
 - 2026-06-17 — Aziz Ansari — speakers: Russell Howard

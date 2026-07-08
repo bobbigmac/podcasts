@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-07-01T04:53:39+00:00`
-- checked_at: `2026-07-01T04:53:39+00:00`
-- etag: `"djEuMi4wOjE3ODI4NjQwMzkzMzk="`
+- fetched_at: `2026-07-08T03:43:39+00:00`
+- checked_at: `2026-07-08T03:43:39+00:00`
+- etag: `"djEuMi4wOjE3ODM0Njg4Mzk0Nzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-07-01T04:53:39+00:00",
+  "fetched_at": "2026-07-08T03:43:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ad41b598f0880445ce2e3c44bbd0cf2bf9b5edf0",
+      "title": "Olivia Wilde",
+      "published_at": "2026-07-08T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/olivia-wilde",
+      "description": "We’re so excited to welcome the brilliant Olivia Wilde to the table this week! Olivia joined us on a whirlwind world tour to promo her new film, The Invite, which she both directed and stars in alongside Seth Rogen, Penelope Cruz and Edward Norton. Over a cheeseboard & jamón (iykyk), plus mum’s homemade apricot ice cream, we heard about Olivia growing up with journalist parents and their lively dinner parties, training to cook at Ballymaloe in Ireland, why she loves eating alone in restaurants, filming The Invite in sequence like a play and the unforgettable moment Penélope Cruz surprised her with an improvised kiss. Plus we hear the hilarious reason she grew up believing you had to stay completely silent around a soufflé! Thank you for such a lovely afternoon, Olivia - and huge congratulations on The Invite which is in cinemas now! Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1783442120890-fcef3d53-bd8f-45e9-ae14-485d94e97f87.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a4d29b66ae7b13bb27d1f7f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52070608",
+      "itunes_duration": "54:14",
+      "speakers": [
+        "Olivia Wilde"
+      ],
+      "topics": [
+        "olivia",
+        "wilde"
+      ]
+    },
     {
       "key": "01f5ffa0cd88870f0aa34258f7d03873d3337e75",
       "title": "Gracie Abrams",
@@ -7254,6 +7273,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-08 — Olivia Wilde — speakers: Olivia Wilde
 - 2026-07-01 — Gracie Abrams — speakers: Gracie Abrams Superstar
 - 2026-06-24 — Indira Varma — speakers: Indira Varma
 - 2026-06-17 — Oti Mabuse — speakers: Oti Mabuse

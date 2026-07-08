@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-07-01T04:53:39+00:00`
-- checked_at: `2026-07-01T04:53:39+00:00`
-- last_modified: `Tue, 30 Jun 2026 01:23:38 GMT`
+- fetched_at: `2026-07-08T03:43:39+00:00`
+- checked_at: `2026-07-08T03:43:39+00:00`
+- last_modified: `Mon, 06 Jul 2026 23:10:16 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-01T04:53:39+00:00",
+  "fetched_at": "2026-07-08T03:43:39+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,52 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "25d1e3370ca238ad9a1ffad3b1f0bcb8326e3358",
+      "title": "Toy Story 5, Celebrity Gladiators & Brain Training",
+      "published_at": "2026-07-06T23:01:00+00:00",
+      "link": null,
+      "description": "Is it okay to check someone else's underwear? This week, Tom and Rom debate whether Toy Story should have stopped at three films, reveal their cinema snack choices and debate Master Of The Universe and Celebrity Gladiators. There's also a conversation about brain training, Tom's memory, the impact of pornography, and dating an Only Fans creator. Plus, some unfortunate stories about suspicious underwear... Maybe we need a part two. A Ranga Bee Production in partnership with Platform. Chapters 00:00 Intro 04:04 On Toy Story 08:51 Ciinema food discussion 11:20 Character ranking 12:35 Is Tom pranking Rom? 15:13 Rom’s Master Of The Universe review 20:05 Tom’s memory and Sudoku 22:26 The p*rn effect 31:50 OF and relationships 35:09 Celebrity Gladiators 37:18 Underwear and fart tech 40:26 Tom’s outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5087c4a2-7959-11f1-ac7f-9320edbe76e9/image/97d6e03e4f3db42a1c6b4989e768dca3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9715916975.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2718",
+      "speakers": [
+        "Toy Story",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "story",
+        "celebrity",
+        "gladiators",
+        "brain",
+        "training"
+      ]
+    },
+    {
+      "key": "683c84768009f7aab084b0b1a63815c88317ab82",
+      "title": "Pet Problems, Bad Neighbours & Forest Etiquette",
+      "published_at": "2026-07-02T23:01:00+00:00",
+      "link": null,
+      "description": "Should we do a mukbang? Tom and Romesh are back tackling your listener dilemmas, and this week things get surprisingly heated over a neighbour who took it upon themselves to give someone else's cat a haircut... with disastrous consequences. Expect a debate on dog poo etiquette, a tangent about squirrels and a discussion on unsolicited photos. Plus, after talking about it for years, could the Wolf & Owl mukbang finally be happening? A Ranga Bee Production in partnership with Platform. Chapters 00:00 Intro 02:25 A flashing question 04:50 A side note on squirrels 06:17 Pet advice 14:45 Pet poo etiquette 18:53 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c0cd76dc-755b-11f1-93a6-d36c7ecddc84/image/85751759f7712ffd257d07a6b0f7fa25.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6474775353.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1284",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "problems",
+        "neighbours",
+        "forest",
+        "etiquette"
+      ]
+    },
     {
       "key": "5ab2aa84d9552c8a04a38f2607b977386a79125a",
       "title": "Auditions, Ranking Actors & Weird Parenting Advice",
@@ -7039,6 +7085,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — Toy Story 5, Celebrity Gladiators & Brain Training — speakers: Toy Story, Romesh Ranganathan, Tom Davis
+- 2026-07-02 — Pet Problems, Bad Neighbours & Forest Etiquette — speakers: Romesh Ranganathan, Tom Davis
 - 2026-06-29 — Auditions, Ranking Actors & Weird Parenting Advice — speakers: Romesh Ranganathan, Tom Davis
 - 2026-06-25 — Home Alone, Gordon Ramsay & Making Friends — speakers: Romesh Ranganathan, Tom Davis
 - 2026-06-22 — Plastic Surgery, Toilet Drama And Dental Nightmares — speakers: Romesh Ranganathan, Tom Davis

@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-07-03T04:07:29+00:00`
-- checked_at: `2026-07-03T04:07:29+00:00`
-- etag: `"djEuMi4wOjE3ODMwNDg4MzkzNzM="`
+- fetched_at: `2026-07-08T03:43:39+00:00`
+- checked_at: `2026-07-08T03:43:39+00:00`
+- etag: `"djEuMi4wOjE3ODM0ODA4MzkyNDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-07-03T04:07:29+00:00",
+  "fetched_at": "2026-07-08T03:43:39+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "82980194a4e85b1e775c3a44461cbba021553ea2",
+      "title": "TOMO CAMPBELL • Live @ Harry Styles' Meltdown (Southbank Centre, London) #679",
+      "published_at": "2026-07-08T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined live on stage at the Harry Styles-curated Meltdown Festival by incredible artist TOMO CAMPBELL ! To quote London's Cob Gallery, \" [Tomo's] abstracted depictions of 'traditional' subjects such as hunting, parades and explorers are, as he puts it, 'never quite solid or whole', yet they exude an extraordinarily rich sense of vision\" . Now that's just so you know at least a little about Tomo if you're not familiar! After the chat with Pip live on stage you will likely be very inspired to pick up on where the chat leaves off and have a look at his work online (or in person if you're nearby). The conversation itself is fabulous, and features a huge amount to leave you well acquainted with Tomo, including art and class, education, inspiration, the slow creep from Houndslow to London, the choice between football and art, mood iterations (that's your album title right there), arbitrary pricing, ballet coincidences, power in ambiguity and art in application to music. Lovely stuff all in all - BUT - the questions at the end were relatively unsalvageable, so while you won't be able to make them out that well, hopefully the responses will allow for context. Apologies you're left to pick up the slack on those but they weren't available in the recordings so this was the best that could be done. See how you get on there anyway! Enjoy! PIP'S PATREON PAGE if you're of a supporting nature COB GALLERY INSTAGRAM ORIGINAL FLYER FOR EVENT SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1783351737257-b8bdd0aa-36e9-48b9-99e8-62dd1a5cc855.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a4bcd4663f5ae9478fa5518/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "163614806",
+      "itunes_duration": "1:08:06",
+      "speakers": [
+        "Harry Styles"
+      ],
+      "topics": [
+        "tomo",
+        "campbell",
+        "harry",
+        "styles",
+        "meltdown",
+        "southbank",
+        "centre",
+        "london"
+      ]
+    },
     {
       "key": "5af7ae164cbb6712a8ebafbd2c26577a7c69644a",
       "title": "POM KLEMENTIEFF (Mission Impossible / Guardians... / Westworld) • Friday Rewind",
@@ -19133,6 +19158,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-08 — TOMO CAMPBELL • Live @ Harry Styles' Meltdown (Southbank Centre, London) #679 — speakers: Harry Styles
 - 2026-07-03 — POM KLEMENTIEFF (Mission Impossible / Guardians... / Westworld) • Friday Rewind
 - 2026-07-01 — MARK WATSON • "You must be tired!" (Before It Overtakes Us / Murder Of A Famous Bastard / No More Jockeys) #678
 - 2026-06-26 — DAVID EARL & JOE WILKINSON (Chatabix & much more) • Friday Rewind

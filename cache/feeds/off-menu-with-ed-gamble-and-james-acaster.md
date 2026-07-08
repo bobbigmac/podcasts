@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-07-01T04:53:39+00:00`
-- checked_at: `2026-07-01T04:53:39+00:00`
-- etag: `"djEuMi4wOjE3ODI4MjA3NzM0NjI="`
+- fetched_at: `2026-07-08T03:43:39+00:00`
+- checked_at: `2026-07-08T03:43:39+00:00`
+- etag: `"djEuMi4wOjE3ODM0MjE3MjUzNzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-07-01T04:53:39+00:00",
+  "fetched_at": "2026-07-08T03:43:39+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,34 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cb7972adf6101ac854dc46dbad687ce240e05b74",
+      "title": "Kiell Smith-Bynoe (Tasting Menu – Live at the Royal Albert Hall)",
+      "published_at": "2026-07-06T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/kiell-smith-bynoe-tasting-menu-live-at-the-royal-albert-hall",
+      "description": "Next from our run of live shows at London’s Royal Albert Hall is ‘Taskmaster’ and ‘Ghosts’ star, Kiell Smith-Bynoe! The first time Kiell guested on Off Menu it was one of the only times Ed and James drank on the podcast, and Kiell’s not letting that tradition slip… Kiell is on tour with his improv show Kool Story Bro. For dates and tickets go to www.koolstorybro.co.uk Follow Kiell on Instagram @klayzeflaymz Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced and edited by Ben Williams for Plosive . Recorded by Matt Mountford-Lister for Storm Productions Group live at the Royal Albert Hall. Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Watch Ed and James's YouTube series 'Just Puddings'. Watch here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1782295753460-cfaa8f9f-b5b1-4876-86aa-a0758586d4bc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a3bae405bb8a79968ada657/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71641965",
+      "itunes_duration": "1:14:37",
+      "speakers": [
+        "Kiell Smith-Bynoe",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "kiell",
+        "smith",
+        "bynoe",
+        "tasting",
+        "menu",
+        "royal",
+        "albert",
+        "hall"
+      ]
+    },
     {
       "key": "f64464d513432a0513ace966ebeb79fd979552a6",
       "title": "Katherine Ryan (Tasting Menu – Live at the Royal Albert Hall)",
@@ -8607,6 +8635,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — Kiell Smith-Bynoe (Tasting Menu – Live at the Royal Albert Hall) — speakers: Kiell Smith-Bynoe, Ed Gamble, James Acaster, Ben Williams
 - 2026-06-29 — Katherine Ryan (Tasting Menu – Live at the Royal Albert Hall) — speakers: Katherine Ryan, Ed Gamble, James Acaster, Ben Williams
 - 2026-06-22 — Aisling Bea (Tasting Menu – Live at the Royal Albert Hall) — speakers: Aisling Bea, Ed Gamble, James Acaster, Ben Williams
 - 2026-06-03 — Harry Enfield — speakers: Harry Enfield, Ed Gamble, James Acaster, Ben Williams

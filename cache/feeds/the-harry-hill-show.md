@@ -2,9 +2,9 @@
 
 - slug: `the-harry-hill-show`
 - source: `https://feeds.megaphone.fm/GLT2134425554`
-- fetched_at: `2026-07-01T04:53:39+00:00`
-- checked_at: `2026-07-01T04:53:39+00:00`
-- last_modified: `Mon, 29 Jun 2026 14:09:30 GMT`
+- fetched_at: `2026-07-08T03:43:39+00:00`
+- checked_at: `2026-07-08T03:43:39+00:00`
+- last_modified: `Mon, 06 Jul 2026 12:24:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT2134425554",
   "description": "Hello there! It's me, Harry Hill! I've got a new show, and this time, it's visualised, A VODSCARF. Join me, my son Gary and Sarah the A.I Bot as we talk to a motley crew of comedians, celebrities and cultural icons, and if that wasn't enough we all learn together as we speak to an expert on stuff like the big bang, day of the dead, and even FLIES as part of our theme of the week! PLUS introducing the game everyone is talking about, Name The Seed. Follow now so you never miss an episode!",
   "image_url": "https://megaphone.imgix.net/podcasts/877a2464-c4e3-11ee-8afa-4fb3e5ba70ca/image/10789703930f0eaef2bf9e0b62be20da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-01T04:53:39+00:00",
+  "fetched_at": "2026-07-08T03:43:39+00:00",
   "owners": [
     "Harry Hill"
   ],
@@ -26,6 +26,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "68c9264373b99ad8cc0ad2ed5d76e297e2263880",
+      "title": "Joel Dommett: Zebra Crossing Keyboards, Red Panda Heart Palpitations and 'Attractive' Comedians",
+      "published_at": "2026-07-06T05:00:00+00:00",
+      "link": null,
+      "description": "TAKE IT OFF! TAKE IF OFF! We're back. This week, Harry is joined by comedian, television presenter, and incredibly good-looking man Joel Dommett! Harry relives the claustrophobic nightmare of performing inside a giant furry suit on The Masked Singer (which he only did because Joel told him it would be \"fun\" ), and explains how he almost had a heart attack dressed as a Red Panda. Meanwhile, Joel reminisces about his teenage nu-metal band and the importance of a silent p. Friend of the Vodscarf, Professor Chris Lintott drops by to explain why Venus is an acidic holiday hellhole. 00:09 - Giant Eggs in the Basement 01:15 - Behind the Scenes of The Masked Singer with Red Panda 02:58 - Harry’s Secret Vocal Coaching & Professional Singing Defenses 04:10 - The Ridiculous Secrecy: Hoodies, Visors, and Secret Cars 05:06 - The Great Sloth Pronunciation Debate 06:10 - Sixty-One and Dressed as a Red Panda: Harry’s Near-Death Experience 07:50 - Human Chemistry vs. Thirsty AI Bots 09:00 - Sarah the AI Bot Welcomes 09:10 - The Last Days of Rome: Joel and Harry Dissect the National TV Awards 10:04 - Trevor McDonald: The Comedy Killer 12:37 - Angela Barnes Thinks Joel Is Too Good-Looking for Comedy 13:58 - Joel's Nu-Metal Days 14:48 - Crowd-Surfing at Your Own Funeral 16:48 - The True Cost of Australia: Extra Camp Logistics 17:28 - Joel’s Bristolian Acting Masterclass: Crashing Cars in Casualty 18:36 - Former Doctor Harry Hill Wants a Guest Spot on Holby City 19:34 - Tea, Biscuits, and Private Hospital Pillow Requests 20:34 - Harry’s Mum Gets Knocked Down Dressed as a Keyboard 22:36 - Regency Television Presents: Trevor McDonald Live From the Albert Hall 24:33 - Theme of the Week: Venus (with Professor Chris Lintott) 25:48 - Why Venus Is the Absolute Worst Vacation Spot in the Solar System 27:19 - Lazy Astronomy: Stargazing From the Middle of London 27:52 - Active Volcanoes and Being Bored on a Zoom Meeting 28:48 - Sulfuric Acid, Flying Penguins, and the Runaway Greenhouse Effect 31:14 - Venus: The Solar System's Monthly Service Station 33:02 - The Planet of Love: Mythological Names and Diseases 34:32 - The French Balloon Plan & Melted Russian Probes 36:09 - Harry’s Dark Baby Joke That Never Lands 37:35 - The Grand Finale: Celebrity Name the Seed! 40:25 - The High-Stakes Guess: Britney Spears on a Chair vs. Joel’s Wife 43:27 - Gary’s Joke Corner 45:11 - Butterfly in Blue Jeans \"Joel Dommett\" by Wikipedia contributors, used under CC BY-SA 4.0. Derived from the Wikipedia article on Joel Dommett. / This work is licensed under CC BY-SA 4.0.\" Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/0ab4589c-7629-11f1-9d36-3b91a4ecdc69/image/59a3adc5bdc498238135adcefe484ad9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR8909877560.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2939",
+      "speakers": [
+        "Joel Dommett",
+        "Harry Hill"
+      ],
+      "topics": [
+        "joel",
+        "dommett",
+        "zebra",
+        "crossing",
+        "keyboards",
+        "panda",
+        "heart",
+        "palpitations",
+        "comedian"
+      ]
+    },
     {
       "key": "04a71715e39c6adb3b85ff40208fb150bb82c376",
       "title": "Kiri Pritchard-McLean: Permaculture Farms, The Multi-Step Korean Skincare Cleansing Balm, and the Danbury Mint Shoe Collab",
@@ -1885,6 +1912,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-06 — Joel Dommett: Zebra Crossing Keyboards, Red Panda Heart Palpitations and 'Attractive' Comedians — speakers: Joel Dommett, Harry Hill
 - 2026-06-29 — Kiri Pritchard-McLean: Permaculture Farms, The Multi-Step Korean Skincare Cleansing Balm, and the Danbury Mint Shoe Collab — speakers: Harry Hill
 - 2026-06-22 — Jack Skipper: Shag Pile Debates, Chinese TikTok Data, and Nando’s Adele — speakers: Jack Skipper, Nando’s Adele, Harry Hill
 - 2026-06-15 — Louis Theroux: Cardboard Owls, Incel Heirs, and Karate-Chopping Geese — speakers: Louis Theroux, Incel Heirs, Harry Hill
