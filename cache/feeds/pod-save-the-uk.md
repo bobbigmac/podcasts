@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-07-02T04:20:56+00:00`
-- checked_at: `2026-07-02T04:20:56+00:00`
-- etag: `W/"8faaf2eb76ba1b7ab68016dc1b86c7c3"`
-- last_modified: `Thu, 02 Jul 2026 01:00:00 GMT`
+- fetched_at: `2026-07-09T04:13:08+00:00`
+- checked_at: `2026-07-09T04:13:08+00:00`
+- etag: `W/"ef9c1de5f2f31ab6df4741f9d9eed55e"`
+- last_modified: `Thu, 09 Jul 2026 01:00:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-07-02T04:20:56+00:00",
+  "fetched_at": "2026-07-09T04:13:08+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,35 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f83625c5af566173ad2f5e2501cf24f258b64083",
+      "title": "‘The Sleaze By-Election’: Farage Resigns…and Runs Again?! Plus, World War Three is here w/ Hannah Lucinda Smith",
+      "published_at": "2026-07-09T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8925412",
+      "description": "This week, we cancel our early celebrations at the news of Nigel Farage’s resignation, given that he announced in the same breath he would be standing in the very by-election he triggered…Another one?! While Nish is off on a glamorous sidequest, Coco’s joined by guest host journalist Zoë Grünewald to make sense of this latest stunt from Nige. Is this a political gamble that will pay off, or a final act of desperation? Also on the show, we look to Ankara, where world leaders have descended for the latest NATO summit amidst rising geopolitical tensions... Author and foreign correspondent Hannah Lucinda Smith breaks down how warfare has changed, why we should be investing more in defence and what the presumptive PM Andy Burnham could do to get Britain back on track on the world stage. USEFUL LINKS Buy Hannah’s book! https://www.waterstones.com/book/hinterlands/hannah-lucinda-smith/9781805225416 Sunday Times Investigation into ‘Daddy’ Farage and ‘Posh George’: https://www.thetimes.com/uk/politics/article/revealed-nigel-farage-secretly-funded-by-convicted-criminal-j0brtrlnk GUESTS Hannah Lucinda Smith CHECK OUT THESE DEALS FROM OUR SPONSORS WISE: https://www.wise.com SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is an Intelligence Squared production for Crooked Media. We’ll be doing another mailbag episode soon so get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43732803/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8925412.mp3?modified=1783537703&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4551",
+      "speakers": [
+        "Runs Again",
+        "Hannah Lucinda Smith",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "sleaze",
+        "election",
+        "farage",
+        "resigns",
+        "runs",
+        "world",
+        "hannah",
+        "lucinda",
+        "smith"
+      ]
+    },
     {
       "key": "1d1d137114c2918e5b037f390e0fc72149de86a6",
       "title": "No10 in the North: Andy Burnham’s Manchester mission... Plus, is ‘free speech’ just a free pass for tech bros?",
@@ -3959,6 +3988,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-09 — ‘The Sleaze By-Election’: Farage Resigns…and Runs Again?! Plus, World War Three is here w/ Hannah Lucinda Smith — speakers: Runs Again, Hannah Lucinda Smith, Nish Kumar, Coco Khan
 - 2026-07-02 — No10 in the North: Andy Burnham’s Manchester mission... Plus, is ‘free speech’ just a free pass for tech bros? — speakers: Andy Burnham, Following Andy Burnham, Nish Kumar, Coco Khan
 - 2026-06-25 — Starmer Resigns! Listen up, Labour: Lessons learned from the Trump trap w/ Ben Rhodes — speakers: Ben Rhodes, Nish Kumar, Coco Khan
 - 2026-06-18 — Makerfield decides, Labour holds its breath…Plus, Palestine Action & Social Media bans w/ Akiko Hart — speakers: Akiko Hart, Nish Kumar, Coco Khan

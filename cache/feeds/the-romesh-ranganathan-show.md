@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-07-07T15:13:53+00:00`
-- checked_at: `2026-07-07T15:13:53+00:00`
-- last_modified: `Tue, 07 Jul 2026 12:13:03 GMT`
+- fetched_at: `2026-07-09T04:13:08+00:00`
+- checked_at: `2026-07-09T04:13:08+00:00`
+- last_modified: `Wed, 08 Jul 2026 23:10:31 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-07T15:13:53+00:00",
+  "fetched_at": "2026-07-09T04:13:08+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ba8d84474904abedcb47aca7549a018acbd8f315",
+      "title": "Why Does Shanthi Have Beef With Idris Elba?",
+      "published_at": "2026-07-08T23:01:00+00:00",
+      "link": null,
+      "description": "What is Shanthi's beef with Idris Elba? In this Thursday episode of The Romesh Ranganathan Show, Shanthi and Romesh revisit Shanthi's ongoing vendetta against actor Idris Elba. We also tackle your listener dilemmas and Shanthi opens up about what helped her rebuild her life after losing her husband. Elsewhere, Romesh and Shanthi debate manifestation, test their Wimbledon knowledge, and reveal their celebrity crushes. From self-care and self-belief to country music and comedy, it's another classic Thursday episode with Shanthi with plentry of Ranganthan roasting in between. A Ranga Bee Production in partnership with Platform. Chapters 00:00 Intro 02:06 Manifestation with Shanthi 06:04 A country introduction 07:52 A production decision 09:04 Shanthi loves country and silk 10:10 Shanthi burns Romesh 11:55 Rom roasts the team 13:35 Shania Twain’s fashion advice 15:06 Shanthi’s grandma tactics 18:41 Shanthi’s self care advice 22:25 A Wimbledon quiz 32:46 Some advice on being a widow 40:00 The Ranganathan celebrity crushes 44:50 Shanthi’s beef with Idris Elba 56:24 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/85207de6-79f7-11f1-bbf3-4bf17a41b0cb/image/6b512207eb367affa94fccabbbcf0cc1.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5610937318.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3612",
+      "speakers": [
+        "Idris Elba",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "beef",
+        "idris",
+        "elba"
+      ]
+    },
     {
       "key": "d4a6fa758194a5881aa1bf780ac1a8be8eb59a06",
       "title": "Shania Twain On Harry Styles, Losing Her Voice & Country Music",
@@ -1898,6 +1920,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-08 — Why Does Shanthi Have Beef With Idris Elba? — speakers: Idris Elba, Romesh Ranganathan
 - 2026-07-05 — Shania Twain On Harry Styles, Losing Her Voice & Country Music — speakers: Harry Styles, Romesh Ranganathan
 - 2026-07-01 — Growing Up With An Eye Condition & Can Vegans Do This? — speakers: Romesh Ranganathan
 - 2026-06-28 — Jemaine Clement On Flight of the Conchords, Marmite & British Comedy — speakers: Jemaine Clement, Romesh Ranganathan
