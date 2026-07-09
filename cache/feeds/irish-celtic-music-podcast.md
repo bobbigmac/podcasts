@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-07-08T14:40:44+00:00`
-- checked_at: `2026-07-08T14:40:44+00:00`
-- etag: `"bee6ef7926b84347527e2cdbe4ebc3a3"`
-- last_modified: `Wed, 08 Jul 2026 11:35:05 GMT`
+- fetched_at: `2026-07-09T09:57:57+00:00`
+- checked_at: `2026-07-09T09:57:57+00:00`
+- etag: `"addfa3b97864d6208ab5b00be3024fe0"`
+- last_modified: `Thu, 09 Jul 2026 08:44:53 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-07-08T14:40:44+00:00",
+  "fetched_at": "2026-07-09T09:57:57+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -27,6 +27,26 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "bd474f4d36d02e8ad3f79b2563036dbbda6d44c8",
+      "title": "Fortune's Stormwrecked Fairie's #765",
+      "published_at": "2026-07-09T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/fortunes-stormwrecked-fairies-765",
+      "description": "Grab your pint and settle into the snug, because this week's show is stacked with fairies, rovers, and one seriously stormwrecked lass. It's the Irish & Celtic Music Podcast #765. - - Subscribe now at CelticMusicPodcast.com ! Tulua, Alisa Marie, Maggie MacInnes, Alexis Chartrand & Nicolas Babineau, Jim Moray, Avourneen, Seán - Pól O Peatáin, MacCumhaill and the Gang, Christine Weir, Colin Steele, Slugger's Rule, Tan & Sober Gentlemen feat. Mason Via, Bang on the Ear, Some One's Sons, Margaret Davis GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! THIS WEEK IN CELTIC MUSIC 0:02 - Intro: Morgan Ging at Ballykeefe Distillery 0:47 - Tulua – \"Michael Relihan's / Rigney's / Cap and Bells (Reels)\" from In The Snug 4:07 - WELCOME 5:30 - Alisa Marie – \"King of the Fairies: Ambient Forest Mix\" from King of the Fairies: Ambient Forest Mix (2 - Track Single) 7:41 - Maggie MacInnes – \"Nì Mhic Ailein, na bì' n èud rium\" from Uiseagan Bharraigh 11:46 - Alexis Chartrand & Nicolas Babineau – \"Soucy\" from Écoutez tous 15:21 - Jim Moray – \"Fortune Turns The Wheel\" from Gallants 18:16 - FEEDBACK 25:54 - Avourneen – \"Lakes of Killarney\" from Way Stations 30:03 - Seán - Pól O Peatáin – \"Amergin\" 34:34 - MacCumhaill and the Gang – \"Andy's Bar\" from 2 42:05 - Christine Weir – \"Stormwrecked\" from single 46:35 - Colin Steele – \"Declaration of Arbroath\" from Stramash II 55:18 - THANKS 57:11 - Slugger's Rule – \"I'm a Rover\" from Clusterfolk 59:53 - Tan & Sober Gentlemen feat. Mason Via – \"Rock Salt and Nails\" 1:03:13 - Bang on the Ear – \"XX (Twenty)\" from Highland Road 1:06:17 - Some One's Sons – \"The Boom is Back (Radio Edit)\" 1:09:40 - CLOSING 1:10:46 - Margaret Davis – \"Seagull of the Land - Under - Waves\" from The Elder Lass 1:13:32 - CREDITS Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Hank Woodward. Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. Support for this program comes from John Sharkey White, II. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Finally, remember: plastic isn't just a waste problem, it's a climate problem. Most plastic is made from oil and gas, and producing it releases greenhouse gases at every step. This July, take part in Plastic Free July . Swap single use plastics for reusable bags, bottles, and containers. Solar and wind are now the cheapest power sources in history. Cutting plastic is another way to shrink demand for the fossil fuels behind it. Reduce your waste this month, one choice at a time. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories, where I share stories behind my songs and those of other Celtic and folk musicians. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email the artists to let them know you heard them on the Irish & Celtic Music Podcast. As with all things, it is important to support our community, whether that is local or in a small niche we love like \"Celtic music\". Skip the big corporate businesses and bands. Instead, spend your money where it will make a difference. You can do that with each of the artists on today's show OR your favorite artists. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . ALBUM PINS ARE CHANGING THE WAY WE HEAR CELTIC MUSIC Looking for a fresh way to support the music you love? Meet the Album Pin. Album Pins are lapel pins themed to a specific album — and each one comes with a digital download. Wear your music. All of my latest pins are wood - burned and locally produced, which means a smaller footprint and a one - of - a - kind feel you won't find anywhere else. Pick yours up at magerecords.com THANK YOU PATRONS OF THE PODCAST! We're approaching 21 years of the Irish & Celtic Music Podcast. Since day one, this show has relied on the generosity of kind people like you. You inspire me to keep hunting down new music, interviews and stories from our community. So I can keep sharing this show with you. I am so grateful to you. Thank you so much. As a patron, you get episodes before regular listeners. You get patron - only episodes like the Highlight Reel that came out last week. You get to vote in the Celtic Top 20 to help us collect the absolute best songs and tunes of the year into one magnificent end - of - year episode. And you keep this show running. A special thanks to our Celtic Legends who pledge $30 or more per month: Alan Schindler, Brian McReynolds, Bruce, Dan mcDade, Daniel Ide, Dave and Rosie Donnelly, Fuzzy, Gary R Hook, Gerald F Boyle, Jeff A, Kelly Garrod, Lynda MacNeil, Margreta Silverstone, Marti Meyers, Mike Schock, Miranda Nelson, Rick Boyce, Shawn Cali HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $30. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. Learn more about the Celtic Invasion of Hiking the Isle of Skye in 2027 at http://celticinvasion.com/ #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo. If you're in a Celtic band, send me an audio recording of you performing live. Just audio. I'll use it in a podcast episode later this year. Email me at follow@bestcelticmusic. Laura Grantham replied to my email about 'How do you celebrate Celtic culture through music?'. She wrote: \"I practice my Irish by listening to Celtic Music as gaeilge at least once a week\" Kent Hansen emailed: \"Dear Marc and Todd,, I've been listening to the Irish and Celtic music podcast for years now using Podbean as my pod catcher but every once and a while it doesn't seem to get the current show, right now the most recent one they have is April 2nd. I realize that there's other ways to listen to the podcast but I'm also trying to listen to every old one I can and I still have a couple of hundred to go through and I'd hate to start over. Not sure how any of that works, but in the very least I thought you should know.\" And finally, just after our July 4th celebrations… Patrick VanHorn emailed: \"Keep speaking up for America. Hi Mark, I've been a listener for years, albeit always for free. But today, after listening to episode 749 - Celtic Protest Songs - I knew I had to finally become a paid subscriber. Thank you for introducing me to new Celtic performers. And thank you for speaking up for America. Slainte!\"",
+      "image_url": "https://static.libsyn.com/p/assets/d/4/d/8/d4d8454757e0f2d216c3140a3186d450/765-Fortune_s_Stormwrecked_Fairies-Colin_Steele-1400.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-765.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72086111",
+      "itunes_duration": "01:15:05",
+      "speakers": [
+        "Marc Gunn"
+      ],
+      "topics": [
+        "fortune",
+        "stormwrecked",
+        "fairie"
+      ]
+    },
     {
       "key": "66436a6588422e926d497fb5730b018b0e24a195",
       "title": "Dancing in Belfast #764",
@@ -16339,6 +16359,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-09 — Fortune's Stormwrecked Fairie's #765 — speakers: Marc Gunn
 - 2026-06-25 — Dancing in Belfast #764 — speakers: Marc Gunn
 - 2026-06-18 — Celtic Blood and Burning Roads #763 — speakers: Marc Gunn
 - 2026-06-11 — Socks in the Frying Pan Interview #762 — speakers: Frying Pan, Celtic Music Podca, Marc Gunn

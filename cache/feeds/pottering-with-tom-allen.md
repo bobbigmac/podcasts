@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-07-02T09:31:37+00:00`
-- checked_at: `2026-07-02T09:31:37+00:00`
+- fetched_at: `2026-07-09T09:57:57+00:00`
+- checked_at: `2026-07-09T09:57:57+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 02 Jul 2026 04:10:39 GMT`
+- last_modified: `Thu, 09 Jul 2026 04:08:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-02T09:31:37+00:00",
+  "fetched_at": "2026-07-09T09:57:57+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,24 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c6f6d2213a0e263726b3fe1ec266129bdc9cf200",
+      "title": "The Clippings: Part 1",
+      "published_at": "2026-07-09T04:00:00+00:00",
+      "link": null,
+      "description": "Here’s something a little different for Pottering this week! ☀️ I thought I would hop on to share a few thoughts from the garden, ‘sans guest’ , if you will. And while the podcast takes a little summer holiday, I have gathered together some of my favourite moments from the second series to share with you all too. 🌱 I love welcoming you wonderful listeners, and viewers of course, into my garden each week. Whether you spend your days merrily mulching the borders or regularly find yourself wondering when the houseplants last had a drink, everyone is welcome here, and I would be delighted to hear from you. Like and subscribe of course, but also why not share your floral creations with me on Instagram? Tag @tomindeed and use the hashtag #PotteringPod to get involved! Wouldn’t it be wonderful to fill our social feeds with hanging baskets and glorious garden goodies! 🌸 So, slip into your shorts, pause that episode of The Real Housewives, and join me once again for some Pottering. 🪴 -- Click below to discover QVC’s My Garden Escape, whether you're a seasoned gardener or a horticultural novice, it's your ultimate gardening destination. And don’t forget to use the code POTTER for £10 off your first purchase (minimum spends apply, see QVC website for full terms and conditions) https://www.qvcuk.com/content/garden-and-leisure/my-garden-escape.html?cid=PR-IF-Pottering&e22=MGE Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR9651702799.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5051",
+      "speakers": [
+        "Tom Allen"
+      ],
+      "topics": [
+        "clipping"
+      ]
+    },
     {
       "key": "81968813cc5e7cab86a44bb1850468e087b105e5",
       "title": "Henry Agg",
@@ -886,6 +904,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-09 — The Clippings: Part 1 — speakers: Tom Allen
 - 2026-07-02 — Henry Agg — speakers: Henry Agg, Tom Allen
 - 2026-06-25 — Ginger Johnson — speakers: Ginger Johnson, Tom Allen
 - 2026-06-22 — Philippa Perry — speakers: Philippa Perry, Tom Allen

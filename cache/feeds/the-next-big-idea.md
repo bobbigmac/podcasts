@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-07-02T09:31:37+00:00`
-- checked_at: `2026-07-02T09:31:37+00:00`
-- last_modified: `Thu, 02 Jul 2026 09:00:00 GMT`
+- fetched_at: `2026-07-09T09:57:57+00:00`
+- checked_at: `2026-07-09T09:57:57+00:00`
+- last_modified: `Thu, 09 Jul 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-02T09:31:37+00:00",
+  "fetched_at": "2026-07-09T09:57:57+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,47 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "286b2757570c2f9fb368e8f93df50422b40befb0",
+      "title": "What If Saving the Planet Could Be Fun?",
+      "published_at": "2026-07-09T09:00:00+00:00",
+      "link": null,
+      "description": "Despite decades of urgency and alarm, progress on climate change has felt frustratingly slow. What if we've been going about it all wrong? Elizabeth Dunn and Jiaying \"JZ\" Zhao think there's a missing ingredient in the conversation: joy. In their new book, Leave the Lights On , Liz and JZ draw on psychology, behavioral science, and sustainability research to argue that the most effective climate solutions aren't rooted in guilt, fear, or self-denial. They're rooted in easy choices that also make your life better. Today on the show: why doom-and-gloom messaging backfires, what bacon dipped in maple syrup has to do with saving the planet, how buying more underwear might just protect our species, and why the choices that help most are also the ones that make us happier. *** Chapters: (00:00) Introduction (02:23) Why Climate Fear Backfires (09:24) The Case for Making Meat a Treat (17:44) The BLT Climate Paradox (20:53) The Hidden Climate Cost of Your Bank Account (23:50) Fast Fashion, Slow Happiness (31:10) Why Driving Makes Us Unhappy (39:08) The Best Trips Are Closer Than You Think (45:24) The Science of Social Tipping Points (49:41) The Climate Power of a Single Vote About the Guests: Elizabeth Dunn is a professor of psychology at the University of British Columbia and one of the world's leading researchers on happiness and well-being. Her work explores how people can use their time, money, and relationships to build more satisfying lives. Jiaying Zhao is a professor of psychology and the founder of the Behavioral Sustainability Lab at the University of British Columbia. Her research focuses on climate action, behavioral change, and the role of psychology in accelerating the transition to a more sustainable future. *** 🎥 The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠⁠here⁠⁠⁠⁠ . 📱Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠⁠podcast@nextbigideaclub.com⁠⁠. 🎁 The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠⁠nextbigideaclub.com⁠⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). 🔗 SPONSORED BY: IM8 ➡️ Athletes, doctors, David Beckham — they all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at ⁠im8health.com/nbi⁠ Northwest Registered Agent ➡️ They’ve been helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at ⁠northwestregisteredagent.com/nbifree⁠ Shopify ➡️ Stop waiting for permission to build something. Your next revenue stream starts free at ⁠shopify.com/nbi⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP4650166366.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3504",
+      "speakers": [
+        "What If Saving",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "saving",
+        "planet"
+      ]
+    },
+    {
+      "key": "365eac87b4e5473b5c29df034465498ec4acf850",
+      "title": "How to Live a Long and Useful Life",
+      "published_at": "2026-07-06T09:00:00+00:00",
+      "link": null,
+      "description": "Publisher, scientist, humorist, diplomat — Benjamin Franklin was America's first polymath. Today, with help from Eric Weiner, we revisit Franklin's life, searching for tips about how to be healthy, wealthy, and wise. This episode first aired in July 2024. 🎥 The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠⁠here⁠⁠⁠⁠ . 📱Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠⁠podcast@nextbigideaclub.com⁠⁠. 🎁 The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠⁠nextbigideaclub.com⁠⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). 🔗 SPONSORED BY: IM8 ➡️Athletes, doctors, David Beckham — they all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at ⁠im8health.com/nbi⁠ Northwest Registered Agent ➡️ They’ve been helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at ⁠northwestregisteredagent.com/nbifree⁠ Shopify ➡️ Stop waiting for permission to build something. Your next revenue stream starts free at ⁠shopify.com/nbi⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP2946476717.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3462",
+      "speakers": [
+        "Benjamin Franklin",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "life"
+      ]
+    },
     {
       "key": "f98895c5851465a8e1b49a63a8d85e3947875a11",
       "title": "As America Turns 250, Are You in the Mood to Celebrate?",
@@ -8028,6 +8069,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-09 — What If Saving the Planet Could Be Fun? — speakers: What If Saving, Rufus Griscom, Caleb Bissinger
+- 2026-07-06 — How to Live a Long and Useful Life — speakers: Benjamin Franklin, Rufus Griscom, Caleb Bissinger
 - 2026-07-02 — As America Turns 250, Are You in the Mood to Celebrate? — speakers: America Turns, Rufus Griscom, Caleb Bissinger
 - 2026-06-29 — THE GOD TEST (Part 2): Can Humanity Pass the Cosmic Reckoning? — speakers: Robert Wright, Rufus Griscom, Caleb Bissinger
 - 2026-06-25 — THE GOD TEST (Part 1): Are You Ready for Superintelligence? — speakers: Rufus Griscom, Caleb Bissinger
