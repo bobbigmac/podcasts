@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-07-04T16:15:19+00:00`
-- checked_at: `2026-07-04T16:15:19+00:00`
-- etag: `"djEuMi4wOjE3ODMxODA4Mzk0MjI="`
+- fetched_at: `2026-07-09T15:32:47+00:00`
+- checked_at: `2026-07-09T15:32:47+00:00`
+- etag: `"djEuMi4wOjE3ODM2MDkxNzY4NDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-07-04T16:15:19+00:00",
+  "fetched_at": "2026-07-09T15:32:47+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "c565863e09ffa16499f007ea858e56da982bd6f7",
+      "title": "Farage's Clacton distraction",
+      "published_at": "2026-07-09T14:59:36+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/farages-clacton-distraction",
+      "description": "Nigel Farage, pollings' current front runner to win the next general election, has resigned as an MP. However, he plans to stand as a candidate in the by-election this move will trigger. Labour, the Lib Dems and the Tories have labelled this a “stunt” and won’t stand in the contest. Meanwhile, Andy Burnham is continuing to prepare for power… Tom McTague is joined by Ailbhe Rea and Ethan Croft to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1783607849651-785b0144-03b9-42cc-9e7e-3cd7b8ce2bde.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a4fb1fdbac9fe581176369a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "134563135",
+      "itunes_duration": "56:01",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "farage",
+        "clacton",
+        "distraction"
+      ]
+    },
     {
       "key": "1d94248f2214b52880ad4819c18416f69da3fbe7",
       "title": "Nigel Farage has lost his aura",
@@ -31744,6 +31765,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-09 — Farage's Clacton distraction — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-07-04 — Nigel Farage has lost his aura — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-07-02 — "Startlingly transactional" – Burnham prepares for power — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-06-29 — “Westminster is broken”: Andy Burnham sets out his leadership plan — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore

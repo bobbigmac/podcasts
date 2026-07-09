@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-07-06T04:38:18+00:00`
-- checked_at: `2026-07-06T04:38:18+00:00`
-- etag: `"djEuMi4wOjE3ODMzMTIyMzkzMzE="`
+- fetched_at: `2026-07-09T15:32:47+00:00`
+- checked_at: `2026-07-09T15:32:47+00:00`
+- etag: `"djEuMi4wOjE3ODM2MDM4MzkzNTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-07-06T04:38:18+00:00",
+  "fetched_at": "2026-07-09T15:32:47+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a473562e1a1c97fae3ecec59fc157a3b7ac44eca",
+      "title": "Troy - Caravan Of Garbage",
+      "published_at": "2026-07-09T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/troy-caravan-of-garbage",
+      "description": "We continue our epic and cinematic journey towards Christopher Nolan's The Odyssey by taking a look at a second inspiration behind his adaptation. This time it's Troy from 2004 from director Wolfgang Peterson. Loosely based on Homer's Iliad and the story of the Trojan War it pits (pun intended) Brad Pitt's Achilles against Eric Bana's Hector, Orlando Blooms Paris against Brendan Gleeson's Menelaus, a city of stupid people against a horse and a whole lot more. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a4227939fa27d16aeae42fb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27730366",
+      "itunes_duration": "26:53",
+      "speakers": [
+        "Christopher Nolan",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "troy",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "a099772848f5928d1912d9db0aa041199f907a5f",
       "title": "630 Best/Worst Comic Adaptations & The Death of Physical Media",
@@ -55,7 +77,7 @@
     },
     {
       "key": "5f8df415c403bf84824fbc2ad3aeb45864a60546",
-      "title": "Jason and the Argonauts (Extended) - Caravan Of Garbage",
+      "title": "Jason and the Argonauts - Caravan Of Garbage",
       "published_at": "2026-07-02T13:30:00+00:00",
       "link": "https://shows.acast.com/theweeklyplanet/episodes/jason-and-the-argonauts-extended-caravan-of-garbage",
       "description": "By way of Christopher Nolan, The Odyssey is hitting cinemas in July, an epic fantasy action bonanza based on Homer's Odyssey. Its use of scale and practical effects harken back to the movies and stories he grew up on, including this one, Jason and the Argonauts from 1963. Featuring groundbreaking effects from stopmotion and dynomation wizard Ray Harryhausen, he considers it the pinnacle of his work, with the giant bronze statue Talos, the seven headed Hydra and of course the skeleton battle sequence. Join us this week and the next two as we explore more of the inspirations behind The Odyssey and thanks for watching our Caravan Of Garbage review. SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Video Edition ► Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
@@ -72,7 +94,6 @@
       "topics": [
         "jason",
         "argonauts",
-        "extended",
         "caravan",
         "garbage"
       ]
@@ -22640,8 +22661,9 @@
 
 ## Episodes (newest first)
 
+- 2026-07-09 — Troy - Caravan Of Garbage — speakers: Christopher Nolan, James Clement, Nick Mason
 - 2026-07-06 — 630 Best/Worst Comic Adaptations & The Death of Physical Media — speakers: Worst Comic Adaptations, Physical Media Incredible, James Clement, Nick Mason
-- 2026-07-02 — Jason and the Argonauts (Extended) - Caravan Of Garbage — speakers: Christopher Nolan, James Clement, Nick Mason
+- 2026-07-02 — Jason and the Argonauts - Caravan Of Garbage — speakers: Christopher Nolan, James Clement, Nick Mason
 - 2026-06-29 — 629 Supergirl! — speakers: James Gunn, Millie Alcock, James Clement, Nick Mason
 - 2026-06-25 — The Flash - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-06-22 — 628 Toy Story 5 — speakers: Toy Story, Toy Stor, James Clement, Nick Mason

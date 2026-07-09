@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-07-02T14:28:37+00:00`
-- checked_at: `2026-07-02T14:28:37+00:00`
-- etag: `"25a790-655a13b2d378c"`
-- last_modified: `Thu, 02 Jul 2026 14:00:31 GMT`
+- fetched_at: `2026-07-09T15:32:47+00:00`
+- checked_at: `2026-07-09T15:32:47+00:00`
+- etag: `"25bb47-6562e0bd0bf1f"`
+- last_modified: `Thu, 09 Jul 2026 14:00:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-07-02T14:28:37+00:00",
+  "fetched_at": "2026-07-09T15:32:47+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,27 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "b0ade68d0d4b9fb276d24fc4927ca1b3ca1b061b",
+      "title": "How celebrities like Taylor Swift are fighting back against AI deepfakes",
+      "published_at": "2026-07-09T14:00:00+00:00",
+      "link": "https://theconversation.com/taylor-swift-joins-celebrities-using-the-law-to-fight-back-against-ai-deepfakes-287082",
+      "description": "When Taylor Swift launched her latest album, The Life of a Showgirl, in October 2025, she recorded two short clips to promote it. One for Amazon Music began with “Hey, it’s Taylor Swift”. Another, for Spotify with “Hey, it’s Taylor”. These two phrases may sound a little mundane, but they’re now at the frontline of a legal fightback by celebrities like Swift against AI deepfakes. In April, Swift’s intellectual property company, TAS Right Management, applied to the US Patent and Trademark office to trademark them as registered sound marks, along with a photo of her, from her recent Eras tour. In this episode, we speak to intellectual property expert Graeme Austin , a professor of law at the University of Melbourne and chair of private law at Victoria University of Wellington to understand why Swift took this route, and the different ways celebrities are trying to protect themselves against AI deepfakes. And if you’re not a celebrity with a large legal team, what can you do? This episode was written and produced by Gemma Ware and Mend Mariwany. Mixing by Michelle Macklem and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/029dbb52-02db-45a9-aeb5-3f3319429e70.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36178172",
+      "itunes_duration": "25:07",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "celebrity",
+        "taylor",
+        "swift",
+        "deepfake"
+      ]
+    },
     {
       "key": "9965052d5e7e69ad4eeeaa4b0a43ef71a92f8dd2",
       "title": "The anatomy of a super El Niño",
@@ -6056,6 +6077,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-09 — How celebrities like Taylor Swift are fighting back against AI deepfakes — speakers: Gemma Ware
 - 2026-07-02 — The anatomy of a super El Niño — speakers: Gemma Ware
 - 2026-06-25 — Cockroach party hits nerve with angry young Indians — speakers: Gemma Ware
 - 2026-06-18 — Teens are still on social media, but does that mean Australia's ban has failed? — speakers: When Australia, Gemma Ware

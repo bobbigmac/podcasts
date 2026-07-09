@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "cae9ec7e92b50855341f1814af6226cdcfaf0f40",
+        "episode_key": "cae9ec7e92b50855341f1814af6226cdcfaf0f40",
+        "title": "Josh Widdicombe XFM #57 – Acaster Phones In, Adam Hills & Alex Brooker, Nish Kumar",
+        "published_at": "2026-07-07T19:48:32Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Adam Hills & Alex Brooker join Josh in the studio, Nish Kumar has another entry for Nishipedia and James Acaster phones in.Broadcast on 4th August 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO8048244792.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-57-acaster-phones-in-adam-hills/id1866254969?i=1000775852833&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:afe0f37d3942",
         "feed_title": "The Daily Heretic",
         "source_rss_url": "https://feeds.megaphone.fm/OTEP5129963398",
