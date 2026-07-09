@@ -27278,6 +27278,28 @@
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "f20dc6fe858e9c74ab481773079d02c5eeac0399",
+        "episode_key": "f20dc6fe858e9c74ab481773079d02c5eeac0399",
+        "title": "Josh Widdicombe XFM #60 Edinburgh Fringe 2014 - James Acaster Classic Scrape 33, Nish Kumar",
+        "published_at": "2026-07-08T19:53:12Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Live from the second night of the Edinburgh Fringe Festival 2014. The panel features James Acaster (with a Classic Scrape), Nish Kumar, Suzi Ruffell, Matthew Crosby and John Robins.Broadcast on 12th August 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO5701626005.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-60-edinburgh-fringe-2014-james/id1866254969?i=1000776023223&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
         "dedupe_key": "03a9083e7f49b2a59dc48e71b393ff996d817a25",
         "episode_key": "03a9083e7f49b2a59dc48e71b393ff996d817a25",
         "title": "Josh Widdicombe XFM #58 – Mike Wozniak Returns, Tom Rosenthal, Nish Kumar",
