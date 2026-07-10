@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-07-07T10:00:07+00:00`
-- checked_at: `2026-07-07T10:00:07+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RNME1EQTBNems0TURrPTo6c2F4ZXNz"`
+- fetched_at: `2026-07-10T09:52:27+00:00`
+- checked_at: `2026-07-10T09:52:27+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RNMk5UazJNemswTURZPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-07-07T10:00:07+00:00",
+  "fetched_at": "2026-07-10T09:52:27+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2a2764a66a8bf006903d3e28733bf404a9d2017c",
+      "title": "Strava Caught Me Sh*gging | And William is a FAKE",
+      "published_at": "2026-07-10T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/strava-caught-me-shgging-and-william-is-a-fake",
+      "description": "What do you do when your Strava detects some 'unusual activity' from the comfort of your own home? And how do you deal with the fact your best friend is turning into a FAKE?! The boys deal with both of these conundrums, plus tackle tacky birthday parties and some classic tumble dryer chat. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Download SAILY in your app store and use the Sexted code HOLIDAYEXPERT at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/holidayexpert Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1783590598781-97b21bba-ad92-4bc0-8822-726f0ef917d4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a4e722b2243a5cc8d8afb39/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=xFCR_Znqbzeav1pMK3uxTrk3ZorzSivz98LbYJ0qm60",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25223836",
+      "itunes_duration": "26:16",
+      "speakers": [
+        "Strava Caught Me",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "strava",
+        "william"
+      ]
+    },
     {
       "key": "6f1edb12fd16df8f609bd523aa21a66972170d05",
       "title": "Help I’m A Feminist | And What’s Your Body Count?",
@@ -14630,6 +14651,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-10 — Strava Caught Me Sh*gging | And William is a FAKE — speakers: Strava Caught Me, William Hanson, Jordan North
 - 2026-07-07 — Help I’m A Feminist | And What’s Your Body Count? — speakers: William Hanson, Jordan North
 - 2026-07-03 — The Beef With Wendi Continues… And Jordan’s New Aroma — speakers: Wendi Continues, William Hanson, Jordan North
 - 2026-06-30 — Help I’ve Scalded My A***hole | And Wendi’s Reply… — speakers: William Hanson, Jordan North

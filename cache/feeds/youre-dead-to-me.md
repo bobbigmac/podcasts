@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-07-03T09:34:33+00:00`
-- checked_at: `2026-07-03T09:34:33+00:00`
-- etag: `"47cb8e607ed2e50f339cf6c23974b8b0"`
-- last_modified: `Fri, 03 Jul 2026 05:00:07 GMT`
+- fetched_at: `2026-07-10T09:52:27+00:00`
+- checked_at: `2026-07-10T09:52:27+00:00`
+- etag: `"947472092e83af96b0a829d1ed60debb"`
+- last_modified: `Fri, 10 Jul 2026 05:00:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-07-03T09:34:33+00:00",
+  "fetched_at": "2026-07-10T09:52:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,26 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "99b8e14e91d028c82e20da8552360f8e3049e886",
+      "title": "El Cid (Radio Edit)",
+      "published_at": "2026-07-10T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nq0v9p",
+      "description": "Greg Jenner is joined in medieval Spain by historian Professor Nora Berend and comedian Toussaint Douglass to learn about the colourful life and afterlife of the warrior known as El Cid. El Cid – real name Rodrigo Díaz – was a mercenary in eleventh-century Spain who fought for both Christian kings and Muslim rulers before setting himself up as ruler of Valencia. This episode explores his dramatic life in the period before religious divisions were key on the Iberian Peninsula, and an ambitious warrior might fight for whoever would pay him. It then traces the legend that grew up around him after his death, taking in the medieval romances written about El Cid, the surprising role his bones played in the Napoleonic wars, his appropriation by General Franco after the Spanish Civil War, and even the classic Hollywood film starring Charlton Heston and Sophia Loren. This is a radio edit of the original podcast episode. For the full-length version, please look further back in the feed. Hosted by: Greg Jenner Research by: Adam Simcox Written by: Adam Simcox, Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": null,
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nq0tr8.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27136000",
+      "itunes_duration": "1696",
+      "speakers": [
+        "Greg Jenner",
+        "Nora Berend"
+      ],
+      "topics": [
+        "radio",
+        "edit"
+      ]
+    },
     {
       "key": "9741804315076679a460bff369a63392d179f6a6",
       "title": "Empress Dowager Cixi (Radio Edit)",
@@ -6032,6 +6052,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-10 — El Cid (Radio Edit) — speakers: Greg Jenner, Nora Berend
 - 2026-07-03 — Empress Dowager Cixi (Radio Edit) — speakers: Greg Jenner, Yangwen Zheng
 - 2026-06-26 — History of the Telephone (Radio Edit) — speakers: Greg Jenner, Iwan Morus
 - 2026-06-24 — Announcing Series 12 — speakers: Greg Jenner

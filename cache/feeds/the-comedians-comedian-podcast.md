@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-07-09T15:32:47+00:00`
-- checked_at: `2026-07-09T15:32:47+00:00`
-- etag: `"djEuMi4wOjE3ODM2MDMxNjI0NjY="`
+- fetched_at: `2026-07-10T09:52:27+00:00`
+- checked_at: `2026-07-10T09:52:27+00:00`
+- etag: `"djEuMi4wOjE3ODM2NTk2MzkzNTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-07-09T15:32:47+00:00",
+  "fetched_at": "2026-07-10T09:52:27+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b7bb1677ebb515240a125f07821e04caf4ae8447",
+      "title": "Joe Sutherland",
+      "published_at": "2026-07-10T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/514-joe-sutherland",
+      "description": "Joe Sutherland is a stand-up, actor and writer with sold out runs at the Edinburgh Fringe who has appeared on Roast Battle and Hypothetical , acted opposite 30 Rock's Jack McBrayer on Urban Myths, and picked up a walk-on role on EastEnders as a Head Judge of a Walford beauty competition! Joe has also done tour support for the likes of Sophie Duker and Ellie Taylor, as well as RuPaul's Drag Race stars Trixie Mattel, Alyssa Edwards, Kate Butch and Sasha Velour. In this episode, we discuss: our shared history with a youth drama club being smuggled into a comedy club as a child by his dad to see comics he now performs alongside the process of piling up one-liners then organising with a throughline choosing to lean into being perceived as an effeminate gay man rather than let others weaponise that perception first refusing to soften material for straight audiences and we find out if Joe is happy... Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to exclusive extras where we discuss how doing stand-up on a gay cruise saved Joe's life after lockdown. 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Joe: You can find Joe on Instagram @jomodity , and keep up-to-date on future live dates at joesutherland.co.uk . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content with Joe ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE ON TOUR , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1783602704121-10c3b706-8317-4ed4-a2b6-86b3ab0b06eb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a4f9fda81fe1f64602d1284/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106609536",
+      "itunes_duration": "1:14:02",
+      "speakers": [
+        "Joe Sutherland Joe Sutherland",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "sutherland"
+      ]
+    },
     {
       "key": "95252e079b45048ee4e2078a7a8f7a18402df3ec",
       "title": "Sasheer Zamata (2017): ComCompendium",
@@ -11576,6 +11595,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-10 — Joe Sutherland — speakers: Joe Sutherland Joe Sutherland, Stuart Goldsmith
 - 2026-07-03 — Sasheer Zamata (2017): ComCompendium — speakers: Sasheer Zamata, Stuart Goldsmith
 - 2026-06-25 — Amy Annette — speakers: Amy Annette Amy Annette, Thick Skin, Stuart Goldsmith
 - 2026-06-18 — Joe Wells — speakers: Joe Wells Joe Wells, Stuart Goldsmith

@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-06-19T05:23:51+00:00`
-- checked_at: `2026-06-19T05:23:51+00:00`
-- last_modified: `Fri, 19 Jun 2026 04:07:23 GMT`
+- fetched_at: `2026-07-10T09:52:27+00:00`
+- checked_at: `2026-07-10T09:52:27+00:00`
+- last_modified: `Fri, 10 Jul 2026 04:07:38 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-19T05:23:51+00:00",
+  "fetched_at": "2026-07-10T09:52:27+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,143 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "56c94fe34cf3a0162ff618b202af02263d2c4227",
+      "title": "The World Cup, Rosie's First Tattoo and is there a Priest Listening?",
+      "published_at": "2026-07-10T04:01:00+00:00",
+      "link": null,
+      "description": "World Cup Fever has reached The Ramsey Household! The couple discuss The Mexico game and how they feel about Erling Haaland! Rosie has had her eyebrows done, Chris witnessed a man in need of a car, and the pair go down a True Crim rabbit hole!. There's beefs, religion, an embarrassing moment at a Baby Shower and Rosie shares a story from the public... but it sounds quite familiar! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8675795884.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4184",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "world",
+        "rosie",
+        "priest",
+        "listening"
+      ]
+    },
+    {
+      "key": "02fc02311db7891cd499d5f639ea52d41e626633",
+      "title": "Please Keep Me Anonymous with Charlie Baker",
+      "published_at": "2026-07-08T04:00:00+00:00",
+      "link": null,
+      "description": "On this week's podcast Chris and Rosie are joined by comedian Charlie Baker! Charlie and Rosie bond over their love of Musical Theatre and share what it’s like being the singer in the family! The trio discuss bad Edinburgh shows, the time that Charlie got forked off stage and why he thinks everyone should do stand up once in their life! Charlie also parts some marriage advice and reveals that he’s a tap dancer as well as a singer and a comedian (a triple threat!) . All this plus a brilliant story from one of you lot! To book tickets to Charlie's 'Go Get it' tour visit linktr.ee/charliebakercomedian If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b4fe3908-7a07-11f1-9400-171296a30b37/image/b4c7a470e407a8c2fb0d3e74b1c67e25.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9153235442.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2706",
+      "speakers": [
+        "Charlie Baker",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "charlie",
+        "baker"
+      ]
+    },
+    {
+      "key": "905df18ef3d483257aeacae6b51f74bf52c4f089",
+      "title": "Another Stag Do, A Little Accident and Memories of Snogging Strangers",
+      "published_at": "2026-07-03T03:51:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed, Chris has been on yet ANOTHER trip. This one involved a lot of Guinness, a lost passport and an early exit. The pair discuss trouser shorts, arm tights, losing airpods and and what happens when you take a good banana through airport security. All of this plus some brilliant beefs, (foot wash anyone?) a verruca update, some Mormon Wife correspondence and a BJJ injury. If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3894275952.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3775",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "stag",
+        "little",
+        "accident",
+        "memories",
+        "snogging",
+        "strangers"
+      ]
+    },
+    {
+      "key": "245126dc64b31c856c0868e5d4b8541dfb6cb60d",
+      "title": "Please Keep Me Anonymous with Russell Kane",
+      "published_at": "2026-07-01T03:56:00+00:00",
+      "link": null,
+      "description": "On today's podcast Chris and Rosie are joined by comedian, author and actor, Russell Kane! The trio discuss Sanddancers, life as an omnivert, and an unforgettable night in Berlin! Russell chats about his kids book When Brian Met Terry and his upcoming role as Romeo in the forth coming production of Romeo and Juliet which is takes place in September at The New Vic in Newcastle-under-Lyme. All of this plus a nostalgic look back to when Russell and Chris first met and a brilliant Please Keep Me Anonymous story! For tickets to Romeo and Juliet newvictheatre.org.uk/book-tickets You can find both Russell's Children's books - Pet Selector and When Brian Met Terry at all good bookshops and online. If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/443bd872-746e-11f1-b44a-eb1480330cd2/image/6bae87a05e8759164d24ba681d474d1e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR1866268076.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3016",
+      "speakers": [
+        "Russell Kane",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "russell",
+        "kane"
+      ]
+    },
+    {
+      "key": "41cff33c20452617f4aad249d8aa1713fed144e0",
+      "title": "Father's Day, Party Bags and Chris has a Full Medical",
+      "published_at": "2026-06-26T06:08:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed Chris and Rosie Ramsey provide an alternative to party bags, could a bucket full of pound coins be the way forward? Chris has some Father's day beef and he reveals the results of his latest medical. Rosie shares fears that she had at the kids sports day and explains why Chris can't ever get his ear's pierced. As well as this there's BBQ chat, new Pj's and a potential 20 minute set about tin foil! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8235277688.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3294",
+      "speakers": [
+        "Party Bags",
+        "Annoyed Chris",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "father",
+        "party",
+        "bags",
+        "chris",
+        "medical"
+      ]
+    },
+    {
+      "key": "a23d58692b54a99389bb6c4ce0528cab8b485bd3",
+      "title": "Please Keep Me Anonymous with Natalie Cassidy",
+      "published_at": "2026-06-24T04:03:00+00:00",
+      "link": null,
+      "description": "On this week's podcast Chris and Rosie Ramsey are joined by actress, podcaster and all round brilliant Natalie Cassidy! The three discuss favourite swear words, life after Eastenders and what it's like having a teenage daughter. Natalie reads a great Please Keep Me Anonymous story and tells Chris and Rosie why she loved performing at The Mighty Hoopla! Natalie also talks about what inspired her to make the documentary series, Natalie Cassidy: Caring Together whereby she sets out to get a Health and Social Care qualification. And if she wasn't busy enough she also has a podcast called Life With Nat . On the pod Natalie talks to various members of her family about the realties of every day life! You can find Natalie Cassidy: Caring Together on BBC Iplayer or click here: Natalie Cassidy: Caring Together Life with Nat is available wherever you get your podcasts! If you want to get involved and have your stories and voice notes included on Shagged Married Annoyed, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/494686de-6e4f-11f1-b607-ef429689cf11/image/b2db109868d0dbe7af26b06bd77cf2b2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR4507111905.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2302",
+      "speakers": [
+        "Natalie Cassidy",
+        "Rosie Ramsey",
+        "Chris Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "natalie",
+        "cassidy"
+      ]
+    },
     {
       "key": "8fcedef47e6dd617d1085ca7ade3fa61a9d208de",
       "title": "Mock the Week, Hotel Parties, and will Chris Weep or Faint?",
@@ -8595,6 +8732,12 @@
 
 ## Episodes (newest first)
 
+- 2026-07-10 — The World Cup, Rosie's First Tattoo and is there a Priest Listening? — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-07-08 — Please Keep Me Anonymous with Charlie Baker — speakers: Charlie Baker, Chris Ramsey, Rosie Ramsey
+- 2026-07-03 — Another Stag Do, A Little Accident and Memories of Snogging Strangers — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-07-01 — Please Keep Me Anonymous with Russell Kane — speakers: Russell Kane, Chris Ramsey, Rosie Ramsey
+- 2026-06-26 — Father's Day, Party Bags and Chris has a Full Medical — speakers: Party Bags, Annoyed Chris, Rosie Ramsey, Chris Ramsey
+- 2026-06-24 — Please Keep Me Anonymous with Natalie Cassidy — speakers: Natalie Cassidy, Rosie Ramsey, Chris Ramsey
 - 2026-06-19 — Mock the Week, Hotel Parties, and will Chris Weep or Faint? — speakers: Chris Weep, Chris Ramsey, Rosie Ramsey
 - 2026-06-17 — Please Keep Me Anonymous with Ed Gamble — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-06-12 — 90's Parenting, a Golf Trip, and the start of Rosie's Caravan Campaign — speakers: Golf Trip, Chris Ramsey, Rosie Ramsey

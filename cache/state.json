@@ -23,8 +23,8 @@
       "last_modified": "Fri, 10 Jul 2026 04:07:07 GMT"
     },
     "films-to-be-buried-with": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656831,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677152,
       "last_modified": "Wed, 24 Jun 2026 07:19:00 GMT"
     },
     "adam-buxton": {
@@ -65,9 +65,9 @@
       "etag": "\"djEuMi4wOjE3NjgwNjczMjU5Mzg=\""
     },
     "shagged-married-annoyed": {
-      "last_checked_at": "2026-06-19T05:23:51+00:00",
-      "last_checked_unix": 1781846652,
-      "last_modified": "Fri, 19 Jun 2026 04:07:23 GMT"
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677152,
+      "last_modified": "Fri, 10 Jul 2026 04:07:38 GMT"
     },
     "elis-james-john-robins": {
       "last_checked_at": "2026-04-08T16:21:00+00:00",
@@ -94,9 +94,9 @@
       "etag": "\"djEuMi4wOjE3ODE2ODg1NTc1OTQ=\""
     },
     "help-i-sexted-my-boss": {
-      "last_checked_at": "2026-07-07T10:00:07+00:00",
-      "last_checked_unix": 1783418413,
-      "etag": "\"ZGpFdU1pNHdPakUzT0RNME1EQTBNems0TURrPTo6c2F4ZXNz\"",
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677154,
+      "etag": "\"ZGpFdU1pNHdPakUzT0RNMk5UazJNemswTURZPTo6c2F4ZXNz\"",
       "consecutive_failures": 0
     },
     "have-a-word": {
@@ -255,14 +255,14 @@
       "etag": "\"djEuMi4wOjE3ODM0MjE3MjUzNzI=\""
     },
     "oxventure-a-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656822,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677151,
       "last_modified": "Thu, 16 Apr 2026 22:42:22 GMT",
       "consecutive_failures": 0
     },
     "page-94-the-private-eye-podcast": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656822,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677150,
       "etag": "W/\"412cf3e69418c8dada6bc8d03cd31c2a\"",
       "last_modified": "Tue, 30 Jun 2026 14:46:24 GMT"
     },
@@ -302,8 +302,8 @@
       "last_modified": "Wed, 08 Jul 2026 01:07:11 GMT"
     },
     "taskmaster-the-podcast": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656829,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677150,
       "etag": "\"d96c2-655b323f352e6\"",
       "last_modified": "Fri, 03 Jul 2026 11:22:30 GMT"
     },
@@ -324,9 +324,9 @@
       "etag": "\"7aeed082ea8b9b62cb64f6d0f246e57f\""
     },
     "the-comedians-comedian-podcast": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656829,
-      "etag": "\"djEuMi4wOjE3ODM2MDMxNjI0NjY=\""
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677151,
+      "etag": "\"djEuMi4wOjE3ODM2NTk2MzkzNTU=\""
     },
     "the-conversation-weekly": {
       "last_checked_at": "2026-07-09T15:32:47+00:00",
@@ -345,8 +345,8 @@
       "last_modified": "Thu, 09 Jul 2026 09:00:00 GMT"
     },
     "the-rest-is-entertainment": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656829,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677151,
       "last_modified": "Wed, 08 Jul 2026 23:10:11 GMT",
       "consecutive_failures": 0
     },
@@ -365,13 +365,13 @@
       "disabled_reason": "3 consecutive failures"
     },
     "the-rewind-podcast": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656829,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677151,
       "etag": "W/\"1871c-hZIb2V3becsX+Zep1b4S4X+hzgc\""
     },
     "the-romesh-ranganathan-show": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656829,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677152,
       "last_modified": "Wed, 08 Jul 2026 23:10:31 GMT",
       "consecutive_failures": 0
     },
@@ -403,10 +403,10 @@
       "last_modified": "Mon, 06 Jul 2026 23:50:12 GMT"
     },
     "youre-dead-to-me": {
-      "last_checked_at": "2026-07-03T09:34:33+00:00",
-      "last_checked_unix": 1783071288,
-      "etag": "\"47cb8e607ed2e50f339cf6c23974b8b0\"",
-      "last_modified": "Fri, 03 Jul 2026 05:00:07 GMT"
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677157,
+      "etag": "\"947472092e83af96b0a829d1ed60debb\"",
+      "last_modified": "Fri, 10 Jul 2026 05:00:21 GMT"
     },
     "the-damage-guild-a-d-d-podcast": {
       "last_checked_at": "2026-06-17T22:53:03+00:00",
@@ -420,8 +420,8 @@
       "last_modified": "Thu, 09 Jul 2026 22:08:17 GMT"
     },
     "the-damage-guild-a-pathfinder-2e-podcast": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656844,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677156,
       "last_modified": "Mon, 06 Jul 2026 04:01:00 GMT",
       "consecutive_failures": 0
     },
@@ -441,8 +441,8 @@
       "etag": "\"djEuMi4wOjE3ODM0Njg4Mzk0Nzg=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656847,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677156,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -469,8 +469,8 @@
       "last_modified": "Sun, 05 Apr 2026 08:32:03 GMT"
     },
     "my-time-capsule": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656847,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677159,
       "etag": "\"djEuMi4wOjE3ODM2MzgxNTkyOTA=\""
     },
     "the-moon-under-water": {
@@ -479,8 +479,8 @@
       "etag": "\"djEuMi4wOjE3NjkwOTUzMDkxMTc=\""
     },
     "the-rest-is-politics": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656847,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677159,
       "last_modified": "Thu, 09 Jul 2026 05:05:10 GMT"
     },
     "chatabix": {
@@ -497,8 +497,8 @@
       "last_modified": "Tue, 16 Jun 2026 08:52:02 GMT"
     },
     "socially-distant-sports-bar": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656854,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677159,
       "etag": "\"djEuMi4wOjE3ODM2Mzk1Mzk0NDA=\""
     },
     "comedy-of-the-week": {
@@ -619,8 +619,8 @@
       "consecutive_failures": 0
     },
     "peacock-and-gamble": {
-      "last_checked_at": "2026-07-10T04:13:38+00:00",
-      "last_checked_unix": 1783656831,
+      "last_checked_at": "2026-07-10T09:52:27+00:00",
+      "last_checked_unix": 1783677159,
       "consecutive_failures": 0
     },
     "best-of-fubar": {
@@ -629,5 +629,5 @@
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-07-10T04:13:38+00:00"
+  "updated_at": "2026-07-10T09:52:27+00:00"
 }
