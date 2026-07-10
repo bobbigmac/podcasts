@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-07-03T19:49:06+00:00`
-- checked_at: `2026-07-03T19:49:06+00:00`
-- etag: `"1affa6808ca42a83a0626a77baa19ddf"`
-- last_modified: `Fri, 03 Jul 2026 18:00:05 GMT`
+- fetched_at: `2026-07-10T19:50:42+00:00`
+- checked_at: `2026-07-10T19:50:42+00:00`
+- etag: `"78634edadc5b9aad971896d69277a264"`
+- last_modified: `Fri, 10 Jul 2026 18:00:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
-  "fetched_at": "2026-07-03T19:49:06+00:00",
+  "fetched_at": "2026-07-10T19:50:42+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "b799b9a1f789a7b0d26f8989f31837f61935361d",
+      "title": "Dead Ringers Ep4. Much Ado About North-ing",
+      "published_at": "2026-07-10T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nvmxnt",
+      "description": "Like Andy Burnham’s No.10, Dead Ringers is in the North, at the Crossed Wires Podcast Festival in Sheffield. This week: Chris Mason is giddy, Zia Yusuf is everywhere, and The Rest is Politics has gone mad for it. Starring Jon Culshaw, Jan Ravens, Duncan Wisbey and Kieran Hodgson. Produced by Jon Holmes Executive Producer: Richard Morris Production Co-ordinator: Giulia Lopes Mazzu A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nwqh5h.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27488000",
+      "itunes_duration": "1718",
+      "speakers": [
+        "Ado About North-ing",
+        "Andy Burnham"
+      ],
+      "topics": [
+        "dead",
+        "ringers",
+        "north"
+      ]
+    },
     {
       "key": "a183342523e39beabb079052676b9e88313758bf",
       "title": "Dead Ringers: Ep3. Heat, Hydration, and Harry Kane",
@@ -5449,27 +5470,6 @@
         "ringers",
         "july"
       ]
-    },
-    {
-      "key": "829b1ea6024ee559cba2a9ff60a14604861c6d9d",
-      "title": "Dead Ringers, 9th July, 2021",
-      "published_at": "2021-07-09T18:05:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09ny3yb",
-      "description": "Labour’s Angela Rayner has some unusual items for the team at The Repair Shop, and there’s a unique perspective on Andy Murray’s personal life. With Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson and Duncan Wisbey. Written by:- Nev Fountain & Tom Jamieson, Laurence Howarth, Ed Amsden & Tom Coles, James Bugg, Simon Alcock, Sophie Dickson, and Athena Kugblenu. Producer: Bill Dare Production Coordinator: Sarah Sharpe A BBC Studios Production for Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09ny1y1.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "28000000",
-      "itunes_duration": "1750",
-      "speakers": [
-        "Dead Ringers",
-        "Angela Rayner"
-      ],
-      "topics": [
-        "dead",
-        "ringers",
-        "july"
-      ]
     }
   ]
 }
@@ -5478,6 +5478,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-10 — Dead Ringers Ep4. Much Ado About North-ing — speakers: Ado About North-ing, Andy Burnham
 - 2026-07-03 — Dead Ringers: Ep3. Heat, Hydration, and Harry Kane — speakers: Harry Kane
 - 2026-06-26 — Dead Ringers: Ep2. Makerfield Maketh Man
 - 2026-06-19 — Dead Ringers: Ep1. Keir vs Kemi — speakers: Dead Ringers, World Cup
@@ -5736,4 +5737,3 @@
 - 2021-08-06 — Party's Over: ep3 New Party 6th August 2021 — speakers: New Party, Prime Minister
 - 2021-08-02 — Party's Over: ep2 Road Trip 30th July 2021 — speakers: Road Trip, Prime Minister
 - 2021-07-16 — Dead Ringers, 16th July, 2021 — speakers: Dead Ringers
-- 2021-07-09 — Dead Ringers, 9th July, 2021 — speakers: Dead Ringers, Angela Rayner
