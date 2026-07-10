@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-07-06T20:14:00+00:00`
-- checked_at: `2026-07-06T20:14:00+00:00`
-- etag: `W/"3a119-3+8HLTdbv8+0SZSiaRW2LY9JuY0"`
+- fetched_at: `2026-07-10T17:06:57+00:00`
+- checked_at: `2026-07-10T17:06:57+00:00`
+- etag: `W/"3a84b-YLcETDtObuo3OuCGXLq+9UPbT6Y"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-07-06T20:14:00+00:00",
+  "fetched_at": "2026-07-10T17:06:57+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,28 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "ba8b6121712521592e93490db268a2618e24d671",
+      "title": "What Are We Doing Here, Xbox? | Firelink Podcast",
+      "published_at": "2026-07-10T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/What-Are-We-Doing-Here--Xbox---Firelink-Podcast-e3lt069",
+      "description": "This week on Firelink, KC and Marty chat about the recent update in Xbox's big studio reset. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/122633865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-10%2F3591814d-fe25-4372-f7dc-a506b34acfc2.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "142789280",
+      "itunes_duration": "01:39:09",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "xbox",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "f383e9dab137dae2bece7929647ab8cef6a0b0ec",
       "title": "PlayStation Just Dealt Game Preservation a Massive Blow | Firelink Podcast",
@@ -2985,6 +3007,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-10 — What Are We Doing Here, Xbox? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-07-03 — PlayStation Just Dealt Game Preservation a Massive Blow | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-06-26 — The Road to GTA 6 Has Begun | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-06-19 — The Xbox News Is Infuriating, Devastating, and Exhausting | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
