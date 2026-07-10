@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-09T04:13:08+00:00`
-- checked_at: `2026-07-09T04:13:08+00:00`
-- etag: `"djEuMi4wOjE3ODM1NDE3OTkxMjc="`
+- fetched_at: `2026-07-10T04:13:38+00:00`
+- checked_at: `2026-07-10T04:13:38+00:00`
+- etag: `"djEuMi4wOjE3ODM2NTIyNTk0MDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-09T04:13:08+00:00",
+  "fetched_at": "2026-07-10T04:13:38+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d2e3ce567dbd701416a106045593623f2747809e",
+      "title": "Joe Wells and Abigoliah Schamaun on Neurodivergent Moments - Book Club",
+      "published_at": "2026-07-10T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #187 - Neurodivergent Moments - Richard chats to Joe and Abigoliah about their book of humorous essays, Neurodivergent Moments. They discuss whether neurodivergence is an advantage as a comedian, why you can hate being in crowds, but love performing in front of crowds, how comedy remains the best way to educate people without them noticing, why this book is nonetheless primarily about making jokes rather than teaching lessons (but still does both jobs), what masking involves and why it is necessary, how risk taking can present itself in having loads of sex with strangers and why it’s OK to make mistakes about this kind of stuff, as long as you’re genuinely interested in learning about it. Here’s all the places you can buy the book https://linktr.ee/ndm_book SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1783539388652-2f6e4df6-6649-4084-bca1-e414c9d2fad3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a4ea6c1f8a80edf85f3dcac/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24408607",
+      "itunes_duration": "50:51",
+      "speakers": [
+        "Joe Wells",
+        "Abigoliah Schamaun",
+        "Richard Herring"
+      ],
+      "topics": [
+        "wells",
+        "abigoliah",
+        "schamaun",
+        "neurodivergent",
+        "moments",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "ec4708ea7f70c993fc9a2858f1ee8caa19d53441",
       "title": "Mitch Benn (Part 1) - \"Wild-Eyed Loner at the Gates of Oblivion\"",
@@ -23114,6 +23140,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-10 — Joe Wells and Abigoliah Schamaun on Neurodivergent Moments - Book Club — speakers: Joe Wells, Abigoliah Schamaun, Richard Herring
 - 2026-07-08 — Mitch Benn (Part 1) - "Wild-Eyed Loner at the Gates of Oblivion" — speakers: Mitch Benn, Wild-Eyed Loner, Richard Herring
 - 2026-07-06 — Suggs (Retro) - "Back of the Head With a Plastic Cup" — speakers: Richard Herring
 - 2026-07-04 — Rich and Ally's Craven Newsround Compilation "Farage’s Treasure" — speakers: Craven Newsround Compilation, Richard Herring

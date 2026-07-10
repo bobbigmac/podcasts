@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-07-09T15:32:47+00:00`
-- checked_at: `2026-07-09T15:32:47+00:00`
-- etag: `"djEuMi4wOjE3ODM2MDU0NjM3OTA="`
+- fetched_at: `2026-07-10T04:13:38+00:00`
+- checked_at: `2026-07-10T04:13:38+00:00`
+- etag: `"djEuMi4wOjE3ODM2MzgxNTkyOTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-07-09T15:32:47+00:00",
+  "fetched_at": "2026-07-10T04:13:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7c7b976c74b877312d1b9669e72f665f462718f2",
+      "title": "My Time Capsule The Dig - Ep. 10 - With Robert Bathurst (Cold Feet, Toast of London, Downton Abbey)",
+      "published_at": "2026-07-09T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-10-with-robert-bathurst-cold-feet",
+      "description": "Robert Bathurst was our guest in episode 41 and he returns to have a chat about his old time capsule and let us know where he wants it buried! Robert Bathurst is best known for his roles in Cold Feet , Downton Abbey , Joking Apart , Toast of London and Wild at Heart . Also, Mike and his producer and son John chat about this weeks MTC guest Tony Cantwell and they interact with listeners via email and voice memos . Listen to Robert Bathurst's orignal episode - https://mytimecapsulepodcast.com/episodes?q=41 . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1783605204129-1ba005b5-9886-4d70-a17f-fae522c647d3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a4fa8d7f8a80edf853df4f5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71422871",
+      "itunes_duration": "59:30",
+      "speakers": [
+        "Robert Bathurst"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "robert",
+        "bathurst",
+        "cold",
+        "feet",
+        "toast",
+        "london",
+        "downton",
+        "abbey"
+      ]
+    },
     {
       "key": "a8580c246179099fb3891cce4d41f136c3797961",
       "title": "Ep. 592 - Tony Cantwell - From Last One Laughing Ireland on Amazon Prime, hosted by Graham Norton",
@@ -12933,6 +12960,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-09 — My Time Capsule The Dig - Ep. 10 - With Robert Bathurst (Cold Feet, Toast of London, Downton Abbey) — speakers: Robert Bathurst
 - 2026-07-05 — Ep. 592 - Tony Cantwell - From Last One Laughing Ireland on Amazon Prime, hosted by Graham Norton — speakers: Graham Norton, Tony Cantwell
 - 2026-07-02 — My Time Capsule The Dig - Ep. 9 - With Garrett Millerick! (Creator of Radio 4's Do Gooders with Frank Skinner) — speakers: Frank Skinner, Garrett Millerick
 - 2026-06-28 — Ep. 591 - Remmie Milner - Shirley Campbell in Apple TV+’s Silo & Lena in His Dark Materials — speakers: Shirley Campbell, Remmie Milner, Rebecca Fergu

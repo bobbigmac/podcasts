@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-07-08T03:43:39+00:00`
-- checked_at: `2026-07-08T03:43:39+00:00`
-- etag: `"djEuMi4wOjE3ODM0Njg1OTkzODE="`
+- fetched_at: `2026-07-10T04:13:38+00:00`
+- checked_at: `2026-07-10T04:13:38+00:00`
+- etag: `"djEuMi4wOjE3ODM2Mzk1Mzk0NDA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-07-08T03:43:39+00:00",
+  "fetched_at": "2026-07-10T04:13:38+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "4883a08ea7cb26ce0e111ac8cecfe0164b222e3d",
+      "title": "The Exeter CEOs LIVE",
+      "published_at": "2026-07-09T23:25:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/the-exeter-ceos-live",
+      "description": "Welcome the Socially Distant Sports Bar with Elis James, Mike Bubbins and Steff Garrero. This is the second half of our live show from the Hackney Empire on Wednesday 8th April , with special guest Charlie Baker . Charlie is a comedian, actor, singer and sports fan who brings exactly the sort of live-wire energy this podcast needs when it is standing on a stage, looking out at a crowd of dozens, and pretending not to notice the empty seats. Have a listen to the first half, The Hackney Half LIVE , before you listen to this one. Clips Steff: The Race https://www.instagram.com/reel/DWtxZ-uiIbz/?igsh=YzNsdHB2NnYybWpv Mike: Rugby League https://www.instagram.com/reel/DWTHZpsgZRT/?igsh=Y3d4M2x5c2x5azB0 Charlie: Easy https://www.youtube.com/watch?v=9nBSd1U18vM If you want to see us live in October, we’re in Clapham on the 10th : https://www.tickettailor.com/events/cheerfulearful/2105328 That’s it for the regular feed this week. If you want MORE , subscribe to Distant Pod Bonus Club on Apple Podcasts. This week’s bonus is My Hard Work And Nature , a Q&A with Mike and Elis answering questions from subscribers. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1783325050652-1ca96d99-75e1-4733-84b9-86628255a8c0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a4b6221634ace2d2deb2de5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89543040",
+      "itunes_duration": "37:18",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "exeter"
+      ]
+    },
     {
       "key": "effe8c1efb67d81c9b1db301db5de24c42303ff2",
       "title": "The Hackney Half LIVE",
@@ -15301,6 +15321,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-09 — The Exeter CEOs LIVE — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-07 — The Hackney Half LIVE — speakers: Description Welcome, Socially Distan, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-04 — S Your Pants: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-02 — Navy Blue Fleece Bikini — speakers: Elis James, Mike Bubbins, Steff Garrero

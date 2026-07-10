@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-07-08T03:43:39+00:00`
-- checked_at: `2026-07-08T03:43:39+00:00`
-- etag: `"djEuMi4wOjE3ODM0ODA4MzkyNDA="`
+- fetched_at: `2026-07-10T04:13:38+00:00`
+- checked_at: `2026-07-10T04:13:38+00:00`
+- etag: `"djEuMi4wOjE3ODM2NTM2MzkyODg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-07-08T03:43:39+00:00",
+  "fetched_at": "2026-07-10T04:13:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "003ba2a38d70043383522ae6d3c7a945d4b436f2",
+      "title": "GUZ KHAN (Mission Impossible / Guardians... / Westworld) • Friday Rewind",
+      "published_at": "2026-07-10T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Guz Khan , originally episode 185 from 2018-01-24. Original writeup below: Mad entertaining from start to end, as Pip sits down with Guz for a truly matey chat but which brings out the best of both! They were first acquainted back around a year ago on set on the upcoming ‘ Walk Like A Panther ’, where they behaved like naughty schoolkids on set by all accounts, and this is a catchup / roundup / ahead look at what Guz is involved with - a huge amount it turns out, and a wide range of topics get handled, such as Guz being new to the whole celebrity life and how surreal it can be (down to the weirdness of having a team), the importance of vibes on set and getting on with the crew, how he was essentially raised by three strong women and how that shaped his personality and humour, the art of storytelling, outrage vs laughing it off, teaching and how moments of discussion and clarity are so important to catch and build on, getting the tone right in filming in his hometown and creating a friendly space to do so, and just a whole ton more… Oh, and his new show ‘ Man Like Mobeen ’ on BBC3! Massive. PIP'S PATREON PAGE if you're of a supporting nature IMDB INSTAGRAM BAIT PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1783603591900-88b556b1-21e4-486c-8a4f-1fe0205e44c7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a4fa2f80be8a677170d1cd2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "158680582",
+      "itunes_duration": "1:06:02",
+      "speakers": [],
+      "topics": [
+        "khan",
+        "mission",
+        "impossible",
+        "guardians",
+        "westworld",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "82980194a4e85b1e775c3a44461cbba021553ea2",
       "title": "TOMO CAMPBELL • Live @ Harry Styles' Meltdown (Southbank Centre, London) #679",
@@ -19158,6 +19180,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-10 — GUZ KHAN (Mission Impossible / Guardians... / Westworld) • Friday Rewind
 - 2026-07-08 — TOMO CAMPBELL • Live @ Harry Styles' Meltdown (Southbank Centre, London) #679 — speakers: Harry Styles
 - 2026-07-03 — POM KLEMENTIEFF (Mission Impossible / Guardians... / Westworld) • Friday Rewind
 - 2026-07-01 — MARK WATSON • "You must be tired!" (Before It Overtakes Us / Murder Of A Famous Bastard / No More Jockeys) #678
