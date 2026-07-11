@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-07-01T10:13:09+00:00`
-- checked_at: `2026-07-01T10:13:09+00:00`
-- etag: `"djEuMi4wOjE3ODI4OTMwMTg3MzY="`
+- fetched_at: `2026-07-11T13:53:43+00:00`
+- checked_at: `2026-07-11T13:53:43+00:00`
+- etag: `"djEuMi4wOjE3ODM1MzQ0NTk0NzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-07-01T10:13:09+00:00",
+  "fetched_at": "2026-07-11T13:53:43+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9e4134ece76622b7c413c3fb225e033687e806a3",
+      "title": "EP.278 - ROB AUTON",
+      "published_at": "2026-07-08T18:14:28+00:00",
+      "link": "https://shows.acast.com/adambuxton/episodes/ep278-rob-auton",
+      "description": "Adam walks along London's Regent's Canal with British comedian, artist, writer and actor Rob Auton and talks about Rob's creative process, winning a best joke award at the Edinburgh Fringe for a joke he no longer tells, his upbringing as the son of a plumber and a baker and how his background informs his appreciation for the everyday, infinite universes, the value of taking artistic risks, and reading out reviews for his live shows while they're being written. Conversation recorded face-to-face walking by Regent’s Canal between Shoreditch, King’s Cross and Camden on 17 October, 2024. CONTAINS STRONG LANGUAGE SUBMIT QUESTIONS FOR A Q&A EPISODE : Adambuxtonpodcast@gmail.com Thanks to Diggory Waite and Claire Broughton at Hattrick and Séamus Murphy Mitchell for production support. Podcast illustration by Helen Green RELATED LINKS ROB AUTON WEBSITE - Tour dates etc. THE FIRST DARK IMAGE OF BACON'S DEATH - 2008 (The Guardian) ADAM ON WHERE THERE'S A WILL THERE'S A WAKE - 2026 (YouTube) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1783533691828-1d065ec8-eab8-4dac-b20c-f4512a63b900.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/6a4e937b1c8f5a97d86fc6b5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "140397081",
+      "itunes_duration": "58:29",
+      "speakers": [
+        "Rob Auton",
+        "Adam Buxton"
+      ],
+      "topics": [
+        "auton"
+      ]
+    },
     {
       "key": "237cdf36b035e6570c3ca23812e9866c17fc0229",
       "title": "EP.277 - SARA COX",
@@ -5673,6 +5692,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-08 — EP.278 - ROB AUTON — speakers: Rob Auton, Adam Buxton
 - 2026-07-01 — EP.277 - SARA COX — speakers: Sara Cox, Adam Buxton
 - 2026-06-24 — EP.276 - LOUIS THEROUX — speakers: Louis Theroux, Adam Buxton
 - 2026-06-16 — EP.275 - KATHY BURKE — speakers: Kathy Burke, Adam Buxton
