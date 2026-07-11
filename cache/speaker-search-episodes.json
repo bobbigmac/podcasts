@@ -5,6 +5,28 @@
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "16fe2258be21edf464b6735eab803e61dc5d0f10",
+        "episode_key": "16fe2258be21edf464b6735eab803e61dc5d0f10",
+        "title": "Josh Widdicombe XFM #65 – James Acaster, Lucy Beaumont",
+        "published_at": "2026-07-10T10:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster joins josh to further discuss the cabbaging saga and Lucy Beaumont is in the studio for a game of Call My Josh.15st September 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO3551628295.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-65-james-acaster-lucy-beaumont/id1866254969?i=1000776247070&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
         "dedupe_key": "96e8eff2a54346c8bc9a155c89d398fbb3d462d6",
         "episode_key": "96e8eff2a54346c8bc9a155c89d398fbb3d462d6",
         "title": "Josh Widdicombe XFM #61 Edinburgh Fringe 2014 - James Acaster Classic Scrape 34, Tim Key, Nish Kumar",
