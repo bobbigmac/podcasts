@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-10T04:13:38+00:00`
-- checked_at: `2026-07-10T04:13:38+00:00`
-- etag: `"djEuMi4wOjE3ODM2NTIyNTk0MDI="`
+- fetched_at: `2026-07-11T16:09:53+00:00`
+- checked_at: `2026-07-11T16:09:53+00:00`
+- etag: `"djEuMi4wOjE3ODM3NzkyMzA1MTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-10T04:13:38+00:00",
+  "fetched_at": "2026-07-11T16:09:53+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2accaf3be81e95438d33d79287ee5b266af8a0e5",
+      "title": "Rich and Ally's Craven Newsround Compilation \"Old Red Eye is Back\"",
+      "published_at": "2026-07-11T14:13:47+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Monday 6th July 2026 - Old Red Eye is Back - Rich has got out of his sick bed to bring you all the news that you won’t hear on the lamestream media. Today finally Pizza Express has done an investigation to find out whether Andrew Battenberg-Cake came there in March 2001 and the results are frankly astonishing. We hear from the man himself to see where his life may go now. Tuesday 7th July 2026 - Farage Above the Garage - Rich and Ally are back with breaking news about Farage’s resignation and Richard’s health. The badinage is strong. The news is balanced and unbiased. Wednesday 8th July 2026 - Imagine There’s a Heaven - Rich and Ally are back tacking the really big news stories that others are too scared to handle. Today they report on what happens when you die and get a report direct from Heaven to see if that idea is correct. Friday 10th July 2026 - Stamford Brook - It’s the last Newsround for a little while as the team head off for a much deserved holiday, but we’re covering a big story - the cock infested Reading Embroidery. Should the British Museum keep it or should it be censored. Expect some strong opinions and a factually dubious song. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1783778846782-3880b9d6-3ac9-4e93-a1c4-61e2d0aa7d8e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a524f9ec2f78bb689c1a05c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34431168",
+      "itunes_duration": "1:11:43",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "Old Red Eye",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation"
+      ]
+    },
     {
       "key": "d2e3ce567dbd701416a106045593623f2747809e",
       "title": "Joe Wells and Abigoliah Schamaun on Neurodivergent Moments - Book Club",
@@ -23140,6 +23163,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-11 — Rich and Ally's Craven Newsround Compilation "Old Red Eye is Back" — speakers: Craven Newsround Compilation, Old Red Eye, Richard Herring
 - 2026-07-10 — Joe Wells and Abigoliah Schamaun on Neurodivergent Moments - Book Club — speakers: Joe Wells, Abigoliah Schamaun, Richard Herring
 - 2026-07-08 — Mitch Benn (Part 1) - "Wild-Eyed Loner at the Gates of Oblivion" — speakers: Mitch Benn, Wild-Eyed Loner, Richard Herring
 - 2026-07-06 — Suggs (Retro) - "Back of the Head With a Plastic Cup" — speakers: Richard Herring
