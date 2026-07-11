@@ -13816,6 +13816,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:f38cdf185337",
+        "feed_title": "The Guilty Feminist",
+        "source_rss_url": "https://feeds.megaphone.fm/APL9072247766",
+        "dedupe_key": "329a3a4f01ce24e36a73ffac6706d0311c0f83dd",
+        "episode_key": "329a3a4f01ce24e36a73ffac6706d0311c0f83dd",
+        "title": "18. Speech with Sally Phillips",
+        "published_at": "2016-08-22T11:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The Guilty Feminist Presented by Sofie Hagen and Deborah Frances-White\n Episode 18: Barriers and Boundaries with special guest Sally Phillips\n Recorded 4 July 2016 at Kings Place in London. Released 22 August 2016.\n Music by Mark Hodge and produced by Euan Maco McAleece.\n More about Sofie Hagen http://www.sofiehagen.co",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL7754291783.mp3?updated=1759266726",
+        "link_url": "https://podcasts.apple.com/gb/podcast/18-speech-with-sally-phillips/id1068940771?i=1000374414894&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:07db89d5fa64",
         "feed_title": "Saturday Live",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/b006qgj4.rss",
