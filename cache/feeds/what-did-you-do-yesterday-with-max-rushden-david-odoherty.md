@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-07-08T03:43:39+00:00`
-- checked_at: `2026-07-08T03:43:39+00:00`
-- etag: `"djEuMi4wOjE3ODM0Nzk2Mzk2Nzc="`
+- fetched_at: `2026-07-12T03:56:07+00:00`
+- checked_at: `2026-07-12T03:56:07+00:00`
+- etag: `"djEuMi4wOjE3ODM4MjUyMzkzODk="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-07-08T03:43:39+00:00",
+  "fetched_at": "2026-07-12T03:56:07+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6d25136f09a09fd4d244ccc476701342912c5914",
+      "title": "S5 EP4: Mike Rice",
+      "published_at": "2026-07-12T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s5-ep4-mike-rice",
+      "description": "Joining us on this episode of ' ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ What did you do yesterday? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ' is the comedian Mike Rice. We asked Mike what he did yesterday? He told us. That's it... enjoy! Are you ' IN IT FOR LIFE '? Sign up HERE if you are. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ @yesterdaypod ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1783464876886-ff132200-3d98-4f0b-8dd5-c4e383f4a17c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a4d95a542872185cc00799d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71351902",
+      "itunes_duration": "1:14:19",
+      "speakers": [
+        "Mike Rice",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "mike",
+        "rice"
+      ]
+    },
     {
       "key": "55bf00d51f08df1bfdda62b2f95cc6a381acde3e",
       "title": "WDWDY #78.1: Le Grande Gazpacho (Max's Yesterday)",
@@ -3677,6 +3698,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-12 — S5 EP4: Mike Rice — speakers: Mike Rice, Max Rushden, David O'Doherty
 - 2026-07-08 — WDWDY #78.1: Le Grande Gazpacho (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-07-05 — S5 EP3: Dan Tiernan — speakers: Dan Tiernan, Max Rushden, David O'Doherty
 - 2026-07-01 — WDWDY #77.1: The Humid-Centipede (David Yesterday) — speakers: Max Rushden, David O'Doherty
