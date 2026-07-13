@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-07-06T04:38:18+00:00`
-- checked_at: `2026-07-06T04:38:18+00:00`
-- last_modified: `Sun, 05 Jul 2026 23:00:17 GMT`
+- fetched_at: `2026-07-13T03:58:44+00:00`
+- checked_at: `2026-07-13T03:58:44+00:00`
+- last_modified: `Sun, 12 Jul 2026 23:00:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-06T04:38:18+00:00",
+  "fetched_at": "2026-07-13T03:58:44+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7d8e04ffdd1ab490fa979ed38e107e962bd059f2",
+      "title": "PHIL ELLIS: Fighting at School, Rik Mayall and Growing Up in Preston",
+      "published_at": "2026-07-12T23:00:00+00:00",
+      "link": null,
+      "description": "Taskmaster contestant and Edinburgh comedy legend Phil Ellis joins Seann Walsh to talk all things boyhood, including the influence of his comedy hero Rik Mayall (and a lovely story about when they met!), why he was constantly getting into fight as a young lad and what it was like living in Preston. See Phil at Edinburgh and on his Bath Mat tour ! See Seann on the Autumn leg of his This Is Torture! Tour Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL3745420982.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2849",
+      "speakers": [
+        "Rik Mayall",
+        "Phil Ellis",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "phil",
+        "ellis",
+        "school",
+        "mayall",
+        "preston"
+      ]
+    },
     {
       "key": "dce73ffbab88a79b450f37855b91fd5bb74734e3",
       "title": "NATALIE CASSIDY: Comedy Dreams, Rough Tabloid Treatment, Being Desperate To Leave School",
@@ -1645,6 +1669,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-12 — PHIL ELLIS: Fighting at School, Rik Mayall and Growing Up in Preston — speakers: Rik Mayall, Phil Ellis, Seann Walsh
 - 2026-07-05 — NATALIE CASSIDY: Comedy Dreams, Rough Tabloid Treatment, Being Desperate To Leave School — speakers: Comedy Dreams, Tabloid Treatment, Natalie Cassidy, Seann Walsh
 - 2026-07-05 — NATALIE CASSIDY: Being An Eastenders Icon at 10, Clubbing at 15 and Her Love of Art — speakers: Natalie Cassidy, Seann Walsh
 - 2026-06-21 — PETER SERAFINOWICZ: Buddhism, Therapy and How I Broke Into Showbiz — speakers: Peter Serafinowicz, Genius Impressionist, Seann Walsh

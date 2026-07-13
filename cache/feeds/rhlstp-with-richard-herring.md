@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-11T16:09:53+00:00`
-- checked_at: `2026-07-11T16:09:53+00:00`
-- etag: `"djEuMi4wOjE3ODM3NzkyMzA1MTA="`
+- fetched_at: `2026-07-13T03:58:44+00:00`
+- checked_at: `2026-07-13T03:58:44+00:00`
+- etag: `"djEuMi4wOjE3ODM5MTE0NTkzNzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-11T16:09:53+00:00",
+  "fetched_at": "2026-07-13T03:58:44+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b56daf92824b02c244eafad2065f3f5810e3fea1",
+      "title": "Rhys James (Retro) - \"Hungover Mastermind\"",
+      "published_at": "2026-07-13T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#442 Hungover Mastermind - Richard is basking in the possibly short-lived approval of one of his kids and is trying to make money off the ideas of the other one. His guest is Mock the Week favourite, Rhys James. They discuss the tallest building in Swindon, the worst place in Hertfordshire, writing right wing and left wing material on the same subject, what Richard said about Rhys when he saw him in a new act competition, the enduring problem of the last packet of crisps falling into a volcano, whether it’s better to have one ball or one kidney, wearing a tuxedo on Pointless, why people might think Rhys is deaf and more sad tales of romantic embarrassment. Come and see us live http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1783539825844-33db36d3-e281-4202-9990-bbfafe12849e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a4ea82c0be8a67717c30419/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32252447",
+      "itunes_duration": "1:07:11",
+      "speakers": [
+        "Rhys James",
+        "Richard Herring"
+      ],
+      "topics": [
+        "rhys",
+        "james",
+        "retro",
+        "hungover",
+        "mastermind"
+      ]
+    },
     {
       "key": "2accaf3be81e95438d33d79287ee5b266af8a0e5",
       "title": "Rich and Ally's Craven Newsround Compilation \"Old Red Eye is Back\"",
@@ -23163,6 +23186,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-13 — Rhys James (Retro) - "Hungover Mastermind" — speakers: Rhys James, Richard Herring
 - 2026-07-11 — Rich and Ally's Craven Newsround Compilation "Old Red Eye is Back" — speakers: Craven Newsround Compilation, Old Red Eye, Richard Herring
 - 2026-07-10 — Joe Wells and Abigoliah Schamaun on Neurodivergent Moments - Book Club — speakers: Joe Wells, Abigoliah Schamaun, Richard Herring
 - 2026-07-08 — Mitch Benn (Part 1) - "Wild-Eyed Loner at the Gates of Oblivion" — speakers: Mitch Benn, Wild-Eyed Loner, Richard Herring

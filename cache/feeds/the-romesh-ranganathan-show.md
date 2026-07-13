@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-07-12T16:10:56+00:00`
-- checked_at: `2026-07-12T16:10:56+00:00`
-- last_modified: `Sun, 12 Jul 2026 15:38:45 GMT`
+- fetched_at: `2026-07-13T03:58:44+00:00`
+- checked_at: `2026-07-13T03:58:44+00:00`
+- last_modified: `Sun, 12 Jul 2026 23:10:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-12T16:10:56+00:00",
+  "fetched_at": "2026-07-13T03:58:44+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "24b7dd736d832904fe8ba136cb8bde0628efbabb",
+      "title": "Gabby Logan On Match of the Day, Trolls & Live TV",
+      "published_at": "2026-07-12T23:01:00+00:00",
+      "link": null,
+      "description": "How does Gabby Logan handle online trolls? In this episode of The Romesh Ranganathan Show, award-winning broadcaster Gabby Logan joins Romesh to discuss life presenting Match of the Day, handling criticism online and the pressure of live television. Gabby opens up about balancing family life with her long-standing broadcasting career, why she stopped paying attention to online comments and what it really takes to deliver a great live interview. She also speaks candidly about her husband Kenny's prostate cancer diagnosis and why sharing his story has helped break the stigma around men's health. From sport to Strictly Come Dancing to her comedy debut Gabby covers it all. Plus, as always, we have a question from Shanthi, a game of Misquoted and Gabby reveals to us an exclusive, or does she? A Ranga Bee Production in partnership with Platform. Chapters 00:00 Intro 01:56 A gift for Gabby Logan 03:39 The London marathhon 06:34 Dealing with online critics 11:24 On Match Of The Day 18:50 Work life balance 20:50 Imposter syndrome and failures 24:27 Working in live TV 26:17 How to get a good interview 31:18 A question from Shanthi 35:25 Footballers abuse 39:19 A game of Misquoted 41:33 Empty next syndrome 44:48 Dealing with online trolls 48:28 Changes and online dating 49:14 Misquoted continued 51:16 Kenny’s journey with prostate cancer 53:07 On Strictly Come Dancing 56:23 Sports people and competitiveness 59:56 Gabby wanted to be a comedian? 01:06:44 An Exclusive from Gabby 01:10:00 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8691252601.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4466",
+      "speakers": [
+        "Gabby Logan",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "gabby",
+        "logan",
+        "match",
+        "trolls"
+      ]
+    },
     {
       "key": "ba8d84474904abedcb47aca7549a018acbd8f315",
       "title": "Why Does Shanthi Have Beef With Idris Elba?",
@@ -1920,6 +1942,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-12 — Gabby Logan On Match of the Day, Trolls & Live TV — speakers: Gabby Logan, Romesh Ranganathan
 - 2026-07-08 — Why Does Shanthi Have Beef With Idris Elba? — speakers: Idris Elba, Romesh Ranganathan
 - 2026-07-05 — Shania Twain On Harry Styles, Losing Her Voice & Country Music — speakers: Harry Styles, Romesh Ranganathan
 - 2026-07-01 — Growing Up With An Eye Condition & Can Vegans Do This? — speakers: Romesh Ranganathan

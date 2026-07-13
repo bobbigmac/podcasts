@@ -27433,6 +27433,28 @@
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "4147ad3f6b5e8d9ab00e4a98397fbd8d8698d80f",
+        "episode_key": "4147ad3f6b5e8d9ab00e4a98397fbd8d8698d80f",
+        "title": "Josh Widdicombe XFM #69 The Final Cabbage – James Acaster, Nish Kumar",
+        "published_at": "2026-07-12T18:21:01Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster discusses getting revenge on his cabbage nemesis and Nish Kumar joins Josh in the studio28h October 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO7054317532.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-69-the-final-cabbage-james/id1866254969?i=1000776487965&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
         "dedupe_key": "96e8eff2a54346c8bc9a155c89d398fbb3d462d6",
         "episode_key": "96e8eff2a54346c8bc9a155c89d398fbb3d462d6",
         "title": "Josh Widdicombe XFM #61 Edinburgh Fringe 2014 - James Acaster Classic Scrape 34, Tim Key, Nish Kumar",
