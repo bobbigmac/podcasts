@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-07-03T14:31:51+00:00`
-- checked_at: `2026-07-03T14:31:51+00:00`
-- etag: `"d96c2-655b323f352e6"`
-- last_modified: `Fri, 03 Jul 2026 11:22:30 GMT`
+- fetched_at: `2026-07-13T17:22:54+00:00`
+- checked_at: `2026-07-13T17:22:54+00:00`
+- etag: `"da1c4-6567f99e6c458"`
+- last_modified: `Mon, 13 Jul 2026 15:18:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-07-03T14:31:51+00:00",
+  "fetched_at": "2026-07-13T17:22:54+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "dcd1592defd0c8260b00d2cf4c446e16b878b9da",
+      "title": "Taskmaster: The People's Podcast: Imagination, Imagination, Broken - S15, Ep. 3",
+      "published_at": "2026-07-13T15:10:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "This week on the Taskmaster Podcast we share the latest People's Podcast which if you don't know is hosted each week by the brilliant Jenny Eclair and Jack Bernhardt! Enjoy! _____________________ This week Jenny and Jack review series 15 together for the first time ever to find out; would Jenny would change her strategy now that she's a Taskmaster expert? Is the potato hat task still one of the best moments of her entire life? Was any vital, but legally murky information cut from her prize task explanation? Plus a listener writes in to debate a 'massive bloop' by Joanna Page, which they believe could have changed the whole series. Next week we'll be discussing Series 9 episode 8, if you'd like to follow along. Send all your homework suggestions and Taskmaster thoughts into fans@taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/75786b57-6744-4be3-965f-d4f00fa796a8.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=75786b57-6744-4be3-965f-d4f00fa796a8",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53386127",
+      "itunes_duration": "51:53",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "taskmaster",
+        "people",
+        "podcast",
+        "imagination",
+        "broken"
+      ]
+    },
     {
       "key": "18659ee6b0f582f90f29e6d51aac314236cc6e34",
       "title": "Taskmaster the Podcast *Best of Series 21* Part Two",
@@ -5503,6 +5525,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-13 — Taskmaster: The People's Podcast: Imagination, Imagination, Broken - S15, Ep. 3 — speakers: Ed Gamble
 - 2026-07-03 — Taskmaster the Podcast *Best of Series 21* Part Two — speakers: Ed Gamble
 - 2026-06-25 — Taskmaster the Podcast *Best of Series 21* Part One — speakers: Ed Gamble
 - 2026-06-18 — Taskmaster The People's Podcast - The Whole Hilt With a Kilt - S21, Ep.10 *GRAND FINAL* — speakers: Ed Gamble
