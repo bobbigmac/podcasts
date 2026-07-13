@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-07-10T04:13:38+00:00`
-- checked_at: `2026-07-10T04:13:38+00:00`
-- etag: `"djEuMi4wOjE3ODM2MzgxNTkyOTA="`
+- fetched_at: `2026-07-13T09:47:08+00:00`
+- checked_at: `2026-07-13T09:47:08+00:00`
+- etag: `"djEuMi4wOjE3ODM5MjY4NDE3MTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-07-10T04:13:38+00:00",
+  "fetched_at": "2026-07-13T09:47:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4dd949dd8442f853515b06e98a7b9d4c975edd3c",
+      "title": "Ep. 593 - Brian Bilston - One of the UK's most hilarious and best-loved poets",
+      "published_at": "2026-07-13T07:13:55+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-593-brian-bilston-one-of-the-uks-most-hilarious-and-best",
+      "description": "Brian Bilston is one of the UK's most hilarious and best-loved poets and novelists. With over 500,000 followers on social media, Brian has been dubbed as the “Poet Laureate of Twitter”. He has published four collections of poetry for adults: You Took the Last Bus Home; Alexa, what is there to know about love?; Days Like These; and And So This is Christmas. His novel Diary of a Somebody was shortlisted for the Costa First Novel Award. He has also published collections of poetry for younger readers: 50 Ways to Score a Goal; Let Sleeping Cats Lie; and A Poem for Every Question. His acclaimed poem ‘Refugees’ has been made into an illustrated book for children. Brian Bilston is our guest in episode 593 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Buy tickets for Brian Bilston’s Edinburgh Festival show, How to Lay an Egg with a Horse Inside, here - https://www.edfringe.com/tickets/whats-on/brian-bilston-how-to-lay-an-egg-with-a-horse-inside . For everything Brian Bilston, visit - https://brianbilston.com . Follow Brian Bilston on Instagram : @brian_bilston . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a549039420a266ecbaf31f0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77985352",
+      "itunes_duration": "1:04:59",
+      "speakers": [
+        "Brian Bilston"
+      ],
+      "topics": [
+        "brian",
+        "bilston",
+        "poet"
+      ]
+    },
     {
       "key": "7c7b976c74b877312d1b9669e72f665f462718f2",
       "title": "My Time Capsule The Dig - Ep. 10 - With Robert Bathurst (Cold Feet, Toast of London, Downton Abbey)",
@@ -12960,6 +12980,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-13 — Ep. 593 - Brian Bilston - One of the UK's most hilarious and best-loved poets — speakers: Brian Bilston
 - 2026-07-09 — My Time Capsule The Dig - Ep. 10 - With Robert Bathurst (Cold Feet, Toast of London, Downton Abbey) — speakers: Robert Bathurst
 - 2026-07-05 — Ep. 592 - Tony Cantwell - From Last One Laughing Ireland on Amazon Prime, hosted by Graham Norton — speakers: Graham Norton, Tony Cantwell
 - 2026-07-02 — My Time Capsule The Dig - Ep. 9 - With Garrett Millerick! (Creator of Radio 4's Do Gooders with Frank Skinner) — speakers: Frank Skinner, Garrett Millerick

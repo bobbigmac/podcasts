@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-07-13T03:58:44+00:00`
-- checked_at: `2026-07-13T03:58:44+00:00`
-- etag: `"djEuMi4wOjE3ODM5MDM1MDkwNDc="`
+- fetched_at: `2026-07-13T09:47:08+00:00`
+- checked_at: `2026-07-13T09:47:08+00:00`
+- etag: `"djEuMi4wOjE3ODM5MTcwMzk0NDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-07-13T03:58:44+00:00",
+  "fetched_at": "2026-07-13T09:47:08+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "863d9cbff5f707e821f10ab41d1e9e389e9d048e",
+      "title": "631 Moana Bombs & Evil Dead Burn",
+      "published_at": "2026-07-13T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/631-evil-dead-burn-moana-live-action",
+      "description": "Another Monday another incredible podcast. This week we talk the live action Moana with a live action Dwayne \"The Rock\" Johnson plus Evil Dead Burn. There's also some new and official Avengers: Doomsday art as we get ready for San Diego Comic Con 2026 (which James Gunn's DCU is skipping again), trailers for Dune: Park 3 and Godzilla Minus Zero, Christopher Nolan on the backlash to The Odyssey, how its looking box office wise and more! Thanks for listening New bonus commentary with James & Maso out now for the movie HIGHLANDER! Available with over 100 other movie commentaries and much more on bigsandwich.co and patreon.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 04:42 Avengers: Doomsday Official Art Reveal 14:45 DC Skipping San Diego Comic Con Again 19:05 Dune Part 3 New Trailer 27:03 Godzilla Minus Zero First Trailer 29:34 Christopher Nolan on The Odyssey Backlash 37:52 Blue Thunder Remake & Tarantino’s 10 Film Rule 43:44 Evil Dead Burn Movie Review 58:50 Evil Dead Burn Spoiler Segment 01:06:08 What We Reading, What We Gonna Read 01:08:40 Moana Live Action Movie Review 01:23:18 Letters, It’s Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a538304c2f78bb689121450/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "165823456",
+      "itunes_duration": "1:55:09",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "moana",
+        "bombs",
+        "evil",
+        "dead",
+        "burn"
+      ]
+    },
     {
       "key": "a473562e1a1c97fae3ecec59fc157a3b7ac44eca",
       "title": "Troy - Caravan Of Garbage",
@@ -22661,6 +22684,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-13 — 631 Moana Bombs & Evil Dead Burn — speakers: James Clement, Nick Mason
 - 2026-07-09 — Troy - Caravan Of Garbage — speakers: Christopher Nolan, James Clement, Nick Mason
 - 2026-07-06 — 630 Best/Worst Comic Adaptations & The Death of Physical Media — speakers: Worst Comic Adaptations, Physical Media Incredible, James Clement, Nick Mason
 - 2026-07-02 — Jason and the Argonauts - Caravan Of Garbage — speakers: Christopher Nolan, James Clement, Nick Mason

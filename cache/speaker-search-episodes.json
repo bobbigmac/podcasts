@@ -5,6 +5,73 @@
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "cc5f68cbcd5ca9481235eea02409b3cac6bc42d4",
+        "episode_key": "cc5f68cbcd5ca9481235eea02409b3cac6bc42d4",
+        "title": "Josh Widdicombe XFM #70 – James Acaster, Beattie Edmondson",
+        "published_at": "2026-07-13T05:24:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster is confronted by somebody he talked about for 9 minutes in one of his scrapes. Beattie Edmondson joins Josh and plays Call My Josh. 3rd November 2014.",
+        "audio_url": "https://anchor.fm/s/10d6f1db0/podcast/play/122726220/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2F427811903-44100-2-ebd1ac5dc6b31.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-70-james-acaster-beattie-edmondson/id1866254969?i=1000776546074&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "8e7352ec391c8d4e7ff8aa7cfdb7baf942b9ff36",
+        "episode_key": "8e7352ec391c8d4e7ff8aa7cfdb7baf942b9ff36",
+        "title": "Nicola Coughlan (Tasting Menu – Live at the Royal Albert Hall)",
+        "published_at": "2026-07-13T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It’s Royal Albert Hall Tasting Menu time, and joining us for this live episode is ‘Bridgerton’ and ‘Derry Girls’ star Nicola Coughlan. On Nicola’s original episode she locked herself out of her flat. Will she do the same at the Royal Albert Hall? \nNicola is starring in the next of Channel 4’s anthology series, ‘I Am’, ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a3bad0e1d1e464c6541765b/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nicola-coughlan-tasting-menu-live-at-the-royal-albert-hall/id1442950743?i=1000776531535&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "42a37841fd837c4474c73c383e5f3f6e9a2c5291",
+        "episode_key": "42a37841fd837c4474c73c383e5f3f6e9a2c5291",
+        "title": "Josh Widdicombe XFM #68 – James Acaster, Kathryn Ryan",
+        "published_at": "2026-07-12T06:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster faces a Saved By The Bell quiz and Kathryn Ryan is in the studio.20h October 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO3934944890.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-68-james-acaster-kathryn-ryan/id1866254969?i=1000776439665&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
         "dedupe_key": "16fe2258be21edf464b6735eab803e61dc5d0f10",
         "episode_key": "16fe2258be21edf464b6735eab803e61dc5d0f10",
         "title": "Josh Widdicombe XFM #65 – James Acaster, Lucy Beaumont",
@@ -5311,6 +5378,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "8e7352ec391c8d4e7ff8aa7cfdb7baf942b9ff36",
+        "episode_key": "8e7352ec391c8d4e7ff8aa7cfdb7baf942b9ff36",
+        "title": "Nicola Coughlan (Tasting Menu – Live at the Royal Albert Hall)",
+        "published_at": "2026-07-13T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It’s Royal Albert Hall Tasting Menu time, and joining us for this live episode is ‘Bridgerton’ and ‘Derry Girls’ star Nicola Coughlan. On Nicola’s original episode she locked herself out of her flat. Will she do the same at the Royal Albert Hall? \nNicola is starring in the next of Channel 4’s anthology series, ‘I Am’, ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a3bad0e1d1e464c6541765b/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nicola-coughlan-tasting-menu-live-at-the-royal-albert-hall/id1442950743?i=1000776531535&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",

@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-07-06T04:38:18+00:00`
-- checked_at: `2026-07-06T04:38:18+00:00`
-- etag: `"d201b24aba60fcc1cc4feb4cce34d85a"`
-- last_modified: `Mon, 06 Jul 2026 04:00:04 GMT`
+- fetched_at: `2026-07-13T09:47:08+00:00`
+- checked_at: `2026-07-13T09:47:08+00:00`
+- etag: `"50b10907e54d57d17fa1f1c4a6ad7ba6"`
+- last_modified: `Mon, 13 Jul 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-07-06T04:38:18+00:00",
+  "fetched_at": "2026-07-13T09:47:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,11 +27,28 @@
   ],
   "episodes": [
     {
+      "key": "b7ed0d7af5eddbf1a60e103f511f628cbc9520a7",
+      "title": "Dead Ringers",
+      "published_at": "2026-07-13T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0ny3k7q",
+      "description": "The Dead Ringers team train their vocal firepower on the week’s news. This week: Trump turns tricks, Tuchel talks tactics, and Count Binface is unmasked. Starring Jon Culshaw, Jan Ravens, Duncan Wisbey and Kieran Hodgson. To hear more episodes of Dead Ringers, search \"Friday Night Comedy\" on BBC Sounds. Produced by: Jon Holmes Executive Producer:James Robinson Production Co-ordinator: Giulia Lopes Mazzu A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ny3jgv.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27312000",
+      "itunes_duration": "1707",
+      "speakers": [],
+      "topics": [
+        "dead",
+        "ringers"
+      ]
+    },
+    {
       "key": "adb2d2883dbfc653bbf21c5bacb62df50ff1a548",
       "title": "The Big Idea with Alistair Green",
       "published_at": "2026-07-06T04:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0nwqfnz",
-      "description": "Tabitha Beckworth is the founder and CEO of globally successful wellness brand, The Whisper. But, like any super driven hyper successful business person she does many different things, all of them to great success - over 3 million subscribers to her YouTube channel is a testament to this. But for this interview, Tabitha found time in her packed schedule to sit down with Alistair to explain more about what The Whisper is and the global community it has created. Alistair would like to take this moment to put it in writing that he doesn’t necessarily endorse the views of the guests. The Big Idea with Alistair Green is brought to you by Are You Okay? Mental Health. It’s a lot isn’t it? Written and performed by Alistair Green. Produced by Alex Burnard. A Cup & Nuzzle production for BBC Radio 4.",
+      "description": "Tabitha Beckworth is the founder and CEO of globally successful wellness brand, The Whisper. But, like any super driven hyper successful business person she does many different things, all of them to great success - over 3 million subscribers to her YouTube channel is a testament to this. But for this interview, Tabitha found time in her packed schedule to sit down with Alistair to explain more about what The Whisper is and the global community it has created. This episode featured on Comedy of the Week is titled Wellness guru Tabitha Beckworth. To hear more from the series, search \"The Big Idea with Alistair Green\" on BBC Sounds. Alistair would like to take this moment to put it in writing that he doesn’t necessarily endorse the views of the guests. The Big Idea with Alistair Green is brought to you by Are You Okay? Mental Health. It’s a lot isn’t it? Written and performed by Alistair Green. Produced by Alex Burnard. A Cup & Nuzzle production for BBC Radio 4.",
       "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nwqfxb.mp3",
       "enclosure_type": "audio/mpeg",
@@ -995,28 +1012,6 @@
         "blaker",
         "hyperfixations"
       ]
-    },
-    {
-      "key": "8761144741ea21bdcf7dfa62710c434e94d7015d",
-      "title": "Maisie Adam: Euros Fever",
-      "published_at": "2025-07-07T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lnh4vm",
-      "description": "Are you excited to watch England and Wales this summer? Comedian and football obsessed Maisie Adam can’t wait for the Euros and wants to capture the magic you only get before a big international tournament. This is her ultimate guide to the Euros and guarantees to get you in the mood for the highs, the lows and the drama of the Women’s Euros 2025. Maisie has encouraged the audience to come in their favourite footie strips, scarves and hats, the sillier the better – just no flares up any arses please. She’s joined by comedians Rhys James and Harriet Kemsley to chat about the glorious summer of footie we have ahead of us. They re-live some of their best/worst Euros moments, play games and give their predictions for the summer – is football coming home again? Plus Maisie gets some very special advice from former Lioness and Euros winner, the one and only Jill Scott MBE. If you can't get enough of the tournament, search ‘Women’s Euros’ on BBC Sounds for more coverage and reaction. Plus you can listen live to the games, including every England and Wales match, on 5 Live and BBC Sounds. Host: Maisie Adam Guests: Rhys James and Harriet Kemsley Producer: Georgia Keating Executive Producer: James Robinson Production Co-ordinator: Jodie Charman Production Assistant: Danita McIntyre Additional material by Matthew Crosby and Eve Delaney Sound Design by Arlie Adlington Recorded by Jerry Peal and Atharva Bankar at Backyard Comedy Club A BBC Studios Audio Production for Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lnh4fj.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27424000",
-      "itunes_duration": "1714",
-      "speakers": [
-        "Maisie Adam Euros Fever",
-        "Maisie Adam"
-      ],
-      "topics": [
-        "maisie",
-        "adam",
-        "euros",
-        "fever"
-      ]
     }
   ]
 }
@@ -1025,6 +1020,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-13 — Dead Ringers
 - 2026-07-06 — The Big Idea with Alistair Green — speakers: Tabitha Beckworth
 - 2026-06-29 — P.O.V.
 - 2026-06-22 — John Tothill Forgives Your Sins — speakers: John Tothill
@@ -1075,4 +1071,3 @@
 - 2025-07-28 — The Lively Life of Lindsey Santoro
 - 2025-07-21 — Kat Sadler's Screen Time — speakers: Kat Sadler
 - 2025-07-14 — Ashley Blaker's Hyperfixations — speakers: Ashley Blaker
-- 2025-07-07 — Maisie Adam: Euros Fever — speakers: Maisie Adam Euros Fever, Maisie Adam
