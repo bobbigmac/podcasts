@@ -2,9 +2,9 @@
 
 - slug: `a-woodturners-journey`
 - source: `https://feeds.acast.com/public/shows/65a70f72224eec0017895999`
-- fetched_at: `2026-06-29T11:23:34+00:00`
-- checked_at: `2026-06-29T11:23:34+00:00`
-- etag: `"djEuMi4wOjE3ODI3MTY0NDIwNDY="`
+- fetched_at: `2026-07-13T19:48:48+00:00`
+- checked_at: `2026-07-13T19:48:48+00:00`
+- etag: `"djEuMi4wOjE3ODM4NjMxNDk5NTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/a-woodturners-journey",
   "description": "At A Woodturners Journey, we strive to explore woodturning from all different perspectives. Markus and Chris are both obsessed with creating things on their lathe as well as finding areas to improve their efficiencies and style. Their goal is to stay up to date with the newest things going on around the world of woodturning. They also love to interview fellow woodturners and find out about their journey so far. Woodturning is a wonderful rabbit hole and one we never see ourselves finding the bottom of. Join us in our journey. If you have any comments, questions or feedback please send us an email AWoodturnersJourney@gmail.com or find us on Instagram @AWoodturnersJourney Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
-  "fetched_at": "2026-06-29T11:23:34+00:00",
+  "fetched_at": "2026-07-13T19:48:48+00:00",
   "owners": [
     "Chris Jacobsen"
   ],
@@ -26,6 +26,26 @@
     "hobbies"
   ],
   "episodes": [
+    {
+      "key": "dcb5e4dcbf84582a4fb5c349eb734490ec0756fe",
+      "title": "Ep. 42 - Swap Meet",
+      "published_at": "2026-07-12T13:32:29+00:00",
+      "link": "https://shows.acast.com/a-woodturners-journey/episodes/ep-42-swap-meet",
+      "description": "Enjoy episode 42. Markus and Chris are joined by Mike Holstrom. They talk about the annual tool swap that Chris went to for the Seattle Woodturners as well as some of the 3D printing accessories that Mike makes for woodturning. We also talk about some other random things and whats been going on lately for us in life and woodturning. Please reach out and give us your thoughts or suggestions on any challenges you have been experiencing with your woodturning journey. We’re here to help or at least find an expert that can provide better insight. Please email us at: AWoodturnersJourney@gmail.com Follow us on Instagram at: www.instagram.com/awoodturnersjourney Chris - www.instagram.com/hiramwoodworking & www.instagram.com/whatwoodyouturn Markus - www.instagram.com/redchairwoodworks Mike Holstrom - bodiedesigns.shop & www.instagram.com/bodiedesignsww GO SEE MARKUS AS MORIARTY: https://coastertheatre.com/shows/ken-ludwigs-moriarty/ Please subscribe, listen to the episode, and let us know what you think with a comment or a 5-star review. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65a70f72224eec0017895999/e/6a53976d8716ffeabe7bf6c1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "129819892",
+      "itunes_duration": "1:15:13",
+      "speakers": [
+        "Mike Holstrom",
+        "Chris Jacobsen"
+      ],
+      "topics": [
+        "swap",
+        "meet"
+      ]
+    },
     {
       "key": "978c646eb685ce11df0e1fc647fcf26736381a18",
       "title": "EP 41 - Abracadabra Holmes",
@@ -824,6 +844,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-12 — Ep. 42 - Swap Meet — speakers: Mike Holstrom, Chris Jacobsen
 - 2026-06-29 — EP 41 - Abracadabra Holmes — speakers: Abracadabra Holmes Enjoy, Chris Jacobsen
 - 2026-06-14 — Ep 40 - Youll be selling out theaters — speakers: Chris Jacobsen
 - 2026-05-31 — Ep 39 - Turned to Dust w/ Mike Holmstrom — speakers: Mike Holmstrom Enjoy, Mike Holmgren, Chris Jacobsen
