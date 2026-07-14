@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-07-13T15:10:48+00:00`
-- checked_at: `2026-07-13T15:10:48+00:00`
-- etag: `"djEuMi4wOjE3ODM5NDE4MTI0NzY="`
+- fetched_at: `2026-07-14T14:13:06+00:00`
+- checked_at: `2026-07-14T14:13:06+00:00`
+- etag: `"djEuMi4wOjE3ODQwMjg5MDM1NTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-07-13T15:10:48+00:00",
+  "fetched_at": "2026-07-14T14:13:06+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "1e174c44b7396ca44253108362c6bb3d313dfd97",
+      "title": "How can the UK protect its Critical National Infrastructure from cyberattacks?",
+      "published_at": "2026-07-14T11:30:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/how-can-the-uk-protect-its-critical-national-infrastructure",
+      "description": "Cyberattacks on the UK’s critical national infrastructure are becoming faster and more sophisticated. What will it take to protect the systems and services that keep the country running? Host Zoë Grünewald is joined by Matt Western MP, Chair of the Joint Committee on National Security Strategy, and Chris Parker, Director of Government Strategy at Fortinet UK. Our panel discusses how ransomware, hostile state actors and AI-enabled attacks are changing the threat landscape facing the UK’s critical national infrastructure, as well as where regulation and governance may need to go further. They talk about the risks posed by legacy systems and cyber skills shortages, what effective resilience looks like in practice, and why closer cooperation between government and industry matters. This New Statesman podcast episode is sponsored by Fortinet. LINKS Fortinet 2026 Global Threat Landscape Report Fortinet 2026 Cybersecurity Skills Gap Global Research Report Fortinet 2026 OT Report Government Cyber Action Plan UK Cyber Growth Action Plan LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1784027199660-3cb6931a-061a-4356-b1bc-8a3380f1fcbc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a54ca3ba96b32a38aedcb3f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21175902",
+      "itunes_duration": "22:03",
+      "speakers": [
+        "Critical National Infrastructure",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "critical",
+        "national",
+        "infrastructure",
+        "cyberattack"
+      ]
+    },
     {
       "key": "c565863e09ffa16499f007ea858e56da982bd6f7",
       "title": "Farage's Clacton distraction",
@@ -31765,6 +31788,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-14 — How can the UK protect its Critical National Infrastructure from cyberattacks? — speakers: Critical National Infrastructure, Anoosh Chakelian, Oli Dugmore
 - 2026-07-09 — Farage's Clacton distraction — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-07-04 — Nigel Farage has lost his aura — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-07-02 — "Startlingly transactional" – Burnham prepares for power — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
