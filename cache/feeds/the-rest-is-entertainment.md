@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-07-13T19:48:48+00:00`
-- checked_at: `2026-07-13T19:48:48+00:00`
-- last_modified: `Mon, 13 Jul 2026 17:41:59 GMT`
+- fetched_at: `2026-07-14T03:32:26+00:00`
+- checked_at: `2026-07-14T03:32:26+00:00`
+- last_modified: `Mon, 13 Jul 2026 23:26:28 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-13T19:48:48+00:00",
+  "fetched_at": "2026-07-14T03:32:26+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,31 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "0dea5699d8f74daa4f448c5c81802f9e89fa1a12",
+      "title": "Prince Harry's 'Idiotic' Legal Battle",
+      "published_at": "2026-07-13T23:05:00+00:00",
+      "link": null,
+      "description": "Was Prince Harry wrong to sue the Daily Mail? How did Olivia Dean and Sam Fender make chart history this week? Which pop stars should we thank for the resurgence of the vodka cranberry? Prince Harry and other high-profile claimants have lost their High Court case against the publisher of the Daily Mail. Should stars let sleeping dogs lie over historical allegations of journalistic malpractice? Olivia Dean and Sam Fender have made chart history with their song Rein Me In, breaking the record for the longest-running number 1 single by a British act. But what song might stop them from breaking further records if England wins the World Cup? Step aside, obscure liquers. The new drink of the summer (apparently) is a Vodka Cranberry. So why is the Y2K beverage making a comeback, and what does it have to do with pop royalty Taylor Swift and Olivia Rodrigo? Songs played in the show: Wet Wet Wet - Love Is All Around Written By: Reg Presley Mercury Records Sam Fender, Olivia Dean - Rein Me In Written By: Sam Fender, Olivia Dean, Max Wolfgang Polydor Oasis - Wonderwall Written By: Noel Gallagher Creation Records/Epic Records Recommendations Marina - Madonna, Confessions II (Album) Richard - Widow's Bay (Apple TV) The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Lending is subject to status. You could lose your home if you don't keep up your mortgage repayments. Conditions apply. 1996 average first-time buyer deposit based on Office National Statistics House Price Index data. Summer sale is here: get an annual membership for a third off with code SUMMER26. That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Adam Thornton & Lorcan Moullier Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Amie Bennett Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9350574809.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2964",
+      "speakers": [
+        "Olivia Dean",
+        "Sam Fender",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "prince",
+        "harry",
+        "idiotic",
+        "legal",
+        "battle"
+      ]
+    },
     {
       "key": "c419173bc5e5339e517fc0a6e9962ccb082d7569",
       "title": "Bad Band Names, Set List Dramas and Failed Comebacks",
@@ -6217,6 +6242,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-13 — Prince Harry's 'Idiotic' Legal Battle — speakers: Olivia Dean, Sam Fender, Richard Osman, Marina Hyde
 - 2026-07-08 — Bad Band Names, Set List Dramas and Failed Comebacks — speakers: List Dramas, Richard Osman, Marina Hyde
 - 2026-07-06 — Was Taylor Swift's Wedding Cringe? — speakers: Katie Price, Will Sky, Richard Osman, Marina Hyde
 - 2026-07-01 — Could Kathy Burke Be Bond? — speakers: Richard Osman, Marina Hyde
