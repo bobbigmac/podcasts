@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-07-07T04:16:14+00:00`
-- checked_at: `2026-07-07T04:16:14+00:00`
-- etag: `W/"412cf3e69418c8dada6bc8d03cd31c2a"`
-- last_modified: `Tue, 30 Jun 2026 14:46:24 GMT`
+- fetched_at: `2026-07-14T16:38:01+00:00`
+- checked_at: `2026-07-14T16:38:01+00:00`
+- etag: `W/"c16f215bab0159c0316c77ad5a4f04a7"`
+- last_modified: `Tue, 14 Jul 2026 16:33:43 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-07-07T04:16:14+00:00",
+  "fetched_at": "2026-07-14T16:38:01+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,27 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "2af9f82593ef8dc99870e72aa6dac7e930d7105b",
+      "title": "186: Fa-rage Against The Machine",
+      "published_at": "2026-07-14T16:30:00+00:00",
+      "link": "https://audioboom.com/posts/8928078",
+      "description": "The team (with guest Jane Mackenzie) discuss Nigel Farage's by-election gamble, the latest military procurement disasters, and the lowdown on Prince Harry’s trial against the Mail.",
+      "image_url": "https://audioboom.com/i/43743143/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8928078.mp3?modified=1784046832&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3005",
+      "speakers": [
+        "Jane Mackenzie",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "rage",
+        "machine"
+      ]
+    },
     {
       "key": "6690fce80eaf2399fb6130fe19be3e029b8bbc5f",
       "title": "185: Manc To The Future",
@@ -3956,6 +3977,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-14 — 186: Fa-rage Against The Machine — speakers: Jane Mackenzie, Andrew Hunter Murray, Ian Hislop
 - 2026-06-30 — 185: Manc To The Future — speakers: Richard Brooks, Andy Burnham, Andrew Hunter Murray, Ian Hislop
 - 2026-06-24 — 184: Coup What A Scorcher — speakers: Matt Muir, Andrew Hunter Murray, Ian Hislop
 - 2026-06-16 — 183: Fight! Fight! Fight! — speakers: Sarah Shannon, Andrew Hunter Murray, Ian Hislop
