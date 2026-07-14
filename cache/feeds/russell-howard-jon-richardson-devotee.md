@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-07-08T14:40:44+00:00`
-- checked_at: `2026-07-08T14:40:44+00:00`
-- etag: `W/"3c254-v6cn9Ojft7LmON/6F1yxOMRK+f4"`
+- fetched_at: `2026-07-14T10:56:02+00:00`
+- checked_at: `2026-07-14T10:56:02+00:00`
+- etag: `W/"40d13-pY55vUsXDSHAJ2T8zvwrEAQWj5w"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,386 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-07-08T14:40:44+00:00",
+  "fetched_at": "2026-07-14T10:56:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "1d8efce5da99888a0a75ecf88d8428e5797cdc83",
+      "title": "Josh Widdicombe XFM #74 Christmas 2 – James Acaster, Romesh Ranganathan",
+      "published_at": "2026-07-14T05:48:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-74-Christmas-2--James-Acaster--Romesh-Ranganathan-e3m1i28",
+      "description": "James Acaster plays another game of Call My Josh and Romesh Ranganathan joins them in the studio.22nd December 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783964980283-a5c4268e6d4d3.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3672397350.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34217578",
+      "itunes_duration": "00:35:15",
+      "speakers": [
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "christmas",
+        "james",
+        "acaster",
+        "romesh",
+        "ranganathan"
+      ]
+    },
+    {
+      "key": "1129a1f364fd1ad735dbf444b9fc4b20aa87deac",
+      "title": "Josh Widdicombe XFM #73 Christmas – James Acaster, Rhys James",
+      "published_at": "2026-07-13T17:38:45+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-73-Christmas--James-Acaster--Rhys-James-e3m1h9h",
+      "description": "Rhys James plays Call My Josh and James Acaster joins Josh in the studio.15th December 2014. Ask",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783964263982-62dbfd21c823.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4024869988.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45790771",
+      "itunes_duration": "00:47:41",
+      "speakers": [
+        "James Acaster",
+        "Rhys James Rhys James",
+        "Call My Josh"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "christmas",
+        "james",
+        "acaster",
+        "rhys"
+      ]
+    },
+    {
+      "key": "d5a8427934867a982bf1a19ca5f3047c293d3bd5",
+      "title": "Josh Widdicombe XFM #72 – Jon Richardson, Kevin Bridges",
+      "published_at": "2026-07-13T14:31:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-72--Jon-Richardson--Kevin-Bridges-e3lvqim",
+      "description": "Jon Richardson plays Call My Josh and Kevin Bridges are in the Studio.1st December 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783866791316-9bc6d0cb17504.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6779357620.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45203756",
+      "itunes_duration": "00:46:35",
+      "speakers": [
+        "Jon Richardson",
+        "Kevin Bridges",
+        "Call My Josh"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "richardson",
+        "kevin",
+        "bridges"
+      ]
+    },
+    {
+      "key": "269ef4be2f450e721f6f724afa2bdf271fbcb2ab",
+      "title": "Josh Widdicombe XFM #71 – Miles Jupp, Ivo Graham",
+      "published_at": "2026-07-13T10:27:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-71--Miles-Jupp--Ivo-Graham-e3lvqeg",
+      "description": "Miles Jupp and Ivo Graham join Josh in the studio.24th November 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783866529955-d3ba2bc870fbd.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2575267223.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33181625",
+      "itunes_duration": "00:34:11",
+      "speakers": [
+        "Miles Jupp",
+        "Ivo Graham Miles Jupp",
+        "Ivo Graham"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "miles",
+        "jupp",
+        "graham"
+      ]
+    },
+    {
+      "key": "61944578d62fe56843727b28bf3ffdcbabc47b0a",
+      "title": "Josh Widdicombe XFM #70 – James Acaster, Beattie Edmondson",
+      "published_at": "2026-07-13T05:24:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-70--James-Acaster--Beattie-Edmondson-e3lvqcc",
+      "description": "James Acaster is confronted by somebody he talked about for 9 minutes in one of his scrapes. Beattie Edmondson joins Josh and plays Call My Josh. 3rd November 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783866335223-da2d89d3d4f8f.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/122726220/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-12%2F427811903-44100-2-ebd1ac5dc6b31.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35110242",
+      "itunes_duration": "00:36:34",
+      "speakers": [
+        "James Acaster",
+        "Beattie Edmondson"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "beattie",
+        "edmondson"
+      ]
+    },
+    {
+      "key": "3f2d2d25a43bb0feb9f390230a44cfb773b9a801",
+      "title": "Josh Widdicombe XFM #69 The Final Cabbage – James Acaster, Nish Kumar",
+      "published_at": "2026-07-12T18:21:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-69-The-Final-Cabbage--James-Acaster--Nish-Kumar-e3lvq96",
+      "description": "James Acaster discusses getting revenge on his cabbage nemesis and Nish Kumar joins Josh in the studio28h October 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783866152156-fae2e804d24c9.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7054317532.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56051826",
+      "itunes_duration": "00:57:45",
+      "speakers": [
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "final",
+        "cabbage",
+        "james",
+        "acaster",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "de14953daadd1dd97a2e206fb8e4739f529bfcd9",
+      "title": "Josh Widdicombe XFM #68 – James Acaster, Kathryn Ryan",
+      "published_at": "2026-07-12T06:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-68--James-Acaster--Kathryn-Ryan-e3lv2dc",
+      "description": "James Acaster faces a Saved By The Bell quiz and Kathryn Ryan is in the studio.20h October 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783800021986-11bab11b6de9b.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3934944890.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43885577",
+      "itunes_duration": "00:45:13",
+      "speakers": [
+        "James Acaster",
+        "Kathryn Ryan"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "kathryn",
+        "ryan"
+      ]
+    },
+    {
+      "key": "4b3b90e2696d9a5b71a75d2e17feaceb25bc3712",
+      "title": "Josh Widdicombe XFM #67 – James Acaster, Angela Barnes",
+      "published_at": "2026-07-11T19:57:51+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-67--James-Acaster--Angela-Barnes-e3lv2al",
+      "description": "James Acaster and Angela Barnes join Josh in the studio.29th September 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783799785937-6790a7a7d09a9.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4429374399.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37806873",
+      "itunes_duration": "00:38:57",
+      "speakers": [
+        "James Acaster",
+        "Angela Barnes"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "angela",
+        "barnes"
+      ]
+    },
+    {
+      "key": "852aff1d4af99edc608d547bfacb1d6736c25dca",
+      "title": "Josh Widdicombe XFM #66 – James Acaster, Tiffany Stevenson",
+      "published_at": "2026-07-10T14:05:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-66--James-Acaster--Tiffany-Stevenson-e3lsgsn",
+      "description": "James Acaster joins Josh a lot earlier the usual and gets to play Call My Josh, Tiffany Stevenson joins Josh in the studio and brings her childhood diary & for the first time the radio show ends and the podcast continues.22nd September 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783623980679-8d769981fc0f.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6375837648.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38116593",
+      "itunes_duration": "00:39:16",
+      "speakers": [
+        "James Acaster",
+        "Tiffany Stevenson"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "tiffany",
+        "stevenson"
+      ]
+    },
+    {
+      "key": "c4335a3dd6196dd855ab4ca425ce22f13579aad0",
+      "title": "Josh Widdicombe XFM #65 – James Acaster, Lucy Beaumont",
+      "published_at": "2026-07-10T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-65--James-Acaster--Lucy-Beaumont-e3lsgnn",
+      "description": "James Acaster joins josh to further discuss the cabbaging saga and Lucy Beaumont is in the studio for a game of Call My Josh.15st September 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783623710943-748ca7a68a42.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3551628295.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40193612",
+      "itunes_duration": "00:41:25",
+      "speakers": [
+        "James Acaster",
+        "Lucy Beaumont"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "lucy",
+        "beaumont"
+      ]
+    },
+    {
+      "key": "d8b37c1532dd07ff88cabaf418791df00ccc83b6",
+      "title": "Josh Widdicombe XFM #64 – Sara Pascoe",
+      "published_at": "2026-07-10T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-64--Sara-Pascoe-e3lsgja",
+      "description": "The exciting new game, Call My Josh, begins. Josh's dad emails in and Sara Pascoe joins Josh in the studio.1st September 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783623494999-182b31984ab73.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5485172260.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37592439",
+      "itunes_duration": "00:38:44",
+      "speakers": [
+        "Sara Pascoe",
+        "Call My Josh"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "sara",
+        "pascoe"
+      ]
+    },
+    {
+      "key": "0cb0fae9baa39ac2f2bebf5985d4f581c0b08307",
+      "title": "Josh Widdicombe XFM #63 – Sunday Morning Shows Begin, Simon Evans, Nathaniel Metcalfe",
+      "published_at": "2026-07-09T18:55:05+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-63--Sunday-Morning-Shows-Begin--Simon-Evans--Nathaniel-Metcalfe-e3lsg8p",
+      "description": "James Acaster joins josh to further discuss the cabbaging saga and Lucy Beaumont is in the studio for a game of Call My Josh.15st September 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783623244546-72d608ffce806.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6072765102.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45937057",
+      "itunes_duration": "00:47:51",
+      "speakers": [
+        "Simon Evans",
+        "Nathaniel Metcalfe",
+        "James Acaster",
+        "Lucy Beaumont"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "sunday",
+        "morning",
+        "begin",
+        "simon",
+        "evans",
+        "nathaniel",
+        "metcalfe"
+      ]
+    },
+    {
+      "key": "587a7d404f5b4e30d18f80dea6803b26d96c3cec",
+      "title": "Josh Widdicombe XFM #62 Edinburgh Fringe 2014 - James Acaster Classic Scrape 35, Nish Kumar",
+      "published_at": "2026-07-09T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-62-Edinburgh-Fringe-2014---James-Acaster-Classic-Scrape-35--Nish-Kumar-e3lr49t",
+      "description": "Live from the fourth and final night of the Edinburgh Fringe Festival 2014. The panel features James Acaster (with a Classic Scrape), Nish Kumar, Ivo Graham (who struggles to read things off a piece of paper) and Matthew Crosby. John Robins joins the guys with his feature, Sacred Cow.Broadcast on 14th August 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783540744936-9ba52378be586.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2460293074.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "96655473",
+      "itunes_duration": "01:39:36",
+      "speakers": [],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "edinburgh",
+        "fringe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "56db45186afb1d683f9055d809101526cc294bdf",
+      "title": "Josh Widdicombe XFM #61 Edinburgh Fringe 2014 - James Acaster Classic Scrape 34, Tim Key, Nish Kumar",
+      "published_at": "2026-07-09T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-61-Edinburgh-Fringe-2014---James-Acaster-Classic-Scrape-34--Tim-Key--Nish-Kumar-e3lr45f",
+      "description": "Live from the third night of the Edinburgh Fringe Festival 2014. The panel features James Acaster (with a Classic Scrape), Nish Kumar, Tom Craine and Matthew Crosby. Tim Key pops in for the much anticipated act of shooting a flame off the candle with a gun.Broadcast on 13th August 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783540495481-c09d2951db726.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4160353484.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75657541",
+      "itunes_duration": "01:17:58",
+      "speakers": [
+        "Tim Key",
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "edinburgh",
+        "fringe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "nish",
+        "kumar"
+      ]
+    },
+    {
+      "key": "e385bbb5b2fd30b807b582fc32ff72c0dc12be17",
+      "title": "Josh Widdicombe XFM #60 Edinburgh Fringe 2014 - James Acaster Classic Scrape 33, Nish Kumar",
+      "published_at": "2026-07-08T19:53:12+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-60-Edinburgh-Fringe-2014---James-Acaster-Classic-Scrape-33--Nish-Kumar-e3lr3vb",
+      "description": "Live from the second night of the Edinburgh Fringe Festival 2014. The panel features James Acaster (with a Classic Scrape), Nish Kumar, Suzi Ruffell, Matthew Crosby and John Robins.Broadcast on 12th August 2014.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783540177853-2bddb68d51f5.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5701626005.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85859780",
+      "itunes_duration": "01:28:28",
+      "speakers": [
+        "James Acaster"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "edinburgh",
+        "fringe",
+        "james",
+        "acaster",
+        "classic",
+        "scrape",
+        "nish",
+        "kumar"
+      ]
+    },
     {
       "key": "c75f0814a0f55333e6517a8e10e698568f3c4bdd",
       "title": "Josh Widdicombe XFM #59 Edinburgh Fringe 2014 - James Acaster Classic Scrape 32, Romesh Ranganathan",
@@ -4563,6 +4936,21 @@
 
 ## Episodes (newest first)
 
+- 2026-07-14 — Josh Widdicombe XFM #74 Christmas 2 – James Acaster, Romesh Ranganathan — speakers: James Acaster
+- 2026-07-13 — Josh Widdicombe XFM #73 Christmas – James Acaster, Rhys James — speakers: James Acaster, Rhys James Rhys James, Call My Josh
+- 2026-07-13 — Josh Widdicombe XFM #72 – Jon Richardson, Kevin Bridges — speakers: Jon Richardson, Kevin Bridges, Call My Josh
+- 2026-07-13 — Josh Widdicombe XFM #71 – Miles Jupp, Ivo Graham — speakers: Miles Jupp, Ivo Graham Miles Jupp, Ivo Graham
+- 2026-07-13 — Josh Widdicombe XFM #70 – James Acaster, Beattie Edmondson — speakers: James Acaster, Beattie Edmondson
+- 2026-07-12 — Josh Widdicombe XFM #69 The Final Cabbage – James Acaster, Nish Kumar — speakers: James Acaster
+- 2026-07-12 — Josh Widdicombe XFM #68 – James Acaster, Kathryn Ryan — speakers: James Acaster, Kathryn Ryan
+- 2026-07-11 — Josh Widdicombe XFM #67 – James Acaster, Angela Barnes — speakers: James Acaster, Angela Barnes
+- 2026-07-10 — Josh Widdicombe XFM #66 – James Acaster, Tiffany Stevenson — speakers: James Acaster, Tiffany Stevenson
+- 2026-07-10 — Josh Widdicombe XFM #65 – James Acaster, Lucy Beaumont — speakers: James Acaster, Lucy Beaumont
+- 2026-07-10 — Josh Widdicombe XFM #64 – Sara Pascoe — speakers: Sara Pascoe, Call My Josh
+- 2026-07-09 — Josh Widdicombe XFM #63 – Sunday Morning Shows Begin, Simon Evans, Nathaniel Metcalfe — speakers: Simon Evans, Nathaniel Metcalfe, James Acaster, Lucy Beaumont
+- 2026-07-09 — Josh Widdicombe XFM #62 Edinburgh Fringe 2014 - James Acaster Classic Scrape 35, Nish Kumar
+- 2026-07-09 — Josh Widdicombe XFM #61 Edinburgh Fringe 2014 - James Acaster Classic Scrape 34, Tim Key, Nish Kumar — speakers: Tim Key, James Acaster
+- 2026-07-08 — Josh Widdicombe XFM #60 Edinburgh Fringe 2014 - James Acaster Classic Scrape 33, Nish Kumar — speakers: James Acaster
 - 2026-07-08 — Josh Widdicombe XFM #59 Edinburgh Fringe 2014 - James Acaster Classic Scrape 32, Romesh Ranganathan — speakers: James Acaster
 - 2026-07-08 — Josh Widdicombe XFM #58 – Mike Wozniak Returns, Tom Rosenthal, Nish Kumar — speakers: Mike Wozniak Returns, Tom Rosenthal, Mike Wozniak, Nish Kumar
 - 2026-07-07 — Josh Widdicombe XFM #57 – Acaster Phones In, Adam Hills & Alex Brooker, Nish Kumar — speakers: Alex Brooker

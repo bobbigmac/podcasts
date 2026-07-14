@@ -2,6 +2,51 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "0149aa759a73e12b1036a65752da92ac5632b76f",
+        "episode_key": "0149aa759a73e12b1036a65752da92ac5632b76f",
+        "title": "Series 16 Trailer – Off Menu with Ed Gamble and James Acaster",
+        "published_at": "2026-07-14T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The Dream Restaurant re-opens for Series 16 on Wednesday 15th July. \nAnd you can now WATCH episodes on Apple Podcasts as well as YouTube. \n Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a4b7a773b774de65a100658/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/series-16-trailer-off-menu-with-ed-gamble-and-james-acaster/id1442950743?i=1000776698951&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "7d300963242ed4519eaad02cdb9d4a9ba3d60aab",
+        "episode_key": "7d300963242ed4519eaad02cdb9d4a9ba3d60aab",
+        "title": "Josh Widdicombe XFM #73 Christmas – James Acaster, Rhys James",
+        "published_at": "2026-07-13T17:38:45Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Rhys James plays Call My Josh and James Acaster joins Josh in the studio.15th December 2014.Ask",
+        "audio_url": "https://traffic.megaphone.fm/APO4024869988.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-73-christmas-james-acaster-rhys-james/id1866254969?i=1000776637705&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
@@ -5401,6 +5446,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "0149aa759a73e12b1036a65752da92ac5632b76f",
+        "episode_key": "0149aa759a73e12b1036a65752da92ac5632b76f",
+        "title": "Series 16 Trailer – Off Menu with Ed Gamble and James Acaster",
+        "published_at": "2026-07-14T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The Dream Restaurant re-opens for Series 16 on Wednesday 15th July. \nAnd you can now WATCH episodes on Apple Podcasts as well as YouTube. \n Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a4b7a773b774de65a100658/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/series-16-trailer-off-menu-with-ed-gamble-and-james-acaster/id1442950743?i=1000776698951&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
