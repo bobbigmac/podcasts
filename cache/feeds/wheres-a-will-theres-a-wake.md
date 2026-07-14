@@ -2,9 +2,9 @@
 
 - slug: `wheres-a-will-theres-a-wake`
 - source: `https://feeds.megaphone.fm/wtawtaw`
-- fetched_at: `2026-07-07T04:16:14+00:00`
-- checked_at: `2026-07-07T04:16:14+00:00`
-- last_modified: `Tue, 07 Jul 2026 04:00:00 GMT`
+- fetched_at: `2026-07-14T08:27:33+00:00`
+- checked_at: `2026-07-14T08:27:33+00:00`
+- last_modified: `Tue, 14 Jul 2026 04:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/wtawtaw",
   "description": "Join Mel Giedroyc every week as she laughs in the face of death with all your favourite funny celebrities. Working on the assumption they’ve popped their clogs, they’ll be telling Mel all about how they’ve died, what they want for their funerals and why she should be unlocking the pearly gates for them. Want the episodes ad free AND extra content from Mel and her guest? 6 Feet Under steps away from fantasy and rifles through all your dead good emails. Head to wheretheresawilltheresawake.com to subscribe. AND If you've got a story for us, send it over to mel@deathpodcast.co.uk. A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast Learn more about your ad choices. Visit podcastchoices.com/adchoices Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast To bring your brand to life in this podcast, email podcastadsales@sonymusic.com",
   "image_url": "https://megaphone.imgix.net/podcasts/2b690814-56d7-11ed-8ab5-83c1414d4a97/image/c6f317fd3e7d35323d3d1f610fd8466f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-07T04:16:14+00:00",
+  "fetched_at": "2026-07-14T08:27:33+00:00",
   "owners": [
     "Mel Giedroyc"
   ],
@@ -27,11 +27,32 @@
   ],
   "episodes": [
     {
+      "key": "fe79dc2af00391e38e1f5eb0c7c3a301db94252e",
+      "title": "Here Lies Ronni and Sally",
+      "published_at": "2026-07-14T04:00:00+00:00",
+      "link": null,
+      "description": "Swimming in chocolate mousse, clowns making a comeback and a rescue mission gone horribly wrong. It's a buy one get one free this episode, as Mel is joined by acting and comedy legends Ronni Ancona and Sally Phillips. Upgrade your everyday wardrobe (while you still can 👀): https://www.fatface.com/shop/womens/f/feat-newin?utm_source=referral&utm_medium=podcast&utm_campaign=wheretheresawill Use code: WHERETHERESAWILL20 for 20% off. Have a story for us? Send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts and follow us at @sonypodcasts To bring your brand to life in this podcast, email podcastadsales@sonymusic.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dbddee68-7c67-11f0-bc82-ab1638ee6d45/image/1eec8a041493d3a96e19f69ec1361052.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY7056273196.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2608",
+      "speakers": [
+        "Lies Ronni",
+        "Sally Swimming",
+        "Mel Giedroyc"
+      ],
+      "topics": [
+        "ronni",
+        "sally"
+      ]
+    },
+    {
       "key": "823c0252a3e360b73310448ab559fcaa4e940ab1",
       "title": "Here Lies Dan Snow",
       "published_at": "2026-07-07T04:00:00+00:00",
       "link": null,
-      "description": "The most historiclly stupid deaths, a free fireworks hack and a bit of Mary Berry's beef welly. Mel is joined in podcast afterife by none other than broadcaster and historian, Dan Snow! Upgrade your everyday wardrobe (while you still can 👀): https://www.fatface.com/shop/womens/f/feat-newin?utm_source=referral&utm_medium=podcast&utm_campaign=wheretheresawill Use code: WHERETHERESAWILL20 for 20% off. Have a story for us? Send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts and follow us at @sonypodcasts To bring your brand to life in this podcast, email podcastadsales@sonymusic.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "The most historically stupid deaths, a free fireworks hack and a bit of Mary Berry's beef welly. Mel is joined in podcast afterlife by none other than host of Dan Snow's History Hit podcast'... Dan Snow! Upgrade your everyday wardrobe (while you still can 👀): https://www.fatface.com/shop/womens/f/feat-newin?utm_source=referral&utm_medium=podcast&utm_campaign=wheretheresawill Use code: WHERETHERESAWILL20 for 20% off. Have a story for us? Send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts and follow us at @sonypodcasts To bring your brand to life in this podcast, email podcastadsales@sonymusic.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/dbc79d66-7c67-11f0-bc82-e33fbc3db6e8/image/9870d0bc678a3e04d294353a16fc926e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY1372379061.mp3",
       "enclosure_type": "audio/mpeg",
@@ -4152,6 +4173,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-14 — Here Lies Ronni and Sally — speakers: Lies Ronni, Sally Swimming, Mel Giedroyc
 - 2026-07-07 — Here Lies Dan Snow — speakers: Dan Snow, Mary Berry, Mel Giedroyc
 - 2026-06-30 — Here Lies Adam Buxton — speakers: Adam Buxton, Mel Giedroyc
 - 2026-06-23 — Here Lies Simon Brodkin — speakers: Simon Brodkin, Ripped Jesus, Mel Giedroyc

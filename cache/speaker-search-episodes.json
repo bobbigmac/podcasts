@@ -16819,6 +16819,28 @@
     ],
     "alex-horne": [
       {
+        "feed_slug": "external:apple:91794ccdb594",
+        "feed_title": "Bullseye with Jesse Thorn",
+        "source_rss_url": "https://feeds.npr.org/510309/podcast.xml",
+        "dedupe_key": "972dfea21e563e8976060ea7e8ce8a1ec813ae49",
+        "episode_key": "972dfea21e563e8976060ea7e8ce8a1ec813ae49",
+        "title": "Taskmaster’s Alex Horne and Greg Davies",
+        "published_at": "2026-07-14T07:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We’re talking all things Taskmaster! The British game show in which comedians compete against each other through a series of odd, sometimes very funny, tasks. The show’s creator, Alex Horne, and his co-host, Greg Davies, join us to chat about some of their favorite past tasks, why most of the contestants are comedians,",
+        "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510309/npr.simplecastaudio.com/549fd51b-7408-48ae-a2bc-49718ee6ed24/episodes/46449759-cf9d-474d-b025-560c15df5c84/audio/128/default.mp3?awCollectionId=549fd51b-7408-48ae-a2bc-49718ee6ed24&awEpisodeId=46449759-cf9d-474d-b025-560c15df5c84&feed=VPxSZKoN&t=podcast&e=nx-s1-5891862&p=510309&d=3047&size=48752893",
+        "link_url": "https://podcasts.apple.com/gb/podcast/taskmasters-alex-horne-and-greg-davies/id73331298?i=1000776647326&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:c5ff6adaa0a5",
         "feed_title": "Sort Your Life Out Unpacked",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/m002s1mz.rss",
@@ -27542,6 +27564,50 @@
       }
     ],
     "nish-kumar": [
+      {
+        "feed_slug": "external:apple:c8a54b0ba529",
+        "feed_title": "Stadio: A Football Podcast",
+        "source_rss_url": "https://feeds.acast.com/public/shows/685af115f42ce0122448ce47",
+        "dedupe_key": "60a7ae7fba86cf6ff0fcad5f7f8ba439be45a42c",
+        "episode_key": "60a7ae7fba86cf6ff0fcad5f7f8ba439be45a42c",
+        "title": "World Cup 2026, with Nish Kumar! Bellingham again, Spain and Argentina wins and more!",
+        "published_at": "2026-07-13T15:40:03Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Ahead of his guest appearance at the Stadio live show next week, Nish Kumar joins Musa and Ryan (04:01) to chat about England’s 2-1 win over Norway, which included some more Jude Bellingham brilliance (12:45). They also chat about Argentina getting past Switzerland (47:17), Spain’s win over Belgium (63:25), look ahead ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/685af115f42ce0122448ce47/e/6a5506d3420a266ecbd59544/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/world-cup-2026-with-nish-kumar-bellingham-again-spain/id1268851589?i=1000776620517&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f047526a0d67",
+        "feed_title": "How Do You Cope?",
+        "source_rss_url": "https://feeds.acast.com/public/shows/68da307b136216b12fc38bf5",
+        "dedupe_key": "d8c8e8f76c38cb5f103f45643697596f3721d8e8",
+        "episode_key": "d8c8e8f76c38cb5f103f45643697596f3721d8e8",
+        "title": "Nish Kumar: 'What surprised me is how little I knew about my own mind'",
+        "published_at": "2026-07-13T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What happens when you realise your mind has been protecting you in ways you never understood?\nIn this episode, John is joined by comedian Nish Kumar. \nAfter a gig in 2019 became the catalyst for a period of anxiety, fear and hypervigilance, Nish eventually received a diagnosis of PTSD. \nIn this conversation, he reflect",
+        "audio_url": "https://sphinx.acast.com/p/open/s/68da307b136216b12fc38bf5/e/6a4e6dbff8a80edf85e0ddd4/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar-what-surprised-me-is-how-little-i-knew-about/id1793829037?i=1000776542286&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",

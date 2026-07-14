@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-07-10T09:52:27+00:00`
-- checked_at: `2026-07-10T09:52:27+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RNMk5UazJNemswTURZPTo6c2F4ZXNz"`
+- fetched_at: `2026-07-14T08:27:33+00:00`
+- checked_at: `2026-07-14T08:27:33+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RRd01EVXlNemsyTnpNPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-07-10T09:52:27+00:00",
+  "fetched_at": "2026-07-14T08:27:33+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -28,8 +28,29 @@
   ],
   "episodes": [
     {
+      "key": "f26cea017b815f9b6439b626cc14b80698f2b618",
+      "title": "Help I’ve Been Wiping My Face With His D*ck Towel | And EVERYONE’S Horny",
+      "published_at": "2026-07-14T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-ive-been-wiping-my-face-with-his-dck-towel-and-everyone",
+      "description": "After a G&Diva casually mentions they like to keep track of who they thought was the most amusing in each episode, William and Jordan decide to actively compete in being the funniest person on the podcast. There's also a 'horny' atmosphere in the air, and Jordan is convinced he knows why. The boys also tackle your dilemmas involving growing a wispy moustache and finding out your partner has been using your face towel to clean their genitals. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Download SAILY in your app store and use the Sexted code HOLIDAYEXPERT at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/holidayexpert Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1783975389178-c1c5341a-a269-47bb-aa4c-16de4df97a6e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a50f9156abd98ea3bdceca5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=8CRhSHIp3ij0oZWVx0KLWIlY-BzwymnTLc6Zzy_2W2I",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46058266",
+      "itunes_duration": "47:58",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "face",
+        "towel",
+        "horny"
+      ]
+    },
+    {
       "key": "2a2764a66a8bf006903d3e28733bf404a9d2017c",
-      "title": "Strava Caught Me Sh*gging | And William is a FAKE",
+      "title": "Strava Caught Me Sh*gging | And William Is A FAKE",
       "published_at": "2026-07-10T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/strava-caught-me-shgging-and-william-is-a-fake",
       "description": "What do you do when your Strava detects some 'unusual activity' from the comfort of your own home? And how do you deal with the fact your best friend is turning into a FAKE?! The boys deal with both of these conundrums, plus tackle tacky birthday parties and some classic tumble dryer chat. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Download SAILY in your app store and use the Sexted code HOLIDAYEXPERT at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/holidayexpert Hosted on Acast. See acast.com/privacy for more information.",
@@ -71,7 +92,7 @@
     },
     {
       "key": "21aea0511cf40db81bc18e7f176ac7488b4eab25",
-      "title": "The Beef With Wendi Continues… And Jordan’s New Aroma",
+      "title": "The Beef With Wendi Continues | And Jordan’s New Aroma",
       "published_at": "2026-07-03T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/the-beef-with-wendi-continues-and-jordans-new-aroma",
       "description": "William just doesn’t know when to stop and is ready to pour more fuel on the fire for his beef with Wendi. But how will she react to his latest slander? Meanwhile, Jump Cut Jack has noticed a nostalgic aroma from Jordan that was meant to be a compliment, but in reality went down like a smelly lead balloon. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Download SAILY in your app store and use the Sexted code HOLIDAYEXPERT at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/holidayexpert Hosted on Acast. See acast.com/privacy for more information.",
@@ -88,7 +109,7 @@
       "topics": [
         "beef",
         "wendi",
-        "continues",
+        "continue",
         "jordan",
         "aroma"
       ]
@@ -6516,10 +6537,10 @@
     },
     {
       "key": "19c09526779112000e5d9412beb1d5b203dec008",
-      "title": "Help I Opened My Mum's Shoebox",
+      "title": "Help I Opened My Mum's Shoebox | And Clone-A-Willy",
       "published_at": "2023-08-08T05:59:32+00:00",
       "link": "https://audioalways.lnk.to/sextedmybossAC",
-      "description": "Preparations for William and Jordan's trip to Benidorm are well under way as they (once again) argue over coffee. Listen out for dilemmas about humming in public, catching naughty business on camera and a final dilemma that's well worth the wait! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Download SAILY in your app store and use the Sexted code HOLIDAYEXPERT at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/holidayexpert Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Preparations for William and Jordan's trip to Benidorm are well under way as they (once again) argue over coffee. Listen out for dilemmas about humming in public, catching naughty business on camera and a final Clone-A-Willy dilemma that's well worth the wait! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Download SAILY in your app store and use the Sexted code HOLIDAYEXPERT at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/holidayexpert Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/64d1d9c44e5d9b001181082e/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=7BmkIQqDpGf2Vna3R-DfB7p1n0c4O9U4RstQ9At8hMs",
       "enclosure_type": "audio/mpeg",
@@ -6530,7 +6551,9 @@
         "Jordan North"
       ],
       "topics": [
-        "shoebox"
+        "shoebox",
+        "clone",
+        "willy"
       ]
     },
     {
@@ -14651,9 +14674,10 @@
 
 ## Episodes (newest first)
 
-- 2026-07-10 — Strava Caught Me Sh*gging | And William is a FAKE — speakers: Strava Caught Me, William Hanson, Jordan North
+- 2026-07-14 — Help I’ve Been Wiping My Face With His D*ck Towel | And EVERYONE’S Horny — speakers: William Hanson, Jordan North
+- 2026-07-10 — Strava Caught Me Sh*gging | And William Is A FAKE — speakers: Strava Caught Me, William Hanson, Jordan North
 - 2026-07-07 — Help I’m A Feminist | And What’s Your Body Count? — speakers: William Hanson, Jordan North
-- 2026-07-03 — The Beef With Wendi Continues… And Jordan’s New Aroma — speakers: Wendi Continues, William Hanson, Jordan North
+- 2026-07-03 — The Beef With Wendi Continues | And Jordan’s New Aroma — speakers: Wendi Continues, William Hanson, Jordan North
 - 2026-06-30 — Help I’ve Scalded My A***hole | And Wendi’s Reply… — speakers: William Hanson, Jordan North
 - 2026-06-26 — Help I Fact Up! | With Joe Thomas And James Buckley — speakers: Joe Thomas, James Buckley, William Hanson, Jordan North
 - 2026-06-23 — Help I Regret Pup Play | And My Bad Boyfriend — speakers: William Hanson, Jordan North
@@ -14949,7 +14973,7 @@
 - 2023-08-18 — Weekend Release: Oliday From Ell — speakers: Grandma Glennis, William Hanson, Jordan North
 - 2023-08-15 — Help We've Entered Benidorm — speakers: Entered Benidorm William, William Hanson, Jordan North
 - 2023-08-11 — Weekend Release: A Picky Tea... Cha Cha Cha — speakers: William Hanson, Jordan North
-- 2023-08-08 — Help I Opened My Mum's Shoebox — speakers: William Hanson, Jordan North
+- 2023-08-08 — Help I Opened My Mum's Shoebox | And Clone-A-Willy — speakers: William Hanson, Jordan North
 - 2023-08-04 — Weekend Release: Tits and Toast — speakers: Robbie Taylor Hunt, William Hanson, Jordan North
 - 2023-08-01 — Help I've Seen Your Member — speakers: William Hanson, Jordan North
 - 2023-07-28 — Weekend Release: The Dubonettes — speakers: William Hanson, Jordan North
