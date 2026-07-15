@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-07-14T19:42:17+00:00`
-- checked_at: `2026-07-14T19:42:17+00:00`
-- etag: `"djEuMi4wOjE3ODM1OTUzMTkzMzM="`
+- fetched_at: `2026-07-15T16:44:42+00:00`
+- checked_at: `2026-07-15T16:44:42+00:00`
+- etag: `"djEuMi4wOjE3ODQxMjc2Mzk0ODE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-07-14T19:42:17+00:00",
+  "fetched_at": "2026-07-15T16:44:42+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "200134c248f61e340ef560d7645612b72f205423",
+      "title": "Trump's at it Again & Secret Wedding of the Century!",
+      "published_at": "2026-07-15T15:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/trumps-at-it-again-and-the-most-secretive-wedding-of-the-cen",
+      "description": "On issue 4385 of The Bugle, Andy is joined by Nish Kumar and Josh Gondelman, as the trio catch on this week's news as the USA celebrated their 250th birthday, we also delve into the ongoing chaos in Iran. The three imagine what the most secretive wedding of the year was like after Taylor Swift tied the knot with Travis Kelce. PLUS UK news, we catch up on the Farage facade following his resignation and subsequent bi-election and the World Cup ahead of England's semi-final clash! All this in issue 4385 of The Bugle. 🇺🇸: A look back into USA 250th Birthday celebrations 🇬🇧 Farage Facade: The Bugle catch up on chaos of Nigel Farage and his Reform party 🏆 World Cup update: Andy, Nish and Josh discuss the upcoming semifinal as England take on old foe Argentina Donate to Emilia: https://www.crowdfunder.co.uk/p/a-safe-accessible-home-for-emilia Andy's Links: https://www.andyzaltzman.co.uk/ Nish Kumar's Links: https://www.nishkumar.co.uk/ Josh Gondelman's Links: https://www.joshgondelman.com/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a57953308297530434833d1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53120522",
+      "itunes_duration": "55:20",
+      "speakers": [
+        "Josh Gondelman",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "trump",
+        "secret",
+        "wedding",
+        "century"
+      ]
+    },
     {
       "key": "f5c99bf451a016ad78c5ca397616b8848c917490",
       "title": "HAPPY 250th USA",
@@ -14374,6 +14396,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-15 — Trump's at it Again & Secret Wedding of the Century! — speakers: Josh Gondelman, Andy Zaltzman
 - 2026-07-08 — HAPPY 250th USA — speakers: Andy Zaltzman
 - 2026-07-01 — The Bugle World Cup Special — speakers: Andy Zaltzman
 - 2026-06-24 — British Politics Plunged into CHAOS (again) — speakers: Alice Fraser, Neil Delamere, Andy Zaltzman
