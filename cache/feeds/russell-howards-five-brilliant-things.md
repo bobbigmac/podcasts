@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-07-08T03:43:39+00:00`
-- checked_at: `2026-07-08T03:43:39+00:00`
-- last_modified: `Wed, 08 Jul 2026 01:07:11 GMT`
+- fetched_at: `2026-07-15T03:32:47+00:00`
+- checked_at: `2026-07-15T03:32:47+00:00`
+- last_modified: `Wed, 15 Jul 2026 01:07:42 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-08T03:43:39+00:00",
+  "fetched_at": "2026-07-15T03:32:47+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d2e936834cec3c73e5bd4359f28bf5d97a59f8df",
+      "title": "Bella Hull",
+      "published_at": "2026-07-15T01:00:00+00:00",
+      "link": null,
+      "description": "Horror gig stories are always fun; Comedian and SNL UK writer Bella Hull serves up some of the best in the business. If art is suffering then Bella is Leonardo da Vinci. Bella is one of the most exciting newer voices on the UK comedy circuit and even a brief listen to this episode demonstrates why: her strong feelings about duvets, pies and the sensation of going downhill are told with panache and genuine enthusiasm. Bella has created, just for you, a new show and it will be on at this year’s Edinburgh Fringe Festival! It’s called Mad Cow Disease, it’s on at 12:30pm at Monkey Barrel and it’s going to be a hot ticket so booking in advance is advisable. You can get tickets by clicking here . If you can bear it, then we will be apart for a few days but as always we shall return next week. How lucky I am to have something that makes saying goodbye so hard. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9777b5a6-7dd8-11f1-9b0c-038a5d582a1a/image/816908222d2c57f56afa3a343b49ae92.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3005248821.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3507",
+      "speakers": [
+        "Bella Hull Horror",
+        "Bella Hull",
+        "Russell Howard"
+      ],
+      "topics": [
+        "bella",
+        "hull"
+      ]
+    },
     {
       "key": "6906804e47b3c9b6218b9f3cd0f2bc3d52fa9c6b",
       "title": "Peter Serafinowicz",
@@ -2193,25 +2214,6 @@
       ]
     },
     {
-      "key": "bdf94e419295abe12a6c2fca8b1558f63065bc67",
-      "title": "Linford Christie",
-      "published_at": "2024-09-23T13:50:00+00:00",
-      "link": "https://russellhowardswonderbox.podbean.com/e/50-linford-christie/",
-      "description": "Did Linford Christie take part in the Dad’s race at his kids’s school sports day? Russell and Linford discuss what it’s like to be bloody quick, what it’s like to win an Olympic gold medal, and why Linford used to growl like a tiger at his competitors on the starting blocks. It’s a really interesting and intimate chat with a British legend, seeing a side to him that we rarely get to see. It’s really worth watching the documentary all about Linford’s career and life. It’s called simply ‘Linford’, which is on BBC iPlayer, or if you’re abroad it’s on iPlayer with a VPN (wink wink). It really tells the story well, with fascinating insights and at times it gets pretty emotional. You don’t need me to give you a link to iPlayer. If you can’t find that with a search engine then you deserve to have your internet taken away from you. Russell is back out on the road doing all sorts of bits and bobs, with Canada coming up, also Sweden, Norway…check out his movements at Russell-howard.co.uk That’s all for this week. I’m off for a quick 13 minute nap. That’s the golden number apparently for efficient napping. I’ll let you know how it goes. Goodbye for now, old friend. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3535104455.mp3?updated=1727099745",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3762",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "linford",
-        "christie"
-      ]
-    },
-    {
       "key": "2cafbd446e2182c416b71e38b3d857f96687ea57",
       "title": "David O'Doherty LIVE from the Edinburgh Festival",
       "published_at": "2024-09-23T13:50:00+00:00",
@@ -2230,6 +2232,25 @@
         "david",
         "edinburgh",
         "festival"
+      ]
+    },
+    {
+      "key": "bdf94e419295abe12a6c2fca8b1558f63065bc67",
+      "title": "Linford Christie",
+      "published_at": "2024-09-23T13:50:00+00:00",
+      "link": "https://russellhowardswonderbox.podbean.com/e/50-linford-christie/",
+      "description": "Did Linford Christie take part in the Dad’s race at his kids’s school sports day? Russell and Linford discuss what it’s like to be bloody quick, what it’s like to win an Olympic gold medal, and why Linford used to growl like a tiger at his competitors on the starting blocks. It’s a really interesting and intimate chat with a British legend, seeing a side to him that we rarely get to see. It’s really worth watching the documentary all about Linford’s career and life. It’s called simply ‘Linford’, which is on BBC iPlayer, or if you’re abroad it’s on iPlayer with a VPN (wink wink). It really tells the story well, with fascinating insights and at times it gets pretty emotional. You don’t need me to give you a link to iPlayer. If you can’t find that with a search engine then you deserve to have your internet taken away from you. Russell is back out on the road doing all sorts of bits and bobs, with Canada coming up, also Sweden, Norway…check out his movements at Russell-howard.co.uk That’s all for this week. I’m off for a quick 13 minute nap. That’s the golden number apparently for efficient napping. I’ll let you know how it goes. Goodbye for now, old friend. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3535104455.mp3?updated=1727099745",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3762",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "linford",
+        "christie"
       ]
     },
     {
@@ -3153,26 +3174,6 @@
       ]
     },
     {
-      "key": "924c820cca749517d697f9fd72841775d38ebe40",
-      "title": "2. Sam Ryder",
-      "published_at": "2023-10-11T00:00:00+00:00",
-      "link": "https://russellhowardswonderbox.podbean.com/e/sam-ryder-s-wonderbox/",
-      "description": "Sitting down with Russell today is Britain’s singing sensation Sam Ryder! Sam and Russell discuss Sam’s love of Formula One racing, Sam tries to get a whole branch of Zizzis into the Wonderbox, and he explains why a sheriff’s badge brings back the best memories of all. Russell is currently on tour in the US and UK: visit russell-howard.co.uk to find out more and book tickets. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3739351995.mp3?updated=1724199773",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3461",
-      "speakers": [
-        "Sam Ryder Sitting",
-        "Sam Ryder",
-        "Russell Howard"
-      ],
-      "topics": [
-        "ryder"
-      ]
-    },
-    {
       "key": "bf03113301d6d5ef63cfab1beb51af9273cd52fb",
       "title": "1. Munya Chawawa",
       "published_at": "2023-10-11T00:00:00+00:00",
@@ -3190,6 +3191,26 @@
       "topics": [
         "munya",
         "chawawa"
+      ]
+    },
+    {
+      "key": "924c820cca749517d697f9fd72841775d38ebe40",
+      "title": "2. Sam Ryder",
+      "published_at": "2023-10-11T00:00:00+00:00",
+      "link": "https://russellhowardswonderbox.podbean.com/e/sam-ryder-s-wonderbox/",
+      "description": "Sitting down with Russell today is Britain’s singing sensation Sam Ryder! Sam and Russell discuss Sam’s love of Formula One racing, Sam tries to get a whole branch of Zizzis into the Wonderbox, and he explains why a sheriff’s badge brings back the best memories of all. Russell is currently on tour in the US and UK: visit russell-howard.co.uk to find out more and book tickets. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3739351995.mp3?updated=1724199773",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3461",
+      "speakers": [
+        "Sam Ryder Sitting",
+        "Sam Ryder",
+        "Russell Howard"
+      ],
+      "topics": [
+        "ryder"
       ]
     },
     {
@@ -3215,6 +3236,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-15 — Bella Hull — speakers: Bella Hull Horror, Bella Hull, Russell Howard
 - 2026-07-08 — Peter Serafinowicz — speakers: Peter Serafinowicz Comedian, Peter Serafinowicz, Russell Howard
 - 2026-07-07 — June's Moments of the Month — speakers: Month Hello, Russell Howard
 - 2026-07-01 — Natalie Cassidy — speakers: Natalie Cassidy, Russell Howard
@@ -3323,8 +3345,8 @@
 - 2024-10-09 — Stephen Merchant — speakers: Stephen Merchant, Russell Howard
 - 2024-10-02 — Ashley Roberts — speakers: Ashley Roberts, Russell Howard
 - 2024-09-25 — Adam Hills — speakers: Adam Hills, Russell Howard
-- 2024-09-23 — Linford Christie — speakers: Russell Howard
 - 2024-09-23 — David O'Doherty LIVE from the Edinburgh Festival — speakers: David O'Doherty, Russell Howard
+- 2024-09-23 — Linford Christie — speakers: Russell Howard
 - 2024-08-28 — 48. Matt Forde — speakers: Matt Forde, Russell Howard
 - 2024-08-21 — 47. Jason Byrne LIVE from the Edinburgh Festival — speakers: Russell Howard
 - 2024-08-14 — 46. Larry Dean LIVE from the Fringe — speakers: Larry Dean, Russell Howard
@@ -3371,6 +3393,6 @@
 - 2023-11-01 — 5. Jordan Gray — speakers: Jordan Gray Stand, Jordan Gray, Russell Howard
 - 2023-10-25 — 4. Jen Brister — speakers: Russell Howard
 - 2023-10-18 — 3. Jimmy Carr — speakers: Jimmy Carr, Russell Howard
-- 2023-10-11 — 2. Sam Ryder — speakers: Sam Ryder Sitting, Sam Ryder, Russell Howard
 - 2023-10-11 — 1. Munya Chawawa — speakers: Munya Chawawa, Russell Howard
+- 2023-10-11 — 2. Sam Ryder — speakers: Sam Ryder Sitting, Sam Ryder, Russell Howard
 - 2023-09-28 — Trailer — speakers: Russell Howard

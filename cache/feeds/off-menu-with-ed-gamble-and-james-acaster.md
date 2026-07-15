@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-07-08T03:43:39+00:00`
-- checked_at: `2026-07-08T03:43:39+00:00`
-- etag: `"djEuMi4wOjE3ODM0MjE3MjUzNzI="`
+- fetched_at: `2026-07-15T03:32:47+00:00`
+- checked_at: `2026-07-15T03:32:47+00:00`
+- etag: `"djEuMi4wOjE3ODQwODQ0Mzk3MTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-07-08T03:43:39+00:00",
+  "fetched_at": "2026-07-15T03:32:47+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,82 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e067dfdac8baad63d1d707e684ed362fe47a796b",
+      "title": "Phil Ellis",
+      "published_at": "2026-07-15T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/phil-ellis",
+      "description": "The Dream Restaurant’s open for business once more, and our first diner for series 16 is ‘Taskmaster’ star and Edinburgh Comedy Award nominee Phil Ellis. If you’re listening on Apple Podcasts you can now watch this episode too. And what an episode to watch. Phil Ellis is currently on a nationwide stand-up tour with Bath Mat, including an extra London show at Wilton’s Music Hall on 10th October. He will also be taking the show to Monkey Barrel 1 as part of the Edinburgh Festival Fringe from 3rd - 30th August at 1.55pm. For more info and tickets visit philelliscomedy.com Listen to Phil’s podcast ‘Early Worms’ Follow Phil on Instagram @philelliscomedy Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1783350289466-9194dff7-9c07-4da4-afcd-c15622eaf269.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a4b9bbb3b774de65a100659/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74866520",
+      "itunes_duration": "1:17:59",
+      "speakers": [
+        "Phil Ellis",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "phil",
+        "ellis"
+      ]
+    },
+    {
+      "key": "4bf4138bf81746201ef0a79ac4f4e9c2e6a33db7",
+      "title": "Series 16 Trailer – Off Menu with Ed Gamble and James Acaster",
+      "published_at": "2026-07-14T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/series-16-trailer-off-menu-with-ed-gamble-and-james-acaster",
+      "description": "The Dream Restaurant re-opens for Series 16 on Wednesday 15th July. And you can now WATCH episodes on Apple Podcasts as well as YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a4b7a773b774de65a100658/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "1790955",
+      "itunes_duration": "1:51",
+      "speakers": [
+        "James Acaster",
+        "Ed Gamble",
+        "Ben Williams"
+      ],
+      "topics": [
+        "series",
+        "menu",
+        "gamble",
+        "james",
+        "acaster"
+      ]
+    },
+    {
+      "key": "f62d0da83430a7829c7485c94a7233a6184c07f4",
+      "title": "Nicola Coughlan (Tasting Menu – Live at the Royal Albert Hall)",
+      "published_at": "2026-07-13T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/nicola-coughlan-tasting-menu-live-at-the-royal-albert-hall",
+      "description": "It’s Royal Albert Hall Tasting Menu time, and joining us for this live episode is ‘Bridgerton’ and ‘Derry Girls’ star Nicola Coughlan. On Nicola’s original episode she locked herself out of her flat. Will she do the same at the Royal Albert Hall? Nicola is starring in the next of Channel 4’s anthology series, ‘I Am’, with ‘I Am Helen’ being released later this year. She’s also joined the cast of ‘Only Murders in the Building’, so look out for the new series. Follow Nicola on Instagram @nicolacoughlan Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced and edited by Ben Williams for Plosive . Recorded by Matt Mountford-Lister for Storm Productions Group live at the Royal Albert Hall. Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Watch Ed and James's YouTube series 'Just Puddings'. Watch here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1782295777575-74f4a884-c82c-46f0-a46b-45711b7b11c4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a3bad0e1d1e464c6541765b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83245696",
+      "itunes_duration": "1:09:22",
+      "speakers": [
+        "Nicola Coughlan",
+        "Tasting Menu",
+        "Royal Albert Hall",
+        "Royal Albert Hall Tasting",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "nicola",
+        "coughlan",
+        "tasting",
+        "menu",
+        "royal",
+        "albert",
+        "hall"
+      ]
+    },
     {
       "key": "cb7972adf6101ac854dc46dbad687ce240e05b74",
       "title": "Kiell Smith-Bynoe (Tasting Menu – Live at the Royal Albert Hall)",
@@ -8635,6 +8711,9 @@
 
 ## Episodes (newest first)
 
+- 2026-07-15 — Phil Ellis — speakers: Phil Ellis, Ed Gamble, James Acaster, Ben Williams
+- 2026-07-14 — Series 16 Trailer – Off Menu with Ed Gamble and James Acaster — speakers: James Acaster, Ed Gamble, Ben Williams
+- 2026-07-13 — Nicola Coughlan (Tasting Menu – Live at the Royal Albert Hall) — speakers: Nicola Coughlan, Tasting Menu, Royal Albert Hall, Royal Albert Hall Tasting, Ed Gamble, James Acaster, Ben Williams
 - 2026-07-06 — Kiell Smith-Bynoe (Tasting Menu – Live at the Royal Albert Hall) — speakers: Kiell Smith-Bynoe, Ed Gamble, James Acaster, Ben Williams
 - 2026-06-29 — Katherine Ryan (Tasting Menu – Live at the Royal Albert Hall) — speakers: Katherine Ryan, Ed Gamble, James Acaster, Ben Williams
 - 2026-06-22 — Aisling Bea (Tasting Menu – Live at the Royal Albert Hall) — speakers: Aisling Bea, Ed Gamble, James Acaster, Ben Williams

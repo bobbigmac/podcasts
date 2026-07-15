@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-07-08T03:43:39+00:00`
-- checked_at: `2026-07-08T03:43:39+00:00`
-- etag: `"djEuMi4wOjE3ODM0Njg4Mzk0Nzg="`
+- fetched_at: `2026-07-15T03:32:47+00:00`
+- checked_at: `2026-07-15T03:32:47+00:00`
+- etag: `"djEuMi4wOjE3ODQwNzM2Mzk0NjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-07-08T03:43:39+00:00",
+  "fetched_at": "2026-07-15T03:32:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "8cfee4c00214f4d4c892a48b3ccbb91c43a12f5a",
+      "title": "Suki Waterhouse",
+      "published_at": "2026-07-15T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/suki-waterhouse",
+      "description": "This week we’re joined by singer, songwriter, actress and model Suki Waterhouse! Suki came over on the hottest day of the year (so far!), and mum made a delicious refreshing Asian chicken soba noodle salad for lunch, and a fab gooseberry custard tart for pud. Suki told us about what it was like touring with a baby, her love of cauliflower cheese with baked beans, life in London while her partner Robert Pattinson films the new Batman, what it was like opening for Taylor Swift on tour, her tips for vintage & charity shopping, and she reveals her plastic surgeon dad’s unforgettable story… just wait! Thank you for a beautiful afternoon Suki, her album Loveland is out now and she will be on tour across the US this summer. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1784042119687-3e7e7b7f-7639-476c-9a2c-f7d45a572ca5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a551ac808f5afd1341913bb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45237394",
+      "itunes_duration": "47:07",
+      "speakers": [
+        "Suki Waterhouse"
+      ],
+      "topics": [
+        "suki",
+        "waterhouse"
+      ]
+    },
     {
       "key": "ad41b598f0880445ce2e3c44bbd0cf2bf9b5edf0",
       "title": "Olivia Wilde",
@@ -7273,6 +7292,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-15 — Suki Waterhouse — speakers: Suki Waterhouse
 - 2026-07-08 — Olivia Wilde — speakers: Olivia Wilde
 - 2026-07-01 — Gracie Abrams — speakers: Gracie Abrams Superstar
 - 2026-06-24 — Indira Varma — speakers: Indira Varma

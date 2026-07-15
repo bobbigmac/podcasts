@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-07-12T03:56:07+00:00`
-- checked_at: `2026-07-12T03:56:07+00:00`
-- etag: `"djEuMi4wOjE3ODM4MjUyMzkzODk="`
+- fetched_at: `2026-07-15T03:32:47+00:00`
+- checked_at: `2026-07-15T03:32:47+00:00`
+- etag: `"djEuMi4wOjE3ODQwODQ0Mzk3OTU="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-07-12T03:56:07+00:00",
+  "fetched_at": "2026-07-15T03:32:47+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "88b4367b7facd9b6c62989637cb5b7b7a0fb3803",
+      "title": "WDWDY #79.1: I've got a question for you (David's Yesterday)",
+      "published_at": "2026-07-15T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-791-ive-got-a-question-for-you-davids-yesterday",
+      "description": "In this midweek mayhem episode we find out what David did with his yesterday... If you want to hear all about what Max did on this exact day then you need to be 'IN IT FOR LIFE' Sign up HERE and here https://yesterdaypod.supportingcast.fm/ Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1784068163218-82c84ddb-6c8a-4d4a-ae94-dec61402962d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a56c00692be37cb7b4da6d7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "48710217",
+      "itunes_duration": "50:44",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "question",
+        "david",
+        "yesterday"
+      ]
+    },
     {
       "key": "6d25136f09a09fd4d244ccc476701342912c5914",
       "title": "S5 EP4: Mike Rice",
@@ -3698,6 +3719,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-15 — WDWDY #79.1: I've got a question for you (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-07-12 — S5 EP4: Mike Rice — speakers: Mike Rice, Max Rushden, David O'Doherty
 - 2026-07-08 — WDWDY #78.1: Le Grande Gazpacho (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-07-05 — S5 EP3: Dan Tiernan — speakers: Dan Tiernan, Max Rushden, David O'Doherty

@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-07-13T19:48:48+00:00`
-- checked_at: `2026-07-13T19:48:48+00:00`
-- etag: `"djEuMi4wOjE3ODM5NjkxNTcxMTk="`
+- fetched_at: `2026-07-15T03:32:47+00:00`
+- checked_at: `2026-07-15T03:32:47+00:00`
+- etag: `"djEuMi4wOjE3ODQwNzI1NTkyOTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-07-13T19:48:48+00:00",
+  "fetched_at": "2026-07-15T03:32:47+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "ac5da236170df1b79af4316358c6d7be240141d7",
+      "title": "Nish Kumar (pt 1)",
+      "published_at": "2026-07-14T23:42:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/nish-kumar-pt-1",
+      "description": "Our special guest this week is Nish Kumar . Nish is one of Britain's most acclaimed comedians, broadcasters and podcasters. He is best known as the host of The Mash Report and Late Night Mash , as co-host of the hugely popular political podcast Pod Save the UK , and for his award-winning stand-up shows that have toured across the UK, Europe, Australia and North America. Nish joins Elis, Mike and Steff for a conversation that covers golf collapses, cricket greatness and Sir Alex Ferguson -PART 2 is out on Friday!! Clips Nish: Jean van de Velde's Open Championship collapse https://youtu.be/1dR1pkCGY80?is=NPLbdJbGm-62fBdP Nish: India cricket https://youtu.be/wY6UyatwVTA?is=I24ovUUVFo493i6S Nish: Sir Alex Ferguson https://youtu.be/IAmHcJ_LcMM?is=HOiHAeqK695vJi_r Nish is currently touring the UK and Ireland with his latest stand-up show, Angry Humour From a Really Nice Guy . Tour dates: https://www.nishkumar.co.uk/gigs/ Part 2 will be out on Friday. If you want the bonus content from our chat with Nish, that's available as Part 3 for subscribers. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a5533c5420a266ecbe5815a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90960000",
+      "itunes_duration": "37:53",
+      "speakers": [
+        "Nish Kumar",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "kumar"
+      ]
+    },
     {
       "key": "a79f7b5248b53d21b6993fb10d81c9acf557b033",
       "title": "Dominoes: Pint Size",
@@ -15345,6 +15366,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-14 — Nish Kumar (pt 1) — speakers: Nish Kumar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-11 — Dominoes: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-09 — The Exeter CEOs LIVE — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-07 — The Hackney Half LIVE — speakers: Description Welcome, Socially Distan, Elis James, Mike Bubbins, Steff Garrero

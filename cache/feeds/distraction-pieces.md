@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-07-10T04:13:38+00:00`
-- checked_at: `2026-07-10T04:13:38+00:00`
-- etag: `"djEuMi4wOjE3ODM2NTM2MzkyODg="`
+- fetched_at: `2026-07-15T03:32:47+00:00`
+- checked_at: `2026-07-15T03:32:47+00:00`
+- etag: `"djEuMi4wOjE3ODQwODU2MzkzODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-07-10T04:13:38+00:00",
+  "fetched_at": "2026-07-15T03:32:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,8 +26,35 @@
   ],
   "episodes": [
     {
+      "key": "8b71394d5c4af478d00da6d4570e87461e338f8d",
+      "title": "ELIS JAMES • Thinking big, like Royal Albert Hall-big (Elis & John / Socially Distant Sports Club / standup) #680",
+      "published_at": "2026-07-15T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by frankly long overdue comic and podcaster ELIS JAMES ! Elis is something of a missing piece in the Distraction Pieces puzzle, one of those guests whose appearance was only a matter of time (a long time, sure, but inevitable). It's a pleasure to have him, and as you'd expect/demand, so much ground gets covered. Silence and not stressing it, a Humble Pie album of all things, podcasting with John Robins, the nuance of performance environments and the beauty of old venues, the weird and not awesome world of early morning comedy gigs, performing standup in Welsh, opportunity and being bold, the long and surprising road to the Albert Hall, football, technology adjusted ambition, the Cymru Connection (and the New York Times discovering it), and other favourite podcasts. Oh but so much besides. Lovely stuff, enjoy! PIP'S PATREON PAGE if you're of a supporting nature ONLINE MANY ELIS & JOHN LINKS EP 428 Elis & John podcast HUMBLE PIE ELIS IN NEW YORK TIMES SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1784021810493-3b5feb96-94df-4733-8121-bb77d35a856c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a5607bc659a63f69c8fdbbf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "200048559",
+      "itunes_duration": "1:23:17",
+      "speakers": [
+        "James Thinking"
+      ],
+      "topics": [
+        "elis",
+        "james",
+        "royal",
+        "albert",
+        "hall",
+        "john",
+        "socially",
+        "distant",
+        "sports",
+        "club"
+      ]
+    },
+    {
       "key": "003ba2a38d70043383522ae6d3c7a945d4b436f2",
-      "title": "GUZ KHAN (Mission Impossible / Guardians... / Westworld) • Friday Rewind",
+      "title": "GUZ KHAN (Bait / Man Like Mobeen / Walk Like A Panther) • Friday Rewind",
       "published_at": "2026-07-10T03:20:00+00:00",
       "link": "https://www.patreon.com/scroobiuspip",
       "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Guz Khan , originally episode 185 from 2018-01-24. Original writeup below: Mad entertaining from start to end, as Pip sits down with Guz for a truly matey chat but which brings out the best of both! They were first acquainted back around a year ago on set on the upcoming ‘ Walk Like A Panther ’, where they behaved like naughty schoolkids on set by all accounts, and this is a catchup / roundup / ahead look at what Guz is involved with - a huge amount it turns out, and a wide range of topics get handled, such as Guz being new to the whole celebrity life and how surreal it can be (down to the weirdness of having a team), the importance of vibes on set and getting on with the crew, how he was essentially raised by three strong women and how that shaped his personality and humour, the art of storytelling, outrage vs laughing it off, teaching and how moments of discussion and clarity are so important to catch and build on, getting the tone right in filming in his hometown and creating a friendly space to do so, and just a whole ton more… Oh, and his new show ‘ Man Like Mobeen ’ on BBC3! Massive. PIP'S PATREON PAGE if you're of a supporting nature IMDB INSTAGRAM BAIT PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
@@ -39,10 +66,10 @@
       "speakers": [],
       "topics": [
         "khan",
-        "mission",
-        "impossible",
-        "guardians",
-        "westworld",
+        "bait",
+        "mobeen",
+        "walk",
+        "panther",
         "friday",
         "rewind"
       ]
@@ -19180,7 +19207,8 @@
 
 ## Episodes (newest first)
 
-- 2026-07-10 — GUZ KHAN (Mission Impossible / Guardians... / Westworld) • Friday Rewind
+- 2026-07-15 — ELIS JAMES • Thinking big, like Royal Albert Hall-big (Elis & John / Socially Distant Sports Club / standup) #680 — speakers: James Thinking
+- 2026-07-10 — GUZ KHAN (Bait / Man Like Mobeen / Walk Like A Panther) • Friday Rewind
 - 2026-07-08 — TOMO CAMPBELL • Live @ Harry Styles' Meltdown (Southbank Centre, London) #679 — speakers: Harry Styles
 - 2026-07-03 — POM KLEMENTIEFF (Mission Impossible / Guardians... / Westworld) • Friday Rewind
 - 2026-07-01 — MARK WATSON • "You must be tired!" (Before It Overtakes Us / Murder Of A Famous Bastard / No More Jockeys) #678

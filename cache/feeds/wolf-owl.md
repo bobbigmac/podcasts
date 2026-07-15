@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-07-08T03:43:39+00:00`
-- checked_at: `2026-07-08T03:43:39+00:00`
-- last_modified: `Mon, 06 Jul 2026 23:10:16 GMT`
+- fetched_at: `2026-07-15T03:32:47+00:00`
+- checked_at: `2026-07-15T03:32:47+00:00`
+- last_modified: `Mon, 13 Jul 2026 23:10:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-08T03:43:39+00:00",
+  "fetched_at": "2026-07-15T03:32:47+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,53 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c5463fc78e19e7dab53b4bfe93fed57dd865f94b",
+      "title": "Heart Attacks, Trauma Dumps & Bad Service Stations",
+      "published_at": "2026-07-13T23:01:00+00:00",
+      "link": null,
+      "description": "Can Tom save a marriage? This week on Wolf & Owl, Tom attempts to settle a marital argument while Romesh shares a story involving a fire extinguisher that doesn't quite go to plan. Elsewhere, the boys discuss health scares, heart attacks, spicy food challenges and we have a very exciting announcement, before wrapping things up in the only way Wolf & Owl knows how, an ever-inspiring monologue from Tom. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:46 Tom’s electrolyte company 05:57 Health and heart attacks 11:42 Romesh’s fire extinguisher story 18:10 On the spicy chip challenge 18:49 Romesh’s news 20:09 Tom’s bad services experience 22:13 An announcement 26:43 Tom mediates a marital argument 37:10 Tom's Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/233c1aea-7ed9-11f1-9e1a-db9f5e7e045e/image/79064b8c5e59de1c6f13fd479485aa60.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3700505087.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2529",
+      "speakers": [
+        "Service Stations",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "heart",
+        "attacks",
+        "trauma",
+        "dumps",
+        "service",
+        "stations"
+      ]
+    },
+    {
+      "key": "bdac605061a3a2cf615c2ab06d544e8715608051",
+      "title": "Fart Stories, SNL Opinions And Mooning",
+      "published_at": "2026-07-09T23:01:00+00:00",
+      "link": null,
+      "description": "Would Tom and Romesh ever host Saturday Night Live? This week on Wolf & Owl, the boys address Romesh's worst fart story. Plus we answer your emails about the strangest public encounters we've ever heard. From discussing whether they'd ever take on Saturday Night Live UK to opening up about their changing relationship with alcohol, it's another glorious episode. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:48 Revisiting Romeh’s fart story 06:51 Answering your emails 13:13 Would they do SNL? 17:50 Thoughts on cutting out alcohol 26:33 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/726f4188-7b86-11f1-8a68-4326b4c01186/image/d47db097c8e22ac83c284955033d57d4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9732955789.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1758",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "fart",
+        "stories",
+        "opinion",
+        "mooning"
+      ]
+    },
     {
       "key": "25d1e3370ca238ad9a1ffad3b1f0bcb8326e3358",
       "title": "Toy Story 5, Celebrity Gladiators & Brain Training",
@@ -7085,6 +7132,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-13 — Heart Attacks, Trauma Dumps & Bad Service Stations — speakers: Service Stations, Romesh Ranganathan, Tom Davis
+- 2026-07-09 — Fart Stories, SNL Opinions And Mooning — speakers: Romesh Ranganathan, Tom Davis
 - 2026-07-06 — Toy Story 5, Celebrity Gladiators & Brain Training — speakers: Toy Story, Romesh Ranganathan, Tom Davis
 - 2026-07-02 — Pet Problems, Bad Neighbours & Forest Etiquette — speakers: Romesh Ranganathan, Tom Davis
 - 2026-06-29 — Auditions, Ranking Actors & Weird Parenting Advice — speakers: Romesh Ranganathan, Tom Davis

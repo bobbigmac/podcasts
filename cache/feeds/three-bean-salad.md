@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-07-08T03:43:39+00:00`
-- checked_at: `2026-07-08T03:43:39+00:00`
-- etag: `"a3f38-6560e677b8556"`
-- last_modified: `Wed, 08 Jul 2026 00:15:25 GMT`
+- fetched_at: `2026-07-15T03:32:47+00:00`
+- checked_at: `2026-07-15T03:32:47+00:00`
+- etag: `"a4b31-6569b38aa3e5c"`
+- last_modified: `Wed, 15 Jul 2026 00:15:30 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-07-08T03:43:39+00:00",
+  "fetched_at": "2026-07-15T03:32:47+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "288ffcce5af978466fc2968e7dfb1872665ed449",
+      "title": "Stationary",
+      "published_at": "2026-07-15T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/stationary",
+      "description": "Can anything ever truly be still (apart from David Blaine)? Perhaps this is what Lou of Bend, Oregon would have the beans ponder by suggesting “stationary” as this week’s topic. Or perhaps Lou is in the middle of getting stalked by a brown bear and, while playing dead and only able to operate a mobile telephone from inside the pocket of a pair of waterproof trousers, thought posting this suggestion into the bean machine would be the quickest and surest way to get help. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/820bf216-4175-4cce-900b-62d5b60e3771/S21-E07-Stationary.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/6edb10ba-6dbf-4131-aade-c66686afd66b.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=6edb10ba-6dbf-4131-aade-c66686afd66b",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63043754",
+      "itunes_duration": "01:05:40",
+      "speakers": [
+        "David Blaine",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "stationary"
+      ]
+    },
     {
       "key": "657ac3bd6248eb616011145d3511d57279f8f635",
       "title": "Village Fêtes",
@@ -4375,6 +4396,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-15 — Stationary — speakers: David Blaine, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-08 — Village Fêtes — speakers: High Street, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-01 — The Roman Empire — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-06-24 — Seaside Towns — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge

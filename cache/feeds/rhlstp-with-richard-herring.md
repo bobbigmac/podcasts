@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-13T03:58:44+00:00`
-- checked_at: `2026-07-13T03:58:44+00:00`
-- etag: `"djEuMi4wOjE3ODM5MTE0NTkzNzU="`
+- fetched_at: `2026-07-15T03:32:47+00:00`
+- checked_at: `2026-07-15T03:32:47+00:00`
+- etag: `"djEuMi4wOjE3ODQwODQyNTkzNzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-13T03:58:44+00:00",
+  "fetched_at": "2026-07-15T03:32:47+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c0732761b93eb5b2e377f2f27074479c5b80cd63",
+      "title": "Mitch Benn (Part 2) - \"Two Large Fifty-Something Tiny Tims\"",
+      "published_at": "2026-07-15T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #618 - Two Large Fifty-Something Tiny Tims - Rich is back in salty Droitwich with last week’s guest Mitch Benn. They discuss the huge number of Edinburgh shows Mitch has done, his fandom of Tom Lehrer, Mitch is the 37th Beatle, an unexpected Dickens connection, whether satire is best done from an apolitical perspective and why fascism is ultimately doomed, not being retained by the Now Show after 17 years, how all the old satirical songs some around again, Mitch’s prodigious work ethic and how he gets so much done whether we need proportional representation, Gilbert and Sullivan’s Dracula and the return of a classic emergency question. See Mitch in Edinburgh - https://underbellyedinburgh.co.uk/event/mitch-benn-asking-elvis See RHLSTP in Edinburgh - https://www.thestand.co.uk/fringe/2925/richard-herring-rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1783540074785-a52dd9d8-3e65-4eac-b0f3-0d71524522fa.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a4ea9222b60482dd205349d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21027944",
+      "itunes_duration": "43:48",
+      "speakers": [
+        "Mitch Benn",
+        "Richard Herring"
+      ],
+      "topics": [
+        "mitch",
+        "benn",
+        "tims"
+      ]
+    },
     {
       "key": "b56daf92824b02c244eafad2065f3f5810e3fea1",
       "title": "Rhys James (Retro) - \"Hungover Mastermind\"",
@@ -23186,6 +23207,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-15 — Mitch Benn (Part 2) - "Two Large Fifty-Something Tiny Tims" — speakers: Mitch Benn, Richard Herring
 - 2026-07-13 — Rhys James (Retro) - "Hungover Mastermind" — speakers: Rhys James, Richard Herring
 - 2026-07-11 — Rich and Ally's Craven Newsround Compilation "Old Red Eye is Back" — speakers: Craven Newsround Compilation, Old Red Eye, Richard Herring
 - 2026-07-10 — Joe Wells and Abigoliah Schamaun on Neurodivergent Moments - Book Club — speakers: Joe Wells, Abigoliah Schamaun, Richard Herring
