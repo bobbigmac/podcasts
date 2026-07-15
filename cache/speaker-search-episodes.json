@@ -5,6 +5,73 @@
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "23b4acae5a301fcf6971f8f2d6dc904f31af3264",
+        "episode_key": "23b4acae5a301fcf6971f8f2d6dc904f31af3264",
+        "title": "Phil Ellis",
+        "published_at": "2026-07-15T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The Dream Restaurant’s open for business once more, and our first diner for series 16 is ‘Taskmaster’ star and Edinburgh Comedy Award nominee Phil Ellis. \nIf you’re listening on Apple Podcasts you can now watch this episode too. And what an episode to watch. \nPhil Ellis is currently on a nationwide stand-up tour with B",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a4b9bbb3b774de65a100659/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/phil-ellis/id1442950743?i=1000776850870&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "b70ebcac2a61877379dca2388c6d73af51ad4393",
+        "episode_key": "b70ebcac2a61877379dca2388c6d73af51ad4393",
+        "title": "Josh Widdicombe XFM #77 – James Acaster, Fin Taylor",
+        "published_at": "2026-07-14T18:15:40Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Fin Taylor and James Acaster join Josh in the studio.28th January 2015.",
+        "audio_url": "https://traffic.megaphone.fm/APO9061978621.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-77-james-acaster-fin-taylor/id1866254969?i=1000776801148&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "024dc29d734556bcf8b4b5b8352736787cdfabef",
+        "episode_key": "024dc29d734556bcf8b4b5b8352736787cdfabef",
+        "title": "Josh Widdicombe XFM #74 Christmas 2 – James Acaster, Romesh Ranganathan",
+        "published_at": "2026-07-14T05:48:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster plays another game of Call My Josh and Romesh Ranganathan joins them in the studio.22nd December 2014.",
+        "audio_url": "https://traffic.megaphone.fm/APO3672397350.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-74-christmas-2-james-acaster-romesh/id1866254969?i=1000776715297&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
         "dedupe_key": "0149aa759a73e12b1036a65752da92ac5632b76f",
         "episode_key": "0149aa759a73e12b1036a65752da92ac5632b76f",
         "title": "Series 16 Trailer – Off Menu with Ed Gamble and James Acaster",
@@ -3302,6 +3369,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:04bf13a3cc34",
+        "feed_title": "Hypothetical The Podcast with Josh Widdicombe and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/625563eef25a12001309ecc2",
+        "dedupe_key": "73ab9b415817838ddef6d75ec2f5cf8c184499f2",
+        "episode_key": "73ab9b415817838ddef6d75ec2f5cf8c184499f2",
+        "title": "The Trailer",
+        "published_at": "2022-04-28T09:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "STARTS 5TH MAY - Ahead of the new series of Hypothetical on Dave, we bring to you a brand new podcast featuring Josh Widdicombe and James Acaster, where the hosts of the TV show become the guests, being set hypothetical questions by a different host each week.\nHypothetical the Podcast is a Hat Trick Production for Dave",
+        "audio_url": "https://sphinx.acast.com/p/open/s/625563eef25a12001309ecc2/e/62694c7e3cf7a60012815971/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-trailer/id1621722160?i=1000559106339&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:306d2afc590a",
         "feed_title": "The Paul Chowdhry PudCast",
         "source_rss_url": "https://anchor.fm/s/11047f868/podcast/rss",
@@ -5446,6 +5535,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "23b4acae5a301fcf6971f8f2d6dc904f31af3264",
+        "episode_key": "23b4acae5a301fcf6971f8f2d6dc904f31af3264",
+        "title": "Phil Ellis",
+        "published_at": "2026-07-15T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The Dream Restaurant’s open for business once more, and our first diner for series 16 is ‘Taskmaster’ star and Edinburgh Comedy Award nominee Phil Ellis. \nIf you’re listening on Apple Podcasts you can now watch this episode too. And what an episode to watch. \nPhil Ellis is currently on a nationwide stand-up tour with B",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a4b9bbb3b774de65a100659/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/phil-ellis/id1442950743?i=1000776850870&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",

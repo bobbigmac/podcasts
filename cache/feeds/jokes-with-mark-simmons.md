@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-07-09T04:13:08+00:00`
-- checked_at: `2026-07-09T04:13:08+00:00`
-- etag: `"djEuMi4wOjE3ODM1Njk2Mzk4OTM="`
+- fetched_at: `2026-07-15T11:01:55+00:00`
+- checked_at: `2026-07-15T11:01:55+00:00`
+- etag: `"djEuMi4wOjE3ODQxMDk4OTEwNTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-07-09T04:13:08+00:00",
+  "fetched_at": "2026-07-15T11:01:55+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d3c0f767abfff99e7e81e4581eb69fce8bdaf955",
+      "title": "Tour Talk - World Cup Jokes",
+      "published_at": "2026-07-15T10:04:50+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/tour-talk-world-cup-jokes",
+      "description": "Everyones World Cup crazy at the moment, so let's chat football jokes Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6a575b4270c881d75c41c7bb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54539958",
+      "itunes_duration": "37:51",
+      "speakers": [
+        "Tour Talk",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "tour",
+        "talk",
+        "world",
+        "joke"
+      ]
+    },
     {
       "key": "4723e897d6fd6d439ac48026b5ba27321a01f553",
       "title": "Tour Talk: Edinburgh Previews",
@@ -7430,6 +7452,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-15 — Tour Talk - World Cup Jokes — speakers: Tour Talk, Mark Simmons
 - 2026-07-09 — Tour Talk: Edinburgh Previews — speakers: Edinburgh Previews, Mark Simmons
 - 2026-07-02 — Finlay Christie Returns — speakers: Finlay Christie, Mark Simmons
 - 2026-06-23 — Markus Birdman And His Dog — speakers: Markus Birdman, Mark Simmons
