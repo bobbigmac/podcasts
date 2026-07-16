@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-07-13T09:47:08+00:00`
-- checked_at: `2026-07-13T09:47:08+00:00`
-- etag: `"djEuMi4wOjE3ODM5MTcwMzk0NDg="`
+- fetched_at: `2026-07-16T14:22:01+00:00`
+- checked_at: `2026-07-16T14:22:01+00:00`
+- etag: `"djEuMi4wOjE3ODQyMDg2MzkzMDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-07-13T09:47:08+00:00",
+  "fetched_at": "2026-07-16T14:22:01+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7af72267f317278dc7e1c1e2db9351b0a68b60e8",
+      "title": "Gods of Egypt - Caravan Of Garbage",
+      "published_at": "2026-07-16T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/gods-of-egypt-caravan-of-garbage",
+      "description": "The time of Christopher Nolan's The Odyssey is upon us. And to cap off our look at three inspirations of his 2026 epic we're going back ten years to 2016's Gods of Egypt. Directed by Alex Proyas the mind behind both The Crow and Dark City adapts, in the loosest of terms, ancient Egyptian mythology with some of the whitest people in entertainment. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a4b37e0f1400d42e1c8c1c1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33000502",
+      "itunes_duration": "31:42",
+      "speakers": [
+        "Christopher Nolan",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "egypt",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "863d9cbff5f707e821f10ab41d1e9e389e9d048e",
       "title": "631 Moana Bombs & Evil Dead Burn",
@@ -22684,6 +22706,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-16 — Gods of Egypt - Caravan Of Garbage — speakers: Christopher Nolan, James Clement, Nick Mason
 - 2026-07-13 — 631 Moana Bombs & Evil Dead Burn — speakers: James Clement, Nick Mason
 - 2026-07-09 — Troy - Caravan Of Garbage — speakers: Christopher Nolan, James Clement, Nick Mason
 - 2026-07-06 — 630 Best/Worst Comic Adaptations & The Death of Physical Media — speakers: Worst Comic Adaptations, Physical Media Incredible, James Clement, Nick Mason

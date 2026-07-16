@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-07-09T15:32:47+00:00`
-- checked_at: `2026-07-09T15:32:47+00:00`
-- etag: `"25bb47-6562e0bd0bf1f"`
-- last_modified: `Thu, 09 Jul 2026 14:00:26 GMT`
+- fetched_at: `2026-07-16T14:22:01+00:00`
+- checked_at: `2026-07-16T14:22:01+00:00`
+- etag: `"25d5e4-656baddd6ee65"`
+- last_modified: `Thu, 16 Jul 2026 14:00:46 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-07-09T15:32:47+00:00",
+  "fetched_at": "2026-07-16T14:22:01+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -28,11 +28,33 @@
   ],
   "episodes": [
     {
+      "key": "994ffd577ff7550a0d43042965ff640b00566db3",
+      "title": "How Manchester shaped Andy Burnham, the UK's incoming prime minister",
+      "published_at": "2026-07-16T14:00:00+00:00",
+      "link": "https://theconversation.com/manchester-the-city-powering-andy-burnham-the-uks-incoming-prime-minister-287615",
+      "description": "Three months ago, Andy Burnham’s desk was filled with the business of running Greater Manchester. Buses. Housing. Policing. This mayoral region in the north of England is home to 3 million people and Burnham, a former minister in the Labour governments of Tony Blair and Gordon Brown, has been its mayor for nearly a decade. But after a whirlwind ten weeks, Burnham is due to travel to Buckingham Palace on July 20 to meet King Charles, who will appoint him as Britain’s next prime minister. At the heart of Burnham’s plans for power lies Manchesterism, a political philosophy that centres on giving cities and towns outside London more political control. In this episode, we explore how running Greater Manchester shaped Andy Burnham’s politics with researchers Kirsty Fairclough from Manchester Metropolitan University and Philip Brown from the University of Huddersfield. They assess what Burnham achieved as mayor and discuss whether a philosophy designed around one city can work on a national level for the UK. This episode was written and produced by Gemma Ware and Mend Mariwany. Mixing by Michelle Macklem and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/7dd99d37-b18c-4156-9298-2800f62b318d.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39337943",
+      "itunes_duration": "27:19",
+      "speakers": [
+        "Andy Burnham",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "manchester",
+        "andy",
+        "burnham",
+        "minister"
+      ]
+    },
+    {
       "key": "b0ade68d0d4b9fb276d24fc4927ca1b3ca1b061b",
       "title": "How celebrities like Taylor Swift are fighting back against AI deepfakes",
       "published_at": "2026-07-09T14:00:00+00:00",
       "link": "https://theconversation.com/taylor-swift-joins-celebrities-using-the-law-to-fight-back-against-ai-deepfakes-287082",
-      "description": "When Taylor Swift launched her latest album, The Life of a Showgirl, in October 2025, she recorded two short clips to promote it. One for Amazon Music began with “Hey, it’s Taylor Swift”. Another, for Spotify with “Hey, it’s Taylor”. These two phrases may sound a little mundane, but they’re now at the frontline of a legal fightback by celebrities like Swift against AI deepfakes. In April, Swift’s intellectual property company, TAS Right Management, applied to the US Patent and Trademark office to trademark them as registered sound marks, along with a photo of her, from her recent Eras tour. In this episode, we speak to intellectual property expert Graeme Austin , a professor of law at the University of Melbourne and chair of private law at Victoria University of Wellington to understand why Swift took this route, and the different ways celebrities are trying to protect themselves against AI deepfakes. And if you’re not a celebrity with a large legal team, what can you do? This episode was written and produced by Gemma Ware and Mend Mariwany. Mixing by Michelle Macklem and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "description": "When Taylor Swift launched her latest album, The Life of a Showgirl, in October 2025, she recorded two short clips to promote it. One for Amazon Music began with “Hey, it’s Taylor Swift”. Another, for Spotify with “Hey, it’s Taylor”. These two phrases may sound a little mundane, but they’re now at the frontline of a legal fightback by celebrities like Swift against AI deepfakes. In April, Swift’s intellectual property company, TAS Right Management, applied to the US Patent and Trademark office to trademark them as registered sound marks, along with a photo of her, from her recent Eras tour. In this episode, we speak to intellectual property expert Graeme Austin , a professor of law at the University of Melbourne and chair of private law at Victoria University of Wellington to understand why Swift took this route, and the different ways celebrities are trying to protect themselves against AI deepfakes. And if you’re not a celebrity with a large legal team, what can you do? This episode was written and produced by Gemma Ware and Mend Mariwany. Mixing by Michelle Macklem and theme music by Neeta Sarl. Read the f ull credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Can you own a voice? Taylor Swift’s latest legal move raises big questions for AI and copyright From Taylor Swift to Bollywood, stars turn to the civil courts to fight deepfakes Taylor Swift trademarking her voice and likeness points to a new legal frontier in combating AI deepfakes",
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/029dbb52-02db-45a9-aeb5-3f3319429e70.mp3",
       "enclosure_type": "audio/mpeg",
@@ -6077,6 +6099,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-16 — How Manchester shaped Andy Burnham, the UK's incoming prime minister — speakers: Andy Burnham, Gemma Ware
 - 2026-07-09 — How celebrities like Taylor Swift are fighting back against AI deepfakes — speakers: Gemma Ware
 - 2026-07-02 — The anatomy of a super El Niño — speakers: Gemma Ware
 - 2026-06-25 — Cockroach party hits nerve with angry young Indians — speakers: Gemma Ware
