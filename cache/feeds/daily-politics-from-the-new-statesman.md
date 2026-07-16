@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-07-14T14:13:06+00:00`
-- checked_at: `2026-07-14T14:13:06+00:00`
-- etag: `"djEuMi4wOjE3ODQwMjg5MDM1NTY="`
+- fetched_at: `2026-07-16T16:40:44+00:00`
+- checked_at: `2026-07-16T16:40:44+00:00`
+- etag: `"djEuMi4wOjE3ODQyMTc2NDkyMDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-07-14T14:13:06+00:00",
+  "fetched_at": "2026-07-16T16:40:44+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "801302edcb39e9dbd03948a4e2143aef9c3df5f4",
+      "title": "The transition begins",
+      "published_at": "2026-07-16T16:00:49+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/the-transition-begins",
+      "description": "As Keir Starmer's premiership draws to a close, Andy Burnham is putting the finishing touches on his plan for power. Ailbhe Rea joins Tom McTague in the studio to discuss: Anne Widdecomb's role in British Politics Keir Starmer's final days as Prime Minister The people likely to be appointed in an Andy Burnham cabinet Why appointing Shabana Mahmood as Chancellor would go against Andy Burnham's own principles Why the briefing against Ed Miliband shows Burnham's plan to improve Number 10 culture will be an uphill battle 📚 READ Exclusive: Andy Burnham appoints Number 10 policy chief https://www.newstatesman.com/politics/uk-politics/2026/07/exclusive-andy-burnham-appoints-number-10-policy-chief LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1784217402954-f3e63f25-31a5-4b25-847b-852f3934d05d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a58f115a73a96f6fbdbfa14/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39621276",
+      "itunes_duration": "41:16",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "transition"
+      ]
+    },
     {
       "key": "1e174c44b7396ca44253108362c6bb3d313dfd97",
       "title": "How can the UK protect its Critical National Infrastructure from cyberattacks?",
@@ -31788,6 +31808,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-16 — The transition begins — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-14 — How can the UK protect its Critical National Infrastructure from cyberattacks? — speakers: Critical National Infrastructure, Anoosh Chakelian, Oli Dugmore
 - 2026-07-09 — Farage's Clacton distraction — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-07-04 — Nigel Farage has lost his aura — speakers: Anoosh Chakelian, Oli Dugmore
