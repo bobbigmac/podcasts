@@ -27745,6 +27745,28 @@
     ],
     "nish-kumar": [
       {
+        "feed_slug": "external:apple:f047526a0d67",
+        "feed_title": "How Do You Cope?",
+        "source_rss_url": "https://feeds.acast.com/public/shows/68da307b136216b12fc38bf5",
+        "dedupe_key": "8f3fdbfdfc35834fa7112b7bfcd613d06d09c4ae",
+        "episode_key": "8f3fdbfdfc35834fa7112b7bfcd613d06d09c4ae",
+        "title": "Nish Kumar: The Gratitude List",
+        "published_at": "2026-07-16T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this week’s bonus episode, comedian Nish Kumar shares what he is grateful for. Leading the list is Nish’s partner of 14 years, Amy, who he says is very wise and kind, “Clever is useless if it’s not got kindness going through it”.\nNish’s friends, his parents and comedy all feature on the list, as well as Bob Dylan’s ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/68da307b136216b12fc38bf5/e/6a4e6e4e81fe1f6460d422e7/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar-the-gratitude-list/id1793829037?i=1000777016598&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:cb96dce18fd1",
         "feed_title": "The Socially Distant Sports Bar",
         "source_rss_url": "https://feeds.acast.com/public/shows/68e81932d798804c9ef004e3",
@@ -29611,6 +29633,28 @@
         "feed_image_url": null,
         "description": "Nish Kumar! A romp through vinyl, books and .... well that's it because he hasn't got an Amazon account. Amazingly though we still manage to cover off plenty of topics including REM, REM, REM and how he's a DC Gideon. Hosted on Acast. See acast.com/privacy for more information.",
         "audio_url": "https://sphinx.acast.com/p/acast/s/toaster/e/661e286784d98d0017102266/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar/id1462168683?i=1000652686528&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:208c930a18dd",
+        "feed_title": "My Mate Bought A Toaster",
+        "source_rss_url": "https://rss.podplaystudio.com/3619.xml",
+        "dedupe_key": "8a5916c0d6f462f48f00d0d9f27bb5655150a336",
+        "episode_key": "8a5916c0d6f462f48f00d0d9f27bb5655150a336",
+        "title": "Nish Kumar",
+        "published_at": "2024-04-17T03:27:26Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Nish Kumar! A romp through vinyl, books and .... well that's it because he hasn't got an Amazon account. Amazingly though we still manage to cover off plenty of topics including REM, REM, REM and how he's a DC Gideon. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://bauernordic-pods.sharp-stream.com/gb/3619/nish_kumar_c5305d90-e55f-4f8b-8850-a92978403723_normal.mp3?aw_0_1st.episodeid=410405&aw_0_1st.collectionid=3619",
         "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar/id1462168683?i=1000652686528&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,

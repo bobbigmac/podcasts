@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-07-09T09:57:57+00:00`
-- checked_at: `2026-07-09T09:57:57+00:00`
-- last_modified: `Thu, 09 Jul 2026 09:00:00 GMT`
+- fetched_at: `2026-07-16T11:11:53+00:00`
+- checked_at: `2026-07-16T11:11:53+00:00`
+- last_modified: `Thu, 16 Jul 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-09T09:57:57+00:00",
+  "fetched_at": "2026-07-16T11:11:53+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,48 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "2051e1adb3eefeec01535d303445478994bcca6a",
+      "title": "Living at the Speed of Play",
+      "published_at": "2026-07-16T09:00:00+00:00",
+      "link": null,
+      "description": "Podcasting is lousy with guests who peddle advice about starting businesses, building careers, and living full lives. Few of these gurus have actually accomplished anything. Fewer still have advice that comes anywhere close to revelatory. Mark Pincus is the rare exception. The founder of 10 companies, Mark is best known for Zynga, the gaming juggernaut behind FarmVille and Words With Friends. At its peak, Zynga was valued at more than $12 billion and accounted for 20% of Facebook’s page views. It was so big, in fact, that Mark Zuckerberg once admitted to Mark Pincus, “Zynga is the only company that is capable of being an actual Facebook competitor.” Across his 30-year career, Mark — Pincus, not Zuck — developed a cheat code for building products people love and living a life anyone would admire, and that cheat code winds its way through his new book, Life at the Speed of Play . Today, he shares how he learned to trust his gut, why most founders build too much and test too little, and how failure taught him to move faster, pivot sooner, and search for real signals instead of hope. 📖 CHAPTERS: (02:22) The Fight That Changed His Life (08:25) The Startup Decision That Matters Most (17:00) The Fastest Way to Make People Care (20:42) The Day Mark Zuckerberg Proved Him Wrong (31:59) Why Most Startups Build Too Much (40:11) How The Founder Is Employee #1 (43:39) The Culture Hack That Scales (51:37) The Framework Behind FarmVille 📱 This is part one of our conversation with Mark. The second installment will be out on Monday. If you can’t wait until then, you can listen right now in the Next Big Idea app . 🎥 The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠⁠here⁠⁠⁠⁠ . ✉️ Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠⁠podcast@nextbigideaclub.com⁠⁠. 🔗 SPONSORED BY: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months. Just head to granola.ai/idea IM8 — Athletes, doctors, David Beckham — they all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at ⁠im8health.com/nbi⁠ Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order. Northwest Registered Agent — They’ve been helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at ⁠northwestregisteredagent.com/nbifree⁠ Upwork — Visit upwork.com right now and post your job for free. Shopify — Stop waiting for permission to build something. Your next revenue stream starts free at ⁠shopify.com/nbi⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP7872540188.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3743",
+      "speakers": [
+        "building careers",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "speed",
+        "play"
+      ]
+    },
+    {
+      "key": "c40daa56e1fbc2e826c1bbeb4b19f6a517e5c595",
+      "title": "How to Be a Super Ager",
+      "published_at": "2026-07-13T09:00:00+00:00",
+      "link": null,
+      "description": "For years, cardiologist Eric Topol hunted for the rarest people in America: those over 80 who had never been sick. When he finally found 1,400 of them, he made a shocking discovery. It wasn't their genes. These \"super agers\" were often the last ones standing in families where everyone else died decades earlier. So what separates people who live into their 80s or 90s feeling great from those who battle chronic disease? In his new book, Super Agers , Eric reveals what the science actually shows, shares practical advice you can use at any age, and takes on the bro scientists selling false promises along the way. This episode first aired in July 2025. 🎥 The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠⁠here⁠⁠⁠⁠ . 📱Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠⁠podcast@nextbigideaclub.com⁠⁠. 🎁 The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠⁠nextbigideaclub.com⁠⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). 🔗 SPONSORED BY: IM8 ➡️ Athletes, doctors, David Beckham — they all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at ⁠im8health.com/nbi⁠ Northwest Registered Agent ➡️ They’ve been helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at ⁠northwestregisteredagent.com/nbifree⁠ Shopify ➡️ Stop waiting for permission to build something. Your next revenue stream starts free at ⁠shopify.com/nbi⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP1998222141.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6245",
+      "speakers": [
+        "Eric Topol",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "super",
+        "ager"
+      ]
+    },
     {
       "key": "286b2757570c2f9fb368e8f93df50422b40befb0",
       "title": "What If Saving the Planet Could Be Fun?",
@@ -8069,6 +8111,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-16 — Living at the Speed of Play — speakers: building careers, Rufus Griscom, Caleb Bissinger
+- 2026-07-13 — How to Be a Super Ager — speakers: Eric Topol, Rufus Griscom, Caleb Bissinger
 - 2026-07-09 — What If Saving the Planet Could Be Fun? — speakers: What If Saving, Rufus Griscom, Caleb Bissinger
 - 2026-07-06 — How to Live a Long and Useful Life — speakers: Benjamin Franklin, Rufus Griscom, Caleb Bissinger
 - 2026-07-02 — As America Turns 250, Are You in the Mood to Celebrate? — speakers: America Turns, Rufus Griscom, Caleb Bissinger
