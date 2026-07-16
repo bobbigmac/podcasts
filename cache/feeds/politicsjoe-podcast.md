@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-06-28T09:32:29+00:00`
-- checked_at: `2026-06-28T09:32:29+00:00`
-- etag: `"djEuMi4wOjE3ODI2MjI4Mzk1MjI="`
+- fetched_at: `2026-07-16T08:33:40+00:00`
+- checked_at: `2026-07-16T08:33:40+00:00`
+- etag: `"djEuMi4wOjE3ODQxMzM4NzgyNjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,93 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-06-28T09:32:29+00:00",
+  "fetched_at": "2026-07-16T08:33:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "cc4cc69826ed1e1b45853fb34ba72096a72531af",
+      "title": "What does Andy Burnham’s Britain look like?",
+      "published_at": "2026-07-09T13:04:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a4f9c262b60482dd24d3960",
+      "description": "Labour's leadership nominations opened today and, so far, Burnham remains unopposed on his march to Number 10. But who is Andy Burnham, and what does he want for Britain? Andy and Seán recap what we know so far, and speculate as to how Burnham might build a cabinet. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a4f9c262b60482dd24d3960/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63147673",
+      "itunes_duration": "43:50",
+      "speakers": [
+        "Andy Burnham"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "britain"
+      ]
+    },
+    {
+      "key": "4b5416cd3bf880ebc8b351bc77deed0a2aaf19d1",
+      "title": "Nigel Farage's resignation stunt backfires | PMQs reaction",
+      "published_at": "2026-07-08T14:21:16+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a4e5cb5f8a80edf85da58f5",
+      "description": "With Keir Starmer away on NATO duty it's Deputies Day at PMQs, but Ava and Seán are still here to unpack the drama. Nigel Farage's resignation stunt has lost some momentum after all the major parties announced they wouldn't be standing a candidate in Farage's 'People v Establishment' by-election, meaning the Reform leader will spend his summer battling Count Binface for the seat. At the despatch box, David Lammy and James Cleverly clash over prison records and jury reform. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a4e5cb5f8a80edf85da58f5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45530121",
+      "itunes_duration": "31:36",
+      "speakers": [],
+      "topics": [
+        "nigel",
+        "farage",
+        "resignation",
+        "stunt",
+        "backfire",
+        "reaction"
+      ]
+    },
+    {
+      "key": "f88e4ce753d15f698530014ba2eb50751f50bb8f",
+      "title": "I exposed Nigel Farage's criminal benefactor | Sunday Times Investigation",
+      "published_at": "2026-07-07T09:06:39+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a4cc18d4b1ada48f05d305e",
+      "description": "Ava is joined by Venetia Menzies of Insight, the investigations team at The Sunday Times. Over the weekend, Venetia and her colleagues published a story uncovering the extent of the relationship between Reform's Nigel Farage and 'Posh' George Cottrell, a convicted felon, as well as a potential breach of the parliamentary rules linked to gifts from Cottrell to Farage. Menzies breaks down the story and the investigation leading up to it. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a4cc18d4b1ada48f05d305e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26718543",
+      "itunes_duration": "18:32",
+      "speakers": [],
+      "topics": [
+        "nigel",
+        "farage",
+        "benefactor",
+        "sunday",
+        "times",
+        "investigation"
+      ]
+    },
+    {
+      "key": "9061db29a3d1336a300a5213e0466a780915379f",
+      "title": "The walls are closing in on Nigel Farage",
+      "published_at": "2026-07-06T14:52:21+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a4bc1265fd88ad0058f789b",
+      "description": "Another week, another Reform scandal. Ava, Andy and Seán react to news of an investigation into Nigel Farage after it emerged he accepted gifts from one George Cottrell, an old friend and colleague, before he became an MP. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a4bc1265fd88ad0058f789b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34906697",
+      "itunes_duration": "36:21",
+      "speakers": [],
+      "topics": [
+        "wall",
+        "nigel",
+        "farage"
+      ]
+    },
     {
       "key": "e1b497d5429a8e6dda1364e471c60f67ffb853ac",
       "title": "Why We Need to Abolish Politicians | Hélène Landemore interview",
@@ -13429,6 +13509,10 @@
 
 ## Episodes (newest first)
 
+- 2026-07-09 — What does Andy Burnham’s Britain look like? — speakers: Andy Burnham
+- 2026-07-08 — Nigel Farage's resignation stunt backfires | PMQs reaction
+- 2026-07-07 — I exposed Nigel Farage's criminal benefactor | Sunday Times Investigation
+- 2026-07-06 — The walls are closing in on Nigel Farage
 - 2026-06-28 — Why We Need to Abolish Politicians | Hélène Landemore interview — speakers: Hélène Landemore
 - 2026-06-24 — Beginning of the end of Keir Starmer | PMQs analysed
 - 2026-06-21 — The Biggest Lie about Capitalism | Mariana Mazzucato interview — speakers: Mariana Mazzucato

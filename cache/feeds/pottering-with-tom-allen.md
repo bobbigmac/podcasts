@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-07-09T09:57:57+00:00`
-- checked_at: `2026-07-09T09:57:57+00:00`
+- fetched_at: `2026-07-16T08:33:40+00:00`
+- checked_at: `2026-07-16T08:33:40+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 09 Jul 2026 04:08:40 GMT`
+- last_modified: `Thu, 16 Jul 2026 04:19:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-09T09:57:57+00:00",
+  "fetched_at": "2026-07-16T08:33:40+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cafb520161028fa8e122cb7fa52fd4605f41d611",
+      "title": "The Clippings: Part 2",
+      "published_at": "2026-07-16T04:00:00+00:00",
+      "link": null,
+      "description": "Another week and more musings from the garden! While Pottering enjoys a small summer sojourn, I’m bringing you another collection of my favourite moments from the series. Clippings, if you will. 🌱 This week, we’ll be joined by Alan Carr, Kiri Pritchard-McLean, Sarah Hadland, Ashley James, Ginger Johnson, Henry Agg, Sara Cox and Philippa Perry. From horticultural heroes to dear comedy colleagues, there really is something for everyone! We discuss lunar mysteries and Mary Berry memories, Strictly secrets and drag delights. We explore the highs and horrors of social media and hark back to the humble fax machine. A simpler time. So, slather on the Factor 50, shoo those Cabbage Whites away and join me in the garden for some Pottering. 🦋 Do like and subscribe to keep up to date with all things Pottering! And why not send me your garden pictures over on Instagram? I’d love to know how your cavolo nero has got on. 🪴 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR7329100697.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4925",
+      "speakers": [
+        "While Pottering",
+        "Tom Allen"
+      ],
+      "topics": [
+        "clipping"
+      ]
+    },
     {
       "key": "c6f6d2213a0e263726b3fe1ec266129bdc9cf200",
       "title": "The Clippings: Part 1",
@@ -904,6 +923,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-16 — The Clippings: Part 2 — speakers: While Pottering, Tom Allen
 - 2026-07-09 — The Clippings: Part 1 — speakers: Tom Allen
 - 2026-07-02 — Henry Agg — speakers: Henry Agg, Tom Allen
 - 2026-06-25 — Ginger Johnson — speakers: Ginger Johnson, Tom Allen
