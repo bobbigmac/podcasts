@@ -36196,6 +36196,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:4d0caa15567d",
+        "feed_title": "What's Upset You Now?",
+        "source_rss_url": "https://anchor.fm/s/10818226c/podcast/rss",
+        "dedupe_key": "6db9d2ac208fbdba0e1358edaff0014c2cb3053b",
+        "episode_key": "6db9d2ac208fbdba0e1358edaff0014c2cb3053b",
+        "title": "S3 EP21: Jack Dee",
+        "published_at": "2021-10-19T06:50:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "S3 EP21: Jack DeeIn this episode Seann Walsh and Paul McCaffrey are joined by comedian Jack Dee to moan for exactly 15 minutes about what's got their goat...Subscribe. Rate and review. Thanks A 'Keep It Light Media' Production Sales, advertising, and general enquiries:  hello@keepitlightmedia.com \nLearn more about your",
+        "audio_url": "https://anchor.fm/s/10818226c/podcast/play/107471684/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-28%2F406441398-44100-2-d345e8ecd8e644a3.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s3-ep21-jack-dee/id1512239264?i=1000539029742&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:542e0c12e801",
         "feed_title": "Parenting Hell with Rob Beckett and Josh Widdicombe",
         "source_rss_url": "https://feeds.megaphone.fm/GLT9881106244",

@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-07-09T04:13:08+00:00`
-- checked_at: `2026-07-09T04:13:08+00:00`
-- last_modified: `Wed, 08 Jul 2026 23:19:26 GMT`
+- fetched_at: `2026-07-16T03:35:50+00:00`
+- checked_at: `2026-07-16T03:35:50+00:00`
+- last_modified: `Wed, 15 Jul 2026 23:08:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-09T04:13:08+00:00",
+  "fetched_at": "2026-07-16T03:35:50+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,26 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "89b2bd7921930c39493b418258926361a8058174",
+      "title": "Heartbreak",
+      "published_at": "2026-07-15T23:00:00+00:00",
+      "link": null,
+      "description": "The rage, the desperation, the cries of \"Why, God, why did you do this to my beautiful boy?\" This week's episode is all about gaming heartbreak. Hundreds of thousands of hours of gaming time are lost every year to power cuts, faulty chips and malevolent cousins. We all know that pain. Was it all for nothing? Well, this week, the Boys, in the safe space of the shed, share stories of anguish from their gaming lives. But first, we catch up with what they've been playing. Sarah's commanding a horde of minions, Pierre's old habits have come back to haunt him and Glenn's trying his absolute hardest to stick to the beat. This is our 52nd episode: a whole year of Button Boys. And what a year it’s been. From pubic maintenance and mayor gorillas to sewer assassins, incredible guests and amazing contributions, we’ve loved every minute of it. We couldn’t have done it without you, so thank you, and here’s to the next 52! To follow along with the Button Boys outside the podcast: ⁠ BUTTON BOYS LIVE! If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Shattered Pixel Dungeon Balatro Terra Invicta Tinykin Age of Empires II Pikmin Rhythm Paradise Groove Gitaroo Man PaRappa the Rapper Metal Gear Solid Metal Gear Solid 4: Guns of the Patriots Spyro the Dragon Pokémon Red Red Dead Redemption 2 Pro Evolution Soccer 3 Dark Souls Elden Ring Dark Souls II Dark Souls III LittleBigPlanet Half-Life 2 Marathon Helldivers 2 Concord Hell Let Loose Call of Duty: Warzone LEGO The Lord of the Rings Condemned: Criminal Origins Prince of Persia: The Sands of Time Tekken 3 P.T. Planescape: Torment Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR6114462134.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3242",
+      "speakers": [
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "heartbreak"
+      ]
+    },
     {
       "key": "ec4f3dec7df2d9896b89e40aa99f144b832f18ac",
       "title": "Time Enough at Last: Games to Play When the World Stops",
@@ -1225,6 +1245,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-15 — Heartbreak — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-07-08 — Time Enough at Last: Games to Play When the World Stops — speakers: Time Enough, Play When, World Stops There, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-07-01 — Slop Til You Drop: Shovelware, Clones and Cash Grabs — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-06-24 — The Prediction Game: Half-Time Report — speakers: Time Report Cast, Glenn Moore, Sarah Keyworth, Pierre Novellie

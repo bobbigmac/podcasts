@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-07-15T16:44:42+00:00`
-- checked_at: `2026-07-15T16:44:42+00:00`
-- last_modified: `Wed, 15 Jul 2026 15:35:52 GMT`
+- fetched_at: `2026-07-16T03:35:50+00:00`
+- checked_at: `2026-07-16T03:35:50+00:00`
+- last_modified: `Wed, 15 Jul 2026 23:10:33 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-15T16:44:42+00:00",
+  "fetched_at": "2026-07-16T03:35:50+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "78fab9c141a34b7d973a7fd3261fe8f42a83bf62",
+      "title": "Shanthi Teaches Romesh How To Interview",
+      "published_at": "2026-07-15T23:01:00+00:00",
+      "link": null,
+      "description": "How would Shanthi take on a thousand seagulls? We're back with another Thursday episode, answering your important listener questions like, would you rather take on a dog sized spider or a pack of seagulls? The pair discuss Parents Evening and advise your latest listener dilemmas, from a curry-addicted dog, to Shanthi's weaponised use of cake. Plus, Shanthi and the team give some feedback on Romesh's interviewing technique and discuss what would we do if Shanthi quit? A Ranga Bee Production in partnership with Platform. Chapter 00:00 Intro 04:40 Is Shanthi happy? 06:30 On Gabby Logan 07:14 A new interview style 15:51 On Parents Evening 17:57 A listener question 25:30 A curry addicted dog dilemma 28:15 Is Shanthi quitting? 28:56 Advice on the dog dilemma 32:41 A mundane chat conundrum 39:49 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ab7985c8-805a-11f1-99c5-4b5403d966ac/image/91f16fc790591754eba810ad2776e4c9.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7717178505.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2626",
+      "speakers": [
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "romesh"
+      ]
+    },
     {
       "key": "24b7dd736d832904fe8ba136cb8bde0628efbabb",
       "title": "Gabby Logan On Match of the Day, Trolls & Live TV",
@@ -1942,6 +1961,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-15 — Shanthi Teaches Romesh How To Interview — speakers: Romesh Ranganathan
 - 2026-07-12 — Gabby Logan On Match of the Day, Trolls & Live TV — speakers: Gabby Logan, Romesh Ranganathan
 - 2026-07-08 — Why Does Shanthi Have Beef With Idris Elba? — speakers: Idris Elba, Romesh Ranganathan
 - 2026-07-05 — Shania Twain On Harry Styles, Losing Her Voice & Country Music — speakers: Harry Styles, Romesh Ranganathan
