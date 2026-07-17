@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-07-10T04:13:38+00:00`
-- checked_at: `2026-07-10T04:13:38+00:00`
-- etag: `W/"f29be83423e39beba9fec289e452cb2e"`
-- last_modified: `Thu, 09 Jul 2026 22:55:00 GMT`
+- fetched_at: `2026-07-17T03:36:07+00:00`
+- checked_at: `2026-07-17T03:36:07+00:00`
+- etag: `W/"42305cc4be7539f0c26c92c5472b3b39"`
+- last_modified: `Thu, 16 Jul 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-07-10T04:13:38+00:00",
+  "fetched_at": "2026-07-17T03:36:07+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,50 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "c27599a14805a93df8f04887b42a34457c7525c5",
+      "title": "No Such Thing As Sunscreen for Flies",
+      "published_at": "2026-07-16T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8928989",
+      "description": "Dan, James, Anna and Andy discuss smoking, sinking, sailing and sunscreen. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia Get NordVPN two-year plan + four months extra ➼ https://nordvpn.com/fish It’s risk-free with Nord’s 30-day money-back guarantee.",
+      "image_url": "https://audioboom.com/i/43746567.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8928989.mp3?modified=1784218070&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3450",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "sunscreen"
+      ]
+    },
+    {
+      "key": "5630526c2e9d0193b93f8328b03ceafd895ff96a",
+      "title": "Little Fish: Chromosomes are coming home",
+      "published_at": "2026-07-12T22:59:00+00:00",
+      "link": "https://audioboom.com/posts/8926765",
+      "description": "Dan, James and Andy discuss YOUR facts including Curaçao, chips and chess. Dan and Andy compete to see who has the best cardboard box anecdote. And we name eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8926765.mp3?modified=1783896606&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1680",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "chromosome"
+      ]
+    },
     {
       "key": "48bf06345d3e67850e950a3a7fd5e37e6fe32774",
       "title": "No Such Thing As No Such Thing As A Crab",
@@ -314,7 +358,7 @@
       "link": "https://audioboom.com/posts/8908834",
       "description": "Dan, James, Anna and Andy discuss kitchen hygiene, a Commander-in-Chief, and NaHCO3. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon",
       "image_url": "https://audioboom.com/i/43668734.jpg",
-      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8908834.mp3?modified=1780049424&sid=2399216&source=rss",
+      "enclosure_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8908834.mp3?modified=1784020840&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3402",
@@ -16652,6 +16696,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-16 — No Such Thing As Sunscreen for Flies — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-07-12 — Little Fish: Chromosomes are coming home — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-07-09 — No Such Thing As No Such Thing As A Crab — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-07-05 — Little Fish: I believed it when Pythagoras said it — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-07-02 — No Such Thing As An Unlucky Fountain — speakers: Jamie Morton, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

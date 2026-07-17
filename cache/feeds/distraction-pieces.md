@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-07-15T03:32:47+00:00`
-- checked_at: `2026-07-15T03:32:47+00:00`
-- etag: `"djEuMi4wOjE3ODQwODU2MzkzODU="`
+- fetched_at: `2026-07-17T03:36:07+00:00`
+- checked_at: `2026-07-17T03:36:07+00:00`
+- etag: `"djEuMi4wOjE3ODQyNTg0Mzk0Mjc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-07-15T03:32:47+00:00",
+  "fetched_at": "2026-07-17T03:36:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "23f7951a4e7a116b37a686bbd02c9d3a09bec682",
+      "title": "ISY SUTTIE (film / theatre / TV / podcast) • Friday Rewind",
+      "published_at": "2026-07-17T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Isy Suttie , originally episode 97 from 2016-05-10. Original writeup below: A slammer of a show lies ahead of you ready for your listening enjoyment, as we welcome one of the UK's finest acting/writing/musical talents, the multi-threat herself, ISY SUTTIE! A wonderful and whimsical (license to use that word has been officially granted by Isy herself, you'll see) chat with Pip and Isy as we begin on the subject of hot beverages in some depth and take off from there! And from Tea Corner we do indeed take off into some awesome places, hearing from Isy on her wide ranging skills as an author/actor/musician, her podcast and radio show and her own early versions of these as a young child, Edinburgh Fringe experiences and the recent juggle of all this while being a mother! SO much more besides... Powerhouse business right here - get inspired and enjoy this wonderful chat. PIP'S PATREON PAGE if you're of a supporting nature IMDB INSTAGRAM TEDx on dangers of smartphones PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1784213729297-dc881180-0f99-4733-8e9d-882995adbb4c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a58f25b78e0412bc6b0fefa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "217139911",
+      "itunes_duration": "1:30:23",
+      "speakers": [],
+      "topics": [
+        "suttie",
+        "film",
+        "theatre",
+        "podcast",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "8b71394d5c4af478d00da6d4570e87461e338f8d",
       "title": "ELIS JAMES • Thinking big, like Royal Albert Hall-big (Elis & John / Socially Distant Sports Club / standup) #680",
@@ -19207,6 +19228,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-17 — ISY SUTTIE (film / theatre / TV / podcast) • Friday Rewind
 - 2026-07-15 — ELIS JAMES • Thinking big, like Royal Albert Hall-big (Elis & John / Socially Distant Sports Club / standup) #680 — speakers: James Thinking
 - 2026-07-10 — GUZ KHAN (Bait / Man Like Mobeen / Walk Like A Panther) • Friday Rewind
 - 2026-07-08 — TOMO CAMPBELL • Live @ Harry Styles' Meltdown (Southbank Centre, London) #679 — speakers: Harry Styles

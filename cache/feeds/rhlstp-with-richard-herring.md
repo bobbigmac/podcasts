@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-15T03:32:47+00:00`
-- checked_at: `2026-07-15T03:32:47+00:00`
-- etag: `"djEuMi4wOjE3ODQwODQyNTkzNzU="`
+- fetched_at: `2026-07-17T03:36:07+00:00`
+- checked_at: `2026-07-17T03:36:07+00:00`
+- etag: `"djEuMi4wOjE3ODQyNTcwNTkyMzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-15T03:32:47+00:00",
+  "fetched_at": "2026-07-17T03:36:07+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b3418868723e36f0acb9b9a186f640d8187e8144",
+      "title": "Turi King on The Secrets of Our DNA - Book Club",
+      "published_at": "2026-07-17T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #188 - The Secrets of Our DNA - Richard has a remote chat with Professor of Genetics and archaeologist Turi King about her fantastic book encompassing the many advances in our understanding of DNA, a surprising number of which overlap with Richard’s interests. Find out how Cheddar Man is not as related to Richard’s history teacher as Somerset likes to claim, how some of Richard III’s bones ended up in York (for a little while at least), whether Hitler actually had one ball and whether DNA can tell us how big historical figures genitals are (and if not, what’s the point). It’s such a fun chat, also including the Princes in the Tower, bringing back dinosaurs, the guilt or innocence of OJ Simpson and catching serial killers via DNA websites. Plus find out what Richard’s surname reveals about his origins. Buy the book here - https://uk.bookshop.org/p/books/the-secrets-of-our-dna-how-genetics-has-changed-the-world-professor-turi-king/c2eeb0f1c0ed98da SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1784065883473-12b986ac-ae80-455d-9827-4f6c7fa963fd.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a56afa0f821a8210951038c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23259637",
+      "itunes_duration": "48:27",
+      "speakers": [
+        "Turi King",
+        "Richard Herring"
+      ],
+      "topics": [
+        "turi",
+        "king",
+        "secrets",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "c0732761b93eb5b2e377f2f27074479c5b80cd63",
       "title": "Mitch Benn (Part 2) - \"Two Large Fifty-Something Tiny Tims\"",
@@ -23207,6 +23230,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-17 — Turi King on The Secrets of Our DNA - Book Club — speakers: Turi King, Richard Herring
 - 2026-07-15 — Mitch Benn (Part 2) - "Two Large Fifty-Something Tiny Tims" — speakers: Mitch Benn, Richard Herring
 - 2026-07-13 — Rhys James (Retro) - "Hungover Mastermind" — speakers: Rhys James, Richard Herring
 - 2026-07-11 — Rich and Ally's Craven Newsround Compilation "Old Red Eye is Back" — speakers: Craven Newsround Compilation, Old Red Eye, Richard Herring

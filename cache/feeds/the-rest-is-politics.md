@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-07-16T03:35:50+00:00`
-- checked_at: `2026-07-16T03:35:50+00:00`
-- last_modified: `Wed, 15 Jul 2026 23:00:36 GMT`
+- fetched_at: `2026-07-17T03:36:07+00:00`
+- checked_at: `2026-07-17T03:36:07+00:00`
+- last_modified: `Thu, 16 Jul 2026 23:00:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-16T03:35:50+00:00",
+  "fetched_at": "2026-07-17T03:36:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "8cd5bdfb9903a80015e0ec8755757c3f96331403",
+      "title": "The Secret Security Threat The Government Don’t Want Us To Know",
+      "published_at": "2026-07-16T22:55:00+00:00",
+      "link": null,
+      "description": "Why did the government suppress a report written by senior intelligence officials which named climate and nature collapse as a national security threat? How could ecosystem collapse lead to empty super market shelves, water scarcity and increased risk of conflict? And, ultimately, why has this not become a bigger conversation among politicians? Sign up here to watch the whole episode and the rest of the series as it drops. Join Caroline Lucas, former leader of The Green Party, as she speaks with senior British army officer, Lt General Richard Nugee and former British diplomat and security expert Arthur Snell. Read the redacted Joint Intelligence Committee Report here Find out more about the National Emergency Briefing here. Find Arthur Snell's new book Elemental here Producer: India Dunkley Video Editor: Josh Smith Social Producer: Celine Charles Trailer Editor: Dylan Bonham General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f4baa3f0-8115-11f1-bb0a-dff1c9561ec5/image/59b998b5fc503d3235f6a969553d5637.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2416182418.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1113",
+      "speakers": [],
+      "topics": [
+        "secret",
+        "security",
+        "threat",
+        "government"
+      ]
+    },
     {
       "key": "5ac1fd73a599e421f19b28778d0e37093cbc0748",
       "title": "554. Burnham’s Worldview, Trump's Ceasefire Collapse, and Advising Count Binface",
@@ -12392,6 +12411,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-16 — The Secret Security Threat The Government Don’t Want Us To Know
 - 2026-07-15 — 554. Burnham’s Worldview, Trump's Ceasefire Collapse, and Advising Count Binface — speakers: Andy Burnham
 - 2026-07-14 — 553. Farage in Meltdown and The Killing of Ann Widdecombe — speakers: Ann Widdecombe
 - 2026-07-08 — 552. Trump's Red Card Saga and Germany's Far-Right Machine

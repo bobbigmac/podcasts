@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-07-13T09:47:08+00:00`
-- checked_at: `2026-07-13T09:47:08+00:00`
-- etag: `"djEuMi4wOjE3ODM5MjY4NDE3MTk="`
+- fetched_at: `2026-07-17T03:36:07+00:00`
+- checked_at: `2026-07-17T03:36:07+00:00`
+- etag: `"djEuMi4wOjE3ODQyNDI5NTkzMDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-07-13T09:47:08+00:00",
+  "fetched_at": "2026-07-17T03:36:07+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ded2f9234203f2c2fced5b345336764484e914b2",
+      "title": "My Time Capsule The Dig - Ep. 11 - With Danny Wallace (Bestselling author and BAFTA-winning broadcaster)",
+      "published_at": "2026-07-16T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-11-with-danny-wallace-bestselling",
+      "description": "Danny Wallace was our guest in episode 52 and he returns to have a chat about his old time capsule and let us know where he wants it buried! Danny Wallace is a bestselling author, comedian, filmmaker, and BAFTA-winning broadcaster. His book Yes Man was adapted into a Hollywood movie staring Jim Carey and Zoe Deschanel. Also, Mike and his producer and son John see where Brian Bilston wants to bury his time capsule and they interact with listeners via email and voice memos . Listen to Danny Wallace's original episode - https://mytimecapsulepodcast.com/episodes?q=52 . For everything Danny Wallace, visit - https://www.dannywallace.com . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1784207145144-f65f7a43-792e-4de5-8a9f-ba5a34eda18b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a58d8885c9bbab5e4309511/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68927132",
+      "itunes_duration": "57:26",
+      "speakers": [
+        "Danny Wallace"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "danny",
+        "wallace",
+        "author",
+        "bafta",
+        "broadcaster"
+      ]
+    },
     {
       "key": "4dd949dd8442f853515b06e98a7b9d4c975edd3c",
       "title": "Ep. 593 - Brian Bilston - One of the UK's most hilarious and best-loved poets",
@@ -12980,6 +13004,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-16 — My Time Capsule The Dig - Ep. 11 - With Danny Wallace (Bestselling author and BAFTA-winning broadcaster) — speakers: Danny Wallace
 - 2026-07-13 — Ep. 593 - Brian Bilston - One of the UK's most hilarious and best-loved poets — speakers: Brian Bilston
 - 2026-07-09 — My Time Capsule The Dig - Ep. 10 - With Robert Bathurst (Cold Feet, Toast of London, Downton Abbey) — speakers: Robert Bathurst
 - 2026-07-05 — Ep. 592 - Tony Cantwell - From Last One Laughing Ireland on Amazon Prime, hosted by Graham Norton — speakers: Graham Norton, Tony Cantwell
