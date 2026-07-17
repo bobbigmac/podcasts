@@ -2,8 +2,8 @@
 
 - slug: `peacock-and-gamble`
 - source: `https://www.fubarradio.com/player/on-demand/peacock-and-gamble/`
-- fetched_at: `2026-07-17T08:27:30+00:00`
-- checked_at: `2026-07-17T08:27:30+00:00`
+- fetched_at: `2026-07-17T10:58:05+00:00`
+- checked_at: `2026-07-17T10:58:05+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "image_url": "",
-  "fetched_at": "2026-07-17T08:27:30+00:00",
+  "fetched_at": "2026-07-17T10:58:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f795c3e4e4f3111c0c8d6119bcb298c0e9a4f54a",
+      "guid": "91b1ccf5-482d-4b28-a7fb-f103bebc51aa",
+      "title": "Peacock and Gamble (17th July)",
+      "published_at": "2026-07-17T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-17th-july1/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1784282553-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=91b1ccf5-482d-4b28-a7fb-f103bebc51aa&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "de695f9d6e2e210d6fb20b3b28f6a43bd215b0b4",
       "guid": "5b857acc-c309-4e14-81bf-74f1486a5cb1",
@@ -2982,6 +2995,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-17 — Peacock and Gamble (17th July)
 - 2026-07-10 — Peacock and Gamble (10th July)
 - 2026-07-09 — Peacock and Gamble (9th July)
 - 2026-07-03 — Peacock and Gamble (3rd July)
