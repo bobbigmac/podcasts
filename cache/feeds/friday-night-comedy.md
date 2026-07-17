@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-07-10T19:50:42+00:00`
-- checked_at: `2026-07-10T19:50:42+00:00`
-- etag: `"78634edadc5b9aad971896d69277a264"`
-- last_modified: `Fri, 10 Jul 2026 18:00:11 GMT`
+- fetched_at: `2026-07-17T19:31:46+00:00`
+- checked_at: `2026-07-17T19:31:46+00:00`
+- etag: `"2ad55cf51b0a2e42177514d63f0d853b"`
+- last_modified: `Fri, 17 Jul 2026 18:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
-  "fetched_at": "2026-07-10T19:50:42+00:00",
+  "fetched_at": "2026-07-17T19:31:46+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "b64c4739afec6111f7a3ab439b24c8d8fd8562a0",
+      "title": "Dead Ringers Ep5. The President’s For Overturning",
+      "published_at": "2026-07-17T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nwx7lg",
+      "description": "The Dead Ringers team train their vocal firepower on the week’s news. This week: Trump turns tricks, Tuchel talks tactics, and Count Binface is unmasked. Starring Jon Culshaw, Jan Ravens, Duncan Wisbey and Kieran Hodgson. Produced by: Jon Holmes Executive Producer:James Robinson Production Co-ordinator: Giulia Lopes Mazzu A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ny3f6m.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27056000",
+      "itunes_duration": "1691",
+      "speakers": [
+        "Dead Ringers"
+      ],
+      "topics": [
+        "dead",
+        "ringers",
+        "president",
+        "overturning"
+      ]
+    },
     {
       "key": "b799b9a1f789a7b0d26f8989f31837f61935361d",
       "title": "Dead Ringers Ep4. Much Ado About North-ing",
@@ -5450,26 +5471,6 @@
         "trip",
         "july"
       ]
-    },
-    {
-      "key": "f016801f5e98b7bc3edd0be2e645a2c73e32a817",
-      "title": "Dead Ringers, 16th July, 2021",
-      "published_at": "2021-07-16T18:05:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09pmzvb",
-      "description": "Includes a look back at events since Sunday’s historic Euros final and an unusual challenge for Ronan Keating. With Jon Culshaw, Lewis Macleod, Jan Ravens, Debra Stephenson and Duncan Wisbey Written by Nev Fountain & Tom Jamieson, Laurence Howarth, Ed Amsden & Tom Coles, James Bugg, Simon Alcock, Edward Tew, Jane McCutcheon & Vivienne Riddoch, Sophie Dickson, Jeffrey Aidoo, Rajiv Karia & Tasha Dhanraj Producer: Bill Dare Production Coordinator: Sarah Sharpe A BBC Studios Production for Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jy3rt2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "25264000",
-      "itunes_duration": "1579",
-      "speakers": [
-        "Dead Ringers"
-      ],
-      "topics": [
-        "dead",
-        "ringers",
-        "july"
-      ]
     }
   ]
 }
@@ -5478,6 +5479,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-17 — Dead Ringers Ep5. The President’s For Overturning — speakers: Dead Ringers
 - 2026-07-10 — Dead Ringers Ep4. Much Ado About North-ing — speakers: Ado About North-ing, Andy Burnham
 - 2026-07-03 — Dead Ringers: Ep3. Heat, Hydration, and Harry Kane — speakers: Harry Kane
 - 2026-06-26 — Dead Ringers: Ep2. Makerfield Maketh Man
@@ -5736,4 +5738,3 @@
 - 2021-08-13 — Party's Over: ep4 Parish Council 13th August 2021 — speakers: Parish Council, Prime Minister
 - 2021-08-06 — Party's Over: ep3 New Party 6th August 2021 — speakers: New Party, Prime Minister
 - 2021-08-02 — Party's Over: ep2 Road Trip 30th July 2021 — speakers: Road Trip, Prime Minister
-- 2021-07-16 — Dead Ringers, 16th July, 2021 — speakers: Dead Ringers

@@ -11940,6 +11940,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:9d5704e1b494",
+        "feed_title": "Trash Talk... with Count Binface",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6654ee607d5431001308bb90",
+        "dedupe_key": "d782e023080c795aaff35ae9640c6af9157e4607",
+        "episode_key": "d782e023080c795aaff35ae9640c6af9157e4607",
+        "title": "Richard Herring",
+        "published_at": "2025-09-11T21:35:35Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "On this week's potentially award-winning episode of Trash Talk with Count Binface is esteemed Earth comedian Richard Herring. \nHe's made cancer funny, poked fun at fascism and even made a whole show about your funny human male reproductive organ - so what will 45 minutes with Count Binface bring? Well... has the BBC fo",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6654ee607d5431001308bb90/e/68c340a824c6e67e68637a91/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/richard-herring/id1748663426?i=1000726405150&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring",
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:fd87195847f7",
         "feed_title": "Wrong Turns with Jameela Jamil",
         "source_rss_url": "https://feeds.acast.com/public/shows/686302e79951fac41b1d2418",
@@ -12452,6 +12475,28 @@
       }
     ],
     "sally-phillips": [
+      {
+        "feed_slug": "external:apple:74fa0980a57e",
+        "feed_title": "Where There's A Will, There's A Wake",
+        "source_rss_url": "https://rss.pdrl.fm/4bb7b6/feeds.megaphone.fm/wtawtaw",
+        "dedupe_key": "17a6dfefe43a4b62d4b6f6fc4c1aff5cda243055",
+        "episode_key": "17a6dfefe43a4b62d4b6f6fc4c1aff5cda243055",
+        "title": "Here Lies Ronni and Sally",
+        "published_at": "2026-07-14T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Swimming in chocolate mousse, clowns making a comeback and a rescue mission gone horribly wrong.\n\n\n\nIt's a buy one get one free this episode, as Mel is joined by acting and comedy legends Ronni Ancona and Sally Phillips. \n\n\n\nUpgrade your everyday wardrobe (while you still can 👀):\n\nhttps://www.fatface.com/shop/womens/f/",
+        "audio_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY7056273196.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/here-lies-ronni-and-sally/id1654059310?i=1000776618561&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:8e22327570e3",
         "feed_title": "Sunday Brunch Picky Bits",
@@ -17042,6 +17087,28 @@
       }
     ],
     "alex-horne": [
+      {
+        "feed_slug": "external:apple:e1924153a9a8",
+        "feed_title": "Golf Is Ruining My Life",
+        "source_rss_url": "https://feeds.megaphone.fm/COMG5963961565",
+        "dedupe_key": "0b056e735787096b40b5e68e1d6cda9bd6aa1faa",
+        "episode_key": "0b056e735787096b40b5e68e1d6cda9bd6aa1faa",
+        "title": "ALEX HORNE | The Man Who Refuses To Get Better At Golf... And Loves It 😅 #TalkBirdieToMe",
+        "published_at": "2026-07-17T06:37:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "WE'RE BACK with a new episode of the Talk Birdie To Me Series and this week we're joined by comedian, Taskmaster creator and Bad Golf legend, Alex Horne. 30 minutes of chat about why he has ZERO interest in getting better at golf, his theory that winning is actually embarrassing, and the day he played a pro-am with Ada",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8312945570.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/alex-horne-the-man-who-refuses-to-get-better-at-golf/id1613159457?i=1000777178059&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:91794ccdb594",
         "feed_title": "Bullseye with Jesse Thorn",
@@ -23333,6 +23400,29 @@
         "enclosure_bytes": null,
         "enclosure_type": null,
         "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:9d5704e1b494",
+        "feed_title": "Trash Talk... with Count Binface",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6654ee607d5431001308bb90",
+        "dedupe_key": "d782e023080c795aaff35ae9640c6af9157e4607",
+        "episode_key": "d782e023080c795aaff35ae9640c6af9157e4607",
+        "title": "Richard Herring",
+        "published_at": "2025-09-11T21:35:35Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "On this week's potentially award-winning episode of Trash Talk with Count Binface is esteemed Earth comedian Richard Herring. \nHe's made cancer funny, poked fun at fascism and even made a whole show about your funny human male reproductive organ - so what will 45 minutes with Count Binface bring? Well... has the BBC fo",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6654ee607d5431001308bb90/e/68c340a824c6e67e68637a91/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/richard-herring/id1748663426?i=1000726405150&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring",
           "Stewart Lee"
         ],
         "topics": [],
