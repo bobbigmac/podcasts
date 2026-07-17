@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-07-08T14:40:44+00:00`
-- checked_at: `2026-07-08T14:40:44+00:00`
-- etag: `"djEuMi4wOjE3ODM0MTQ1OTg2MDk="`
+- fetched_at: `2026-07-17T08:27:30+00:00`
+- checked_at: `2026-07-17T08:27:30+00:00`
+- etag: `"djEuMi4wOjE3ODQyNzQxODM0MDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-07-08T14:40:44+00:00",
+  "fetched_at": "2026-07-17T08:27:30+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "003f819201f839ee3e1c3ebb7dd26cf3f06826dd",
+      "title": "Are IVF Clinics Predatory For the Over 40s?",
+      "published_at": "2026-07-17T07:43:03+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/are-ivf-clinics-predatory-for-the-over-40s",
+      "description": "This week, Katherine's Telling Everybody Everything about a few heatwave ailments in the family. Since Bobby's 'Gentleman's Pad' incident, karma seems to be against the Ryan-Kootstras health--wise. Plus, listener letters about (trigger warning) leaving an abusive partner and whether or not to have children with a man who seems only medium keen. Also, comedian Andrew Johnston @mandrewbrawnston joins us from Hollywood with news that Chris Brown's housekeeper has been awarded a $13M payout and asks, 'Are IVF clinics predatory?'. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1784273580312-c41effdd-ac17-4a96-b244-d2c1e3e86fc0.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a59dd074d4b991ebeed00e3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81929949",
+      "itunes_duration": "56:53",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "clinic",
+        "predatory"
+      ]
+    },
     {
       "key": "c64dea5c27a79f578a1ee65ed26a898f9a075686",
       "title": "JusT&T Married",
@@ -6331,6 +6351,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-17 — Are IVF Clinics Predatory For the Over 40s? — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-07-07 — JusT&T Married — speakers: Katherine Ryan
 - 2026-07-03 — The Gentleman's Pad — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-06-25 — In Conversation With Erica Komisar — speakers: Katherine Ryan

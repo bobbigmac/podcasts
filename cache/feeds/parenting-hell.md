@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-07-14T08:27:33+00:00`
-- checked_at: `2026-07-14T08:27:33+00:00`
-- last_modified: `Tue, 14 Jul 2026 07:12:01 GMT`
+- fetched_at: `2026-07-17T08:27:30+00:00`
+- checked_at: `2026-07-17T08:27:30+00:00`
+- last_modified: `Fri, 17 Jul 2026 06:21:50 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/b2aa3247887f1870e2463ba16df8b5ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-14T08:27:33+00:00",
+  "fetched_at": "2026-07-17T08:27:30+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -28,11 +28,28 @@
   ],
   "episodes": [
     {
+      "key": "d6a7c0fec5d192aac834ce80ba24a5008b9a41ff",
+      "title": "It's all ego",
+      "published_at": "2026-07-17T05:53:00+00:00",
+      "link": null,
+      "description": "More adventures in parenting and beyond with Rob and Josh... This ep it's a bit of inbox correspondence from the listeners and some of the best bits from our guests this series while we take a short break. We'll see you on Tuesday 21st July for the new series! 1. Hal Cruttenden 2. Laura Smyth 3. Eddie Marsan 4. Jack Savoretti Listen and / or watch the full episodes on Spotify. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5440526439.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3473",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": []
+    },
+    {
       "key": "360417e568c1e8ff10d50e6a2f417745622258e9",
       "title": "When all else fails...",
       "published_at": "2026-07-14T06:25:00+00:00",
       "link": null,
-      "description": "More adventures in parenting and beyond with Rob and Josh... This ep it's a bit of inbox correspondence from the listeners and some of the best bits from our guests this series while we take a short break. Back very soon with series 13!!! 1. Ray Bradbury 2. Jessica Hynes 3. Jaime Laing 4. Michelle Wolf Listen and / or watch the full episodes on Spotify. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "More adventures in parenting and beyond with Rob and Josh... This ep it's a bit of inbox correspondence from the listeners and some of the best bits from our guests this series while we take a short break. Back very soon with series 13!!! 1. Ray Bradshaw 2. Jessica Hynes 3. Jaime Laing 4. Michelle Wolf Listen and / or watch the full episodes on Spotify. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/GLT7026029554.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12280,6 +12297,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-17 — It's all ego — speakers: Rob Beckett, Josh Widdicombe
 - 2026-07-14 — When all else fails... — speakers: Rob Beckett, Josh Widdicombe
 - 2026-07-10 — It started with a mix — speakers: Rob Beckett, Josh Widdicombe
 - 2026-07-07 — I like a thin cheese — speakers: Rob Beckett, Josh Widdicombe
