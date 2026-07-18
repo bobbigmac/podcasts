@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-07-17T19:31:46+00:00`
-- checked_at: `2026-07-17T19:31:46+00:00`
-- etag: `"djEuMi4wOjE3ODQyOTgyNzU5Njk="`
+- fetched_at: `2026-07-18T08:07:45+00:00`
+- checked_at: `2026-07-18T08:07:45+00:00`
+- etag: `"djEuMi4wOjE3ODQzNjE2MzkzNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-07-17T19:31:46+00:00",
+  "fetched_at": "2026-07-18T08:07:45+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "fd56021077e6e907566aaa31210d9e15fc79fad2",
+      "title": "Starmer bows out",
+      "published_at": "2026-07-18T08:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/starmer-bows-out",
+      "description": "Keir Starmer has bowed out of his role as Prime Minister. At his final PMQs, an unusually convivial tone was struck. As Starmer's political career draws to a close, Will Dunn and Tom McTague discuss his tenure, his final week, and ponder his unpopularity. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1784297984667-d1b89e16-e5e5-4475-a7aa-ccbd719f741a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a5a39b617170e7aade3269b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121460135",
+      "itunes_duration": "50:34",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "starmer"
+      ]
+    },
     {
       "key": "801302edcb39e9dbd03948a4e2143aef9c3df5f4",
       "title": "The transition begins",
@@ -31808,6 +31827,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-18 — Starmer bows out — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-07-16 — The transition begins — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-14 — How can the UK protect its Critical National Infrastructure from cyberattacks? — speakers: Critical National Infrastructure, Anoosh Chakelian, Oli Dugmore
 - 2026-07-09 — Farage's Clacton distraction — speakers: Anoosh Chakelian, Oli Dugmore
