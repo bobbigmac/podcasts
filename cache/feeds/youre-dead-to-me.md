@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-07-10T09:52:27+00:00`
-- checked_at: `2026-07-10T09:52:27+00:00`
-- etag: `"947472092e83af96b0a829d1ed60debb"`
-- last_modified: `Fri, 10 Jul 2026 05:00:21 GMT`
+- fetched_at: `2026-07-19T13:52:45+00:00`
+- checked_at: `2026-07-19T13:52:45+00:00`
+- etag: `"8d1ddca2c2fe5e5e5571e7bd662067d6"`
+- last_modified: `Sun, 19 Jul 2026 11:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-07-10T09:52:27+00:00",
+  "fetched_at": "2026-07-19T13:52:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -108,23 +108,6 @@
       ],
       "topics": [
         "series"
-      ]
-    },
-    {
-      "key": "06f8cd6de3c81cca81b760298cac98ff7a156fea",
-      "title": "Why do British people love tea? (from Here For The History)",
-      "published_at": "2026-06-19T11:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0nst3zj",
-      "description": "Where exactly does the British love affair with tea begin? It all starts with a Portuguese princess… In this first episode of Here For The History, Alice Loxton and Ben Henderson explore the origin story of the British love of tea. Starting with the first appearance of tea in England in the 1600s and its popularisation in the English royal court, the story takes a dark turn as the British East India Company seeks to break China’s monopoly on tea production leading to the Opium Wars and corporate espionage. Here For The History is a new BBC Sounds podcast where every week historians Alice Loxton and Ben Henderson will shed light on the stereotypes, social norms, traditions and beliefs that fill our everyday life. From Britain’s stiff upper-lip, to Scottish tartan, the podcast will reveal the surprising roots of the customs and everyday objects that surround us. If you enjoy this episode, you can listen and subscribe to Here For The History on BBC Sounds. If you’re outside the UK, you can listen on BBC.com or wherever you get your podcasts. Key sources for this episode: A Social History of Tea - Jane Pettigrew A journey to the tea countries of China - Robert Fortune Dinner with Dickens - Penn Vogler",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nstsbh.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nstx5b.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "31344000",
-      "itunes_duration": "1959",
-      "speakers": [],
-      "topics": [
-        "people",
-        "history"
       ]
     },
     {
@@ -6056,7 +6039,6 @@
 - 2026-07-03 — Empress Dowager Cixi (Radio Edit) — speakers: Greg Jenner, Yangwen Zheng
 - 2026-06-26 — History of the Telephone (Radio Edit) — speakers: Greg Jenner, Iwan Morus
 - 2026-06-24 — Announcing Series 12 — speakers: Greg Jenner
-- 2026-06-19 — Why do British people love tea? (from Here For The History)
 - 2026-06-19 — History of Spices (Radio Edit) — speakers: Greg Jenner, David Veevers, Paul Sinha
 - 2026-06-12 — Epic of Gilgamesh (Radio Edit) — speakers: Greg Jenner, Moudhy Al-Rashid, Marjolein Robertson
 - 2026-06-05 — Hypatia of Alexandria (Radio Edit) — speakers: Greg Jenner, Edith Hall, Olga Koch
