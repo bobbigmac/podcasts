@@ -5536,6 +5536,28 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "c348679650c513f7629494939f155a18eb23e2f8",
+        "episode_key": "c348679650c513f7629494939f155a18eb23e2f8",
+        "title": "Josh Widdicombe XFM #87 – Ed Gamble, Ivo Graham",
+        "published_at": "2026-07-19T05:33:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Ed Gamble and Ivo Graham join Josh in the studio.28th April 2015",
+        "audio_url": "https://traffic.megaphone.fm/APO2885977479.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-87-ed-gamble-ivo-graham/id1866254969?i=1000777395440&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
