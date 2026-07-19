@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-07-15T03:32:47+00:00`
-- checked_at: `2026-07-15T03:32:47+00:00`
-- etag: `"djEuMi4wOjE3ODQwODQ0Mzk3OTU="`
+- fetched_at: `2026-07-19T08:32:28+00:00`
+- checked_at: `2026-07-19T08:32:28+00:00`
+- etag: `"djEuMi4wOjE3ODQ0MzcyMzk1NTQ="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-07-15T03:32:47+00:00",
+  "fetched_at": "2026-07-19T08:32:28+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "043bb3b885486ad66f5f27edceacd714523a3551",
+      "title": "S5 EP5: Roger O'Sullivan",
+      "published_at": "2026-07-19T05:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s5-ep5-roger-osullivan",
+      "description": "Joining us on this episode of ' ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ What did you do yesterday? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ' is the comedian Roger O'Sullivan We asked Roger what he did yesterday? He told us. That's it... enjoy! Are you ' IN IT FOR LIFE '? Sign up HERE if you are. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ @yesterdaypod ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1784434010295-1150bfc6-3eb5-437a-8988-279681e57660.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a5c4ef17a878a3380ef3ee6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64617743",
+      "itunes_duration": "1:07:18",
+      "speakers": [
+        "Roger O'Sullivan",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "roger"
+      ]
+    },
     {
       "key": "88b4367b7facd9b6c62989637cb5b7b7a0fb3803",
       "title": "WDWDY #79.1: I've got a question for you (David's Yesterday)",
@@ -3719,6 +3739,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-19 — S5 EP5: Roger O'Sullivan — speakers: Roger O'Sullivan, Max Rushden, David O'Doherty
 - 2026-07-15 — WDWDY #79.1: I've got a question for you (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-07-12 — S5 EP4: Mike Rice — speakers: Mike Rice, Max Rushden, David O'Doherty
 - 2026-07-08 — WDWDY #78.1: Le Grande Gazpacho (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
