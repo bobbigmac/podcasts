@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-07-13T03:58:44+00:00`
-- checked_at: `2026-07-13T03:58:44+00:00`
-- etag: `"djEuMi4wOjE3ODM5MTE2Mzk2NzA="`
+- fetched_at: `2026-07-20T04:03:20+00:00`
+- checked_at: `2026-07-20T04:03:20+00:00`
+- etag: `"djEuMi4wOjE3ODQ1MTMwMTkyMTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-07-13T03:58:44+00:00",
+  "fetched_at": "2026-07-20T04:03:20+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "951e755b64a501d8e12cb079cad821b5d243ce19",
+      "title": "Show 412. Dan Neidle",
+      "published_at": "2026-07-20T02:03:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/show-412-dan-neidle",
+      "description": "Dan is a tax expert. A proper tax expert. You may have seen him on Channel 4 recently getting immensely frustrated with Gary Stevenson about a wealth tax. Dan doesn't agree with a wealth tax and in this fascinating interview he explains why. He also tells us what really happened during the filming of that infamous interview and what bits were left out... See Matt at the Soho Theatre trying out new material, 21-25 July: https://sohotheatre.com/events/matt-forde-work-in-progress-4/ Subscribe to Andrew's new podcast, The Andrew Neil Report: https://open.spotify.com/show/033rtEM2eq993E22SE0vPm See the Political Party Live on Stage: 9 August: Anas Sarwar (Edinburgh) 15 August: Stephen Flynn (Edinburgh) 18 August: Rachel Reeves (Edinburgh) 20 August: Malcolm Offord (Edinburgh) 9 November: Liz Kendall (London) 21 December: Wes Streeting (London) Get tickets for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival: https://www.edfringe.com/tickets/whats-on/matt-forde-project-holy-moly Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a5a4fde4d4b991ebe14ecb8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80738559",
+      "itunes_duration": "56:03",
+      "speakers": [
+        "Dan Neidle Dan",
+        "Matt Forde"
+      ],
+      "topics": [
+        "neidle"
+      ]
+    },
     {
       "key": "b86479c634449ca2d0912a34462baf8575486212",
       "title": "Show 411. Andrew Neil",
@@ -10527,6 +10546,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — Show 412. Dan Neidle — speakers: Dan Neidle Dan, Matt Forde
 - 2026-07-13 — Show 411. Andrew Neil — speakers: Andrew Neil, Matt Forde
 - 2026-07-06 — Show 410. Suzanne Moore — speakers: Suzanne Moore, Matt Forde
 - 2026-06-30 — Show 409 - Andy Burnham - Replay — speakers: Matt Forde

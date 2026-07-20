@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-17T03:36:07+00:00`
-- checked_at: `2026-07-17T03:36:07+00:00`
-- etag: `"djEuMi4wOjE3ODQyNTcwNTkyMzY="`
+- fetched_at: `2026-07-20T04:03:20+00:00`
+- checked_at: `2026-07-20T04:03:20+00:00`
+- etag: `"djEuMi4wOjE3ODQ1MTYyNTkyMTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-17T03:36:07+00:00",
+  "fetched_at": "2026-07-20T04:03:20+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "560dce8f36506f8c758015f57f0405e4edbe9d41",
+      "title": "Count Binface (Retro) - \"House of Losers\"",
+      "published_at": "2026-07-20T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#543 House of Losers - Richard has had a worrying dream, but what can it all mean? His guest is an alien from outer space and not a man in an impressive but ridiculous costume, the artist formerly known as Lord Buckethead, Count Binface. They discuss his reasons for travelling light years to take on sitting Prime Ministers in UK elections, some of his excellent policies involving hand dryers and Ceefax, whether snooker is already in 3 dimensions, losing a bind, whether old people should lose the vote, improving the House of Lords and how the UK’s future span out of control due to the Olympic opening ceremony and a bacon sandwich. Will Count Binface become Mayor of Croydon? Watch this (outer) space. Check out the Count’s live dates on his website, and vote for him in Clacton on 13 August if you can https://www.countbinface.com/ See a live recording of RHLSTP - https://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1784391688195-32a3fcdf-fe73-4ac4-9eb8-0297cd8e327b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a5ba79462e50b14bd006d30/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26645315",
+      "itunes_duration": "55:30",
+      "speakers": [
+        "Count Binface",
+        "Richard Herring"
+      ],
+      "topics": [
+        "count",
+        "binface",
+        "retro",
+        "house",
+        "losers"
+      ]
+    },
     {
       "key": "b3418868723e36f0acb9b9a186f640d8187e8144",
       "title": "Turi King on The Secrets of Our DNA - Book Club",
@@ -23230,6 +23253,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — Count Binface (Retro) - "House of Losers" — speakers: Count Binface, Richard Herring
 - 2026-07-17 — Turi King on The Secrets of Our DNA - Book Club — speakers: Turi King, Richard Herring
 - 2026-07-15 — Mitch Benn (Part 2) - "Two Large Fifty-Something Tiny Tims" — speakers: Mitch Benn, Richard Herring
 - 2026-07-13 — Rhys James (Retro) - "Hungover Mastermind" — speakers: Rhys James, Richard Herring

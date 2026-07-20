@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-07-18T08:07:45+00:00`
-- checked_at: `2026-07-18T08:07:45+00:00`
-- last_modified: `Sat, 18 Jul 2026 08:02:26 GMT`
+- fetched_at: `2026-07-20T04:03:20+00:00`
+- checked_at: `2026-07-20T04:03:20+00:00`
+- last_modified: `Sun, 19 Jul 2026 23:10:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-18T08:07:45+00:00",
+  "fetched_at": "2026-07-20T04:03:20+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,34 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "13297ca10fb9d3a2e1d991e0b7ec91003d5e105f",
+      "title": "Judi Love On Self-Care, Posh Gyms & Comedy Acting",
+      "published_at": "2026-07-19T23:01:00+00:00",
+      "link": null,
+      "description": "How does Judi Love do it all? In this episode of The Romesh Ranganathan Show, comedian, actor and writer, Judi Love joins Romesh to discuss her remarkable career, from becoming the first Black British woman to headline the London Palladium to starring in upcoming projects including Girl Group and and Channel 4's Schooled. Judi opens up about comedy as a coping mechanism for undiagnosed dyslexia, the importance of self-care, and why she's learnt to fiercely protect her peace. She also reveals her dream of studying for a PhD exploring the impact of joy and laughter on our wellbeing. Plus, there's a question from Shanthi, a game of Misquoted, and Judi shares her problem with posh gyms plus an unbelievable crash out story. A Ranga Bee Production in partnership with Platform. Chapters 00:00 Intro 02:20 Rom is big in the game 02:55 Judi’s shade to Romesh 07:39 Work ethic 09:35 A gift for Judi 13:33 On dyslexia, school and humour 15:10 Judi’s comedy influences 17:00 Comedy writing 21:30 Americans vs English 24:18 The NYC comedy scene 26:00 Judi’s upcoming tour 26:32 Romeh’s toilet story 29:57 Our Table Podcast 30:56 A question from Shanthi 33:47 A call from Rebel Wilson 35:28 Judi’s problem with posh gyms 36:22 Girl Group the new movie 38:24 Acting and Writing 41:16 On Schooled 44:28 Getting a PhD 46:20 Judi & Rom’s covid content 48:23 The benefits of comedy 49:50 Self care and health 53:14 Misquoted 01:01:47 Being mistaken for other celebs 01:04:45 An exclusive 01:09:33 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f83e8c68-81eb-11f1-9856-6fef0dc5c9da/image/51d4a780cdd55c868b3c89ec1a5e47eb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6427166814.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4442",
+      "speakers": [
+        "Posh Gyms",
+        "Comedy Acting How",
+        "Judi Love",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "judi",
+        "love",
+        "self",
+        "care",
+        "posh",
+        "gyms",
+        "comedy",
+        "acting"
+      ]
+    },
     {
       "key": "78fab9c141a34b7d973a7fd3261fe8f42a83bf62",
       "title": "Shanthi Teaches Romesh How To Interview",
@@ -1961,6 +1989,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-19 — Judi Love On Self-Care, Posh Gyms & Comedy Acting — speakers: Posh Gyms, Comedy Acting How, Judi Love, Romesh Ranganathan
 - 2026-07-15 — Shanthi Teaches Romesh How To Interview — speakers: Romesh Ranganathan
 - 2026-07-12 — Gabby Logan On Match of the Day, Trolls & Live TV — speakers: Gabby Logan, Romesh Ranganathan
 - 2026-07-08 — Why Does Shanthi Have Beef With Idris Elba? — speakers: Idris Elba, Romesh Ranganathan

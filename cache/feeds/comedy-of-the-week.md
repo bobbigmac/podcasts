@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-07-13T09:47:08+00:00`
-- checked_at: `2026-07-13T09:47:08+00:00`
-- etag: `"50b10907e54d57d17fa1f1c4a6ad7ba6"`
-- last_modified: `Mon, 13 Jul 2026 04:00:04 GMT`
+- fetched_at: `2026-07-20T04:03:20+00:00`
+- checked_at: `2026-07-20T04:03:20+00:00`
+- etag: `"3b9f9cc0cc6e36ec75b4da192e8e8260"`
+- last_modified: `Tue, 14 Jul 2026 04:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-07-13T09:47:08+00:00",
+  "fetched_at": "2026-07-20T04:03:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -992,26 +992,6 @@
         "screen",
         "time"
       ]
-    },
-    {
-      "key": "4ecf4d110360659bf8c5a36212446b7ae7e389dc",
-      "title": "Ashley Blaker's Hyperfixations",
-      "published_at": "2025-07-14T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lp2pkr",
-      "description": "\"Americans have a long history of taking British things and ballsing them up. They took football and added helmets and cheerleaders; they took ice lollies and called them popsicles; and they took James Corden and then sent him back here.\" Among Ashley’s more unusual hyperfixations is a life-long love of professional wrestling. This special interest was first developed on Saturday afternoons at his grandparents’ house watching Big Daddy, Giant Haystacks and Kendo Nagasaki. It continued through the 1980s when Britain was invaded by Hulk Hogan and his colleagues from the then WWF (before they lost a court case to the World Wildlife Fund), and Ashley was fortunate enough to be in attendance at the legendary Summerslam show at Wembley Stadium in 1992, which so many British wrestlers have cited as the day that cemented their love of the grunt and grapple business. This undeniably extraordinary spectacle is sometimes called ‘sports entertainment’ - for many people it is neither! When Ashley Blaker was diagnosed with autism and ADHD, one of the most significant aspects of his diagnosis is his propensity for hyperfixation in special interests, which he now realises has entirely shaped his past and which he uses to mine comedy for this new series. It’s no exaggeration to say Ashley’s life has been driven by obsessions. He has variously been a schoolboy with a love of Star Wars and Doctor Who, a wannabe comedian who performed on the London comedy circuit at 16, a trivia nerd who appeared on University Challenge, a history PhD candidate at Cambridge, a BBC producer of hit comedy shows including Little Britain, a fanatical football fan who saw Liverpool play across England and Europe, a strictly Orthodox Jew who went to synagogue three times a day for over ten years, a father of six, and latterly, a heavily tattooed renegade in hiding from his former community. In this series, Ashley takes a comedic look at each of his obsessions in turn, merging personal memoir with a delve into subjects which have yet to be covered in stand-up comedy shows. The result is a series which, while based on the broader topic of neurodiversity, covers it with the lightest of touches and is focused more on Ashley’s individual hyperfixations, lifting the lid on many of the different worlds he’s inhabited. To hear more episodes from this series, search \"Ashley Blaker's Hyperfixations\" on BBC Sounds. Written and performed by Ashley Blaker co-starring Rosie Holt and Kieran Hodgson Script Editor: Steve Hall Recording engineers: Jerry Peal and Jon Calver Producer: Steve Doherty A Giddy Goat production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lp2lsf.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27296000",
-      "itunes_duration": "1706",
-      "speakers": [
-        "Ashley Blaker"
-      ],
-      "topics": [
-        "ashley",
-        "blaker",
-        "hyperfixations"
-      ]
     }
   ]
 }
@@ -1070,4 +1050,3 @@
 - 2025-08-04 — Crybabies Present... — speakers: Jeremy Moleskine
 - 2025-07-28 — The Lively Life of Lindsey Santoro
 - 2025-07-21 — Kat Sadler's Screen Time — speakers: Kat Sadler
-- 2025-07-14 — Ashley Blaker's Hyperfixations — speakers: Ashley Blaker

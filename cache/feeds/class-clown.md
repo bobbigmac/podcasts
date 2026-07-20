@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-07-13T03:58:44+00:00`
-- checked_at: `2026-07-13T03:58:44+00:00`
-- last_modified: `Sun, 12 Jul 2026 23:00:20 GMT`
+- fetched_at: `2026-07-20T04:03:20+00:00`
+- checked_at: `2026-07-20T04:03:20+00:00`
+- last_modified: `Sun, 19 Jul 2026 23:00:37 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-13T03:58:44+00:00",
+  "fetched_at": "2026-07-20T04:03:20+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "255868f0244f4d9a13063da669783c84783aac76",
+      "title": "PHIL ELLIS: Arrested by Armed Police, Disastrous Red Dwarf Audition, Airbag Factory Beginnings",
+      "published_at": "2026-07-19T23:00:00+00:00",
+      "link": null,
+      "description": "Phil Ellis is back and this time he talks his early film making ambitions which leads to a hilarious tale of him being arrested by armed police, he also shares what's the exact thing you shouldn't do if you get the chance to audition for Red Dwarf and talks his early days working in an air bag factory. See Phil at Edinburgh and on his Bath Mat tour! https://www.philelliscomedy.com/ See Seann on the Autumn leg of his This Is Torture! Tour https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5558285360.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2827",
+      "speakers": [
+        "Phil Ellis",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "phil",
+        "ellis",
+        "armed",
+        "police",
+        "dwarf",
+        "audition",
+        "airbag",
+        "factory",
+        "beginnings"
+      ]
+    },
     {
       "key": "7d8e04ffdd1ab490fa979ed38e107e962bd059f2",
       "title": "PHIL ELLIS: Fighting at School, Rik Mayall and Growing Up in Preston",
@@ -36,7 +63,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL3745420982.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2849",
+      "itunes_duration": "2969",
       "speakers": [
         "Rik Mayall",
         "Phil Ellis",
@@ -60,7 +87,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8442736156.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "1973",
+      "itunes_duration": "2033",
       "speakers": [
         "Comedy Dreams",
         "Tabloid Treatment",
@@ -83,7 +110,7 @@
       "title": "NATALIE CASSIDY: Being An Eastenders Icon at 10, Clubbing at 15 and Her Love of Art",
       "published_at": "2026-07-05T19:46:00+00:00",
       "link": null,
-      "description": "Natalie Cassidy joins Seann Walsh to discuss what it's like coming from a working class background and achieving incredible fame at just 10 years old. We get into what it's like growing up in a world full of adults, getting access to high end night life when you are barely 15 and how she's developed a love of art and museums. Part 2 Available On Patreon With Exclusive Content!: https://www.patreon.com/ClassClown Seann ⁠Walsh on Tour This Autumn⁠! https://www.seannwalsh.com/ Check out Natalie's new Patreon! https://www.patreon.com/cw/LifewithNatPod Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Natalie Cassidy joins Seann Walsh to discuss what it's like coming from a working class background and achieving incredible fame at just 10 years old. We get into what it's like growing up in a world full of adults, getting access to high end night life when you are barely 15 and how she's developed a love of art and museums. Part 2 Available On Patreon With Exclusive Content!: https://www.patreon.com/ClassClown Seann ⁠Walsh on Tour This Autumn⁠! https://www.seannwalsh.com/ Check out Natalie's new Patreon! https://www.patreon.com/cw/LifewithNatPod Every self-made person started somewhere. Your journey starts for free at shopify.co.uk Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1657663757.mp3",
       "enclosure_type": "audio/mpeg",
@@ -1669,6 +1696,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-19 — PHIL ELLIS: Arrested by Armed Police, Disastrous Red Dwarf Audition, Airbag Factory Beginnings — speakers: Phil Ellis, Seann Walsh
 - 2026-07-12 — PHIL ELLIS: Fighting at School, Rik Mayall and Growing Up in Preston — speakers: Rik Mayall, Phil Ellis, Seann Walsh
 - 2026-07-05 — NATALIE CASSIDY: Comedy Dreams, Rough Tabloid Treatment, Being Desperate To Leave School — speakers: Comedy Dreams, Tabloid Treatment, Natalie Cassidy, Seann Walsh
 - 2026-07-05 — NATALIE CASSIDY: Being An Eastenders Icon at 10, Clubbing at 15 and Her Love of Art — speakers: Natalie Cassidy, Seann Walsh
