@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-07-20T09:33:25+00:00`
-- checked_at: `2026-07-20T09:33:25+00:00`
-- etag: `W/"443b4-4yME/eft9UGH8IBhCJyl6ViAkPE"`
+- fetched_at: `2026-07-20T14:32:47+00:00`
+- checked_at: `2026-07-20T14:32:47+00:00`
+- etag: `W/"44c66-2ngLKv+isZxoU5inJLT2O1AYNiw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,59 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-07-20T09:33:25+00:00",
+  "fetched_at": "2026-07-20T14:32:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f843f4eb5f79ddc95bd97832c88164bd40e3811c",
+      "title": "Josh Widdicombe XFM #89 – Joe Lycett, Ivo Graham",
+      "published_at": "2026-07-20T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-89--Joe-Lycett--Ivo-Graham-e3m9d71",
+      "description": "Joe Lycett makes a heroic return and Ivo Graham is in the studio for the last hour.18th May 2015",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784484066297-2ddc9405d2521.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7323045547.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55186762",
+      "itunes_duration": "00:56:52",
+      "speakers": [
+        "Joe Lycett",
+        "Ivo Graham Joe Lycett",
+        "Ivo Graham"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "lycett",
+        "graham"
+      ]
+    },
+    {
+      "key": "e2d0f9c50c7a6ca08044840d11374bc02a83d70a",
+      "title": "Josh Widdicombe XFM #88 – Ivo Graham, Nick Helm",
+      "published_at": "2026-07-20T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-88--Ivo-Graham--Nick-Helm-e3m9d30",
+      "description": "Joe Lycett makes a heroic return and Ivo Graham is in the studio for the last hour.18th May 2015",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784483815675-2d20f4cabb079.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4367924421.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39025367",
+      "itunes_duration": "00:40:13",
+      "speakers": [
+        "Ivo Graham",
+        "Nick Helm Joe Lycett"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "graham",
+        "nick",
+        "helm"
+      ]
+    },
     {
       "key": "c598b3477b558df43d28b9d18ba264ab18869973",
       "title": "Josh Widdicombe XFM #87 – Ed Gamble, Ivo Graham",
@@ -5225,6 +5271,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — Josh Widdicombe XFM #89 – Joe Lycett, Ivo Graham — speakers: Joe Lycett, Ivo Graham Joe Lycett, Ivo Graham
+- 2026-07-20 — Josh Widdicombe XFM #88 – Ivo Graham, Nick Helm — speakers: Ivo Graham, Nick Helm Joe Lycett
 - 2026-07-19 — Josh Widdicombe XFM #87 – Ed Gamble, Ivo Graham — speakers: Ivo Graham Ed Gamble, Ivo Graham
 - 2026-07-18 — Josh Widdicombe XFM #86 – Matthew Crosby — speakers: Matthew Crosby
 - 2026-07-17 — Josh Widdicombe XFM #84 – Iain Stirling, Stuart Goldsmith — speakers: Stuart Goldsmith
