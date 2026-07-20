@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-07-20T14:32:47+00:00`
-- checked_at: `2026-07-20T14:32:47+00:00`
-- etag: `W/"44c66-2ngLKv+isZxoU5inJLT2O1AYNiw"`
+- fetched_at: `2026-07-20T19:55:48+00:00`
+- checked_at: `2026-07-20T19:55:48+00:00`
+- etag: `W/"450c8-IhkbzlTI2wE/3UBaftyyo/zlJHU"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-07-20T14:32:47+00:00",
+  "fetched_at": "2026-07-20T19:55:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "65a6deafd34b5ae73cd0423c9b45b0c873606ab9",
+      "title": "Josh Widdicombe XFM #90 – Ivo Graham, Lloyd Griffith",
+      "published_at": "2026-07-20T18:42:42+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-90--Ivo-Graham--Lloyd-Griffith-e3mapdl",
+      "description": "Lloyd Griffith and Ivo Graham are in the studio to play the return of Call My Josh.26th May 2015",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784572854797-fd3c9a9be1b1a.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4761917642.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46882898",
+      "itunes_duration": "00:48:50",
+      "speakers": [
+        "Ivo Graham",
+        "Lloyd Griffith"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "graham",
+        "lloyd",
+        "griffith"
+      ]
+    },
     {
       "key": "f843f4eb5f79ddc95bd97832c88164bd40e3811c",
       "title": "Josh Widdicombe XFM #89 – Joe Lycett, Ivo Graham",
@@ -5271,6 +5294,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — Josh Widdicombe XFM #90 – Ivo Graham, Lloyd Griffith — speakers: Ivo Graham, Lloyd Griffith
 - 2026-07-20 — Josh Widdicombe XFM #89 – Joe Lycett, Ivo Graham — speakers: Joe Lycett, Ivo Graham Joe Lycett, Ivo Graham
 - 2026-07-20 — Josh Widdicombe XFM #88 – Ivo Graham, Nick Helm — speakers: Ivo Graham, Nick Helm Joe Lycett
 - 2026-07-19 — Josh Widdicombe XFM #87 – Ed Gamble, Ivo Graham — speakers: Ivo Graham Ed Gamble, Ivo Graham

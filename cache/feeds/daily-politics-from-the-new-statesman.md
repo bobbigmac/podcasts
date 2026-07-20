@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-07-18T08:07:45+00:00`
-- checked_at: `2026-07-18T08:07:45+00:00`
-- etag: `"djEuMi4wOjE3ODQzNjE2MzkzNjE="`
+- fetched_at: `2026-07-20T19:55:48+00:00`
+- checked_at: `2026-07-20T19:55:48+00:00`
+- etag: `"djEuMi4wOjE3ODQ1NjY3MTMxMjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-07-18T08:07:45+00:00",
+  "fetched_at": "2026-07-20T19:55:48+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "fb4c34531a45cb5eb3cc191c607d52484423086a",
+      "title": "Prime Minister Andy Burnham",
+      "published_at": "2026-07-20T16:58:32+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/prime-minister-andy-burnham",
+      "description": "Today, Keir Starmer made his way from No 10 to Buckingham Palace to officially resign as Prime Minister. He was closely followed by his replacement, Andy Burnham, who is currently in his first few hours in the job. Anoosh Chakelian is in Westminster with Ailbhe Rea to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1784566555019-29aad30f-a8ea-406d-a4a6-445ad632f9fb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a5e52e8a584e187226fc4be/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79119119",
+      "itunes_duration": "32:56",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "prime",
+        "minister",
+        "andy",
+        "burnham"
+      ]
+    },
     {
       "key": "fd56021077e6e907566aaa31210d9e15fc79fad2",
       "title": "Starmer bows out",
@@ -31827,6 +31850,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — Prime Minister Andy Burnham — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-18 — Starmer bows out — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-07-16 — The transition begins — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-14 — How can the UK protect its Critical National Infrastructure from cyberattacks? — speakers: Critical National Infrastructure, Anoosh Chakelian, Oli Dugmore
