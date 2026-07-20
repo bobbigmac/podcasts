@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-07-14T10:56:02+00:00`
-- checked_at: `2026-07-14T10:56:02+00:00`
-- etag: `W/"40d13-pY55vUsXDSHAJ2T8zvwrEAQWj5w"`
+- fetched_at: `2026-07-20T09:33:25+00:00`
+- checked_at: `2026-07-20T09:33:25+00:00`
+- etag: `W/"443b4-4yME/eft9UGH8IBhCJyl6ViAkPE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,302 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-07-14T10:56:02+00:00",
+  "fetched_at": "2026-07-20T09:33:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c598b3477b558df43d28b9d18ba264ab18869973",
+      "title": "Josh Widdicombe XFM #87 – Ed Gamble, Ivo Graham",
+      "published_at": "2026-07-19T05:33:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-87--Ed-Gamble--Ivo-Graham-e3m7f39",
+      "description": "Ed Gamble and Ivo Graham join Josh in the studio.28th April 2015",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784316888325-802733a396f86.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2885977479.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46084839",
+      "itunes_duration": "00:47:29",
+      "speakers": [
+        "Ivo Graham Ed Gamble",
+        "Ivo Graham"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "gamble",
+        "graham"
+      ]
+    },
+    {
+      "key": "472852bcc6ad8e6e766dae463ec7e5f6da04a1ff",
+      "title": "Josh Widdicombe XFM #86 – Matthew Crosby",
+      "published_at": "2026-07-18T05:28:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-86--Matthew-Crosby-e3m7et3",
+      "description": "Matthew Crosby is in the studio to test the new game, Neil or No Neil.15th April 2015.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784316629598-6063c1c99fe93.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1649244092.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20253841",
+      "itunes_duration": "00:20:52",
+      "speakers": [
+        "Matthew Crosby"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "matthew",
+        "crosby"
+      ]
+    },
+    {
+      "key": "4fcf05f6a8eec071a5f5c1432e7ebb8c9e6b4546",
+      "title": "Josh Widdicombe XFM #84 – Iain Stirling, Stuart Goldsmith",
+      "published_at": "2026-07-17T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-84--Iain-Stirling--Stuart-Goldsmith-e3m5ti0",
+      "description": "Iain Stirling and Stuart Goldsmith join Josh in the studio.23rd March 2015.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784221751989-c9057d4715753.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8282499533.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34278434",
+      "itunes_duration": "00:35:19",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "iain",
+        "stirling",
+        "stuart",
+        "goldsmith"
+      ]
+    },
+    {
+      "key": "5d4620d3f7dece3a4882688f2781f4ab607a61ad",
+      "title": "Josh Widdicombe XFM #83 – Ivo Graham",
+      "published_at": "2026-07-17T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-83--Ivo-Graham-e3m5tf6",
+      "description": "Josh arrives late. Ivo Graham joins Josh in the studio to talk about meeting Steven Spielberg.16th March 2015.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784221593118-c4ccb37759306.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1401923329.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29000405",
+      "itunes_duration": "00:29:53",
+      "speakers": [
+        "Ivo Graham Josh",
+        "Ivo Graham"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "graham"
+      ]
+    },
+    {
+      "key": "932fd965cf8039394312ed94cc42e169336cdeaa",
+      "title": "Josh Widdicombe XFM #85 – Ivo Graham",
+      "published_at": "2026-07-17T02:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-85--Ivo-Graham-e3m5tm9",
+      "description": "Ivo Graham joins Josh in the studio.7th April 2015.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784221958122-057592623de1d.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2724238157.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20253841",
+      "itunes_duration": "00:20:52",
+      "speakers": [
+        "Ivo Graham Ivo Graham"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "graham"
+      ]
+    },
+    {
+      "key": "c9c32ddd92b5cb8997fdb808960804c1e50aba03",
+      "title": "Josh Widdicombe XFM #82 – Ivo Graham, Henry Paker",
+      "published_at": "2026-07-16T17:04:56+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-82--Ivo-Graham--Henry-Paker-e3m5tbc",
+      "description": "Ivo Graham and Henry Paker are in the studio.9th March 2015.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784221421480-e2dcede77a885.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9328186275.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23102940",
+      "itunes_duration": "00:23:48",
+      "speakers": [
+        "Ivo Graham",
+        "Henry Paker"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "graham",
+        "henry",
+        "paker"
+      ]
+    },
+    {
+      "key": "01603a8b3064e0500bfbddb53e6796c6c90fcf05",
+      "title": "Josh Widdicombe XFM #81 – Ivo Graham, Tom Craine",
+      "published_at": "2026-07-16T10:26:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-81--Ivo-Graham--Tom-Craine-e3m4hmu",
+      "description": "Tom Craine plays Call My Josh and Ivo Graham arrives with his own text topic.2nd March 2015.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784136444744-0e52f6401e4b2.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9273600735.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42108462",
+      "itunes_duration": "00:43:23",
+      "speakers": [
+        "Ivo Graham",
+        "Tom Craine",
+        "Call My Josh"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "graham",
+        "craine"
+      ]
+    },
+    {
+      "key": "7ff0b8cd5505f293ecbf22fb4d18ae25d7e9ae28",
+      "title": "Josh Widdicombe XFM #80 – Ivo Graham, David Trent",
+      "published_at": "2026-07-16T05:23:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-80--Ivo-Graham--David-Trent-e3m4hjh",
+      "description": "David Trent plays Call My Josh and Ivo Graham joins Josh in the studio for the last hour.23th February 2015.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784136273485-5f863d1819f6e.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3937216500.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45465258",
+      "itunes_duration": "00:46:51",
+      "speakers": [
+        "Ivo Graham",
+        "David Trent David Trent",
+        "Call My Josh"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "graham",
+        "david",
+        "trent"
+      ]
+    },
+    {
+      "key": "dd7b577d481ede60747b879665f89b37b0c99b74",
+      "title": "Josh Widdicombe XFM #79 – Matthew Crosby",
+      "published_at": "2026-07-15T17:22:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-79--Matthew-Crosby-e3m360d",
+      "description": "matthew Crosby joins Josh in the studio and plays Call My Josh.16th February 2015.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784053222103-8ee18c861c177.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8462246903.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26652459",
+      "itunes_duration": "00:27:27",
+      "speakers": [
+        "Matthew Crosby"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "matthew",
+        "crosby"
+      ]
+    },
+    {
+      "key": "6e2b890f3d9835a918a08484ef3d69faee6d6b5c",
+      "title": "Josh Widdicombe XFM #78 – Josie Long, Suzi Ruffell",
+      "published_at": "2026-07-15T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-78--Josie-Long--Suzi-Ruffell-e3m35sm",
+      "description": "Josie Long and Suzi Ruffell join Josh in the studio.9th February 2015.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784053021495-690dbccacbfde.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3773653288.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39041629",
+      "itunes_duration": "00:40:14",
+      "speakers": [
+        "Josie Long",
+        "Suzi Ruffell Josie Long",
+        "Suzi Ruffell"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "josie",
+        "long",
+        "suzi",
+        "ruffell"
+      ]
+    },
+    {
+      "key": "47ef52547eb8b7cdca85645f3a6fae643d23ba54",
+      "title": "Josh Widdicombe XFM #77 – James Acaster, Fin Taylor",
+      "published_at": "2026-07-14T18:15:40+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-77--James-Acaster--Fin-Taylor-e3m35oj",
+      "description": "Fin Taylor and James Acaster join Josh in the studio.28th January 2015.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784052862695-434312240cad.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9061978621.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53959783",
+      "itunes_duration": "00:56:12",
+      "speakers": [
+        "James Acaster",
+        "Fin Taylor Fin Taylor"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "taylor"
+      ]
+    },
+    {
+      "key": "76317db24a9452ba19dead7478350be872a609e3",
+      "title": "Josh Widdicombe XFM #76 – Ivo Graham",
+      "published_at": "2026-07-14T13:57:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-76--Ivo-Graham-e3m1ij5",
+      "description": "Ivo Graham is in the studio and plays Call My Josh15th January 2015.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783965508859-d1ace6cef3843.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8742825005.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38774539",
+      "itunes_duration": "00:39:57",
+      "speakers": [
+        "Ivo Graham Ivo Graham"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "graham"
+      ]
+    },
+    {
+      "key": "8db67175ef9af3ea3e62a2c017f5bedd4650d545",
+      "title": "Josh Widdicombe XFM #75 – Nish Kumar, Fin Taylor",
+      "published_at": "2026-07-14T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-75--Nish-Kumar--Fin-Taylor-e3m1i7m",
+      "description": "Nish Kumar plays Call My Josh for the second time and Fin Taylor is in the studio.6th January 2015.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1783965252635-8602bba1cc8eb.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5131366330.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47840134",
+      "itunes_duration": "00:49:18",
+      "speakers": [
+        "Fin Taylor",
+        "Call My Josh"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "nish",
+        "kumar",
+        "taylor"
+      ]
+    },
     {
       "key": "1d8efce5da99888a0a75ecf88d8428e5797cdc83",
       "title": "Josh Widdicombe XFM #74 Christmas 2 – James Acaster, Romesh Ranganathan",
@@ -4936,6 +5225,19 @@
 
 ## Episodes (newest first)
 
+- 2026-07-19 — Josh Widdicombe XFM #87 – Ed Gamble, Ivo Graham — speakers: Ivo Graham Ed Gamble, Ivo Graham
+- 2026-07-18 — Josh Widdicombe XFM #86 – Matthew Crosby — speakers: Matthew Crosby
+- 2026-07-17 — Josh Widdicombe XFM #84 – Iain Stirling, Stuart Goldsmith — speakers: Stuart Goldsmith
+- 2026-07-17 — Josh Widdicombe XFM #83 – Ivo Graham — speakers: Ivo Graham Josh, Ivo Graham
+- 2026-07-17 — Josh Widdicombe XFM #85 – Ivo Graham — speakers: Ivo Graham Ivo Graham
+- 2026-07-16 — Josh Widdicombe XFM #82 – Ivo Graham, Henry Paker — speakers: Ivo Graham, Henry Paker
+- 2026-07-16 — Josh Widdicombe XFM #81 – Ivo Graham, Tom Craine — speakers: Ivo Graham, Tom Craine, Call My Josh
+- 2026-07-16 — Josh Widdicombe XFM #80 – Ivo Graham, David Trent — speakers: Ivo Graham, David Trent David Trent, Call My Josh
+- 2026-07-15 — Josh Widdicombe XFM #79 – Matthew Crosby — speakers: Matthew Crosby
+- 2026-07-15 — Josh Widdicombe XFM #78 – Josie Long, Suzi Ruffell — speakers: Josie Long, Suzi Ruffell Josie Long, Suzi Ruffell
+- 2026-07-14 — Josh Widdicombe XFM #77 – James Acaster, Fin Taylor — speakers: James Acaster, Fin Taylor Fin Taylor
+- 2026-07-14 — Josh Widdicombe XFM #76 – Ivo Graham — speakers: Ivo Graham Ivo Graham
+- 2026-07-14 — Josh Widdicombe XFM #75 – Nish Kumar, Fin Taylor — speakers: Fin Taylor, Call My Josh
 - 2026-07-14 — Josh Widdicombe XFM #74 Christmas 2 – James Acaster, Romesh Ranganathan — speakers: James Acaster
 - 2026-07-13 — Josh Widdicombe XFM #73 Christmas – James Acaster, Rhys James — speakers: James Acaster, Rhys James Rhys James, Call My Josh
 - 2026-07-13 — Josh Widdicombe XFM #72 – Jon Richardson, Kevin Bridges — speakers: Jon Richardson, Kevin Bridges, Call My Josh

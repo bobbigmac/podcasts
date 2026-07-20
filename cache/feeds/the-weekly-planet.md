@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-07-20T04:03:20+00:00`
-- checked_at: `2026-07-20T04:03:20+00:00`
-- etag: `"djEuMi4wOjE3ODQ1MTYwNTEyNDE="`
+- fetched_at: `2026-07-20T09:33:25+00:00`
+- checked_at: `2026-07-20T09:33:25+00:00`
+- etag: `"djEuMi4wOjE3ODQ1MjE4MzkzNTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-07-20T04:03:20+00:00",
+  "fetched_at": "2026-07-20T09:33:25+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6002f58041ca68a594dfdd884d8ee37dc1f72ec0",
+      "title": "632 The Odyssey! (big movie)",
+      "published_at": "2026-07-20T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/632-the-odyssey",
+      "description": "Big movie alert! It’s time for our review of Christopther Nolan’s The Odyssey, a movie which is defying the definitely real and genuine backlash already on its way to make a billion dollars. We also talk the passing of Sam Neil, casting rumours and confirmation for X-Men and Man of Tomorrow with the return of Blue Beetle, trailers highlighting the start of The Lord of the Rings: The Hunt for Gollum, Digger and The Batman Part II and Tom Cruise’s big movie thoughts for The Odyssey. Thanks for listening! New bonus clickbait podcast and video out now! Relieve the Star Wars trilogy in the worst way possible with James & Maso on bigsandwich.co, patreon.com/mrsundaymovies or via YouTube Membership on youtube.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 08:52 Adam Driver X-Men Casting 12:48 Bradley Cooper G.I.Joe Movie 14:58 Blue Beetle Returns in Man of Tomorrow 16:45 Bad News for God of War Series 21:45 Hunt of Gollum Teaser (and conspiracy?!) 26:32 Tom Cruise's Digger Trailer 27:57 The Batman Part 2 First Look & Delay 33:08 The Odyssey Big Movie Review 01:00:16 The Odyssey Spoiler Segment 01:18:22 What We Reading, What We Gonna Read 01:34:55 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a5cb610740ca41b5abc633f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "165914989",
+      "itunes_duration": "1:55:13",
+      "speakers": [
+        "Christopther Nolan",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "odyssey",
+        "movie"
+      ]
+    },
     {
       "key": "7af72267f317278dc7e1c1e2db9351b0a68b60e8",
       "title": "Gods of Egypt - Caravan Of Garbage",
@@ -22706,6 +22727,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — 632 The Odyssey! (big movie) — speakers: Christopther Nolan, James Clement, Nick Mason
 - 2026-07-16 — Gods of Egypt - Caravan Of Garbage — speakers: Christopher Nolan, James Clement, Nick Mason
 - 2026-07-13 — 631 Moana Bombs & Evil Dead Burn — speakers: James Clement, Nick Mason
 - 2026-07-09 — Troy - Caravan Of Garbage — speakers: Christopher Nolan, James Clement, Nick Mason

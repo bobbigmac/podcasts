@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-07-20T04:03:20+00:00`
-- checked_at: `2026-07-20T04:03:20+00:00`
-- etag: `"3b9f9cc0cc6e36ec75b4da192e8e8260"`
-- last_modified: `Tue, 14 Jul 2026 04:00:06 GMT`
+- fetched_at: `2026-07-20T09:33:25+00:00`
+- checked_at: `2026-07-20T09:33:25+00:00`
+- etag: `"df09f7e0ce80528d5cfc05344e695e51"`
+- last_modified: `Mon, 20 Jul 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-07-20T04:03:20+00:00",
+  "fetched_at": "2026-07-20T09:33:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "ddf2c9635986be45ef361a7f8aadec3d91324d7f",
+      "title": "Sunil Patel: An Idiot's Guide To Living Forever",
+      "published_at": "2026-07-20T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0nzq22s",
+      "description": "Comedian Sunil Patel is trying to make a documentary that young people will like. It’s sexy, it’s vice, it’s Hunter S. Thompson, but he’s already completely blowing it. Listen to Sunil embarrass himself on national radio and be forced to change tack immediately. This is the first episode of this series. To hear more episodes, search \"Sunil Patel: An Idiot's Guide To Living Forever\" on BBC Sounds. Starring Sunil Patel Featuring Helen Bauer Written by Sunil Patel, Charlie Dinkin, Em Humble and Benjamin Sutton Produced by Benjamin Sutton and Laura Shaw A Daddy’s SuperYacht Production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nzq1pq.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14080000",
+      "itunes_duration": "880",
+      "speakers": [
+        "Sunil Patel",
+        "Comedian Sunil Patel"
+      ],
+      "topics": [
+        "sunil",
+        "patel",
+        "idiot",
+        "guide"
+      ]
+    },
     {
       "key": "b7ed0d7af5eddbf1a60e103f511f628cbc9520a7",
       "title": "Dead Ringers",
@@ -1000,6 +1022,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — Sunil Patel: An Idiot's Guide To Living Forever — speakers: Sunil Patel, Comedian Sunil Patel
 - 2026-07-13 — Dead Ringers
 - 2026-07-06 — The Big Idea with Alistair Green — speakers: Tabitha Beckworth
 - 2026-06-29 — P.O.V.

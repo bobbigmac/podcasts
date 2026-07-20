@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-07-06T11:01:51+00:00`
-- checked_at: `2026-07-06T11:01:51+00:00`
-- last_modified: `Mon, 06 Jul 2026 07:23:59 GMT`
+- fetched_at: `2026-07-20T09:33:25+00:00`
+- checked_at: `2026-07-20T09:33:25+00:00`
+- last_modified: `Mon, 20 Jul 2026 06:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-07-06T11:01:51+00:00",
+  "fetched_at": "2026-07-20T09:33:25+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5118b042b5d1b8fda35290b49bc44e5681675457",
+      "title": "Camp Rock 2: The Final Jam",
+      "published_at": "2026-07-20T06:30:00+00:00",
+      "link": null,
+      "description": "Mitchie Torres is heading back to Camp Rock for another summer of fun, music and romance with chemsex bad boy rock star Shane Grey. But oh no! It turns out that the improbably named owner of Camp Rock, Brown Cesario, has a rival in the form of his former bandmate Axel Turner, who has set up a rival camp across the lake named Camp Star. Obviously unable to compete with Camp Star on any level, things at Camp Rock look bleak. That is until Mitchie challenges Camp Star to a final jam to determine once and for all who is the best rock and roll fantasy camp owned by a 70s rockstar on this particular lake. Can the plucky underdogs of the prohibitively expensive and elitist Camp Rock win the day against the snobs of Camp Star? Did Brown Cesario's old band really used to be called \"The Wet Crows\"? And isn't it kind of cheating to have the Jonas Brothers on your team? Listen and find out! If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched Camp Rock 2 and have your own thoughts, or had a terrible time at Disneyland Paris, please email us at momcantcookpod@gmail.com for a chance to have your comments read out on the show. Next time on Mom Can't Cook! we'll be watching 2008's The Adventures of Food Boy. See you then! This episode is sponsored by NordVPN! Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ https://nordvpn.com/momcantcook . Itʼs risk free with NordVPNʼs 30-day money-back guarantee! This episode is also sponsored by Saily. Get an exclusive 15% discount on Saily data plans! Use code momcantcook at checkout. Download Saily app or go to saily.com/momcantcook Thanks to sponsor Green Chef! Head to greenchef.com/50momcantcook and use code 50momcantcook to get fifty percent off your first month, then twenty percent off for two months. Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/rss.art19.com/episodes/31ecf308-2676-4b5c-bb6b-dcf77045c971.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "153042860",
+      "itunes_duration": "02:39:25",
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
+      "topics": [
+        "camp",
+        "rock"
+      ]
+    },
     {
       "key": "ea4c660c809f8d624a7df6fb25defcb06aa07fbf",
       "title": "Invisible Sister",
@@ -2213,6 +2233,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — Camp Rock 2: The Final Jam — speakers: Luke Westaway, Andy Farrant
 - 2026-07-06 — Invisible Sister — speakers: Invisible Sister Cleo, Luke Westaway, Andy Farrant
 - 2026-06-22 — High School Musical 3: Senior Year — speakers: Luke Westaway, Andy Farrant
 - 2026-06-08 — Radio Rebel — speakers: Radio Rebel Radio, Luke Westaway, Andy Farrant

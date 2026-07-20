@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-07-17T03:36:07+00:00`
-- checked_at: `2026-07-17T03:36:07+00:00`
-- etag: `"djEuMi4wOjE3ODQyNDI5NTkzMDU="`
+- fetched_at: `2026-07-20T09:33:25+00:00`
+- checked_at: `2026-07-20T09:33:25+00:00`
+- etag: `"djEuMi4wOjE3ODQ1Mzk1OTk2MTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-07-17T03:36:07+00:00",
+  "fetched_at": "2026-07-20T09:33:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a9f145070d14dd9ebc6f021cafef09da5de5016f",
+      "title": "Ep. 594 - John Wilson - Royal Philharmonic Society Award winning conductor of film and orchestral music",
+      "published_at": "2026-07-20T09:26:28+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-594-john-wilson-royal-philharmonic-society-award-winning",
+      "description": "John Wilson is one of Britain’s foremost conductors, dubbed “the most exciting British conductor since Simon Rattle” by The Sunday Times , he has devoted more than 30 years to painstakingly restoring and recreating the original orchestrations of MGM’s greatest musicals after the studio’s entire music library was destroyed in 1969. His reconstructions of scores for films including The Wizard of Oz , Singin’ in the Rain and An American in Paris have brought these classics back to the concert hall exactly as they were heard on screen. Founder of the internationally acclaimed John Wilson Orchestra and Music Director of Sinfonia of London, he has conducted many of the world’s leading orchestras, including the London Symphony Orchestra, the Royal Concertgebouw Orchestra and the Chicago Symphony Orchestra. A regular at the BBC Proms and the recipient of a prestigious Royal Philharmonic Society Award, his recordings and performances have earned widespread acclaim, establishing him as one of today’s leading interpreters of both classic film music and the great orchestral repertoire. John Wilson is our guest in episode 594 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Buy tickets for John Wilson’s The Golden Age of Hollywood at the Edinburgh International Festival 2026, here https://www.eif.co.uk/events/the-golden-age-of-hollywood . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a5de9cf19fcc7b0d00c4d03/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54358120",
+      "itunes_duration": "45:17",
+      "speakers": [
+        "John Wilson Royal Philharmonic",
+        "John Wilson"
+      ],
+      "topics": [
+        "john",
+        "wilson",
+        "royal",
+        "philharmonic",
+        "society",
+        "award",
+        "conductor",
+        "film",
+        "music"
+      ]
+    },
     {
       "key": "ded2f9234203f2c2fced5b345336764484e914b2",
       "title": "My Time Capsule The Dig - Ep. 11 - With Danny Wallace (Bestselling author and BAFTA-winning broadcaster)",
@@ -13004,6 +13031,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — Ep. 594 - John Wilson - Royal Philharmonic Society Award winning conductor of film and orchestral music — speakers: John Wilson Royal Philharmonic, John Wilson
 - 2026-07-16 — My Time Capsule The Dig - Ep. 11 - With Danny Wallace (Bestselling author and BAFTA-winning broadcaster) — speakers: Danny Wallace
 - 2026-07-13 — Ep. 593 - Brian Bilston - One of the UK's most hilarious and best-loved poets — speakers: Brian Bilston
 - 2026-07-09 — My Time Capsule The Dig - Ep. 10 - With Robert Bathurst (Cold Feet, Toast of London, Downton Abbey) — speakers: Robert Bathurst
