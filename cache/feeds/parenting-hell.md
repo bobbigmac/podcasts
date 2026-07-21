@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-07-21T03:44:04+00:00`
-- checked_at: `2026-07-21T03:44:04+00:00`
-- last_modified: `Fri, 17 Jul 2026 11:42:45 GMT`
+- fetched_at: `2026-07-21T08:43:31+00:00`
+- checked_at: `2026-07-21T08:43:31+00:00`
+- last_modified: `Tue, 21 Jul 2026 07:23:28 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/b2aa3247887f1870e2463ba16df8b5ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-21T03:44:04+00:00",
+  "fetched_at": "2026-07-21T08:43:31+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1b901715077ce7fde9d215502fced410ff1d49f9",
+      "title": "S13 EP1: Hotdogs for Breakfast",
+      "published_at": "2026-07-21T06:43:00+00:00",
+      "link": null,
+      "description": "We are back!! After a short break for the summer holiday we're ready for more adventures in life and parenting. Josh gets into a dispute on the plane, and Rob almost gets stranded on holiday trying to watch the football... ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5424528672.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3095",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "hotdog",
+        "breakfast"
+      ]
+    },
     {
       "key": "d6a7c0fec5d192aac834ce80ba24a5008b9a41ff",
       "title": "It's all ego",
@@ -12297,6 +12317,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-21 — S13 EP1: Hotdogs for Breakfast — speakers: Rob Beckett, Josh Widdicombe
 - 2026-07-17 — It's all ego — speakers: Rob Beckett, Josh Widdicombe
 - 2026-07-14 — When all else fails... — speakers: Rob Beckett, Josh Widdicombe
 - 2026-07-10 — It started with a mix — speakers: Rob Beckett, Josh Widdicombe

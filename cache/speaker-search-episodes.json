@@ -12546,6 +12546,28 @@
     ],
     "sally-phillips": [
       {
+        "feed_slug": "external:apple:fea129d05ae6",
+        "feed_title": "Leeds News Today | 2 Min News | The Daily News Now!",
+        "source_rss_url": "https://feeds.fastcast.ai/dallas-wings-the-daily-news-now.xml",
+        "dedupe_key": "665527e820fa3b13efa99dabf95ebf9056ba9e5b",
+        "episode_key": "665527e820fa3b13efa99dabf95ebf9056ba9e5b",
+        "title": "Sally Phillips Slams BBC’s Late Slot for Austin | Leeds News",
+        "published_at": "2026-07-21T07:10:12Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Sally Phillips is furious the BBC is airing her hit sitcom Austin late at night—on a Friday at 10:40 PM—calling it a “graveyard shift” slot that doesn’t match the show’s quality or audience. The comedy-drama, starring Ben Miller and autistic actor Michael Theo, follows a children’s author’s downfall and redemption afte",
+        "audio_url": "https://api.fastcast.ai/audio/85267038-ff3b-4f3a-95cc-bab3390aa087.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/sally-phillips-slams-bbcs-late-slot-for-austin-leeds-news/id1851350123?i=1000777678479&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:74fa0980a57e",
         "feed_title": "Where There's A Will, There's A Wake",
         "source_rss_url": "https://rss.pdrl.fm/4bb7b6/feeds.megaphone.fm/wtawtaw",

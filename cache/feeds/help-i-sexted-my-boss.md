@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-07-17T08:27:30+00:00`
-- checked_at: `2026-07-17T08:27:30+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RReU5qUTBOREF3TnpJPTo6c2F4ZXNz"`
+- fetched_at: `2026-07-21T08:43:31+00:00`
+- checked_at: `2026-07-21T08:43:31+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RRMk1UQXdOREF4TmpnPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-07-17T08:27:30+00:00",
+  "fetched_at": "2026-07-21T08:43:31+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "43ed8e61c72f372f20c7378cb2428802346dee6c",
+      "title": "Help My Dentist Proposed To Me | And We’re All Miserable…",
+      "published_at": "2026-07-21T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-my-dentist-proposed-to-me-and-were-all-miserable",
+      "description": "A grey cloud has entered the studio, and its name is Jordan North… It's the morning after the England semi-final and spirits are low. Jordan's basically in tears from the experience, and to make matters worse, he's realised he will be 40 years old at the next World Cup! William, on the other hand, has a spring in his step and has discovered his latest food obsession - burritos. The boys then tackle your dilemmas on swimming around lovers in the pool and how to navigate toothache when your nearest dentist is an ex-lover who you shunned. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Download SAILY in your app store and use the Sexted code HOLIDAYEXPERT at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/holidayexpert Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1784578553238-a50308fe-2acd-4e31-b289-e3596dd43eda.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a5a510e6fc1ba336fef4fd0/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=MO7SiOhLKwk3axs5zb9utxW7scFwDiJHZ9TBpVsU6Go",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47753090",
+      "itunes_duration": "49:44",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "dentist"
+      ]
+    },
     {
       "key": "90baafafe89a978cee25f2a3915b8d5a82d221e3",
       "title": "Mistaken Identities | And Skinny Dipping Fun",
@@ -14697,6 +14716,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-21 — Help My Dentist Proposed To Me | And We’re All Miserable… — speakers: Jordan North, William Hanson
 - 2026-07-17 — Mistaken Identities | And Skinny Dipping Fun — speakers: Mistaken Identities, William Hanson, Jordan North
 - 2026-07-14 — Help I’ve Been Wiping My Face With His D*ck Towel | And EVERYONE’S Horny — speakers: William Hanson, Jordan North
 - 2026-07-10 — Strava Caught Me Sh*gging | And William Is A FAKE — speakers: Strava Caught Me, William Hanson, Jordan North
