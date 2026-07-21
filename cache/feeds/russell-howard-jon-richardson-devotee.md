@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-07-20T19:55:48+00:00`
-- checked_at: `2026-07-20T19:55:48+00:00`
-- etag: `W/"450c8-IhkbzlTI2wE/3UBaftyyo/zlJHU"`
+- fetched_at: `2026-07-21T19:50:49+00:00`
+- checked_at: `2026-07-21T19:50:49+00:00`
+- etag: `W/"45e68-/Clghix9MAY7DQUQlhUtqV1oct8"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,81 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-07-20T19:55:48+00:00",
+  "fetched_at": "2026-07-21T19:50:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "84ea271a03b5aabf275328c004a3f1d509e59e40",
+      "title": "Josh Widdicombe XFM #93 – Nish Kumar, Ivo Graham",
+      "published_at": "2026-07-21T18:40:25+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-93--Nish-Kumar--Ivo-Graham-e3mcakv",
+      "description": "Nish Kumar is back in the studio to try and improve his Call My Josh score. Ivo Graham and Nish go head-to-head on Wiki Races.22nd June 2015",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784659050035-4dc235cba5d93.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/123136095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-21%2F428366027-44100-2-adfd98f27f476.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39350438",
+      "itunes_duration": "00:40:59",
+      "speakers": [
+        "Ivo Graham Nish",
+        "Ivo Graham"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "nish",
+        "kumar",
+        "graham"
+      ]
+    },
+    {
+      "key": "76fcac9718e9f22c3b718b946b3e4e8f9ac39e91",
+      "title": "Josh Widdicombe XFM #92 – James Acaster, Ivo Graham",
+      "published_at": "2026-07-21T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-92--James-Acaster--Ivo-Graham-e3mapl9",
+      "description": "James Acaster returns and faces a tough Call My Josh. Ivo Graham joins the guys for the last hour.15st June 2015",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784573215397-a9d14eb6f42f7.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1046647150.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39806119",
+      "itunes_duration": "00:41:01",
+      "speakers": [
+        "James Acaster",
+        "Ivo Graham James Acaster",
+        "Ivo Graham"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "james",
+        "acaster",
+        "graham"
+      ]
+    },
+    {
+      "key": "0cbe9de8d08059ad8316df6416d335b2fd1dffaf",
+      "title": "Josh Widdicombe XFM #91 – Tim Key, Tom Craine",
+      "published_at": "2026-07-21T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-91--Tim-Key--Tom-Craine-e3maphk",
+      "description": "Tim Key and Tom Craine are in the studio.1st June 2015",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784573040067-7be8825bba85c.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6610595243.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38146381",
+      "itunes_duration": "00:39:18",
+      "speakers": [
+        "Tim Key",
+        "Tom Craine"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "craine"
+      ]
+    },
     {
       "key": "65a6deafd34b5ae73cd0423c9b45b0c873606ab9",
       "title": "Josh Widdicombe XFM #90 – Ivo Graham, Lloyd Griffith",
@@ -5294,6 +5362,9 @@
 
 ## Episodes (newest first)
 
+- 2026-07-21 — Josh Widdicombe XFM #93 – Nish Kumar, Ivo Graham — speakers: Ivo Graham Nish, Ivo Graham
+- 2026-07-21 — Josh Widdicombe XFM #92 – James Acaster, Ivo Graham — speakers: James Acaster, Ivo Graham James Acaster, Ivo Graham
+- 2026-07-21 — Josh Widdicombe XFM #91 – Tim Key, Tom Craine — speakers: Tim Key, Tom Craine
 - 2026-07-20 — Josh Widdicombe XFM #90 – Ivo Graham, Lloyd Griffith — speakers: Ivo Graham, Lloyd Griffith
 - 2026-07-20 — Josh Widdicombe XFM #89 – Joe Lycett, Ivo Graham — speakers: Joe Lycett, Ivo Graham Joe Lycett, Ivo Graham
 - 2026-07-20 — Josh Widdicombe XFM #88 – Ivo Graham, Nick Helm — speakers: Ivo Graham, Nick Helm Joe Lycett
