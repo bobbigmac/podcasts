@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-06-05T15:17:11+00:00`
-- checked_at: `2026-06-05T15:17:11+00:00`
-- etag: `"djEuMi4wOjE3ODA2MzMyNzUzOTY="`
+- fetched_at: `2026-07-21T03:44:04+00:00`
+- checked_at: `2026-07-21T03:44:04+00:00`
+- etag: `"djEuMi4wOjE3ODQ1OTkyNDA1MzI="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-06-05T15:17:11+00:00",
+  "fetched_at": "2026-07-21T03:44:04+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,333 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "4763d3905f6c1cfa575e57c36332070e33f04367",
+      "title": "S16 Ep 870: Accidentally Edgy and The Coffee Crone",
+      "published_at": "2026-07-21T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-870-accidentally-edgy-and-the-coffee-crone",
+      "description": "It’s a thematically themed episode today as Joe recounts his recent encounter with a very unpleasant person and David tells us about standing up for himself in a coffee shop. At first these two incidents might seem totally unconnected - but the links will reveal themselves as the stories unfold… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a59d717461a6a41900f0fb4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45185567",
+      "itunes_duration": "47:04",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "edgy",
+        "coffee",
+        "crone"
+      ]
+    },
+    {
+      "key": "a291efe8b3de3f01dbb69ee6d3ae5ac9c9ed9c1f",
+      "title": "S16 Ep 869 Vault Mondays: Joe Shat Himself and The Brazilian Ice Cream Salesman",
+      "published_at": "2026-07-20T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-869-vault-mondays-joe-shat-himself-and-the-brazilian",
+      "description": "An archive episode for the die-hard Chatabix completists out there - as the sound quality is pretty atrocious on this one. We chat about being ill, Joe crapping himself and listen to a new version of Happy Happy Girl First posted on 1st November 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a59d6b44d4b991ebeeb5455/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28785684",
+      "itunes_duration": "29:59",
+      "speakers": [
+        "Joe Shat Himself",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "shat",
+        "brazilian",
+        "cream",
+        "salesman"
+      ]
+    },
+    {
+      "key": "f08bf86d1964483c046f177416b2c255bd77f4c1",
+      "title": "S16 Ep 868 Listener’s Mailbag: Very Funny Names and a Young Snooper",
+      "published_at": "2026-07-17T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-868-listeners-mailbag-very-funny-names-and-a-young-sn",
+      "description": "Today’s mailbag bring us messages about a running club set up in memory of a much loved brother, what we do when listening to the pod, more comments from a weed smoker, more funny names, a couple of horrible bosses, a children’s skateboarding book and a prolific adolescent house-snooper. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a4f4d1c1c8f5a97d8a53e7f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40753528",
+      "itunes_duration": "42:27",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "funny",
+        "names",
+        "young",
+        "snooper"
+      ]
+    },
+    {
+      "key": "5f30483649e08b0f9bd2a492da8993d6b94b1694",
+      "title": "S16 Ep 867: Taking A Liking To Someone",
+      "published_at": "2026-07-16T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-867-taking-a-liking-to-someone",
+      "description": "David’s taken a liking to a man he’s recently met. So, as well as telling us all about that, he wants to know from Joe who the newest person in his life is that he likes. It turns out to be such an interesting question that they might even make it a new section for the pod. Also, there’s some chat about Henfield and Ditchling, news on the lady who might have fancied Joe, bumping into Scroobius Pip, removing a hedge and ramping it up for the pod. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a4f4cdd2b60482dd2332baa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42081802",
+      "itunes_duration": "43:50",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": []
+    },
+    {
+      "key": "2ccecd3f7da5452028ffc0296360fee96e0cc31e",
+      "title": "S16 Ep 866: Gossiping and Meeting Your Heroes - Ep 2",
+      "published_at": "2026-07-15T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-866-gossiping-and-meeting-your-heroes-ep-2",
+      "description": "Picking up from yesterday’s show about the potential pitfalls of meeting your heroes, there’s more chat about The Cure, Joe recounts the time Roachford came on the pod and he explains just how much Glen Hoddle meant to him in his youth. Plus, the two of them dissect how embarrassingly they dealt with Pete Waterman coming on the show and David reads out a listener’s email about the time she met Robert Smith. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a4f4cabfe878dc8e26fb2b8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44097619",
+      "itunes_duration": "45:56",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "meeting",
+        "heroes"
+      ]
+    },
+    {
+      "key": "9083e2ca5ab66633d9210c7e3c70e922e77713f4",
+      "title": "S16 Ep 865: Gossiping and Meeting Your Heroes - Ep 1",
+      "published_at": "2026-07-14T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-865-gossiping-and-meeting-your-heroes-ep-1",
+      "description": "Apologies in advance as today’s episode kicks off with a lot of gossiping from David and Joe. But as they can’t reveal what it’s actually about, things soon get pretty confusing. After that, David wants to talk about the upcoming Cure concert he’s going to and how he’d cope if he ever met Robert Smith in person. It turns out both him a Joe have pretty big fears about meeting their heroes and how badly they’d handle it. With so much worrying to do, they decide to turn the episode into a double bubble - so they’ll be more on that tomorrow. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a4f4c2281fe1f64601239d6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42195069",
+      "itunes_duration": "43:57",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "meeting",
+        "heroes"
+      ]
+    },
+    {
+      "key": "38594a75b33bfe80dc890111048685e6343d9c0c",
+      "title": "S16 Ep 864 Vault Mondays: Producer and Morning Swimming",
+      "published_at": "2026-07-13T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-864-vault-mondays-producer-and-morning-swimming",
+      "description": "It’s another episode unearthed from the Chata-archives. And in this one, we chat about whether we need a producer and Joe goes for a dip in Cape Town First posted on 1st June 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a4f4bc9f8a80edf8520ff39/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30913515",
+      "itunes_duration": "32:12",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "producer",
+        "morning",
+        "swimming"
+      ]
+    },
+    {
+      "key": "310897ddf4e44de18fdf456851486a35667e3fb4",
+      "title": "S16 Ep 863 Listener’s Mailbag: Cool Classmates and VHS Tapes",
+      "published_at": "2026-07-10T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-863-listeners-mailbag-cool-classmates-and-vhs-tapes",
+      "description": "Mailbag time! And in today’s show, we read messages about a very cool classmate, condiment dilutions, a long-running wrong name, Crowborough recollections, a home-made VHS film library, top 5 songs and have a deep-dive into old cigarette brands. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a437cbf71668e370662f7b6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33681658",
+      "itunes_duration": "35:05",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "cool",
+        "classmates",
+        "tape"
+      ]
+    },
+    {
+      "key": "1321b78e943e3f765044e503970b3f39357081ae",
+      "title": "S16 Ep 862: David’s Cluedo Coincidence and More OIAM",
+      "published_at": "2026-07-09T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-862-davids-cluedo-coincidence-and-more-oiam",
+      "description": "David’s recently bought a secondhand Cluedo board game, which soon after gave him his very own One In A Million moment. So he tells Joe about that and they then take a look at some more miraculous OIAM tales sent in from listeners. There’s stories about a Hong Kong reunion, a lottery near-miss, a load of old nonsense in Snowdonia and a surprise Happy Mondays encounter. Plus, David reads out a very thorough review of the pod from a new listener. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a437c8e71668e370662eaf2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "42945724",
+      "itunes_duration": "44:44",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "cluedo",
+        "coincidence",
+        "oiam"
+      ]
+    },
+    {
+      "key": "bdbd12dfa82bb47fe1e99dce2f0e9f7fa9d8082a",
+      "title": "S16 Ep 861: Triple Bubble Ep 3 - The Investigators",
+      "published_at": "2026-07-08T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-861-triple-bubble-ep-3-the-investigators",
+      "description": "It’s the third and final show of our Triple Bubble extravaganza. And in this one, David and Joe read out some of the emails sent to us following their recent ‘sinister farm’ investigations. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a437c4d5a160c9d64987be1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45281697",
+      "itunes_duration": "47:10",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "bubble",
+        "investigator"
+      ]
+    },
+    {
+      "key": "095bd744e57b0833241d4949fe1631396ad0ae48",
+      "title": "S16 Ep 860: Triple Bubble Ep 2 - Rightmove, Colds and Pod Lengths",
+      "published_at": "2026-07-07T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-860-triple-bubble-ep-2-rightmove-colds-and-pod-length",
+      "description": "It’s show two of our Triple Bubble episode. And this time the conversation topics include where else David’s considered re-locating to, Joe’s Rightmove search history, more conversation ideas, Where’s Neil Now, how people deal with colds, recording 850 episodes and a random pod title (with durations) run-down. Then Joe remembers about some emails we’re received following the farm investigation - so that’s the topic for the third and final show sorted. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a437bf85a160c9d649864a2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35889737",
+      "itunes_duration": "37:23",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "bubble",
+        "rightmove",
+        "colds",
+        "lengths"
+      ]
+    },
+    {
+      "key": "08cb5db127c46d4a78d643aa815d1535b5cd5a62",
+      "title": "S16 Ep 859 Vault Mondays: Beach Bomber and The Birdyman",
+      "published_at": "2026-07-06T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-859-vault-mondays-beach-bomber-and-the-birdyman",
+      "description": "On today’s show from the archives, Joe’s been on the Thames and David’s been on the River Dart. Then David gives us news about the beach bomber and they talk about a man in Brighton who makes bird noises. First posted on 1st September 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a437ba0c2fe1c7f49077c16/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32673541",
+      "itunes_duration": "34:02",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "beach",
+        "bomber",
+        "birdyman"
+      ]
+    },
+    {
+      "key": "b914385e8683625dad5260d032378413af58be33",
+      "title": "S16 Ep 858 Listener’s Mailbag: Flashy Cars and Menacing Children",
+      "published_at": "2026-07-03T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-858-listeners-mailbag-flashy-cars-and-menacing-childr",
+      "description": "In this week’s mailbag, we read messages about nasal sprays, visualised podcasts, a water sports quip, a flashy new car, Ronnie Barker’s antique shop, a menacing new TV show idea and looking for pheasants. Happy Friday! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a43782c6c42755eb6deef0c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30593358",
+      "itunes_duration": "31:52",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "flashy",
+        "cars",
+        "menacing",
+        "children"
+      ]
+    },
+    {
+      "key": "edf7ac9d49e65c0c41a3610bdc66f2b9bca2d1c1",
+      "title": "S16 Ep 857: Triple Bubble Ep 1 - Five Ideas",
+      "published_at": "2026-07-02T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-857-triple-bubble-ep-1-five-ideas",
+      "description": "That’s right, it’s a first for the pod as David and Joe have recorded a Triple Bubble episode! And to kick things off, the first show is all about the five conversation ideas that they brought along to talk about. Namely - understanding pensions, David’s chocolaty voice, an old man staring through a window, Joe’s new section suggestion and David’s short-lived idea of moving to Antigua. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a4377e96c42755eb6dedef0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43329828",
+      "itunes_duration": "45:08",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "bubble",
+        "idea"
+      ]
+    },
+    {
+      "key": "08827e702e80a40c7c5afe0a0e16336fce976ae7",
+      "title": "S16 Ep 856: David Gets Attacked!",
+      "published_at": "2026-07-01T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-856-david-gets-attacked",
+      "description": "After a few week’s break from podding due to holidays, illnesses and other diversions, Chatabix is back! And we’re back with a bang - as David has a very dramatic story to tell Joe about being attacked on a train recently. So buckle up and settle back as David explains all. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a43776871668e3706613a48/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45537489",
+      "itunes_duration": "47:26",
+      "speakers": [
+        "David Gets",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david"
+      ]
+    },
     {
       "key": "eb4f777159d9c177c652b69d08d1c1cec3b48611",
       "title": "S15 Ep 855 Listener’s Mailbag: Robert Smith and Impressions",
@@ -15242,6 +15569,21 @@
 
 ## Episodes (newest first)
 
+- 2026-07-21 — S16 Ep 870: Accidentally Edgy and The Coffee Crone — speakers: Joe Wilkinson, David Earl
+- 2026-07-20 — S16 Ep 869 Vault Mondays: Joe Shat Himself and The Brazilian Ice Cream Salesman — speakers: Joe Shat Himself, Joe Wilkinson, David Earl
+- 2026-07-17 — S16 Ep 868 Listener’s Mailbag: Very Funny Names and a Young Snooper — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
+- 2026-07-16 — S16 Ep 867: Taking A Liking To Someone — speakers: Joe Wilkinson, David Earl
+- 2026-07-15 — S16 Ep 866: Gossiping and Meeting Your Heroes - Ep 2 — speakers: Joe Wilkinson, David Earl
+- 2026-07-14 — S16 Ep 865: Gossiping and Meeting Your Heroes - Ep 1 — speakers: Joe Wilkinson, David Earl
+- 2026-07-13 — S16 Ep 864 Vault Mondays: Producer and Morning Swimming — speakers: Joe Wilkinson, David Earl
+- 2026-07-10 — S16 Ep 863 Listener’s Mailbag: Cool Classmates and VHS Tapes — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
+- 2026-07-09 — S16 Ep 862: David’s Cluedo Coincidence and More OIAM — speakers: Joe Wilkinson, David Earl
+- 2026-07-08 — S16 Ep 861: Triple Bubble Ep 3 - The Investigators — speakers: Joe Wilkinson, David Earl
+- 2026-07-07 — S16 Ep 860: Triple Bubble Ep 2 - Rightmove, Colds and Pod Lengths — speakers: Joe Wilkinson, David Earl
+- 2026-07-06 — S16 Ep 859 Vault Mondays: Beach Bomber and The Birdyman — speakers: Joe Wilkinson, David Earl
+- 2026-07-03 — S16 Ep 858 Listener’s Mailbag: Flashy Cars and Menacing Children — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl
+- 2026-07-02 — S16 Ep 857: Triple Bubble Ep 1 - Five Ideas — speakers: Joe Wilkinson, David Earl
+- 2026-07-01 — S16 Ep 856: David Gets Attacked! — speakers: David Gets, Joe Wilkinson, David Earl
 - 2026-06-05 — S15 Ep 855 Listener’s Mailbag: Robert Smith and Impressions — speakers: Listener’s Mailbag, Robert Smith, Joe Wilkinson, David Earl
 - 2026-06-04 — S15 Ep 854: Cameo Clips and Joe’s Breakdancing — speakers: Cameo Clips, Joe’s Breakdancing Amongst, Joe Wilkinson, David Earl
 - 2026-06-03 — S15 Ep 853: The Soundtrack To My God Awful Life — speakers: Joe Wilkinson, David Earl
