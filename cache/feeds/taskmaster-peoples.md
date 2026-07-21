@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-07-13T15:10:48+00:00`
-- checked_at: `2026-07-13T15:10:48+00:00`
-- etag: `"1155d9-6567f6f08827b"`
-- last_modified: `Mon, 13 Jul 2026 15:06:23 GMT`
+- fetched_at: `2026-07-21T11:18:09+00:00`
+- checked_at: `2026-07-21T11:18:09+00:00`
+- etag: `"11600d-6571c6a546679"`
+- last_modified: `Tue, 21 Jul 2026 10:23:34 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-07-13T15:10:48+00:00",
+  "fetched_at": "2026-07-21T11:18:09+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3769a4a8b3309a1e6daef699e6462e68680c6777",
+      "title": "Trip Nip Slip - S9, Ep.8",
+      "published_at": "2026-07-20T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Jenny and Jack travel back to series 9 to find out what a Shaqinahat is and new questions emerge along the way; is it lass-ooo or lass-oh? Do people either have the dolls house gene or they don't? Would a trip-nip-slip been more appropriate for the prize task? Plus, Jenny has a go at writing her own lyrics for the Taskmaster theme tune. Plus, a listener writes in to correct some Going for Gold lore and another suggests a tribute to series 6's Carol for next week's homework. Send all your homework suggestions and Taskmaster thoughts into fans@taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/429b927b-2513-4d6b-9b10-c6321945a520.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=429b927b-2513-4d6b-9b10-c6321945a520",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54899148",
+      "itunes_duration": "53:26",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "trip",
+        "slip"
+      ]
+    },
     {
       "key": "92f154258113501f60cb30a4742374c3122825bf",
       "title": "Imagination, Imagination, Broken - S15, Ep. 3",
@@ -4708,6 +4728,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — Trip Nip Slip - S9, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-07-13 — Imagination, Imagination, Broken - S15, Ep. 3 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-07-06 — The Handy Bandy Stand - S10, Ep. 4 — speakers: Danny Dyers, Jenny Eclair, Jack Bernhardt
 - 2026-06-29 — Not a Florglone Conclusion - Series 21 Listener Questions — speakers: Jenny Eclair, Jack Bernhardt

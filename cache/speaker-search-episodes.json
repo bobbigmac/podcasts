@@ -24693,6 +24693,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:ae9e32e6d26a",
+        "feed_title": "The Owen Jones Podcast",
+        "source_rss_url": "https://feeds.acast.com/public/shows/c94a5041-3d43-419a-9d17-a557fb51e056",
+        "dedupe_key": "de8d9781756ca88283fc045cdd7456bff6e59608",
+        "episode_key": "de8d9781756ca88283fc045cdd7456bff6e59608",
+        "title": "1. Stewart Lee: on Brexit, his new film, \"woke\" and being arrested just for being English",
+        "published_at": "2021-01-29T14:23:23Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The comedy genius that is Stewart Lee discusses his must-see new film King Rocker - which premiers on Sky Arts on 6th February at 9pm; the state of comedy; the anti-\"woke\" backlash; culture wars; Brexit; how the pandemic is hitting the arts; and how these days, if you say you're English, you get arrested and thrown in ",
+        "audio_url": "https://sphinx.acast.com/the-owen-jones-podcast/stewartlee-onbrexit-hisnewfilm-wokeandbeingarrestedjustforbeingenglish/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/1-stewart-lee-on-brexit-his-new-film-woke-and-being/id1550331378?i=1000507039239&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:25f0d9047827",
         "feed_title": "C86 Show - Indie Pop",
         "source_rss_url": "https://feed.podbean.com/thec86show/feed.xml",
