@@ -28105,6 +28105,28 @@
     ],
     "nish-kumar": [
       {
+        "feed_slug": "external:apple:5a46c54e4129",
+        "feed_title": "The Chris Evans Show with Moneybox",
+        "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",
+        "dedupe_key": "404a1acf24cc5ec0906bbf839ff794dfaed87e04",
+        "episode_key": "404a1acf24cc5ec0906bbf839ff794dfaed87e04",
+        "title": "The one with Nish Kumar",
+        "published_at": "2026-07-21T10:51:03Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Super Steve Denyer sits in on the show and speaks to comedian Nish Kumar on his upcoming brand-new stand-up tour “Angry Humour From a Really Nice Guy,” that kicks off on the 9th September 2026 until the 27th November 2026.\nCatch up on all previous episodes of TFI Unplugged on the Virgin Radio UK YouTube channel!\n Hoste",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/chrisevansvirginuk/e/6a5f4f174a280e7311f3829b/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-one-with-nish-kumar/id1450650136?i=1000777703565&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:cb96dce18fd1",
         "feed_title": "The Socially Distant Sports Bar",
         "source_rss_url": "https://feeds.acast.com/public/shows/68e81932d798804c9ef004e3",
@@ -28671,6 +28693,28 @@
         "feed_image_url": null,
         "description": "Nish Kumar joins James, Anna and Andy to discuss The Man Who Talks With String; The Man Who Sold The World; and the man you don't want directing your B-movie. \nHead to nosuchthingasafish.com/Risummer for tickets to our July shows at the Royal Institution!\nVisit nosuchthingasafish.com for news about live shows, merchand",
         "audio_url": "https://pdst.fm/e/arttrk.com/p/ABMA5/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8918202.mp3?modified=1781796429&sid=2399216&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/no-such-thing-as-the-metal-bloke/id840986946?i=1000773285310&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:5dc1b693c271",
+        "feed_title": "No Such Thing As A Fish",
+        "source_rss_url": "https://audioboom.com/channels/2399216.rss",
+        "dedupe_key": "e76066986ae9d96103b1cfecf6df3b5b36892390",
+        "episode_key": "e76066986ae9d96103b1cfecf6df3b5b36892390",
+        "title": "No Such Thing As The Metal Bloke",
+        "published_at": "2026-06-18T22:55:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Nish Kumar joins James, Anna and Andy to discuss The Man Who Talks With String; The Man Who Sold The World; and the man you don't want directing your B-movie. \nHead to nosuchthingasafish.com/Risummer for tickets to our July shows at the Royal Institution!\nVisit nosuchthingasafish.com for news about live shows, merchand",
+        "audio_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8918202.mp3?modified=1781796429&sid=2399216&source=rss",
         "link_url": "https://podcasts.apple.com/gb/podcast/no-such-thing-as-the-metal-bloke/id840986946?i=1000773285310&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,

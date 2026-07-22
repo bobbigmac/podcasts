@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-07-15T03:32:47+00:00`
-- checked_at: `2026-07-15T03:32:47+00:00`
-- last_modified: `Wed, 15 Jul 2026 01:07:42 GMT`
+- fetched_at: `2026-07-22T03:45:03+00:00`
+- checked_at: `2026-07-22T03:45:03+00:00`
+- last_modified: `Wed, 22 Jul 2026 01:07:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-15T03:32:47+00:00",
+  "fetched_at": "2026-07-22T03:45:03+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "147e76515f0cd2c9b57e771f9978f26fc24e361a",
+      "title": "Christopher Hall",
+      "published_at": "2026-07-22T01:00:00+00:00",
+      "link": null,
+      "description": "He’s danced for Kylie and Shania, he’s a viral sensation, a comedian and a born showman; Christopher Hall is in the studio. Christopher explains why there’s nothing more liberating than pottering around the shops, enjoying punny names for businesses and the nostalgic taste of a home-made Middlesborough chip. Christopher has created a brand-new stand-up show! It’s called Pizazz and it will be on at the Edinburgh Fringe this August and then out on tour, starting in Margate on 30th September and finishing in London on 18th November. Tickets are on general release and you can get them HERE . Get the Edinburgh Fringe tickets by going to edfringe.com . And there we go. I’ve given you all the information you need. I straighten my tie, reach into my pocket and pull out some mysterious looking dust. I throw it at the floor and there is a flash, a poof of smoke and I’m gone. You look around wondering what this magic is, and see me hiding behind the door. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9ac4df7c-8472-11f1-8871-dbd9afc62432/image/b606a74348d47569c44b87e863ec7fe6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8732183583.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3707",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "christopher",
+        "hall"
+      ]
+    },
     {
       "key": "d2e936834cec3c73e5bd4359f28bf5d97a59f8df",
       "title": "Bella Hull",
@@ -3236,6 +3255,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — Christopher Hall — speakers: Russell Howard
 - 2026-07-15 — Bella Hull — speakers: Bella Hull Horror, Bella Hull, Russell Howard
 - 2026-07-08 — Peter Serafinowicz — speakers: Peter Serafinowicz Comedian, Peter Serafinowicz, Russell Howard
 - 2026-07-07 — June's Moments of the Month — speakers: Month Hello, Russell Howard

@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-07-21T03:44:04+00:00`
-- checked_at: `2026-07-21T03:44:04+00:00`
-- etag: `"djEuMi4wOjE3ODQ1OTkyNDA1MzI="`
+- fetched_at: `2026-07-22T03:45:03+00:00`
+- checked_at: `2026-07-22T03:45:03+00:00`
+- etag: `"djEuMi4wOjE3ODQ2ODU2NDA0NDQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-07-21T03:44:04+00:00",
+  "fetched_at": "2026-07-22T03:45:03+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "87c7916bc1e4ba64d9e7ad3400cbf08bbfac8364",
+      "title": "S16 Ep 871: Mind Reading and Teeth Control",
+      "published_at": "2026-07-22T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-871-mind-reading-and-teeth-control",
+      "description": "Well, it turns out this is actually the second part of a double bubble episode. So picking things up from where the last show ended, David has three things to tell Joe about. 1) The lovely time he had in Henfield recently, 2) an amazing mind reading magician at a family party, 3) needing to visit the dentist. It’s all about taking control of your teeth, don’t you know. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a59d75478e0412bc6f5572a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34529697",
+      "itunes_duration": "35:58",
+      "speakers": [
+        "Mind Reading",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "mind",
+        "reading",
+        "teeth",
+        "control"
+      ]
+    },
     {
       "key": "4763d3905f6c1cfa575e57c36332070e33f04367",
       "title": "S16 Ep 870: Accidentally Edgy and The Coffee Crone",
@@ -15569,6 +15592,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — S16 Ep 871: Mind Reading and Teeth Control — speakers: Mind Reading, Joe Wilkinson, David Earl
 - 2026-07-21 — S16 Ep 870: Accidentally Edgy and The Coffee Crone — speakers: Joe Wilkinson, David Earl
 - 2026-07-20 — S16 Ep 869 Vault Mondays: Joe Shat Himself and The Brazilian Ice Cream Salesman — speakers: Joe Shat Himself, Joe Wilkinson, David Earl
 - 2026-07-17 — S16 Ep 868 Listener’s Mailbag: Very Funny Names and a Young Snooper — speakers: Listener’s Mailbag, Joe Wilkinson, David Earl

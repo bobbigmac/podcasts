@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-07-15T03:32:47+00:00`
-- checked_at: `2026-07-15T03:32:47+00:00`
-- etag: `"a4b31-6569b38aa3e5c"`
-- last_modified: `Wed, 15 Jul 2026 00:15:30 GMT`
+- fetched_at: `2026-07-22T03:45:03+00:00`
+- checked_at: `2026-07-22T03:45:03+00:00`
+- etag: `"a591c-65728091853ae"`
+- last_modified: `Wed, 22 Jul 2026 00:15:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-07-15T03:32:47+00:00",
+  "fetched_at": "2026-07-22T03:45:03+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2c127393e33de0478bec323be0d0b6f56c218a48",
+      "title": "Frogs",
+      "published_at": "2026-07-22T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/frogs",
+      "description": "Whatever happened to The Frog Chorus? Were Paul McCartney’s erstwhile collaborators merely one hit wonders? Or, more than four decades on from the release of their smash hit single “We All Stand Together”, might we see them dusting off their vocal sacs and hitting the road alongside so many other ’80s pop sensations? Mayhap they’ll headline next year’s Glastonbury? No way of knowing. And this is certainly not discussed in the podcast at all. But what is discussed, thanks to Glen of Okazaki, Japan, is the topic of frogs. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Ben's Dr Chance video can be found here: https://youtu.be/EtQUemmMQDg?si=g1eOYNG37Mw11U3l With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/81b78e1c-8832-496e-b102-30afde06fe1f/S21-E08-Frogs.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/5e524be1-6d1e-4f19-b17e-23a23ad463c1.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=5e524be1-6d1e-4f19-b17e-23a23ad463c1",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60157700",
+      "itunes_duration": "01:02:40",
+      "speakers": [
+        "Paul McCartney",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "frog"
+      ]
+    },
     {
       "key": "288ffcce5af978466fc2968e7dfb1872665ed449",
       "title": "Stationary",
@@ -4396,6 +4417,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — Frogs — speakers: Paul McCartney, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-15 — Stationary — speakers: David Blaine, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-08 — Village Fêtes — speakers: High Street, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-01 — The Roman Empire — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge

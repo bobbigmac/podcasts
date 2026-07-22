@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-07-15T03:32:47+00:00`
-- checked_at: `2026-07-15T03:32:47+00:00`
-- etag: `"djEuMi4wOjE3ODQwODQ0Mzk3MTY="`
+- fetched_at: `2026-07-22T03:45:03+00:00`
+- checked_at: `2026-07-22T03:45:03+00:00`
+- etag: `"djEuMi4wOjE3ODQ2ODkyMzk2ODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-07-15T03:32:47+00:00",
+  "fetched_at": "2026-07-22T03:45:03+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,54 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ae6de9422cbc53a95da59961a8b1a81780c606bf",
+      "title": "Laura Smyth",
+      "published_at": "2026-07-22T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/laura-smyth",
+      "description": "This week’s dream diner is stand-up, Live at the Apollo star and Radio 4 regular, Laura Smyth! And James remembers his shopping list… If you’re listening on Apple Podcasts you can now watch this episode too. Laura Smyth is on tour across the UK and Ireland with ‘Born Aggy’, including a date at London’s Eventim Apollo. For dates and tickets go to laurasmyth.com Listen to Laura’s podcast ‘Shouldn’t Laugh But…’ here or whenever you get your podcasts. Follow Laura on Instagram and TikTok @thatlaurasmyth Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1784624221189-b4ff31ed-5e59-409d-9d14-9285d3b432f1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a43a7b8269f5df7cbc85cd5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65170703",
+      "itunes_duration": "1:07:53",
+      "speakers": [
+        "Laura Smyth",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "laura",
+        "smyth"
+      ]
+    },
+    {
+      "key": "2184cb0eb2b1ae3c684099aed8b64c553054d0f1",
+      "title": "Tim Key (Tasting Menu – Live at the Royal Albert Hall)",
+      "published_at": "2026-07-20T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/tim-key-tasting-menu-live-at-the-royal-albert-hall",
+      "description": "Happy Shall I Be Mother’s Day! Comedian, poet, Bafta-nominee, bath-lover and poppadom-smasher Tim Key returns to the Dream Restaurant for a live Off Menu episode at the Royal Albert Hall. Tim Key is on tour now with ‘Loganberry’. For dates and tickets go to www.timkey.co.uk His book ‘LA Baby’ is out now. Buy it here: https://www.utterandpress.co.uk/products/l-a-baby Follow Tim on Instagram @timkeypoet Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced and edited by Ben Williams for Plosive . Recorded by Matt Mountford-Lister for Storm Productions Group live at the Royal Albert Hall. Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Watch Ed and James's YouTube series 'Just Puddings'. Watch here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1782295785091-b39e8540-85cc-4762-af16-e1fe8b3dd600.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a3bad0b97b52d9936248eb0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66399921",
+      "itunes_duration": "1:09:09",
+      "speakers": [
+        "Tim Key",
+        "Tim Ke",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "tasting",
+        "menu",
+        "royal",
+        "albert",
+        "hall"
+      ]
+    },
     {
       "key": "e067dfdac8baad63d1d707e684ed362fe47a796b",
       "title": "Phil Ellis",
@@ -8711,6 +8759,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — Laura Smyth — speakers: Laura Smyth, Ed Gamble, James Acaster, Ben Williams
+- 2026-07-20 — Tim Key (Tasting Menu – Live at the Royal Albert Hall) — speakers: Tim Key, Tim Ke, Ed Gamble, James Acaster, Ben Williams
 - 2026-07-15 — Phil Ellis — speakers: Phil Ellis, Ed Gamble, James Acaster, Ben Williams
 - 2026-07-14 — Series 16 Trailer – Off Menu with Ed Gamble and James Acaster — speakers: James Acaster, Ed Gamble, Ben Williams
 - 2026-07-13 — Nicola Coughlan (Tasting Menu – Live at the Royal Albert Hall) — speakers: Nicola Coughlan, Tasting Menu, Royal Albert Hall, Royal Albert Hall Tasting, Ed Gamble, James Acaster, Ben Williams

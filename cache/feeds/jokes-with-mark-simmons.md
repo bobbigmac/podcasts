@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-07-15T11:01:55+00:00`
-- checked_at: `2026-07-15T11:01:55+00:00`
-- etag: `"djEuMi4wOjE3ODQxMDk4OTEwNTc="`
+- fetched_at: `2026-07-22T03:45:03+00:00`
+- checked_at: `2026-07-22T03:45:03+00:00`
+- etag: `"djEuMi4wOjE3ODQ2NzUxODQwNTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-07-15T11:01:55+00:00",
+  "fetched_at": "2026-07-22T03:45:03+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "34f3218ca39e8960888ba0ae8c25364a1186cb76",
+      "title": "Marcel Blanch-de Wilt",
+      "published_at": "2026-07-21T23:06:23+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/marcel-blanch-de-wilt",
+      "description": "Marcel joins us to chat about three jokes he can't get to work and to tell us is favourite jokes from a movie and best joke from another comedian Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6a5ffb70c6b393c90eee19b8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52683696",
+      "itunes_duration": "36:33",
+      "speakers": [
+        "Marcel Blanch",
+        "Wilt Marcel",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "marcel",
+        "blanch",
+        "wilt"
+      ]
+    },
     {
       "key": "d3c0f767abfff99e7e81e4581eb69fce8bdaf955",
       "title": "Tour Talk - World Cup Jokes",
@@ -7452,6 +7474,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-21 — Marcel Blanch-de Wilt — speakers: Marcel Blanch, Wilt Marcel, Mark Simmons
 - 2026-07-15 — Tour Talk - World Cup Jokes — speakers: Tour Talk, Mark Simmons
 - 2026-07-09 — Tour Talk: Edinburgh Previews — speakers: Edinburgh Previews, Mark Simmons
 - 2026-07-02 — Finlay Christie Returns — speakers: Finlay Christie, Mark Simmons

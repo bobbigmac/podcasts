@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-07-20T22:12:28+00:00`
-- checked_at: `2026-07-20T22:12:28+00:00`
-- etag: `"djEuMi4wOjE3ODQ1ODAzNjE4NTc="`
+- fetched_at: `2026-07-22T03:45:03+00:00`
+- checked_at: `2026-07-22T03:45:03+00:00`
+- etag: `"djEuMi4wOjE3ODQ2Nzg0Mzk0ODI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-07-20T22:12:28+00:00",
+  "fetched_at": "2026-07-22T03:45:03+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "a5b7b368c233b9c23d27ba5d8f1bddd8ec1f378f",
+      "title": "Like a Ton of Bricks, with Alex Franklin",
+      "published_at": "2026-07-22T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/like-a-ton-of-bricks-with-alex-franklin",
+      "description": "In today's ep, we're joined by the marvellous comedian, Alex Franklin, who not only proves herself to be a real brick with her help in solving a crime against alcohol, but also provides an incredible story of an ex-housemate who must have a nose longer than Pinocchio, even if he IS best mates with Edgar Wright! We'll see you on Friday, when we're joined in the studio by Candace Bryan. The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in September, October AND November. Full info and tickets HERE. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a5e0fbbe3a16a6488b8bcbc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76971685",
+      "itunes_duration": "53:26",
+      "speakers": [
+        "Alex Franklin",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "bricks",
+        "alex",
+        "franklin"
+      ]
+    },
     {
       "key": "2feb610a406a922e9a6e3f382d9aa1360e3b5993",
       "title": "Braver than Braveheart, with Sapphire McIntosh",
@@ -11364,6 +11386,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — Like a Ton of Bricks, with Alex Franklin — speakers: Alex Franklin, Hannah George, Taylor Glenn
 - 2026-07-15 — Braver than Braveheart, with Sapphire McIntosh — speakers: Sapphire McIntosh, Hannah George, Taylor Glenn
 - 2026-07-10 — DWSC LIVE: With Harriet Dyer — speakers: Harriet Dyer, Hannah George, Taylor Glenn
 - 2026-07-08 — DWSC LIVE: With Will Adamsdale — speakers: Hannah George, Taylor Glenn

@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-20T04:03:20+00:00`
-- checked_at: `2026-07-20T04:03:20+00:00`
-- etag: `"djEuMi4wOjE3ODQ1MTYyNTkyMTk="`
+- fetched_at: `2026-07-22T03:45:03+00:00`
+- checked_at: `2026-07-22T03:45:03+00:00`
+- etag: `"djEuMi4wOjE3ODQ2ODkwNTkzMzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-20T04:03:20+00:00",
+  "fetched_at": "2026-07-22T03:45:03+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4e107d21b241530573c504b01720cdae3137a39b",
+      "title": "Chris Cantrill - \"Daily Branch Whack Punishment\"",
+      "published_at": "2026-07-22T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #619 - Daily Branch Whack Punishment - It’s another remote RHLSTP, with another Edinburgh bound member of the SNL UK writing team, Chris Cantrill. They chat about working with the delightful Amy Gledhill, the relentless process of writing Saturday Night Live and how it might not live up to the coke-fuelled ego-fest of the original American series, Chris’ new stand up show Rewilding, which centres around the appalling act of vandalism at the Sycamore Gap, why he likes performing at lunchtime and why the Fringe has never been the booze-fuelled holiday that it was for Rich in the 1990s. Plus getting to play small parts in hit sitcoms and an overhaul of our judicial system. Tickets for Chris’ Edinburgh show here https://www.edfringe.com/tickets/whats-on/chris-cantrill-rewilding Tickets for RHLSTP at the Ed Fringe here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1784584076150-a6759c69-a068-4f39-9d1a-03844bdac028.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a5e981f19fcc7b0d047fe7b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28451526",
+      "itunes_duration": "59:16",
+      "speakers": [
+        "Chris Cantrill",
+        "Richard Herring"
+      ],
+      "topics": [
+        "chris",
+        "cantrill",
+        "daily",
+        "branch",
+        "whack",
+        "punishment"
+      ]
+    },
     {
       "key": "560dce8f36506f8c758015f57f0405e4edbe9d41",
       "title": "Count Binface (Retro) - \"House of Losers\"",
@@ -23253,6 +23277,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — Chris Cantrill - "Daily Branch Whack Punishment" — speakers: Chris Cantrill, Richard Herring
 - 2026-07-20 — Count Binface (Retro) - "House of Losers" — speakers: Count Binface, Richard Herring
 - 2026-07-17 — Turi King on The Secrets of Our DNA - Book Club — speakers: Turi King, Richard Herring
 - 2026-07-15 — Mitch Benn (Part 2) - "Two Large Fifty-Something Tiny Tims" — speakers: Mitch Benn, Richard Herring

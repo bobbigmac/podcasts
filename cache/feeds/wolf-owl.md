@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-07-15T03:32:47+00:00`
-- checked_at: `2026-07-15T03:32:47+00:00`
-- last_modified: `Mon, 13 Jul 2026 23:10:23 GMT`
+- fetched_at: `2026-07-22T03:45:03+00:00`
+- checked_at: `2026-07-22T03:45:03+00:00`
+- last_modified: `Tue, 21 Jul 2026 09:07:45 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-15T03:32:47+00:00",
+  "fetched_at": "2026-07-22T03:45:03+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,52 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9bca16edf7cc92ca542157246288838837d0e2a5",
+      "title": "Misfits Boxing, Gym Advice And Haters",
+      "published_at": "2026-07-20T23:01:00+00:00",
+      "link": null,
+      "description": "Are influencer boxing matches ruining real boxing? This week on Wolf & Owl, we dive into the world of influencers, the Sidemen drama and the rise of Misfits Boxing. Plus the boys discuss getting older and attempting to stay fit without immediately injuring yourself, Rom shares his latest gym disaster and the pair open up about the realities of social media criticism. To wrap it up as usual, Tom delivers another classic tale, with the story of Dalton Creepy, the NASA cleaner who proves it's never too late to achieve your dreams. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 02:05 The aura curve and Gymskin 05:20 On Sidemen 05:20 Misfits Boxing 16:35 Tom & Rom’s doppelgängers 19:46 Dealing with negative comments 25:39 Getting older and working out 28:31 Tom’s astronaut story 33:07 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a26e9922-845c-11f1-a5a0-fb221eed478f/image/188ef8468fcf021ac30a53e30b11b775.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8513851075.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2226",
+      "speakers": [
+        "Misfits Boxing",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "misfits",
+        "boxing",
+        "advice",
+        "haters"
+      ]
+    },
+    {
+      "key": "3983340b144803a95379a8a38faf448b50bf876e",
+      "title": "Dogs At Restaurants, Role Play & Retirement",
+      "published_at": "2026-07-16T23:01:00+00:00",
+      "link": null,
+      "description": "Is Romesh really retiring at 50? Tom and Romesh clear up the recent retirement rumours before diving into your latest emails, including a debate about the over-exposure of dogs and a dramatic affair story from a listener who's questioning the future of their secret relationship. Another week, another email answered and some solid advice from the Wolf and the Owl. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:47 A question on dogs 02:31 Romesh addresses his retiring comment 03:29 Dog lovers continued 11:09 Do the wives listen to the pod? 11:53 An email about a secret relationship 20:20 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d9846ea0-8047-11f1-9894-d724a13c800e/image/9412943795cb8c45aaedc7766e32d288.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3919580202.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1473",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "dogs",
+        "restaurants",
+        "role",
+        "play",
+        "retirement"
+      ]
+    },
     {
       "key": "c5463fc78e19e7dab53b4bfe93fed57dd865f94b",
       "title": "Heart Attacks, Trauma Dumps & Bad Service Stations",
@@ -7132,6 +7178,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-20 — Misfits Boxing, Gym Advice And Haters — speakers: Misfits Boxing, Romesh Ranganathan, Tom Davis
+- 2026-07-16 — Dogs At Restaurants, Role Play & Retirement — speakers: Romesh Ranganathan, Tom Davis
 - 2026-07-13 — Heart Attacks, Trauma Dumps & Bad Service Stations — speakers: Service Stations, Romesh Ranganathan, Tom Davis
 - 2026-07-09 — Fart Stories, SNL Opinions And Mooning — speakers: Romesh Ranganathan, Tom Davis
 - 2026-07-06 — Toy Story 5, Celebrity Gladiators & Brain Training — speakers: Toy Story, Romesh Ranganathan, Tom Davis

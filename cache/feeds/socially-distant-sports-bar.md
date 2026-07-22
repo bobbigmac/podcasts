@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-07-19T03:52:51+00:00`
-- checked_at: `2026-07-19T03:52:51+00:00`
-- etag: `"djEuMi4wOjE3ODQ0MTc0OTkzMzg="`
+- fetched_at: `2026-07-22T03:45:03+00:00`
+- checked_at: `2026-07-22T03:45:03+00:00`
+- etag: `"djEuMi4wOjE3ODQ2NzU3OTkyODE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-07-19T03:52:51+00:00",
+  "fetched_at": "2026-07-22T03:45:03+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "b3b95a36b23258136f031bc6a49d14cae8466e5a",
+      "title": "Best Of Distant Pod 9 (pt 1)",
+      "published_at": "2026-07-21T23:16:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/best-of-distant-pod-9-pt-1",
+      "description": "Welcome to the ninth Best Of The Socially Distant Sports Bar . This is a collection of some of our favourite moments from the regular podcast over the last two years. Unlike many podcasts, we don't work in seasons. We don't vanish for a fortnight, leave the feed empty and then return pretending it was all part of a carefully considered strategy. We put something out every week. So while we're taking a brief pause from the usual format, we've gone back through the archives and picked out some of the moments that made us laugh most, prompted the biggest reactions from listeners, or have become part of Distant Pod folklore. Whether you've been listening since the beginning or you've only recently discovered the podcast, there's plenty to enjoy here. Part 2 will be out on Friday. And if you subscribe to Distant Pod Bonus Club on Apple Podcasts, Part 3 is available there too. Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a5a0e3ff782764c4c4e6154/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "173475840",
+      "itunes_duration": "1:12:16",
+      "speakers": [
+        "Distant Sports Bar",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "distant"
+      ]
+    },
     {
       "key": "66d5a7122fde397dbf689a1da4ef2cda29592a50",
       "title": "Timothy Spall: Pint Size",
@@ -15411,6 +15432,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-21 — Best Of Distant Pod 9 (pt 1) — speakers: Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-18 — Timothy Spall: Pint Size — speakers: Timothy Spall, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-16 — Nish Kumar (pt 2) — speakers: Nish Kumar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-14 — Nish Kumar (pt 1) — speakers: Nish Kumar, Elis James, Mike Bubbins, Steff Garrero

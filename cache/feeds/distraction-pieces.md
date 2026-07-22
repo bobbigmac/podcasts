@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-07-17T03:36:07+00:00`
-- checked_at: `2026-07-17T03:36:07+00:00`
-- etag: `"djEuMi4wOjE3ODQyNTg0Mzk0Mjc="`
+- fetched_at: `2026-07-22T03:45:03+00:00`
+- checked_at: `2026-07-22T03:45:03+00:00`
+- etag: `"djEuMi4wOjE3ODQ2OTA0Mzk0NTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-07-17T03:36:07+00:00",
+  "fetched_at": "2026-07-22T03:45:03+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b076ff10df580d4e71c8f33e5120013943554224",
+      "title": "CHRIS, STU & KUNT • Hardest Kids In School (Hardcore Listing / Off The Beat & Track / Kunt & The Gang) #681",
+      "published_at": "2026-07-22T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by longtime podcast and life friends CHRIS & STU & KUNT for a roundtable episode! Quick catch-up if you're new to the show (trigger warning for repeated \"kunt\" usage) : Chris & Stu host the Hardcore Listing podcast, Stu does Off The Beat & Track and a ton of others, and Kunt is the frontman of the band Kunt & The Gang. Stu and Kunt also do the Acceptable In The 80's podcast. Pip, Chris & Stu form together to do the 'DrunkCast' episodes of Distraction Pieces, where they drink and generate like 5+ whole hour long episodes. So there we go! Now we're all on the same page, here is the hypersquad teamup (minus booze) to chat about the hardest kids in school. Whether you remember them from back in the days (whatever era), or you're familiar with them right now if you're in school at the moment, this roundtable chat will ring bells with you for sure. For those who've led a charmed tough-kid-free life and are over 40, think Gripper Stebson from Grange Hill. There are definitely worse than that but we're using shorthand here! Names have been shortened or indeed redacted, but the memories are mostly clear and chances are that you'll start to recall the kids from your school as the episode unfurls. Or maybe you were the hard kid yourself. Which leads us to the existential side-quest - does a hard kid know they're a hard kid? One to consider. Enjoy! PS: the catchup at the start is mainly due to those unfamiliar with the entire cast here - cos you'll be hearing the word Kunt over about 80-90 minutes more than you might have before. As alwyas with these ones, go steady if you're playing it out loud in a situation with younger fam-folk! PIP'S PATREON PAGE if you're of a supporting nature HARDCORE LISTING ACCEPTABLE IN THE 80s OFF THE BEAT & TRACK SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1784543399571-cf960bf2-24e2-4fd3-865f-1821d1b01d14.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a5dfd6a19fcc7b0d013a6c8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "209400264",
+      "itunes_duration": "1:27:10",
+      "speakers": [],
+      "topics": [
+        "chris",
+        "kunt",
+        "kids",
+        "school",
+        "hardcore",
+        "listing",
+        "beat",
+        "track",
+        "gang"
+      ]
+    },
     {
       "key": "23f7951a4e7a116b37a686bbd02c9d3a09bec682",
       "title": "ISY SUTTIE (film / theatre / TV / podcast) • Friday Rewind",
@@ -19228,6 +19252,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — CHRIS, STU & KUNT • Hardest Kids In School (Hardcore Listing / Off The Beat & Track / Kunt & The Gang) #681
 - 2026-07-17 — ISY SUTTIE (film / theatre / TV / podcast) • Friday Rewind
 - 2026-07-15 — ELIS JAMES • Thinking big, like Royal Albert Hall-big (Elis & John / Socially Distant Sports Club / standup) #680 — speakers: James Thinking
 - 2026-07-10 — GUZ KHAN (Bait / Man Like Mobeen / Walk Like A Panther) • Friday Rewind
