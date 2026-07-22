@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-07-22T03:45:03+00:00`
-- checked_at: `2026-07-22T03:45:03+00:00`
-- etag: `"djEuMi4wOjE3ODQ2MTU1MTMzMTE="`
+- fetched_at: `2026-07-22T08:43:34+00:00`
+- checked_at: `2026-07-22T08:43:34+00:00`
+- etag: `"djEuMi4wOjE3ODQ2OTI4NDAwMTM="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-07-22T03:45:03+00:00",
+  "fetched_at": "2026-07-22T08:43:34+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "8a052ce7ccc9d4afd5d657267d16d412ffa5d96c",
+      "title": "WDWDY #80.1: Washing Pandora's Carpet (Max's Yesterday)",
+      "published_at": "2026-07-22T04:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-801-washing-pandoras-carpet-maxs-yesterday",
+      "description": "In this midweek mayhem episode we find out what Max did with his yesterday... If you want to hear all about what David did on this exact day then you need to be 'IN IT FOR LIFE' Sign up HERE and here https://yesterdaypod.supportingcast.fm/ Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1784614296585-4282e571-a8f4-4d0f-8d4c-928e804e16c5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a5f11c9c8941e6991b2208b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "115321433",
+      "itunes_duration": "47:54",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "washing",
+        "pandora",
+        "carpet",
+        "yesterday"
+      ]
+    },
     {
       "key": "043bb3b885486ad66f5f27edceacd714523a3551",
       "title": "S5 EP5: Roger O'Sullivan",
@@ -3739,6 +3761,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — WDWDY #80.1: Washing Pandora's Carpet (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-07-19 — S5 EP5: Roger O'Sullivan — speakers: Roger O'Sullivan, Max Rushden, David O'Doherty
 - 2026-07-15 — WDWDY #79.1: I've got a question for you (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-07-12 — S5 EP4: Mike Rice — speakers: Mike Rice, Max Rushden, David O'Doherty
