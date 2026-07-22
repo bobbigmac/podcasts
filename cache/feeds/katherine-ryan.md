@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-07-17T08:27:30+00:00`
-- checked_at: `2026-07-17T08:27:30+00:00`
-- etag: `"djEuMi4wOjE3ODQyNzQxODM0MDk="`
+- fetched_at: `2026-07-22T11:19:21+00:00`
+- checked_at: `2026-07-22T11:19:21+00:00`
+- etag: `"djEuMi4wOjE3ODQ3MDAwMzk3MTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-07-17T08:27:30+00:00",
+  "fetched_at": "2026-07-22T11:19:21+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d3977ab534f8bea00a4b38cc1508d4839eac8dd2",
+      "title": "Cannes and Single Dads",
+      "published_at": "2026-07-22T06:00:00+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/cannes-and-single-dads",
+      "description": "This week, Katherine's Telling Everybody Everything about a harrowing brush with death as the hex on her home continues and she smashes into a glass door. Also, she was a disappointing plus one in Cannes about a month ago and completely forgot to say anything about it until now. Plus, comedian Andrew Johnston joins us from Hollywood with tales of an allegedly famous man who wants to have one daughter via surrogate and raise her to be 'his best friend', a Swedish wrestler paid his own wife $60K per year in 1990s money so that he could cheat on the road, and the infamous Tate brothers are arrested in America to face many spicy charges in the UK. Excellent! x @mandrewbrawnston Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1784643587607-1c1530e1-9e15-43ce-88de-3385168fc679.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a5f82c41af15f4e64179206/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83534912",
+      "itunes_duration": "58:00",
+      "speakers": [
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "canne",
+        "single",
+        "dads"
+      ]
+    },
     {
       "key": "003f819201f839ee3e1c3ebb7dd26cf3f06826dd",
       "title": "Are IVF Clinics Predatory For the Over 40s?",
@@ -6351,6 +6371,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — Cannes and Single Dads — speakers: Katherine Ryan
 - 2026-07-17 — Are IVF Clinics Predatory For the Over 40s? — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-07-07 — JusT&T Married — speakers: Katherine Ryan
 - 2026-07-03 — The Gentleman's Pad — speakers: Telling Everybody Everything, Katherine Ryan

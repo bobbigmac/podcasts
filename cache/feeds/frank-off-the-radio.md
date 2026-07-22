@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-07-22T03:45:03+00:00`
-- checked_at: `2026-07-22T03:45:03+00:00`
-- last_modified: `Wed, 22 Jul 2026 00:06:28 GMT`
+- fetched_at: `2026-07-22T11:19:21+00:00`
+- checked_at: `2026-07-22T11:19:21+00:00`
+- last_modified: `Wed, 22 Jul 2026 08:50:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-22T03:45:03+00:00",
+  "fetched_at": "2026-07-22T11:19:21+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "bfb0fe4e43fd81ef605b153579332fdc7b63fba9",
+      "title": "Frank Skinner's Radio Days: Get Outta Here!",
+      "published_at": "2026-07-22T08:49:00+00:00",
+      "link": null,
+      "description": "It’s 2014! Frank sees 8 magpies and keeps having confrontations with producer Daisy! Emily takes on Joan Collins in a selfie war, and Alun is making people feel sick. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a3d8beb8-8552-11f1-a973-7f5282f4febd/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9159864135.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2291",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "outta"
+      ]
+    },
     {
       "key": "08e35e2066b9e97b86a3590a2eb3d4808af2344e",
       "title": "Inspired Comedies",
@@ -12151,13 +12172,13 @@
       ]
     },
     {
-      "key": "d48ef5a438843b2e1474f4e63ed62b05fc6bc7b0",
+      "key": "81781c7f89c31bee3dd07a7b838ae5af76fe1297",
       "title": "Frank Skinner in conversation with Russell T Davies",
       "published_at": "2017-09-19T23:00:00+00:00",
-      "link": null,
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20170915135553.mp3",
       "description": "Russell T Davies drops in to chat to Frank about his brand new book, Dr Who and Cucumber. Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/926a4eaa-817e-11ef-8fe9-4ba28c52c978/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9756902071.mp3?updated=1738239390",
+      "image_url": "https://megaphone.imgix.net/podcasts/91e37f56-817e-11ef-8fe9-bfc52ad41a4e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6014759002.mp3?updated=1738239147",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1790",
@@ -12174,13 +12195,13 @@
       ]
     },
     {
-      "key": "81781c7f89c31bee3dd07a7b838ae5af76fe1297",
+      "key": "d48ef5a438843b2e1474f4e63ed62b05fc6bc7b0",
       "title": "Frank Skinner in conversation with Russell T Davies",
       "published_at": "2017-09-19T23:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20170915135553.mp3",
+      "link": null,
       "description": "Russell T Davies drops in to chat to Frank about his brand new book, Dr Who and Cucumber. Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/91e37f56-817e-11ef-8fe9-bfc52ad41a4e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6014759002.mp3?updated=1738239147",
+      "image_url": "https://megaphone.imgix.net/podcasts/926a4eaa-817e-11ef-8fe9-4ba28c52c978/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9756902071.mp3?updated=1738239390",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "1790",
@@ -14706,13 +14727,13 @@
       ]
     },
     {
-      "key": "ac8a01118c26f992d71356c23f3b95acc6b7568c",
+      "key": "f3df9ef0d8db8db71611fbc454d749aeadfbd2a7",
       "title": "The Frank Skinner Show - Pole Position",
       "published_at": "2015-07-04T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704161146.mp3",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704160258.mp3",
       "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. The team are all back together. Frank joined in on festival season and learnt more than he'd bargained for at a farm. The team discuss Wimbledon, falling over and Peppa Pig. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/dfcaa140-817e-11ef-8fe9-cbb3e0a2ec74/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8812593582.mp3?updated=1738241382",
+      "image_url": "https://megaphone.imgix.net/podcasts/df6ec79e-817e-11ef-8fe9-cb7afbb0cb5e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1533179636.mp3?updated=1738241359",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4594",
@@ -14727,13 +14748,13 @@
       ]
     },
     {
-      "key": "f3df9ef0d8db8db71611fbc454d749aeadfbd2a7",
+      "key": "ac8a01118c26f992d71356c23f3b95acc6b7568c",
       "title": "The Frank Skinner Show - Pole Position",
       "published_at": "2015-07-04T07:00:00+00:00",
-      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704160258.mp3",
+      "link": "http://podcast.timlradio.co.uk/frankskinner/20150704161146.mp3",
       "description": "Frank Skinner's on Absolute Radio every Saturday morning and you can enjoy the show's podcast right here. Radio Academy Award winning Frank, Emily and Alun bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy UK commercial radio's most popular podcast. The team are all back together. Frank joined in on festival season and learnt more than he'd bargained for at a farm. The team discuss Wimbledon, falling over and Peppa Pig. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": "https://megaphone.imgix.net/podcasts/df6ec79e-817e-11ef-8fe9-cb7afbb0cb5e/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1533179636.mp3?updated=1738241359",
+      "image_url": "https://megaphone.imgix.net/podcasts/dfcaa140-817e-11ef-8fe9-cbb3e0a2ec74/image/e4df404173ce7645a9492a8e1d6fbde4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8812593582.mp3?updated=1738241382",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4594",
@@ -24229,6 +24250,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — Frank Skinner's Radio Days: Get Outta Here! — speakers: Frank Skinner
 - 2026-07-20 — Inspired Comedies — speakers: Ruth Husko, Frank Skinner
 - 2026-07-17 — Don’t Look Back in Anger — speakers: Ruth Husko, Frank Skinner
 - 2026-07-15 — Frank Skinner's Radio Days: Italian Submarine — speakers: Frank Skinner
