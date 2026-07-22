@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-07-21T19:50:49+00:00`
-- checked_at: `2026-07-21T19:50:49+00:00`
-- etag: `W/"45e68-/Clghix9MAY7DQUQlhUtqV1oct8"`
+- fetched_at: `2026-07-22T19:42:52+00:00`
+- checked_at: `2026-07-22T19:42:52+00:00`
+- etag: `W/"4724a-LssQ68+9h0E0noDLRinZRdvCzBE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-07-21T19:50:49+00:00",
+  "fetched_at": "2026-07-22T19:42:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,15 +25,115 @@
   ],
   "episodes": [
     {
+      "key": "8570d587ffd01e9ffd7a86773fbda37000548810",
+      "title": "Josh Widdicombe XFM #97 The Final Episode – James Acaster, Nish Kumar, Ivo Graham, Matthew Crosby",
+      "published_at": "2026-07-22T17:56:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-97-The-Final-Episode--James-Acaster--Nish-Kumar--Ivo-Graham--Matthew-Crosby-e3mcbh7",
+      "description": "The final episode in the studio before the 4 Edinburgh shows. Lots of show legends are in the studio: James Acaster, Nish Kumar, Ivo Graham, Matthew Crosby, Tom Craine, Nathaniel Metcalfe, Suzi Ruffell.27th July 2015",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784660261163-c5ef0ea047f75.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4526809457.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47316414",
+      "itunes_duration": "00:48:45",
+      "speakers": [
+        "James Acaster",
+        "Ivo Graham",
+        "Matthew Crosby"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "final",
+        "james",
+        "acaster",
+        "nish",
+        "kumar",
+        "graham",
+        "matthew",
+        "crosby"
+      ]
+    },
+    {
+      "key": "5332372919921f9fe10de7d78e73c1265a83bebd",
+      "title": "Josh Widdicombe XFM #96 The Penultimate Episode – Ivo Graham, Tom Craine",
+      "published_at": "2026-07-22T14:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-96-The-Penultimate-Episode--Ivo-Graham--Tom-Craine-e3mcbck",
+      "description": "The final episode in the studio before the 4 Edinburgh shows. Lots of show legends are in the studio: James Acaster, Nish Kumar, Ivo Graham, Matthew Crosby, Tom Craine, Nathaniel Metcalfe, Suzi Ruffell.27th July 2015",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784660136400-10d3446a67f2a.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2101173862.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35913081",
+      "itunes_duration": "00:37:00",
+      "speakers": [
+        "Ivo Graham",
+        "Tom Craine"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "penultimate",
+        "graham",
+        "craine"
+      ]
+    },
+    {
+      "key": "1c8d1a05c727c878305c73def041417c9f63f600",
+      "title": "Josh Widdicombe XFM #95 – Tom Allen, Matthew Crosby",
+      "published_at": "2026-07-22T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-95--Tom-Allen--Matthew-Crosby-e3mcb4a",
+      "description": "The guys play another game invented by a listener. Matthew Crosby plays Call My Josh. Tom Allen, Matthew and Josh play Wiki Races.6th July 2015",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784659714581-302df66f5d928.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7699848328.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50798621",
+      "itunes_duration": "00:52:20",
+      "speakers": [
+        "Tom Allen",
+        "Matthew Crosby",
+        "Call My Josh"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "allen",
+        "matthew",
+        "crosby"
+      ]
+    },
+    {
+      "key": "9ce48c8106d84c2b807778d768fd036eedb403e8",
+      "title": "Josh Widdicombe XFM #94 – Rhys James, Ivo Graham",
+      "published_at": "2026-07-22T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-94--Rhys-James--Ivo-Graham-e3mcatb",
+      "description": "Rhys James is in the studio and Ivo Graham and Josh play another game of Wiki Races.29th June 2015",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784659483829-7c21df4fe18d3.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4019163853.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39229740",
+      "itunes_duration": "00:40:25",
+      "speakers": [
+        "Rhys James",
+        "Ivo Graham Rhys James",
+        "Ivo Graham"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "rhys",
+        "james",
+        "graham"
+      ]
+    },
+    {
       "key": "84ea271a03b5aabf275328c004a3f1d509e59e40",
       "title": "Josh Widdicombe XFM #93 – Nish Kumar, Ivo Graham",
       "published_at": "2026-07-21T18:40:25+00:00",
       "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-93--Nish-Kumar--Ivo-Graham-e3mcakv",
       "description": "Nish Kumar is back in the studio to try and improve his Call My Josh score. Ivo Graham and Nish go head-to-head on Wiki Races.22nd June 2015",
       "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784659050035-4dc235cba5d93.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/123136095/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-21%2F428366027-44100-2-adfd98f27f476.mp3",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1250117608.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "39350438",
+      "enclosure_length": "39775451",
       "itunes_duration": "00:40:59",
       "speakers": [
         "Ivo Graham Nish",
@@ -5362,6 +5462,10 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — Josh Widdicombe XFM #97 The Final Episode – James Acaster, Nish Kumar, Ivo Graham, Matthew Crosby — speakers: James Acaster, Ivo Graham, Matthew Crosby
+- 2026-07-22 — Josh Widdicombe XFM #96 The Penultimate Episode – Ivo Graham, Tom Craine — speakers: Ivo Graham, Tom Craine
+- 2026-07-22 — Josh Widdicombe XFM #95 – Tom Allen, Matthew Crosby — speakers: Tom Allen, Matthew Crosby, Call My Josh
+- 2026-07-22 — Josh Widdicombe XFM #94 – Rhys James, Ivo Graham — speakers: Rhys James, Ivo Graham Rhys James, Ivo Graham
 - 2026-07-21 — Josh Widdicombe XFM #93 – Nish Kumar, Ivo Graham — speakers: Ivo Graham Nish, Ivo Graham
 - 2026-07-21 — Josh Widdicombe XFM #92 – James Acaster, Ivo Graham — speakers: James Acaster, Ivo Graham James Acaster, Ivo Graham
 - 2026-07-21 — Josh Widdicombe XFM #91 – Tim Key, Tom Craine — speakers: Tim Key, Tom Craine
