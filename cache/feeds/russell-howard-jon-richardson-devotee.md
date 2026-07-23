@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-07-22T19:42:52+00:00`
-- checked_at: `2026-07-22T19:42:52+00:00`
-- etag: `W/"4724a-LssQ68+9h0E0noDLRinZRdvCzBE"`
+- fetched_at: `2026-07-23T19:44:59+00:00`
+- checked_at: `2026-07-23T19:44:59+00:00`
+- etag: `W/"477c4-0OMdp8GAwNTufGU5S391c5LPOx8"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,43 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-07-22T19:42:52+00:00",
+  "fetched_at": "2026-07-23T19:44:59+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "359b254aa668aadee17eeef1bacc03c78a061b53",
+      "title": "Josh Widdicombe XFM #98 Edinburgh Fringe 2015 – James Acaster, Nish Kumar, Matthew Crosby",
+      "published_at": "2026-07-23T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Josh-Widdicombe-XFM-98-Edinburgh-Fringe-2015--James-Acaster--Nish-Kumar--Matthew-Crosby-e3mdro9",
+      "description": "The first of the four 2015 Edinburgh shows featuring James Acaster (classic scrape 36), Nish Kumar, Matthew Crosby, Ivo Graham, John Robins, Nathaniel Metcalfe, Joe Lycett, Tom Neenan23rd August 2015",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1784749686733-96af00099f892.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4366643719.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81918262",
+      "itunes_duration": "01:24:25",
+      "speakers": [
+        "Edinburgh Fringe",
+        "James Acaster",
+        "Matthew Crosby",
+        "Nish Kumar"
+      ],
+      "topics": [
+        "josh",
+        "widdicombe",
+        "edinburgh",
+        "fringe",
+        "james",
+        "acaster",
+        "nish",
+        "kumar",
+        "matthew",
+        "crosby"
+      ]
+    },
     {
       "key": "8570d587ffd01e9ffd7a86773fbda37000548810",
       "title": "Josh Widdicombe XFM #97 The Final Episode – James Acaster, Nish Kumar, Ivo Graham, Matthew Crosby",
@@ -5462,6 +5492,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-23 — Josh Widdicombe XFM #98 Edinburgh Fringe 2015 – James Acaster, Nish Kumar, Matthew Crosby — speakers: Edinburgh Fringe, James Acaster, Matthew Crosby, Nish Kumar
 - 2026-07-22 — Josh Widdicombe XFM #97 The Final Episode – James Acaster, Nish Kumar, Ivo Graham, Matthew Crosby — speakers: James Acaster, Ivo Graham, Matthew Crosby
 - 2026-07-22 — Josh Widdicombe XFM #96 The Penultimate Episode – Ivo Graham, Tom Craine — speakers: Ivo Graham, Tom Craine
 - 2026-07-22 — Josh Widdicombe XFM #95 – Tom Allen, Matthew Crosby — speakers: Tom Allen, Matthew Crosby, Call My Josh
