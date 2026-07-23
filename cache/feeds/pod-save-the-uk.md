@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-07-16T08:33:40+00:00`
-- checked_at: `2026-07-16T08:33:40+00:00`
-- etag: `W/"f5eb5d8070e1396baeae40a127e02686"`
-- last_modified: `Thu, 16 Jul 2026 07:27:03 GMT`
+- fetched_at: `2026-07-23T08:43:50+00:00`
+- checked_at: `2026-07-23T08:43:50+00:00`
+- etag: `W/"3b1d56d3a215ed38932e0f6ef73aad51"`
+- last_modified: `Thu, 23 Jul 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-07-16T08:33:40+00:00",
+  "fetched_at": "2026-07-23T08:43:50+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "207fd7209330fde969096ada1b34548356a854e1",
+      "title": "Burnham’s Britain & Cabinet Pic ‘n’ Mix w/ Anoosh Chakelian",
+      "published_at": "2026-07-23T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8931157",
+      "description": "This week, Nish & Coco do a deep dive into the beginnings of Burnham’s Britain. He’s only been Prime Minister for a few days, but Andy has already pledged to end rough sleeping, cut electricity bills, and cap bus fares, as his new ‘cost of living government’ takes shape. They’re joined by Anoosh Chakelian, the New Statesman’s Britain Editor, who has interviewed Burnham several times over the last decade. Is he the flip-flopping, people-pleasing Prime Minister his critics say he’ll be, or do these early signals from No.10 suggest a clean break with the politics of the past? Anoosh, Coco & Nish talk through cabinet picks, what Trump might make of ‘Red Ed’ as foreign sec, and how social care reform–if done right–could be good for us all. All eyes on the seventh Prime Minister in a decade… Plus: you listen to Nish & Coco every week, now we want to hear from you! We’re launching an audience survey to hear about what you like, dislike, and want to see more of from PSUK. Guests! Live shows! Topics! Explainers! And did we mention there’s a prize draw? You’ve got to be in it to win it - so fill out the survey here: https://forms.gle/fWp9xXb6tcWhPxSm8 GUESTS Anoosh Chakelian USEFUL LINKS Audience survey here: https://forms.gle/fWp9xXb6tcWhPxSm8 CHECK OUT THESE DEALS FROM OUR SPONSORS HEXCLAD: https://www.hexclad.co.uk/PSTUK WISE: https://www.wise.com SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is an Intelligence Squared production for Crooked Media. We’ll be filming another mailbag episode next week so get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43755073/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8931157.mp3?modified=1784732846&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3780",
+      "speakers": [
+        "Cabinet Pic",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "burnham",
+        "britain",
+        "cabinet",
+        "anoosh",
+        "chakelian"
+      ]
+    },
     {
       "key": "3cad3d55f17debc36d52931dff8ade32ae300d4c",
       "title": "Wildfires, World Cup Football and Women’s Aid w/ Farah Nazeer",
@@ -621,10 +645,10 @@
       "link": "https://audioboom.com/posts/8838008",
       "description": "Donald Trump brings his particular brand of terrible speeches to the billionaires and bankers at the World Economic Forum in Davos. Nish and Coco try to work out how Keir Starmer can keep on track when facing the threat of US tariffs over Greenland as well as criticism of a lease deal with the Chagos Islands - which the US had previously praised. Liam Thorp, the Liverpool Echo’s Political Editor, is on hand to break down Labour’s big plan to make homes warmer, the fortunes of Reform and the latest delay to the Hillsborough Law Plus comedian Alaa Shehada, fresh from his show ‘The Horse of Jenin’, talks to Nish and Coco about the ‘Palestine Comedy Club’, a documentary which follows a group of Palestinians as they take their comedy show on tour in an occupied state. CHECK OUT THESE DEALS FROM OUR SPONSORS SHOPIFY Shopify.co.uk/podsavetheuk WISE Wise.com GUESTS Liam Thorp - Political Editor, Liverpool Echo Tess Ingram, UNICEF Alaa Shehada - Comedian USEFUL LINKS Palestine Comedy Club collective https://www.palestinecomedyclub.com/ Palestine Comedy Club documentary https://filmsandfestivals.britishcouncil.org/projects/palestine-comedy-club Starting Feb 27th: London - Rich Mix and Bertha Doc House Tywyn - Magic Lantern Cinema Birmingham - Mockingbird Cinema Brighton - Komedia Gloucester - Guildhall Belfast - Queen’s Film Theatre CREDITS Donald Trump - BBC Online ‘Palestine Comedy Club’ - Tough Crowd Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk Learn more about your ad choices. Visit megaphone.fm/adchoices",
       "image_url": "https://audioboom.com/i/43360291.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8838008.mp3?modified=1769055239&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8838008.mp3?modified=1784610143&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3345",
+      "itunes_duration": "3284",
       "speakers": [
         "Nish Kumar",
         "Coco Khan"
@@ -4014,6 +4038,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-23 — Burnham’s Britain & Cabinet Pic ‘n’ Mix w/ Anoosh Chakelian — speakers: Cabinet Pic, Nish Kumar, Coco Khan
 - 2026-07-16 — Wildfires, World Cup Football and Women’s Aid w/ Farah Nazeer — speakers: Farah Nazeer, Andy Burnham, Nish Kumar, Coco Khan
 - 2026-07-09 — ‘The Sleaze By-Election’: Farage Resigns…and Runs Again?! Plus, World War Three is here w/ Hannah Lucinda Smith — speakers: Runs Again, Hannah Lucinda Smith, Nish Kumar, Coco Khan
 - 2026-07-02 — No10 in the North: Andy Burnham’s Manchester mission... Plus, is ‘free speech’ just a free pass for tech bros? — speakers: Andy Burnham, Following Andy Burnham, Nish Kumar, Coco Khan

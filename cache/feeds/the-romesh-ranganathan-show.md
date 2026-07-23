@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-07-23T03:43:53+00:00`
-- checked_at: `2026-07-23T03:43:53+00:00`
-- last_modified: `Wed, 22 Jul 2026 23:10:32 GMT`
+- fetched_at: `2026-07-23T08:43:50+00:00`
+- checked_at: `2026-07-23T08:43:50+00:00`
+- last_modified: `Thu, 23 Jul 2026 08:18:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-23T03:43:53+00:00",
+  "fetched_at": "2026-07-23T08:43:50+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -32,7 +32,7 @@
       "published_at": "2026-07-22T23:01:00+00:00",
       "link": null,
       "description": "What is the weirdest thing Shanthi has ever Googled? In this Thursday episode, Romesh and mum Shanthi reveal their most embarrassing Google searches, discuss holiday disasters and give their advice on finding the love of your life at university. Shanthi shares her theories about a suspicious fan encounter on a train and reacts to the production team's suggestions for her new stage name. Plus, we answer your listener dilemmas, from monkey bites to dating advice and weirdly, ducks' anatomy. From bizarre internet searches to relationship wisdom, it's another classic Thursday episode with Shanthi. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 02:50 On Judi Love 07:06 Shanthi’s stage names 17:06 Weirdest Google search 23:20 Holiday disasters 31:23 How to find the love of your life? 39:17 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
+      "image_url": "https://megaphone.imgix.net/podcasts/4c889ca2-85c8-11f1-b218-5bd522f1ad3c/image/1931f93ad55a15831b12c696c8f860c0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT3902257745.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",

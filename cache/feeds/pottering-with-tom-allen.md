@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-07-16T08:33:40+00:00`
-- checked_at: `2026-07-16T08:33:40+00:00`
+- fetched_at: `2026-07-23T08:43:50+00:00`
+- checked_at: `2026-07-23T08:43:50+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 16 Jul 2026 04:19:27 GMT`
+- last_modified: `Thu, 23 Jul 2026 04:06:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-16T08:33:40+00:00",
+  "fetched_at": "2026-07-23T08:43:50+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b0d3f16ba70c050b080058d105fe89face0e4861",
+      "title": "A Garden Tour",
+      "published_at": "2026-07-23T04:00:00+00:00",
+      "link": null,
+      "description": "More from me in the garden this week, just pottering away, but normal business will resume next Thursday! Yes, we’ve been busy behind the scenes getting everything ready, and I cannot wait for you to see who we’ve got coming up. ☀️ It is truly such a delight doing this podcast, and I do hope it brings some joyful calm to your commutes, your kitchens, your garden paths, or wherever you find yourselves listening. Please do tell your friends about our quiet corner of the podcast world. Everyone is welcome in the garden. It is a calm and gentle space, pigeons and planes aside, but I would so love you to shout about it. So, pop those parasols up, grab some crisps and dips, and let’s go Pottering. 🪴 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR5018673321.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1188",
+      "speakers": [
+        "Garden Tour More",
+        "Tom Allen"
+      ],
+      "topics": [
+        "garden",
+        "tour"
+      ]
+    },
     {
       "key": "cafb520161028fa8e122cb7fa52fd4605f41d611",
       "title": "The Clippings: Part 2",
@@ -923,6 +943,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-23 — A Garden Tour — speakers: Garden Tour More, Tom Allen
 - 2026-07-16 — The Clippings: Part 2 — speakers: While Pottering, Tom Allen
 - 2026-07-09 — The Clippings: Part 1 — speakers: Tom Allen
 - 2026-07-02 — Henry Agg — speakers: Henry Agg, Tom Allen
