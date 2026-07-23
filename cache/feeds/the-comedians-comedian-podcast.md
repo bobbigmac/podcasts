@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-07-17T08:27:30+00:00`
-- checked_at: `2026-07-17T08:27:30+00:00`
-- etag: `"djEuMi4wOjE3ODQyNjQ0NDAwNzc="`
+- fetched_at: `2026-07-23T11:20:00+00:00`
+- checked_at: `2026-07-23T11:20:00+00:00`
+- etag: `"djEuMi4wOjE3ODQ3ODI4Mzk2OTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-07-17T08:27:30+00:00",
+  "fetched_at": "2026-07-23T11:20:00+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ca23d83ea3472b5cbe838020ac031a324cccd47a",
+      "title": "Bilal Zafar",
+      "published_at": "2026-07-23T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/515-bilal-zafar",
+      "description": "Bilal Zafar is an award-winning stand-up comedian who first broke through with a lastminute.com Best Newcomer Award for his debut show, CAKES. He’s now back with Rubicon, a multimedia, interactive hour with games, prizes and stories, promising a genuinely life-changing experience. Bilal has appeared on screen in Catastrophe, Sick of It and Paul Feig's Last Christmas and to many people, he’s known best as a full-time football manager embroiled in scandal on his hugely popular Twitch channel. We discuss: diving headfirst into football management through Twitch in lockdown on Limmy's advice and building an audience through him the challenge of sustaining momentum after his 2016 best newcomer nomination , and carrying that history into this year's Fringe and touring his debut show Cakes , and filming it for YouTube years later when he had the resources to do so finding unexpected happiness in a new career and developing new show Rubicon with Nick Helm , and being pushed to play a more arrogant, less \"nice\" version of himself Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to exclusive extras where we discuss his 2017 show about online dating underperforming and entering the industry naive to how the ups and downs work. 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Bilal: Bilal Zafar: Rubicon is at this year's Edinburgh Fringe at 8.30pm in Jersey at Underbelly, Bristo Square. You can also listen to the Got A Problem Mate Podcast with Bilal and Joey Page. Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content with Bilal ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE ON TOUR , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1784732021986-5ca5c541-36eb-46ae-968a-dc647f753108.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a60da625092e5d571b27e71/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "130074624",
+      "itunes_duration": "1:30:19",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "bilal",
+        "zafar"
+      ]
+    },
     {
       "key": "190e4251b5cb7a5f87ddce6c3b48e5167c84aaa2",
       "title": "Daniel Sloss (2015): ComCompendium",
@@ -11616,6 +11635,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-23 — Bilal Zafar — speakers: Stuart Goldsmith
 - 2026-07-17 — Daniel Sloss (2015): ComCompendium — speakers: Daniel Sloss, Stuart Goldsmith
 - 2026-07-10 — Joe Sutherland — speakers: Joe Sutherland Joe Sutherland, Stuart Goldsmith
 - 2026-07-03 — Sasheer Zamata (2017): ComCompendium — speakers: Sasheer Zamata, Stuart Goldsmith

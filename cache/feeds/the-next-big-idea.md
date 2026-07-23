@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-07-16T11:11:53+00:00`
-- checked_at: `2026-07-16T11:11:53+00:00`
-- last_modified: `Thu, 16 Jul 2026 09:00:00 GMT`
+- fetched_at: `2026-07-23T11:20:00+00:00`
+- checked_at: `2026-07-23T11:20:00+00:00`
+- last_modified: `Thu, 23 Jul 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-16T11:11:53+00:00",
+  "fetched_at": "2026-07-23T11:20:00+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -28,6 +28,49 @@
   ],
   "episodes": [
     {
+      "key": "eb5e3d847cad9e345f9fe7e4e00dca64baf385f9",
+      "title": "Sorry, Skeptics — AI Is Not a Bubble",
+      "published_at": "2026-07-23T09:00:00+00:00",
+      "link": null,
+      "description": "First, a few numbers. This year Amazon, Microsoft, Alphabet, and Meta will spend more than $700 billion building AI infrastructure. There are 1,500 data centers in development across the country. AI-linked stocks make up at least 40% of the S&P 500. These are the kinds of numbers that make some economists jumpy. If this whole AI thing doesn't pan out, they warn, we're headed for the mother of all crashes. But Azeem Azhar is not one of those economists. He and his team recently spent months turning the AI economy inside out, and they just released a report called The State of the AI Economy . It contains surprising answers to what has become an increasingly pressing question: is this the biggest bubble ever blown, or are we building the durable machinery of a radically more abundant world? In this conversation, Azeem joins Rufus to unpack why AI adoption is growing faster than the internet or mobile, what Wall Street and Silicon Valley may still be getting wrong, and why the most important skill in an AI-powered future may have nothing to do with AI. Along the way, they explore energy, jobs, investing, AI safety, and what exponential change means for the next generation. 💬 PULL QUOTES: \"Two years ago I would have said to [my kids], 'Listen, you need to learn how to use AI.' I don't think that's as true now as it was. They need to know how to engage with it. But more importantly, they really need to know how to think for themselves.\" \"If you look at revenue per employee at really excellent firms in the traditional economy, it's $400,000 per employee. Anthropic is up at $10 million.\" \"The thing that shows up in 50 or 60% of investment booms that turn to bubbles is when funding quality gets a bit funky. Last year, the funkiness was low. Now the funkiness is the way the salmon looks at an all-you-can-eat sushi at about 3:30 in the afternoon. It's still edible, but it's not as good as it was at 1:15.\" 👤 About the Guest: Azeem Azhar is the founder of Exponential View, a deeply-researched newsletter that has become essential reading for nearly 300,000 investors, entrepreneurs, academics, and policymakers. He is an executive fellow at Harvard Business School, a visiting fellow at Oxford, and a former correspondent for the Economist. He’s also an entrepreneur, an investor, the author of The Exponential Age , and a past guest on this show . 🎥 The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠⁠here⁠⁠⁠⁠ . 📱Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠ , or send us an email at ⁠⁠podcast@nextbigideaclub.com⁠⁠. 🎁 The best way to support the show is by becoming a Next Big Idea Club member. Learn more at ⁠⁠⁠nextbigideaclub.com⁠⁠⁠ , and use code PODCAST for a super secret discount (spoiler: it’s 20% off). 🔗 SPONSORED BY: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months. Just head to ⁠ granola.ai/idea⁠ IM8 — Athletes, doctors, David Beckham… they all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at⁠ ⁠ im8health.com/nbi⁠⁠ Momentous — If you want to try Momentous Signature Spec Creatine, head to⁠ livemomentous.com ⁠and use code IDEA for up to 35% off your entire first order. Northwest Registered Agent — They’ve been helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at⁠ ⁠ northwestregisteredagent.com/nbifree ⁠⁠ Upwork — Visit⁠ upwork.com right now and post your job for free. Shopify — Stop waiting for permission to build something. Your next revenue stream starts free at⁠ ⁠ shopify.com/nbi⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP5368955027.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4704",
+      "speakers": [
+        "Bubble First",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "skeptics",
+        "bubble"
+      ]
+    },
+    {
+      "key": "d7549c7eb43624f109dee0bd4733f464d9dd8362",
+      "title": "Why Creating Beats Consuming | Mark Pincus (Part 2)",
+      "published_at": "2026-07-20T09:00:00+00:00",
+      "link": null,
+      "description": "Most people think success comes from having an original idea. Mark Pincus thinks that's one of the most expensive mistakes you can make. After building one of the most successful gaming companies in history, he believes the best products rarely begin as completely new ideas. Instead, they start with a deep understanding of what already works, a relentless focus on making it better, and just enough novelty to make people care. In part two of our conversation, Mark shares his \"Proven, Better, New\" framework for building products, explains why AI is creating the greatest opportunity for builders since the birth of the internet, and reveals the surprisingly simple habits that have shaped his career, leadership philosophy, and life. Along the way, he discusses ambition, parenting, creativity, and why a more playful approach to your career may be the key to doing your best work. Chapters: (00:00) The Cheat Code for Building Winners (04:29) The Secret Behind Every Hit Product (12:53) The Best Time to Build Is Now (18:14) Why Work Should Feel Like Play (28:05) The Framework For A Better Year (33:04) Parenting Like a Founder (38:16) The Screen Time Debate Is Broken 🎥 The Next Big Idea is now on YouTube! You can find our episodes ⁠ ⁠⁠⁠⁠here⁠⁠⁠⁠⁠ ✉️ Follow Rufus on ⁠ ⁠⁠⁠LinkedIn⁠⁠⁠⁠ , subscribe to our ⁠ ⁠⁠⁠Substack⁠⁠⁠⁠ , or send us an email at ⁠⁠podcast@nextbigideaclub.com⁠⁠ 🔗 SPONSORED BY: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months. Just head to ⁠granola.ai/idea⁠ IM8 — Athletes, doctors, David Beckham — they all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at ⁠ ⁠im8health.com/nbi⁠⁠ Momentous — If you want to try Momentous Signature Spec Creatine, head to ⁠ livemomentous.com⁠ and use code IDEA for up to 35% off your entire first order. Northwest Registered Agent — They’ve been helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at ⁠ ⁠northwestregisteredagent.com/nbifree⁠⁠ Upwork — Visit ⁠ upwork.com⁠ right now and post your job for free. Shopify — Stop waiting for permission to build something. Your next revenue stream starts free at ⁠ ⁠shopify.com/nbi⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP7783690170.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2957",
+      "speakers": [
+        "Mark Pincus",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "beat",
+        "mark",
+        "pincus"
+      ]
+    },
+    {
       "key": "2051e1adb3eefeec01535d303445478994bcca6a",
       "title": "Living at the Speed of Play",
       "published_at": "2026-07-16T09:00:00+00:00",
@@ -37,7 +80,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/YAP7872540188.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3743",
+      "itunes_duration": "3726",
       "speakers": [
         "building careers",
         "Rufus Griscom",
@@ -8111,6 +8154,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-23 — Sorry, Skeptics — AI Is Not a Bubble — speakers: Bubble First, Rufus Griscom, Caleb Bissinger
+- 2026-07-20 — Why Creating Beats Consuming | Mark Pincus (Part 2) — speakers: Mark Pincus, Rufus Griscom, Caleb Bissinger
 - 2026-07-16 — Living at the Speed of Play — speakers: building careers, Rufus Griscom, Caleb Bissinger
 - 2026-07-13 — How to Be a Super Ager — speakers: Eric Topol, Rufus Griscom, Caleb Bissinger
 - 2026-07-09 — What If Saving the Planet Could Be Fun? — speakers: What If Saving, Rufus Griscom, Caleb Bissinger

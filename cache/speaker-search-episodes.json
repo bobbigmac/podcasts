@@ -28415,6 +28415,72 @@
     ],
     "nish-kumar": [
       {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "cdd104a7e4d5c0a5f1a22661d88cd2f2818419ae",
+        "episode_key": "cdd104a7e4d5c0a5f1a22661d88cd2f2818419ae",
+        "title": "Josh Widdicombe XFM #98 Edinburgh Fringe 2015 – James Acaster, Nish Kumar, Matthew Crosby",
+        "published_at": "2026-07-23T05:30:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The first of the four 2015 Edinburgh shows featuring James Acaster (classic scrape 36), Nish Kumar, Matthew Crosby, Ivo Graham, John Robins, Nathaniel Metcalfe, Joe Lycett, Tom Neenan23rd August 2015",
+        "audio_url": "https://traffic.megaphone.fm/APO4366643719.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-98-edinburgh-fringe-2015-james/id1866254969?i=1000777985982&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "5f02c4936d8c58a18f21d024005d48a7545c8d35",
+        "episode_key": "5f02c4936d8c58a18f21d024005d48a7545c8d35",
+        "title": "Josh Widdicombe XFM #97 The Final Episode – James Acaster, Nish Kumar, Ivo Graham, Matthew Crosby",
+        "published_at": "2026-07-22T17:56:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The final episode in the studio before the 4 Edinburgh shows. Lots of show legends are in the studio: James Acaster, Nish Kumar, Ivo Graham, Matthew Crosby, Tom Craine, Nathaniel Metcalfe, Suzi Ruffell.27th July 2015",
+        "audio_url": "https://traffic.megaphone.fm/APO4526809457.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-97-the-final-episode-james/id1866254969?i=1000777916363&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "6d35ea373991b9e3dc9f707bf1073b9071fd285c",
+        "episode_key": "6d35ea373991b9e3dc9f707bf1073b9071fd285c",
+        "title": "Josh Widdicombe XFM #93 – Nish Kumar, Ivo Graham",
+        "published_at": "2026-07-21T18:40:25Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Nish Kumar is back in the studio to try and improve his Call My Josh score. Ivo Graham and Nish go head-to-head on Wiki Races.22nd June 2015",
+        "audio_url": "https://traffic.megaphone.fm/APO1250117608.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-93-nish-kumar-ivo-graham/id1866254969?i=1000777766294&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:5a46c54e4129",
         "feed_title": "The Chris Evans Show with Moneybox",
         "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",
