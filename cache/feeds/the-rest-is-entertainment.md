@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-07-22T03:45:03+00:00`
-- checked_at: `2026-07-22T03:45:03+00:00`
-- last_modified: `Tue, 21 Jul 2026 23:00:31 GMT`
+- fetched_at: `2026-07-23T03:43:53+00:00`
+- checked_at: `2026-07-23T03:43:53+00:00`
+- last_modified: `Thu, 23 Jul 2026 00:59:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-22T03:45:03+00:00",
+  "fetched_at": "2026-07-23T03:43:53+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "69f63ead6560ea54332393dfdeb850e1295f86f0",
+      "title": "Zendaya's Secret Weapon",
+      "published_at": "2026-07-22T23:05:00+00:00",
+      "link": null,
+      "description": "Who is the genius stylist behind Zendaya’s red carpet supremacy? Does publishing have a female violence problem? What do The Wizard of Oz and Shakespeare’s plays have in common? Richard Osman and Marina Hyde answer questions on celebrity stylists, unhinged album promotion and storytelling tropes. You can email any questions you have to restisentertainment.com The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Lending is subject to status. You could lose your home if you don't keep up your mortgage repayments. Conditions apply. 1996 average first-time buyer deposit based on Office National Statistics House Price Index data. Summer sale is here: get an annual membership for a third off with code SUMMER26. That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Josh Smith Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7459743976.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2157",
+      "speakers": [
+        "Secret Weapon Who",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "zendaya",
+        "secret",
+        "weapon"
+      ]
+    },
     {
       "key": "00975a30e35e146aca310a3e51158a367220d71d",
       "title": "Introducing: The World Cup Of... TV Theme Tunes",
@@ -6306,6 +6328,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — Zendaya's Secret Weapon — speakers: Secret Weapon Who, Richard Osman, Marina Hyde
 - 2026-07-21 — Introducing: The World Cup Of... TV Theme Tunes — speakers: Bella Hull, Ivo Graham, Theme Tunes, Richard Osman, Marina Hyde
 - 2026-07-20 — How The Odyssey Won The Culture War — speakers: Richard Osman, Marina Hyde
 - 2026-07-15 — Why Are Brits So Good At Acting? — speakers: Richard Osman, Marina Hyde

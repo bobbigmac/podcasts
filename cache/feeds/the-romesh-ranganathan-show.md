@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-07-22T16:44:47+00:00`
-- checked_at: `2026-07-22T16:44:47+00:00`
-- last_modified: `Wed, 22 Jul 2026 16:22:59 GMT`
+- fetched_at: `2026-07-23T03:43:53+00:00`
+- checked_at: `2026-07-23T03:43:53+00:00`
+- last_modified: `Wed, 22 Jul 2026 23:10:32 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-22T16:44:47+00:00",
+  "fetched_at": "2026-07-23T03:43:53+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "8b066631a54e1bd75faed30dcad2c99101df3aeb",
+      "title": "Shanthi’s Suspicions, Monkey Bites & Stage Names",
+      "published_at": "2026-07-22T23:01:00+00:00",
+      "link": null,
+      "description": "What is the weirdest thing Shanthi has ever Googled? In this Thursday episode, Romesh and mum Shanthi reveal their most embarrassing Google searches, discuss holiday disasters and give their advice on finding the love of your life at university. Shanthi shares her theories about a suspicious fan encounter on a train and reacts to the production team's suggestions for her new stage name. Plus, we answer your listener dilemmas, from monkey bites to dating advice and weirdly, ducks' anatomy. From bizarre internet searches to relationship wisdom, it's another classic Thursday episode with Shanthi. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 02:50 On Judi Love 07:06 Shanthi’s stage names 17:06 Weirdest Google search 23:20 Holiday disasters 31:23 How to find the love of your life? 39:17 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3902257745.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2580",
+      "speakers": [
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "suspicions",
+        "monkey",
+        "bites",
+        "stage",
+        "names"
+      ]
+    },
     {
       "key": "13297ca10fb9d3a2e1d991e0b7ec91003d5e105f",
       "title": "Judi Love On Self-Care, Posh Gyms & Comedy Acting",
@@ -1989,6 +2012,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — Shanthi’s Suspicions, Monkey Bites & Stage Names — speakers: Romesh Ranganathan
 - 2026-07-19 — Judi Love On Self-Care, Posh Gyms & Comedy Acting — speakers: Posh Gyms, Comedy Acting How, Judi Love, Romesh Ranganathan
 - 2026-07-15 — Shanthi Teaches Romesh How To Interview — speakers: Romesh Ranganathan
 - 2026-07-12 — Gabby Logan On Match of the Day, Trolls & Live TV — speakers: Gabby Logan, Romesh Ranganathan

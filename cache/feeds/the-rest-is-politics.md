@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-07-22T16:44:47+00:00`
-- checked_at: `2026-07-22T16:44:47+00:00`
-- last_modified: `Wed, 22 Jul 2026 15:45:05 GMT`
+- fetched_at: `2026-07-23T03:43:53+00:00`
+- checked_at: `2026-07-23T03:43:53+00:00`
+- last_modified: `Thu, 23 Jul 2026 02:46:46 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-22T16:44:47+00:00",
+  "fetched_at": "2026-07-23T03:43:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "015211130983244f522dacf418cb22fea59ee8c1",
+      "title": "556. The US-China AI Arms Race and Badenoch vs. Rory’s Centrism",
+      "published_at": "2026-07-22T23:00:00+00:00",
+      "link": null,
+      "description": "Is China quietly outsmarting the US in the AI arms race, and is Trump laying the pitch to challenge the results of the US midterms with his repeated, unfounded claims of Chinese election meddling? Why has Zelenskyy sacked his popular defence minister just as Ukraine is winning on the battlefield? Does Kemi Badenoch’s purge of Rory-adjacent centrists from the Conservative Party show she is even more ruthless than Margaret Thatcher? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Maggie Haberman and Jonathan Swan by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Summer sale is here : get an annual membership for an extra 20% off with code SUMMER26. That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics . It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Adam Thornton, Caroline Kaye Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/14723d0e-851a-11f1-ada0-3b5a39db41df/image/9808186c35f8635b00c07c3e75e7d36b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7130963326.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3684",
+      "speakers": [],
+      "topics": [
+        "china",
+        "arms",
+        "race",
+        "badenoch",
+        "rory",
+        "centrism"
+      ]
+    },
     {
       "key": "5892e7d68b53c434884299dc94227feed70fa602",
       "title": "555. Burnham’s Cabinet Purge and the Rough Sleeping Pledge",
@@ -12434,6 +12455,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-22 — 556. The US-China AI Arms Race and Badenoch vs. Rory’s Centrism
 - 2026-07-21 — 555. Burnham’s Cabinet Purge and the Rough Sleeping Pledge — speakers: Andy Burnham
 - 2026-07-16 — The Secret Security Threat The Government Don’t Want Us To Know
 - 2026-07-15 — 554. Burnham’s Worldview, Trump's Ceasefire Collapse, and Advising Count Binface — speakers: Andy Burnham
