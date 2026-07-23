@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-07-20T19:55:48+00:00`
-- checked_at: `2026-07-20T19:55:48+00:00`
-- etag: `"djEuMi4wOjE3ODQ1NjY3MTMxMjA="`
+- fetched_at: `2026-07-23T16:45:33+00:00`
+- checked_at: `2026-07-23T16:45:33+00:00`
+- etag: `"djEuMi4wOjE3ODQ4MTc5Mzg5NjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-07-20T19:55:48+00:00",
+  "fetched_at": "2026-07-23T16:45:33+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "681d07940a676153c91ef0fe1dc21c024ccbed2d",
+      "title": "Burnham's cabinet",
+      "published_at": "2026-07-23T14:45:38+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/burnhams-cabinet",
+      "description": "It’s day 4 of Prime Minister Andy Burnham’s premiership. His cabinet is now appointed - With some notable appointments to the top jobs, plenty of reshuffling, and some loyal Starmer-ites out. The PM has also begun to announce his measures to tackle the cost of living, from bus fares to energy bills, and a big clear target from the off: end rough sleeping. Anoosh Chakelian is joined by Ailbhe Rea and Tom McTague to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1784817764430-6d5854f3-bf30-4b01-98f8-1550e3bd8ea9.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a622843af14e6bf80ad46b6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "106653789",
+      "itunes_duration": "44:24",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "burnham",
+        "cabinet"
+      ]
+    },
     {
       "key": "fb4c34531a45cb5eb3cc191c607d52484423086a",
       "title": "Prime Minister Andy Burnham",
@@ -31850,6 +31871,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-23 — Burnham's cabinet — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-20 — Prime Minister Andy Burnham — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-18 — Starmer bows out — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-07-16 — The transition begins — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
