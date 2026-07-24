@@ -15494,6 +15494,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:b69b66a17e99",
+        "feed_title": "Lucy & Sam's Perfect Brains",
+        "source_rss_url": "https://feeds.acast.com/public/shows/655770315c5f69001274e998",
+        "dedupe_key": "e81818fa112589c36b504e7564d643b8ccaef36d",
+        "episode_key": "e81818fa112589c36b504e7564d643b8ccaef36d",
+        "title": "Ep 15: Celebrity Conch – Tim Key and Gill Adams",
+        "published_at": "2024-07-05T03:00:38Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Lucy and Sam hand over the precious shell to their first celebrity guests. But, remember, The Conch is not a game. Please respect The Conch. \nRecorded by Naomi Parnell and edited by Ben Williams for Plosive. \n \nArtwork by Sam Campbell. \nTheme music by Paul Williams and Sam Campbell.\n Hosted on Acast. See acast.com/priv",
+        "audio_url": "https://sphinx.acast.com/p/open/s/655770315c5f69001274e998/e/668528779249f596b740591a/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-15-celebrity-conch-tim-key-and-gill-adams/id1717063030?i=1000661196539&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:54d7379a1dd7",
         "feed_title": "Sara & Cariad's Weirdos Book Club",
         "source_rss_url": "https://feeds.acast.com/public/shows/64b69e3ec409730011da06ee",
@@ -28481,6 +28503,28 @@
       }
     ],
     "nish-kumar": [
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "d3cd4ee16de75c4313650f66273c1a78a39545fd",
+        "episode_key": "d3cd4ee16de75c4313650f66273c1a78a39545fd",
+        "title": "Josh Widdicombe XFM #99 Edinburgh Fringe 2015 – James Acaster, Ed Gamble, Nish Kumar, Matthew Crosby",
+        "published_at": "2026-07-24T05:21:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The second of the four 2015 Edinburgh shows featuring James Acaster (classic scrape 37), Ed Gimble, Nish Kumar, Matthew Crosby, Ivo Graham, John Robins, Nathaniel Metcalfe, Tom Neenan24th August 2015",
+        "audio_url": "https://traffic.megaphone.fm/APO1777870425.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-99-edinburgh-fringe-2015-james/id1866254969?i=1000778153334&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
