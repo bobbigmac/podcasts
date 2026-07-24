@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-07-22T03:45:03+00:00`
-- checked_at: `2026-07-22T03:45:03+00:00`
-- etag: `"djEuMi4wOjE3ODQ2OTA0Mzk0NTE="`
+- fetched_at: `2026-07-24T08:41:38+00:00`
+- checked_at: `2026-07-24T08:41:38+00:00`
+- etag: `"djEuMi4wOjE3ODQ4Nzc2MjE2Mzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-07-22T03:45:03+00:00",
+  "fetched_at": "2026-07-24T08:41:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "42da9079b6c69d9f76fb7a72c5dd9b7e69c7f01a",
+      "title": "FRANK TURNER (Campfire Punkrock / Tape Deck Heart / Undefeated) • Friday Rewind",
+      "published_at": "2026-07-24T07:20:21+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Frank Turner , originally episode 287 from 2019-09-11. Original writeup below: …and about time too, as it’s been over 250 episodes since they last had a proper chat! As you can hear, the gap immediately disappears as they pick up effortlessly and gain quick ground about what’s been happening in their lives in the interim. Expect to hear all about the Frank Turner years, moving with ease through such topics as the parallels of touring and wedding organisation, the effects of extensive touring on a person’s life, the blowout cycle and mental health, tour PTSD and habit forming, the perils of talking about fame while being very self aware, cultural satnav and tour hacks, “grebos”, the plus side of the internet in terms of hunting for music, gateway bands, festival thoughts, the punk and non-punk ethos of opening for anyone, and most importantly - his 8TH SOLO ALBUM! With that comes his newfound respect for podcasters, the issue of a man writing about women and then where the path goes from here. PACKED AND AWESOME is what it is. You enjoy yerself! PIP'S PATREON PAGE if you're of a supporting nature TWITTER ONLINE 'TALES FROM NO MAN'S LAND' podcast NO MAN'S LAND album SISTER ROSETTA live PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1784877263034-98b18bdb-ce4f-4c9e-9d28-48bc21c60238.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a631235fa6cc1e0304434f6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "158097459",
+      "itunes_duration": "1:05:47",
+      "speakers": [],
+      "topics": [
+        "frank",
+        "turner",
+        "campfire",
+        "punkrock",
+        "tape",
+        "deck",
+        "heart",
+        "undefeated",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "b076ff10df580d4e71c8f33e5120013943554224",
       "title": "CHRIS, STU & KUNT • Hardest Kids In School (Hardcore Listing / Off The Beat & Track / Kunt & The Gang) #681",
@@ -19252,6 +19277,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-24 — FRANK TURNER (Campfire Punkrock / Tape Deck Heart / Undefeated) • Friday Rewind
 - 2026-07-22 — CHRIS, STU & KUNT • Hardest Kids In School (Hardcore Listing / Off The Beat & Track / Kunt & The Gang) #681
 - 2026-07-17 — ISY SUTTIE (film / theatre / TV / podcast) • Friday Rewind
 - 2026-07-15 — ELIS JAMES • Thinking big, like Royal Albert Hall-big (Elis & John / Socially Distant Sports Club / standup) #680 — speakers: James Thinking

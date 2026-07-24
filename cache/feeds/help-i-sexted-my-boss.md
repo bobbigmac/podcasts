@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-07-21T08:43:31+00:00`
-- checked_at: `2026-07-21T08:43:31+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RRMk1UQXdOREF4TmpnPTo6c2F4ZXNz"`
+- fetched_at: `2026-07-24T08:41:38+00:00`
+- checked_at: `2026-07-24T08:41:38+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RRNE5qa3lNems0TURJPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-07-21T08:43:31+00:00",
+  "fetched_at": "2026-07-24T08:41:38+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "01805a753c44c83f3fe5fb3658d6f9108e7613b1",
+      "title": "The Etiquette Police Come For William Hanson | And Sexytime AC",
+      "published_at": "2026-07-24T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/the-etiquette-police-come-for-william-hanson-and-sexytime-ac",
+      "description": "Someone's been a very naughty boy, and the etiquette police have come knocking for William. Will his defence stand up to scrutiny, or will he be sent to prison quicker than you can say \"laser pointer\" to a Swiss customs official? Meanwhile, Jordan's decided there's only ONE reason anyone really needs air conditioning. Download SAILY in your app store and use the Sexted code HOLIDAYEXPERT at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/holidayexpert Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1784833355856-7fd090d6-8bc6-4e17-89b7-594fb2f57f7c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a623460a8ad4f157e29d39d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=A1TZ67wRqU2hXvfwHCoq9YG2wI1tMwiHtgukQkBdRRc",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27301093",
+      "itunes_duration": "28:26",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "etiquette",
+        "police",
+        "william",
+        "hanson",
+        "sexytime"
+      ]
+    },
     {
       "key": "43ed8e61c72f372f20c7378cb2428802346dee6c",
       "title": "Help My Dentist Proposed To Me | And We’re All Miserable…",
@@ -14716,6 +14739,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-24 — The Etiquette Police Come For William Hanson | And Sexytime AC — speakers: William Hanson, Jordan North
 - 2026-07-21 — Help My Dentist Proposed To Me | And We’re All Miserable… — speakers: Jordan North, William Hanson
 - 2026-07-17 — Mistaken Identities | And Skinny Dipping Fun — speakers: Mistaken Identities, William Hanson, Jordan North
 - 2026-07-14 — Help I’ve Been Wiping My Face With His D*ck Towel | And EVERYONE’S Horny — speakers: William Hanson, Jordan North

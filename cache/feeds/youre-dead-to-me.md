@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-07-19T13:52:45+00:00`
-- checked_at: `2026-07-19T13:52:45+00:00`
-- etag: `"8d1ddca2c2fe5e5e5571e7bd662067d6"`
-- last_modified: `Sun, 19 Jul 2026 11:00:05 GMT`
+- fetched_at: `2026-07-24T08:41:38+00:00`
+- checked_at: `2026-07-24T08:41:38+00:00`
+- etag: `"d2d4c449114b982eab4831987a73b846"`
+- last_modified: `Fri, 24 Jul 2026 08:00:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-07-19T13:52:45+00:00",
+  "fetched_at": "2026-07-24T08:41:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,29 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "d17498adf6727aa4891247e6367435429d7ee923",
+      "title": "The Iliad and Odyssey: heroic epics from ancient Greece",
+      "published_at": "2026-07-24T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002y8t3",
+      "description": "Greg Jenner is joined in ancient Greece by historian Dr Emily Hauser and comedian and actor Kiell Smith-Bynoe to learn about the epic poems the Iliad and Odyssey. Traditionally attributed to the poet Homer, these works tell parts of a legend that has fascinated us for centuries: the story of the Trojan War. Featuring a cast of unforgettable characters – Achilles, Odysseus, Paris, Helen, Hector and Agamemnon – the war between ancient Greece and Troy has inspired writers, artists and filmmakers for over a millennium. But the Iliad and Odyssey only recount episodes of this much bigger story. The Iliad, focusing on the hero Achilles, takes place in the closing stretches of the war. And the Odyssey tells the tale of Odysseus’s perilous voyage home after the Greeks have triumphed. In this episode, we trace the origins of the poems in the 8th century BCE, looking at whether Homer really wrote them and how these originally oral tales came to be written down, before exploring the fantastical tales they tell. Along the way, we also look at whether or not the Trojan war really happened, how the ancient Greeks defined heroism, and examine the role of gods and monsters in the poems and the lives of their heroes. If you’re a fan of fantastical myths and legends, heroes behaving badly, and ancient Greek culture, you’ll love our episode on the Iliad and Odyssey. If you want more from Kiell Smith-Bynoe, listen to our episode on Viking explorer Leif Erikson. And for more historical epics, check out our episodes on the Legends of King Arthur, and the Mesopotamian Epic of Gilgamesh. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Auréliane Perrin Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nv0hd9.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ntlx2p.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56656000",
+      "itunes_duration": "3541",
+      "speakers": [
+        "Greg Jenner",
+        "Emily Hauser",
+        "Kiell Sm"
+      ],
+      "topics": [
+        "iliad",
+        "odyssey",
+        "epic",
+        "greece"
+      ]
+    },
     {
       "key": "99b8e14e91d028c82e20da8552360f8e3049e886",
       "title": "El Cid (Radio Edit)",
@@ -90,24 +113,6 @@
         "telephone",
         "radio",
         "edit"
-      ]
-    },
-    {
-      "key": "6e3bfa4643538105e1c206a960f7fb5e4d79eb2a",
-      "title": "Announcing Series 12",
-      "published_at": "2026-06-24T08:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0ntvdlw",
-      "description": "Greg Jenner looks ahead to the new series of You're Dead to Me. If you’re in the UK, listen first on BBC Sounds, or watch on iPlayer from Friday 26 June. If you’re outside the UK, you can find us on BBC.com or wherever you get your podcasts, with the new series beginning on Friday 24 July.",
-      "image_url": null,
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ntvchy.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "1776000",
-      "itunes_duration": "111",
-      "speakers": [
-        "Greg Jenner"
-      ],
-      "topics": [
-        "series"
       ]
     },
     {
@@ -6035,10 +6040,10 @@
 
 ## Episodes (newest first)
 
+- 2026-07-24 — The Iliad and Odyssey: heroic epics from ancient Greece — speakers: Greg Jenner, Emily Hauser, Kiell Sm
 - 2026-07-10 — El Cid (Radio Edit) — speakers: Greg Jenner, Nora Berend
 - 2026-07-03 — Empress Dowager Cixi (Radio Edit) — speakers: Greg Jenner, Yangwen Zheng
 - 2026-06-26 — History of the Telephone (Radio Edit) — speakers: Greg Jenner, Iwan Morus
-- 2026-06-24 — Announcing Series 12 — speakers: Greg Jenner
 - 2026-06-19 — History of Spices (Radio Edit) — speakers: Greg Jenner, David Veevers, Paul Sinha
 - 2026-06-12 — Epic of Gilgamesh (Radio Edit) — speakers: Greg Jenner, Moudhy Al-Rashid, Marjolein Robertson
 - 2026-06-05 — Hypatia of Alexandria (Radio Edit) — speakers: Greg Jenner, Edith Hall, Olga Koch
