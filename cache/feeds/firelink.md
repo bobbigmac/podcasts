@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-07-18T03:30:22+00:00`
-- checked_at: `2026-07-18T03:30:22+00:00`
-- etag: `W/"3af8c-6NhJyfE9VW5O0AGzQ+T/X2D/4GE"`
+- fetched_at: `2026-07-24T14:11:38+00:00`
+- checked_at: `2026-07-24T14:11:38+00:00`
+- etag: `W/"3b76a-LrdiafpFhlIp21d22qwTUaDA++U"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-07-18T03:30:22+00:00",
+  "fetched_at": "2026-07-24T14:11:38+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,31 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "67a88db5498ffe6aa03b4238f4847017930bb411",
+      "title": "Modern Indie Games That Changed the Industry | Firelink Podcast",
+      "published_at": "2026-07-24T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Modern-Indie-Games-That-Changed-the-Industry--Firelink-Podcast-e3mfqfs",
+      "description": "This week on Firelink, Nick, KC, and Marty continue their discussion from last week, this time focusing on the modern indies that have reshaped the gaming landscape. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/123250620/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-24%2Fb333801b-a039-af0e-eb76-f9d93e9fa662.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "158197280",
+      "itunes_duration": "01:49:51",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "modern",
+        "indie",
+        "games",
+        "industry",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "711830489a04e71ab3abd6dfddea4949a156dba3",
       "title": "Modern Games That Changed the Industry | Firelink Podcast",
@@ -3031,6 +3056,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-24 — Modern Indie Games That Changed the Industry | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-07-17 — Modern Games That Changed the Industry | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-07-10 — What Are We Doing Here, Xbox? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-07-03 — PlayStation Just Dealt Game Preservation a Massive Blow | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
