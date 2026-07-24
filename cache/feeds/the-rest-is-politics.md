@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-07-23T03:43:53+00:00`
-- checked_at: `2026-07-23T03:43:53+00:00`
-- last_modified: `Thu, 23 Jul 2026 02:46:46 GMT`
+- fetched_at: `2026-07-24T03:43:16+00:00`
+- checked_at: `2026-07-24T03:43:16+00:00`
+- last_modified: `Thu, 23 Jul 2026 23:00:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-23T03:43:53+00:00",
+  "fetched_at": "2026-07-24T03:43:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "6d67a2de582caba9ad3d462e9678b3a9ff9f5e7e",
+      "title": "Britain's Ticking Time Bomb: The Food Security Crisis",
+      "published_at": "2026-07-23T22:55:00+00:00",
+      "link": null,
+      "description": "Could the UK be facing empty supermarket shelves by 2030? Are food distribution centres sitting ducks for drone warfare? And how has Britain got to a place where is has just 3 days to 3 weeks worth of food supplies? This week, Caroline Lucas sits down with food security expert, Professor Paul Behrens from the University of Oxford. To hear the full episode and the whole series as it drops, sign up here or at therestispolitics.com Please continue to send in your questions for Caroline, Alastair and Rory. ⁠⁠Read the redacted Joint Intelligence Committee Report here⁠⁠ ⁠⁠Find out more about the National Emergency Briefing here.⁠⁠ ⁠Find Paul Behrens book here ⁠ Producer: India Dunkley Video Editor: Josh Smith Social Producer: Celine Charles General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7299b792-86b2-11f1-8fb8-ef1113c48071/image/59b998b5fc503d3235f6a969553d5637.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9410916778.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "973",
+      "speakers": [
+        "Ticking Time Bomb"
+      ],
+      "topics": [
+        "britain",
+        "ticking",
+        "time",
+        "bomb",
+        "food",
+        "security",
+        "crisis"
+      ]
+    },
     {
       "key": "015211130983244f522dacf418cb22fea59ee8c1",
       "title": "556. The US-China AI Arms Race and Badenoch vs. Rory’s Centrism",
@@ -12455,6 +12479,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-23 — Britain's Ticking Time Bomb: The Food Security Crisis — speakers: Ticking Time Bomb
 - 2026-07-22 — 556. The US-China AI Arms Race and Badenoch vs. Rory’s Centrism
 - 2026-07-21 — 555. Burnham’s Cabinet Purge and the Rough Sleeping Pledge — speakers: Andy Burnham
 - 2026-07-16 — The Secret Security Threat The Government Don’t Want Us To Know

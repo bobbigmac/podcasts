@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-07-22T03:45:03+00:00`
-- checked_at: `2026-07-22T03:45:03+00:00`
-- etag: `"djEuMi4wOjE3ODQ2Nzg0Mzk0ODI="`
+- fetched_at: `2026-07-24T03:43:16+00:00`
+- checked_at: `2026-07-24T03:43:16+00:00`
+- etag: `"djEuMi4wOjE3ODQ4NTEyMzkzNTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-07-22T03:45:03+00:00",
+  "fetched_at": "2026-07-24T03:43:16+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,30 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "c7e47ab2dc92c532275860b9af47d6c4a0cf6e14",
+      "title": "Survival Mode, with Candace Bryan",
+      "published_at": "2026-07-24T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/survival-mode-with-candace-bryan",
+      "description": "Happy Friday! Today our guest, the hilarious Candace Bryan, tells us about a scammer who was feeline pretty lucky to be taken in by her. The team then go down to the woods for a big surprise, unfortunately, it IS a man rather than a bear, but at least he's quiet! But perhaps the biggest crime of all is the revelation that some women opt to wear a bra to bed!! See you next Weds, when we're joined by comedian Chelsea Birkby. The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in September, October AND November. Full info and tickets HERE. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a5e82208327d8bdc762570b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91897961",
+      "itunes_duration": "1:03:48",
+      "speakers": [
+        "Survival Mode",
+        "Candace Bryan",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "survival",
+        "mode",
+        "candace",
+        "bryan"
+      ]
+    },
     {
       "key": "a5b7b368c233b9c23d27ba5d8f1bddd8ec1f378f",
       "title": "Like a Ton of Bricks, with Alex Franklin",
@@ -11386,6 +11410,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-24 — Survival Mode, with Candace Bryan — speakers: Survival Mode, Candace Bryan, Hannah George, Taylor Glenn
 - 2026-07-22 — Like a Ton of Bricks, with Alex Franklin — speakers: Alex Franklin, Hannah George, Taylor Glenn
 - 2026-07-15 — Braver than Braveheart, with Sapphire McIntosh — speakers: Sapphire McIntosh, Hannah George, Taylor Glenn
 - 2026-07-10 — DWSC LIVE: With Harriet Dyer — speakers: Harriet Dyer, Hannah George, Taylor Glenn

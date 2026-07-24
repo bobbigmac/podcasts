@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-22T03:45:03+00:00`
-- checked_at: `2026-07-22T03:45:03+00:00`
-- etag: `"djEuMi4wOjE3ODQ2ODkwNTkzMzg="`
+- fetched_at: `2026-07-24T03:43:16+00:00`
+- checked_at: `2026-07-24T03:43:16+00:00`
+- etag: `"djEuMi4wOjE3ODQ4NjE4NTk0MDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-22T03:45:03+00:00",
+  "fetched_at": "2026-07-24T03:43:16+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "605489ff2fbd8f40e9a40d8f081f43bd72e06445",
+      "title": "Paul Tonkinson on Running Through Sand - Book Club",
+      "published_at": "2026-07-24T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #189 - Running Through Sand - Richard chats remotely with stand up and extreme runner Paul Tonkinson about his attempt to complete the 250km Marathon des Sable through (a little bit of) the Sahara desert. They chat about what drives someone to do such an insane thing, midlife crises, how men don’t talk enough about getting older, working with Michael McIntyre, the wisdom that comes with experience and whether anyone should listen to you, writing a book that is partly about writing the book and having hallucinations in the desert. Buy the book here - https://uk.bookshop.org/p/books/running-through-sand-an-ageing-comedian-s-ill-thought-out-ultra-in-the-sahara-paul-tonkinson/7f395e6f5eac21c8 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1784734246659-4a2f25d9-c854-4a0c-8ad3-3dfac6f0d114.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a60e10244c9eabf3c386477/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24158876",
+      "itunes_duration": "50:19",
+      "speakers": [
+        "Paul Tonkinson",
+        "Richard Herring"
+      ],
+      "topics": [
+        "paul",
+        "tonkinson",
+        "sand",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "4e107d21b241530573c504b01720cdae3137a39b",
       "title": "Chris Cantrill - \"Daily Branch Whack Punishment\"",
@@ -23277,6 +23300,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-24 — Paul Tonkinson on Running Through Sand - Book Club — speakers: Paul Tonkinson, Richard Herring
 - 2026-07-22 — Chris Cantrill - "Daily Branch Whack Punishment" — speakers: Chris Cantrill, Richard Herring
 - 2026-07-20 — Count Binface (Retro) - "House of Losers" — speakers: Count Binface, Richard Herring
 - 2026-07-17 — Turi King on The Secrets of Our DNA - Book Club — speakers: Turi King, Richard Herring

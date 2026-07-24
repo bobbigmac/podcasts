@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-07-23T03:43:53+00:00`
-- checked_at: `2026-07-23T03:43:53+00:00`
-- etag: `"djEuMi4wOjE3ODQ3NzIwMzk0MTc="`
+- fetched_at: `2026-07-24T03:43:16+00:00`
+- checked_at: `2026-07-24T03:43:16+00:00`
+- etag: `"djEuMi4wOjE3ODQ4NTg0MzkzOTU="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-07-23T03:43:53+00:00",
+  "fetched_at": "2026-07-24T03:43:16+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "748dd567a834b822ca281bd07312bd08197e9e51",
+      "title": "S16 Ep 873 Listener’s Mailbag: Sloe Gin and Stand-offs",
+      "published_at": "2026-07-24T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-873-listeners-mailbag-sloe-gin-and-stand-offs",
+      "description": "In this week’s rather low-energy mailbag, there’s a great meeting your hero story, the making of a very slow gin and tonic, a master of comedy writing, a traffic stand-off story, some trouser advice, Park Run questions, thoughts on South East London, more funny names and more serving famous people. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a59d7be7a878a33804a3392/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33537462",
+      "itunes_duration": "34:56",
+      "speakers": [
+        "Sloe Gin",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "sloe",
+        "stand"
+      ]
+    },
     {
       "key": "dc6d4f9da9ab303eb905869c105f93663a71cdb0",
       "title": "S16 Ep 872: Being Naughty and Top 10 Names",
@@ -15612,6 +15635,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-24 — S16 Ep 873 Listener’s Mailbag: Sloe Gin and Stand-offs — speakers: Sloe Gin, Joe Wilkinson, David Earl
 - 2026-07-23 — S16 Ep 872: Being Naughty and Top 10 Names — speakers: Joe Wilkinson, David Earl
 - 2026-07-22 — S16 Ep 871: Mind Reading and Teeth Control — speakers: Mind Reading, Joe Wilkinson, David Earl
 - 2026-07-21 — S16 Ep 870: Accidentally Edgy and The Coffee Crone — speakers: Joe Wilkinson, David Earl

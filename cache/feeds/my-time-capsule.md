@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-07-20T09:33:25+00:00`
-- checked_at: `2026-07-20T09:33:25+00:00`
-- etag: `"djEuMi4wOjE3ODQ1Mzk1OTk2MTM="`
+- fetched_at: `2026-07-24T03:43:16+00:00`
+- checked_at: `2026-07-24T03:43:16+00:00`
+- etag: `"djEuMi4wOjE3ODQ4NDc3NTkyNjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-07-20T09:33:25+00:00",
+  "fetched_at": "2026-07-24T03:43:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,55 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f014a1698d5791c4c11397fc9461b9eae8513776",
+      "title": "Ep. 595 - Rory Cargill - Award-winning comedy performer, writer, actor and filmmaker",
+      "published_at": "2026-07-23T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-595-rory-cargill-award-winning-comedy-performer-writer-ac",
+      "description": "Rory Cargill is an award-winning comedy performer, writer, actor and filmmaker whose work blends brilliantly observed characters with ambitious visual comedy. Often compared to Peter Serafinowicz and described as “the British Chris Lilley” for his remarkable versatility, Rory has built a reputation for disappearing completely into an extraordinary range of comic creations. His debut multimedia sketch show Television 1 was hailed as “the epitome of the Fringe” and “pitch-perfect”, while his comedy short The Astonishing Adventures of Alfred screened at the BAFTA-qualifying Aesthetica Short Film Festival and premiered in the US at the LA Comedy Festival. His online sketches have attracted more than 20 million views, with his hugely popular Indie Boys series featuring collaborations with comedian Kyle Gordon and musicians Kate Nash and The Hoosiers. Rory has also written for television and digital projects, hosted the London comedy night Something or Other, welcoming guests including Fatiha El-Ghorri, Esther Manito and Ania Magliano, and continues to create inventive comedy that combines sharp writing, technical ingenuity and meticulous attention to detail. Rory Cargill is our guest in episode 595 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Buy tickets for Rory Cargill: On TV! at Edinburgh, here - https://www.edfringe.com/tickets/whats-on/rory-cargill-on-tv . Follow Rory Cargill on Instagram : @rorycargill . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a62284d562e3ad886f209e5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77873026",
+      "itunes_duration": "1:04:53",
+      "speakers": [
+        "Rory Cargill"
+      ],
+      "topics": [
+        "rory",
+        "cargill",
+        "award",
+        "comedy",
+        "performer",
+        "writer",
+        "actor",
+        "filmmaker"
+      ]
+    },
+    {
+      "key": "d38c40c0703debcf6f3b4031168957fb9d493985",
+      "title": "My Time Capsule The Dig - Ep. 12 - With Fred MacAulay (Mock the Week, QI, Have I Got News For You)",
+      "published_at": "2026-07-23T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-12-with-fred-macaulay-mock-the-we",
+      "description": "Fred MacAulay was our guest in episode 59 and he returns to have a chat about his old time capsule and let us know where he wants it buried! Fred MacAulay is a Scottish comedian who has been on I’m Sorry I Haven’t a Clue, Just A Minute, The Unbelievable Truth, The News Quiz, Mock the Week, QI and Have I Got News For You. Mike and his producer and son John also find out where this week's MTC guest, Conductor John Wilson, wants to bury his capsule and they interact with listeners via email and voice memos . Listen to Fred MacAulay's orignal episode - https://mytimecapsulepodcast.com/episodes?q=59 . Buy tickets for Fred MacAulay at Edinburgh Fred MacAulay in Conversation - https://tickets.gildedballoon.co.uk/event/14:7139 . Fred MacAulay: Good Evening! - https://tickets.gildedballoon.co.uk/event/14:7146 . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1784817775608-cb028bc5-e9c9-4e9c-9989-adae806b460f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a622b7b4fac21e67fa814ca/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56410299",
+      "itunes_duration": "47:00",
+      "speakers": [
+        "Fred MacAulay"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "fred",
+        "macaulay",
+        "mock",
+        "week",
+        "news"
+      ]
+    },
     {
       "key": "a9f145070d14dd9ebc6f021cafef09da5de5016f",
       "title": "Ep. 594 - John Wilson - Royal Philharmonic Society Award winning conductor of film and orchestral music",
@@ -13031,6 +13080,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-23 — Ep. 595 - Rory Cargill - Award-winning comedy performer, writer, actor and filmmaker — speakers: Rory Cargill
+- 2026-07-23 — My Time Capsule The Dig - Ep. 12 - With Fred MacAulay (Mock the Week, QI, Have I Got News For You) — speakers: Fred MacAulay
 - 2026-07-20 — Ep. 594 - John Wilson - Royal Philharmonic Society Award winning conductor of film and orchestral music — speakers: John Wilson Royal Philharmonic, John Wilson
 - 2026-07-16 — My Time Capsule The Dig - Ep. 11 - With Danny Wallace (Bestselling author and BAFTA-winning broadcaster) — speakers: Danny Wallace
 - 2026-07-13 — Ep. 593 - Brian Bilston - One of the UK's most hilarious and best-loved poets — speakers: Brian Bilston

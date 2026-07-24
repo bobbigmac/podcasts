@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-07-22T03:45:03+00:00`
-- checked_at: `2026-07-22T03:45:03+00:00`
-- etag: `"djEuMi4wOjE3ODQ2NzU3OTkyODE="`
+- fetched_at: `2026-07-24T03:43:16+00:00`
+- checked_at: `2026-07-24T03:43:16+00:00`
+- etag: `"djEuMi4wOjE3ODQ4NDkxOTkyMzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-07-22T03:45:03+00:00",
+  "fetched_at": "2026-07-24T03:43:16+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "6794bcd4e40dcf441497beecdb3f84a068cb150e",
+      "title": "Best Of Distant Pod 9 (pt 2)",
+      "published_at": "2026-07-23T23:26:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/best-of-distant-pod-9-pt-2",
+      "description": "Welcome to Part 2 of the ninth Best Of The Socially Distant Sports Bar . This episode features more of our favourite moments from the regular podcast over the last two years. As we've mentioned before, we don't really do seasons. We don't disappear for a couple of weeks and leave the feed empty while everyone wonders whether we're coming back. We like putting something out every week. So whilst we're taking a short break from the usual routine, we've been digging through the archives and pulling together some of the clips, stories, conversations and moments that have made us laugh most over the last couple of years. Some of these became listener favourites. Some became running jokes. Some have taken on an almost mythical status in Distant Pod history. And some simply made the three of us laugh far more than they probably should have. If you've listened to every episode, hopefully there are a few forgotten classics in here. If you're newer to the podcast, think of this as another guided tour through some of the moments that have helped shape the show. And if you're thinking, \"Hang on, isn't this just a Best Of?\" then yes. But unlike some podcasts, we haven't vanished for two weeks and left you with nothing at all. Part 3 is available now for subscribers via Distant Pod Bonus Club on Apple Podcasts. Thanks for listening, and we'll be back with more brand-new nonsense very soon. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a5a116c62e50b14bd93690e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "168755520",
+      "itunes_duration": "1:10:18",
+      "speakers": [
+        "Distant Sports Bar",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "distant"
+      ]
+    },
     {
       "key": "b3b95a36b23258136f031bc6a49d14cae8466e5a",
       "title": "Best Of Distant Pod 9 (pt 1)",
@@ -15432,6 +15453,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-23 — Best Of Distant Pod 9 (pt 2) — speakers: Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-21 — Best Of Distant Pod 9 (pt 1) — speakers: Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-18 — Timothy Spall: Pint Size — speakers: Timothy Spall, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-16 — Nish Kumar (pt 2) — speakers: Nish Kumar, Elis James, Mike Bubbins, Steff Garrero
