@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-07-17T19:31:46+00:00`
-- checked_at: `2026-07-17T19:31:46+00:00`
-- etag: `"2ad55cf51b0a2e42177514d63f0d853b"`
-- last_modified: `Fri, 17 Jul 2026 18:00:04 GMT`
+- fetched_at: `2026-07-24T19:45:58+00:00`
+- checked_at: `2026-07-24T19:45:58+00:00`
+- etag: `"21c38ee8f94cbb94d880598062955e5f"`
+- last_modified: `Fri, 24 Jul 2026 18:00:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
-  "fetched_at": "2026-07-17T19:31:46+00:00",
+  "fetched_at": "2026-07-24T19:45:58+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,26 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "cbbd2d78c243df2ca1127dd8e8871dd282a4ecd4",
+      "title": "Dead Ringers Ep6. England out, Starmer out, School's out.",
+      "published_at": "2026-07-24T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0ny94rc",
+      "description": "The Dead Ringers team train their vocal firepower on the week’s news. This week: England are out of the World Cup, Starmer is out of office, and Katherine Jenkins has a potty mouth. Starring Jon Culshaw, Jan Ravens, Lewis Macleod, Duncan Wisbey and Jess Robinson. Produced by: Jon Holmes Executive Producer:James Robinson Production Co-ordinator: Giulia Lopes Mazzu A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nsyyph.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nzgc98.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26976000",
+      "itunes_duration": "1686",
+      "speakers": [],
+      "topics": [
+        "dead",
+        "ringers",
+        "england",
+        "starmer",
+        "school"
+      ]
+    },
     {
       "key": "b64c4739afec6111f7a3ab439b24c8d8fd8562a0",
       "title": "Dead Ringers Ep5. The President’s For Overturning",
@@ -5479,6 +5499,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-24 — Dead Ringers Ep6. England out, Starmer out, School's out.
 - 2026-07-17 — Dead Ringers Ep5. The President’s For Overturning — speakers: Dead Ringers
 - 2026-07-10 — Dead Ringers Ep4. Much Ado About North-ing — speakers: Ado About North-ing, Andy Burnham
 - 2026-07-03 — Dead Ringers: Ep3. Heat, Hydration, and Harry Kane — speakers: Harry Kane
