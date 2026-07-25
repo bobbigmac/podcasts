@@ -2,9 +2,9 @@
 
 - slug: `films-to-be-buried-with`
 - source: `https://feeds.megaphone.fm/QCD8204217646`
-- fetched_at: `2026-06-24T15:06:56+00:00`
-- checked_at: `2026-06-24T15:06:56+00:00`
-- last_modified: `Wed, 24 Jun 2026 07:19:00 GMT`
+- fetched_at: `2026-07-25T19:34:02+00:00`
+- checked_at: `2026-07-25T19:34:02+00:00`
+- last_modified: `Sat, 25 Jul 2026 18:51:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.daylightmedia.com",
   "description": "We are born. We die. In between we watch a lot of films. And some of these films shape the people we are. This is a podcast about those films. (And a bit about death). Join comedian, actor, writer and swimmer Brett Goldstein and an extra special weekly guest as they go all the way into life and death by way of movies, to ultimately pick their Films To Be Buried With!",
   "image_url": "https://megaphone.imgix.net/podcasts/62da545e-8f2f-11f0-9e58-1baf95e0da41/image/65bfbef71a41269470b33605de9a35a7.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-06-24T15:06:56+00:00",
+  "fetched_at": "2026-07-25T19:34:02+00:00",
   "owners": [
     "Brett Goldstein"
   ],
