@@ -18,9 +18,9 @@
       "last_modified": "Tue, 21 Jul 2026 10:23:34 GMT"
     },
     "parenting-hell": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967820,
-      "last_modified": "Sat, 25 Jul 2026 08:06:24 GMT"
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976213,
+      "last_modified": "Sat, 25 Jul 2026 09:56:47 GMT"
     },
     "films-to-be-buried-with": {
       "last_checked_at": "2026-07-18T16:10:13+00:00",
@@ -151,8 +151,8 @@
       "etag": "W/\"18a71-YHI5JjXGLbZe8X3KqSGRLRuBgK8\""
     },
     "best-smooth-jazz-host-rod-lucas": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967808,
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976212,
       "etag": "\"e716fa346330e03b4a61ad93b0c2a96c\"",
       "last_modified": "Mon, 13 Jul 2026 10:32:42 GMT"
     },
@@ -255,14 +255,14 @@
       "etag": "\"djEuMi4wOjE3ODQ2ODkyMzk2ODQ=\""
     },
     "oxventure-a-dungeons-dragons-podcast": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967808,
-      "last_modified": "Sat, 25 Jul 2026 08:10:21 GMT",
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976213,
+      "last_modified": "Sat, 25 Jul 2026 10:34:57 GMT",
       "consecutive_failures": 0
     },
     "page-94-the-private-eye-podcast": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967809,
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976212,
       "etag": "W/\"df93f3222fd5ff10e43346dcbd93a2c8\"",
       "last_modified": "Tue, 14 Jul 2026 17:27:27 GMT"
     },
@@ -302,8 +302,8 @@
       "last_modified": "Wed, 22 Jul 2026 01:07:12 GMT"
     },
     "taskmaster-the-podcast": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967817,
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976213,
       "etag": "\"da1c4-6567f99e6c458\"",
       "last_modified": "Mon, 13 Jul 2026 15:18:23 GMT"
     },
@@ -314,8 +314,8 @@
       "last_modified": "Sat, 24 Jan 2026 18:03:29 GMT"
     },
     "the-adam-buxton-podcast": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967817,
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976213,
       "etag": "\"djEuMi4wOjE3ODM1MzQ0NTk0NzM=\""
     },
     "the-apocalypse-players": {
@@ -345,9 +345,9 @@
       "last_modified": "Thu, 23 Jul 2026 09:00:00 GMT"
     },
     "the-rest-is-entertainment": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967817,
-      "last_modified": "Sat, 25 Jul 2026 08:02:51 GMT",
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976213,
+      "last_modified": "Sat, 25 Jul 2026 10:41:21 GMT",
       "consecutive_failures": 0
     },
     "the-plays-of-j-b-priestley": {
@@ -365,13 +365,13 @@
       "disabled_reason": "3 consecutive failures"
     },
     "the-rewind-podcast": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967819,
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976213,
       "etag": "W/\"18f09-CjWPvYATjUwT83zCJSCQvG+TZtM\""
     },
     "the-romesh-ranganathan-show": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967819,
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976213,
       "last_modified": "Sat, 25 Jul 2026 03:48:37 GMT",
       "consecutive_failures": 0
     },
@@ -441,8 +441,8 @@
       "etag": "\"djEuMi4wOjE3ODQ2Nzg0Mzk1NTE=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967822,
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976215,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -469,8 +469,8 @@
       "last_modified": "Sun, 05 Apr 2026 08:32:03 GMT"
     },
     "my-time-capsule": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967822,
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976215,
       "etag": "\"djEuMi4wOjE3ODQ5MTAwNzA4NDU=\""
     },
     "the-moon-under-water": {
@@ -479,15 +479,15 @@
       "etag": "\"djEuMi4wOjE3NjkwOTUzMDkxMTc=\""
     },
     "the-rest-is-politics": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967822,
-      "last_modified": "Sat, 25 Jul 2026 08:22:32 GMT"
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976216,
+      "last_modified": "Sat, 25 Jul 2026 10:31:40 GMT"
     },
     "chatabix": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967823,
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976217,
       "last_modified": "Wed, 13 May 2026 02:00:00 GMT",
-      "etag": "\"djEuMi4wOjE3ODQ4NTg0MzkzOTU=\"",
+      "etag": "\"djEuMi4wOjE3ODQ5NzQ0MjM0NDg=\"",
       "consecutive_failures": 0
     },
     "skewer": {
@@ -497,8 +497,8 @@
       "last_modified": "Tue, 16 Jun 2026 08:52:02 GMT"
     },
     "socially-distant-sports-bar": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967823,
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976220,
       "etag": "\"djEuMi4wOjE3ODQ4ODE5OTQyOTE=\""
     },
     "comedy-of-the-week": {
@@ -544,8 +544,8 @@
       "last_modified": "Sun, 21 Jun 2026 23:05:57 GMT"
     },
     "all-killa-no-filla": {
-      "last_checked_at": "2026-07-25T08:23:23+00:00",
-      "last_checked_unix": 1784967824,
+      "last_checked_at": "2026-07-25T10:43:28+00:00",
+      "last_checked_unix": 1784976221,
       "etag": "\"d7549ebf29f3f6473e58f0bcd2c9ff84\"",
       "last_modified": "Mon, 22 Jun 2026 05:40:26 GMT"
     },
@@ -629,5 +629,5 @@
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-07-25T08:23:23+00:00"
+  "updated_at": "2026-07-25T10:43:28+00:00"
 }
