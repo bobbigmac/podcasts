@@ -28578,6 +28578,28 @@
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "130b051d474550b48db670e9c2adeafd494bbf66",
+        "episode_key": "130b051d474550b48db670e9c2adeafd494bbf66",
+        "title": "Josh Widdicombe XFM #101 Edinburgh Fringe 2015 – James Acaster, Ed Gamble, Joe Lycett, Nish Kumar",
+        "published_at": "2026-07-26T06:24:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The final of the 2015 Edinburgh shows featuring James Acaster (classic scrape 39), Ed Gamble, Joe Lycett, Nish Kumar, Matthew Crosby, Ivo Graham, John Robins, Nathaniel Metcalfe, Tom Neenan, Suzi Ruffell26th August 2015",
+        "audio_url": "https://traffic.megaphone.fm/APO4622641827.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-101-edinburgh-fringe-2015-james/id1866254969?i=1000778385424&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
         "dedupe_key": "e3c5eeb22ddccc15e3be99603b19b883a6b723fa",
         "episode_key": "e3c5eeb22ddccc15e3be99603b19b883a6b723fa",
         "title": "Josh Widdicombe XFM #100 Edinburgh Fringe 2015 – James Acaster, Nish Kumar, Ivo Graham",
