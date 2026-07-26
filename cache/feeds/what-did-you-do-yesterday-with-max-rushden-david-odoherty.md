@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-07-22T08:43:34+00:00`
-- checked_at: `2026-07-22T08:43:34+00:00`
-- etag: `"djEuMi4wOjE3ODQ2OTI4NDAwMTM="`
+- fetched_at: `2026-07-26T03:54:28+00:00`
+- checked_at: `2026-07-26T03:54:28+00:00`
+- etag: `"djEuMi4wOjE3ODUwMzQ4Mzk0MDE="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-07-22T08:43:34+00:00",
+  "fetched_at": "2026-07-26T03:54:28+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2e3171a6cef87c0157889e2846d1c572e2f76a2e",
+      "title": "S5 EP6: Bella Hull",
+      "published_at": "2026-07-26T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s5-ep6-bella-hull",
+      "description": "﻿Joining us on this episode of ' ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ What did you do yesterday? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ' is the comedian Bella Hull. We asked Bella what she did yesterday? She told us. That's it... enjoy! Are you ' IN IT FOR LIFE '? Sign up HERE if you are. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ @yesterdaypod ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1784947026739-558f4fcc-6bd6-4b60-9d6d-6c22dd56c235.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a64abefd198963142df1814/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65187422",
+      "itunes_duration": "1:07:54",
+      "speakers": [
+        "Bella Hull",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "bella",
+        "hull"
+      ]
+    },
     {
       "key": "8a052ce7ccc9d4afd5d657267d16d412ffa5d96c",
       "title": "WDWDY #80.1: Washing Pandora's Carpet (Max's Yesterday)",
@@ -3761,6 +3782,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-26 — S5 EP6: Bella Hull — speakers: Bella Hull, Max Rushden, David O'Doherty
 - 2026-07-22 — WDWDY #80.1: Washing Pandora's Carpet (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-07-19 — S5 EP5: Roger O'Sullivan — speakers: Roger O'Sullivan, Max Rushden, David O'Doherty
 - 2026-07-15 — WDWDY #79.1: I've got a question for you (David's Yesterday) — speakers: Max Rushden, David O'Doherty
