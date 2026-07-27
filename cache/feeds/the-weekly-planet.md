@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-07-23T14:30:15+00:00`
-- checked_at: `2026-07-23T14:30:15+00:00`
-- etag: `"djEuMi4wOjE3ODQ4MTM0MzkyNTM="`
+- fetched_at: `2026-07-27T10:08:09+00:00`
+- checked_at: `2026-07-27T10:08:09+00:00`
+- etag: `"djEuMi4wOjE3ODUxNDEyNTc3ODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-07-23T14:30:15+00:00",
+  "fetched_at": "2026-07-27T10:08:09+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "006a54ea38c55fdee7127a5ca5a21cb7efadce5b",
+      "title": "633 Best & Worst of Comic Con 2026",
+      "published_at": "2026-07-27T08:00:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/633-best-worst-of-comic-con-2026",
+      "description": "Big woos are back for San Diego Comic Con 2026! We’re talking a new Lanterns trailer, Ryan Gosling heads up the Ghost Rider movie, David Jonsson takes on the role of T'Challa II in Black Panther 3, Ryan Reynolds teases Deadpool’s involvement in Avengers: Doomsday and speaking of we have two new trailers that see the X-Men crossover with the Fantastic Four crossed over with The New Avengers crossed over with some but not all of the regular Avengers also Thor can’t hit Doctor Doom with an axe and also Captain America is there. We also discuss a MASSIVE second week for The Odyssey and Elon Musk’s plan to make it even better, trailers for Match: Box The Movie, Blade Runner 2099, Neuromancer, Clayface and Resident Evil. Thanks for listening! New bonus episode of James & Maso's Time Crapsule, the pop culture ranking podcast out now on bigsandwich.co and patreon.com/mrsundaymovies! Plus the Spider-Man: Life Story Booque Clubbe on YouTube Memberships via youtube.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 04:26 The Odyssey Big Success 13:23 The Matchbox Movie Trailer 21:03 Dark Matter S2 Trailer 22:38 Blade Runner 2099 Trailer 25:16 RoboCop Series Still Happening 25:57 Neuromancer Trailer 29:28 Resident Evil Trailer 34:49 Clayface Trailer 38:20 San Diego Comic Con 2026 38:52 Lanterns Panel & Trailer 44:38 Ghost Rider Ryan Gosling Movie 55:07 New Black Panther Casting 01:01:38 Avengers: Doomsday Trailer 01:18:58 Deadpool Lives In His Own Space 01:25:09 Kevin Feige on Blade Movie Failure 01:26:52 What We Reading, What We Gonna Read 01:35:58 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a670ac9614bacdace2fd89d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "166110594",
+      "itunes_duration": "1:55:21",
+      "speakers": [
+        "Ryan Gosling",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "best",
+        "worst",
+        "comic"
+      ]
+    },
     {
       "key": "ec1c8a8d95086dca48b3a6fcc8925b9ec95c11b8",
       "title": "Who Framed Roger Rabbit - Caravan Of Garbage",
@@ -22752,6 +22774,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — 633 Best & Worst of Comic Con 2026 — speakers: Ryan Gosling, James Clement, Nick Mason
 - 2026-07-23 — Who Framed Roger Rabbit - Caravan Of Garbage — speakers: Roger Rabbit Caravan, Roger Rabbit, James Clement, Nick Mason
 - 2026-07-20 — 632 The Odyssey! (big movie) — speakers: Christopther Nolan, James Clement, Nick Mason
 - 2026-07-16 — Gods of Egypt - Caravan Of Garbage — speakers: Christopher Nolan, James Clement, Nick Mason

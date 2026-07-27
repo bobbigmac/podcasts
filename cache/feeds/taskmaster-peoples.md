@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-07-21T11:18:09+00:00`
-- checked_at: `2026-07-21T11:18:09+00:00`
-- etag: `"11600d-6571c6a546679"`
-- last_modified: `Tue, 21 Jul 2026 10:23:34 GMT`
+- fetched_at: `2026-07-27T10:08:09+00:00`
+- checked_at: `2026-07-27T10:08:09+00:00`
+- etag: `"1167ab-65794aa48add7"`
+- last_modified: `Mon, 27 Jul 2026 09:51:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-07-21T11:18:09+00:00",
+  "fetched_at": "2026-07-27T10:08:09+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "10af2c06fe5c6b0f9719434e6c5963d5fdad5b9f",
+      "title": "Remembering Carol - S6, Ep. 8",
+      "published_at": "2026-07-27T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Jenny and Jack revisit series 6 to remember our dear friend of Taskmaster, Carol. Along the way they also remember verruca socks, the importance of the tea cozy test, Alex's pin number, the challenges of dot to dot pictures and the rules around texting yourself. Plus, a listener wonders if Taskmaster contestants should be allowed to play again in another country? We welcome all your Taskmaster thoughts and homework suggestions to fans@taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/0e29f0b0-e58c-4b02-93c8-6c8a2afe944a.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=0e29f0b0-e58c-4b02-93c8-6c8a2afe944a",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62379124",
+      "itunes_duration": "01:01:13",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "carol"
+      ]
+    },
     {
       "key": "3769a4a8b3309a1e6daef699e6462e68680c6777",
       "title": "Trip Nip Slip - S9, Ep.8",
@@ -4728,6 +4747,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — Remembering Carol - S6, Ep. 8 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-07-20 — Trip Nip Slip - S9, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-07-13 — Imagination, Imagination, Broken - S15, Ep. 3 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-07-06 — The Handy Bandy Stand - S10, Ep. 4 — speakers: Danny Dyers, Jenny Eclair, Jack Bernhardt
