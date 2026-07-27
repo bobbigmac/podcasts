@@ -2,6 +2,52 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "2b467cfb1a361c9f34ef4f70fabe1f8fe965fd10",
+        "episode_key": "2b467cfb1a361c9f34ef4f70fabe1f8fe965fd10",
+        "title": "Nish Kumar (Tasting Menu – Live at the Royal Albert Hall)",
+        "published_at": "2026-07-27T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In our final live Tasting Menu episode from the Royal Albert Hall, BFF of the podcast Nish Kumar joins us to talk beef beefs, Ghostbusters reviews and who’s the boss of the Hindus. \nThanks if you came along to any of the Royal Albert Hall shows. We had a lovely time! \nNish Kumar is on tour with ‘Angry Humour From a Rea",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a3bad0997b52d9936248e4e/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar-tasting-menu-live-at-the-royal-albert-hall/id1442950743?i=1000778479564&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "130b051d474550b48db670e9c2adeafd494bbf66",
+        "episode_key": "130b051d474550b48db670e9c2adeafd494bbf66",
+        "title": "Josh Widdicombe XFM #101 Edinburgh Fringe 2015 – James Acaster, Ed Gamble, Joe Lycett, Nish Kumar",
+        "published_at": "2026-07-26T06:24:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The final of the 2015 Edinburgh shows featuring James Acaster (classic scrape 39), Ed Gamble, Joe Lycett, Nish Kumar, Matthew Crosby, Ivo Graham, John Robins, Nathaniel Metcalfe, Tom Neenan, Suzi Ruffell26th August 2015",
+        "audio_url": "https://traffic.megaphone.fm/APO4622641827.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-101-edinburgh-fringe-2015-james/id1866254969?i=1000778385424&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
@@ -5696,6 +5742,52 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "2b467cfb1a361c9f34ef4f70fabe1f8fe965fd10",
+        "episode_key": "2b467cfb1a361c9f34ef4f70fabe1f8fe965fd10",
+        "title": "Nish Kumar (Tasting Menu – Live at the Royal Albert Hall)",
+        "published_at": "2026-07-27T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In our final live Tasting Menu episode from the Royal Albert Hall, BFF of the podcast Nish Kumar joins us to talk beef beefs, Ghostbusters reviews and who’s the boss of the Hindus. \nThanks if you came along to any of the Royal Albert Hall shows. We had a lovely time! \nNish Kumar is on tour with ‘Angry Humour From a Rea",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a3bad0997b52d9936248e4e/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar-tasting-menu-live-at-the-royal-albert-hall/id1442950743?i=1000778479564&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "130b051d474550b48db670e9c2adeafd494bbf66",
+        "episode_key": "130b051d474550b48db670e9c2adeafd494bbf66",
+        "title": "Josh Widdicombe XFM #101 Edinburgh Fringe 2015 – James Acaster, Ed Gamble, Joe Lycett, Nish Kumar",
+        "published_at": "2026-07-26T06:24:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The final of the 2015 Edinburgh shows featuring James Acaster (classic scrape 39), Ed Gamble, Joe Lycett, Nish Kumar, Matthew Crosby, Ivo Graham, John Robins, Nathaniel Metcalfe, Tom Neenan, Suzi Ruffell26th August 2015",
+        "audio_url": "https://traffic.megaphone.fm/APO4622641827.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/josh-widdicombe-xfm-101-edinburgh-fringe-2015-james/id1866254969?i=1000778385424&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",

@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-07-20T04:03:20+00:00`
-- checked_at: `2026-07-20T04:03:20+00:00`
-- last_modified: `Sun, 19 Jul 2026 23:00:37 GMT`
+- fetched_at: `2026-07-27T04:01:04+00:00`
+- checked_at: `2026-07-27T04:01:04+00:00`
+- last_modified: `Mon, 27 Jul 2026 02:12:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-20T04:03:20+00:00",
+  "fetched_at": "2026-07-27T04:01:04+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "230e3491fd2a64de82c4316b10a72cbcb087ccd7",
+      "title": "JOSH PUGH: Mad Benidorm Comedians, Embarrassing Childhood Fantasies, Being Sent to A “Special” School",
+      "published_at": "2026-07-26T23:00:00+00:00",
+      "link": null,
+      "description": "The brilliant Josh Pugh joins Seann walsh for this week's Class Clown where he talks growing up in the Midlands, the hilarious teenage fantasies he had about finding musical success, his comedy influences including Stewart Lee, Lee Evans and a mad performer in Benidorm. Plus he reveals how being sent to a special school due to being partially sighted disrupted his school life. Check out the new ⁠Class Clown merch store and grab yourself a hat, T-Shirt or a Mug⁠! https://classclownpodcast.myshopify.com/ See Seann Walsh on the next leg of his This Is Torture tour! https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7262125668.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2877",
+      "speakers": [
+        "Josh Pugh",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "josh",
+        "pugh",
+        "benidorm",
+        "comedians",
+        "embarrassing",
+        "childhood",
+        "fantasies",
+        "special",
+        "school"
+      ]
+    },
     {
       "key": "255868f0244f4d9a13063da669783c84783aac76",
       "title": "PHIL ELLIS: Arrested by Armed Police, Disastrous Red Dwarf Audition, Airbag Factory Beginnings",
@@ -1696,6 +1723,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-26 — JOSH PUGH: Mad Benidorm Comedians, Embarrassing Childhood Fantasies, Being Sent to A “Special” School — speakers: Josh Pugh, Seann Walsh
 - 2026-07-19 — PHIL ELLIS: Arrested by Armed Police, Disastrous Red Dwarf Audition, Airbag Factory Beginnings — speakers: Phil Ellis, Seann Walsh
 - 2026-07-12 — PHIL ELLIS: Fighting at School, Rik Mayall and Growing Up in Preston — speakers: Rik Mayall, Phil Ellis, Seann Walsh
 - 2026-07-05 — NATALIE CASSIDY: Comedy Dreams, Rough Tabloid Treatment, Being Desperate To Leave School — speakers: Comedy Dreams, Tabloid Treatment, Natalie Cassidy, Seann Walsh

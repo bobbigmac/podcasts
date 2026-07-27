@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-07-20T04:03:20+00:00`
-- checked_at: `2026-07-20T04:03:20+00:00`
-- etag: `"djEuMi4wOjE3ODQ1MTMwMTkyMTU="`
+- fetched_at: `2026-07-27T04:01:04+00:00`
+- checked_at: `2026-07-27T04:01:04+00:00`
+- etag: `"djEuMi4wOjE3ODUxMjEzNTk0MzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-07-20T04:03:20+00:00",
+  "fetched_at": "2026-07-27T04:01:04+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -27,8 +27,27 @@
   ],
   "episodes": [
     {
+      "key": "912b100e03b1060d3faa7eee335b8d5850dafd72",
+      "title": "Top Blairite: Why I'm Not Blairite Anymore",
+      "published_at": "2026-07-27T03:02:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/top-blairite-why-im-not-blairite-anymore",
+      "description": "John McTernan is one of the most fascinating voices on the British left. He worked at the centre of 10 Downing Street as Tony Blair's Political Secretary. But now he's in a slightly different space. His perspective has shifted and he sees new Labour as the end of a different era. Now he believes Labour has to be more left wing. So what's changed? And how many more agree with him? SEE Matt's brand-new stand-up show 'Project Holy Moly' at the Edinburgh Festival 5-30 August: https://www.edfringe.com/tickets/whats-on/matt-forde-project-holy-moly Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a6373ad8c6152b11f89c18e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99265029",
+      "itunes_duration": "1:08:55",
+      "speakers": [
+        "John McTernan",
+        "Matt Forde"
+      ],
+      "topics": [
+        "blairite"
+      ]
+    },
+    {
       "key": "951e755b64a501d8e12cb079cad821b5d243ce19",
-      "title": "Show 412. Dan Neidle",
+      "title": "Dan Neidle",
       "published_at": "2026-07-20T02:03:00+00:00",
       "link": "https://shows.acast.com/the-political-party/episodes/show-412-dan-neidle",
       "description": "Dan is a tax expert. A proper tax expert. You may have seen him on Channel 4 recently getting immensely frustrated with Gary Stevenson about a wealth tax. Dan doesn't agree with a wealth tax and in this fascinating interview he explains why. He also tells us what really happened during the filming of that infamous interview and what bits were left out... See Matt at the Soho Theatre trying out new material, 21-25 July: https://sohotheatre.com/events/matt-forde-work-in-progress-4/ Subscribe to Andrew's new podcast, The Andrew Neil Report: https://open.spotify.com/show/033rtEM2eq993E22SE0vPm See the Political Party Live on Stage: 9 August: Anas Sarwar (Edinburgh) 15 August: Stephen Flynn (Edinburgh) 18 August: Rachel Reeves (Edinburgh) 20 August: Malcolm Offord (Edinburgh) 9 November: Liz Kendall (London) 21 December: Wes Streeting (London) Get tickets for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival: https://www.edfringe.com/tickets/whats-on/matt-forde-project-holy-moly Hosted on Acast. See acast.com/privacy for more information.",
@@ -47,7 +66,7 @@
     },
     {
       "key": "b86479c634449ca2d0912a34462baf8575486212",
-      "title": "Show 411. Andrew Neil",
+      "title": "Andrew Neil",
       "published_at": "2026-07-13T03:00:00+00:00",
       "link": "https://shows.acast.com/the-political-party/episodes/show-411-andrew-neil",
       "description": "The one-and-only Andrew Neil pops in for a gripping hour of political and media analysis. What's it like working for Rupert Murdoch? Has Andrew ever tried to go into politics? What really happened with Bobby Gillespie? All that and so much more! See Matt at the Soho Theatre trying out new material, 21-25 July: https://sohotheatre.com/events/matt-forde-work-in-progress-4/ Subscribe to Andrew's new podcast, The Andrew Neil Report: https://open.spotify.com/show/033rtEM2eq993E22SE0vPm See the Political Party Live on Stage: 9 August: Anas Sarwar (Edinburgh) 15 August: Stephen Flynn (Edinburgh) 18 August: Rachel Reeves (Edinburgh) 20 August: Malcolm Offord (Edinburgh) 9 November: Liz Kendall (London) 21 December: Wes Streeting (London) Get tickets for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival: https://www.edfringe.com/tickets/whats-on/matt-forde-project-holy-moly Hosted on Acast. See acast.com/privacy for more information.",
@@ -67,7 +86,7 @@
     },
     {
       "key": "37eab76bfe5f97395ef08ffa508d9f97cb83f35c",
-      "title": "Show 410. Suzanne Moore",
+      "title": "Suzanne Moore",
       "published_at": "2026-07-06T11:48:04+00:00",
       "link": "https://shows.acast.com/the-political-party/episodes/show-410-suzanne-moore",
       "description": "You're not going to hear anyone else talk about politics like this. Suzanne is an original thinker. From bunking off school and doing acid while selling Marxism Today to ending up writing for The Telegraph. Her route through her career and life is completely unorthodox. She has a truly adventurous take on life and that informs her unique political analysis. This is a one-of-a-kind episode. See the Political Party Live on Stage: 9 August: Anas Sarwar (Edinburgh) 15 August: Stephen Flynn (Edinburgh) 18 August: Rachel Reeves (Edinburgh) 20 August: Malcolm Offord (Edinburgh) 9 November: Liz Kendall (London) 21 December: Wes Streeting (London) Get tickets for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival: https://www.edfringe.com/tickets/whats-on/matt-forde-project-holy-moly Hosted on Acast. See acast.com/privacy for more information.",
@@ -87,7 +106,7 @@
     },
     {
       "key": "39c6ef840909928ed773c551c197a485616edf89",
-      "title": "Show 409 - Andy Burnham - Replay",
+      "title": "Andy Burnham - Replay",
       "published_at": "2026-06-30T10:06:00+00:00",
       "link": "https://shows.acast.com/the-political-party/episodes/show-409-andy-burnham-replay",
       "description": "Let's go back in time five years and see what, if anything, has really changed... In 2021 Andy was Mayor of Manchester but was clearly developing his thinking on where power in the UK lies. This is a great mix of thoughtful political analysis and riveting behind-the-scenes detail as Andy tells the incredible inside story behind his showdowns with the UK and Scottish governments. He also tells the heartbreaking story of the Hlllsborough families' long campaign for justice and his role in changing the Labour government's position, including the moment he stands in front of a packed Anfield at the memorial service. See the Political Party Live on Stage: 9 August: Anas Sarwar (Edinburgh) 15 August: Stephen Flynn (Edinburgh) 18 August: Rachel Reeves (Edinburgh) 20 August: Malcolm Offord (Edinburgh) 9 November: Liz Kendall (London) 21 December: Wes Streeting (London) Get tickets for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival: https://www.edfringe.com/tickets/whats-on/matt-forde-project-holy-moly Hosted on Acast. See acast.com/privacy for more information.",
@@ -97,6 +116,7 @@
       "enclosure_length": "111162159",
       "itunes_duration": "1:17:11",
       "speakers": [
+        "Andy Burnham Replay",
         "Matt Forde"
       ],
       "topics": [
@@ -107,7 +127,7 @@
     },
     {
       "key": "6785a464646fd2d0469dc7adb8d89b1ae59b3e1a",
-      "title": "Show 408. Johann Lamont",
+      "title": "Johann Lamont",
       "published_at": "2026-06-22T10:50:17+00:00",
       "link": "https://shows.acast.com/the-political-party/episodes/show-408-johann-lamont",
       "description": "This. Is. Superb. The former leader of Scottish Labour gives an impassioned and engrossing analysis of everything happening in Scottish and UK politics: · SNP corruption · Triple by-election reaction · Scottish media pig pen · PLUS! Tartan Army action It's everything you'd want and more. THE POLITICAL PARTY LIVE 9 November: Liz Kendall 21 December: Wes Streeting https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE the final dates of Matt's stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows June 26 Bristol 1532 - EXTRA DATE July 3 Basingstoke The Haymarket - EXTRA DATE 8 Birmingham Glee Club - EXTRA DATE 10 Bedford Quarry Theatre - EXTRA DATE 16 Maidenhead Norden Farm - EXTRA DATE DONATE to the RNOH Charity here: https://www. justgiving.com/campaign/mattforde Hosted on Acast. See acast.com/privacy for more information.",
@@ -127,7 +147,7 @@
     },
     {
       "key": "b42851ba711b83f78b9adba867b6f7c5c46b324b",
-      "title": "Show 407. Beeban Kidron",
+      "title": "Beeban Kidron",
       "published_at": "2026-06-15T02:03:00+00:00",
       "link": "https://shows.acast.com/the-political-party/episodes/show-407-beeban-kidron",
       "description": "From Hollywood film director to campaigner against the evils of Big Tech, via the House of Lords. Beeban Kidron is a force of nature and her new book 'Users' charts the rise of Big Tech and crucially tells us how we can fight back. This is a fascinating and hilarious interview with a national asset who has dedicated her life to fighting injustice online. Oh, and there's a cracking story about Patrick Swayze and Wesley Snipes. BUY Beeban's book: https://www.penguin.co.uk/books/480182/users-by-kidron-beeban/9780753562468 THE POLITICAL PARTY LIVE 9 November: Liz Kendall Plus many more to be announced soon! https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE the final dates of Matt's stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows June 15 Leeds City Varieties - EXTRA DATE 16 Glasgow Glee Club - EXTRA DATE 18 Aberdeen Lemon Tree - EXTRA DATE 26 Bristol 1532 - EXTRA DATE July 3 Basingstoke The Haymarket - EXTRA DATE 8 Birmingham Glee Club - EXTRA DATE 10 Bedford Quarry Theatre - EXTRA DATE 16 Maidenhead Norden Farm - EXTRA DATE DONATE to the RNOH Charity here: https://www. justgiving.com/campaign/mattforde Hosted on Acast. See acast.com/privacy for more information.",
@@ -147,7 +167,7 @@
     },
     {
       "key": "91d4b8bb34b60ce25b526dae5ab8fa139fda3b41",
-      "title": "Show 406. Jeremy Hunt",
+      "title": "Jeremy Hunt",
       "published_at": "2026-06-09T03:00:00+00:00",
       "link": "https://shows.acast.com/the-political-party/episodes/show-406-jeremy-hunt",
       "description": "Prepare yourself for a big fat dose of political optimism. Jeremy Hunt is asking a big question: can we be rich again? His latest book seeks to answer this and before he gets into what needs to change, he also believes that there's plenty to be cheerful about. How can the government quickly deliver growth? What makes the UK uniquely placed to benefit from AI? What's his personal best London Marathon time? All this and more in a refreshingly positive take on politics. DONATE to Sarcoma UK https://www.justgiving.com/page/jeremy-remembers-charlie BUY Jeremy's book: https://www.politicos.co.uk/products/can-we-be-rich-again-the-extraordinary-potential-of-the-british-economy-by-jeremy-hunt-coming-5-june THE POLITICAL PARTY LIVE 9 November: Liz Kendall Plus many more to be announced soon! https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE the final dates of Matt's stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows June 9 Liverpool Everyman Theatre 10 Chipping Norton Theatre 12 Norwich Playhouse - EXTRA DATE 14 York The Crescent - EXTRA DATE 15 Leeds City Varieties - EXTRA DATE 16 Glasgow Glee Club - EXTRA DATE 18 Aberdeen Lemon Tree - EXTRA DATE 26 Bristol 1532 - EXTRA DATE July 3 Basingstoke The Haymarket - EXTRA DATE 8 Birmingham Glee Club - EXTRA DATE 10 Bedford Quarry Theatre - EXTRA DATE 16 Maidenhead Norden Farm - EXTRA DATE DONATE to the RNOH Charity here: https://www. justgiving.com/campaign/mattforde Hosted on Acast. See acast.com/privacy for more information.",
@@ -207,7 +227,7 @@
     },
     {
       "key": "a37890060c649c764ae1cf4aad5fa2d3252f98e0",
-      "title": "Show 403. Samantha Niblett",
+      "title": "Samantha Niblett",
       "published_at": "2026-05-19T12:46:46+00:00",
       "link": "https://shows.acast.com/the-political-party/episodes/show-403-samantha-niblett",
       "description": "Samantha was only elected in 2024 but she's already making waves, especially with her 'Yes, Sex Please, We're British' campaign. It's certainly ruffled feathers and we talk about what she wants to achieve with it, what the reaction has been and whether the Prime Minister supports it. Plus, of course, a bit of Labour leadership stuff... THE POLITICAL PARTY LIVE 1 June: Andy Burnham https://nimaxtheatres.com/shows/the-political-party-with-matt-forde/ SEE Matt's brand new stand-up tour 'Defying Calamity' across the UK: https://www.mattforde.com/live-shows Hosted on Acast. See acast.com/privacy for more information.",
@@ -10546,16 +10566,17 @@
 
 ## Episodes (newest first)
 
-- 2026-07-20 — Show 412. Dan Neidle — speakers: Dan Neidle Dan, Matt Forde
-- 2026-07-13 — Show 411. Andrew Neil — speakers: Andrew Neil, Matt Forde
-- 2026-07-06 — Show 410. Suzanne Moore — speakers: Suzanne Moore, Matt Forde
-- 2026-06-30 — Show 409 - Andy Burnham - Replay — speakers: Matt Forde
-- 2026-06-22 — Show 408. Johann Lamont — speakers: Johann Lamont, Matt Forde
-- 2026-06-15 — Show 407. Beeban Kidron — speakers: Beeban Kidron, Matt Forde
-- 2026-06-09 — Show 406. Jeremy Hunt — speakers: Jeremy Hunt Prepare, Jeremy Hunt, Matt Forde
+- 2026-07-27 — Top Blairite: Why I'm Not Blairite Anymore — speakers: John McTernan, Matt Forde
+- 2026-07-20 — Dan Neidle — speakers: Dan Neidle Dan, Matt Forde
+- 2026-07-13 — Andrew Neil — speakers: Andrew Neil, Matt Forde
+- 2026-07-06 — Suzanne Moore — speakers: Suzanne Moore, Matt Forde
+- 2026-06-30 — Andy Burnham - Replay — speakers: Andy Burnham Replay, Matt Forde
+- 2026-06-22 — Johann Lamont — speakers: Johann Lamont, Matt Forde
+- 2026-06-15 — Beeban Kidron — speakers: Beeban Kidron, Matt Forde
+- 2026-06-09 — Jeremy Hunt — speakers: Jeremy Hunt Prepare, Jeremy Hunt, Matt Forde
 - 2026-06-03 — Show 405. Lucy Powell - LIVE — speakers: Matt Forde
 - 2026-05-26 — Show 404. Kieran Andrews — speakers: Kieran Andrews, Matt Forde
-- 2026-05-19 — Show 403. Samantha Niblett — speakers: Samantha Niblett Samantha, Matt Forde
+- 2026-05-19 — Samantha Niblett — speakers: Samantha Niblett Samantha, Matt Forde
 - 2026-05-13 — Show 402. Lewis Goodall — speakers: Lewis Goodall, Labour MPs, Matt Forde
 - 2026-05-04 — Show 401. Steve Baker — speakers: Steve Baker Strap, Steve Baker, Matt Forde
 - 2026-04-27 — Show 400. Andrew Marr - Replay — speakers: Andrew Marr Replay, Matt Forde

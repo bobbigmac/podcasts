@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-07-24T16:56:55+00:00`
-- checked_at: `2026-07-24T16:56:55+00:00`
-- etag: `"djEuMi4wOjE3ODQ5MTAwNzA4NDU="`
+- fetched_at: `2026-07-27T04:01:04+00:00`
+- checked_at: `2026-07-27T04:01:04+00:00`
+- etag: `"djEuMi4wOjE3ODUxMDY5NjAxMDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-07-24T16:56:55+00:00",
+  "fetched_at": "2026-07-27T04:01:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "69f01055bb79e51ac8dc7f77693b58e9bf10b050",
+      "title": "Ep. 596 - Bella Hull - QI, Have I Got News For You, The Last Leg, The News Quiz",
+      "published_at": "2026-07-26T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-596-bella-hull-qi-have-i-got-news-for-you-the-last-leg-th",
+      "description": "Bella Hull is a stand-up comedian, writer and actor whose television credits include QI , Have I Got News For You , The Last Leg , The Stand Up Sketch Show and Comedy Central Live . On radio she’s appeared on BBC Radio 4’s The News Quiz , One Person Found This Helpful , The Naked Truth and You Heard It Here First . She also writes for Saturday Night Live UK and has been nominated for both a Chortle Award and the British Comedy Guide’s Next Big Thing Award. A widely acclaimed live act, Bella regularly plays to sold out crowds both in the UK and abroad. Her most recent live show, Doctors Hate Her, was a smash-hit selling out its entire run at the Edinburgh Fringe Festival 2025 including multiple extra shows . Bella Hull is our guest in episode 596 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Tickets for Bella’s Edinburgh Fringe show, Bella Hull: Mad Cow Disease - https://www.edfringe.com/tickets/whats-on/bella-hull-mad-cow-disease . Follow Bella Hull on Instagram : @bellabellahull . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a6390f6d19896314288ebbc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65435606",
+      "itunes_duration": "54:31",
+      "speakers": [
+        "Bella Hull"
+      ],
+      "topics": [
+        "bella",
+        "hull",
+        "news",
+        "quiz"
+      ]
+    },
     {
       "key": "f014a1698d5791c4c11397fc9461b9eae8513776",
       "title": "Ep. 595 - Rory Cargill - Award-winning comedy performer, writer, actor and filmmaker",
@@ -13080,6 +13101,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-26 — Ep. 596 - Bella Hull - QI, Have I Got News For You, The Last Leg, The News Quiz — speakers: Bella Hull
 - 2026-07-23 — Ep. 595 - Rory Cargill - Award-winning comedy performer, writer, actor and filmmaker — speakers: Rory Cargill
 - 2026-07-23 — My Time Capsule The Dig - Ep. 12 - With Fred MacAulay (Mock the Week, QI, Have I Got News For You) — speakers: Fred MacAulay
 - 2026-07-20 — Ep. 594 - John Wilson - Royal Philharmonic Society Award winning conductor of film and orchestral music — speakers: John Wilson Royal Philharmonic, John Wilson

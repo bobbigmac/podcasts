@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-07-26T19:33:33+00:00`
-- checked_at: `2026-07-26T19:33:33+00:00`
-- last_modified: `Sun, 26 Jul 2026 17:59:28 GMT`
+- fetched_at: `2026-07-27T04:01:04+00:00`
+- checked_at: `2026-07-27T04:01:04+00:00`
+- last_modified: `Mon, 27 Jul 2026 01:42:21 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-26T19:33:33+00:00",
+  "fetched_at": "2026-07-27T04:01:04+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ba70efbd65c126905c6e0551a0346b477bf2dcf0",
+      "title": "Kelly Cates: From Sky Sports News To Match Of The Day",
+      "published_at": "2026-07-26T23:01:00+00:00",
+      "link": null,
+      "description": "What is it really like presenting Match of the Day? In this episode, Romesh is joined by sports broadcaster Kelly Cates to talk about her remarkable career in football journalism, from becoming one of the original faces of Sky Sports News to stepping into the Match of the Day studio. Kelly opens up about growing up surrounded by football, how sports broadcasting has changed over the last three decades and why she deliberately avoids reading comments (good and bad) about her work. They discuss the modern pressures that face footballers today and what it's really like presenting one of the UK's most iconic sports programmes. Plus, there's a maths geek-out, a question from Shanthi, Misquoted and even a message from Jamie Redknapp. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 01:31 A gift for Kelly 02:57 On Ready Steady Cook 05:35 Growing up in football 09:24 A question from Shanthi 10:25 Sport injuries 12:05 On Jamie Redknapp 14:08 A question from Jamie 16:00 Maths geek out 19:30 Sky Sports News 22:22 Broadcast journalism 26:50 Expectations of footballers 27:40 Media & journalism changing 31:13 “Unicorn” footballers 32:43 Match of the Day 37:57 Career progression 41:04 A sidenote on trains 41:48 The World Cup 45:22 Misquoted 55:53 An exclusive 56:18 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b8a7b904-877b-11f1-85b4-43bfaaebaf6d/image/84c8e5e99dc313cf2947f87b9873d5bf.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7776219229.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3576",
+      "speakers": [
+        "Kelly Cates",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "kelly",
+        "cates",
+        "sports",
+        "news",
+        "match"
+      ]
+    },
     {
       "key": "8b066631a54e1bd75faed30dcad2c99101df3aeb",
       "title": "Shanthi’s Suspicions, Monkey Bites & Stage Names",
@@ -2012,6 +2035,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-26 — Kelly Cates: From Sky Sports News To Match Of The Day — speakers: Kelly Cates, Romesh Ranganathan
 - 2026-07-22 — Shanthi’s Suspicions, Monkey Bites & Stage Names — speakers: Romesh Ranganathan
 - 2026-07-19 — Judi Love On Self-Care, Posh Gyms & Comedy Acting — speakers: Posh Gyms, Comedy Acting How, Judi Love, Romesh Ranganathan
 - 2026-07-15 — Shanthi Teaches Romesh How To Interview — speakers: Romesh Ranganathan

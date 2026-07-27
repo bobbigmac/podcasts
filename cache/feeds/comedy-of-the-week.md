@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-07-20T09:33:25+00:00`
-- checked_at: `2026-07-20T09:33:25+00:00`
-- etag: `"df09f7e0ce80528d5cfc05344e695e51"`
-- last_modified: `Mon, 20 Jul 2026 04:00:04 GMT`
+- fetched_at: `2026-07-27T04:01:04+00:00`
+- checked_at: `2026-07-27T04:01:04+00:00`
+- etag: `"6894420c997769b3dd83158abceffeb9"`
+- last_modified: `Mon, 27 Jul 2026 04:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-07-20T09:33:25+00:00",
+  "fetched_at": "2026-07-27T04:01:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "8a71d3babe8a2b99142201ea5de624db0408a21f",
+      "title": "Current-ish",
+      "published_at": "2026-07-27T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p0q48f",
+      "description": "Lucy Porter is joined by John Tothill, Kyrah Gray and Amy Annette to talk all things current-ish events. Should politicians wear ties? Should children learn to read? And should we all now identify as Spanish? Hosted by Lucy Porter Written by Lucy Porter, Ruth Husko and Katie Sayer, with additional material by Mike Shephard Producer - Katie Sayer Assistant producer - Lorna Reader Executive producer - Victoria Lloyd A Mighty Bunny production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p0q1y9.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27456000",
+      "itunes_duration": "1716",
+      "speakers": [
+        "Lucy Porter",
+        "John Tothill",
+        "Kyrah Gray",
+        "Amy Annette"
+      ],
+      "topics": []
+    },
     {
       "key": "ddf2c9635986be45ef361a7f8aadec3d91324d7f",
       "title": "Sunil Patel: An Idiot's Guide To Living Forever",
@@ -994,26 +1013,6 @@
         "lindsey",
         "santoro"
       ]
-    },
-    {
-      "key": "595b62ea2e368d1e042138f9ea47c54e87ee1e08",
-      "title": "Kat Sadler's Screen Time",
-      "published_at": "2025-07-21T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lr0wd8",
-      "description": "Industry heartthrob and nation's sweetheart Kat is on her way to an exciting product launch in a long car, with long suffering sidekick Alex Macqueen. On the way, she shares the secrets of her success, and how series one of Screen Time made her the most famous woman to ever grace the UK. Now that she's the biggest influencer ever, Kat teaches you how you can stop being a big normo and maximise your online brand. Hear her improve her appearance with a novel technique at the gym, convene a writers room to work out how to appear most relatable, and purify her brand by cutting off an old friend who's just got the worst news a person can receive. He's been cancelled. And she barely thinks about Abbie at all! To listen to more from this series, search \"Kat Sadler's Screen Time\" on BBC Sounds. Cast Kat Sadler - Kat Alex MacQueen - Alex Abbie Weinstock - Abbie Al Roberts - Toby Lizzie Davidson - Various Jason Forbes - Various Written by Kat Sadler and Cameron Loxdale Production Coordinator - Caroline Barlow Executive Producer - Pete Strauss Sound Design - Rich Evans Recorded by Neil Goody at Premises Studios Produced by Gwyn Rhys Davies. A BBC Studios Production for Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lr0qwv.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27344000",
-      "itunes_duration": "1709",
-      "speakers": [
-        "Kat Sadler"
-      ],
-      "topics": [
-        "sadler",
-        "screen",
-        "time"
-      ]
     }
   ]
 }
@@ -1022,6 +1021,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — Current-ish — speakers: Lucy Porter, John Tothill, Kyrah Gray, Amy Annette
 - 2026-07-20 — Sunil Patel: An Idiot's Guide To Living Forever — speakers: Sunil Patel, Comedian Sunil Patel
 - 2026-07-13 — Dead Ringers
 - 2026-07-06 — The Big Idea with Alistair Green — speakers: Tabitha Beckworth
@@ -1072,4 +1072,3 @@
 - 2025-08-11 — Oliver Callan Bins the Border — speakers: Oliver Callan Bins, Oliver Callan
 - 2025-08-04 — Crybabies Present... — speakers: Jeremy Moleskine
 - 2025-07-28 — The Lively Life of Lindsey Santoro
-- 2025-07-21 — Kat Sadler's Screen Time — speakers: Kat Sadler

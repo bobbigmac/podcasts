@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-24T03:43:16+00:00`
-- checked_at: `2026-07-24T03:43:16+00:00`
-- etag: `"djEuMi4wOjE3ODQ4NjE4NTk0MDc="`
+- fetched_at: `2026-07-27T04:01:04+00:00`
+- checked_at: `2026-07-27T04:01:04+00:00`
+- etag: `"djEuMi4wOjE3ODUxMjEwNTkzNDQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-24T03:43:16+00:00",
+  "fetched_at": "2026-07-27T04:01:04+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,55 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9e0142413063912722e1c1d9e0a8644d40f49863",
+      "title": "Janet Ellis (Retro) - \"Blew Peter\"",
+      "published_at": "2026-07-27T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#443 Blew Peter - Richard has not drunk alcohol for 27 months, but should he go back to his drunken (and more amusing ways). As is now traditional his final guest of the series is a member of the Ellis family, it’s the brilliant Janet Ellis. They discuss day time drinking with John Thaw and Dennis Waterman, the irritatingly slow speed of K9 from Doctor Who and the embarrassing googlewhack that happened when Richard searched for his favourite episode of Jigsaw. Plus the sinister presence of Noseybonk, the health and safety nightmare of 1980s Blue Peter, being a nepo mum and what prompted her to become a novelist and the potential awkwardness of reading the steamier bits for the audiobook. Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1785080684036-b7257522-1e39-45c0-8f57-5d66eaae1ed3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a662564a51cbd54e210320b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29208241",
+      "itunes_duration": "1:00:51",
+      "speakers": [
+        "Janet Ellis",
+        "Blew Peter Richard",
+        "Richard Herring"
+      ],
+      "topics": [
+        "janet",
+        "ellis",
+        "retro",
+        "blew",
+        "peter"
+      ]
+    },
+    {
+      "key": "8f5507b8b81d7a494ab05549a65f596ad126fa18",
+      "title": "Rich and Ally's Craven Newsround Compilation \" Deam Me Up, Scotty\"",
+      "published_at": "2026-07-26T11:46:11+00:00",
+      "link": "https://shows.acast.com/rhlstp/episodes/rich-and-allys-craven-newsround-compilation-deam-me-up-scott",
+      "description": "Deam Me Up, Scotty - Rich and Ally are back, if only briefly, for more news that the lamestream media ignores. Today some bad news for fans of dogs and Doctor Who as Richard questions the wisdom of the royals using a Tardis. And then an exciting adventure as someone steals the time machine and makes diabolical plans. Should Ally be the new Doctor? Could be! See Rich at the Ed Fringe http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1785066026572-2180e975-09fe-4c29-b0ec-d002ba6d710f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a65f3638c6152b11f40a6d0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "7928476",
+      "itunes_duration": "16:31",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "Deam Me Up",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "deam",
+        "scotty"
+      ]
+    },
     {
       "key": "605489ff2fbd8f40e9a40d8f081f43bd72e06445",
       "title": "Paul Tonkinson on Running Through Sand - Book Club",
@@ -23300,6 +23349,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — Janet Ellis (Retro) - "Blew Peter" — speakers: Janet Ellis, Blew Peter Richard, Richard Herring
+- 2026-07-26 — Rich and Ally's Craven Newsround Compilation " Deam Me Up, Scotty" — speakers: Craven Newsround Compilation, Deam Me Up, Richard Herring
 - 2026-07-24 — Paul Tonkinson on Running Through Sand - Book Club — speakers: Paul Tonkinson, Richard Herring
 - 2026-07-22 — Chris Cantrill - "Daily Branch Whack Punishment" — speakers: Chris Cantrill, Richard Herring
 - 2026-07-20 — Count Binface (Retro) - "House of Losers" — speakers: Count Binface, Richard Herring
