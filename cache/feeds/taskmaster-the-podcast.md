@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-07-13T17:22:54+00:00`
-- checked_at: `2026-07-13T17:22:54+00:00`
-- etag: `"da1c4-6567f99e6c458"`
-- last_modified: `Mon, 13 Jul 2026 15:18:23 GMT`
+- fetched_at: `2026-07-27T22:17:32+00:00`
+- checked_at: `2026-07-27T22:17:32+00:00`
+- etag: `"dac6c-6579e030cfab0"`
+- last_modified: `Mon, 27 Jul 2026 21:00:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-07-13T17:22:54+00:00",
+  "fetched_at": "2026-07-27T22:17:32+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "745459a83e4f073fb67838d14a93abd81569083f",
+      "title": "Taskmaster The Podcast Rewind - Series 1 Ep2 with Tim Key",
+      "published_at": "2026-07-27T21:00:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "On the podcast this week we go all the way back to Series One and revisit our first podcast with Tim Key! Tim Key is a comedian, actor, writer, poet and movie star but on this podcast (recorded in January 2021 in the UK's third lockdown!) he was discussing Series One of the show, why he hated high fiving a 55 year old and what the role of Task Consultant really involves! Ed even got the lowdown on the infamous trip to Cologne! For all the latest Tim Key news go to timkey.co.uk Visit the Taskmaster YouTube channel youtube.com/taskmaster For all your Taskmaster news go to Taskmaster.tv and if you want to catch up on old series' go to Channel4.com",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/f96b2322-8fcf-4077-8ff4-e1f6038b0a69.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=f96b2322-8fcf-4077-8ff4-e1f6038b0a69",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55523695",
+      "itunes_duration": "57:58",
+      "speakers": [
+        "Tim Key",
+        "Ed Gamble"
+      ],
+      "topics": [
+        "taskmaster",
+        "podcast",
+        "rewind",
+        "series"
+      ]
+    },
     {
       "key": "dcd1592defd0c8260b00d2cf4c446e16b878b9da",
       "title": "Taskmaster: The People's Podcast: Imagination, Imagination, Broken - S15, Ep. 3",
@@ -5525,6 +5547,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — Taskmaster The Podcast Rewind - Series 1 Ep2 with Tim Key — speakers: Tim Key, Ed Gamble
 - 2026-07-13 — Taskmaster: The People's Podcast: Imagination, Imagination, Broken - S15, Ep. 3 — speakers: Ed Gamble
 - 2026-07-03 — Taskmaster the Podcast *Best of Series 21* Part Two — speakers: Ed Gamble
 - 2026-06-25 — Taskmaster the Podcast *Best of Series 21* Part One — speakers: Ed Gamble

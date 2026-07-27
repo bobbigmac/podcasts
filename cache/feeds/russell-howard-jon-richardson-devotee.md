@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-07-27T10:08:09+00:00`
-- checked_at: `2026-07-27T10:08:09+00:00`
-- etag: `W/"48811-+06WC/KLoPN3FO0spcTGOx7DxKw"`
+- fetched_at: `2026-07-27T22:17:32+00:00`
+- checked_at: `2026-07-27T22:17:32+00:00`
+- etag: `W/"48402-DiVY5vWv8gPN4DQRPxHcxXyuBsQ"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-07-27T10:08:09+00:00",
+  "fetched_at": "2026-07-27T22:17:32+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -2545,28 +2545,6 @@
         "classic",
         "scrape",
         "lycett"
-      ]
-    },
-    {
-      "key": "9b58702f5b7ef86c0a990e27f9ae267487a929a5",
-      "title": "All James Acaster's Scrapes from Josh Widdicombe XFM",
-      "published_at": "2026-04-21T17:56:23+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/All-James-Acasters-Scrapes-from-Josh-Widdicombe-XFM-e3i8dkd",
-      "description": "All James Acaster's Scrapes from Josh Widdicombe XFM",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1776793854242-a31618d04ea2a.jpg",
-      "enclosure_url": "https://traffic.megaphone.fm/APO2994658501.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "371698624",
-      "itunes_duration": "06:27:11",
-      "speakers": [
-        "James Acaster"
-      ],
-      "topics": [
-        "james",
-        "acaster",
-        "scrapes",
-        "josh",
-        "widdicombe"
       ]
     },
     {
@@ -5683,7 +5661,6 @@
 - 2026-04-27 — Josh Widdicombe XFM #3 – James Acaster Classic Scrape 3, Joe Lycett on The Pope. — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster
 - 2026-04-26 — Josh Widdicombe XFM #2 – James Acaster Classic Scrape 2, Joe Lycett on Richard III — speakers: James Acaster Classic Scrape, Joe Lycett, Richard Iii, James Acaster
 - 2026-04-23 — Josh Widdicombe XFM #1 - Stephen Merchant, James Acaster Classic Scrape, Joe Lycett — speakers: James Acaster Classic Scrape, Joe Lycett Ricky Gervais, Josh Widdicombe, Stephen Merchant
-- 2026-04-21 — All James Acaster's Scrapes from Josh Widdicombe XFM — speakers: James Acaster
 - 2026-04-19 — BetaBet The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-04-16 — John's Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-04-15 — Elis' Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins, Elis James
