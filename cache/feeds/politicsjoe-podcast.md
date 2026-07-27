@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-07-16T08:33:40+00:00`
-- checked_at: `2026-07-16T08:33:40+00:00`
-- etag: `"djEuMi4wOjE3ODQxMzM4NzgyNjY="`
+- fetched_at: `2026-07-27T15:12:35+00:00`
+- checked_at: `2026-07-27T15:12:35+00:00`
+- etag: `"djEuMi4wOjE3ODUwNDIwMzk0Njc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,58 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-07-16T08:33:40+00:00",
+  "fetched_at": "2026-07-27T15:12:35+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "8829c1e4598172d78a92d8616d4d04bea321058f",
+      "title": "Gerry Adams on Andy Burnham, the far-right, and the breakup of the UK",
+      "published_at": "2026-07-26T05:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a636da2614bacdace2412e4",
+      "description": "Gerry Adams is one of the most significant political figures on these islands of the last fifty years, and he has taken time out of his busy schedule to speak to PoliticsJOE. In a conversation just days before the coronation of Andy Burnham and days after the burning of nationalist effigies on bonfires across his hometown, Adams speaks to us about the necessary next steps for Burnham's government, how to quell the rise of the far-right, and how to prepare for the end of the union with Britain. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a636da2614bacdace2412e4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86127123",
+      "itunes_duration": "44:50",
+      "speakers": [
+        "Gerry Adams",
+        "Andy Burnham"
+      ],
+      "topics": [
+        "gerry",
+        "adams",
+        "andy",
+        "burnham",
+        "right",
+        "breakup"
+      ]
+    },
+    {
+      "key": "a48512694282fc831339e83df5e4042ddb51ab9f",
+      "title": "How The UK Is Letting Silicon Valley Take Over | Beeban Kidron interview",
+      "published_at": "2026-07-19T05:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a57b85e6f1292268651e850",
+      "description": "Baroness Beeban Kidron is a filmmaker and tech campaigner, and she joined Ava at Sunday Papers Live recently to speak about her book Users: How Big Tech Took Control and How to Fight Back. During the course of the conversation, Kidron breaks down the ways in which big tech have wormed their way into democracy to warp regulatory structures for their own benefit. She also explains how they've knowingly harmed the lives of their users, and offers solutions for governments to fight back. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a57b85e6f1292268651e850/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34214974",
+      "itunes_duration": "35:38",
+      "speakers": [
+        "Beeban Kidron"
+      ],
+      "topics": [
+        "silicon",
+        "valley",
+        "beeban",
+        "kidron"
+      ]
+    },
     {
       "key": "cc4cc69826ed1e1b45853fb34ba72096a72531af",
       "title": "What does Andy Burnham’s Britain look like?",
@@ -13509,6 +13554,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-26 — Gerry Adams on Andy Burnham, the far-right, and the breakup of the UK — speakers: Gerry Adams, Andy Burnham
+- 2026-07-19 — How The UK Is Letting Silicon Valley Take Over | Beeban Kidron interview — speakers: Beeban Kidron
 - 2026-07-09 — What does Andy Burnham’s Britain look like? — speakers: Andy Burnham
 - 2026-07-08 — Nigel Farage's resignation stunt backfires | PMQs reaction
 - 2026-07-07 — I exposed Nigel Farage's criminal benefactor | Sunday Times Investigation

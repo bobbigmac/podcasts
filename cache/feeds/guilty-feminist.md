@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-07-20T14:32:47+00:00`
-- checked_at: `2026-07-20T14:32:47+00:00`
-- last_modified: `Mon, 20 Jul 2026 11:00:40 GMT`
+- fetched_at: `2026-07-27T15:12:35+00:00`
+- checked_at: `2026-07-27T15:12:35+00:00`
+- last_modified: `Mon, 27 Jul 2026 14:11:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-20T14:32:47+00:00",
+  "fetched_at": "2026-07-27T15:12:35+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -28,11 +28,43 @@
   ],
   "episodes": [
     {
+      "key": "488c143860544c08b891eef8e6d5ef06267c7e31",
+      "title": "493. Edinburgh Previews with Alice Fraser, Katie Pritchard, Rosie Holt and Jess Robinson",
+      "published_at": "2026-07-27T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 493. Edinburgh Previews. Presented by Deborah Frances-White with very special guests Alice Fraser, Katie Pritchard, Rosie Holt and Jess Robinson Recorded 14 July 2026 at the Soho Theatre. Released 27 July. The Guilty Feminist theme composed by Mark Hodge. The Storytelling Leadership Academy is an eight-week online course for leaders who need to find their voice and tell their story. For more information and to register, click here. https://www.the-spontaneity-shop.com/storytelling-academy/ More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about our guests https://www.edfringe.com/tickets/whats-on/alice-fraser-oh-man https://www.edfringe.com/tickets/whats-on/katie-pritchard-is-sir-elton-scone https://www.edfringe.com/tickets/whats-on/rosie-holt-the-illegal-aliens-have-landed https://www.edfringe.com/tickets/whats-on/jess-robinson-elton-reimagined For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show The Guilty Feminist x The Circle NGO . https://www.wildernessfestival.com/experiences/talks/the-guilty-feminist-x-the-circle-ngo-co-founded-by-annie-lennox-from-ideals-to-action Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ DreamDate . https://www.edfringe.com/tickets/whats-on/deborah-frances-white-dreamdate Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b0e4e382-88fb-11f1-bdd3-7b72e6558b37/image/43d2458bc6e6a27b389e2b40cb180dbd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL4592882649.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5210",
+      "speakers": [
+        "Edinburgh Previews",
+        "Alice Fraser",
+        "Katie Pritchard",
+        "Rosie Holt",
+        "Jess Robinson",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "edinburgh",
+        "previews",
+        "alice",
+        "fraser",
+        "katie",
+        "pritchard",
+        "rosie",
+        "holt",
+        "jess",
+        "robinson"
+      ]
+    },
+    {
       "key": "d24b37928b9074390ede2923c77db80b072299d6",
       "title": "492. Edinburgh Previews with Sara Barron, Reb Day, Freya Parker and Anna Leong Brophy",
       "published_at": "2026-07-20T11:00:00+00:00",
       "link": null,
-      "description": "The Guilty Feminist 492. Edinburgh Previews. Presented by Deborah Frances-White with very special guests Sara Barron, Reb Day, Freya Parker and Anna Leong Brophy. Recorded 7 July 2026 at the Soho Theatre. Released 20 July. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about our guests https://www.instagram.com/sarabarron1000000 https://www.edfringe.com/tickets/whats-on/best-of-so-you-think-you-re-funny https://www.edfringe.com/tickets/whats-on/freya-parker-an-hour-of-decay https://www.edfringe.com/tickets/whats-on/anna-leong-brophy-born-sexy-yesterday https://www.youtube.com/watch?v=J4TTuctEC4Q For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show The Guilty Feminist x The Circle NGO . https://www.wildernessfestival.com/experiences/talks/the-guilty-feminist-x-the-circle-ngo-co-founded-by-annie-lennox-from-ideals-to-action Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ DreamDate . https://www.edfringe.com/tickets/whats-on/deborah-frances-white-dreamdate Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "The Guilty Feminist 492. Edinburgh Previews. Presented by Deborah Frances-White with very special guests Sara Barron, Reb Day, Freya Parker and Anna Leong Brophy. Recorded 7 July 2026 at the Soho Theatre. Released 20 July. The Guilty Feminist theme composed by Mark Hodge. Get Deborah’s new book with 30% off using the code SIXCONVERSATIONSPOD https://store.virago.co.uk/products/six-conversations-were-scared-to-have Get ahead of your to-do list with £10 off your first task at Taskrabbit.co.uk or on the Taskrabbit app and use the promo code GUILTYTASK10 More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about our guests https://www.instagram.com/sarabarron1000000 https://www.edfringe.com/tickets/whats-on/best-of-so-you-think-you-re-funny https://www.edfringe.com/tickets/whats-on/freya-parker-an-hour-of-decay https://www.edfringe.com/tickets/whats-on/anna-leong-brophy-born-sexy-yesterday https://www.youtube.com/watch?v=J4TTuctEC4Q For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show The Guilty Feminist x The Circle NGO . https://www.wildernessfestival.com/experiences/talks/the-guilty-feminist-x-the-circle-ngo-co-founded-by-annie-lennox-from-ideals-to-action Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ DreamDate . https://www.edfringe.com/tickets/whats-on/deborah-frances-white-dreamdate Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/cc6d35a0-80fe-11f1-b0e0-576eef172a77/image/a67ee90f4a70107a9bab87474933bb7d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL1268061540.mp3",
       "enclosure_type": "audio/mpeg",
@@ -18320,6 +18352,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — 493. Edinburgh Previews with Alice Fraser, Katie Pritchard, Rosie Holt and Jess Robinson — speakers: Edinburgh Previews, Alice Fraser, Katie Pritchard, Rosie Holt, Jess Robinson, Deborah Frances-White
 - 2026-07-20 — 492. Edinburgh Previews with Sara Barron, Reb Day, Freya Parker and Anna Leong Brophy — speakers: Edinburgh Previews, Sara Barron, Freya Parker, Anna Leong Brophy, Deborah Frances-White
 - 2026-07-13 — 491. In Conversation with Dame Tracey Emin — speakers: Deborah Frances-White
 - 2026-07-06 — 490. Live from the Charleston Festival, with Rose McGowan — speakers: Rose McGowan, Guilty Feminist, Deborah Frances-White
