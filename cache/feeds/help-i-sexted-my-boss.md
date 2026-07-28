@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-07-24T08:41:38+00:00`
-- checked_at: `2026-07-24T08:41:38+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RRNE5qa3lNems0TURJPTo6c2F4ZXNz"`
+- fetched_at: `2026-07-28T08:50:52+00:00`
+- checked_at: `2026-07-28T08:50:52+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RVeU1UUTRNemsyT1RZPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-07-24T08:41:38+00:00",
+  "fetched_at": "2026-07-28T08:50:52+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "df791d25c587eadc61293c37d2917c245f73b431",
+      "title": "Help I Left My Sunnies At My Situationship | And Jordan Can’t Speak",
+      "published_at": "2026-07-28T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-i-left-my-sunnies-at-my-situationship-and-jordan-cant-s",
+      "description": "Jordan's convinced the flavour of chocolate has changed, William's suddenly obsessed with crocs (not the shoes) and one G&Diva needs to convince their ex situationship they're not trying to exchange their sunglasses for a shag. Download SAILY in your app store and use the Sexted code HOLIDAYEXPERT at checkout to get an exclusive 15% off your first purchase! For further details go to https://saily.com/holidayexpert Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1785145661863-bb122c63-68e7-4937-a85b-47e014f81b33.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a63315ee541cb3152045d05/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=z0UQlJbACqShJMD2ZhcnMHPyqDL-Gw9LLDp10LwZYrM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37963232",
+      "itunes_duration": "39:32",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "sunnie",
+        "situationship",
+        "jordan"
+      ]
+    },
     {
       "key": "01805a753c44c83f3fe5fb3658d6f9108e7613b1",
       "title": "The Etiquette Police Come For William Hanson | And Sexytime AC",
@@ -14739,6 +14760,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-28 — Help I Left My Sunnies At My Situationship | And Jordan Can’t Speak — speakers: William Hanson, Jordan North
 - 2026-07-24 — The Etiquette Police Come For William Hanson | And Sexytime AC — speakers: William Hanson, Jordan North
 - 2026-07-21 — Help My Dentist Proposed To Me | And We’re All Miserable… — speakers: Jordan North, William Hanson
 - 2026-07-17 — Mistaken Identities | And Skinny Dipping Fun — speakers: Mistaken Identities, William Hanson, Jordan North

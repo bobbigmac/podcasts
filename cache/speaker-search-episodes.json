@@ -2,6 +2,28 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:3ac075ed5c32",
+        "feed_title": "British Comedy Devotee",
+        "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
+        "dedupe_key": "6b56bfb1ff80854256e0ad17a2607288a52773b8",
+        "episode_key": "6b56bfb1ff80854256e0ad17a2607288a52773b8",
+        "title": "Best of James Acaster Podcast - Fubar Radio",
+        "published_at": "2026-07-27T05:44:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Best of James Acaster Podcast Fubar Radio",
+        "audio_url": "https://traffic.megaphone.fm/APO4165689827.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/best-of-james-acaster-podcast-fubar-radio/id1866254969?i=1000778496633&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
