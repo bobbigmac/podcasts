@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-07-21T03:44:04+00:00`
-- checked_at: `2026-07-21T03:44:04+00:00`
-- etag: `W/"412ac-bnMyCza8zYvepxZz3QVWLvbuUT4"`
+- fetched_at: `2026-07-28T03:33:59+00:00`
+- checked_at: `2026-07-28T03:33:59+00:00`
+- etag: `W/"419e1-lbFPditdFBekdcOuqeJQw27cUDE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-07-21T03:44:04+00:00",
+  "fetched_at": "2026-07-28T03:33:59+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "9a5b4824ffd8e4660b833ac24a4f380daaf7f6ca",
+      "title": "Asymmetric Horror Games And Why They're Good | Windbreaker Podcast",
+      "published_at": "2026-07-28T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Asymmetric-Horror-Games-And-Why-Theyre-Good--Windbreaker-Podcast-e3mkctk",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Jesse Galena discuss about the wonderful world of asymmetric horror games. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8013918620.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68565947",
+      "itunes_duration": "01:10:39",
+      "speakers": [
+        "Jesse Galena",
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "asymmetric",
+        "horror",
+        "games",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "b8e55401810839d491fca508fe52512b49d0826d",
       "title": "Let’s Make Yahtzee and JM8 Choose Their Favorites | Windbreaker Podcast",
@@ -3083,6 +3107,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-28 — Asymmetric Horror Games And Why They're Good | Windbreaker Podcast — speakers: Jesse Galena, Yahtzee Croshaw, Marty Sliva
 - 2026-07-21 — Let’s Make Yahtzee and JM8 Choose Their Favorites | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-07-14 — 2D vs 3D | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-07-07 — The British Games Are Coming! | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

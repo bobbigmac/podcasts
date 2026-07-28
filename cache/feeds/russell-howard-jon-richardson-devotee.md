@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-07-27T22:17:32+00:00`
-- checked_at: `2026-07-27T22:17:32+00:00`
-- etag: `W/"48402-DiVY5vWv8gPN4DQRPxHcxXyuBsQ"`
+- fetched_at: `2026-07-28T03:33:59+00:00`
+- checked_at: `2026-07-28T03:33:59+00:00`
+- etag: `W/"487e7-sjdrNZCHeUcjOmCTRmEaaQ4m9zM"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-07-27T22:17:32+00:00",
+  "fetched_at": "2026-07-28T03:33:59+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "0a50fcf5ffbb64306a63ee5908c1660022b6cf5d",
+      "title": "Fall Asleep To All of JAMES ACASTERS SCRAPES from the Josh Widdicombe XFM SHOW",
+      "published_at": "2026-07-27T21:36:31+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Fall-Asleep-To-All-of-JAMES-ACASTERS-SCRAPES-from-the-Josh-Widdicombe-XFM-SHOW-e3mkdsk",
+      "description": "CABBAGE",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785187638249-70912709c161c.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4322904586.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "370899486",
+      "itunes_duration": "06:26:21",
+      "speakers": [
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "asleep",
+        "james",
+        "acasters",
+        "scrapes",
+        "josh",
+        "widdicombe"
+      ]
+    },
     {
       "key": "772a016e68f928b9fc961caf2ab829f6c4fec996",
       "title": "Best of James Acaster Podcast - Fubar Radio",
@@ -5563,6 +5586,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — Fall Asleep To All of JAMES ACASTERS SCRAPES from the Josh Widdicombe XFM SHOW — speakers: Josh Widdicombe
 - 2026-07-27 — Best of James Acaster Podcast - Fubar Radio — speakers: Fubar Radio
 - 2026-07-26 — Josh Widdicombe XFM #101 Edinburgh Fringe 2015 – James Acaster, Ed Gamble, Joe Lycett, Nish Kumar — speakers: Edinburgh Fringe, James Acaster, Ed Gamble, Joe Lycett, Joe Ly
 - 2026-07-25 — Josh Widdicombe XFM #100 Edinburgh Fringe 2015 – James Acaster, Nish Kumar, Ivo Graham — speakers: Edinburgh Fringe, James Acaster, Ivo Graham, Nish Kumar

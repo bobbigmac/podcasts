@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-07-27T04:01:04+00:00`
-- checked_at: `2026-07-27T04:01:04+00:00`
-- etag: `"djEuMi4wOjE3ODUxMTc2Mzk0NDI="`
+- fetched_at: `2026-07-28T03:33:59+00:00`
+- checked_at: `2026-07-28T03:33:59+00:00`
+- etag: `"djEuMi4wOjE3ODUyMDQwMzk0Mzg="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-07-27T04:01:04+00:00",
+  "fetched_at": "2026-07-28T03:33:59+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,25 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "ed50a99a8ef53a093f2c4f10369f63232868c5ab",
+      "title": "S16 Ep 875: Clear Headed And Nothing To Say",
+      "published_at": "2026-07-28T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-875-clear-headed-and-nothing-to-say",
+      "description": "Well this is one of those tricky eps where David and Joe have a bit of a struggle finding things to talk about. But alongside a lot of head scratching, they manage to discuss David’s morning encounter with a man trying find a conference, a very nice young man in a farm shop, an iMessage game, an Andy Warhol interview, being the loudest person in the room and plugging other people pods. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a6483be614bacdace802e1c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50689253",
+      "itunes_duration": "52:48",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "clear"
+      ]
+    },
     {
       "key": "5525e48e996bc6b4c54f9feb59fa18c6a5faf84e",
       "title": "S16 Ep 874 Vault Mondays: Experimental Party",
@@ -15657,6 +15676,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-28 — S16 Ep 875: Clear Headed And Nothing To Say — speakers: Joe Wilkinson, David Earl
 - 2026-07-27 — S16 Ep 874 Vault Mondays: Experimental Party — speakers: Joe Wilkinson, David Earl
 - 2026-07-24 — S16 Ep 873 Listener’s Mailbag: Sloe Gin and Stand-offs — speakers: Sloe Gin, Joe Wilkinson, David Earl
 - 2026-07-23 — S16 Ep 872: Being Naughty and Top 10 Names — speakers: Joe Wilkinson, David Earl

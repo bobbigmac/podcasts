@@ -9633,6 +9633,28 @@
     ],
     "harry-hill": [
       {
+        "feed_slug": "external:apple:e8b919cc1fa1",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT2134425554",
+        "dedupe_key": "fb1fd5d095f3e47351e9cbf2a064971bfe20b9fe",
+        "episode_key": "fb1fd5d095f3e47351e9cbf2a064971bfe20b9fe",
+        "title": "Paul Whitehouse: A Walk Down Comedies Memory Lane, Ted the Indifferent Dog, and a Vampire Bat Anatomy Lesson",
+        "published_at": "2026-07-27T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In the final episode before our summer break, we're joined by Bob Mortimer's co-host, comedy royalty, Paul Whitehouse. \n\nPaul who gets sniffed, interrogated, and thoroughly background-checked by a passive-aggressive AI bot with opinions about Rick Stein—alongside Bat Conservation Trust director Joe Nuñez-Miño for an ho",
+        "audio_url": "https://traffic.megaphone.fm/NSR9031619553.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/paul-whitehouse-a-walk-down-comedies-memory-lane/id1742178595?i=1000778491285&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:542e0c12e801",
         "feed_title": "Parenting Hell with Rob Beckett and Josh Widdicombe",
         "source_rss_url": "https://feeds.megaphone.fm/GLT9881106244",
@@ -12887,6 +12909,28 @@
       }
     ],
     "sally-phillips": [
+      {
+        "feed_slug": "external:apple:f365e01dfc3f",
+        "feed_title": "Alan Carr's 'Life's a Beach'",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT3251662520",
+        "dedupe_key": "065d8983a10e2b169fcf8086030020582feaa580",
+        "episode_key": "065d8983a10e2b169fcf8086030020582feaa580",
+        "title": "S10 EP27: Sally Phillips",
+        "published_at": "2026-07-27T00:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Joining me this episode to discuss their travel and holiday stories is the \nactress, comedian, writer, producer, and director - Sally Phillips.\n\n\n\nPlease subscribe and review.\n\nThanks, Alan.\n\nxx\n\n\n\n‘Life’s A Beach’ everyone’s favourite travel podcast is here to give you all the vitamin D you need. More celebrity passen",
+        "audio_url": "https://traffic.megaphone.fm/KILM3414040440.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s10-ep27-sally-phillips/id1550998864?i=1000778460238&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:fea129d05ae6",
         "feed_title": "Leeds News Today | 2 Min News | The Daily News Now!",
