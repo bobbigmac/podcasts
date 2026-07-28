@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-07-28T08:50:52+00:00`
-- checked_at: `2026-07-28T08:50:52+00:00`
-- last_modified: `Tue, 28 Jul 2026 08:43:46 GMT`
+- fetched_at: `2026-07-28T11:27:21+00:00`
+- checked_at: `2026-07-28T11:27:21+00:00`
+- last_modified: `Tue, 28 Jul 2026 11:07:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-28T08:50:52+00:00",
+  "fetched_at": "2026-07-28T11:27:21+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -32,7 +32,7 @@
       "title": "Has Charli XCX Escaped Brat Summer?",
       "published_at": "2026-07-27T23:05:00+00:00",
       "link": null,
-      "description": "How do you follow up a monster hit like Charli XCX’s BRAT? Will a corporate buyout ruin Letterboxd? Are we all just content creators now? With everyone from your dentist to your neighbour posting content, and massive companies eschewing traditional advertising to pay micro-influencers, are we all just influencers now? Richard and Marina explore the booming content creation industry… do dentists make better content creators than Premier League footballers? Charli xcx has released her new album, Music, Fashion, Film, two years after the inescapable success of BRAT summer. How is the pressure to follow up a huge cultural hit different for modern pop stars? Cult film app Letterboxd is up for sale for a reported $250 million. Why do the likes of A24 and Sony see it as such a valuable asset, and can its highly engaged community survive a corporate takeover? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Lloyds. 250 years on and still backing the nation's aspirations. Lending is subject to status. You could lose your home if you don't keep up your mortgage repayments. Conditions apply. 1996 average first-time buyer deposit based on Office National Statistics House Price Index data. Summer sale is here: get an annual membership for a third off with code SUMMER26. That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Adam Thornton Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "How do you follow up a monster hit like Charli XCX’s BRAT? Will a corporate buyout ruin Letterboxd? Are we all just content creators now? With everyone from your dentist to your neighbour posting content, and massive companies eschewing traditional advertising to pay micro-influencers, are we all just influencers now? Richard and Marina explore the booming content creation industry… do dentists make better content creators than Premier League footballers? Charli xcx has released her new album, Music, Fashion, Film, two years after the inescapable success of BRAT summer. How is the pressure to follow up a huge cultural hit different for modern pop stars? Cult film app Letterboxd is up for sale for a reported $250 million. Why do the likes of A24 and Sony see it as such a valuable asset, and can its highly engaged community survive a corporate takeover? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Looking for extra value from your spending? You can bank on Lloyds to help your money go further. Search Lloyds Rewards in your app. Summer sale is here: get an annual membership for a third off with code SUMMER26. That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Adam Thornton Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6339782313.mp3",
       "enclosure_type": "audio/mpeg",
