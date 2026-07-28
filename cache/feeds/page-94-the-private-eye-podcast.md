@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-07-19T22:08:19+00:00`
-- checked_at: `2026-07-19T22:08:19+00:00`
-- etag: `W/"df93f3222fd5ff10e43346dcbd93a2c8"`
-- last_modified: `Tue, 14 Jul 2026 17:27:27 GMT`
+- fetched_at: `2026-07-28T19:52:16+00:00`
+- checked_at: `2026-07-28T19:52:16+00:00`
+- etag: `W/"d85c433dcf8564aa73a02eee7d5b4910"`
+- last_modified: `Tue, 28 Jul 2026 16:47:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-07-19T22:08:19+00:00",
+  "fetched_at": "2026-07-28T19:52:16+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,26 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "df31d7b99bdc3d29b829a2eedfc19b2855f9d198",
+      "title": "187: Feel The Burnham",
+      "published_at": "2026-07-28T16:46:22+00:00",
+      "link": "https://audioboom.com/posts/8933419",
+      "description": "The team discuss how Andy Burnham’s social media is annoying the ‘lobby’; the mad debate over North Sea drilling continues; and how to make the new PM funny.",
+      "image_url": "https://audioboom.com/i/43763905/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8933419.mp3?modified=1785257238&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2533",
+      "speakers": [
+        "Andy Burnham",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "burnham"
+      ]
+    },
     {
       "key": "2af9f82593ef8dc99870e72aa6dac7e930d7105b",
       "title": "186: Fa-rage Against The Machine",
@@ -3977,6 +3997,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-28 — 187: Feel The Burnham — speakers: Andy Burnham, Andrew Hunter Murray, Ian Hislop
 - 2026-07-14 — 186: Fa-rage Against The Machine — speakers: Jane Mackenzie, Andrew Hunter Murray, Ian Hislop
 - 2026-06-30 — 185: Manc To The Future — speakers: Richard Brooks, Andy Burnham, Andrew Hunter Murray, Ian Hislop
 - 2026-06-24 — 184: Coup What A Scorcher — speakers: Matt Muir, Andrew Hunter Murray, Ian Hislop

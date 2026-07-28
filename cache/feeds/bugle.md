@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-07-22T14:21:15+00:00`
-- checked_at: `2026-07-22T14:21:15+00:00`
-- etag: `"djEuMi4wOjE3ODQ3Mjg4Mzk0OTQ="`
+- fetched_at: `2026-07-28T19:52:16+00:00`
+- checked_at: `2026-07-28T19:52:16+00:00`
+- etag: `"djEuMi4wOjE3ODQ3NDAzMjE4MjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-07-22T14:21:15+00:00",
+  "fetched_at": "2026-07-28T19:52:16+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -33,7 +33,7 @@
       "published_at": "2026-07-22T14:00:00+00:00",
       "link": "https://shows.acast.com/thebugle/episodes/7th-pm-in-a-decade",
       "description": "Joining Andy on issue 4386 of The Bugle is Alice Fraser and Nato Green. As the trio report on the week's news, following of outbreak of Cyclosporiasis in the US and Pete Hegseth announces testosterone deficiency screening for troops! The UK welcome there 7th Prime Minister in 10 years as Andy Burnham steps into No.10. PLUS Earth-like exoplanet found to have an atmosphere, and The Bugle closes the curtain on the 2026 World Cup. 🇺🇸 US in the muck: The Bugle has a special health report into the USA's Cyclosporiasis outbreak 🇬🇧 7th in 10 Years: The Bugle report on Andy Burnham officially becoming the UK's 7th PM in 10 years as he steps into No.10 🏆 World Cup update: Andy, Alice and Nato discuss the curtain call on the 2026 FIFA World Cup Donate to Emilia: https://www.crowdfunder.co.uk/p/a-safe-accessible-home-for-emilia Andy's Links: https://www.andyzaltzman.co.uk/ Alice Fraser's Links: https://www.patreon.com/AliceFraser Nato Green's Links: https://www.instagram.com/mrnatogreen/?hl=en 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1784740268174-c14bbafa-6f54-4298-88cb-ef9157fc7410.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a609ff47d20badb28877f63/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "47410364",
@@ -53,7 +53,7 @@
       "published_at": "2026-07-15T15:00:00+00:00",
       "link": "https://shows.acast.com/thebugle/episodes/trumps-at-it-again-and-the-most-secretive-wedding-of-the-cen",
       "description": "On issue 4385 of The Bugle, Andy is joined by Nish Kumar and Josh Gondelman, as the trio catch on this week's news as the USA celebrated their 250th birthday, we also delve into the ongoing chaos in Iran. The three imagine what the most secretive wedding of the year was like after Taylor Swift tied the knot with Travis Kelce. PLUS UK news, we catch up on the Farage facade following his resignation and subsequent bi-election and the World Cup ahead of England's semi-final clash! All this in issue 4385 of The Bugle. 🇺🇸: A look back into USA 250th Birthday celebrations 🇬🇧 Farage Facade: The Bugle catch up on chaos of Nigel Farage and his Reform party 🏆 World Cup update: Andy, Nish and Josh discuss the upcoming semifinal as England take on old foe Argentina Donate to Emilia: https://www.crowdfunder.co.uk/p/a-safe-accessible-home-for-emilia Andy's Links: https://www.andyzaltzman.co.uk/ Nish Kumar's Links: https://www.nishkumar.co.uk/ Josh Gondelman's Links: https://www.joshgondelman.com/ 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1784740315268-045696b3-d50a-4877-bacb-67b79a960847.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a57953308297530434833d1/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53120522",

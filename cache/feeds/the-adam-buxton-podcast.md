@@ -2,9 +2,9 @@
 
 - slug: `the-adam-buxton-podcast`
 - source: `https://feeds.acast.com/public/shows/18dcd5db-f898-42c6-ab31-3a1853c1a645`
-- fetched_at: `2026-07-11T13:53:43+00:00`
-- checked_at: `2026-07-11T13:53:43+00:00`
-- etag: `"djEuMi4wOjE3ODM1MzQ0NTk0NzM="`
+- fetched_at: `2026-07-28T19:52:16+00:00`
+- checked_at: `2026-07-28T19:52:16+00:00`
+- etag: `"djEuMi4wOjE3ODUyNTk5ODYyMzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://adam-buxton.co.uk",
   "description": "Adam Buxton is a British comedian man.",
   "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1745167450978-4178920f-ee63-4ea4-bad7-6b284fdc3065.jpeg",
-  "fetched_at": "2026-07-11T13:53:43+00:00",
+  "fetched_at": "2026-07-28T19:52:16+00:00",
   "owners": [
     "Adam Buxton"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "164f4430fca5ad9a255479d708a9a4672d1b0f4c",
+      "title": "EP.279 - Q&A 1",
+      "published_at": "2026-07-28T17:33:08+00:00",
+      "link": "https://shows.acast.com/adambuxton/episodes/ep279-qa-1",
+      "description": "Adam answers questions from the podcats about how he selects guests, whether he'd interview Elon Musk, misheard lyrics to the Like And Subscribe jingle, where the Entertainer jingle comes from, getting kids into music, the best gifts he's received and given and whether his hugs are 'creepy' or not. Recorded face-to-face with Diggory in London on 18 June, 2026 Thanks to Diggory Waite and Claire Broughton at Hattrick and Séamus Murphy Mitchell for production support. Podcast illustration by Helen Green ADAM BUXTON PODCAST LIVE WITH MAWAAN RIZWAAN @ Roundhouse, London , 5 August, 2026 (Roundhouse) JOIN ADAM'S PATREON and find out about playing your Patreon content through you existing podcast app HERE THE ADAM AND JOE 30th ANNIVERSARY LIVE SHOW PRE SALE (Wednesday 29th & Thursday 30th July) THE ADAM AND JOE 30th ANNIVERSARY LIVE SHOW GENERAL SALE (10am, Friday 31st July) SEND IN PATREON JINGLES AND QUESTIONS ADAM'S MUSIC FOR CHILDREN PLAYLIST (Spotify) BACKBEAT LEATHER GUITAR STRAPS COLLAPSIBLE STOOL (Dunelm) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44142e85655b098576d/1785257930712-c74db765-e16a-4272-9e5d-2a2ee39b2464.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/adambuxton/e/6a68e124982971a8e015189d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "153354877",
+      "itunes_duration": "1:03:53",
+      "speakers": [
+        "Elon Mus",
+        "Adam Buxton"
+      ],
+      "topics": [
+        "ep279"
+      ]
+    },
     {
       "key": "9e4134ece76622b7c413c3fb225e033687e806a3",
       "title": "EP.278 - ROB AUTON",
@@ -5692,6 +5711,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-28 — EP.279 - Q&A 1 — speakers: Elon Mus, Adam Buxton
 - 2026-07-08 — EP.278 - ROB AUTON — speakers: Rob Auton, Adam Buxton
 - 2026-07-01 — EP.277 - SARA COX — speakers: Sara Cox, Adam Buxton
 - 2026-06-24 — EP.276 - LOUIS THEROUX — speakers: Louis Theroux, Adam Buxton
