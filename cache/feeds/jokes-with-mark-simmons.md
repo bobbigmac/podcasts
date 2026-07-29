@@ -2,9 +2,9 @@
 
 - slug: `jokes-with-mark-simmons`
 - source: `https://feeds.acast.com/public/shows/0f386567-f3ee-4361-b55e-1c405f3af733`
-- fetched_at: `2026-07-22T03:45:03+00:00`
-- checked_at: `2026-07-22T03:45:03+00:00`
-- etag: `"djEuMi4wOjE3ODQ2NzUxODQwNTY="`
+- fetched_at: `2026-07-29T16:38:48+00:00`
+- checked_at: `2026-07-29T16:38:48+00:00`
+- etag: `"djEuMi4wOjE3ODUzNDE4NzgxNjc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/jokes",
   "description": "How do you make a joke funny?Every week Mark Simmons and a guest share jokes they've written that just haven't worked - because they're too long, too stupid, too clever, too groanworthy or just too rubbish.Follow Mark on Twitter | ...",
   "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
-  "fetched_at": "2026-07-22T03:45:03+00:00",
+  "fetched_at": "2026-07-29T16:38:48+00:00",
   "owners": [
     "Mark Simmons"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e07b44379162208884f280362d742b77152c5ecf",
+      "title": "Tour Talk: Edinburgh Fringe Preview",
+      "published_at": "2026-07-29T16:17:57+00:00",
+      "link": "https://shows.acast.com/jokes/episodes/tour-talk-edinburgh-fringe-preview",
+      "description": "Join the boys as they prepare to set sail to Edinburgh for the festival Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c2f06c05e8e4ef40b72/1664885315727-fcd4041dfa9b310e3cf9f7b252039b47.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/jokes/e/6a6a27b6a585d3be7880a1e6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45570503",
+      "itunes_duration": "31:37",
+      "speakers": [
+        "Edinburgh Fringe Preview",
+        "Mark Simmons"
+      ],
+      "topics": [
+        "tour",
+        "talk",
+        "edinburgh",
+        "fringe",
+        "preview"
+      ]
+    },
     {
       "key": "34f3218ca39e8960888ba0ae8c25364a1186cb76",
       "title": "Marcel Blanch-de Wilt",
@@ -7474,6 +7497,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-29 — Tour Talk: Edinburgh Fringe Preview — speakers: Edinburgh Fringe Preview, Mark Simmons
 - 2026-07-21 — Marcel Blanch-de Wilt — speakers: Marcel Blanch, Wilt Marcel, Mark Simmons
 - 2026-07-15 — Tour Talk - World Cup Jokes — speakers: Tour Talk, Mark Simmons
 - 2026-07-09 — Tour Talk: Edinburgh Previews — speakers: Edinburgh Previews, Mark Simmons
