@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-07-22T03:45:03+00:00`
-- checked_at: `2026-07-22T03:45:03+00:00`
-- last_modified: `Tue, 21 Jul 2026 09:07:45 GMT`
+- fetched_at: `2026-07-29T03:37:43+00:00`
+- checked_at: `2026-07-29T03:37:43+00:00`
+- last_modified: `Wed, 29 Jul 2026 03:29:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-22T03:45:03+00:00",
+  "fetched_at": "2026-07-29T03:37:43+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,55 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "94c3b8f3513d81bef03186e1ece841cd32d846d7",
+      "title": "Ross Kemp, Josh Widdicombe & The Celebrity Purge",
+      "published_at": "2026-07-27T23:01:00+00:00",
+      "link": null,
+      "description": "Should Tom and Romesh get each other tattooed on their backsides? This week on Wolf & Owl, Tom and Romesh tackle Tom's tattoo addiction and ask the important question all friendships ultimately arrive at, shall we tattoo each other on our arses? Plus another question arises, what would they actually do if The Purge became reality? From debating guns and home invasions to an unexpected role play of Ross Kemp and Josh Widdicombe that absolutely nobody could have expected. Not to forget, a classic tale from Tom to top it off. Don't miss it. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 03:43 On guns 10:36 Home invasions 12:11 The Purge question 16:20 Tom’s beef with Ross Kemp’s rage 18:07 A Josh Widdicombe, Ross Kemp roleplay 24:05 What would Rom do during The Purge? 26:55 The boys's addictions 28:05 Tattoo chat 40:25 Tom's story 43:00 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bf56f0f4-89d7-11f1-a67d-032178c47eef/image/ed8cd924a5004de36c09e946a4e46f88.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT5282426816.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2750",
+      "speakers": [
+        "Ross Kemp",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "ross",
+        "kemp",
+        "josh",
+        "widdicombe",
+        "celebrity",
+        "purge"
+      ]
+    },
+    {
+      "key": "a91e34c4ef6618fb9c1decc98a27ae4ae0a6fab3",
+      "title": "Vernon Kay, Meditation Boners & Sensory Deprivation",
+      "published_at": "2026-07-23T23:01:00+00:00",
+      "link": null,
+      "description": "What's Tom's beef with Vernon Kay? This week on Wolf & Owl, Tom and Romesh tackle another batch of emails from you. Addressing awkward, backhanded compliments to a listener's unexpected experience in a sensory deprivation tank. The boys discuss why complete relaxation can sometimes have surprising side effects, share their thoughts on \"negging\" and Tom shares a story of a strange encounter in Jersey. Plus, Tom has a say in Rom's show attire and there's a heartfelt plea for Vernon Kay to finally acknowledge his gifted electrolytes. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:45 The first email 03:25 Tom’s bugbear with Vernon Kay 07:02 Meditation boners 10:09 Tom’s shocking Jersey story 12:35 A stinky shirt dilemma 13:47 Am I the arsehole? 17:28 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/99233dd4-868f-11f1-b12d-3f9a48aaf339/image/444cb4a3999c12129342007c276dac41.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2530660693.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1162",
+      "speakers": [
+        "Vernon Kay",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "vernon",
+        "meditation",
+        "boners",
+        "sensory",
+        "deprivation"
+      ]
+    },
     {
       "key": "9bca16edf7cc92ca542157246288838837d0e2a5",
       "title": "Misfits Boxing, Gym Advice And Haters",
@@ -6299,6 +6348,23 @@
       ]
     },
     {
+      "key": "90ce44f53e74715765bd4b7af2d8f63febb3ad86",
+      "title": "Episode 30",
+      "published_at": "2021-06-30T07:00:00+00:00",
+      "link": "https://shows.acast.com/wolf-and-owl/episodes/episode30",
+      "description": "We’re talking… Tom’s technical meltdown, Euro predictions, vegan shoes, rugby challenges and a startling lack of holiday romance success. And if all that wasn’t enough, we then answer some email questions about Ed Sheeran, life changes since lockdown and tips for looking after a bald head. For any feedback, questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8cff475a-4831-11ed-b685-5b4cfa1fde27/image/611fbb2615a1aa001297f326.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7065689838.mp3?updated=1778081497",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3904",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": []
+    },
+    {
       "key": "9531eb4b10cca9d93a1e0352cf6fcdcde5d47b6d",
       "title": "Bonus Email Episode #18",
       "published_at": "2021-06-25T07:30:00+00:00",
@@ -7178,6 +7244,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-27 — Ross Kemp, Josh Widdicombe & The Celebrity Purge — speakers: Ross Kemp, Romesh Ranganathan, Tom Davis
+- 2026-07-23 — Vernon Kay, Meditation Boners & Sensory Deprivation — speakers: Vernon Kay, Romesh Ranganathan, Tom Davis
 - 2026-07-20 — Misfits Boxing, Gym Advice And Haters — speakers: Misfits Boxing, Romesh Ranganathan, Tom Davis
 - 2026-07-16 — Dogs At Restaurants, Role Play & Retirement — speakers: Romesh Ranganathan, Tom Davis
 - 2026-07-13 — Heart Attacks, Trauma Dumps & Bad Service Stations — speakers: Service Stations, Romesh Ranganathan, Tom Davis
@@ -7474,6 +7542,7 @@
 - 2021-07-14 — Episode 32 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-07-07 — Episode 31 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-07-02 — Bonus Email Episode #19 — speakers: Romesh Ranganathan, Tom Davis
+- 2021-06-30 — Episode 30 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-06-25 — Bonus Email Episode #18 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-06-23 — Episode 29 — speakers: Romesh Ranganathan, Tom Davis
 - 2021-06-18 — Bonus Email Episode #17 — speakers: Romesh Ranganathan, Tom Davis

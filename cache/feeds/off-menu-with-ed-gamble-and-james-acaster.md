@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-07-22T03:45:03+00:00`
-- checked_at: `2026-07-22T03:45:03+00:00`
-- etag: `"djEuMi4wOjE3ODQ2ODkyMzk2ODQ="`
+- fetched_at: `2026-07-29T03:37:43+00:00`
+- checked_at: `2026-07-29T03:37:43+00:00`
+- etag: `"djEuMi4wOjE3ODUyOTQwMzk2MTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-07-22T03:45:03+00:00",
+  "fetched_at": "2026-07-29T03:37:43+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,56 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e4f037a80c40ce4e4f32b3808ff99da41f0851ad",
+      "title": "Sindhu Vee (Tasting Menu)",
+      "published_at": "2026-07-29T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/sindhu-vee-tasting-menu",
+      "description": "Another fan favourite returns to the Dream Restaurant, and this time it’s straight-talking stand-up Sindhu Vee, all the way back from episode 15. Will she have more words of wisdom like ‘to the hungry person even the doorway looks like crisps’? If you’re listening on Apple Podcasts you can now watch this episode too. Listen to Sindhu’s original episode Sindhu Vee is on tour across the UK in 2026 and 2027 with ‘Swanky’, including a date at London’s Eventim Apollo. For dates and tickets go to www.sindhuvee.com Follow Sindhu on Instagram @sindhuvee and TikTok @sindhuvee100 Don’t forget, video episodes of Off Menu are out every Wednesday on our YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1784901566212-5a15d344-3943-4896-b83e-26a3007e4aa1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a4b9e203b774de65a10065a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77138964",
+      "itunes_duration": "1:20:21",
+      "speakers": [
+        "Sindhu Vee",
+        "Tasting Menu",
+        "Dream Restaurant",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "sindhu",
+        "tasting",
+        "menu"
+      ]
+    },
+    {
+      "key": "d31843606eccb1866e571e30ff74b5b9340737ca",
+      "title": "Nish Kumar (Tasting Menu – Live at the Royal Albert Hall)",
+      "published_at": "2026-07-27T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/nish-kumar-tasting-menu-live-at-the-royal-albert-hall",
+      "description": "In our final live Tasting Menu episode from the Royal Albert Hall, BFF of the podcast Nish Kumar joins us to talk beef beefs, Ghostbusters reviews and who’s the boss of the Hindus. Thanks if you came along to any of the Royal Albert Hall shows. We had a lovely time! Nish Kumar is on tour with ‘Angry Humour From a Really Nice Guy’. Go to www.nishkumar.co.uk for dates and tickets Listen to Nish’s podcast, Pod Save The UK wherever you get your podcasts Follow Nish on Instagram @mrnishkumar Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced and edited by Ben Williams for Plosive . Recorded by Matt Mountford-Lister for Storm Productions Group live at the Royal Albert Hall. Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Watch Ed and James's YouTube series 'Just Puddings'. Watch here . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1782295805223-72ac0f24-0741-4795-bf6d-5d312623122e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a3bad0997b52d9936248e4e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "86685376",
+      "itunes_duration": "1:12:14",
+      "speakers": [
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "kumar",
+        "tasting",
+        "menu",
+        "royal",
+        "albert",
+        "hall"
+      ]
+    },
     {
       "key": "ae6de9422cbc53a95da59961a8b1a81780c606bf",
       "title": "Laura Smyth",
@@ -8759,6 +8809,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-29 — Sindhu Vee (Tasting Menu) — speakers: Sindhu Vee, Tasting Menu, Dream Restaurant, Ed Gamble, James Acaster, Ben Williams
+- 2026-07-27 — Nish Kumar (Tasting Menu – Live at the Royal Albert Hall) — speakers: Ed Gamble, James Acaster, Ben Williams
 - 2026-07-22 — Laura Smyth — speakers: Laura Smyth, Ed Gamble, James Acaster, Ben Williams
 - 2026-07-20 — Tim Key (Tasting Menu – Live at the Royal Albert Hall) — speakers: Tim Key, Tim Ke, Ed Gamble, James Acaster, Ben Williams
 - 2026-07-15 — Phil Ellis — speakers: Phil Ellis, Ed Gamble, James Acaster, Ben Williams

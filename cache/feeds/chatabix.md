@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-07-28T03:33:59+00:00`
-- checked_at: `2026-07-28T03:33:59+00:00`
-- etag: `"djEuMi4wOjE3ODUyMDQwMzk0Mzg="`
+- fetched_at: `2026-07-29T03:37:43+00:00`
+- checked_at: `2026-07-29T03:37:43+00:00`
+- etag: `"djEuMi4wOjE3ODUyOTA0Mzk1MDk="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-07-28T03:33:59+00:00",
+  "fetched_at": "2026-07-29T03:37:43+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,26 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "0aaf1f83a65146b106e24b74e4f63bdc2a1af479",
+      "title": "S16 Ep 876: Men Give Their Willy No Thought",
+      "published_at": "2026-07-29T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-876-men-give-their-willy-no-thought",
+      "description": "Shortly before recording today’s pod, David saw a man wearing some very revealing trousers which clearly displayed his significant ‘package’. So obviously his and Joe’s discussion about that takes up most of the show - along with their thoughts on why people wear cycling shorts and the acceptability of groups of men wearing lycra in public. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a6483f9a7fbf9da148571de/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38753593",
+      "itunes_duration": "40:22",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "willy",
+        "thought"
+      ]
+    },
     {
       "key": "ed50a99a8ef53a093f2c4f10369f63232868c5ab",
       "title": "S16 Ep 875: Clear Headed And Nothing To Say",
@@ -15676,6 +15696,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-29 — S16 Ep 876: Men Give Their Willy No Thought — speakers: Joe Wilkinson, David Earl
 - 2026-07-28 — S16 Ep 875: Clear Headed And Nothing To Say — speakers: Joe Wilkinson, David Earl
 - 2026-07-27 — S16 Ep 874 Vault Mondays: Experimental Party — speakers: Joe Wilkinson, David Earl
 - 2026-07-24 — S16 Ep 873 Listener’s Mailbag: Sloe Gin and Stand-offs — speakers: Sloe Gin, Joe Wilkinson, David Earl

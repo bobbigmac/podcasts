@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-07-24T08:41:38+00:00`
-- checked_at: `2026-07-24T08:41:38+00:00`
-- etag: `"djEuMi4wOjE3ODQ4Nzc2MjE2Mzk="`
+- fetched_at: `2026-07-29T03:37:43+00:00`
+- checked_at: `2026-07-29T03:37:43+00:00`
+- etag: `"djEuMi4wOjE3ODUyOTUyMzkzNDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-07-24T08:41:38+00:00",
+  "fetched_at": "2026-07-29T03:37:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a0ed985eb1e5788997b472ef467a476d9391e9dc",
+      "title": "BLAINE HARRISON (MYSTERY JETS) • 2 decades & counting of perfect indie music (A Hole To See The Sky Through / 20 yrs of 'Making Dens'!) #682",
+      "published_at": "2026-07-29T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by Mystery Jets OG BLAINE HARRISON ! Mystery Jets are a total indie band sureshot, who are currently in the 20th anniversary year of their debut 'Making Dens' debut. They've been total crowdpleasers since the first days, rocking any venue they've graced (including Banquet Records to name one, who get flowers in perpetuity). Back then it was a VERY different time, and a near-unrecognizable media terrain in which many bands were assigned a persona, or vibe, or aura by the music press. The Jets were not immune to this and were often saddled with this and that from various publications, but thankfully forged ahead, and always retained pure love from their fanbase. Pip catches up with original member Blaine, who is such an easy breezy chat subject and has his own questions here and there too (Jets and Pip share 20th anniversary celebrations this year!). It was a really vibrant era back in 2006, but it's so valuable to see a successful band who are still rocking it with no loss of passion or ambition. A really fascinating episode which, as always, will appeal whether you're a Jets-head or you've never heard of 'em. ENJOY! PIP'S PATREON PAGE if you're of a supporting nature ONLINE / TOUR DATES STORE ATTITUDE IS EVERYTHING (accessibility charity) FLEA JOINT BOY WHO RAN AWAY EEL PIE ISLAND SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1785249736961-deafa9fa-506f-44da-b55a-1c1cd78d8e9f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a68c4f925e6bb221782c9cf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "169413655",
+      "itunes_duration": "1:10:30",
+      "speakers": [],
+      "topics": [
+        "blaine",
+        "harrison",
+        "mystery",
+        "jets",
+        "decade",
+        "counting",
+        "music",
+        "hole",
+        "dens"
+      ]
+    },
     {
       "key": "42da9079b6c69d9f76fb7a72c5dd9b7e69c7f01a",
       "title": "FRANK TURNER (Campfire Punkrock / Tape Deck Heart / Undefeated) • Friday Rewind",
@@ -19277,6 +19301,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-29 — BLAINE HARRISON (MYSTERY JETS) • 2 decades & counting of perfect indie music (A Hole To See The Sky Through / 20 yrs of 'Making Dens'!) #682
 - 2026-07-24 — FRANK TURNER (Campfire Punkrock / Tape Deck Heart / Undefeated) • Friday Rewind
 - 2026-07-22 — CHRIS, STU & KUNT • Hardest Kids In School (Hardcore Listing / Off The Beat & Track / Kunt & The Gang) #681
 - 2026-07-17 — ISY SUTTIE (film / theatre / TV / podcast) • Friday Rewind

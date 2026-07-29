@@ -8769,6 +8769,29 @@
     ],
     "bob-mortimer": [
       {
+        "feed_slug": "external:apple:e8b919cc1fa1",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT2134425554",
+        "dedupe_key": "fb1fd5d095f3e47351e9cbf2a064971bfe20b9fe",
+        "episode_key": "fb1fd5d095f3e47351e9cbf2a064971bfe20b9fe",
+        "title": "Paul Whitehouse: A Walk Down Comedies Memory Lane, Ted the Indifferent Dog, and a Vampire Bat Anatomy Lesson",
+        "published_at": "2026-07-27T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In the final episode before our summer break, we're joined by Bob Mortimer's co-host, comedy royalty, Paul Whitehouse. \n\nPaul who gets sniffed, interrogated, and thoroughly background-checked by a passive-aggressive AI bot with opinions about Rick Stein—alongside Bat Conservation Trust director Joe Nuñez-Miño for an ho",
+        "audio_url": "https://traffic.megaphone.fm/NSR9031619553.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/paul-whitehouse-a-walk-down-comedies-memory-lane/id1742178595?i=1000778491285&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer",
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:4fdc5fce09a4",
         "feed_title": "Outsiding",
         "source_rss_url": "https://feeds.megaphone.fm/CGPL6650066774",
@@ -14788,6 +14811,28 @@
     ],
     "tim-key": [
       {
+        "feed_slug": "external:apple:b668206d8929",
+        "feed_title": "Taskmaster The Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
+        "dedupe_key": "22782d788d6ad48824552575c6c658880922410c",
+        "episode_key": "22782d788d6ad48824552575c6c658880922410c",
+        "title": "Taskmaster The Podcast Rewind - Series 1 Ep2 with Tim Key",
+        "published_at": "2026-07-27T21:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "On the podcast this week we go all the way back to Series One and revisit our first podcast with Tim Key! \nTim Key is a comedian, actor, writer, poet and movie star but on this podcast (recorded in January 2021 in the UK's third lockdown!) he was discussing Series One of the show, why he hated high fiving a 55 year old",
+        "audio_url": "https://episodes.captivate.fm/episode/f96b2322-8fcf-4077-8ff4-e1f6038b0a69.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=f96b2322-8fcf-4077-8ff4-e1f6038b0a69",
+        "link_url": "https://podcasts.apple.com/gb/podcast/taskmaster-the-podcast-rewind-series-1-ep2-with-tim-key/id1535040312?i=1000778607372&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
@@ -16598,6 +16643,28 @@
         "feed_image_url": null,
         "description": "EP 38: TIM KEYComedian, Tim Key joins the podcast to discuss his unique way of managing his FPL team ‘The Post Office’, a Chris Hoy anecdote like no other, some backstage radio gossip and the little known (to us) FPL asset - Lewis Dobbin.Tim Key’s new book ‘Here We Go Round the Mulberry Bush’ is out now.Don’t forget to",
         "audio_url": "https://traffic.megaphone.fm/GLT6193907822.mp3?updated=1660335402",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s1-ep38-tim-key/id1579604192?i=1000552766958&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f882cb30669e",
+        "feed_title": "Down The Dog",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a68af5735a551238adbcc67",
+        "dedupe_key": "820db58333f0828c430efa7383f1b5669af7d084",
+        "episode_key": "820db58333f0828c430efa7383f1b5669af7d084",
+        "title": "S1 EP38: Tim Key",
+        "published_at": "2022-03-03T01:00:02Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "EP 38: TIM KEYComedian, Tim Key joins the podcast to discuss his unique way of managing his FPL team ‘The Post Office’, a Chris Hoy anecdote like no other, some backstage radio gossip and the little known (to us) FPL asset - Lewis Dobbin.Tim Key’s new book ‘Here We Go Round the Mulberry Bush’ is out now.Don’t forget to",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a68af5735a551238adbcc67/e/vnid%3A%2F%2Fepisodes%2F48929502%3Fmedia_id%3D35970626/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/s1-ep38-tim-key/id1579604192?i=1000552766958&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,

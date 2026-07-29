@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-27T04:01:04+00:00`
-- checked_at: `2026-07-27T04:01:04+00:00`
-- etag: `"djEuMi4wOjE3ODUxMjEwNTkzNDQ="`
+- fetched_at: `2026-07-29T03:37:43+00:00`
+- checked_at: `2026-07-29T03:37:43+00:00`
+- etag: `"djEuMi4wOjE3ODUyOTM4NTkyNTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-27T04:01:04+00:00",
+  "fetched_at": "2026-07-29T03:37:43+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "65bdb63dbf7aeebaf0657721f1f36ffad30b0b62",
+      "title": "Rosalie Minnitt - \"Greggs Chicken Bake\"",
+      "published_at": "2026-07-29T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #620 - Greggs Chicken Bake - Rich is doing a few remote podcasts again due to a medical condition, so tonight we’re going to party like it’s 2020. He is chatting to character comedian and writer Rosalie Minnitt who is about to do her second hour about her Fringe breakout success Clementine. They chat about how she Peter Kayed her student play, her itinerant childhood, the genesis of her crazy Jane Austen influenced stage persona and how it sometimes surprises here with how far it goes, how men brought up to play stooges all think Rosalie might genuinely be into them and what happened when she actually went on a date with one of them, working with Alan Partridge and the difficulty of finding new subjects for Horrible Histories. Tickets for Rosalie’s Edinburgh show here https://www.pleasance.co.uk/event/rosalie-minnitt-clementine-2 Tickets for RHLSTP at the Ed Fringe here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1785081197984-01ef1330-c6a4-4284-a004-308511bfc1e3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a662a2ca51cbd54e211f29b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27092114",
+      "itunes_duration": "56:26",
+      "speakers": [
+        "Rosalie Minnitt",
+        "Greggs Chicken Bake",
+        "Chicken Bake Rich",
+        "Richard Herring"
+      ],
+      "topics": [
+        "rosalie",
+        "minnitt",
+        "greggs",
+        "chicken",
+        "bake"
+      ]
+    },
     {
       "key": "9e0142413063912722e1c1d9e0a8644d40f49863",
       "title": "Janet Ellis (Retro) - \"Blew Peter\"",
@@ -23349,6 +23374,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-29 — Rosalie Minnitt - "Greggs Chicken Bake" — speakers: Rosalie Minnitt, Greggs Chicken Bake, Chicken Bake Rich, Richard Herring
 - 2026-07-27 — Janet Ellis (Retro) - "Blew Peter" — speakers: Janet Ellis, Blew Peter Richard, Richard Herring
 - 2026-07-26 — Rich and Ally's Craven Newsround Compilation " Deam Me Up, Scotty" — speakers: Craven Newsround Compilation, Deam Me Up, Richard Herring
 - 2026-07-24 — Paul Tonkinson on Running Through Sand - Book Club — speakers: Paul Tonkinson, Richard Herring

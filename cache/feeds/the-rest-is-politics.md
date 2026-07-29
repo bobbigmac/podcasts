@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-07-28T22:16:20+00:00`
-- checked_at: `2026-07-28T22:16:20+00:00`
-- last_modified: `Tue, 28 Jul 2026 21:43:27 GMT`
+- fetched_at: `2026-07-29T03:37:43+00:00`
+- checked_at: `2026-07-29T03:37:43+00:00`
+- last_modified: `Wed, 29 Jul 2026 03:22:14 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-28T22:16:20+00:00",
+  "fetched_at": "2026-07-29T03:37:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "0c8a5616bb4092850bc4d5e8fe080b13eef7be7d",
+      "title": "557. Can Burnham Really Deliver Britain’s Biggest Change in Forty Years?",
+      "published_at": "2026-07-28T23:00:00+00:00",
+      "link": null,
+      "description": "Can Andy Burnham, in a single term or less, fix problems like social care that are generations in the making? Is his new push for vocational education a long-overdue fix for Britain's broken skills system, or a betrayal of the working-class kids who have the most to gain from a rigorous academic education? As wildfires tear through France and Spain, have we already passed the climate and nature tipping point? Join Rory and Alastair as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Kristrún Frostadóttir, Prime Minister of Iceland, by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics . It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Caroline Kaye Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f2ee01d2-8a9a-11f1-84a9-1bd54c331900/image/40b5b60ff62c44f340fcd308a83d978f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7893953407.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3399",
+      "speakers": [
+        "Can Andy Burnham"
+      ],
+      "topics": [
+        "burnham",
+        "britain",
+        "change",
+        "year"
+      ]
+    },
     {
       "key": "6d67a2de582caba9ad3d462e9678b3a9ff9f5e7e",
       "title": "Britain's Ticking Time Bomb: The Food Security Crisis",
@@ -12479,6 +12500,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-28 — 557. Can Burnham Really Deliver Britain’s Biggest Change in Forty Years? — speakers: Can Andy Burnham
 - 2026-07-23 — Britain's Ticking Time Bomb: The Food Security Crisis — speakers: Ticking Time Bomb
 - 2026-07-22 — 556. The US-China AI Arms Race and Badenoch vs. Rory’s Centrism
 - 2026-07-21 — 555. Burnham’s Cabinet Purge and the Rough Sleeping Pledge — speakers: Andy Burnham

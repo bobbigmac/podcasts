@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-07-22T03:45:03+00:00`
-- checked_at: `2026-07-22T03:45:03+00:00`
-- last_modified: `Wed, 22 Jul 2026 01:07:12 GMT`
+- fetched_at: `2026-07-29T03:37:43+00:00`
+- checked_at: `2026-07-29T03:37:43+00:00`
+- last_modified: `Wed, 29 Jul 2026 02:24:33 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-22T03:45:03+00:00",
+  "fetched_at": "2026-07-29T03:37:43+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "83e466ae57f8700efa32d5f155efd2e68430e948",
+      "title": "Ian Moore",
+      "published_at": "2026-07-29T01:00:00+00:00",
+      "link": null,
+      "description": "Death and Croissants author and comedian Ian Moore is in the studio! The best-selling author of France-based cosy crime novels, Ian has never lost that razor-sharp comedian instinct and gives a belting show that takes in the unbridled pleasure of judging others on how they dress, the simple beauty of a cheese sandwich and the arcane insanity of French bureaucracy. Hard recommend. Right. Go and listen to the show. Then you’ll see why Ian’s got such an engaging brain and why you should, if you already haven’t, acquire and read his brilliant books. His latest ‘cosy crime’ is called Death and Deja Vu, and his more serious procedural is called ‘A Very French Corpse’. You can get the audiobook of ‘Death and Deja Vu’ by going HERE . You can enjoy the audiobook of ‘A Very French Corpse’ by going HERE . But basically you can get the whole selection in any good independent bookshop. Bon. C’est le fin. Merci beaucoup pour votre attention. Alors…oui. A bientôt mes amis. A demain. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f6219cd0-89b7-11f1-932d-8bcd5b6c0718/image/2c8e757906ad6d0c7a1ae9dc08de7084.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR9503015423.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3885",
+      "speakers": [
+        "Ian Moore Death",
+        "Ian Moore",
+        "Russell Howard"
+      ],
+      "topics": [
+        "moore"
+      ]
+    },
     {
       "key": "147e76515f0cd2c9b57e771f9978f26fc24e361a",
       "title": "Christopher Hall",
@@ -2233,6 +2253,25 @@
       ]
     },
     {
+      "key": "bdf94e419295abe12a6c2fca8b1558f63065bc67",
+      "title": "Linford Christie",
+      "published_at": "2024-09-23T13:50:00+00:00",
+      "link": "https://russellhowardswonderbox.podbean.com/e/50-linford-christie/",
+      "description": "Did Linford Christie take part in the Dad’s race at his kids’s school sports day? Russell and Linford discuss what it’s like to be bloody quick, what it’s like to win an Olympic gold medal, and why Linford used to growl like a tiger at his competitors on the starting blocks. It’s a really interesting and intimate chat with a British legend, seeing a side to him that we rarely get to see. It’s really worth watching the documentary all about Linford’s career and life. It’s called simply ‘Linford’, which is on BBC iPlayer, or if you’re abroad it’s on iPlayer with a VPN (wink wink). It really tells the story well, with fascinating insights and at times it gets pretty emotional. You don’t need me to give you a link to iPlayer. If you can’t find that with a search engine then you deserve to have your internet taken away from you. Russell is back out on the road doing all sorts of bits and bobs, with Canada coming up, also Sweden, Norway…check out his movements at Russell-howard.co.uk That’s all for this week. I’m off for a quick 13 minute nap. That’s the golden number apparently for efficient napping. I’ll let you know how it goes. Goodbye for now, old friend. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3535104455.mp3?updated=1727099745",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3762",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "linford",
+        "christie"
+      ]
+    },
+    {
       "key": "2cafbd446e2182c416b71e38b3d857f96687ea57",
       "title": "David O'Doherty LIVE from the Edinburgh Festival",
       "published_at": "2024-09-23T13:50:00+00:00",
@@ -2251,25 +2290,6 @@
         "david",
         "edinburgh",
         "festival"
-      ]
-    },
-    {
-      "key": "bdf94e419295abe12a6c2fca8b1558f63065bc67",
-      "title": "Linford Christie",
-      "published_at": "2024-09-23T13:50:00+00:00",
-      "link": "https://russellhowardswonderbox.podbean.com/e/50-linford-christie/",
-      "description": "Did Linford Christie take part in the Dad’s race at his kids’s school sports day? Russell and Linford discuss what it’s like to be bloody quick, what it’s like to win an Olympic gold medal, and why Linford used to growl like a tiger at his competitors on the starting blocks. It’s a really interesting and intimate chat with a British legend, seeing a side to him that we rarely get to see. It’s really worth watching the documentary all about Linford’s career and life. It’s called simply ‘Linford’, which is on BBC iPlayer, or if you’re abroad it’s on iPlayer with a VPN (wink wink). It really tells the story well, with fascinating insights and at times it gets pretty emotional. You don’t need me to give you a link to iPlayer. If you can’t find that with a search engine then you deserve to have your internet taken away from you. Russell is back out on the road doing all sorts of bits and bobs, with Canada coming up, also Sweden, Norway…check out his movements at Russell-howard.co.uk That’s all for this week. I’m off for a quick 13 minute nap. That’s the golden number apparently for efficient napping. I’ll let you know how it goes. Goodbye for now, old friend. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
-      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3535104455.mp3?updated=1727099745",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "0",
-      "itunes_duration": "3762",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "linford",
-        "christie"
       ]
     },
     {
@@ -3255,6 +3275,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-29 — Ian Moore — speakers: Ian Moore Death, Ian Moore, Russell Howard
 - 2026-07-22 — Christopher Hall — speakers: Russell Howard
 - 2026-07-15 — Bella Hull — speakers: Bella Hull Horror, Bella Hull, Russell Howard
 - 2026-07-08 — Peter Serafinowicz — speakers: Peter Serafinowicz Comedian, Peter Serafinowicz, Russell Howard
@@ -3365,8 +3386,8 @@
 - 2024-10-09 — Stephen Merchant — speakers: Stephen Merchant, Russell Howard
 - 2024-10-02 — Ashley Roberts — speakers: Ashley Roberts, Russell Howard
 - 2024-09-25 — Adam Hills — speakers: Adam Hills, Russell Howard
-- 2024-09-23 — David O'Doherty LIVE from the Edinburgh Festival — speakers: David O'Doherty, Russell Howard
 - 2024-09-23 — Linford Christie — speakers: Russell Howard
+- 2024-09-23 — David O'Doherty LIVE from the Edinburgh Festival — speakers: David O'Doherty, Russell Howard
 - 2024-08-28 — 48. Matt Forde — speakers: Matt Forde, Russell Howard
 - 2024-08-21 — 47. Jason Byrne LIVE from the Edinburgh Festival — speakers: Russell Howard
 - 2024-08-14 — 46. Larry Dean LIVE from the Fringe — speakers: Larry Dean, Russell Howard
