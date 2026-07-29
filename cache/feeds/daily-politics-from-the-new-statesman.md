@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-07-25T08:23:23+00:00`
-- checked_at: `2026-07-25T08:23:23+00:00`
-- etag: `"djEuMi4wOjE3ODQ5NjY0Mzk0ODg="`
+- fetched_at: `2026-07-29T11:33:42+00:00`
+- checked_at: `2026-07-29T11:33:42+00:00`
+- etag: `"djEuMi4wOjE3ODUzMjI3ODA1NTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-07-25T08:23:23+00:00",
+  "fetched_at": "2026-07-29T11:33:42+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "1a872b322884e9a34677302d5a3ee32b126dca3e",
+      "title": "Can the UK turn its life sciences strengths into global leadership?",
+      "published_at": "2026-07-29T10:59:40+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/can-the-uk-turn-its-life-sciences-strengths-into-global-lead",
+      "description": "This New Statesman podcast episode has been fully funded by argenx and features an edited panel discussion recorded at the New Statesman’s Igniting Growth Conference. The UK has world-leading science, research and regulatory expertise, but too often struggles to turn those strengths into investment, innovation and better patient access. Can it turn its life sciences strengths into global leadership? Chaired by New Statesman policy correspondent Samir Jeraj, the panel brings together Dame Chi Onwurah MP, Naomi Weir from the CBI, David Knechtel from argenx UK and Ireland, and Clare Pelham from the Epilepsy Society. Our panel discusses why the UK’s scientific and regulatory strengths are not consistently translating into growth and patient access, as well as the commercial pressures affecting confidence in the sector. They talk about the need for more joined-up delivery across government, the NHS and industry, how innovation can reach patients, and what must change for the Life Sciences Sector Plan to deliver. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1785322641903-e75e8e15-e47f-413f-86d0-14a7b734f487.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a69dc2f10315fd296fc08c8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "16948662",
+      "itunes_duration": "17:39",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "life",
+        "science",
+        "strength",
+        "leadership"
+      ]
+    },
     {
       "key": "cdcb84af9f439bfc09cfa78309182cf1778dc46c",
       "title": "Gary Lineker wants to pay more tax. What's stopping him?",
@@ -31892,6 +31914,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-29 — Can the UK turn its life sciences strengths into global leadership? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-07-25 — Gary Lineker wants to pay more tax. What's stopping him? — speakers: Gary Lineker, Anoosh Chakelian, Oli Dugmore
 - 2026-07-23 — Burnham's cabinet — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-20 — Prime Minister Andy Burnham — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore

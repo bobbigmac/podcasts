@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "3a0110593e7f9fe802bd44e30e86d653508b3b49",
+        "episode_key": "3a0110593e7f9fe802bd44e30e86d653508b3b49",
+        "title": "Sindhu Vee (Tasting Menu)",
+        "published_at": "2026-07-29T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Another fan favourite returns to the Dream Restaurant, and this time it’s straight-talking stand-up Sindhu Vee, all the way back from episode 15. Will she have more words of wisdom like ‘to the hungry person even the doorway looks like crisps’?\nIf you’re listening on Apple Podcasts you can now watch this episode too.\nL",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a4b9e203b774de65a10065a/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/sindhu-vee-tasting-menu/id1442950743?i=1000778810088&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
@@ -5764,6 +5787,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "3a0110593e7f9fe802bd44e30e86d653508b3b49",
+        "episode_key": "3a0110593e7f9fe802bd44e30e86d653508b3b49",
+        "title": "Sindhu Vee (Tasting Menu)",
+        "published_at": "2026-07-29T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Another fan favourite returns to the Dream Restaurant, and this time it’s straight-talking stand-up Sindhu Vee, all the way back from episode 15. Will she have more words of wisdom like ‘to the hungry person even the doorway looks like crisps’?\nIf you’re listening on Apple Podcasts you can now watch this episode too.\nL",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a4b9e203b774de65a10065a/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/sindhu-vee-tasting-menu/id1442950743?i=1000778810088&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
@@ -21726,6 +21772,28 @@
         "feed_image_url": null,
         "description": "The Guilty Feminist\nPresented by Deborah Frances-White and Jessica Fostekew with special guest Lou Sanders\nRecorded 11 August 2023. Released 5 February.\nThe Guilty Feminist theme composed by Mark Hodge.\nMore about Deborah Frances-White\n\nhttps://deborahfrances-white.com\n\nhttps://twitter.com/DeborahFW\n\nhttps://www.virago",
         "audio_url": "https://traffic.megaphone.fm/APL8547083157.mp3?updated=1759266055",
+        "link_url": "https://podcasts.apple.com/gb/podcast/385-self-forgiveness-with-jessica-fostekew-and/id1068940771?i=1000644207294&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f38cdf185337",
+        "feed_title": "The Guilty Feminist",
+        "source_rss_url": "https://feeds.megaphone.fm/APL9072247766",
+        "dedupe_key": "c716174005f327ea887cc96f97033126ab93f84c",
+        "episode_key": "c716174005f327ea887cc96f97033126ab93f84c",
+        "title": "385. Self Forgiveness with Jessica Fostekew and special guest Lou Sanders",
+        "published_at": "2024-02-05T12:00:44Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The Guilty Feminist\nPresented by Deborah Frances-White and Jessica Fostekew with special guest Lou Sanders\nRecorded 11 August 2023. Released 5 February.\nThe Guilty Feminist theme composed by Mark Hodge.\nMore about Deborah Frances-White\n\nhttps://deborahfrances-white.com\n\nhttps://twitter.com/DeborahFW\n\nhttps://www.virago",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL8547083157.mp3?updated=1759266055",
         "link_url": "https://podcasts.apple.com/gb/podcast/385-self-forgiveness-with-jessica-fostekew-and/id1068940771?i=1000644207294&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
