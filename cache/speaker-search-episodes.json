@@ -27932,6 +27932,28 @@
     ],
     "mike-wozniak": [
       {
+        "feed_slug": "external:apple:f4add41b198d",
+        "feed_title": "Beef And Dairy Network",
+        "source_rss_url": "https://feeds.simplecast.com/4NOSW3hj",
+        "dedupe_key": "5fb4c7ccf9f2455d902be783732981f1217cab4a",
+        "episode_key": "5fb4c7ccf9f2455d902be783732981f1217cab4a",
+        "title": "Episode 136 - Vet On A Battleship",
+        "published_at": "2026-07-28T13:25:53Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Mike Wozniak and Linnea Sage join in this month as we hear about the new TV show from bovine arse vet Bob Trescothick, Vet On A Battleship. \n\nStock media provided by Setuniman/Pond5.com and Soundrangers/Pond5.com\n\nTickets for our live show at the London Podcast Festival on 12th September 2026:\n\nIN HALL: https://www.kin",
+        "audio_url": "https://mgln.ai/e/31/claritaspod.com/measure/pscrb.fm/rss/p/afp-9384.calisto.simplecastaudio.com/e92a01ab-5b37-4cfb-95ba-46364813a9d2/episodes/fc9e4e1e-f741-42c2-964b-4b31ecb02c79/audio/128/default.mp3?aid=rss_feed&awCollectionId=e92a01ab-5b37-4cfb-95ba-46364813a9d2&awEpisodeId=fc9e4e1e-f741-42c2-964b-4b31ecb02c79&feed=4NOSW3hj",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-136-vet-on-a-battleship/id1022024768?i=1000778709147&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Mike Wozniak"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",

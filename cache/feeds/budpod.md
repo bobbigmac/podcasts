@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-07-22T08:43:34+00:00`
-- checked_at: `2026-07-22T08:43:34+00:00`
-- etag: `"djEuMi4wOjE3ODQ2OTY0OTkzODQ="`
+- fetched_at: `2026-07-29T09:07:26+00:00`
+- checked_at: `2026-07-29T09:07:26+00:00`
+- etag: `"djEuMi4wOjE3ODUzMDEyOTk0MzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-07-22T08:43:34+00:00",
+  "fetched_at": "2026-07-29T09:07:26+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "86665677fe4267cceceefd6888aa92c3f491c912",
+      "title": "S2E59 | Dark Magic Mike",
+      "published_at": "2026-07-29T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e59-dark-magic-mike",
+      "description": "Youtube version available here! This week the buds discuss 'Conspiracy theory Bond', Dr. House, Dark Magic Mike and Laika. Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! BudPod Live is back! Edinburgh Fringe Festival - August 16th, 2026 - Tickets available here Cheerful Earful Podcast Festival - October 10, 2026 - Tickets available here Bath Komedia - November 3rd, 2026 - Tickets available here Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6a694e79891394879618dc48/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79608031",
+      "itunes_duration": "55:03",
+      "speakers": [
+        "Magic Mike Youtube",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "dark",
+        "magic",
+        "mike"
+      ]
+    },
     {
       "key": "7f373e96289a023da2f24ec3cef364adde2759e7",
       "title": "S2E58 | Noseless Fashionista",
@@ -7932,6 +7954,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-29 — S2E59 | Dark Magic Mike — speakers: Magic Mike Youtube, Phil Wang, Pierre Novellie
 - 2026-07-22 — S2E58 | Noseless Fashionista — speakers: Phil Wang, Pierre Novellie
 - 2026-07-15 — S2E57 | Fry Up Police — speakers: Phil Wang, Pierre Novellie
 - 2026-07-08 — S2E56 | Hot Banana — speakers: Hot Banana Youtube, Phil Wang, Pierre Novellie
