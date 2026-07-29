@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-07-28T19:52:16+00:00`
-- checked_at: `2026-07-28T19:52:16+00:00`
-- etag: `"djEuMi4wOjE3ODQ3NDAzMjE4MjA="`
+- fetched_at: `2026-07-29T14:30:43+00:00`
+- checked_at: `2026-07-29T14:30:43+00:00`
+- etag: `"djEuMi4wOjE3ODUzMzAwMzkzOTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-07-28T19:52:16+00:00",
+  "fetched_at": "2026-07-29T14:30:43+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "3b8002cbaff76e9759aba4decead0a6e5e213a46",
+      "title": "An AI Odyssey",
+      "published_at": "2026-07-29T13:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/an-ai-odyssey",
+      "description": "Joining Andy this week on issue 4387 of The Bugle is Tiff Stevenson and from across the pacific Hari Kondabolu. As they report on Elon Musk's plans to remake an accurate portrayal of Homer's An Odyssey following the release of Christopher Nolan's cinematic blockbuster. Elsewhere the Bugle catch up of the actions of the 47th US President, the Italian con man who tricked tourists for years, Andy Burnham's first few days in office and the Commonwealth Games! 🎥 AI Odyssey: The Bugle's film review section, explores Musk's plans to produce a accurate AI version of Homer's Odyssey 🇮🇹 Ancient Con: The Bugle report on a Italian con artist's ancient deception as they faked a famed amphitheatre for years 🏅 Commonwealth Games: Andy, Hari and Tiff discuss the dated Commonwealth Games and the appearance from the Tardis of an odd looking new Doctor Donate to Emilia: https://www.crowdfunder.co.uk/p/a-safe-accessible-home-for-emilia Andy's Links: https://www.andyzaltzman.co.uk/ Hari Kondabolu's Links: https://harikondabolu.com/ Tiff Stevenson's Links: https://tiffstevenson.co.uk/ The Bugle at Edinburgh Fringe '26: Alice Fraser: https://www.edfringe.com/tickets/whats-on/alice-fraser-oh-man Nish Kumar: https://www.edfringe.com/tickets/whats-on/nish-kumar-angry-humour-from-a-really-nice-guy-work-in-progress Tom Ballard: https://www.edfringe.com/tickets/whats-on/tom-ballard-be-funny-challenge-impossible Tiff Stevenson: https://www.edfringe.com/tickets/whats-on/tiff-stevenson-lucky-work-in-progress Mark Steel: https://www.edfringe.com/tickets/whats-on/mark-steel-what-the-f-is-going-on Felicity Ward: https://www.edfringe.com/tickets/whats-on/felicity-ward-i-wish-i-could-come-out-of-my-shell Josie Long: https://www.edfringe.com/tickets/whats-on/in-conversation-with-josie-long 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1785326174181-1f78a3cb-934e-4b0b-9590-b16a6abeb339.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a69ea80fdc89d3427ce14c6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51847418",
+      "itunes_duration": "54:00",
+      "speakers": [
+        "Joining Andy",
+        "Tiff Stevenson",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "odyssey"
+      ]
+    },
     {
       "key": "6e2a6913add2e6f426aed252ea2d1029ab701a0a",
       "title": "7th PM in a decade!",
@@ -14416,6 +14436,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-29 — An AI Odyssey — speakers: Joining Andy, Tiff Stevenson, Andy Zaltzman
 - 2026-07-22 — 7th PM in a decade! — speakers: Joining Andy, Alice Fraser, Andy Zaltzman
 - 2026-07-15 — Trump's at it Again & Secret Wedding of the Century! — speakers: Josh Gondelman, Andy Zaltzman
 - 2026-07-08 — HAPPY 250th USA — speakers: Andy Zaltzman
