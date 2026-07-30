@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-07-23T11:20:00+00:00`
-- checked_at: `2026-07-23T11:20:00+00:00`
-- last_modified: `Thu, 23 Jul 2026 09:00:00 GMT`
+- fetched_at: `2026-07-30T11:20:38+00:00`
+- checked_at: `2026-07-30T11:20:38+00:00`
+- last_modified: `Thu, 30 Jul 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-23T11:20:00+00:00",
+  "fetched_at": "2026-07-30T11:20:38+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,47 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "54ceb825dab643dec337aadabe76afd6efda7536",
+      "title": "You Can Just Do Things",
+      "published_at": "2026-07-30T09:00:00+00:00",
+      "link": null,
+      "description": "Why do some people seem to create opportunities wherever they go while others spend years waiting for the right break? According to Cate Hall — lawyer turned poker player turned drug addict turned CEO of a $3B foundation — the difference isn't luck. It's the ability to question assumptions, reject the default path, and realize the world is far more malleable than it seems. In this episode, Rufus and Cate explore what it really means to become a high-agency person — a.k.a. someone who just does things. Together, they unpack why ambition isn't the same as agency, how fear of embarrassment and an obsession with hard work hold us back, and why curiosity, unconventional thinking, and expanding your \"surface area for luck\" are the keys to creating extraordinary opportunities. Cate's new book, You Can Just Do Things , is out now. 🎥 The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠⁠⁠here⁠⁠⁠⁠⁠ . ✉️ Follow Rufus on LinkedIn⁠⁠⁠⁠ , subscribe to our Substack⁠⁠⁠⁠ , or send us an email at ⁠⁠podcast@nextbigideaclub.com⁠⁠ 🔗 SPONSORED BY: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months. Just head to granola.ai/idea⁠ IM8 — Athletes, doctors, David Beckham... they all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at ⁠im8health.com/nbi⁠⁠ Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com⁠ and use code IDEA for up to 35% off your entire first order. Northwest Registered Agent — They’ve been helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree⁠⁠ Upwork — Visit upwork.com⁠ right now and post your job for free. Shopify — Stop waiting for permission to build something. Your next revenue stream starts free at ⁠ ⁠shopify.com/nbi⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP1049001170.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4276",
+      "speakers": [
+        "Things Why",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "thing"
+      ]
+    },
+    {
+      "key": "b37b678f27f7718f716c7c0e6c22de63974f06b2",
+      "title": "The Lost Art of Asking Questions",
+      "published_at": "2026-07-27T09:00:00+00:00",
+      "link": null,
+      "description": "In the age of AI, endless information, and instant certainty, philosopher Lani Watson argues that questions — not answers — are humanity's greatest intellectual advantage. Today, she explains why curiosity is a biological superpower, why schools unintentionally teach us to stop questioning, and how learning to embrace a question-oriented mindset can make us better thinkers, leaders, and humans. Lani’s new book is Q: The Hidden Power of Questions in a World That Wants Answers . You can take her Questioning Strengths Assessment here . *** 🎥 The Next Big Idea is now on YouTube! You can find our episodes ⁠ ⁠⁠⁠⁠here⁠⁠⁠⁠⁠ . ✉️ Follow Rufus on ⁠ ⁠⁠⁠LinkedIn⁠⁠⁠⁠ , subscribe to our ⁠ ⁠⁠⁠Substack⁠⁠⁠⁠ , or send us an email at ⁠⁠podcast@nextbigideaclub.com⁠⁠. 🔗 SPONSORED BY: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months. Just head to ⁠granola.ai/idea⁠ IM8 — Athletes, doctors, David Beckham — they all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at ⁠ ⁠im8health.com/nbi⁠⁠ Momentous — If you want to try Momentous Signature Spec Creatine, head to ⁠ livemomentous.com⁠ and use code IDEA for up to 35% off your entire first order. Upwork — Visit ⁠ upwork.com⁠ right now and post your job for free. Shopify — Stop waiting for permission to build something. Your next revenue stream starts free at ⁠ ⁠shopify.com/nbi⁠⁠",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP9143201760.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4556",
+      "speakers": [
+        "Lani Watson",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "lost",
+        "question"
+      ]
+    },
     {
       "key": "eb5e3d847cad9e345f9fe7e4e00dca64baf385f9",
       "title": "Sorry, Skeptics — AI Is Not a Bubble",
@@ -8154,6 +8195,8 @@
 
 ## Episodes (newest first)
 
+- 2026-07-30 — You Can Just Do Things — speakers: Things Why, Rufus Griscom, Caleb Bissinger
+- 2026-07-27 — The Lost Art of Asking Questions — speakers: Lani Watson, Rufus Griscom, Caleb Bissinger
 - 2026-07-23 — Sorry, Skeptics — AI Is Not a Bubble — speakers: Bubble First, Rufus Griscom, Caleb Bissinger
 - 2026-07-20 — Why Creating Beats Consuming | Mark Pincus (Part 2) — speakers: Mark Pincus, Rufus Griscom, Caleb Bissinger
 - 2026-07-16 — Living at the Speed of Play — speakers: building careers, Rufus Griscom, Caleb Bissinger

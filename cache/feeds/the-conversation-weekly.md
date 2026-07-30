@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-07-23T16:45:33+00:00`
-- checked_at: `2026-07-23T16:45:33+00:00`
-- etag: `"25e5ea-657495b261828"`
-- last_modified: `Thu, 23 Jul 2026 16:00:33 GMT`
+- fetched_at: `2026-07-30T11:20:38+00:00`
+- checked_at: `2026-07-30T11:20:38+00:00`
+- etag: `"25e5dc-657ce34eaf7b8"`
+- last_modified: `Thu, 30 Jul 2026 06:30:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-07-23T16:45:33+00:00",
+  "fetched_at": "2026-07-30T11:20:38+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -32,7 +32,7 @@
       "title": "Save our brains: how dangerous is sport?",
       "published_at": "2026-07-23T16:00:00+00:00",
       "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
-      "description": "With growing evidence about concussion, repetitive head impacts and long-term brain disease, have we underestimated the risks of sport all along? How did we get here, what do we really know about head injuries and given the risks, is it time to rethink children’s participation in sport? In this episode, we chat to Alan Pearce, a neuroscientist and Adjunct Research Fellow Swinburne University of Technology in Melbourne who has been researching sports-related concussions for more than two decades. This episode was written and produced by Isabella Podwinski. Mixing by Michelle Macklem and theme music by Neeta Sarl. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "description": "With growing evidence about concussion, repetitive head impacts and long-term brain disease, have we underestimated the risks of sport all along? How did we get here, what do we really know about head injuries and given the risks, is it time to rethink children’s participation in sport? In this episode, we chat to Alan Pearce, a neuroscientist and Adjunct Professor at Swinburne University of Technology in Melbourne who has been researching sports-related concussions for more than two decades. This episode was written and produced by Isabella Podwinski. Mixing by Michelle Macklem and theme music by Neeta Sarl. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/3189de4c-7c65-4b52-92b2-2618e15681a9.mp3",
       "enclosure_type": "audio/mpeg",

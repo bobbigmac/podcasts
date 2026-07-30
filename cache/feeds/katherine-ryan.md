@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-07-22T11:19:21+00:00`
-- checked_at: `2026-07-22T11:19:21+00:00`
-- etag: `"djEuMi4wOjE3ODQ3MDAwMzk3MTM="`
+- fetched_at: `2026-07-30T11:20:38+00:00`
+- checked_at: `2026-07-30T11:20:38+00:00`
+- etag: `"djEuMi4wOjE3ODU0MDQwODE3NzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-07-22T11:19:21+00:00",
+  "fetched_at": "2026-07-30T11:20:38+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,23 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "df550245344df401f1f53a4b6162e86d8ab2c805",
+      "title": "I'm Sat",
+      "published_at": "2026-07-30T09:34:41+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/im-sat",
+      "description": "This week, Katherine's Telling Everybody Everything about the family's upcoming trip to Canada and how Sarnia is a weird and wonderful place that's let them down twice already with accommodation. Third time's a charm? Also, the girlies of the nation have been collectively SAT waiting for Olivia Attwood's hot promise of screenshots that, thanks to her management, never came. What's the story? Is somebody somewhere a sidepiece? Can a case of the 'wandering mickey' ever be cured? Holly Willoughby launches her new show 'Together' on YouTube and critics are PISSED, but we're on the show and we had a good time. Former rugby person and enemy of the bus, Danny Cipriani and his fiancé AnnaLynne McCord catch heat for their wedding registry but we like it. Also, what are the UK energy drink tiers? Are some more acceptable for a lady of luxury to drink than others? Also, what can a lonely postpartum mum do when her husband works away and her sister in law is giving the cold shoulder? Finally, Andrew Johnston @mandrewbrawnston has news from Hollywood about a law suit involving Lil'Wayne and his assistant (who fights with a jet pilot!?!?), Olivia Rodrigo dating a finance bro, and a new website in Brazil that promises to help women find out whether their date is a criminal. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1785403231466-d905801f-6f6b-488e-b3a1-9a0325cedf63.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a6b1ab1fdc89d342739e2d3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99662912",
+      "itunes_duration": "1:09:12",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": []
+    },
     {
       "key": "d3977ab534f8bea00a4b38cc1508d4839eac8dd2",
       "title": "Cannes and Single Dads",
@@ -6371,6 +6388,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-30 — I'm Sat — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-07-22 — Cannes and Single Dads — speakers: Katherine Ryan
 - 2026-07-17 — Are IVF Clinics Predatory For the Over 40s? — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-07-07 — JusT&T Married — speakers: Katherine Ryan
