@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-07-23T08:43:50+00:00`
-- checked_at: `2026-07-23T08:43:50+00:00`
+- fetched_at: `2026-07-30T08:49:17+00:00`
+- checked_at: `2026-07-30T08:49:17+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 23 Jul 2026 04:06:25 GMT`
+- last_modified: `Thu, 30 Jul 2026 04:10:30 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-23T08:43:50+00:00",
+  "fetched_at": "2026-07-30T08:49:17+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f49963ec1eda7f4f6179131a1f531a3f4aefb538",
+      "title": "Jake Lambert",
+      "published_at": "2026-07-30T04:00:00+00:00",
+      "link": null,
+      "description": "Welcome back, dear friends, to my garden for another series of Pottering! The sun is still shining, my Pinky Winky are in bloom, and I have a whole host of fabulous guests for you to enjoy. ☀️ This week, I am joined by the ever-delightful Jake Lambert ! A hilarious comic and one of life’s marvellous eccentrics, you may be familiar with his splendid social videos or his global stand up success, and it was such a pleasure to invite him into the garden. We chat school bullies, Bee Movie and meditation. And do listen out for some sage advice from Jake on avoiding mouth ulcers. Yes, Pottering is educational too. 🐝 Now, prep the ice bag, pop the kettle on, tea bag in for three minutes please, and join me for some Pottering. 🪴 🎧 Watch on YouTube and Spotify or listen wherever you get your podcasts. And please do comment, like and subscribe, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/86ca5752-8b59-11f1-885a-a3ff4aac8545/image/ab9defef5085a546bd7218ca83802656.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR1700972834.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4123",
+      "speakers": [
+        "Jake Lambert",
+        "Tom Allen"
+      ],
+      "topics": [
+        "jake",
+        "lambert"
+      ]
+    },
     {
       "key": "b0d3f16ba70c050b080058d105fe89face0e4861",
       "title": "A Garden Tour",
@@ -943,6 +963,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-30 — Jake Lambert — speakers: Jake Lambert, Tom Allen
 - 2026-07-23 — A Garden Tour — speakers: Garden Tour More, Tom Allen
 - 2026-07-16 — The Clippings: Part 2 — speakers: While Pottering, Tom Allen
 - 2026-07-09 — The Clippings: Part 1 — speakers: Tom Allen

@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-07-23T08:43:50+00:00`
-- checked_at: `2026-07-23T08:43:50+00:00`
-- etag: `"24d069f8c2e053be903be282ecfb725d"`
-- last_modified: `Thu, 23 Jul 2026 08:36:36 GMT`
+- fetched_at: `2026-07-30T08:49:17+00:00`
+- checked_at: `2026-07-30T08:49:17+00:00`
+- etag: `"fa763f9b849aa1917cc68ee42ef16c6d"`
+- last_modified: `Thu, 30 Jul 2026 08:36:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-07-23T08:43:50+00:00",
+  "fetched_at": "2026-07-30T08:49:17+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -27,6 +27,28 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "d8394a89c72e3437b4f012618ce60d5bb23c9465",
+      "title": "Old Salt on the Highland Road #768",
+      "published_at": "2026-07-30T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/old-salt-on-the-highland-road-768",
+      "description": "Gather up your packs and lets hit the Highland Road. It's the Irish & Celtic Music Podcast #768. - - Subscribe now at CelticMusicPodcast.com ! Mary - Grace Autumn Lee, Open The Door For Three, Almost Seamus, Juha Rossi, Avourneen, Rogue Diplomats, TJ Hull and Amanda Caretta - Hull, The Bilge Pumps, Gwendolyn Snowdon & Cathinca, Release the Craicen, Medusa's Wake, Bang on the Ear, Pressgang Mutiny, Maggie MacInnes GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! THIS WEEK IN CELTIC MUSIC 0:02 - Intro: James Stovehouse 0:08 - Mary - Grace Autumn Lee \"Helen Burns': Black Pat's/Over the Moor to Maggie's (Reels)\" from Eyre 4:52 - WELCOME 6:21 - Open The Door For Three \"Farewell, Lovely Mary/The Lizzes\" from A Prosperous Gale 11:11 - Almost Seamus \"Old First Ward\" from Almost Seamus 14:28 - Juha Rossi \"Miss MacDermott (Princess Royal)\" from O'Carolan Tunes on Mandolin 17:07 - Avourneen \"Stony Steps\" from Way Stations 22:00 - FEEDBACK 25:18 - Rogue Diplomats \"Mary Mac / Drunken Sailor\" from Whiskey Picnic 28:30 - TJ Hull and Amanda Caretta - Hull \"The Bunch of Keys\" from Tippy Taps 32:31 - The Bilge Pumps \"Old Salt\" from Greatest Hits, Vols I - VII 36:57 - Gwendolyn Snowdon & Cathinca \"Lyke - Wake Dirge\" from Fabula Feminae - EP 41:49 - THANKS 43:38 - Release the Craicen \"Ode to Our Lost Fiddler / St. Anne's Reel\" from Live! Songs on a Boat 48:04 - Medusa's Wake \"Irish Sky\" from Rascals and Rogues 52:23 - Bang on the Ear \"The Black Tar Fiddle Set\" from Highland Road 56:22 - Pressgang Mutiny \"TEU\" from Departure 1:01:15 - CLOSING 1:02:07 - Maggie MacInnes \"Toiseach na Tràghad\" from Uiseagan Bharraigh 1:06:23 - CREDITS Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. Support for this program comes from John Sharkey White, II. Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Hank Woodward. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Finally, remember: plastic isn't just a waste problem, it's a climate problem. Most plastic is made from oil and gas, and producing it releases greenhouse gases at every step. This July, take part in Plastic Free July . Swap single use plastics for reusable bags, bottles, and containers. Solar and wind are now the cheapest power sources in history. Cutting plastic is another way to shrink demand for the fossil fuels behind it. Reduce your waste this month, one choice at a time. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories, where I share stories behind my songs and those of other Celtic and folk musicians. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email the artists to let them know you heard them on the Irish & Celtic Music Podcast. As with all things, it is important to support our community, whether that is local or in a small niche we love like \"Celtic music\". Skip the big corporate businesses and bands. Instead, spend your money where it will make a difference. You can do that with each of the artists on today's show OR your favorite artists. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . ALBUM PINS ARE CHANGING THE WAY WE HEAR CELTIC MUSIC Looking for a fresh way to support the music you love? Meet the Album Pin. Album Pins are lapel pins themed to a specific album — and each one comes with a digital download. Wear your music. All of my latest pins are wood - burned and locally produced, which means a smaller footprint and a one - of - a - kind feel you won't find anywhere else. Pick yours up at magerecords.com THANK YOU PATRONS OF THE PODCAST! Because of generous patrons like you, the Irish & Celtic Music Podcast releases new episodes nearly every single week, including this one. Your support doesn't just fund the show, it fuels a movement. It helps us share the magic of Celtic music with thousands of new listeners and grow a global community of music lovers Your contributions pay for everything behind the scenes. Audio engineering. Stunning graphics. Weekly issues of the Celtic Music Magazine. Show promotion. And most importantly, buying the music we feature from indie Celtic artists like the ones you heard today. And if you're not yet a patron? You're missing out! Patrons get: Early access to episodes Music - only editions Free MP3 downloads Exclusive stories and artist interviews A vote in the Celtic Top 20 All of this lives over at SongHenge.com. HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $30. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. Learn more about the Celtic Invasion of Hiking the Isle of Skye in 2027 at http://celticinvasion.com/ #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo. If you're in a Celtic band, send me an audio recording of you performing live. Just audio. I'll use it in a podcast episode later this year. Email me at follow@bestcelticmusic. Isobel McMahon messaged on Patreon: \"I appreciate this clear statement on AI.\" Jordan Reeder sent a photo: \"Hi, just wanted to show what I was doing while enjoying the awesome music on the podcast… one of these days I'd love to submit some of my music. Maybe after I chop my way through this pile of firewood! Alex Meyers emailed from Toronto: \"Politically neutral Irish music does not exist. Hi Marc, I started listening to the podcast seven years ago as I took my newborn son for long walks with wireless speakers perched on his stroller so he could listen too. Now with two boys we frequently listen while we have breakfast. In a recent episode you responded to yet another listener who told you to stick to music and leave the politics alone. I am always impressed by how resolute you are in the face of these cynics, you never try to soften the message of peace, compassion, and inclusion. Also, I've always found it hilariously ironic that someone would say \"leave out the politics\" about IRISH music, 1/3 of all Irish songs are about oppression and kicking out the British. Have these people never listened to The Wolfe Tones or The Cranberries? Speaking of which, I highly recommend you check out the Irish rap group Kneecap. They perform in Irish/Gaeilge and English and deserve massive credit for popularizing Gaeilge. They are firmly on the side of the oppressed from Ireland to Palestine and their latest album is \"Fenian\", which should tell you something about their politics. Keep up the great work!\"",
+      "image_url": "https://static.libsyn.com/p/assets/d/d/b/2/ddb223826d36d4e9d959afa2a1bf1c87/768-Old_Salt_on_the_Highland_Road-PressgangMutiny-1400.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-768.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65659738",
+      "itunes_duration": "01:07:56",
+      "speakers": [
+        "Old Salt",
+        "Highland Road",
+        "Marc Gunn"
+      ],
+      "topics": [
+        "salt",
+        "highland",
+        "road"
+      ]
+    },
     {
       "key": "4faad268660916b2fe6d2a5e8cf1f0d442447f7a",
       "title": "Water-bound for Ireland #767",
@@ -16397,6 +16419,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-30 — Old Salt on the Highland Road #768 — speakers: Old Salt, Highland Road, Marc Gunn
 - 2026-07-23 — Water-bound for Ireland #767 — speakers: Marc Gunn
 - 2026-07-16 — Streams of Whiskey #766 — speakers: Marc Gunn
 - 2026-07-09 — Fortune's Stormwrecked Fairie's #765 — speakers: Marc Gunn

@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-07-23T08:43:50+00:00`
-- checked_at: `2026-07-23T08:43:50+00:00`
-- etag: `W/"3b1d56d3a215ed38932e0f6ef73aad51"`
-- last_modified: `Thu, 23 Jul 2026 01:00:00 GMT`
+- fetched_at: `2026-07-30T08:49:17+00:00`
+- checked_at: `2026-07-30T08:49:17+00:00`
+- etag: `W/"026e6bf1342ba4015c20809eb5a92bf5"`
+- last_modified: `Thu, 30 Jul 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-07-23T08:43:50+00:00",
+  "fetched_at": "2026-07-30T08:49:17+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,34 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "622e8d77fcd78566a8a752654b957a59efcb3d68",
+      "title": "The Exxon Heatwave: Climate Crisis & Denial w/ Simon Clark. Plus, Save Our Humanities!",
+      "published_at": "2026-07-30T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8933907",
+      "description": "This week, as Britain enters its fourth heatwave amidst blazing wildfires across Europe, Coco & Nish are joined by Climate scientist and educator Simon Clark to ask: is this the new normal? They discuss rising temperatures, online misinformation, fire clouds(!) and which policies the UK government could be championing to both mitigate and adapt to a warming climate–listen up, Andy! Also on the show: as Exeter proposes 150 job cuts which are expected to fall disproportionately on the humanities, Nish speaks to his friend and staff member at Exeter University, Dr Peter J Riley. They dig into the value of a humanities degree and what we’re missing when we make everything about money. And: Coco & Nish reflect on the UK’s first week with Burnham at the helm, as Labour leads Reform in the polls for the first time in almost 18 months. Is it too early to be optimistic? Plus - bonus content! We bring you a clip from a conversation with actor Siobhan McSweeney and Gazan student Mahmoud Hasanain as they discuss the government’s renewed scheme to evacuate Gazan students to study at UK universities–but only if they have fully-funded places. Siobhan, along with many other well-known faces from stage and screen, is auctioning off personal items in a bid to raise funds to support these students. You can catch the full episode on YouTube, and bid online here - until Friday 7th August! Plus: you listen to Nish & Coco every week, now we want to hear from you! We’re launching an audience survey to hear about what you like, dislike, and want to see more of from PSUK. Guests! Live shows! Topics! Explainers! And did we mention there’s a prize draw? You’ve got to be in it to win it - so fill out the survey here: https://forms.gle/fWp9xXb6tcWhPxSm8 GUESTS Simon Clark Dr Peter Riley USEFUL LINKS Audience survey here: https://forms.gle/fWp9xXb6tcWhPxSm8 University Cuts Petition to stop redundancies at Exeter University: https://www.change.org/p/stop-redundancies-at-the-university-of-exeter-706befbf-8195-4b87-a96c-13666e695878 Exeter UCU: https://www.instagram.com/uniexeterucu/ Climate Crisis DeSmog: https://www.desmog.com/2026/04/30/reform-uk-nigel-farage-millions-donations-fossil-fuel-interests-climate-science-deniers/ Matt Hughes and Nick Ames - Uefa accuses Fifa of ‘enriching themselves and their friends’ over World Cup sell-off Share Action: https://shareaction.org/ Cool Earth: https://www.coolearth.org/ Fossil Free Media: https://fossilfree.media/ Gaza Auction: https://www.jumblebee.co.uk/ScholarshipsForGaza Keir’s goodbye video: https://www.tiktok.com/@keirstarmer/video/7664565924204203286?lang=en-GB CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK HEXCLAD: https://www.hexclad.co.uk/PSTUK SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is an Intelligence Squared production for Crooked Media. Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43765814/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8933907.mp3?modified=1785349370&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5439",
+      "speakers": [
+        "Simon Clark",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "exxon",
+        "heatwave",
+        "climate",
+        "crisis",
+        "denial",
+        "simon",
+        "clark",
+        "save",
+        "humanities"
+      ]
+    },
     {
       "key": "207fd7209330fde969096ada1b34548356a854e1",
       "title": "Burnham’s Britain & Cabinet Pic ‘n’ Mix w/ Anoosh Chakelian",
@@ -86,7 +114,7 @@
       "link": "https://audioboom.com/posts/8925412",
       "description": "This week, we cancel our early celebrations at the news of Nigel Farage’s resignation, given that he announced in the same breath he would be standing in the very by-election he triggered… Another one?! While Nish is off on a glamorous sidequest, Coco’s joined by guest host journalist Zoë Grünewald to make sense of this latest stunt from Nige. Is this a political gamble that will pay off, or a final act of desperation? Also on the show, we look to Ankara, where world leaders have descended for the latest NATO summit amidst rising geopolitical tensions... Author and foreign correspondent Hannah Lucinda Smith breaks down how warfare has changed, why we should be investing more in defence, and what the presumptive PM Andy Burnham could do to get Britain back on track on the world stage. USEFUL LINKS Buy Hannah’s book! https://www.waterstones.com/book/hinterlands/hannah-lucinda-smith/9781805225416 Sunday Times Investigation into ‘Daddy’ Farage and ‘Posh George’: https://www.thetimes.com/uk/politics/article/revealed-nigel-farage-secretly-funded-by-convicted-criminal-j0brtrlnk GUESTS Hannah Lucinda Smith CHECK OUT THESE DEALS FROM OUR SPONSORS WISE: https://www.wise.com SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is an Intelligence Squared production for Crooked Media. We’ll be doing another mailbag episode soon so get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43732803/s=1400x1400/el=1/rt=fill.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8925412.mp3?modified=1783537703&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8925412.mp3?modified=1783985883&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4551",
@@ -143,7 +171,7 @@
       "link": "https://audioboom.com/posts/8920527",
       "description": "As Ben Rhodes says on this week’s episode, “we’re in a revolutionary moment globally”. Joining Nish and Coco from sister show Pod Save the World, Ben shares (and despairs) about the state of UK and US politics, and tells us what we can take from the Democrats’ disaster of 2024. Isn’t it time that progressives got their own populist? Plus, we hear about Ben’s new book, ‘All We Say’, tracing American history through some of its most famous–and infamous–speeches. We talk to him about the similarities between Britain and America both losing their way when it comes to national identity, and how our leaders need to tell it like it is. We can handle the truth! Also on the show: New Statesman Editor Tom McTague dissects Starmer’s swan song, explains his last minute decision not to challenge Burnham for leadership, and sets out why it all went wrong for a man who won a landslide victory less than two years ago. USEFUL LINKS Grab a copy of Ben’s new book, All We Say: https://www.penguin.co.uk/books/470622/all-we-say-by-rhodes-ben/9781847928887 Ailbhe Rea’s recent piece in the New Statesman: https://www.newstatesman.com/politics/labour/2026/06/what-happens-now Tom McTague’s interview with Keir Starmer: https://www.newstatesman.com/politics/2025/06/what-keir-starmer-cant-say GUESTS Ben Rhodes Tom McTague CHECK OUT THESE DEALS FROM OUR SPONSORS SAILY: https://www.saily.com/podsave HRF Power Plays: Search Power Plays wherever you get your podcasts. VANTA: https://www.vanta.com/PSTUK WISE: https://www.wise.com BT: Search ‘Why BT’ to find out more. Pod Save the UK is an Intelligence Squared production for Crooked Media. Get in touch - contact us via email: podsavetheuk@crooked.com we’d love to hear from you as we plan to do a mailbag episode soon: end any questions, thoughts, or musings our way! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43712998/s=1400x1400/el=1/rt=fill.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8920527.mp3?modified=1782378759&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8920527.mp3?modified=1783984613&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3923",
@@ -169,7 +197,7 @@
       "link": "https://audioboom.com/posts/8917806",
       "description": "As Makerfield goes to the polls today, Nish and Coco take a look back at Andy's campaign. They interrogate Burnham’s ‘King of the North’ brand, and dig into what ‘Manchesterism’ actually is —asking how it could work on a national scale. They’re joined by Jack Dulhanty, journalist at Manchester Mill, to break down whether we can expect a people-pleaser for our next Prime Minister, how voting intentions have split households, and why a four-month old political party has given Reform a run for its money. Plus: following the Court of Appeal’s ruling upholding the ban on Palestine Action and the terror sentencing of the ‘Filton 4’ activists, we speak to Akiko Hart, director of Liberty, the UK’s oldest human rights organisation, to understand the consequences of applying such a broad definition of terrorism. And, as a social media ban looms for under-16s, what could this mean for the future of digital privacy in the UK? USEFUL LINKS See Ben Rhodes and Coco Khan live! Tickets here. Liberty breaks down the Palestine Action ruling: https://www.libertyhumanrights.org.uk/issue/breaking-down-the-court-of-appeal-judgment-on-palestine-actions-proscription/#:~:text=On%2015%20June%202026%2C%20the%20Court%20of%20Appeal%20ruled%20in,proscription%20was%20lawful%20and%20proportionate . GUESTS Akiko Hart Jack Dulhanty CHECK OUT THESE DEALS FROM OUR SPONSORS SAILY: https://www.saily.com/podsave BT: Search ‘Why BT’ to find out more. SHOPIFY: https://www.shopify.co.uk/podsavetheuk VANTA: https://www.vanta.com/PSTUK Pod Save the UK is an Intelligence Squared production for Crooked Media. Get in touch - contact us via email: podsavetheuk@crooked.com Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43702705/s=1400x1400/el=1/rt=fill.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8917806.mp3?modified=1781719659&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8917806.mp3?modified=1783984711&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3948",
@@ -4038,6 +4066,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-30 — The Exxon Heatwave: Climate Crisis & Denial w/ Simon Clark. Plus, Save Our Humanities! — speakers: Simon Clark, Nish Kumar, Coco Khan
 - 2026-07-23 — Burnham’s Britain & Cabinet Pic ‘n’ Mix w/ Anoosh Chakelian — speakers: Cabinet Pic, Nish Kumar, Coco Khan
 - 2026-07-16 — Wildfires, World Cup Football and Women’s Aid w/ Farah Nazeer — speakers: Farah Nazeer, Andy Burnham, Nish Kumar, Coco Khan
 - 2026-07-09 — ‘The Sleaze By-Election’: Farage Resigns…and Runs Again?! Plus, World War Three is here w/ Hannah Lucinda Smith — speakers: Runs Again, Hannah Lucinda Smith, Nish Kumar, Coco Khan
