@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-07-27T10:08:09+00:00`
-- checked_at: `2026-07-27T10:08:09+00:00`
-- etag: `"djEuMi4wOjE3ODUxNDEyNTc3ODQ="`
+- fetched_at: `2026-07-30T14:30:55+00:00`
+- checked_at: `2026-07-30T14:30:55+00:00`
+- etag: `"djEuMi4wOjE3ODU0MTgyMzkzNjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-07-27T10:08:09+00:00",
+  "fetched_at": "2026-07-30T14:30:55+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "67c0c1c3d99c1f4b89bb8a9319dca4b0c0423877",
+      "title": "Looney Tunes: Back In Action - Caravan Of Garbage",
+      "published_at": "2026-07-30T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/looney-tunes-back-in-action-caravan-of-garbage",
+      "description": "Looney Tunes: Back In Action has been much requested since we covered the original Space Jam in 2021. And in the lead up to Coyote vs. Acme in 2026 and in the spirit of blending live action with 2D animation here we are. And oh my goodness this he Brendan Fraser we love him! It also has Bugs Bunny and we love him also! And it's got spies which we also love and Batman which we love and running around which I guess we love and aliens which alright and a monkey crystal that turns people in to monkeys which wait maybe this movie isn't good? Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a5da095740ca41b5aebae67/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27310078",
+      "itunes_duration": "26:34",
+      "speakers": [
+        "Looney Tunes",
+        "Space Jam",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "looney",
+        "tune",
+        "action",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "006a54ea38c55fdee7127a5ca5a21cb7efadce5b",
       "title": "633 Best & Worst of Comic Con 2026",
@@ -22774,6 +22799,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-30 — Looney Tunes: Back In Action - Caravan Of Garbage — speakers: Looney Tunes, Space Jam, James Clement, Nick Mason
 - 2026-07-27 — 633 Best & Worst of Comic Con 2026 — speakers: Ryan Gosling, James Clement, Nick Mason
 - 2026-07-23 — Who Framed Roger Rabbit - Caravan Of Garbage — speakers: Roger Rabbit Caravan, Roger Rabbit, James Clement, Nick Mason
 - 2026-07-20 — 632 The Odyssey! (big movie) — speakers: Christopther Nolan, James Clement, Nick Mason

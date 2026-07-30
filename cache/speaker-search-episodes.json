@@ -23316,6 +23316,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:7ab64334a67c",
+        "feed_title": "The Green Man Podcast",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT9640995357",
+        "dedupe_key": "32da778db09c9c16a904039db79e2fc5db24f8da",
+        "episode_key": "32da778db09c9c16a904039db79e2fc5db24f8da",
+        "title": "Stewart Lee & Mogwai’s Stuart Braithwaite (GM26 Preview)",
+        "published_at": "2026-07-29T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Critically acclaimed stand-up comedian Stewart Lee sits down with your Thursday night headliner Mogwai ahead of Green Man Festival 2026. Longtime admirers of each other’s work, Stew and Stu discuss the various eras of Mogwai’s thirty-year back catalogue of epic instrumentalism, and how Stewart keeps his comedy surprisi",
+        "audio_url": "https://traffic.megaphone.fm/KILM7754258167.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee-mogwais-stuart-braithwaite-gm26-preview/id1701170588?i=1000778791741&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e34d98fa2cca",
         "feed_title": "Roadtrip Canterbury, op weg naar Stewart Lee",
         "source_rss_url": "https://anchor.fm/s/114398298/podcast/rss",
