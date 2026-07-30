@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-07-30T03:27:11+00:00`
-- checked_at: `2026-07-30T03:27:11+00:00`
-- etag: `W/"48217-z71M3azr+XXPH+8XJo2tzzmStiM"`
+- fetched_at: `2026-07-30T19:51:04+00:00`
+- checked_at: `2026-07-30T19:51:04+00:00`
+- etag: `W/"46f71-OB4mbJXBY33wkLR6dNCAYCrPCDE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-07-30T03:27:11+00:00",
+  "fetched_at": "2026-07-30T19:51:04+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -2643,56 +2643,6 @@
         "elis",
         "james",
         "robins"
-      ]
-    },
-    {
-      "key": "be82e0f7de9c806a74b984e5163943fc1bd324c0",
-      "title": "Elis' Gig Diaries The Complete Collection - Elis James and John Robins",
-      "published_at": "2026-04-15T18:59:26+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Elis-Gig-Diaries-The-Complete-Collection---Elis-James-and-John-Robins-e3hva71",
-      "description": "Elis James Gig diaries from xfm show",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1776279536398-eacf2ef3eeaa8.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118515361/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-15%2F55f75247-3f05-686c-e9e0-a63de2d05f50.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "59461268",
-      "itunes_duration": "01:22:34",
-      "speakers": [
-        "John Robins",
-        "Elis James"
-      ],
-      "topics": [
-        "elis",
-        "diaries",
-        "complete",
-        "collection",
-        "james",
-        "john",
-        "robins"
-      ]
-    },
-    {
-      "key": "443fe7b463431cacd2a4610c8cacaee0202f5260",
-      "title": "A Robins Amongst The Pigeons The Complete Collection - Elis James and John Robins (Radio X)",
-      "published_at": "2026-04-14T17:49:58+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/A-Robins-Amongst-The-Pigeons-The-Complete-Collection---Elis-James-and-John-Robins-Radio-X-e3htgkv",
-      "description": "A Robins Amongst the Pigeons is a humorous and reflective memoir by British comedian John Robins. The book blends personal stories, stand-up material, and diary-style entries to explore his life, career, and struggles with mental health. At its core, the book follows Robins during a turbulent period in his life, particularly around a breakup and the emotional fallout that follows. He writes candidly about anxiety, obsessive tendencies, and the pressure of trying to maintain success in comedy while dealing with internal turmoil. Despite these heavier themes, the tone remains witty and self-aware, with Robins often poking fun at his own habits and overthinking. A major thread throughout the book is Robins’ love of radio and stand-up comedy, especially his work on shows like those with Elis James. He reflects on friendship, creative partnership, and the role comedy plays as both an escape and a coping mechanism. Ultimately, A Robins Amongst the Pigeons is a mix of humor and vulnerability. It offers insight into the mind of a comedian while addressing relatable themes like heartbreak, self-doubt, and personal growth, making it both entertaining and emotionally resonant.",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1776188978788-401ab1abdf41a.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118456415/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-14%2F8be13c04-f5c1-e191-fc44-ac62b6c7ab24.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "96261145",
-      "itunes_duration": "01:40:15",
-      "speakers": [
-        "John Robins"
-      ],
-      "topics": [
-        "robins",
-        "pigeon",
-        "complete",
-        "collection",
-        "elis",
-        "james",
-        "john",
-        "radio"
       ]
     },
     {
@@ -5663,8 +5613,6 @@
 - 2026-04-23 — Josh Widdicombe XFM #1 - Stephen Merchant, James Acaster Classic Scrape, Joe Lycett — speakers: James Acaster Classic Scrape, Joe Lycett Ricky Gervais, Josh Widdicombe, Stephen Merchant
 - 2026-04-19 — BetaBet The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-04-16 — John's Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
-- 2026-04-15 — Elis' Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins, Elis James
-- 2026-04-14 — A Robins Amongst The Pigeons The Complete Collection - Elis James and John Robins (Radio X) — speakers: John Robins
 - 2026-04-11 — #56 Jon Richardson Podcast
 - 2026-04-10 — #55 Jon Richardson Podcast
 - 2026-04-09 — #54 Jon Richardson Podcast
