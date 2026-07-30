@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-07-22T03:45:03+00:00`
-- checked_at: `2026-07-22T03:45:03+00:00`
-- etag: `"a591c-65728091853ae"`
-- last_modified: `Wed, 22 Jul 2026 00:15:23 GMT`
+- fetched_at: `2026-07-30T16:49:05+00:00`
+- checked_at: `2026-07-30T16:49:05+00:00`
+- etag: `"a5e5b-657d60b3c1c11"`
+- last_modified: `Thu, 30 Jul 2026 15:51:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-07-22T03:45:03+00:00",
+  "fetched_at": "2026-07-30T16:49:05+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "09db7cd3d23fa11117e2f5a57435aa0cbf0d2692",
+      "title": "Fifth Wednesday Ersatz Episode",
+      "published_at": "2026-07-30T15:50:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/fifth-wednesday-ersatz-episode",
+      "description": "No normal episode of Three Bean Salad this week (it's a five Wednesday July and we only do four episodes a month because of Andy Burnham)",
+      "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/fdd4242a-e7ed-47a8-a5d6-eb5210018e73.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=fdd4242a-e7ed-47a8-a5d6-eb5210018e73",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "2242768",
+      "itunes_duration": "02:20",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "fifth",
+        "wednesday",
+        "ersatz"
+      ]
+    },
     {
       "key": "2c127393e33de0478bec323be0d0b6f56c218a48",
       "title": "Frogs",
@@ -4417,6 +4439,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-30 — Fifth Wednesday Ersatz Episode — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-22 — Frogs — speakers: Paul McCartney, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-15 — Stationary — speakers: David Blaine, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-08 — Village Fêtes — speakers: High Street, Mike Wozniak, Henry Paker, Benjamin Partridge

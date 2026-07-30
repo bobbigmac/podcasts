@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-07-29T11:33:42+00:00`
-- checked_at: `2026-07-29T11:33:42+00:00`
-- etag: `"djEuMi4wOjE3ODUzMjI3ODA1NTY="`
+- fetched_at: `2026-07-30T16:49:05+00:00`
+- checked_at: `2026-07-30T16:49:05+00:00`
+- etag: `"djEuMi4wOjE3ODU0MjU2NDE3NDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-07-29T11:33:42+00:00",
+  "fetched_at": "2026-07-30T16:49:05+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "91816d10854f433ad649830e996d22e1d559fe81",
+      "title": "The Burnham comms and policy blitz",
+      "published_at": "2026-07-30T15:34:01+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/the-burnham-comms-and-policy-blitz",
+      "description": "Andy Burnham’s policy and comms blitz powers on - he is setting out his intentions early, and with a very different style than his predecessor. Meanwhile, on his second week, his government is fully appointed, but the fallout is still rumbling away in the background. Anoosh Chakelian is joined by Ailbhe Rea and Tom McTague to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1785425179230-6f72de46-e196-4857-a605-4715e00e36a5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a6b6c9fe01c291232c979be/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "173722235",
+      "itunes_duration": "1:12:19",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "burnham",
+        "comms",
+        "policy",
+        "blitz"
+      ]
+    },
     {
       "key": "1a872b322884e9a34677302d5a3ee32b126dca3e",
       "title": "Can the UK turn its life sciences strengths into global leadership?",
@@ -31914,6 +31937,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-30 — The Burnham comms and policy blitz — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-29 — Can the UK turn its life sciences strengths into global leadership? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-07-25 — Gary Lineker wants to pay more tax. What's stopping him? — speakers: Gary Lineker, Anoosh Chakelian, Oli Dugmore
 - 2026-07-23 — Burnham's cabinet — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
