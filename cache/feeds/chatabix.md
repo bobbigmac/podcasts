@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-07-29T03:37:43+00:00`
-- checked_at: `2026-07-29T03:37:43+00:00`
-- etag: `"djEuMi4wOjE3ODUyOTA0Mzk1MDk="`
+- fetched_at: `2026-07-30T03:27:11+00:00`
+- checked_at: `2026-07-30T03:27:11+00:00`
+- etag: `"djEuMi4wOjE3ODUzNzY4Mzk1NTA="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-07-29T03:37:43+00:00",
+  "fetched_at": "2026-07-30T03:27:11+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "77208eaa43d9f4fcf2f4eff9308d3e32942a55ba",
+      "title": "S16 Ep 877: Graham’s Song and Morning Walks",
+      "published_at": "2026-07-30T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-877-grahams-song-and-morning-walks",
+      "description": "Picking up from yesterday’s show, Joe wants to find out more about David’s early morning walks. But before they get into that, David updates Joe on a song he’s written about his new and very platonic relationship with a man. Then it’s on with the walking chat - and also a slightly morbid discussion about what they’d do if they ever found a dead body. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a64843a8c6152b11fe4771c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39873724",
+      "itunes_duration": "41:32",
+      "speakers": [
+        "Graham’s Song",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "graham",
+        "song",
+        "morning",
+        "walks"
+      ]
+    },
     {
       "key": "0aaf1f83a65146b106e24b74e4f63bdc2a1af479",
       "title": "S16 Ep 876: Men Give Their Willy No Thought",
@@ -15696,6 +15719,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-30 — S16 Ep 877: Graham’s Song and Morning Walks — speakers: Graham’s Song, Joe Wilkinson, David Earl
 - 2026-07-29 — S16 Ep 876: Men Give Their Willy No Thought — speakers: Joe Wilkinson, David Earl
 - 2026-07-28 — S16 Ep 875: Clear Headed And Nothing To Say — speakers: Joe Wilkinson, David Earl
 - 2026-07-27 — S16 Ep 874 Vault Mondays: Experimental Party — speakers: Joe Wilkinson, David Earl

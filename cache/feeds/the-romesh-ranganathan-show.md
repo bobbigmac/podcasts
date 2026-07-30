@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-07-29T16:38:48+00:00`
-- checked_at: `2026-07-29T16:38:48+00:00`
-- last_modified: `Wed, 29 Jul 2026 16:11:14 GMT`
+- fetched_at: `2026-07-30T03:27:11+00:00`
+- checked_at: `2026-07-30T03:27:11+00:00`
+- last_modified: `Thu, 30 Jul 2026 01:35:16 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-29T16:38:48+00:00",
+  "fetched_at": "2026-07-30T03:27:11+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "9dc8f0ad5f10bbe3f0d99e8835cd45fd8335a03f",
+      "title": "The Chili Oil Special",
+      "published_at": "2026-07-29T23:01:00+00:00",
+      "link": null,
+      "description": "Can Romesh win the Chili Oil Mastermind quiz? We're back with another Thursday episode of The Romesh Ranganathan Show and Shanthi puts Romesh's chilli knowledge to the test in a fiery Mastermind-style quiz, before they share their thoughts on some tantalizing listener dilemmas from inappropriate chat-up lines to spicing up relationships. Elsewhere, the pair discuss Shanthi's story and Romesh opens up about why he's protective of his family and the past. From chili oil to the secret of a successful, long-lasting marriage, it's another classic Thursday episode with Shanthi and Rom. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 04:51 On Kelly Cates 06:17 Chili Oil Mastermind 21:38 Inappropriate chat-up lines 27:42 The truth about Shanthi’s story 33:20 Marriage advice 38:17 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e55022e0-8a7b-11f1-8907-873518725b4e/image/aefff02fc732206a56dd95ed5e4737d1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4124777321.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2519",
+      "speakers": [
+        "Oil Mastermind",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "chili",
+        "special"
+      ]
+    },
     {
       "key": "ba70efbd65c126905c6e0551a0346b477bf2dcf0",
       "title": "Kelly Cates: From Sky Sports News To Match Of The Day",
@@ -2035,6 +2055,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-29 — The Chili Oil Special — speakers: Oil Mastermind, Romesh Ranganathan
 - 2026-07-26 — Kelly Cates: From Sky Sports News To Match Of The Day — speakers: Kelly Cates, Romesh Ranganathan
 - 2026-07-22 — Shanthi’s Suspicions, Monkey Bites & Stage Names — speakers: Romesh Ranganathan
 - 2026-07-19 — Judi Love On Self-Care, Posh Gyms & Comedy Acting — speakers: Posh Gyms, Comedy Acting How, Judi Love, Romesh Ranganathan
