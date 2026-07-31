@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-07-31T03:48:50+00:00`
-- checked_at: `2026-07-31T03:48:50+00:00`
-- last_modified: `Thu, 30 Jul 2026 15:55:11 GMT`
+- fetched_at: `2026-07-31T09:15:48+00:00`
+- checked_at: `2026-07-31T09:15:48+00:00`
+- last_modified: `Fri, 31 Jul 2026 05:41:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/b2aa3247887f1870e2463ba16df8b5ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-31T03:48:50+00:00",
+  "fetched_at": "2026-07-31T09:15:48+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d49bba09e9bc7cbeebf68b1bc692e0adda668d28",
+      "title": "S13 EP4: Rob Beckett: The Toast Thief",
+      "published_at": "2026-07-31T05:11:00+00:00",
+      "link": null,
+      "description": "In this episode Rob gets accused of stealing a childs toast at a breakfast buffet on holiday.... ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6158501386.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3255",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "beckett",
+        "toast",
+        "thief"
+      ]
+    },
     {
       "key": "752e6b16af8e48d7eb97033baa0b6483d4622f2b",
       "title": "S13 EP3: Camera on a yoghurt",
@@ -12359,6 +12380,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-31 — S13 EP4: Rob Beckett: The Toast Thief — speakers: Rob Beckett, Josh Widdicombe
 - 2026-07-28 — S13 EP3: Camera on a yoghurt — speakers: Rob Beckett, Josh Widdicombe
 - 2026-07-24 — S13 EP2: Big Pants Update and a seagull attacks Josh — speakers: Rob Beckett, Josh Widdicombe
 - 2026-07-21 — S13 EP1: Hotdogs for Breakfast — speakers: Rob Beckett, Josh Widdicombe

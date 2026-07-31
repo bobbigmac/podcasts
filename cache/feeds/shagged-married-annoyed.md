@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-07-10T09:52:27+00:00`
-- checked_at: `2026-07-10T09:52:27+00:00`
-- last_modified: `Fri, 10 Jul 2026 04:07:38 GMT`
+- fetched_at: `2026-07-31T09:15:48+00:00`
+- checked_at: `2026-07-31T09:15:48+00:00`
+- last_modified: `Fri, 31 Jul 2026 03:49:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-10T09:52:27+00:00",
+  "fetched_at": "2026-07-31T09:15:48+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,138 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "dd21bc0d6a3dcb4e4fcdc4b7c84d6d970ef43a61",
+      "title": "The communal nut bowl, trust issues and Celebrity Gladiators!",
+      "published_at": "2026-07-31T03:41:00+00:00",
+      "link": null,
+      "description": "On Shagged Married Annoyed this week Chris and Rosie are back from their holidays and are celebrating their 12 year wedding anniversary! They discuss trust issues, true crime, communal food and kids making friends on holiday! There's also some air con wars, an unfortunate game of cornhole, Stuart Little 2 chat and Rosie announces that it's National Lip Stick Day! All of this plus Beefs, a fabulous voice note and some great Questions from the Public! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2508155746.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4187",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "bowl",
+        "trust",
+        "issue",
+        "celebrity",
+        "gladiators"
+      ]
+    },
+    {
+      "key": "12bf270c053c3548117ece3343df6df06556dc87",
+      "title": "Please Keep Me Anonymous with Rosie Jones",
+      "published_at": "2026-07-29T03:45:00+00:00",
+      "link": null,
+      "description": "On this week’s podcast Chris and Rosie are joined by the brilliant writer, actor and comedian Rosie Jones! Rosie is on to talk about her Edinburgh show that is running for the whole of the fringe! They also discuss eating and drinking habits during the festival and why Rosie is down to one drink per week. They discuss what Rosie would have done if she wasn’t a comedian and what it felt like hearing Jimmy Carr tell a joke she’d written! All of this plus a Please Keep Me Anonymous story that sparks a debate in the studio! To book tickets to Rosie’s Edinburgh run visit rosiejonescomedy.com If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! : shaggedmarriedannoyed@gmail.com : 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3dc60842-8a7f-11f1-9c52-6be66ce69f97/image/045bf884fcaabd3e830e6b9ed6fa68e7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5558460889.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2636",
+      "speakers": [
+        "Rosie Jones",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "rosie",
+        "jones"
+      ]
+    },
+    {
+      "key": "e68ac1bf6802891052f4e985814b3786ef07c230",
+      "title": "The luteal phase, a mistaken death and is there a new podcast pending?!",
+      "published_at": "2026-07-24T03:41:00+00:00",
+      "link": null,
+      "description": "On the podcast this week Rosie joins us from her luteal phase and has some beef with her period tracking app! Chris has got himself a new catchphrase (which isn't approved) and they have had correspondence from a listener whose group chat caused some serious googling about the whereabouts of Chris Ramsey. Beefs include raw dogging supplements and some questionable vaping advice. All of this plus some QFTPs and a tube ick! Enjoy... If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2880070077.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2856",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "phase",
+        "death",
+        "podcast"
+      ]
+    },
+    {
+      "key": "570d6ac1d05da6d0d19895742a1609dcb5127281",
+      "title": "Please Keep Me Anonymous with Ricky Wilson",
+      "published_at": "2026-07-22T03:53:00+00:00",
+      "link": null,
+      "description": "On this week’s podcast Chris and Rosie are joined by Kaiser Chiefs frontman and all-round legend, Ricky Wilson. Ricky is on to chat about his part in Grease The Immersive Musical but in true Shagged Married Annoyed fashion they go on many tangents! Chris begins with some fan Girling and then the three discuss panel shows, scary movies, their joint love of TK Maxx, and weird things Ricky has said to famous musicians. There’s a great Please Keep Me Anonymous and we find out which West End show Rosie missed out on and Ricky shares a story about the time he had a fight with Johnny Rotten! For tickets for Grease The Immersive Musical visit greasetheimmersivemoviemusical.com/tickets If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bc158fe2-83b3-11f1-9658-f7de8c3ebb5f/image/5d9f2e086c4a0ac3abff068661ceaca7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8765266764.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2933",
+      "speakers": [
+        "Ricky Wilson",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "ricky",
+        "wilson"
+      ]
+    },
+    {
+      "key": "1ac67c1e8dd3b8f1ed69131171ed04a1ef236b8d",
+      "title": "Heatwave Swamp Crack and the Eyebrow Saga Continues...",
+      "published_at": "2026-07-17T03:42:00+00:00",
+      "link": null,
+      "description": "Chris and Rosie are back from a very hot and sweaty trip to London... how much Sudocream did Chris need and more importantly, did the eyebrows stay intact? The pair have some customer service beef plus some passive aggressive interactions with restaurant staff. Chris shares why he is finally done with stag do's and the world of dirty talking cars is revealed! All of this plus a World Cup Ick, some 90's parenting and a nasty seagull! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7131558050.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3412",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "heatwave",
+        "swamp",
+        "crack",
+        "eyebrow",
+        "saga"
+      ]
+    },
+    {
+      "key": "baebc68e40aae789dd16ec291ece9c4207e683b6",
+      "title": "Please Keep Me Anonymous with Tom Kerridge",
+      "published_at": "2026-07-15T04:00:00+00:00",
+      "link": null,
+      "description": "If you're not hungry now, you will be after to listening to this! This week Chris and Rosie are joined by Chef extraordinaire Tom Kerridge! As well as talking about his new TV Series 'Tom Kerridge Cooks Italy' , they also discuss what life was like as an upcoming chef in London in the 90's, Tom's favourite cuisine and why a Greggs Sausage Roll is still a staple! Tom also reads a story from a SMA , Chris reveals his fond memories of eating at one of Tom's restaurants and Rosie recounts the time she almost vomited on live TV! Tom Kerridge Cooks Italy is a 6 x 30 series made by South Shore and Bone Soup for ITV1 and ITVX, proudly supported by M&S Food. If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/621c13b6-7edc-11f1-96c4-ff6abf159b1d/image/87b8340addcddfdb1f96ed5ed05af95d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3634389033.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2415",
+      "speakers": [
+        "Tom Kerridge",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "kerridge"
+      ]
+    },
     {
       "key": "56c94fe34cf3a0162ff618b202af02263d2c4227",
       "title": "The World Cup, Rosie's First Tattoo and is there a Priest Listening?",
@@ -8732,6 +8864,12 @@
 
 ## Episodes (newest first)
 
+- 2026-07-31 — The communal nut bowl, trust issues and Celebrity Gladiators! — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-07-29 — Please Keep Me Anonymous with Rosie Jones — speakers: Rosie Jones, Chris Ramsey, Rosie Ramsey
+- 2026-07-24 — The luteal phase, a mistaken death and is there a new podcast pending?! — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-07-22 — Please Keep Me Anonymous with Ricky Wilson — speakers: Ricky Wilson, Chris Ramsey, Rosie Ramsey
+- 2026-07-17 — Heatwave Swamp Crack and the Eyebrow Saga Continues... — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-07-15 — Please Keep Me Anonymous with Tom Kerridge — speakers: Tom Kerridge, Chris Ramsey, Rosie Ramsey
 - 2026-07-10 — The World Cup, Rosie's First Tattoo and is there a Priest Listening? — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-07-08 — Please Keep Me Anonymous with Charlie Baker — speakers: Charlie Baker, Chris Ramsey, Rosie Ramsey
 - 2026-07-03 — Another Stag Do, A Little Accident and Memories of Snogging Strangers — speakers: Chris Ramsey, Rosie Ramsey
