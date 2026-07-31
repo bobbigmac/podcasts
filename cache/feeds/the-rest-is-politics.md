@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-07-30T03:27:11+00:00`
-- checked_at: `2026-07-30T03:27:11+00:00`
-- last_modified: `Thu, 30 Jul 2026 03:22:32 GMT`
+- fetched_at: `2026-07-31T03:48:50+00:00`
+- checked_at: `2026-07-31T03:48:50+00:00`
+- last_modified: `Thu, 30 Jul 2026 23:00:53 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-30T03:27:11+00:00",
+  "fetched_at": "2026-07-31T03:48:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "1b24d8e06849f4f1b9476193f501b24c8e0c4f91",
+      "title": "Data Centres vs. Drinking Water: What Matters To Us Most?",
+      "published_at": "2026-07-30T22:55:00+00:00",
+      "link": null,
+      "description": "To hear the full episode, which includes an interview with global water expert, Sandra Postel, sign up at the therestispolitics.com With the government quietly categorising data centres as ‘critical infrastructure’, could we ever be in a situation where data centre water supply is prioritised over the water that comes out of our taps? Why do we no have clear data that tells just how much water data centres use? And why are so many data centres being built in areas which are already water stressed? Join Caroline Lucas and Ollie Hayes as they all of these questions and more. ⁠⁠Read the redacted Joint Intelligence Committee Report here⁠⁠ ⁠⁠Find out more about the National Emergency Briefing here.⁠⁠ Find Sandra Postel's book here Read Global Action Plan's AI Data Centre Water Report Here Producer: India Dunkley Video Editor: Kieron Leslie Social Producer: Celine Charles General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/34d12bac-8b8a-11f1-b4b8-ab1870a10e2d/image/59b998b5fc503d3235f6a969553d5637.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8278683695.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "984",
+      "speakers": [
+        "Sandra Postel"
+      ],
+      "topics": [
+        "data",
+        "centres",
+        "drinking",
+        "water"
+      ]
+    },
     {
       "key": "0bd6d8c827133baf9c6ac3abefd23f727e1e73f3",
       "title": "558. The 'Cockroach' Uprising and Should We Stop Data Centres?",
@@ -12519,6 +12540,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-30 — Data Centres vs. Drinking Water: What Matters To Us Most? — speakers: Sandra Postel
 - 2026-07-29 — 558. The 'Cockroach' Uprising and Should We Stop Data Centres?
 - 2026-07-28 — 557. Can Burnham Deliver Britain's Biggest Change in Generations? — speakers: Can Andy Burnham
 - 2026-07-23 — Britain's Ticking Time Bomb: The Food Security Crisis — speakers: Ticking Time Bomb

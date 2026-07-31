@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-29T03:37:43+00:00`
-- checked_at: `2026-07-29T03:37:43+00:00`
-- etag: `"djEuMi4wOjE3ODUyOTM4NTkyNTE="`
+- fetched_at: `2026-07-31T03:48:50+00:00`
+- checked_at: `2026-07-31T03:48:50+00:00`
+- etag: `"djEuMi4wOjE3ODU0NjY2NTk3NDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-29T03:37:43+00:00",
+  "fetched_at": "2026-07-31T03:48:50+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "626a2a673cceefee0c9b5db46c3868cde451e447",
+      "title": "Martin Fitzgerald on The Umbrella Man and Other Stories - Book Club",
+      "published_at": "2026-07-31T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club 190 - The Umbrella Man and Other Stories - Another remote Book Club where Rich talks to author Martin Fitzgerald about his book about the JFK assassination, which looks at everything from a very different perspective by examining the witnesses and not worrying about whodunnit. Was the Umbrella Man really signalling to all the assassins that it was time to shoot (and wouldn’t that be a bit of a distraction rather than a help)? What was it that attracted these people to the relatively quiet part of the route in Dealey Plaza rather than the ticker tape of Main Street? Is it possible to understand the amateurish nature of the detective work from a 21st Century perspective? Why did some witnesses hog the limelight whilst others disappeared immediately and did some people insert themselves into the story who weren’t there? How did the racism endemic in Dallas at the time affect the responses of the African- American witnesses? What effect did the assassination have on Dallas as a whole? And how easy is it to be a reliable witness or a truly impartial judge of what happened? It’s a terrific book and a really interesting approach to the event and I thoroughly recommend it. Buy the book here - https://uk.bookshop.org/p/books/the-umbrella-man-and-other-stories-what-we-talk-about-when-we-talk-about-the-jfk-assassination-martin-fitzgerald/80bddf3b35dec416 SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1785081547195-997f599e-8c95-4c1f-98af-dc6282715bab.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a662a5f614bacdaceef3ce4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30161815",
+      "itunes_duration": "1:02:50",
+      "speakers": [
+        "Martin Fitzgerald",
+        "Richard Herring"
+      ],
+      "topics": [
+        "martin",
+        "fitzgerald",
+        "umbrella",
+        "stories",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "65bdb63dbf7aeebaf0657721f1f36ffad30b0b62",
       "title": "Rosalie Minnitt - \"Greggs Chicken Bake\"",
@@ -23374,6 +23398,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-31 — Martin Fitzgerald on The Umbrella Man and Other Stories - Book Club — speakers: Martin Fitzgerald, Richard Herring
 - 2026-07-29 — Rosalie Minnitt - "Greggs Chicken Bake" — speakers: Rosalie Minnitt, Greggs Chicken Bake, Chicken Bake Rich, Richard Herring
 - 2026-07-27 — Janet Ellis (Retro) - "Blew Peter" — speakers: Janet Ellis, Blew Peter Richard, Richard Herring
 - 2026-07-26 — Rich and Ally's Craven Newsround Compilation " Deam Me Up, Scotty" — speakers: Craven Newsround Compilation, Deam Me Up, Richard Herring

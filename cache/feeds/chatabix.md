@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-07-30T03:27:11+00:00`
-- checked_at: `2026-07-30T03:27:11+00:00`
-- etag: `"djEuMi4wOjE3ODUzNzY4Mzk1NTA="`
+- fetched_at: `2026-07-31T03:48:50+00:00`
+- checked_at: `2026-07-31T03:48:50+00:00`
+- etag: `"djEuMi4wOjE3ODU0NjMyMzkzNzI="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-07-30T03:27:11+00:00",
+  "fetched_at": "2026-07-31T03:48:50+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "8eea7947f691c45b9703b79350da7737c97566de",
+      "title": "S16 Ep 878 Listener’s Mailbag: Very Old Emails and First Kisses",
+      "published_at": "2026-07-31T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-878-listeners-mailbag-very-old-emails-and-first-kisse",
+      "description": "On today’s Mailbag, David and Joe decide to find out how far back they can go back in the Yahoo account to find some really old emails, which ends up taking ages. But never fear, they manage to fill all that scrolling time with a few anecdotes. And once they're up and running, there’s emails about the missing story of Joe’s first kiss, a forgotten late night Chanel 4 show, an offer of some zookeeper tales, a Chatabiscuit picking up David-isms and a bodybuilding husband. Plus, there’s an update about David’s new friend ‘Graham’. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a64847e614bacdace808039/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "40833776",
+      "itunes_duration": "42:32",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "emails",
+        "kisses"
+      ]
+    },
     {
       "key": "77208eaa43d9f4fcf2f4eff9308d3e32942a55ba",
       "title": "S16 Ep 877: Graham’s Song and Morning Walks",
@@ -15719,6 +15741,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-31 — S16 Ep 878 Listener’s Mailbag: Very Old Emails and First Kisses — speakers: Joe Wilkinson, David Earl
 - 2026-07-30 — S16 Ep 877: Graham’s Song and Morning Walks — speakers: Graham’s Song, Joe Wilkinson, David Earl
 - 2026-07-29 — S16 Ep 876: Men Give Their Willy No Thought — speakers: Joe Wilkinson, David Earl
 - 2026-07-28 — S16 Ep 875: Clear Headed And Nothing To Say — speakers: Joe Wilkinson, David Earl

@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-07-29T03:37:43+00:00`
-- checked_at: `2026-07-29T03:37:43+00:00`
-- etag: `"djEuMi4wOjE3ODUyOTUyMzkzNDg="`
+- fetched_at: `2026-07-31T03:48:50+00:00`
+- checked_at: `2026-07-31T03:48:50+00:00`
+- etag: `"djEuMi4wOjE3ODU0NjgwMzkyNzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-07-29T03:37:43+00:00",
+  "fetched_at": "2026-07-31T03:48:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fc04c4c8e2bf72ce09fa24c9d83ce09c421325fc",
+      "title": "WIM HOF (Wim Hof Method 🥶) • Friday Rewind",
+      "published_at": "2026-07-31T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Wim Hof , originally episode 136 from 2017-02-08. Original writeup below: Don't get all wrapped and warm for this one - it's going to get incredibly frosty up in here... Chances are you may not already have made Wim's acquaintance - that's fine, for after this podcast you will most likely be digging around online and listening to his glorious cadence for hours to follow... If you have already broken the ice (skate over that pun) (and that one) with the man, you will surely be up to speed on The Wim Hof Technique, his apparently superhuman abilities to withstand cold, his infectiously positive and inspiring tones and talking points and his many accomplishments in the field of human endurance. Either way, this is a brilliant conversation (recorded from Wim's home in the outskirts of Amsterdam) which goes into everything you might want to know about the intriguing fellow himself. PIP'S PATREON PAGE if you're of a supporting nature ONLINE PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1785251170370-4ed9cc48-bca0-4a51-a087-75154af1ae71.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a68c650928f102203e20359/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "125814503",
+      "itunes_duration": "52:20",
+      "speakers": [],
+      "topics": [
+        "method",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "a0ed985eb1e5788997b472ef467a476d9391e9dc",
       "title": "BLAINE HARRISON (MYSTERY JETS) • 2 decades & counting of perfect indie music (A Hole To See The Sky Through / 20 yrs of 'Making Dens'!) #682",
@@ -19301,6 +19319,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-31 — WIM HOF (Wim Hof Method 🥶) • Friday Rewind
 - 2026-07-29 — BLAINE HARRISON (MYSTERY JETS) • 2 decades & counting of perfect indie music (A Hole To See The Sky Through / 20 yrs of 'Making Dens'!) #682
 - 2026-07-24 — FRANK TURNER (Campfire Punkrock / Tape Deck Heart / Undefeated) • Friday Rewind
 - 2026-07-22 — CHRIS, STU & KUNT • Hardest Kids In School (Hardcore Listing / Off The Beat & Track / Kunt & The Gang) #681
