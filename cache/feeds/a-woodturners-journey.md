@@ -2,9 +2,9 @@
 
 - slug: `a-woodturners-journey`
 - source: `https://feeds.acast.com/public/shows/65a70f72224eec0017895999`
-- fetched_at: `2026-07-13T19:48:48+00:00`
-- checked_at: `2026-07-13T19:48:48+00:00`
-- etag: `"djEuMi4wOjE3ODM4NjMxNDk5NTc="`
+- fetched_at: `2026-07-31T11:35:54+00:00`
+- checked_at: `2026-07-31T11:35:54+00:00`
+- etag: `"djEuMi4wOjE3ODUwNzYzOTExNzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/a-woodturners-journey",
   "description": "At A Woodturners Journey, we strive to explore woodturning from all different perspectives. Markus and Chris are both obsessed with creating things on their lathe as well as finding areas to improve their efficiencies and style. Their goal is to stay up to date with the newest things going on around the world of woodturning. They also love to interview fellow woodturners and find out about their journey so far. Woodturning is a wonderful rabbit hole and one we never see ourselves finding the bottom of. Join us in our journey. If you have any comments, questions or feedback please send us an email AWoodturnersJourney@gmail.com or find us on Instagram @AWoodturnersJourney Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
-  "fetched_at": "2026-07-13T19:48:48+00:00",
+  "fetched_at": "2026-07-31T11:35:54+00:00",
   "owners": [
     "Chris Jacobsen"
   ],
@@ -26,6 +26,25 @@
     "hobbies"
   ],
   "episodes": [
+    {
+      "key": "b116aa45895e98b65ec8e4e1e3352ae6a5159525",
+      "title": "Ep. 43 - Woodchip Grinder",
+      "published_at": "2026-07-26T14:33:10+00:00",
+      "link": "https://shows.acast.com/a-woodturners-journey/episodes/ep-43-woodchip-grinder",
+      "description": "Enjoy episode 43. Chris gets a new-to-him Robust American Beauty lathe and talks about the story behind it as well as the hustling he can do with used tools. Markus is in the thick of his theatre show yet is still finding time to turn some walnut as well as some other stuff. Please reach out and give us your thoughts or suggestions on any challenges you have been experiencing with your woodturning journey. We’re here to help or at least find an expert that can provide better insight. Please email us at: AWoodturnersJourney@gmail.com Follow us on Instagram at: www.instagram.com/awoodturnersjourney Chris - www.instagram.com/hiramwoodworking & www.instagram.com/whatwoodyouturn Markus - www.instagram.com/redchairwoodworks GO SEE MARKUS AS MORIARTY: https://coastertheatre.com/shows/ken-ludwigs-moriarty/ Please subscribe, listen to the episode, and let us know what you think with a comment or a 5-star review. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65a70f72224eec0017895999/e/6a661aa7a51cbd54e20ce191/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "100704662",
+      "itunes_duration": "53:09",
+      "speakers": [
+        "Chris Jacobsen"
+      ],
+      "topics": [
+        "woodchip",
+        "grinder"
+      ]
+    },
     {
       "key": "dcb5e4dcbf84582a4fb5c349eb734490ec0756fe",
       "title": "Ep. 42 - Swap Meet",
@@ -844,6 +863,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-26 — Ep. 43 - Woodchip Grinder — speakers: Chris Jacobsen
 - 2026-07-12 — Ep. 42 - Swap Meet — speakers: Mike Holstrom, Chris Jacobsen
 - 2026-06-29 — EP 41 - Abracadabra Holmes — speakers: Abracadabra Holmes Enjoy, Chris Jacobsen
 - 2026-06-14 — Ep 40 - Youll be selling out theaters — speakers: Chris Jacobsen
