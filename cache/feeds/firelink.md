@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-07-24T14:11:38+00:00`
-- checked_at: `2026-07-24T14:11:38+00:00`
-- etag: `W/"3b76a-LrdiafpFhlIp21d22qwTUaDA++U"`
+- fetched_at: `2026-07-31T14:33:40+00:00`
+- checked_at: `2026-07-31T14:33:40+00:00`
+- etag: `W/"3bf8e-KxtyxXQLWdzRE3o+N3Xnenu50nk"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-07-24T14:11:38+00:00",
+  "fetched_at": "2026-07-31T14:33:40+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,29 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "1d3065d371575e1b7f4912f681daefee6ccd9c7f",
+      "title": "The Remakes Will Continue Until Morale Improves | Firelink Podcast",
+      "published_at": "2026-07-31T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/The-Remakes-Will-Continue-Until-Morale-Improves--Firelink-Podcast-e3mpga5",
+      "description": "This week on Firelink, Nick, KC, and Marty continue their chat about their history with video game remakes and why the current trend of all AAA publishers doing them is here to stay. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠ patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/123567877/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-31%2F4ac4b60a-cabc-23e0-696d-81c2a14fc059.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "189004064",
+      "itunes_duration": "02:11:15",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "remakes",
+        "morale",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "67a88db5498ffe6aa03b4238f4847017930bb411",
       "title": "Modern Indie Games That Changed the Industry | Firelink Podcast",
@@ -3056,6 +3079,7 @@
 
 ## Episodes (newest first)
 
+- 2026-07-31 — The Remakes Will Continue Until Morale Improves | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-07-24 — Modern Indie Games That Changed the Industry | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-07-17 — Modern Games That Changed the Industry | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-07-10 — What Are We Doing Here, Xbox? | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu

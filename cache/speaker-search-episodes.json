@@ -26630,6 +26630,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:d8ceadcdb067",
+        "feed_title": "Bingewatch",
+        "source_rss_url": "https://feeds.megaphone.fm/MP6428531439",
+        "dedupe_key": "c992666df0624736cc1b9f041537d81c235ad141",
+        "episode_key": "c992666df0624736cc1b9f041537d81c235ad141",
+        "title": "Attenborough Gets Deep and Lee Mack's Still Not Going Out",
+        "published_at": "2025-06-13T02:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Ian and Hannah review the biggest new films and bingeable shows on UK streaming services for the week beginning Friday 13th June 2025, including:\nDavid Attenborough explores the planet's undersea habitats, revealing the greatest age of ocean discovery and emphasizing the ocean's vital importance while exposing its prob",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/MP4531868523.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/attenborough-gets-deep-and-lee-macks-still-not-going-out/id1532906315?i=1000712682721&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:d88ccc95af8a",
         "feed_title": "The News Agents",
         "source_rss_url": "https://feeds.captivate.fm/the-news-agents",
@@ -35401,6 +35423,28 @@
         "feed_image_url": null,
         "description": "Award-winning comedian Dave Gorman takes a sideways look at modern life in a series of stand-up performances powered by his laptop. Series six of Dave Gorman: Modern Life is Goodish is available on U and Dave.\nIf you like this review, why not check out the full podcast. Search for Bingewatch wherever you get your podca",
         "audio_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/podcasts.captivate.fm/media/3ad41d7f-4499-47ed-b33a-91987abe0d3e/Dave-Gorman.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-modern-life-is-goodish-series-6-u-2025/id1649614220?i=1000696696956&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:b1705869268c",
+        "feed_title": "Bitesize Bingewatch",
+        "source_rss_url": "https://feeds.megaphone.fm/MP8491897763",
+        "dedupe_key": "e920a39c29a018063c950336cd89c91e89e33b33",
+        "episode_key": "e920a39c29a018063c950336cd89c91e89e33b33",
+        "title": "Dave Gorman: Modern Life is Goodish (Series 6, U, 2025)",
+        "published_at": "2025-02-28T02:15:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Award-winning comedian Dave Gorman takes a sideways look at modern life in a series of stand-up performances powered by his laptop. Series six of Dave Gorman: Modern Life is Goodish is available on U and Dave.\nIf you like this review, why not check out the full podcast. Search for Bingewatch wherever you get your podca",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/MP1723206657.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/dave-gorman-modern-life-is-goodish-series-6-u-2025/id1649614220?i=1000696696956&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
