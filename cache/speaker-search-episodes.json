@@ -13050,6 +13050,28 @@
         "feed_slug": "external:apple:f365e01dfc3f",
         "feed_title": "Alan Carr's 'Life's a Beach'",
         "source_rss_url": "https://feeds.megaphone.fm/GLT3251662520",
+        "dedupe_key": "610e0567c4a32bb8729945df2bef28fa495216b8",
+        "episode_key": "610e0567c4a32bb8729945df2bef28fa495216b8",
+        "title": "S10 EP27: Sally Phillips (Video Edition)",
+        "published_at": "2026-07-31T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Sally Phillips joins Alan for one of the most epic international episodes of Life's a Beach ever. From growing up in Hong Kong and Beirut to surviving salmonella in Mexico, clown school, holiday romances and Edinburgh Fringe memories, Sally has the most intriguing travel stories. Plus, they chat The Hairdresser Mysteri",
+        "audio_url": "https://traffic.megaphone.fm/KILM1585327706.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s10-ep27-sally-phillips-video-edition/id1550998864?i=1000779313172&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f365e01dfc3f",
+        "feed_title": "Alan Carr's 'Life's a Beach'",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT3251662520",
         "dedupe_key": "065d8983a10e2b169fcf8086030020582feaa580",
         "episode_key": "065d8983a10e2b169fcf8086030020582feaa580",
         "title": "S10 EP27: Sally Phillips",
@@ -19342,6 +19364,28 @@
         "enclosure_type": null,
         "speakers": [
           "Ed Gamble",
+          "Alex Horne"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:c6031f1ae9bf",
+        "feed_title": "Hawksbee and Jacobs Daily",
+        "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
+        "dedupe_key": "fd9be387df87efa674cd359c1015fb7c9b494fbe",
+        "episode_key": "fd9be387df87efa674cd359c1015fb7c9b494fbe",
+        "title": "Beaky Is So Freaky",
+        "published_at": "2020-10-15T15:21:27Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Paul and Andy are joined by guitarist from Iron Maiden and fishing enthusiast Adrian Smith, comedian and Liverpool fan Alex Horne and sports psychotherapist Gary Bloom. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/hawksbeeandjacobs/beakyissofreaky/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/beaky-is-so-freaky/id348889102?i=1000494857637&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
           "Alex Horne"
         ],
         "topics": [],
