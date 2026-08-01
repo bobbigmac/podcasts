@@ -26494,6 +26494,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:465ea39df206",
+        "feed_title": "Robin and Josie's Utter Shambles",
+        "source_rss_url": "http://akamai.paramountcomedy.com/podcast/robin_ince_uttershambles2.xml",
+        "dedupe_key": "1116a8c19fb022e27759fb3ea6b645b444feacb4",
+        "episode_key": "1116a8c19fb022e27759fb3ea6b645b444feacb4",
+        "title": "Episode 4: Stewart Lee",
+        "published_at": "2010-09-03T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week Stew explodes the myths about stand up, why he has no interest in being on Twitter or Facebook and why his son has a toy called 'Smelly Batman'.",
+        "audio_url": "http://akamai.paramountcomedy.com/podcast/uttershambles304.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-4-stewart-lee/id394641784?i=1000087682896&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:fb9148bbbb28",
         "feed_title": "How to Download Audiobook in Radio & TV, Entertainment",
         "source_rss_url": "https://epodcast.space/tone/id/2357/index.xml",
@@ -38812,6 +38834,28 @@
         "description": "This episode is a collection of Christmas stories and memories from lots of our Rosebud guests, friends and listeners. It's like a Christmas stocking: full of treats and surprises. Next week we'll do the same, but the theme will be new year. We'll be back with a full-length interview show on January 5th 2024, with Sir ",
         "audio_url": "https://sphinx.acast.com/p/open/s/6835e960944c948b9a623f10/e/64e83a20-3b17-11f0-b828-b7c7027238f5/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/rosebud-festive-medley-featuring-sir-michael-palin/id1704806594?i=1000710263637&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:2bb00796785f",
+        "feed_title": "Rosebud with Gyles Brandreth",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT2630936961",
+        "dedupe_key": "72eea5439ef6e8bb55c8f4ee627fb14bc5400a5b",
+        "episode_key": "72eea5439ef6e8bb55c8f4ee627fb14bc5400a5b",
+        "title": "Rosebud Festive Medley - featuring Sir Michael Palin, David Mitchell, Dame Sheila Hancock, Rob Brydon and more...",
+        "published_at": "2023-12-22T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This episode is a collection of Christmas stories and memories from lots of our Rosebud guests, friends and listeners. It's like a Christmas stocking: full of treats and surprises. Next week we'll do the same, but the theme will be new year. We'll be back with a full-length interview show on January 5th 2024, with Sir ",
+        "audio_url": "https://traffic.megaphone.fm/GLT1786213828.mp3?updated=1703078407",
+        "link_url": "https://podcasts.apple.com/gb/podcast/rosebud-festive-medley-featuring-sir-michael-palin/id1704806594?i=1000639402298&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
