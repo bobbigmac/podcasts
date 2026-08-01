@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-07-31T19:52:07+00:00`
-- checked_at: `2026-07-31T19:52:07+00:00`
-- etag: `"djEuMi4wOjE3ODU1MTcxNzMxODQ="`
+- fetched_at: `2026-08-01T16:12:23+00:00`
+- checked_at: `2026-08-01T16:12:23+00:00`
+- etag: `"djEuMi4wOjE3ODU2MDAwMzkzOTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-07-31T19:52:07+00:00",
+  "fetched_at": "2026-08-01T16:12:23+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,33 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "563178048540e60ef644f20a6fe6801068d46f3a",
+      "title": "Chris Philp goes GONZO in the English Channel | Weekly roundup",
+      "published_at": "2026-08-01T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/chris-philp-goes-gonzo-in-the-english-channel-weekly-roundup",
+      "description": "The best day of Andy Burnham's life, Chris Philp goes gonzo in the Channel, and more climate change denial in a burning country. Anoosh Chakelian and Will Dunn round up some stories you might have missed this week. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1785516952841-dc1a8b22-9c39-4d0e-b8a1-4319ba5f114e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a6cd31d5a66c39455f61ca5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49644725",
+      "itunes_duration": "34:28",
+      "speakers": [
+        "Chris Philp",
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "chris",
+        "philp",
+        "gonzo",
+        "english",
+        "channel",
+        "weekly",
+        "roundup"
+      ]
+    },
     {
       "key": "91816d10854f433ad649830e996d22e1d559fe81",
       "title": "The Burnham comms and policy blitz",
@@ -31937,6 +31964,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-01 — Chris Philp goes GONZO in the English Channel | Weekly roundup — speakers: Chris Philp, Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-30 — The Burnham comms and policy blitz — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-29 — Can the UK turn its life sciences strengths into global leadership? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-07-25 — Gary Lineker wants to pay more tax. What's stopping him? — speakers: Gary Lineker, Anoosh Chakelian, Oli Dugmore
