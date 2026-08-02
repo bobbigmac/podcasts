@@ -17649,6 +17649,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:e744783953c1",
+        "feed_title": "Get Top-Rated Digital Audiobooks Anywhere, Anytime Instantly",
+        "source_rss_url": "https://booksreader.space/bk/4678/index.xml",
+        "dedupe_key": "c603d9513fa16bed99aea99bf872e693ac8d8461",
+        "episode_key": "c603d9513fa16bed99aea99bf872e693ac8d8461",
+        "title": "Listen to Tim Key's Late Night Poetry Programme: The Complete Series 1-4: The BBC Radio 4 comedy by Tim Key",
+        "published_at": "2018-11-01T12:53:03Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "#ads Stream any unabridged audiobook of your choice with premium access by starting your trial on:https://booksreader.space/ak-4678/Title: Tim Key's Late Night Poetry Programme: The Complete Series 1-4: The BBC Radio 4 comedy\n Author: Tim Key\n Narrator: Tim Key, Tom Basden\n Format: Unabridged Audiobook\n Length: 6 hours",
+        "audio_url": "https://booksreader.space/9781787533226.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/listen-to-tim-keys-late-night-poetry-programme-the/id6797180625?i=1000779500216&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b3c2c6e0098f",
         "feed_title": "Immerse Yourself in Stories Through Sound With Full Audiobook",
         "source_rss_url": "https://hoststorage.space/tune/user/2480/index.xml",
@@ -28132,6 +28154,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:98ee41c140ac",
+        "feed_title": "Enjoy Best-Selling Audiobook Titles with Easy Access",
+        "source_rss_url": "https://booksreader.space/bk/4676/index.xml",
+        "dedupe_key": "11778069db629cc5358124de5787771f47ea2e57",
+        "episode_key": "11778069db629cc5358124de5787771f47ea2e57",
+        "title": "The Lee Mack Show, Series 2 -- Lee Mack",
+        "published_at": "2007-11-12T12:53:01Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "#ads Stream any unabridged audiobook of your choice with premium access by starting your trial on:https://booksreader.space/ak-4676/Title: The Lee Mack Show, Series 2\n Author: Lee Mack\n Narrator: Guests, Lee Mack\n Format: Unabridged Audiobook\n Length: 3 hours 55 minutes\n Release date: November 12, 2007\n Ratings: Rating",
+        "audio_url": "https://booksreader.space/9781405608794.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-lee-mack-show-series-2-lee-mack/id6796936623?i=1000779390586&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:7b87114c8dbc",
         "feed_title": "When Life Needs a Punchline - Free Audiobook, Your Hilarious Escape",
         "source_rss_url": "https://hotaudiobook.com/tune/user/4031/index.xml",
@@ -36417,6 +36461,28 @@
         "description": "Clive Anderson and Emma Freud are joined by Sheila Ravenscroft, Dave Gorman, Anna Jordan and  Angela Barnes for an eclectic mix of conversation, music and comedy. With music from Fatima and Lisa O' Neill.\nProducer: Paula McGinley",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p06yjycm.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/sheila-ravenscroft-dave-gorman-angela-barnes-anna-jordan/id1163219363?i=1000427999228&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:141ec5325880",
+        "feed_title": "Citizens Of Nowhere",
+        "source_rss_url": "http://nickdoody.squarespace.com/podcast?format=rss",
+        "dedupe_key": "e1fa0f1b46d69af171f8041574774cd926417097",
+        "episode_key": "e1fa0f1b46d69af171f8041574774cd926417097",
+        "title": "Episode 26: Dave Gorman",
+        "published_at": "2018-12-04T12:25:17Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Apologies for the hiatus! Usually we'd put something like, 'Nick and Carey manage to get hold of Dave Gorman and grab an interview, etc.' but it would be more accurate to say, 'Carey manages to grab Nick and Dave' as Nick's been supporting Dave on tour for the past 3 months. It's not a long episode, recorded as it is i",
+        "audio_url": "https://static1.squarespace.com/static/5484d7d8e4b0c710260c4f76/t/5c066f6f0ebbe8abbaa7c7fe/1543925706942/Dave_Gorman+.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/episode-26-dave-gorman/id1311987914?i=1000425143760&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
