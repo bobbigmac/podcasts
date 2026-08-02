@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-07-31T11:35:54+00:00`
-- checked_at: `2026-07-31T11:35:54+00:00`
-- etag: `"djEuMi4wOjE3ODU0OTUzNjA0OTY="`
+- fetched_at: `2026-08-02T08:36:30+00:00`
+- checked_at: `2026-08-02T08:36:30+00:00`
+- etag: `"djEuMi4wOjE3ODU2NDY4Mzk0NjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-07-31T11:35:54+00:00",
+  "fetched_at": "2026-08-02T08:36:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "83d35f40dac473a5b0e5ff6cc1180b355f5e1f0f",
+      "title": "Gary Stevenson: Tax wealth NOW or prepare for poverty",
+      "published_at": "2026-08-02T05:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6a6c7e2c61ae402f6114102d",
+      "description": "In what may be Gary Stevenson's last ever interview, he spoke to PoliticsJOE about his new documentary How To Get Filthy Rich, the need for wealth taxes, and how we got into this mess in the first place. How To Get Filthy Rich is available now on Channel 4 streaming. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6a6c7e2c61ae402f6114102d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45931624",
+      "itunes_duration": "47:50",
+      "speakers": [
+        "Gary Stevenson"
+      ],
+      "topics": [
+        "gary",
+        "stevenson",
+        "wealth",
+        "poverty"
+      ]
+    },
     {
       "key": "8829c1e4598172d78a92d8616d4d04bea321058f",
       "title": "Gerry Adams on Andy Burnham, the far-right, and the breakup of the UK",
@@ -13554,6 +13575,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-02 — Gary Stevenson: Tax wealth NOW or prepare for poverty — speakers: Gary Stevenson
 - 2026-07-26 — Gerry Adams on Andy Burnham, the far-right, and the breakup of the UK — speakers: Gerry Adams, Andy Burnham
 - 2026-07-19 — How The UK Is Letting Silicon Valley Take Over | Beeban Kidron interview — speakers: Beeban Kidron
 - 2026-07-09 — What does Andy Burnham’s Britain look like? — speakers: Andy Burnham
