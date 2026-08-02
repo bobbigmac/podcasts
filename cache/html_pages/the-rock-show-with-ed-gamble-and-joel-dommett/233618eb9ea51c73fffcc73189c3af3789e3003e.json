@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/?page=2",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/?page=2",
-  "fetched_at": "2026-08-02T10:49:56+00:00",
+  "fetched_at": "2026-08-02T13:53:26+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/?page=3",
   "episodes": [
+    {
+      "key": "2dc45807c7d2b5ac7949be704703eb7b032a2a18",
+      "guid": "4fb2df63-dc25-4344-b834-a536e1a4563b",
+      "title": "The Rock Show with Ed Gamble and Joel Dommett (4th January)",
+      "published_at": "2026-01-04T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-rock-show-with-ed-gamble-and-joel-dommett-4th-january/",
+      "description": "FUBAR's dons of rock Ed and Joel give you a rock education every week - and you'll have a bloody good laugh while you're at it.",
+      "image_url": "https://mm.aiircdn.com/177/173528.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1767535479-the_rock_show_with_ed_gamble_and_joel_dommett.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=4fb2df63-dc25-4344-b834-a536e1a4563b&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "a9e19c3cdf3dada06b65eac0a656006110a9c1c7",
       "guid": "52d56de2-7a4c-467c-838c-50dad273a6d4",
@@ -380,19 +393,6 @@
       "description": "FUBAR's dons of rock Ed and Joel give you a rock education every week - and you'll have a bloody good laugh while you're at it.",
       "image_url": "https://mm.aiircdn.com/177/173528.png",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1749992654-the_rock_show_with_ed_gamble_and_joel_dommett.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=5e8e0e0f-7853-485c-b94a-be1a37455427&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "859f74f84370c0ae70301ac60aeed157c16f6c98",
-      "guid": "57cdc4f5-6cfb-4b82-8bcc-91cba9e95da9",
-      "title": "The Rock Show with Ed Gamble and Joel Dommett (8th June)",
-      "published_at": "2025-06-08T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/the-rock-show-with-ed-gamble-and-joel-dommett-8th-june/",
-      "description": "FUBAR's dons of rock Ed and Joel give you a rock education every week - and you'll have a bloody good laugh while you're at it.",
-      "image_url": "https://mm.aiircdn.com/177/173528.png",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1749387858-the_rock_show_with_ed_gamble_and_joel_dommett.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=57cdc4f5-6cfb-4b82-8bcc-91cba9e95da9&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null
