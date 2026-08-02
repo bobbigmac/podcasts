@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-07-29T03:37:43+00:00`
-- checked_at: `2026-07-29T03:37:43+00:00`
-- etag: `"djEuMi4wOjE3ODUyOTQwMzk2ODQ="`
+- fetched_at: `2026-08-02T03:51:45+00:00`
+- checked_at: `2026-08-02T03:51:45+00:00`
+- etag: `"djEuMi4wOjE3ODU2Mzk2Mzk2MTU="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-07-29T03:37:43+00:00",
+  "fetched_at": "2026-08-02T03:51:45+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "08353d395c7284872c28c6668ed8e0e0d0a53f54",
+      "title": "S5 EP7: Tom Ballard",
+      "published_at": "2026-08-02T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s5-ep7-tom-ballard",
+      "description": "Joining us on this episode of ' ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ What did you do yesterday? ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ' is the comedian Tom Ballard We asked Tom what he did yesterday? He told us. That's it... enjoy! Are you ' IN IT FOR LIFE '? Sign up HERE if you are. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ @yesterdaypod ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1785365584581-85ae90c0-ef95-4d6e-ac67-fb4841d1f9d7.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a6a8968501e9815146f228f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74946769",
+      "itunes_duration": "1:18:04",
+      "speakers": [
+        "Tom Ballard",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "ballard"
+      ]
+    },
     {
       "key": "77ef15cebd06ce9f359aa7a030cf5d9a5ad57696",
       "title": "WDWDY #81.1: Phoning this stuff in for the freeloaders (David's Yesterday)",
@@ -3804,6 +3824,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-02 — S5 EP7: Tom Ballard — speakers: Tom Ballard, Max Rushden, David O'Doherty
 - 2026-07-29 — WDWDY #81.1: Phoning this stuff in for the freeloaders (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-07-26 — S5 EP6: Bella Hull — speakers: Bella Hull, Max Rushden, David O'Doherty
 - 2026-07-22 — WDWDY #80.1: Washing Pandora's Carpet (Max's Yesterday) — speakers: Max Rushden, David O'Doherty

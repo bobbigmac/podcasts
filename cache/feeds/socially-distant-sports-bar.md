@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-07-31T19:52:07+00:00`
-- checked_at: `2026-07-31T19:52:07+00:00`
-- etag: `"djEuMi4wOjE3ODU1MjI1NTAxODU="`
+- fetched_at: `2026-08-02T03:51:45+00:00`
+- checked_at: `2026-08-02T03:51:45+00:00`
+- etag: `"djEuMi4wOjE3ODU2MjY2MTkyNzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-07-31T19:52:07+00:00",
+  "fetched_at": "2026-08-02T03:51:45+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,32 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "36768789f67a924b82609c839ac267770df400c8",
+      "title": "Kirkby Ski Slope: Pint Size",
+      "published_at": "2026-08-01T23:23:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/kirkby-ski-slope-pint-size",
+      "description": "Welcome to Pint-Sized Distant Pod. We’ve been back through our archive of episodes and picked out some of our favourite stories, anecdotes, and funny bits. If you’re new to the pod, these are a perfect way to dip your toe in and then dive back into the full episodes from our early days. This is from Before You Can Say Ridiculous Idea 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a6ce969c826d9d5c9c49da3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54934080",
+      "itunes_duration": "22:53",
+      "speakers": [
+        "Kirkby Ski Slope",
+        "Pint Size Welcome",
+        "Sized Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "kirkby",
+        "slope",
+        "pint",
+        "size"
+      ]
+    },
     {
       "key": "ea7516d973a1cf21337fe9dfab021afdc1c51699",
       "title": "Best Of Distant Pod 10 (pt 2)",
@@ -15519,6 +15545,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-01 — Kirkby Ski Slope: Pint Size — speakers: Kirkby Ski Slope, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-30 — Best Of Distant Pod 10 (pt 2) — speakers: Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-28 — Best Of Distant Pod 10 (pt 1) — speakers: Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-25 — Keegan: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
