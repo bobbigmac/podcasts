@@ -2,8 +2,8 @@
 
 - slug: `james-acaster`
 - source: `https://www.fubarradio.com/player/on-demand/james-acaster/`
-- fetched_at: `2026-07-27T10:08:09+00:00`
-- checked_at: `2026-07-27T10:08:09+00:00`
+- fetched_at: `2026-08-03T03:53:47+00:00`
+- checked_at: `2026-08-03T03:53:47+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/james-acaster/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/james-acaster/",
   "image_url": "",
-  "fetched_at": "2026-07-27T10:08:09+00:00",
+  "fetched_at": "2026-08-03T03:53:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

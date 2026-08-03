@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-07-31T03:48:50+00:00`
-- checked_at: `2026-07-31T03:48:50+00:00`
-- etag: `"djEuMi4wOjE3ODU0NjY2NTk3NDk="`
+- fetched_at: `2026-08-03T03:53:47+00:00`
+- checked_at: `2026-08-03T03:53:47+00:00`
+- etag: `"djEuMi4wOjE3ODU3MjU4NTkyNzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-07-31T03:48:50+00:00",
+  "fetched_at": "2026-08-03T03:53:47+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,54 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a23b475236e5aa298090ef3386a4ac3bc16e6686",
+      "title": "Flo and Joan and John Kearns (Retro) - \"Nine Minutes\"",
+      "published_at": "2026-08-03T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Ed Fringe 2019 #21 - Nine Minutes - Rich has just hit the 200 average crowd he coveted and worked out just how much his landlord has made from each ticket sold and there’s an end of term atmosphere as he meets Flo and Joan and John Kearns. With Flo and Joan the talk revolves around time travelling gang bangs, Bros’ Cheddar antics, double act rivalry and memories of Tring. With John, Richard is skittish from lack of sleep and counting down the time, but still manages to find out whether a plastic cup can substitute for false teeth and how the speaker of the House of Commons takes a shit. Plus a revival of a plan to quell sex offenders. Thanks to the crew at the New Town Theatre and to Liam for coming to so many shows and messing up his cue. See Flo and Joan on tour http://floandjoan.com See John on tour https://www.johnkearnscomedy.co.uk/ See RHLSTP on tour http://richardherring.com/rhlstpt/tour SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1785436937177-aea6564b-8103-44cb-95b2-fa6d5e67a3df.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a678c12a02cbcf2a1ad534f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30872764",
+      "itunes_duration": "1:04:19",
+      "speakers": [
+        "John Kearns",
+        "Ed Fringe",
+        "Richard Herring"
+      ],
+      "topics": [
+        "joan",
+        "john",
+        "kearns",
+        "retro",
+        "minutes"
+      ]
+    },
+    {
+      "key": "e49a00dccd0b3327c145d460db02908db1b36c05",
+      "title": "Rich and Ally's Craven Newsround Compilation Sweet Perineum",
+      "published_at": "2026-08-01T08:26:03+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Thursday 30th July 2026 - Sweet Perineum - Rich and Ally are back with more news that you won’t hear anyone else, all squished into a five minute bulletin. Today they are looking at the wildfires sweeping in the world and wondering if they could be anything to do with global warming. Plus a very disturbing report from France or maybe Spain where the fires are going on (though that’s not what is disturbing). Plus a surprise visit. Keep watching til the end. Friday July 31st 2026 - Egg Head - Second Newsround of the week - oh ambassador with these Newsrounds we are really spoiling you. Today we look at something the Lamestream media won’t touch, because they are in the pay of the billionaires, corruption in FIFA or UEFA, whichever one it is. With the interview that everyone wants. And some very impressive songs from Ally. See RHLSTP at the Ed Fringe http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1785572681152-3009023c-dbae-4ae3-8e09-7c9d0d737d5b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a6dad9bc826d9d5c9007748/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19874112",
+      "itunes_duration": "41:24",
+      "speakers": [
+        "Sweet Perineum",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "sweet",
+        "perineum"
+      ]
+    },
     {
       "key": "626a2a673cceefee0c9b5db46c3868cde451e447",
       "title": "Martin Fitzgerald on The Umbrella Man and Other Stories - Book Club",
@@ -23398,6 +23446,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-03 — Flo and Joan and John Kearns (Retro) - "Nine Minutes" — speakers: John Kearns, Ed Fringe, Richard Herring
+- 2026-08-01 — Rich and Ally's Craven Newsround Compilation Sweet Perineum — speakers: Sweet Perineum, Richard Herring
 - 2026-07-31 — Martin Fitzgerald on The Umbrella Man and Other Stories - Book Club — speakers: Martin Fitzgerald, Richard Herring
 - 2026-07-29 — Rosalie Minnitt - "Greggs Chicken Bake" — speakers: Rosalie Minnitt, Greggs Chicken Bake, Chicken Bake Rich, Richard Herring
 - 2026-07-27 — Janet Ellis (Retro) - "Blew Peter" — speakers: Janet Ellis, Blew Peter Richard, Richard Herring

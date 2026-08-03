@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-07-27T04:01:04+00:00`
-- checked_at: `2026-07-27T04:01:04+00:00`
-- last_modified: `Mon, 27 Jul 2026 02:12:04 GMT`
+- fetched_at: `2026-08-03T03:53:47+00:00`
+- checked_at: `2026-08-03T03:53:47+00:00`
+- last_modified: `Sun, 02 Aug 2026 23:00:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-27T04:01:04+00:00",
+  "fetched_at": "2026-08-03T03:53:47+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "57f93656193abeec7c1dbde5e24fef64de004254",
+      "title": "JOSH PUGH: How Playing Sports Helped Me With Comedy & Inspiration for New Sitcom",
+      "published_at": "2026-08-02T23:00:00+00:00",
+      "link": null,
+      "description": "Josh Pugh is back and this time the comedian and ex-England partially-sighted football player reveals how his enthusiasm taught him valuable lessons that helped him with his life and comedy career. He also talks about how he felt directionless at the early stages of his career and talks about how he came to find the inspiration for his forthcoming sit-com Stepping Up. Check out the new ⁠Class Clown merch store and grab yourself a hat, T-Shirt or a Mug⁠! https://classclownpodcast.myshopify.com/ See Seann Walsh on the next leg of his This Is Torture tour! https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1003501640.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3130",
+      "speakers": [
+        "Josh Pugh",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "josh",
+        "pugh",
+        "playing",
+        "sport",
+        "comedy",
+        "inspiration",
+        "sitcom"
+      ]
+    },
     {
       "key": "230e3491fd2a64de82c4316b10a72cbcb087ccd7",
       "title": "JOSH PUGH: Mad Benidorm Comedians, Embarrassing Childhood Fantasies, Being Sent to A “Special” School",
@@ -36,7 +61,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7262125668.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2877",
+      "itunes_duration": "2997",
       "speakers": [
         "Josh Pugh",
         "Seann Walsh"
@@ -63,7 +88,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5558285360.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2827",
+      "itunes_duration": "2887",
       "speakers": [
         "Phil Ellis",
         "Seann Walsh"
@@ -1723,6 +1748,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-02 — JOSH PUGH: How Playing Sports Helped Me With Comedy & Inspiration for New Sitcom — speakers: Josh Pugh, Seann Walsh
 - 2026-07-26 — JOSH PUGH: Mad Benidorm Comedians, Embarrassing Childhood Fantasies, Being Sent to A “Special” School — speakers: Josh Pugh, Seann Walsh
 - 2026-07-19 — PHIL ELLIS: Arrested by Armed Police, Disastrous Red Dwarf Audition, Airbag Factory Beginnings — speakers: Phil Ellis, Seann Walsh
 - 2026-07-12 — PHIL ELLIS: Fighting at School, Rik Mayall and Growing Up in Preston — speakers: Rik Mayall, Phil Ellis, Seann Walsh

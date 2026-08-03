@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-07-31T03:48:50+00:00`
-- checked_at: `2026-07-31T03:48:50+00:00`
-- etag: `"djEuMi4wOjE3ODU0NjMyMzkzNzI="`
+- fetched_at: `2026-08-03T03:53:47+00:00`
+- checked_at: `2026-08-03T03:53:47+00:00`
+- etag: `"djEuMi4wOjE3ODU3MjI0Mzk1MDQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-07-31T03:48:50+00:00",
+  "fetched_at": "2026-08-03T03:53:47+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,32 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "54d3562460aac19f88569334db7004dbf63c8dc5",
+      "title": "S16 Ep 879 Vault Mondays: Ronald McDonald and The new Telly Addicts Game",
+      "published_at": "2026-08-03T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-879-vault-mondays-ronald-mcdonald-and-the-new-telly-a",
+      "description": "It’s another dip into the Chatabix archives vault. And in this one, we chat about Ronald McDonald, M.A.S.H, doing weird things as a kid, why are we even bothering with this podcast, texting Josh Widdicombe, Joe buying Coke Zero, David's wife cooked a crap meal, and our new Telly Addicts Game. First posted on 16th April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a6b215ca585d3be78d4e41f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26401227",
+      "itunes_duration": "27:30",
+      "speakers": [
+        "Ronald McDonald",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "ronald",
+        "mcdonald",
+        "telly",
+        "addicts",
+        "game"
+      ]
+    },
     {
       "key": "8eea7947f691c45b9703b79350da7737c97566de",
       "title": "S16 Ep 878 Listener’s Mailbag: Very Old Emails and First Kisses",
@@ -15741,6 +15767,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-03 — S16 Ep 879 Vault Mondays: Ronald McDonald and The new Telly Addicts Game — speakers: Ronald McDonald, Joe Wilkinson, David Earl
 - 2026-07-31 — S16 Ep 878 Listener’s Mailbag: Very Old Emails and First Kisses — speakers: Joe Wilkinson, David Earl
 - 2026-07-30 — S16 Ep 877: Graham’s Song and Morning Walks — speakers: Graham’s Song, Joe Wilkinson, David Earl
 - 2026-07-29 — S16 Ep 876: Men Give Their Willy No Thought — speakers: Joe Wilkinson, David Earl

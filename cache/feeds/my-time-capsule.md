@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-07-31T03:48:50+00:00`
-- checked_at: `2026-07-31T03:48:50+00:00`
-- etag: `"djEuMi4wOjE3ODU0NTI2MTkzMDk="`
+- fetched_at: `2026-08-03T03:53:47+00:00`
+- checked_at: `2026-08-03T03:53:47+00:00`
+- etag: `"djEuMi4wOjE3ODU3MTE3NTkzNTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-07-31T03:48:50+00:00",
+  "fetched_at": "2026-08-03T03:53:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "10ece50da9cab85cfe5fc7367388ea2d6501ccf8",
+      "title": "Ep. 598 - Barry from Watford - Best known for his 10 years on Steve Wright in the Afternoon on BBC Radio 2",
+      "published_at": "2026-08-02T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-598-barry-from-watford-best-known-for-his-10-years-on-ste",
+      "description": "Barry from Watford is the nation’s favourite octogenarian lifestyle guru, broadcaster and raconteur. After first becoming a cult hero on Iain Lee’s LBC phone-in show, Barry went on to become a regular on Marcus Brigstocke’s Late Edition before spending ten glorious years dispensing his unique wisdom to millions of listeners on Steve Wright in the Afternoon on BBC Radio 2. He’s starred in his own hit Edinburgh Fringe shows, toured the UK, and now hosts the talkSPORT podcast Buckle Up with Barry , where famous faces climb into the back of his cab for candid conversations. Whether he’s discussing suburban life, minty biscuits or the trials and tribulations of his beloved Margaret, Barry remains one of Britain’s most cherished comic voices. Thanks to comedian and actor Alex Lowe for arranging the interview . Barry from Watford is our guest in episode 598 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Buy tickets for Barry from Watford’s tour, Shooting From the New Hip, here - https://www.barryfromwatford.co.uk/tour-tickets . Follow Barry from Watford on Instagram : @barry.from.watford . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a6b53150d497875eb98310c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53835671",
+      "itunes_duration": "44:51",
+      "speakers": [
+        "Steve Wright"
+      ],
+      "topics": [
+        "barry",
+        "watford",
+        "best",
+        "year",
+        "steve",
+        "wright",
+        "afternoon",
+        "radio"
+      ]
+    },
     {
       "key": "a70dd7bd326437d9f519fb07dbf2ae6021bf4bb8",
       "title": "My Time Capsule The Dig - Ep. 13 - With Tim Bentinck (David Archer in BBC Radio 4's, The Archers.)",
@@ -13154,6 +13179,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-02 — Ep. 598 - Barry from Watford - Best known for his 10 years on Steve Wright in the Afternoon on BBC Radio 2 — speakers: Steve Wright
 - 2026-07-30 — My Time Capsule The Dig - Ep. 13 - With Tim Bentinck (David Archer in BBC Radio 4's, The Archers.) — speakers: Tim Bentinck, David Archer
 - 2026-07-30 — Ep. 597 - James Trickey - Sell-out Edinburgh Fringe debut & a Leicester Comedy Festival Best New Show nominee — speakers: James Trickey, Edinburgh Fringe
 - 2026-07-26 — Ep. 596 - Bella Hull - QI, Have I Got News For You, The Last Leg, The News Quiz — speakers: Bella Hull

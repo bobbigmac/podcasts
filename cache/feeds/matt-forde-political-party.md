@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-07-27T04:01:04+00:00`
-- checked_at: `2026-07-27T04:01:04+00:00`
-- etag: `"djEuMi4wOjE3ODUxMjEzNTk0MzE="`
+- fetched_at: `2026-08-03T03:53:47+00:00`
+- checked_at: `2026-08-03T03:53:47+00:00`
+- etag: `"djEuMi4wOjE3ODU3MTg4Mzk1Mzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-07-27T04:01:04+00:00",
+  "fetched_at": "2026-08-03T03:53:47+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a91a7b75fc3fd1d0809ca2851418aadf01ed6d31",
+      "title": "Huw Edwards sabotaged my show: Broadcasting legend Simon McCoy on what really happened at the BBC",
+      "published_at": "2026-08-03T01:00:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/huw-edwards-sabotaged-my-show-broadcasting-legend-simon-mcco",
+      "description": "Simon McCoy is the man who made BBC News funny. He is also an absolute news obsessive. In this fascinating and entertaining interview, he tells us what it was like moving from the BBC to GB News, what frustrated him about covering the Brexit referendum, and the intervention that Huw Edwards made about Simon's afternoon slot on News 24. Packed full of behind-the-scenes insight, this is an absolute cracker with one of our most gifted broadcasters. GET TICKETS for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival and touring nationwide in 2027: www.mattforde.com MARCH 19 FAVERSHAM The Alex 20 DORKING Halls APRIL 7 STOURBRIDGE Town Hall 8 GLOUCESTER Guildhall 9 LEICESTER Y Theatre 12 SALFORD Lowry 16 NORTHAMPTON Royal & Derngate 21 EXETER Northcott Theatre 24 LONDON Bloomsbury Theatre 28 ALNWICK Playhouse 29 BARNARD CASTLE Witham 30 HULL Asylum MAY 6 BIRMINGHAM The Glee Club 12 COVENTRY Warwick Arts Centre 13 WORCESTER Huntingdon Hall 14 CHORLEY Theatre 18 STAMFORD Corn Exchange 19 SHEFFIELD Steamworks 20 SHREWSBURY Theatre Severn 21 NOTTINGHAM Theatre Royal 23 LEEDS City Varieties Music Hall 26 NORWICH Playhouse 27 NORWICH Playhouse JUNE 2 SCUNTHORPE Plowright 4 CANTERBURY Gulbenkian Theatre 5 READING Concert Hall 8 CARDIFF The Glee Club 9 BATH Komedia 10 MONMOUTH Savoy Theatre 11 CHIPPING NORTON The Theatre 15 BURY ST EDMUNDS Theatre Royal 16 MILTON KEYNES The Stables 18 TUNBRIDGE WELLS Trinity Theatre 30 LIVERPOOL Everyman Playhouse JULY 1 CARLISLE Old Fire Station 2 GLASGOW The Glee Club 4 EDINBURGH Lyceum Theatre See the Political Party Live on Stage: 9 August: Anas Sarwar (Edinburgh) 15 August: Stephen Flynn (Edinburgh) 18 August: TBC (Edinburgh) 20 August: Malcolm Offord (Edinburgh) 9 November: Liz Kendall (London) 21 December: Wes Streeting (London) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a6f0cfb034f16a52e591582/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97747585",
+      "itunes_duration": "1:07:52",
+      "speakers": [
+        "Simon McCoy",
+        "Matt Forde"
+      ],
+      "topics": [
+        "edwards",
+        "broadcasting",
+        "legend",
+        "simon",
+        "mccoy"
+      ]
+    },
     {
       "key": "912b100e03b1060d3faa7eee335b8d5850dafd72",
       "title": "Top Blairite: Why I'm Not Blairite Anymore",
@@ -10566,6 +10589,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-03 — Huw Edwards sabotaged my show: Broadcasting legend Simon McCoy on what really happened at the BBC — speakers: Simon McCoy, Matt Forde
 - 2026-07-27 — Top Blairite: Why I'm Not Blairite Anymore — speakers: John McTernan, Matt Forde
 - 2026-07-20 — Dan Neidle — speakers: Dan Neidle Dan, Matt Forde
 - 2026-07-13 — Andrew Neil — speakers: Andrew Neil, Matt Forde

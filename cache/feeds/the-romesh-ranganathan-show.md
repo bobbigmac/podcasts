@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-07-31T19:52:07+00:00`
-- checked_at: `2026-07-31T19:52:07+00:00`
-- last_modified: `Fri, 31 Jul 2026 19:27:10 GMT`
+- fetched_at: `2026-08-03T03:53:47+00:00`
+- checked_at: `2026-08-03T03:53:47+00:00`
+- last_modified: `Mon, 03 Aug 2026 02:25:49 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-31T19:52:07+00:00",
+  "fetched_at": "2026-08-03T03:53:47+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f5abe5853fc2c4da13e9353e7c61c0dceb4aeca9",
+      "title": "Max Fosh: Going Viral, YouTube and Being Posh",
+      "published_at": "2026-08-02T23:01:00+00:00",
+      "link": null,
+      "description": "How Did Max Fosh Become The World's Richest Man? In this episode of The Romesh Ranganathan Show, Romesh is joined by YouTuber, comedian and viral mastermind, Max Fosh, to discuss the outrageous stunts and videos that have made him one of the internet's biggest creators. From sneaking into London Fashion Week, to legally becoming the world's richest man (very briefly), Max reveals the creative process behind his biggest videos, and how he keeps coming up with ideas that millions of people can't help but click on. The pair discuss the realities of life as a creator, YouTube vs TV, and Max tells us about his comedy tour. Plus, Max let's us in on some of his upcoming projects, including hiring a private investigator to secretly follow him. From loopholes and viral videos to comedy and content creation, it's one not to miss. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 02:25 Addressing your point of difference 04:54 Max’s future & Romesh’s decline 06:36 A gift for Max 09:48 How Max began 14:34 Going viral 21:53 Max chooses the title 23:40 Staying fresh and a PI 28:11 Max’s future plans 29:20 Max has a bone to pick with Rom 31:47 Max’s lawyer 35:37 The content industry 38:40 A question from Shanthi 42:30 Success and obsession 48:00 Would Max do Strictly? 49:47 Would You Rather: Decide to Survive? 56:50 Misquoted 01:06:21 Comedy career 01:09:18 An exclusive 01:09:18 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3cb60e5e-8ccb-11f1-8db7-df2bda7d315a/image/acdad387a2fe18251efa3cc3d4b4bd9f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4207008135.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4653",
+      "speakers": [
+        "Max Fosh",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "fosh",
+        "viral",
+        "youtube"
+      ]
+    },
     {
       "key": "9dc8f0ad5f10bbe3f0d99e8835cd45fd8335a03f",
       "title": "The Chili Oil Special",
@@ -2055,6 +2076,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-02 — Max Fosh: Going Viral, YouTube and Being Posh — speakers: Max Fosh, Romesh Ranganathan
 - 2026-07-29 — The Chili Oil Special — speakers: Oil Mastermind, Romesh Ranganathan
 - 2026-07-26 — Kelly Cates: From Sky Sports News To Match Of The Day — speakers: Kelly Cates, Romesh Ranganathan
 - 2026-07-22 — Shanthi’s Suspicions, Monkey Bites & Stage Names — speakers: Romesh Ranganathan

@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=12",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=12",
-  "fetched_at": "2026-08-02T03:51:45+00:00",
+  "fetched_at": "2026-08-03T03:53:47+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=13",
   "episodes": [
+    {
+      "key": "f226ff4c1016638bc3a5f7dce45a79b6bf70ca62",
+      "guid": "d080e8cb-e669-4c38-b785-7e402d079c33",
+      "title": "Best of FUBAR (7th September)",
+      "published_at": "2025-09-07T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-7th-september1/",
+      "description": "A selection of highlights from the FUBAR vaults.",
+      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1757203450-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=d080e8cb-e669-4c38-b785-7e402d079c33&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "afb8021188bbf50e02ba9cfa7eb48e5a9736df46",
       "guid": "f3fa5cdf-c603-4099-a000-d5353dfb28c9",
@@ -380,19 +393,6 @@
       "description": "A selection of highlights from the FUBAR vaults.",
       "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1754697866-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=9c02a938-0400-4d36-94a1-691bcf2eeb73&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "b158ec7e107ce409875bbf9acbaafb2b2847631e",
-      "guid": "5e734c14-5a67-403a-91d1-c59ab7bcfe1b",
-      "title": "Best of FUBAR (8th August)",
-      "published_at": "2025-08-08T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-8th-august/",
-      "description": "A selection of highlights from the FUBAR vaults.",
-      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1754611441-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=5e734c14-5a67-403a-91d1-c59ab7bcfe1b&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null
