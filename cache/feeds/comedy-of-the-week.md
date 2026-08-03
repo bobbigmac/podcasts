@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-07-27T04:01:04+00:00`
-- checked_at: `2026-07-27T04:01:04+00:00`
-- etag: `"6894420c997769b3dd83158abceffeb9"`
-- last_modified: `Mon, 27 Jul 2026 04:00:06 GMT`
+- fetched_at: `2026-08-03T10:04:50+00:00`
+- checked_at: `2026-08-03T10:04:50+00:00`
+- etag: `"03f52567697835702c1f5e3b8eb8a578"`
+- last_modified: `Mon, 03 Aug 2026 04:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-07-27T04:01:04+00:00",
+  "fetched_at": "2026-08-03T10:04:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "ae77177a307021227c05d31ee92e093f0fc0b17c",
+      "title": "Best Medicine",
+      "published_at": "2026-08-03T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p1r7ph",
+      "description": "Joining Kiri Pritchard-McLean this week is comedian Michelle Wolf who reflects on home births, Professor Stephen Wallace explains how old plastic bottles can be transformed into a form of Dopamine that can be used to treat Parkinson’s disease, and Dr Matt Clarke demonstrates the power of medical collaboration in helping to identify and treat brain tumours. Best Medicine is your weekly dose of laughter, hope and incredible medicine. Award-winning comedian Kiri Pritchard-McLean is joined by a funny and fascinating panel of comedians, doctors, scientists, experts and historians to celebrate medicine's inspiring past, present and future. Each week Kiri challenges a panel of experts and a comedian to make a case for what they think is 'the best medicine'. Each guest champions anything from world-changing science or an obscure invention to an everyday treatment, an uplifting worldview, an unsung hero or a futuristic cure. Whether it’s groundbreaking surgery, seaweed underwear, AI glasses to help people with dementia, horse therapy, sports, revolutionary gene therapy for Huntington’s disease or yesterday’s rubbish becoming tomorrow’s medicines - it’s always something worth celebrating. Hosted by Kiri Pritchard-McLean Featuring: Dr Matt Clarke, Professor Stephen Wallace and Michelle Wolf Written by Edward Easton, Jordan Gray, Kiri Pritchard-McLean and Ben Rowse Producer: Tashi Radha Executive Producer: Ben Worsfield Theme tune composed by Andrew Jones A Large Time production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p1r5fp.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26928000",
+      "itunes_duration": "1683",
+      "speakers": [
+        "Michelle Wolf"
+      ],
+      "topics": [
+        "medicine"
+      ]
+    },
     {
       "key": "8a71d3babe8a2b99142201ea5de624db0408a21f",
       "title": "Current-ish",
@@ -994,25 +1012,6 @@
         "crybaby",
         "present"
       ]
-    },
-    {
-      "key": "2505b904a0409bc9d57e8e77f7ae78bcc0bd80d8",
-      "title": "The Lively Life of Lindsey Santoro",
-      "published_at": "2025-07-28T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lsqb46",
-      "description": "Today Lindsey is dragged to a rock climbing centre by her athletic friend Jenny which results in a life changing discovery about her over-zealous anatomy. She helps her mum rescue a missing rat and, with the help of Elton John, hosts an intimate funeral. Welcome to the life of the most beautiful princess in all of Birmingham and its surrounding areas. This week Lindsey Santoro has started a diary. But she’s not 13 years old daydreaming about her latest crush and sleepover plans. She’s a 37-year-old no-nonsense Brummy whose days are more likely to involve thrush cream and a bargy with a bus driver. You are cordially invited to step into her world and learn lessons from her lively life. Producer: Sasha Bobak Production Coordinator: Katie Baum Script Editor: Ruth Husko Executive Producer: Pete Strauss A BBC Studios Audio Production for Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lsq9bf.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14128000",
-      "itunes_duration": "883",
-      "speakers": [],
-      "topics": [
-        "lively",
-        "life",
-        "lindsey",
-        "santoro"
-      ]
     }
   ]
 }
@@ -1021,6 +1020,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-03 — Best Medicine — speakers: Michelle Wolf
 - 2026-07-27 — Current-ish — speakers: Lucy Porter, John Tothill, Kyrah Gray, Amy Annette
 - 2026-07-20 — Sunil Patel: An Idiot's Guide To Living Forever — speakers: Sunil Patel, Comedian Sunil Patel
 - 2026-07-13 — Dead Ringers
@@ -1071,4 +1071,3 @@
 - 2025-08-18 — Stuart Mitchell's Cost of Dying — speakers: Stuart Mitchell
 - 2025-08-11 — Oliver Callan Bins the Border — speakers: Oliver Callan Bins, Oliver Callan
 - 2025-08-04 — Crybabies Present... — speakers: Jeremy Moleskine
-- 2025-07-28 — The Lively Life of Lindsey Santoro

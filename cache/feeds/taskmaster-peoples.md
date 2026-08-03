@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-07-27T10:08:09+00:00`
-- checked_at: `2026-07-27T10:08:09+00:00`
-- etag: `"1167ab-65794aa48add7"`
-- last_modified: `Mon, 27 Jul 2026 09:51:23 GMT`
+- fetched_at: `2026-08-03T10:04:50+00:00`
+- checked_at: `2026-08-03T10:04:50+00:00`
+- etag: `"116fcc-6582173f88def"`
+- last_modified: `Mon, 03 Aug 2026 09:49:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-07-27T10:08:09+00:00",
+  "fetched_at": "2026-08-03T10:04:50+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d2f87267aeabfef8cc13ad24906560e9c67252f4",
+      "title": "Go Hard on the Gore - S8, Ep. 5",
+      "published_at": "2026-08-03T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "This week we watch Series 8, Episode 5 on the recommendation of a listener who believes it tops the list for most amount of fails in one attempt. Along the way we remember how tricky ping pong balls can be, the cleverness of Joe, the versatility of noodles and why we love Lou. Plus we learn the correct pronunciation of lasso (and taco) and, as a bonus, the origin of ten gallon hats. Next week we're watching Series 2 and Episode 3. Send any homework suggestions or Taskmaster thoughts to fans@taskmaster.tv.",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/f1227da4-0b5b-41ea-959e-acf4ff86c6ae.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=f1227da4-0b5b-41ea-959e-acf4ff86c6ae",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60260600",
+      "itunes_duration": "58:59",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "gore"
+      ]
+    },
     {
       "key": "10af2c06fe5c6b0f9719434e6c5963d5fdad5b9f",
       "title": "Remembering Carol - S6, Ep. 8",
@@ -4747,6 +4766,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-03 — Go Hard on the Gore - S8, Ep. 5 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-07-27 — Remembering Carol - S6, Ep. 8 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-07-20 — Trip Nip Slip - S9, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-07-13 — Imagination, Imagination, Broken - S15, Ep. 3 — speakers: Jenny Eclair, Jack Bernhardt
