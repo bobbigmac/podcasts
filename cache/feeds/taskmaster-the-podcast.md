@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-07-27T22:17:32+00:00`
-- checked_at: `2026-07-27T22:17:32+00:00`
-- etag: `"dac6c-6579e030cfab0"`
-- last_modified: `Mon, 27 Jul 2026 21:00:27 GMT`
+- fetched_at: `2026-08-03T22:17:15+00:00`
+- checked_at: `2026-08-03T22:17:15+00:00`
+- etag: `"db484-6582ad3b9ffc9"`
+- last_modified: `Mon, 03 Aug 2026 21:00:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-07-27T22:17:32+00:00",
+  "fetched_at": "2026-08-03T22:17:15+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b13ab3b329825d764586b9905446a5ae4288aec4",
+      "title": "Taskmaster The Podcast Rewind - Series 1 Ep3. With Josh Widdicombe",
+      "published_at": "2026-08-03T21:00:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "On today's podcast we are going way back to Series One and we talk to the champ of champs, Josh Widdicombe! Comedian, podcaster and soon to be Strictly Come Dancing Host joined Ed back in 2021 to discuss the tattoo decision, two letters he received from Alex Horne and that f**king beans point! You can watch Series One (and all other Taskmaster eps) on Channel4.com For all your Taskmaster news visit taskmaster.tv",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/44c86713-ee1a-47eb-b52f-ee698d6e29d7.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=44c86713-ee1a-47eb-b52f-ee698d6e29d7",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54874027",
+      "itunes_duration": "57:17",
+      "speakers": [
+        "Josh Widdicombe",
+        "Ed Gamble"
+      ],
+      "topics": [
+        "taskmaster",
+        "podcast",
+        "rewind",
+        "series",
+        "josh",
+        "widdicombe"
+      ]
+    },
     {
       "key": "745459a83e4f073fb67838d14a93abd81569083f",
       "title": "Taskmaster The Podcast Rewind - Series 1 Ep2 with Tim Key",
@@ -5547,6 +5571,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-03 — Taskmaster The Podcast Rewind - Series 1 Ep3. With Josh Widdicombe — speakers: Josh Widdicombe, Ed Gamble
 - 2026-07-27 — Taskmaster The Podcast Rewind - Series 1 Ep2 with Tim Key — speakers: Tim Key, Ed Gamble
 - 2026-07-13 — Taskmaster: The People's Podcast: Imagination, Imagination, Broken - S15, Ep. 3 — speakers: Ed Gamble
 - 2026-07-03 — Taskmaster the Podcast *Best of Series 21* Part Two — speakers: Ed Gamble
