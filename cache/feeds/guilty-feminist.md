@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-07-27T15:12:35+00:00`
-- checked_at: `2026-07-27T15:12:35+00:00`
-- last_modified: `Mon, 27 Jul 2026 14:11:07 GMT`
+- fetched_at: `2026-08-03T15:14:57+00:00`
+- checked_at: `2026-08-03T15:14:57+00:00`
+- last_modified: `Mon, 03 Aug 2026 11:00:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-27T15:12:35+00:00",
+  "fetched_at": "2026-08-03T15:14:57+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,34 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "fc891a87ad9cd949dad23341e1ff15ab606dc11e",
+      "title": "494. Ventnor Fringe with Felicity Ward and special guests Cody Pevreall and Ben Holmes",
+      "published_at": "2026-08-03T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 494. Ventnor Fringe Presented by Deborah Frances-White and Felicity Ward with special guests Cody Pevreall and Ben Holmes Recorded 18 July 2026 at Ventnor Fringe. Released 3 August. The Guilty Feminist theme composed by Mark Hodge. The Storytelling Leadership Academy is an eight-week online course for leaders who need to find their voice and tell their story. For more information and to register, click here. https://www.the-spontaneity-shop.com/storytelling-academy/ More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Felicity Ward https://www.instagram.com/felicityward https://www.felicityward.com More about our guests https://vexspokenword.wordpress.com https://www.instagram.com/vexspokenword https://www.facebook.com/VEXSpokenWord For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Lindsey Mendick in Conversation . https://www.tickettailor.com/events/tkestudio/2325923%0A Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ DreamDate . https://www.edfringe.com/tickets/whats-on/deborah-frances-white-dreamdate Newcastle Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1996315094186 Newcastle Guilty Feminist live show, 5 September, tickets on sale soon London Podcast Festival . https://www.kingsplace.co.uk/whats-on/podcast/the-guilty-feminist-10/ Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5b4ac52a-8db2-11f1-bfc9-172cc798d583/image/57f61fe86095d630e542184c1a4371ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL2488863228.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4413",
+      "speakers": [
+        "Cody Pevreall",
+        "Ben Holmes",
+        "Fringe Presented",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "ventnor",
+        "fringe",
+        "felicity",
+        "ward",
+        "guest",
+        "cody",
+        "pevreall",
+        "holmes"
+      ]
+    },
     {
       "key": "488c143860544c08b891eef8e6d5ef06267c7e31",
       "title": "493. Edinburgh Previews with Alice Fraser, Katie Pritchard, Rosie Holt and Jess Robinson",
@@ -18352,6 +18380,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-03 — 494. Ventnor Fringe with Felicity Ward and special guests Cody Pevreall and Ben Holmes — speakers: Cody Pevreall, Ben Holmes, Fringe Presented, Deborah Frances-White
 - 2026-07-27 — 493. Edinburgh Previews with Alice Fraser, Katie Pritchard, Rosie Holt and Jess Robinson — speakers: Edinburgh Previews, Alice Fraser, Katie Pritchard, Rosie Holt, Jess Robinson, Deborah Frances-White
 - 2026-07-20 — 492. Edinburgh Previews with Sara Barron, Reb Day, Freya Parker and Anna Leong Brophy — speakers: Edinburgh Previews, Sara Barron, Freya Parker, Anna Leong Brophy, Deborah Frances-White
 - 2026-07-13 — 491. In Conversation with Dame Tracey Emin — speakers: Deborah Frances-White
