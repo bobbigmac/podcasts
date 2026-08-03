@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-03T15:14:57+00:00`
-- checked_at: `2026-08-03T15:14:57+00:00`
-- etag: `"djEuMi4wOjE3ODU3Njc1ODk4NTQ="`
+- fetched_at: `2026-08-03T17:19:40+00:00`
+- checked_at: `2026-08-03T17:19:40+00:00`
+- etag: `"djEuMi4wOjE3ODU3NzEwMzkzNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-03T15:14:57+00:00",
+  "fetched_at": "2026-08-03T17:19:40+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "828a53a85b18dff8ffc5aa2e1dfa0585c6b239f1",
+      "title": "Is Zack Polanski too \"online\"?",
+      "published_at": "2026-08-03T15:30:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/is-zack-polanski-too-online",
+      "description": "For some time, Zack Polanski’s tenure as Green Party leader had been largely characterised as a success. But he’s been having a turbulent time in recent weeks. He was accused of inciting violence with an Instagram post, failed to steal the Manchester mayoralty from Labour, and the party is becoming increasingly divided on the subject of defence of spending. Anoosh Chakelian is joined by political correspondent Megan Kenyon to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1785766816322-eb755453-047e-4044-9ce2-ec474ec2d750.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a70a38a6fd0928fcca6cf43/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75199327",
+      "itunes_duration": "31:17",
+      "speakers": [
+        "Zack Polanski",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "zack",
+        "polanski"
+      ]
+    },
     {
       "key": "563178048540e60ef644f20a6fe6801068d46f3a",
       "title": "Chris Philp goes GONZO in the English Channel | Weekly roundup",
@@ -31964,6 +31985,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-03 — Is Zack Polanski too "online"? — speakers: Zack Polanski, Anoosh Chakelian, Oli Dugmore
 - 2026-08-01 — Chris Philp goes GONZO in the English Channel | Weekly roundup — speakers: Chris Philp, Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-30 — The Burnham comms and policy blitz — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-29 — Can the UK turn its life sciences strengths into global leadership? — speakers: Anoosh Chakelian, Oli Dugmore
