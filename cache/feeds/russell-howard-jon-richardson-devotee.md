@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-07-30T19:51:04+00:00`
-- checked_at: `2026-07-30T19:51:04+00:00`
-- etag: `W/"46f71-OB4mbJXBY33wkLR6dNCAYCrPCDE"`
+- fetched_at: `2026-08-04T19:55:50+00:00`
+- checked_at: `2026-08-04T19:55:50+00:00`
+- etag: `W/"49369-sXJH/Ujd2uJi04WtlY+JYMp64lE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,173 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-07-30T19:51:04+00:00",
+  "fetched_at": "2026-08-04T19:55:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "96bd4dc1dc0dcfe6c6adeedb10513f15242c0808",
+      "title": "Sean Lock's 15 Minutes of Misery - Episode 3",
+      "published_at": "2026-08-04T19:25:12+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Sean-Locks-15-Minutes-of-Misery---Episode-3-e3mvmld",
+      "description": "BBC Radio 4 - A precursor radio series to 15 Storeys High, which ran for six episodes on Radio 4 between 30 December 1998 and 3 February 1999. The show was written by Sean Lock, produced by Dan Freedman and starred Lock, Kevin Eldon and Hattie Hayridge.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785871490396-3d9bdd2e37ac6.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1059326361.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13943963",
+      "itunes_duration": "00:14:22",
+      "speakers": [
+        "Sean Lock"
+      ],
+      "topics": [
+        "sean",
+        "lock",
+        "minutes",
+        "misery"
+      ]
+    },
+    {
+      "key": "7feac7be982d009a2d736ee70a8cc04780305762",
+      "title": "Sean Lock's 15 Minutes of Misery - Episode 2",
+      "published_at": "2026-08-04T05:03:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Sean-Locks-15-Minutes-of-Misery---Episode-2-e3mu0nh",
+      "description": "BBC Radio 4 - A precursor radio series to 15 Storeys High, which ran for six episodes on Radio 4 between 30 December 1998 and 3 February 1999. The show was written by Sean Lock, produced by Dan Freedman and starred Lock, Kevin Eldon and Hattie Hayridge.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785784089417-55db1bf67e6e.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4333589454.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13750954",
+      "itunes_duration": "00:14:10",
+      "speakers": [
+        "Sean Lock"
+      ],
+      "topics": [
+        "sean",
+        "lock",
+        "minutes",
+        "misery"
+      ]
+    },
+    {
+      "key": "c5adff37f70cab635c501b3026c89412fa533a60",
+      "title": "Sean Lock's 15 Minutes of Misery - Episode 1",
+      "published_at": "2026-08-04T05:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Sean-Locks-15-Minutes-of-Misery---Episode-1-e3mu0k1",
+      "description": "BBC Radio 4 Comedy.A precursor radio series to 15 Storeys High, which ran for six episodes on Radio 4 between 30 December 1998 and 3 February 1999. The show was written by Sean Lock, produced by Dan Freedman and starred Lock, Kevin Eldon and Hattie Hayridge.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785783997817-6a8df862fe704.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6847280332.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14040859",
+      "itunes_duration": "00:14:28",
+      "speakers": [
+        "Sean Lock"
+      ],
+      "topics": [
+        "sean",
+        "lock",
+        "minutes",
+        "misery"
+      ]
+    },
+    {
+      "key": "7c29166f65b8752c627ba2ed56c5803312b9242a",
+      "title": "BetaBet The Complete Collection - Elis James and John Robins",
+      "published_at": "2026-08-03T05:20:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/BetaBet-The-Complete-Collection---Elis-James-and-John-Robins-e3moutc",
+      "description": "BetaBet The Complete Collection - Elis James and John Robins",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785443243300-e700d75a45cfe.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3892703172.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "165722188",
+      "itunes_duration": "02:50:47",
+      "speakers": [
+        "John Robins"
+      ],
+      "topics": [
+        "betabet",
+        "complete",
+        "collection",
+        "elis",
+        "james",
+        "john",
+        "robins"
+      ]
+    },
+    {
+      "key": "cc61dc72cf3f29b25c1c264820f3154a295953ba",
+      "title": "John's Gig Diaries The Complete Collection - Elis James and John Robins",
+      "published_at": "2026-08-02T05:59:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Johns-Gig-Diaries-The-Complete-Collection---Elis-James-and-John-Robins-e3mou72",
+      "description": "New Ricky & Karl Podcast Feed : https://open.spotify.com/episode/4kk8zJxYuZbS16QVUEMq9m?si=NG3Px5gAQWOknYfaLIcI-w",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785441839829-87e9ba0d7908a.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7883842446.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75804728",
+      "itunes_duration": "01:18:07",
+      "speakers": [
+        "John Robins"
+      ],
+      "topics": [
+        "john",
+        "diaries",
+        "complete",
+        "collection",
+        "elis",
+        "james",
+        "robins"
+      ]
+    },
+    {
+      "key": "20b5fcaa8b19c4f836319606cb15d1defc0c2881",
+      "title": "Elis' Gig Diaries The Complete Collection - Elis James and John Robins",
+      "published_at": "2026-08-01T05:48:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Elis-Gig-Diaries-The-Complete-Collection---Elis-James-and-John-Robins-e3motqa",
+      "description": "New Ricky & Karl Podcast Feed : https://open.spotify.com/episode/4kk8zJxYuZbS16QVUEMq9m?si=NG3Px5gAQWOknYfaLIcI-w",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785440981055-c5045af365c28.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2888499352.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80289766",
+      "itunes_duration": "01:22:44",
+      "speakers": [
+        "John Robins"
+      ],
+      "topics": [
+        "elis",
+        "diaries",
+        "complete",
+        "collection",
+        "james",
+        "john",
+        "robins"
+      ]
+    },
+    {
+      "key": "6e2d2245c685fc82538bfdae25f21a917ed6f472",
+      "title": "A Robins Amongst The Pigeons The Complete Collection - Elis James and John Robins (Radio X)",
+      "published_at": "2026-07-31T05:35:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/A-Robins-Amongst-The-Pigeons-The-Complete-Collection---Elis-James-and-John-Robins-Radio-X-e3mot5t",
+      "description": "New Ricky & Karl Podcast Feed : https://open.spotify.com/episode/4kk8zJxYuZbS16QVUEMq9m?si=NG3Px5gAQWOknYfaLIcI-w A Robins Amongst the Pigeons is a humorous and reflective memoir by British comedian John Robins. The book blends personal stories, stand-up material, and diary-style entries to explore his life, career, and struggles with mental health. At its core, the book follows Robins during a turbulent period in his life, particularly around a breakup and the emotional fallout that follows. He writes candidly about anxiety, obsessive tendencies, and the pressure of trying to maintain success in comedy while dealing with internal turmoil. Despite these heavier themes, the tone remains witty and self-aware, with Robins often poking fun at his own habits and overthinking. A major thread throughout the book is Robins’ love of radio and stand-up comedy, especially his work on shows like those with Elis James. He reflects on friendship, creative partnership, and the role comedy plays as both an escape and a coping mechanism. Ultimately, A Robins Amongst the Pigeons is a mix of humor and vulnerability. It offers insight into the mind of a comedian while addressing relatable themes like heartbreak, self-doubt, and personal growth, making it both entertaining and emotionally resonant.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785440215053-de171c4e0480a.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5595378294.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "97456147",
+      "itunes_duration": "01:40:26",
+      "speakers": [
+        "John Robins"
+      ],
+      "topics": [
+        "robins",
+        "pigeon",
+        "complete",
+        "collection",
+        "elis",
+        "james",
+        "john",
+        "radio"
+      ]
+    },
     {
       "key": "11e3ad8b571dd77797643358be44facd4258453c",
       "title": "Fall Asleep to ALL of Winner Plays On The Complete Collection - with Elis James and John Robins",
@@ -2595,54 +2755,6 @@
         "classic",
         "scrape",
         "lycett"
-      ]
-    },
-    {
-      "key": "15292b37e27d1ca75d71062230cd1dd6214298aa",
-      "title": "BetaBet The Complete Collection - Elis James and John Robins",
-      "published_at": "2026-04-19T18:18:44+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/BetaBet-The-Complete-Collection---Elis-James-and-John-Robins-e3i4tup",
-      "description": "All the Betabet with Elis & John from the xfm show",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1776622673772-4b61debad4b87.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118699417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-19%2F8933f64a-134d-92a0-9f20-b4ec3cb80cfc.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "165718214",
-      "itunes_duration": "02:52:36",
-      "speakers": [
-        "John Robins"
-      ],
-      "topics": [
-        "betabet",
-        "complete",
-        "collection",
-        "elis",
-        "james",
-        "john",
-        "robins"
-      ]
-    },
-    {
-      "key": "6becf3af2ad73c8085e306916983fee5691476dc",
-      "title": "John's Gig Diaries The Complete Collection - Elis James and John Robins",
-      "published_at": "2026-04-16T18:07:06+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Johns-Gig-Diaries-The-Complete-Collection---Elis-James-and-John-Robins-e3i0rb2",
-      "description": "John's Gig Diaries The Complete Collection",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1776362820638-33ac8b6031c11.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/118565666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-16%2F32233901-bc15-7f2a-f060-48198517fc13.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "74839292",
-      "itunes_duration": "01:17:56",
-      "speakers": [
-        "John Robins"
-      ],
-      "topics": [
-        "john",
-        "diaries",
-        "complete",
-        "collection",
-        "elis",
-        "james",
-        "robins"
       ]
     },
     {
@@ -5511,6 +5623,13 @@
 
 ## Episodes (newest first)
 
+- 2026-08-04 — Sean Lock's 15 Minutes of Misery - Episode 3 — speakers: Sean Lock
+- 2026-08-04 — Sean Lock's 15 Minutes of Misery - Episode 2 — speakers: Sean Lock
+- 2026-08-04 — Sean Lock's 15 Minutes of Misery - Episode 1 — speakers: Sean Lock
+- 2026-08-03 — BetaBet The Complete Collection - Elis James and John Robins — speakers: John Robins
+- 2026-08-02 — John's Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
+- 2026-08-01 — Elis' Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
+- 2026-07-31 — A Robins Amongst The Pigeons The Complete Collection - Elis James and John Robins (Radio X) — speakers: John Robins
 - 2026-07-29 — Fall Asleep to ALL of Winner Plays On The Complete Collection - with Elis James and John Robins — speakers: Elis James, John Robins
 - 2026-07-27 — Fall Asleep To All of JAMES ACASTERS SCRAPES from the Josh Widdicombe XFM SHOW — speakers: Josh Widdicombe
 - 2026-07-27 — Best of James Acaster Podcast - Fubar Radio — speakers: Fubar Radio
@@ -5611,8 +5730,6 @@
 - 2026-04-27 — Josh Widdicombe XFM #3 – James Acaster Classic Scrape 3, Joe Lycett on The Pope. — speakers: James Acaster Classic Scrape, Joe Lycett, James Acaster
 - 2026-04-26 — Josh Widdicombe XFM #2 – James Acaster Classic Scrape 2, Joe Lycett on Richard III — speakers: James Acaster Classic Scrape, Joe Lycett, Richard Iii, James Acaster
 - 2026-04-23 — Josh Widdicombe XFM #1 - Stephen Merchant, James Acaster Classic Scrape, Joe Lycett — speakers: James Acaster Classic Scrape, Joe Lycett Ricky Gervais, Josh Widdicombe, Stephen Merchant
-- 2026-04-19 — BetaBet The Complete Collection - Elis James and John Robins — speakers: John Robins
-- 2026-04-16 — John's Gig Diaries The Complete Collection - Elis James and John Robins — speakers: John Robins
 - 2026-04-11 — #56 Jon Richardson Podcast
 - 2026-04-10 — #55 Jon Richardson Podcast
 - 2026-04-09 — #54 Jon Richardson Podcast
