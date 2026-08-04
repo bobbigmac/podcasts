@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-03T03:53:47+00:00`
-- checked_at: `2026-08-03T03:53:47+00:00`
-- etag: `"djEuMi4wOjE3ODU3MjI0Mzk1MDQ="`
+- fetched_at: `2026-08-04T03:35:55+00:00`
+- checked_at: `2026-08-04T03:35:55+00:00`
+- etag: `"djEuMi4wOjE3ODU4MDg4Mzk0MTk="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-03T03:53:47+00:00",
+  "fetched_at": "2026-08-04T03:35:55+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "5540bed63a0071e272243c7fce2dbe99737daf75",
+      "title": "S16 Ep 880: Joe & David's Magical Sitcom Tour",
+      "published_at": "2026-08-04T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-880-joe-davids-magical-sitcom-tour",
+      "description": "The first episode of their new TV series - Joe & David's Magical Sitcom Tour - is out today on U&Gold. So it’s time for the guys to do some promotion for it on Chatabix and explain a little about what you can expect from the show. Which as you’d imagine, doesn’t go completely to plan but they do get there eventually. The three-part series sees David and Joe embark on a road trip to the real-world locations behind The Office, Porridge, and Fawlty Towers - and we hope you enjoy watching it as much as we did making it! Starting Tuesday 4 August at 9pm on U&Gold - with all episodes now available to view on demand too. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a6b21f06043035f89625491/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47329280",
+      "itunes_duration": "49:18",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "magical",
+        "sitcom",
+        "tour"
+      ]
+    },
     {
       "key": "54d3562460aac19f88569334db7004dbf63c8dc5",
       "title": "S16 Ep 879 Vault Mondays: Ronald McDonald and The new Telly Addicts Game",
@@ -15767,6 +15789,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-04 — S16 Ep 880: Joe & David's Magical Sitcom Tour — speakers: Joe Wilkinson, David Earl
 - 2026-08-03 — S16 Ep 879 Vault Mondays: Ronald McDonald and The new Telly Addicts Game — speakers: Ronald McDonald, Joe Wilkinson, David Earl
 - 2026-07-31 — S16 Ep 878 Listener’s Mailbag: Very Old Emails and First Kisses — speakers: Joe Wilkinson, David Earl
 - 2026-07-30 — S16 Ep 877: Graham’s Song and Morning Walks — speakers: Graham’s Song, Joe Wilkinson, David Earl

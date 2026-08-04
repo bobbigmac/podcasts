@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-07-28T03:33:59+00:00`
-- checked_at: `2026-07-28T03:33:59+00:00`
-- etag: `W/"419e1-lbFPditdFBekdcOuqeJQw27cUDE"`
+- fetched_at: `2026-08-04T03:35:55+00:00`
+- checked_at: `2026-08-04T03:35:55+00:00`
+- etag: `W/"42184-/nY8H7IBNnKMq64Vrhm3nYp0o2s"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-07-28T03:33:59+00:00",
+  "fetched_at": "2026-08-04T03:35:55+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "eaa2960d7aa0c715e8ddc5430c637bd06c7172df",
+      "title": "Final Fantasy IX and the Struggle of Going Back to Your Roots | Windbreaker Podcast",
+      "published_at": "2026-08-04T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Final-Fantasy-IX-and-the-Struggle-of-Going-Back-to-Your-Roots--Windbreaker-Podcast-e3mu89m",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about Final Fantasy IX, whimsy in games, and why it's tough to recapture the magic of your roots Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3173164864.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68162216",
+      "itunes_duration": "01:10:14",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "fantasy",
+        "struggle",
+        "root",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "9a5b4824ffd8e4660b833ac24a4f380daaf7f6ca",
       "title": "Asymmetric Horror Games And Why They're Good | Windbreaker Podcast",
@@ -3107,6 +3130,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-04 — Final Fantasy IX and the Struggle of Going Back to Your Roots | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-07-28 — Asymmetric Horror Games And Why They're Good | Windbreaker Podcast — speakers: Jesse Galena, Yahtzee Croshaw, Marty Sliva
 - 2026-07-21 — Let’s Make Yahtzee and JM8 Choose Their Favorites | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-07-14 — 2D vs 3D | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
