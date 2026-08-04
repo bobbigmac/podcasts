@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-07-31T09:15:48+00:00`
-- checked_at: `2026-07-31T09:15:48+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RVME56UXdNemszTkRFPTo6c2F4ZXNz"`
+- fetched_at: `2026-08-04T09:06:37+00:00`
+- checked_at: `2026-08-04T09:06:37+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RVNE1UazJNemszTlRjPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-07-31T09:15:48+00:00",
+  "fetched_at": "2026-08-04T09:06:37+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "49e0d596556dec3a2f40536340e2edac05e85533",
+      "title": "Help That’s Not Beauty OR The Beast | Uno’s Gone Woke",
+      "published_at": "2026-08-04T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-thats-not-beauty-or-the-beast-unos-gone-woke",
+      "description": "How would you react if you got more than you bargained for from a dodgy copy of Beauty and The Beast? William and Jordan find out the answer to that question and more. Jordan's also complaining that your favourite holiday card game has gone \"woke\" and William wraps up his time on the West End, never to be mentioned again! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1785744849588-3b0e4f44-f129-4ac4-98ce-8e995c9e2aab.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a6c84bce4350b408f5b0ac9/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Rc-jOVCzevs11_8vfGQZ-A2urIVyjbep811Icbp5mtY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45996408",
+      "itunes_duration": "47:54",
+      "speakers": [
+        "Not Beauty",
+        "Gone Woke How",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "beauty",
+        "beast",
+        "woke"
+      ]
+    },
     {
       "key": "80804a2b0ffa0002ed3232f44cd1b2f31ea95d97",
       "title": "Campest Modes Of Transport | And Jordan’s Magic Carpet",
@@ -14784,6 +14807,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-04 — Help That’s Not Beauty OR The Beast | Uno’s Gone Woke — speakers: Not Beauty, Gone Woke How, William Hanson, Jordan North
 - 2026-07-31 — Campest Modes Of Transport | And Jordan’s Magic Carpet — speakers: William Hanson, Jordan North
 - 2026-07-28 — Help I Left My Sunnies At My Situationship | And Jordan Can’t Speak — speakers: William Hanson, Jordan North
 - 2026-07-24 — The Etiquette Police Come For William Hanson | And Sexytime AC — speakers: William Hanson, Jordan North

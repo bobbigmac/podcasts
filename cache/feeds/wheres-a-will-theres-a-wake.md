@@ -2,9 +2,9 @@
 
 - slug: `wheres-a-will-theres-a-wake`
 - source: `https://feeds.megaphone.fm/wtawtaw`
-- fetched_at: `2026-07-28T08:50:52+00:00`
-- checked_at: `2026-07-28T08:50:52+00:00`
-- last_modified: `Tue, 28 Jul 2026 07:20:39 GMT`
+- fetched_at: `2026-08-04T09:06:37+00:00`
+- checked_at: `2026-08-04T09:06:37+00:00`
+- last_modified: `Tue, 04 Aug 2026 04:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/wtawtaw",
   "description": "Join Mel Giedroyc every week as she laughs in the face of death with all your favourite funny celebrities. Working on the assumption they’ve popped their clogs, they’ll be telling Mel all about how they’ve died, what they want for their funerals and why she should be unlocking the pearly gates for them. Want the episodes ad free AND extra content from Mel and her guest? 6 Feet Under steps away from fantasy and rifles through all your dead good emails. Head to wheretheresawilltheresawake.com to subscribe. AND If you've got a story for us, send it over to mel@deathpodcast.co.uk. A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast Learn more about your ad choices. Visit podcastchoices.com/adchoices Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast To bring your brand to life in this podcast, email podcastadsales@sonymusic.com",
   "image_url": "https://megaphone.imgix.net/podcasts/2b690814-56d7-11ed-8ab5-83c1414d4a97/image/c6f317fd3e7d35323d3d1f610fd8466f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-28T08:50:52+00:00",
+  "fetched_at": "2026-08-04T09:06:37+00:00",
   "owners": [
     "Mel Giedroyc"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7a4ceed28c07d015be9aed95eda7482a50b86ce8",
+      "title": "Here Lies Tez Ilyas - Edinburgh Fringe Special",
+      "published_at": "2026-08-04T04:00:00+00:00",
+      "link": null,
+      "description": "Madinah, live in mums and clambering for a perfume collection. It's stand up comedian and Man Like Mobeen star, Tez Ilyas Upgrade your everyday wardrobe (while you still can 👀): https://www.fatface.com/shop/womens/f/feat-newin?utm_source=referral&utm_medium=podcast&utm_campaign=wheretheresawill Use code: WHERETHERESAWILL20 for 20% off. Have a story for us? Send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts and follow us at @sonypodcasts To bring your brand to life in this podcast, email podcastadsales@sonymusic.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dc208926-7c67-11f0-bc82-8bb05f7e5f31/image/6caa8a6e499d3dd2d502b8eb7946ce85.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY6777502369.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2226",
+      "speakers": [
+        "Tez Ilyas Edinburgh Fringe",
+        "Mel Giedroyc"
+      ],
+      "topics": [
+        "ilyas",
+        "edinburgh",
+        "fringe",
+        "special"
+      ]
+    },
     {
       "key": "0781b908d807b534216378b715739b12fa439bfc",
       "title": "Here Lies Mike Rice - Edinburgh Fringe Special",
@@ -4216,6 +4238,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-04 — Here Lies Tez Ilyas - Edinburgh Fringe Special — speakers: Tez Ilyas Edinburgh Fringe, Mel Giedroyc
 - 2026-07-28 — Here Lies Mike Rice - Edinburgh Fringe Special — speakers: Mike Rice Edinburgh Fringe, Mel Giedroyc
 - 2026-07-21 — Here Lies Tom Kerridge — speakers: Tom Kerridge, John Dory, Mel Giedroyc
 - 2026-07-14 — Here Lies Ronni and Sally — speakers: Lies Ronni, Sally Swimming, Mel Giedroyc
