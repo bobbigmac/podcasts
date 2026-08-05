@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-08-02T03:51:45+00:00`
-- checked_at: `2026-08-02T03:51:45+00:00`
-- etag: `"djEuMi4wOjE3ODU2Mzk2Mzk2MTU="`
+- fetched_at: `2026-08-05T03:31:21+00:00`
+- checked_at: `2026-08-05T03:31:21+00:00`
+- etag: `"djEuMi4wOjE3ODU4OTg4Mzk3OTI="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-08-02T03:51:45+00:00",
+  "fetched_at": "2026-08-05T03:31:21+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "159995e515202f4932f8aa618286a2f18af898cb",
+      "title": "WDWDY #82.1: Home alone no pants party (David's Yesterday)",
+      "published_at": "2026-08-05T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-821-home-alone-no-pants-party-davids-yesterday",
+      "description": "We're doing a live show in London at Hackney Empire. Tickets will be on pre-sale to fan club members on Thursday 6th August @ 10am. Members will be sent a link that morning General release on Friday 7th August. See you there!! In this midweek mayhem episode we find out what David did with his yesterday... big news! DOD has found the stretch. And is working on the end to his new Edinburgh Comedy show. It's high stakes stuff... If you want to hear all about what Max did on this exact day then you need to be 'IN IT FOR LIFE' Sign up HERE and here https://yesterdaypod.supportingcast.fm/ Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1785867704622-7dc6c02b-3d4c-4a6b-8227-b49182b6405d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a722de428ead4902cf02652/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "112856053",
+      "itunes_duration": "46:53",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "home",
+        "pant",
+        "party",
+        "david",
+        "yesterday"
+      ]
+    },
     {
       "key": "08353d395c7284872c28c6668ed8e0e0d0a53f54",
       "title": "S5 EP7: Tom Ballard",
@@ -3824,6 +3847,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — WDWDY #82.1: Home alone no pants party (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-02 — S5 EP7: Tom Ballard — speakers: Tom Ballard, Max Rushden, David O'Doherty
 - 2026-07-29 — WDWDY #81.1: Phoning this stuff in for the freeloaders (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-07-26 — S5 EP6: Bella Hull — speakers: Bella Hull, Max Rushden, David O'Doherty

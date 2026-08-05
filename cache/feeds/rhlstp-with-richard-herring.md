@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-08-03T03:53:47+00:00`
-- checked_at: `2026-08-03T03:53:47+00:00`
-- etag: `"djEuMi4wOjE3ODU3MjU4NTkyNzQ="`
+- fetched_at: `2026-08-05T03:31:21+00:00`
+- checked_at: `2026-08-05T03:31:21+00:00`
+- etag: `"djEuMi4wOjE3ODU4OTg2NTkyODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-08-03T03:53:47+00:00",
+  "fetched_at": "2026-08-05T03:31:21+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,49 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "54f9824a00c896c637bc43c9aa89f31cefeb1acc",
+      "title": "Tom Neenan - \"Cyberman Having a Fag\"",
+      "published_at": "2026-08-05T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #621 - Cyberman Having a Fag - It’s another remote RHLSTP and Rich is talking to writer, artist and stand up Tom Neenan. They chat about building a Dalek in your house, Tom’s fantastic art and Rich’s less impressive pottery and why it’s good for comedians to use the other side of their brain sometimes, the Spitting Image “Is Nothing Sacred?” Video insert booklet, whether Rich personally knows the Naked Man and Naked Woman from the Fist of Fun cash in book, why men are so rubbish (not all men) and Tom’s attempt to do ventriloquism with no puppet, because they’re too expensive if your great-grandad hasn’t made you one. See Tom in Edinburgh https://www.edfringe.com/tickets/whats-on/tom-neenan-portrait-of-a-tom-as-a-young-neenan See RHLSTP in Edinburgh http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1785493099396-0f24cf57-e4b3-4056-9180-a5a537b06b70.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a6b9c9f87f5f77b024e8e66/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25037008",
+      "itunes_duration": "52:09",
+      "speakers": [
+        "Tom Neenan Cyberman Having",
+        "Richard Herring"
+      ],
+      "topics": [
+        "neenan",
+        "cyberman"
+      ]
+    },
+    {
+      "key": "d823f259d2465a4ce2dac6b33a1587efa4794aca",
+      "title": "Jimmy Cricket (Retro) - \"Come Closer To The Screen\"",
+      "published_at": "2026-08-04T12:18:19+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Come Closer To The Screen We’re on the road still and at the Lowry in Salford where the lightest local headline is not really ripe for frivolity, but at least they are paying fitting tribute to their greatest painter. And it’s possible that the theatre is literally on fire, but Richard is not letting that stop him. The guest tonight is showbiz legend and punster extraordinaire, Jimmy Cricket and something that the RHLSTP audience might not be used to, proper jokes. But amongst the silliness, Jimmy reveals some fabulous stories about the days of the working men’s clubs, the summer camps or Ireland, Laurel and Hardy’s last tour, working with the Honey Monster, being a Papal Knight and why he still has the hunger for treading the boards in his wellies. There’s more, how his This is Your Life almost got derailed by a chance meeting and a letter from his Mamie. To buy Jimmy’s DVD or find out about his live dates or performances of his play check out his website - https://www.jimmycricket.co.uk/ It’s a heart-warming, corny and hilarious hour of chat. But will Rich ask clean-living Jimmy THAT emergency question? See RHLSTP on tour http://richardherring.com/rhlstpt/tour Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1785845709430-065dd55a-d70d-4789-ba5d-1358e6865d96.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a71d88e47235c354d4a328d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30160680",
+      "itunes_duration": "1:02:02",
+      "speakers": [
+        "Jimmy Cricket",
+        "Come Closer",
+        "Richard Herring"
+      ],
+      "topics": [
+        "jimmy",
+        "cricket",
+        "retro",
+        "screen"
+      ]
+    },
     {
       "key": "a23b475236e5aa298090ef3386a4ac3bc16e6686",
       "title": "Flo and Joan and John Kearns (Retro) - \"Nine Minutes\"",
@@ -23446,6 +23489,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — Tom Neenan - "Cyberman Having a Fag" — speakers: Tom Neenan Cyberman Having, Richard Herring
+- 2026-08-04 — Jimmy Cricket (Retro) - "Come Closer To The Screen" — speakers: Jimmy Cricket, Come Closer, Richard Herring
 - 2026-08-03 — Flo and Joan and John Kearns (Retro) - "Nine Minutes" — speakers: John Kearns, Ed Fringe, Richard Herring
 - 2026-08-01 — Rich and Ally's Craven Newsround Compilation Sweet Perineum — speakers: Sweet Perineum, Richard Herring
 - 2026-07-31 — Martin Fitzgerald on The Umbrella Man and Other Stories - Book Club — speakers: Martin Fitzgerald, Richard Herring

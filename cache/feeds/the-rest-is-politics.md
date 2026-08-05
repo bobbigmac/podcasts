@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-08-04T22:21:34+00:00`
-- checked_at: `2026-08-04T22:21:34+00:00`
-- last_modified: `Tue, 04 Aug 2026 22:09:10 GMT`
+- fetched_at: `2026-08-05T03:31:21+00:00`
+- checked_at: `2026-08-05T03:31:21+00:00`
+- last_modified: `Tue, 04 Aug 2026 23:00:42 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-04T22:21:34+00:00",
+  "fetched_at": "2026-08-05T03:31:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "145cb6c07c12e655f86f8b779799eca7716fec7f",
+      "title": "559. Who Really Benefits from the Ceuta Migration Crisis?",
+      "published_at": "2026-08-04T23:00:00+00:00",
+      "link": null,
+      "description": "Why did 50,000 people risk their lives in an attempt to cross the Morocco-Spain border? What do the pictures emerging from the enclave of Ceuta reveal about the bigger migration story? Why did right-wing figures across the world, from Donald Trump to Elon Musk and Giorgia Meloni, all weigh in? Alastair and Rory are joined by immigration expert Gerald Knaus as they answer all these questions and more. __________ Watch Rory and Alastair’s interview with Count Binface by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics . It’s risk free with NordVPN’s 30-day money-back guarantee! _________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Senior Producer: Nicole Maslen Executive Producer: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ae5ea4d2-902a-11f1-aa50-538da9bec7ff/image/d414cc7cc37dc2e3c55cbcccf98dac99.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9975670093.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3782",
+      "speakers": [
+        "Who Really Benefits",
+        "Ceuta Migration Crisis"
+      ],
+      "topics": [
+        "ceuta",
+        "migration",
+        "crisis"
+      ]
+    },
     {
       "key": "1b24d8e06849f4f1b9476193f501b24c8e0c4f91",
       "title": "Data Centres vs. Drinking Water: What Matters To Us Most?",
@@ -12540,6 +12561,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-04 — 559. Who Really Benefits from the Ceuta Migration Crisis? — speakers: Who Really Benefits, Ceuta Migration Crisis
 - 2026-07-30 — Data Centres vs. Drinking Water: What Matters To Us Most? — speakers: Sandra Postel
 - 2026-07-29 — 558. The 'Cockroach' Uprising and Should We Stop Data Centres?
 - 2026-07-28 — 557. Can Burnham Deliver Britain's Biggest Change in Generations? — speakers: Can Andy Burnham

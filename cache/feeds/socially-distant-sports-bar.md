@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-08-03T15:14:57+00:00`
-- checked_at: `2026-08-03T15:14:57+00:00`
-- etag: `"djEuMi4wOjE3ODU3NjIzMDc2ODM="`
+- fetched_at: `2026-08-05T03:31:21+00:00`
+- checked_at: `2026-08-05T03:31:21+00:00`
+- etag: `"djEuMi4wOjE3ODU4ODU5Mzk0MTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
-  "fetched_at": "2026-08-03T15:14:57+00:00",
+  "fetched_at": "2026-08-05T03:31:21+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "a635c34448420f9e57e05cce832deca13caecbc3",
+      "title": "Ziplock Full Of Moustache",
+      "published_at": "2026-08-04T23:25:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/ziplock-full-of-moustache",
+      "description": "Welcome to this week's Socially Distant Sports Bar with Elis James, Mike Bubbins and Steff Garrero. This week Elis brings in the emotional scenes as Mayo finally win an All-Ireland title after 75 years , Mike has Lloyd on the finer points of Cymraeg, and Steff has some valuable life learnings. Clips Elis: Mayo win their first All-Ireland title in 75 years https://www.instagram.com/reel/DbSKM8JhgOt/?igsh=MWtjN3R3MWhqamp5bA== https://www.instagram.com/reel/DbRkyIENoeM/?igsh=Yzl3aWtibWl1djRo https://x.com/CraicOfTheAsh/status/2081423581322399869/video/1?s=46 Mike: Lloyd on Cymraeg https://www.instagram.com/reel/DY42t57Coin/?igsh=NXkxY21rMnZjNmRz Steff: Learnings https://www.instagram.com/reel/DZaorxntH1f/?igsh=eHQ4aHMzY3pnZndn Coming up on Friday Steff has the Netflix documentary Race Of The Century , charting Australia's remarkable America's Cup triumph, while Elis has chosen Waters Gleaming Gold by Ben Jameson. If you want the whole episode early and advert-free every Tuesday — including the bonus section for this week Towelled Up — subscribe to Distant Pod Bonus Club on Apple Podcasts. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a708c53c41b8c1d300cc8dd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "167833920",
+      "itunes_duration": "1:09:55",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "ziplock",
+        "moustache"
+      ]
+    },
     {
       "key": "36768789f67a924b82609c839ac267770df400c8",
       "title": "Kirkby Ski Slope: Pint Size",
@@ -15545,6 +15566,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-04 — Ziplock Full Of Moustache — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-01 — Kirkby Ski Slope: Pint Size — speakers: Kirkby Ski Slope, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-30 — Best Of Distant Pod 10 (pt 2) — speakers: Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-28 — Best Of Distant Pod 10 (pt 1) — speakers: Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero

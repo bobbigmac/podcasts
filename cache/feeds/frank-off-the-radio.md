@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-08-03T03:53:47+00:00`
-- checked_at: `2026-08-03T03:53:47+00:00`
-- last_modified: `Mon, 03 Aug 2026 00:07:20 GMT`
+- fetched_at: `2026-08-05T03:31:21+00:00`
+- checked_at: `2026-08-05T03:31:21+00:00`
+- last_modified: `Wed, 05 Aug 2026 00:08:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-03T03:53:47+00:00",
+  "fetched_at": "2026-08-05T03:31:21+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "d4f40c71f820806b5d40008d68b2806e1ad9c54b",
+      "title": "Frank Skinner's Radio Days: Penny Wise",
+      "published_at": "2026-08-05T00:00:00+00:00",
+      "link": null,
+      "description": "Back in 2014, the gang chat about the World’s Hardest Man and reminisce about Alun's Readers Digest column. Some name drops too, with Frank meeting Buzz Aldrin and Emily going to the Game of Thrones premiere! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/68c7cb28-901c-11f1-a23c-9b46cfea763b/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3444371430.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3416",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "penny",
+        "wise"
+      ]
+    },
     {
       "key": "23e73e111c301021eb05802dadb78ad0a9b9a048",
       "title": "Plaid Suits with Thistles",
@@ -65,6 +87,27 @@
       ],
       "topics": [
         "chaos"
+      ]
+    },
+    {
+      "key": "220dc75a8ec30e46ad4a6c2eb846aa6ca90b0449",
+      "title": "Frank Skinner’s Radio Days: Daydreaming",
+      "published_at": "2026-07-28T23:00:00+00:00",
+      "link": null,
+      "description": "The gang are in 2014 and Frank tells us all about his daydreams and makes a high-stakes bet on Buzz’s future as a comedian. They also chat about surreal celebrity experiences. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e71d80cc-8f1c-11f1-be2d-e775cfe55c30/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4669952982.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2423",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "daydreaming"
       ]
     },
     {
@@ -24330,8 +24373,10 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — Frank Skinner's Radio Days: Penny Wise — speakers: Frank Skinner
 - 2026-08-03 — Plaid Suits with Thistles — speakers: Ruth Husko, Frank Skinner
 - 2026-07-31 — Causing Chaos — speakers: Ruth Husko, Frank Skinner
+- 2026-07-28 — Frank Skinner’s Radio Days: Daydreaming — speakers: Frank Skinner
 - 2026-07-27 — Frank's Got Tunes — speakers: Frank's Got Tunes Frank, Frank Skinner
 - 2026-07-24 — You've Been Warned! — speakers: Ruth Husko, Frank Skinner
 - 2026-07-22 — Frank Skinner's Radio Days: Get Outta Here! — speakers: Frank Skinner

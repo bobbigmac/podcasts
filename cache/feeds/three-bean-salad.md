@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-07-30T16:49:05+00:00`
-- checked_at: `2026-07-30T16:49:05+00:00`
-- etag: `"a5e5b-657d60b3c1c11"`
-- last_modified: `Thu, 30 Jul 2026 15:51:23 GMT`
+- fetched_at: `2026-08-05T03:31:21+00:00`
+- checked_at: `2026-08-05T03:31:21+00:00`
+- etag: `"a6474-65841ab202f66"`
+- last_modified: `Wed, 05 Aug 2026 00:15:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-07-30T16:49:05+00:00",
+  "fetched_at": "2026-08-05T03:31:21+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "74b314fee37ba67bf06fc73add4aca041cc68859",
+      "title": "August Anti-sode",
+      "published_at": "2026-08-05T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/august-anti-sode",
+      "description": "No normal episode of Three Bean Salad this week (we're away until September) Join our PATREON for ad-free episodes and bonus episodes: www.patreon.com/threebeansalad",
+      "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/cadcb15a-2b54-403f-8b12-b686e89ceb29.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=cadcb15a-2b54-403f-8b12-b686e89ceb29",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "9775228",
+      "itunes_duration": "10:11",
+      "speakers": [
+        "August Anti",
+        "Three Bean Salad",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "august",
+        "anti"
+      ]
+    },
     {
       "key": "09db7cd3d23fa11117e2f5a57435aa0cbf0d2692",
       "title": "Fifth Wednesday Ersatz Episode",
@@ -4439,6 +4462,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — August Anti-sode — speakers: August Anti, Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-30 — Fifth Wednesday Ersatz Episode — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-22 — Frogs — speakers: Paul McCartney, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-15 — Stationary — speakers: David Blaine, Mike Wozniak, Henry Paker, Benjamin Partridge

@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-08-04T22:21:34+00:00`
-- checked_at: `2026-08-04T22:21:34+00:00`
-- etag: `"djEuMi4wOjE3ODU4ODE4MjEyNTA="`
+- fetched_at: `2026-08-05T03:31:21+00:00`
+- checked_at: `2026-08-05T03:31:21+00:00`
+- etag: `"djEuMi4wOjE3ODU4ODgwMzk0MzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-08-04T22:21:34+00:00",
+  "fetched_at": "2026-08-05T03:31:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "1db88e952977a8227997e4044bf38fad8d25da09",
+      "title": "Second Helpings - Callum Turner",
+      "published_at": "2026-08-05T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/second-helpings-callum-turner",
+      "description": "While we’re on our summer break we’re diving back into the Table Manners archive to relive some of our favourite episodes from 18 amazing series! First up we’re remembering when we invited Callum Turner over for a fish dinner back in early 2020. After a mesmerising performance as Sean Emery in the BBC's The Capture, he was about to star in the new film 'Emma' playing Frank Churchill. We talked to the Londoner about growing up on a Chelsea estate with his Mum, who was a night club promoter, supporting Chelsea (🥴) all whilst eating sherry cod with tomatoes and butter beans, Dusty Knuckle sourdough and Panettone Bread & Butter pudding. He reminds us of 90's 'fish in a bag', talks about introducing custard to the USA, being a creature of habit and dear Colin The Caterpillar. And my husband said I hadn't made this much effort in my appearance since our wedding day 🤷🏻‍♀ enjoy x Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1785875891054-05be9900-3427-4878-8b10-4c8e67a82976.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a724d7867f03d99be2f7506/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30808606",
+      "itunes_duration": "32:05",
+      "speakers": [
+        "Second Helpings",
+        "Callum Turner While",
+        "Table Manners"
+      ],
+      "topics": [
+        "second",
+        "helpings",
+        "callum",
+        "turner"
+      ]
+    },
     {
       "key": "e9cc08c884a2062afaebf524569dc2e3bb21da42",
       "title": "James Norton",
@@ -7311,6 +7334,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — Second Helpings - Callum Turner — speakers: Second Helpings, Callum Turner While, Table Manners
 - 2026-07-22 — James Norton — speakers: James Norton
 - 2026-07-15 — Suki Waterhouse — speakers: Suki Waterhouse
 - 2026-07-08 — Olivia Wilde — speakers: Olivia Wilde

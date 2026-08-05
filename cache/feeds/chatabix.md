@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-04T03:35:55+00:00`
-- checked_at: `2026-08-04T03:35:55+00:00`
-- etag: `"djEuMi4wOjE3ODU4MDg4Mzk0MTk="`
+- fetched_at: `2026-08-05T03:31:21+00:00`
+- checked_at: `2026-08-05T03:31:21+00:00`
+- etag: `"djEuMi4wOjE3ODU4OTUyMzk0MzQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-04T03:35:55+00:00",
+  "fetched_at": "2026-08-05T03:31:21+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,26 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "0e2935df00cf447e5f97e28949b5c9b8bbf5119f",
+      "title": "S16 Ep 881: A VIP Pass To The Cure - Part 1",
+      "published_at": "2026-08-05T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-881-a-vip-pass-to-the-cure-part-1",
+      "description": "First up, Joe tells David about getting locked out of his house recently - with the added stress of being topless and only wearing a little pair of shorts. So how on earth did he get out of that?! Then Joe wants to find out about David’s trip to see The Cure at The Isle of Wight Festival, which it turns out he had full backstage VIP passes for. So David sits back and recounts his magical day. And with so much to say, they obviously had to make it a double bubble episode - so part two is coming tomorrow. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a6b22542a5f0f3072566518/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45937475",
+      "itunes_duration": "47:51",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "pass",
+        "cure"
+      ]
+    },
     {
       "key": "5540bed63a0071e272243c7fce2dbe99737daf75",
       "title": "S16 Ep 880: Joe & David's Magical Sitcom Tour",
@@ -15789,6 +15809,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — S16 Ep 881: A VIP Pass To The Cure - Part 1 — speakers: Joe Wilkinson, David Earl
 - 2026-08-04 — S16 Ep 880: Joe & David's Magical Sitcom Tour — speakers: Joe Wilkinson, David Earl
 - 2026-08-03 — S16 Ep 879 Vault Mondays: Ronald McDonald and The new Telly Addicts Game — speakers: Ronald McDonald, Joe Wilkinson, David Earl
 - 2026-07-31 — S16 Ep 878 Listener’s Mailbag: Very Old Emails and First Kisses — speakers: Joe Wilkinson, David Earl

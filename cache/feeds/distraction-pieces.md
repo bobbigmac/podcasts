@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-07-31T03:48:50+00:00`
-- checked_at: `2026-07-31T03:48:50+00:00`
-- etag: `"djEuMi4wOjE3ODU0NjgwMzkyNzU="`
+- fetched_at: `2026-08-05T03:31:21+00:00`
+- checked_at: `2026-08-05T03:31:21+00:00`
+- etag: `"djEuMi4wOjE3ODU5MDAwMzkzNDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-07-31T03:48:50+00:00",
+  "fetched_at": "2026-08-05T03:31:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e7c05d94f00c62d1af9c9dcbe6d09e70986c57e1",
+      "title": "20 YEARS OF PIP (Part 1) • featuring Chris Glasson & Buddy Peace! #683",
+      "published_at": "2026-08-05T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by Hardcore Listing homie and long term real life homie CHRIS GLASSON , and podcast producer / DJ / beatmaker BUDDY PEACE for the first in a 3 part series of celebration episodes! To be exact, a celebration of 20 years of Scroobius Pip, dating back to the first musical output and initial starting point in the entire journey. This goes back to those very first days, the days of Myspace and the four track limit (makes you feel nostalgic doesn't it...), the street art world, making music on a four track recorder and the lo-fi home studio setups, Björk and Sage Francis as early influences - and speaking of influences - the spoken word scene and pals made around that, early touring including the performances outside gig queues, booze as a prop, and all sorts of fun lil' Easter eggs and such. The cliff-hanger is a goody too... Enjoy! PIP'S PATREON PAGE if you're of a supporting nature HARCORE LISTING BUDDY SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1785758049679-89023abe-b982-4aea-848c-04f8f8de172c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a709ad52031aa1a28dbf616/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "177291646",
+      "itunes_duration": "1:13:47",
+      "speakers": [
+        "Chris Glasson"
+      ],
+      "topics": [
+        "year",
+        "chris",
+        "glasson",
+        "buddy",
+        "peace"
+      ]
+    },
     {
       "key": "fc04c4c8e2bf72ce09fa24c9d83ce09c421325fc",
       "title": "WIM HOF (Wim Hof Method 🥶) • Friday Rewind",
@@ -19319,6 +19341,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — 20 YEARS OF PIP (Part 1) • featuring Chris Glasson & Buddy Peace! #683 — speakers: Chris Glasson
 - 2026-07-31 — WIM HOF (Wim Hof Method 🥶) • Friday Rewind
 - 2026-07-29 — BLAINE HARRISON (MYSTERY JETS) • 2 decades & counting of perfect indie music (A Hole To See The Sky Through / 20 yrs of 'Making Dens'!) #682
 - 2026-07-24 — FRANK TURNER (Campfire Punkrock / Tape Deck Heart / Undefeated) • Friday Rewind

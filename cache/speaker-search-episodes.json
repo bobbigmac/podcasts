@@ -27204,6 +27204,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:834233f11b67",
+        "feed_title": "Heart Breakfast with Jamie Theakston and Amanda Holden",
+        "source_rss_url": "https://feeds.captivate.fm/heartbreakfastpodcast",
+        "dedupe_key": "4accf0243fd7a916f184133d4f4e24afc329bd4a",
+        "episode_key": "4accf0243fd7a916f184133d4f4e24afc329bd4a",
+        "title": "Mel Shilling Talks MAFS, Lee Mack Brings The Laughs And Which Is The Best Caterpillar Cake? We Found Out With Graphs",
+        "published_at": "2024-03-22T13:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What happens on Married At First Sight when the cameras are turned off? Mel Shilling spills all and gave the guys a sneak peak at the new UK series. \nA brave couple takes on the Parent Trap, there's a strong performance on Wake Up and Win PLUS the best caterpillar cake is crowned, using SCIENCE!",
+        "audio_url": "https://dax.captivate.fm/22a5193c-e075-423a-8dcf-cc75c519371e/EP-037-Mixdown-1-encoded.mp3?aw_0_1st.showid=62cfed5e-a1c9-4344-b600-44ce6cf3c926&aw_0_1st.episodeid=8f57ed64-70c8-4341-a9e0-7932df81602d",
+        "link_url": "https://podcasts.apple.com/gb/podcast/mel-shilling-talks-mafs-lee-mack-brings-the-laughs/id1683335167?i=1000650127728&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
@@ -40222,6 +40244,28 @@
         "description": "Cloud Atlas author David Mitchell introduces one of the great, early 20th century horror stories: WW Jacobs’s spine-tingling The Monkey’s Paw",
         "audio_url": "https://audio.guim.co.uk/2018/01/05-57012-gnl.books.20180105.st.davidmitchellbenhicks.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-on-the-monkeys-paw-by-ww-jacobs-short/id406643235?i=1000399159523&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:0c3ec4396c86",
+        "feed_title": "Overdue",
+        "source_rss_url": "https://rss.art19.com/overdue",
+        "dedupe_key": "344758e6dd67ddfda413f8a27e92b53945f91d34",
+        "episode_key": "344758e6dd67ddfda413f8a27e92b53945f91d34",
+        "title": "Ep 233 - Cloud Atlas, by David Mitchell (Bonus Episode)",
+        "published_at": "2017-04-06T10:00:10Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "David Mitchell's Cloud Atlas is most notable for its uniquely structured narrative, so it's only appropriate we made this the first book we cover while livestreaming for patrons! \nOther topics include Tom Hanks' henna tattoos, Yoko Ono husbands, and our favorite Disney princes. That's right, princes.\nSee Privacy Policy",
+        "audio_url": "https://mgln.ai/e/209/s.gum.fm/s-5a592688b73aeb30532c6b5d/prfx.byspotify.com/e/pscrb.fm/rss/p/rss.art19.com/episodes/e4eb6f26-4a38-44b8-99d3-ffd1cb4e6130.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-233-cloud-atlas-by-david-mitchell-bonus-episode/id602003021?i=1000384069295&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

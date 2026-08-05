@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-08-03T22:17:15+00:00`
-- checked_at: `2026-08-03T22:17:15+00:00`
-- etag: `"djEuMi4wOjE3ODU3ODgzMjgzOTQ="`
+- fetched_at: `2026-08-05T03:31:21+00:00`
+- checked_at: `2026-08-05T03:31:21+00:00`
+- etag: `"djEuMi4wOjE3ODU4ODgwMzk0NTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-08-03T22:17:15+00:00",
+  "fetched_at": "2026-08-05T03:31:21+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,29 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "842d86e7523b856093f1ab377e0edb31ecef6e1d",
+      "title": "Michelle Wolf, of Wall St",
+      "published_at": "2026-08-05T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/michelle-wolf-of-wall-st",
+      "description": "Hello and welcome to this week's episode, where we are thrilled to welcome comedian Michelle Wolf to the force! Our guest opens the show by telling us about the time she spent in amongst a terrifying pack of wolves, before giving our hosts a hand in solving a crime caper starting in the 1930s, that has more zig zags than a pelican crossing. The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in September, October AND November. Full info and tickets HERE. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a6cdd41c7cc27169df6e151/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80540581",
+      "itunes_duration": "55:55",
+      "speakers": [
+        "Michelle Wolf",
+        "Wall St Hello",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "michelle",
+        "wolf",
+        "wall"
+      ]
+    },
     {
       "key": "b1c9da7252f50e883f9b351023252736a6aae625",
       "title": "The Strong Arm of the Law, with Chelsea Birkby",
@@ -11432,6 +11455,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — Michelle Wolf, of Wall St — speakers: Michelle Wolf, Wall St Hello, Hannah George, Taylor Glenn
 - 2026-07-29 — The Strong Arm of the Law, with Chelsea Birkby — speakers: Chelsea Birkby, Hannah George, Taylor Glenn
 - 2026-07-24 — Survival Mode, with Candace Bryan — speakers: Survival Mode, Candace Bryan, Hannah George, Taylor Glenn
 - 2026-07-22 — Like a Ton of Bricks, with Alex Franklin — speakers: Alex Franklin, Hannah George, Taylor Glenn

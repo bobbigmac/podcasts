@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-07-29T03:37:43+00:00`
-- checked_at: `2026-07-29T03:37:43+00:00`
-- last_modified: `Wed, 29 Jul 2026 02:24:33 GMT`
+- fetched_at: `2026-08-05T03:31:21+00:00`
+- checked_at: `2026-08-05T03:31:21+00:00`
+- last_modified: `Wed, 05 Aug 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-29T03:37:43+00:00",
+  "fetched_at": "2026-08-05T03:31:21+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,46 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6fd3599d8f27632d57f293678ffa4df7a201df8e",
+      "title": "Paddy Young",
+      "published_at": "2026-08-05T01:00:00+00:00",
+      "link": null,
+      "description": "Utterly charming, utterly chaotic and singing the praises of cold flannels. The SNL UK star Paddy Young is here, and is the first guest to arrive to the recording with a bottle of milk in hand. Why? It’s all in this delightful hour of chat that includes banned Scrabble words and why you should walk out of more plays and films. Paddy’s new live show is called ‘Will Sir be Laughing Alone?’ And it’s at the Edinburgh Festival right now. His Fringe show is at 9pm at Monkey Barrel but that’s all sold out. Check out his extra shows in Edinburgh HERE at 2.25pm on 10-12 Aug And his BIG show that we talked about in the podcast is on 14th Aug at Pleasance at 11.15pm. After that the show will be out on tour. The tour dates are HERE . And you can catch Paddy doing weekend update with Ania on SNL UK this Autumn. Sayonara dickwads. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/aa27fb9e-8c46-11f1-98b9-b7e8a1a21ba4/image/5ecc56b24e409bb894b3663cb52becdc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8495704058.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3301",
+      "speakers": [
+        "Paddy Yo",
+        "Russell Howard"
+      ],
+      "topics": [
+        "paddy",
+        "young"
+      ]
+    },
+    {
+      "key": "a1392f453d7039c57f1143046c7da0442d2ba4f0",
+      "title": "July's Moments of the Month",
+      "published_at": "2026-08-01T01:00:00+00:00",
+      "link": null,
+      "description": "It's July's Moments of the Month: no new shows, just a smattering of the best bits of all the shows from the past month. Try some, and if you like it, go back and listen to the whole episode! First up in July it was the Eastenders star turned super-podcaster, Natalie Cassidy. Then it was the comic actor extraordinaire, Peter Serafinowicz. Following Peter was one of the bright lights of comedy, SNL writer Bella Hull. Then we had the choreographer turned comedian Christopher Hall. And we finished off with the mod-comedian turned cosy-crime sensation, Ian Moore. So there we go! That’s a little taste of what July was like. All of those shows are available in full right now, so if you got a taste for it, go and get some more. Thanks as always for listening and there will be a new show, as usual, this coming Wednesday. Cheerio. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5502021443.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3168",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "july",
+        "moments",
+        "month"
+      ]
+    },
     {
       "key": "83e466ae57f8700efa32d5f155efd2e68430e948",
       "title": "Ian Moore",
@@ -3275,6 +3315,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — Paddy Young — speakers: Paddy Yo, Russell Howard
+- 2026-08-01 — July's Moments of the Month — speakers: Russell Howard
 - 2026-07-29 — Ian Moore — speakers: Ian Moore Death, Ian Moore, Russell Howard
 - 2026-07-22 — Christopher Hall — speakers: Russell Howard
 - 2026-07-15 — Bella Hull — speakers: Bella Hull Horror, Bella Hull, Russell Howard
