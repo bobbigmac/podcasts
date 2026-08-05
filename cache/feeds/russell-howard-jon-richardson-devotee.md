@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-08-04T19:55:50+00:00`
-- checked_at: `2026-08-04T19:55:50+00:00`
-- etag: `W/"49369-sXJH/Ujd2uJi04WtlY+JYMp64lE"`
+- fetched_at: `2026-08-05T19:53:45+00:00`
+- checked_at: `2026-08-05T19:53:45+00:00`
+- etag: `W/"4a40b-Ws64EnRx9IQ/RXJjstoalw2/tYY"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,76 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-08-04T19:55:50+00:00",
+  "fetched_at": "2026-08-05T19:53:45+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7838b9715e3d234cad8215d9bda25f4fa72886cb",
+      "title": "Sean Lock's 15 Minutes of Misery - Episode 6",
+      "published_at": "2026-08-05T14:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Sean-Locks-15-Minutes-of-Misery---Episode-6-e3mvnq7",
+      "description": "BBC Radio 4 - A precursor radio series to 15 Storeys High, which ran for six episodes on Radio 4 between 30 December 1998 and 3 February 1999. The show was written by Sean Lock, produced by Dan Freedman and starred Lock, Kevin Eldon and Hattie Hayridge.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785873297414-b21e8d09b052c.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6722761895.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13653307",
+      "itunes_duration": "00:14:04",
+      "speakers": [
+        "Sean Lock"
+      ],
+      "topics": [
+        "sean",
+        "lock",
+        "minutes",
+        "misery"
+      ]
+    },
+    {
+      "key": "47858a1f58c173b6d3be8c31121548c22d0416a8",
+      "title": "Sean Lock's 15 Minutes of Misery - Episode 5",
+      "published_at": "2026-08-05T10:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Sean-Locks-15-Minutes-of-Misery---Episode-5-e3mvnim",
+      "description": "BBC Radio 4 - A precursor radio series to 15 Storeys High, which ran for six episodes on Radio 4 between 30 December 1998 and 3 February 1999. The show was written by Sean Lock, produced by Dan Freedman and starred Lock, Kevin Eldon and Hattie Hayridge.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785872934132-e236b3797a5a8.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6120773954.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13905648",
+      "itunes_duration": "00:14:19",
+      "speakers": [
+        "Sean Lock"
+      ],
+      "topics": [
+        "sean",
+        "lock",
+        "minutes",
+        "misery"
+      ]
+    },
+    {
+      "key": "23c22982aaacae8796f5c343a4aa9faadf32321b",
+      "title": "Sean Lock's 15 Minutes of Misery - Episode 4",
+      "published_at": "2026-08-05T05:26:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Sean-Locks-15-Minutes-of-Misery---Episode-4-e3mvmp4",
+      "description": "BBC Radio 4 - A precursor radio series to 15 Storeys High, which ran for six episodes on Radio 4 between 30 December 1998 and 3 February 1999. The show was written by Sean Lock, produced by Dan Freedman and starred Lock, Kevin Eldon and Hattie Hayridge.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1785871631528-630226965a494.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO7354333161.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "13121160",
+      "itunes_duration": "00:13:31",
+      "speakers": [
+        "Sean Lock"
+      ],
+      "topics": [
+        "sean",
+        "lock",
+        "minutes",
+        "misery"
+      ]
+    },
     {
       "key": "96bd4dc1dc0dcfe6c6adeedb10513f15242c0808",
       "title": "Sean Lock's 15 Minutes of Misery - Episode 3",
@@ -5623,6 +5686,9 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — Sean Lock's 15 Minutes of Misery - Episode 6 — speakers: Sean Lock
+- 2026-08-05 — Sean Lock's 15 Minutes of Misery - Episode 5 — speakers: Sean Lock
+- 2026-08-05 — Sean Lock's 15 Minutes of Misery - Episode 4 — speakers: Sean Lock
 - 2026-08-04 — Sean Lock's 15 Minutes of Misery - Episode 3 — speakers: Sean Lock
 - 2026-08-04 — Sean Lock's 15 Minutes of Misery - Episode 2 — speakers: Sean Lock
 - 2026-08-04 — Sean Lock's 15 Minutes of Misery - Episode 1 — speakers: Sean Lock
