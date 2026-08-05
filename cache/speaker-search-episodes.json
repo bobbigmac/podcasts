@@ -5,6 +5,29 @@
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "abca1cf232f8ffc616873d0f0dd7df75aee392f5",
+        "episode_key": "abca1cf232f8ffc616873d0f0dd7df75aee392f5",
+        "title": "Jinkx Monsoon",
+        "published_at": "2026-08-05T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Jinkx Monsoon – two-time ‘Drag Race’ winner, actress, singer and the new star of ‘Oh, Mary!’ – has a table booked in the Dream Restaurant this week. And she loves a British accent…\nIf you’re using the Apple Podcasts app you can now watch this episode too.\nJinkx Monsoon stars as Mary Todd Lincoln in ‘Oh, Mary!’ in at th",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a589e3e7fbab351cbbe2383/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/jinkx-monsoon/id1442950743?i=1000779981114&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
         "dedupe_key": "3a0110593e7f9fe802bd44e30e86d653508b3b49",
         "episode_key": "3a0110593e7f9fe802bd44e30e86d653508b3b49",
         "title": "Sindhu Vee (Tasting Menu)",
@@ -5810,6 +5833,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "abca1cf232f8ffc616873d0f0dd7df75aee392f5",
+        "episode_key": "abca1cf232f8ffc616873d0f0dd7df75aee392f5",
+        "title": "Jinkx Monsoon",
+        "published_at": "2026-08-05T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Jinkx Monsoon – two-time ‘Drag Race’ winner, actress, singer and the new star of ‘Oh, Mary!’ – has a table booked in the Dream Restaurant this week. And she loves a British accent…\nIf you’re using the Apple Podcasts app you can now watch this episode too.\nJinkx Monsoon stars as Mary Todd Lincoln in ‘Oh, Mary!’ in at th",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a589e3e7fbab351cbbe2383/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/jinkx-monsoon/id1442950743?i=1000779981114&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:eb09114a066f",
         "feed_title": "Always Be Comedy",
