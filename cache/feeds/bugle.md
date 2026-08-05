@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-08-05T11:28:40+00:00`
-- checked_at: `2026-08-05T11:28:40+00:00`
-- etag: `"djEuMi4wOjE3ODU5MjYxMTE5MzA="`
+- fetched_at: `2026-08-05T14:32:15+00:00`
+- checked_at: `2026-08-05T14:32:15+00:00`
+- etag: `"djEuMi4wOjE3ODU5MzQ4Mzk0NzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-08-05T11:28:40+00:00",
+  "fetched_at": "2026-08-05T14:32:15+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "496e3461d243d1c43d7e87552e76ac9c8beeb28a",
+      "title": "An Ask Andy Special",
+      "published_at": "2026-08-05T13:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/an-ask-andy-special",
+      "description": "Hello Buglers! While Andy takes a break from the satirical tomfoolery of the world news. We thought we'd bring you the best of Ask Andy, a subscription exclusive Q&A with the big dog himself. Ever wondered Andy’s dream Prime Minister 5 aside team, Andy’s thoughts on a utopian America or just what cricket spreadsheet he’s working on at the moment. Well Ask Andy is the place to find all that out and more. We’ve selected some of the best questions over the past year, so wherever you are, sit back and enjoy! If you enjoyed this episode why not become a Bugle subscriber where you can get access to Ask Andy every month, it might even be your question he answers next, plus AD free episodes of every podcast on the Bugle network including the sci-fi and fantasy podcast Realms Unknown and science and tech led The Gargle with Alice Fraser! Produced by Chris Skinner and Harry Gordon Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1785924899090-a76b0faf-87f8-49b2-984f-46618f5dfcf1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a7310aa56644b678ecdecc6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29510844",
+      "itunes_duration": "30:44",
+      "speakers": [
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "andy",
+        "special"
+      ]
+    },
     {
       "key": "3b8002cbaff76e9759aba4decead0a6e5e213a46",
       "title": "An AI Odyssey",
@@ -14436,6 +14455,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — An Ask Andy Special — speakers: Andy Zaltzman
 - 2026-07-29 — An AI Odyssey — speakers: Joining Andy, Tiff Stevenson, Andy Zaltzman
 - 2026-07-22 — 7th PM in a decade! — speakers: Joining Andy, Alice Fraser, Andy Zaltzman
 - 2026-07-15 — Trump's at it Again & Secret Wedding of the Century! — speakers: Josh Gondelman, Andy Zaltzman
