@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-08-04T22:21:34+00:00`
-- checked_at: `2026-08-04T22:21:34+00:00`
-- etag: `W/"18f09-A+2VSY0Rm5dM5x6vi9YWNrNhqac"`
+- fetched_at: `2026-08-05T09:04:07+00:00`
+- checked_at: `2026-08-05T09:04:07+00:00`
+- etag: `W/"19594-Mzte0siQgzdzphBVjvEFPv+uKbc"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-08-04T22:21:34+00:00",
+  "fetched_at": "2026-08-05T09:04:07+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "026328058c7bf18e157cf9523e324bf1e00415a8",
+      "title": "We Have Thoughts on Spider-Man: Brand New Day | The Rewind Podcast",
+      "published_at": "2026-08-05T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/We-Have-Thoughts-on-Spider-Man-Brand-New-Day--The-Rewind-Podcast-e3n0fd9",
+      "description": "This week on The Rewind, Jack, Darren, and Marty chat about Spider-Man: Brand New Day. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/123796329/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-5%2Ff8f65627-569a-ec60-8065-b889190881b3.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "142801376",
+      "itunes_duration": "01:39:10",
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "thought",
+        "spider",
+        "brand",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "63af47163c85d53b58685c0ad04bf37e5dd84136",
       "title": "The Odyssey Is Why We Go to the Movies | The Rewind Podcast",
@@ -1290,6 +1314,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — We Have Thoughts on Spider-Man: Brand New Day | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-07-21 — The Odyssey Is Why We Go to the Movies | The Rewind Podcast — speakers: Christopher Nolan, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-07-01 — Supergirl and Widow's Bay Impressions | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-06-17 — Does Masters of the Universe Have the Power? | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva

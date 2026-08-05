@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-07-29T09:07:26+00:00`
-- checked_at: `2026-07-29T09:07:26+00:00`
-- etag: `"djEuMi4wOjE3ODUzMDEyOTk0MzE="`
+- fetched_at: `2026-08-05T09:04:07+00:00`
+- checked_at: `2026-08-05T09:04:07+00:00`
+- etag: `"djEuMi4wOjE3ODU5MDYwOTkyNjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-07-29T09:07:26+00:00",
+  "fetched_at": "2026-08-05T09:04:07+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "15ae0263e43e09d8b9bb3d61b6419d4f8202bbf4",
+      "title": "S2E60 | Electric Play",
+      "published_at": "2026-08-05T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e60-electric-play",
+      "description": "Full length YouTube version here! This week the buds discuss talking pets, Glenn's brag, American houses and Mandarin. This week's sketch: 'Birthday Boy' Robot replicating the human voice - https://interestingengineering.com/videos/artificial-vocal-cords-real-human-sound Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! BudPod Live is back! Edinburgh Fringe Festival - August 16th, 2026 - Tickets available here Cheerful Earful Podcast Festival - October 10, 2026 - Tickets available here Bath Komedia - November 3rd, 2026 - Tickets available here Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6a70b353e9d2c023de5beaa5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70920821",
+      "itunes_duration": "49:08",
+      "speakers": [
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "electric",
+        "play"
+      ]
+    },
     {
       "key": "86665677fe4267cceceefd6888aa92c3f491c912",
       "title": "S2E59 | Dark Magic Mike",
@@ -7954,6 +7974,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — S2E60 | Electric Play — speakers: Phil Wang, Pierre Novellie
 - 2026-07-29 — S2E59 | Dark Magic Mike — speakers: Magic Mike Youtube, Phil Wang, Pierre Novellie
 - 2026-07-22 — S2E58 | Noseless Fashionista — speakers: Phil Wang, Pierre Novellie
 - 2026-07-15 — S2E57 | Fry Up Police — speakers: Phil Wang, Pierre Novellie
