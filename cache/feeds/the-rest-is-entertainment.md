@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-08-05T19:53:45+00:00`
-- checked_at: `2026-08-05T19:53:45+00:00`
-- last_modified: `Wed, 05 Aug 2026 18:46:22 GMT`
+- fetched_at: `2026-08-06T03:35:25+00:00`
+- checked_at: `2026-08-06T03:35:25+00:00`
+- last_modified: `Wed, 05 Aug 2026 23:10:54 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-05T19:53:45+00:00",
+  "fetched_at": "2026-08-06T03:35:25+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "aef490dba3701fc1a851e9ae043f80ca1dbc5377",
+      "title": "The British Celebrity Boyfriend Crisis",
+      "published_at": "2026-08-05T23:05:00+00:00",
+      "link": null,
+      "description": "Are the cult of British Celebrity Boyfriends in trouble? Why are BTS boycotting the Grammys? Should Richard be worried about Count Binface’s manifesto? Richard Osman and Marina Hyde answer your questions on awards show boycotts, libel in books and celebrity breakup rumours. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Looking for extra value from your spending? You can bank on Lloyds to help your money go further. Search Lloyds Rewards in your app. Summer sale is here: get an annual membership for a third off with code SUMMER26. That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Max Archer Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT3032568017.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1598",
+      "speakers": [
+        "British Celebrity Boyfriends",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "british",
+        "celebrity",
+        "boyfriend",
+        "crisis"
+      ]
+    },
     {
       "key": "2392f18739598abbd047f448e7963c48c0f1e4c3",
       "title": "Holly Willoughby On YouTube - The Verdict!",
@@ -6397,6 +6420,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — The British Celebrity Boyfriend Crisis — speakers: British Celebrity Boyfriends, Richard Osman, Marina Hyde
 - 2026-08-03 — Holly Willoughby On YouTube - The Verdict! — speakers: Richard Osman, Marina Hyde
 - 2026-07-29 — Take A Break Fiction Feast's AI Fake Mistake — speakers: Break Fiction Feast, Fake Mistake What, Richard Osman, Marina Hyde
 - 2026-07-27 — Has Charli XCX Escaped Brat Summer? — speakers: Richard Osman, Marina Hyde

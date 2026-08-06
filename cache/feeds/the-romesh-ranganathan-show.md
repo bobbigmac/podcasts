@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-08-05T22:19:51+00:00`
-- checked_at: `2026-08-05T22:19:51+00:00`
-- last_modified: `Wed, 05 Aug 2026 22:05:07 GMT`
+- fetched_at: `2026-08-06T03:35:25+00:00`
+- checked_at: `2026-08-06T03:35:25+00:00`
+- last_modified: `Wed, 05 Aug 2026 23:01:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-05T22:19:51+00:00",
+  "fetched_at": "2026-08-06T03:35:25+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d92385840edc56b7e9fe7d423113f283175a8754",
+      "title": "Romesh & Shanthi React To Idris Elba's Apology",
+      "published_at": "2026-08-05T23:00:00+00:00",
+      "link": null,
+      "description": "Has Shanthi finally forgiven Idris Elba? In this Thursday episode of The Romesh Ranganathan Show, Shanthi reacts to an unexpected peace offering from Idris Elba after their long-running, one-sided \"feud.\" Elsewhere, Romesh recommends one of his favourite TV shows, we try an improvised jingle and Romesh and Shanthi answer your listener questions on ageing, plastic surgery, dating apps and whether you should use celebrity selfies on them. Plus the team celebrates a huge podcast milestone on the podcast! A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 02:30 A mystic exercise for Shanthi 09:43 Shanthi & Romesh’s favourite episodes 11:10 An apology gift for Shanthi 15:00 A kind of apology to Idris Elba 25:37 A Rommy Recommendation 28:45 A show jingle 30:00 A team announcement 30:45 A question on plastic surgery and ageing 38:31 Celeb pictures on dating apps 42:28 Some compliments & advice for Romesh 44:45 Shanthi’s out of the dating game 48:11 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6ea9c7ba-9118-11f1-a20f-3b20fc2fb6bc/image/d48162403a58dfe50ff1481af32b8746.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9263252461.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3149",
+      "speakers": [
+        "Idris Elba",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "romesh",
+        "shanthi",
+        "react",
+        "idris",
+        "elba",
+        "apology"
+      ]
+    },
     {
       "key": "f5abe5853fc2c4da13e9353e7c61c0dceb4aeca9",
       "title": "Max Fosh: Going Viral, YouTube and Being Posh",
@@ -2076,6 +2100,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-05 — Romesh & Shanthi React To Idris Elba's Apology — speakers: Idris Elba, Romesh Ranganathan
 - 2026-08-02 — Max Fosh: Going Viral, YouTube and Being Posh — speakers: Max Fosh, Romesh Ranganathan
 - 2026-07-29 — The Chili Oil Special — speakers: Oil Mastermind, Romesh Ranganathan
 - 2026-07-26 — Kelly Cates: From Sky Sports News To Match Of The Day — speakers: Kelly Cates, Romesh Ranganathan

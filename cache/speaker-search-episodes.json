@@ -23540,6 +23540,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:25f0d9047827",
+        "feed_title": "C86 Show - Indie Pop",
+        "source_rss_url": "https://feed.podbean.com/thec86show/feed.xml",
+        "dedupe_key": "072dac21d9f38d3547b66dffe7709ed651e9d7b0",
+        "episode_key": "072dac21d9f38d3547b66dffe7709ed651e9d7b0",
+        "title": "Robert Wringham - Melt It! The Film of the Iceman",
+        "published_at": "2026-08-04T20:10:50Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Robert Wringham in conversation with David Eastaugh \n\nhttps://wringham.co.uk/film/\n\nhttps://www.youtube.com/watch?v=54J_1Be63q4\n\nIn the 1980s and 1990s, Anthony Irvine was a comedian and cabaret performer. His act was a little unusual. As the Iceman, he went on stage… to melt ice.\n\nLiterally. He’d bring a large block o",
+        "audio_url": "https://mcdn.podbean.com/mf/web/b7qg4weniw33t5rm/04_08_2026_Robert_Wringham975d1.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/robert-wringham-melt-it-the-film-of-the-iceman/id1441965399?i=1000779939257&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:7ab64334a67c",
         "feed_title": "The Green Man Podcast",
         "source_rss_url": "https://feeds.megaphone.fm/GLT9640995357",
