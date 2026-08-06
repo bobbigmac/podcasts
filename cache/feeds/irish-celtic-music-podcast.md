@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-07-30T08:49:17+00:00`
-- checked_at: `2026-07-30T08:49:17+00:00`
-- etag: `"fa763f9b849aa1917cc68ee42ef16c6d"`
-- last_modified: `Thu, 30 Jul 2026 08:36:40 GMT`
+- fetched_at: `2026-08-06T09:04:55+00:00`
+- checked_at: `2026-08-06T09:04:55+00:00`
+- etag: `"622161e9d99620b58ea6713dbe42c2dd"`
+- last_modified: `Thu, 06 Aug 2026 08:36:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-07-30T08:49:17+00:00",
+  "fetched_at": "2026-08-06T09:04:55+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -27,6 +27,28 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "07b33fc43761435d84dba1a65dd2ae2637197087",
+      "title": "Celtic Rover on These Waters #769",
+      "published_at": "2026-08-06T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/celtic-rover-on-these-waters-769",
+      "description": "This week's journey rambles from an English rover to a horned god of the old woods, then across the black river to a Barra Gaelic song carried down through generations. Fourteen tracks of fiddle, whistle, pipes, and rowdy pub harmony travel from Boston to Newfoundland to the shores of Australia. It's the Irish & Celtic Music Podcast #768. - - Subscribe now at CelticMusicPodcast.com ! Jim Moray, Seán Heely, Donnie 'Large' Macdonald, Avourneen, Maggie MacInnes, Slugger's Rule, Nathan Gourley, Joey Abarta, and Owen Marshall, Skara Brae, Natalie Padilla, Kevin Meehan, Brad Tuck, Drumspyder, Highlander Celtic Rock Band Australia, MacCumhaill and the Gang GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! THIS WEEK IN CELTIC MUSIC 0:02 - Intro: Ken Spencer 0:14 - Jim Moray \"Spencer The Rover\" from Gallants 4:25 - WELCOME 6:02 - Seán Heely \"Cernunnos : An Dia Adharcach (The Horned God)\" from Dramagical 15:02 - Donnie 'Large' Macdonald \"Ar Baile (Our Village)\" from Christina 19:48 - Avourneen \"Cunner Point Across the Black River\" from Way Stations 24:27 - Maggie MacInnes \"Nì Mhic Ailein, na bì' n èud rium\" from Uiseagan Bharraigh 28:32 - FEEDBACK 29:28 - Slugger's Rule \"Juice of the Barley\" from Clusterfolk 32:22 - Nathan Gourley, Joey Abarta, and Owen Marshall \"The Primrose Road / The Tramp / Martin Wynne's\" from Copley Street 2 35:51 - Skara Brae \"Craic Addict\" from The Mists of Time 39:08 - Natalie Padilla \"Seedskadee\" from Paths and Places 42:15 - THANKS 43:44 - Kevin Meehan \"The Glasgow Set\" from Spanish Point 49:17 - Brad Tuck \"I've Been Told\" from On These Waters 53:11 - Drumspyder \"The Dunmore Lasses\" from Kenning 57:13 - Highlander Celtic Rock Band Australia \"Reel Set\" from Start the Fire 1:00:11 - CLOSING 1:01:10 - MacCumhaill and the Gang \"Dreams of Nevermore\" from 2 1:04:43 - CREDITS Support for this program comes from John Sharkey White, II. Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Hank Woodward. Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Finally, remember: the sun and the wind never send you a fuel bill. Last year, solar and wind grew fast enough to cover all of the world's new electricity demand, and they're still the cheapest new power ever built. Solar and wind are now the cheapest power sources in history, and their costs keep falling while fossil fuel prices swing with every crisis. Choose clean energy, and ask your leaders to do the same. Clean energy means lower costs, more freedom, and a planet that can actually breathe. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories, where I share stories behind my songs and those of other Celtic and folk musicians. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email the artists to let them know you heard them on the Irish & Celtic Music Podcast. As with all things, it is important to support our community, whether that is local or in a small niche we love like \"Celtic music\". Skip the big corporate businesses and bands. Instead, spend your money where it will make a difference. You can do that with each of the artists on today's show OR your favorite artists. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . ALBUM PINS ARE CHANGING THE WAY WE HEAR CELTIC MUSIC Looking for a fresh way to support the music you love? Meet the Album Pin. Album Pins are lapel pins themed to a specific album — and each one comes with a digital download. Wear your music. All of my latest pins are wood - burned and locally produced, which means a smaller footprint and a one - of - a - kind feel you won't find anywhere else. Pick yours up at magerecords.com THANK YOU PATRONS OF THE PODCAST! A huge Celtic thank you to every patron of the Irish & Celtic Music Podcast. You are the reason this show stays free, week after week, year after year. Your support keeps independent Celtic musicians in the spotlight and keeps this whole community thriving. Being a patron means more than helping the music along. You get the episodes early and ad - free. You get exclusive songs, behind - the - scenes stories, and a warm circle of fellow Celtic music lovers who show up every single week. You help decide which artists get heard, and you become part of something far bigger than a playlist. If you have been listening for a while and wondering how to get closer to the music you love, there is a seat waiting for you. Come find your place at the table over at SongHenge.com. HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $30. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. Learn more about the Celtic Invasion of Hiking the Isle of Skye in 2027 at http://celticinvasion.com/ #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo. If you're in a Celtic band, send me an audio recording of you performing live. Just audio. I'll use it in a podcast episode later this year. Email me at follow@bestcelticmusic.",
+      "image_url": "https://static.libsyn.com/p/assets/8/b/8/d/8b8de5c6fa04996116c3140a3186d450/769-Celtic_Rover_on_These_Waters-Avourneen-20260805-ysjey6nbs8.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-769.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63673363",
+      "itunes_duration": "01:06:20",
+      "speakers": [
+        "Celtic Rover",
+        "These Waters",
+        "Marc Gunn"
+      ],
+      "topics": [
+        "celtic",
+        "rover",
+        "water"
+      ]
+    },
     {
       "key": "d8394a89c72e3437b4f012618ce60d5bb23c9465",
       "title": "Old Salt on the Highland Road #768",
@@ -16419,6 +16441,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — Celtic Rover on These Waters #769 — speakers: Celtic Rover, These Waters, Marc Gunn
 - 2026-07-30 — Old Salt on the Highland Road #768 — speakers: Old Salt, Highland Road, Marc Gunn
 - 2026-07-23 — Water-bound for Ireland #767 — speakers: Marc Gunn
 - 2026-07-16 — Streams of Whiskey #766 — speakers: Marc Gunn

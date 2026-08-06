@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-07-30T08:49:17+00:00`
-- checked_at: `2026-07-30T08:49:17+00:00`
-- etag: `W/"026e6bf1342ba4015c20809eb5a92bf5"`
-- last_modified: `Thu, 30 Jul 2026 01:00:00 GMT`
+- fetched_at: `2026-08-06T09:04:55+00:00`
+- checked_at: `2026-08-06T09:04:55+00:00`
+- etag: `W/"b7681df47de70ce6a1eeaa7ee561cc7b"`
+- last_modified: `Thu, 06 Aug 2026 09:02:32 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-07-30T08:49:17+00:00",
+  "fetched_at": "2026-08-06T09:04:55+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "198e68c26354c7a1fb92c59a6d2ad3b57e4ce4cc",
+      "title": "What happens if no one votes in the Clacton s**tshow? And what's Nish's favourite pizza? Question Time - PSUK-style",
+      "published_at": "2026-08-06T01:01:00+00:00",
+      "link": "https://audioboom.com/posts/8936442",
+      "description": "This week, it’s just Nish, Coco, and you! You asked, they answered – thanks to everyone for their questions! Nish and Coco discuss how to stay positive amidst all the current political noise, how hopeful they are about our new Prime Minister, and what their favourite films have been this year…Plus, should we publish the faces of people who earn over a certain amount of money in the UK? Also: you listen to Nish & Coco every week, now we want to hear from you! We’re launching an audience survey to hear about what you like, dislike, and want to see more of from PSUK. Guests! Live shows! Topics! Explainers! And did we mention there’s a prize draw? You’ve got to be in it to win it - so fill out the survey here: https://forms.gle/fWp9xXb6tcWhPxSm8 USEFUL LINKS Audience survey here: https://forms.gle/fWp9xXb6tcWhPxSm8 Nish’s ultimate taskmaster episode: https://www.youtube.com/watch?v=ENMjwuvNZsA CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is an Intelligence Squared production for Crooked Media. Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43775650/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936442.mp3?modified=1785947932&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3381",
+      "speakers": [
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "vote",
+        "clacton",
+        "nish",
+        "pizza",
+        "question",
+        "time",
+        "style"
+      ]
+    },
     {
       "key": "622e8d77fcd78566a8a752654b957a59efcb3d68",
       "title": "The Exxon Heatwave: Climate Crisis & Denial w/ Simon Clark. Plus, Save Our Humanities!",
@@ -627,10 +652,10 @@
       "link": "https://audioboom.com/posts/8857067",
       "description": "The release of the latest Epstein files triggered a deluge of revelations, spelling the end for one of UK’s biggest political characters. Nish and Coco chat about Lord Mandelson’s fall and the damage done to Keir Starmer and his government as well as the new police investigation into Andrew Mountbatten-Windsor. Economist Ann Pettifor, one of the few who predicted the 2008 financial crash, is the author of a new book “The Global Casino”. She has a lot to say about the Mandelson scandal, the financial systems that control our lives and what governments need to do to challenge the global billionaires who speculate with our money every day. Plus - move over Barbenheimer, Nish and Coco give their take on two premieres: The Moment and Melania. CHECK OUT THESE DEALS FROM OUR SPONSORS SHOPIFY https://www.shopify.co.uk/podsavetheuk AURA FRAMES https://www.auraframes.com Code: PSTUK GUEST Ann Pettifor, economist and author of ‘The Global Casino’ USEFUL LINKS Nish Tour Tickets https://www.nishkumar.co.uk/gigs/ The Global Casino: How Wall Street Gambles with People and the Planet https://www.versobooks.com/en-gb/products/3258-the-global-casino CREDITS Keir Starmer MP / Parliament TV Lord Mandelson / ‘Sunday with Laura Kuenssberg’ BBC One Melania Trailer Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43449784.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8857067.mp3?modified=1770239217&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8857067.mp3?modified=1785819852&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3213",
+      "itunes_duration": "3029",
       "speakers": [
         "Will Mandelson",
         "Nish Kumar",
@@ -4066,6 +4091,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — What happens if no one votes in the Clacton s**tshow? And what's Nish's favourite pizza? Question Time - PSUK-style — speakers: Nish Kumar, Coco Khan
 - 2026-07-30 — The Exxon Heatwave: Climate Crisis & Denial w/ Simon Clark. Plus, Save Our Humanities! — speakers: Simon Clark, Nish Kumar, Coco Khan
 - 2026-07-23 — Burnham’s Britain & Cabinet Pic ‘n’ Mix w/ Anoosh Chakelian — speakers: Cabinet Pic, Nish Kumar, Coco Khan
 - 2026-07-16 — Wildfires, World Cup Football and Women’s Aid w/ Farah Nazeer — speakers: Farah Nazeer, Andy Burnham, Nish Kumar, Coco Khan

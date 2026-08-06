@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-07-30T08:49:17+00:00`
-- checked_at: `2026-07-30T08:49:17+00:00`
+- fetched_at: `2026-08-06T09:04:55+00:00`
+- checked_at: `2026-08-06T09:04:55+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 30 Jul 2026 04:10:30 GMT`
+- last_modified: `Thu, 06 Aug 2026 04:00:41 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-30T08:49:17+00:00",
+  "fetched_at": "2026-08-06T09:04:55+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9dff20889e4b7e6842a92bfc7f12730a7bfe11ca",
+      "title": "Anna Haugh",
+      "published_at": "2026-08-06T04:00:00+00:00",
+      "link": null,
+      "description": "This week, I am joined in the garden by the incredibly talented and absolutely joyous Anna Haugh ! 🌿✨ Irish chef, restaurateur and MasterChef judge, Anna brought with her the most wonderful selection of goodies, which were, unsurprisingly, delicious. 🇮🇪🍽️ Warning: this episode may make you rather hungry! 😋 We chat about the importance of seasonal farming, the role Anna’s Irish heritage has played in her culinary career, and what it’s like working in a professional kitchen. 👨‍🍳 So, can openers in hand, aprons on... Ready, Steady, Pottering! 🍅🫑 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a004d82e-8b6c-11f1-bd7a-1be3a7fd1b77/image/2ceee9f20e0af4a8cf6b1b45f1b533ac.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2853642184.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4251",
+      "speakers": [
+        "Anna Haugh",
+        "Tom Allen"
+      ],
+      "topics": [
+        "anna",
+        "haugh"
+      ]
+    },
     {
       "key": "f49963ec1eda7f4f6179131a1f531a3f4aefb538",
       "title": "Jake Lambert",
@@ -963,6 +983,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — Anna Haugh — speakers: Anna Haugh, Tom Allen
 - 2026-07-30 — Jake Lambert — speakers: Jake Lambert, Tom Allen
 - 2026-07-23 — A Garden Tour — speakers: Garden Tour More, Tom Allen
 - 2026-07-16 — The Clippings: Part 2 — speakers: While Pottering, Tom Allen

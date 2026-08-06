@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-07-30T11:20:38+00:00`
-- checked_at: `2026-07-30T11:20:38+00:00`
-- last_modified: `Thu, 30 Jul 2026 09:00:00 GMT`
+- fetched_at: `2026-08-06T09:04:55+00:00`
+- checked_at: `2026-08-06T09:04:55+00:00`
+- last_modified: `Thu, 06 Aug 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-30T11:20:38+00:00",
+  "fetched_at": "2026-08-06T09:04:55+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,50 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "6b256e4594f83236126f063f353a5bf0995276a3",
+      "title": "Best Of: Adam Grant on the Science of Achieving Greater Things",
+      "published_at": "2026-08-06T09:00:00+00:00",
+      "link": null,
+      "description": "We live in a world that worships talent, a world that cheers natural athletes, exalts child prodigies, and venerates virtuosos. But admiring people who are blessed with innate abilities can lead us to underestimate the range of skills that we can learn and how good we can become. As Adam Grant explains in his new book, “Hidden Potential,” growth is not about the genius you possess — it’s about the character you develop. Adam joins us today to talk about developing the character skills, motivational tools, and learning systems that can help ordinary people achieve extraordinary things. This episode first aired in October 2023. 🎥 The Next Big Idea is now on YouTube! You can find our episodes ⁠⁠here⁠⁠⁠⁠⁠⁠ . ✉️ Follow Rufus on LinkedIn⁠⁠⁠⁠⁠ , subscribe to our ⁠ Substack⁠⁠⁠⁠⁠ , or send us an email at ⁠⁠podcast@nextbigideaclub.com⁠⁠ 🔗 SPONSORED BY: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months. Just head to ⁠granola.ai/idea⁠⁠ IM8 — Athletes, doctors, David Beckham... they all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at ⁠⁠im8health.com/nbi⁠⁠⁠ Momentous — If you want to try Momentous Signature Spec Creatine, head to ⁠livemomentous.com⁠⁠ and use code IDEA for up to 35% off your entire first order. Northwest Registered Agent — They’ve been helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at ⁠northwestregisteredagent.com/nbifree⁠⁠⁠ Upwork — Visit ⁠upwork.com⁠⁠ right now and post your job for free. Wealthfront — Earn up to 4.30% APY with Wealthfront’s high-yield cash account for a limited time at wealthfront.com/nbi (Click here for disclosures.)",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP6330607154.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4006",
+      "speakers": [
+        "Adam Grant",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "adam",
+        "grant",
+        "science",
+        "greater",
+        "thing"
+      ]
+    },
+    {
+      "key": "049aedd87e668f23f063e316bf7548a2a1476e34",
+      "title": "Are Robots About to Change Everything?",
+      "published_at": "2026-08-03T11:00:00+00:00",
+      "link": null,
+      "description": "We've spent the last few years watching AI transform the digital world. Now it's coming for the physical one. Humanoid robots are leaving the lab and entering homes, factories, and workplaces. But are we witnessing another ChatGPT moment, or are these machines still years away from becoming truly useful? Journalist Stephen Witt has spent months inside the world's leading robotics companies to find out, and what he discovered surprised him. Check out Stephen's article \"Are Humanoid Robots Ready to Be Deployed?\" and his previous appearance on this show . *** 🎥 The Next Big Idea is now on YouTube! You can find our episodes ⁠ ⁠⁠⁠⁠here⁠⁠⁠⁠⁠ . ✉️ Follow Rufus on ⁠ ⁠⁠⁠LinkedIn⁠⁠⁠⁠ , subscribe to our ⁠ ⁠⁠⁠Substack⁠⁠⁠⁠ , or send us an email at ⁠⁠podcast@nextbigideaclub.com⁠⁠. 🔗 SPONSORED BY: Granola — If meetings are eating up your day, Granola is a no-brainer. You can try it totally free for three months. Just head to granola.ai/idea⁠ IM8 — Athletes, doctors, David Beckham... they all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at ⁠im8health.com/nbi⁠⁠ Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com⁠ and use code IDEA for up to 35% off your entire first order. Northwest Registered Agent — They’ve been helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree⁠⁠ Upwork — Visit upwork.com⁠ right now and post your job for free Wealthfront — Earn up to 4.30% APY with Wealthfront’s high-yield cash account for a limited time: https://wealthfront.com/nbi This experience may not be representative of other Wealthfront clients, and there is no guarantee of future performance or success. Experiences will vary. The host of The Next Big Idea, Caleb Bissinger (“Media Partner”), is a client of Wealthfront. The Media Partner receives cash compensation from Wealthfront Brokerage for this paid endorsement placed in their podcast, creating a conflict of interest. More details available via the referral link. The Direct Deposit Plus Investing Program from Wealthfront Advisers LLC and Wealthfront Brokerage LLC provides eligible clients a 0.25% APY increase above the base APY on eligible Cash Account balances (up to an overall boosted rate of 4.30% for a limited time when including the three month 0.75% APY boost for new clients) when you direct deposit $1,000 a month, plus open, fund, and maintain an investing account. Wealthfront may change or end the program at any time and determine eligibility at its discretion. Terms apply. Full details at wealthfront.com/promo-terms . The Cash Account, which is not a deposit account, is offered by Wealthfront Brokerage LLC (\"Wealthfront Brokerage\"), Member FINRA/SIPC. Wealthfront Brokerage is not a bank. The Annual Percentage Yield (\"APY\") on cash deposits as of January 30, 2026, is representative, requires no minimum, and may change at any time. References to the APY for the Wealthfront Cash Account, including any APY increase, are to the APY paid by insured depository institutions that participate in our cash sweep program (the \"Program Banks”). Wealthfront Brokerage does not pay interest. Funds in the Cash Account are swept to Program Banks where they earn a variable APY and are eligible for FDIC insurance. Conditions apply. For a list of Program Banks, see: www.wealthfront.com/programbanks. FDIC pass-through insurance, which protects against the failure of Program Banks, not Wealthfront, is not provided until the funds arrive at the Program Banks. While funds are at Wealthfront Brokerage, and while they are transitioning to and/or from Wealthfront Brokerage to the Program Banks, the funds are eligible for SIPC protection up to the $250,000 limit for cash. FDIC insurance is limited to $250,000 per customer, per bank, regardless of whether those deposits are placed through Wealthfront Brokerage. You are responsible for monitoring your total deposits at each Program Bank to stay within FDIC limits. Wealthfront works with multiple Program Banks to make available up to $8 million ($16 million for joint accounts) of pass-through FDIC coverage for your cash deposits. For more info on FDIC insurance coverage, visit www.FDIC.gov . Same-day withdrawal or instant payment transfers may be limited by destination institutions, daily transaction caps, and by participating entities such as Wells Fargo, the RTP® Network, and FedNow® Service. New Cash Account deposits are subject to a 2-4 day holding period before becoming available for transfer. Fees & Eligibility requirements may apply to certain checking features. Investing involves risk, including the possible loss of principal. Securities investments are not bank deposits, bank-guaranteed or FDIC-insured, and may lose value. Product images are for illustrative purposes and do not reflect individual experiences, account balances, or performance.",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP4545032536.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4712",
+      "speakers": [
+        "Change Everything",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "robots"
+      ]
+    },
     {
       "key": "54ceb825dab643dec337aadabe76afd6efda7536",
       "title": "You Can Just Do Things",
@@ -8195,6 +8239,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — Best Of: Adam Grant on the Science of Achieving Greater Things — speakers: Adam Grant, Rufus Griscom, Caleb Bissinger
+- 2026-08-03 — Are Robots About to Change Everything? — speakers: Change Everything, Rufus Griscom, Caleb Bissinger
 - 2026-07-30 — You Can Just Do Things — speakers: Things Why, Rufus Griscom, Caleb Bissinger
 - 2026-07-27 — The Lost Art of Asking Questions — speakers: Lani Watson, Rufus Griscom, Caleb Bissinger
 - 2026-07-23 — Sorry, Skeptics — AI Is Not a Bubble — speakers: Bubble First, Rufus Griscom, Caleb Bissinger
