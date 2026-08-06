@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-07-30T16:49:05+00:00`
-- checked_at: `2026-07-30T16:49:05+00:00`
-- etag: `"25f102-657d62c4e5e3c"`
-- last_modified: `Thu, 30 Jul 2026 16:00:38 GMT`
+- fetched_at: `2026-08-06T11:32:33+00:00`
+- checked_at: `2026-08-06T11:32:33+00:00`
+- etag: `"25f33c-6585b9162f01f"`
+- last_modified: `Thu, 06 Aug 2026 07:09:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-07-30T16:49:05+00:00",
+  "fetched_at": "2026-08-06T11:32:33+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -32,7 +32,7 @@
       "title": "A window into the murky world of peptides",
       "published_at": "2026-07-30T16:00:00+00:00",
       "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
-      "description": "Timothy Piatkowki was scrolling when a targeted ad landed in his feed. Cheap peptides! Straight from the factory! Naturally, he started a chat with the dealer and found himself deep in the world of a thriving grey market. The more he found out, the less he realised we know about what’s really in these tiny drug vials being shipped around the world. This episode was written and produced by Isabella Podwinski. Sound mixing is by Michelle Macklem and our theme music is by Neeta Sarl. Ashlynne McGhee is our Head of Editorial Innovation and Misha Ketchell and Stephen Khan are our editors in chief. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "description": "Timothy Piatkowki was scrolling when a targeted ad landed in his feed. Cheap peptides! Straight from the factory! Naturally, he started a chat with the dealer and found himself deep in the world of a thriving grey market. The more he found out, the less he realised we know about what’s really in these tiny drug vials being shipped around the world. You can see screen grabs of Tim’s exchanges with the peptide seller in a fascinating visual story he’s written for us about the experience. Read it here. This episode was written and produced by Isabella Podwinski. Sound mixing is by Michelle Macklem and our theme music is by Neeta Sarl. Ashlynne McGhee is our Head of Editorial Innovation and Misha Ketchell and Stephen Khan are our editors in chief. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/31d41a03-5783-4e68-8003-1f34717b5ec6.mp3",
       "enclosure_type": "audio/mpeg",
