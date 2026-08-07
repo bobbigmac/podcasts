@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-08-06T14:34:16+00:00`
-- checked_at: `2026-08-06T14:34:16+00:00`
-- etag: `"djEuMi4wOjE3ODU5Nzg1MzI4Nzk="`
+- fetched_at: `2026-08-07T13:38:13+00:00`
+- checked_at: `2026-08-07T13:38:13+00:00`
+- etag: `"djEuMi4wOjE3ODYxMDk0Mzk1MDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-08-06T14:34:16+00:00",
+  "fetched_at": "2026-08-07T13:38:13+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "6ed46b6718ff1521dad86ce4987757a662afa400",
+      "title": "Space Jam: A New Legacy - Caravan Of Garbage",
+      "published_at": "2026-08-07T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/space-jam-a-new-legacy-caravan-of-garbage",
+      "description": "It's a very upsetting time for us all having to revisited Space Jam 2. I mean sure it stars four times champion NBA superstar LeBron James plus the Looney Tunes plus every IP Warner Brothers has ever had their sweaty hands on (Game of Thrones, The Matrix, Gremlins, Harry Potter, Clockwork Orange, IT, Wonder Woman, Batman, Superman, The Joker, Rick & Morty, Mad Max etc). The result is a more Ready Player One than Roger Rabbit which some people might like but I don't like that. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a671809614bacdace35d8b4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35026774",
+      "itunes_duration": "33:55",
+      "speakers": [
+        "Space Jam",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "space",
+        "legacy",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "f28d2b27db4b2e0e202e80346ab0760a99737c27",
       "title": "634 Spider-Man: Brand New Day",
@@ -22819,6 +22842,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-07 — Space Jam: A New Legacy - Caravan Of Garbage — speakers: Space Jam, James Clement, Nick Mason
 - 2026-08-03 — 634 Spider-Man: Brand New Day — speakers: James Clement, Nick Mason
 - 2026-07-30 — Looney Tunes: Back In Action - Caravan Of Garbage — speakers: Looney Tunes, Space Jam, James Clement, Nick Mason
 - 2026-07-27 — 633 Best & Worst of Comic Con 2026 — speakers: Ryan Gosling, James Clement, Nick Mason
