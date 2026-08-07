@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-08-05T03:31:21+00:00`
-- checked_at: `2026-08-05T03:31:21+00:00`
-- etag: `"djEuMi4wOjE3ODU4OTg2NTkyODQ="`
+- fetched_at: `2026-08-07T03:15:22+00:00`
+- checked_at: `2026-08-07T03:15:22+00:00`
+- etag: `"djEuMi4wOjE3ODYwNzE0NTkzNzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-08-05T03:31:21+00:00",
+  "fetched_at": "2026-08-07T03:15:22+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4e0aa0974026a18aefda29b712d77de1f765a586",
+      "title": "Lucy Porter on Middle Aged Women Get Sh*t Done - Book Club",
+      "published_at": "2026-08-07T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #191 - Middle Aged Women Get Sh*t Done - Richard is at the Podcast Room chatting to friend and comedian Lucy Porter about her fun and fascinating book, Middle Aged Women Get Shit Done. Is it just for women or should men read it too? Should it be pulped because of what it says about Scrabble? What does it mean to be a Linda? Would the NHS collapse without middle-aged women? What about the middle-aged men? Plus some chat about quizzing and whether Rich is the best at Mastermind. Buy the book here https://uk.bookshop.org/p/books/middle-aged-women-get-sh-t-done-a-manifesto-or-a-cry-for-help-lucy-porter/e627fe5b294dcdeb?ean=9781035441570 See Lucy at the Fringe https://www.edfringe.com/tickets/whats-on/lucy-porter-the-name-of-the-games-wip SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Recorded at the Podcast Room Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1785969012075-a86f66b7-451f-43ae-bfb3-2735565b3c97.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a73ba182578a0c7e2b65949/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23609887",
+      "itunes_duration": "49:11",
+      "speakers": [
+        "Lucy Porter",
+        "Done Richard",
+        "Richard Herring"
+      ],
+      "topics": [
+        "lucy",
+        "porter",
+        "aged",
+        "woman",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "54f9824a00c896c637bc43c9aa89f31cefeb1acc",
       "title": "Tom Neenan - \"Cyberman Having a Fag\"",
@@ -23489,6 +23514,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-07 — Lucy Porter on Middle Aged Women Get Sh*t Done - Book Club — speakers: Lucy Porter, Done Richard, Richard Herring
 - 2026-08-05 — Tom Neenan - "Cyberman Having a Fag" — speakers: Tom Neenan Cyberman Having, Richard Herring
 - 2026-08-04 — Jimmy Cricket (Retro) - "Come Closer To The Screen" — speakers: Jimmy Cricket, Come Closer, Richard Herring
 - 2026-08-03 — Flo and Joan and John Kearns (Retro) - "Nine Minutes" — speakers: John Kearns, Ed Fringe, Richard Herring

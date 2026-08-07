@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-06T03:35:25+00:00`
-- checked_at: `2026-08-06T03:35:25+00:00`
-- etag: `"djEuMi4wOjE3ODU5ODE2Mzk0OTk="`
+- fetched_at: `2026-08-07T03:15:22+00:00`
+- checked_at: `2026-08-07T03:15:22+00:00`
+- etag: `"djEuMi4wOjE3ODYwNjgwMzk0ODE="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-06T03:35:25+00:00",
+  "fetched_at": "2026-08-07T03:15:22+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "54188e420d269abbf33a10df702c098cb08d367d",
+      "title": "S16 Ep 883: Listener’s Mailbag: Chatabands and A Fox’s Tale",
+      "published_at": "2026-08-07T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-883-listeners-mailbag-chatabands-and-a-foxs-tale",
+      "description": "In today’s Mailbag, there’s messages about dredging a canal, a back-catalogue marathon, a very late entry for Battle Of The Chatabands, not understanding shadows, a One In A Million story, a naughty tradesman and meeting your musical hero. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a6b22bb501e9815149e003d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25361345",
+      "itunes_duration": "26:25",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "chataband",
+        "tale"
+      ]
+    },
     {
       "key": "5e6c7b643a7ca676382a4c2d3ed12c719a4ecd00",
       "title": "S16 Ep 882: A VIP Pass To The Cure - Part 2",
@@ -15829,6 +15851,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-07 — S16 Ep 883: Listener’s Mailbag: Chatabands and A Fox’s Tale — speakers: Joe Wilkinson, David Earl
 - 2026-08-06 — S16 Ep 882: A VIP Pass To The Cure - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2026-08-05 — S16 Ep 881: A VIP Pass To The Cure - Part 1 — speakers: Joe Wilkinson, David Earl
 - 2026-08-04 — S16 Ep 880: Joe & David's Magical Sitcom Tour — speakers: Joe Wilkinson, David Earl
