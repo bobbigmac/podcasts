@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-07-31T19:52:07+00:00`
-- checked_at: `2026-07-31T19:52:07+00:00`
-- etag: `"ff784adc99bb92eaf39235816e2738d9"`
-- last_modified: `Fri, 31 Jul 2026 18:00:05 GMT`
+- fetched_at: `2026-08-07T19:14:21+00:00`
+- checked_at: `2026-08-07T19:14:21+00:00`
+- etag: `"e283fa5be787cbf4ac9dea6a669e8b18"`
+- last_modified: `Fri, 07 Aug 2026 18:00:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p0cxx8.jpg",
-  "fetched_at": "2026-07-31T19:52:07+00:00",
+  "fetched_at": "2026-08-07T19:14:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,29 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "266bd45db7f363423ed050656464764bb0d4e0a4",
+      "title": "Current-ish Ep2. Heatwaves, hosepipe bans, and a very hairy pizza",
+      "published_at": "2026-08-07T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p1526r",
+      "description": "Lucy Porter talks all things current-ish with Finlay Christie, Amy Annette and Christopher Macarthur-Boyd. Today - heatwaves, hosepipe bans, and a very hairy pizza. Hosted by Lucy Porter Written by Lucy Porter, Ruth Husko and Katie Sayer Producer - Katie Sayer Assistant producer - Molly Punshon Executive producer - Victoria Lloyd A Mighty Bunny production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p0cxx8.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p20tgn.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27264000",
+      "itunes_duration": "1704",
+      "speakers": [
+        "Lucy Porter",
+        "Finlay Christie",
+        "Amy Annette",
+        "Christopher Macarthur"
+      ],
+      "topics": [
+        "heatwave",
+        "hosepipe",
+        "pizza"
+      ]
+    },
     {
       "key": "c381cda81dd8ab74d5705b0f38813ccb74720c43",
       "title": "Current-ish Ep1. Burnham, Bellingham, and the spirit of Margaret Thatcher",
@@ -5475,26 +5498,6 @@
         "council",
         "august"
       ]
-    },
-    {
-      "key": "7a827b5e2131ad542b36dca6504c495682f828ba",
-      "title": "Party's Over: ep3 New Party 6th August 2021",
-      "published_at": "2021-08-06T17:56:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09r4777",
-      "description": "What happens when the Prime Minister suddenly stops being Prime Minister? One day you're the most powerful person in the country, the next you're irrelevant, forced into retirement 30 years ahead of schedule and find yourself asking 'What do I do now?' Miles Jupp stars as Henry Tobin - Britain's shortest serving and least popular post war PM (he managed 8 months). We join Henry soon after his crushing election loss. He’s determined to not let his disastrous defeat be the end of him. Instead Henry's going to get back to the top - he's just not sure how and in what field.. This week, while standing in as host at a talk radio station, Henry meets Scott Machin who might just have the answers to all his problems. Henry Tobin... Miles Jupp Christine Tobin... Ingrid Oliver Natalie... Emma Sidi Jones... Justin Edwards Scott...Kiell Smith-Bynoe Written by Paul Doolan and Jon Hunter Produced by Richard Morris and Simon Nicholls Production co-ordinator: Caroline Barlow Sound design: Marc Willcox A BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p0cxx8.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09r46pk.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26800000",
-      "itunes_duration": "1675",
-      "speakers": [
-        "New Party",
-        "Prime Minister"
-      ],
-      "topics": [
-        "party",
-        "august"
-      ]
     }
   ]
 }
@@ -5503,6 +5506,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-07 — Current-ish Ep2. Heatwaves, hosepipe bans, and a very hairy pizza — speakers: Lucy Porter, Finlay Christie, Amy Annette, Christopher Macarthur
 - 2026-07-31 — Current-ish Ep1. Burnham, Bellingham, and the spirit of Margaret Thatcher — speakers: Margaret Thatcher, Lucy Porter, John Tothill, Kyrah Gray, Amy Annette
 - 2026-07-24 — Dead Ringers Ep6. England out, Starmer out, School's out.
 - 2026-07-17 — Dead Ringers Ep5. The President’s For Overturning — speakers: Dead Ringers
@@ -5762,4 +5766,3 @@
 - 2021-08-27 — Party's Over: ep6 Going Green 27th August 2021 — speakers: Going Green, Prime Minister
 - 2021-08-20 — Party's Over: ep5 The Great Outdoors 20th August 2021 — speakers: Prime Minister
 - 2021-08-13 — Party's Over: ep4 Parish Council 13th August 2021 — speakers: Parish Council, Prime Minister
-- 2021-08-06 — Party's Over: ep3 New Party 6th August 2021 — speakers: New Party, Prime Minister
