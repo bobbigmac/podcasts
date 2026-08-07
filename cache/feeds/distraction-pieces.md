@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-08-07T00:14:43+00:00`
-- checked_at: `2026-08-07T00:14:43+00:00`
-- etag: `"djEuMi4wOjE3ODYwNTUyMjI5NDc="`
+- fetched_at: `2026-08-07T07:40:28+00:00`
+- checked_at: `2026-08-07T07:40:28+00:00`
+- etag: `"djEuMi4wOjE3ODYwNzI4MzkzMzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-08-07T00:14:43+00:00",
+  "fetched_at": "2026-08-07T07:40:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0573d75e178d8e6f0f9126a5a33453cf59a9128d",
+      "title": "SOUAD MEKHENNET (I Was Told To Come Alone / The Eternal Nazi) • Friday Rewind",
+      "published_at": "2026-08-07T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Souad Mekhennet , originally episode 169 from 2017-09-20. Original writeup below: You may have heard Pip hyping this one up for a minute, and quite rightly so - ladies and gentlemen, please welcome journalist, author, writer, Souad Mekhennet! A huge episode here, as Pip sits down with Souad for a nice good while to really get into her own story... And what a deep, heavy and truly daring life she has led, from beginning to present day - hear her recall some chills-inducing tales and truly unique meetings, from getting in deep into situations with Isis commanders, her interview with 'Jihadi John', and her career covering all manner of terrorist activities over the years, and SO much more, made all the more fascinating due to her being Muslim and female, which positions her uniquely for her line of writing and interviewing. It's also fascinating hearing her thoughts on what creates a perfect situation for men to become radicalised, and how it can mainly stem from a broken family life. This is an absolutely gripping conversation, to which this writeup would never do justice, and it's a wonderful commentary companion to her book 'I Was Told To Come Alone', which you should (and surely will) snap up at your nearest convenience. PIP'S PATREON PAGE if you're of a supporting nature INSTAGRAM WIKI I WAS TOLD TO COME ALONE THE ETERNAL NAZI PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1786055159209-4d99988d-5a7f-4c47-ad25-02fab5c54282.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a750a36676fd7391f7e74aa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "173504219",
+      "itunes_duration": "1:12:12",
+      "speakers": [],
+      "topics": [
+        "souad",
+        "mekhennet",
+        "nazi",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "e7c05d94f00c62d1af9c9dcbe6d09e70986c57e1",
       "title": "20 YEARS OF PIP (Part 1) • featuring Chris Glasson & Buddy Peace! #683",
@@ -19341,6 +19361,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-07 — SOUAD MEKHENNET (I Was Told To Come Alone / The Eternal Nazi) • Friday Rewind
 - 2026-08-05 — 20 YEARS OF PIP (Part 1) • featuring Chris Glasson & Buddy Peace! #683 — speakers: Chris Glasson
 - 2026-07-31 — WIM HOF (Wim Hof Method 🥶) • Friday Rewind
 - 2026-07-29 — BLAINE HARRISON (MYSTERY JETS) • 2 decades & counting of perfect indie music (A Hole To See The Sky Through / 20 yrs of 'Making Dens'!) #682

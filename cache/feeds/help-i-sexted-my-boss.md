@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-08-07T05:03:11+00:00`
-- checked_at: `2026-08-07T05:03:11+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RZd016UTNNVE13TXpnPTo6c2F4ZXNz"`
+- fetched_at: `2026-08-07T07:40:28+00:00`
+- checked_at: `2026-08-07T07:40:28+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RZd056ZzROREF3TWpjPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-08-07T05:03:11+00:00",
+  "fetched_at": "2026-08-07T07:40:28+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -30,13 +30,13 @@
     {
       "key": "770c8703b1ac966c0fadbb66c33adb5e8e6b5197",
       "title": "Things To Do Before You’re 40 | And William the Undertaker",
-      "published_at": "2026-08-06T14:21:38+00:00",
+      "published_at": "2026-08-07T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/things-to-do-before-youre-40-and-william-the-undertaker",
-      "description": "Could you imagine William as a London tour guide? Jordan as a camp counsellor? In today’s episode, the boys go through your suggestions for their alternative jobs and hear your ideas for what they need to do before they turn 40. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production.",
-      "image_url": null,
-      "enclosure_url": null,
-      "enclosure_type": null,
-      "enclosure_length": null,
+      "description": "Could you imagine William as a London tour guide? Jordan as a camp counsellor? In today’s episode, the boys go through your suggestions for their alternative jobs and hear your ideas for what they need to do before they turn 40. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1786024397040-6ac9b65b-c536-4407-8194-d02b58ccd7a1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a744331fd3114b9fa64e58c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=k0ug-KinTrpeUR0zvh_dauzoxbtQTTMLa_sBtXqvbOg",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27335366",
       "itunes_duration": "28:28",
       "speakers": [
         "William Hanson",
@@ -14828,7 +14828,7 @@
 
 ## Episodes (newest first)
 
-- 2026-08-06 — Things To Do Before You’re 40 | And William the Undertaker — speakers: William Hanson, Jordan North
+- 2026-08-07 — Things To Do Before You’re 40 | And William the Undertaker — speakers: William Hanson, Jordan North
 - 2026-08-04 — Help That’s Not Beauty OR The Beast | Uno’s Gone Woke — speakers: Not Beauty, Gone Woke How, William Hanson, Jordan North
 - 2026-07-31 — Campest Modes Of Transport | And Jordan’s Magic Carpet — speakers: William Hanson, Jordan North
 - 2026-07-28 — Help I Left My Sunnies At My Situationship | And Jordan Can’t Speak — speakers: William Hanson, Jordan North

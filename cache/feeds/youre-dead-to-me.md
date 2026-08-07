@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-07-31T09:15:48+00:00`
-- checked_at: `2026-07-31T09:15:48+00:00`
-- etag: `"466fb6ba5f3bc8965121924709d07cf2"`
-- last_modified: `Fri, 31 Jul 2026 05:00:09 GMT`
+- fetched_at: `2026-08-07T07:40:28+00:00`
+- checked_at: `2026-08-07T07:40:28+00:00`
+- etag: `"b261a21771df662c775a1f37136498e1"`
+- last_modified: `Fri, 07 Aug 2026 05:00:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-07-31T09:15:48+00:00",
+  "fetched_at": "2026-08-07T07:40:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,30 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "113cae35de753276383fb99ce81f84ca9291b8df",
+      "title": "Medieval Saints: miracles, relics and pilgrimage",
+      "published_at": "2026-08-07T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002yvkq",
+      "description": "Greg Jenner is joined in medieval Europe by historian Dr Simon Yarrow and comedian Rachel Parris to learn all about the cult of saints and their relics. The veneration of saints still plays an important role in the lives of Catholics all over the world, but what did the cult of saints – and especially devotion to their relics – play in medieval Europe? This episode explores all aspects of the topic: who became a saint, and how the canonisation process changed over the centuries as the papacy tried to more tightly control it. What sorts of signs and miracles proved someone’s sanctity. What relics are, and how medieval churches acquired them, both legitimately and illegitimately. What people in the Middle Ages thought saints could do for them, and the pilgrimages they took to their tombs in search of aid. And it asks whether everyone believed in the power of saints’ relics – and the gruesome fate awaiting some sceptics. If you’re a fan of marvellous miracle stories, the fascinating history of the Catholic Church, and the odd gory martyrdom, you’ll love our episode on medieval saints. If you want more from Rachel Parris, listen to our episode on Eleanor of Aquitaine. And for more on the history of Catholicism, check out our episodes on the Early Medieval Papacy, Medieval Ghost Stories and Benedetta Carlini. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Lily Tidman Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nxqf5q.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nxcl1j.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53936000",
+      "itunes_duration": "3371",
+      "speakers": [
+        "Medieval Saints",
+        "Greg Jenner",
+        "Simon Yarrow",
+        "Rachel Parris"
+      ],
+      "topics": [
+        "saints",
+        "miracle",
+        "relic",
+        "pilgrimage"
+      ]
+    },
     {
       "key": "44d471e45af67045d821fb8a6f1c70d72d2288a5",
       "title": "Francis Galton: Victorian scientist and pioneer of eugenics",
@@ -1312,7 +1336,7 @@
     },
     {
       "key": "421206a08bec1aae426ffc3fe4e0a6488e3ded74",
-      "title": "India between empires: the long 18th century",
+      "title": "India Between Empires: the long 18th century",
       "published_at": "2025-09-12T04:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/m002h9fx",
       "description": "Greg Jenner is joined in early modern India by historian Dr Jagjeet Lally and comedian Nish Kumar to learn all about the subcontinent’s dynamic eighteenth century. From the sixteenth century, the dominant power in India was the Mughal Empire. According to the traditional narrative, when the Mughals began to decline in the eighteenth century, the subcontinent descended into political chaos, and European trading powers – most notably the British East India Company – swooped in to take advantage and (in their words) restore order. But can we trust this story? In this episode, we look at India’s long eighteenth century not as a period of chaos, but one of dynamic transformation and exciting developments. Taking in the rise of new powers including the Marathas, the Rajputs and the Sikh Empire, and looking at changes in the economy, global trade, artistic patronage and gender relations, we explore what India was really like at this time. If you’re a fan of the history of globalisation, the connections between politics, economics and social relations, and debunking historical myths, you’ll love our episode on the long eighteenth century in India. If you want to know more about the history of India, check out our episodes on the Mughals and Bollywood. And for more eighteenth-century history, there’s our episode on Black Georgian England. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Clara Chamberlain Written by: Emmie Rose Price-Goodfellow, Emma Nagouse, and Greg Jenner Produced by: Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Emma Nagouse Executive Editor: Philip Sellars",
@@ -1328,7 +1352,7 @@
       ],
       "topics": [
         "india",
-        "empire",
+        "empires",
         "century"
       ]
     },
@@ -6064,6 +6088,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-07 — Medieval Saints: miracles, relics and pilgrimage — speakers: Medieval Saints, Greg Jenner, Simon Yarrow, Rachel Parris
 - 2026-07-31 — Francis Galton: Victorian scientist and pioneer of eugenics — speakers: Francis Galton, Greg Jenner, Subhadra Das
 - 2026-07-24 — The Iliad and Odyssey: heroic epics from ancient Greece — speakers: Greg Jenner, Emily Hauser, Kiell Sm
 - 2026-07-10 — El Cid (Radio Edit) — speakers: Greg Jenner, Nora Berend
@@ -6123,7 +6148,7 @@
 - 2025-10-03 — Marie Antoinette: last French queen before the Revolution — speakers: Marie Antoinette, Katherine Astbury
 - 2025-09-26 — Hannibal of Carthage: fearsome enemy of ancient Rome — speakers: Greg Jenner, Josephine Quinn
 - 2025-09-19 — Alexandria: city of knowledge and culture — speakers: Greg Jenner, Islam Issa, Athena Kugblenu
-- 2025-09-12 — India between empires: the long 18th century — speakers: Greg Jenner, Jagjeet Lally, Nish Kumar
+- 2025-09-12 — India Between Empires: the long 18th century — speakers: Greg Jenner, Jagjeet Lally, Nish Kumar
 - 2025-09-05 — Renaissance Beauty: hair, makeup and skincare in the 16th century — speakers: Greg Jenner, Jill Burke
 - 2025-08-29 — Viking Women: wives, weavers and warriors — speakers: Greg Jenner, Eleanor Barraclough
 - 2025-08-22 — Kellogg Brothers: a family feud and the creation of a cereal empire — speakers: Greg Jenner, Vanessa Heggie
