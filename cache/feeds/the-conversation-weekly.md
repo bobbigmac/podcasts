@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-08-06T11:32:33+00:00`
-- checked_at: `2026-08-06T11:32:33+00:00`
-- etag: `"25f33c-6585b9162f01f"`
-- last_modified: `Thu, 06 Aug 2026 07:09:24 GMT`
+- fetched_at: `2026-08-07T00:14:43+00:00`
+- checked_at: `2026-08-07T00:14:43+00:00`
+- etag: `"2602dc-65862fce02d2d"`
+- last_modified: `Thu, 06 Aug 2026 16:00:32 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-08-06T11:32:33+00:00",
+  "fetched_at": "2026-08-07T00:14:43+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,26 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "8e0ed8a6c0ca7dc5d49a8c06bf480bda12f2d762",
+      "title": "The soviet origins of shadow libraries",
+      "published_at": "2026-08-06T16:00:00+00:00",
+      "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
+      "description": "Balázs Bödö's first interaction with a shadow library was when, as a young professor at university in Budapest, he was faced with a dilemma: what should he teach his students? \"Do I condemn my students to a second rate education and a second rate degree in the European Union? Or do I pirate the books and give them the education that they deserve?\" This episode was written and produced by Gemma Ware and Mend Mariwany. Sound mixing is by Michelle Macklem and our theme music is by Neeta Sarl. Ashlynne McGhee is our Head of Editorial Innovation and Misha Ketchell and Stephen Khan are our editors in chief. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Mentioned in this episode: The Making of an Autocrat Search \"The Conversation Weekly\" for our new series: The Making of an Autocrat. Is America watching its democracy unravel in real time? In The Making of an Autocrat from The Conversation, six of the world’s pre-eminant scholars reveal the recipe for authoritarian rule. From capturing a party, to controlling the military, Donald Trump is borrowing from the playbook of strongmen thoughout history. This is the story of how democracies falter — and what might happen next.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/4291d2d4-1a24-4294-8bfe-2978642a8153.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29427923",
+      "itunes_duration": "20:26",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "origin",
+        "shadow",
+        "library"
+      ]
+    },
     {
       "key": "269d76e0149ce61cb516e2e88ac4f96ed7dd7c97",
       "title": "A window into the murky world of peptides",
@@ -6142,6 +6162,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — The soviet origins of shadow libraries — speakers: Gemma Ware
 - 2026-07-30 — A window into the murky world of peptides — speakers: Timothy Piatkowki, Gemma Ware
 - 2026-07-23 — Save our brains: how dangerous is sport? — speakers: about concussion, head impacts, brain disease, Gemma Ware
 - 2026-07-16 — How Manchester shaped Andy Burnham, the UK's incoming prime minister — speakers: Andy Burnham, Gemma Ware

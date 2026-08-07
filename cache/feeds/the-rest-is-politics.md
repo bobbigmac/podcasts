@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-08-06T03:35:25+00:00`
-- checked_at: `2026-08-06T03:35:25+00:00`
-- last_modified: `Wed, 05 Aug 2026 23:00:41 GMT`
+- fetched_at: `2026-08-07T00:14:43+00:00`
+- checked_at: `2026-08-07T00:14:43+00:00`
+- last_modified: `Thu, 06 Aug 2026 23:00:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-06T03:35:25+00:00",
+  "fetched_at": "2026-08-07T00:14:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,24 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "cdb3baac869b5f46d53be931b9332240e86e9282",
+      "title": "The Truth About Climate Migration – It's More Complicated Than You Think",
+      "published_at": "2026-08-06T22:55:00+00:00",
+      "link": null,
+      "description": "To hear the whole episode and catch up on the rest of the series, which includes a deep dive into food security, water scarcity and the suppressed national security report, sign up at therestispolitics.com Are people really migrating because of changes in the climate? Who pays when a nation is destroyed by a crisis it didn't cause? And what does it cost, financially and emotionally, to leave home for good? Join Caroline Lucas, Alex Randall and Aminath Shauna as they discuss all of these questions and more. ⁠⁠⁠Read the redacted Joint Intelligence Committee Report here⁠⁠⁠ ⁠⁠⁠Find out more about the National Emergency Briefing here.⁠⁠⁠ ⁠Discover Climate Outreach's work here⁠ Producer: India Dunkley Video Editor: Gabriella Gibbs, Oli Ortega Social Producer: Celine Charles General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/30b26dde-9020-11f1-b744-1b10716f285d/image/59b998b5fc503d3235f6a969553d5637.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5163359053.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1262",
+      "speakers": [],
+      "topics": [
+        "truth",
+        "climate",
+        "migration"
+      ]
+    },
     {
       "key": "766e1cf3329547a779773ce3d18d78a62a11b588",
       "title": "560. Trump's Hamas Disarmament 'Deal' and Europe's FIFA Boycott",
@@ -12583,6 +12601,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — The Truth About Climate Migration – It's More Complicated Than You Think
 - 2026-08-05 — 560. Trump's Hamas Disarmament 'Deal' and Europe's FIFA Boycott
 - 2026-08-04 — 559. Who Really Benefits from the Ceuta Migration Crisis? — speakers: Who Really Benefits, Ceuta Migration Crisis
 - 2026-07-30 — Data Centres vs. Drinking Water: What Matters To Us Most? — speakers: Sandra Postel

@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-07-31T03:48:50+00:00`
-- checked_at: `2026-07-31T03:48:50+00:00`
-- etag: `W/"cd22241c5a958b8c5049d04b1d8f7c6d"`
-- last_modified: `Thu, 30 Jul 2026 22:55:00 GMT`
+- fetched_at: `2026-08-07T00:14:43+00:00`
+- checked_at: `2026-08-07T00:14:43+00:00`
+- etag: `W/"17bcaffcb2cf41dd2414a4e9e36157f6"`
+- last_modified: `Thu, 06 Aug 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-07-31T03:48:50+00:00",
+  "fetched_at": "2026-08-07T00:14:43+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,53 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "2fcdbbab8379c0f156988ae16b147d62f1f19891",
+      "title": "No Such Thing As A Toilet Break For A Tuna",
+      "published_at": "2026-08-06T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8936796",
+      "description": "Live from the Royal Institution, Dan, James, Anna and Andy discuss big fish, big pencils and a big coincidence. Missed out on this live show? Get in-person or streaming tickets for the London Podcast Festival here: nosuchthingasafish.com/live Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia Get NordVPN two-year plan + four months extra ➼ https://nordvpn.com/fish It’s risk-free with Nord’s 30-day money-back guarantee. Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
+      "image_url": "https://audioboom.com/i/43777448.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936796.mp3?modified=1786036942&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3324",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "toilet",
+        "break",
+        "tuna"
+      ]
+    },
+    {
+      "key": "5a157aabb5560bc9adaa07247ebc65abe65ec2af",
+      "title": "Little Fish: Moss Moss Mossmoss Moss",
+      "published_at": "2026-08-02T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8934342",
+      "description": "Anna, James and Andy discuss YOUR facts including kitchens, cocktails and a chap named Cassell. Anna works out why she lost to James at archery. And we name eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8934342.mp3?modified=1785495563&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1792",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "moss",
+        "mossmoss"
+      ]
+    },
     {
       "key": "615a685fe9237616d53941351d3556f68b16b43e",
       "title": "No Such Thing As The Mice Of The Fruit Bowl",
@@ -16787,6 +16834,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — No Such Thing As A Toilet Break For A Tuna — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-08-02 — Little Fish: Moss Moss Mossmoss Moss — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-07-30 — No Such Thing As The Mice Of The Fruit Bowl — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-07-26 — Little Fish: Short Back and Left — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-07-23 — No Such Thing As A Fence Made of Sausage — speakers: Lou Bega, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

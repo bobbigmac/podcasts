@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-03T17:19:40+00:00`
-- checked_at: `2026-08-03T17:19:40+00:00`
-- etag: `"djEuMi4wOjE3ODU3NzEwMzkzNjE="`
+- fetched_at: `2026-08-07T00:14:43+00:00`
+- checked_at: `2026-08-07T00:14:43+00:00`
+- etag: `"djEuMi4wOjE3ODYwMzAxNzg2NTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-03T17:19:40+00:00",
+  "fetched_at": "2026-08-07T00:14:43+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "2886db3bca3963d6836fa60fac483ea1de302c5e",
+      "title": "Why did Kemi Badenoch allow an ex neo-Nazi to stand?",
+      "published_at": "2026-08-06T15:29:38+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/why-did-kemi-badenoch-allow-an-ex-neo-nazi-to-stand",
+      "description": "Why did Kemi Badenoch allow a man with a neo-Nazi past to stand as a council candidate? Is Andy Burnham running into his first bump in the road as Prime Minister over his pausing of the early release of prisoners scheme? And could Reform and Restore set aside their differences and form a pact? Anoosh Chakelian is joined by political correspondent Ethan Croft. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1786029997845-a9328464-0be7-4a13-b54f-9e04e0457e77.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a74a786d716d52d9a4ac1f0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71129225",
+      "itunes_duration": "29:35",
+      "speakers": [
+        "Andy Burn",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "kemi",
+        "badenoch",
+        "nazi"
+      ]
+    },
     {
       "key": "828a53a85b18dff8ffc5aa2e1dfa0585c6b239f1",
       "title": "Is Zack Polanski too \"online\"?",
@@ -31985,6 +32007,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — Why did Kemi Badenoch allow an ex neo-Nazi to stand? — speakers: Andy Burn, Anoosh Chakelian, Oli Dugmore
 - 2026-08-03 — Is Zack Polanski too "online"? — speakers: Zack Polanski, Anoosh Chakelian, Oli Dugmore
 - 2026-08-01 — Chris Philp goes GONZO in the English Channel | Weekly roundup — speakers: Chris Philp, Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-07-30 — The Burnham comms and policy blitz — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore

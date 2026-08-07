@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-08-06T11:32:33+00:00`
-- checked_at: `2026-08-06T11:32:33+00:00`
-- etag: `"djEuMi4wOjE3ODYwMTAwMzM3MTI="`
+- fetched_at: `2026-08-07T00:14:43+00:00`
+- checked_at: `2026-08-07T00:14:43+00:00`
+- etag: `"djEuMi4wOjE3ODYwNTg0MzkyODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
-  "fetched_at": "2026-08-06T11:32:33+00:00",
+  "fetched_at": "2026-08-07T00:14:43+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,28 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "9b338428384ffc79d7cd79580f8b51d73581d859",
+      "title": "Race Of The Century",
+      "published_at": "2026-08-06T23:20:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/race-of-the-century",
+      "description": "Welcome to the Socially Distant Sports Bar . Steff brings in Race Of The Century , Netflix's fascinating documentary about Australia's historic America's Cup victory, one of the greatest sporting upsets ever seen. Elis has chosen Waters Gleaming Gold by Ben Jameson, a brilliant account of Olympic rowing, teamwork and what it takes to become the very best. That wraps up the regular feed for this week. If you'd like even more Distant Pod, Bonus EPISODE – Towelled Up is available exclusively to subscribers on Distant Pod Bonus Club via Apple Podcasts. This week's Bonus Club features Mike on the Western Force, Steff with Olympic pole vaulter Emmanouil Karalis , and Elis brings in We Are The Champions . 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a708f3a1272918eee7a4d24/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77655360",
+      "itunes_duration": "32:21",
+      "speakers": [
+        "Socially Distant Sports Bar",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "race",
+        "century"
+      ]
+    },
     {
       "key": "a635c34448420f9e57e05cce832deca13caecbc3",
       "title": "Ziplock Full Of Moustache",
@@ -15566,6 +15588,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — Race Of The Century — speakers: Socially Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-04 — Ziplock Full Of Moustache — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-01 — Kirkby Ski Slope: Pint Size — speakers: Kirkby Ski Slope, Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-07-30 — Best Of Distant Pod 10 (pt 2) — speakers: Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero

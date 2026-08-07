@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-08-03T03:53:47+00:00`
-- checked_at: `2026-08-03T03:53:47+00:00`
-- etag: `"djEuMi4wOjE3ODU3MTE3NTkzNTA="`
+- fetched_at: `2026-08-07T00:14:43+00:00`
+- checked_at: `2026-08-07T00:14:43+00:00`
+- etag: `"djEuMi4wOjE3ODYwNTczNTkzMTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-08-03T03:53:47+00:00",
+  "fetched_at": "2026-08-07T00:14:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ff3b2371a26529490d1d3700dbf1b2b524b8321a",
+      "title": "Ep. 599 - Cecily Hitchcock - A raising star of British comedy making her Edinburgh Fringe debut",
+      "published_at": "2026-08-06T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-599-cecily-hitchcock-a-raising-star-of-british-comedy-mak",
+      "description": "Cecily Hitchcock is one of the UK’s most exciting emerging comedy talents. An acclaimed stand-up and in-demand MC, her unique mix of surreal storytelling, offbeat observations and razor-sharp crowd work has earned more than 25 million views across social media, with her sketches featured by LADbible, The Sidemen and BrewDog. In 2026, she makes her highly anticipated Edinburgh Fringe debut with Family Recipe , a nostalgic and brilliantly bizarre look back at growing up in 2000s Britain, confirming her status as a comedian firmly on the rise . Bella Hull is our guest in episode 599 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Tickets for Cecily Hitchcock’s Edinburgh Fringe show, Cecily Hitchcock: Family Recipe - https://www.edfringe.com/tickets/whats-on/cecily-hitchcock-family-recipe . Follow Cecily Hitchcock on Instagram : @cechitch . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a6b554f87f5f77b0231b9a9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95560536",
+      "itunes_duration": "1:19:37",
+      "speakers": [
+        "Edinburgh Fringe"
+      ],
+      "topics": [
+        "hitchcock",
+        "star",
+        "comedy",
+        "edinburgh",
+        "fringe",
+        "debut"
+      ]
+    },
     {
       "key": "10ece50da9cab85cfe5fc7367388ea2d6501ccf8",
       "title": "Ep. 598 - Barry from Watford - Best known for his 10 years on Steve Wright in the Afternoon on BBC Radio 2",
@@ -13179,6 +13202,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — Ep. 599 - Cecily Hitchcock - A raising star of British comedy making her Edinburgh Fringe debut — speakers: Edinburgh Fringe
 - 2026-08-02 — Ep. 598 - Barry from Watford - Best known for his 10 years on Steve Wright in the Afternoon on BBC Radio 2 — speakers: Steve Wright
 - 2026-07-30 — My Time Capsule The Dig - Ep. 13 - With Tim Bentinck (David Archer in BBC Radio 4's, The Archers.) — speakers: Tim Bentinck, David Archer
 - 2026-07-30 — Ep. 597 - James Trickey - Sell-out Edinburgh Fringe debut & a Leicester Comedy Festival Best New Show nominee — speakers: James Trickey, Edinburgh Fringe
