@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-07T19:14:21+00:00`
-- checked_at: `2026-08-07T19:14:21+00:00`
-- etag: `"djEuMi4wOjE3ODYxMTE3OTY1MjM="`
+- fetched_at: `2026-08-08T18:57:57+00:00`
+- checked_at: `2026-08-08T18:57:57+00:00`
+- etag: `"djEuMi4wOjE3ODYyMDQ4MzkzNzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-07T19:14:21+00:00",
+  "fetched_at": "2026-08-08T18:57:57+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,33 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a79aee1350868149b67e9d777125303cb2e89f2f",
+      "title": "Andy Burnham's North Sea drilling dilemma | Weekly roundup",
+      "published_at": "2026-08-08T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/andy-burnhams-north-sea-drilling-dilemma-weekly-round-up",
+      "description": "Is supporting North Sea drilling an extremist position? Does Jeremy Clarkson have the right to ask benefit claimants for a thank you note? And should you grass on naughty neighbours breaking the hosepipe ban? Anoosh Chakelian is joined by Oli Dugmore to discuss some of the biggest questions of the week. 📚 READ Supporting North Sea drilling is an extremist position https://www.newstatesman.com/comment/2026/07/north-sea-drilling-is-an-extremist-position The road to Nowhereville https://www.newstatesman.com/politics/2026/07/the-road-to-nowhereville LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1786111149240-34ea36ed-c36a-4409-8935-308551de918b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a75e497f5fe4fa8b8195e4e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71870694",
+      "itunes_duration": "37:19",
+      "speakers": [
+        "Andy Burnham",
+        "Jeremy Clarkson",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "north",
+        "drilling",
+        "dilemma",
+        "weekly",
+        "roundup"
+      ]
+    },
     {
       "key": "2886db3bca3963d6836fa60fac483ea1de302c5e",
       "title": "Why did Kemi Badenoch allow an ex neo-Nazi to stand?",
@@ -32007,6 +32034,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-08 — Andy Burnham's North Sea drilling dilemma | Weekly roundup — speakers: Andy Burnham, Jeremy Clarkson, Anoosh Chakelian, Oli Dugmore
 - 2026-08-06 — Why did Kemi Badenoch allow an ex neo-Nazi to stand? — speakers: Andy Burn, Anoosh Chakelian, Oli Dugmore
 - 2026-08-03 — Is Zack Polanski too "online"? — speakers: Zack Polanski, Anoosh Chakelian, Oli Dugmore
 - 2026-08-01 — Chris Philp goes GONZO in the English Channel | Weekly roundup — speakers: Chris Philp, Andy Burnham, Anoosh Chakelian, Oli Dugmore
