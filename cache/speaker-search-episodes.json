@@ -15059,6 +15059,28 @@
     ],
     "tim-key": [
       {
+        "feed_slug": "external:apple:4c94940d5cf7",
+        "feed_title": "The Final Word Cricket Podcast",
+        "source_rss_url": "https://feeds.megaphone.fm/COMG4127829564",
+        "dedupe_key": "c30d58e9a10a6eb469f05087343242604e9c7628",
+        "episode_key": "c30d58e9a10a6eb469f05087343242604e9c7628",
+        "title": "John Arlott, Tim Key, & 9/11 – A new anthology of cricket poetry, TFW Book Club",
+        "published_at": "2026-08-07T11:19:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Cricket attracts romantics. Whatever the form, so much of the game’s prose is dedicated to reflection and understanding. Whilst many fine writers have penned creative words, poetry isn’t as strongly associated. Catching The Light, compiled by authors Nick Hogg and Tim Beard, spans a wide range of contributors, from Eng",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9970221132.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/john-arlott-tim-key-9-11-a-new-anthology-of/id1315888074?i=1000780448793&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
