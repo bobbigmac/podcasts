@@ -36981,6 +36981,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:213cced15515",
+        "feed_title": "Hear Knowledge, Wisdom, and Imagination Beautifully Delivered Through Powerful Spoken Storytelling",
+        "source_rss_url": "https://bryan.libranovo.com/it/user/67/index.xml",
+        "dedupe_key": "4cad7361563406f735695440c4db03cb26026dab",
+        "episode_key": "4cad7361563406f735695440c4db03cb26026dab",
+        "title": "Too Much Information: Or: Can Everyone Just Shut Up for a Moment, Some of Us Are Trying to Think Audiobook by Dave Gorman",
+        "published_at": "2014-09-04T11:08:26Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "https://libranovo.com/free Listen to free audiobooks with a 30-day free trial! Title: Too Much Information: Or: Can Everyone Just Shut Up for a Moment, Some of Us Are Trying to ThinkGenres: Essays & TraveloguesAuthor: Dave GormanNarrator: Dave GormanRelease date: 09-04-2014Length: 6:33:47Language: EnglishPublisher: Pen",
+        "audio_url": "https://audiobookzap.com/audio/241476.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/too-much-information-or-can-everyone-just-shut-up-for/id6798983117?i=1000780688373&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:7ef1e2b845b0",
         "feed_title": "The Infinite Monkey Cage",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
