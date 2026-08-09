@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-08-09T02:27:55+00:00`
-- checked_at: `2026-08-09T02:27:55+00:00`
-- etag: `"djEuMi4wOjE3ODYyMjkwOTgzNzY="`
+- fetched_at: `2026-08-09T04:36:11+00:00`
+- checked_at: `2026-08-09T04:36:11+00:00`
+- etag: `"djEuMi4wOjE3ODYyNDgwMzk2NjA="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-08-09T02:27:55+00:00",
+  "fetched_at": "2026-08-09T04:36:11+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "1b1d56bda24bbc159c4a12fbc834af86655f90d5",
+      "title": "S5 EP8: Andy Parsons",
+      "published_at": "2026-08-09T04:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s5-ep8-andy-parsons",
+      "description": "Joining us on this episode of '⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠What did you do yesterday?⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠' is the comedian Andy Parsons. We asked Andy what he did yesterday? He told us. That's it... enjoy! Hackney Empire - 7th September 2026 The wait is over. WDYDY is back for another live extravaganza… Your favourite podcast is returning to London’s Hackney Empire for another night of yesterday’s. May or may not include a BOC, an opening montage, a celeb guest, one too many quizzes, D.) Kestrels, and much much more… Get your tickets now at: www.hackneyempire.co.uk/events/what-did-you-do-yesterday Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1786218285011-171408ac-d58f-475b-8bf3-dbc640ff5ffa.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a778f19769f96ab45021448/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75561169",
+      "itunes_duration": "1:18:42",
+      "speakers": [
+        "Andy Parsons",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "andy",
+        "parsons"
+      ]
+    },
     {
       "key": "fd551f3065db83b6e3f983303c6a705eb488f47e",
       "title": "WDYDY - Live show in London 7th Sept at Hackney Empire",
@@ -3872,6 +3893,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-09 — S5 EP8: Andy Parsons — speakers: Andy Parsons, Max Rushden, David O'Doherty
 - 2026-08-06 — WDYDY - Live show in London 7th Sept at Hackney Empire — speakers: Hackney Empire Hello, Hackney Empir, Max Rushden, David O'Doherty
 - 2026-08-05 — WDWDY #82.1: Home alone no pants party (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-02 — S5 EP7: Tom Ballard — speakers: Tom Ballard, Max Rushden, David O'Doherty
