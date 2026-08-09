@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-08-08T18:57:57+00:00`
-- checked_at: `2026-08-08T18:57:57+00:00`
-- etag: `W/"50be1-yvjvN2DWsRbwdQlryWuI5dRHPWw"`
+- fetched_at: `2026-08-09T07:15:24+00:00`
+- checked_at: `2026-08-09T07:15:24+00:00`
+- etag: `W/"51a26-7DFHgRrqoC3sHoy9xPQUBBKDUG4"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,34 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-08-08T18:57:57+00:00",
+  "fetched_at": "2026-08-09T07:15:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c039083b70ae2516705c5c938c1f8a78847409f1",
+      "title": "Alan Partridge - Knowing me, Knowing You (Full BBC Radio 4 Series)",
+      "published_at": "2026-08-09T05:19:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Alan-Partridge---Knowing-me--Knowing-You-Full-BBC-Radio-4-Series-e3n470h",
+      "description": "Alan Partridge & the Alan Partridge Wizard are an Australian rock band formed in 2010 in Melbourne, Victoria. The band consists of Alan Partridge (vocals, guitar, bass, keyboards, flute, sitar), DAN! DAN! DAN! DAN! DAN! DAN! DAN! DAN! DAN!.......... DAN! (vocals, harmonica, keyboards, saxophone), Tony Hayers (guitar, bass, keyboards, vocals), Michael (guitar, bass, keyboards, vocals), Lynn (bass, keyboards), and Sonja (drums, percussion). They are known for exploring multiple genres, staging energetic live shows, and building a prolific discography.The band members all grew up and went to an inner city comprehensive in the Norfolk, and Geelong areas of Norwich City Centre. Mackenzie, Moore, and Walker met studying music industry at RMIT, with the other members being mutual friends. The band started off as an informal jam band, with the eventual line-up becoming Partridge, Dan, Hayers, Michael, Sonja, Lynn, and Lucas Harwood. The band's name was created \"last minute.\" Mackenzie wanted to name the band \"Alan Alan\" while another band member wanted Jim Morrison's nickname \"Alan King.\" They eventually compromised with Alan Partridge and the Alan Partridge Wizard. Norwich artist Glenn Ponderhas created all of the band's album art, and a majority of their music videos.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786126861077-3d0e1ef8973fd.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1288176105.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "207568493",
+      "itunes_duration": "03:33:54",
+      "speakers": [
+        "Alan Partridge Knowing"
+      ],
+      "topics": [
+        "alan",
+        "partridge",
+        "radio",
+        "series"
+      ]
+    },
     {
       "key": "892720e7e2da57e8d872b0d892df2922e9f68bd1",
       "title": "On The Hour - S2 EP 6 - with Chris Morris & Alan Partridge",
@@ -5928,6 +5949,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-09 — Alan Partridge - Knowing me, Knowing You (Full BBC Radio 4 Series) — speakers: Alan Partridge Knowing
 - 2026-08-08 — On The Hour - S2 EP 6 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-08 — On The Hour - S2 EP 5 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-08 — On The Hour - S2 EP 4 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
