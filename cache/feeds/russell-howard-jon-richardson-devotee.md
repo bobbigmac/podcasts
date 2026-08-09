@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-08-09T07:15:24+00:00`
-- checked_at: `2026-08-09T07:15:24+00:00`
-- etag: `W/"51a26-7DFHgRrqoC3sHoy9xPQUBBKDUG4"`
+- fetched_at: `2026-08-09T19:00:16+00:00`
+- checked_at: `2026-08-09T19:00:16+00:00`
+- etag: `W/"512e0-nH+TWbNsicyrxIDKjq2EbrCb3yk"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,36 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-08-09T07:15:24+00:00",
+  "fetched_at": "2026-08-09T19:00:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a9a6a963c53959aa10d389a1d4a49b4e17b59d28",
+      "title": "Russell Howard & Jon Richardson Podcast Pilot",
+      "published_at": "2026-08-09T15:23:27+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Russell-Howard--Jon-Richardson-Podcast-Pilot-e3n62is",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786288947332-5942fd8dfc4a6.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1877991478.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31961845",
+      "itunes_duration": "00:32:56",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast",
+        "pilot"
+      ]
+    },
     {
       "key": "c039083b70ae2516705c5c938c1f8a78847409f1",
       "title": "Alan Partridge - Knowing me, Knowing You (Full BBC Radio 4 Series)",
@@ -5884,63 +5907,6 @@
         "richardson",
         "podcast"
       ]
-    },
-    {
-      "key": "67137258d472d3a2f9fcca9f2041e54a6b6de6f5",
-      "title": "#2 Russell Howard & Jon Richardson Podcast EP 2",
-      "published_at": "2026-01-04T15:25:07+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/2-Russell-Howard--Jon-Richardson-Podcast-EP-2-e3d5k1h",
-      "description": "Russell Howard & Jon Richardson Podcast EP 2",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1767540246417-b9fa52e82484f.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/113479153/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-4%2F8999ff07-ea9e-8223-56ff-e2014ae3beb1.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "59035008",
-      "itunes_duration": "01:21:59",
-      "speakers": [],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "e37195e58a5f9ca60c5a83bb905d8ea40f8035c5",
-      "title": "Russell Howard & Jon Richardson Podcast EP 1",
-      "published_at": "2026-01-04T15:16:53+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Russell-Howard--Jon-Richardson-Podcast-EP-1-e3d5jkh",
-      "description": "Russell Howard & Jon Richardson Podcast EP 1",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1767539776046-9545e49f1a726.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/113478737/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-4%2F5b62019a-3def-bcad-e239-45214298dfb2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "62002272",
-      "itunes_duration": "01:26:06",
-      "speakers": [],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "15b8c0689d2f7a292d40765be9045f94cd460a1c",
-      "title": "Russell Howard & Jon Richardson Podcast",
-      "published_at": "2026-01-03T22:58:55+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/Russell-Howard--Jon-Richardson-Podcast-e3d4u1t",
-      "description": "Russell Howard & Jon Richardonson Podcast",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1767482707690-7141887718424.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/113456637/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-3%2F415434196-44100-2-722240e708e45.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "31620701",
-      "itunes_duration": "00:32:56",
-      "speakers": [],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
     }
   ]
 }
@@ -5949,6 +5915,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-09 — Russell Howard & Jon Richardson Podcast Pilot — speakers: Russell Howard, Jon Richardson
 - 2026-08-09 — Alan Partridge - Knowing me, Knowing You (Full BBC Radio 4 Series) — speakers: Alan Partridge Knowing
 - 2026-08-08 — On The Hour - S2 EP 6 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-08 — On The Hour - S2 EP 5 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
@@ -6209,6 +6176,3 @@
 - 2026-01-05 — #5 Russell Howard & Jon Richardson Podcast EP 5
 - 2026-01-04 — #4 Russell Howard & Jon Richardson Podcast EP 4
 - 2026-01-04 — #3 Russell Howard & Jon Richardson Podcast EP 3
-- 2026-01-04 — #2 Russell Howard & Jon Richardson Podcast EP 2
-- 2026-01-04 — Russell Howard & Jon Richardson Podcast EP 1
-- 2026-01-03 — Russell Howard & Jon Richardson Podcast
