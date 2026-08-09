@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-08-05T03:31:21+00:00`
-- checked_at: `2026-08-05T03:31:21+00:00`
-- etag: `"djEuMi4wOjE3ODU4OTg4Mzk3OTI="`
+- fetched_at: `2026-08-09T02:27:55+00:00`
+- checked_at: `2026-08-09T02:27:55+00:00`
+- etag: `"djEuMi4wOjE3ODYyMjkwOTgzNzY="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-08-05T03:31:21+00:00",
+  "fetched_at": "2026-08-09T02:27:55+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "fd551f3065db83b6e3f983303c6a705eb488f47e",
+      "title": "WDYDY - Live show in London 7th Sept at Hackney Empire",
+      "published_at": "2026-08-06T11:12:19+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdydy-live-show-in-london-7th-sept-at-hackney-empire",
+      "description": "Hello WDYDY community, As you know we're doing another live show in London 7th Sept at Hackney Empire. Tickets are now on pre-sale to fan club members and selling fast! https://www.hackneyempire.co.uk/events/what-did-you-do-yesterday If you've signed up already you will have received the link and special exclusive pre-sale code to access via your email. If you haven't signed up but would like to you can do so below and the access code will be sent to you on email shortly after. Are you ' IN IT FOR LIFE '? Sign up HERE if you are. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Tickets will then go on general sale tomorrow (Friday 7th Sept) at 10am via the Hackney Empire website; https://www.hackneyempire.co.uk/events/what-did-you-do-yesterday Hopefully see you there for more yesterday based fun and games - including an amazing guest (they're a hall of fame former WDYDY alumni) and we promise the opening montage will work this time. Probably... Hackney Empire. Monday 7th September 2026. Thanks - Max, DOD and Mars Bar Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1786014649232-3a257bf2-ee1b-4a18-a6e8-dc37fbd0c1bb.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a746c1272138046c66aa5df/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "5115117",
+      "itunes_duration": "2:07",
+      "speakers": [
+        "Hackney Empire Hello",
+        "Hackney Empir",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "wdydy",
+        "london",
+        "sept",
+        "hackney",
+        "empire"
+      ]
+    },
     {
       "key": "159995e515202f4932f8aa618286a2f18af898cb",
       "title": "WDWDY #82.1: Home alone no pants party (David's Yesterday)",
@@ -3847,6 +3872,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-06 — WDYDY - Live show in London 7th Sept at Hackney Empire — speakers: Hackney Empire Hello, Hackney Empir, Max Rushden, David O'Doherty
 - 2026-08-05 — WDWDY #82.1: Home alone no pants party (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-02 — S5 EP7: Tom Ballard — speakers: Tom Ballard, Max Rushden, David O'Doherty
 - 2026-07-29 — WDWDY #81.1: Phoning this stuff in for the freeloaders (David's Yesterday) — speakers: Max Rushden, David O'Doherty
