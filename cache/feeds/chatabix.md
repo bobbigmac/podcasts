@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-07T03:15:22+00:00`
-- checked_at: `2026-08-07T03:15:22+00:00`
-- etag: `"djEuMi4wOjE3ODYwNjgwMzk0ODE="`
+- fetched_at: `2026-08-10T02:34:11+00:00`
+- checked_at: `2026-08-10T02:34:11+00:00`
+- etag: `"djEuMi4wOjE3ODYzMjcyMzk1NDU="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-07T03:15:22+00:00",
+  "fetched_at": "2026-08-10T02:34:11+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "13e6dea28371b04c9c44e00c9c378d25e402f1ed",
+      "title": "S16 Ep 884 Vault Mondays: Sunglasses and Nigel Farage",
+      "published_at": "2026-08-10T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-884-vault-mondays-sunglasses-and-nigel-farage",
+      "description": "Time for another archive show! In this episode we talked about sunglasses, audio issues, acting, Joe's dream, lacking self confidence, David's being a Tory, Richard Herring's podcast numbers, Nigel Farage, Joe's chat with Rob Beckett, David's fruity intro/outro. First posted on 3rd June 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a72d2f2f75dde11d12f19ff/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23729632",
+      "itunes_duration": "24:43",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "sunglasses",
+        "nigel",
+        "farage"
+      ]
+    },
     {
       "key": "54188e420d269abbf33a10df702c098cb08d367d",
       "title": "S16 Ep 883: Listener’s Mailbag: Chatabands and A Fox’s Tale",
@@ -15851,6 +15874,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — S16 Ep 884 Vault Mondays: Sunglasses and Nigel Farage — speakers: Joe Wilkinson, David Earl
 - 2026-08-07 — S16 Ep 883: Listener’s Mailbag: Chatabands and A Fox’s Tale — speakers: Joe Wilkinson, David Earl
 - 2026-08-06 — S16 Ep 882: A VIP Pass To The Cure - Part 2 — speakers: Joe Wilkinson, David Earl
 - 2026-08-05 — S16 Ep 881: A VIP Pass To The Cure - Part 1 — speakers: Joe Wilkinson, David Earl

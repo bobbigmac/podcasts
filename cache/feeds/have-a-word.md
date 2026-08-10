@@ -2,9 +2,9 @@
 
 - slug: `have-a-word`
 - source: `https://feeds.acast.com/public/shows/660d348bf844f70016bf5fd1`
-- fetched_at: `2026-08-03T03:53:47+00:00`
-- checked_at: `2026-08-03T03:53:47+00:00`
-- etag: `"djEuMi4wOjE3ODU1NjA0Mzk1Mzg="`
+- fetched_at: `2026-08-10T02:34:11+00:00`
+- checked_at: `2026-08-10T02:34:11+00:00`
+- etag: `"djEuMi4wOjE3ODYxNjUyMzk2MTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://haveawordpod.com",
   "description": "The funniest podcast in the UK with comedians Adam Rowe and Dan Nightingale Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
-  "fetched_at": "2026-08-03T03:53:47+00:00",
+  "fetched_at": "2026-08-10T02:34:11+00:00",
   "owners": [
     "Dan Nightingale",
     "Adam Rowe"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "72426d5fbd6288c9374c215dfe4f389e26d28e83",
+      "title": "#393 with Harry Stachini - Have A Word w/Adam, Dan & Carl",
+      "published_at": "2026-08-08T05:00:00+00:00",
+      "link": "https://shows.acast.com/have-a-word-with-adamrowe-and-dannightingale/episodes/393-with-harry-stachini-have-a-word-wadam-dan-carl",
+      "description": "Tickets, merch and loads more available on our website! https://haveawordpod.com Tickets for Have A Word Live shows as well as Adam and Dan's tours and previews: Adam's Tickets: https://www.adamrowe.co.uk Dan's Tickets: https://dannightingale.com Carl's Stream || https://twitch.tv/senseicarl_ Finn's Music & Tickets: https://finnlayk.co.uk Finnlay K - Whole Again: https://FinnlayK.lnk.to/WHOLEAGAINLIVE As Adam and Dan said, don't miss out on all of our extra content, we've got one of the best value Patreons in the game. An extra 90+ minute episode every week plus loads of bonus content such as the now infamous Lockdown Lock-ins, the Nashville & Amsterdam specials and our Ghost Hunts! What are you waiting for? Sign up now at https://patreon.com/haveawordpod​ Get subscribed to Have A Word Highlights: https://youtube.com/haveawordhighlights Listen to Finn's new EP: https://finnlayk.lnk.to/AllInYourMind Thanks to this week's sponsors: NordVPN | https://nordvpn.com/haveaword EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/haveaword Try it risk-free now with a 30-day money-back guarantee Lovehoney | https://lovehoney.co/word_podcast Love how you love and take 20% off sitewide to unlock sexual happiness and discover a happier you with promo code: AFF-WORD20 Saily | https://saily.com/haveaword Download SAILY in your app store and use our code HAVEAWORD at checkout to get an exclusive 15% off your first purchase or go to https://saily.com/haveaword 🌍 ADAM ROWE and DAN NIGHTINGALE are two award winning comedians from Liverpool & Preston, respectively. They are two of the UK's most highly regarded stand-ups and have both performed all over the world. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/1786097136455-e86330eb-ca08-43ff-8f6c-fd6a35d27ac8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/660d348bf844f70016bf5fd1/e/6a7518c863fe58021e020da9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "129566511",
+      "itunes_duration": "2:14:57",
+      "speakers": [
+        "Dan Nightingale",
+        "Adam Rowe"
+      ],
+      "topics": [
+        "harry",
+        "stachini",
+        "word",
+        "adam",
+        "carl"
+      ]
+    },
     {
       "key": "86f9e1c247f28364f5113f04faa499ac0e1e3292",
       "title": "#392 with Chris Higgins & Hatty Preston - Have A Word w/Adam, Dan & Carl",
@@ -9054,6 +9077,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-08 — #393 with Harry Stachini - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-08-01 — #392 with Chris Higgins & Hatty Preston - Have A Word w/Adam, Dan & Carl — speakers: Chris Higgins, Hatty Preston, Dan Nightingale, Adam Rowe
 - 2026-07-25 — #391 with The Boys - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-07-18 — #390 with Paddy Young - Have A Word w/Adam, Dan & Carl — speakers: Paddy Young, Dan Nightingale, Adam Rowe

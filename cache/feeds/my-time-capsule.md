@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-08-07T00:14:43+00:00`
-- checked_at: `2026-08-07T00:14:43+00:00`
-- etag: `"djEuMi4wOjE3ODYwNTczNTkzMTg="`
+- fetched_at: `2026-08-10T02:34:11+00:00`
+- checked_at: `2026-08-10T02:34:11+00:00`
+- etag: `"djEuMi4wOjE3ODYzMTY1NTkyNzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-08-07T00:14:43+00:00",
+  "fetched_at": "2026-08-10T02:34:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "810f214bad2ae448d5e88229c72eeeb3813f1830",
+      "title": "Anthony Head Tribute",
+      "published_at": "2026-08-09T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/anthony-head-tribute",
+      "description": "A look back at Ep. 7 with Mike's old friend, Anthony Head, who died in June. From Buffy The Vampire Slayer, Ted Lasso, Motherland, Merlin, The Iron Lady and so much more. Our love to his family, friends and all who loved him. To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a6b57f00bf0e6212fe24113/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "77780552",
+      "itunes_duration": "1:04:48",
+      "speakers": [
+        "Anthony Head Tribute",
+        "Anthony Head"
+      ],
+      "topics": [
+        "anthony",
+        "head",
+        "tribute"
+      ]
+    },
     {
       "key": "ff3b2371a26529490d1d3700dbf1b2b524b8321a",
       "title": "Ep. 599 - Cecily Hitchcock - A raising star of British comedy making her Edinburgh Fringe debut",
@@ -13202,6 +13223,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-09 — Anthony Head Tribute — speakers: Anthony Head Tribute, Anthony Head
 - 2026-08-06 — Ep. 599 - Cecily Hitchcock - A raising star of British comedy making her Edinburgh Fringe debut — speakers: Edinburgh Fringe
 - 2026-08-02 — Ep. 598 - Barry from Watford - Best known for his 10 years on Steve Wright in the Afternoon on BBC Radio 2 — speakers: Steve Wright
 - 2026-07-30 — My Time Capsule The Dig - Ep. 13 - With Tim Bentinck (David Archer in BBC Radio 4's, The Archers.) — speakers: Tim Bentinck, David Archer

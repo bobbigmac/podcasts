@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-08-07T00:14:43+00:00`
-- checked_at: `2026-08-07T00:14:43+00:00`
-- last_modified: `Fri, 07 Aug 2026 00:06:38 GMT`
+- fetched_at: `2026-08-10T02:34:11+00:00`
+- checked_at: `2026-08-10T02:34:11+00:00`
+- last_modified: `Mon, 10 Aug 2026 00:07:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-07T00:14:43+00:00",
+  "fetched_at": "2026-08-10T02:34:11+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "0c1f06034a6e859db521658e8a12dd4dc1d3b48b",
+      "title": "Frank’s New Friends!",
+      "published_at": "2026-08-10T00:00:00+00:00",
+      "link": null,
+      "description": "Frank is joined in Edinburgh by comedian Vittorio Angelone and playwright Bryony Kimmings. Frank’s got new friends, Vittorio’s landed his first acting job, and Bryony doesn't do hugs. If you want to message the show, email us at FrankOffTheRadio@AvalonUK.com or WhatsApp us on 07457 417 769 Frank Skinner: Work In Progress is at Studio One at Assembly George Square Studios 5-16 August Crowd Work with Frank Skinner is at Studio One at Assembly George Square Studios 17-26 August Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2208198737.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2430",
+      "speakers": [
+        "Frank’s New Friends",
+        "Vittorio Angelone",
+        "Bryony Kimmings",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "friends"
+      ]
+    },
     {
       "key": "cd008b733fd376289a34c4a63da765f8dd382aa2",
       "title": "Three Strangers on a Train",
@@ -24393,6 +24415,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — Frank’s New Friends! — speakers: Frank’s New Friends, Vittorio Angelone, Bryony Kimmings, Frank Skinner
 - 2026-08-07 — Three Strangers on a Train — speakers: Vittorio Angelone, Frank Skinner
 - 2026-08-05 — Frank Skinner's Radio Days: Penny Wise — speakers: Frank Skinner
 - 2026-08-03 — Plaid Suits with Thistles — speakers: Ruth Husko, Frank Skinner

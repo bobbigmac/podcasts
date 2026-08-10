@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-08-09T21:47:47+00:00`
-- checked_at: `2026-08-09T21:47:47+00:00`
-- last_modified: `Sun, 09 Aug 2026 21:21:05 GMT`
+- fetched_at: `2026-08-10T02:34:11+00:00`
+- checked_at: `2026-08-10T02:34:11+00:00`
+- last_modified: `Sun, 09 Aug 2026 23:10:13 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-09T21:47:47+00:00",
+  "fetched_at": "2026-08-10T02:34:11+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "bf1146c10619709c6e0093f67464adf690fb081a",
+      "title": "Himesh Patel: Starring In The Odyssey, Working With Matt Damon, And Life After EastEnders",
+      "published_at": "2026-08-09T23:01:00+00:00",
+      "link": null,
+      "description": "What did Matt Damon say to Himesh after they finished filming The Odyssey? In this week's episode, Romesh is joined by Emmy and Screen Actors Guild Award-nominated actor, Himesh Patel. You may know him as Tamwar Masood from EastEnders , but Himesh has since appeared in Danny Boyle’s Yesterday and Christopher Nolan’s Tenet , and now he’s in one of this year’s biggest films - The Odyssey . Himesh shares what it’s like working on a Christopher Nolan movie and what the challenges are of shooting in IMAX. Plus, we talk BAFTA parties with Idris Elba, hanging out with Leonardo DiCaprio, and acting with Ed Sheeran. There’s also a question from Shanthi and we find out how Himesh does in a game of Misquoted. It’s a jelly of a podcast…don’t forget to like and subscribe! A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 03:41 The Odyssey 05:59 A gift for Himesh 10:38 On being a movie star 13:04 Matt Damon 14:23 On filming for IMAX 19:05 CGI in films 25:05 On working with Christopher Nolan 27:33 On EastEnders 33:58 Ethnic representation on TV 36:07 Life since EastEnders 37:46 Damned with Jo Brand 39:46 Two Dosas 41:52 Yesterday with Danny Boyle and Ed Sheeran 44:54 Family 48:36 A question from Shanthi 50:50 High In The Clouds with Paul McCartney and Idris Elba 52:22 On Shanthi and Romesh 53:40 X-Files 56:29 Misquoted 01:06:28 An exclusive from Himesh 01:09:53 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c4d5edd4-927c-11f1-9e8b-e39b48c7f7d1/image/e08e3f2d20b3400be67636867cef72a3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7189755373.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4450",
+      "speakers": [
+        "Matt Damon",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "himesh",
+        "patel",
+        "odyssey",
+        "working",
+        "matt",
+        "damon",
+        "life",
+        "eastenders"
+      ]
+    },
     {
       "key": "d92385840edc56b7e9fe7d423113f283175a8754",
       "title": "Romesh & Shanthi React To Idris Elba's Apology",
@@ -2100,6 +2126,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-09 — Himesh Patel: Starring In The Odyssey, Working With Matt Damon, And Life After EastEnders — speakers: Matt Damon, Romesh Ranganathan
 - 2026-08-05 — Romesh & Shanthi React To Idris Elba's Apology — speakers: Idris Elba, Romesh Ranganathan
 - 2026-08-02 — Max Fosh: Going Viral, YouTube and Being Posh — speakers: Max Fosh, Romesh Ranganathan
 - 2026-07-29 — The Chili Oil Special — speakers: Oil Mastermind, Romesh Ranganathan
