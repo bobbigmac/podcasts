@@ -2,10 +2,10 @@
 
 - slug: `all-killa-no-filla`
 - source: `https://allkillanofilla.libsyn.com/rss`
-- fetched_at: `2026-06-22T12:25:33+00:00`
-- checked_at: `2026-06-22T12:25:33+00:00`
-- etag: `"d7549ebf29f3f6473e58f0bcd2c9ff84"`
-- last_modified: `Mon, 22 Jun 2026 05:40:26 GMT`
+- fetched_at: `2026-08-10T19:16:05+00:00`
+- checked_at: `2026-08-10T19:16:05+00:00`
+- etag: `"ad09a6eb3b1c5a3889855925aa8a4949"`
+- last_modified: `Mon, 10 Aug 2026 16:54:33 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://allkillanofilla.podomatic.com",
   "description": "Join comedians Rachel Fairburn and Kiri Pritchard - McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it.",
   "image_url": "https://static.libsyn.com/p/assets/f/7/f/0/f7f0f9cb9da4b5bb16c3140a3186d450/All_Killa_logo_copy.png",
-  "fetched_at": "2026-06-22T12:25:33+00:00",
+  "fetched_at": "2026-08-10T19:16:05+00:00",
   "owners": [
     "Kiri Pritchard-McLean",
     "Rachel Fairburn"
@@ -29,6 +29,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "46a873a3f220c15b5fa171a21784665887ce5f44",
+      "title": "All Killa No Filla - Episode 132 - Miyazaki Tsutomu",
+      "published_at": "2026-08-10T16:52:00+00:00",
+      "link": "https://allkillanofilla.libsyn.com/all-killa-no-filla-episode-132-miyazaki-tsutomu",
+      "description": "Join comedians Rachel Fairburn and Kiri Pritchard-McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it.hard-McLean as they explore a shared passion, serial killers. Each episode the pair will talk all things murder and macabre and have a right laugh doing it. Episode 132 is - regrettably - Miyazaki Tsutomu, a horrible little man who earned his nickname \"The Little Girl Murderer\" Trigger warning, it's one of the grimmest we've done... For those who do soldier through, treat yourself by hearing about Rachel's worst local shop and Kiri's impressive Scatman riff.",
+      "image_url": "https://static.libsyn.com/p/assets/1/a/3/1/1a311ae89d8e077c16c3140a3186d450/All_Killa_title_card-20260810-0gkom8bqvj.jpg",
+      "enclosure_url": "https://traffic.libsyn.com/secure/allkillanofilla/All_Killa_No_Filla_-_Episode_132_-_Miyazaki_Tsutomu1.mp3?dest-id=459476",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "111610674",
+      "itunes_duration": "01:17:02",
+      "speakers": [
+        "Rachel Fairburn",
+        "Kiri Pritchard-McLean"
+      ],
+      "topics": [
+        "killa",
+        "filla",
+        "miyazaki",
+        "tsutomu"
+      ]
+    },
     {
       "key": "6fd5590e1a9b55a231afb3087b6b28d584b39405",
       "title": "All Killa No Filla - Episode 131 - Part 2 - Sara Aldrete",
@@ -4453,6 +4475,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — All Killa No Filla - Episode 132 - Miyazaki Tsutomu — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-06-22 — All Killa No Filla - Episode 131 - Part 2 - Sara Aldrete — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-06-08 — All Killa No Filla - Episode 131 - Part 1 - Sara Aldrete — speakers: Rachel Fairburn, Kiri Pritchard-McLean
 - 2026-05-04 — All Killa No Filla - Episode 130 - Neville Heath — speakers: Rachel Fairburn, Kiri Pritchard-McLean
