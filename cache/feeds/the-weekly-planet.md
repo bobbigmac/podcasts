@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-08-07T13:38:13+00:00`
-- checked_at: `2026-08-07T13:38:13+00:00`
-- etag: `"djEuMi4wOjE3ODYxMDk0Mzk1MDI="`
+- fetched_at: `2026-08-10T04:53:18+00:00`
+- checked_at: `2026-08-10T04:53:18+00:00`
+- etag: `"djEuMi4wOjE3ODYzMzYyMzkyOTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-08-07T13:38:13+00:00",
+  "fetched_at": "2026-08-10T04:53:18+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "1c8628524cffc7fd1fad1c1a8e4a299d9aca0552",
+      "title": "635 Spider-Man Success & Best/Worst Comic Adaptations (Part 2)",
+      "published_at": "2026-08-10T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/635",
+      "description": "In an unprecedented move, something we almost never do we’re returning to a topic we covered just over a month ago! Best and worst comic adaptations. Plus we talk the huge success of both Spider-Man: Brand New Day and The Odyssey, the fallout from the failure of Supergirl, The Mandalorian VS Groglet and Moana live action, casting and recasting for the God of War TV series and Cyclops in the X-Men reboot, no more SPUMM, Jurassic World 5 loses its director and the death of America Squid Game, James Cameron’s next move and how it might not be Avatar 4 and more! Thanks for listening! New bonus let's play video out now for Resident Evil 2! Available to watch today for all 'Big Sandwich' members on bigsandwich.co, patreon.com/mrsundaymovies or via YouTube Memberships on youtube.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 03:58 Spider-Man:Brand New Day & The Odyssey Success 06:56 Supergirl & The Mandalorian vs Groglet Fail 09:23 Kit Connor is Cyclops in X-Men Movie 11:59 Batista as Kratos in God of War Recast 15:01 Squid Game David Fincher Series Cancelled 17:24 Gareth Edwards Exits Jurassic World Franchise 21:39 The End of SPUMM? 27:00 James Cameron Post-Avatar Future 29:19 Best/Worst Comic Adaptations (Brand New Day spoilers throughout segment) 01:09:58 What We Reading, What We Gonna Read 01:20:58 Letters, It's Time For Letters 01:28:20 Brand New Day Spoiler (skip one min when mentioned) SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a785ebeaa557e62dce46113/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "143984044",
+      "itunes_duration": "1:39:59",
+      "speakers": [
+        "Man Success",
+        "Worst Comic Adaptations",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "spider",
+        "success",
+        "best",
+        "worst",
+        "comic",
+        "adaptations"
+      ]
+    },
     {
       "key": "6ed46b6718ff1521dad86ce4987757a662afa400",
       "title": "Space Jam: A New Legacy - Caravan Of Garbage",
@@ -22842,6 +22868,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — 635 Spider-Man Success & Best/Worst Comic Adaptations (Part 2) — speakers: Man Success, Worst Comic Adaptations, James Clement, Nick Mason
 - 2026-08-07 — Space Jam: A New Legacy - Caravan Of Garbage — speakers: Space Jam, James Clement, Nick Mason
 - 2026-08-03 — 634 Spider-Man: Brand New Day — speakers: James Clement, Nick Mason
 - 2026-07-30 — Looney Tunes: Back In Action - Caravan Of Garbage — speakers: Looney Tunes, Space Jam, James Clement, Nick Mason

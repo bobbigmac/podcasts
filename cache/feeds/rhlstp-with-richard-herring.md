@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-08-09T21:47:47+00:00`
-- checked_at: `2026-08-09T21:47:47+00:00`
-- etag: `"djEuMi4wOjE3ODYzMTA4OTcxMTA="`
+- fetched_at: `2026-08-10T04:53:18+00:00`
+- checked_at: `2026-08-10T04:53:18+00:00`
+- etag: `"djEuMi4wOjE3ODYzMzA2NTkzOTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-08-09T21:47:47+00:00",
+  "fetched_at": "2026-08-10T04:53:18+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d5cebd7ff5e29fecef824903d873856dbc9a1b0b",
+      "title": "Barry Cryer (Retro) - \"The Oxfam of Comedy\"",
+      "published_at": "2026-08-10T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Ed Fringe 2011 #14 - The Oxfam of Comedy - What's that unusual atmosphere in the air today? Could it be genuine reverence. Rich is joined by one of his absolute comedy heroes, Barry Cryer and is trying to be on his best behaviour. Barry's butterfly brain means he has a story about everyone and everything that gets mentioned from Nicholas Parsons to Stewart Lee and Jack Benny to Richard Pryor. He also comes up with the best answer yet to the Keith Allen Question (as it is known in parliament). So just sit back and listen to a comedy legend (which is pretty much that all Rich does in this episode) and find out who's really the king of Edinburgh. Rich has also just been offered an advert where he'd have to live in a perspex box for three days (he may not take it). What a lovely way to spend the afternoon. See RHLSTP on tour http://richardherring.com/rhlstpt/tour SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1786310277728-ca621fdf-d9a7-4044-b3f2-47bcd3fa7b00.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a78edec237988582e34208f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24894066",
+      "itunes_duration": "51:51",
+      "speakers": [
+        "Barry Cryer",
+        "Richard Herring"
+      ],
+      "topics": [
+        "barry",
+        "cryer",
+        "retro",
+        "oxfam",
+        "comedy"
+      ]
+    },
     {
       "key": "4e0aa0974026a18aefda29b712d77de1f765a586",
       "title": "Lucy Porter on Middle Aged Women Get Sh*t Done - Book Club",
@@ -23514,6 +23537,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — Barry Cryer (Retro) - "The Oxfam of Comedy" — speakers: Barry Cryer, Richard Herring
 - 2026-08-07 — Lucy Porter on Middle Aged Women Get Sh*t Done - Book Club — speakers: Lucy Porter, Done Richard, Richard Herring
 - 2026-08-05 — Tom Neenan - "Cyberman Having a Fag" — speakers: Tom Neenan Cyberman Having, Richard Herring
 - 2026-08-04 — Jimmy Cricket (Retro) - "Come Closer To The Screen" — speakers: Jimmy Cricket, Come Closer, Richard Herring

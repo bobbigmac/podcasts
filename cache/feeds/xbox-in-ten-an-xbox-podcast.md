@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-08-03T10:04:50+00:00`
-- checked_at: `2026-08-03T10:04:50+00:00`
-- etag: `"ba67439634a1fd599265488bf9de28c6"`
-- last_modified: `Mon, 03 Aug 2026 04:19:41 GMT`
+- fetched_at: `2026-08-10T04:53:18+00:00`
+- checked_at: `2026-08-10T04:53:18+00:00`
+- etag: `"ebcc9e7cdca726705d60db4de06c7532"`
+- last_modified: `Mon, 10 Aug 2026 04:12:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-08-03T10:04:50+00:00",
+  "fetched_at": "2026-08-10T04:53:18+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,34 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2ae77b2ff6e9ca40c7acc32284471aa15e6f7259",
+      "title": "Grand Theft Auto VI: An Extended Look Premiering on Netflix + Game Play Reveal! - (Xbox In Ten: An Xbox Podcast - Ep. 376)",
+      "published_at": "2026-08-10T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/grand-theft-auto-vi-an-extended-look-premiering-on-netflix-game-play-reveal-xbox-in-ten-an-xbox-podcast-ep-376",
+      "description": "Week of: 8-3-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/7/5/1/5/7515b847013047dc16c3140a3186d450/376.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/376.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14529808",
+      "itunes_duration": "10:18",
+      "speakers": [
+        "Netflix Game Play Reveal",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "grand",
+        "theft",
+        "auto",
+        "extended",
+        "netflix",
+        "game",
+        "play",
+        "reveal",
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "eb88feb47c26a570d047342bcf687b37e80e96ad",
       "title": "Xbox's Top 4 Priorities For Growth After Revenue for the Year Declined by $1.7 Billion - (Xbox In Ten: An Xbox Podcast - Ep. 375)",
@@ -9458,6 +9486,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — Grand Theft Auto VI: An Extended Look Premiering on Netflix + Game Play Reveal! - (Xbox In Ten: An Xbox Podcast - Ep. 376) — speakers: Netflix Game Play Reveal, Brandon Rosa
 - 2026-08-03 — Xbox's Top 4 Priorities For Growth After Revenue for the Year Declined by $1.7 Billion - (Xbox In Ten: An Xbox Podcast - Ep. 375) — speakers: Year Declined, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-07-27 — Original XBOX Backwards Compatibility on PC is Here! - (Xbox In Ten: An Xbox Podcast - Ep. 374) — speakers: Backwards Compatibility, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-07-20 — New Fallout Games (PLURAL) ... Finally Coming - (Xbox In Ten: An Xbox Podcast - Ep. 373) — speakers: New Fallout Games, Finally Coming, Xbox Gaming News, Fun Fact, Brandon Rosa

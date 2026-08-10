@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-08-03T10:04:50+00:00`
-- checked_at: `2026-08-03T10:04:50+00:00`
-- etag: `"03f52567697835702c1f5e3b8eb8a578"`
-- last_modified: `Mon, 03 Aug 2026 04:00:05 GMT`
+- fetched_at: `2026-08-10T04:53:18+00:00`
+- checked_at: `2026-08-10T04:53:18+00:00`
+- etag: `"36a65ba780f0d8e4dc7cd3fac1241b21"`
+- last_modified: `Mon, 10 Aug 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-08-03T10:04:50+00:00",
+  "fetched_at": "2026-08-10T04:53:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,22 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "059e0718e0c75a5a006a8dd1b373bcad9b38d907",
+      "title": "Just a Minute",
+      "published_at": "2026-08-10T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p39g7z",
+      "description": "We're back with a bang this week with some of our toughest subjects to date. They include my advice for a blind date, I refuse to go back to..., and the last time I made a citizen's arrest. Plus who makes the classic repetition mistake of saying BBC? This Comedy of the Week features the first episode of series 97 of Just a Minute. Host: Sue Perkins Players: Paul Merton, Lucy Porter, Rachel Parris, Gyles Brandreth Producer: Georgia Keating Executive Producer: James Robinson Production Coordinator: Jodie Charman Production Manager: Katie Baum Sound Editor: Marc Willcox Additional material by Angela Channell An EcoAudio certified production. A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p39fnv.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27488000",
+      "itunes_duration": "1718",
+      "speakers": [],
+      "topics": [
+        "minute"
+      ]
+    },
     {
       "key": "ae77177a307021227c05d31ee92e093f0fc0b17c",
       "title": "Best Medicine",
@@ -993,25 +1009,6 @@
         "bins",
         "border"
       ]
-    },
-    {
-      "key": "a1e578cc48d2d7f1de2ccfc35cfed2390b4b7083",
-      "title": "Crybabies Present...",
-      "published_at": "2025-08-04T08:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lv0dbz",
-      "description": "Jeremy Moleskine is the biggest writer in bawdy greetings cards. So when his car veers off the road, his number one fan is on hand to nurse him back to health. But when R&R turns into B&B (belittling and bludgeoning), Jeremy’s agent must track him down with the help of incarcerated lunatic, Clinton Scards. Brace yourself for a psychological thriller as Crybabies bring the big screen to your normal sized radio. To hear more episodes from this series search \"Crybabies Present\" on BBC Sounds. Written and performed by Michael Clarke, James Gault & Ed Jones. Featuring Chiara Goldsmith Production Co-ordinator - Laura Shaw Sound Design by David Thomas and Victoria Freund Producer - Benjamin Sutton Executive Producer - Joe Nunnery A Boffola Pictures production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lv0d13.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27856000",
-      "itunes_duration": "1741",
-      "speakers": [
-        "Jeremy Moleskine"
-      ],
-      "topics": [
-        "crybaby",
-        "present"
-      ]
     }
   ]
 }
@@ -1020,6 +1017,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — Just a Minute
 - 2026-08-03 — Best Medicine — speakers: Michelle Wolf
 - 2026-07-27 — Current-ish — speakers: Lucy Porter, John Tothill, Kyrah Gray, Amy Annette
 - 2026-07-20 — Sunil Patel: An Idiot's Guide To Living Forever — speakers: Sunil Patel, Comedian Sunil Patel
@@ -1070,4 +1068,3 @@
 - 2025-08-25 — The Edinburgh Comedy Awards Gala 2025
 - 2025-08-18 — Stuart Mitchell's Cost of Dying — speakers: Stuart Mitchell
 - 2025-08-11 — Oliver Callan Bins the Border — speakers: Oliver Callan Bins, Oliver Callan
-- 2025-08-04 — Crybabies Present... — speakers: Jeremy Moleskine
