@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-08T18:57:57+00:00`
-- checked_at: `2026-08-08T18:57:57+00:00`
-- etag: `"djEuMi4wOjE3ODYyMDQ4MzkzNzM="`
+- fetched_at: `2026-08-10T16:12:32+00:00`
+- checked_at: `2026-08-10T16:12:32+00:00`
+- etag: `"djEuMi4wOjE3ODYzNzMzNzYwNDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-08T18:57:57+00:00",
+  "fetched_at": "2026-08-10T16:12:32+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "012c6c206e85662d633478c81bde474b50834c92",
+      "title": "Are we living under “woke Blue Labour”?",
+      "published_at": "2026-08-10T14:49:35+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/are-we-living-under-woke-blue-labour",
+      "description": "Andy Burnham’s vision – to reground the Labour party in a sense of place, tradition and belonging – began over a decade ago, rising from the rubble of the Blair and Brown years. Off the back of the party’s 2010 defeat, figures now key to his government argued that Labour had become too centralised; too detached from working class voters. Now, Burnham wants to revive “community” as both a value and a means of reforming the UK. Is this the era of “Woke Blue Labour”? Anoosh Chakelian is joined by editor-in-chief Tom McTague. Read: https://www.newstatesman.com/politics/2026/08/are-we-living-under-woke-blue-labour LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1786372924970-5aeec9df-5b4f-4922-ac84-3f9ef749ed3c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a79d9dc93157a140978296e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84542650",
+      "itunes_duration": "43:56",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "blue",
+        "labour"
+      ]
+    },
     {
       "key": "a79aee1350868149b67e9d777125303cb2e89f2f",
       "title": "Andy Burnham's North Sea drilling dilemma | Weekly roundup",
@@ -32034,6 +32055,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — Are we living under “woke Blue Labour”? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-08-08 — Andy Burnham's North Sea drilling dilemma | Weekly roundup — speakers: Andy Burnham, Jeremy Clarkson, Anoosh Chakelian, Oli Dugmore
 - 2026-08-06 — Why did Kemi Badenoch allow an ex neo-Nazi to stand? — speakers: Andy Burn, Anoosh Chakelian, Oli Dugmore
 - 2026-08-03 — Is Zack Polanski too "online"? — speakers: Zack Polanski, Anoosh Chakelian, Oli Dugmore
