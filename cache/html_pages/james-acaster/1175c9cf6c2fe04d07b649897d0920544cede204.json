@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/james-acaster/?page=7",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/james-acaster/?page=7",
-  "fetched_at": "2026-08-10T08:03:41+00:00",
+  "fetched_at": "2026-08-10T10:36:00+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": null,
   "episodes": [
+    {
+      "key": "6c02c86a376a457be699e6fdf58aabce8029019a",
+      "guid": "e1397d04-10e2-4129-8f72-7f98a632055f",
+      "title": "James Acaster (31st May)",
+      "published_at": "2024-05-31T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/james-acaster-31st-may/",
+      "description": "Join James and his studio guests as they throw caution to the wind and allow us access to their musical skeletons in the closet.",
+      "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1717175022-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=e1397d04-10e2-4129-8f72-7f98a632055f&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "84beb98990ec11c477ec4ec60dc6219ffeb2e75f",
       "guid": "a938ec06-9c86-4b37-b0ad-7557482deaf8",
