@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-08-03T10:04:50+00:00`
-- checked_at: `2026-08-03T10:04:50+00:00`
-- etag: `"116fcc-6582173f88def"`
-- last_modified: `Mon, 03 Aug 2026 09:49:23 GMT`
+- fetched_at: `2026-08-10T08:03:41+00:00`
+- checked_at: `2026-08-10T08:03:41+00:00`
+- etag: `"11784e-658acc046d7e2"`
+- last_modified: `Mon, 10 Aug 2026 08:00:43 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-08-03T10:04:50+00:00",
+  "fetched_at": "2026-08-10T08:03:41+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e8c8d85ad2306dfc9d22d1488ed9ec231f176fae",
+      "title": "42 Calippos - S2, Ep.3",
+      "published_at": "2026-08-10T08:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Jenny and Jack revisit A Pistachio Eclair so that Jenny can see how Joe Wilkinson, Jon Richardson, Doc Brown, Katherine Ryan and Richard Osman go about impressing the mayor of Chesham. Also discussed; what to put on a computer desktop, whether or not you should watch the end credits of Taskmaster (and if this one should have deserved a BAFTA), countries that do and don't have bandstands, and the only known in-studio refusal to watch a task. Send all your homework suggestions, Series 22 predictions, and general Taskmaster thoughts to fans@taskmaster.tv.",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/62c9b311-a3f1-4bc3-a4f9-ab4c90f6d97b.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=62c9b311-a3f1-4bc3-a4f9-ab4c90f6d97b",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62595626",
+      "itunes_duration": "01:01:23",
+      "speakers": [
+        "Joe Wilkinson",
+        "Jon Richardson",
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "calippos"
+      ]
+    },
     {
       "key": "d2f87267aeabfef8cc13ad24906560e9c67252f4",
       "title": "Go Hard on the Gore - S8, Ep. 5",
@@ -4766,6 +4787,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — 42 Calippos - S2, Ep.3 — speakers: Joe Wilkinson, Jon Richardson, Jenny Eclair, Jack Bernhardt
 - 2026-08-03 — Go Hard on the Gore - S8, Ep. 5 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-07-27 — Remembering Carol - S6, Ep. 8 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-07-20 — Trip Nip Slip - S9, Ep.8 — speakers: Jenny Eclair, Jack Bernhardt
