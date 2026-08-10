@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-08-03T15:14:57+00:00`
-- checked_at: `2026-08-03T15:14:57+00:00`
-- last_modified: `Mon, 03 Aug 2026 11:00:56 GMT`
+- fetched_at: `2026-08-10T13:43:21+00:00`
+- checked_at: `2026-08-10T13:43:21+00:00`
+- last_modified: `Mon, 10 Aug 2026 11:00:33 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-03T15:14:57+00:00",
+  "fetched_at": "2026-08-10T13:43:21+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "7a9011572d8140a9b92c2a0980e45178a3aefa43",
+      "title": "495. The Architecture of Autocracy with Isabella Segalovich",
+      "published_at": "2026-08-10T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 495. The Architecture of Autocracy Presented by Deborah Frances-White with special guest Isabella Segalovich Recorded 5 August 2026 via Riverside. Released 10 August. The Guilty Feminist theme composed by Mark Hodge. The Storytelling Leadership Academy is an eight-week online course for leaders who need to find their voice and tell their story. For more information and to register, click here. https://www.the-spontaneity-shop.com/storytelling-academy/ More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about our Isabella Segalovich https://www.instagram.com/interstellar_isabellar https://www.patreon.com/isasegalovich https://www.interstellarisabellar.com For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Lindsey Mendick in Conversation . https://www.tickettailor.com/events/tkestudio/2325923%0A Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ DreamDate . https://www.edfringe.com/tickets/whats-on/deborah-frances-white-dreamdate Newcastle Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1996315094186 Newcastle Guilty Feminist live show, 5 September . https://www.live.org.uk/whats-on/guilty-feminist London Podcast Festival . https://www.kingsplace.co.uk/whats-on/podcast/the-guilty-feminist-10/ Vision Festival . https://www.ticketsource.com/booking/t-xdymnyp Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f188eb14-9444-11f1-b48d-f765e00dcb35/image/0f6d13f133f849dbf95fb0f59cf8a14d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL4779855091.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5759",
+      "speakers": [
+        "Isabella Segalovich",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "architecture",
+        "autocracy",
+        "isabella",
+        "segalovich"
+      ]
+    },
     {
       "key": "fc891a87ad9cd949dad23341e1ff15ab606dc11e",
       "title": "494. Ventnor Fringe with Felicity Ward and special guests Cody Pevreall and Ben Holmes",
@@ -18380,6 +18402,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — 495. The Architecture of Autocracy with Isabella Segalovich — speakers: Isabella Segalovich, Deborah Frances-White
 - 2026-08-03 — 494. Ventnor Fringe with Felicity Ward and special guests Cody Pevreall and Ben Holmes — speakers: Cody Pevreall, Ben Holmes, Fringe Presented, Deborah Frances-White
 - 2026-07-27 — 493. Edinburgh Previews with Alice Fraser, Katie Pritchard, Rosie Holt and Jess Robinson — speakers: Edinburgh Previews, Alice Fraser, Katie Pritchard, Rosie Holt, Jess Robinson, Deborah Frances-White
 - 2026-07-20 — 492. Edinburgh Previews with Sara Barron, Reb Day, Freya Parker and Anna Leong Brophy — speakers: Edinburgh Previews, Sara Barron, Freya Parker, Anna Leong Brophy, Deborah Frances-White
