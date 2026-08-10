@@ -34427,6 +34427,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:10255ce55356",
+        "feed_title": "Audiobooks Transform Commutes and Workouts Into Opportunities for Unforgettable Literary Discovery Daily",
+        "source_rss_url": "https://mpd.esound.space/it/id/208/index.xml",
+        "dedupe_key": "adf349b711f1f623e00af7093893e6f088b56f06",
+        "episode_key": "adf349b711f1f623e00af7093893e6f088b56f06",
+        "title": "The Fairy Tale Fan Club Audiobook by Richard Ayoade",
+        "published_at": "2024-09-05T02:58:13Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobook for free : https://litupbook.com/free Title: The Fairy Tale Fan ClubSubtitle: Legendary Letters Collected by C.C. CecilyCategories: Adaption, Fiction, Folklore, For Children, HumorAuthor: Richard AyoadeNarrator: Wes Anderson, Lydia Fox, Richard AyoadePublisher: W. F. Howes LtdRelease date: 09-0",
+        "audio_url": "https://samples.audible.fr/bk/howe/010792/bk_howe_010792_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-fairy-tale-fan-club-audiobook-by-richard-ayoade/id6799743100?i=1000781735507&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:12f71d7484ee",
         "feed_title": "Get Hooked On: This Game-Changing Full Audiobook For Story Seekers.",
         "source_rss_url": "https://thebookvoice.com/audible/user/498/index.xml",
@@ -35232,6 +35254,50 @@
         "description": "Please visit https://thebookvoice.com/podcasts/2/audible/201402 to listen full audiobooks.\n    Publisher's Summary: Gordy LaSure's passionate about film. He eats film, he drinks film, and sometimes he'll even watch a film. But most of all, he loves talking about film, and how they'd be a shit-ton better if only people ",
         "audio_url": "https://samples.audible.com/bk/adbl/052482/bk_adbl_052482_sample.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/richard-ayoades-the-grip-of-film/id1881532192?i=1000752423346&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:31e5a1689fdb",
+        "feed_title": "Audiobooks Make Commutes, Workouts, and Chores More Entertaining and Inspiring Instantly",
+        "source_rss_url": "https://yvb.esound.space/it/id/9/index.xml",
+        "dedupe_key": "22412928bd85c3aa53a84f4295b69bb3439570b3",
+        "episode_key": "22412928bd85c3aa53a84f4295b69bb3439570b3",
+        "title": "The Grip of Film Audiobook by Richard Ayoade",
+        "published_at": "2020-03-10T11:36:25Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobook for free : https://litupbook.com/free Title: The Grip of FilmCategories: Entertainment, Funny, Performing ArtsAuthor: Richard AyoadeNarrator: Jesse Eisenberg, Jon Korkes, Richard AyoadePublisher: Audible StudiosRelease date: 03-10-2020Language: EnglishSummary:You SLUG the guy.\nYou KISS the dame",
+        "audio_url": "https://samples.audible.co.uk/bk/adbl/052482/bk_adbl_052482_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-grip-of-film-audiobook-by-richard-ayoade/id6799703820?i=1000781598641&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e6866587cc0a",
+        "feed_title": "Audiobooks Transform Ordinary Listening Into Extraordinary Literary Adventures Worth Sharing Forever",
+        "source_rss_url": "https://dvk.esound.space/it/id/194/index.xml",
+        "dedupe_key": "f54031d3fc839450db6b30ccc6382830274602b9",
+        "episode_key": "f54031d3fc839450db6b30ccc6382830274602b9",
+        "title": "Ayoade on Ayoade Audiobook by Richard Ayoade",
+        "published_at": "2020-03-10T02:02:41Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobook for free : https://litupbook.com/free Title: Ayoade on AyoadeCategories: Biography, Celebrity, Funny, Performing ArtsAuthor: Richard AyoadeNarrator: Richard AyoadePublisher: Audible StudiosRelease date: 03-10-2020Language: EnglishSummary:In this book, Richard Ayoade - actor, writer, director, a",
+        "audio_url": "https://samples.audible.co.uk/bk/adbl/052483/bk_adbl_052483_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ayoade-on-ayoade-audiobook-by-richard-ayoade/id6799741093?i=1000781887735&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
