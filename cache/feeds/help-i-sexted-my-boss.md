@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-08-07T07:40:28+00:00`
-- checked_at: `2026-08-07T07:40:28+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RZd056ZzROREF3TWpjPTo6c2F4ZXNz"`
+- fetched_at: `2026-08-11T07:36:27+00:00`
+- checked_at: `2026-08-11T07:36:27+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RZME1qUTBNemszTVRjPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-08-07T07:40:28+00:00",
+  "fetched_at": "2026-08-11T07:36:27+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f9cc8194d3b6bbd847042274322dcbad9bb1fc61",
+      "title": "Help I've Grown A Moustache | And I Found Dad's Secret Account…",
+      "published_at": "2026-08-11T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-ive-grown-a-moustache-and-i-found-dads-secret-account",
+      "description": "Jordan's latest moustache has been attracting plenty of attention, although perhaps not for the reasons he'd hoped, while William's recent etiquette video has the internet wondering whether common sense really needed its own series? There's also plenty of dilemmas to get through, including what to do when your dad's testicles unexpectedly appear on Twitter and how to politely tell people to stop asking when you're reproducing. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1786375928625-cbe79099-4763-410b-9d4b-061f0d4a71ac.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a7495a6e489b8bb91b7fdc5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=KGMVatSxmqXnyNpcf7AcxJuK7Ft7PC7VDrVtU-IThzY",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43909537",
+      "itunes_duration": "45:44",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "moustache",
+        "secret",
+        "account"
+      ]
+    },
     {
       "key": "770c8703b1ac966c0fadbb66c33adb5e8e6b5197",
       "title": "Things To Do Before You’re 40 | And William the Undertaker",
@@ -14828,6 +14849,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-11 — Help I've Grown A Moustache | And I Found Dad's Secret Account… — speakers: William Hanson, Jordan North
 - 2026-08-07 — Things To Do Before You’re 40 | And William the Undertaker — speakers: William Hanson, Jordan North
 - 2026-08-04 — Help That’s Not Beauty OR The Beast | Uno’s Gone Woke — speakers: Not Beauty, Gone Woke How, William Hanson, Jordan North
 - 2026-07-31 — Campest Modes Of Transport | And Jordan’s Magic Carpet — speakers: William Hanson, Jordan North
