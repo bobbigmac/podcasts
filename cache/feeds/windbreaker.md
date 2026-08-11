@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-08-11T02:27:12+00:00`
-- checked_at: `2026-08-11T02:27:12+00:00`
-- etag: `W/"42184-8+x9r1i/UdE+sm0Su6NIdIOhWcc"`
+- fetched_at: `2026-08-11T16:10:26+00:00`
+- checked_at: `2026-08-11T16:10:26+00:00`
+- etag: `W/"428bb-gzNXG/o6pmzc30yuL3OQr19pcOU"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-08-11T02:27:12+00:00",
+  "fetched_at": "2026-08-11T16:10:26+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "0762d66c02ee26f0c2d6f310ae8d66532ef84eb4",
+      "title": "The Obscure Games We Love | Windbreaker Podcast",
+      "published_at": "2026-08-11T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/The-Obscure-Games-We-Love--Windbreaker-Podcast-e3n93e7",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about the obscure video games they love, a topic voted for by our wonderful Patrons. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9195842950.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91811125",
+      "itunes_duration": "01:34:36",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "obscure",
+        "games",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "eaa2960d7aa0c715e8ddc5430c637bd06c7172df",
       "title": "Final Fantasy IX and the Struggle of Going Back to Your Roots | Windbreaker Podcast",
@@ -3130,6 +3152,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-11 — The Obscure Games We Love | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-08-04 — Final Fantasy IX and the Struggle of Going Back to Your Roots | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-07-28 — Asymmetric Horror Games And Why They're Good | Windbreaker Podcast — speakers: Jesse Galena, Yahtzee Croshaw, Marty Sliva
 - 2026-07-21 — Let’s Make Yahtzee and JM8 Choose Their Favorites | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
