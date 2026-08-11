@@ -33805,6 +33805,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:39c514b07695",
+        "feed_title": "Life and Art from FT Weekend",
+        "source_rss_url": "https://feeds.acast.com/public/shows/7a01c9e5-3627-4113-bb75-a1162bceb72d",
+        "dedupe_key": "ce026e87ce52556b835477ffae429cbe2fc11d61",
+        "episode_key": "ce026e87ce52556b835477ffae429cbe2fc11d61",
+        "title": "It's the sharing economy, stupid! Plus comedian Nish Kumar",
+        "published_at": "2017-03-09T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "No doubt Uber and Airbnb are convenient, but what kind of impact does the so-called 'sharing economy' have on culture? Then, Nish Kumar on the bizarre experience of seeing his image become an internet meme called 'Confused Muslim' (he’s not a Muslim, but he was confused) Hosted on Acast. See acast.com/privacy for more ",
+        "audio_url": "https://sphinx.acast.com/ft-everything-else/itsthesharingeconomy-stupid-pluscomediannishkumar/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/its-the-sharing-economy-stupid-plus-comedian-nish-kumar/id1179847741?i=1000382390653&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "RHLSTP with Richard Herring",
         "source_rss_url": "https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef",
@@ -35926,6 +35948,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8c6fed008479",
+        "feed_title": "At The Bar With…Podcast",
+        "source_rss_url": "https://anchor.fm/s/104fff460/podcast/rss",
+        "dedupe_key": "9eaaa5e0e076f80b8075a59516d8f38d1cb24060",
+        "episode_key": "9eaaa5e0e076f80b8075a59516d8f38d1cb24060",
+        "title": "Ep. 8 | WILD STORIES from the Road! ft. Pro Guitarist Dave Gorman",
+        "published_at": "2025-09-11T19:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Episode 8 - Legendary Guitarist Dave Gorman\n\nFeatured guest: Dave Gorman has been a professional musician since the early 1990's. Dave has been a featured guitar player in bands such as: Mad Atchu; Lemon Trophy; Pop Rocks; and currently, VERGE. \n\nTune in as we talk music, touring life, family life, and career life.\n\n#p",
+        "audio_url": "https://anchor.fm/s/104fff460/podcast/play/104808308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-5-30%2F403026028-44100-2-f469c2854079d.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-8-wild-stories-from-the-road-ft-pro-guitarist-dave-gorman/id1817553397?i=1000715064066&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:7ef1e2b845b0",
         "feed_title": "The Infinite Monkey Cage",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
@@ -37153,6 +37197,28 @@
         "description": "Listen to this audiobook in full for free on https://hotaudiobook.com/free \n\nID: 241476\n\nTitle: Too Much Information: Or: Can Everyone Just Shut Up for a Moment, Some of Us Are Trying to Think\n\nAuthor: Dave Gorman\n\nNarrator: Dave Gorman\n\nFormat: Unabridged\n\nLength: 06:33:47\n\nLanguage: English\n\nRelease date: 09-04-14\n\nP",
         "audio_url": "https://samples.audible.com/bk/rhuk/001807/bk_rhuk_001807_sample.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/too-much-information-or-can-everyone-just-shut-up-for/id1812254411?i=1000706056376&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Dave Gorman"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e8d0eb9ea0c5",
+        "feed_title": "Dive Into Expertly Narrated Audiobooks with Easy Access",
+        "source_rss_url": "https://booksreader.space/bk/4698/index.xml",
+        "dedupe_key": "35fe2583b378c7667c964865599b3637595a36ac",
+        "episode_key": "35fe2583b378c7667c964865599b3637595a36ac",
+        "title": "Listen to Too Much Information: Or: Can Everyone Just Shut Up for a Moment, Some of Us Are Trying to Think by Dave Gorman",
+        "published_at": "2014-09-04T12:53:21Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "#ads Stream any unabridged audiobook of your choice with premium access by starting your trial on:https://booksreader.space/ak-4698/Title: Too Much Information: Or: Can Everyone Just Shut Up for a Moment, Some of Us Are Trying to Think\n Author: Dave Gorman\n Narrator: Dave Gorman\n Format: Unabridged Audiobook\n Length: 6",
+        "audio_url": "https://booksreader.space/9781473502345.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/listen-to-too-much-information-or-can-everyone-just/id6800303280?i=1000782722524&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
