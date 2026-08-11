@@ -12336,6 +12336,28 @@
         "feed_slug": "external:apple:f20ee0f99a70",
         "feed_title": "Why Is Harriet Crying?",
         "source_rss_url": "https://audioboom.com/channels/4875366.rss",
+        "dedupe_key": "198e9b43899eae980fdd1a782a54391b3fa7a1d1",
+        "episode_key": "198e9b43899eae980fdd1a782a54391b3fa7a1d1",
+        "title": "The Halloweep Special (with Heidi Regan)",
+        "published_at": "2019-10-31T00:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Boo. This Halloween, Harriet Kemsley and Sunil Patel are joined by Haunted Heidi Regan to talk ghosts, polterghosts and Iron Men.Heidi's brilliant BBC Radio 4 special, \"Overthinker\" is now available via BBC Sounds and all good podcast platforms: https://www.bbc.co.uk/sounds/play/p07s2v8mOur show is also now available a",
+        "audio_url": "https://audioboom.com/posts/7408476.mp3?modified=1598477502&sid=4875366&source=rss",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-halloweep-special-with-heidi-regan/id1180971779?i=1000455546542&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f20ee0f99a70",
+        "feed_title": "Why Is Harriet Crying?",
+        "source_rss_url": "https://audioboom.com/channels/4875366.rss",
         "dedupe_key": "75eadcdb360388e58e24cf840c629c599313f2bc",
         "episode_key": "75eadcdb360388e58e24cf840c629c599313f2bc",
         "title": "The Next Generation (with Sean McLoughlin)",
