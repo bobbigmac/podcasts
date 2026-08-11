@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-08-11T07:36:27+00:00`
-- checked_at: `2026-08-11T07:36:27+00:00`
-- last_modified: `Tue, 11 Aug 2026 05:03:46 GMT`
+- fetched_at: `2026-08-11T10:10:22+00:00`
+- checked_at: `2026-08-11T10:10:22+00:00`
+- last_modified: `Tue, 11 Aug 2026 10:09:01 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-11T07:36:27+00:00",
+  "fetched_at": "2026-08-11T10:10:22+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -32,7 +32,7 @@
       "title": "Sex Playlists - A Deep Dive",
       "published_at": "2026-08-10T23:05:00+00:00",
       "link": null,
-      "description": "What makes a good sex playlist? How should we talk about Ariana Grande? Which unlikely star should become the next James Bond? Marina and Richard have done a deep dive into sex playlists. Who is the undisputed king of music in the bedroom? And is there a scientific formula for the perfect lovemaking anthem? Ariana Grande is taking a break from public life following scrutiny about her weight and appearance. Is the discourse around the pop star doing more harm than good? New polling from Focal Data reveals who British and American audiences want as the next James Bond. But are the public’s instincts ever right when it comes to casting 007? This episode contains discussion of eating disorders. If you’re worried about your own or someone else’s health, you can contact Beat, the UK’s eating disorder charity on 0808 801 0677 or beateatingdisorders.org.uk . The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Looking for extra value from your spending? You can bank on Lloyds to help your money go further. Search Lloyds Rewards in your app. Summer sale is here: get an annual membership for a third off with code SUMMER26. That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Adam Thornton and Louis Mealing Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "What makes a good sex playlist? How should we talk about Ariana Grande? Which unlikely star should become the next James Bond? Marina and Richard have done a deep dive into sex playlists. Who is the undisputed king of music in the bedroom? And is there a scientific formula for the perfect lovemaking anthem? Ariana Grande is taking a break from public life following scrutiny about her weight and appearance. Is the discourse around the pop star doing more harm than good? New polling from Focal Data reveals who British and American audiences want as the next James Bond. But are the public’s instincts ever right when it comes to casting 007? This episode contains discussion of eating disorders. If you’re worried about your own or someone else’s health, you can contact Beat , the UK’s eating disorder charity on 0808 801 0677. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Looking for extra value from your spending? You can bank on Lloyds to help your money go further. Search Lloyds Rewards in your app. Summer sale is here: get an annual membership for a third off with code SUMMER26. That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Adam Thornton and Louis Mealing Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": null,
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5522026009.mp3",
       "enclosure_type": "audio/mpeg",

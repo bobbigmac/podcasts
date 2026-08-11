@@ -2,9 +2,9 @@
 
 - slug: `best-smooth-jazz-host-rod-lucas`
 - source: `https://bsj.podomatic.com/rss2.xml`
-- fetched_at: `2026-08-10T21:57:35+00:00`
-- checked_at: `2026-08-10T21:57:35+00:00`
-- etag: `"2287b7d89a247c76020781cc177f44f8-gzip"`
+- fetched_at: `2026-08-11T10:10:22+00:00`
+- checked_at: `2026-08-11T10:10:22+00:00`
+- etag: `"2287b7d89a247c76020781cc177f44f8"`
 - last_modified: `Mon, 03 Aug 2026 08:52:20 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://www.podomatic.com/podcasts/bsj",
   "description": "Best Smooth Jazz (BSJ) from London UK is a refreshingly 'chilled' Smooth Jazz radio show - all instrumental. Host Rod Lucas plays a 'cool' selection of new & familiar Smooth Jazz instrumentals. Easy listening Grooves with a Soul & R&B feel and Latin vibes. Jazz with fun feel. London's New Cool Smooth Jazz. Soul lovers will enjoy the grooves too.",
   "image_url": "https://assets.podomatic.net/ts/00/ea/86/marcushayes001/1400x1400_15737164.jpg",
-  "fetched_at": "2026-08-10T21:57:35+00:00",
+  "fetched_at": "2026-08-11T10:10:22+00:00",
   "owners": [
     "Rod Lucas"
   ],
