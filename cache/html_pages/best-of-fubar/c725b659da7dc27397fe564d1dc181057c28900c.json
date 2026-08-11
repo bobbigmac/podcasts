@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=14",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=14",
-  "fetched_at": "2026-08-10T02:34:11+00:00",
+  "fetched_at": "2026-08-11T02:27:12+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=15",
   "episodes": [
+    {
+      "key": "ce64832e36866367d0b0bc2b07187c1218556c3d",
+      "guid": "e4bcb8ca-7198-48fd-b369-4ef813aa9b13",
+      "title": "Best of FUBAR (17th July)",
+      "published_at": "2025-07-17T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-17th-july/",
+      "description": "A selection of highlights from the FUBAR vaults.",
+      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1752710636-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=e4bcb8ca-7198-48fd-b369-4ef813aa9b13&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "e4a9c0a7b6cdf80011dec9990491080edebc5dc8",
       "guid": "cda3dde8-7af6-4687-b9f6-a991de73cf93",
@@ -380,19 +393,6 @@
       "description": "A selection of highlights from the FUBAR vaults.",
       "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1750205056-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=a70c9da7-86de-44b9-a4c6-515c65ad70fa&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "3f2d533cfef1287a0db400046f6b59936a7ff4c2",
-      "guid": "9a4cb2a4-60b0-412b-a506-09e7e01ae739",
-      "title": "Best of FUBAR (17th June)",
-      "published_at": "2025-06-17T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-17th-june/",
-      "description": "A selection of highlights from the FUBAR vaults.",
-      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1750118696-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=9a4cb2a4-60b0-412b-a506-09e7e01ae739&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null

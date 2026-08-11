@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-10T02:34:11+00:00`
-- checked_at: `2026-08-10T02:34:11+00:00`
-- etag: `"djEuMi4wOjE3ODYzMjcyMzk1NDU="`
+- fetched_at: `2026-08-11T02:27:12+00:00`
+- checked_at: `2026-08-11T02:27:12+00:00`
+- etag: `"djEuMi4wOjE3ODY0MTM2NDA3NDQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-10T02:34:11+00:00",
+  "fetched_at": "2026-08-11T02:27:12+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "b729f9df8da4e1461abcb10c511c02d7aff99c22",
+      "title": "S16 Ep 885: David’s Test Match Special",
+      "published_at": "2026-08-11T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-885-davids-test-match-special",
+      "description": "David’s just had a magical day at the Trent Bridge Test Match in Nottingham, made even more special as he and his family met Ben Stokes outside the grounds beforehand. Little did they know that later that day Ben would be announcing his retirement from international cricket. So it was a big day for all concerned - and David wants to tell Joe everything about it. They also discuss direct messages, getting autographs, the wonderful Andy Zaltzman and if they could ever blag a job as a sports commentator. For those in the know, this episode was obviously recorded a little earlier in the summer. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a72d3572ad3094117f7abc5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "47505658",
+      "itunes_duration": "49:29",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "test",
+        "match",
+        "special"
+      ]
+    },
     {
       "key": "13e6dea28371b04c9c44e00c9c378d25e402f1ed",
       "title": "S16 Ep 884 Vault Mondays: Sunglasses and Nigel Farage",
@@ -15874,6 +15896,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-11 — S16 Ep 885: David’s Test Match Special — speakers: Joe Wilkinson, David Earl
 - 2026-08-10 — S16 Ep 884 Vault Mondays: Sunglasses and Nigel Farage — speakers: Joe Wilkinson, David Earl
 - 2026-08-07 — S16 Ep 883: Listener’s Mailbag: Chatabands and A Fox’s Tale — speakers: Joe Wilkinson, David Earl
 - 2026-08-06 — S16 Ep 882: A VIP Pass To The Cure - Part 2 — speakers: Joe Wilkinson, David Earl
