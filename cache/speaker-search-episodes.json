@@ -34427,6 +34427,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:4efc083e02c8",
+        "feed_title": "Portable Spoken Tales Accompanying Listeners During Productive Daily Activities",
+        "source_rss_url": "https://uza.audiobookzap.com/it/id/441/index.xml",
+        "dedupe_key": "64d2eb498e2aafd2979a0e1a5f421ae80cc3e105",
+        "episode_key": "64d2eb498e2aafd2979a0e1a5f421ae80cc3e105",
+        "title": "The Unfinished Harauld Hughes Audiobook by Richard Ayoade",
+        "published_at": "2024-10-01T05:23:42Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobook for free : https://audiobookzap.com/free Title: The Unfinished Harauld HughesCategories: Entertainment, Funny, TheaterAuthor: Richard AyoadeNarrator: Noel Fielding, Sally Hawkins, Stephen Merchant, David Mitchell, Richard Ayoade, Chris Morris, Lydia FoxPublisher: Faber & FaberRelease date: 10-0",
+        "audio_url": "https://samples.audible.co.uk/bk/fabe/000525/bk_fabe_000525_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-unfinished-harauld-hughes-audiobook-by-richard-ayoade/id6800059040?i=1000782302988&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell",
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:aeb491bc67d2",
         "feed_title": "Fuel Your Mind With The Full Audiobook Everyone Is Talking About — So Immersive!",
         "source_rss_url": "https://thebookvoice.com/audible/user/531/index.xml",
@@ -39215,6 +39238,29 @@
         "description": "Please visit https://thebookvoice.com/podcasts/2/audible/83715 to listen full audiobooks.\n    Title: The Unfinished Harauld Hughes\nAuthor: Richard Ayoade\nNarrator: Chris Morris, David Mitchell, Lydia Fox, Noel Fielding, Richard Ayoade, Sally Hawkins, Stephen Merchant\nFormat: mp3\nLength: 4 hrs and 13 mins\nRelease date: ",
         "audio_url": "https://samples.audible.com/bk/fabe/000525/bk_fabe_000525_sample.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/the-unfinished-harauld-hughes-by-richard-ayoade/id1850256112?i=1000734806321&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell",
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:4efc083e02c8",
+        "feed_title": "Portable Spoken Tales Accompanying Listeners During Productive Daily Activities",
+        "source_rss_url": "https://uza.audiobookzap.com/it/id/441/index.xml",
+        "dedupe_key": "64d2eb498e2aafd2979a0e1a5f421ae80cc3e105",
+        "episode_key": "64d2eb498e2aafd2979a0e1a5f421ae80cc3e105",
+        "title": "The Unfinished Harauld Hughes Audiobook by Richard Ayoade",
+        "published_at": "2024-10-01T05:23:42Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Listen to full audiobook for free : https://audiobookzap.com/free Title: The Unfinished Harauld HughesCategories: Entertainment, Funny, TheaterAuthor: Richard AyoadeNarrator: Noel Fielding, Sally Hawkins, Stephen Merchant, David Mitchell, Richard Ayoade, Chris Morris, Lydia FoxPublisher: Faber & FaberRelease date: 10-0",
+        "audio_url": "https://samples.audible.co.uk/bk/fabe/000525/bk_fabe_000525_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-unfinished-harauld-hughes-audiobook-by-richard-ayoade/id6800059040?i=1000782302988&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

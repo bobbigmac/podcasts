@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-08-10T19:16:05+00:00`
-- checked_at: `2026-08-10T19:16:05+00:00`
-- etag: `"djEuMi4wOjE3ODYzODY5NTAxMTI="`
+- fetched_at: `2026-08-12T02:43:38+00:00`
+- checked_at: `2026-08-12T02:43:38+00:00`
+- etag: `"djEuMi4wOjE3ODY0OTAzMTk0MDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
-  "fetched_at": "2026-08-10T19:16:05+00:00",
+  "fetched_at": "2026-08-12T02:43:38+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,29 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "1b18d7ed673e06365ce82505fe6b52a66e21dfd6",
+      "title": "Two Tangerines In A Sack",
+      "published_at": "2026-08-11T23:18:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/two-tangerines-in-a-sack",
+      "description": "The first half of the 2nd night for the Socially Distant Sports Bar live at the New Theatre, Cardiff. Join Mike Bubbins, Elis James and Steff Garrero to find out what you missed if you weren't quick enough to get a ticket. Unsurprisingly Mike reveals a few \"interesting\" facts about himself, which one of the trio would never run for political office and find out what \"two decent sized tangerines in a sack\" actually means Steff: Don’t fuck with Huw Ware https://www.instagram.com/reel/DV4Vmh4Cpqf/?igsh=MTRzdmZxeWo4bDlmOA== Mike: Enter Rubberman https://www.instagram.com/reel/DVhcwPwjO1K/?igsh=ZnlhdmdmZzhya2Zm Elis: Irish Commentary https://www.instagram.com/reel/CvIUnE3NatA/?igsh=MTJxaWpiNnBybjB0bg%3D%3D 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a79ecafcfc0396cc19e857a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43810481",
+      "itunes_duration": "45:38",
+      "speakers": [
+        "Socially Distant Sports Bar",
+        "New Theatre",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "tangerine",
+        "sack"
+      ]
+    },
     {
       "key": "218bc77add161edd4520e7ee91c61151f47e2d4e",
       "title": "Tree-ing: Pint Size",
@@ -15611,6 +15634,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-11 — Two Tangerines In A Sack — speakers: Socially Distant Sports Bar, New Theatre, Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-08 — Tree-ing: Pint Size — speakers: Pint Size Welcome, Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-06 — Race Of The Century — speakers: Socially Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-04 — Ziplock Full Of Moustache — speakers: Elis James, Mike Bubbins, Steff Garrero

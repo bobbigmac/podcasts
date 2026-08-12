@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-11T02:27:12+00:00`
-- checked_at: `2026-08-11T02:27:12+00:00`
-- etag: `"djEuMi4wOjE3ODY0MTM2NDA3NDQ="`
+- fetched_at: `2026-08-12T02:43:38+00:00`
+- checked_at: `2026-08-12T02:43:38+00:00`
+- etag: `"djEuMi4wOjE3ODY1MDAwMzk5NDQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-11T02:27:12+00:00",
+  "fetched_at": "2026-08-12T02:43:38+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,25 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "37b385469e01a84ac6f8b589e803ac812905c128",
+      "title": "S16 Ep 886: The Man Who Leaves No Trace",
+      "published_at": "2026-08-12T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-886-the-man-who-leaves-no-trace",
+      "description": "On today’s show, David tells Joe about a suspicious ‘cold-call’ gardener he’s just been speaking with, they both recount tales of rouge traders they’ve used in the past and David attempts some online investigations. Then, as Joe’s been staying in Bristol for the past few days where he went to art college in his early 20s, he really noticed the different way he experienced the city as a 51 year old. So you can expect lots of introspection about getting old - and some chat about window cleaning too. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a72d3a135f6dd01fb0d2587/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41441489",
+      "itunes_duration": "43:10",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "trace"
+      ]
+    },
     {
       "key": "b729f9df8da4e1461abcb10c511c02d7aff99c22",
       "title": "S16 Ep 885: David’s Test Match Special",
@@ -15896,6 +15915,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — S16 Ep 886: The Man Who Leaves No Trace — speakers: Joe Wilkinson, David Earl
 - 2026-08-11 — S16 Ep 885: David’s Test Match Special — speakers: Joe Wilkinson, David Earl
 - 2026-08-10 — S16 Ep 884 Vault Mondays: Sunglasses and Nigel Farage — speakers: Joe Wilkinson, David Earl
 - 2026-08-07 — S16 Ep 883: Listener’s Mailbag: Chatabands and A Fox’s Tale — speakers: Joe Wilkinson, David Earl

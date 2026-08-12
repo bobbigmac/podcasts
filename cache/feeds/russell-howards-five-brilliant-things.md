@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-08-05T03:31:21+00:00`
-- checked_at: `2026-08-05T03:31:21+00:00`
-- last_modified: `Wed, 05 Aug 2026 01:00:00 GMT`
+- fetched_at: `2026-08-12T02:43:38+00:00`
+- checked_at: `2026-08-12T02:43:38+00:00`
+- last_modified: `Wed, 12 Aug 2026 01:07:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-05T03:31:21+00:00",
+  "fetched_at": "2026-08-12T02:43:38+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d5caa239de3ab7273be73fe0269670bf216ba53f",
+      "title": "Dan Tiernan",
+      "published_at": "2026-08-12T01:00:00+00:00",
+      "link": null,
+      "description": "Award-winning stand-up comic Dan Tiernan is here! If you thought you’d heard about torturous writing process before, just wait until you hear Dan’s extraordinary stories. He’s been to some tricky places and come back. He’s also a strong poker player and tells another cracker about winning BIG in a tournament in slightly awkward circumstances. All good things! Dan’s out there right now with his new show ‘Quartz and All’ and it’s about the crystal madness he talks about in this podcast. If that’s anything to go by it will be a very very entertaining hour of bonkers and heart-felt comedy. It’s in Edinburgh now, and then after August out on tour across the UK and Ireland. You can get tickets for that, check dates, and watch Dan’s previous special by going HERE . That’s all for today’s crystal-bathing session, hope your aura is all shiny and new. Thanks for checking in and double thanks for reading to the end of the blurb. I often feel this bit of writing will be read by nobody, but here you are, validating me. I FEEL SEEN. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5d86d8ea-9499-11f1-bce7-0f33b79248e8/image/27315bccc2ae80dbe9f39b592c04a72f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR6050307571.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3479",
+      "speakers": [
+        "Dan Tiernan Award",
+        "Dan Tiernan",
+        "Russell Howard"
+      ],
+      "topics": [
+        "tiernan"
+      ]
+    },
     {
       "key": "6fd3599d8f27632d57f293678ffa4df7a201df8e",
       "title": "Paddy Young",
@@ -3315,6 +3335,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — Dan Tiernan — speakers: Dan Tiernan Award, Dan Tiernan, Russell Howard
 - 2026-08-05 — Paddy Young — speakers: Paddy Yo, Russell Howard
 - 2026-08-01 — July's Moments of the Month — speakers: Russell Howard
 - 2026-07-29 — Ian Moore — speakers: Ian Moore Death, Ian Moore, Russell Howard

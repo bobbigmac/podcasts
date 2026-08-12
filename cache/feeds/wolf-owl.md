@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-08-05T03:31:21+00:00`
-- checked_at: `2026-08-05T03:31:21+00:00`
-- last_modified: `Tue, 04 Aug 2026 12:14:35 GMT`
+- fetched_at: `2026-08-12T02:43:38+00:00`
+- checked_at: `2026-08-12T02:43:38+00:00`
+- last_modified: `Tue, 11 Aug 2026 08:17:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-05T03:31:21+00:00",
+  "fetched_at": "2026-08-12T02:43:38+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,51 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b4b490ab7f6bd4756663cf082b851209453274bb",
+      "title": "The Traitors, Therapy and Bathroom Etiquette",
+      "published_at": "2026-08-10T23:01:00+00:00",
+      "link": null,
+      "description": "How do you deal with people who don't like you? The Wolf and the Owl join us again to talk about therapy, cortisol, managing stress and accepting that sometimes people just aren't going to vibe with you. From an insight into Tom’s bedtime routine, to discussing the dangers of leaving your emotional \"tabs\" open and an important debate on poo etiquette, it's a varied episode packed with role plays, scenarios and advice. Plus, Tom pushes Rom to spill some of the The Traitors tea and discuss why spoilers might be the worst thing about modern TV. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 01:01 A sleep situation 06:25 Cortisol conversation 08:26 Therapy talk 11:40 A role play on speaking up 16:54 A stomach rumble interruption 17:26 Wrong words and Trumpism 19:45 Tom’s bathroom window beef 21:43 An awkward scenario 25:31 Poo etiquette 33:30 Method acting 35:04 How Tom deals with haters 38:28 Tom wants to talk Traitors 42:23 Not being liked 45:59 Tom’s Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3a79ed4a-94d7-11f1-a38e-bfa47b759deb/image/2bfbd3450d20adf98c49f60a2846aec5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT5254078784.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3102",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "traitors",
+        "therapy",
+        "bathroom",
+        "etiquette"
+      ]
+    },
+    {
+      "key": "694fa90abf1981683db9682abeeb3bd3b24dc390",
+      "title": "Best Friends, Burglaries and Weddings",
+      "published_at": "2026-08-06T23:01:00+00:00",
+      "link": null,
+      "description": "Can you have a best friend over 30? On this week's Wolf & Owl, we're back in the inbox answering your emails, from wedding planning headaches, to poo robberies, to one of life's biggest questions: can you still have a best friend post-30? The guys tackle an unforgettable burglar dilemma, (yes, it involves someone being caught on the toilet), and somehow end up talking about goats and Tom's big issue with them along the way. Keep sending your questions, dilemmas and voice notes to wolfowlpod@gmail.com. A Ranga Bee Production in partnership with Platform Media. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5285046a-90c2-11f1-87a6-dfd2a9c18a8c/image/7bd2db86f74c099d74d09058158fd960.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT1256967171.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1426",
+      "speakers": [
+        "Best Friends",
+        "Weddings Can",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "friend",
+        "burglaries",
+        "weddings"
+      ]
+    },
     {
       "key": "86de21766a9f0b5a473ee7c678440c41e5259baa",
       "title": "Food Poisoning, Paris & Parenting",
@@ -7287,6 +7332,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — The Traitors, Therapy and Bathroom Etiquette — speakers: Romesh Ranganathan, Tom Davis
+- 2026-08-06 — Best Friends, Burglaries and Weddings — speakers: Best Friends, Weddings Can, Romesh Ranganathan, Tom Davis
 - 2026-08-03 — Food Poisoning, Paris & Parenting — speakers: Romesh Ranganathan, Tom Davis
 - 2026-07-30 — Confrontations, Condiments and The Paranormal — speakers: Romesh Ranganathan, Tom Davis
 - 2026-07-27 — Ross Kemp, Josh Widdicombe & The Celebrity Purge — speakers: Ross Kemp, Romesh Ranganathan, Tom Davis

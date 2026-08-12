@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-08-10T02:34:11+00:00`
-- checked_at: `2026-08-10T02:34:11+00:00`
-- last_modified: `Mon, 10 Aug 2026 00:07:04 GMT`
+- fetched_at: `2026-08-12T02:43:38+00:00`
+- checked_at: `2026-08-12T02:43:38+00:00`
+- last_modified: `Wed, 12 Aug 2026 00:07:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-10T02:34:11+00:00",
+  "fetched_at": "2026-08-12T02:43:38+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "195931ff1ac30b989ea88dc1889b519de6a9fa54",
+      "title": "Frank Skinner's Radio Days: Rubber Cookie",
+      "published_at": "2026-08-12T00:00:00+00:00",
+      "link": null,
+      "description": "The team are back in 2014 and also in Manchester! Frank’s broken a tooth, Emily’s been in Texas and the gang chat April fools! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/089be86c-9592-11f1-ba6a-435750a7a8f3/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5935447021.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2789",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "rubber",
+        "cookie"
+      ]
+    },
     {
       "key": "0c1f06034a6e859db521658e8a12dd4dc1d3b48b",
       "title": "Frank’s New Friends!",
@@ -24415,6 +24437,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — Frank Skinner's Radio Days: Rubber Cookie — speakers: Frank Skinner
 - 2026-08-10 — Frank’s New Friends! — speakers: Frank’s New Friends, Vittorio Angelone, Bryony Kimmings, Frank Skinner
 - 2026-08-07 — Three Strangers on a Train — speakers: Vittorio Angelone, Frank Skinner
 - 2026-08-05 — Frank Skinner's Radio Days: Penny Wise — speakers: Frank Skinner

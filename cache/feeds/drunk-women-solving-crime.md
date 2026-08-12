@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-08-10T21:57:35+00:00`
-- checked_at: `2026-08-10T21:57:35+00:00`
-- etag: `"djEuMi4wOjE3ODYzOTAzMjUxMzk="`
+- fetched_at: `2026-08-12T02:43:38+00:00`
+- checked_at: `2026-08-12T02:43:38+00:00`
+- etag: `"djEuMi4wOjE3ODY0OTI4MzkzNjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-08-10T21:57:35+00:00",
+  "fetched_at": "2026-08-12T02:43:38+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "b39927c6165aa2866df18c914b89900d4aa817ec",
+      "title": "DWSC LIVE: With Tamsyn Kelly",
+      "published_at": "2026-08-12T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-tamsyn-kelly",
+      "description": "The Drunk Women are reminiscing about the lovely time had by all when they appeared in Cambridge one balmy night in June 2026, and you too can hop down memory lane, by listening to today’s episode which happened to be recorded there, featuring the brilliant, Tamsyn Kelly as special guest; who tickled us all pink with a story from the most romantic city in the world, where even the crooks indulge in their own brand of pre-crime foreplay. We then stick around in Gay Paree so the team can crack the case of a perp who, along with his crafty mates, managed to propel himself into the bad books of the law. Finally, we hear from a member of the audience who may or may not have flown all the way from the land down under to tell us about the time a Nonna’s promise meant absolutely nada. See you next week for the second show from Cambridge, with the hilarious Abby Govindan! The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in September, October AND November. Full info and tickets HERE. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a7a1b61c399196b5156e2d9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "91304284",
+      "itunes_duration": "1:03:23",
+      "speakers": [
+        "Tamsyn Kelly",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "tamsyn",
+        "kelly"
+      ]
+    },
     {
       "key": "842d86e7523b856093f1ab377e0edb31ecef6e1d",
       "title": "Michelle Wolf, of Wall St",
@@ -11455,6 +11477,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — DWSC LIVE: With Tamsyn Kelly — speakers: Tamsyn Kelly, Hannah George, Taylor Glenn
 - 2026-08-05 — Michelle Wolf, of Wall St — speakers: Michelle Wolf, Wall St Hello, Hannah George, Taylor Glenn
 - 2026-07-29 — The Strong Arm of the Law, with Chelsea Birkby — speakers: Chelsea Birkby, Hannah George, Taylor Glenn
 - 2026-07-24 — Survival Mode, with Candace Bryan — speakers: Survival Mode, Candace Bryan, Hannah George, Taylor Glenn
