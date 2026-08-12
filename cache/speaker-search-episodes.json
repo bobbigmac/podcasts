@@ -22492,6 +22492,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:24cca4cb9158",
+        "feed_title": "My Favourite Takeaway",
+        "source_rss_url": "https://feeds.acast.com/public/shows/63765e917a9ff1001063fcd6",
+        "dedupe_key": "7932e3f59a4bc4edcf7b821e0d49cb0879b961f3",
+        "episode_key": "7932e3f59a4bc4edcf7b821e0d49cb0879b961f3",
+        "title": "Lou Sanders",
+        "published_at": "2023-04-12T12:51:03Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In one of our favourite episodes ever, the supremely funny comedian and podcaster Lou Sanders joins Tom and Cim from her flat in North London with a selection of vegan sushi. From the moment she shares her extraordinary exchange with the delivery driver on the night of her appearance, this is riotous good fun, We go in",
+        "audio_url": "https://sphinx.acast.com/p/open/s/63765e917a9ff1001063fcd6/e/6436a18b3b34ac001193b502/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lou-sanders/id1585744551?i=1000608615535&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:bb2224026702",
         "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
         "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",
