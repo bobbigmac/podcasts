@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "0240b5838efa9aa722e176f1432b6500b2c9740e",
+        "episode_key": "0240b5838efa9aa722e176f1432b6500b2c9740e",
+        "title": "Bella Ramsey",
+        "published_at": "2026-08-12T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Actor, Emmy-nominee, ‘The Last of Us’ star and future ‘Celebrity Traitors’ contestant Bella Ramsey is this week’s Off Menu guest. And people who write those quirky things on food packaging; you have a fan. \nIf you’re listening on Apple Podcasts you can now watch this episode too.\nBella Ramsey stars in ‘Sunny Dancer’ wh",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a68b9852670d42f37ae5385/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bella-ramsey/id1442950743?i=1000782853453&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b0c3a03d01c8",
         "feed_title": "Late Night with Seth Meyers Podcast",
         "source_rss_url": "https://rss.art19.com/late-night-with-seth-meyers-podcast",
@@ -5855,6 +5878,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "0240b5838efa9aa722e176f1432b6500b2c9740e",
+        "episode_key": "0240b5838efa9aa722e176f1432b6500b2c9740e",
+        "title": "Bella Ramsey",
+        "published_at": "2026-08-12T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Actor, Emmy-nominee, ‘The Last of Us’ star and future ‘Celebrity Traitors’ contestant Bella Ramsey is this week’s Off Menu guest. And people who write those quirky things on food packaging; you have a fan. \nIf you’re listening on Apple Podcasts you can now watch this episode too.\nBella Ramsey stars in ‘Sunny Dancer’ wh",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a68b9852670d42f37ae5385/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bella-ramsey/id1442950743?i=1000782853453&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
