@@ -39846,6 +39846,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:448c9d709e16",
+        "feed_title": "Master Your Day With Studio-Quality Audiobooks Anywhere, Anytime Instantly",
+        "source_rss_url": "https://booksreader.space/bk/4688/index.xml",
+        "dedupe_key": "d000f9be536b400522dfde93860bb582c51d1dfe",
+        "episode_key": "d000f9be536b400522dfde93860bb582c51d1dfe",
+        "title": "Unruly: A History of England's Kings and Queens : David Mitchell",
+        "published_at": "2023-09-28T12:53:12Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "#ads Stream any unabridged audiobook of your choice with premium access by starting your trial on:https://booksreader.space/ak-4688/Title: Unruly: A History of England's Kings and Queens\n Author: David Mitchell\n Narrator: David Mitchell\n Format: Unabridged Audiobook\n Length: 11 hours 39 minutes\n Release date: September",
+        "audio_url": "https://booksreader.space/9780241605929.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/unruly-a-history-of-englands-kings-and/id6799816039?i=1000781341684&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:4d90c5633300",
         "feed_title": "Experience High-Fidelity Audiobook Titles in Historical",
         "source_rss_url": "https://mediabooks.space/bi/3926/index.xml",
@@ -41202,6 +41224,28 @@
         "description": "RHLSTP #13: David Mitchell - The Shreks of Westminster Bridge. Slightly worse for wear after having lunch with Alice Cooper at the Q Awards, Richard is delighted to welcome a man he thinks might be him from another time stream, David 'Mitch' Mitchell. He's certainly met his match in pedantry and both men accidentally r",
         "audio_url": "https://sphinx.acast.com/rhlstp/rhlstp-13-david-mitchell/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/rhlstp-13-david-mitchell/id520831548?i=1000122906035&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:59989325301c",
+        "feed_title": "Relish The Unabridged Audiobook Titles On Your Favorite Devices",
+        "source_rss_url": "https://booksreader.space/bk/4697/index.xml",
+        "dedupe_key": "ea46fa4aa6b4c88945d6a1724500066e4bc9ecab",
+        "episode_key": "ea46fa4aa6b4c88945d6a1724500066e4bc9ecab",
+        "title": "David Mitchell: Back Story (Authored by David Mitchell)",
+        "published_at": "2012-10-11T12:53:21Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "#ads Stream any unabridged audiobook of your choice with premium access by starting your trial on:https://booksreader.space/ak-4697/Title: David Mitchell: Back Story\n Author: David Mitchell\n Narrator: David Mitchell\n Format: Unabridged Audiobook\n Length: 9 hours 25 minutes\n Release date: October 11, 2012\n Ratings: Rati",
+        "audio_url": "https://booksreader.space/9780007468102.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-back-story-authored-by-david-mitchell/id6800303134?i=1000782718350&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
