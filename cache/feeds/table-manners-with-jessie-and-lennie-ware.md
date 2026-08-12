@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-08-05T03:31:21+00:00`
-- checked_at: `2026-08-05T03:31:21+00:00`
-- etag: `"djEuMi4wOjE3ODU4ODgwMzk0MzM="`
+- fetched_at: `2026-08-12T05:01:05+00:00`
+- checked_at: `2026-08-12T05:01:05+00:00`
+- etag: `"djEuMi4wOjE3ODY0OTI4MzkzNTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-08-05T03:31:21+00:00",
+  "fetched_at": "2026-08-12T05:01:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ef2a6bf86c2d560e23b77b72d402dfff351be9b0",
+      "title": "Second Helpings - Yungblud",
+      "published_at": "2026-08-12T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/second-helpings-yungblud",
+      "description": "(Warning, I think this guest swears more than me!) Before we entered Lockdown 2.0 in November 2020, we had the pleasure of high tea’ing with a young gentleman by the name of Yungblud at mum's. Whilst sipping on champagne and eating sausage rolls, Yungblud (real name Dominic) talks all about Hobnobs, Yorkshire tea & his mum’s Doncaster cake shop ‘Jaffa & Cakes’, named after the family sausage dog. He tells us about his rockstar lifestyle; hanging out in 'Hollyweird', nights out with Brooklyn Beckham, elephant tattoos & just wanting a pint of lager at Noma, the best restaurant in the world. Dominic has now released 2 additional albums since we met - ‘Yungblud’ & ‘Idols’ are both out now! Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1786454126508-1372255c-dd99-4429-b281-42ebc57e595e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a79ffab523b3dfcd86207bf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46563577",
+      "itunes_duration": "48:30",
+      "speakers": [
+        "Second Helpings"
+      ],
+      "topics": [
+        "second",
+        "helping",
+        "yungblud"
+      ]
+    },
     {
       "key": "1db88e952977a8227997e4044bf38fad8d25da09",
       "title": "Second Helpings - Callum Turner",
@@ -7334,6 +7354,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — Second Helpings - Yungblud — speakers: Second Helpings
 - 2026-08-05 — Second Helpings - Callum Turner — speakers: Second Helpings, Callum Turner While, Table Manners
 - 2026-07-22 — James Norton — speakers: James Norton
 - 2026-07-15 — Suki Waterhouse — speakers: Suki Waterhouse

@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-08-10T04:53:18+00:00`
-- checked_at: `2026-08-10T04:53:18+00:00`
-- etag: `"djEuMi4wOjE3ODYzMzA2NTkzOTY="`
+- fetched_at: `2026-08-12T05:01:05+00:00`
+- checked_at: `2026-08-12T05:01:05+00:00`
+- etag: `"djEuMi4wOjE3ODY1MDM0NTkzMzk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-08-10T04:53:18+00:00",
+  "fetched_at": "2026-08-12T05:01:05+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "af57249551a8522e58d36ff4d868a4a36a04a5bf",
+      "title": "Charly Clive and Ellen Robertson - \"Cheesy Sisyphus\"",
+      "published_at": "2026-08-12T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #622 - Cheesy Sisyphus - Rich is at the Podcast Room talking to some proper big TV/film stars, Charly Clive and Ellen Robertson. They talk about why the Hell they are returning to the Fringe to do a sketch show, their enduring friendship and how that informs their work together, Charly’s brain tumour and why she called it Britney and why that led to them both being called Britney, clouds in film studios, judging pizza with Steve Carrell, living another life in a coma and why Richard would only be a very specialist interest on wikifeet. See their Fringe sketch show - https://www.edfringe.com/tickets/whats-on/britney-holy-mackerel See their Fringe play https://www.edfringe.com/tickets/whats-on/jitters See RHLSTP at the Fringe/London http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Recorded at the Podcast Room Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1786457616582-6bc87bae-30fd-462c-a3f6-6785cc4180d4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a7b2e59600375257318fe75/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27383640",
+      "itunes_duration": "57:02",
+      "speakers": [
+        "Ellen Robertson",
+        "Richard Herring"
+      ],
+      "topics": [
+        "clive",
+        "ellen",
+        "robertson",
+        "cheesy",
+        "sisyphus"
+      ]
+    },
     {
       "key": "d5cebd7ff5e29fecef824903d873856dbc9a1b0b",
       "title": "Barry Cryer (Retro) - \"The Oxfam of Comedy\"",
@@ -23537,6 +23560,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — Charly Clive and Ellen Robertson - "Cheesy Sisyphus" — speakers: Ellen Robertson, Richard Herring
 - 2026-08-10 — Barry Cryer (Retro) - "The Oxfam of Comedy" — speakers: Barry Cryer, Richard Herring
 - 2026-08-07 — Lucy Porter on Middle Aged Women Get Sh*t Done - Book Club — speakers: Lucy Porter, Done Richard, Richard Herring
 - 2026-08-05 — Tom Neenan - "Cyberman Having a Fag" — speakers: Tom Neenan Cyberman Having, Richard Herring

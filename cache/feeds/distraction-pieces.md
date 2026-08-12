@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-08-12T02:43:38+00:00`
-- checked_at: `2026-08-12T02:43:38+00:00`
-- etag: `"djEuMi4wOjE3ODYzNjI0NjUyMjk="`
+- fetched_at: `2026-08-12T05:01:05+00:00`
+- checked_at: `2026-08-12T05:01:05+00:00`
+- etag: `"djEuMi4wOjE3ODY1MDQ4Mzk0MTc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-08-12T02:43:38+00:00",
+  "fetched_at": "2026-08-12T05:01:05+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6270e1ea13f641989db2f0e8c3513d819c403011",
+      "title": "20 YEARS OF PIP (Part 2) • featuring Chris Glasson & Buddy Peace! #683",
+      "published_at": "2026-08-12T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by Hardcore Listing homie and long term real life homie CHRIS GLASSON , and podcast producer / DJ / beatmaker BUDDY PEACE for the second in a 3 part series of celebration episodes! The continuation in the three part saga, on some Lord Of The Rings / Back To The Future / Godfather type ishh but right there in the middle. A lot more ground to cover here including the later stages of the music making, progressing into podcasting via radio, the London clubnight, and how the podcast itself spawned many other podcasts to follow... So much to get through - ENJOY! PIP'S PATREON PAGE if you're of a supporting nature HARCORE LISTING BUDDY SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1786361580761-b8ad4a76-e5c7-4bb2-ae30-4db636a95699.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a79b888cfc0396cc18da5b2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "127237419",
+      "itunes_duration": "52:56",
+      "speakers": [
+        "Chris Glasson"
+      ],
+      "topics": [
+        "year",
+        "chris",
+        "glasson",
+        "buddy",
+        "peace"
+      ]
+    },
     {
       "key": "0573d75e178d8e6f0f9126a5a33453cf59a9128d",
       "title": "SOUAD MEKHENNET (I Was Told To Come Alone / The Eternal Nazi) • Friday Rewind",
@@ -19361,6 +19383,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — 20 YEARS OF PIP (Part 2) • featuring Chris Glasson & Buddy Peace! #683 — speakers: Chris Glasson
 - 2026-08-07 — SOUAD MEKHENNET (I Was Told To Come Alone / The Eternal Nazi) • Friday Rewind
 - 2026-08-05 — 20 YEARS OF PIP (Part 1) • featuring Chris Glasson & Buddy Peace! #683 — speakers: Chris Glasson
 - 2026-07-31 — WIM HOF (Wim Hof Method 🥶) • Friday Rewind

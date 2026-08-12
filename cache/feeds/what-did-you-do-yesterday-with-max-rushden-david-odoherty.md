@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-08-12T02:43:38+00:00`
-- checked_at: `2026-08-12T02:43:38+00:00`
-- etag: `"djEuMi4wOjE3ODY0NzQxMDQ1Nzk="`
+- fetched_at: `2026-08-12T05:01:05+00:00`
+- checked_at: `2026-08-12T05:01:05+00:00`
+- etag: `"djEuMi4wOjE3ODY1MDM2Mzk3NTY="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-08-12T02:43:38+00:00",
+  "fetched_at": "2026-08-12T05:01:05+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "019c47bd93e9272eedc3afbd6e748f79f1e18eb5",
+      "title": "WDWDY #83.1: It is what it is... (Max's Yesterday)",
+      "published_at": "2026-08-12T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-831-it-is-what-it-is-maxs-yesterday",
+      "description": "We're doing a live show in London at Hackney Empire - Monday 7th September 2026 Tickets available HERE See you there!! In this midweek mayhem episode we find out what Max did with his yesterday... The dreaded time has come. Max has returned to Teddington. Will he see a celebrity? If you want to hear all about what David did on this exact day then you need to be 'IN IT FOR LIFE' Sign up HERE and here https://yesterdaypod.supportingcast.fm/ Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1786472795277-23327084-a421-4ea4-8e1b-f936c8b86967.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a7b6d01d6c287f9ee8db0e4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53051559",
+      "itunes_duration": "55:15",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "yesterday"
+      ]
+    },
     {
       "key": "1b1d56bda24bbc159c4a12fbc834af86655f90d5",
       "title": "S5 EP8: Andy Parsons",
@@ -3893,6 +3912,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — WDWDY #83.1: It is what it is... (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-09 — S5 EP8: Andy Parsons — speakers: Andy Parsons, Max Rushden, David O'Doherty
 - 2026-08-06 — WDYDY - Live show in London 7th Sept at Hackney Empire — speakers: Hackney Empire Hello, Hackney Empir, Max Rushden, David O'Doherty
 - 2026-08-05 — WDWDY #82.1: Home alone no pants party (David's Yesterday) — speakers: Max Rushden, David O'Doherty
