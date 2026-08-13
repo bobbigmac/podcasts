@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-08-06T09:04:55+00:00`
-- checked_at: `2026-08-06T09:04:55+00:00`
+- fetched_at: `2026-08-13T05:03:16+00:00`
+- checked_at: `2026-08-13T05:03:16+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 06 Aug 2026 04:00:41 GMT`
+- last_modified: `Thu, 13 Aug 2026 04:07:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-06T09:04:55+00:00",
+  "fetched_at": "2026-08-13T05:03:16+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3bb0f1a2ebe00888728ffc724c32dacebd6d0907",
+      "title": "Nina Conti",
+      "published_at": "2026-08-13T04:00:00+00:00",
+      "link": null,
+      "description": "This week I was joined among the sunflowers by the fabulous Nina Conti ! 🌻 Ventriloquist, writer and director, it was so lovely to catch up and reminisce over our first meeting in Edinburgh many moons ago. Nina is back up at the Fringe next week with the delightfully named Nina's C*nti Cabaret, and do also catch her brand new film Sunlight, available now on Prime Video. 🐒 We chat the snobbery of theatre, monkey business in New Mexico and the shininess of the 80s ladybird. We also briefly discuss growing drugs in our back garden, which is neither medically nor horticulturally accurate. 🐞🌱 So yes, take off that monkey suit, pour yourself a refreshing drink and settle in for another dose of Pottering. 🪴 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/98d35f96-965a-11f1-b0e6-efeac76f4ae2/image/1c1666abb6ef1a143feeb15dc4027db3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2874757336.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2663",
+      "speakers": [
+        "Nina Conti",
+        "Tom Allen"
+      ],
+      "topics": [
+        "nina",
+        "conti"
+      ]
+    },
     {
       "key": "9dff20889e4b7e6842a92bfc7f12730a7bfe11ca",
       "title": "Anna Haugh",
@@ -983,6 +1003,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-13 — Nina Conti — speakers: Nina Conti, Tom Allen
 - 2026-08-06 — Anna Haugh — speakers: Anna Haugh, Tom Allen
 - 2026-07-30 — Jake Lambert — speakers: Jake Lambert, Tom Allen
 - 2026-07-23 — A Garden Tour — speakers: Garden Tour More, Tom Allen

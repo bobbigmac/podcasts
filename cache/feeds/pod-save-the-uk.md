@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-08-06T09:04:55+00:00`
-- checked_at: `2026-08-06T09:04:55+00:00`
-- etag: `W/"b7681df47de70ce6a1eeaa7ee561cc7b"`
-- last_modified: `Thu, 06 Aug 2026 09:02:32 GMT`
+- fetched_at: `2026-08-13T05:03:16+00:00`
+- checked_at: `2026-08-13T05:03:16+00:00`
+- etag: `W/"488ba93b6fd8af154f663a7ed80f771d"`
+- last_modified: `Tue, 11 Aug 2026 05:03:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-08-06T09:04:55+00:00",
+  "fetched_at": "2026-08-13T05:03:16+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -36,7 +36,7 @@
       "link": "https://audioboom.com/posts/8936442",
       "description": "This week, it’s just Nish, Coco, and you! You asked, they answered – thanks to everyone for their questions! Nish and Coco discuss how to stay positive amidst all the current political noise, how hopeful they are about our new Prime Minister, and what their favourite films have been this year…Plus, should we publish the faces of people who earn over a certain amount of money in the UK? Also: you listen to Nish & Coco every week, now we want to hear from you! We’re launching an audience survey to hear about what you like, dislike, and want to see more of from PSUK. Guests! Live shows! Topics! Explainers! And did we mention there’s a prize draw? You’ve got to be in it to win it - so fill out the survey here: https://forms.gle/fWp9xXb6tcWhPxSm8 USEFUL LINKS Audience survey here: https://forms.gle/fWp9xXb6tcWhPxSm8 Nish’s ultimate taskmaster episode: https://www.youtube.com/watch?v=ENMjwuvNZsA CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is an Intelligence Squared production for Crooked Media. Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43775650/s=1400x1400/el=1/rt=fill.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936442.mp3?modified=1785947932&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936442.mp3?modified=1786007244&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3381",
@@ -168,7 +168,7 @@
       "link": "https://audioboom.com/posts/8923079",
       "description": "“Are you ready for this?” Following Andy Burnham’s first big policy speech since becoming an MP, and with his sights set firmly on the top job, Coco & Nish dig into his promises of regeneration, reindustrialisation, and…a new pair of running shorts. From No10 North to nationalisation and the biggest council house building programme since the postwar period, they discuss their unanswered questions and first impressions of the Manchester man offering “growth in every postcode, and hope in every heart.” Plus, they’re joined by journalist and campaigner Adele Zeynep Walton who shares her first-hand experience of the consequences of online harms. We ask whether the proposed social media ban for under-16s really gets to the heart of the problem (spoiler alert: no), and how we can truly hold the tech industry to account. Content note: this discussion includes references to suicide. USEFUL LINKS Buy Adele’s book: “Logging Off: The Human Cost of our Digital World” https://www.waterstones.com/book/logging-off/adele-zeynep-walton/9781398722941 Write to your MP and support the call for a public inquiry into the scale of harm facilitated by online suicide forums: https://mollyrosefoundation.beaconforms.com/form/90ddb8e4 https://mollyrosefoundation.org/campaigns/campaign-against-pro-suicide-forums/ GUESTS Adele Zeynep Walton CHECK OUT THESE DEALS FROM OUR SPONSORS BT: Search ‘Why BT’ to find out more. HRF Power Plays: Search Power Plays wherever you get your podcasts. WISE: https://www.wise.com Pod Save the UK is an Intelligence Squared production for Crooked Media. We’ll be doing another mailbag episode soon so get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43723864/s=1400x1400/el=1/rt=fill.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8923079.mp3?modified=1782939535&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8923079.mp3?modified=1783984569&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "4777",
@@ -631,10 +631,10 @@
       "link": "https://audioboom.com/posts/8860082",
       "description": "Prime Minister Keir Starmer’s cabinet circles the wagons as he survives another hellish week in office. One that saw the loss of his chief of staff, Morgan McSweeney, and his director of communications, Tim Allan, as the scandal over Peter Mandelson's ties to sex trafficker Jeffrey Epstein rages on. Nish and Coco are joined by Paul Holden, the “unofficial biographer” of Morgan McSweeney, to discuss his key role in the rise of Keir Starmer to power and his close relationship with Mandelson. Plus - reports that Labour Together hired a PR firm to investigate Paul and others looking into its funding under McSweeney. Also, comedian Stuart Goldsmith on the serious business of being funny about climate change and why it goes all the way to the top of British intelligence. CHECK OUT THESE DEALS FROM OUR SPONSORS AURA FRAMES https://www.auraframes.com Code: PSTUK WISE https://www.wise.com GUESTS Paul Holden, Investigative Journalist and author of The Fraud Stuart Goldsmith, Climate Comedian USEFUL LINKS The Fraud: Keir Starmer, Morgan McSweeney, and the Crisis of British Democracy https://orbooks.com/catalog/the-fraud/ Stuart Goldsmith www.stuartgoldsmith.com CREDITS Sky News / YouTube Sky News / YouTube GOP Oversight / YouTube Sky News Australia / YouTube Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43465066.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8860082.mp3?modified=1770897567&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8860082.mp3?modified=1786424626&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3316",
+      "itunes_duration": "3142",
       "speakers": [
         "Nish Kumar",
         "Coco Khan"
