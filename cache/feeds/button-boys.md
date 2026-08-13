@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-08-06T03:35:25+00:00`
-- checked_at: `2026-08-06T03:35:25+00:00`
-- last_modified: `Wed, 05 Aug 2026 23:07:43 GMT`
+- fetched_at: `2026-08-13T02:46:30+00:00`
+- checked_at: `2026-08-13T02:46:30+00:00`
+- last_modified: `Wed, 12 Aug 2026 23:08:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-06T03:35:25+00:00",
+  "fetched_at": "2026-08-13T02:46:30+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -30,6 +30,29 @@
   ],
   "episodes": [
     {
+      "key": "9d1924e19b05fb4c313904f51942f3b1fe0fbdd2",
+      "title": "Food, Glorious Food (and Drink)",
+      "published_at": "2026-08-12T23:00:00+00:00",
+      "link": null,
+      "description": "Pop on a bib and bring out your best dinnerware, as this week's theme is food and drinks. From phone booth chicken to liquid burgers for two, the Boys discuss the entire range of video game F&B. Mouthwatering meals and stomach-churning sustenance are all on the menu for today. But before that, we catch up with what they've been playing, with Sarah's discovery of a delightful point-and-click, Pierre's hungover magical chess and Glenn's determination to play a game that's more broke than woke. To follow along with the Button Boys outside the podcast: ⁠ Pierre's Edinburgh Show ⁠ Glenn's Edinburgh Show ⁠ Sarah's Edinburgh Show ⁠ BUTTON BOYS LIVE! If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Heavy Rain Until Dawn Below the Crown Duskers Lost in Play Comedy Quest Dustborn Road 96 Dark Souls Conker's Bad Fur Day Streets of Rage Golden Axe Pokémon Stadium Donkey Kong Bananza Red Faction II Resident Evil 2 The Magic School Bus Explores the Human Body Yakuza: Like a Dragon Overcooked! Portal Age of Empires Sea of Stars Final Fantasy XI Dave the Diver The Elder Scrolls V: Skyrim Dragon's Dogma 2 Final Fantasy XV Wolfenstein Wolfenstein: The New Order Kingdom Come: Deliverance Metal Gear Solid 3: Snake Eater The Sims The Sims 2 Dredge Marker 34 Yeba Stardew Valley Celeste Pac-Man Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR6423879046.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3070",
+      "speakers": [
+        "Glorious Food",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "food",
+        "glorious",
+        "drink"
+      ]
+    },
+    {
       "key": "2cd8ed671c911921edf82087e7905990f9113edc",
       "title": "The Future is Now: Times When Our Minds Were Blown",
       "published_at": "2026-08-05T23:00:00+00:00",
@@ -39,7 +62,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/NSR8092499125.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3603",
+      "itunes_duration": "3646",
       "speakers": [
         "Glenn Moore",
         "Sarah Keyworth",
@@ -1313,6 +1336,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — Food, Glorious Food (and Drink) — speakers: Glorious Food, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-08-05 — The Future is Now: Times When Our Minds Were Blown — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-07-29 — From Rags to Rupees: Money in Games — speakers: Games Unzip, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-07-22 — Good Boss, Bad Boss — speakers: Good Boss, Glenn Moore, Sarah Keyworth, Pierre Novellie

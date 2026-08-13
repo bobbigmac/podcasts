@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-08-12T02:43:38+00:00`
-- checked_at: `2026-08-12T02:43:38+00:00`
-- last_modified: `Tue, 11 Aug 2026 23:00:27 GMT`
+- fetched_at: `2026-08-13T02:46:30+00:00`
+- checked_at: `2026-08-13T02:46:30+00:00`
+- last_modified: `Wed, 12 Aug 2026 23:00:26 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-12T02:43:38+00:00",
+  "fetched_at": "2026-08-13T02:46:30+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "72e22a2e578c0dff4688ae071c448b5bbb5f918d",
+      "title": "562. The Right’s War With Itself and Burnham’s Prisons Challenge",
+      "published_at": "2026-08-12T23:00:00+00:00",
+      "link": null,
+      "description": "With Nigel Farage and Rupert Lowe trading blows, is the British right tearing itself apart, and will Kemi Badenoch destroy the Conservative Party by chasing Reform and Restore voters rather than the centre ground? With prisons at breaking point and reoffending rates soaring, why aren’t governments honest about the real causes of the crisis, or the solutions? As the Rhine falls to record lows and Germany's economy takes the hit, is this the clearest sign yet that the climate crisis is now an economic one? Join Rory and Alastair as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Johnny Mercer by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Summer sale is HERE : get an annual membership for an extra 20% off with code SUMMER26. That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Lorcan Moullier, Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4905b1a8-965a-11f1-a8af-075cbcf15223/image/384ee1cdb61bdec0846c52c53b9efefd.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7411108815.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3968",
+      "speakers": [
+        "Rupert Lowe"
+      ],
+      "topics": [
+        "right",
+        "burnham",
+        "prisons",
+        "challenge"
+      ]
+    },
     {
       "key": "765e6ce934c34a3294a31a2ce53d1421ad4e69d0",
       "title": "561. How Trump’s Chaos Keeps Splintering the World Order",
@@ -12624,6 +12645,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — 562. The Right’s War With Itself and Burnham’s Prisons Challenge — speakers: Rupert Lowe
 - 2026-08-11 — 561. How Trump’s Chaos Keeps Splintering the World Order — speakers: How Trump, Chaos Keeps Splintering, Saudi Arabia
 - 2026-08-06 — The Truth About Climate Migration – It's More Complicated Than You Think
 - 2026-08-05 — 560. Trump's Hamas Disarmament 'Deal' and Europe's FIFA Boycott

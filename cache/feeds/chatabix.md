@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-12T02:43:38+00:00`
-- checked_at: `2026-08-12T02:43:38+00:00`
-- etag: `"djEuMi4wOjE3ODY1MDAwMzk5NDQ="`
+- fetched_at: `2026-08-13T02:46:30+00:00`
+- checked_at: `2026-08-13T02:46:30+00:00`
+- etag: `"djEuMi4wOjE3ODY1ODY0Mzk0OTY="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-12T02:43:38+00:00",
+  "fetched_at": "2026-08-13T02:46:30+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,26 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "258c2000f43e671cc85ce7497f42bbfec1203f8d",
+      "title": "S16 Ep 887: Joe’s List of Delights",
+      "published_at": "2026-08-13T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-887-joes-list-of-delights",
+      "description": "Joe’s starting writing a list of things to talk about on the pod and in this episode, he’s want to see if they spark any interest with David. Subjects include watching a man dig a grave, covers bands, Joe’s stolen beach shoes, watching trucks queuing outside a Travis Perkins, hugging too much, losing your temper and loving camaraderie. After that, David shows Joe’s the cricket bat he had signed by the England team and they daydream about what it’d be like to work at professional cricket or football club. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a72d3da2ad3094117f7d369/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46769632",
+      "itunes_duration": "48:43",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "list",
+        "delight"
+      ]
+    },
     {
       "key": "37b385469e01a84ac6f8b589e803ac812905c128",
       "title": "S16 Ep 886: The Man Who Leaves No Trace",
@@ -15915,6 +15935,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-13 — S16 Ep 887: Joe’s List of Delights — speakers: Joe Wilkinson, David Earl
 - 2026-08-12 — S16 Ep 886: The Man Who Leaves No Trace — speakers: Joe Wilkinson, David Earl
 - 2026-08-11 — S16 Ep 885: David’s Test Match Special — speakers: Joe Wilkinson, David Earl
 - 2026-08-10 — S16 Ep 884 Vault Mondays: Sunglasses and Nigel Farage — speakers: Joe Wilkinson, David Earl

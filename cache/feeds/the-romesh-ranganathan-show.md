@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-08-10T02:34:11+00:00`
-- checked_at: `2026-08-10T02:34:11+00:00`
-- last_modified: `Sun, 09 Aug 2026 23:10:13 GMT`
+- fetched_at: `2026-08-13T02:46:30+00:00`
+- checked_at: `2026-08-13T02:46:30+00:00`
+- last_modified: `Wed, 12 Aug 2026 23:10:19 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-10T02:34:11+00:00",
+  "fetched_at": "2026-08-13T02:46:30+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "cb39cf65364d4872acdafda7cd01e2c23c1d2496",
+      "title": "Drag Queens, Peer Pressure and What To Watch",
+      "published_at": "2026-08-12T23:01:00+00:00",
+      "link": null,
+      "description": "What is Romesh like in drag? And what would Shanthi's drag king name be? In this Thursday episode of The Romesh Ranganathan Show, Romesh and Shanthi answer your listener dilemmas, from dealing with pressure to drink, to an awkward case of mistaken identity. Plus, Romesh tells us all about the 'Rob & Romesh Vs Drag' episode and what he learnt about 'tucking' and Shanthi decides on her drag king alter ego. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 03:29 Some show recommendations 09:05 A question on drag 10:48 A ding-dong mistake 14:10 Shanthi as a drag king 15:24 A query on sobriety 26:14 A case of racism? 29:47 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/616f9f0a-965b-11f1-befa-6ba5e5c026ed/image/3aa525c14af87ec32ae75558f280595b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2530878696.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1989",
+      "speakers": [
+        "Drag Queens",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "drag",
+        "queens",
+        "peer",
+        "pressure"
+      ]
+    },
     {
       "key": "bf1146c10619709c6e0093f67464adf690fb081a",
       "title": "Himesh Patel: Starring In The Odyssey, Working With Matt Damon, And Life After EastEnders",
@@ -2126,6 +2148,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-12 — Drag Queens, Peer Pressure and What To Watch — speakers: Drag Queens, Romesh Ranganathan
 - 2026-08-09 — Himesh Patel: Starring In The Odyssey, Working With Matt Damon, And Life After EastEnders — speakers: Matt Damon, Romesh Ranganathan
 - 2026-08-05 — Romesh & Shanthi React To Idris Elba's Apology — speakers: Idris Elba, Romesh Ranganathan
 - 2026-08-02 — Max Fosh: Going Viral, YouTube and Being Posh — speakers: Max Fosh, Romesh Ranganathan
