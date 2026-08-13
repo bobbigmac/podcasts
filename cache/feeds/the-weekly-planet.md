@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-08-10T04:53:18+00:00`
-- checked_at: `2026-08-10T04:53:18+00:00`
-- etag: `"djEuMi4wOjE3ODYzMzYyMzkyOTA="`
+- fetched_at: `2026-08-13T13:46:32+00:00`
+- checked_at: `2026-08-13T13:46:32+00:00`
+- etag: `"djEuMi4wOjE3ODY2Mjc4MzkyMzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-08-10T04:53:18+00:00",
+  "fetched_at": "2026-08-13T13:46:32+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "13e4fb695f77c97bba4129165252434d1a44c1bd",
+      "title": "Resident Evil - Caravan Of Garbage",
+      "published_at": "2026-08-13T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/resident-evil-caravan-of-garbage",
+      "description": "On the eve of a brand new Resident Evil movie from director Zack Cregger we aim to achieve something heroes only dream of, taking a look at all six movies from the original series. Beginning with Resident Evil from 2002 it introduces us to a world seperate from that of the video games lead by Alice (Milla Jovovich) and directed by Paul WS Anderson whom would return for later entries in the franchise. And boy is it a sight! Laser hallways, kicking zombie dogs in the head, red AI girls I guess. Alright. Let's get started. Thanks fo watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a701b42bfc42315fe758af8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27796438",
+      "itunes_duration": "26:59",
+      "speakers": [
+        "Zack Cregger",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "resident",
+        "evil",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "1c8628524cffc7fd1fad1c1a8e4a299d9aca0552",
       "title": "635 Spider-Man Success & Best/Worst Comic Adaptations (Part 2)",
@@ -22868,6 +22891,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-13 — Resident Evil - Caravan Of Garbage — speakers: Zack Cregger, James Clement, Nick Mason
 - 2026-08-10 — 635 Spider-Man Success & Best/Worst Comic Adaptations (Part 2) — speakers: Man Success, Worst Comic Adaptations, James Clement, Nick Mason
 - 2026-08-07 — Space Jam: A New Legacy - Caravan Of Garbage — speakers: Space Jam, James Clement, Nick Mason
 - 2026-08-03 — 634 Spider-Man: Brand New Day — speakers: James Clement, Nick Mason
