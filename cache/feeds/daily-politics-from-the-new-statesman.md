@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-12T16:08:58+00:00`
-- checked_at: `2026-08-12T16:08:58+00:00`
-- etag: `"djEuMi4wOjE3ODY1NTA2MzcwOTA="`
+- fetched_at: `2026-08-13T19:19:36+00:00`
+- checked_at: `2026-08-13T19:19:36+00:00`
+- etag: `"djEuMi4wOjE3ODY2MDY5NjM0NTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-12T16:08:58+00:00",
+  "fetched_at": "2026-08-13T19:19:36+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -32,7 +32,7 @@
       "title": "Is Clacton fed up with Farage?",
       "published_at": "2026-08-12T16:03:56+00:00",
       "link": "https://shows.acast.com/newstatesman/episodes/is-clacton-fed-up-with-farage",
-      "description": "Clacton is heading for a by-election on Thursday, triggered by Nigel Farage, amidst the Reform leader's financial scandals. Anoosh Chakelian spends the day in Clacton, getting the perspective of locals. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Clacton is heading for a by-election on Thursday, triggered by Nigel Farage, amidst the Reform leader's financial scandals. Anoosh Chakelian spends the day in Clacton, getting the perspective of locals. READ https://www.newstatesman.com/politics/2026/08/hes-made-us-look-like-right-plonkers-clacton-prepares-for-more-farage LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1786550481107-4a9662a7-9530-4cb3-a7d3-00acf9950910.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a7c988ec391420cf91801a4/media.mp3",
       "enclosure_type": "audio/mpeg",
