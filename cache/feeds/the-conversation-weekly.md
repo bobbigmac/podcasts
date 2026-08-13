@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-08-13T13:46:32+00:00`
-- checked_at: `2026-08-13T13:46:32+00:00`
-- etag: `"2602dc-658eb56dcf580"`
-- last_modified: `Thu, 13 Aug 2026 10:40:58 GMT`
+- fetched_at: `2026-08-13T16:09:23+00:00`
+- checked_at: `2026-08-13T16:09:23+00:00`
+- etag: `"261124-658eef6fc2928"`
+- last_modified: `Thu, 13 Aug 2026 15:00:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-08-13T13:46:32+00:00",
+  "fetched_at": "2026-08-13T16:09:23+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,29 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "670aff4c14386373fe89f385ad2837a60426b2c0",
+      "title": "Loonies and bins: Britain's long love affair with novelty politics",
+      "published_at": "2026-08-13T15:00:00+00:00",
+      "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
+      "description": "It's pretty grim when your main political opponent is a man with a bin for a head. That's the situation that's faced Nigel Farage in the Clacton byelection in the UK. Count Binface has pledged to nationalise the singer Adele, cap the price of ice creams and build at least one affordable house. It might sound surreal, but the count isn’t the first satirical candidate in election history. Historian Richard Toye argues we should take them seriously. You can read his analysis on our website. This episode was written and produced by Isabella Podwinski, Justin Bergman and Ashlynne McGhee. Sound mixing is by Michelle Macklem and our theme music is by Neeta Sarl. Ashlynne McGhee is our Head of Editorial Innovation and Misha Ketchell and Stephen Khan are our editors in chief. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/8de9b0ed-fe27-4288-bbc3-9ee41854d919.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33167612",
+      "itunes_duration": "23:02",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "loony",
+        "britain",
+        "love",
+        "affair",
+        "novelty",
+        "politic"
+      ]
+    },
     {
       "key": "8e0ed8a6c0ca7dc5d49a8c06bf480bda12f2d762",
       "title": "The soviet origins of shadow libraries",
@@ -6162,6 +6185,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-13 — Loonies and bins: Britain's long love affair with novelty politics — speakers: Gemma Ware
 - 2026-08-06 — The soviet origins of shadow libraries — speakers: Gemma Ware
 - 2026-07-30 — A window into the murky world of peptides — speakers: Timothy Piatkowki, Gemma Ware
 - 2026-07-23 — Save our brains: how dangerous is sport? — speakers: about concussion, head impacts, brain disease, Gemma Ware
