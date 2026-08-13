@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-08-06T09:04:55+00:00`
-- checked_at: `2026-08-06T09:04:55+00:00`
-- last_modified: `Thu, 06 Aug 2026 09:00:00 GMT`
+- fetched_at: `2026-08-13T10:21:24+00:00`
+- checked_at: `2026-08-13T10:21:24+00:00`
+- last_modified: `Mon, 10 Aug 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-06T09:04:55+00:00",
+  "fetched_at": "2026-08-13T10:21:24+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,25 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "88517a041a139705e293f7fa207e5a7f5b3cac69",
+      "title": "How to Lead a More Gratifying Life",
+      "published_at": "2026-08-10T09:00:00+00:00",
+      "link": null,
+      "description": "We’ve optimized nearly every part of modern life. So why does it feel like we’re missing the experience of actually living it? In The Small Stuff , Ian Bogost argues that our obsession with happiness, productivity, and efficiency has stripped everyday life of something essential: gratification, the immediate pleasure of physically engaging with the world around us. Today, he makes the case for rediscovering the sensory delights hiding in the life you already lead. 🎥 The Next Big Idea is now on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com . 🎁 The best way to support the show is by becoming a Next Big Idea Club member. Learn more at nextbigideaclub.com , and use code PODCAST for a super secret discount (spoiler: it's 20% off). Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Northwest Registered Agent — Launch and grow your business with nearly 30 years of expertise behind you at northwestregisteredagent.com/nbifree Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free Wealthfront — Earn up to 4.30% APY with Wealthfront's high-yield cash account for a limited time at wealthfront.com/nbi (click here for disclosures)",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP2451106515.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3925",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "life"
+      ]
+    },
     {
       "key": "6b256e4594f83236126f063f353a5bf0995276a3",
       "title": "Best Of: Adam Grant on the Science of Achieving Greater Things",
@@ -8239,6 +8258,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-10 — How to Lead a More Gratifying Life — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-08-06 — Best Of: Adam Grant on the Science of Achieving Greater Things — speakers: Adam Grant, Rufus Griscom, Caleb Bissinger
 - 2026-08-03 — Are Robots About to Change Everything? — speakers: Change Everything, Rufus Griscom, Caleb Bissinger
 - 2026-07-30 — You Can Just Do Things — speakers: Things Why, Rufus Griscom, Caleb Bissinger

@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-08-07T07:40:28+00:00`
-- checked_at: `2026-08-07T07:40:28+00:00`
-- etag: `"djEuMi4wOjE3ODYwNzg4NDAwMzA="`
+- fetched_at: `2026-08-13T10:21:24+00:00`
+- checked_at: `2026-08-13T10:21:24+00:00`
+- etag: `"djEuMi4wOjE3ODY1OTcyMzk1ODI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-08-07T07:40:28+00:00",
+  "fetched_at": "2026-08-13T10:21:24+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "34d69c3e13147a66c6d55ec9616c0bb62d3132f3",
+      "title": "Nish Kumar Returns, Again! | Part Two",
+      "published_at": "2026-08-13T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/517-p2-nish-kumar-returns-again",
+      "description": "Welcome back to the second part of Nish Kumar 's return (again!) where we discuss: whether comedy actually changes minds or just offers comfort whether anger or hope is the bigger driving force for Nish how we can still win the climate crisis battle has he finally learned to mix with James Acaster properly and is Nish Kumar happy... Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to exclusive extras where we discuss the shocking pace of the current political instability, Nish's role on Pod Save the UK and witness two men try to catch a bee in a basement. 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Nish: Nish Kumar: Angry Humour From a Really Nice Guy is on tour throughout 2026. Find all the dates and more at nishkumar.co.uk . You can also now watch Nish, Don't Kill My Vibe on YouTube. Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content with Nish ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE IN EDINBURGH & ON TOUR , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1786035028177-ef5bff22-84a9-42cf-a69c-2e8031138fff.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a74c38b72138046c6896126/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "80188992",
+      "itunes_duration": "55:41",
+      "speakers": [
+        "Kumar Returns",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "kumar",
+        "returns"
+      ]
+    },
     {
       "key": "2d07306e5a3b8b001cd6ada0586c0a031d926f65",
       "title": "Nish Kumar Returns, Again! | Part One",
@@ -11676,6 +11696,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-13 — Nish Kumar Returns, Again! | Part Two — speakers: Kumar Returns, Stuart Goldsmith
 - 2026-08-07 — Nish Kumar Returns, Again! | Part One — speakers: Kumar Returns, Stuart Goldsmith
 - 2026-07-31 — Kristen Schaal — speakers: Kristen Schaal Chances, Kristen Schaal, Stuart Goldsmith
 - 2026-07-23 — Bilal Zafar — speakers: Stuart Goldsmith
