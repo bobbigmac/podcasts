@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-08-10T02:34:11+00:00`
-- checked_at: `2026-08-10T02:34:11+00:00`
-- etag: `"djEuMi4wOjE3ODYzMTY1NTkyNzE="`
+- fetched_at: `2026-08-14T02:45:18+00:00`
+- checked_at: `2026-08-14T02:45:18+00:00`
+- etag: `"djEuMi4wOjE3ODY2NjIxNTkzNjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-08-10T02:34:11+00:00",
+  "fetched_at": "2026-08-14T02:45:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "33c9810e8078348203fd17c92fff27d88efbe3d0",
+      "title": "Tim Vine Unedited - An uncut version now 10 minutes longer!",
+      "published_at": "2026-08-13T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/tim-vine-unedited-an-uncut-version-now-10-minutes-longer",
+      "description": "An unedited version of Ep. 82 with Tim Vine. Now 10 minutes longer! Tim Vine is one of Britain’s best-loved comedians, renowned for his lightning-fast one-liners, inventive wordplay and gloriously silly humour. A regular on television for decades, he starred as Tim Smallwood in the BBC sitcom Not Going Out and has appeared on countless shows including Live at the Apollo , QI , Have I Got News for You and The Royal Variety Performance . A multiple-time winner of the Edinburgh Comedy Award for Best Joke, Tim continues to delight audiences with his sell-out live tours and Edinburgh Fringe shows, cementing his place as one of the UK’s greatest joke writers . For tickets for Tim Vine and much more, visit - https://www.timvine.com . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a6b5a028effb6fbbee387bc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62845304",
+      "itunes_duration": "52:22",
+      "speakers": [
+        "Tim Vine"
+      ],
+      "topics": [
+        "vine",
+        "unedited",
+        "version",
+        "minute"
+      ]
+    },
     {
       "key": "810f214bad2ae448d5e88229c72eeeb3813f1830",
       "title": "Anthony Head Tribute",
@@ -13223,6 +13244,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-13 — Tim Vine Unedited - An uncut version now 10 minutes longer! — speakers: Tim Vine
 - 2026-08-09 — Anthony Head Tribute — speakers: Anthony Head Tribute, Anthony Head
 - 2026-08-06 — Ep. 599 - Cecily Hitchcock - A raising star of British comedy making her Edinburgh Fringe debut — speakers: Edinburgh Fringe
 - 2026-08-02 — Ep. 598 - Barry from Watford - Best known for his 10 years on Steve Wright in the Afternoon on BBC Radio 2 — speakers: Steve Wright

@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-08-13T02:46:30+00:00`
-- checked_at: `2026-08-13T02:46:30+00:00`
-- last_modified: `Wed, 12 Aug 2026 23:00:26 GMT`
+- fetched_at: `2026-08-14T02:45:18+00:00`
+- checked_at: `2026-08-14T02:45:18+00:00`
+- last_modified: `Thu, 13 Aug 2026 23:00:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Chris Sawyer General Manager: Tom Whiter",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-13T02:46:30+00:00",
+  "fetched_at": "2026-08-14T02:45:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "272b7ba404da2efa115f71ba47bdb293c50d928a",
+      "title": "Will Climate Action Go Backwards Under Burnham?",
+      "published_at": "2026-08-13T23:00:00+00:00",
+      "link": null,
+      "description": "Should Andy Burnham deliver a covid style national emergency briefing to inform the public about the climate emergency? How do we foster cross-party consensus on the climate emergency? And, can we balance the need to build data centres and protect the environment? Join Alastair Campbell, Rory Stewart and Caroline Lucas as they discuss all of these questions and more. To watch Caroline’s four part series on climate as a national security threat, sign up at therestispolitcs.com ⁠⁠⁠⁠Read the redacted Joint Intelligence Committee Report here⁠⁠⁠⁠ ⁠⁠⁠⁠Find out more about the National Emergency Briefing here.⁠⁠⁠⁠ Producer: India Dunkley Researcher: Evie Townend Video Editor: Josh Smith, Vasco Andrade Social Producer: Celine Charles Executive Producer: Bella Soames General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6d7dc21c-965c-11f1-a5a9-e726bf0c3a48/image/59b998b5fc503d3235f6a969553d5637.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT4499116544.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3177",
+      "speakers": [
+        "Andy Burnham"
+      ],
+      "topics": [
+        "climate",
+        "action",
+        "burnham"
+      ]
+    },
     {
       "key": "72e22a2e578c0dff4688ae071c448b5bbb5f918d",
       "title": "562. The Right’s War With Itself and Burnham’s Prisons Challenge",
@@ -12645,6 +12665,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-13 — Will Climate Action Go Backwards Under Burnham? — speakers: Andy Burnham
 - 2026-08-12 — 562. The Right’s War With Itself and Burnham’s Prisons Challenge — speakers: Rupert Lowe
 - 2026-08-11 — 561. How Trump’s Chaos Keeps Splintering the World Order — speakers: How Trump, Chaos Keeps Splintering, Saudi Arabia
 - 2026-08-06 — The Truth About Climate Migration – It's More Complicated Than You Think

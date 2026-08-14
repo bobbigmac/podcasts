@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-08-13T16:09:23+00:00`
-- checked_at: `2026-08-13T16:09:23+00:00`
-- etag: `"djEuMi4wOjE3ODY2MzA0OTY0MTY="`
+- fetched_at: `2026-08-14T02:45:18+00:00`
+- checked_at: `2026-08-14T02:45:18+00:00`
+- etag: `"djEuMi4wOjE3ODY2NjI2MzkyNzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
-  "fetched_at": "2026-08-13T16:09:23+00:00",
+  "fetched_at": "2026-08-14T02:45:18+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,31 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "d9439507ba09f27d20e7b9f93c0bf1dfb2433557",
+      "title": "Kriss Akabusi Loves Nietzsche",
+      "published_at": "2026-08-13T23:10:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/kriss-akabusi-loves-nietzsche",
+      "description": "Back after the interval for the second half of the Socially Distant Sports Bar live at the New Theatre, Cardiff. Mike Bubbins, Elis James and Steff Garrero dive into Warren Gatland's take on rugby team stereotypes alongside stories of getting shot in the backside in the Korean War and Chris Akabusi's secret love for Nietzsche. ......and why you should always wear a cricket helmet to a panto. Elis: Cricket Fielding https://www.instagram.com/reel/Cp5CH78uMF5/?igsh=MTl3dDg3N3hwdHBoaA%3D%3D Mike: Gatland https://www.instagram.com/reel/DVdccehDKN7/?igsh=MTFnendwNjM0bWZicA== Steff: Sunderland crowd https://www.youtube.com/shorts/EaQ5usl-36Q 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a7a1a06efa771345a981acd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95050560",
+      "itunes_duration": "39:36",
+      "speakers": [
+        "Kriss Akabusi Loves Nietzsche",
+        "Socially Distant Sports Bar",
+        "New Theat",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "kriss",
+        "akabusi",
+        "nietzsche"
+      ]
+    },
     {
       "key": "1b18d7ed673e06365ce82505fe6b52a66e21dfd6",
       "title": "Two Tangerines In A Sack",
@@ -15634,6 +15659,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-13 — Kriss Akabusi Loves Nietzsche — speakers: Kriss Akabusi Loves Nietzsche, Socially Distant Sports Bar, New Theat, Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-11 — Two Tangerines In A Sack — speakers: Socially Distant Sports Bar, New Theatre, Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-08 — Tree-ing: Pint Size — speakers: Pint Size Welcome, Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-06 — Race Of The Century — speakers: Socially Distant Sports Bar, Elis James, Mike Bubbins, Steff Garrero

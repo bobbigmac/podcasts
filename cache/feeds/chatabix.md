@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-13T02:46:30+00:00`
-- checked_at: `2026-08-13T02:46:30+00:00`
-- etag: `"djEuMi4wOjE3ODY1ODY0Mzk0OTY="`
+- fetched_at: `2026-08-14T02:45:18+00:00`
+- checked_at: `2026-08-14T02:45:18+00:00`
+- etag: `"djEuMi4wOjE3ODY2NzI4Mzk0NDc="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-13T02:46:30+00:00",
+  "fetched_at": "2026-08-14T02:45:18+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,31 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "981e7d050a5d9a99f74c1d1f564324ec854da274",
+      "title": "S16 Ep 888 Listener’s Mailbag: Sex Shops and Epic Catch-Ups",
+      "published_at": "2026-08-14T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-888-listeners-mailbag-sex-shops-and-epic-catch-ups",
+      "description": "In today’s very varied Mailbag, there’s messages about a youthful massage, checking out sex shops, Joe look-a-likes, the Tower Of Power at Siam Park, a ’catching up with Chatabix’ apology, stolen VW badges and a lovely bit of Sting trivia. Happy Friday! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a72d41cbd564c65f64ee380/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28337632",
+      "itunes_duration": "29:31",
+      "speakers": [
+        "Sex Shops",
+        "Epic Catch",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "shops",
+        "epic",
+        "catch"
+      ]
+    },
     {
       "key": "258c2000f43e671cc85ce7497f42bbfec1203f8d",
       "title": "S16 Ep 887: Joe’s List of Delights",
@@ -15935,6 +15960,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-14 — S16 Ep 888 Listener’s Mailbag: Sex Shops and Epic Catch-Ups — speakers: Sex Shops, Epic Catch, Joe Wilkinson, David Earl
 - 2026-08-13 — S16 Ep 887: Joe’s List of Delights — speakers: Joe Wilkinson, David Earl
 - 2026-08-12 — S16 Ep 886: The Man Who Leaves No Trace — speakers: Joe Wilkinson, David Earl
 - 2026-08-11 — S16 Ep 885: David’s Test Match Special — speakers: Joe Wilkinson, David Earl

@@ -24864,6 +24864,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:df1f279e1eb1",
+        "feed_title": "Lobotomy World",
+        "source_rss_url": "https://api.substack.com/feed/podcast/758327.rss",
+        "dedupe_key": "92485b098420b7fe4f6e4ded21fbb49ffa68eae7",
+        "episode_key": "92485b098420b7fe4f6e4ded21fbb49ffa68eae7",
+        "title": "I Met Stewart Lee",
+        "published_at": "2025-06-08T18:24:10Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Also, here’s the video version (premieres at 8pm tonight). There will also be a members episode shortly after.\nMember episode: \n \n\nGet full access to Lobotomy World at lobotomyworld.substack.com/subscribe",
+        "audio_url": "https://api.substack.com/feed/podcast/165484868/6f13f297aa6aaa853cea165cead72876.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/i-met-stewart-lee/id1770023996?i=1000712007670&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:86e8d6833f90",
         "feed_title": "Strong Message Here",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
@@ -29471,6 +29493,28 @@
       }
     ],
     "nish-kumar": [
+      {
+        "feed_slug": "external:apple:edbc4f4d67d5",
+        "feed_title": "The Comedian's Comedian Podcast",
+        "source_rss_url": "https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581",
+        "dedupe_key": "6dc89bb11fa370e4c078fb863130e0adfb2fc594",
+        "episode_key": "6dc89bb11fa370e4c078fb863130e0adfb2fc594",
+        "title": "Nish Kumar Returns, Again! | Part Two",
+        "published_at": "2026-08-13T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome back to the second part of Nish Kumar's return (again!) where we discuss:\n\nwhether comedy actually changes minds or just offers comfortwhether anger or hope is the bigger driving force for Nishhow we can still win the climate crisis battlehas he finally learned to mix with James Acaster properlyand is Nish Kuma",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a74c38b72138046c6896126/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar-returns-again-part-two/id513734888?i=1000783072199&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:edbc4f4d67d5",
         "feed_title": "The Comedian's Comedian Podcast",
