@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-13T19:19:36+00:00`
-- checked_at: `2026-08-13T19:19:36+00:00`
-- etag: `"djEuMi4wOjE3ODY2MDY5NjM0NTI="`
+- fetched_at: `2026-08-14T07:49:34+00:00`
+- checked_at: `2026-08-14T07:49:34+00:00`
+- etag: `"djEuMi4wOjE3ODY2OTA5NTc5NjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-13T19:19:36+00:00",
+  "fetched_at": "2026-08-14T07:49:34+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "c322c56f0298c8696f8bf0e6f933dc9b7a8f7dfa",
+      "title": "Farage wins again at Clacton circus",
+      "published_at": "2026-08-14T07:02:37+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/farage-wins-again-at-clacton-circus",
+      "description": "Sorry about all the bangs, things got a little crazy at Clacton Leisure Centre. After a long and fairly ridiculous night, Nigel Farage has been reinstated as MP for Clacton. What happens now? Could it be another by-election? Anoosh Chakelian is joined by senior data journailst and Labour councillor, Ben Walker. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1786690540738-9348e7b7-0de6-4133-b7d5-dc6066dca690.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a7ebbc785447c583f618874/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25626165",
+      "itunes_duration": "17:47",
+      "speakers": [
+        "Clacton Leisure Centre",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "farage",
+        "clacton",
+        "circus"
+      ]
+    },
     {
       "key": "ad3c15e78341e066633eb9d8c35792ea8898b76e",
       "title": "Is Clacton fed up with Farage?",
@@ -32075,6 +32097,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-14 — Farage wins again at Clacton circus — speakers: Clacton Leisure Centre, Anoosh Chakelian, Oli Dugmore
 - 2026-08-12 — Is Clacton fed up with Farage? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-08-10 — Are we living under “woke Blue Labour”? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-08-08 — Andy Burnham's North Sea drilling dilemma | Weekly roundup — speakers: Andy Burnham, Jeremy Clarkson, Anoosh Chakelian, Oli Dugmore

@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-08-07T07:40:28+00:00`
-- checked_at: `2026-08-07T07:40:28+00:00`
-- etag: `"b261a21771df662c775a1f37136498e1"`
-- last_modified: `Fri, 07 Aug 2026 05:00:10 GMT`
+- fetched_at: `2026-08-14T07:49:34+00:00`
+- checked_at: `2026-08-14T07:49:34+00:00`
+- etag: `"3c110f3fb0a8175cb4202b45c3a5b76f"`
+- last_modified: `Fri, 14 Aug 2026 05:00:13 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-08-07T07:40:28+00:00",
+  "fetched_at": "2026-08-14T07:49:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,32 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "c8c0795c9484330cea07dd48fced7dcc08d04041",
+      "title": "Anne Bonny and Mary Read: real-life pirates of the Caribbean",
+      "published_at": "2026-08-14T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002z5nz",
+      "description": "Greg Jenner is joined in the eighteenth-century Caribbean by historian and curator Hannah Cusworth and comedian Kemah Bob to learn about the swashbuckling lives of pirates Anne Bonny and Mary Read. These women and their adventures on the high seas have become the stuff of legend, helped along by the sensational account of their lives written shortly after their capture. Though they are famous for the short period they spent together on a pirate ship, dressed as men to hide their true identities, the two had very different backgrounds. Anne was the well-off and rebellious daughter of a merchant and plantation owner in Carolina, while the working-class Mary already had experience dressing in men’s clothing and working as a sailor and soldier. This episode traces their biographies, exploring their upbringings, romantic entanglements (with men and each other), and time aboard the pirate ship captained by the infamous Captain 'Calico Jack' Rackham, as well as their ultimate fate. And it looks at the wider context of the Caribbean, the transatlantic trade in enslaved Africans and the Golden Age of piracy which shaped their lives and choices, and asks what place they have in queer and trans histories of the period. If you’re a fan of swashbuckling pirates, women in male professions, and the complicated history of slavery and colonialism in the Caribbean, you’ll love our episode on Anne Bonny and Mary Read. If you want more from Kemah Bob, listen to our episodes on Hatshepsut or Prohibition in the USA. And for more swashbuckling women, check out our episodes on duellist and opera singer Julie d’Aubigny, Chinese pirate queen Zheng Yi Sao, or Irish pirate Grainne O’Malley. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Naomi Weaver Written by: Naomi Weaver, Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nyqsr2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nxtvwl.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57696000",
+      "itunes_duration": "3606",
+      "speakers": [
+        "Anne Bonny",
+        "Mary Read",
+        "Greg Jenner",
+        "Hannah Cusworth"
+      ],
+      "topics": [
+        "anne",
+        "bonny",
+        "mary",
+        "read",
+        "life",
+        "pirate"
+      ]
+    },
     {
       "key": "113cae35de753276383fb99ce81f84ca9291b8df",
       "title": "Medieval Saints: miracles, relics and pilgrimage",
@@ -6088,6 +6114,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-14 — Anne Bonny and Mary Read: real-life pirates of the Caribbean — speakers: Anne Bonny, Mary Read, Greg Jenner, Hannah Cusworth
 - 2026-08-07 — Medieval Saints: miracles, relics and pilgrimage — speakers: Medieval Saints, Greg Jenner, Simon Yarrow, Rachel Parris
 - 2026-07-31 — Francis Galton: Victorian scientist and pioneer of eugenics — speakers: Francis Galton, Greg Jenner, Subhadra Das
 - 2026-07-24 — The Iliad and Odyssey: heroic epics from ancient Greece — speakers: Greg Jenner, Emily Hauser, Kiell Sm

@@ -38586,6 +38586,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:d926e239a6da",
+        "feed_title": "What The F Is Going On? with Mark Steel",
+        "source_rss_url": "https://feeds.megaphone.fm/what-the-f-is-going-on-with-mark-steel",
+        "dedupe_key": "d20a01fe83a32188826499897247592a4853c608",
+        "episode_key": "d20a01fe83a32188826499897247592a4853c608",
+        "title": "What The F*** Is Going On...? With Mark Steel Episode 14",
+        "published_at": "2021-09-27T08:58:06Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this week’s episode, Mark is joined by Jack Dee and Elliot Steel as he tries to make sense of panic buying, extinction rebellion and Jack Dee’s lockdown obsession with his lawn.\nFollow Jack Dee @TheRealJackDee\nFollow What The F*** Is Going On? With Mark Steel on Twitter @wtfisgoingonpod\nAnd visit our website www.wha",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7725752439.mp3?updated=1683619385",
+        "link_url": "https://podcasts.apple.com/gb/podcast/what-the-f-is-going-on-with-mark-steel-episode-14/id1573424189?i=1000536720845&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:542e0c12e801",
         "feed_title": "Parenting Hell with Rob Beckett and Josh Widdicombe",
         "source_rss_url": "https://feeds.megaphone.fm/GLT9881106244",
