@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-08-11T07:36:27+00:00`
-- checked_at: `2026-08-11T07:36:27+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RZME1qUTBNemszTVRjPTo6c2F4ZXNz"`
+- fetched_at: `2026-08-14T05:01:27+00:00`
+- checked_at: `2026-08-14T05:01:27+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RZMk9ETTJOREF4TlRZPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-08-11T07:36:27+00:00",
+  "fetched_at": "2026-08-14T05:01:27+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6c10ca467f40fc46859d29623465c419e5dda10d",
+      "title": "William Tries to Catch Jordan Out | And Who's Spooning Who?",
+      "published_at": "2026-08-14T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/william-tries-to-catch-jordan-out-and-whos-spooning-who",
+      "description": "William Hanson and Jordan North take part in an etiquette test and discuss the pros and cons of being a big spoon/little spoon. The boys also dive into some listener replies regarding sh*gging with a smart watch on and find out what really happened after a G & Diva's dentist proposed to her. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1786636870174-d34a45b3-d779-4b97-a79f-f18c98c7841a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a7d81949c9d534a470de152/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=bG8pIayfiQoIIBaDmMktoa8SNpVhN-yQyTJexcwHCNw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": null,
+      "itunes_duration": "0",
+      "speakers": [
+        "William Tries",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "william",
+        "jordan"
+      ]
+    },
     {
       "key": "f9cc8194d3b6bbd847042274322dcbad9bb1fc61",
       "title": "Help I've Grown A Moustache | And I Found Dad's Secret Account…",
@@ -14849,6 +14870,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-14 — William Tries to Catch Jordan Out | And Who's Spooning Who? — speakers: William Tries, William Hanson, Jordan North
 - 2026-08-11 — Help I've Grown A Moustache | And I Found Dad's Secret Account… — speakers: William Hanson, Jordan North
 - 2026-08-07 — Things To Do Before You’re 40 | And William the Undertaker — speakers: William Hanson, Jordan North
 - 2026-08-04 — Help That’s Not Beauty OR The Beast | Uno’s Gone Woke — speakers: Not Beauty, Gone Woke How, William Hanson, Jordan North

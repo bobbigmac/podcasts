@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-08-12T05:01:05+00:00`
-- checked_at: `2026-08-12T05:01:05+00:00`
-- etag: `"djEuMi4wOjE3ODY1MDQ4Mzk0MTc="`
+- fetched_at: `2026-08-14T05:01:27+00:00`
+- checked_at: `2026-08-14T05:01:27+00:00`
+- etag: `"djEuMi4wOjE3ODY2Nzc2Mzk0MzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-08-12T05:01:05+00:00",
+  "fetched_at": "2026-08-14T05:01:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ba8bd29ca475b232f586e959a61d878d279fa196",
+      "title": "STEVEN KNIGHT (Peaky Blinders / Taboo / Serenity) • Friday Rewind",
+      "published_at": "2026-08-14T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Steven Knight , originally episode 256 from 2019-03-06. Original writeup below: Chances are that if you are a Distraction Pieces Podcast listener (god bless you), you will be fully versed on Steven’s work. Pip references his work with a great and contagious fondness and for very good reason - he makes some incredibly fine film and television! This is a perfect opportunity to hear from the man in that director seat behind the curtain on a huge amount of topics and angles including the rule-based world of film making, his work on Locke, Peaky Blinders, Taboo and all the rest in his insane body of work, his new film Serenity and how he lucked out on getting his first choice cast picks, playing with reality, how we are all the lead roles in our own realities, the BBC leaving him alone in creating, the far and wide fans of Peaky, how one gets a cast together and that old unfinished story of Florence Pugh trying to smuggle she and Pip into Peaky too! Let’s see if the inception works, shall we? Great one here folks, enjoy! PIP'S PATREON PAGE if you're of a supporting nature SERENITY IMDB STEVEN on ROTTEN TOMATOES STEVEN on DEN OF GEEK PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1786362169206-7445bed6-b8ad-4866-b1e4-5c2fe46b24e5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a79ba61cfc0396cc18e26fe/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138792127",
+      "itunes_duration": "57:44",
+      "speakers": [
+        "Steven Knight"
+      ],
+      "topics": [
+        "steven",
+        "knight",
+        "peaky",
+        "blinders",
+        "taboo",
+        "serenity",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "6270e1ea13f641989db2f0e8c3513d819c403011",
       "title": "20 YEARS OF PIP (Part 2) • featuring Chris Glasson & Buddy Peace! #683",
@@ -19383,6 +19408,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-14 — STEVEN KNIGHT (Peaky Blinders / Taboo / Serenity) • Friday Rewind — speakers: Steven Knight
 - 2026-08-12 — 20 YEARS OF PIP (Part 2) • featuring Chris Glasson & Buddy Peace! #683 — speakers: Chris Glasson
 - 2026-08-07 — SOUAD MEKHENNET (I Was Told To Come Alone / The Eternal Nazi) • Friday Rewind
 - 2026-08-05 — 20 YEARS OF PIP (Part 1) • featuring Chris Glasson & Buddy Peace! #683 — speakers: Chris Glasson
