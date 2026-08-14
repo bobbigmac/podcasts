@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-08-07T19:14:21+00:00`
-- checked_at: `2026-08-07T19:14:21+00:00`
-- etag: `"e283fa5be787cbf4ac9dea6a669e8b18"`
-- last_modified: `Fri, 07 Aug 2026 18:00:12 GMT`
+- fetched_at: `2026-08-14T19:13:15+00:00`
+- checked_at: `2026-08-14T19:13:15+00:00`
+- etag: `"86bc3fee8bc4b1ad703efd9a59e13c96"`
+- last_modified: `Fri, 14 Aug 2026 18:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p0cxx8.jpg",
-  "fetched_at": "2026-08-07T19:14:21+00:00",
+  "fetched_at": "2026-08-14T19:13:15+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,30 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "38613f7b92659e3335c2e538dfb5a0bc1e64299c",
+      "title": "Current-ish Ep3. Exam results, early release, and the possible end of two marriages",
+      "published_at": "2026-08-14T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p384q6",
+      "description": "Lucy Porter is joined by Vittorio Angelone, Jake Bhardwaj, and Susie McCabe to talk all things current-ish events. Are exam results important? What should we do about early release? And what happened at Edinburgh airport? Hosted by Lucy Porter Written by Lucy Porter, Ruth Husko and Katie Sayer with additional material by Mike Shephard Producer - Katie Sayer Assistant producer - Molly Punshon Executive producer - Victoria Lloyd A Mighty Bunny production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p0cxx8.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p393s8.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27472000",
+      "itunes_duration": "1717",
+      "speakers": [
+        "Lucy Porter",
+        "Vittorio Angelone",
+        "Jake Bhardwaj",
+        "Susie McCabe"
+      ],
+      "topics": [
+        "exam",
+        "result",
+        "release",
+        "marriage"
+      ]
+    },
     {
       "key": "266bd45db7f363423ed050656464764bb0d4e0a4",
       "title": "Current-ish Ep2. Heatwaves, hosepipe bans, and a very hairy pizza",
@@ -5476,28 +5500,6 @@
         "party",
         "august"
       ]
-    },
-    {
-      "key": "b4c278774475cf59c7f27ecf2cd6034f4ac8b50e",
-      "title": "Party's Over: ep4 Parish Council 13th August 2021",
-      "published_at": "2021-08-13T17:56:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09r5q4f",
-      "description": "What happens when the Prime Minister suddenly stops being Prime Minister? One day you're the most powerful person in the country, the next you're irrelevant, forced into retirement 30 years ahead of schedule and find yourself asking 'What do I do now?' Miles Jupp stars as Henry Tobin - Britain's shortest serving and least popular post war PM (he managed 8 months). We join Henry soon after his crushing election loss. He’s determined to not let his disastrous defeat be the end of him. Instead Henry's going to get back to the top - he's just not sure how and in what field. This week, Henry meets a local nemesis as he tries to make some home and garden improvements so Christine steps in with a plan. Henry Tobin... Miles Jupp Christine Tobin... Ingrid Oliver Natalie... Emma Sidi Jones... Justin Edwards Albert...Joseph Marcell Written by Paul Doolan and Jon Hunter Produced by Richard Morris and Simon Nicholls Production co-ordinator: Caroline Barlow Sound design: Marc Willcox A BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p0cxx8.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09r5php.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26784000",
-      "itunes_duration": "1674",
-      "speakers": [
-        "Parish Council",
-        "Prime Minister"
-      ],
-      "topics": [
-        "party",
-        "parish",
-        "council",
-        "august"
-      ]
     }
   ]
 }
@@ -5506,6 +5508,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-14 — Current-ish Ep3. Exam results, early release, and the possible end of two marriages — speakers: Lucy Porter, Vittorio Angelone, Jake Bhardwaj, Susie McCabe
 - 2026-08-07 — Current-ish Ep2. Heatwaves, hosepipe bans, and a very hairy pizza — speakers: Lucy Porter, Finlay Christie, Amy Annette, Christopher Macarthur
 - 2026-07-31 — Current-ish Ep1. Burnham, Bellingham, and the spirit of Margaret Thatcher — speakers: Margaret Thatcher, Lucy Porter, John Tothill, Kyrah Gray, Amy Annette
 - 2026-07-24 — Dead Ringers Ep6. England out, Starmer out, School's out.
@@ -5765,4 +5768,3 @@
 - 2021-09-03 — News Quiz 3rd September 2021 — speakers: Andy Zaltzman, Rachel Fairburn, Hugo Rifkind, Helen Lewis, Ian Smith
 - 2021-08-27 — Party's Over: ep6 Going Green 27th August 2021 — speakers: Going Green, Prime Minister
 - 2021-08-20 — Party's Over: ep5 The Great Outdoors 20th August 2021 — speakers: Prime Minister
-- 2021-08-13 — Party's Over: ep4 Parish Council 13th August 2021 — speakers: Parish Council, Prime Minister
