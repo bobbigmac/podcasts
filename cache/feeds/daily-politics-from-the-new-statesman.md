@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-14T19:13:15+00:00`
-- checked_at: `2026-08-14T19:13:15+00:00`
-- etag: `"djEuMi4wOjE3ODY3MDA5MDYzMTc="`
+- fetched_at: `2026-08-15T18:47:13+00:00`
+- checked_at: `2026-08-15T18:47:13+00:00`
+- etag: `"djEuMi4wOjE3ODY4MDk2MzkzNjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-14T19:13:15+00:00",
+  "fetched_at": "2026-08-15T18:47:13+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,30 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "0602b434a8d23317b8464af21638451fdcae6ed2",
+      "title": "Burnham bounce: Labour overtakes Reform",
+      "published_at": "2026-08-15T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/burnham-bounce-continues-as-labour-overtakes-reform",
+      "description": "Labour overtaking Reform in opinion polls for the first time in over a year, travel chaos for government ministers and the controversial grave of Dobby the house-elf. Anoosh Chakelian is joined by Oli Dugmore to discuss the stories of the week. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1786700712691-8c0132d0-988e-4abf-a339-86573d1599b4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a7ee358fb0089011d995746/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75321932",
+      "itunes_duration": "39:07",
+      "speakers": [
+        "Reform Labour",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "burnham",
+        "bounce",
+        "labour",
+        "overtake",
+        "reform"
+      ]
+    },
     {
       "key": "c322c56f0298c8696f8bf0e6f933dc9b7a8f7dfa",
       "title": "Farage wins again at Clacton circus",
@@ -32097,6 +32121,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-15 — Burnham bounce: Labour overtakes Reform — speakers: Reform Labour, Anoosh Chakelian, Oli Dugmore
 - 2026-08-14 — Farage wins again at Clacton circus — speakers: Clacton Leisure Centre, Anoosh Chakelian, Oli Dugmore
 - 2026-08-12 — Is Clacton fed up with Farage? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-08-10 — Are we living under “woke Blue Labour”? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
