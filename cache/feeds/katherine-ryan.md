@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-08-06T09:04:55+00:00`
-- checked_at: `2026-08-06T09:04:55+00:00`
-- etag: `"djEuMi4wOjE3ODYwMDM0NTg5NDE="`
+- fetched_at: `2026-08-15T03:53:26+00:00`
+- checked_at: `2026-08-15T03:53:26+00:00`
+- etag: `"djEuMi4wOjE3ODY3NTkyMzAzOTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-08-06T09:04:55+00:00",
+  "fetched_at": "2026-08-15T03:53:26+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "12161010bbec5c6c044f96cedf68a78a28a2a887",
+      "title": "Illegal in Muskoka",
+      "published_at": "2026-08-15T02:00:30+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/illegal-in-muskoka",
+      "description": "Katherine's Telling Everybody Everything about the family holiday through Ontario that sees Bobby K driving a 30 ft RV through downtown Toronto for an emergency last minute TV audition. Katherine denounces the Toronto airport hotel and encourages having luxury bedding in your rental accommodation. The cottage in Muskoka is AN OASIS while Sarnia was.....an experience. Katherine and Bobby narc on a drunk driver while doing something illegal themselves. Is it okay to leave your small children with male relatives? Plus, Hollywood news from comedian Andrew Johnston @mandrewbrawnston as Drake hosts a Chatty Baddy party nearby at Casa Loma, a toddler tantrum grounds an airplane in British Columbia, and a football player chose his seven baby's mothers based on their ankles. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1786758760595-21100383-edf8-4c68-8421-f42b52f6b31e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a7fc83ef8e81c43951acef8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81822742",
+      "itunes_duration": "56:49",
+      "speakers": [
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "illegal",
+        "muskoka"
+      ]
+    },
     {
       "key": "0cdc2ba243c4007b09e8c9251f06854334e3c7e1",
       "title": "Lindsay Clancy On Trial",
@@ -6409,6 +6428,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-15 — Illegal in Muskoka — speakers: Katherine Ryan
 - 2026-08-06 — Lindsay Clancy On Trial — speakers: Lindsay Clancy, Katherine Ryan
 - 2026-07-30 — I'm Sat — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-07-22 — Cannes and Single Dads — speakers: Katherine Ryan
