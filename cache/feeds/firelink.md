@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-08-16T09:41:18+00:00`
-- checked_at: `2026-08-16T09:41:18+00:00`
-- etag: `W/"3bf8e-mvKysPUZANVCC04DCt1W3mj/ME0"`
+- fetched_at: `2026-08-16T13:00:10+00:00`
+- checked_at: `2026-08-16T13:00:10+00:00`
+- etag: `W/"3d0c8-NBcKbuxDKdl9I+/SRExunbhR+nA"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-08-16T09:41:18+00:00",
+  "fetched_at": "2026-08-16T13:00:10+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,55 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "4cf7f813da68a2c42074084078574bc254b2837b",
+      "title": "The Slippery Slope of \"Inspired By...\" | Firelink Podcast",
+      "published_at": "2026-08-14T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/The-Slippery-Slope-of-Inspired-By-----Firelink-Podcast-e3nf9jb",
+      "description": "This week on Firelink, Nick and Marty chat about the slippery slope of making a game fully \"inspired by\" a classic, the small bit of Elder Scrolls 6 news, and Saber Interactive's CEO being a completely out of touch corpo.Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/124281899/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-16%2F85f96eae-307f-76bd-94da-a1cb0e859327.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "129601184",
+      "itunes_duration": "01:30:00",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "slippery",
+        "slope",
+        "firelink",
+        "podcast"
+      ]
+    },
+    {
+      "key": "2ecde43768f9e1a7b8340c956e9bb93fff894f07",
+      "title": "How Much Did Netflix Pay For Their Grand Theft Auto 6 Debut?! | Firelink Podcast",
+      "published_at": "2026-08-07T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/How-Much-Did-Netflix-Pay-For-Their-Grand-Theft-Auto-6-Debut----Firelink-Podcast-e3n5cq8",
+      "description": "This week on Firelink, KC and Marty run down this week's news, including the next big Grand Theft Auto VI reveal debuting on Netflix, Nintendo's latest Fire Emblem: Fortune's Weave Direct, and reports that Dave Bautista might be stepping into the role of Kratos. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠ patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/123957512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-8%2F0ae5a42f-a8e6-c952-aad8-0750f25150c6.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "165978464",
+      "itunes_duration": "01:55:15",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "netflix",
+        "grand",
+        "theft",
+        "auto",
+        "debut",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "1d3065d371575e1b7f4912f681daefee6ccd9c7f",
       "title": "The Remakes Will Continue Until Morale Improves | Firelink Podcast",
@@ -3079,6 +3128,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-14 — The Slippery Slope of "Inspired By..." | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
+- 2026-08-07 — How Much Did Netflix Pay For Their Grand Theft Auto 6 Debut?! | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-07-31 — The Remakes Will Continue Until Morale Improves | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-07-24 — Modern Indie Games That Changed the Industry | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-07-17 — Modern Games That Changed the Industry | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
