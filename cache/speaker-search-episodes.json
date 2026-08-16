@@ -24843,6 +24843,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:7ab64334a67c",
+        "feed_title": "The Green Man Podcast",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT9640995357",
+        "dedupe_key": "329bb6223eed4b10d42cd180f8277e32cba4b650",
+        "episode_key": "329bb6223eed4b10d42cd180f8277e32cba4b650",
+        "title": "Stewart Lee & Rich(ard) Dawson in conversation at the Green Man podcast tent.",
+        "published_at": "2025-08-26T16:11:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Icons in their respective fields and admirers of one another's work, Stewart Lee and Richard Dawson discuss their creative processes as well as what they're up to at this years' festival. \n\n\n\nStewart Lee delivered an extended set at Green Man 2025 (\"world's greatest living stand-up\" - The Times)\n\n\n\nAn a cappella song a",
+        "audio_url": "https://traffic.megaphone.fm/KILM5931477834.mp3?updated=1756224534",
+        "link_url": "https://podcasts.apple.com/gb/podcast/stewart-lee-rich-ard-dawson-in-conversation-at-the/id1701170588?i=1000723613738&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:94236977612e",
         "feed_title": "Distraction Pieces Podcast with Scroobius Pip",
         "source_rss_url": "https://feeds.acast.com/public/shows/ad4e2f12-9862-4cf6-b6af-3ae392c45fad",

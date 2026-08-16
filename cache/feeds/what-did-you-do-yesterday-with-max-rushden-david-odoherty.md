@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-08-16T03:58:49+00:00`
-- checked_at: `2026-08-16T03:58:49+00:00`
-- etag: `"djEuMi4wOjE3ODY4MzQzNzc5NTY="`
+- fetched_at: `2026-08-16T06:58:13+00:00`
+- checked_at: `2026-08-16T06:58:13+00:00`
+- etag: `"djEuMi4wOjE3ODY4NTI4Mzk1Njg="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-08-16T03:58:49+00:00",
+  "fetched_at": "2026-08-16T06:58:13+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a9f9226852c4e37b99ddacfbe4780291c20536cc",
+      "title": "S5 EP9: Jake Bhardwaj",
+      "published_at": "2026-08-16T04:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s5-ep9-jake-bhardwaj",
+      "description": "Joining us on this episode of '⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠What did you do yesterday?⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠' is the comedian Jake Bhardwaj We asked Jake what he did yesterday? He told us. That's it... enjoy! Hackney Empire - 7th September 2026 The wait is over. WDYDY is back for another live extravaganza… Your favourite podcast is returning to London’s Hackney Empire for another night of yesterday’s. May or may not include a BOC, an opening montage, a celeb guest, one too many quizzes, D.) Kestrels, and much much more… Get your tickets now at: www.hackneyempire.co.uk/events/what-did-you-do-yesterday Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1786832590926-54a4515a-082a-4827-b102-f0fc84c50b33.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a80e7f1f8e81c43955b2771/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61518994",
+      "itunes_duration": "1:04:04",
+      "speakers": [
+        "Jake Bhardwaj",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "jake",
+        "bhardwaj"
+      ]
+    },
     {
       "key": "019c47bd93e9272eedc3afbd6e748f79f1e18eb5",
       "title": "WDWDY #83.1: It is what it is... (Max's Yesterday)",
@@ -3912,6 +3933,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-16 — S5 EP9: Jake Bhardwaj — speakers: Jake Bhardwaj, Max Rushden, David O'Doherty
 - 2026-08-12 — WDWDY #83.1: It is what it is... (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-09 — S5 EP8: Andy Parsons — speakers: Andy Parsons, Max Rushden, David O'Doherty
 - 2026-08-06 — WDYDY - Live show in London 7th Sept at Hackney Empire — speakers: Hackney Empire Hello, Hackney Empir, Max Rushden, David O'Doherty
