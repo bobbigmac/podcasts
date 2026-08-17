@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-15T18:47:13+00:00`
-- checked_at: `2026-08-15T18:47:13+00:00`
-- etag: `"djEuMi4wOjE3ODY4MDk2MzkzNjQ="`
+- fetched_at: `2026-08-17T15:38:32+00:00`
+- checked_at: `2026-08-17T15:38:32+00:00`
+- etag: `"djEuMi4wOjE3ODY5ODA1NzUyNzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-15T18:47:13+00:00",
+  "fetched_at": "2026-08-17T15:38:32+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "3a405b9ec7967dcd6d18ae472e14110793aab896",
+      "title": "Reform's big benefits gamble",
+      "published_at": "2026-08-17T14:59:01+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/reform-plans-50bn-welfare-bill-cut",
+      "description": "After its victory in Clacton, Reform has announced plans to slash the welfare state. Over the weekend, Robert Jenrick claimed a Reform government would cut £50 billion from the welfare bill, excluding foreign nationals from most benefits. Meanwhile, a parliamentary investigation into Nigel Farage’s finances has resumed, after he was found to have accepted a £5 million gift from billionaire Christopher Harborne. Anoosh Chakelian is joined by political editor Ailbhe Rea. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1786978334715-52a37fba-eadb-479b-9a26-aa6c550e9307.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a83200b1d89b898921d6be0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72224102",
+      "itunes_duration": "37:31",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "reform",
+        "benefit",
+        "gamble"
+      ]
+    },
     {
       "key": "0602b434a8d23317b8464af21638451fdcae6ed2",
       "title": "Burnham bounce: Labour overtakes Reform",
@@ -32121,6 +32142,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — Reform's big benefits gamble — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-08-15 — Burnham bounce: Labour overtakes Reform — speakers: Reform Labour, Anoosh Chakelian, Oli Dugmore
 - 2026-08-14 — Farage wins again at Clacton circus — speakers: Clacton Leisure Centre, Anoosh Chakelian, Oli Dugmore
 - 2026-08-12 — Is Clacton fed up with Farage? — speakers: Anoosh Chakelian, Oli Dugmore
