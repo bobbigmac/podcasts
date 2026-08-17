@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-08-10T13:43:21+00:00`
-- checked_at: `2026-08-10T13:43:21+00:00`
-- last_modified: `Mon, 10 Aug 2026 11:00:33 GMT`
+- fetched_at: `2026-08-17T13:05:18+00:00`
+- checked_at: `2026-08-17T13:05:18+00:00`
+- last_modified: `Mon, 17 Aug 2026 11:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-10T13:43:21+00:00",
+  "fetched_at": "2026-08-17T13:05:18+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -28,11 +28,52 @@
   ],
   "episodes": [
     {
+      "key": "43b413a0c8a679ad8ef40bf17d5cdf4de6c69155",
+      "title": "496. Intimacy with Lena Headey",
+      "published_at": "2026-08-17T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 496. Intimacy Presented by Deborah Frances-White with special guest Lena Headey. Recorded 29 July 2026 via Riverside. Released 17 August. The Guilty Feminist theme composed by Mark Hodge. The Storytelling Leadership Academy is an eight-week online course for leaders who need to find their voice and tell their story. For more information and to register, click here. https://www.the-spontaneity-shop.com/storytelling-academy/ More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Intimacy and Lena Headey https://www.bbc.co.uk/programmes/p0fds1bs https://www.instagram.com/iamlenaheadey For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ DreamDate . https://www.edfringe.com/tickets/whats-on/deborah-frances-white-dreamdate Newcastle Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1996315094186 Newcastle Guilty Feminist live show. 5 September. https://www.live.org.uk/whats-on/guilty-feminist London Podcast Festival . https://www.kingsplace.co.uk/whats-on/podcast/the-guilty-feminist-10/ Vision Festival . https://www.ticketsource.com/booking/t-xdymnyp Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/22f0f024-99b4-11f1-ac84-5f98a54018a2/image/ffd19f38886792be2769df4c5b779440.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL4071874998.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3760",
+      "speakers": [
+        "Lena Headey",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "intimacy",
+        "lena",
+        "headey"
+      ]
+    },
+    {
+      "key": "3285c9cd280aa7a3b5f0a01c179246d8a3bf6e74",
+      "title": "Live from Wilderness Festival with The Circle NGO",
+      "published_at": "2026-08-11T17:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist. Live from Wilderness Festival Presented by Deborah Frances-White with special guests Raakhi Shah and Sukhi Kaur Recorded 2 August 2026 at Wilderness. Released 11 August. The Guilty Feminist theme composed by Mark Hodge. The Storytelling Leadership Academy is an eight-week online course for leaders who need to find their voice and tell their story. For more information and to register, click here. https://www.the-spontaneity-shop.com/storytelling-academy/ More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 With huge thanks to… Our wonderful guests, Sukhi Kaur from Sikh Women’s Aid https://www.sikhwomensaid.org.uk/ and Raakhi Shah from The Circle https://www.thecircle.ngo/. A huge thank you to Lisa Ball, Georgette Thomas and the whole team at The Circle for inviting us into this incredible gathering, and for everything you do to support women and girls around the world. https://www.thecircle.ngo/donate/ Thank you to the wonderful Sammy Andrews, Kim Chappell and Tara Paterson for your incredible work bringing SISTERS to Wilderness and making all of this possible. And, of course, thank you to the incredible Annie Lennox for bringing together such an extraordinary group of women, artists and activists, and for continuing to inspire action through SISTERS. Thank you to Jake Bright sound engineer at Wilderness Festival https://www.wildernessfestival.com/. Images: Callum Baker Videography: Charlotte Sawyer Live producer: Gina Decio For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Lindsey Mendick in Conversation . https://www.tickettailor.com/events/tkestudio/2325923%0A Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ DreamDate . https://www.edfringe.com/tickets/whats-on/deborah-frances-white-dreamdate Newcastle Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1996315094186 Newcastle Guilty Feminist live show, 5 September . https://www.live.org.uk/whats-on/guilty-feminist London Podcast Festival . https://www.kingsplace.co.uk/whats-on/podcast/the-guilty-feminist-10/ Vision Festival . https://www.ticketsource.com/booking/t-xdymnyp Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ac43a700-94f4-11f1-8b3e-7b5e32d5726d/image/7bba867fde4c6cfc97b02cd441324ac0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL4761099911.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2642",
+      "speakers": [
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "wilderness",
+        "festival",
+        "circle"
+      ]
+    },
+    {
       "key": "7a9011572d8140a9b92c2a0980e45178a3aefa43",
       "title": "495. The Architecture of Autocracy with Isabella Segalovich",
       "published_at": "2026-08-10T11:00:00+00:00",
       "link": null,
-      "description": "The Guilty Feminist 495. The Architecture of Autocracy Presented by Deborah Frances-White with special guest Isabella Segalovich Recorded 5 August 2026 via Riverside. Released 10 August. The Guilty Feminist theme composed by Mark Hodge. The Storytelling Leadership Academy is an eight-week online course for leaders who need to find their voice and tell their story. For more information and to register, click here. https://www.the-spontaneity-shop.com/storytelling-academy/ More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about our Isabella Segalovich https://www.instagram.com/interstellar_isabellar https://www.patreon.com/isasegalovich https://www.interstellarisabellar.com For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Lindsey Mendick in Conversation . https://www.tickettailor.com/events/tkestudio/2325923%0A Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ DreamDate . https://www.edfringe.com/tickets/whats-on/deborah-frances-white-dreamdate Newcastle Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1996315094186 Newcastle Guilty Feminist live show, 5 September . https://www.live.org.uk/whats-on/guilty-feminist London Podcast Festival . https://www.kingsplace.co.uk/whats-on/podcast/the-guilty-feminist-10/ Vision Festival . https://www.ticketsource.com/booking/t-xdymnyp Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "The Guilty Feminist 495. The Architecture of Autocracy Presented by Deborah Frances-White with special guest Isabella Segalovich Recorded 5 August 2026 via Riverside. Released 10 August. Get ahead of your to-do list with ten pounds off your first task at Taskrabbit dot co dot uk or on the Taskrabbit app using promo code GUILTYTASK1 The Guilty Feminist theme composed by Mark Hodge. The Storytelling Leadership Academy is an eight-week online course for leaders who need to find their voice and tell their story. For more information and to register, click here. https://www.the-spontaneity-shop.com/storytelling-academy/ More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about our Isabella Segalovich https://www.instagram.com/interstellar_isabellar https://www.patreon.com/isasegalovich https://www.interstellarisabellar.com For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Lindsey Mendick in Conversation . https://www.tickettailor.com/events/tkestudio/2325923%0A Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ DreamDate . https://www.edfringe.com/tickets/whats-on/deborah-frances-white-dreamdate Newcastle Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1996315094186 Newcastle Guilty Feminist live show, 5 September . https://www.live.org.uk/whats-on/guilty-feminist London Podcast Festival . https://www.kingsplace.co.uk/whats-on/podcast/the-guilty-feminist-10/ Vision Festival . https://www.ticketsource.com/booking/t-xdymnyp Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/f188eb14-9444-11f1-b48d-f765e00dcb35/image/0f6d13f133f849dbf95fb0f59cf8a14d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL4779855091.mp3",
       "enclosure_type": "audio/mpeg",
@@ -18402,6 +18443,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — 496. Intimacy with Lena Headey — speakers: Lena Headey, Deborah Frances-White
+- 2026-08-11 — Live from Wilderness Festival with The Circle NGO — speakers: Deborah Frances-White
 - 2026-08-10 — 495. The Architecture of Autocracy with Isabella Segalovich — speakers: Isabella Segalovich, Deborah Frances-White
 - 2026-08-03 — 494. Ventnor Fringe with Felicity Ward and special guests Cody Pevreall and Ben Holmes — speakers: Cody Pevreall, Ben Holmes, Fringe Presented, Deborah Frances-White
 - 2026-07-27 — 493. Edinburgh Previews with Alice Fraser, Katie Pritchard, Rosie Holt and Jess Robinson — speakers: Edinburgh Previews, Alice Fraser, Katie Pritchard, Rosie Holt, Jess Robinson, Deborah Frances-White
