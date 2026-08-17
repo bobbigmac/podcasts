@@ -41411,6 +41411,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:4ef9441df0fd",
+        "feed_title": "Enjoy Your Favorite Digital Audiobooks Anywhere, Anytime Instantly",
+        "source_rss_url": "https://booksreader.space/br/2098/index.xml",
+        "dedupe_key": "b3e6c0c07cf76dcc48109dd6235968c945037c72",
+        "episode_key": "b3e6c0c07cf76dcc48109dd6235968c945037c72",
+        "title": "Mock the Week: Too Hot for TV 3 | Dara O'Briain, Hugh Dennis, Ed Byrne, Frankie Boyle, David Mitchell",
+        "published_at": "2011-12-05T09:34:43Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "#ads Stream any unabridged audiobook of your choice with premium access by starting your trial on:https://booksreader.space/al-2098/Title: Mock the Week: Too Hot for TV 3\n Author: Dara O'Briain, Hugh Dennis, Ed Byrne, Frankie Boyle, David Mitchell\n Narrator: Dara O'Briain, Hugh Dennis, Ed Byrne, Frankie Boyle, David Mi",
+        "audio_url": "https://samples.audible.com/bk/rbet/000021/bk_rbet_000021_sample.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/mock-the-week-too-hot-for-tv-3-dara-obriain-hugh/id6798918589?i=1000780359579&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f22e319bc1e6",
         "feed_title": "A Bit Of A Chat With Ken Plume - FRED Entertainment",
         "source_rss_url": "https://rss.libsyn.com/shows/18537/destinations/12910.xml",
