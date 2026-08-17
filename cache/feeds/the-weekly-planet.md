@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-08-17T04:01:53+00:00`
-- checked_at: `2026-08-17T04:01:53+00:00`
-- etag: `"djEuMi4wOjE3ODY5MzY0MjU2NDk="`
+- fetched_at: `2026-08-17T07:15:46+00:00`
+- checked_at: `2026-08-17T07:15:46+00:00`
+- etag: `"djEuMi4wOjE3ODY5NDEwMzk0NjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-08-17T04:01:53+00:00",
+  "fetched_at": "2026-08-17T07:15:46+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f889f106da30f52bcb966a2c7e425c5ee0920586",
+      "title": "636 Marvel/Star Wars Crossover & The End of Oak Street",
+      "published_at": "2026-08-17T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/636-marvelstar-wars-crossover-the-end-of-oak-street",
+      "description": "Unfortunately we recorded this a little bit before all the big reveals of D23 (new X-Men cast, trailers for Avengers: Doomsday and Vision Quest, Bluey the movie and also other things) but we still got to check out The End of Oak Street which answers the question \"what if dinosaurs but also the 80s?\" We also discuss the first ever official Star Wars/Marvel crossover, a bunch of DCU shows getting cancelled, trouble brewing for Barbie 2, updates on the Paramount WB merger and what this whole Infinity Vision thing is in the lead up to Doomsday. Thanks for listening New bonus Booque Clubbe podcast episode and video out now! James & Maso talking big comic Beta Rey Bill: Argent Star. Available to watch and listen today for all 'Big Sandwich' members on bigsandwich.co, patreon.com/mrsundaymovies or via YouTube Memberships on youtube.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 04:08 Marvel/Star Wars Crossover 18:59 DCU Shows Cancelled 21:49 Mr Miracle Series 22:52 Barbie 2 Movie in Trouble 28:26 Paramount's Warner Bros Threats 35:56 Primetime Trailer 40:42 Next Avengers: Doomsday Teaser (maybe) 46:56 The End of Oak Street Movie Review 57:18 The End of Oak Street Spoiler Segment 01:04:38 What We Reading, What We Gonna Read 01:12:02 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a7dd1906e5b5bfda61134fc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132563727",
+      "itunes_duration": "1:32:03",
+      "speakers": [
+        "Star Wars Crossover",
+        "Oak Street Unfortunately",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "marvel",
+        "star",
+        "wars",
+        "crossover",
+        "street"
+      ]
+    },
     {
       "key": "13e4fb695f77c97bba4129165252434d1a44c1bd",
       "title": "Resident Evil - Caravan Of Garbage",
@@ -22891,6 +22916,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — 636 Marvel/Star Wars Crossover & The End of Oak Street — speakers: Star Wars Crossover, Oak Street Unfortunately, James Clement, Nick Mason
 - 2026-08-13 — Resident Evil - Caravan Of Garbage — speakers: Zack Cregger, James Clement, Nick Mason
 - 2026-08-10 — 635 Spider-Man Success & Best/Worst Comic Adaptations (Part 2) — speakers: Man Success, Worst Comic Adaptations, James Clement, Nick Mason
 - 2026-08-07 — Space Jam: A New Legacy - Caravan Of Garbage — speakers: Space Jam, James Clement, Nick Mason

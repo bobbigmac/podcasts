@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-08-03T10:04:50+00:00`
-- checked_at: `2026-08-03T10:04:50+00:00`
-- last_modified: `Sun, 02 Aug 2026 06:30:00 GMT`
+- fetched_at: `2026-08-17T07:15:46+00:00`
+- checked_at: `2026-08-17T07:15:46+00:00`
+- last_modified: `Mon, 17 Aug 2026 06:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-08-03T10:04:50+00:00",
+  "fetched_at": "2026-08-17T07:15:46+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3ec93ef6ca38024f8e3714d6922efd4d3f3d80eb",
+      "title": "Gepetto",
+      "published_at": "2026-08-17T06:30:00+00:00",
+      "link": null,
+      "description": "Have you ever wondered what Pinocchio's dad Gepetto was getting up to during the events of Pinocchio? You haven't?! Well buckle up, because you're about to find out and it involves Julia Louis-Dreyfus doing an accent, a weirdo professor and his breeding machine and of course, Usher's gang of barbershop acrobat clowns. Gepetto is a lonely toy maker who wishes for a son. But when the Blue Fairy gives him his longed for offspring by bringing one of his wooden puppets to life, Gepetto realises that he doesn't want Pinocchio after all, because the boy keeps doing things like asking him questions and playing with toys. But when Pinocchio runs away to join Stromboli's travelling show, Gepetto realises that Pinocchio is actually his property and sets out on a quest to get him back. Will Gepetto find Pinocchio and make amends? Des Drew Carey have somewhere else he'd rather be right now? And just how much of your genetic material needs to go into Professor Buonragazzo's machine? Listen and find out! Vote for Mom Can't Cook! in the British Podcast Awards! If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched Gepetto and have your own thoughts, please email us at momcantcookpod@gmail.com for a chance to have your comments read out on the show. Next time on Mom Can't Cook! we'll be watching 2026's Camp Rock 3. See you then! This episode is sponsored by NordVPN! Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ https://nordvpn.com/momcantcook . Itʼs risk free with NordVPNʼs 30-day money-back guarantee! This episode is also sponsored by Saily. Get an exclusive 15% discount on Saily data plans! Use code momcantcook at checkout. Download Saily app or go to saily.com/momcantcook Thanks to sponsor Green Chef! Head to greenchef.com/50momcantcook and use code 50momcantcook to get fifty percent off your first month, then twenty percent off for two months. Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/tracking.swap.fm/track/IVPmvUWSCISCVAzWNnnJ/rss.art19.com/episodes/90ebc1b9-8d40-4bf8-b102-fcef1925b815.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "148019409",
+      "itunes_duration": "02:34:11",
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
+      "topics": [
+        "gepetto"
+      ]
+    },
     {
       "key": "d76704c59f01b27f2b74023db9dd58b544f7fce1",
       "title": "The Adventures of Food Boy",
@@ -2253,6 +2272,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — Gepetto — speakers: Luke Westaway, Andy Farrant
 - 2026-08-02 — The Adventures of Food Boy — speakers: Luke Westaway, Andy Farrant
 - 2026-07-20 — Camp Rock 2: The Final Jam — speakers: Luke Westaway, Andy Farrant
 - 2026-07-06 — Invisible Sister — speakers: Invisible Sister Cleo, Luke Westaway, Andy Farrant

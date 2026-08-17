@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-08-10T04:53:18+00:00`
-- checked_at: `2026-08-10T04:53:18+00:00`
-- etag: `"ebcc9e7cdca726705d60db4de06c7532"`
-- last_modified: `Mon, 10 Aug 2026 04:12:48 GMT`
+- fetched_at: `2026-08-17T07:15:46+00:00`
+- checked_at: `2026-08-17T07:15:46+00:00`
+- etag: `"33e4a71cf98b28de2dafbdf1e84542cc"`
+- last_modified: `Mon, 17 Aug 2026 04:16:41 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-08-10T04:53:18+00:00",
+  "fetched_at": "2026-08-17T07:15:46+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "cf1f858c074d5413c9efe3f13a12e29d236826ea",
+      "title": "Xbox Boss Reveals Brief Thoughts On Elder Scrolls 6 After Live Playthrough - (Xbox In Ten: An Xbox Podcast - Ep. 377)",
+      "published_at": "2026-08-17T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-boss-reveals-brief-thoughts-on-elder-scrolls-6-after-live-playthrough-xbox-in-ten-an-xbox-podcast-ep-377",
+      "description": "Week of: 810-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/4/8/2/a/482ab4cd561959e9d959afa2a1bf1c87/377.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/377.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "16278328",
+      "itunes_duration": "11:42",
+      "speakers": [
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "boss",
+        "thought",
+        "elder",
+        "scrolls",
+        "playthrough",
+        "podcast"
+      ]
+    },
     {
       "key": "2ae77b2ff6e9ca40c7acc32284471aa15e6f7259",
       "title": "Grand Theft Auto VI: An Extended Look Premiering on Netflix + Game Play Reveal! - (Xbox In Ten: An Xbox Podcast - Ep. 376)",
@@ -9486,6 +9510,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — Xbox Boss Reveals Brief Thoughts On Elder Scrolls 6 After Live Playthrough - (Xbox In Ten: An Xbox Podcast - Ep. 377) — speakers: Brandon Rosa
 - 2026-08-10 — Grand Theft Auto VI: An Extended Look Premiering on Netflix + Game Play Reveal! - (Xbox In Ten: An Xbox Podcast - Ep. 376) — speakers: Netflix Game Play Reveal, Brandon Rosa
 - 2026-08-03 — Xbox's Top 4 Priorities For Growth After Revenue for the Year Declined by $1.7 Billion - (Xbox In Ten: An Xbox Podcast - Ep. 375) — speakers: Year Declined, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-07-27 — Original XBOX Backwards Compatibility on PC is Here! - (Xbox In Ten: An Xbox Podcast - Ep. 374) — speakers: Backwards Compatibility, Xbox Gaming News, Fun Fact, Brandon Rosa
