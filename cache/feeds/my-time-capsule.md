@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-08-14T02:45:18+00:00`
-- checked_at: `2026-08-14T02:45:18+00:00`
-- etag: `"djEuMi4wOjE3ODY2NjIxNTkzNjQ="`
+- fetched_at: `2026-08-17T01:54:43+00:00`
+- checked_at: `2026-08-17T01:54:43+00:00`
+- etag: `"djEuMi4wOjE3ODY5MjEzNTkzMjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-08-14T02:45:18+00:00",
+  "fetched_at": "2026-08-17T01:54:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "bda3e29e86704d78f196deaf9c7462d8918e0025",
+      "title": "Ep. 600 - Su Pollard - One of Britain’s best-loved comedy actresses and entertainers",
+      "published_at": "2026-08-16T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-600-su-pollard-one-of-britains-best-loved-comedy-actresse",
+      "description": "600!? Su Pollard is one of Britain’s best-loved comedy actresses and entertainers, with a career spanning more than 50 years. She became a household name as the unforgettable Peggy Ollerenshaw in the BBC sitcom Hi-de-Hi!, before starring as Ivy Teasdale in You Rang, M’Lord? and Ethel Schumann in Oh, Doctor Beeching!. A hugely versatile performer, Su has enjoyed an extensive West End and touring theatre career, including Me and My Girl, Sweet Charity, Annie, The Pirates of Penzance and Shout!, as well as more than 40 pantomimes. She is also a successful singer, scoring a No. 2 UK hit with Starting Together in 1986. In 2023 she received the UK Pantomime Association’s Outstanding Achievement Award, recognising her remarkable contribution to the genre. Su Pollard is our guest in episode 600 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . For Su Pollard’s book and everything else Su, visit - https://supollardlive.com . Follow Su Pollard on Instagram : @officialsupollard . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a818b71ff328abd84214ed1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44478087",
+      "itunes_duration": "37:03",
+      "speakers": [
+        "Su Pollard"
+      ],
+      "topics": [
+        "pollard",
+        "britain",
+        "comedy",
+        "actress",
+        "entertainer"
+      ]
+    },
     {
       "key": "33c9810e8078348203fd17c92fff27d88efbe3d0",
       "title": "Tim Vine Unedited - An uncut version now 10 minutes longer!",
@@ -13244,6 +13266,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-16 — Ep. 600 - Su Pollard - One of Britain’s best-loved comedy actresses and entertainers — speakers: Su Pollard
 - 2026-08-13 — Tim Vine Unedited - An uncut version now 10 minutes longer! — speakers: Tim Vine
 - 2026-08-09 — Anthony Head Tribute — speakers: Anthony Head Tribute, Anthony Head
 - 2026-08-06 — Ep. 599 - Cecily Hitchcock - A raising star of British comedy making her Edinburgh Fringe debut — speakers: Edinburgh Fringe

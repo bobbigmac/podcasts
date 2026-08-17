@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-08-10T02:34:11+00:00`
-- checked_at: `2026-08-10T02:34:11+00:00`
-- last_modified: `Sun, 09 Aug 2026 23:00:31 GMT`
+- fetched_at: `2026-08-17T01:54:43+00:00`
+- checked_at: `2026-08-17T01:54:43+00:00`
+- last_modified: `Sun, 16 Aug 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-10T02:34:11+00:00",
+  "fetched_at": "2026-08-17T01:54:43+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "92fbd85c78b76a7c1f4a5ae5bcb9d389e67ea9d6",
+      "title": "MILES JUPP: Comedy Influences, Academic Stress & Finding His Tribe",
+      "published_at": "2026-08-16T23:00:00+00:00",
+      "link": null,
+      "description": "Miles Jupp is back and shares with Seann Walsh how he struggled and felt under pressure academically, reveals his biggest comedy inspirations and talks about how finding a tribe on the London comedy scene with a group where everyone was completely different from each other. Get £10 off at TaskRabbit using the code classclown at checkout ⁠https://www.taskrabbit.co.uk/dashboard⁠ If you love Miles and want more head to our Patreon for exclusive content https://www.patreon.com/ClassClown Check out Miles podcast, ⁠The Moment With Miles Jupp⁠ https://open.spotify.com/show/4RC6edo1CAP0MuHYNU238k See Seann Walsh live on his ⁠This Is Torture!⁠ tour https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL5581264714.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1704",
+      "speakers": [
+        "Miles Jupp",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "miles",
+        "jupp",
+        "comedy",
+        "influences",
+        "academic",
+        "stress",
+        "finding",
+        "tribe"
+      ]
+    },
     {
       "key": "b88ccf0f1718e6b2eda651c8cbca4a6974f46d21",
       "title": "MILES JUPP: From Boarding School to Comedy Fame",
@@ -36,7 +62,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL4820718257.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3201",
+      "itunes_duration": "3321",
       "speakers": [
         "Miles Jupp",
         "Seann Walsh"
@@ -60,7 +86,7 @@
       "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL1003501640.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3130",
+      "itunes_duration": "3250",
       "speakers": [
         "Josh Pugh",
         "Seann Walsh"
@@ -1772,6 +1798,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-16 — MILES JUPP: Comedy Influences, Academic Stress & Finding His Tribe — speakers: Miles Jupp, Seann Walsh
 - 2026-08-09 — MILES JUPP: From Boarding School to Comedy Fame — speakers: Miles Jupp, Seann Walsh
 - 2026-08-02 — JOSH PUGH: How Playing Sports Helped Me With Comedy & Inspiration for New Sitcom — speakers: Josh Pugh, Seann Walsh
 - 2026-07-26 — JOSH PUGH: Mad Benidorm Comedians, Embarrassing Childhood Fantasies, Being Sent to A “Special” School — speakers: Josh Pugh, Seann Walsh

@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-08-14T02:45:18+00:00`
-- checked_at: `2026-08-14T02:45:18+00:00`
-- last_modified: `Fri, 14 Aug 2026 00:06:54 GMT`
+- fetched_at: `2026-08-17T01:54:43+00:00`
+- checked_at: `2026-08-17T01:54:43+00:00`
+- last_modified: `Mon, 17 Aug 2026 00:06:46 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-14T02:45:18+00:00",
+  "fetched_at": "2026-08-17T01:54:43+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,26 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "202db56b3a079de4eb11394c7d40d706069cf19d",
+      "title": "Pass the Grapes",
+      "published_at": "2026-08-17T00:00:00+00:00",
+      "link": null,
+      "description": "Frank is joined in Edinburgh by comedians Finlay Christie and Sara Barron. Sara’s husband has been interviewing Frank, Frank discusses his “icks”, and Finlay is dramatically eating grapes. If you want to message the show, email us at FrankOffTheRadio@AvalonUK.com or WhatsApp us on 07457 417 769. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4927530983.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2460",
+      "speakers": [
+        "Finlay Christie",
+        "Sara Barron",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "grape"
+      ]
+    },
     {
       "key": "be8479d53e36ddcbbae346f394df4d1cda9199dd",
       "title": "Frank The Clown",
@@ -24459,6 +24479,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — Pass the Grapes — speakers: Finlay Christie, Sara Barron, Frank Skinner
 - 2026-08-14 — Frank The Clown — speakers: Clown Frank, Finlay Christie, Sara Barron, Frank Skinner
 - 2026-08-12 — Frank Skinner's Radio Days: Rubber Cookie — speakers: Frank Skinner
 - 2026-08-10 — Frank’s New Friends! — speakers: Frank’s New Friends, Vittorio Angelone, Bryony Kimmings, Frank Skinner

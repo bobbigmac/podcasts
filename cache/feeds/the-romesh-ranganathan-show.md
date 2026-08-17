@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-08-13T02:46:30+00:00`
-- checked_at: `2026-08-13T02:46:30+00:00`
-- last_modified: `Wed, 12 Aug 2026 23:10:19 GMT`
+- fetched_at: `2026-08-17T01:54:43+00:00`
+- checked_at: `2026-08-17T01:54:43+00:00`
+- last_modified: `Sun, 16 Aug 2026 23:10:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-13T02:46:30+00:00",
+  "fetched_at": "2026-08-17T01:54:43+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "99ef50959a2892528f709ce5a75671faa49af2cc",
+      "title": "Diane Morgan On Comedy, Cunk and becoming a robot in Ann Droid",
+      "published_at": "2026-08-16T23:01:00+00:00",
+      "link": null,
+      "description": "How did Philomena Cunk come about? In this episode of The Romesh Ranganathan Show, Romesh is joined by Diane Morgan to talk about her new hit BBC iPlayer sitcom, Ann Droid and her journey into comedy, from working with Charlie Brooker, developing the iconic Philomena Cunk, to working on Ricky Gervais' new series, Alley Cats. Diane reveals how working in a factory pushed her towards her goals and discusses her early comedy influences. The pair talk early career moves, the experience of attending drama school, all the way to working together on Last One Laughing. Plus, there's some mild hate for Hollywood and they get into the difficulties of going plant-based. To top it off, there's an exclusive, a story of how to handle failure (comically) and a question, of course, from Shanthi. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 03:03 Last One Laughing 10:29 Dental nursing 13:31 A gift for Diane gone wrong 17:00 On being plant-based 20:08 Comedy influences 23:34 Career beginnings 27:08 Drama school 32:06 On Cunk and success 34:55 On Hollywood 35:33 LA’s vegan scene 38:31 Vegan hacks 41:01 A question from Shanthi on TikTok Shop 44:46 Dog owner stories 48:26 On Ann Droid 56:54 Robot contact lenses 59:53 Alley Cats 01:01:11 Misquoted 01:08:06 An exclusive 01:10:50 A rumour about Diane and Joe Wilkinson 01:12:27 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1b9b5216-97c4-11f1-86f6-27cf969808fa/image/e942925c9944fc6a614f13e8b73838d9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7271686723.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4560",
+      "speakers": [
+        "Diane Morgan",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "diane",
+        "morgan",
+        "comedy",
+        "cunk",
+        "robot",
+        "droid"
+      ]
+    },
     {
       "key": "cb39cf65364d4872acdafda7cd01e2c23c1d2496",
       "title": "Drag Queens, Peer Pressure and What To Watch",
@@ -2148,6 +2172,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-16 — Diane Morgan On Comedy, Cunk and becoming a robot in Ann Droid — speakers: Diane Morgan, Romesh Ranganathan
 - 2026-08-12 — Drag Queens, Peer Pressure and What To Watch — speakers: Drag Queens, Romesh Ranganathan
 - 2026-08-09 — Himesh Patel: Starring In The Odyssey, Working With Matt Damon, And Life After EastEnders — speakers: Matt Damon, Romesh Ranganathan
 - 2026-08-05 — Romesh & Shanthi React To Idris Elba's Apology — speakers: Idris Elba, Romesh Ranganathan
