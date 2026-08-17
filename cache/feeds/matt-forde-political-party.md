@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-08-17T01:54:43+00:00`
-- checked_at: `2026-08-17T01:54:43+00:00`
-- etag: `"djEuMi4wOjE3ODY5MDI0NDUxMjA="`
+- fetched_at: `2026-08-17T04:01:53+00:00`
+- checked_at: `2026-08-17T04:01:53+00:00`
+- etag: `"djEuMi4wOjE3ODY5MzM4Mzk0NDY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-08-17T01:54:43+00:00",
+  "fetched_at": "2026-08-17T04:01:53+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "adbcd70777676eb68bfdd4655837efba741c63e7",
+      "title": "Sturgeon wrong to criticise SNP: Stephen Flynn LIVE in Edinburgh",
+      "published_at": "2026-08-17T02:30:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/sturgeon-wrong-to-criticise-snp-stephen-flynn-live-in-edinbu",
+      "description": "One of the SNP's top talents, Stephen Flynn is on hilarious form at the Edinburgh Festival. He opens up about his frustrations with Nicola Sturgeon's critique of the SNP campaign and exclusively reveals that he'd already resigned as SNP Leader in Westminster BEFORE the 2024 general election had been called. Stephen's got great stories about small talk with ex-Prime Ministers at the Cenotaph as well as his experiences from his summer travelling across the USA with the Tartan Army at the World Cup. It's clear to see why he's so highly regarded, especially as he had to overcome major health problems in his youth. This is a story of resilience, determination. And football. See the Political Party Live on Stage: 18 August: Douglas Alexander (Edinburgh) 20 August: Malcolm Offord (Edinburgh) 9 November: Liz Kendall (London) 21 December: Wes Streeting (London) GET TICKETS for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival and touring nationwide in 2027: www.mattforde.com MARCH 19 FAVERSHAM The Alex 20 DORKING Halls APRIL 7 STOURBRIDGE Town Hall 8 GLOUCESTER Guildhall 9 LEICESTER Y Theatre 12 SALFORD Lowry 16 NORTHAMPTON Royal & Derngate 21 EXETER Northcott Theatre 24 LONDON Bloomsbury Theatre 28 ALNWICK Playhouse 29 BARNARD CASTLE Witham 30 HULL Asylum MAY 6 BIRMINGHAM The Glee Club 12 COVENTRY Warwick Arts Centre 13 WORCESTER Huntingdon Hall 14 CHORLEY Theatre 18 STAMFORD Corn Exchange 19 SHEFFIELD Steamworks 20 SHREWSBURY Theatre Severn 21 NOTTINGHAM Theatre Royal 23 LEEDS City Varieties Music Hall 26 NORWICH Playhouse 27 NORWICH Playhouse JUNE 2 SCUNTHORPE Plowright 4 CANTERBURY Gulbenkian Theatre 5 READING Concert Hall 8 CARDIFF The Glee Club 9 BATH Komedia 10 MONMOUTH Savoy Theatre 11 CHIPPING NORTON The Theatre 15 BURY ST EDMUNDS Theatre Royal 16 MILTON KEYNES The Stables 18 TUNBRIDGE WELLS Trinity Theatre 30 LIVERPOOL Everyman Playhouse JULY 1 CARLISLE Old Fire Station 2 GLASGOW The Glee Club 4 EDINBURGH Lyceum Theatre Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a81f7ad4394d6874bd355a4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "90311617",
+      "itunes_duration": "1:02:42",
+      "speakers": [
+        "Stephen Flynn",
+        "Matt Forde"
+      ],
+      "topics": [
+        "sturgeon",
+        "stephen",
+        "flynn",
+        "edinburgh"
+      ]
+    },
     {
       "key": "c4c3948f2fd28be005743bbbcc3fed85f6f24c79",
       "title": "EXCLUSIVE: What really happened when I told Keir Starmer to resign, with Anas Sarwar",
@@ -10611,6 +10633,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — Sturgeon wrong to criticise SNP: Stephen Flynn LIVE in Edinburgh — speakers: Stephen Flynn, Matt Forde
 - 2026-08-10 — EXCLUSIVE: What really happened when I told Keir Starmer to resign, with Anas Sarwar — speakers: Matt Forde
 - 2026-08-03 — Huw Edwards sabotaged my show: Broadcasting legend Simon McCoy on what really happened at the BBC — speakers: Simon McCoy, Matt Forde
 - 2026-07-27 — Top Blairite: Why I'm Not Blairite Anymore — speakers: John McTernan, Matt Forde

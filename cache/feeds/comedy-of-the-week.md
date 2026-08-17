@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-08-10T04:53:18+00:00`
-- checked_at: `2026-08-10T04:53:18+00:00`
-- etag: `"36a65ba780f0d8e4dc7cd3fac1241b21"`
-- last_modified: `Mon, 10 Aug 2026 04:00:04 GMT`
+- fetched_at: `2026-08-17T04:01:53+00:00`
+- checked_at: `2026-08-17T04:01:53+00:00`
+- etag: `"0b4320e657d088dd84eea5f6da86d7fe"`
+- last_modified: `Mon, 17 Aug 2026 04:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-08-10T04:53:18+00:00",
+  "fetched_at": "2026-08-17T04:01:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "4d867afe2e660fbcd85eba404756a4296b3f0deb",
+      "title": "Paul Sinha's Perfect Pub Quiz",
+      "published_at": "2026-08-17T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p4khl1",
+      "description": "Kicking off a fifth series, Paul takes his audience in Boston, Lincolnshire, through an ideal range of questions for a perfect pub quiz. He also has rounds inspired by the area, on subjects like suspension bridges, the tallest buildings in the world, and the way in which Boston avenged Lincoln. And he gets asked - again - about the Lincolnshire football club that's had three England captains, Jack Daniels, and the Lincolnshire town that used to be the capital of England. This Comedy of the Week episode features the first episode of the fifth series of Paul Sinha's Perfect Pub Quiz. All series are available to listen on BBC Sounds. Written and performed by Paul Sinha Additional material: Oliver Levy Additional questions: The Audience Recorded at the Blackfriars Theatre, Boston, by Jerry Peal at Peal Sound Mixed by Rich Evans at Syncbox Post Producer: Ed Morrish Executive producer: Lyndsay Fenner A Lead Mojo production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p4kd7t.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27824000",
+      "itunes_duration": "1739",
+      "speakers": [
+        "Paul Sinha"
+      ],
+      "topics": [
+        "paul",
+        "sinha",
+        "perfect",
+        "quiz"
+      ]
+    },
     {
       "key": "059e0718e0c75a5a006a8dd1b373bcad9b38d907",
       "title": "Just a Minute",
@@ -987,28 +1008,6 @@
         "mitchell",
         "cost"
       ]
-    },
-    {
-      "key": "e5ce37c1633a198d613dc6d3478638a6b13992cc",
-      "title": "Oliver Callan Bins the Border",
-      "published_at": "2025-08-11T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lv6lz4",
-      "description": "Oliver Callan hosts a panel show in which comedians from both sides of the Irish border and Britain imagine what a united Ireland would look like if it ever happened. This week, Oliver Callan is joined by Neil Delamere, Alison Spittle, John Meagher and Ashley Storrie to debate a new national flag, who the head of state might be and the official, national breakfast. To listen to Part 2: Belfast, search Oliver Callan Bins The Border on BBC Sounds. Producer: Marc McElroy A BBC Northern Ireland Production for Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lv6k25.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27344000",
-      "itunes_duration": "1709",
-      "speakers": [
-        "Oliver Callan Bins",
-        "Oliver Callan"
-      ],
-      "topics": [
-        "oliver",
-        "callan",
-        "bins",
-        "border"
-      ]
     }
   ]
 }
@@ -1017,6 +1016,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — Paul Sinha's Perfect Pub Quiz — speakers: Paul Sinha
 - 2026-08-10 — Just a Minute
 - 2026-08-03 — Best Medicine — speakers: Michelle Wolf
 - 2026-07-27 — Current-ish — speakers: Lucy Porter, John Tothill, Kyrah Gray, Amy Annette
@@ -1067,4 +1067,3 @@
 - 2025-09-01 — Room 101 with Paul Merton — speakers: Paul Merton
 - 2025-08-25 — The Edinburgh Comedy Awards Gala 2025
 - 2025-08-18 — Stuart Mitchell's Cost of Dying — speakers: Stuart Mitchell
-- 2025-08-11 — Oliver Callan Bins the Border — speakers: Oliver Callan Bins, Oliver Callan

@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-15T03:53:26+00:00`
-- checked_at: `2026-08-15T03:53:26+00:00`
-- etag: `"djEuMi4wOjE3ODY2OTk3OTMzNTg="`
+- fetched_at: `2026-08-17T04:01:53+00:00`
+- checked_at: `2026-08-17T04:01:53+00:00`
+- etag: `"djEuMi4wOjE3ODY5MzIwMzk2MzA="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-15T03:53:26+00:00",
+  "fetched_at": "2026-08-17T04:01:53+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,28 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "77a039afc14673aafb506136ac3bf0f5225616ea",
+      "title": "S16 Ep 889 Vault Mondays: Joe's Weight and Joe's Impressions",
+      "published_at": "2026-08-17T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-889-vault-mondays-joes-weight-and-joes-impressions",
+      "description": "We’re heading back to the early days of the pod for this archive show. In this one, we chatted about bleak venues, other podcasts, Joe's impressions, Joe's weight loss, Joe's speed eating, Deacon Blue, Talent Agency feedback and finish with Part 3 of our Howard's Way watch-along. First posted on 20 April 2021 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a7eb0cf248fe5d9f8cf313d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26625671",
+      "itunes_duration": "27:44",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "weight",
+        "impression"
+      ]
+    },
     {
       "key": "981e7d050a5d9a99f74c1d1f564324ec854da274",
       "title": "S16 Ep 888 Listener’s Mailbag: Sex Shops and Epic Catch-Ups",
@@ -15960,6 +15982,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — S16 Ep 889 Vault Mondays: Joe's Weight and Joe's Impressions — speakers: Joe Wilkinson, David Earl
 - 2026-08-14 — S16 Ep 888 Listener’s Mailbag: Sex Shops and Epic Catch-Ups — speakers: Sex Shops, Epic Catch, Joe Wilkinson, David Earl
 - 2026-08-13 — S16 Ep 887: Joe’s List of Delights — speakers: Joe Wilkinson, David Earl
 - 2026-08-12 — S16 Ep 886: The Man Who Leaves No Trace — speakers: Joe Wilkinson, David Earl

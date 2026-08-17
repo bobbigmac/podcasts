@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-08-16T15:35:33+00:00`
-- checked_at: `2026-08-16T15:35:33+00:00`
-- etag: `"djEuMi4wOjE3ODY4OTMyOTE0MDE="`
+- fetched_at: `2026-08-17T04:01:53+00:00`
+- checked_at: `2026-08-17T04:01:53+00:00`
+- etag: `"djEuMi4wOjE3ODY5MzU0NTkyOTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-08-16T15:35:33+00:00",
+  "fetched_at": "2026-08-17T04:01:53+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9456d8cb98feaed1d0ed1c1d399c58cd183e4591",
+      "title": "Adam Buxton (Retro) - \"Cock Bongo\"",
+      "published_at": "2026-08-17T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Ed Fringe 2011 #25 - Cock Bongo - It's the end, my friends and someone is set to win half a bottle of olive oil, some Weetabix and the monarchy of Edinburgh. And we've saved the best till last as Count Buckules is here to tell us about the times he has said inappropriate things on 6Music, how his computer cable must be placed \"just so\", a trip to New Zealand with a ventriloquist, what a cock bongo would involve and what it would take for him to fellate Keith Allen. Rich is remarkably indiscreet as always, spreading possibly libellous rumours about certain celebrities and revealing the genesis of a famous Stewart Lee sketch and a classic bit of Alan Partridge. Thanks to everyone at The Stand and at the British Comedy Guide for their sterling work. Might we do it again next year? ... Surely not. See RHLSTP on tour http://richardherring.com/rhlstpt/tour SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1786892776251-22d4f231-7769-4be7-b285-9d5b3ccdde9e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a81d3894394d6874bcb3c19/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26451553",
+      "itunes_duration": "52:23",
+      "speakers": [
+        "Adam Buxton",
+        "Ed Fringe",
+        "Richard Herring"
+      ],
+      "topics": [
+        "adam",
+        "buxton",
+        "retro",
+        "cock",
+        "bongo"
+      ]
+    },
     {
       "key": "af57249551a8522e58d36ff4d868a4a36a04a5bf",
       "title": "Charly Clive and Ellen Robertson - \"Cheesy Sisyphus\"",
@@ -23560,6 +23584,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — Adam Buxton (Retro) - "Cock Bongo" — speakers: Adam Buxton, Ed Fringe, Richard Herring
 - 2026-08-12 — Charly Clive and Ellen Robertson - "Cheesy Sisyphus" — speakers: Ellen Robertson, Richard Herring
 - 2026-08-10 — Barry Cryer (Retro) - "The Oxfam of Comedy" — speakers: Barry Cryer, Richard Herring
 - 2026-08-07 — Lucy Porter on Middle Aged Women Get Sh*t Done - Book Club — speakers: Lucy Porter, Done Richard, Richard Herring
