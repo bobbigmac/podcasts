@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-08-17T21:39:55+00:00`
-- checked_at: `2026-08-17T21:39:55+00:00`
-- etag: `W/"530f8-/XUXHBt+RtKkSAUgyC8dyenDNiE"`
+- fetched_at: `2026-08-18T07:03:34+00:00`
+- checked_at: `2026-08-18T07:03:34+00:00`
+- etag: `W/"536e8-02dSpCJ1WivMXgf5QPaltFMk4CM"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-08-17T21:39:55+00:00",
+  "fetched_at": "2026-08-18T07:03:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "93d9db45f44797f2d7248b1d89ecae381afa620d",
+      "title": "#18 Russell Howard & Jon Richardson Podcast Episode 18",
+      "published_at": "2026-08-18T05:36:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/18-Russell-Howard--Jon-Richardson-Podcast-Episode-18-e3nfufg",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786905463779-2444e71418ecb.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9929248248.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83231322",
+      "itunes_duration": "01:25:46",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
     {
       "key": "d3393ab306506cb50be85cba30a4ac7ef7b48390",
       "title": "#17 Russell Howard & Jon Richardson Podcast Episode 17",
@@ -5973,6 +5995,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-18 — #18 Russell Howard & Jon Richardson Podcast Episode 18 — speakers: Russell Howard, Jon Richardson
 - 2026-08-17 — #17 Russell Howard & Jon Richardson Podcast Episode 17 — speakers: Russell Howard, Jon Richardson
 - 2026-08-16 — #16 Russell Howard & Jon Richardson Podcast Episode 16 — speakers: Russell Howard, Jon Richardson
 - 2026-08-15 — #15 Russell Howard & Jon Richardson Podcast Episode 15 — speakers: Russell Howard, Jon Richardson

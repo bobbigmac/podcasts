@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-08-14T05:01:27+00:00`
-- checked_at: `2026-08-14T05:01:27+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RZMk9ETTJOREF4TlRZPTo6c2F4ZXNz"`
+- fetched_at: `2026-08-18T07:03:34+00:00`
+- checked_at: `2026-08-18T07:03:34+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0Rjd01qa3lOREF4TkRnPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-08-14T05:01:27+00:00",
+  "fetched_at": "2026-08-18T07:03:34+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -28,6 +28,27 @@
   ],
   "episodes": [
     {
+      "key": "0e31e0b2d256ebbb59555ac817dd083eda718235",
+      "title": "Help I’ve Borrowed My Neighbours Toys | And Double Moustaches",
+      "published_at": "2026-08-18T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-ive-borrowed-my-neighbours-toys-and-double-moustaches",
+      "description": "Jordan North is becoming a man of culture, and he's found the perfect phrase to let everyone around him know it. Meanwhile, William Hanson is extremely upset about the state of the toilet paper industry. The boys also tackle your dilemmas on standing at concerts and borrowing your neighbour's sex toys. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1786998183232-3818a20a-bb0e-41d7-8565-fb79c5746b52.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a7ee7b03bff731e73dd2049/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jbtuUDFtmJusbFD04OYIMOQIfgIMTDeTbWg8ZAWRf-g",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43653329",
+      "itunes_duration": "45:28",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "neighbours",
+        "toys",
+        "moustache"
+      ]
+    },
+    {
       "key": "6c10ca467f40fc46859d29623465c419e5dda10d",
       "title": "William Tries to Catch Jordan Out | And Who's Spooning Who?",
       "published_at": "2026-08-14T05:00:00+00:00",
@@ -36,8 +57,8 @@
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1786636870174-d34a45b3-d779-4b97-a79f-f18c98c7841a.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a7d81949c9d534a470de152/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=bG8pIayfiQoIIBaDmMktoa8SNpVhN-yQyTJexcwHCNw",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": null,
-      "itunes_duration": "0",
+      "enclosure_length": "31107448",
+      "itunes_duration": "32:24",
       "speakers": [
         "William Tries",
         "William Hanson",
@@ -14870,6 +14891,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-18 — Help I’ve Borrowed My Neighbours Toys | And Double Moustaches — speakers: Jordan North, William Hanson
 - 2026-08-14 — William Tries to Catch Jordan Out | And Who's Spooning Who? — speakers: William Tries, William Hanson, Jordan North
 - 2026-08-11 — Help I've Grown A Moustache | And I Found Dad's Secret Account… — speakers: William Hanson, Jordan North
 - 2026-08-07 — Things To Do Before You’re 40 | And William the Undertaker — speakers: William Hanson, Jordan North

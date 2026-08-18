@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-08-13T05:03:16+00:00`
-- checked_at: `2026-08-13T05:03:16+00:00`
-- etag: `W/"488ba93b6fd8af154f663a7ed80f771d"`
-- last_modified: `Tue, 11 Aug 2026 05:03:40 GMT`
+- fetched_at: `2026-08-18T07:03:34+00:00`
+- checked_at: `2026-08-18T07:03:34+00:00`
+- etag: `W/"4584c15ee3767290395091284814aef3"`
+- last_modified: `Tue, 18 Aug 2026 05:04:35 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-08-13T05:03:16+00:00",
+  "fetched_at": "2026-08-18T07:03:34+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -608,10 +608,10 @@
       "link": "https://audioboom.com/posts/8862855",
       "description": "This week Coco is joined by the comedian Cody Dahler while Nish takes a brief break and there’s so much to talk about! The Greens' Hannah Spencer has become the unexpected bookies favourite to win the Gorton and Denton by-election but does she have what it takes to turn good odds into a win at the ballot box? We speak to her about the importance of fighting to improve lives, her favourite false rumour and why walking her dogs helped form her political outlook. Plus Keir Starmer is back with another U-turn and another inquiry. We try to work out what he’s hoping to achieve this week. And Amnesty International’s UK Director of Law and Human Rights, Tom Southerden, updates us on their High Court victory as they challenge the proscription of Palestine Action. CHECK OUT THESE DEALS FROM OUR SPONSORS BABBEL: https://www.babbel.com/PSUK SHOPIFY: https://www.shopify.co.uk/podsavetheuk GUESTS Hannah Spencer, Green Party candidate, Gorton and Denton by-election Tom Southerden, UK Law and Human Rights Director, Amnesty International USEFUL LINKS Gorton and Denton by-election candidate list https://whocanivotefor.co.uk/elections/parl.gorton-and-denton.by.2026-02-26/gorton-and-denton/ CREDITS TikTok / @mrcodydahler Green Party of England and Wales / Facebook Hannah Spencer / Instagram Paul Holden, Investigative journalist and author of \"The Fraud\" High Court protest reaction - Amnesty International footage @mrcodydahler / Instagram Otto, Budding Comedian Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43480115.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8862855.mp3?modified=1771512730&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8862855.mp3?modified=1787029483&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3246",
+      "itunes_duration": "3019",
       "speakers": [
         "Cody Dahler",
         "Nish Kumar",
