@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-08-13T07:52:18+00:00`
-- checked_at: `2026-08-13T07:52:18+00:00`
-- last_modified: `Thu, 13 Aug 2026 05:04:25 GMT`
+- fetched_at: `2026-08-18T01:50:27+00:00`
+- checked_at: `2026-08-18T01:50:27+00:00`
+- last_modified: `Mon, 17 Aug 2026 23:05:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-13T07:52:18+00:00",
+  "fetched_at": "2026-08-18T01:50:27+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "29d030adb5ba528f532e2ad10f97e0d69d7895c3",
+      "title": "The Rock Enters His Country Music Era",
+      "published_at": "2026-08-17T23:05:00+00:00",
+      "link": null,
+      "description": "Why are the big cheeses of the entertainment industry buying up sports teams? Is The Rock the next big country star? What does the micro-drama boom mean for actors? Ex-Disney boss Bob Iger is buying storied basketball team the LA Lakers for a billion-dollar deal. Are sports teams becoming the new Van Goghs for the mega wealthy? Dwayne Johnson is dipping his toes into country music. Marina gives an update on The Rock’s latest career pivot, and explains why his Oscar ambitions are far from over. China is leading the boom in micro-dramas, but an increasing number feature AI stars. Will the fake actor trend transition to the UK and US markets? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Looking for extra value from your spending? You can bank on Lloyds to help your money go further. Search Lloyds Rewards in your app. Summer sale is here: get an annual membership for a third off with code SUMMER26. That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Adam Thornton and Louis Mealing Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9318283913.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3173",
+      "speakers": [
+        "Country Music Era Why",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "rock",
+        "enters",
+        "country",
+        "music"
+      ]
+    },
     {
       "key": "359ba119dbcd327a556ef12efff352adea124fd0",
       "title": "How To Win Lunch With a Celeb",
@@ -6489,6 +6512,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — The Rock Enters His Country Music Era — speakers: Country Music Era Why, Richard Osman, Marina Hyde
 - 2026-08-12 — How To Win Lunch With a Celeb — speakers: Richard Osman, Marina Hyde
 - 2026-08-11 — James Bond: Sex, Spies and Soggy Towels (Ep1) — speakers: Soggy Towels, Ian Fleming, Richard Osman, Marina Hyde
 - 2026-08-10 — Sex Playlists - A Deep Dive — speakers: Sex Playlists, Deep Dive What, Ariana Grande, Richard Osman, Marina Hyde
