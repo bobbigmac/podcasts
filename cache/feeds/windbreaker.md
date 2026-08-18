@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-08-18T01:50:27+00:00`
-- checked_at: `2026-08-18T01:50:27+00:00`
-- etag: `W/"428bb-c/YfKTpt56DsfNvmQ1PVEYiVUXk"`
+- fetched_at: `2026-08-18T03:57:21+00:00`
+- checked_at: `2026-08-18T03:57:21+00:00`
+- etag: `W/"42fe4-4Y47TDVseKdPQo7IQOV2kMRHE2g"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-08-18T01:50:27+00:00",
+  "fetched_at": "2026-08-18T03:57:21+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "dcef793e982716232bb7c943a63ed28f32843f77",
+      "title": "The Worst Ways To Make Us Want Something | Windbreaker Podcast",
+      "published_at": "2026-08-18T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/The-Worst-Ways-To-Make-Us-Want-Something--Windbreaker-Podcast-e3nhqkl",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about the worst ways that a game can make them want something. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5103039471.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61095969",
+      "itunes_duration": "01:02:57",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "ways",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "0762d66c02ee26f0c2d6f310ae8d66532ef84eb4",
       "title": "The Obscure Games We Love | Windbreaker Podcast",
@@ -3152,6 +3173,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-18 — The Worst Ways To Make Us Want Something | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-08-11 — The Obscure Games We Love | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-08-04 — Final Fantasy IX and the Struggle of Going Back to Your Roots | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-07-28 — Asymmetric Horror Games And Why They're Good | Windbreaker Podcast — speakers: Jesse Galena, Yahtzee Croshaw, Marty Sliva

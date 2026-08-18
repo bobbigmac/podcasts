@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-17T04:01:53+00:00`
-- checked_at: `2026-08-17T04:01:53+00:00`
-- etag: `"djEuMi4wOjE3ODY5MzIwMzk2MzA="`
+- fetched_at: `2026-08-18T03:57:21+00:00`
+- checked_at: `2026-08-18T03:57:21+00:00`
+- etag: `"djEuMi4wOjE3ODcwMTg0Mzk1MDc="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-17T04:01:53+00:00",
+  "fetched_at": "2026-08-18T03:57:21+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,26 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "ba8ed4e9607a471e6498f84ab9a12b44e118d0ab",
+      "title": "S16 Ep 890: The Good, The Bad & The Football",
+      "published_at": "2026-08-18T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-890-the-good-the-bad-the-football",
+      "description": "Back in the midst of this summer’s World Cup, Joe was lucky enough to be invited onto his favourite football podcast - The Good, The Bad & The Football - hosted by Paul Scholes, Nicky Butt and Paddy McGuinness. So in this episode, he finally gets to tell David everything about the experience. And what with David being a life-long Manchester United fan, he’s almost as excited hearing about it as Joe was being a guest on the show. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a7eb12e6e5b5bfda65a02c5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53377567",
+      "itunes_duration": "55:36",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "good",
+        "football"
+      ]
+    },
     {
       "key": "77a039afc14673aafb506136ac3bf0f5225616ea",
       "title": "S16 Ep 889 Vault Mondays: Joe's Weight and Joe's Impressions",
@@ -15982,6 +16002,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-18 — S16 Ep 890: The Good, The Bad & The Football — speakers: Joe Wilkinson, David Earl
 - 2026-08-17 — S16 Ep 889 Vault Mondays: Joe's Weight and Joe's Impressions — speakers: Joe Wilkinson, David Earl
 - 2026-08-14 — S16 Ep 888 Listener’s Mailbag: Sex Shops and Epic Catch-Ups — speakers: Sex Shops, Epic Catch, Joe Wilkinson, David Earl
 - 2026-08-13 — S16 Ep 887: Joe’s List of Delights — speakers: Joe Wilkinson, David Earl
