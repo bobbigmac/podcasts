@@ -38743,6 +38743,28 @@
     ],
     "david-mitchell": [
       {
+        "feed_slug": "external:apple:26a188c3b684",
+        "feed_title": "The Gill Athletics Track and Field Connections Podcast",
+        "source_rss_url": "https://anchor.fm/s/10ea86d8/podcast/rss",
+        "dedupe_key": "dfaf1f7f669dac8d74dbc46000184e8c4c08e1b6",
+        "episode_key": "dfaf1f7f669dac8d74dbc46000184e8c4c08e1b6",
+        "title": "#218: Gill1918 Presents David Mitchell “Navigating Difficult Conversations” Powered by Coach O",
+        "published_at": "2026-08-18T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "David is a coach and T&F announcer who spent 23 of his 39 years in public education serving as a school counselor spanning grades K-12. Along the way, David learned communication techniques to make difficult conversations more fruitful and less painful. He shares these techniques here, including a powerful response to ",
+        "audio_url": "https://anchor.fm/s/10ea86d8/podcast/play/124339938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-17%2F733b378f-263f-72ec-284e-9a76f20d4461.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/218-gill1918-presents-david-mitchell-navigating-difficult/id1500782760?i=1000783988402&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:a1a2d2fefae5",
         "feed_title": "Santa Fe News Today | 2 Min News | The Daily News Now!",
         "source_rss_url": "https://feeds.fastcast.ai/santa-fe-daily-news-now.xml",
