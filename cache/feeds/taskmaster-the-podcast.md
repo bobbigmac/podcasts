@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-08-03T22:17:15+00:00`
-- checked_at: `2026-08-03T22:17:15+00:00`
-- etag: `"db484-6582ad3b9ffc9"`
-- last_modified: `Mon, 03 Aug 2026 21:00:24 GMT`
+- fetched_at: `2026-08-19T21:40:20+00:00`
+- checked_at: `2026-08-19T21:40:20+00:00`
+- etag: `"dbd6b-6596ce6c53122"`
+- last_modified: `Wed, 19 Aug 2026 21:15:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-08-03T22:17:15+00:00",
+  "fetched_at": "2026-08-19T21:40:20+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7bb83ebb55f6adb65311186f8774db256a0700d3",
+      "title": "Taskmaster The Podcast Rewind - Champion of Champions S1-5 With Guz Khan",
+      "published_at": "2026-08-19T21:15:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "On the podcast we go back to 2022 when Ed was joined by comedian, actor, movie star & coat lover Guz Khan! Before discussing the first ever Champion of Champions Ed and Guz reflect on all things from Series 12 – favourite tasks, fellow contestants and of course deconsecrated churches. They then get down to the nitty gritty of Champion of Champions Ep.1 which featured Bob Mortimer, Josh Widdicombe, Katherine Ryan, Noel Fielding and Rob Beckett. To catch up on all of the Taskmaster back catalogue visit Channel4.com For all your goodies go to Taskmaster.tv Visit the Taskmaster YouTube Channel for all the latest BTS and Extra content!",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/ae2eb826-9524-4632-97df-d3e636c68715.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=ae2eb826-9524-4632-97df-d3e636c68715",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69552460",
+      "itunes_duration": "01:12:37",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "taskmaster",
+        "podcast",
+        "rewind",
+        "champion",
+        "champions",
+        "khan"
+      ]
+    },
     {
       "key": "b13ab3b329825d764586b9905446a5ae4288aec4",
       "title": "Taskmaster The Podcast Rewind - Series 1 Ep3. With Josh Widdicombe",
@@ -5571,6 +5594,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — Taskmaster The Podcast Rewind - Champion of Champions S1-5 With Guz Khan — speakers: Ed Gamble
 - 2026-08-03 — Taskmaster The Podcast Rewind - Series 1 Ep3. With Josh Widdicombe — speakers: Josh Widdicombe, Ed Gamble
 - 2026-07-27 — Taskmaster The Podcast Rewind - Series 1 Ep2 with Tim Key — speakers: Tim Key, Ed Gamble
 - 2026-07-13 — Taskmaster: The People's Podcast: Imagination, Imagination, Broken - S15, Ep. 3 — speakers: Ed Gamble

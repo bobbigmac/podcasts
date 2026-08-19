@@ -34829,6 +34829,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:593bbfb30d47",
+        "feed_title": "The Novelizers",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a74e85ec3e1347e8b8bfb55",
+        "dedupe_key": "44edb3b84a886d1bf840d994e1941644cf938294",
+        "episode_key": "44edb3b84a886d1bf840d994e1941644cf938294",
+        "title": "Richard Ayoade, Alex Rubens, Brian Shortall - Matrix ch21",
+        "published_at": "2024-09-02T04:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The Matrix, Chapter 21\nFeaturing a chapter novelized by ⁠Alex Rubens⁠ and narrated by Richard Ayoade, plus an interview with ⁠Brian Shortall⁠.\n\nRichard Ayoade is a comedian, actor, writer and director who stared in The IT Crowd, Krapopolis, Disenchantment, and more.\n\nFour-time Emmy Award nominee Alex Rubens is the show",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a74e85ec3e1347e8b8bfb55/e/a7518f9f-79f5-417e-bc2a-b7491f6245b3/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/richard-ayoade-alex-rubens-brian-shortall-matrix-ch21/id1687677838?i=1000668009715&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:d4f150773bc0",
         "feed_title": "L'étagère",
         "source_rss_url": "https://feed.ausha.co/Xq1KDUJdKvAD",

@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-08-19T09:49:04+00:00`
-- checked_at: `2026-08-19T09:49:04+00:00`
-- etag: `W/"53b48-hyHcvhdu6zFCw3UlSxjlUAdYquo"`
+- fetched_at: `2026-08-19T21:40:20+00:00`
+- checked_at: `2026-08-19T21:40:20+00:00`
+- etag: `W/"549fd-KIEnLu7TWoN9ruQdeGKfQTS4VEE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-08-19T09:49:04+00:00",
+  "fetched_at": "2026-08-19T21:40:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -553,6 +553,50 @@
       ]
     },
     {
+      "key": "d12c558a5302f012b5b75109eb315257ff46e1f1",
+      "title": "On The Hour - S2 EP 6 - with Chris Morris & Alan Partridge",
+      "published_at": "2026-08-08T14:44:15+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/On-The-Hour---S2-EP-6---with-Chris-Morris--Alan-Partridge-e3n51ra",
+      "description": "On the Hour was a British radio programme that parodied current affairs broadcasting, broadcast on BBC Radio 4 between 1991 and 1992. Written by Chris Morris, Armando Iannucci,[1] Steven Wells, Andrew Glover, Stewart Lee, Richard Herring and David Quantick, On the Hour starred Morris as the overzealous and self-important principal anchor (for which he used his own full name). He was accompanied by a regular cast assembled by Iannucci, comprising Steve Coogan, Rebecca Front, Doon Mackichan, Patrick Marber and David Schneider, who portrayed assorted news reporters, presenters and interviewees.[2] On the Hour featured the first appearance of Coogan's character Alan Partridge as the \"Sports Desk\" reporter",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786200226218-68d586af52a3f.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1687430097.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27877322",
+      "itunes_duration": "00:28:43",
+      "speakers": [
+        "Alan Partridge"
+      ],
+      "topics": [
+        "hour",
+        "chris",
+        "morris",
+        "alan",
+        "partridge"
+      ]
+    },
+    {
+      "key": "1262dcb30cc4704b4fe56f418bf8bc888e520d0f",
+      "title": "On The Hour - S2 EP 6 - with Chris Morris & Alan Partridge",
+      "published_at": "2026-08-08T05:27:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/On-The-Hour---S2-EP-6---with-Chris-Morris--Alan-Partridge-e3n45e8",
+      "description": "On the Hour was a British radio programme that parodied current affairs broadcasting, broadcast on BBC Radio 4 between 1991 and 1992. Written by Chris Morris, Armando Iannucci,[1] Steven Wells, Andrew Glover, Stewart Lee, Richard Herring and David Quantick, On the Hour starred Morris as the overzealous and self-important principal anchor (for which he used his own full name). He was accompanied by a regular cast assembled by Iannucci, comprising Steve Coogan, Rebecca Front, Doon Mackichan, Patrick Marber and David Schneider, who portrayed assorted news reporters, presenters and interviewees.[2] On the Hour featured the first appearance of Coogan's character Alan Partridge as the \"Sports Desk\" reporter",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786123673986-2e51a873e1c8c.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4551996415.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27877322",
+      "itunes_duration": "00:28:43",
+      "speakers": [
+        "Alan Partridge"
+      ],
+      "topics": [
+        "hour",
+        "chris",
+        "morris",
+        "alan",
+        "partridge"
+      ]
+    },
+    {
       "key": "5fe244f062bf5d09486224096ea2d27076ad5dea",
       "title": "On The Hour - S2 EP 5 - with Chris Morris & Alan Partridge",
       "published_at": "2026-08-08T05:24:00+00:00",
@@ -651,6 +695,28 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27848274",
       "itunes_duration": "00:28:41",
+      "speakers": [
+        "Alan Partridge"
+      ],
+      "topics": [
+        "hour",
+        "chris",
+        "morris",
+        "alan",
+        "partridge"
+      ]
+    },
+    {
+      "key": "ae9deea78ea119dff8c79816e6de9da44d285f8c",
+      "title": "On The Hour - S1 EP 6 - with Chris Morris & Alan Partridge",
+      "published_at": "2026-08-07T16:59:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/On-The-Hour---S1-EP-6---with-Chris-Morris--Alan-Partridge-e3n2pt4",
+      "description": "On the Hour was a British radio programme that parodied current affairs broadcasting, broadcast on BBC Radio 4 between 1991 and 1992. Written by Chris Morris, Armando Iannucci,[1] Steven Wells, Andrew Glover, Stewart Lee, Richard Herring and David Quantick, On the Hour starred Morris as the overzealous and self-important principal anchor (for which he used his own full name). He was accompanied by a regular cast assembled by Iannucci, comprising Steve Coogan, Rebecca Front, Doon Mackichan, Patrick Marber and David Schneider, who portrayed assorted news reporters, presenters and interviewees.[2] On the Hour featured the first appearance of Coogan's character Alan Partridge as the \"Sports Desk\" reporter",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786042918783-3a33e89da9fc7.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9574146820.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26435340",
+      "itunes_duration": "00:27:14",
       "speakers": [
         "Alan Partridge"
       ],
@@ -5927,69 +5993,6 @@
         "richardson",
         "podcast"
       ]
-    },
-    {
-      "key": "a684f093db9b3585bae18b8b1432307032395409",
-      "title": "#24 Russell Howard & Jon Richardson Podcast EP 24",
-      "published_at": "2026-01-15T12:03:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/24-Russell-Howard--Jon-Richardson-Podcast-EP-24-e3dlfd3",
-      "description": "#24 Russell Howard & Jon Richardson Podcast EP 24",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1768415657513-44aa43ba4bf15.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/113998691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-14%2Fd593f636-c2ea-ea8f-7ab4-bf9282f36323.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "59614176",
-      "itunes_duration": "01:22:47",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "6a777fddf64b7ceaa114fe8ded457e634e91d837",
-      "title": "#23 Russell Howard & Jon Richardson Podcast EP 23",
-      "published_at": "2026-01-15T06:30:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/23-Russell-Howard--Jon-Richardson-Podcast-EP-23-e3dlf7e",
-      "description": "#23 Russell Howard & Jon Richardson Podcast EP 23",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1768415467668-ed42c2a941ff9.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/113998510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-14%2F3a71b92b-57c0-1624-a0e7-c661adfd68dd.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "65155584",
-      "itunes_duration": "01:30:29",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "b0f50c5bef916fa156770ac426fcd27939dcadc2",
-      "title": "#22 Russell Howard & Jon Richardson Podcast EP 22",
-      "published_at": "2026-01-14T18:29:32+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/22-Russell-Howard--Jon-Richardson-Podcast-EP-22-e3dlf38",
-      "description": "#22 Russell Howard & Jon Richardson Podcast EP 22",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1768415286327-bd3b667290873.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/113998376/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-14%2F3fefbee0-f0a1-8e78-db01-4c4a9535356f.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "55853760",
-      "itunes_duration": "01:17:34",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
     }
   ]
 }
@@ -6022,11 +6025,14 @@
 - 2026-08-09 — Russell Howard & Jon Richardson Podcast Pilot — speakers: Russell Howard, Jon Richardson
 - 2026-08-09 — Alan Partridge - Knowing me, Knowing You (Full BBC Radio 4 Series) — speakers: Alan Partridge Knowing
 - 2026-08-08 — On The Hour - S2 EP 6 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
+- 2026-08-08 — On The Hour - S2 EP 6 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
+- 2026-08-08 — On The Hour - S2 EP 6 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-08 — On The Hour - S2 EP 5 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-08 — On The Hour - S2 EP 4 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-08 — On The Hour - S2 EP 3 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-08 — On The Hour - S2 EP 2 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-08 — On The Hour - S2 EP 1- with Chris Morris & Alan Partridge — speakers: Alan Partridge
+- 2026-08-07 — On The Hour - S1 EP 6 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-07 — On The Hour - S1 EP 5 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-07 — On The Hour - S1 EP 4 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-07 — On The Hour - S1 EP 3 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
@@ -6258,6 +6264,3 @@
 - 2026-01-16 — #27 Russell Howard & Jon Richardson Podcast EP 27 — speakers: Russell Howard
 - 2026-01-16 — #26 Russell Howard & Jon Richardson Podcast EP 26 — speakers: Russell Howard
 - 2026-01-15 — #25 Russell Howard & Jon Richardson Podcast EP 25 — speakers: Russell Howard
-- 2026-01-15 — #24 Russell Howard & Jon Richardson Podcast EP 24 — speakers: Russell Howard
-- 2026-01-15 — #23 Russell Howard & Jon Richardson Podcast EP 23 — speakers: Russell Howard
-- 2026-01-14 — #22 Russell Howard & Jon Richardson Podcast EP 22 — speakers: Russell Howard
