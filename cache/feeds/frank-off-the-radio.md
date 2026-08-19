@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-08-17T01:54:43+00:00`
-- checked_at: `2026-08-17T01:54:43+00:00`
-- last_modified: `Mon, 17 Aug 2026 00:06:46 GMT`
+- fetched_at: `2026-08-19T01:52:48+00:00`
+- checked_at: `2026-08-19T01:52:48+00:00`
+- last_modified: `Wed, 19 Aug 2026 00:06:31 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-17T01:54:43+00:00",
+  "fetched_at": "2026-08-19T01:52:48+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "2f75c276c900da17abbc495092cf2cf0e5719f2d",
+      "title": "Frank Skinner's Radio Days: Trainers on Tour",
+      "published_at": "2026-08-19T00:00:00+00:00",
+      "link": null,
+      "description": "This week, we’ve got one of the pre-recorded radio episodes. Frank tells us about his unused trainers and his doctor’s appointment (well, the waiting room). Alun tells us about his gig, and they discuss royal fashion trends. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/31f0feca-9b12-11f1-a769-cffcc3d5c0db/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4713743276.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2910",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "trainer",
+        "tour"
+      ]
+    },
     {
       "key": "202db56b3a079de4eb11394c7d40d706069cf19d",
       "title": "Pass the Grapes",
@@ -24479,6 +24501,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — Frank Skinner's Radio Days: Trainers on Tour — speakers: Frank Skinner
 - 2026-08-17 — Pass the Grapes — speakers: Finlay Christie, Sara Barron, Frank Skinner
 - 2026-08-14 — Frank The Clown — speakers: Clown Frank, Finlay Christie, Sara Barron, Frank Skinner
 - 2026-08-12 — Frank Skinner's Radio Days: Rubber Cookie — speakers: Frank Skinner

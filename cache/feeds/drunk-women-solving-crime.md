@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-08-17T15:38:32+00:00`
-- checked_at: `2026-08-17T15:38:32+00:00`
-- etag: `"djEuMi4wOjE3ODY5Nzc3OTc4ODM="`
+- fetched_at: `2026-08-19T01:52:48+00:00`
+- checked_at: `2026-08-19T01:52:48+00:00`
+- etag: `"djEuMi4wOjE3ODcwOTc2Mzk1MDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-08-17T15:38:32+00:00",
+  "fetched_at": "2026-08-19T01:52:48+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,29 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "a75b698141e2184a4aae3d02d4b51f181a647b83",
+      "title": "DWSC LIVE: With Abby Govindan",
+      "published_at": "2026-08-19T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-abby-govindan",
+      "description": "It's part two of our epic night in Cambridge and we're joined on stage by the fantastic, Abby Govindan! You may, or may not, be already aware of Abby's work, as the woman who laid claim to being creator of Emily in Paris - but is everything as it seems, or is she in fact the architect of one of the most hilarious social media grifts of recent times? Spoiler alert, it's the oh-la-latter. The gang then really come out of their shells to be in with a chance of winning the race to solve this week's crime. And finally, a member of the audience seeks catharsis for the time a group trip labelled everyone a thief. The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in September, October AND November. Full info and tickets HERE. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a8318c755b9192dc92f7d97/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55751575",
+      "itunes_duration": "58:04",
+      "speakers": [
+        "Abby Govindan",
+        "Abby Govind",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "abby",
+        "govindan"
+      ]
+    },
     {
       "key": "b39927c6165aa2866df18c914b89900d4aa817ec",
       "title": "DWSC LIVE: With Tamsyn Kelly",
@@ -11477,6 +11500,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — DWSC LIVE: With Abby Govindan — speakers: Abby Govindan, Abby Govind, Hannah George, Taylor Glenn
 - 2026-08-12 — DWSC LIVE: With Tamsyn Kelly — speakers: Tamsyn Kelly, Hannah George, Taylor Glenn
 - 2026-08-05 — Michelle Wolf, of Wall St — speakers: Michelle Wolf, Wall St Hello, Hannah George, Taylor Glenn
 - 2026-07-29 — The Strong Arm of the Law, with Chelsea Birkby — speakers: Chelsea Birkby, Hannah George, Taylor Glenn

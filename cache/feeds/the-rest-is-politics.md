@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-08-18T21:37:24+00:00`
-- checked_at: `2026-08-18T21:37:24+00:00`
-- last_modified: `Tue, 18 Aug 2026 21:12:37 GMT`
+- fetched_at: `2026-08-19T01:52:48+00:00`
+- checked_at: `2026-08-19T01:52:48+00:00`
+- last_modified: `Wed, 19 Aug 2026 01:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-18T21:37:24+00:00",
+  "fetched_at": "2026-08-19T01:52:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "30d3eba1e1010473a56420760073528d9710cb7b",
+      "title": "563. Britain’s Afghanistan Shame and the Jason Arday Tragedy",
+      "published_at": "2026-08-18T23:00:00+00:00",
+      "link": null,
+      "description": "Five years after the US withdrawal from Afghanistan and the Taliban takeover, why has not a single Western government marked the anniversary of a war that cost thousands of lives and trillions of dollars? Why has Putin banned Russia's last liberal anti-war party ahead of next month's Duma elections, and is it a sign of his strength or his weakness? What does the media frenzy that engulfed Jason Arday before his death reveal about how quickly we strip vulnerable people of their humanity? Join Rory, Alastair and Shoshana Stewart, as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Maoz Inon and Aziz Abu Sarah by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Vasco Andrade Assistant Producer: Daisy Alston-Horne Producer: Evan Green Executive Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ba1fba38-9b18-11f1-a973-033aaac614f0/image/78709abca8d4b49f4ae1f19cb3e4ef0c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5089408135.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4219",
+      "speakers": [
+        "Afghanistan Shame",
+        "Jason Arday Tragedy Five"
+      ],
+      "topics": [
+        "britain",
+        "afghanistan",
+        "shame",
+        "jason",
+        "arday",
+        "tragedy"
+      ]
+    },
     {
       "key": "272b7ba404da2efa115f71ba47bdb293c50d928a",
       "title": "Will Climate Action Go Backwards Under Burnham?",
@@ -12665,6 +12689,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-18 — 563. Britain’s Afghanistan Shame and the Jason Arday Tragedy — speakers: Afghanistan Shame, Jason Arday Tragedy Five
 - 2026-08-13 — Will Climate Action Go Backwards Under Burnham? — speakers: Andy Burnham
 - 2026-08-12 — 562. The Right’s War With Itself and Burnham’s Prisons Challenge — speakers: Rupert Lowe
 - 2026-08-11 — 561. How Trump’s Chaos Keeps Splintering the World Order — speakers: How Trump, Chaos Keeps Splintering, Saudi Arabia

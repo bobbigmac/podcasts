@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-08-18T21:37:24+00:00`
-- checked_at: `2026-08-18T21:37:24+00:00`
-- etag: `W/"52f68-AXy3MVDSbt1wly1CXaAbZN0Y75I"`
+- fetched_at: `2026-08-19T01:52:48+00:00`
+- checked_at: `2026-08-19T01:52:48+00:00`
+- etag: `W/"530f8-/XUXHBt+RtKkSAUgyC8dyenDNiE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,57 +17,13 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-08-18T21:37:24+00:00",
+  "fetched_at": "2026-08-19T01:52:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
-    {
-      "key": "6c26e2e6ef9c9560e7647c43910e8850de0614c5",
-      "title": "#19 Russell Howard & Jon Richardson Podcast Episode 19",
-      "published_at": "2026-08-18T10:25:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/19-Russell-Howard--Jon-Richardson-Podcast-Episode-19-e3nhh12",
-      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786998419718-2bd616ef94419.jpg",
-      "enclosure_url": "https://traffic.megaphone.fm/APO2139650867.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "90103739",
-      "itunes_duration": "01:32:51",
-      "speakers": [
-        "Russell Howard",
-        "Jon Richardson"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "93d9db45f44797f2d7248b1d89ecae381afa620d",
-      "title": "#18 Russell Howard & Jon Richardson Podcast Episode 18",
-      "published_at": "2026-08-18T05:36:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/18-Russell-Howard--Jon-Richardson-Podcast-Episode-18-e3nfufg",
-      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786905463779-2444e71418ecb.jpg",
-      "enclosure_url": "https://traffic.megaphone.fm/APO9929248248.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "83231322",
-      "itunes_duration": "01:25:46",
-      "speakers": [
-        "Russell Howard",
-        "Jon Richardson"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
     {
       "key": "d3393ab306506cb50be85cba30a4ac7ef7b48390",
       "title": "#17 Russell Howard & Jon Richardson Podcast Episode 17",
@@ -5946,6 +5902,69 @@
         "richardson",
         "podcast"
       ]
+    },
+    {
+      "key": "d7872fe5147f94d746de3a9447a04b5662c1898d",
+      "title": "#21 Russell Howard & Jon Richardson Podcast EP 21",
+      "published_at": "2026-01-14T12:01:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/21-Russell-Howard--Jon-Richardson-Podcast-EP-21-e3djs3r",
+      "description": "#21 Russell Howard & Jon Richardson Podcast EP 21",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1768331814545-867f42e0ef0ab.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/113946171/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-13%2F3dfe6a0b-c171-fd59-68bc-977a8a2cf389.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56084736",
+      "itunes_duration": "01:17:53",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "fd009623e5f8306062ba5961261563667cea9866",
+      "title": "#20 Russell Howard & Jon Richardson Podcast EP 20",
+      "published_at": "2026-01-14T06:13:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/20-Russell-Howard--Jon-Richardson-Podcast-EP-20-e3djrvr",
+      "description": "#20 Russell Howard & Jon Richardson Podcast EP 20",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1768331651491-f46cce3c5449.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/113946043/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-13%2F0f1dcfef-e5bd-72b6-ff46-98a045db6746.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60607200",
+      "itunes_duration": "01:24:10",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "c755c12bca4da9defa2b0fdfcd0f84afaf9d3e5a",
+      "title": "#19 Russell Howard & Jon Richardson Podcast EP 19",
+      "published_at": "2026-01-13T19:12:37+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/19-Russell-Howard--Jon-Richardson-Podcast-EP-19-e3djrsp",
+      "description": "#19 Russell Howard & Jon Richardson Podcast EP 19",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1768331520894-cdecbd72f84fd.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/113945945/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-13%2F1e32fed8-4394-2f63-d0d7-0b046d853687.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66859968",
+      "itunes_duration": "01:32:51",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
     }
   ]
 }
@@ -5954,8 +5973,6 @@
 
 ## Episodes (newest first)
 
-- 2026-08-18 — #19 Russell Howard & Jon Richardson Podcast Episode 19 — speakers: Russell Howard, Jon Richardson
-- 2026-08-18 — #18 Russell Howard & Jon Richardson Podcast Episode 18 — speakers: Russell Howard, Jon Richardson
 - 2026-08-17 — #17 Russell Howard & Jon Richardson Podcast Episode 17 — speakers: Russell Howard, Jon Richardson
 - 2026-08-16 — #16 Russell Howard & Jon Richardson Podcast Episode 16 — speakers: Russell Howard, Jon Richardson
 - 2026-08-15 — #15 Russell Howard & Jon Richardson Podcast Episode 15 — speakers: Russell Howard, Jon Richardson
@@ -6215,3 +6232,6 @@
 - 2026-01-15 — #24 Russell Howard & Jon Richardson Podcast EP 24 — speakers: Russell Howard
 - 2026-01-15 — #23 Russell Howard & Jon Richardson Podcast EP 23 — speakers: Russell Howard
 - 2026-01-14 — #22 Russell Howard & Jon Richardson Podcast EP 22 — speakers: Russell Howard
+- 2026-01-14 — #21 Russell Howard & Jon Richardson Podcast EP 21 — speakers: Russell Howard
+- 2026-01-14 — #20 Russell Howard & Jon Richardson Podcast EP 20 — speakers: Russell Howard
+- 2026-01-13 — #19 Russell Howard & Jon Richardson Podcast EP 19 — speakers: Russell Howard
