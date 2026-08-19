@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-08-18T09:48:41+00:00`
-- checked_at: `2026-08-18T09:48:41+00:00`
-- etag: `W/"19594-1rFhCcN0b8e9swEqe2LAsVi050M"`
+- fetched_at: `2026-08-19T03:58:14+00:00`
+- checked_at: `2026-08-19T03:58:14+00:00`
+- etag: `W/"19db6-TFNrKS7p1OCCNrjNbTtG2E1rC0s"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-08-18T09:48:41+00:00",
+  "fetched_at": "2026-08-19T03:58:14+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e2378904140a2c082045fb8f423273631333f485",
+      "title": "X-Men Casting News, HBO's Lanterns, and The End of Oak Street | The Rewind Podcast",
+      "published_at": "2026-08-19T01:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/X-Men-Casting-News--HBOs-Lanterns--and-The-End-of-Oak-Street--The-Rewind-Podcast-e3nj8nd",
+      "description": "This week on The Rewind, Jack, Darren, and Marty chat about the X-Men casting news, the premiere of HBO's Lanterns, and The End of Oak Street. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠ patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/124412077/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-18%2F776799b7-a941-431a-d26e-639501338e44.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "254839712",
+      "itunes_duration": "02:56:58",
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "casting",
+        "news",
+        "lanterns",
+        "street",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "026328058c7bf18e157cf9523e324bf1e00415a8",
       "title": "We Have Thoughts on Spider-Man: Brand New Day | The Rewind Podcast",
@@ -1314,6 +1339,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — X-Men Casting News, HBO's Lanterns, and The End of Oak Street | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-08-05 — We Have Thoughts on Spider-Man: Brand New Day | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-07-21 — The Odyssey Is Why We Go to the Movies | The Rewind Podcast — speakers: Christopher Nolan, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-07-01 — Supergirl and Widow's Bay Impressions | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva

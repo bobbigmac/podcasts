@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-08-19T01:52:48+00:00`
-- checked_at: `2026-08-19T01:52:48+00:00`
-- etag: `"djEuMi4wOjE3ODcwMTI0MTA0Njk="`
+- fetched_at: `2026-08-19T03:58:14+00:00`
+- checked_at: `2026-08-19T03:58:14+00:00`
+- etag: `"djEuMi4wOjE3ODcxMDg0NDAxNzk="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-08-19T01:52:48+00:00",
+  "fetched_at": "2026-08-19T03:58:14+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "bf7b65ee70338f15d9bc63882a3cfcfb3633a19a",
+      "title": "WDWDY #84.1: Yester-YAY! (David's Yesterday)",
+      "published_at": "2026-08-19T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-841-yester-yay-davids-yesterday",
+      "description": "We're doing a live show in London at Hackney Empire - Monday 7th September 2026 Tickets available HERE See you there!! In this midweek mayhem episode we find out what David did yesterday... If you want to hear all about what David did on this exact day then you need to be 'IN IT FOR LIFE' Sign up HERE and here https://yesterdaypod.supportingcast.fm/ Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ www.everythingisshowbiz.com ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1787011452078-9315a415-bd62-4936-a2ee-080cb70b4727.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a83a53aff328abd84b35fc3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "131205404",
+      "itunes_duration": "54:33",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "yester",
+        "david",
+        "yesterday"
+      ]
+    },
     {
       "key": "a9f9226852c4e37b99ddacfbe4780291c20536cc",
       "title": "S5 EP9: Jake Bhardwaj",
@@ -3933,6 +3954,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — WDWDY #84.1: Yester-YAY! (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-16 — S5 EP9: Jake Bhardwaj — speakers: Jake Bhardwaj, Max Rushden, David O'Doherty
 - 2026-08-12 — WDWDY #83.1: It is what it is... (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-09 — S5 EP8: Andy Parsons — speakers: Andy Parsons, Max Rushden, David O'Doherty

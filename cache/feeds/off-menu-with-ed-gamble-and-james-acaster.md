@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-08-12T05:01:05+00:00`
-- checked_at: `2026-08-12T05:01:05+00:00`
-- etag: `"djEuMi4wOjE3ODY1MDM2Mzk2NjU="`
+- fetched_at: `2026-08-19T03:58:14+00:00`
+- checked_at: `2026-08-19T03:58:14+00:00`
+- etag: `"djEuMi4wOjE3ODcxMDg0NDAxMDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-08-12T05:01:05+00:00",
+  "fetched_at": "2026-08-19T03:58:14+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1235835f7d530b913b31b115718afb0afbb4ce3e",
+      "title": "Mark Gatiss",
+      "published_at": "2026-08-19T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/mark-gatiss",
+      "description": "Mark Gatiss – 1/4 of The League of Gentlemen, Bafta-winner, co-creator and star of ‘Sherlock’ – has a booking at the Dream Restaurant this week. And he makes James his chip b*tch. If you’re listening on Apple Podcasts you can now watch this episode too. Mark Gatiss created and stars in ‘Bookish’ and series 2 starts on U&alibi on Wed 26 Aug, and stream on U . Follow Mark on Instagram @themarkgatiss Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1785486361259-46f28d9c-e3ad-4e36-aead-422261715bab.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a68c4202670d42f37ae5386/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60268042",
+      "itunes_duration": "1:02:46",
+      "speakers": [
+        "Mark Gatiss Mark Gatiss",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "mark",
+        "gatiss"
+      ]
+    },
     {
       "key": "8202dc766700901ccc1846ed99df9efa37f93b53",
       "title": "Bella Ramsey",
@@ -8855,6 +8877,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — Mark Gatiss — speakers: Mark Gatiss Mark Gatiss, Ed Gamble, James Acaster, Ben Williams
 - 2026-08-12 — Bella Ramsey — speakers: Bella Ramsey Actor, Bella Ramsey, Ed Gamble, James Acaster, Ben Williams
 - 2026-08-05 — Jinkx Monsoon — speakers: Jinkx Monsoon, Drag Race, Ed Gamble, James Acaster, Ben Williams
 - 2026-07-29 — Sindhu Vee (Tasting Menu) — speakers: Sindhu Vee, Tasting Menu, Dream Restaurant, Ed Gamble, James Acaster, Ben Williams

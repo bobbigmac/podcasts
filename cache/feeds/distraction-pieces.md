@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-08-19T01:52:48+00:00`
-- checked_at: `2026-08-19T01:52:48+00:00`
-- etag: `"djEuMi4wOjE3ODY5NTg3OTgwNzA="`
+- fetched_at: `2026-08-19T03:58:14+00:00`
+- checked_at: `2026-08-19T03:58:14+00:00`
+- etag: `"djEuMi4wOjE3ODcxMDk2MzkzOTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-08-19T01:52:48+00:00",
+  "fetched_at": "2026-08-19T03:58:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3b129b3c358f9988657fe6f8269e934dba919a3e",
+      "title": "20 YEARS OF PIP (Part 3) • featuring Chris Glasson & Buddy Peace! #683",
+      "published_at": "2026-08-19T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by Hardcore Listing homie and long term real life homie CHRIS GLASSON , and podcast producer / DJ / beatmaker BUDDY PEACE for the finalé of a 3 part series of celebration episodes! The third side of the pyramid is finally here, as we close in on the three part celebration featuring, indeed, three parts of the puzzle. A lovely way to bring this thing home and tie up loose ends, hang up phones, open new cans of worms (and then re-seal them?), and effectively conclude this three part extended hangout. Thanks for checking in and celebrating 20 years of Pip! PIP'S PATREON PAGE if you're of a supporting nature HARCORE LISTING BUDDY SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1786957759992-bf608ba8-a739-45ad-94a0-fa28511ff19a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a82d0e17324a0381c9819c8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "149358837",
+      "itunes_duration": "1:02:09",
+      "speakers": [
+        "Chris Glasson"
+      ],
+      "topics": [
+        "year",
+        "chris",
+        "glasson",
+        "buddy",
+        "peace"
+      ]
+    },
     {
       "key": "ba8bd29ca475b232f586e959a61d878d279fa196",
       "title": "STEVEN KNIGHT (Peaky Blinders / Taboo / Serenity) • Friday Rewind",
@@ -19408,6 +19430,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — 20 YEARS OF PIP (Part 3) • featuring Chris Glasson & Buddy Peace! #683 — speakers: Chris Glasson
 - 2026-08-14 — STEVEN KNIGHT (Peaky Blinders / Taboo / Serenity) • Friday Rewind — speakers: Steven Knight
 - 2026-08-12 — 20 YEARS OF PIP (Part 2) • featuring Chris Glasson & Buddy Peace! #683 — speakers: Chris Glasson
 - 2026-08-07 — SOUAD MEKHENNET (I Was Told To Come Alone / The Eternal Nazi) • Friday Rewind

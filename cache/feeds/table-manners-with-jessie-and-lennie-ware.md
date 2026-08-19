@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-08-12T05:01:05+00:00`
-- checked_at: `2026-08-12T05:01:05+00:00`
-- etag: `"djEuMi4wOjE3ODY0OTI4MzkzNTk="`
+- fetched_at: `2026-08-19T03:58:14+00:00`
+- checked_at: `2026-08-19T03:58:14+00:00`
+- etag: `"djEuMi4wOjE3ODcwOTc2Mzk1NTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-08-12T05:01:05+00:00",
+  "fetched_at": "2026-08-19T03:58:14+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d0f0fb22b2e604e8c84a159592aa9b6fb6b4549a",
+      "title": "Second Helpings - Dolly Parton",
+      "published_at": "2026-08-19T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/second-helpings-dolly-parton",
+      "description": "This is a BIG one!!! Straight out of Nashville, the one and only Country ICON Dolly Parton joins us on Table Manners. We chatted to Dolly live from Nashville - dressed head to toe in festive gear - back in October 2020, before her beautiful book Storyteller had reached these shores and before we knew she had potentially helped cure covid with her generous donation to help fund a covid vaccine. As well as telling us all about cosying up with Michael Buble on her new christmas record ‘A Holly Dolly Christmas’ she talks to us about her upbringing in the mountains, being one of 12 children, her speciality of Chicken and Dumplings, that Glastonbury show and the very first time she heard Whitney Houston sing her song on the radio. This was a total pleasure and a real pinch yourself moment (hence my over talking). Hope you enjoy listening to this as much as we enjoyed chatting to everyone's favourite storyteller! Dolly has now announced a brand new Broadway musical based on her life which launches in December. Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1786963028268-420dcf3a-151d-41b8-96b2-e2e55a81311d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a81b7b7ff328abd842d30b0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41043173",
+      "itunes_duration": "42:45",
+      "speakers": [
+        "Second Helpings",
+        "Dolly Parton"
+      ],
+      "topics": [
+        "second",
+        "helpings",
+        "dolly",
+        "parton"
+      ]
+    },
     {
       "key": "ef2a6bf86c2d560e23b77b72d402dfff351be9b0",
       "title": "Second Helpings - Yungblud",
@@ -7354,6 +7376,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — Second Helpings - Dolly Parton — speakers: Second Helpings, Dolly Parton
 - 2026-08-12 — Second Helpings - Yungblud — speakers: Second Helpings
 - 2026-08-05 — Second Helpings - Callum Turner — speakers: Second Helpings, Callum Turner While, Table Manners
 - 2026-07-22 — James Norton — speakers: James Norton

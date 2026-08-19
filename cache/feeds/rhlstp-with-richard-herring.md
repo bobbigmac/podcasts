@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-08-17T04:01:53+00:00`
-- checked_at: `2026-08-17T04:01:53+00:00`
-- etag: `"djEuMi4wOjE3ODY5MzU0NTkyOTI="`
+- fetched_at: `2026-08-19T03:58:14+00:00`
+- checked_at: `2026-08-19T03:58:14+00:00`
+- etag: `"djEuMi4wOjE3ODcxMDgyNTkzNTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-08-17T04:01:53+00:00",
+  "fetched_at": "2026-08-19T03:58:14+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d8c9fe06633514ed47e30147c21fa9b024277b7c",
+      "title": "Bella Hull - \"Crystal In Her Pocket\"",
+      "published_at": "2026-08-19T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #623 - Crystal In Her Pocket - Rich is back at the Podcast Room talking to writer and comedian Bella Hull. They talk about her early start at stand-up, talking about the worst things in your life, getting the writing job on SNL UK and whether this job needs to be as tricky and rock n roll as the Americans make out, whether the woman behind the counter at Pret should be asking you about religion and a ghost called Paula. See Bella at the Fringe https://www.edfringe.com/tickets/whats-on/bella-hull-mad-cow-disease See RHLSTP at the Fringe/London http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Recorded at the Podcast Room Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1787045666676-ea83227c-f051-4dd2-9efd-133f8690486c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a8426d739e73ea8f3bf9576/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25763631",
+      "itunes_duration": "53:40",
+      "speakers": [
+        "Bella Hull",
+        "Richard Herring"
+      ],
+      "topics": [
+        "bella",
+        "hull",
+        "crystal",
+        "pocket"
+      ]
+    },
     {
       "key": "9456d8cb98feaed1d0ed1c1d399c58cd183e4591",
       "title": "Adam Buxton (Retro) - \"Cock Bongo\"",
@@ -23584,6 +23606,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — Bella Hull - "Crystal In Her Pocket" — speakers: Bella Hull, Richard Herring
 - 2026-08-17 — Adam Buxton (Retro) - "Cock Bongo" — speakers: Adam Buxton, Ed Fringe, Richard Herring
 - 2026-08-12 — Charly Clive and Ellen Robertson - "Cheesy Sisyphus" — speakers: Ellen Robertson, Richard Herring
 - 2026-08-10 — Barry Cryer (Retro) - "The Oxfam of Comedy" — speakers: Barry Cryer, Richard Herring

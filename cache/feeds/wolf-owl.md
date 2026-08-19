@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-08-12T02:43:38+00:00`
-- checked_at: `2026-08-12T02:43:38+00:00`
-- last_modified: `Tue, 11 Aug 2026 08:17:00 GMT`
+- fetched_at: `2026-08-19T03:58:14+00:00`
+- checked_at: `2026-08-19T03:58:14+00:00`
+- last_modified: `Mon, 17 Aug 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-12T02:43:38+00:00",
+  "fetched_at": "2026-08-19T03:58:14+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,49 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "643dfb43996517d88523ff34e88a5d6360ccfb4f",
+      "title": "Manscaping, Country Music & Dinner Invites",
+      "published_at": "2026-08-17T23:01:00+00:00",
+      "link": null,
+      "description": "What are the Wolf & Owl's top tips for manscaping? On this week’s Wolf & Owl, Tom and Romesh get into the important stuff: feet, showers, skincare and exactly how you're supposed to wash your arse. Tom reveals his emotional story behind getting his first ever pedicure at 46, while Romesh introduces Tom to his new Korean skincare routine. Elsewhere, Tom tells us about his date night as a Luke Combs concert, including an awkward social encounter, before declaring himself a fully-fledged country music fan. Plus, there’s a discussion about dinner parties, biscuit bingeing and another unforgettable Tom Davis story to finish. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 01:25 Toenails and pedicures 15:37 A debate on washing 20:05 Korean skincare 21:36 Beard scaping 23:01 Luke Combs, cowboys and date night 24:47 Tom’s socially awkward situation 32:18 Country Music 39:17 Rom wasn't invited to Tom’s lunch 40:34 Biscuit bingeing 42:30 Tom’s Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/91ae905c-9a4f-11f1-8e83-7342eefe6842/image/03bff2c90fb13168c3283976a244c807.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT5812361537.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2974",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "manscaping",
+        "country",
+        "music",
+        "dinner",
+        "invites"
+      ]
+    },
+    {
+      "key": "0f85e072cc5a37119a44df2437081e896dd4ab79",
+      "title": "Do We Really Need A Summer Body?",
+      "published_at": "2026-08-13T23:01:00+00:00",
+      "link": null,
+      "description": "How do you stop procrastinating? On this week’s Wolf & Owl, Tom and Romesh answer your emails, giving advice on everything from unrealistic expectations to learning to feel comfortable in your own skin. They also tackle one of the biggest problems facing us all: procrastination. From writing scripts and stand-up to finishing their books, Romesh shares his top tips for getting things done when your brain would rather do absolutely anything else. Plus, there's a debate on which films would be best suited for a Muppets remake. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 01:11 Tom hates the new World Cup song 03:40 On patriotism 06:21 ⚽ Hate continued 07:42 A question on your summer body 17:22 How to stop procrastinating 20:32 Tour competition 21:30 Romesh’s procrastination top tips 27:05 A Muppets question 29:51 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1c186744-9669-11f1-a362-8bcfbff54b40/image/9274d37ad62fe71e151e18b186f14110.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT4047237828.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1974",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "summer",
+        "body"
+      ]
+    },
     {
       "key": "b4b490ab7f6bd4756663cf082b851209453274bb",
       "title": "The Traitors, Therapy and Bathroom Etiquette",
@@ -7332,6 +7375,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — Manscaping, Country Music & Dinner Invites — speakers: Romesh Ranganathan, Tom Davis
+- 2026-08-13 — Do We Really Need A Summer Body? — speakers: Romesh Ranganathan, Tom Davis
 - 2026-08-10 — The Traitors, Therapy and Bathroom Etiquette — speakers: Romesh Ranganathan, Tom Davis
 - 2026-08-06 — Best Friends, Burglaries and Weddings — speakers: Best Friends, Weddings Can, Romesh Ranganathan, Tom Davis
 - 2026-08-03 — Food Poisoning, Paris & Parenting — speakers: Romesh Ranganathan, Tom Davis

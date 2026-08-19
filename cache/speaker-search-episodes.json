@@ -23025,6 +23025,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:3d3ace5dd861",
+        "feed_title": "The Moon Under Water",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6ef338e8-4dd2-419b-81c6-107f672b3272",
+        "dedupe_key": "ee5ce3f2e6bfaae83ec4b84447dea868a0b5c8d4",
+        "episode_key": "ee5ce3f2e6bfaae83ec4b84447dea868a0b5c8d4",
+        "title": "Pubble Club",
+        "published_at": "2022-03-13T01:00:11Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What's more warming; the embrace of a close friend or the clutch of a friendly tavern? In this one off podcast mashup for Red Nose Day, Cuddle Club host Lou Sanders joins John Robins and Robin Allender from The Moon Under Water to discuss all things hugs and pubs.\nYou have the power to do something incredible this Red ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/the-moon-under-water/e/6228d2d8b62009001428c46d/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/pubble-club/id1559542527?i=1000553821855&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:bb2224026702",
         "feed_title": "Ed Gamble & Matthew Crosby on Radio X",
         "source_rss_url": "https://feeds.captivate.fm/ed-gamble-matthew",

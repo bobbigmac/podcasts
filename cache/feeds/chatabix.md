@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-18T03:57:21+00:00`
-- checked_at: `2026-08-18T03:57:21+00:00`
-- etag: `"djEuMi4wOjE3ODcwMTg0Mzk1MDc="`
+- fetched_at: `2026-08-19T03:58:14+00:00`
+- checked_at: `2026-08-19T03:58:14+00:00`
+- etag: `"djEuMi4wOjE3ODcxMDQ4Mzk1NjQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-18T03:57:21+00:00",
+  "fetched_at": "2026-08-19T03:58:14+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,25 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "abd7eea5d5587a7c7bd4d43b7c42c01aa878f78f",
+      "title": "S16 Ep 891: TV Joe Hasn’t A Clue",
+      "published_at": "2026-08-19T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-891-tv-joe-hasnt-a-clue",
+      "description": "It’s about time for another of TV Joe’s quizzes and as luck would have it, here he is! For this episode he’s gone all Radio 4 and prepared something slightly different - his version of the classic panel show ’I’m Sorry I Haven’t A Clue’. So settle back and listen to how David and Joe fair with all the quips, cleverness and singing that the different rounds call for. Plus, they have a quick go at Des O’Connor’s famous Yes/No game. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a7eb186248fe5d9f8cf6e5f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67025606",
+      "itunes_duration": "1:09:49",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "clue"
+      ]
+    },
     {
       "key": "ba8ed4e9607a471e6498f84ab9a12b44e118d0ab",
       "title": "S16 Ep 890: The Good, The Bad & The Football",
@@ -16002,6 +16021,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — S16 Ep 891: TV Joe Hasn’t A Clue — speakers: Joe Wilkinson, David Earl
 - 2026-08-18 — S16 Ep 890: The Good, The Bad & The Football — speakers: Joe Wilkinson, David Earl
 - 2026-08-17 — S16 Ep 889 Vault Mondays: Joe's Weight and Joe's Impressions — speakers: Joe Wilkinson, David Earl
 - 2026-08-14 — S16 Ep 888 Listener’s Mailbag: Sex Shops and Epic Catch-Ups — speakers: Sex Shops, Epic Catch, Joe Wilkinson, David Earl
