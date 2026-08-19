@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "9db65d6f6c0cf6f05d863fb6437ac03e77411569",
+        "episode_key": "9db65d6f6c0cf6f05d863fb6437ac03e77411569",
+        "title": "Mark Gatiss",
+        "published_at": "2026-08-19T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Mark Gatiss – 1/4 of The League of Gentlemen, Bafta-winner, co-creator and star of ‘Sherlock’ – has a booking at the Dream Restaurant this week. And he makes James his chip b*tch. \nIf you’re listening on Apple Podcasts you can now watch this episode too.\nMark Gatiss created and stars in ‘Bookish’ and series 2 starts on",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a68c4202670d42f37ae5386/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/mark-gatiss/id1442950743?i=1000784221657&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:edbc4f4d67d5",
         "feed_title": "The Comedian's Comedian Podcast",
         "source_rss_url": "https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581",
@@ -5901,6 +5924,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "9db65d6f6c0cf6f05d863fb6437ac03e77411569",
+        "episode_key": "9db65d6f6c0cf6f05d863fb6437ac03e77411569",
+        "title": "Mark Gatiss",
+        "published_at": "2026-08-19T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Mark Gatiss – 1/4 of The League of Gentlemen, Bafta-winner, co-creator and star of ‘Sherlock’ – has a booking at the Dream Restaurant this week. And he makes James his chip b*tch. \nIf you’re listening on Apple Podcasts you can now watch this episode too.\nMark Gatiss created and stars in ‘Bookish’ and series 2 starts on",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a68c4202670d42f37ae5386/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/mark-gatiss/id1442950743?i=1000784221657&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",

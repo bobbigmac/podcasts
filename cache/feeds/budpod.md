@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-08-12T07:51:33+00:00`
-- checked_at: `2026-08-12T07:51:33+00:00`
-- etag: `"djEuMi4wOjE3ODY1MTA4OTk0MDg="`
+- fetched_at: `2026-08-19T07:05:07+00:00`
+- checked_at: `2026-08-19T07:05:07+00:00`
+- etag: `"djEuMi4wOjE3ODcxMTU2OTk0MzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-08-12T07:51:33+00:00",
+  "fetched_at": "2026-08-19T07:05:07+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6d0fdfd5c2f7174206da877f4db6351eb2f5563b",
+      "title": "S2E62 | Dark Web Ribs | BudPod LIVE!",
+      "published_at": "2026-08-19T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e62-dark-web-ribs-budpod-live",
+      "description": "Youtube Version Here! Welcome Podbuds! This week it's BudPod LIVE! from the Edinburgh Fringe Festival 2026! Part 2 coming on Friday! (Patreon members only) The buds discuss royal pictures, infinite Instagram, South African memes, Glenn’s budpod quiz, Hiroo Onoda and we welcome the return of Marjorie! This week's sketches: Dirty Fries & Marjorie To hear the full show (out on Friday) sign up to our Patreon here! Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! BudPod Live is back! Cheerful Earful Podcast Festival - October 10, 2026 - Tickets available here Bath Komedia - November 3rd, 2026 - Tickets available here Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6a842bcea835875d3728ddd2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61621671",
+      "itunes_duration": "42:38",
+      "speakers": [
+        "Dark Web Ribs",
+        "Youtube Version",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "dark",
+        "ribs",
+        "budpod"
+      ]
+    },
     {
       "key": "a9cc66db959d4d1ec0332a33995893c15b2e3b58",
       "title": "S2E61 | A New Ape",
@@ -7991,6 +8014,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — S2E62 | Dark Web Ribs | BudPod LIVE! — speakers: Dark Web Ribs, Youtube Version, Phil Wang, Pierre Novellie
 - 2026-08-12 — S2E61 | A New Ape — speakers: Phil Wang, Pierre Novellie
 - 2026-08-05 — S2E60 | Electric Play — speakers: Phil Wang, Pierre Novellie
 - 2026-07-29 — S2E59 | Dark Magic Mike — speakers: Magic Mike Youtube, Phil Wang, Pierre Novellie

@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-18T18:56:14+00:00`
-- checked_at: `2026-08-18T18:56:14+00:00`
-- etag: `"djEuMi4wOjE3ODcwNjgxNDA0OTI="`
+- fetched_at: `2026-08-19T07:05:07+00:00`
+- checked_at: `2026-08-19T07:05:07+00:00`
+- etag: `"djEuMi4wOjE3ODcxMTkyMzk0NTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-18T18:56:14+00:00",
+  "fetched_at": "2026-08-19T07:05:07+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "df035014b1694d557bc46a3952cdb889d75acae5",
+      "title": "What should the UK do with its unrecyclable waste?",
+      "published_at": "2026-08-19T06:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/what-should-the-uk-do-with-its-unrecyclable-waste",
+      "description": "The UK still sends millions of tonnes of waste to landfill, creating environmental risks while losing resources that could be put to better use. Given there will always be some waste that we cannot reuse or recycle, what role should government and industry play in finding a more sustainable alternative? Host Emma Haslett is joined by Toby Perkins MP, chair of the Environmental Audit Select Committee and Karl Smyth, Director of External Affairs and Strategic Policy at enfinium. Our panel discusses the UK’s recycling ambitions and the gap between a circular economy and the reality of unavoidable waste, as well as the environmental and community impact of landfill. They talk about the role of Energy from Waste in diverting waste from landfill, supporting energy resilience and contributing to wider decarbonisation efforts. They also consider political consensus, community support and the action needed from government and industry. This New Statesman podcast episode is sponsored by enfinium. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1787068117130-07bdc48f-8ea8-45a7-9c91-dc728e3b4448.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a847df7284dec39c2e4b416/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19736868",
+      "itunes_duration": "20:33",
+      "speakers": [
+        "while lo",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "waste"
+      ]
+    },
     {
       "key": "3a405b9ec7967dcd6d18ae472e14110793aab896",
       "title": "Reform's big benefits gamble",
@@ -32142,6 +32162,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — What should the UK do with its unrecyclable waste? — speakers: while lo, Anoosh Chakelian, Oli Dugmore
 - 2026-08-17 — Reform's big benefits gamble — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-08-15 — Burnham bounce: Labour overtakes Reform — speakers: Reform Labour, Anoosh Chakelian, Oli Dugmore
 - 2026-08-14 — Farage wins again at Clacton circus — speakers: Clacton Leisure Centre, Anoosh Chakelian, Oli Dugmore
