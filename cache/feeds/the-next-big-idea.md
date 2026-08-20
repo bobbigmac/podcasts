@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-08-13T13:46:32+00:00`
-- checked_at: `2026-08-13T13:46:32+00:00`
-- last_modified: `Thu, 13 Aug 2026 11:15:00 GMT`
+- fetched_at: `2026-08-20T09:49:33+00:00`
+- checked_at: `2026-08-20T09:49:33+00:00`
+- last_modified: `Thu, 20 Aug 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-13T13:46:32+00:00",
+  "fetched_at": "2026-08-20T09:49:33+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,47 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "9aba269f178f2c1a37902b5488f7106faddf9528",
+      "title": "Can Democracy Survive the AI Revolution?",
+      "published_at": "2026-08-20T09:00:00+00:00",
+      "link": null,
+      "description": "Today, we're revisiting Rufus's conversation with Yuval Noah Harari about his book Nexus . It's Harari at his best — a soaring overview of human history that turns, almost imperceptibly, into a gripping argument about the world we are building right now. The questions he raises about how AI affects our politics are even more relevant now than they were back then. At the time, Harari warned that AI was moving \"much, much faster\" than he expected. Since then, it has only accelerated — and so have Harari's concerns. At Davos this year, he said: \"Anything made of words will be taken over by AI. If laws are made of words, then AI will take over the legal system. If books are just combinations of words, then AI will take over books.\" Which makes the ideas they explore in this conversation feel less like speculation about the future and more like a description of the present. __________ 🎥 The Next Big Idea is now on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com. __________ Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free Wealthfront — Earn up to 4.30% APY with Wealthfront's high-yield cash account for a limited time at wealthfront.com/nbi *** Wealthfront Disclosure: This experience may not be representative of other Wealthfront clients, and there is no guarantee of future performance or success. Experiences will vary. The host of The Next Big Idea, Caleb Bissinger (“Media Partner”), is a client of Wealthfront. The Media Partner receives cash compensation from Wealthfront Brokerage for this paid endorsement placed in their podcast, creating a conflict of interest. More details available via the referral link. The Direct Deposit Plus Investing Program from Wealthfront Advisers LLC and Wealthfront Brokerage LLC provides eligible clients a 0.25% APY increase above the base APY on eligible Cash Account balances (up to an overall boosted rate of 4.30% for a limited time when including the three month 0.75% APY boost for new clients) when you direct deposit $1,000 a month, plus open, fund, and maintain an investing account. Wealthfront may change or end the program at any time and determine eligibility at its discretion. Terms apply. Full details at wealthfront.com/promo-terms . The Cash Account, which is not a deposit account, is offered by Wealthfront Brokerage LLC (\"Wealthfront Brokerage\"), Member FINRA/SIPC. Wealthfront Brokerage is not a bank. The Annual Percentage Yield (\"APY\") on cash deposits as of January 30, 2026, is representative, requires no minimum, and may change at any time. References to the APY for the Wealthfront Cash Account, including any APY increase, are to the APY paid by insured depository institutions that participate in our cash sweep program (the \"Program Banks”). Wealthfront Brokerage does not pay interest. Funds in the Cash Account are swept to Program Banks where they earn a variable APY and are eligible for FDIC insurance. Conditions apply. For a list of Program Banks, see: www.wealthfront.com/programbanks. FDIC pass-through insurance, which protects against the failure of Program Banks, not Wealthfront, is not provided until the funds arrive at the Program Banks. While funds are at Wealthfront Brokerage, and while they are transitioning to and/or from Wealthfront Brokerage to the Program Banks, the funds are eligible for SIPC protection up to the $250,000 limit for cash. FDIC insurance is limited to $250,000 per customer, per bank, regardless of whether those deposits are placed through Wealthfront Brokerage. You are responsible for monitoring your total deposits at each Program Bank to stay within FDIC limits. Wealthfront works with multiple Program Banks to make available up to $8 million ($16 million for joint accounts) of pass-through FDIC coverage for your cash deposits. For more info on FDIC insurance coverage, visit www.FDIC.gov . Same-day withdrawal or instant payment transfers may be limited by destination institutions, daily transaction caps, and by participating entities such as Wells Fargo, the RTP® Network, and FedNow® Service. New Cash Account deposits are subject to a 2-4 day holding period before becoming available for transfer. Fees & Eligibility requirements may apply to certain checking features. Investing involves risk, including the possible loss of principal. Securities investments are not bank deposits, bank-guaranteed or FDIC-insured, and may lose value. Product images are for illustrative purposes and do not reflect individual experiences, account balances, or performance.",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP8152556867.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5310",
+      "speakers": [
+        "Yuval Noah Harari",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "democracy",
+        "revolution"
+      ]
+    },
+    {
+      "key": "4ba341c05993b0b5bc861164c3164d2c6ff931a0",
+      "title": "Your Mind Is a Propagandist",
+      "published_at": "2026-08-17T09:00:00+00:00",
+      "link": null,
+      "description": "Your brain is a master storyteller. The problem? It’s also an unreliable narrator. We like to think our beliefs are built on facts, logic, and careful reasoning. But psychologist and author Owen Fitzpatrick argues that the process often works in reverse: we decide what feels true, then search for evidence that proves us right. This can reinforce limiting beliefs, fuel political polarization, and make us surprisingly susceptible to propaganda. In this conversation with guest host Michael Kovnat, Owen explores how these narratives shape our confidence, identity, and decisions — and what it takes to change them. 📖 Inner Propaganda: Leading Hearts and Minds Through Turbulent Times by Owen Fitzpatrick 🎥 The Next Big Idea is now on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com. 🎁 The best way to support the show is by becoming a Next Big Idea Club member. Learn more at nextbigideaclub.com , and use code PODCAST for a super secret discount (spoiler: it's 20% off). Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Northwest Registered Agent — Launch and grow your business with nearly 30 years of expertise behind you at northwestregisteredagent.com/nbifree Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free Wealthfront — Earn up to 4.30% APY with Wealthfront's high-yield cash account for a limited time at wealthfront.com/nbi *** Wealthfront Disclosure: This experience may not be representative of other Wealthfront clients, and there is no guarantee of future performance or success. Experiences will vary. The host of The Next Big Idea, Caleb Bissinger (“Media Partner”), is a client of Wealthfront. The Media Partner receives cash compensation from Wealthfront Brokerage for this paid endorsement placed in their podcast, creating a conflict of interest. More details available via the referral link. The Direct Deposit Plus Investing Program from Wealthfront Advisers LLC and Wealthfront Brokerage LLC provides eligible clients a 0.25% APY increase above the base APY on eligible Cash Account balances (up to an overall boosted rate of 4.30% for a limited time when including the three month 0.75% APY boost for new clients) when you direct deposit $1,000 a month, plus open, fund, and maintain an investing account. Wealthfront may change or end the program at any time and determine eligibility at its discretion. Terms apply. Full details at wealthfront.com/promo-terms . The Cash Account, which is not a deposit account, is offered by Wealthfront Brokerage LLC (\"Wealthfront Brokerage\"), Member FINRA/SIPC. Wealthfront Brokerage is not a bank. The Annual Percentage Yield (\"APY\") on cash deposits as of January 30, 2026, is representative, requires no minimum, and may change at any time. References to the APY for the Wealthfront Cash Account, including any APY increase, are to the APY paid by insured depository institutions that participate in our cash sweep program (the \"Program Banks”). Wealthfront Brokerage does not pay interest. Funds in the Cash Account are swept to Program Banks where they earn a variable APY and are eligible for FDIC insurance. Conditions apply. For a list of Program Banks, see: www.wealthfront.com/programbanks. FDIC pass-through insurance, which protects against the failure of Program Banks, not Wealthfront, is not provided until the funds arrive at the Program Banks. While funds are at Wealthfront Brokerage, and while they are transitioning to and/or from Wealthfront Brokerage to the Program Banks, the funds are eligible for SIPC protection up to the $250,000 limit for cash. FDIC insurance is limited to $250,000 per customer, per bank, regardless of whether those deposits are placed through Wealthfront Brokerage. You are responsible for monitoring your total deposits at each Program Bank to stay within FDIC limits. Wealthfront works with multiple Program Banks to make available up to $8 million ($16 million for joint accounts) of pass-through FDIC coverage for your cash deposits. For more info on FDIC insurance coverage, visit www.FDIC.gov . Same-day withdrawal or instant payment transfers may be limited by destination institutions, daily transaction caps, and by participating entities such as Wells Fargo, the RTP® Network, and FedNow® Service. New Cash Account deposits are subject to a 2-4 day holding period before becoming available for transfer. Fees & Eligibility requirements may apply to certain checking features. Investing involves risk, including the possible loss of principal. Securities investments are not bank deposits, bank-guaranteed or FDIC-insured, and may lose value. Product images are for illustrative purposes and do not reflect individual experiences, account balances, or performance.",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP5229665179.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4380",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "mind",
+        "propagandist"
+      ]
+    },
     {
       "key": "d7d6c3fbbf6e25df4de57ed3e7e949f2f1f06fed",
       "title": "The Bedazzling Mystery of Why We’re Here",
@@ -8279,6 +8320,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — Can Democracy Survive the AI Revolution? — speakers: Yuval Noah Harari, Rufus Griscom, Caleb Bissinger
+- 2026-08-17 — Your Mind Is a Propagandist — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-08-13 — The Bedazzling Mystery of Why We’re Here — speakers: Sara Walker, Rufus Griscom, Caleb Bissinger
 - 2026-08-10 — How to Lead a More Gratifying Life — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-08-06 — Best Of: Adam Grant on the Science of Achieving Greater Things — speakers: Adam Grant, Rufus Griscom, Caleb Bissinger

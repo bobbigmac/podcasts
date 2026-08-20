@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-08-13T10:21:24+00:00`
-- checked_at: `2026-08-13T10:21:24+00:00`
-- etag: `"djEuMi4wOjE3ODY1OTcyMzk1ODI="`
+- fetched_at: `2026-08-20T09:49:33+00:00`
+- checked_at: `2026-08-20T09:49:33+00:00`
+- etag: `"djEuMi4wOjE3ODY5NDI4Mzk1MDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-08-13T10:21:24+00:00",
+  "fetched_at": "2026-08-20T09:49:33+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,24 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "799e504eb36bb8bcae9794f59307425c37869bc1",
+      "title": "I'm In Edinburgh!",
+      "published_at": "2026-08-17T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/im-in-edinburgh-2026",
+      "description": "Some people have been in Edinburgh all month long... well, the cool kids are now finally in town! Starting today, I'll be at Monkey Barrel Comedy's Cabaret Voltaire everyday at 2.25pm until 30th August. Although it's about the climate, this show isn't bleak! I tackle our hypocrisy, the barefaced lies of big oil companies, and the things we tell ourselves to cope with it all. It's consistently hilarious (as evidenced below*, don't just take my word for it), and will leave you motivated and full of fierce joy! *The TImes: \"The funny side of climate change… No, really!\" LIVE DATES Edinburgh | 17th to 30th August Cambridge | 3rd September Glasgow | 16th September Oxford | 20th September Manchester | 2nd October Cardiff | 9th October Maidenhead | 16th October Sheffield | 6th November Birmingham | 13th November PLUS, the biggest headline show of my career... Bristol Old Vi c | 18th November Tickets now on sale at stuartgoldsmith.com/comedy . I'm really proud of it, and can't wait to take it out on the road (sustainably of course). Hopefully see you there! - Stu Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1786355969928-b7914487-d878-4f1b-884c-2857678e24bd.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a79a1b6c399196b512dd2ff/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "2261952",
+      "itunes_duration": "1:34",
+      "speakers": [
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "edinburgh"
+      ]
+    },
     {
       "key": "34d69c3e13147a66c6d55ec9616c0bb62d3132f3",
       "title": "Nish Kumar Returns, Again! | Part Two",
@@ -11696,6 +11714,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-17 — I'm In Edinburgh! — speakers: Stuart Goldsmith
 - 2026-08-13 — Nish Kumar Returns, Again! | Part Two — speakers: Kumar Returns, Stuart Goldsmith
 - 2026-08-07 — Nish Kumar Returns, Again! | Part One — speakers: Kumar Returns, Stuart Goldsmith
 - 2026-07-31 — Kristen Schaal — speakers: Kristen Schaal Chances, Kristen Schaal, Stuart Goldsmith
