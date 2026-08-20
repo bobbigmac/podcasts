@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-08-19T01:52:48+00:00`
-- checked_at: `2026-08-19T01:52:48+00:00`
-- last_modified: `Wed, 19 Aug 2026 01:00:05 GMT`
+- fetched_at: `2026-08-20T01:51:21+00:00`
+- checked_at: `2026-08-20T01:51:21+00:00`
+- last_modified: `Wed, 19 Aug 2026 23:00:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-19T01:52:48+00:00",
+  "fetched_at": "2026-08-20T01:51:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,32 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "50ef3b40407e072fd5c340f3f7d56fb6d0dd7283",
+      "title": "564. Burnham’s Media Machine and West Bank Settler Impunity",
+      "published_at": "2026-08-19T23:00:00+00:00",
+      "link": null,
+      "description": "Is Burnham’s Britain’s first ‘TikTok Prime Minister’ and what does that mean for accountability, old-fashioned journalism, and the Westminster lobby? Why are violent Israeli settlers able to act with impunity against Palestinians in the West Bank, and is Israel effectively annexing the territory? Should young people spend the last two weeks of their summer holidays thinking about the challenges facing the world? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. Get involved with Politika’s Policy Ideas for Positive Change ⁠⁠ HERE ⁠⁠ . The competition is open to all 16–18 year olds in the UK, and submissions close on 20th September 2026. __________ Enjoy Rory and Alastair’s interview with Maoz Inon and Aziz Abu Sarah by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Summer sale is HERE : Get an annual membership for an extra 20% off with code SUMMER26 That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Becoming Burnham Trailer Editor: Dylan Bonham Social Producer: Celine Charles Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6df45f2a-9bd0-11f1-8de9-e390e1f223b3/image/8af979138b87046cc5a7b3fdfe28c22f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9452011826.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3672",
+      "speakers": [
+        "Media Machine",
+        "West Bank Settler Impunity",
+        "Prime Minister"
+      ],
+      "topics": [
+        "burnham",
+        "media",
+        "machine",
+        "west",
+        "bank",
+        "settler",
+        "impunity"
+      ]
+    },
     {
       "key": "30d3eba1e1010473a56420760073528d9710cb7b",
       "title": "563. Britain’s Afghanistan Shame and the Jason Arday Tragedy",
@@ -35,7 +61,7 @@
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5089408135.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4219",
+      "itunes_duration": "4191",
       "speakers": [
         "Afghanistan Shame",
         "Jason Arday Tragedy Five"
@@ -12689,6 +12715,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — 564. Burnham’s Media Machine and West Bank Settler Impunity — speakers: Media Machine, West Bank Settler Impunity, Prime Minister
 - 2026-08-18 — 563. Britain’s Afghanistan Shame and the Jason Arday Tragedy — speakers: Afghanistan Shame, Jason Arday Tragedy Five
 - 2026-08-13 — Will Climate Action Go Backwards Under Burnham? — speakers: Andy Burnham
 - 2026-08-12 — 562. The Right’s War With Itself and Burnham’s Prisons Challenge — speakers: Rupert Lowe

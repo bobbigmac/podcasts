@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-08-18T07:03:34+00:00`
-- checked_at: `2026-08-18T07:03:34+00:00`
-- etag: `W/"4584c15ee3767290395091284814aef3"`
-- last_modified: `Tue, 18 Aug 2026 05:04:35 GMT`
+- fetched_at: `2026-08-20T01:51:21+00:00`
+- checked_at: `2026-08-20T01:51:21+00:00`
+- etag: `W/"3d65a4da797d0758f9f2aff4388d7ebc"`
+- last_modified: `Thu, 20 Aug 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-08-18T07:03:34+00:00",
+  "fetched_at": "2026-08-20T01:51:21+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a6c028705a8f36d5547926cdb37715590936049c",
+      "title": "The Nuance Drought: False Binaries and Critical Friends w/ Natasha Devon",
+      "published_at": "2026-08-20T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8943018",
+      "description": "This week, it’s Coco & Cody Dahler while Nish is away at the Fringe! As the country reels from the shocking news of Jason Arday’s death, they’re joined by broadcaster and writer Natasha Devon to reflect on the role of legacy media, and where the line is drawn between public interest and pile ons. Also: is Britain living through a ‘nuance drought’? Coco, Cody, and Natasha wrestle with the decline of the ‘critical friend’ perspective, and ask how we can bring back the grey area when people are encouraged to pick a side–not just in politics, but wider society. And when pain is preferred to certainty, is Farage the devil we know? They discuss ideological fault lines, false binaries, social media bans, and burning everything down… USEFUL LINKS If you have been affected by any of the issues raised during this episode, you can call the Samaritans on 116 123 or visit www.samaritans.org Pre-order Natasha’s book here: https://www.waterstones.com/book/the-nuance-drought/natasha-devon/9781837733170 Petition demanding a public inquiry into Jason Arday’s death: https://goodlawproject.org/petition/jason-arday-letter/ ‘Farage Fest’ AI music video: https://x.com/reformparty_uk/status/2089464382925205526 CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is an Intelligence Squared production for Crooked Media. Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43799706/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943018.mp3?modified=1787158117&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4079",
+      "speakers": [
+        "Natasha Devon",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "nuance",
+        "drought",
+        "binaries",
+        "critical",
+        "friends",
+        "natasha",
+        "devon"
+      ]
+    },
     {
       "key": "198e68c26354c7a1fb92c59a6d2ad3b57e4ce4cc",
       "title": "What happens if no one votes in the Clacton s**tshow? And what's Nish's favourite pizza? Question Time - PSUK-style",
@@ -4091,6 +4117,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — The Nuance Drought: False Binaries and Critical Friends w/ Natasha Devon — speakers: Natasha Devon, Nish Kumar, Coco Khan
 - 2026-08-06 — What happens if no one votes in the Clacton s**tshow? And what's Nish's favourite pizza? Question Time - PSUK-style — speakers: Nish Kumar, Coco Khan
 - 2026-07-30 — The Exxon Heatwave: Climate Crisis & Denial w/ Simon Clark. Plus, Save Our Humanities! — speakers: Simon Clark, Nish Kumar, Coco Khan
 - 2026-07-23 — Burnham’s Britain & Cabinet Pic ‘n’ Mix w/ Anoosh Chakelian — speakers: Cabinet Pic, Nish Kumar, Coco Khan

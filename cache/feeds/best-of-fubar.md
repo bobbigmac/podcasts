@@ -2,8 +2,8 @@
 
 - slug: `best-of-fubar`
 - source: `https://www.fubarradio.com/player/on-demand/best-of-fubar/`
-- fetched_at: `2026-08-19T01:52:48+00:00`
-- checked_at: `2026-08-19T01:52:48+00:00`
+- fetched_at: `2026-08-20T01:51:21+00:00`
+- checked_at: `2026-08-20T01:51:21+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/best-of-fubar/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/best-of-fubar/",
   "image_url": "",
-  "fetched_at": "2026-08-19T01:52:48+00:00",
+  "fetched_at": "2026-08-20T01:51:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "08ef83a7d52db350c887705617b7b3559e8134c2",
+      "guid": "43a7d836-ef09-4efe-9d00-70a123a9a86d",
+      "title": "Best of FUBAR (20th August)",
+      "published_at": "2026-08-20T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-20th-august2/",
+      "description": "A selection of highlights from the FUBAR vaults.",
+      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1787184154-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=43a7d836-ef09-4efe-9d00-70a123a9a86d&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "663c35b7d030f3e2de6ab75ca0cf2d097242c624",
       "guid": "0a0c1c5c-c297-4b94-b141-4b129e6f5e9e",
@@ -9521,6 +9534,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — Best of FUBAR (20th August)
 - 2026-08-19 — Best of FUBAR (19th August)
 - 2026-08-18 — Best of FUBAR (18th August)
 - 2026-08-17 — Best of FUBAR (17th August)

@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-08-17T01:54:43+00:00`
-- checked_at: `2026-08-17T01:54:43+00:00`
-- last_modified: `Sun, 16 Aug 2026 23:10:36 GMT`
+- fetched_at: `2026-08-20T01:51:21+00:00`
+- checked_at: `2026-08-20T01:51:21+00:00`
+- last_modified: `Wed, 19 Aug 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-17T01:54:43+00:00",
+  "fetched_at": "2026-08-20T01:51:21+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c6b72229dea40a9d20e8b4f126ec34e32e7b35a4",
+      "title": "Sex Robots, Sofa Fires And Secret Situationships",
+      "published_at": "2026-08-19T23:01:00+00:00",
+      "link": null,
+      "description": "Should you stay in a situationship? In this Thursday episode of The Romesh Ranganathan Show, Romesh and Shanthi tackle your problems, from forgetting your neighbours’ names to dealing with the annoying aspects of parenthood. We also discuss Diane Morgan’s new show Ann Droid, and get into a debate on robots and their possibilities from household help to sex robots. Elsewhere, Romesh recommends Modern Family as a must-watch show and Shanthi gives her opinion on secret situationships, plus we visit a good old family memory of when Romesh and Dinesh set the sofa on fire. It's another classic Ranganathan family episode - don't miss it. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 01:10 On Diane Morgan 01:39 Shanthi’s robot experience 04:42 Sex robots 07:27 Ranganathan recommendations 11:15 An awkward name problem 15:15 Role playing Shanthi’s advice 20:41 An annoying kid question 22:14 The sofa incident 26:18 A secret situationship 33:16 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8422138529.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2163",
+      "speakers": [
+        "Sex Robots",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "robots",
+        "sofa",
+        "fires",
+        "secret",
+        "situationships"
+      ]
+    },
     {
       "key": "99ef50959a2892528f709ce5a75671faa49af2cc",
       "title": "Diane Morgan On Comedy, Cunk and becoming a robot in Ann Droid",
@@ -36,7 +59,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT7271686723.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4560",
+      "itunes_duration": "4559",
       "speakers": [
         "Diane Morgan",
         "Romesh Ranganathan"
@@ -2172,6 +2195,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — Sex Robots, Sofa Fires And Secret Situationships — speakers: Sex Robots, Romesh Ranganathan
 - 2026-08-16 — Diane Morgan On Comedy, Cunk and becoming a robot in Ann Droid — speakers: Diane Morgan, Romesh Ranganathan
 - 2026-08-12 — Drag Queens, Peer Pressure and What To Watch — speakers: Drag Queens, Romesh Ranganathan
 - 2026-08-09 — Himesh Patel: Starring In The Odyssey, Working With Matt Damon, And Life After EastEnders — speakers: Matt Damon, Romesh Ranganathan

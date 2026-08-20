@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-08-19T21:40:20+00:00`
-- checked_at: `2026-08-19T21:40:20+00:00`
-- last_modified: `Wed, 19 Aug 2026 21:02:32 GMT`
+- fetched_at: `2026-08-20T01:51:21+00:00`
+- checked_at: `2026-08-20T01:51:21+00:00`
+- last_modified: `Thu, 20 Aug 2026 01:44:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-19T21:40:20+00:00",
+  "fetched_at": "2026-08-20T01:51:21+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "494e5eaadc545d3108488daf32479d4898607bd2",
+      "title": "Can Song Lyrics Get You Arrested?",
+      "published_at": "2026-08-19T23:10:00+00:00",
+      "link": null,
+      "description": "Can a rap lyric lock you up? Why are there so many radio stations? What does Netflix’s deal with GTA 6 mean for the gaming industry? Marina Hyde and Richard Osman answer your questions on film villains, the use of lyrics as evidence and the Edinburgh Fringe. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Looking for extra value from your spending? You can bank on Lloyds to help your money go further. Search Lloyds Rewards in your app. Summer sale is here: get an annual membership for a third off with code SUMMER26 . That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. Sign up directly at therestisentertainment.com . For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: James Clayden Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7035481746.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1659",
+      "speakers": [
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "song",
+        "lyric"
+      ]
+    },
     {
       "key": "29d030adb5ba528f532e2ad10f97e0d69d7895c3",
       "title": "The Rock Enters His Country Music Era",
@@ -6512,6 +6532,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-19 — Can Song Lyrics Get You Arrested? — speakers: Richard Osman, Marina Hyde
 - 2026-08-17 — The Rock Enters His Country Music Era — speakers: Country Music Era Why, Richard Osman, Marina Hyde
 - 2026-08-12 — How To Win Lunch With a Celeb — speakers: Richard Osman, Marina Hyde
 - 2026-08-11 — James Bond: Sex, Spies and Soggy Towels (Ep1) — speakers: Soggy Towels, Ian Fleming, Richard Osman, Marina Hyde
