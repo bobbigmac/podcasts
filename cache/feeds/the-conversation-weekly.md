@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-08-20T09:49:33+00:00`
-- checked_at: `2026-08-20T09:49:33+00:00`
-- etag: `"261124-65970a8ce0fe9"`
-- last_modified: `Thu, 20 Aug 2026 01:44:23 GMT`
+- fetched_at: `2026-08-20T18:58:23+00:00`
+- checked_at: `2026-08-20T18:58:23+00:00`
+- etag: `"261fb0-6597c9e92c35e"`
+- last_modified: `Thu, 20 Aug 2026 16:00:31 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-08-20T09:49:33+00:00",
+  "fetched_at": "2026-08-20T18:58:23+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,29 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "e9881cacb98af01aed2e17b419ffe9420cbf53ad",
+      "title": "How Timor-Leste is fighting back against Asia’s scamming gangs",
+      "published_at": "2026-08-20T16:00:00+00:00",
+      "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
+      "description": "🔁 Rerun: originally published 12/12/25. We're revisiting this episode as we take a quick break but we'll be back next week with a new instalment of The Conversation Weekly. Oecusse, a rugged, remote district of Timor-Leste in south-east Asia, is usually a pretty sleepy place. But in August, Oecusse was rocked by a large police raid on a suspected scam centre, later linked by a UN report to organised crime networks running scamming operations across south-east Asia. And then in early September, a Facebook post by one of Timor-Leste’s highest political officials made some explosive allegations about a murky criminal underworld trying to get a foothold in the country. In this episode, we speak to Michael Rose, an anthropologist and adjunct lecturer at the University of Adelaide who has lived and worked in Timor-Leste, about how Asia’s scamming gangs set their sights on Timor-Leste as their next frontier – and the movement to keep them out. This episode was written and produced by Katie Flood and Gemma Ware with assistance from Mend Mariwany. Mixing by Michelle Macklem and theme music by Neeta Sarl. Gemma Ware is the executive producer. Read the full credits for this episode and sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation, an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/df7e8d92-5934-4570-a581-6358fedbedef.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34774345",
+      "itunes_duration": "24:09",
+      "speakers": [
+        "How Timor",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "timor",
+        "leste",
+        "asia",
+        "scamming",
+        "gang"
+      ]
+    },
     {
       "key": "670aff4c14386373fe89f385ad2837a60426b2c0",
       "title": "Loonies and bins: Britain's long love affair with novelty politics",
@@ -6185,6 +6208,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — How Timor-Leste is fighting back against Asia’s scamming gangs — speakers: How Timor, Gemma Ware
 - 2026-08-13 — Loonies and bins: Britain's long love affair with novelty politics — speakers: Gemma Ware
 - 2026-08-06 — The soviet origins of shadow libraries — speakers: Gemma Ware
 - 2026-07-30 — A window into the murky world of peptides — speakers: Timothy Piatkowki, Gemma Ware
