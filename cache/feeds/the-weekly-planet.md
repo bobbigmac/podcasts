@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-08-17T07:15:46+00:00`
-- checked_at: `2026-08-17T07:15:46+00:00`
-- etag: `"djEuMi4wOjE3ODY5NDEwMzk0NjA="`
+- fetched_at: `2026-08-20T15:48:28+00:00`
+- checked_at: `2026-08-20T15:48:28+00:00`
+- etag: `"djEuMi4wOjE3ODcyMzI2MzkzODI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-08-17T07:15:46+00:00",
+  "fetched_at": "2026-08-20T15:48:28+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "e4b455ee4e614312bc5c2b4dcab2fcf244ea3287",
+      "title": "Resident Evil: Apocalypse - Caravan Of Garbage",
+      "published_at": "2026-08-20T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/resident-evil-2-apocalypse",
+      "description": "We are off and running with our look at the six Resident Evil movies! Well the six starring Milla Jovovich as Alice and either produced or directed by Paul WS Anderson. Second up is Resident Evil: Apocalypse the entry that is most closely tied and based on a specific video game from the series. Jill Valentine joins the team and we get the introduction of Nemesis, a big gross mutant guy with a secret past I'm not sure the movie even tries to keep secret. And there's a lot of running and jumping and shooting etc. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a792ab9aa557e62dc0718b5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29883334",
+      "itunes_duration": "28:57",
+      "speakers": [
+        "Milla Jo",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "resident",
+        "evil",
+        "apocalypse",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "f889f106da30f52bcb966a2c7e425c5ee0920586",
       "title": "636 Marvel/Star Wars Crossover & The End of Oak Street",
@@ -22916,6 +22940,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — Resident Evil: Apocalypse - Caravan Of Garbage — speakers: Milla Jo, James Clement, Nick Mason
 - 2026-08-17 — 636 Marvel/Star Wars Crossover & The End of Oak Street — speakers: Star Wars Crossover, Oak Street Unfortunately, James Clement, Nick Mason
 - 2026-08-13 — Resident Evil - Caravan Of Garbage — speakers: Zack Cregger, James Clement, Nick Mason
 - 2026-08-10 — 635 Spider-Man Success & Best/Worst Comic Adaptations (Part 2) — speakers: Man Success, Worst Comic Adaptations, James Clement, Nick Mason

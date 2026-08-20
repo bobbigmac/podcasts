@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-08-19T15:46:24+00:00`
-- checked_at: `2026-08-19T15:46:24+00:00`
-- etag: `"djEuMi4wOjE3ODcxNDU1MzU1NjQ="`
+- fetched_at: `2026-08-20T15:48:28+00:00`
+- checked_at: `2026-08-20T15:48:28+00:00`
+- etag: `"djEuMi4wOjE3ODcyMzQ0Mzk1MjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-08-19T15:46:24+00:00",
+  "fetched_at": "2026-08-20T15:48:28+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,25 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "3769dc9ff60cae3affd73f5cf0a6e5af7ab925d3",
+      "title": "The Bugle UNCUT",
+      "published_at": "2026-08-20T14:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/the-bugle-uncut",
+      "description": "Join us for a too hot to handle episode of The Bugle, where producer Harry has selected a hand full of clips deemed too spicy to make it the first time round. From AI destruction to even more news on the celebrity wedding of the year! Andy is joined by regular hosts Josh Gondelman, Nish Kumar, Alice Fraser and Nato Green as we go behind the curtain of The Bugle Uncut. Thank you for listening, and we’ll be back next week, and remember you can help us stay alive by donating at thebuglepodcast.com if you liked this why not check out The Bugle's sister podcasts The Gargle and Realms Unknown. 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a86fe91c71d02aaba43ebf7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20123898",
+      "itunes_duration": "20:57",
+      "speakers": [
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "bugle",
+        "uncut"
+      ]
+    },
     {
       "key": "496e3461d243d1c43d7e87552e76ac9c8beeb28a",
       "title": "An Ask Andy Special",
@@ -14455,6 +14474,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — The Bugle UNCUT — speakers: Andy Zaltzman
 - 2026-08-05 — An Ask Andy Special — speakers: Andy Zaltzman
 - 2026-07-29 — An AI Odyssey — speakers: Joining Andy, Tiff Stevenson, Andy Zaltzman
 - 2026-07-22 — 7th PM in a decade! — speakers: Joining Andy, Alice Fraser, Andy Zaltzman

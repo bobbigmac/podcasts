@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-19T07:05:07+00:00`
-- checked_at: `2026-08-19T07:05:07+00:00`
-- etag: `"djEuMi4wOjE3ODcxMTkyMzk0NTQ="`
+- fetched_at: `2026-08-20T15:48:28+00:00`
+- checked_at: `2026-08-20T15:48:28+00:00`
+- etag: `"djEuMi4wOjE3ODcyMzQ0NzMyMTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-19T07:05:07+00:00",
+  "fetched_at": "2026-08-20T15:48:28+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "cd97f0ffd1f985e258a7b9d2642043572bffcc0d",
+      "title": "Will Andy Burnham call an early election?",
+      "published_at": "2026-08-20T14:01:13+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/will-andy-burnham-call-an-early-election",
+      "description": "On the one hand, Burnham may never be as popular as he is now. On the other, the PM could lose an election if he calls it soon, bringing his long-held dream of being prime minister to a horribly premature end. Anoosh Chakelian is joined by political editor Ailbhe Rea. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1787234279491-4257a504-bd96-44a5-86e4-3efe9b039c70.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a870336ce85e7a1bad31aec/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73574867",
+      "itunes_duration": "30:38",
+      "speakers": [
+        "Will Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "election"
+      ]
+    },
     {
       "key": "df035014b1694d557bc46a3952cdb889d75acae5",
       "title": "What should the UK do with its unrecyclable waste?",
@@ -32162,6 +32184,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — Will Andy Burnham call an early election? — speakers: Will Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-08-19 — What should the UK do with its unrecyclable waste? — speakers: while lo, Anoosh Chakelian, Oli Dugmore
 - 2026-08-17 — Reform's big benefits gamble — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-08-15 — Burnham bounce: Labour overtakes Reform — speakers: Reform Labour, Anoosh Chakelian, Oli Dugmore
