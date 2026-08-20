@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-19T03:58:14+00:00`
-- checked_at: `2026-08-19T03:58:14+00:00`
-- etag: `"djEuMi4wOjE3ODcxMDQ4Mzk1NjQ="`
+- fetched_at: `2026-08-20T03:58:03+00:00`
+- checked_at: `2026-08-20T03:58:03+00:00`
+- etag: `"djEuMi4wOjE3ODcxOTEyMzk3NjI="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-19T03:58:14+00:00",
+  "fetched_at": "2026-08-20T03:58:03+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,27 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "e5b15a537cbe5f1149042328cf46e761f29febd2",
+      "title": "S16 Ep 892: Suggs, Waterparks and Being Ignored",
+      "published_at": "2026-08-20T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-892-suggs-waterparks-and-being-ignored",
+      "description": "First up, Joe tells David about seeing the Madness singer Suggs on his train the other day. Then David wants to recount his recent trip to the Splashdown water park in Torquay for one of his son’s birthdays. And let’s just say, in spite of really liking the experience, he has a lot to say about some of the park’s other visitors. Later in the show, there’s chat about someone who’s ignoring David, answering a bunch of funny questions from school kids and an attempt to scam Joe’s mum. It’s a jam-packed show! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a7eb1c083128ee3d226f719/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49537358",
+      "itunes_duration": "51:36",
+      "speakers": [
+        "Being Ignored",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "suggs",
+        "waterparks"
+      ]
+    },
     {
       "key": "abd7eea5d5587a7c7bd4d43b7c42c01aa878f78f",
       "title": "S16 Ep 891: TV Joe Hasn’t A Clue",
@@ -16021,6 +16042,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — S16 Ep 892: Suggs, Waterparks and Being Ignored — speakers: Being Ignored, Joe Wilkinson, David Earl
 - 2026-08-19 — S16 Ep 891: TV Joe Hasn’t A Clue — speakers: Joe Wilkinson, David Earl
 - 2026-08-18 — S16 Ep 890: The Good, The Bad & The Football — speakers: Joe Wilkinson, David Earl
 - 2026-08-17 — S16 Ep 889 Vault Mondays: Joe's Weight and Joe's Impressions — speakers: Joe Wilkinson, David Earl
