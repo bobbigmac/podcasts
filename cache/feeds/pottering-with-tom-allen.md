@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-08-13T05:03:16+00:00`
-- checked_at: `2026-08-13T05:03:16+00:00`
+- fetched_at: `2026-08-20T07:05:26+00:00`
+- checked_at: `2026-08-20T07:05:26+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 13 Aug 2026 04:07:26 GMT`
+- last_modified: `Thu, 20 Aug 2026 06:22:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-13T05:03:16+00:00",
+  "fetched_at": "2026-08-20T07:05:26+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0ddb53b94dc96c1649fd2c811d335a32fc59a06e",
+      "title": "Gaby French",
+      "published_at": "2026-08-20T04:00:00+00:00",
+      "link": null,
+      "description": "This week, I've had the pleasure of being joined by the wonderfully talented Gaby French in the garden! 🌿✨ Actor extraordinaire and self-proclaimed Toby Carvery Ambassador, Gaby has appeared everywhere from Enola Holmes and, Alfie's favourite, Military Wives to the award-winning Broadway production of Hangmen. It was a real treat to have a good old catch up! We discuss life on stage and screen, the Carvery tales and nights out in Cardiff. We also hear all about Gaby's pandemic project in her parents' garden and so much more! A true delight, I do hope you enjoy! So, settle into your favourite garden chair, rest those vocal cords and let the Pottering commence! 🪴 Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/f6c7f64a-9be9-11f1-80c5-53a83adb1af4/image/eccc7c0f17799f9aec5e3e4ef591d5e4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR3756661745.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3298",
+      "speakers": [
+        "Gaby French",
+        "Tom Allen"
+      ],
+      "topics": [
+        "gaby",
+        "french"
+      ]
+    },
     {
       "key": "3bb0f1a2ebe00888728ffc724c32dacebd6d0907",
       "title": "Nina Conti",
@@ -1003,6 +1023,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — Gaby French — speakers: Gaby French, Tom Allen
 - 2026-08-13 — Nina Conti — speakers: Nina Conti, Tom Allen
 - 2026-08-06 — Anna Haugh — speakers: Anna Haugh, Tom Allen
 - 2026-07-30 — Jake Lambert — speakers: Jake Lambert, Tom Allen

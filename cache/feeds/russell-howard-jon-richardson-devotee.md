@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-08-19T21:40:20+00:00`
-- checked_at: `2026-08-19T21:40:20+00:00`
-- etag: `W/"549fd-KIEnLu7TWoN9ruQdeGKfQTS4VEE"`
+- fetched_at: `2026-08-20T07:05:26+00:00`
+- checked_at: `2026-08-20T07:05:26+00:00`
+- etag: `W/"552f3-2CPLF0GSHYj4wiTitvyte752icE"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-08-19T21:40:20+00:00",
+  "fetched_at": "2026-08-20T07:05:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -5993,6 +5993,48 @@
         "richardson",
         "podcast"
       ]
+    },
+    {
+      "key": "a684f093db9b3585bae18b8b1432307032395409",
+      "title": "#24 Russell Howard & Jon Richardson Podcast EP 24",
+      "published_at": "2026-01-15T12:03:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/24-Russell-Howard--Jon-Richardson-Podcast-EP-24-e3dlfd3",
+      "description": "#24 Russell Howard & Jon Richardson Podcast EP 24",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1768415657513-44aa43ba4bf15.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/113998691/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-14%2Fd593f636-c2ea-ea8f-7ab4-bf9282f36323.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "59614176",
+      "itunes_duration": "01:22:47",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "6a777fddf64b7ceaa114fe8ded457e634e91d837",
+      "title": "#23 Russell Howard & Jon Richardson Podcast EP 23",
+      "published_at": "2026-01-15T06:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/23-Russell-Howard--Jon-Richardson-Podcast-EP-23-e3dlf7e",
+      "description": "#23 Russell Howard & Jon Richardson Podcast EP 23",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1768415467668-ed42c2a941ff9.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/113998510/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-14%2F3a71b92b-57c0-1624-a0e7-c661adfd68dd.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65155584",
+      "itunes_duration": "01:30:29",
+      "speakers": [
+        "Russell Howard"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
     }
   ]
 }
@@ -6264,3 +6306,5 @@
 - 2026-01-16 — #27 Russell Howard & Jon Richardson Podcast EP 27 — speakers: Russell Howard
 - 2026-01-16 — #26 Russell Howard & Jon Richardson Podcast EP 26 — speakers: Russell Howard
 - 2026-01-15 — #25 Russell Howard & Jon Richardson Podcast EP 25 — speakers: Russell Howard
+- 2026-01-15 — #24 Russell Howard & Jon Richardson Podcast EP 24 — speakers: Russell Howard
+- 2026-01-15 — #23 Russell Howard & Jon Richardson Podcast EP 23 — speakers: Russell Howard
