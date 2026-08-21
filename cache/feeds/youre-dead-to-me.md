@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-08-14T07:49:34+00:00`
-- checked_at: `2026-08-14T07:49:34+00:00`
-- etag: `"3c110f3fb0a8175cb4202b45c3a5b76f"`
-- last_modified: `Fri, 14 Aug 2026 05:00:13 GMT`
+- fetched_at: `2026-08-21T07:06:50+00:00`
+- checked_at: `2026-08-21T07:06:50+00:00`
+- etag: `"f56e4c2596531b3ef64392fc7065decf"`
+- last_modified: `Fri, 21 Aug 2026 05:00:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-08-14T07:49:34+00:00",
+  "fetched_at": "2026-08-21T07:06:50+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,26 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "6cf3039b7286afa8b3f94780963e49c1c3322cd5",
+      "title": "Akhenaten and Nefertiti: religious revolution in ancient Egypt",
+      "published_at": "2026-08-21T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002zg0t",
+      "description": "Greg Jenner is joined in ancient Egypt by historian and curator Dr Campbell Price and comedian Sikisa to learn all about Tutankhamun’s parents, Nefertiti and Akhenaten. As well as their famous son, this ancient Egyptian power couple are best known in the modern age for two reasons. Firstly, Nefertiti’s legendary beauty – her portrait bust is instantly recognisable around the world. Secondly, Akhenaten’s religious radicalism, which saw him reorient Egyptian belief towards the sun god Aten and build an entirely new capital away from the traditional seat of power at Thebes. This episode traces their lives as members of the 18th dynasty, often regarded as the ‘Golden Age’ of pharaonic Egypt. We look at Akhenaten’s murky childhood and Nefertiti’s even murkier origins, exploring their family life and the children they had, the religious revolution that Akhenaten drove, the unique architecture and art styles developed during their reign, and the fate of Aten worship after Akhenaten’s death. Along the way, we dig into the archaeological evidence and the many uncertainties surrounding their lives, and ask whether they really were Tutankhamun’s parents after all. If you’re a fan of pharaohs and their follies, the history of religion, and unravelling the mysteries of ancient Egypt, you’ll love our episode on Nefertiti and Akhenaten. If you want more ancient Egyptian history with Dr Campbell Price, listen to our episodes on Hatshepsut or Ramesses the Great. And for more power-hungry monarchs, check out episodes on Emperor Nero or Frederick the Great. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Siobhan-Michelle Smith Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p0czzs.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0nynw9w.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55696000",
+      "itunes_duration": "3481",
+      "speakers": [
+        "Greg Jenner"
+      ],
+      "topics": [
+        "nefertiti",
+        "revolution",
+        "egypt"
+      ]
+    },
     {
       "key": "c8c0795c9484330cea07dd48fced7dcc08d04041",
       "title": "Anne Bonny and Mary Read: real-life pirates of the Caribbean",
@@ -3737,22 +3757,19 @@
     },
     {
       "key": "4df7663c1f07efee924b283b0e9e9c1b30a0cb8a",
-      "title": "Vital Electricity",
+      "title": "05/09/2026",
       "published_at": "2023-03-03T07:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0f6bn9j",
-      "description": "Greg Jenner is joined by guests Prof Iwan Rhys Morus and comedian Olga Koch in the 17th century to learn all about \"vital electricity\". From elaborate party tricks to questionable medicinal claims, we’ll explore the downright bizarre ways that the force of electricity has been harnessed and developed throughout the years. Research by Roxy Moore Written by Emma Nagouse, Roxy Moore and Greg Jenner Produced by Emma Nagouse and Greg Jenner Assistant Producer: Emmie Rose Price-Goodfellow Project Management: Isla Matthews Audio Producer: Steve Hankey You’re Dead To Me is a production by The Athletic for BBC Radio 4.",
+      "description": "The comedy podcast that takes history seriously. Hosted by Greg Jenner.",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0f8hmbr.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53568000",
       "itunes_duration": "3348",
       "speakers": [
-        "Olga Koch"
+        "Greg Jenner"
       ],
-      "topics": [
-        "vital",
-        "electricity"
-      ]
+      "topics": []
     },
     {
       "key": "45e489c90141ec447589f651f8cf0ab10dcf82d1",
@@ -6114,6 +6131,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-21 — Akhenaten and Nefertiti: religious revolution in ancient Egypt — speakers: Greg Jenner
 - 2026-08-14 — Anne Bonny and Mary Read: real-life pirates of the Caribbean — speakers: Anne Bonny, Mary Read, Greg Jenner, Hannah Cusworth
 - 2026-08-07 — Medieval Saints: miracles, relics and pilgrimage — speakers: Medieval Saints, Greg Jenner, Simon Yarrow, Rachel Parris
 - 2026-07-31 — Francis Galton: Victorian scientist and pioneer of eugenics — speakers: Francis Galton, Greg Jenner, Subhadra Das
@@ -6283,7 +6301,7 @@
 - 2023-03-24 — Sarah Bernhardt — speakers: Sarah Bernhardt Greg Jenner
 - 2023-03-17 — The Columbian Exchange — speakers: Greg Jenner, Desiree Burch
 - 2023-03-10 — Frederick Douglass — speakers: Frederick Douglass Greg Jenner, Prof Emily Bernard, Toussaint Douglass
-- 2023-03-03 — Vital Electricity — speakers: Olga Koch
+- 2023-03-03 — 05/09/2026 — speakers: Greg Jenner
 - 2023-02-24 — The Indus Civilisation: life in Bronze Age South Asia — speakers: Greg Jenner, Danika Parikh, Ahir Shah
 - 2023-02-17 — Early Medieval Papacy — speakers: Greg Jenner, Prof Brett Whalen, Alison Spittle
 - 2023-02-10 — Georgian Courtship: love and marriage in 18th-century England — speakers: Greg Jenner, Sally Holloway, Cariad Lloyd

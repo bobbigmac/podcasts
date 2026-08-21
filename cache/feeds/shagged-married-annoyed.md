@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-07-31T09:15:48+00:00`
-- checked_at: `2026-07-31T09:15:48+00:00`
-- last_modified: `Fri, 31 Jul 2026 03:49:07 GMT`
+- fetched_at: `2026-08-21T07:06:50+00:00`
+- checked_at: `2026-08-21T07:06:50+00:00`
+- last_modified: `Fri, 21 Aug 2026 05:34:59 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-07-31T09:15:48+00:00",
+  "fetched_at": "2026-08-21T07:06:50+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,143 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "33e676624d41554642dfbf5c46f45a1d1a368539",
+      "title": "A Garage-full of Beef and a Late Night Feast",
+      "published_at": "2026-08-21T02:45:00+00:00",
+      "link": null,
+      "description": "This week on the podcast, Chris has single handedly been lowering the family golf handicap (someone’s got to!) and Rosie is planning a jam packed trip to Edinburgh Fringe! Chris has a big beef with Rosie, and they get a visitor in the studio... All this plus icks, QFTPs and voicenotes sent in by you! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7330671200.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3630",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "garage",
+        "beef",
+        "late",
+        "night",
+        "feast"
+      ]
+    },
+    {
+      "key": "afa593941e4d974ee2a925d465370ed1b8e0989c",
+      "title": "Please Keep Me Anonymous - Best Of Part Three",
+      "published_at": "2026-08-19T02:45:00+00:00",
+      "link": null,
+      "description": "On this week's Please Keep Me Anonymous Best Ofs, we're revisiting Chris and Rosie's chats with Joel Dommett, Tom Davis, Stevie Martin and Maisie Adam! With stories about how Tom got his Nando's Black Card, Joel's dealings with Paul McKenna, Stevie's queer icon status and Maisie's crush on Zayn Malik, plus hilarious stories sent in by you! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/fb067bba-9571-11f1-8171-4be6a7ee75ef/image/be6ac07e458c72b040297b3d891a66a8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR7926895245.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4447",
+      "speakers": [
+        "Anonymous Best Ofs",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "best"
+      ]
+    },
+    {
+      "key": "96477ce8a834be4121528ad8ca37c9a311e722b9",
+      "title": "Family Fart Police, Summer Holiday Whinge and Rosie's Packing Crash Out",
+      "published_at": "2026-08-14T02:45:00+00:00",
+      "link": null,
+      "description": "This week's episode is dedicated to every parent during these summer holidays - let the whinge out! Chris and Rosie chat about their journey down to London with the kids, best (and possibly worst) post-night-out snacks, and about Chris's quest to find somewhere to fart in peace! There's Beefs, a holiday-themed lucrative sponsor, with icks and QFTPs to boot! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3363582639.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2929",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "family",
+        "fart",
+        "police",
+        "summer",
+        "holiday",
+        "whinge",
+        "rosie",
+        "packing",
+        "crash"
+      ]
+    },
+    {
+      "key": "f71f7f0cf27990a52e44a6c0ba3e8f8e5316dd46",
+      "title": "Please Keep Me Anonymous - Best Of Part Two",
+      "published_at": "2026-08-12T02:45:00+00:00",
+      "link": null,
+      "description": "In the second instalment of Please Keep Me Anonymous Best Ofs, Chris and Rosie are joined by Greg Davies, Vogue Williams, Olly Murs and fellow podcasting duo Jordan North and William Hanson! They chat about the I'm A Celeb jungle, haircuts at Harrods, X factor and Greg's appearance on ChuckleVision. All this, with stories sent in by you and read out by the guests! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9865e86a-956c-11f1-abb9-5b244968cb8f/image/be6ac07e458c72b040297b3d891a66a8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5125217291.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4013",
+      "speakers": [
+        "Anonymous Best Ofs",
+        "Greg Da",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "best"
+      ]
+    },
+    {
+      "key": "0ba432e14140171a4cfc3fe6016aa508bc53b184",
+      "title": "Return of the Plonkcast, feat. London Zoo, Legoland and the Goonies",
+      "published_at": "2026-08-07T02:45:00+00:00",
+      "link": null,
+      "description": "This week's Shagged Married Annoyed is a Plonkcast special! Chris and Rosie are freshly back from a trip to London with the kids, and have plenty of holiday beefs (one particularly revolving around fish goujons). There are voice notes, icks and Rosie remembers the Goonies very differently... If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5201594217.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3813",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "return",
+        "plonkcast",
+        "feat",
+        "london",
+        "legoland",
+        "goonies"
+      ]
+    },
+    {
+      "key": "d693204e842f15590438495fa7bb3fd44e203474",
+      "title": "Please Keep Me Anonymous – Best of Part One",
+      "published_at": "2026-08-05T02:45:00+00:00",
+      "link": null,
+      "description": "Welcome to the first of a bumper crop of Best Ofs episode of Please Keep Me Anonymous, featuring some of the most hilarious moments with Chris and Rosie's guests! This episode features Sam Ryder, Jordan Stevens, Joanne McNally and Bridget Christie, chatting all things foxes, farm labour and zombie apocalypses, alongside some juicy stories sent in by you! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/32b2ba7e-8f4b-11f1-bcf7-8b5f38c01a5c/image/be6ac07e458c72b040297b3d891a66a8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR3675378212.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3516",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "best"
+      ]
+    },
     {
       "key": "dd21bc0d6a3dcb4e4fcdc4b7c84d6d970ef43a61",
       "title": "The communal nut bowl, trust issues and Celebrity Gladiators!",
@@ -8864,6 +9001,12 @@
 
 ## Episodes (newest first)
 
+- 2026-08-21 — A Garage-full of Beef and a Late Night Feast — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-08-19 — Please Keep Me Anonymous - Best Of Part Three — speakers: Anonymous Best Ofs, Chris Ramsey, Rosie Ramsey
+- 2026-08-14 — Family Fart Police, Summer Holiday Whinge and Rosie's Packing Crash Out — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-08-12 — Please Keep Me Anonymous - Best Of Part Two — speakers: Anonymous Best Ofs, Greg Da, Chris Ramsey, Rosie Ramsey
+- 2026-08-07 — Return of the Plonkcast, feat. London Zoo, Legoland and the Goonies — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-08-05 — Please Keep Me Anonymous – Best of Part One — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-07-31 — The communal nut bowl, trust issues and Celebrity Gladiators! — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-07-29 — Please Keep Me Anonymous with Rosie Jones — speakers: Rosie Jones, Chris Ramsey, Rosie Ramsey
 - 2026-07-24 — The luteal phase, a mistaken death and is there a new podcast pending?! — speakers: Chris Ramsey, Rosie Ramsey
