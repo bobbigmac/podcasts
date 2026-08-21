@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-08-15T03:53:26+00:00`
-- checked_at: `2026-08-15T03:53:26+00:00`
-- etag: `"djEuMi4wOjE3ODY3NTkyMzAzOTE="`
+- fetched_at: `2026-08-21T13:10:02+00:00`
+- checked_at: `2026-08-21T13:10:02+00:00`
+- etag: `"djEuMi4wOjE3ODczMTQ5MTMyMzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-08-15T03:53:26+00:00",
+  "fetched_at": "2026-08-21T13:10:02+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a4a8055541b2ff5c8eb5affaf63a67729eab6dea",
+      "title": "Standing on Business",
+      "published_at": "2026-08-21T12:21:52+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/standing-on-business",
+      "description": "This week, Katherine's Telling Everybody Everything about the continued jet lag that the children are suffering and how she hasn't put the baby down for three weeks solid. Plus, Katherine turns into a teenaged dirtbag and is infantilised by her hometown, so it's no wonder she was met with the conundrum of how to conduct a feminist CAT FIGHT when confronted by a handsy woman at lunch on holiday. Also, comedian Andrew Johnston @mandrewbrawnston joins from Hollywood alleging that Hugh Hefner himself once reported Jeffrey Epstein to the FBI, a USA surrogate refuses to terminate a pregnancy against the wishes of the parent couple, Slim Thug launches a child support abolition movement, and Grok emboldens a peso stepdad. x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1787314340960-09983b1b-6390-4620-8b25-3a1901bb0cee.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a8842e1e96a6b6c19faeae4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72192962",
+      "itunes_duration": "50:07",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "business"
+      ]
+    },
     {
       "key": "12161010bbec5c6c044f96cedf68a78a28a2a887",
       "title": "Illegal in Muskoka",
@@ -6428,6 +6447,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-21 — Standing on Business — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-08-15 — Illegal in Muskoka — speakers: Katherine Ryan
 - 2026-08-06 — Lindsay Clancy On Trial — speakers: Lindsay Clancy, Katherine Ryan
 - 2026-07-30 — I'm Sat — speakers: Telling Everybody Everything, Katherine Ryan

@@ -5925,6 +5925,28 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:41f355b38e9d",
+        "feed_title": "2 Promoters, 1 Pod",
+        "source_rss_url": "https://rss.buzzsprout.com/1275875.rss",
+        "dedupe_key": "46ee46c109e3ea2f1d999ac9902a75ef9d0f3b99",
+        "episode_key": "46ee46c109e3ea2f1d999ac9902a75ef9d0f3b99",
+        "title": "Loyalty Schemes, Tribute Dreams & Ed Gamble - Q&A 24",
+        "published_at": "2026-08-20T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "ATG is now and you’re either waking up hungover this morning on a farm, making your way here or wishing you were.\n\nGav and James dive into the mailbag to get you through until the bands start.\nYour pod merch: www.nomad-stores.com/collections/2-promoters-1-pod\nWe go again, every Thursday morning.",
+        "audio_url": "https://www.buzzsprout.com/1275875/episodes/19665770-loyalty-schemes-tribute-dreams-ed-gamble-q-a-24.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/loyalty-schemes-tribute-dreams-ed-gamble-q-a-24/id1527630600?i=1000784483393&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",

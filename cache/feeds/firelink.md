@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-08-16T13:00:10+00:00`
-- checked_at: `2026-08-16T13:00:10+00:00`
-- etag: `W/"3d0c8-NBcKbuxDKdl9I+/SRExunbhR+nA"`
+- fetched_at: `2026-08-21T13:10:02+00:00`
+- checked_at: `2026-08-21T13:10:02+00:00`
+- etag: `W/"3d909-TJzTQWnceiImkk4AGISMugR8k90"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-08-16T13:00:10+00:00",
+  "fetched_at": "2026-08-21T13:10:02+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,28 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "729cdd0af9864c0986a69dcb0412d8b881e60e92",
+      "title": "We Finally Know What The Duskbloods Is | Firelink Podcast",
+      "published_at": "2026-08-21T13:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/We-Finally-Know-What-The-Duskbloods-Is--Firelink-Podcast-e3nmk0c",
+      "description": "This week on Firelink, Nick, KC, and Marty chat about the info dump surrounding From Software's The Duskbloods, reports surrounding Sony's Horizon franchise, and impressions of what they've been playing. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/124521932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-21%2Fd1ed1d7e-d105-412e-db8b-f00edc604b2c.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "135987296",
+      "itunes_duration": "01:34:26",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "duskblood",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "4cf7f813da68a2c42074084078574bc254b2837b",
       "title": "The Slippery Slope of \"Inspired By...\" | Firelink Podcast",
@@ -3128,6 +3150,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-21 — We Finally Know What The Duskbloods Is | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-08-14 — The Slippery Slope of "Inspired By..." | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-08-07 — How Much Did Netflix Pay For Their Grand Theft Auto 6 Debut?! | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-07-31 — The Remakes Will Continue Until Morale Improves | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
