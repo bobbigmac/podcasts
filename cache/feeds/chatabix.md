@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-20T03:58:03+00:00`
-- checked_at: `2026-08-20T03:58:03+00:00`
-- etag: `"djEuMi4wOjE3ODcxOTEyMzk3NjI="`
+- fetched_at: `2026-08-21T03:59:28+00:00`
+- checked_at: `2026-08-21T03:59:28+00:00`
+- etag: `"djEuMi4wOjE3ODcyNzc2NDAyNTk="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-20T03:58:03+00:00",
+  "fetched_at": "2026-08-21T03:59:28+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "a4bea522b200794cfc1445ad28ccb989fd1aa9cb",
+      "title": "S16 Ep 893 Listener’s Mailbag: Heroes and Dead Bodies",
+      "published_at": "2026-08-21T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-893-listeners-mailbag-heroes-and-dead-bodies",
+      "description": "It’s Friday, so obviously it’s time to delve into the Chatabix mailbag again. On today’s show - meeting a footballing legend, meeting a musical hero, making mischief, some funny names, cycling shorts, finding an almost dead body, encounters with oddballs and a littering confrontation. Plus, David tells Joe about a recent awkward experience he had umpiring an under 9’s cricket match. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a7eb224f8e81c4395c1a67b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31313502",
+      "itunes_duration": "32:37",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "heroes",
+        "dead",
+        "body"
+      ]
+    },
     {
       "key": "e5b15a537cbe5f1149042328cf46e761f29febd2",
       "title": "S16 Ep 892: Suggs, Waterparks and Being Ignored",
@@ -16042,6 +16065,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-21 — S16 Ep 893 Listener’s Mailbag: Heroes and Dead Bodies — speakers: Joe Wilkinson, David Earl
 - 2026-08-20 — S16 Ep 892: Suggs, Waterparks and Being Ignored — speakers: Being Ignored, Joe Wilkinson, David Earl
 - 2026-08-19 — S16 Ep 891: TV Joe Hasn’t A Clue — speakers: Joe Wilkinson, David Earl
 - 2026-08-18 — S16 Ep 890: The Good, The Bad & The Football — speakers: Joe Wilkinson, David Earl

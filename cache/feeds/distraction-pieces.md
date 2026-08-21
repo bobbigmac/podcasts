@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-08-21T01:56:55+00:00`
-- checked_at: `2026-08-21T01:56:55+00:00`
-- etag: `"djEuMi4wOjE3ODcxMzM3Mjg1OTI="`
+- fetched_at: `2026-08-21T03:59:28+00:00`
+- checked_at: `2026-08-21T03:59:28+00:00`
+- etag: `"djEuMi4wOjE3ODcyODI0MzkyNTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-08-21T01:56:55+00:00",
+  "fetched_at": "2026-08-21T03:59:28+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "26480f8a3fce9c2b75ef4169c1b065e9de0f6542",
+      "title": "NIAMH ALGAR (Calm With Horses / The Virtues / Raised By Wolves) • Friday Rewind",
+      "published_at": "2026-08-21T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with Niamh Algar , originally episode 315 from 2020-03-04. Original writeup below: You can tell even like 5 minutes in that Pip was proper excited about this one… And naturally he was right to be, as Niamh is fantastic if you didn’t already know! You may have seen her in the beautiful and powerful ‘The Virtues’ alongside Distraction Pieces spiritual godfather Stephen Graham, and if you did you will adore this chat as Niamh goes IN on the whole process. As always, any Shane Meadows talk is fascinating and this time is no exception, as we get the pure goodness and intrigue from the process of making such a show and the deep personal digging involved in Niamh’s transformation into Dinah. Not only that, there’s further confirmation of that ‘being the lead in your own story’ point that comes up here and there on the podcast, and some good chat about her role in Desiree Akhavan’s ‘The Bisexual’, working with Guy Ritchie and OF COURSE a good amount about her upcoming film ‘Calm With Horses’, alongside Barry Keoghan and Cosmo Jarvis. Full on gold. Enjoy. PIP'S PATREON PAGE if you're of a supporting nature CALM WITH HORSES THE VIRTUES THE BISEXUAL IMDB PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB POD BIBLE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1786958273336-1f8216e5-0b87-4695-9fce-967c74eb1777.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a82d3cd6e5b5bfda6683cd4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "124142861",
+      "itunes_duration": "51:38",
+      "speakers": [],
+      "topics": [
+        "niamh",
+        "algar",
+        "horse",
+        "virtues",
+        "wolf",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "3b129b3c358f9988657fe6f8269e934dba919a3e",
       "title": "20 YEARS OF PIP (Part 3) • featuring Chris Glasson & Buddy Peace! #683",
@@ -19430,6 +19452,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-21 — NIAMH ALGAR (Calm With Horses / The Virtues / Raised By Wolves) • Friday Rewind
 - 2026-08-19 — 20 YEARS OF PIP (Part 3) • featuring Chris Glasson & Buddy Peace! #683 — speakers: Chris Glasson
 - 2026-08-14 — STEVEN KNIGHT (Peaky Blinders / Taboo / Serenity) • Friday Rewind — speakers: Steven Knight
 - 2026-08-12 — 20 YEARS OF PIP (Part 2) • featuring Chris Glasson & Buddy Peace! #683 — speakers: Chris Glasson
