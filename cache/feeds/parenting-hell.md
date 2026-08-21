@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-08-20T15:48:28+00:00`
-- checked_at: `2026-08-20T15:48:28+00:00`
-- last_modified: `Thu, 20 Aug 2026 13:09:08 GMT`
+- fetched_at: `2026-08-21T01:56:55+00:00`
+- checked_at: `2026-08-21T01:56:55+00:00`
+- last_modified: `Fri, 21 Aug 2026 01:23:44 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/b2aa3247887f1870e2463ba16df8b5ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-20T15:48:28+00:00",
+  "fetched_at": "2026-08-21T01:56:55+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "bae93f9c781ba3c5afa2a02c029bb6ecc2c7303c",
+      "title": "S13 EP10: I wouldn't change a thing",
+      "published_at": "2026-08-21T01:04:00+00:00",
+      "link": null,
+      "description": "More adventures in parenting (and life) from Rob and Josh... ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9068548807.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3344",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "thing"
+      ]
+    },
     {
       "key": "c61b154614dd5bd406212916fce41bcabd6e32fe",
       "title": "S13 EP9: In Loving Memory of Beryl the Cat - R.I.P. xxx",
@@ -12521,6 +12540,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-21 — S13 EP10: I wouldn't change a thing — speakers: Rob Beckett, Josh Widdicombe
 - 2026-08-18 — S13 EP9: In Loving Memory of Beryl the Cat - R.I.P. xxx — speakers: Rob Beckett, Josh Widdicombe
 - 2026-08-17 — ⚽ A Whole New Ball Game ⚽ — speakers: Rob Beckett, Josh Widdicombe
 - 2026-08-14 — S13 EP8: The greatest trick the devil ever pulled... — speakers: Rob Beckett, Josh Widdicombe

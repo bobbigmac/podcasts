@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-08-20T01:51:21+00:00`
-- checked_at: `2026-08-20T01:51:21+00:00`
-- last_modified: `Wed, 19 Aug 2026 23:00:08 GMT`
+- fetched_at: `2026-08-21T01:56:55+00:00`
+- checked_at: `2026-08-21T01:56:55+00:00`
+- last_modified: `Thu, 20 Aug 2026 23:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-20T01:51:21+00:00",
+  "fetched_at": "2026-08-21T01:56:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,25 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "17057e45b407f54610c0034c886ce1bbb44a1429",
+      "title": "Becoming Burnham: Thatcher, Hillsborough, and the Anger that Shaped Him | Part 1",
+      "published_at": "2026-08-20T22:55:00+00:00",
+      "link": null,
+      "description": "To hear the full episode and the series as it drops, sign up up at therestispolitics.com Alastair is joined by Andy Burnham’s closets confident, friend and former colleague, Steve Rotheram – the Metro Mayor of the Liverpool City Region to discuss… Who really is Andy Burnham, and how is he going to change Britain? How have events like Hillsborough, and Thatcher’s Northern neglect shaped him? And, how does he contend with his imposter syndrome, his ‘Catholic guilt complex’, and his restless desire to be liked? Producer: India Dunkley Video Editor: Josh Smith Social Producer: Celine Charles Executive Producer: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5c7ac01e-9c92-11f1-a03f-9b8fd9afc02d/image/e72e29aac09e8a552112ce135b502b15.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6202238073.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1417",
+      "speakers": [],
+      "topics": [
+        "burnham",
+        "thatcher",
+        "hillsborough",
+        "anger"
+      ]
+    },
     {
       "key": "50ef3b40407e072fd5c340f3f7d56fb6d0dd7283",
       "title": "564. Burnham’s Media Machine and West Bank Settler Impunity",
@@ -35,7 +54,7 @@
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9452011826.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3672",
+      "itunes_duration": "3670",
       "speakers": [
         "Media Machine",
         "West Bank Settler Impunity",
@@ -56,7 +75,7 @@
       "title": "563. Britain’s Afghanistan Shame and the Jason Arday Tragedy",
       "published_at": "2026-08-18T23:00:00+00:00",
       "link": null,
-      "description": "Five years after the US withdrawal from Afghanistan and the Taliban takeover, why has not a single Western government marked the anniversary of a war that cost thousands of lives and trillions of dollars? Why has Putin banned Russia's last liberal anti-war party ahead of next month's Duma elections, and is it a sign of his strength or his weakness? What does the media frenzy that engulfed Jason Arday before his death reveal about how quickly we strip vulnerable people of their humanity? Join Rory, Alastair and Shoshana Stewart, as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Maoz Inon and Aziz Abu Sarah by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Vasco Andrade Assistant Producer: Daisy Alston-Horne Producer: Evan Green Executive Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Five years after the US withdrawal from Afghanistan and the Taliban takeover, why has not a single Western government marked the anniversary of a war that cost thousands of lives and trillions of dollars? Why has Russia's last liberal anti-war party been banned ahead of next month's Duma elections, and is it a sign of Putin's strength or his weakness? What does the media frenzy that engulfed Jason Arday before his death reveal about how quickly we strip vulnerable people of their humanity? Join Rory, Alastair and Shoshana Stewart, as they answer all these questions and more. __________ Enjoy Rory and Alastair’s interview with Maoz Inon and Aziz Abu Sarah by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. ﻿Get our exclusive NordVPN deal here ➼ nordvpn.com/restispolitics It's risk-free with Nord's 30 day money back guarantee ✅ __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Josh Smith, Vasco Andrade Assistant Producer: Daisy Alston-Horne Producer: Evan Green Executive Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/ba1fba38-9b18-11f1-a973-033aaac614f0/image/78709abca8d4b49f4ae1f19cb3e4ef0c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5089408135.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12715,6 +12734,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — Becoming Burnham: Thatcher, Hillsborough, and the Anger that Shaped Him | Part 1
 - 2026-08-19 — 564. Burnham’s Media Machine and West Bank Settler Impunity — speakers: Media Machine, West Bank Settler Impunity, Prime Minister
 - 2026-08-18 — 563. Britain’s Afghanistan Shame and the Jason Arday Tragedy — speakers: Afghanistan Shame, Jason Arday Tragedy Five
 - 2026-08-13 — Will Climate Action Go Backwards Under Burnham? — speakers: Andy Burnham

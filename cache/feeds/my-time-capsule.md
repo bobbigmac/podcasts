@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-08-17T01:54:43+00:00`
-- checked_at: `2026-08-17T01:54:43+00:00`
-- etag: `"djEuMi4wOjE3ODY5MjEzNTkzMjA="`
+- fetched_at: `2026-08-21T01:56:55+00:00`
+- checked_at: `2026-08-21T01:56:55+00:00`
+- etag: `"djEuMi4wOjE3ODcyNjcwMTkzMTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-08-17T01:54:43+00:00",
+  "fetched_at": "2026-08-21T01:56:55+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,54 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b479c8b1da80c1f676cc0ccde8d106280453d47c",
+      "title": "My Time Capsule The Dig - Ep. 14 - With Rick Wakeman",
+      "published_at": "2026-08-20T23:03:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-14-with-rick-wakeman",
+      "description": "Rick Wakeman was our guest in episode 28 and he returns to have a chat about his old time capsule and let us know where he wants it buried! Rick Wakeman is a legendary keyboardist best known for his work with Yes, as well as playing with artists including David Bowie, Lou Reed and Cat Stevens, alongside a prolific solo career and numerous film and television soundtracks. Also, Mike and his producer and son John chat about the episodes that went our while they were on holiday and and find out where Alex Lowe (Barry From Watford) would want to bury his capsule . Listen to Rick Wakeman's original episode - https://mytimecapsulepodcast.com/episodes?q=28 . For Rick Wakeman's shows and more, visit - https://www.rwcc.com . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1787242745098-3140407f-ebd2-4914-b134-6f3ff8111cb8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a872a0e037681afc7cb25cd/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "66210397",
+      "itunes_duration": "55:10",
+      "speakers": [
+        "Rick Wakeman"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "rick",
+        "wakeman"
+      ]
+    },
+    {
+      "key": "0838f9b58ead0831fd3d5a5eb5e4f6e45b837274",
+      "title": "Ep. 601 - Lisa Jackson - Best selling writer and Runner’s World columnist with The Flamingo Diaries",
+      "published_at": "2026-08-20T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-601-lisa-jackson-best-selling-writer-and-runners-world-co",
+      "description": "Lisa Jackson is a running writer and Runner’s World columnist, where she writes The Flamingo Diaries. She was recently featured on the front cover of Runner's World in a major interview and photoshoot. She is the bestselling author of Your Pace or Mine? and Running Made Easy, and co-author, with her late husband Graham Williams, of the travel memoirs Travel Seekness and Travel Agents. A veteran of more than 100 marathons and two 56-mile ultramarathons, Lisa is an enthusiastic back-of-the-pack runner who often comes last. Her writing has appeared in The Guardian, The Times, The Independent, Psychologies, Red, Prima and Cosmopolitan, among others. Lisa was one of 40 people featured in The Sunday Times’ “Enriched List”, celebrating people considered “rich in experience, rich in spirit, rich in life”. She was also nominated for the 2020 Women of the Year Award. Her latest book, Still Running After All These Tears: A Runner’s Journey Through Grief, is her most personal yet. It tells the story of caring for her late husband Graham through his illness and death, alongside the devastating loss of her sister and father. Ultimately, it is a story about grief, resilience and finding a way to keep running when life falls apart. Lisa Jackson is our guest in episode 601 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Lisa Jackson’s books are available here - https://www.amazon.co.uk/stores/author/B004K36V7O . Follow Lisa Jackson on Instagram : @lisaflamingojackson . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a87277d037681afc7c9e601/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54195638",
+      "itunes_duration": "45:09",
+      "speakers": [
+        "Lisa Jackson"
+      ],
+      "topics": [
+        "lisa",
+        "jackson",
+        "best",
+        "selling",
+        "writer",
+        "runner",
+        "world",
+        "columnist",
+        "flamingo",
+        "diaries"
+      ]
+    },
     {
       "key": "bda3e29e86704d78f196deaf9c7462d8918e0025",
       "title": "Ep. 600 - Su Pollard - One of Britain’s best-loved comedy actresses and entertainers",
@@ -13266,6 +13314,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — My Time Capsule The Dig - Ep. 14 - With Rick Wakeman — speakers: Rick Wakeman
+- 2026-08-20 — Ep. 601 - Lisa Jackson - Best selling writer and Runner’s World columnist with The Flamingo Diaries — speakers: Lisa Jackson
 - 2026-08-16 — Ep. 600 - Su Pollard - One of Britain’s best-loved comedy actresses and entertainers — speakers: Su Pollard
 - 2026-08-13 — Tim Vine Unedited - An uncut version now 10 minutes longer! — speakers: Tim Vine
 - 2026-08-09 — Anthony Head Tribute — speakers: Anthony Head Tribute, Anthony Head

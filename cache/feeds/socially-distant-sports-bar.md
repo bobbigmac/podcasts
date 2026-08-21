@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-08-20T18:58:23+00:00`
-- checked_at: `2026-08-20T18:58:23+00:00`
-- etag: `"djEuMi4wOjE3ODcyNDQ2MzMyMDA="`
+- fetched_at: `2026-08-21T01:56:55+00:00`
+- checked_at: `2026-08-21T01:56:55+00:00`
+- etag: `"djEuMi4wOjE3ODcyNjgwOTk0MDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
-  "fetched_at": "2026-08-20T18:58:23+00:00",
+  "fetched_at": "2026-08-21T01:56:55+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "a163ab0390c0c1018efa0b5198346d766e2a1156",
+      "title": "Sacked From The Voiceover",
+      "published_at": "2026-08-20T23:21:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/sacked-from-the-voiceover",
+      "description": "Welcome to this week’s Socially Distant Sports Bar with Elis James, Mike Bubbins and Steff Garrero. This week’s documentary and book both take us into much more personal sporting territory. Mike brings in a documentary about Howard Winstone , the great Welsh boxer from Merthyr Tydfil who became world featherweight champion and one of the defining figures in Welsh boxing history. Elis has chosen Without Robbie by Luke James, a deeply personal story about football, family and grief. As ever, the documentary and book are merely the starting points, as the conversation heads off into sporting memories, families, Wales and whatever else occurs to Mike, Elis and Steff along the way. Documentary Mike: Howard Winstone https://youtu.be/RrmkMI6WBNk Book Elis: Without Robbie by Luke James https://www.withoutrobbie.co.uk/ That’s it for the regular feed this week. If you want Part 3 , along with the whole podcast early and advert-free every Tuesday, subscribe to Distant Pod Bonus Club on Apple Podcasts. Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a7dcd0df8e81c4395777922/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68702400",
+      "itunes_duration": "28:37",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "voiceover"
+      ]
+    },
     {
       "key": "29d80c24bb8c5f53a9a9254799d16e6e3826eed6",
       "title": "Squash Court",
@@ -15703,6 +15723,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — Sacked From The Voiceover — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-18 — Squash Court — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-15 — The Apologising Dog: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-13 — Kriss Akabusi Loves Nietzsche — speakers: Kriss Akabusi Loves Nietzsche, Socially Distant Sports Bar, New Theat, Elis James, Mike Bubbins, Steff Garrero

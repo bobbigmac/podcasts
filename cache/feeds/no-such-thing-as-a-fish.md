@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-08-14T02:45:18+00:00`
-- checked_at: `2026-08-14T02:45:18+00:00`
-- etag: `W/"6ab6a25a71cd3a9d03869e4dbd49312c"`
-- last_modified: `Thu, 13 Aug 2026 22:59:00 GMT`
+- fetched_at: `2026-08-21T01:56:55+00:00`
+- checked_at: `2026-08-21T01:56:55+00:00`
+- etag: `W/"b4eddd4ab8a0bf5c5384aa3f27e42f88"`
+- last_modified: `Thu, 20 Aug 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-08-14T02:45:18+00:00",
+  "fetched_at": "2026-08-21T01:56:55+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,51 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "024a3eaf99179304b69eec2d997cdf45e6dda879",
+      "title": "No Such Thing As The Have An Ice Cream Bird",
+      "published_at": "2026-08-20T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8943368",
+      "description": "Live from the Royal Institution, Dan, James, Anna and Andy discuss bird songs, big starfish, basic security and Bertha Suttner. Grey lourie bird media used with permission from @StoriesOfTheKruger | www.storiesofthekruger.com Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
+      "image_url": "https://audioboom.com/i/43801354.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943368.mp3?modified=1787235295&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3193",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "cream",
+        "bird"
+      ]
+    },
+    {
+      "key": "eb37edf8a11c30a589d4b9e55cc35c61c3f9e0e4",
+      "title": "Little Fish: I'm Not Even On The Internet Right Now",
+      "published_at": "2026-08-16T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8939287",
+      "description": "James does some gratuitous celebrity name-dropping while he, Dan and Anna discuss YOUR facts. This week's subjects include revels, rocks and railways. And Dan, James and Anna shout-out eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8939287.mp3?modified=1786626430&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2049",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "internet"
+      ]
+    },
     {
       "key": "7be4e72987046bc28270ee7f38d445cf640a581f",
       "title": "No Such Thing As Half-Past Purple",
@@ -82,7 +127,7 @@
       "link": "https://audioboom.com/posts/8936796",
       "description": "Live from the Royal Institution, Dan, James, Anna and Andy discuss big fish, big pencils and a big coincidence. Missed out on this live show? Get in-person or streaming tickets for the London Podcast Festival here: nosuchthingasafish.com/live Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia Get NordVPN two-year plan + four months extra ➼ https://nordvpn.com/fish It’s risk-free with Nord’s 30-day money-back guarantee. Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
       "image_url": "https://audioboom.com/i/43786798.jpg",
-      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936796.mp3?modified=1786036942&sid=2399216&source=rss",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936796.mp3?modified=1786624885&sid=2399216&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "3324",
@@ -16878,6 +16923,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-20 — No Such Thing As The Have An Ice Cream Bird — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-08-16 — Little Fish: I'm Not Even On The Internet Right Now — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-08-13 — No Such Thing As Half-Past Purple — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-08-09 — Little Fish: Put A Peanut In It — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-08-06 — No Such Thing As A Toilet Break For A Tuna — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
