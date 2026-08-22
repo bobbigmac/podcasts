@@ -36018,6 +36018,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:4f8e4f0a44d9",
+        "feed_title": "The Empire Film Podcast",
+        "source_rss_url": "https://rss.podplaystudio.com/1209.xml",
+        "dedupe_key": "dd10163f1ea1f73e605d056fbafef6fc3f760e25",
+        "episode_key": "dd10163f1ea1f73e605d056fbafef6fc3f760e25",
+        "title": "#126: Jon Hamm, Richard Ayoade - August 29, 2014",
+        "published_at": "2014-08-28T16:11:07Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "After several weeks' of hype, the Richard Ayoade interview you've long been waiting for is finally here, accompanied by some Mad Man - You see? Because of the TV show? And humour? - called Jon Hamm, with the former here to talk about The Double's Blu-ray release and the latter here to talk about Million Dollar Arm's ci",
+        "audio_url": "https://bauernordic-pods.sharp-stream.com/gb/1209/_126_jon_hamm_richard_ayoade_aug_c13d051e-d732-4b51-9979-0d7e71a2196d_normal.mp3?aw_0_1st.episodeid=54515&aw_0_1st.collectionid=1209",
+        "link_url": "https://podcasts.apple.com/gb/podcast/126-jon-hamm-richard-ayoade-august-29-2014/id507987292?i=1000381573205&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:ecc0f4171a08",
         "feed_title": "The Film Programme",
         "source_rss_url": "https://podcasts.files.bbci.co.uk/b006r5jt.rss",
