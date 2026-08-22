@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-08-21T09:51:40+00:00`
-- checked_at: `2026-08-21T09:51:40+00:00`
-- last_modified: `Fri, 21 Aug 2026 07:53:23 GMT`
+- fetched_at: `2026-08-22T18:48:19+00:00`
+- checked_at: `2026-08-22T18:48:19+00:00`
+- last_modified: `Sat, 22 Aug 2026 17:34:14 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/b2aa3247887f1870e2463ba16df8b5ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-21T09:51:40+00:00",
+  "fetched_at": "2026-08-22T18:48:19+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -72,7 +72,7 @@
       "title": "⚽ A Whole New Ball Game ⚽",
       "published_at": "2026-08-17T19:28:00+00:00",
       "link": null,
-      "description": "Sutton and Shearer. Heskey and Owen. Maldini and Baresi. The history of football is dominated by great duos who elevated and transformed the game... With that in mind, welcome to Footballing Hell... where the duo you know and love undo all that heritage with their footballing knowledge, as every Monday Rob and Josh discuss the weekends football (or the bits that interest them) in the only way they know how. Chaotically, with not enough sleep, prep or insight... Why football? Why now? We hear you ask... “Finally we can bring our unique brand of unprofessionalism, distractedness and inability to get things right to the until now slick and professional world of football pods. Get ready for no tactical analysis, zero discussion of VAR and a surprisingly high level of Neil Warnock chat. For people who find other football pods too informed.” - Josh Widdicombe \"After 6 years of discussing my wife and children on Parenting Hell it's such a liberating feeling to finally have a podcast where I chat about something I truly love and care about in football\" - Rob Beckett In the first ever episode we discuss... Plymouth versus Exeter The Milk Cup / What is Caribou? / Neil Warnock's hair / Community shield (one of us didn't watch it) / What’s the sexy Nigerian Gk been up to? / Predictions for the season including who will win what cups and finish where? / FPL team - join the Footballing / Parenting Hell mini league LEAGUE CODE: 1a5fc7 If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell Leave us a 5* review and subscribe to the podcast please. You know the score by now. Footballing Hell is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Sutton and Shearer. Heskey and Owen. Yeboah and Masinga. The history of football is dominated by great duos who elevated and transformed the game... With that in mind, welcome to Footballing Hell... where the duo you know and love undo all that heritage with their footballing knowledge, as every Monday Rob and Josh discuss the weekends football (or the bits that interest them) in the only way they know how. Chaotically, with not enough sleep, prep or insight... Why football? Why now? We hear you ask... “Finally we can bring our unique brand of unprofessionalism, distractedness and inability to get things right to the until now slick and professional world of football pods. Get ready for no tactical analysis, zero discussion of VAR and a surprisingly high level of Neil Warnock chat. For people who find other football pods too informed.” - Josh Widdicombe \"After 6 years of discussing my wife and children on Parenting Hell it's such a liberating feeling to finally have a podcast where I chat about something I truly love and care about in football\" - Rob Beckett In the first ever episode we discuss... Plymouth versus Exeter The Milk Cup / What is Caribou? / Neil Warnock's hair / Community shield (one of us didn't watch it) / What’s the sexy Nigerian Gk been up to? / Predictions for the season including who will win what cups and finish where? / FPL team - join the Footballing / Parenting Hell mini league LEAGUE CODE: 1a5fc7 If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell Leave us a 5* review and subscribe to the podcast please. You know the score by now. Footballing Hell is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/8a0a85b2-9a6e-11f1-842d-ebcce6565b2e/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT3851536045.mp3",
       "enclosure_type": "audio/mpeg",
