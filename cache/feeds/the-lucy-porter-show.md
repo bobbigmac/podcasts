@@ -2,8 +2,8 @@
 
 - slug: `the-lucy-porter-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/`
-- fetched_at: `2026-08-23T03:59:38+00:00`
-- checked_at: `2026-08-23T03:59:38+00:00`
+- fetched_at: `2026-08-23T07:00:37+00:00`
+- checked_at: `2026-08-23T07:00:37+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "image_url": "",
-  "fetched_at": "2026-08-23T03:59:38+00:00",
+  "fetched_at": "2026-08-23T07:00:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a722ac228c510b398ecfa8b184437eb96a0fb59f",
+      "guid": "8881804e-1bf4-469c-8b1e-3ea3fe8d6ad1",
+      "title": "The Lucy Porter Show (23rd August)",
+      "published_at": "2026-08-23T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-lucy-porter-show-23rd-august/",
+      "description": "Ever wondered what 'Woman's Hour' would be like if it were uncensored?",
+      "image_url": "https://mm.aiircdn.com/177/420888.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1787457686-the_lucy_porter_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=8881804e-1bf4-469c-8b1e-3ea3fe8d6ad1&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "00a340dd51cfe835b46080d5e8b087a55a368cf3",
       "guid": "1ab59040-4f40-4239-90e9-ae5b116d444a",
@@ -1591,6 +1604,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-23 — The Lucy Porter Show (23rd August)
 - 2026-08-16 — The Lucy Porter Show (16th August)
 - 2026-08-09 — The Lucy Porter Show (9th August)
 - 2026-08-02 — The Lucy Porter Show (2nd August)
