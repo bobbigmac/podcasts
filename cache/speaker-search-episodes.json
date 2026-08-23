@@ -38899,6 +38899,28 @@
     ],
     "david-mitchell": [
       {
+        "feed_slug": "external:apple:abcc66b38e3e",
+        "feed_title": "How To Academy Podcast",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR3811872066",
+        "dedupe_key": "d84249fccc996ae5d472b2a295927c0814c4b0e8",
+        "episode_key": "d84249fccc996ae5d472b2a295927c0814c4b0e8",
+        "title": "Mary Beard and David Mitchell – On Rulers and Power (Summer Repeat)",
+        "published_at": "2026-08-21T15:20:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Cambridge Professor Mary Beard has done more than anyone to bring the world of ancient Rome to life again. Comedian David Mitchell once studied history and won’t let it off the hook for the mess it’s made of everything. In this special episode of the podcast, they join forces to tell the epic story of our rulers – from",
+        "audio_url": "https://pdst.fm/e/traffic.megaphone.fm/NSR8578716290.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/mary-beard-and-david-mitchell-on-rulers-and-power/id1298460455?i=1000784865604&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:26a188c3b684",
         "feed_title": "The Gill Athletics Track and Field Connections Podcast",
         "source_rss_url": "https://anchor.fm/s/10ea86d8/podcast/rss",

@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-08-21T01:56:55+00:00`
-- checked_at: `2026-08-21T01:56:55+00:00`
-- etag: `"djEuMi4wOjE3ODcyNjgwOTk0MDM="`
+- fetched_at: `2026-08-23T01:59:10+00:00`
+- checked_at: `2026-08-23T01:59:10+00:00`
+- etag: `"djEuMi4wOjE3ODc0NDAwNTkzNjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
-  "fetched_at": "2026-08-21T01:56:55+00:00",
+  "fetched_at": "2026-08-23T01:59:10+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,31 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "5b1c53cd509966ccc2e5a1b8db92baa2622fa949",
+      "title": "The Camping Stove: Pint Size",
+      "published_at": "2026-08-22T23:07:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/the-camping-stove-pint-size",
+      "description": "Welcome to Pint-Sized Distant Pod. We've been back through our archive of episodes and we've selected our favourite stories, anecdotes and funny bits. If you're new to the pod, then feel free to use these as a jump off point to find your way around our earlier episodes. This clip is taken from \"Episode 39: I Couldn't Bare To Think Of You Eating Cold Beans\" 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a873029a103c59e02843575/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "10405929",
+      "itunes_duration": "10:50",
+      "speakers": [
+        "Pint Size Welcome",
+        "Sized Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "camping",
+        "stove",
+        "pint",
+        "size"
+      ]
+    },
     {
       "key": "a163ab0390c0c1018efa0b5198346d766e2a1156",
       "title": "Sacked From The Voiceover",
@@ -15723,6 +15748,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-22 — The Camping Stove: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-20 — Sacked From The Voiceover — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-18 — Squash Court — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-15 — The Apologising Dog: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
