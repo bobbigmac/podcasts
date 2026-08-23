@@ -9088,6 +9088,28 @@
     ],
     "bob-mortimer": [
       {
+        "feed_slug": "external:apple:b668206d8929",
+        "feed_title": "Taskmaster The Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
+        "dedupe_key": "4c27b2817169d2514e6d9d781456779b14124386",
+        "episode_key": "4c27b2817169d2514e6d9d781456779b14124386",
+        "title": "Taskmaster The Podcast Rewind - Champion of Champions S1-5 With Guz Khan",
+        "published_at": "2026-08-19T21:15:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "On the podcast we go back to 2022 when Ed was joined by comedian, actor, movie star & coat lover Guz Khan!\nBefore discussing the first ever Champion of Champions Ed and Guz reflect on all things from Series 12 – favourite tasks, fellow contestants and of course deconsecrated churches. They then get down to the nitty gr",
+        "audio_url": "https://episodes.captivate.fm/episode/ae2eb826-9524-4632-97df-d3e636c68715.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=ae2eb826-9524-4632-97df-d3e636c68715",
+        "link_url": "https://podcasts.apple.com/gb/podcast/taskmaster-the-podcast-rewind-champion-of-champions-s1/id1535040312?i=1000784420061&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e8b919cc1fa1",
         "feed_title": "The Harry Hill Show",
         "source_rss_url": "https://feeds.megaphone.fm/GLT2134425554",

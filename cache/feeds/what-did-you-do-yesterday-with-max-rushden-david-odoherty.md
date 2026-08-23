@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-08-23T01:59:10+00:00`
-- checked_at: `2026-08-23T01:59:10+00:00`
-- etag: `"djEuMi4wOjE3ODcxNDY3OTg5MDk="`
+- fetched_at: `2026-08-23T03:59:38+00:00`
+- checked_at: `2026-08-23T03:59:38+00:00`
+- etag: `"djEuMi4wOjE3ODc0NTQwMzk0MDQ="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-08-23T01:59:10+00:00",
+  "fetched_at": "2026-08-23T03:59:38+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "45beb74d379435e2ed4139fb932df0318e409d1d",
+      "title": "S5 EP10: Nina Conti",
+      "published_at": "2026-08-23T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s5-ep10-nina-conti",
+      "description": "Joining us on this episode of '⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠What did you do yesterday?⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠' is the comedian Nina Conti. We asked Nina what she did yesterday? She told us. That's it... enjoy! You can find Nina's directorial debut 'Sunlight' HERE Hackney Empire - 7th September 2026 The wait is over. WDYDY is back for another live extravaganza… Your favourite podcast is returning to London’s Hackney Empire for another night of yesterday’s. May or may not include a BOC, an opening montage, a celeb guest, one too many quizzes, D.) Kestrels, and much much more… Get your tickets now at: www.hackneyempire.co.uk/events/what-did-you-do-yesterday Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1787142377097-b23c80c8-749d-487a-832c-6a0f75d55596.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a85a2deb9d83ea9cc40dba4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "147006612",
+      "itunes_duration": "1:01:07",
+      "speakers": [
+        "Nina Conti Joining",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "nina",
+        "conti"
+      ]
+    },
     {
       "key": "bf7b65ee70338f15d9bc63882a3cfcfb3633a19a",
       "title": "WDWDY #84.1: Yester-YAY! (David's Yesterday)",
@@ -3954,6 +3975,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-23 — S5 EP10: Nina Conti — speakers: Nina Conti Joining, Max Rushden, David O'Doherty
 - 2026-08-19 — WDWDY #84.1: Yester-YAY! (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-16 — S5 EP9: Jake Bhardwaj — speakers: Jake Bhardwaj, Max Rushden, David O'Doherty
 - 2026-08-12 — WDWDY #83.1: It is what it is... (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
