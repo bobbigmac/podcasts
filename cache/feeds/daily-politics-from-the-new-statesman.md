@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-22T18:48:19+00:00`
-- checked_at: `2026-08-22T18:48:19+00:00`
-- etag: `"djEuMi4wOjE3ODc0MTQ0MzkyNjE="`
+- fetched_at: `2026-08-24T15:55:15+00:00`
+- checked_at: `2026-08-24T15:55:15+00:00`
+- etag: `"djEuMi4wOjE3ODc1ODY0OTM3NjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-22T18:48:19+00:00",
+  "fetched_at": "2026-08-24T15:55:15+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "aadfbed47a8e2a64531b4637c12ccf1920f20ee9",
+      "title": "How will Burnham navigate the North Sea?",
+      "published_at": "2026-08-24T15:48:13+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/how-will-burnham-navigate-the-north-sea",
+      "description": "One of the first big decisions of Andy Burnham’s premiership is looming: whether to drill for North Sea oil and gas. Labour made a manifesto promise not to grant new licences for oil and gas exploration, but the question of whether to go ahead and drill at the Rosebank and Jackdaw sites - offshore oil and gas fields that have pre-existing licences - remains. After a summer of wildfires and heatwaves, but with our energy security and cost-of-living precarious, the new Prime Minister faces a political dilemma. Anoosh Chakelian is joined by political editor Ailbhe Rea. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1787586327653-a0a56afb-5df7-42c2-98b2-ed527a2b5ce1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a8c66cd2a6798dfc403c7c9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58079203",
+      "itunes_duration": "30:10",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "burnham",
+        "north"
+      ]
+    },
     {
       "key": "da63decbc588802849897e6bed4db784f59b0dbe",
       "title": "Is the UK really poorer than Mississippi?",
@@ -32204,6 +32225,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-24 — How will Burnham navigate the North Sea? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-08-22 — Is the UK really poorer than Mississippi? — speakers: Richard Tice, Anoosh Chakelian, Oli Dugmore
 - 2026-08-20 — Will Andy Burnham call an early election? — speakers: Will Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-08-19 — What should the UK do with its unrecyclable waste? — speakers: while lo, Anoosh Chakelian, Oli Dugmore

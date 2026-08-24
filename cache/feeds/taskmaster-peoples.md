@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-08-24T04:04:22+00:00`
-- checked_at: `2026-08-24T04:04:22+00:00`
-- etag: `"118107-65940756c4475"`
-- last_modified: `Mon, 17 Aug 2026 16:14:03 GMT`
+- fetched_at: `2026-08-24T15:55:15+00:00`
+- checked_at: `2026-08-24T15:55:15+00:00`
+- etag: `"11887d-659cc82e145d8"`
+- last_modified: `Mon, 24 Aug 2026 15:19:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-08-24T04:04:22+00:00",
+  "fetched_at": "2026-08-24T15:55:15+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0c7bd2e895de7ef611793f9619971187e932506c",
+      "title": "Better With Balloons, Baby! - Taskmaster Denmark S1, Ep. 5",
+      "published_at": "2026-08-24T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Pack your passports, Jenny and Jack are off to the International Taskmaster YouTube page to explore the distant shores of Taskmaster Denmark, specifically episode 5 of the first series. So how does it compare to ? Jenny and Jack discuss! Plus, with the news that the new UK series 22 is now imminent, Jack and Jenny prepare for next week's SERIES 22 PREDICTIONS. Send all yours into fans@taskmaster.tv.",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/27e443f9-8b86-4287-a86b-c2aa8ced52b5.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=27e443f9-8b86-4287-a86b-c2aa8ced52b5",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67663205",
+      "itunes_duration": "01:07:12",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "balloons",
+        "baby",
+        "taskmaster",
+        "denmark"
+      ]
+    },
     {
       "key": "05a805842a5956c2bb2d6463afa5eca21f43cfcd",
       "title": "The Hand of the Leg - S7, Ep. 9",
@@ -4807,6 +4829,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-24 — Better With Balloons, Baby! - Taskmaster Denmark S1, Ep. 5 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-08-17 — The Hand of the Leg - S7, Ep. 9 — speakers: Phil Wang, Jenny Eclair, Jack Bernhardt
 - 2026-08-10 — 42 Calippos - S2, Ep.3 — speakers: Joe Wilkinson, Jon Richardson, Jenny Eclair, Jack Bernhardt
 - 2026-08-03 — Go Hard on the Gore - S8, Ep. 5 — speakers: Jenny Eclair, Jack Bernhardt
