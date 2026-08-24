@@ -2,9 +2,9 @@
 
 - slug: `have-a-word`
 - source: `https://feeds.acast.com/public/shows/660d348bf844f70016bf5fd1`
-- fetched_at: `2026-08-17T01:54:43+00:00`
-- checked_at: `2026-08-17T01:54:43+00:00`
-- etag: `"djEuMi4wOjE3ODY3NzAwMzk0NTk="`
+- fetched_at: `2026-08-24T01:56:53+00:00`
+- checked_at: `2026-08-24T01:56:53+00:00`
+- etag: `"djEuMi4wOjE3ODczNzQ4Mzk0NjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://haveawordpod.com",
   "description": "The funniest podcast in the UK with comedians Adam Rowe and Dan Nightingale Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
-  "fetched_at": "2026-08-17T01:54:43+00:00",
+  "fetched_at": "2026-08-24T01:56:53+00:00",
   "owners": [
     "Dan Nightingale",
     "Adam Rowe"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "88c849c4695ce421bbf5807fc4f7f91afdbd55fb",
+      "title": "#395 with Jamie Hutchinson - Have A Word w/Adam, Dan & Carl",
+      "published_at": "2026-08-22T05:00:00+00:00",
+      "link": "https://shows.acast.com/have-a-word-with-adamrowe-and-dannightingale/episodes/395-with-jamie-hutchinson-have-a-word-wadam-dan-carl",
+      "description": "Tickets, merch and loads more available on our website! https://haveawordpod.com Tickets for Have A Word Live shows as well as Adam and Dan's tours and previews: Adam's Tickets: https://www.adamrowe.co.uk Dan's Tickets: https://dannightingale.com Carl's Stream || https://twitch.tv/senseicarl_ Finnlay K FINAL GIG TICKETS || https://www.skiddle.com/whats-on/Liverpool/Jacaranda-Baltic/Finnlay-K-Farewell-Show/42670455/ Finnlay K - Whole Again: https://FinnlayK.lnk.to/WHOLEAGAINLIVE As Adam and Dan said, don't miss out on all of our extra content, we've got one of the best value Patreons in the game. An extra 90+ minute episode every week plus loads of bonus content such as the now infamous Lockdown Lock-ins, the Nashville & Amsterdam specials and our Ghost Hunts! What are you waiting for? Sign up now at https://patreon.com/haveawordpod​ Get subscribed to Have A Word Highlights: https://youtube.com/haveawordhighlights Thanks to this week's sponsors: Hello Fresh | https://www.hellofresh.co.uk/50HAWPOD Click the link to enjoy an exclusive offer of 50% off your first box, along with a 20% discount for the next 4 boxes plus free treats (including fruit bundles) for 2 months. Alternatively, you can use our code 50HAWPOD. This special offer is available for new customers as well as those who cancelled their subscription twelve months ago or more. NordVPN | https://nordvpn.com/haveaword EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/haveaword Try it risk-free now with a 30-day money-back guarantee Lovehoney | https://lovehoney.co/word_podcast Love how you love and take 20% off sitewide to unlock sexual happiness and discover a happier you with promo code: AFF-WORD20 Saily | https://saily.com/haveaword Download SAILY in your app store and use our code HAVEAWORD at checkout to get an exclusive 15% off your first purchase or go to https://saily.com/haveaword 🌍 ADAM ROWE and DAN NIGHTINGALE are two award winning comedians from Liverpool & Preston, respectively. They are two of the UK's most highly regarded stand-ups and have both performed all over the world. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/1787333590459-cdb648d7-81d0-4e5e-91b9-6f9c0eb562e2.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/660d348bf844f70016bf5fd1/e/6a884b16ca219e0223c46cff/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122857848",
+      "itunes_duration": "2:07:58",
+      "speakers": [
+        "Dan Nightingale",
+        "Adam Rowe"
+      ],
+      "topics": [
+        "jamie",
+        "hutchinson",
+        "word",
+        "adam",
+        "carl"
+      ]
+    },
     {
       "key": "7e44a614474580db2cfd4f20bc615da0eb6b6f78",
       "title": "#394 with Jacob Hawley - Have A Word w/Adam, Dan & Carl",
@@ -9100,6 +9123,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-22 — #395 with Jamie Hutchinson - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-08-15 — #394 with Jacob Hawley - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-08-08 — #393 with Harry Stachini - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-08-01 — #392 with Chris Higgins & Hatty Preston - Have A Word w/Adam, Dan & Carl — speakers: Chris Higgins, Hatty Preston, Dan Nightingale, Adam Rowe

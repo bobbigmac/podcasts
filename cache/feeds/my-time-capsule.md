@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-08-21T01:56:55+00:00`
-- checked_at: `2026-08-21T01:56:55+00:00`
-- etag: `"djEuMi4wOjE3ODcyNjcwMTkzMTk="`
+- fetched_at: `2026-08-24T01:56:53+00:00`
+- checked_at: `2026-08-24T01:56:53+00:00`
+- etag: `"djEuMi4wOjE3ODc1MjYxNTk0MTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-08-21T01:56:55+00:00",
+  "fetched_at": "2026-08-24T01:56:53+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4d749eae7bb402854ecca0c9b2e5fa409cadf4c8",
+      "title": "Ep. 602 - Rex Hayes - Star of the Emmy-winning Ted Lasso on Apple TV+",
+      "published_at": "2026-08-23T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-602-rex-hayes-star-of-the-emmy-winning-ted-lasso-on-apple",
+      "description": "Rex Hayes stars as Siobhan in the fourth season of the Emmy-winning Apple TV+ series Ted Lasso, which sees the much-loved AFC Richmond story move into the world of women’s football. A Welsh actor trained at the Royal Welsh College of Music & Drama, Hayes brought genuine football experience to the role, having played the sport throughout childhood and into their teenage years. Rex’s other screen credits include BBC’s BAFTA winning bilingual series BANG, BBC’s The Pact, and FX’s The Bastard Executioner. Ted Lasso comes as a “breakout” screen role for Rex following an extremely successful run in the theatre world including To Kill A Mockingbird in the West End, Coram Boy at the Chichester Festival Theatre and Feral Monster at the National Theatre Wales. Rex is fluent in both English and Welsh. Rex Hayes is our guest in episode 602 of My Time Capsule and chats to Michael Fenton Stevens about the five things they’d like to put in a time capsule; four they’d like to preserve and one they’d like to bury and never have to think about again . Watch Ted Lasso on Apple TV+, now - https://tv.apple.com/gb/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy . Follow Rex Hayes on Instagram : @rexlhayes . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a8b461154f87b8876a91bd5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "63961777",
+      "itunes_duration": "53:17",
+      "speakers": [
+        "Rex Hayes"
+      ],
+      "topics": [
+        "hayes",
+        "star",
+        "emmy",
+        "lasso",
+        "apple"
+      ]
+    },
     {
       "key": "b479c8b1da80c1f676cc0ccde8d106280453d47c",
       "title": "My Time Capsule The Dig - Ep. 14 - With Rick Wakeman",
@@ -13314,6 +13336,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-23 — Ep. 602 - Rex Hayes - Star of the Emmy-winning Ted Lasso on Apple TV+ — speakers: Rex Hayes
 - 2026-08-20 — My Time Capsule The Dig - Ep. 14 - With Rick Wakeman — speakers: Rick Wakeman
 - 2026-08-20 — Ep. 601 - Lisa Jackson - Best selling writer and Runner’s World columnist with The Flamingo Diaries — speakers: Lisa Jackson
 - 2026-08-16 — Ep. 600 - Su Pollard - One of Britain’s best-loved comedy actresses and entertainers — speakers: Su Pollard

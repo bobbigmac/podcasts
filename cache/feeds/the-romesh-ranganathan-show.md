@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-08-20T01:51:21+00:00`
-- checked_at: `2026-08-20T01:51:21+00:00`
-- last_modified: `Wed, 19 Aug 2026 23:01:00 GMT`
+- fetched_at: `2026-08-24T01:56:53+00:00`
+- checked_at: `2026-08-24T01:56:53+00:00`
+- last_modified: `Sun, 23 Aug 2026 23:15:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-20T01:51:21+00:00",
+  "fetched_at": "2026-08-24T01:56:53+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c0cb317beb72bb951fe3147c5eec715601b25c81",
+      "title": "Michael Urie On Shrinking, Working With Harrison Ford & Oh, Mary!",
+      "published_at": "2026-08-23T23:01:00+00:00",
+      "link": null,
+      "description": "Why Is Everyone Talking About Oh, Mary!? In this episode of The Romesh Ranganathan Show, Romesh is joined by theatre and TV actor, Michael Urie, to talk about the award-winning Apple TV series Shrinking and West End hit Oh, Mary! Michael talks all about his character Brian, working alongside Harrison Ford and Brett Goldstein, and what makes the show's writing so special. He also discusses bringing the hit Broadway comedy Oh, Mary! to London, the magic of performing live, and why theatre creates such a unique relationship between an actor and an audience. Plus, the differences between working in London to his life and career across New York and Los Angeles. Elsewhere, Michael talks about founding Pride Plays, his time on Ugly Betty and the best career advice he's ever received: \"Follow the green lights\". A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 02:08 London vs New York and LA 08:27 A gift for Michael 15:06 On Shrinking 24:08 How important are awards? 28:17 Acting and Harrison Ford 33:20 The Les Mis scene 39:15 A question from Shanthi 42:45 On Oh, Mary! 48:05 Michael’s love of theatre 54:35 Founding Pride Plays 58:22 Misquoted 01:01:52 Ugly Betty 01:05:22 Misquoted continued 01:07:05 The best advice 01:10:10 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2c297338-9d55-11f1-8e0d-bb7415a80935/image/529b86de59df912e86bb22a50a08c06b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7357074528.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4415",
+      "speakers": [
+        "Michael Urie",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "michael",
+        "urie",
+        "shrinking",
+        "harrison",
+        "ford",
+        "mary"
+      ]
+    },
     {
       "key": "c6b72229dea40a9d20e8b4f126ec34e32e7b35a4",
       "title": "Sex Robots, Sofa Fires And Secret Situationships",
@@ -2195,6 +2219,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-23 — Michael Urie On Shrinking, Working With Harrison Ford & Oh, Mary! — speakers: Michael Urie, Romesh Ranganathan
 - 2026-08-19 — Sex Robots, Sofa Fires And Secret Situationships — speakers: Sex Robots, Romesh Ranganathan
 - 2026-08-16 — Diane Morgan On Comedy, Cunk and becoming a robot in Ann Droid — speakers: Diane Morgan, Romesh Ranganathan
 - 2026-08-12 — Drag Queens, Peer Pressure and What To Watch — speakers: Drag Queens, Romesh Ranganathan
