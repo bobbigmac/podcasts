@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-08-17T13:05:18+00:00`
-- checked_at: `2026-08-17T13:05:18+00:00`
-- last_modified: `Mon, 17 Aug 2026 11:00:00 GMT`
+- fetched_at: `2026-08-24T13:12:03+00:00`
+- checked_at: `2026-08-24T13:12:03+00:00`
+- last_modified: `Sun, 23 Aug 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-17T13:05:18+00:00",
+  "fetched_at": "2026-08-24T13:12:03+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a6f373472f1e2ee120510e0a0432c9dac58951e1",
+      "title": "497. The Nuance Drought with Natasha Devon",
+      "published_at": "2026-08-23T23:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 497. The Nuance Drought Presented by Deborah Frances-White with special guest with Natasha Devon Recorded 5 August 2026 in London. Released 24 August. The Guilty Feminist theme composed by Mark Hodge. The Storytelling Leadership Academy is an eight-week online course for leaders who need to find their voice and tell their story. For more information and to register, click here. https://www.the-spontaneity-shop.com/storytelling-academy/ More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Natasha Devon https://www.instagram.com/_natashadevon https://www.natashadevon.com https://www.waterstones.com/book/the-nuance-drought/natasha-devon/9781837733170 For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Newcastle Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1996315094186 Newcastle Guilty Feminist live show, 5 September . https://www.live.org.uk/whats-on/guilty-feminist London Podcast Festival . https://www.kingsplace.co.uk/whats-on/podcast/the-guilty-feminist-10/ Vision Festival . https://www.ticketsource.com/booking/t-xdymnyp Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5b8d4590-9b58-11f1-a71f-5bdecfa8b0ab/image/bb5637aa7d34e9f66af556a69408f016.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL1431248928.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4369",
+      "speakers": [
+        "Natasha Devon",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "nuance",
+        "drought",
+        "natasha",
+        "devon"
+      ]
+    },
     {
       "key": "43b413a0c8a679ad8ef40bf17d5cdf4de6c69155",
       "title": "496. Intimacy with Lena Headey",
@@ -18443,6 +18465,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-23 — 497. The Nuance Drought with Natasha Devon — speakers: Natasha Devon, Deborah Frances-White
 - 2026-08-17 — 496. Intimacy with Lena Headey — speakers: Lena Headey, Deborah Frances-White
 - 2026-08-11 — Live from Wilderness Festival with The Circle NGO — speakers: Deborah Frances-White
 - 2026-08-10 — 495. The Architecture of Autocracy with Isabella Segalovich — speakers: Isabella Segalovich, Deborah Frances-White
