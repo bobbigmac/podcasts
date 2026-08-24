@@ -38809,6 +38809,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:0f9d53fd1f0f",
+        "feed_title": "Cuddle Club with Lou Sanders",
+        "source_rss_url": "https://feeds.acast.com/public/shows/dc460793-43f6-4464-a809-8e23f92194bb",
+        "dedupe_key": "e63236471b475b93e1f2315684db28960918572b",
+        "episode_key": "e63236471b475b93e1f2315684db28960918572b",
+        "title": "Ep 72: Jack Dee",
+        "published_at": "2021-11-12T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stand-up comic, patient human and spa-hater Jack Dee joins Loulie (remotely) this week.\nJack Dee’s book ‘What’s Your Problem?’ is out now. Buy it here.\nJack Dee is on tour with ‘Off The Telly’. Buy tickets here.\n\nWant to support Cuddle Club to make more episodes? Make a one-off donation at https://supporter.acast.com/c",
+        "audio_url": "https://sphinx.acast.com/cuddleclub/ep72-jackdee/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-72-jack-dee/id1497593906?i=1000541563284&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Jack Dee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:f365e01dfc3f",
         "feed_title": "Alan Carr's 'Life's a Beach'",
         "source_rss_url": "https://feeds.megaphone.fm/GLT3251662520",
