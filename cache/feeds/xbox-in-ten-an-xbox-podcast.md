@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-08-17T07:15:46+00:00`
-- checked_at: `2026-08-17T07:15:46+00:00`
-- etag: `"33e4a71cf98b28de2dafbdf1e84542cc"`
-- last_modified: `Mon, 17 Aug 2026 04:16:41 GMT`
+- fetched_at: `2026-08-24T07:19:26+00:00`
+- checked_at: `2026-08-24T07:19:26+00:00`
+- etag: `"a7881fd5b9a5489ca466c244dd87017c"`
+- last_modified: `Mon, 24 Aug 2026 04:18:46 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-08-17T07:15:46+00:00",
+  "fetched_at": "2026-08-24T07:19:26+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,33 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "5b70997ffd3232ac97ea886852c8f42b7c51344c",
+      "title": "Grand Theft Auto 6 Leaks...Finally Over? - (Xbox In Ten: An Xbox Podcast - Ep. 378)",
+      "published_at": "2026-08-24T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/grand-theft-auto-6-leaksfinally-over-xbox-in-ten-an-xbox-podcast-ep-378",
+      "description": "Week of: 8-18-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/a/b/3/c/ab3ce9b29b47dc62d959afa2a1bf1c87/378.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/378.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14824768",
+      "itunes_duration": "10:48",
+      "speakers": [
+        "Grand Theft Auto",
+        "Finally Over",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "grand",
+        "theft",
+        "auto",
+        "leaks",
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "cf1f858c074d5413c9efe3f13a12e29d236826ea",
       "title": "Xbox Boss Reveals Brief Thoughts On Elder Scrolls 6 After Live Playthrough - (Xbox In Ten: An Xbox Podcast - Ep. 377)",
@@ -9510,6 +9537,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-24 — Grand Theft Auto 6 Leaks...Finally Over? - (Xbox In Ten: An Xbox Podcast - Ep. 378) — speakers: Grand Theft Auto, Finally Over, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-08-17 — Xbox Boss Reveals Brief Thoughts On Elder Scrolls 6 After Live Playthrough - (Xbox In Ten: An Xbox Podcast - Ep. 377) — speakers: Brandon Rosa
 - 2026-08-10 — Grand Theft Auto VI: An Extended Look Premiering on Netflix + Game Play Reveal! - (Xbox In Ten: An Xbox Podcast - Ep. 376) — speakers: Netflix Game Play Reveal, Brandon Rosa
 - 2026-08-03 — Xbox's Top 4 Priorities For Growth After Revenue for the Year Declined by $1.7 Billion - (Xbox In Ten: An Xbox Podcast - Ep. 375) — speakers: Year Declined, Xbox Gaming News, Fun Fact, Brandon Rosa
