@@ -2493,6 +2493,29 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:4585eac0d0ca",
+        "feed_title": "Shameless",
+        "source_rss_url": "https://feeds.megaphone.fm/ASEMS4278037250",
+        "dedupe_key": "9fc37fb7d8f0951be1457b9fd2c7e6c642f65a19",
+        "episode_key": "9fc37fb7d8f0951be1457b9fd2c7e6c642f65a19",
+        "title": "IN CONVERSATION: James Acaster",
+        "published_at": "2025-09-05T14:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Well ‘ello ‘ello from London! Welcome to our first Shameless Takes interview for 2025 – and what better way to kick things off than with the incredible James Acaster. \n\nIn today’s chat, we discussed James’ ever-changing relationship to fame, how he decides how much of his personal life to include in his stand-up perfor",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS6505312858.mp3?updated=1757078749",
+        "link_url": "https://podcasts.apple.com/gb/podcast/in-conversation-james-acaster/id1352875216?i=1000725144584&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -7690,6 +7713,29 @@
         "feed_image_url": null,
         "description": "Well ‘ello ‘ello from London! Welcome to our first Shameless Takes interview for 2025 – and what better way to kick things off than with the incredible James Acaster. \n\nIn today’s chat, we discussed James’ ever-changing relationship to fame, how he decides how much of his personal life to include in his stand-up perfor",
         "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS6505312858.mp3?updated=1757078749",
+        "link_url": "https://podcasts.apple.com/gb/podcast/in-conversation-james-acaster/id1352875216?i=1000725144584&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:4585eac0d0ca",
+        "feed_title": "Shameless",
+        "source_rss_url": "https://feeds.megaphone.fm/ASEMS4278037250",
+        "dedupe_key": "9fc37fb7d8f0951be1457b9fd2c7e6c642f65a19",
+        "episode_key": "9fc37fb7d8f0951be1457b9fd2c7e6c642f65a19",
+        "title": "IN CONVERSATION: James Acaster",
+        "published_at": "2025-09-05T14:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Well ‘ello ‘ello from London! Welcome to our first Shameless Takes interview for 2025 – and what better way to kick things off than with the incredible James Acaster. \n\nIn today’s chat, we discussed James’ ever-changing relationship to fame, how he decides how much of his personal life to include in his stand-up perfor",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/ASEMS6505312858.mp3?updated=1757078749",
         "link_url": "https://podcasts.apple.com/gb/podcast/in-conversation-james-acaster/id1352875216?i=1000725144584&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
