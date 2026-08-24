@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-08-21T13:10:02+00:00`
-- checked_at: `2026-08-21T13:10:02+00:00`
-- etag: `"djEuMi4wOjE3ODczMTY4MDEzNjU="`
+- fetched_at: `2026-08-24T04:04:22+00:00`
+- checked_at: `2026-08-24T04:04:22+00:00`
+- etag: `"djEuMi4wOjE3ODc1NDAyNTkzMzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-08-21T13:10:02+00:00",
+  "fetched_at": "2026-08-24T04:04:22+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ccae2feb6fae576a45599cbc31245be2bb4296dd",
+      "title": "Richard Osman (Retro) - \"The Oldest Person In Scotland\"",
+      "published_at": "2026-08-24T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Ed Fringe 2019 #11 Richard Osman - The Oldest Person In Scotland - Richard has hopefully the definitive list of what people should avoid putting inside their chuffs and maybe we can leave that behind now - HIs guest will finally reveal what nationality he is - it’s TV’s Richard Osman. There is some discussion of who from Lee and Herring has had the more successful career (no spoilers) and whether there is any danger of a Slattery style breakdown from doing too many episodes of Pointless, whether House of Games will ever offer psychological training, how to get into the dying medium of TV and what is an appropriate height differential for lovers.. Plus why is the Express obsessed with Osman? Is he gay? And a also a brand new quiz show for Herring to lose, played live in front of and then involving the audience? It’s the only Edinburgh RHLSTP with one guest, but he’s the size of two guests See RHLSTP on tour http://richardherring.com/rhlstpt/tour Buy Emergency Questions Books and more http://gofasterstripe.com SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1787316338635-a393a8ab-5625-4bab-956c-97929f026df1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a87074bdcddb5e3cf434d3a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29228930",
+      "itunes_duration": "1:00:53",
+      "speakers": [
+        "Richard Osman",
+        "Ed Fringe",
+        "Oldest Person",
+        "Richard Herring"
+      ],
+      "topics": [
+        "richard",
+        "osman",
+        "retro",
+        "person",
+        "scotland"
+      ]
+    },
     {
       "key": "d8c9fe06633514ed47e30147c21fa9b024277b7c",
       "title": "Bella Hull - \"Crystal In Her Pocket\"",
@@ -23606,6 +23631,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-24 — Richard Osman (Retro) - "The Oldest Person In Scotland" — speakers: Richard Osman, Ed Fringe, Oldest Person, Richard Herring
 - 2026-08-19 — Bella Hull - "Crystal In Her Pocket" — speakers: Bella Hull, Richard Herring
 - 2026-08-17 — Adam Buxton (Retro) - "Cock Bongo" — speakers: Adam Buxton, Ed Fringe, Richard Herring
 - 2026-08-12 — Charly Clive and Ellen Robertson - "Cheesy Sisyphus" — speakers: Ellen Robertson, Richard Herring

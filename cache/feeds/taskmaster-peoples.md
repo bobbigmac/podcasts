@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-08-17T13:05:18+00:00`
-- checked_at: `2026-08-17T13:05:18+00:00`
-- etag: `"118105-6593d841716fa"`
-- last_modified: `Mon, 17 Aug 2026 12:43:24 GMT`
+- fetched_at: `2026-08-24T04:04:22+00:00`
+- checked_at: `2026-08-24T04:04:22+00:00`
+- etag: `"118107-65940756c4475"`
+- last_modified: `Mon, 17 Aug 2026 16:14:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-08-17T13:05:18+00:00",
+  "fetched_at": "2026-08-24T04:04:22+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -30,7 +30,7 @@
   "episodes": [
     {
       "key": "05a805842a5956c2bb2d6463afa5eca21f43cfcd",
-      "title": "The Hand of the Leg, Series 7",
+      "title": "The Hand of the Leg - S7, Ep. 9",
       "published_at": "2026-08-17T04:00:00+00:00",
       "link": "https://taskmaster.tv/",
       "description": "In this episode Jack and Jenny revisit Series 7, The Pendulum Draws the Eye - featuring Phil Wang, Rhod Gilbert, Jessica Knappett, Kerry Godliman and James Acaster. Body parts get complicated and Phil’s costume is shown off to its full effect. Also discussed; are split tasks fair? Can placenta art be called beautiful? And an email sets the theme for making the next episode international. Send all your homework suggestions, Series 22 predictions, and general Taskmaster thoughts to fans@taskmaster.tv",
@@ -45,8 +45,7 @@
         "Jack Bernhardt"
       ],
       "topics": [
-        "hand",
-        "series"
+        "hand"
       ]
     },
     {
@@ -4808,7 +4807,7 @@
 
 ## Episodes (newest first)
 
-- 2026-08-17 — The Hand of the Leg, Series 7 — speakers: Phil Wang, Jenny Eclair, Jack Bernhardt
+- 2026-08-17 — The Hand of the Leg - S7, Ep. 9 — speakers: Phil Wang, Jenny Eclair, Jack Bernhardt
 - 2026-08-10 — 42 Calippos - S2, Ep.3 — speakers: Joe Wilkinson, Jon Richardson, Jenny Eclair, Jack Bernhardt
 - 2026-08-03 — Go Hard on the Gore - S8, Ep. 5 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-07-27 — Remembering Carol - S6, Ep. 8 — speakers: Jenny Eclair, Jack Bernhardt

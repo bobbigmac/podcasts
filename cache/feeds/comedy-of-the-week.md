@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-08-17T04:01:53+00:00`
-- checked_at: `2026-08-17T04:01:53+00:00`
-- etag: `"0b4320e657d088dd84eea5f6da86d7fe"`
-- last_modified: `Mon, 17 Aug 2026 04:00:04 GMT`
+- fetched_at: `2026-08-24T04:04:22+00:00`
+- checked_at: `2026-08-24T04:04:22+00:00`
+- etag: `"d3abb14c88d6ecccf29931e54b88b830"`
+- last_modified: `Mon, 24 Aug 2026 04:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-08-17T04:01:53+00:00",
+  "fetched_at": "2026-08-24T04:04:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "93f49c7271eb5ae0e5d083b76422ccd2612a3319",
+      "title": "The People Have Spoken",
+      "published_at": "2026-08-24T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p5tc5f",
+      "description": "It's time for the people to speak. Taking on the headlines, Ian Smith is joined by Harriet Kemsley and Ashley Storrie to work out what is going on, and together with an Edinburgh Fringe audience, solve the biggest problem facing the world right now. Which family member would you send to negotiate with Hamas? How should we help Trump meet his self-imposed deadlines? And how to we protect Andy Burnham from scam phone calls? Written by Ian Smith, Angela Channell, Cameron Loxdale and Katie Storey Production Coordinator: Asha Osborne-Grinter Sound Editing: David Thomas Executive Producer: James Robinson Recorded the Edinburgh Fesitval Fringe Produced by Gwyn Rhys Davies. A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p5t9k9.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27568000",
+      "itunes_duration": "1723",
+      "speakers": [
+        "Ian Smith",
+        "Harriet Kemsley"
+      ],
+      "topics": [
+        "people"
+      ]
+    },
     {
       "key": "4d867afe2e660fbcd85eba404756a4296b3f0deb",
       "title": "Paul Sinha's Perfect Pub Quiz",
@@ -988,26 +1007,6 @@
         "awards",
         "gala"
       ]
-    },
-    {
-      "key": "585027f66d6cfface3a5219189a4727854507138",
-      "title": "Stuart Mitchell's Cost of Dying",
-      "published_at": "2025-08-18T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lv6t49",
-      "description": "This first episode takes a cheeky look at the costs of end of life care and you might be surprised to find out just how pricey it is to pop your clogs! When it seems like everything is getting more expensive; comedian, former banker and serial funeral-organiser Stuart Mitchell breaks down the true Cost of Dying. Using his own experience Stuart aims to find out if can we even afford to kick the bucket? You’ll learn so much about the hidden costs of dying, you may well decide not to bother doing it! To find more episodes from this series, search \"Stand-Up Specials\" on BBC Sounds. Written and Performed by Stuart Mitchell Producer: Lauren Mackay Sound: Andy Hay and Chris Currie",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lv6mcv.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "13936000",
-      "itunes_duration": "871",
-      "speakers": [
-        "Stuart Mitchell"
-      ],
-      "topics": [
-        "stuart",
-        "mitchell",
-        "cost"
-      ]
     }
   ]
 }
@@ -1016,6 +1015,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-24 — The People Have Spoken — speakers: Ian Smith, Harriet Kemsley
 - 2026-08-17 — Paul Sinha's Perfect Pub Quiz — speakers: Paul Sinha
 - 2026-08-10 — Just a Minute
 - 2026-08-03 — Best Medicine — speakers: Michelle Wolf
@@ -1066,4 +1066,3 @@
 - 2025-09-08 — Icklewick FM
 - 2025-09-01 — Room 101 with Paul Merton — speakers: Paul Merton
 - 2025-08-25 — The Edinburgh Comedy Awards Gala 2025
-- 2025-08-18 — Stuart Mitchell's Cost of Dying — speakers: Stuart Mitchell

@@ -29673,6 +29673,28 @@
     ],
     "nish-kumar": [
       {
+        "feed_slug": "external:apple:5b707c818a78",
+        "feed_title": "Top Stories!",
+        "source_rss_url": "https://rss.pdrl.fm/4128f0/feeds.acast.com/public/shows/6310d4dfae5d1300124c4e12",
+        "dedupe_key": "412d4c89f7bd1425e83cb5cef2cc70052bc757d1",
+        "episode_key": "412d4c89f7bd1425e83cb5cef2cc70052bc757d1",
+        "title": "HUMAN's Top Stupidest Species Rankings",
+        "published_at": "2026-08-21T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Welcome back to Top Stories, we’re diving back into the archives, and plucking up old Top Stories from a previous issue of The Bugle. This episode from March 2022, and  issue 4223 and Andy was joined by Nish Kumar and Josh Gondleman, as the Bugle continues its report on Russia’s invasion of Ukraine.  \nThat was another ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6310d4dfae5d1300124c4e12/e/6a75d3552578a0c7e24fbaa1/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/humans-top-stupidest-species-rankings/id1647976369?i=1000784714814&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:edbc4f4d67d5",
         "feed_title": "The Comedian's Comedian Podcast",
         "source_rss_url": "https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581",
@@ -33055,6 +33077,28 @@
         "speakers": [
           "Nish Kumar",
           "Bob Mortimer"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:f25360c6dc7d",
+        "feed_title": "Firecrotch & Normcore: THEY LIKE TO WATCH",
+        "source_rss_url": "https://feeds.acast.com/public/shows/61604050fb58b80016496605",
+        "dedupe_key": "19738b77c43277f37b8aaff7cbc33ba6b294bdea",
+        "episode_key": "19738b77c43277f37b8aaff7cbc33ba6b294bdea",
+        "title": "S03 E05 Bonne Chance, Franco! - with Nish Kumar",
+        "published_at": "2021-11-16T06:35:09Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Hello, gang of crapulous shills. Insert a Tabasco suppository, and prepare to probe the latest episode 'Retired Janitors of Idaho'. Comedian Nish Kumar joins us to vamp, Karl, vamp! \nJoin us live in London on the eve of the 'Succession' S03 finale. Tickets here: https://www.tickettext.co.uk/Ou7ZpV0Qql\n Hosted on Acast.",
+        "audio_url": "https://sphinx.acast.com/p/open/s/61604050fb58b80016496605/e/61934fbb70159800137f5ea4/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s03-e05-bonne-chance-franco-with-nish-kumar/id1589742577?i=1000542063709&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
         ],
         "topics": [],
         "external": true

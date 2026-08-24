@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-21T03:59:28+00:00`
-- checked_at: `2026-08-21T03:59:28+00:00`
-- etag: `"djEuMi4wOjE3ODcyNzc2NDAyNTk="`
+- fetched_at: `2026-08-24T04:04:22+00:00`
+- checked_at: `2026-08-24T04:04:22+00:00`
+- etag: `"djEuMi4wOjE3ODc1MzY4Mzk1MDg="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-21T03:59:28+00:00",
+  "fetched_at": "2026-08-24T04:04:22+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,30 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "e3da6b9de150e66fd3d8d5b418cf418577135bbe",
+      "title": "S16 Ep 894 Vault Mondays: Window Cleaning and Smoking Cigarettes",
+      "published_at": "2026-08-24T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-894-vault-mondays-window-cleaning-and-smoking-cigaret",
+      "description": "In this archive show from 2022, David tells Joe about his time as a window cleaner and then Joe reveals all about his cigarette smoking. First posted on 20th September 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a7eb25e049c692a6b301a94/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34849436",
+      "itunes_duration": "36:18",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "window",
+        "cleaning",
+        "smoking",
+        "cigarettes"
+      ]
+    },
     {
       "key": "a4bea522b200794cfc1445ad28ccb989fd1aa9cb",
       "title": "S16 Ep 893 Listener’s Mailbag: Heroes and Dead Bodies",
@@ -16065,6 +16089,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-24 — S16 Ep 894 Vault Mondays: Window Cleaning and Smoking Cigarettes — speakers: Joe Wilkinson, David Earl
 - 2026-08-21 — S16 Ep 893 Listener’s Mailbag: Heroes and Dead Bodies — speakers: Joe Wilkinson, David Earl
 - 2026-08-20 — S16 Ep 892: Suggs, Waterparks and Being Ignored — speakers: Being Ignored, Joe Wilkinson, David Earl
 - 2026-08-19 — S16 Ep 891: TV Joe Hasn’t A Clue — speakers: Joe Wilkinson, David Earl
