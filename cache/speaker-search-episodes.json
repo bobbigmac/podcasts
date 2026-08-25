@@ -29719,6 +29719,28 @@
     ],
     "nish-kumar": [
       {
+        "feed_slug": "external:apple:d22c4e94b5e2",
+        "feed_title": "The Truth (In My Opinion)",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a3006e7cd02369494f91089",
+        "dedupe_key": "0f74bbec1207c0bf8ab16b6a8347df81d6fa50ef",
+        "episode_key": "0f74bbec1207c0bf8ab16b6a8347df81d6fa50ef",
+        "title": "(LIVE!) Nish Kumar: Binface vs Farage Fallout, Arts Jobs Crisis & BBQ Emergency Alert",
+        "published_at": "2026-08-24T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedian Nish Kumar is our correspondent this week, with 3 very topical heaadlines in our FIRST EVER LIVE SHOW!!! We discuss establishment candidate Count Binface and the fallout from his by-election stand off with Nigel Farage. There's passionate conversation about Exeter University and the cuts they're making to huma",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a3006e7cd02369494f91089/e/6a882d3949da908299bf5095/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/live-nish-kumar-binface-vs-farage-fallout-arts-jobs/id1788563985?i=1000785405057&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:5b707c818a78",
         "feed_title": "Top Stories!",
         "source_rss_url": "https://rss.pdrl.fm/4128f0/feeds.acast.com/public/shows/6310d4dfae5d1300124c4e12",
@@ -39032,6 +39054,28 @@
       }
     ],
     "david-mitchell": [
+      {
+        "feed_slug": "external:apple:920bd5a9c5cc",
+        "feed_title": "Entertainment & Celebrity News Today | 2 Min News | The Daily News Now!",
+        "source_rss_url": "https://feeds.fastcast.ai/entertainment-news-daily-news-now.xml",
+        "dedupe_key": "a40dcbe9882b09d416018a6a91f029fd65276b59",
+        "episode_key": "a40dcbe9882b09d416018a6a91f029fd65276b59",
+        "title": "David Mitchell’s Shakespeare Show Canceled | Entertainment and Celebrity News",
+        "published_at": "2026-08-24T15:38:42Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "David Mitchell’s career is swinging wildly — while he’s stealing the spotlight as a crime-solving genius in the smash-hit BBC drama Ludwig, his beloved Shakespeare comedy Upstart Crow has been axed. The show, which earned a Bafta nod and even spawned a hit stage version, was quietly shelved after 2018, leaving fans hea",
+        "audio_url": "https://api.fastcast.ai/audio/afe560ae-91c9-476b-a7d8-5670016077b1.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchells-shakespeare-show-canceled-entertainment/id1880937045?i=1000785571763&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:abcc66b38e3e",
         "feed_title": "How To Academy Podcast",

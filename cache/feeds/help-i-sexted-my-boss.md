@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-08-21T07:06:50+00:00`
-- checked_at: `2026-08-21T07:06:50+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RjeU9EZzBNemszTWpVPTo6c2F4ZXNz"`
+- fetched_at: `2026-08-25T07:07:34+00:00`
+- checked_at: `2026-08-25T07:07:34+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RjMk16UXdNemsyTXprPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-08-21T07:06:50+00:00",
+  "fetched_at": "2026-08-25T07:07:34+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fb4b38d6470876c89c429ea65f8f14957f13908b",
+      "title": "Help I’ve Got A Limp Shake | And William Tries Jordan’s Sausage",
+      "published_at": "2026-08-25T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-ive-got-a-limp-shake-and-william-tries-jordans-sausage",
+      "description": "Have you got a limp wrist? A soft shake? If so, Jordan North thinks he knows exactly what sort of person you are. The boys also debrief on what REALLY happened at the Sexted and Capital Breakfast BBQ, including trying to find out who stole Jordan’s microwave. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1787566536821-c8879285-c46a-4cff-b755-ff8cdbf06a3a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a882f8b8e4e4f5e7cd014d3/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=Fz9JjwjXH7kwmAKQ7cdwCX6HQbLT3PS6lVPXFwHES94",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46659291",
+      "itunes_duration": "48:36",
+      "speakers": [
+        "William Tries Jordan’s Sausage",
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "shake",
+        "william",
+        "tries",
+        "jordan",
+        "sausage"
+      ]
+    },
     {
       "key": "697faf669b3405f57c8423372a87487cced6b2a7",
       "title": "X-Rated Film Puns | And Pillow Fluffers",
@@ -14913,6 +14937,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-25 — Help I’ve Got A Limp Shake | And William Tries Jordan’s Sausage — speakers: William Tries Jordan’s Sausage, Jordan North, William Hanson
 - 2026-08-21 — X-Rated Film Puns | And Pillow Fluffers — speakers: William Hanson, Jordan North
 - 2026-08-18 — Help I’ve Borrowed My Neighbour's Toys | And Double Moustaches — speakers: Jordan North, William Hanson
 - 2026-08-14 — William Tries to Catch Jordan Out | And Who's Spooning Who? — speakers: William Tries, William Hanson, Jordan North
