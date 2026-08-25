@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-24T04:04:22+00:00`
-- checked_at: `2026-08-24T04:04:22+00:00`
-- etag: `"djEuMi4wOjE3ODc1MzY4Mzk1MDg="`
+- fetched_at: `2026-08-25T03:58:52+00:00`
+- checked_at: `2026-08-25T03:58:52+00:00`
+- etag: `"djEuMi4wOjE3ODc2MjMyMzk0Njk="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-24T04:04:22+00:00",
+  "fetched_at": "2026-08-25T03:58:52+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,27 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "beb47ee08c0cff9ed606ff780ac3905165e322a1",
+      "title": "S16 Ep 895: Pop-Up Tents and Haemorrhoid Tablets Pt 1",
+      "published_at": "2026-08-25T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-895-pop-up-tents-and-haemorrhoid-tablets-pt-1",
+      "description": "On today’s eclectic itinerary, there’s chat about renting a van, Ted Lasso, Scam Interceptors, pop-up tents, snoring, David’s root canal work, some recent quipping, a strange incident in Joe’s road and David’s uncomfortable encounter with an angry dog. Then later in the show, when Joe mentions needing to buy some haemorrhoid tablets, David immediately stops proceedings so they can make the episode a double bubble. Tune in tomorrow for the full story… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a7eb2b66e5b5bfda65a680e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "44961541",
+      "itunes_duration": "46:50",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "tents",
+        "haemorrhoid",
+        "tablets"
+      ]
+    },
     {
       "key": "e3da6b9de150e66fd3d8d5b418cf418577135bbe",
       "title": "S16 Ep 894 Vault Mondays: Window Cleaning and Smoking Cigarettes",
@@ -276,8 +297,8 @@
       "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a6b22bb501e9815149e003d/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "25361345",
-      "itunes_duration": "26:25",
+      "enclosure_length": "23441658",
+      "itunes_duration": "24:25",
       "speakers": [
         "Joe Wilkinson",
         "David Earl"
@@ -16089,6 +16110,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-25 — S16 Ep 895: Pop-Up Tents and Haemorrhoid Tablets Pt 1 — speakers: Joe Wilkinson, David Earl
 - 2026-08-24 — S16 Ep 894 Vault Mondays: Window Cleaning and Smoking Cigarettes — speakers: Joe Wilkinson, David Earl
 - 2026-08-21 — S16 Ep 893 Listener’s Mailbag: Heroes and Dead Bodies — speakers: Joe Wilkinson, David Earl
 - 2026-08-20 — S16 Ep 892: Suggs, Waterparks and Being Ignored — speakers: Being Ignored, Joe Wilkinson, David Earl
