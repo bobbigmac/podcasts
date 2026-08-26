@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-08-24T01:56:53+00:00`
-- checked_at: `2026-08-24T01:56:53+00:00`
-- last_modified: `Mon, 24 Aug 2026 00:08:19 GMT`
+- fetched_at: `2026-08-26T01:57:52+00:00`
+- checked_at: `2026-08-26T01:57:52+00:00`
+- last_modified: `Wed, 26 Aug 2026 00:07:45 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-24T01:56:53+00:00",
+  "fetched_at": "2026-08-26T01:57:52+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "9d2d534322feef3fd436b87d347916bba3ded552",
+      "title": "Frank Skinner's Radio Days: Chicken and the Egg",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "link": null,
+      "description": "This week (in 2014), Frank sees rats in the zoo and meets a man with a TARDIS. The gang also chat Russell Crowe and interesting grooming habits. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/087d83b4-a0d6-11f1-94c5-eb2236f819f7/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7891897434.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2548",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "chicken"
+      ]
+    },
     {
       "key": "88f1523a7c88a73ab48067a5781a02ef1fd35b87",
       "title": "Frank likes Jazz?",
@@ -24541,6 +24562,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-26 — Frank Skinner's Radio Days: Chicken and the Egg — speakers: Frank Skinner
 - 2026-08-24 — Frank likes Jazz? — speakers: Comedians Rhys James, Frank Skinner
 - 2026-08-21 — Year of the Colander — speakers: Rhys James, Frank Skinner
 - 2026-08-19 — Frank Skinner's Radio Days: Trainers on Tour — speakers: Frank Skinner

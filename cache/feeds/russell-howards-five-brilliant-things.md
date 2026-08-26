@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-08-19T01:52:48+00:00`
-- checked_at: `2026-08-19T01:52:48+00:00`
-- last_modified: `Wed, 19 Aug 2026 01:06:56 GMT`
+- fetched_at: `2026-08-26T01:57:52+00:00`
+- checked_at: `2026-08-26T01:57:52+00:00`
+- last_modified: `Wed, 26 Aug 2026 01:10:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-19T01:52:48+00:00",
+  "fetched_at": "2026-08-26T01:57:52+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "62d96739e41043f18ccbeabeaaa6779be1c62974",
+      "title": "Alfie Brown",
+      "published_at": "2026-08-26T01:00:00+00:00",
+      "link": null,
+      "description": "One of the most interesting, honest and self-eviscerating comics around at the moment, Alfie Brown brings his happy things to the studio including the city of Liverpool, Love Songs, his own wife and the levelling, life-saving properties of cannabis. Alfie has been in Edinburgh but if you haven’t been there yet you ain’t going now, but luckily for you his latest hit show ‘The Entertainer’ is touring the UK. You can find out all the dates and book tickets in a couple of quick clicks by going to alfiebrowntour.com . You can also follow Alfie on Instagram where he’s @alfiebrowncomedian and you can search for his and Jessie’s podcast (which has terrific metrics if you read the data) - just look for ‘Before we Break Up Again’ on Spotify or Apple Podcasts. Well done for reading the blurb, which is the modern equivalent of DVD extras, in that a huge amount of love and energy goes into them but really we’re only slaving away for a very select bunch of nerds like you. Nerd. Yeah you heard me (but totally thanks for making this worthwhile). Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/34acab22-9fd2-11f1-b6cf-6f5f6ff769eb/image/c2a52d155f3253a2c3dbc4dcb9b9a8b3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8140430040.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3786",
+      "speakers": [
+        "Alfie Brown",
+        "Russell Howard"
+      ],
+      "topics": [
+        "alfie",
+        "brown"
+      ]
+    },
     {
       "key": "b07f3483dc5ce6dd78096eab2fd4bf68a2d70874",
       "title": "Joe Maggio",
@@ -3354,6 +3374,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-26 — Alfie Brown — speakers: Alfie Brown, Russell Howard
 - 2026-08-19 — Joe Maggio — speakers: Joe Maggio, Russell Howard
 - 2026-08-12 — Dan Tiernan — speakers: Dan Tiernan Award, Dan Tiernan, Russell Howard
 - 2026-08-05 — Paddy Young — speakers: Paddy Yo, Russell Howard

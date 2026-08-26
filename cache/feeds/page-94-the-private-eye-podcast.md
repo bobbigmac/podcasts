@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-08-11T19:19:18+00:00`
-- checked_at: `2026-08-11T19:19:18+00:00`
-- etag: `W/"80dbd0abf817443435512d9c74c4c19c"`
-- last_modified: `Tue, 11 Aug 2026 16:56:18 GMT`
+- fetched_at: `2026-08-26T01:57:52+00:00`
+- checked_at: `2026-08-26T01:57:52+00:00`
+- etag: `W/"c6824745dddc045848f92988587f0b5e"`
+- last_modified: `Tue, 25 Aug 2026 09:47:48 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-08-11T19:19:18+00:00",
+  "fetched_at": "2026-08-26T01:57:52+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -30,13 +30,34 @@
   ],
   "episodes": [
     {
+      "key": "db26da20160e0c4bcadd3962506c349b677c273f",
+      "title": "189: The Hacks Book Club",
+      "published_at": "2026-08-25T09:47:47+00:00",
+      "link": "https://audioboom.com/posts/8943514",
+      "description": "As the summer draws to a close, Ian, Helen, Adam and Andy discuss the best books about journalism and writing ever, er, written, covering everything from Vesuvius to Rwanda to Elton John. Further Reading The Faber Book of Reportage , edited by Professor John Carey Tickle The Public - 100 Years of the Popular Press by Matthew Engel We Wish To Inform You That Tomorrow We Will Be Killed With Our Families by Phillip Gourevitch Towards The End Of The Morning by Michael Frayn Scoop by Evelyn Waugh Stick It Up Your Punter! by Peter Chippindale & Chris Horrie Mother Tongue by Bill Bryson New Grub St by George Gissing",
+      "image_url": "https://audioboom.com/i/43807658/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943514.mp3?modified=1787248018&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2517",
+      "speakers": [
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "hacks",
+        "book",
+        "club"
+      ]
+    },
+    {
       "key": "d3777aa82e25543c54eb58aee2eee6b5b0bd916f",
       "title": "188: Entirely Artificial Intelligence",
       "published_at": "2026-08-11T16:55:26+00:00",
       "link": "https://audioboom.com/posts/8938421",
       "description": "Summer special! The team discuss the Conservatives’ new policy on convicted Neo-Nazis (pro), the AI data centres hoovering up power and water, and the extraordinary story of Professor Jason Arday.",
       "image_url": "https://audioboom.com/i/43783636/s=1400x1400/el=1/rt=fill.png",
-      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8938421.mp3?modified=1786467385&sid=5112392&source=rss",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8938421.mp3?modified=1786467639&sid=5112392&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
       "itunes_duration": "2297",
@@ -4019,6 +4040,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-25 — 189: The Hacks Book Club — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-08-11 — 188: Entirely Artificial Intelligence — speakers: Entirely Artificial Intelligence Summer, Andrew Hunter Murray, Ian Hislop
 - 2026-07-28 — 187: Feel The Burnham — speakers: Andy Burnham, Andrew Hunter Murray, Ian Hislop
 - 2026-07-14 — 186: Fa-rage Against The Machine — speakers: Jane Mackenzie, Andrew Hunter Murray, Ian Hislop

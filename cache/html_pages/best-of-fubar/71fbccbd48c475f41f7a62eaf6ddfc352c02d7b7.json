@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=22",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=22",
-  "fetched_at": "2026-08-25T01:51:50+00:00",
+  "fetched_at": "2026-08-26T01:57:52+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=23",
   "episodes": [
+    {
+      "key": "0c28c71226e2a8b271a8cf0b58067e46c8b09852",
+      "guid": "a9e74d79-bea5-412d-ada9-1432fc58c39b",
+      "title": "Best of FUBAR (4th December)",
+      "published_at": "2024-12-04T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-4th-december/",
+      "description": "A selection of highlights from the FUBAR vaults.",
+      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1733274509-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=a9e74d79-bea5-412d-ada9-1432fc58c39b&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "545a138fa1baf777a153612f20a82d8baced3019",
       "guid": "54e222ba-1eae-4018-9dd1-2c19baabfab6",
@@ -380,19 +393,6 @@
       "description": "A selection of highlights from the FUBAR vaults.",
       "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1730768859-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=e82fb2f1-82a7-4cf7-9cbf-433fd102d499&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "82c4b0ad1482e862fd0cf1e0f0aed6822beab888",
-      "guid": "e260fd39-6b0b-4062-a18a-69a6e131030c",
-      "title": "Best of FUBAR (4th November)",
-      "published_at": "2024-11-04T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-4th-november/",
-      "description": "A selection of highlights from the FUBAR vaults.",
-      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1730682454-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=e260fd39-6b0b-4062-a18a-69a6e131030c&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null

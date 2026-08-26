@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-08-24T10:03:22+00:00`
-- checked_at: `2026-08-24T10:03:22+00:00`
-- etag: `"djEuMi4wOjE3ODc1NjM3ODY5OTU="`
+- fetched_at: `2026-08-26T01:57:52+00:00`
+- checked_at: `2026-08-26T01:57:52+00:00`
+- etag: `"djEuMi4wOjE3ODc2OTk4NTkzMzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
-  "fetched_at": "2026-08-24T10:03:22+00:00",
+  "fetched_at": "2026-08-26T01:57:52+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "5176fdd1a2d776d1958acc5677357024db14f4cf",
+      "title": "What's \"Pointless\" In Welsh?",
+      "published_at": "2026-08-25T23:17:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/whats-pointless-in-welsh",
+      "description": "More from the Socially Distant Sports Bar as Mike Bubbins, Elis James and Steff Garrero tackle the important issues of the week including news of Elis wowing a packed tent at the Eisteddfod, much discussion of Mike's sunglasses collection and why he can't wear his Meta specs anymore. The boys get all misty-eyed about former Wales scrum-half Robert Jones and go back to a Wales v England schoolboys international from 1984. There's also a really interesting chat about Lance Armstrong after he gives his thoughts on Tadej Pogacar winning his 5th Tour. Elis: Wales v England schools 1988 https://x.com/apsmrugby/status/2077708047133131049?s=46&t=neS5hOG2rnBndx5FBpAv6g Mike: Jim Abbott. Incredible. https://www.instagram.com/reel/DWzlQTIEi5O/?igsh=MTg4cmU0d3pxbzI5NA== Steff: Lance https://www.instagram.com/reel/Das-prmRPhl/ 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a8c0ca851ed042f1119c29f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "146469120",
+      "itunes_duration": "1:01:01",
+      "speakers": [
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "welsh"
+      ]
+    },
     {
       "key": "5b1c53cd509966ccc2e5a1b8db92baa2622fa949",
       "title": "The Camping Stove: Pint Size",
@@ -15748,6 +15768,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-25 — What's "Pointless" In Welsh? — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-08-22 — The Camping Stove: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-20 — Sacked From The Voiceover — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-18 — Squash Court — speakers: Elis James, Mike Bubbins, Steff Garrero
