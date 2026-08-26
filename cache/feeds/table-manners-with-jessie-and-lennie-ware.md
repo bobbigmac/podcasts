@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-08-19T03:58:14+00:00`
-- checked_at: `2026-08-19T03:58:14+00:00`
-- etag: `"djEuMi4wOjE3ODcwOTc2Mzk1NTg="`
+- fetched_at: `2026-08-26T04:02:08+00:00`
+- checked_at: `2026-08-26T04:02:08+00:00`
+- etag: `"djEuMi4wOjE3ODc3MDI0Mzk0NTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-08-19T03:58:14+00:00",
+  "fetched_at": "2026-08-26T04:02:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "1451a9576aa93e7b23b27bac7b13f5a0404730f4",
+      "title": "Second Helpings - Emerald Fennell",
+      "published_at": "2026-08-26T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/second-helpings-emerald-fennell",
+      "description": "Back in summer 2021 we welcomed actress, director and writer, the phenomenal Emerald Fennell round to Lennie’s for Tarragon Chicken and banana ice cream! We chat everything from her time in Call The Midwife, to writing & directing the absolute must-see Promising Young Woman and her latest venture at the time, writing Andrew Lloyd Webber's new musical 'Cinderella’. She talks about meeting her husband in Paris, the art of getting a free Pret coffee and what she’s working on next. We loved having you Emerald and we’re still inviting ourselves over for a Fennell Eurovision / karaoke night!! Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1786964023776-b5c7dcd0-8c7a-41d4-9e95-765e18ba032a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a81cc4eff328abd84319813/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46651767",
+      "itunes_duration": "48:35",
+      "speakers": [
+        "Emerald Fennell"
+      ],
+      "topics": [
+        "second",
+        "helpings",
+        "emerald",
+        "fennell"
+      ]
+    },
     {
       "key": "d0f0fb22b2e604e8c84a159592aa9b6fb6b4549a",
       "title": "Second Helpings - Dolly Parton",
@@ -7376,6 +7397,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-26 — Second Helpings - Emerald Fennell — speakers: Emerald Fennell
 - 2026-08-19 — Second Helpings - Dolly Parton — speakers: Second Helpings, Dolly Parton
 - 2026-08-12 — Second Helpings - Yungblud — speakers: Second Helpings
 - 2026-08-05 — Second Helpings - Callum Turner — speakers: Second Helpings, Callum Turner While, Table Manners

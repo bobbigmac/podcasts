@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-08-19T03:58:14+00:00`
-- checked_at: `2026-08-19T03:58:14+00:00`
-- etag: `"djEuMi4wOjE3ODcxMDg0NDAxMDg="`
+- fetched_at: `2026-08-26T04:02:08+00:00`
+- checked_at: `2026-08-26T04:02:08+00:00`
+- etag: `"djEuMi4wOjE3ODc3MTMyMzk3ODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-08-19T03:58:14+00:00",
+  "fetched_at": "2026-08-26T04:02:08+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "659e871d5815410398a4bbdc46f09a04a9c96461",
+      "title": "Kaya Scodelario",
+      "published_at": "2026-08-26T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/kaya-scodelario",
+      "description": "This week the Dream Restaurant welcomes British-Brazilian actor Kaya Scodelario – star of ‘The Maze Runner’ films, ‘Skins’ and Netflix’s ‘The Gentleman’. Hello to all the divorced men out there. If you’re listening on Apple Podcasts you can now watch this episode too. Kaya Scodelario stars in Guy Ritcher’s ‘The Gentlemen’, and series 2 comes to Netflix on 3 September. Watch series one now . Follow Kaya on Instagram @kayascods Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1785486258265-f97348d7-cc69-4148-8567-9fdd8ed89883.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a6c5b7c8fc38d720f9f24fa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61027474",
+      "itunes_duration": "1:03:34",
+      "speakers": [
+        "Kaya Scodelario",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "kaya",
+        "scodelario"
+      ]
+    },
     {
       "key": "1235835f7d530b913b31b115718afb0afbb4ce3e",
       "title": "Mark Gatiss",
@@ -8877,6 +8899,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-26 — Kaya Scodelario — speakers: Kaya Scodelario, Ed Gamble, James Acaster, Ben Williams
 - 2026-08-19 — Mark Gatiss — speakers: Mark Gatiss Mark Gatiss, Ed Gamble, James Acaster, Ben Williams
 - 2026-08-12 — Bella Ramsey — speakers: Bella Ramsey Actor, Bella Ramsey, Ed Gamble, James Acaster, Ben Williams
 - 2026-08-05 — Jinkx Monsoon — speakers: Jinkx Monsoon, Drag Race, Ed Gamble, James Acaster, Ben Williams

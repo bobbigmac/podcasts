@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-08-26T01:57:52+00:00`
-- checked_at: `2026-08-26T01:57:52+00:00`
-- etag: `"djEuMi4wOjE3ODc1MjE0MDE1NDQ="`
+- fetched_at: `2026-08-26T04:02:08+00:00`
+- checked_at: `2026-08-26T04:02:08+00:00`
+- etag: `"djEuMi4wOjE3ODc3MTY4NDAyNDc="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-08-26T01:57:52+00:00",
+  "fetched_at": "2026-08-26T04:02:08+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "04dc0fe29760fa270a21ff6b95713b2eb6165416",
+      "title": "WDWDY #85.1: To Err is Human (Max's Yesterday)",
+      "published_at": "2026-08-26T04:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-851-to-err-is-human-maxs-yesterday",
+      "description": "Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1787520115467-39a4f180-841b-4181-ba80-9b8b24a7dd0f.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a8b64a749367c27e2b19d49/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49832855",
+      "itunes_duration": "51:54",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "human",
+        "yesterday"
+      ]
+    },
     {
       "key": "45beb74d379435e2ed4139fb932df0318e409d1d",
       "title": "S5 EP10: Nina Conti",
@@ -3975,6 +3995,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-26 — WDWDY #85.1: To Err is Human (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-23 — S5 EP10: Nina Conti — speakers: Nina Conti Joining, Max Rushden, David O'Doherty
 - 2026-08-19 — WDWDY #84.1: Yester-YAY! (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-16 — S5 EP9: Jake Bhardwaj — speakers: Jake Bhardwaj, Max Rushden, David O'Doherty

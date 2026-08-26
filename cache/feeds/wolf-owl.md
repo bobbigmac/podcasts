@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-08-19T03:58:14+00:00`
-- checked_at: `2026-08-19T03:58:14+00:00`
-- last_modified: `Mon, 17 Aug 2026 23:01:00 GMT`
+- fetched_at: `2026-08-26T04:02:08+00:00`
+- checked_at: `2026-08-26T04:02:08+00:00`
+- last_modified: `Tue, 25 Aug 2026 13:52:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-19T03:58:14+00:00",
+  "fetched_at": "2026-08-26T04:02:08+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -28,11 +28,62 @@
   ],
   "episodes": [
     {
+      "key": "53b1269cbc0f9f41810565ad34679cd1fbf1a898",
+      "title": "Kitchen Nightmares, Holidays And Comedy Careers",
+      "published_at": "2026-08-25T13:51:00+00:00",
+      "link": null,
+      "description": "What happened in Tom's kitchen this week? In this episode of Wolf & Owl, Tom has had an absolute nightmare of a week with a kitchen disaster that includes a knife, a lot of blood and an absence of clogs. Romesh also has some important safety advice before the pair move on to holidays, impressions and the realities of coming up in comedy. Elsewhere, they debate whether you should name sex with your wife? Plus there's a story all about the strangeness of the world of Facebook and friendships. Another week, another collection of questionable decisions from Wolf & Owl. If you've been thinking about therapy, BetterHelp can help you take the first step. Sign up and get 10% off at https://www.BetterHelp.com/wolfowl A Ranga Bee Production in partnership with Platform Media. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/41e46ff8-9ff2-11f1-ab3f-e7baa57dbeb8/image/36cedf1a3af4f9b9626e83a093df113e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT9746869114.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3032",
+      "speakers": [
+        "Kitchen Nightmares",
+        "Comedy Careers",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "kitchen",
+        "nightmares",
+        "holidays",
+        "comedy",
+        "careers"
+      ]
+    },
+    {
+      "key": "bcd87b638ddfb6ccbf18955a274acd1cc63c72ad",
+      "title": "Partner Advice, Phrogging And The Importance Of A Good Curry",
+      "published_at": "2026-08-20T23:01:00+00:00",
+      "link": null,
+      "description": "Would you rather find 10,000 cockroaches or a man living in your loft? On this week’s Wolf & Owl, Tom and Romesh tackle some very important questions, sent in by you, including how to show appreciation and whether there’s anything wrong with a woman proposing to a man. Things take a turn when they debate: would you rather discover 10,000 cockroaches in your loft, or one mysterious man who has secretly been living there for four years? And to help get to the answer, a role-play ensues, where Tom takes on the part of a very questionable phrogger. Plus, the boys discuss what makes a great curry and who’d make the best dinner guests for a curry night out. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:41 How to show appreciation for your partner 06:17 A side note on curries 08:53 Would You Rather? 10:21 A phrogging sketch 16:10 Should a woman propose? 22:07 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2d02676a-9c83-11f1-a3ba-b7235912cd7a/image/577132b48a0359a96b6999286e5ee631.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT5937155714.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1517",
+      "speakers": [
+        "Partner Advice",
+        "Good Curry Would",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "partner",
+        "advice",
+        "phrogging",
+        "importance",
+        "good",
+        "curry"
+      ]
+    },
+    {
       "key": "643dfb43996517d88523ff34e88a5d6360ccfb4f",
       "title": "Manscaping, Country Music & Dinner Invites",
       "published_at": "2026-08-17T23:01:00+00:00",
       "link": null,
-      "description": "What are the Wolf & Owl's top tips for manscaping? On this week’s Wolf & Owl, Tom and Romesh get into the important stuff: feet, showers, skincare and exactly how you're supposed to wash your arse. Tom reveals his emotional story behind getting his first ever pedicure at 46, while Romesh introduces Tom to his new Korean skincare routine. Elsewhere, Tom tells us about his date night as a Luke Combs concert, including an awkward social encounter, before declaring himself a fully-fledged country music fan. Plus, there’s a discussion about dinner parties, biscuit bingeing and another unforgettable Tom Davis story to finish. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 01:25 Toenails and pedicures 15:37 A debate on washing 20:05 Korean skincare 21:36 Beard scaping 23:01 Luke Combs, cowboys and date night 24:47 Tom’s socially awkward situation 32:18 Country Music 39:17 Rom wasn't invited to Tom’s lunch 40:34 Biscuit bingeing 42:30 Tom’s Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "What are the Wolf & Owl's top tips for manscaping? On this week’s Wolf & Owl, Tom and Romesh get into the important stuff: feet, showers, skincare and exactly how you're supposed to wash your arse. Tom reveals his emotional story behind getting his first ever pedicure at 46, while Romesh introduces Tom to his new Korean skincare routine. Elsewhere, Tom tells us about his date night as a Luke Combs concert, including an awkward social encounter, before declaring himself a fully-fledged country music fan. Plus, there’s a discussion about dinner parties, biscuit bingeing and another unforgettable Tom Davis story to finish. A Ranga Bee Production in partnership with Platform Media. If you've been thinking about therapy, BetterHelp can help you take the first step. Sign up and get 10% off at https://www.BetterHelp.com/wolfowl Chapters 00:00 Intro 01:25 Toenails and pedicures 15:37 A debate on washing 20:05 Korean skincare 21:36 Beard scaping 23:01 Luke Combs, cowboys and date night 24:47 Tom’s socially awkward situation 32:18 Country Music 39:17 Rom wasn't invited to Tom’s lunch 40:34 Biscuit bingeing 42:30 Tom’s Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/91ae905c-9a4f-11f1-8e83-7342eefe6842/image/03bff2c90fb13168c3283976a244c807.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT5812361537.mp3",
       "enclosure_type": "audio/mpeg",
@@ -7375,6 +7426,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-25 — Kitchen Nightmares, Holidays And Comedy Careers — speakers: Kitchen Nightmares, Comedy Careers, Romesh Ranganathan, Tom Davis
+- 2026-08-20 — Partner Advice, Phrogging And The Importance Of A Good Curry — speakers: Partner Advice, Good Curry Would, Romesh Ranganathan, Tom Davis
 - 2026-08-17 — Manscaping, Country Music & Dinner Invites — speakers: Romesh Ranganathan, Tom Davis
 - 2026-08-13 — Do We Really Need A Summer Body? — speakers: Romesh Ranganathan, Tom Davis
 - 2026-08-10 — The Traitors, Therapy and Bathroom Etiquette — speakers: Romesh Ranganathan, Tom Davis

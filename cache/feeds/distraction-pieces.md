@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-08-26T01:57:52+00:00`
-- checked_at: `2026-08-26T01:57:52+00:00`
-- etag: `"djEuMi4wOjE3ODc1NjIzNTYyNTQ="`
+- fetched_at: `2026-08-26T04:02:08+00:00`
+- checked_at: `2026-08-26T04:02:08+00:00`
+- etag: `"djEuMi4wOjE3ODc3MTM0NzkzOTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-08-26T01:57:52+00:00",
+  "fetched_at": "2026-08-26T04:02:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e5f38ca0218ed162824a9bd2a6b5793467856d78",
+      "title": "SCROOBIUS PIP performs the album 'DISTRACTION PIECES' as a spoken word set! (recorded in Canada 2021) #684",
+      "published_at": "2026-08-26T03:04:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week is the digital debut of Pip's live spoken word rendition of the DISTRACTION PIECES album in full! For total clarity, the order of events was the solo album 'Distraction Pieces', and then this podcast. So it makes total sense that in this whole podcast ouroboros and infinity loop we have in front of us, the podcast itself is the perfect platform for the very first digital unveiling of the spoken word version! While Pip was filming in Canada in maximum pandemic, time marched on until boom, it was time for the 10 year anniversary of his solo album. With the initial album on deck as a proper reissue, it turned out that with all that isolation and solo time that was in fact legally mandated, it was the ideal moment to add a little special something to the reissue situation. What better moment to leap back in time to the days of rocking up to a venue with a notebook and not much else, to perform spoken word and get your name out there where the game was a good deal of word of mouth and not all socials. Pip packed up his mic and jetted to Stanley Park, up on the tippy top of Vancouver, recorded the whole album acapella, and this formed disc 2 of the vinyl reissue. It was never digitally released, no Bandcamps, no streamers, nothing, and so if you didn't cop the wax you won't have heard this. So it really is a very special thing indeed, and represents a really important era in the Pip career path. Enjoy, and as this isn't a regular sounding episode (ie. not an interview), maybe set aside some time to take it in properly and without - indeed - distractions. Recorded by Pip • mix/edit/master by Buddy Peace PIP'S PATREON PAGE if you're of a supporting nature SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1787560947068-6864db62-bfce-4184-9ce9-d86552f2953e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a8c097454f87b8876e31329/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104721864",
+      "itunes_duration": "43:33",
+      "speakers": [],
+      "topics": [
+        "scroobius",
+        "album",
+        "distraction",
+        "piece",
+        "word",
+        "canada"
+      ]
+    },
     {
       "key": "26480f8a3fce9c2b75ef4169c1b065e9de0f6542",
       "title": "NIAMH ALGAR (Calm With Horses / The Virtues / Raised By Wolves) • Friday Rewind",
@@ -19452,6 +19473,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-26 — SCROOBIUS PIP performs the album 'DISTRACTION PIECES' as a spoken word set! (recorded in Canada 2021) #684
 - 2026-08-21 — NIAMH ALGAR (Calm With Horses / The Virtues / Raised By Wolves) • Friday Rewind
 - 2026-08-19 — 20 YEARS OF PIP (Part 3) • featuring Chris Glasson & Buddy Peace! #683 — speakers: Chris Glasson
 - 2026-08-14 — STEVEN KNIGHT (Peaky Blinders / Taboo / Serenity) • Friday Rewind — speakers: Steven Knight

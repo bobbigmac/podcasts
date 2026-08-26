@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-08-24T04:04:22+00:00`
-- checked_at: `2026-08-24T04:04:22+00:00`
-- etag: `"djEuMi4wOjE3ODc1NDAyNTkzMzQ="`
+- fetched_at: `2026-08-26T04:02:08+00:00`
+- checked_at: `2026-08-26T04:02:08+00:00`
+- etag: `"djEuMi4wOjE3ODc3MTMwNTkyOTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-08-24T04:04:22+00:00",
+  "fetched_at": "2026-08-26T04:02:08+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ecb84e2040bb7e34b8ae3157fdc03addf28125bd",
+      "title": "John Robins - \"Cake of Shame\"",
+      "published_at": "2026-08-26T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #624 - Cake of Shame - Rich is chatting to the man who has been on RHLSTP more than anyone but Rich, John Robins. They talk about acting in a sexy film with no sexy bits for you, Taskmaster (maybe we did talk about this before, even though Rich says we didn’t), bad financial advice, their Wordle based schism, comedy geniuses Ian Cognito and Phil Kay, Rich chastising his parents for buying the wrong stereo and why no one should be allowed more than 10 million dollars and running the Marathon and who is best at it. See RHLSTP in London http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Recorded at the Podcast Room Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1787316649628-356d0028-d6fe-4f8d-9b87-25d692d6abce.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a88495349367c27e2ddec5f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "25473358",
+      "itunes_duration": "53:04",
+      "speakers": [
+        "John Robins",
+        "Richard Herring"
+      ],
+      "topics": [
+        "john",
+        "robins",
+        "cake",
+        "shame"
+      ]
+    },
     {
       "key": "ccae2feb6fae576a45599cbc31245be2bb4296dd",
       "title": "Richard Osman (Retro) - \"The Oldest Person In Scotland\"",
@@ -23631,6 +23653,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-26 — John Robins - "Cake of Shame" — speakers: John Robins, Richard Herring
 - 2026-08-24 — Richard Osman (Retro) - "The Oldest Person In Scotland" — speakers: Richard Osman, Ed Fringe, Oldest Person, Richard Herring
 - 2026-08-19 — Bella Hull - "Crystal In Her Pocket" — speakers: Bella Hull, Richard Herring
 - 2026-08-17 — Adam Buxton (Retro) - "Cock Bongo" — speakers: Adam Buxton, Ed Fringe, Richard Herring
