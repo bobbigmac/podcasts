@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-08-26T13:15:57+00:00`
-- checked_at: `2026-08-26T13:15:57+00:00`
-- etag: `W/"56760-aBZPQxXkOUnMNZmf5giVxSnp6lM"`
+- fetched_at: `2026-08-26T20:01:40+00:00`
+- checked_at: `2026-08-26T20:01:40+00:00`
+- etag: `W/"562e5-frfDxtP4QifPIyxZGeQKtZYvwt8"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-08-26T13:15:57+00:00",
+  "fetched_at": "2026-08-26T20:01:40+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -6065,27 +6065,6 @@
         "richardson",
         "podcast"
       ]
-    },
-    {
-      "key": "9765567f696a35f47e1cdc36df62bff89d2428d3",
-      "title": "#32 Russell Howard & Jon Richardson Podcast EP 32",
-      "published_at": "2026-01-23T06:19:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/32-Russell-Howard--Jon-Richardson-Podcast-EP-32-e3dr1tr",
-      "description": "#32 Russell Howard & Jon Richardson Podcast EP 32",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1768756800692-517a1c17be29c.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/114181499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-18%2F4c1a9150-f01e-9382-f8e7-c0c653da9af2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "54956640",
-      "itunes_duration": "01:16:19",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
     }
   ]
 }
@@ -6360,4 +6339,3 @@
 - 2026-01-26 — #35 Russell Howard & Jon Richardson Podcast EP 35 — speakers: Russell Howard
 - 2026-01-25 — #34 Russell Howard & Jon Richardson Podcast EP 34 — speakers: Russell Howard
 - 2026-01-24 — #33 Russell Howard & Jon Richardson Podcast EP 33 — speakers: Russell Howard
-- 2026-01-23 — #32 Russell Howard & Jon Richardson Podcast EP 32 — speakers: Russell Howard
