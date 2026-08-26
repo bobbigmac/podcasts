@@ -11521,6 +11521,28 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:5773c2bc26d9",
+        "feed_title": "Maisie Adam Presents: Comedy At the Fringe",
+        "source_rss_url": "https://rss.art19.com/maisie-adam-presents-comedy-at-the-fringe",
+        "dedupe_key": "fb7588d4bd9dc58364e7467003a3b90a51e9ebbe",
+        "episode_key": "fb7588d4bd9dc58364e7467003a3b90a51e9ebbe",
+        "title": "Chris Cantrill, Bella Hull and Harriet Kemsley",
+        "published_at": "2026-08-24T23:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stand-up comedy hosted by Maisie Adam, and featuring Chris Cantrill, Bella Hull and Harriet Kemsley.\nExperience this year’s Edinburgh festival with exclusive sets from the cream of the comedy crop without even having to move a muscle. \nAward-winning comedian Maisie Adam (Last One Laughing UK, Taskmaster, Live At The Ap",
+        "audio_url": "https://rss.art19.com/episodes/e6c5149a-0153-401e-a8f4-d620c9c1f1a1.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
+        "link_url": "https://podcasts.apple.com/gb/podcast/chris-cantrill-bella-hull-and-harriet-kemsley/id6802817119?i=1000784370904&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:3ac075ed5c32",
         "feed_title": "British Comedy Devotee",
         "source_rss_url": "https://anchor.fm/s/10d6f1db0/podcast/rss",
@@ -13385,6 +13407,28 @@
       }
     ],
     "sally-phillips": [
+      {
+        "feed_slug": "external:apple:bba850ce1777",
+        "feed_title": "Girls On Film",
+        "source_rss_url": "https://feeds.soundcloud.com/users/soundcloud:users:255260763/sounds.rss",
+        "dedupe_key": "5a7b4ba9307f570f9967ac4288f9421c6ad2a633",
+        "episode_key": "5a7b4ba9307f570f9967ac4288f9421c6ad2a633",
+        "title": "Ep 225: Sally Phillips, Ebada Hassan & Jeanie Finlay talk docs, women and activism at Latitude 2026",
+        "published_at": "2026-08-25T17:17:25Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Girls On Film returns to Latitude for a fourth year, celebrating the festival’s 20th anniversary with a fabulous panel of women from film and TV, chaired by host Anna Smith.  \n\nFirst up, Anna welcomes actor, comedian, producer and director Sally Phillips, who talks about recent television and film roles (VIRGINIA WOOLF",
+        "audio_url": "https://feeds.soundcloud.com/stream/2388085494-user-526454021-ep-223-sally-phillips-ebada.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/ep-225-sally-phillips-ebada-hassan-jeanie-finlay-talk/id1439182513?i=1000785806718&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:f365e01dfc3f",
         "feed_title": "Alan Carr's 'Life's a Beach'",
@@ -17604,6 +17648,28 @@
         "description": "There are many types of ‘key’ on this Earth. There are those that can be played to create beautiful melodies. There are those that grant us entry through locked doors or into someone’s heart. There are those that can be pressed to type out podcast descriptions. There are even keys that can be used to unlock evenings of",
         "audio_url": "https://sphinx.acast.com/p/acast/s/the-moon-under-water/e/617aa3d0dc6ab70012861aea/media.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/tim-key-the-springfield-tavern-part-1/id1559542527?i=1000540337616&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Tim Key"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:c6031f1ae9bf",
+        "feed_title": "Hawksbee and Jacobs Daily",
+        "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
+        "dedupe_key": "885070298940a1002fcc38608b0e2a0f06d5c18f",
+        "episode_key": "885070298940a1002fcc38608b0e2a0f06d5c18f",
+        "title": "The Andy Jacobs Gadget Show",
+        "published_at": "2021-10-29T15:01:27Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Paul and Andy are joined by comedian Tim Key, Squad number 9 Martin Kelner and American Sports Expert, Todd Macklin! Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/hawksbeeandjacobs/theandyjacobsgadgetshow/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-andy-jacobs-gadget-show/id348889102?i=1000540145348&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
