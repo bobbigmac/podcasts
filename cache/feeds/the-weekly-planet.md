@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-08-24T04:04:22+00:00`
-- checked_at: `2026-08-24T04:04:22+00:00`
-- etag: `"djEuMi4wOjE3ODc1MzExMjM2NTQ="`
+- fetched_at: `2026-08-27T14:11:22+00:00`
+- checked_at: `2026-08-27T14:11:22+00:00`
+- etag: `"djEuMi4wOjE3ODc4Mzc0MzkzNDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-08-24T04:04:22+00:00",
+  "fetched_at": "2026-08-27T14:11:22+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "cd402b0141893b3eb109397b3bc5751ca8f817dd",
+      "title": "Resident Evil: Extinction - Caravan Of Garbage",
+      "published_at": "2026-08-27T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/resident-evil-extinction-caravan-of-garbage",
+      "description": "The end of this third entry in the franchise officially marks the halfway point of our look at the six Milla Jovovich/Paul WS Anderson Resident Evil movies. And it might just be the highpoint of the series. Undead crows, dried out beef jerky desert zombies, a Mad Max setting plus the inclusion of both Claire Redfield and Albert Wesker, essential video game characters! These movies are good and will almost certainly without question remain good from here on out. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Video Edition ► Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a7be50d1549db32d46459a5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26616406",
+      "itunes_duration": "25:23",
+      "speakers": [
+        "Resident Evil",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "resident",
+        "evil",
+        "extinction",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "3d065c77ed142d2a66e803df30f910a85e727085",
       "title": "637 Lanterns Episode One & D23 Big News Catch-Up",
@@ -22962,6 +22986,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — Resident Evil: Extinction - Caravan Of Garbage — speakers: Resident Evil, James Clement, Nick Mason
 - 2026-08-23 — 637 Lanterns Episode One & D23 Big News Catch-Up — speakers: Big News Catch, James Clement, Nick Mason
 - 2026-08-20 — Resident Evil: Apocalypse - Caravan Of Garbage — speakers: Milla Jo, James Clement, Nick Mason
 - 2026-08-17 — 636 Marvel/Star Wars Crossover & The End of Oak Street — speakers: Star Wars Crossover, Oak Street Unfortunately, James Clement, Nick Mason

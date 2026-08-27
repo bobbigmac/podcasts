@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-08-20T09:49:33+00:00`
-- checked_at: `2026-08-20T09:49:33+00:00`
-- last_modified: `Thu, 20 Aug 2026 09:00:00 GMT`
+- fetched_at: `2026-08-27T14:11:22+00:00`
+- checked_at: `2026-08-27T14:11:22+00:00`
+- last_modified: `Thu, 27 Aug 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-20T09:49:33+00:00",
+  "fetched_at": "2026-08-27T14:11:22+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,49 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "6d8dbf23b9b160aef81f1bef95d5bbed0e2f1a5d",
+      "title": "How to Unlock the Creativity You Already Have",
+      "published_at": "2026-08-27T09:00:00+00:00",
+      "link": null,
+      "description": "What if creativity isn’t a talent you’re born with, but a muscle you’ve simply stopped using? In Daily Creative , Blythe Harris and Mallory May make the case that everyone is creative — even the people convinced they can’t draw, paint, write, or make anything “good.” The real problem is that perfectionism, routine, and our obsession with getting things right have trained many of us to stop experimenting altogether. In this conversation with Rufus, Blythe and Mallory reveal why even a few minutes of creative play can boost well-being, sharpen your thinking, and pull you out of autopilot. They share simple ways to quiet your inner critic, explain why constraints can actually make you more creative, and show how noticing what catches your eye can help you develop a point of view that’s genuinely your own. And in an age of AI and automation, they argue that exercising your creativity may matter more than ever. 📕 Learn more about Blythe and Mallory’s book at https://dailycreative.com/ and be sure to check out their Substack: https://dailycreative.substack.com/ 🎥 The Next Big Idea is now on YouTube! You can find our episodes ⁠ ⁠⁠⁠⁠here⁠⁠⁠⁠⁠ . ✉️ Follow Rufus on ⁠⁠⁠LinkedIn⁠⁠⁠⁠ , subscribe to our ⁠⁠⁠Substack⁠⁠⁠⁠ , or send us an email at ⁠⁠podcast@nextbigideaclub.com⁠⁠. Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free Wealthfront — Earn up to 4.30% APY with Wealthfront's high-yield cash account for a limited time at wealthfront.com/nbi *** Wealthfront Disclosures: This experience may not be representative of other Wealthfront clients, and there is no guarantee of future performance or success. Experiences will vary. The host of The Next Big Idea, Caleb Bissinger (“Media Partner”), is a client of Wealthfront. The Media Partner receives cash compensation from Wealthfront Brokerage for this paid endorsement placed in their podcast, creating a conflict of interest. More details available via the referral link. The Direct Deposit Plus Investing Program from Wealthfront Advisers LLC and Wealthfront Brokerage LLC provides eligible clients a 0.25% APY increase above the base APY on eligible Cash Account balances (up to an overall boosted rate of 4.30% for a limited time when including the three month 0.75% APY boost for new clients) when you direct deposit $1,000 a month, plus open, fund, and maintain an investing account. Wealthfront may change or end the program at any time and determine eligibility at its discretion. Terms apply. Full details at wealthfront.com/promo-terms. The Cash Account, which is not a deposit account, is offered by Wealthfront Brokerage LLC (\"Wealthfront Brokerage\"), Member FINRA/SIPC. Wealthfront Brokerage is not a bank. The Annual Percentage Yield (\"APY\") on cash deposits as of January 30, 2026, is representative, requires no minimum, and may change at any time. References to the APY for the Wealthfront Cash Account, including any APY increase, are to the APY paid by insured depository institutions that participate in our cash sweep program (the \"Program Banks”). Wealthfront Brokerage does not pay interest. Funds in the Cash Account are swept to Program Banks where they earn a variable APY and are eligible for FDIC insurance. Conditions apply. For a list of Program Banks, see: www.wealthfront.com/programbanks. FDIC pass-through insurance, which protects against the failure of Program Banks, not Wealthfront, is not provided until the funds arrive at the Program Banks. While funds are at Wealthfront Brokerage, and while they are transitioning to and/or from Wealthfront Brokerage to the Program Banks, the funds are eligible for SIPC protection up to the $250,000 limit for cash. FDIC insurance is limited to $250,000 per customer, per bank, regardless of whether those deposits are placed through Wealthfront Brokerage. You are responsible for monitoring your total deposits at each Program Bank to stay within FDIC limits. Wealthfront works with multiple Program Banks to make available up to $8 million ($16 million for joint accounts) of pass-through FDIC coverage for your cash deposits. For more info on FDIC insurance coverage, visit www.FDIC.gov. Same-day withdrawal or instant payment transfers may be limited by destination institutions, daily transaction caps, and by participating entities such as Wells Fargo, the RTP® Network, and FedNow® Service. New Cash Account deposits are subject to a 2-4 day holding period before becoming available for transfer. Fees & Eligibility requirements may apply to certain checking features. Investing involves risk, including the possible loss of principal. Securities investments are not bank deposits, bank-guaranteed or FDIC-insured, and may lose value. Product images are for illustrative purposes and do not reflect individual experiences, account balances, or performance.",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP8895487696.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4178",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "creativity"
+      ]
+    },
+    {
+      "key": "f4130c762aeeef0f1d262247d1c12b97038b8dc0",
+      "title": "Caroline Webb on the Leadership Skills AI Can’t Replace",
+      "published_at": "2026-08-24T09:00:00+00:00",
+      "link": null,
+      "description": "Want to be a better leader? Start by doing less. In her new book, Leadership Intelligence , Caroline Webb shows how smart delegation, ruthless prioritization, and the right time management techniques can help you make better decisions. In this episode, Caroline and Rufus discuss how to be a better leader by using your time more intentionally, delegating work you should no longer own, and helping your team do their best thinking. Caroline shares practical tools for team management, decision-making, communication skills, saying no without damaging relationships, avoiding multitasking, and focusing on the highest and best use of your leadership. __________ Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free Wealthfront — Earn up to 4.30% APY with Wealthfront's high-yield cash account for a limited time at wealthfront.com/nbi Wealthfront Disclosures: This experience may not be representative of other Wealthfront clients, and there is no guarantee of future performance or success. Experiences will vary. The host of The Next Big Idea, Caleb Bissinger (“Media Partner”), is a client of Wealthfront. The Media Partner receives cash compensation from Wealthfront Brokerage for this paid endorsement placed in their podcast, creating a conflict of interest. More details available via the referral link. The Direct Deposit Plus Investing Program from Wealthfront Advisers LLC and Wealthfront Brokerage LLC provides eligible clients a 0.25% APY increase above the base APY on eligible Cash Account balances (up to an overall boosted rate of 4.30% for a limited time when including the three month 0.75% APY boost for new clients) when you direct deposit $1,000 a month, plus open, fund, and maintain an investing account. Wealthfront may change or end the program at any time and determine eligibility at its discretion. Terms apply. Full details at wealthfront.com/promo-terms. The Cash Account, which is not a deposit account, is offered by Wealthfront Brokerage LLC (\"Wealthfront Brokerage\"), Member FINRA/SIPC. Wealthfront Brokerage is not a bank. The Annual Percentage Yield (\"APY\") on cash deposits as of January 30, 2026, is representative, requires no minimum, and may change at any time. References to the APY for the Wealthfront Cash Account, including any APY increase, are to the APY paid by insured depository institutions that participate in our cash sweep program (the \"Program Banks”). Wealthfront Brokerage does not pay interest. Funds in the Cash Account are swept to Program Banks where they earn a variable APY and are eligible for FDIC insurance. Conditions apply. For a list of Program Banks, see: www.wealthfront.com/programbanks. FDIC pass-through insurance, which protects against the failure of Program Banks, not Wealthfront, is not provided until the funds arrive at the Program Banks. While funds are at Wealthfront Brokerage, and while they are transitioning to and/or from Wealthfront Brokerage to the Program Banks, the funds are eligible for SIPC protection up to the $250,000 limit for cash. FDIC insurance is limited to $250,000 per customer, per bank, regardless of whether those deposits are placed through Wealthfront Brokerage. You are responsible for monitoring your total deposits at each Program Bank to stay within FDIC limits. Wealthfront works with multiple Program Banks to make available up to $8 million ($16 million for joint accounts) of pass-through FDIC coverage for your cash deposits. For more info on FDIC insurance coverage, visit www.FDIC.gov. Same-day withdrawal or instant payment transfers may be limited by destination institutions, daily transaction caps, and by participating entities such as Wells Fargo, the RTP® Network, and FedNow® Service. New Cash Account deposits are subject to a 2-4 day holding period before becoming available for transfer. Fees & Eligibility requirements may apply to certain checking features. Investing involves risk, including the possible loss of principal. Securities investments are not bank deposits, bank-guaranteed or FDIC-insured, and may lose value. Product images are for illustrative purposes and do not reflect individual experiences, account balances, or performance.",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP5131389378.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3648",
+      "speakers": [
+        "Caroline Webb",
+        "Leadership Intelligence",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "caroline",
+        "webb",
+        "leadership",
+        "skills"
+      ]
+    },
     {
       "key": "9aba269f178f2c1a37902b5488f7106faddf9528",
       "title": "Can Democracy Survive the AI Revolution?",
@@ -8320,6 +8363,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — How to Unlock the Creativity You Already Have — speakers: Rufus Griscom, Caleb Bissinger
+- 2026-08-24 — Caroline Webb on the Leadership Skills AI Can’t Replace — speakers: Caroline Webb, Leadership Intelligence, Rufus Griscom, Caleb Bissinger
 - 2026-08-20 — Can Democracy Survive the AI Revolution? — speakers: Yuval Noah Harari, Rufus Griscom, Caleb Bissinger
 - 2026-08-17 — Your Mind Is a Propagandist — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-08-13 — The Bedazzling Mystery of Why We’re Here — speakers: Sara Walker, Rufus Griscom, Caleb Bissinger

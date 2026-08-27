@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-08-25T15:59:28+00:00`
-- checked_at: `2026-08-25T15:59:28+00:00`
-- etag: `"djEuMi4wOjE3ODc2NzI0MTM1NjY="`
+- fetched_at: `2026-08-27T14:11:22+00:00`
+- checked_at: `2026-08-27T14:11:22+00:00`
+- etag: `"djEuMi4wOjE3ODc4MDY4Mzk4MjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-08-25T15:59:28+00:00",
+  "fetched_at": "2026-08-27T14:11:22+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3e53c917c0a0859995e70fc1ac0ecd444d398146",
+      "title": "Stevie Martin (2021): ComCompendium",
+      "published_at": "2026-08-27T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/stevie-martin-2021-comcompendium",
+      "description": "Welcome back for another ComCompendoum, this time with Stevie Martin where we discuss: the huge amount of time and prep that goes into her work the internal battle to feel like a “proper comedian” in an industry that prioritises certain styles, backgrounds and looks. her brilliant former sketch outfit Massive Dad and whether their aesthetic made them “unapproachable” as performers the relative loneliness of stand-up and trying to love Edinburgh in the way that it deserves to be loved Join the Insiders Club at patreon.com/comcompod where you can instantly get access to the full back catalogue of extras including with Stevie! 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content you can't find anywhere else ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly-ish Stu&As Catch Up with Stevie: Find out when Stevie Martin is performing near you at steviemartin.com . You can also keep up-to-date on Instagram, @5tevieM . Everything I'm up to: Come and see me LIVE - find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1787434109758-417ee79e-7c92-4d4c-a651-61ccd98e0588.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a8a13ee20cb324b77b9bb1e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60326556",
+      "itunes_duration": "1:02:50",
+      "speakers": [
+        "Stevie Martin",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "stevie",
+        "martin",
+        "comcompendium"
+      ]
+    },
     {
       "key": "799e504eb36bb8bcae9794f59307425c37869bc1",
       "title": "I'm In Edinburgh!",
@@ -11714,6 +11735,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — Stevie Martin (2021): ComCompendium — speakers: Stevie Martin, Stuart Goldsmith
 - 2026-08-17 — I'm In Edinburgh! — speakers: Stuart Goldsmith
 - 2026-08-13 — Nish Kumar Returns, Again! | Part Two — speakers: Kumar Returns, Stuart Goldsmith
 - 2026-08-07 — Nish Kumar Returns, Again! | Part One — speakers: Kumar Returns, Stuart Goldsmith

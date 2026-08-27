@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-26T04:02:08+00:00`
-- checked_at: `2026-08-26T04:02:08+00:00`
-- etag: `"djEuMi4wOjE3ODc3MDk2Mzk0ODc="`
+- fetched_at: `2026-08-27T14:11:22+00:00`
+- checked_at: `2026-08-27T14:11:22+00:00`
+- etag: `"djEuMi4wOjE3ODc3OTYwMzk1NzU="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-26T04:02:08+00:00",
+  "fetched_at": "2026-08-27T14:11:22+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,27 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "38d44d0b9d4d78f7380506acf39f1c71b61cf8cf",
+      "title": "S16 Ep 897: David’s Holiday Departure",
+      "published_at": "2026-08-27T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-897-davids-holiday-departure",
+      "description": "It’s the day before David embarks on his month-long campervan holiday, touring around Europe with his family. So he and Joe use today’s show to have a run through of all David’s hopes, fears and preparations for the adventure ahead of him. And also talk about something for 15 minutes that we can’t put out, so it’s a sightly shorter show than it would have been otherwise. As the trip actually began in late July and David’s been away for most of August, some of the timings do become a little topsy-turvey - but it should all make sense in the end. Happy listening! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a7eb36cf8e81c4395c20442/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30945697",
+      "itunes_duration": "32:14",
+      "speakers": [
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "holiday",
+        "departure"
+      ]
+    },
     {
       "key": "1d03c696d7553dec76098e4cdc1971f42ba67402",
       "title": "S16 Ep 896: Pop-Up Tents and Haemorrhoid Tablets Pt 2",
@@ -16131,6 +16152,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — S16 Ep 897: David’s Holiday Departure — speakers: Joe Wilkinson, David Earl
 - 2026-08-26 — S16 Ep 896: Pop-Up Tents and Haemorrhoid Tablets Pt 2 — speakers: Joe Wilkinson, David Earl
 - 2026-08-25 — S16 Ep 895: Pop-Up Tents and Haemorrhoid Tablets Pt 1 — speakers: Joe Wilkinson, David Earl
 - 2026-08-24 — S16 Ep 894 Vault Mondays: Window Cleaning and Smoking Cigarettes — speakers: Joe Wilkinson, David Earl

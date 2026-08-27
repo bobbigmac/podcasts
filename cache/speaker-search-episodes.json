@@ -13408,6 +13408,28 @@
     ],
     "sally-phillips": [
       {
+        "feed_slug": "external:apple:920bd5a9c5cc",
+        "feed_title": "Entertainment & Celebrity News Today | 2 Min News | The Daily News Now!",
+        "source_rss_url": "https://feeds.fastcast.ai/entertainment-news-daily-news-now.xml",
+        "dedupe_key": "3199f454b71cd5146893cad87cbb923bbbd8f339",
+        "episode_key": "3199f454b71cd5146893cad87cbb923bbbd8f339",
+        "title": "Sally Phillips Slams BBC Comedy Bias | Entertainment and Celebrity News",
+        "published_at": "2026-08-26T23:33:01Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Sally Phillips blasts the BBC for its dismal track record on gender diversity in comedy, revealing that just 8% of scripted comedies are written by women — a number that plummets even further when excluding writers married to commissioners. She highlights the systemic exclusion of women of color, who despite being unde",
+        "audio_url": "https://api.fastcast.ai/audio/4c2c5ebb-6e1b-40ad-b635-1636f74c762c.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/sally-phillips-slams-bbc-comedy-bias-entertainment/id1880937045?i=1000786136019&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:bba850ce1777",
         "feed_title": "Girls On Film",
         "source_rss_url": "https://feeds.soundcloud.com/users/soundcloud:users:255260763/sounds.rss",

@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-08-20T07:05:26+00:00`
-- checked_at: `2026-08-20T07:05:26+00:00`
+- fetched_at: `2026-08-27T14:11:22+00:00`
+- checked_at: `2026-08-27T14:11:22+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 20 Aug 2026 06:22:25 GMT`
+- last_modified: `Thu, 27 Aug 2026 10:31:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-20T07:05:26+00:00",
+  "fetched_at": "2026-08-27T14:11:22+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6d7320fe0b2317933aa86c662a15afd570599062",
+      "title": "JB Gill",
+      "published_at": "2026-08-27T04:00:00+00:00",
+      "link": null,
+      "description": "This week, I am joined in the garden by the wonderful JB Gill ! 🚜 From boyband sensation JLS to The One Show sofa, there's plenty of reasons to know JB, and these days he’s just as at home in a pair of wellies as he is on stage! It was such a pleasure to have him pop by for a spot of Pottering. 🌱 We chat about boybands and barnyards, the beauty of bees, and teaching the next generation all about the countryside on CBeebies. We also hear about his appearance on ITV’s The Box which is all rather exciting! So, without wanting to Beat Again around the bush, pull on your wellies, pop the kettle on and join us for some Pottering. 🪴 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, or leave a review! @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8b631aa8-a15a-11f1-b2fc-6b34d99ea54c/image/375e8abea3d66df00f5d3c4be53b5710.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR3737241912.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3682",
+      "speakers": [
+        "JB Gill",
+        "Tom Allen"
+      ],
+      "topics": [
+        "gill"
+      ]
+    },
     {
       "key": "0ddb53b94dc96c1649fd2c811d335a32fc59a06e",
       "title": "Gaby French",
@@ -1023,6 +1042,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — JB Gill — speakers: JB Gill, Tom Allen
 - 2026-08-20 — Gaby French — speakers: Gaby French, Tom Allen
 - 2026-08-13 — Nina Conti — speakers: Nina Conti, Tom Allen
 - 2026-08-06 — Anna Haugh — speakers: Anna Haugh, Tom Allen

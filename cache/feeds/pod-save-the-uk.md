@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-08-20T01:51:21+00:00`
-- checked_at: `2026-08-20T01:51:21+00:00`
-- etag: `W/"3d65a4da797d0758f9f2aff4388d7ebc"`
-- last_modified: `Thu, 20 Aug 2026 01:00:00 GMT`
+- fetched_at: `2026-08-27T14:11:22+00:00`
+- checked_at: `2026-08-27T14:11:22+00:00`
+- etag: `W/"634e1cc8a3ec064c0da39b93baced5a8"`
+- last_modified: `Thu, 27 Aug 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-08-20T01:51:21+00:00",
+  "fetched_at": "2026-08-27T14:11:22+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -30,11 +30,37 @@
   ],
   "episodes": [
     {
+      "key": "9b40bde934f93a7557a352015a43b51b40123622",
+      "title": "Britain’s Rotting Barrel: it’s time to use the ‘C’ word w/ Robert Barrington",
+      "published_at": "2026-08-27T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8945639",
+      "description": "This week, we take a minute to remember dear Dolly Parton (Comrade Dolly!); an extraordinary force of nature, talented musician, incredibly generous person and fierce ally, whose kindness and positivity inspired millions across the world–we’ve lost one of the good ones. Meanwhile, Coco gets the lowdown from Cody about his latest video being flagged for bullying (billionaire Mark Zuckerberg?!) during Meta’s child privacy trial. Since we recorded this episode, Meta has settled for $17bn, agreeing major changes to its platforms including usage limits and nighttime blocks. Also, Reform is at it again, unveiling a policy to prioritise social housing for ‘British born workers’ and married couples. But…you have to keep your gardens tidy? Coco & Cody discuss what sits at the heart of this latest divisive declaration. And: are we living in a Corrupted Kingdom? Robert Barrington thinks so. As the former head of Transparency International and professor of Anti-Corruption, he joins us to talk about why we’re reluctant to use the ‘C’ word in the UK, and what we can do to safeguard against corruption across all aspects of British society. USEFUL LINKS https://www.transparency.org/en https://antislapp.uk/ Buy Robert’s Book! https://www.waterstones.com/book/corrupted-kingdom/robert-barrington/9781805223153 CHECK OUT THESE DEALS FROM OUR SPONSORS INCOGNI: https://www.incogni.com/podsavetheuk Code: podsavetheuk HEXCLAD: https://www.hexclad.co.uk/PSTUK SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is an Intelligence Squared production for Crooked Media. Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43810146/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8945639.mp3?modified=1787764595&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5028",
+      "speakers": [
+        "Robert Barrington",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "britain",
+        "rotting",
+        "barrel",
+        "time",
+        "word",
+        "robert",
+        "barrington"
+      ]
+    },
+    {
       "key": "a6c028705a8f36d5547926cdb37715590936049c",
       "title": "The Nuance Drought: False Binaries and Critical Friends w/ Natasha Devon",
       "published_at": "2026-08-20T01:00:00+00:00",
       "link": "https://audioboom.com/posts/8943018",
-      "description": "This week, it’s Coco & Cody Dahler while Nish is away at the Fringe! As the country reels from the shocking news of Jason Arday’s death, they’re joined by broadcaster and writer Natasha Devon to reflect on the role of legacy media, and where the line is drawn between public interest and pile ons. Also: is Britain living through a ‘nuance drought’? Coco, Cody, and Natasha wrestle with the decline of the ‘critical friend’ perspective, and ask how we can bring back the grey area when people are encouraged to pick a side–not just in politics, but wider society. And when pain is preferred to certainty, is Farage the devil we know? They discuss ideological fault lines, false binaries, social media bans, and burning everything down… USEFUL LINKS If you have been affected by any of the issues raised during this episode, you can call the Samaritans on 116 123 or visit www.samaritans.org Pre-order Natasha’s book here: https://www.waterstones.com/book/the-nuance-drought/natasha-devon/9781837733170 Petition demanding a public inquiry into Jason Arday’s death: https://goodlawproject.org/petition/jason-arday-letter/ ‘Farage Fest’ AI music video: https://x.com/reformparty_uk/status/2089464382925205526 CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is an Intelligence Squared production for Crooked Media. Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "description": "This week, it’s Coco & Cody Dahler while Nish is away at the Fringe! With the recent, shocking news of Jason Arday’s death, they’re joined by broadcaster and writer Natasha Devon to reflect on the role of legacy media, and where the line is drawn between public interest and pile ons. Also: is Britain living through a ‘nuance drought’? Coco, Cody, and Natasha wrestle with the decline of the ‘critical friend’ perspective, and ask how we can bring back the grey area when people are encouraged to pick a side–not just in politics, but wider society. And when pain is preferred to certainty, is Farage the devil we know? They discuss ideological fault lines, false binaries, social media bans, and burning everything down… USEFUL LINKS If you have been affected by any of the issues raised during this episode, you can call the Samaritans on 116 123 or visit www.samaritans.org Pre-order Natasha’s book here: https://www.waterstones.com/book/the-nuance-drought/natasha-devon/9781837733170 Petition demanding a public inquiry into Jason Arday’s death: https://goodlawproject.org/petition/jason-arday-letter/ ‘Farage Fest’ AI music video: https://x.com/reformparty_uk/status/2089464382925205526 CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is an Intelligence Squared production for Crooked Media. Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43799706/s=1400x1400/el=1/rt=fill.jpg",
       "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943018.mp3?modified=1787158117&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
@@ -613,10 +639,10 @@
       "link": "https://audioboom.com/posts/8866226",
       "description": "This week Nish and Coco are joined by friend of the pod, Ash Sarkar from Novara Media to talk about political scandal, trust and compromise. Ash’s book, Minority Rule, has a new afterword which talks about two progressive movements which have tried to build different kinds of relationships with voters. Is that the way forward - or are we stuck in an endless cycle of broken promises from our leaders? One of those leaders - Keir Starmer - seems to be lurching from crisis to nightmare, so can he rise above the latest headlines about Peter Mandelson’s arrest and the Labour Together scandal? Plus Reform’s new immigration policies, the new proposals to change the SEND system - and some good news about two protest groups. CHECK OUT THESE DEALS FROM OUR SPONSORS BABBEL: https://www.babbel.com/PSUK WISE: https://www.wise.com SURFSHARK: https://www.surfshark.com/podsave CODE: PODSAVE GUESTS Ash Sarkar, Contributing Editor at Novara Media and author of Minority Rule: Adventures in the Culture War - out now in paperback. USEFUL LINKS Jumaane Williams’ thoughtful response following the outcry about the handling of a racial slur at the Baftas. https://www.youtube.com/watch?v=FgaqKIxS4Hs&t=1s CREDITS Daily Express - YouTube Nigel Farage - YouTube @ sendra.uk - Instagram Nida Jafri Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43496983.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8866226.mp3?modified=1772055194&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8866226.mp3?modified=1787634237&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3398",
+      "itunes_duration": "3058",
       "speakers": [
         "Ash Sarkar",
         "Nish Kumar",
@@ -4117,6 +4143,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — Britain’s Rotting Barrel: it’s time to use the ‘C’ word w/ Robert Barrington — speakers: Robert Barrington, Nish Kumar, Coco Khan
 - 2026-08-20 — The Nuance Drought: False Binaries and Critical Friends w/ Natasha Devon — speakers: Natasha Devon, Nish Kumar, Coco Khan
 - 2026-08-06 — What happens if no one votes in the Clacton s**tshow? And what's Nish's favourite pizza? Question Time - PSUK-style — speakers: Nish Kumar, Coco Khan
 - 2026-07-30 — The Exxon Heatwave: Climate Crisis & Denial w/ Simon Clark. Plus, Save Our Humanities! — speakers: Simon Clark, Nish Kumar, Coco Khan
