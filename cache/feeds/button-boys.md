@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-08-20T01:51:21+00:00`
-- checked_at: `2026-08-20T01:51:21+00:00`
-- last_modified: `Wed, 19 Aug 2026 23:07:28 GMT`
+- fetched_at: `2026-08-27T00:47:51+00:00`
+- checked_at: `2026-08-27T00:47:51+00:00`
+- last_modified: `Wed, 26 Aug 2026 23:07:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-20T01:51:21+00:00",
+  "fetched_at": "2026-08-27T00:47:51+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,57 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "f4bfde78805ea15b6170582f5c159a65e1407f13",
+      "title": "You've Got to Be F***ing Kidding Me",
+      "published_at": "2026-08-26T23:00:00+00:00",
+      "link": null,
+      "description": "We've all had those moments. You put down the controller, take a long, measured breath and express your absolute shock/consternation/contempt/awe (delete as applicable) with the phrase, 'You've got to be f***ing kidding me!' This week the Boys relive their most jaw-dropping debacles. Whether it's realising they can't complete a game because of a terrible decision, treacherous save points, game-changing power-ups or the simple act of a bad throw, you'll find it hard not to feel their pain. Before all that though, we catch up on their weeks, Sarah's been saddened by a clear statement on the climate crisis through the eyes of James Bond, Pierre's increasingly frustrated by Heavy Rain and Glenn's found himself surrounded by dead bodies and armed only with a notebook and a time machine. Standard Thursday for him, then. To follow along with the Button Boys outside the podcast: ⁠ Pierre's Edinburgh Show ⁠ Glenn's Edinburgh Show ⁠ Sarah's Edinburgh Show ⁠ BUTTON BOYS LIVE! If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Heavy Rain playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Milk inside a bag of milk inside a bag of milk The Incident at Galley House Milk outside a bag of milk outside a bag of milk Heavy Rain Type Help The Rootrees are Dead Return of the Obra Dinn TR-49 The Séance of Blake Manor Hell Let Loose 007 First Light Uncharted 4: A Thief's End The Last of Us Part II The Legend of Zelda: Breath of the Wild Cairn Final Fantasy XIII Final Fantasy XIV Hollow Knight Hollow Knight: Silksong Celeste Dark Souls Two Point Hospital Disco Elysium Fall Guys The Elder Scrolls IV: Oblivion Balatro Horizon Zero Dawn God of War Legacy of Kain: Soul Reaver The Witcher 3: Wild Hunt Baldur's Gate 3 Stardew Valley Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR9520121862.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3025",
+      "speakers": [
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "youve",
+        "kidding"
+      ]
+    },
+    {
+      "key": "8e9b152db4ec29dc79529027793acb1835d5c064",
+      "title": "Button Boys Presents: Hell Let Loose Vietnam (Sponsored)",
+      "published_at": "2026-08-23T23:00:00+00:00",
+      "link": null,
+      "description": "*Cues Fortunate Son* Bone spurs will not save you from this very special episode of Button Boys, brought to you by Hell Let Loose: Vietnam. So don your warpaint and load up the Huey because we're in for a wild ride. And by wild ride I mean Sarah, Glenn and of course Pierre have been getting to grips with Hell Let Loose: Vietnam. From hidden boat attacks, helicopter evacs and dragging your teammates to safety, to tactical mastery, the horrors of war and Pierre's new codename, the Boys are here to talk you through their experiences in the jungles, mountains and villages of Vietnam. If you enjoyed this episode and you want to get stuck in, Hell Let Loose: Vietnam is now available on PC, PlayStation and Xbox. Head on over to the Discord to find out about our upcoming plans with Hell Let Loose and sign up to the official Button Boys battalion. To follow along with the Button Boys outside the podcast: ⁠ Pierre's Edinburgh Show ⁠ Sarah's Edinburgh Show ⁠ BUTTON BOYS LIVE! If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Hitman: World of Assassination playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR6143065452.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3119",
+      "speakers": [
+        "Button Boys Presents",
+        "Hell Let Loose Vietnam",
+        "Cues Fortunate Son",
+        "Button Boys",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "button",
+        "boys",
+        "presents",
+        "hell",
+        "loose",
+        "vietnam",
+        "sponsored"
+      ]
+    },
     {
       "key": "bdaa798451742abdf50a0151f9b8252427da7b0b",
       "title": "One and Done: Games We’d Never Play Again",
@@ -1356,6 +1407,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-26 — You've Got to Be F***ing Kidding Me — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
+- 2026-08-23 — Button Boys Presents: Hell Let Loose Vietnam (Sponsored) — speakers: Button Boys Presents, Hell Let Loose Vietnam, Cues Fortunate Son, Button Boys, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-08-19 — One and Done: Games We’d Never Play Again — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-08-12 — Food, Glorious Food (and Drink) — speakers: Glorious Food, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-08-05 — The Future is Now: Times When Our Minds Were Blown — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie

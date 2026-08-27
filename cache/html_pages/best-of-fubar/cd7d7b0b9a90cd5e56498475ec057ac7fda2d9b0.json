@@ -1,12 +1,25 @@
 {
   "url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=11",
   "resolved_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=11",
-  "fetched_at": "2026-08-26T01:57:52+00:00",
+  "fetched_at": "2026-08-27T00:47:51+00:00",
   "etag": null,
   "last_modified": null,
   "page_title": "",
   "next_page_url": "https://www.fubarradio.com/player/on-demand/best-of-fubar/?page=12",
   "episodes": [
+    {
+      "key": "1d09244e6e63f3fc6bc8bb8905cc35b37df5d921",
+      "guid": "fb2c9dcb-125d-4e60-a49e-959b2bf808e9",
+      "title": "Best of FUBAR (31st October)",
+      "published_at": "2025-10-31T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-31st-october1/",
+      "description": "A selection of highlights from the FUBAR vaults.",
+      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1761872605-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=fb2c9dcb-125d-4e60-a49e-959b2bf808e9&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "f1daa168817d4f308775d069bd2c695256bb5c7a",
       "guid": "b2caab23-6483-4303-972e-909afff6c7c0",
@@ -380,19 +393,6 @@
       "description": "A selection of highlights from the FUBAR vaults.",
       "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
       "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1759363429-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=d1248240-192f-4e31-bb36-8cf860efbbf3&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": 0,
-      "itunes_duration": null
-    },
-    {
-      "key": "d4e3690ef7b344a37704b3834881f0901f945842",
-      "guid": "09078ca6-0e3c-411d-901e-5151061226df",
-      "title": "Best of FUBAR (1st October)",
-      "published_at": "2025-10-01T00:00:00+00:00",
-      "link": "https://www.fubarradio.com/player/on-demand/items/best-of-fubar-1st-october1/",
-      "description": "A selection of highlights from the FUBAR vaults.",
-      "image_url": "https://mmo.aiircdn.com/80/66bdd6c192b29.jpg",
-      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1759277023-best_of_fubar.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=09078ca6-0e3c-411d-901e-5151061226df&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": 0,
       "itunes_duration": null

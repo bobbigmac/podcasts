@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-08-24T01:56:53+00:00`
-- checked_at: `2026-08-24T01:56:53+00:00`
-- last_modified: `Sun, 23 Aug 2026 23:15:11 GMT`
+- fetched_at: `2026-08-27T00:47:51+00:00`
+- checked_at: `2026-08-27T00:47:51+00:00`
+- last_modified: `Wed, 26 Aug 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-24T01:56:53+00:00",
+  "fetched_at": "2026-08-27T00:47:51+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "45dd8dc413bd4c5f6dec40a3e4f062ef9ef10047",
+      "title": "The Art Special : Sexy Art, Questionable Portraits and Romesh's Secret Talent",
+      "published_at": "2026-08-26T23:01:00+00:00",
+      "link": null,
+      "description": "Are Romesh and Shanthi gifted artists? In this Thursday episode of The Romesh Ranganathan Show, Romesh and Shanthi get in touch with their artistic side - welcome to The Art Special! From discussing buying art (aka poster prints), to the seductive wallpaper that Romesh couldn't ignore, Romesh and Shanthi discuss their favourite artists and try their hand at drawing each other, with surprising results. Elsewhere, Romesh considers whether he needs to take legal action on a birthday card situation and reflects on the talent that led him to be a four-time champion (a podcast exclusive). A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 02:48 Does Shanthi like art? 04:08 A game of art 9:11 Art in the home 12:12 Sexy wallpaper 12:57 Listener questions 14:14 A drawing request 18:13 The reveal 20:01 A sketch and a birthday card 22:04 Romesh’s public reading success 29:04 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/84c19bb0-a17e-11f1-b531-7fb089f660c0/image/cbe029b2e36526ea2552dcec6349a365.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4320175792.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1980",
+      "speakers": [
+        "Sexy Art",
+        "Questionable Portraits",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "special",
+        "sexy",
+        "portrait",
+        "romesh",
+        "secret",
+        "talent"
+      ]
+    },
     {
       "key": "c0cb317beb72bb951fe3147c5eec715601b25c81",
       "title": "Michael Urie On Shrinking, Working With Harrison Ford & Oh, Mary!",
@@ -56,7 +81,7 @@
       "published_at": "2026-08-19T23:01:00+00:00",
       "link": null,
       "description": "Should you stay in a situationship? In this Thursday episode of The Romesh Ranganathan Show, Romesh and Shanthi tackle your problems, from forgetting your neighbours’ names to dealing with the annoying aspects of parenthood. We also discuss Diane Morgan’s new show Ann Droid, and get into a debate on robots and their possibilities from household help to sex robots. Elsewhere, Romesh recommends Modern Family as a must-watch show and Shanthi gives her opinion on secret situationships, plus we visit a good old family memory of when Romesh and Dinesh set the sofa on fire. It's another classic Ranganathan family episode - don't miss it. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 01:10 On Diane Morgan 01:39 Shanthi’s robot experience 04:42 Sex robots 07:27 Ranganathan recommendations 11:15 An awkward name problem 15:15 Role playing Shanthi’s advice 20:41 An annoying kid question 22:14 The sofa incident 26:18 A secret situationship 33:16 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
-      "image_url": null,
+      "image_url": "https://megaphone.imgix.net/podcasts/7a6892e6-9b6a-11f1-b110-87d1f5d4279a/image/7ade0600337e57764c29c97d509eb113.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT8422138529.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
@@ -2219,6 +2244,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-26 — The Art Special : Sexy Art, Questionable Portraits and Romesh's Secret Talent — speakers: Sexy Art, Questionable Portraits, Romesh Ranganathan
 - 2026-08-23 — Michael Urie On Shrinking, Working With Harrison Ford & Oh, Mary! — speakers: Michael Urie, Romesh Ranganathan
 - 2026-08-19 — Sex Robots, Sofa Fires And Secret Situationships — speakers: Sex Robots, Romesh Ranganathan
 - 2026-08-16 — Diane Morgan On Comedy, Cunk and becoming a robot in Ann Droid — speakers: Diane Morgan, Romesh Ranganathan
