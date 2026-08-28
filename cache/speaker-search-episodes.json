@@ -5,6 +5,29 @@
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "f0950c5a3ee43157b59f70f702f2e46194d0709d",
+        "episode_key": "f0950c5a3ee43157b59f70f702f2e46194d0709d",
+        "title": "Kaya Scodelario",
+        "published_at": "2026-08-26T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week the Dream Restaurant welcomes British-Brazilian actor Kaya Scodelario – star of ‘The Maze Runner’ films, ‘Skins’ and Netflix’s ‘The Gentleman’. \nIf you’re listening on Apple Podcasts you can now watch this episode too.\nKaya Scodelario stars in Guy Ritcher’s ‘The Gentlemen’, and series 2 comes to Netflix on 3 ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a6c5b7c8fc38d720f9f24fa/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/kaya-scodelario/id1442950743?i=1000785905422&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
         "dedupe_key": "9db65d6f6c0cf6f05d863fb6437ac03e77411569",
         "episode_key": "9db65d6f6c0cf6f05d863fb6437ac03e77411569",
         "title": "Mark Gatiss",
@@ -5948,6 +5971,29 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "f0950c5a3ee43157b59f70f702f2e46194d0709d",
+        "episode_key": "f0950c5a3ee43157b59f70f702f2e46194d0709d",
+        "title": "Kaya Scodelario",
+        "published_at": "2026-08-26T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week the Dream Restaurant welcomes British-Brazilian actor Kaya Scodelario – star of ‘The Maze Runner’ films, ‘Skins’ and Netflix’s ‘The Gentleman’. \nIf you’re listening on Apple Podcasts you can now watch this episode too.\nKaya Scodelario stars in Guy Ritcher’s ‘The Gentlemen’, and series 2 comes to Netflix on 3 ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a6c5b7c8fc38d720f9f24fa/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/kaya-scodelario/id1442950743?i=1000785905422&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:41f355b38e9d",
         "feed_title": "2 Promoters, 1 Pod",
         "source_rss_url": "https://rss.buzzsprout.com/1275875.rss",
@@ -11533,6 +11579,50 @@
         "description": "Stand-up comedy hosted by Maisie Adam, and featuring Chris Cantrill, Bella Hull and Harriet Kemsley.\nExperience this year’s Edinburgh festival with exclusive sets from the cream of the comedy crop without even having to move a muscle. \nAward-winning comedian Maisie Adam (Last One Laughing UK, Taskmaster, Live At The Ap",
         "audio_url": "https://rss.art19.com/episodes/e6c5149a-0153-401e-a8f4-d620c9c1f1a1.mp3?rss_browser=BAhJIglpVE1TBjoGRVQ%3D--4577cbcc3cc5282be318e551563630a2c5c2f06f",
         "link_url": "https://podcasts.apple.com/gb/podcast/chris-cantrill-bella-hull-and-harriet-kemsley/id6802817119?i=1000784370904&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:86e8d6833f90",
+        "feed_title": "Strong Message Here",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
+        "dedupe_key": "b45e2eb8a4922b3db31161873ebdc30a7a680928",
+        "episode_key": "b45e2eb8a4922b3db31161873ebdc30a7a680928",
+        "title": "Your Next Listen: The People Have Spoken",
+        "published_at": "2026-08-24T15:16:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "While Armando is still on his summer break, Ian Smith introduces his Friday Night Comedy series, The People Have Spoken.\nIt's time for the people to speak. In this episode, Fed Up With War!, broadcast on 21 August, Ian Smith is joined by Harriet Kemsley and Ashley Storrie to take on the headlines and work out what is g",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p62jhl.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/your-next-listen-the-people-have-spoken/id1774462541?i=1000785569314&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:7ea4d7985075",
+        "feed_title": "Comedy of the Week",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/p02pc9x6.rss",
+        "dedupe_key": "8fc4e191bdd31a624522f0a7b0125701a0247191",
+        "episode_key": "8fc4e191bdd31a624522f0a7b0125701a0247191",
+        "title": "The People Have Spoken",
+        "published_at": "2026-08-24T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It's time for the people to speak. Taking on the headlines, Ian Smith is joined by Harriet Kemsley and Ashley Storrie to work out what is going on, and together with an Edinburgh Fringe audience, solve the biggest problem facing the world right now.\nWhich family member would you send to negotiate with Hamas? How should",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p5t9k9.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-people-have-spoken/id412151541?i=1000785397913&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
@@ -27809,6 +27899,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:2674489df576",
+        "feed_title": "ELIMINATION",
+        "source_rss_url": "https://rss.buzzsprout.com/1148210.rss",
+        "dedupe_key": "2f4d0e2d74c9076bff48e5be8cb05c734bca174d",
+        "episode_key": "2f4d0e2d74c9076bff48e5be8cb05c734bca174d",
+        "title": "S4 - QF - Tommy Cooper Vs Lee Mack",
+        "published_at": "2024-06-07T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Send us Fan Mail\nFinally we reach the Season 4 Quarter Finals.\n\nWho will you be our first Semi Finalist?\n\nTommy or Lee?\nSupport the show\nGet in touch at...\n\nEmail us podcastelimination@gmail.com\n\nText or send a voice message to \n07713163065 and get played on the show\n\nThanks for listening.",
+        "audio_url": "https://www.buzzsprout.com/1148210/episodes/15206814-s4-qf-tommy-cooper-vs-lee-mack.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/s4-qf-tommy-cooper-vs-lee-mack/id1523720572?i=1000658110394&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:834233f11b67",
         "feed_title": "Heart Breakfast with Jamie Theakston and Amanda Holden",
         "source_rss_url": "https://feeds.captivate.fm/heartbreakfastpodcast",
@@ -39951,6 +40063,28 @@
         "description": "Friends Round Friday is back with a superstar trio of Kylie Minogue, Joe Lycett and David Mitchell!\nKylie brings us a new pop treat, Joe gets creative and David WILL NOT DANCE!",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jt64t2.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/friends-round-friday-with-kylie-minogue-joe-lycett/id80844369?i=1000670940449&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:db720c8e8eea",
+        "feed_title": "Front Row",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/b006qsq5.rss",
+        "dedupe_key": "ebd0bedab62680337f28f092163e16f6026d9e00",
+        "episode_key": "ebd0bedab62680337f28f092163e16f6026d9e00",
+        "title": "David Mitchell on Ludwig, poet Kathleen Jamie and the world premiere of Helen Grime's Folk",
+        "published_at": "2024-09-25T19:20:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Poet Kathleen Jamie, whose tenure as Scotland's Makar, or National Poet, recently came to an end, talks about her new collection of poems written in Scots, The Keelie Hawk. \nComposer Helen Grime, soprano Claire Booth and author Zoe Gilbert chat about the world premiere of Folk, an orchestral song cycle inspired by Gilb",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0jssxz6.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/david-mitchell-on-ludwig-poet-kathleen-jamie-and/id134045372?i=1000670702659&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

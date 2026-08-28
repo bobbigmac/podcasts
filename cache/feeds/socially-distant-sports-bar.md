@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-08-26T01:57:52+00:00`
-- checked_at: `2026-08-26T01:57:52+00:00`
-- etag: `"djEuMi4wOjE3ODc2OTk4NTkzMzM="`
+- fetched_at: `2026-08-28T00:25:16+00:00`
+- checked_at: `2026-08-28T00:25:16+00:00`
+- etag: `"djEuMi4wOjE3ODc4NzI1MzkzMjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
-  "fetched_at": "2026-08-26T01:57:52+00:00",
+  "fetched_at": "2026-08-28T00:25:16+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "4666a928c24a6bcd40e427bbce7680e73b7c8f19",
+      "title": "Training In A Shed",
+      "published_at": "2026-08-27T23:15:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/training-in-a-shed",
+      "description": "More from Mike Bubbins, Elis James and Steff Garrero on this week's Socially Distant Sports Bar. It's Documentary time and it's Elis' choice this week. From the BBC archive it's an edition of \"Man Alive\" in 1969 contrasting the lives of two football managers. Bertie Mee of Arsneal and Laurie Brown at Bradford Park Avenue. It also includes former Wales manager Bobby Gould getting a bit upset at a referee. It's Steff's choice for the \"Book of the Week\", James Briggs' \"From Ibiza To The Norfolk Broads\" takes James and his bicycle on a David Bowie-inspired journey around Europe. Elis Documentary: 1969: The Life of a Football Manager | Man Alive https://m.youtube.com/watch?v=qX6YS6CxzE0&ra=m Steff Book: From Ibiza To The Norfolk Broads by JAmes Briggs https://link.amazon/B0dXKMUxe 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1786009102457-391c31fa-a815-4529-9495-d569a08195c6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a8c0d7dadc772a05e3a671b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "89531520",
+      "itunes_duration": "37:18",
+      "speakers": [
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "shed"
+      ]
+    },
     {
       "key": "5176fdd1a2d776d1958acc5677357024db14f4cf",
       "title": "What's \"Pointless\" In Welsh?",
@@ -15768,6 +15788,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — Training In A Shed — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-08-25 — What's "Pointless" In Welsh? — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-08-22 — The Camping Stove: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-20 — Sacked From The Voiceover — speakers: Elis James, Mike Bubbins, Steff Garrero

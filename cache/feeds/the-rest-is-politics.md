@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-08-27T00:47:51+00:00`
-- checked_at: `2026-08-27T00:47:51+00:00`
-- last_modified: `Wed, 26 Aug 2026 23:15:08 GMT`
+- fetched_at: `2026-08-28T00:25:16+00:00`
+- checked_at: `2026-08-28T00:25:16+00:00`
+- last_modified: `Thu, 27 Aug 2026 23:00:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-27T00:47:51+00:00",
+  "fetched_at": "2026-08-28T00:25:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,11 +26,36 @@
   ],
   "episodes": [
     {
+      "key": "14405093bebe75eae4ffab2de149a0e44c8a396a",
+      "title": "Becoming Burnham: People Pleasing, The Shadow Years and Losing to Jeremy Corbyn",
+      "published_at": "2026-08-27T22:55:00+00:00",
+      "link": null,
+      "description": "Who are the political figures that shaped Andy Burnham? How far will the new PM go to be liked? And what impact did losing to Jeremy Corbyn's popularity 'tsunami' have on his career - and confidence? Join Alastair Campbell and Steve Rotheram as they address all these questions and much more on Becoming Burnham Producer: India Dunkley Researcher: Miranda Crawford Video Editor: Josh Smith Social Producer: Celine Charles Executive Producer: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a7eddd9c-a228-11f1-8053-1f333cc8f4b5/image/57ce620055b096ea43ab393585f6b104.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2315243792.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "742",
+      "speakers": [
+        "Jeremy Corbyn",
+        "Andy Burnham"
+      ],
+      "topics": [
+        "burnham",
+        "people",
+        "pleasing",
+        "shadow",
+        "years",
+        "jeremy",
+        "corbyn"
+      ]
+    },
+    {
       "key": "2f909fa6734d56c4873f247f41b0b98a168942bc",
       "title": "566. Carney vs. Trump and Alastair’s Advice for Burnham’s First PMQs",
       "published_at": "2026-08-26T23:01:00+00:00",
       "link": null,
-      "description": "Why is Mark Carney choosing economic pain over a deal on tariffs with Trump? As Palestinians prepare to vote for the first time in 20 years, why has Mahmoud Abbas decided that now is finally the moment to hold elections, and will Israel block them? With Andy Burnham preparing for his first Prime Minister's Questions, what advice does Alastair have on where Kemi Badenoch is most likely to strike? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with the President of UEFA, Aleksander Čeferin, by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Summer sale is HERE : get an annual membership for an extra 20% off with code SUMMER26 That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Bruno Di Castri, Joe Pettit Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames General Manager: Tom Whiter Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Why is Mark Carney choosing economic pain over a deal on tariffs with Trump? As Palestinians prepare to vote for the first time in 20 years, why has Mahmoud Abbas decided that now is finally the moment to hold elections, and will Israel block them? With Andy Burnham preparing for his first Prime Minister's Questions, what advice does Alastair have on where Kemi Badenoch is most likely to strike? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with the President of UEFA, Aleksander Čeferin, by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Summer sale is HERE : get an annual membership for an extra 20% off with code SUMMER26 That's ad-free listening, every bonus episode, and full access to our exclusive members' series. Sale ends August 31st, so grab it before summer's over. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Video Editor: Bruno Di Castri, Joe Pettit Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/18798380-a158-11f1-a92b-d77a0d3c4723/image/b50b729886c1c9af1135cc5a24eb3b02.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2104052333.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12778,6 +12803,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — Becoming Burnham: People Pleasing, The Shadow Years and Losing to Jeremy Corbyn — speakers: Jeremy Corbyn, Andy Burnham
 - 2026-08-26 — 566. Carney vs. Trump and Alastair’s Advice for Burnham’s First PMQs — speakers: Mark Carney
 - 2026-08-25 — 565. Zelenskyy’s Corruption Problem and Is History Repeating Itself in Germany? — speakers: Andy Burnham
 - 2026-08-20 — Becoming Burnham: Thatcher, Hillsborough, and the Anger that Shaped Him | Part 1

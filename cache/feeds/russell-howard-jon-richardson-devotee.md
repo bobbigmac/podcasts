@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-08-27T00:47:51+00:00`
-- checked_at: `2026-08-27T00:47:51+00:00`
-- etag: `W/"56760-aBZPQxXkOUnMNZmf5giVxSnp6lM"`
+- fetched_at: `2026-08-28T00:25:16+00:00`
+- checked_at: `2026-08-28T00:25:16+00:00`
+- etag: `W/"56ec4-T44xN9/gFINhkyTCAJ6qsisYE3Q"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,57 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-08-27T00:47:51+00:00",
+  "fetched_at": "2026-08-28T00:25:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "02aac6bf39455d66300feb1f83c8a99576408fe0",
+      "title": "#34 Russell Howard & Jon Richardson Podcast Episode 34",
+      "published_at": "2026-08-27T05:31:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/34-Russell-Howard--Jon-Richardson-Podcast-Episode-34-e3nudk0",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1787770659076-5883a6527ece.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO6968018065.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "72416821",
+      "itunes_duration": "01:14:37",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "4092b4dac6a3cf13b7561f4450d5ba7505c634de",
+      "title": "#33 Russell Howard & Jon Richardson Podcast Episode 33",
+      "published_at": "2026-08-27T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/33-Russell-Howard--Jon-Richardson-Podcast-Episode-33-e3nudgf",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1787770486172-13ff67d7551a7.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO5055338098.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60442146",
+      "itunes_duration": "01:02:17",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
     {
       "key": "b4cd27e0366add3d738905807adbe770ed3f4e74",
       "title": "#32 Russell Howard & Jon Richardson Podcast Episode 32",
@@ -6065,27 +6109,6 @@
         "richardson",
         "podcast"
       ]
-    },
-    {
-      "key": "9765567f696a35f47e1cdc36df62bff89d2428d3",
-      "title": "#32 Russell Howard & Jon Richardson Podcast EP 32",
-      "published_at": "2026-01-23T06:19:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/32-Russell-Howard--Jon-Richardson-Podcast-EP-32-e3dr1tr",
-      "description": "#32 Russell Howard & Jon Richardson Podcast EP 32",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1768756800692-517a1c17be29c.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/114181499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-18%2F4c1a9150-f01e-9382-f8e7-c0c653da9af2.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "54956640",
-      "itunes_duration": "01:16:19",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
     }
   ]
 }
@@ -6094,6 +6117,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — #34 Russell Howard & Jon Richardson Podcast Episode 34 — speakers: Russell Howard, Jon Richardson
+- 2026-08-27 — #33 Russell Howard & Jon Richardson Podcast Episode 33 — speakers: Russell Howard, Jon Richardson
 - 2026-08-26 — #32 Russell Howard & Jon Richardson Podcast Episode 32 — speakers: Russell Howard, Jon Richardson
 - 2026-08-25 — #31 Russell Howard & Jon Richardson Podcast Episode 31 — speakers: Russell Howard, Jon Richardson
 - 2026-08-24 — #30 Russell Howard & Jon Richardson Podcast Episode 30 — speakers: Russell Howard
@@ -6360,4 +6385,3 @@
 - 2026-01-26 — #35 Russell Howard & Jon Richardson Podcast EP 35 — speakers: Russell Howard
 - 2026-01-25 — #34 Russell Howard & Jon Richardson Podcast EP 34 — speakers: Russell Howard
 - 2026-01-24 — #33 Russell Howard & Jon Richardson Podcast EP 33 — speakers: Russell Howard
-- 2026-01-23 — #32 Russell Howard & Jon Richardson Podcast EP 32 — speakers: Russell Howard

@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-08-24T01:56:53+00:00`
-- checked_at: `2026-08-24T01:56:53+00:00`
-- etag: `"djEuMi4wOjE3ODc1MjYxNTk0MTI="`
+- fetched_at: `2026-08-28T00:25:16+00:00`
+- checked_at: `2026-08-28T00:25:16+00:00`
+- etag: `"djEuMi4wOjE3ODc4NzE3NjAzMzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-08-24T01:56:53+00:00",
+  "fetched_at": "2026-08-28T00:25:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5d94259b9752596c37b4692ec06fb9bc009fa112",
+      "title": "My Time Capsule The Dig - Ep. 15 - With Andrew Hunter Murray from No Such Thing As A Fish",
+      "published_at": "2026-08-27T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-15-with-andrew-hunter-murray-from",
+      "description": "Andrew Hunter Murray was our guest in episode 57 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! Andrew co-hosts the award-winning podcast No Such Thing As A Fish, he writes for for Private Eye magazine, and hosts the Eye’s podcast, Page 94, He's written best selling novels and presents The Naked Week on BBC Radio 4. Also, Mike and his producer and son John chat about this weeks episodes and find out where Rex Hayes from Ted Lasso would want to bury their capsule . Listen to Andrew Hunter Murray's original episode - https://mytimecapsulepodcast.com/episodes?q=57 . Buy Andrew Hunter Murray's books here - https://www.penguin.co.uk/authors/240961/andrew-hunter-murray . Follow Andrew Hunter Murray on Instagram : @andrewhunterm . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1787834827697-cb5a9863-004e-4e5d-a993-15aa790b39b4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a90334c6cdb05b8914ee577/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55456308",
+      "itunes_duration": "46:12",
+      "speakers": [
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "andrew",
+        "hunter",
+        "murray",
+        "thing",
+        "fish"
+      ]
+    },
     {
       "key": "4d749eae7bb402854ecca0c9b2e5fa409cadf4c8",
       "title": "Ep. 602 - Rex Hayes - Star of the Emmy-winning Ted Lasso on Apple TV+",
@@ -13336,6 +13360,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — My Time Capsule The Dig - Ep. 15 - With Andrew Hunter Murray from No Such Thing As A Fish — speakers: Andrew Hunter Murray
 - 2026-08-23 — Ep. 602 - Rex Hayes - Star of the Emmy-winning Ted Lasso on Apple TV+ — speakers: Rex Hayes
 - 2026-08-20 — My Time Capsule The Dig - Ep. 14 - With Rick Wakeman — speakers: Rick Wakeman
 - 2026-08-20 — Ep. 601 - Lisa Jackson - Best selling writer and Runner’s World columnist with The Flamingo Diaries — speakers: Lisa Jackson

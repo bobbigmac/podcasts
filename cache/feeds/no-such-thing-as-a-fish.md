@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-08-21T01:56:55+00:00`
-- checked_at: `2026-08-21T01:56:55+00:00`
-- etag: `W/"b4eddd4ab8a0bf5c5384aa3f27e42f88"`
-- last_modified: `Thu, 20 Aug 2026 22:55:00 GMT`
+- fetched_at: `2026-08-28T00:25:16+00:00`
+- checked_at: `2026-08-28T00:25:16+00:00`
+- etag: `W/"3c9c1e3149433be713df2494a4393dfe"`
+- last_modified: `Thu, 27 Aug 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-08-21T01:56:55+00:00",
+  "fetched_at": "2026-08-28T00:25:16+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,52 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "5d3c5dd64a90da5f02959bce8b60e7f7b06d2cc0",
+      "title": "No Such Thing As An Emotional Support Wig",
+      "published_at": "2026-08-27T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8945974",
+      "description": "Live from the Royal Institution, Dan, James, Anna and Andy discuss boffins, blankets, baldness and Binks. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia Shopify: Stop waiting for permission to build something. Your next revenue stream starts free at shopify.co.uk",
+      "image_url": "https://audioboom.com/i/43811432.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8945974.mp3?modified=1787837025&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3375",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "emotional",
+        "support"
+      ]
+    },
+    {
+      "key": "2fcbbf4d6549dda1e7abd1a9d80f367bd18cf0a5",
+      "title": "Little Fish: Pope Guilty the First",
+      "published_at": "2026-08-23T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8943379",
+      "description": "Dan finally learns the truth about a playground rumour, while he, Anna and James discuss YOUR facts . This week's subjects include naughty Newfoundlanders, olive oil, and pointing at pumpkins. And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8943379.mp3?modified=1787228577&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1843",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "pope",
+        "guilty"
+      ]
+    },
     {
       "key": "024a3eaf99179304b69eec2d997cdf45e6dda879",
       "title": "No Such Thing As The Have An Ice Cream Bird",
@@ -16923,6 +16969,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — No Such Thing As An Emotional Support Wig — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-08-23 — Little Fish: Pope Guilty the First — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-08-20 — No Such Thing As The Have An Ice Cream Bird — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-08-16 — Little Fish: I'm Not Even On The Internet Right Now — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-08-13 — No Such Thing As Half-Past Purple — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

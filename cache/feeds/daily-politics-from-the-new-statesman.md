@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-24T15:55:15+00:00`
-- checked_at: `2026-08-24T15:55:15+00:00`
-- etag: `"djEuMi4wOjE3ODc1ODY0OTM3NjE="`
+- fetched_at: `2026-08-28T00:25:16+00:00`
+- checked_at: `2026-08-28T00:25:16+00:00`
+- etag: `"djEuMi4wOjE3ODc4NDM4NTI0Njc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-24T15:55:15+00:00",
+  "fetched_at": "2026-08-28T00:25:16+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "fd7da61084845218168b3418950e835e0be5ba12",
+      "title": "Zack Polanski's honeymoon is over",
+      "published_at": "2026-08-27T15:17:32+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/zack-polanskis-honeymoon-is-over",
+      "description": "It’s nearly a year since Zack Polanski took the reins of the Green party. In many ways the party has never been so successful – with five MPs, leading six local authorities and a leader who cuts through with the public. But now the Greens have to contend with a new – and relatively popular – Prime Minister, and internal factions within the party threaten to make life difficult for Polanski as he heads towards the summer conference. How is the Green leader faring one year on? Anoosh Chakelian is joined by Ailbhe Rea and Megan Kenyon Produced by Chris Stone LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1787843727643-5c0b87b8-5078-428b-a85d-b00381382cff.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a904ecbaa52823064bfadc2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35119438",
+      "itunes_duration": "36:34",
+      "speakers": [
+        "Zack Polanski",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "zack",
+        "polanski",
+        "honeymoon"
+      ]
+    },
     {
       "key": "aadfbed47a8e2a64531b4637c12ccf1920f20ee9",
       "title": "How will Burnham navigate the North Sea?",
@@ -32225,6 +32247,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-27 — Zack Polanski's honeymoon is over — speakers: Zack Polanski, Anoosh Chakelian, Oli Dugmore
 - 2026-08-24 — How will Burnham navigate the North Sea? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-08-22 — Is the UK really poorer than Mississippi? — speakers: Richard Tice, Anoosh Chakelian, Oli Dugmore
 - 2026-08-20 — Will Andy Burnham call an early election? — speakers: Will Andy Burnham, Anoosh Chakelian, Oli Dugmore
