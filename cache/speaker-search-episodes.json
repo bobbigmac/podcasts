@@ -24099,6 +24099,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:7ab64334a67c",
+        "feed_title": "The Green Man Podcast",
+        "source_rss_url": "https://feeds.megaphone.fm/GLT9640995357",
+        "dedupe_key": "2071c75e67123d53d9ce463b7e1f58cebb5a7c8e",
+        "episode_key": "2071c75e67123d53d9ce463b7e1f58cebb5a7c8e",
+        "title": "Charlotte Church & Stewart Lee",
+        "published_at": "2026-08-28T00:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Comedy legend and \"world's greatest living stand-up\" Stewart Lee chats to national treasure and Pop Dungeon ringleader Charlotte Church. They natter about Stewart's involvement in the origin of the dungeon, and it's latest End Times incarnation, which took Far Out by storm on Thursday night.",
+        "audio_url": "https://traffic.megaphone.fm/KILM4209291872.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/charlotte-church-stewart-lee/id1701170588?i=1000786373462&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:25f0d9047827",
         "feed_title": "C86 Show - Indie Pop",
         "source_rss_url": "https://feed.podbean.com/thec86show/feed.xml",

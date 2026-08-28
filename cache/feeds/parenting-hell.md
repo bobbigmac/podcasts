@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-08-25T09:50:42+00:00`
-- checked_at: `2026-08-25T09:50:42+00:00`
-- last_modified: `Tue, 25 Aug 2026 08:19:49 GMT`
+- fetched_at: `2026-08-28T15:21:22+00:00`
+- checked_at: `2026-08-28T15:21:22+00:00`
+- last_modified: `Fri, 28 Aug 2026 07:32:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/b2aa3247887f1870e2463ba16df8b5ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-25T09:50:42+00:00",
+  "fetched_at": "2026-08-28T15:21:22+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,52 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e922ada3e1a4bf5db6539a7d607bf31be065a7a2",
+      "title": "S13 EP12: Andy Parsons",
+      "published_at": "2026-08-28T07:08:00+00:00",
+      "link": null,
+      "description": "Joining us this episode to discuss the highs and lows of parenting (and life) is the brilliant comedian - Andy Parsons. See Andy on live on tour with his enw stand-up show Andy Parsons: Please #@!$ Off To Mars Tickets: www.pleasance.co.uk/event/andy-parsons-please-mar Parenting Hell is available to watch on Spotify every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Sales, advertising, and general enquiries: hello@keepitlightmedia.com A 'Keep It Light Media' Production (Copyright 2026) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2479319451.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3523",
+      "speakers": [
+        "Andy Parsons",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "andy",
+        "parsons"
+      ]
+    },
+    {
+      "key": "602bc9eb0159d63312a0926d43aea12f655354ec",
+      "title": "Dr. Martha Deiros Collado - Online Safety Expert",
+      "published_at": "2026-08-26T23:30:00+00:00",
+      "link": null,
+      "description": "In the first of a series of special interviews with leading experts (and lets face it, people far more qualified than us!) to discuss important and relevant topics that impact and inform modern parenting - we had the pleasure to sit down with the brillaint Dr. Martha Deiros Collado to discuss online safety, device and screen usage amongst pre-teens, and much much more. We loved speaking with Dr Martha in collaboration with @Tescomobile. If you’re looking for advice on how to have that chat or tools to help keep your family safer online, visit the Tesco Mobile Online Safety Hub. https://www.tescomobile.com/online-safety @Tescomobile - Keeping up keeps them safe. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/99ec38f0-a198-11f1-8250-bf0f896f3ef1/image/536eba6ce2e6f0bf89070286c359fec4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT4529111956.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2764",
+      "speakers": [
+        "Online Safety",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "martha",
+        "deiros",
+        "collado",
+        "online",
+        "safety",
+        "expert"
+      ]
+    },
     {
       "key": "125a73d2a58577d1b18dbad52b2e10dbf1caeda6",
       "title": "S13 EP11: Other podcast beef",
@@ -12580,6 +12626,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-28 — S13 EP12: Andy Parsons — speakers: Andy Parsons, Rob Beckett, Josh Widdicombe
+- 2026-08-26 — Dr. Martha Deiros Collado - Online Safety Expert — speakers: Online Safety, Rob Beckett, Josh Widdicombe
 - 2026-08-25 — S13 EP11: Other podcast beef — speakers: Rob Beckett, Josh Widdicombe
 - 2026-08-24 — ⚽ A story for another time...⚽ — speakers: Rob Beckett, Josh Widdicombe
 - 2026-08-21 — S13 EP10: I wouldn't change a thing — speakers: Rob Beckett, Josh Widdicombe

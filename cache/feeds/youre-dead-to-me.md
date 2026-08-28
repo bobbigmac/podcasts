@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-08-21T07:06:50+00:00`
-- checked_at: `2026-08-21T07:06:50+00:00`
-- etag: `"f56e4c2596531b3ef64392fc7065decf"`
-- last_modified: `Fri, 21 Aug 2026 05:00:08 GMT`
+- fetched_at: `2026-08-28T15:21:22+00:00`
+- checked_at: `2026-08-28T15:21:22+00:00`
+- etag: `"ce69ccd55f6a7d9cad5e0d685cc2f436"`
+- last_modified: `Fri, 28 Aug 2026 05:00:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-08-21T07:06:50+00:00",
+  "fetched_at": "2026-08-28T15:21:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,29 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "ebc4ce77af0e9dfc53579c8ad1cd443b481d022a",
+      "title": "History of Underwear: from shirts and stays to bras and briefs",
+      "published_at": "2026-08-28T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m002zrl7",
+      "description": "Greg Jenner is joined in western Europe by historian Dr Serena Dyer and comedian and actor Vic Michaelis to learn all about the hidden history of underwear. For as long as people have been wearing clothes, they have been wearing garments under them – Romans at Hadrian’s Wall were sent underpants, and even Ötzi the Iceman was discovered wearing a form of undergarment. But what were people wearing before the invention of underwires and elastic, so essential to our modern conceptions of underwear? This episode traces the history of our underthings in western Europe and the USA from the medieval period, through the Tudor, Regency and Victorian eras, and into the modern day. Moving around the body, it takes in the linen shifts and shirts that were the universal undergarment for much of history, the development of drawers and stockings, and the shockingly recent invention of knickers and briefs. It also tackles stays and corsets, asking whether they were really as painful as film and TV depictions suggest, and looking at the reliability of on-screen underwear in programmes like ‘Bridgerton’. If you’re a fan of fashion trends of the past, evolving views on beauty and the body, and debunking historical myths, you’ll love our episode on the history of underwear. If you want more historical fashion and beauty trends, check out our episodes on the History of High Heels, Renaissance Beauty and haircare entrepreneur Madam CJ Walker. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Lily Tidman Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p19mxb.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p1mh5w.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58096000",
+      "itunes_duration": "3631",
+      "speakers": [
+        "Greg Jenner",
+        "Serena Dyer",
+        "Vic Micha"
+      ],
+      "topics": [
+        "history",
+        "underwear",
+        "shirt",
+        "brief"
+      ]
+    },
     {
       "key": "6cf3039b7286afa8b3f94780963e49c1c3322cd5",
       "title": "Akhenaten and Nefertiti: religious revolution in ancient Egypt",
@@ -3757,19 +3780,22 @@
     },
     {
       "key": "4df7663c1f07efee924b283b0e9e9c1b30a0cb8a",
-      "title": "05/09/2026",
+      "title": "Vital Electricity",
       "published_at": "2023-03-03T07:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0f6bn9j",
-      "description": "The comedy podcast that takes history seriously. Hosted by Greg Jenner.",
+      "description": "Greg Jenner is joined by guests Prof Iwan Rhys Morus and comedian Olga Koch in the 17th century to learn all about \"vital electricity\". From elaborate party tricks to questionable medicinal claims, we’ll explore the downright bizarre ways that the force of electricity has been harnessed and developed throughout the years. Research by Roxy Moore Written by Emma Nagouse, Roxy Moore and Greg Jenner Produced by Emma Nagouse and Greg Jenner Assistant Producer: Emmie Rose Price-Goodfellow Project Management: Isla Matthews Audio Producer: Steve Hankey",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0f8hmbr.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "53568000",
       "itunes_duration": "3348",
       "speakers": [
-        "Greg Jenner"
+        "Olga Koch"
       ],
-      "topics": []
+      "topics": [
+        "vital",
+        "electricity"
+      ]
     },
     {
       "key": "45e489c90141ec447589f651f8cf0ab10dcf82d1",
@@ -6131,6 +6157,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-28 — History of Underwear: from shirts and stays to bras and briefs — speakers: Greg Jenner, Serena Dyer, Vic Micha
 - 2026-08-21 — Akhenaten and Nefertiti: religious revolution in ancient Egypt — speakers: Greg Jenner
 - 2026-08-14 — Anne Bonny and Mary Read: real-life pirates of the Caribbean — speakers: Anne Bonny, Mary Read, Greg Jenner, Hannah Cusworth
 - 2026-08-07 — Medieval Saints: miracles, relics and pilgrimage — speakers: Medieval Saints, Greg Jenner, Simon Yarrow, Rachel Parris
@@ -6301,7 +6328,7 @@
 - 2023-03-24 — Sarah Bernhardt — speakers: Sarah Bernhardt Greg Jenner
 - 2023-03-17 — The Columbian Exchange — speakers: Greg Jenner, Desiree Burch
 - 2023-03-10 — Frederick Douglass — speakers: Frederick Douglass Greg Jenner, Prof Emily Bernard, Toussaint Douglass
-- 2023-03-03 — 05/09/2026 — speakers: Greg Jenner
+- 2023-03-03 — Vital Electricity — speakers: Olga Koch
 - 2023-02-24 — The Indus Civilisation: life in Bronze Age South Asia — speakers: Greg Jenner, Danika Parikh, Ahir Shah
 - 2023-02-17 — Early Medieval Papacy — speakers: Greg Jenner, Prof Brett Whalen, Alison Spittle
 - 2023-02-10 — Georgian Courtship: love and marriage in 18th-century England — speakers: Greg Jenner, Sally Holloway, Cariad Lloyd

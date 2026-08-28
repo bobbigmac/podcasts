@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-27T14:11:22+00:00`
-- checked_at: `2026-08-27T14:11:22+00:00`
-- etag: `"djEuMi4wOjE3ODc3OTYwMzk1NzU="`
+- fetched_at: `2026-08-28T15:21:22+00:00`
+- checked_at: `2026-08-28T15:21:22+00:00`
+- etag: `"djEuMi4wOjE3ODc5MDYxNTcyMjM="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-27T14:11:22+00:00",
+  "fetched_at": "2026-08-28T15:21:22+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,33 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "6324f181e1f1e7f35814241730db9aff30d902c5",
+      "title": "S16 Ep 898 Listener’s Mailbag: Cosy Moments and Marcus Brigstocke",
+      "published_at": "2026-08-28T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-898-listeners-mailbag-cosy-moments-and-marcus-brigsto",
+      "description": "In today’s mailbag, we have tales about a crunch crunch in Bristol , a request for some one-liner feedback, badly behaved kids, being mistaken for a tramp and a collection of cosy parent moments, Plus, there’s a long diversion from David about spotting the comedian Marcus Brigstocke in the village where he lives. FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a7eb3a1049c692a6b3067d2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28913580",
+      "itunes_duration": "30:07",
+      "speakers": [
+        "Listener’s Mailbag",
+        "Cosy Moments",
+        "Marcus Brigstocke",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "listener",
+        "mailbag",
+        "cosy",
+        "moments",
+        "marcus",
+        "brigstocke"
+      ]
+    },
     {
       "key": "38d44d0b9d4d78f7380506acf39f1c71b61cf8cf",
       "title": "S16 Ep 897: David’s Holiday Departure",
@@ -16152,6 +16179,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-28 — S16 Ep 898 Listener’s Mailbag: Cosy Moments and Marcus Brigstocke — speakers: Listener’s Mailbag, Cosy Moments, Marcus Brigstocke, Joe Wilkinson, David Earl
 - 2026-08-27 — S16 Ep 897: David’s Holiday Departure — speakers: Joe Wilkinson, David Earl
 - 2026-08-26 — S16 Ep 896: Pop-Up Tents and Haemorrhoid Tablets Pt 2 — speakers: Joe Wilkinson, David Earl
 - 2026-08-25 — S16 Ep 895: Pop-Up Tents and Haemorrhoid Tablets Pt 1 — speakers: Joe Wilkinson, David Earl

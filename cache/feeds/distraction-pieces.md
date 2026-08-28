@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-08-26T04:02:08+00:00`
-- checked_at: `2026-08-26T04:02:08+00:00`
-- etag: `"djEuMi4wOjE3ODc3MTM0NzkzOTY="`
+- fetched_at: `2026-08-28T15:21:22+00:00`
+- checked_at: `2026-08-28T15:21:22+00:00`
+- etag: `"djEuMi4wOjE3ODc4ODcyMzkzODU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-08-26T04:02:08+00:00",
+  "fetched_at": "2026-08-28T15:21:22+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "61dedc6a7702a954d6ec1df47b9aa6c96c2c8f26",
+      "title": "KSI (musician / social media kingpin) • Friday Rewind",
+      "published_at": "2026-08-28T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with KSI , originally episode 395 from 2021-07-14. Original writeup below: Pip is joined by a Youtube veteran, and definitely someone with an admirable work ethic. Inspired by the likes of Childish Gambino and early adopters, KSI has carved out his own unique space in the world of social media and by the sounds of it, not even a global pandemic can stop this train running… Hear the story of his path from Watford, and how it led to where he currently finds himself including his boxing hustle, balance, fear of losing, working harder than anyone, how Youtube accepts no defeats and how to ascend by way of constant grind. PIP'S PATREON PAGE if you're of a supporting nature EVERYTHING KSI PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1787133461228-70eed4fc-3604-4e6d-ba05-616bd7b517cf.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a857f203c905940600bfdb0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "131178212",
+      "itunes_duration": "54:34",
+      "speakers": [],
+      "topics": [
+        "musician",
+        "medium",
+        "kingpin",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "e5f38ca0218ed162824a9bd2a6b5793467856d78",
       "title": "SCROOBIUS PIP performs the album 'DISTRACTION PIECES' as a spoken word set! (recorded in Canada 2021) #684",
@@ -19473,6 +19493,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-28 — KSI (musician / social media kingpin) • Friday Rewind
 - 2026-08-26 — SCROOBIUS PIP performs the album 'DISTRACTION PIECES' as a spoken word set! (recorded in Canada 2021) #684
 - 2026-08-21 — NIAMH ALGAR (Calm With Horses / The Virtues / Raised By Wolves) • Friday Rewind
 - 2026-08-19 — 20 YEARS OF PIP (Part 3) • featuring Chris Glasson & Buddy Peace! #683 — speakers: Chris Glasson

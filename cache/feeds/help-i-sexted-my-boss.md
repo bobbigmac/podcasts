@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-08-25T07:07:34+00:00`
-- checked_at: `2026-08-25T07:07:34+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RjMk16UXdNemsyTXprPTo6c2F4ZXNz"`
+- fetched_at: `2026-08-28T15:21:22+00:00`
+- checked_at: `2026-08-28T15:21:22+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RjNE9UTXlNemszTWpZPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-08-25T07:07:34+00:00",
+  "fetched_at": "2026-08-28T15:21:22+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "015bdab6bf9c444660a5cca50f7c9fc5be34abc6",
+      "title": "Jordan Loses His SH*T | And Wendi’s Coffee Table Books",
+      "published_at": "2026-08-28T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/jordan-loses-his-sht-and-wendis-coffee-table-books",
+      "description": "Jordan North reaches breaking point during a fiercely competitive game of Guess the ’90s Children’s TV Theme, as one innocent theme tune sends him into complete disarray. Meanwhile, the boys are faced with another mystery from the Sexted universe as they attempt to piece together the clues and work out exactly whose coffee table is whose. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1787818872767-3fb29262-75ad-419c-bd9d-575b82341fda.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a8ff0345748152cfefbadb5/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=gFe3TNHWDWVUFTdYpUtvqcEMbrLZEnYRqNyffWy2VQA",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27412271",
+      "itunes_duration": "28:33",
+      "speakers": [
+        "Jordan Loses",
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "jordan",
+        "wendi",
+        "coffee",
+        "table",
+        "book"
+      ]
+    },
     {
       "key": "fb4b38d6470876c89c429ea65f8f14957f13908b",
       "title": "Help I’ve Got A Limp Shake | And William Tries Jordan’s Sausage",
@@ -14937,6 +14961,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-28 — Jordan Loses His SH*T | And Wendi’s Coffee Table Books — speakers: Jordan Loses, Jordan North, William Hanson
 - 2026-08-25 — Help I’ve Got A Limp Shake | And William Tries Jordan’s Sausage — speakers: William Tries Jordan’s Sausage, Jordan North, William Hanson
 - 2026-08-21 — X-Rated Film Puns | And Pillow Fluffers — speakers: William Hanson, Jordan North
 - 2026-08-18 — Help I’ve Borrowed My Neighbour's Toys | And Double Moustaches — speakers: Jordan North, William Hanson
