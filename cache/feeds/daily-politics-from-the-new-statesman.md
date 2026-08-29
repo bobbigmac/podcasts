@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-29T10:02:28+00:00`
-- checked_at: `2026-08-29T10:02:28+00:00`
-- etag: `"djEuMi4wOjE3ODc5OTMxMzk5NDE="`
+- fetched_at: `2026-08-29T16:43:09+00:00`
+- checked_at: `2026-08-29T16:43:09+00:00`
+- etag: `"djEuMi4wOjE3ODgwMTkyMzk0MzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-29T10:02:28+00:00",
+  "fetched_at": "2026-08-29T16:43:09+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "92f5a1a282e4e8646a659d385fa4414e18b2c6c5",
+      "title": "The investigation into “Farage Fest”",
+      "published_at": "2026-08-29T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/the-investigation-into-farage-fest",
+      "description": "The investigation into Nigel’s “Farage Fest” election party, Andy Burnham’s Ukrainian jam session and Pope Leo XIV making it onto Vanity Fair’s best dressed list. Anoosh Chakelian and Will Dunn round up the stories of the week. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1787924805740-b7df878a-84d6-4cd9-921e-e4001a0ce697.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a91902246c797d3d131182c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26885224",
+      "itunes_duration": "28:00",
+      "speakers": [
+        "Nigel’s Farage Fest",
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "investigation",
+        "farage",
+        "fest"
+      ]
+    },
     {
       "key": "fd7da61084845218168b3418950e835e0be5ba12",
       "title": "Zack Polanski's honeymoon is over",
@@ -32247,6 +32270,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-29 — The investigation into “Farage Fest” — speakers: Nigel’s Farage Fest, Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-08-27 — Zack Polanski's honeymoon is over — speakers: Zack Polanski, Anoosh Chakelian, Oli Dugmore
 - 2026-08-24 — How will Burnham navigate the North Sea? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-08-22 — Is the UK really poorer than Mississippi? — speakers: Richard Tice, Anoosh Chakelian, Oli Dugmore
