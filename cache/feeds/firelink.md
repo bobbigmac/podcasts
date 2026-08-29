@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-08-21T13:10:02+00:00`
-- checked_at: `2026-08-21T13:10:02+00:00`
-- etag: `W/"3d909-TJzTQWnceiImkk4AGISMugR8k90"`
+- fetched_at: `2026-08-29T01:45:08+00:00`
+- checked_at: `2026-08-29T01:45:08+00:00`
+- etag: `W/"3e1ad-EFDTpcy5FiJzMdF1iYnAgrI0h8A"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-08-21T13:10:02+00:00",
+  "fetched_at": "2026-08-29T01:45:08+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,31 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "055a4f1333c8eaf2393126ca8d3c647c5ef53e18",
+      "title": "So About That Grand Theft Auto VI Showcase... | Firelink Podcast",
+      "published_at": "2026-08-28T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/So-About-That-Grand-Theft-Auto-VI-Showcase-----Firelink-Podcast-e3o0mpj",
+      "description": "This week on Firelink, Nick, KC, and Marty go deep on the Netflix Grand Theft Auto 6 showcase, clean up some lingering Gamescom stories, and chat about the new games they've been playing, including Star Wars Zero Company and Resonance: A Plague Tale Legacy. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/124852467/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-28%2F3011f306-c1a0-afb1-f03c-0dc84fa4b89e.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "156874784",
+      "itunes_duration": "01:48:56",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "grand",
+        "theft",
+        "auto",
+        "showcase",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "729cdd0af9864c0986a69dcb0412d8b881e60e92",
       "title": "We Finally Know What The Duskbloods Is | Firelink Podcast",
@@ -3150,6 +3175,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-28 — So About That Grand Theft Auto VI Showcase... | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-08-21 — We Finally Know What The Duskbloods Is | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-08-14 — The Slippery Slope of "Inspired By..." | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-08-07 — How Much Did Netflix Pay For Their Grand Theft Auto 6 Debut?! | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu

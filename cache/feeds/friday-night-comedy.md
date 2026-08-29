@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-08-21T18:55:27+00:00`
-- checked_at: `2026-08-21T18:55:27+00:00`
-- etag: `"b74a4731c3f915102bcb9a31203bea30"`
-- last_modified: `Fri, 21 Aug 2026 18:00:09 GMT`
+- fetched_at: `2026-08-29T01:45:08+00:00`
+- checked_at: `2026-08-29T01:45:08+00:00`
+- etag: `"ddb85bf55e8ac7a13e916f8b1c90ec6c"`
+- last_modified: `Fri, 28 Aug 2026 18:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p4c71q.jpg",
-  "fetched_at": "2026-08-21T18:55:27+00:00",
+  "fetched_at": "2026-08-29T01:45:08+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "61164fdf185807bf9471d94e89b6046fc9e3dbb1",
+      "title": "The People Have Spoken Ep2. Fed Up With War!",
+      "published_at": "2026-08-28T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p5fgqr",
+      "description": "It's time for the people to speak. Taking on the headlines, Ian Smith is joined by Harriet Kemsley and Ashley Storrie to work out what is going on, and together with an Edinburgh Fringe audience, solve the biggest problem facing the world right now. Which family member would you send to negotiate with Hamas? How should we help Trump meet his self-imposed deadlines? And how to we protect Andy Burnham from scam phone calls? Written by Ian Smith, Angela Channell, Cameron Loxdale and Katie Storey Production Coordinator: Asha Osborne-Grinter Sound Editing: David Thomas Executive Producer: James Robinson Recorded the Edinburgh Fesitval Fringe Produced by Gwyn Rhys Davies. A BBC Studios Production",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p4c71q.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p5pm1r.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27472000",
+      "itunes_duration": "1717",
+      "speakers": [
+        "Ian Smith",
+        "Harriet Kemsley"
+      ],
+      "topics": [
+        "people"
+      ]
+    },
     {
       "key": "f21d9602b1a84a8d8941de1b953c5023de9f4eb6",
       "title": "The People Have Spoken Ep1. Andy Cool'em Down'em",
@@ -5481,27 +5500,6 @@
         "quiz",
         "september"
       ]
-    },
-    {
-      "key": "79e014fb453b9fab71c652ba4a86a34f8be52e22",
-      "title": "Party's Over: ep6 Going Green 27th August 2021",
-      "published_at": "2021-08-27T17:54:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09s18jk",
-      "description": "What happens when the Prime Minister suddenly stops being Prime Minister? One day you're the most powerful person in the country, the next you're irrelevant, forced into retirement 30 years ahead of schedule and find yourself asking 'What do I do now?' Miles Jupp stars as Henry Tobin - Britain's shortest serving and least popular post war PM (he managed 8 months). We join Henry soon after his crushing election loss. He’s determined to not let his disastrous defeat be the end of him. Instead Henry's going to get back to the top - he's just not sure how and in what field.. This week Christine encourages Henry to make the most of his green credentials. Henry Tobin... Miles Jupp Christine Tobin... Ingrid Oliver Natalie... Emma Sidi Jones... Justin Edwards Lizzie... Alice Fraser Written by Paul Doolan and Jon Hunter Produced by Richard Morris and Simon Nicholls Production co-ordinator: Caroline Barlow A BBC Studios Production",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p4c71q.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09s17k9.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26768000",
-      "itunes_duration": "1673",
-      "speakers": [
-        "Going Green",
-        "Prime Minister"
-      ],
-      "topics": [
-        "party",
-        "green",
-        "august"
-      ]
     }
   ]
 }
@@ -5510,6 +5508,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-28 — The People Have Spoken Ep2. Fed Up With War! — speakers: Ian Smith, Harriet Kemsley
 - 2026-08-21 — The People Have Spoken Ep1. Andy Cool'em Down'em — speakers: Andy Cool'em Down'em, Ian Smith, Maisie Adam
 - 2026-08-14 — Current-ish Ep3. Exam results, early release, and the possible end of two marriages — speakers: Lucy Porter, Vittorio Angelone, Jake Bhardwaj, Susie McCabe
 - 2026-08-07 — Current-ish Ep2. Heatwaves, hosepipe bans, and a very hairy pizza — speakers: Lucy Porter, Finlay Christie, Amy Annette, Christopher Macarthur
@@ -5769,4 +5768,3 @@
 - 2021-09-17 — News Quiz 17th September 2021 — speakers: Andy Zaltzman, Paul Sinha, Neil Delamere
 - 2021-09-10 — News Quiz 10th September 2021
 - 2021-09-03 — News Quiz 3rd September 2021 — speakers: Andy Zaltzman, Rachel Fairburn, Hugo Rifkind, Helen Lewis, Ian Smith
-- 2021-08-27 — Party's Over: ep6 Going Green 27th August 2021 — speakers: Going Green, Prime Minister
