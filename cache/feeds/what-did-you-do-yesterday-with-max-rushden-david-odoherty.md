@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-08-26T04:02:08+00:00`
-- checked_at: `2026-08-26T04:02:08+00:00`
-- etag: `"djEuMi4wOjE3ODc3MTY4NDAyNDc="`
+- fetched_at: `2026-08-30T05:23:25+00:00`
+- checked_at: `2026-08-30T05:23:25+00:00`
+- etag: `"djEuMi4wOjE3ODgwNTg4Mzk0ODk="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-08-26T04:02:08+00:00",
+  "fetched_at": "2026-08-30T05:23:25+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "618b353a1452cd4b11c294efc5d02d1eaad80e09",
+      "title": "S5 EP11: Danny Wallace",
+      "published_at": "2026-08-30T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s5-ep11-danny-wallace",
+      "description": "Joining us on this episode of '⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠What did you do yesterday?⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠' is the comedian, actor, presenter and author - Danny Wallace. We asked Danny what he did yesterday? He told us. That's it... enjoy! Hackney Empire - 7th September 2026 The wait is over. WDYDY is back for another live extravaganza… Your favourite podcast is returning to London’s Hackney Empire for another night of yesterday’s. May or may not include a BOC, an opening montage, a celeb guest, one too many quizzes, D.) Kestrels, and much much more… Get your tickets now at: www.hackneyempire.co.uk/events/what-did-you-do-yesterday Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1787778383307-fe8d9992-aaa0-410c-9f50-71afc14ae300.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a8f55fd872783b8004edd60/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "146939407",
+      "itunes_duration": "1:01:05",
+      "speakers": [
+        "Danny Wallace",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "danny",
+        "wallace"
+      ]
+    },
     {
       "key": "04dc0fe29760fa270a21ff6b95713b2eb6165416",
       "title": "WDWDY #85.1: To Err is Human (Max's Yesterday)",
@@ -3995,6 +4016,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-30 — S5 EP11: Danny Wallace — speakers: Danny Wallace, Max Rushden, David O'Doherty
 - 2026-08-26 — WDWDY #85.1: To Err is Human (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-23 — S5 EP10: Nina Conti — speakers: Nina Conti Joining, Max Rushden, David O'Doherty
 - 2026-08-19 — WDWDY #84.1: Yester-YAY! (David's Yesterday) — speakers: Max Rushden, David O'Doherty
