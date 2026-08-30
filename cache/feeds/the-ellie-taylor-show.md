@@ -2,8 +2,8 @@
 
 - slug: `the-ellie-taylor-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/`
-- fetched_at: `2026-08-30T05:23:25+00:00`
-- checked_at: `2026-08-30T05:23:25+00:00`
+- fetched_at: `2026-08-30T11:54:09+00:00`
+- checked_at: `2026-08-30T11:54:09+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-ellie-taylor-show/",
   "image_url": "",
-  "fetched_at": "2026-08-30T05:23:25+00:00",
+  "fetched_at": "2026-08-30T11:54:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "48174865423a8b890ac29b228257f3f954bea8c6",
+      "guid": "445999b9-401c-413a-b2ef-6e902f572d6c",
+      "title": "The Ellie Taylor Show (30th August)",
+      "published_at": "2026-08-30T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-ellie-taylor-show-30th-august/",
+      "description": "Where there's an Essex twang, there's hot gossip.",
+      "image_url": "https://mm.aiircdn.com/177/695686.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1788073226-the_ellie_taylor_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=445999b9-401c-413a-b2ef-6e902f572d6c&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "abf94b6645b256842154cc7249bebe65e038f590",
       "guid": "790b66e6-9b35-4ce5-b0c1-cf86d44f1ddf",
@@ -1604,6 +1617,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-30 — The Ellie Taylor Show (30th August)
 - 2026-08-23 — The Ellie Taylor Show (23rd August)
 - 2026-08-16 — The Ellie Taylor Show (16th August)
 - 2026-08-09 — The Ellie Taylor Show (9th August)
