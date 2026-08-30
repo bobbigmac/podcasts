@@ -2,9 +2,9 @@
 
 - slug: `have-a-word`
 - source: `https://feeds.acast.com/public/shows/660d348bf844f70016bf5fd1`
-- fetched_at: `2026-08-24T01:56:53+00:00`
-- checked_at: `2026-08-24T01:56:53+00:00`
-- etag: `"djEuMi4wOjE3ODczNzQ4Mzk0NjQ="`
+- fetched_at: `2026-08-30T23:29:29+00:00`
+- checked_at: `2026-08-30T23:29:29+00:00`
+- etag: `"djEuMi4wOjE3ODc5Nzk2Mzk1MDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://haveawordpod.com",
   "description": "The funniest podcast in the UK with comedians Adam Rowe and Dan Nightingale Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/show-cover.jpg",
-  "fetched_at": "2026-08-24T01:56:53+00:00",
+  "fetched_at": "2026-08-30T23:29:29+00:00",
   "owners": [
     "Dan Nightingale",
     "Adam Rowe"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "81af39b35489b9221abae7080d13eba463f03025",
+      "title": "#396 with Kyla Cobbler - Have A Word w/Adam, Dan & Carl",
+      "published_at": "2026-08-29T05:00:00+00:00",
+      "link": "https://shows.acast.com/have-a-word-with-adamrowe-and-dannightingale/episodes/396-with-kyla-cobbler-have-a-word-wadam-dan-carl",
+      "description": "Tickets, merch and loads more available on our website! https://haveawordpod.com Tickets for Have A Word Live shows as well as Adam and Dan's tours and previews: Adam's Tickets: https://www.adamrowe.co.uk Dan's Tickets: https://dannightingale.com Carl's Stream || https://twitch.tv/senseicarl_ Finnlay K FINAL GIG TICKETS || https://www.skiddle.com/whats-on/Liverpool/Jacaranda-Baltic/Finnlay-K-Farewell-Show/42670455/ Film Club Live 9th September || https://plazacinema.org.uk/PlazaCinemaLiverpool.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_24652102.TcsSection_1791 Finnlay K - Whole Again: https://FinnlayK.lnk.to/WHOLEAGAINLIVE As Adam and Dan said, don't miss out on all of our extra content, we've got one of the best value Patreons in the game. An extra 90+ minute episode every week plus loads of bonus content such as the now infamous Lockdown Lock-ins, the Nashville & Amsterdam specials and our Ghost Hunts! What are you waiting for? Sign up now at https://patreon.com/haveawordpod​ Get subscribed to Have A Word Highlights: https://youtube.com/haveawordhighlights Thanks to this week's sponsors: Hello Fresh | https://www.hellofresh.co.uk/50HAWPOD Click the link to enjoy an exclusive offer of 50% off your first box, along with a 20% discount for the next 4 boxes plus free treats (including fruit bundles) for 2 months. Alternatively, you can use our code 50HAWPOD. This special offer is available for new customers as well as those who cancelled their subscription twelve months ago or more. NordVPN | https://nordvpn.com/haveaword EXCLUSIVE NordVPN Deal ➼ https://nordvpn.com/haveaword Try it risk-free now with a 30-day money-back guarantee Lovehoney | https://lovehoney.co/word_podcast Love how you love and take 20% off sitewide to unlock sexual happiness and discover a happier you with promo code: AFF-WORD20 Saily | https://saily.com/haveaword Download SAILY in your app store and use our code HAVEAWORD at checkout to get an exclusive 15% off your first purchase or go to https://saily.com/haveaword 🌍 HexClad | https://hexclad.co.uk/word10 Upgrade your kitchen. Up to 40% off site wide! ADAM ROWE and DAN NIGHTINGALE are two award winning comedians from Liverpool & Preston, respectively. They are two of the UK's most highly regarded stand-ups and have both performed all over the world. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/660d348bf844f70016bf5fd1/1787950031570-83f8bf4b-b80b-4f7f-b016-bd63a688f029.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/660d348bf844f70016bf5fd1/e/6a91c9fb82a147ff0432026c/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "154099461",
+      "itunes_duration": "2:40:31",
+      "speakers": [
+        "Dan Nightingale",
+        "Adam Rowe"
+      ],
+      "topics": [
+        "kyla",
+        "cobbler",
+        "word",
+        "adam",
+        "carl"
+      ]
+    },
     {
       "key": "88c849c4695ce421bbf5807fc4f7f91afdbd55fb",
       "title": "#395 with Jamie Hutchinson - Have A Word w/Adam, Dan & Carl",
@@ -6098,7 +6121,7 @@
     },
     {
       "key": "36ac67994f759588eafdb699ea8323a00786e543",
-      "title": "#128 with James English - Have A Word w/Adam & Dan",
+      "title": "#128 - Have A Word w/Adam & Dan",
       "published_at": "2021-07-12T03:20:00+00:00",
       "link": "https://haveaword.page/",
       "description": "Thanks so much for listening. Give us a follow on socials @haveawordpod and make sure to subscribe to the podcast on your app and to our channel at: YouTube.com/haveawordpod. Full episodes in video on da'tube. And if you'd like an extra episode of our lids, every week, in video and audio... sign upto our Patreon.com/haveawordpod. From as little as £3 a month you get the weekly exclusive ep. and a load of other perks. Enjoy. The value of Bitcoin is variable and can go up and down. Do your own thorough research before buying Bitcoin. Past performance is not an indication of future performance. At all times, CoinCorner aims to comply with globally accepted standards that seek the prevention of money laundering and terrorist financing. As a result, we reserve the right to request further information/documentation at any time. Learn more about your ad choices. Visit podcastchoices.com/adchoices Hosted on Acast. See acast.com/privacy for more information.",
@@ -6108,13 +6131,11 @@
       "enclosure_length": "237851158",
       "itunes_duration": "2:45:06",
       "speakers": [
-        "Adam Dan",
+        "Dan Thanks",
         "Dan Nightingale",
         "Adam Rowe"
       ],
       "topics": [
-        "james",
-        "english",
         "word",
         "adam"
       ]
@@ -9123,6 +9144,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-29 — #396 with Kyla Cobbler - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-08-22 — #395 with Jamie Hutchinson - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-08-15 — #394 with Jacob Hawley - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
 - 2026-08-08 — #393 with Harry Stachini - Have A Word w/Adam, Dan & Carl — speakers: Dan Nightingale, Adam Rowe
@@ -9390,7 +9412,7 @@
 - 2021-08-02 — #131 with Rob Mulholland - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2021-07-26 — #130 with Simon Brodkin - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2021-07-19 — #129 with Kae Kurd - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
-- 2021-07-12 — #128 with James English - Have A Word w/Adam & Dan — speakers: Adam Dan, Dan Nightingale, Adam Rowe
+- 2021-07-12 — #128 - Have A Word w/Adam & Dan — speakers: Dan Thanks, Dan Nightingale, Adam Rowe
 - 2021-07-05 — #127 with Lauren Pattison - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2021-06-28 — #126 with Joe Gilmore - Have A Word w/Adam & Dan — speakers: Dan Nightingale, Adam Rowe
 - 2021-06-21 — #125 with Milo McCabe - Have A Word w/Adam & Dan — speakers: Milo McCabe, Dan Nightingale, Adam Rowe

@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-08-27T00:47:51+00:00`
-- checked_at: `2026-08-27T00:47:51+00:00`
-- last_modified: `Wed, 26 Aug 2026 23:01:00 GMT`
+- fetched_at: `2026-08-30T23:29:29+00:00`
+- checked_at: `2026-08-30T23:29:29+00:00`
+- last_modified: `Sun, 30 Aug 2026 23:24:56 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-27T00:47:51+00:00",
+  "fetched_at": "2026-08-30T23:29:29+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,34 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a67ba7365847badb31e40482e36afecadaf4e2bf",
+      "title": "Rick Glassman On The Paul Rudd Incident, Podcasting and Ricky Gervais",
+      "published_at": "2026-08-30T23:01:00+00:00",
+      "link": null,
+      "description": "In this episode of The Romesh Ranganathan Show, Romesh is joined by comedian and podcaster Rick Glassman to talk about stand-up, podcasting and the art of saying exactly what you're thinking. Rick discusses the success of Take Your Shoes Off , and reveals that Ricky Gervais would be one of his dream guests, which leads to the pair composing a carefully crafted text message invite. Will he respond? Plus, Rick addresses the catastrophic Paul Rudd incident on his podcast. Elsewhere, Rick opens up about his autism diagnosis, dealing with criticism, and the pros and cons of working with his parents. Plus, they discuss Rick's basketball prowess, play Misquoted, and Rick makes a very poorly timed call to his Mum. A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 01:00 Rick ghosted Ben 04:01 Rick’s thoughts on Edinburgh 05:48 Gift-giving 08:41 On stand-up 13:51 Take Your Shoes Off & podcasting 15:27 Rick’s autism diagnosis 19:00 The podcast got big 20:42 Paul Rudd’s podcast accident 26:22 Rick wants Ricky Gervais on the pod 27:20 A sales lesson from Rick 28:22 Rom & Rick text Ricky Gervais 31:19 A question from Shanthi 32:55 Rick calls his Mum 36:00 Working with your parents 44:46 Shanthi’s story 44:00 Parents being famous 47:14 Misquoted 48:24 Basketball & I Am Phenomenal 51:14 Criticism and ego 53:19 Misquoted continued 54:29 Rick’s take on modern dating 56:30 An exclusive 59:21 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b1e0434c-a46e-11f1-bcc3-2f3b289530fa/image/417eca631de1c95f456da3ee39d4bcc1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT8979738685.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3761",
+      "speakers": [
+        "Rick Glassman",
+        "Ricky Gervais",
+        "Rick Glas",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "rick",
+        "glassman",
+        "paul",
+        "rudd",
+        "incident",
+        "podcasting",
+        "ricky",
+        "gervais"
+      ]
+    },
     {
       "key": "45dd8dc413bd4c5f6dec40a3e4f062ef9ef10047",
       "title": "The Art Special : Sexy Art, Questionable Portraits and Romesh's Secret Talent",
@@ -100,7 +128,7 @@
     },
     {
       "key": "99ef50959a2892528f709ce5a75671faa49af2cc",
-      "title": "Diane Morgan On Comedy, Cunk and becoming a robot in Ann Droid",
+      "title": "Diane Morgan On Comedy, Cunk And Becoming A Robot In Ann Droid",
       "published_at": "2026-08-16T23:01:00+00:00",
       "link": null,
       "description": "How did Philomena Cunk come about? In this episode of The Romesh Ranganathan Show, Romesh is joined by Diane Morgan to talk about her new hit BBC iPlayer sitcom, Ann Droid and her journey into comedy, from working with Charlie Brooker, developing the iconic Philomena Cunk, to working on Ricky Gervais' new series, Alley Cats. Diane reveals how working in a factory pushed her towards her goals and discusses her early comedy influences. The pair talk early career moves, the experience of attending drama school, all the way to working together on Last One Laughing. Plus, there's some mild hate for Hollywood and they get into the difficulties of going plant-based. To top it off, there's an exclusive, a story of how to handle failure (comically) and a question, of course, from Shanthi. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 03:03 Last One Laughing 10:29 Dental nursing 13:31 A gift for Diane gone wrong 17:00 On being plant-based 20:08 Comedy influences 23:34 Career beginnings 27:08 Drama school 32:06 On Cunk and success 34:55 On Hollywood 35:33 LA’s vegan scene 38:31 Vegan hacks 41:01 A question from Shanthi on TikTok Shop 44:46 Dog owner stories 48:26 On Ann Droid 56:54 Robot contact lenses 59:53 Alley Cats 01:01:11 Misquoted 01:08:06 An exclusive 01:10:50 A rumour about Diane and Joe Wilkinson 01:12:27 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
@@ -2244,10 +2272,11 @@
 
 ## Episodes (newest first)
 
+- 2026-08-30 — Rick Glassman On The Paul Rudd Incident, Podcasting and Ricky Gervais — speakers: Rick Glassman, Ricky Gervais, Rick Glas, Romesh Ranganathan
 - 2026-08-26 — The Art Special : Sexy Art, Questionable Portraits and Romesh's Secret Talent — speakers: Sexy Art, Questionable Portraits, Romesh Ranganathan
 - 2026-08-23 — Michael Urie On Shrinking, Working With Harrison Ford & Oh, Mary! — speakers: Michael Urie, Romesh Ranganathan
 - 2026-08-19 — Sex Robots, Sofa Fires And Secret Situationships — speakers: Sex Robots, Romesh Ranganathan
-- 2026-08-16 — Diane Morgan On Comedy, Cunk and becoming a robot in Ann Droid — speakers: Diane Morgan, Romesh Ranganathan
+- 2026-08-16 — Diane Morgan On Comedy, Cunk And Becoming A Robot In Ann Droid — speakers: Diane Morgan, Romesh Ranganathan
 - 2026-08-12 — Drag Queens, Peer Pressure and What To Watch — speakers: Drag Queens, Romesh Ranganathan
 - 2026-08-09 — Himesh Patel: Starring In The Odyssey, Working With Matt Damon, And Life After EastEnders — speakers: Matt Damon, Romesh Ranganathan
 - 2026-08-05 — Romesh & Shanthi React To Idris Elba's Apology — speakers: Idris Elba, Romesh Ranganathan

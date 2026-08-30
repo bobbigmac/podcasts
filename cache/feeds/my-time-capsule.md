@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-08-28T00:25:16+00:00`
-- checked_at: `2026-08-28T00:25:16+00:00`
-- etag: `"djEuMi4wOjE3ODc4NzE3NjAzMzM="`
+- fetched_at: `2026-08-30T23:29:29+00:00`
+- checked_at: `2026-08-30T23:29:29+00:00`
+- etag: `"djEuMi4wOjE3ODgxMzA5NjAzOTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-08-28T00:25:16+00:00",
+  "fetched_at": "2026-08-30T23:29:29+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a47c41752db4ae9f09e505c7a022ea038f84153f",
+      "title": "Ep. 603 - Samantha Niblett MP - Labour MP and the woman behind 2026’s “Summer of Sex”",
+      "published_at": "2026-08-30T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-603-samantha-niblett-mp-labour-mp-and-the-woman-behind-20",
+      "description": "Samantha Niblett MP is the Labour MP for South Derbyshire and the woman behind 2026’s headline-grabbing “Summer of Sex” campaign. Launched in April 2026 with sextech entrepreneur Cindy Gallop, the “Yes Sex Please, We’re British!” campaign is calling for a more open, inclusive approach to lifelong sex education. Samantha’s route into politics came through a more than 20-year career in technology. In 2022 she founded Labour: Women in Tech, campaigning for greater gender equality in the technology industry and encouraging more women and girls into STEM and tech careers. She continues that work in Parliament as a member of the Science, Innovation and Technology Committee, combining her technology background with her work as an MP and campaigner for social change . Samantha Niblett MP is our guest in episode 603 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . Samantha Niblett’s UK Parliament page - https://members.parliament.uk/member/5150/contact . Follow Samantha Niblett MP on Instagram : @samantha_niblett_mp . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a9344d50911a5619773ec3a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "73065450",
+      "itunes_duration": "1:00:53",
+      "speakers": [
+        "Samantha Niblett"
+      ],
+      "topics": [
+        "samantha",
+        "niblett",
+        "labour",
+        "woman",
+        "summer"
+      ]
+    },
     {
       "key": "5d94259b9752596c37b4692ec06fb9bc009fa112",
       "title": "My Time Capsule The Dig - Ep. 15 - With Andrew Hunter Murray from No Such Thing As A Fish",
@@ -13360,6 +13382,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-30 — Ep. 603 - Samantha Niblett MP - Labour MP and the woman behind 2026’s “Summer of Sex” — speakers: Samantha Niblett
 - 2026-08-27 — My Time Capsule The Dig - Ep. 15 - With Andrew Hunter Murray from No Such Thing As A Fish — speakers: Andrew Hunter Murray
 - 2026-08-23 — Ep. 602 - Rex Hayes - Star of the Emmy-winning Ted Lasso on Apple TV+ — speakers: Rex Hayes
 - 2026-08-20 — My Time Capsule The Dig - Ep. 14 - With Rick Wakeman — speakers: Rick Wakeman
