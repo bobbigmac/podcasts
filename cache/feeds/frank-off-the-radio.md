@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-08-28T00:25:16+00:00`
-- checked_at: `2026-08-28T00:25:16+00:00`
-- last_modified: `Fri, 28 Aug 2026 00:14:46 GMT`
+- fetched_at: `2026-08-31T05:33:11+00:00`
+- checked_at: `2026-08-31T05:33:11+00:00`
+- last_modified: `Mon, 31 Aug 2026 00:06:47 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-28T00:25:16+00:00",
+  "fetched_at": "2026-08-31T05:33:11+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "e288adc2a52f2f3d652ee7ce17980c480d190a21",
+      "title": "HMV Bargain Basket",
+      "published_at": "2026-08-31T00:00:00+00:00",
+      "link": null,
+      "description": "It’s Frank’s last Edinburgh recording for 2026. He’s joined by Katie Norris and John Kearns. John can’t eat Lamb Bhuna, Frank’s in the HMV Bargain Basket, and Katie’s got some sexy gossip. If you want to message the show, email us at FrankOffTheRadio@AvalonUK.com or WhatsApp us on 07457 417 769. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4119305812.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2663",
+      "speakers": [
+        "Katie Norris",
+        "John Kearns",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "bargain",
+        "basket"
+      ]
+    },
     {
       "key": "2ff2be894f794d29301fcfdcd6e841ef144ac4af",
       "title": "Distorted WhatsApp Jingles",
@@ -24583,6 +24604,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — HMV Bargain Basket — speakers: Katie Norris, John Kearns, Frank Skinner
 - 2026-08-28 — Distorted WhatsApp Jingles — speakers: Katie Norris, John Kearns, Frank Skinner
 - 2026-08-26 — Frank Skinner's Radio Days: Chicken and the Egg — speakers: Frank Skinner
 - 2026-08-24 — Frank likes Jazz? — speakers: Comedians Rhys James, Frank Skinner

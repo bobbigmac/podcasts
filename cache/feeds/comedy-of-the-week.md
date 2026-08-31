@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-08-24T04:04:22+00:00`
-- checked_at: `2026-08-24T04:04:22+00:00`
-- etag: `"d3abb14c88d6ecccf29931e54b88b830"`
-- last_modified: `Mon, 24 Aug 2026 04:00:05 GMT`
+- fetched_at: `2026-08-31T05:33:11+00:00`
+- checked_at: `2026-08-31T05:33:11+00:00`
+- etag: `"27b48213de47caba8119c339832523a5"`
+- last_modified: `Tue, 25 Aug 2026 08:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-08-24T04:04:22+00:00",
+  "fetched_at": "2026-08-31T05:33:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -988,25 +988,6 @@
         "paul",
         "merton"
       ]
-    },
-    {
-      "key": "10419bb9d3a487dce73b8537fc87d11fba9d7a15",
-      "title": "The Edinburgh Comedy Awards Gala 2025",
-      "published_at": "2025-08-25T08:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lywhpq",
-      "description": "Comedy fans can catch the nominees for The Edinburgh Comedy Awards 2025 in this showcase for BBC Radio 4. Guaranteed to be packed with laughs, this special will be hosted by last year’s Best Comedy Show winner, Amy Gledhill. The prestigious awards is celebrating its 45th year and is recognising a Best Newcomer and a Best Show. In this gala, hosted by 2024 Best Show winner Amy Gledhill, we'll hear from all the nominees to give listeners around the UK the chance to hear the cream of this year’s Edinburgh crop. The gala was recorded at the Gilded Balloon, one of the Edinburgh Fringe’s iconic comedy venues. Nominated for Best Show are: Ian Smith, Katie Norris, Ed Night, Sam Jay, John Tothill, Sam Nicoresti, Creepy Boys and Dan Tiernan Nominated for Best Newcomer are: Molly McGuinness, Toussaint Douglass, Ada & Bron, Elouise Eftos, Ayoade Bamgboye, Kate Owens and Roger O'Sullivan. Host: Amy Gledhill Producer: Georgia Keating Production Co-ordinator: Caroline Barlow Edited by Giles Aspen Recorded by Sean Kerwin Recorded at The Gilded Balloon in Edinburgh. A BBC Studios Production for Radio 4.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lywgkp.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "55088000",
-      "itunes_duration": "3443",
-      "speakers": [],
-      "topics": [
-        "edinburgh",
-        "comedy",
-        "awards",
-        "gala"
-      ]
     }
   ]
 }
@@ -1065,4 +1046,3 @@
 - 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore
 - 2025-09-08 — Icklewick FM
 - 2025-09-01 — Room 101 with Paul Merton — speakers: Paul Merton
-- 2025-08-25 — The Edinburgh Comedy Awards Gala 2025

@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-08-24T07:19:26+00:00`
-- checked_at: `2026-08-24T07:19:26+00:00`
-- etag: `"a7881fd5b9a5489ca466c244dd87017c"`
-- last_modified: `Mon, 24 Aug 2026 04:18:46 GMT`
+- fetched_at: `2026-08-31T05:33:11+00:00`
+- checked_at: `2026-08-31T05:33:11+00:00`
+- etag: `"696949341c1af34ab850b16773276608"`
+- last_modified: `Mon, 31 Aug 2026 04:15:38 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-08-24T07:19:26+00:00",
+  "fetched_at": "2026-08-31T05:33:11+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,35 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "489acf4fd3bb1aaaf9da36bfcc46431519407d74",
+      "title": "Grand Theft Auto 6 Netflix Special Details - (Xbox In Ten: An Xbox Podcast - Ep. 379)",
+      "published_at": "2026-08-31T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/grand-theft-auto-6-netflix-special-details-xbox-in-ten-an-xbox-podcast-ep-379",
+      "description": "Week of: 8-24-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/b/f/6/7/bf67e1537a0deb7716c3140a3186d450/379.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/379.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "15599056",
+      "itunes_duration": "11:12",
+      "speakers": [
+        "Grand Theft Auto",
+        "Netflix Special Details",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "grand",
+        "theft",
+        "auto",
+        "netflix",
+        "special",
+        "details",
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "5b70997ffd3232ac97ea886852c8f42b7c51344c",
       "title": "Grand Theft Auto 6 Leaks...Finally Over? - (Xbox In Ten: An Xbox Podcast - Ep. 378)",
@@ -9537,6 +9566,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — Grand Theft Auto 6 Netflix Special Details - (Xbox In Ten: An Xbox Podcast - Ep. 379) — speakers: Grand Theft Auto, Netflix Special Details, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-08-24 — Grand Theft Auto 6 Leaks...Finally Over? - (Xbox In Ten: An Xbox Podcast - Ep. 378) — speakers: Grand Theft Auto, Finally Over, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-08-17 — Xbox Boss Reveals Brief Thoughts On Elder Scrolls 6 After Live Playthrough - (Xbox In Ten: An Xbox Podcast - Ep. 377) — speakers: Brandon Rosa
 - 2026-08-10 — Grand Theft Auto VI: An Extended Look Premiering on Netflix + Game Play Reveal! - (Xbox In Ten: An Xbox Podcast - Ep. 376) — speakers: Netflix Game Play Reveal, Brandon Rosa

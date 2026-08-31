@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-08-24T01:56:53+00:00`
-- checked_at: `2026-08-24T01:56:53+00:00`
-- last_modified: `Sun, 23 Aug 2026 23:00:00 GMT`
+- fetched_at: `2026-08-31T05:33:11+00:00`
+- checked_at: `2026-08-31T05:33:11+00:00`
+- last_modified: `Sun, 30 Aug 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-24T01:56:53+00:00",
+  "fetched_at": "2026-08-31T05:33:11+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7347172cfb0bf84154cdf684cd8a3b0c716c399f",
+      "title": "MARK STEEL: From Being Expelled & Working As A Milkman to Comedy Fame",
+      "published_at": "2026-08-30T23:00:00+00:00",
+      "link": null,
+      "description": "Mark Steel is back for part 2 in which he talks corporal punishment, hating school, being expelled and bring us a couple of very funny stories about how he frequently got in trouble while working his first job as a milkman.Mark Steel is one of the most acclaimed comedians in the UK and host of the long running radio series Mark Steel is in Town. He recently released a book about his battle with cancer The Leopard In my House. Buy the book here and see him live on tour! https://marksteelinfo.com/ See Seann Walsh on Tour https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL7348423676.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2392",
+      "speakers": [
+        "Comedy Fame",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "mark",
+        "steel",
+        "working",
+        "milkman",
+        "comedy",
+        "fame"
+      ]
+    },
     {
       "key": "2a97f988716ee16cf43cb21d5acba879c585e2d2",
       "title": "MARK STEEL: Mistrusting Authority, Working Class Activist Roots",
@@ -1826,6 +1850,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-30 — MARK STEEL: From Being Expelled & Working As A Milkman to Comedy Fame — speakers: Comedy Fame, Seann Walsh
 - 2026-08-23 — MARK STEEL: Mistrusting Authority, Working Class Activist Roots — speakers: Mistrusting Authority, Working Class Activist Roots, Mark Steel, Seann Walsh
 - 2026-08-16 — MILES JUPP: Comedy Influences, Academic Stress & Finding His Tribe — speakers: Miles Jupp, Seann Walsh
 - 2026-08-09 — MILES JUPP: From Boarding School to Comedy Fame — speakers: Miles Jupp, Seann Walsh

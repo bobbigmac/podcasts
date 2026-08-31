@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-08-27T14:11:22+00:00`
-- checked_at: `2026-08-27T14:11:22+00:00`
-- etag: `"djEuMi4wOjE3ODc4Mzc0MzkzNDE="`
+- fetched_at: `2026-08-31T05:33:11+00:00`
+- checked_at: `2026-08-31T05:33:11+00:00`
+- etag: `"djEuMi4wOjE3ODgxNTA2MzkyNTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-08-27T14:11:22+00:00",
+  "fetched_at": "2026-08-31T05:33:11+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,25 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "2eb395d76d1fcf1a418577792bfa99dec469906e",
+      "title": "638 The Dog Stars",
+      "published_at": "2026-08-31T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/638-the-dog-stars",
+      "description": "Ridley Scott is back it again with his seven thousandth movie The Dog Stars! We review that and also talk his potential return to the Alien franchise. We also mourn the passing of Dolly Parton, Tim Curry and Peter Cullen, who will direct the next Batman movie in the DCU, a new live action Flintstones movie, Dan Stevens as RoboCop, an update on Days of Thunder 2 and more! Thanks for listening! New bonus clickbait podcast and video out now! Available to watch on bigsandwich.co, patreon.com/mrsundaymovies and YouTube Memberships at youtube.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 03:14 RIP Dolly Parton, Tim Curry & Peter Cullen 10:43 Man of Tomorrow Wraps & James Gunn Batman Movie 16:42 The Flinstones Live Action Ryan Gosling Movie 20:17 Dan Stevens Stars in RoboCop Series 29:52 Tom Cruise Announces Days of Thunder Sequel 34:51 Ridley Scott Says Alien: Romulus is OK 38:57 The Dog Stars Movie Review 53:43 The Dog Stars Spoiler Segment 01:07:26 What We Reading, What We Gonna Read 01:17:40 Letters, It's Time For Letters 01:21:03 Lanterns Talk - Episode 2 Spoilers SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a9416b763de6f7b41a8ebb1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "151780027",
+      "itunes_duration": "1:45:24",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "star"
+      ]
+    },
     {
       "key": "cd402b0141893b3eb109397b3bc5751ca8f817dd",
       "title": "Resident Evil: Extinction - Caravan Of Garbage",
@@ -22986,6 +23005,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — 638 The Dog Stars — speakers: James Clement, Nick Mason
 - 2026-08-27 — Resident Evil: Extinction - Caravan Of Garbage — speakers: Resident Evil, James Clement, Nick Mason
 - 2026-08-23 — 637 Lanterns Episode One & D23 Big News Catch-Up — speakers: Big News Catch, James Clement, Nick Mason
 - 2026-08-20 — Resident Evil: Apocalypse - Caravan Of Garbage — speakers: Milla Jo, James Clement, Nick Mason

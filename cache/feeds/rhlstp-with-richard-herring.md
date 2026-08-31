@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-08-30T23:29:29+00:00`
-- checked_at: `2026-08-30T23:29:29+00:00`
-- etag: `"djEuMi4wOjE3ODgxMzE0NjkyMTk="`
+- fetched_at: `2026-08-31T05:33:11+00:00`
+- checked_at: `2026-08-31T05:33:11+00:00`
+- etag: `"djEuMi4wOjE3ODgxNDUwNTk0NDM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-08-30T23:29:29+00:00",
+  "fetched_at": "2026-08-31T05:33:11+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f98d18dd5d4e72b51d65202a0bd6c36099c0de05",
+      "title": "Sophie Duker (Retro) - \"Sploshing\"",
+      "published_at": "2026-08-31T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#444 Sploshing - Richard has some stand up material topical to the week of 20th March 2023 and is cross about the Edinburgh Fringe again. His guest is Taskmaster and Mastermind Champion, Sophie Duker. They talk about the weird and wonderful chemistry between Alex Horne and Sophie, whether kids Taskmaster will crush the souls of the participants, Richard’s jealousy at pansexuality and a revelation about what else the young people are getting up to these days, French pickles, terrible tour accommodation, being on a cruise with 700 older lesbians, what the point of anything might be and why neither Sophie or Richard have been on QI. Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1788130148686-485d1f50-840d-4746-869d-75b1d4a41e1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a94b1bacb03bea43d25952f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28960182",
+      "itunes_duration": "1:00:19",
+      "speakers": [
+        "Sophie Duker",
+        "Richard Herring"
+      ],
+      "topics": [
+        "sophie",
+        "duker",
+        "retro",
+        "sploshing"
+      ]
+    },
     {
       "key": "ecb84e2040bb7e34b8ae3157fdc03addf28125bd",
       "title": "John Robins - \"Cake of Shame\"",
@@ -23653,6 +23675,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — Sophie Duker (Retro) - "Sploshing" — speakers: Sophie Duker, Richard Herring
 - 2026-08-26 — John Robins - "Cake of Shame" — speakers: John Robins, Richard Herring
 - 2026-08-24 — Richard Osman (Retro) - "The Oldest Person In Scotland" — speakers: Richard Osman, Ed Fringe, Oldest Person, Richard Herring
 - 2026-08-19 — Bella Hull - "Crystal In Her Pocket" — speakers: Bella Hull, Richard Herring

@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-28T15:21:22+00:00`
-- checked_at: `2026-08-28T15:21:22+00:00`
-- etag: `"djEuMi4wOjE3ODc5MDYxNTcyMjM="`
+- fetched_at: `2026-08-31T05:33:11+00:00`
+- checked_at: `2026-08-31T05:33:11+00:00`
+- etag: `"djEuMi4wOjE3ODgxNDE2Mzk0NDM="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-28T15:21:22+00:00",
+  "fetched_at": "2026-08-31T05:33:11+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,30 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "bffc64a63643368c366628b309b682a251ae2910",
+      "title": "S16 Ep 899 Vault Mondays: Jane Asher and What Direction Do You Go In At 48?",
+      "published_at": "2026-08-31T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-899-vault-mondays-jane-asher-and-what-direction-do-yo",
+      "description": "For this archive show, we head back to 2022 - and in this one we talked about Joe being in South Africa and how we’ve both been treading water in life. First posted 30th May 2022 FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a914195ae4f2833364e9780/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "35873436",
+      "itunes_duration": "37:22",
+      "speakers": [
+        "Jane Asher",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "vault",
+        "mondays",
+        "jane",
+        "asher",
+        "direction"
+      ]
+    },
     {
       "key": "6324f181e1f1e7f35814241730db9aff30d902c5",
       "title": "S16 Ep 898 Listener’s Mailbag: Cosy Moments and Marcus Brigstocke",
@@ -16179,6 +16203,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — S16 Ep 899 Vault Mondays: Jane Asher and What Direction Do You Go In At 48? — speakers: Jane Asher, Joe Wilkinson, David Earl
 - 2026-08-28 — S16 Ep 898 Listener’s Mailbag: Cosy Moments and Marcus Brigstocke — speakers: Listener’s Mailbag, Cosy Moments, Marcus Brigstocke, Joe Wilkinson, David Earl
 - 2026-08-27 — S16 Ep 897: David’s Holiday Departure — speakers: Joe Wilkinson, David Earl
 - 2026-08-26 — S16 Ep 896: Pop-Up Tents and Haemorrhoid Tablets Pt 2 — speakers: Joe Wilkinson, David Earl
