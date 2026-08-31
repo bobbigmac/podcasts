@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-08-21T13:10:02+00:00`
-- checked_at: `2026-08-21T13:10:02+00:00`
-- etag: `"djEuMi4wOjE3ODczMTQ5MTMyMzM="`
+- fetched_at: `2026-08-31T13:47:42+00:00`
+- checked_at: `2026-08-31T13:47:42+00:00`
+- etag: `"djEuMi4wOjE3ODgxNzc0MDgwNTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-08-21T13:10:02+00:00",
+  "fetched_at": "2026-08-31T13:47:42+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ef496dc8e9662d9de927de3c0e3ee8127c157073",
+      "title": "Lindsay Clancy Trial Explained",
+      "published_at": "2026-08-31T11:56:47+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/lindsay-clancy-trial-explained",
+      "description": "This week, Katherine's Telling Everybody Everything about a new PRP method you won't see coming. Also, we've asked comedian Andrew Johnston @mandrewbrawnston to take a break from his usually comical talking points to focus on the Lindsay Clancy trial and to explain it to us before a verdict is read this week. Plus, Violet is in New York as Megan and Harry are BAAAACK in the UK. Why do you think they've returned? Will the British tabloid press be kind to them or revert back to their trademark baseless character assassination? x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1788176983598-955cccbc-1d7a-48d8-b5ed-c78a81c8f795.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a956bff53508d8b5470c990/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65469044",
+      "itunes_duration": "45:27",
+      "speakers": [
+        "Lindsay Clancy Trial Explained",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "lindsay",
+        "clancy",
+        "trial"
+      ]
+    },
     {
       "key": "a4a8055541b2ff5c8eb5affaf63a67729eab6dea",
       "title": "Standing on Business",
@@ -6447,6 +6468,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — Lindsay Clancy Trial Explained — speakers: Lindsay Clancy Trial Explained, Katherine Ryan
 - 2026-08-21 — Standing on Business — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-08-15 — Illegal in Muskoka — speakers: Katherine Ryan
 - 2026-08-06 — Lindsay Clancy On Trial — speakers: Lindsay Clancy, Katherine Ryan
