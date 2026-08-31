@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-08-24T15:55:15+00:00`
-- checked_at: `2026-08-24T15:55:15+00:00`
-- etag: `"11887d-659cc82e145d8"`
-- last_modified: `Mon, 24 Aug 2026 15:19:24 GMT`
+- fetched_at: `2026-08-31T20:50:15+00:00`
+- checked_at: `2026-08-31T20:50:15+00:00`
+- etag: `"1192af-65a5bb564e132"`
+- last_modified: `Mon, 31 Aug 2026 18:09:52 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-08-24T15:55:15+00:00",
+  "fetched_at": "2026-08-31T20:50:15+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9e2445db981710471233f176ab9ee519201b6387",
+      "title": "UK TASKMASTER SERIES 22 STATS AND PREDICTIONS",
+      "published_at": "2026-08-31T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "Series 22 is almost here, and before it lands we're doing our deepest of deep dives into this year's cast: Chloe Petts, Isy Suttie, Matt Lucas, Nina Conti and Richard Ayoade. We talk tallest-ever line-ups, dodgy internet height stats, seat-number superstitions, the \"class of '74–'78\" age cluster, university vs. Footlights, and Jack's ever-evolving, fully unhinged statistical model covering everything from star signs to marathon times. Plus: how Jenny helped Isy learn to drive, Nina Conti's surprisingly stacked filmography, and another series of wondering whether the real winner will be stats or instinct....... Send all your Series 22 thoughts to fans@taskmaster.tv. If you don't already have the official Taskmaster app downloaded, now's a good time!",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/f35d056e-88e5-49b3-a58a-a90f34359afd.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=f35d056e-88e5-49b3-a58a-a90f34359afd",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57677519",
+      "itunes_duration": "01:00:04",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "taskmaster",
+        "series",
+        "stats",
+        "prediction"
+      ]
+    },
     {
       "key": "0c7bd2e895de7ef611793f9619971187e932506c",
       "title": "Better With Balloons, Baby! - Taskmaster Denmark S1, Ep. 5",
@@ -4829,6 +4851,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — UK TASKMASTER SERIES 22 STATS AND PREDICTIONS — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-08-24 — Better With Balloons, Baby! - Taskmaster Denmark S1, Ep. 5 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-08-17 — The Hand of the Leg - S7, Ep. 9 — speakers: Phil Wang, Jenny Eclair, Jack Bernhardt
 - 2026-08-10 — 42 Calippos - S2, Ep.3 — speakers: Joe Wilkinson, Jon Richardson, Jenny Eclair, Jack Bernhardt

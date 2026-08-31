@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-08-19T21:40:20+00:00`
-- checked_at: `2026-08-19T21:40:20+00:00`
-- etag: `"dbd6b-6596ce6c53122"`
-- last_modified: `Wed, 19 Aug 2026 21:15:23 GMT`
+- fetched_at: `2026-08-31T20:50:15+00:00`
+- checked_at: `2026-08-31T20:50:15+00:00`
+- etag: `"dc898-65a5c9fc69aae"`
+- last_modified: `Mon, 31 Aug 2026 19:15:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-08-19T21:40:20+00:00",
+  "fetched_at": "2026-08-31T20:50:15+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "dcd331fc7da4b7d8d8fcc06622196cb721bf2c1e",
+      "title": "Taskmaster: The People's Podcast - UK TASKMASTER SERIES 22 STATS AND PREDICTIONS",
+      "published_at": "2026-08-31T19:15:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "This week we're checking in with Jenny and Jack over on The People's Pod as they prepare for the upcoming Series 22.... _________________________________________ Series 22 is almost here, and before it lands we're doing our deepest of deep dives into this year's cast: Chloe Petts, Isy Suttie, Matt Lucas, Nina Conti and Richard Ayoade. We talk tallest-ever line-ups, dodgy internet height stats, seat-number superstitions, the \"class of '74–'78\" age cluster, university vs. Footlights, and Jack's ever-evolving, fully unhinged statistical model covering everything from star signs to marathon times. Plus: how Jenny helped Isy learn to drive, Nina Conti's surprisingly stacked filmography, and another series of wondering whether the real winner will be stats or instinct....... Send all your Series 22 thoughts to fans@taskmaster.tv. If you don't already have the official Taskmaster app downloaded, now's a good time!",
+      "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/ec5b7847-4160-483b-93e6-4adb1a185a4f.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=ec5b7847-4160-483b-93e6-4adb1a185a4f",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57677519",
+      "itunes_duration": "01:00:04",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "taskmaster",
+        "people",
+        "podcast",
+        "series",
+        "stats",
+        "prediction"
+      ]
+    },
     {
       "key": "7bb83ebb55f6adb65311186f8774db256a0700d3",
       "title": "Taskmaster The Podcast Rewind - Champion of Champions S1-5 With Guz Khan",
@@ -5594,6 +5617,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — Taskmaster: The People's Podcast - UK TASKMASTER SERIES 22 STATS AND PREDICTIONS — speakers: Ed Gamble
 - 2026-08-19 — Taskmaster The Podcast Rewind - Champion of Champions S1-5 With Guz Khan — speakers: Ed Gamble
 - 2026-08-03 — Taskmaster The Podcast Rewind - Series 1 Ep3. With Josh Widdicombe — speakers: Josh Widdicombe, Ed Gamble
 - 2026-07-27 — Taskmaster The Podcast Rewind - Series 1 Ep2 with Tim Key — speakers: Tim Key, Ed Gamble
