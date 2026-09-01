@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-08-25T01:51:50+00:00`
-- checked_at: `2026-08-25T01:51:50+00:00`
-- etag: `W/"43765-H8dNe+HqeX6z9+i2J1wGaqj4oAg"`
+- fetched_at: `2026-09-01T08:38:01+00:00`
+- checked_at: `2026-09-01T08:38:01+00:00`
+- etag: `W/"43765-B5FRxZ1e/6hH8AUWS9MaMV054W0"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-08-25T01:51:50+00:00",
+  "fetched_at": "2026-09-01T08:38:01+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"

@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-08-28T15:21:22+00:00`
-- checked_at: `2026-08-28T15:21:22+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RjNE9UTXlNemszTWpZPTo6c2F4ZXNz"`
+- fetched_at: `2026-09-01T08:38:01+00:00`
+- checked_at: `2026-09-01T08:38:01+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RneU16ZzRNems1TVRJPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-08-28T15:21:22+00:00",
+  "fetched_at": "2026-09-01T08:38:01+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9e73195b590dba9dcafdb5cb7fe778c2bcb5b8e5",
+      "title": "Help That’s Not My Man Porridge | And Spanish Ironing Boards",
+      "published_at": "2026-09-01T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-thats-not-my-man-porridge-and-spanish-ironing-boards",
+      "description": "Every day's a school day, and that even counts on your holidays. Jordan learnt that you should never iron naked in Spain and William learnt that martinis are always dirty in Chicago. But if you listen to this episode, there's plenty for you to learn. From how to deal with a fellow restaurant-goer who's filming his fancy meal, to whether millennial grey is classier than a more vibrant colourway. And there's even time to work out what to do with some unexpected man porridge. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1788211438566-4f38403b-8f09-48c3-9858-fd71fc55117a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a95d64e07f587dfab3b6c94/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=zNMGiimxVZbparNbw-OMLdGs_m-jbATQdmcLXX6ZhyM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43937959",
+      "itunes_duration": "45:46",
+      "speakers": [
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "porridge",
+        "spanish",
+        "ironing",
+        "boards"
+      ]
+    },
     {
       "key": "015bdab6bf9c444660a5cca50f7c9fc5be34abc6",
       "title": "Jordan Loses His SH*T | And Wendi’s Coffee Table Books",
@@ -102,15 +124,15 @@
       "title": "Help I’ve Borrowed My Neighbour's Toys | And Double Moustaches",
       "published_at": "2026-08-18T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/help-ive-borrowed-my-neighbours-toys-and-double-moustaches",
-      "description": "Jordan North is becoming a man of culture, and he's found the perfect phrase to let everyone around him know it. Meanwhile, William Hanson is extremely upset about the state of the toilet paper industry. The boys also tackle your dilemmas on standing at concerts and borrowing your neighbour's sex toys. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Jordan is becoming a man of culture, and he's found the perfect phrase to let everyone around him know it. Meanwhile, William is extremely upset about the state of the toilet paper industry. The boys also tackle your dilemmas on standing at concerts and borrowing your neighbour's sex toys. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1786998183232-3818a20a-bb0e-41d7-8565-fb79c5746b52.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a7ee7b03bff731e73dd2049/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jbtuUDFtmJusbFD04OYIMOQIfgIMTDeTbWg8ZAWRf-g",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "43653329",
       "itunes_duration": "45:28",
       "speakers": [
-        "Jordan North",
-        "William Hanson"
+        "William Hanson",
+        "Jordan North"
       ],
       "topics": [
         "neighbour",
@@ -123,7 +145,7 @@
       "title": "William Tries to Catch Jordan Out | And Who's Spooning Who?",
       "published_at": "2026-08-14T05:00:00+00:00",
       "link": "https://shows.acast.com/sextedmyboss/episodes/william-tries-to-catch-jordan-out-and-whos-spooning-who",
-      "description": "William Hanson and Jordan North take part in an etiquette test and discuss the pros and cons of being a big spoon/little spoon. The boys also dive into some listener replies regarding sh*gging with a smart watch on and find out what really happened after a G & Diva's dentist proposed to her. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "William Hanson and Jordan North take part in an etiquette test and discuss the pros and cons of being a big spoon/little spoon. The boys also dive into some listener replies regarding sh*gging with a smart watch on and find out what really happened after a G&Diva's dentist proposed to her. If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Help I Sexted My Boss is presented by William Hanson and Jordan North. It is an Audio Always production. Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1786636870174-d34a45b3-d779-4b97-a79f-f18c98c7841a.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a7d81949c9d534a470de152/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=bG8pIayfiQoIIBaDmMktoa8SNpVhN-yQyTJexcwHCNw",
       "enclosure_type": "audio/mpeg",
@@ -14961,10 +14983,11 @@
 
 ## Episodes (newest first)
 
+- 2026-09-01 — Help That’s Not My Man Porridge | And Spanish Ironing Boards — speakers: William Hanson, Jordan North
 - 2026-08-28 — Jordan Loses His SH*T | And Wendi’s Coffee Table Books — speakers: Jordan Loses, Jordan North, William Hanson
 - 2026-08-25 — Help I’ve Got A Limp Shake | And William Tries Jordan’s Sausage — speakers: William Tries Jordan’s Sausage, Jordan North, William Hanson
 - 2026-08-21 — X-Rated Film Puns | And Pillow Fluffers — speakers: William Hanson, Jordan North
-- 2026-08-18 — Help I’ve Borrowed My Neighbour's Toys | And Double Moustaches — speakers: Jordan North, William Hanson
+- 2026-08-18 — Help I’ve Borrowed My Neighbour's Toys | And Double Moustaches — speakers: William Hanson, Jordan North
 - 2026-08-14 — William Tries to Catch Jordan Out | And Who's Spooning Who? — speakers: William Tries, William Hanson, Jordan North
 - 2026-08-11 — Help I've Grown A Moustache | And I Found Dad's Secret Account… — speakers: William Hanson, Jordan North
 - 2026-08-07 — Things To Do Before You’re 40 | And William the Undertaker — speakers: William Hanson, Jordan North

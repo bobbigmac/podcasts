@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-08-28T15:21:22+00:00`
-- checked_at: `2026-08-28T15:21:22+00:00`
-- last_modified: `Fri, 28 Aug 2026 07:32:24 GMT`
+- fetched_at: `2026-09-01T08:38:01+00:00`
+- checked_at: `2026-09-01T08:38:01+00:00`
+- last_modified: `Mon, 31 Aug 2026 23:52:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -15,9 +15,9 @@
   "source_url": "https://feeds.megaphone.fm/GLT9881106244",
   "title": "Parenting Hell",
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
-  "description": "Parenting... just not as you know it. Join Rob & Josh twice a week as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
-  "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/b2aa3247887f1870e2463ba16df8b5ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-28T15:21:22+00:00",
+  "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
+  "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ea7b3a41cdc0336cc8a48bcdc4533623.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+  "fetched_at": "2026-09-01T08:38:01+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,48 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "99f53c0d9ee85232ff0428926957f3febae1c4b2",
+      "title": "S13 EP13: I LOVE / HATE the summer holidays",
+      "published_at": "2026-08-31T23:15:00+00:00",
+      "link": null,
+      "description": "More adventures in parenting (and life) from Rob and Josh... The end of the summer holiday is approaching and it's safe to say it's taken a different toll on Rob and Josh as they approach the final hurdle.... ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2249789612.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2975",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "love",
+        "hate",
+        "summer",
+        "holiday"
+      ]
+    },
+    {
+      "key": "1bddff1a5c094dd4ca65037b9b328486cc76b838",
+      "title": "⚽ I've got so many football opinions...⚽",
+      "published_at": "2026-08-31T15:14:00+00:00",
+      "link": null,
+      "description": "Welcome to episode three of Footballing Hell... where every Monday Rob and Josh discuss the weekends football (or the bits that interest them) in the only way they know how. Chaotically, with not enough sleep, prep or insight... This week we (sort of) discuss the stories from the weekend of football that have interested us. Including; Haaland's hair // Pep documentary // Spurs are rubbish. Why? (Cameo by Rhys James) // FPL update - Josh has a great week // De Zerbi looks like a sad hamster // Embarrassing football icks // Harry Maguire - yes or no? // Do I now like Chelsea? Enjoy!! If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. Why football? Why now? We hear you ask... “Finally we can bring our unique brand of unprofessionalism, distractedness and inability to get things right to the until now slick and professional world of football pods. Get ready for no tactical analysis, zero discussion of VAR and a surprisingly high level of Neil Warnock chat. For people who find other football pods too informed.” - Josh Widdicombe \"After 6 years of discussing my wife and children on Parenting Hell it's such a liberating feeling to finally have a podcast where I chat about something I truly love and care about in football\" - Rob Beckett ⁠⁠Footballing Hell ⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2012670a-a546-11f1-bdaf-9332b002407c/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9617400686.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3117",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "football",
+        "opinion"
+      ]
+    },
     {
       "key": "e922ada3e1a4bf5db6539a7d607bf31be065a7a2",
       "title": "S13 EP12: Andy Parsons",
@@ -12626,6 +12668,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — S13 EP13: I LOVE / HATE the summer holidays — speakers: Rob Beckett, Josh Widdicombe
+- 2026-08-31 — ⚽ I've got so many football opinions...⚽ — speakers: Rob Beckett, Josh Widdicombe
 - 2026-08-28 — S13 EP12: Andy Parsons — speakers: Andy Parsons, Rob Beckett, Josh Widdicombe
 - 2026-08-26 — Dr. Martha Deiros Collado - Online Safety Expert — speakers: Online Safety, Rob Beckett, Josh Widdicombe
 - 2026-08-25 — S13 EP11: Other podcast beef — speakers: Rob Beckett, Josh Widdicombe

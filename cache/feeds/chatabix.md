@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-08-31T05:33:11+00:00`
-- checked_at: `2026-08-31T05:33:11+00:00`
-- etag: `"djEuMi4wOjE3ODgxNDE2Mzk0NDM="`
+- fetched_at: `2026-09-01T08:38:01+00:00`
+- checked_at: `2026-09-01T08:38:01+00:00`
+- etag: `"djEuMi4wOjE3ODgyMjgwMzk1NzQ="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-08-31T05:33:11+00:00",
+  "fetched_at": "2026-09-01T08:38:01+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "70ebf517dd48c9232ad2c757b2a2af927ebb8bbd",
+      "title": "S16 Ep 900: David’s Mega Holiday Debrief - Part 1",
+      "published_at": "2026-09-01T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-900-davids-mega-holiday-debrief-part-1",
+      "description": "Via the magic of podcasting, David is now back from his epic summer family holiday and has so much to tell us about it. Although, he’s strangely reluctant at first. But once Joe’s warmed him up with some news of his recent trip to the Isle of Wight, David starts to recount the first few days of the holiday. There’s picking up their camper van, their first night at a Yeovil camp-sight, the journey to Calais, onto a Eurocamp at Bruges and a very disturbing late night smell. After the decidedly slow start, this becomes an epic three part tale - and part two's coming tomorrow… FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a91428b4fc9f31f83cd0e67/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "88842368",
+      "itunes_duration": "37:01",
+      "speakers": [
+        "David’s Mega",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "mega",
+        "holiday",
+        "debrief"
+      ]
+    },
     {
       "key": "bffc64a63643368c366628b309b682a251ae2910",
       "title": "S16 Ep 899 Vault Mondays: Jane Asher and What Direction Do You Go In At 48?",
@@ -16203,6 +16226,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-01 — S16 Ep 900: David’s Mega Holiday Debrief - Part 1 — speakers: David’s Mega, Joe Wilkinson, David Earl
 - 2026-08-31 — S16 Ep 899 Vault Mondays: Jane Asher and What Direction Do You Go In At 48? — speakers: Jane Asher, Joe Wilkinson, David Earl
 - 2026-08-28 — S16 Ep 898 Listener’s Mailbag: Cosy Moments and Marcus Brigstocke — speakers: Listener’s Mailbag, Cosy Moments, Marcus Brigstocke, Joe Wilkinson, David Earl
 - 2026-08-27 — S16 Ep 897: David’s Holiday Departure — speakers: Joe Wilkinson, David Earl

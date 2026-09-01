@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-08-31T05:33:11+00:00`
-- checked_at: `2026-08-31T05:33:11+00:00`
-- etag: `"27b48213de47caba8119c339832523a5"`
-- last_modified: `Tue, 25 Aug 2026 08:00:04 GMT`
+- fetched_at: `2026-09-01T08:38:01+00:00`
+- checked_at: `2026-09-01T08:38:01+00:00`
+- etag: `"e26db0a44b53988438d50db1b98bf5c6"`
+- last_modified: `Tue, 01 Sep 2026 04:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-08-31T05:33:11+00:00",
+  "fetched_at": "2026-09-01T08:38:01+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -968,26 +968,6 @@
       "topics": [
         "icklewick"
       ]
-    },
-    {
-      "key": "318d3e47919d98c5dc9d76b1d9178d79dd780ab5",
-      "title": "Room 101 with Paul Merton",
-      "published_at": "2025-09-01T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0lzsc4p",
-      "description": "Returning in its original one-to-one incarnation, Paul Merton interviews a variety of guests from the world of comedy and entertainment to find out what they would send to Room 101. This week Paul welcomes Richard Ayoade.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0lzsb1k.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27200000",
-      "itunes_duration": "1700",
-      "speakers": [
-        "Paul Merton"
-      ],
-      "topics": [
-        "room",
-        "paul",
-        "merton"
-      ]
     }
   ]
 }
@@ -1045,4 +1025,3 @@
 - 2025-09-22 — Glenn Moore's Almanac — speakers: Glenn Moore, Comedian Glenn Moore
 - 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore
 - 2025-09-08 — Icklewick FM
-- 2025-09-01 — Room 101 with Paul Merton — speakers: Paul Merton
