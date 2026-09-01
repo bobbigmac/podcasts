@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-09-01T08:38:01+00:00`
-- checked_at: `2026-09-01T08:38:01+00:00`
-- etag: `W/"43765-B5FRxZ1e/6hH8AUWS9MaMV054W0"`
+- fetched_at: `2026-09-01T14:09:10+00:00`
+- checked_at: `2026-09-01T14:09:10+00:00`
+- etag: `W/"43f00-uq2G4hvcF6vooO3IoFYw+L9YHyk"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-09-01T08:38:01+00:00",
+  "fetched_at": "2026-09-01T14:09:10+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "f8a55f460c92c6be685048f1a8adf0452f7b9837",
+      "title": "Let's Have a Nice Chat About Grand Theft Auto VI | Windbreaker Podcast",
+      "published_at": "2026-09-01T13:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Lets-Have-a-Nice-Chat-About-Grand-Theft-Auto-VI--Windbreaker-Podcast-e3o672f",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty chat about the recent Grand Theft Auto VI showcase, and the staggering scale that Rockstar is attempting to achieve. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1953857358.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93913254",
+      "itunes_duration": "01:36:46",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "nice",
+        "chat",
+        "grand",
+        "theft",
+        "auto",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "0e7e81ee33509334cc09c7df6bd77d546c92ab34",
       "title": "The Most Relaxing Spots in Video Games | Windbreaker Podcast",
@@ -3197,6 +3222,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-01 — Let's Have a Nice Chat About Grand Theft Auto VI | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-08-25 — The Most Relaxing Spots in Video Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-08-18 — The Worst Ways To Make Us Want Something | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-08-11 — The Obscure Games We Love | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

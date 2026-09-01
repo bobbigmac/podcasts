@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-09-01T08:38:01+00:00`
-- checked_at: `2026-09-01T08:38:01+00:00`
-- etag: `"e26db0a44b53988438d50db1b98bf5c6"`
-- last_modified: `Tue, 01 Sep 2026 04:00:07 GMT`
+- fetched_at: `2026-09-01T14:09:10+00:00`
+- checked_at: `2026-09-01T14:09:10+00:00`
+- etag: `"df6b4156d27765671d96eb4828188020"`
+- last_modified: `Tue, 01 Sep 2026 09:38:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-09-01T08:38:01+00:00",
+  "fetched_at": "2026-09-01T14:09:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,28 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "55363be2ff538cfa5b7c0c687e4b178fe56b8fb4",
+      "title": "Edinburgh Comedy Awards Gala 2026",
+      "published_at": "2026-09-01T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p7bd42",
+      "description": "The prestigious Awards turns 46 this year and as always is recognising a Best Newcomer and a Best Comedy Show. In this gala, hosted by 2024 Best Show nominee Catherine Bohart, we hear from the nominees and winners to give listeners around the UK the chance to hear what's hot at the Fringe this year. The Gala was recorded at The Grand in the Pleasance Courtyard, one of the Edinburgh Fringe’s iconic comedy venues. Audible Best Comedy Show winner is Chris Cantrill Taffner Family's Best Newcomer winner is Marty Gleeson Also nominated for Best Comedy Show are: Harriet Dyer, Li Jin Hao, Dan Tiernan, Lara Ricote Also nominated for Best Newcomer are: Fatiha El-Ghorri, Dom McGovern, Freddie Meredith, Tom Towelling, Underground Monk Show Host: Catherine Bohart Producer: Georgia Keating Executive Producer: Pete Strauss Production Co-ordinator: Jodie Charman Edited by Chris Maclean Recorded by Sean Kerwin Recorded at The Pleasance Grand in Edinburgh. A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p7bbzz.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54032000",
+      "itunes_duration": "3377",
+      "speakers": [
+        "Edinburgh Comedy Awards",
+        "Best Newcomer"
+      ],
+      "topics": [
+        "edinburgh",
+        "comedy",
+        "awards",
+        "gala"
+      ]
+    },
     {
       "key": "93f49c7271eb5ae0e5d083b76422ccd2612a3319",
       "title": "The People Have Spoken",
@@ -976,6 +998,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-01 — Edinburgh Comedy Awards Gala 2026 — speakers: Edinburgh Comedy Awards, Best Newcomer
 - 2026-08-24 — The People Have Spoken — speakers: Ian Smith, Harriet Kemsley
 - 2026-08-17 — Paul Sinha's Perfect Pub Quiz — speakers: Paul Sinha
 - 2026-08-10 — Just a Minute
