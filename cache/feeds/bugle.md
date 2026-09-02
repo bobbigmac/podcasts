@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-09-02T11:17:26+00:00`
-- checked_at: `2026-09-02T11:17:26+00:00`
-- etag: `"djEuMi4wOjE3ODgzMzg5NzIzNDQ="`
+- fetched_at: `2026-09-02T16:34:02+00:00`
+- checked_at: `2026-09-02T16:34:02+00:00`
+- etag: `"djEuMi4wOjE3ODgzNTQwMzk0MjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-09-02T11:17:26+00:00",
+  "fetched_at": "2026-09-02T16:34:02+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "bf5fa8b6ac0a4091385cd683cb21741fad93f996",
+      "title": "Fish Cakes with a Hint of Lead",
+      "published_at": "2026-09-02T13:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/fish-cakes-and-a-hint-of-lead",
+      "description": "We're back! This week on issue 4388 of The Bugle, Andy is joined by Alice Fraser and Nato Green, as they discuss El Niño, Australia takes a stand on AI and Canada-USA squabblery. PLUS a Bugle update on Burham's tenure as PM and find out how this episode got its title! Subscribe to the Bugle now through our voluntary donation scheme at the bugle podcast dot com. 🇦🇺 Australia takes a stand on AI: The Bugle report as Australia takes a stand on AI in the music industry 🇬🇧 Burnham Bounce: The trio delve into he latest on Andy Burnham's tenure as UK PM 🗺️ Google Gives In: Andy, Alice and Nato discuss as Google give in and rename Lake America for US users Andy's Links: https://www.andyzaltzman.co.uk/ Alice Fraser's Links: https://www.patreon.com/AliceFraser Nato Green's Links: https://natogreen.bandcamp.com/album/the-darkest-hour 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6a977ef01d1d1a8a9d6ca880/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43663360",
+      "itunes_duration": "45:28",
+      "speakers": [
+        "Alice Fraser",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "cakes",
+        "hint",
+        "lead"
+      ]
+    },
     {
       "key": "3769dc9ff60cae3affd73f5cf0a6e5af7ab925d3",
       "title": "The Bugle UNCUT",
@@ -14474,6 +14495,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — Fish Cakes with a Hint of Lead — speakers: Alice Fraser, Andy Zaltzman
 - 2026-08-20 — The Bugle UNCUT — speakers: Andy Zaltzman
 - 2026-08-05 — An Ask Andy Special — speakers: Andy Zaltzman
 - 2026-07-29 — An AI Odyssey — speakers: Joining Andy, Tiff Stevenson, Andy Zaltzman
