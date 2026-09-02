@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-09-01T18:30:08+00:00`
-- checked_at: `2026-09-01T18:30:08+00:00`
-- etag: `W/"19db6-G7pnVEtwfyuf+LfUNOM8H/IIGe0"`
+- fetched_at: `2026-09-02T11:17:26+00:00`
+- checked_at: `2026-09-02T11:17:26+00:00`
+- etag: `W/"1a5fb-+73xLBYNktPYIH1dhPh657g+MeY"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-09-01T18:30:08+00:00",
+  "fetched_at": "2026-09-02T11:17:26+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "25e8a5371b03977f5e4105b079d2bfc9fffb311c",
+      "title": "Coyote vs. Acme Is a Delight Worth Supporting in Theaters | The Rewind Podcast",
+      "published_at": "2026-09-02T01:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Coyote-vs--Acme-Is-a-Delight-Worth-Supporting-in-Theaters--The-Rewind-Podcast-e3o79c6",
+      "description": "This week on The Rewind, Jack, Darren, and Marty chat about Coyote vs. Acme, remember the icon that was Tim Curry, and gab about everything else they've been watching. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠ patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/125068102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2F7507df26-0df0-8410-8c4a-d0d76ccdbc50.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "215743712",
+      "itunes_duration": "02:29:49",
+      "speakers": [
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "acme",
+        "delight",
+        "worth",
+        "theaters",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "e2378904140a2c082045fb8f423273631333f485",
       "title": "X-Men Casting News, HBO's Lanterns, and The End of Oak Street | The Rewind Podcast",
@@ -1339,6 +1364,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — Coyote vs. Acme Is a Delight Worth Supporting in Theaters | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-08-19 — X-Men Casting News, HBO's Lanterns, and The End of Oak Street | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-08-05 — We Have Thoughts on Spider-Man: Brand New Day | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-07-21 — The Odyssey Is Why We Go to the Movies | The Rewind Podcast — speakers: Christopher Nolan, Darren Mooney, Jack Packard, Marty Sliva

@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-08-29T16:43:09+00:00`
-- checked_at: `2026-08-29T16:43:09+00:00`
-- etag: `"djEuMi4wOjE3ODgwMTkyMzk0MzM="`
+- fetched_at: `2026-09-02T11:17:26+00:00`
+- checked_at: `2026-09-02T11:17:26+00:00`
+- etag: `"djEuMi4wOjE3ODgzNDQ2MzEwNTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-08-29T16:43:09+00:00",
+  "fetched_at": "2026-09-02T11:17:26+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "6907dc3ccb789c5b16f68f5d098fdc5a7e06644c",
+      "title": "How can the UK protect its historic buildings from climate change?",
+      "published_at": "2026-09-02T10:23:50+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/how-can-the-uk-protect-its-historic-buildings-from-climate-c",
+      "description": "As the UK faces hotter summers, wetter winters and more unpredictable weather, its historic buildings will need to adapt. But how can Britain make them more resilient without compromising the heritage that makes them worth protecting? Host Sarah Dawood is joined by Dame Caroline Dinenage MP, Chair of the House of Commons Culture, Media and Sport Committee, and Tor Burrows, Chief Sustainability Officer at Grosvenor, to ask whether the current system is fit for a changing climate. Their discussion explores the barriers to adapting and retrofitting older buildings, from complex planning processes to skills shortages. They also consider how historic buildings could contribute to housing, economic growth and the UK’s climate goals. They discuss the case for a more coordinated approach across government, a “reuse first” policy and clearer rules for low-risk retrofit. The conversation also looks at what needs to change to keep historic buildings useful, comfortable and resilient for the future. This New Statesman podcast episode has been fully funded by Grosvenor. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1788344616609-8a7b6fbe-c0d2-4a2d-8142-4bb8a2216876.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a97f8bdf5a737121981d163/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33080568",
+      "itunes_duration": "22:57",
+      "speakers": [
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "building",
+        "climate",
+        "change"
+      ]
+    },
     {
       "key": "92f5a1a282e4e8646a659d385fa4414e18b2c6c5",
       "title": "The investigation into “Farage Fest”",
@@ -32270,6 +32291,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — How can the UK protect its historic buildings from climate change? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-08-29 — The investigation into “Farage Fest” — speakers: Nigel’s Farage Fest, Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-08-27 — Zack Polanski's honeymoon is over — speakers: Zack Polanski, Anoosh Chakelian, Oli Dugmore
 - 2026-08-24 — How will Burnham navigate the North Sea? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore

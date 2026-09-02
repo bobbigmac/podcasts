@@ -34565,6 +34565,28 @@
     ],
     "richard-ayoade": [
       {
+        "feed_slug": "external:apple:c6b7c4cc39d5",
+        "feed_title": "Taskmaster: The People's Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-peoples-podcast",
+        "dedupe_key": "f2c70ed968b84e8584e1b98e5df90f91368bab4b",
+        "episode_key": "f2c70ed968b84e8584e1b98e5df90f91368bab4b",
+        "title": "UK TASKMASTER SERIES 22 STATS AND PREDICTIONS",
+        "published_at": "2026-08-31T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Series 22 is almost here, and before it lands we're doing our deepest of deep dives into this year's cast: Chloe Petts, Isy Suttie, Matt Lucas, Nina Conti and Richard Ayoade. We talk tallest-ever line-ups, dodgy internet height stats, seat-number superstitions, the \"class of '74–'78\" age cluster, university vs. Footlig",
+        "audio_url": "https://episodes.captivate.fm/episode/f35d056e-88e5-49b3-a58a-a90f34359afd.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=f35d056e-88e5-49b3-a58a-a90f34359afd",
+        "link_url": "https://podcasts.apple.com/gb/podcast/uk-taskmaster-series-22-stats-and-predictions/id1619305860?i=1000787015877&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Ayoade"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:fea129d05ae6",
         "feed_title": "Leeds News Today | 2 Min News | The Daily News Now!",
         "source_rss_url": "https://feeds.fastcast.ai/dallas-wings-the-daily-news-now.xml",
