@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-08-31T05:33:11+00:00`
-- checked_at: `2026-08-31T05:33:11+00:00`
-- last_modified: `Mon, 31 Aug 2026 00:06:47 GMT`
+- fetched_at: `2026-09-02T04:32:12+00:00`
+- checked_at: `2026-09-02T04:32:12+00:00`
+- last_modified: `Wed, 02 Sep 2026 00:42:41 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-31T05:33:11+00:00",
+  "fetched_at": "2026-09-02T04:32:12+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "a29f041b71de6756802da117c599680033bcb5f8",
+      "title": "Frank Skinner’s Radio Days: Gardening Trousers",
+      "published_at": "2026-09-02T00:00:00+00:00",
+      "link": null,
+      "description": "It’s 2014 and this time in Newcastle! Frank is thinking about taking up gardening. There’s chat about Homebase trips, the loss of the pen knife and guilty pleasures. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/07931364-a64a-11f1-b994-a34594697666/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR8711020776.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2155",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "trouser"
+      ]
+    },
     {
       "key": "e288adc2a52f2f3d652ee7ce17980c480d190a21",
       "title": "HMV Bargain Basket",
@@ -24604,6 +24625,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — Frank Skinner’s Radio Days: Gardening Trousers — speakers: Frank Skinner
 - 2026-08-31 — HMV Bargain Basket — speakers: Katie Norris, John Kearns, Frank Skinner
 - 2026-08-28 — Distorted WhatsApp Jingles — speakers: Katie Norris, John Kearns, Frank Skinner
 - 2026-08-26 — Frank Skinner's Radio Days: Chicken and the Egg — speakers: Frank Skinner

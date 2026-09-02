@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-08-31T05:33:11+00:00`
-- checked_at: `2026-08-31T05:33:11+00:00`
-- etag: `"djEuMi4wOjE3ODgxNDUwNTk0NDM="`
+- fetched_at: `2026-09-02T04:32:12+00:00`
+- checked_at: `2026-09-02T04:32:12+00:00`
+- etag: `"djEuMi4wOjE3ODgzMTc4NTkzNjc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-08-31T05:33:11+00:00",
+  "fetched_at": "2026-09-02T04:32:12+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7054a4fa62ad63f88fe5255cdd431f18402fbd6e",
+      "title": "Lucy Porter - \"Beating Leonardo at Poker\"",
+      "published_at": "2026-09-02T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #625 - Beating Leonardo at Poker - Rich is back at the Podcast Room, talking to the wonderful Lucy Porter. They discuss selling out to the man, writing links for Anthea Turner’s Homemaking show from a leaking shack, working with Mrs Merton and whether Caroline Aherne gets the credit she deserves, appearing on Celebrity Poker in the early noughties and what career opportunities that led to and have Rich and Lucy let themselves go? Plus appearing on Eastenders and why Lucy will keep on touring forever. Hooray! See Lucy on tour https://www.lucyporter.co.uk/gigs/ See RHLSTP live (whilst you still can) http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Recorded at the Podcast Room Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1788131062754-ef4a36fc-d374-4491-bee6-9a49412082e1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a94b18dee851f3f31c65587/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21416437",
+      "itunes_duration": "44:37",
+      "speakers": [
+        "Lucy Porter Beating Leonardo",
+        "Richard Herring"
+      ],
+      "topics": [
+        "lucy",
+        "porter",
+        "beating",
+        "leonardo",
+        "poker"
+      ]
+    },
     {
       "key": "f98d18dd5d4e72b51d65202a0bd6c36099c0de05",
       "title": "Sophie Duker (Retro) - \"Sploshing\"",
@@ -23675,6 +23698,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — Lucy Porter - "Beating Leonardo at Poker" — speakers: Lucy Porter Beating Leonardo, Richard Herring
 - 2026-08-31 — Sophie Duker (Retro) - "Sploshing" — speakers: Sophie Duker, Richard Herring
 - 2026-08-26 — John Robins - "Cake of Shame" — speakers: John Robins, Richard Herring
 - 2026-08-24 — Richard Osman (Retro) - "The Oldest Person In Scotland" — speakers: Richard Osman, Ed Fringe, Oldest Person, Richard Herring

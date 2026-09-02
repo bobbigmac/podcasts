@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-08-26T04:02:08+00:00`
-- checked_at: `2026-08-26T04:02:08+00:00`
-- etag: `"djEuMi4wOjE3ODc3MTMyMzk3ODY="`
+- fetched_at: `2026-09-02T04:32:12+00:00`
+- checked_at: `2026-09-02T04:32:12+00:00`
+- etag: `"djEuMi4wOjE3ODgzMTgwMzk5NTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-08-26T04:02:08+00:00",
+  "fetched_at": "2026-09-02T04:32:12+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -29,11 +29,34 @@
   ],
   "episodes": [
     {
+      "key": "83c70cdf019dc110ca323782c76f25eaa57dfea7",
+      "title": "Tessa Coates",
+      "published_at": "2026-09-02T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/tessa-coates",
+      "description": "Tessa Coates – creator/show-runner of Prime Video’s hit show ‘Ride or Die’, stand-up, writer and former ‘Nobody Panic’ podcaster – is this week’s guest diner. But will they talk about the time she met Paul Rudd? Yes. Tessa Coates’s series ‘Ride or Die’ is available now on Prime Video. Watch it here . Listen to Tessa’s podcast ‘Nobody Panic’ wherever you get your podcasts . Follow Tessa on Instagram @wheatpraylove Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1788256712959-2bccc6a8-29ce-433a-91fb-737858e1dbaa.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a7ed38c6f6b33429c8e579f/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76667506",
+      "itunes_duration": "1:19:51",
+      "speakers": [
+        "Tessa Coates Tessa Coates",
+        "Prime Video",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "tessa",
+        "coates"
+      ]
+    },
+    {
       "key": "659e871d5815410398a4bbdc46f09a04a9c96461",
       "title": "Kaya Scodelario",
       "published_at": "2026-08-26T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/kaya-scodelario",
-      "description": "This week the Dream Restaurant welcomes British-Brazilian actor Kaya Scodelario – star of ‘The Maze Runner’ films, ‘Skins’ and Netflix’s ‘The Gentleman’. Hello to all the divorced men out there. If you’re listening on Apple Podcasts you can now watch this episode too. Kaya Scodelario stars in Guy Ritcher’s ‘The Gentlemen’, and series 2 comes to Netflix on 3 September. Watch series one now . Follow Kaya on Instagram @kayascods Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "This week the Dream Restaurant welcomes British-Brazilian actor Kaya Scodelario – star of ‘The Maze Runner’ films, ‘Skins’ and Netflix’s ‘The Gentleman’. Kaya Scodelario stars in Guy Ritcher’s ‘The Gentlemen’, and series 2 comes to Netflix on 3 September. Watch series one now . Follow Kaya on Instagram @kayascods Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1785486258265-f97348d7-cc69-4148-8567-9fdd8ed89883.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a6c5b7c8fc38d720f9f24fa/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -55,7 +78,7 @@
       "title": "Mark Gatiss",
       "published_at": "2026-08-19T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/mark-gatiss",
-      "description": "Mark Gatiss – 1/4 of The League of Gentlemen, Bafta-winner, co-creator and star of ‘Sherlock’ – has a booking at the Dream Restaurant this week. And he makes James his chip b*tch. If you’re listening on Apple Podcasts you can now watch this episode too. Mark Gatiss created and stars in ‘Bookish’ and series 2 starts on U&alibi on Wed 26 Aug, and stream on U . Follow Mark on Instagram @themarkgatiss Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Mark Gatiss – 1/4 of The League of Gentlemen, Bafta-winner, co-creator and star of ‘Sherlock’ – has a booking at the Dream Restaurant this week. And he makes James his chip b*tch. Mark Gatiss created and stars in ‘Bookish’ and series 2 starts on U&alibi on Wed 26 Aug, and stream on U . Follow Mark on Instagram @themarkgatiss Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1785486361259-46f28d9c-e3ad-4e36-aead-422261715bab.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a68c4202670d42f37ae5386/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -77,7 +100,7 @@
       "title": "Bella Ramsey",
       "published_at": "2026-08-12T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/bella-ramsey",
-      "description": "Actor, Emmy-nominee, ‘The Last of Us’ star and future ‘Celebrity Traitors’ contestant Bella Ramsey is this week’s Off Menu guest. And people who write those quirky things on food packaging; you have a fan. If you’re listening on Apple Podcasts you can now watch this episode too. Bella Ramsey stars in ‘Sunny Dancer’ which is released in cinemas on Friday 14 August. Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Actor, Emmy-nominee, ‘The Last of Us’ star and future ‘Celebrity Traitors’ contestant Bella Ramsey is this week’s Off Menu guest. And people who write those quirky things on food packaging; you have a fan. Bella Ramsey stars in ‘Sunny Dancer’ which is released in cinemas on Friday 14 August. Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1785486341048-201912e1-5d8b-4f52-b4ab-305f8930d245.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a68b9852670d42f37ae5385/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -100,7 +123,7 @@
       "title": "Jinkx Monsoon",
       "published_at": "2026-08-05T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/jinkx-monsoon",
-      "description": "Jinkx Monsoon – two-time ‘Drag Race’ winner, actress, singer and the new star of ‘Oh, Mary!’ – has a table booked in the Dream Restaurant this week. And she loves a British accent… If you’re using the Apple Podcasts app you can now watch this episode too. Jinkx Monsoon stars as Mary Todd Lincoln in ‘Oh, Mary!’ in at the Trafalgar Theatre in London’s West End from 17 Aug-26 Sep. Get tickets from ohmaryplay.co.uk Follow Jinkx on Instagram @thejinkx , TikTok @jinkxmonsoonofficial and YouTube @jinkxmonsoon official Watch the full video episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Jinkx Monsoon – two-time ‘Drag Race’ winner, actress, singer and the new star of ‘Oh, Mary!’ – has a table booked in the Dream Restaurant this week. And she loves a British accent… Jinkx Monsoon stars as Mary Todd Lincoln in ‘Oh, Mary!’ in at the Trafalgar Theatre in London’s West End from 17 Aug-26 Sep. Get tickets from ohmaryplay.co.uk Follow Jinkx on Instagram @thejinkx , TikTok @jinkxmonsoonofficial and YouTube @jinkxmonsoon official Watch the full video episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1785486301911-1c839980-8e6d-4358-89f4-0d781c9aefab.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a589e3e7fbab351cbbe2383/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -123,7 +146,7 @@
       "title": "Sindhu Vee (Tasting Menu)",
       "published_at": "2026-07-29T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/sindhu-vee-tasting-menu",
-      "description": "Another fan favourite returns to the Dream Restaurant, and this time it’s straight-talking stand-up Sindhu Vee, all the way back from episode 15. Will she have more words of wisdom like ‘to the hungry person even the doorway looks like crisps’? If you’re listening on Apple Podcasts you can now watch this episode too. Listen to Sindhu’s original episode Sindhu Vee is on tour across the UK in 2026 and 2027 with ‘Swanky’, including a date at London’s Eventim Apollo. For dates and tickets go to www.sindhuvee.com Follow Sindhu on Instagram @sindhuvee and TikTok @sindhuvee100 Don’t forget, video episodes of Off Menu are out every Wednesday on our YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Another fan favourite returns to the Dream Restaurant, and this time it’s straight-talking stand-up Sindhu Vee, all the way back from episode 15. Will she have more words of wisdom like ‘to the hungry person even the doorway looks like crisps’? Listen to Sindhu’s original episode Sindhu Vee is on tour across the UK in 2026 and 2027 with ‘Swanky’, including a date at London’s Eventim Apollo. For dates and tickets go to www.sindhuvee.com Follow Sindhu on Instagram @sindhuvee and TikTok @sindhuvee100 Don’t forget, video episodes of Off Menu are out every Wednesday on our YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1784901566212-5a15d344-3943-4896-b83e-26a3007e4aa1.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a4b9e203b774de65a10065a/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -173,7 +196,7 @@
       "title": "Laura Smyth",
       "published_at": "2026-07-22T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/laura-smyth",
-      "description": "This week’s dream diner is stand-up, Live at the Apollo star and Radio 4 regular, Laura Smyth! And James remembers his shopping list… If you’re listening on Apple Podcasts you can now watch this episode too. Laura Smyth is on tour across the UK and Ireland with ‘Born Aggy’, including a date at London’s Eventim Apollo. For dates and tickets go to laurasmyth.com Listen to Laura’s podcast ‘Shouldn’t Laugh But…’ here or whenever you get your podcasts. Follow Laura on Instagram and TikTok @thatlaurasmyth Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "This week’s dream diner is stand-up, Live at the Apollo star and Radio 4 regular, Laura Smyth! And James remembers his shopping list… Laura Smyth is on tour across the UK and Ireland with ‘Born Aggy’, including a date at London’s Eventim Apollo. For dates and tickets go to laurasmyth.com Listen to Laura’s podcast ‘Shouldn’t Laugh But…’ here or whenever you get your podcasts. Follow Laura on Instagram and TikTok @thatlaurasmyth Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1784624221189-b4ff31ed-5e59-409d-9d14-9285d3b432f1.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a43a7b8269f5df7cbc85cd5/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -221,7 +244,7 @@
       "title": "Phil Ellis",
       "published_at": "2026-07-15T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/phil-ellis",
-      "description": "The Dream Restaurant’s open for business once more, and our first diner for series 16 is ‘Taskmaster’ star and Edinburgh Comedy Award nominee Phil Ellis. If you’re listening on Apple Podcasts you can now watch this episode too. And what an episode to watch. Phil Ellis is currently on a nationwide stand-up tour with Bath Mat, including an extra London show at Wilton’s Music Hall on 10th October. He will also be taking the show to Monkey Barrel 1 as part of the Edinburgh Festival Fringe from 3rd - 30th August at 1.55pm. For more info and tickets visit philelliscomedy.com Listen to Phil’s podcast ‘Early Worms’ Follow Phil on Instagram @philelliscomedy Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "The Dream Restaurant’s open for business once more, and our first diner for series 16 is ‘Taskmaster’ star and Edinburgh Comedy Award nominee Phil Ellis. Phil Ellis is currently on a nationwide stand-up tour with Bath Mat, including an extra London show at Wilton’s Music Hall on 10th October. He will also be taking the show to Monkey Barrel 1 as part of the Edinburgh Festival Fringe from 3rd - 30th August at 1.55pm. For more info and tickets visit philelliscomedy.com Listen to Phil’s podcast ‘Early Worms’ Follow Phil on Instagram @philelliscomedy Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1783350289466-9194dff7-9c07-4da4-afcd-c15622eaf269.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a4b9bbb3b774de65a100659/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -8899,6 +8922,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — Tessa Coates — speakers: Tessa Coates Tessa Coates, Prime Video, Ed Gamble, James Acaster, Ben Williams
 - 2026-08-26 — Kaya Scodelario — speakers: Kaya Scodelario, Ed Gamble, James Acaster, Ben Williams
 - 2026-08-19 — Mark Gatiss — speakers: Mark Gatiss Mark Gatiss, Ed Gamble, James Acaster, Ben Williams
 - 2026-08-12 — Bella Ramsey — speakers: Bella Ramsey Actor, Bella Ramsey, Ed Gamble, James Acaster, Ben Williams

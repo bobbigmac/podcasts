@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-08-26T04:02:08+00:00`
-- checked_at: `2026-08-26T04:02:08+00:00`
-- last_modified: `Tue, 25 Aug 2026 13:52:07 GMT`
+- fetched_at: `2026-09-02T04:32:12+00:00`
+- checked_at: `2026-09-02T04:32:12+00:00`
+- last_modified: `Mon, 31 Aug 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-26T04:02:08+00:00",
+  "fetched_at": "2026-09-02T04:32:12+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,55 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2c528d335e345ff6e110dac9be8df10619f6d1dd",
+      "title": "Tough Love, Parenting And The Marvel Universe",
+      "published_at": "2026-08-31T23:01:00+00:00",
+      "link": null,
+      "description": "Is Romesh really the weakest link? In this episode of Wolf & Owl, Romesh questions whether he's the \"dud\" in his various projects, but Tom is having absolutely none of it. The pair discuss Romesh's success, behind the scenes at BBC Radio 2, and whether he's giving himself enough credit. Elsewhere, Romesh and the boys get into parenting, tough love and pets, while Tom finds himself struggling with household duties while his wife recovers from surgery. But it wouldn't be Wolf & Owl without a tangent. The boys digress into a big debate on The Marvel Universe. Plus, there's a discussion on the power of having a growth mindset and chat of haircuts, plugs, and a surprising AI French crop moment. Another week, another collection of questionable decisions from Wolf & Owl. A Ranga Bee Production in partnership with Platform Media. If you've been thinking about therapy, BetterHelp can help you take the first step. Sign up and get 10% off at https://www.BetterHelp.com/wolfowl Chapters 00:00 Intro 01:35 Who’s the best on Radio 2? 04:51 What’s up at Tom’s house 06:36 Rom’s family situation 13:40 Parenting and pets 17:40 A Marvel movie digression 21:36 Tom’s autobiography 22:05 Rom explains Marvel 26:28 Growth mindset 28:55 Sweet Bobby Freeman 31:00 Rom’s new addiction and hair maintenance 33:20 Tom's Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e60d9b9c-a2e3-11f1-bd05-d361f62c8e85/image/be50c76dd9ec2d7f3bb1d50c3014439b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT1906676923.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2267",
+      "speakers": [
+        "Tough Love",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "tough",
+        "love",
+        "parenting",
+        "marvel",
+        "universe"
+      ]
+    },
+    {
+      "key": "4125b1646f402bf0296285aa5cbe11d31ec4fc90",
+      "title": "School Bullies, Racism & Toilet Catastrophes",
+      "published_at": "2026-08-27T23:01:00+00:00",
+      "link": null,
+      "description": "How would you handle a school bully? In this episode of Wolf & Owl, Romesh opens up about being bullied at school and he shares a story about a fight that left a lasting impression. The boys discuss racism and answer an email on how to deal with your child being bullied. Elsewhere, they tackle a particularly unfortunate skid mark scenario before getting into some important toilet tips courtesy of Tom. Another week, another collection of questionable stories and life lessons from Wolf & Owl. A Ranga Bee Production in partnership with Platform Media. If you've been thinking about therapy, BetterHelp can help you take the first step. Sign up and get 10% off at https://www.BetterHelp.com/wolfowl Chapters 00:00 Intro 03:01 School bullying and racism 05:05 Romesh’s school fight 11:00 How to handle it 15:31 A skid mark scenario 12:51 Some safety advice 24:01 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/ddfec15e-a13c-11f1-9ce6-a3f156e7debf/image/47c15c8f8279f1c574b093acb276c489.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT5810451352.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1729",
+      "speakers": [
+        "School Bullies",
+        "Toilet Catastrophes How",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "school",
+        "bullies",
+        "racism",
+        "toilet",
+        "catastrophes"
+      ]
+    },
     {
       "key": "53b1269cbc0f9f41810565ad34679cd1fbf1a898",
       "title": "Kitchen Nightmares, Holidays And Comedy Careers",
@@ -7426,6 +7475,8 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — Tough Love, Parenting And The Marvel Universe — speakers: Tough Love, Romesh Ranganathan, Tom Davis
+- 2026-08-27 — School Bullies, Racism & Toilet Catastrophes — speakers: School Bullies, Toilet Catastrophes How, Romesh Ranganathan, Tom Davis
 - 2026-08-25 — Kitchen Nightmares, Holidays And Comedy Careers — speakers: Kitchen Nightmares, Comedy Careers, Romesh Ranganathan, Tom Davis
 - 2026-08-20 — Partner Advice, Phrogging And The Importance Of A Good Curry — speakers: Partner Advice, Good Curry Would, Romesh Ranganathan, Tom Davis
 - 2026-08-17 — Manscaping, Country Music & Dinner Invites — speakers: Romesh Ranganathan, Tom Davis

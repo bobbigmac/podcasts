@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-08-31T20:50:15+00:00`
-- checked_at: `2026-08-31T20:50:15+00:00`
-- etag: `"djEuMi4wOjE3ODgyMDAxNjgyMDM="`
+- fetched_at: `2026-09-02T04:32:12+00:00`
+- checked_at: `2026-09-02T04:32:12+00:00`
+- etag: `"djEuMi4wOjE3ODgzMDcyMzk0ODQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-08-31T20:50:15+00:00",
+  "fetched_at": "2026-09-02T04:32:12+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,27 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "a1d3beaa7406700f94b238a6e9a6dafdf3393388",
+      "title": "DWSC LIVE: With Suzie Preece",
+      "published_at": "2026-09-02T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-suzie-preece",
+      "description": "On a balmy night in Norwich, 2026, Taylor and Hannah round off the 2026 DWSC tour, and did so in excellent company, as they were joined by the wondrous Suzie Preece, who started off the show by confessing to a crime in which she used a fake ID that would allow her to join a SAGA holiday rather than a booze cruise. The team then go oot and aboot in Quebec to solve another juvenile endeavour, before hearing from a member of the audience who, when it comes to the crunch, needs to blame at least ONE member of the family. The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in September, October AND November. Full info and tickets HERE. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a95c4e81d52ae16badbdb96/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84842149",
+      "itunes_duration": "58:54",
+      "speakers": [
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "suzie",
+        "preece"
+      ]
+    },
     {
       "key": "f19d3b10ae1ba8d48c66575a23c116dcef6c3bee",
       "title": "Pen Pals, with Bella Lindsay",
@@ -11522,6 +11543,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — DWSC LIVE: With Suzie Preece — speakers: Hannah George, Taylor Glenn
 - 2026-08-26 — Pen Pals, with Bella Lindsay — speakers: Bella Lindsay Hello, Hannah George, Taylor Glenn
 - 2026-08-19 — DWSC LIVE: With Abby Govindan — speakers: Abby Govindan, Abby Govind, Hannah George, Taylor Glenn
 - 2026-08-12 — DWSC LIVE: With Tamsyn Kelly — speakers: Tamsyn Kelly, Hannah George, Taylor Glenn

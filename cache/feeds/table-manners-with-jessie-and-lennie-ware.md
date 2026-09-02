@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-08-26T04:02:08+00:00`
-- checked_at: `2026-08-26T04:02:08+00:00`
-- etag: `"djEuMi4wOjE3ODc3MDI0Mzk0NTU="`
+- fetched_at: `2026-09-02T04:32:12+00:00`
+- checked_at: `2026-09-02T04:32:12+00:00`
+- etag: `"djEuMi4wOjE3ODgzMDcyOTkyNDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-08-26T04:02:08+00:00",
+  "fetched_at": "2026-09-02T04:32:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d0267d6c939b32797eccfd96dbb0966d43c2de7b",
+      "title": "Second Helpings - Emilia Clarke",
+      "published_at": "2026-09-02T00:01:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/second-helpings-emilia-clarke",
+      "description": "We’re travelling way back to 2019 and to close Series 8 of Table Manners we decided to get an absolute Christmas cracker in, the Mother of ALLLL mothers, the Mother of Dragons! After hearing this lady was a fan of the podcast I swooped in like a baby dragon and coaxed her with the promise of chicken soup (her request!) and she even broke her gluten free policy to sample mum's matzoh balls. We talk to our dream girl about her dear late dad's passion for food, salad in a bag, boarding school meals and setting up her charity, 'Same You' with her mum after having 2 brain aneurysm in her twenties. What a treat to have the nation's sweetheart over for dins! Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1786964102315-466871ee-2fee-43ad-8963-5b72217cf7a6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a81c97bff328abd8430e983/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54641474",
+      "itunes_duration": "56:55",
+      "speakers": [
+        "Second Helpings",
+        "Table Manners"
+      ],
+      "topics": [
+        "second",
+        "helpings",
+        "emilia",
+        "clarke"
+      ]
+    },
     {
       "key": "1451a9576aa93e7b23b27bac7b13f5a0404730f4",
       "title": "Second Helpings - Emerald Fennell",
@@ -7397,6 +7419,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — Second Helpings - Emilia Clarke — speakers: Second Helpings, Table Manners
 - 2026-08-26 — Second Helpings - Emerald Fennell — speakers: Emerald Fennell
 - 2026-08-19 — Second Helpings - Dolly Parton — speakers: Second Helpings, Dolly Parton
 - 2026-08-12 — Second Helpings - Yungblud — speakers: Second Helpings

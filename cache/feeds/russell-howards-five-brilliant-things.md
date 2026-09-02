@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-08-26T01:57:52+00:00`
-- checked_at: `2026-08-26T01:57:52+00:00`
-- last_modified: `Wed, 26 Aug 2026 01:10:48 GMT`
+- fetched_at: `2026-09-02T04:32:12+00:00`
+- checked_at: `2026-09-02T04:32:12+00:00`
+- last_modified: `Wed, 02 Sep 2026 01:08:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-26T01:57:52+00:00",
+  "fetched_at": "2026-09-02T04:32:12+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,47 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "bcf3fce4193c682eb9f2e76f6d61c415e8489302",
+      "title": "Brian Conley",
+      "published_at": "2026-09-02T01:00:00+00:00",
+      "link": null,
+      "description": "Brian Conley has been one of the biggest names in UK comedy and theatre for the past generation. From being the biggest comedian on TV to the most in-demand stage performer, he’s done it all. Come in and listen to a fascinating chat between Russell and Brian, two comics who sit, and have sat, at the top of their game at different periods in history. As we spoke about on the show, Brian has just competed in Celebrity Hunted on Channel 4, and you can watch the whole series, including his victorious final show on the Channel 4 player right now! Link is here or you can just search for it when you get back to your big telly. The Prat Pack also have some September shows which are selling fast - find out more about that by going here . And this is where we part company. I’ll see you in next week’s blurb no doubt. We MUST stop meeting like this. Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9e0b7b82-a551-11f1-8058-5b359f4d112e/image/eae58bf9436f67ebba706a94c118414c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR3432467657.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3360",
+      "speakers": [
+        "Brian Conley Brian Conley",
+        "Russell Howard"
+      ],
+      "topics": [
+        "brian",
+        "conley"
+      ]
+    },
+    {
+      "key": "e45cc03c28bab6705d6cb20f25dcffeb4c3fd8ae",
+      "title": "August's Moments of the Month",
+      "published_at": "2026-09-01T01:00:00+00:00",
+      "link": null,
+      "description": "Hello there! Welcome to August’s Moments of the Month. In case you’re new here, this is a compilation show with a little flavour of each guest we’ve enjoyed this month, but not the whole show. Then if you like the taste of any of them you can double-back and listen to the whole episode. It’s a good way to discover someone you would never have thought of clicking on before. First up we’ve got the comedian, actor and star of SNL UK, Scarborough’s finest… Paddy Young. Then we had Dan Tiernan just getting ready for Edinburgh, using the power of crystals… Following that was a special episode with Russell’s close friend, the US film director Joe Maggio who waxed lyrical about the greatest film of all time - La Dole Vita And lastly it was the firebrand honesty of Alfie Brown, who wears his personal history on his sleeve for our entertainment! So there we go! That’s a little taste of what August was like. All of those shows are available in full right now, so if you got a taste for it, go and get some more. Thanks as always for listening and there will be a new show, as usual, this coming Wednesday. Byeeee! Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5842812221.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3221",
+      "speakers": [
+        "Month Hello",
+        "Russell Howard"
+      ],
+      "topics": [
+        "august",
+        "moments",
+        "month"
+      ]
+    },
     {
       "key": "62d96739e41043f18ccbeabeaaa6779be1c62974",
       "title": "Alfie Brown",
@@ -3374,6 +3415,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — Brian Conley — speakers: Brian Conley Brian Conley, Russell Howard
+- 2026-09-01 — August's Moments of the Month — speakers: Month Hello, Russell Howard
 - 2026-08-26 — Alfie Brown — speakers: Alfie Brown, Russell Howard
 - 2026-08-19 — Joe Maggio — speakers: Joe Maggio, Russell Howard
 - 2026-08-12 — Dan Tiernan — speakers: Dan Tiernan Award, Dan Tiernan, Russell Howard

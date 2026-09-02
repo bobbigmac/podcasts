@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-08-28T15:21:22+00:00`
-- checked_at: `2026-08-28T15:21:22+00:00`
-- etag: `"djEuMi4wOjE3ODc4ODcyMzkzODU="`
+- fetched_at: `2026-09-02T04:32:12+00:00`
+- checked_at: `2026-09-02T04:32:12+00:00`
+- etag: `"djEuMi4wOjE3ODgzMTkyMzkyODY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-08-28T15:21:22+00:00",
+  "fetched_at": "2026-09-02T04:32:12+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f302079f77c9e9586f4ead14d5f195e01b85677e",
+      "title": "ROMESH RANGANATHAN • a very necessary dose of Romesh for your Autumn (podcasts / comedy / TV) #685",
+      "published_at": "2026-09-02T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by national treasure ROMESH RANGANATHAN ! Weirdly it's been a long time coming, this one. It feels like Romesh has never been far away but in reality it's been a bunch of years since he was last on - and that appearance was a stone cold classic (which has come up more than a few times before). Well, consider the loop closed as Romesh and Pip are united once more, this time in a 100% sober environment which allows for, let's say, a far more focused and lucid conversation. But still fun and awesome as all hell. What do we have here... Well to start with, older rappers and how to age gracefully in Hip Hop, the Romesh glowup, where to put the binge day, the podcast arc from early mic and a recorder days to the current multi-cam industry, Rob & Romesh classics, being niche but also massive, performing, old rap, and a ton more. You know what it is. A genuine pick-me-up for your mid-week DPP needs. Go enjoy! PIP'S PATREON PAGE if you're of a supporting nature INSTAGRAM ONLINE (everything is here) DRUNKCAST w/the gang Pt.1 SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1788117979388-6eb6e32c-60a7-46f2-8b18-d63188e81742.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a948739b11fad096698dc7b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "218321128",
+      "itunes_duration": "1:30:53",
+      "speakers": [],
+      "topics": [
+        "romesh",
+        "ranganathan",
+        "dose",
+        "autumn",
+        "podcast",
+        "comedy"
+      ]
+    },
     {
       "key": "61dedc6a7702a954d6ec1df47b9aa6c96c2c8f26",
       "title": "KSI (musician / social media kingpin) • Friday Rewind",
@@ -19493,6 +19514,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — ROMESH RANGANATHAN • a very necessary dose of Romesh for your Autumn (podcasts / comedy / TV) #685
 - 2026-08-28 — KSI (musician / social media kingpin) • Friday Rewind
 - 2026-08-26 — SCROOBIUS PIP performs the album 'DISTRACTION PIECES' as a spoken word set! (recorded in Canada 2021) #684
 - 2026-08-21 — NIAMH ALGAR (Calm With Horses / The Virtues / Raised By Wolves) • Friday Rewind

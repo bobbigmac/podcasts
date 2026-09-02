@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-08-30T05:23:25+00:00`
-- checked_at: `2026-08-30T05:23:25+00:00`
-- etag: `"djEuMi4wOjE3ODgwNTg4Mzk0ODk="`
+- fetched_at: `2026-09-02T04:32:12+00:00`
+- checked_at: `2026-09-02T04:32:12+00:00`
+- etag: `"djEuMi4wOjE3ODgzMjE2NDA5NzI="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-08-30T05:23:25+00:00",
+  "fetched_at": "2026-09-02T04:32:12+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "c74fa64e1ff28f86f29eb6b20fca2ffb56c69c5b",
+      "title": "WDWDY #86.1: Teabagging the goldfish (David's Yesterday)",
+      "published_at": "2026-09-02T04:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-861-teabagging-the-goldfish-davids-yesterday",
+      "description": "On this mid-week bonus ep we find out what David did with his yesterday... including a questionable encounter with the goldfish in his care. This is the last episode of the main series - business as usual on the fan club in the meantime. We'll be back soon after the live shows and a short end of summer break with more WDYDY. Thanks for listening!! Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠www.everythingisshowbiz.com⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1788199905012-5d3c12b7-e376-457e-87ce-bab40b707b81.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6a95c44ad292c337c0ded413/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "128655644",
+      "itunes_duration": "53:29",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "goldfish",
+        "david",
+        "yesterday"
+      ]
+    },
     {
       "key": "618b353a1452cd4b11c294efc5d02d1eaad80e09",
       "title": "S5 EP11: Danny Wallace",
@@ -4016,6 +4037,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — WDWDY #86.1: Teabagging the goldfish (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-30 — S5 EP11: Danny Wallace — speakers: Danny Wallace, Max Rushden, David O'Doherty
 - 2026-08-26 — WDWDY #85.1: To Err is Human (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-23 — S5 EP10: Nina Conti — speakers: Nina Conti Joining, Max Rushden, David O'Doherty
