@@ -2,8 +2,8 @@
 
 - slug: `peacock-and-gamble`
 - source: `https://www.fubarradio.com/player/on-demand/peacock-and-gamble/`
-- fetched_at: `2026-09-02T16:34:02+00:00`
-- checked_at: `2026-09-02T16:34:02+00:00`
+- fetched_at: `2026-09-02T21:02:49+00:00`
+- checked_at: `2026-09-02T21:02:49+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,7 +16,7 @@
   "link": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "image_url": "",
-  "fetched_at": "2026-09-02T16:34:02+00:00",
+  "fetched_at": "2026-09-02T21:02:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

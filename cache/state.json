@@ -18,8 +18,8 @@
       "last_modified": "Mon, 31 Aug 2026 18:09:52 GMT"
     },
     "parenting-hell": {
-      "last_checked_at": "2026-09-02T16:34:02+00:00",
-      "last_checked_unix": 1788366848,
+      "last_checked_at": "2026-09-02T21:02:49+00:00",
+      "last_checked_unix": 1788382974,
       "last_modified": "Mon, 31 Aug 2026 23:52:29 GMT"
     },
     "films-to-be-buried-with": {
@@ -151,10 +151,10 @@
       "etag": "W/\"18a71-YHI5JjXGLbZe8X3KqSGRLRuBgK8\""
     },
     "best-smooth-jazz-host-rod-lucas": {
-      "last_checked_at": "2026-09-02T16:34:02+00:00",
-      "last_checked_unix": 1788366846,
-      "etag": "\"8a9ffa7b1bfedccca498cd848b62e839-gzip\"",
-      "last_modified": "Sat, 15 Aug 2026 10:14:13 GMT"
+      "last_checked_at": "2026-09-02T21:02:49+00:00",
+      "last_checked_unix": 1788382973,
+      "etag": "W/\"9175f6da654ebc2266e0866e3b9ff048-gzip\"",
+      "last_modified": "Wed, 02 Sep 2026 17:57:47 GMT"
     },
     "a-woodturners-journey": {
       "last_checked_at": "2026-08-23T07:00:37+00:00",
@@ -204,8 +204,8 @@
       "consecutive_failures": 0
     },
     "jokes-with-mark-simmons": {
-      "last_checked_at": "2026-09-02T16:34:02+00:00",
-      "last_checked_unix": 1788366846,
+      "last_checked_at": "2026-09-02T21:02:49+00:00",
+      "last_checked_unix": 1788382973,
       "etag": "\"djEuMi4wOjE3ODczOTE1MzM3NzQ=\""
     },
     "judge-dredd": {
@@ -284,8 +284,8 @@
       "last_modified": "Wed, 05 Nov 2025 15:02:53 GMT"
     },
     "politicsjoe-podcast": {
-      "last_checked_at": "2026-09-02T16:34:02+00:00",
-      "last_checked_unix": 1788366846,
+      "last_checked_at": "2026-09-02T21:02:49+00:00",
+      "last_checked_unix": 1788382973,
       "etag": "\"djEuMi4wOjE3ODU2NDY4Mzk0NjE=\""
     },
     "ramon-fears-terror-tapes": {
@@ -299,9 +299,9 @@
       "etag": "\"djEuMi4wOjE3ODgzMTc4NTkzNjc=\""
     },
     "russell-howard-jon-richardson-devotee": {
-      "last_checked_at": "2026-09-02T16:34:02+00:00",
-      "last_checked_unix": 1788366847,
-      "etag": "W/\"56aab-XqivdNH+YKhjHyunVn4T3pgyCbc\""
+      "last_checked_at": "2026-09-02T21:02:49+00:00",
+      "last_checked_unix": 1788382973,
+      "etag": "W/\"55d3a-3fpXragc91nwHMTe5/Qf0sKvXtk\""
     },
     "russell-howards-five-brilliant-things": {
       "last_checked_at": "2026-09-02T04:32:12+00:00",
@@ -352,9 +352,9 @@
       "last_modified": "Thu, 27 Aug 2026 09:00:00 GMT"
     },
     "the-rest-is-entertainment": {
-      "last_checked_at": "2026-09-02T16:34:02+00:00",
-      "last_checked_unix": 1788366847,
-      "last_modified": "Wed, 02 Sep 2026 13:48:19 GMT",
+      "last_checked_at": "2026-09-02T21:02:49+00:00",
+      "last_checked_unix": 1788382974,
+      "last_modified": "Wed, 02 Sep 2026 18:00:07 GMT",
       "consecutive_failures": 0
     },
     "the-plays-of-j-b-priestley": {
@@ -448,8 +448,8 @@
       "etag": "\"djEuMi4wOjE3ODgzMDcyOTkyNDU=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-09-02T16:34:02+00:00",
-      "last_checked_unix": 1788366850,
+      "last_checked_at": "2026-09-02T21:02:49+00:00",
+      "last_checked_unix": 1788382975,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -504,8 +504,8 @@
       "last_modified": "Tue, 16 Jun 2026 08:52:02 GMT"
     },
     "socially-distant-sports-bar": {
-      "last_checked_at": "2026-09-02T16:34:02+00:00",
-      "last_checked_unix": 1788366850,
+      "last_checked_at": "2026-09-02T21:02:49+00:00",
+      "last_checked_unix": 1788382975,
       "etag": "\"djEuMi4wOjE3ODgzMDM5OTkzODU=\""
     },
     "comedy-of-the-week": {
@@ -626,8 +626,8 @@
       "consecutive_failures": 0
     },
     "peacock-and-gamble": {
-      "last_checked_at": "2026-09-02T16:34:02+00:00",
-      "last_checked_unix": 1788366854,
+      "last_checked_at": "2026-09-02T21:02:49+00:00",
+      "last_checked_unix": 1788382982,
       "consecutive_failures": 0
     },
     "best-of-fubar": {
@@ -636,5 +636,5 @@
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-09-02T16:34:02+00:00"
+  "updated_at": "2026-09-02T21:02:49+00:00"
 }
