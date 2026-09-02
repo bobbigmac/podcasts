@@ -5,6 +5,29 @@
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "168c4006efd4f5f18015a8f6d045d48cf6e3c7fe",
+        "episode_key": "168c4006efd4f5f18015a8f6d045d48cf6e3c7fe",
+        "title": "Tessa Coates",
+        "published_at": "2026-09-02T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tessa Coates – creator/show-runner of Prime Video’s hit show ‘Ride or Die’, stand-up, writer and former ‘Nobody Panic’ podcaster – is this week’s guest diner. But will they talk about the time she met Paul Rudd? Yes. \nTessa Coates’s series ‘Ride or Die’ is available now on Prime Video. Watch it here. \nListen to Tessa’s",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a7ed38c6f6b33429c8e579f/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/tessa-coates/id1442950743?i=1000787292478&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
         "dedupe_key": "f0950c5a3ee43157b59f70f702f2e46194d0709d",
         "episode_key": "f0950c5a3ee43157b59f70f702f2e46194d0709d",
         "title": "Kaya Scodelario",
@@ -5970,6 +5993,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "168c4006efd4f5f18015a8f6d045d48cf6e3c7fe",
+        "episode_key": "168c4006efd4f5f18015a8f6d045d48cf6e3c7fe",
+        "title": "Tessa Coates",
+        "published_at": "2026-09-02T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tessa Coates – creator/show-runner of Prime Video’s hit show ‘Ride or Die’, stand-up, writer and former ‘Nobody Panic’ podcaster – is this week’s guest diner. But will they talk about the time she met Paul Rudd? Yes. \nTessa Coates’s series ‘Ride or Die’ is available now on Prime Video. Watch it here. \nListen to Tessa’s",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a7ed38c6f6b33429c8e579f/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/tessa-coates/id1442950743?i=1000787292478&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",

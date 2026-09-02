@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-08-30T23:29:29+00:00`
-- checked_at: `2026-08-30T23:29:29+00:00`
-- last_modified: `Sun, 30 Aug 2026 23:24:56 GMT`
+- fetched_at: `2026-09-02T23:18:45+00:00`
+- checked_at: `2026-09-02T23:18:45+00:00`
+- last_modified: `Wed, 02 Sep 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-30T23:29:29+00:00",
+  "fetched_at": "2026-09-02T23:18:45+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "90cae0b1a9d95e47f35ae214358f4444e055184b",
+      "title": "Shanthi's £35K Garden Room, A Big Apology & Conspiracy Theories",
+      "published_at": "2026-09-02T23:01:00+00:00",
+      "link": null,
+      "description": "Should Shanthi get her £35,000 garden room? In this Thursday episode of The Romesh Ranganathan Show, Romesh and Shanthi are back with your questions and dilemmas — and things get out of hand fast. Shanthi campaigns hard for a garden room fit for a footballer, tries to track down her mystery American bank account, and receives an unexpected apology voice note from a stranger. Elsewhere, Romesh and Shanthi role play as a conspiracy-theorist Dad and his sensible daughter after a listener's TikTok-obsessed father-in-law starts spouting theories about the government and shampoo, and the pair tackle the age-old dilemma of when exactly you should tell a new partner about important matters. A Ranga Bee Production in partnership with Platform Media. Chapters: 00:00 Intro 1:51 Romesh’s painting 4:33 Singing 5:15 Shanthi’s outfit 6:44: An intervention for Romesh 8:50 Asian Provocateur 10:51 Body image 15:42 Shanthi’s intro 16:35 Shanthi’s American bank account 19:04 Seating areas 25:06 Your questions 25:55 The man on the train 29:35 Idris Elba 30:48 Friends and events 35:56 Another question 38:28 Conspiracy theory role play 45:14 A question about size 53:03 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/5118eb72-a716-11f1-a476-b338a65c173b/image/ee4090011c83a4b87955c417a772b68e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2062759675.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3404",
+      "speakers": [
+        "Garden Room",
+        "Big Apology",
+        "Conspiracy Theories Should Shanthi",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "shanthi",
+        "garden",
+        "room",
+        "apology",
+        "conspiracy",
+        "theories"
+      ]
+    },
     {
       "key": "a67ba7365847badb31e40482e36afecadaf4e2bf",
       "title": "Rick Glassman On The Paul Rudd Incident, Podcasting and Ricky Gervais",
@@ -2272,6 +2298,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — Shanthi's £35K Garden Room, A Big Apology & Conspiracy Theories — speakers: Garden Room, Big Apology, Conspiracy Theories Should Shanthi, Romesh Ranganathan
 - 2026-08-30 — Rick Glassman On The Paul Rudd Incident, Podcasting and Ricky Gervais — speakers: Rick Glassman, Ricky Gervais, Rick Glas, Romesh Ranganathan
 - 2026-08-26 — The Art Special : Sexy Art, Questionable Portraits and Romesh's Secret Talent — speakers: Sexy Art, Questionable Portraits, Romesh Ranganathan
 - 2026-08-23 — Michael Urie On Shrinking, Working With Harrison Ford & Oh, Mary! — speakers: Michael Urie, Romesh Ranganathan

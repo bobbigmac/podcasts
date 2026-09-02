@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-09-02T21:02:49+00:00`
-- checked_at: `2026-09-02T21:02:49+00:00`
-- last_modified: `Wed, 02 Sep 2026 18:00:07 GMT`
+- fetched_at: `2026-09-02T23:18:45+00:00`
+- checked_at: `2026-09-02T23:18:45+00:00`
+- last_modified: `Wed, 02 Sep 2026 23:15:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-02T21:02:49+00:00",
+  "fetched_at": "2026-09-02T23:18:45+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b60fcf9361aad8b54d656b8f8aefe299fadf3397",
+      "title": "Should Celebs Brave the Shave?",
+      "published_at": "2026-09-02T23:05:00+00:00",
+      "link": null,
+      "description": "Which showbiz haircuts have caused the most drama? What are the dumbest character names? Who would Richard nominate as his favourite Toms and Olivias in entertainment? Marina Hyde and Richard Osman answer your questions on celebrity hairstyles, the VMAs and The Masked Singer. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Looking for extra value from your spending? You can bank on Lloyds to help your money go further. Search Lloyds Rewards in your app. Book your train to Paris with Eurostar now. Based on average journey time from London St Pancras International to Paris Gare du Nord, 7th of September to 12th of December 2026. Correct as of 3rd of August 2026. See eurostar.com for details. For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Caroline Kaye Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2462435479.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1866",
+      "speakers": [
+        "Should Celebs Brave",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "celebs",
+        "brave",
+        "shave"
+      ]
+    },
     {
       "key": "78af58586bc7a0aa84dca17a39d306dd1166320a",
       "title": "Goodbye Dolly: Musician, Megastar, Mogul",
@@ -6599,6 +6621,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — Should Celebs Brave the Shave? — speakers: Should Celebs Brave, Richard Osman, Marina Hyde
 - 2026-08-31 — Goodbye Dolly: Musician, Megastar, Mogul — speakers: Richard Osman, Marina Hyde
 - 2026-08-26 — Kanye, Katseye & Jamiroquai's Hat — speakers: Hat Which, Richard Osman, Marina Hyde
 - 2026-08-24 — Richard Has The Perfect Show For Prince Harry — speakers: Guy Ritchie, Richard Osman, Marina Hyde
