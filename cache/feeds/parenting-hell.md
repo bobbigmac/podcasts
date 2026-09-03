@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-09-03T04:22:32+00:00`
-- checked_at: `2026-09-03T04:22:32+00:00`
-- last_modified: `Thu, 03 Sep 2026 00:31:10 GMT`
+- fetched_at: `2026-09-03T11:13:15+00:00`
+- checked_at: `2026-09-03T11:13:15+00:00`
+- last_modified: `Thu, 03 Sep 2026 05:52:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ea7b3a41cdc0336cc8a48bcdc4533623.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-03T04:22:32+00:00",
+  "fetched_at": "2026-09-03T11:13:15+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "bba63f9d4c06525954ba02bd783f8d35d3597271",
+      "title": "Dr. Martha Deiros Collado - Online Safety Expert (Teenagers)",
+      "published_at": "2026-09-03T05:12:00+00:00",
+      "link": null,
+      "description": "In the 2nd of a series of special interviews with leading experts (and lets face it, people far more qualified than us!) to discuss important and relevant topics that impact and inform modern parenting - we had the pleasure to sit down again with the brillaint ⁠Dr. Martha Deiros Collado⁠ to discuss online safety, device and screen usage - this time amongst teenagers and also parents, and what they can do to help. We loved speaking with Dr Martha in collaboration with @Tescomobile. If you’re looking for advice on how to have that chat or tools to help keep your family safer online, visit the Tesco Mobile Online Safety Hub. ⁠ https://www.tescomobile.com/online-safety ⁠ @Tescomobile - Keeping up keeps them safe. ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2669574627.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2482",
+      "speakers": [
+        "Online Safety",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "martha",
+        "deiros",
+        "collado",
+        "online",
+        "safety",
+        "expert",
+        "teenagers"
+      ]
+    },
     {
       "key": "99f53c0d9ee85232ff0428926957f3febae1c4b2",
       "title": "S13 EP13: I LOVE / HATE the summer holidays",
@@ -12670,6 +12696,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — Dr. Martha Deiros Collado - Online Safety Expert (Teenagers) — speakers: Online Safety, Rob Beckett, Josh Widdicombe
 - 2026-08-31 — S13 EP13: I LOVE / HATE the summer holidays — speakers: Rob Beckett, Josh Widdicombe
 - 2026-08-31 — ⚽ I've got so many football opinions...⚽ — speakers: Rob Beckett, Josh Widdicombe
 - 2026-08-28 — S13 EP12: Andy Parsons — speakers: Andy Parsons, Rob Beckett, Josh Widdicombe

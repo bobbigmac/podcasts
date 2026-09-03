@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-08-27T14:11:22+00:00`
-- checked_at: `2026-08-27T14:11:22+00:00`
-- last_modified: `Thu, 27 Aug 2026 09:00:00 GMT`
+- fetched_at: `2026-09-03T11:13:15+00:00`
+- checked_at: `2026-09-03T11:13:15+00:00`
+- last_modified: `Thu, 03 Sep 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-27T14:11:22+00:00",
+  "fetched_at": "2026-09-03T11:13:15+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -28,6 +28,56 @@
   ],
   "episodes": [
     {
+      "key": "d1cefdd5f7a581e80b0a21a72c82fc4d22453575",
+      "title": "How French Philosophy Wired Modern Thinking",
+      "published_at": "2026-09-03T09:00:00+00:00",
+      "link": null,
+      "description": "How did a group of notoriously difficult French philosophers become intellectual rock stars on American college campuses — and how much do their ideas matter today? In The Frenchmen , writer and editor Emily Eakin traces the unlikely rise of French theory and the thinkers who transformed how a generation understood language, truth, power, and identity. In this conversation with guest host Michael Kovnat, Emily explains why figures like Jacques Derrida and Michel Foucault became irresistible to students in the ’70s and ’80s, and how theory offered both intellectual sophistication and a new way to challenge the establishment. They explore how these ideas helped shape identity politics and our modern suspicion of institutions, why theory eventually fell out of fashion, and the scandals that accelerated its decline. Plus, Emily makes a surprising case for why the age of AI might prove some of the French theorists right. 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com. Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Shopify — It’s where you go to start your business, with everything you need already there from day one. Start your free trial at shopify.com/nbi Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP3936239790.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3852",
+      "speakers": [
+        "How French Philosophy Wired",
+        "Modern Thinking How",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "french",
+        "philosophy",
+        "wired",
+        "modern",
+        "thinking"
+      ]
+    },
+    {
+      "key": "3a7daf5346e0b2ba7d43a0026f5ffef3f21974ea",
+      "title": "A Nobel Prize Winner’s Plan to Save Democracy",
+      "published_at": "2026-08-31T09:00:00+00:00",
+      "link": null,
+      "description": "Democracy is in the dumps. OK, that's a bit dramatic. But it's definitely not working as well as it used to. Good thing Daron Acemoglu — Nobel laureate, MIT Institute Professor, and one of the world's most-cited economists — has a plan to fix it. Today on the show, he explains why liberal democracy has faltered in the post-industrial age and makes the case for upgrading it to a new \"working-class liberalism\" built around good jobs, strong communities, and greater tolerance. We also discuss what today's populist movements get right and wrong, and why immigration has become such a powerful political fault line. Plus: Why Daron, once skeptical that AI would amount to much economically, now thinks a transformation larger than the Industrial Revolution is on the table. His new book is What Happened to Liberal Democracy? Remaking a Politics of Shared Prosperity . __________ 🎥 The Next Big Idea is now on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com. Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free Wealthfront — Earn up to 4.30% APY with Wealthfront's high-yield cash account for a limited time at wealthfront.com/nbi *** Wealthfront Disclosures: This experience may not be representative of other Wealthfront clients, and there is no guarantee of future performance or success. Experiences will vary. The host of The Next Big Idea, Caleb Bissinger (“Media Partner”), is a client of Wealthfront. The Media Partner receives cash compensation from Wealthfront Brokerage for this paid endorsement placed in their podcast, creating a conflict of interest. More details available via the referral link. The Direct Deposit Plus Investing Program from Wealthfront Advisers LLC and Wealthfront Brokerage LLC provides eligible clients a 0.25% APY increase above the base APY on eligible Cash Account balances (up to an overall boosted rate of 4.30% for a limited time when including the three month 0.75% APY boost for new clients) when you direct deposit $1,000 a month, plus open, fund, and maintain an investing account. Wealthfront may change or end the program at any time and determine eligibility at its discretion. Terms apply. Full details at wealthfront.com/promo-terms. The Cash Account, which is not a deposit account, is offered by Wealthfront Brokerage LLC (\"Wealthfront Brokerage\"), Member FINRA/SIPC. Wealthfront Brokerage is not a bank. The Annual Percentage Yield (\"APY\") on cash deposits as of January 30, 2026, is representative, requires no minimum, and may change at any time. References to the APY for the Wealthfront Cash Account, including any APY increase, are to the APY paid by insured depository institutions that participate in our cash sweep program (the \"Program Banks”). Wealthfront Brokerage does not pay interest. Funds in the Cash Account are swept to Program Banks where they earn a variable APY and are eligible for FDIC insurance. Conditions apply. For a list of Program Banks, see: www.wealthfront.com/programbanks. FDIC pass-through insurance, which protects against the failure of Program Banks, not Wealthfront, is not provided until the funds arrive at the Program Banks. While funds are at Wealthfront Brokerage, and while they are transitioning to and/or from Wealthfront Brokerage to the Program Banks, the funds are eligible for SIPC protection up to the $250,000 limit for cash. FDIC insurance is limited to $250,000 per customer, per bank, regardless of whether those deposits are placed through Wealthfront Brokerage. You are responsible for monitoring your total deposits at each Program Bank to stay within FDIC limits. Wealthfront works with multiple Program Banks to make available up to $8 million ($16 million for joint accounts) of pass-through FDIC coverage for your cash deposits. For more info on FDIC insurance coverage, visit www.FDIC.gov. Same-day withdrawal or instant payment transfers may be limited by destination institutions, daily transaction caps, and by participating entities such as Wells Fargo, the RTP® Network, and FedNow® Service. New Cash Account deposits are subject to a 2-4 day holding period before becoming available for transfer. Fees & Eligibility requirements may apply to certain checking features. Investing involves risk, including the possible loss of principal. Securities investments are not bank deposits, bank-guaranteed or FDIC-insured, and may lose value. Product images are for illustrative purposes and do not reflect individual experiences, account balances, or performance.",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP4999042561.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3428",
+      "speakers": [
+        "Nobel Prize Winner",
+        "Save Democracy Democracy",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "nobel",
+        "prize",
+        "winner",
+        "plan",
+        "democracy"
+      ]
+    },
+    {
       "key": "6d8dbf23b9b160aef81f1bef95d5bbed0e2f1a5d",
       "title": "How to Unlock the Creativity You Already Have",
       "published_at": "2026-08-27T09:00:00+00:00",
@@ -37,7 +87,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/YAP8895487696.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "4178",
+      "itunes_duration": "4166",
       "speakers": [
         "Rufus Griscom",
         "Caleb Bissinger"
@@ -8363,6 +8413,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — How French Philosophy Wired Modern Thinking — speakers: How French Philosophy Wired, Modern Thinking How, Rufus Griscom, Caleb Bissinger
+- 2026-08-31 — A Nobel Prize Winner’s Plan to Save Democracy — speakers: Nobel Prize Winner, Save Democracy Democracy, Rufus Griscom, Caleb Bissinger
 - 2026-08-27 — How to Unlock the Creativity You Already Have — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-08-24 — Caroline Webb on the Leadership Skills AI Can’t Replace — speakers: Caroline Webb, Leadership Intelligence, Rufus Griscom, Caleb Bissinger
 - 2026-08-20 — Can Democracy Survive the AI Revolution? — speakers: Yuval Noah Harari, Rufus Griscom, Caleb Bissinger

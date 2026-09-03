@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-08-27T14:11:22+00:00`
-- checked_at: `2026-08-27T14:11:22+00:00`
-- etag: `"djEuMi4wOjE3ODc4MDY4Mzk4MjA="`
+- fetched_at: `2026-09-03T11:13:15+00:00`
+- checked_at: `2026-09-03T11:13:15+00:00`
+- etag: `"djEuMi4wOjE3ODg0MTE2Mzk2OTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-08-27T14:11:22+00:00",
+  "fetched_at": "2026-09-03T11:13:15+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fed5cd1ddc8ac492a8e8849659126f26f70e9d16",
+      "title": "Greg Proops Returns",
+      "published_at": "2026-09-03T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/518-greg-proops-returns",
+      "description": "The Smartest Man In The World, Greg Proops , returns to the show 13 years and 468 episodes later to discuss his new album, Kidding. But STILL . A stand-up comic and improvisor from San Francisco, Greg is best known for his appearances on Whose Line is it Anyway? but also as one of the two-headed pod racer commentators from The Phantom Menace! We discuss: the process of riffing a whole album live like a jazz musician Bill Hicks’ advice of \"less jokes and more me\" we delve into all things Whose Line Is It Anyway? is a comedy album legacy, or just proof of what you were thinking that year how he can't agree with George Carlin's \"watching humanity burn\" and we find out if he is happy… Join the Insiders Club at Patreon.com/ComComPod where you can instantly WATCH the full episode and get access to 25 minutes of exclusive extras where we discuss the power of riffing live, crowdwork and the night in Glasgow that nearly broke him. 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Catch Up with Greg: Greg Proops' new album, Kidding. But STILL. is out now on all good digital shops and streaming platforms, find out more at gregproops.com . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content with Greg ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly(ish) Stu&As PLUS you’ll get access to the full back catalogue of extras you can find nowhere else! Everything I'm up to: Come and see me LIVE ON TOUR , find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1787671811931-dea62b54-d432-4c76-992f-4334f00b7296.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a8db75dd477524f47a741b1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "87930432",
+      "itunes_duration": "1:01:03",
+      "speakers": [
+        "Greg Proops Returns",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "greg",
+        "proops",
+        "return"
+      ]
+    },
     {
       "key": "3e53c917c0a0859995e70fc1ac0ecd444d398146",
       "title": "Stevie Martin (2021): ComCompendium",
@@ -11735,6 +11756,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — Greg Proops Returns — speakers: Greg Proops Returns, Stuart Goldsmith
 - 2026-08-27 — Stevie Martin (2021): ComCompendium — speakers: Stevie Martin, Stuart Goldsmith
 - 2026-08-17 — I'm In Edinburgh! — speakers: Stuart Goldsmith
 - 2026-08-13 — Nish Kumar Returns, Again! | Part Two — speakers: Kumar Returns, Stuart Goldsmith

@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-08-28T00:25:16+00:00`
-- checked_at: `2026-08-28T00:25:16+00:00`
-- etag: `"26329c-65a096f5c21dd"`
-- last_modified: `Thu, 27 Aug 2026 16:00:29 GMT`
+- fetched_at: `2026-09-03T11:13:15+00:00`
+- checked_at: `2026-09-03T11:13:15+00:00`
+- etag: `"264263-65a8be6653035"`
+- last_modified: `Thu, 03 Sep 2026 03:39:32 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-08-28T00:25:16+00:00",
+  "fetched_at": "2026-09-03T11:13:15+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -28,11 +28,32 @@
   ],
   "episodes": [
     {
+      "key": "45682ae523dc545be17832f22e70a4574c49e66e",
+      "title": "The music that made Dolly Parton a global icon",
+      "published_at": "2026-08-31T16:00:00+00:00",
+      "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
+      "description": "It was 1967, and country musician Porter Wagoner was introducing a guest on his weekly TV show. The camera cuts to a woman with big, blonde beehive, wearing a magenta mini dress with the same shade of lipstick to match. It was in that moment a star was born. Her name was Dolly Parton. In the following decades after that performance, Parton went on to become the “Queen of Country”. In this week's bonus episode of The Conversation Weekly, musicologist and Professor of Music at Hamilton College Lydia Hamessley explains the music that made Dolly Parton a global superstar. If you're after more stories about the life and legacy of Dolly Parton, read them here . This episode was written by Gemma Ware. Isabella Podwinski was the executive producer. Sound mixing is by Eloise Stevens and our theme music is by Neeta Sarl. Ashlynne McGhee is our Head of Editorial Innovation and Misha Ketchell and Stephen Khan are our editors in chief. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/9c3d8855-5190-4cb4-a005-4d822854ead4.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19679650",
+      "itunes_duration": "20:30",
+      "speakers": [
+        "Porter Wagoner",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "music",
+        "parton",
+        "icon"
+      ]
+    },
+    {
       "key": "08a0dfc488e5a4f89be4218240b8774c0a36ae04",
       "title": "How Ukraine is bringing the war home to Russia",
       "published_at": "2026-08-27T16:00:00+00:00",
       "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
-      "description": "In recent weeks, Ukrainian drones have targeted large warehouses across Russia, destroying millions of dollars of merchandise stored inside them. These warehouses and logistics hubs belong to Wildberries, the Russian equivalent to Amazon. They're also taking aim at Ozon, Russia's second largest online retailer too. Ukraine says it’s targeting these companies because they’ve been providing supplies to soldiers on the front line. But as the war drags on well into its fourth year, is there anything that could put pressure on Putin to withdraw troops from Ukraine? Read more from Matthew Sussex here. This episode was written and produced by Isabella Podwinsk and Justin Bergman. Sound mixing is by Lloyd Barrett and our theme music is by Neeta Sarl. Ashlynne McGhee is our Head of Editorial Innovation and Misha Ketchell and Stephen Khan are our editors in chief. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Mentioned in this episode: The Making of an Autocrat Search \"The Conversation Weekly\" for our new series: The Making of an Autocrat. Is America watching its democracy unravel in real time? In The Making of an Autocrat from The Conversation, six of the world’s pre-eminant scholars reveal the recipe for authoritarian rule. From capturing a party, to controlling the military, Donald Trump is borrowing from the playbook of strongmen thoughout history. This is the story of how democracies falter — and what might happen next.",
+      "description": "In recent weeks, Ukrainian drones have targeted large warehouses across Russia, destroying millions of dollars of merchandise stored inside them. These warehouses and logistics hubs belong to Wildberries, the Russian equivalent to Amazon. They're also taking aim at Ozon, Russia's second largest online retailer too. Ukraine says it’s targeting these companies because they’ve been providing supplies to soldiers on the front line. But as the war drags on well into its fourth year, is there anything that could put pressure on Putin to withdraw troops from Ukraine? Read more from Matthew Sussex here. This episode was written and produced by Isabella Podwinski and Justin Bergman. Sound mixing is by Lloyd Barrett and our theme music is by Neeta Sarl. Ashlynne McGhee is our Head of Editorial Innovation and Misha Ketchell and Stephen Khan are our editors in chief. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Mentioned in this episode: The Making of an Autocrat Search \"The Conversation Weekly\" for our new series: The Making of an Autocrat. Is America watching its democracy unravel in real time? In The Making of an Autocrat from The Conversation, six of the world’s pre-eminant scholars reveal the recipe for authoritarian rule. From capturing a party, to controlling the military, Donald Trump is borrowing from the playbook of strongmen thoughout history. This is the story of how democracies falter — and what might happen next.",
       "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
       "enclosure_url": "https://episodes.captivate.fm/episode/b20c0067-6139-4ce2-bb4b-575acb95679c.mp3",
       "enclosure_type": "audio/mpeg",
@@ -6228,6 +6249,7 @@
 
 ## Episodes (newest first)
 
+- 2026-08-31 — The music that made Dolly Parton a global icon — speakers: Porter Wagoner, Gemma Ware
 - 2026-08-27 — How Ukraine is bringing the war home to Russia — speakers: How Ukraine, Gemma Ware
 - 2026-08-20 — How Timor-Leste is fighting back against Asia’s scamming gangs — speakers: How Timor, Gemma Ware
 - 2026-08-13 — Loonies and bins: Britain's long love affair with novelty politics — speakers: Gemma Ware

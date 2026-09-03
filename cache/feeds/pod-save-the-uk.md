@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-08-27T14:11:22+00:00`
-- checked_at: `2026-08-27T14:11:22+00:00`
-- etag: `W/"634e1cc8a3ec064c0da39b93baced5a8"`
-- last_modified: `Thu, 27 Aug 2026 01:00:00 GMT`
+- fetched_at: `2026-09-03T11:13:15+00:00`
+- checked_at: `2026-09-03T11:13:15+00:00`
+- etag: `W/"f6547cee1e04094472503c4a2d31e83c"`
+- last_modified: `Thu, 03 Sep 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-08-27T14:11:22+00:00",
+  "fetched_at": "2026-09-03T11:13:15+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c2326a69a9f0a0c867f38e18ce640b5c0775ceb8",
+      "title": "Nish is Back - and Keir’s Off! Plus ‘The Shafted Majority’: Racism and Resistance w/ Taj Ali",
+      "published_at": "2026-09-03T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8948046",
+      "description": "This week, Nish is back from his fringe frolics, and joins Coco to talk about parliament’s return from summer recess. The revolving door continues as Keir Starmer resigns, Nigel Farage gets sworn in (again) and Andy Burnham tests his stamina with nearly three and a half hours’ worth of questions in the commons. With Zack Polanski rumoured to run in St Pancras and Holborn, how might the next by-election (another one?!) play out? Also on the pod, we’re joined by journalist and historian Taj Ali. He unpacks what we can learn from grassroots organising and community resistance in the 1970s, shares reflections from the worst racist violence in over a century, and explains why the white working class has more in common with the South Asian community than they might think. Also, PSUK exclusive: fellow Luton native Stephen Yaxley-Lennon eats halal? Content note: the conversation between Nish, Coco and Taj is a full and frank discussion of racism, and includes the use of a racial slur that’s historically been used towards the South Asian community. USEFUL LINKS Taj’s book is out on the 15th September: https://www.foyles.co.uk/book/come-what-may-were-here-to-stay/taj-ali/9781526177582?srsltid=AfmBOoqg8Daxime9FB1T9FFCKNn6tUFY2bAbY75ybjQm_J4PKibB_KX4FB0 Anti-racist RADAR: https://antiracistradar.co.uk/ - report an incident of racism here. CHECK OUT THESE DEALS FROM OUR SPONSORS HEXCLAD: https://www.hexclad.co.uk/PSTUK SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is an Intelligence Squared production for Crooked Media. Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43819324/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8948046.mp3?modified=1788363738&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5599",
+      "speakers": [
+        "Taj Ali",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "nish",
+        "keir",
+        "shafted",
+        "majority",
+        "racism",
+        "resistance"
+      ]
+    },
     {
       "key": "9b40bde934f93a7557a352015a43b51b40123622",
       "title": "Britain’s Rotting Barrel: it’s time to use the ‘C’ word w/ Robert Barrington",
@@ -618,10 +643,10 @@
       "link": "https://audioboom.com/posts/8869417",
       "description": "A world leader has been assassinated, schools and hospitals have been hit, and Donald Trump thinks that Keir Starmer is no Winston Churchill. It’s all kicking off as the US and Israel’s illegal war escalates across the Middle East. All of this with the open admission of no real plan for what comes next. Struggling to absorb it all? Wondering if there’s another way? British-Iranian peace strategist Sanam Naraghi Anderlini MBE is here to fill us in. She joins Coco and comedian Sophie Duker, who is in the hotseat for Nish this week. Soaring oil prices was not the backdrop Chancellor Rachel Reeves was hoping for ahead of her second Spring Statement. Finalised before the conflict broke out, her economic plan was “Trumped” before it was even delivered - so where does this leave the UK? Plus - just as the UK gets dragged into this latest destabilising conflict, Home Secretary Shabana Mahmood rips up the rules on UK asylum. Got a burning question for Nish or Coco? Big or small - they will be answered in a special episode! Email: psuk@reducedlistening.co.uk CHECK OUT THESE DEALS FROM OUR SPONSORS WISE https://www.wise.com SHOPIFY https://www.shopify.co.uk/podsavetheuk SURFSHARK https://www.surfshark.com/podsave Code: PODSAVE GUEST Sanam Naraghi Anderlini MBE, founder and CEO of the International Civil Society Action Network (ICAN) USEFUL LINKS Sophie Duker https://thesophieduker.com/ If You Were In Charge with Sanam Naraghi Anderlini and Kavita Nandini Ramdas. https://podcasts.apple.com/gb/podcast/if-you-were-in-charge/id1770618616 CREDITS Sophie Duker - Live at the Apollo / BBC One Keir Starmer / X Parliament TV PBS News Hour / YouTube BBC News Zoe Gardner / IG Manchester Evening News Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43512902.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8869417.mp3?modified=1772708148&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8869417.mp3?modified=1788239011&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3202",
+      "itunes_duration": "2894",
       "speakers": [
         "Nish Kumar",
         "Coco Khan"
@@ -4143,6 +4168,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — Nish is Back - and Keir’s Off! Plus ‘The Shafted Majority’: Racism and Resistance w/ Taj Ali — speakers: Taj Ali, Nish Kumar, Coco Khan
 - 2026-08-27 — Britain’s Rotting Barrel: it’s time to use the ‘C’ word w/ Robert Barrington — speakers: Robert Barrington, Nish Kumar, Coco Khan
 - 2026-08-20 — The Nuance Drought: False Binaries and Critical Friends w/ Natasha Devon — speakers: Natasha Devon, Nish Kumar, Coco Khan
 - 2026-08-06 — What happens if no one votes in the Clacton s**tshow? And what's Nish's favourite pizza? Question Time - PSUK-style — speakers: Nish Kumar, Coco Khan
