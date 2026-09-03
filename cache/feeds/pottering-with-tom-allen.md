@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-08-27T14:11:22+00:00`
-- checked_at: `2026-08-27T14:11:22+00:00`
+- fetched_at: `2026-09-03T04:22:32+00:00`
+- checked_at: `2026-09-03T04:22:32+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 27 Aug 2026 10:31:29 GMT`
+- last_modified: `Thu, 03 Sep 2026 04:07:54 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-27T14:11:22+00:00",
+  "fetched_at": "2026-09-03T04:22:32+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "87eba5cd548b581bc21796fdfd9c809e28449acd",
+      "title": "Uncle Andy",
+      "published_at": "2026-09-03T04:00:00+00:00",
+      "link": null,
+      "description": "This week, I welcome someone particularly special into the garden, Uncle Andy! 🌿✨ A close family friend, Uncle Andy was the first person I knew who worked in the glittering world of show business and, to a tiny Tom Allen, proof that a life on the stage was possible! 🎭 We chat about his extraordinary years in the theatre, from eight shows a week with Angela Lansbury to working with THE Barbra Streisand. We also delve into Polari, the realities of being gay in the performing arts and take a truly delightful trip down memory lane. I do very much hope you enjoy! So, curtains up! Grab yourself a freshly squeezed orange juice, settle into your finest chair, and come Pottering with us. 🪴 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, or leave a review! @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c4c324be-a236-11f1-b07b-43722229460b/image/a926c95a818edaceb27e3fe185bc2aa3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR8704962550.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3662",
+      "speakers": [
+        "Uncle Andy",
+        "Tom Allen"
+      ],
+      "topics": [
+        "uncle",
+        "andy"
+      ]
+    },
     {
       "key": "6d7320fe0b2317933aa86c662a15afd570599062",
       "title": "JB Gill",
@@ -1042,6 +1062,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — Uncle Andy — speakers: Uncle Andy, Tom Allen
 - 2026-08-27 — JB Gill — speakers: JB Gill, Tom Allen
 - 2026-08-20 — Gaby French — speakers: Gaby French, Tom Allen
 - 2026-08-13 — Nina Conti — speakers: Nina Conti, Tom Allen

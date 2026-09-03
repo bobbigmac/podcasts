@@ -2,9 +2,9 @@
 
 - slug: `chatabix`
 - source: `https://feeds.megaphone.fm/GLT7256806225`
-- fetched_at: `2026-09-02T04:32:12+00:00`
-- checked_at: `2026-09-02T04:32:12+00:00`
-- etag: `"djEuMi4wOjE3ODgzMTQ0MzkzOTA="`
+- fetched_at: `2026-09-03T04:22:32+00:00`
+- checked_at: `2026-09-03T04:22:32+00:00`
+- etag: `"djEuMi4wOjE3ODg0MDA4Mzk0ODg="`
 - last_modified: `Wed, 13 May 2026 02:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://shows.acast.com/chatabix",
   "description": "Joe Wilkinson & David Earl's Daily Podcast",
   "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
-  "fetched_at": "2026-09-02T04:32:12+00:00",
+  "fetched_at": "2026-09-03T04:22:32+00:00",
   "owners": [
     "Joe Wilkinson",
     "David Earl"
@@ -29,6 +29,29 @@
     "chat"
   ],
   "episodes": [
+    {
+      "key": "193f62eb72243c701fd0552005509fe12e9dd75d",
+      "title": "S16 Ep 902: David’s Mega Holiday Debrief - Part 3",
+      "published_at": "2026-09-03T02:00:00+00:00",
+      "link": "https://shows.acast.com/chatabix/episodes/s16-ep-902-davids-mega-holiday-debrief-part-3",
+      "description": "It’s the third and final instalment of David’s tales from his epic European camper van holiday. So, there’s moving on from Venice to Bolognia, a mosquito crisis and another big change in plans, a very restful six day stay at Lake Idro, a bit too much volleyball and the return of David’s dreaded toothache. So it’s back to Switzerland, a 1001 km drive to Calais and then finally home to Devon. Followed by a speedy and well-needed trip to the dentist! We also finish the show with a new song from friend of the pod Mezz Coleman, called Junior Soldier. It’s released on 4th September! FOR ALL THINGS CHATABIX'Y FOLLOW/SUBSCRIBE/CONTACT: YouTube Instagram TikTok Patreon Merch Email us at chatabix@yahoo.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a042bd3aeff4cb21ba01798/show-cover.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a042bd3aeff4cb21ba01798/e/6a914475ae4f2833364fac91/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "146642048",
+      "itunes_duration": "1:01:06",
+      "speakers": [
+        "David’s Mega",
+        "Joe Wilkinson",
+        "David Earl"
+      ],
+      "topics": [
+        "david",
+        "mega",
+        "holiday",
+        "debrief"
+      ]
+    },
     {
       "key": "d32db631c4bf3ec80f585261b7fa6e0be9fc0ae5",
       "title": "S16 Ep 901: David’s Mega Holiday Debrief - Part 2",
@@ -16249,6 +16272,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — S16 Ep 902: David’s Mega Holiday Debrief - Part 3 — speakers: David’s Mega, Joe Wilkinson, David Earl
 - 2026-09-02 — S16 Ep 901: David’s Mega Holiday Debrief - Part 2 — speakers: David’s Mega, Joe Wilkinson, David Earl
 - 2026-09-01 — S16 Ep 900: David’s Mega Holiday Debrief - Part 1 — speakers: David’s Mega, Joe Wilkinson, David Earl
 - 2026-08-31 — S16 Ep 899 Vault Mondays: Jane Asher and What Direction Do You Go In At 48? — speakers: Jane Asher, Joe Wilkinson, David Earl
