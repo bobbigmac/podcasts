@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-08-30T23:29:29+00:00`
-- checked_at: `2026-08-30T23:29:29+00:00`
-- etag: `"djEuMi4wOjE3ODgxMzA5NjAzOTg="`
+- fetched_at: `2026-09-03T23:16:43+00:00`
+- checked_at: `2026-09-03T23:16:43+00:00`
+- etag: `"djEuMi4wOjE3ODg0NzY1NjAzNzE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-08-30T23:29:29+00:00",
+  "fetched_at": "2026-09-03T23:16:43+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0097a6b6f292af1dab92df463baf7e699e6493c9",
+      "title": "My Time Capsule The Dig - Ep. 16 - With Nigel Planer!",
+      "published_at": "2026-09-03T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-16-with-nigel-planer",
+      "description": "Nigel Planer was our guest in episode 71 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! Nigel Planer is best known as Neil in The Young Ones , with TV roles in Blackadder and The Comic Strip Presents . His extensive West End credits include Wicked , Chicago , We Will Rock You , Hairspray and Charlie and the Chocolate Factory . Also, Mike and his producer and son John chat about this weeks episodes and find out where Samantha Niblett MP would want to bury her capsule . Listen to Andrew Hunter Murray's original episode - https://mytimecapsulepodcast.com/episodes?q=71 . For Nigel Planer's tour dates and books, visit - https://nigelplaner.co.uk . Follow Nigel Planer on Instagram : @nigelplaner1 . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1788368261899-c04e6e6c-8bc2-458e-810a-71789f264735.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a9857d7be9805796198c08d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "81781467",
+      "itunes_duration": "1:08:08",
+      "speakers": [
+        "Nigel Planer"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "nigel",
+        "planer"
+      ]
+    },
     {
       "key": "a47c41752db4ae9f09e505c7a022ea038f84153f",
       "title": "Ep. 603 - Samantha Niblett MP - Labour MP and the woman behind 2026’s “Summer of Sex”",
@@ -13382,6 +13403,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — My Time Capsule The Dig - Ep. 16 - With Nigel Planer! — speakers: Nigel Planer
 - 2026-08-30 — Ep. 603 - Samantha Niblett MP - Labour MP and the woman behind 2026’s “Summer of Sex” — speakers: Samantha Niblett
 - 2026-08-27 — My Time Capsule The Dig - Ep. 15 - With Andrew Hunter Murray from No Such Thing As A Fish — speakers: Andrew Hunter Murray
 - 2026-08-23 — Ep. 602 - Rex Hayes - Star of the Emmy-winning Ted Lasso on Apple TV+ — speakers: Rex Hayes

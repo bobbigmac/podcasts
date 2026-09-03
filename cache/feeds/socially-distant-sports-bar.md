@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-09-01T23:18:06+00:00`
-- checked_at: `2026-09-01T23:18:06+00:00`
-- etag: `"djEuMi4wOjE3ODgzMDM5OTkzODU="`
+- fetched_at: `2026-09-03T23:16:43+00:00`
+- checked_at: `2026-09-03T23:16:43+00:00`
+- etag: `"djEuMi4wOjE3ODg0NzY5MTkzOTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-09-01T23:18:06+00:00",
+  "fetched_at": "2026-09-03T23:16:43+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "9491116ae71db3266d6383cdfd3f34a2eb893a75",
+      "title": "Give Him A Passport",
+      "published_at": "2026-09-03T23:08:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/give-him-a-passport",
+      "description": "This week's second helping from the Socially Distant Sports Bar with Mike Bubbins, Elis James and Steff Garrero is another fascinating documentary choice. It's Steff's pick and tells the interesting and sometimes moving story of Bilal Fawaz, current British and Commonwealth Super Welterweight Champion. \"Fight For Freedom\" documents his inability to fight outide of Britain because he has never been able to hold a passport. Elis has picked the \"Book of the Week\" which is another one to add to your collection. It's \"Domestique\" by Charlie Wegelius. The book explores the life of a \"domestique\", a rider who sacrifices his own personal glory and ambitions to support the team leader and secure team victories. Steff Doc: Fighting For Freedom: Bilal Fawaz https://www.bbc.co.uk/iplayer/episode/m002zv7x/fighting-for-freedom-bilal-fawaz Elis Book: Domestique - Charlie Wegalias https://link.amazon/B0fRZs7TB 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a9557fcee851f3f31ee3aa4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "60238080",
+      "itunes_duration": "25:05",
+      "speakers": [
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "passport"
+      ]
+    },
     {
       "key": "5da786d462cb316212425bb622923fbc6c05eb2d",
       "title": "Delivering To Belfast",
@@ -15833,6 +15853,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — Give Him A Passport — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-09-01 — Delivering To Belfast — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-08-29 — Where's Danny Gabbidon? Pint Size — speakers: Danny Gabbidon, Pint Size Welcome, Elis James, Mike Bubbins, Steff Garrero
 - 2026-08-27 — Training In A Shed — speakers: Mike Bubbins, Elis James, Steff Garrero

@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-08-28T00:25:16+00:00`
-- checked_at: `2026-08-28T00:25:16+00:00`
-- etag: `W/"3c9c1e3149433be713df2494a4393dfe"`
-- last_modified: `Thu, 27 Aug 2026 22:55:00 GMT`
+- fetched_at: `2026-09-03T23:16:43+00:00`
+- checked_at: `2026-09-03T23:16:43+00:00`
+- etag: `W/"f30665a91b227a665bacf40bedf8d2d5"`
+- last_modified: `Thu, 03 Sep 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-08-28T00:25:16+00:00",
+  "fetched_at": "2026-09-03T23:16:43+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,51 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "3ae003f4668c89ec16822e69ca9a66b0f59e9ee6",
+      "title": "No Such Thing As Alien Dust",
+      "published_at": "2026-09-03T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8948484",
+      "description": "Rhys Darby joins Dan, James and Anna to discuss Santorini, sheep and suspending sacks of spuds. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43821012.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8948484.mp3?modified=1788446319&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3234",
+      "speakers": [
+        "Rhys Darby",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "dust"
+      ]
+    },
+    {
+      "key": "caa99389e49292a326bd4a9ff29e28baa2574c1a",
+      "title": "Little Fish: No Orifice Boy",
+      "published_at": "2026-08-30T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8946384",
+      "description": "James describes the time he inhabited a giant robot, while he, Anna and Andy discuss YOUR facts. This week's subjects include candles, Canada and camphor. And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8946384.mp3?modified=1787917818&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1886",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "orifice"
+      ]
+    },
     {
       "key": "5d3c5dd64a90da5f02959bce8b60e7f7b06d2cc0",
       "title": "No Such Thing As An Emotional Support Wig",
@@ -16969,6 +17014,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — No Such Thing As Alien Dust — speakers: Rhys Darby, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-08-30 — Little Fish: No Orifice Boy — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-08-27 — No Such Thing As An Emotional Support Wig — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-08-23 — Little Fish: Pope Guilty the First — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-08-20 — No Such Thing As The Have An Ice Cream Bird — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
