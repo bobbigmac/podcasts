@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-08-31T20:50:15+00:00`
-- checked_at: `2026-08-31T20:50:15+00:00`
-- etag: `"dc898-65a5c9fc69aae"`
-- last_modified: `Mon, 31 Aug 2026 19:15:24 GMT`
+- fetched_at: `2026-09-03T21:01:56+00:00`
+- checked_at: `2026-09-03T21:01:56+00:00`
+- etag: `"dd57a-65a9a3b2c85f2"`
+- last_modified: `Thu, 03 Sep 2026 20:45:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-08-31T20:50:15+00:00",
+  "fetched_at": "2026-09-03T21:01:56+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1e51ac678f6781ed7e65906067ae0346ede553b7",
+      "title": "Reece Shearsmith - Series 22 Ep.1",
+      "published_at": "2026-09-03T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "We are back Baby! That's right, the 22nd Series of Taskmaster is finally here. In the caravan this week to kick us off is Comedy legend, Reece Shearsmith! As well as sharing his thoughts on the new line up, Reece tries out some crowd work with Ed, he gets annoyed at a very old review of League Of Gentlemen and he reveals what kind of experiments he used to do as a child. Reece also makes his prediction on who will do well on the new series! You can pre-order Reece's new book here ' Things I Took From The Dark: The Museum Of Me And you can get tickets to Reece's live show here Things I Took From The Dark As Told By Reece Shearsmith To get all you latest Taskmaster news visit Taskmaster.tv To Catch up on old episodes visit Channel4.com And if you want to see any more TM content and some behind the scenes, visit the Taskmaster YouTube Channel!",
+      "image_url": "https://artwork.captivate.fm/aa9d1826-fd59-4394-bc43-835e1d6ac653/TASKMASTER-PODCAST-ARTWORK-REECE-v2.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/47307bb4-02ab-4bc1-b4a6-434ab9a07f8d.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=47307bb4-02ab-4bc1-b4a6-434ab9a07f8d",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64738903",
+      "itunes_duration": "01:07:26",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "reece",
+        "shearsmith",
+        "series"
+      ]
+    },
     {
       "key": "dcd331fc7da4b7d8d8fcc06622196cb721bf2c1e",
       "title": "Taskmaster: The People's Podcast - UK TASKMASTER SERIES 22 STATS AND PREDICTIONS",
@@ -5617,6 +5637,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — Reece Shearsmith - Series 22 Ep.1 — speakers: Ed Gamble
 - 2026-08-31 — Taskmaster: The People's Podcast - UK TASKMASTER SERIES 22 STATS AND PREDICTIONS — speakers: Ed Gamble
 - 2026-08-19 — Taskmaster The Podcast Rewind - Champion of Champions S1-5 With Guz Khan — speakers: Ed Gamble
 - 2026-08-03 — Taskmaster The Podcast Rewind - Series 1 Ep3. With Josh Widdicombe — speakers: Josh Widdicombe, Ed Gamble
