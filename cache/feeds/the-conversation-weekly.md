@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-09-03T11:13:15+00:00`
-- checked_at: `2026-09-03T11:13:15+00:00`
-- etag: `"264263-65a8be6653035"`
-- last_modified: `Thu, 03 Sep 2026 03:39:32 GMT`
+- fetched_at: `2026-09-03T16:25:37+00:00`
+- checked_at: `2026-09-03T16:25:37+00:00`
+- etag: `"265101-65a964aa9697a"`
+- last_modified: `Thu, 03 Sep 2026 16:03:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-09-03T11:13:15+00:00",
+  "fetched_at": "2026-09-03T16:25:37+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,30 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "3e3c67d1be4df458fe8eff29e99789376c928735",
+      "title": "Inside the booming ‘shadow fleet’ industry keeping rogue states afloat",
+      "published_at": "2026-09-03T16:00:00+00:00",
+      "link": "https://theconversation.com/inside-the-booming-shadow-fleet-industry-keeping-rogue-states-afloat-291134",
+      "description": "It’s the middle of the night in April 2023 in the East China Sea. A North Korean-linked oil tanker sailing under another country’s flag suddenly goes dark. It stops transmitting its location and simply vanishes from the map. Ten days later, the New Konk reappears on global tracking screens. It’s signal places it off the coast of southern China. Except it’s not. It’s actually in a bay hundreds of kilometres away. Commonly known as a “shadow fleet”, the New Konk is part of a clandestine network of vessels which are used to evade international sanctions. See pictures of the ship and track its journey in a visual feature Justin Hastings and his team have written for us here. This episode was written and produced by Isabella Podwinsk and Justin Bergman. Sound mixing is by Lloyd Barrett and our theme music is by Neeta Sarl. Ashlynne McGhee is our Head of Editorial Innovation and Misha Ketchell and Stephen Khan are our editors in chief. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/8812a560-227e-4b93-b33b-974cd256308d.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51332205",
+      "itunes_duration": "21:23",
+      "speakers": [
+        "East China Sea",
+        "North Korean",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "shadow",
+        "fleet",
+        "industry",
+        "rogue",
+        "state"
+      ]
+    },
     {
       "key": "45682ae523dc545be17832f22e70a4574c49e66e",
       "title": "The music that made Dolly Parton a global icon",
@@ -6249,6 +6273,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — Inside the booming ‘shadow fleet’ industry keeping rogue states afloat — speakers: East China Sea, North Korean, Gemma Ware
 - 2026-08-31 — The music that made Dolly Parton a global icon — speakers: Porter Wagoner, Gemma Ware
 - 2026-08-27 — How Ukraine is bringing the war home to Russia — speakers: How Ukraine, Gemma Ware
 - 2026-08-20 — How Timor-Leste is fighting back against Asia’s scamming gangs — speakers: How Timor, Gemma Ware

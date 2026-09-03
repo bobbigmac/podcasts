@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-08-31T05:33:11+00:00`
-- checked_at: `2026-08-31T05:33:11+00:00`
-- etag: `"djEuMi4wOjE3ODgxNTA2MzkyNTI="`
+- fetched_at: `2026-09-03T16:25:37+00:00`
+- checked_at: `2026-09-03T16:25:37+00:00`
+- etag: `"djEuMi4wOjE3ODg0NDIyMzkyNTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-08-31T05:33:11+00:00",
+  "fetched_at": "2026-09-03T16:25:37+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "5787eb1003cb53cde07de3054105ba82dca076a2",
+      "title": "Resident Evil: Afterlife - Caravan Of Garbage",
+      "published_at": "2026-09-03T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/resident-evil-afterlife-extended-caravan-of-garbage",
+      "description": "Oh no it looks as if the Resident Evil movies might be on the decline after the incredible (by Resident Evil movie standards) third entry. Paul WS Anderson finally returns as director for Afterlife, a movie that takes some elements from the previous movies (Alice clones, the character of Kmart, not being able to remember your memories) and hits the ground running in what many are describing as a movie they might have seen around the time it came out but it's actually impossible to say. It does have the first appearance of Chris Redfield as played by Wentworth Miller. But don't get attached. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a827c69f8e81c4395b54071/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24513118",
+      "itunes_duration": "23:37",
+      "speakers": [
+        "Resident Evil",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "resident",
+        "evil",
+        "afterlife",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "2eb395d76d1fcf1a418577792bfa99dec469906e",
       "title": "638 The Dog Stars",
@@ -23005,6 +23029,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-03 — Resident Evil: Afterlife - Caravan Of Garbage — speakers: Resident Evil, James Clement, Nick Mason
 - 2026-08-31 — 638 The Dog Stars — speakers: James Clement, Nick Mason
 - 2026-08-27 — Resident Evil: Extinction - Caravan Of Garbage — speakers: Resident Evil, James Clement, Nick Mason
 - 2026-08-23 — 637 Lanterns Episode One & D23 Big News Catch-Up — speakers: Big News Catch, James Clement, Nick Mason
