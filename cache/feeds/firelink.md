@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-08-29T01:45:08+00:00`
-- checked_at: `2026-08-29T01:45:08+00:00`
-- etag: `W/"3e1ad-EFDTpcy5FiJzMdF1iYnAgrI0h8A"`
+- fetched_at: `2026-09-04T16:20:52+00:00`
+- checked_at: `2026-09-04T16:20:52+00:00`
+- etag: `W/"3e9f1-zqjxBVO5ItofX3q4eLMzL3V96Fo"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-08-29T01:45:08+00:00",
+  "fetched_at": "2026-09-04T16:20:52+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,30 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "64bd72a03695a15562fc87e98864f43d6ae12bbc",
+      "title": "The Fall Release Floodgates Have Opened | Firelink Podcast",
+      "published_at": "2026-09-04T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/The-Fall-Release-Floodgates-Have-Opened--Firelink-Podcast-e3ob7k6",
+      "description": "This week on Firelink, Nick and Marty chat about the deluge of releases both big and small that show no sign of stopping -- Moonlighter 2, The Blood of Dawnwalker, Orbitals, Onimusha: Way of the Sword, Halloween, and more. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/125197382/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-4%2F03a4c8f9-da43-cc64-22c8-864078859021.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121025120",
+      "itunes_duration": "01:24:02",
+      "speakers": [
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "fall",
+        "release",
+        "floodgates",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "055a4f1333c8eaf2393126ca8d3c647c5ef53e18",
       "title": "So About That Grand Theft Auto VI Showcase... | Firelink Podcast",
@@ -3175,6 +3199,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-04 — The Fall Release Floodgates Have Opened | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-08-28 — So About That Grand Theft Auto VI Showcase... | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-08-21 — We Finally Know What The Duskbloods Is | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-08-14 — The Slippery Slope of "Inspired By..." | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
