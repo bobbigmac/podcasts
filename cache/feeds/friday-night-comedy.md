@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-08-29T01:45:08+00:00`
-- checked_at: `2026-08-29T01:45:08+00:00`
-- etag: `"ddb85bf55e8ac7a13e916f8b1c90ec6c"`
-- last_modified: `Fri, 28 Aug 2026 18:00:07 GMT`
+- fetched_at: `2026-09-04T20:45:16+00:00`
+- checked_at: `2026-09-04T20:45:16+00:00`
+- etag: `"7be2bb64208a2ad85fd962cb24eb8ff3"`
+- last_modified: `Fri, 04 Sep 2026 18:00:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p4c71q.jpg",
-  "fetched_at": "2026-08-29T01:45:08+00:00",
+  "fetched_at": "2026-09-04T20:45:16+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "724ce1deafa7d286a777616c6198d8cc60e0389b",
+      "title": "The People Have Spoken Ep3. British Maple Syrup",
+      "published_at": "2026-09-04T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p6k7cv",
+      "description": "It's time for the people to speak. Taking on the headlines, Ian Smith is joined by Cody Dahler and Ayoade Bamgboye, and together with the audience, they solve the biggest problems facing the world right now. What party trick would you use to bring about world peace? How can we make Trump and Carney bury the hatchet? And can you do a Kermit impression? Written by Ian Smith, Angela Channell, Mike Shephard and Ruth Husko Production Coordinator: Asha Osborne-Grinter and Giulia Mazzu Sound Editing: David Thomas Executive Producer: Richard Morris Recorded at the Backyard Comedy Club Produced by Gwyn Rhys Davies. A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p4c71q.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p6vrfc.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27440000",
+      "itunes_duration": "1715",
+      "speakers": [
+        "Ian Smith",
+        "Cody Dahler"
+      ],
+      "topics": [
+        "people",
+        "maple",
+        "syrup"
+      ]
+    },
     {
       "key": "61164fdf185807bf9471d94e89b6046fc9e3dbb1",
       "title": "The People Have Spoken Ep2. Fed Up With War!",
@@ -5476,30 +5497,6 @@
         "quiz",
         "september"
       ]
-    },
-    {
-      "key": "382078c1e5ee2209b0ef32d71af01ddfe421f63d",
-      "title": "News Quiz 3rd September 2021",
-      "published_at": "2021-09-03T10:38:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09w42x6",
-      "description": "Andy Zaltzman is joined by Rachel Fairburn, Hugo Rifkind, Helen Lewis and Ian Smith.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p4c71q.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09w42m4.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26688000",
-      "itunes_duration": "1668",
-      "speakers": [
-        "Andy Zaltzman",
-        "Rachel Fairburn",
-        "Hugo Rifkind",
-        "Helen Lewis",
-        "Ian Smith"
-      ],
-      "topics": [
-        "news",
-        "quiz",
-        "september"
-      ]
     }
   ]
 }
@@ -5508,6 +5505,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-04 — The People Have Spoken Ep3. British Maple Syrup — speakers: Ian Smith, Cody Dahler
 - 2026-08-28 — The People Have Spoken Ep2. Fed Up With War! — speakers: Ian Smith, Harriet Kemsley
 - 2026-08-21 — The People Have Spoken Ep1. Andy Cool'em Down'em — speakers: Andy Cool'em Down'em, Ian Smith, Maisie Adam
 - 2026-08-14 — Current-ish Ep3. Exam results, early release, and the possible end of two marriages — speakers: Lucy Porter, Vittorio Angelone, Jake Bhardwaj, Susie McCabe
@@ -5767,4 +5765,3 @@
 - 2021-09-24 — News Quiz 24th September 2021 — speakers: Hugo Rifkind, Susie McCabe, Ria Lina, Andrew Maxwell
 - 2021-09-17 — News Quiz 17th September 2021 — speakers: Andy Zaltzman, Paul Sinha, Neil Delamere
 - 2021-09-10 — News Quiz 10th September 2021
-- 2021-09-03 — News Quiz 3rd September 2021 — speakers: Andy Zaltzman, Rachel Fairburn, Hugo Rifkind, Helen Lewis, Ian Smith
