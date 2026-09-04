@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-08-28T15:21:22+00:00`
-- checked_at: `2026-08-28T15:21:22+00:00`
-- etag: `"ce69ccd55f6a7d9cad5e0d685cc2f436"`
-- last_modified: `Fri, 28 Aug 2026 05:00:11 GMT`
+- fetched_at: `2026-09-04T11:16:34+00:00`
+- checked_at: `2026-09-04T11:16:34+00:00`
+- etag: `"3f8a746ab911843bfdf5df8c4409e3b5"`
+- last_modified: `Fri, 04 Sep 2026 05:00:14 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-08-28T15:21:22+00:00",
+  "fetched_at": "2026-09-04T11:16:34+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,30 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "a6ec9c606538c7fef7141019053fc695ef1c4d58",
+      "title": "Emperor Constantine the Great: Christianity and the Roman Empire",
+      "published_at": "2026-09-04T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m00300cj",
+      "description": "Greg Jenner is joined in ancient Rome by Professor Lucy Grig and comedian Ivo Graham to learn all about Emperor Constantine the Great and the Christianisation of the Roman empire. Born not in Rome but in the Balkans, Constantine’s life was shaped by the turbulent politics of the late third century. He grew up as Emperor Diocletian – remembered now as a savage persecutor of Christians – was establishing the Tetrarchy, with four rulers now in control of the empire. One of these was Constantine’s father, Constantius. But when Constantius died in York, his son was acclaimed emperor in his place, kicking off a violent civil war. This episode traces Constantine’s life, from his childhood through to his elevation as emperor, taking in his extraordinary victory at Milvian Bridge, the vision that allegedly encouraged his conversion to Christianity, and his founding of Constantinople as a New Rome. It also examines his relationship with his mother, later known as Saint Helena, the bloody path he carved to the imperial throne, and his role in the pivotal Council of Nicaea, a landmark event in Christian history. If you’re a fan of religious revolutions, bloody Roman power politics, and historical nepo babies, you’ll love our episode on Constantine the Great. If you want more Roman rulers, listen to our episodes on the Rise of Julius Caesar, Agrippina the Younger, or Emperor Nero, with Professor Mary Beard and Patton Oswalt. And for more on the Christianisation of the Roman empire, check out our episode on Hypatia of Alexandria. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Auréliane Perrin Written by: Auréliane Perrin, Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p2qzg9.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p2sx9d.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56640000",
+      "itunes_duration": "3540",
+      "speakers": [
+        "Greg Jenner",
+        "Lucy Grig",
+        "Ivo Graham"
+      ],
+      "topics": [
+        "emperor",
+        "constantine",
+        "christianity",
+        "roman",
+        "empire"
+      ]
+    },
     {
       "key": "ebc4ce77af0e9dfc53579c8ad1cd443b481d022a",
       "title": "History of Underwear: from shirts and stays to bras and briefs",
@@ -4171,7 +4195,7 @@
       "title": "The History of Fandom, 1700-1900 (Live)",
       "published_at": "2022-09-16T06:00:00+00:00",
       "link": "http://www.bbc.co.uk/programmes/p0d0cv4h",
-      "description": "Greg Jenner is joined by Dr Corin Throsby and Stuart Goldsmith to look at early cultural fandom in the 18th and 19th centuries. Although many consider Beatlemania to be the start of what is now considered fan culture, Greg and his guests consider some much earlier and often hilarious examples of the birth of fandom. This episode was recorded live at the 2022 Hay Festival. You’re Dead To Me is a production by The Athletic for BBC Radio 4. Research by Emmie Rose Price-Goodfellow Written by Emma Nagouse and Greg Jenner Produced by Emma Nagouse and Greg Jenner Assistant Producer: Emmie Rose Price-Goodfellow Project Management: Isla Matthews Audio Producer: Abi Paterson",
+      "description": "Greg Jenner is joined by Dr Corin Throsby and Stuart Goldsmith to look at early cultural fandom in the 18th and 19th centuries. Although many consider Beatlemania to be the start of what is now considered fan culture, Greg and his guests consider some much earlier and often hilarious examples of the birth of fandom. This episode was recorded live at the 2022 Hay Festival. Research by Emmie Rose Price-Goodfellow Written by Emma Nagouse and Greg Jenner Produced by Emma Nagouse and Greg Jenner Assistant Producer: Emmie Rose Price-Goodfellow Project Management: Isla Matthews Audio Producer: Abi Paterson",
       "image_url": null,
       "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0d09lcs.mp3",
       "enclosure_type": "audio/mpeg",
@@ -6157,6 +6181,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-04 — Emperor Constantine the Great: Christianity and the Roman Empire — speakers: Greg Jenner, Lucy Grig, Ivo Graham
 - 2026-08-28 — History of Underwear: from shirts and stays to bras and briefs — speakers: Greg Jenner, Serena Dyer, Vic Micha
 - 2026-08-21 — Akhenaten and Nefertiti: religious revolution in ancient Egypt — speakers: Greg Jenner
 - 2026-08-14 — Anne Bonny and Mary Read: real-life pirates of the Caribbean — speakers: Anne Bonny, Mary Read, Greg Jenner, Hannah Cusworth

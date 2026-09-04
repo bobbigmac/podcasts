@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-09-04T04:31:24+00:00`
-- checked_at: `2026-09-04T04:31:24+00:00`
-- last_modified: `Thu, 03 Sep 2026 13:55:08 GMT`
+- fetched_at: `2026-09-04T11:16:34+00:00`
+- checked_at: `2026-09-04T11:16:34+00:00`
+- last_modified: `Fri, 04 Sep 2026 07:54:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ea7b3a41cdc0336cc8a48bcdc4533623.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-04T04:31:24+00:00",
+  "fetched_at": "2026-09-04T11:16:34+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,23 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e7e9decc780a1b74c39cbe79150def407c95079a",
+      "title": "S13 EP14: Do I Love You?",
+      "published_at": "2026-09-04T07:13:00+00:00",
+      "link": null,
+      "description": "More adventures in parenting (and life) from Rob and Josh... In this episode we get through some of your brilliant emails as Josh has had a really bad week and some sad news :( ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT2339230296.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2891",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": []
+    },
     {
       "key": "bba63f9d4c06525954ba02bd783f8d35d3597271",
       "title": "Dr. Martha Deiros Collado - Online Safety Expert (Teenagers)",
@@ -12696,6 +12713,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-04 — S13 EP14: Do I Love You? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-03 — Dr. Martha Deiros Collado - Online Safety Expert (Teenagers) — speakers: Online Safety, Rob Beckett, Josh Widdicombe
 - 2026-08-31 — S13 EP13: I LOVE / HATE the summer holidays — speakers: Rob Beckett, Josh Widdicombe
 - 2026-08-31 — ⚽ I've got so many football opinions...⚽ — speakers: Rob Beckett, Josh Widdicombe
