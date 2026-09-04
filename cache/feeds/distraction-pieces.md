@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-09-02T04:32:12+00:00`
-- checked_at: `2026-09-02T04:32:12+00:00`
-- etag: `"djEuMi4wOjE3ODgzMTkyMzkyODY="`
+- fetched_at: `2026-09-04T04:31:24+00:00`
+- checked_at: `2026-09-04T04:31:24+00:00`
+- etag: `"djEuMi4wOjE3ODg0OTIwMzkzMzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-09-02T04:32:12+00:00",
+  "fetched_at": "2026-09-04T04:31:24+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a1a627791457f0d64bdebca392d0ed40db909c74",
+      "title": "ALISTAIR GREEN (Don't Think So Somehow / The Big Idea) • Friday Rewind",
+      "published_at": "2026-09-04T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with ALISTAIR GREEN , originally episode 482 from 2022-11-09. Original writeup below: This week Pip is joined by the hilarious and great comic ALISTAIR GREEN! You could also add actor to that list of accolades as Alistair is busy in front of the camera too, as you will hear. Kicking off with heavy metal nights and the tour t-shirt, it's a fun slip n' slide down the road of tangents as Pip and Al get down to the business of social media and rolling news being too quick for a comic hot take, making videos, creative process, making situations into comedy, the Prince Charles Cinema screening of his videos as a film (and the wonder of the cinema itself), conspiranoia, Alan Partridge and trying to resist goofing while a take is in progress, Ted Lasso and tons more. Awesome stuff and definitely one for Al heads and those who are yet familiar - much fun! Enjoy. PIP'S PATREON PAGE if you're of a supporting nature DON'T THINK SO SOMEHOW THE BIG IDEA YOUTUBE INSTAGRAM PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1788119457941-8ea10dc9-91e2-403e-b7c3-a5a04a31b47b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a948b5053508d8b543d92a2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138738555",
+      "itunes_duration": "57:43",
+      "speakers": [],
+      "topics": [
+        "alistair",
+        "green",
+        "idea",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "f302079f77c9e9586f4ead14d5f195e01b85677e",
       "title": "ROMESH RANGANATHAN • a very necessary dose of Romesh for your Autumn (podcasts / comedy / TV) #685",
@@ -19514,6 +19534,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-04 — ALISTAIR GREEN (Don't Think So Somehow / The Big Idea) • Friday Rewind
 - 2026-09-02 — ROMESH RANGANATHAN • a very necessary dose of Romesh for your Autumn (podcasts / comedy / TV) #685
 - 2026-08-28 — KSI (musician / social media kingpin) • Friday Rewind
 - 2026-08-26 — SCROOBIUS PIP performs the album 'DISTRACTION PIECES' as a spoken word set! (recorded in Canada 2021) #684

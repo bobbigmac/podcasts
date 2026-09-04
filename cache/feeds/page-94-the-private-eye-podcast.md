@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-08-26T01:57:52+00:00`
-- checked_at: `2026-08-26T01:57:52+00:00`
-- etag: `W/"c6824745dddc045848f92988587f0b5e"`
-- last_modified: `Tue, 25 Aug 2026 09:47:48 GMT`
+- fetched_at: `2026-09-04T04:31:24+00:00`
+- checked_at: `2026-09-04T04:31:24+00:00`
+- etag: `W/"44f275a5c07096babb022623e50958e2"`
+- last_modified: `Wed, 02 Sep 2026 16:08:02 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-08-26T01:57:52+00:00",
+  "fetched_at": "2026-09-04T04:31:24+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,28 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "eff1ecf9640dabbc633508ed30a360baee80fceb",
+      "title": "190: Green Fingers",
+      "published_at": "2026-09-02T16:06:48+00:00",
+      "link": "https://audioboom.com/posts/8948063",
+      "description": "Guest Saba Salman discusses the Green Party's latest appearance in Private Eye, Helen Lewis on Donald Trump's completely professional relationship with an attractive young aide, and Adam Macqueen on the BBC's doomed future without Amol Rajan.",
+      "image_url": "https://audioboom.com/i/43819380/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8948063.mp3?modified=1788365292&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2711",
+      "speakers": [
+        "Saba Salman",
+        "Helen Lewis",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "green",
+        "finger"
+      ]
+    },
     {
       "key": "db26da20160e0c4bcadd3962506c349b677c273f",
       "title": "189: The Hacks Book Club",
@@ -4040,6 +4062,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-02 — 190: Green Fingers — speakers: Saba Salman, Helen Lewis, Andrew Hunter Murray, Ian Hislop
 - 2026-08-25 — 189: The Hacks Book Club — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-08-11 — 188: Entirely Artificial Intelligence — speakers: Entirely Artificial Intelligence Summer, Andrew Hunter Murray, Ian Hislop
 - 2026-07-28 — 187: Feel The Burnham — speakers: Andy Burnham, Andrew Hunter Murray, Ian Hislop

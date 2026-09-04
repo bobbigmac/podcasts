@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-02T04:32:12+00:00`
-- checked_at: `2026-09-02T04:32:12+00:00`
-- etag: `"djEuMi4wOjE3ODgzMTc4NTkzNjc="`
+- fetched_at: `2026-09-04T04:31:24+00:00`
+- checked_at: `2026-09-04T04:31:24+00:00`
+- etag: `"djEuMi4wOjE3ODg0OTA2NTkzOTM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-02T04:32:12+00:00",
+  "fetched_at": "2026-09-04T04:31:24+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d7f41e826fad81c03f0980f575e012daf93e0fda",
+      "title": "Tim Minchin on You Don’t Have To Have A Dream - Book Club",
+      "published_at": "2026-09-04T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #192 - You Don’t Have To Have A Dream - Richard talks to the first ever RHLSTP guest, Tim Minchin, about his book “You Don’t Have To Have A Dream”. They chat about the possible futility of having to spread wisdom to the young, how success will never be what you imagine it to be and how it won’t fill the hole in your soul, why comparing yourself to others is poison, how fortunate we are to live now, how Tim’s Hollywood adventures helped him to recalibrate his career and whether it’s ever too late to do stuff. Buy the book here - https://uk.bookshop.org/p/books/you-don-t-have-to-have-a-dream-advice-for-the-incrementally-ambitious-the-instant-sunday-times-bestseller-tim-minchin/99256117d2a7c17a See RHLSTP in London http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Recorded at the Podcast Room Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1788130364479-ac7469c1-0652-47dd-a27b-9cbc65dca6ec.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a94b19fee851f3f31c658a8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21842755",
+      "itunes_duration": "45:30",
+      "speakers": [
+        "Tim Minchin",
+        "Richard Herring"
+      ],
+      "topics": [
+        "minchin",
+        "dream",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "7054a4fa62ad63f88fe5255cdd431f18402fbd6e",
       "title": "Lucy Porter - \"Beating Leonardo at Poker\"",
@@ -23698,6 +23720,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-04 — Tim Minchin on You Don’t Have To Have A Dream - Book Club — speakers: Tim Minchin, Richard Herring
 - 2026-09-02 — Lucy Porter - "Beating Leonardo at Poker" — speakers: Lucy Porter Beating Leonardo, Richard Herring
 - 2026-08-31 — Sophie Duker (Retro) - "Sploshing" — speakers: Sophie Duker, Richard Herring
 - 2026-08-26 — John Robins - "Cake of Shame" — speakers: John Robins, Richard Herring
