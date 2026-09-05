@@ -21749,6 +21749,28 @@
     ],
     "lou-sanders": [
       {
+        "feed_slug": "external:apple:8620936bd7b7",
+        "feed_title": "Elis James and John Robins",
+        "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",
+        "dedupe_key": "aa86e1e2b5bbebd5a1e5d484717e2dfe60a25d3d",
+        "episode_key": "aa86e1e2b5bbebd5a1e5d484717e2dfe60a25d3d",
+        "title": "#571 - She Shy, Crumpets for the Boys and What of the Chickens?",
+        "published_at": "2026-09-01T14:45:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "It’s Lou Sanders FM once again and boy has she got Producer Dave sweating. From a pretty much unusable show introduction, to an anecdote that definitely flirts with the term ‘radio friendly’, one can only assume that Dave is dreaming of Elis’s swift return...\nBut for now it’s Big Mummy and her Fact Factory, as Lou dish",
+        "audio_url": "https://sphinx.acast.com/p/open/s/698b89c05e0cb52f15bcde20/e/6a9690dd341b771cca54a5b5/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/571-she-shy-crumpets-for-the-boys-and-what-of-the-chickens/id1465290044?i=1000787202800&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:6c6378df8da4",
         "feed_title": "Rich Beyond My Wildest Dreams",
         "source_rss_url": "https://feeds.acast.com/public/shows/66e958720befac28e33062d3",
