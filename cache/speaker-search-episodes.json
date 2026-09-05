@@ -40404,6 +40404,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:40987ebafe67",
+        "feed_title": "Reel Talk with Honey & Jonathan Ross",
+        "source_rss_url": "https://feeds.megaphone.fm/KILM1759279695",
+        "dedupe_key": "b4050e00ef6053e75c429eb9c8076a2d141efdb0",
+        "episode_key": "b4050e00ef6053e75c429eb9c8076a2d141efdb0",
+        "title": "BONUS: \"David Mitchell was jealous I hadn't seen Inspector Morse.\"",
+        "published_at": "2024-10-02T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We've got mail! Jonathan and Honey answer your questions about cinema, films, family and everything in between. This week the pair discuss which films they each love that the other can't stand, plus which movie plot twists took them by surprise.\nLet us know what you think! You can get involved by emailing us at reeltal",
+        "audio_url": "https://traffic.megaphone.fm/KILM4291210316.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/bonus-david-mitchell-was-jealous-i-hadnt-seen-inspector/id1712844174?i=1000671494968&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:c7cb5e698d02",
         "feed_title": "Enjoy A Full Audiobook That Is Simply Riveting.",
         "source_rss_url": "https://f005.backblazeb2.com/file/audb9970/b/a2/836/index.xml",
