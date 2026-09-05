@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-09-04T16:20:52+00:00`
-- checked_at: `2026-09-04T16:20:52+00:00`
-- etag: `"djEuMi4wOjE3ODg1MTgxNzkyMjg="`
+- fetched_at: `2026-09-05T17:20:29+00:00`
+- checked_at: `2026-09-05T17:20:29+00:00`
+- etag: `"djEuMi4wOjE3ODg2MjQwMzkzMDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-09-04T16:20:52+00:00",
+  "fetched_at": "2026-09-05T17:20:29+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "78ef0f2416700855af0fa32d2947037b2fe54af4",
+      "title": "Andy Burnham can’t explain the economy",
+      "published_at": "2026-09-05T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/andy-burnham-cant-explain-the-economy",
+      "description": "Labour’s missing money metaphor, the millionaires still getting benefits and Dyson’s £420 toothbrush. Anoosh Chakelian is joined by Will Dunn to round up the stories of the week. READ: https://www.newstatesman.com/politics/bursting-the-bubble/2026/09/andy-burnham-cant-explain-the-economy https://www.newstatesman.com/politics/2026/09/britain-must-stop-paying-benefits-to-millionaires LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1788517952803-3bb96962-1a34-4126-b09c-2de6bbee6a22.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6a9a9df76ff90a571f0d4f2d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70236353",
+      "itunes_duration": "36:28",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "andy",
+        "burnham",
+        "economy"
+      ]
+    },
     {
       "key": "5fc9dd5c895a636d3f4b2b25d696f79efe4c9dae",
       "title": "Burnham vs Badenoch: PMQs, round one",
@@ -32312,6 +32334,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-05 — Andy Burnham can’t explain the economy — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-03 — Burnham vs Badenoch: PMQs, round one — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-02 — How can the UK protect its historic buildings from climate change? — speakers: Anoosh Chakelian, Oli Dugmore
 - 2026-08-29 — The investigation into “Farage Fest” — speakers: Nigel’s Farage Fest, Andy Burnham, Anoosh Chakelian, Oli Dugmore

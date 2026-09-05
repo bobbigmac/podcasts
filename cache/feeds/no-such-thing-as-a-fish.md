@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-09-03T23:16:43+00:00`
-- checked_at: `2026-09-03T23:16:43+00:00`
-- etag: `W/"f30665a91b227a665bacf40bedf8d2d5"`
-- last_modified: `Thu, 03 Sep 2026 22:55:00 GMT`
+- fetched_at: `2026-09-05T17:20:29+00:00`
+- checked_at: `2026-09-05T17:20:29+00:00`
+- etag: `W/"dd8472fb7d3a061d4e2bc3e4f3063ac1"`
+- last_modified: `Sat, 05 Sep 2026 17:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-09-03T23:16:43+00:00",
+  "fetched_at": "2026-09-05T17:20:29+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,30 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "e5ffcf2b04453f8888f19442d45590fc4181232b",
+      "title": "Bonus: Drop Us A Line - Will We Pass the Inspection?",
+      "published_at": "2026-09-05T17:00:00+00:00",
+      "link": "https://audioboom.com/posts/8949243",
+      "description": "Happy weekend everybody! We're sharing a Club Fish bonus episode our main feed. Drop Us A Line is our fortnightly audience feedback show, in which Andy, James and Anna sift through the correspondence sent in by listeners. If you're a newbie to Drop Us A Line and you have no idea what's going on, you're in good company - this was Anna's first DUAL after months away for maternity leave! This episode was released on Club Fish a few months ago - if you like what you see and hear, why not come along to our first ever LIVE Drop Us A Line recording at the London Podcast Festival on 12th September - tickets at nosuchthingasafish.com/live And if you want more shenanigans from us, consider signing up to Club Fish on Patreon! You can get access to exclusive bonus content just like this, plus ad-free episodes, merch, XL versions of the show and much, much more - patreon.com/clubfish Edited by Joe Mayo and Dan Schreiber Produced by Leying Lee Team includes Tara Dorrell and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/42640531.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8949243.mp3?modified=1788611354&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2143",
+      "speakers": [
+        "Drop Us",
+        "Club Fish",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "line",
+        "inspection"
+      ]
+    },
     {
       "key": "3ae003f4668c89ec16822e69ca9a66b0f59e9ee6",
       "title": "No Such Thing As Alien Dust",
@@ -17014,6 +17038,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-05 — Bonus: Drop Us A Line - Will We Pass the Inspection? — speakers: Drop Us, Club Fish, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-09-03 — No Such Thing As Alien Dust — speakers: Rhys Darby, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-08-30 — Little Fish: No Orifice Boy — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-08-27 — No Such Thing As An Emotional Support Wig — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

@@ -2,6 +2,28 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:435b94d61d9a",
+        "feed_title": "Netflix Is A Daily Joke",
+        "source_rss_url": "https://feeds.megaphone.fm/NETFLIX2608127680",
+        "dedupe_key": "7e5d1f1ef677f882ba9eed4a6c7a44358eba58b1",
+        "episode_key": "7e5d1f1ef677f882ba9eed4a6c7a44358eba58b1",
+        "title": "James Acaster: A Joke About Going Undercover",
+        "published_at": "2026-09-05T07:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "James Acaster jokes about going undercover in his Netflix special, \"Repetoire\".",
+        "audio_url": "https://traffic.megaphone.fm/NETFLIX4830585334.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster-a-joke-about-going-undercover/id1498522890?i=1000787974282&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
