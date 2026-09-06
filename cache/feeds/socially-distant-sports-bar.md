@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-09-04T16:20:52+00:00`
-- checked_at: `2026-09-04T16:20:52+00:00`
-- etag: `"djEuMi4wOjE3ODg1MjgxNDQwNjY="`
+- fetched_at: `2026-09-06T04:37:18+00:00`
+- checked_at: `2026-09-06T04:37:18+00:00`
+- etag: `"djEuMi4wOjE3ODg2NDk3MTkzOTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-09-04T16:20:52+00:00",
+  "fetched_at": "2026-09-06T04:37:18+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,29 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "2ea0fb37eafa8f622e831d30254d215998487736",
+      "title": "Sing: Pint Size",
+      "published_at": "2026-09-05T23:08:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/sing-pint-size",
+      "description": "Welcome to Pint-Sized Distant Pod. We've been back through our archive of episodes and we've selected our favourite stories, anecdotes and funny bits. If you're new to the pod, then feel free to use these as a jump off point to find your way around our earlier episodes. This clip is taken from \"Episode 252: Just Put A Towel Over My Head\" 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a9ac6100c727006154942b2/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "24551040",
+      "itunes_duration": "10:13",
+      "speakers": [
+        "Pint Size Welcome",
+        "Sized Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "pint",
+        "size"
+      ]
+    },
     {
       "key": "9491116ae71db3266d6383cdfd3f34a2eb893a75",
       "title": "Give Him A Passport",
@@ -15853,6 +15876,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-05 — Sing: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-03 — Give Him A Passport — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-09-01 — Delivering To Belfast — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-08-29 — Where's Danny Gabbidon? Pint Size — speakers: Danny Gabbidon, Pint Size Welcome, Elis James, Mike Bubbins, Steff Garrero

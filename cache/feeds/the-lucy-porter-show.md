@@ -2,8 +2,8 @@
 
 - slug: `the-lucy-porter-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/`
-- fetched_at: `2026-08-30T05:23:25+00:00`
-- checked_at: `2026-08-30T05:23:25+00:00`
+- fetched_at: `2026-09-06T04:37:18+00:00`
+- checked_at: `2026-09-06T04:37:18+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "image_url": "",
-  "fetched_at": "2026-08-30T05:23:25+00:00",
+  "fetched_at": "2026-09-06T04:37:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9652bc335231b5b1713c901596b6e35a6f47257c",
+      "guid": "445e1daa-d269-47bf-9c4e-e9bdaaeffacd",
+      "title": "The Lucy Porter Show (6th September)",
+      "published_at": "2026-09-06T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-lucy-porter-show-6th-september/",
+      "description": "Ever wondered what 'Woman's Hour' would be like if it were uncensored?",
+      "image_url": "https://mm.aiircdn.com/177/420888.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1788667440-the_lucy_porter_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=445e1daa-d269-47bf-9c4e-e9bdaaeffacd&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "5d677eeccb1012c692bb41fadbf4b42104b73d66",
       "guid": "18b738c3-f15e-4ce9-b8fa-41209fe16322",
@@ -1617,6 +1630,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-06 — The Lucy Porter Show (6th September)
 - 2026-08-30 — The Lucy Porter Show (30th August)
 - 2026-08-23 — The Lucy Porter Show (23rd August)
 - 2026-08-16 — The Lucy Porter Show (16th August)
