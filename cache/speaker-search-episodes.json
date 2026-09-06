@@ -10202,6 +10202,28 @@
     ],
     "harry-hill": [
       {
+        "feed_slug": "external:apple:43c75f21fe27",
+        "feed_title": "Matt Baker's Petcast",
+        "source_rss_url": "https://feeds.megaphone.fm/petcast",
+        "dedupe_key": "bda782b16b5dbf30b191416cfcfc846b27341ae1",
+        "episode_key": "bda782b16b5dbf30b191416cfcfc846b27341ae1",
+        "title": "Harry Hill & Snowy and Wilson",
+        "published_at": "2026-09-04T17:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "For the final episode of Series 1 of Matt Baker's Petcast, the Petcast caravan returns to the horse paddock in South London to meet comedian Harry Hill and his dogs, Snowy (a 14-year-old white Jackapoo) and Wilson (a black Jackapoo). Harry recalls early pets including a goldfish named James, childhood cats, and dogs ra",
+        "audio_url": "https://traffic.megaphone.fm/NSR6509638436.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harry-hill-snowy-and-wilson/id1896833371?i=1000787893047&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e8b919cc1fa1",
         "feed_title": "The Harry Hill Show",
         "source_rss_url": "https://feeds.megaphone.fm/GLT2134425554",
