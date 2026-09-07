@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-09-02T23:18:45+00:00`
-- checked_at: `2026-09-02T23:18:45+00:00`
-- last_modified: `Wed, 02 Sep 2026 23:15:10 GMT`
+- fetched_at: `2026-09-07T23:29:38+00:00`
+- checked_at: `2026-09-07T23:29:38+00:00`
+- last_modified: `Mon, 07 Sep 2026 23:05:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-02T23:18:45+00:00",
+  "fetched_at": "2026-09-07T23:29:38+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "9db7a94a529d8a3c9143d0b4deccc658de0d834b",
+      "title": "Have We Found The New Kardashians?",
+      "published_at": "2026-09-07T23:05:00+00:00",
+      "link": null,
+      "description": "Who are the new Kardashians? Can internet stars save The Grand Tour? And is Anna Wintour’s reign over high fashion finally coming to an end? Netflix wanted TikTok sensation Alix Earle and her family to be the next Keeping Up With the Kardashians, but their new show falls flat. Why can't traditional formats keep up with online stars? Amazon has launched its Grand Tour reboot with three fresh faces taking up the mantle from Hammond, Clarkson and May. Why is hiring ‘unknowns’ a return to form for Top Gear? Anna Wintour is in hot water for her support of controversial designer John Galliano, who has cancelled a major exhibit at the Met due to bitter backlash. Is this the end for the ice queen of fashion? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Looking for extra value from your spending? You can bank on Lloyds to help your money go further. Search Lloyds Rewards in your app. For more Goalhanger Podcasts, head to ⁠www.goalhanger.com ⁠ Video Editor: Louis Mealing & Lorcan Moullier Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at ⁠www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5561814924.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3521",
+      "speakers": [
+        "New Kardashians",
+        "Anna Wintour",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "kardashians"
+      ]
+    },
     {
       "key": "b60fcf9361aad8b54d656b8f8aefe299fadf3397",
       "title": "Should Celebs Brave the Shave?",
@@ -6621,6 +6642,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — Have We Found The New Kardashians? — speakers: New Kardashians, Anna Wintour, Richard Osman, Marina Hyde
 - 2026-09-02 — Should Celebs Brave the Shave? — speakers: Should Celebs Brave, Richard Osman, Marina Hyde
 - 2026-08-31 — Goodbye Dolly: Musician, Megastar, Mogul — speakers: Richard Osman, Marina Hyde
 - 2026-08-26 — Kanye, Katseye & Jamiroquai's Hat — speakers: Hat Which, Richard Osman, Marina Hyde

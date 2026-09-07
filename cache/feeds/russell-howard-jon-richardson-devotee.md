@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-09-07T12:30:47+00:00`
-- checked_at: `2026-09-07T12:30:47+00:00`
-- etag: `W/"57063-4TJ6hLExR1UUn1WGIJf/bmnAZmA"`
+- fetched_at: `2026-09-07T23:29:38+00:00`
+- checked_at: `2026-09-07T23:29:38+00:00`
+- etag: `W/"5676f-xaNnYnVuIAyaXKFQGeXVH3PoY6c"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-09-07T12:30:47+00:00",
+  "fetched_at": "2026-09-07T23:29:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -6013,48 +6013,6 @@
         "richardson",
         "podcast"
       ]
-    },
-    {
-      "key": "b4a93a7500c70fa2c9007e1cefcaa937521e1075",
-      "title": "#48 Russell Howard & Jon Richardson Podcast EP 48",
-      "published_at": "2026-02-01T20:16:10+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/48-Russell-Howard--Jon-Richardson-Podcast-EP-48-e3eg8r0",
-      "description": "#48 Russell Howard & Jon Richardson Podcast EP 48",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1769976917019-a80d55e9c1c5b.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/114876704/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-1%2F541a1e37-1b9f-8404-4b02-a47ac39523ea.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "57477792",
-      "itunes_duration": "01:19:49",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "0a504097335f276afc889f10880b31478dcc26ab",
-      "title": "#47 Russell Howard & Jon Richardson Podcast EP 47",
-      "published_at": "2026-02-01T20:14:10+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/47-Russell-Howard--Jon-Richardson-Podcast-EP-47-e3eg8oo",
-      "description": "#47 Russell Howard & Jon Richardson Podcast EP 47",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1769976817017-f7f2887252f0e.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/114876632/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-1%2Feb14b2dc-1d5f-fe62-add5-42106b734865.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "49455552",
-      "itunes_duration": "01:08:40",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
     }
   ]
 }
@@ -6326,5 +6284,3 @@
 - 2026-02-01 — #51 Russell Howard & Jon Richardson Podcast EP 51 — speakers: Russell Howard
 - 2026-02-01 — #50 Russell Howard & Jon Richardson Podcast EP 50 — speakers: Russell Howard
 - 2026-02-01 — #49 Russell Howard & Jon Richardson Podcast EP 49 — speakers: Russell Howard
-- 2026-02-01 — #48 Russell Howard & Jon Richardson Podcast EP 48 — speakers: Russell Howard
-- 2026-02-01 — #47 Russell Howard & Jon Richardson Podcast EP 47 — speakers: Russell Howard
