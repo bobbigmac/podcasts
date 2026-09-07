@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-08-31T20:50:15+00:00`
-- checked_at: `2026-08-31T20:50:15+00:00`
-- etag: `"1192af-65a5bb564e132"`
-- last_modified: `Mon, 31 Aug 2026 18:09:52 GMT`
+- fetched_at: `2026-09-07T19:09:23+00:00`
+- checked_at: `2026-09-07T19:09:23+00:00`
+- etag: `"119b73-65ae5e109db4d"`
+- last_modified: `Mon, 07 Sep 2026 15:00:29 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-08-31T20:50:15+00:00",
+  "fetched_at": "2026-09-07T19:09:23+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2ff8c3b79d3aba5dfda32ae8d36dd620698951de",
+      "title": "Be Funny or Be Fired - S22, Ep.1",
+      "published_at": "2026-09-07T15:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "We have officially met the series 22 Taskmaster cast - Nina Conti, Chloe Petts, Matt Lucas, Isy Suttie, and Richard Ayoade - and it's off to an excellent start. Is it a first for approaching Greg's throne so early on in the series? How far can droopy tights droop? Where did that secret tunnel fit into the Taskmaster house floor plan? It's all up for discussion! Plus, Jenny thinks she remembers a gold vs. yellow argument from the past... Send all your Taskmaster series 22 thoughts to fans@taskmaster.tv. Don't forget to download the Taskmaster app for all kinds of extra Taskmaster fun.",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/fc5ea7c5-5ef8-4ec7-b1a1-927208be1706.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=fc5ea7c5-5ef8-4ec7-b1a1-927208be1706",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67430691",
+      "itunes_duration": "01:06:23",
+      "speakers": [
+        "Nina Conti",
+        "Chloe Petts",
+        "Matt Lucas",
+        "Isy Sutt",
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "fired"
+      ]
+    },
     {
       "key": "9e2445db981710471233f176ab9ee519201b6387",
       "title": "UK TASKMASTER SERIES 22 STATS AND PREDICTIONS",
@@ -4851,6 +4874,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — Be Funny or Be Fired - S22, Ep.1 — speakers: Nina Conti, Chloe Petts, Matt Lucas, Isy Sutt, Jenny Eclair, Jack Bernhardt
 - 2026-08-31 — UK TASKMASTER SERIES 22 STATS AND PREDICTIONS — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-08-24 — Better With Balloons, Baby! - Taskmaster Denmark S1, Ep. 5 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-08-17 — The Hand of the Leg - S7, Ep. 9 — speakers: Phil Wang, Jenny Eclair, Jack Bernhardt
