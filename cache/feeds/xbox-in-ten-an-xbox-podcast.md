@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-08-31T05:33:11+00:00`
-- checked_at: `2026-08-31T05:33:11+00:00`
-- etag: `"696949341c1af34ab850b16773276608"`
-- last_modified: `Mon, 31 Aug 2026 04:15:38 GMT`
+- fetched_at: `2026-09-07T04:39:33+00:00`
+- checked_at: `2026-09-07T04:39:33+00:00`
+- etag: `"5aacc7b9f46efec685232262443a6177"`
+- last_modified: `Mon, 07 Sep 2026 04:18:09 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-08-31T05:33:11+00:00",
+  "fetched_at": "2026-09-07T04:39:33+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,37 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "63272a8e8f54197024ad93d898d0a011ce2539d2",
+      "title": "Microsoft Switches to Monthly Hour Limits for Xbox Cloud Gaming - (Xbox In Ten: An Xbox Podcast - Ep. 380)",
+      "published_at": "2026-09-07T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/microsoft-switches-to-monthly-hour-limits-for-xbox-cloud-gaming-xbox-in-ten-an-xbox-podcast-ep-380",
+      "description": "Week of: 8-31-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/1/0/f/c/10fc3a18512d047bd959afa2a1bf1c87/380.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/380.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "12407344",
+      "itunes_duration": "08:47",
+      "speakers": [
+        "Microsoft Switches",
+        "Monthly Hour Limits",
+        "Xbox Cloud Gaming",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "microsoft",
+        "switches",
+        "monthly",
+        "hour",
+        "limits",
+        "xbox",
+        "cloud",
+        "gaming",
+        "podcast"
+      ]
+    },
     {
       "key": "489acf4fd3bb1aaaf9da36bfcc46431519407d74",
       "title": "Grand Theft Auto 6 Netflix Special Details - (Xbox In Ten: An Xbox Podcast - Ep. 379)",
@@ -9566,6 +9597,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — Microsoft Switches to Monthly Hour Limits for Xbox Cloud Gaming - (Xbox In Ten: An Xbox Podcast - Ep. 380) — speakers: Microsoft Switches, Monthly Hour Limits, Xbox Cloud Gaming, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-08-31 — Grand Theft Auto 6 Netflix Special Details - (Xbox In Ten: An Xbox Podcast - Ep. 379) — speakers: Grand Theft Auto, Netflix Special Details, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-08-24 — Grand Theft Auto 6 Leaks...Finally Over? - (Xbox In Ten: An Xbox Podcast - Ep. 378) — speakers: Grand Theft Auto, Finally Over, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-08-17 — Xbox Boss Reveals Brief Thoughts On Elder Scrolls 6 After Live Playthrough - (Xbox In Ten: An Xbox Podcast - Ep. 377) — speakers: Brandon Rosa

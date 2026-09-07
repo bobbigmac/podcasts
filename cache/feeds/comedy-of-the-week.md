@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-09-01T14:09:10+00:00`
-- checked_at: `2026-09-01T14:09:10+00:00`
-- etag: `"df6b4156d27765671d96eb4828188020"`
-- last_modified: `Tue, 01 Sep 2026 09:38:04 GMT`
+- fetched_at: `2026-09-07T04:39:33+00:00`
+- checked_at: `2026-09-07T04:39:33+00:00`
+- etag: `"04e207e726d88e96533b8cdb070b2ce8"`
+- last_modified: `Mon, 07 Sep 2026 04:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-09-01T14:09:10+00:00",
+  "fetched_at": "2026-09-07T04:39:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "2d5f65170dc0282117a6b469aeb6274be79496e9",
+      "title": "The Skewer",
+      "published_at": "2026-09-07T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p81pyb",
+      "description": "The multi-award-winning satire returns, as Jon Holmes mashes up news with pop-culture into a current affairs comedy concept album. This week - Andy Burnham embarks on his Odyssey, and Harry and Meghan's dog barks at The Gentlemen on Netflix. To hear more episode from this series, search \"The Skewer\" on BBC Sounds. Producer: Jon Holmes An unusual production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p81ph2.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "14224000",
+      "itunes_duration": "889",
+      "speakers": [
+        "Jon Holmes"
+      ],
+      "topics": [
+        "skewer"
+      ]
+    },
     {
       "key": "55363be2ff538cfa5b7c0c687e4b178fe56b8fb4",
       "title": "Edinburgh Comedy Awards Gala 2026",
@@ -998,6 +1016,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — The Skewer — speakers: Jon Holmes
 - 2026-09-01 — Edinburgh Comedy Awards Gala 2026 — speakers: Edinburgh Comedy Awards, Best Newcomer
 - 2026-08-24 — The People Have Spoken — speakers: Ian Smith, Harriet Kemsley
 - 2026-08-17 — Paul Sinha's Perfect Pub Quiz — speakers: Paul Sinha

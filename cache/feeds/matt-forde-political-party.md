@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-08-31T05:33:11+00:00`
-- checked_at: `2026-08-31T05:33:11+00:00`
-- etag: `"djEuMi4wOjE3ODgxNDE2Mzk0NjE="`
+- fetched_at: `2026-09-07T04:39:33+00:00`
+- checked_at: `2026-09-07T04:39:33+00:00`
+- etag: `"djEuMi4wOjE3ODg3NTAwMzk3OTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-08-31T05:33:11+00:00",
+  "fetched_at": "2026-09-07T04:39:33+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "7db7d54b0d683458daf5d0ba4ae82b000621c33d",
+      "title": "How I will lead Labour to victory in Scotland: Michael Marra",
+      "published_at": "2026-09-07T03:00:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/how-i-will-lead-labour-to-victory-in-scotland-michael-marra",
+      "description": "Many have failed... but is Michael Marra the man to finally lead Labour to success in Scotland? It's a huge task that has proved beyond nine leaders, so what would Michael do differently? And does having Andy Burnham as Prime Minister help? More importantly, what on earth happened to him in Malawi? And is he really a proper 6Music dad? See the Political Party Live on Stage: 9 November: Liz Kendall (London) 21 December: Wes Streeting (London) GET TICKETS for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival and touring nationwide in 2027: www.mattforde.com MARCH 19 FAVERSHAM The Alex 20 DORKING Halls APRIL 7 STOURBRIDGE Town Hall 8 GLOUCESTER Guildhall 9 LEICESTER Y Theatre 12 SALFORD Lowry 16 NORTHAMPTON Royal & Derngate 21 EXETER Northcott Theatre 24 LONDON Bloomsbury Theatre 28 ALNWICK Playhouse 29 BARNARD CASTLE Witham 30 HULL Asylum MAY 6 BIRMINGHAM The Glee Club 12 COVENTRY Warwick Arts Centre 13 WORCESTER Huntingdon Hall 14 CHORLEY Theatre 18 STAMFORD Corn Exchange 19 SHEFFIELD Steamworks 20 SHREWSBURY Theatre Severn 21 NOTTINGHAM Theatre Royal 23 LEEDS City Varieties Music Hall 26 NORWICH Playhouse 27 NORWICH Playhouse JUNE 2 SCUNTHORPE Plowright 4 CANTERBURY Gulbenkian Theatre 5 READING Concert Hall 8 CARDIFF The Glee Club 9 BATH Komedia 10 MONMOUTH Savoy Theatre 11 CHIPPING NORTON The Theatre 15 BURY ST EDMUNDS Theatre Royal 16 MILTON KEYNES The Stables 18 TUNBRIDGE WELLS Trinity Theatre 30 LIVERPOOL Everyman Playhouse JULY 1 CARLISLE Old Fire Station 2 GLASGOW The Glee Club 4 EDINBURGH Lyceum Theatre Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6a9dbca13559f174782924cf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76632625",
+      "itunes_duration": "53:12",
+      "speakers": [
+        "Michael Marra",
+        "Matt Forde"
+      ],
+      "topics": [
+        "labour",
+        "victory",
+        "scotland",
+        "michael",
+        "marra"
+      ]
+    },
     {
       "key": "d47b03a4be20a3dae22d0796ed0c070578c685fa",
       "title": "I was diagnosed with cancer on election day: Malcolm Offord LIVE in Edinburgh",
@@ -10677,6 +10700,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — How I will lead Labour to victory in Scotland: Michael Marra — speakers: Michael Marra, Matt Forde
 - 2026-08-31 — I was diagnosed with cancer on election day: Malcolm Offord LIVE in Edinburgh — speakers: Malcolm Offord, Matt Forde
 - 2026-08-24 — We underestimated the SNP: Douglas Alexander LIVE in Edinburgh — speakers: Douglas Alexander, Matt Forde
 - 2026-08-17 — Sturgeon wrong to criticise SNP: Stephen Flynn LIVE in Edinburgh — speakers: Stephen Flynn, Matt Forde

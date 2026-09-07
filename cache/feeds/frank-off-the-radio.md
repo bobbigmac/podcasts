@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-09-04T04:31:24+00:00`
-- checked_at: `2026-09-04T04:31:24+00:00`
-- last_modified: `Fri, 04 Sep 2026 00:12:47 GMT`
+- fetched_at: `2026-09-07T04:39:33+00:00`
+- checked_at: `2026-09-07T04:39:33+00:00`
+- last_modified: `Mon, 07 Sep 2026 00:06:24 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-04T04:31:24+00:00",
+  "fetched_at": "2026-09-07T04:39:33+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,23 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "ff1ac36caf5ffd5787938c7c1f29839cf821f1cc",
+      "title": "Allergic to Cats",
+      "published_at": "2026-09-07T00:00:00+00:00",
+      "link": null,
+      "description": "Frank and Em are back, and they’re joined by Katie Norris. Frank’s allergic to cats, Em’s been hanging out with Gandhi, and Katie’s been getting DM proposals. If you want to message the show, email us at FrankOffTheRadio@AvalonUK.com or WhatsApp us on 07457 417 769. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7241930122.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2561",
+      "speakers": [
+        "Katie Norris",
+        "Frank Skinner"
+      ],
+      "topics": []
+    },
     {
       "key": "911ea5b21cef813fc8c5dfaf2168c93d76b1b8f9",
       "title": "Frank’s Back in London",
@@ -24646,6 +24663,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — Allergic to Cats — speakers: Katie Norris, Frank Skinner
 - 2026-09-04 — Frank’s Back in London — speakers: Frank’s Back, Katie Norris, Frank Skinner
 - 2026-09-02 — Frank Skinner’s Radio Days: Gardening Trousers — speakers: Frank Skinner
 - 2026-08-31 — HMV Bargain Basket — speakers: Katie Norris, John Kearns, Frank Skinner

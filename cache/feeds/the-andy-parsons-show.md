@@ -2,8 +2,8 @@
 
 - slug: `the-andy-parsons-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/`
-- fetched_at: `2026-09-06T22:53:43+00:00`
-- checked_at: `2026-09-06T22:53:43+00:00`
+- fetched_at: `2026-09-07T04:39:33+00:00`
+- checked_at: `2026-09-07T04:39:33+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-andy-parsons-show/",
   "image_url": "",
-  "fetched_at": "2026-09-06T22:53:43+00:00",
+  "fetched_at": "2026-09-07T04:39:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7f882b065085afb897182d100ee36fd0b53cf170",
+      "guid": "a926243f-e346-4281-b684-6dec655ffc0f",
+      "title": "The Andy Parsons Show (6th September)",
+      "published_at": "2026-09-06T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-andy-parsons-show-6th-september/",
+      "description": "Join the Mock the Week star as he delivers his own verdict on the week's big news stories.",
+      "image_url": "https://assets.sharp-stream.com/content/fubar_radio/artwork/andy_parsons_podcast_1400x1400_2_1629974649.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1788736466-the_andy_parsons_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=a926243f-e346-4281-b684-6dec655ffc0f&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "b78eaa0b4eb0d16d22e46668272bfa9842f93840",
       "guid": "4c950ea3-d601-4d47-8f2a-985f611bfcfb",
@@ -1617,6 +1630,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-06 — The Andy Parsons Show (6th September)
 - 2026-08-30 — The Andy Parsons Show (30th August)
 - 2026-08-23 — The Andy Parsons Show (23rd August)
 - 2026-08-16 — The Andy Parsons Show (16th August)

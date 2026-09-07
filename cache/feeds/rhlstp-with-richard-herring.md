@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-06T22:53:43+00:00`
-- checked_at: `2026-09-06T22:53:43+00:00`
-- etag: `"djEuMi4wOjE3ODg3Mjk0OTEyNjU="`
+- fetched_at: `2026-09-07T04:39:33+00:00`
+- checked_at: `2026-09-07T04:39:33+00:00`
+- etag: `"djEuMi4wOjE3ODg3NDk4NTkzMzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-06T22:53:43+00:00",
+  "fetched_at": "2026-09-07T04:39:33+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7380a07d57c5baccfc0e694bdd50f7acb777b9a7",
+      "title": "Thanyia Moore (Retro) - \"The Drug Rats of Porthcawl\"",
+      "published_at": "2026-09-07T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#445 The Drug Rats of Porthcawl - Richard is delighted to be back for series 27 of RHLSTP and to be within the short-lived window where he can do topical stand up material. It’s going to be the last time in a while, though there’s talk of a RHLSTP tour! Hie guest is dancer turned comedian turned actor and writer Thanyia Moore. They chat about the lost Tango ads, why she wrote a stand up show about being a bully, the mystery of how the unusual spelling of her name came about, what she did to upset some of the people of Wales (though some of them agreed with her), how appearing on Question Team led to her wing-walking and water-skiing, whether the skills on her Spotlight entry are genuine and could she could beat Richard over 100 metres? (Yes). Check out Thanyia’s latest gigs here https://www.thanyiamoore.co.uk/ Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1788728707544-5b4a7967-eec8-4328-918f-e9e51eb71aa4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a9dd43f3559f174782ce698/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27983830",
+      "itunes_duration": "58:17",
+      "speakers": [
+        "Thanyia Moore",
+        "Richard Herring"
+      ],
+      "topics": [
+        "thanyia",
+        "moore",
+        "retro",
+        "drug",
+        "rats",
+        "porthcawl"
+      ]
+    },
     {
       "key": "d7f41e826fad81c03f0980f575e012daf93e0fda",
       "title": "Tim Minchin on You Don’t Have To Have A Dream - Book Club",
@@ -23720,6 +23744,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — Thanyia Moore (Retro) - "The Drug Rats of Porthcawl" — speakers: Thanyia Moore, Richard Herring
 - 2026-09-04 — Tim Minchin on You Don’t Have To Have A Dream - Book Club — speakers: Tim Minchin, Richard Herring
 - 2026-09-02 — Lucy Porter - "Beating Leonardo at Poker" — speakers: Lucy Porter Beating Leonardo, Richard Herring
 - 2026-08-31 — Sophie Duker (Retro) - "Sploshing" — speakers: Sophie Duker, Richard Herring

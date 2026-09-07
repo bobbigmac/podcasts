@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-09-02T23:18:45+00:00`
-- checked_at: `2026-09-02T23:18:45+00:00`
-- last_modified: `Wed, 02 Sep 2026 23:01:00 GMT`
+- fetched_at: `2026-09-07T04:39:33+00:00`
+- checked_at: `2026-09-07T04:39:33+00:00`
+- last_modified: `Sun, 06 Sep 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-02T23:18:45+00:00",
+  "fetched_at": "2026-09-07T04:39:33+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d81c35c2e68c583a00913a6f4a266e7fe205c4aa",
+      "title": "Ray Winstone on The Gentlemen, Gangster Etiquette, and Strictly Come Dancing",
+      "published_at": "2026-09-06T23:01:00+00:00",
+      "link": null,
+      "description": "Could Romesh make a convincing gangster? In this week's episode of The Romesh Ranganathan Show, Romesh is joined by legendary, British actor, Ray Winstone, to discuss his role as Bobby Glass in the second season of Guy Ritchie's hit Netflix series, The Gentlemen. But what does he make of the rumours Meghan Markle is joining the cast? Ray, famous for his career playing tough guys and hardened criminals in films such as, Sexy Beast and Nil By Mouth, talks to Romesh about his acting career over the last 50 years. Plus, there's a masterclass lesson in how to play a proper gangster. Hint - he doesn't hold back criticism. Elsewhere, Ray discusses his love of Sicily, West Ham and John Malkovich. There's a playful game of Misquoted, a question from Shanthi, where the conversation turns to Strictly, and the importance of family. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 03:03 A gift for Ray 05:55 Ray doesn’t want to talk about acting 09:04 Ray’s career beginnings 11:37 Building a character 13:15 Favourite roles 15:30 Ray’s swagger and coaching Romesh 20:19 The Gentlemen 36:35 Meghan Markle rumours 37:30 Embarassing mum moments 39:14 Shanthi’s question 40:17 The changes in the industry and being a dad 43:13 Is Ray a homebody? 45:40 Turning down The Wire 47:56 On Danny Dyer 49:31 On West Ham 50:15 Ray’s Esquire culture chat 52:51 Misquoted 01:02:55 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/40af7880-a98e-11f1-933f-cb47cd462dd4/image/8bf074c350232978cab3617def773d7c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6777008747.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3975",
+      "speakers": [
+        "Ray Winstone",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "winstone",
+        "gentlemen",
+        "gangster",
+        "etiquette",
+        "dancing"
+      ]
+    },
     {
       "key": "90cae0b1a9d95e47f35ae214358f4444e055184b",
       "title": "Shanthi's £35K Garden Room, A Big Apology & Conspiracy Theories",
@@ -2298,6 +2321,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-06 — Ray Winstone on The Gentlemen, Gangster Etiquette, and Strictly Come Dancing — speakers: Ray Winstone, Romesh Ranganathan
 - 2026-09-02 — Shanthi's £35K Garden Room, A Big Apology & Conspiracy Theories — speakers: Garden Room, Big Apology, Conspiracy Theories Should Shanthi, Romesh Ranganathan
 - 2026-08-30 — Rick Glassman On The Paul Rudd Incident, Podcasting and Ricky Gervais — speakers: Rick Glassman, Ricky Gervais, Rick Glas, Romesh Ranganathan
 - 2026-08-26 — The Art Special : Sexy Art, Questionable Portraits and Romesh's Secret Talent — speakers: Sexy Art, Questionable Portraits, Romesh Ranganathan

@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-09-03T16:25:37+00:00`
-- checked_at: `2026-09-03T16:25:37+00:00`
-- etag: `"djEuMi4wOjE3ODg0NDIyMzkyNTM="`
+- fetched_at: `2026-09-07T04:39:33+00:00`
+- checked_at: `2026-09-07T04:39:33+00:00`
+- etag: `"djEuMi4wOjE3ODg3NTU0Mzk3Mzc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-09-03T16:25:37+00:00",
+  "fetched_at": "2026-09-07T04:39:33+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "09ec084daa48ceb202891b6004cab1e381415e11",
+      "title": "639 Biggest \"Jumping the Shark\" Moments in Movies & TV Shows",
+      "published_at": "2026-09-07T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/639-biggest-jumping-the-shark-moments-in-movies-tv-shows",
+      "description": "BOO. Sorry that wasn't okay. But what is okay is that we're talking the greatest jumping the shark moments from across tv and film. James Bond, Indiana Jones, Heroes, several others. We also talk Avengers: Doomsday filming before the script is finished, a weird Robin Hood rebrand for Andrew Garfield's new movie, Dave Bautista getting big again for God of War, Peter Cullen's final performance as Optimus Prime, trailers for Harry Potter and Streeth Fighter and more! Thanks for listening New episode of James & Maso's Time Crapsule out now! Available to listen on bigsandwich.co and patreon.com/mrsundaymovies. Plus an upcoming Resident Evil 4 let's play from the archives via YouTube Memberships on youtube.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 05:41 Avengers: Doomsday Script Finished Yet? 10:29 The Uprising Movie's Weird Robin Hood Rebrand 11:46 Dave Bautista Big Again for God of War 16:13 Peter Cullen's Final Optimus Prime Appearance 18:53 Harry Potter Series Trailer 19:48 Street Fighter Movie Trailer 26:30 Florence Pugh James Bond Spin-Off Rumour 30:01 \"Jumping the Shark\" Topic Explained 41:21 Biggest \"Jumping the Shark\" Movies & Shows 01:19:32 What We Reading, Lanterns Ep3 & Mutiny Movie 01:36:55 Letters, It's Time For Letters 01:46:54 James Bond Movie Hot Scoop (or Shot of Poop) SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a9aeb2f0c72700615579991/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "172660223",
+      "itunes_duration": "1:59:54",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "shark",
+        "moments",
+        "movies",
+        "show"
+      ]
+    },
     {
       "key": "5787eb1003cb53cde07de3054105ba82dca076a2",
       "title": "Resident Evil: Afterlife - Caravan Of Garbage",
@@ -23029,6 +23051,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — 639 Biggest "Jumping the Shark" Moments in Movies & TV Shows — speakers: James Clement, Nick Mason
 - 2026-09-03 — Resident Evil: Afterlife - Caravan Of Garbage — speakers: Resident Evil, James Clement, Nick Mason
 - 2026-08-31 — 638 The Dog Stars — speakers: James Clement, Nick Mason
 - 2026-08-27 — Resident Evil: Extinction - Caravan Of Garbage — speakers: Resident Evil, James Clement, Nick Mason

@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-09-03T23:16:43+00:00`
-- checked_at: `2026-09-03T23:16:43+00:00`
-- etag: `"djEuMi4wOjE3ODg0NzY1NjAzNzE="`
+- fetched_at: `2026-09-07T04:39:33+00:00`
+- checked_at: `2026-09-07T04:39:33+00:00`
+- etag: `"djEuMi4wOjE3ODg3MzU3NTkzMDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-09-03T23:16:43+00:00",
+  "fetched_at": "2026-09-07T04:39:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9ad37c4072403e7509df7b77372f1240f064ed8a",
+      "title": "Ep. 604 - Mari Wilson - Best known for the 1982 hit ‘Just What I Always Wanted’",
+      "published_at": "2026-09-06T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-604-mari-wilson-best-known-for-the-1982-hit-just-what-i-a",
+      "description": "Mari Wilson is the singer behind the iconic 1982 hit ‘Just What I Always Wanted’, as well as ‘Cry Me a River’, and became one of the most recognisable performers of the early 1980s with her trademark beehive, retro style and band The Wilsations. The self-styled ‘Neasden Queen of Soul’ went on to build a hugely varied career spanning pop, soul and jazz, performing with jazz legend Stan Getz at the Royal Festival Hall, appearing alongside Boy George in Taboo and in Dusty The Musical, and recording the theme tune to the hit sitcom Coupling. Now, more than four decades into her career, Mari is back with Girl About Town, her first album of original material in more than a decade. Released on 4 September 2026 . Mari Wilson is our guest in episode 604 of My Time Capsule and chats to Michael Fenton Stevens about the five things she'd like to put in a time capsule; four she’d like to preserve and one she’d like to bury and never have to think about again . For Mari Wilson’s new album and live dates, visit - https://www.mariwilson.co.uk . Follow Mari Wilson on Instagram : @marimwilson . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter /X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter /X: @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6a9ada5dffe0e274914f0b3d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "68415654",
+      "itunes_duration": "57:00",
+      "speakers": [
+        "Mari Wilson"
+      ],
+      "topics": [
+        "mari",
+        "wilson",
+        "best"
+      ]
+    },
     {
       "key": "0097a6b6f292af1dab92df463baf7e699e6493c9",
       "title": "My Time Capsule The Dig - Ep. 16 - With Nigel Planer!",
@@ -13403,6 +13423,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-06 — Ep. 604 - Mari Wilson - Best known for the 1982 hit ‘Just What I Always Wanted’ — speakers: Mari Wilson
 - 2026-09-03 — My Time Capsule The Dig - Ep. 16 - With Nigel Planer! — speakers: Nigel Planer
 - 2026-08-30 — Ep. 603 - Samantha Niblett MP - Labour MP and the woman behind 2026’s “Summer of Sex” — speakers: Samantha Niblett
 - 2026-08-27 — My Time Capsule The Dig - Ep. 15 - With Andrew Hunter Murray from No Such Thing As A Fish — speakers: Andrew Hunter Murray
