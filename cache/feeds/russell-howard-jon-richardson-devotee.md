@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-09-03T11:13:15+00:00`
-- checked_at: `2026-09-03T11:13:15+00:00`
-- etag: `W/"56f09-ycd0+J+5iFpZCrszy1qDegTkVjI"`
+- fetched_at: `2026-09-07T12:30:47+00:00`
+- checked_at: `2026-09-07T12:30:47+00:00`
+- etag: `W/"57063-4TJ6hLExR1UUn1WGIJf/bmnAZmA"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,101 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-09-03T11:13:15+00:00",
+  "fetched_at": "2026-09-07T12:30:47+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "23825020d15787e643cba99d103ee9eddd4ac7ae",
+      "title": "#47 Russell Howard & Jon Richardson Podcast Episode 47",
+      "published_at": "2026-09-07T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/47-Russell-Howard--Jon-Richardson-Podcast-Episode-47-e3oe50r",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1788719440149-0347ec1c9df11.jpg",
+      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/125293019/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-6%2F431305257-44100-2-3c86fe5047f13.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65937239",
+      "itunes_duration": "01:08:41",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "197ee29993d95cf0ef45fabc276e6e0dbf794517",
+      "title": "#46 Russell Howard & Jon Richardson Podcast Episode 46",
+      "published_at": "2026-09-06T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/46-Russell-Howard--Jon-Richardson-Podcast-Episode-46-e3octfa",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1788635101042-24ebc07097b7.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1566055745.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76095759",
+      "itunes_duration": "01:18:25",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "77e4303b5975b9e5440c3c29b7c2e081e2e3ea48",
+      "title": "#45 Russell Howard & Jon Richardson Podcast Episode 45",
+      "published_at": "2026-09-05T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/45-Russell-Howard--Jon-Richardson-Podcast-Episode-45-e3oaa5t",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1788461571551-0bb6a3f509de4.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO8977650897.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "71334558",
+      "itunes_duration": "01:13:30",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "d346126d1819b42b322f656229040d3d9ec8feb7",
+      "title": "#44 Russell Howard & Jon Richardson Podcast Episode 44",
+      "published_at": "2026-09-04T06:58:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/44-Russell-Howard--Jon-Richardson-Podcast-Episode-44-e3octav",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1788634834227-460cff35f2302.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9512286036.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75122351",
+      "itunes_duration": "01:17:25",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
     {
       "key": "ce7c2b9a651aecc0071a410e777bbc32e2209876",
       "title": "#43 Russell Howard & Jon Richardson Podcast Episode 43",
@@ -1177,28 +1265,6 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27848274",
       "itunes_duration": "00:28:41",
-      "speakers": [
-        "Alan Partridge"
-      ],
-      "topics": [
-        "hour",
-        "chris",
-        "morris",
-        "alan",
-        "partridge"
-      ]
-    },
-    {
-      "key": "ae9deea78ea119dff8c79816e6de9da44d285f8c",
-      "title": "On The Hour - S1 EP 6 - with Chris Morris & Alan Partridge",
-      "published_at": "2026-08-07T16:59:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/On-The-Hour---S1-EP-6---with-Chris-Morris--Alan-Partridge-e3n2pt4",
-      "description": "On the Hour was a British radio programme that parodied current affairs broadcasting, broadcast on BBC Radio 4 between 1991 and 1992. Written by Chris Morris, Armando Iannucci,[1] Steven Wells, Andrew Glover, Stewart Lee, Richard Herring and David Quantick, On the Hour starred Morris as the overzealous and self-important principal anchor (for which he used his own full name). He was accompanied by a regular cast assembled by Iannucci, comprising Steve Coogan, Rebecca Front, Doon Mackichan, Patrick Marber and David Schneider, who portrayed assorted news reporters, presenters and interviewees.[2] On the Hour featured the first appearance of Coogan's character Alan Partridge as the \"Sports Desk\" reporter",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786042918783-3a33e89da9fc7.jpg",
-      "enclosure_url": "https://traffic.megaphone.fm/APO9574146820.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26435340",
-      "itunes_duration": "00:27:14",
       "speakers": [
         "Alan Partridge"
       ],
@@ -5989,69 +6055,6 @@
         "richardson",
         "podcast"
       ]
-    },
-    {
-      "key": "871534ae1a15bfdfc0fceafcfec592ad6456bedc",
-      "title": "#46 Russell Howard & Jon Richardson Podcast EP 46",
-      "published_at": "2026-01-30T15:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/46-Russell-Howard--Jon-Richardson-Podcast-EP-46-e3eceoj",
-      "description": "#46 Russell Howard & Jon Richardson Podcast EP 46",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1769718493357-0377a7c2e6a3c.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/114751699/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2F9d3976d4-2deb-3863-a9f0-585559c9ad0d.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "56466048",
-      "itunes_duration": "01:18:25",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "02b05b59773460a4e76ffe2f66fd47b7cfe9a7f9",
-      "title": "#45 Russell Howard & Jon Richardson Podcast EP 45",
-      "published_at": "2026-01-30T11:25:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/45-Russell-Howard--Jon-Richardson-Podcast-EP-45-e3ecems",
-      "description": "#45 Russell Howard & Jon Richardson Podcast EP 45",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1769718352876-1b07e2b84c06.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/114751644/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2F9ff266b1-73f5-c6c2-40a1-a283e9ec2a5b.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "52933152",
-      "itunes_duration": "01:13:30",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "f818064a970d6602fc42be1d2bb3ab49bbd23656",
-      "title": "#44 Russell Howard & Jon Richardson Podcast EP 44",
-      "published_at": "2026-01-30T06:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/44-Russell-Howard--Jon-Richardson-Podcast-EP-44-e3ecegf",
-      "description": "#44 Russell Howard & Jon Richardson Podcast EP 44",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1769718049829-456c68ae08609.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/114751439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-29%2F3b38cef9-bd21-ee84-f6e9-89382c8840bc.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "55744320",
-      "itunes_duration": "01:17:25",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
     }
   ]
 }
@@ -6060,6 +6063,10 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — #47 Russell Howard & Jon Richardson Podcast Episode 47 — speakers: Russell Howard, Jon Richardson
+- 2026-09-06 — #46 Russell Howard & Jon Richardson Podcast Episode 46 — speakers: Russell Howard, Jon Richardson
+- 2026-09-05 — #45 Russell Howard & Jon Richardson Podcast Episode 45 — speakers: Russell Howard, Jon Richardson
+- 2026-09-04 — #44 Russell Howard & Jon Richardson Podcast Episode 44 — speakers: Russell Howard, Jon Richardson
 - 2026-09-03 — #43 Russell Howard & Jon Richardson Podcast Episode 43 — speakers: Russell Howard, Jon Richardson
 - 2026-09-03 — #42 Russell Howard & Jon Richardson Podcast Episode 42 — speakers: Russell Howard, Jon Richardson
 - 2026-09-03 — #41 Russell Howard & Jon Richardson Podcast Episode 41 — speakers: Russell Howard, Jon Richardson
@@ -6113,7 +6120,6 @@
 - 2026-08-08 — On The Hour - S2 EP 3 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-08 — On The Hour - S2 EP 2 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-08 — On The Hour - S2 EP 1- with Chris Morris & Alan Partridge — speakers: Alan Partridge
-- 2026-08-07 — On The Hour - S1 EP 6 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-07 — On The Hour - S1 EP 5 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-07 — On The Hour - S1 EP 4 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-07 — On The Hour - S1 EP 3 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
@@ -6322,6 +6328,3 @@
 - 2026-02-01 — #49 Russell Howard & Jon Richardson Podcast EP 49 — speakers: Russell Howard
 - 2026-02-01 — #48 Russell Howard & Jon Richardson Podcast EP 48 — speakers: Russell Howard
 - 2026-02-01 — #47 Russell Howard & Jon Richardson Podcast EP 47 — speakers: Russell Howard
-- 2026-01-30 — #46 Russell Howard & Jon Richardson Podcast EP 46 — speakers: Russell Howard
-- 2026-01-30 — #45 Russell Howard & Jon Richardson Podcast EP 45 — speakers: Russell Howard
-- 2026-01-30 — #44 Russell Howard & Jon Richardson Podcast EP 44 — speakers: Russell Howard
