@@ -2,9 +2,9 @@
 
 - slug: `wheres-a-will-theres-a-wake`
 - source: `https://feeds.megaphone.fm/wtawtaw`
-- fetched_at: `2026-09-01T08:38:01+00:00`
-- checked_at: `2026-09-01T08:38:01+00:00`
-- last_modified: `Tue, 01 Sep 2026 04:00:00 GMT`
+- fetched_at: `2026-09-08T04:34:25+00:00`
+- checked_at: `2026-09-08T04:34:25+00:00`
+- last_modified: `Tue, 08 Sep 2026 04:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/wtawtaw",
   "description": "Join Mel Giedroyc every week as she laughs in the face of death with all your favourite funny celebrities. Working on the assumption they’ve popped their clogs, they’ll be telling Mel all about how they’ve died, what they want for their funerals and why she should be unlocking the pearly gates for them. Want the episodes ad free AND extra content from Mel and her guest? 6 Feet Under steps away from fantasy and rifles through all your dead good emails. Head to wheretheresawilltheresawake.com to subscribe. AND If you've got a story for us, send it over to mel@deathpodcast.co.uk. A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast Learn more about your ad choices. Visit podcastchoices.com/adchoices Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast To bring your brand to life in this podcast, email podcastadsales@sonymusic.com",
   "image_url": "https://megaphone.imgix.net/podcasts/2b690814-56d7-11ed-8ab5-83c1414d4a97/image/c6f317fd3e7d35323d3d1f610fd8466f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-01T08:38:01+00:00",
+  "fetched_at": "2026-09-08T04:34:25+00:00",
   "owners": [
     "Mel Giedroyc"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "fae573930267700c9926fab154279566c3c5a6b9",
+      "title": "Here Lies Craig Revel Horwood",
+      "published_at": "2026-09-08T04:00:00+00:00",
+      "link": null,
+      "description": "Drowning in a lake, lobster lasagne and a Tesla in the will. It's Strictly judge, actor and all-round showman, Craig Revel Horwood! Have a story for us? Send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts and follow us at @sonypodcasts To bring your brand to life in this podcast, email podcastadsales@sonymusic.com And if you’ve got a story for us, send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dc8a72aa-7c67-11f0-bc82-1b624884f83d/image/f6598616dfdc47a5a5766c66eab1094c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY5338884147.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2272",
+      "speakers": [
+        "Craig Revel Horwood Drowning",
+        "Mel Giedroyc"
+      ],
+      "topics": [
+        "craig",
+        "revel",
+        "horwood"
+      ]
+    },
     {
       "key": "93ce0a4ea6a74612e7effa9b5ecb2884dbc351e7",
       "title": "The Frankenstein Cut",
@@ -4309,6 +4330,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-08 — Here Lies Craig Revel Horwood — speakers: Craig Revel Horwood Drowning, Mel Giedroyc
 - 2026-09-01 — The Frankenstein Cut — speakers: Mel Giedroyc
 - 2026-08-25 — Deadly Hot Takes — speakers: Deadly Hot Takes Summer, Mel Giedroyc
 - 2026-08-18 — Here Lies Dan Tiernan — speakers: Dan Tiernan Piano, Mel Giedroyc

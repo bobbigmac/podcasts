@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-09-04T11:16:34+00:00`
-- checked_at: `2026-09-04T11:16:34+00:00`
-- last_modified: `Fri, 04 Sep 2026 07:54:09 GMT`
+- fetched_at: `2026-09-08T04:34:25+00:00`
+- checked_at: `2026-09-08T04:34:25+00:00`
+- last_modified: `Mon, 07 Sep 2026 22:00:45 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ea7b3a41cdc0336cc8a48bcdc4533623.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-04T11:16:34+00:00",
+  "fetched_at": "2026-09-08T04:34:25+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0ced3cf476c6056bd3d6bb54745bb6bb314761aa",
+      "title": "⚽ I don't like teams in blue⚽",
+      "published_at": "2026-09-07T17:34:00+00:00",
+      "link": null,
+      "description": "Welcome to episode four of Footballing Hell... where every Monday Rob and Josh discuss the weekends football (or the bits that interest them) in the only way they know how. Chaotically, with not enough sleep, prep or insight... This week we (sort of) discuss the stories from the weekend of football that have interested us. Including a deep dive into why Josh doesn't like teams who play in blue, and the new Michael Owen reality TV show. Enjoy!! If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. ⁠⁠⁠Footballing Hell ⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/6729cb46-aae2-11f1-a234-83d7fae763c1/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT7109594605.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3593",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "team"
+      ]
+    },
     {
       "key": "e7e9decc780a1b74c39cbe79150def407c95079a",
       "title": "S13 EP14: Do I Love You?",
@@ -143,7 +162,7 @@
       "enclosure_url": "https://traffic.megaphone.fm/GLT4529111956.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2854",
+      "itunes_duration": "2764",
       "speakers": [
         "Online Safety",
         "Pre Teens",
@@ -12713,6 +12732,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — ⚽ I don't like teams in blue⚽ — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-04 — S13 EP14: Do I Love You? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-03 — Dr. Martha Deiros Collado - Online Safety Expert (Teenagers) — speakers: Online Safety, Rob Beckett, Josh Widdicombe
 - 2026-08-31 — S13 EP13: I LOVE / HATE the summer holidays — speakers: Rob Beckett, Josh Widdicombe
