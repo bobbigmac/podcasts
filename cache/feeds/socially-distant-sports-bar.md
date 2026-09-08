@@ -3,9 +3,11 @@
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
 - fetched_at: `2026-09-07T19:09:23+00:00`
-- checked_at: `2026-09-07T19:09:23+00:00`
+- checked_at: `2026-09-08T23:23:48+00:00`
 - etag: `"djEuMi4wOjE3ODg3OTA0NzUxNjE="`
 - max_episodes_per_feed: `2000`
+- status: `error`
+- last_error: <urlopen error [Errno 104] Connection reset by peer>
 
 <!-- FEED_JSON -->
 ```json
@@ -15869,7 +15871,17 @@
         "story"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-09-08T23:23:48+00:00",
+    "status": "error",
+    "checked_at": "2026-09-08T23:23:48+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "<urlopen error [Errno 104] Connection reset by peer>"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

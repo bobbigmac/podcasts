@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-09-08T21:08:59+00:00`
-- checked_at: `2026-09-08T21:08:59+00:00`
-- last_modified: `Tue, 08 Sep 2026 20:01:02 GMT`
+- fetched_at: `2026-09-08T23:23:48+00:00`
+- checked_at: `2026-09-08T23:23:48+00:00`
+- last_modified: `Tue, 08 Sep 2026 23:00:07 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-08T21:08:59+00:00",
+  "fetched_at": "2026-09-08T23:23:48+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,29 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "ef4e3c595a632b31c9b1e3b2027838e897efb7fd",
+      "title": "569. Farage’s Foreign Funding Scandal and Germany’s Far-Right Breakthrough",
+      "published_at": "2026-09-08T23:00:00+00:00",
+      "link": null,
+      "description": "As the Alternative for Germany party secured its best ever election result in Saxony-Anhalt, is the country about to get its first far-right state premier since the Nazi Party, and will Chancellor Friedrich Merz survive the fallout? What does an undercover documentary on Reform's fundraising reveal about the men presenting themselves as the movement's moral and intellectual core, and has the law been broken? Is Europe now entering a new era defined by right-wing extremism? Alastair and Rory are joined by Deputy Editor of Bild-Zeitung, Paul Ronzheimer, who has been on the ground in Saxony-Anhalt, where voters have propelled the pro-Russian, anti-EU AfD to the cusp of power. __________ Be the first person to correctly guess the single word title of Alastair’s upcoming book to win a signed first printing and a personal note from Alastair HERE . Enjoy Rory and Alastair’s interview with Anthony Scaramucci by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Emma Jackson Lead Video Editor: Josh Smith Video Editor: Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e37aca4a-ab9d-11f1-b5c5-4b0bc0874100/image/fa47a2863bd12674cd103512f78faa16.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT7268333659.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3308",
+      "speakers": [
+        "Foreign Funding Scandal"
+      ],
+      "topics": [
+        "farage",
+        "foreign",
+        "funding",
+        "scandal",
+        "germany",
+        "breakthrough"
+      ]
+    },
     {
       "key": "8965fa016db3b04ca1b359eb73810d6e5f27bdaf",
       "title": "Becoming Burnham: The Manchester Arena Call, Westminster Plotting, and Keir vs Andy",
@@ -12872,6 +12895,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-08 — 569. Farage’s Foreign Funding Scandal and Germany’s Far-Right Breakthrough — speakers: Foreign Funding Scandal
 - 2026-09-03 — Becoming Burnham: The Manchester Arena Call, Westminster Plotting, and Keir vs Andy — speakers: Andy Burnha
 - 2026-09-02 — 568. MAGA's Plan to Make Britain Look Broken and Iceland's 'Brexit' Moment — speakers: Make Britain Look Broken, Moment Did Iceland
 - 2026-09-01 — 567. Who Really Benefits from AI and Will Data Centres Decide the Midterms? — speakers: Who Really Benefits, Will Data Centres Decide
