@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-09-08T04:34:25+00:00`
-- checked_at: `2026-09-08T04:34:25+00:00`
-- last_modified: `Mon, 07 Sep 2026 22:00:45 GMT`
+- fetched_at: `2026-09-08T11:17:31+00:00`
+- checked_at: `2026-09-08T11:17:31+00:00`
+- last_modified: `Tue, 08 Sep 2026 09:02:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ea7b3a41cdc0336cc8a48bcdc4533623.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-08T04:34:25+00:00",
+  "fetched_at": "2026-09-08T11:17:31+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "bf61ac3c4bf8b9ae9af52dad016ac83c0690ce79",
+      "title": "S13 EP15: I've completed parenting (and a voicenote from Lou)",
+      "published_at": "2026-09-08T08:39:00+00:00",
+      "link": null,
+      "description": "More adventures in parenting (and life) from Rob and Josh... Rob gets into a dilemma trying to buy some cheese. There's a voicenote from Lou regarding the hair extensions / making a sandwich in the car on the way back from Germany. And sadly, Flufball has crossed the rainbow bridge... xx ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. Please subscribe and leave a rating and review you filthy street dogs... xxx If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6515637814.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3314",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "voicenote"
+      ]
+    },
     {
       "key": "0ced3cf476c6056bd3d6bb54745bb6bb314761aa",
       "title": "⚽ I don't like teams in blue⚽",
@@ -12732,6 +12751,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-08 — S13 EP15: I've completed parenting (and a voicenote from Lou) — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-07 — ⚽ I don't like teams in blue⚽ — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-04 — S13 EP14: Do I Love You? — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-03 — Dr. Martha Deiros Collado - Online Safety Expert (Teenagers) — speakers: Online Safety, Rob Beckett, Josh Widdicombe

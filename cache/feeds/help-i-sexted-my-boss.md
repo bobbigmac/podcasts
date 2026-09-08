@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-09-04T11:16:34+00:00`
-- checked_at: `2026-09-04T11:16:34+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RnME9UZ3dNemsxTmpRPTo6c2F4ZXNz"`
+- fetched_at: `2026-09-08T11:17:31+00:00`
+- checked_at: `2026-09-08T11:17:31+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RnNE5ETTJOREF3TnpVPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-09-04T11:16:34+00:00",
+  "fetched_at": "2026-09-08T11:17:31+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3a5cf3376e5fb74f8a7ef166ff1f797c066fdfb3",
+      "title": "Help We’ve Gone Back To School | And William’s Shameful Secret",
+      "published_at": "2026-09-08T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-weve-gone-back-to-school-and-williams-shameful-secret",
+      "description": "It's time to iron the white shirts and dust off the silk ties - William and Jordan are going back to school! The boys discuss how long a school tie should be, going to Saturday school, and why Jordan had to regularly forge his mum's signature. There's also a selection of school-based dilemmas to assist with, including having a crush at 16, and how to get a dodgy looking stain out of the crotch area. Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1788799949112-f43b9fcf-6e48-4ae7-a15f-e2b6cf139458.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6a9eeba48d009f6c0604e6ae/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=SsmfwMOq0oxX7n2_bXbvl9r68EJm9b3WnNP56yY5I8c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "43226592",
+      "itunes_duration": "45:01",
+      "speakers": [
+        "William’s Shameful Secret",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "school",
+        "william",
+        "shameful",
+        "secret"
+      ]
+    },
     {
       "key": "cc8981b4059f7064686617ccb9a192f83abcd285",
       "title": "Has Jordan’s VOICE Changed?! | And Poppins Parody",
@@ -15005,6 +15028,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-08 — Help We’ve Gone Back To School | And William’s Shameful Secret — speakers: William’s Shameful Secret, William Hanson, Jordan North
 - 2026-09-04 — Has Jordan’s VOICE Changed?! | And Poppins Parody — speakers: William Hanson, Jordan North
 - 2026-09-01 — Help That’s Not My Man Porridge | And Spanish Ironing Boards — speakers: William Hanson, Jordan North
 - 2026-08-28 — Jordan Loses His SH*T | And Wendi’s Coffee Table Books — speakers: Jordan Loses, Jordan North, William Hanson
