@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-09-07T04:39:33+00:00`
-- checked_at: `2026-09-07T04:39:33+00:00`
-- last_modified: `Sun, 06 Sep 2026 23:01:00 GMT`
+- fetched_at: `2026-09-09T23:14:27+00:00`
+- checked_at: `2026-09-09T23:14:27+00:00`
+- last_modified: `Wed, 09 Sep 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-07T04:39:33+00:00",
+  "fetched_at": "2026-09-09T23:14:27+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "eb3c3ec69ffeec687617fea8b587ca2492ec1c63",
+      "title": "Gangsters, Weddings & Unusual Habits",
+      "published_at": "2026-09-09T23:01:00+00:00",
+      "link": null,
+      "description": "Should children be allowed at weddings? We're back with another Thursday Shanthi special, and in this episode, Romesh and Shanthi tackle your listener dilemmas and butt heads about one in particular - should children be allowed at weddings? They also discuss the pressure to always be productive, how to be kinder to yourself, and whether you can really retrain the negative voice in your head. Finally, they answer a question on unusual habits, and Romesh reveals some of Shanthi’s worst ones before addressing his bizarre shower routine. From wedding drama and self-talk, to Henry VIII and questionable habits, it’s another classic and chaotic Thursday episode with Shanthi. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 01:05 Henry VIII and photo requests 05:55 Shanthi influences 08:23 Cockney accents and gangster roles 13:15 Answering your questions 14:40 Children at weddings 21:05 How to be kind to yourself 25:25 Rom’s positive self-talk training 27:32 Unusual habits 36:37 Shanthi’s Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/bb5c70f0-ac5a-11f1-bbe2-bf7e0faa0d29/image/793fb343f22d52c1a81158f1d5fce561.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3001229607.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2429",
+      "speakers": [
+        "Shanthi special",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "gangster",
+        "weddings",
+        "unusual",
+        "habits"
+      ]
+    },
     {
       "key": "d81c35c2e68c583a00913a6f4a266e7fe205c4aa",
       "title": "Ray Winstone on The Gentlemen, Gangster Etiquette, and Strictly Come Dancing",
@@ -2321,6 +2343,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — Gangsters, Weddings & Unusual Habits — speakers: Shanthi special, Romesh Ranganathan
 - 2026-09-06 — Ray Winstone on The Gentlemen, Gangster Etiquette, and Strictly Come Dancing — speakers: Ray Winstone, Romesh Ranganathan
 - 2026-09-02 — Shanthi's £35K Garden Room, A Big Apology & Conspiracy Theories — speakers: Garden Room, Big Apology, Conspiracy Theories Should Shanthi, Romesh Ranganathan
 - 2026-08-30 — Rick Glassman On The Paul Rudd Incident, Podcasting and Ricky Gervais — speakers: Rick Glassman, Ricky Gervais, Rick Glas, Romesh Ranganathan

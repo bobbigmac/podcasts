@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-09-08T23:23:48+00:00`
-- checked_at: `2026-09-08T23:23:48+00:00`
-- last_modified: `Tue, 08 Sep 2026 23:00:07 GMT`
+- fetched_at: `2026-09-09T23:14:27+00:00`
+- checked_at: `2026-09-09T23:14:27+00:00`
+- last_modified: `Wed, 09 Sep 2026 23:00:11 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-08T23:23:48+00:00",
+  "fetched_at": "2026-09-09T23:14:27+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "c7e58873a08d6721c8d2b5396682cdbd2e82d0e4",
+      "title": "570. Why Trump Acts Like a Russian Asset and Miliband’s West Bank Sanctions",
+      "published_at": "2026-09-09T23:00:00+00:00",
+      "link": null,
+      "description": "After Trump’s latest betrayal of Ukraine, why does he act like a Russian asset? Has John Healy already missed his moment to be a radical Chancellor, and does Ed Miliband’s move to impose economic sanctions on Israeli settlements prove he would have been the bolder choice? Is the President of Serbia a fascist? Join Rory and Alastair as they answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Anthony Scaramucci by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Emma Jackson Lead Video Editor: Josh Smith Video Editor: James Clayden, Oli Ortega Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/efb2de9c-ab9d-11f1-b31c-37d652f2677a/image/57216b458894a740223c7ed8f91f0581.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT5938600510.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3132",
+      "speakers": [
+        "John Healy"
+      ],
+      "topics": [
+        "trump",
+        "russian",
+        "asset",
+        "miliband",
+        "west",
+        "bank",
+        "sanctions"
+      ]
+    },
     {
       "key": "ef4e3c595a632b31c9b1e3b2027838e897efb7fd",
       "title": "569. Farage’s Foreign Funding Scandal and Germany’s Far-Right Breakthrough",
@@ -12895,6 +12919,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — 570. Why Trump Acts Like a Russian Asset and Miliband’s West Bank Sanctions — speakers: John Healy
 - 2026-09-08 — 569. Farage’s Foreign Funding Scandal and Germany’s Far-Right Breakthrough — speakers: Foreign Funding Scandal
 - 2026-09-03 — Becoming Burnham: The Manchester Arena Call, Westminster Plotting, and Keir vs Andy — speakers: Andy Burnha
 - 2026-09-02 — 568. MAGA's Plan to Make Britain Look Broken and Iceland's 'Brexit' Moment — speakers: Make Britain Look Broken, Moment Did Iceland
