@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "93b8151006547e6ff99a250a4d0f348c450af218",
+        "episode_key": "93b8151006547e6ff99a250a4d0f348c450af218",
+        "title": "Jacqueline Novak",
+        "published_at": "2026-09-09T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "US stand-up, Netflix star and Emmy-nominee Jacqueline Novak dines in the Dream Restaurant this week. Pizza or bread, Jacqueline Novak, pizza or bread?\nTW: there is some chat about body image. \nJacqueline Novak’s special ‘Get On Your Knees’ is on Netflix. Watch it now.\nFor Jacqueline’s latest shows and tour dates, keep ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a9ee1bcf8f4d42589de2a05/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/jacqueline-novak/id1442950743?i=1000788587136&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:435b94d61d9a",
         "feed_title": "Netflix Is A Daily Joke",
         "source_rss_url": "https://feeds.megaphone.fm/NETFLIX2608127680",
@@ -6015,6 +6038,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "93b8151006547e6ff99a250a4d0f348c450af218",
+        "episode_key": "93b8151006547e6ff99a250a4d0f348c450af218",
+        "title": "Jacqueline Novak",
+        "published_at": "2026-09-09T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "US stand-up, Netflix star and Emmy-nominee Jacqueline Novak dines in the Dream Restaurant this week. Pizza or bread, Jacqueline Novak, pizza or bread?\nTW: there is some chat about body image. \nJacqueline Novak’s special ‘Get On Your Knees’ is on Netflix. Watch it now.\nFor Jacqueline’s latest shows and tour dates, keep ",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a9ee1bcf8f4d42589de2a05/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/jacqueline-novak/id1442950743?i=1000788587136&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",

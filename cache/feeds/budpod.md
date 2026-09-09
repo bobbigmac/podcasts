@@ -2,9 +2,9 @@
 
 - slug: `budpod`
 - source: `https://feeds.acast.com/public/shows/3509b226-d1c6-482f-a3f0-dc31f304a183`
-- fetched_at: `2026-09-02T11:17:26+00:00`
-- checked_at: `2026-09-02T11:17:26+00:00`
-- etag: `"djEuMi4wOjE3ODgzMjUyOTkzOTQ="`
+- fetched_at: `2026-09-09T11:21:36+00:00`
+- checked_at: `2026-09-09T11:21:36+00:00`
+- etag: `"djEuMi4wOjE3ODg5MzAwOTkzMjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/budpodofficial/",
   "description": "Top stand ups and all-round great buds Glenn Moore and Pierre Novellie join forces to bring you hilarious conversation and funny little chunks they have found or made.",
   "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
-  "fetched_at": "2026-09-02T11:17:26+00:00",
+  "fetched_at": "2026-09-09T11:21:36+00:00",
   "owners": [
     "Phil Wang",
     "Pierre Novellie"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cb81c13d47d95bea54d8d75713b5ff8827a4bef0",
+      "title": "S2E65 | Nappy Martyrs Brigade",
+      "published_at": "2026-09-09T05:01:00+00:00",
+      "link": "https://shows.acast.com/budpod/episodes/s2e65-nappy-martyrs-brigade",
+      "description": "Youtube Version Here This week the buds discuss old pets, sleeper cells, 'Pig Louie', Hell People and The Odyssey. This week's sketch: 'Secret Ingredient'. Email or Dm us your correspondence to thebudpod@gmail.com or @budpodofficial on Instagram. KOJI! BudPod Live is back! Cheerful Earful Podcast Festival - October 10, 2026 - Tickets available https://www.tickettailor.com/events/cheerfulearful/2230576 Brighton Komedia - October 14th, 2026 - Tickets available - https://www.tickettailor.com/events/cheerfulearful/2378930 Bath Komedia - November 3rd, 2026 - Tickets available https://komediabath.co.uk/events/128649554-budpod-live-2026-11-03-19-00-00/ Stream Glenn's tour show 'Will You Still Need Me, Will You Still Feed Me, Glenn I’m Sixty Moore' on Sky Comedy and NowTV Vote here for BudPod for this year's Golden Lobes, Listeners' Lobe award! Thank you guys! KOJI Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e4f3e06c05eb271f40794/1751408235829-7a9c209e-67e6-427f-9bbf-892edaa18159.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/budpod/e/6aa07744e25cb7d39eb3b446/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "74933374",
+      "itunes_duration": "51:53",
+      "speakers": [
+        "Nappy Martyrs Brigade Youtube",
+        "Pig Louie",
+        "Hell People",
+        "Phil Wang",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "nappy",
+        "martyrs",
+        "brigade"
+      ]
+    },
     {
       "key": "d5ca7af5bb46af5986bb5f3378e1d7795f6cf004",
       "title": "S2E64 | Beard Driver",
@@ -8056,6 +8080,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — S2E65 | Nappy Martyrs Brigade — speakers: Nappy Martyrs Brigade Youtube, Pig Louie, Hell People, Phil Wang, Pierre Novellie
 - 2026-09-02 — S2E64 | Beard Driver — speakers: Beard Driver, Chuck Palahniuk, Phil Wang, Pierre Novellie
 - 2026-08-26 — S2E63 | Sleight of Mouth — speakers: Phil Wang, Pierre Novellie
 - 2026-08-19 — S2E62 | Dark Web Ribs | BudPod LIVE! — speakers: Dark Web Ribs, Youtube Version, Phil Wang, Pierre Novellie

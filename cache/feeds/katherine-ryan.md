@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-08-31T13:47:42+00:00`
-- checked_at: `2026-08-31T13:47:42+00:00`
-- etag: `"djEuMi4wOjE3ODgxNzc0MDgwNTU="`
+- fetched_at: `2026-09-09T11:21:36+00:00`
+- checked_at: `2026-09-09T11:21:36+00:00`
+- etag: `"djEuMi4wOjE3ODg4MDk1NjY1ODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-08-31T13:47:42+00:00",
+  "fetched_at": "2026-09-09T11:21:36+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e5fb75fddf49f1d0c35fac70888635d4c7fc4e53",
+      "title": "The Seven Year Itch",
+      "published_at": "2026-09-07T19:32:46+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/the-seven-year-itch",
+      "description": "This week, Katherine's Telling Everybody Everything from the car as she drives to a London record of the new What's My Age Again series. It's been a wild week in the Ryan-Kootstra household with CO2 lasers, filming, book signings and very little time for anything else (apart from enjoying John Robins' book, Thirst). Luckily, our friend Andrew Johnston @mandrewbrawnston joins from Hollywood with an update on Lindsay Clancy's mistrial, news of a 49ers millionaire sports person Jed someone paying a sex worker in a trailer park for full service, and the idea that a marriage should be renegotiable every seven years. Plus, Violet joins to winge about how tired she was after a delayed economy flight from New York City where she spend six incredible days at age 17 before featuring on her mother's incredible new audiobook, Firstborn Daughter. What's an FBD gonna do? x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1788808863329-d5fd8e13-4a69-42ea-a5d8-97bbf06de160.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6a9f115efe3b7e34fd49f77d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "69375500",
+      "itunes_duration": "48:10",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "seven",
+        "year",
+        "itch"
+      ]
+    },
     {
       "key": "ef496dc8e9662d9de927de3c0e3ee8127c157073",
       "title": "Lindsay Clancy Trial Explained",
@@ -6468,6 +6489,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — The Seven Year Itch — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-08-31 — Lindsay Clancy Trial Explained — speakers: Lindsay Clancy Trial Explained, Katherine Ryan
 - 2026-08-21 — Standing on Business — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-08-15 — Illegal in Muskoka — speakers: Katherine Ryan
