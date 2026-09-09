@@ -30320,6 +30320,28 @@
     ],
     "nish-kumar": [
       {
+        "feed_slug": "external:apple:2a4373e4b849",
+        "feed_title": "How To Fail With Elizabeth Day",
+        "source_rss_url": "https://rss.pdrl.fm/e402a9/feeds.megaphone.fm/howtofail",
+        "dedupe_key": "4de98924f82d1ca1ea50094e8a9c5161d6c53855",
+        "episode_key": "4de98924f82d1ca1ea50094e8a9c5161d6c53855",
+        "title": "Nish Kumar - Failure Is Information. Comedians Call It Material.",
+        "published_at": "2026-09-09T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Nish Kumar is one of the UK’s best-known comedians, known for his impassioned political progressiveness. \n\n\n\nYou might remember him as the host of the topical BBC comedy show, The Mash Report, which ran to great acclaim until it was abruptly cancelled in 2021 - one of his failures addresses this head-on. Kumar now co-h",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/pdrl.fm/e402a9/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/mgln.ai/e/143/pscrb.fm/rss/p/traffic.megaphone.fm/SONY7007616767.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar-failure-is-information-comedians-call-it/id1407451189?i=1000788485000&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:d22c4e94b5e2",
         "feed_title": "The Truth (In My Opinion)",
         "source_rss_url": "https://feeds.acast.com/public/shows/6a3006e7cd02369494f91089",
