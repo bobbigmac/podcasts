@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-09-02T04:32:12+00:00`
-- checked_at: `2026-09-02T04:32:12+00:00`
-- etag: `"djEuMi4wOjE3ODgzMTgwMzk5NTQ="`
+- fetched_at: `2026-09-09T04:40:37+00:00`
+- checked_at: `2026-09-09T04:40:37+00:00`
+- etag: `"djEuMi4wOjE3ODg5MjI4Mzk2NjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-09-02T04:32:12+00:00",
+  "fetched_at": "2026-09-09T04:40:37+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -28,6 +28,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c1d6a2ca6991229b159a8cb16774abba8e46fe9e",
+      "title": "Jacqueline Novak",
+      "published_at": "2026-09-09T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/jacqueline-novak",
+      "description": "US stand-up, Netflix star and Emmy-nominee Jacqueline Novak dines in the Dream Restaurant this week. Pizza or bread, Jacqueline Novak, pizza or bread? TW: there is some chat about body image. Jacqueline Novak’s special ‘Get On Your Knees’ is on Netflix. Watch it now . For Jacqueline’s latest shows and tour dates, keep an eye on her website www.jokesnovak.com Follow Jacqueline on Instagram @jacnov Listen to Jacqueline’s podcast ‘POOG’ with Kate Bertlant: https://poog.kit.com/ Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1788797365303-fe32cf5f-d2a5-4a8a-908e-6c639db5f808.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a9ee1bcf8f4d42589de2a05/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "79357216",
+      "itunes_duration": "1:06:07",
+      "speakers": [
+        "Jacqueline Novak",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "jacqueline",
+        "novak"
+      ]
+    },
     {
       "key": "83c70cdf019dc110ca323782c76f25eaa57dfea7",
       "title": "Tessa Coates",
@@ -8922,6 +8944,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — Jacqueline Novak — speakers: Jacqueline Novak, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-02 — Tessa Coates — speakers: Tessa Coates Tessa Coates, Prime Video, Ed Gamble, James Acaster, Ben Williams
 - 2026-08-26 — Kaya Scodelario — speakers: Kaya Scodelario, Ed Gamble, James Acaster, Ben Williams
 - 2026-08-19 — Mark Gatiss — speakers: Mark Gatiss Mark Gatiss, Ed Gamble, James Acaster, Ben Williams

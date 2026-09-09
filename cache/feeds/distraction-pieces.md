@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-09-04T04:31:24+00:00`
-- checked_at: `2026-09-04T04:31:24+00:00`
-- etag: `"djEuMi4wOjE3ODg0OTIwMzkzMzQ="`
+- fetched_at: `2026-09-09T04:40:37+00:00`
+- checked_at: `2026-09-09T04:40:37+00:00`
+- etag: `"djEuMi4wOjE3ODg5MjQwMzkyMjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-09-04T04:31:24+00:00",
+  "fetched_at": "2026-09-09T04:40:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f0bc88c680c9511fb6f26ccf3afdcc0898dce591",
+      "title": "DENZEL CURRY • new album 'ii' out now (with Kenneth Blume) #686",
+      "published_at": "2026-09-09T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by acclaimed rapper DENZEL CURRY ! A lovely episode to catch you up to speed on all things Denzel, as he and Pip get involved in an expansive chat which goes into not only his current album with Kenneth Blume (fka Kenny Beats), but his life surrounding the album rollout as well as all things back in the day, upbringing, bringing personal views on world politics into the mix, Florida, touring and a ton of other goodies. Ideal listening if you're into Denzel's past and present work or those who want to discover someone awesome. PIP'S PATREON PAGE if you're of a supporting nature ONLINE ii ALBUM LINKS SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1788784734188-720b2634-36f4-4841-be9b-e229dd83620c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a9eb1cb0797014d1e88d091/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "113244264",
+      "itunes_duration": "47:06",
+      "speakers": [
+        "Kenneth Blume"
+      ],
+      "topics": [
+        "denzel",
+        "curry",
+        "album",
+        "kenneth",
+        "blume"
+      ]
+    },
     {
       "key": "a1a627791457f0d64bdebca392d0ed40db909c74",
       "title": "ALISTAIR GREEN (Don't Think So Somehow / The Big Idea) • Friday Rewind",
@@ -19534,6 +19556,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — DENZEL CURRY • new album 'ii' out now (with Kenneth Blume) #686 — speakers: Kenneth Blume
 - 2026-09-04 — ALISTAIR GREEN (Don't Think So Somehow / The Big Idea) • Friday Rewind
 - 2026-09-02 — ROMESH RANGANATHAN • a very necessary dose of Romesh for your Autumn (podcasts / comedy / TV) #685
 - 2026-08-28 — KSI (musician / social media kingpin) • Friday Rewind

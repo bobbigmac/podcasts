@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-09-02T04:32:12+00:00`
-- checked_at: `2026-09-02T04:32:12+00:00`
-- last_modified: `Mon, 31 Aug 2026 23:01:00 GMT`
+- fetched_at: `2026-09-09T04:40:37+00:00`
+- checked_at: `2026-09-09T04:40:37+00:00`
+- last_modified: `Mon, 07 Sep 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-02T04:32:12+00:00",
+  "fetched_at": "2026-09-09T04:40:37+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,52 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "9fcb22b78c1609d773e783ad0f824c912aa120bf",
+      "title": "Catfishes, Testosterone & Airport Nightmares",
+      "published_at": "2026-09-07T23:01:00+00:00",
+      "link": null,
+      "description": "What happened to Tom at Heathrow? In this week's episode, Tom tells us all about the chaos of a stressful trip through Heathrow, where a simple question led to him unloading all of his travel stress in spectacular fashion on a stranger. Elsewhere, the boys discuss the etiquette of being asked for a photo, holiday fails, dog walking small talk, and the world of Raya, online dating, and the bizarre phenomenon of being catfished. Plus, Tom attempts to turn a red squirrel, a pottery class, and a chicken jalfrezi into a meaningful story. If you've been thinking about therapy, BetterHelp can help you take the first step. Sign up and get 10% off at https://www.BetterHelp.com/wolfowl A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 01:10 Snapchat 02:21 Dog chat 04:01 A side note on testosterone 04:34 Dog walking 06:56 Tom’s signalling scheme 10:56 The trouble with Rom 11:44 Tom’s Heathrow story 16:19 Rom’s holiday 18:00 Asking for photos 21:37 Rom’s airport mishap 28:50 Fast food and foreign countries 34:11 Tom’s issue with Fagan 39:18 On Raya 41:37 A Raya role play 48:15 Tom’s Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/cdd1fa90-aafa-11f1-b032-c76f2bcf51f0/image/de9dd0a17b931779743dc7f99a3ce2d2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT2663826683.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3457",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "catfish",
+        "testosterone",
+        "airport",
+        "nightmares"
+      ]
+    },
+    {
+      "key": "5e48b2e41b32c44c9c5beb0ab7b2242855dba954",
+      "title": "Top Pastry Choices, Friendship And Beard Tips",
+      "published_at": "2026-09-03T23:01:00+00:00",
+      "link": null,
+      "description": "How do the boys keep their beards so well groomed? In this episode of Wolf & Owl, Romesh and Tom tackle your listener questions, from friendship and what happens when life starts to change, to beard maintenance. Elsewhere, the boys rank their top five pastries, debate the merits of puff, shortcrust and filo, and attempt to answer the important question: how many samosas could one person actually eat? Plus, there's some holiday fashion advice, a debate about the perfect swim shorts and a deep dive into manscaping and the dangers of ingrown hairs. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 02:32 An email on changing friendships 04:42 Tom’s advice 06:40 Rom’s advice 08:57 Top 5 pastries 13:50 A question on holiday clothes 16:02 Rom calls out Tom 17:35 Holiday attire advice 21:17 A compliment from Tom 23:11 Beard questions 27:40 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b1980bba-a2eb-11f1-b602-a3e794377cc9/image/2d987aca699aecbe2f8ee231d101198c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT8279260988.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1832",
+      "speakers": [
+        "Beard Tips",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "pastry",
+        "choices",
+        "friendship",
+        "beard",
+        "tips"
+      ]
+    },
     {
       "key": "2c528d335e345ff6e110dac9be8df10619f6d1dd",
       "title": "Tough Love, Parenting And The Marvel Universe",
@@ -7475,6 +7521,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-07 — Catfishes, Testosterone & Airport Nightmares — speakers: Romesh Ranganathan, Tom Davis
+- 2026-09-03 — Top Pastry Choices, Friendship And Beard Tips — speakers: Beard Tips, Romesh Ranganathan, Tom Davis
 - 2026-08-31 — Tough Love, Parenting And The Marvel Universe — speakers: Tough Love, Romesh Ranganathan, Tom Davis
 - 2026-08-27 — School Bullies, Racism & Toilet Catastrophes — speakers: School Bullies, Toilet Catastrophes How, Romesh Ranganathan, Tom Davis
 - 2026-08-25 — Kitchen Nightmares, Holidays And Comedy Careers — speakers: Kitchen Nightmares, Comedy Careers, Romesh Ranganathan, Tom Davis

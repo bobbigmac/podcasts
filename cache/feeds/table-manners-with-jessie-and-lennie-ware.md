@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-09-02T04:32:12+00:00`
-- checked_at: `2026-09-02T04:32:12+00:00`
-- etag: `"djEuMi4wOjE3ODgzMDcyOTkyNDU="`
+- fetched_at: `2026-09-09T04:40:37+00:00`
+- checked_at: `2026-09-09T04:40:37+00:00`
+- etag: `"djEuMi4wOjE3ODg5MTIwMzkzMzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-09-02T04:32:12+00:00",
+  "fetched_at": "2026-09-09T04:40:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "0c9792d0de2372ca40a45fb48ba4e1defd1ba030",
+      "title": "Second Helpings - Rob Brydon",
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "link": "https://shows.acast.com/tablemanners/episodes/second-helpings-rob-brydon",
+      "description": "What a belter of a guest for our Second Helpings finale! The wonderful, charming and funny Rob Brydon came to see us midway through his huge UK tour back in 2021; he popped over to mum’s for some spatchcock chicken, pecan pie (we recorded this episode on thanksgiving), a right old gossip and sing song. We spoke about Rob growing up in Wales, eating his grandma’s custard tarts, his comedy heroes, favourite food spots in London, ‘The Trip’, ‘mucus’ topping ‘moist’ as the worst word & life with 5 children! We end the episode with the biggest sing song we’ve ever had; mum’s favourite way to spend an evening! Listen & watch Table Manners here - https://tablemanners.komi.io/ Follow Table Manners on: Instagram - https://www.instagram.com/tablemannerspodcast/ TikTok - https://www.tiktok.com/@tablemannerspodcast Facebook - https://www.facebook.com/tablemannerspodcast YouTube - https://www.youtube.com/@TableMannersPodcast Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1786968561787-6795eb1d-a525-4117-8ab2-155a9bee7c95.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/tablemanners/e/6a81d6894394d6874bcc1859/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49878830",
+      "itunes_duration": "51:57",
+      "speakers": [
+        "Rob Brydon",
+        "Rob Brydo"
+      ],
+      "topics": [
+        "second",
+        "helpings",
+        "brydon"
+      ]
+    },
     {
       "key": "d0267d6c939b32797eccfd96dbb0966d43c2de7b",
       "title": "Second Helpings - Emilia Clarke",
@@ -7419,6 +7440,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — Second Helpings - Rob Brydon — speakers: Rob Brydon, Rob Brydo
 - 2026-09-02 — Second Helpings - Emilia Clarke — speakers: Second Helpings, Table Manners
 - 2026-08-26 — Second Helpings - Emerald Fennell — speakers: Emerald Fennell
 - 2026-08-19 — Second Helpings - Dolly Parton — speakers: Second Helpings, Dolly Parton

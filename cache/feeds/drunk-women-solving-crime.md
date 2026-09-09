@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-09-07T23:29:38+00:00`
-- checked_at: `2026-09-07T23:29:38+00:00`
-- etag: `"djEuMi4wOjE3ODg4MDg0ODUyNzQ="`
+- fetched_at: `2026-09-09T04:40:37+00:00`
+- checked_at: `2026-09-09T04:40:37+00:00`
+- etag: `"djEuMi4wOjE3ODg5MTIwMzkzMTA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-09-07T23:29:38+00:00",
+  "fetched_at": "2026-09-09T04:40:37+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "a4d2a1603b31f7ef5740cf5ef50e67f3aecf3cd5",
+      "title": "DWSC LIVE: With Aaron Simmons",
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-aaron-simmons",
+      "description": "It's the very last episode from the DWSC 2026 tour and what a way to bow out, as our hosts were joined by the hilarious, Aaron Simmons, a guy who won't let gender stereotypes affect his eyewear choices or give up in the good fight against the real perpetrators of car crime. The team then head to rural Virginia for an ostentatious escapade in which the perp was well and truly fingered for their misdemeanour - AND a member of the audience shares a playground trauma, which left more than a flesh wound. Thanks SO much to everyone who came to see us while we were on the road, we really hope to be at a town near you again in the near future, but in the meantime, don't forget we're back at our London Residency in September, October and November, details below. The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in September, October AND November. Full info and tickets HERE. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6a9f0a3389f0f48b88f23c13/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "83716069",
+      "itunes_duration": "58:07",
+      "speakers": [
+        "Aaron Simmons",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "aaron",
+        "simmons"
+      ]
+    },
     {
       "key": "a1d3beaa7406700f94b238a6e9a6dafdf3393388",
       "title": "DWSC LIVE: With Suzie Preece",
@@ -11543,6 +11565,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — DWSC LIVE: With Aaron Simmons — speakers: Aaron Simmons, Hannah George, Taylor Glenn
 - 2026-09-02 — DWSC LIVE: With Suzie Preece — speakers: Hannah George, Taylor Glenn
 - 2026-08-26 — Pen Pals, with Bella Lindsay — speakers: Bella Lindsay Hello, Hannah George, Taylor Glenn
 - 2026-08-19 — DWSC LIVE: With Abby Govindan — speakers: Abby Govindan, Abby Govind, Hannah George, Taylor Glenn

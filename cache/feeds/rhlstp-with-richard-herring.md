@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-07T04:39:33+00:00`
-- checked_at: `2026-09-07T04:39:33+00:00`
-- etag: `"djEuMi4wOjE3ODg3NDk4NTkzMzc="`
+- fetched_at: `2026-09-09T04:40:37+00:00`
+- checked_at: `2026-09-09T04:40:37+00:00`
+- etag: `"djEuMi4wOjE3ODg5MjI2NTkzNDE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-07T04:39:33+00:00",
+  "fetched_at": "2026-09-09T04:40:37+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,50 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "05da17a4eb045db0023761654aea6b23ed93bcf6",
+      "title": "Mhairi Black - \"Maths is Sh*te\"",
+      "published_at": "2026-09-09T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #626 - Maths is Sh*te - Rich is back at the Edinburgh Fringe, 39 years after his first appearance. His guest is fiery MP turned brilliant comic, Mhairi Black. They talk about how she became the youngest MP since 1667 (maybe), why the toxic, alcohol-sodden Houses of Parliament was not the place for her, her record breaking swearing, calling Rishi Sunak a dickhead (or not), impressing David Cameron and the media attention and death threats that come with it all. Plus thoughts on Farage, Scottish Independence and Brexit in Mhairi’s usual uncompromising stance. Plus ghosts, ham hands, how Mhairi pivoted into acting and the ultimately doomed United Kingdom and its outdated parliament. Great start to the Edinburgh run. See RHLSTP live (for possibly the last time) in London this autumn http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1788814796510-a355eacd-1baa-4dcc-9fd8-4d6b4f9411e6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a9f2589fe3b7e34fd4e16c1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27979859",
+      "itunes_duration": "58:17",
+      "speakers": [
+        "Mhairi Black",
+        "Richard Herring"
+      ],
+      "topics": [
+        "mhairi",
+        "black",
+        "math"
+      ]
+    },
+    {
+      "key": "8df703cfb8020fc0f871b26baa2e95c5de674a8a",
+      "title": "Rich and Ally's Craven Newsround Compilation - Aunty Christ",
+      "published_at": "2026-09-08T03:00:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Friday 4th September 2026 - Aunty Christ - Rich and Ally have been shook by their interloper this week, but now he’s back at school and everything is quiet and to be honest it all feels wrong. He may have broken this thing. But the team attempt to get to the bottom of the crocodile’s transgressions and work out who the anti-Christ is before wisely giving up before their five minutes is up. You’ll probably like it. Wednesday 2nd September 2026 - Crocodile Rock - In today’s Newsround we interview the crazy character who interloped yesterday and find him to be quite a down to earth guy, even if he has offended medieval Scotland. We also talk to a returning political force as we find out why Farage went up on the roof of parliament today. Will Hahayourbuttsmells crash the party? What the Hell is going on on this previously serious news programme? Tuesday 1st September 2026 - Never Work With Children or Puppets - Rich is back but a terrifying new interloper beyond his control threatens to and succeeds in disrupting the serious news service. In the quiet times between Rich and Ally try to ascertain if a moon of Phobos is an alien space craft, but instead finds out how they do things in medieval Scotland. Plus an actual joke. Monday 31st August 2026 - Podcast America - Rich and Ally are back after a lovely summer holiday of death and there’s more bad news to get us started with the loss of a popular Newsround character. But which one? The boys talk about Canada standing up to Trump in a way that no one else is brave enough to do.With a special report from Lake America. Like Google, we are f*cking sycophantic sell-outs. See RHLSTP in real life http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1788789005734-aca34bae-0bee-4c2b-86b7-d650d97a8a55.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6a9ec40dfe3b7e34fd3ac669/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33243648",
+      "itunes_duration": "1:09:15",
+      "speakers": [
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "aunty",
+        "christ"
+      ]
+    },
     {
       "key": "7380a07d57c5baccfc0e694bdd50f7acb777b9a7",
       "title": "Thanyia Moore (Retro) - \"The Drug Rats of Porthcawl\"",
@@ -23744,6 +23788,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — Mhairi Black - "Maths is Sh*te" — speakers: Mhairi Black, Richard Herring
+- 2026-09-08 — Rich and Ally's Craven Newsround Compilation - Aunty Christ — speakers: Richard Herring
 - 2026-09-07 — Thanyia Moore (Retro) - "The Drug Rats of Porthcawl" — speakers: Thanyia Moore, Richard Herring
 - 2026-09-04 — Tim Minchin on You Don’t Have To Have A Dream - Book Club — speakers: Tim Minchin, Richard Herring
 - 2026-09-02 — Lucy Porter - "Beating Leonardo at Poker" — speakers: Lucy Porter Beating Leonardo, Richard Herring

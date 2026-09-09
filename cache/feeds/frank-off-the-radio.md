@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-09-07T04:39:33+00:00`
-- checked_at: `2026-09-07T04:39:33+00:00`
-- last_modified: `Mon, 07 Sep 2026 00:06:24 GMT`
+- fetched_at: `2026-09-09T04:40:37+00:00`
+- checked_at: `2026-09-09T04:40:37+00:00`
+- last_modified: `Wed, 09 Sep 2026 00:06:28 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-07T04:39:33+00:00",
+  "fetched_at": "2026-09-09T04:40:37+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,29 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "116996661b5584b05150db24bf984d6ad7b3709f",
+      "title": "Frank Skinner’s Radio Days: Shakespeare Whatsapper",
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "link": null,
+      "description": "This week, the gang are not just in Newcastle, but email corner! They get messages from Germany, and chat punning headlines and Frank’s action figures. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/51ab7bba-ab92-11f1-83c9-3f06dd26d4fa/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1681620446.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2360",
+      "speakers": [
+        "Frank Skinner",
+        "Shakespeare Whatsapper"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "shakespeare",
+        "whatsapper"
+      ]
+    },
     {
       "key": "ff1ac36caf5ffd5787938c7c1f29839cf821f1cc",
       "title": "Allergic to Cats",
@@ -24663,6 +24686,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — Frank Skinner’s Radio Days: Shakespeare Whatsapper — speakers: Frank Skinner, Shakespeare Whatsapper
 - 2026-09-07 — Allergic to Cats — speakers: Katie Norris, Frank Skinner
 - 2026-09-04 — Frank’s Back in London — speakers: Frank’s Back, Katie Norris, Frank Skinner
 - 2026-09-02 — Frank Skinner’s Radio Days: Gardening Trousers — speakers: Frank Skinner

@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-09-02T04:32:12+00:00`
-- checked_at: `2026-09-02T04:32:12+00:00`
-- last_modified: `Wed, 02 Sep 2026 01:08:12 GMT`
+- fetched_at: `2026-09-09T04:40:37+00:00`
+- checked_at: `2026-09-09T04:40:37+00:00`
+- last_modified: `Wed, 09 Sep 2026 01:06:40 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-02T04:32:12+00:00",
+  "fetched_at": "2026-09-09T04:40:37+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "eab9a0dd7fd1644a01e836920da12849ddeba1cf",
+      "title": "Mark Simmons",
+      "published_at": "2026-09-09T01:00:00+00:00",
+      "link": null,
+      "description": "Mark Simmons, one of the sharpest joke writers in the country (maybe the world? Maybe the universe?) is here and his five brilliant things give an insight into the man behind the gags. From Taekwondo tournaments to Wrestling and the thrills of Mr Miyagi, you can see that his discipline in joke-writing comes from a deep love of Eastern sports and arts. And…um…wrestling? Mark is about to start the Autumn leg of his ‘Jest to Impress’ tour, and basically you won’t get more jokes per pound spent at any other show. He’s a terrific comedian and you should go. You can get tickets and find all the dates at https://marksimmons.co.uk Do you want to watch his last special ‘Quip off the Mark’? It’s on the website. Free. You want to listen to his podcast ‘Jokes’? It’s on the website. ALSO FREE! Lucky ducks. So much Mark Simmons so little time. I’m off to watch a load of Mark Simmons. There’s so much there I’ll barely have finished by next week. Taraaaaa! Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c4b727fe-a76d-11f1-b796-bbd612ac3338/image/278ab0e4ab185dcb7bcfdd50d7b81896.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR1736832730.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3634",
+      "speakers": [
+        "Mark Simmons",
+        "Russell Howard"
+      ],
+      "topics": [
+        "mark",
+        "simmons"
+      ]
+    },
     {
       "key": "bcf3fce4193c682eb9f2e76f6d61c415e8489302",
       "title": "Brian Conley",
@@ -3415,6 +3435,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — Mark Simmons — speakers: Mark Simmons, Russell Howard
 - 2026-09-02 — Brian Conley — speakers: Brian Conley Brian Conley, Russell Howard
 - 2026-09-01 — August's Moments of the Month — speakers: Month Hello, Russell Howard
 - 2026-08-26 — Alfie Brown — speakers: Alfie Brown, Russell Howard

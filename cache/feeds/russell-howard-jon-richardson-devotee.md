@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-09-08T11:17:31+00:00`
-- checked_at: `2026-09-08T11:17:31+00:00`
-- etag: `W/"5734f-6B2YmDKJPET4No5/vq4l+ztuQts"`
+- fetched_at: `2026-09-09T04:40:37+00:00`
+- checked_at: `2026-09-09T04:40:37+00:00`
+- etag: `W/"56f43-7TbgpSsHMll4bhrQ7nC0VcsW0Ps"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-09-08T11:17:31+00:00",
+  "fetched_at": "2026-09-09T04:40:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -1309,6 +1309,28 @@
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "27848274",
       "itunes_duration": "00:28:41",
+      "speakers": [
+        "Alan Partridge"
+      ],
+      "topics": [
+        "hour",
+        "chris",
+        "morris",
+        "alan",
+        "partridge"
+      ]
+    },
+    {
+      "key": "ae9deea78ea119dff8c79816e6de9da44d285f8c",
+      "title": "On The Hour - S1 EP 6 - with Chris Morris & Alan Partridge",
+      "published_at": "2026-08-07T16:59:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/On-The-Hour---S1-EP-6---with-Chris-Morris--Alan-Partridge-e3n2pt4",
+      "description": "On the Hour was a British radio programme that parodied current affairs broadcasting, broadcast on BBC Radio 4 between 1991 and 1992. Written by Chris Morris, Armando Iannucci,[1] Steven Wells, Andrew Glover, Stewart Lee, Richard Herring and David Quantick, On the Hour starred Morris as the overzealous and self-important principal anchor (for which he used his own full name). He was accompanied by a regular cast assembled by Iannucci, comprising Steve Coogan, Rebecca Front, Doon Mackichan, Patrick Marber and David Schneider, who portrayed assorted news reporters, presenters and interviewees.[2] On the Hour featured the first appearance of Coogan's character Alan Partridge as the \"Sports Desk\" reporter",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1786042918783-3a33e89da9fc7.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO9574146820.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26435340",
+      "itunes_duration": "00:27:14",
       "speakers": [
         "Alan Partridge"
       ],
@@ -5994,69 +6016,6 @@
         "richardson",
         "podcast"
       ]
-    },
-    {
-      "key": "30951593915c5ce21e6c345183ea0e333de7e187",
-      "title": "#51 Russell Howard & Jon Richardson Podcast EP 51",
-      "published_at": "2026-02-01T20:22:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/51-Russell-Howard--Jon-Richardson-Podcast-EP-51-e3eg926",
-      "description": "#51 Russell Howard & Jon Richardson Podcast EP 51",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1769977273628-88aa05e65bdfe.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/114876934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-1%2F2c9bbc16-6150-10c8-6012-5e5ec0ba331c.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "67045728",
-      "itunes_duration": "01:33:06",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "050a19463aaba9ef7f1c472e8e83c620f34f8ad7",
-      "title": "#50 Russell Howard & Jon Richardson Podcast EP 50",
-      "published_at": "2026-02-01T20:20:10+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/50-Russell-Howard--Jon-Richardson-Podcast-EP-50-e3eg906",
-      "description": "#50 Russell Howard & Jon Richardson Podcast EP 50",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1769977167937-758b20c5022b5.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/114876870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-1%2Fa89254dc-56cf-5c29-14d3-aa0ee020da0e.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "17936728",
-      "itunes_duration": "00:37:11",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "dd137fb282b46190ff54e11a97aa9416ee844022",
-      "title": "#49 Russell Howard & Jon Richardson Podcast EP 49",
-      "published_at": "2026-02-01T20:17:51+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/49-Russell-Howard--Jon-Richardson-Podcast-EP-49-e3eg8t3",
-      "description": "#49 Russell Howard & Jon Richardson Podcast EP 49",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1769977024563-3c50a0f5c4e24.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/114876771/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-1%2Fe7407bbe-6b74-31d6-7537-12349ac7f626.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "63930944",
-      "itunes_duration": "01:28:47",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
     }
   ]
 }
@@ -6124,6 +6083,7 @@
 - 2026-08-08 — On The Hour - S2 EP 3 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-08 — On The Hour - S2 EP 2 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-08 — On The Hour - S2 EP 1- with Chris Morris & Alan Partridge — speakers: Alan Partridge
+- 2026-08-07 — On The Hour - S1 EP 6 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-07 — On The Hour - S1 EP 5 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-07 — On The Hour - S1 EP 4 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
 - 2026-08-07 — On The Hour - S1 EP 3 - with Chris Morris & Alan Partridge — speakers: Alan Partridge
@@ -6327,6 +6287,3 @@
 - 2026-02-02 — #54 Russell Howard & Jon Richardson Podcast EP 54 — speakers: Russell Howard
 - 2026-02-02 — #53 Russell Howard & Jon Richardson Podcast EP 53 — speakers: Russell Howard
 - 2026-02-02 — #52 Russell Howard & Jon Richardson Podcast EP 52 — speakers: Russell Howard
-- 2026-02-01 — #51 Russell Howard & Jon Richardson Podcast EP 51 — speakers: Russell Howard
-- 2026-02-01 — #50 Russell Howard & Jon Richardson Podcast EP 50 — speakers: Russell Howard
-- 2026-02-01 — #49 Russell Howard & Jon Richardson Podcast EP 49 — speakers: Russell Howard

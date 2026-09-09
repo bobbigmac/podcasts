@@ -2,12 +2,10 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-09-07T19:09:23+00:00`
-- checked_at: `2026-09-08T23:23:48+00:00`
-- etag: `"djEuMi4wOjE3ODg3OTA0NzUxNjE="`
+- fetched_at: `2026-09-09T04:40:37+00:00`
+- checked_at: `2026-09-09T04:40:37+00:00`
+- etag: `"djEuMi4wOjE3ODg5MDk4NzkzNTQ="`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: <urlopen error [Errno 104] Connection reset by peer>
 
 <!-- FEED_JSON -->
 ```json
@@ -19,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-09-07T19:09:23+00:00",
+  "fetched_at": "2026-09-09T04:40:37+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -31,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "e718b69dc9af6649cf789251604e60f199c4aeea",
+      "title": "The Rizla Stadium",
+      "published_at": "2026-09-08T23:24:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/the-rizla-stadium",
+      "description": "The Rizla Stadium Welcome to this week’s Socially Distant Sports Bar with Elis James, Mike Bubbins and Steff Garrero. This week Mike reports back from a less-than-luxurious holiday rental in Liverpool, while Steff comes up with a potentially foolproof plan to solve the financial problems in Welsh rugby using nothing more than some enormous halogen lamps and the seemingly limitless supply of Welsh rain. We’re sure the WRU will be in touch. There’s also plenty of actual sport. Mike celebrates the great Billy Boston , Steff brings in Jonathan Agnew and Andy Zaltzman , and Elis heads back to 1990 for Wales v England . As ever, those are merely the starting points. Clips Mike: Billy Boston https://www.instagram.com/reel/DcdYebStiy1/?igsi=ODAxNHRraHp6aGo2 Steff: Aggers and Zaltzman https://www.instagram.com/reel/DcrRgvwoWR-/?igsi=bTB6eXc4ZTUzZW5w https://www.instagram.com/reel/Dcsm5sdO_oZ/?igsi=cWp3eDZ1cDN4MzJh Elis: Wales v England 1990 https://www.instagram.com/reel/DcS4CkQoN-0/?igsi=MXVnejY5MjlybmVhYQ== There’s more from Elis, Mike and Steff later this week, and Bonus Club subscribers can get the extra episode too. Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a9e7f5b2a7730b8963355dc/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78283337",
+      "itunes_duration": "1:21:32",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "rizla",
+        "stadium"
+      ]
+    },
     {
       "key": "2ea0fb37eafa8f622e831d30254d215998487736",
       "title": "Sing: Pint Size",
@@ -15871,23 +15890,14 @@
         "story"
       ]
     }
-  ],
-  "fetch": {
-    "error_since": "2026-09-08T23:23:48+00:00",
-    "status": "error",
-    "checked_at": "2026-09-08T23:23:48+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "<urlopen error [Errno 104] Connection reset by peer>"
-    }
-  }
+  ]
 }
 ```
 <!-- /FEED_JSON -->
 
 ## Episodes (newest first)
 
+- 2026-09-08 — The Rizla Stadium — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-05 — Sing: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-03 — Give Him A Passport — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-09-01 — Delivering To Belfast — speakers: Mike Bubbins, Elis James, Steff Garrero

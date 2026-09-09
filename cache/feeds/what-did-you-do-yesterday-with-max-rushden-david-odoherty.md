@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-09-06T15:27:43+00:00`
-- checked_at: `2026-09-06T15:27:43+00:00`
-- etag: `"djEuMi4wOjE3ODg3MDU3ODc2NTc="`
+- fetched_at: `2026-09-09T04:40:37+00:00`
+- checked_at: `2026-09-09T04:40:37+00:00`
+- etag: `"djEuMi4wOjE3ODg5MTczMTQyNTk="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-09-06T15:27:43+00:00",
+  "fetched_at": "2026-09-09T04:40:37+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "56ce56fe36ad5370ac07b8d29d999f007e961412",
+      "title": "Did somebody say new series and fan club update?",
+      "published_at": "2026-09-09T01:28:35+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/did-somebody-say-new-series-and-fan-club-update",
+      "description": "A little bit of news for those of you who enjoy a yesterday or two... See you Sunday for the new series (Or today for the 'in it for life' members) Thanks all xxx Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6aa0b641e25cb7d39ec7bff9/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "5029652",
+      "itunes_duration": "2:05",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "series",
+        "club",
+        "update"
+      ]
+    },
     {
       "key": "c74fa64e1ff28f86f29eb6b20fca2ffb56c69c5b",
       "title": "WDWDY #86.1: Teabagging the goldfish (David's Yesterday)",
@@ -4037,6 +4058,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — Did somebody say new series and fan club update? — speakers: Max Rushden, David O'Doherty
 - 2026-09-02 — WDWDY #86.1: Teabagging the goldfish (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-30 — S5 EP11: Danny Wallace — speakers: Danny Wallace, Max Rushden, David O'Doherty
 - 2026-08-26 — WDWDY #85.1: To Err is Human (Max's Yesterday) — speakers: Max Rushden, David O'Doherty
