@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-09-03T11:13:15+00:00`
-- checked_at: `2026-09-03T11:13:15+00:00`
-- etag: `W/"f6547cee1e04094472503c4a2d31e83c"`
-- last_modified: `Thu, 03 Sep 2026 01:00:00 GMT`
+- fetched_at: `2026-09-10T04:41:14+00:00`
+- checked_at: `2026-09-10T04:41:14+00:00`
+- etag: `W/"99a3242bdbcaa48aed7a9d6106150bcd"`
+- last_modified: `Wed, 09 Sep 2026 23:06:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-09-03T11:13:15+00:00",
+  "fetched_at": "2026-09-10T04:41:14+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "ea2b583a84ef924ba1b6e3f5d26fb5ca721352e6",
+      "title": "‘Radicalised, organised, and thick as s**t’: Nish has had it with far-right protests. Plus - why Cory Doctorow is waiting for the AI bubble to burst.",
+      "published_at": "2026-09-09T23:06:00+00:00",
+      "link": "https://audioboom.com/posts/8950533",
+      "description": "This week, there’s a lot of news! Nish & Coco react to the announcement of sanctions on the West Bank, after Ed Miliband accuses Israel of turning a blind eye to the “ethnic cleansing” of Palestinians by illegal settlers. As Andy Burnham wrote in the Guardian, it’s time for Britain to ‘stand for something’...finally. Also, are we taking the threat of the far right seriously enough? Following a series of anti-migrant ‘protests’ by a self-styled ‘Patriot Army’ helmed by yet another ‘Tommo’, Nish & Coco ask why we don’t call out these radicalised groups for what they are. And despite Nigel’s best efforts to distance himself from the balaclava-wearing vigilantes, Reform UK knows that this is the support they need to make it to Number 10. And, the King of enshittification, Cory Doctorow, joins us to talk about the AI bubble and why it’s going to burst. Meanwhile, these tech bros are blowing smoke up each other’s share prices, and we’re all inadvertently part of the marketing machine. Cory tackles the ‘collective action problem’ and what we can actually do to change the narrative. Just because there’s a huge pile of s**t, doesn’t mean there’s automatically a pony underneath it… There's an Early Day Motion in Parliament calling for a national moratorium on new AI data centres, put forward by Richard Burgon, the MP for East Leeds. You can ask your local MP to support the new national moratorium. You can also read up on the campaign and sign Global Action Plan’s petition: globalactionplan.org.uk . USEFUL LINKS Check out http://noleedsdatacentre.com/ and sign their petition . Buy Cory’s book! The Reverse Centaur's Guide to Life After AI: How to Think About Artificial Intelligence Before It's Too Late | Verso Books Andy Burnham’s Guardian op-ed: https://www.theguardian.com/commentisfree/2026/sep/08/uk-sanctions-israel-two-state-solution-middle-east-palestinians-andy-burnham CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://www.shopify.co.uk/podsavetheuk Pod Save the UK is an Intelligence Squared production for Crooked Media. Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43829454/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8950533.mp3?modified=1788982426&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5300",
+      "speakers": [
+        "Cory Doctorow",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "nish",
+        "protest",
+        "cory",
+        "doctorow",
+        "bubble"
+      ]
+    },
     {
       "key": "c2326a69a9f0a0c867f38e18ce640b5c0775ceb8",
       "title": "Nish is Back - and Keir’s Off! Plus ‘The Shafted Majority’: Racism and Resistance w/ Taj Ali",
@@ -623,10 +647,10 @@
       "link": "https://audioboom.com/posts/8872705",
       "description": "The first wave of Mandelson files have been published. We all wanted to know what Keir Starmer knew, and when he knew it. Now we can see it in black and white. And as it turns out - Starmer was warned there was a “general reputational risk” over Mandelson’s relationship with Jeffrey Epstein ahead of his confirmation as US ambassador. Nish and Coco make sense of this perilous moment for the PM. Then critical theorist and viral creator Louisa Munch helps us make sense of the government’s new social cohesion strategy. But is tackling extremism and yet more surveillance the answer to fraying social ties? Plus - as Iran names its new supreme leader oil prices skyrocket - for a PM obsessed with the cost of living, this is shaping up to be a bit of a nightmare. Remember to send your questions in for Nish and Coco to psuk@reducedlistening.co.uk and they’ll spill the tea! CHECK OUT THESE DEALS FROM OUR SPONSORS AURA FRAMES: https://www.auraframes.com Code: PSTUK BABBEL: https://www.babbel.com/PSUK GUESTS Louisa Munch, Critical Theorist Minnie Rahman, CEO Praxis USEFUL LINKS “Nish, Don’t Kill My Vibe” + Q&A with James Acaster at The Ritzy, Brixton - 18th March https://picturehouses.com/movie-details/000/HO00017471/nish-kumar-nish-don-t-kill-my-vibe-q-a?filter= Open letter opposing planned changes to the immigration settlement routes: https://act.praxis.org.uk/open-letter-earned-settlement CREDITS Darren Jones MP, Cabinet Office minister - Parliament TV Steve Reed MP, Communities Secretary - Parliament TV Mike Tapp MP, Migration minister - Parliament TV Minnie Rahman, Praxis CEO Frederik Pleitgen, CNN International Senior Correspondent - CNN Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43525810.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8872705.mp3?modified=1773314380&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8872705.mp3?modified=1788843848&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3362",
+      "itunes_duration": "3146",
       "speakers": [
         "Nish Kumar",
         "Coco Khan"
@@ -4168,6 +4192,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-09 — ‘Radicalised, organised, and thick as s**t’: Nish has had it with far-right protests. Plus - why Cory Doctorow is waiting for the AI bubble to burst. — speakers: Cory Doctorow, Nish Kumar, Coco Khan
 - 2026-09-03 — Nish is Back - and Keir’s Off! Plus ‘The Shafted Majority’: Racism and Resistance w/ Taj Ali — speakers: Taj Ali, Nish Kumar, Coco Khan
 - 2026-08-27 — Britain’s Rotting Barrel: it’s time to use the ‘C’ word w/ Robert Barrington — speakers: Robert Barrington, Nish Kumar, Coco Khan
 - 2026-08-20 — The Nuance Drought: False Binaries and Critical Friends w/ Natasha Devon — speakers: Natasha Devon, Nish Kumar, Coco Khan

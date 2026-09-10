@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-09-03T04:22:32+00:00`
-- checked_at: `2026-09-03T04:22:32+00:00`
+- fetched_at: `2026-09-10T04:41:14+00:00`
+- checked_at: `2026-09-10T04:41:14+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 03 Sep 2026 04:07:54 GMT`
+- last_modified: `Thu, 10 Sep 2026 04:14:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-03T04:22:32+00:00",
+  "fetched_at": "2026-09-10T04:41:14+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8375599059687d2c08b490b08e0116f5169bfb9a",
+      "title": "Dorothy Atkinson",
+      "published_at": "2026-09-10T04:00:00+00:00",
+      "link": null,
+      "description": "This week, I am joined in the garden by star of stage and screen, Dorothy Atkinson ! You may know Dorothy from the brilliant BBC hit series Ludwig , Mum or perhaps Mr Turner . She's also currently staring in Alan Ayckbourn’s How the Other Half Loves at the Old Vic Theatre, so please do check that out! 🎭 We chat freezing film sets, theatrical mishaps and taking Brief Encounter to Broadway, with David Bowie in the audience no less! Plus, growing up around a flower nursery. 💐 So, dig out your gardening gloves, put those cucumbers to one side, and come Pottering with us. 🥒 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please like and subscribe, @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/4836c22a-ac68-11f1-a35d-7f1f80385158/image/37e4286662babcf63f8524932c1edfb6.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR9680995743.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3976",
+      "speakers": [
+        "Dorothy Atkinson",
+        "Tom Allen"
+      ],
+      "topics": [
+        "dorothy",
+        "atkinson"
+      ]
+    },
     {
       "key": "87eba5cd548b581bc21796fdfd9c809e28449acd",
       "title": "Uncle Andy",
@@ -1062,6 +1082,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-10 — Dorothy Atkinson — speakers: Dorothy Atkinson, Tom Allen
 - 2026-09-03 — Uncle Andy — speakers: Uncle Andy, Tom Allen
 - 2026-08-27 — JB Gill — speakers: JB Gill, Tom Allen
 - 2026-08-20 — Gaby French — speakers: Gaby French, Tom Allen

@@ -187,8 +187,8 @@
       "last_error_message": "Unauthorized"
     },
     "daily-politics-from-the-new-statesman": {
-      "last_checked_at": "2026-09-09T23:14:27+00:00",
-      "last_checked_unix": 1788995672,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015278,
       "etag": "\"djEuMi4wOjE3ODg2MjQwMzkzMDk=\""
     },
     "firelink": {
@@ -204,8 +204,8 @@
       "consecutive_failures": 0
     },
     "jokes-with-mark-simmons": {
-      "last_checked_at": "2026-09-09T23:14:27+00:00",
-      "last_checked_unix": 1788995672,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015278,
       "etag": "\"djEuMi4wOjE3ODczOTE1MzM3NzQ=\""
     },
     "judge-dredd": {
@@ -268,8 +268,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "page-94-the-private-eye-podcast": {
-      "last_checked_at": "2026-09-09T23:14:27+00:00",
-      "last_checked_unix": 1788995672,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015278,
       "etag": "W/\"44f275a5c07096babb022623e50958e2\"",
       "last_modified": "Wed, 02 Sep 2026 16:08:02 GMT"
     },
@@ -284,8 +284,8 @@
       "last_modified": "Wed, 05 Nov 2025 15:02:53 GMT"
     },
     "politicsjoe-podcast": {
-      "last_checked_at": "2026-09-09T23:14:27+00:00",
-      "last_checked_unix": 1788995672,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015279,
       "etag": "\"djEuMi4wOjE3ODU2NDY4Mzk0NjE=\""
     },
     "ramon-fears-terror-tapes": {
@@ -372,8 +372,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "the-rewind-podcast": {
-      "last_checked_at": "2026-09-09T23:14:27+00:00",
-      "last_checked_unix": 1788995672,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015279,
       "etag": "W/\"1a5fb-9Wdix366qXP5XB7bSavNwbQQwLs\""
     },
     "the-romesh-ranganathan-show": {
@@ -394,8 +394,8 @@
       "etag": "\"djEuMi4wOjE3ODg5MTczMTQyNTk=\""
     },
     "windbreaker": {
-      "last_checked_at": "2026-09-09T23:14:27+00:00",
-      "last_checked_unix": 1788995672,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015279,
       "etag": "W/\"43f00-ps4ddcuIUKNKfhz8qNVTQfRkJ8Y\""
     },
     "xbox-casuals-an-xbox-podcast": {
@@ -427,8 +427,8 @@
       "last_modified": "Fri, 04 Sep 2026 08:41:40 GMT"
     },
     "the-damage-guild-a-pathfinder-2e-podcast": {
-      "last_checked_at": "2026-09-09T23:14:27+00:00",
-      "last_checked_unix": 1788995672,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015280,
       "last_modified": "Mon, 31 Aug 2026 04:01:00 GMT",
       "consecutive_failures": 0
     },
@@ -448,8 +448,8 @@
       "etag": "\"djEuMi4wOjE3ODg5MTIwMzkzMzQ=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-09-09T23:14:27+00:00",
-      "last_checked_unix": 1788995673,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015280,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -491,8 +491,8 @@
       "last_modified": "Wed, 09 Sep 2026 23:00:11 GMT"
     },
     "chatabix": {
-      "last_checked_at": "2026-09-09T23:14:27+00:00",
-      "last_checked_unix": 1788995673,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015281,
       "last_modified": "Wed, 13 May 2026 02:00:00 GMT",
       "etag": "\"djEuMi4wOjE3ODg0ODcyMzk1NDc=\"",
       "consecutive_failures": 0
@@ -504,8 +504,8 @@
       "last_modified": "Tue, 16 Jun 2026 08:52:02 GMT"
     },
     "socially-distant-sports-bar": {
-      "last_checked_at": "2026-09-09T23:14:27+00:00",
-      "last_checked_unix": 1788995674,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015281,
       "etag": "\"djEuMi4wOjE3ODg5MDk4NzkzNTQ=\"",
       "consecutive_failures": 0
     },
@@ -531,10 +531,10 @@
       "last_modified": "Tue, 08 Sep 2026 04:00:00 GMT"
     },
     "pod-save-the-uk": {
-      "last_checked_at": "2026-09-03T11:13:15+00:00",
-      "last_checked_unix": 1788434016,
-      "etag": "W/\"f6547cee1e04094472503c4a2d31e83c\"",
-      "last_modified": "Thu, 03 Sep 2026 01:00:00 GMT"
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015281,
+      "etag": "W/\"99a3242bdbcaa48aed7a9d6106150bcd\"",
+      "last_modified": "Wed, 09 Sep 2026 23:06:00 GMT"
     },
     "griefcast": {
       "last_checked_at": "2026-06-17T22:53:03+00:00",
@@ -581,10 +581,10 @@
       "last_modified": "Wed, 09 Sep 2026 23:08:04 GMT"
     },
     "pottering-with-tom-allen": {
-      "last_checked_at": "2026-09-03T04:22:32+00:00",
-      "last_checked_unix": 1788409359,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015280,
       "etag": "W/\"2ca0cd599f18c18ea4bb33c49d10a511\"",
-      "last_modified": "Thu, 03 Sep 2026 04:07:54 GMT"
+      "last_modified": "Thu, 10 Sep 2026 04:14:36 GMT"
     },
     "the-harry-hill-show": {
       "last_checked_at": "2026-07-08T03:43:39+00:00",
@@ -627,15 +627,15 @@
       "consecutive_failures": 0
     },
     "peacock-and-gamble": {
-      "last_checked_at": "2026-09-04T11:16:34+00:00",
-      "last_checked_unix": 1788520605,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015285,
       "consecutive_failures": 0
     },
     "best-of-fubar": {
-      "last_checked_at": "2026-09-09T04:40:37+00:00",
-      "last_checked_unix": 1788928861,
+      "last_checked_at": "2026-09-10T04:41:14+00:00",
+      "last_checked_unix": 1789015298,
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-09-09T23:14:27+00:00"
+  "updated_at": "2026-09-10T04:41:14+00:00"
 }
