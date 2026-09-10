@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-09-03T11:13:15+00:00`
-- checked_at: `2026-09-03T11:13:15+00:00`
-- last_modified: `Thu, 03 Sep 2026 09:00:00 GMT`
+- fetched_at: `2026-09-10T11:18:08+00:00`
+- checked_at: `2026-09-10T11:18:08+00:00`
+- last_modified: `Thu, 10 Sep 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-03T11:13:15+00:00",
+  "fetched_at": "2026-09-10T11:18:08+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,52 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "3fe9d83f4d6d840d58d4a421facdce1c5bafb7e4",
+      "title": "A Storytelling Masterclass with Will Storr (NBI Vault)",
+      "published_at": "2026-09-10T09:00:00+00:00",
+      "link": null,
+      "description": "Will Storr is the author of the dazzling books The Science of Storytelling and A Story Is a Deal , and in this episode, he tells us everything he knows about humanity’s greatest invention: story. More than just entertainment, Will argues, story is what we do and who we are. It’s how we make sense of the world, captivate, and persuade. And yet for all its power, storytelling isn’t some elusive magic trick — it’s a skill. One you can learn. Will’s here to show you how. (This episode originally aired in February 2025.) 🎧 Listen to Will’s other appearance on the podcast here 🎥 The Next Big Idea is on YouTube! You can find our episodes here 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com. 🔗 Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Quince — Find your next fall favorites at quince.com/nbi . Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. Shopify — It’s where you go to start your business, with everything you need already there from day one. Start your free trial at shopify.com/nbi Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP9316532910.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5681",
+      "speakers": [
+        "Will Storr",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "storytelling",
+        "masterclass",
+        "storr",
+        "vault"
+      ]
+    },
+    {
+      "key": "4a9d5c49016b2c060e7af45976d6f74b79a28c2e",
+      "title": "What Can Henry David Thoreau Teach Us About Work?",
+      "published_at": "2026-09-07T09:00:00+00:00",
+      "link": null,
+      "description": "Henry David Thoreau was a philosopher, poet, and pencil-maker. He was a great resigner and, above all, a superb writer whose masterpiece, \"Walden,\" is considered by many to be America's first environmentalist manifesto. But John Kaag has a different view. \"Thoreau's attempt to 'get back to nature,'\" he and co-author Jonathan Van Belle wrote in their book, Henry at Work: Thoreau on Making a Living , was an \"attempt to get away from the capitalist rat race.\" By resigning from that race, Thoreau was, in a sense, reclaiming life—he was making a conscious choice about what to respect and where to tap meaning. \"The abiding message of 'Walden,'\" according to John and Jonathan, is that \"the frenetic busyness of modern life should never be confused with the essential business of living.\" In this episode, which first aired in July 2023, John Kaag and Caleb explore Thoreau's life and career, and they come away with surprising lessons about why we work and how we can make it more meaningful — how we can, in Thoreau's words, \"live deliberately.\" __________ Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Quince — Find your next fall favorites at quince.com/nbi . Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. Shopify — It’s where you go to start your business, with everything you need already there from day one. Start your free trial at shopify.com/nbi Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP5582703302.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2733",
+      "speakers": [
+        "Henry David Thoreau",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "henry",
+        "david",
+        "thoreau",
+        "work"
+      ]
+    },
     {
       "key": "d1cefdd5f7a581e80b0a21a72c82fc4d22453575",
       "title": "How French Philosophy Wired Modern Thinking",
@@ -8413,6 +8459,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-10 — A Storytelling Masterclass with Will Storr (NBI Vault) — speakers: Will Storr, Rufus Griscom, Caleb Bissinger
+- 2026-09-07 — What Can Henry David Thoreau Teach Us About Work? — speakers: Henry David Thoreau, Rufus Griscom, Caleb Bissinger
 - 2026-09-03 — How French Philosophy Wired Modern Thinking — speakers: How French Philosophy Wired, Modern Thinking How, Rufus Griscom, Caleb Bissinger
 - 2026-08-31 — A Nobel Prize Winner’s Plan to Save Democracy — speakers: Nobel Prize Winner, Save Democracy Democracy, Rufus Griscom, Caleb Bissinger
 - 2026-08-27 — How to Unlock the Creativity You Already Have — speakers: Rufus Griscom, Caleb Bissinger

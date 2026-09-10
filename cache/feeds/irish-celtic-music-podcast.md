@@ -2,10 +2,10 @@
 
 - slug: `irish-celtic-music-podcast`
 - source: `http://bellobard.libsyn.com/rss`
-- fetched_at: `2026-09-03T11:13:15+00:00`
-- checked_at: `2026-09-03T11:13:15+00:00`
-- etag: `"8df2709840217b6023a56dad83eccbd7"`
-- last_modified: `Thu, 03 Sep 2026 08:39:15 GMT`
+- fetched_at: `2026-09-10T11:18:08+00:00`
+- checked_at: `2026-09-10T11:18:08+00:00`
+- etag: `"671d50758ecf151879d8e3ec3a4c4326"`
+- last_modified: `Thu, 10 Sep 2026 08:35:36 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://celticmusicpodcast.com",
   "description": "If you love Celtic music, then welcome to Irish & Celtic Music Podcast. Each week, you'll receive an hour-long award-winning Celtic radio show featuring some of the best independent Irish & Celtic music, and all 100% FREE! It is one of the top music podcasts on iTunes and receives over 10,000 downloads of each show each and every week. You can subscribe to have it automatically download through your favorite podcast player. Did I mention, it was FREE? All songs are used with permission of the artists and copyrights holders.",
   "image_url": "https://static.libsyn.com/p/assets/5/4/b/a/54ba288a757b7f70e55e3c100dce7605/ICMP-iTunes-1400-20221011-nlx81b37rd.jpg",
-  "fetched_at": "2026-09-03T11:13:15+00:00",
+  "fetched_at": "2026-09-10T11:18:08+00:00",
   "owners": [
     "Marc Gunn"
   ],
@@ -27,6 +27,28 @@
     "music"
   ],
   "episodes": [
+    {
+      "key": "9e531644d39b074d02f843318facf518160c8452",
+      "title": "A Bonnie Rouge's Unexpected Voyage #774",
+      "published_at": "2026-09-10T08:30:00+00:00",
+      "link": "https://celticmusicpodcast.com/a-bonnie-rouges-unexpected-voyage-774",
+      "description": "From the Brushy Fork of John's Creek to the streets of Wexford Town, this collection spans reels, marches, shanties, and songs. A wounded hussar, a recruiting sergeant, and a man of the house all make an appearance, woven together by fiddle and voice from Ireland, Scotland, Québec, and beyond.. It's the Irish & Celtic Music Podcast #774. - - Subscribe now at CelticMusicPodcast.com ! Alexis Chartrand & Nicolas Babineau, Hildaland, Jesse Ferguson, Celtic Underground, Marc Gunn, Matt & Shannon Heaton, Mick Flannery, Trí, The Leftovers, Mary - Kate Spring Lee, Derek Byrne, Caitlin Finley & Will Woodson, Hadrian's Wall, Adam Agee & Jon Sousa, Release the Craicen GET CELTIC MUSIC NEWS IN YOUR INBOX The Celtic Music Magazine is a quick and easy way to plug yourself into more great Celtic culture. Enjoy seven weekly news items with what's happening with Celtic music and culture online. Subscribe now and get 34 Celtic MP3s for Free . VOTE IN THE CELTIC TOP 20 FOR 2026 This is our way of finding the best songs and artists each year. You can vote for as many songs and tunes that inspire you in each episode. Your vote helps me create this year's Best Celtic music episode. You have just three weeks to vote this year. Vote Now ! THIS WEEK IN CELTIC MUSIC 0:02 - Intro: Royal Lochnagar Distillery 0:11 - Alexis Chartrand & Nicolas Babineau \"Le Cyclone\" from Le Cyclone 3:44 - WELCOME 6:32 - Hildaland \"The Brushy Fork Of John's Creek\" (feat. Ethan Setiawan & Louise Bichan) from Fiddle Tunes (feat. Ethan Setiawan & Louise Bichan) - EP 9:40 - Jesse Ferguson \"Roddy McCorley\" from Carried Forward 14:15 - Celtic Underground \"Man of the House Reel\" from You Can Always Go Home 15:47 - Marc Gunn \"Bring Me Home, Boys\" from Sci Fi Drinking Songs 19:32 - FEEDBACK 20:33 - Matt & Shannon Heaton \"Two Cardinals\" (march) from Whirring Wings 23:21 - Mick Flannery \"Bonnie Rogue\" from The House Must Win 25:57 - Trí \"L'ennui / The Recruiting Sergeant\" from 1919 31:06 - The Leftovers \"Wexford Town\" from Heart of Buffalo 34:35 - Mary - Kate Spring Lee \"The Wounded Hussar\" from Tunes in the Morning 38:12 - THANKS 40:18 - Derek Byrne \"Mingulay Boat Song\" (feat. Paddygrass) from The Unexpected Voyage 44:54 - Caitlin Finley & Will Woodson \"The Pride of Clyde No. 1 / The Drummer Boy / The Pride of Clyde No. 2\" from Once Through the Hall 48:44 - Hadrian's Wall \"Glengarry to Maidstone\" from Play Us a Tune 52:51 - Adam Agee & Jon Sousa \"Coppers and Brass / Munster Buttermilk\" from Ceol nag Carad (Ceol na gCarad is pronounced \"Kee - ohl nuh GAR - ad,\" Irish for \"music of friendship.\") 56:51 - CLOSING 58:01 - Release the Craicen \"The Wellerman\" from Live! Songs on a Boat 1:01:26 - CREDITS Support for this program comes from John Sharkey White, II. Support for this program comes from International speaker, Joseph Dumond, teaching the ancient roots of the Gaelic people. Learn more about their origins at Sightedmoon.com Support for this program comes from Cascadia Cross Border Law Group, Creating Transparent Borders for more than twenty five years, serving Alaska and the world. Find out more at www.CascadiaLawAlaska.com Support for this program comes from Hank Woodward. Support for this program comes from Dr. Annie Lorkowski of Centennial Animal Hospital in Corona, California. The Irish & Celtic Music Podcast was produced by Marc Gunn, The Celtfather and our Patrons on Patreon. The show was edited by Mitchell Petersen with Graphics by Miranda Nelson Designs . Visit our website to follow the show. You'll find links to all of the artists played in this episode. Todd Wiley is the editor of the Celtic Music Magazine. Subscribe to get 34 Celtic MP3s for Free. Plus, you'll get 7 weekly news items about what's happening with Celtic music and culture online. Best of all, you will connect with your Celtic heritage. Please tell one friend about this podcast. Word of mouth is the absolute best way to support any creative endeavor. Clean energy is now the cheapest power humanity has ever built. Solar and wind beat coal and gas on price, and last year they grew fast enough to cover the world's entire increase in electricity demand. The technology works. The costs keep falling. The only thing slowing it down is people who profit from the old way of doing things. Fossil fuel interests spend enormous sums to protect their business. They fund campaigns, shape legislation, and stall the shift to cleaner, cheaper energy. That is not a market at work. That is a market being held back. So here is the call to action: pay attention to who your representatives listen to. Ask them where they stand on clean energy. Vote like your electricity bill and your grandkids depend on it, because they do. The sun keeps shining. The wind keeps blowing. Let's stop letting anyone stand between us and the cheapest, cleanest power ever made. Promote Celtic culture through music at http://celticmusicpodcast.com/ . WELCOME THE IRISH & CELTIC MUSIC PODCAST * Helping you celebrate Celtic culture through music. I am Marc Gunn. I'm a Celtic musician and also host of Pub Songs & Stories. Every song has a story, every episode is a toast to Celtic and folk songwriters. This podcast is for fans of all kinds of Celtic music. We are here to build a diverse Celtic community and help the incredible artists who so generously share their music with you. If you hear music you love, please email the artists to let them know you heard them on the Irish & Celtic Music Podcast. Because we are more than just a radio show. We are a community. A community of Celtic music and culture lovers. We support small and local artists. We spend money on things that truly matter. The personal and heart felt. You can do that with each of the artists on today's show OR your favorite artists. Buy a CD, Album Pin, Shirt, Digital Download, or join their community on Patreon. You can find a link to all of the artists in the shownotes, along with show times, when you visit our website at celticmusicpodcast.com . CELTIC PODFEST AND ARTS MARKET The 2026 Celtic PodFest was a tremendous success. Kinnfolk and The Muckers joined me for our first festival at The Lost Druid Brewery in Avondale Estates, Ga. The festival happened because of many of my listeners who pledged at our start - of - the - year Kickstarter. We had a great turnout, but we could've done better if we had planned it more than a month out. There is now a Kickstarter Pre - Launch Page for our Second Celtic PodFest . You'll find a link in the shownotes. This fundraiser will hopefully allow us to bring a second festival to you. The Kickstarter will launch in September. Will you help? ALBUM PINS ARE CHANGING THE WAY WE HEAR CELTIC MUSIC Looking for a fresh way to support the music you love? Meet the Album Pin. Album Pins are lapel pins themed to a specific album — and each one comes with a digital download. Wear your music. All of my latest pins are wood - burned and locally produced, which means a smaller footprint and a one - of - a - kind feel you won't find anywhere else. Pick yours up at magerecords.com THANK YOU PATRONS OF THE PODCAST! Every week, the generosity of our patrons keeps this podcast alive. Your pledges pay our audio engineer, buy music directly from the artists we feature, and cover the server costs that carry the show to listeners around the world. It all adds up to a podcast that stays free and independent. Becoming a patron comes with its own rewards. You'll get the show ad - free and early, a personal update from me every week, a spot in our community, and a hand in shaping which songs make the cut. Some folks join just to give back. Others come for the extras. Either way, you become part of the story. Special thanks to our Celtic Legends: Alan Schindler, Brian McReynolds, Bruce, Dan mcDade, Daniel Ide, Dave and Rosie Donnelly, Fuzzy, Gerald F Boyle, Jeff A, Kelly Garrod, Lynda MacNeil, Margreta Silverstone, Marti Meyers, Mike Schock, Miranda Nelson, Rick Boyce, Round Rock Image Creators, Shawn Cali HERE IS YOUR THREE STEP PLAN TO SUPPORT THE PODCAST Go to our Patreon page. Decide how much you want to pledge every month, $4, $12, $30. Keep listening to the Irish & Celtic Music Podcast to celebrate Celtic culture through music. You can become a generous Patron of the Podcast on Patreon at SongHenge.com . TRAVEL WITH CELTIC INVASION VACATIONS Every year, I take a small group of Celtic music fans on the relaxing adventure of a lifetime. We don't see everything. Instead, we stay in one area. We get to know the region through its culture, history, and legends. You can join us with an auditory and visual adventure through podcasts and videos. I am now accepting applications for people to join the Celtic Invasion of Isle of Skye hiking trip in 2027 at http://celticinvasion.com/ #celticmusic #irishmusic #celticmusicpodcast I WANT YOUR FEEDBACK What are you doing today while listening to the podcast? Send me a photo. If you're in a Celtic band, send me an audio recording of you performing live. Just audio. I'll use it in a podcast episode later this year. Email me at follow@bestcelticmusic.",
+      "image_url": "https://static.libsyn.com/p/assets/6/f/a/f/6fafb9892413fb6d16c3140a3186d450/774-A_Bonnie_Rogue_s_Unexpected_Voyage-MickFlannery-1400.jpg",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/bellobard/IrishCelticMusic-774.mp3?dest-id=17757",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61093740",
+      "itunes_duration": "01:03:23",
+      "speakers": [
+        "Wexford Town",
+        "Marc Gunn"
+      ],
+      "topics": [
+        "bonnie",
+        "rouge",
+        "unexpected",
+        "voyage"
+      ]
+    },
     {
       "key": "550e9c6e19a21632fb9b0aa2d3c60ca0e2ccc0dc",
       "title": "The Wizard of Donegal Bay #773",
@@ -16527,6 +16549,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-10 — A Bonnie Rouge's Unexpected Voyage #774 — speakers: Wexford Town, Marc Gunn
 - 2026-09-03 — The Wizard of Donegal Bay #773 — speakers: Donegal Bay, Marc Gunn
 - 2026-08-27 — The Watchman's Morning Light #772 — speakers: Morning Light, Muskerry Gaeltacht, Glengarry County, Marc Gunn
 - 2026-08-20 — Way Stations for Poets and Story Tellers #771 — speakers: Loch Maree, Marc Gunn

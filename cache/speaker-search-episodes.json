@@ -6039,6 +6039,29 @@
     ],
     "ed-gamble": [
       {
+        "feed_slug": "external:apple:2a4373e4b849",
+        "feed_title": "How To Fail With Elizabeth Day",
+        "source_rss_url": "https://rss.pdrl.fm/e402a9/feeds.megaphone.fm/howtofail",
+        "dedupe_key": "4de98924f82d1ca1ea50094e8a9c5161d6c53855",
+        "episode_key": "4de98924f82d1ca1ea50094e8a9c5161d6c53855",
+        "title": "Nish Kumar - Failure Is Information. Comedians Call It Material.",
+        "published_at": "2026-09-09T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Nish Kumar is one of the UK’s best-known comedians, known for his impassioned political progressiveness. \n\n\n\nYou might remember him as the host of the topical BBC comedy show, The Mash Report, which ran to great acclaim until it was abruptly cancelled in 2021 - one of his failures addresses this head-on. Kumar now co-h",
+        "audio_url": "https://pdst.fm/e/pscrb.fm/rss/p/pdrl.fm/e402a9/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/mgln.ai/e/143/pscrb.fm/rss/p/traffic.megaphone.fm/SONY7007616767.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar-failure-is-information-comedians-call-it/id1407451189?i=1000788485000&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
@@ -27816,6 +27839,28 @@
     ],
     "lee-mack": [
       {
+        "feed_slug": "external:apple:920bd5a9c5cc",
+        "feed_title": "Entertainment & Celebrity News Today | 2 Min News | The Daily News Now!",
+        "source_rss_url": "https://feeds.fastcast.ai/entertainment-news-daily-news-now.xml",
+        "dedupe_key": "bdff297067aaef424e06852f937178130ef20b74",
+        "episode_key": "bdff297067aaef424e06852f937178130ef20b74",
+        "title": "Lee Mack’s 1% Club Wins Big | Entertainment and Celebrity News",
+        "published_at": "2026-09-09T09:11:29Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Lee Mack’s The 1% Club swept the Quiz Show award for the fourth year in a row, with the comedian bringing his kids to prove he’s not a “useless cretin”—while the show’s brain-bending format keeps viewers on their toes. This Morning, Strictly Come Dancing, and The Celebrity Traitors also took home top prizes, making it ",
+        "audio_url": "https://api.fastcast.ai/audio/89e0db5f-a446-49a4-9a38-ee4688caca20.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lee-macks-1-club-wins-big-entertainment-and-celebrity-news/id1880937045?i=1000788646602&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lee Mack"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:d0be578e4e4b",
         "feed_title": "pplpod",
         "source_rss_url": "https://media.rss.com/pplpod/feed.xml",
@@ -41366,6 +41411,28 @@
         "description": "Simon and Rachel speak with novelist David Mitchell. Raised in Worcestershire in England, Mitchell later spent eight years living in Japan. The author of nine novels, including \"Cloud Atlas\", \"The Thousand Autumns of Jacob de Zoet\" and most recently \"Utopia Avenue\", David has been nominated for the Booker prize five ti",
         "audio_url": "https://traffic.megaphone.fm/NSR8317628347.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/136-david-mitchell-novelist/id1224996246?i=1000566332793&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:c6031f1ae9bf",
+        "feed_title": "Hawksbee and Jacobs Daily",
+        "source_rss_url": "https://feeds.acast.com/public/shows/70927d7b-21c4-4c32-92e5-0c6de82d96ca",
+        "dedupe_key": "65f0631977037527aa94d7090946d0ffbfeb4fd8",
+        "episode_key": "65f0631977037527aa94d7090946d0ffbfeb4fd8",
+        "title": "Hedgehogs for Goalposts",
+        "published_at": "2022-05-18T15:18:20Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Paul Hawksbee and Andy Jacobs are joined by actor and comedian David Mitchell as well as Watercress Eating Champion Glenn Walsh, broadcasting legend Jim Rosenthal and Forest supporting comedian Matt Forde. Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/hawksbeeandjacobs/e/62850e3c48bbb60012307dff/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/hedgehogs-for-goalposts/id348889102?i=1000562278177&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,

@@ -2,9 +2,9 @@
 
 - slug: `the-comedians-comedian-podcast`
 - source: `https://feeds.acast.com/public/shows/339736e5-b21f-4af2-ada6-2d48cb8a1581`
-- fetched_at: `2026-09-03T11:13:15+00:00`
-- checked_at: `2026-09-03T11:13:15+00:00`
-- etag: `"djEuMi4wOjE3ODg0MTE2Mzk2OTI="`
+- fetched_at: `2026-09-10T11:18:08+00:00`
+- checked_at: `2026-09-10T11:18:08+00:00`
+- etag: `"djEuMi4wOjE3ODkwMTY0Mzk2MDY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.stuartgoldsmith.com/podcast",
   "description": "For anyone who writes comedy, makes comedy, loves comedy, or just has an interest in comedians and what makes them so annoying.",
   "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1769106256659-03eb4a3b-205c-4ee2-81c4-60b9daf83c0e.jpeg",
-  "fetched_at": "2026-09-03T11:13:15+00:00",
+  "fetched_at": "2026-09-10T11:18:08+00:00",
   "owners": [
     "Stuart Goldsmith"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c7304c804da0b598dc6792c5c7f2b382b8b92119",
+      "title": "Doc Brown (2019): ComCompendium",
+      "published_at": "2026-09-10T05:00:00+00:00",
+      "link": "https://shows.acast.com/thecomedianscomedianpodcast/episodes/doc-brown-2019-comcompendium",
+      "description": "Once again we’re back in the archives of ComComPod towers with Ben Bailey Smith aka Doc Brown , a prodigious talent, with clean-cut standup and roof-raising comedy rap, as well as a parallel career as an influential and respected rapper. We discuss: the state of mind that led him to turn down a 220-date national tour how his stage name became a millstone and why he struggles to make a meal he wouldn't eat himself... Join the Insiders Club at patreon.com/comcompod where you can instantly get access to the full back catalogue of extras! 👉 Sign up to the ComComPod Mailing List and follow the show on Instagram , YouTube & TikTok . Support our independently produced Podcast from only £3/month at Patreon.com/ComComPod : ✅ Instant access to full video and ad-free audio episodes ✅ Exclusive extra content you can't find anywhere else ✅ Early access to new episodes where possible ✅ Exclusive membership offerings including weekly-ish Stu&As Catch Up with Ben: You can keep up-to-date on Instagram, @docbreezy88 . Everything I'm up to: Come and see me LIVE - find out all the info and more at stuartgoldsmith.com/comedy . Discover my comedy about the climate crisis, for everyone from activists to CEOs, at stuartgoldsmith.com/climate . Get in touch : If you’re listening and thinking ‘I’d love to work with ComComPod on getting something out there’ or ‘there’s someone you should absolutely have on’ - drop us an email at callum@comedianscomedian.com ! Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611ee35c06c05e6c01f40f42/1787435898636-f06360b3-b98b-4b8e-94b3-d2c36f0846cc.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/thecomedianscomedianpodcast/e/6a8a1c1ba89d26398e609959/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "118575936",
+      "itunes_duration": "1:22:20",
+      "speakers": [
+        "Doc Brown",
+        "Ben Bailey Smith",
+        "Stuart Goldsmith"
+      ],
+      "topics": [
+        "brown",
+        "comcompendium"
+      ]
+    },
     {
       "key": "fed5cd1ddc8ac492a8e8849659126f26f70e9d16",
       "title": "Greg Proops Returns",
@@ -11756,6 +11777,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-10 — Doc Brown (2019): ComCompendium — speakers: Doc Brown, Ben Bailey Smith, Stuart Goldsmith
 - 2026-09-03 — Greg Proops Returns — speakers: Greg Proops Returns, Stuart Goldsmith
 - 2026-08-27 — Stevie Martin (2021): ComCompendium — speakers: Stevie Martin, Stuart Goldsmith
 - 2026-08-17 — I'm In Edinburgh! — speakers: Stuart Goldsmith
