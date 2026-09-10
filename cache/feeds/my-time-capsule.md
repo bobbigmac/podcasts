@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-09-07T04:39:33+00:00`
-- checked_at: `2026-09-07T04:39:33+00:00`
-- etag: `"djEuMi4wOjE3ODg3MzU3NTkzMDE="`
+- fetched_at: `2026-09-10T23:10:19+00:00`
+- checked_at: `2026-09-10T23:10:19+00:00`
+- etag: `"djEuMi4wOjE3ODkwODEzNTkyOTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-09-07T04:39:33+00:00",
+  "fetched_at": "2026-09-10T23:10:19+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "26c790c879a88fdf30dea7f1f55dae92938ebe8a",
+      "title": "My Time Capsule The Dig - Ep. 17 - With Tim McInnerny (Blackadder, Notting Hill, Gladiator II, Game of Thrones)",
+      "published_at": "2026-09-10T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-17-with-tim-mcinnerny-blackadder",
+      "description": "Tim McInnerny was our guest in episode 41 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! Tim McInnerny is best known for his roles in Blackadder, Notting Hill, Gladiator II, Game of Thrones and One Day. Also, Mike and his producer and son John chat about this weeks episodes and find out where Mari Wilson would want to bury her capsule . Listen to Tim McInnerny's original episode - https://mytimecapsulepodcast.com/episodes?q=45 . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1789038830589-c4396a9d-1841-4ce3-990a-5b349424931a.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6aa293ad7d9d1b1678b58297/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46808210",
+      "itunes_duration": "39:00",
+      "speakers": [
+        "Tim McInnerny",
+        "Notting Hill"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "mcinnerny",
+        "blackadder",
+        "notting",
+        "hill",
+        "gladiator",
+        "game",
+        "thrones"
+      ]
+    },
     {
       "key": "9ad37c4072403e7509df7b77372f1240f064ed8a",
       "title": "Ep. 604 - Mari Wilson - Best known for the 1982 hit ‘Just What I Always Wanted’",
@@ -13423,6 +13450,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-10 — My Time Capsule The Dig - Ep. 17 - With Tim McInnerny (Blackadder, Notting Hill, Gladiator II, Game of Thrones) — speakers: Tim McInnerny, Notting Hill
 - 2026-09-06 — Ep. 604 - Mari Wilson - Best known for the 1982 hit ‘Just What I Always Wanted’ — speakers: Mari Wilson
 - 2026-09-03 — My Time Capsule The Dig - Ep. 16 - With Nigel Planer! — speakers: Nigel Planer
 - 2026-08-30 — Ep. 603 - Samantha Niblett MP - Labour MP and the woman behind 2026’s “Summer of Sex” — speakers: Samantha Niblett

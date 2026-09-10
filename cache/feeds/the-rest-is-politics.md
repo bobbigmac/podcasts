@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-09-09T23:14:27+00:00`
-- checked_at: `2026-09-09T23:14:27+00:00`
-- last_modified: `Wed, 09 Sep 2026 23:00:11 GMT`
+- fetched_at: `2026-09-10T23:10:19+00:00`
+- checked_at: `2026-09-10T23:10:19+00:00`
+- last_modified: `Thu, 10 Sep 2026 23:00:13 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-09T23:14:27+00:00",
+  "fetched_at": "2026-09-10T23:10:19+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,26 @@
     "interviews"
   ],
   "episodes": [
+    {
+      "key": "25bb4370aeccc576192c6fac41aef4966e27d872",
+      "title": "\"Our Generation Was Lied To\": Two Gen Z MPs on Fixing Politics",
+      "published_at": "2026-09-10T23:00:00+00:00",
+      "link": null,
+      "description": "To hear the full series “The Gen Z Story”, sign up at the restispolitics.com – use your student email for a discount How do you get older colleagues to take you seriously when you become an MP at 25? Has the social contract between the state and young people been irreparably broken? And how should Andy Burnham tackle the biggest challenges facing young people today — the mental health crisis, student loan debt, a lack of jobs and opportunities, and the impossibility of getting on the housing ladder? Keir Mather and Rosie Wrighting, two Gen Z MPS, discuss all these topics and more with Vicky Spratt as part of The Gen Z Story Producer: India Dunkley Video Editor: Josh Smith Social Producer: Celine Charles Executive Producer: Emily Kent Smith Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/7fe07686-ad02-11f1-af93-67145371b99d/image/545941e72476abe7d88d43e266df1741.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2513584234.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3918",
+      "speakers": [
+        "Two Gen"
+      ],
+      "topics": [
+        "generation",
+        "fixing",
+        "politic"
+      ]
+    },
     {
       "key": "c7e58873a08d6721c8d2b5396682cdbd2e82d0e4",
       "title": "570. Why Trump Acts Like a Russian Asset and Miliband’s West Bank Sanctions",
@@ -12919,6 +12939,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-10 — "Our Generation Was Lied To": Two Gen Z MPs on Fixing Politics — speakers: Two Gen
 - 2026-09-09 — 570. Why Trump Acts Like a Russian Asset and Miliband’s West Bank Sanctions — speakers: John Healy
 - 2026-09-08 — 569. Farage’s Foreign Funding Scandal and Germany’s Far-Right Breakthrough — speakers: Foreign Funding Scandal
 - 2026-09-03 — Becoming Burnham: The Manchester Arena Call, Westminster Plotting, and Keir vs Andy — speakers: Andy Burnha

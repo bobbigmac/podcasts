@@ -204,8 +204,8 @@
       "consecutive_failures": 0
     },
     "jokes-with-mark-simmons": {
-      "last_checked_at": "2026-09-10T20:51:55+00:00",
-      "last_checked_unix": 1789073520,
+      "last_checked_at": "2026-09-10T23:10:19+00:00",
+      "last_checked_unix": 1789081822,
       "etag": "\"djEuMi4wOjE3ODczOTE1MzM3NzQ=\""
     },
     "judge-dredd": {
@@ -268,8 +268,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "page-94-the-private-eye-podcast": {
-      "last_checked_at": "2026-09-10T20:51:55+00:00",
-      "last_checked_unix": 1789073520,
+      "last_checked_at": "2026-09-10T23:10:19+00:00",
+      "last_checked_unix": 1789081822,
       "etag": "W/\"44f275a5c07096babb022623e50958e2\"",
       "last_modified": "Wed, 02 Sep 2026 16:08:02 GMT"
     },
@@ -284,8 +284,8 @@
       "last_modified": "Wed, 05 Nov 2025 15:02:53 GMT"
     },
     "politicsjoe-podcast": {
-      "last_checked_at": "2026-09-10T20:51:55+00:00",
-      "last_checked_unix": 1789073520,
+      "last_checked_at": "2026-09-10T23:10:19+00:00",
+      "last_checked_unix": 1789081822,
       "etag": "\"djEuMi4wOjE3ODU2NDY4Mzk0NjE=\""
     },
     "ramon-fears-terror-tapes": {
@@ -372,8 +372,8 @@
       "disabled_reason": "3 consecutive failures"
     },
     "the-rewind-podcast": {
-      "last_checked_at": "2026-09-10T20:51:55+00:00",
-      "last_checked_unix": 1789073527,
+      "last_checked_at": "2026-09-10T23:10:19+00:00",
+      "last_checked_unix": 1789081822,
       "etag": "W/\"1a5fb-9Wdix366qXP5XB7bSavNwbQQwLs\""
     },
     "the-romesh-ranganathan-show": {
@@ -394,9 +394,9 @@
       "etag": "\"djEuMi4wOjE3ODg5MTczMTQyNTk=\""
     },
     "windbreaker": {
-      "last_checked_at": "2026-09-10T20:51:55+00:00",
-      "last_checked_unix": 1789073527,
-      "etag": "W/\"43f00-QH9Nm6XfSwAyfcA0Rzle6Jduo4I\""
+      "last_checked_at": "2026-09-10T23:10:19+00:00",
+      "last_checked_unix": 1789081822,
+      "etag": "W/\"43f00-ps4ddcuIUKNKfhz8qNVTQfRkJ8Y\""
     },
     "xbox-casuals-an-xbox-podcast": {
       "last_checked_at": "2026-06-25T22:45:21+00:00",
@@ -427,8 +427,8 @@
       "last_modified": "Fri, 04 Sep 2026 08:41:40 GMT"
     },
     "the-damage-guild-a-pathfinder-2e-podcast": {
-      "last_checked_at": "2026-09-10T20:51:55+00:00",
-      "last_checked_unix": 1789073527,
+      "last_checked_at": "2026-09-10T23:10:19+00:00",
+      "last_checked_unix": 1789081823,
       "last_modified": "Mon, 31 Aug 2026 04:01:00 GMT",
       "consecutive_failures": 0
     },
@@ -448,8 +448,8 @@
       "etag": "\"djEuMi4wOjE3ODg5MTIwMzkzMzQ=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-09-10T20:51:55+00:00",
-      "last_checked_unix": 1789073527,
+      "last_checked_at": "2026-09-10T23:10:19+00:00",
+      "last_checked_unix": 1789081823,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -476,9 +476,9 @@
       "last_modified": "Sun, 05 Apr 2026 08:32:03 GMT"
     },
     "my-time-capsule": {
-      "last_checked_at": "2026-09-07T04:39:33+00:00",
-      "last_checked_unix": 1788756008,
-      "etag": "\"djEuMi4wOjE3ODg3MzU3NTkzMDE=\""
+      "last_checked_at": "2026-09-10T23:10:19+00:00",
+      "last_checked_unix": 1789081823,
+      "etag": "\"djEuMi4wOjE3ODkwODEzNTkyOTg=\""
     },
     "the-moon-under-water": {
       "last_checked_at": "2026-06-17T22:53:03+00:00",
@@ -486,13 +486,13 @@
       "etag": "\"djEuMi4wOjE3NjkwOTUzMDkxMTc=\""
     },
     "the-rest-is-politics": {
-      "last_checked_at": "2026-09-09T23:14:27+00:00",
-      "last_checked_unix": 1788995673,
-      "last_modified": "Wed, 09 Sep 2026 23:00:11 GMT"
+      "last_checked_at": "2026-09-10T23:10:19+00:00",
+      "last_checked_unix": 1789081824,
+      "last_modified": "Thu, 10 Sep 2026 23:00:13 GMT"
     },
     "chatabix": {
-      "last_checked_at": "2026-09-10T20:51:55+00:00",
-      "last_checked_unix": 1789073528,
+      "last_checked_at": "2026-09-10T23:10:19+00:00",
+      "last_checked_unix": 1789081826,
       "last_modified": "Wed, 13 May 2026 02:00:00 GMT",
       "etag": "\"djEuMi4wOjE3ODg0ODcyMzk1NDc=\"",
       "consecutive_failures": 0
@@ -504,8 +504,8 @@
       "last_modified": "Tue, 16 Jun 2026 08:52:02 GMT"
     },
     "socially-distant-sports-bar": {
-      "last_checked_at": "2026-09-10T20:51:55+00:00",
-      "last_checked_unix": 1789073528,
+      "last_checked_at": "2026-09-10T23:10:19+00:00",
+      "last_checked_unix": 1789081826,
       "etag": "\"djEuMi4wOjE3ODg5MDk4NzkzNTQ=\"",
       "consecutive_failures": 0
     },
@@ -627,8 +627,8 @@
       "consecutive_failures": 0
     },
     "peacock-and-gamble": {
-      "last_checked_at": "2026-09-10T20:51:55+00:00",
-      "last_checked_unix": 1789073527,
+      "last_checked_at": "2026-09-10T23:10:19+00:00",
+      "last_checked_unix": 1789081829,
       "consecutive_failures": 0
     },
     "best-of-fubar": {
@@ -637,5 +637,5 @@
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-09-10T20:51:55+00:00"
+  "updated_at": "2026-09-10T23:10:19+00:00"
 }
