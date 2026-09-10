@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-09-10T16:23:30+00:00`
-- checked_at: `2026-09-10T16:23:30+00:00`
-- etag: `"djEuMi4wOjE3ODkwNTIwNTE5MjU="`
+- fetched_at: `2026-09-10T20:51:55+00:00`
+- checked_at: `2026-09-10T20:51:55+00:00`
+- etag: `"djEuMi4wOjE3ODkwNjE1MTA2Njk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-09-10T16:23:30+00:00",
+  "fetched_at": "2026-09-10T20:51:55+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "cd71c5574168974c1e4b314eb7804e6ad66fa1a4",
+      "title": "Ed Miliband resets relations with Israel",
+      "published_at": "2026-09-10T17:31:50+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/ed-miliband-resets-relations-with-israel",
+      "description": "Foreign Secretary Ed Miliband has unveiled the biggest reset in UK relations with Israel for decades, and, in typical fashion, is putting his stamp on his new role. Meanwhile, the scandal surrounding Reform and their finances continues, with the Met Police announcing they are launching a criminal investigation. Pippa Bailey is joined by Ailbhe Rea, and guest Ben Judah, to discuss. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1789055289514-1c4fc2ba-0204-4f68-a5cb-3cd0bcbc5c1e.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6aa2d0e73c79a3da9b18aa88/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "155679797",
+      "itunes_duration": "1:04:50",
+      "speakers": [
+        "Ed Miliband",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "miliband",
+        "relation",
+        "israel"
+      ]
+    },
     {
       "key": "78ef0f2416700855af0fa32d2947037b2fe54af4",
       "title": "Andy Burnham can’t explain the economy",
@@ -32334,6 +32356,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-10 — Ed Miliband resets relations with Israel — speakers: Ed Miliband, Anoosh Chakelian, Oli Dugmore
 - 2026-09-05 — Andy Burnham can’t explain the economy — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-03 — Burnham vs Badenoch: PMQs, round one — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-02 — How can the UK protect its historic buildings from climate change? — speakers: Anoosh Chakelian, Oli Dugmore

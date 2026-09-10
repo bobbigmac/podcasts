@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-09-03T21:01:56+00:00`
-- checked_at: `2026-09-03T21:01:56+00:00`
-- etag: `"dd57a-65a9a3b2c85f2"`
-- last_modified: `Thu, 03 Sep 2026 20:45:24 GMT`
+- fetched_at: `2026-09-10T20:51:55+00:00`
+- checked_at: `2026-09-10T20:51:55+00:00`
+- etag: `"ddeeb-65b270bf1cbc4"`
+- last_modified: `Thu, 10 Sep 2026 20:45:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-09-03T21:01:56+00:00",
+  "fetched_at": "2026-09-10T20:51:55+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e92b86373e884374ec67a0e1d67d1bb2b1ac8511",
+      "title": "Chloe Petts - Series 22 Ep.2",
+      "published_at": "2026-09-10T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "On this week's Taskmaster Podcast, Ed is joined by the brilliantly funny comedian and contestant on Series 22, Chloe Petts! Chloe brings their Gambelian vibe to the caravan and we get to hear exactly what it was like when Chloe met their team mates for the first time. The good pals go through episode 2, task by task as well as sharing stories from touring together...easter egg anyone? To get all you latest Taskmaster news visit Taskmaster.tv To Catch up on old episodes visit Channel4.com And if you want to see any more TM content and some behind the scenes, visit the Taskmaster YouTube Channel!",
+      "image_url": "https://artwork.captivate.fm/c0bfe915-0bd4-4e27-86fb-45e72532d0cb/TASKMASTER-PODCAST-ARTWORK-Chloe.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/a83f56cf-67b9-4ea7-9f5b-2caba81ec91d.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=a83f56cf-67b9-4ea7-9f5b-2caba81ec91d",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "61065359",
+      "itunes_duration": "01:03:36",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "chloe",
+        "petts",
+        "series"
+      ]
+    },
     {
       "key": "1e51ac678f6781ed7e65906067ae0346ede553b7",
       "title": "Reece Shearsmith - Series 22 Ep.1",
@@ -5053,7 +5073,7 @@
       "enclosure_url": "https://dax.captivate.fm/94468522-da3e-4a15-b637-64a2b84fda8f/media-encoded.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=4ca2c631-19bb-45d4-9773-c34b8cb503b0",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "60360220",
-      "itunes_duration": "01:02:52",
+      "itunes_duration": "01:02:53",
       "speakers": [
         "Charlotte Ritchie",
         "Ed Gamble"
@@ -5637,6 +5657,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-10 — Chloe Petts - Series 22 Ep.2 — speakers: Ed Gamble
 - 2026-09-03 — Reece Shearsmith - Series 22 Ep.1 — speakers: Ed Gamble
 - 2026-08-31 — Taskmaster: The People's Podcast - UK TASKMASTER SERIES 22 STATS AND PREDICTIONS — speakers: Ed Gamble
 - 2026-08-19 — Taskmaster The Podcast Rewind - Champion of Champions S1-5 With Guz Khan — speakers: Ed Gamble
