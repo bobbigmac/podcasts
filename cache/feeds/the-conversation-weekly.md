@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-09-10T11:18:08+00:00`
-- checked_at: `2026-09-10T11:18:08+00:00`
-- etag: `"265101-65b1a7a6b38f5"`
-- last_modified: `Thu, 10 Sep 2026 05:45:41 GMT`
+- fetched_at: `2026-09-10T16:23:30+00:00`
+- checked_at: `2026-09-10T16:23:30+00:00`
+- etag: `"2665a9-65b231151813f"`
+- last_modified: `Thu, 10 Sep 2026 16:00:32 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-09-10T11:18:08+00:00",
+  "fetched_at": "2026-09-10T16:23:30+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,28 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "07398d111cdc7a775f0bfdb814e4f3b7d8d2f3f6",
+      "title": "Ratko Mladić: the war criminal who became a martyr for Bosnian Serbs",
+      "published_at": "2026-09-10T16:00:00+00:00",
+      "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
+      "description": "To most of the world, former Bosnian Serb military general Ratko Mladić was a brutal war criminal whose actions during the Bosnian War killed thousands. For others, he was a martyr who defended the Serbian people. In late August, the 84-year-old died while serving a life sentence in The Hague for war crimes and crimes against humanity. He was laid to rest in Belgrade earlier this week with full military honours - a move which angered the families of the victims of his crimes. On this week's episode of The Conversation Weekly, why a war criminal being celebrated by some as a hero and how this is reopening old wounds in one of Europe’s most divided regions. Read Olivera’s Simic’s article on Mladic’s death and what it means for Bosnia and Herzegovina here . This episode was written and produced by Isabella Podwinski and Justin Bergman. Sound mixing is by Lloyd Barrett and our theme music is by Neeta Sarl. Gemma Ware is our Head of Audio and Ashlynne McGhee is our Head of Editorial Innovation. Misha Ketchell and Stephen Khan are our editors in chief. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. Mentioned in this episode: The We Society Tackling the big questions through a social science lens, the We Society Podcast from the Academy of Social Sciences brings you some of the best ideas to shape the way we live. Join acclaimed journalist and Academy president Will Hutton, as he invites guests from the world of social science to explore the stories behind the news and hear their solutions to society’s most pressing problems.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/22ad90fa-e78c-4aec-8746-48051c1e7867.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "39281325",
+      "itunes_duration": "16:22",
+      "speakers": [
+        "Ratko Mladić",
+        "Gemma Ware"
+      ],
+      "topics": [
+        "ratko",
+        "criminal",
+        "martyr",
+        "serbs"
+      ]
+    },
     {
       "key": "3e3c67d1be4df458fe8eff29e99789376c928735",
       "title": "Inside the booming ‘shadow fleet’ industry keeping rogue states afloat",
@@ -6273,6 +6295,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-10 — Ratko Mladić: the war criminal who became a martyr for Bosnian Serbs — speakers: Ratko Mladić, Gemma Ware
 - 2026-09-03 — Inside the booming ‘shadow fleet’ industry keeping rogue states afloat — speakers: East China Sea, North Korean, Gemma Ware
 - 2026-08-31 — The music that made Dolly Parton a global icon — speakers: Porter Wagoner, Gemma Ware
 - 2026-08-27 — How Ukraine is bringing the war home to Russia — speakers: How Ukraine, Gemma Ware
