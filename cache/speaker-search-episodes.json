@@ -13812,6 +13812,28 @@
     ],
     "sally-phillips": [
       {
+        "feed_slug": "external:apple:c1113ad00295",
+        "feed_title": "The Glitter Effect",
+        "source_rss_url": "https://theglittereffect.com.au/?feed=podcast",
+        "dedupe_key": "85d76e0079f3da17d9142fb6536860c4d9f36080",
+        "episode_key": "85d76e0079f3da17d9142fb6536860c4d9f36080",
+        "title": "Sally Phillips – What happens when the thing you’re good at isn’t the thing you love anymore? 🏀✨",
+        "published_at": "2026-09-10T21:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In this episode of The Glitter Effect, host Kate sits down with former elite athlete and sports agent Sally Phillips to discuss life pivots, identity, and finding purpose beyond the game. Sally reflects on her early sports career—from being identified as a basketball prodigy at age seven and earning a scholarship to th",
+        "audio_url": "https://media.blubrry.com/3953966/theglittereffect.com.au/wp-content/uploads/2026/09/Ep-043-Sally-Phillips.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/sally-phillips-what-happens-when-the-thing-youre-good/id1814522420?i=1000788914929&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Sally Phillips"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:920bd5a9c5cc",
         "feed_title": "Entertainment & Celebrity News Today | 2 Min News | The Daily News Now!",
         "source_rss_url": "https://feeds.fastcast.ai/entertainment-news-daily-news-now.xml",
