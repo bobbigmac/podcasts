@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-09-08T11:17:31+00:00`
-- checked_at: `2026-09-08T11:17:31+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RnNE5ETTJOREF3TnpVPTo6c2F4ZXNz"`
+- fetched_at: `2026-09-11T11:19:38+00:00`
+- checked_at: `2026-09-11T11:19:38+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RreE1ESTRNems0TWpNPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-09-08T11:17:31+00:00",
+  "fetched_at": "2026-09-11T11:19:38+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1aed1c52de7647fb52a1f7a0c49d1c5cba14c310",
+      "title": "The Sexted Exam | And School Rumours",
+      "published_at": "2026-09-11T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/the-sexted-exam-and-school-rumours",
+      "description": "Could YOU still pass a Year 6 exam? Jordan North and William Hanson are about to find out, as the boys put their brains to the ultimate test and attempt to remember ANYTHING they learnt when they were 10 years old. PLUS, they take a trip down memory lane to reminisce about the ICONIC school rumours of the early 00s . Who started them? Which ones did they actually believe? And, most importantly, how on earth did these rumours spread when there wasn’t even an internet?! If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1789051881057-f97b7c60-dbbc-420d-8173-6427fb1dbb0b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6aa2bc51ff47bc548348c10b/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=XF7Q0uaAsZw0_PUEK7tLOPkU3LIEc7fkiT6G85t4DcM",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32370520",
+      "itunes_duration": "33:43",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "sexted",
+        "exam",
+        "school",
+        "rumour"
+      ]
+    },
     {
       "key": "3a5cf3376e5fb74f8a7ef166ff1f797c066fdfb3",
       "title": "Help We’ve Gone Back To School | And William’s Shameful Secret",
@@ -15028,6 +15050,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-11 — The Sexted Exam | And School Rumours — speakers: Jordan North, William Hanson
 - 2026-09-08 — Help We’ve Gone Back To School | And William’s Shameful Secret — speakers: William’s Shameful Secret, William Hanson, Jordan North
 - 2026-09-04 — Has Jordan’s VOICE Changed?! | And Poppins Parody — speakers: William Hanson, Jordan North
 - 2026-09-01 — Help That’s Not My Man Porridge | And Spanish Ironing Boards — speakers: William Hanson, Jordan North

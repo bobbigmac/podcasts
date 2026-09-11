@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-09-04T11:16:34+00:00`
-- checked_at: `2026-09-04T11:16:34+00:00`
-- etag: `"3f8a746ab911843bfdf5df8c4409e3b5"`
-- last_modified: `Fri, 04 Sep 2026 05:00:14 GMT`
+- fetched_at: `2026-09-11T11:19:38+00:00`
+- checked_at: `2026-09-11T11:19:38+00:00`
+- etag: `"8d2c99161d539fe7d38ccbda1447986d"`
+- last_modified: `Fri, 11 Sep 2026 05:00:16 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-09-04T11:16:34+00:00",
+  "fetched_at": "2026-09-11T11:19:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,28 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "f09194e9c54d4298aaf71238dbcdc259fad7b329",
+      "title": "History of Tea: Britain’s stolen brew",
+      "published_at": "2026-09-11T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m0030c3l",
+      "description": "Greg Jenner is joined by Professor Yangwen Zheng and comedian Hugh Dennis to learn about the global history of tea, and how it became Britain’s national drink. Despite its popularity in the UK, much of our tea is grown in India and Kenya, while the tea plant itself is native to China. The story of how it made its way into Britain’s kitchens – and the nation’s hearts – is surprisingly bloody, encompassing war, colonialism, and even botanical theft. This episode charts the global history of tea from its Chinese origins, taking in the Mongol invasions, the contested role of a Portuguese princess in bringing the drink to Britain, the devastation wrought by the Opium Wars, and the theft of tea plants from China to India. Along the way, it also looks at how it moved from the tables of the rich in Britain to become the fuel of the workers, and the moment tea became a matter of national security. If you’re a fan of Chinese history, skulduggery and industrial espionage, and how European colonialism shaped the modern world, you’ll love our episode on the History of Tea. If you want more Chinese history with Professor Yangwen Zheng, listen to our episode on Dowager Empress Cixi. And for more on the history of commodities, check out our episodes on chocolate, coffee and spices. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Siobhan-Michelle Smith and Naomi Weaver Written by: Siobhan-Michelle Smith, Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p2ynk7.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p2yp7z.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52512000",
+      "itunes_duration": "3282",
+      "speakers": [
+        "Greg Jenner",
+        "Yangwen Zheng",
+        "Hugh Dennis"
+      ],
+      "topics": [
+        "history",
+        "britain",
+        "brew"
+      ]
+    },
     {
       "key": "a6ec9c606538c7fef7141019053fc695ef1c4d58",
       "title": "Emperor Constantine the Great: Christianity and the Roman Empire",
@@ -6181,6 +6203,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-11 — History of Tea: Britain’s stolen brew — speakers: Greg Jenner, Yangwen Zheng, Hugh Dennis
 - 2026-09-04 — Emperor Constantine the Great: Christianity and the Roman Empire — speakers: Greg Jenner, Lucy Grig, Ivo Graham
 - 2026-08-28 — History of Underwear: from shirts and stays to bras and briefs — speakers: Greg Jenner, Serena Dyer, Vic Micha
 - 2026-08-21 — Akhenaten and Nefertiti: religious revolution in ancient Egypt — speakers: Greg Jenner

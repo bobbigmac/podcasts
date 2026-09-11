@@ -2,8 +2,8 @@
 
 - slug: `peacock-and-gamble`
 - source: `https://www.fubarradio.com/player/on-demand/peacock-and-gamble/`
-- fetched_at: `2026-09-11T04:39:13+00:00`
-- checked_at: `2026-09-11T04:39:13+00:00`
+- fetched_at: `2026-09-11T11:19:38+00:00`
+- checked_at: `2026-09-11T11:19:38+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/peacock-and-gamble/",
   "image_url": "",
-  "fetched_at": "2026-09-11T04:39:13+00:00",
+  "fetched_at": "2026-09-11T11:19:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "4bb746c1669166d05fe8b13b038101517a75920f",
+      "guid": "74f9de45-3f87-4e26-82a2-e1eb5430168f",
+      "title": "Peacock and Gamble (11th September)",
+      "published_at": "2026-09-11T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/peacock-and-gamble-11th-september1/",
+      "description": "You won't have to download these 'podcast comedy kings'. They're already 100 live and unleashed, except *cough* when they're repeated.",
+      "image_url": "https://mm.aiircdn.com/177/783129.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1789121050-peacock_and_gamble.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=74f9de45-3f87-4e26-82a2-e1eb5430168f&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "57d3db462cde8428540cc45ac7521a320c988210",
       "guid": "0440306d-4b62-4dd6-85ff-8a45f1cfcdfa",
@@ -3086,6 +3099,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-11 — Peacock and Gamble (11th September)
 - 2026-09-04 — Peacock and Gamble (4th September)
 - 2026-08-28 — Peacock and Gamble (28th August)
 - 2026-08-21 — Peacock and Gamble (21st August)
