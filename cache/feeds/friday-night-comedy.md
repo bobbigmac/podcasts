@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-09-04T20:45:16+00:00`
-- checked_at: `2026-09-04T20:45:16+00:00`
-- etag: `"7be2bb64208a2ad85fd962cb24eb8ff3"`
-- last_modified: `Fri, 04 Sep 2026 18:00:03 GMT`
+- fetched_at: `2026-09-11T20:57:41+00:00`
+- checked_at: `2026-09-11T20:57:41+00:00`
+- etag: `"f7f4e69d9d2416b6642851a2e729f17c"`
+- last_modified: `Fri, 11 Sep 2026 18:00:04 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p4c71q.jpg",
-  "fetched_at": "2026-09-04T20:45:16+00:00",
+  "fetched_at": "2026-09-11T20:57:41+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,25 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "171a970102926a96b2b00b4e1d862d766f1fc517",
+      "title": "The News Quiz: Ep1. The Burnham bounce?",
+      "published_at": "2026-09-11T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p7z0bg",
+      "description": "Is it too soon for the \"Burnham bounce\"? Can you rent No 10 Downing Street for £55 a night? How are laundry rooms going to save prisons? It's all up for discussion this week. Your panel is Pierre Novellie, Alasdair Beckett-King, Coco Khan and Kyrah Gray. Written by Andy Zaltzman. With additional material by: Adrian Gray, Alice Etches, Pravanya Pillay and Mike Shephard Producer: Georgia Keating Executive Producer: Richard Morris Production Coordinator: Giulia Lopes Mazzu Sound Editor: Marc Willcox A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p81k4c.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27040000",
+      "itunes_duration": "1690",
+      "speakers": [],
+      "topics": [
+        "news",
+        "quiz",
+        "burnham",
+        "bounce"
+      ]
+    },
     {
       "key": "724ce1deafa7d286a777616c6198d8cc60e0389b",
       "title": "The People Have Spoken Ep3. British Maple Syrup",
@@ -5479,24 +5498,6 @@
         "quiz",
         "september"
       ]
-    },
-    {
-      "key": "9b6aa916abc58710d1914ac7223c5f01bd18504f",
-      "title": "News Quiz 10th September 2021",
-      "published_at": "2021-09-10T18:10:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09vns1n",
-      "description": "Andy and the team talk tax hikes, the Taliban, Texas, and tennis stars.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p4c71q.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09vncbb.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26576000",
-      "itunes_duration": "1661",
-      "speakers": [],
-      "topics": [
-        "news",
-        "quiz",
-        "september"
-      ]
     }
   ]
 }
@@ -5505,6 +5506,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-11 — The News Quiz: Ep1. The Burnham bounce?
 - 2026-09-04 — The People Have Spoken Ep3. British Maple Syrup — speakers: Ian Smith, Cody Dahler
 - 2026-08-28 — The People Have Spoken Ep2. Fed Up With War! — speakers: Ian Smith, Harriet Kemsley
 - 2026-08-21 — The People Have Spoken Ep1. Andy Cool'em Down'em — speakers: Andy Cool'em Down'em, Ian Smith, Maisie Adam
@@ -5764,4 +5766,3 @@
 - 2021-10-01 — News Quiz 1st October 2021 — speakers: Lucy Porter, Angela Barnes, Alun Cochrane, Matt Forde, Andy Zaltzman
 - 2021-09-24 — News Quiz 24th September 2021 — speakers: Hugo Rifkind, Susie McCabe, Ria Lina, Andrew Maxwell
 - 2021-09-17 — News Quiz 17th September 2021 — speakers: Andy Zaltzman, Paul Sinha, Neil Delamere
-- 2021-09-10 — News Quiz 10th September 2021
