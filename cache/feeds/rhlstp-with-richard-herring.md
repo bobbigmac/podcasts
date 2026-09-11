@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-09T04:40:37+00:00`
-- checked_at: `2026-09-09T04:40:37+00:00`
-- etag: `"djEuMi4wOjE3ODg5MjI2NTkzNDE="`
+- fetched_at: `2026-09-11T04:39:13+00:00`
+- checked_at: `2026-09-11T04:39:13+00:00`
+- etag: `"djEuMi4wOjE3ODkwOTU0NTkzMjI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-09T04:40:37+00:00",
+  "fetched_at": "2026-09-11T04:39:13+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "381e951479378adbeb81792b223d26dc17fbe7db",
+      "title": "Rachael Stirling on All About My Mother - Book Club",
+      "published_at": "2026-09-11T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #193 - All About My Mother - Richard chats with actor and now brilliant writer, Rachael Stirling about her biography of her mother, Diana Ring, All About My Mother. They discuss how you remain objective when you are writing about a relative, how as well as being a wonderful portrait of Rigg, this is a book about mothers and daughters and the love and complications that entails and also the power of talking about intimate moments like squeezing cysts or biting your baby’s bum. Also find out how Rachael cashed in her laminated shag card, Benny Hill’s awful seduction technique, why Rachael’s Bond audition did not go as well as her mother’s and why she eats a tiny bit of her mum’s ashes on the first night of a play. It’s a very open and lovely interview about a really excellent book, so buy it now Buy the book here - https://uk.bookshop.org/p/books/all-about-my-mother-diana-rigg-lives-on-in-her-daughter-s-game-changing-glitter-cannon-of-a-book-caitlin-moran-rachael-stirling/4c547c7d1d0107af SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1788972216863-9ef6d6f6-cf80-4c95-b0b9-16017988c7b6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aa18c556389ebc581587a07/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "21306305",
+      "itunes_duration": "44:23",
+      "speakers": [
+        "Rachael Stirling",
+        "Richard Herring"
+      ],
+      "topics": [
+        "rachael",
+        "stirling",
+        "mother",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "05da17a4eb045db0023761654aea6b23ed93bcf6",
       "title": "Mhairi Black - \"Maths is Sh*te\"",
@@ -23788,6 +23811,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-11 — Rachael Stirling on All About My Mother - Book Club — speakers: Rachael Stirling, Richard Herring
 - 2026-09-09 — Mhairi Black - "Maths is Sh*te" — speakers: Mhairi Black, Richard Herring
 - 2026-09-08 — Rich and Ally's Craven Newsround Compilation - Aunty Christ — speakers: Richard Herring
 - 2026-09-07 — Thanyia Moore (Retro) - "The Drug Rats of Porthcawl" — speakers: Thanyia Moore, Richard Herring

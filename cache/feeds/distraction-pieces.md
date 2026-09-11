@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-09-09T04:40:37+00:00`
-- checked_at: `2026-09-09T04:40:37+00:00`
-- etag: `"djEuMi4wOjE3ODg5MjQwMzkyMjg="`
+- fetched_at: `2026-09-11T04:39:13+00:00`
+- checked_at: `2026-09-11T04:39:13+00:00`
+- etag: `"djEuMi4wOjE3ODkwOTY4MzkzMjY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-09-09T04:40:37+00:00",
+  "fetched_at": "2026-09-11T04:39:13+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a9423337d05ec98be61c76531489b9af898e92bc",
+      "title": "HIMESH PATEL (The Odyssey / Bait / Tenet) • Friday Rewind",
+      "published_at": "2026-09-11T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with HIMESH PATEL , originally episode 342 from 2020-09-02. Original writeup below: A very nice chat which encompasses everything in Himesh’s inspirational rise to well earned fame and recognition, from those early days in acting school and his relationship with his parents throughout the process, to early gigs and his almost decade long run in Eastenders… Not only that - of course Yesterday comes up, as does Avenue 5, but there’s some ace Chris Nolan-based talk as Himesh stars in 2020’s only(?) blockbuster Tenet! Lovely stuff for your mid-week pick-me-up. Get to know Himesh! PIP'S PATREON PAGE if you're of a supporting nature IMDB THE ODYSSEY YESTERDAY ﻿TENET EASTENDERS PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1788786209552-280bb214-e6aa-48f9-a5fb-ed669ebca633.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6a9eb6f5fe3b7e34fd371213/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "122944225",
+      "itunes_duration": "51:08",
+      "speakers": [],
+      "topics": [
+        "himesh",
+        "patel",
+        "odyssey",
+        "bait",
+        "tenet",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "f0bc88c680c9511fb6f26ccf3afdcc0898dce591",
       "title": "DENZEL CURRY • new album 'ii' out now (with Kenneth Blume) #686",
@@ -19556,6 +19578,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-11 — HIMESH PATEL (The Odyssey / Bait / Tenet) • Friday Rewind
 - 2026-09-09 — DENZEL CURRY • new album 'ii' out now (with Kenneth Blume) #686 — speakers: Kenneth Blume
 - 2026-09-04 — ALISTAIR GREEN (Don't Think So Somehow / The Big Idea) • Friday Rewind
 - 2026-09-02 — ROMESH RANGANATHAN • a very necessary dose of Romesh for your Autumn (podcasts / comedy / TV) #685

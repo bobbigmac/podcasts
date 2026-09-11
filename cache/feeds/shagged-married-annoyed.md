@@ -2,9 +2,9 @@
 
 - slug: `shagged-married-annoyed`
 - source: `https://feeds.megaphone.fm/sma`
-- fetched_at: `2026-08-21T07:06:50+00:00`
-- checked_at: `2026-08-21T07:06:50+00:00`
-- last_modified: `Fri, 21 Aug 2026 05:34:59 GMT`
+- fetched_at: `2026-09-11T04:39:13+00:00`
+- checked_at: `2026-09-11T04:39:13+00:00`
+- last_modified: `Fri, 11 Sep 2026 04:08:16 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/user-171851892",
   "description": "The only way Rosie and Chris Ramsey can have a conversation without being interrupted by a toddler or ending up staring at their phones is by doing a podcast. They’ll be chatting all about life, relationships, arguments, annoyances, parenting, growing up and everything in between. Each week they will answer questions from the public and a secret celebrity.",
   "image_url": "https://megaphone.imgix.net/podcasts/1626eee6-e21f-11ef-9872-dbdcb48a71b5/image/5ccc62d03ebf7d95593bec30a3fbb03a.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-08-21T07:06:50+00:00",
+  "fetched_at": "2026-09-11T04:39:13+00:00",
   "owners": [
     "Chris Ramsey",
     "Rosie Ramsey"
@@ -27,6 +27,141 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c8bded2637d9d64f517271cf8671dc73b181fa71",
+      "title": "Bro Dad, The Agadoo, and sooo many Lady Birds!",
+      "published_at": "2026-09-11T04:00:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed there is a lot going on and the new feature is popping off! Thanks for all your brilliant voice notes and emails sharing your sayings that other people say... Plus this week Chris has a new nickname and shares his joy of packing cubes, Rosie reveals some crime drama grievances and the campaign to keep The Agadoo alive starts here! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6282350399.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3856",
+      "speakers": [
+        "Bro Dad",
+        "Lady Birds",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "agadoo",
+        "lady",
+        "birds"
+      ]
+    },
+    {
+      "key": "d9b6ac6bbc1abcfe8d4e2dc9528df8b9285bbda1",
+      "title": "Please Keep Me Anonymous with Rachel Parris",
+      "published_at": "2026-09-09T02:56:00+00:00",
+      "link": null,
+      "description": "We are back! After delivering you some of our best bits throughout the summer we are back with a brand new 'Please Keep Me Anonymous'. This week joining Chris and Rosie is British comedian and writer, Rachel Parris! The trio discuss period dramas and how you can tell your age by which Mr Darcy you fancy, they talk about getting emotional on stage and they even touch on politics - by accident! All of this plus a brilliant story from a listener. *TRIGGER WARNING* This episode contains a very brief discussion around miscarriage. You can catch Rachel in her show 'The Rachel Parris Songbook' for tickets visit rachelparris.co.uk If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/04c722d4-aaae-11f1-a9d7-4bd813480236/image/945077f8659d2f346a9cb9acf9ec560f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR5727526824.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2434",
+      "speakers": [
+        "Rachel Parris",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "rachel",
+        "parris"
+      ]
+    },
+    {
+      "key": "03311421a3a13feac1a10441860944aaa59bb171",
+      "title": "An Irish Goodbye, a big life event, and some serious blephing",
+      "published_at": "2026-09-04T04:00:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed, Rosie has turned 40, Chris gets emotional over The Nutty Professor and there is a big life event that no-one was expecting! Plus, Rosie devises a new feature, Chris catastrophises over some DJ equipment and the couple start using the word bleph in all the wrong ways. All of this and some non-beefs, questions from the public and a voicemail involving a dating ick and Gru from Despicable Me! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9933214005.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3660",
+      "speakers": [
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "irish",
+        "goodbye",
+        "life",
+        "event",
+        "blephing"
+      ]
+    },
+    {
+      "key": "219ce3fde1c5c4341721f1c0a1f5a08fc7fe030a",
+      "title": "Please Keep Me Anonymous - Best Of Part Five",
+      "published_at": "2026-09-02T02:45:00+00:00",
+      "link": null,
+      "description": "On this week's Please Keep Me Anonymous Best Ofs, we're revisiting Chris and Rosie's chats with Rhys James, Suzi Ruffell, Mel Giedroyc, Greg James and Alice Levine! Mel tells all about her BAFTA wardrobe mishap, Rhys is missing a kidney, Suzi is crushing on Mel C and Alice and Greg delve deep into horse anatomy. All this with hilarious stories sent in by you and read by the guests! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9be15102-a5ff-11f1-9e25-b30469ce20ef/image/be6ac07e458c72b040297b3d891a66a8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR2513087411.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3781",
+      "speakers": [
+        "Anonymous Best Ofs",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "best"
+      ]
+    },
+    {
+      "key": "79dca218d6434d7f5f5a2bb3db8135e74efb2a83",
+      "title": "The Fringe, a curse, and is there a Lavender Marriage on the cards?",
+      "published_at": "2026-08-28T04:11:00+00:00",
+      "link": null,
+      "description": "On this week's Shagged Married Annoyed Rosie reports back from The Fringe and she shares some thoughts about her identity and her 40th Birthday! Chris gives a guide to packing shopping and the pair share the concerns over Escooters! They also discuss curses, dentists, a mugging and working class parents. All of this plus beefs, questions from the public and a voicemail with a mistaken allergy! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6998764026.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3832",
+      "speakers": [
+        "Annoyed Rosie",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "fringe",
+        "curse",
+        "lavender",
+        "marriage",
+        "card"
+      ]
+    },
+    {
+      "key": "fc2da84727b159e0a99f3c00c19b1be0cf656f78",
+      "title": "Please Keep Me Anonymous - Best Of Part Four",
+      "published_at": "2026-08-26T02:45:00+00:00",
+      "link": null,
+      "description": "This week's Please Keep Me Anonymous Best Ofs, features chats and stories with Matt Edmondson and Mollie King, Emma Doran, Joanna Page and Seann Walsh (or is it Shaun Wallace?!) Matt and Mollie chat sensory deprivation tanks, Emma asks Chris and Rosie how they'd feel about being a dominatrix, Seann talks about the shock of seeing Matt Hancock when he entered the Jungle and Joanna's had her tubes tied! All this plus our guests read out some hilarious PKMAs sent in by you! If you want to get involved and have your stories and voice notes included on the podcast, then get in touch! 📧: shaggedmarriedannoyed@gmail.com 📱: 07874 406650 You can watch the podcast on the Shagged Married Annoyed YouTube channel: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ youtube.com/@shagged.married.annoyed Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d31c13c6-9af3-11f1-9784-138a584a3c6b/image/be6ac07e458c72b040297b3d891a66a8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR9951907036.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4274",
+      "speakers": [
+        "Anonymous Best Ofs",
+        "Matt Edmondson",
+        "Chris Ramsey",
+        "Rosie Ramsey"
+      ],
+      "topics": [
+        "anonymous",
+        "best"
+      ]
+    },
     {
       "key": "33e676624d41554642dfbf5c46f45a1d1a368539",
       "title": "A Garage-full of Beef and a Late Night Feast",
@@ -9001,6 +9136,12 @@
 
 ## Episodes (newest first)
 
+- 2026-09-11 — Bro Dad, The Agadoo, and sooo many Lady Birds! — speakers: Bro Dad, Lady Birds, Chris Ramsey, Rosie Ramsey
+- 2026-09-09 — Please Keep Me Anonymous with Rachel Parris — speakers: Rachel Parris, Chris Ramsey, Rosie Ramsey
+- 2026-09-04 — An Irish Goodbye, a big life event, and some serious blephing — speakers: Chris Ramsey, Rosie Ramsey
+- 2026-09-02 — Please Keep Me Anonymous - Best Of Part Five — speakers: Anonymous Best Ofs, Chris Ramsey, Rosie Ramsey
+- 2026-08-28 — The Fringe, a curse, and is there a Lavender Marriage on the cards? — speakers: Annoyed Rosie, Chris Ramsey, Rosie Ramsey
+- 2026-08-26 — Please Keep Me Anonymous - Best Of Part Four — speakers: Anonymous Best Ofs, Matt Edmondson, Chris Ramsey, Rosie Ramsey
 - 2026-08-21 — A Garage-full of Beef and a Late Night Feast — speakers: Chris Ramsey, Rosie Ramsey
 - 2026-08-19 — Please Keep Me Anonymous - Best Of Part Three — speakers: Anonymous Best Ofs, Chris Ramsey, Rosie Ramsey
 - 2026-08-14 — Family Fart Police, Summer Holiday Whinge and Rosie's Packing Crash Out — speakers: Chris Ramsey, Rosie Ramsey

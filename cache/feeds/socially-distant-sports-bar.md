@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-09-09T04:40:37+00:00`
-- checked_at: `2026-09-09T04:40:37+00:00`
-- etag: `"djEuMi4wOjE3ODg5MDk4NzkzNTQ="`
+- fetched_at: `2026-09-11T04:39:13+00:00`
+- checked_at: `2026-09-11T04:39:13+00:00`
+- etag: `"djEuMi4wOjE3ODkwODM0NTkyODM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-09-09T04:40:37+00:00",
+  "fetched_at": "2026-09-11T04:39:13+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,29 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "b71681357cc901438fedf0e4ce514a93a292b508",
+      "title": "Cowboy At The Little Tesco",
+      "published_at": "2026-09-10T23:37:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/cowboy-at-the-little-tesco",
+      "description": "Welcome back to this week’s Socially Distant Sports Bar with Elis James, Mike Bubbins and Steff Garrero. This week, Steff and Elis are attempting to have a perfectly sensible conversation about a sports documentary and a book. Unfortunately, Mike has decided to spend much of that conversation sending them an increasingly large number of photographs of himself dressed as a cowboy while very clearly not working as a cowboy . Cowboy at home. Cowboy out and about. Cowboy going about his normal business. Cowboy, potentially, at the Little Tesco. Between incoming photographs, we do actually manage to discuss some sport. Documentary Mike: Untold — The Testimony of Vince Young The Netflix Untold series turns its attention to former college football superstar and NFL quarterback Vince Young , looking back at his extraordinary rise, the expectations placed upon him and what happened when one of the biggest names in American sport found himself struggling away from the field. https://www.netflix.com/title/82020375 Book Steff: Cyclettes by Tree Abraham Steff brings in Tree Abraham’s Cyclettes , a beautifully unusual book about a life spent cycling — part memoir, part visual diary and part exploration of the places, people and experiences we encounter when travelling around on two wheels. https://link.amazon/B0bPaGwN8 Sport, cycling, fame, expectation and a quite unreasonable number of photographs of Mike Bubbins wearing a cowboy hat. Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6a9e83e3d024784c99628341/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29181492",
+      "itunes_duration": "30:23",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garr",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "cowboy",
+        "little",
+        "tesco"
+      ]
+    },
     {
       "key": "e718b69dc9af6649cf789251604e60f199c4aeea",
       "title": "The Rizla Stadium",
@@ -15897,6 +15920,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-10 — Cowboy At The Little Tesco — speakers: Elis James, Mike Bubbins, Steff Garr, Steff Garrero
 - 2026-09-08 — The Rizla Stadium — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-05 — Sing: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-03 — Give Him A Passport — speakers: Mike Bubbins, Elis James, Steff Garrero
