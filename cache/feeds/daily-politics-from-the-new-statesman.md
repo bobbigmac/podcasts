@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-09-10T20:51:55+00:00`
-- checked_at: `2026-09-10T20:51:55+00:00`
-- etag: `"djEuMi4wOjE3ODkwNjE1MTA2Njk="`
+- fetched_at: `2026-09-12T20:32:46+00:00`
+- checked_at: `2026-09-12T20:32:46+00:00`
+- etag: `"djEuMi4wOjE3ODkyMjg4MzkzNTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-09-10T20:51:55+00:00",
+  "fetched_at": "2026-09-12T20:32:46+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "200c54e23845b13eddc707ebec4330973d896e23",
+      "title": "Farage’s fan club doesn’t care about scandal",
+      "published_at": "2026-09-12T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/farages-fan-club-doesnt-care-about-scandal",
+      "description": "The fallout from Reform’s latest scandal, John Healey’s first major speech as Chancellor and Ukraine’s plan to tax porn stars. Anoosh Chakelian and Will Dunn discuss the stories of the week. Read: https://www.newstatesman.com/politics/uk-politics/2026/09/the-gospel-according-to-nigel-paul-farage LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1789051769232-c69ddb62-eabc-4bca-b845-f0b1644ce2c3.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6aa2c2f711d9c482aec093c3/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54898748",
+      "itunes_duration": "28:28",
+      "speakers": [
+        "John Healey",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "farage",
+        "club",
+        "scandal"
+      ]
+    },
     {
       "key": "cd71c5574168974c1e4b314eb7804e6ad66fa1a4",
       "title": "Ed Miliband resets relations with Israel",
@@ -32356,6 +32378,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-12 — Farage’s fan club doesn’t care about scandal — speakers: John Healey, Anoosh Chakelian, Oli Dugmore
 - 2026-09-10 — Ed Miliband resets relations with Israel — speakers: Ed Miliband, Anoosh Chakelian, Oli Dugmore
 - 2026-09-05 — Andy Burnham can’t explain the economy — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-03 — Burnham vs Badenoch: PMQs, round one — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
