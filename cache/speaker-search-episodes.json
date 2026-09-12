@@ -11859,6 +11859,28 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:5a46c54e4129",
+        "feed_title": "The Chris Evans Show with Moneybox",
+        "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",
+        "dedupe_key": "2460fd17b2e60b8e3bc141ab6ec456011749ce55",
+        "episode_key": "2460fd17b2e60b8e3bc141ab6ec456011749ce55",
+        "title": "The one with Harriet Kemsley",
+        "published_at": "2026-09-11T11:50:34Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "The hilarious Harriet Kemsley brought the laughs with news of her UK stand up tour, Floozy.\n\n Hosted on Acast. See acast.com/privacy for more information.",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/chrisevansvirginuk/e/6aa3e9b12e8bb8424c999880/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-one-with-harriet-kemsley/id1450650136?i=1000789037711&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:5773c2bc26d9",
         "feed_title": "Maisie Adam Presents: Comedy At the Fringe",
         "source_rss_url": "https://rss.art19.com/maisie-adam-presents-comedy-at-the-fringe",
@@ -13009,6 +13031,28 @@
       }
     ],
     "richard-herring": [
+      {
+        "feed_slug": "external:apple:8cc4a7996941",
+        "feed_title": "The Chris Moyles Show on Radio X Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/the-chris-moyles-show",
+        "dedupe_key": "b1dac10705beca369e4498df52b59c97b2f8775b",
+        "episode_key": "b1dac10705beca369e4498df52b59c97b2f8775b",
+        "title": "Teri Hatcher, The Proclaimers, Will Lovelace and Dylan Southern, Jamie Oliver, Paddy Pimblett, and Richard Herring #563",
+        "published_at": "2026-09-11T13:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Woah, woah, woah, woah! Stop right there! Where do you think you’re going? Off to listen to The Chris Moyles Show podcast? Alright then - we’ll let you through…\nThis week was a huge week. Nay, a gigantic week. The kind of week packed to the rafters with famous faces, brilliant stories and more star power than you can s",
+        "audio_url": "https://episodes.captivate.fm/episode/72893a37-68dd-436a-be19-c9e9d1523395.mp3?aw_0_1st.showid=ed87f36a-7b44-4e79-beea-f3220752406c&aw_0_1st.episodeid=72893a37-68dd-436a-be19-c9e9d1523395",
+        "link_url": "https://podcasts.apple.com/gb/podcast/teri-hatcher-the-proclaimers-will-lovelace-and/id1042635536?i=1000789052752&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:96594d663a6c",
         "feed_title": "Richard Herring's Leicester Square Theatre Podcast (RHLSTP)",
