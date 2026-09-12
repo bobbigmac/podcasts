@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-11T04:39:13+00:00`
-- checked_at: `2026-09-11T04:39:13+00:00`
-- etag: `"djEuMi4wOjE3ODkwOTU0NTkzMjI="`
+- fetched_at: `2026-09-12T15:31:18+00:00`
+- checked_at: `2026-09-12T15:31:18+00:00`
+- etag: `"djEuMi4wOjE3ODkyMDk1NjQ4NTU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-11T04:39:13+00:00",
+  "fetched_at": "2026-09-12T15:31:18+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "1aa83fbc4d52844a1580d118fb24fddc119828ef",
+      "title": "Rich and Ally's Craven Newsround Compilation - Monkey Glue",
+      "published_at": "2026-09-12T10:39:24+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Tuesday 8th September - Monkey Glue - Rich and Ally get a visit from the politician who never listens, before looking into the blackheads of Dover and their multiple use balaclavas. Plus why the RNLI are the worst people in Britain. Wednesday 9th September 2026- Eleclution- Rich is in the news again (broadly speaking) but only on Newsround will you find out the real reasons. But the other less important news that no one would lead with is the 10% chance of the extermination of humanity. But don’t worry about that… Thursday 10th September 2026 - Black Shorts - Rich and Ally are today looking at what it’s appropriate for politicians to offer the electorate if they win. It’s better than it sounds. But not much better. Friday September 11th 2026 - Tinned Fish Aficionado - The Lame Stream Media is trying to bury today’s main news story beneath something that happened a quarter of a century ago and they don’t even have the right date. Rich and Ally are here to put that right. And by God they really go deep into this thing. Strap in. This is going to be as hard for you as it is for me. Welcome to all the Chris Moyles listeners. This is not a typical ep. Get a Thank You Moriarty T shirt if you’re quick (and of the right size) at http://gofasterstripe.com/ally See RHLSTP in real life http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1789209122040-78b32fc9-b9f2-453c-9ba6-2844544677a5.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aa52bdc2e8bb8424cdcc4f8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "46673664",
+      "itunes_duration": "1:37:14",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "Monkey Glue Tuesday",
+        "Monkey Glue",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "monkey",
+        "glue"
+      ]
+    },
     {
       "key": "381e951479378adbeb81792b223d26dc17fbe7db",
       "title": "Rachael Stirling on All About My Mother - Book Club",
@@ -23811,6 +23837,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-12 — Rich and Ally's Craven Newsround Compilation - Monkey Glue — speakers: Craven Newsround Compilation, Monkey Glue Tuesday, Monkey Glue, Richard Herring
 - 2026-09-11 — Rachael Stirling on All About My Mother - Book Club — speakers: Rachael Stirling, Richard Herring
 - 2026-09-09 — Mhairi Black - "Maths is Sh*te" — speakers: Mhairi Black, Richard Herring
 - 2026-09-08 — Rich and Ally's Craven Newsround Compilation - Aunty Christ — speakers: Richard Herring
