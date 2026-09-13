@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-09-09T04:40:37+00:00`
-- checked_at: `2026-09-09T04:40:37+00:00`
-- etag: `"djEuMi4wOjE3ODg5MTczMTQyNTk="`
+- fetched_at: `2026-09-13T04:46:11+00:00`
+- checked_at: `2026-09-13T04:46:11+00:00`
+- etag: `"djEuMi4wOjE3ODkyNjg0MzkzNTY="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-09-09T04:40:37+00:00",
+  "fetched_at": "2026-09-13T04:46:11+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "b8e7796ee34b46bd574206f6d09d7fb6e2eae3b7",
+      "title": "S6 EP1: Rob Rouse",
+      "published_at": "2026-09-13T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/s6-ep1-rob-rouse",
+      "description": "We're back! After a short break to wrangle the live shows in Dublin and London, the end of the Edinburgh festival, and multi-country podcast team member logistics, it's now time for series 6. We hope you haven't forgotten about us in the gap!! Joining us on this episode of '⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠What did you do yesterday?⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠' is the comedian Rob Rouse. We asked Rob what he did yesterday? He told us. That's it... enjoy! Are you 'IN IT FOR LIFE'? Sign up HERE if you are. You'll get early access to the episodes every week. An exclusive bonus episode each week! Pre-sale access to any WDYDY live shows. A tea-towel designed by legendary cartoonist David Squires. Join the yesterday revolution... https://yesterdaypod.supportingcast.fm/ Get in touch with the show: EMAIL: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1789212549588-3ebb3976-0342-43aa-83cb-1bd7873157d8.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6aa53c2fc939da2795f1920d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "210865192",
+      "itunes_duration": "1:27:51",
+      "speakers": [
+        "Rob Rouse",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "rouse"
+      ]
+    },
     {
       "key": "56ce56fe36ad5370ac07b8d29d999f007e961412",
       "title": "Did somebody say new series and fan club update?",
@@ -4058,6 +4078,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-13 — S6 EP1: Rob Rouse — speakers: Rob Rouse, Max Rushden, David O'Doherty
 - 2026-09-09 — Did somebody say new series and fan club update? — speakers: Max Rushden, David O'Doherty
 - 2026-09-02 — WDWDY #86.1: Teabagging the goldfish (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-08-30 — S5 EP11: Danny Wallace — speakers: Danny Wallace, Max Rushden, David O'Doherty

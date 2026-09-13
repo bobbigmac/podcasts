@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-09-11T20:57:41+00:00`
-- checked_at: `2026-09-11T20:57:41+00:00`
-- etag: `"djEuMi4wOjE3ODkxNTg4MDQ5MjQ="`
+- fetched_at: `2026-09-13T04:46:11+00:00`
+- checked_at: `2026-09-13T04:46:11+00:00`
+- etag: `"djEuMi4wOjE3ODkyNTUxMTkyOTg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-09-11T20:57:41+00:00",
+  "fetched_at": "2026-09-13T04:46:11+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,31 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "ff9ff229156829ae0fe5f9a1d7920ac089122ae8",
+      "title": "A Goose To The Face: Pint Size",
+      "published_at": "2026-09-12T23:18:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/a-goose-to-the-face-pint-size",
+      "description": "Welcome to Pint-Sized Distant Pod. We've been back through our archive of episodes and we've selected our favourite stories, anecdotes and funny bits. If you're new to the pod, then feel free to use these as a jump off point to find your way around our earlier episodes. This clip is taken from \"Episode 287: Fabio's Goose\" 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6aa465945b9341944701193a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "28689600",
+      "itunes_duration": "11:57",
+      "speakers": [
+        "Pint Size Welcome",
+        "Sized Distant Pod",
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "goose",
+        "face",
+        "pint",
+        "size"
+      ]
+    },
     {
       "key": "b71681357cc901438fedf0e4ce514a93a292b508",
       "title": "Cowboy At The Little Tesco",
@@ -15920,6 +15945,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-12 — A Goose To The Face: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-10 — Cowboy At The Little Tesco — speakers: Elis James, Mike Bubbins, Steff Garr, Steff Garrero
 - 2026-09-08 — The Rizla Stadium — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-05 — Sing: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero

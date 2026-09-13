@@ -2,8 +2,8 @@
 
 - slug: `the-lucy-porter-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/`
-- fetched_at: `2026-09-06T04:37:18+00:00`
-- checked_at: `2026-09-06T04:37:18+00:00`
+- fetched_at: `2026-09-13T04:46:11+00:00`
+- checked_at: `2026-09-13T04:46:11+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "image_url": "",
-  "fetched_at": "2026-09-06T04:37:18+00:00",
+  "fetched_at": "2026-09-13T04:46:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e9461160229aa4e64c98d33c11fc836d7e110147",
+      "guid": "4703632e-90a3-4eb9-9f35-7ee7b4e05c99",
+      "title": "The Lucy Porter Show (13th September)",
+      "published_at": "2026-09-13T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-lucy-porter-show-13th-september/",
+      "description": "Ever wondered what 'Woman's Hour' would be like if it were uncensored?",
+      "image_url": "https://mm.aiircdn.com/177/420888.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1789272091-the_lucy_porter_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=4703632e-90a3-4eb9-9f35-7ee7b4e05c99&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "9652bc335231b5b1713c901596b6e35a6f47257c",
       "guid": "445e1daa-d269-47bf-9c4e-e9bdaaeffacd",
@@ -1630,6 +1643,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-13 — The Lucy Porter Show (13th September)
 - 2026-09-06 — The Lucy Porter Show (6th September)
 - 2026-08-30 — The Lucy Porter Show (30th August)
 - 2026-08-23 — The Lucy Porter Show (23rd August)
