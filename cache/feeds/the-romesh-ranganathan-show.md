@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-09-09T23:14:27+00:00`
-- checked_at: `2026-09-09T23:14:27+00:00`
-- last_modified: `Wed, 09 Sep 2026 23:01:00 GMT`
+- fetched_at: `2026-09-13T23:09:33+00:00`
+- checked_at: `2026-09-13T23:09:33+00:00`
+- last_modified: `Sun, 13 Sep 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-09T23:14:27+00:00",
+  "fetched_at": "2026-09-13T23:09:33+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -26,6 +26,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "fd007beeb2f90cc228fcdc1bd7f2d24626dc6cbc",
+      "title": "Jamie Oliver On Flying at 51, Real Fast Food & School Dinners",
+      "published_at": "2026-09-13T23:01:00+00:00",
+      "link": null,
+      "description": "What really happened with Jamie Oliver's school dinners? In this Monday episode of The Romesh Ranganathan Show, Romesh is joined by one of the UK’s best-known chefs, Jamie Oliver. Jamie talks about life after 50, his career in the kitchen and what keeps him motivated after decades in the food industry. He also reveals what it’s really like to work in a high-pressure kitchen, whether restaurant food has ruined the experience of eating out and the truth behind kitchen hazing. Elsewhere, Jamie critiques Shanthi's best dishes, we get into the neuroscience of food, England's eating habits and what we can learn from the Blue Zones. And, of course, Jamie opens up how his pioneering social enterprise Fifteen led him to campaign for healthier school dinners featuring the infamous Turkey Twizzler drama that rocked the nation. We also get a sneak peak into his new book, 20 Minute Meals: Real Fast Food, which is out now. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 03:40 Vegan lasagna 06:07 Being in your 50s 08:38 Working in the food industry 11:37 A gift from Shanthi 12:27 Jamie talks through Shanthi’s curries 14:25 How do you cook a squirrel? 15:39 Another gift for Jamie 16:40 Dogs and their diets 18:50 Does being a chef ruin the restaurant experience? 22:00 The neuroscience of food 22:59 Ratatoullie & The Bear 24:45 Is the kitchen that high pressure? 26:14 Is kitchen hazing true? 30:38 What keeps Jamie in the game? 31:57 Where did campaign Jamie come from? 36:26 The Turkey Twizzler debacle 37:37 School Dinners 47:23 The nations eating habits 49:08 What are they doing in the blue zones? 50:50 20 Minute Meals 56:15 Why cook over buy? 59:35 A question from Shanthi on the sesh 01:04:22 Getting a pilots license 01:10:30 On being a bit more selfish 01:14:32 Misquoted 01:19:20 An exclusive 01:21:57 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/20c825b8-ae0b-11f1-97ce-67fa4d6fb58f/image/b374e3ce8becaf660d0f3c787a552b40.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT6256005337.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5151",
+      "speakers": [
+        "Jamie Oliver",
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "jamie",
+        "oliver",
+        "fast",
+        "food",
+        "school",
+        "dinners"
+      ]
+    },
     {
       "key": "eb3c3ec69ffeec687617fea8b587ca2492ec1c63",
       "title": "Gangsters, Weddings & Unusual Habits",
@@ -2343,6 +2367,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-13 — Jamie Oliver On Flying at 51, Real Fast Food & School Dinners — speakers: Jamie Oliver, Romesh Ranganathan
 - 2026-09-09 — Gangsters, Weddings & Unusual Habits — speakers: Shanthi special, Romesh Ranganathan
 - 2026-09-06 — Ray Winstone on The Gentlemen, Gangster Etiquette, and Strictly Come Dancing — speakers: Ray Winstone, Romesh Ranganathan
 - 2026-09-02 — Shanthi's £35K Garden Room, A Big Apology & Conspiracy Theories — speakers: Garden Room, Big Apology, Conspiracy Theories Should Shanthi, Romesh Ranganathan

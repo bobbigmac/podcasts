@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-09-10T23:10:19+00:00`
-- checked_at: `2026-09-10T23:10:19+00:00`
-- etag: `"djEuMi4wOjE3ODkwODEzNTkyOTg="`
+- fetched_at: `2026-09-13T23:09:33+00:00`
+- checked_at: `2026-09-13T23:09:33+00:00`
+- etag: `"djEuMi4wOjE3ODkzNDA1NTkyNzY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-09-10T23:10:19+00:00",
+  "fetched_at": "2026-09-13T23:09:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "830bdce2efd9d26e5b2ff388c946ac42d987ac2e",
+      "title": "Ep. 605 - Mark Stuckey - BBC One’s The Repair Shop’s electronics expert",
+      "published_at": "2026-09-13T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-605-mark-stuckey-bbc-ones-the-repair-shops-electronics-ex",
+      "description": "Mark Stuckey is the much-loved electronics expert from BBC One’s The Repair Shop , where he brings treasured radios, televisions and vintage technology back to life. But there’s far more to Mark than electronics. For decades he was a professional magician, before working behind the scenes on Red Dwarf and developing projects with legendary producers Gerry Anderson and Peter Rogers — all under an alter ego. His extraordinary life, including family estrangement, a devastating house fire and his relentless quest to understand how things work, is told in his new memoir Bright Spark , published on 24 September . Mark Stuckey is our guest in episode 605 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Buy Mark Stuckey’s memoir Bright Spark , here - https://www.waterstones.com/book/bright-spark/mark-stuckey/oliver-crocker/9781918517088 . Visit our website! - https://mytimecapsulepodcast.com . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6aa297027d9d1b1678b6a467/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "65972683",
+      "itunes_duration": "54:58",
+      "speakers": [
+        "Mark Stuckey Bbc",
+        "Mark Stuckey"
+      ],
+      "topics": [
+        "mark",
+        "stuckey",
+        "repair",
+        "shop",
+        "electronic",
+        "expert"
+      ]
+    },
     {
       "key": "26c790c879a88fdf30dea7f1f55dae92938ebe8a",
       "title": "My Time Capsule The Dig - Ep. 17 - With Tim McInnerny (Blackadder, Notting Hill, Gladiator II, Game of Thrones)",
@@ -13450,6 +13474,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-13 — Ep. 605 - Mark Stuckey - BBC One’s The Repair Shop’s electronics expert — speakers: Mark Stuckey Bbc, Mark Stuckey
 - 2026-09-10 — My Time Capsule The Dig - Ep. 17 - With Tim McInnerny (Blackadder, Notting Hill, Gladiator II, Game of Thrones) — speakers: Tim McInnerny, Notting Hill
 - 2026-09-06 — Ep. 604 - Mari Wilson - Best known for the 1982 hit ‘Just What I Always Wanted’ — speakers: Mari Wilson
 - 2026-09-03 — My Time Capsule The Dig - Ep. 16 - With Nigel Planer! — speakers: Nigel Planer
