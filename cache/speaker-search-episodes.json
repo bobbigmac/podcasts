@@ -39899,6 +39899,28 @@
     ],
     "david-mitchell": [
       {
+        "feed_slug": "external:apple:aa6100e9816b",
+        "feed_title": "Postmormon Postmortem",
+        "source_rss_url": "https://anchor.fm/s/105f8cbe4/podcast/rss",
+        "dedupe_key": "b32de068a535176ec2aa56fb5d459fd03316684a",
+        "episode_key": "b32de068a535176ec2aa56fb5d459fd03316684a",
+        "title": "Elizabeth Smart Part 2: Brian David Mitchell & Wanda Barzee: The Making of Immanuel & Hephzibah",
+        "published_at": "2026-09-12T23:14:27Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In part 2 of Elizabeth Smart, we offer a prequel, going back through the lives of Brian David Mitchell and Wanda Barzee before June 2002: their childhoods, marriages, Mormon lives, family relationships, and the religious system they built before they kidnapped fourteen-year-old Elizabeth Smart.\nWe trace Mitchell’s hist",
+        "audio_url": "https://anchor.fm/s/105f8cbe4/podcast/play/125650235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-12%2F431774484-44100-2-759efc0d0f715.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/elizabeth-smart-part-2-brian-david-mitchell-wanda-barzee/id1871046580?i=1000789225231&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:920bd5a9c5cc",
         "feed_title": "Entertainment & Celebrity News Today | 2 Min News | The Daily News Now!",
         "source_rss_url": "https://feeds.fastcast.ai/entertainment-news-daily-news-now.xml",
