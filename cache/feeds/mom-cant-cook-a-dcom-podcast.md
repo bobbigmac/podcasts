@@ -2,9 +2,9 @@
 
 - slug: `mom-cant-cook-a-dcom-podcast`
 - source: `https://rss.art19.com/mom-cant-cook`
-- fetched_at: `2026-08-31T13:47:42+00:00`
-- checked_at: `2026-08-31T13:47:42+00:00`
-- last_modified: `Mon, 31 Aug 2026 13:45:59 GMT`
+- fetched_at: `2026-09-14T12:44:44+00:00`
+- checked_at: `2026-09-14T12:44:44+00:00`
+- last_modified: `Mon, 14 Sep 2026 06:30:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://art19.com/shows/mom-cant-cook",
   "description": "Join Luke Westaway and Andy Farrant as they talk about cinema's greatest achievement: Disney Channel Original Movies. From X-TREME rollerblading, to Mermen, to homicidal smart homes, there's something for everyone in these brilliant, baffling films. Also, usually the mom character in the film is unable to cook, and this is considered richly comic. Hence the name.",
   "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
-  "fetched_at": "2026-08-31T13:47:42+00:00",
+  "fetched_at": "2026-09-14T12:44:44+00:00",
   "owners": [
     "Luke Westaway",
     "Andy Farrant"
@@ -28,11 +28,31 @@
   ],
   "episodes": [
     {
+      "key": "688b500f5abda5f491d7a4200419fc99808305aa",
+      "title": "A Sound of Thunder",
+      "published_at": "2026-09-14T06:30:00+00:00",
+      "link": null,
+      "description": "It is the year 2055. Time travel has been invented and of course, people are using it for the only reason anyone would want to use time travel: to go back to prehistory and shoot an allosaurus with one million lasers. That's the service offered by Time Safari, the private company run by Ben Kingsley and his distracting hair, who take great pains to ensure that nothing in the past is changed due to the catastrophic consequences it could have for the present. But when time waves start buffeting future Chicago it becomes clear that something has gone wrong and it's up to expedition leader Travis Ryer to figure out what happened before everyone evolves into sad catfish monsters and gets eaten by thousands of beetles. Can the time waves be stopped? Why are there super baboons everywhere? And did Ray Bradbury see this movie before he died? We sure hope not! Vote for Mom Can't Cook! in the British Podcast Awards! If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched A Sound of Thunder and have your own thoughts, please email us at momcantcookpod@gmail.com for a chance to have your comments read out on the show. Next time on Mom Can't Cook! we'll be watching 1998's Mr. Headmistress. See you then! This episode is sponsored by NordVPN! Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ https://nordvpn.com/momcantcook . Itʼs risk free with NordVPNʼs 30-day money-back guarantee! This episode is also sponsored by Saily. Get an exclusive 15% discount on Saily data plans! Use code momcantcook at checkout. Download Saily app or go to saily.com/momcantcook Thanks to sponsor Green Chef! Head to greenchef.com/50momcantcook and use code 50momcantcook to get fifty percent off your first month, then twenty percent off for two months. This episode is also sponsored by Insert Coin Clothing! Visit insertcoinclothing.com and use code SAFARITHECONSEQUENCES for 10% off online orders. Codes are not applicable on charity items, bundles, gift cards, postage and some products at launch. Codes cannot be combined with other deals or promotions and are valid until the end of 2026. Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
+      "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/tracking.swap.fm/track/IVPmvUWSCISCVAzWNnnJ/rss.art19.com/episodes/8afaab81-ab8d-47c6-beac-98685d64bbba.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "142648215",
+      "itunes_duration": "02:28:35",
+      "speakers": [
+        "Luke Westaway",
+        "Andy Farrant"
+      ],
+      "topics": [
+        "sound",
+        "thunder"
+      ]
+    },
+    {
       "key": "d902ac22570f472c54914cd96e8e1f11a33a487b",
       "title": "Camp Rock 3",
       "published_at": "2026-08-31T06:30:00+00:00",
       "link": null,
-      "description": "Camp Rock is back! And so are the Jonas Brothers! And we're pretty sure that shape we saw darting around in the rafters was Demi Lovato! It's Camp Rock 3! When Connect 3 need a new opening act for their world tour, they know exactly where to turn: Camp Rock, the rock and roll fantasy camp for the children of millionaires where joe Jonas will teach you how to hip hop dance. But they only need one opening act and the camp is full of a new intake of fresh young superstars-in-waiting. Can Sage, Desi, Fletch, Cliff and Rosie best the challenges set by the Jonas Brothers and come out on top? Or will they fall to bitter infighting and cello based sabotage? Listen and find out! Vote for Mom Can't Cook! in the British Podcast Awards! If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched Gepetto and have your own thoughts, please email us at momcantcookpod@gmail.com for a chance to have your comments read out on the show. Next time on Mom Can't Cook! we'll be watching 2005's A Sound of Thunder. See you then! This episode is sponsored by NordVPN! Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ https://nordvpn.com/momcantcook . Itʼs risk free with NordVPNʼs 30-day money-back guarantee! This episode is also sponsored by Saily. Get an exclusive 15% discount on Saily data plans! Use code momcantcook at checkout. Download Saily app or go to saily.com/momcantcook Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
+      "description": "Camp Rock is back! And so are the Jonas Brothers! And we're pretty sure that shape we saw darting around in the rafters was Demi Lovato! It's Camp Rock 3! When Connect 3 need a new opening act for their world tour, they know exactly where to turn: Camp Rock, the rock and roll fantasy camp for the children of millionaires where joe Jonas will teach you how to hip hop dance. But they only need one opening act and the camp is full of a new intake of fresh young superstars-in-waiting. Can Sage, Desi, Fletch, Cliff and Rosie best the challenges set by the Jonas Brothers and come out on top? Or will they fall to bitter infighting and cello based sabotage? Listen and find out! Vote for Mom Can't Cook! in the British Podcast Awards! If you crave bonus episodes of Mom Can't Cook!, monthly livestream watchalongs, or a shoutout at the end of the show, remember to check out our Patreon at Patreon.com/extrahelpings . If you've watched Camp Rock 3 and have your own thoughts, please email us at momcantcookpod@gmail.com for a chance to have your comments read out on the show. Next time on Mom Can't Cook! we'll be watching 2005's A Sound of Thunder. See you then! This episode is sponsored by NordVPN! Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ https://nordvpn.com/momcantcook . Itʼs risk free with NordVPNʼs 30-day money-back guarantee! This episode is also sponsored by Saily. Get an exclusive 15% discount on Saily data plans! Use code momcantcook at checkout. Download Saily app or go to saily.com/momcantcook Contact Multitude for Advertising Inquiries: multitude.productions/ads Check out the official Mom Can't Cook! store for sweet merch and check out Mom Can't Cook! Extra Helpings for bonus episodes, ad free episodes, monthly watchalongs and more! See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info .",
       "image_url": "https://content.production.cdn.art19.com/images/e4/ca/b6/4f/e4cab64f-78eb-431e-8f1e-0c2c8f6957dd/c3fac786ea2d92dde669c2e1995998695c29a0cb0464f61ec027c556b7f826aaae0bfb64b6db249d634733f2761628f2baecbcf78a1542a4466ae663a73dfc7d.jpeg",
       "enclosure_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/clrtpod.com/m/tracking.swap.fm/track/IVPmvUWSCISCVAzWNnnJ/rss.art19.com/episodes/df8303b5-3090-4189-9e5e-8771829bcb18.mp3?rss_browser=BAhJIhlzdGF0aWMtcG9kY2FzdC1pbmRleAY6BkVU--2656328431f62129a198f06ee2107dc20a8ea57e",
       "enclosure_type": "audio/mpeg",
@@ -2294,6 +2314,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — A Sound of Thunder — speakers: Luke Westaway, Andy Farrant
 - 2026-08-31 — Camp Rock 3 — speakers: Camp Rock, Jonas Brothers, Luke Westaway, Andy Farrant
 - 2026-08-17 — Gepetto — speakers: Luke Westaway, Andy Farrant
 - 2026-08-02 — The Adventures of Food Boy — speakers: Luke Westaway, Andy Farrant

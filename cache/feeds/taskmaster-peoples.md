@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-peoples`
 - source: `https://feeds.captivate.fm/taskmaster-the-peoples-podcast/`
-- fetched_at: `2026-09-07T19:09:23+00:00`
-- checked_at: `2026-09-07T19:09:23+00:00`
-- etag: `"119b73-65ae5e109db4d"`
-- last_modified: `Mon, 07 Sep 2026 15:00:29 GMT`
+- fetched_at: `2026-09-14T12:44:44+00:00`
+- checked_at: `2026-09-14T12:44:44+00:00`
+- etag: `"11a453-65b6ecf43c368"`
+- last_modified: `Mon, 14 Sep 2026 10:22:22 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv/",
   "description": "Introducing Taskmaster: The People’s Podcast, hosted by Series 15's beloved Jenny Eclair alongside Taskmaster aficionado, Jack Bernhardt. Each week, Jenny and Jack take a deep dive into the world of Taskmaster, talking to behind-the-scenes guests, superfans and some of the most beloved Taskmaster characters. This is the official fan podcast from the producers of the BAFTA-winning comedy show. If you want to share your Taskmaster obsession, whether it's talking about your favourite task, what you loved from the latest episode or that you love to whack on a pair of stilts and cosplay as Greg Davies we're all ears. Leave us a message on the Fanswering Machine by sending a voice note on WhatsApp to 07810 025570 or emailing us at fans@taskmaster.tv. Your time starts... NOW!",
   "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
-  "fetched_at": "2026-09-07T19:09:23+00:00",
+  "fetched_at": "2026-09-14T12:44:44+00:00",
   "owners": [
     "Jenny Eclair",
     "Jack Bernhardt"
@@ -28,6 +28,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "82bd8b24b6c8a7da4b04e1ab7c15b4a83cf8682f",
+      "title": "Bean Heavy - S22, Ep.2",
+      "published_at": "2026-09-14T04:00:00+00:00",
+      "link": "https://taskmaster.tv/",
+      "description": "We're fully in to the new series now and it only feels right to start the episode with a bit of Alex Horne fan worship. And, while we get to grips with smile muscles, lucky pants, and the size of beans, we make time to visit some of the more serious questions too: when should pants go into 'oven cleaning mode'? What happened to the cheeses in Jesus? Why doesn't 5,098 beans sound like enough beans? And what is the history behind Giant Monkey? Plus listeners write in with some Greek lessons, the whereabouts of Greg's bin and some news from New Zealand. Send all your series 22 thoughts to: fans@taskmaster.tv.",
+      "image_url": "https://artwork.captivate.fm/474d1ff5-76c4-4983-a6f9-9ff03b1d2208/1694182197404-7d823a16925964567ceff2523e2f0a1b.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/e975ac7b-393c-4ddf-a5f3-03e387879d1c.mp3?aw_0_1st.showid=7e4e8d69-05dc-45a1-9d1b-7673e4f3b90e&aw_0_1st.episodeid=e975ac7b-393c-4ddf-a5f3-03e387879d1c",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70507319",
+      "itunes_duration": "01:09:33",
+      "speakers": [
+        "Jenny Eclair",
+        "Jack Bernhardt"
+      ],
+      "topics": [
+        "bean",
+        "heavy"
+      ]
+    },
     {
       "key": "2ff8c3b79d3aba5dfda32ae8d36dd620698951de",
       "title": "Be Funny or Be Fired - S22, Ep.1",
@@ -4874,6 +4894,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — Bean Heavy - S22, Ep.2 — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-09-07 — Be Funny or Be Fired - S22, Ep.1 — speakers: Nina Conti, Chloe Petts, Matt Lucas, Isy Sutt, Jenny Eclair, Jack Bernhardt
 - 2026-08-31 — UK TASKMASTER SERIES 22 STATS AND PREDICTIONS — speakers: Jenny Eclair, Jack Bernhardt
 - 2026-08-24 — Better With Balloons, Baby! - Taskmaster Denmark S1, Ep. 5 — speakers: Jenny Eclair, Jack Bernhardt

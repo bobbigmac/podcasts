@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-09-13T20:49:13+00:00`
-- checked_at: `2026-09-13T20:49:13+00:00`
-- etag: `"djEuMi4wOjE3ODkzMTk4NzgzNzc="`
+- fetched_at: `2026-09-14T12:44:44+00:00`
+- checked_at: `2026-09-14T12:44:44+00:00`
+- etag: `"djEuMi4wOjE3ODkzODQwNjQ0MjQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,39 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-09-13T20:49:13+00:00",
+  "fetched_at": "2026-09-14T12:44:44+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "c6d07287134b6b13ffa2f5c3d9cb5ffe72a57ea0",
+      "title": "Peter Oborne on Nigel Farage's downfall, and Labour's Palestine U-turn",
+      "published_at": "2026-09-14T11:07:44+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6aa6dac6b54f356fc7709a72",
+      "description": "Ava was joined by journalist for the Middle East Eye and author of Complicit, Peter Oborne. They break down the latest scandal engulfing Nigel Farage, and the Labour Party's change of heart on Palestine, by slapping sanctions on illegal Israeli settlements in the West Bank. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6aa6dac6b54f356fc7709a72/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49799572",
+      "itunes_duration": "34:33",
+      "speakers": [
+        "Peter Oborne",
+        "Palestine U-turn"
+      ],
+      "topics": [
+        "peter",
+        "oborne",
+        "nigel",
+        "farage",
+        "downfall",
+        "labour",
+        "palestine",
+        "turn"
+      ]
+    },
     {
       "key": "83d35f40dac473a5b0e5ff6cc1180b355f5e1f0f",
       "title": "Gary Stevenson: Tax wealth NOW or prepare for poverty",
@@ -13575,6 +13601,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — Peter Oborne on Nigel Farage's downfall, and Labour's Palestine U-turn — speakers: Peter Oborne, Palestine U-turn
 - 2026-08-02 — Gary Stevenson: Tax wealth NOW or prepare for poverty — speakers: Gary Stevenson
 - 2026-07-26 — Gerry Adams on Andy Burnham, the far-right, and the breakup of the UK — speakers: Gerry Adams, Andy Burnham
 - 2026-07-19 — How The UK Is Letting Silicon Valley Take Over | Beeban Kidron interview — speakers: Beeban Kidron

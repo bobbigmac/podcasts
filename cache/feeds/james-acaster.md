@@ -2,8 +2,8 @@
 
 - slug: `james-acaster`
 - source: `https://www.fubarradio.com/player/on-demand/james-acaster/`
-- fetched_at: `2026-09-14T04:54:49+00:00`
-- checked_at: `2026-09-14T04:54:49+00:00`
+- fetched_at: `2026-09-14T12:44:44+00:00`
+- checked_at: `2026-09-14T12:44:44+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/james-acaster/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/james-acaster/",
   "image_url": "",
-  "fetched_at": "2026-09-14T04:54:49+00:00",
+  "fetched_at": "2026-09-14T12:44:44+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "cdc7cfdf63791af29f986b25bfab4a0a62e5555d",
+      "guid": "ce9c3911-39d2-455d-9de4-bf1da6506851",
+      "title": "James Acaster (14th September)",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/james-acaster-14th-september/",
+      "description": "Hear James Acaster and his mates squirm as they defend the cringiest songs on their playlists in this hilarious music roast",
+      "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1789380634-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=ce9c3911-39d2-455d-9de4-bf1da6506851&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "32b0ce94eb51d749631ebc8a1a3964b6c3435e2d",
       "guid": "58e109b6-1b2d-4e38-bac8-d014f59dca38",
@@ -2735,6 +2748,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — James Acaster (14th September)
 - 2026-09-07 — James Acaster (7th September)
 - 2026-08-31 — James Acaster (31st August)
 - 2026-08-24 — James Acaster (24th August)

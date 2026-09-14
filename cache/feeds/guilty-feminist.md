@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-09-07T12:30:47+00:00`
-- checked_at: `2026-09-07T12:30:47+00:00`
-- last_modified: `Mon, 07 Sep 2026 11:00:00 GMT`
+- fetched_at: `2026-09-14T12:44:44+00:00`
+- checked_at: `2026-09-14T12:44:44+00:00`
+- last_modified: `Mon, 14 Sep 2026 11:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-07T12:30:47+00:00",
+  "fetched_at": "2026-09-14T12:44:44+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -27,6 +27,48 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "a3b521cc23e5015112030cd1b390ef37f96cb368",
+      "title": "500. Five Hundredth Episode with Kate Cheka and the Palestinian Circus",
+      "published_at": "2026-09-14T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 500 Presented by Deborah Frances-White and Kate Cheka with special guests The Palestinian Circus and music from Hajar J Woodland Recorded 22 August 2026 at Gilded Balloon at the Museum. Released 14 September. The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Kate Cheka https://www.instagram.com/katecheka https://katecheka.substack.com https://katecheka.co.uk More about Palestinian Circus https://www.instagram.com/the.palestinian.circus.school https://palcircus.ps More about Hajar J Woodland https://www.instagram.com/hajarjwoodland https://www.youtube.com/@hajarjwoodland For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Vision Festival 25 September . https://visionfestival.co.uk/events/the-guilty-feminist Shedinburgh 10 October . https://www.youngvic.org/whats-on/the-guilty-feminist-podcast Union Chapel, 24 November with Zack Polanski . https://unionchapel.org.uk/venue/whats-on/the-guilty-feminist--road-to-gilead Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/8c4c9b00-afc0-11f1-8c3d-aba463d009fa/image/82c36379c6c7cb0a223c9935d95a5238.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL9415598831.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3524",
+      "speakers": [
+        "Kate Cheka",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "hundredth",
+        "kate",
+        "cheka",
+        "circus"
+      ]
+    },
+    {
+      "key": "f8a1de01b5f1aa327fcc66d9eaacd3ffcd985def",
+      "title": "In Conversation with Indhu Rubasingham",
+      "published_at": "2026-09-12T08:00:00+00:00",
+      "link": null,
+      "description": "The National Theatre with Indhu Rubasingham Presented by Deborah Frances-White with special guest Indhu Rubasingham. Recorded 9 September 2026 at the National Theatre. Released 12 September. The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Indhu Rubasingham and the National Theatre https://www.instagram.com/nationaltheatre https://www.nationaltheatre.org.uk https://www.nationaltheatre.org.uk/national-theatre-online https://www.youtube.com/channel/UCUDq1XzCY0NIOYVJvEMQjqw For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show London Podcast Festival . https://www.kingsplace.co.uk/whats-on/podcast/the-guilty-feminist-10/ Vision Festival . https://www.ticketsource.com/booking/t-xdymnyp Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/d32f676a-ae0c-11f1-b1c3-3ff9767d82b9/image/43da39c243474246733d77c230275b87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL5473073963.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2994",
+      "speakers": [
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "conversation",
+        "indhu",
+        "rubasingham"
+      ]
+    },
     {
       "key": "6cb83590aa755e21be339d101bc67dd09dcdf47d",
       "title": "499. Where You End and I Begin with Lindsey Mendick",
@@ -18508,6 +18550,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — 500. Five Hundredth Episode with Kate Cheka and the Palestinian Circus — speakers: Kate Cheka, Deborah Frances-White
+- 2026-09-12 — In Conversation with Indhu Rubasingham — speakers: Deborah Frances-White
 - 2026-09-07 — 499. Where You End and I Begin with Lindsey Mendick — speakers: Lindsey Mendick, Deborah Frances-White
 - 2026-08-31 — 498. Politics with Felicity Ward and Hannah Spencer — speakers: Hannah Spencer, Deborah Frances-White
 - 2026-08-23 — 497. The Nuance Drought with Natasha Devon — speakers: Natasha Devon, Deborah Frances-White
