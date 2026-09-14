@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-09-11T04:39:13+00:00`
-- checked_at: `2026-09-11T04:39:13+00:00`
-- last_modified: `Fri, 11 Sep 2026 00:17:54 GMT`
+- fetched_at: `2026-09-14T04:54:49+00:00`
+- checked_at: `2026-09-14T04:54:49+00:00`
+- last_modified: `Mon, 14 Sep 2026 00:06:18 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-11T04:39:13+00:00",
+  "fetched_at": "2026-09-14T04:54:49+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,27 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "896507afdc027d04ff4d0b181cf6556aee63fb43",
+      "title": "Frank’s No Influencer!",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "link": null,
+      "description": "Frank and Em are in the studio with comedy writer Ruth Husko. Frank’s no influencer, and Em’s been to a wedding and brought treats for the team! If you want to message the show, email us at FrankOffTheRadio@AvalonUK.com or WhatsApp us on 07457 417 769. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7231525493.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2443",
+      "speakers": [
+        "Frank’s No Influencer",
+        "Ruth Husko",
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "influencer"
+      ]
+    },
     {
       "key": "303e47a5a4ea07a7c7dc41a7afd508cdd83dcf97",
       "title": "Thoughts on Hypnotism",
@@ -24706,6 +24727,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — Frank’s No Influencer! — speakers: Frank’s No Influencer, Ruth Husko, Frank Skinner
 - 2026-09-11 — Thoughts on Hypnotism — speakers: Ruth Husko, Frank Skinner
 - 2026-09-09 — Frank Skinner’s Radio Days: Shakespeare Whatsapper — speakers: Frank Skinner, Shakespeare Whatsapper
 - 2026-09-07 — Allergic to Cats — speakers: Katie Norris, Frank Skinner

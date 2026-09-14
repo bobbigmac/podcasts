@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-09-07T04:39:33+00:00`
-- checked_at: `2026-09-07T04:39:33+00:00`
-- last_modified: `Sun, 06 Sep 2026 23:00:00 GMT`
+- fetched_at: `2026-09-14T04:54:49+00:00`
+- checked_at: `2026-09-14T04:54:49+00:00`
+- last_modified: `Sun, 13 Sep 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-07T04:39:33+00:00",
+  "fetched_at": "2026-09-14T04:54:49+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a606158a986365d4fc1c547d54c3c51108b04762",
+      "title": "ANDREW MENSAH: From Preaching & Playing Football To Comedy Stardom",
+      "published_at": "2026-09-13T23:01:00+00:00",
+      "link": null,
+      "description": "Andrew Mensah returns and this time he's talking about how close he got to being a pro footballer and why being a teenage preacher gave him the skills to write comedy. He also talks about the sin he committed that took preaching off the cards for him and why he has an unlikeley love for Loose Women. See Seann Walsh on his This Is Torture tour ! Get exclusive content with Andrew on Patreon Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL8987822011.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2725",
+      "speakers": [
+        "Stardom Andrew Mensah",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "andrew",
+        "mensah",
+        "preaching",
+        "playing",
+        "football",
+        "comedy",
+        "stardom"
+      ]
+    },
     {
       "key": "8f34dc4c7c5a9771a6b3e2397c548b97da06f9d4",
       "title": "ANDREW MENSAH: I Had 3 options: Be Good At Football, Be Tough Or Be Funny",
@@ -1872,6 +1897,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-13 — ANDREW MENSAH: From Preaching & Playing Football To Comedy Stardom — speakers: Stardom Andrew Mensah, Seann Walsh
 - 2026-09-06 — ANDREW MENSAH: I Had 3 options: Be Good At Football, Be Tough Or Be Funny — speakers: Andrew Mensah, Seann Walsh
 - 2026-08-30 — MARK STEEL: From Being Expelled & Working As A Milkman to Comedy Fame — speakers: Comedy Fame, Seann Walsh
 - 2026-08-23 — MARK STEEL: Mistrusting Authority, Working Class Activist Roots — speakers: Mistrusting Authority, Working Class Activist Roots, Mark Steel, Seann Walsh

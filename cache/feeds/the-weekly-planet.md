@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-09-10T16:23:30+00:00`
-- checked_at: `2026-09-10T16:23:30+00:00`
-- etag: `"djEuMi4wOjE3ODkwNDcwMzk4NTM="`
+- fetched_at: `2026-09-14T04:54:49+00:00`
+- checked_at: `2026-09-14T04:54:49+00:00`
+- etag: `"djEuMi4wOjE3ODkzNjAyMzk0NDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-09-10T16:23:30+00:00",
+  "fetched_at": "2026-09-14T04:54:49+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "43d29bbc049302cc0d03ee31d20d7a2924019350",
+      "title": "640 Wolverine Disappoints & Runner (not The Runner)",
+      "published_at": "2026-09-14T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/640-wolverine-disappoints-runner-not-the-runner",
+      "description": "Okay so I think it’s time for another episode of The Weekly Planet podcast. We discuss the less than stellar reviews of Insomniac's latest superhero game Wolverine, Spider-Man: Brand New Day achieving the biggest US Box Office of all time, the cancellation of Spider-Noir but news of other Spider-Adjacent series in the works, more X-Men casting, trailers for Godzilla Minus Zero and Remain plus we review Runner a real movie that came to cinemas and we liked it. Thanks for listening New bonus Q&A episode with James & Maso out now! You can listen exclusively to the new bonus ep and entire archive via bigsandwich.co and patreon.com/mrsundaymovies Maso on latest episode of the Do Go On podcast: https://shows.acast.com/60de27e6-b679-4a3b-a9aa-53fa8e6d0313/6a9e2491f8f4d42589b6b103 PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 08:02 New Spider-Man Becomes Biggest BIG MOVIE 09:20 Spider-Noir Cancelled & Future Spidey Series 20:32 Angel Cast in New X-Men Movie 24:09 Godzilla Minus Zero Trailer 29:23 Remain Trailer 31:38 James Bond Casting Latest 37:59 Wolverine PS5 Getting Bad Reviews 42:28 Runner Non-Spoiler Movie Review 01:00:21 What We Reading, What We Gonna Read 01:10:45 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6aa561c01563582c055c7bf5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "138801141",
+      "itunes_duration": "1:36:23",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "wolverine",
+        "disappoints",
+        "runner"
+      ]
+    },
     {
       "key": "7c11792db3baf3f86b079653f76d5a5497ab5778",
       "title": "Resident Evil: Retribution - Caravan Of Garbage",
@@ -23074,6 +23095,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — 640 Wolverine Disappoints & Runner (not The Runner) — speakers: James Clement, Nick Mason
 - 2026-09-10 — Resident Evil: Retribution - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-09-07 — 639 Biggest "Jumping the Shark" Moments in Movies & TV Shows — speakers: James Clement, Nick Mason
 - 2026-09-03 — Resident Evil: Afterlife - Caravan Of Garbage — speakers: Resident Evil, James Clement, Nick Mason

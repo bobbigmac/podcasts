@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-09-07T04:39:33+00:00`
-- checked_at: `2026-09-07T04:39:33+00:00`
-- etag: `"5aacc7b9f46efec685232262443a6177"`
-- last_modified: `Mon, 07 Sep 2026 04:18:09 GMT`
+- fetched_at: `2026-09-14T04:54:49+00:00`
+- checked_at: `2026-09-14T04:54:49+00:00`
+- etag: `"b99eca443c5c60b27cfabab7e3a6aeb3"`
+- last_modified: `Mon, 14 Sep 2026 04:19:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-09-07T04:39:33+00:00",
+  "fetched_at": "2026-09-14T04:54:49+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,31 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "4c46489cb4b5dcc8dd7edd840b611689cecec726",
+      "title": "Xbox Takes Over Hideo Kojima's New 'PHYSINT' Game From PlayStation - (Xbox In Ten: An Xbox Podcast - Ep. 381)",
+      "published_at": "2026-09-14T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/xbox-takes-over-hideo-kojimas-new-physint-game-from-playstation-xbox-in-ten-an-xbox-podcast-ep-381",
+      "description": "Week of: 9-7-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/b/b/a/e/bbaea4d879ca69ea16c3140a3186d450/381.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/381.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "18582448",
+      "itunes_duration": "13:39",
+      "speakers": [
+        "Hideo Kojima",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "xbox",
+        "hideo",
+        "kojima",
+        "physint",
+        "game",
+        "playstation",
+        "podcast"
+      ]
+    },
     {
       "key": "63272a8e8f54197024ad93d898d0a011ce2539d2",
       "title": "Microsoft Switches to Monthly Hour Limits for Xbox Cloud Gaming - (Xbox In Ten: An Xbox Podcast - Ep. 380)",
@@ -9597,6 +9622,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — Xbox Takes Over Hideo Kojima's New 'PHYSINT' Game From PlayStation - (Xbox In Ten: An Xbox Podcast - Ep. 381) — speakers: Hideo Kojima, Brandon Rosa
 - 2026-09-07 — Microsoft Switches to Monthly Hour Limits for Xbox Cloud Gaming - (Xbox In Ten: An Xbox Podcast - Ep. 380) — speakers: Microsoft Switches, Monthly Hour Limits, Xbox Cloud Gaming, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-08-31 — Grand Theft Auto 6 Netflix Special Details - (Xbox In Ten: An Xbox Podcast - Ep. 379) — speakers: Grand Theft Auto, Netflix Special Details, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-08-24 — Grand Theft Auto 6 Leaks...Finally Over? - (Xbox In Ten: An Xbox Podcast - Ep. 378) — speakers: Grand Theft Auto, Finally Over, Xbox Gaming News, Fun Fact, Brandon Rosa

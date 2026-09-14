@@ -2,9 +2,9 @@
 
 - slug: `matt-forde-political-party`
 - source: `https://feeds.acast.com/public/shows/766e5f56-3d0e-5372-ac75-e16054197bba`
-- fetched_at: `2026-09-07T04:39:33+00:00`
-- checked_at: `2026-09-07T04:39:33+00:00`
-- etag: `"djEuMi4wOjE3ODg3NTAwMzk3OTA="`
+- fetched_at: `2026-09-14T04:54:49+00:00`
+- checked_at: `2026-09-14T04:54:49+00:00`
+- etag: `"djEuMi4wOjE3ODkzNTQ4Mzk2ODg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://soundcloud.com/thepoliticalparty",
   "description": "Comedian, TV and radio host Matt Forde presents T…",
   "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
-  "fetched_at": "2026-09-07T04:39:33+00:00",
+  "fetched_at": "2026-09-14T04:54:49+00:00",
   "owners": [
     "Matt Forde"
   ],
@@ -26,6 +26,29 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "65815ec89bc87e9f29cdfbfa2275d91fc5f383e4",
+      "title": "I worked for Keir Starmer inside Number 10: here's what REALLY happened, with Matt Langford",
+      "published_at": "2026-09-14T03:00:00+00:00",
+      "link": "https://shows.acast.com/the-political-party/episodes/i-worked-for-keir-starmer-inside-number-10-heres-what-really",
+      "description": "Matt Langford was Special Adviser to The Prime Minister, Keir Starmer, from the day he became Prime Minister to the day he left. He takes us inside the famous black door and tells us what Keir Starmer was really like as a leader, a boss and a man. He tells us what it was really like in those final weeks in between the local election results and the Prime Minister's departure. And he reveals the true extent of Larry the Cat's power and influence. This is an unmissable nosey around the most famous address in the country. See the Political Party Live on Stage: 9 November: Liz Kendall (London) 21 December: Wes Streeting (London) GET TICKETS for Matt's brand new stand-up show Project Holy Moly at the Edinburgh Festival and touring nationwide in 2027: www.mattforde.com MARCH 19 FAVERSHAM The Alex 20 DORKING Halls APRIL 7 STOURBRIDGE Town Hall 8 GLOUCESTER Guildhall 9 LEICESTER Y Theatre 12 SALFORD Lowry 16 NORTHAMPTON Royal & Derngate 21 EXETER Northcott Theatre 24 LONDON Bloomsbury Theatre 28 ALNWICK Playhouse 29 BARNARD CASTLE Witham 30 HULL Asylum MAY 6 BIRMINGHAM The Glee Club 12 COVENTRY Warwick Arts Centre 13 WORCESTER Huntingdon Hall 14 CHORLEY Theatre 18 STAMFORD Corn Exchange 19 SHEFFIELD Steamworks 20 SHREWSBURY Theatre Severn 21 NOTTINGHAM Theatre Royal 23 LEEDS City Varieties Music Hall 26 NORWICH Playhouse 27 NORWICH Playhouse JUNE 2 SCUNTHORPE Plowright 4 CANTERBURY Gulbenkian Theatre 5 READING Concert Hall 8 CARDIFF The Glee Club 9 BATH Komedia 10 MONMOUTH Savoy Theatre 11 CHIPPING NORTON The Theatre 15 BURY ST EDMUNDS Theatre Royal 16 MILTON KEYNES The Stables 18 TUNBRIDGE WELLS Trinity Theatre 30 LIVERPOOL Everyman Playhouse JULY 1 CARLISLE Old Fire Station 2 GLASGOW The Glee Club 4 EDINBURGH Lyceum Theatre Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b47f42e85607ae98578f/1763052500412-4e2ab6c0-54db-4bbf-9214-761597e42cd6.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/the-political-party/e/6aa3f93ab54f356fc7df1aad/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "76953137",
+      "itunes_duration": "53:26",
+      "speakers": [
+        "Matt Langford",
+        "Matt Forde"
+      ],
+      "topics": [
+        "keir",
+        "starmer",
+        "number",
+        "matt",
+        "langford"
+      ]
+    },
     {
       "key": "7db7d54b0d683458daf5d0ba4ae82b000621c33d",
       "title": "How I will lead Labour to victory in Scotland: Michael Marra",
@@ -10700,6 +10723,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — I worked for Keir Starmer inside Number 10: here's what REALLY happened, with Matt Langford — speakers: Matt Langford, Matt Forde
 - 2026-09-07 — How I will lead Labour to victory in Scotland: Michael Marra — speakers: Michael Marra, Matt Forde
 - 2026-08-31 — I was diagnosed with cancer on election day: Malcolm Offord LIVE in Edinburgh — speakers: Malcolm Offord, Matt Forde
 - 2026-08-24 — We underestimated the SNP: Douglas Alexander LIVE in Edinburgh — speakers: Douglas Alexander, Matt Forde

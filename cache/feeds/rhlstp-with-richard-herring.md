@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-12T15:31:18+00:00`
-- checked_at: `2026-09-12T15:31:18+00:00`
-- etag: `"djEuMi4wOjE3ODkyMDk1NjQ4NTU="`
+- fetched_at: `2026-09-14T04:54:49+00:00`
+- checked_at: `2026-09-14T04:54:49+00:00`
+- etag: `"djEuMi4wOjE3ODkzNTQ2NTk0MDU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-12T15:31:18+00:00",
+  "fetched_at": "2026-09-14T04:54:49+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "29b15b822cb11d7fbff4a2beddd1e57b37e7f4af",
+      "title": "Jenny Eclair (Retro) - \"Hi di Hi\"",
+      "published_at": "2026-09-14T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#446 Hi di Hi - Richard is doing more topical jokes that will be slightly out of date at time of broadcast but a valuable resource for the people of the future. His guest is comedian, author and potato hat wearer Jenny Eclair. They chat about the Bay City Rollers, the portrait of Les Gray, how cystitis ruined the bingo, the sexual allure of Greg Davies, childish comedians coping with the devastation of middle age, whether Richard will survive to have any life after his children have left home, their various ear complaints and how Jenny met her husband under a car. Not quite the topics of discussion when they shared a flat at the Fringe in the 1990s. Listen to Older and Wider - https://podcasts.apple.com/gb/podcast/older-and-wider-podcast/id1446310659 Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1789136785511-8c5708a1-10e5-4230-8063-55a589062bdf.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aa409ac2e8bb8424ca263bf/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "33611023",
+      "itunes_duration": "1:10:01",
+      "speakers": [
+        "Jenny Eclair",
+        "Richard Herring"
+      ],
+      "topics": [
+        "jenny",
+        "eclair",
+        "retro"
+      ]
+    },
     {
       "key": "1aa83fbc4d52844a1580d118fb24fddc119828ef",
       "title": "Rich and Ally's Craven Newsround Compilation - Monkey Glue",
@@ -23837,6 +23858,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — Jenny Eclair (Retro) - "Hi di Hi" — speakers: Jenny Eclair, Richard Herring
 - 2026-09-12 — Rich and Ally's Craven Newsround Compilation - Monkey Glue — speakers: Craven Newsround Compilation, Monkey Glue Tuesday, Monkey Glue, Richard Herring
 - 2026-09-11 — Rachael Stirling on All About My Mother - Book Club — speakers: Rachael Stirling, Richard Herring
 - 2026-09-09 — Mhairi Black - "Maths is Sh*te" — speakers: Mhairi Black, Richard Herring

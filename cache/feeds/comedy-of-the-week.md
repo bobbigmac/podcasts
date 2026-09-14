@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-09-07T04:39:33+00:00`
-- checked_at: `2026-09-07T04:39:33+00:00`
-- etag: `"04e207e726d88e96533b8cdb070b2ce8"`
-- last_modified: `Mon, 07 Sep 2026 04:00:05 GMT`
+- fetched_at: `2026-09-14T04:54:49+00:00`
+- checked_at: `2026-09-14T04:54:49+00:00`
+- etag: `"24d54e4cfa049f236f66dc9cfae12642"`
+- last_modified: `Mon, 14 Sep 2026 04:00:05 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-09-07T04:39:33+00:00",
+  "fetched_at": "2026-09-14T04:54:49+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "2b39b382056f12490c90ec3e770e6a5dce0baec6",
+      "title": "Unspeakable",
+      "published_at": "2026-09-14T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0p966gl",
+      "description": "In this episode we hear Jessie Cave’s word for letting your kids explore their canine side, Armando Iannucci's description for excessive false modesty, and Chloe Petts’s coinage for when you need something but you don't want to be a bother. Ever struggled to find the right word for a feeling or sensation? Unspeakable sees comedian Phil Wang and lexicographer Susie Dent invite celebrity guests to invent new linguistic creations, to solve those all too relatable moments when we're lost for words. Hosts: Phil Wang and Susie Dent Guests: Jessie Cave, Armando Iannucci and Chloe Petts Created by Joe Varley Writers: Matt Crosby and Katie Storey Recorded by Jerry Peal Producer: Jon Harvey Executive Producers: Joe Varley and Akash Lockmun A Brown Bred production for BBC Radio 4",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p9669m.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27600000",
+      "itunes_duration": "1725",
+      "speakers": [
+        "Jessie Cave"
+      ],
+      "topics": [
+        "unspeakable"
+      ]
+    },
     {
       "key": "2d5f65170dc0282117a6b469aeb6274be79496e9",
       "title": "The Skewer",
@@ -992,22 +1010,6 @@
         "programme",
         "special"
       ]
-    },
-    {
-      "key": "4e6f980b8798f97083daf08d8729991bde4f9199",
-      "title": "Icklewick FM",
-      "published_at": "2025-09-08T04:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p0m17yjg",
-      "description": "We return to Icklewick one year after the explosive events of Mischief Night. With Amy’s whereabouts still unknown and the rest of the team scattered, Chris has been struggling to keep Icklewick FM on the air from his home studio. Things are deffo looking bleak until he receives a mysterious call from Mainland Europe... Icklewick FM is created and written by Chris Cantrill and Amy Gledhill, with additional material from the cast. To listen to more episodes from this series, search \"Ickelwick FM\" on BBC Sounds. Starring: Amy Gledhill Chris Cantrill Mark Silcox Colin Hoult Janice Connolly Phil Ellis Tom Lawrinson Tom Burgess Nicola Redman Tai Campbell Em Humble James Carbutt Series Artwork by Sam O'Leary Music, sound design and additional material by Jack Lewis Evans. Line Produced by Laura Shaw Produced by Benjamin Sutton. A Daddy’s Superyacht production for BBC Radio 4",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0m17y5f.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "27664000",
-      "itunes_duration": "1729",
-      "speakers": [],
-      "topics": [
-        "icklewick"
-      ]
     }
   ]
 }
@@ -1016,6 +1018,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — Unspeakable — speakers: Jessie Cave
 - 2026-09-07 — The Skewer — speakers: Jon Holmes
 - 2026-09-01 — Edinburgh Comedy Awards Gala 2026 — speakers: Edinburgh Comedy Awards, Best Newcomer
 - 2026-08-24 — The People Have Spoken — speakers: Ian Smith, Harriet Kemsley
@@ -1066,4 +1069,3 @@
 - 2025-09-29 — Ria Lina Gets Forensic: Microneedling — speakers: Ria Lina Gets Forensic, Microneedling Former, Ria Lina
 - 2025-09-22 — Glenn Moore's Almanac — speakers: Glenn Moore, Comedian Glenn Moore
 - 2025-09-15 — John Finnemore's Souvenir Programme: 2025 Special — speakers: John Finnemore
-- 2025-09-08 — Icklewick FM
