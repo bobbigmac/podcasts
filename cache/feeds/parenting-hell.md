@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-09-11T04:39:13+00:00`
-- checked_at: `2026-09-11T04:39:13+00:00`
-- last_modified: `Fri, 11 Sep 2026 00:15:09 GMT`
+- fetched_at: `2026-09-14T19:50:59+00:00`
+- checked_at: `2026-09-14T19:50:59+00:00`
+- last_modified: `Mon, 14 Sep 2026 17:42:13 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ea7b3a41cdc0336cc8a48bcdc4533623.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-11T04:39:13+00:00",
+  "fetched_at": "2026-09-14T19:50:59+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e39a75fc2634326e5858e0953a656fef3327647c",
+      "title": "⚽ Tony Mowbray’s Favourite Chocolate ⚽",
+      "published_at": "2026-09-14T17:06:00+00:00",
+      "link": null,
+      "description": "Welcome to Footballing Hell... Rob and Josh discuss the weekend football (or the bits that interest them) in the only way they know how. Chaotically, with not enough sleep, prep or insight... This week the question everyone has been asking - what is Tony Mowbray's favourite chocolate bar? The Manchester derby. How much Rob loves a massive bast*ard. How is Donnarumma only 27 years old? Should Maresca get a haircut like Gerry Francis? Why nobody will ever like Wrexham. And is Florian Wirtz good at football yet? Enjoy! If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. ⁠⁠⁠⁠Footballing Hell ⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/a809a312-b05e-11f1-83ac-cf724bc78074/image/07538771738e35943e0fb9c650cc658a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9954935158.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3361",
+      "speakers": [
+        "Tony Mowbray",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "tony",
+        "mowbray",
+        "favourite",
+        "chocolate"
+      ]
+    },
     {
       "key": "e70fefad240489d15cb798df098e03cc3a0a65c0",
       "title": "S13 EP16: I Love Doing The Big Shop",
@@ -12770,6 +12793,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — ⚽ Tony Mowbray’s Favourite Chocolate ⚽ — speakers: Tony Mowbray, Rob Beckett, Josh Widdicombe
 - 2026-09-11 — S13 EP16: I Love Doing The Big Shop — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-08 — S13 EP15: I've completed parenting (and a voicenote from Lou) — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-07 — ⚽ I don't like teams in blue⚽ — speakers: Rob Beckett, Josh Widdicombe
