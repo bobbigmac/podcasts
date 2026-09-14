@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-09-09T23:14:27+00:00`
-- checked_at: `2026-09-09T23:14:27+00:00`
-- last_modified: `Wed, 09 Sep 2026 23:10:00 GMT`
+- fetched_at: `2026-09-14T23:52:26+00:00`
+- checked_at: `2026-09-14T23:52:26+00:00`
+- last_modified: `Mon, 14 Sep 2026 23:05:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-09T23:14:27+00:00",
+  "fetched_at": "2026-09-14T23:52:26+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "27ddd3fe666d756b47cbd02fba278e84b899a696",
+      "title": "The Rise & Fall of Mr Beast",
+      "published_at": "2026-09-14T23:05:00+00:00",
+      "link": null,
+      "description": "Is Mr Beast’s latest project a massive fail? How do you earn £100m from children's books? And can you buy prestigious awards? (hypothetically speaking… ) Mr Beast have teamed up with James Patterson to release a survival thriller, and one real-life reader could win $1m - but the charts have been unforgiving... has the shine finally rubbed off Mr Beast? Beloved children's writer Julia Donaldson releases Gruffalo Granny, but what is the secret behind her £100m success story? Nicola Peltz has been awarded a ‘Rising Star’ award at the Venice Film Festival, at the age of 31. Richard and Marina explore the world of expensive award campaigns. The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Looking for extra value from your spending? You can bank on Lloyds to help your money go further. Search Lloyds Rewards in your app. For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Lorcan Moullier and Louis Mealing Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Social Producer: Emma Jackson Exec Producer: Ami Bennett Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT6374869025.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3363",
+      "speakers": [
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "rise",
+        "fall",
+        "beast"
+      ]
+    },
     {
       "key": "003aaa133deb28d9ad0e18a160b4b704f5f0ad0c",
       "title": "Strictly Hosts Exclusive: The Biggest Job In TV?",
@@ -6663,6 +6684,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — The Rise & Fall of Mr Beast — speakers: Richard Osman, Marina Hyde
 - 2026-09-09 — Strictly Hosts Exclusive: The Biggest Job In TV? — speakers: Richard Osman, Emma Willis, Marina Hyde
 - 2026-09-07 — Have We Found The New Kardashians? — speakers: New Kardashians, Anna Wintour, Richard Osman, Marina Hyde
 - 2026-09-02 — Should Celebs Brave the Shave? — speakers: Should Celebs Brave, Richard Osman, Marina Hyde
