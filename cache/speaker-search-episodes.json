@@ -10271,6 +10271,28 @@
     ],
     "harry-hill": [
       {
+        "feed_slug": "external:apple:f4eabd81e4e3",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
+        "dedupe_key": "4415c8d9c3ef7d9c131599371a1d536f0afb93f2",
+        "episode_key": "4415c8d9c3ef7d9c131599371a1d536f0afb93f2",
+        "title": "Matt Baker: A Triple Back Somersault,  Nuremberg Pork Allergy Disaster, and Sunken Cities with Dr Peter Campbell",
+        "published_at": "2026-09-14T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Matt Baker - TV royalty, now knee-deep in mud - turns up straight off the train from Durham and gets sniffed out and confesses to the Great Nuremberg Pork Allergy Incident.\nWe're joined by underwater archaeologist Dr Peter Campbell for this week's themed deep-dive, Sunken Cities, and Matt is put through a bruising roun",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a993de1a389b713aeb67534/e/6aa3e9cf1343c065e3ddf647/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/matt-baker-a-triple-back-somersault-nuremberg-pork/id1742178595?i=1000789496393&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:43c75f21fe27",
         "feed_title": "Matt Baker's Petcast",
         "source_rss_url": "https://feeds.megaphone.fm/petcast",
