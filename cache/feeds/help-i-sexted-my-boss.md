@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-09-11T11:19:38+00:00`
-- checked_at: `2026-09-11T11:19:38+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RreE1ESTRNems0TWpNPTo6c2F4ZXNz"`
+- fetched_at: `2026-09-15T11:43:13+00:00`
+- checked_at: `2026-09-15T11:43:13+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RrME5EZzBNemsxTnpjPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-09-11T11:19:38+00:00",
+  "fetched_at": "2026-09-15T11:43:13+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "63fc2828a1f8fe2c8aed07d0afb8703706f453b0",
+      "title": "Help We’re Getting Intimate | And William is Ainsley Harriott?!",
+      "published_at": "2026-09-15T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/help-were-getting-intimate-and-william-is-ainsley-harriott",
+      "description": "What exactly counts as intimate ? Jordan North and William Hanson have VERY different answers, and neither is willing to back down. Jordan is also forced to confront the fact he’s stolen one of William’s toilet habits after previously judging him for it. Has he changed AGAIN? Plus, the boys tackle your dilemmas from husbands watching smut on X, to the correct way to tuck. We’re a broad church. Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1789401057375-0dd1a392-b2c3-49b6-9186-81cd59661f64.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6aa7d6fca58317a2f1e7057d/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=lX4qUzmbrWHMOsVQy3l9HGLoA6Bc7ZY5cz3HAPx51Sw",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45583464",
+      "itunes_duration": "47:28",
+      "speakers": [
+        "Ainsley Harriott",
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "william",
+        "ainsley",
+        "harriott"
+      ]
+    },
     {
       "key": "1aed1c52de7647fb52a1f7a0c49d1c5cba14c310",
       "title": "The Sexted Exam | And School Rumours",
@@ -15050,6 +15072,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-15 — Help We’re Getting Intimate | And William is Ainsley Harriott?! — speakers: Ainsley Harriott, Jordan North, William Hanson
 - 2026-09-11 — The Sexted Exam | And School Rumours — speakers: Jordan North, William Hanson
 - 2026-09-08 — Help We’ve Gone Back To School | And William’s Shameful Secret — speakers: William’s Shameful Secret, William Hanson, Jordan North
 - 2026-09-04 — Has Jordan’s VOICE Changed?! | And Poppins Parody — speakers: William Hanson, Jordan North
