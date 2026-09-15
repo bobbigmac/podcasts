@@ -2,10 +2,10 @@
 
 - slug: `page-94-the-private-eye-podcast`
 - source: `https://audioboom.com/channels/5112392.rss`
-- fetched_at: `2026-09-04T04:31:24+00:00`
-- checked_at: `2026-09-04T04:31:24+00:00`
-- etag: `W/"44f275a5c07096babb022623e50958e2"`
-- last_modified: `Wed, 02 Sep 2026 16:08:02 GMT`
+- fetched_at: `2026-09-15T16:58:48+00:00`
+- checked_at: `2026-09-15T16:58:48+00:00`
+- etag: `W/"0eb4851bffcc2a318c28efabb589e8ac"`
+- last_modified: `Tue, 15 Sep 2026 13:59:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.private-eye.co.uk",
   "description": "Ian Hislop and Private Eye magazine venture into the world of audio with Page 94, hosted by Andrew Hunter Murray. Available from Private Eye at www.private-eye.co.uk as well as on Apple, YouTube, Spotify, Amazon and many other audio platforms.",
   "image_url": "https://audioboom.com/i/43072560.png",
-  "fetched_at": "2026-09-04T04:31:24+00:00",
+  "fetched_at": "2026-09-15T16:58:48+00:00",
   "owners": [
     "Andrew Hunter Murray",
     "Ian Hislop"
@@ -29,6 +29,26 @@
     "news"
   ],
   "episodes": [
+    {
+      "key": "6df7b3633619e1d4100aad29d2b65df7cc8c2bda",
+      "title": "191: Delo Or No Delo",
+      "published_at": "2026-09-15T13:57:45+00:00",
+      "link": "https://audioboom.com/posts/8952908",
+      "description": "The team and Richard Brooks discuss Reform UK's new sugar-daddy, the likelihood of AI wiping out the world (just 10%) and the Men In Black coming to a port near you.",
+      "image_url": "https://audioboom.com/i/43838560/s=1400x1400/el=1/rt=fill.png",
+      "enclosure_url": "https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/8952908.mp3?modified=1789480758&sid=5112392&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2916",
+      "speakers": [
+        "Richard Brooks",
+        "Andrew Hunter Murray",
+        "Ian Hislop"
+      ],
+      "topics": [
+        "delo"
+      ]
+    },
     {
       "key": "eff1ecf9640dabbc633508ed30a360baee80fceb",
       "title": "190: Green Fingers",
@@ -4062,6 +4082,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-15 — 191: Delo Or No Delo — speakers: Richard Brooks, Andrew Hunter Murray, Ian Hislop
 - 2026-09-02 — 190: Green Fingers — speakers: Saba Salman, Helen Lewis, Andrew Hunter Murray, Ian Hislop
 - 2026-08-25 — 189: The Hacks Book Club — speakers: Andrew Hunter Murray, Ian Hislop
 - 2026-08-11 — 188: Entirely Artificial Intelligence — speakers: Entirely Artificial Intelligence Summer, Andrew Hunter Murray, Ian Hislop
