@@ -24633,6 +24633,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:e34d98fa2cca",
+        "feed_title": "Roadtrip Canterbury, op weg naar Stewart Lee",
+        "source_rss_url": "https://anchor.fm/s/114398298/podcast/rss",
+        "dedupe_key": "712862f3385dc3496cdad9945b827fe17c1fd2c4",
+        "episode_key": "712862f3385dc3496cdad9945b827fe17c1fd2c4",
+        "title": "Dag 6",
+        "published_at": "2026-08-31T11:12:31Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Joris en Thomas arriveren in Caterbury en gaan Stewart Lee zien.",
+        "audio_url": "https://anchor.fm/s/114398298/podcast/play/124978140/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-31%2F430877512-44100-2-b769c11aa5ada.m4a",
+        "link_url": "https://podcasts.apple.com/gb/podcast/dag-6/id6786763132?i=1000786967535&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:7ab64334a67c",
         "feed_title": "The Green Man Podcast",
         "source_rss_url": "https://feeds.megaphone.fm/GLT9640995357",
