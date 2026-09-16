@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-09-09T11:21:36+00:00`
-- checked_at: `2026-09-09T11:21:36+00:00`
-- etag: `"djEuMi4wOjE3ODg4MDk1NjY1ODM="`
+- fetched_at: `2026-09-16T16:54:29+00:00`
+- checked_at: `2026-09-16T16:54:29+00:00`
+- etag: `"djEuMi4wOjE3ODk1NzEzNzc2MDk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-09-09T11:21:36+00:00",
+  "fetched_at": "2026-09-16T16:54:29+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "81aa0ecec450c31b34bc4ee781111c10a744dd98",
+      "title": "Dire Tous A Tous Le Monde",
+      "published_at": "2026-09-16T15:09:37+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/dire-tous-a-tous-le-monde",
+      "description": "This week, Katherine's Telling Everybody Everything from a Four Seasons Hotel room in Paris as she and Bobby prepare to (hopefully) attend the Céline Dion concert there. It's been a whirlwind week of travel as Katherine was papped 'helping herself' to an oyster at Emily Atack's Spanish wedding as Cuatro on Saturday....and now they've left the children again! Also, news from Andrew Johnston @mandrewbrawnston in Hollywood about a comedian choosing to date 'women of poverty' so that he feels like a king, Ciara's fifth baby on the way, Aaron Rodgers' problematic dating history and a sad story about a Nigerian Brit who died in Bangkok getting a penis enlargement. (No cock puns RIP) x Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1789570944330-9768ba87-33a8-4d17-9d41-5a4e42c00355.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6aaab1318a1508074d6a7a4b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85425132",
+      "itunes_duration": "59:19",
+      "speakers": [
+        "Dire Tous",
+        "Telling Everybody Everything",
+        "Four Seasons Hotel",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "monde"
+      ]
+    },
     {
       "key": "e5fb75fddf49f1d0c35fac70888635d4c7fc4e53",
       "title": "The Seven Year Itch",
@@ -6489,6 +6510,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — Dire Tous A Tous Le Monde — speakers: Dire Tous, Telling Everybody Everything, Four Seasons Hotel, Katherine Ryan
 - 2026-09-07 — The Seven Year Itch — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-08-31 — Lindsay Clancy Trial Explained — speakers: Lindsay Clancy Trial Explained, Katherine Ryan
 - 2026-08-21 — Standing on Business — speakers: Telling Everybody Everything, Katherine Ryan

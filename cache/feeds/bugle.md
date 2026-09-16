@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-09-09T16:37:41+00:00`
-- checked_at: `2026-09-09T16:37:41+00:00`
-- etag: `"djEuMi4wOjE3ODg5NjM0OTQ5MDg="`
+- fetched_at: `2026-09-16T16:54:29+00:00`
+- checked_at: `2026-09-16T16:54:29+00:00`
+- etag: `"djEuMi4wOjE3ODk1Njk5NzYzNjU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-09-09T16:37:41+00:00",
+  "fetched_at": "2026-09-16T16:54:29+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,26 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "3e50f48af04820aa63f114d4fdad90a58e342157",
+      "title": "Humanity is Doomed",
+      "published_at": "2026-09-16T14:34:25+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/humanity-is-doomed",
+      "description": "This week's issue of The Bugle, Andy is joined by Nish Kumar and Sara Barron, as the trio discuss the end of Humanity, the rise of Reform and Trump's current venture into World Peace. Plus Andy's spat with cricket legend David Warner and talk of a possible Zaltzamn X Rogan podcast collab? Keep your eyes peeled 👀 All this and more in issue 4390 of The Bugle. 💻 End of Humanity: The trio delve into the news that AI is sending our planet to Armageddon 🇮🇪 Trump's Irish Adventure: The Bugle reports on the latest from Trump's visit to Ireland 🎨 Failed Renoir Heist : Andy, Nish and Sara report on a failed Art theft in France Andy's Links: https://www.andyzaltzman.co.uk/ Nish Kumar's Links: https://www.nishkumar.co.uk/ Sara Barron's Links: https://www.instagram.com/sarabarron1000000/?hl=en 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1789568509100-9f3855cf-537b-4744-a6cf-6a3b26aedb7b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6aaaa1e42fc2e13f78ef8fd4/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "52358582",
+      "itunes_duration": "54:32",
+      "speakers": [
+        "Nish Kumar",
+        "Sara Barron",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "humanity"
+      ]
+    },
     {
       "key": "c30f4f43052ca9f52ce0c5e0b5005d7d78aa372a",
       "title": "Game Over for White House",
@@ -14517,6 +14537,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — Humanity is Doomed — speakers: Nish Kumar, Sara Barron, Andy Zaltzman
 - 2026-09-09 — Game Over for White House — speakers: Helen Zaltzman, Anuvab Pal, Andy Zaltzman
 - 2026-09-02 — Fish Cakes with a Hint of Lead — speakers: Alice Fraser, Andy Zaltzman
 - 2026-08-20 — The Bugle UNCUT — speakers: Andy Zaltzman
