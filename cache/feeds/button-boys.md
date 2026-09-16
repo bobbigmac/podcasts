@@ -2,9 +2,9 @@
 
 - slug: `button-boys`
 - source: `https://feeds.megaphone.fm/buttonboys`
-- fetched_at: `2026-09-09T23:14:27+00:00`
-- checked_at: `2026-09-09T23:14:27+00:00`
-- last_modified: `Wed, 09 Sep 2026 23:08:04 GMT`
+- fetched_at: `2026-09-16T23:40:20+00:00`
+- checked_at: `2026-09-16T23:40:20+00:00`
+- last_modified: `Wed, 16 Sep 2026 23:09:43 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.instagram.com/buttonboyspod",
   "description": "Friends, comedians and avid gamers Glenn Moore, Sarah Keyworth and Pierre Novellie sit down each week to discuss gaming. Button Boys offers unheard of recommendations, their worst gripes, nostalgia and much more in each episode plus bonus content for their dedicated Patreon supporters. If you love gaming and comedy you've come to the right place.",
   "image_url": "https://megaphone.imgix.net/podcasts/dceddf0a-58fb-11f0-a3ff-9febf0329668/image/c1e3c33b225ca7a9660449027653e35b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-09T23:14:27+00:00",
+  "fetched_at": "2026-09-16T23:40:20+00:00",
   "owners": [
     "Glenn Moore",
     "Sarah Keyworth",
@@ -29,6 +29,29 @@
     "games/video-games"
   ],
   "episodes": [
+    {
+      "key": "20038a0d8eb20d748c25c17d6204b5dfdac2f1c5",
+      "title": "August Annals: What We've Been Playing",
+      "published_at": "2026-09-16T23:00:00+00:00",
+      "link": null,
+      "description": "I'll let you into a secret. We've been lying to you all this time. Every week, when you think you're listening to the latest video game content your podcast app of choice has to offer, we've been pulling the wool over your eyes. That's right, what you've been hearing is literally weeks old. But don't fear, because The Boys are back and fresh as hell. With a month off between recordings, they've created quite a backlog of games, so in this episode they're going to recap the heady days of August and early September. Pierre spills the tea on what actually happened on his gaming PC's Odyssean adventure, Sarah's returned to an old nemesis and finds themselves much better acquainted than they expected and Glenn's been suffering from the munchies when the sun goes down. To follow along with the Button Boys outside the podcast: ⁠ Cheerful Earful Festival Live Show ⁠ Pierre ⁠ Sarah ⁠ Glenn If you can't get enough Button Boys content, head over to ⁠⁠⁠⁠⁠⁠⁠Patreon⁠⁠⁠⁠⁠⁠⁠ , where you can find our weekly Hidden Cache bonus episode featuring more gripes, game recommendations and our Heavy Rain playthrough, and Player 4, where we interview a different comedian every month about their gaming lives. Follow along with the Button Boys on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ or ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ for highlights, behind-the-scenes content and future podcast announcements. Games Mentioned in this week's episode: Final Fantasy XIV Online Clair Obscur: Expedition 33 Baldur's Gate 3 Horizon Zero Dawn Horizon Forbidden West Mister Mosquito Command & Conquer Hell Let Loose: Vietnam Bloodborne Elden Ring Demon's Souls Dark Souls PowerWash Simulator The Blood of Dawnwalker The Witcher 3: Wild Hunt The Legend of Zelda: Breath of the Wild Pentiment Shift At Midnight Inkonbini: One Store. Many Stories Papers No Burglin' Gnomes Militsioner Big Walk RV There Yet? Marvel's Wolverine CONTROL Resonant Silent Hill: Townfall Onimusha: Way of the Sword Produced and edited by Ben Drayton Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/NSR2572202340.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3347",
+      "speakers": [
+        "August Annals",
+        "Been Playing",
+        "Glenn Moore",
+        "Sarah Keyworth",
+        "Pierre Novellie"
+      ],
+      "topics": [
+        "august",
+        "annal"
+      ]
+    },
     {
       "key": "ec392ba7b56882e51db671dec8c4e9f3528ce386",
       "title": "First Impressions: Tutorials and Intros that Stick",
@@ -1450,6 +1473,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — August Annals: What We've Been Playing — speakers: August Annals, Been Playing, Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-09-09 — First Impressions: Tutorials and Intros that Stick — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-09-02 — Getting the Ick: How to Ruin a Game — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie
 - 2026-08-26 — You've Got to Be F***ing Kidding Me — speakers: Glenn Moore, Sarah Keyworth, Pierre Novellie

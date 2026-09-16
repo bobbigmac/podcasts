@@ -5,6 +5,29 @@
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "f98569c199f4d91ff340e459d0b7b7870fbee3f2",
+        "episode_key": "f98569c199f4d91ff340e459d0b7b7870fbee3f2",
+        "title": "Sanjeev Bhaskar",
+        "published_at": "2026-09-16T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We’re in National Treasure territory again as we welcome British comedy royalty Sanjeev Bhaskar to the Dream Restaurant. The ‘Goodness Gracious Me’ and ‘Taskmaster’ star makes James laugh more than he ever has on the podcast, we think.\nSanjeev Bhaskar stars in ‘The Split Up’ which launches on 20 September on BBC iPlaye",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6aa42a57a6e9aef4ccf77dd1/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/sanjeev-bhaskar/id1442950743?i=1000789954091&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
         "dedupe_key": "93b8151006547e6ff99a250a4d0f348c450af218",
         "episode_key": "93b8151006547e6ff99a250a4d0f348c450af218",
         "title": "Jacqueline Novak",
@@ -6038,6 +6061,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "f98569c199f4d91ff340e459d0b7b7870fbee3f2",
+        "episode_key": "f98569c199f4d91ff340e459d0b7b7870fbee3f2",
+        "title": "Sanjeev Bhaskar",
+        "published_at": "2026-09-16T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "We’re in National Treasure territory again as we welcome British comedy royalty Sanjeev Bhaskar to the Dream Restaurant. The ‘Goodness Gracious Me’ and ‘Taskmaster’ star makes James laugh more than he ever has on the podcast, we think.\nSanjeev Bhaskar stars in ‘The Split Up’ which launches on 20 September on BBC iPlaye",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6aa42a57a6e9aef4ccf77dd1/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/sanjeev-bhaskar/id1442950743?i=1000789954091&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:2a4373e4b849",
         "feed_title": "How To Fail With Elizabeth Day",

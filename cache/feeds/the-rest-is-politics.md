@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-09-15T21:20:06+00:00`
-- checked_at: `2026-09-15T21:20:06+00:00`
-- last_modified: `Tue, 15 Sep 2026 21:15:03 GMT`
+- fetched_at: `2026-09-16T23:40:20+00:00`
+- checked_at: `2026-09-16T23:40:20+00:00`
+- last_modified: `Wed, 16 Sep 2026 23:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-15T21:20:06+00:00",
+  "fetched_at": "2026-09-16T23:40:20+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,16 +26,39 @@
   ],
   "episodes": [
     {
+      "key": "173300d7cc797a36f1867035b5626fed49e30b78",
+      "title": "572. Trump’s Next Middle East Crisis and Reform’s £72m Megadonation",
+      "published_at": "2026-09-16T23:00:00+00:00",
+      "link": null,
+      "description": "Is the Houthi’s seizure of one of the world's most critical waterways the clearest proof yet that Trump's Iran war has become a catastrophe? With the very people building AI now calling for a pause, is real regulation finally coming, or will tech billionaires keep writing the rules themselves? And with Reform banking £72 million from two crypto billionaires, why is Britain one of the only democracies with no cap on political donations? Join Rory and Alastair as they answer all these questions and more __________ Enjoy Rory and Alastair’s interview with Sanna Marin , Former Prime Minister of Finland, by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Lead Video Editor: Josh Smith Video Editor: James Clayden, Adam Thorton, Oli Ortega Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/25bf7b12-b1d4-11f1-b880-ff395121ce70/image/b89f4d6b72c81c83766d68c25c7496a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8699811434.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3472",
+      "speakers": [
+        "East Crisis"
+      ],
+      "topics": [
+        "trump",
+        "middle",
+        "east",
+        "crisis",
+        "reform",
+        "megadonation"
+      ]
+    },
+    {
       "key": "e31f19c59a87f5f24eb7827ee5c97755ea0ecee2",
       "title": "571. Rory and Alastair Challenge Ed Miliband on Israel-Palestine",
       "published_at": "2026-09-15T21:01:00+00:00",
       "link": null,
-      "description": "Why has Ed Miliband gone further than any previous foreign secretary in confirming the occupation of the Palestinian territories as illegal and placing sanctions on Israeli settlements in the West Bank? Can these limited sanctions really achieve their stated aim of “salvaging” the two-state solution? Will Britain now follow Mark Carney in building a new alliance of middle powers independent of the US and China? Alastair and Rory are joined by Ed Miliband, Secretary of State for Foreign and Commonwealth Affairs, to answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Sanna Marin , Former Prime Minister of Finland, by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Lead Video Editor: Josh Smith Video Editor: Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Why has Ed Miliband gone further than any previous foreign secretary in announcing the occupation of the Palestinian territories as illegal and placing sanctions on Israeli settlements in the West Bank? Can these limited sanctions really achieve their stated aim of “salvaging” the two-state solution? Will Britain now follow Mark Carney in building a new alliance of middle powers independent of the US and China? Alastair and Rory are joined by Ed Miliband, Secretary of State for Foreign and Commonwealth Affairs, to answer all these questions and more in this week's edition of Question Time. __________ Enjoy Rory and Alastair’s interview with Sanna Marin , Former Prime Minister of Finland, by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Lead Video Editor: Josh Smith Video Editor: Bruno Di Castri Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/c8789502-b11e-11f1-b837-27aacf911175/image/9a8cbd2817d4f9d8fb1f6d729148b4d0.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2871798723.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3520",
+      "itunes_duration": "3499",
       "speakers": [
         "Ed Miliband"
       ],
@@ -12962,6 +12985,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — 572. Trump’s Next Middle East Crisis and Reform’s £72m Megadonation — speakers: East Crisis
 - 2026-09-15 — 571. Rory and Alastair Challenge Ed Miliband on Israel-Palestine — speakers: Ed Miliband
 - 2026-09-10 — "Our Generation Was Lied To": Two Gen Z MPs on Fixing Politics — speakers: Two Gen
 - 2026-09-09 — 570. Why Trump Acts Like a Russian Asset and Miliband’s West Bank Sanctions — speakers: John Healy
