@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-09-09T04:40:37+00:00`
-- checked_at: `2026-09-09T04:40:37+00:00`
-- last_modified: `Mon, 07 Sep 2026 23:01:00 GMT`
+- fetched_at: `2026-09-16T04:48:25+00:00`
+- checked_at: `2026-09-16T04:48:25+00:00`
+- last_modified: `Mon, 14 Sep 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-09T04:40:37+00:00",
+  "fetched_at": "2026-09-16T04:48:25+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,53 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e4d6e33ada4259922c38dc61a6dc04e919170e67",
+      "title": "Body Image, Infestations & Fantasy Football",
+      "published_at": "2026-09-14T23:01:00+00:00",
+      "link": null,
+      "description": "What's the best way to get rid of fat? In this episode of Wolf & Owl, the boys are dealing with some of life’s less glamorous problems, as one family battles a full-blown outbreak of nits, and another discovers an absolutely horrific maggot infestation in the bin. Tom and Rom also get into the complicated world of body image, weight loss, and visceral fat, discussing everything from liposuction and CoolSculpting, to the realities of trying to change your body or accept it as is. Plus, Tom has a serious beef with wasps that needs exploring, the boys realise they’ve forgotten to set up the annual Wolf & Owl Fantasy Premier League, and they discuss their hopes for GTA 6. Another week, another collection of deeply unpleasant household problems from Wolf & Owl. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:59 A nits outbreak 03:30 Cooties 05:30 How to combat fat 14:00 Body image 22:31 A maggot mess 25:08 Tom’s insect beef 33:45 A side note on heart disease 34:34 On Richard Osman 36:20 Fantasy Premier League 43:35 Tom’s Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/9e214fba-b051-11f1-8aa2-5fb3ab8f751b/image/3791e0284b942f58fc0d9c68f25393a4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT5290558381.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2998",
+      "speakers": [
+        "Body Image",
+        "Fantasy Football What",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "body",
+        "image",
+        "infestations",
+        "fantasy",
+        "football"
+      ]
+    },
+    {
+      "key": "03db7a8d2f861e7a5f4270edba8b677a4c35a0d2",
+      "title": "Weird Food Combos And FOMO",
+      "published_at": "2026-09-10T23:01:00+00:00",
+      "link": null,
+      "description": "What's Tom & Romesh's best weird food combos? In this episode of Wolf & Owl, Romesh and Tom tackle some of life’s more important questions sent in by you, including how you should talk to your kids about drugs, whether boredom is actually a good thing and why Tom has absolutely no time for fancy soups. Elsewhere, the boys discuss their own youth, bizarre food combinations and share their thoughts on spending time alone and combating the experience of FOMO. Plus there's a debate on which characters they're more like from Fresh Prince and some soufflé hate from Romesh. Just another week of Wolf & Owl wisdom. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:42 Parenting advice on drugs 09:26 A question on strange food combos 14:01 Tom doesn’t do fancy soup 18:00 Some advice on boredom and alone time 24:36 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1c33db68-ac68-11f1-b529-779d8e31596b/image/9cb94503a030daa8571406334f94947a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT1446755352.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1668",
+      "speakers": [
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "weird",
+        "food",
+        "combos",
+        "fomo"
+      ]
+    },
     {
       "key": "9fcb22b78c1609d773e783ad0f824c912aa120bf",
       "title": "Catfishes, Testosterone & Airport Nightmares",
@@ -7521,6 +7568,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-14 — Body Image, Infestations & Fantasy Football — speakers: Body Image, Fantasy Football What, Romesh Ranganathan, Tom Davis
+- 2026-09-10 — Weird Food Combos And FOMO — speakers: Romesh Ranganathan, Tom Davis
 - 2026-09-07 — Catfishes, Testosterone & Airport Nightmares — speakers: Romesh Ranganathan, Tom Davis
 - 2026-09-03 — Top Pastry Choices, Friendship And Beard Tips — speakers: Beard Tips, Romesh Ranganathan, Tom Davis
 - 2026-08-31 — Tough Love, Parenting And The Marvel Universe — speakers: Tough Love, Romesh Ranganathan, Tom Davis

@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-09-13T04:46:11+00:00`
-- checked_at: `2026-09-13T04:46:11+00:00`
-- etag: `"djEuMi4wOjE3ODkyNjg0MzkzNTY="`
+- fetched_at: `2026-09-16T04:48:25+00:00`
+- checked_at: `2026-09-16T04:48:25+00:00`
+- etag: `"djEuMi4wOjE3ODk1MzEyNDAxMzQ="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-09-13T04:46:11+00:00",
+  "fetched_at": "2026-09-16T04:48:25+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "bc3b1baf7359123f3bfe3cb6443579e8d8492674",
+      "title": "WDWDY #87.1: The Redemption of Michael Suriname (Max's Yesterday)",
+      "published_at": "2026-09-16T04:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-871-the-redemption-of-michael-suriname-maxs-yesterday",
+      "description": "On this mid-week bonus ep we find out what Max did with his yesterday... Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx This is the last episode of the main series - business as usual on the fan club in the meantime. We'll be back soon after the live shows and a short end of summer break with more WDYDY. Thanks for listening!! Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ www.everythingisshowbiz.com ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1789509491812-96d368dc-83f5-4ac0-8f91-1c5cdf604ba4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6aa9c14abf7eb386d37011ba/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "121254023",
+      "itunes_duration": "50:24",
+      "speakers": [
+        "Michael Suriname",
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "redemption",
+        "michael",
+        "suriname",
+        "yesterday"
+      ]
+    },
     {
       "key": "b8e7796ee34b46bd574206f6d09d7fb6e2eae3b7",
       "title": "S6 EP1: Rob Rouse",
@@ -4078,6 +4101,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — WDWDY #87.1: The Redemption of Michael Suriname (Max's Yesterday) — speakers: Michael Suriname, Max Rushden, David O'Doherty
 - 2026-09-13 — S6 EP1: Rob Rouse — speakers: Rob Rouse, Max Rushden, David O'Doherty
 - 2026-09-09 — Did somebody say new series and fan club update? — speakers: Max Rushden, David O'Doherty
 - 2026-09-02 — WDWDY #86.1: Teabagging the goldfish (David's Yesterday) — speakers: Max Rushden, David O'Doherty

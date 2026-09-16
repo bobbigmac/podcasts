@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-09-14T12:44:44+00:00`
-- checked_at: `2026-09-14T12:44:44+00:00`
-- etag: `"djEuMi4wOjE3ODkzODk4NDE1MDQ="`
+- fetched_at: `2026-09-16T04:48:25+00:00`
+- checked_at: `2026-09-16T04:48:25+00:00`
+- etag: `"djEuMi4wOjE3ODk1MTQyNTk0MzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-09-14T12:44:44+00:00",
+  "fetched_at": "2026-09-16T04:48:25+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,26 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "b4e24341358b33f8629a731338534d72356732e6",
+      "title": "No Readmission",
+      "published_at": "2026-09-15T23:17:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/no-readmission",
+      "description": "Welcome to another week in the world of Mike Bubbins, Elis James and Steff Garrero at the Socially Distant Sports Bar. If you've ever had a day that promised so much and turned into a living hell then you will sympathise with Elis' attempt to watch Swansea City at Southampton. It's straight out of a bad sitcom. Mike reveals why he thinks he has Phil Bennett's Barbarians blazer in his bar which leads to reminiscing about Kim Cattrall on the back of a motor bike, there is a connection....honestly. The lads chat about Katie Taylor boxing in front of a sell-out crowd at Croke Park, some rugby nostalgia from 1953 and they talk about the great Sean Fitzpatrick, one of the legenfs of rugby union. Mike:Sean and Ardie https://www.instagram.com/reel/DclpZm0NIkN/?stkn=MXFjb3k0enRkejVyNA== Steff: Katie Taylor https://www.bbc.co.uk/sport/boxing/articles/c5yjr8pp0jwo https://www.instagram.com/reel/Dc63ebVDiiV/?stkn=MXdwZXg2bXN2YXZseQ== https://www.instagram.com/reel/Dc62YnfoWEO/?stkn=MWpqY2V2bWVpcmV4bw== https://www.instagram.com/reel/Dc65DgVJPEt/?stkn=cXE3ZnpyZ3k4azM= Elis Cardiff beat New Zealand, 1953 https://www.instagram.com/reel/Dc1cKJYILtn/?stkn=NXhnNWxmcDl4a Wg= 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6aa7e668b54f356fc7a5c05b/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "193297920",
+      "itunes_duration": "1:20:32",
+      "speakers": [
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "readmission"
+      ]
+    },
     {
       "key": "ff9ff229156829ae0fe5f9a1d7920ac089122ae8",
       "title": "A Goose To The Face: Pint Size",
@@ -15945,6 +15965,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-15 — No Readmission — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-09-12 — A Goose To The Face: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-10 — Cowboy At The Little Tesco — speakers: Elis James, Mike Bubbins, Steff Garr, Steff Garrero
 - 2026-09-08 — The Rizla Stadium — speakers: Elis James, Mike Bubbins, Steff Garrero

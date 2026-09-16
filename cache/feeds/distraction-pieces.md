@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-09-11T04:39:13+00:00`
-- checked_at: `2026-09-11T04:39:13+00:00`
-- etag: `"djEuMi4wOjE3ODkwOTY4MzkzMjY="`
+- fetched_at: `2026-09-16T04:48:25+00:00`
+- checked_at: `2026-09-16T04:48:25+00:00`
+- etag: `"djEuMi4wOjE3ODk1Mjg4MzkzMzg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-09-11T04:39:13+00:00",
+  "fetched_at": "2026-09-16T04:48:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,22 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "c8fa66b05e236bb35efbe8803498c46b6d31a268",
+      "title": "THE CATCH UP • ...with Buddy & Pip! #687",
+      "published_at": "2026-09-16T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip and Buddy check in and catch up, with a little Q&A to round things off! PIP'S PATREON PAGE if you're of a supporting nature SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1789488209589-fbdc28f2-e7b8-4239-b6c3-207768ba98cf.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6aa96d595d36baebf1add8d5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "143403561",
+      "itunes_duration": "59:40",
+      "speakers": [],
+      "topics": [
+        "buddy"
+      ]
+    },
     {
       "key": "a9423337d05ec98be61c76531489b9af898e92bc",
       "title": "HIMESH PATEL (The Odyssey / Bait / Tenet) • Friday Rewind",
@@ -19578,6 +19594,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — THE CATCH UP • ...with Buddy & Pip! #687
 - 2026-09-11 — HIMESH PATEL (The Odyssey / Bait / Tenet) • Friday Rewind
 - 2026-09-09 — DENZEL CURRY • new album 'ii' out now (with Kenneth Blume) #686 — speakers: Kenneth Blume
 - 2026-09-04 — ALISTAIR GREEN (Don't Think So Somehow / The Big Idea) • Friday Rewind

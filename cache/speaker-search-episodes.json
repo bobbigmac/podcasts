@@ -11881,6 +11881,28 @@
     ],
     "harriet-kemsley": [
       {
+        "feed_slug": "external:apple:1eac8536e49a",
+        "feed_title": "Walking The Dog with Emily Dean",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65fd941cc33959001681e12e",
+        "dedupe_key": "04abb9272413dc68061a21b6aa7c5046681484bb",
+        "episode_key": "04abb9272413dc68061a21b6aa7c5046681484bb",
+        "title": "Harriet Kemsley (Part One)",
+        "published_at": "2026-09-15T00:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week Emily and Ray head to South London to meet the brilliantly funny Harriet Kemsley and her beautiful Cavapoo, Sunny.\nWith torrential rain putting a stop to the planned walk, Harriet welcomes Emily and Ray into her home instead, where things get off to a slightly chaotic start when a questionable-looking cashew ",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65fd941cc33959001681e12e/e/6aa82086c939da279584d1a2/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harriet-kemsley-part-one/id1220510307?i=1000789665745&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:5a46c54e4129",
         "feed_title": "The Chris Evans Show with Moneybox",
         "source_rss_url": "https://feeds.acast.com/public/shows/c722608c-28bf-4b2b-9427-ba949c862639",

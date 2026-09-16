@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-14T04:54:49+00:00`
-- checked_at: `2026-09-14T04:54:49+00:00`
-- etag: `"djEuMi4wOjE3ODkzNTQ2NTk0MDU="`
+- fetched_at: `2026-09-16T04:48:25+00:00`
+- checked_at: `2026-09-16T04:48:25+00:00`
+- etag: `"djEuMi4wOjE3ODk1Mjc0NTkzODk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-14T04:54:49+00:00",
+  "fetched_at": "2026-09-16T04:48:25+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "3c64d1872b3c7290beb0a8fcf7bbcae6ad51ff35",
+      "title": "Penn Jillette and Piff the Magic Dragon - \"Sponge Bunnies\"",
+      "published_at": "2026-09-16T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #627 - Sponge Bunnies - Rich is back at the Podcast Room and his guests are two of the world’s top magicians Penn Jillette (sadly without Teller, although let’s say he was there, you’d never know the difference and Piff the Magic Dragon, currently in the UK with their urine soaked magic show, Piff and Pop’s Magic Shop. Penn, who said before that he wouldn’t be saying much, says a lot and gives us some great background on his reluctant appearance on Miami Vice, Piff performs some audio-described magic (whilst not doing magic) and Rich regrets not having a posse, Piff then does some real magic, though it’s Rich who is really doing it. Rich finally gets them to talk about their new show which has an impressive denouement and Piff explains why it was better not to win America’s Got Talent. They don’t even get time to talk about Piff cloning his dog for $60,000 or any of the other stuff Rich had ready to discuss, but it’s a surreal and wonderful 45 minutes of mayhem. See Piff and Pop’s Magic Shoppe on their brief UK tour https://www.aegpresents.co.uk/event/piff-and-pop/ SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Recorded at the Podcast Room Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1789492095300-5b323a03-c456-44ce-88f0-a75423f96390.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aa97b8d8a1508074d199780/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "23711869",
+      "itunes_duration": "49:23",
+      "speakers": [
+        "Penn Jillette",
+        "Richard Herring"
+      ],
+      "topics": [
+        "penn",
+        "jillette",
+        "piff",
+        "magic",
+        "dragon",
+        "sponge",
+        "bunnies"
+      ]
+    },
     {
       "key": "29b15b822cb11d7fbff4a2beddd1e57b37e7f4af",
       "title": "Jenny Eclair (Retro) - \"Hi di Hi\"",
@@ -23858,6 +23883,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — Penn Jillette and Piff the Magic Dragon - "Sponge Bunnies" — speakers: Penn Jillette, Richard Herring
 - 2026-09-14 — Jenny Eclair (Retro) - "Hi di Hi" — speakers: Jenny Eclair, Richard Herring
 - 2026-09-12 — Rich and Ally's Craven Newsround Compilation - Monkey Glue — speakers: Craven Newsround Compilation, Monkey Glue Tuesday, Monkey Glue, Richard Herring
 - 2026-09-11 — Rachael Stirling on All About My Mother - Book Club — speakers: Rachael Stirling, Richard Herring

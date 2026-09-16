@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-09-05T17:20:29+00:00`
-- checked_at: `2026-09-05T17:20:29+00:00`
-- etag: `W/"dd8472fb7d3a061d4e2bc3e4f3063ac1"`
-- last_modified: `Sat, 05 Sep 2026 17:00:00 GMT`
+- fetched_at: `2026-09-16T04:48:25+00:00`
+- checked_at: `2026-09-16T04:48:25+00:00`
+- etag: `W/"2d4b85380348aabc43b800099d0f61f7"`
+- last_modified: `Sun, 13 Sep 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-09-05T17:20:29+00:00",
+  "fetched_at": "2026-09-16T04:48:25+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,74 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "3f0ed762803ed5c6ab0a8af5be9a211f4e69882d",
+      "title": "Little Fish: Four Times a Knight",
+      "published_at": "2026-09-13T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8948983",
+      "description": "Anna gives a huge spoiler to one of Andy's novels, while they and James discuss YOUR facts. This week's subjects include Google, bloopers, Kenyan elephants and Kurt Vonnegut. And the gang announce eight more Friend of the Podcast custodians. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8948983.mp3?modified=1789051599&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "1850",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "times",
+        "knight"
+      ]
+    },
+    {
+      "key": "32b3dc769241d21ab7f9fe84e429676df95b9be5",
+      "title": "No Such Thing As Musical Toads",
+      "published_at": "2026-09-10T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8948958",
+      "description": "Live from the Lund Comedy Festival in Sweden, Dan, James, Anna and Andy discuss toads, turf and Toxic Waste. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia Get NordVPN two-year plan + four months extra ➼ https://nordvpn.com/fish It’s risk-free with Nord’s 30-day money-back guarantee. Get an exclusive 15% discount on Saily data plans! Use code [fish] at checkout. Download Saily app or go to https://saily.com/fish",
+      "image_url": "https://audioboom.com/i/43822822.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8948958.mp3?modified=1789035952&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3415",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "toad"
+      ]
+    },
+    {
+      "key": "9301a440b7bd128e42f1e2e63b8fa562fc2370ba",
+      "title": "Little Fish: Reindeer Animal Animal",
+      "published_at": "2026-09-06T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8948915",
+      "description": "Andy tells us which item of clothing he often loses in the night, while he, Anna and James discuss YOUR facts . This week's subjects include henges, Hitler, Swedes and subs. And the gang announce eight more Friend of the Podcast custodians. (Apologies for the audio quality this week - our microphones failed, but we hope the amazing batch of facts distracts you from it!) Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43479177.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8948915.mp3?modified=1788531226&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2047",
+      "speakers": [
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "fish",
+        "reindeer",
+        "animal"
+      ]
+    },
     {
       "key": "e5ffcf2b04453f8888f19442d45590fc4181232b",
       "title": "Bonus: Drop Us A Line - Will We Pass the Inspection?",
@@ -17038,6 +17106,9 @@
 
 ## Episodes (newest first)
 
+- 2026-09-13 — Little Fish: Four Times a Knight — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-09-10 — No Such Thing As Musical Toads — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
+- 2026-09-06 — Little Fish: Reindeer Animal Animal — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-09-05 — Bonus: Drop Us A Line - Will We Pass the Inspection? — speakers: Drop Us, Club Fish, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-09-03 — No Such Thing As Alien Dust — speakers: Rhys Darby, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-08-30 — Little Fish: No Orifice Boy — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

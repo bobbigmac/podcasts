@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-08-05T03:31:21+00:00`
-- checked_at: `2026-08-05T03:31:21+00:00`
-- etag: `"a6474-65841ab202f66"`
-- last_modified: `Wed, 05 Aug 2026 00:15:27 GMT`
+- fetched_at: `2026-09-16T04:48:25+00:00`
+- checked_at: `2026-09-16T04:48:25+00:00`
+- etag: `"a8d3a-65b8e90584a0b"`
+- last_modified: `Wed, 16 Sep 2026 00:15:25 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-08-05T03:31:21+00:00",
+  "fetched_at": "2026-09-16T04:48:25+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,67 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "dfe8554a25419c7dc9ea177cbb0e3f0688cb36cc",
+      "title": "Dancing",
+      "published_at": "2026-09-16T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/dancing",
+      "description": "We are not the only species that dances but we are the only one that has Dancercise. With that in mind, perhaps it is worth reflecting on the often misquoted words of 17th century poet and scholar John Donne: “Any man’s death diminishes me, because I am involved in Dancercise. Therefore never send to know for whom the bell tolls; it tolls for thee.” Thanks for Sandor of the other side of wherever for this week’s topic. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/ba7a9b5a-380e-45ef-885a-d7b4516dea20/S22-E03-Dancing.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/ce604114-00c0-43af-be67-b2ef749cb730.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=ce604114-00c0-43af-be67-b2ef749cb730",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "70598784",
+      "itunes_duration": "01:13:32",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "dancing"
+      ]
+    },
+    {
+      "key": "1f26f8a7a9232f2be21b1bb8f0da4be952540297",
+      "title": "Taxis",
+      "published_at": "2026-09-09T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/taxis",
+      "description": "Taxi drivers in the UK are exempt from having to wear seatbelts so that their passengers have one less thing to strangle them with mid-journey - a sobering little fact and one which perhaps illustrates the nature of the relationship between cabbies and their fares through the ages. Thanks to Phil of Utrecht for suggesting taxis as this week’s topic for the podcast (which has always been and remains steadfastly anti-strangle). Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Goodbye to the Hyundai video: https://www.youtube.com/watch?v=R7vC6zxNKBI With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/1d5d3d13-9fec-423a-95dc-eaabb8906374/S22-E02-Taxis-1.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/b0b9b3b6-6c58-40d5-8ab4-a042e80505fd.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=b0b9b3b6-6c58-40d5-8ab4-a042e80505fd",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "56334255",
+      "itunes_duration": "58:41",
+      "speakers": [
+        "Taxis Taxi",
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "taxis"
+      ]
+    },
+    {
+      "key": "66bab8fb180b83caf6d9ed3d44a17dd784258959",
+      "title": "Musicals",
+      "published_at": "2026-09-02T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/musicals",
+      "description": "It is known that EVERY event is better when punctuated by songs (hence hymns, national anthems, Auld Lang Syne etc). It stands to reason therefore that the musical is the apogee of human endeavour. Can you imagine then the excitement of the beans when this week’s topic was barfed out of The Bean Machine and musicals is what it turned out to be???!!!! Thanks to Sophie of somewhere probably for this perfectly judged suggestion. Tickets for Henry's tour: henrypaker.com Tickets for Mike's tour: mrmikewozniak.com Tickets for Beef And Dairy Network at the London Podcast Festival IN HALL: https://www.kingsplace.co.uk/whats-on/podcast/beef-and-dairy-network-podcast-5/ STREAMING: https://www.kingsplace.co.uk/whats-on/podcast/beef-and-dairy-network-podcast-online/ With thanks to our editor Laura Grimshaw. Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/8419931f-4736-46fb-96bf-a249ade70295/S22-E01-Musicals.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/48782a84-057c-45d1-b2ab-59a935ee67ae.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=48782a84-057c-45d1-b2ab-59a935ee67ae",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "62750765",
+      "itunes_duration": "01:05:22",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "musical"
+      ]
+    },
     {
       "key": "74b314fee37ba67bf06fc73add4aca041cc68859",
       "title": "August Anti-sode",
@@ -4462,6 +4523,9 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — Dancing — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2026-09-09 — Taxis — speakers: Taxis Taxi, Mike Wozniak, Henry Paker, Benjamin Partridge
+- 2026-09-02 — Musicals — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-08-05 — August Anti-sode — speakers: August Anti, Three Bean Salad, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-30 — Fifth Wednesday Ersatz Episode — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-07-22 — Frogs — speakers: Paul McCartney, Mike Wozniak, Henry Paker, Benjamin Partridge

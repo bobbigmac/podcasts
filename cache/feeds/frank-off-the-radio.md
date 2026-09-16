@@ -2,9 +2,9 @@
 
 - slug: `frank-off-the-radio`
 - source: `https://feeds.megaphone.fm/frankskinnershow`
-- fetched_at: `2026-09-14T04:54:49+00:00`
-- checked_at: `2026-09-14T04:54:49+00:00`
-- last_modified: `Mon, 14 Sep 2026 00:06:18 GMT`
+- fetched_at: `2026-09-16T04:48:25+00:00`
+- checked_at: `2026-09-16T04:48:25+00:00`
+- last_modified: `Wed, 16 Sep 2026 00:06:12 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.frankskinnerlive.com/podcasts",
   "description": "Radio Academy Award winning Frank and Emily bring you a show which is like joining your mates for a coffee... So, put the kettle on, sit down and enjoy Frank Off The Radio.",
   "image_url": "https://megaphone.imgix.net/podcasts/9a1067b2-817d-11ef-ad5f-2f220d17c6da/image/deb6492c9bdfc1c3d9f33ef1a18d4318.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-14T04:54:49+00:00",
+  "fetched_at": "2026-09-16T04:48:25+00:00",
   "owners": [
     "Frank Skinner"
   ],
@@ -27,6 +27,28 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "7f54f009fb24deea7537148ef09dde63003ff6c3",
+      "title": "Frank Skinner's Radio Days: Haribo Ring",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "link": null,
+      "description": "This week, it’s 2014 and the gang are discussing puddings! Frank acquires some new jewellery, and a love for beanbags. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/c779be2a-b127-11f1-9741-933c00fd7754/image/708d8d1d3a82a9581bed0aebe308bf87.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR4597930408.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2350",
+      "speakers": [
+        "Frank Skinner"
+      ],
+      "topics": [
+        "frank",
+        "skinner",
+        "radio",
+        "haribo",
+        "ring"
+      ]
+    },
     {
       "key": "896507afdc027d04ff4d0b181cf6556aee63fb43",
       "title": "Frank’s No Influencer!",
@@ -24727,6 +24749,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — Frank Skinner's Radio Days: Haribo Ring — speakers: Frank Skinner
 - 2026-09-14 — Frank’s No Influencer! — speakers: Frank’s No Influencer, Ruth Husko, Frank Skinner
 - 2026-09-11 — Thoughts on Hypnotism — speakers: Ruth Husko, Frank Skinner
 - 2026-09-09 — Frank Skinner’s Radio Days: Shakespeare Whatsapper — speakers: Frank Skinner, Shakespeare Whatsapper

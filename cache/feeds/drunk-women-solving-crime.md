@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-09-14T19:50:59+00:00`
-- checked_at: `2026-09-14T19:50:59+00:00`
-- etag: `"djEuMi4wOjE3ODkzOTQ3MDg5NjU="`
+- fetched_at: `2026-09-16T04:48:25+00:00`
+- checked_at: `2026-09-16T04:48:25+00:00`
+- etag: `"djEuMi4wOjE3ODk1MTY4Mzk3NzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-09-14T19:50:59+00:00",
+  "fetched_at": "2026-09-16T04:48:25+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,27 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "e34da66f6351772f6e6a4e430a48a27468d2bbad",
+      "title": "DWSC LIVE: With Quivers",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/dwsc-live-with-quivers",
+      "description": "Hello and welcome to the annual DWSC seaside holiday to the glorious Ventnor Fringe on the Isle of Wight! This year, the big top was bursting at the seams for a show that included local royalty in the form of drag and cabaret artiste, Quivers! Quivers kicks things off with a story from their youth, where the (fish) finger of blame is still being pointed 16 years on. The gang then see if they can finally solve a ghostly local legend, either from the 16th or 17th century, or perhaps even the 1700s - no one knows - least of all Hannah. Finally, we hear from a member of the audience, who reports some criminal activity that would have any perp shaking in their boots. The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in September, October AND November. Full info and tickets HERE. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6aa7fb462469d1a3b3bcbba7/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "75716507",
+      "itunes_duration": "52:34",
+      "speakers": [
+        "Quivers Hello",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "dwsc",
+        "quiver"
+      ]
+    },
     {
       "key": "a4d2a1603b31f7ef5740cf5ef50e67f3aecf3cd5",
       "title": "DWSC LIVE: With Aaron Simmonds",
@@ -11565,6 +11586,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — DWSC LIVE: With Quivers — speakers: Quivers Hello, Hannah George, Taylor Glenn
 - 2026-09-09 — DWSC LIVE: With Aaron Simmonds — speakers: Aaron Simmonds, Hannah George, Taylor Glenn
 - 2026-09-02 — DWSC LIVE: With Suzie Preece — speakers: Hannah George, Taylor Glenn
 - 2026-08-26 — Pen Pals, with Bella Lindsay — speakers: Bella Lindsay Hello, Hannah George, Taylor Glenn

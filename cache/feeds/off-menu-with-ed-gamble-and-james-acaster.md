@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-09-09T04:40:37+00:00`
-- checked_at: `2026-09-09T04:40:37+00:00`
-- etag: `"djEuMi4wOjE3ODg5MjI4Mzk2NjE="`
+- fetched_at: `2026-09-16T04:48:25+00:00`
+- checked_at: `2026-09-16T04:48:25+00:00`
+- etag: `"djEuMi4wOjE3ODk1Mjc2Mzk3Njk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-09-09T04:40:37+00:00",
+  "fetched_at": "2026-09-16T04:48:25+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -29,11 +29,33 @@
   ],
   "episodes": [
     {
+      "key": "9280a4150169eab0a19fd588074bafd949fc8683",
+      "title": "Sanjeev Bhaskar",
+      "published_at": "2026-09-16T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/sanjeev-bhaskar",
+      "description": "We’re in National Treasure territory again as we welcome British comedy royalty Sanjeev Bhaskar to the Dream Restaurant. The ‘Goodness Gracious Me’ and ‘Taskmaster’ star makes James laugh more than he ever has on the podcast, we think. Sanjeev Bhaskar stars in ‘The Split Up’ which launches on 20 September on BBC iPlayer and BBC One. Follow Sanjeev on Instagram @tvsanjeev Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1789143023733-8ee107c6-c586-4468-8298-4631a7479a38.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6aa42a57a6e9aef4ccf77dd1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "95161696",
+      "itunes_duration": "1:19:17",
+      "speakers": [
+        "Sanjeev Bhaskar",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "sanjeev",
+        "bhaskar"
+      ]
+    },
+    {
       "key": "c1d6a2ca6991229b159a8cb16774abba8e46fe9e",
       "title": "Jacqueline Novak",
       "published_at": "2026-09-09T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/jacqueline-novak",
-      "description": "US stand-up, Netflix star and Emmy-nominee Jacqueline Novak dines in the Dream Restaurant this week. Pizza or bread, Jacqueline Novak, pizza or bread? TW: there is some chat about body image. Jacqueline Novak’s special ‘Get On Your Knees’ is on Netflix. Watch it now . For Jacqueline’s latest shows and tour dates, keep an eye on her website www.jokesnovak.com Follow Jacqueline on Instagram @jacnov Listen to Jacqueline’s podcast ‘POOG’ with Kate Bertlant: https://poog.kit.com/ Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "US stand-up, Netflix star and Emmy-nominee Jacqueline Novak dines in the Dream Restaurant this week. Pizza or bread, Jacqueline Novak, pizza or bread? TW: there is some chat about body image. Jacqueline Novak’s special ‘Get On Your Knees’ is on Netflix. Watch it now . For Jacqueline’s latest shows and tour dates, keep an eye on her website www.jokesnovak.com Follow Jacqueline on Instagram @jacnov Listen to Jacqueline’s podcast ‘POOG’ with Kate Bertlant: https://poog.kit.com/ Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1788797365303-fe32cf5f-d2a5-4a8a-908e-6c639db5f808.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a9ee1bcf8f4d42589de2a05/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -55,7 +77,7 @@
       "title": "Tessa Coates",
       "published_at": "2026-09-02T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/tessa-coates",
-      "description": "Tessa Coates – creator/show-runner of Prime Video’s hit show ‘Ride or Die’, stand-up, writer and former ‘Nobody Panic’ podcaster – is this week’s guest diner. But will they talk about the time she met Paul Rudd? Yes. Tessa Coates’s series ‘Ride or Die’ is available now on Prime Video. Watch it here . Listen to Tessa’s podcast ‘Nobody Panic’ wherever you get your podcasts . Follow Tessa on Instagram @wheatpraylove Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Tessa Coates – creator/show-runner of Prime Video’s hit show ‘Ride or Die’, stand-up, writer and former ‘Nobody Panic’ podcaster – is this week’s guest diner. But will they talk about the time she met Paul Rudd? Yes. Tessa Coates’s series ‘Ride or Die’ is available now on Prime Video. Watch it here . Listen to Tessa’s podcast ‘Nobody Panic’ wherever you get your podcasts . Follow Tessa on Instagram @wheatpraylove Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1788256712959-2bccc6a8-29ce-433a-91fb-737858e1dbaa.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a7ed38c6f6b33429c8e579f/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -78,7 +100,7 @@
       "title": "Kaya Scodelario",
       "published_at": "2026-08-26T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/kaya-scodelario",
-      "description": "This week the Dream Restaurant welcomes British-Brazilian actor Kaya Scodelario – star of ‘The Maze Runner’ films, ‘Skins’ and Netflix’s ‘The Gentleman’. Kaya Scodelario stars in Guy Ritcher’s ‘The Gentlemen’, and series 2 comes to Netflix on 3 September. Watch series one now . Follow Kaya on Instagram @kayascods Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "This week the Dream Restaurant welcomes British-Brazilian actor Kaya Scodelario – star of ‘The Maze Runner’ films, ‘Skins’ and Netflix’s ‘The Gentleman’. Kaya Scodelario stars in Guy Ritcher’s ‘The Gentlemen’, and series 2 comes to Netflix on 3 September. Watch series one now . Follow Kaya on Instagram @kayascods Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1785486258265-f97348d7-cc69-4148-8567-9fdd8ed89883.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a6c5b7c8fc38d720f9f24fa/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -100,7 +122,7 @@
       "title": "Mark Gatiss",
       "published_at": "2026-08-19T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/mark-gatiss",
-      "description": "Mark Gatiss – 1/4 of The League of Gentlemen, Bafta-winner, co-creator and star of ‘Sherlock’ – has a booking at the Dream Restaurant this week. And he makes James his chip b*tch. Mark Gatiss created and stars in ‘Bookish’ and series 2 starts on U&alibi on Wed 26 Aug, and stream on U . Follow Mark on Instagram @themarkgatiss Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Mark Gatiss – 1/4 of The League of Gentlemen, Bafta-winner, co-creator and star of ‘Sherlock’ – has a booking at the Dream Restaurant this week. And he makes James his chip b*tch. Mark Gatiss created and stars in ‘Bookish’ and series 2 starts on U&alibi on Wed 26 Aug, and stream on U . Follow Mark on Instagram @themarkgatiss Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1785486361259-46f28d9c-e3ad-4e36-aead-422261715bab.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a68c4202670d42f37ae5386/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -122,7 +144,7 @@
       "title": "Bella Ramsey",
       "published_at": "2026-08-12T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/bella-ramsey",
-      "description": "Actor, Emmy-nominee, ‘The Last of Us’ star and future ‘Celebrity Traitors’ contestant Bella Ramsey is this week’s Off Menu guest. And people who write those quirky things on food packaging; you have a fan. Bella Ramsey stars in ‘Sunny Dancer’ which is released in cinemas on Friday 14 August. Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Actor, Emmy-nominee, ‘The Last of Us’ star and future ‘Celebrity Traitors’ contestant Bella Ramsey is this week’s Off Menu guest. And people who write those quirky things on food packaging; you have a fan. Bella Ramsey stars in ‘Sunny Dancer’ which is released in cinemas on Friday 14 August. Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1785486341048-201912e1-5d8b-4f52-b4ab-305f8930d245.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6a68b9852670d42f37ae5385/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -8944,6 +8966,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — Sanjeev Bhaskar — speakers: Sanjeev Bhaskar, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-09 — Jacqueline Novak — speakers: Jacqueline Novak, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-02 — Tessa Coates — speakers: Tessa Coates Tessa Coates, Prime Video, Ed Gamble, James Acaster, Ben Williams
 - 2026-08-26 — Kaya Scodelario — speakers: Kaya Scodelario, Ed Gamble, James Acaster, Ben Williams
