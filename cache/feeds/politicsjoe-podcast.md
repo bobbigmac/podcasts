@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-09-15T16:58:48+00:00`
-- checked_at: `2026-09-15T16:58:48+00:00`
-- etag: `"djEuMi4wOjE3ODk0ODkxOTQ5NTQ="`
+- fetched_at: `2026-09-16T11:31:33+00:00`
+- checked_at: `2026-09-16T11:31:33+00:00`
+- etag: `"djEuMi4wOjE3ODk1MzQ4NDAwNDc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-09-15T16:58:48+00:00",
+  "fetched_at": "2026-09-16T11:31:33+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "22c2ca601469d9627de6b7c473e8d2257706cba8",
+      "title": "Cory Doctorow: AI isn't Dangerous. America Is.",
+      "published_at": "2026-09-16T05:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6aa96ca35d36baebf1ada0f6",
+      "description": "There's only one story in town at the moment. With Dario Amodei running around telling us all how dangerous he and his acolytes are, while Trump tells us we need to deregulate more than we already have, everyone's asking: Is AI about to end the world? Cory Doctorow joins Ava to discuss this, breaking down the good and bad of the industry, and why the problem is far deeper than just the latest software Silicon Valley is imposing on the world. Cory Doctorow's new book The Reverse Centaur's guide to Life after AI is out now: https://www.versobooks.com/en-gb/products/3584-the-reverse-centaur-s-guide-to-life-after-a Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6aa96ca35d36baebf1ada0f6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "99058694",
+      "itunes_duration": "51:34",
+      "speakers": [
+        "Dario Amodei"
+      ],
+      "topics": [
+        "cory",
+        "doctorow",
+        "america"
+      ]
+    },
     {
       "key": "c6d07287134b6b13ffa2f5c3d9cb5ffe72a57ea0",
       "title": "Peter Oborne on Nigel Farage's downfall, and Labour's Palestine U-turn",
@@ -13601,6 +13621,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — Cory Doctorow: AI isn't Dangerous. America Is. — speakers: Dario Amodei
 - 2026-09-14 — Peter Oborne on Nigel Farage's downfall, and Labour's Palestine U-turn — speakers: Peter Oborne, Palestine U-turn
 - 2026-08-02 — Gary Stevenson: Tax wealth NOW or prepare for poverty — speakers: Gary Stevenson
 - 2026-07-26 — Gerry Adams on Andy Burnham, the far-right, and the breakup of the UK — speakers: Gerry Adams, Andy Burnham
