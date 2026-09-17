@@ -11930,6 +11930,28 @@
         "feed_slug": "external:apple:1eac8536e49a",
         "feed_title": "Walking The Dog with Emily Dean",
         "source_rss_url": "https://feeds.acast.com/public/shows/65fd941cc33959001681e12e",
+        "dedupe_key": "3fc00fda6b6f3634cd4fc991623b5388d8b1b521",
+        "episode_key": "3fc00fda6b6f3634cd4fc991623b5388d8b1b521",
+        "title": "Harriet Kemsley (Part Two)",
+        "published_at": "2026-09-17T00:01:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "In part two of Emily and Ray’s chat with the wonderful Harriet Kemsley, Harriet opens up about motherhood and how having her daughter gave her a sense of self-worth and confidence she’d never really experienced before. It’s a beautifully honest and moving conversation about how becoming a parent changed the way she see",
+        "audio_url": "https://sphinx.acast.com/p/open/s/65fd941cc33959001681e12e/e/6aa82172564171e32a2ff70c/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harriet-kemsley-part-two/id1220510307?i=1000790242762&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:1eac8536e49a",
+        "feed_title": "Walking The Dog with Emily Dean",
+        "source_rss_url": "https://feeds.acast.com/public/shows/65fd941cc33959001681e12e",
         "dedupe_key": "04abb9272413dc68061a21b6aa7c5046681484bb",
         "episode_key": "04abb9272413dc68061a21b6aa7c5046681484bb",
         "title": "Harriet Kemsley (Part One)",

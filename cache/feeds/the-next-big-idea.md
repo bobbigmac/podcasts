@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-09-10T11:18:08+00:00`
-- checked_at: `2026-09-10T11:18:08+00:00`
-- last_modified: `Thu, 10 Sep 2026 09:00:00 GMT`
+- fetched_at: `2026-09-17T11:40:03+00:00`
+- checked_at: `2026-09-17T11:40:03+00:00`
+- last_modified: `Thu, 17 Sep 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-10T11:18:08+00:00",
+  "fetched_at": "2026-09-17T11:40:03+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -27,6 +27,49 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "e7d41018e5a9c52c19acdfda6b35b5118f823ed9",
+      "title": "Why Healthy Conflict Is Key to Strong Relationships",
+      "published_at": "2026-09-17T09:00:00+00:00",
+      "link": null,
+      "description": "We’ve gotten very good at cutting people off. But have we forgotten how to work through our differences? In The Art of Fighting , bestselling author and conflict resolution expert Priya Parker challenges the idea that disagreement is a sign of a broken relationship. She argues that avoiding difficult conversations can quietly erode the very connections we’re trying to protect. The answer isn’t to fight more, but to develop what she calls “healthy heat”: the ability to hold tension with care long enough to get somewhere new. In this conversation with Rufus, Priya reveals why lasting communities need conflict as much as love, how to recognize which fights are worth having, and why some couples actually schedule their arguments. She also shares how to ask better questions during disagreements, make apologies that lead to real repair, and know when it’s time to let a relationship end.",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP5113511484.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4028",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "healthy",
+        "conflict",
+        "strong",
+        "relationship"
+      ]
+    },
+    {
+      "key": "b335f17b5aaab83def8af0b883344ea4140e7768",
+      "title": "Is America a ‘Country of Lords’?",
+      "published_at": "2026-09-14T09:00:00+00:00",
+      "link": null,
+      "description": "America was founded on a radical promise: all people are created equal. But for 250 years, some of the country’s most powerful thinkers have been arguing the opposite. In Country of Lords , historian Kim Phillips-Fein traces the largely forgotten intellectual tradition that has defended hierarchy, from the Founding Fathers and Gilded Age industrialists to today’s tech elite. She reveals how inequality has repeatedly been reframed as natural, necessary, and even good for society, and why those arguments are resurfacing at a moment of extraordinary wealth concentration. In this conversation with guest host Michael Kovnat, Kim explores the dark side of meritocracy, why some of America’s richest men believed wealth proved superiority, and how ideas once considered fringe are finding new life in Silicon Valley. With AI threatening to concentrate wealth even further, she asks a question that has followed America since its founding: how much inequality can a democracy survive? 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com. Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Northwest Registered Agent — Helping small business owners and entrepreneurs launch and grow businesses for nearly 30 years. Learn more at northwestregisteredagent.com/nbifree Quince — Find your next fall favorites at quince.com/nbi . Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. Shopify — It’s where you go to start your business, with everything you need already there from day one. Start your free trial at shopify.com/nbi Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP8695381576.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3192",
+      "speakers": [
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "america",
+        "country",
+        "lords"
+      ]
+    },
     {
       "key": "3fe9d83f4d6d840d58d4a421facdce1c5bafb7e4",
       "title": "A Storytelling Masterclass with Will Storr (NBI Vault)",
@@ -8459,6 +8502,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — Why Healthy Conflict Is Key to Strong Relationships — speakers: Rufus Griscom, Caleb Bissinger
+- 2026-09-14 — Is America a ‘Country of Lords’? — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-09-10 — A Storytelling Masterclass with Will Storr (NBI Vault) — speakers: Will Storr, Rufus Griscom, Caleb Bissinger
 - 2026-09-07 — What Can Henry David Thoreau Teach Us About Work? — speakers: Henry David Thoreau, Rufus Griscom, Caleb Bissinger
 - 2026-09-03 — How French Philosophy Wired Modern Thinking — speakers: How French Philosophy Wired, Modern Thinking How, Rufus Griscom, Caleb Bissinger
