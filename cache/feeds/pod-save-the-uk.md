@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-09-10T04:41:14+00:00`
-- checked_at: `2026-09-10T04:41:14+00:00`
-- etag: `W/"99a3242bdbcaa48aed7a9d6106150bcd"`
-- last_modified: `Wed, 09 Sep 2026 23:06:00 GMT`
+- fetched_at: `2026-09-17T04:51:38+00:00`
+- checked_at: `2026-09-17T04:51:38+00:00`
+- etag: `W/"c971316dbc6136234e9e8f5ccb767bce"`
+- last_modified: `Thu, 17 Sep 2026 01:09:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-09-10T04:41:14+00:00",
+  "fetched_at": "2026-09-17T04:51:38+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,35 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7b900f8771d886f32f174309d22332babf32b2ed",
+      "title": "Good Men, Bad Algorithms w/ Jordan Stephens. Plus, The Future of the Union: Is Westminster’s Time Coming to an End?",
+      "published_at": "2026-09-17T01:09:00+00:00",
+      "link": "https://audioboom.com/posts/8953563",
+      "description": "This week, journalist and friend of the show Will Hayward joins to unpack a landmark summit between the leaders of Wales, Scotland and Northern Ireland. With pro-independence parties joining forces and declaring that “Westminster’s time is coming to an end” – bold words, but what does it really mean? Plus, Jordan Stephens, musician, writer and one half of Rizzle Kicks, joins Nish and Coco to discuss the rise of hyper-masculine figures online, and whether human connection can offer a healthier model and an alternative to the politics of division. USEFUL LINKS Subscribe to Will Hayward’s substack here Watch Jordan Stephens ‘In Search Of Peace’ here CHECK OUT THESE DEALS FROM OUR SPONSORS BETTERHELP: https://www.betterhelp.com/psuk SHOPIFY: https://www.shopify.co.uk Pod Save the UK is an Intelligence Squared production for Crooked Media. Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43840982/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8953563.mp3?modified=1789582424&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4844",
+      "speakers": [
+        "Good Men",
+        "Jordan Stephens",
+        "Will Hayward",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "good",
+        "algorithms",
+        "jordan",
+        "stephens",
+        "future",
+        "union",
+        "westminster",
+        "time"
+      ]
+    },
     {
       "key": "ea2b583a84ef924ba1b6e3f5d26fb5ca721352e6",
       "title": "‘Radicalised, organised, and thick as s**t’: Nish has had it with far-right protests. Plus - why Cory Doctorow is waiting for the AI bubble to burst.",
@@ -622,10 +651,10 @@
       "link": "https://audioboom.com/posts/8875657",
       "description": "Reform UK is getting into the lottery business - inviting people to sign up for a chance to have their energy bills paid for a year. But is the real prize a massive database of voters ahead of the next General Election? Plus - party leader Nigel Farage has been caught saying some pretty questionable stuff for money on Cameo. Is that really the kind of thing we should expect from someone who plans to be our next Prime Minister? Nish and Coco are joined by authors Quinn Slobodian and Ben Tarnoff. Their new book Muskism: A Guide for the Perplexed looks at the billionaire manbaby in a whole new way. If you want to understand what’s driving Musk and what it could mean for all of us - this is the chat for you. And POLITICO’s Anne McElvoy is on hand as the former Labour deputy leader Angela Rayner pops up to point out all the ways Labour is getting it wrong at the moment - subtext: without her they’re lost. Reminder to send in your burning questions for Nish and Coco to psuk@reducedlistening.co.uk CHECK OUT THESE DEALS FROM OUR SPONSORS BABBEL: https://www.babbel.com/PSUK WISE: https://www.wise.com SHOPIFY: https://shopify.co.uk/podsavetheuk GUESTS Quinn Slobodian and Ben Tarnoff, Authors. Muskism: A Guide for the Perplexed Out on March 24th Anne McElvoy, Executive Editor, POLITICO and co-host Politics at Sam and Anne’s USEFUL LINKS The Podcast Show - https://www.thepodcastshowlondon.com/explore-passes Muskism: A Guide for the Perplexed https://www.penguin.co.uk/books/477340/muskism-by-tarnoff-quinn-slobodian-and-ben/9780241805114 CREDITS The Guardian - YouTube The Independent - YouTube Reform UK - YouTube Today in Focus - The Guardian Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43537031.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8875657.mp3?modified=1774521987&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8875657.mp3?modified=1789448642&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3487",
+      "itunes_duration": "3315",
       "speakers": [
         "Nish Kumar",
         "Coco Khan"
@@ -4192,6 +4221,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — Good Men, Bad Algorithms w/ Jordan Stephens. Plus, The Future of the Union: Is Westminster’s Time Coming to an End? — speakers: Good Men, Jordan Stephens, Will Hayward, Nish Kumar, Coco Khan
 - 2026-09-09 — ‘Radicalised, organised, and thick as s**t’: Nish has had it with far-right protests. Plus - why Cory Doctorow is waiting for the AI bubble to burst. — speakers: Cory Doctorow, Nish Kumar, Coco Khan
 - 2026-09-03 — Nish is Back - and Keir’s Off! Plus ‘The Shafted Majority’: Racism and Resistance w/ Taj Ali — speakers: Taj Ali, Nish Kumar, Coco Khan
 - 2026-08-27 — Britain’s Rotting Barrel: it’s time to use the ‘C’ word w/ Robert Barrington — speakers: Robert Barrington, Nish Kumar, Coco Khan

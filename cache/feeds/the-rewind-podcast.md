@@ -2,9 +2,9 @@
 
 - slug: `the-rewind-podcast`
 - source: `https://anchor.fm/s/fe089f90/podcast/rss`
-- fetched_at: `2026-09-13T04:46:11+00:00`
-- checked_at: `2026-09-13T04:46:11+00:00`
-- etag: `W/"1a5fb-kZi3LWnWTLrJ7o0BXlkJOqtYX+4"`
+- fetched_at: `2026-09-17T04:51:38+00:00`
+- checked_at: `2026-09-17T04:51:38+00:00`
+- etag: `W/"1ae2f-gq0REEtEiVBgDPIqWvrCPXjj4bI"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://secondwindgroup.com/",
   "description": "Welcome to The Rewind, Second Wind's premiere entertainment podcast. Join Darren Mooney, Jack Packard, and Marty Sliva as they chat everything movies and TV.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
-  "fetched_at": "2026-09-13T04:46:11+00:00",
+  "fetched_at": "2026-09-17T04:51:38+00:00",
   "owners": [
     "Darren Mooney",
     "Jack Packard",
@@ -28,6 +28,32 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d5f61a875af145a50807582172d0d22493dc39f0",
+      "title": "Emmys, Resi Rewatch, and More Lanterns | The Rewind Podcast",
+      "published_at": "2026-09-16T17:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/sw-the-rewind/episodes/Emmys--Resi-Rewatch--and-More-Lanterns--The-Rewind-Podcast-e3oum8u",
+      "description": "This week on The Rewind, Jack, Darren, and Marty chat about this year's Emmy Awards winners, Darren's recent Resident Evil rewatch, and why Lanterns continues to be great. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at ⁠⁠⁠⁠⁠⁠⁠ patreon.com/SecondWindGroup⁠⁠",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519780/72ddaa403b9f2079.png",
+      "enclosure_url": "https://anchor.fm/s/fe089f90/podcast/play/125834974/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-16%2F5098de79-cefb-a950-8943-26f0e35519c5.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "216033440",
+      "itunes_duration": "02:30:01",
+      "speakers": [
+        "Resi Rewatch",
+        "Darren Mooney",
+        "Jack Packard",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "emmys",
+        "resi",
+        "rewatch",
+        "lanterns",
+        "rewind",
+        "podcast"
+      ]
+    },
     {
       "key": "25e8a5371b03977f5e4105b079d2bfc9fffb311c",
       "title": "Coyote vs. Acme Is a Delight Worth Supporting in Theaters | The Rewind Podcast",
@@ -1364,6 +1390,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-16 — Emmys, Resi Rewatch, and More Lanterns | The Rewind Podcast — speakers: Resi Rewatch, Darren Mooney, Jack Packard, Marty Sliva
 - 2026-09-02 — Coyote vs. Acme Is a Delight Worth Supporting in Theaters | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-08-19 — X-Men Casting News, HBO's Lanterns, and The End of Oak Street | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva
 - 2026-08-05 — We Have Thoughts on Spider-Man: Brand New Day | The Rewind Podcast — speakers: Darren Mooney, Jack Packard, Marty Sliva

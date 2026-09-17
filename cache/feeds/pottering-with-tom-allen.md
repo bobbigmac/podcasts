@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-09-10T04:41:14+00:00`
-- checked_at: `2026-09-10T04:41:14+00:00`
+- fetched_at: `2026-09-17T04:51:38+00:00`
+- checked_at: `2026-09-17T04:51:38+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 10 Sep 2026 04:14:36 GMT`
+- last_modified: `Thu, 17 Sep 2026 04:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-10T04:41:14+00:00",
+  "fetched_at": "2026-09-17T04:51:38+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "00c020e177f7560d55ab801dbc4a28a7c8787166",
+      "title": "Mel Giedroyc and Sue Perkins",
+      "published_at": "2026-09-17T04:00:00+00:00",
+      "link": null,
+      "description": "This week, I am joined in the garden by the utterly delightful Mel Giedroyc and Sue Perkins ! 🌿 Mel and Sue are long-time friends, comedy partners and sure-fire national treasures! 🏆 It was such a joy to welcome them for a chat, compare tales of suburbia and hear all about their many fabulous adventures together! We discuss tackling heatwaves in the garden, hungry cats and even hungrier beavers, and hear all about the exciting return of Win Win! 🍕🐈 So, grab your gardening gloves, jump on the nearest night bus, and come Pottering with us. 🪴🚌 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, or leave a review! @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/48c26df8-b1b7-11f1-83b6-c77b39e7c643/image/fe9637f2983fcb15232fcbd17a1fb5e3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR3485679197.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3453",
+      "speakers": [
+        "Mel Giedroyc",
+        "Sue Perkins",
+        "Tom Allen"
+      ],
+      "topics": [
+        "giedroyc",
+        "perkins"
+      ]
+    },
     {
       "key": "8375599059687d2c08b490b08e0116f5169bfb9a",
       "title": "Dorothy Atkinson",
@@ -1082,6 +1103,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — Mel Giedroyc and Sue Perkins — speakers: Mel Giedroyc, Sue Perkins, Tom Allen
 - 2026-09-10 — Dorothy Atkinson — speakers: Dorothy Atkinson, Tom Allen
 - 2026-09-03 — Uncle Andy — speakers: Uncle Andy, Tom Allen
 - 2026-08-27 — JB Gill — speakers: JB Gill, Tom Allen
