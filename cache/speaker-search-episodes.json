@@ -22084,6 +22084,28 @@
     ],
     "lou-sanders": [
       {
+        "feed_slug": "external:apple:b668206d8929",
+        "feed_title": "Taskmaster The Podcast",
+        "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",
+        "dedupe_key": "bfcf9109635cdeccf70c7954ff1d0a5a6a228dbe",
+        "episode_key": "bfcf9109635cdeccf70c7954ff1d0a5a6a228dbe",
+        "title": "Lou Sanders - Series 22 Ep.3",
+        "published_at": "2026-09-17T20:45:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "To discuss Episode 3 of the brand new series, Ed is joined by the brilliant comedian (and TM alumni) Lou Sanders! \nEd and Lou talk about many things including gleeking (of course)the new line up, and their opinions of the 2026 eclipse. All this plus a deep dive in to the latest episode. Happy Gleeking! \nTo get all you ",
+        "audio_url": "https://episodes.captivate.fm/episode/fed71d9b-781e-4421-86bc-334d4e3efeb6.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=fed71d9b-781e-4421-86bc-334d4e3efeb6",
+        "link_url": "https://podcasts.apple.com/gb/podcast/lou-sanders-series-22-ep-3/id1535040312?i=1000790404523&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Lou Sanders"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:8620936bd7b7",
         "feed_title": "Elis James and John Robins",
         "source_rss_url": "https://feeds.acast.com/public/shows/698b89c05e0cb52f15bcde20",

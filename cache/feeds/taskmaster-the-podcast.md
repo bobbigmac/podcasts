@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-09-10T20:51:55+00:00`
-- checked_at: `2026-09-10T20:51:55+00:00`
-- etag: `"ddeeb-65b270bf1cbc4"`
-- last_modified: `Thu, 10 Sep 2026 20:45:22 GMT`
+- fetched_at: `2026-09-17T21:21:34+00:00`
+- checked_at: `2026-09-17T21:21:34+00:00`
+- etag: `"de7a5-65bb3dd1a2d72"`
+- last_modified: `Thu, 17 Sep 2026 20:45:27 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-09-10T20:51:55+00:00",
+  "fetched_at": "2026-09-17T21:21:34+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "8deccbf6aa49d54cae45bd989a18ca6918f91c57",
+      "title": "Lou Sanders - Series 22 Ep.3",
+      "published_at": "2026-09-17T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "To discuss Episode 3 of the brand new series, Ed is joined by the brilliant comedian (and TM alumni) Lou Sanders! Ed and Lou talk about many things including gleeking (of course)the new line up, and their opinions of the 2026 eclipse. All this plus a deep dive in to the latest episode. Happy Gleeking! To get all you latest Taskmaster news visit Taskmaster.tv To Catch up on old episodes visit Channel4.com And if you want to see any more TM content and some behind the scenes, visit the Taskmaster YouTube Channel!",
+      "image_url": "https://artwork.captivate.fm/d577f53a-3d71-496e-9521-ccf6c148f95d/TASKMASTER-PODCAST-ARTWORK-Lou.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/fed71d9b-781e-4421-86bc-334d4e3efeb6.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=fed71d9b-781e-4421-86bc-334d4e3efeb6",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "50572176",
+      "itunes_duration": "52:40",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "sanders",
+        "series"
+      ]
+    },
     {
       "key": "e92b86373e884374ec67a0e1d67d1bb2b1ac8511",
       "title": "Chloe Petts - Series 22 Ep.2",
@@ -5657,6 +5676,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — Lou Sanders - Series 22 Ep.3 — speakers: Ed Gamble
 - 2026-09-10 — Chloe Petts - Series 22 Ep.2 — speakers: Ed Gamble
 - 2026-09-03 — Reece Shearsmith - Series 22 Ep.1 — speakers: Ed Gamble
 - 2026-08-31 — Taskmaster: The People's Podcast - UK TASKMASTER SERIES 22 STATS AND PREDICTIONS — speakers: Ed Gamble

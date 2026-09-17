@@ -54,8 +54,8 @@
       "last_modified": "Wed, 16 Sep 2026 00:15:25 GMT"
     },
     "no-such-thing-as-a-fish": {
-      "last_checked_at": "2026-09-17T16:59:26+00:00",
-      "last_checked_unix": 1789664381,
+      "last_checked_at": "2026-09-17T21:21:34+00:00",
+      "last_checked_unix": 1789680098,
       "etag": "W/\"2d4b85380348aabc43b800099d0f61f7\"",
       "last_modified": "Sun, 13 Sep 2026 22:55:00 GMT"
     },
@@ -284,8 +284,8 @@
       "last_modified": "Wed, 05 Nov 2025 15:02:53 GMT"
     },
     "politicsjoe-podcast": {
-      "last_checked_at": "2026-09-17T16:59:26+00:00",
-      "last_checked_unix": 1789664370,
+      "last_checked_at": "2026-09-17T21:21:34+00:00",
+      "last_checked_unix": 1789680098,
       "etag": "\"djEuMi4wOjE3ODk1MzQ4NDAwNDc=\""
     },
     "ramon-fears-terror-tapes": {
@@ -309,10 +309,10 @@
       "last_modified": "Wed, 16 Sep 2026 01:06:44 GMT"
     },
     "taskmaster-the-podcast": {
-      "last_checked_at": "2026-09-10T20:51:55+00:00",
-      "last_checked_unix": 1789073520,
-      "etag": "\"ddeeb-65b270bf1cbc4\"",
-      "last_modified": "Thu, 10 Sep 2026 20:45:22 GMT"
+      "last_checked_at": "2026-09-17T21:21:34+00:00",
+      "last_checked_unix": 1789680098,
+      "etag": "\"de7a5-65bb3dd1a2d72\"",
+      "last_modified": "Thu, 17 Sep 2026 20:45:27 GMT"
     },
     "sherlock-holmes-imagination-theatre": {
       "last_checked_at": "2026-02-19T20:50:56+00:00",
@@ -427,8 +427,8 @@
       "last_modified": "Fri, 11 Sep 2026 08:02:21 GMT"
     },
     "the-damage-guild-a-pathfinder-2e-podcast": {
-      "last_checked_at": "2026-09-17T16:59:26+00:00",
-      "last_checked_unix": 1789664381,
+      "last_checked_at": "2026-09-17T21:21:34+00:00",
+      "last_checked_unix": 1789680099,
       "last_modified": "Mon, 14 Sep 2026 04:01:00 GMT",
       "consecutive_failures": 0
     },
@@ -443,13 +443,13 @@
       "etag": "\"djEuMi4wOjE2NDY3ODIwNTQ3ODY=\""
     },
     "table-manners-with-jessie-and-lennie-ware": {
-      "last_checked_at": "2026-09-17T16:59:26+00:00",
-      "last_checked_unix": 1789664382,
+      "last_checked_at": "2026-09-17T21:21:34+00:00",
+      "last_checked_unix": 1789680099,
       "etag": "\"djEuMi4wOjE3ODk2NDUyMzY0NTE=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-09-17T16:59:26+00:00",
-      "last_checked_unix": 1789664383,
+      "last_checked_at": "2026-09-17T21:21:34+00:00",
+      "last_checked_unix": 1789680099,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -504,8 +504,8 @@
       "last_modified": "Tue, 16 Jun 2026 08:52:02 GMT"
     },
     "socially-distant-sports-bar": {
-      "last_checked_at": "2026-09-17T16:59:26+00:00",
-      "last_checked_unix": 1789664383,
+      "last_checked_at": "2026-09-17T21:21:34+00:00",
+      "last_checked_unix": 1789680099,
       "etag": "\"djEuMi4wOjE3ODk1MTQyNTk0MzA=\"",
       "consecutive_failures": 0
     },
@@ -552,8 +552,8 @@
       "last_modified": "Sun, 21 Jun 2026 23:05:57 GMT"
     },
     "all-killa-no-filla": {
-      "last_checked_at": "2026-09-17T16:59:26+00:00",
-      "last_checked_unix": 1789664383,
+      "last_checked_at": "2026-09-17T21:21:34+00:00",
+      "last_checked_unix": 1789680100,
       "etag": "\"ad09a6eb3b1c5a3889855925aa8a4949\"",
       "last_modified": "Mon, 10 Aug 2026 16:54:33 GMT"
     },
@@ -627,8 +627,8 @@
       "consecutive_failures": 0
     },
     "peacock-and-gamble": {
-      "last_checked_at": "2026-09-17T16:59:26+00:00",
-      "last_checked_unix": 1789664376,
+      "last_checked_at": "2026-09-17T21:21:34+00:00",
+      "last_checked_unix": 1789680105,
       "consecutive_failures": 0
     },
     "best-of-fubar": {
@@ -637,5 +637,5 @@
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-09-17T16:59:26+00:00"
+  "updated_at": "2026-09-17T21:21:34+00:00"
 }
