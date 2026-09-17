@@ -2,9 +2,9 @@
 
 - slug: `table-manners-with-jessie-and-lennie-ware`
 - source: `https://feeds.acast.com/public/shows/tablemanners`
-- fetched_at: `2026-09-16T04:48:25+00:00`
-- checked_at: `2026-09-16T04:48:25+00:00`
-- etag: `"djEuMi4wOjE3ODg5NTcwODY2NjI="`
+- fetched_at: `2026-09-17T16:59:26+00:00`
+- checked_at: `2026-09-17T16:59:26+00:00`
+- etag: `"djEuMi4wOjE3ODk2NDUyMzY0NTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.acast.com/tablemanners",
   "description": "Jessie Ware hosts a podcast about food, family, and everything in between, with a bit of help from her chef extraordinaire mum Lennie. Each week guests from music, culture and politics drop by for a bite and a bit of a natter.",
   "image_url": "https://assets.pippa.io/shows/621f73504892fda0d424d63e/1759243684460-725c2b42-a8c7-4e1c-9782-a4e2932242be.jpeg",
-  "fetched_at": "2026-09-16T04:48:25+00:00",
+  "fetched_at": "2026-09-17T16:59:26+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [

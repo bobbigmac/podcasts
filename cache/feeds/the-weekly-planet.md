@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-09-14T04:54:49+00:00`
-- checked_at: `2026-09-14T04:54:49+00:00`
-- etag: `"djEuMi4wOjE3ODkzNjAyMzk0NDc="`
+- fetched_at: `2026-09-17T16:59:26+00:00`
+- checked_at: `2026-09-17T16:59:26+00:00`
+- etag: `"djEuMi4wOjE3ODk2NTE4Mzk0NTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-09-14T04:54:49+00:00",
+  "fetched_at": "2026-09-17T16:59:26+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,29 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "d3f0debacfa0d1511dc1f6af91710b4bb178a8f1",
+      "title": "Resident Evil: The Final Chapter - Caravan Of Garbage",
+      "published_at": "2026-09-17T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/resident-evil-the-final-chapter-caravan-of-garbage",
+      "description": "Our long and winding tour down the Resident Evil road is coming to an end with The Final Chapter. Time to say goodbye to Milla Jovovich's Alice and the one or two other characters that they bothered to bring back in this sixth entry. The stakes have never been higher! The clock is ticking on the 27 people left on planet earth to release an anti-virus which would stop all the Resident Evil in its tracks. And there's secrets to be revealed! Secrets that don't make any sense especially if you've been paying attention to any of these movies which we have sort of. Thanks for watching our Caravan Of Garbage review SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a94f5201d52ae16ba9f0bd0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "32059702",
+      "itunes_duration": "31:13",
+      "speakers": [
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "resident",
+        "evil",
+        "chapter",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "43d29bbc049302cc0d03ee31d20d7a2924019350",
       "title": "640 Wolverine Disappoints & Runner (not The Runner)",
@@ -122,12 +145,12 @@
       "title": "638 The Dog Stars",
       "published_at": "2026-08-31T04:30:00+00:00",
       "link": "https://shows.acast.com/theweeklyplanet/episodes/638-the-dog-stars",
-      "description": "Ridley Scott is back it again with his seven thousandth movie The Dog Stars! We review that and also talk his potential return to the Alien franchise. We also mourn the passing of Dolly Parton, Tim Curry and Peter Cullen, who will direct the next Batman movie in the DCU, a new live action Flintstones movie, Dan Stevens as RoboCop, an update on Days of Thunder 2 and more! Thanks for listening! New bonus clickbait podcast and video out now! Available to watch on bigsandwich.co, patreon.com/mrsundaymovies and YouTube Memberships at youtube.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 03:14 RIP Dolly Parton, Tim Curry & Peter Cullen 10:43 Man of Tomorrow Wraps & James Gunn Batman Movie 16:42 The Flinstones Live Action Ryan Gosling Movie 20:17 Dan Stevens Stars in RoboCop Series 29:52 Tom Cruise Announces Days of Thunder Sequel 34:51 Ridley Scott Says Alien: Romulus is OK 38:57 The Dog Stars Movie Review 53:43 The Dog Stars Spoiler Segment 01:07:26 What We Reading, What We Gonna Read 01:17:40 Letters, It's Time For Letters 01:21:03 Lanterns Talk - Episode 2 Spoilers SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Ridley Scott is back it again with his seven thousandth movie The Dog Stars! We review that and also talk his potential return to the Alien franchise. We also mourn the passing of Dolly Parton, Tim Curry and Peter Cullen, who will direct the next Batman movie in the DCU, a new live action Flintstones movie, Dan Stevens as RoboCop, an update on Days of Thunder 2 and more! Thanks for listening! New bonus clickbait podcast and video out now! Available to watch on bigsandwich.co, patreon.com/mrsundaymovies and YouTube Memberships at youtube.com/mrsundaymovies PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 03:14 RIP Dolly Parton, Tim Curry & Peter Cullen 10:43 Man of Tomorrow Wraps & James Gunn Batman Movie 16:42 The Flinstones Live Action Ryan Gosling Movie 20:17 Dan Stevens Stars in RoboCop Series 29:52 Tom Cruise Announces Days of Thunder Sequel 34:51 Ridley Scott Says Alien: Romulus is OK 37:10 The Dog Stars Movie Review 51:26 The Dog Stars Spoiler Segment 01:05:38 What We Reading, What We Gonna Read 01:15:48 Letters, It's Time For Letters 01:19:33 Lanterns Talk - Episode 2 Spoilers SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6a9416b763de6f7b41a8ebb1/media.mp3",
       "enclosure_type": "audio/mpeg",
-      "enclosure_length": "151780027",
-      "itunes_duration": "1:45:24",
+      "enclosure_length": "99473449",
+      "itunes_duration": "1:43:37",
       "speakers": [
         "James Clement",
         "Nick Mason"
@@ -23095,6 +23118,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — Resident Evil: The Final Chapter - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-09-14 — 640 Wolverine Disappoints & Runner (not The Runner) — speakers: James Clement, Nick Mason
 - 2026-09-10 — Resident Evil: Retribution - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-09-07 — 639 Biggest "Jumping the Shark" Moments in Movies & TV Shows — speakers: James Clement, Nick Mason

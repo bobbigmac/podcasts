@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-09-17T11:40:03+00:00`
-- checked_at: `2026-09-17T11:40:03+00:00`
-- etag: `"2665a9-65ba5fcb61ac7"`
-- last_modified: `Thu, 17 Sep 2026 04:12:07 GMT`
+- fetched_at: `2026-09-17T16:59:26+00:00`
+- checked_at: `2026-09-17T16:59:26+00:00`
+- etag: `"267552-65baf16becadb"`
+- last_modified: `Thu, 17 Sep 2026 15:03:39 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-09-17T11:40:03+00:00",
+  "fetched_at": "2026-09-17T16:59:26+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,25 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "73ee733703a94cff745071c6f6392d93494db660",
+      "title": "Australia's 'barking mad' bet on nuclear submarines",
+      "published_at": "2026-09-17T15:00:00+00:00",
+      "link": "https://theconversation.com/australias-barking-mad-bet-on-nuclear-submarines-the-aukus-deal-five-years-on-291988",
+      "description": "The multi-billion dollar AUKUS defence deal between the US, UK and Australia is one of the most significant in our modern history. The three countries wanted to curb China’s growing military presence in the Indo-Pacific. To do it, Australia was going to get new nuclear-powered submarines. But in the five years since the agreement was first announced, it’s been anything but smooth sailing. In this week's episode of The Conversation Weekly, we speak with Hugh White, a security and defence analyst at the Australian National University, to explore how the secretive deal was struck and why it's proving so controversial. Read more from Hugh White and his take on the AUKUS debate here . This episode was written by Justin Bergman and Isabella Podwinski was the executive producer. Sound mixing by Dan Semo and our theme music by Neeta Sarl. Gemma Ware is our Head of Audio and Ashlynne McGhee is our Head of Editorial Innovation. Misha Ketchell and Stephen Khan are our editors in chief. You can sign up here for a free daily newsletter from The Conversation. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation.",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/680c6714-15b9-4dec-aff1-17c82af2a8e1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29395948",
+      "itunes_duration": "20:25",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "australia",
+        "submarine"
+      ]
+    },
     {
       "key": "07398d111cdc7a775f0bfdb814e4f3b7d8d2f3f6",
       "title": "Ratko Mladić: the war criminal who became a martyr for Bosnian Serbs",
@@ -6295,6 +6314,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — Australia's 'barking mad' bet on nuclear submarines — speakers: Gemma Ware
 - 2026-09-10 — Ratko Mladić: the war criminal who became a martyr for Bosnian Serbs — speakers: Ratko Mladić, Gemma Ware
 - 2026-09-03 — Inside the booming ‘shadow fleet’ industry keeping rogue states afloat — speakers: East China Sea, North Korean, Gemma Ware
 - 2026-08-31 — The music that made Dolly Parton a global icon — speakers: Porter Wagoner, Gemma Ware
