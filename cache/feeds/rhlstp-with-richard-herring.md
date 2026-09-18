@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-16T04:48:25+00:00`
-- checked_at: `2026-09-16T04:48:25+00:00`
-- etag: `"djEuMi4wOjE3ODk1Mjc0NTkzODk="`
+- fetched_at: `2026-09-18T04:42:25+00:00`
+- checked_at: `2026-09-18T04:42:25+00:00`
+- etag: `"djEuMi4wOjE3ODk3MDAyNTkzNjk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-16T04:48:25+00:00",
+  "fetched_at": "2026-09-18T04:42:25+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,34 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "5ac2eca1b612c95effbf3c3b48b1675dcc0e2f8a",
+      "title": "David Quantick and Chris Barker on The Lost Films of Hollywood - Book Club",
+      "published_at": "2026-09-18T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP Book Club #194 - The Lost Films of Hollywood - Rich has a remote chat with two men who have collaborated on an amazing book and art project yet never spoken to each other before, David Quantick and Chris Barker. They discuss where the idea to create a calendar and book imagining that famous movies were remakes, and showing the poster of the original came from, how it became an immediate kickstarter success story, getting the tone it all right, deciding to self-publish and why it’s such an appealing concept. Plus David talks about his new novel The Hyena (out in November). I highly recommend you rush to buy remaining copies of Lost Films right now! You won’t regret it. Buy the book here - https://lostfilmsbook.store/ SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1789578032325-c0a8f556-86a4-4f88-845e-d72264427ebe.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aaacb4179ba7f1ecc2d6ac0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "19641991",
+      "itunes_duration": "40:55",
+      "speakers": [
+        "David Quantick",
+        "Chris Barker",
+        "Richard Herring"
+      ],
+      "topics": [
+        "david",
+        "quantick",
+        "chris",
+        "barker",
+        "lost",
+        "films",
+        "hollywood",
+        "book",
+        "club"
+      ]
+    },
     {
       "key": "3c64d1872b3c7290beb0a8fcf7bbcae6ad51ff35",
       "title": "Penn Jillette and Piff the Magic Dragon - \"Sponge Bunnies\"",
@@ -23883,6 +23911,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-18 — David Quantick and Chris Barker on The Lost Films of Hollywood - Book Club — speakers: David Quantick, Chris Barker, Richard Herring
 - 2026-09-16 — Penn Jillette and Piff the Magic Dragon - "Sponge Bunnies" — speakers: Penn Jillette, Richard Herring
 - 2026-09-14 — Jenny Eclair (Retro) - "Hi di Hi" — speakers: Jenny Eclair, Richard Herring
 - 2026-09-12 — Rich and Ally's Craven Newsround Compilation - Monkey Glue — speakers: Craven Newsround Compilation, Monkey Glue Tuesday, Monkey Glue, Richard Herring

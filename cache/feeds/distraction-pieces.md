@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-09-16T04:48:25+00:00`
-- checked_at: `2026-09-16T04:48:25+00:00`
-- etag: `"djEuMi4wOjE3ODk1Mjg4MzkzMzg="`
+- fetched_at: `2026-09-18T04:42:25+00:00`
+- checked_at: `2026-09-18T04:42:25+00:00`
+- etag: `"djEuMi4wOjE3ODk3MDE2MzkzNTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-09-16T04:48:25+00:00",
+  "fetched_at": "2026-09-18T04:42:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "19b396bb4d27b67ef04b6af9495beda6b816bc0f",
+      "title": "RICHARD E GRANT (Withnail & I / Savage House / Gosford Park) • Friday Rewind",
+      "published_at": "2026-09-18T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "emocleW, emocleW, emocleW to the Distraction Pieces Podcast with Scroobius Pip! This is your bonus FRIDAY REWIND episode! Today, we catch up with RICHARD E GRANT , originally episode 250 from 2019-01-30. Original writeup below: Hopefully you will have caught his perfect video reaction to being nominated for an Oscar, which is of course well overdue but greatly deserved, or maybe you will have read about or even seen his new film ‘Can You Ever Forgive Me?’. In either case, if you have missed those, by all means CATCH UP with the quickness. But you will surely know Richard for his many varied performances throughout his illustrious career, which will DEFINITELY include the classic ‘Withnail And I’. That is a given. Add to that his star turns in films and shows like ‘LA Story’ (which forged a lifelong friendship with Steve Martin), ‘Girls’, ‘Game Of Thrones’ and a good four decades more, and there you have it. A carved in marble filmography of a true superstar right there. Covering everything including that Oscar nomination, the collaborative nature of film, how a testosterone-charged set is not always awesome, the grey area of memorabilia, the importance of casting directors, his booze allergy (believe it or not), his Swaziland origins, making theatres when he was kid and right up to the habit he shares with Pip of wearing two watches, it’s a packed episode. PIP'S PATREON PAGE if you're of a supporting nature CAN YOU EVER FORGIVE ME ? TWITTER THE INTERNET IMDB PIP TWITCH • (music stuff) PIP INSTAGRAM SPEECH DEVELOPMENT WEBSTORE PIP TWITTER PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1789684799078-5867bdfa-e3c3-411c-843b-61597009e817.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6aac6d7f315471999bb696aa/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "93028292",
+      "itunes_duration": "38:40",
+      "speakers": [],
+      "topics": [
+        "richard",
+        "grant",
+        "withnail",
+        "savage",
+        "house",
+        "gosford",
+        "park",
+        "friday",
+        "rewind"
+      ]
+    },
     {
       "key": "c8fa66b05e236bb35efbe8803498c46b6d31a268",
       "title": "THE CATCH UP • ...with Buddy & Pip! #687",
@@ -19594,6 +19618,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-18 — RICHARD E GRANT (Withnail & I / Savage House / Gosford Park) • Friday Rewind
 - 2026-09-16 — THE CATCH UP • ...with Buddy & Pip! #687
 - 2026-09-11 — HIMESH PATEL (The Odyssey / Bait / Tenet) • Friday Rewind
 - 2026-09-09 — DENZEL CURRY • new album 'ii' out now (with Kenneth Blume) #686 — speakers: Kenneth Blume

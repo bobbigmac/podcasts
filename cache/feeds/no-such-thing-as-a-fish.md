@@ -2,10 +2,10 @@
 
 - slug: `no-such-thing-as-a-fish`
 - source: `https://audioboom.com/channels/2399216.rss`
-- fetched_at: `2026-09-16T04:48:25+00:00`
-- checked_at: `2026-09-16T04:48:25+00:00`
-- etag: `W/"2d4b85380348aabc43b800099d0f61f7"`
-- last_modified: `Sun, 13 Sep 2026 22:55:00 GMT`
+- fetched_at: `2026-09-18T04:42:25+00:00`
+- checked_at: `2026-09-18T04:42:25+00:00`
+- etag: `W/"15b266fae8bdef5fbd05763923ac43c0"`
+- last_modified: `Thu, 17 Sep 2026 22:55:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://nosuchthingasafish.com",
   "description": "The official channel for the show about everything: four dorks discuss the most amazing facts they’ve learned over the last seven days. The multi award-winning, globe-travelling, 600-million-download phenomenon. Hosted by Dan Schreiber, James Harkin, Andrew Hunter Murray and Anna Ptaszynski.",
   "image_url": "https://audioboom.com/i/41239450.png",
-  "fetched_at": "2026-09-16T04:48:25+00:00",
+  "fetched_at": "2026-09-18T04:42:25+00:00",
   "owners": [
     "Dan Schreiber",
     "James Harkin",
@@ -31,6 +31,30 @@
     "science"
   ],
   "episodes": [
+    {
+      "key": "faf3dc66298f946fc4f0e3e58397d3d37af31f2d",
+      "title": "No Such Thing As Trigger's Stradivarius",
+      "published_at": "2026-09-17T22:55:00+00:00",
+      "link": "https://audioboom.com/posts/8954006",
+      "description": "Dan, James, Anna and Andy discuss valuable violins, validating vessels and Vincent Van Gogh. Visit nosuchthingasafish.com for news about live shows, merchandise and more episodes. Join Club Fish for ad-free episodes and exclusive bonus content at apple.co/nosuchthingasafish or nosuchthingasafish.com/patreon Edited by James Harkin Produced by Leying Lee Team includes Tara Dorrell, Joe Mayo and Ethan Ruparelia",
+      "image_url": "https://audioboom.com/i/43842742.jpg",
+      "enclosure_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8954006.mp3?modified=1789667151&sid=2399216&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3539",
+      "speakers": [
+        "Vincent Van Gogh",
+        "Dan Schreiber",
+        "James Harkin",
+        "Anna Ptaszynski",
+        "Andrew Hunter Murray"
+      ],
+      "topics": [
+        "thing",
+        "trigger",
+        "stradivarius"
+      ]
+    },
     {
       "key": "3f0ed762803ed5c6ab0a8af5be9a211f4e69882d",
       "title": "Little Fish: Four Times a Knight",
@@ -17106,6 +17130,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — No Such Thing As Trigger's Stradivarius — speakers: Vincent Van Gogh, Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-09-13 — Little Fish: Four Times a Knight — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-09-10 — No Such Thing As Musical Toads — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray
 - 2026-09-06 — Little Fish: Reindeer Animal Animal — speakers: Dan Schreiber, James Harkin, Anna Ptaszynski, Andrew Hunter Murray

@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-politics`
 - source: `https://feeds.acast.com/public/shows/the-rest-is-politics`
-- fetched_at: `2026-09-16T23:40:20+00:00`
-- checked_at: `2026-09-16T23:40:20+00:00`
-- last_modified: `Wed, 16 Sep 2026 23:00:00 GMT`
+- fetched_at: `2026-09-18T04:42:25+00:00`
+- checked_at: `2026-09-18T04:42:25+00:00`
+- last_modified: `Thu, 17 Sep 2026 23:00:08 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://therestispolitics.com/",
   "description": "Alastair Campbell and Rory Stewart break down current affairs in the UK and abroad. The Rest Is Politics analyses the latest international news, provides debate on global issues, and reveals secrets from Westminster, whilst bringing back the lost art of disagreeing agreeably. With insider perspectives and expert analysis, The Rest Is Politics is the go-to podcast for anyone seeking intelligent, engaging discussions on British and global politics. The Rest Is Politics Plus: Join with a FREE TRIAL at therestispolitics.com for exclusive bonus content including Rory and Alastair’s first ever miniseries, early access to episodes and live show tickets, ad free listening, our exclusive newsletter, discount book prices on titles mentioned on the pod, and our members chatroom. For more Goalhanger Podcasts, head to www.goalhanger.com. Social Producer: Celine Charles Lead Video Editor: Josh Smith Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames",
   "image_url": "https://megaphone.imgix.net/podcasts/ebd5041a-2425-11ee-9505-bbe771b4af3b/image/e65e7d3f7665fc8da759a53ed8b182b5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-16T23:40:20+00:00",
+  "fetched_at": "2026-09-18T04:42:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,11 +26,34 @@
   ],
   "episodes": [
     {
+      "key": "e2ab7f71c9434a6bdfb12c3c489dc5a45115904c",
+      "title": "The Greatest Threat Humans Just Can’t Stomach with Yuval Noah Harari",
+      "published_at": "2026-09-17T23:00:00+00:00",
+      "link": null,
+      "description": "Episode 2 is available right now for TRIP Plus members. Sign up at therestispolitics.com What can the Aztec Empire's catastrophic failure to understand Cortés and the Spanish conquistadors teach us about the threat AI poses today? Why does Yuval Noah Harari believe our gut refuses to accept an \"alien intelligence\" our brains already understand to be a threat? And can Britain avoid becoming an \"AI vassal state\" - or has that moment already passed? Rory is joined by Professor Yuval Noah Harari for Part 1 of their conversation on existential threats. Part 2 is available now for TRIP Plus members. Producer: India Dunkley Researcher: Evie Townend Video Editor: Josh Smith Social Producer: Celine Charles Executive Producer: Isabella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3154b0a0-b12a-11f1-b9ef-e720abc2d09d/image/e00ca4f81fd84a4709164f1bbf52d246.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT9593153845.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2601",
+      "speakers": [
+        "Yuval Noah Harari"
+      ],
+      "topics": [
+        "greatest",
+        "threat",
+        "humans",
+        "yuval",
+        "noah",
+        "harari"
+      ]
+    },
+    {
       "key": "173300d7cc797a36f1867035b5626fed49e30b78",
       "title": "572. Trump’s Next Middle East Crisis and Reform’s £72m Megadonation",
       "published_at": "2026-09-16T23:00:00+00:00",
       "link": null,
-      "description": "Is the Houthi’s seizure of one of the world's most critical waterways the clearest proof yet that Trump's Iran war has become a catastrophe? With the very people building AI now calling for a pause, is real regulation finally coming, or will tech billionaires keep writing the rules themselves? And with Reform banking £72 million from two crypto billionaires, why is Britain one of the only democracies with no cap on political donations? Join Rory and Alastair as they answer all these questions and more __________ Enjoy Rory and Alastair’s interview with Sanna Marin , Former Prime Minister of Finland, by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Lead Video Editor: Josh Smith Video Editor: James Clayden, Adam Thorton, Oli Ortega Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "Is the Houthis' seizure of one of the world's most critical waterways the clearest proof yet that Trump's Iran war has become a catastrophe? With the very people building AI now calling for a pause, is real regulation finally coming, or will tech billionaires keep writing the rules themselves? And with Reform banking £72 million from two crypto billionaires, why is Britain one of the only democracies with no cap on political donations? Join Rory and Alastair as they answer all these questions and more __________ Enjoy Rory and Alastair’s interview with Sanna Marin , Former Prime Minister of Finland, by searching ‘Leading’ on Spotify, Apple, or YouTube. Go deeper into the world of The Rest Is Politics by signing up for our free newsletter HERE , featuring exclusive interviews, analysis and weekend reads from Alastair and Rory. Join The Rest Is Politics Plus. Start your free trial at therestispolitics.com to unlock exclusive bonus content – including Rory and Alastair’s miniseries – plus ad-free listening, early access to episodes and live show tickets, exclusive newsletters, discounted book prices, and a private chatroom on Discord. The Rest Is Politics is powered by Fuse Energy. Stop overpaying for energy. Switch at fuseenergy.com/politics and get a free TRIP+ subscription. 🌏 Upgrade your online protection with an all-in-one security app! Get an exclusive NordVPN deal + 4 months extra here ➼ nordvpn.com/restispolitics It’s risk free with NordVPN’s 30-day money-back guarantee! __________ Instagram: @restispolitics Twitter: @restispolitics Email: therestispolitics@goalhanger.com __________ Social Producer: Celine Charles Lead Video Editor: Josh Smith Video Editor: James Clayden, Adam Thorton, Oli Ortega Assistant Producer: Daisy Alston-Horne Producer: Evan Green Exec Producer: Bella Soames Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/25bf7b12-b1d4-11f1-b880-ff395121ce70/image/b89f4d6b72c81c83766d68c25c7496a9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT8699811434.mp3",
       "enclosure_type": "audio/mpeg",
@@ -12985,6 +13008,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — The Greatest Threat Humans Just Can’t Stomach with Yuval Noah Harari — speakers: Yuval Noah Harari
 - 2026-09-16 — 572. Trump’s Next Middle East Crisis and Reform’s £72m Megadonation — speakers: East Crisis
 - 2026-09-15 — 571. Rory and Alastair Challenge Ed Miliband on Israel-Palestine — speakers: Ed Miliband
 - 2026-09-10 — "Our Generation Was Lied To": Two Gen Z MPs on Fixing Politics — speakers: Two Gen

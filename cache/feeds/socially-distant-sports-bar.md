@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-09-16T04:48:25+00:00`
-- checked_at: `2026-09-16T04:48:25+00:00`
-- etag: `"djEuMi4wOjE3ODk1MTQyNTk0MzA="`
+- fetched_at: `2026-09-18T04:42:25+00:00`
+- checked_at: `2026-09-18T04:42:25+00:00`
+- etag: `"djEuMi4wOjE3ODk2ODk1NzkyNjA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-09-16T04:48:25+00:00",
+  "fetched_at": "2026-09-18T04:42:25+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "593333658678035bf8b39f13ff4f0c5c680bbb2f",
+      "title": "Raygun & Sammy Sex",
+      "published_at": "2026-09-17T23:59:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/raygun-sammy-sex",
+      "description": "It's another pick from the Netfllix \"Untold\" series for the \"Documentary of the Week\". It features Rachel Gunn \"Raygun\" and her appearance in the breakdancing competions at the 2024 Paris Olympics. Mike, Elis and Steff talk about her rise to the Olympic stage, how someone who described herself as a \"dorky white woman who's an academic\" ended up being globally humiliated after her performance at the Games. Steff Documentary: Raygun, Breaking Badly https://www.netflix.com/watch/82048542?trackId=284616272&tctx=NaN%2C1%2Cc5ae2730-71a4-43c2-b000-9cd65f7e67a9%2Cc5ae2730-71a4-43c2-b000-9cd65f7e67a9%7C%3DeyJwYWdlSWQiOiJlYzBlZjRhYS0zNGE4LTQ4NzUtYjZiNC01MGZlMzk0Y2NmOWMvMS8vdW50b2xkLzAvMCIsImxvY2FsU2VjdGlvbklkIjoiMiJ9%2C%2C%2C%2C%2C82048542%2CVideo%3A82048542%2CminiDpPlayButton Elis Book: Football in Sun and Shadow https://link.amazon/B0flqyW7r 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6aa7e7f82469d1a3b3b82d42/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "117646080",
+      "itunes_duration": "49:01",
+      "speakers": [
+        "Elis James",
+        "Mike Bubbins",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "raygun",
+        "sammy"
+      ]
+    },
     {
       "key": "b4e24341358b33f8629a731338534d72356732e6",
       "title": "No Readmission",
@@ -15965,6 +15986,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — Raygun & Sammy Sex — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-15 — No Readmission — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-09-12 — A Goose To The Face: Pint Size — speakers: Pint Size Welcome, Sized Distant Pod, Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-10 — Cowboy At The Little Tesco — speakers: Elis James, Mike Bubbins, Steff Garr, Steff Garrero

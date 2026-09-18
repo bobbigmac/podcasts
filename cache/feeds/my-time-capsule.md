@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-09-13T23:09:33+00:00`
-- checked_at: `2026-09-13T23:09:33+00:00`
-- etag: `"djEuMi4wOjE3ODkzNDA1NTkyNzY="`
+- fetched_at: `2026-09-18T04:42:25+00:00`
+- checked_at: `2026-09-18T04:42:25+00:00`
+- etag: `"djEuMi4wOjE3ODk2ODYxNTkzMzU="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-09-13T23:09:33+00:00",
+  "fetched_at": "2026-09-18T04:42:25+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,34 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "f4574c66ffb31296134e52ca0f71e660a509a7b4",
+      "title": "My Time Capsule The Dig - Ep. 18 - With David Quantick (Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It)",
+      "published_at": "2026-09-17T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/my-time-capsule-the-dig-ep-18-with-david-quantick-emmy-winni",
+      "description": "David Quantick was our guest in episode 125 and he returns to have a chat about his old time capsule and let us know where he wants to bury it! David Quantick is the Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It, Harry Hill’s TV Burp, Avenue 5 and has written a new novel, The Hyena which can be pre-ordered now. Also, Mike and his producer and son John chat about this weeks episode and find out where Mark Stuckey would want to bury his capsule . Pre-order The Hyena by David Quantick, here - https://www.starsandsabers.com/books/the-hyena . Listen to David Quantick's original episode - https://mytimecapsulepodcast.com/episodes?q=125 . Follow David Quantick on Instagram : @davidquantick . Get involved! Send The Dig an email or voice memo and download John's jingle backing track to add your own lyrics, via - https://mytimecapsulepodcast.com/dig . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Original Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/1789660710001-14199b22-e3f6-49d5-996b-299f002b2d6c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6aac0f1b315471999ba218a1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "49922006",
+      "itunes_duration": "41:35",
+      "speakers": [
+        "David Quantick",
+        "Brass Eye"
+      ],
+      "topics": [
+        "time",
+        "capsule",
+        "david",
+        "quantick",
+        "emmy",
+        "writer",
+        "veep",
+        "today",
+        "brass",
+        "thick"
+      ]
+    },
     {
       "key": "830bdce2efd9d26e5b2ff388c946ac42d987ac2e",
       "title": "Ep. 605 - Mark Stuckey - BBC One’s The Repair Shop’s electronics expert",
@@ -13474,6 +13502,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-17 — My Time Capsule The Dig - Ep. 18 - With David Quantick (Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It) — speakers: David Quantick, Brass Eye
 - 2026-09-13 — Ep. 605 - Mark Stuckey - BBC One’s The Repair Shop’s electronics expert — speakers: Mark Stuckey Bbc, Mark Stuckey
 - 2026-09-10 — My Time Capsule The Dig - Ep. 17 - With Tim McInnerny (Blackadder, Notting Hill, Gladiator II, Game of Thrones) — speakers: Tim McInnerny, Notting Hill
 - 2026-09-06 — Ep. 604 - Mari Wilson - Best known for the 1982 hit ‘Just What I Always Wanted’ — speakers: Mari Wilson
