@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-09-11T11:19:38+00:00`
-- checked_at: `2026-09-11T11:19:38+00:00`
-- etag: `"8d2c99161d539fe7d38ccbda1447986d"`
-- last_modified: `Fri, 11 Sep 2026 05:00:16 GMT`
+- fetched_at: `2026-09-18T11:12:37+00:00`
+- checked_at: `2026-09-18T11:12:37+00:00`
+- etag: `"5da2a529dfd8638231e4b3dcc8801938"`
+- last_modified: `Fri, 18 Sep 2026 05:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-09-11T11:19:38+00:00",
+  "fetched_at": "2026-09-18T11:12:37+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,31 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "8f082d434fcb5490568f95b2d47a9ad6e9821785",
+      "title": "Henry Cyril Paget: the dancing marquess of Anglesey",
+      "published_at": "2026-09-18T05:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m0030lsl",
+      "description": "Greg Jenner is joined by Professor Viv Gardner and comedian Morgan Rees in 19th-century Wales to learn about the fabulous, theatrical life of Henry Cyril Paget. Born into an important aristocratic family – his ancestor had been Wellington’s second-in-command at Waterloo – Henry had a very different approach to his wealth and social status. After a childhood spent in Paris, he moved to Anglesey, and after inheriting his title and fortune, set about spending it on his passions: jewels, clothes and the theatre. He remodelled the family home, Plas Newydd, renaming it Anglesey Castle and making it the home of his theatre troupe. But after just a few years he was bankrupt, and forced to auction off many of his extravagant possessions. This episode explores his fabulous life, taking in his difficult relationship with his father, his brief marriage and questions about his sexuality, and just what he blew his enormous fortune on, before his tragic early death. If you’re a fan of fabulous theatrical performances, forgotten queer figures from history, and past gossip and scandals, you’ll love our episode on Henry Paget, the dancing marquess of Anglesey. If you want more performers from history, we’ve got episodes on Sarah Bernhardt and Josephine Baker. And for more LGBTQ biographies, check out our episode on Philippe, duc D’Orleans. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Lily Tidman Written by: Lily Tidman, Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Audio Producer: Steve Hankey Production Coordinator: Gill Huggett Senior Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p4131g.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p54jsg.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "57472000",
+      "itunes_duration": "3592",
+      "speakers": [
+        "Henry Cyril",
+        "Anglesey Greg Jenner",
+        "Viv Gardner"
+      ],
+      "topics": [
+        "henry",
+        "cyril",
+        "paget",
+        "dancing",
+        "marquess",
+        "anglesey"
+      ]
+    },
     {
       "key": "f09194e9c54d4298aaf71238dbcdc259fad7b329",
       "title": "History of Tea: Britain’s stolen brew",
@@ -6203,6 +6228,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-18 — Henry Cyril Paget: the dancing marquess of Anglesey — speakers: Henry Cyril, Anglesey Greg Jenner, Viv Gardner
 - 2026-09-11 — History of Tea: Britain’s stolen brew — speakers: Greg Jenner, Yangwen Zheng, Hugh Dennis
 - 2026-09-04 — Emperor Constantine the Great: Christianity and the Roman Empire — speakers: Greg Jenner, Lucy Grig, Ivo Graham
 - 2026-08-28 — History of Underwear: from shirts and stays to bras and briefs — speakers: Greg Jenner, Serena Dyer, Vic Micha

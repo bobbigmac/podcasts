@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-09-15T11:43:13+00:00`
-- checked_at: `2026-09-15T11:43:13+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT0RrME5EZzBNemsxTnpjPTo6c2F4ZXNz"`
+- fetched_at: `2026-09-18T11:12:37+00:00`
+- checked_at: `2026-09-18T11:12:37+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT0RrM01qRTNOVGMwTVRrPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-09-15T11:43:13+00:00",
+  "fetched_at": "2026-09-18T11:12:37+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "212436a3da6774aae0015ba5a6c5fd0b6978d8fe",
+      "title": "Jordan Is A Fruber?! | And How To Drop The Poo Bomb",
+      "published_at": "2026-09-18T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/jordan-is-a-fruber-and-and-how-to-drop-the-poo-bomb",
+      "description": "Is Jordan North a FRUBER?! One G&Diva has blown the lid off the weird and wonderful world of Frube related activities, and frankly, we’re not sure the boys will ever look at a yoghurt tube the same way again… PLUS, William Hanson tackles more of your burning etiquette questions. Can you eat the froth off a cappuccino? Are fridge magnets 'normal'? And, how long is too long to pay someone back? Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ If you want to get involved you can email us , and for more Sexted fun sign up to our free VIG&Diva newsletter. You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1789636041127-15d733b6-8b13-44c0-b155-a1aa629c3896.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6aaaa4f2067e88afca7b1ec6/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=drheSxsAomtbK-gNAKZtgCdwEHCZnkWkxws7U8MxD0Y",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34377142",
+      "itunes_duration": "35:48",
+      "speakers": [
+        "Jordan North",
+        "William Hanson"
+      ],
+      "topics": [
+        "jordan",
+        "fruber",
+        "bomb"
+      ]
+    },
     {
       "key": "63fc2828a1f8fe2c8aed07d0afb8703706f453b0",
       "title": "Help We’re Getting Intimate | And William is Ainsley Harriott?!",
@@ -15072,6 +15093,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-18 — Jordan Is A Fruber?! | And How To Drop The Poo Bomb — speakers: Jordan North, William Hanson
 - 2026-09-15 — Help We’re Getting Intimate | And William is Ainsley Harriott?! — speakers: Ainsley Harriott, Jordan North, William Hanson
 - 2026-09-11 — The Sexted Exam | And School Rumours — speakers: Jordan North, William Hanson
 - 2026-09-08 — Help We’ve Gone Back To School | And William’s Shameful Secret — speakers: William’s Shameful Secret, William Hanson, Jordan North
