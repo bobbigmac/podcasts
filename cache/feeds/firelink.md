@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-09-11T16:27:38+00:00`
-- checked_at: `2026-09-11T16:27:38+00:00`
-- etag: `W/"3f245-6ATuKicmTrYn2SuVuHUTSytW1N4"`
+- fetched_at: `2026-09-18T16:23:34+00:00`
+- checked_at: `2026-09-18T16:23:34+00:00`
+- etag: `W/"3fa32-XqDaO1JYh6//nl3flzYEmEJU3Hw"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-09-11T16:27:38+00:00",
+  "fetched_at": "2026-09-18T16:23:34+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,31 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "45a109d5ee28cf4a0f9421d2b4934c1bed57fb70",
+      "title": "Why Is Marvel's Wolverine Breaking the Internet? | Firelink Podcast",
+      "published_at": "2026-09-18T13:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Why-Is-Marvels-Wolverine-Breaking-the-Internet---Firelink-Podcast-e3p19bs",
+      "description": "This week on Firelink, KC, Nick, and Marty chat about the big game news and releases of the week, including a deep dive into everything surrounding Marvel's Wolverine. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/125920060/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-18%2Ffef28814-1ec9-45cb-b959-30b85ccd0a48.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "123471968",
+      "itunes_duration": "01:25:44",
+      "speakers": [
+        "Wolverine Breaking",
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "marvel",
+        "wolverine",
+        "internet",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "f614d6d2fe2cd7f2747591b8fd23fd8c2b1310fa",
       "title": "Kojima Drama, Steam's Wild Leak, and Ocarina of Time Remake Thoughts | Firelink Podcast",
@@ -3229,6 +3254,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-18 — Why Is Marvel's Wolverine Breaking the Internet? | Firelink Podcast — speakers: Wolverine Breaking, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-09-11 — Kojima Drama, Steam's Wild Leak, and Ocarina of Time Remake Thoughts | Firelink Podcast — speakers: Kojima Drama, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-09-04 — The Fall Release Floodgates Have Opened | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-08-28 — So About That Grand Theft Auto VI Showcase... | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu

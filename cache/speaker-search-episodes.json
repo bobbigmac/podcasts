@@ -40233,6 +40233,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:aa6100e9816b",
+        "feed_title": "Postmormon Postmortem",
+        "source_rss_url": "https://anchor.fm/s/105f8cbe4/podcast/rss",
+        "dedupe_key": "a7a9681730c10ab979a47615030b5129448dd266",
+        "episode_key": "a7a9681730c10ab979a47615030b5129448dd266",
+        "title": "The Elizabeth Smart Kidnapping: Brian David Mitchell, Wanda Barzee, & the Role of Mormonism",
+        "published_at": "2026-08-23T08:20:25Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Mormon True Crime episodes will drop on Saturday from now on... not usually this late. Think of this week as a two-fer Sunday.\nElizabeth Smart was fourteen years old when Brian David Mitchell entered her Salt Lake City home, held a knife to her throat, and kidnapped her from the bedroom she shared with her younger sist",
+        "audio_url": "https://anchor.fm/s/105f8cbe4/podcast/play/124604475/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-23%2F430361902-44100-2-b7a6265c479ff.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/the-elizabeth-smart-kidnapping-brian-david-mitchell/id1871046580?i=1000785209237&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:abcc66b38e3e",
         "feed_title": "How To Academy Podcast",
         "source_rss_url": "https://feeds.megaphone.fm/NSR3811872066",
