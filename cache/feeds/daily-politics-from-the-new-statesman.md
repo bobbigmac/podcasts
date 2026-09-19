@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-09-18T16:23:34+00:00`
-- checked_at: `2026-09-18T16:23:34+00:00`
-- etag: `"djEuMi4wOjE3ODk3MjYxODA0NzM="`
+- fetched_at: `2026-09-19T20:41:28+00:00`
+- checked_at: `2026-09-19T20:41:28+00:00`
+- etag: `"djEuMi4wOjE3ODk4MzM2Mzk0Mjc="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-09-18T16:23:34+00:00",
+  "fetched_at": "2026-09-19T20:41:28+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,24 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "bf49d5a0de9344036f7f59d38ca022b41cb25b4b",
+      "title": "Will AI kill us all?",
+      "published_at": "2026-09-19T16:00:00+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/will-ai-kill-us-all",
+      "description": "Are tech companies turning apocalypse into profit? In 2022, we were all having fun with a new chatbot called ChatGPT. Meanwhile, ministers and civil servants of the British government were imagining how it might go horribly wrong. Four years ago, AI experts were concerned about what people might do using their technology. Today, they fear what the technology is doing on its own, without being asked. Tom McTague is joined by Will Dunn to discuss his cover story. READ: https://www.newstatesman.com/business/2026/09/will-ai-kill-us-all LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1789722237281-f9243018-db03-4fcc-8be3-cb15dee298af.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6aacfae8e89724c024e66bc0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "132532727",
+      "itunes_duration": "1:08:55",
+      "speakers": [
+        "Will AI",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": []
+    },
     {
       "key": "2f2bdccc6369335165a7081257f547aecea8196d",
       "title": "Burnham's political donations headache",
@@ -32400,6 +32418,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-19 — Will AI kill us all? — speakers: Will AI, Anoosh Chakelian, Oli Dugmore
 - 2026-09-17 — Burnham's political donations headache — speakers: Ben Delo, Anoosh Chakelian, Oli Dugmore
 - 2026-09-12 — Farage’s fan club doesn’t care about scandal — speakers: John Healey, Anoosh Chakelian, Oli Dugmore
 - 2026-09-10 — Ed Miliband resets relations with Israel — speakers: Ed Miliband, Anoosh Chakelian, Oli Dugmore
