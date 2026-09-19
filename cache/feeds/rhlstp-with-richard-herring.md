@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-18T04:42:25+00:00`
-- checked_at: `2026-09-18T04:42:25+00:00`
-- etag: `"djEuMi4wOjE3ODk3MDAyNTkzNjk="`
+- fetched_at: `2026-09-19T15:52:50+00:00`
+- checked_at: `2026-09-19T15:52:50+00:00`
+- etag: `"djEuMi4wOjE3ODk4MjU3ODc5NzA="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-18T04:42:25+00:00",
+  "fetched_at": "2026-09-19T15:52:50+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "78aed8bba3c743d6c7889d639676b19c1428af2a",
+      "title": "Rich and Ally's Craven Newsround Compilation - No Immediate Protocol",
+      "published_at": "2026-09-19T13:20:42+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "Wednesday 16th September 2026 - No Immediate Protocol - Rich and Ally discuss pottery, dead dogs and the impact of our mackerel report, before reporting on another story that the lamestream media won’t touch, an athlete pooing themselves during a contest. With a special report from Istanbul and lots of lovely songs. The BAFTA is in the bag. For news obvs. Thursday 17th September 2026 - Fraternal Grief - Can Cloud Reason and Colour Memory - Rich and Ally bring you the news that you won’t have read about in the LSM- Earl Spencer’s accusation that the then Prince Charles said Lady Di would be quickly forgotten shortly after her death. As you’d expect we treat this subject with the utmost seriousness and respect, as it only right and proper. So eat you skad and enjoy it. Friday 18th September 2026 - Disgusting Australians - It’s the last Newsround of the week and you’ve barely touched your skad. Rich and Ally cover the story of another Australian athlete who has been excreting bodily fluids every which way including loose. There are some serious allegations made about Herring’s sexual preferences, but nothing has been proven. Plus Richard forgets the name of his favourite author. It can't be long now.. See RHLSTP in real life http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1789823214152-28c90292-be82-4af2-af04-7fe07fe2feaa.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aae8c290a12e9177495ffae/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "36975552",
+      "itunes_duration": "1:17:01",
+      "speakers": [
+        "Craven Newsround Compilation",
+        "No Immediate Protocol Wednesday",
+        "No Immediate Protocol",
+        "Richard Herring"
+      ],
+      "topics": [
+        "ally",
+        "craven",
+        "newsround",
+        "compilation",
+        "immediate",
+        "protocol"
+      ]
+    },
     {
       "key": "5ac2eca1b612c95effbf3c3b48b1675dcc0e2f8a",
       "title": "David Quantick and Chris Barker on The Lost Films of Hollywood - Book Club",
@@ -105,7 +131,7 @@
       "title": "Rich and Ally's Craven Newsround Compilation - Monkey Glue",
       "published_at": "2026-09-12T10:39:24+00:00",
       "link": "https://rhlstp.co.uk",
-      "description": "Tuesday 8th September - Monkey Glue - Rich and Ally get a visit from the politician who never listens, before looking into the blackheads of Dover and their multiple use balaclavas. Plus why the RNLI are the worst people in Britain. Wednesday 9th September 2026- Eleclution- Rich is in the news again (broadly speaking) but only on Newsround will you find out the real reasons. But the other less important news that no one would lead with is the 10% chance of the extermination of humanity. But don’t worry about that… Thursday 10th September 2026 - Black Shorts - Rich and Ally are today looking at what it’s appropriate for politicians to offer the electorate if they win. It’s better than it sounds. But not much better. Friday September 11th 2026 - Tinned Fish Aficionado - The Lame Stream Media is trying to bury today’s main news story beneath something that happened a quarter of a century ago and they don’t even have the right date. Rich and Ally are here to put that right. And by God they really go deep into this thing. Strap in. This is going to be as hard for you as it is for me. Welcome to all the Chris Moyles listeners. This is not a typical ep. Get a Thank You Moriarty T shirt if you’re quick (and of the right size) at http://gofasterstripe.com/ally See RHLSTP in real life http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Tuesday 8th September - Monkey Glue - Rich and Ally get a visit from the politician who never listens, before looking into the blackheads of Dover and their multiple use balaclavas. Plus why the RNLI are the worst people in Britain. Wednesday 9th September 2026 - Eleclution- Rich is in the news again (broadly speaking) but only on Newsround will you find out the real reasons. But the other less important news that no one would lead with is the 10% chance of the extermination of humanity. But don’t worry about that… Thursday 10th September 2026 - Black Shorts - Rich and Ally are today looking at what it’s appropriate for politicians to offer the electorate if they win. It’s better than it sounds. But not much better. Friday September 11th 2026 - Tinned Fish Aficionado - The Lame Stream Media is trying to bury today’s main news story beneath something that happened a quarter of a century ago and they don’t even have the right date. Rich and Ally are here to put that right. And by God they really go deep into this thing. Strap in. This is going to be as hard for you as it is for me. Welcome to all the Chris Moyles listeners. This is not a typical ep. Get a Thank You Moriarty T shirt if you’re quick (and of the right size) at http://gofasterstripe.com/ally See RHLSTP in real life http://richardherring.com/rhlstp Or support this with a badge - https://gofasterstripe.com/badges Titles by Andy Bobbin Music by Mike Cosgrave Directed by Chris Evans. Any similarity to John Craven’s Newsround is entirely coincidental Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1789209122040-78b32fc9-b9f2-453c-9ba6-2844544677a5.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aa52bdc2e8bb8424cdcc4f8/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -23911,6 +23937,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-19 — Rich and Ally's Craven Newsround Compilation - No Immediate Protocol — speakers: Craven Newsround Compilation, No Immediate Protocol Wednesday, No Immediate Protocol, Richard Herring
 - 2026-09-18 — David Quantick and Chris Barker on The Lost Films of Hollywood - Book Club — speakers: David Quantick, Chris Barker, Richard Herring
 - 2026-09-16 — Penn Jillette and Piff the Magic Dragon - "Sponge Bunnies" — speakers: Penn Jillette, Richard Herring
 - 2026-09-14 — Jenny Eclair (Retro) - "Hi di Hi" — speakers: Jenny Eclair, Richard Herring
