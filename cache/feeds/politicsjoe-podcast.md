@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-09-16T11:31:33+00:00`
-- checked_at: `2026-09-16T11:31:33+00:00`
-- etag: `"djEuMi4wOjE3ODk1MzQ4NDAwNDc="`
+- fetched_at: `2026-09-20T11:21:52+00:00`
+- checked_at: `2026-09-20T11:21:52+00:00`
+- etag: `"djEuMi4wOjE3ODk5MDIwMzkzNzI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-09-16T11:31:33+00:00",
+  "fetched_at": "2026-09-20T11:21:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "9a8bc616a959c022a22fef5e5d1f11f1e6ebbc27",
+      "title": "Who broke Britain's energy system? | Arthur Downing interview",
+      "published_at": "2026-09-20T11:00:00+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6aafb9dc010fc0f7a3afc520",
+      "description": "Dr Arthur Downing is the Director of Strategy at Octopus Energy Group. His new book, Power and the People, charts the history of British energy, and, critically, how things got so bad. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6aafb9dc010fc0f7a3afc520/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41669460",
+      "itunes_duration": "28:55",
+      "speakers": [
+        "Arthur Downing"
+      ],
+      "topics": [
+        "britain",
+        "energy",
+        "system",
+        "arthur",
+        "downing"
+      ]
+    },
     {
       "key": "22c2ca601469d9627de6b7c473e8d2257706cba8",
       "title": "Cory Doctorow: AI isn't Dangerous. America Is.",
@@ -13621,6 +13643,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-20 — Who broke Britain's energy system? | Arthur Downing interview — speakers: Arthur Downing
 - 2026-09-16 — Cory Doctorow: AI isn't Dangerous. America Is. — speakers: Dario Amodei
 - 2026-09-14 — Peter Oborne on Nigel Farage's downfall, and Labour's Palestine U-turn — speakers: Peter Oborne, Palestine U-turn
 - 2026-08-02 — Gary Stevenson: Tax wealth NOW or prepare for poverty — speakers: Gary Stevenson

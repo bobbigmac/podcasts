@@ -2,9 +2,9 @@
 
 - slug: `russell-howard-jon-richardson-devotee`
 - source: `https://anchor.fm/s/10d6f1db0/podcast/rss`
-- fetched_at: `2026-09-16T21:17:00+00:00`
-- checked_at: `2026-09-16T21:17:00+00:00`
-- etag: `W/"58a70-JZufx+Atp5vM/opAuEJC5sgxcJY"`
+- fetched_at: `2026-09-20T11:21:52+00:00`
+- checked_at: `2026-09-20T11:21:52+00:00`
+- etag: `W/"59049-sqI7/3E3oY6wCdHPV0UV7Jg7zL0"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,101 @@
   "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa",
   "description": "Welcome to The Rugged & The Right, the ultimate fan-powered podcast celebrating the brilliant comedy, unique personalities, and unforgettable moments of Russell Howard and Jon Richardson! If you’re obsessed with Russell’s boundless energy and joyful storytelling, or Jon’s delightfully logical, delightfully nerdy worldview — you’re in the right place. Each episode, we dive into: Classic routines & iconic bits — from Russell’s lightning-fast riffs to Jon’s brilliantly obsessive observations. Deep fan discussions — dissecting favourite jokes, tours, TV appearances, and those hilarious contrast",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45103532/45103532-1767533990600-bfc3c9ee2af1b.jpg",
-  "fetched_at": "2026-09-16T21:17:00+00:00",
+  "fetched_at": "2026-09-20T11:21:52+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "ef6d8e8067f3a07904315eeb8acf0a4868517cf3",
+      "title": "#68 Russell Howard & Jon Richardson Podcast Episode 68",
+      "published_at": "2026-09-19T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/68-Russell-Howard--Jon-Richardson-Podcast-Episode-68-e3p0ei5",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1789671515830-6d3273d01a546.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO1029022518.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "38371750",
+      "itunes_duration": "00:39:32",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "d4a146e397ca81b9ecc26992a1a3d767c175f7e0",
+      "title": "#67 Russell Howard & Jon Richardson Podcast Episode 67",
+      "published_at": "2026-09-18T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/67-Russell-Howard--Jon-Richardson-Podcast-Episode-67-e3p0e7s",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1789671272145-07e8cebb77495.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO4888337187.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "31957000",
+      "itunes_duration": "00:32:55",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "fda297669ff3358de6a10df60133ad88689bbf70",
+      "title": "#66 Russell Howard & Jon Richardson Podcast Episode 66",
+      "published_at": "2026-09-17T05:31:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/66-Russell-Howard--Jon-Richardson-Podcast-Episode-66-e3oupg4",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1789583057088-0b557864eb83f.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3308244449.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29637721",
+      "itunes_duration": "00:30:32",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
+    {
+      "key": "4fe454f28bda1357196743df6c3aaae1d025b22d",
+      "title": "#65 Russell Howard & Jon Richardson Podcast Episode 65",
+      "published_at": "2026-09-17T05:30:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/65-Russell-Howard--Jon-Richardson-Podcast-Episode-65-e3oupe5",
+      "description": "British comedians Russell Howard and Jon Richardson are longtime friends, former flatmates, and past co-hosts who famously worked together on BBC Radio 6 Music from 2006 to 2008. They frequently share comedic anecdotes about their early days living together and their contrasting personalities.",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1789582958094-319f858424395.jpg",
+      "enclosure_url": "https://traffic.megaphone.fm/APO2084424239.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "41152432",
+      "itunes_duration": "00:42:24",
+      "speakers": [
+        "Russell Howard",
+        "Jon Richardson"
+      ],
+      "topics": [
+        "russell",
+        "howard",
+        "richardson",
+        "podcast"
+      ]
+    },
     {
       "key": "74cf70b8f81ac8d7c9c468437635f485626ddbc9",
       "title": "#64 Russell Howard & Jon Richardson Podcast Episode 64",
@@ -5987,90 +6075,6 @@
         "richardson",
         "podcast"
       ]
-    },
-    {
-      "key": "304d40b49f345411e64ac23b76a95e38d12c13bd",
-      "title": "#67 Russell Howard & Jon Richardson Podcast EP 67",
-      "published_at": "2026-02-09T15:07:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/67-Russell-Howard--Jon-Richardson-Podcast-EP-67-e3eqi4i",
-      "description": "#67 Russell Howard & Jon Richardson Podcast EP 67",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1770581308426-85860954ef502.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115213906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-8%2F10d60877-32e9-e58e-9dd4-2a08464c1d9a.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "15806886",
-      "itunes_duration": "00:32:55",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "720486d9d6e23c6a30863087306d50ffdfbe06f1",
-      "title": "#66 Russell Howard & Jon Richardson Podcast EP 66",
-      "published_at": "2026-02-09T11:30:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/66-Russell-Howard--Jon-Richardson-Podcast-EP-66-e3eqi05",
-      "description": "#66 Russell Howard & Jon Richardson Podcast EP 66",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1770581087562-df4d1ca812087.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115213765/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-8%2F505eeb07-df12-64e7-11ce-37501c44b06f.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "14743022",
-      "itunes_duration": "00:30:32",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "4d506905dcc6b9e71c253a920a2d2e14a4c1cb8a",
-      "title": "#65 Russell Howard & Jon Richardson Podcast EP 65",
-      "published_at": "2026-02-09T06:00:00+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/65-Russell-Howard--Jon-Richardson-Podcast-EP-65-e3eqhle",
-      "description": "#65 Russell Howard & Jon Richardson Podcast EP 65",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1770580954107-cddf7c7ce939f.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115213422/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-8%2Fde6cae89-5394-2066-215e-f67df8e46bba.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "20438754",
-      "itunes_duration": "00:42:24",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
-    },
-    {
-      "key": "81e6ec7d1c9c88a557281f4ffc846d770067e32a",
-      "title": "#64 Russell Howard & Jon Richardson Podcast EP 64",
-      "published_at": "2026-02-08T19:59:23+00:00",
-      "link": "https://podcasters.spotify.com/pod/show/russell-howard--jon-richa/episodes/64-Russell-Howard--Jon-Richardson-Podcast-EP-64-e3eqhhs",
-      "description": "#64 Russell Howard & Jon Richardson Podcast EP 64",
-      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45103532/45103532-1770580716573-f1b9e054f40f.jpg",
-      "enclosure_url": "https://anchor.fm/s/10d6f1db0/podcast/play/115213308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-8%2F8370cbd7-4e51-e336-9e70-566641181246.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "16837456",
-      "itunes_duration": "00:34:53",
-      "speakers": [
-        "Russell Howard"
-      ],
-      "topics": [
-        "russell",
-        "howard",
-        "richardson",
-        "podcast"
-      ]
     }
   ]
 }
@@ -6079,6 +6083,10 @@
 
 ## Episodes (newest first)
 
+- 2026-09-19 — #68 Russell Howard & Jon Richardson Podcast Episode 68 — speakers: Russell Howard, Jon Richardson
+- 2026-09-18 — #67 Russell Howard & Jon Richardson Podcast Episode 67 — speakers: Russell Howard, Jon Richardson
+- 2026-09-17 — #66 Russell Howard & Jon Richardson Podcast Episode 66 — speakers: Russell Howard, Jon Richardson
+- 2026-09-17 — #65 Russell Howard & Jon Richardson Podcast Episode 65 — speakers: Russell Howard, Jon Richardson
 - 2026-09-16 — #64 Russell Howard & Jon Richardson Podcast Episode 64 — speakers: Russell Howard, Jon Richardson
 - 2026-09-16 — #63 Russell Howard & Jon Richardson Podcast Episode 63 — speakers: Russell Howard, Jon Richardson
 - 2026-09-16 — #62 Russell Howard & Jon Richardson Podcast Episode 62 — speakers: Russell Howard, Jon Richardson
@@ -6340,7 +6348,3 @@
 - 2026-02-10 — #70 Russell Howard & Jon Richardson Podcast EP 70 — speakers: Russell Howard
 - 2026-02-10 — #69 Russell Howard & Jon Richardson Podcast EP 69 — speakers: Russell Howard
 - 2026-02-09 — #68 Russell Howard & Jon Richardson Podcast EP 68 — speakers: Russell Howard
-- 2026-02-09 — #67 Russell Howard & Jon Richardson Podcast EP 67 — speakers: Russell Howard
-- 2026-02-09 — #66 Russell Howard & Jon Richardson Podcast EP 66 — speakers: Russell Howard
-- 2026-02-09 — #65 Russell Howard & Jon Richardson Podcast EP 65 — speakers: Russell Howard
-- 2026-02-08 — #64 Russell Howard & Jon Richardson Podcast EP 64 — speakers: Russell Howard
