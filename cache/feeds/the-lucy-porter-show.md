@@ -2,8 +2,8 @@
 
 - slug: `the-lucy-porter-show`
 - source: `https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/`
-- fetched_at: `2026-09-13T04:46:11+00:00`
-- checked_at: `2026-09-13T04:46:11+00:00`
+- fetched_at: `2026-09-20T04:53:02+00:00`
+- checked_at: `2026-09-20T04:53:02+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-lucy-porter-show/",
   "image_url": "",
-  "fetched_at": "2026-09-13T04:46:11+00:00",
+  "fetched_at": "2026-09-20T04:53:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "7b5dcf9c03c79f97b6aea043794aa2bf48e5c467",
+      "guid": "b2190f29-3562-4ec4-b6ba-42bd9703a4a6",
+      "title": "The Lucy Porter Show (20th September)",
+      "published_at": "2026-09-20T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-lucy-porter-show-20th-september/",
+      "description": "Ever wondered what 'Woman's Hour' would be like if it were uncensored?",
+      "image_url": "https://mm.aiircdn.com/177/420888.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1789877034-the_lucy_porter_show.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=b2190f29-3562-4ec4-b6ba-42bd9703a4a6&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "e9461160229aa4e64c98d33c11fc836d7e110147",
       "guid": "4703632e-90a3-4eb9-9f35-7ee7b4e05c99",
@@ -1643,6 +1656,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-20 — The Lucy Porter Show (20th September)
 - 2026-09-13 — The Lucy Porter Show (13th September)
 - 2026-09-06 — The Lucy Porter Show (6th September)
 - 2026-08-30 — The Lucy Porter Show (30th August)
