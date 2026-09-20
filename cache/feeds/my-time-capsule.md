@@ -2,9 +2,9 @@
 
 - slug: `my-time-capsule`
 - source: `https://feeds.acast.com/public/shows/mytimecapsule`
-- fetched_at: `2026-09-18T04:42:25+00:00`
-- checked_at: `2026-09-18T04:42:25+00:00`
-- etag: `"djEuMi4wOjE3ODk2ODYxNTkzMzU="`
+- fetched_at: `2026-09-20T23:15:51+00:00`
+- checked_at: `2026-09-20T23:15:51+00:00`
+- etag: `"djEuMi4wOjE3ODk5NDUzNTkzMTI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.twitter.com/MyTCpod",
   "description": "We ask our guests for 5 things they’d like to put in a time capsule. 4 they want to preserve and 1 they’re happy to bury and forget about.",
   "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
-  "fetched_at": "2026-09-18T04:42:25+00:00",
+  "fetched_at": "2026-09-20T23:15:51+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2026f9791e92478cc5d20c1367b5931dc3cd9273",
+      "title": "Ep. 606 - David Quantick Returns - Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It",
+      "published_at": "2026-09-20T23:02:00+00:00",
+      "link": "https://shows.acast.com/mytimecapsule/episodes/ep-606-david-quantick-returns-emmy-winning-writer-of-veep-th",
+      "description": "Back for his second time capsule! - David Quantick is an Emmy Award-winning writer whose credits include some of the most influential British comedy of the past few decades, including The Day Today , Brass Eye , The Thick of It and Harry Hill’s TV Burp . He also wrote for HBO’s Veep , for which he won his Emmy, as well as Avenue 5 , and has written extensively for radio and television. His latest novel, The Hyena , is a surreal alternate-history story about a forgotten artist whose extraordinary life brings her into contact with figures including Frida Kahlo and Salvador Dalí. David Quantick is our guest in episode 606 of My Time Capsule and he chats to Michael Fenton Stevens about the five things he’d like to put in a time capsule; four he’d like to preserve and one he’d like to bury and never have to think about again . Pre-order The Hyena by David Quantick, here - https://www.starsandsabers.com/books/the-hyena . Listen to David Quantick's original episode - https://mytimecapsulepodcast.com/episodes?q=125 . Follow David Quantick on Instagram : @davidquantick . Follow My Time Capsule on Instagram : @mytimecapsulepodcast & Twitter/X & Facebook : @MyTCpod . Follow Michael Fenton Stevens on Twitter/X : @fentonstevens & Instagram @mikefentonstevens . Produced and edited by John Fenton-Stevens for Cast Off Productions . Music by Pass The Peas Music . Artwork by matthewboxall.com . This podcast is proud to be associated with the charity Viva! Providing theatrical opportunities for hundreds of young people . To support this podcast and get all episodes ad-free, please sign up here - https://mytimecapsule.supercast.com . All money goes straight into the making of the podcast. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e9c5f06c05e11e9f40b76/show-cover.png",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/mytimecapsule/e/6aad228f67fef90a32f3fb9a/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "64170234",
+      "itunes_duration": "53:28",
+      "speakers": [
+        "Quantick Returns Emmy",
+        "Brass Eye",
+        "David Quantick"
+      ],
+      "topics": [
+        "david",
+        "quantick",
+        "returns",
+        "writer",
+        "veep",
+        "today",
+        "brass",
+        "thick"
+      ]
+    },
     {
       "key": "f4574c66ffb31296134e52ca0f71e660a509a7b4",
       "title": "My Time Capsule The Dig - Ep. 18 - With David Quantick (Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It)",
@@ -13502,6 +13529,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-20 — Ep. 606 - David Quantick Returns - Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It — speakers: Quantick Returns Emmy, Brass Eye, David Quantick
 - 2026-09-17 — My Time Capsule The Dig - Ep. 18 - With David Quantick (Emmy winning writer of Veep, The Day Today, Brass Eye, The Thick of It) — speakers: David Quantick, Brass Eye
 - 2026-09-13 — Ep. 605 - Mark Stuckey - BBC One’s The Repair Shop’s electronics expert — speakers: Mark Stuckey Bbc, Mark Stuckey
 - 2026-09-10 — My Time Capsule The Dig - Ep. 17 - With Tim McInnerny (Blackadder, Notting Hill, Gladiator II, Game of Thrones) — speakers: Tim McInnerny, Notting Hill
