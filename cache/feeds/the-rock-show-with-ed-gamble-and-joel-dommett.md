@@ -2,8 +2,8 @@
 
 - slug: `the-rock-show-with-ed-gamble-and-joel-dommett`
 - source: `https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/`
-- fetched_at: `2026-09-20T11:21:52+00:00`
-- checked_at: `2026-09-20T11:21:52+00:00`
+- fetched_at: `2026-09-20T16:05:09+00:00`
+- checked_at: `2026-09-20T16:05:09+00:00`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -16,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/the-rock-show-with-ed-gamble-and-joel-dommett/",
   "image_url": "",
-  "fetched_at": "2026-09-20T11:21:52+00:00",
+  "fetched_at": "2026-09-20T16:05:09+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "72d5fcb9158c09f4242b1936b646233dda3138b3",
+      "guid": "a15763ae-d5fa-423b-948a-02cb5efe0b25",
+      "title": "The Rock Show with Ed Gamble and Joel Dommett (20th September)",
+      "published_at": "2026-09-20T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/the-rock-show-with-ed-gamble-and-joel-dommett-20th-september/",
+      "description": "FUBAR's dons of rock Ed and Joel give you a rock education every week - and you'll have a bloody good laugh while you're at it.",
+      "image_url": "https://mm.aiircdn.com/177/173528.png",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1789909368-the_rock_show_with_ed_gamble_and_joel_dommett.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=a15763ae-d5fa-423b-948a-02cb5efe0b25&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "55a0e6d1d6818384b7115e4251704e14f6997d34",
       "guid": "c70c4a47-8100-42d0-b236-698dc955f3f7",
@@ -1266,6 +1279,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-20 — The Rock Show with Ed Gamble and Joel Dommett (20th September)
 - 2026-09-13 — The Rock Show with Ed Gamble and Joel Dommett (13th September)
 - 2026-09-06 — The Rock Show with Ed Gamble and Joel Dommett (6th September)
 - 2026-08-30 — The Rock Show with Ed Gamble and Joel Dommett (30th August)
