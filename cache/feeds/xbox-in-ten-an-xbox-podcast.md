@@ -2,10 +2,10 @@
 
 - slug: `xbox-in-ten-an-xbox-podcast`
 - source: `https://rss.pdrl.fm/4538c2/feeds.libsyn.com/171749/rss/?redirect=false`
-- fetched_at: `2026-09-14T04:54:49+00:00`
-- checked_at: `2026-09-14T04:54:49+00:00`
-- etag: `"b99eca443c5c60b27cfabab7e3a6aeb3"`
-- last_modified: `Mon, 14 Sep 2026 04:19:00 GMT`
+- fetched_at: `2026-09-21T04:54:18+00:00`
+- checked_at: `2026-09-21T04:54:18+00:00`
+- etag: `"989fcd8eb4b2237b8b06957974af583b"`
+- last_modified: `Mon, 21 Sep 2026 04:15:52 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://xboxinten.com/",
   "description": "The Xbox In Ten Podcast is your weekly source of Xbox gaming news covered in around 10 minutes. Every Monday, this Xbox podcast covers new game releases, the previous week's Xbox gaming news and we all learn an Xbox related fun fact together.",
   "image_url": "https://static.libsyn.com/p/assets/9/0/3/d/903d3de3a0a357f0/Xbox_in_10_Podcast_-_Design_Project_-_Modfied_2.jpg",
-  "fetched_at": "2026-09-14T04:54:49+00:00",
+  "fetched_at": "2026-09-21T04:54:18+00:00",
   "owners": [
     "Brandon Rosa"
   ],
@@ -27,6 +27,34 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "1900be53613293743b69d1f8a569f1de1f53115c",
+      "title": "Is Microsoft Planning to Kill Day 1 Releases on Game Pass? - (Xbox In Ten: An Xbox Podcast - Ep. 382)",
+      "published_at": "2026-09-21T04:05:00+00:00",
+      "link": "https://xboxinten.libsyn.com/is-microsoft-planning-to-kill-day-1-releases-on-game-pass-xbox-in-ten-an-xbox-podcast-ep-382",
+      "description": "Week of: 9-14-2026 Xbox Gaming News, Releases, and A Fun Fact",
+      "image_url": "https://static.libsyn.com/p/assets/c/c/e/e/ccee90c3a221a67188c4a68c3ddbc4f2/382.png",
+      "enclosure_url": "https://traffic.libsyn.com/secure/xboxinten/382.mp3?dest-id=1152644",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "20054464",
+      "itunes_duration": "14:14",
+      "speakers": [
+        "Kill Day",
+        "Game Pass",
+        "Xbox Gaming News",
+        "Fun Fact",
+        "Brandon Rosa"
+      ],
+      "topics": [
+        "microsoft",
+        "planning",
+        "releases",
+        "game",
+        "pass",
+        "xbox",
+        "podcast"
+      ]
+    },
     {
       "key": "4c46489cb4b5dcc8dd7edd840b611689cecec726",
       "title": "Xbox Takes Over Hideo Kojima's New 'PHYSINT' Game From PlayStation - (Xbox In Ten: An Xbox Podcast - Ep. 381)",
@@ -9622,6 +9650,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-21 — Is Microsoft Planning to Kill Day 1 Releases on Game Pass? - (Xbox In Ten: An Xbox Podcast - Ep. 382) — speakers: Kill Day, Game Pass, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-09-14 — Xbox Takes Over Hideo Kojima's New 'PHYSINT' Game From PlayStation - (Xbox In Ten: An Xbox Podcast - Ep. 381) — speakers: Hideo Kojima, Brandon Rosa
 - 2026-09-07 — Microsoft Switches to Monthly Hour Limits for Xbox Cloud Gaming - (Xbox In Ten: An Xbox Podcast - Ep. 380) — speakers: Microsoft Switches, Monthly Hour Limits, Xbox Cloud Gaming, Xbox Gaming News, Fun Fact, Brandon Rosa
 - 2026-08-31 — Grand Theft Auto 6 Netflix Special Details - (Xbox In Ten: An Xbox Podcast - Ep. 379) — speakers: Grand Theft Auto, Netflix Special Details, Xbox Gaming News, Fun Fact, Brandon Rosa

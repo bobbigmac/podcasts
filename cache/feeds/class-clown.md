@@ -2,9 +2,9 @@
 
 - slug: `class-clown`
 - source: `https://feeds.megaphone.fm/APL3984327377`
-- fetched_at: `2026-09-14T04:54:49+00:00`
-- checked_at: `2026-09-14T04:54:49+00:00`
-- last_modified: `Sun, 13 Sep 2026 23:01:00 GMT`
+- fetched_at: `2026-09-21T04:54:18+00:00`
+- checked_at: `2026-09-21T04:54:18+00:00`
+- last_modified: `Sun, 20 Sep 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/APL3984327377",
   "description": "Part nostalgia trip, part confessional, part masterclass in unconventional success—this is no ordinary interview podcast. In Class Clown, Seann Walsh chats to the boldest rule-breakers in entertainment, uncovering the wild tales of childhood chaos, brushes with disaster, and the personal battles that shaped them. But beneath the mischief lies a powerful thread—how the very traits that caused trouble early on became the unexpected fuel for their biggest achievements. Expect laugh-out-loud memories, raw moments of vulnerability, and the kind of hard-won wisdom you won't hear anywhere else. EXEC PRODUCER: Seann Walsh & Adam Horton PRODUCER/EDITOR: Adam Horton",
   "image_url": "https://megaphone.imgix.net/podcasts/821e4098-92ed-11f0-9e25-6b7ea076d7b7/image/726519b844ec0f15e9de3617e20eb500.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-14T04:54:49+00:00",
+  "fetched_at": "2026-09-21T04:54:18+00:00",
   "owners": [
     "Seann Walsh"
   ],
@@ -26,6 +26,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "6750a9b95b72edc6c45247b93daacf54385cf6b9",
+      "title": "JACOB HAWLEY: Being Naughty, Class Dynamics & Ricky Gervais Inspiration",
+      "published_at": "2026-09-20T23:01:00+00:00",
+      "link": null,
+      "description": "Jacob Hawley best known for his hugely popular podcast Screen Rot joins `Seann Walsh to talk about his desire to hang out with the funniest and naughtiest kids at school, the satisfaction of misbehaving despite being in the top set, whether or not he truly is working class, the hours of fun that can be had building dens in childhood and how he would play Ricky Gervais out loud while hanging out at a BMX track as a teen. Watch part 2 with Jacob straight away on Patreon AND access exclusive content you won't get anywhere else. https://www.patreon.com/c/ClassClown See Jacob live on his new tour: https://www.jacobhawley.co.uk/ See Seann Walsh live on tour https://www.seannwalsh.com/ Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/APL2291550696.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3059",
+      "speakers": [
+        "Jacob Hawley Being Naughty",
+        "Jacob Hawley",
+        "Seann Walsh"
+      ],
+      "topics": [
+        "jacob",
+        "hawley",
+        "naughty",
+        "class",
+        "dynamics",
+        "ricky",
+        "gervais",
+        "inspiration"
+      ]
+    },
     {
       "key": "a606158a986365d4fc1c547d54c3c51108b04762",
       "title": "ANDREW MENSAH: From Preaching & Playing Football To Comedy Stardom",
@@ -1897,6 +1924,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-20 — JACOB HAWLEY: Being Naughty, Class Dynamics & Ricky Gervais Inspiration — speakers: Jacob Hawley Being Naughty, Jacob Hawley, Seann Walsh
 - 2026-09-13 — ANDREW MENSAH: From Preaching & Playing Football To Comedy Stardom — speakers: Stardom Andrew Mensah, Seann Walsh
 - 2026-09-06 — ANDREW MENSAH: I Had 3 options: Be Good At Football, Be Tough Or Be Funny — speakers: Andrew Mensah, Seann Walsh
 - 2026-08-30 — MARK STEEL: From Being Expelled & Working As A Milkman to Comedy Fame — speakers: Comedy Fame, Seann Walsh

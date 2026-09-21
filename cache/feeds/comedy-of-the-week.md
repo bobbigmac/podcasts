@@ -2,10 +2,10 @@
 
 - slug: `comedy-of-the-week`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9x6.rss`
-- fetched_at: `2026-09-14T04:54:49+00:00`
-- checked_at: `2026-09-14T04:54:49+00:00`
-- etag: `"24d54e4cfa049f236f66dc9cfae12642"`
-- last_modified: `Mon, 14 Sep 2026 04:00:05 GMT`
+- fetched_at: `2026-09-21T04:54:18+00:00`
+- checked_at: `2026-09-21T04:54:18+00:00`
+- etag: `"e678cde15d822a3df6f0dbd1941c855e"`
+- last_modified: `Mon, 21 Sep 2026 04:00:06 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9x6",
   "description": "Brighten your week with the latest BBC Radio 4 comedy.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
-  "fetched_at": "2026-09-14T04:54:49+00:00",
+  "fetched_at": "2026-09-21T04:54:18+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,27 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "8c215447d63e81bbe8bb504bf62567ddd8985701",
+      "title": "Omid Djalili: Namaste",
+      "published_at": "2026-09-21T04:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pbc8gd",
+      "description": "Omid Djalili explores a world that's louder, angrier, and stranger than ever. Who gets to decide who we are before we've even opened our mouths? Omid Djalili examines the stereotypes that shape our lives - from growing up as the son of Iranian immigrants to the labels, assumptions and snap judgements we all make about each other. Through stand-up, audience contributions and personal stories, he asks whether comedy can break through prejudice and remind us that people are always more complicated than the boxes we put them in. This is the first episode of the Stand-Up Specials series Omid Djalili: Namaste. To hear more episodes, search \"Stand-Up Specials\" on BBC Sounds. A BBC Studios Production for Radio 4.",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0m71cq2.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pbc6y1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "26592000",
+      "itunes_duration": "1662",
+      "speakers": [
+        "Omid Djalili",
+        "Namaste Omid Djalili"
+      ],
+      "topics": [
+        "omid",
+        "djalili",
+        "namaste"
+      ]
+    },
     {
       "key": "2b39b382056f12490c90ec3e770e6a5dce0baec6",
       "title": "Unspeakable",
@@ -1018,6 +1039,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-21 — Omid Djalili: Namaste — speakers: Omid Djalili, Namaste Omid Djalili
 - 2026-09-14 — Unspeakable — speakers: Jessie Cave
 - 2026-09-07 — The Skewer — speakers: Jon Holmes
 - 2026-09-01 — Edinburgh Comedy Awards Gala 2026 — speakers: Edinburgh Comedy Awards, Best Newcomer

@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-09-17T16:59:26+00:00`
-- checked_at: `2026-09-17T16:59:26+00:00`
-- etag: `"djEuMi4wOjE3ODk2NTE4Mzk0NTY="`
+- fetched_at: `2026-09-21T04:54:18+00:00`
+- checked_at: `2026-09-21T04:54:18+00:00`
+- etag: `"djEuMi4wOjE3ODk5NjUwMzkzNjM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-09-17T16:59:26+00:00",
+  "fetched_at": "2026-09-21T04:54:18+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "5980a0bb7511410d7a8789b971f7264bf50e168b",
+      "title": "641 Resident Evil 2026",
+      "published_at": "2026-09-21T04:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/641-resident-evil",
+      "description": "RESIDENT EVIL. That's right we're back to talk the eighth movie (second reboot) of the video game to movie franchise this time directed by Zach Cregger of weapons fame. A lot of people are excited by that whilst some particular fans of the franchise are definitely not. We also discuss the poor reception of Zack Snyder's The Last Photograph and wanting to adapt The Dark Knight Returns, some Man of Tomorrow updates, the potential of Lanterns Season 2, weird unit Tom Cruise is on an absolute media tear the only way he knows how (being a normal man) and a whole lot more. Thanks for listening New bonus Star Wars Racer let's play 'Never Go Back' video out now! Available to watch on bigsandwich.co, patreon.com/mrsundaymovies and with YouTube membership on youtube.com/mrsundaymovies Maso on new episode of the Do Go On podcast: https://shows.acast.com/60de27e6-b679-4a3b-a9aa-53fa8e6d0313/6a9e2491f8f4d42589b6b103 PLEASE be aware timecodes may shift due to inserted ads. 00:00 The Start 04:56 Zack Snyder's Latest Antics & Film 09:09 Snyder Wants Dark Knight Returns Movie 12:03 James Gunn on Secret Man of Tomorrow Characters 15:12 Possibility for Lanterns Movie or Season 2 19:14 Tom Cruise News OH NO! 26:04 Resident Evil Movie Review 39:41 Resident Evil Spoiler Segment 50:32 What We Reading, What We Gonna Read 58:18 Lanterns Episodes 1-5 Spoiler Talk 01:05:30 Letters, It's Time For Letters SUBSCRIBE HERE ►► http://goo.gl/pQ39jN James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6aaef09e0a12e91774aef0d1/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "131643381",
+      "itunes_duration": "1:31:25",
+      "speakers": [
+        "Resident Evil",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "resident",
+        "evil"
+      ]
+    },
     {
       "key": "d3f0debacfa0d1511dc1f6af91710b4bb178a8f1",
       "title": "Resident Evil: The Final Chapter - Caravan Of Garbage",
@@ -23118,6 +23139,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-21 — 641 Resident Evil 2026 — speakers: Resident Evil, James Clement, Nick Mason
 - 2026-09-17 — Resident Evil: The Final Chapter - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-09-14 — 640 Wolverine Disappoints & Runner (not The Runner) — speakers: James Clement, Nick Mason
 - 2026-09-10 — Resident Evil: Retribution - Caravan Of Garbage — speakers: James Clement, Nick Mason

@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-19T15:52:50+00:00`
-- checked_at: `2026-09-19T15:52:50+00:00`
-- etag: `"djEuMi4wOjE3ODk4MjU3ODc5NzA="`
+- fetched_at: `2026-09-21T04:54:18+00:00`
+- checked_at: `2026-09-21T04:54:18+00:00`
+- etag: `"djEuMi4wOjE3ODk5NTk0NTkyNjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-19T15:52:50+00:00",
+  "fetched_at": "2026-09-21T04:54:18+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,29 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e85a14f429b9c50b5785da1ce809dc2281316b40",
+      "title": "Mike Bubbins (Retro) - \"Podcast Teeth\"",
+      "published_at": "2026-09-21T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "#449 Podcast Teeth - Richard risks some Jingle/Mingle material, topical at time of recording, but hopefully nostalgic by the time the podcast comes out. Plus good news for those of you who come to live recordings - he’s clearing out his garage, so you might get presents! His guest is Welsh sex-mountain Mike Bubbins. They discuss whether croissants should be wrapped, the power of the moustache, the infamy of Barry Island, the wonder of Parkinson and the unusual combination of confidence and not being an arsehole that Bubbins exudes. Plus news on his new TV series, why he stopped refereeing U13 rugby and an amusing case of mistaken identity. Come and see RHLSTP live - all dates and confirmed guests here http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1789135498411-e6820860-59e3-4017-8d46-72ce4e95096b.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aa409d02e8bb8424ca269a5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29764336",
+      "itunes_duration": "1:02:00",
+      "speakers": [
+        "Mike Bubbins",
+        "Richard Herring"
+      ],
+      "topics": [
+        "mike",
+        "bubbins",
+        "retro",
+        "podcast",
+        "tooth"
+      ]
+    },
     {
       "key": "78aed8bba3c743d6c7889d639676b19c1428af2a",
       "title": "Rich and Ally's Craven Newsround Compilation - No Immediate Protocol",
@@ -23937,6 +23960,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-21 — Mike Bubbins (Retro) - "Podcast Teeth" — speakers: Mike Bubbins, Richard Herring
 - 2026-09-19 — Rich and Ally's Craven Newsround Compilation - No Immediate Protocol — speakers: Craven Newsround Compilation, No Immediate Protocol Wednesday, No Immediate Protocol, Richard Herring
 - 2026-09-18 — David Quantick and Chris Barker on The Lost Films of Hollywood - Book Club — speakers: David Quantick, Chris Barker, Richard Herring
 - 2026-09-16 — Penn Jillette and Piff the Magic Dragon - "Sponge Bunnies" — speakers: Penn Jillette, Richard Herring
