@@ -2,9 +2,9 @@
 
 - slug: `guilty-feminist`
 - source: `https://feeds.megaphone.fm/APL9072247766`
-- fetched_at: `2026-09-14T12:44:44+00:00`
-- checked_at: `2026-09-14T12:44:44+00:00`
-- last_modified: `Mon, 14 Sep 2026 11:00:00 GMT`
+- fetched_at: `2026-09-21T12:46:35+00:00`
+- checked_at: `2026-09-21T12:46:35+00:00`
+- last_modified: `Mon, 21 Sep 2026 11:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://guiltyfeminist.com/",
   "description": "Ever felt like you should be better at feminism? Join comedian Deborah Frances-White and her guests for this comedy podcast, recorded in front of a live audience. Each week they discuss our noble goals as 21st century feminists and the hypocrisies and insecurities that undermine them. Deborah Frances-White is the 2016 Writers' Guild Award Winner for Best Radio Comedy for her hit BBC Radio 4 series Deborah Frances-White Rolls the Dice. She is an Edinburgh Fringe regular, a screenwriter and is in huge demand for her corporate seminars. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://megaphone.imgix.net/podcasts/d99cbb24-9ac2-11f0-9a78-e30d634a0ac3/image/5b3984a0fe4720bbd8ad817f2787f65d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-14T12:44:44+00:00",
+  "fetched_at": "2026-09-21T12:46:35+00:00",
   "owners": [
     "Deborah Frances-White"
   ],
@@ -28,11 +28,60 @@
   ],
   "episodes": [
     {
+      "key": "84aea37bda6bc052cf3da1017522c3b6c4f098d6",
+      "title": "501. Out North East with Alison Spittle, Peter Darrant and Sunday Hicks",
+      "published_at": "2026-09-21T11:00:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 501. Out North East Presented by Deborah Frances-White and Alison Spittle with special guests Peter Darrant and Sunday Hicks Recorded 4 September 2026 at Live Theatre in Newcastle. Released 21 September. The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Alison Spittle https://www.instagram.com/alisonspittle https://linktr.ee/ignorethatfeelingpod More about our guests https://www.outnortheast.org.uk https://www.instagram.com/outnortheast https://www.instagram.com/the_dollhaus_official For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Vision Festival . https://www.ticketsource.com/booking/t-xdymnyp Shedinburgh 10 October . https://www.youngvic.org/whats-on/the-guilty-feminist-podcast Union Chapel, 24 November with Zack Polanski . https://unionchapel.org.uk/venue/whats-on/the-guilty-feminist--road-to-gilead Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1d00e838-b523-11f1-9822-db52fede4af1/image/d86f92b2382c986490e68e6af95660ab.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL8704324781.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "6058",
+      "speakers": [
+        "Alison Spittle",
+        "Peter Darrant",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "north",
+        "east",
+        "alison",
+        "spittle",
+        "peter",
+        "darrant",
+        "sunday",
+        "hicks"
+      ]
+    },
+    {
+      "key": "2a0b27caa2427b10b813d81f9baf0dc213e13b8f",
+      "title": "Remembering Bonnie Greer",
+      "published_at": "2026-09-16T14:30:00+00:00",
+      "link": null,
+      "description": "The Guilty Feminist 421. American Election special – part two RERELEASED Presented by Deborah Frances-White and Grace Petrie with special guests Abigoliah Schamaun and Bonnie Greer Recorded 24 November 2024 at The King’s Head Theatre in London. Released 23 December. The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Grace Petrie https://www.gracepetrie.com http://instagram.com/gracepetriemusic More about Abigoliah Schamaun https://www.instagram.com/abigoliah https://abigoliah.com More about Bonnie Greer https://www.instagram.com/therealbonniegreer https://www.speakersassociates.com/speaker/bonnie-greer For more information about this and other episodes… visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Vision Festival 25 September . https://visionfestival.co.uk/events/the-guilty-feminist Shedinburgh 10 October . https://www.youngvic.org/whats-on/the-guilty-feminist-podcast Union Chapel, 24 November with Zack Polanski . https://unionchapel.org.uk/venue/whats-on/the-guilty-feminist--road-to-gilead Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you’d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/1f958d78-b1d7-11f1-b72c-8f42c950a121/image/ce418ec1fd0a1c694f91135b02f34f59.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL7536090619.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4820",
+      "speakers": [
+        "Bonnie Greer",
+        "Deborah France",
+        "Deborah Frances-White"
+      ],
+      "topics": [
+        "remembering",
+        "bonnie",
+        "greer"
+      ]
+    },
+    {
       "key": "a3b521cc23e5015112030cd1b390ef37f96cb368",
       "title": "500. Five Hundredth Episode with Kate Cheka and the Palestinian Circus",
       "published_at": "2026-09-14T11:00:00+00:00",
       "link": null,
-      "description": "The Guilty Feminist 500 Presented by Deborah Frances-White and Kate Cheka with special guests The Palestinian Circus and music from Hajar J Woodland Recorded 22 August 2026 at Gilded Balloon at the Museum. Released 14 September. The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Kate Cheka https://www.instagram.com/katecheka https://katecheka.substack.com https://katecheka.co.uk More about Palestinian Circus https://www.instagram.com/the.palestinian.circus.school https://palcircus.ps More about Hajar J Woodland https://www.instagram.com/hajarjwoodland https://www.youtube.com/@hajarjwoodland For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Vision Festival 25 September . https://visionfestival.co.uk/events/the-guilty-feminist Shedinburgh 10 October . https://www.youngvic.org/whats-on/the-guilty-feminist-podcast Union Chapel, 24 November with Zack Polanski . https://unionchapel.org.uk/venue/whats-on/the-guilty-feminist--road-to-gilead Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "The Guilty Feminist 500 Presented by Deborah Frances-White and Kate Cheka with special guests The Palestinian Circus and music from Hajar J Woodland Recorded 22 August 2026 at Gilded Balloon at the Museum. Released 14 September. The Guilty Feminist theme composed by Mark Hodge. More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about Kate Cheka https://www.instagram.com/katecheka https://katecheka.substack.com https://katecheka.co.uk More about Palestinian Circus https://www.instagram.com/the.palestinian.circus.school https://palcircus.ps More about Hajar J Woodland https://www.instagram.com/hajarjwoodland https://www.noisybadger.co.uk/hajarjwoodland For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Vision Festival 25 September . https://visionfestival.co.uk/events/the-guilty-feminist Shedinburgh 10 October . https://www.youngvic.org/whats-on/the-guilty-feminist-podcast Union Chapel, 24 November with Zack Polanski . https://unionchapel.org.uk/venue/whats-on/the-guilty-feminist--road-to-gilead Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/8c4c9b00-afc0-11f1-8c3d-aba463d009fa/image/82c36379c6c7cb0a223c9935d95a5238.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL9415598831.mp3",
       "enclosure_type": "audio/mpeg",
@@ -180,7 +229,7 @@
       "title": "495. The Architecture of Autocracy with Isabella Segalovich",
       "published_at": "2026-08-10T11:00:00+00:00",
       "link": null,
-      "description": "The Guilty Feminist 495. The Architecture of Autocracy Presented by Deborah Frances-White with special guest Isabella Segalovich Recorded 5 August 2026 via Riverside. Released 10 August. Get ahead of your to-do list with ten pounds off your first task at Taskrabbit dot co dot uk or on the Taskrabbit app using promo code GUILTYTASK1 The Guilty Feminist theme composed by Mark Hodge. The Storytelling Leadership Academy is an eight-week online course for leaders who need to find their voice and tell their story. For more information and to register, click here. https://www.the-spontaneity-shop.com/storytelling-academy/ More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about our Isabella Segalovich https://www.instagram.com/interstellar_isabellar https://www.patreon.com/isasegalovich https://www.interstellarisabellar.com For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Lindsey Mendick in Conversation . https://www.tickettailor.com/events/tkestudio/2325923%0A Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ DreamDate . https://www.edfringe.com/tickets/whats-on/deborah-frances-white-dreamdate Newcastle Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1996315094186 Newcastle Guilty Feminist live show, 5 September . https://www.live.org.uk/whats-on/guilty-feminist London Podcast Festival . https://www.kingsplace.co.uk/whats-on/podcast/the-guilty-feminist-10/ Vision Festival . https://www.ticketsource.com/booking/t-xdymnyp Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "The Guilty Feminist 495. The Architecture of Autocracy Presented by Deborah Frances-White with special guest Isabella Segalovich Recorded 5 August 2026 via Riverside. Released 10 August. Get ahead of your to-do list with ten pounds off your first task at Taskrabbit.co.uk or on the Taskrabbit app using promo code GUILTYTASK10 The Guilty Feminist theme composed by Mark Hodge. The Storytelling Leadership Academy is an eight-week online course for leaders who need to find their voice and tell their story. For more information and to register, click here. https://www.the-spontaneity-shop.com/storytelling-academy/ More about Deborah Frances-White https://deborahfrances-white.com https://www.instagram.com/dfdubz https://www.virago.co.uk/titles/deborah-frances-white/six-conversations-were-scared-to-have/9780349015811 https://www.virago.co.uk/titles/deborah-frances-white/the-guilty-feminist/9780349010120 More about our Isabella Segalovich https://www.instagram.com/interstellar_isabellar https://www.patreon.com/isasegalovich https://www.interstellarisabellar.com For more information about this and other episodes visit https://www.guiltyfeminist.com tweet us https://www.twitter.com/guiltfempod like our Facebook page https://www.facebook.com/guiltyfeminist check out our Instagram https://www.instagram.com/theguiltyfeminist or join our mailing list http://www.eepurl.com/bRfSPT More Big Speeches workshops now available https://guiltyfeminist.com/big-speeches/ Come to a live show Lindsey Mendick in Conversation . https://www.tickettailor.com/events/tkestudio/2325923%0A Edinburgh Fringe . https://tickets.gildedballoon.co.uk/event/14:6708/ DreamDate . https://www.edfringe.com/tickets/whats-on/deborah-frances-white-dreamdate Newcastle Open Space . https://www.eventbrite.co.uk/e/the-guilty-feminist-presents-road-to-gilead-open-space-tickets-1996315094186 Newcastle Guilty Feminist live show, 5 September . https://www.live.org.uk/whats-on/guilty-feminist London Podcast Festival . https://www.kingsplace.co.uk/whats-on/podcast/the-guilty-feminist-10/ Vision Festival . https://www.ticketsource.com/booking/t-xdymnyp Thank you to our amazing Patreon supporters. To support the podcast yourself, go to https://www.patreon.com/guiltyfeminist You can also get an ad-free version of the podcast via Apple Podcasts. The Guilty Feminist is part of the AudioPlus Network. If you d like to work with us, please get in touch at hello@weareaudioplus.com. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/f188eb14-9444-11f1-b48d-f765e00dcb35/image/0f6d13f133f849dbf95fb0f59cf8a14d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/APL4779855091.mp3",
       "enclosure_type": "audio/mpeg",
@@ -18550,6 +18599,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-21 — 501. Out North East with Alison Spittle, Peter Darrant and Sunday Hicks — speakers: Alison Spittle, Peter Darrant, Deborah Frances-White
+- 2026-09-16 — Remembering Bonnie Greer — speakers: Bonnie Greer, Deborah France, Deborah Frances-White
 - 2026-09-14 — 500. Five Hundredth Episode with Kate Cheka and the Palestinian Circus — speakers: Kate Cheka, Deborah Frances-White
 - 2026-09-12 — In Conversation with Indhu Rubasingham — speakers: Deborah Frances-White
 - 2026-09-07 — 499. Where You End and I Begin with Lindsey Mendick — speakers: Lindsey Mendick, Deborah Frances-White

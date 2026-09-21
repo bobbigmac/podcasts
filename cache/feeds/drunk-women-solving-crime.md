@@ -3,9 +3,11 @@
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
 - fetched_at: `2026-09-16T04:48:25+00:00`
-- checked_at: `2026-09-16T04:48:25+00:00`
+- checked_at: `2026-09-21T12:46:35+00:00`
 - etag: `"djEuMi4wOjE3ODk1MTY4Mzk3NzA="`
 - max_episodes_per_feed: `2000`
+- status: `error`
+- last_error: <urlopen error [Errno 104] Connection reset by peer>
 
 <!-- FEED_JSON -->
 ```json
@@ -11579,7 +11581,17 @@
         "crime"
       ]
     }
-  ]
+  ],
+  "fetch": {
+    "error_since": "2026-09-21T12:46:35+00:00",
+    "status": "error",
+    "checked_at": "2026-09-21T12:46:35+00:00",
+    "consecutive_failures": 1,
+    "error": {
+      "status": null,
+      "message": "<urlopen error [Errno 104] Connection reset by peer>"
+    }
+  }
 }
 ```
 <!-- /FEED_JSON -->

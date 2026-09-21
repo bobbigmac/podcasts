@@ -12,14 +12,14 @@
       "last_modified": "Wed, 18 Feb 2026 19:12:20 GMT"
     },
     "taskmaster-peoples": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966479,
-      "etag": "\"11a453-65b6ecf43c368\"",
-      "last_modified": "Mon, 14 Sep 2026 10:22:22 GMT"
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994799,
+      "etag": "\"11abf3-65bfae9ee913b\"",
+      "last_modified": "Mon, 21 Sep 2026 09:31:24 GMT"
     },
     "parenting-hell": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966479,
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994800,
       "last_modified": "Fri, 18 Sep 2026 20:24:16 GMT"
     },
     "films-to-be-buried-with": {
@@ -110,9 +110,9 @@
       "etag": "\"djEuMi4wOjE3NzE0ODA4Mzk2NDY=\""
     },
     "guilty-feminist": {
-      "last_checked_at": "2026-09-14T12:44:44+00:00",
-      "last_checked_unix": 1789389893,
-      "last_modified": "Mon, 14 Sep 2026 11:00:00 GMT"
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994800,
+      "last_modified": "Mon, 21 Sep 2026 11:00:00 GMT"
     },
     "st-elwicks": {
       "last_checked_at": "2026-06-17T22:53:03+00:00",
@@ -187,8 +187,8 @@
       "last_error_message": "Unauthorized"
     },
     "daily-politics-from-the-new-statesman": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966469,
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994798,
       "etag": "\"djEuMi4wOjE3ODk4MzM2Mzk0Mjc=\""
     },
     "firelink": {
@@ -299,8 +299,8 @@
       "etag": "\"djEuMi4wOjE3ODk5NTk0NTkyNjg=\""
     },
     "russell-howard-jon-richardson-devotee": {
-      "last_checked_at": "2026-09-20T20:48:25+00:00",
-      "last_checked_unix": 1789937309,
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994798,
       "etag": "W/\"59191-7drrco8YybZAjNwbjI9ABX1/h60\""
     },
     "russell-howards-five-brilliant-things": {
@@ -331,8 +331,8 @@
       "etag": "\"2855059bc47baf37d692de70762dd3dc\""
     },
     "the-comedians-comedian-podcast": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966471,
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994798,
       "etag": "\"djEuMi4wOjE3ODkwMTY0Mzk2MDY=\""
     },
     "the-conversation-weekly": {
@@ -427,8 +427,8 @@
       "last_modified": "Fri, 18 Sep 2026 02:26:35 GMT"
     },
     "the-damage-guild-a-pathfinder-2e-podcast": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966489,
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994801,
       "last_modified": "Mon, 14 Sep 2026 04:01:00 GMT",
       "consecutive_failures": 0
     },
@@ -443,13 +443,13 @@
       "etag": "\"djEuMi4wOjE2NDY3ODIwNTQ3ODY=\""
     },
     "table-manners-with-jessie-and-lennie-ware": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966489,
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994801,
       "etag": "\"djEuMi4wOjE3ODk2NDUyMzY0NTE=\""
     },
     "how-to-fail-with-elizabeth-day": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966489,
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994802,
       "etag": "\"djEuMi4wOjE2ODIzNDAzODc3MTY=\""
     },
     "distraction-pieces": {
@@ -486,8 +486,8 @@
       "etag": "\"djEuMi4wOjE3NjkwOTUzMDkxMTc=\""
     },
     "the-rest-is-politics": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966489,
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994802,
       "last_modified": "Fri, 18 Sep 2026 18:05:21 GMT"
     },
     "chatabix": {
@@ -504,9 +504,9 @@
       "last_modified": "Tue, 16 Jun 2026 08:52:02 GMT"
     },
     "socially-distant-sports-bar": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966489,
-      "etag": "\"djEuMi4wOjE3ODk4NTkxMzkyOTI=\"",
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994803,
+      "etag": "\"djEuMi4wOjE3ODk5ODk1NTUwNjY=\"",
       "consecutive_failures": 0
     },
     "comedy-of-the-week": {
@@ -542,9 +542,13 @@
       "etag": "\"djEuMi4wOjE3NjI3ODgxNDkzNjQ=\""
     },
     "drunk-women-solving-crime": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966494,
-      "etag": "\"djEuMi4wOjE3ODk1MTY4Mzk3NzA=\""
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994803,
+      "etag": "\"djEuMi4wOjE3ODk1MTY4Mzk3NzA=\"",
+      "consecutive_failures": 1,
+      "last_error_at": "2026-09-21T12:46:35+00:00",
+      "last_error_status": null,
+      "last_error_message": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     "out-with-suzi-ruffell": {
       "last_checked_at": "2026-07-05T09:22:25+00:00",
@@ -552,8 +556,8 @@
       "last_modified": "Sun, 21 Jun 2026 23:05:57 GMT"
     },
     "all-killa-no-filla": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966495,
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994804,
       "etag": "\"ad09a6eb3b1c5a3889855925aa8a4949\"",
       "last_modified": "Mon, 10 Aug 2026 16:54:33 GMT"
     },
@@ -602,9 +606,12 @@
       "consecutive_failures": 0
     },
     "james-acaster": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966468,
-      "consecutive_failures": 0
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994803,
+      "consecutive_failures": 1,
+      "last_error_at": "2026-09-21T12:46:35+00:00",
+      "last_error_status": null,
+      "last_error_message": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     "the-andy-parsons-show": {
       "last_checked_at": "2026-09-20T23:15:51+00:00",
@@ -627,9 +634,12 @@
       "consecutive_failures": 0
     },
     "peacock-and-gamble": {
-      "last_checked_at": "2026-09-21T04:54:18+00:00",
-      "last_checked_unix": 1789966471,
-      "consecutive_failures": 0
+      "last_checked_at": "2026-09-21T12:46:35+00:00",
+      "last_checked_unix": 1789994801,
+      "consecutive_failures": 1,
+      "last_error_at": "2026-09-21T12:46:35+00:00",
+      "last_error_status": null,
+      "last_error_message": "<urlopen error [Errno 104] Connection reset by peer>"
     },
     "best-of-fubar": {
       "last_checked_at": "2026-09-21T04:54:18+00:00",
@@ -637,5 +647,5 @@
       "consecutive_failures": 0
     }
   },
-  "updated_at": "2026-09-21T04:54:18+00:00"
+  "updated_at": "2026-09-21T12:46:35+00:00"
 }
