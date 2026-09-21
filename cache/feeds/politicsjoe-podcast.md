@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-09-20T11:21:52+00:00`
-- checked_at: `2026-09-20T11:21:52+00:00`
-- etag: `"djEuMi4wOjE3ODk5MDIwMzkzNzI="`
+- fetched_at: `2026-09-21T19:59:38+00:00`
+- checked_at: `2026-09-21T19:59:38+00:00`
+- etag: `"djEuMi4wOjE3ODk5MTgyOTQ1MTE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-09-20T11:21:52+00:00",
+  "fetched_at": "2026-09-21T19:59:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -29,7 +29,7 @@
       "title": "Who broke Britain's energy system? | Arthur Downing interview",
       "published_at": "2026-09-20T11:00:00+00:00",
       "link": "https://shows.acast.com/politicsjoe/episodes/6aafb9dc010fc0f7a3afc520",
-      "description": "Dr Arthur Downing is the Director of Strategy at Octopus Energy Group. His new book, Power and the People, charts the history of British energy, and, critically, how things got so bad. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "Arthur Downing is an energy expert. His new book, Power and the People, charts the history of British energy, and, critically, how things got so bad. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6aafb9dc010fc0f7a3afc520/media.mp3",
       "enclosure_type": "audio/mpeg",

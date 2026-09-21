@@ -2,11 +2,9 @@
 
 - slug: `james-acaster`
 - source: `https://www.fubarradio.com/player/on-demand/james-acaster/`
-- fetched_at: `2026-09-21T04:54:18+00:00`
-- checked_at: `2026-09-21T12:46:35+00:00`
+- fetched_at: `2026-09-21T19:59:38+00:00`
+- checked_at: `2026-09-21T19:59:38+00:00`
 - max_episodes_per_feed: `2000`
-- status: `error`
-- last_error: <urlopen error [Errno 104] Connection reset by peer>
 
 <!-- FEED_JSON -->
 ```json
@@ -18,13 +16,26 @@
   "link": "https://www.fubarradio.com/player/on-demand/james-acaster/",
   "description": "Built from the official FUBAR on-demand page at https://www.fubarradio.com/player/on-demand/james-acaster/",
   "image_url": "",
-  "fetched_at": "2026-09-21T04:54:18+00:00",
+  "fetched_at": "2026-09-21T19:59:38+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "d7b05dbd917bbe0c1472e9ad6faeaa1ca263733d",
+      "guid": "c2d88a61-4e8d-43ce-a10d-40be81482473",
+      "title": "James Acaster (21st September)",
+      "published_at": "2026-09-21T00:00:00+00:00",
+      "link": "https://www.fubarradio.com/player/on-demand/items/james-acaster-21st-september/",
+      "description": "Hear James Acaster and his mates squirm as they defend the cringiest songs on their playlists in this hilarious music roast",
+      "image_url": "https://mmo.aiircdn.com/80/67bf35ded661e.jpg",
+      "enclosure_url": "https://aod.sharp-stream.com/content/fubar_radio/storage/1789984878-james_acaster.mp3?aw_0_1st.ri=sharpstream&aw_0_1st.organization=sharpstream&awEpisodeId=c2d88a61-4e8d-43ce-a10d-40be81482473&awCollectionId=fubar_radio-standalone&providerId=fubar_radio",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": 0,
+      "itunes_duration": null
+    },
     {
       "key": "cdc7cfdf63791af29f986b25bfab4a0a62e5555d",
       "guid": "ce9c3911-39d2-455d-9de4-bf1da6506851",
@@ -2743,23 +2754,14 @@
       "itunes_duration": null
     }
   ],
-  "scraper": "fubar_on_demand",
-  "fetch": {
-    "error_since": "2026-09-21T12:46:35+00:00",
-    "status": "error",
-    "checked_at": "2026-09-21T12:46:35+00:00",
-    "consecutive_failures": 1,
-    "error": {
-      "status": null,
-      "message": "<urlopen error [Errno 104] Connection reset by peer>"
-    }
-  }
+  "scraper": "fubar_on_demand"
 }
 ```
 <!-- /FEED_JSON -->
 
 ## Episodes (newest first)
 
+- 2026-09-21 — James Acaster (21st September)
 - 2026-09-14 — James Acaster (14th September)
 - 2026-09-07 — James Acaster (7th September)
 - 2026-08-31 — James Acaster (31st August)

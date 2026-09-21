@@ -2,9 +2,9 @@
 
 - slug: `a-woodturners-journey`
 - source: `https://feeds.acast.com/public/shows/65a70f72224eec0017895999`
-- fetched_at: `2026-09-06T10:55:23+00:00`
-- checked_at: `2026-09-06T10:55:23+00:00`
-- etag: `"djEuMi4wOjE3ODg2NzgwMzk0OTU="`
+- fetched_at: `2026-09-21T19:59:38+00:00`
+- checked_at: `2026-09-21T19:59:38+00:00`
+- etag: `"djEuMi4wOjE3ODk4ODc2Mzk1Mjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/a-woodturners-journey",
   "description": "At A Woodturners Journey, we strive to explore woodturning from all different perspectives. Markus and Chris are both obsessed with creating things on their lathe as well as finding areas to improve their efficiencies and style. Their goal is to stay up to date with the newest things going on around the world of woodturning. They also love to interview fellow woodturners and find out about their journey so far. Woodturning is a wonderful rabbit hole and one we never see ourselves finding the bottom of. Join us in our journey. If you have any comments, questions or feedback please send us an email AWoodturnersJourney@gmail.com or find us on Instagram @AWoodturnersJourney Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
-  "fetched_at": "2026-09-06T10:55:23+00:00",
+  "fetched_at": "2026-09-21T19:59:38+00:00",
   "owners": [
     "Chris Jacobsen"
   ],
@@ -26,6 +26,28 @@
     "hobbies"
   ],
   "episodes": [
+    {
+      "key": "ce53da365cfc0a59a04e8bfa256b0ec3069a7bf1",
+      "title": "Ep 47 - Business Casualty w/ Scott Alexander",
+      "published_at": "2026-09-20T07:00:00+00:00",
+      "link": "https://shows.acast.com/a-woodturners-journey/episodes/ep-47-business-casualty-w-scott-alexander",
+      "description": "Enjoy episode 47. Chris and Markus are joined by shining head and personality of Scott Alexander of Alexander Designs. They discuss woodturning, Scott’s journey into the craft, his upcoming monthly club he is starting as well as a bunch of other fun topics. Please reach out and give us your thoughts or suggestions on any challenges you have been experiencing with your woodturning journey. We’re here to help or at least find an expert who can provide better insight. Please email us at: AWoodturnersJourney@gmail.com Follow us on Instagram at: www.instagram.com/awoodturnersjourney Chris - www.instagram.com/hiramwoodworking & www.instagram.com/whatwoodyouturn Markus - www.instagram.com/redchairwoodworks Scott Alexander - www.alexanderdesigns.us Sign up for Scott’s newsletter: https://linktr.ee/alexanderdesigns814?lt_utm_source=lt_share_link#19527214 Please subscribe, listen to the episode, and let us know what you think with a comment or a 5-star review. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/65a70f72224eec0017895999/1753456862248-de8d6122-5891-411e-a350-5fd3daf5fc7d.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/65a70f72224eec0017895999/e/6aaf64f90a12e91774c97db8/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "104481893",
+      "itunes_duration": "1:11:58",
+      "speakers": [
+        "Scott Alexander",
+        "Chris Jacobsen"
+      ],
+      "topics": [
+        "business",
+        "casualty",
+        "scott",
+        "alexander"
+      ]
+    },
     {
       "key": "db2bd747ec50d6cbede472d7dd6fa695c33d8eb8",
       "title": "Ep 46 - Down Under w/ Kerry Corney",
@@ -919,6 +941,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-20 — Ep 47 - Business Casualty w/ Scott Alexander — speakers: Scott Alexander, Chris Jacobsen
 - 2026-09-06 — Ep 46 - Down Under w/ Kerry Corney — speakers: Kerry Corney, Chris Jacobsen
 - 2026-08-23 — Ep 45 - Red Room — speakers: Chris Jacobsen
 - 2026-08-09 — Ep 44 - In The Same Room — speakers: Chris Jacobsen
