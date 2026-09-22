@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-09-19T20:41:28+00:00`
-- checked_at: `2026-09-19T20:41:28+00:00`
-- etag: `"djEuMi4wOjE3ODk4MzM2Mzk0Mjc="`
+- fetched_at: `2026-09-22T11:36:38+00:00`
+- checked_at: `2026-09-22T11:36:38+00:00`
+- etag: `"djEuMi4wOjE3OTAwNzAzOTQxNzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-09-19T20:41:28+00:00",
+  "fetched_at": "2026-09-22T11:36:38+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -51,7 +51,7 @@
       "published_at": "2026-09-17T15:33:31+00:00",
       "link": "https://shows.acast.com/newstatesman/episodes/burnhams-political-donations-headache",
       "description": "Reform UK received two £36 million donations from crypto billionaire Ben Delo. This has sent shockwaves through Westminster and thrown the question of political finance reform into sharp relief. Labour is caught in an uncomfortable bind - appalled by the scale of Reform's fundraising, but reluctant to cap donations in a way that could threaten trade union funding and destabilise its own finances. LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
-      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1789659028601-e637b386-6594-4848-83c4-381d45b1ed07.jpeg",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1790070377962-1a46492e-7592-44b2-824c-b3f703fdd7cd.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6aabfe4659c87418532fc359/media.mp3",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "77907205",
