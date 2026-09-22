@@ -2,9 +2,9 @@
 
 - slug: `the-rest-is-entertainment`
 - source: `https://feeds-origin.megaphone.fm/GLT2052042801`
-- fetched_at: `2026-09-16T23:40:20+00:00`
-- checked_at: `2026-09-16T23:40:20+00:00`
-- last_modified: `Wed, 16 Sep 2026 23:05:00 GMT`
+- fetched_at: `2026-09-22T00:06:27+00:00`
+- checked_at: `2026-09-22T00:06:27+00:00`
+- last_modified: `Mon, 21 Sep 2026 23:05:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds-origin.megaphone.fm/GLT2052042801",
   "description": "Richard Osman & Marina Hyde share insider knowledge on TV, movies, and pop culture. Stay up to date on what's hot and what's not in entertainment with behind-the-scenes insights from Richard and Marina. As two of the most connected voices in the business, they provide a unique perspective on the latest television series, film releases, and cultural trends. Their podcast explores everything from media gossip to industry secrets, giving listeners the inside track on the world of showbiz. Whether you're a fan of gritty dramas, blockbuster movies, or celebrity news, this podcast is your ultimate guide to entertainment. Richard and Marina offer fresh, expert analysis on the latest hits, star power, and cultural moments shaping the media landscape, making sure you’re always in the know about the entertainment world. The Rest Is Entertainment Plus: Become a member for exclusive bonus content, early access to our Q&A episodes, ad-free listening, access to our exclusive newsletter archive, discount book prices on selected titles with our partners at Coles, early ticket access to future live events, and our members’ chatroom on Discord. Just head to therestisentertainment.com to sign up, or start a free trial today on Apple Podcasts: apple.co/therestisentertainment. For more Goalhanger Podcasts, head to www.goalhanger.com.",
   "image_url": "https://megaphone.imgix.net/podcasts/2d9ca178-74df-11ee-ad6a-4fdff40d06f0/image/ae2aaf3060b63e7d0d7c915c05fa4c4e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-16T23:40:20+00:00",
+  "fetched_at": "2026-09-22T00:06:27+00:00",
   "owners": [
     "Richard Osman",
     "Marina Hyde"
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "8417664b0d3ff848a543608ddeaac2513cdc4eee",
+      "title": "Ed Sheeran: The Fallout",
+      "published_at": "2026-09-21T23:05:00+00:00",
+      "link": null,
+      "description": "Was Ed Sheeran's team right to drop Macklemore for his political comments? Is Nigella the perfect new host for Bake Off? Why is Tom Cruise beginning to look like Tig Notaro? The Rest is Entertainment is brought to you by Octopus Energy, Britain's most awarded energy supplier. Sponsored by Lloyds. Looking for extra value from your spending? You can bank on Lloyds to help your money go further. Search Lloyds Rewards in your app. For more Goalhanger Podcasts, head to www.goalhanger.com Video Editor: Lorcan Moullier and Louis Mealing Assistant Producer: Imee Marriott Senior Producer: Joey McCarthy Exec Producer: Ami Bennett & Neil Fearn Filmed at www.westdigitalstudios.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://pdst.fm/e/traffic.megaphone.fm/GLT2464691061.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3355",
+      "speakers": [
+        "Ed Sheeran",
+        "Richard Osman",
+        "Marina Hyde"
+      ],
+      "topics": [
+        "sheeran",
+        "fallout"
+      ]
+    },
     {
       "key": "a220a1a21616c6fe60825ba22ea78a2c84d44187",
       "title": "Is X Factor Back From The Dead?",
@@ -6706,6 +6727,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-21 — Ed Sheeran: The Fallout — speakers: Ed Sheeran, Richard Osman, Marina Hyde
 - 2026-09-16 — Is X Factor Back From The Dead? — speakers: Ru Paul, Drag Race, Richard Osman, Marina Hyde
 - 2026-09-14 — The Rise & Fall of Mr Beast — speakers: Richard Osman, Marina Hyde
 - 2026-09-09 — Strictly Hosts Exclusive: The Biggest Job In TV? — speakers: Richard Osman, Emma Willis, Marina Hyde

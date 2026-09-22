@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-09-21T19:59:38+00:00`
-- checked_at: `2026-09-21T19:59:38+00:00`
-- last_modified: `Mon, 21 Sep 2026 19:33:03 GMT`
+- fetched_at: `2026-09-22T00:06:27+00:00`
+- checked_at: `2026-09-22T00:06:27+00:00`
+- last_modified: `Mon, 21 Sep 2026 23:16:49 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ea7b3a41cdc0336cc8a48bcdc4533623.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-21T19:59:38+00:00",
+  "fetched_at": "2026-09-22T00:06:27+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,31 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "98d5376c81f478d50d80666c9595571170ac1f17",
+      "title": "⚽ El Snapico: Jose Mourinho and the Real Madrid printer ⚽",
+      "published_at": "2026-09-21T21:00:00+00:00",
+      "link": null,
+      "description": "This week we discuss the latest Jose Mourinho circus - including him bringing printed pictures of referee decisions to his post match press conference. Big news elsewhere as Andros Townsend somehow gets run over by a pitch steam roller?!? And is it too ealry to be Carrick out? Michael went to the game at Craven Cottage at the weekend and gives us his verdict. And Bill's upbeat approach to live as a Spurs fan gets tested... Enjoy! If you want to get in touch with the show you can; Email us: footballinghellpodcast@gmail.com And follow us on Instagram and Tiktok: @footballinghell FPL team - ⁠⁠⁠⁠⁠⁠⁠ join the Footballing / Parenting Hell mini league ⁠⁠⁠⁠⁠⁠⁠ LEAGUE CODE: 1a5fc7 Leave us a 5* review and subscribe to the podcast please. You know the score by now. ⁠⁠⁠⁠⁠⁠Footballing Hell ⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Monday (don't worry - it's business as usual on Tuesday and Friday with the usual Parenting Hell episodes) A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com (N) Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/584da324-b5fd-11f1-aba3-8b9b0bc1b71d/image/962203508399420bbd8d7871a5876a3f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT9600931090.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3283",
+      "speakers": [
+        "El Snapico",
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "snapico",
+        "jose",
+        "mourinho",
+        "real",
+        "madrid",
+        "printer"
+      ]
+    },
     {
       "key": "c1685059f0dc9771c2454fe8527d9e5742e2c162",
       "title": "S13 EP18: We've sold our dogs",
@@ -12827,6 +12852,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-21 — ⚽ El Snapico: Jose Mourinho and the Real Madrid printer ⚽ — speakers: El Snapico, Rob Beckett, Josh Widdicombe
 - 2026-09-18 — S13 EP18: We've sold our dogs — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-15 — S13 EP17: Your dog is skinny, but you is fat... — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-14 — ⚽ Tony Mowbray’s Favourite Chocolate ⚽ — speakers: Tony Mowbray, Rob Beckett, Josh Widdicombe
