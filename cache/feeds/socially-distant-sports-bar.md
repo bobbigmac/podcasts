@@ -2,9 +2,9 @@
 
 - slug: `socially-distant-sports-bar`
 - source: `https://feeds.acast.com/public/shows/the-socially-distant-sports-bar`
-- fetched_at: `2026-09-21T12:46:35+00:00`
-- checked_at: `2026-09-21T12:46:35+00:00`
-- etag: `"djEuMi4wOjE3ODk5ODk1NTUwNjY="`
+- fetched_at: `2026-09-22T23:37:24+00:00`
+- checked_at: `2026-09-22T23:37:24+00:00`
+- etag: `"djEuMi4wOjE3OTAxMTg0NTkzMzQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/the-socially-distant-sports-bar",
   "description": "The Socially Distant Sports Bar is an award-winning comedy podcast hosted by Elis James, Mike Bubbins and Steff Garrero — and you don’t need to like sport to be completely hooked. Elis is the king of Welsh podcasting & Mike Bubbins is TV’s Tony Mammoth. Each week you get two episodes Part 1 is fast, funny and chaotic — a stream of clips, sporting moments and internet oddities pulled apart with strong opinions and zero expertise. Part 2 slows things down with a documentary and book recommendation , diving into the stories that make sport so compelling. “Elis James and Mike Bubbins are unreasonably hilarious.” — The Telegraph “A haven where they ramble on about classic clips and random recollections.” — The Guardian Better known as Distant Pod , the show is a multi-award winner, created and produced by ARIA Gold Award winner Steff Garrero Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
-  "fetched_at": "2026-09-21T12:46:35+00:00",
+  "fetched_at": "2026-09-22T23:37:24+00:00",
   "owners": [
     "Elis James",
     "Mike Bubbins",
@@ -29,6 +29,27 @@
     "sports"
   ],
   "episodes": [
+    {
+      "key": "ef2a36495754c4e9b86b64003ff9ac3921554db8",
+      "title": "Vivacious Vicar",
+      "published_at": "2026-09-22T23:07:00+00:00",
+      "link": "https://shows.acast.com/the-socially-distant-sports-bar/episodes/vivacious-vicar",
+      "description": "Incredible scenes at The Socially Distant Sports Bar this week with Mike Bubbins, Elis James and Steff Garrero. Elis’ talk of his “vivacious vicar” has everyone reaching for the Cambridge Dictionary, Steff self-diagnoses a nasty case of “anti-trapezius syndrome” , and Mike reminisces about the days when he was quite literally a shadow of his former self. Eventually, some sport forces its way through the door. We discover that if you want to play American Football, it’s apparently much better to “be a dawg” than a cat. Mike explains exactly how he’d have brought down Jonah Lomu — which will presumably come as a relief to the international rugby players who spent years trying to work that out — and Josh Pugh delivers a magnificent football manager’s team talk featuring the immortal line: “We were allowed to fire live ammunition at each other.” Clips Mike: Be A Dawg https://www.instagram.com/reel/DdAd9iNS5tx/?stkn=b3ZsM3ZuZDVwcDdw Steff: The Gaffa — Josh Pugh https://www.instagram.com/reel/DWf6MoWRko1/?stkn=aG02cjA1anllOHVw Elis: Jonah Lomu Being Fallible https://www.instagram.com/reel/DcbZC3bI9T4/?stkn=MTVhdjZvN2NtZDlxOA Three clips. One vivacious vicar. One entirely unverified muscular condition. And Mike Bubbins finally solving the Jonah Lomu problem roughly thirty years too late. Thanks for listening. 🛍️ NEW MERCH ALERT We’ve launched a brand new merch store — mugs, hoodies, prints and more! If you fancy supporting the pod that way, head here 👇 🛒 sdsb2025.myshopify.com Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/68e81932d798804c9ef004e3/1788194660232-fd9032a3-dbc9-4f6f-8ede-503fffce906c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/68e81932d798804c9ef004e3/e/6ab1083eba9b1fc06f3c77eb/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "173433600",
+      "itunes_duration": "1:12:15",
+      "speakers": [
+        "Mike Bubbins",
+        "Elis James",
+        "Steff Garrero"
+      ],
+      "topics": [
+        "vivacious",
+        "vicar"
+      ]
+    },
     {
       "key": "b14cc277e6ea32887a9eae213a5d87f848fa7d98",
       "title": "Mike Wants Free Shirts: Pint Size",
@@ -16010,6 +16031,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-22 — Vivacious Vicar — speakers: Mike Bubbins, Elis James, Steff Garrero
 - 2026-09-19 — Mike Wants Free Shirts: Pint Size — speakers: Mike Wants Free Shirts, Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-17 — Raygun & Sammy Sex — speakers: Elis James, Mike Bubbins, Steff Garrero
 - 2026-09-15 — No Readmission — speakers: Mike Bubbins, Elis James, Steff Garrero
