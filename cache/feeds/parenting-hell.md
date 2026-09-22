@@ -2,9 +2,9 @@
 
 - slug: `parenting-hell`
 - source: `https://feeds.megaphone.fm/GLT9881106244`
-- fetched_at: `2026-09-22T00:06:27+00:00`
-- checked_at: `2026-09-22T00:06:27+00:00`
-- last_modified: `Mon, 21 Sep 2026 23:16:49 GMT`
+- fetched_at: `2026-09-22T04:54:19+00:00`
+- checked_at: `2026-09-22T04:54:19+00:00`
+- last_modified: `Tue, 22 Sep 2026 01:15:10 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://open.spotify.com/show/1Zuurv8AZFWti60lSXiDgz",
   "description": "Parenting... just not as you know it. Join Rob & Josh as they share their tales of parenting woe and chat to celebrity parents about how they're coping, or not coping. Parenting Hell is a Spotify Podcast, video episodes available on Tuesdays and Fridays every week.",
   "image_url": "https://megaphone.imgix.net/podcasts/4327d72a-1a7b-11ed-9f8b-4ff495f6a5bd/image/ea7b3a41cdc0336cc8a48bcdc4533623.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-22T00:06:27+00:00",
+  "fetched_at": "2026-09-22T04:54:19+00:00",
   "owners": [
     "Rob Beckett",
     "Josh Widdicombe"
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "495b0f631afde6a593c0c0b5b490c096023dda0c",
+      "title": "S13 EP19: It's Exhausting Having an Opinion",
+      "published_at": "2026-09-22T01:15:00+00:00",
+      "link": null,
+      "description": "More adventures in parenting (and life) from Rob and Josh... If you want to get in touch with the show with any correspondence, kids intro audio clips, small business shout outs, and more.... here's how: EMAIL: Hello@lockdownparenting.co.uk Follow us on instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@parentinghell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Parenting Hell⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ is a Spotify Podcast, new video episodes available everywhere every Tuesday and Friday. A 'Keep It Light Media' Production Sales, advertising, and general enquiries: hello@keepitlightmedia.com Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/GLT1803359119.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2357",
+      "speakers": [
+        "Rob Beckett",
+        "Josh Widdicombe"
+      ],
+      "topics": [
+        "opinion"
+      ]
+    },
     {
       "key": "98d5376c81f478d50d80666c9595571170ac1f17",
       "title": "⚽ El Snapico: Jose Mourinho and the Real Madrid printer ⚽",
@@ -12852,6 +12871,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-22 — S13 EP19: It's Exhausting Having an Opinion — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-21 — ⚽ El Snapico: Jose Mourinho and the Real Madrid printer ⚽ — speakers: El Snapico, Rob Beckett, Josh Widdicombe
 - 2026-09-18 — S13 EP18: We've sold our dogs — speakers: Rob Beckett, Josh Widdicombe
 - 2026-09-15 — S13 EP17: Your dog is skinny, but you is fat... — speakers: Rob Beckett, Josh Widdicombe

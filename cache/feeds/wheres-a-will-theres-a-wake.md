@@ -2,9 +2,9 @@
 
 - slug: `wheres-a-will-theres-a-wake`
 - source: `https://feeds.megaphone.fm/wtawtaw`
-- fetched_at: `2026-09-15T04:53:20+00:00`
-- checked_at: `2026-09-15T04:53:20+00:00`
-- last_modified: `Tue, 15 Sep 2026 04:00:00 GMT`
+- fetched_at: `2026-09-22T04:54:19+00:00`
+- checked_at: `2026-09-22T04:54:19+00:00`
+- last_modified: `Tue, 22 Sep 2026 04:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/wtawtaw",
   "description": "Join Mel Giedroyc every week as she laughs in the face of death with all your favourite funny celebrities. Working on the assumption they’ve popped their clogs, they’ll be telling Mel all about how they’ve died, what they want for their funerals and why she should be unlocking the pearly gates for them. Want the episodes ad free AND extra content from Mel and her guest? 6 Feet Under steps away from fantasy and rifles through all your dead good emails. Head to wheretheresawilltheresawake.com to subscribe. AND If you've got a story for us, send it over to mel@deathpodcast.co.uk. A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast Learn more about your ad choices. Visit podcastchoices.com/adchoices Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcast To bring your brand to life in this podcast, email podcastadsales@sonymusic.com",
   "image_url": "https://megaphone.imgix.net/podcasts/2b690814-56d7-11ed-8ab5-83c1414d4a97/image/c6f317fd3e7d35323d3d1f610fd8466f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-15T04:53:20+00:00",
+  "fetched_at": "2026-09-22T04:54:19+00:00",
   "owners": [
     "Mel Giedroyc"
   ],
@@ -26,6 +26,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "2d5bdc5e91dd76a42f5624fd49ed6cfb366cf1e0",
+      "title": "Here Lies Nish Kumar",
+      "published_at": "2026-09-22T04:00:00+00:00",
+      "link": null,
+      "description": "Hard things, driving lessons and I've married your girlfriend... Comedian, political satirist and podcaster Nish Kumar is back from the dead to tell us all about how he's getting on in the afterlife and settle once and for all where he will spend all of eternity. Have a story for us? Send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Find more great podcasts from Sony Music Entertainment at sonymusic.com/podcasts and follow us at @sonypodcasts To bring your brand to life in this podcast, email podcastadsales@sonymusic.com And if you’ve got a story for us, send it over to mel@deathpodcast.co.uk A Sony Music Entertainment production. Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/dcb5d364-7c67-11f0-bc82-af3193a4daef/image/26eb427a2c154b139123f0f16d668fd1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY7506566451.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2461",
+      "speakers": [
+        "Here Lies Nish Kumar",
+        "Mel Giedroyc"
+      ],
+      "topics": [
+        "kumar"
+      ]
+    },
     {
       "key": "b7500126df006be1cc1bdb67d9ce66622e78b264",
       "title": "Here Lies Reuben Kaye",
@@ -4350,6 +4369,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-22 — Here Lies Nish Kumar — speakers: Here Lies Nish Kumar, Mel Giedroyc
 - 2026-09-15 — Here Lies Reuben Kaye — speakers: Reuben Kaye, Mel Giedroyc
 - 2026-09-08 — Here Lies Craig Revel Horwood — speakers: Craig Revel Horwood Drowning, Mel Giedroyc
 - 2026-09-01 — The Frankenstein Cut — speakers: Mel Giedroyc
