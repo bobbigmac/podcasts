@@ -2,9 +2,9 @@
 
 - slug: `windbreaker`
 - source: `https://anchor.fm/s/fe088118/podcast/rss`
-- fetched_at: `2026-09-22T11:36:38+00:00`
-- checked_at: `2026-09-22T11:36:38+00:00`
-- etag: `W/"44669-XR5TNgSc5HToMQvhn0ASrQA8TEI"`
+- fetched_at: `2026-09-22T16:57:02+00:00`
+- checked_at: `2026-09-22T16:57:02+00:00`
+- etag: `W/"44dda-FnBkli3W+8I0jVwBJj39C/D4U7U"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Windbreaker is Second Wind's premier gaming podcast hosted by Yahtzee Croshaw, Marty Sliva & JM8. Join the trio (and occasional guests) weekly to discuss everything industry wide from current news, to recent releases and wider trends.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
-  "fetched_at": "2026-09-22T11:36:38+00:00",
+  "fetched_at": "2026-09-22T16:57:02+00:00",
   "owners": [
     "Yahtzee Croshaw",
     "Marty Sliva"
@@ -27,6 +27,27 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "98ab1bce143591702917d725392264b340612112",
+      "title": "Some Games Shouldn't Be Games | Windbreaker Podcast",
+      "published_at": "2026-09-22T13:00:00+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/windbreaker/episodes/Some-Games-Shouldnt-Be-Games--Windbreaker-Podcast-e3p7dte",
+      "description": "On this week’s episode of Windbreaker, Yahtzee, JM8, and Marty take a look at games throughout history that might've worked better in an entirely different medium instead. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519702/5dec161699d2c450.png",
+      "enclosure_url": "https://traffic.megaphone.fm/APO3078556000.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "78750057",
+      "itunes_duration": "01:21:09",
+      "speakers": [
+        "Yahtzee Croshaw",
+        "Marty Sliva"
+      ],
+      "topics": [
+        "games",
+        "windbreaker",
+        "podcast"
+      ]
+    },
     {
       "key": "17afbc53282b3e2171fff0ce28a83a7439610505",
       "title": "The Etiquette of Remakes | Windbreaker Podcast",
@@ -3244,6 +3265,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-22 — Some Games Shouldn't Be Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-09-15 — The Etiquette of Remakes | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-09-01 — Let's Have a Nice Chat About Grand Theft Auto VI | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva
 - 2026-08-25 — The Most Relaxing Spots in Video Games | Windbreaker Podcast — speakers: Yahtzee Croshaw, Marty Sliva

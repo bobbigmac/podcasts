@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-09-21T19:59:38+00:00`
-- checked_at: `2026-09-21T19:59:38+00:00`
-- etag: `"djEuMi4wOjE3ODk5MTgyOTQ1MTE="`
+- fetched_at: `2026-09-22T16:57:02+00:00`
+- checked_at: `2026-09-22T16:57:02+00:00`
+- etag: `"djEuMi4wOjE3OTAwNzgzMjg5MTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,33 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-09-21T19:59:38+00:00",
+  "fetched_at": "2026-09-22T16:57:02+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "16b419d059ae20a2322b5af6fbcff68c4783e3bb",
+      "title": "Going deep on Ed Sheeran's Palestine downfall",
+      "published_at": "2026-09-22T11:58:48+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6ab26d1e9def0199ccf7037d",
+      "description": "Ed Sheeran dropped Macklemore from his tour over the artist's pro-Palestine platform. He played his last gig alone, after all of his supporting artists (and his backing band) dropped out in solidarity. Ava and Seán break down what on earth happened, and react to Sheeran's apology. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6ab26d1e9def0199ccf7037d/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "45005397",
+      "itunes_duration": "31:14",
+      "speakers": [
+        "Ed Sheeran"
+      ],
+      "topics": [
+        "sheeran",
+        "palestine",
+        "downfall"
+      ]
+    },
     {
       "key": "9a8bc616a959c022a22fef5e5d1f11f1e6ebbc27",
       "title": "Who broke Britain's energy system? | Arthur Downing interview",
@@ -13643,6 +13663,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-22 — Going deep on Ed Sheeran's Palestine downfall — speakers: Ed Sheeran
 - 2026-09-20 — Who broke Britain's energy system? | Arthur Downing interview — speakers: Arthur Downing
 - 2026-09-16 — Cory Doctorow: AI isn't Dangerous. America Is. — speakers: Dario Amodei
 - 2026-09-14 — Peter Oborne on Nigel Farage's downfall, and Labour's Palestine U-turn — speakers: Peter Oborne, Palestine U-turn
