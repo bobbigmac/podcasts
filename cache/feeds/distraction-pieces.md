@@ -2,9 +2,9 @@
 
 - slug: `distraction-pieces`
 - source: `https://feeds.acast.com/public/shows/distractionpieces`
-- fetched_at: `2026-09-18T04:42:25+00:00`
-- checked_at: `2026-09-18T04:42:25+00:00`
-- etag: `"djEuMi4wOjE3ODk3MDE2MzkzNTE="`
+- fetched_at: `2026-09-23T04:44:10+00:00`
+- checked_at: `2026-09-23T04:44:10+00:00`
+- etag: `"djEuMi4wOjE3OTAxMzM2MzkzNjg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.distractionpiecespodcast.com",
   "description": "Hosted by Scroobius Pip, with new episodes every Wednesday.",
   "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1719570546459-44b9f1a748ab4667378b6ee5c0b4d40d.jpeg",
-  "fetched_at": "2026-09-18T04:42:25+00:00",
+  "fetched_at": "2026-09-23T04:44:10+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -25,6 +25,32 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "e4624c9f01cfe06e0c592491a25788bb108b8206",
+      "title": "RALF LITTLE • exploring where the processes of acting and being a human being combine (Hunting Alice Bell / Two Pints Of Lager... / Royle Family) #688",
+      "published_at": "2026-09-23T03:20:00+00:00",
+      "link": "https://www.patreon.com/scroobiuspip",
+      "description": "Welcome, welcome, welcome to the Distraction Pieces Podcast with Scroobius Pip! This week Pip is joined by the brilliant actor of stage and screen RALF LITTLE ! Fresh from a huge theatre round of 'The Spy Who Came In From The Cold', Ralf joins Pip for a long overdue chat which seemingly goes off on a bunch of tangents, but on closer inspection you'll hear how connected each strand really is. Of course a huge section involves acting and the science behind the performance (or more accurately, how to portray a role while not losing touch with your own brain), but elsewhere there are great angles involving the upcoming 'Hunting Alice Bell' and where the story came from, working with David Baddiel, the all seeing eye of Simon Pegg, getting into and out of Twitter storms, the mental clarity one can achieve by simply putting the phone down, expectations of various societal groups and mansplaining the 'Me Too' movement to a non-male acquaintance. It's a lot! Enjoy. PIP'S PATREON PAGE if you're of a supporting nature IMDB THE SPY WHO CAME IN FROM THE COLD HUNTING ALICE BELL SPEECH DEVELOPMENT WEBSTORE PIP TWITCH • (music stuff) PIP INSTAGRAM PIP TWITTER PIP PATREON PIP IMDB Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0ec11a8cbef6523cf147/1790107896319-1027ce6a-ea64-4d27-96ac-e4b06320d572.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/distractionpieces/e/6ab13ff41f6f5b915fa52bd5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "177767916",
+      "itunes_duration": "1:13:59",
+      "speakers": [
+        "Royle Family"
+      ],
+      "topics": [
+        "ralf",
+        "little",
+        "process",
+        "alice",
+        "bell",
+        "pint",
+        "lager",
+        "royle",
+        "family"
+      ]
+    },
     {
       "key": "19b396bb4d27b67ef04b6af9495beda6b816bc0f",
       "title": "RICHARD E GRANT (Withnail & I / Savage House / Gosford Park) • Friday Rewind",
@@ -19618,6 +19644,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-23 — RALF LITTLE • exploring where the processes of acting and being a human being combine (Hunting Alice Bell / Two Pints Of Lager... / Royle Family) #688 — speakers: Royle Family
 - 2026-09-18 — RICHARD E GRANT (Withnail & I / Savage House / Gosford Park) • Friday Rewind
 - 2026-09-16 — THE CATCH UP • ...with Buddy & Pip! #687
 - 2026-09-11 — HIMESH PATEL (The Odyssey / Bait / Tenet) • Friday Rewind

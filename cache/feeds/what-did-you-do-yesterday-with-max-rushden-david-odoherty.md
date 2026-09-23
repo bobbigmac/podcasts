@@ -2,9 +2,9 @@
 
 - slug: `what-did-you-do-yesterday-with-max-rushden-david-odoherty`
 - source: `https://feeds.megaphone.fm/GLT5518536193`
-- fetched_at: `2026-09-20T04:53:02+00:00`
-- checked_at: `2026-09-20T04:53:02+00:00`
-- etag: `"djEuMi4wOjE3ODk4NzMyNDA0OTU="`
+- fetched_at: `2026-09-23T04:44:10+00:00`
+- checked_at: `2026-09-23T04:44:10+00:00`
+- etag: `"djEuMi4wOjE3OTAxMzI0Mzk3Nzk="`
 - last_modified: `Wed, 10 Jun 2026 09:22:33 GMT`
 - max_episodes_per_feed: `2000`
 
@@ -18,7 +18,7 @@
   "link": "https://feeds.acast.com/public/shows/what-did-you-do-yesterday",
   "description": "A podcast where people tell us what they did yesterday.... Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/show-cover.jpg",
-  "fetched_at": "2026-09-20T04:53:02+00:00",
+  "fetched_at": "2026-09-23T04:44:10+00:00",
   "owners": [
     "Max Rushden",
     "David O'Doherty"
@@ -28,6 +28,28 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "427d8f3d7018bc8c6a82c01910f25acf6062a04f",
+      "title": "WDWDY #88.1: Prestige Broadcasting (David's Yesterday)",
+      "published_at": "2026-09-23T03:00:00+00:00",
+      "link": "https://shows.acast.com/what-did-you-do-yesterday/episodes/wdwdy-881-prestige-broadcasting-davids-yesterday",
+      "description": "On this mid-week bonus ep we find out what David did with his yesterday... Get in touch: WHATDIDYOUDOYESTERDAYPOD@GMAIL.COM Follow us on Instagram: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠@yesterdaypod⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ Subscribe, follow, and leave a review. Five stars ideally please. xx This is the last episode of the main series - business as usual on the fan club in the meantime. We'll be back soon after the live shows and a short end of summer break with more WDYDY. Thanks for listening!! Find the full transcript of shows at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ www.everythingisshowbiz.com ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ A 'Keep It Light Media' Production Sales and general enquiries: HELLO@KEEPITLIGHTMEDIA.COM Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6a2be260126ad95c2367834c/1790061713558-a6dd7017-07ee-4271-8df5-d682954d1006.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/6a2be260126ad95c2367834c/e/6ab22dfaf9e04b2235592ee0/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "51010246",
+      "itunes_duration": "53:08",
+      "speakers": [
+        "Max Rushden",
+        "David O'Doherty"
+      ],
+      "topics": [
+        "prestige",
+        "broadcasting",
+        "david",
+        "yesterday"
+      ]
+    },
     {
       "key": "d5db815d59b6a818a77c9c0bffecd6e31af9ed27",
       "title": "S6 EP2: Chris Lintott",
@@ -4122,6 +4144,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-23 — WDWDY #88.1: Prestige Broadcasting (David's Yesterday) — speakers: Max Rushden, David O'Doherty
 - 2026-09-20 — S6 EP2: Chris Lintott — speakers: Chris Lintott, Max Rushden, David O'Doherty
 - 2026-09-16 — WDWDY #87.1: The Redemption of Michael Suriname (Max's Yesterday) — speakers: Michael Suriname, Max Rushden, David O'Doherty
 - 2026-09-13 — S6 EP1: Rob Rouse — speakers: Rob Rouse, Max Rushden, David O'Doherty

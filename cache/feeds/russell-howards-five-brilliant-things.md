@@ -2,9 +2,9 @@
 
 - slug: `russell-howards-five-brilliant-things`
 - source: `https://feeds.megaphone.fm/russell-howards-wonderbox`
-- fetched_at: `2026-09-16T04:48:25+00:00`
-- checked_at: `2026-09-16T04:48:25+00:00`
-- last_modified: `Wed, 16 Sep 2026 01:06:44 GMT`
+- fetched_at: `2026-09-23T04:44:10+00:00`
+- checked_at: `2026-09-23T04:44:10+00:00`
+- last_modified: `Wed, 23 Sep 2026 01:06:32 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.russell-howard.co.uk/podcast",
   "description": "Each week Russell sits down with fantastic guests to chat about their Brilliant Things; the items, places and people that make life worth living.",
   "image_url": "https://megaphone.imgix.net/podcasts/23eaf27a-5340-11ef-bdcb-e77005dd8522/image/4509669d9180a2785fc06dd9a492fe0f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-16T04:48:25+00:00",
+  "fetched_at": "2026-09-23T04:44:10+00:00",
   "owners": [
     "Russell Howard"
   ],
@@ -26,6 +26,26 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "7eac0581991dd7739ceaa52bc959952c9dcada04",
+      "title": "Natasha Bedingfield",
+      "published_at": "2026-09-23T01:00:00+00:00",
+      "link": null,
+      "description": "The pop megastar is in the studio and her brilliant things are as wholesome as you might hope; a swim through the importance of connecting with nature, the vitality of comedy and there’s a fascinating chat about the creative process. Oh! And chocolate. Natasha’s new single ‘Dot Dot Dot’ is out now and it’s an absolute banger; the kind of upbeat, optimistic pop that has earned Natasha a place among the greats. You can hear it, buy it and find so much more music at natashabedingfield.com You can also follow Natasha on Insta where she’s @natashabedingfield. Enjoy these final late summer days, listen to some music, walk your dog unless you don’t have a dog in which case steal a dog and walk that dog. Bye! Producer: Dan Atkinson Line Producer: Daisy Knight Exec Producer: James Taylor Composer: Fat Lady Music Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/b4c598bc-b5a0-11f1-a72f-5f9bea2945bf/image/7e5b91833db0da5b4baca33f211f82c1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR2562626514.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2945",
+      "speakers": [
+        "Natasha Bedingfield",
+        "Russell Howard"
+      ],
+      "topics": [
+        "natasha",
+        "bedingfield"
+      ]
+    },
     {
       "key": "a74e651ad661f9e75b2b231b8699314874f73589",
       "title": "Alasdair Beckett-King",
@@ -3456,6 +3476,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-23 — Natasha Bedingfield — speakers: Natasha Bedingfield, Russell Howard
 - 2026-09-16 — Alasdair Beckett-King — speakers: Alasdair Beckett-King Alasdair Beckett-King, Russell Howard
 - 2026-09-09 — Mark Simmons — speakers: Mark Simmons, Russell Howard
 - 2026-09-02 — Brian Conley — speakers: Brian Conley Brian Conley, Russell Howard

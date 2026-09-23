@@ -2,9 +2,9 @@
 
 - slug: `wolf-owl`
 - source: `https://feeds.megaphone.fm/GLT9487939818`
-- fetched_at: `2026-09-16T04:48:25+00:00`
-- checked_at: `2026-09-16T04:48:25+00:00`
-- last_modified: `Mon, 14 Sep 2026 23:01:00 GMT`
+- fetched_at: `2026-09-23T04:44:10+00:00`
+- checked_at: `2026-09-23T04:44:10+00:00`
+- last_modified: `Mon, 21 Sep 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://feeds.megaphone.fm/GLT9487939818",
   "description": "Comedians Tom Davis (The Wolf) and Romesh Ranganathan (The Owl) shoot the breeze for an hour a week because they couldn’t work out a format. They also take on listener problems if they remember to ask for them before they record. Not enough podcasts are just people talking with no real purpose. We’ve come to change all that. It’s a huge waste of time, but an entertaining one. Contains swearing because it’s really cool. \"As shooting the breeze goes, Tom and Romesh are as good as it gets\" - Evening Standard For questions or comments please email us at wolfowlpod@gmail.com - we’d love to hear from you. Instagram - @wolfowlpod TikTok - @wolfowlpodcast YouTube - www.youtube.com/WolfandOwlPodcast Merch & Mailing List - https://wolfandowlpod.com/ A Ranga Bee Production in partnership with Platform Media",
   "image_url": "https://megaphone.imgix.net/podcasts/fc5755b2-4830-11ed-b0f6-a3f90ece2954/image/00ccac4f2c3d596a3a023b7724038d3d.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-16T04:48:25+00:00",
+  "fetched_at": "2026-09-23T04:44:10+00:00",
   "owners": [
     "Romesh Ranganathan",
     "Tom Davis"
@@ -27,6 +27,53 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "78b8b971ee009f08cb4a3b5a2ec4351e8aaccaaa",
+      "title": "Humiliating Moments, Below Deck & Rasputin",
+      "published_at": "2026-09-21T23:01:00+00:00",
+      "link": null,
+      "description": "What happened to Romesh at Radio 2 In The Park? In this episode of Wolf & Owl, Romesh and Tom look back at some of their most awkward moments in comedy, from disastrous panel show appearances to the realities of dealing with hecklers. Romesh goes into detail after revealing a particularly embarrassing and sticky situation at Radio 2 In The Park during an interview with Appleton and Deacon Blue. And Tom opens up about his recent increase in professional anxiety and the pressure of getting things right on TV. Plus, we have tales of airport and flying etiquette, Rasputin intrigue, Below Deck catch ups and some questionable celebrity role plays. Another week, another collection of embarrassing stories from the Wolf & Owl. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:43 A compliment for Tom 01:55 Romesh’s panel show mishap 05:45 Tom’s show panic story 08:43 Tom’s professional anxiety 09:55 Tom’s take on The Romesh Show 11:20 Revisiting foot golf 13:03 A message to the critics 14:38 A role play of Bradley Cooper & Romesh 19:25 Romesh had a heckler 21:24 Role-playing Tom on The Rest Is History 23:04 A Radio 2 in The Park horror story 34:10 Romesh’s Scottish flight drama 41:33 On Below Deck 47:29 Tom’s Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/36b91004-b599-11f1-8b88-1f1be2d2a4f3/image/103a93b9330e88b972f4a88e86c1416c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT4035962882.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3162",
+      "speakers": [
+        "Humiliating Moments",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "humiliating",
+        "moments",
+        "deck",
+        "rasputin"
+      ]
+    },
+    {
+      "key": "811f560f11b16c9a9951103d03436e47c6b00df0",
+      "title": "Social Trolls & An Email Special Song",
+      "published_at": "2026-09-17T23:01:00+00:00",
+      "link": null,
+      "description": "How to handle social trolls? In this episode of Wolf & Owl, the boys are back with another collection of bizarre listener questions, questionable role plays, and deeply unnecessary discussions. Plus, they get the first listen at a brand new Wolf & Owl song and present the question: could this go to the charts? Elsewhere, Romesh and Tom revisit their infamous Josh Widdicombe and Ross Kemp role play before attempting another one that goes spectacularly wrong. They also discuss tummy sticks, music speaker etiquette, and whether you really need social media to stay in the loop. And we address the topic of when friendly banter begins to cross a line. From cutting down on social media to dealing with online trolls, they cover all of your email conundrums. If you've been thinking about therapy, BetterHelp can help you take the first step. Sign up and get 10% off at https://www.BetterHelp.com/wolfowl A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 00:48 An email special song 04:18 Revisiting the Josh Widdicombe & Ross Kemp role play 05:33 Tummy sticks 07:55 A question on music speakers 12:15 A failed role play 19:08 A large nose issue 28:19 How to stay in the loop without socials 31:59 Cutting down on social media 33:53 Dealing with social trolls 38:08 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/3f8b8d16-b1ce-11f1-9d09-7342bb2f5f19/image/eeaea8956a9876868af66a447c1892f4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/GLT5231291405.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2469",
+      "speakers": [
+        "another collectio",
+        "Romesh Ranganathan",
+        "Tom Davis"
+      ],
+      "topics": [
+        "social",
+        "trolls",
+        "email",
+        "special",
+        "song"
+      ]
+    },
     {
       "key": "e4d6e33ada4259922c38dc61a6dc04e919170e67",
       "title": "Body Image, Infestations & Fantasy Football",
@@ -7568,6 +7615,8 @@
 
 ## Episodes (newest first)
 
+- 2026-09-21 — Humiliating Moments, Below Deck & Rasputin — speakers: Humiliating Moments, Romesh Ranganathan, Tom Davis
+- 2026-09-17 — Social Trolls & An Email Special Song — speakers: another collectio, Romesh Ranganathan, Tom Davis
 - 2026-09-14 — Body Image, Infestations & Fantasy Football — speakers: Body Image, Fantasy Football What, Romesh Ranganathan, Tom Davis
 - 2026-09-10 — Weird Food Combos And FOMO — speakers: Romesh Ranganathan, Tom Davis
 - 2026-09-07 — Catfishes, Testosterone & Airport Nightmares — speakers: Romesh Ranganathan, Tom Davis

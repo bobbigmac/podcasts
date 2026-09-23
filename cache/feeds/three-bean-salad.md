@@ -2,10 +2,10 @@
 
 - slug: `three-bean-salad`
 - source: `https://feeds.captivate.fm/three-bean-salad/`
-- fetched_at: `2026-09-16T04:48:25+00:00`
-- checked_at: `2026-09-16T04:48:25+00:00`
-- etag: `"a8d3a-65b8e90584a0b"`
-- last_modified: `Wed, 16 Sep 2026 00:15:25 GMT`
+- fetched_at: `2026-09-23T04:44:10+00:00`
+- checked_at: `2026-09-23T04:44:10+00:00`
+- etag: `"a9726-65c1b612486ba"`
+- last_modified: `Wed, 23 Sep 2026 00:15:23 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://three-bean-salad.captivate.fm",
   "description": "A podcast from comedians Mike Wozniak, Henry Paker and Benjamin Partridge. Each week the three beans tackle a different theme, suggested by the listening audience.",
   "image_url": "https://artwork.captivate.fm/094ddcb6-a101-4950-9535-1fc0457a2f0c/d2ab872030e0f1f3a275b9a53574d8fc.jpg",
-  "fetched_at": "2026-09-16T04:48:25+00:00",
+  "fetched_at": "2026-09-23T04:44:10+00:00",
   "owners": [
     "Mike Wozniak",
     "Henry Paker",
@@ -29,6 +29,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "aaff0dafa5470b5a479e0f301b0e23a193fdbce0",
+      "title": "Soup",
+      "published_at": "2026-09-23T00:15:00+00:00",
+      "link": "https://three-bean-salad.captivate.fm/episode/soup",
+      "description": "Soup of the day is lukewarm banter! That’s right, Max of Bremen has poured soup into the bean machine. Rest assured the beans shall treat this week’s liquid topic as scrupulously they would any solid one. With thanks to our editor Laura Grimshaw. Join our PATREON for ad-free episodes and bonus/video episodes: www.patreon.com/threebeansalad Merch available here: www.threebeansaladshop.com Get in touch: threebeansaladpod@gmail.com Insta: threebeansaladpod",
+      "image_url": "https://artwork.captivate.fm/9eadbf57-58da-4f9f-bafb-6e54c9c848ef/S22-E04-Soup.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/e6508a21-57e6-4a73-9096-064f413a9cb0.mp3?aw_0_1st.showid=d4e9c531-fa7a-42f2-b2eb-1f9c4abc7ae9&aw_0_1st.episodeid=e6508a21-57e6-4a73-9096-064f413a9cb0",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "54447587",
+      "itunes_duration": "56:43",
+      "speakers": [
+        "Mike Wozniak",
+        "Henry Paker",
+        "Benjamin Partridge"
+      ],
+      "topics": [
+        "soup"
+      ]
+    },
     {
       "key": "dfe8554a25419c7dc9ea177cbb0e3f0688cb36cc",
       "title": "Dancing",
@@ -4523,6 +4543,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-23 — Soup — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-09-16 — Dancing — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-09-09 — Taxis — speakers: Taxis Taxi, Mike Wozniak, Henry Paker, Benjamin Partridge
 - 2026-09-02 — Musicals — speakers: Mike Wozniak, Henry Paker, Benjamin Partridge

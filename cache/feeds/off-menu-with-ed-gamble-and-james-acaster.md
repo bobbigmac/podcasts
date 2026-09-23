@@ -2,9 +2,9 @@
 
 - slug: `off-menu-with-ed-gamble-and-james-acaster`
 - source: `https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4`
-- fetched_at: `2026-09-16T04:48:25+00:00`
-- checked_at: `2026-09-16T04:48:25+00:00`
-- etag: `"djEuMi4wOjE3ODk1Mjc2Mzk3Njk="`
+- fetched_at: `2026-09-23T04:44:10+00:00`
+- checked_at: `2026-09-23T04:44:10+00:00`
+- etag: `"djEuMi4wOjE3OTAxMzI0Mzk3MDg="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.offmenupodcast.co.uk",
   "description": "Comedians Ed Gamble and James Acaster invite special guests into their magical restaurant to each choose their favourite starter, main course, side dish, dessert and drink. Ever wanted to eat your dream meal? It's time to order Off Menu.",
   "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1706014099620-22ed642c41b38c519da69bd0fe5a33e7.jpeg",
-  "fetched_at": "2026-09-16T04:48:25+00:00",
+  "fetched_at": "2026-09-23T04:44:10+00:00",
   "owners": [
     "Ed Gamble",
     "James Acaster",
@@ -29,11 +29,34 @@
   ],
   "episodes": [
     {
+      "key": "45e5cb04342b838f102ee6ae34084117b3d12183",
+      "title": "Pierre Novellie",
+      "published_at": "2026-09-23T03:00:00+00:00",
+      "link": "https://shows.acast.com/offmenu/episodes/pierre-novellie",
+      "description": "Stand-up, podcaster, and Ed's wine club buddy Pierre Novellie has a table booked this week. They chat dream meals, getting trapped in caves, and whether the Queen in Narnia was fit. Pierre Novellie is at London’s Soho Theatre with his new show ‘OK, One More Then Bedtime’ until Thu 1 Oct 2026. Get tickets at sohotheatre.com Pierre will be announcing a tour very soon – sign up to his mailing list to find out tour dates at pierrenovellie.com Pierre’s book, ‘Why Can’t I Just Enjoy Things?: A Comedian's Guide to Autism’ is out now. Buy it here . Follow Pierre on Instagram @pierrenovellie Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1789391845287-ebe0ed68-d4bf-437f-8dd2-f1443ec76d73.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6aa7f3f4eb30d8abd812af10/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "84158589",
+      "itunes_duration": "1:27:39",
+      "speakers": [
+        "Pierre Novellie Stand",
+        "Pierre Novellie",
+        "Ed Gamble",
+        "James Acaster",
+        "Ben Williams"
+      ],
+      "topics": [
+        "pierre",
+        "novellie"
+      ]
+    },
+    {
       "key": "9280a4150169eab0a19fd588074bafd949fc8683",
       "title": "Sanjeev Bhaskar",
       "published_at": "2026-09-16T03:00:00+00:00",
       "link": "https://shows.acast.com/offmenu/episodes/sanjeev-bhaskar",
-      "description": "We’re in National Treasure territory again as we welcome British comedy royalty Sanjeev Bhaskar to the Dream Restaurant. The ‘Goodness Gracious Me’ and ‘Taskmaster’ star makes James laugh more than he ever has on the podcast, we think. Sanjeev Bhaskar stars in ‘The Split Up’ which launches on 20 September on BBC iPlayer and BBC One. Follow Sanjeev on Instagram @tvsanjeev Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
+      "description": "We’re in National Treasure territory again as we welcome British comedy royalty Sanjeev Bhaskar to the Dream Restaurant. The ‘Goodness Gracious Me’ and ‘Taskmaster’ star makes James laugh more than he ever has on the podcast, we think. Sanjeev Bhaskar stars in ‘The Split Up’ which launches on 20 September on BBC iPlayer and BBC One. The Split Up’s story and characters are created by Ursula Rani Sarma, based on The Split, created by multiple award-winning Abi Morgan. Follow Sanjeev on Instagram @tvsanjeev Watch the video version of this episode on the Off Menu YouTube . Off Menu is now on YouTube: @offmenupodcast Follow Off Menu on Instagram and TikTok : @offmenuofficial. And go to our website www.offmenupodcast.co.uk for a list of restaurants recommended on the show. Ed Gamble is on tour in 2027 with ‘Fresh Hell’. For dates and tickets go to edgamble.co.uk Off Menu is a comedy podcast hosted by Ed Gamble and James Acaster. Produced, recorded and edited by Ben Williams for Plosive . Video production by Ben Williams and Megan McCarthy for Plosive . Artwork by Paul Gilbey (photography and design). Hosted on Acast. See acast.com/privacy for more information.",
       "image_url": "https://assets.pippa.io/shows/61ba04aa1a8cbee88a3cf0d8/1789143023733-8ee107c6-c586-4468-8298-4631a7479a38.jpeg",
       "enclosure_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6aa42a57a6e9aef4ccf77dd1/media.mp3",
       "enclosure_type": "audio/mpeg",
@@ -8966,6 +8989,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-23 — Pierre Novellie — speakers: Pierre Novellie Stand, Pierre Novellie, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-16 — Sanjeev Bhaskar — speakers: Sanjeev Bhaskar, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-09 — Jacqueline Novak — speakers: Jacqueline Novak, Ed Gamble, James Acaster, Ben Williams
 - 2026-09-02 — Tessa Coates — speakers: Tessa Coates Tessa Coates, Prime Video, Ed Gamble, James Acaster, Ben Williams

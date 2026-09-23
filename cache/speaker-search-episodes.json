@@ -9386,6 +9386,29 @@
     ],
     "bob-mortimer": [
       {
+        "feed_slug": "external:apple:f4eabd81e4e3",
+        "feed_title": "The Harry Hill Show",
+        "source_rss_url": "https://feeds.acast.com/public/shows/6a993de1a389b713aeb67534",
+        "dedupe_key": "2a026af90fc992464a4cc8eaaf363477cde25764",
+        "episode_key": "2a026af90fc992464a4cc8eaaf363477cde25764",
+        "title": "Sara Pascoe: The Boadicea Chariot of Young Female Comics, The Wednesday Hospice Pickpocket Club, Getting Called Trevor, and a £185k Diamond",
+        "published_at": "2026-09-21T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Sara Pascoe turns up for old times' sake, gets grilled by not one but two Sarah's, pitches a Thursday Murder Club rival called The Wednesday Hospice Pickpocket Club, and has her own historic bankruptcy read out live on air by an AI bot with a long memory and no filter. We welcome Queensmith CEO Brett Afshar for this we",
+        "audio_url": "https://sphinx.acast.com/p/open/s/6a993de1a389b713aeb67534/e/6aac02e6488b13dbf78236e7/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/sara-pascoe-the-boadicea-chariot-of-young-female/id1742178595?i=1000790878571&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Bob Mortimer",
+          "Harry Hill"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:b668206d8929",
         "feed_title": "Taskmaster The Podcast",
         "source_rss_url": "https://feeds.captivate.fm/taskmaster-the-podcast",

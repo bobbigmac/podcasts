@@ -2,9 +2,9 @@
 
 - slug: `drunk-women-solving-crime`
 - source: `https://feeds.acast.com/public/shows/580adc7a-3ec4-4ee1-a811-02ba70ad9aad`
-- fetched_at: `2026-09-21T19:59:38+00:00`
-- checked_at: `2026-09-21T19:59:38+00:00`
-- etag: `"djEuMi4wOjE3OTAwMDc0Mzc3Nzc="`
+- fetched_at: `2026-09-23T04:44:10+00:00`
+- checked_at: `2026-09-23T04:44:10+00:00`
+- etag: `"djEuMi4wOjE3OTAxMjE2Mzk1MjE="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://drunkwomensolvingcrime.komi.io/",
   "description": "Drunk Women Solving Crime is a true crime podcast with a twist...of lime. Join writer/comedian hosts Hannah George and Taylor Glenn as they welcome top guests from comedians to crime writers to test out their drunk detective skills. Each episode sees the boozed up panel tackle personal crime stories, solve true crime cases, and seek justice for your listener crimes. When women sit around and drink we try to solve the world’s problems. So we’re taking back the night and putting our inebriation to good use. You’re welcome. Find us on other platforms here - https://drunkwomensolvingcrime.komi.io/ If you're interested in sponsorship and advertising in Drunk Women Solving Crime, then we'd love to hear from you. Just email sales@audioalways.com and we'll tell you more! Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
-  "fetched_at": "2026-09-21T19:59:38+00:00",
+  "fetched_at": "2026-09-23T04:44:10+00:00",
   "owners": [
     "Hannah George",
     "Taylor Glenn"
@@ -28,6 +28,28 @@
     "true-crime"
   ],
   "episodes": [
+    {
+      "key": "4ec61b66cb4f5500d1c05f061ad7c4fa7c7d1cc0",
+      "title": "Nitpicking, With Rosie Blackadder",
+      "published_at": "2026-09-23T00:00:00+00:00",
+      "link": "https://shows.acast.com/drunkwomen/episodes/nitpicking-with-rosie-blackadder",
+      "description": "Hello and welcome back to DWSC HQ, as Hannah and Taylor are in the studio with this week's guest, the wonderful, Rosie Blackadder! Before we get a taste of today’s case, we hear about what's bugging our trio of detectives, - and Rosie clues us in on how she managed to actually gain from being scammed and perhaps gave the criminal pause for thought (but probably not). We then hear about a case where the perp should have been toast, right from the beginning! The DWSC London Residency is BACK at The Pleasance. You can see Hannah and Taylor, plus their special guests in October & November, with guests Matt Richardson, Esther Manito, Matt Forde & Helen Serafinowicz! Full info and tickets HERE. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/611e74f306c05ebf76f40924/1714394817564-619b19c6a973b981f04c69758dac0997.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/drunkwomen/e/6ab12d6b5573cd64f74dffc5/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "92796709",
+      "itunes_duration": "1:04:26",
+      "speakers": [
+        "Rosie Blackadder",
+        "Hannah George",
+        "Taylor Glenn"
+      ],
+      "topics": [
+        "nitpicking",
+        "rosie",
+        "blackadder"
+      ]
+    },
     {
       "key": "e34da66f6351772f6e6a4e430a48a27468d2bbad",
       "title": "DWSC LIVE: With Quivers",
@@ -11586,6 +11608,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-23 — Nitpicking, With Rosie Blackadder — speakers: Rosie Blackadder, Hannah George, Taylor Glenn
 - 2026-09-16 — DWSC LIVE: With Quivers — speakers: Quivers Hello, Hannah George, Taylor Glenn
 - 2026-09-09 — DWSC LIVE: With Aaron Simmonds — speakers: Aaron Simmonds, Hannah George, Taylor Glenn
 - 2026-09-02 — DWSC LIVE: With Suzie Preece — speakers: Hannah George, Taylor Glenn

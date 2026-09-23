@@ -2,9 +2,9 @@
 
 - slug: `rhlstp-with-richard-herring`
 - source: `https://feeds.acast.com/public/shows/aacb15fc-f2a9-43e6-9d0f-521463063cef`
-- fetched_at: `2026-09-21T04:54:18+00:00`
-- checked_at: `2026-09-21T04:54:18+00:00`
-- etag: `"djEuMi4wOjE3ODk5NTk0NTkyNjg="`
+- fetched_at: `2026-09-23T04:44:10+00:00`
+- checked_at: `2026-09-23T04:44:10+00:00`
+- etag: `"djEuMi4wOjE3OTAxMzIyNTkzNTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://www.rhlstp.co.uk",
   "description": "Richard Herring chats with some of the biggest names in comedy and entertainment.",
   "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1660559822500-0afbc2a3890abde2bcd2abf34a384a56.jpeg",
-  "fetched_at": "2026-09-21T04:54:18+00:00",
+  "fetched_at": "2026-09-23T04:44:10+00:00",
   "owners": [
     "Richard Herring"
   ],
@@ -26,6 +26,28 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "0eb50a6edd6f34b9cd7c5634dfdada52bd927304",
+      "title": "Paddy Young - \"Ultrasound Tester\"",
+      "published_at": "2026-09-23T02:57:00+00:00",
+      "link": "https://rhlstp.co.uk",
+      "description": "RHLSTP #628 - Ultrasound Tester - It’s the second recording of the 2026 Edinburgh Fringe and Rich is still trying to keep fit and also wondering if he knows where he has stayed in Edinburgh in the past. His guest is SNL UK star, Paddy Young. They chat about the power of the moustache, Scrabble tactics, Paddy slicing his hand with a samurai sword, how Rich plans to save himself from his ageing groupies, whether Rich is delighted to be on the housing ladder whilst everyone of Paddy’s generation has to share the same flat, if there’s any danger of Paddy being the Chevy Chase of SNL UK and how long he can hope to play Andy Burnham. Plus Paddy is confounded but game when he gets some Emergency Questions. See Paddy on tour https://www.berksnest.com/paddy See RHLSTP live (while you still can) http://richardherring.com/rhlstp SUPPORT THE SHOW! See details of the RHLSTP LIVE DATES Watch our TWITCH CHANNEL Become a badger and see extra content at our WEBSITE Buy DVDs and books from GO FASTER STRIPE Audio mix by Ben Evans (NTO) Thanks to Chris Evans (NTO) and Ben Walker Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61ba0fda1a8cbe093a3cf14b/1789578113382-5de8d060-f3da-4816-b1b2-9e97fbd679e4.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/rhlstp/e/6aaacb9a4cef87591d4426d6/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27039660",
+      "itunes_duration": "56:19",
+      "speakers": [
+        "Edinburgh Fringe",
+        "Richard Herring"
+      ],
+      "topics": [
+        "paddy",
+        "young",
+        "ultrasound",
+        "tester"
+      ]
+    },
     {
       "key": "e85a14f429b9c50b5785da1ce809dc2281316b40",
       "title": "Mike Bubbins (Retro) - \"Podcast Teeth\"",
@@ -23960,6 +23982,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-23 — Paddy Young - "Ultrasound Tester" — speakers: Edinburgh Fringe, Richard Herring
 - 2026-09-21 — Mike Bubbins (Retro) - "Podcast Teeth" — speakers: Mike Bubbins, Richard Herring
 - 2026-09-19 — Rich and Ally's Craven Newsround Compilation - No Immediate Protocol — speakers: Craven Newsround Compilation, No Immediate Protocol Wednesday, No Immediate Protocol, Richard Herring
 - 2026-09-18 — David Quantick and Chris Barker on The Lost Films of Hollywood - Book Club — speakers: David Quantick, Chris Barker, Richard Herring
