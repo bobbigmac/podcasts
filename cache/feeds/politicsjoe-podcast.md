@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-09-22T16:57:02+00:00`
-- checked_at: `2026-09-22T16:57:02+00:00`
-- etag: `"djEuMi4wOjE3OTAwNzgzMjg5MTQ="`
+- fetched_at: `2026-09-23T16:57:11+00:00`
+- checked_at: `2026-09-23T16:57:11+00:00`
+- etag: `"djEuMi4wOjE3OTAxODA3NDg0NzM="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-09-22T16:57:02+00:00",
+  "fetched_at": "2026-09-23T16:57:11+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "f98fc3c2ee542282601b28c46d667c6dea5eeee2",
+      "title": "Trump's Greenland Deal Isn't What You Think | Scott Lucas interview",
+      "published_at": "2026-09-23T13:54:18+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6ab3da0bd4c02b0e0db1da17",
+      "description": "Ava is once again joined by friend of the podcast Scott Lucas to break down the latest in the world of Donald Trump. He had a busy couple of days in New York where he met Andy Burnham face-to-face, but another of the big stories at the UN was the long-awaited \"deal\" on Greenland. Scott breaks down what actually happened in the US/Denmark/Greenland trilat. Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6ab3da0bd4c02b0e0db1da17/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "30829441",
+      "itunes_duration": "32:05",
+      "speakers": [
+        "Scott Lucas"
+      ],
+      "topics": [
+        "trump",
+        "greenland",
+        "deal",
+        "scott",
+        "lucas"
+      ]
+    },
     {
       "key": "16b419d059ae20a2322b5af6fbcff68c4783e3bb",
       "title": "Going deep on Ed Sheeran's Palestine downfall",
@@ -13663,6 +13685,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-23 — Trump's Greenland Deal Isn't What You Think | Scott Lucas interview — speakers: Scott Lucas
 - 2026-09-22 — Going deep on Ed Sheeran's Palestine downfall — speakers: Ed Sheeran
 - 2026-09-20 — Who broke Britain's energy system? | Arthur Downing interview — speakers: Arthur Downing
 - 2026-09-16 — Cory Doctorow: AI isn't Dangerous. America Is. — speakers: Dario Amodei

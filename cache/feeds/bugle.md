@@ -2,9 +2,9 @@
 
 - slug: `bugle`
 - source: `https://feeds.acast.com/public/shows/5e7b777ba085cbe7192b0607`
-- fetched_at: `2026-09-23T04:44:10+00:00`
-- checked_at: `2026-09-23T04:44:10+00:00`
-- etag: `"djEuMi4wOjE3ODk2MDY4MTg5ODk="`
+- fetched_at: `2026-09-23T16:57:11+00:00`
+- checked_at: `2026-09-23T16:57:11+00:00`
+- etag: `"djEuMi4wOjE3OTAxNzU5MTI3NTQ="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "http://thebuglepodcast.com/",
   "description": "Audio Newspaper for a Visual World",
   "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1736154208862-3dd427f5-38fe-4b3f-904d-0bf8cb99293e.jpeg",
-  "fetched_at": "2026-09-23T04:44:10+00:00",
+  "fetched_at": "2026-09-23T16:57:11+00:00",
   "owners": [
     "Andy Zaltzman"
   ],
@@ -27,6 +27,27 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "fb3f9ce88fcbaebe535a9fc9e048a9fecb44fced",
+      "title": "Australia joins Europe?",
+      "published_at": "2026-09-23T15:00:00+00:00",
+      "link": "https://shows.acast.com/thebugle/episodes/australia-joins-europe",
+      "description": "Joining Andy on this week's issue of The Bugle is Nish Kumar and Tom Ballard, as they discuss Australia set to joining the EU, News of American Space Weapons, and AI that can create poetry better than some of the greats? Plus, Ed Sheeran & Macklemore controversy and Religion News, as Nottinghamshire parish told its 940-litre ‘portable immersion baptistery’ plan has no theological basis! All this and more in issue 4391 of The Bugle. 🇦🇺 Australia join Europe: The trio delve into the news that Australia are set to join the EU 🐷 US Space Weapons: The Bugle reports on the latest from the American Space Military plans 🎸 Ed Sheeran in Hot Water: Andy, Nish and Tom report the latest on Ed Sheeran's & Macklemore controversy Andy's Links: https://www.andyzaltzman.co.uk/ Nish Kumar's Links: https://www.nishkumar.co.uk/ Tom Ballard's Links: https://tomballard.com.au 🎧 Support The Bugle! Become a Team Bugle subscriber for bonus episodes, exclusive video editions, and the righteous satisfaction of funding satire: http://thebuglepodcast.com 📺 Watch Realms Unknown on YouTube Produced by Chris Skinner, Laura Turner and Harry Gordon. Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/5e7b777ba085cbe7192b0607/1790175869801-f2d08814-2f84-46fa-ab77-fd482e358382.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/5e7b777ba085cbe7192b0607/e/6ab3e569dc479259e7d9fe25/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "55074063",
+      "itunes_duration": "57:22",
+      "speakers": [
+        "Joining Andy",
+        "Tom Ballard",
+        "Andy Zaltzman"
+      ],
+      "topics": [
+        "australia",
+        "europe"
+      ]
+    },
     {
       "key": "3e50f48af04820aa63f114d4fdad90a58e342157",
       "title": "Humanity is Doomed",
@@ -14537,6 +14558,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-23 — Australia joins Europe? — speakers: Joining Andy, Tom Ballard, Andy Zaltzman
 - 2026-09-16 — Humanity is Doomed — speakers: Nish Kumar, Sara Barron, Andy Zaltzman
 - 2026-09-09 — Game Over for White House — speakers: Helen Zaltzman, Anuvab Pal, Andy Zaltzman
 - 2026-09-02 — Fish Cakes with a Hint of Lead — speakers: Alice Fraser, Andy Zaltzman
