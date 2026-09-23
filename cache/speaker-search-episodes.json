@@ -30745,6 +30745,28 @@
     ],
     "nish-kumar": [
       {
+        "feed_slug": "external:apple:74fa0980a57e",
+        "feed_title": "Where There's A Will, There's A Wake",
+        "source_rss_url": "https://rss.pdrl.fm/4bb7b6/feeds.megaphone.fm/wtawtaw",
+        "dedupe_key": "e0c52631182235c331a86b6576d108f01ce56314",
+        "episode_key": "e0c52631182235c331a86b6576d108f01ce56314",
+        "title": "Here Lies Nish Kumar",
+        "published_at": "2026-09-22T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Hard things, driving lessons and I've married your girlfriend...\n\n\n\nComedian, political satirist and podcaster Nish Kumar is back from the dead to tell us all about how he's getting on in the afterlife and settle once and for all where he will spend all of eternity. \n\n\n\nHave a story for us? Send it over to mel@deathpod",
+        "audio_url": "https://pdst.fm/e/mgln.ai/e/143/pdrl.fm/4bb7b6/tracking.swap.fm/track/Vjambo9ifGBwbaCTlDBD/pscrb.fm/rss/p/traffic.megaphone.fm/SONY7506566451.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/here-lies-nish-kumar/id1654059310?i=1000790973439&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:fd34618db7bf",
         "feed_title": "Scared To Dance Podcast",
         "source_rss_url": "https://audioboom.com/channels/5162283.rss",
@@ -42740,6 +42762,28 @@
         "description": "Please visit https://thebookvoice.com/podcasts/1/audiobook/346256 to listen full audiobooks.\n    Title: Behaving Ourselves: David Mitchell on Manners\nAuthor: David Mitchell\nNarrator: David Mitchell\nFormat: Unabridged Audiobook\nLength: 2 hours 0 minutes\nRelease date: October  4, 2018\nGenres: Mental Health & Psychology\nP",
         "audio_url": "https://s3.thebookvoice.com/9781787532960.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/behaving-ourselves-david-mitchell-on-manners-by-david/id1827439356?i=1000717891383&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:8576043b21ac",
+        "feed_title": "The Back Half",
+        "source_rss_url": "https://feeds.acast.com/public/shows/18af1578-de1b-4d7b-ae14-600956858908",
+        "dedupe_key": "5894f35bd3474eab54081a1a60865c6ddfa890a4",
+        "episode_key": "5894f35bd3474eab54081a1a60865c6ddfa890a4",
+        "title": "#24: Long Players with Deborah Levy and David Mitchell",
+        "published_at": "2018-06-01T11:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Tom Gatti and Kate Mossman discuss oversharing musicians and nineties adverts, and we hear from novelists Deborah Levy and David Mitchell about their favourite albums: Joni Mitchell's Blue and David Bowie's Ziggy Stardust and the Spiders from Mars.\nGet in touch on Twitter @tom_gatti or @ns_podcasts or via thebackhalfpo",
+        "audio_url": "https://sphinx.acast.com/thebackhalf/-24-longplayerswithdeborahlevyanddavidmitchell/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/24-long-players-with-deborah-levy-and-david-mitchell/id1281934174?i=1000412742585&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
