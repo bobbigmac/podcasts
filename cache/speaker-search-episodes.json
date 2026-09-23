@@ -2,6 +2,29 @@
   "by_speaker": {
     "james-acaster": [
       {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "6375508e578b2ad59e52dc333aab7fc14610af7f",
+        "episode_key": "6375508e578b2ad59e52dc333aab7fc14610af7f",
+        "title": "Pierre Novellie",
+        "published_at": "2026-09-23T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stand-up, podcaster, and Ed's wine club buddy Pierre Novellie has a table booked this week. They chat dream meals, getting trapped in caves, and whether the Queen in Narnia was fit. \nPierre Novellie is at London’s Soho Theatre with his new show ‘OK, One More Then Bedtime’ until Thu 1 Oct 2026. Get tickets at sohotheatr",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6aa7f3f4eb30d8abd812af10/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/pierre-novellie/id1442950743?i=1000791213189&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:fd34618db7bf",
         "feed_title": "Scared To Dance Podcast",
         "source_rss_url": "https://audioboom.com/channels/5162283.rss",
@@ -6084,6 +6107,29 @@
       }
     ],
     "ed-gamble": [
+      {
+        "feed_slug": "external:apple:e98148c65d8c",
+        "feed_title": "Off Menu with Ed Gamble and James Acaster",
+        "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",
+        "dedupe_key": "6375508e578b2ad59e52dc333aab7fc14610af7f",
+        "episode_key": "6375508e578b2ad59e52dc333aab7fc14610af7f",
+        "title": "Pierre Novellie",
+        "published_at": "2026-09-23T03:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stand-up, podcaster, and Ed's wine club buddy Pierre Novellie has a table booked this week. They chat dream meals, getting trapped in caves, and whether the Queen in Narnia was fit. \nPierre Novellie is at London’s Soho Theatre with his new show ‘OK, One More Then Bedtime’ until Thu 1 Oct 2026. Get tickets at sohotheatr",
+        "audio_url": "https://sphinx.acast.com/p/acast/s/offmenu/e/6aa7f3f4eb30d8abd812af10/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/pierre-novellie/id1442950743?i=1000791213189&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster",
+          "Ed Gamble"
+        ],
+        "topics": [],
+        "external": true
+      },
       {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
@@ -13068,6 +13114,28 @@
         "description": "Hello New York by Maher Shalal Hash Baz is an album described by founder Tori Kudo as \"a revolving cast of players from varying backgrounds and varying experience\". \nDescribed by Harriet Kemsley as \"chaos\". However, the more she listens...",
         "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0b515fg.mp3",
         "link_url": "https://podcasts.apple.com/gb/podcast/harriet-kemsley-and-absolute-chaos/id1508552713?i=1000542424346&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Harriet Kemsley"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:ab1e0a821460",
+        "feed_title": "Congrats on the new...",
+        "source_rss_url": "https://podcast.global.com/show/4724257/episodes/feed",
+        "dedupe_key": "8f0c3035b5cc3970eb8b7ddc1d7627b4a842a1c7",
+        "episode_key": "8f0c3035b5cc3970eb8b7ddc1d7627b4a842a1c7",
+        "title": "Harriet Kemsley",
+        "published_at": "2021-11-01T22:00:08Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Harriet Kemsley (8 out of 10 Cats, Harriet & Bobby Get Married) joins Steen Raskopoulos to promote their latest business!\n\nhttps://twitter.com/harrietkemsley\nHer podcast: https://podcasts.apple.com/gb/podcast/why-is-harriet-crying/id1180971779\n\nA comedy podcast from Steen Raskopoulos. Each episode features a friend fro",
+        "audio_url": "https://api.spreaker.com/download/episode/47264433/cotn_s03e10_harriet_kemsley_final_v2.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/harriet-kemsley/id1546243423?i=1000540439876&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
         "enclosure_type": null,
