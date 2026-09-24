@@ -2,10 +2,10 @@
 
 - slug: `pottering-with-tom-allen`
 - source: `https://audioboom.com/channels/5160692.rss`
-- fetched_at: `2026-09-17T04:51:38+00:00`
-- checked_at: `2026-09-17T04:51:38+00:00`
+- fetched_at: `2026-09-24T04:48:57+00:00`
+- checked_at: `2026-09-24T04:48:57+00:00`
 - etag: `W/"2ca0cd599f18c18ea4bb33c49d10a511"`
-- last_modified: `Thu, 17 Sep 2026 04:00:00 GMT`
+- last_modified: `Thu, 24 Sep 2026 04:08:41 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://www.youtube.com/playlist?list=PL8UPnuAFhcFR8WjLQUSLBMr2k9jyCtkLY",
   "description": "Join Tom Allen as he invites you into his garden for a chat and a potter with some very special guests.",
   "image_url": "https://megaphone.imgix.net/podcasts/96c95be4-12fa-11f1-a70f-779d3b6647d9/image/687eaa0f174bf28c3b1ea09ec627d8ff.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-17T04:51:38+00:00",
+  "fetched_at": "2026-09-24T04:48:57+00:00",
   "owners": [
     "Tom Allen"
   ],
@@ -27,6 +27,26 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a4b09159ab3223530aee7604ac472b692e44a140",
+      "title": "Ranvir Singh",
+      "published_at": "2026-09-24T04:00:00+00:00",
+      "link": null,
+      "description": "This week, I am joined in the garden by the wonderful Ranvir Singh ! 🪴 You’ll know Ranvir from Good Morning Britain and beyond, and it was an absolute pleasure to swap the television studio for the slightly calmer surroundings of the garden for a spot of Pottering. We chat about her incredible trip to the Galápagos Islands, from blue-footed boobies to shark tales! Ranvir also takes us back to where her broadcasting career began, we discover a delightful shared connection to Lancashire, and we hear all about taking on ITV’s The Box. Very much looking forward to that one. 🦈 So, grab your binoculars, tell the builders next door to take a break and come Pottering with us. 🌿 🎧 Watch on YouTube and Spotify, or listen wherever you get your podcasts. And please do like and subscribe, or leave a review! @tomallen Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/e317628e-b76e-11f1-b143-cfe4a811233d/image/8a09b789d1171352eaeaa54d85cebe4b.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/NSR4800453477.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3755",
+      "speakers": [
+        "Ranvir Singh",
+        "Tom Allen"
+      ],
+      "topics": [
+        "ranvir",
+        "singh"
+      ]
+    },
     {
       "key": "00c020e177f7560d55ab801dbc4a28a7c8787166",
       "title": "Mel Giedroyc and Sue Perkins",
@@ -1103,6 +1123,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-24 — Ranvir Singh — speakers: Ranvir Singh, Tom Allen
 - 2026-09-17 — Mel Giedroyc and Sue Perkins — speakers: Mel Giedroyc, Sue Perkins, Tom Allen
 - 2026-09-10 — Dorothy Atkinson — speakers: Dorothy Atkinson, Tom Allen
 - 2026-09-03 — Uncle Andy — speakers: Uncle Andy, Tom Allen

@@ -2,9 +2,9 @@
 
 - slug: `the-romesh-ranganathan-show`
 - source: `https://feeds.megaphone.fm/romesh`
-- fetched_at: `2026-09-20T23:15:51+00:00`
-- checked_at: `2026-09-20T23:15:51+00:00`
-- last_modified: `Sun, 20 Sep 2026 23:01:00 GMT`
+- fetched_at: `2026-09-24T04:48:57+00:00`
+- checked_at: `2026-09-24T04:48:57+00:00`
+- last_modified: `Wed, 23 Sep 2026 23:01:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://linktr.ee/theromeshshow",
   "description": "The world’s biggest stars join Romesh for candid conversations and loads of laughs. Every Monday, Romesh Ranganathan meets actors, musicians, comedians and icons who share stories you won’t hear anywhere else, combining humour, heart and genuine insight. Expect backstage anecdotes, untold tales from the spotlight, and extraordinary insight into what makes them tick. On Thursdays, Rom’s mum Shanthi joins the show to share family stories, answer audience questions, and offer her no-nonsense take on life, proving that the funniest and most relatable conversations often happen around the kitchen table. Leave a voice note for Romesh and Shanthi by messaging +447731623355, @theromeshshow on Instagram, or emailing podcast@rangabee.com. A Ranga Bee Production in Partnership with Listen.",
   "image_url": "https://megaphone.imgix.net/podcasts/68fe48f0-5752-11f0-9392-1796027863e1/image/50ce4207a98d05eab3770c631533f83f.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-20T23:15:51+00:00",
+  "fetched_at": "2026-09-24T04:48:57+00:00",
   "owners": [
     "Romesh Ranganathan"
   ],
@@ -27,11 +27,31 @@
   ],
   "episodes": [
     {
+      "key": "e5bc5a5b1b480956e80e9cefa48a44679db61b06",
+      "title": "Celebrating One Year Of The Romesh Ranganathan Show",
+      "published_at": "2026-09-23T23:01:00+00:00",
+      "link": null,
+      "description": "Who does Shanthi want next on the podcast? In this special, one-year anniversary episode of The Romesh Ranganathan Show, Romesh and Shanthi celebrate a whole year of the podcast with a little help from the team and a surprise message from none other than our first guest, Michael Sheen. The pair look back at some of their favourite moments from the show, reflect on how far the podcast has come, and discuss what they’d like to do next, including a potential trip to Los Angeles and a team yacht holiday. They also tackle a listener dilemma about dogs at parties, pet boundaries, parent and child tattoos, and discuss Romesh’s ambition to get on Below Deck. Plus, Shanthi has some very sweet words about Romesh and the team behind the podcast. It’s a special anniversary episode celebrating one year of The Romesh Ranganathan Show. A Ranga Bee Production in partnership with Platform Media. Chapters 00:00 Intro 07:32 Celebrating one year of the show 10:28 A message from Michael Sheen 11:15 Rom’s takeaways from the podcast 15:08 A holiday question for the team 17:43 Romesh wants to get on Below Deck 23:20 A question about dog boundaries 32:21 Convincing your mum to get a tattoo 39:22 Who do we want next on the pod? 42:11 Shanthi’s thoughts on Romesh 45:25 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "image_url": "https://megaphone.imgix.net/podcasts/2e3c7798-b799-11f1-95a4-7f1569e67d61/image/a5c9faeac8c4af0a6ae9699455e0a328.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "enclosure_url": "https://traffic.megaphone.fm/GLT3588816024.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "2959",
+      "speakers": [
+        "Romesh Ranganathan"
+      ],
+      "topics": [
+        "year",
+        "romesh",
+        "ranganathan"
+      ]
+    },
+    {
       "key": "3ce5316fabd3452d3b437899b7da14a00245273e",
       "title": "Stephen Graham on Acting, Adolescence & Al Pacino",
       "published_at": "2026-09-20T23:01:00+00:00",
       "link": null,
-      "description": "How did Stephen Graham become one of Britain's best actors? In this Monday episode of The Romesh Ranganathan Show, Romesh is joined by legendary actor, producer, and writer, Stephen Graham, to talk about his incredible, award-winning career, spanning over two decades. Stephen reflects on his career, from This Is England and Boiling Point, to his latest work on Adolescence and Nocturne. He discusses method acting, the challenges of filming in one-shot, and what it takes to disappear into a character. They also get into a discussion on their shared love of music and hip-hop, breakdancing, street fashion, and the culture around it. Plus, he talks about his new book, Letters To Our Sons, which he was prompted to write after Adolescence. He reflects on being a dad and the importance of communication. Plus, Romesh and Stephen discuss Liverpool FC, fragrances, and the unexpected ways their lives have crossed paths. It's an episode you don't want to miss. A Ranga Bee Production in partnership with Platform Media. Go to https://surfshark.com/romesh or use code ROMESH at checkout to get 4 extra months of Surfshark VPN! Chapters 00:00 Intro 03:27 A gift for Stephen 08:39 Music & hip-hop 11:48 Rom’s Ice Cube interview 14:22 On breakdancing & culture 17:15 The street fashion 18:52 Adolescence 26:11 Boiling Point & the one-shot take 31:40 Method acting & This Is England 90 36:50 Stephen’s new book 38:28 On being a dad 46:26 A question from Shanthi 48:03 Being working class & changing the story 53:31 Nocturne 55:28 Imposter Syndrome, fame and being yourself 58:57 Misquoted 01:08:40 Liverpool FC 01:11:08 What fragrance is Romesh wearing? 01:13:10 An exclusive 01:14:38 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "description": "How did Stephen Graham become one of Britain's best actors? In this Monday episode of The Romesh Ranganathan Show, Romesh is joined by legendary actor, producer, and writer, Stephen Graham, to talk about his incredible, award-winning career, spanning over two decades. Stephen reflects on his career, from This Is England and Boiling Point, to his latest work on Adolescence and Nocturne. He discusses method acting, the challenges of filming in one-shot, and what it takes to disappear into a character. They also get into a discussion on their shared love of music and hip-hop, breakdancing, street fashion, and the culture around it. Plus, he talks about his new book, Letters To Our Sons, which he was prompted to write after Adolescence. He reflects on being a dad and the importance of communication. Plus, Romesh and Stephen discuss Liverpool FC, fragrances, and the unexpected ways their lives have crossed paths. It's an episode you don't want to miss. A Ranga Bee Production in partnership with Platform Media. If therapy is something you've been thinking about, visit Counselling Directory and find a therapist that's right for you: https://www.counselling-directory.org.uk/?utm_source=youtube&utm_medium=podcast&utm_campaign=romesh_sponsorship Go to https://surfshark.com/romesh or use code ROMESH at checkout to get 4 extra months of Surfshark VPN! Chapters 00:00 Intro 03:27 A gift for Stephen 08:39 Music & hip-hop 11:48 Rom’s Ice Cube interview 14:22 On breakdancing & culture 17:15 The street fashion 18:52 Adolescence 26:11 Boiling Point & the one-shot take 31:40 Method acting & This Is England 90 36:50 Stephen’s new book 38:28 On being a dad 46:26 A question from Shanthi 48:03 Being working class & changing the story 53:31 Nocturne 55:28 Imposter Syndrome, fame and being yourself 58:57 Misquoted 01:08:40 Liverpool FC 01:11:08 What fragrance is Romesh wearing? 01:13:10 An exclusive 01:14:38 Outro Learn more about your ad choices. Visit podcastchoices.com/adchoices",
       "image_url": "https://megaphone.imgix.net/podcasts/b3e97616-b357-11f1-9282-67a4eaca7296/image/e48350e11ba8432cc1ce00d6ff781eb4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "enclosure_url": "https://traffic.megaphone.fm/GLT8202083862.mp3",
       "enclosure_type": "audio/mpeg",
@@ -2414,6 +2434,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-23 — Celebrating One Year Of The Romesh Ranganathan Show — speakers: Romesh Ranganathan
 - 2026-09-20 — Stephen Graham on Acting, Adolescence & Al Pacino — speakers: Stephen Graham, Romesh Ranganathan
 - 2026-09-16 — Shanthi's Kitchen, Mutton Rolls And The Art Of Gift-Giving — speakers: Mutton Rolls, Romesh Ranganathan
 - 2026-09-13 — Jamie Oliver On Flying at 51, Real Fast Food & School Dinners — speakers: Jamie Oliver, Romesh Ranganathan

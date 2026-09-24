@@ -2,10 +2,10 @@
 
 - slug: `pod-save-the-uk`
 - source: `https://feeds.megaphone.fm/CROOKEDMEDIAINC1721577053`
-- fetched_at: `2026-09-17T04:51:38+00:00`
-- checked_at: `2026-09-17T04:51:38+00:00`
-- etag: `W/"c971316dbc6136234e9e8f5ccb767bce"`
-- last_modified: `Thu, 17 Sep 2026 01:09:00 GMT`
+- fetched_at: `2026-09-24T04:48:57+00:00`
+- checked_at: `2026-09-24T04:48:57+00:00`
+- etag: `W/"24be14dc0ef20881163094db0b72fd19"`
+- last_modified: `Thu, 24 Sep 2026 01:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://crooked.com/podcast-series/pod-save-the-uk/",
   "description": "Pod Save the UK is your weekly fix of political news, big ideas and a shot of inspiration. Each week hosts, comedian Nish Kumar and journalist Coco Khan are joined by politicians, experts, and famous friends to unpick the latest news, look for solutions, and inspire action. From Crooked Media – the creators of Pod Save America – tune in to new episodes of Pod Save the UK every Thursday wherever you pod.",
   "image_url": "https://audioboom.com/i/43625311/s=1400x1400/el=1/rt=fill.png",
-  "fetched_at": "2026-09-17T04:51:38+00:00",
+  "fetched_at": "2026-09-24T04:48:57+00:00",
   "owners": [
     "Nish Kumar",
     "Coco Khan"
@@ -29,6 +29,33 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "17cb8a89fc79f56d89de9b488c651fe7a3c0723e",
+      "title": "“The world is a casino”: polling, politics & Palantir w/ Galen Druke",
+      "published_at": "2026-09-24T01:00:00+00:00",
+      "link": "https://audioboom.com/posts/8956161",
+      "description": "This week, Nish & Coco are left reeling from the news that Tom Watson is the latest in a long line of politicians swapping the ballot box for big tech bucks. They consider the implications of Palantir’s cosy relationship with former government officials, and ask where the line is with lobbying. Also, we’re joined by 33.3% of the hosts of Crooked’s new podcast, ‘Still Counting’ - Galen Druke. He demystifies all things polls, explaining the methodology in the madness and how much we can learn from all these numbers. Plus, have you ever wondered who’s the most optimistic about fighting a bear? And, Coco & Nish reunite with Nikesh Shukla, ten years after the publication of The Good Immigrant . They consider the role identity politics has played in the last decade, and how we can stay optimistic–and active–members of our communities during increasingly scary times. USEFUL LINKS Read the Nerve’s excellent reporting on Palantir poaching government officials: https://www.thenerve.news/p/palantir-revolving-doors-peter-thiel-transparency-corruption-risk Listen to Still Counting: https://crooked.com/podcast-series/still-counting/ Buy Nikesh’s book (10th anniversary edition)! https://www.amazon.co.uk/Good-Immigrant-writers-reflect-contemporary/dp/1837266220 CHECK OUT THESE DEALS FROM OUR SPONSORS INCOGNI: https://www.incogni.com/podsavetheuk Code: podsavetheuk SHOPIFY: https://www.shopify.co.uk VANTA: https://www.vanta.com/PSTUK Pod Save the UK is an Intelligence Squared production for Crooked Media. Don’t forget you can get in touch! Contact us via email: podsavetheuk@crooked.com if you want to share questions, thoughts, or general musings! Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
+      "image_url": "https://audioboom.com/i/43851336/s=1400x1400/el=1/rt=fill.jpg",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8956161.mp3?modified=1790183664&sid=5166011&source=rss",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "5432",
+      "speakers": [
+        "Galen Druke",
+        "Tom Watson",
+        "Nish Kumar",
+        "Coco Khan"
+      ],
+      "topics": [
+        "world",
+        "casino",
+        "polling",
+        "politic",
+        "palantir",
+        "galen",
+        "druke"
+      ]
+    },
     {
       "key": "7b900f8771d886f32f174309d22332babf32b2ed",
       "title": "Good Men, Bad Algorithms w/ Jordan Stephens. Plus, The Future of the Union: Is Westminster’s Time Coming to an End?",
@@ -602,10 +629,10 @@
       "link": "https://audioboom.com/posts/8878754",
       "description": "Comedian and columnist Stewart Lee joins Nish and Coco to discuss the week’s big stories. They talk about Donald Trump’s deadly and yet utterly confusing war with Iran, as the US President continues to contradict his own statements about the Strait of Hormuz and peace talks, almost in the same breath. It certainly means a new, live, UK sketch show has plenty of material - but how should comedy respond to the challenging times we are all living through? Plus - why having a weekly opinion column is good for your mental health and why news organisations need to do more to tackle the lies and extreme rhetoric coming from politicians. Don’t forget to leave a review - it gives the show a boost and we love to see your comments. CHECK OUT THESE DEALS FROM OUR SPONSORS VANTA: https://www.vanta.com/PSTUK SHOPIFY: https://shopify.co.uk/podsavetheuk INCOGNI: https://www.incogni.com/podsavetheuk Code: podsavetheuk GUESTS Stewart Lee, Comedian and columnist for The Nerve USEFUL LINKS Guide to Senedd voting system: https://senedd.wales/senedd-now/senedd-blog/how-will-the-new-voting-system-work-at-the-next-senedd-election/ CREDITS Saturday Night Live UK, Sky One Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43549318.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8878754.mp3?modified=1774537043&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8878754.mp3?modified=1790053413&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "3176",
+      "itunes_duration": "2951",
       "speakers": [
         "Stewart Lee Comedian",
         "Stewart Lee",
@@ -627,10 +654,10 @@
       "link": "https://audioboom.com/posts/8876569",
       "description": "Last summer - fuelled by the far right - a rash of St George and Union Jack flags spread across the country. Flag-waving became a symbol of prejudice, not pride. In that context it's hard as progressives to feel particularly patriotic. So what is Britishness… and does it even matter? Someone who is hopeful that our national identity is worth saving is writer, a DJ and broadcaster Zakia Sewell. In this bonus episode of PSUK, she tells Nish and Coco about her journey to uncover an alternative version of Britishness - one that unifies rather than divides. CHECK OUT THESE DEALS FROM OUR SPONSORS BABBEL: https://www.babbel.com/PSUK WISE: https://www.wise.com SHOPIFY: https://shopify.co.uk/podsavetheuk GUEST Zakia Sewell, writer, DJ & broadcaster USEFUL LINKS “Finding Albion: Myth, Folklore and the Quest for Hidden Britain” - out now. https://www.waterstones.com/book/finding-albion/zakia-sewell/9781399735902 Pod Save the UK is a Reduced Listening production for Crooked Media. Get in touch - contact us via email: PSUK@reducedlistening.co.uk Like and follow us on Youtube: https://www.youtube.com/@PodSavetheUK Instagram: https://instagram.com/podsavetheuk TikTok: https://www.tiktok.com/@podsavetheuk BlueSky: https://bsky.app/profile/podsavetheuk.crooked.com Facebook: https://facebook.com/podsavetheuk X: https://x.com/podsavetheuk",
       "image_url": "https://audioboom.com/i/43540513.jpg",
-      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8876569.mp3?modified=1774016317&sid=5166011&source=rss",
+      "enclosure_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8876569.mp3?modified=1789621471&sid=5166011&source=rss",
       "enclosure_type": "audio/mpeg",
       "enclosure_length": "0",
-      "itunes_duration": "2138",
+      "itunes_duration": "1933",
       "speakers": [
         "Zakia Sewell",
         "Nish Kumar",
@@ -4221,6 +4248,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-24 — “The world is a casino”: polling, politics & Palantir w/ Galen Druke — speakers: Galen Druke, Tom Watson, Nish Kumar, Coco Khan
 - 2026-09-17 — Good Men, Bad Algorithms w/ Jordan Stephens. Plus, The Future of the Union: Is Westminster’s Time Coming to an End? — speakers: Good Men, Jordan Stephens, Will Hayward, Nish Kumar, Coco Khan
 - 2026-09-09 — ‘Radicalised, organised, and thick as s**t’: Nish has had it with far-right protests. Plus - why Cory Doctorow is waiting for the AI bubble to burst. — speakers: Cory Doctorow, Nish Kumar, Coco Khan
 - 2026-09-03 — Nish is Back - and Keir’s Off! Plus ‘The Shafted Majority’: Racism and Resistance w/ Taj Ali — speakers: Taj Ali, Nish Kumar, Coco Khan
