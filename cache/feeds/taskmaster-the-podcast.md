@@ -2,10 +2,10 @@
 
 - slug: `taskmaster-the-podcast`
 - source: `https://feeds.captivate.fm/taskmaster-the-podcast/`
-- fetched_at: `2026-09-17T21:21:34+00:00`
-- checked_at: `2026-09-17T21:21:34+00:00`
-- etag: `"de7a5-65bb3dd1a2d72"`
-- last_modified: `Thu, 17 Sep 2026 20:45:27 GMT`
+- fetched_at: `2026-09-24T21:30:21+00:00`
+- checked_at: `2026-09-24T21:30:21+00:00`
+- etag: `"defa8-65c40ada0fedf"`
+- last_modified: `Thu, 24 Sep 2026 20:45:20 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://taskmaster.tv",
   "description": "This is the official Taskmaster podcast, hosted by former champion and chickpea lover, Ed Gamble. Each week, released straight after the show is broadcast on Channel 4, Ed will be joined by a special guest to dissect and discuss the latest episode. Past contestants, little Alex Horne, and even the Taskmaster himself will feature in this brand-new podcast from the producers of the BAFTA-winning comedy show.",
   "image_url": "https://artwork.captivate.fm/b3daecc3-dfc4-4216-b18d-7335b0390801/show-cover.jpg",
-  "fetched_at": "2026-09-17T21:21:34+00:00",
+  "fetched_at": "2026-09-24T21:30:21+00:00",
   "owners": [
     "Ed Gamble"
   ],
@@ -27,6 +27,25 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "b0af528ee266ef937bc98396f4a5bff6871d32ad",
+      "title": "Isy Suttie - Series 22 Ep.4",
+      "published_at": "2026-09-24T20:45:00+00:00",
+      "link": "https://taskmaster.tv",
+      "description": "On this week's podcast, Ed is joined by comedian, actor and Taskmaster contestant, Isy Suttie! Ed and Isy have a lovely chat about Taskmaster including of course, Ellis James' lucky pants! Isy shares her love for team mate Nina, corrects Ed on Papier-mâché etiquette and reveals why she is so connected to Judy Murray. Juicy! To get all you latest Taskmaster news visit Taskmaster.tv To Catch up on old episodes visit Channel4.com And if you want to see any more TM content and some behind the scenes, visit the Taskmaster YouTube Channel.",
+      "image_url": "https://artwork.captivate.fm/ba571a81-73ea-4f31-852f-2b7d807b4837/TASKMASTER-PODCAST-ARTWORK-Isy.jpg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/55602ab7-a5b7-4632-b156-3472c60b4104.mp3?aw_0_1st.showid=0fabcf2a-33fb-4368-8a52-38fcfe82c2ad&aw_0_1st.episodeid=55602ab7-a5b7-4632-b156-3472c60b4104",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58770446",
+      "itunes_duration": "01:01:13",
+      "speakers": [
+        "Ed Gamble"
+      ],
+      "topics": [
+        "suttie",
+        "series"
+      ]
+    },
     {
       "key": "8deccbf6aa49d54cae45bd989a18ca6918f91c57",
       "title": "Lou Sanders - Series 22 Ep.3",
@@ -5676,6 +5695,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-24 — Isy Suttie - Series 22 Ep.4 — speakers: Ed Gamble
 - 2026-09-17 — Lou Sanders - Series 22 Ep.3 — speakers: Ed Gamble
 - 2026-09-10 — Chloe Petts - Series 22 Ep.2 — speakers: Ed Gamble
 - 2026-09-03 — Reece Shearsmith - Series 22 Ep.1 — speakers: Ed Gamble
