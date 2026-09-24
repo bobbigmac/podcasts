@@ -2,9 +2,9 @@
 
 - slug: `the-weekly-planet`
 - source: `https://feeds.acast.com/public/shows/d41a80b2-1fe3-45dc-9966-79caeb36e911`
-- fetched_at: `2026-09-21T04:54:18+00:00`
-- checked_at: `2026-09-21T04:54:18+00:00`
-- etag: `"djEuMi4wOjE3ODk5NjUwMzkzNjM="`
+- fetched_at: `2026-09-24T17:10:21+00:00`
+- checked_at: `2026-09-24T17:10:21+00:00`
+- etag: `"djEuMi4wOjE3OTAyNTY2MzkzNDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://play.acast.com/s/theweeklyplanet",
   "description": "The Weekly Planet covers all things movies, TV shows and comics. Often considered the first and worst podcast on the Planet Broadcasting Network.",
   "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
-  "fetched_at": "2026-09-21T04:54:18+00:00",
+  "fetched_at": "2026-09-24T17:10:21+00:00",
   "owners": [
     "James Clement",
     "Nick Mason"
@@ -27,6 +27,30 @@
     "entertainment"
   ],
   "episodes": [
+    {
+      "key": "a80796dd55ca4d8258795715365d9fd533a5df03",
+      "title": "Blade Runner - Caravan Of Garbage",
+      "published_at": "2026-09-24T13:30:00+00:00",
+      "link": "https://shows.acast.com/theweeklyplanet/episodes/blade-runner-extended-caravan-of-garbage",
+      "description": "It's impossible to list all the visual design elements, tropes and world building that Blade Runner had on popular culture upon its initial release in 1982. Despite bombing in a most spectacular fashion Ridley Scott managed to literally redefined the future of sci-fi despite the atrocious Harrison Ford/Rick Deckard's voice over. Here we look at the definitive version from 2007 that restores original scenes, removes others including said voice over and changes the ending in a manner that completely alters the meaning of the entire film. Thanks for watching our Caravan Of Garbage review and be sure to return next week for the follow up! It's not Blader Runner 2049 SUBSCRIBE HERE ►► http://goo.gl/pQ39jN Help support the show and get early episodes ► https://bigsandwich.co/ Patreon ► https://patreon.com/mrsundaymovies James' Twitter ► http://twitter.com/mrsundaymovies Maso's Twitter ► http://twitter.com/wikipediabrown Patreon ► https://patreon.com/mrsundaymovies T-Shirts/Merch ► https://www.teepublic.com/stores/mr-sunday-movies The Weekly Planet iTunes ► https://itunes.apple.com/us/podcast/the-weekly-planet/id718158767?mt=2&ign-mpt=uo%3D4 The Weekly Planet Direct Download ► https://play.acast.com/s/theweeklyplanet Amazon Affiliate Link ► https://amzn.to/2nc12P4 Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/6176c7c3b67d9b58f5f7eee5/9462e5f3-8a0d-45b4-8cf2-3a03aa31a4b7.jpg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/theweeklyplanet/e/6aa768a72469d1a3b39b375e/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "37840534",
+      "itunes_duration": "36:06",
+      "speakers": [
+        "Blade Runner Caravan",
+        "Blade Runner",
+        "James Clement",
+        "Nick Mason"
+      ],
+      "topics": [
+        "blade",
+        "runner",
+        "caravan",
+        "garbage"
+      ]
+    },
     {
       "key": "5980a0bb7511410d7a8789b971f7264bf50e168b",
       "title": "641 Resident Evil 2026",
@@ -23139,6 +23163,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-24 — Blade Runner - Caravan Of Garbage — speakers: Blade Runner Caravan, Blade Runner, James Clement, Nick Mason
 - 2026-09-21 — 641 Resident Evil 2026 — speakers: Resident Evil, James Clement, Nick Mason
 - 2026-09-17 — Resident Evil: The Final Chapter - Caravan Of Garbage — speakers: James Clement, Nick Mason
 - 2026-09-14 — 640 Wolverine Disappoints & Runner (not The Runner) — speakers: James Clement, Nick Mason

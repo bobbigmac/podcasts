@@ -2,9 +2,9 @@
 
 - slug: `daily-politics-from-the-new-statesman`
 - source: `https://feeds.acast.com/public/shows/6b2fc9ba-b9b7-4b7a-b980-e0024facd926`
-- fetched_at: `2026-09-22T11:36:38+00:00`
-- checked_at: `2026-09-22T11:36:38+00:00`
-- etag: `"djEuMi4wOjE3OTAwNzAzOTQxNzQ="`
+- fetched_at: `2026-09-24T17:10:21+00:00`
+- checked_at: `2026-09-24T17:10:21+00:00`
+- etag: `"djEuMi4wOjE3OTAyNjc1ODA0OTY="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://www.newstatesman.com/podcasts",
   "description": "Politics, news and analysis from Anoosh Chakelian, Ailbhe Rea and Tom McTague",
   "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1777285250805-24d1a7a3-d322-4f3f-aa75-6549e8c494e7.jpeg",
-  "fetched_at": "2026-09-22T11:36:38+00:00",
+  "fetched_at": "2026-09-24T17:10:21+00:00",
   "owners": [
     "Anoosh Chakelian",
     "Oli Dugmore"
@@ -27,6 +27,28 @@
     "politics"
   ],
   "episodes": [
+    {
+      "key": "fd302dc1a4d4c6ebf57095af045cbb799f1ea82f",
+      "title": "Has power changed Andy Burnham?",
+      "published_at": "2026-09-24T16:10:53+00:00",
+      "link": "https://shows.acast.com/newstatesman/episodes/has-power-changed-andy-burnham",
+      "description": "For this week’s New Statesman, our Politics Show stars have been busy interviewing some key players in the past year of Labour turmoil. Ailbhe Rea, our Political Editor, had a fascinating encounter with the MP and former chief secretary to the Prime Minister, the Starmer loyalist Darren Jones. And speaking of Andy Burnham, Tom McTague, our Editor-in-Chief, has been busy profiling the Prime Minister himself… LISTEN AD-FREE: 📱 Download the New Statesman app MORE FROM THE NEW STATESMAN: ❓ Ask a question – we answer them every Friday ⏰ Get our daily politics newsletter every morning ✍️ Enjoy the best of our writing via email every Saturday Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f75c1a8cbe0c083cee79/1790266040649-72a6be92-6b24-41fc-9096-28eba6a4cf31.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/newstatesman/e/6ab54a8a19af986eea5c0d19/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "53405988",
+      "itunes_duration": "55:37",
+      "speakers": [
+        "Andy Burnham",
+        "Anoosh Chakelian",
+        "Oli Dugmore"
+      ],
+      "topics": [
+        "power",
+        "andy",
+        "burnham"
+      ]
+    },
     {
       "key": "bf49d5a0de9344036f7f59d38ca022b41cb25b4b",
       "title": "Will AI kill us all?",
@@ -32418,6 +32440,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-24 — Has power changed Andy Burnham? — speakers: Andy Burnham, Anoosh Chakelian, Oli Dugmore
 - 2026-09-19 — Will AI kill us all? — speakers: Will AI, Anoosh Chakelian, Oli Dugmore
 - 2026-09-17 — Burnham's political donations headache — speakers: Ben Delo, Anoosh Chakelian, Oli Dugmore
 - 2026-09-12 — Farage’s fan club doesn’t care about scandal — speakers: John Healey, Anoosh Chakelian, Oli Dugmore

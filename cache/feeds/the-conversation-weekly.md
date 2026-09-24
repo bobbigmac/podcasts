@@ -2,10 +2,10 @@
 
 - slug: `the-conversation-weekly`
 - source: `https://feeds.captivate.fm/the-conversation-weekly/`
-- fetched_at: `2026-09-24T11:44:37+00:00`
-- checked_at: `2026-09-24T11:44:37+00:00`
-- etag: `"26757e-65c3703feb6a7"`
-- last_modified: `Thu, 24 Sep 2026 09:13:40 GMT`
+- fetched_at: `2026-09-24T17:10:21+00:00`
+- checked_at: `2026-09-24T17:10:21+00:00`
+- etag: `"2688e0-65c3bdd9bdcda"`
+- last_modified: `Thu, 24 Sep 2026 15:00:51 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "https://theconversation.com/us/topics/the-conversation-weekly-98901",
   "description": "A show for curious minds, from The Conversation. Each week, host Gemma Ware speaks to an academic expert about a topic in the news to understand how we got here.",
   "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
-  "fetched_at": "2026-09-24T11:44:37+00:00",
+  "fetched_at": "2026-09-24T17:10:21+00:00",
   "owners": [
     "Gemma Ware"
   ],
@@ -27,6 +27,24 @@
     "education"
   ],
   "episodes": [
+    {
+      "key": "aeed8c2acaf4abe2ecf11bd63d019712f33ada2a",
+      "title": "Can we ever fully trust AI agents?",
+      "published_at": "2026-09-24T15:00:00+00:00",
+      "link": "https://theconversation.com/government-hacks-rogue-agents-and-no-transparency-can-we-ever-fully-trust-ai-292536",
+      "description": "As more incidents emerge of AI agents going rogue during testing, can we fully trust them? In the latest hack, Australia revealed OpenAI agents hacked into a government database containing healthcare data. As calls mount from some within the AI industry for a slowdown, in this episode AI expert Nick Jennings, the vice-chancellor and president of Loughborough University in the UK, says tech leaders have choices about the way they develop these models. So what's the future for these AI agents? Can we ever fully trust them? And are our lives really at risk? This episode of The Conversation Weekly was written and produced by Gemma Ware with help from Isabella Podwinski and Ashlynne McGhee. Mixing by Daniel Semo and theme music by Neeta Sarl. Ashlynne McGhee is our Head of Editorial Innovation. Misha Ketchell and Stephen Khan are our editors in chief. You can sign up for a free daily newsletter from The Conversation, and The Conversation AI, a newsletter about how AI is changing society. If you like the show, please consider donating to The Conversation , an independent, not-for-profit news organisation. What does the OpenAI Medicare hack reveal about Australia’s cyber security? The next frontier is not artificial intelligence, it’s artificial societies Could AI really kill off humanity within the decade? Expert Q&A",
+      "image_url": "https://artwork.captivate.fm/61904e1d-6692-498c-8a58-277a7cfdae55/1611166542483-58b6f7d3c94d8860121628183369a447.jpeg",
+      "enclosure_url": "https://episodes.captivate.fm/episode/0c548da9-142d-455b-b278-3936cb1e95f8.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "34467885",
+      "itunes_duration": "23:56",
+      "speakers": [
+        "Gemma Ware"
+      ],
+      "topics": [
+        "agent"
+      ]
+    },
     {
       "key": "73ee733703a94cff745071c6f6392d93494db660",
       "title": "Australia's 'barking mad' bet on nuclear submarines",
@@ -6314,6 +6332,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-24 — Can we ever fully trust AI agents? — speakers: Gemma Ware
 - 2026-09-17 — Australia's 'barking mad' bet on nuclear submarines — speakers: Gemma Ware
 - 2026-09-10 — Ratko Mladić: the war criminal who became a martyr for Bosnian Serbs — speakers: Ratko Mladić, Gemma Ware
 - 2026-09-03 — Inside the booming ‘shadow fleet’ industry keeping rogue states afloat — speakers: East China Sea, North Korean, Gemma Ware

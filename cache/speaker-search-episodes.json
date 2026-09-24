@@ -24860,6 +24860,28 @@
     ],
     "stewart-lee": [
       {
+        "feed_slug": "external:apple:86e8d6833f90",
+        "feed_title": "Strong Message Here",
+        "source_rss_url": "https://podcasts.files.bbci.co.uk/m0024cp6.rss",
+        "dedupe_key": "5aed800fbca45c2597dc7f260895208c850bec4e",
+        "episode_key": "5aed800fbca45c2597dc7f260895208c850bec4e",
+        "title": "We Care, We Fight! (with Stewart Lee)",
+        "published_at": "2026-09-23T18:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Stewart Lee returns to the show after a summer judging dog shows with Charlotte Church.\nHe and Armando look at the Lib Dem conference, and why the 'word cloud' is not Ed Davey's friend. They also have some helpful and serious suggestions for how Ed can improve his messaging, which I'm sure he'll take on board.\nElsewher",
+        "audio_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pc3fg4.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/we-care-we-fight-with-stewart-lee/id1774462541?i=1000791329470&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Stewart Lee"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e34d98fa2cca",
         "feed_title": "Roadtrip Canterbury, op weg naar Stewart Lee",
         "source_rss_url": "https://anchor.fm/s/114398298/podcast/rss",
@@ -32635,6 +32657,28 @@
         "feed_image_url": null,
         "description": "This week on Pottering, I had the pleasure of being joined for some 'Alfresco Therapy' by the gloriously funny Nish Kumar! Superbly satirical stand up, you may also know him from Radio 4, his hit podcast Pod Save The UK, or from television (The Mash Report, Taskmaster, Joel and Nish vs The World).On a rather changeable",
         "audio_url": "https://traffic.megaphone.fm/NSR7598941532.mp3?updated=1777973662",
+        "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar/id1840896737?i=1000732084979&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Nish Kumar"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
+        "feed_slug": "external:apple:0bf102c49cf0",
+        "feed_title": "Pottering with Tom Allen",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR7948227179",
+        "dedupe_key": "aac6371e3296752b04fe545a5437dd6a633ebe5b",
+        "episode_key": "aac6371e3296752b04fe545a5437dd6a633ebe5b",
+        "title": "Nish Kumar",
+        "published_at": "2025-10-16T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "This week on Pottering, I had the pleasure of being joined for some 'Alfresco Therapy' by the gloriously funny Nish Kumar! Superbly satirical stand up, you may also know him from Radio 4, his hit podcast Pod Save The UK, or from television (The Mash Report, Taskmaster, Joel and Nish vs The World).On a rather changeable",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR7598941532.mp3?updated=1777973662",
         "link_url": "https://podcasts.apple.com/gb/podcast/nish-kumar/id1840896737?i=1000732084979&uo=4",
         "duration_seconds": null,
         "enclosure_bytes": null,
