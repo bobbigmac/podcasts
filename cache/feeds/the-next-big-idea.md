@@ -2,9 +2,9 @@
 
 - slug: `the-next-big-idea`
 - source: `https://feeds.megaphone.fm/LI1683199352`
-- fetched_at: `2026-09-17T11:40:03+00:00`
-- checked_at: `2026-09-17T11:40:03+00:00`
-- last_modified: `Thu, 17 Sep 2026 09:00:00 GMT`
+- fetched_at: `2026-09-24T11:44:37+00:00`
+- checked_at: `2026-09-24T11:44:37+00:00`
+- last_modified: `Thu, 24 Sep 2026 09:00:00 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://nextbigideaclub.com/",
   "description": "The Next Big Idea is a weekly series of in-depth interviews with the world’s leading thinkers. Join hosts Rufus Griscom and Caleb Bissinger — along with our curators, Malcolm Gladwell, Adam Grant, Susan Cain, and Daniel Pink — for conversations that might just change the way you see the world. New episodes every Monday and Thursday. For ad inquiries, please reach out to: Network+NBI@yapmedia.com",
   "image_url": "https://megaphone.imgix.net/podcasts/a6ab495a-883e-11ec-8c25-c7992afe5f38/image/09bc0267e5751affd95e56450e5e5d5b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-  "fetched_at": "2026-09-17T11:40:03+00:00",
+  "fetched_at": "2026-09-24T11:44:37+00:00",
   "owners": [
     "Rufus Griscom",
     "Caleb Bissinger"
@@ -28,11 +28,54 @@
   ],
   "episodes": [
     {
+      "key": "a5a2d2a96d58e413238f489f009800d60190133b",
+      "title": "AI Has Gone Rogue. Here’s What We Should Do About It.",
+      "published_at": "2026-09-24T09:00:00+00:00",
+      "link": null,
+      "description": "\"This Is Really Bad.\" That's the not-so-comforting headline of Stephen Witt's mega-viral New York Times essay about a dawning realization among Silicon Valley researchers that \"AI may no longer be entirely within human control.\" The piece is a sobering account of the rogue-AI incidents that have everyone from Anthropic CEO Dario Amodei to King Charles warning of existential peril unless we slow down. But Witt isn't just another voice in the alarmist chorus. He lays out four concrete ways to rein in this technology before it's too late. We talk about why we should investigate AI breakouts like plane crashes (7:39), how AI risk went from niche worry to political flashpoint (30:48), and why the smartest people in tech still can't agree on whether AI is just buggy software or a tiger we haven't learned to tame (44:44). 🎧 Check out Stephen's previous appearances on the show where we spoke about Jensen Huang and the robotics revolution 🎥 The Next Big Idea is on YouTube! You can find our episodes here 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Quince — Find your next fall favorites at quince.com/nbi . Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. Shopify — It’s where you go to start your business, with everything you need already there from day one. Start your free trial at shopify.com/nbi Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP9772673086.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "3479",
+      "speakers": [
+        "Stephen Witt",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "rogue"
+      ]
+    },
+    {
+      "key": "905cd00ba6a51cf820de810a9c747fd7eca4f798",
+      "title": "You Don't Have Free Will. That's Good News. (NBI Vault)",
+      "published_at": "2026-09-21T09:00:00+00:00",
+      "link": null,
+      "description": "Do we have free will? Do we have a choice in what we do? Philosophers and theologians have debated these questions for centuries; Robert Sapolsky answered them when he was 14. Free will, he concluded, simply does not exist. Robert is now in his sixties. He has degrees from Harvard and Rockefeller University; he won a MacArthur “genius” award; and he’s a professor at Stanford, where he holds joint appointments in biology, neurology, and neurosurgery. But despite how much time has passed and how long his CV has grown, he never lost his youthful fascination with free will — or our lack thereof — so he decided to write a book about it. It’s called Determined , and in addition to assembling a formidable case against free will, Robert makes the intriguing argument that if we can abandon our illusion of volition, we can build a more humane world. This episode first aired in January 2024. 🎥 The Next Big Idea is on YouTube! You can find our episodes here . 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com. Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Quince — Find your next fall favorites at quince.com/nbi . Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. Shopify — It’s where you go to start your business, with everything you need already there from day one. Start your free trial at shopify.com/nbi Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free",
+      "image_url": null,
+      "enclosure_url": "https://traffic.megaphone.fm/YAP4877698664.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "0",
+      "itunes_duration": "4035",
+      "speakers": [
+        "Good News",
+        "Rufus Griscom",
+        "Caleb Bissinger"
+      ],
+      "topics": [
+        "free",
+        "good",
+        "news",
+        "vault"
+      ]
+    },
+    {
       "key": "e7d41018e5a9c52c19acdfda6b35b5118f823ed9",
-      "title": "Why Healthy Conflict Is Key to Strong Relationships",
+      "title": "The Art of Fighting",
       "published_at": "2026-09-17T09:00:00+00:00",
       "link": null,
-      "description": "We’ve gotten very good at cutting people off. But have we forgotten how to work through our differences? In The Art of Fighting , bestselling author and conflict resolution expert Priya Parker challenges the idea that disagreement is a sign of a broken relationship. She argues that avoiding difficult conversations can quietly erode the very connections we’re trying to protect. The answer isn’t to fight more, but to develop what she calls “healthy heat”: the ability to hold tension with care long enough to get somewhere new. In this conversation with Rufus, Priya reveals why lasting communities need conflict as much as love, how to recognize which fights are worth having, and why some couples actually schedule their arguments. She also shares how to ask better questions during disagreements, make apologies that lead to real repair, and know when it’s time to let a relationship end.",
+      "description": "We’ve gotten very good at cutting people off. But have we forgotten how to work through our differences? In The Art of Fighting , bestselling author and conflict resolution expert Priya Parker challenges the idea that disagreement is a sign of a broken relationship. She argues that avoiding difficult conversations can quietly erode the very connections we’re trying to protect. The answer isn’t to fight more, but to develop what she calls “healthy heat”: the ability to hold tension with care long enough to get somewhere new. In this conversation with Rufus, Priya reveals why lasting communities need conflict as much as love, how to recognize which fights are worth having, and why some couples actually schedule their arguments. She also shares how to ask better questions during disagreements, make apologies that lead to real repair, and know when it’s time to let a relationship end. __________ 🎧 Check out Priya's previous appearance on The Next Big Idea here 🎥 The Next Big Idea is on YouTube! You can find our episodes here 📱 Follow Rufus on LinkedIn , subscribe to our Substack , or send us an email at podcast@nextbigideaclub.com Today's episode is sponsored by: Granola — The AI notepad with notes, actions, and memory, and no annoying meeting bots. Try it totally free for three months at granola.ai/idea IM8 — Athletes. Doctors. They all drink IM8. Get a free welcome kit, five free travel sachets, and 10% off your order when you use code NBI at im8health.com/nbi Life at the Speed of Play — Purchase one copy at getmarksbook.com/next and author Mark Pincus will send you two Momentous — If you want to try Momentous Signature Spec Creatine, head to livemomentous.com and use code IDEA for up to 35% off your entire first order Quince — Find your next fall favorites at quince.com/nbi . Get free shipping on your order and 365-day returns. Now available in Canada and the UK, too. Shopify — It’s where you go to start your business, with everything you need already there from day one. Start your free trial at shopify.com/nbi Upwork — Find freelancers for any project. Visit upwork.com right now and post your job for free",
       "image_url": null,
       "enclosure_url": "https://traffic.megaphone.fm/YAP5113511484.mp3",
       "enclosure_type": "audio/mpeg",
@@ -42,12 +85,7 @@
         "Rufus Griscom",
         "Caleb Bissinger"
       ],
-      "topics": [
-        "healthy",
-        "conflict",
-        "strong",
-        "relationship"
-      ]
+      "topics": []
     },
     {
       "key": "b335f17b5aaab83def8af0b883344ea4140e7768",
@@ -8502,7 +8540,9 @@
 
 ## Episodes (newest first)
 
-- 2026-09-17 — Why Healthy Conflict Is Key to Strong Relationships — speakers: Rufus Griscom, Caleb Bissinger
+- 2026-09-24 — AI Has Gone Rogue. Here’s What We Should Do About It. — speakers: Stephen Witt, Rufus Griscom, Caleb Bissinger
+- 2026-09-21 — You Don't Have Free Will. That's Good News. (NBI Vault) — speakers: Good News, Rufus Griscom, Caleb Bissinger
+- 2026-09-17 — The Art of Fighting — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-09-14 — Is America a ‘Country of Lords’? — speakers: Rufus Griscom, Caleb Bissinger
 - 2026-09-10 — A Storytelling Masterclass with Will Storr (NBI Vault) — speakers: Will Storr, Rufus Griscom, Caleb Bissinger
 - 2026-09-07 — What Can Henry David Thoreau Teach Us About Work? — speakers: Henry David Thoreau, Rufus Griscom, Caleb Bissinger
