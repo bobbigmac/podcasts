@@ -2310,6 +2310,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:0bf102c49cf0",
+        "feed_title": "Pottering with Tom Allen",
+        "source_rss_url": "https://feeds.megaphone.fm/NSR7948227179",
+        "dedupe_key": "44614f570f8c6be16e3ba76546f93e9b63f4f420",
+        "episode_key": "44614f570f8c6be16e3ba76546f93e9b63f4f420",
+        "title": "James Acaster",
+        "published_at": "2025-11-20T05:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "What a joy it was to be back in the garden for another episode of Pottering, this time with none other than James Acaster. A splendid stand up, author and of course everyone’s favourite genie waiter!It was an absolute delight to spend an afternoon in the sunshine with James. We discuss mindfulness apps, the trials and ",
+        "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/NSR5815889622.mp3?updated=1777973724",
+        "link_url": "https://podcasts.apple.com/gb/podcast/james-acaster/id1840896737?i=1000737541426&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "James Acaster"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:e98148c65d8c",
         "feed_title": "Off Menu with Ed Gamble and James Acaster",
         "source_rss_url": "https://feeds.acast.com/public/shows/b19ac1f5-6adf-4c8b-aa1a-2af2160f99e4",

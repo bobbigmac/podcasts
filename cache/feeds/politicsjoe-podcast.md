@@ -2,9 +2,9 @@
 
 - slug: `politicsjoe-podcast`
 - source: `https://feeds.acast.com/public/shows/642d7a0cfe7063001135a38f`
-- fetched_at: `2026-09-24T17:10:21+00:00`
-- checked_at: `2026-09-24T17:10:21+00:00`
-- etag: `"djEuMi4wOjE3OTAyNTI5MDIyNDQ="`
+- fetched_at: `2026-09-25T11:49:56+00:00`
+- checked_at: `2026-09-25T11:49:56+00:00`
+- etag: `"djEuMi4wOjE3OTAzMTI0OTk0MTk="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,13 +17,35 @@
   "link": "https://feeds.acast.com/public/shows/politicsjoe",
   "description": "This is PoliticsJOE's podcast - the only explicitly anti-nonce podcast in the UK. Reporting on British politics with a sense of humour, the podcast is a recorded version of the conversations we have after work. So pull up a stool, pour yourself a cold one, and laugh through the misery alongside us. Hosted on Acast. See acast.com/privacy for more information.",
   "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
-  "fetched_at": "2026-09-24T17:10:21+00:00",
+  "fetched_at": "2026-09-25T11:49:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
     "politics"
   ],
   "episodes": [
+    {
+      "key": "b7b224ef2cdd769a12a3d5305154057d012da441",
+      "title": "Trump will lead to America's downfall | Owen Jones Interview",
+      "published_at": "2026-09-25T05:00:59+00:00",
+      "link": "https://shows.acast.com/politicsjoe/episodes/6ab3fd8c864264ef3e4c0741",
+      "description": "Owen Jones makes his PolJOE debut to talk all things Western decline, chatting to Ava about where everything went wrong. His new book, The Fall of the West, recaptures the narrative of our present economic, military, and moral crises. From Western support for Israel to Trump's creeping authoritarianism, to the legacy of Iraq and deindustrialisation, Owen exposes the hypocrisy and danger of concentrated wealth. Find Owen's book: https://www.penguin.co.uk/books/468587/the-fall-of-the-west-by-jones-owen/9780241740644 Subscribe to How to Rebuild Britain now: https://linktr.ee/howtorebuildbritain Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/642d7a0cfe7063001135a38f/1765387877085-411d2672-d505-4492-8c1a-a56ebda14b1c.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/open/s/642d7a0cfe7063001135a38f/e/6ab3fd8c864264ef3e4c0741/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "67433362",
+      "itunes_duration": "46:49",
+      "speakers": [
+        "Owen Jones"
+      ],
+      "topics": [
+        "trump",
+        "america",
+        "downfall",
+        "owen",
+        "jones"
+      ]
+    },
     {
       "key": "f98fc3c2ee542282601b28c46d667c6dea5eeee2",
       "title": "Trump's Greenland Deal Isn't What You Think | Scott Lucas interview",
@@ -13685,6 +13707,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-25 — Trump will lead to America's downfall | Owen Jones Interview — speakers: Owen Jones
 - 2026-09-23 — Trump's Greenland Deal Isn't What You Think | Scott Lucas interview — speakers: Scott Lucas
 - 2026-09-22 — Going deep on Ed Sheeran's Palestine downfall — speakers: Ed Sheeran
 - 2026-09-20 — Who broke Britain's energy system? | Arthur Downing interview — speakers: Arthur Downing

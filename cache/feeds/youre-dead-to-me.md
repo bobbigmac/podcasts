@@ -2,10 +2,10 @@
 
 - slug: `youre-dead-to-me`
 - source: `https://podcasts.files.bbci.co.uk/p07mdbhg.rss`
-- fetched_at: `2026-09-18T11:12:37+00:00`
-- checked_at: `2026-09-18T11:12:37+00:00`
-- etag: `"5da2a529dfd8638231e4b3dcc8801938"`
-- last_modified: `Fri, 18 Sep 2026 05:00:06 GMT`
+- fetched_at: `2026-09-25T11:49:56+00:00`
+- checked_at: `2026-09-25T11:49:56+00:00`
+- etag: `"4201e841078c179a875bf8d843de6556"`
+- last_modified: `Fri, 25 Sep 2026 07:15:03 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p07mdbhg",
   "description": "The comedy podcast that takes history seriously. In each episode of You’re Dead to Me from BBC Radio 4, Greg Jenner is joined by a comedian and an expert historian to learn and laugh about the past. History isn’t just about dates and textbooks – it’s about extraordinary characters, amazing stories, and some very questionable fashion choices. How long did it take to build an Egyptian pyramid? What does the Bayeux Tapestry reveal about medieval life? Why did it take nearly half a millennium for Joan of Arc to become a saint? And was Catherine the Great really all that great? Whether you want to explore ancient landmarks like Stonehenge and Machu Picchu, dance through the history of Broadway and Bollywood, or find out how the Tudors rose to power, Greg and his guests promise to teach you something new that you won’t have heard in history lessons. Previous episodes of You’re Dead To Me have covered everything from royals to revolutionaries, actors to activists and divas to dictators. Take a stroll through the history of high-heeled shoes or get the scoop on the history of ice cream. Maybe you’d like to paint like the cave artists of the Palaeolithic era, work out like a Victorian bodybuilder, or fight like a Spartan? We’ve even hosted a special, live episode with the BBC Concert Orchestra to explore the dramatic life of Wolfgang Amadeus Mozart. Whatever your historical interests, Greg and his guests make even the trickiest topics easy to follow. Join them for a history lesson that’s as entertaining as it is enlightening - with no homework required.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0nr577g.jpg",
-  "fetched_at": "2026-09-18T11:12:37+00:00",
+  "fetched_at": "2026-09-25T11:49:56+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -27,6 +27,31 @@
     "bbc"
   ],
   "episodes": [
+    {
+      "key": "a4e82bf0ab2994828c0da86ff69d38bb7b82c66c",
+      "title": "Medieval Korea: from the Goryeo to Joseon periods",
+      "published_at": "2026-09-25T07:15:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/m0030lsn",
+      "description": "Greg Jenner is joined in medieval Korea by Dr John Lee and comedian Erika Ehler to learn all about the Goryeo and Joseon dynasties. Nowadays, Korean culture has a global reach and international fanbase – but what about the country's medieval history? During the period known in Europe as the Middle Ages, the ancient kingdoms of Korea were unified, and the resulting polity ruled in turn by two dynasties, the Goryeo and the Joseon. This episode explores this period in Korea’s history, from the foundation of the Goryeo state in 918, through the Mongol invasions of the thirteenth century and the coup that brought the Joseon dynasty to power, to the Japanese invasions of the 1590s. Along the way, we take in a foundation myth involving a garlic-eating bear, look at the position of women and enslaved people in Joseon society, explore the architectural styles of the period, and tell the story of Sejong the Great and the creation of Hangul. If you’re a fan of Korean culture, palace coups and political intrigue, and the everyday details of life in the past, you’ll love our episode on medieval Korea. If you want more East Asian history, listen to our episodes on Edo Japan and Tang Dynasty China. And for more on the Mongols, check out our episode on Genghis Khan. You’re Dead To Me is the comedy podcast that takes history seriously. Every episode, Greg Jenner brings together the best names in history and comedy to learn and laugh about the past. Hosted by: Greg Jenner Research by: Auréliane Perrin Written by: Dr Emmie Rose Price-Goodfellow, Dr Emma Nagouse, and Greg Jenner Produced by: Dr Emmie Rose Price-Goodfellow and Greg Jenner Studio and Edit Producer: Steve Hankey Production Coordinator: Gill Huggett Series Producer: Dr Emma Nagouse Executive Editor: Philip Sellars",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0p40dkl.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p5qdt1.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "58320000",
+      "itunes_duration": "3645",
+      "speakers": [
+        "Medieval Korea",
+        "Greg Jenner",
+        "John Lee",
+        "Erika Ehler"
+      ],
+      "topics": [
+        "medieval",
+        "korea",
+        "goryeo",
+        "joseon",
+        "period"
+      ]
+    },
     {
       "key": "8f082d434fcb5490568f95b2d47a9ad6e9821785",
       "title": "Henry Cyril Paget: the dancing marquess of Anglesey",
@@ -6228,6 +6253,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-25 — Medieval Korea: from the Goryeo to Joseon periods — speakers: Medieval Korea, Greg Jenner, John Lee, Erika Ehler
 - 2026-09-18 — Henry Cyril Paget: the dancing marquess of Anglesey — speakers: Henry Cyril, Anglesey Greg Jenner, Viv Gardner
 - 2026-09-11 — History of Tea: Britain’s stolen brew — speakers: Greg Jenner, Yangwen Zheng, Hugh Dennis
 - 2026-09-04 — Emperor Constantine the Great: Christianity and the Roman Empire — speakers: Greg Jenner, Lucy Grig, Ivo Graham

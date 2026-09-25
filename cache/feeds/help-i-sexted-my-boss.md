@@ -2,9 +2,9 @@
 
 - slug: `help-i-sexted-my-boss`
 - source: `https://access.acast.com/rss/82de067d-b294-48af-b986-6a14d549f6f4/default`
-- fetched_at: `2026-09-22T11:36:38+00:00`
-- checked_at: `2026-09-22T11:36:38+00:00`
-- etag: `"ZGpFdU1pNHdPakUzT1RBd056VTVOemsxTXpVPTo6c2F4ZXNz"`
+- fetched_at: `2026-09-25T11:49:56+00:00`
+- checked_at: `2026-09-25T11:49:56+00:00`
+- etag: `"ZGpFdU1pNHdPakUzT1RBek1USTBNemsyTXpVPTo6c2F4ZXNz"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://sextedmyboss.komi.io",
   "description": "Two wildly different worlds collide as William Hanson and Jordan North take on the hilarious challenges of modern life.",
   "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1766998496915-b1c86b80-743e-45a1-af8c-f17d3f75899c.jpeg",
-  "fetched_at": "2026-09-22T11:36:38+00:00",
+  "fetched_at": "2026-09-25T11:49:56+00:00",
   "owners": [
     "William Hanson",
     "Jordan North"
@@ -27,6 +27,30 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "a1d5e44cd097142f505ba18652cac87c5004baa1",
+      "title": "Jordan’s Personal Preferences | And Object Upgrades",
+      "published_at": "2026-09-25T05:00:00+00:00",
+      "link": "https://shows.acast.com/sextedmyboss/episodes/jordans-personal-preferences-and-object-upgrades",
+      "description": "Who doesn’t like a warm bum on a cold toilet seat? A little tongue in the ear action? It’s all about personal preference! The boys also discuss which everyday objects should have extras attached to them - for better or worse… Want more Sexted in your life? Join Help I Sexted My Boss Out Of Office for exclusive episodes every WEDNESDAY on Patreon! Just head to sextedmyboss.com/patreon Want MORE Help I Sexted My Boss?: https://sextedmyboss.komi.io/ FOLLOW Jordan North Instagram: https://www.instagram.com/jordannorth1 William Hanson Instagram: https://www.instagram.com/williamhansonetiquette TikTok: https://www.tiktok.com/@williamhansonetiquette If you want to get involved you can email us . You can follow us and DM on Instagram and TikTok , and watch the latest episode every Tuesday and Friday on YouTube . Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9f3171a8cbeb6a63cedb9/1790260438026-31086e8f-e789-4b52-b95f-870e1ddd9cd1.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/sextedmyboss/e/6ab4e2783e818b19662c50fc/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=rsr8CZj-2vFzmCql9tDRtuBsKI9vEuNxf5ZQcLpROiQ",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "29028519",
+      "itunes_duration": "30:14",
+      "speakers": [
+        "Personal Preferences",
+        "William Hanson",
+        "Jordan North"
+      ],
+      "topics": [
+        "jordan",
+        "personal",
+        "preferences",
+        "object",
+        "upgrade"
+      ]
+    },
     {
       "key": "4e44aed5c24410d6ab2af9da354f9e0717e6cbd4",
       "title": "Help I Want To Be Locked Up | And Sexted ‘Out Of Office’...",
@@ -15112,6 +15136,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-25 — Jordan’s Personal Preferences | And Object Upgrades — speakers: Personal Preferences, William Hanson, Jordan North
 - 2026-09-22 — Help I Want To Be Locked Up | And Sexted ‘Out Of Office’... — speakers: William Hanson, Jordan North
 - 2026-09-18 — Jordan Is A Fruber?! | And How To Drop The Poo Bomb — speakers: Jordan North, William Hanson
 - 2026-09-15 — Help We’re Getting Intimate | And William is Ainsley Harriott?! — speakers: Ainsley Harriott, Jordan North, William Hanson
