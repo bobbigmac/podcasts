@@ -2,10 +2,10 @@
 
 - slug: `friday-night-comedy`
 - source: `https://podcasts.files.bbci.co.uk/p02pc9pj.rss`
-- fetched_at: `2026-09-18T20:53:59+00:00`
-- checked_at: `2026-09-18T20:53:59+00:00`
-- etag: `"400b24dfc04abb1ad6ec540239645c67"`
-- last_modified: `Fri, 18 Sep 2026 18:00:12 GMT`
+- fetched_at: `2026-09-25T21:34:21+00:00`
+- checked_at: `2026-09-25T21:34:21+00:00`
+- etag: `"e6386f55546641e54d38de9fcb051a9e"`
+- last_modified: `Fri, 25 Sep 2026 18:00:13 GMT`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -18,7 +18,7 @@
   "link": "http://www.bbc.co.uk/programmes/p02pc9pj",
   "description": "Topical comedy from the sharpest satirical minds in the business. Listen first on BBC Sounds, every Friday. Is the news driving you up the wall? You’re not alone. Let the comedians take the strain and work out what’s been funny this week. Features BBC Radio 4’s The News Quiz, Dead Ringers, The Naked Week and Too Long; Didn’t Read. Listen on BBC Sounds, seven days earlier than anywhere else, and subscribe to make sure that you don’t miss an episode.",
   "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-  "fetched_at": "2026-09-18T20:53:59+00:00",
+  "fetched_at": "2026-09-25T21:34:21+00:00",
   "owners": [],
   "common_speakers": [],
   "categories": [
@@ -26,6 +26,24 @@
     "radio"
   ],
   "episodes": [
+    {
+      "key": "d8ba78103fec02f5b1d57ba6e4a4915ec4110031",
+      "title": "The News Quiz: Ep3. The Robots Are/Aren't Coming",
+      "published_at": "2026-09-25T18:00:00+00:00",
+      "link": "http://www.bbc.co.uk/programmes/p0pb48vr",
+      "description": "Is A.I going to wipe out humanity by 2030? Will the forces of Piddington take the country hostage? Is there anyone left to support Ed Sheeran on tour? Find out the answers to all of these questions and more on this week's News Quiz! Written by Andy Zaltzman. With additional material by: Adrian Gray, Angela Channell, Jade Gebbie and Lotte Allan Producer: Pete Strauss Executive Producer: Richard Morris Production Coordinator: Giulia Lopes Mazzu Sound Editor: Marc Wilcox",
+      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
+      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pbb1b8.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "27552000",
+      "itunes_duration": "1722",
+      "speakers": [],
+      "topics": [
+        "news",
+        "quiz",
+        "robots"
+      ]
+    },
     {
       "key": "9d3fb792feaff1bab6a4b7f2babc8fc910ff2461",
       "title": "The News Quiz: Ep 2. Team Vibes vs Team Bribes",
@@ -5479,29 +5497,6 @@
         "quiz",
         "october"
       ]
-    },
-    {
-      "key": "d5eb680ccb6bb934d668a8ee4d06507101ef8df3",
-      "title": "News Quiz 24th September 2021",
-      "published_at": "2021-09-24T18:00:00+00:00",
-      "link": "http://www.bbc.co.uk/programmes/p09wwsnw",
-      "description": "Andy is joined by journalist Hugo Rifkind and comedians Susie McCabe, Ria Lina and Andrew Maxwell to dismantle and discuss the week's news, including the energy crisis, lack of Co2 and Boris's trip to the US. The script is written by host Andy Zaltzman with additional material by Alice Fraser, Mike Shephard, Rajiv Karia and Esther Manito. It is produced by Sam Michell for BBC Studios.",
-      "image_url": "http://ichef.bbci.co.uk/images/ic/3000x3000/p0lbr5kr.jpg",
-      "enclosure_url": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p09wwrsv.mp3",
-      "enclosure_type": "audio/mpeg",
-      "enclosure_length": "26704000",
-      "itunes_duration": "1669",
-      "speakers": [
-        "Hugo Rifkind",
-        "Susie McCabe",
-        "Ria Lina",
-        "Andrew Maxwell"
-      ],
-      "topics": [
-        "news",
-        "quiz",
-        "september"
-      ]
     }
   ]
 }
@@ -5510,6 +5505,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-25 — The News Quiz: Ep3. The Robots Are/Aren't Coming
 - 2026-09-18 — The News Quiz: Ep 2. Team Vibes vs Team Bribes — speakers: Team Vibes, Team Bribes Answering, Mark Steel, Zoe Lyons, Hugo Rifkind
 - 2026-09-11 — The News Quiz: Ep1. The Burnham bounce?
 - 2026-09-04 — The People Have Spoken Ep3. British Maple Syrup — speakers: Ian Smith, Cody Dahler
@@ -5769,4 +5765,3 @@
 - 2021-10-15 — News Quiz 15th October 2021 — speakers: Catherine Bohart, Michael Deacon, Chris McCausland, Eshaan Akbar, Andy Zaltzman
 - 2021-10-08 — News Quiz 8th October 2021 — speakers: Kerry Godliman, Anand Menon, Ola Labib, Andy Zaltzman
 - 2021-10-01 — News Quiz 1st October 2021 — speakers: Lucy Porter, Angela Barnes, Alun Cochrane, Matt Forde, Andy Zaltzman
-- 2021-09-24 — News Quiz 24th September 2021 — speakers: Hugo Rifkind, Susie McCabe, Ria Lina, Andrew Maxwell

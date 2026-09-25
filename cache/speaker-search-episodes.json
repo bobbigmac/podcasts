@@ -13303,6 +13303,28 @@
     ],
     "richard-herring": [
       {
+        "feed_slug": "external:apple:fd87195847f7",
+        "feed_title": "Wrong Turns with Jameela Jamil",
+        "source_rss_url": "https://feeds.acast.com/public/shows/686302e79951fac41b1d2418",
+        "dedupe_key": "7dd5fe51c15e13ffbfa59fdd05de5695578ab17c",
+        "episode_key": "7dd5fe51c15e13ffbfa59fdd05de5695578ab17c",
+        "title": "Simon Pegg and Richard Herring [ReTurn]",
+        "published_at": "2026-09-24T04:00:00Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "Jameela's back in London to hang out with comedy legends Simon Pegg (Star Trek, Shaun of the Dead, Only What We Carry) and Richard Herring (Taskmaster, Can I Have My Ball Back?, RHLSTP with Richard Herring).\nPublic nudity tales abound, we get into the risks of accidentally seeing nudes when someone else shows you somet",
+        "audio_url": "https://sphinx.acast.com/p/open/s/686302e79951fac41b1d2418/e/6ab41949cf7654f56a2d5271/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/simon-pegg-and-richard-herring-return/id1498855031?i=1000791399218&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "Richard Herring"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:8cc4a7996941",
         "feed_title": "The Chris Moyles Show on Radio X Podcast",
         "source_rss_url": "https://feeds.captivate.fm/the-chris-moyles-show",
