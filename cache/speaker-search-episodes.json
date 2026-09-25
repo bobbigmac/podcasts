@@ -41738,6 +41738,28 @@
         "external": true
       },
       {
+        "feed_slug": "external:apple:8482bb6f1a93",
+        "feed_title": "Dan Snow's History Hit",
+        "source_rss_url": "https://www.spreaker.com/show/7350351/episodes/feed",
+        "dedupe_key": "885a1b6d8b06a49075231c333b78d092a48c7fc0",
+        "episode_key": "885a1b6d8b06a49075231c333b78d092a48c7fc0",
+        "title": "England's Greatest Monarchs with David Mitchell",
+        "published_at": "2023-10-04T23:30:38Z",
+        "episode_image_url": null,
+        "feed_image_url": null,
+        "description": "David Mitchell joins Dan in today's episode to ask the all-important question - who was England's greatest monarch? From the 'overrated' William the Conqueror to the tantrum-throwing Henry VIII, anyone is up for grabs.\nProduced by Mariana Des Forges, James Hickmann and Beth Donaldson. Edited by Dougal Patmore.\nDiscover",
+        "audio_url": "https://api.spreaker.com/download/episode/75135391/media.mp3",
+        "link_url": "https://podcasts.apple.com/gb/podcast/englands-greatest-monarchs-with-david-mitchell/id6812122899?i=1000789699263&uo=4",
+        "duration_seconds": null,
+        "enclosure_bytes": null,
+        "enclosure_type": null,
+        "speakers": [
+          "David Mitchell"
+        ],
+        "topics": [],
+        "external": true
+      },
+      {
         "feed_slug": "external:apple:881ade4f3f4f",
         "feed_title": "Willy Willy Harry Stee...",
         "source_rss_url": "https://feeds.acast.com/public/shows/643708c2cf22560011db18ed",

@@ -2,9 +2,9 @@
 
 - slug: `katherine-ryan`
 - source: `https://feeds.acast.com/public/shows/95d45324-d4df-5d91-badb-bb10420ad9b4`
-- fetched_at: `2026-09-16T16:54:29+00:00`
-- checked_at: `2026-09-16T16:54:29+00:00`
-- etag: `"djEuMi4wOjE3ODk1NzEzNzc2MDk="`
+- fetched_at: `2026-09-25T17:10:03+00:00`
+- checked_at: `2026-09-25T17:10:03+00:00`
+- etag: `"djEuMi4wOjE3OTAzNDUwNjg4MDI="`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything",
   "description": "Comedian Katherine Ryan can’t help telling everybody everything. Candid chat, pettiness, phone calls, and some serious stuff too - straight from the nation’s sweetheart.",
   "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1713393546296-0aa799e7a91828b89786cad652d4ff28.jpeg",
-  "fetched_at": "2026-09-16T16:54:29+00:00",
+  "fetched_at": "2026-09-25T17:10:03+00:00",
   "owners": [
     "Katherine Ryan"
   ],
@@ -26,6 +26,27 @@
     "comedy"
   ],
   "episodes": [
+    {
+      "key": "55ef32970773644a390b8b4a0049e3b00ea6f76c",
+      "title": "The Mums WhatsApp Group",
+      "published_at": "2026-09-25T14:04:28+00:00",
+      "link": "https://shows.acast.com/katherine-ryan-telling-everybody-everything/episodes/the-mums-whatsapp-group",
+      "description": "This week, Katherine's Telling Everybody Everything about her tickets bought on a third-party website WORKING at the magnifique Celine Dion concert in Paris last week. We read listener emails about bad birthday presents, lying about sex work to your new partner, and more! Plus, comedian Andrew Johnston @mandrewbrawnston joins us from Hollywood Los Angeles with a lot of UK news actually. Meghan Markle's number was leaked from a school WhatsApp group by another Mum which begs the question: apart from no doxxing, what are the unwritten rules of the chat? The Late Princess Diana's brother releases his memoire, much to the dismay of the palace who claim that grief can alter memory and any conspiracy theories about her passing are bogus. Incase you missed it, where do you stand on 'Sisters in the City' Anna Vakili's comments about women breastfeeding their children with 'an entire boob out in a cafe' make her 'uncomfortable'? xx Hosted on Acast. See acast.com/privacy for more information.",
+      "image_url": "https://assets.pippa.io/shows/61b9b44742e8563aab985772/1790344538488-e3c656d1-f21b-41e3-babf-b76f88adc756.jpeg",
+      "enclosure_url": "https://sphinx.acast.com/p/acast/s/katherine-ryan-telling-everybody-everything/e/6ab67f6c432e34fa45283f87/media.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "85149279",
+      "itunes_duration": "59:07",
+      "speakers": [
+        "Telling Everybody Everything",
+        "Katherine Ryan"
+      ],
+      "topics": [
+        "mums",
+        "whatsapp",
+        "group"
+      ]
+    },
     {
       "key": "81aa0ecec450c31b34bc4ee781111c10a744dd98",
       "title": "Dire Tous A Tous Le Monde",
@@ -6510,6 +6531,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-25 — The Mums WhatsApp Group — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-09-16 — Dire Tous A Tous Le Monde — speakers: Dire Tous, Telling Everybody Everything, Four Seasons Hotel, Katherine Ryan
 - 2026-09-07 — The Seven Year Itch — speakers: Telling Everybody Everything, Katherine Ryan
 - 2026-08-31 — Lindsay Clancy Trial Explained — speakers: Lindsay Clancy Trial Explained, Katherine Ryan

@@ -2,9 +2,9 @@
 
 - slug: `firelink`
 - source: `https://anchor.fm/s/fe089ec8/podcast/rss`
-- fetched_at: `2026-09-18T16:23:34+00:00`
-- checked_at: `2026-09-18T16:23:34+00:00`
-- etag: `W/"3fa32-XqDaO1JYh6//nl3flzYEmEJU3Hw"`
+- fetched_at: `2026-09-25T17:10:03+00:00`
+- checked_at: `2026-09-25T17:10:03+00:00`
+- etag: `W/"4021f-GSGrS5YYOwh19mPcrnOUsNU7f8M"`
 - max_episodes_per_feed: `2000`
 
 <!-- FEED_JSON -->
@@ -17,7 +17,7 @@
   "link": "https://secondwindgroup.com/",
   "description": "Marty Sliva, Nick Calandra, and KC Nwosu are back for a brand new podcast here on Second Wind. Each week we'll be discussing the latest gaming news, hot topics, what we've been playing... and maybe even a craft beer review.",
   "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
-  "fetched_at": "2026-09-18T16:23:34+00:00",
+  "fetched_at": "2026-09-25T17:10:03+00:00",
   "owners": [
     "Marty Sliva",
     "Nick Calandra",
@@ -28,6 +28,33 @@
     "games"
   ],
   "episodes": [
+    {
+      "key": "7aa7e7c93b55e2b0c431c980722c586490aa9853",
+      "title": "Bungie's Big Reset & Halo Goes to... Activision? | Firelink Podcast",
+      "published_at": "2026-09-25T13:00:01+00:00",
+      "link": "https://podcasters.spotify.com/pod/show/firelink/episodes/Bungies-Big-Reset--Halo-Goes-to----Activision---Firelink-Podcast-e3pcjcc",
+      "description": "This week on Firelink Nick and KC chat about the big game news and releases of the week, and discuss the big Halo news that has a lot of divided opinions on the internet. Second Wind is fully independent, employee-owned and fan-funded. Consider supporting us on Patreon for as little as $1/month at patreon.com/SecondWindGroup",
+      "image_url": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42519778/4210e9eb435f2819.png",
+      "enclosure_url": "https://anchor.fm/s/fe089ec8/podcast/play/126290764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-25%2F149dc3fc-67d8-95f8-5c45-3157367b5bee.mp3",
+      "enclosure_type": "audio/mpeg",
+      "enclosure_length": "148923104",
+      "itunes_duration": "01:43:25",
+      "speakers": [
+        "Firelink Nick",
+        "Marty Sliva",
+        "Nick Calandra",
+        "KC Nwosu"
+      ],
+      "topics": [
+        "bungie",
+        "reset",
+        "halo",
+        "goes",
+        "activision",
+        "firelink",
+        "podcast"
+      ]
+    },
     {
       "key": "45a109d5ee28cf4a0f9421d2b4934c1bed57fb70",
       "title": "Why Is Marvel's Wolverine Breaking the Internet? | Firelink Podcast",
@@ -3254,6 +3281,7 @@
 
 ## Episodes (newest first)
 
+- 2026-09-25 — Bungie's Big Reset & Halo Goes to... Activision? | Firelink Podcast — speakers: Firelink Nick, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-09-18 — Why Is Marvel's Wolverine Breaking the Internet? | Firelink Podcast — speakers: Wolverine Breaking, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-09-11 — Kojima Drama, Steam's Wild Leak, and Ocarina of Time Remake Thoughts | Firelink Podcast — speakers: Kojima Drama, Marty Sliva, Nick Calandra, KC Nwosu
 - 2026-09-04 — The Fall Release Floodgates Have Opened | Firelink Podcast — speakers: Marty Sliva, Nick Calandra, KC Nwosu
